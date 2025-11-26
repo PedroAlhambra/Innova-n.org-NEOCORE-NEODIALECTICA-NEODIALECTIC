@@ -36,8 +36,9 @@ Filosofía Arquetípica Neodialéctica™ y los sistemas SAN™ y NNC™.
 Es garante de la propiedad intelectual, la genealogía y la protección teleológica
 de todo el ecosistema Innova_N.
 
-[Ir a la Wiki → Rol de la Fundación](./wiki/FUNDACION-INNOVA-N-ROL-Y-FUNCION.md)
+[Ir a la Wiki → Rol de la Fundación](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Innova_N_Fundation)
 
+---
 
 # NEOCore™ v3.6 — Public Fragment Repository  
 Innova_N · Pedro Martínez Alhambra (Fundador — Neo0™)
