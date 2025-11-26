@@ -34,7 +34,7 @@ a purpose-oriented intelligence grounded in the Archetypal Neodialectic Philosop
 and the SAN™ and NNC™ systems. It is the guardian of the intellectual property,
 genealogy, and teleological protection of the entire Innova_N ecosystem.
 
-[See the full Wiki → Foundation Role](./wiki/FOUNDATION-INNOVA-N-ROLE-AND-FUNCTION.md)
+[See the full Wiki → Foundation Role](./wiki/Innova_N_Fundation.md)
 
 ## Visible Content
 Oracular fragments, conceptual notes, and minimal teleological pieces.  
