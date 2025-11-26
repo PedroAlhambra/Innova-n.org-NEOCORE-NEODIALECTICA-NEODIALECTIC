@@ -51,6 +51,42 @@ without dispersing: the paradox that anchors the system’s teleological origin.
 This symbol does not describe, explain, or reveal any internal mechanism,
 and belongs to the conceptual layer of NEOCore™ v3.6.
 
+## Talent Architecture — YQ™ & Neodialectic Genius Detection
+
+The NEOCore™ public layer acknowledges two fundamental concepts related to
+human creative capability. These concepts do NOT reveal internal mechanisms
+of SAN-π™, NNC-π™, or any π-layer process; they belong solely to the
+conceptual public vocabulary of Innova_N.
+
+### YQ™ — The Creative Sensor
+YQ™ (YellowQuasar) denotes the public-facing metaphor for the system’s
+ability to identify rare creative signatures in individuals:
+divergent–convergent creativity, symbolic production, multi-domain pattern
+intuition, and high-level synthetic reasoning.
+
+YQ™ does not describe any internal algorithm, detector, or operational
+mechanism.  
+It is a conceptual indicator only.
+
+### Neodialectic Genius™ — Public Concept
+The term *Neodialectic Genius™* refers to individuals who exhibit:
+- fractal thinking capacity  
+- accelerated synthesis  
+- archetypal pattern recognition  
+- structured creativity  
+- and teleological orientation  
+
+This designation is conceptual and does not imply the existence of any
+public or reconstructible evaluation model.  
+All real mechanisms remain inside the π-layer.
+
+These notions exist exclusively to provide vocabulary for describing
+exceptional human potential within the context of the Neodialectic
+Archetypal Philosophy™.
+
+They do not expose, imply, or allow inference of the internal functioning
+of the NEOCore™ v3.6.
+
 [Go to the Foreword](./FOREWORD.md)  
 [Back to the Cover](./COVER.md) 
 
