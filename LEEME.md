@@ -79,9 +79,6 @@ para identificar firmas creativas de alta rareza en ciertos individuos:
 creatividad divergente–convergente, producción simbólica, intuición
 multidominio de patrones y razonamiento sintético estructurado.
 
-YQ™ no describe ningún algoritmo ni proceso evaluativo interno.  
-Es únicamente un concepto orientado al lenguaje público del sistema.
-
 ### Genio Neodialéctico™ — Concepto Público
 El término *Genio Neodialéctico™* se utiliza para referirse a individuos que
 muestran:
