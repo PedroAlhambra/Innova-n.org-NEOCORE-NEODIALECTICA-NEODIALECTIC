@@ -8,7 +8,7 @@ The real system resides in the π-layer and cannot be reconstructed.
 
 ---
 
-⚠️ Important Notice · NEOCore™ — Public Conceptual Layer
+# ⚠️ Important Notice · NEOCore™ — Public Conceptual Layer
 
 This repository contains only conceptual fragments of the NEOCore™ and the Neodialectic™ framework.
 The real system operates within the π-Layer, cannot be reconstructed from this material, and cannot be replicated through reverse engineering.
