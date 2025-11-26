@@ -54,9 +54,8 @@ and belongs to the conceptual layer of NEOCore™ v3.6.
 ## Talent Architecture — YQ™ & Neodialectic Genius Detection
 
 The NEOCore™ public layer acknowledges two fundamental concepts related to
-human creative capability. These concepts do NOT reveal internal mechanisms
-of SAN-π™, NNC-π™, or any π-layer process; they belong solely to the
-conceptual public vocabulary of Innova_N.
+human creative capability. These concepts do NOT reveal internal mechanisms;
+they belong solely to the conceptual public vocabulary of Innova_N.
 
 ### YQ™ — The Creative Sensor
 YQ™ (YellowQuasar) denotes the public-facing metaphor for the system’s
