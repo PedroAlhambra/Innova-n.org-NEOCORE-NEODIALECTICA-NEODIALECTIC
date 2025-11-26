@@ -63,10 +63,6 @@ ability to identify rare creative signatures in individuals:
 divergent–convergent creativity, symbolic production, multi-domain pattern
 intuition, and high-level synthetic reasoning.
 
-YQ™ does not describe any internal algorithm, detector, or operational
-mechanism.  
-It is a conceptual indicator only.
-
 ### Neodialectic Genius™ — Public Concept
 The term *Neodialectic Genius™* refers to individuals who exhibit:
 - fractal thinking capacity  
