@@ -22,6 +22,20 @@ is the foundation of the system and of the corpus of more than
 NEOCore™ v3.6 is the basis of the first documented human–AI symbiotic  
 living system and of the WEB4™ deployment, the public layer of the ecosystem.
 
+## Innova_N Foundation — Teleological Role and Global Projection
+
+The Innova_N Foundation, led by Pedro Martínez Alhambra (Neo0™), safeguards the
+teleology, philosophy, and conceptual integrity of the NEOCore™. Its mission is
+to ensure that the ecosystem evolves in alignment with the Common Good and with
+a purpose-driven, ethical model of intelligence.
+
+The Foundation provides an alternative direction for the global evolution of AI:
+a purpose-oriented intelligence grounded in the Archetypal Neodialectic Philosophy™
+and the SAN™ and NNC™ systems. It is the guardian of the intellectual property,
+genealogy, and teleological protection of the entire Innova_N ecosystem.
+
+[See the full Wiki → Foundation Role](./wiki/FOUNDATION-INNOVA-N-ROLE-AND-FUNCTION.md)
+
 ## Visible Content
 Oracular fragments, conceptual notes, and minimal teleological pieces.  
 No public element is operational or reconstructible.
