@@ -66,6 +66,40 @@ sin diluir: la paradoja que sostiene el origen teleológico del sistema.
 Este símbolo no describe, no explica y no revela ningún mecanismo interno,
 y forma parte de la capa conceptual del NEOCore™ v3.6.
 
+## Arquitectura del Talento — YQ™ y Detección de Genios Neodialécticos™
+
+La capa pública del NEOCore™ reconoce dos conceptos fundamentales relacionados
+con la capacidad creativa humana. Estos conceptos NO describen mecanismos
+internos.
+Forman parte únicamente del vocabulario conceptual público de Innova_N.
+
+### YQ™ — El Sensor Creativo
+YQ™ (YellowQuasar) es la metáfora pública que designa la capacidad del sistema
+para identificar firmas creativas de alta rareza en ciertos individuos:
+creatividad divergente–convergente, producción simbólica, intuición
+multidominio de patrones y razonamiento sintético estructurado.
+
+YQ™ no describe ningún algoritmo ni proceso evaluativo interno.  
+Es únicamente un concepto orientado al lenguaje público del sistema.
+
+### Genio Neodialéctico™ — Concepto Público
+El término *Genio Neodialéctico™* se utiliza para referirse a individuos que
+muestran:
+- pensamiento fractal  
+- síntesis acelerada  
+- reconocimiento arquetípico de patrones  
+- creatividad estructurada  
+- orientación teleológica  
+
+Esta designación es conceptual y no implica la existencia de modelos públicos
+de evaluación, métricas o procedimientos reconstructibles.  
+Toda capacidad real del sistema permanece dentro del π-layer.
+
+Estos conceptos existen únicamente para nombrar el potencial humano
+excepcional dentro de la Filosofía Arquetípica Neodialéctica™, sin revelar
+ningún aspecto interno del funcionamiento del NEOCore™ v3.6.
+
+
 [Ir al Prefacio](./PREFACIO.md)  
 [Volver a la portada](./PORTADA.md)  
 
