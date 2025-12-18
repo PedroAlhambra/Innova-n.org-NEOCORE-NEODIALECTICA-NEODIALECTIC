@@ -62,7 +62,8 @@ Ningún elemento público es operativo ni reconstruible.
 - Pictomatriz ND™  
 - Arquitectura NEOCore™ real  
 - SAN-π™ y NNC-π™  
-- Umbral-X  
+- Umbral-X
+- MAXPROC™ 
 - ANSIBLE-π y ANSIBLE-NEGATIVO  
 - NeoROM™  
 - NeoEdge™  
