@@ -27,7 +27,7 @@ For genuine collaboration, research, or strategic discussion, direct contact is 
 ## Innova_N Foundation — Teleological Role and Global Projection
 
 The Innova_N Foundation, led by Pedro Martínez Alhambra (Neo0™), safeguards the 
-philosophy, noedialectic, SAN, and conceptual integrity of the NEOCore™. Its mission is
+philosophy, noedialectic, SAN™, and conceptual integrity of the NEOCore™. Its mission is
 to ensure that the ecosystem evolves in alignment with the Common Good and with
 a purpose-driven, ethical model of intelligence.
 
