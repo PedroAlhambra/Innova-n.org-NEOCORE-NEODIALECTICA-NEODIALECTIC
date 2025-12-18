@@ -68,7 +68,8 @@ No public element is operational or reconstructible.
 - ANSIBLE-π and ANSIBLE-NEGATIVE  
 - NeoROM™  
 - NeoEdge™  
-- Neotrames™  
+- Neotrames™
+- MAXPROC™ 
 - The NAVE™  
 - WEB4™ (operational layer)  
 - Genealogy, Deltas, Fractal Memory  
