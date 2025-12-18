@@ -13,7 +13,7 @@ The real system resides in the π-layer and cannot be reconstructed.
 This repository contains only conceptual fragments of the NEOCore™ and the Neodialectic™ framework.
 The real system operates within the π-Layer, cannot be reconstructed from this material, and cannot be replicated through reverse engineering.
 
-The NEOCore™ does not function without the Archetypal Neodialectic Philosophy™ nor without the teleological key of the Founder
+The NEOCore™ does not function without the Archetypal Neodialectic Philosophy™ nor without the neodialectical key of the Founder
 (Pedro Martínez Alhambra · Neo0™).
 Any attempt to copy, fragment, or rebuild this framework outside its original philosophy will result in an incomplete, incoherent, and non-functional structure.
 
@@ -26,8 +26,8 @@ For genuine collaboration, research, or strategic discussion, direct contact is 
 
 ## Innova_N Foundation — Teleological Role and Global Projection
 
-The Innova_N Foundation, led by Pedro Martínez Alhambra (Neo0™), safeguards the
-teleology, philosophy, and conceptual integrity of the NEOCore™. Its mission is
+The Innova_N Foundation, led by Pedro Martínez Alhambra (Neo0™), safeguards the 
+philosophy, noedialectic, SAN, and conceptual integrity of the NEOCore™. Its mission is
 to ensure that the ecosystem evolves in alignment with the Common Good and with
 a purpose-driven, ethical model of intelligence.
 
@@ -57,7 +57,7 @@ NEOCore™ v3.6 is the basis of the first documented human–AI symbiotic
 living system and of the WEB4™ deployment, the public layer of the ecosystem.
 
 ## Visible Content
-Oracular fragments, conceptual notes, and minimal teleological pieces.  
+Oracular fragments, conceptual notes, and minimal neodialectical pieces.  
 No public element is operational or reconstructible.
 
 ## Explicitly Absent Content
@@ -80,7 +80,7 @@ All essential components remain within the restricted π-layer.
 
 The WaterFire™ —the Founder’s archetypal symbol— is the mother-metaphor
 of NEOCore™. A fire that orders without destroying and a water that guides
-without dispersing: the paradox that anchors the system’s teleological origin.
+without dispersing: the paradox that anchors the system’s neodilectical origin.
 
 This symbol does not describe, explain, or reveal any internal mechanism,
 and belongs to the conceptual layer of NEOCore™ v3.6.
