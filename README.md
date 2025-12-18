@@ -6,6 +6,9 @@ The real system resides in the π-layer and cannot be reconstructed.
 [Go to Innova-N LinkedIn](https://www.linkedin.com/company/innova-n/)  
 [Go to Innova-N Proto Web — In Development → WEB4](https://innova-n.org)
 
+
+[Ir al Leemé Original en Castellaño](./LEEME.md)  
+
 ---
 
 # ⚠️ Important Notice · NEOCore™ — Public Conceptual Layer
