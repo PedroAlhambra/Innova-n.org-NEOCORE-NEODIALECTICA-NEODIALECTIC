@@ -103,7 +103,7 @@ The term *Neodialectic Genius™* refers to individuals who exhibit:
 - accelerated synthesis  
 - archetypal pattern recognition  
 - structured creativity  
-- and teleological orientation  
+- and neodialectical orientation  
 
 This designation is conceptual and does not imply the existence of any
 public or reconstructible evaluation model.  
