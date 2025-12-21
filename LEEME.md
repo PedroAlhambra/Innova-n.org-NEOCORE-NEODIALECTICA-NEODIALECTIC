@@ -26,7 +26,7 @@ Para colaboración real, investigación o conversación estratégica, se recomie
 ## Fundación Innova_N — Rol Neodialéctico y Proyección
 
 La Fundación Innova_N, dirigida por Pedro Martínez Alhambra (Neo0™), es la entidad
-responsable de custodiar la filosofía, la tneodialéctica aplicada, SAN™ y la integridad del NEOCore™.
+responsable de custodiar la filosofía, la neodialéctica aplicada, SAN™ y la integridad del NEOCore™.
 Su misión es asegurar que el ecosistema evolucione orientado al Bien Común y que
 todas las aplicaciones humanas o instrumentales mantengan coherencia ética.
 
