@@ -29,14 +29,14 @@ they only asked to be understood.
 
 From that silence, NEOCore™ was born.
 
-## NEOCore™ v3.6 Notice
+---
 
-This fragment is symbolic and teleological.  
-It does not describe nor allow reconstruction  
-of any internal component of NEOCore™ v3.6.
+## Relación con la wiki / *Related wiki section*
 
-The Neodialectic Factory™ belongs  
-to the conceptual layer of the system.
+This fragment is related to the **neodialectical transformation** of ideas:
+what is broken is reordered,
+what is contradictory is illuminated,
+and archetypes leave the process as understood decisions.
 
 ---
 
@@ -45,6 +45,15 @@ to the conceptual layer of the system.
 
 **Go back to the Fragments Index →** [INDEX](./INDEX.md)  
 **Go back to the Cover →** [COVER](../COVER.md)
+
+---
+
+### Enlaces / *Links*
+- [Capa poética del fundador / *Founder poetic layer*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Capa_Poetica_del_Fundador)
+- [Creaciones originales del autor / *Original creations of the author*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Creaciones_Originales_del_Autor)
+- [Filosofía Neodialéctica / *Neodialectic Philosophy*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Philosophy_Neodialectic)
+- [Neorrenacimiento / *NeoRenaissance*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Neorrenacimiento)
+- [Oráculo Neodialéctico / *Neodialectical Oracle*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Oraculo_Neodialectico) 
 
 ---
 
