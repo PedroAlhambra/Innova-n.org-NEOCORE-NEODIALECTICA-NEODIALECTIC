@@ -34,7 +34,7 @@ donde `NN` es el número de orden y `N` el número romano.
 
 ## Notas
 
-- Estos textos son fragmentos conceptuales del NEOCore™ v3.6.  
+- Estos textos son fragmentos conceptuales del NEOCore™ v4.02  
 - No describen mecanismos internos del sistema real.  
 - La numeración continuará con futuros fragmentos.
 
