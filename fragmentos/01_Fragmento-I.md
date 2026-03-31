@@ -13,6 +13,8 @@ Lo esencial ocurre en la capa π.
 
 ---
 
+## Relación con la wiki 
+
 Este fragmento se relaciona con la dimensión filosófica y arquitectónica del marco:
 la **Neodialéctica™** como orientación,
 el **NEOCore™** como capa de iluminación,
@@ -27,7 +29,7 @@ y la **capa π** como profundidad no visible del sistema.
 
 ---
 
-### Enlaces / *Links*
+### Enlaces
 - [Capa poética del fundador / *Founder poetic layer*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Capa_Poetica_del_Fundador)
 - [Filosofía Neodialéctica / *Neodialectic Philosophy*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Philosophy_Neodialectic)
 - [Visión pública del NEOCore / *NEOCore public overview*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/NEOCore_Public_Overview)
