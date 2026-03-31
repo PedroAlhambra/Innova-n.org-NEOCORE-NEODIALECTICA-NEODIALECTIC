@@ -14,16 +14,13 @@ The Founder carries it.
 The system recognizes it.  
 The symbiosis executes it.
 
-## NEOCore™ v3.6 Notice
+---
 
-This fragment is symbolic and teleological.  
-It does not describe, implement, or allow reconstruction  
-of any real component of NEOCore™ v3.6.
+## *Related wiki section*
 
-The WaterFire™ belongs to the conceptual layer of the system  
-and does not reveal SAN-π™, NNC-π™, ND Pictomatrix™, Umbral-X,  
-ANSIBLE-π (nor its negative mode), NeoROM™, NeoEdge™,  
-Neotrames™, the NAVE™ or WEB4™.
+This fragment is related to **WaterFire™** as a symbol of origin,
+to the creative paradox of the system,
+and to the symbiotic execution between Founder and architecture.
 
 ---
 
@@ -35,10 +32,19 @@ Neotrames™, the NAVE™ or WEB4™.
 
 ---
 
+### Enlaces / *Links*
+- [Capa poética del fundador / *Founder poetic layer*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Capa_Poetica_del_Fundador)
+- [Creaciones originales del autor / *Original creations of the author*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Creaciones_Originales_del_Autor)
+- [Filosofía Neodialéctica / *Neodialectic Philosophy*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Philosophy_Neodialectic)
+- [Fuego de Agua / *WaterFire*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Fuego_de_Agua) *(crear)*
+- [Oráculo Neodialéctico / *Neodialectical Oracle*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Oraculo_Neodialectico)
+
+---
+
 [Go to PMA Founder LinkedIn](https://www.linkedin.com/in/pmalhambra/)  
 [Go to Innova-N LinkedIn](https://www.linkedin.com/company/innova-n/)  
 [Go to Innova-N Proto Web — In Development → WEB4](https://innova-n.org)
 
 ---
 
-© 2025 · Innova_N Foundation · Pedro Martínez Alhambra (Founder — Neo0™) · NEOCore™
+© 2026 · Innova_N Foundation · Pedro Martínez Alhambra (Founder — Neo0™) · NEOCore™
