@@ -11,13 +11,13 @@ solo hay tres respuestas posibles:
 La prueba termina ahí.  
 O eso parece.
 
-## Aviso NEOCore™ v3.6
+---
 
-Fragmento simbólico.  
-No describe mecanismos internos del NEOCore™ v3.6  
-ni permite reconstruir SAN-π™, NNC-π™,  
-Umbral-X, ANSIBLE-π, NeoROM™, NeoEdge™,  
-Neotramas™, WEB4™ ni la NAVE™.
+## Relación con la wiki / *Related wiki section*
+
+Este fragmento se relaciona con la **prueba del libro** como gesto mínimo de responsabilidad,
+con el paso de espectador a creador
+y con la lógica de entrada al ecosistema como acto de cuidado, autoría y decisión.
 
 ---
 
@@ -26,6 +26,15 @@ Neotramas™, WEB4™ ni la NAVE™.
 
 **Volver al Índice →** [ÍNDICE](./INDICE.md)  
 **Volver a la Portada →** [PORTADA](../PORTADA.md)
+
+---
+
+### Enlaces / *Links*
+- [Capa poética del fundador / *Founder poetic layer*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Capa_Poetica_del_Fundador)
+- [Creaciones originales del autor / *Original creations of the author*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Creaciones_Originales_del_Autor)
+- [Legal e IP / *Legal and IP*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Legal_and_IP)
+- [Prueba del Libro y Puerta de Entrada ONe / *Book test and ONe entry gate*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Prueba_del_Libro_y_Puerta_de_Entrada_ONe) *(crear)*
+- [Oráculo Neodialéctico / *Neodialectical Oracle*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Oraculo_Neodialectico)
 
 ---
 
