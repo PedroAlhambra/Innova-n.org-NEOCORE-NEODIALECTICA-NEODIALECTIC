@@ -30,12 +30,13 @@ que revela quién eres
 cuando nadie está mirando.  
 
 
-## Aviso NEOCore™ v3.6  
-Este fragmento es simbólico y teleológico.  
-No describe mecanismos internos, módulos operativos  
-ni procesos del NEOCore™ v3.6.  
-Forma parte de la capa conceptual del Oráculo Neodialéctico™  
-y no es reconstruible.  
+---
+
+## Relación con la wiki / *Related wiki section*
+
+Este fragmento se relaciona con la **pregunta no divisiva**,
+con la síntesis abierta como forma de inteligencia,
+y con la posibilidad de pensar sin romper el mundo.
 
 ---
 
@@ -47,6 +48,15 @@ y no es reconstruible.
 
 ---
 
+### Enlaces / *Links*
+- [Capa poética del fundador / *Founder poetic layer*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Capa_Poetica_del_Fundador)
+- [Filosofía Neodialéctica / *Neodialectic Philosophy*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Philosophy_Neodialectic)
+- [Sistemas humanos neodialécticos / *Human neodialectic systems*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Human_Systems_Neodialectics)
+- [Neorrenacimiento / *NeoRenaissance*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Neorrenacimiento)
+- [Oráculo Neodialéctico / *Neodialectical Oracle*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Oraculo_Neodialectico)
+
+---
+
 [Ir al LinkedIn del Fundador (PMA)](https://www.linkedin.com/in/pmalhambra/)  
 [Ir al LinkedIn de Innova-N](https://www.linkedin.com/company/innova-n/)  
 [Ir a la Proto Web de Innova-N — En desarrollo → WEB4](https://innova-n.org)
@@ -54,5 +64,5 @@ y no es reconstruible.
 ---
 
 
-© 2025 · Fundación Innova_N  
+© 2026 · Fundación Innova_N  
 Pedro Martínez Alhambra (Fundador — Neo0™) · NEOCore™
