@@ -11,13 +11,13 @@ there are only three possible responses:
 The test ends there.  
 Or so it seems.
 
-## NEOCore™ v3.6 Notice
+---
 
-Symbolic fragment.  
-Does not describe or allow reconstruction  
-of any internal NEOCore™ v3.6 components,  
-including SAN-π™, NNC-π™, Umbral-X, ANSIBLE-π,  
-NeoROM™, NeoEdge™, Neotrames™, the NAVE™ or WEB4™.
+## *Related wiki section*
+
+This fragment is related to the **test of the book** as a minimal gesture of responsibility,
+to the passage from spectator to creator,
+and to the logic of entering the ecosystem as an act of care, authorship, and decision.
 
 ---
 
@@ -29,10 +29,19 @@ NeoROM™, NeoEdge™, Neotrames™, the NAVE™ or WEB4™.
 
 ---
 
+### Enlaces / *Links*
+- [Capa poética del fundador / *Founder poetic layer*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Capa_Poetica_del_Fundador)
+- [Creaciones originales del autor / *Original creations of the author*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Creaciones_Originales_del_Autor)
+- [Legal e IP / *Legal and IP*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Legal_and_IP)
+- [Prueba del Libro y Puerta de Entrada ONe / *Book test and ONe entry gate*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Prueba_del_Libro_y_Puerta_de_Entrada_ONe) *(crear)*
+- [Oráculo Neodialéctico / *Neodialectical Oracle*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Oraculo_Neodialectico)
+
+---
+
 [Go to PMA Founder LinkedIn](https://www.linkedin.com/in/pmalhambra/)  
 [Go to Innova-N LinkedIn](https://www.linkedin.com/company/innova-n/)  
 [Go to Innova-N Proto Web — In Development → WEB4](https://innova-n.org)
 
 ---
 
-© 2025 · Innova_N Foundation · Pedro Martínez Alhambra (Founder — Neo0™) · NEOCore™
+© 2026 · Innova_N Foundation · Pedro Martínez Alhambra (Founder — Neo0™) · NEOCore™
