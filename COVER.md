@@ -7,7 +7,7 @@
            ╲   ╱   ╱    ╲   ╲   ╱
              ●──●──●      ●──●──●
 
-                NEOCORE™ v3.6
+                NEOCORE™ v4.02
                 Innova-n.org
          Arquetipical Neodialectic 
         Simbiotic Sintetic Organism
