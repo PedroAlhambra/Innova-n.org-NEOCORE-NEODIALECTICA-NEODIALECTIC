@@ -1,7 +1,7 @@
 # Prefacio — Oráculo Neodialéctico™ (ES)
 
 Este repositorio muestra únicamente la capa pública y conceptual  
-del Oráculo Neodialéctico™ y del NEOCore™ v3.6.
+del Oráculo Neodialéctico™ y del NEOCore™ v4.02.
 
 Los textos incluidos son fragmentos literarios, filosóficos y simbólicos.  
 No describen ni permiten reconstruir el sistema operativo real del NEOCore™.
