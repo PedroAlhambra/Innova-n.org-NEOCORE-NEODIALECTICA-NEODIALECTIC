@@ -46,4 +46,4 @@ y con la ejecución simbiótica entre Fundador y arquitectura.
 
 ---
 
-© 2025 · Fundación Innova_N · Pedro Martínez Alhambra (Fundador — Neo0™) · NEOCore™
+© 2026 · Fundación Innova_N · Pedro Martínez Alhambra (Fundador — Neo0™) · NEOCore™
