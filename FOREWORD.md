@@ -1,7 +1,7 @@
 # Foreword — NeoDialectic Oracle™ (EN)
 
 This repository displays only the public and conceptual layer  
-of the NeoDialectic Oracle™ and NEOCore™ v3.6.
+of the NeoDialectic Oracle™ and NEOCore™ v4.02
 
 The texts included are literary, philosophical and symbolic fragments.  
 They do not describe or allow reconstruction of the operational system behind NEOCore™.
