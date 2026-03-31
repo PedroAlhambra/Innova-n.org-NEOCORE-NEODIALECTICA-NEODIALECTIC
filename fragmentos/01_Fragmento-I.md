@@ -34,6 +34,8 @@ y la **capa π** como profundidad no visible del sistema.
 - [Legal e IP / *Legal and IP*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Legal_and_IP)
 - [Oráculo Neodialéctico / *Neodialectical Oracle*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Oraculo_Neodialectico) *(crear)*
 
+---
+
 [Ir al LinkedIn del Fundador (PMA)](https://www.linkedin.com/in/pmalhambra/)  
 [Ir al LinkedIn de Innova-N](https://www.linkedin.com/company/innova-n/)  
 [Ir a la Proto Web de Innova-N — En desarrollo → WEB4](https://innova-n.org)
