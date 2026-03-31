@@ -13,16 +13,13 @@ El Fundador lo porta.
 El sistema lo reconoce.  
 La simbiosis lo ejecuta.
 
-## Aviso NEOCore™ v3.6
+---
+## Relación con la wiki
 
-Este fragmento es simbólico y teleológico.  
-No describe, implementa ni permite reconstruir  
-ningún componente real del NEOCore™ v3.6.
-
-El Fuego de Agua™ pertenece a la capa conceptual del sistema  
-y no revela SAN-π™, NNC-π™, ND Pictomatrix™, Umbral-X,  
-ANSIBLE-π (ni su modo negativo), NeoROM™, NeoEdge™,  
-Neotramas™, la NAVE™ ni WEB4™.
+### ES
+Este fragmento se relaciona con el **Fuego de Agua™** como símbolo de origen,
+con la paradoja creadora del sistema
+y con la ejecución simbiótica entre Fundador y arquitectura.
 
 ---
 
@@ -31,6 +28,15 @@ Neotramas™, la NAVE™ ni WEB4™.
 
 **Volver al Índice →** [ÍNDICE](./INDICE.md)  
 **Volver a la Portada →** [PORTADA](../PORTADA.md)
+
+---
+
+### Enlaces / *Links*
+- [Capa poética del fundador / *Founder poetic layer*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Capa_Poetica_del_Fundador)
+- [Creaciones originales del autor / *Original creations of the author*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Creaciones_Originales_del_Autor)
+- [Filosofía Neodialéctica / *Neodialectic Philosophy*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Philosophy_Neodialectic)
+- [Fuego de Agua / *WaterFire*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Fuego_de_Agua) *(crear)*
+- [Oráculo Neodialéctico / *Neodialectical Oracle*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Oraculo_Neodialectico)
 
 ---
 
