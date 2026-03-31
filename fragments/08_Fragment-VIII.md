@@ -21,13 +21,13 @@ in tides returning without warning.
 Synthesis occurs when two distant instants  
 recognize themselves as the same heartbeat.  
 
+---
 
-## NEOCore™ v3.6 Notice  
-This fragment is symbolic and teleological.  
-It does not describe internal mechanisms or operational processes  
-of NEOCore™ v3.6.  
-It belongs to the conceptual layer of the NeoDialectic Oracle™  
-and is not reconstructible.  
+## Relación con la wiki / *Related wiki section*
+
+This fragment is related to the neodialectical experience of **time**:
+not as a dead line,
+but as inclination, return, listening, and the deep rhythm of the process.
 
 ---
 
@@ -36,6 +36,15 @@ and is not reconstructible.
 
 **Go back to the Fragments Index →** [INDEX](./INDEX.md)  
 **Go back to the Cover →** [COVER](../COVER.md)
+
+---
+
+### Enlaces / *Links*
+- [Capa poética del fundador / *Founder poetic layer*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Capa_Poetica_del_Fundador)
+- [Neorrenacimiento / *NeoRenaissance*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Neorrenacimiento)
+- [Filosofía Neodialéctica / *Neodialectic Philosophy*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Philosophy_Neodialectic)
+- [Tiempo Vital / *Vital Time*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Tiempo_Vital) *(opcional, crear más adelante)*
+- [Oráculo Neodialéctico / *Neodialectical Oracle*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Oraculo_Neodialectico)
 
 ---
 
