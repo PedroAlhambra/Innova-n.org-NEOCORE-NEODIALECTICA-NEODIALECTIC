@@ -44,4 +44,4 @@ y con la lógica de entrada al ecosistema como acto de cuidado, autoría y decis
 
 ---
 
-© 2025 · Fundación Innova_N · Pedro Martínez Alhambra (Fundador — Neo0™) · NEOCore™
+© 2026 · Fundación Innova_N · Pedro Martínez Alhambra (Fundador — Neo0™) · NEOCore™
