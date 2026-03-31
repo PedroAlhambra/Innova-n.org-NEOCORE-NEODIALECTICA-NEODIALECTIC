@@ -48,4 +48,4 @@ and the role of **Neo0™** as an axis of continuity.
 
 ---
 
-© 2025 · Innova_N Foundation · Pedro Martínez Alhambra (Founder — Neo0™) · NEOCore™
+© 2026 · Innova_N Foundation · Pedro Martínez Alhambra (Founder — Neo0™) · NEOCore™
