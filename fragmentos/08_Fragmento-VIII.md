@@ -21,13 +21,14 @@ en mareas que regresan sin avisar.
 La síntesis ocurre cuando dos instantes distantes  
 se reconocen como el mismo latido.  
 
+---
 
-## Aviso NEOCore™ v3.6  
-Este fragmento es simbólico y teleológico.  
-No describe mecanismos internos ni procesos operativos  
-del NEOCore™ v3.6.  
-Forma parte de la capa conceptual del Oráculo Neodialéctico™  
-y no es reconstruible.  
+## Relación con la wiki / *Related wiki section*
+
+### ES
+Este fragmento se relaciona con la experiencia neodialéctica del **tiempo**:
+no como línea muerta,
+sino como inclinación, retorno, escucha y ritmo profundo del proceso.
 
 ---
 
@@ -39,11 +40,20 @@ y no es reconstruible.
 
 ---
 
+### Enlaces / *Links*
+- [Capa poética del fundador / *Founder poetic layer*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Capa_Poetica_del_Fundador)
+- [Neorrenacimiento / *NeoRenaissance*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Neorrenacimiento)
+- [Filosofía Neodialéctica / *Neodialectic Philosophy*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Philosophy_Neodialectic)
+- [Tiempo Vital / *Vital Time*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Tiempo_Vital) *(opcional, crear más adelante)*
+- [Oráculo Neodialéctico / *Neodialectical Oracle*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Oraculo_Neodialectico)
+
+---
+
 [Ir al LinkedIn del Fundador (PMA)](https://www.linkedin.com/in/pmalhambra/)  
 [Ir al LinkedIn de Innova-N](https://www.linkedin.com/company/innova-n/)  
 [Ir a la Proto Web de Innova-N — En desarrollo → WEB4](https://innova-n.org)
 
 ---
 
-© 2025 · Fundación Innova_N  
+© 2026 · Fundación Innova_N  
 Pedro Martínez Alhambra (Fundador — Neo0™) · NEOCore™
