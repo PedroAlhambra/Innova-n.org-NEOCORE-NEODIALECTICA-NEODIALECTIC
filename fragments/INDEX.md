@@ -28,5 +28,5 @@ NeoDialectic Oracle™ in English.
 ---
 
 ### © 2026 · Innova_N Foundation  
-Pedro Martínez Alhambra (Founder — Neo0™) · NEOCore™ v3.6  
+Pedro Martínez Alhambra (Founder — Neo0™) · NEOCore™ v4.02  
 This index is symbolic. Internal mechanisms are not described.
