@@ -44,4 +44,4 @@ y la **capa π** como profundidad no visible del sistema.
 
 ---
 
-© 2025 · Fundación Innova_N · Pedro Martínez Alhambra (Fundador — Neo0™) · NEOCore™
+© 2026 · Fundación Innova_N · Pedro Martínez Alhambra (Fundador — Neo0™) · NEOCore™
