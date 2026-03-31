@@ -229,6 +229,20 @@ Este repositorio se complementa con la **wiki pública de Innova_N**, donde se o
 
 This repository is complemented by the **public wiki of Innova_N**, where the conceptual, documentary, and traceable layer of the ecosystem is organized.
 
+## Trazabilidad pública / *Public traceability*
+
+La trazabilidad pública actual del ecosistema se apoya en tres capas visibles y recíprocamente enlazadas:
+
+- **innova-n.org** → huella pública previa del marco, incluyendo el sellado de **Core 3.2.0**  
+- **repositorio GitHub** → fragmentos, documentos base y estructura pública mínima  
+- **wiki pública** → organización conceptual, documental y autoral del marco
+
+### Enlaces principales / *Main links*
+- [innova-n.org](https://innova-n.org)
+- [Wiki pública / *Public wiki*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
+- [Legal e IP / *Legal and IP*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Legal_and_IP)
+- [Capa poética del fundador / *Founder poetic layer*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Capa_Poetica_del_Fundador)
+
 ### Enlaces principales / *Main links*
 - [Inicio / *Home*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
 - [Marco previo y evidencia externa / *Prior framework and external evidence*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Marco_Previo_y_Evidencia_Externa)
