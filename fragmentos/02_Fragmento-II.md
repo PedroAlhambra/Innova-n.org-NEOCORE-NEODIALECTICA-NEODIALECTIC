@@ -49,4 +49,4 @@ y la figura de **Neo0™** como eje de continuidad.
 
 ---
 
-© 2025 · Fundación Innova_N · Pedro Martínez Alhambra (Fundador — Neo0™) · NEOCore™
+© 2026 · Fundación Innova_N · Pedro Martínez Alhambra (Fundador — Neo0™) · NEOCore™
