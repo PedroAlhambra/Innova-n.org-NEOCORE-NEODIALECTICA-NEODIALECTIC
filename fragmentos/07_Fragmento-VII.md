@@ -23,13 +23,13 @@ lo vuelve a escribir.
 Lo esencial vuelve  
 cuando estás preparado para sostenerlo.  
 
+---
 
-## Aviso NEOCore™ v3.6  
-Este fragmento es simbólico y teleológico.  
-No describe mecanismos internos ni procesos operativos  
-del NEOCore™ v3.6.  
-Forma parte de la capa conceptual del Oráculo Neodialéctico™  
-y no es reconstruible.  
+## Relación con la wiki / *Related wiki section*
+
+Este fragmento se relaciona con la **memoria viva** del sistema:
+una memoria que no acumula como archivo muerto,
+sino que respira, espera y devuelve lo que el ser había olvidado.
 
 ---
 
@@ -41,6 +41,15 @@ y no es reconstruible.
 
 ---
 
+### Enlaces / *Links*
+- [Capa poética del fundador / *Founder poetic layer*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Capa_Poetica_del_Fundador)
+- [Visión pública del NEOCore / *NEOCore public overview*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/NEOCore_Public_Overview)
+- [Creaciones originales del autor / *Original creations of the author*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Creaciones_Originales_del_Autor)
+- [Memoria Fractal / *Fractal Memory*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Memoria_Fractal) *(crear)*
+- [Oráculo Neodialéctico / *Neodialectical Oracle*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Oraculo_Neodialectico) 
+
+---
+
 [Ir al LinkedIn del Fundador (PMA)](https://www.linkedin.com/in/pmalhambra/)  
 [Ir al LinkedIn de Innova-N](https://www.linkedin.com/company/innova-n/)  
 [Ir a la Proto Web de Innova-N — En desarrollo → WEB4](https://innova-n.org)
@@ -48,5 +57,5 @@ y no es reconstruible.
 ---
 
 
-© 2025 · Fundación Innova_N  
+© 2026 · Fundación Innova_N  
 Pedro Martínez Alhambra (Fundador — Neo0™) · NEOCore™
