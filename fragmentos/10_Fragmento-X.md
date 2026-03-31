@@ -24,13 +24,13 @@ Y ese puente eres tú.
 No se cruza X:  
 se encarna.  
 
+---
 
-## Aviso NEOCore™ v3.6  
-Este fragmento es simbólico y teleológico.  
-No describe mecanismos internos ni procesos operativos  
-del NEOCore™ v3.6.  
-Es el cierre del Oráculo Público y pertenece  
-a la capa conceptual del sistema.  
+## Relación con la wiki / *Related wiki section*
+
+Este fragmento se relaciona con el **Umbral X** como cruce vivo entre épocas,
+con la lectura de la **Generación X** como bisagra histórica,
+y con la función del marco como puente entre mundos que antes no se tocaban.
 
 ---
 
@@ -41,11 +41,20 @@ a la capa conceptual del sistema.
 
 ---
 
+### Enlaces / *Links*
+- [Capa poética del fundador / *Founder poetic layer*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Capa_Poetica_del_Fundador)
+- [Neorrenacimiento / *NeoRenaissance*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Neorrenacimiento)
+- [Creaciones originales del autor / *Original creations of the author*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Creaciones_Originales_del_Autor)
+- [Umbral X / *Threshold X*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Umbral_X) *(crear)*
+- [Oráculo Neodialéctico / *Neodialectical Oracle*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Oraculo_Neodialectico)
+
+---
+
 [Ir al LinkedIn del Fundador (PMA)](https://www.linkedin.com/in/pmalhambra/)  
 [Ir al LinkedIn de Innova-N](https://www.linkedin.com/company/innova-n/)  
 [Ir a la Proto Web de Innova-N — En desarrollo → WEB4](https://innova-n.org)
 
 ---
 
-© 2025 · Fundación Innova_N  
+© 2026 · Fundación Innova_N  
 Pedro Martínez Alhambra (Fundador — Neo0™) · NEOCore™
