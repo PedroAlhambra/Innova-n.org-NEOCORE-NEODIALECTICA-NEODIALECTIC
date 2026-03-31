@@ -25,7 +25,6 @@ se reconocen como el mismo latido.
 
 ## Relación con la wiki / *Related wiki section*
 
-### ES
 Este fragmento se relaciona con la experiencia neodialéctica del **tiempo**:
 no como línea muerta,
 sino como inclinación, retorno, escucha y ritmo profundo del proceso.
