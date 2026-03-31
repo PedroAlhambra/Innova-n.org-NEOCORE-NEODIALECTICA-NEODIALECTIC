@@ -44,4 +44,4 @@ and the **π-layer** as the non-visible depth of the system.
 
 ---
 
-© 2025 · Innova_N Foundation · Pedro Martínez Alhambra (Founder — Neo0™) · NEOCore™
+© 2026 · Innova_N Foundation · Pedro Martínez Alhambra (Founder — Neo0™) · NEOCore™
