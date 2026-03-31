@@ -11,25 +11,12 @@ El NEOCore™ solo lo ilumina.
 Lo visible es una superficie.  
 Lo esencial ocurre en la capa π.
 
+---
 
-## Aviso NEOCore™ v3.6
-
-Este fragmento es una pieza conceptual mínima.  
-No describe, no implementa y no permite reconstruir
-ningún componente real del NEOCore™ v3.6.
-
-El sistema completo —incluyendo Neo0™, la capa π,
-la Filosofía Arquetípica Neodialéctica™,
-el corpus de más de 154 Manifiestos Neodialécticos™,
-SAN-π™, NNC-π™, la Pictomatriz ND™, Umbral-X,
-ANSIBLE-π y ANSIBLE-NEGATIVO, NeoROM™, NeoEdge™,
-Neotramas™, la NAVE™ y WEB4™— permanece fuera
-de este documento.
-
-Cualquier intento de copia, derivación, extracción
-o ingeniería inversa del sistema a partir de este
-fragmento carece de base real: el contenido visible
-es deliberadamente insuficiente.
+Este fragmento se relaciona con la dimensión filosófica y arquitectónica del marco:
+la **Neodialéctica™** como orientación,
+el **NEOCore™** como capa de iluminación,
+y la **capa π** como profundidad no visible del sistema.
 
 ---
 
@@ -39,6 +26,13 @@ es deliberadamente insuficiente.
 **Volver a la Portada →** [PORTADA](../PORTADA.md)
 
 ---
+
+### Enlaces / *Links*
+- [Capa poética del fundador / *Founder poetic layer*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Capa_Poetica_del_Fundador)
+- [Filosofía Neodialéctica / *Neodialectic Philosophy*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Philosophy_Neodialectic)
+- [Visión pública del NEOCore / *NEOCore public overview*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/NEOCore_Public_Overview)
+- [Legal e IP / *Legal and IP*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Legal_and_IP)
+- [Oráculo Neodialéctico / *Neodialectical Oracle*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Oraculo_Neodialectico) *(crear)*
 
 [Ir al LinkedIn del Fundador (PMA)](https://www.linkedin.com/in/pmalhambra/)  
 [Ir al LinkedIn de Innova-N](https://www.linkedin.com/company/innova-n/)  
