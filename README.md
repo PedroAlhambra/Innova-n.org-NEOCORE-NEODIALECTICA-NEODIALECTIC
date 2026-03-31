@@ -223,6 +223,21 @@ This annex serves as a basis for:
 
 ---
 
+## Wiki pública / *Public wiki*
+
+Este repositorio se complementa con la **wiki pública de Innova_N**, donde se organiza la capa conceptual, documental y trazable del ecosistema.
+
+This repository is complemented by the **public wiki of Innova_N**, where the conceptual, documentary, and traceable layer of the ecosystem is organized.
+
+### Enlaces principales / *Main links*
+- [Inicio / *Home*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
+- [Marco previo y evidencia externa / *Prior framework and external evidence*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Marco_Previo_y_Evidencia_Externa)
+- [Filosofía Neodialéctica / *Neodialectic Philosophy*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Philosophy_Neodialectic)
+- [Neorrenacimiento / *NeoRenaissance*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Neorrenacimiento)
+- [Creaciones originales del autor / *Original creations of the author*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Creaciones_Originales_del_Autor)
+- [Capa poética del fundador / *Founder poetic layer*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Capa_Poetica_del_Fundador)
+- [Fundación Innova_N / *Innova_N Foundation*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Innova_N_Foundation)
+
 ## Ecosystem protection — Notice
 
 The complete architecture of **NEOCore™**, the **Neodialectica Framework™**, and all their components belong to:
