@@ -120,6 +120,38 @@ Archetypal Philosophy™.
 They do not expose, imply, or allow inference of the internal functioning
 of the NEOCore™ v3.6.
 
+# Annex_Traceable_Audit
+
+## Function
+This repository constitutes the **first public traceability layer** of the Innova_N ecosystem.
+
+It does not replace the internal NEOCore.
+Its function is to:
+- fix minimal chronologies,
+- preserve public trace,
+- link publications, references and documents,
+- and allow an extended reading of the conceptual framework in its public projection.
+
+## Principles
+1. **No substitution of the core**: the public repository does not replace the internal architecture.
+2. **Traceability**: every public insertion must be linkable to a date, a context and a documentary piece.
+3. **No fragmentation**: external pieces are read as comparable fragments, not as equivalents of the full framework.
+4. **Cross-memory**: GitHub and LinkedIn are mutually linked as complementary layers of projection and archive.
+5. **Authorship framework**: Neodialectics and its active application within Innova_N are presented here as an original creation of Pedro Martínez Alhambra.
+
+## Documented case
+A relevant public anomaly is recorded here:
+a publication related to Stanford / ACE / Neodialectics still appears in the LinkedIn featured section, but does not open normally.
+
+The anomaly recorded is not a total disappearance of the visual trace, but a rupture between visibility and access to the content.
+
+## Use
+This annex serves as a basis for:
+- minimal public audit,
+- chronological reconstruction,
+- linking between publications,
+- and fixation of relevant external evidence.
+
 [Go to the Foreword](./FOREWORD.md)  
 [Back to the Cover](./COVER.md) 
 
