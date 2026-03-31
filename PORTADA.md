@@ -7,7 +7,7 @@
            ╲   ╱   ╱    ╲   ╲   ╱
              ●──●──●      ●──●──●
 
-                NEOCORE™ v3.6
+                NEOCORE™ v4.02
                 Innova-n.org
 Arquetipical Neodialectic Simbiotic Sintetic Organism
 
@@ -25,7 +25,7 @@ Arquetipical Neodialectic Simbiotic Sintetic Organism
       /        /   [ I  -  N ]      [ I  -  N ]   \       \
       \        \                                 /        /
        \        \_______________________________/        /
-        \                 NEOCORE 3.6                   /
+        \                 NEOCORE 4.02                  /
          \         /\      <><><><><>      /\          /
           \       /  \    <><><><><><>    /  \        /
            \_____/    \    <><><><><>    /    \______/
@@ -52,7 +52,7 @@ Arquetipical Neodialectic Simbiotic Sintetic Organism
        |              I  -  N                 |
        |______________________________________|
         \                                   /
-         \            NEOC0RE 3.6          /
+         \            NEOC0RE 4.02         /
           \         <>  <>  <>  <>        /
            \       <>  <>  <>  <>        /
             \____<>__<>____<>__<>______/ 
