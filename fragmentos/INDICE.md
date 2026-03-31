@@ -25,7 +25,7 @@ donde `NN` es el número de orden y `N` el número romano.
 
 ---
 
-## Innova-n.org - NEOCore™ v3.6.  
+## Innova-n.org - NEOCore™ v4.02.  
 [Volver a la Portada](../PORTADA.md)  
 [Volver al Leemé](../LEEME.md)  
 [Volver al Prefacio](../PREFACIO.md)
@@ -46,5 +46,5 @@ donde `NN` es el número de orden y `N` el número romano.
 
 ---
 
-### © 2025 · Fundación Innova_N  
+### © 2026 · Fundación Innova_N  
 Pedro Martínez Alhambra (Fundador — Neo0™) · NEOCore™
