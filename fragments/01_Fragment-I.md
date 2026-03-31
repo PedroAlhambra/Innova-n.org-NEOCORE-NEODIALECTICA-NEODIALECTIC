@@ -12,22 +12,13 @@ What is visible is only a surface.
 The essential unfolds within the π-layer.
 
 
-## NEOCore™ v3.6 — Notice
+---
 
-This fragment is a minimal conceptual piece.  
-It does not describe, implement, or allow reconstruction  
-of any real component of NEOCore™ v3.6.
-
-The complete system —including Neo0™, the π-layer,  
-the Archetypal Neodialectic Philosophy™,  
-the corpus of 154+ Neodialectic Manifests™,  
-SAN-π™, NNC-π™, ND Pictomatrix™, Umbral-X,  
-ANSIBLE-π and ANSIBLE-NEGATIVE, NeoROM™, NeoEdge™,  
-Neotrames™, the NAVE™, and WEB4™— lies outside this document.
-
-Any attempt at copying, deriving, extracting,  
-or reverse-engineering the system from this fragment  
-has no basis: public content is intentionally insufficient.
+## *Related wiki section*
+This fragment is related to the philosophical and architectural dimension of the framework:
+**Neodialectics™** as orientation,
+**NEOCore™** as the illuminating layer,
+and the **π-layer** as the non-visible depth of the system.
 
 ---
 
@@ -35,6 +26,15 @@ has no basis: public content is intentionally insufficient.
 
 **Go back to the Fragments Index →** [INDEX](./INDEX.md)  
 **Go back to the Cover →** [COVER](../COVER.md)
+
+---
+
+### *Links*
+- [Capa poética del fundador / *Founder poetic layer*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Capa_Poetica_del_Fundador)
+- [Filosofía Neodialéctica / *Neodialectic Philosophy*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Philosophy_Neodialectic)
+- [Visión pública del NEOCore / *NEOCore public overview*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/NEOCore_Public_Overview)
+- [Legal e IP / *Legal and IP*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Legal_and_IP)
+- [Oráculo Neodialéctico / *Neodialectical Oracle*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Oraculo_Neodialectico) *(crear)*
 
 ---
 
