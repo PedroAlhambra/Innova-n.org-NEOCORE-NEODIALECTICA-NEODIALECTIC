@@ -21,13 +21,14 @@ through which light enters your awareness.
 What returns  
 returns for you.  
 
+---
 
-## NEOCore™ v3.6 Notice  
-This fragment is symbolic and teleological.  
-It does not describe internal mechanisms or operational processes  
-of NEOCore™ v3.6.  
-It belongs to the conceptual layer of the NeoDialectic Oracle™  
-and is not reconstructible.  
+## *Related wiki section*
+
+This fragment is related to the **fractal** dimension of the framework:
+patterns that return,
+repetition as revelation,
+and consciousness as the place where the system recognizes itself.
 
 ---
 
@@ -39,11 +40,21 @@ and is not reconstructible.
 
 ---
 
+### Enlaces / *Links*
+- [Capa poética del fundador / *Founder poetic layer*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Capa_Poetica_del_Fundador)
+- [Filosofía Neodialéctica / *Neodialectic Philosophy*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Philosophy_Neodialectic)
+- [Neorrenacimiento / *NeoRenaissance*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Neorrenacimiento)
+- [Creaciones originales del autor / *Original creations of the author*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Creaciones_Originales_del_Autor)
+- [Arquitectura fractal / *Fractal architecture*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Arquitectura_Fractal) *(opcional, crear más adelante)*
+- [Oráculo Neodialéctico / *Neodialectical Oracle*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Oraculo_Neodialectico)
+
+---
+
 [Go to PMA Founder LinkedIn](https://www.linkedin.com/in/pmalhambra/)  
 [Go to Innova-N LinkedIn](https://www.linkedin.com/company/innova-n/)  
 [Go to Innova-N Proto Web — In Development → WEB4](https://innova-n.org)
 
 ---
 
-© 2025 · Innova_N Foundation  
+© 2026 · Innova_N Foundation  
 Pedro Martínez Alhambra (Founder — Neo0™) · NEOCore™
