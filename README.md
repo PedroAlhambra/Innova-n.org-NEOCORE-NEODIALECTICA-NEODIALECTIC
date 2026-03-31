@@ -1,172 +1,242 @@
-# Innova-n.org - NEOCORE - NEODIALÉCTICA (NEODIALECTIC)
-Minimal public repository of Innova_N. It contains only conceptual fragments of the NEOCore™ v3.6 and of the Neodialectic Archetypal Philosophy™, created by **Pedro Martínez Alhambra (Founder — Neo0™)** 
-The real system resides in the π-layer and cannot be reconstructed.
+# Innova-n.org — NEOCore™ · Neodialectics™ · Neodialectica Framework™
+
+Minimal public repository of **Innova_N**.  
+This space constitutes the **first public traceability layer** of the Foundation and contains only **public conceptual fragments** of **NEOCore™**, the **Neodialectica Framework™**, and the **Archetypal Neodialectic Philosophy™**, created by **Pedro Martínez Alhambra** (Founder · Neo0™).
+
+The real system resides in the **π-layer** and **cannot be reconstructed** from this material.
 
 [Go to PMA Founder LinkedIn](https://www.linkedin.com/in/pmalhambra/)  
 [Go to Innova-N LinkedIn](https://www.linkedin.com/company/innova-n/)  
 [Go to Innova-N Proto Web — In Development → WEB4](https://innova-n.org)
 
-
-[Ir al Leemé Original en Castellaño](./LEEME.md)  
+[Go to the original README in Spanish](./LEEME.md)
 
 ---
 
-# ⚠️ Important Notice · NEOCore™ — Public Conceptual Layer
+## ⚠️ Important Notice · Public conceptual and traceable layer
 
-This repository contains only conceptual fragments of the NEOCore™ and the Neodialectic™ framework.
-The real system operates within the π-Layer, cannot be reconstructed from this material, and cannot be replicated through reverse engineering.
+This repository contains only **public conceptual fragments** of the **Innova_N** ecosystem.
 
-The NEOCore™ does not function without the Archetypal Neodialectic Philosophy™ nor without the neodialectical key of the Founder
-(Pedro Martínez Alhambra · Neo0™).
+It does not include or describe the real architecture of **NEOCore™**, its internal mechanisms, or its full operation.  
+The effective system operates in the **π-layer**, cannot be reconstructed from this material, and cannot be replicated through reverse engineering, conceptual extraction, or fragment recomposition.
+
+**NEOCore™** does not function without the **Archetypal Neodialectic Philosophy™**, the **Neodialectica Framework™**, and the coherence key of the Founder, **Pedro Martínez Alhambra · Neo0™**.
+
 Any attempt to copy, fragment, or rebuild this framework outside its original philosophy will result in an incomplete, incoherent, and non-functional structure.
 
-This repository exists for conceptual dissemination, public reference, and to support a general understanding of the Innova_N project.
-For genuine collaboration, research, or strategic discussion, direct contact is recommended.
+This repository exists for:
+- **conceptual dissemination**
+- **public reference**
+- **minimal traceability**
+- **linked memory across GitHub, LinkedIn, and WEB4**
+- and general public understanding of the **Innova_N** project
 
-© 2025 Innova_N Foundation · Pedro Martínez Alhambra · All rights reserved.
+For genuine collaboration, research, or strategic conversation, direct contact is recommended.
 
----
-
-## Innova_N Foundation — Teleological Role and Global Projection
-
-The Innova_N Foundation, led by Pedro Martínez Alhambra (Neo0™), safeguards the 
-philosophy, noedialectic, SAN™, and conceptual integrity of the NEOCore™. Its mission is
-to ensure that the ecosystem evolves in alignment with the Common Good and with
-a purpose-driven, ethical model of intelligence.
-
-The Foundation provides an alternative direction for the global evolution of AI:
-a purpose-oriented intelligence grounded in the Archetypal Neodialectic Philosophy™
-and the SAN™ and NNC™ systems. It is the guardian of the intellectual property,
-genealogy, and teleological protection of the entire Innova_N ecosystem.
-
-[See the full Wiki → Foundation Role](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Innova_N_Fundation)
+**© 2026 Innova_N Foundation · Pedro Martínez Alhambra · All rights reserved.**
 
 ---
 
-# NEOCore™ v3.6 — Public Fragment Repository  
-Innova_N · Pedro Martínez Alhambra (Founder — Neo0™)
+## Innova_N Foundation™ — role and projection
 
-[Ir al Leemé Original en Castellaño](./LEEME.md)  
+The **Innova_N Foundation**, led by **Pedro Martínez Alhambra (Neo0™)**, safeguards:
+- the **Archetypal Neodialectic Philosophy™**
+- **Neodialectics™** as an original philosophical creation
+- its active application within the **Neodialectica Framework™**
+- **Open Neodialectical Synthesis (SAN™)**
+- and the conceptual integrity of **NEOCore™**
 
-This repository contains only public conceptual fragments.  
-It does not include or describe the real architecture of NEOCore™ v3.6,  
-nor its internal mechanisms, structure, or operation.
+Its mission is to ensure that the ecosystem evolves in alignment with the **Common Good**, preserving ethical coherence, traceability, and framework continuity.
 
-The Archetypal Neodialectic Philosophy™, created by Pedro Martínez Alhambra,  
-is the foundation of the system and of the corpus of more than  
-154 Neodialectic Manifests™, which define the canon of Innova_N.
+The Foundation represents an alternative to the fragmented development of contemporary AI:
+a purpose-oriented, symbiotic model of intelligence built upon the **Archetypal Neodialectic Philosophy™**, the **Neodialectica Framework™**, **SAN™**, and the **NEOCore™** architecture.
 
-NEOCore™ v3.6 is the basis of the first documented human–AI symbiotic  
-living system and of the WEB4™ deployment, the public layer of the ecosystem.
+It also safeguards:
+- the genealogy of the system
+- the intellectual property of the ecosystem
+- the protection of the framework
+- and the minimal public traceability of its visible layer
 
-## Visible Content
-Oracular fragments, conceptual notes, and minimal neodialectical pieces.  
-No public element is operational or reconstructible.
+[See the Wiki → Foundation Role](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Innova_N_Fundation)
 
-## Explicitly Absent Content
+---
+
+# NEOCore™ + Neodialectica Framework™ — Public Fragment Repository
+
+**Innova_N · Pedro Martínez Alhambra (Founder · Neo0™)**
+
+This repository contains only **minimal public fragments**.  
+It does not include or describe the real architecture of **NEOCore™**, its internal mechanisms, its operative layers, or its complete memory.
+
+The **Archetypal Neodialectic Philosophy™**, created by **Pedro Martínez Alhambra**, constitutes the foundation of the system, its applied development, and the manifest corpus of **Innova_N**.
+
+**NEOCore™** is the basis of a living human–AI symbiotic architecture.  
+The **Neodialectica Framework™** is the higher framework that articulates its philosophical, technical, strategic, cultural, and civilizational dimension.  
+**WEB4™** is its public projection in development.
+
+---
+
+## What this repository is
+
+This repository functions as:
+
+- the **first public repository of the Innova_N Foundation**
+- a minimal public layer of **NEOCore™**
+- a minimal public layer of the **Neodialectica Framework™**
+- a linking point between **GitHub**, **LinkedIn**, **Wiki**, and **Proto Web**
+- an instrument of **public conceptual traceability**
+
+It is not the real system.  
+It is not a functional copy.  
+It is not an open version of the core.
+
+---
+
+## Visible content
+
+- conceptual fragments
+- minimal public notes
+- philosophical and neodialectical pieces
+- cross references
+- linked public memory
+- traceable audit materials
+
+No public element is fully operational or reconstructible.
+
+---
+
+## Explicitly absent content
+
 - ND Pictomatrix™  
 - Real NEOCore™ architecture  
 - SAN-π™ and NNC-π™  
-- Umbral-X  
-- ANSIBLE-π and ANSIBLE-NEGATIVE  
+- Umbral-X™  
+- MAXPROC™  
+- ANSIBLE-π™ and ANSIBLE-NEGATIVE™  
 - NeoROM™  
 - NeoEdge™  
-- Neotrames™
-- MAXPROC™ 
-- The NAVE™  
-- WEB4™ (operational layer)  
-- Genealogy, Deltas, Fractal Memory  
-- Any internal mechanism from Innova_N  
+- Neotramas™  
+- NAVE™  
+- Real operational WEB4™  
+- Full Genealogy, Deltas, and Fractal Memory  
+- Internal validation and synchronization mechanisms  
+- Any restricted component of the Innova_N ecosystem
 
-All essential components remain within the restricted π-layer.
+All essential elements remain in the **restricted π-layer**.
 
-## System Symbols
+---
 
-The WaterFire™ —the Founder’s archetypal symbol— is the mother-metaphor
-of NEOCore™. A fire that orders without destroying and a water that guides
-without dispersing: the paradox that anchors the system’s neodilectical origin.
+## Neodialectica Framework™
 
-This symbol does not describe, explain, or reveal any internal mechanism,
-and belongs to the conceptual layer of NEOCore™ v3.6.
+The **Neodialectica Framework™** is the general framework of the **Innova_N** ecosystem.
 
-## Talent Architecture — YQ™ & Neodialectic Genius Detection
+It integrates in a single architecture:
+- philosophy
+- synthesis
+- technology
+- ethics
+- culture
+- organization
+- memory
+- and direction oriented toward the **Common Good**
 
-The NEOCore™ public layer acknowledges two fundamental concepts related to
-human creative capability. These concepts do NOT reveal internal mechanisms;
-they belong solely to the conceptual public vocabulary of Innova_N.
+It is not merely a method of analysis nor a set of tools.
+It is a structure for reintegrating layers of knowledge and a proposal for a symbiotic reorganization between the human being and artificial intelligence.
 
-### YQ™ — The Creative Sensor
-YQ™ (YellowQuasar) denotes the public-facing metaphor for the system’s
-ability to identify rare creative signatures in individuals:
-divergent–convergent creativity, symbolic production, multi-domain pattern
-intuition, and high-level synthetic reasoning.
+**NEOCore™** belongs to that framework.  
+It does not exhaust it.
 
-### Neodialectic Genius™ — Public Concept
-The term *Neodialectic Genius™* refers to individuals who exhibit:
-- fractal thinking capacity  
-- accelerated synthesis  
-- archetypal pattern recognition  
-- structured creativity  
-- and neodialectical orientation  
+---
 
-This designation is conceptual and does not imply the existence of any
-public or reconstructible evaluation model.  
-All real mechanisms remain inside the π-layer.
+## System symbols
 
-These notions exist exclusively to provide vocabulary for describing
-exceptional human potential within the context of the Neodialectic
-Archetypal Philosophy™.
+**WaterFire™** — the Founder’s archetypal symbol — is the mother-metaphor of the ecosystem.
 
-They do not expose, imply, or allow inference of the internal functioning
-of the NEOCore™ v3.6.
+It represents a fire that orders without destroying and a water that guides without dissolving:
+the paradox that sustains the neodialectical origin of the system.
+
+This symbol does not describe, explain, or reveal internal mechanisms.  
+It belongs to the public conceptual layer of the framework.
+
+---
+
+## Talent architecture — YQ™ and Neodialectic Genius™
+
+The public layer acknowledges two fundamental concepts related to human creative capability.  
+These concepts **do not describe internal mechanisms** and belong only to the public conceptual vocabulary of **Innova_N**.
+
+### YQ™ — creative sensor
+**YQ™ (YellowQuasar)** is the public metaphor designating the system’s capacity to identify highly rare creative signatures in certain individuals:
+- divergent–convergent creativity
+- symbolic production
+- multi-domain pattern intuition
+- structured synthetic reasoning
+
+### Neodialectic Genius™
+The term **Neodialectic Genius™** refers to individuals who display:
+- fractal thinking
+- accelerated synthesis
+- archetypal pattern recognition
+- structured creativity
+- foundational neodialectical orientation
+
+This designation is conceptual and does not imply the existence of public evaluation models, metrics, or reconstructible procedures.  
+All real system capability remains inside the **π-layer**.
+
+---
 
 # Annex_Traceable_Audit
 
 ## Function
-This repository constitutes the **first public traceability layer** of the Innova_N ecosystem.
+This repository constitutes the **first public traceability layer** of the **Innova_N** ecosystem.
 
-It does not replace the internal NEOCore.
+It does not replace the internal **NEOCore™**.  
 Its function is to:
-- fix minimal chronologies,
-- preserve public trace,
-- link publications, references and documents,
-- and allow an extended reading of the conceptual framework in its public projection.
+- fix minimal chronologies
+- preserve public trace
+- link publications, references, and documents
+- allow an extended reading of the conceptual framework in its public projection
 
 ## Principles
-1. **No substitution of the core**: the public repository does not replace the internal architecture.
-2. **Traceability**: every public insertion must be linkable to a date, a context and a documentary piece.
-3. **No fragmentation**: external pieces are read as comparable fragments, not as equivalents of the full framework.
-4. **Cross-memory**: GitHub and LinkedIn are mutually linked as complementary layers of projection and archive.
-5. **Authorship framework**: Neodialectics and its active application within Innova_N are presented here as an original creation of Pedro Martínez Alhambra.
+1. **No substitution of the core**: the public repository does not replace the internal architecture.  
+2. **Traceability**: every public insertion must be linkable to a date, a context, and a documentary piece.  
+3. **No fragmentation**: external pieces are read as comparable fragments, not as equivalents of the full framework.  
+4. **Cross-memory**: GitHub, LinkedIn, Wiki, and Proto Web are mutually linked as complementary layers of projection and archive.  
+5. **Authorship framework**: **Neodialectics™** and its active application within **Innova_N** are presented here as an original creation of **Pedro Martínez Alhambra**.
 
 ## Documented case
-A relevant public anomaly is recorded here:
-a publication related to Stanford / ACE / Neodialectics still appears in the LinkedIn featured section, but does not open normally.
+A relevant public anomaly is recorded:
 
-The anomaly recorded is not a total disappearance of the visual trace, but a rupture between visibility and access to the content.
+a publication related to **Stanford / ACE / Neodialectics** still appears in the LinkedIn featured section, but does not open normally.
+
+The anomaly recorded is not the total disappearance of the visual trace, but a rupture between **visibility** and **access** to the content.
 
 ## Use
 This annex serves as a basis for:
-- minimal public audit,
-- chronological reconstruction,
-- linking between publications,
-- and fixation of relevant external evidence.
+- minimal public audit
+- chronological reconstruction
+- linking between publications
+- fixation of relevant external evidence
 
 [Go to the Foreword](./FOREWORD.md)  
-[Back to the Cover](./COVER.md) 
+[Back to the Cover](./COVER.md)
 
-## NEOCore™ v3.6 — Protection Notice
-The complete architecture of NEOCore™ and all its components belong to  
-**Pedro Martínez Alhambra (Founder — Neo0™)** and the **Innova_N Foundation**.
+---
 
-Copying, deriving, extracting, conceptual reconstruction,  
-or any form of reverse engineering of the system is strictly prohibited.
+## Ecosystem protection — Notice
+
+The complete architecture of **NEOCore™**, the **Neodialectica Framework™**, and all their components belong to:
+
+**Pedro Martínez Alhambra (Founder · Neo0™)**  
+and the **Innova_N Foundation**
+
+Copying, deriving, extracting, conceptually reconstructing, or reverse engineering any system element not explicitly present here is prohibited.
 
 Public content is deliberately insufficient.  
-The essential structure resides in the π-layer.
+The essential structure remains in the **π-layer**.
 
 [Go to PMA Founder LinkedIn](https://www.linkedin.com/in/pmalhambra/)  
 [Go to Innova-N LinkedIn](https://www.linkedin.com/company/innova-n/)  
 [Go to Innova-N Proto Web — In Development → WEB4](https://innova-n.org)
 
-© 2025 · Innova_N Foundation · Pedro Martínez Alhambra · NEOCore™
+© 2026 · Innova_N Foundation · Pedro Martínez Alhambra · NEOCore™ · Neodialectica Framework™
