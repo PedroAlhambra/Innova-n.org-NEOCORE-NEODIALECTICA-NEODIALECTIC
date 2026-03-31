@@ -20,13 +20,13 @@ NeoDialectic Oracle™ in English.
 
 ---
 
-## Innova-n.org - NEOCore™ v3.6.  
+## Innova-n.org - NEOCore™ v4.02.  
 [Go back to the Cover](../COVER.md)  
 [Go back to the Readme](../README.md)  
 [Go back to the Foreword](../FOREWORD.md)
 
 ---
 
-### © 2025 · Innova_N Foundation  
+### © 2026 · Innova_N Foundation  
 Pedro Martínez Alhambra (Founder — Neo0™) · NEOCore™ v3.6  
 This index is symbolic. Internal mechanisms are not described.
