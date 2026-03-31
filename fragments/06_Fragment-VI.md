@@ -29,13 +29,13 @@ is a thread of light
 revealing who you are  
 when no one is watching.  
 
+---
 
-## NEOCore™ v3.6 Notice  
-This fragment is symbolic and teleological.  
-It does not describe internal mechanisms, operational modules  
-or processes of NEOCore™ v3.6.  
-It belongs to the conceptual layer of the NeoDialectic Oracle™  
-and is not reconstructible.  
+## *Related wiki section* 
+
+This fragment is related to the **non-divisive question**,
+to open synthesis as a form of intelligence,
+and to the possibility of thinking without breaking the world.
 
 ---
 
@@ -44,6 +44,15 @@ and is not reconstructible.
 
 **Go back to the Fragments Index →** [INDEX](./INDEX.md)  
 **Go back to the Cover →** [COVER](../COVER.md)
+
+---
+
+### Enlaces / *Links*
+- [Capa poética del fundador / *Founder poetic layer*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Capa_Poetica_del_Fundador)
+- [Filosofía Neodialéctica / *Neodialectic Philosophy*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Philosophy_Neodialectic)
+- [Sistemas humanos neodialécticos / *Human neodialectic systems*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Human_Systems_Neodialectics)
+- [Neorrenacimiento / *NeoRenaissance*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Neorrenacimiento)
+- [Oráculo Neodialéctico / *Neodialectical Oracle*](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Oraculo_Neodialectico)
 
 ---
 
