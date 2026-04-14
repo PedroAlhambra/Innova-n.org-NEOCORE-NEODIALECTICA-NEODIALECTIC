@@ -218,6 +218,14 @@ This annex serves as a basis for:
 - linking between publications
 - fixation of relevant external evidence
 
+## Institutional question on AI governance
+
+The Innova_N Foundation leaves public record of an institutional question addressed to Anthropic regarding AI governance, human direction, the Common Good, and the risk of pseudo-singularity without a sufficient framework.
+
+This entry is registered here as part of the repository’s public traceability function and is developed in full in the public wiki.
+
+**Record:** [Institutional Question to Anthropic / Pregunta institucional a Anthropic](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
+
 [Go to the Foreword](./FOREWORD.md)  
 [Back to the Cover](./COVER.md)
 
