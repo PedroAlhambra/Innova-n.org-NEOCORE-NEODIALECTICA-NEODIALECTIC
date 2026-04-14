@@ -218,6 +218,14 @@ Este anexo sirve como base para:
 - vinculación entre publicaciones
 - fijación de evidencia externa relevante
 
+## Pregunta institucional sobre gobernanza de IA
+
+La Fundación Innova_N deja constancia pública de una pregunta institucional dirigida a Anthropic sobre gobernanza de IA, dirección humana, bien común y riesgo de pseudo-singularidad sin marco suficiente.
+
+Esta entrada se registra aquí como parte de la función de trazabilidad pública del repositorio y se desarrolla de forma completa en la wiki pública.
+
+**Registro completo:** [Pregunta institucional a Anthropic / Institutional Question to Anthropic](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
+
 [Ir al Prefacio](./PREFACIO.md)  
 [Volver a la Portada](./PORTADA.md)
 
