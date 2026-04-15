@@ -105,7 +105,6 @@ No public element is fully operational or reconstructible.
 
 ---
 
-* * *
 ## Featured public analyses
 
 This repository also includes public analytical documents that trace ongoing institutional, technological, and philosophical developments related to AI governance, framework legitimacy, and the public projection of the Neodialectica Framework™.
