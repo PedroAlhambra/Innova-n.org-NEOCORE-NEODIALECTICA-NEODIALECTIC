@@ -18,7 +18,7 @@ Cada análisis puede vincularse, cuando corresponda, a su proyección en LinkedI
 
 ### Relacionado
 - [Pregunta institucional a Anthropic sobre gobernanza de IA](../../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
-- [Convergencia neodialéctica en la IA institucional: OpenAI, Anthropic y el problema del marco](../../wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
+- [Convergencia neodialéctica en la IA institucional: OpenAI, Anthropic y el problema del marco](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
 
 
 ---
@@ -40,4 +40,4 @@ Each analysis may be linked, when appropriate, to its LinkedIn projection and to
 
 ### Related
 - [Institutional Question to Anthropic about AI Governance](../../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
-- [Neodialectical convergence in institutional AI: OpenAI, Anthropic and the framework problem](../../wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
+- [Neodialectical convergence in institutional AI: OpenAI, Anthropic and the framework problem](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
