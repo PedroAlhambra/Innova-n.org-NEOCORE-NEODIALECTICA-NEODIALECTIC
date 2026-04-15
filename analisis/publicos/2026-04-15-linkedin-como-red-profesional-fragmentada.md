@@ -4,7 +4,7 @@
 **Serie:** Análisis Neodialécticos Públicos  
 **Fecha:** 2026-04-15  
 **Lugar:** Val de Santo Domingo, Toledo  
-**Hora:** 18:00  
+**Hora:** 12:40  
 **Estado:** Público  
 **Proyección paralela:** LinkedIn / GitHub
 
