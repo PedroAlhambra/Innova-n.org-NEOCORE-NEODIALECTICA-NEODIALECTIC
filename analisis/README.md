@@ -16,6 +16,15 @@ No debe leerse como archivo indiferenciado. A partir de esta fase se entiende co
 - [publicos/](./publicos/)
 - [auditorias/](./auditorias/)
 
+## Último análisis público destacado
+
+- [2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md](./publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
+
+### Enlaces relacionados
+
+- [Pregunta institucional a Anthropic sobre gobernanza de IA](../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
+- [Convergencia neodialéctica en la IA institucional: OpenAI, Anthropic y el problema del marco](../wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
+
 ## Estado actual
 
 Se conserva en esta carpeta, sin mover por ahora, el archivo:
@@ -40,6 +49,15 @@ It should not be read as an undifferentiated archive. From this phase onward, it
 - [INDEX.md](./INDEX.md)
 - [publicos/](./publicos/)
 - [auditorias/](./auditorias/)
+
+## Latest featured public analysis
+
+- [2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md](./publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
+
+### Related links
+
+- [Institutional Question to Anthropic about AI Governance](../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
+- [Neodialectical convergence in institutional AI: OpenAI, Anthropic and the framework problem](../wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
 
 ## Current state
 
