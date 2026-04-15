@@ -105,6 +105,20 @@ No public element is fully operational or reconstructible.
 
 ---
 
+* * *
+## Featured public analyses
+
+This repository also includes public analytical documents that trace ongoing institutional, technological, and philosophical developments related to AI governance, framework legitimacy, and the public projection of the Neodialectica Framework™.
+
+### Latest featured analysis
+- [2026-04-15 · Convergencia neodialéctica no reconocida en la IA institucional](analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
+
+### Related public wiki pages
+- [Institutional Question to Anthropic about AI Governance](../../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
+- [Neodialectical Convergence in Institutional AI: OpenAI, Anthropic and the framework problem](../../wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
+
+---
+
 ## Explicitly absent content
 
 - ND Pictomatrix™  
