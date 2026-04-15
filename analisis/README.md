@@ -24,6 +24,7 @@ No debe leerse como archivo indiferenciado. A partir de esta fase se entiende co
 
 - [Pregunta institucional a Anthropic sobre gobernanza de IA](../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
 - [Convergencia neodialéctica en la IA institucional: OpenAI, Anthropic y el problema del marco](../wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
+- [Stanford / ACE y el marco previo neodialéctico](./2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
 
 ## Estado actual
 
