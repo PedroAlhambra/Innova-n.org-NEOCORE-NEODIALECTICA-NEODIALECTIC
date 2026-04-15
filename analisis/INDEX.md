@@ -1,0 +1,46 @@
+# Índice · análisis
+## analysis index
+
+## ES
+
+## Auditorías
+
+- [2025-12 · Evento-Reflejo · Auditoría DistroKid](./2025-12_Evento-Reflejo_Auditoria-Distrokid.md)
+
+## Análisis públicos
+
+- [2026-04-15 · LinkedIn como red profesional fragmentada](./publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md)
+
+## Criterio organizativo
+
+La carpeta `analisis/` funciona como espacio madre.
+
+Dentro de ella:
+
+- `auditorias/` agrupa piezas centradas en revisión, contraste o fijación de caso;
+- `publicos/` agrupa lecturas estructurales de utilidad pública realizadas desde el marco neodialéctico.
+
+Mientras se preserva la trazabilidad del repositorio, algunos archivos previos podrán mantenerse en la raíz de `analisis/` sin moverse todavía.
+
+---
+
+## EN
+
+## Audits
+
+- [2025-12 · Event-Reflection · DistroKid Audit](./2025-12_Evento-Reflejo_Auditoria-Distrokid.md)
+
+## Public analyses
+
+- [2026-04-15 · LinkedIn as a fragmented professional network](./publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md)
+
+## Organizational criterion
+
+The `analisis/` folder functions as a parent space.
+
+Inside it:
+
+- `auditorias/` groups pieces centered on review, contrast, or case fixation;
+- `publicos/` groups structural public-utility readings produced from the neodialectical framework.
+
+While repository traceability is preserved, some prior files may remain in the root of `analisis/` without being moved for now.
