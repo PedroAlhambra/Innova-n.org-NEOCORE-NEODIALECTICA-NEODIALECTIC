@@ -92,6 +92,19 @@ No es una versión abierta del núcleo.
 
 ---
 
+## Análisis públicos destacados
+
+Este repositorio incluye también documentos públicos de análisis que trazan desarrollos institucionales, tecnológicos y filosóficos relacionados con la gobernanza de la IA, la legitimidad del marco y la proyección pública del Neodialectica Framework™.
+
+### Último análisis destacado
+- [2026-04-15 · Convergencia neodialéctica no reconocida en la IA institucional](analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
+
+### Páginas públicas relacionadas en la wiki
+- [Pregunta institucional a Anthropic sobre gobernanza de IA](../../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
+- [Convergencia neodialéctica en la IA institucional: OpenAI, Anthropic y el problema del marco](../../wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
+
+---
+
 ## Contenido visible
 
 - fragmentos conceptuales
