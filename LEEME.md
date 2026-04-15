@@ -243,9 +243,7 @@ Estos análisis no funcionan como comentario rápido, sino como lecturas documen
 
 Este repositorio se complementa con la **wiki pública de Innova_N**, donde se organiza la capa conceptual, documental y trazable del ecosistema.
 
-This repository is complemented by the **public wiki of Innova_N**, where the conceptual, documentary, and traceable layer of the ecosystem is organized.
-
-## Trazabilidad pública / *Public traceability*
+## Trazabilidad pública / *Public traceability
 
 La trazabilidad pública actual del ecosistema se apoya en tres capas visibles y recíprocamente enlazadas:
 
