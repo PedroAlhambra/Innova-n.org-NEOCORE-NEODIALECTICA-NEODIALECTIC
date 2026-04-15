@@ -12,6 +12,7 @@ Cada análisis puede vincularse, cuando corresponda, a su proyección en LinkedI
 ## Serie abierta
 
 - [2026-04-01 · Stanford / ACE y el marco previo neodialéctico](./2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
+  - Evidencia visual asociada: [captura pública](./evidencias/1774972895305.jpeg)
 - [2026-04-15 · LinkedIn como red profesional fragmentada](./2026-04-15-linkedin-como-red-profesional-fragmentada.md)
 
 ### Última incorporación
@@ -35,6 +36,7 @@ Each analysis may be linked, when appropriate, to its LinkedIn projection and to
 ## Open series
 
 - [2026-04-01 · Stanford / ACE and the Neodialéctica Framework](./2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
+  - Associated visual evidence: [captura pública](./evidencias/1774972895305.jpeg)
 - [2026-04-15 · LinkedIn as a fragmented professional network](./2026-04-15-linkedin-como-red-profesional-fragmentada.md)
 
 ### Latest addition
