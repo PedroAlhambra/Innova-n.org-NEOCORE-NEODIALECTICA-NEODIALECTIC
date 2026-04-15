@@ -226,6 +226,15 @@ This entry is registered here as part of the repository’s public traceability 
 
 **Record:** [Institutional Question to Anthropic / Pregunta institucional a Anthropic](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
 
+## Public Neodialectical Analyses
+
+This repository also opens a public-utility line of traceable structural readings produced from the neodialectical framework.
+
+These analyses do not function as quick commentary, but as documented readings of platforms, companies, business models, cultural environments, and forms of value extraction.
+
+**Series:** [Public Neodialectical Analyses / Análisis Neodialécticos Públicos](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Analisis_Neodialecticos_Publicos)
+
+
 [Go to the Foreword](./FOREWORD.md)  
 [Back to the Cover](./COVER.md)
 
