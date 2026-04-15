@@ -95,13 +95,13 @@ Anthropic llega al mismo territorio por otra vía.
 Su vector no es principalmente institucional-estatal.  
 Su vector visible es:
 
-- constitution,
-- Responsible Scaling Policy,
-- safety,
-- transparency,
-- thresholds,
-- external review,
-- escalation protocols.
+- constitución,
+- Política de escalamiento responsable,
+- seguridad,
+- transparencia,
+- umbrales,
+- revisión externa,
+- protocolos de escalada.
 
 Eso significa que Anthropic también ha chocado con el mismo límite:
 
