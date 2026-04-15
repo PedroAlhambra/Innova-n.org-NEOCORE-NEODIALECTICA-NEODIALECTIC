@@ -76,6 +76,17 @@ Por eso este documento actúa como capa de fijación pública complementaria.
 
 ---
 
+## 3 bis. Captura asociada
+
+Como parte de la trazabilidad pública del caso, se incorpora la captura visual asociada a la publicación recuperada y a la anomalía de accesibilidad descrita en este documento.
+
+![Captura asociada al caso Stanford / ACE](https://raw.githubusercontent.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/main/analisis/publicos/evidencias/1774972895305.jpeg)
+
+**Ruta pública del archivo:**  
+`analisis/publicos/evidencias/1774972895305.jpeg`
+
+---
+
 ## 4. Publicación original recuperada
 
 **Título original:**  
@@ -236,6 +247,17 @@ But one more important point is affirmed from the perspective of traceability:
 **when a public trace becomes irregular, it should be replicated, dated, and documented.**
 
 This document therefore acts as a complementary public fixing layer.
+
+---
+
+## 3 bis. Associated capture
+
+As part of the public traceability of the case, the visual capture associated with the recovered publication and the accessibility anomaly described in this document is incorporated here.
+
+![Associated capture for the Stanford / ACE case](https://raw.githubusercontent.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/main/analisis/publicos/evidencias/1774972895305.jpeg)
+
+**Public file path:**  
+`analisis/publicos/evidencias/1774972895305.jpeg`
 
 ---
 
