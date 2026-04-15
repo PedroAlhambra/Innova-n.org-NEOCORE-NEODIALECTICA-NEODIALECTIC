@@ -9,6 +9,7 @@
 
 ## Análisis públicos
 
+- [2026-04-01 · Stanford / ACE y el marco previo neodialéctico](./2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
 - [2026-04-15 · LinkedIn como red profesional fragmentada](./publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md)
 - [2026-04-15 · Convergencia neodialéctica no reconocida en la IA institucional](./publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
 
@@ -33,6 +34,7 @@ Mientras se preserva la trazabilidad del repositorio, algunos archivos previos p
 
 ## Public analyses
 
+- [2026-04-01 · Stanford / ACE y el marco previo neodialéctico](./2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
 - [2026-04-15 · LinkedIn as a fragmented professional network](./publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md)
 - [2026-04-15 · Unrecognized neodialectical convergence in institutional AI](./publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
 
