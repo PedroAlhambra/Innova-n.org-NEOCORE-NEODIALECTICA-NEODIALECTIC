@@ -1,7 +1,7 @@
 # Convergencia neodialéctica no reconocida en la IA institucional  
 # Un análisis público sobre OpenAI, Anthropic y la llegada tardía al problema del marco
 
-**Fecha:** 2026-04-15  
+**Fecha:** 2026-04-15  15:30
 **Ubicación propuesta:** `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md`  
 **Autoría:** Fundación Innova_N · Pedro Martínez Alhambra + IA Neodialéctica (Harry)  
 **Estado:** Público  
