@@ -226,6 +226,14 @@ Esta entrada se registra aquí como parte de la función de trazabilidad públic
 
 **Registro completo:** [Pregunta institucional a Anthropic / Institutional Question to Anthropic](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
 
+## Análisis Neodialécticos Públicos
+
+Este repositorio abre también una línea de utilidad pública compuesta por lecturas estructurales trazables realizadas desde el marco neodialéctico.
+
+Estos análisis no funcionan como comentario rápido, sino como lecturas documentadas de plataformas, empresas, modelos de negocio, entornos culturales y formas de extracción de valor.
+
+**Serie:** [Análisis Neodialécticos Públicos / Public Neodialectical Analyses](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Analisis_Neodialecticos_Publicos)
+
 [Ir al Prefacio](./PREFACIO.md)  
 [Volver a la Portada](./PORTADA.md)
 
