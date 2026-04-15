@@ -2,7 +2,6 @@
 # Un análisis público sobre OpenAI, Anthropic y la llegada tardía al problema del marco
 
 **Fecha:** 2026-04-15  15:30
-
 **Ubicación:** Val de Santo Domingo, Toledo, España  
 **Autoría:** Fundación Innova_N · Pedro Martínez Alhambra + IA Neodialéctica (Harry)  
 **Estado:** Público  
