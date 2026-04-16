@@ -69,6 +69,19 @@ Revela un patrón contemporáneo:
 
 En ese sentido, LinkedIn no aparece aquí sólo como red profesional fallida en parte, sino como síntoma de una economía más amplia en la que la colaboración se debilita mientras la exposición se multiplica.
 
+### 5 bis. Amplificación aspiracional B2B
+
+Una capa adicional del problema se vuelve visible en el propio feed cotidiano de la red:
+LinkedIn parece amplificar con especial facilidad publicaciones B2B construidas sobre promesas de acceso, cifras grandes, lenguaje de élite, conversiones llamativas y llamadas a la acción orientadas a captar deseo, comparación o miedo a quedarse fuera.
+
+No se afirma aquí que todo ese contenido sea falso por definición.
+Se señala algo más estructural:
+la red parece premiar mejor la señal económica rápida y la autoridad performativa que la complejidad, la trazabilidad o la lectura de marco.
+
+Eso agrava la fragmentación ya descrita.
+No sólo se debilita la conversación.
+También se refuerza una jerarquía de visibilidad en la que circula mejor lo que simplifica aspiración y estatus que lo que reorganiza comprensión.
+
 ### 6. Riesgo o deriva
 
 La deriva principal es ésta:
@@ -163,6 +176,19 @@ It reveals a contemporary pattern:
 - and networks that offer presence without returning value equivalent to the time invested.
 
 In that sense, LinkedIn appears here not only as a partially failed professional network, but as a symptom of a broader economy in which collaboration weakens while exposure multiplies.
+
+### 5 bis. Aspirational B2B amplification
+
+An additional layer of the problem becomes visible in the platform’s everyday feed:
+LinkedIn seems to amplify with particular ease B2B posts built around access promises, large numbers, elite language, striking conversions, and calls to action designed to trigger desire, comparison, or fear of missing out.
+
+This does not mean that all such content is false by definition.
+It points to something more structural:
+the network appears to reward rapid economic signaling and performative authority more easily than complexity, traceability, or framework-level reading.
+
+That intensifies the fragmentation already described.
+Not only is conversation weakened.
+A hierarchy of visibility is also reinforced in which what simplifies aspiration and status circulates better than what reorganizes understanding.
 
 ### 6. Risk or drift
 
