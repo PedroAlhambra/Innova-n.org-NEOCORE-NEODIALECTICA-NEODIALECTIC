@@ -24,7 +24,9 @@ No debe leerse como archivo indiferenciado. A partir de esta fase se entiende co
 
 - [Pregunta institucional a Anthropic sobre gobernanza de IA](../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
 - [Convergencia neodialéctica en la IA institucional: OpenAI, Anthropic y el problema del marco](../wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
-- [Stanford / ACE y el marco previo neodialéctico](./2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
+- [2026-04-01 · Stanford / ACE y el marco previo neodialéctico](./publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
+- [2026-04-15 · Anthropic, gobernanza de IA y problema del marco](./publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
+- [2026-04-15 · LinkedIn como red profesional fragmentada](./publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md)
 
 ## Estado actual
 
@@ -59,6 +61,9 @@ It should not be read as an undifferentiated archive. From this phase onward, it
 
 - [Institutional Question to Anthropic about AI Governance](../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
 - [Neodialectical convergence in institutional AI: OpenAI, Anthropic and the framework problem](../wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
+- [2026-04-01 · Stanford / ACE and the prior neodialectical framework](./publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
+- [2026-04-15 · Anthropic, AI governance, and the framework problem](./publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
+- [2026-04-15 · LinkedIn as a fragmented professional network](./publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md)
 
 ## Current state
 
