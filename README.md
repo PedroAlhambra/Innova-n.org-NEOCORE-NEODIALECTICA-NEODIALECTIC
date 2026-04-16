@@ -109,8 +109,12 @@ No public element is fully operational or reconstructible.
 
 This repository also includes public analytical documents that trace ongoing institutional, technological, and philosophical developments related to AI governance, framework legitimacy, and the public projection of the Neodialectica Framework™.
 
-### Latest featured analysis
-- [2026-04-15 · Convergencia neodialéctica no reconocida en la IA institucional](analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
+## Latest public analyses
+
+- [Anthropic, AI governance, and the framework problem](./analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
+- [Unrecognized neodialectical convergence in institutional AI](./analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
+- [LinkedIn as a fragmented professional network](./analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md)
+- [Stanford / ACE and the prior neodialectical framework](./analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
 
 ### Related public wiki pages
 - [Institutional Question to Anthropic about AI Governance](../../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
