@@ -57,7 +57,7 @@ Es también garante de:
 - la protección del marco
 - y la trazabilidad pública mínima de su capa visible
 
-[Ir a la Wiki → Rol de la Fundación](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Innova_N_Fundation)
+[Ir a la Wiki → Rol de la Fundación](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Innova_N_Foundation)
 
 ---
 
