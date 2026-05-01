@@ -57,7 +57,7 @@ It also safeguards:
 - the protection of the framework
 - and the minimal public traceability of its visible layer
 
-[See the Wiki → Foundation Role](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Innova_N_Fundation)
+[See the Wiki → Foundation Role](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Innova_N_Foundation)
 
 ---
 
