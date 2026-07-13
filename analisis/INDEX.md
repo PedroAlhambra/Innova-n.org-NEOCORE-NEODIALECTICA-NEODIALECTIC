@@ -9,10 +9,11 @@
 
 ## Análisis públicos
 
-- [2026-04-15 · Anthropic, gobernanza de IA y problema del marco](./publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
-- [2026-04-01 · Stanford / ACE y el marco previo neodialéctico](./2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
-- [2026-04-15 · LinkedIn como red profesional fragmentada](./publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md)
-- [2026-04-15 · Convergencia neodialéctica no reconocida en la IA institucional](./publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
+- [2026-07-13 · Religión e identidad: cuando el dogma captura la conciencia y el Estado](publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
+- [2026-04-15 · Anthropic, gobernanza de IA y problema del marco](publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
+- [2026-04-15 · Convergencia neodialéctica no reconocida en la IA institucional](publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
+- [2026-04-15 · LinkedIn como red profesional fragmentada](publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md)
+- [2026-04-01 · Stanford / ACE y el marco previo neodialéctico](publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
 
 ## Criterio organizativo
 
