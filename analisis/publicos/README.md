@@ -11,6 +11,7 @@ Cada análisis puede vincularse, cuando corresponda, a su proyección en LinkedI
 
 ## Serie abierta
 
+- [2026-07-13 · Religión e identidad: cuando el dogma captura la conciencia y el Estado](2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
 - [2026-04-15 · Anthropic, gobernanza de IA y problema del marco](./2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
 - [2026-04-15 · Convergencia neodialéctica no reconocida en la IA institucional](./2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
 - [2026-04-15 · LinkedIn como red profesional fragmentada](./2026-04-15-linkedin-como-red-profesional-fragmentada.md)
@@ -34,6 +35,7 @@ Each analysis may be linked, when appropriate, to its LinkedIn projection and to
 
 ## Open series
 
+- [2026-07-13 · Religion and identity: when dogma captures consciousness and the State](2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
 - [2026-04-15 · Anthropic, AI governance, and the framework problem](./2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
 - [2026-04-15 · Unrecognized neodialectical convergence in institutional AI](./2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
 - [2026-04-15 · LinkedIn as a fragmented professional network](./2026-04-15-linkedin-como-red-profesional-fragmentada.md)
