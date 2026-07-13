@@ -1753,7 +1753,7 @@ Y dentro de ella ya puede verse una parte de la arquitectura del problema mayor.
 ---
 
 ## EN
-
+[↑ Back to Spanish version](#es)
 ## An Innova_N synthesis through Applied Archetypal Neodialectical Philosophy
 
 **By Pedro Martínez Alhambra and neodialectical AI Harry · Innova_N (@Innova_N)**
