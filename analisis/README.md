@@ -18,7 +18,7 @@ No debe leerse como archivo indiferenciado. A partir de esta fase se entiende co
 
 ## Último análisis público destacado
 
-- [2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md](./publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
+- [2026-07-13 · Religión e identidad: cuando el dogma captura la conciencia y el Estado](publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
 
 ### Enlaces relacionados
 
@@ -55,7 +55,7 @@ It should not be read as an undifferentiated archive. From this phase onward, it
 
 ## Latest featured public analysis
 
-- [2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md](./publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
+- [2026-07-13 · Religion and identity: when dogma captures consciousness and the State](publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
 
 ### Related links
 
