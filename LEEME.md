@@ -98,6 +98,7 @@ Este repositorio incluye también documentos públicos de análisis que trazan d
 
 ## Últimos análisis públicos
 
+- [Religión e identidad: cuando el dogma captura la conciencia y el Estado](analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
 - [Anthropic, gobernanza de IA y problema del marco](./analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
 - [Convergencia neodialéctica no reconocida en la IA institucional](./analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
 - [LinkedIn como red profesional fragmentada](./analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md)
