@@ -2,8 +2,6 @@
 
 # Religion and identity: when dogma captures consciousness and the State
 
-[🇬🇧 Ir a la versión en inglés / Go to English version ↓](#en)
-
 **Fecha de fijación pública:** 2026-07-13  
 **Ubicación:** `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md`  
 **Autoría:** Fundación Innova_N · Pedro Martínez Alhambra + IA Neodialéctica (Harry)  
@@ -12,6 +10,7 @@
 **Clasificación:** análisis público · religión · identidad · dogma · individualidad · instituciones · Lupa Neodialéctica™ · civilización
 
 ---
+[🇬🇧 Ir a la versión en inglés / Go to English version ↓](#en)
 
 ## ES
 
