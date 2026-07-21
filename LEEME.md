@@ -125,9 +125,6 @@ Los documentos distinguen, cuando corresponde, entre hechos verificados, datos o
 
 - [Convergencia neodialéctica en la IA institucional: OpenAI, Anthropic y el problema del marco](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
   
-### Páginas públicas relacionadas en la wiki
-- [Pregunta institucional a Anthropic sobre gobernanza de IA](../../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
-- [Convergencia neodialéctica en la IA institucional: OpenAI, Anthropic y el problema del marco](../../wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
 
 ---
 
