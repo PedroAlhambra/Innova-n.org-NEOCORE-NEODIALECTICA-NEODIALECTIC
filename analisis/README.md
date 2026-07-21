@@ -27,8 +27,10 @@ No debe leerse como archivo indiferenciado. A partir de esta fase se entiende co
 
 ### Enlaces relacionados
 
-- [Pregunta institucional a Anthropic sobre gobernanza de IA](../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
-- [Convergencia neodialéctica en la IA institucional: OpenAI, Anthropic y el problema del marco](../wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
+- [España sin consulta: ficha Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Analisis_Espana_Marruecos_Regularizacion_Control_Democratico)
+- [Análisis Neodialécticos Públicos](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Analisis_Neodialecticos_Publicos)
+- [Pregunta institucional a Anthropic sobre gobernanza de IA](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
+- [Convergencia neodialéctica en la IA institucional: OpenAI, Anthropic y el problema del marco](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
 - [2026-04-01 · Stanford / ACE y el marco previo neodialéctico](./publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
 - [2026-04-15 · Anthropic, gobernanza de IA y problema del marco](./publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
 - [2026-04-15 · LinkedIn como red profesional fragmentada](./publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md)
@@ -69,8 +71,10 @@ It should not be read as an undifferentiated archive. From this phase onward, it
 
 ### Related links
 
-- [Institutional Question to Anthropic about AI Governance](../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
-- [Neodialectical convergence in institutional AI: OpenAI, Anthropic and the framework problem](../wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
+- [Spain without consultation: Wiki record](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Analisis_Espana_Marruecos_Regularizacion_Control_Democratico)
+- [Public Neodialectical Analyses](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Analisis_Neodialecticos_Publicos)
+- [Institutional Question to Anthropic about AI Governance](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
+- [Neodialectical convergence in institutional AI: OpenAI, Anthropic and the framework problem](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
 - [2026-04-01 · Stanford / ACE and the prior neodialectical framework](./publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
 - [2026-04-15 · Anthropic, AI governance, and the framework problem](./publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
 - [2026-04-15 · LinkedIn as a fragmented professional network](./publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md)
