@@ -12,7 +12,7 @@ Clasificación / Classification: análisis público · España · Marruecos · m
 ## Navegación / Navigation
 
 - [Español](#versión-en-español)
-- [English versiom](#english-version)
+- [English version](#english-version)
 
 ---
 
