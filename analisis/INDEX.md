@@ -6,7 +6,7 @@
 ## Auditorías
 
 - [2025-12 · Evento-Reflejo · Auditoría DistroKid](./2025-12_Evento-Reflejo_Auditoria-Distrokid.md)
-
+  
 ## Análisis públicos
 
 - [2026-07-21 · España sin consulta: Marruecos, regularización, nacionalidad y pérdida de control democrático](./publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
@@ -15,7 +15,7 @@
 - [2026-04-15 · Convergencia neodialéctica no reconocida en la IA institucional](./publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
 - [2026-04-15 · LinkedIn como red profesional fragmentada](./publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md)
 - [2026-04-01 · Stanford / ACE y el marco previo neodialéctico](./publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
-
+  
 ## Criterio organizativo
 
 La carpeta `analisis/` funciona como espacio madre.
