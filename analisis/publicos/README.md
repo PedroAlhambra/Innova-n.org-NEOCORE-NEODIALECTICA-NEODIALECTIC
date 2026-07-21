@@ -12,18 +12,21 @@ Cada análisis puede vincularse, cuando corresponda, a su proyección en LinkedI
 ## Serie abierta
 
 - [2026-07-21 · España sin consulta: Marruecos, regularización, nacionalidad y pérdida de control democrático](./2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
-- [2026-07-13 · Religión e identidad: cuando el dogma captura la conciencia y el Estado](2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
+- [2026-07-13 · Religión e identidad: cuando el dogma captura la conciencia y el Estado](./2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
 - [2026-04-15 · Anthropic, gobernanza de IA y problema del marco](./2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
 - [2026-04-15 · Convergencia neodialéctica no reconocida en la IA institucional](./2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
 - [2026-04-15 · LinkedIn como red profesional fragmentada](./2026-04-15-linkedin-como-red-profesional-fragmentada.md)
 - [2026-04-01 · Stanford / ACE y el marco previo neodialéctico](./2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
-  - Evidencia visual asociada: [captura pública](./evidencias/1774972895305.jpeg)
+  - [Evidencia visual asociada](./evidencias/1774972895305.jpeg)
 
 ### Relacionado
-- [Análisis público sobre España, Marruecos, regularización y control democrático](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Analisis_Espana_Marruecos_Regularizacion_Control_Democratico)
-- [Marco previo y evidencia externa](../../wiki/Marco_Previo_y_Evidencia_Externa)
-- [Pregunta institucional a Anthropic sobre gobernanza de IA](../../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
-- [Convergencia neodialéctica en la IA institucional: OpenAI, Anthropic y el problema del marco](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
+
+- [Índice Wiki de análisis públicos](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Analisis_Neodialecticos_Publicos)
+- [España sin consulta: ficha Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Analisis_Espana_Marruecos_Regularizacion_Control_Democratico)
+- [Marco previo y evidencia externa](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Marco_Previo_y_Evidencia_Externa)
+- [Pregunta institucional a Anthropic](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
+- [Convergencia neodialéctica institucional](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
+
 
 ---
 
@@ -38,15 +41,17 @@ Each analysis may be linked, when appropriate, to its LinkedIn projection and to
 ## Open series
 
 - [2026-07-21 · Spain without consultation: Morocco, regularisation, nationality and loss of democratic control](./2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
-- [2026-07-13 · Religion and identity: when dogma captures consciousness and the State](2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
+- [2026-07-13 · Religion and identity: when dogma captures consciousness and the State](./2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
 - [2026-04-15 · Anthropic, AI governance, and the framework problem](./2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
 - [2026-04-15 · Unrecognized neodialectical convergence in institutional AI](./2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
 - [2026-04-15 · LinkedIn as a fragmented professional network](./2026-04-15-linkedin-como-red-profesional-fragmentada.md)
 - [2026-04-01 · Stanford / ACE and the prior neodialectical framework](./2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
-  - Associated visual evidence: [public capture](./evidencias/1774972895305.jpeg)
+  - [Associated visual evidence](./evidencias/1774972895305.jpeg)
 
 ### Related
-- [Public analysis on Spain, Morocco, regularisation and democratic control](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Analisis_Espana_Marruecos_Regularizacion_Control_Democratico)
-- [Prior framework and external evidence](../../wiki/Marco_Previo_y_Evidencia_Externa)
-- [Institutional Question to Anthropic about AI Governance](../../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
-- [Neodialectical convergence in institutional AI: OpenAI, Anthropic and the framework problem](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
+
+- [Public analyses Wiki index](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Analisis_Neodialecticos_Publicos)
+- [Spain without consultation: Wiki record](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Analisis_Espana_Marruecos_Regularizacion_Control_Democratico)
+- [Prior framework and external evidence](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Marco_Previo_y_Evidencia_Externa)
+- [Institutional Question to Anthropic](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
+- [Institutional neodialectical convergence](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
