@@ -2020,6 +2020,12 @@ La publicación no atribuye responsabilidad colectiva a ninguna nacionalidad, re
 - Engine / Motor: Síntesis Abierta™ / Open Synthesis™
 - Future infrastructure / Infraestructura futura: WEB4™
 
+**Nota de trazabilidad / Traceability note**
+>
+> Se conserva el nombre original del archivo para no romper los enlaces públicos ya difundidos. Aunque el nombre físico no termina en `_ES_EN`, este documento contiene las versiones completas en español e inglés.
+>
+> The original filename is retained to preserve previously published public links. Although the physical filename does not end in `_ES_EN`, this document contains the complete Spanish and English versions.
+
 ## Recommended citation / Cita recomendada
 
 Martínez Alhambra, Pedro. «España sin consulta: Marruecos, regularización, nacionalidad y pérdida de control democrático / Spain without consultation: Morocco, regularisation, nationality and loss of democratic control». Innova_N, 21 July 2026 / 21 de julio de 2026.
