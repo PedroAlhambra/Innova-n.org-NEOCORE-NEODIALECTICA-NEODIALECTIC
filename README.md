@@ -111,7 +111,8 @@ This repository also includes public analytical documents that trace ongoing ins
 
 ## Latest public analyses
 
-- [Religion and identity: when dogma captures consciousness and the State](analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
+- [Spain without consultation: Morocco, regularisation, nationality and loss of democratic control](./analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
+- [Religion and identity: when dogma captures consciousness and the State](./analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
 - [Anthropic, AI governance, and the framework problem](./analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
 - [Unrecognized neodialectical convergence in institutional AI](./analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
 - [LinkedIn as a fragmented professional network](./analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md)
