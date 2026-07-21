@@ -11,6 +11,7 @@ Cada análisis puede vincularse, cuando corresponda, a su proyección en LinkedI
 
 ## Serie abierta
 
+- [2026-07-21 · España sin consulta: Marruecos, regularización, nacionalidad y pérdida de control democrático](./2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
 - [2026-07-13 · Religión e identidad: cuando el dogma captura la conciencia y el Estado](2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
 - [2026-04-15 · Anthropic, gobernanza de IA y problema del marco](./2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
 - [2026-04-15 · Convergencia neodialéctica no reconocida en la IA institucional](./2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
