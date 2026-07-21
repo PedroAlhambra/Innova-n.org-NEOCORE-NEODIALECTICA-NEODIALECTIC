@@ -16,9 +16,14 @@ No debe leerse como archivo indiferenciado. A partir de esta fase se entiende co
 - [publicos/](./publicos/)
 - [auditorias/](./auditorias/)
 
-## Último análisis público destacado
+## Análisis públicos
 
-- [2026-07-13 · Religión e identidad: cuando el dogma captura la conciencia y el Estado](publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
+- [2026-07-21 · España sin consulta: Marruecos, regularización, nacionalidad y pérdida de control democrático](./publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
+- [2026-07-13 · Religión e identidad: cuando el dogma captura la conciencia y el Estado](./publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
+- [2026-04-15 · Anthropic, gobernanza de IA y problema del marco](./publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
+- [2026-04-15 · Convergencia neodialéctica no reconocida en la IA institucional](./publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
+- [2026-04-15 · LinkedIn como red profesional fragmentada](./publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md)
+- [2026-04-01 · Stanford / ACE y el marco previo neodialéctico](./publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
 
 ### Enlaces relacionados
 
@@ -53,9 +58,14 @@ It should not be read as an undifferentiated archive. From this phase onward, it
 - [publicos/](./publicos/)
 - [auditorias/](./auditorias/)
 
-## Latest featured public analysis
+## Public analyses
 
-- [2026-07-13 · Religion and identity: when dogma captures consciousness and the State](publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
+- [2026-07-21 · Spain without consultation: Morocco, regularisation, nationality and loss of democratic control](./publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
+- [2026-07-13 · Religion and identity: when dogma captures consciousness and the State](./publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
+- [2026-04-15 · Anthropic, AI governance, and the framework problem](./publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
+- [2026-04-15 · Unrecognized neodialectical convergence in institutional AI](./publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
+- [2026-04-15 · LinkedIn as a fragmented professional network](./publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md)
+- [2026-04-01 · Stanford / ACE and the prior neodialectical framework](./publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
 
 ### Related links
 
