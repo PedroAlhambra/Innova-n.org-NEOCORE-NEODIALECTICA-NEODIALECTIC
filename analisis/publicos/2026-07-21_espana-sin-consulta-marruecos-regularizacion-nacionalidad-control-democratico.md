@@ -1,7 +1,7 @@
 # España sin consulta: Marruecos, regularización, nacionalidad y pérdida de control democrático / Spain without consultation: Morocco, regularisation, nationality and loss of democratic control
 
 Fecha de fijación pública / Public record date: 2026-07-21  
-Ubicación / Repository path: `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico_ES_EN.md`  
+Ubicación / Repository path: `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md`  
 Autoría / Authorship: Fundación Innova_N · Pedro Martínez Alhambra + IA Neodialéctica  
 Estado / Status: Público · Síntesis Abierta™ / Public · Open Synthesis™  
 Idiomas / Languages: ES · EN  
