@@ -1015,6 +1015,11 @@ Una democracia que no permite a sus ciudadanos comprender, ratificar ni detener 
 
 Pedro Martínez Alhambra - Innova_N · Neodialéctica · Síntesis Abierta™
 
+
+## Evidencias y fuentes
+
+- [Fuentes primarias, matriz de evidencias y vacíos documentales](./evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md)
+
 ---
 
 # English version
@@ -2020,11 +2025,17 @@ La publicación no atribuye responsabilidad colectiva a ninguna nacionalidad, re
 - Engine / Motor: Síntesis Abierta™ / Open Synthesis™
 - Future infrastructure / Infraestructura futura: WEB4™
 
+## Evidence and sources
+
+- [Fuentes primarias, matriz de evidencias y vacíos documentales](./evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md)
+
 **Nota de trazabilidad / Traceability note**
 >
 > Se conserva el nombre original del archivo para no romper los enlaces públicos ya difundidos. Aunque el nombre físico no termina en `_ES_EN`, este documento contiene las versiones completas en español e inglés.
 >
 > The original filename is retained to preserve previously published public links. Although the physical filename does not end in `_ES_EN`, this document contains the complete Spanish and English versions.
+
+
 
 ## Recommended citation / Cita recomendada
 
