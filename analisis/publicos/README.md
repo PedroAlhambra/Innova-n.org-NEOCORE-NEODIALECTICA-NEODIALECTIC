@@ -36,6 +36,7 @@ Each analysis may be linked, when appropriate, to its LinkedIn projection and to
 
 ## Open series
 
+- [2026-07-21 · Spain without consultation: Morocco, regularisation, nationality and loss of democratic control](./2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
 - [2026-07-13 · Religion and identity: when dogma captures consciousness and the State](2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
 - [2026-04-15 · Anthropic, AI governance, and the framework problem](./2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
 - [2026-04-15 · Unrecognized neodialectical convergence in institutional AI](./2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
