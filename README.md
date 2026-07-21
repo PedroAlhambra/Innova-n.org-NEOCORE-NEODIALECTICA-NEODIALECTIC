@@ -120,8 +120,8 @@ This repository also includes public analytical documents that trace ongoing ins
 
 ### Related public wiki pages
 - [Spain, Morocco, regularisation and democratic control](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Analisis_Espana_Marruecos_Regularizacion_Control_Democratico)
-- [Institutional Question to Anthropic about AI Governance](../../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
-- [Neodialectical Convergence in Institutional AI: OpenAI, Anthropic and the framework problem](../../wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
+- [Institutional Question to Anthropic about AI Governance](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
+- [Neodialectical Convergence in Institutional AI: OpenAI, Anthropic and the framework problem](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
 
 ---
 
