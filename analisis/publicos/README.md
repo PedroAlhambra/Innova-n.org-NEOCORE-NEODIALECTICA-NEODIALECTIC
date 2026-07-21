@@ -20,6 +20,7 @@ Cada análisis puede vincularse, cuando corresponda, a su proyección en LinkedI
   - Evidencia visual asociada: [captura pública](./evidencias/1774972895305.jpeg)
 
 ### Relacionado
+- [Análisis público sobre España, Marruecos, regularización y control democrático](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Analisis_Espana_Marruecos_Regularizacion_Control_Democratico)
 - [Marco previo y evidencia externa](../../wiki/Marco_Previo_y_Evidencia_Externa)
 - [Pregunta institucional a Anthropic sobre gobernanza de IA](../../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
 - [Convergencia neodialéctica en la IA institucional: OpenAI, Anthropic y el problema del marco](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
@@ -45,6 +46,7 @@ Each analysis may be linked, when appropriate, to its LinkedIn projection and to
   - Associated visual evidence: [public capture](./evidencias/1774972895305.jpeg)
 
 ### Related
+- [Public analysis on Spain, Morocco, regularisation and democratic control](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Analisis_Espana_Marruecos_Regularizacion_Control_Democratico)
 - [Prior framework and external evidence](../../wiki/Marco_Previo_y_Evidencia_Externa)
 - [Institutional Question to Anthropic about AI Governance](../../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
 - [Neodialectical convergence in institutional AI: OpenAI, Anthropic and the framework problem](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
