@@ -9,7 +9,7 @@ El sistema real permanece en la **capa π** y **no es reconstruible** a partir d
 [Ir al LinkedIn de Innova-N](https://www.linkedin.com/company/innova-n/)  
 [Ir a la Proto Web de Innova-N — En desarrollo → WEB4](https://innova-n.org)
 
-[Ir al LEEME en inglés](./README_EN.md)
+[Ir al README en inglés](./README.md)
 
 ---
 
