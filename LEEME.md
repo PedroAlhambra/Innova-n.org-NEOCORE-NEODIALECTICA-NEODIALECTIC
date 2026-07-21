@@ -91,19 +91,40 @@ No es una copia funcional.
 No es una versión abierta del núcleo.
 
 ---
-
 ## Análisis públicos destacados
 
-Este repositorio incluye también documentos públicos de análisis que trazan desarrollos institucionales, tecnológicos y filosóficos relacionados con la gobernanza de la IA, la legitimidad del marco y la proyección pública del Neodialectica Framework™.
+Este repositorio incluye documentos públicos de análisis que trazan desarrollos institucionales, tecnológicos, filosóficos, sociales y civilizatorios relacionados con la Neodialéctica™, la gobernanza, la inteligencia artificial, la fragmentación del marco y la proyección pública del Neodialectica Framework™.
+
+Los documentos distinguen, cuando corresponde, entre hechos verificados, datos oficiales declarados, relaciones confirmadas, inferencias, hipótesis abiertas, contradicciones y evidencia pendiente.
 
 ## Últimos análisis públicos
 
-- [Religión e identidad: cuando el dogma captura la conciencia y el Estado](analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
-- [Anthropic, gobernanza de IA y problema del marco](./analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
-- [Convergencia neodialéctica no reconocida en la IA institucional](./analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
-- [LinkedIn como red profesional fragmentada](./analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md)
-- [Stanford / ACE y el marco previo neodialéctico](./analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
+- [2026-07-21 · España sin consulta: Marruecos, regularización, nacionalidad y pérdida de control democrático](./analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
 
+- [2026-07-13 · Religión e identidad: cuando el dogma captura la conciencia y el Estado](./analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
+
+- [2026-04-15 · Anthropic, gobernanza de IA y problema del marco](./analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
+
+- [2026-04-15 · Convergencia neodialéctica no reconocida en la IA institucional](./analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
+
+- [2026-04-15 · LinkedIn como red profesional fragmentada](./analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md)
+
+- [2026-04-01 · Stanford / ACE y el marco previo neodialéctico](./analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
+
+### Índices de análisis
+
+- [Índice general de análisis](./analisis/INDEX.md)
+- [Análisis públicos](./analisis/publicos/README.md)
+- [Análisis Neodialécticos Públicos en la Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Analisis_Neodialecticos_Publicos)
+
+### Páginas públicas relacionadas en la Wiki
+
+- [España sin consulta: Marruecos, regularización, nacionalidad y pérdida de control democrático](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Analisis_Espana_Marruecos_Regularizacion_Control_Democratico)
+
+- [Pregunta institucional a Anthropic sobre gobernanza de IA](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
+
+- [Convergencia neodialéctica en la IA institucional: OpenAI, Anthropic y el problema del marco](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
+  
 ### Páginas públicas relacionadas en la wiki
 - [Pregunta institucional a Anthropic sobre gobernanza de IA](../../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
 - [Convergencia neodialéctica en la IA institucional: OpenAI, Anthropic y el problema del marco](../../wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
