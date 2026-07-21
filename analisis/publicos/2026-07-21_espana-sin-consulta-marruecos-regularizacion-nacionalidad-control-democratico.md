@@ -1,23 +1,22 @@
-# España sin consulta: Marruecos, regularización, nacionalidad y pérdida de control democrático
+# España sin consulta: Marruecos, regularización, nacionalidad y pérdida de control democrático / Spain without consultation: Morocco, regularisation, nationality and loss of democratic control
 
-Fecha de fijación pública: 2026-07-21  
-Ubicación: `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md`  
-Autoría: Fundación Innova_N · Pedro Martínez Alhambra + IA Neodialéctica  
-Estado: Público · Síntesis Abierta™  
-Idioma: ES  
-Clasificación: análisis público · España · Marruecos · migración · regularización · nacionalidad · soberanía · democracia · trazabilidad · Síntesis Abierta™
+Fecha de fijación pública / Public record date: 2026-07-21  
+Ubicación / Repository path: `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico_ES_EN.md`  
+Autoría / Authorship: Fundación Innova_N · Pedro Martínez Alhambra + IA Neodialéctica  
+Estado / Status: Público · Síntesis Abierta™ / Public · Open Synthesis™  
+Idiomas / Languages: ES · EN  
+Clasificación / Classification: análisis público · España · Marruecos · migración · regularización · nacionalidad · soberanía · democracia · trazabilidad · Síntesis Abierta™ / public analysis · Spain · Morocco · migration · regularisation · nationality · sovereignty · democracy · traceability · Open Synthesis™
+
+---
+
+## Navegación / Navigation
+
+- [Español](#versión-en-español)
+- [English](#english-version)
 
 ---
 
-## Publicación original y difusión
-
-**LinkedIn — artículo original:**  
-https://www.linkedin.com/pulse/espa%C3%B1a-sin-consulta-marruecos-regularizaci%C3%B3n-nacionalidad-y-p%C3%A9rdida-bh97e/
-
-**Facebook — publicación relacionada:**  
-https://www.facebook.com/photo?fbid=122116233291165790&set=a.122115638673165790
-
----
+## Versión en español
 
 Una Síntesis Abierta™ desde el marco neodialéctico sobre una transformación estructural que la ciudadanía no ha podido ratificar
 
@@ -1018,41 +1017,1014 @@ Pedro Martínez Alhambra - Innova_N · Neodialéctica · Síntesis Abierta™
 
 ---
 
-## Estado documental
+# English version
 
-Este documento fija la versión pública de la investigación publicada el 21 de julio de 2026.
+An Open Synthesis™ from the neodialectical framework on a structural transformation that citizens have not been able to ratify
 
-La clasificación de sus contenidos debe interpretarse conforme al motor de Síntesis Abierta™:
+Spain is changing.
 
-- HECHO VERIFICADO
-- DATO OFICIAL DECLARADO
-- RELACIÓN CONFIRMADA
-- CORRELACIÓN TEMPORAL
-- INFERENCIA
-- HIPÓTESIS ABIERTA
-- CONTRADICCIÓN
-- PENDIENTE DE EVIDENCIA
-- DEGRADADO
-- REFUTADO
-- SÍNTESIS REVISADA
+Not through a single reform openly submitted to the population, but through an accumulation of migration, legal, diplomatic, territorial and administrative decisions which, when observed separately, may appear humanitarian, technical or temporary.
 
-La publicación no atribuye responsabilidad colectiva a ninguna nacionalidad, religión o población. El objeto de análisis son las decisiones institucionales, las estructuras de poder, los incentivos políticos, las dependencias exteriores, los efectos acumulados y los vacíos de trazabilidad pública.
+When the complete system is reconstructed, something much deeper appears:
 
-## Enlaces del ecosistema
+- an extraordinary regularisation process involving more than one million applications;
+- new routes to social integration permits and residence;
+- large-scale acquisition of nationality through the so-called Descendants Law;
+- accelerated growth in the number of Spanish citizens living abroad;
+- strategic dependence on Morocco for border control;
+- Moroccan pardons whose possible connection with Spain cannot be publicly verified;
+- a Government whose continuity depends on nationalist and separatist forces;
+- and a citizenry without direct instruments to halt or ratify the process while it is unfolding.
+
+This article does not attribute collective responsibility to Moroccan citizens or to any foreign population.
+
+The object of the analysis is power:
+
+- the Spanish Government;
+- the Moroccan State;
+- the rules that have been approved;
+- political agreements;
+- structures of dependence;
+- electoral incentives;
+- informational fragmentation;
+- and the progressive loss of citizens’ capacity to understand and control the transformation of the country.
+
+The central question is simple:
+
+> Who authorised a change of this magnitude in Spain’s legal, demographic, territorial and future composition without submitting the process as a whole to direct ratification by the population?
+
+## 1. Spain has not voted on this transformation as a whole
+
+No referendum has been held on:
+
+- the extraordinary regularisation process;
+- the future migration model;
+- the consequences for housing, healthcare, education and public services;
+- the large-scale extension of nationality from abroad;
+- the growth of the electorate;
+- border dependence on Morocco;
+- the change of position on Western Sahara;
+- or the territorial concessions negotiated to sustain the Government.
+
+Article 92 of the Constitution establishes that political decisions of special importance may be submitted to a consultative referendum of all citizens. Calling such a referendum requires a proposal from the Prime Minister and prior authorisation from Congress. There is therefore no automatic constitutional obligation to consult the public on these policies, but the mechanism exists. The Government has chosen not to activate it.
+
+The distinction matters:
+
+> The absence of a referendum does not automatically make these measures illegal, but it does allow their accumulated democratic legitimacy to be questioned.
+
+Legality and consent are not the same thing.
+
+A rule may have formally followed the corresponding procedure and, at the same time, produce a transformation for which the Government never received a specific electoral mandate.
+
+The population voted for parties and programmes.
+
+It did not vote for this complete system.
+
+## 2. Not everything was approved by decree-law, but an essential part remained in the hands of the Executive
+
+A common misunderstanding must also be corrected.
+
+The extraordinary regularisation was not approved by royal decree-law.
+
+It was implemented through Royal Decree 316/2026, approved by the Council of Ministers, which amended the Immigration Regulation contained in Royal Decree 1155/2024.
+
+A royal decree is a regulatory instrument of the Executive. It does not require the subsequent parliamentary ratification that a royal decree-law would require.
+
+The Government used the authority contained in the Organic Law on Foreign Nationals to create new exceptional residence and social integration permits. The text was published on 15 April 2026 and became operational the following day.
+
+The so-called Descendants Law is different in nature.
+
+It is contained in the eighth additional provision of Law 20/2022 on Democratic Memory, approved by the Cortes Generales. It therefore passed through a parliamentary legislative procedure, although it was not submitted to referendum either.
+
+The correct legal map is as follows:
+
+**Descendants Law**
+
+Parliamentary approval, without direct citizen ratification.
+
+**Immigration Regulation**
+
+Royal decree approved by the Government.
+
+**Extraordinary regularisation**
+
+Regulatory amendment approved by the Executive, without subsequent parliamentary ratification.
+
+**Referendum on the accumulated effect**
+
+None.
+
+There has been administrative participation, consultation with organisations and even a popular legislative initiative supported by hundreds of thousands of signatures.
+
+But a collection of signatures in favour of regularising people already resident in Spain is not equivalent to a national consultation on:
+
+- the final text;
+- the final number of applications;
+- the exact requirements;
+- the territorial impact;
+- subsequent naturalisations;
+- family reunification;
+- security;
+- integration;
+- or the future alteration of the electorate.
+
+## 3. More than 1.17 million applications do not constitute a minor administrative measure
+
+The extraordinary process closed on 30 June 2026 with 1,174,978 applications registered.
+
+By 2 July, 609,737 files had been processed. Of these, 79.6% corresponded to extraordinary social integration permits and 20.4% to applicants for international protection.
+
+We are speaking about a potential population larger than that of many Spanish provinces.
+
+This is not a marginal technical correction.
+
+It is a legal operation of historic scale.
+
+Access to the procedure required presence in Spain before 1 January 2026, proof of at least five months of continuous stay, no criminal record and no threat to public order or security.
+
+Regularisation may produce legitimate effects:
+
+- bringing workers out of the underground economy;
+- reducing exploitation;
+- facilitating contracts;
+- increasing social-security contributions;
+- improving administrative identification;
+- and recognising rights and obligations.
+
+But the official account cannot end there.
+
+A decision of this scale also requires publication of:
+
+- nationality of origin;
+- age and sex;
+- territorial distribution;
+- approved and rejected files;
+- detected criminal records;
+- identity doubts;
+- rejected foreign certificates;
+- foreseeable family reunifications;
+- impact on housing;
+- required school places;
+- healthcare costs;
+- integration policies;
+- future naturalisation rates;
+- and accumulated effects on the electoral register.
+
+The public knows the number of applications.
+
+It does not yet know the complete architecture of consequences.
+
+## 4. Regularisation does not grant an immediate vote, but it begins a legal trajectory
+
+A residence permit does not automatically turn a person into a voter.
+
+Only Spanish citizens of legal age who are registered on the electoral roll may vote in general elections. Morocco is also not among the countries with a reciprocity agreement allowing certain resident foreigners to vote in municipal elections.
+
+Therefore:
+
+> Regularised today does not mean voting tomorrow.
+
+But neither does it mean that there is no future political effect.
+
+Legal residence begins a possible path:
+
+legal residence → administrative continuity → long-term residence → application for nationality → registration on the electoral roll → voting
+
+The general period for applying for Spanish nationality through residence is ten years.
+
+It is reduced to two years for nationals by origin of Latin American countries, Andorra, the Philippines, Equatorial Guinea and Portugal, as well as Sephardic applicants. Morocco is not included in these exceptions, so its nationals are generally subject to the ten-year period. Granting nationality is not automatic either: it requires legal and continuous residence, good civic conduct and integration.
+
+The serious thesis is not that more than one million applicants will vote for the Government in the next elections.
+
+It is to ask:
+
+> What demographic and electoral projections has the Government made for the next two, five and ten years?
+
+A Government that changes the legal status of more than one million people must have studied:
+
+- how many will obtain permanent residence;
+- how many will apply for nationality;
+- how many will reunite family members;
+- where they will settle;
+- what political communities will emerge;
+- and what future effect the process will have on the electorate.
+
+There is not enough public evidence to claim that creating new voters is the primary purpose of regularisation.
+
+But it is also not credible that its electoral consequences have not been calculated.
+
+A policy may simultaneously pursue:
+
+- labour-market integration;
+- an increase in contributors;
+- an administrative reduction in irregularity;
+- the building of relationships with new communities;
+- and the acquisition of future political capital.
+
+Humanitarian aims and electoral incentives are not necessarily mutually exclusive.
+
+## 5. The Descendants Law operates through a more direct route
+
+The so-called Descendants Law does not convert irregular residence into legal residence.
+
+It allows certain categories of descendants of Spaniards born outside the country to opt directly for Spanish nationality, including descendants of exiles, children of Spanish women who lost their nationality upon marrying foreigners before 1978, and certain adult children of people who had previously acquired nationality through these routes.
+
+Here the path is different:
+
+proven descent → Spanish nationality of origin → civil registration → potential inclusion in the electoral roll → suffrage
+
+By 31 March 2026, more than 2.45 million people had expressed an interest in using the procedure.
+
+Consular offices had received more than 1.2 million files in person, approved around 545,000 and completed approximately 306,500 registrations in consular civil registries.
+
+On 1 January 2026, 3,202,002 Spanish citizens were living abroad, 5.1% more than a year earlier.
+
+Four out of every five new registrations made during 2025 corresponded to people born outside Spain. Argentina, Mexico and the United States recorded the largest increases.
+
+Not all of this growth can be attributed to the Democratic Memory Law.
+
+There are also births, emigration, recoveries of nationality and other procedures.
+
+But the figures require a specific audit of:
+
+- new adult nationals;
+- additions to the overseas electoral register;
+- countries of residence;
+- assigned provinces;
+- electoral participation;
+- files still pending;
+- and citizens who may vote in Spain without ever having lived in the country.
+
+Historical reparation may be legitimate.
+
+That does not erase its electoral consequence.
+
+Nationality is not merely a symbolic recognition of ancestry.
+
+It is full legal membership of the State.
+
+
+## 6. Morocco is not a passive actor
+
+Morocco cannot appear in this analysis only as the country of origin of part of the immigrant population.
+
+It is a State that controls one of the main access points to Spain, maintains territorial claims and interests, conditions the situation of Ceuta and Melilla and has demonstrated that it can modulate border pressure according to the state of its diplomatic relations.
+
+During the Ceuta crisis of May 2021, thousands of people crossed the border after Moroccan controls were relaxed.
+
+The European Parliament explicitly rejected Morocco’s use of border control, migration and unaccompanied minors as instruments of political pressure against Spain.
+
+This point has already moved beyond suspicion:
+
+> Morocco has used the border and human flows as instruments of diplomatic coercion.
+
+In March 2022, Spain changed its historic position on Western Sahara and began to regard Morocco’s autonomy plan as the most serious basis for resolving the conflict.
+
+Relations were then normalised and border cooperation was reinforced.
+
+The sequence does not in itself prove an unlawful quid pro quo, but it does reveal a structure of pressure and dependence:
+
+diplomatic crisis → migration pressure → Spanish change on Western Sahara → bilateral normalisation → reinforced border cooperation
+
+The question still lacks a complete answer:
+
+> What exactly did Morocco receive, and what did Spain commit to, in order for Rabat to resume containing the flows?
+
+## 7. An architecture of conditional protection
+
+The relationship follows a disturbing logic:
+
+Morocco controls part of the pressure → it can increase or reduce its intensity → Spain needs Morocco to contain it → Rabat obtains funding, influence and concessions → Spain becomes conditioned
+
+The word “mafia” should not be presented as a criminal accusation without a judgment or proof of a criminal organisation.
+
+But it can describe a functional form of power:
+
+- an actor controls a threat;
+- allows the threat to materialise;
+- offers protection against it;
+- demands compensation;
+- punishes deviations;
+- and keeps the conditions of the relationship opaque.
+
+The structure smells like a protection racket because the administrator of the threat and the provider of the solution may be the same actor.
+
+> “I can help you contain the problem, but I can also allow it to reappear.”
+
+That is not balanced cooperation.
+
+It is strategic dependence.
+
+## 8. Moroccan pardons: enormous figures, different meanings
+
+Mohammed VI regularly grants measures of clemency on religious holidays and national celebrations.
+
+On 31 March 2025, measures were announced for 1,533 people. Among them were 31 people convicted of offences related to extremism or terrorism.
+
+But only some received a full cancellation of the remainder of their sentence. The group also included sentence reductions and people who were already at liberty.
+
+At the end of July 2025, on the occasion of Throne Day, measures were announced for 19,673 convicted people.
+
+Of these, 2,415 received ordinary clemency measures and 17,258 were included in an exceptional clemency programme. The figure does not equal 19,673 immediate releases.
+
+On 10 January 2026, measures were announced for 1,386 people, including 15 convicted of offences related to extremism.
+
+Among the imprisoned beneficiaries, only a fraction received full remission of the remainder of the sentence; most obtained reductions.
+
+On 19 March 2026, measures were granted to 1,201 people.
+
+The statement included detainees and people already at liberty, again distinguishing between remission of the remainder of the sentence, reductions and other commutations.
+
+Therefore, this equivalence is false:
+
+> 1,500 pardoned people = 1,500 prisoners immediately released.
+
+But correcting the figure does not remove the central question:
+
+> How many people were actually released, what records did they have, and how many subsequently entered Spain?
+
+## 9. Temporal coincidences that do not prove causality
+
+Spanish irregular-immigration reports show movements that coincide in time with some of these pardons.
+
+After the major announcement of July 2025, Spain had accumulated 20,258 irregular arrivals by 31 July and 1,601 land entries through Ceuta and Melilla. The figure showed an increase in land entries compared with the same period in 2024, although total arrivals nationwide had fallen.
+
+In January 2026, after the pardon of the 10th, total irregular arrivals fell by 58.4% compared with the same period in 2025.
+
+However, land entries through Ceuta and Melilla reached 436, compared with 95 a year earlier: a year-on-year increase of 358.9%.
+
+The anomaly deserves attention.
+
+It does not prove that pardoned people were among those who entered Spain.
+
+The public data are aggregated and do not include:
+
+- names;
+- fingerprints;
+- criminal records;
+- individual nationality;
+- previous prison status;
+- or later regularisation applications.
+
+I have not found public evidence that would allow this chain to be completed:
+
+person pardoned in Morocco → actual release from prison → movement to Spain → irregular entry → application for residence or regularisation
+
+But the absence of evidence does not solve the problem.
+
+It reveals another problem:
+
+> Spain does not publish the traceability needed to prove or rule out that connection.
+
+We do not know that there is no relationship.
+
+We know that citizens do not have the data required to verify it.
+
+## 10. Regularisation can become a political solution
+
+The Government found an administrative solution for hundreds of thousands of irregular situations: converting them into legal residence.
+
+That may be defended in terms of employment, integration, contributions or rights.
+
+But it also has a political dimension.
+
+An administratively vulnerable population can, after regularisation, become:
+
+- a labour community;
+- an associative community;
+- a recipient of public policies;
+- a base of representation;
+- an electoral interlocutor;
+- and, over time, naturalised citizens.
+
+This does not mean that every regularised person owes loyalty to the Government that approved the measure.
+
+Nor does it allow their vote to be predicted automatically.
+
+But political parties understand the value of establishing a relationship between:
+
+- recognition;
+- rights;
+- identity;
+- protection;
+- representation;
+- and electoral loyalty.
+
+The hypothesis to investigate is not the caricature that the Government instantly manufactured one million votes.
+
+It is deeper:
+
+> The Government may have converted an administrative problem into a long-term demographic, labour and electoral opportunity.
+
+Social harm, lack of integration or certain security risks would not need to be the objective.
+
+They could operate as accepted secondary costs while other benefits are obtained.
+
+
+## 11. A Government sustained by nationalist and separatist forces
+
+Pedro Sánchez was invested as Prime Minister in November 2023 by 179 votes in favour and 171 against.
+
+The majority depended on agreements with several regional, nationalist and separatist forces.
+
+These parties are legal, and their voters possess the same rights as any other citizen.
+
+The contradiction lies in the structure of incentives.
+
+The Government of Spain has a duty to preserve the common framework.
+
+But its continuity depends on organisations that seek, to differing degrees:
+
+- to expand territorial sovereignty;
+- to reduce State powers;
+- to obtain special fiscal systems;
+- to secure exceptions;
+- to consolidate separate political identities;
+- or eventually to achieve independence.
+
+The system becomes trapped:
+
+the Government needs votes → nationalists demand concessions → every vote becomes a negotiation → common equality is fragmented → the survival of the Executive prevails over the coherence of the State
+
+There need not be a unified order to destroy Spain.
+
+Erosion may occur through the accumulation of:
+
+- amnesties;
+- exceptions;
+- transfers;
+- privileges;
+- devolved powers;
+- territorial inequalities;
+- institutional weakening;
+- and successive reinterpretations of sovereignty.
+
+Destruction from within does not always appear as a visible coup.
+
+It may advance as a permanent negotiation in which each actor extracts part of the State in exchange for keeping the Government in office.
+
+## 12. Two vectors of pressure on the common framework
+
+Spain is simultaneously subjected to two centrifugal forces:
+
+nationalisms from within
+
+and
+
+Moroccan pressure from outside
+
+The former condition parliamentary stability.
+
+Morocco conditions part of Spain’s border and diplomatic stability.
+
+In between, the Government transforms:
+
+- residence;
+- nationality;
+- the electoral register;
+- territorial relations;
+- foreign policy;
+- and social composition.
+
+Citizens can vote every four years, appeal to the courts, demonstrate or influence their representatives.
+
+It would be inaccurate to say that no controls exist at all.
+
+But the direct capacity to halt the process between elections is minimal.
+
+The population cannot, on its own initiative:
+
+- call a binding national referendum;
+- recall the Prime Minister;
+- suspend a royal decree;
+- compel publication of electoral projections;
+- block diplomatic agreements;
+- or prevent parliamentary concessions that did not appear in electoral programmes.
+
+Sovereignty formally remains with the people.
+
+Its material exercise is delegated for years.
+
+That is why the process is perceived as unstoppable:
+
+> Citizens retain theoretical sovereignty but lack immediate operational mechanisms for exercising it while the country changes.
+
+## 13. The future risk of organised dogmas
+
+Immigration does not move only labour, population or consumption.
+
+It also transports:
+
+- memories;
+- conflicts;
+- religions;
+- family codes;
+- conceptions of authority;
+- community models;
+- relationships between religion and State;
+- and different ways of interpreting individual freedom.
+
+The political participation of Muslim, Christian, Jewish, atheist citizens, or citizens belonging to any other tradition, is fully legitimate.
+
+The risk does not lie in personal faith.
+
+It appears when a community organises itself around a closed dogma and converts identity-based belonging into political obedience:
+
+belonging → community protection → internal authority → discipline → bloc voting → political intermediation → concessions → party penetration → alteration of the common framework
+
+This risk does not belong exclusively to Islam.
+
+It also exists in:
+
+- nationalisms;
+- closed ideologies;
+- identity movements;
+- political sects;
+- economic groups;
+- patronage networks;
+- and religious organisations of any kind.
+
+The problem begins when the citizen stops voting according to individual conscience and instead does so under the authority of:
+
+- a religious leader;
+- a territorial party;
+- a community organisation;
+- a foreign government;
+- a patronage network;
+- or an intermediary who administers identity and dependence.
+
+Spain already experiences political fragmentation based on territories.
+
+The future emergence of electoral blocs linked to religious, community or foreign structures could multiply that dynamic.
+
+The democratic principle must be unequivocal:
+
+> No religious, nationalist, political or identity-based dogma may be placed above individual conscience, equality before the law and the common civic framework.
+
+## 14. Informational fragmentation protects the system
+
+The data exist, but they appear separately.
+
+- Pardons are published in Moroccan statements.
+- Irregular entries appear in fortnightly Interior Ministry reports.
+- Regularisation is contained in the Official State Gazette.
+- Application numbers are announced by La Moncloa.
+- Nationalities are processed through consulates.
+- The electoral register and population records are held by the National Statistics Institute.
+- Agreements with Morocco belong to the diplomatic sphere.
+- Territorial concessions appear in parliamentary agreements.
+- Social effects are distributed across ministries and autonomous communities.
+
+Citizens receive fragments.
+
+Power retains the map.
+
+This mechanism does not require a central censorship order.
+
+It operates through the filters described by Chomsky:
+
+- agenda selection;
+- dependence on official sources;
+- privileged access;
+- funding;
+- institutional advertising;
+- self-censorship;
+- delimitation of what is acceptable;
+- and moral punishment of those who leave the authorised frame.
+
+Contemporary manipulation does not always consist of publishing a lie.
+
+It may also consist of:
+
+> Publishing enough data to claim that transparency exists, but never relating those data in a way that allows citizens to understand the complete system.
+
+Each isolated fact may be correct.
+
+The resulting image may still be false through fragmentation.
+
+## 15. Is there collusion between the Spanish Government and Morocco?
+
+There is currently no public proof of a comprehensive criminal collusion between the two governments to:
+
+- send pardoned prisoners;
+- manufacture voters;
+- destabilise Spain;
+- manipulate the electoral register;
+- or deliberately introduce dogmatic structures into politics.
+
+To present this as an established fact would go beyond the available evidence.
+
+But there is an objective convergence of interests.
+
+**Morocco obtains:**
+
+- influence over Spain;
+- funding;
+- investment;
+- increasing support over Western Sahara;
+- border-pressure capacity;
+- social depth through its diaspora;
+- and greater negotiating power.
+
+**The Spanish Government obtains:**
+
+- temporary migration containment;
+- an appearance of border control;
+- regularised workers;
+- new contributors;
+- a statistical reduction in irregularity;
+- humanitarian legitimacy;
+- relationships with new communities;
+- and a possible future expansion of its electoral space.
+
+**Nationalist parties obtain:**
+
+- concessions;
+- resources;
+- powers;
+- exceptions;
+- territorial recognition;
+- and weakening of the common framework.
+
+**Media close to power obtain:**
+
+- access;
+- institutional advertising;
+- political protection;
+- and preservation of their narrative position.
+
+**Citizens assume:**
+
+- pressure on housing and services;
+- integration costs;
+- uncertainty about security;
+- cultural transformation;
+- territorial inequality;
+- external dependence;
+- and loss of control over the whole.
+
+A perfectly centralised conspiracy is not necessary when a stable convergence of benefits produces the same result.
+
+
+## 16. Is this a criminal Government?
+
+The expression “criminal Government” may function as a political accusation.
+
+It cannot yet be presented as an established criminal-law conclusion.
+
+To prove organised institutional criminality, it would be necessary to establish conduct such as:
+
+- knowing misuse of public office;
+- concealment;
+- falsification of statistics;
+- unlawful manipulation of the electoral register;
+- deliberate entry of dangerous persons;
+- collaboration with foreign destabilisation operations;
+- unlawful financing;
+- secret exchanges of favours;
+- or criminal partisan use of institutions.
+
+The currently available public information does not permit the legal claim that the Spanish Government is a criminal organisation.
+
+It does permit a political accusation of enormous gravity:
+
+> The Government is transforming essential layers of the country without direct citizen ratification, maintains an opaque and dependent relationship with Morocco, survives through concessions to centrifugal forces and does not provide the traceability required to rule out electoral calculations, conflicts of interest or forms of institutional disloyalty.
+
+When power:
+
+- knows the risks;
+- hides the complete map;
+- prevents effective auditing;
+- obtains political benefits;
+- and transfers the costs to the population,
+
+the boundary between bad policy, abuse of power and possible institutional criminality begins to narrow.
+
+That is what must be investigated.
+
+## 17. Neodialectics and Open Synthesis™: the engine of the analysis
+
+Neodialectics does not consist of confronting the official version with an alternative theory and selecting one of them.
+
+Nor does it seek an artificial middle ground.
+
+It reconstructs relationships:
+
+fact → context → contradiction → interest → correlation → hypothesis → contrast → Open Synthesis™
+
+Open Synthesis™ is the operational engine of the framework.
+
+It does not close the investigation when it finds a plausible explanation.
+
+It simultaneously preserves:
+
+- confirmed facts;
+- detected relationships;
+- contradictions;
+- interests;
+- hypotheses;
+- refutations;
+- pending evidence;
+- and the possibility of correcting the whole.
+
+Its operation is dynamic:
+
+new evidence → reassessment → correction → downgrading of weak hypotheses → elevation of solid indications → integration of contradictions → new synthesis
+
+This makes it possible to escape two dogmatic closures.
+
+The first says:
+
+> “Everything is legal, therefore there is nothing to investigate.”
+
+The second says:
+
+> “Everything coincides, therefore the conspiracy has been proved.”
+
+Open Synthesis™ accepts neither.
+
+It keeps visible the space between:
+
+- what is proved;
+- what is officially declared;
+- what is correlated;
+- what is plausible;
+- what is contradicted;
+- what has not been ruled out;
+- and what power still does not allow to be verified.
+
+## 18. Current state of the Open Synthesis™
+
+### Verified facts
+
+- Morocco has used border control and migration as political pressure.
+- Spain changed its position on Western Sahara.
+- An extraordinary regularisation was approved by royal decree.
+- 1,174,978 applications were received.
+- Residence does not grant an immediate vote.
+- Legal residence may subsequently lead to nationality.
+- The Descendants Law allows direct acquisition of Spanish nationality.
+- More than 1.2 million files had been received in person by consulates by March 2026.
+- Morocco regularly grants thousands of pardons, reductions and commutations.
+- Some beneficiaries had been convicted of extremism.
+- There is no public traceability linking pardoned people, entries into Spain and regularisation applications.
+- No referendum has been held on the accumulated effect.
+- The Government was invested through a majority dependent on nationalist and separatist forces.
+
+### Structural relationships
+
+- Morocco controls part of the pressure that Spain needs it to contain.
+- The Government is parliamentarily dependent on forces that seek to reduce or overcome the common State framework.
+- Regularisation begins legal paths towards nationality.
+- The Descendants Law directly expands citizenship.
+- Information is fragmented across institutions.
+- Citizens lack direct instruments to stop the process between elections.
+
+### Reasonable inferences
+
+- Morocco has material coercive capacity over Spain.
+- The Government must know the future demographic and electoral effects.
+- Regularisation may generate long-term political capital.
+- Nationalists possess negotiating power greater than their national electoral weight.
+- Informational fragmentation reduces public scrutiny.
+- Communities organised through closed dogmas can become political blocs.
+- A stable convergence can produce effects similar to formal coordination.
+
+### Open hypotheses
+
+- deliberate transfer of certain pardoned people towards Spain;
+- conscious electoral use of regularisation;
+- construction of dependent voting communities;
+- coordinated media concealment;
+- a comprehensive pact between Rabat and the Spanish Government;
+- political penetration financed from abroad;
+- conscious manipulation of the electoral register;
+- and possible organised institutional criminality.
+
+Open Synthesis™ does not claim that all the hypotheses are true.
+
+It prevents them from being dismissed through partial answers.
+
+## 19. WEB4™ as shared public intelligence
+
+The problem cannot be solved merely through more articles.
+
+An infrastructure is required that can connect what currently appears separately.
+
+The Innova_N public repository already defines itself as a minimal layer of traceability, linked memory and connection between GitHub, LinkedIn, Wiki and WEB4™. It also includes materials on traceable auditing and recognises Open Neodialectical Synthesis as part of the framework.
+
+WEB4™ must not be another social network.
+
+It must operate as shared public intelligence.
+
+For this case it should connect:
+
+- the date of each pardon;
+- the actual type of clemency measure;
+- effective releases;
+- criminal records;
+- subsequent entries into Spain;
+- legislation;
+- residence applications;
+- naturalisations;
+- evolution of the electoral register;
+- diplomatic agreements;
+- funding;
+- parliamentary decisions;
+- benefiting actors;
+- contradictions;
+- and documentary gaps.
+
+Each claim should retain a dynamic status:
+
+VERIFIED FACT
+
+OFFICIALLY DECLARED DATA
+
+CONFIRMED RELATIONSHIP
+
+TEMPORAL CORRELATION
+
+INFERENCE
+
+OPEN HYPOTHESIS
+
+CONTRADICTION
+
+PENDING EVIDENCE
+
+DOWNGRADED
+
+REFUTED
+
+REVISED SYNTHESIS
+
+Citizens could observe:
+
+- where each item of data comes from;
+- which evidence supports it;
+- which elements contradict it;
+- which actors benefit;
+- which documents are missing;
+- and how the synthesis changes when new evidence appears.
+
+LinkedIn opens the debate.
+
+GitHub fixes the version, sources and history.
+
+The Wiki organises the conceptual framework.
+
+WEB4™ turns all of this into living, collective and correctable memory.
+
+## 20. Questions the Government must answer
+
+- Why was a transformation of this magnitude not submitted to a consultative referendum?
+- What demographic projection was made before the regularisation was approved?
+- How many applicants are expected to obtain nationality within two, five and ten years?
+- What electoral projection exists?
+- What is the distribution of applications by nationality?
+- How many files contain criminal records, police annotations or doubts about identity?
+- How many applications have been approved despite the existence of police information?
+- How reliable are certificates issued by Morocco?
+- Does Spain possess nominal lists of people pardoned in Morocco?
+- Have those lists been cross-checked against entries, arrests, asylum applications or regularisation files?
+- What complete agreements exist between Spain and Morocco regarding migration, security, funding and borders?
+- What considerations accompanied the change on Western Sahara?
+- How many nationalities have been granted through the Descendants Law?
+- How many new nationals have already been added to the overseas electoral register?
+- In which constituencies are they registered?
+- How many have never lived in Spain?
+- Which associations receive funding directly or indirectly linked to foreign governments?
+- What measures prevent religious or community authorities from conditioning votes?
+- What territorial concessions have been agreed in order to maintain the parliamentary majority?
+- Why is there no integrated audit of migration, nationality, the electoral register, security and foreign influence?
+
+## Conclusion
+
+Spain has not voted on this transformation as a whole.
+
+It voted for parties and representatives.
+
+A minority Government then used:
+
+- regulations;
+- broadly framed laws;
+- parliamentary agreements;
+- territorial pacts;
+- diplomatic decisions;
+- and administrative procedures
+
+to alter deep layers of the country without requesting direct ratification by citizens.
+
+Part of the process is legal.
+
+Part of it may serve legitimate aims.
+
+That does not remove the democratic problem.
+
+When the Government depends internally on forces seeking to reduce the common State and Spain depends externally on Morocco to contain pressure that Morocco itself can modulate, the system becomes trapped between two vectors:
+
+> fragmentation from within and coercion from outside.
+
+In between, the following change:
+
+- residence;
+- nationality;
+- the electoral register;
+- the territorial structure;
+- foreign policy;
+- integration;
+- and the future meaning of belonging to Spain.
+
+Without a referendum.
+
+Without a comprehensive audit.
+
+Without direct citizen capacity to halt the process.
+
+It cannot yet be claimed that there is a single collusive scheme.
+
+There may be something more difficult to contain:
+
+> A convergence of interests in which each actor weakens one part of the common framework and benefits from the result.
+
+The Government retains power.
+
+Nationalists advance.
+
+Morocco increases its influence.
+
+Future community structures may organise politically.
+
+The media administer fragments.
+
+And citizens lose sight of the whole.
+
+That is why neodialectical analysis alone is not enough.
+
+Its engine is required:
+
+Open Synthesis™.
+
+Not to replace the official version with another closed truth.
+
+To keep simultaneously visible:
+
+- the facts;
+- the contradictions;
+- the correlations;
+- the interests;
+- the hypotheses;
+- the pending evidence;
+- and future corrections.
+
+A democracy cannot depend on each citizen separately investigating hundreds of scattered documents.
+
+It needs shared memory.
+
+It needs traceability.
+
+It needs collective capacity for contrast.
+
+It needs real mechanisms of control between elections.
+
+And it needs public intelligence that prevents power from closing the debate before the population has understood the complete system.
+
+WEB4™: shared intelligence.
+
+Neodialectics: a framework for reconstruction.
+
+Open Synthesis™: a living engine for contrast, correction and the evolution of public knowledge.
+
+A democracy that does not allow its citizens to understand, ratify or halt its own transformation may retain its institutional forms while progressively losing control of its destiny.
+
+---
+
+## Documentary status / Estado documental
+
+This document records the bilingual public version of the investigation published on 21 July 2026. The English version is a faithful translation of the Spanish version, which retains authorial primacy in the event of any interpretative discrepancy.
+
+Este documento fija la versión pública bilingüe de la investigación publicada el 21 de julio de 2026. La versión inglesa es una traducción fiel de la versión española, que conserva primacía autoral en caso de discrepancia interpretativa.
+
+The publication does not attribute collective responsibility to any nationality, religion or population. The analysis concerns institutional decisions, power structures, political incentives, external dependencies, cumulative effects and gaps in public traceability.
+
+La publicación no atribuye responsabilidad colectiva a ninguna nacionalidad, religión o población. El objeto del análisis son las decisiones institucionales, las estructuras de poder, los incentivos políticos, las dependencias exteriores, los efectos acumulados y los vacíos de trazabilidad pública.
+
+## Original publication and dissemination / Publicación original y difusión
 
 - LinkedIn: https://www.linkedin.com/pulse/espa%C3%B1a-sin-consulta-marruecos-regularizaci%C3%B3n-nacionalidad-y-p%C3%A9rdida-bh97e/
 - Facebook: https://www.facebook.com/photo?fbid=122116233291165790&set=a.122115638673165790
-- Repositorio: `Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC`
-- Ruta pública: `analisis/publicos/`
-- Marco: Neodialéctica
-- Motor: Síntesis Abierta™
-- Infraestructura futura: WEB4™
+- Repository / Repositorio: `Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC`
+- Public path / Ruta pública: `analisis/publicos/`
+- Framework / Marco: Neodialéctica / Neodialectics
+- Engine / Motor: Síntesis Abierta™ / Open Synthesis™
+- Future infrastructure / Infraestructura futura: WEB4™
 
-## Cita recomendada
+## Recommended citation / Cita recomendada
 
-Martínez Alhambra, Pedro. «España sin consulta: Marruecos, regularización, nacionalidad y pérdida de control democrático». Innova_N, 21 de julio de 2026.
+Martínez Alhambra, Pedro. «España sin consulta: Marruecos, regularización, nacionalidad y pérdida de control democrático / Spain without consultation: Morocco, regularisation, nationality and loss of democratic control». Innova_N, 21 July 2026 / 21 de julio de 2026.
 
 ---
 
 Pedro Martínez Alhambra  
-Innova_N · Neodialéctica · Síntesis Abierta™ · WEB4™
+Innova_N · Neodialéctica / Neodialectics · Síntesis Abierta™ / Open Synthesis™ · WEB4™
