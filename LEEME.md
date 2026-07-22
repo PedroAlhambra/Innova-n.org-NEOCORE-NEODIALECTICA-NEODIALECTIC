@@ -99,16 +99,14 @@ Los documentos distinguen, cuando corresponde, entre hechos verificados, datos o
 
 ## Últimos análisis públicos
 
+- [2026-07-22 · Parte II — Dajla, mafias migratorias y control estatal](analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
+  - [Fuentes y matriz de evidencias](analisis/publicos/2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md)
+  - [Prueba audiovisual](analisis/publicos/evidencias/2026-07-22_dajla-testimonio-rutas-migratorias.mp4)
 - [2026-07-21 · España sin consulta: Marruecos, regularización, nacionalidad y pérdida de control democrático](./analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
-
 - [2026-07-13 · Religión e identidad: cuando el dogma captura la conciencia y el Estado](./analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
-
 - [2026-04-15 · Anthropic, gobernanza de IA y problema del marco](./analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
-
 - [2026-04-15 · Convergencia neodialéctica no reconocida en la IA institucional](./analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
-
 - [2026-04-15 · LinkedIn como red profesional fragmentada](./analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md)
-
 - [2026-04-01 · Stanford / ACE y el marco previo neodialéctico](./analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
 
 ### Índices de análisis
