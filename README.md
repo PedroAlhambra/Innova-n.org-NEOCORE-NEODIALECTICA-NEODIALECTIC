@@ -111,6 +111,9 @@ This repository also includes public analytical documents that trace ongoing ins
 
 ## Latest public analyses
 
+- [2026-07-22 · Part II — Dakhla, migrant-smuggling networks and state control](analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
+  - [Sources and evidence matrix](analisis/publicos/2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md)
+  - [Audiovisual evidence](analisis/publicos/evidencias/2026-07-22_dajla-testimonio-rutas-migratorias.mp4)
 - [Spain without consultation: Morocco, regularisation, nationality and loss of democratic control](./analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
 - [Religion and identity: when dogma captures consciousness and the State](./analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
 - [Anthropic, AI governance, and the framework problem](./analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
