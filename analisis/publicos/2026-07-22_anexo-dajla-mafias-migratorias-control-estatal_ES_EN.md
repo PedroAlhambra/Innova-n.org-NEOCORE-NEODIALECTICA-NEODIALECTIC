@@ -40,12 +40,6 @@
 
 ---
 
-## Material audiovisual / Audiovisual material
-
-![Dajla, mafias migratorias y control estatal: infraestructura de las rutas, vigilancia fronteriza, presión diplomática y dependencia entre Marruecos y España.](./assets/2026-07-22_dajla-mafias-control-estatal_portada.png)
-
-*Dajla, mafias migratorias y control estatal: infraestructura de las rutas, vigilancia fronteriza, presión diplomática y dependencia entre Marruecos y España.*
-
 ### Prueba audiovisual analizada / Analysed audiovisual evidence
 
 [Ver o descargar el testimonio sobre Dajla, pateras, vigilancia estatal y presión migratoria](./evidencias/2026-07-22_dajla-testimonio-rutas-migratorias.mp4)
