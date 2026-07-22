@@ -11,6 +11,9 @@ Cada análisis puede vincularse, cuando corresponda, a su proyección en LinkedI
 
 ## Serie abierta
 
+- [2026-07-22 · Parte II — Dajla, mafias migratorias y control estatal](./2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
+  - [Fuentes y matriz de evidencias](./2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md)
+  - [Prueba audiovisual](./evidencias/2026-07-22_dajla-testimonio-rutas-migratorias.mp4)
 - [2026-07-21 · España sin consulta: Marruecos, regularización, nacionalidad y pérdida de control democrático](./2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
 - [2026-07-13 · Religión e identidad: cuando el dogma captura la conciencia y el Estado](./2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
 - [2026-04-15 · Anthropic, gobernanza de IA y problema del marco](./2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
@@ -40,6 +43,9 @@ Each analysis may be linked, when appropriate, to its LinkedIn projection and to
 
 ## Open series
 
+- [2026-07-22 · Part II — Dakhla, migrant-smuggling networks and state control](./2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
+  - [Sources and evidence matrix](./2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md)
+  - [Audiovisual evidence](./evidencias/2026-07-22_dajla-testimonio-rutas-migratorias.mp4)
 - [2026-07-21 · Spain without consultation: Morocco, regularisation, nationality and loss of democratic control](./2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
 - [2026-07-13 · Religion and identity: when dogma captures consciousness and the State](./2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
 - [2026-04-15 · Anthropic, AI governance, and the framework problem](./2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
@@ -50,6 +56,8 @@ Each analysis may be linked, when appropriate, to its LinkedIn projection and to
 
 ### Related
 
+- [Serie España–Marruecos: Parte I](./2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
+- [Serie España–Marruecos: Parte II](./2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
 - [Public analyses Wiki index](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Analisis_Neodialecticos_Publicos)
 - [Spain without consultation: Wiki record](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Analisis_Espana_Marruecos_Regularizacion_Control_Democratico)
 - [Prior framework and external evidence](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Marco_Previo_y_Evidencia_Externa)
