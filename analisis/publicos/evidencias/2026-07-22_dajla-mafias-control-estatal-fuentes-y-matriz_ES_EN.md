@@ -143,7 +143,7 @@ https://enlargement.ec.europa.eu/news/eu-launches-new-cooperation-programmes-mor
 
 ## S-08 · Prueba audiovisual / Audiovisual evidence
 
-[Ver o descargar / View or download](./evidencias/2026-07-22_dajla-testimonio-rutas-migratorias.mp4)
+[Ver o descargar / View or download](./2026-07-22_dajla-testimonio-rutas-migratorias.mp4)
 
 ---
 
