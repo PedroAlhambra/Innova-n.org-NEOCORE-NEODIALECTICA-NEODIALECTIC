@@ -99,6 +99,7 @@ Los documentos distinguen, cuando corresponde, entre hechos verificados, datos o
 
 ## Últimos análisis públicos
 
+- [Serie España–Marruecos: regularización, soberanía, Dajla y presión fronteriza](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Analisis_Espana_Marruecos_Regularizacion_Control_Democratico)
 - [2026-07-22 · Parte II — Dajla, mafias migratorias y control estatal](analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
   - [Fuentes y matriz de evidencias](analisis/publicos/evidencias/2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md)
   - [Prueba audiovisual](analisis/publicos/evidencias/2026-07-22_dajla-testimonio-rutas-migratorias.mp4)
