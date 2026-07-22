@@ -18,6 +18,10 @@ No debe leerse como archivo indiferenciado. A partir de esta fase se entiende co
 
 ## Análisis públicos
 
+
+- [2026-07-22 · Parte II — Dajla, mafias migratorias y control estatal](./2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
+  - [Fuentes y matriz de evidencias](./evidencias/2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md)
+  - [Prueba audiovisual](./evidencias/2026-07-22_dajla-testimonio-rutas-migratorias.mp4)
 - [2026-07-21 · España sin consulta: Marruecos, regularización, nacionalidad y pérdida de control democrático](./publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
 - [2026-07-13 · Religión e identidad: cuando el dogma captura la conciencia y el Estado](./publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
 - [2026-04-15 · Anthropic, gobernanza de IA y problema del marco](./publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
@@ -61,6 +65,9 @@ It should not be read as an undifferentiated archive. From this phase onward, it
 
 ## Public analyses
 
+- [2026-07-22 · Part II — Dakhla, migrant-smuggling networks and state control](./2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
+  - [Sources and evidence matrix](./evidencias/2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md)
+  - [Audiovisual evidence](./evidencias/2026-07-22_dajla-testimonio-rutas-migratorias.mp4)
 - [2026-07-21 · Spain without consultation: Morocco, regularisation, nationality and loss of democratic control](./publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
 - [2026-07-13 · Religion and identity: when dogma captures consciousness and the State](./publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
 - [2026-04-15 · Anthropic, AI governance, and the framework problem](./publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
