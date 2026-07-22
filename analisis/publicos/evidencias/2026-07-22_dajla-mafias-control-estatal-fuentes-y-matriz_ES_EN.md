@@ -8,9 +8,9 @@
 **Autoría / Authorship:** Fundación Innova_N · Pedro Martínez Alhambra + IA Neodialéctica  
 **Estado / Status:** Público · Revisable · Síntesis Abierta™ / Public · Revisable · Open Synthesis™  
 **Idiomas / Languages:** ES · EN  
-**Documento asociado / Related document:** [Parte II — Dajla, mafias migratorias y control estatal](./2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)  
-**Documento matriz / Parent analysis:** [Parte I — España sin consulta](./2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)  
-**Prueba audiovisual / Audiovisual evidence:** [Testimonio sobre rutas migratorias desde Dajla](./evidencias/2026-07-22_dajla-testimonio-rutas-migratorias.mp4)
+**Documento asociado / Related document:** [Parte II](../2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
+**Documento matriz / Parent analysis:** [Parte I](../2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
+**Prueba audiovisual / Audiovisual evidence:** [Vídeo](./2026-07-22_dajla-testimonio-rutas-migratorias.mp4)
 
 ---
 
