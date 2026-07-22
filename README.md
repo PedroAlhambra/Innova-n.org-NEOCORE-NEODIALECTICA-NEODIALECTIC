@@ -112,7 +112,7 @@ This repository also includes public analytical documents that trace ongoing ins
 ## Latest public analyses
 
 - [2026-07-22 · Part II — Dakhla, migrant-smuggling networks and state control](analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
-  - [Sources and evidence matrix](analisis/publicos/2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md)
+  - [Sources and evidence matrix](analisis/publicos/evidencias/2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md)
   - [Audiovisual evidence](analisis/publicos/evidencias/2026-07-22_dajla-testimonio-rutas-migratorias.mp4)
 - [Spain without consultation: Morocco, regularisation, nationality and loss of democratic control](./analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
 - [Religion and identity: when dogma captures consciousness and the State](./analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
@@ -120,6 +120,11 @@ This repository also includes public analytical documents that trace ongoing ins
 - [Unrecognized neodialectical convergence in institutional AI](./analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
 - [LinkedIn as a fragmented professional network](./analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md)
 - [Stanford / ACE and the prior neodialectical framework](./analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
+
+### Spain–Morocco documentary series
+
+1. [Part I — Spain without consultation](analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
+2. [Part II — Dakhla, migrant-smuggling networks and state control](analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
 
 ### Related public wiki pages
 - [Spain, Morocco, regularisation and democratic control](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Analisis_Espana_Marruecos_Regularizacion_Control_Democratico)
