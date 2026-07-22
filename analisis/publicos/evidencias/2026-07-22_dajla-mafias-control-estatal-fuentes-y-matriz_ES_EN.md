@@ -9,7 +9,9 @@
 **Estado / Status:** Público · Revisable · Síntesis Abierta™ / Public · Revisable · Open Synthesis™  
 **Idiomas / Languages:** ES · EN  
 **Documento asociado / Related document:** [Parte II](../2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
+
 **Documento matriz / Parent analysis:** [Parte I](../2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
+
 **Prueba audiovisual / Audiovisual evidence:** [Vídeo](./2026-07-22_dajla-testimonio-rutas-migratorias.mp4)
 
 ---
