@@ -48,7 +48,7 @@
 
 ### Prueba audiovisual analizada / Analysed audiovisual evidence
 
-[Ver o descargar el testimonio sobre Dajla, pateras, vigilancia estatal y presión migratoria](./assets/2026-07-22_dajla-testimonio-rutas-migratorias.mp4)
+[Ver o descargar el testimonio sobre Dajla, pateras, vigilancia estatal y presión migratoria](./evidencias/2026-07-22_dajla-testimonio-rutas-migratorias.mp4)
 
 *Testimonio sobre las salidas de pateras desde Dajla hacia Canarias, la vigilancia marroquí y la posible tolerancia, corrupción o utilización política de las rutas migratorias.*
 
