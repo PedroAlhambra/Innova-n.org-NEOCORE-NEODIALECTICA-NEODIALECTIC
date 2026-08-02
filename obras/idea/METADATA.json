@@ -1,129 +1,199 @@
 {
-  "schema": "innova_n.public_work.v1",
-  "recorded_at": "2026-08-02",
-  "work": {
-    "title": "IDEA",
-    "author": "Pedro Martínez Alhambra",
-    "type_es": "Novela de ciencia ficción",
-    "type_en": "Science-fiction novel",
-    "written_period": "1997-2002",
-    "upc": {
-      "es": "Presentada, con leves cambios, al Premio UPC de Ciencia Ficción en 2002.",
-      "en": "Submitted, with minor changes, to the UPC Science Fiction Award in 2002."
-    },
-    "first_public_edition": 2026,
-    "restoration_es": "Restauración conservadora",
-    "restoration_en": "Conservative restoration",
-    "published_languages": 10
-  },
-  "public_position": {
-    "web4_es": "WEB4™ · Capa pública SistemaTrazable™",
-    "web4_en": "WEB4™ · SistemaTrazable™ public layer",
-    "cultural_wiki": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Ecosistema_Creativo_y_Cultural",
-    "authorial_wiki": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Creaciones_Originales_del_Autor",
-    "idea_wiki": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026",
-    "repository": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/tree/main/obras/idea",
-    "amazon_author": "https://www.amazon.es/stores/Pedro-Mart%C3%ADnez-Alhambra/author/B0HC3TWRZ7"
-  },
-  "editions": [
-    {
-      "code": "es",
-      "es": "Castellano",
-      "en": "Spanish",
-      "native": "Español",
-      "asin": "B0HBRQGNQL",
-      "url": "https://www.amazon.es/dp/B0HBRQGNQL"
-    },
-    {
-      "code": "fr",
-      "es": "Francés",
-      "en": "French",
-      "native": "Français",
-      "asin": "B0HBRNFMN7",
-      "url": "https://www.amazon.es/dp/B0HBRNFMN7"
-    },
-    {
-      "code": "de",
-      "es": "Alemán",
-      "en": "German",
-      "native": "Deutsch",
-      "asin": "B0H4HYBTGL",
-      "url": "https://www.amazon.es/dp/B0H4HYBTGL"
-    },
-    {
-      "code": "pt",
-      "es": "Portugués",
-      "en": "Portuguese",
-      "native": "Português",
-      "asin": "B0HBXD3P1D",
-      "url": "https://www.amazon.es/dp/B0HBXD3P1D"
-    },
-    {
-      "code": "en",
-      "es": "Inglés",
-      "en": "English",
-      "native": "English",
-      "asin": "B0HBXLKC9W",
-      "url": "https://www.amazon.es/dp/B0HBXLKC9W"
-    },
-    {
-      "code": "it",
-      "es": "Italiano",
-      "en": "Italian",
-      "native": "Italiano",
-      "asin": "B0HBZ1VCXP",
-      "url": "https://www.amazon.es/dp/B0HBZ1VCXP"
-    },
-    {
-      "code": "nl",
-      "es": "Neerlandés",
-      "en": "Dutch",
-      "native": "Nederlands",
-      "asin": "B0HBZHLHJJ",
-      "url": "https://www.amazon.es/dp/B0HBZHLHJJ"
-    },
-    {
-      "code": "sv",
-      "es": "Sueco",
-      "en": "Swedish",
-      "native": "Svenska",
-      "asin": "B0HC8N69BT",
-      "url": "https://www.amazon.es/dp/B0HC8N69BT"
-    },
-    {
-      "code": "da",
-      "es": "Danés",
-      "en": "Danish",
-      "native": "Dansk",
-      "asin": "B0HCC74TPK",
-      "url": "https://www.amazon.es/dp/B0HCC74TPK"
-    },
-    {
-      "code": "nb",
-      "es": "Noruego bokmål",
-      "en": "Norwegian Bokmål",
-      "native": "Norsk bokmål",
-      "asin": "B0HCCL44TZ",
-      "url": "https://www.amazon.es/dp/B0HCCL44TZ"
-    }
-  ],
-  "additional_confirmed_format": {
-    "language": "es",
-    "format": "paperback",
-    "asin": "B0HBP261YZ",
-    "url": "https://www.amazon.es/dp/B0HBP261YZ"
-  },
-  "pending": [
-    {
-      "language": "nb",
-      "format": "paperback",
-      "status": "pending_upload",
-      "reason": "KDP weekly publication limit"
-    },
-    {
-      "language": "no",
-      "status": "not_published",
-      "included_in_public_count": false
-    }
-  ]
+"schema": "innova_n.public_work.v2",
+"recorded_at": "2026-08-02",
+"work": {
+"title": "IDEA",
+"author": "Pedro Martínez Alhambra",
+"type_es": "Novela de ciencia ficción",
+"type_en": "Science-fiction novel",
+"written_period": {
+"start": 1997,
+"end": 2002,
+"display": "1997-2002"
+},
+"upc_submission": {
+"year": 2002,
+"es": "Presentada, con leves cambios, al Premio UPC de Ciencia Ficción en 2002.",
+"en": "Submitted, with minor changes, to the UPC Science Fiction Award in 2002."
+},
+"first_public_edition": 2026,
+"edition_method": {
+"es": "Restauración conservadora",
+"en": "Conservative restoration"
+},
+"published_languages": 10
+},
+"genealogy": {
+"predates": [
+"Neodialéctica™",
+"Innova_N",
+"NEOCore™",
+"NAVE™",
+"SAN™",
+"WEB4™"
+],
+"es": "IDEA antecede al desarrollo formal de la Neodialéctica™, Innova_N y sus arquitecturas posteriores. Su integración actual conserva su origen y no reescribe retrospectivamente su genealogía.",
+"en": "IDEA predates the formal development of Neodialectics™, Innova_N and its later architectures. Its present integration preserves its origin and does not retrospectively rewrite its genealogy."
+},
+"public_position": {
+"ecosystem": "Innova_N",
+"neocore": {
+"version": "7.0",
+"level_es": "nivel conceptual",
+"level_en": "conceptual level"
+},
+"framework_network": {
+"name": "Neodialectica Framework™ / Network",
+"role_es": "Nodo literario y cultural público relacionado con el marco y la red viva multiescala de Innova_N.",
+"role_en": "Public literary and cultural node connected to Innova_N's living multiscale framework and network."
+},
+"web4_es": "WEB4™ · Capa pública SistemaTrazable™",
+"web4_en": "WEB4™ · SistemaTrazable™ public layer",
+"integration_es": "Obra previa del fundador, documento de trayectoria, antecedente creativo y nodo cultural enlazado desde la capa pública del ecosistema.",
+"integration_en": "Earlier work by the Founder, trajectory document, creative antecedent and cultural node linked from the public ecosystem layer.",
+"cultural_wiki": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Ecosistema_Creativo_y_Cultural",
+"authorial_wiki": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Creaciones_Originales_del_Autor",
+"idea_wiki": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026",
+"repository": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/tree/main/obras/idea",
+"amazon_author": "https://www.amazon.es/stores/Pedro-Mart%C3%ADnez-Alhambra/author/B0HC3TWRZ7"
+},
+"editions": [
+{
+"code": "es",
+"name_es": "Castellano",
+"name_en": "Spanish",
+"native_name": "Español",
+"reference_asin": "B0HBRQGNQL",
+"reference_url": "https://www.amazon.es/dp/B0HBRQGNQL",
+"status": "published"
+},
+{
+"code": "fr",
+"name_es": "Francés",
+"name_en": "French",
+"native_name": "Français",
+"reference_asin": "B0HBRNFMN7",
+"reference_url": "https://www.amazon.es/dp/B0HBRNFMN7",
+"status": "published"
+},
+{
+"code": "de",
+"name_es": "Alemán",
+"name_en": "German",
+"native_name": "Deutsch",
+"reference_asin": "B0H4HYBTGL",
+"reference_url": "https://www.amazon.es/dp/B0H4HYBTGL",
+"status": "published"
+},
+{
+"code": "pt",
+"name_es": "Portugués",
+"name_en": "Portuguese",
+"native_name": "Português",
+"reference_asin": "B0HBXD3P1D",
+"reference_url": "https://www.amazon.es/dp/B0HBXD3P1D",
+"status": "published"
+},
+{
+"code": "en",
+"name_es": "Inglés",
+"name_en": "English",
+"native_name": "English",
+"reference_asin": "B0HBXLKC9W",
+"reference_url": "https://www.amazon.es/dp/B0HBXLKC9W",
+"status": "published"
+},
+{
+"code": "it",
+"name_es": "Italiano",
+"name_en": "Italian",
+"native_name": "Italiano",
+"reference_asin": "B0HBZ1VCXP",
+"reference_url": "https://www.amazon.es/dp/B0HBZ1VCXP",
+"status": "published"
+},
+{
+"code": "nl",
+"name_es": "Neerlandés",
+"name_en": "Dutch",
+"native_name": "Nederlands",
+"reference_asin": "B0HBZHLHJJ",
+"reference_url": "https://www.amazon.es/dp/B0HBZHLHJJ",
+"status": "published"
+},
+{
+"code": "sv",
+"name_es": "Sueco",
+"name_en": "Swedish",
+"native_name": "Svenska",
+"reference_asin": "B0HC8N69BT",
+"reference_url": "https://www.amazon.es/dp/B0HC8N69BT",
+"status": "published"
+},
+{
+"code": "da",
+"name_es": "Danés",
+"name_en": "Danish",
+"native_name": "Dansk",
+"reference_asin": "B0HCC74TPK",
+"reference_url": "https://www.amazon.es/dp/B0HCC74TPK",
+"status": "published"
+},
+{
+"code": "nb",
+"name_es": "Noruego bokmål",
+"name_en": "Norwegian Bokmål",
+"native_name": "Norsk bokmål",
+"reference_asin": "B0HCCL44TZ",
+"reference_url": "https://www.amazon.es/dp/B0HCCL44TZ",
+"status": "published"
+}
+],
+"confirmed_formats": [
+{
+"language_code": "es",
+"format": "paperback",
+"status": "published",
+"asin": "B0HBP261YZ",
+"url": "https://www.amazon.es/dp/B0HBP261YZ"
+},
+{
+"language_code": "nb",
+"format": "kindle",
+"status": "published",
+"asin": null,
+"url": "https://www.amazon.es/dp/B0HCCL44TZ"
+},
+{
+"language_code": "nb",
+"format": "hardcover",
+"status": "published",
+"asin": null,
+"url": "https://www.amazon.es/dp/B0HCCL44TZ"
+}
+],
+"pending": [
+{
+"language_code": "nb",
+"name_es": "Noruego bokmål",
+"name_en": "Norwegian Bokmål",
+"format": "paperback",
+"status": "pending_upload",
+"reason": "KDP weekly publication limit",
+"included_in_published_language_count": true
+},
+{
+"language_code": "no",
+"name_es": "Noruego no bokmål",
+"name_en": "Non-Bokmål Norwegian",
+"format": null,
+"status": "not_published",
+"included_in_published_language_count": false
+}
+],
+"link_policy": {
+"pattern": "https://www.amazon.es/dp/ASIN",
+"tracking_parameters": false,
+"session_parameters": false
+}
 }
