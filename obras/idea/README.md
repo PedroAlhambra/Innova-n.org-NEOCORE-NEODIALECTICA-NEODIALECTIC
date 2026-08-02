@@ -2,19 +2,24 @@
 # IDEA
 
 <p align="center">
-  <img src="./assets/IDEA_COVER_EBOOK_ES.png" alt="Portada de IDEA, de Pedro Martínez Alhambra" width="360">
+  <img src="./assets/IDEA_COVER_EBOOK_ES.png" alt="Portada de IDEA / IDEA cover — Pedro Martínez Alhambra" width="360">
 </p>
 
 ## Pedro Martínez Alhambra
 
-**Novela de ciencia ficción**  
-**Escrita entre 1997 y 2002 · Presentada al Premio UPC en 2002 · Primera edición pública en 2026**
+**Novela de ciencia ficción / Science-fiction novel**  
+**1997–2002 · Premio UPC 2002 · Primera edición pública 2026 / First public edition 2026**
 
-> «Puede haber universos contenidos en las ideas más sencillas.»
+> «Puede haber universos contenidos en las ideas más sencillas.»  
+> “There may be universes contained in the simplest ideas.”
 
-## Función de esta página
+---
 
-Este directorio fija el nodo documental público de **IDEA** dentro del repositorio de trazabilidad de Innova_N.
+# ES · IDEA
+
+## Función de este nodo
+
+Esta página fija el nodo documental público de **IDEA** dentro del repositorio de trazabilidad de Innova_N.
 
 No reconstruye ni sustituye **WEB4™ · Capa pública SistemaTrazable™**. La obra se enlaza desde esa capa pública y, simultáneamente, desde la capa personal y autoral de Pedro Martínez Alhambra.
 
@@ -22,13 +27,13 @@ No reconstruye ni sustituye **WEB4™ · Capa pública SistemaTrazable™**. La 
 
 IDEA fue escrita entre 1997 y 2002 y presentada, con leves cambios, al Premio UPC de Ciencia Ficción en 2002.
 
-La edición de 2026 conserva sustancialmente el texto original mediante una restauración conservadora: corrige erratas, ortografía, signos, caracteres heredados e inconsistencias materiales sin reescribir la novela desde la perspectiva actual del autor.
+La edición pública de 2026 conserva sustancialmente el texto original mediante una restauración conservadora. Corrige erratas, ortografía, signos, caracteres heredados e inconsistencias materiales sin reescribir la novela desde la perspectiva posterior del autor.
 
-## Ejes
+## Ejes de lectura
 
 - inteligencia artificial como liberación y control;
 - conciencia, emoción e identidad;
-- memoria y manipulación;
+- memoria, pérdida y manipulación;
 - percepción, simulación y realidad;
 - ecología y simbiosis;
 - poder, soledad y autoselección.
@@ -54,26 +59,91 @@ La edición de 2026 conserva sustancialmente el texto original mediante una rest
 
 ### Estado pendiente
 
-- Noruego bokmål: Kindle y tapa dura publicados; tapa blanda pendiente de subida por el límite semanal de KDP.
-- Noruego no bokmål: todavía no publicado y no incluido en la cifra actual.
+- **Noruego bokmål:** Kindle y tapa dura publicados; tapa blanda pendiente de subida por el límite semanal de KDP.
+- **Noruego no bokmål:** todavía no publicado y no incluido en la cifra actual.
 
 ## Relaciones públicas
 
-- **WEB4:** [WEB4™ · Capa pública SistemaTrazable™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Web4_Public_Layer)
-- **Cultura:** [Ecosistema creativo y cultural](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Ecosistema_Creativo_y_Cultural)
-- **Autoría:** [Creaciones originales del autor](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Creaciones_Originales_del_Autor)
-- **Wiki de IDEA:** [IDEA · 1997–2002 · edición internacional 2026](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
-- **Perfil Amazon:** [Pedro Martínez Alhambra](https://www.amazon.es/stores/Pedro-Mart%C3%ADnez-Alhambra/author/B0HC3TWRZ7)
-- **Ediciones:** [Tabla limpia](./EDICIONES.md)
+- [WEB4™ · Capa pública SistemaTrazable™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Web4_Public_Layer)
+- [Ecosistema creativo y cultural](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Ecosistema_Creativo_y_Cultural)
+- [Creaciones originales del autor](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Creaciones_Originales_del_Autor)
+- [Página Wiki de IDEA](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
+- [Perfil de Pedro Martínez Alhambra en Amazon](https://www.amazon.es/stores/Pedro-Mart%C3%ADnez-Alhambra/author/B0HC3TWRZ7)
+- [Ediciones internacionales](./EDICIONES.md)
 
-## Relación histórica
+## Relación histórica con Innova_N
 
 IDEA antecede a la Filosofía Arquetípica Neodialéctica™, Innova_N, NEOCore™, NAVE™ y Síntesis Abierta™.
 
-Su integración actual no altera esa procedencia. Se incorpora como obra previa del fundador, documento de trayectoria y nodo literario enlazado desde la capa cultural y la capa personal/autoral.
+La obra no se presenta como creada originalmente dentro de Innova_N. Se incorpora hoy como obra previa del fundador, documento de trayectoria y nodo literario de la capa cultural y personal/autoral.
 
-## Derechos
+---
 
-© 2026 Pedro Martínez Alhambra. Todos los derechos reservados.
+# EN · IDEA
 
-No se distribuyen aquí el interior completo, EPUB, PDF de imprenta, DOCX maestro ni recursos restringidos de producción.
+## Function of this node
+
+This page establishes the public documentary node for **IDEA** within the Innova_N traceability repository.
+
+It does not rebuild or replace the **WEB4™ · SistemaTrazable™ public layer**. The work is linked both from that public layer and from Pedro Martínez Alhambra’s personal and authorial layer.
+
+## The work
+
+IDEA was written between 1997 and 2002 and submitted, with minor changes, to the UPC Science Fiction Award in 2002.
+
+The 2026 public edition substantially preserves the original text through a conservative restoration. It corrects typographical, spelling, punctuation, legacy-character and material inconsistencies without rewriting the novel from the author’s later perspective.
+
+## Reading axes
+
+- artificial intelligence as liberation and control;
+- consciousness, emotion, and identity;
+- memory, loss, and manipulation;
+- perception, simulation, and reality;
+- ecology and symbiosis;
+- power, solitude, and self-selection.
+
+## Ten current language editions
+
+| Language | Reference ASIN | Amazon |
+|---|---:|---|
+| Spanish · Español | `B0HBRQGNQL` | [Open edition](https://www.amazon.es/dp/B0HBRQGNQL) |
+| French · Français | `B0HBRNFMN7` | [Open edition](https://www.amazon.es/dp/B0HBRNFMN7) |
+| German · Deutsch | `B0H4HYBTGL` | [Open edition](https://www.amazon.es/dp/B0H4HYBTGL) |
+| Portuguese · Português | `B0HBXD3P1D` | [Open edition](https://www.amazon.es/dp/B0HBXD3P1D) |
+| English · English | `B0HBXLKC9W` | [Open edition](https://www.amazon.es/dp/B0HBXLKC9W) |
+| Italian · Italiano | `B0HBZ1VCXP` | [Open edition](https://www.amazon.es/dp/B0HBZ1VCXP) |
+| Dutch · Nederlands | `B0HBZHLHJJ` | [Open edition](https://www.amazon.es/dp/B0HBZHLHJJ) |
+| Swedish · Svenska | `B0HC8N69BT` | [Open edition](https://www.amazon.es/dp/B0HC8N69BT) |
+| Danish · Dansk | `B0HCC74TPK` | [Open edition](https://www.amazon.es/dp/B0HCC74TPK) |
+| Norwegian Bokmål · Norsk bokmål | `B0HCCL44TZ` | [Open edition](https://www.amazon.es/dp/B0HCCL44TZ) |
+
+### Additional confirmed access
+
+- [Spanish · paperback · `B0HBP261YZ`](https://www.amazon.es/dp/B0HBP261YZ)
+
+### Pending status
+
+- **Norwegian Bokmål:** Kindle and hardcover are published; the paperback remains pending because of KDP’s weekly publication limit.
+- **Non-Bokmål Norwegian edition:** not yet published and not included in the current total.
+
+## Public relations
+
+- [WEB4™ · SistemaTrazable™ public layer](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Web4_Public_Layer)
+- [Creative and cultural ecosystem](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Ecosistema_Creativo_y_Cultural)
+- [Original creations of the author](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Creaciones_Originales_del_Autor)
+- [IDEA Wiki page](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
+- [Pedro Martínez Alhambra on Amazon](https://www.amazon.es/stores/Pedro-Mart%C3%ADnez-Alhambra/author/B0HC3TWRZ7)
+- [International editions](./EDICIONES.md)
+
+## Historical relationship with Innova_N
+
+IDEA predates Archetypal Neodialectic Philosophy™, Innova_N, NEOCore™, NAVE™, and Open Synthesis™.
+
+The work is not presented as having originated within Innova_N. It is now incorporated as an earlier work by the founder, a trajectory document, and a literary node within the cultural and personal/authorial layers.
+
+---
+
+© 2026 Pedro Martínez Alhambra. Todos los derechos reservados / All rights reserved.
+
+No se distribuyen aquí el interior completo ni archivos maestros de producción.  
+The complete interior and master production files are not distributed here.
