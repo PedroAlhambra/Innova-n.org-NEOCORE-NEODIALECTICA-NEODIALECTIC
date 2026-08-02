@@ -1,116 +1,129 @@
 {
-  "schema": "innova_n.public_traceability.work.v2.bilingual",
-  "labels": {
-    "es": {
-      "public_layer": "WEB4™ · Capa pública SistemaTrazable™",
-      "work_type": "novela de ciencia ficción",
-      "status": "publicada",
-      "current_wording": "IDEA está disponible actualmente en diez idiomas, con ediciones digitales e impresas según disponibilidad."
-    },
-    "en": {
-      "public_layer": "WEB4™ · SistemaTrazable™ public layer",
-      "work_type": "science-fiction novel",
-      "status": "published",
-      "current_wording": "IDEA is currently available in ten languages, in digital and print editions depending on availability."
-    }
-  },
+  "schema": "innova_n.public_work.v1",
+  "recorded_at": "2026-08-02",
   "work": {
     "title": "IDEA",
     "author": "Pedro Martínez Alhambra",
+    "type_es": "Novela de ciencia ficción",
+    "type_en": "Science-fiction novel",
     "written_period": "1997-2002",
-    "submitted_to": {
-      "es": "Premio UPC de Ciencia Ficción",
-      "en": "UPC Science Fiction Award"
+    "upc": {
+      "es": "Presentada, con leves cambios, al Premio UPC de Ciencia Ficción en 2002.",
+      "en": "Submitted, with minor changes, to the UPC Science Fiction Award in 2002."
     },
-    "submission_year": 2002,
     "first_public_edition": 2026,
+    "restoration_es": "Restauración conservadora",
+    "restoration_en": "Conservative restoration",
     "published_languages": 10
   },
-  "relations": {
-    "web4_public_layer": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Web4_Public_Layer",
-    "creative_cultural_ecosystem": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Ecosistema_Creativo_y_Cultural",
-    "author_original_creations": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Creaciones_Originales_del_Autor",
+  "public_position": {
+    "web4_es": "WEB4™ · Capa pública SistemaTrazable™",
+    "web4_en": "WEB4™ · SistemaTrazable™ public layer",
+    "cultural_wiki": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Ecosistema_Creativo_y_Cultural",
+    "authorial_wiki": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Creaciones_Originales_del_Autor",
     "idea_wiki": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026",
+    "repository": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/tree/main/obras/idea",
     "amazon_author": "https://www.amazon.es/stores/Pedro-Mart%C3%ADnez-Alhambra/author/B0HC3TWRZ7"
   },
   "editions": [
     {
-      "language_es": "Castellano",
-      "language_en": "Spanish",
-      "language_native": "Español",
+      "code": "es",
+      "es": "Castellano",
+      "en": "Spanish",
+      "native": "Español",
       "asin": "B0HBRQGNQL",
       "url": "https://www.amazon.es/dp/B0HBRQGNQL"
     },
     {
-      "language_es": "Francés",
-      "language_en": "French",
-      "language_native": "Français",
+      "code": "fr",
+      "es": "Francés",
+      "en": "French",
+      "native": "Français",
       "asin": "B0HBRNFMN7",
       "url": "https://www.amazon.es/dp/B0HBRNFMN7"
     },
     {
-      "language_es": "Alemán",
-      "language_en": "German",
-      "language_native": "Deutsch",
+      "code": "de",
+      "es": "Alemán",
+      "en": "German",
+      "native": "Deutsch",
       "asin": "B0H4HYBTGL",
       "url": "https://www.amazon.es/dp/B0H4HYBTGL"
     },
     {
-      "language_es": "Portugués",
-      "language_en": "Portuguese",
-      "language_native": "Português",
+      "code": "pt",
+      "es": "Portugués",
+      "en": "Portuguese",
+      "native": "Português",
       "asin": "B0HBXD3P1D",
       "url": "https://www.amazon.es/dp/B0HBXD3P1D"
     },
     {
-      "language_es": "Inglés",
-      "language_en": "English",
-      "language_native": "English",
+      "code": "en",
+      "es": "Inglés",
+      "en": "English",
+      "native": "English",
       "asin": "B0HBXLKC9W",
       "url": "https://www.amazon.es/dp/B0HBXLKC9W"
     },
     {
-      "language_es": "Italiano",
-      "language_en": "Italian",
-      "language_native": "Italiano",
+      "code": "it",
+      "es": "Italiano",
+      "en": "Italian",
+      "native": "Italiano",
       "asin": "B0HBZ1VCXP",
       "url": "https://www.amazon.es/dp/B0HBZ1VCXP"
     },
     {
-      "language_es": "Neerlandés",
-      "language_en": "Dutch",
-      "language_native": "Nederlands",
+      "code": "nl",
+      "es": "Neerlandés",
+      "en": "Dutch",
+      "native": "Nederlands",
       "asin": "B0HBZHLHJJ",
       "url": "https://www.amazon.es/dp/B0HBZHLHJJ"
     },
     {
-      "language_es": "Sueco",
-      "language_en": "Swedish",
-      "language_native": "Svenska",
+      "code": "sv",
+      "es": "Sueco",
+      "en": "Swedish",
+      "native": "Svenska",
       "asin": "B0HC8N69BT",
       "url": "https://www.amazon.es/dp/B0HC8N69BT"
     },
     {
-      "language_es": "Danés",
-      "language_en": "Danish",
-      "language_native": "Dansk",
+      "code": "da",
+      "es": "Danés",
+      "en": "Danish",
+      "native": "Dansk",
       "asin": "B0HCC74TPK",
       "url": "https://www.amazon.es/dp/B0HCC74TPK"
     },
     {
-      "language_es": "Noruego bokmål",
-      "language_en": "Norwegian Bokmål",
-      "language_native": "Norsk bokmål",
+      "code": "nb",
+      "es": "Noruego bokmål",
+      "en": "Norwegian Bokmål",
+      "native": "Norsk bokmål",
       "asin": "B0HCCL44TZ",
       "url": "https://www.amazon.es/dp/B0HCCL44TZ"
     }
   ],
   "additional_confirmed_format": {
-    "language_es": "Castellano",
-    "language_en": "Spanish",
-    "format_es": "tapa blanda",
-    "format_en": "paperback",
+    "language": "es",
+    "format": "paperback",
     "asin": "B0HBP261YZ",
     "url": "https://www.amazon.es/dp/B0HBP261YZ"
-  }
+  },
+  "pending": [
+    {
+      "language": "nb",
+      "format": "paperback",
+      "status": "pending_upload",
+      "reason": "KDP weekly publication limit"
+    },
+    {
+      "language": "no",
+      "status": "not_published",
+      "included_in_public_count": false
+    }
+  ]
 }
