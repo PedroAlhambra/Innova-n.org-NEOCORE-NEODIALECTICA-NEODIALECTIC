@@ -1,0 +1,87 @@
+{
+  "author": {
+    "name": "Pedro Martínez Alhambra",
+    "amazon_author_id": "B0HC3TWRZ7",
+    "url": "https://www.amazon.es/stores/Pedro-Mart%C3%ADnez-Alhambra/author/B0HC3TWRZ7"
+  },
+  "editions": [
+    {
+      "language_es": "Castellano",
+      "language_en": "Spanish",
+      "language_native": "Español",
+      "asin": "B0HBRQGNQL",
+      "url": "https://www.amazon.es/dp/B0HBRQGNQL"
+    },
+    {
+      "language_es": "Francés",
+      "language_en": "French",
+      "language_native": "Français",
+      "asin": "B0HBRNFMN7",
+      "url": "https://www.amazon.es/dp/B0HBRNFMN7"
+    },
+    {
+      "language_es": "Alemán",
+      "language_en": "German",
+      "language_native": "Deutsch",
+      "asin": "B0H4HYBTGL",
+      "url": "https://www.amazon.es/dp/B0H4HYBTGL"
+    },
+    {
+      "language_es": "Portugués",
+      "language_en": "Portuguese",
+      "language_native": "Português",
+      "asin": "B0HBXD3P1D",
+      "url": "https://www.amazon.es/dp/B0HBXD3P1D"
+    },
+    {
+      "language_es": "Inglés",
+      "language_en": "English",
+      "language_native": "English",
+      "asin": "B0HBXLKC9W",
+      "url": "https://www.amazon.es/dp/B0HBXLKC9W"
+    },
+    {
+      "language_es": "Italiano",
+      "language_en": "Italian",
+      "language_native": "Italiano",
+      "asin": "B0HBZ1VCXP",
+      "url": "https://www.amazon.es/dp/B0HBZ1VCXP"
+    },
+    {
+      "language_es": "Neerlandés",
+      "language_en": "Dutch",
+      "language_native": "Nederlands",
+      "asin": "B0HBZHLHJJ",
+      "url": "https://www.amazon.es/dp/B0HBZHLHJJ"
+    },
+    {
+      "language_es": "Sueco",
+      "language_en": "Swedish",
+      "language_native": "Svenska",
+      "asin": "B0HC8N69BT",
+      "url": "https://www.amazon.es/dp/B0HC8N69BT"
+    },
+    {
+      "language_es": "Danés",
+      "language_en": "Danish",
+      "language_native": "Dansk",
+      "asin": "B0HCC74TPK",
+      "url": "https://www.amazon.es/dp/B0HCC74TPK"
+    },
+    {
+      "language_es": "Noruego bokmål",
+      "language_en": "Norwegian Bokmål",
+      "language_native": "Norsk bokmål",
+      "asin": "B0HCCL44TZ",
+      "url": "https://www.amazon.es/dp/B0HCCL44TZ"
+    }
+  ],
+  "additional_links": [
+    {
+      "label_es": "Castellano · tapa blanda",
+      "label_en": "Spanish · paperback",
+      "asin": "B0HBP261YZ",
+      "url": "https://www.amazon.es/dp/B0HBP261YZ"
+    }
+  ]
+}
