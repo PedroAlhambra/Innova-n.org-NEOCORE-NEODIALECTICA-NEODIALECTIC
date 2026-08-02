@@ -1,5 +1,5 @@
 
-# WEB4™ · Capa pública Sistema Trazable™
+# WEB4™ · Capa pública SistemaTrazable™
 
 Este directorio constituye una proyección documental pública de **WEB4™** dentro del repositorio visible de Innova_N.
 
