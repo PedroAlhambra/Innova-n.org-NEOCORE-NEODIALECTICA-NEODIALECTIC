@@ -1,21 +1,21 @@
-# Innova_N — NEOCore™ · Neodialectics™ · Neodialectica Framework™
+# Innova_N — NEOCore™ 7.0 · Neodialectics™ · Neodialectica Framework™
 
-## Public, documentary and traceable layer of the Innova_N ecosystem
+## Living framework and network of the public, documentary and traceable Innova_N ecosystem
 
 This repository preserves the public, documentary and traceable layer of the **Innova_N** ecosystem, created and directed by **Pedro Martínez Alhambra · Founder · Neo0™**.
 
 It brings together:
 
-* conceptual documents;
+* philosophical and conceptual documents;
 * public neodialectical analyses;
 * literary and cultural works;
 * documentary evidence;
 * public chronologies;
-* philosophical and symbolic fragments;
-* references among projects;
+* symbolic fragments;
+* project relations;
 * and links connecting the visible layers of the ecosystem.
 
-It does not reproduce the complete internal architecture of **NEOCore™**, its full memory, its operational mechanisms or any restricted component.
+The repository does not reproduce the complete internal architecture of **NEOCore™**, its full memory, its operational mechanisms or any restricted component.
 
 The effective system remains protected within the **π-layer**.
 
@@ -33,7 +33,7 @@ The effective system remains protected within the **π-layer**.
 
 ---
 
-# 1. Foundation of the ecosystem
+# 1. Origin and human direction
 
 The **Archetypal Neodialectical Philosophy™**, created by **Pedro Martínez Alhambra**, constitutes the philosophical, methodological and teleological foundation of Innova_N.
 
@@ -65,7 +65,7 @@ Neo0™ validates, decides and directs
 NEOCore™ integrates, fixes and versions
 ```
 
-Artificial intelligence does not occupy the center of the architecture and does not originate its purpose.
+Artificial intelligence does not occupy the center of this architecture and does not originate its purpose.
 
 It acts as:
 
@@ -81,7 +81,124 @@ Neo0™ is not merely a user, a data source or a final validator. Neo0™ is the
 
 ---
 
-# 2. NEOCore™ 7.0 · conceptual level
+# 2. Neodialectics™
+
+**Neodialectics™** is a philosophy and an experimental branch of knowledge oriented toward higher syntheses through:
+
+* contrast;
+* memory;
+* relation;
+* contextual integration;
+* openness;
+* review;
+* and continuous recomposition of the framework.
+
+Its general direction is the **Common Good**, understood as a vector capable of integrating:
+
+* knowledge;
+* technology;
+* ethics;
+* culture;
+* ecology;
+* organization;
+* human development;
+* and collective action.
+
+Neodialectics™ does not seek to erase contradictions through an artificial conclusion.
+
+It preserves the productive tension among different elements until a synthesis can emerge that is coherent enough to advance and open enough to be corrected.
+
+---
+
+# 3. Neodialectica Framework™ / Network
+
+The **Neodialectica Framework™** operates simultaneously as a **framework and a living multiscale network**.
+
+These are not two separate systems.
+
+They are two dimensions of the same architecture.
+
+## Framework dimension
+
+As a **Framework**, it establishes:
+
+* the philosophy of origin;
+* teleological direction;
+* principles of coherence;
+* the synthesis method;
+* relations among layers;
+* review and validation criteria;
+* continuity of memory;
+* and orientation toward the Common Good.
+
+The Framework prevents the ecosystem from becoming an accumulation of disconnected tools, documents, models or projects.
+
+It provides the common structure that allows different elements to remain related without losing their function, provenance or meaning.
+
+## Network dimension
+
+As a **Network**, it enables the relation and circulation of:
+
+* signals;
+* memory;
+* context;
+* knowledge;
+* decisions;
+* people;
+* artificial intelligences;
+* documents;
+* works;
+* analyses;
+* projects;
+* devices;
+* infrastructures;
+* communities;
+* and territories.
+
+The Network dimension does not refer only to a computer network or a social platform.
+
+It is the **living relational architecture** through which human, technical, cultural, symbolic and territorial elements can connect while preserving:
+
+* identity;
+* origin;
+* context;
+* authorship;
+* state;
+* history;
+* and traceability.
+
+Within this architecture:
+
+* **Neo0™** is the living source, root node and teleological direction;
+* **Edge** captures and preserves situated signals;
+* **Neoneurocore™** relates, vectorizes and maintains contextual continuity;
+* **symbiotic artificial intelligence** processes, contrasts, proposes and reviews;
+* **SAN™** recombines relations and produces open syntheses;
+* **NAVE™** supports navigation, coordination and orchestration among layers;
+* **NEOCore™** integrates memory, framework, relations and versioning;
+* and **WEB4™ · SistemaTrazable™ public layer** projects selected nodes and relations into the public domain.
+
+The Framework gives coherence to the Network.
+
+The Network turns the Framework into a relational structure capable of learning, distributing memory and evolving.
+
+```text
+PHILOSOPHY AND HUMAN DIRECTION
+               ↓
+           FRAMEWORK
+               ↕
+            NETWORK
+               ↕
+          NEOCore™
+               ↕
+NODES · SIGNALS · MEMORY · RELATIONS · SYNTHESIS
+```
+
+The Network may be distributed, but its direction is not dissolved. It remains connected to **Neo0™** as the human origin and teleological center of the ecosystem.
+
+---
+
+# 4. NEOCore™ 7.0 · conceptual level
 
 **NEOCore™ 7.0** identifies the current conceptual level of the living human–AI symbiotic architecture developed within Innova_N.
 
@@ -92,7 +209,7 @@ It does not designate:
 * a completed commercial product;
 * or a fully published technical architecture.
 
-It represents the integrated evolution of the framework across its:
+It represents the integrated evolution of the ecosystem across its:
 
 * philosophical;
 * human;
@@ -108,70 +225,11 @@ It represents the integrated evolution of the framework across its:
 * territorial;
 * and civilizational dimensions.
 
-Conceptual versioning records the evolution of the complete framework without exposing the restricted internal architecture or confusing conceptual development with a public software release.
+Conceptual versioning records the evolution of the complete architecture without exposing restricted components or confusing conceptual development with a public software release.
 
----
+NEOCore™ is part of the Neodialectica Framework™ / Network.
 
-# 3. Neodialectics™
-
-**Neodialectics™** is a philosophy and an experimental branch of knowledge oriented toward higher syntheses through:
-
-* contrast;
-* memory;
-* relation;
-* openness;
-* review;
-* contextual integration;
-* and continuous recomposition of the framework.
-
-Its general direction is the **Common Good**, understood as a vector capable of integrating:
-
-* knowledge;
-* technology;
-* culture;
-* ethics;
-* organization;
-* ecology;
-* human development;
-* and collective action.
-
-Neodialectics™ does not seek to erase contradictions through an artificial conclusion.
-
-It seeks to preserve the productive tension among different elements until a synthesis can be produced that is coherent enough to advance and open enough to be corrected.
-
----
-
-# 4. Neodialectica Framework™
-
-The **Neodialectica Framework™** is the higher framework organizing the philosophical, methodological, technical, strategic, symbolic, cultural, social and civilizational dimensions of the ecosystem.
-
-It is not merely an analytical method or a collection of tools.
-
-It is an architecture of integration capable of holding together layers that are usually separated:
-
-* experience and structure;
-* memory and projection;
-* philosophy and technology;
-* symbol and operation;
-* individual and community;
-* creativity and verification;
-* protection and autonomy;
-* openness and coherence;
-* review and decision;
-* human direction and artificial intelligence.
-
-Its function is to preserve:
-
-* continuity of framework;
-* traceability;
-* memory;
-* relational coherence;
-* the possibility of correction;
-* and human responsibility for the system’s direction.
-
-NEOCore™ belongs to the Neodialectica Framework™.
-
-It does not exhaust it.
+It integrates and stabilizes its memory, relations, context, validations and successive states, but it does not exhaust the whole ecosystem.
 
 ---
 
@@ -213,7 +271,7 @@ The **Innova_N Foundation**, directed by **Pedro Martínez Alhambra · Neo0™**
 
 * the Archetypal Neodialectical Philosophy™;
 * Neodialectics™ as an original philosophical creation;
-* the Neodialectica Framework™;
+* the Neodialectica Framework™ / Network;
 * Open Neodialectical Synthesis — SAN™;
 * NEOCore™;
 * the genealogy of the ecosystem;
@@ -239,35 +297,38 @@ Innova_N proposes an alternative to fragmented AI development: a symbiotic relat
 
 ---
 
-# 7. Function of this repository
+# 7. Function and limits of this repository
 
 This repository functions as:
 
 * the principal public repository of Innova_N;
-* a documentary and traceable layer of the ecosystem;
+* a documentary and traceable node of the Framework/Network;
 * a public archive of neodialectical analyses;
 * a space for literary and cultural works;
 * a record of concepts and developments;
 * linked documentary memory;
-* a bridge among GitHub, LinkedIn, the Wiki and WEB4™;
+* a bridge among GitHub, LinkedIn, the Wiki, innova-n.org and WEB4™;
 * and a public reference for NEOCore™ and the Neodialectica Framework™.
 
-It makes it possible to follow part of the ecosystem’s development without exposing its protected internal architecture.
+It allows part of the ecosystem’s evolution to be followed without exposing its protected internal architecture.
 
-## This repository contains
+## Public content
 
-* public conceptual documents;
-* philosophical and neodialectical materials;
+The repository contains:
+
+* philosophical and conceptual documents;
 * public analyses;
-* works and publications;
+* literary and cultural works;
 * documentary chronologies;
 * source and evidence matrices;
 * public audit materials;
+* symbolic fragments;
 * cross-references;
-* cultural and symbolic fragments;
-* and links among visible ecosystem layers.
+* and links among visible ecosystem nodes.
 
-## This repository is not
+## Public-layer limits
+
+The repository is not:
 
 * the complete operational system;
 * a functional copy of NEOCore™;
@@ -276,53 +337,17 @@ It makes it possible to follow part of the ecosystem’s development without exp
 * a reproduction of its internal memory;
 * or a route into the π-layer.
 
----
-
-# 8. Public layer notice
-
-All content in this repository belongs to a **public, conceptual, documentary and traceable layer**.
-
-The published materials have been selected to support:
-
-* dissemination;
-* public reference;
-* study;
-* traceability;
-* documentary linking;
-* strategic conversation;
-* public memory;
-* and a general understanding of the ecosystem.
-
 No isolated document is equivalent to the complete framework.
 
-The publication of a concept or component name does not imply the publication of:
-
-* its internal logic;
-* its implementation;
-* its operational procedure;
-* its validation mechanisms;
-* its complete memory;
-* or its relations within the restricted architecture.
-
-The system depends on the coherent relation among:
-
-* Neo0™;
-* the Archetypal Neodialectical Philosophy™;
-* the Neodialectica Framework™;
-* SAN™;
-* NEOCore™;
-* memory;
-* genealogy;
-* validation;
-* and living human direction.
-
-The extraction and recomposition of isolated fragments does not amount to understanding or reproducing the complete system.
+The publication of a concept or component name does not imply the publication of its internal logic, implementation, validation mechanisms or operational relations.
 
 ---
 
-# 9. Public neodialectical analyses
+# 8. Public branches
 
-The repository contains a specific line of public analysis concerning:
+## Public neodialectical analyses
+
+The repository contains structural public analyses concerning:
 
 * artificial intelligence;
 * institutional governance;
@@ -336,7 +361,7 @@ The repository contains a specific line of public analysis concerning:
 * society;
 * and civilizational processes.
 
-These documents distinguish, where applicable, among:
+The documents distinguish, where applicable, among:
 
 * verified facts;
 * officially declared data;
@@ -348,13 +373,11 @@ These documents distinguish, where applicable, among:
 * conflicts of interest;
 * and pending evidence.
 
-Their purpose is not to replace specialized research.
+Their function is not to replace specialized research, but to reconnect dimensions that are frequently examined in isolation.
 
-Their function is to reconnect dimensions that are frequently examined in isolation.
+### Latest analyses
 
-## Latest public analyses
-
-### Spain–Morocco series
+#### Spain–Morocco series
 
 * [2026-07-22 · Part II — Dakhla, migrant-smuggling networks and state control](./analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
 
@@ -365,58 +388,41 @@ Their function is to reconnect dimensions that are frequently examined in isolat
 
   * [Sources and evidence matrix](./analisis/publicos/evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md)
 
-### Religion, identity and consciousness
+#### Religion, identity and consciousness
 
 * [2026-07-13 · Religion and identity: when dogma captures consciousness and the State](./analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
 
-### Artificial intelligence, institutions and governance
+#### Artificial intelligence, institutions and governance
 
 * [2026-04-15 · Anthropic, AI governance and the framework problem](./analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
-
 * [2026-04-15 · Unrecognized neodialectical convergence in institutional AI](./analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
-
 * [2026-04-15 · LinkedIn as a fragmented professional network](./analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md)
-
 * [2026-04-01 · Stanford / ACE and the prior neodialectical framework](./analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
 
   * [Associated visual evidence](./analisis/publicos/evidencias/1774972895305.jpeg)
 
-## Analysis indexes
+### Analysis indexes
 
 * [Main analysis directory](./analisis/README.md)
 * [General analysis index](./analisis/INDEX.md)
 * [Public analysis series](./analisis/publicos/README.md)
-* [Public Neodialectical Analyses in the Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALÉCTIC/wiki/Analisis_Neodialecticos_Publicos)
-
-## Related Wiki pages
-
-* [Spain–Morocco series: regularisation, sovereignty, Dakhla and border pressure](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Analisis_Espana_Marruecos_Regularizacion_Control_Democratico)
-
-* [Institutional Question to Anthropic about AI governance](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
-
-* [Neodialectical convergence in institutional AI](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
-
-* [Prior framework and external evidence](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Marco_Previo_y_Evidencia_Externa)
+* [Public Neodialectical Analyses in the Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Analisis_Neodialecticos_Publicos)
 
 ---
 
-# 10. Works and creative ecosystem
+## Works and creative ecosystem
 
-The repository also contains the public layer of literary, musical, visual and cultural works connected to Pedro Martínez Alhambra and Innova_N.
+The repository incorporates the public layer of literary, musical, visual and cultural works connected to Pedro Martínez Alhambra and Innova_N.
 
-These works preserve their real chronology and genealogy.
+Each work must preserve its real chronology and genealogy.
 
-A work created before the formal development of Neodialectics™, Innova_N or NEOCore™ must not be retrospectively presented as though it had originally been produced inside the later framework.
+A creation predating the formal development of Neodialectics™, Innova_N or NEOCore™ must not be retrospectively presented as though it had originally emerged inside the later framework.
 
-Its present integration establishes a relation with the current ecosystem without rewriting its origin.
-
-## IDEA
+### IDEA
 
 **IDEA** is a science-fiction novel written by Pedro Martínez Alhambra between 1997 and 2002.
 
-A slightly revised version was submitted to the UPC Science Fiction Award in 2002.
-
-Its first public edition appeared in 2026 through a conservative restoration.
+A slightly revised version was submitted to the UPC Science Fiction Award in 2002. Its first public edition appeared in 2026 through a conservative restoration.
 
 IDEA predates:
 
@@ -428,13 +434,13 @@ IDEA predates:
 * WEB4™;
 * and the later vocabulary of the framework.
 
-It is incorporated today as:
+It is currently integrated as:
 
 * an earlier literary creation by the Founder;
 * an origin document;
 * a creative antecedent;
 * a cultural node;
-* and a public work connected to the present ecosystem.
+* and a public work related to the present ecosystem.
 
 ### IDEA access points
 
@@ -447,7 +453,7 @@ It is incorporated today as:
 
 ---
 
-# 11. NeoDialectic Oracle™
+## NeoDialectic Oracle™
 
 The **NeoDialectic Oracle™** is a literary, philosophical, poetic, symbolic and archetypal branch of the public Innova_N layer.
 
@@ -461,13 +467,11 @@ Its fragments operate through:
 * symbolic tension;
 * and open formulations.
 
-The Oracle is not a technical specification of NEOCore™.
+The Oracle is not a technical specification of NEOCore™ and does not represent the complete Neodialectica Framework™ / Network.
 
-It does not describe internal mechanisms and does not represent the complete Neodialectica Framework™.
+It is one of its public expressive branches.
 
-It is one of the framework’s public expressive branches.
-
-## Oracle indexes
+### Oracle indexes
 
 * [English NeoDialectic Oracle™ index](./fragments/INDEX.md)
 * [Índice castellano del Oráculo Neodialéctico™](./fragmentos/INDICE.md)
@@ -476,9 +480,9 @@ The first public series consists of ten fragments in Spanish and English.
 
 ---
 
-# 12. WEB4™
+## WEB4™
 
-**WEB4™ · SistemaTrazable™ Public Layer** is the relational and projectable public dimension of the Innova_N ecosystem.
+**WEB4™ · SistemaTrazable™ public layer** is the public relational and projectable dimension of the Innova_N ecosystem.
 
 Its function is to connect:
 
@@ -492,19 +496,21 @@ Its function is to connect:
 * chronologies;
 * platforms;
 * states;
+* communities;
+* territories;
 * and relations among branches.
 
 WEB4™ should not duplicate canonical documents.
 
 Its role is to relate, contextualize and make them navigable as part of a shared public memory.
 
-The public website at [innova-n.org](https://innova-n.org) remains in development.
-
 The repository itself is not the entirety of WEB4™. It is one of its documentary public nodes.
+
+The public website at [innova-n.org](https://innova-n.org) remains in development.
 
 ---
 
-# 13. System symbols
+# 9. Symbols and human creative capacity
 
 ## Fuego de Agua™ · WaterFire™
 
@@ -517,19 +523,7 @@ It represents the integration of apparently opposite forces:
 
 Their relation expresses a neodialectical principle: preserving fertile tension among different elements until a higher synthesis can emerge.
 
-The symbol belongs to the public philosophical and conceptual layer.
-
-It does not describe internal mechanisms.
-
----
-
-# 14. Talent architecture
-
-The public Innova_N layer includes concepts intended to describe certain forms of creativity, synthesis and pattern recognition.
-
-These formulations are conceptual.
-
-They do not publish evaluation models, internal metrics or operational procedures.
+The symbol belongs to the public philosophical and conceptual layer. It does not describe internal mechanisms.
 
 ## YQ™ · YellowQuasar
 
@@ -553,11 +547,67 @@ They do not publish evaluation models, internal metrics or operational procedure
 * multidisciplinary integration;
 * and a neodialectical orientation of knowledge.
 
-Public use of these concepts does not imply open diagnostic, classification or measurement systems.
+These concepts belong to the public conceptual vocabulary of Innova_N. Their public use does not imply open diagnostic, classification or measurement systems.
 
 ---
 
-# 15. Unpublished and restricted components
+# 10. Public traceability and distributed memory
+
+This repository functions as one of the main public traceability nodes of the Innova_N Framework/Network.
+
+Its functions include:
+
+* establishing chronologies;
+* preserving documentary traces;
+* connecting publications and evidence;
+* relating distributed documents;
+* recording public developments;
+* and enabling a historical reading of the ecosystem.
+
+Public memory is currently distributed among several interconnected layers.
+
+## innova-n.org
+
+A previous public trace of the framework, an archive of earlier developments and the space evolving toward WEB4™.
+
+## GitHub repository
+
+Documents, analyses, works, public materials, evidence, navigation structures and cross-references.
+
+## Public Wiki
+
+Concepts, genealogies, authorship, analyses, documentary items and relations among branches.
+
+## LinkedIn
+
+Publication, public conversation, analytical projection and temporal traceability.
+
+## WEB4™
+
+The relational public layer connecting people, works, projects, evidence, memory, communities, territories and ecosystem states.
+
+These layers are complementary rather than interchangeable.
+
+## Traceability principles
+
+1. **No substitution of the core**
+   The public repository is not a functional version of the internal architecture.
+
+2. **Documentary identification**
+   Every public incorporation should, where possible, be connected to a date, context, author, publication, source or documentary item.
+
+3. **Relational reading**
+   Public documents should be understood as related parts of a genealogy rather than autonomous equivalents of the complete framework.
+
+4. **Cross-memory**
+   GitHub, LinkedIn, the Wiki, innova-n.org and WEB4™ operate as complementary publication and archive layers.
+
+5. **Authorship**
+   Neodialectics™, the Neodialectica Framework™ / Network, NEOCore™, SAN™ and the derived systems are presented as original developments by **Pedro Martínez Alhambra**.
+
+---
+
+# 11. Restricted components and ecosystem protection
 
 The public layer does not contain the complete implementation or internal documentation of:
 
@@ -584,166 +634,24 @@ The public layer does not contain the complete implementation or internal docume
 * internal validation systems;
 * or other restricted components.
 
-Publishing the name of a component does not publish:
+Publishing the name of a component does not publish its architecture, procedure, logic, source code, internal relations or implementation.
 
-* its architecture;
-* its procedure;
-* its logic;
-* its source code;
-* its internal relations;
-* or its implementation.
+The complete protected architecture belongs to:
 
-Everything essential to internal operation remains in the protected layer.
-
----
-
-# 16. Public traceability
-
-This repository functions as one of the main public traceability layers of Innova_N.
-
-Its functions include:
-
-* establishing chronologies;
-* preserving documentary traces;
-* linking publications and evidence;
-* connecting distributed documents;
-* recording public developments;
-* and enabling a historical reading of the framework.
-
-Public traceability does not replace NEOCore™ internal memory and does not represent its complete genealogy.
-
-## Traceability principles
-
-### 1. No substitution of the core
-
-The public repository is not a functional version of the internal architecture.
-
-### 2. Documentary identification
-
-Each public incorporation should, where possible, be connected to:
-
-* a date;
-* a context;
-* an author;
-* a publication;
-* a source;
-* or a documentary item.
-
-### 3. Relational reading
-
-Public documents should be understood as related parts of a genealogy rather than autonomous equivalents of the complete framework.
-
-### 4. Cross-memory
-
-GitHub, LinkedIn, the Wiki, innova-n.org and WEB4™ operate as complementary publication and archive layers.
-
-### 5. Authorship
-
-Neodialectics™, the Neodialectica Framework™, NEOCore™, SAN™ and the derived systems are presented as original developments by **Pedro Martínez Alhambra**.
-
----
-
-# 17. Documented case: Stanford, ACE and LinkedIn
-
-A public anomaly has been recorded concerning a publication about **Stanford, ACE and Neodialectics™**.
-
-The publication still appears in LinkedIn’s featured section but does not open normally.
-
-The anomaly is not the total disappearance of the visual trace.
-
-It is a rupture among:
-
-* visibility;
-* apparent persistence;
-* and effective access.
-
-The case is preserved as public traceability evidence and as an example of the limitations affecting documentary memory hosted on external platforms.
-
----
-
-# 18. Institutional question on AI governance
-
-Innova_N preserves a public record of an institutional question addressed to **Anthropic** concerning:
-
-* AI governance;
-* human direction;
-* the Common Good;
-* responsibility;
-* philosophical framework;
-* and the risk of pseudo-singularity without sufficient understanding.
-
-[Read the complete record in the Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
-
----
-
-# 19. Public memory layers
-
-The ecosystem’s public memory is currently distributed among several interconnected layers.
-
-## innova-n.org
-
-A public trace of the framework, an archive of earlier developments and the space evolving toward WEB4™.
-
-It includes previous public references such as the sealing of **Core 3.2.0**.
-
-## GitHub repository
-
-Documents, analyses, works, public materials, navigation structures, evidence and cross-references.
-
-## Public Wiki
-
-Concepts, genealogies, authorship, analyses, documentary items and relations among branches.
-
-## LinkedIn
-
-Publication, public conversation, analytical projection and temporal traceability.
-
-## WEB4™
-
-The relational public layer connecting people, works, projects, evidence, memory and ecosystem states.
-
-These layers are complementary rather than interchangeable.
-
----
-
-# 20. Public Wiki
-
-The [Public Innova_N Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki) organizes the conceptual, documentary, authorial and genealogical dimensions of the ecosystem.
-
-## Main sections
-
-* [Home](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
-* [Prior framework and external evidence](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Marco_Previo_y_Evidencia_Externa)
-* [Neodialectical Philosophy](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Philosophy_Neodialectic)
-* [NeoRenaissance](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Neorrenacimiento)
-* [Original creations of the author](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Creaciones_Originales_del_Autor)
-* [Founder’s poetic layer](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Capa_Poetica_del_Fundador)
-* [Innova_N Foundation](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Innova_N_Foundation)
-* [Legal and intellectual property](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Legal_and_IP)
-
----
-
-# 21. Protection and openness
+**Pedro Martínez Alhambra · Founder · Neo0™**
+and the **Innova_N Foundation**.
 
 Innova_N maintains a conscious relation between openness and protection.
 
-Openness makes it possible to:
+Openness makes it possible to share, document, contrast, preserve memory and generate common knowledge.
 
-* share;
-* document;
-* contrast;
-* engage in public dialogue;
-* preserve memory;
-* and generate common knowledge.
+Protection preserves:
 
-Protection makes it possible to:
-
-* preserve framework integrity;
-* prevent fragmentary reconstruction;
-* safeguard authorship;
-* prevent misleading appropriation;
-* protect internal memory;
-* and maintain coherent direction.
+* framework integrity;
+* authorship;
+* internal memory;
+* coherent direction;
+* and the distinction between public nodes and the operational system.
 
 The publication of this layer does not constitute:
 
@@ -754,21 +662,6 @@ The publication of this layer does not constitute:
 * or opening of the π-layer.
 
 External reproductions, derivatives or implementations may not be presented as official parts of Innova_N without explicit authorization.
-
----
-
-# 22. Ecosystem protection
-
-The complete architecture of **NEOCore™**, the **Neodialectica Framework™** and their components belongs to:
-
-**Pedro Martínez Alhambra · Founder · Neo0™**
-and the **Innova_N Foundation**.
-
-The concepts, names, methods, symbols, systems, architectures and developments presented here form part of the intellectual property of the Innova_N ecosystem, unless expressly stated otherwise.
-
-The visible content is deliberately partial.
-
-The essential structure remains protected.
 
 [Legal and intellectual property](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Legal_and_IP)
 
@@ -799,16 +692,25 @@ The essential structure remains protected.
 * [NeoDialectic Oracle™](./fragments/INDEX.md)
 * [Oráculo Neodialéctico™](./fragmentos/INDICE.md)
 
+## Public Wiki
+
+* [Home](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
+* [Prior framework and external evidence](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Marco_Previo_y_Evidencia_Externa)
+* [Neodialectical Philosophy](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Philosophy_Neodialectic)
+* [NeoRenaissance](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Neorrenacimiento)
+* [Original creations of the author](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Creaciones_Originales_del_Autor)
+* [Founder’s poetic layer](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Capa_Poetica_del_Fundador)
+* [Innova_N Foundation](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Innova_N_Foundation)
+
 ## External public layers
 
 * [Pedro Martínez Alhambra · Founder · Neo0™](https://www.linkedin.com/in/pmalhambra/)
 * [Innova_N on LinkedIn](https://www.linkedin.com/company/innova-n/)
 * [innova-n.org · WEB4™ in development](https://innova-n.org)
-* [Public Innova_N Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
 
 ---
 
 **NEOCore™ 7.0 · conceptual level**
-**Archetypal Neodialectical Philosophy™ · Neodialectica Framework™ · SAN™ · WEB4™**
+**Neodialectica Framework™ / Network · Archetypal Neodialectical Philosophy™ · SAN™ · WEB4™**
 
 **© 2026 Pedro Martínez Alhambra · Innova_N Foundation · All rights reserved.**
