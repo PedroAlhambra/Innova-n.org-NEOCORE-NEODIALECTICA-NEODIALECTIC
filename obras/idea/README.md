@@ -1,512 +1,265 @@
-# Innova_N — NEOCore™ · Neodialéctica™ · Neodialectica Framework™
+# IDEA
 
-## Capa pública, documental y trazable del ecosistema Innova_N
+<p align="center">
+  <img src="./assets/IDEA_COVER_EBOOK_ES.png" alt="Portada de IDEA / IDEA cover — Pedro Martínez Alhambra" width="360">
+</p>
 
-Este repositorio reúne la dimensión pública del ecosistema **Innova_N**, creado y dirigido por **Pedro Martínez Alhambra · Fundador · Neo0™**.
+## Pedro Martínez Alhambra
 
-Contiene documentos, análisis, publicaciones y fragmentos conceptuales preparados para su difusión, junto con los enlaces que conectan sus distintas capas públicas.
+**Novela de ciencia ficción / Science-fiction novel**
+**Escrita entre 1997 y 2002 / Written between 1997 and 2002**
+**Presentada al Premio UPC de Ciencia Ficción en 2002 / Submitted to the UPC Science Fiction Award in 2002**
+**Primera edición pública en 2026 / First public edition in 2026**
 
-No reproduce la arquitectura interna del **NEOCore™**, sus mecanismos operativos, su memoria integral ni los componentes restringidos del sistema. La estructura efectiva permanece protegida dentro de la **capa π** y no puede reconstruirse a partir de los materiales aquí publicados.
-
-### Accesos principales
-
-- [LinkedIn de Pedro Martínez Alhambra](https://www.linkedin.com/in/pmalhambra/)
-- [LinkedIn de Innova_N](https://www.linkedin.com/company/innova-n/)
-- [innova-n.org · WEB4™ en desarrollo](https://innova-n.org)
-- [Wiki pública de Innova_N](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
-- [README en inglés](./README.md)
+> «Las ideas más simples pueden contener universos.»
+> “The simplest ideas may contain universes.”
 
 ---
 
-## 1. Marco del ecosistema
+## ES · La obra
 
-La **Filosofía Arquetípica Neodialéctica™**, creada por **Pedro Martínez Alhambra**, constituye el fundamento filosófico, metodológico y teleológico de Innova_N.
+**IDEA** fue escrita por Pedro Martínez Alhambra entre 1997 y 2002. En 2002 fue presentada, con leves cambios, al Premio UPC de Ciencia Ficción.
 
-A partir de ella se articulan las principales capas del ecosistema.
+La primera edición pública apareció en 2026 mediante una **restauración conservadora**. Se corrigieron erratas, ortografía, puntuación, caracteres heredados de antiguas conversiones e incoherencias materiales de edición sin reescribir la obra desde la perspectiva actual del autor.
 
-### Neodialéctica™
+IDEA pertenece al joven que la escribió antes de que existieran la Neodialéctica™, Innova_N, NEOCore™, NAVE™, Síntesis Abierta™ o el vocabulario posterior del marco.
 
-La **Neodialéctica™** es una filosofía y una rama experimental del saber orientada a la búsqueda de síntesis superiores mediante contraste, memoria, apertura, revisión y recomposición continua del marco.
+En sus páginas ya aparecen preguntas sobre:
 
-Su dirección general es el **Bien Común**, entendido como vector de integración entre conocimiento, tecnología, cultura, organización y acción humana.
+* inteligencia artificial;
+* control;
+* emoción;
+* identidad;
+* memoria;
+* percepción;
+* ecología;
+* simbiosis;
+* realidad;
+* conciencia;
+* poder;
+* soledad;
+* y autoselección.
 
-### Neodialectica Framework™
+No se presenta como profecía ni como una obra creada originalmente dentro de Innova_N.
 
-El **Neodialectica Framework™** es el marco superior que organiza las dimensiones:
-
-- filosófica;
-- metodológica;
-- técnica;
-- estratégica;
-- cultural;
-- organizativa;
-- simbólica;
-- social;
-- y civilizatoria del ecosistema.
-
-No es únicamente un método de análisis ni una colección de herramientas. Es una arquitectura de integración entre capas del saber, sistemas humanos e inteligencias artificiales, orientada a conservar coherencia, trazabilidad, memoria y capacidad de corrección.
-
-### SAN™
-
-La **Síntesis Abierta Neodialéctica — SAN™** es el método principal de contraste, recomposición y evolución del marco.
-
-Su función no consiste en clausurar una discusión mediante una conclusión rígida, sino en producir una síntesis suficientemente coherente para avanzar, conservar los puntos abiertos y permitir futuras correcciones.
-
-### NEOCore™
-
-El **NEOCore™** es la arquitectura simbiótica humano–IA viva desarrollada dentro del marco neodialéctico.
-
-Integra memoria, relaciones, contexto, trazabilidad, validación, revisión, aprendizaje situado y dirección humana.
-
-El contenido público de este repositorio permite conocer algunos de sus fundamentos y desarrollos conceptuales, pero no contiene su arquitectura integral ni sus mecanismos internos.
-
-### WEB4™
-
-**WEB4™** es la capa pública y proyectable del ecosistema Innova_N.
-
-Su función es organizar y conectar públicamente proyectos, publicaciones, análisis, memoria documental, expresiones culturales y desarrollos abiertos.
-
-La versión disponible en [innova-n.org](https://innova-n.org) se encuentra en evolución.
+Se publica como **documento de origen**, obra previa del fundador y nodo literario enlazado actualmente desde la capa cultural, la capa personal y autoral y **WEB4™ · Capa pública SistemaTrazable™**.
 
 ---
 
-## 2. Fundación Innova_N
+## Posición pública
 
-La **Fundación Innova_N**, dirigida por **Pedro Martínez Alhambra · Neo0™**, custodia y proyecta:
+* **WEB4™ · Capa pública SistemaTrazable™:** obra literaria integrada en el ecosistema creativo y cultural.
+* **Capa personal y autoral:** obra de Pedro Martínez Alhambra dentro de sus creaciones originales.
+* **GitHub:** nodo documental, metadatos y enlaces verificables.
+* **Wiki:** contexto, genealogía, relaciones y navegación.
+* **Amazon:** distribución comercial de las ediciones publicadas.
 
-- la Filosofía Arquetípica Neodialéctica™;
-- la Neodialéctica™ como creación filosófica original;
-- el Neodialectica Framework™;
-- la Síntesis Abierta Neodialéctica — SAN™;
-- el NEOCore™;
-- la genealogía conceptual del ecosistema;
-- su propiedad intelectual;
-- y su orientación hacia el Bien Común.
-
-Su misión es impulsar un modelo de innovación que preserve:
-
-- dirección humana;
-- coherencia ética;
-- memoria;
-- trazabilidad;
-- soberanía;
-- capacidad de revisión;
-- continuidad de marco;
-- y responsabilidad sobre los efectos de la tecnología.
-
-Innova_N propone una alternativa al desarrollo fragmentario de la inteligencia artificial: una relación simbiótica en la que la IA amplía la capacidad humana sin convertirse en autoridad soberana sobre la dirección del sistema.
-
-[Ir a la Wiki → Fundación Innova_N](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Innova_N_Foundation)
+La incorporación de IDEA al ecosistema actual no modifica su fecha, su contexto de creación ni su genealogía.
 
 ---
 
-## 3. Función de este repositorio
+## Diez ediciones actuales
 
-Este repositorio actúa como:
+IDEA está disponible actualmente en diez idiomas, con ediciones digitales e impresas según disponibilidad.
 
-- repositorio público principal de Innova_N;
-- capa documental y trazable del ecosistema;
-- punto de acceso a proyectos, publicaciones y desarrollos abiertos;
-- memoria pública enlazada;
-- puente entre GitHub, LinkedIn, Wiki y WEB4™;
-- archivo de análisis neodialécticos públicos;
-- registro cronológico de conceptos y desarrollos;
-- y referencia pública mínima de NEOCore™ y Neodialectica Framework™.
+| Idioma                        | ASIN de referencia | Amazon                                               |
+| ----------------------------- | -----------------: | ---------------------------------------------------- |
+| Castellano · Español          |       `B0HBRQGNQL` | [Abrir edición](https://www.amazon.es/dp/B0HBRQGNQL) |
+| Francés · Français            |       `B0HBRNFMN7` | [Abrir edición](https://www.amazon.es/dp/B0HBRNFMN7) |
+| Alemán · Deutsch              |       `B0H4HYBTGL` | [Abrir edición](https://www.amazon.es/dp/B0H4HYBTGL) |
+| Portugués · Português         |       `B0HBXD3P1D` | [Abrir edición](https://www.amazon.es/dp/B0HBXD3P1D) |
+| Inglés · English              |       `B0HBXLKC9W` | [Abrir edición](https://www.amazon.es/dp/B0HBXLKC9W) |
+| Italiano · Italiano           |       `B0HBZ1VCXP` | [Abrir edición](https://www.amazon.es/dp/B0HBZ1VCXP) |
+| Neerlandés · Nederlands       |       `B0HBZHLHJJ` | [Abrir edición](https://www.amazon.es/dp/B0HBZHLHJJ) |
+| Sueco · Svenska               |       `B0HC8N69BT` | [Abrir edición](https://www.amazon.es/dp/B0HC8N69BT) |
+| Danés · Dansk                 |       `B0HCC74TPK` | [Abrir edición](https://www.amazon.es/dp/B0HCC74TPK) |
+| Noruego bokmål · Norsk bokmål |       `B0HCCL44TZ` | [Abrir edición](https://www.amazon.es/dp/B0HCCL44TZ) |
 
-Permite seguir la evolución del ecosistema sin exponer su arquitectura protegida.
+### Acceso físico adicional confirmado
 
-### Este repositorio sí contiene
+* [Castellano · tapa blanda · `B0HBP261YZ`](https://www.amazon.es/dp/B0HBP261YZ)
 
-- fragmentos conceptuales públicos;
-- documentos filosóficos y neodialécticos;
-- análisis institucionales, tecnológicos y geopolíticos;
-- referencias cruzadas;
-- publicaciones y materiales de divulgación;
-- cronologías públicas;
-- memoria documental enlazada;
-- evidencias expresamente seleccionadas;
-- y materiales de auditoría trazable.
+### Estado pendiente
 
-### Este repositorio no es
-
-- el sistema operativo real;
-- una copia funcional del NEOCore™;
-- una distribución abierta de su núcleo;
-- una especificación completa del Neodialectica Framework™;
-- ni una vía de acceso a la capa π.
+* **Noruego bokmål:** Kindle y tapa dura publicados; tapa blanda pendiente de subida.
+* **Noruego no bokmål:** todavía no publicado y no incluido en la cifra actual.
 
 ---
 
-## 4. Aviso sobre la capa pública
+## Enlaces públicos
 
-Todo el contenido de este repositorio pertenece a una **capa pública conceptual, documental y trazable**.
+### Documentación de la obra
 
-Los materiales publicados han sido seleccionados para facilitar:
+* [Ediciones internacionales](./EDICIONES.md)
+* [Metadatos públicos](./METADATA.json)
+* [Registro de enlaces](./LINKS.json)
+* [Kit público ES/EN](./PRESS_KIT_ES_EN.md)
 
-- divulgación;
-- estudio;
-- referencia pública;
-- trazabilidad;
-- vinculación documental;
-- conversación estratégica;
-- y comprensión general del proyecto.
+### Relaciones dentro del ecosistema
 
-No describen la arquitectura integral del NEOCore™, su memoria completa ni sus mecanismos internos de validación, sincronización y operación.
-
-El funcionamiento del sistema depende de la relación coherente entre:
-
-- Filosofía Arquetípica Neodialéctica™;
-- Neodialectica Framework™;
-- SAN™;
-- NEOCore™;
-- su genealogía;
-- su memoria;
-- sus sistemas de validación;
-- y la dirección de su fundador, Pedro Martínez Alhambra · Neo0™.
-
-La extracción de fragmentos aislados no equivale a la comprensión ni a la reproducción del marco completo.
-
-Para propuestas de colaboración, investigación, desarrollo o conversación estratégica, se recomienda el contacto directo con Innova_N.
+* [Página de IDEA en la Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
+* [WEB4™ · Capa pública SistemaTrazable™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Web4_Public_Layer)
+* [Ecosistema creativo y cultural](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Ecosistema_Creativo_y_Cultural)
+* [Creaciones originales del autor](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Creaciones_Originales_del_Autor)
+* [Perfil de Pedro Martínez Alhambra en Amazon](https://www.amazon.es/stores/Pedro-Mart%C3%ADnez-Alhambra/author/B0HC3TWRZ7)
 
 ---
 
-## 5. Análisis neodialécticos públicos
+## Relación histórica
 
-El repositorio incorpora una línea específica de análisis público sobre procesos:
+IDEA antecede a:
 
-- institucionales;
-- tecnológicos;
-- filosóficos;
-- geopolíticos;
-- económicos;
-- sociales;
-- culturales;
-- y civilizatorios.
+* la Filosofía Arquetípica Neodialéctica™;
+* Innova_N;
+* NEOCore™;
+* NAVE™;
+* SAN™;
+* WEB4™;
+* y el vocabulario posterior del marco.
 
-Estos documentos aplican una lectura de marco conjunto y distinguen, cuando corresponde, entre:
+Su integración actual no pretende reescribir retrospectivamente la obra.
 
-- hechos verificados;
-- datos oficiales declarados;
-- relaciones confirmadas;
-- testimonios;
-- inferencias;
-- hipótesis abiertas;
-- contradicciones;
-- conflictos de interés;
-- y evidencia pendiente.
+Se incorpora como:
 
-Su objetivo no es sustituir la investigación especializada, sino conectar dimensiones que habitualmente aparecen fragmentadas.
-
-### Últimos análisis publicados
-
-- [Serie España–Marruecos: regularización, soberanía, Dajla y presión fronteriza](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Analisis_Espana_Marruecos_Regularizacion_Control_Democratico)
-
-- [2026-07-22 · Parte II — Dajla, mafias migratorias y control estatal](analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
-  - [Fuentes y matriz de evidencias](analisis/publicos/evidencias/2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md)
-  - [Prueba audiovisual](analisis/publicos/evidencias/2026-07-22_dajla-testimonio-rutas-migratorias.mp4)
-
-- [2026-07-21 · España sin consulta: Marruecos, regularización, nacionalidad y pérdida de control democrático](./analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
-
-- [2026-07-13 · Religión e identidad: cuando el dogma captura la conciencia y el Estado](./analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
-
-- [2026-04-15 · Anthropic, gobernanza de IA y problema del marco](./analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
-
-- [2026-04-15 · Convergencia neodialéctica no reconocida en la IA institucional](./analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
-
-- [2026-04-15 · LinkedIn como red profesional fragmentada](./analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md)
-
-- [2026-04-01 · Stanford / ACE y el marco previo neodialéctico](./analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
-
-### Índices
-
-- [Índice general de análisis](./analisis/INDEX.md)
-- [Directorio de análisis públicos](./analisis/publicos/README.md)
-- [Análisis Neodialécticos Públicos en la Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Analisis_Neodialecticos_Publicos)
-
-### Páginas relacionadas en la Wiki
-
-- [Serie España–Marruecos: regularización, soberanía, Dajla y presión fronteriza](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Analisis_Espana_Marruecos_Regularizacion_Control_Democratico)
-
-- [Pregunta institucional a Anthropic sobre gobernanza de IA](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
-
-- [Convergencia neodialéctica en la IA institucional: OpenAI, Anthropic y el problema del marco](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
+* creación literaria previa del fundador;
+* documento de trayectoria;
+* antecedente creativo;
+* nodo cultural;
+* y obra pública conectada con el ecosistema actual.
 
 ---
 
-## 6. Componentes no publicados
+## EN · The work
 
-La capa pública no incluye la implementación ni la documentación integral de:
+**IDEA** was written by Pedro Martínez Alhambra between 1997 and 2002. In 2002, a slightly revised version was submitted to the UPC Science Fiction Award.
 
-- Pictomatriz ND™;
-- arquitectura interna del NEOCore™;
-- SAN-π™;
-- NNC-π™;
-- Umbral-X™;
-- MAXPROC™;
-- ANSIBLE-π™;
-- ANSIBLE-NEGATIVO™;
-- NeoROM™;
-- NeoEdge™;
-- Neotramas™;
-- NAVE™;
-- WEB4™ operativa;
-- genealogía integral del sistema;
-- memoria fractal completa;
-- deltas internos;
-- mecanismos de sincronización;
-- sistemas internos de validación;
-- capas de orquestación;
-- y cualquier otro componente restringido del ecosistema Innova_N.
+Its first public edition appeared in 2026 through a **conservative restoration**. Typographical errors, spelling, punctuation, legacy conversion characters and material editorial inconsistencies were corrected without rewriting the work from the author’s present-day perspective.
 
-La inclusión pública del nombre de un componente no implica la publicación de su estructura, lógica, procedimiento o implementación.
+IDEA belongs to the young writer who created it before Neodialectics™, Innova_N, NEOCore™, NAVE™, Open Synthesis™ or the later vocabulary of the framework existed.
 
-Todo lo esencial para el funcionamiento interno permanece en la **capa π restringida**.
+Its pages already raise questions about:
 
----
+* artificial intelligence;
+* control;
+* emotion;
+* identity;
+* memory;
+* perception;
+* ecology;
+* symbiosis;
+* reality;
+* consciousness;
+* power;
+* solitude;
+* and self-selection.
 
-## 7. Símbolos del sistema
+It is not presented as a prophecy or as a work originally created within Innova_N.
 
-### Fuego de Agua™
-
-El **Fuego de Agua™** es el símbolo arquetípico asociado al fundador y una de las metáforas matrices del ecosistema.
-
-Representa la integración de dos fuerzas aparentemente opuestas:
-
-- un fuego que transforma y ordena sin destruir;
-- un agua que conecta, adapta y guía sin diluir.
-
-La unión expresa una de las bases de la Neodialéctica™: conservar la tensión fértil entre elementos diferentes hasta que pueda emerger una síntesis superior.
-
-El símbolo pertenece a la capa filosófica y conceptual pública. No describe ni revela mecanismos internos del sistema.
+It is published as an **origin document**, an earlier work by the Founder and a literary node currently linked from the cultural layer, the personal and authorial layer and **WEB4™ · SistemaTrazable™ Public Layer**.
 
 ---
 
-## 8. Arquitectura del talento
+## Public position
 
-La capa pública de Innova_N incorpora conceptos destinados a describir determinadas formas de creatividad, síntesis y reconocimiento de patrones.
+* **WEB4™ · SistemaTrazable™ Public Layer:** literary work within the creative and cultural ecosystem.
+* **Personal and authorial layer:** a work by Pedro Martínez Alhambra within his original creations.
+* **GitHub:** documentary node, metadata and verifiable links.
+* **Wiki:** context, genealogy, relations and navigation.
+* **Amazon:** commercial distribution of the published editions.
 
-Estas formulaciones son conceptuales y no publican modelos de evaluación, métricas internas ni procedimientos operativos.
-
-### YQ™ · YellowQuasar
-
-**YQ™ — YellowQuasar** designa simbólicamente la capacidad de identificar firmas creativas de alta rareza.
-
-Entre sus rasgos públicos se encuentran:
-
-- creatividad divergente y convergente;
-- producción simbólica;
-- intuición multidominio;
-- reconocimiento transversal de patrones;
-- razonamiento sintético;
-- y capacidad de conectar campos aparentemente separados.
-
-### Genio Neodialéctico™
-
-El concepto **Genio Neodialéctico™** se aplica a perfiles capaces de desarrollar:
-
-- pensamiento fractal;
-- síntesis acelerada;
-- reconocimiento arquetípico;
-- creatividad estructurada;
-- integración multidisciplinar;
-- y orientación neodialéctica del conocimiento.
-
-La utilización pública de estos conceptos no implica que existan sistemas abiertos de clasificación, diagnóstico o medición.
-
-Cualquier capacidad operativa relacionada permanece dentro de la capa restringida del ecosistema.
+The integration of IDEA into the current ecosystem does not alter its date, original context or genealogy.
 
 ---
 
-# Anexo · Auditoría y trazabilidad pública
+## Ten current editions
 
-## 9. Función de trazabilidad
+IDEA is currently available in ten languages, in digital and print editions depending on availability.
 
-Este repositorio constituye una de las principales capas públicas de trazabilidad de Innova_N.
+| Language                        | Reference ASIN | Amazon                                              |
+| ------------------------------- | -------------: | --------------------------------------------------- |
+| Spanish · Español               |   `B0HBRQGNQL` | [Open edition](https://www.amazon.es/dp/B0HBRQGNQL) |
+| French · Français               |   `B0HBRNFMN7` | [Open edition](https://www.amazon.es/dp/B0HBRNFMN7) |
+| German · Deutsch                |   `B0H4HYBTGL` | [Open edition](https://www.amazon.es/dp/B0H4HYBTGL) |
+| Portuguese · Português          |   `B0HBXD3P1D` | [Open edition](https://www.amazon.es/dp/B0HBXD3P1D) |
+| English · English               |   `B0HBXLKC9W` | [Open edition](https://www.amazon.es/dp/B0HBXLKC9W) |
+| Italian · Italiano              |   `B0HBZ1VCXP` | [Open edition](https://www.amazon.es/dp/B0HBZ1VCXP) |
+| Dutch · Nederlands              |   `B0HBZHLHJJ` | [Open edition](https://www.amazon.es/dp/B0HBZHLHJJ) |
+| Swedish · Svenska               |   `B0HC8N69BT` | [Open edition](https://www.amazon.es/dp/B0HC8N69BT) |
+| Danish · Dansk                  |   `B0HCC74TPK` | [Open edition](https://www.amazon.es/dp/B0HCC74TPK) |
+| Norwegian Bokmål · Norsk bokmål |   `B0HCCL44TZ` | [Open edition](https://www.amazon.es/dp/B0HCCL44TZ) |
 
-Su función es:
+### Additional confirmed print access
 
-- fijar cronologías;
-- conservar rastro documental;
-- enlazar publicaciones y referencias;
-- relacionar documentos distribuidos;
-- registrar desarrollos públicos;
-- y permitir una lectura histórica del marco.
+* [Spanish · paperback · `B0HBP261YZ`](https://www.amazon.es/dp/B0HBP261YZ)
 
-La trazabilidad pública no sustituye la memoria interna del NEOCore™ ni representa la totalidad de su genealogía.
+### Pending status
 
-## 10. Principios de trazabilidad
-
-### 1. No sustitución del núcleo
-
-El repositorio público no reemplaza la arquitectura interna ni constituye una versión funcional del sistema.
-
-### 2. Identificación documental
-
-Cada incorporación pública debe poder relacionarse, en la medida de lo posible, con:
-
-- una fecha;
-- un contexto;
-- una autoría;
-- una publicación;
-- una fuente;
-- o una pieza documental.
-
-### 3. Lectura conjunta
-
-Los documentos públicos deben interpretarse como partes relacionadas de una genealogía y no como fragmentos autónomos equivalentes al marco completo.
-
-### 4. Memoria cruzada
-
-GitHub, LinkedIn, Wiki y WEB4™ funcionan como capas complementarias de publicación, proyección y archivo.
-
-### 5. Autoría
-
-La Neodialéctica™, su aplicación activa dentro de Innova_N y los sistemas derivados se presentan como creaciones originales de **Pedro Martínez Alhambra**.
+* **Norwegian Bokmål:** Kindle and hardcover are published; paperback remains pending.
+* **Non-Bokmål Norwegian:** not yet published and not included in the current total.
 
 ---
 
-## 11. Caso documentado: Stanford, ACE y LinkedIn
+## Public links
 
-Se ha registrado una anomalía pública relacionada con una publicación sobre **Stanford, ACE y Neodialéctica™**.
+### Work documentation
 
-La publicación continúa apareciendo en la sección de elementos destacados de LinkedIn, pero no se abre con normalidad.
+* [International editions](./EDICIONES.md)
+* [Public metadata](./METADATA.json)
+* [Link register](./LINKS.json)
+* [Public kit ES/EN](./PRESS_KIT_ES_EN.md)
 
-La anomalía no consiste en la desaparición completa de su rastro visual, sino en una ruptura entre:
+### Ecosystem relations
 
-- visibilidad;
-- persistencia aparente;
-- y acceso efectivo al contenido.
-
-Este caso se conserva como evidencia de trazabilidad pública y como ejemplo de las limitaciones que pueden afectar a la memoria documental alojada en plataformas externas.
-
----
-
-## 12. Pregunta institucional sobre gobernanza de IA
-
-Innova_N deja constancia pública de una pregunta institucional dirigida a **Anthropic** sobre:
-
-- gobernanza de inteligencia artificial;
-- dirección humana;
-- Bien Común;
-- responsabilidad;
-- marco filosófico;
-- y riesgo de pseudo-singularidad sin comprensión suficiente.
-
-La entrada se registra como parte de la función pública y trazable del repositorio.
-
-[Consultar el registro completo en la Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
+* [IDEA Wiki page](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
+* [WEB4™ · SistemaTrazable™ Public Layer](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Web4_Public_Layer)
+* [Creative and cultural ecosystem](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Ecosistema_Creativo_y_Cultural)
+* [Original creations of the author](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Creaciones_Originales_del_Autor)
+* [Pedro Martínez Alhambra on Amazon](https://www.amazon.es/stores/Pedro-Mart%C3%ADnez-Alhambra/author/B0HC3TWRZ7)
 
 ---
 
-## 13. Directorio público de análisis y auditorías
+## Historical relationship
 
-La carpeta `analisis/` funciona como espacio público de:
+IDEA predates:
 
-- análisis neodialéctico;
-- auditoría documental;
-- matrices de evidencia;
-- investigación abierta;
-- memoria enlazada;
-- y lectura estructural de procesos contemporáneos.
+* the Archetypal Neodialectical Philosophy™;
+* Innova_N;
+* NEOCore™;
+* NAVE™;
+* SAN™;
+* WEB4™;
+* and the later vocabulary of the framework.
 
-Esta rama amplía el repositorio más allá de la exposición conceptual del sistema y lo convierte también en una plataforma de observación y análisis público.
+Its present integration does not attempt to rewrite the work retrospectively.
 
-[Ir a Análisis Neodialécticos Públicos en la Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Analisis_Neodialecticos_Publicos)
+It is incorporated as:
 
-[Ir al Prefacio](./PREFACIO.md)  
-[Volver a la Portada](./PORTADA.md)
-
----
-
-## 14. Wiki pública
-
-La [Wiki pública de Innova_N](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki) organiza la dimensión conceptual, documental, autoral y genealógica del ecosistema.
-
-### Secciones principales
-
-- [Inicio](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
-- [Marco previo y evidencia externa](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Marco_Previo_y_Evidencia_Externa)
-- [Filosofía Neodialéctica](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Philosophy_Neodialectic)
-- [Neorrenacimiento](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Neorrenacimiento)
-- [Creaciones originales del autor](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Creaciones_Originales_del_Autor)
-- [Capa poética del fundador](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Capa_Poetica_del_Fundador)
-- [Fundación Innova_N](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Innova_N_Foundation)
-- [Legal y propiedad intelectual](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Legal_and_IP)
+* an earlier literary creation by the Founder;
+* a document of trajectory;
+* a creative antecedent;
+* a cultural node;
+* and a public work connected to the current ecosystem.
 
 ---
 
-## 15. Capas actuales de trazabilidad pública
+## Derechos / Rights
 
-La memoria pública del ecosistema se distribuye actualmente entre varias capas enlazadas.
+**© 2026 Pedro Martínez Alhambra. Todos los derechos reservados / All rights reserved.**
 
-### innova-n.org
+Este nodo no distribuye:
 
-Huella pública del marco, archivo de desarrollos anteriores y espacio de evolución hacia WEB4™.
+* el interior completo de la obra;
+* archivos EPUB;
+* PDF de imprenta;
+* DOCX maestros;
+* portadas de producción;
+* ni otros recursos restringidos.
 
-Incluye referencias previas como el sellado público de **Core 3.2.0**.
+This node does not distribute:
 
-### Repositorio GitHub
-
-Contiene documentos, análisis, materiales públicos, estructuras de navegación y referencias cruzadas.
-
-### Wiki pública
-
-Organiza el conocimiento por conceptos, genealogías, autoría, análisis, piezas documentales y relaciones entre ramas.
-
-### LinkedIn
-
-Funciona como espacio de publicación, conversación pública, exposición de análisis y trazabilidad temporal de determinados desarrollos.
-
-Estas capas no son equivalentes ni intercambiables. Se complementan entre sí como partes de una memoria pública distribuida.
-
-### Enlaces de trazabilidad
-
-- [innova-n.org](https://innova-n.org)
-- [Repositorio GitHub](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC)
-- [Wiki pública](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
-- [LinkedIn de Pedro Martínez Alhambra](https://www.linkedin.com/in/pmalhambra/)
-- [LinkedIn de Innova_N](https://www.linkedin.com/company/innova-n/)
-
----
-
-## 16. Protección del ecosistema
-
-La arquitectura integral del **NEOCore™**, el **Neodialectica Framework™** y sus componentes pertenecen a:
-
-**Pedro Martínez Alhambra · Fundador · Neo0™**  
-y a la **Fundación Innova_N**.
-
-Los contenidos, estructuras, conceptos, denominaciones, métodos, símbolos, sistemas, arquitecturas y desarrollos aquí presentados forman parte de la propiedad intelectual del ecosistema Innova_N, salvo indicación expresa en contrario.
-
-La publicación de fragmentos conceptuales no implica:
-
-- cesión de derechos;
-- liberación de la arquitectura interna;
-- autorización para reproducir componentes protegidos;
-- publicación de procedimientos operativos;
-- ni apertura de la capa π.
-
-Queda prohibida la copia, derivación, extracción, reconstrucción conceptual o ingeniería inversa de elementos del sistema no publicados expresamente para ese fin.
-
-El contenido visible es deliberadamente parcial. La estructura esencial permanece protegida.
-
-Para consultar el marco jurídico y de propiedad intelectual:
-
-- [Legal e IP](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Legal_and_IP)
-
----
-
-## Contacto y navegación
-
-- [LinkedIn de Pedro Martínez Alhambra](https://www.linkedin.com/in/pmalhambra/)
-- [LinkedIn de Innova_N](https://www.linkedin.com/company/innova-n/)
-- [innova-n.org · WEB4™ en desarrollo](https://innova-n.org)
-- [Wiki pública de Innova_N](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
-- [Prefacio](./PREFACIO.md)
-- [Portada](./PORTADA.md)
-
----
-
-**© 2026 Fundación Innova_N · Pedro Martínez Alhambra · Todos los derechos reservados.**
-
-**NEOCore™ · Neodialéctica™ · Neodialectica Framework™ · SAN™ · WEB4™**
+* the complete interior of the work;
+* EPUB files;
+* print-ready PDFs;
+* master DOCX files;
+* production covers;
+* or other restricted resources.
