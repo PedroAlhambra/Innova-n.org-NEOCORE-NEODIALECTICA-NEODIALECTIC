@@ -1,87 +1,162 @@
 {
-  "author": {
-    "name": "Pedro Martínez Alhambra",
-    "amazon_author_id": "B0HC3TWRZ7",
-    "url": "https://www.amazon.es/stores/Pedro-Mart%C3%ADnez-Alhambra/author/B0HC3TWRZ7"
-  },
-  "editions": [
-    {
-      "language_es": "Castellano",
-      "language_en": "Spanish",
-      "language_native": "Español",
-      "asin": "B0HBRQGNQL",
-      "url": "https://www.amazon.es/dp/B0HBRQGNQL"
-    },
-    {
-      "language_es": "Francés",
-      "language_en": "French",
-      "language_native": "Français",
-      "asin": "B0HBRNFMN7",
-      "url": "https://www.amazon.es/dp/B0HBRNFMN7"
-    },
-    {
-      "language_es": "Alemán",
-      "language_en": "German",
-      "language_native": "Deutsch",
-      "asin": "B0H4HYBTGL",
-      "url": "https://www.amazon.es/dp/B0H4HYBTGL"
-    },
-    {
-      "language_es": "Portugués",
-      "language_en": "Portuguese",
-      "language_native": "Português",
-      "asin": "B0HBXD3P1D",
-      "url": "https://www.amazon.es/dp/B0HBXD3P1D"
-    },
-    {
-      "language_es": "Inglés",
-      "language_en": "English",
-      "language_native": "English",
-      "asin": "B0HBXLKC9W",
-      "url": "https://www.amazon.es/dp/B0HBXLKC9W"
-    },
-    {
-      "language_es": "Italiano",
-      "language_en": "Italian",
-      "language_native": "Italiano",
-      "asin": "B0HBZ1VCXP",
-      "url": "https://www.amazon.es/dp/B0HBZ1VCXP"
-    },
-    {
-      "language_es": "Neerlandés",
-      "language_en": "Dutch",
-      "language_native": "Nederlands",
-      "asin": "B0HBZHLHJJ",
-      "url": "https://www.amazon.es/dp/B0HBZHLHJJ"
-    },
-    {
-      "language_es": "Sueco",
-      "language_en": "Swedish",
-      "language_native": "Svenska",
-      "asin": "B0HC8N69BT",
-      "url": "https://www.amazon.es/dp/B0HC8N69BT"
-    },
-    {
-      "language_es": "Danés",
-      "language_en": "Danish",
-      "language_native": "Dansk",
-      "asin": "B0HCC74TPK",
-      "url": "https://www.amazon.es/dp/B0HCC74TPK"
-    },
-    {
-      "language_es": "Noruego bokmål",
-      "language_en": "Norwegian Bokmål",
-      "language_native": "Norsk bokmål",
-      "asin": "B0HCCL44TZ",
-      "url": "https://www.amazon.es/dp/B0HCCL44TZ"
-    }
-  ],
-  "additional_links": [
-    {
-      "label_es": "Castellano · tapa blanda",
-      "label_en": "Spanish · paperback",
-      "asin": "B0HBP261YZ",
-      "url": "https://www.amazon.es/dp/B0HBP261YZ"
-    }
-  ]
+"schema": "innova_n.public_links.v2",
+"recorded_at": "2026-08-02",
+"work": {
+"title": "IDEA",
+"author": "Pedro Martínez Alhambra",
+"published_languages": 10
+},
+"author": {
+"name": "Pedro Martínez Alhambra",
+"amazon_author_id": "B0HC3TWRZ7",
+"amazon_author_url": "https://www.amazon.es/stores/Pedro-Mart%C3%ADnez-Alhambra/author/B0HC3TWRZ7"
+},
+"public_nodes": {
+"repository": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/tree/main/obras/idea",
+"wiki": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026",
+"cultural_wiki": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Ecosistema_Creativo_y_Cultural",
+"authorial_wiki": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Creaciones_Originales_del_Autor",
+"innova_n": "https://innova-n.org"
+},
+"editions": [
+{
+"code": "es",
+"language_es": "Castellano",
+"language_en": "Spanish",
+"language_native": "Español",
+"reference_asin": "B0HBRQGNQL",
+"reference_url": "https://www.amazon.es/dp/B0HBRQGNQL",
+"status": "published"
+},
+{
+"code": "fr",
+"language_es": "Francés",
+"language_en": "French",
+"language_native": "Français",
+"reference_asin": "B0HBRNFMN7",
+"reference_url": "https://www.amazon.es/dp/B0HBRNFMN7",
+"status": "published"
+},
+{
+"code": "de",
+"language_es": "Alemán",
+"language_en": "German",
+"language_native": "Deutsch",
+"reference_asin": "B0H4HYBTGL",
+"reference_url": "https://www.amazon.es/dp/B0H4HYBTGL",
+"status": "published"
+},
+{
+"code": "pt",
+"language_es": "Portugués",
+"language_en": "Portuguese",
+"language_native": "Português",
+"reference_asin": "B0HBXD3P1D",
+"reference_url": "https://www.amazon.es/dp/B0HBXD3P1D",
+"status": "published"
+},
+{
+"code": "en",
+"language_es": "Inglés",
+"language_en": "English",
+"language_native": "English",
+"reference_asin": "B0HBXLKC9W",
+"reference_url": "https://www.amazon.es/dp/B0HBXLKC9W",
+"status": "published"
+},
+{
+"code": "it",
+"language_es": "Italiano",
+"language_en": "Italian",
+"language_native": "Italiano",
+"reference_asin": "B0HBZ1VCXP",
+"reference_url": "https://www.amazon.es/dp/B0HBZ1VCXP",
+"status": "published"
+},
+{
+"code": "nl",
+"language_es": "Neerlandés",
+"language_en": "Dutch",
+"language_native": "Nederlands",
+"reference_asin": "B0HBZHLHJJ",
+"reference_url": "https://www.amazon.es/dp/B0HBZHLHJJ",
+"status": "published"
+},
+{
+"code": "sv",
+"language_es": "Sueco",
+"language_en": "Swedish",
+"language_native": "Svenska",
+"reference_asin": "B0HC8N69BT",
+"reference_url": "https://www.amazon.es/dp/B0HC8N69BT",
+"status": "published"
+},
+{
+"code": "da",
+"language_es": "Danés",
+"language_en": "Danish",
+"language_native": "Dansk",
+"reference_asin": "B0HCC74TPK",
+"reference_url": "https://www.amazon.es/dp/B0HCC74TPK",
+"status": "published"
+},
+{
+"code": "nb",
+"language_es": "Noruego bokmål",
+"language_en": "Norwegian Bokmål",
+"language_native": "Norsk bokmål",
+"reference_asin": "B0HCCL44TZ",
+"reference_url": "https://www.amazon.es/dp/B0HCCL44TZ",
+"status": "published"
+}
+],
+"confirmed_format_links": [
+{
+"language_code": "es",
+"format": "paperback",
+"label_es": "Castellano · tapa blanda",
+"label_en": "Spanish · paperback",
+"asin": "B0HBP261YZ",
+"url": "https://www.amazon.es/dp/B0HBP261YZ",
+"status": "published"
+},
+{
+"language_code": "nb",
+"format": "kindle",
+"label_es": "Noruego bokmål · Kindle",
+"label_en": "Norwegian Bokmål · Kindle",
+"asin": "B0HCCL44TZ",
+"url": "https://www.amazon.es/dp/B0HCCL44TZ",
+"status": "published"
+},
+{
+"language_code": "nb",
+"format": "hardcover",
+"label_es": "Noruego bokmål · tapa dura",
+"label_en": "Norwegian Bokmål · hardcover",
+"asin": "B0HCCL44TZ",
+"url": "https://www.amazon.es/dp/B0HCCL44TZ",
+"status": "published"
+}
+],
+"pending": [
+{
+"language_code": "nb",
+"format": "paperback",
+"status": "pending_upload",
+"reason": "KDP weekly publication limit"
+},
+{
+"language_code": "no",
+"format": null,
+"status": "not_published",
+"included_in_published_language_count": false
+}
+],
+"link_policy": {
+"amazon_pattern": "https://www.amazon.es/dp/ASIN",
+"clean_urls": true,
+"tracking_parameters": false,
+"session_parameters": false
+}
 }
