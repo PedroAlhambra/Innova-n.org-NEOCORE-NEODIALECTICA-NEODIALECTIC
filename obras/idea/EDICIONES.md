@@ -3,7 +3,8 @@
 
 **Autor / Author:** Pedro Martínez Alhambra  
 **Idiomas publicados / Published languages:** 10  
-**Perfil de autor / Author page:** [Amazon](https://www.amazon.es/stores/Pedro-Mart%C3%ADnez-Alhambra/author/B0HC3TWRZ7)
+**Perfil del autor / Author page:** [Amazon](https://www.amazon.es/stores/Pedro-Mart%C3%ADnez-Alhambra/author/B0HC3TWRZ7)  
+**Registro / Record date:** 2026-08-02
 
 ---
 
@@ -26,14 +27,12 @@
 
 - Castellano · tapa blanda: [`B0HBP261YZ`](https://www.amazon.es/dp/B0HBP261YZ)
 
-### Estado noruego
+### Estado pendiente
 
-- Norsk bokmål: Kindle y tapa dura publicados; tapa blanda pendiente.
+- Noruego bokmål: Kindle y tapa dura publicados; tapa blanda pendiente.
 - Noruego no bokmål: no publicado.
 
-### Fórmula pública correcta
-
-> IDEA está disponible actualmente en diez idiomas, con ediciones digitales e impresas según disponibilidad.
+> **IDEA está disponible actualmente en diez idiomas, con ediciones digitales e impresas según disponibilidad.**
 
 ---
 
@@ -56,14 +55,12 @@
 
 - Spanish · paperback: [`B0HBP261YZ`](https://www.amazon.es/dp/B0HBP261YZ)
 
-### Norwegian status
+### Pending status
 
-- Norwegian Bokmål: Kindle and hardcover are published; paperback pending.
+- Norwegian Bokmål: Kindle and hardcover published; paperback pending.
 - Non-Bokmål Norwegian: not published.
 
-### Correct public wording
-
-> IDEA is currently available in ten languages, in digital and print editions depending on availability.
+> **IDEA is currently available in ten languages, in digital and print editions depending on availability.**
 
 ---
 
@@ -73,5 +70,5 @@
 https://www.amazon.es/dp/ASIN
 ```
 
-Se eliminan parámetros de seguimiento y sesión.  
-Tracking and session parameters are removed.
+Los enlaces eliminan parámetros de seguimiento y sesión.  
+Links remove tracking and session parameters.
