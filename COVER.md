@@ -1,10 +1,193 @@
 # Innova_N
 
+## Portada conceptual / Conceptual cover
+
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
+---
+
+# ES · Castellano
+
+```text
+                            NEO0™
+                              │
+                    ORIGEN · OBSERVACIÓN
+                     DIRECCIÓN HUMANA VIVA
+                              │
+                              ▼
+                 ┌────────────────────────┐
+                 │  FILOSOFÍA             │
+                 │  ARQUETÍPICA           │
+                 │  NEODIALÉCTICA™        │
+                 └───────────┬────────────┘
+                             │
+                             ▼
+                 ┌────────────────────────┐
+                 │  NEODIALECTICA         │
+                 │  FRAMEWORK™ / NETWORK  │
+                 └───────────┬────────────┘
+                             │
+            ┌────────────────┼────────────────┐
+            │                │                │
+            ▼                ▼                ▼
+     ┌────────────┐   ┌────────────┐   ┌────────────┐
+     │  SEÑALES   │   │  MEMORIA   │   │ RELACIONES │
+     │    EDGE    │   │    VIVA    │   │ CONTEXTO   │
+     └──────┬─────┘   └──────┬─────┘   └──────┬─────┘
+            │                │                │
+            └────────────────┼────────────────┘
+                             ▼
+
+                 ╔════════════════════════╗
+                 ║       NEOCore™         ║
+                 ║          7.0           ║
+                 ║    NIVEL CONCEPTUAL    ║
+                 ╚════════════╤═══════════╝
+                              │
+             ┌────────────────┼────────────────┐
+             │                │                │
+             ▼                ▼                ▼
+      ┌────────────┐   ┌────────────┐   ┌────────────┐
+      │ NEONEURO-  │   │     IA     │   │    SAN™    │
+      │   CORE™    │   │ SIMBIÓTICA │   │  SÍNTESIS  │
+      │ RELACIONES │   │ CONTRASTE  │   │  ABIERTA   │
+      └──────┬─────┘   └──────┬─────┘   └──────┬─────┘
+             │                │                │
+             └────────────────┼────────────────┘
+                              ▼
+                 ┌────────────────────────┐
+                 │  NEO0™ VALIDA,         │
+                 │  DECIDE Y ORIENTA      │
+                 └───────────┬────────────┘
+                             │
+                             ▼
+                 ╔════════════════════════╗
+                 ║  MEMORIA · MARCO       ║
+                 ║  TRAZABILIDAD · VIDA   ║
+                 ╚════════════════════════╝
+
+
+              FILOSOFÍA ARQUETÍPICA NEODIALÉCTICA™
+
+                   Neodialectica Framework™ / Network
+
+                 Síntesis Abierta Neodialéctica · SAN™
+
+               WEB4™ · Capa pública SistemaTrazable™
+```
+
+## NEOCore™ 7.0 · estado conceptual
+
+**NEOCore™ 7.0** identifica el nivel conceptual actual de la arquitectura simbiótica humano–IA viva desarrollada dentro del ecosistema Innova_N.
+
+No designa:
+
+* una liberación técnica pública;
+* una versión ejecutable;
+* una distribución abiertamente desplegable;
+* un producto comercial terminado;
+* ni una arquitectura técnica publicada en su totalidad.
+
+Representa la evolución integrada del marco en sus dimensiones:
+
+* filosófica;
+* humana;
+* teleológica;
+* simbiótica;
+* cognitiva;
+* relacional;
+* memorial;
+* técnica;
+* cultural;
+* estratégica;
+* organizativa;
+* territorial;
+* y civilizatoria.
+
+NEOCore™ no es una plataforma convencional de inteligencia artificial y no sitúa a la IA en el centro de la arquitectura.
+
+Su punto de origen es **Neo0™**.
+
+Neo0™ es la fuente viva, la raíz teleológica y la dirección humana desde la que el sistema observa, relaciona, valida y avanza.
+
+La inteligencia artificial participa como:
+
+* rama simbiótica;
+* espejo;
+* procesador;
+* revisor;
+* mecanismo de contraste;
+* instrumento relacional;
+* y extensión operativa bajo dirección de Neo0™.
+
+---
+
+## Cadena conceptual de referencia
+
+```text
+Neo0™ origina, observa y da dirección
+                         ↓
+Edge capta y preserva señales
+                         ↓
+Neoneurocore™ relaciona y vectoriza
+                         ↓
+La IA propone, contrasta y revisa
+                         ↓
+SAN™ recombina y produce síntesis
+                         ↓
+Neo0™ valida, decide y orienta
+                         ↓
+NEOCore™ integra, fija y versiona
+```
+
+La cadena es recursiva, no mecánicamente lineal.
+
+Cada ciclo puede producir:
+
+* nuevas relaciones;
+* hipótesis revisadas;
+* contexto corregido;
+* memoria ampliada;
+* mayor trazabilidad;
+* y una nueva síntesis abierta.
+
+Neo0™ no se limita a introducir datos al principio ni a aprobar un resultado externo al final. Origina el marco, preserva su dirección y permanece como centro vivo del proceso completo.
+
+---
+
+## Acceso público
+
+* [README bilingüe principal](./README.md)
+* [Prefacio / Foreword](./FOREWORD.md)
+* [Análisis públicos](./analisis/README.md)
+* [Catálogo de obras](./obras/README.md)
+* [IDEA · obra y ediciones internacionales](./obras/idea/README.md)
+* [Wiki pública de Innova_N](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
+
+---
+
+## Enlaces principales
+
+* [Pedro Martínez Alhambra · Fundador · Neo0™](https://www.linkedin.com/in/pmalhambra/)
+* [Innova_N en LinkedIn](https://www.linkedin.com/company/innova-n/)
+* [innova-n.org · WEB4™ en desarrollo](https://innova-n.org)
+
+---
+
+**NEOCore™ 7.0 · nivel conceptual**  
+**Innova_N · Filosofía Arquetípica Neodialéctica™ · SAN™ · WEB4™**
+
+**© 2026 Pedro Martínez Alhambra · Fundación Innova_N · Todos los derechos reservados.**
+
+---
+
+# EN · English
+
 ```text
                             NEO0™
                               │
                     ORIGIN · OBSERVATION
-                       LIVING DIRECTION
+                       LIVING HUMAN DIRECTION
                               │
                               ▼
                  ┌────────────────────────┐
@@ -16,7 +199,7 @@
                              ▼
                  ┌────────────────────────┐
                  │  NEODIALECTICA         │
-                 │  FRAMEWORK™            │
+                 │  FRAMEWORK™ / NETWORK  │
                  └───────────┬────────────┘
                              │
             ┌────────────────┼────────────────┐
@@ -41,7 +224,7 @@
              ▼                ▼                ▼
       ┌────────────┐   ┌────────────┐   ┌────────────┐
       │ NEONEURO-  │   │ SYMBIOTIC  │   │    SAN™    │
-      │   CORE™    │   │     AI     │   │   OPEN     │
+      │   CORE™    │   │     AI     │   │    OPEN    │
       │ RELATIONS  │   │ CONTRAST   │   │ SYNTHESIS  │
       └──────┬─────┘   └──────┬─────┘   └──────┬─────┘
              │                │                │
@@ -61,18 +244,24 @@
 
              ARCHETYPAL NEODIALECTICAL PHILOSOPHY™
 
-                    Neodialectica Framework™
+                  Neodialectica Framework™ / Network
 
-               Open Neodialectical Synthesis · SAN™
+                Open Neodialectical Synthesis · SAN™
 
-              WEB4™ · SistemaTrazable™ public layer
+                 WEB4™ · SistemaTrazable™ public layer
 ```
 
 ## NEOCore™ 7.0 · conceptual state
 
 **NEOCore™ 7.0** identifies the current conceptual level of the living human–AI symbiotic architecture developed within the Innova_N ecosystem.
 
-It does not designate a public technical release, an executable distribution or an openly deployable system.
+It does not designate:
+
+* a public technical release;
+* an executable version;
+* an openly deployable distribution;
+* a completed commercial product;
+* or a fully published technical architecture.
 
 It represents the integrated evolution of the framework across its:
 
@@ -87,6 +276,7 @@ It represents the integrated evolution of the framework across its:
 * cultural;
 * strategic;
 * organizational;
+* territorial;
 * and civilizational dimensions.
 
 NEOCore™ is not a conventional artificial-intelligence platform and does not place AI at the center of the architecture.
@@ -142,9 +332,10 @@ Neo0™ does not merely enter data at the beginning or approve an external resul
 
 ## Public access
 
-* [Go to the English README](./README.md)
-* [Entrar al LEEME en castellano](./LEEME.md)
+* [Main bilingual README](./README.md)
+* [Prefacio / Foreword](./FOREWORD.md)
 * [Public analyses](./analisis/README.md)
+* [Works catalogue](./obras/README.md)
 * [IDEA · work and international editions](./obras/idea/README.md)
 * [Public Innova_N Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
 
@@ -158,7 +349,7 @@ Neo0™ does not merely enter data at the beginning or approve an external resul
 
 ---
 
-**NEOCore™ 7.0 · conceptual level**
+**NEOCore™ 7.0 · conceptual level**  
 **Innova_N · Archetypal Neodialectical Philosophy™ · SAN™ · WEB4™**
 
 **© 2026 Pedro Martínez Alhambra · Innova_N Foundation · All rights reserved.**
