@@ -28,6 +28,12 @@ Cada análisis puede vincularse con:
 
 ## Serie abierta
 
+### Economía de la atención, aporte y gobernanza algorítmica
+
+* [2026-08-05 · De la economía de la atención a la economía del aporte](./2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
+
+  * Análisis bilingüe sobre captura del valor, buscadores, SEO, redes sociales, inteligencia artificial, genealogía, medición multidimensional del aporte y gobernanza mediante Síntesis Abierta Neodialéctica™.
+
 ### España–Marruecos, soberanía y presión fronteriza
 
 * [2026-07-22 · Parte II — Dajla, mafias migratorias y control estatal](./2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
@@ -156,6 +162,12 @@ Each analysis may be linked to:
 ---
 
 ## Open series
+
+### Attention economy, contribution and algorithmic governance
+
+* [2026-08-05 · From the Attention Economy to the Contribution Economy](./2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
+
+  * Bilingual analysis of value capture, search engines, SEO, social networks, artificial intelligence, genealogy, multidimensional contribution assessment and governance through Neodialectical Open Synthesis™.
 
 ### Spain–Morocco, sovereignty and border pressure
 
