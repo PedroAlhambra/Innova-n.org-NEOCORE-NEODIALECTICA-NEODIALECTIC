@@ -10,6 +10,10 @@
 
 ### Análisis públicos
 
+* [2026-08-05 · De la economía de la atención a la economía del aporte](./publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
+
+  * Análisis estructural sobre captura del valor, algoritmos, buscadores, SEO, redes sociales, inteligencia artificial, autoría, genealogía y medición multidimensional del aporte.
+
 * [2026-07-22 · Parte II — Dajla, mafias migratorias y control estatal](./publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
 
   * [Fuentes y matriz de evidencias](./publicos/evidencias/2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md)
@@ -66,6 +70,10 @@ Cada nuevo análisis público debe incorporarse, cuando corresponda, a:
 * [2025-12 · Event-Reflection · DistroKid Audit](./2025-12_Evento-Reflejo_Auditoria-Distrokid.md)
 
 ### Public analyses
+
+* [2026-08-05 · From the Attention Economy to the Contribution Economy](./publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
+
+  * Structural analysis of value capture, algorithms, search engines, SEO, social networks, artificial intelligence, authorship, genealogy and multidimensional contribution assessment.
 
 * [2026-07-22 · Part II — Dakhla, migrant-smuggling networks and state control](./publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
 
