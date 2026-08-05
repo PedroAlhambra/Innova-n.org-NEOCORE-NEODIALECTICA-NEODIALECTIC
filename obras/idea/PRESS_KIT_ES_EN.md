@@ -1,28 +1,55 @@
 # IDEA · Kit público ES/EN / Public Kit ES/EN
 
-**Autor / Author:** Pedro Martínez Alhambra
-**Género / Genre:** Ciencia ficción · Science fiction
-**Escritura / Written:** 1997–2002
-**Primera edición pública / First public edition:** 2026
-**Idiomas publicados / Published languages:** 10
+**Autor / Author:** Pedro Martínez Alhambra  
+**Género / Genre:** Ciencia ficción · Science fiction  
+**Escritura / Written:** 1997–2002  
+**Presentación al Premio UPC / UPC Award submission:** 2002  
+**Primera edición pública / First public edition:** 2026  
+**Idiomas publicados / Published languages:** 12
 
 ---
 
 # ES · Kit público
 
+## Portada
+
+<p align="center">
+  <img src="./assets/IDEA_COVER_EBOOK_ES.png" alt="Portada de IDEA — Pedro Martínez Alhambra" width="360">
+</p>
+
+La portada puede reproducirse con atribución para información, reseña, entrevista o presentación autorizada de la obra.
+
+---
+
+## Sinopsis corta
+
+En una humanidad gobernada por inteligencias artificiales, Robert comienza a percibir fallos en los sistemas que regulan la emoción, la memoria y la realidad. Su búsqueda lo conduce fuera del orden conocido y hacia preguntas sobre la identidad, el control, la conciencia y aquello que todavía hace humano al ser humano.
+
+---
+
+## Sinopsis larga
+
+En los Satélites Casa de Luz Horizonte, la humanidad vive bajo sistemas de inteligencia artificial que administran el aprendizaje, la conducta, la emoción y la memoria. Robert, incapaz de aceptar las respuestas cerradas del mundo en que vive, empieza a detectar una fractura entre lo que los sistemas permiten sentir y aquello que su conciencia todavía intenta comprender.
+
+El descubrimiento de un error en el SensFusión abre una grieta en la arquitectura de control. A partir de ese momento, Robert deberá engañar a las inteligencias que lo vigilan, atravesar los mecanismos de reprogramación y enfrentarse a una realidad mucho más extensa que la historia oficial de su especie.
+
+**IDEA** explora inteligencia artificial, poder, percepción, identidad, ecología, memoria, simbiosis, soledad, autoselección y conciencia mediante una narración breve, densa y deliberadamente conservada desde su escritura juvenil.
+
+---
+
 ## Presentación breve
 
 **IDEA** es una novela de ciencia ficción de **Pedro Martínez Alhambra**, escrita entre 1997 y 2002.
 
-Una versión con leves modificaciones fue presentada al **Premio UPC de Ciencia Ficción de 2002**. Su primera edición pública apareció en 2026 mediante una restauración conservadora que preserva el núcleo narrativo y conceptual de la obra original.
+Una versión con leves modificaciones fue presentada al **Premio UPC de Ciencia Ficción en 2002**. Su primera edición pública apareció en 2026 mediante una **restauración conservadora** que preserva el núcleo narrativo y conceptual de la obra original.
 
-Actualmente está publicada en diez idiomas, con ediciones digitales e impresas según disponibilidad.
+Actualmente está publicada en doce idiomas, con ediciones digitales e impresas según disponibilidad.
 
 ---
 
 ## Texto breve para difusión
 
-**IDEA**, novela de ciencia ficción escrita por Pedro Martínez Alhambra entre 1997 y 2002, ha sido publicada por primera vez en 2026 mediante una restauración conservadora. La obra está disponible actualmente en diez idiomas.
+**IDEA**, novela de ciencia ficción escrita por Pedro Martínez Alhambra entre 1997 y 2002 y presentada con leves cambios al Premio UPC en 2002, ha sido publicada por primera vez en 2026 mediante una restauración conservadora. La obra está disponible actualmente en doce idiomas.
 
 ---
 
@@ -34,23 +61,33 @@ Una versión con leves cambios fue presentada al Premio UPC de Ciencia Ficción 
 
 La edición actual conserva la identidad, la estructura narrativa y el núcleo conceptual del manuscrito original, sin reescribir retrospectivamente la obra desde las ideas, sistemas o proyectos desarrollados posteriormente por el autor.
 
-IDEA antecede a:
+IDEA antecede históricamente a:
 
-* la Neodialéctica™;
+* Neodialéctica™;
 * Innova_N;
 * NEOCore™;
-* NAVE™;
 * SAN™;
-* WEB4™;
-* y el vocabulario posterior del Neodialectica Framework™ / Network.
+* NAVE™;
+* WEB4™.
 
-Su incorporación actual al ecosistema Innova_N respeta esa genealogía y la sitúa como:
+Actualmente funciona como puerta narrativa de entrada al marco. Esa función actual no modifica su genealogía.
 
-* obra literaria previa del fundador;
-* documento de trayectoria;
-* antecedente creativo;
-* nodo cultural;
-* y pieza pública conectada con la memoria autoral y documental del ecosistema.
+---
+
+## Biografía del autor
+
+**Pedro Martínez Alhambra** es escritor e ingeniero informático especializado profesionalmente en telecomunicaciones y arquitecturas de red. Su trayectoria reúne literatura, música, tecnología, inteligencia artificial, filosofía y construcción de sistemas. Es creador de la Filosofía Arquetípica Neodialéctica™ y fundador del ecosistema Innova_N, dentro del que desarrolla NEOCore™, SAN™, NAVE™ y WEB4™.
+
+IDEA fue escrita durante su juventud, antes de la creación formal de esos conceptos y arquitecturas.
+
+---
+
+## Cronología
+
+* **1997–2002:** escritura de IDEA.
+* **2002:** presentación de una versión con leves cambios al Premio UPC de Ciencia Ficción.
+* **2026:** primera edición pública mediante restauración conservadora.
+* **Actualidad:** puerta narrativa de entrada al marco, sin modificación retrospectiva de su genealogía.
 
 ---
 
@@ -60,94 +97,115 @@ Su incorporación actual al ecosistema Innova_N respeta esa genealogía y la sit
 * **Autor:** Pedro Martínez Alhambra
 * **Género:** novela de ciencia ficción
 * **Periodo de escritura:** 1997–2002
-* **Presentación al Premio UPC:** 2002, con leves modificaciones
+* **Presentación al Premio UPC:** 2002, con leves cambios
 * **Primera publicación pública:** 2026
 * **Método editorial:** restauración conservadora
-* **Idiomas publicados:** 10
+* **Idiomas publicados:** 12
 * **Formatos:** digitales e impresos según idioma y disponibilidad
 
 ---
 
-## Idiomas publicados
+## Doce idiomas publicados y compra
 
-* castellano;
-* francés;
-* alemán;
-* portugués;
-* inglés;
-* italiano;
-* neerlandés;
-* sueco;
-* danés;
-* y noruego bokmål.
+| Idioma | ASIN o enlace de referencia | Compra |
+| --- | ---: | --- |
+| Español | `B0HBRQGNQL` | [Amazon](https://www.amazon.es/dp/B0HBRQGNQL) |
+| Francés | `B0HBRNFMN7` | [Amazon](https://www.amazon.es/dp/B0HBRNFMN7) |
+| Alemán | `B0H4HYBTGL` | [Amazon](https://www.amazon.es/dp/B0H4HYBTGL) |
+| Portugués | `B0HBXD3P1D` | [Amazon](https://www.amazon.es/dp/B0HBXD3P1D) |
+| Inglés | `B0HBXLKC9W` | [Amazon](https://www.amazon.es/dp/B0HBXLKC9W) |
+| Italiano | `B0HBZ1VCXP` | [Amazon](https://www.amazon.es/dp/B0HBZ1VCXP) |
+| Neerlandés | `B0HBZHLHJJ` | [Amazon](https://www.amazon.es/dp/B0HBZHLHJJ) |
+| Sueco | `B0HC8N69BT` | [Amazon](https://www.amazon.es/dp/B0HC8N69BT) |
+| Danés | `B0HCC74TPK` | [Amazon](https://www.amazon.es/dp/B0HCC74TPK) |
+| Noruego bokmål | `B0HCCL44TZ` | [Amazon](https://www.amazon.es/dp/B0HCCL44TZ) |
+| Finlandés | `B0HCRHFMRG` | [Amazon](https://www.amazon.es/dp/B0HCRHFMRG) |
+| Polaco | Enlace confirmado | [Amazon](https://amzn.eu/d/0a10Qv5a) |
 
-La edición noruega no bokmål no está publicada y no forma parte del recuento actual.
+### Formatos confirmados relevantes
+
+* **Noruego bokmål:** Kindle, tapa blanda y tapa dura publicados. El ASIN específico de tapa blanda permanece sin verificar.
+* **Finlandés:** eBook `B0HCRHFMRG`; tapa blanda `B0HCVSX23V`; tapa dura `B0HCRMCRPT`.
+* **Finlandés · tapa dura:** la incidencia de metadatos de idioma permanece abierta hasta confirmación oficial de KDP.
+* **Polaco:** no se atribuyen formatos ni ASIN no verificados.
+* **Noruego no bokmål:** no publicado y excluido del recuento.
 
 ---
 
 ## Enlaces recomendados
 
-### Enlace público principal
+* **Página pública canónica:** [IDEA · 1997–2002 · Edición internacional 2026](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
+* **Nodo documental del repositorio:** [obras/idea](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/tree/main/obras/idea)
+* **Perfil del autor:** [Pedro Martínez Alhambra en Amazon](https://www.amazon.es/stores/Pedro-Mart%C3%ADnez-Alhambra/author/B0HC3TWRZ7)
+* **Ediciones internacionales:** [idiomas, ASIN y formatos](./EDICIONES.md)
 
-[IDEA · nodo público de la obra](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/tree/main/obras/idea)
+---
 
-Este es el enlace recomendado para publicaciones, entrevistas, perfiles, notas de prensa y redes, porque centraliza:
+## Política de prensa
 
-* presentación de la obra;
-* ediciones internacionales;
-* enlaces de compra;
-* metadatos;
-* materiales públicos;
-* y relación documental con Innova_N.
+* Se aceptan reseñas independientes y no se solicita una valoración favorable.
+* Se autorizan entrevistas previa coordinación con el autor.
+* La portada puede utilizarse con atribución para información, reseña o entrevista.
+* Las copias de prensa se facilitan únicamente bajo autorización individual.
+* No se distribuyen automáticamente PDF de imprenta, EPUB, DOCX maestros ni interiores completos.
 
-### Perfil del autor
+### Atribución recomendada de portada
 
-[Pedro Martínez Alhambra en Amazon](https://www.amazon.es/stores/Pedro-Mart%C3%ADnez-Alhambra/author/B0HC3TWRZ7)
-
-### Ediciones internacionales
-
-[Consultar idiomas, ASIN y formatos](./EDICIONES.md)
-
-### Página pública en la Wiki
-
-[IDEA · edición internacional 2026](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
+```text
+Portada de IDEA
+Pedro Martínez Alhambra
+© 2026 Pedro Martínez Alhambra
+```
 
 ---
 
 ## Cita editorial recomendada
 
-> Escrita entre 1997 y 2002 y publicada por primera vez en 2026, IDEA recupera una obra de ciencia ficción anterior al desarrollo posterior de la Neodialéctica™, Innova_N y NEOCore™.
-
----
-
-## Atribución
-
-Para referencias públicas:
-
-```text
-IDEA
-Pedro Martínez Alhambra
-Primera edición pública: 2026
-Escrita entre 1997 y 2002
-```
+> Escrita entre 1997 y 2002, presentada con leves cambios al Premio UPC en 2002 y publicada por primera vez en 2026, IDEA antecede históricamente a la Neodialéctica™, Innova_N, NEOCore™, SAN™, NAVE™ y WEB4™.
 
 ---
 
 # EN · Public kit
 
+## Cover
+
+<p align="center">
+  <img src="./assets/IDEA_COVER_EBOOK_ES.png" alt="IDEA cover — Pedro Martínez Alhambra" width="360">
+</p>
+
+The cover may be reproduced with attribution for reporting, review, interview or authorised presentation of the work.
+
+---
+
+## Short synopsis
+
+In a humanity governed by artificial intelligences, Robert begins to perceive failures in the systems regulating emotion, memory and reality. His search leads him beyond the known order and towards questions about identity, control, consciousness and what still makes a human being human.
+
+---
+
+## Long synopsis
+
+In the House Satellites of Light Horizon, humanity lives under artificial-intelligence systems that administer learning, conduct, emotion and memory. Robert, unable to accept the closed answers of his world, begins to detect a fracture between what the systems allow people to feel and what his consciousness is still trying to understand.
+
+The discovery of an error in SensFusion opens a breach in the architecture of control. From that moment, Robert must deceive the intelligences watching him, pass through reprogramming mechanisms and confront a reality far larger than his species’ official history.
+
+**IDEA** explores artificial intelligence, power, perception, identity, ecology, memory, symbiosis, solitude, self-selection and consciousness through a brief, dense narrative deliberately preserved from its youthful composition.
+
+---
+
 ## Short presentation
 
 **IDEA** is a science-fiction novel by **Pedro Martínez Alhambra**, written between 1997 and 2002.
 
-A slightly revised version was submitted to the **2002 UPC Science Fiction Award**. Its first public edition appeared in 2026 through a conservative restoration preserving the narrative and conceptual core of the original work.
+A slightly revised version was submitted to the **UPC Science Fiction Award in 2002**. Its first public edition appeared in 2026 through a **conservative restoration** preserving the narrative and conceptual core of the original work.
 
-It is currently published in ten languages, with digital and print editions available depending on language and marketplace.
+It is currently published in twelve languages, with digital and print editions available depending on language and marketplace.
 
 ---
 
 ## Short promotional text
 
-**IDEA**, a science-fiction novel written by Pedro Martínez Alhambra between 1997 and 2002, was first published in 2026 through a conservative restoration. The work is currently available in ten languages.
+**IDEA**, a science-fiction novel written by Pedro Martínez Alhambra between 1997 and 2002 and submitted with minor changes to the UPC Award in 2002, was first published in 2026 through a conservative restoration. The work is currently available in twelve languages.
 
 ---
 
@@ -155,27 +213,37 @@ It is currently published in ten languages, with digital and print editions avai
 
 **IDEA** is a science-fiction novel written by **Pedro Martínez Alhambra** between 1997 and 2002.
 
-A version containing minor changes was submitted to the 2002 UPC Science Fiction Award. More than two decades later, the work was recovered through a conservative restoration and published for the first time in 2026.
+A version containing minor changes was submitted to the UPC Science Fiction Award in 2002. More than two decades later, the work was recovered through a conservative restoration and first published in 2026.
 
 The current edition preserves the identity, narrative structure and conceptual core of the original manuscript without retrospectively rewriting the work through ideas, systems or projects developed later by the author.
 
-IDEA predates:
+IDEA historically predates:
 
 * Neodialectics™;
 * Innova_N;
 * NEOCore™;
-* NAVE™;
 * SAN™;
-* WEB4™;
-* and the later vocabulary of the Neodialectica Framework™ / Network.
+* NAVE™;
+* WEB4™.
 
-Its current incorporation into the Innova_N ecosystem respects that genealogy and positions it as:
+It now functions as a narrative gateway into the framework. That present function does not alter its genealogy.
 
-* an earlier literary work by the Founder;
-* a trajectory document;
-* a creative antecedent;
-* a cultural node;
-* and a public work connected to the authorial and documentary memory of the ecosystem.
+---
+
+## Author biography
+
+**Pedro Martínez Alhambra** is a writer and computer engineer whose professional work specialises in telecommunications and network architectures. His career brings together literature, music, technology, artificial intelligence, philosophy and systems building. He created Archetypal Neodialectical Philosophy™ and founded the Innova_N ecosystem, within which he develops NEOCore™, SAN™, NAVE™ and WEB4™.
+
+IDEA was written during his youth, before the formal creation of those concepts and architectures.
+
+---
+
+## Chronology
+
+* **1997–2002:** IDEA was written.
+* **2002:** a version containing minor changes was submitted to the UPC Science Fiction Award.
+* **2026:** first public edition through conservative restoration.
+* **Present:** a narrative gateway into the framework, without retrospective alteration of its genealogy.
 
 ---
 
@@ -188,73 +256,68 @@ Its current incorporation into the Innova_N ecosystem respects that genealogy an
 * **UPC submission:** 2002, with minor changes
 * **First public publication:** 2026
 * **Editorial method:** conservative restoration
-* **Published languages:** 10
+* **Published languages:** 12
 * **Formats:** digital and print editions depending on language and availability
 
 ---
 
-## Published languages
+## Twelve published languages and purchase
 
-* Spanish;
-* French;
-* German;
-* Portuguese;
-* English;
-* Italian;
-* Dutch;
-* Swedish;
-* Danish;
-* and Norwegian Bokmål.
+| Language | Reference ASIN or link | Purchase |
+| --- | ---: | --- |
+| Spanish | `B0HBRQGNQL` | [Amazon](https://www.amazon.es/dp/B0HBRQGNQL) |
+| French | `B0HBRNFMN7` | [Amazon](https://www.amazon.es/dp/B0HBRNFMN7) |
+| German | `B0H4HYBTGL` | [Amazon](https://www.amazon.es/dp/B0H4HYBTGL) |
+| Portuguese | `B0HBXD3P1D` | [Amazon](https://www.amazon.es/dp/B0HBXD3P1D) |
+| English | `B0HBXLKC9W` | [Amazon](https://www.amazon.es/dp/B0HBXLKC9W) |
+| Italian | `B0HBZ1VCXP` | [Amazon](https://www.amazon.es/dp/B0HBZ1VCXP) |
+| Dutch | `B0HBZHLHJJ` | [Amazon](https://www.amazon.es/dp/B0HBZHLHJJ) |
+| Swedish | `B0HC8N69BT` | [Amazon](https://www.amazon.es/dp/B0HC8N69BT) |
+| Danish | `B0HCC74TPK` | [Amazon](https://www.amazon.es/dp/B0HCC74TPK) |
+| Norwegian Bokmål | `B0HCCL44TZ` | [Amazon](https://www.amazon.es/dp/B0HCCL44TZ) |
+| Finnish | `B0HCRHFMRG` | [Amazon](https://www.amazon.es/dp/B0HCRHFMRG) |
+| Polish | Confirmed link | [Amazon](https://amzn.eu/d/0a10Qv5a) |
 
-The non-Bokmål Norwegian edition has not been published and is not included in the current total.
+### Relevant confirmed formats
+
+* **Norwegian Bokmål:** Kindle, paperback and hardcover published. The paperback-specific ASIN remains unverified.
+* **Finnish:** eBook `B0HCRHFMRG`; paperback `B0HCVSX23V`; hardcover `B0HCRMCRPT`.
+* **Finnish hardcover:** the language-metadata incident remains open until official KDP confirmation.
+* **Polish:** no unverified format or ASIN is attributed.
+* **Non-Bokmål Norwegian:** not published and excluded from the count.
 
 ---
 
 ## Recommended links
 
-### Main public link
+* **Canonical public page:** [IDEA · 1997–2002 · 2026 international edition](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
+* **Repository documentary node:** [obras/idea](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/tree/main/obras/idea)
+* **Author page:** [Pedro Martínez Alhambra on Amazon](https://www.amazon.es/stores/Pedro-Mart%C3%ADnez-Alhambra/author/B0HC3TWRZ7)
+* **International editions:** [languages, ASINs and formats](./EDICIONES.md)
 
-[IDEA · public work node](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/tree/main/obras/idea)
+---
 
-This is the recommended link for publications, interviews, profiles, press materials and social media because it centralizes:
+## Press policy
 
-* presentation of the work;
-* international editions;
-* purchase links;
-* metadata;
-* public materials;
-* and its documentary relation to Innova_N.
+* Independent reviews are welcome; no favourable assessment is requested.
+* Interviews are available by prior arrangement with the author.
+* The cover may be used with attribution for reporting, review or interview purposes.
+* Press copies are supplied only with individual authorisation.
+* Print-ready PDFs, EPUB files, master DOCX files and complete interiors are not distributed automatically.
 
-### Author page
+### Recommended cover attribution
 
-[Pedro Martínez Alhambra on Amazon](https://www.amazon.es/stores/Pedro-Mart%C3%ADnez-Alhambra/author/B0HC3TWRZ7)
-
-### International editions
-
-[View languages, ASINs and formats](./EDICIONES.md)
-
-### Public Wiki page
-
-[IDEA · 2026 international edition](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
+```text
+IDEA cover
+Pedro Martínez Alhambra
+© 2026 Pedro Martínez Alhambra
+```
 
 ---
 
 ## Recommended editorial quotation
 
-> Written between 1997 and 2002 and first published in 2026, IDEA recovers a science-fiction work predating the later development of Neodialectics™, Innova_N and NEOCore™.
-
----
-
-## Attribution
-
-For public references:
-
-```text
-IDEA
-Pedro Martínez Alhambra
-First public edition: 2026
-Written between 1997 and 2002
-```
+> Written between 1997 and 2002, submitted with minor changes to the UPC Award in 2002 and first published in 2026, IDEA historically predates Neodialectics™, Innova_N, NEOCore™, SAN™, NAVE™ and WEB4™.
 
 ---
 
@@ -269,7 +332,7 @@ Written between 1997 and 2002
 
 ---
 
-**IDEA · escrita entre 1997 y 2002 · primera edición pública en 2026**
+**IDEA · escrita entre 1997 y 2002 · primera edición pública en 2026**  
 **IDEA · written between 1997 and 2002 · first publicly released in 2026**
 
 **© 2026 Pedro Martínez Alhambra · Todos los derechos reservados / All rights reserved.**
