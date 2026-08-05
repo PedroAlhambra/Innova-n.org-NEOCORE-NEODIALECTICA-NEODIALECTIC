@@ -6,12 +6,12 @@
 
 ## Pedro Martínez Alhambra
 
-**Novela de ciencia ficción / Science-fiction novel**
-**Escrita entre 1997 y 2002 / Written between 1997 and 2002**
-**Presentada al Premio UPC de Ciencia Ficción en 2002 / Submitted to the UPC Science Fiction Award in 2002**
+**Novela de ciencia ficción / Science-fiction novel**  
+**Escrita entre 1997 y 2002 / Written between 1997 and 2002**  
+**Presentada al Premio UPC de Ciencia Ficción en 2002 / Submitted to the UPC Science Fiction Award in 2002**  
 **Primera edición pública en 2026 / First public edition in 2026**
 
-> «Las ideas más simples pueden contener universos.»
+> «Las ideas más simples pueden contener universos.»  
 > “The simplest ideas may contain universes.”
 
 ---
@@ -44,51 +44,72 @@ No se presenta como profecía ni como una obra creada originalmente dentro de In
 
 Se publica como **documento de origen**, obra previa del fundador y nodo literario enlazado actualmente desde la capa cultural, la capa personal y autoral y **WEB4™ · Capa pública SistemaTrazable™**.
 
+Actualmente funciona como puerta de entrada narrativa a la Neodialéctica, sin alterar su cronología ni convertir retrospectivamente la obra en producto del marco posterior.
+
 ---
 
 ## Posición pública
 
+* **Página pública canónica:** [IDEA · 1997–2002 · Edición internacional 2026](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026).
 * **WEB4™ · Capa pública SistemaTrazable™:** obra literaria integrada en el ecosistema creativo y cultural.
 * **Capa personal y autoral:** obra de Pedro Martínez Alhambra dentro de sus creaciones originales.
-* **GitHub:** nodo documental, metadatos y enlaces verificables.
-* **Wiki:** contexto, genealogía, relaciones y navegación.
+* **Directorio `obras/idea`:** nodo documental complementario, metadatos y enlaces verificables.
 * **Amazon:** distribución comercial de las ediciones publicadas.
 
 La incorporación de IDEA al ecosistema actual no modifica su fecha, su contexto de creación ni su genealogía.
 
 ---
 
-## Diez ediciones actuales
+## Doce idiomas actuales
 
-IDEA está disponible actualmente en diez idiomas, con ediciones digitales e impresas según disponibilidad.
+IDEA está disponible actualmente en doce idiomas, con ediciones digitales e impresas según disponibilidad.
 
-| Idioma                        | ASIN de referencia | Amazon                                               |
-| ----------------------------- | -----------------: | ---------------------------------------------------- |
-| Castellano · Español          |       `B0HBRQGNQL` | [Abrir edición](https://www.amazon.es/dp/B0HBRQGNQL) |
-| Francés · Français            |       `B0HBRNFMN7` | [Abrir edición](https://www.amazon.es/dp/B0HBRNFMN7) |
-| Alemán · Deutsch              |       `B0H4HYBTGL` | [Abrir edición](https://www.amazon.es/dp/B0H4HYBTGL) |
-| Portugués · Português         |       `B0HBXD3P1D` | [Abrir edición](https://www.amazon.es/dp/B0HBXD3P1D) |
-| Inglés · English              |       `B0HBXLKC9W` | [Abrir edición](https://www.amazon.es/dp/B0HBXLKC9W) |
-| Italiano · Italiano           |       `B0HBZ1VCXP` | [Abrir edición](https://www.amazon.es/dp/B0HBZ1VCXP) |
-| Neerlandés · Nederlands       |       `B0HBZHLHJJ` | [Abrir edición](https://www.amazon.es/dp/B0HBZHLHJJ) |
-| Sueco · Svenska               |       `B0HC8N69BT` | [Abrir edición](https://www.amazon.es/dp/B0HC8N69BT) |
-| Danés · Dansk                 |       `B0HCC74TPK` | [Abrir edición](https://www.amazon.es/dp/B0HCC74TPK) |
-| Noruego bokmål · Norsk bokmål |       `B0HCCL44TZ` | [Abrir edición](https://www.amazon.es/dp/B0HCCL44TZ) |
+| Idioma                        | ASIN o enlace de referencia | Amazon                                               |
+| ----------------------------- | --------------------------: | ---------------------------------------------------- |
+| Castellano · Español          |              `B0HBRQGNQL` | [Abrir edición](https://www.amazon.es/dp/B0HBRQGNQL) |
+| Francés · Français            |              `B0HBRNFMN7` | [Abrir edición](https://www.amazon.es/dp/B0HBRNFMN7) |
+| Alemán · Deutsch              |              `B0H4HYBTGL` | [Abrir edición](https://www.amazon.es/dp/B0H4HYBTGL) |
+| Portugués · Português         |              `B0HBXD3P1D` | [Abrir edición](https://www.amazon.es/dp/B0HBXD3P1D) |
+| Inglés · English              |              `B0HBXLKC9W` | [Abrir edición](https://www.amazon.es/dp/B0HBXLKC9W) |
+| Italiano · Italiano           |              `B0HBZ1VCXP` | [Abrir edición](https://www.amazon.es/dp/B0HBZ1VCXP) |
+| Neerlandés · Nederlands       |              `B0HBZHLHJJ` | [Abrir edición](https://www.amazon.es/dp/B0HBZHLHJJ) |
+| Sueco · Svenska               |              `B0HC8N69BT` | [Abrir edición](https://www.amazon.es/dp/B0HC8N69BT) |
+| Danés · Dansk                 |              `B0HCC74TPK` | [Abrir edición](https://www.amazon.es/dp/B0HCC74TPK) |
+| Noruego bokmål · Norsk bokmål |              `B0HCCL44TZ` | [Abrir edición](https://www.amazon.es/dp/B0HCCL44TZ) |
+| Finlandés · Suomi             |              `B0HCRHFMRG` | [Abrir edición](https://www.amazon.es/dp/B0HCRHFMRG) |
+| Polaco · Polski               | Enlace confirmado | [Abrir edición](https://amzn.eu/d/0a10Qv5a) |
 
-### Acceso físico adicional confirmado
+### Formatos físicos y digitales confirmados
 
 * [Castellano · tapa blanda · `B0HBP261YZ`](https://www.amazon.es/dp/B0HBP261YZ)
+* **Noruego bokmål:** Kindle, tapa blanda y tapa dura publicados. El ASIN específico de tapa blanda queda pendiente de verificación.
+* [Finlandés · eBook · `B0HCRHFMRG`](https://www.amazon.es/dp/B0HCRHFMRG)
+* [Finlandés · tapa blanda · `B0HCVSX23V`](https://www.amazon.es/dp/B0HCVSX23V)
+* [Finlandés · tapa dura · `B0HCRMCRPT`](https://www.amazon.es/dp/B0HCRMCRPT)
 
-### Estado pendiente
+### Incidencias activas
 
-* **Noruego bokmål:** Kindle y tapa dura publicados; tapa blanda pendiente de subida.
+* **Finlandés · tapa dura:** mantiene una incidencia de metadatos de idioma mientras KDP no confirme la corrección.
 * **Noruego no bokmål:** todavía no publicado y no incluido en la cifra actual.
+
+---
+
+## Prensa y reseñas
+
+* Se aceptan reseñas independientes y no se solicita una valoración favorable.
+* La portada puede reproducirse con atribución para información, reseña o entrevista.
+* No se distribuyen automáticamente PDF de imprenta, EPUB, DOCX maestros ni interiores completos.
+* Las copias de prensa requieren autorización individual.
 
 ---
 
 ## Enlaces públicos
 
-### Documentación de la obra
+### Referencia pública canónica
+
+* [IDEA · 1997–2002 · Edición internacional 2026](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
+
+### Documentación complementaria de la obra
 
 * [Ediciones internacionales](./EDICIONES.md)
 * [Metadatos públicos](./METADATA.json)
@@ -97,7 +118,6 @@ IDEA está disponible actualmente en diez idiomas, con ediciones digitales e imp
 
 ### Relaciones dentro del ecosistema
 
-* [Página de IDEA en la Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
 * [WEB4™ · Capa pública SistemaTrazable™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Web4_Public_Layer)
 * [Ecosistema creativo y cultural](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Ecosistema_Creativo_y_Cultural)
 * [Creaciones originales del autor](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Creaciones_Originales_del_Autor)
@@ -125,6 +145,7 @@ Se incorpora como:
 * documento de trayectoria;
 * antecedente creativo;
 * nodo cultural;
+* puerta de entrada narrativa actual a la Neodialéctica;
 * y obra pública conectada con el ecosistema actual.
 
 ---
@@ -157,51 +178,72 @@ It is not presented as a prophecy or as a work originally created within Innova_
 
 It is published as an **origin document**, an earlier work by the Founder and a literary node currently linked from the cultural layer, the personal and authorial layer and **WEB4™ · SistemaTrazable™ Public Layer**.
 
+It now functions as a narrative gateway into Neodialectics without altering its chronology or retrospectively turning the work into a product of the later framework.
+
 ---
 
 ## Public position
 
+* **Canonical public page:** [IDEA · 1997–2002 · 2026 international edition](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026).
 * **WEB4™ · SistemaTrazable™ Public Layer:** literary work within the creative and cultural ecosystem.
 * **Personal and authorial layer:** a work by Pedro Martínez Alhambra within his original creations.
-* **GitHub:** documentary node, metadata and verifiable links.
-* **Wiki:** context, genealogy, relations and navigation.
+* **`obras/idea` directory:** complementary documentary node, metadata and verifiable links.
 * **Amazon:** commercial distribution of the published editions.
 
 The integration of IDEA into the current ecosystem does not alter its date, original context or genealogy.
 
 ---
 
-## Ten current editions
+## Twelve current editions
 
-IDEA is currently available in ten languages, in digital and print editions depending on availability.
+IDEA is currently available in twelve languages, in digital and print editions depending on availability.
 
-| Language                        | Reference ASIN | Amazon                                              |
-| ------------------------------- | -------------: | --------------------------------------------------- |
-| Spanish · Español               |   `B0HBRQGNQL` | [Open edition](https://www.amazon.es/dp/B0HBRQGNQL) |
-| French · Français               |   `B0HBRNFMN7` | [Open edition](https://www.amazon.es/dp/B0HBRNFMN7) |
-| German · Deutsch                |   `B0H4HYBTGL` | [Open edition](https://www.amazon.es/dp/B0H4HYBTGL) |
-| Portuguese · Português          |   `B0HBXD3P1D` | [Open edition](https://www.amazon.es/dp/B0HBXD3P1D) |
-| English · English               |   `B0HBXLKC9W` | [Open edition](https://www.amazon.es/dp/B0HBXLKC9W) |
-| Italian · Italiano              |   `B0HBZ1VCXP` | [Open edition](https://www.amazon.es/dp/B0HBZ1VCXP) |
-| Dutch · Nederlands              |   `B0HBZHLHJJ` | [Open edition](https://www.amazon.es/dp/B0HBZHLHJJ) |
-| Swedish · Svenska               |   `B0HC8N69BT` | [Open edition](https://www.amazon.es/dp/B0HC8N69BT) |
-| Danish · Dansk                  |   `B0HCC74TPK` | [Open edition](https://www.amazon.es/dp/B0HCC74TPK) |
-| Norwegian Bokmål · Norsk bokmål |   `B0HCCL44TZ` | [Open edition](https://www.amazon.es/dp/B0HCCL44TZ) |
+| Language                        | Reference ASIN or link | Amazon                                              |
+| ------------------------------- | ---------------------: | --------------------------------------------------- |
+| Spanish · Español               |          `B0HBRQGNQL` | [Open edition](https://www.amazon.es/dp/B0HBRQGNQL) |
+| French · Français               |          `B0HBRNFMN7` | [Open edition](https://www.amazon.es/dp/B0HBRNFMN7) |
+| German · Deutsch                |          `B0H4HYBTGL` | [Open edition](https://www.amazon.es/dp/B0H4HYBTGL) |
+| Portuguese · Português          |          `B0HBXD3P1D` | [Open edition](https://www.amazon.es/dp/B0HBXD3P1D) |
+| English · English               |          `B0HBXLKC9W` | [Open edition](https://www.amazon.es/dp/B0HBXLKC9W) |
+| Italian · Italiano              |          `B0HBZ1VCXP` | [Open edition](https://www.amazon.es/dp/B0HBZ1VCXP) |
+| Dutch · Nederlands              |          `B0HBZHLHJJ` | [Open edition](https://www.amazon.es/dp/B0HBZHLHJJ) |
+| Swedish · Svenska               |          `B0HC8N69BT` | [Open edition](https://www.amazon.es/dp/B0HC8N69BT) |
+| Danish · Dansk                  |          `B0HCC74TPK` | [Open edition](https://www.amazon.es/dp/B0HCC74TPK) |
+| Norwegian Bokmål · Norsk bokmål |          `B0HCCL44TZ` | [Open edition](https://www.amazon.es/dp/B0HCCL44TZ) |
+| Finnish · Suomi                 |          `B0HCRHFMRG` | [Open edition](https://www.amazon.es/dp/B0HCRHFMRG) |
+| Polish · Polski                 | Confirmed link | [Open edition](https://amzn.eu/d/0a10Qv5a) |
 
-### Additional confirmed print access
+### Confirmed digital and print formats
 
 * [Spanish · paperback · `B0HBP261YZ`](https://www.amazon.es/dp/B0HBP261YZ)
+* **Norwegian Bokmål:** Kindle, paperback and hardcover published. The paperback-specific ASIN remains pending verification.
+* [Finnish · eBook · `B0HCRHFMRG`](https://www.amazon.es/dp/B0HCRHFMRG)
+* [Finnish · paperback · `B0HCVSX23V`](https://www.amazon.es/dp/B0HCVSX23V)
+* [Finnish · hardcover · `B0HCRMCRPT`](https://www.amazon.es/dp/B0HCRMCRPT)
 
-### Pending status
+### Active incidents
 
-* **Norwegian Bokmål:** Kindle and hardcover are published; paperback remains pending.
+* **Finnish · hardcover:** a language-metadata incident remains active until KDP confirms the correction.
 * **Non-Bokmål Norwegian:** not yet published and not included in the current total.
+
+---
+
+## Press and reviews
+
+* Independent reviews are welcome; no favourable assessment is requested.
+* The cover may be reproduced with attribution for reporting, review or interview purposes.
+* Print-ready PDFs, EPUB files, master DOCX files and complete interiors are not distributed automatically.
+* Press copies require individual authorisation.
 
 ---
 
 ## Public links
 
-### Work documentation
+### Canonical public reference
+
+* [IDEA · 1997–2002 · 2026 international edition](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
+
+### Complementary work documentation
 
 * [International editions](./EDICIONES.md)
 * [Public metadata](./METADATA.json)
@@ -210,7 +252,6 @@ IDEA is currently available in ten languages, in digital and print editions depe
 
 ### Ecosystem relations
 
-* [IDEA Wiki page](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
 * [WEB4™ · SistemaTrazable™ Public Layer](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Web4_Public_Layer)
 * [Creative and cultural ecosystem](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Ecosistema_Creativo_y_Cultural)
 * [Original creations of the author](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Creaciones_Originales_del_Autor)
@@ -238,6 +279,7 @@ It is incorporated as:
 * a document of trajectory;
 * a creative antecedent;
 * a cultural node;
+* a present narrative gateway into Neodialectics;
 * and a public work connected to the current ecosystem.
 
 ---
