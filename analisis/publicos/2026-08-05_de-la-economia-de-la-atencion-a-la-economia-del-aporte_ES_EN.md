@@ -247,6 +247,34 @@ Un sistema que premia velocidad, capital, escala y dominio de canales puede conv
 
 Por eso no basta con pedir ética individual. Es necesario modificar los mecanismos de recompensa.
 
+### 8.1. La asimetría entre crear y destruir
+
+Uno de los rasgos más preocupantes de muchas arquitecturas contemporáneas no es únicamente la existencia de incentivos imperfectos, sino la enorme diferencia entre el coste de crear y el coste de destruir.
+
+Escribir un libro puede requerir años de investigación, escritura, revisión, edición y difusión. Reducir artificialmente su visibilidad mediante una denuncia maliciosa por supuesto spam, una campaña coordinada o un mecanismo automático puede requerir apenas unos segundos.
+
+Un bosque puede necesitar décadas para crecer y adquirir complejidad ecológica. Incendiarlo por venganza, resentimiento o voluntad de daño puede requerir una única acción deliberada.
+
+La diferencia entre ambos tiempos revela una asimetría estructural: la destrucción puede resultar mucho más barata que la creación, la conservación o la reparación.
+
+Esta asimetría no es únicamente tecnológica. También tiene una dimensión humana. La envidia, el resentimiento, la ignorancia, la incapacidad para valorar el aporte ajeno o la búsqueda de reconocimiento mediante la destrucción pueden convertirse en riesgos sistémicos cuando las infraestructuras amplifican sus efectos.
+
+El problema no consiste en que existan personas capaces de actuar con malicia o sin comprender las consecuencias. Ninguna sociedad puede asumir que esas conductas desaparecerán por completo. El verdadero problema aparece cuando una arquitectura permite que una acción impulsiva o deliberadamente destructiva produzca consecuencias desproporcionadas antes de que exista contraste, trazabilidad o revisión suficiente.
+
+```text
+envidia, resentimiento o ignorancia
+→ acceso a una palanca
+→ acción de bajo coste
+→ daño desproporcionado
+→ pérdida individual y colectiva
+```
+
+Una civilización es frágil cuando destruir, bloquear o borrar exige menos capacidad, menos esfuerzo y menos responsabilidad que crear, conservar o reparar.
+
+Por ello, una gobernanza orientada al Bien Común debe reducir la diferencia entre el coste de destruir y el coste de construir. Esto exige proporcionalidad, trazabilidad, posibilidad de revisión, mecanismos de apelación y responsabilidad tanto para quien aporta como para quien denuncia, clasifica, sanciona o limita el alcance de ese aporte.
+
+La finalidad no consiste en impedir la crítica, la moderación ni la denuncia legítima. Consiste en evitar que mecanismos diseñados para proteger el sistema puedan utilizarse para eliminar injustamente el trabajo de quienes contribuyen a él o para producir daños irreversibles sin contraste suficiente.
+
 ## 9. Economía del aporte
 
 La economía del aporte no propone sustituir toda economía existente por una tabla moral centralizada.
@@ -333,6 +361,8 @@ aporte
 Un algoritmo de aporte no sería una fórmula universal única. Sería una familia de modelos adaptados a cada contexto, con criterios públicos, revisión y posibilidad de impugnación.
 
 Podría reducir el peso de la repetición vacía, aumentar la visibilidad de fuentes originales, distinguir popularidad de calidad y reconocer contribuciones que producen valor sostenido aunque no generen interacción inmediata.
+
+También debería incorporar trazabilidad de las denuncias y mecanismos de apelación, distinguir entre crítica fundamentada, moderación legítima y sabotaje coordinado, y dificultar que una minoría pueda borrar desproporcionadamente el trabajo legítimo de otra persona mediante automatismos opacos.
 
 También podría fallar. Cualquier sistema de medición crea nuevos incentivos y puede ser manipulado. Por eso la evaluación debe permanecer abierta, plural y auditable.
 
@@ -693,6 +723,34 @@ A system that rewards speed, capital, scale and control of channels can turn app
 
 This is why individual ethics are not enough. Reward mechanisms must change.
 
+### 8.1. The asymmetry between creating and destroying
+
+One of the most troubling features of many contemporary architectures is not merely the existence of imperfect incentives, but the enormous difference between the cost of creating and the cost of destroying.
+
+Writing a book may require years of research, writing, revision, editing and promotion. Artificially reducing its visibility through a malicious spam report, a coordinated campaign or an automated mechanism may take only seconds.
+
+A forest may need decades to grow and acquire ecological complexity. Burning it out of revenge, resentment or a desire to cause harm may require a single deliberate act.
+
+The difference between these times reveals a structural asymmetry: destruction may be far cheaper than creation, preservation or repair.
+
+This asymmetry is not merely technological. It also has a human dimension. Envy, resentment, ignorance, the inability to recognise another person’s contribution or the search for recognition through destruction can become systemic risks when infrastructures amplify their effects.
+
+The problem is not that people capable of acting maliciously or without understanding the consequences exist. No society can assume that such conduct will disappear completely. The real problem appears when an architecture allows an impulsive or deliberately destructive act to produce disproportionate consequences before sufficient contrast, traceability or review exists.
+
+```text
+envy, resentment or ignorance
+→ access to a lever
+→ low-cost action
+→ disproportionate harm
+→ individual and collective loss
+```
+
+A civilisation is fragile when destroying, blocking or erasing requires less capacity, less effort and less responsibility than creating, preserving or repairing.
+
+Governance oriented towards the Common Good must therefore reduce the difference between the cost of destroying and the cost of building. This requires proportionality, traceability, the possibility of review, appeal mechanisms and responsibility both for those who contribute and for those who report, classify, sanction or limit the reach of that contribution.
+
+The purpose is not to prevent criticism, moderation or legitimate reporting. It is to prevent mechanisms designed to protect the system from being used to unjustly eliminate the work of those who contribute to it or to produce irreversible damage without sufficient contrast.
+
 ## 9. Contribution economy
 
 The contribution economy does not propose replacing all existing economics with a centralised moral table.
@@ -779,6 +837,8 @@ contribution
 A contribution algorithm would not be a single universal formula. It would be a family of models adapted to each context, with public criteria, review and the possibility of challenge.
 
 It could reduce the weight of empty repetition, increase the visibility of original sources, distinguish popularity from quality and recognise contributions that produce sustained value even when they do not generate immediate interaction.
+
+It should also incorporate traceability for reports and appeal mechanisms, distinguish between well-founded criticism, legitimate moderation and coordinated sabotage, and make it harder for a minority to erase another person’s legitimate work disproportionately through opaque automation.
 
 It could also fail. Every measurement system creates new incentives and may be manipulated. This is why assessment must remain open, plural and auditable.
 
