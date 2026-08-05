@@ -22,6 +22,12 @@ Los documentos pueden relacionarse con matrices de fuentes, evidencias visuales 
 
 ## Análisis públicos
 
+### Economía de la atención, aporte y gobernanza algorítmica
+
+* [2026-08-05 · De la economía de la atención a la economía del aporte](./publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
+
+  * Análisis bilingüe sobre captura del valor, buscadores, SEO, redes sociales, inteligencia artificial, autoría, genealogía, medición del aporte real y gobernanza mediante Síntesis Abierta Neodialéctica™.
+
 ### Serie España–Marruecos
 
 * [2026-07-22 · Parte II — Dajla, mafias migratorias y control estatal](./publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
@@ -112,6 +118,12 @@ The documents may be connected to source matrices, visual or audiovisual evidenc
 * [Audit directory](./auditorias/)
 
 ## Public analyses
+
+### Attention economy, contribution and algorithmic governance
+
+* [2026-08-05 · From the Attention Economy to the Contribution Economy](./publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
+
+  * Bilingual analysis of value capture, search engines, SEO, social networks, artificial intelligence, authorship, genealogy, real contribution assessment and governance through Neodialectical Open Synthesis™.
 
 ### Spain–Morocco series
 
