@@ -41,3 +41,5 @@ jobs:
           git add manifiestos
           git commit -m "Manifiestos: homogeneizar cómo aportar a la Síntesis Abierta"
           git push
+
+# This file may be dispatched manually to reapply the canonical footer.
