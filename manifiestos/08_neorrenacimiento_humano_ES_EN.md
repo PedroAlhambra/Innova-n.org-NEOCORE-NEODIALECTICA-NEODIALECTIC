@@ -1,6 +1,7 @@
-# Manifiesto del Neorrenacimiento Humano / Manifesto of the Human Neo-Renaissance
+# X · Manifiesto del Neorrenacimiento Humano / Manifesto of the Human Neo-Renaissance
 
-**Versión / Version:** 1.0  
+**Manifiesto / Manifesto:** X  
+**Versión / Version:** 1.1  
 **Estado / Status:** Público · fundacional · abierto a revisión trazable / Public · foundational · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06
 
@@ -71,40 +72,107 @@ Convocamos a creadores, científicos, técnicos, educadores, trabajadores, comun
 
 > No heredaremos el futuro: lo compondremos. No elevaremos a la humanidad separándola de la vida, sino devolviéndola conscientemente al organismo del que forma parte.
 
+## VII. Síntesis Abierta de este manifiesto
+
+Este manifiesto abre su propia **Síntesis Abierta Neodialéctica™**.
+
+Toda aportación exige:
+
+* lectura previa;
+* retorno a fuente;
+* continuidad cognitiva;
+* genealogía;
+* trazabilidad;
+* clasificación;
+* delta;
+* y versión.
+
+Toda modificación futura deberá preservar el texto anterior, identificar con precisión el cambio y explicar qué contradicción, evidencia o aportación justifica la nueva versión.
+
 ---
 
 # EN · English
 
 ## Invocation
 
-Specialisation enabled depth but also fragmentation. Technology multiplied power but did not guarantee meaning. Culture created beauty while becoming separated from the material organisation of life.
+Specialisation made depth possible, but it also fragmented. Technology multiplied power, but it did not guarantee meaning. Culture produced beauty, but it was separated from the material organisation of life.
 
-The **Human Neo-Renaissance** declares that the time has come to reconnect science, technology, art, philosophy, memory, body, education, ecology, community and purpose.
+The **Human Neo-Renaissance** declares that the time has come to recompose what modernity dispersed: science, technology, art, philosophy, memory, body, education, ecology, community and purpose.
 
-This is not a return to the past. It is the recovery of relational capacity in order to build a future more human than the present.
+This is not about returning to the past. It is about recovering relational capacity in order to build a future more human than the present.
 
 ## I. Unity without homogenisation
 
-Recomposition does not erase difference. It allows disciplines, cultures and forms of knowledge to cooperate without losing identity. Legitimate unity organises diversity towards greater understanding.
+Recomposition does not mean erasing differences. It means enabling disciplines, cultures, forms of knowledge and sensibilities to cooperate without losing identity.
+
+Legitimate unity does not crush diversity. It organises it towards greater understanding.
 
 ## II. Knowledge connected to life
 
-Science must preserve rigour and responsibility; technology must expand humanity rather than replace purpose; art is perception, memory and anticipation; philosophy must return to action; education must form people capable of understanding systems; and culture must preserve genealogy without being immobilised by it.
+Knowledge must once again answer for the world it produces.
+
+We declare:
+
+* that science must preserve rigour and responsibility;
+* that technology must expand humanity, not replace purpose;
+* that art is perception, memory and anticipation;
+* that philosophy must return to action;
+* that education must form subjects capable of understanding systems;
+* and that culture must preserve genealogy without becoming immobilised by it.
 
 ## III. Human elevation
 
-Human elevation is not biological hierarchy or supremacy. It means greater consciousness, autonomy, creativity, care, responsibility, multiscale understanding, aesthetic sensitivity, memory and cooperation.
+Human elevation does not mean biological hierarchy, supremacy or domination of some over others.
+
+It means increasing:
+
+* consciousness;
+* autonomy;
+* creative capacity;
+* care;
+* responsibility;
+* multiscale understanding;
+* aesthetic sensitivity;
+* memory;
+* and capacity for cooperation.
 
 ## IV. Excellence and return
 
-Individual excellence is necessary, but value sustained by society must be able to return to the Common Good. The Neo-Renaissance liberates singularity from parasitism, capture and the need to destroy others in order to exist.
+Individual excellence is necessary, but it must not remain isolated from the common organism. Every excellence sustained by a society must be able to return part of its value to the Common Good.
 
-## Declaration
+The Neo-Renaissance does not condemn talent, ambition or singularity. It liberates them from parasitism, capture and the obligation to destroy others in order to exist.
 
-> We will not inherit the future: we will compose it. Humanity will not rise by separating itself from life, but by consciously returning to the organism of which it is part.
+## V. Humanity and artificial intelligence
+
+AI may expand memory, relation, analysis and creation. It must not occupy the place of human direction or reduce culture to automatic production.
+
+Human–AI symbiosis must serve a humanity more conscious of itself, not a humanity replaced by its tools.
+
+## VI. Call
+
+We call upon creators, scientists, technicians, educators, workers, communities and intelligences to rebuild bridges among forms of knowledge and transform dispersed knowledge into shared civilisational capacity.
+
+> We will not inherit the future: we will compose it. We will not elevate humanity by separating it from life, but by consciously returning it to the organism of which it forms part.
+
+## VII. Open Synthesis of this manifesto
+
+This manifesto opens its own **Neodialectical Open Synthesis™**.
+
+Every contribution requires:
+
+* prior reading;
+* return to source;
+* cognitive continuity;
+* genealogy;
+* traceability;
+* classification;
+* delta;
+* and version.
+
+Every future modification must preserve the previous text, identify the change precisely and explain which contradiction, evidence or contribution justifies the new version.
 
 ---
 
 ## Navegación / Navigation
 
-← [WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md) · [Índice / Index](./README.md) · [Los sin ego / The Egoless](./10_los_sin_ego_ES_EN.md) →
+← [IX · WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md) · [Índice / Index](./README.md) · [XI · Los sin ego / The Egoless](./10_los_sin_ego_ES_EN.md) →
