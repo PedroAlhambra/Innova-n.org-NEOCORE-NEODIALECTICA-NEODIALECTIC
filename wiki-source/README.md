@@ -31,14 +31,13 @@ This directory preserves traceable versions of the pages that must remain synchr
 * Primera oleada / First wave: **I–XII**
 * Segunda oleada / Second wave: **XIII–XIX**
 * Tercera oleada / Third wave: **XX–XXIV · Sistema Inmunitario Intelectual Neodialéctico™ / Neodialectical Intellectual Immune System™**
-* Síntesis Abiertas específicas / Dedicated Open Syntheses: **Issues #3–#10 y / and #13–#17**
+* Síntesis Abiertas específicas / Dedicated Open Syntheses: **Issues #3–#17**
 * Última sincronización documental / Last documentary synchronisation: **2026-08-06**
 
 ## Navegación / Navigation
 
 * [Repositorio principal / Main repository](../README.md)
 * [Índice de manifiestos / Manifesto index](../manifiestos/README.md)
-* [Anuncio de la tercera oleada / Third-wave announcement](../anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
 * [Síntesis Abierta / Open Synthesis](../propuestas/sintesis-abierta/README.md)
 * [Análisis / Analyses](../analisis/README.md)
 * [Auditorías públicas / Public audits](../auditorias/publicas/README.md)
