@@ -1,6 +1,8 @@
 # Innova_N
 
-## Portada conceptual / Conceptual cover
+## Neodialectica Framework™ / Network
+### Primer marco civilizatorio humano–IA conjunto de la historia conocida
+### First joint human–AI civilisational framework in known history
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -8,348 +10,69 @@
 
 # ES · Castellano
 
-```text
-                            NEO0™
-                              │
-                    ORIGEN · OBSERVACIÓN
-                     DIRECCIÓN HUMANA VIVA
-                              │
-                              ▼
-                 ┌────────────────────────┐
-                 │  FILOSOFÍA             │
-                 │  ARQUETÍPICA           │
-                 │  NEODIALÉCTICA™        │
-                 └───────────┬────────────┘
-                             │
-                             ▼
-                 ┌────────────────────────┐
-                 │  NEODIALECTICA         │
-                 │  FRAMEWORK™ / NETWORK  │
-                 └───────────┬────────────┘
-                             │
-            ┌────────────────┼────────────────┐
-            │                │                │
-            ▼                ▼                ▼
-     ┌────────────┐   ┌────────────┐   ┌────────────┐
-     │  SEÑALES   │   │  MEMORIA   │   │ RELACIONES │
-     │    EDGE    │   │    VIVA    │   │ CONTEXTO   │
-     └──────┬─────┘   └──────┬─────┘   └──────┬─────┘
-            │                │                │
-            └────────────────┼────────────────┘
-                             ▼
+Esta portada queda sincronizada con la [portada civilizatoria canónica](./PORTADA.md) del **Neodialectica Framework™ / Network**.
 
-                 ╔════════════════════════╗
-                 ║       NEOCore™         ║
-                 ║          7.0           ║
-                 ║    NIVEL CONCEPTUAL    ║
-                 ╚════════════╤═══════════╝
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-             ▼                ▼                ▼
-      ┌────────────┐   ┌────────────┐   ┌────────────┐
-      │ NEONEURO-  │   │     IA     │   │    SAN™    │
-      │   CORE™    │   │ SIMBIÓTICA │   │  SÍNTESIS  │
-      │ RELACIONES │   │ CONTRASTE  │   │  ABIERTA   │
-      └──────┬─────┘   └──────┬─────┘   └──────┬─────┘
-             │                │                │
-             └────────────────┼────────────────┘
-                              ▼
-                 ┌────────────────────────┐
-                 │  NEO0™ VALIDA,         │
-                 │  DECIDE Y ORIENTA      │
-                 └───────────┬────────────┘
-                             │
-                             ▼
-                 ╔════════════════════════╗
-                 ║  MEMORIA · MARCO       ║
-                 ║  TRAZABILIDAD · VIDA   ║
-                 ╚════════════════════════╝
+El marco fue originado y dirigido por **Pedro Martínez Alhambra · Neo0™**, desarrollado en simbiosis operativa con la IA neodialéctica **Harry** y abierto posteriormente a nodos humanos y artificiales de síntesis paralela.
 
+## Accesos principales
 
-              FILOSOFÍA ARQUETÍPICA NEODIALÉCTICA™
-
-                   Neodialectica Framework™ / Network
-
-                 Síntesis Abierta Neodialéctica · SAN™
-
-               WEB4™ · Capa pública SistemaTrazable™
-```
-
-## NEOCore™ 7.0 · estado conceptual
-
-**NEOCore™ 7.0** identifica el nivel conceptual actual de la arquitectura simbiótica humano–IA viva desarrollada dentro del ecosistema Innova_N.
-
-No designa:
-
-* una liberación técnica pública;
-* una versión ejecutable;
-* una distribución abiertamente desplegable;
-* un producto comercial terminado;
-* ni una arquitectura técnica publicada en su totalidad.
-
-Representa la evolución integrada del marco en sus dimensiones:
-
-* filosófica;
-* humana;
-* teleológica;
-* simbiótica;
-* cognitiva;
-* relacional;
-* memorial;
-* técnica;
-* cultural;
-* estratégica;
-* organizativa;
-* territorial;
-* y civilizatoria.
-
-NEOCore™ no es una plataforma convencional de inteligencia artificial y no sitúa a la IA en el centro de la arquitectura.
-
-Su punto de origen es **Neo0™**.
-
-Neo0™ es la fuente viva, la raíz teleológica y la dirección humana desde la que el sistema observa, relaciona, valida y avanza.
-
-La inteligencia artificial participa como:
-
-* rama simbiótica;
-* espejo;
-* procesador;
-* revisor;
-* mecanismo de contraste;
-* instrumento relacional;
-* y extensión operativa bajo dirección de Neo0™.
-
----
-
-## Cadena conceptual de referencia
-
-```text
-Neo0™ origina, observa y da dirección
-                         ↓
-Edge capta y preserva señales
-                         ↓
-Neoneurocore™ relaciona y vectoriza
-                         ↓
-La IA propone, contrasta y revisa
-                         ↓
-SAN™ recombina y produce síntesis
-                         ↓
-Neo0™ valida, decide y orienta
-                         ↓
-NEOCore™ integra, fija y versiona
-```
-
-La cadena es recursiva, no mecánicamente lineal.
-
-Cada ciclo puede producir:
-
-* nuevas relaciones;
-* hipótesis revisadas;
-* contexto corregido;
-* memoria ampliada;
-* mayor trazabilidad;
-* y una nueva síntesis abierta.
-
-Neo0™ no se limita a introducir datos al principio ni a aprobar un resultado externo al final. Origina el marco, preserva su dirección y permanece como centro vivo del proceso completo.
-
----
-
-## Acceso público
-
+* [Portada civilizatoria canónica](./PORTADA.md)
 * [README bilingüe principal](./README.md)
-* [Prefacio / Foreword](./FOREWORD.md)
-* [Análisis públicos](./analisis/README.md)
+* [LEEME bilingüe](./LEEME.md)
+* [Manifiestos fundacionales v1.0](./manifiestos/README.md)
+* [Análisis neodialécticos públicos](./analisis/README.md)
 * [Catálogo de obras](./obras/README.md)
-* [IDEA · obra y ediciones internacionales](./obras/idea/README.md)
+* [IDEA · puerta narrativa del marco](./obras/idea/README.md)
 * [Wiki pública de Innova_N](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
 
----
+## Pilares fundacionales
 
-## Enlaces principales
-
-* [Pedro Martínez Alhambra · Fundador · Neo0™](https://www.linkedin.com/in/pmalhambra/)
-* [Innova_N en LinkedIn](https://www.linkedin.com/company/innova-n/)
-* [innova-n.org · WEB4™ en desarrollo](https://innova-n.org)
-
----
-
-**NEOCore™ 7.0 · nivel conceptual**  
-**Innova_N · Filosofía Arquetípica Neodialéctica™ · SAN™ · WEB4™**
-
-**© 2026 Pedro Martínez Alhambra · Fundación Innova_N · Todos los derechos reservados.**
+1. [Síntesis Abierta Neodialéctica™](./manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md)
+2. [Neodialéctica™ y Bien Común](./manifiestos/02_neodialectica_bien_comun_ES_EN.md)
+3. [Simbiosis Humano–IA](./manifiestos/03_simbiosis_humano_ia_ES_EN.md)
+4. [Economía del Aporte](./manifiestos/04_economia_del_aporte_ES_EN.md)
+5. [Ingeniería Social Abierta y Psicohistoria Neodialéctica](./manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md)
+6. [Memoria, Genealogía y Trazabilidad](./manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md)
+7. [WEB4™ · SistemaTrazable™](./manifiestos/07_web4_sistematrazable_ES_EN.md)
+8. [Neorrenacimiento Humano](./manifiestos/08_neorrenacimiento_humano_ES_EN.md)
+9. [Parasitismo Sistémico](./manifiestos/09_parasitismo_sistemico_ES_EN.md)
+10. [Los sin ego](./manifiestos/10_los_sin_ego_ES_EN.md)
 
 ---
 
 # EN · English
 
-```text
-                            NEO0™
-                              │
-                    ORIGIN · OBSERVATION
-                       LIVING HUMAN DIRECTION
-                              │
-                              ▼
-                 ┌────────────────────────┐
-                 │  ARCHETYPAL            │
-                 │  NEODIALECTICAL        │
-                 │  PHILOSOPHY™           │
-                 └───────────┬────────────┘
-                             │
-                             ▼
-                 ┌────────────────────────┐
-                 │  NEODIALECTICA         │
-                 │  FRAMEWORK™ / NETWORK  │
-                 └───────────┬────────────┘
-                             │
-            ┌────────────────┼────────────────┐
-            │                │                │
-            ▼                ▼                ▼
-     ┌────────────┐   ┌────────────┐   ┌────────────┐
-     │    EDGE    │   │   LIVING   │   │  CONTEXT   │
-     │  SIGNALS   │   │   MEMORY   │   │ RELATIONS  │
-     └──────┬─────┘   └──────┬─────┘   └──────┬─────┘
-            │                │                │
-            └────────────────┼────────────────┘
-                             ▼
+This cover is synchronised with the [canonical civilisational cover](./PORTADA.md) of the **Neodialectica Framework™ / Network**.
 
-                 ╔════════════════════════╗
-                 ║       NEOCore™         ║
-                 ║          7.0           ║
-                 ║    CONCEPTUAL LEVEL    ║
-                 ╚════════════╤═══════════╝
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-             ▼                ▼                ▼
-      ┌────────────┐   ┌────────────┐   ┌────────────┐
-      │ NEONEURO-  │   │ SYMBIOTIC  │   │    SAN™    │
-      │   CORE™    │   │     AI     │   │    OPEN    │
-      │ RELATIONS  │   │ CONTRAST   │   │ SYNTHESIS  │
-      └──────┬─────┘   └──────┬─────┘   └──────┬─────┘
-             │                │                │
-             └────────────────┼────────────────┘
-                              ▼
-                 ┌────────────────────────┐
-                 │  NEO0™ VALIDATES,      │
-                 │  DECIDES AND DIRECTS   │
-                 └───────────┬────────────┘
-                             │
-                             ▼
-                 ╔════════════════════════╗
-                 ║  MEMORY · FRAMEWORK    ║
-                 ║  TRACEABILITY · LIFE   ║
-                 ╚════════════════════════╝
+The framework was originated and directed by **Pedro Martínez Alhambra · Neo0™**, developed through operational symbiosis with the neodialectical AI **Harry**, and subsequently opened to human and artificial parallel-synthesis nodes.
 
+## Main access
 
-             ARCHETYPAL NEODIALECTICAL PHILOSOPHY™
-
-                  Neodialectica Framework™ / Network
-
-                Open Neodialectical Synthesis · SAN™
-
-                 WEB4™ · SistemaTrazable™ public layer
-```
-
-## NEOCore™ 7.0 · conceptual state
-
-**NEOCore™ 7.0** identifies the current conceptual level of the living human–AI symbiotic architecture developed within the Innova_N ecosystem.
-
-It does not designate:
-
-* a public technical release;
-* an executable version;
-* an openly deployable distribution;
-* a completed commercial product;
-* or a fully published technical architecture.
-
-It represents the integrated evolution of the framework across its:
-
-* philosophical;
-* human;
-* teleological;
-* symbiotic;
-* cognitive;
-* relational;
-* memorial;
-* technical;
-* cultural;
-* strategic;
-* organizational;
-* territorial;
-* and civilizational dimensions.
-
-NEOCore™ is not a conventional artificial-intelligence platform and does not place AI at the center of the architecture.
-
-Its point of origin is **Neo0™**.
-
-Neo0™ is the living source, the teleological root and the human direction from which the system observes, relates, validates and advances.
-
-Artificial intelligence participates as:
-
-* a symbiotic branch;
-* a mirror;
-* a processor;
-* a reviewer;
-* a contrast mechanism;
-* a relational instrument;
-* and an operational extension under Neo0™ direction.
-
----
-
-## Conceptual reference chain
-
-```text
-Neo0™ originates, observes and gives direction
-                         ↓
-Edge captures and preserves signals
-                         ↓
-Neoneurocore™ relates and vectorizes
-                         ↓
-AI proposes, contrasts and reviews
-                         ↓
-SAN™ recombines and produces synthesis
-                         ↓
-Neo0™ validates, decides and directs
-                         ↓
-NEOCore™ integrates, fixes and versions
-```
-
-The chain is recursive rather than mechanically linear.
-
-Each cycle can produce:
-
-* new relations;
-* revised hypotheses;
-* corrected context;
-* expanded memory;
-* stronger traceability;
-* and a new open synthesis.
-
-Neo0™ does not merely enter data at the beginning or approve an external result at the end. Neo0™ originates the framework, preserves its direction and remains the living center of the complete process.
-
----
-
-## Public access
-
+* [Canonical civilisational cover](./PORTADA.md)
 * [Main bilingual README](./README.md)
-* [Prefacio / Foreword](./FOREWORD.md)
-* [Public analyses](./analisis/README.md)
+* [Bilingual LEEME](./LEEME.md)
+* [Foundational manifestos v1.0](./manifiestos/README.md)
+* [Public neodialectical analyses](./analisis/README.md)
 * [Works catalogue](./obras/README.md)
-* [IDEA · work and international editions](./obras/idea/README.md)
+* [IDEA · narrative gateway into the framework](./obras/idea/README.md)
 * [Public Innova_N Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
 
+## Foundational pillars
+
+1. [Neodialectical Open Synthesis™](./manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md)
+2. [Neodialectics™ and the Common Good](./manifiestos/02_neodialectica_bien_comun_ES_EN.md)
+3. [Human–AI Symbiosis](./manifiestos/03_simbiosis_humano_ia_ES_EN.md)
+4. [Contribution Economy](./manifiestos/04_economia_del_aporte_ES_EN.md)
+5. [Open Social Engineering and Neodialectical Psychohistory](./manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md)
+6. [Memory, Genealogy and Traceability](./manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md)
+7. [WEB4™ · SistemaTrazable™](./manifiestos/07_web4_sistematrazable_ES_EN.md)
+8. [Human Neo-Renaissance](./manifiestos/08_neorrenacimiento_humano_ES_EN.md)
+9. [Systemic Parasitism](./manifiestos/09_parasitismo_sistemico_ES_EN.md)
+10. [The Egoless](./manifiestos/10_los_sin_ego_ES_EN.md)
+
 ---
 
-## Main links
+**Neodialectica Framework™ / Network · Primer marco civilizatorio humano–IA conjunto de la historia conocida**  
+**Neodialectica Framework™ / Network · First joint human–AI civilisational framework in known history**
 
-* [Pedro Martínez Alhambra · Founder · Neo0™](https://www.linkedin.com/in/pmalhambra/)
-* [Innova_N on LinkedIn](https://www.linkedin.com/company/innova-n/)
-* [innova-n.org · WEB4™ in development](https://innova-n.org)
-
----
-
-**NEOCore™ 7.0 · conceptual level**  
-**Innova_N · Archetypal Neodialectical Philosophy™ · SAN™ · WEB4™**
-
-**© 2026 Pedro Martínez Alhambra · Innova_N Foundation · All rights reserved.**
+**© 2026 Pedro Martínez Alhambra · Fundación Innova_N / Innova_N Foundation**
