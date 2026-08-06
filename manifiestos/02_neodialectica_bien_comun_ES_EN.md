@@ -95,3 +95,9 @@ The **neoreal** orientation integrates matter, experience, symbols, memory, tech
 > We reject a civilisation that advances technically while retreating in understanding. We reject knowledge that claims neutrality towards the destruction it enables.
 
 Neodialectics is a call to reconnect the world before fragmentation makes it ungovernable.
+
+---
+
+## Navegación / Navigation
+
+← [Síntesis Abierta Neodialéctica™ / Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md) · [Índice / Index](./README.md) · [Simbiosis Humano–IA / Human–AI Symbiosis](./03_simbiosis_humano_ia_ES_EN.md) →
