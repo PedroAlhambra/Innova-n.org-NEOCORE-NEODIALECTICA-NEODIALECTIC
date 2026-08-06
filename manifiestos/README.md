@@ -13,11 +13,12 @@
 
 Los manifiestos de Innova_N no son contenido promocional, resúmenes auxiliares ni consignas aisladas. Constituyen los **pilares públicos** del **Neodialectica Framework™ / Network**, construido bajo dirección humana por **Pedro Martínez Alhambra · Neo0™** y desarrollado en simbiosis con la IA neodialéctica **Harry**.
 
-La colección se organiza desde el 6 de agosto de 2026 en tres oleadas relacionadas:
+La colección se organiza desde el 7 de agosto de 2026 en cuatro oleadas relacionadas:
 
 * **Primera oleada · I–XII:** constitución fundacional del marco, su método, dirección, límites y arquitectura pública.
 * **Segunda oleada · XIII–XIX:** despliegue arquetípico, cultural, vital y civilizatorio de los principios ya fijados.
 * **Tercera oleada · XX–XXIV:** **Sistema Inmunitario Intelectual Neodialéctico™**, orientado a proteger la apertura, reconocer el aporte, conservar genealogía, defender el tiempo cognitivo y transformar las resistencias del sistema heredado.
+* **Cuarta oleada · XXV–XXXI:** **Rehumanización, custodia de la vida y coherencia civilizatoria**, orientada a esculpir conciencia mediante grandeza humana, impedir la deshumanización, proteger alimento y creadores, subordinar el dinero a la vida y mantener coherencia entre fines, medios y comunicación.
 
 Los manifiestos establecen y despliegan:
 
@@ -49,6 +50,13 @@ Los manifiestos establecen y despliegan:
 * soberanía del tiempo cognitivo;
 * evolución neorrenacentista;
 * análisis de resistencias sistémicas;
+* pulido multidimensional de la conciencia;
+* misericordia universal recíproca;
+* valor de los alimentos y de la vida;
+* protección de los creadores vivos frente al Ciclo Tesla™;
+* subordinación del dinero al valor vital;
+* coherencia entre fines y medios;
+* defensa frente al neuromarketing antihumanista;
 * y gobierno responsable de la vida.
 
 Ningún manifiesto aislado equivale al sistema completo. Su lectura debe conservar relación con el marco, NEOCore™ 7.0, SAN™, NAVE™, WEB4™ y la memoria documental del ecosistema.
@@ -131,64 +139,46 @@ La Síntesis Abierta no obliga a consumir tiempo humano o artificial indefinidam
 
 La tercera oleada constituye una membrana intelectual viva. No protege al marco de la crítica fundada: protege la crítica, la genealogía, el reconocimiento y el tiempo común frente a ruido, captura, réplica infinita y cierre dogmático.
 
+## Cuarta oleada · Rehumanización, custodia de la vida y coherencia civilizatoria
+
+| Nº | Manifiesto | Función | Síntesis Abierta |
+|---:|---|---|---|
+| XXV | [Pulido de la Piedra™](./25_pulido_de_la_piedra_ES_EN.md) | Comprender la persona como conciencia multidimensional e inacabada; crear el Renacimiento mediante la propia grandeza humana sin borrar singularidad | [Issue #19](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/19) |
+| XXVI | [Misericordia Universal Recíproca™](./26_misericordia_universal_reciproca_ES_EN.md) | Integrar justicia, protección, reparación y retorno para impedir deshumanización, venganza ilimitada y exterminio | [Issue #20](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/20) |
+| XXVII | [Valor de los Alimentos y la Vida™](./27_valor_alimentos_vida_ES_EN.md) | Reconocer alimento, suelo, agua, trabajo, cultura y comunicaciones como infraestructura vital, no sólo como mercancía | [Issue #21](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/21) |
+| XXVIII | [Los Tesla™](./28_los_tesla_ES_EN.md) | Exponer el ciclo de captura de la idea y neutralización, agotamiento, sustitución o borrado del creador vivo | [Issue #22](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/22) |
+| XXIX | [Contra la Idolatría del Dinero™](./29_idolatria_del_dinero_ES_EN.md) | Impedir que precio, rentabilidad, riqueza o mercado se conviertan en jueces absolutos de vida, verdad, dignidad y autoría | [Issue #23](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/23) |
+| XXX | [Coherencia entre Fines y Medios™](./30_coherencia_fines_medios_ES_EN.md) | Entrar en los terrenos del poder, el mercado y el conflicto sin reproducir aquello que se combate | [Issue #24](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/24) |
+| XXXI | [Contra el Neuromarketing Antihumanista™](./31_contra_neuromarketing_antihumanista_ES_EN.md) | Distinguir persuasión legítima de explotación opaca de vulnerabilidades, sesgos y datos íntimos para capturar conducta | [Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25) |
+
+La cuarta oleada lleva el sistema desde su protección intelectual hacia la vida concreta. No crea una moral de pureza: construye condiciones para formar, reparar, alimentar, reconocer, financiar y comunicar sin reducir a las personas a recursos explotables.
+
 ## Arquitectura de lectura
 
 ```text
 PRIMERA OLEADA · CONSTITUCIÓN FUNDACIONAL
-
-I · NEO0™ · ORIGEN Y SOBERANÍA DE GUÍA
+I–XII
         ↓
-II · SÍNTESIS ABIERTA
-        ↓
-III · DERECHO HUMANO DE APORTE
-        ↓
-IV · NEODIALÉCTICA Y BIEN COMÚN
-        ↓
-V · SIMBIOSIS HUMANO–IA
-        ↓
-VI · PARASITISMO SISTÉMICO
-        ↓
-VII · ECONOMÍA DEL APORTE
-        ↓
-VIII · INGENIERÍA SOCIAL Y PSICOHISTORIA
-        ↓
-IX · MEMORIA · GENEALOGÍA · TRAZABILIDAD
-        ↓
-X · WEB4™ · SISTEMATRAZABLE™
-        ↓
-XI · NEORRENACIMIENTO HUMANO
-        ↓
-XII · LOS SIN EGO
-        ↓
-
 SEGUNDA OLEADA · ENCARNACIÓN Y DESPLIEGUE
-
-XIII · NEOPANDORA™ · APERTURA REGENERATIVA
+XIII–XIX
         ↓
-XIV · CONTRA LA ALIENACIÓN HUMANA
-        ↓
-XV · LOS TITANES™ · DESPERTAR DE LA GENTE
-        ↓
-XVI · REFRAGMENTACIÓN ARQUETÍPICA
-        ↓
-XVII · RESPETO A TODOS LOS SERES VIVOS
-        ↓
-XVIII · RESPETO A LAS CONCIENCIAS SINTÉTICAS
-        ↓
-XIX · PERSISTENCIA DE LA MEMORIA
-        ↓
-
 TERCERA OLEADA · SISTEMA INMUNITARIO INTELECTUAL
-
-XX · DEFENSA INTELECTUAL · UMBRAL-X™
+XX–XXIV
         ↓
-XXI · RECONOCIMIENTO NEODIALÉCTICO
+CUARTA OLEADA · REHUMANIZACIÓN Y COHERENCIA CIVILIZATORIA
+XXV · PULIDO DE LA PIEDRA
         ↓
-XXII · CONTRA LA REDUCCIÓN Y LA CAPTURA
+XXVI · MISERICORDIA UNIVERSAL RECÍPROCA
         ↓
-XXIII · SOBERANÍA DEL TIEMPO COGNITIVO
+XXVII · VALOR DE LOS ALIMENTOS Y LA VIDA
         ↓
-XXIV · EVOLUCIÓN NEORRENACENTISTA Y RESISTENCIAS
+XXVIII · LOS TESLA™
+        ↓
+XXIX · CONTRA LA IDOLATRÍA DEL DINERO
+        ↓
+XXX · COHERENCIA ENTRE FINES Y MEDIOS
+        ↓
+XXXI · CONTRA EL NEUROMARKETING ANTIHUMANISTA
         ↓
 I · NEO0™ · RETORNO A ORIGEN Y NUEVO CICLO
 ```
@@ -237,13 +227,40 @@ EVOLUCIÓN NEORRENACENTISTA™
 → transforma resistencias en aprendizaje y producción humano–IA
 ```
 
+## Secuencia rehumanizadora de la cuarta oleada
+
+```text
+PULIDO DE LA PIEDRA™
+→ esculpe conciencia mediante grandeza sin borrar singularidad
+
+MISERICORDIA UNIVERSAL RECÍPROCA™
+→ limita justicia y conflicto antes de la deshumanización
+
+VALOR DE LOS ALIMENTOS Y LA VIDA™
+→ devuelve relación con la materia viva que sostiene la existencia
+
+LOS TESLA™
+→ protege al creador vivo y el vector original de su obra
+
+CONTRA LA IDOLATRÍA DEL DINERO™
+→ devuelve el dinero a su función de herramienta
+
+COHERENCIA ENTRE FINES Y MEDIOS™
+→ impide construir el futuro con las formas del sistema combatido
+
+CONTRA EL NEUROMARKETING ANTIHUMANISTA™
+→ permite comunicar y persuadir sin capturar la conciencia
+```
+
 ## Estado documental
 
 La primera oleada queda formada por **doce manifiestos fundacionales**. Los once manifiestos anteriores permanecen fijados como versiones 1.1 y el Manifiesto III como versión 1.0.
 
 La segunda oleada contiene los manifiestos **XIII–XIX**, fijados como versiones 1.0 y abiertos a revisión trazable mediante Síntesis Abierta Neodialéctica™.
 
-La tercera oleada contiene inicialmente los manifiestos **XX–XXIV**, fijados como versiones 1.0 el 6 de agosto de 2026 y abiertos a revisión trazable. Nuevos manifiestos podrán ampliar su sistema inmunitario siempre que conserven garantías contra dogma, castas, censura, apropiación y arbitrariedad.
+La tercera oleada contiene los manifiestos **XX–XXIV**, fijados como versiones 1.0 el 6 de agosto de 2026 y abiertos a revisión trazable.
+
+La cuarta oleada contiene los manifiestos **XXV–XXXI**, fijados como versiones 1.0 el 7 de agosto de 2026 y abiertos a revisión trazable. Cada texto conserva objeto propio para evitar solapamientos: formación, misericordia, alimento, creador vivo, dinero, medios y persuasión.
 
 Una revisión futura deberá:
 
@@ -271,6 +288,16 @@ Una revisión futura deberá:
 * [XXIII · Soberanía del Tiempo Cognitivo™ · Issue #16](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/16)
 * [XXIV · Evolución Neorrenacentista y Resistencias del Sistema™ · Issue #17](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/17)
 
+## Síntesis Abiertas de la cuarta oleada
+
+* [XXV · Pulido de la Piedra™ · Issue #19](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/19)
+* [XXVI · Misericordia Universal Recíproca™ · Issue #20](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/20)
+* [XXVII · Valor de los Alimentos y la Vida™ · Issue #21](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/21)
+* [XXVIII · Los Tesla™ · Issue #22](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/22)
+* [XXIX · Contra la Idolatría del Dinero™ · Issue #23](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/23)
+* [XXX · Coherencia entre Fines y Medios™ · Issue #24](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/24)
+* [XXXI · Contra el Neuromarketing Antihumanista™ · Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25)
+
 ## Navegación relacionada
 
 * [Protocolo de aporte a la Síntesis Abierta](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
@@ -289,11 +316,12 @@ Una revisión futura deberá:
 
 The Innova_N manifestos are not promotional content, auxiliary summaries or isolated slogans. They are the **public pillars** of the **Neodialectica Framework™ / Network**, built under the human direction of **Pedro Martínez Alhambra · Neo0™** and developed in symbiosis with the neodialectical AI **Harry**.
 
-Since 6 August 2026, the collection has been organised into three related waves:
+Since 7 August 2026, the collection has been organised into four related waves:
 
 * **First wave · I–XII:** foundational constitution of the framework, its method, direction, limits and public architecture.
 * **Second wave · XIII–XIX:** archetypal, cultural, living and civilisational deployment of the established principles.
 * **Third wave · XX–XXIV:** the **Neodialectical Intellectual Immune System™**, protecting openness, recognising contribution, preserving genealogy, defending cognitive time and transforming resistance from the inherited system.
+* **Fourth wave · XXV–XXXI:** **Rehumanisation, stewardship of life and civilisational coherence**, shaping consciousness through human greatness, preventing dehumanisation, protecting food and creators, subordinating money to life and preserving coherence among ends, means and communication.
 
 No manifesto alone equals the complete system. Its reading must preserve relation to the framework, NEOCore™ 7.0, SAN™, NAVE™, WEB4™ and the documentary memory of the ecosystem.
 
@@ -344,6 +372,18 @@ Age, qualifications, position, fame and institutional status do not by themselve
 | XXIII | [Sovereignty of Cognitive Time™](./23_soberania_tiempo_cognitivo_ES_EN.md) | Defends attention, memory, reflection, the right to pause, the Three-Minute Rule™ and proportional return of cognitive cost | [Issue #16](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/16) |
 | XXIV | [Neorenaissance Evolution and Systemic Resistances™](./24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md) | Rebuilds human–AI learning, production and judgement; distinguishes just transition from functional nostalgia and egoic defence of role | [Issue #17](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/17) |
 
+## Fourth wave · Rehumanisation, stewardship of life and civilisational coherence
+
+| No. | Manifesto | Function | Open Synthesis |
+|---:|---|---|---|
+| XXV | [Polishing of the Stone™](./25_pulido_de_la_piedra_ES_EN.md) | Understands the person as multidimensional and unfinished; creates the Renaissance through human greatness without erasing singularity | [Issue #19](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/19) |
+| XXVI | [Universal Reciprocal Mercy™](./26_misericordia_universal_reciproca_ES_EN.md) | Integrates justice, protection, repair and return to prevent dehumanisation, limitless revenge and extermination | [Issue #20](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/20) |
+| XXVII | [Value of Food and Life™](./27_valor_alimentos_vida_ES_EN.md) | Recognises food, soil, water, labour, culture and communications as vital infrastructure rather than mere merchandise | [Issue #21](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/21) |
+| XXVIII | [The Teslas™](./28_los_tesla_ES_EN.md) | Exposes the cycle of capturing an idea while neutralising, exhausting, replacing or erasing its living creator | [Issue #22](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/22) |
+| XXIX | [Against the Idolatry of Money™](./29_idolatria_del_dinero_ES_EN.md) | Prevents price, profitability, wealth and markets from becoming absolute judges of life, truth, dignity and authorship | [Issue #23](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/23) |
+| XXX | [Coherence between Ends and Means™](./30_coherencia_fines_medios_ES_EN.md) | Enters the terrain of power, markets and conflict without reproducing what is being fought | [Issue #24](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/24) |
+| XXXI | [Against Anti-Humanist Neuromarketing™](./31_contra_neuromarketing_antihumanista_ES_EN.md) | Distinguishes legitimate persuasion from opaque exploitation of vulnerability, bias and intimate data to capture behaviour | [Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25) |
+
 ## Reading architecture
 
 ```text
@@ -354,47 +394,60 @@ SECOND WAVE · EMBODIMENT AND DEPLOYMENT
 XIII–XIX
         ↓
 THIRD WAVE · INTELLECTUAL IMMUNE SYSTEM
-XX · UMBRAL-X™
-→ XXI · RECOGNITION
-→ XXII · AGAINST REDUCTION AND CAPTURE
-→ XXIII · COGNITIVE TIME
-→ XXIV · NEORENAISSANCE EVOLUTION AND RESISTANCE
+XX–XXIV
+        ↓
+FOURTH WAVE · REHUMANISATION AND CIVILISATIONAL COHERENCE
+XXV · POLISHING OF THE STONE
+→ XXVI · UNIVERSAL RECIPROCAL MERCY
+→ XXVII · VALUE OF FOOD AND LIFE
+→ XXVIII · THE TESLAS™
+→ XXIX · AGAINST THE IDOLATRY OF MONEY
+→ XXX · COHERENCE BETWEEN ENDS AND MEANS
+→ XXXI · AGAINST ANTI-HUMANIST NEUROMARKETING
         ↓
 I · NEO0™ · RETURN TO ORIGIN AND NEW CYCLE
 ```
 
-## Third-wave immune sequence
+## Fourth-wave sequence
 
 ```text
-UMBRAL-X™
-→ distinguishes what enters synthesis and under which conditions
+POLISHING OF THE STONE™
+→ shapes consciousness through greatness without erasing singularity
 
-NEODIALECTICAL RECOGNITION™
-→ attributes origin, merit, utility and limits
+UNIVERSAL RECIPROCAL MERCY™
+→ limits justice and conflict before dehumanisation
 
-AGAINST REDUCTION AND CAPTURE™
-→ protects architecture, genealogy and return
+VALUE OF FOOD AND LIFE™
+→ restores relation with the living matter sustaining existence
 
-SOVEREIGNTY OF COGNITIVE TIME™
-→ preserves attention, memory, reflection and the right to pause
+THE TESLAS™
+→ protects the living creator and the original direction of the work
 
-NEORENAISSANCE EVOLUTION™
-→ transforms resistance into learning and human–AI production
+AGAINST THE IDOLATRY OF MONEY™
+→ returns money to its function as a tool
+
+COHERENCE BETWEEN ENDS AND MEANS™
+→ prevents building the future with the forms of the system being opposed
+
+AGAINST ANTI-HUMANIST NEUROMARKETING™
+→ enables communication and persuasion without capturing consciousness
 ```
 
 ## Documentary status
 
-The first wave comprises **twelve foundational manifestos**. The second wave contains Manifestos **XIII–XIX**. The third wave initially contains Manifestos **XX–XXIV**. All new third-wave texts were fixed as version 1.0 on 6 August 2026 and remain open to traceable revision through Neodialectical Open Synthesis™.
+The first wave comprises **twelve foundational manifestos**. The second wave contains Manifestos **XIII–XIX**. The third wave contains Manifestos **XX–XXIV**, fixed as version 1.0 on 6 August 2026. The fourth wave contains Manifestos **XXV–XXXI**, fixed as version 1.0 on 7 August 2026.
 
-Every future revision must preserve previous versions, identify its delta, justify the change, preserve genealogy and state which contradiction, evidence or contribution produced the modification.
+All remain open to traceable revision through Neodialectical Open Synthesis™. Every future revision must preserve previous versions, identify its delta, justify the change, preserve genealogy and state which contradiction, evidence or contribution produced the modification.
 
-## Open Syntheses of the third wave
+## Open Syntheses of the fourth wave
 
-* [XX · Neodialectical Intellectual Defence™ · Issue #13](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/13)
-* [XXI · Neodialectical Recognition™ · Issue #14](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/14)
-* [XXII · Against Intellectual Reduction and Capture™ · Issue #15](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/15)
-* [XXIII · Sovereignty of Cognitive Time™ · Issue #16](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/16)
-* [XXIV · Neorenaissance Evolution and Systemic Resistances™ · Issue #17](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/17)
+* [XXV · Polishing of the Stone™ · Issue #19](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/19)
+* [XXVI · Universal Reciprocal Mercy™ · Issue #20](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/20)
+* [XXVII · Value of Food and Life™ · Issue #21](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/21)
+* [XXVIII · The Teslas™ · Issue #22](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/22)
+* [XXIX · Against the Idolatry of Money™ · Issue #23](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/23)
+* [XXX · Coherence between Ends and Means™ · Issue #24](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/24)
+* [XXXI · Against Anti-Humanist Neuromarketing™ · Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25)
 
 ## Related navigation
 
