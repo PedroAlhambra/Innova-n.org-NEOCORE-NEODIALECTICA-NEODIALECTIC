@@ -10,6 +10,7 @@ This directory preserves traceable versions of the pages that must remain synchr
 * [Home](./Home.md)
 * [Manifiestos / Manifestos](./Manifiestos.md)
 * [Análisis Neodialécticos Públicos / Public Neodialectical Analyses](./Analisis_Neodialecticos_Publicos.md)
+* [Caso de éxito · Auditoría gratuita a Amazon KDP / Success case · Free audit for Amazon KDP](./Caso_Exito_Auditoria_Gratuita_Amazon_KDP.md)
 * [Sidebar](./_Sidebar.md)
 
 ## Regla de sincronización / Synchronisation rule
@@ -17,12 +18,12 @@ This directory preserves traceable versions of the pages that must remain synchr
 1. El repositorio principal conserva la fuente versionada.
 2. La Wiki pública proyecta esa fuente para navegación y lectura.
 3. Todo cambio debe conservar autoría, fecha, versión, enlaces canónicos y relación con el repositorio.
-4. La Wiki no sustituye los manifiestos ni análisis canónicos: los enlaza.
+4. La Wiki no sustituye los manifiestos, análisis ni auditorías canónicas: los contextualiza y enlaza.
 
 1. The main repository preserves the versioned source.
 2. The public Wiki projects that source for navigation and reading.
 3. Every change must preserve authorship, date, version, canonical links and relation to the repository.
-4. The Wiki does not replace canonical manifestos or analyses: it links to them.
+4. The Wiki does not replace canonical manifestos, analyses or audits: it contextualises and links them.
 
 ## Estado fijado / Recorded state
 
@@ -32,6 +33,7 @@ This directory preserves traceable versions of the pages that must remain synchr
 * Segunda oleada / Second wave: **XIII–XIX**
 * Tercera oleada / Third wave: **XX–XXIV · Sistema Inmunitario Intelectual Neodialéctico™ / Neodialectical Intellectual Immune System™**
 * Síntesis Abiertas específicas / Dedicated Open Syntheses: **Issues #3–#17**
+* Caso de éxito institucional destacado / Featured institutional success case: **auditoría gratuita a Amazon KDP y Author Central / free audit for Amazon KDP and Author Central**
 * Última sincronización documental / Last documentary synchronisation: **2026-08-06**
 
 ## Navegación / Navigation
