@@ -26,12 +26,12 @@ Una obra anterior al desarrollo formal de la Neodialéctica™, Innova_N o NEOCo
 
 Novela de ciencia ficción escrita entre 1997 y 2002 y presentada, con leves cambios, al Premio UPC de Ciencia Ficción en 2002. Su primera edición pública apareció en 2026 mediante restauración conservadora.
 
-* [Nodo documental de IDEA](./idea/README.md)
+* [Nodo documental canónico de IDEA](./idea/README.md)
 * [Ediciones internacionales](./idea/EDICIONES.md)
 * [Metadatos públicos](./idea/METADATA.json)
 * [Registro de enlaces](./idea/LINKS.json)
 * [Kit público ES/EN](./idea/PRESS_KIT_ES_EN.md)
-* [Página pública de IDEA en la Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
+* [Página de orientación de IDEA en la Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
 
 ## Aplicación del marco derivada de IDEA
 
@@ -39,7 +39,6 @@ La publicación internacional de IDEA generó una auditoría indirecta de KDP y 
 
 * [Caso de éxito · auditoría gratuita a Amazon KDP y Author Central](../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
 * [Auditoría indirecta pública de origen](../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
-* [Página de proyección para la Wiki](../wiki-source/Caso_Exito_Auditoria_Gratuita_Amazon_KDP.md)
 
 El caso muestra cómo una obra cultural puede actuar como sensor operativo y producir mejoras útiles para una infraestructura editorial de gran escala sin alterar la genealogía literaria de la obra.
 
@@ -53,7 +52,7 @@ IDEA antecede históricamente a la Filosofía Arquetípica Neodialéctica™, In
 * [Índice de manifiestos](../manifiestos/README.md)
 * [Análisis públicos](../analisis/README.md)
 * [Auditorías públicas](../auditorias/publicas/README.md)
-* [Wiki pública](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
+* [Guía mínima de la Wiki](../wiki-source/README.md)
 
 ---
 
@@ -79,12 +78,12 @@ A work predating the formal development of Neodialectics™, Innova_N or NEOCore
 
 A science-fiction novel written between 1997 and 2002 and submitted, with minor changes, to the UPC Science Fiction Award in 2002. Its first public edition appeared in 2026 through conservative restoration.
 
-* [IDEA documentary node](./idea/README.md)
+* [Canonical IDEA documentary node](./idea/README.md)
 * [International editions](./idea/EDICIONES.md)
 * [Public metadata](./idea/METADATA.json)
 * [Link register](./idea/LINKS.json)
 * [Public ES/EN kit](./idea/PRESS_KIT_ES_EN.md)
-* [Public IDEA Wiki page](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
+* [IDEA orientation page in the Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
 
 ## Framework application derived from IDEA
 
@@ -92,7 +91,6 @@ The international publication of IDEA produced an indirect audit of KDP and Auth
 
 * [Success case · free audit for Amazon KDP and Author Central](../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
 * [Originating public indirect audit](../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
-* [Wiki projection page](../wiki-source/Caso_Exito_Auditoria_Gratuita_Amazon_KDP.md)
 
 The case shows how a cultural work can act as an operational sensor and produce useful improvements for a large-scale publishing infrastructure without altering the literary genealogy of the work.
 
@@ -106,7 +104,7 @@ IDEA historically predates Archetypal Neodialectical Philosophy™, Innova_N, NE
 * [Manifesto index](../manifiestos/README.md)
 * [Public analyses](../analisis/README.md)
 * [Public audits](../auditorias/publicas/README.md)
-* [Public Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
+* [Minimal Wiki guide](../wiki-source/README.md)
 
 ---
 
