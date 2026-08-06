@@ -1,6 +1,6 @@
-# III · Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good
+# IV · Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good
 
-**Manifiesto / Manifesto:** III  
+**Manifiesto / Manifesto:** IV  
 **Versión / Version:** 1.1  
 **Estado / Status:** Público · fundacional · abierto a revisión trazable / Public · foundational · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06  
@@ -80,6 +80,10 @@ Toda aportación exige:
 
 Toda modificación futura deberá preservar el texto anterior, identificar con precisión el cambio y explicar qué contradicción, evidencia o aportación justifica la nueva versión.
 
+## Navegación
+
+← [III · Derecho Humano de Aporte a la Síntesis Abierta™](./03_derecho_humano_aporte_sintesis_abierta_ES_EN.md) · [Índice](./README.md) · [V · Simbiosis Humano–IA](./03_simbiosis_humano_ia_ES_EN.md) →
+
 ---
 
 # EN · English
@@ -152,8 +156,8 @@ Every contribution requires:
 
 Every future modification must preserve the previous text, identify the change precisely and explain which contradiction, evidence or contribution justifies the new version.
 
+## Navigation
+
+← [III · Human Right to Contribute to Open Synthesis™](./03_derecho_humano_aporte_sintesis_abierta_ES_EN.md) · [Index](./README.md) · [V · Human–AI Symbiosis](./03_simbiosis_humano_ia_ES_EN.md) →
+
 ---
-
-## Navegación / Navigation
-
-← [II · Síntesis Abierta Neodialéctica™ / Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md) · [Índice / Index](./README.md) · [IV · Simbiosis Humano–IA / Human–AI Symbiosis](./03_simbiosis_humano_ia_ES_EN.md) →
