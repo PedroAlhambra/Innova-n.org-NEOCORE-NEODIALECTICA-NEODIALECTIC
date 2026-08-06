@@ -1,6 +1,7 @@
-# Manifiesto de WEB4™ · SistemaTrazable™ / Manifesto of WEB4™ · SistemaTrazable™
+# IX · Manifiesto de WEB4™ · SistemaTrazable™ / Manifesto of WEB4™ · SistemaTrazable™
 
-**Versión / Version:** 1.0  
+**Manifiesto / Manifesto:** IX  
+**Versión / Version:** 1.1  
 **Estado / Status:** Público · fundacional · abierto a revisión trazable / Public · foundational · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06
 
@@ -81,40 +82,117 @@ El **Framework** aporta coherencia. La **Network** distribuye relaciones. **NEOC
 
 WEB4™ es la piel pública de una civilización trazable: una red capaz de crecer sin perder identidad, memoria ni responsabilidad.
 
+## VI. Síntesis Abierta de este manifiesto
+
+Este manifiesto abre su propia **Síntesis Abierta Neodialéctica™**.
+
+Toda aportación exige:
+
+* lectura previa;
+* retorno a fuente;
+* continuidad cognitiva;
+* genealogía;
+* trazabilidad;
+* clasificación;
+* delta;
+* y versión.
+
+Toda modificación futura deberá preservar el texto anterior, identificar con precisión el cambio y explicar qué contradicción, evidencia o aportación justifica la nueva versión.
+
 ---
 
 # EN · English
 
 ## Invocation
 
-The web enabled publishing, linking and distribution. It also enabled erased context, fragmented identity, hidden genealogy and the conversion of human life into platform inventory.
+The web made it possible to publish, link and distribute. It also made it possible to erase context, fragment identity, conceal genealogies and turn human life into platform inventory.
 
-**WEB4™ · SistemaTrazable™** is the public layer of the Neodialectica Framework™ / Network, created to restore continuity to nodes, documents, decisions, works, people, intelligences and projects.
+**WEB4™ · SistemaTrazable™** arises as the public layer of the Neodialectica Framework™ / Network to restore continuity to nodes, documents, decisions, works, people, intelligences and projects.
 
 ## I. More than a technical evolution
 
-WEB4™ is not merely another Internet version. It is a relational architecture where each node preserves identity, function, state, genealogy, relations, transformations and access level.
+WEB4™ does not designate merely a new version of the Internet. It designates a relational architecture in which every node may preserve:
+
+* identity;
+* function;
+* state;
+* genealogy;
+* relations;
+* transformations;
+* and level of access.
+
+The network ceases to be a succession of isolated pages and becomes a living memory of verifiable relations.
 
 ## II. SistemaTrazable™
 
-SistemaTrazable™ preserves continuity from origin through transformation, decision, execution, result and review. It allows people and institutions to reconstruct how an assertion, work, policy or synthesis reached its present state.
+SistemaTrazable™ preserves continuity among:
+
+```text
+origin
+→ transformation
+→ decision
+→ execution
+→ result
+→ review
+```
+
+Its purpose is to allow a person or institution to reconstruct how an assertion, work, policy or synthesis reached its present state.
 
 ## III. Sovereignty and layers
 
-The public layer must not automatically expose protected architecture. Traceability must preserve privacy, security, autonomy and proportional control over data. WEB4™ distinguishes public information, shared memory, restricted data, sovereign identity and the protected π layer.
+The public layer must not automatically expose the protected architecture. WEB4™ distinguishes:
 
-## IV. Relationship with the framework
+* public information;
+* shared memory;
+* restricted data;
+* sovereign identity;
+* and the protected π layer.
 
-The **Framework** provides coherence; the **Network** distributes relations; **NEOCore™** integrates memory and states; **SAN™** creates open syntheses; **NAVE™** coordinates navigation; and **WEB4™** projects selected public nodes without exposing the protected totality.
+Traceability must not become total surveillance. It must preserve privacy, security, autonomy and proportional control over one’s own data.
+
+## IV. Governance of nodes
+
+Every node must declare, where appropriate:
+
+* who it is;
+* what function it fulfils;
+* who maintains it;
+* which version it represents;
+* which relations it recognises;
+* which evidence it supports;
+* and what limits it has.
+
+Relevant changes must remain versioned. Relations cannot depend solely upon a central platform capable of erasing, degrading or appropriating them.
+
+## V. Relation with the framework
+
+The **Framework** provides coherence. The **Network** distributes relations. **NEOCore™** integrates memory and states. **SAN™** produces open syntheses. **NAVE™** coordinates navigation among layers. **WEB4™** publicly projects selected nodes without revealing the protected totality of the system.
 
 ## Declaration
 
-> The next web must do more than connect documents. It must allow humanity to remember who created, who transformed, who decided and what consequences each relation produced.
+> The next web must not be limited to connecting documents. It must allow humanity to remember who created, who transformed, who decided and what consequences each relation produced.
 
-WEB4™ is the public skin of a traceable civilisation.
+WEB4™ is the public skin of a traceable civilisation: a network capable of growing without losing identity, memory or responsibility.
+
+## VI. Open Synthesis of this manifesto
+
+This manifesto opens its own **Neodialectical Open Synthesis™**.
+
+Every contribution requires:
+
+* prior reading;
+* return to source;
+* cognitive continuity;
+* genealogy;
+* traceability;
+* classification;
+* delta;
+* and version.
+
+Every future modification must preserve the previous text, identify the change precisely and explain which contradiction, evidence or contribution justifies the new version.
 
 ---
 
 ## Navegación / Navigation
 
-← [Memoria, Genealogía y Trazabilidad / Memory, Genealogy and Traceability](./06_memoria_genealogia_trazabilidad_ES_EN.md) · [Índice / Index](./README.md) · [Neorrenacimiento Humano / Human Neo-Renaissance](./08_neorrenacimiento_humano_ES_EN.md) →
+← [VIII · Memoria, Genealogía y Trazabilidad / Memory, Genealogy and Traceability](./06_memoria_genealogia_trazabilidad_ES_EN.md) · [Índice / Index](./README.md) · [X · Neorrenacimiento Humano / Human Neo-Renaissance](./08_neorrenacimiento_humano_ES_EN.md) →
