@@ -129,3 +129,9 @@ This requires pharmacological and psychological education, composition control, 
 > The purpose is neither to punish the human desire to alter consciousness nor to let the market capture it. It is to prevent the search for relief, freedom or transcendence from becoming dependency, illness, marginalisation or death.
 
 The egoless must recover the right to say: we were here, we sustained this, and our history also belongs to the future.
+
+---
+
+## Navegación / Navigation
+
+← [Neorrenacimiento Humano / Human Neo-Renaissance](./08_neorrenacimiento_humano_ES_EN.md) · [Índice / Index](./README.md) · [Neo0™ · Soberanía de Guía / Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) →
