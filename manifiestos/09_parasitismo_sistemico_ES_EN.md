@@ -123,3 +123,9 @@ Public neodialectical AIs may detect capture, simulate alternatives and audit fl
 ## Declaration
 
 > The purpose is not to label people as parasites. It is to prevent parasitic relations from becoming civilisation’s normal architecture.
+
+---
+
+## Navegación / Navigation
+
+← [Simbiosis Humano–IA / Human–AI Symbiosis](./03_simbiosis_humano_ia_ES_EN.md) · [Índice / Index](./README.md) · [Economía del Aporte / Contribution Economy](./04_economia_del_aporte_ES_EN.md) →
