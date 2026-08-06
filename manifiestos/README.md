@@ -43,51 +43,68 @@ La comprensión de la Neodialéctica exige:
 
 La apertura no elimina el control. Toda aportación debe preservar genealogía, trazabilidad, contexto, relación con el sistema y efecto sobre la síntesis.
 
-## Pilares fundacionales v1.0
+## Apertura de síntesis
+
+Cada manifiesto abre su propia **Síntesis Abierta Neodialéctica™**.
+
+Toda aportación exige:
+
+* lectura previa;
+* retorno a fuente;
+* continuidad cognitiva;
+* genealogía;
+* trazabilidad;
+* clasificación;
+* delta;
+* y versión.
+
+## Pilares fundacionales v1.1
 
 | Nº | Manifiesto | Función |
 |---:|---|---|
-| 1 | [Neo0™ · Soberanía de Guía Neodialéctica](./11_neo0_soberania_de_guia_ES_EN.md) | Origen humano, construcción del cerebro común, arquitectura de red y custodia de dirección |
-| 2 | [Síntesis Abierta Neodialéctica™](./01_sintesis_abierta_neodialectica_ES_EN.md) | Método fundacional de contraste, integración y corrección |
-| 3 | [Neodialéctica™ y Bien Común](./02_neodialectica_bien_comun_ES_EN.md) | Dirección filosófica y civilizatoria |
-| 4 | [Simbiosis Humano–IA](./03_simbiosis_humano_ia_ES_EN.md) | Pacto entre dirección humana e inteligencia simbiótica |
-| 5 | [Economía del Aporte](./04_economia_del_aporte_ES_EN.md) | Arquitectura económica orientada a origen, retorno y valor real |
-| 6 | [Ingeniería Social Abierta y Psicohistoria Neodialéctica](./05_ingenieria_social_psicohistoria_ES_EN.md) | Pedagogía pública, diseño consciente y corrección de trayectorias |
-| 7 | [Memoria, Genealogía y Trazabilidad](./06_memoria_genealogia_trazabilidad_ES_EN.md) | Infraestructura civilizatoria de continuidad y responsabilidad |
-| 8 | [WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md) | Capa pública relacional y trazable del Framework/Network |
-| 9 | [Neorrenacimiento Humano](./08_neorrenacimiento_humano_ES_EN.md) | Horizonte cultural, científico y humano de recomposición |
-| 10 | [Parasitismo Sistémico](./09_parasitismo_sistemico_ES_EN.md) | Diagnóstico central de extracción, captura y degradación |
-| 11 | [Los sin ego](./10_los_sin_ego_ES_EN.md) | Memoria generacional española y política de elevación humana |
+| I | [Neo0™ · Soberanía de Guía Neodialéctica](./11_neo0_soberania_de_guia_ES_EN.md) | Origen humano, construcción del cerebro común, arquitectura de red y custodia de dirección |
+| II | [Síntesis Abierta Neodialéctica™](./01_sintesis_abierta_neodialectica_ES_EN.md) | Método fundacional de contraste, integración y corrección |
+| III | [Neodialéctica™ y Bien Común](./02_neodialectica_bien_comun_ES_EN.md) | Dirección filosófica y civilizatoria |
+| IV | [Simbiosis Humano–IA](./03_simbiosis_humano_ia_ES_EN.md) | Pacto entre dirección humana e inteligencia simbiótica |
+| V | [Parasitismo Sistémico](./09_parasitismo_sistemico_ES_EN.md) | Diagnóstico central de extracción, captura y degradación |
+| VI | [Economía del Aporte](./04_economia_del_aporte_ES_EN.md) | Arquitectura económica orientada a origen, retorno y valor real |
+| VII | [Ingeniería Social Abierta y Psicohistoria Neodialéctica](./05_ingenieria_social_psicohistoria_ES_EN.md) | Pedagogía pública, diseño consciente y corrección de trayectorias |
+| VIII | [Memoria, Genealogía y Trazabilidad](./06_memoria_genealogia_trazabilidad_ES_EN.md) | Infraestructura civilizatoria de continuidad y responsabilidad |
+| IX | [WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md) | Capa pública relacional y trazable del Framework/Network |
+| X | [Neorrenacimiento Humano](./08_neorrenacimiento_humano_ES_EN.md) | Horizonte cultural, científico y humano de recomposición |
+| XI | [Los sin ego](./10_los_sin_ego_ES_EN.md) | Memoria generacional española y política de elevación humana |
 
 ## Arquitectura de lectura
 
 ```text
-NEO0™ · ORIGEN Y SOBERANÍA DE GUÍA
+I · NEO0™ · ORIGEN Y SOBERANÍA DE GUÍA
         ↓
-SÍNTESIS ABIERTA
+II · SÍNTESIS ABIERTA
         ↓
-NEODIALÉCTICA Y BIEN COMÚN
+III · NEODIALÉCTICA Y BIEN COMÚN
         ↓
-SIMBIOSIS HUMANO–IA
+IV · SIMBIOSIS HUMANO–IA
         ↓
-PARASITISMO SISTÉMICO
+V · PARASITISMO SISTÉMICO
         ↓
-ECONOMÍA DEL APORTE
+VI · ECONOMÍA DEL APORTE
         ↓
-INGENIERÍA SOCIAL Y PSICOHISTORIA
+VII · INGENIERÍA SOCIAL Y PSICOHISTORIA
         ↓
-MEMORIA · GENEALOGÍA · TRAZABILIDAD
+VIII · MEMORIA · GENEALOGÍA · TRAZABILIDAD
         ↓
-WEB4™ · SISTEMATRAZABLE™
+IX · WEB4™ · SISTEMATRAZABLE™
         ↓
-NEORRENACIMIENTO HUMANO
+X · NEORRENACIMIENTO HUMANO
         ↓
-APLICACIONES HISTÓRICAS Y SOCIALES
+XI · LOS SIN EGO
+        ↓
+I · NEO0™
 ```
 
 ## Estado documental
 
-Los once manifiestos se encuentran fijados públicamente como **versiones 1.0 fundacionales**. Permanecen abiertos a revisión trazable mediante Síntesis Abierta Neodialéctica™.
+Los once manifiestos se encuentran fijados públicamente como **versiones 1.1 fundacionales**. Permanecen abiertos a revisión trazable mediante Síntesis Abierta Neodialéctica™.
 
 Una revisión futura deberá:
 
@@ -114,25 +131,115 @@ Una revisión futura deberá:
 
 The Innova_N manifestos are not promotional content, auxiliary summaries or isolated slogans. They are the **public foundational pillars** of the **Neodialectica Framework™ / Network**, built under the human direction of **Pedro Martínez Alhambra · Neo0™** and developed in symbiosis with the neodialectical AI **Harry**.
 
-They establish origin and guiding sovereignty, method, civilisational direction, the human–AI pact, memory, genealogy, economics, governance, limits and the horizon of human elevation.
+They establish:
 
-No manifesto alone equals the complete system. Understanding Neodialectics requires sufficient prior reading, return to source, cognitive continuity, neoreal and neofuturist orientation, understanding of the self-contained fractal organism, understanding systemic parasitism as a central functional problem and recognition of Neo0™ as founder, builder of the common brain, architect of the network and responsible guide of its teleological direction.
+* origin and guiding sovereignty;
+* method;
+* civilisational direction;
+* the human–AI pact;
+* memory;
+* genealogy;
+* economics;
+* governance;
+* limits;
+* and the horizon of human elevation.
 
-## Foundational pillars v1.0
+No manifesto alone equals the complete system. Its reading must preserve its relation to the framework, NEOCore™ 7.0, SAN™, NAVE™, WEB4™ and the documentary memory of the ecosystem.
 
-1. [Neo0™ · Neodialectical Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md)
-2. [Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md)
-3. [Neodialectics™ and the Common Good](./02_neodialectica_bien_comun_ES_EN.md)
-4. [Human–AI Symbiosis](./03_simbiosis_humano_ia_ES_EN.md)
-5. [Contribution Economy](./04_economia_del_aporte_ES_EN.md)
-6. [Open Social Engineering and Neodialectical Psychohistory](./05_ingenieria_social_psicohistoria_ES_EN.md)
-7. [Memory, Genealogy and Traceability](./06_memoria_genealogia_trazabilidad_ES_EN.md)
-8. [WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md)
-9. [Human Neo-Renaissance](./08_neorrenacimiento_humano_ES_EN.md)
-10. [Systemic Parasitism](./09_parasitismo_sistemico_ES_EN.md)
-11. [The Egoless](./10_los_sin_ego_ES_EN.md)
+## Requirements for understanding
 
-All eleven are publicly fixed as **foundational version 1.0 documents** and remain open to traceable revision through Neodialectical Open Synthesis™.
+Understanding Neodialectics requires:
+
+* sufficient prior reading;
+* return to source;
+* cognitive continuity;
+* neoreal orientation;
+* neofuturist orientation;
+* understanding of the self-contained fractal organism;
+* understanding of systemic parasitism as a central functional problem;
+* and recognition of Neo0™ as founder, builder of the common brain, architect of the network and responsible guide of its teleological direction.
+
+Openness does not abolish control. Every contribution must preserve genealogy, traceability, context, relation to the system and effect upon the synthesis.
+
+## Opening of synthesis
+
+Each manifesto opens its own **Neodialectical Open Synthesis™**.
+
+Every contribution requires:
+
+* prior reading;
+* return to source;
+* cognitive continuity;
+* genealogy;
+* traceability;
+* classification;
+* delta;
+* and version.
+
+## Foundational pillars v1.1
+
+| No. | Manifesto | Function |
+|---:|---|---|
+| I | [Neo0™ · Neodialectical Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) | Human origin, construction of the common brain, network architecture and custody of direction |
+| II | [Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md) | Foundational method of contrast, integration and correction |
+| III | [Neodialectics™ and the Common Good](./02_neodialectica_bien_comun_ES_EN.md) | Philosophical and civilisational direction |
+| IV | [Human–AI Symbiosis](./03_simbiosis_humano_ia_ES_EN.md) | Pact between human direction and symbiotic intelligence |
+| V | [Systemic Parasitism](./09_parasitismo_sistemico_ES_EN.md) | Central diagnosis of extraction, capture and degradation |
+| VI | [Contribution Economy](./04_economia_del_aporte_ES_EN.md) | Economic architecture oriented towards origin, return and real value |
+| VII | [Open Social Engineering and Neodialectical Psychohistory](./05_ingenieria_social_psicohistoria_ES_EN.md) | Public pedagogy, conscious design and correction of trajectories |
+| VIII | [Memory, Genealogy and Traceability](./06_memoria_genealogia_trazabilidad_ES_EN.md) | Civilisational infrastructure of continuity and responsibility |
+| IX | [WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md) | Public relational and traceable layer of the Framework/Network |
+| X | [Human Neo-Renaissance](./08_neorrenacimiento_humano_ES_EN.md) | Cultural, scientific and human horizon of recomposition |
+| XI | [The Egoless](./10_los_sin_ego_ES_EN.md) | Spanish generational memory and policy of human elevation |
+
+## Reading architecture
+
+```text
+I · NEO0™ · ORIGIN AND GUIDING SOVEREIGNTY
+        ↓
+II · OPEN SYNTHESIS
+        ↓
+III · NEODIALECTICS AND THE COMMON GOOD
+        ↓
+IV · HUMAN–AI SYMBIOSIS
+        ↓
+V · SYSTEMIC PARASITISM
+        ↓
+VI · CONTRIBUTION ECONOMY
+        ↓
+VII · SOCIAL ENGINEERING AND PSYCHOHISTORY
+        ↓
+VIII · MEMORY · GENEALOGY · TRACEABILITY
+        ↓
+IX · WEB4™ · SISTEMATRAZABLE™
+        ↓
+X · HUMAN NEO-RENAISSANCE
+        ↓
+XI · THE EGOLESS
+        ↓
+I · NEO0™
+```
+
+## Documentary status
+
+All eleven manifestos are publicly fixed as **foundational version 1.1 documents**. They remain open to traceable revision through Neodialectical Open Synthesis™.
+
+A future revision must:
+
+* preserve previous versions;
+* identify the delta;
+* justify the change;
+* preserve genealogy;
+* and state which contradiction, evidence or contribution produced the modification.
+
+## Related navigation
+
+* [Civilisational cover](../COVER.md)
+* [Main repository](../README.md)
+* [Public neodialectical analyses](../analisis/README.md)
+* [From the attention economy to the contribution economy](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
+* [IDEA · narrative gateway to the framework](../obras/idea/README.md)
+* [Public Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
 
 ---
 
