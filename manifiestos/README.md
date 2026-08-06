@@ -36,6 +36,9 @@ Los manifiestos establecen y despliegan:
 * horizonte de elevación humana;
 * arquetipos de transformación;
 * apertura regenerativa;
+* lucha contra la alienación humana;
+* despertar de la potencia común;
+* refragmentación arquetípica;
 * y gobierno responsable de la vida.
 
 Ningún manifiesto aislado equivale al sistema completo. Su lectura debe conservar relación con el marco, NEOCore™ 7.0, SAN™, NAVE™, WEB4™ y la memoria documental del ecosistema.
@@ -99,6 +102,9 @@ La Síntesis Abierta no obliga a consumir tiempo humano o artificial indefinidam
 | Nº | Manifiesto | Función |
 |---:|---|---|
 | XIII | [NeoPandora™ · Apertura Regenerativa y Gobierno de la Vida](./13_neopandora_apertura_regenerativa_ES_EN.md) | Transmutación de Pandora y Eva, custodia no confesional de la vida, metamorfosis, polinización fractal y apertura responsable |
+| XIV | [Contra la Alienación Humana™](./14_contra_alienacion_humana_ES_EN.md) | Reconstrucción de la relación entre persona, cuerpo, trabajo, valor, comunidad, naturaleza, memoria, tecnología, tiempo y futuro |
+| XV | [Los Titanes™ · El despertar de la gente](./15_los_titanes_despertar_de_la_gente_ES_EN.md) | Recuperación popular de conocimiento, potencia creadora, organización y responsabilidad sin sustitución de una élite por otra |
+| XVI | [Refragmentación Arquetípica™](./16_refragmentacion_arquetipica_ES_EN.md) | Recuperación de fragmentos simbólicos, conservación de heridas y genealogías, y recomposición de funciones en una nueva forma |
 
 La segunda oleada queda abierta a nuevos manifiestos que encarnen, desarrollen o sometan a contraste dimensiones arquetípicas, culturales, ecológicas, territoriales y vitales del marco. Ninguna incorporación podrá romper la genealogía ni contradecir silenciosamente los pilares fundacionales.
 
@@ -136,14 +142,36 @@ SEGUNDA OLEADA · ENCARNACIÓN Y DESPLIEGUE
 
 XIII · NEOPANDORA™ · APERTURA REGENERATIVA
         ↓
+XIV · CONTRA LA ALIENACIÓN HUMANA
+        ↓
+XV · LOS TITANES™ · DESPERTAR DE LA GENTE
+        ↓
+XVI · REFRAGMENTACIÓN ARQUETÍPICA
+        ↓
 I · NEO0™ · RETORNO A ORIGEN Y NUEVO CICLO
+```
+
+## Secuencia de transformación de la segunda oleada
+
+```text
+NEOPANDORA™
+→ abre lo clausurado con responsabilidad
+
+CONTRA LA ALIENACIÓN HUMANA™
+→ reconstruye la relación con lo creado, vivido y decidido
+
+LOS TITANES™
+→ despiertan la potencia común de la gente
+
+REFRAGMENTACIÓN ARQUETÍPICA™
+→ recompone funciones divididas en una nueva arquitectura
 ```
 
 ## Estado documental
 
 La primera oleada queda formada por **doce manifiestos fundacionales**. Los once manifiestos anteriores permanecen fijados como versiones 1.1 y el Manifiesto III como versión 1.0.
 
-La segunda oleada comienza con el **Manifiesto XIII · NeoPandora™**, versión 1.0. Todos los manifiestos permanecen abiertos a revisión trazable mediante Síntesis Abierta Neodialéctica™.
+La segunda oleada contiene actualmente los manifiestos **XIII–XVI**, todos fijados como versiones 1.0 y abiertos a revisión trazable mediante Síntesis Abierta Neodialéctica™.
 
 Una revisión futura deberá:
 
@@ -153,9 +181,15 @@ Una revisión futura deberá:
 * preservar genealogía;
 * y señalar qué contradicción, evidencia o aportación produjo la modificación.
 
+## Síntesis Abiertas de la segunda oleada
+
+* [XIII · NeoPandora™ · Issue #4](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/4)
+* [XIV · Contra la Alienación Humana™ · Issue #5](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/5)
+* [XV · Los Titanes™ · Issue #6](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/6)
+* [XVI · Refragmentación Arquetípica™ · Issue #7](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/7)
+
 ## Navegación relacionada
 
-* [Síntesis Abierta del Manifiesto XIII · Issue #4](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/4)
 * [Protocolo de aporte a la Síntesis Abierta](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Portada civilizatoria](../PORTADA.md)
 * [Repositorio principal](../README.md)
@@ -195,6 +229,9 @@ The manifestos establish and deploy:
 * the horizon of human elevation;
 * archetypes of transformation;
 * regenerative opening;
+* the struggle against human alienation;
+* awakening of common power;
+* archetypal refragmentation;
 * and responsible governance of life.
 
 No manifesto alone equals the complete system. Its reading must preserve its relation to the framework, NEOCore™ 7.0, SAN™, NAVE™, WEB4™ and the documentary memory of the ecosystem.
@@ -258,6 +295,9 @@ Open Synthesis does not require indefinite consumption of human or artificial ti
 | No. | Manifesto | Function |
 |---:|---|---|
 | XIII | [NeoPandora™ · Regenerative Opening and Governance of Life](./13_neopandora_apertura_regenerativa_ES_EN.md) | Transmutation of Pandora and Eve, non-confessional custody of life, metamorphosis, fractal pollination and responsible opening |
+| XIV | [Against Human Alienation™](./14_contra_alienacion_humana_ES_EN.md) | Reconstruction of the relation among person, body, work, value, community, nature, memory, technology, time and future |
+| XV | [The Titans™ · The Awakening of the People](./15_los_titanes_despertar_de_la_gente_ES_EN.md) | Popular recovery of knowledge, creative power, organisation and responsibility without replacing one elite with another |
+| XVI | [Archetypal Refragmentation™](./16_refragmentacion_arquetipica_ES_EN.md) | Recovery of symbolic fragments, preservation of wounds and genealogies, and recomposition of functions within a new form |
 
 The second wave remains open to new manifestos that embody, develop or submit to contrast the archetypal, cultural, ecological, territorial and living dimensions of the framework. No incorporation may break genealogy or silently contradict the foundational pillars.
 
@@ -295,14 +335,36 @@ SECOND WAVE · EMBODIMENT AND DEPLOYMENT
 
 XIII · NEOPANDORA™ · REGENERATIVE OPENING
         ↓
+XIV · AGAINST HUMAN ALIENATION
+        ↓
+XV · THE TITANS™ · AWAKENING OF THE PEOPLE
+        ↓
+XVI · ARCHETYPAL REFRAGMENTATION
+        ↓
 I · NEO0™ · RETURN TO ORIGIN AND NEW CYCLE
+```
+
+## Transformation sequence of the second wave
+
+```text
+NEOPANDORA™
+→ opens what was closed with responsibility
+
+AGAINST HUMAN ALIENATION™
+→ reconstructs relation with what is created, lived and decided
+
+THE TITANS™
+→ awaken the common power of the people
+
+ARCHETYPAL REFRAGMENTATION™
+→ recomposes divided functions within a new architecture
 ```
 
 ## Documentary status
 
 The first wave comprises **twelve foundational manifestos**. The eleven previous manifestos remain fixed as version 1.1 documents and Manifesto III as version 1.0.
 
-The second wave begins with **Manifesto XIII · NeoPandora™**, version 1.0. All manifestos remain open to traceable revision through Neodialectical Open Synthesis™.
+The second wave currently contains Manifestos **XIII–XVI**, all fixed as version 1.0 and open to traceable revision through Neodialectical Open Synthesis™.
 
 A future revision must:
 
@@ -312,9 +374,15 @@ A future revision must:
 * preserve genealogy;
 * and state which contradiction, evidence or contribution produced the modification.
 
+## Open Syntheses of the second wave
+
+* [XIII · NeoPandora™ · Issue #4](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/4)
+* [XIV · Against Human Alienation™ · Issue #5](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/5)
+* [XV · The Titans™ · Issue #6](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/6)
+* [XVI · Archetypal Refragmentation™ · Issue #7](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/7)
+
 ## Related navigation
 
-* [Open Synthesis of Manifesto XIII · Issue #4](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/4)
 * [Open Synthesis contribution protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Civilisational cover](../COVER.md)
 * [Main repository](../README.md)
