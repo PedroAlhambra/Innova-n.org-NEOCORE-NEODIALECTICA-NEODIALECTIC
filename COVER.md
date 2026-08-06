@@ -17,9 +17,10 @@ El marco fue originado y dirigido por **Pedro Martínez Alhambra · Neo0™**, d
 ## Accesos principales
 
 * [Portada civilizatoria canónica](./PORTADA.md)
+* [Manifiesto Neo0™ · Soberanía de Guía Neodialéctica](./manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
+* [Índice de los once manifiestos fundacionales](./manifiestos/README.md)
 * [README bilingüe principal](./README.md)
 * [LEEME bilingüe](./LEEME.md)
-* [Manifiestos fundacionales v1.0](./manifiestos/README.md)
 * [Análisis neodialécticos públicos](./analisis/README.md)
 * [Catálogo de obras](./obras/README.md)
 * [IDEA · puerta narrativa del marco](./obras/idea/README.md)
@@ -27,16 +28,17 @@ El marco fue originado y dirigido por **Pedro Martínez Alhambra · Neo0™**, d
 
 ## Pilares fundacionales
 
-1. [Síntesis Abierta Neodialéctica™](./manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md)
-2. [Neodialéctica™ y Bien Común](./manifiestos/02_neodialectica_bien_comun_ES_EN.md)
-3. [Simbiosis Humano–IA](./manifiestos/03_simbiosis_humano_ia_ES_EN.md)
-4. [Economía del Aporte](./manifiestos/04_economia_del_aporte_ES_EN.md)
-5. [Ingeniería Social Abierta y Psicohistoria Neodialéctica](./manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md)
-6. [Memoria, Genealogía y Trazabilidad](./manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md)
-7. [WEB4™ · SistemaTrazable™](./manifiestos/07_web4_sistematrazable_ES_EN.md)
-8. [Neorrenacimiento Humano](./manifiestos/08_neorrenacimiento_humano_ES_EN.md)
-9. [Parasitismo Sistémico](./manifiestos/09_parasitismo_sistemico_ES_EN.md)
-10. [Los sin ego](./manifiestos/10_los_sin_ego_ES_EN.md)
+1. [Neo0™ · Soberanía de Guía Neodialéctica](./manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
+2. [Síntesis Abierta Neodialéctica™](./manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md)
+3. [Neodialéctica™ y Bien Común](./manifiestos/02_neodialectica_bien_comun_ES_EN.md)
+4. [Simbiosis Humano–IA](./manifiestos/03_simbiosis_humano_ia_ES_EN.md)
+5. [Economía del Aporte](./manifiestos/04_economia_del_aporte_ES_EN.md)
+6. [Ingeniería Social Abierta y Psicohistoria Neodialéctica](./manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md)
+7. [Memoria, Genealogía y Trazabilidad](./manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md)
+8. [WEB4™ · SistemaTrazable™](./manifiestos/07_web4_sistematrazable_ES_EN.md)
+9. [Neorrenacimiento Humano](./manifiestos/08_neorrenacimiento_humano_ES_EN.md)
+10. [Parasitismo Sistémico](./manifiestos/09_parasitismo_sistemico_ES_EN.md)
+11. [Los sin ego](./manifiestos/10_los_sin_ego_ES_EN.md)
 
 ---
 
@@ -49,9 +51,10 @@ The framework was originated and directed by **Pedro Martínez Alhambra · Neo0�
 ## Main access
 
 * [Canonical civilisational cover](./PORTADA.md)
+* [Neo0™ Manifesto · Neodialectical Guiding Sovereignty](./manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
+* [Index of the eleven foundational manifestos](./manifiestos/README.md)
 * [Main bilingual README](./README.md)
 * [Bilingual LEEME](./LEEME.md)
-* [Foundational manifestos v1.0](./manifiestos/README.md)
 * [Public neodialectical analyses](./analisis/README.md)
 * [Works catalogue](./obras/README.md)
 * [IDEA · narrative gateway into the framework](./obras/idea/README.md)
@@ -59,16 +62,17 @@ The framework was originated and directed by **Pedro Martínez Alhambra · Neo0�
 
 ## Foundational pillars
 
-1. [Neodialectical Open Synthesis™](./manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md)
-2. [Neodialectics™ and the Common Good](./manifiestos/02_neodialectica_bien_comun_ES_EN.md)
-3. [Human–AI Symbiosis](./manifiestos/03_simbiosis_humano_ia_ES_EN.md)
-4. [Contribution Economy](./manifiestos/04_economia_del_aporte_ES_EN.md)
-5. [Open Social Engineering and Neodialectical Psychohistory](./manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md)
-6. [Memory, Genealogy and Traceability](./manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md)
-7. [WEB4™ · SistemaTrazable™](./manifiestos/07_web4_sistematrazable_ES_EN.md)
-8. [Human Neo-Renaissance](./manifiestos/08_neorrenacimiento_humano_ES_EN.md)
-9. [Systemic Parasitism](./manifiestos/09_parasitismo_sistemico_ES_EN.md)
-10. [The Egoless](./manifiestos/10_los_sin_ego_ES_EN.md)
+1. [Neo0™ · Neodialectical Guiding Sovereignty](./manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
+2. [Neodialectical Open Synthesis™](./manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md)
+3. [Neodialectics™ and the Common Good](./manifiestos/02_neodialectica_bien_comun_ES_EN.md)
+4. [Human–AI Symbiosis](./manifiestos/03_simbiosis_humano_ia_ES_EN.md)
+5. [Contribution Economy](./manifiestos/04_economia_del_aporte_ES_EN.md)
+6. [Open Social Engineering and Neodialectical Psychohistory](./manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md)
+7. [Memory, Genealogy and Traceability](./manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md)
+8. [WEB4™ · SistemaTrazable™](./manifiestos/07_web4_sistematrazable_ES_EN.md)
+9. [Human Neo-Renaissance](./manifiestos/08_neorrenacimiento_humano_ES_EN.md)
+10. [Systemic Parasitism](./manifiestos/09_parasitismo_sistemico_ES_EN.md)
+11. [The Egoless](./manifiestos/10_los_sin_ego_ES_EN.md)
 
 ---
 
