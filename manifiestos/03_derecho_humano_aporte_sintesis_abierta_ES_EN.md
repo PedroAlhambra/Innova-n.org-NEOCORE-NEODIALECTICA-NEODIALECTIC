@@ -257,18 +257,23 @@ La valoración futura deberá ser trazable, revisable, proporcional, resistente 
 
 Mientras se desarrollan WEB4™, SAN™ y los mecanismos propios de tokenización, el canal operativo inicial es GitHub.
 
-Las aportaciones se presentan mediante un **Issue público** utilizando la plantilla de Síntesis Abierta. Pueden adoptar cuatro formas principales:
+Las aportaciones se presentan mediante un **Issue público** utilizando la plantilla de Síntesis Abierta. Pueden adoptar ocho formas principales:
 
 1. adhesión razonada;
 2. adhesión parcial;
 3. crítica u objeción;
-4. propuesta alternativa.
+4. propuesta alternativa;
+5. evidencia o fuente;
+6. experiencia directa;
+7. revisión o verificación;
+8. implementación, traducción o mejora técnica.
 
-Deben identificar el objeto, la tesis, el conocimiento o experiencia aportados, el delta propuesto, las fuentes, los riesgos, la autorización de cita y cualquier uso material de IA.
+Deben identificar el objeto, la tesis, la lectura realizada, el conocimiento o experiencia aportados, el delta propuesto, las fuentes, los riesgos, la autorización de cita y cualquier uso material de IA.
 
+* [Abrir la Síntesis Abierta de este manifiesto · Issue #3](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3)
 * [Protocolo operativo actual para aportar](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [Plantilla de aporte mediante GitHub](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
 * [Índice de propuestas y síntesis abiertas](../propuestas/sintesis-abierta/README.md)
-* [Ejemplo público actualmente abierto · Issue #2](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/2)
 
 ## XII. Proclamación
 
@@ -543,18 +548,23 @@ Future valuation must be traceable, reviewable, proportional, resistant to manip
 
 While WEB4™, SAN™ and the framework’s own tokenisation mechanisms are being developed, GitHub is the initial operational channel.
 
-Contributions are submitted through a **public Issue** using the Open Synthesis template. They may take four principal forms:
+Contributions are submitted through a **public Issue** using the Open Synthesis template. They may take eight principal forms:
 
 1. reasoned endorsement;
 2. partial endorsement;
 3. criticism or objection;
-4. alternative proposal.
+4. alternative proposal;
+5. evidence or source;
+6. direct experience;
+7. review or verification;
+8. implementation, translation or technical improvement.
 
-They must identify the object, thesis, contributed knowledge or experience, proposed delta, sources, risks, permission to quote and any material use of AI.
+They must identify the object, thesis, prior reading, contributed knowledge or experience, proposed delta, sources, risks, permission to quote and any material use of AI.
 
+* [Open the Open Synthesis of this manifesto · Issue #3](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3)
 * [Current operational protocol for contributing](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [GitHub contribution template](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
 * [Index of proposals and open syntheses](../propuestas/sintesis-abierta/README.md)
-* [Public example currently open · Issue #2](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/2)
 
 ## XII. Proclamation
 
