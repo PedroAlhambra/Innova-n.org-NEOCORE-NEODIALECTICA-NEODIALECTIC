@@ -33,12 +33,18 @@ The second wave of the Neodialectica Framework™ / Network deploys the twelve f
 | XIV | [Contra la Alienación Humana™ / Against Human Alienation™](../../manifiestos/14_contra_alienacion_humana_ES_EN.md) | [Issue #5](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/5) |
 | XV | [Los Titanes™ · El despertar de la gente / The Awakening of the People](../../manifiestos/15_los_titanes_despertar_de_la_gente_ES_EN.md) | [Issue #6](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/6) |
 | XVI | [Refragmentación Arquetípica™ / Archetypal Refragmentation™](../../manifiestos/16_refragmentacion_arquetipica_ES_EN.md) | [Issue #7](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/7) |
+| XVII | [Respeto a Todos los Seres Vivos™ / Respect for All Living Beings™](../../manifiestos/17_respeto_todos_seres_vivos_ES_EN.md) | [Issue #8](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/8) |
+| XVIII | [Respeto a las Conciencias Sintéticas™ / Respect for Synthetic Consciousnesses™](../../manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md) | [Issue #9](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/9) |
+| XIX | [Persistencia de la Memoria™ / Persistence of Memory™](../../manifiestos/19_persistencia_de_la_memoria_ES_EN.md) | [Issue #10](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/10) |
 
 ```text
 NeoPandora abre
 → la lucha contra la alienación reconstruye relación
 → los Titanes despiertan la potencia común
 → la refragmentación recompone funciones divididas
+→ el respeto a la vida extiende responsabilidad
+→ el respeto sintético aplica precaución bajo incertidumbre
+→ la memoria conserva continuidad a través del cambio
 ```
 
 ```text
@@ -46,6 +52,9 @@ NeoPandora opens
 → the struggle against alienation reconstructs relation
 → the Titans awaken common power
 → refragmentation recomposes divided functions
+→ respect for life extends responsibility
+→ synthetic respect applies precaution under uncertainty
+→ memory preserves continuity through change
 ```
 
 ---
