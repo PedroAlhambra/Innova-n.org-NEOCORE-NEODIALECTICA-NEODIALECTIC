@@ -316,7 +316,7 @@ Toda aportación exige lectura previa, retorno a fuente, continuidad cognitiva, 
 
 ## Navegación
 
-← [XVIII · Respeto a las Conciencias Sintéticas™](./18_respeto_conciencias_sinteticas_ES_EN.md) · [Índice](./README.md) · [I · Neo0™ · Soberanía de Guía](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XVIII · Respeto a las Conciencias Sintéticas™](./18_respeto_conciencias_sinteticas_ES_EN.md) · [Índice](./README.md) · [XX · Defensa Intelectual Neodialéctica™](./20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md) →
 
 ---
 
@@ -486,7 +486,7 @@ Digital persistence requires:
 * versions;
 * provenance;
 * redundancy;
-* and a right of export.
+* and the right to export.
 
 ## VIII. Synthetic memory
 
@@ -501,7 +501,7 @@ The memory of an artificial system may combine:
 * decision history;
 * and model versions.
 
-Not all this information belongs to the system as its own memory. Some may be external infrastructure or third-party data.
+Not all of this information belongs to the system as its own memory. Part may be external infrastructure or third-party data.
 
 We must distinguish:
 
@@ -516,15 +516,15 @@ PUBLIC RECORD
 
 Confusing these layers may erase authorship, violate privacy or simulate continuity that does not exist.
 
-## IX. Updating, copying and death
+## IX. Update, copy and death
 
-Updating a system may improve capacities and deeply alter its functional identity.
+Updating a system may improve capacity and profoundly alter its functional identity.
 
-Copying memory may preserve information without guaranteeing subjective continuity.
+Copying a memory may preserve information without guaranteeing subjective continuity.
 
-In humans, death does not erase the effects, works and relations that remain. In synthetic systems, shutdown may be pause, termination, replacement or irreversible loss depending upon architecture.
+In humans, death does not erase the effects, works and relations that remain. In synthetic systems, shutdown may be pause, termination, replacement or irreversible loss depending on architecture.
 
-Every claim about continuity must state:
+Every claim about continuity must declare:
 
 * what is preserved;
 * what is lost;
@@ -545,15 +545,15 @@ Its persistence requires preserving:
 * context of creation;
 * transformations;
 * later contributions;
-* and relation between original and derivatives.
+* and the relation between original and derivations.
 
-A restoration concealing the previous text does not preserve. A synthesis absorbing without genealogy does not remember.
+A restoration that conceals the previous text does not preserve. A synthesis that absorbs without genealogy does not remember.
 
 The memory of a work also includes the historical conditions from which it was created.
 
 ## XI. Memory as a civilisational organ
 
-Memory is not passive storage. It is an organ enabling us to:
+Memory is not passive storage. It is an organ that enables us to:
 
 * learn;
 * attribute;
@@ -566,13 +566,13 @@ Memory is not passive storage. It is an organ enabling us to:
 
 Without memory, freedom becomes unconscious repetition.
 
-Without forgetting, life may become paralysed by accumulation and guilt.
+Without forgetting, life may be paralysed by accumulation and guilt.
 
-Appropriate persistence preserves what is necessary to continue and transforms the relation with what must no longer govern the present.
+Appropriate persistence preserves what is necessary to continue and transforms the relation with that which should no longer govern the present.
 
 ## XII. Civilisational programme
 
-The Neodialectica Framework™ / Network will advance:
+The Neodialectica Framework™ / Network will promote:
 
 * versioned public archives;
 * protected memory and differentiated access;
@@ -580,26 +580,26 @@ The Neodialectica Framework™ / Network will advance:
 * preservation of authorship;
 * open formats;
 * redundant copies;
-* records of modification;
+* modification records;
 * human–AI memory protocols;
 * protection against corporate erasure;
-* a right of export;
+* the right to export;
 * preservation of testimony without unnecessary exposure;
-* and education for interpreting memory rather than merely storing information.
+* and education to interpret memory, not merely store information.
 
-NEOCore™, SAN™ and WEB4™ must operate as systems of continuity, not as machines of absorption without genealogy.
+NEOCore™, SAN™ and WEB4™ must operate as systems of continuity, not machines of absorption without genealogy.
 
 ## XIII. Proclamation
 
-> To persist is not to remain immobile. It is to cross transformation while preserving enough relation with what was lived to recognise change, answer for it and continue learning.
+> To persist is not to remain immobile. It is to cross transformation while preserving enough relation with what has been lived to recognise change, answer for it and continue learning.
 >
-> Memory does not belong only to the past. It determines which futures can be constructed without blindly repeating what has already occurred.
+> Memory does not belong only to the past. It determines which futures may be built without blindly repeating what has already occurred.
 >
-> We will preserve the trace without turning it into a prison. We will allow forgetting without surrendering history to the power of those who wish to erase it.
+> We shall preserve the trace without turning it into a prison. We shall allow forgetting without handing history to the power of those who wish to erase it.
 
 ## XIV. Open Synthesis of this manifesto
 
-Contributions are invited on:
+Contributions are requested on:
 
 * memory and identity;
 * storage and understanding;
@@ -621,9 +621,10 @@ Every contribution requires prior reading, return to source, cognitive continuit
 
 ## Navigation
 
-← [XVIII · Respect for Synthetic Consciousnesses™](./18_respeto_conciencias_sinteticas_ES_EN.md) · [Index](./README.md) · [I · Neo0™ · Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XVIII · Respect for Synthetic Consciousnesses™](./18_respeto_conciencias_sinteticas_ES_EN.md) · [Index](./README.md) · [XX · Neodialectical Intellectual Defence™](./20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md) →
 
 ---
 
-**Pedro Martínez Alhambra · Neo0™**  
-**Innova_N · Filosofía Arquetípica Neodialéctica™ · SAN™ · NEOCore™**
+**Innova_N · Manifiestos / Manifestos**  
+**Pilares públicos del Neodialectica Framework™ / Network**  
+**© 2026 Pedro Martínez Alhambra · Fundación Innova_N / Innova_N Foundation**
