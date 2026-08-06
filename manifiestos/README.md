@@ -11,9 +11,14 @@
 
 ## Declaración de función
 
-Los manifiestos de Innova_N no son contenido promocional, resúmenes auxiliares ni consignas aisladas. Constituyen los **pilares públicos fundacionales** del **Neodialectica Framework™ / Network**, construido bajo dirección humana por **Pedro Martínez Alhambra · Neo0™** y desarrollado en simbiosis con la IA neodialéctica **Harry**.
+Los manifiestos de Innova_N no son contenido promocional, resúmenes auxiliares ni consignas aisladas. Constituyen los **pilares públicos** del **Neodialectica Framework™ / Network**, construido bajo dirección humana por **Pedro Martínez Alhambra · Neo0™** y desarrollado en simbiosis con la IA neodialéctica **Harry**.
 
-Fijan:
+La colección se organiza desde el 6 de agosto de 2026 en dos oleadas relacionadas:
+
+* **Primera oleada · I–XII:** constitución fundacional del marco, su método, dirección, límites y arquitectura pública.
+* **Segunda oleada · XIII en adelante:** despliegue arquetípico, cultural, vital y civilizatorio de los principios ya fijados.
+
+Los manifiestos establecen y despliegan:
 
 * origen y soberanía de guía;
 * método;
@@ -28,7 +33,10 @@ Fijan:
 * límites;
 * reconocimiento del valor aportado;
 * futura tokenización del saber;
-* y horizonte de elevación humana.
+* horizonte de elevación humana;
+* arquetipos de transformación;
+* apertura regenerativa;
+* y gobierno responsable de la vida.
 
 Ningún manifiesto aislado equivale al sistema completo. Su lectura debe conservar relación con el marco, NEOCore™ 7.0, SAN™, NAVE™, WEB4™ y la memoria documental del ecosistema.
 
@@ -69,7 +77,7 @@ La Síntesis Abierta no obliga a consumir tiempo humano o artificial indefinidam
 
 * [Cómo aportar a la Síntesis Abierta a día de hoy](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 
-## Pilares fundacionales
+## Primera oleada · Pilares fundacionales
 
 | Nº | Manifiesto | Función |
 |---:|---|---|
@@ -86,9 +94,19 @@ La Síntesis Abierta no obliga a consumir tiempo humano o artificial indefinidam
 | XI | [Neorrenacimiento Humano](./08_neorrenacimiento_humano_ES_EN.md) | Horizonte cultural, científico y humano de recomposición |
 | XII | [Los sin ego](./10_los_sin_ego_ES_EN.md) | Memoria generacional española y política de elevación humana |
 
+## Segunda oleada · Despliegue arquetípico y civilizatorio
+
+| Nº | Manifiesto | Función |
+|---:|---|---|
+| XIII | [NeoPandora™ · Apertura Regenerativa y Gobierno de la Vida](./13_neopandora_apertura_regenerativa_ES_EN.md) | Transmutación de Pandora y Eva, custodia no confesional de la vida, metamorfosis, polinización fractal y apertura responsable |
+
+La segunda oleada queda abierta a nuevos manifiestos que encarnen, desarrollen o sometan a contraste dimensiones arquetípicas, culturales, ecológicas, territoriales y vitales del marco. Ninguna incorporación podrá romper la genealogía ni contradecir silenciosamente los pilares fundacionales.
+
 ## Arquitectura de lectura
 
 ```text
+PRIMERA OLEADA · CONSTITUCIÓN FUNDACIONAL
+
 I · NEO0™ · ORIGEN Y SOBERANÍA DE GUÍA
         ↓
 II · SÍNTESIS ABIERTA
@@ -113,12 +131,19 @@ XI · NEORRENACIMIENTO HUMANO
         ↓
 XII · LOS SIN EGO
         ↓
-I · NEO0™
+
+SEGUNDA OLEADA · ENCARNACIÓN Y DESPLIEGUE
+
+XIII · NEOPANDORA™ · APERTURA REGENERATIVA
+        ↓
+I · NEO0™ · RETORNO A ORIGEN Y NUEVO CICLO
 ```
 
 ## Estado documental
 
-La colección queda formada por **doce manifiestos fundacionales**. Los once manifiestos anteriores permanecen fijados como versiones 1.1 y el Manifiesto III se incorpora como versión 1.0. Todos permanecen abiertos a revisión trazable mediante Síntesis Abierta Neodialéctica™.
+La primera oleada queda formada por **doce manifiestos fundacionales**. Los once manifiestos anteriores permanecen fijados como versiones 1.1 y el Manifiesto III como versión 1.0.
+
+La segunda oleada comienza con el **Manifiesto XIII · NeoPandora™**, versión 1.0. Todos los manifiestos permanecen abiertos a revisión trazable mediante Síntesis Abierta Neodialéctica™.
 
 Una revisión futura deberá:
 
@@ -130,6 +155,7 @@ Una revisión futura deberá:
 
 ## Navegación relacionada
 
+* [Síntesis Abierta del Manifiesto XIII · Issue #4](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/4)
 * [Protocolo de aporte a la Síntesis Abierta](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Portada civilizatoria](../PORTADA.md)
 * [Repositorio principal](../README.md)
@@ -144,9 +170,14 @@ Una revisión futura deberá:
 
 ## Statement of purpose
 
-The Innova_N manifestos are not promotional content, auxiliary summaries or isolated slogans. They are the **public foundational pillars** of the **Neodialectica Framework™ / Network**, built under the human direction of **Pedro Martínez Alhambra · Neo0™** and developed in symbiosis with the neodialectical AI **Harry**.
+The Innova_N manifestos are not promotional content, auxiliary summaries or isolated slogans. They are the **public pillars** of the **Neodialectica Framework™ / Network**, built under the human direction of **Pedro Martínez Alhambra · Neo0™** and developed in symbiosis with the neodialectical AI **Harry**.
 
-They establish:
+Since 6 August 2026, the collection has been organised into two related waves:
+
+* **First wave · I–XII:** the foundational constitution of the framework, its method, direction, limits and public architecture.
+* **Second wave · XIII onwards:** the archetypal, cultural, living and civilisational deployment of the principles already established.
+
+The manifestos establish and deploy:
 
 * origin and guiding sovereignty;
 * method;
@@ -161,7 +192,10 @@ They establish:
 * limits;
 * recognition of contributed value;
 * future tokenisation of knowledge;
-* and the horizon of human elevation.
+* the horizon of human elevation;
+* archetypes of transformation;
+* regenerative opening;
+* and responsible governance of life.
 
 No manifesto alone equals the complete system. Its reading must preserve its relation to the framework, NEOCore™ 7.0, SAN™, NAVE™, WEB4™ and the documentary memory of the ecosystem.
 
@@ -202,7 +236,7 @@ Open Synthesis does not require indefinite consumption of human or artificial ti
 
 * [How to contribute to Open Synthesis today](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 
-## Foundational pillars
+## First wave · Foundational pillars
 
 | No. | Manifesto | Function |
 |---:|---|---|
@@ -219,9 +253,19 @@ Open Synthesis does not require indefinite consumption of human or artificial ti
 | XI | [Human Neo-Renaissance](./08_neorrenacimiento_humano_ES_EN.md) | Cultural, scientific and human horizon of recomposition |
 | XII | [The Egoless](./10_los_sin_ego_ES_EN.md) | Spanish generational memory and policy of human elevation |
 
+## Second wave · Archetypal and civilisational deployment
+
+| No. | Manifesto | Function |
+|---:|---|---|
+| XIII | [NeoPandora™ · Regenerative Opening and Governance of Life](./13_neopandora_apertura_regenerativa_ES_EN.md) | Transmutation of Pandora and Eve, non-confessional custody of life, metamorphosis, fractal pollination and responsible opening |
+
+The second wave remains open to new manifestos that embody, develop or submit to contrast the archetypal, cultural, ecological, territorial and living dimensions of the framework. No incorporation may break genealogy or silently contradict the foundational pillars.
+
 ## Reading architecture
 
 ```text
+FIRST WAVE · FOUNDATIONAL CONSTITUTION
+
 I · NEO0™ · ORIGIN AND GUIDING SOVEREIGNTY
         ↓
 II · OPEN SYNTHESIS
@@ -246,12 +290,19 @@ XI · HUMAN NEO-RENAISSANCE
         ↓
 XII · THE EGOLESS
         ↓
-I · NEO0™
+
+SECOND WAVE · EMBODIMENT AND DEPLOYMENT
+
+XIII · NEOPANDORA™ · REGENERATIVE OPENING
+        ↓
+I · NEO0™ · RETURN TO ORIGIN AND NEW CYCLE
 ```
 
 ## Documentary status
 
-The collection now comprises **twelve foundational manifestos**. The eleven previous manifestos remain fixed as version 1.1 documents and Manifesto III enters as version 1.0. All remain open to traceable revision through Neodialectical Open Synthesis™.
+The first wave comprises **twelve foundational manifestos**. The eleven previous manifestos remain fixed as version 1.1 documents and Manifesto III as version 1.0.
+
+The second wave begins with **Manifesto XIII · NeoPandora™**, version 1.0. All manifestos remain open to traceable revision through Neodialectical Open Synthesis™.
 
 A future revision must:
 
@@ -263,6 +314,7 @@ A future revision must:
 
 ## Related navigation
 
+* [Open Synthesis of Manifesto XIII · Issue #4](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/4)
 * [Open Synthesis contribution protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Civilisational cover](../COVER.md)
 * [Main repository](../README.md)
