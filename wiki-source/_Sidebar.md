@@ -11,7 +11,7 @@
 
 ## Manifiestos / Manifestos
 
-* [Índice I–XIX](Manifiestos)
+* [Índice I–XXIV](Manifiestos)
 * [Repositorio canónico](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
 * [Síntesis Abierta](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/README.md)
 
@@ -24,6 +24,14 @@
 * [XVII · Seres Vivos](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/17_respeto_todos_seres_vivos_ES_EN.md)
 * [XVIII · Conciencias Sintéticas](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md)
 * [XIX · Persistencia de la Memoria](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/19_persistencia_de_la_memoria_ES_EN.md)
+
+### Tercera oleada / Third wave
+
+* [XX · Defensa Intelectual · Umbral-X™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
+* [XXI · Reconocimiento Neodialéctico™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/21_reconocimiento_neodialectico_ES_EN.md)
+* [XXII · Reducción y Captura Intelectual](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md)
+* [XXIII · Soberanía del Tiempo Cognitivo](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md)
+* [XXIV · Evolución Neorrenacentista y Resistencias](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md)
 
 ## Análisis y auditorías / Analyses and audits
 
