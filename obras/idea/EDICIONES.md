@@ -3,7 +3,7 @@
 **Autor / Author:** Pedro Martínez Alhambra  
 **Primera edición pública / First public edition:** 2026  
 **Idiomas publicados / Published languages:** 12  
-**Última actualización / Last updated:** 2026-08-05
+**Última actualización / Last updated:** 2026-08-06
 
 [Perfil de autor en Amazon / Amazon Author Page](https://www.amazon.es/stores/Pedro-Mart%C3%ADnez-Alhambra/author/B0HC3TWRZ7)
 
@@ -72,13 +72,13 @@ The paperback-specific ASIN is not published while it remains unverified.
 
 | Formato / Format | ASIN | Estado / Status | Enlace / Link |
 | --- | --- | --- | --- |
-| eBook | `B0HCRHFMRG` | Publicado · Published | [Abrir / Open](https://www.amazon.es/dp/B0HCRHFMRG) |
-| Tapa blanda · Paperback | `B0HCVSX23V` | Publicado · Published | [Abrir / Open](https://www.amazon.es/dp/B0HCVSX23V) |
-| Tapa dura · Hardcover | `B0HCRMCRPT` | Publicado con incidencia abierta · Published with active incident | [Abrir / Open](https://www.amazon.es/dp/B0HCRMCRPT) |
+| eBook | `B0HCRHFMRG` | Publicado y visible · Published and visible | [Abrir / Open](https://www.amazon.es/dp/B0HCRHFMRG) |
+| Tapa dura · Hardcover | `B0HCRMCRPT` | Publicada y visible tras republicación · Published and visible after republication | [Abrir / Open](https://www.amazon.de/dp/B0HCRMCRPT) |
+| Tapa blanda · Paperback | `B0HCVSX23V` | Publicada en KDP, pero sin página pública visible todavía · Published in KDP, but no public product page visible yet | [Comprobar / Check](https://www.amazon.es/dp/B0HCVSX23V) |
 
-La incidencia de metadatos de idioma de la tapa dura finlandesa permanece abierta hasta confirmación oficial de KDP.
+KDP confirmó por correo el 6 de agosto de 2026 que la tapa dura volvió a estar disponible. La tapa blanda sigue registrada en KDP, pero su página de producto no aparece todavía de forma localizable y comprable. El caso de soporte `51071689` permanece abierto en la traza documental hasta que KDP verifique públicamente ambos ASIN y la corrección completa de metadatos.
 
-The Finnish hardcover language-metadata incident remains open until official KDP confirmation.
+KDP confirmed by email on 6 August 2026 that the hardcover was available again. The paperback remains registered in KDP, but its product page is still not publicly findable or normally purchasable. Support case `51071689` remains open in the documentary trace until KDP publicly verifies both ASINs and the complete metadata correction.
 
 ## Polaco / Polish
 
@@ -113,8 +113,10 @@ No unverified format or ASIN is attributed.
 
 * ASIN específico de la tapa blanda en noruego bokmål: pendiente de verificación.
 * Norwegian Bokmål paperback-specific ASIN: pending verification.
-* Tapa dura finlandesa: incidencia de metadatos de idioma abierta hasta confirmación oficial de KDP.
-* Finnish hardcover: language-metadata incident open until official KDP confirmation.
+* Tapa blanda finlandesa `B0HCVSX23V`: publicada en KDP, pero sin página pública visible todavía.
+* Finnish paperback `B0HCVSX23V`: published in KDP, but its public product page is not visible yet.
+* Caso KDP `51071689`: pendiente de confirmación sobre la asociación completa de ediciones, metadatos y elevación de mejoras a KDP y Author Central.
+* KDP case `51071689`: pending confirmation on complete edition linking, metadata and escalation of proposed improvements to KDP and Author Central.
 
 ## No publicado / Not published
 
@@ -130,6 +132,7 @@ The non-Bokmål Norwegian edition is not counted among the twelve published lang
 
 * **Página pública principal / Main public page:** [IDEA · 1997–2002 · Edición internacional 2026](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
 * **Nodo documental / Documentary node:** [obras/idea](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/tree/main/obras/idea)
+* **Auditoría indirecta pública / Public indirect audit:** [KDP, Author Central e IDEA](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 
 ---
 
