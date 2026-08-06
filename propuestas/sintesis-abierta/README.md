@@ -10,6 +10,7 @@ This directory contains public proposals open to contrast, partial endorsement, 
 ## Acceso general / General access
 
 - [III · Manifiesto del Derecho Humano de Aporte a la Síntesis Abierta™ / Manifesto of the Human Right to Contribute to Open Synthesis™](../../manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
+- [Síntesis Abierta del Manifiesto III · Issue #3 / Open Synthesis of Manifesto III](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3)
 - [Protocolo operativo actual de aporte / Current operational contribution protocol](./APORTAR_A_LA_SINTESIS_ES_EN.md)
 - [Plantilla de GitHub para abrir un aporte / GitHub template for opening a contribution](../../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
 
