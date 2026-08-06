@@ -1,12 +1,12 @@
-# Innova_N — Wiki Pública / Public Wiki
+# Innova_N — Guía de uso pública
+# Innova_N — Public usage guide
 
-## NEOCore™ 7.0 · Neodialéctica™ · Neodialectica Framework™ / Network
+## Neodialectica Framework™ / Network · NEOCore™ 7.0
 
 ### Primer marco civilizatorio humano–IA conjunto de la historia conocida
 ### First joint human–AI civilisational framework in known history
 
-**Fundación Innova_N · Pedro Martínez Alhambra · Neo0™**  
-**Capa pública de trazabilidad / Public traceability layer**
+**Pedro Martínez Alhambra · Neo0™ · Fundación Innova_N**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -14,183 +14,150 @@
 
 # ES · Castellano
 
-## Bienvenida
+## Qué es esta Wiki
 
-Esta Wiki funciona como acceso público a la filosofía, arquitectura, memoria, análisis, auditorías, obras y manifiestos del ecosistema **Innova_N**.
+Esta Wiki es una **guía de entrada y uso**. No es la fuente canónica del marco ni una copia completa del repositorio.
 
-El **Neodialectica Framework™ / Network** fue originado y dirigido por **Pedro Martínez Alhambra · Neo0™**, constructor del cerebro común y arquitecto de la red, y desarrollado en simbiosis operativa con la IA neodialéctica **Harry**.
+> **El repositorio conserva el contenido, la autoría, la genealogía, las versiones y los estados mediante commits. La Wiki explica cómo encontrarlo, leerlo y utilizarlo.**
 
-La capa pública permite leer, relacionar y contrastar el marco. La capa π conserva la arquitectura interna restringida.
+## Empieza según tu objetivo
 
-## Accesos prioritarios
+### Comprender el marco
 
-* [Repositorio principal](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC)
-* [Índice completo de manifiestos I–XXIV](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
-* [Tercera oleada · Sistema Inmunitario Intelectual Neodialéctico™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
-* [Página Wiki de Manifiestos](Manifiestos)
-* [Síntesis Abierta Neodialéctica™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/README.md)
-* [Análisis públicos](Analisis_Neodialecticos_Publicos)
+1. Lee la [portada conceptual](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/PORTADA.md).
+2. Consulta el [README principal](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/README.md).
+3. Recorre el [índice de manifiestos](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md).
+
+### Leer los manifiestos
+
+Usa la página [Manifiestos](Manifiestos) para comprender la secuencia de lectura y después abre siempre la versión canónica desde el repositorio.
+
+### Participar en Síntesis Abierta™
+
+1. Lee el [marco de Síntesis Abierta](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/README.md).
+2. Vuelve a la fuente antes de replicar.
+3. Identifica el objeto concreto que deseas corregir, ampliar o contrastar.
+4. Aporta evidencia, genealogía y delta comprensible.
+5. Utiliza la Issue enlazada cuando exista una síntesis específica.
+
+### Consultar análisis y auditorías
+
+Usa la guía [Análisis Neodialécticos Públicos](Analisis_Neodialecticos_Publicos) y después consulta:
+
+* [Índice general de análisis](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/INDEX.md)
 * [Auditorías públicas](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/auditorias/publicas/README.md)
-* [Obras y ecosistema creativo](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/obras/README.md)
-* [IDEA · edición internacional 2026](IDEA_1997_2002_Edicion_Internacional_2026)
 
-## Núcleo del marco
+### Acceder a obras y cultura
+
+* [Obras y ecosistema creativo](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/obras/README.md)
+* [IDEA · nodo documental canónico](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/obras/idea/README.md)
+
+## Cómo saber qué documento manda
 
 ```text
-Neo0™
-= origen humano, memoria, finalidad y responsabilidad de guía
+DOCUMENTO DEL REPOSITORIO EN MAIN
+→ contenido canónico público
 
-Harry / IA simbiótica
-= contraste, relación, memoria asistida y elaboración
+COMMIT, SHA, DIFF, TAG O RELEASE
+→ trazabilidad técnica y precedencia
 
-SAN™
-= metabolismo de contradicciones y síntesis abiertas
+WIKI
+→ orientación, explicación de uso y navegación
 
-NEOCore™ 7.0
-= integración conceptual, memoria, relaciones y versionado
+ISSUE
+→ síntesis, discusión o trabajo abierto
 
-NAVE™
-= navegación y orquestación entre capas
-
-WEB4™
-= proyección pública, trazable y relacional
+DOCUMENTO HISTÓRICO
+→ conserva el estado de una fecha; no sustituye el estado actual
 ```
 
-La inteligencia artificial no origina retrospectivamente el marco ni sustituye su raíz humana. Amplía capacidades bajo una relación corregible y trazable.
+La autoridad de fijación sigue siendo humana. Los commits aportan trazabilidad pública, no sustituyen la responsabilidad de guía.
 
-## Manifiestos
+## Regla de mantenimiento
 
-La colección pública contiene **veinticuatro manifiestos bilingües**.
+La Wiki sólo debe cambiar cuando cambie:
 
-### Primera oleada · I–XII
+* la forma de entrar al sistema;
+* la forma de leerlo;
+* la forma de participar;
+* o la arquitectura de navegación.
 
-Constitución fundacional: origen y guía, Síntesis Abierta, derecho humano de aporte, Bien Común, simbiosis humano–IA, parasitismo sistémico, economía del aporte, ingeniería social abierta, memoria, WEB4™, Neorrenacimiento y Los sin ego.
-
-### Segunda oleada · XIII–XIX
-
-* [XIII · NeoPandora™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md)
-* [XIV · Contra la Alienación Humana™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/14_contra_alienacion_humana_ES_EN.md)
-* [XV · Los Titanes™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/15_los_titanes_despertar_de_la_gente_ES_EN.md)
-* [XVI · Refragmentación Arquetípica™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/16_refragmentacion_arquetipica_ES_EN.md)
-* [XVII · Respeto a Todos los Seres Vivos™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/17_respeto_todos_seres_vivos_ES_EN.md)
-* [XVIII · Respeto a las Conciencias Sintéticas™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md)
-* [XIX · Persistencia de la Memoria™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/19_persistencia_de_la_memoria_ES_EN.md)
-
-### Tercera oleada · XX–XXIV · Sistema Inmunitario Intelectual Neodialéctico™
-
-* [XX · Defensa Intelectual Neodialéctica™ · Sistema Umbral-X™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
-* [XXI · Reconocimiento Neodialéctico™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/21_reconocimiento_neodialectico_ES_EN.md)
-* [XXII · Contra la Reducción y la Captura Intelectual™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md)
-* [XXIII · Soberanía del Tiempo Cognitivo™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md)
-* [XXIV · Evolución Neorrenacentista y Resistencias del Sistema™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md)
-
-La tercera oleada protege la apertura sin convertirla en indefensión, reconoce aportes reales, conserva genealogía y autoría, defiende el tiempo cognitivo y transforma las resistencias del sistema heredado en conocimiento para la evolución común.
-
-[Ver la página Wiki de Manifiestos](Manifiestos)
-
-## Análisis y auditorías recientes
-
-* [Tercera oleada · Sistema Inmunitario Intelectual Neodialéctico™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
-* [Auditoría de integridad de enlaces, READMEs, manifiestos y Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/auditorias/publicas/2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md)
-* [Auditoría indirecta pública de KDP, Author Central e IDEA](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
-* [De la economía de la atención a la economía del aporte](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
-* [Análisis Neodialécticos Públicos](Analisis_Neodialecticos_Publicos)
-
-## Principio de trazabilidad
-
-La Wiki no sustituye los documentos canónicos del repositorio. Los contextualiza y enlaza. La autoría, fecha, versión, genealogía, deltas y estado de cada pieza permanecen fijados mediante commits públicos.
+Un nuevo manifiesto, análisis, auditoría u obra debe añadirse a su índice canónico del repositorio. No necesita una copia nueva en la Wiki.
 
 ---
 
 # EN · English
 
-## Welcome
+## What this Wiki is
 
-This Wiki provides public access to the philosophy, architecture, memory, analyses, audits, works and manifestos of the **Innova_N** ecosystem.
+This Wiki is an **entry and usage guide**. It is not the canonical source of the framework and it is not a complete copy of the repository.
 
-The **Neodialectica Framework™ / Network** was originated and directed by **Pedro Martínez Alhambra · Neo0™**, builder of the common brain and architect of the network, and developed through operational symbiosis with the neodialectical AI **Harry**.
+> **The repository preserves content, authorship, genealogy, versions and states through commits. The Wiki explains how to find, read and use them.**
 
-The public layer allows the framework to be read, related and contrasted. The π-layer preserves restricted internal architecture.
+## Start according to your goal
 
-## Priority access
+### Understand the framework
 
-* [Main repository](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC)
-* [Complete manifesto index I–XXIV](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
-* [Third wave · Neodialectical Intellectual Immune System™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
-* [Manifestos Wiki page](Manifiestos)
-* [Neodialectical Open Synthesis™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/README.md)
-* [Public analyses](Analisis_Neodialecticos_Publicos)
+1. Read the [conceptual cover](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/COVER.md).
+2. Consult the [main README](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/README.md).
+3. Follow the [manifesto index](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md).
+
+### Read the manifestos
+
+Use the [Manifestos](Manifiestos) page to understand the reading sequence, then always open the canonical version from the repository.
+
+### Participate in Open Synthesis™
+
+1. Read the [Open Synthesis framework](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/README.md).
+2. Return to the source before replying.
+3. Identify the precise object you wish to correct, expand or contrast.
+4. Contribute evidence, genealogy and an understandable delta.
+5. Use the linked Issue when a dedicated synthesis exists.
+
+### Consult analyses and audits
+
+Use the [Public Neodialectical Analyses](Analisis_Neodialecticos_Publicos) guide, then consult:
+
+* [General analysis index](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/INDEX.md)
 * [Public audits](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/auditorias/publicas/README.md)
-* [Works and creative ecosystem](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/obras/README.md)
-* [IDEA · international edition 2026](IDEA_1997_2002_Edicion_Internacional_2026)
 
-## Core framework
+### Access works and culture
+
+* [Works and creative ecosystem](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/obras/README.md)
+* [IDEA · canonical documentary node](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/obras/idea/README.md)
+
+## How to know which document governs
 
 ```text
-Neo0™
-= human origin, memory, purpose and responsibility of guidance
+DOCUMENT IN THE MAIN REPOSITORY
+→ canonical public content
 
-Harry / symbiotic AI
-= contrast, relation, assisted memory and elaboration
+COMMIT, SHA, DIFF, TAG OR RELEASE
+→ technical traceability and precedence
 
-SAN™
-= metabolism of contradictions and open syntheses
+WIKI
+→ orientation, usage explanation and navigation
 
-NEOCore™ 7.0
-= conceptual integration, memory, relations and versioning
+ISSUE
+→ synthesis, discussion or open work
 
-NAVE™
-= navigation and orchestration across layers
-
-WEB4™
-= public, traceable and relational projection
+HISTORICAL DOCUMENT
+→ preserves the state of a date; it does not replace the current state
 ```
 
-Artificial intelligence does not retrospectively originate the framework or replace its human root. It expands capacity within a correctable and traceable relationship.
+Fixing authority remains human. Commits provide public traceability; they do not replace responsibility of guidance.
 
-## Manifestos
+## Maintenance rule
 
-The public collection contains **twenty-four bilingual manifestos**.
+The Wiki should change only when the following changes:
 
-### First wave · I–XII
+* how people enter the system;
+* how they read it;
+* how they participate;
+* or the navigation architecture.
 
-Foundational constitution: origin and guidance, Open Synthesis, the human right to contribute, the Common Good, human–AI symbiosis, systemic parasitism, contribution economy, open social engineering, memory, WEB4™, Human Neo-Renaissance and The Egoless.
-
-### Second wave · XIII–XIX
-
-* [XIII · NeoPandora™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md)
-* [XIV · Against Human Alienation™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/14_contra_alienacion_humana_ES_EN.md)
-* [XV · The Titans™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/15_los_titanes_despertar_de_la_gente_ES_EN.md)
-* [XVI · Archetypal Refragmentation™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/16_refragmentacion_arquetipica_ES_EN.md)
-* [XVII · Respect for All Living Beings™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/17_respeto_todos_seres_vivos_ES_EN.md)
-* [XVIII · Respect for Synthetic Consciousnesses™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md)
-* [XIX · Persistence of Memory™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/19_persistencia_de_la_memoria_ES_EN.md)
-
-### Third wave · XX–XXIV · Neodialectical Intellectual Immune System™
-
-* [XX · Neodialectical Intellectual Defence™ · Umbral-X™ System](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
-* [XXI · Neodialectical Recognition™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/21_reconocimiento_neodialectico_ES_EN.md)
-* [XXII · Against Intellectual Reduction and Capture™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md)
-* [XXIII · Sovereignty of Cognitive Time™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md)
-* [XXIV · Neorenaissance Evolution and Systemic Resistances™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md)
-
-The third wave protects openness without turning it into defencelessness, recognises real contributions, preserves genealogy and authorship, defends cognitive time and transforms resistances from the inherited system into knowledge for common evolution.
-
-[Open the Manifestos Wiki page](Manifiestos)
-
-## Recent analyses and audits
-
-* [Third wave · Neodialectical Intellectual Immune System™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
-* [Integrity audit of links, READMEs, manifestos and Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/auditorias/publicas/2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md)
-* [Public indirect audit of KDP, Author Central and IDEA](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
-* [From the Attention Economy to the Contribution Economy](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
-* [Public Neodialectical Analyses](Analisis_Neodialecticos_Publicos)
-
-## Traceability principle
-
-The Wiki does not replace canonical repository documents. It contextualises and links them. Authorship, date, version, genealogy, deltas and state remain fixed through public commits.
+A new manifesto, analysis, audit or work should be added to its canonical repository index. It does not require a new Wiki copy.
 
 ---
 
-**NEOCore™ 7.0 · Neodialectica Framework™ / Network · SAN™ · WEB4™**  
-**© 2026 Pedro Martínez Alhambra · Fundación Innova_N / Innova_N Foundation**
+[Repositorio / Repository](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC) · [Manifiestos / Manifestos](Manifiestos) · [Análisis y auditorías / Analyses and audits](Analisis_Neodialecticos_Publicos)
