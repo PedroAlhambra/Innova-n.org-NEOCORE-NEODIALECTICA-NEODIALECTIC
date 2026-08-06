@@ -5,7 +5,8 @@
 **Manifiesto / Manifesto:** XII  
 **Versión / Version:** 1.1  
 **Estado / Status:** Público · fundacional histórico-social · abierto a ampliación documental / Public · historical-social foundational · open to documentary expansion  
-**Fecha de fijación / Record date:** 2026-08-06
+**Fecha de fijación / Record date:** 2026-08-06  
+**Nota de versión / Version note:** La versión anteriormente publicada se conserva íntegramente en [10_los_sin_ego_ES_EN.md](./10_los_sin_ego_ES_EN.md). / The previously published version is preserved in full at [10_los_sin_ego_ES_EN.md](./10_los_sin_ego_ES_EN.md).
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
