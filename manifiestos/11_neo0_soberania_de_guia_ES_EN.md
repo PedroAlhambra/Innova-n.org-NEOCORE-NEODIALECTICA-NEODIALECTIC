@@ -293,6 +293,12 @@ It makes Open Synthesis possible without loss of origin, memory or direction.
 
 ---
 
+## Navegación / Navigation
+
+← [Los sin ego / The Egoless](./10_los_sin_ego_ES_EN.md) · [Índice / Index](./README.md) · [Síntesis Abierta Neodialéctica™ / Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md) →
+
+---
+
 **Neo0™ · Soberanía de guía · Cerebro común · Arquitectura de red**  
 **Neo0™ · Guiding sovereignty · Common brain · Network architecture**  
 **© 2026 Pedro Martínez Alhambra · Fundación Innova_N**
