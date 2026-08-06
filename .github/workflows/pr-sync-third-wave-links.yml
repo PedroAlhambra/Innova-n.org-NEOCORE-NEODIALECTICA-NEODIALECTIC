@@ -1,0 +1,93 @@
+name: PR third-wave link synchronisation
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths:
+      - .github/trigger-third-wave-sync-pr
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    if: github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout PR branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+          fetch-depth: 0
+
+      - name: Extract and run synchronisation transformations
+        shell: bash
+        run: |
+          set -euo pipefail
+          awk '
+            /^          from pathlib import Path$/ { capture=1 }
+            capture && /^          # Validation:/ { exit }
+            capture { sub(/^          /, ""); print }
+          ' .github/workflows/one-shot-sync-third-wave-links-20260806.yml > /tmp/sync_third_wave.py
+          python3 -m py_compile /tmp/sync_third_wave.py
+          python3 /tmp/sync_third_wave.py
+
+      - name: Validate third-wave navigation
+        shell: bash
+        run: |
+          set -euo pipefail
+          grep -q 'Índice navegable de manifiestos I–XXIV' README.md
+          grep -q 'Navigable manifesto index I–XXIV' LEEME.md
+          grep -q 'Tercera oleada · Sistema Inmunitario Intelectual Neodialéctico' README.md
+          grep -q 'Third wave · Neodialectical Intellectual Immune System' LEEME.md
+          grep -q '20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md' manifiestos/19_persistencia_de_la_memoria_ES_EN.md
+          grep -q '11_neo0_soberania_de_guia_ES_EN.md' manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md
+          for issue in 13 14 15 16 17; do
+            grep -q "/issues/${issue}" propuestas/sintesis-abierta/README.md
+            grep -q "/issues/${issue}" manifiestos/README.md
+          done
+          live=(README.md LEEME.md PORTADA.md COVER.md manifiestos/README.md propuestas/sintesis-abierta/README.md wiki-source/Home.md wiki-source/Manifiestos.md wiki-source/_Sidebar.md wiki-source/README.md)
+          if grep -n 'I–XIX' "${live[@]}"; then
+            echo 'Stale I–XIX reference remains in a live index' >&2
+            exit 1
+          fi
+          git diff --check
+
+      - name: Commit synchronisation to PR branch and remove temporary machinery
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'Innova_N Sync'
+          git config user.email 'actions@users.noreply.github.com'
+          git rm .github/workflows/one-shot-sync-third-wave-links-20260806.yml
+          git rm .github/workflows/one-shot-dispatch-third-wave-links.yml
+          git rm .github/workflows/pr-sync-third-wave-links.yml
+          git rm .github/trigger-third-wave-sync
+          git rm .github/trigger-third-wave-sync-pr
+          git add README.md LEEME.md PORTADA.md COVER.md manifiestos wiki-source propuestas/sintesis-abierta/README.md
+          git diff --cached --check
+          git commit -m 'docs(manifestos): synchronise third-wave links and navigation'
+          git push origin HEAD:${{ github.event.pull_request.head.ref }}
+
+      - name: Synchronise public Wiki from updated source
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          rm -rf /tmp/innova-wiki
+          git clone -q "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.wiki.git" /tmp/innova-wiki
+          cp wiki-source/Home.md /tmp/innova-wiki/Home.md
+          cp wiki-source/Manifiestos.md /tmp/innova-wiki/Manifiestos.md
+          cp wiki-source/_Sidebar.md /tmp/innova-wiki/_Sidebar.md
+          cd /tmp/innova-wiki
+          git config user.name 'Innova_N Wiki Sync'
+          git config user.email 'actions@users.noreply.github.com'
+          git add Home.md Manifiestos.md _Sidebar.md
+          git diff --cached --check
+          if git diff --cached --quiet; then
+            echo 'Wiki already synchronised'
+          else
+            git commit -m 'docs: synchronise third-wave manifesto links'
+            git push origin HEAD:master || git push origin HEAD:main
+          fi
