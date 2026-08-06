@@ -48,12 +48,12 @@ Actualmente funciona como puerta de entrada narrativa a la Neodialéctica, sin a
 
 ---
 
-## Posición pública
+## Posición pública y fuente canónica
 
-* **Página pública canónica:** [IDEA · 1997–2002 · Edición internacional 2026](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026).
+* **Nodo documental canónico:** este archivo `obras/idea/README.md`, versionado mediante commits en el repositorio principal.
+* **Página Wiki:** guía de orientación y acceso; no sustituye los datos, estados ni documentos canónicos del repositorio.
 * **WEB4™ · Capa pública SistemaTrazable™:** obra literaria integrada en el ecosistema creativo y cultural.
 * **Capa personal y autoral:** obra de Pedro Martínez Alhambra dentro de sus creaciones originales.
-* **Directorio `obras/idea`:** nodo documental complementario, metadatos y enlaces verificables.
 * **Amazon:** distribución comercial de las ediciones publicadas.
 
 La incorporación de IDEA al ecosistema actual no modifica su fecha, su contexto de creación ni su genealogía.
@@ -87,10 +87,20 @@ IDEA está disponible actualmente en doce idiomas, con ediciones digitales e imp
 * [Finlandés · tapa blanda · `B0HCVSX23V`](https://www.amazon.es/dp/B0HCVSX23V)
 * [Finlandés · tapa dura · `B0HCRMCRPT`](https://www.amazon.es/dp/B0HCRMCRPT)
 
-### Incidencias activas
+### Estado actualizado · 6 de agosto de 2026
 
-* **Finlandés · tapa dura:** mantiene una incidencia de metadatos de idioma mientras KDP no confirme la corrección.
+* KDP y Author Central confirmaron por escrito la asociación correcta con la Página de Autor de los formatos publicados de IDEA en doce idiomas.
+* El autor verificó la corrección de las asociaciones e idiomas mostrados. La incidencia de idioma y asociación de la edición finlandesa se considera **operativamente resuelta**.
+* La disponibilidad de una edición concreta puede variar por formato y marketplace; los enlaces comerciales deben comprobarse en Amazon en el momento de la consulta.
 * **Noruego no bokmål:** todavía no publicado y no incluido en la cifra actual.
+* **Japonés:** edición en preparación; no se considera una incidencia de asociación.
+
+### Auditoría y aprendizaje derivados
+
+* [Caso de éxito · auditoría gratuita a Amazon KDP y Author Central](../../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+* [Auditoría indirecta pública de origen](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
+
+La publicación internacional de IDEA permitió detectar incoherencias, obtener una corrección verificable y trasladar propuestas de mejora recibidas positivamente por KDP.
 
 ---
 
@@ -105,19 +115,17 @@ IDEA está disponible actualmente en doce idiomas, con ediciones digitales e imp
 
 ## Enlaces públicos
 
-### Referencia pública canónica
+### Fuentes canónicas del repositorio
 
-* [IDEA · 1997–2002 · Edición internacional 2026](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
-
-### Documentación complementaria de la obra
-
+* [Este nodo documental de IDEA](./README.md)
 * [Ediciones internacionales](./EDICIONES.md)
 * [Metadatos públicos](./METADATA.json)
 * [Registro de enlaces](./LINKS.json)
 * [Kit público ES/EN](./PRESS_KIT_ES_EN.md)
 
-### Relaciones dentro del ecosistema
+### Orientación y relaciones dentro del ecosistema
 
+* [Página de orientación de IDEA en la Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
 * [WEB4™ · Capa pública SistemaTrazable™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Web4_Public_Layer)
 * [Ecosistema creativo y cultural](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Ecosistema_Creativo_y_Cultural)
 * [Creaciones originales del autor](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Creaciones_Originales_del_Autor)
@@ -182,12 +190,12 @@ It now functions as a narrative gateway into Neodialectics without altering its 
 
 ---
 
-## Public position
+## Public position and canonical source
 
-* **Canonical public page:** [IDEA · 1997–2002 · 2026 international edition](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026).
+* **Canonical documentary node:** this `obras/idea/README.md` file, versioned through commits in the main repository.
+* **Wiki page:** an orientation and access guide; it does not replace canonical repository data, states or documents.
 * **WEB4™ · SistemaTrazable™ Public Layer:** literary work within the creative and cultural ecosystem.
 * **Personal and authorial layer:** a work by Pedro Martínez Alhambra within his original creations.
-* **`obras/idea` directory:** complementary documentary node, metadata and verifiable links.
 * **Amazon:** commercial distribution of the published editions.
 
 The integration of IDEA into the current ecosystem does not alter its date, original context or genealogy.
@@ -221,10 +229,20 @@ IDEA is currently available in twelve languages, in digital and print editions d
 * [Finnish · paperback · `B0HCVSX23V`](https://www.amazon.es/dp/B0HCVSX23V)
 * [Finnish · hardcover · `B0HCRMCRPT`](https://www.amazon.es/dp/B0HCRMCRPT)
 
-### Active incidents
+### Updated status · 6 August 2026
 
-* **Finnish · hardcover:** a language-metadata incident remains active until KDP confirms the correction.
+* KDP and Author Central confirmed in writing the correct association with the Author Page of published IDEA formats in twelve languages.
+* The author verified the corrected associations and displayed languages. The Finnish language and association incident is considered **operationally resolved**.
+* Availability of a specific edition may vary by format and marketplace; commercial links should be checked on Amazon at the time of consultation.
 * **Non-Bokmål Norwegian:** not yet published and not included in the current total.
+* **Japanese:** edition in preparation; this is not treated as an association incident.
+
+### Derived audit and learning
+
+* [Success case · free audit for Amazon KDP and Author Central](../../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+* [Originating public indirect audit](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
+
+The international publication of IDEA made it possible to detect inconsistencies, achieve a verifiable correction and submit improvement proposals positively received by KDP.
 
 ---
 
@@ -239,19 +257,17 @@ IDEA is currently available in twelve languages, in digital and print editions d
 
 ## Public links
 
-### Canonical public reference
+### Canonical repository sources
 
-* [IDEA · 1997–2002 · 2026 international edition](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
-
-### Complementary work documentation
-
+* [This IDEA documentary node](./README.md)
 * [International editions](./EDICIONES.md)
 * [Public metadata](./METADATA.json)
 * [Link register](./LINKS.json)
-* [Public kit ES/EN](./PRESS_KIT_ES_EN.md)
+* [Public ES/EN kit](./PRESS_KIT_ES_EN.md)
 
-### Ecosystem relations
+### Orientation and ecosystem relations
 
+* [IDEA orientation page in the Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
 * [WEB4™ · SistemaTrazable™ Public Layer](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Web4_Public_Layer)
 * [Creative and cultural ecosystem](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Ecosistema_Creativo_y_Cultural)
 * [Original creations of the author](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Creaciones_Originales_del_Autor)
