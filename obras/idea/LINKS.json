@@ -1,6 +1,6 @@
 {
   "schema": "innova_n.public_links.v2",
-  "recorded_at": "2026-08-05",
+  "recorded_at": "2026-08-07",
   "work": {
     "title": "IDEA",
     "author": "Pedro Martínez Alhambra",
@@ -12,10 +12,13 @@
     "amazon_author_url": "https://www.amazon.es/stores/Pedro-Mart%C3%ADnez-Alhambra/author/B0HC3TWRZ7"
   },
   "public_nodes": {
-    "canonical_public_page": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026",
+    "canonical_repository_node": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/obras/idea/README.md",
     "documentary_repository": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/tree/main/obras/idea",
+    "wiki_orientation_page": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026",
     "cultural_wiki": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Ecosistema_Creativo_y_Cultural",
     "authorial_wiki": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Creaciones_Originales_del_Autor",
+    "success_case": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md",
+    "originating_audit": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md",
     "innova_n": "https://innova-n.org"
   },
   "editions": [
@@ -182,7 +185,8 @@
       "label_en": "Finnish · paperback",
       "asin": "B0HCVSX23V",
       "url": "https://www.amazon.es/dp/B0HCVSX23V",
-      "status": "published"
+      "status": "published",
+      "availability": "marketplace_dependent"
     },
     {
       "language_code": "fi",
@@ -192,7 +196,7 @@
       "asin": "B0HCRMCRPT",
       "url": "https://www.amazon.es/dp/B0HCRMCRPT",
       "status": "published",
-      "incident_status": "open_language_metadata_incident_pending_official_kdp_confirmation"
+      "incident_status": "operationally_resolved_2026-08-06"
     },
     {
       "language_code": "pl",
@@ -205,6 +209,18 @@
       "verification": "format_and_asin_unverified"
     }
   ],
+  "resolved": [
+    {
+      "scope": "fi_language_and_format_association",
+      "status": "operationally_resolved",
+      "confirmed_at": "2026-08-06"
+    },
+    {
+      "scope": "author_central_association_12_languages",
+      "status": "confirmed_in_writing",
+      "confirmed_at": "2026-08-06"
+    }
+  ],
   "pending": [
     {
       "language_code": "nb",
@@ -213,15 +229,15 @@
       "included_in_published_language_count": true
     },
     {
-      "language_code": "fi",
-      "format": "hardcover_language_metadata",
-      "status": "open_incident",
-      "included_in_published_language_count": true
-    },
-    {
       "language_code": "no",
       "format": null,
       "status": "not_published",
+      "included_in_published_language_count": false
+    },
+    {
+      "language_code": "ja",
+      "format": null,
+      "status": "in_preparation",
       "included_in_published_language_count": false
     }
   ],
