@@ -8,6 +8,8 @@
 
 ## Auditorías
 
+* [2026-08-06 · Caso de éxito: auditoría gratuita a Amazon KDP y Author Central](../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+  * [Página de proyección para la Wiki](../wiki-source/Caso_Exito_Auditoria_Gratuita_Amazon_KDP.md)
 * [2026-08-06 · Auditoría indirecta pública de KDP, Author Central e IDEA](./publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 * [Índice de auditorías públicas](../auditorias/publicas/README.md)
 * [2025-12 · Evento-Reflejo · Auditoría DistroKid](./2025-12_Evento-Reflejo_Auditoria-Distrokid.md)
@@ -45,6 +47,8 @@ Cada nuevo análisis o auditoría debe incorporarse, cuando corresponda, a su ar
 
 ## Audits
 
+* [2026-08-06 · Success case: free audit for Amazon KDP and Author Central](../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+  * [Wiki projection page](../wiki-source/Caso_Exito_Auditoria_Gratuita_Amazon_KDP.md)
 * [2026-08-06 · Public indirect audit of KDP, Author Central and IDEA](./publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 * [Public audit index](../auditorias/publicas/README.md)
 * [2025-12 · Event-Reflection · DistroKid Audit](./2025-12_Evento-Reflejo_Auditoria-Distrokid.md)
