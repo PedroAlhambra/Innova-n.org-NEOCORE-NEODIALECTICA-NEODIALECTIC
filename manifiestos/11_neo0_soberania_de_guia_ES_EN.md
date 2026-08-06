@@ -219,7 +219,7 @@ Toda modificación futura deberá preservar el texto anterior, identificar con p
 
 ## Navegación
 
-← [XII · Los sin ego](./10_los_sin_ego_ES_EN.md) · [Índice](./README.md) · [II · Síntesis Abierta Neodialéctica™](./01_sintesis_abierta_neodialectica_ES_EN.md) →
+← [XIII · NeoPandora™](./13_neopandora_apertura_regenerativa_ES_EN.md) · [Índice](./README.md) · [II · Síntesis Abierta Neodialéctica™](./01_sintesis_abierta_neodialectica_ES_EN.md) →
 
 ---
 
@@ -431,7 +431,7 @@ Every future modification must preserve the previous text, identify the change p
 
 ## Navigation
 
-← [XII · The Egoless](./10_los_sin_ego_ES_EN.md) · [Index](./README.md) · [II · Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md) →
+← [XIII · NeoPandora™](./13_neopandora_apertura_regenerativa_ES_EN.md) · [Index](./README.md) · [II · Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md) →
 
 ---
 
