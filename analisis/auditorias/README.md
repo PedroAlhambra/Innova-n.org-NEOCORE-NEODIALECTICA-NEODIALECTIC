@@ -16,7 +16,7 @@ La carpeta `analisis/` ya contenía material de este tipo antes de la apertura d
 * [Auditorías públicas](../../auditorias/publicas/README.md)
 * [Caso de éxito · auditoría gratuita a Amazon KDP y Author Central](../../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
 * [Auditoría indirecta pública de KDP, Author Central e IDEA](../publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
-* [Página de proyección del caso de éxito para la Wiki](../../wiki-source/Caso_Exito_Auditoria_Gratuita_Amazon_KDP.md)
+* [Guía Wiki de análisis y auditorías](../../wiki-source/Analisis_Neodialecticos_Publicos.md)
 
 ## Caso histórico preservado
 
@@ -26,7 +26,7 @@ El archivo de DistroKid sigue por ahora en:
 
 ## Regla de continuidad
 
-Las nuevas auditorías públicas deben registrarse en `auditorias/publicas/`, enlazarse desde los índices generales de `analisis/` y proyectarse en la fuente versionada de la Wiki cuando su relevancia pública lo justifique.
+Las nuevas auditorías públicas deben registrarse en `auditorias/publicas/` y enlazarse desde los índices generales de `analisis/`. La Wiki sólo debe actualizarse cuando cambie la forma de localizar, interpretar o utilizar las auditorías.
 
 ---
 
@@ -41,7 +41,7 @@ The `analisis/` folder already contained this type of material before the public
 * [Public audits](../../auditorias/publicas/README.md)
 * [Success case · free audit for Amazon KDP and Author Central](../../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
 * [Public indirect audit of KDP, Author Central and IDEA](../publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
-* [Wiki projection page for the success case](../../wiki-source/Caso_Exito_Auditoria_Gratuita_Amazon_KDP.md)
+* [Wiki guide to analyses and audits](../../wiki-source/Analisis_Neodialecticos_Publicos.md)
 
 ## Preserved historical case
 
@@ -51,4 +51,4 @@ The DistroKid file remains for now at:
 
 ## Continuity rule
 
-New public audits should be recorded in `auditorias/publicas/`, linked from the general `analisis/` indexes, and projected in the versioned Wiki source when their public relevance warrants it.
+New public audits should be recorded in `auditorias/publicas/` and linked from the general `analisis/` indexes. The Wiki should be updated only when the way of locating, interpreting or using audits changes.
