@@ -219,7 +219,7 @@ Toda modificación futura deberá preservar el texto anterior, identificar con p
 
 ## Navegación
 
-← [XIII · NeoPandora™](./13_neopandora_apertura_regenerativa_ES_EN.md) · [Índice](./README.md) · [II · Síntesis Abierta Neodialéctica™](./01_sintesis_abierta_neodialectica_ES_EN.md) →
+← [XVI · Refragmentación Arquetípica™](./16_refragmentacion_arquetipica_ES_EN.md) · [Índice](./README.md) · [II · Síntesis Abierta Neodialéctica™](./01_sintesis_abierta_neodialectica_ES_EN.md) →
 
 ---
 
@@ -431,7 +431,7 @@ Every future modification must preserve the previous text, identify the change p
 
 ## Navigation
 
-← [XIII · NeoPandora™](./13_neopandora_apertura_regenerativa_ES_EN.md) · [Index](./README.md) · [II · Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md) →
+← [XVI · Archetypal Refragmentation™](./16_refragmentacion_arquetipica_ES_EN.md) · [Index](./README.md) · [II · Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md) →
 
 ---
 
