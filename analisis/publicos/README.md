@@ -13,9 +13,10 @@ Esta serie reúne análisis estructurales y trazas públicas de utilidad documen
 ### Actualización del expediente DistroKid–Spotify
 
 * [2026-08-06 · Respuesta de Spotify, ausencia de respuesta localizada de DistroKid y nuevo requerimiento de datos](./2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md)
+* [2026-08-06 · Segundo escalado a DistroKid, continuidad de la ausencia de respuesta y nuevo requerimiento formal](./2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md)
 * [Documento matriz de la auditoría](../2025-12_Evento-Reflejo_Auditoria-Distrokid.md)
 
-Registra la afirmación de Spotify de haber facilitado a DistroKid informes actualizados y precisos, la ausencia de conciliación por grabación, el nuevo requerimiento de datos y el estado sin respuesta entrante localizada de DistroKid hasta el 6 de agosto de 2026 a las 23:40 CEST.
+Registra la afirmación de Spotify de haber facilitado a DistroKid informes actualizados y precisos, la ausencia de conciliación por grabación, la falta de respuesta sustantiva de DistroKid verificada hasta el 6 de agosto de 2026 a las 23:43 CEST y el segundo escalado formal enviado para exigir datos, responsable humano, corrección de asociaciones y pago de regalías.
 
 ### Auditoría indirecta pública · KDP, Author Central e IDEA
 
@@ -70,9 +71,10 @@ This series gathers structural analyses and public documentary traces produced f
 ### DistroKid–Spotify case update
 
 * [2026-08-06 · Spotify reply, no located DistroKid response and new data demand](./2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md)
+* [2026-08-06 · Second DistroKid escalation, continued non-response and renewed formal request](./2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md)
 * [Parent audit document](../2025-12_Evento-Reflejo_Auditoria-Distrokid.md)
 
-Records Spotify’s assertion that it supplied DistroKid with up-to-date and accurate reporting, the absence of recording-level reconciliation, the new data demand, and the absence of any incoming DistroKid reply found by 23:40 CEST on 6 August 2026.
+Records Spotify’s assertion that it supplied DistroKid with up-to-date and accurate reporting, the absence of recording-level reconciliation, the lack of a substantive DistroKid response verified through 23:43 CEST on 6 August 2026, and the second formal escalation demanding data, a human case owner, correction of associations and payment of royalties.
 
 ### Public indirect audit · KDP, Author Central and IDEA
 
