@@ -112,3 +112,9 @@ The **Framework** provides coherence; the **Network** distributes relations; **N
 > The next web must do more than connect documents. It must allow humanity to remember who created, who transformed, who decided and what consequences each relation produced.
 
 WEB4™ is the public skin of a traceable civilisation.
+
+---
+
+## Navegación / Navigation
+
+← [Memoria, Genealogía y Trazabilidad / Memory, Genealogy and Traceability](./06_memoria_genealogia_trazabilidad_ES_EN.md) · [Índice / Index](./README.md) · [Neorrenacimiento Humano / Human Neo-Renaissance](./08_neorrenacimiento_humano_ES_EN.md) →
