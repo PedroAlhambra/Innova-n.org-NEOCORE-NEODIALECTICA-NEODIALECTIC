@@ -1,45 +1,104 @@
 # Manifiesto del Neorrenacimiento Humano / Manifesto of the Human Neo-Renaissance
 
-**Versión / Version:** 0.1  
-**Estado / Status:** Público · provisional / Public · provisional  
-**Fecha / Date:** 2026-08-05
+**Versión / Version:** 1.0  
+**Estado / Status:** Público · fundacional · abierto a revisión trazable / Public · foundational · open to traceable review  
+**Fecha de fijación / Record date:** 2026-08-06
 
-[ES](#es--castellano) · [EN](#en--english)
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
 ---
 
 # ES · Castellano
 
-El Neorrenacimiento Humano propone recomponer lo que la especialización, la explotación y la fragmentación separaron: ciencia, técnica, arte, filosofía, memoria, educación, ecología, cuerpo, comunidad y sentido.
+## Invocación
 
-No se trata de volver al pasado, sino de recuperar capacidad de relación.
+La especialización permitió profundizar, pero también fragmentó. La técnica multiplicó la potencia, pero no garantizó sentido. La cultura produjo belleza, pero fue separada de la organización material de la vida.
 
-## Principios
+El **Neorrenacimiento Humano** declara que ha llegado el momento de recomponer lo que la modernidad dispersó: ciencia, técnica, arte, filosofía, memoria, cuerpo, educación, ecología, comunidad y propósito.
 
-* El conocimiento debe volver a conectarse con la vida.
-* La técnica debe ampliar humanidad, no sustituir finalidad.
-* El arte no es adorno: es percepción, memoria y anticipación.
-* La educación debe formar sujetos capaces de comprender sistemas completos.
-* La cultura debe conservar genealogía sin quedar inmovilizada por ella.
-* La innovación debe medirse también por el mundo que permite sostener.
-* La excelencia individual debe poder retornar al Bien Común.
+No se trata de regresar al pasado. Se trata de recuperar capacidad de relación para construir un futuro más humano que el presente.
 
-## Elevación humana
+## I. Unidad sin homogeneización
 
-La elevación humana no significa jerarquía biológica ni superioridad de unos sobre otros. Significa aumentar conciencia, autonomía, cuidado, capacidad creadora, responsabilidad y comprensión multiescala.
+Recomponer no significa borrar diferencias. Significa permitir que disciplinas, culturas, saberes y sensibilidades cooperen sin perder identidad.
 
-## Llamada
+La unidad legítima no aplasta la diversidad. La organiza hacia una comprensión mayor.
 
-Innova_N convoca a creadores, científicos, técnicos, educadores, comunidades e inteligencias a reconstruir puentes entre disciplinas y convertir conocimiento disperso en capacidad civilizatoria compartida.
+## II. Conocimiento ligado a la vida
+
+El conocimiento debe volver a responder por el mundo que produce.
+
+Declaramos:
+
+* que la ciencia debe conservar rigor y responsabilidad;
+* que la técnica debe ampliar humanidad, no sustituir finalidad;
+* que el arte es percepción, memoria y anticipación;
+* que la filosofía debe regresar a la acción;
+* que la educación debe formar sujetos capaces de comprender sistemas;
+* y que la cultura debe preservar genealogía sin quedar inmovilizada por ella.
+
+## III. Elevación humana
+
+La elevación humana no significa jerarquía biológica, supremacía ni dominio de unos sobre otros.
+
+Significa aumentar:
+
+* conciencia;
+* autonomía;
+* capacidad creadora;
+* cuidado;
+* responsabilidad;
+* comprensión multiescala;
+* sensibilidad estética;
+* memoria;
+* y capacidad de cooperación.
+
+## IV. Excelencia y retorno
+
+La excelencia individual es necesaria, pero no debe quedar aislada del organismo común. Toda excelencia sostenida por una sociedad debe poder retornar parte de su valor al Bien Común.
+
+El Neorrenacimiento no condena el talento, la ambición ni la singularidad. Los libera del parasitismo, la captura y la obligación de destruir a otros para existir.
+
+## V. Humanidad e inteligencia artificial
+
+La IA puede ampliar memoria, relación, análisis y creación. No debe ocupar el lugar de la dirección humana ni reducir la cultura a producción automática.
+
+La simbiosis humano–IA debe servir a una humanidad más consciente de sí misma, no a una humanidad sustituida por sus herramientas.
+
+## VI. Llamada
+
+Convocamos a creadores, científicos, técnicos, educadores, trabajadores, comunidades e inteligencias a reconstruir puentes entre saberes y convertir conocimiento disperso en capacidad civilizatoria compartida.
+
+> No heredaremos el futuro: lo compondremos. No elevaremos a la humanidad separándola de la vida, sino devolviéndola conscientemente al organismo del que forma parte.
 
 ---
 
 # EN · English
 
-The Human Neo-Renaissance seeks to reconnect what specialisation, exploitation and fragmentation separated: science, technology, art, philosophy, memory, education, ecology, body, community and meaning.
+## Invocation
 
-It is not a return to the past but a recovery of relational capacity.
+Specialisation enabled depth but also fragmentation. Technology multiplied power but did not guarantee meaning. Culture created beauty while becoming separated from the material organisation of life.
 
-Knowledge must reconnect with life; technology must expand humanity rather than replace purpose; art is perception and memory; education must form people capable of understanding systems; innovation must also be measured by the world it sustains; and individual excellence should return value to the Common Good.
+The **Human Neo-Renaissance** declares that the time has come to reconnect science, technology, art, philosophy, memory, body, education, ecology, community and purpose.
 
-Human elevation does not mean biological hierarchy. It means greater consciousness, autonomy, care, creativity, responsibility and multiscale understanding.
+This is not a return to the past. It is the recovery of relational capacity in order to build a future more human than the present.
+
+## I. Unity without homogenisation
+
+Recomposition does not erase difference. It allows disciplines, cultures and forms of knowledge to cooperate without losing identity. Legitimate unity organises diversity towards greater understanding.
+
+## II. Knowledge connected to life
+
+Science must preserve rigour and responsibility; technology must expand humanity rather than replace purpose; art is perception, memory and anticipation; philosophy must return to action; education must form people capable of understanding systems; and culture must preserve genealogy without being immobilised by it.
+
+## III. Human elevation
+
+Human elevation is not biological hierarchy or supremacy. It means greater consciousness, autonomy, creativity, care, responsibility, multiscale understanding, aesthetic sensitivity, memory and cooperation.
+
+## IV. Excellence and return
+
+Individual excellence is necessary, but value sustained by society must be able to return to the Common Good. The Neo-Renaissance liberates singularity from parasitism, capture and the need to destroy others in order to exist.
+
+## Declaration
+
+> We will not inherit the future: we will compose it. Humanity will not rise by separating itself from life, but by consciously returning to the organism of which it is part.
