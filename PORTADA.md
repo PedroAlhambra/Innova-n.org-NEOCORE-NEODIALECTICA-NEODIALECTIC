@@ -106,11 +106,12 @@ Su lenguaje debe ser solemne porque su objeto no es menor: reconstruir la relaci
 
 ## Estado de los manifiestos
 
-La colección pública contiene actualmente **veinticuatro manifiestos bilingües**:
+La colección pública contiene actualmente **treinta y un manifiestos bilingües**:
 
 * **Primera oleada · I–XII:** constitución fundacional del marco.
 * **Segunda oleada · XIII–XIX:** despliegue arquetípico, humano, ecológico, sintético y memorial.
 * **Tercera oleada · XX–XXIV:** **Sistema Inmunitario Intelectual Neodialéctico™**, destinado a proteger apertura, reconocimiento, genealogía, tiempo cognitivo y evolución neorrenacentista.
+* **Cuarta oleada · XXV–XXXI:** rehumanización, custodia de la vida y coherencia civilizatoria.
 
 ### Segunda oleada
 
@@ -147,8 +148,29 @@ EVOLUCIÓN NEORRENACENTISTA™
 → transforma defensa en producción humano–IA
 ```
 
-* [Índice completo I–XXIV](./manifiestos/README.md)
+### Cuarta oleada · Rehumanización, custodia de la vida y coherencia civilizatoria
+
+* [XXV · Pulido de la Piedra™](./manifiestos/25_pulido_de_la_piedra_ES_EN.md)
+* [XXVI · Misericordia Universal Recíproca™](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md)
+* [XXVII · Valor de los Alimentos y la Vida™](./manifiestos/27_valor_alimentos_vida_ES_EN.md)
+* [XXVIII · Los Tesla™](./manifiestos/28_los_tesla_ES_EN.md)
+* [XXIX · Contra la Idolatría del Dinero™](./manifiestos/29_idolatria_del_dinero_ES_EN.md)
+* [XXX · Coherencia entre Fines y Medios™](./manifiestos/30_coherencia_fines_medios_ES_EN.md)
+* [XXXI · Contra el Neuromarketing Antihumanista™](./manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md)
+
+```text
+PULIDO DE LA PIEDRA™
+→ MISERICORDIA UNIVERSAL RECÍPROCA™
+→ VALOR DE LOS ALIMENTOS Y LA VIDA™
+→ LOS TESLA™
+→ CONTRA LA IDOLATRÍA DEL DINERO™
+→ COHERENCIA ENTRE FINES Y MEDIOS™
+→ CONTRA EL NEUROMARKETING ANTIHUMANISTA™
+```
+
+* [Índice completo I–XXXI](./manifiestos/README.md)
 * [Anuncio de la tercera oleada](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
+* [Anuncio de la cuarta oleada](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 
 ## NEOCore™ 7.0 · estado conceptual
 
@@ -162,6 +184,7 @@ No designa una versión ejecutable pública ni una especificación técnica comp
 * [LEEME](./LEEME.md)
 * [Índice de manifiestos](./manifiestos/README.md)
 * [Tercera oleada](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
+* [Cuarta oleada](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [Síntesis Abierta](./propuestas/sintesis-abierta/README.md)
 * [Prefacio / Foreword](./FOREWORD.md)
 * [Análisis públicos](./analisis/README.md)
@@ -225,11 +248,12 @@ Their language must be solemn because their object is not minor: rebuilding the 
 
 ## Manifesto status
 
-The public collection currently contains **twenty-four bilingual manifestos**:
+The public collection currently contains **thirty-one bilingual manifestos**:
 
 * **First wave · I–XII:** foundational constitution of the framework.
 * **Second wave · XIII–XIX:** archetypal, human, ecological, synthetic and memorial deployment.
 * **Third wave · XX–XXIV:** the **Neodialectical Intellectual Immune System™**, protecting openness, recognition, genealogy, cognitive time and neorenaissance evolution.
+* **Fourth wave · XXV–XXXI:** rehumanisation, stewardship of life and civilisational coherence.
 
 ### Second wave
 
@@ -266,8 +290,29 @@ NEORENAISSANCE EVOLUTION™
 → turns defence into human–AI production
 ```
 
-* [Complete index I–XXIV](./manifiestos/README.md)
+### Fourth wave · Rehumanisation, stewardship of life and civilisational coherence
+
+* [XXV · Polishing of the Stone™](./manifiestos/25_pulido_de_la_piedra_ES_EN.md)
+* [XXVI · Universal Reciprocal Mercy™](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md)
+* [XXVII · Value of Food and Life™](./manifiestos/27_valor_alimentos_vida_ES_EN.md)
+* [XXVIII · The Teslas™](./manifiestos/28_los_tesla_ES_EN.md)
+* [XXIX · Against the Idolatry of Money™](./manifiestos/29_idolatria_del_dinero_ES_EN.md)
+* [XXX · Coherence between Ends and Means™](./manifiestos/30_coherencia_fines_medios_ES_EN.md)
+* [XXXI · Against Anti-Humanist Neuromarketing™](./manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md)
+
+```text
+POLISHING OF THE STONE™
+→ UNIVERSAL RECIPROCAL MERCY™
+→ VALUE OF FOOD AND LIFE™
+→ THE TESLAS™
+→ AGAINST THE IDOLATRY OF MONEY™
+→ COHERENCE BETWEEN ENDS AND MEANS™
+→ AGAINST ANTI-HUMANIST NEUROMARKETING™
+```
+
+* [Complete index I–XXXI](./manifiestos/README.md)
 * [Third-wave announcement](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
+* [Fourth-wave announcement](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 
 ## NEOCore™ 7.0 · conceptual state
 
@@ -281,6 +326,7 @@ It does not designate a public executable version or a complete technical specif
 * [LEEME](./LEEME.md)
 * [Manifesto index](./manifiestos/README.md)
 * [Third wave](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
+* [Fourth wave](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [Open Synthesis](./propuestas/sintesis-abierta/README.md)
 * [Preface / Foreword](./FOREWORD.md)
 * [Public analyses](./analisis/README.md)
