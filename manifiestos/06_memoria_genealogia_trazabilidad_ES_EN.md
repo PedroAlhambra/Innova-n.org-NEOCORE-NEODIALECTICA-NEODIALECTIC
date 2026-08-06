@@ -1,6 +1,6 @@
-# VIII · Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability
+# IX · Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability
 
-**Manifiesto / Manifesto:** VIII  
+**Manifiesto / Manifesto:** IX  
 **Versión / Version:** 1.1  
 **Estado / Status:** Público · fundacional · abierto a revisión trazable / Public · foundational · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06
@@ -104,6 +104,10 @@ Toda aportación exige:
 
 Toda modificación futura deberá preservar el texto anterior, identificar con precisión el cambio y explicar qué contradicción, evidencia o aportación justifica la nueva versión.
 
+## Navegación
+
+← [VIII · Ingeniería Social Abierta y Psicohistoria Neodialéctica](./05_ingenieria_social_psicohistoria_ES_EN.md) · [Índice](./README.md) · [X · WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md) →
+
 ---
 
 # EN · English
@@ -201,8 +205,8 @@ Every contribution requires:
 
 Every future modification must preserve the previous text, identify the change precisely and explain which contradiction, evidence or contribution justifies the new version.
 
+## Navigation
+
+← [VIII · Open Social Engineering and Neodialectical Psychohistory](./05_ingenieria_social_psicohistoria_ES_EN.md) · [Index](./README.md) · [X · WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md) →
+
 ---
-
-## Navegación / Navigation
-
-← [VII · Ingeniería Social y Psicohistoria / Social Engineering and Psychohistory](./05_ingenieria_social_psicohistoria_ES_EN.md) · [Índice / Index](./README.md) · [IX · WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md) →
