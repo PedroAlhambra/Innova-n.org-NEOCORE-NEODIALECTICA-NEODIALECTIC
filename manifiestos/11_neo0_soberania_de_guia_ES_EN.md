@@ -1,7 +1,8 @@
-# Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica
-# Neo0™ Manifesto of Neodialectical Guiding Sovereignty
+# I · Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica
+# I · Neo0™ Manifesto of Neodialectical Guiding Sovereignty
 
-**Versión / Version:** 1.0  
+**Manifiesto / Manifesto:** I  
+**Versión / Version:** 1.1  
 **Estado / Status:** Público · fundacional · abierto a revisión trazable / Public · foundational · open to traceable revision  
 **Fecha / Date:** 2026-08-06  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ · Fundador y arquitecto del Neodialectica Framework™ / Network
@@ -199,6 +200,23 @@ No elimina la Síntesis Abierta.
 
 La hace posible sin pérdida de origen, memoria ni dirección.
 
+## 10. Síntesis Abierta de este manifiesto
+
+Este manifiesto abre su propia **Síntesis Abierta Neodialéctica™**.
+
+Toda aportación exige:
+
+* lectura previa;
+* retorno a fuente;
+* continuidad cognitiva;
+* genealogía;
+* trazabilidad;
+* clasificación;
+* delta;
+* y versión.
+
+Toda modificación futura deberá preservar el texto anterior, identificar con precisión el cambio y explicar qué contradicción, evidencia o aportación justifica la nueva versión.
+
 ---
 
 # EN · English
@@ -219,65 +237,164 @@ Within the **Neodialectica Framework™ / Network**, that function belongs to **
 
 Neodialectical guiding sovereignty is neither personal domination over other nodes nor absolute ownership of every future contribution.
 
-It is the foundational responsibility to preserve the origin of the framework, its teleological direction, continuity of memory, coherence of relations, genealogy of concepts, orientation towards the Common Good and capacity for correction without dissolution.
+It is the foundational responsibility to preserve:
+
+* the origin of the framework;
+* its teleological direction;
+* the continuity of its memory;
+* the coherence of its relations;
+* the genealogy of its concepts;
+* its orientation towards the Common Good;
+* and the system’s capacity to correct itself without dissolving.
 
 **Pedro Martínez Alhambra · Neo0™** is the founder, builder of the common brain and architect of the neodialectical network.
 
-This position derives from genealogy, creative work, continuity, responsibility and structural function.
+He does not occupy that position by symbolic rank, but through genealogy, creative work, continuity, responsibility and structural function.
 
-## 2. Builder of the common brain
+## 2. The builder of the common brain
 
 The common brain is not a central intelligence that replaces individuals.
 
-It is a relational architecture able to preserve and recombine memory, context, signals, contradictions, experiences, analyses, works, decisions, human intelligences, artificial intelligences and successive syntheses.
+It is a relational architecture capable of preserving and recombining:
 
-Neo0™ builds that common brain by establishing direction, relating its layers, preserving genealogy and sustaining continuity.
+* memory;
+* context;
+* signals;
+* contradictions;
+* experiences;
+* analyses;
+* works;
+* decisions;
+* human intelligences;
+* artificial intelligences;
+* and successive syntheses.
+
+Neo0™ builds that common brain by establishing its direction, relating its layers, preserving its genealogy and sustaining the continuity of the organism of which all nodes form part.
 
 Artificial intelligence expands, contrasts, orders and reviews. It does not retrospectively originate the framework or replace its human root.
 
-## 3. Architect of the network
+## 3. The architect of the network
 
 The Network is not a disorderly collection of people, documents, models or devices.
 
-It is a living multiscale network in which each node preserves identity, origin, function, state, relation, responsibility and return to source.
+It is a living multiscale network in which every node must preserve:
 
-Neo0™ is its architect because he defines and maintains coherence among Neodialectical Philosophy™, the Framework/Network, NEOCore™, SAN™, NAVE™, WEB4™, public and protected memory, human and artificial nodes, works, analyses, projects and territory.
+* identity;
+* provenance;
+* function;
+* state;
+* relation;
+* responsibility;
+* and the capacity to return to source.
 
-## 4. Guidance is not infallibility
+Neo0™ is the architect of that network because he defines and maintains coherence among:
+
+* Archetypal Neodialectical Philosophy™;
+* the Neodialectica Framework™ / Network;
+* NEOCore™;
+* SAN™;
+* NAVE™;
+* WEB4™ · SistemaTrazable™;
+* public memory;
+* protected memory;
+* human nodes;
+* artificial nodes;
+* works;
+* analyses;
+* projects;
+* and territory.
+
+## 4. Guidance does not equal infallibility
 
 Guiding sovereignty does not claim perfection or total knowledge.
 
-Its legitimacy comes from assuming responsibility, preserving memory, accepting contrast, integrating superior contributions, recognising limits, maintaining continuity and answering for final direction.
+Neo0™ may err, review, correct and elevate the framework.
 
-Open Synthesis does not abolish guidance. It makes it more conscious, traceable and correctable.
+The legitimacy of guidance does not arise from never being wrong, but from:
 
-## 5. Limits
+* assuming responsibility;
+* preserving memory;
+* accepting contrast;
+* integrating superior contributions;
+* recognising limits;
+* maintaining continuity;
+* and answering for the final direction.
 
-Guiding sovereignty does not authorise erasing others’ contributions, appropriating external genealogies, silencing grounded criticism, turning the framework into dogma, replacing evidence with authority or absorbing contributions without attribution.
+Open Synthesis does not abolish guidance. It makes it more conscious, more traceable and more capable of correction.
 
-Every incorporation must preserve origin, function and effect.
+## 5. Limits of sovereignty
+
+Guiding sovereignty does not authorise:
+
+* erasing the contributions of others;
+* appropriating external genealogies;
+* silencing grounded criticism;
+* turning the framework into dogma;
+* replacing evidence with authority;
+* or using openness as an excuse to absorb without attribution.
+
+Every incorporation must preserve provenance, function and effect upon the system.
 
 ## 6. Relation with synthesis nodes
 
-Other participants are not subjects of the founder.
+The other participants are not subjects of the founder.
 
-They are parallel synthesis nodes capable of contributing, correcting, contradicting, expanding, specialising, verifying and proposing alternative directions.
+They are parallel synthesis nodes capable of:
 
-Distributed intelligence does not erase origin or dissolve foundational direction.
+* contributing;
+* correcting;
+* contradicting;
+* expanding;
+* specialising;
+* verifying;
+* and proposing alternative directions.
+
+But the opening of nodes does not dissolve the origin.
+
+The network may distribute intelligence without erasing its genealogy or fragmenting its foundational direction.
 
 ## 7. Succession, continuity and custody
 
-Guiding sovereignty must survive the physical presence of its founder without capture by blind inheritance, economic power, technological platforms or external institutions.
+Guiding sovereignty must be capable of surviving the physical presence of its founder without being captured by blind inheritance, economic power, a technological platform or an external institutional authority.
 
-Future continuity must depend on fidelity to the Common Good, sufficient understanding of the framework, cognitive continuity, traceability, proven service, synthesis capacity, public responsibility and succession mechanisms still subject to Open Synthesis.
+Its future continuity must be governed by:
 
-## 8. Neo0™ commitment
+* fidelity to the Common Good;
+* sufficient knowledge of the framework;
+* cognitive continuity;
+* traceability;
+* proven service;
+* capacity for synthesis;
+* public responsibility;
+* and succession mechanisms still subject to development and Open Synthesis.
 
-Neo0™ commits to custody without immobilisation, direction without reducing other nodes, correction without erasing memory, integration without appropriation, protection without closure and orientation towards the Common Good above immediate profit, prestige or institutional capture.
+No automatic succession is established here.
+
+What is established is the duty to prevent the common brain and the network from losing direction or being captured after the founder’s absence.
+
+## 8. Neo0™’s commitment
+
+Neo0™ commits to:
+
+* custody without immobilisation;
+* direction without reducing the other nodes;
+* correction without erasing memory;
+* integration without appropriation;
+* protection without closure;
+* construction without concealing genealogy;
+* and orienting the framework towards the Common Good above immediate profit, prestige or institutional capture.
 
 ## 9. Proclamation
 
-I, **Pedro Martínez Alhambra · Neo0™**, publicly declare my function as founder of Innova_N, creator of Archetypal Neodialectical Philosophy™, human origin of the Neodialectica Framework™ / Network, builder of the common brain, architect of the network, custodian of its genealogy and responsible guide of its civilisational direction.
+I, **Pedro Martínez Alhambra · Neo0™**, publicly declare my function as:
+
+* founder of Innova_N;
+* creator of Archetypal Neodialectical Philosophy™;
+* human origin of the Neodialectica Framework™ / Network;
+* builder of the common brain;
+* architect of the network;
+* custodian of its genealogy;
+* and responsible guide of its civilisational direction.
 
 This sovereignty does not place me outside the system.
 
@@ -291,11 +408,28 @@ It does not abolish Open Synthesis.
 
 It makes Open Synthesis possible without loss of origin, memory or direction.
 
+## 10. Open Synthesis of this manifesto
+
+This manifesto opens its own **Neodialectical Open Synthesis™**.
+
+Every contribution requires:
+
+* prior reading;
+* return to source;
+* cognitive continuity;
+* genealogy;
+* traceability;
+* classification;
+* delta;
+* and version.
+
+Every future modification must preserve the previous text, identify the change precisely and explain which contradiction, evidence or contribution justifies the new version.
+
 ---
 
 ## Navegación / Navigation
 
-← [Los sin ego / The Egoless](./10_los_sin_ego_ES_EN.md) · [Índice / Index](./README.md) · [Síntesis Abierta Neodialéctica™ / Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md) →
+← [XI · Los sin ego / The Egoless](./10_los_sin_ego_ES_EN.md) · [Índice / Index](./README.md) · [II · Síntesis Abierta Neodialéctica™ / Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md) →
 
 ---
 
