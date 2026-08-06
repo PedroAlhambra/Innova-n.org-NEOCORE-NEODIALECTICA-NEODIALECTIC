@@ -15,14 +15,13 @@ Esta carpeta reúne los materiales públicos de análisis, auditoría y trazabil
 * [Auditorías públicas](../auditorias/publicas/README.md)
 * [Repositorio principal](../README.md)
 * [Índice de manifiestos](../manifiestos/README.md)
-* [Wiki pública](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
+* [Guía Wiki de análisis y auditorías](../wiki-source/Analisis_Neodialecticos_Publicos.md)
 
 ## Incorporaciones recientes
 
 ### Caso de éxito · auditoría gratuita a Amazon KDP y Author Central
 
 * [Caso de éxito bilingüe completo](../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
-* [Página de proyección para la Wiki](../wiki-source/Caso_Exito_Auditoria_Gratuita_Amazon_KDP.md)
 * [Auditoría indirecta de origen](./publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 
 Caso `51071689`. Registra una aplicación práctica del Neodialectica Framework™: detección y trazabilidad de problemas multilingües, corrección verificable del caso, propuestas estructuradas para KDP y Author Central y recepción positiva de esas propuestas. Amazon queda clasificada funcionalmente por Innova_N como **cliente gratuito por el Bien Común**, sin que ello implique contrato, deuda, asociación ni adhesión formal al marco.
@@ -33,7 +32,7 @@ Caso `51071689`. Registra una aplicación práctica del Neodialectica Framework�
 * [Índice de auditorías públicas](../auditorias/publicas/README.md)
 * [Ediciones internacionales de IDEA](../obras/idea/EDICIONES.md)
 
-Caso de referencia `51071689`. Registra incidencias finlandesas, estado diferenciado de eBook, tapa dura y tapa blanda, problemas de asociación y metadatos, propuestas remitidas a KDP y Author Central y el aviso previo de publicación de la traza.
+Caso de referencia `51071689`. Conserva la traza histórica de las incidencias finlandesas, los problemas de asociación y metadatos, las propuestas remitidas a KDP y Author Central y su actualización posterior de cierre operativo.
 
 ### Economía de la atención y economía del aporte
 
@@ -80,14 +79,13 @@ This folder gathers public analysis, audit and documentary traceability material
 * [Public audits](../auditorias/publicas/README.md)
 * [Main repository](../README.md)
 * [Manifesto index](../manifiestos/README.md)
-* [Public Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
+* [Wiki guide to analyses and audits](../wiki-source/Analisis_Neodialecticos_Publicos.md)
 
 ## Recent incorporations
 
 ### Success case · free audit for Amazon KDP and Author Central
 
 * [Complete bilingual success case](../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
-* [Wiki projection page](../wiki-source/Caso_Exito_Auditoria_Gratuita_Amazon_KDP.md)
 * [Originating indirect audit](./publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 
 Case `51071689`. It records a practical application of the Neodialectica Framework™: detection and traceability of multilingual problems, verifiable correction of the case, structured proposals for KDP and Author Central, and positive reception of those proposals. Innova_N functionally classifies Amazon as a **free client for the Common Good**, without implying a contract, debt, partnership or formal endorsement of the framework.
@@ -98,7 +96,7 @@ Case `51071689`. It records a practical application of the Neodialectica Framewo
 * [Public audit index](../auditorias/publicas/README.md)
 * [International IDEA editions](../obras/idea/EDICIONES.md)
 
-Reference case `51071689`. It records Finnish-edition incidents, differentiated eBook, hardcover and paperback status, association and metadata problems, proposals sent to KDP and Author Central, and prior notice that the trace would be published.
+Reference case `51071689`. It preserves the historical trace of Finnish-edition incidents, association and metadata problems, proposals sent to KDP and Author Central, and the later operational-closure update.
 
 ### Attention economy and contribution economy
 
