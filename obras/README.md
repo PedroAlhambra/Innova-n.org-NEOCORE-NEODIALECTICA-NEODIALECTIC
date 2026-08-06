@@ -33,6 +33,16 @@ Novela de ciencia ficción escrita entre 1997 y 2002 y presentada, con leves cam
 * [Kit público ES/EN](./idea/PRESS_KIT_ES_EN.md)
 * [Página pública de IDEA en la Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
 
+## Aplicación del marco derivada de IDEA
+
+La publicación internacional de IDEA generó una auditoría indirecta de KDP y Author Central. El proceso permitió documentar incoherencias, conseguir la corrección verificable de las asociaciones multilingües y trasladar propuestas estructuradas que KDP calificó como muy buenas ideas y de buena acogida.
+
+* [Caso de éxito · auditoría gratuita a Amazon KDP y Author Central](../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+* [Auditoría indirecta pública de origen](../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
+* [Página de proyección para la Wiki](../wiki-source/Caso_Exito_Auditoria_Gratuita_Amazon_KDP.md)
+
+El caso muestra cómo una obra cultural puede actuar como sensor operativo y producir mejoras útiles para una infraestructura editorial de gran escala sin alterar la genealogía literaria de la obra.
+
 ## Relación con el marco
 
 IDEA antecede históricamente a la Filosofía Arquetípica Neodialéctica™, Innova_N, NEOCore™, SAN™, NAVE™ y WEB4™. Actualmente funciona como puerta narrativa de entrada al marco sin que esa función altere su genealogía.
@@ -75,6 +85,16 @@ A science-fiction novel written between 1997 and 2002 and submitted, with minor 
 * [Link register](./idea/LINKS.json)
 * [Public ES/EN kit](./idea/PRESS_KIT_ES_EN.md)
 * [Public IDEA Wiki page](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
+
+## Framework application derived from IDEA
+
+The international publication of IDEA produced an indirect audit of KDP and Author Central. The process documented inconsistencies, achieved verifiable correction of multilingual associations and delivered structured proposals that KDP described as very good ideas and as having been well received.
+
+* [Success case · free audit for Amazon KDP and Author Central](../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+* [Originating public indirect audit](../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
+* [Wiki projection page](../wiki-source/Caso_Exito_Auditoria_Gratuita_Amazon_KDP.md)
+
+The case shows how a cultural work can act as an operational sensor and produce useful improvements for a large-scale publishing infrastructure without altering the literary genealogy of the work.
 
 ## Relation to the framework
 
