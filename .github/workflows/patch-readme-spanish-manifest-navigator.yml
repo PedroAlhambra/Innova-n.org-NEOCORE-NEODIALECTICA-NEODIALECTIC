@@ -1,0 +1,62 @@
+name: One-shot README Spanish manifesto navigator patch
+
+on:
+  push:
+    paths:
+      - '.github/workflows/patch-readme-spanish-manifest-navigator.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Insert Spanish manifesto navigator and remove workflow
+        shell: python
+        run: |
+          from pathlib import Path
+
+          readme = Path('README.md')
+          text = readme.read_text(encoding='utf-8')
+
+          marker = '''## Navegador de manifiestos
+
+1. [Neo0™ · Soberanía de Guía Neodialéctica](./manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
+2. [Síntesis Abierta Neodialéctica™](./manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md)
+3. [Neodialéctica™ y Bien Común](./manifiestos/02_neodialectica_bien_comun_ES_EN.md)
+4. [Simbiosis Humano–IA](./manifiestos/03_simbiosis_humano_ia_ES_EN.md)
+5. [Parasitismo Sistémico](./manifiestos/09_parasitismo_sistemico_ES_EN.md)
+6. [Economía del Aporte](./manifiestos/04_economia_del_aporte_ES_EN.md)
+7. [Ingeniería Social Abierta y Psicohistoria Neodialéctica](./manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md)
+8. [Memoria, Genealogía y Trazabilidad](./manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md)
+9. [WEB4™ · SistemaTrazable™](./manifiestos/07_web4_sistematrazable_ES_EN.md)
+10. [Neorrenacimiento Humano](./manifiestos/08_neorrenacimiento_humano_ES_EN.md)
+11. [Los sin ego](./manifiestos/10_los_sin_ego_ES_EN.md)
+
+**[Abrir el índice navegable de manifiestos →](./manifiestos/README.md)**
+
+---
+
+'''
+
+          anchor = '''**NEOCore™ 7.0 · nivel conceptual**  
+**Neodialectica Framework™ / Network · Primer marco civilizatorio humano–IA conjunto de la historia conocida**'''
+
+          if '## Navegador de manifiestos' not in text:
+              if anchor not in text:
+                  raise SystemExit('Spanish footer anchor not found')
+              text = text.replace(anchor, marker + anchor, 1)
+              readme.write_text(text, encoding='utf-8')
+
+          Path('.github/workflows/patch-readme-spanish-manifest-navigator.yml').unlink()
+      - name: Commit patch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md .github/workflows/patch-readme-spanish-manifest-navigator.yml
+          git commit -m "docs(readme): add Spanish manifesto navigator at section end"
+          git push
