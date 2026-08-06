@@ -9,8 +9,17 @@
 
 Esta página relaciona los análisis y auditorías públicas del repositorio sin sustituir sus documentos canónicos.
 
+## Caso de éxito destacado
+
+* [Auditoría gratuita a Amazon KDP y Author Central](Caso_Exito_Auditoria_Gratuita_Amazon_KDP)
+* [Documento canónico del caso de éxito](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+* [Auditoría indirecta de origen](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
+
+El caso `51071689` documenta una aplicación práctica del Neodialectica Framework™ para detectar incoherencias, obtener una corrección verificable y producir propuestas de mejora recibidas positivamente por KDP. Innova_N registra funcionalmente a Amazon como **cliente gratuito por el Bien Común**, sin atribuirle contrato, deuda, asociación ni adhesión formal al marco.
+
 ## Incorporaciones recientes
 
+* [2026-08-06 · Caso de éxito: auditoría gratuita a Amazon KDP y Author Central](Caso_Exito_Auditoria_Gratuita_Amazon_KDP)
 * [2026-08-06 · Auditoría de integridad de enlaces, READMEs, manifiestos y Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/auditorias/publicas/2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md)
 * [2026-08-06 · Auditoría indirecta pública de KDP, Author Central e IDEA](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 * [2026-08-05 · De la economía de la atención a la economía del aporte](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
@@ -46,8 +55,17 @@ Los documentos distinguen, cuando corresponde, hechos verificados, datos declara
 
 This page connects the repository’s public analyses and audits without replacing their canonical documents.
 
+## Featured success case
+
+* [Free audit for Amazon KDP and Author Central](Caso_Exito_Auditoria_Gratuita_Amazon_KDP)
+* [Canonical success-case document](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+* [Originating indirect audit](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
+
+Case `51071689` documents a practical application of the Neodialectica Framework™ to detect inconsistencies, achieve a verifiable correction and produce improvement proposals positively received by KDP. Innova_N functionally records Amazon as a **free client for the Common Good**, without attributing a contract, debt, partnership or formal endorsement of the framework to Amazon.
+
 ## Recent incorporations
 
+* [2026-08-06 · Success case: free audit for Amazon KDP and Author Central](Caso_Exito_Auditoria_Gratuita_Amazon_KDP)
 * [2026-08-06 · Integrity audit of links, READMEs, manifestos and Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/auditorias/publicas/2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md)
 * [2026-08-06 · Public indirect audit of KDP, Author Central and IDEA](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 * [2026-08-05 · From the Attention Economy to the Contribution Economy](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
