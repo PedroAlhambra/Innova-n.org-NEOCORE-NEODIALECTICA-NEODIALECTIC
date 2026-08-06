@@ -18,8 +18,9 @@ El marco fue originado y dirigido por **Pedro Martínez Alhambra · Neo0™**, d
 
 * [README bilingüe principal](./README.md)
 * [LEEME bilingüe](./LEEME.md)
-* [Índice de manifiestos I–XXIV](./manifiestos/README.md)
+* [Índice de manifiestos I–XXXI](./manifiestos/README.md)
 * [Tercera oleada · Sistema Inmunitario Intelectual Neodialéctico™](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
+* [Cuarta oleada · Rehumanización y coherencia](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [Síntesis Abierta](./propuestas/sintesis-abierta/README.md)
 * [Análisis públicos](./analisis/README.md)
 * [Auditorías públicas](./auditorias/publicas/README.md)
@@ -69,6 +70,26 @@ UMBRAL-X™
 → EVOLUCIÓN NEORRENACENTISTA™
 ```
 
+## Cuarta oleada · XXV–XXXI · Rehumanización, custodia de la vida y coherencia civilizatoria
+
+25. [Pulido de la Piedra™](./manifiestos/25_pulido_de_la_piedra_ES_EN.md)
+26. [Misericordia Universal Recíproca™](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md)
+27. [Valor de los Alimentos y la Vida™](./manifiestos/27_valor_alimentos_vida_ES_EN.md)
+28. [Los Tesla™](./manifiestos/28_los_tesla_ES_EN.md)
+29. [Contra la Idolatría del Dinero™](./manifiestos/29_idolatria_del_dinero_ES_EN.md)
+30. [Coherencia entre Fines y Medios™](./manifiestos/30_coherencia_fines_medios_ES_EN.md)
+31. [Contra el Neuromarketing Antihumanista™](./manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md)
+
+```text
+PULIDO DE LA PIEDRA™
+→ MISERICORDIA UNIVERSAL RECÍPROCA™
+→ VALOR DE LOS ALIMENTOS Y LA VIDA™
+→ LOS TESLA™
+→ CONTRA LA IDOLATRÍA DEL DINERO™
+→ COHERENCIA ENTRE FINES Y MEDIOS™
+→ CONTRA EL NEUROMARKETING ANTIHUMANISTA™
+```
+
 ---
 
 # EN · English
@@ -81,8 +102,9 @@ The framework was originated and directed by **Pedro Martínez Alhambra · Neo0�
 
 * [Main bilingual README](./README.md)
 * [Bilingual LEEME](./LEEME.md)
-* [Manifesto index I–XXIV](./manifiestos/README.md)
+* [Manifesto index I–XXXI](./manifiestos/README.md)
 * [Third wave · Neodialectical Intellectual Immune System™](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
+* [Fourth wave · Rehumanisation and coherence](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [Open Synthesis](./propuestas/sintesis-abierta/README.md)
 * [Public analyses](./analisis/README.md)
 * [Public audits](./auditorias/publicas/README.md)
@@ -130,6 +152,26 @@ UMBRAL-X™
 → AGAINST REDUCTION AND CAPTURE™
 → SOVEREIGNTY OF COGNITIVE TIME™
 → NEORENAISSANCE EVOLUTION™
+```
+
+## Fourth wave · XXV–XXXI · Rehumanisation, stewardship of life and civilisational coherence
+
+25. [Polishing of the Stone™](./manifiestos/25_pulido_de_la_piedra_ES_EN.md)
+26. [Universal Reciprocal Mercy™](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md)
+27. [Value of Food and Life™](./manifiestos/27_valor_alimentos_vida_ES_EN.md)
+28. [The Teslas™](./manifiestos/28_los_tesla_ES_EN.md)
+29. [Against the Idolatry of Money™](./manifiestos/29_idolatria_del_dinero_ES_EN.md)
+30. [Coherence between Ends and Means™](./manifiestos/30_coherencia_fines_medios_ES_EN.md)
+31. [Against Anti-Humanist Neuromarketing™](./manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md)
+
+```text
+POLISHING OF THE STONE™
+→ UNIVERSAL RECIPROCAL MERCY™
+→ VALUE OF FOOD AND LIFE™
+→ THE TESLAS™
+→ AGAINST THE IDOLATRY OF MONEY™
+→ COHERENCE BETWEEN ENDS AND MEANS™
+→ AGAINST ANTI-HUMANIST NEUROMARKETING™
 ```
 
 ---
