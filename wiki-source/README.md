@@ -60,6 +60,7 @@ The Wiki should not maintain:
 * [Manifiestos · cómo leerlos y participar / how to read and participate](./Manifiestos.md)
 * [Análisis y auditorías · cómo usarlos / how to use them](./Analisis_Neodialecticos_Publicos.md)
 * [Sidebar mínima / minimal sidebar](./_Sidebar.md)
+* [Despliegue manual mínimo / Minimal manual deployment](./DEPLOY_MINIMO.md)
 
 Las páginas temáticas históricas ya existentes en la Wiki pueden mantenerse mientras sigan siendo útiles, pero cualquier contenido canónico que contengan debe existir también en el repositorio.
 
