@@ -3,7 +3,7 @@
 **Autor / Author:** Pedro Martínez Alhambra  
 **Primera edición pública / First public edition:** 2026  
 **Idiomas publicados / Published languages:** 12  
-**Última actualización / Last updated:** 2026-08-06
+**Última actualización / Last updated:** 2026-08-07
 
 [Perfil de autor en Amazon / Amazon Author Page](https://www.amazon.es/stores/Pedro-Mart%C3%ADnez-Alhambra/author/B0HC3TWRZ7)
 
@@ -72,13 +72,13 @@ The paperback-specific ASIN is not published while it remains unverified.
 
 | Formato / Format | ASIN | Estado / Status | Enlace / Link |
 | --- | --- | --- | --- |
-| eBook | `B0HCRHFMRG` | Publicado y visible · Published and visible | [Abrir / Open](https://www.amazon.es/dp/B0HCRHFMRG) |
-| Tapa dura · Hardcover | `B0HCRMCRPT` | Publicada y visible tras republicación · Published and visible after republication | [Abrir / Open](https://www.amazon.de/dp/B0HCRMCRPT) |
-| Tapa blanda · Paperback | `B0HCVSX23V` | Publicada en KDP, pero sin página pública visible todavía · Published in KDP, but no public product page visible yet | [Comprobar / Check](https://www.amazon.es/dp/B0HCVSX23V) |
+| eBook | `B0HCRHFMRG` | Publicado · Published | [Abrir / Open](https://www.amazon.es/dp/B0HCRHFMRG) |
+| Tapa dura · Hardcover | `B0HCRMCRPT` | Publicada tras republicación · Published after republication | [Abrir / Open](https://www.amazon.de/dp/B0HCRMCRPT) |
+| Tapa blanda · Paperback | `B0HCVSX23V` | Publicada · Published | [Comprobar disponibilidad / Check availability](https://www.amazon.es/dp/B0HCVSX23V) |
 
-KDP confirmó por correo el 6 de agosto de 2026 que la tapa dura volvió a estar disponible. La tapa blanda sigue registrada en KDP, pero su página de producto no aparece todavía de forma localizable y comprable. El caso de soporte `51071689` permanece abierto en la traza documental hasta que KDP verifique públicamente ambos ASIN y la corrección completa de metadatos.
+KDP y Author Central confirmaron por escrito el 6 de agosto de 2026 la asociación correcta de los formatos publicados de IDEA con la Página de Autor en doce idiomas. El autor verificó la corrección de los idiomas y asociaciones mostrados. La incidencia finlandesa se considera **operativamente resuelta**. La disponibilidad comercial concreta puede variar por marketplace.
 
-KDP confirmed by email on 6 August 2026 that the hardcover was available again. The paperback remains registered in KDP, but its product page is still not publicly findable or normally purchasable. Support case `51071689` remains open in the documentary trace until KDP publicly verifies both ASINs and the complete metadata correction.
+KDP and Author Central confirmed in writing on 6 August 2026 that published IDEA formats in twelve languages were correctly associated with the Author Page. The author verified the corrected displayed languages and associations. The Finnish incident is considered **operationally resolved**. Specific commercial availability may vary by marketplace.
 
 ## Polaco / Polish
 
@@ -109,29 +109,37 @@ No unverified format or ASIN is attributed.
 * Finlandés · Finnish
 * Polaco · Polish
 
-## Incidencias y datos pendientes / Active incidents and pending data
+## Datos todavía pendientes / Remaining pending data
 
 * ASIN específico de la tapa blanda en noruego bokmål: pendiente de verificación.
 * Norwegian Bokmål paperback-specific ASIN: pending verification.
-* Tapa blanda finlandesa `B0HCVSX23V`: publicada en KDP, pero sin página pública visible todavía.
-* Finnish paperback `B0HCVSX23V`: published in KDP, but its public product page is not visible yet.
-* Caso KDP `51071689`: pendiente de confirmación sobre la asociación completa de ediciones, metadatos y elevación de mejoras a KDP y Author Central.
-* KDP case `51071689`: pending confirmation on complete edition linking, metadata and escalation of proposed improvements to KDP and Author Central.
+* La disponibilidad de formatos concretos puede variar por marketplace y debe comprobarse en Amazon.
+* Availability of specific formats may vary by marketplace and should be checked on Amazon.
+
+## Resuelto / Resolved
+
+* Asociación e idioma de los formatos finlandeses: corrección operativa confirmada el 6 de agosto de 2026.
+* Finnish format association and language: operational correction confirmed on 6 August 2026.
+* Asociación de los formatos publicados de IDEA en doce idiomas con Author Central: confirmada por escrito.
+* Association of published IDEA formats in twelve languages with Author Central: confirmed in writing.
 
 ## No publicado / Not published
 
 * Noruego no bokmål · Non-Bokmål Norwegian
+* Japonés · Japanese: en preparación / in preparation
 
-La edición noruega no bokmål no se contabiliza entre los doce idiomas publicados.
+La edición noruega no bokmål y la edición japonesa no se contabilizan entre los doce idiomas publicados.
 
-The non-Bokmål Norwegian edition is not counted among the twelve published languages.
+The non-Bokmål Norwegian and Japanese editions are not counted among the twelve published languages.
 
 ---
 
 # Referencias canónicas / Canonical references
 
-* **Página pública principal / Main public page:** [IDEA · 1997–2002 · Edición internacional 2026](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
-* **Nodo documental / Documentary node:** [obras/idea](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/tree/main/obras/idea)
+* **Nodo documental canónico / Canonical documentary node:** [obras/idea/README.md](./README.md)
+* **Registro canónico de ediciones / Canonical editions register:** este archivo / this file
+* **Página Wiki de orientación / Wiki orientation page:** [IDEA · 1997–2002 · Edición internacional 2026](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
+* **Caso de éxito / Success case:** [Auditoría gratuita a Amazon KDP y Author Central](../../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
 * **Auditoría indirecta pública / Public indirect audit:** [KDP, Author Central e IDEA](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 
 ---
