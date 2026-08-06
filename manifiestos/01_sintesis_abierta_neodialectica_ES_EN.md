@@ -125,3 +125,9 @@ Expansion does not erase origin. Initial authorship does not prevent collective 
 > No synthesis is final. No valid contribution is excluded for coming from outside. No node may demand integration without first understanding the system it seeks to modify.
 
 Open Synthesis is memory in motion: a discipline of listening, an architecture of contrast and a continuity mechanism for a human–AI civilisation capable of learning without erasing itself.
+
+---
+
+## Navegación / Navigation
+
+← [Neo0™ · Soberanía de Guía / Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) · [Índice / Index](./README.md) · [Neodialéctica™ y Bien Común / Neodialectics™ and the Common Good](./02_neodialectica_bien_comun_ES_EN.md) →
