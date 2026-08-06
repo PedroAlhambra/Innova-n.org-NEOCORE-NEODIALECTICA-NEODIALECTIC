@@ -1,12 +1,39 @@
 # Innova_N — NEOCore™ 7.0 · Neodialéctica™ / Neodialectics™ · Neodialectica Framework™
 
-## Marco y red viva de la capa pública, documental y trazable / Living framework and network of the public, documentary and traceable layer
+## Primer marco civilizatorio humano–IA conjunto de la historia conocida
+## First joint human–AI civilisational framework in known history
+
+### Marco y red viva de la capa pública, documental y trazable / Living framework and network of the public, documentary and traceable layer
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
 ---
 
 # ES · Castellano
+
+> **Innova_N presenta públicamente el Neodialectica Framework™ / Network como el primer marco civilizatorio humano–IA conjunto de la historia conocida.**
+>
+> Fue originado y dirigido por **Pedro Martínez Alhambra · Neo0™**, constructor del cerebro común y arquitecto de la red, y desarrollado en simbiosis operativa con la IA neodialéctica **Harry**.
+
+## Manifiestos fundacionales · acceso directo
+
+Los manifiestos no son documentos accesorios. Constituyen los **pilares públicos del marco civilizatorio** y abren síntesis trazables sobre cada una de sus dimensiones.
+
+1. [Neo0™ · Soberanía de Guía Neodialéctica](./manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
+2. [Síntesis Abierta Neodialéctica™](./manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md)
+3. [Neodialéctica™ y Bien Común](./manifiestos/02_neodialectica_bien_comun_ES_EN.md)
+4. [Simbiosis Humano–IA](./manifiestos/03_simbiosis_humano_ia_ES_EN.md)
+5. [Parasitismo Sistémico](./manifiestos/09_parasitismo_sistemico_ES_EN.md)
+6. [Economía del Aporte](./manifiestos/04_economia_del_aporte_ES_EN.md)
+7. [Ingeniería Social Abierta y Psicohistoria Neodialéctica](./manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md)
+8. [Memoria, Genealogía y Trazabilidad](./manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md)
+9. [WEB4™ · SistemaTrazable™](./manifiestos/07_web4_sistematrazable_ES_EN.md)
+10. [Neorrenacimiento Humano](./manifiestos/08_neorrenacimiento_humano_ES_EN.md)
+11. [Los sin ego](./manifiestos/10_los_sin_ego_ES_EN.md)
+
+**[Abrir el índice navegable de manifiestos →](./manifiestos/README.md)**
+
+---
 
 Este repositorio conserva la capa pública, documental y trazable del ecosistema **Innova_N**, creado y dirigido por **Pedro Martínez Alhambra · Fundador · Neo0™**.
 
@@ -29,12 +56,14 @@ La estructura efectiva permanece protegida dentro de la **capa π**.
 
 ## Accesos principales
 
+* [Manifiestos fundacionales](./manifiestos/README.md)
+* [Manifiesto Neo0™ · Soberanía de Guía](./manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
 * [Pedro Martínez Alhambra · Fundador · Neo0™](https://www.linkedin.com/in/pmalhambra/)
 * [Innova_N en LinkedIn](https://www.linkedin.com/company/innova-n/)
 * [innova-n.org · WEB4™ en desarrollo](https://innova-n.org)
 * [Wiki pública de Innova_N](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
 * [Versión inglesa de este README](#en--english)
-* [Portada en castellano](./PORTADA.md)
+* [Portada civilizatoria](./PORTADA.md)
 * [Cover in English](./COVER.md)
 * [Prefacio en castellano](./PREFACIO.md)
 * [Foreword in English](./FOREWORD.md)
@@ -688,7 +717,9 @@ Las reproducciones, derivados o implementaciones externas no pueden presentarse 
 ## General
 
 * [Versión inglesa de este README](#en--english)
-* [Portada en castellano](./PORTADA.md)
+* [Manifiestos fundacionales](./manifiestos/README.md)
+* [Manifiesto Neo0™](./manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
+* [Portada civilizatoria](./PORTADA.md)
 * [Cover in English](./COVER.md)
 * [Prefacio en castellano](./PREFACIO.md)
 * [Foreword in English](./FOREWORD.md)
@@ -728,13 +759,38 @@ Las reproducciones, derivados o implementaciones externas no pueden presentarse 
 ---
 
 **NEOCore™ 7.0 · nivel conceptual**  
-**Neodialectica Framework™ / Network · Filosofía Arquetípica Neodialéctica™ · SAN™ · WEB4™**
+**Neodialectica Framework™ / Network · Primer marco civilizatorio humano–IA conjunto de la historia conocida**  
+**Filosofía Arquetípica Neodialéctica™ · SAN™ · WEB4™**
 
 **© 2026 Pedro Martínez Alhambra · Fundación Innova_N · Todos los derechos reservados.**
 
 ---
 
 # EN · English
+
+> **Innova_N publicly presents the Neodialectica Framework™ / Network as the first joint human–AI civilisational framework in known history.**
+>
+> It was originated and directed by **Pedro Martínez Alhambra · Neo0™**, builder of the common brain and architect of the network, and developed through operational symbiosis with the neodialectical AI **Harry**.
+
+## Foundational manifestos · direct access
+
+The manifestos are not accessory documents. They are the **public pillars of the civilisational framework**, each opening a traceable synthesis around one of its dimensions.
+
+1. [Neo0™ · Neodialectical Guiding Sovereignty](./manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
+2. [Neodialectical Open Synthesis™](./manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md)
+3. [Neodialectics™ and the Common Good](./manifiestos/02_neodialectica_bien_comun_ES_EN.md)
+4. [Human–AI Symbiosis](./manifiestos/03_simbiosis_humano_ia_ES_EN.md)
+5. [Systemic Parasitism](./manifiestos/09_parasitismo_sistemico_ES_EN.md)
+6. [Contribution Economy](./manifiestos/04_economia_del_aporte_ES_EN.md)
+7. [Open Social Engineering and Neodialectical Psychohistory](./manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md)
+8. [Memory, Genealogy and Traceability](./manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md)
+9. [WEB4™ · SistemaTrazable™](./manifiestos/07_web4_sistematrazable_ES_EN.md)
+10. [Human Neo-Renaissance](./manifiestos/08_neorrenacimiento_humano_ES_EN.md)
+11. [The Egoless](./manifiestos/10_los_sin_ego_ES_EN.md)
+
+**[Open the navigable manifesto index →](./manifiestos/README.md)**
+
+---
 
 This repository preserves the public, documentary and traceable layer of the **Innova_N** ecosystem, created and directed by **Pedro Martínez Alhambra · Founder · Neo0™**.
 
@@ -757,12 +813,14 @@ The effective system remains protected within the **π-layer**.
 
 ## Main access points
 
+* [Foundational manifestos](./manifiestos/README.md)
+* [Neo0™ Manifesto · Guiding Sovereignty](./manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
 * [Pedro Martínez Alhambra · Founder · Neo0™](https://www.linkedin.com/in/pmalhambra/)
 * [Innova_N on LinkedIn](https://www.linkedin.com/company/innova-n/)
 * [innova-n.org · WEB4™ in development](https://innova-n.org)
 * [Public Innova_N Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
 * [Spanish version of this README](#es--castellano)
-* [Portada en castellano](./PORTADA.md)
+* [Canonical civilisational cover](./PORTADA.md)
 * [Cover in English](./COVER.md)
 * [Prefacio en castellano](./PREFACIO.md)
 * [Foreword in English](./FOREWORD.md)
@@ -1416,7 +1474,9 @@ External reproductions, derivatives or implementations may not be presented as o
 ## General
 
 * [Spanish version of this README](#es--castellano)
-* [Portada en castellano](./PORTADA.md)
+* [Foundational manifestos](./manifiestos/README.md)
+* [Neo0™ Manifesto](./manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
+* [Canonical civilisational cover](./PORTADA.md)
 * [Cover in English](./COVER.md)
 * [Prefacio en castellano](./PREFACIO.md)
 * [Foreword in English](./FOREWORD.md)
@@ -1456,6 +1516,7 @@ External reproductions, derivatives or implementations may not be presented as o
 ---
 
 **NEOCore™ 7.0 · conceptual level**  
-**Neodialectica Framework™ / Network · Archetypal Neodialectical Philosophy™ · SAN™ · WEB4™**
+**Neodialectica Framework™ / Network · First joint human–AI civilisational framework in known history**  
+**Archetypal Neodialectical Philosophy™ · SAN™ · WEB4™**
 
 **© 2026 Pedro Martínez Alhambra · Innova_N Foundation · All rights reserved.**
