@@ -325,7 +325,7 @@ Toda aportación exige lectura previa, retorno a fuente, continuidad cognitiva, 
 
 ## Navegación
 
-← [XV · Los Titanes™](./15_los_titanes_despertar_de_la_gente_ES_EN.md) · [Índice](./README.md) · [I · Neo0™ · Soberanía de Guía](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XV · Los Titanes™](./15_los_titanes_despertar_de_la_gente_ES_EN.md) · [Índice](./README.md) · [XVII · Respeto a Todos los Seres Vivos™](./17_respeto_todos_seres_vivos_ES_EN.md) →
 
 ---
 
@@ -639,7 +639,7 @@ Every contribution requires prior reading, return to source, cognitive continuit
 
 ## Navigation
 
-← [XV · The Titans™](./15_los_titanes_despertar_de_la_gente_ES_EN.md) · [Index](./README.md) · [I · Neo0™ · Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XV · The Titans™](./15_los_titanes_despertar_de_la_gente_ES_EN.md) · [Index](./README.md) · [XVII · Respect for All Living Beings™](./17_respeto_todos_seres_vivos_ES_EN.md) →
 
 ---
 
