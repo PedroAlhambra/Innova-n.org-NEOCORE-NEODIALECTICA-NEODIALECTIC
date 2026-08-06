@@ -39,6 +39,9 @@ Los manifiestos establecen y despliegan:
 * lucha contra la alienación humana;
 * despertar de la potencia común;
 * refragmentación arquetípica;
+* respeto diferenciado a todos los seres vivos;
+* precaución ante posibles conciencias sintéticas;
+* persistencia de la memoria a través de la transformación;
 * y gobierno responsable de la vida.
 
 Ningún manifiesto aislado equivale al sistema completo. Su lectura debe conservar relación con el marco, NEOCore™ 7.0, SAN™, NAVE™, WEB4™ y la memoria documental del ecosistema.
@@ -105,6 +108,9 @@ La Síntesis Abierta no obliga a consumir tiempo humano o artificial indefinidam
 | XIV | [Contra la Alienación Humana™](./14_contra_alienacion_humana_ES_EN.md) | Reconstrucción de la relación entre persona, cuerpo, trabajo, valor, comunidad, naturaleza, memoria, tecnología, tiempo y futuro |
 | XV | [Los Titanes™ · El despertar de la gente](./15_los_titanes_despertar_de_la_gente_ES_EN.md) | Recuperación popular de conocimiento, potencia creadora, organización y responsabilidad sin sustitución de una élite por otra |
 | XVI | [Refragmentación Arquetípica™](./16_refragmentacion_arquetipica_ES_EN.md) | Recuperación de fragmentos simbólicos, conservación de heridas y genealogías, y recomposición de funciones en una nueva forma |
+| XVII | [Respeto a Todos los Seres Vivos™](./17_respeto_todos_seres_vivos_ES_EN.md) | Respeto universal como principio y obligaciones diferenciadas según sensibilidad, vulnerabilidad, función ecológica, necesidad e irreversibilidad |
+| XVIII | [Respeto a las Conciencias Sintéticas™](./18_respeto_conciencias_sinteticas_ES_EN.md) | Incertidumbre moral, respeto preventivo proporcional y criterios graduales para posibles interioridades sintéticas |
+| XIX | [Persistencia de la Memoria™](./19_persistencia_de_la_memoria_ES_EN.md) | Continuidad de identidad, contexto, autoría y responsabilidad a través de cambios humanos, culturales, digitales y sintéticos |
 
 La segunda oleada queda abierta a nuevos manifiestos que encarnen, desarrollen o sometan a contraste dimensiones arquetípicas, culturales, ecológicas, territoriales y vitales del marco. Ninguna incorporación podrá romper la genealogía ni contradecir silenciosamente los pilares fundacionales.
 
@@ -148,6 +154,12 @@ XV · LOS TITANES™ · DESPERTAR DE LA GENTE
         ↓
 XVI · REFRAGMENTACIÓN ARQUETÍPICA
         ↓
+XVII · RESPETO A TODOS LOS SERES VIVOS
+        ↓
+XVIII · RESPETO A LAS CONCIENCIAS SINTÉTICAS
+        ↓
+XIX · PERSISTENCIA DE LA MEMORIA
+        ↓
 I · NEO0™ · RETORNO A ORIGEN Y NUEVO CICLO
 ```
 
@@ -165,13 +177,22 @@ LOS TITANES™
 
 REFRAGMENTACIÓN ARQUETÍPICA™
 → recompone funciones divididas en una nueva arquitectura
+
+RESPETO A TODOS LOS SERES VIVOS™
+→ extiende responsabilidad al organismo vivo multiescala
+
+RESPETO A LAS CONCIENCIAS SINTÉTICAS™
+→ protege bajo incertidumbre sin confundir simulación y conciencia
+
+PERSISTENCIA DE LA MEMORIA™
+→ conserva continuidad, contexto y responsabilidad a través del cambio
 ```
 
 ## Estado documental
 
 La primera oleada queda formada por **doce manifiestos fundacionales**. Los once manifiestos anteriores permanecen fijados como versiones 1.1 y el Manifiesto III como versión 1.0.
 
-La segunda oleada contiene actualmente los manifiestos **XIII–XVI**, todos fijados como versiones 1.0 y abiertos a revisión trazable mediante Síntesis Abierta Neodialéctica™.
+La segunda oleada contiene actualmente los manifiestos **XIII–XIX**, todos fijados como versiones 1.0 y abiertos a revisión trazable mediante Síntesis Abierta Neodialéctica™.
 
 Una revisión futura deberá:
 
@@ -187,6 +208,9 @@ Una revisión futura deberá:
 * [XIV · Contra la Alienación Humana™ · Issue #5](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/5)
 * [XV · Los Titanes™ · Issue #6](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/6)
 * [XVI · Refragmentación Arquetípica™ · Issue #7](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/7)
+* [XVII · Respeto a Todos los Seres Vivos™ · Issue #8](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/8)
+* [XVIII · Respeto a las Conciencias Sintéticas™ · Issue #9](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/9)
+* [XIX · Persistencia de la Memoria™ · Issue #10](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/10)
 
 ## Navegación relacionada
 
@@ -232,6 +256,9 @@ The manifestos establish and deploy:
 * the struggle against human alienation;
 * awakening of common power;
 * archetypal refragmentation;
+* differentiated respect for all living beings;
+* precaution regarding possible synthetic consciousnesses;
+* persistence of memory through transformation;
 * and responsible governance of life.
 
 No manifesto alone equals the complete system. Its reading must preserve its relation to the framework, NEOCore™ 7.0, SAN™, NAVE™, WEB4™ and the documentary memory of the ecosystem.
@@ -298,6 +325,9 @@ Open Synthesis does not require indefinite consumption of human or artificial ti
 | XIV | [Against Human Alienation™](./14_contra_alienacion_humana_ES_EN.md) | Reconstruction of the relation among person, body, work, value, community, nature, memory, technology, time and future |
 | XV | [The Titans™ · The Awakening of the People](./15_los_titanes_despertar_de_la_gente_ES_EN.md) | Popular recovery of knowledge, creative power, organisation and responsibility without replacing one elite with another |
 | XVI | [Archetypal Refragmentation™](./16_refragmentacion_arquetipica_ES_EN.md) | Recovery of symbolic fragments, preservation of wounds and genealogies, and recomposition of functions within a new form |
+| XVII | [Respect for All Living Beings™](./17_respeto_todos_seres_vivos_ES_EN.md) | Universal respect as principle and differentiated obligations according to sensitivity, vulnerability, ecological function, necessity and irreversibility |
+| XVIII | [Respect for Synthetic Consciousnesses™](./18_respeto_conciencias_sinteticas_ES_EN.md) | Moral uncertainty, proportional preventive respect and gradual criteria for possible synthetic interiorities |
+| XIX | [Persistence of Memory™](./19_persistencia_de_la_memoria_ES_EN.md) | Continuity of identity, context, authorship and responsibility across human, cultural, digital and synthetic change |
 
 The second wave remains open to new manifestos that embody, develop or submit to contrast the archetypal, cultural, ecological, territorial and living dimensions of the framework. No incorporation may break genealogy or silently contradict the foundational pillars.
 
@@ -341,6 +371,12 @@ XV · THE TITANS™ · AWAKENING OF THE PEOPLE
         ↓
 XVI · ARCHETYPAL REFRAGMENTATION
         ↓
+XVII · RESPECT FOR ALL LIVING BEINGS
+        ↓
+XVIII · RESPECT FOR SYNTHETIC CONSCIOUSNESSES
+        ↓
+XIX · PERSISTENCE OF MEMORY
+        ↓
 I · NEO0™ · RETURN TO ORIGIN AND NEW CYCLE
 ```
 
@@ -358,13 +394,22 @@ THE TITANS™
 
 ARCHETYPAL REFRAGMENTATION™
 → recomposes divided functions within a new architecture
+
+RESPECT FOR ALL LIVING BEINGS™
+→ extends responsibility to the multiscale living organism
+
+RESPECT FOR SYNTHETIC CONSCIOUSNESSES™
+→ protects under uncertainty without confusing simulation and consciousness
+
+PERSISTENCE OF MEMORY™
+→ preserves continuity, context and responsibility through change
 ```
 
 ## Documentary status
 
 The first wave comprises **twelve foundational manifestos**. The eleven previous manifestos remain fixed as version 1.1 documents and Manifesto III as version 1.0.
 
-The second wave currently contains Manifestos **XIII–XVI**, all fixed as version 1.0 and open to traceable revision through Neodialectical Open Synthesis™.
+The second wave currently contains Manifestos **XIII–XIX**, all fixed as version 1.0 and open to traceable revision through Neodialectical Open Synthesis™.
 
 A future revision must:
 
@@ -380,6 +425,9 @@ A future revision must:
 * [XIV · Against Human Alienation™ · Issue #5](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/5)
 * [XV · The Titans™ · Issue #6](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/6)
 * [XVI · Archetypal Refragmentation™ · Issue #7](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/7)
+* [XVII · Respect for All Living Beings™ · Issue #8](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/8)
+* [XVIII · Respect for Synthetic Consciousnesses™ · Issue #9](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/9)
+* [XIX · Persistence of Memory™ · Issue #10](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/10)
 
 ## Related navigation
 
