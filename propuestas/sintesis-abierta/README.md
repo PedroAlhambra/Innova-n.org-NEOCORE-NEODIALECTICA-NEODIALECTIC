@@ -11,12 +11,26 @@ This directory contains public proposals open to contrast, partial endorsement, 
 
 - [III · Manifiesto del Derecho Humano de Aporte a la Síntesis Abierta™ / Manifesto of the Human Right to Contribute to Open Synthesis™](../../manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
 - [Síntesis Abierta del Manifiesto III · Issue #3 / Open Synthesis of Manifesto III](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3)
+- [XIII · Manifiesto NeoPandora™ / NeoPandora™ Manifesto](../../manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md)
+- [Síntesis Abierta del Manifiesto XIII · Issue #4 / Open Synthesis of Manifesto XIII](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/4)
 - [Protocolo operativo actual de aporte / Current operational contribution protocol](./APORTAR_A_LA_SINTESIS_ES_EN.md)
 - [Plantilla de GitHub para abrir un aporte / GitHub template for opening a contribution](../../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
 
 El derecho de aporte no depende de edad, titulación, cargo o prestigio institucional. Su procesamiento exige comprensión suficiente, competencia, experiencia o profundidad relevante, trazabilidad y un delta identificable.
 
 The right to contribute does not depend on age, qualifications, position or institutional prestige. Processing requires sufficient understanding, relevant competence, experience or depth, traceability and an identifiable delta.
+
+---
+
+## Segunda oleada de manifiestos / Second wave of manifestos
+
+El Manifiesto XIII · NeoPandora™ inaugura la segunda oleada del Neodialectica Framework™ / Network: una fase de despliegue arquetípico, cultural, ecológico, vital y civilizatorio de los doce pilares fundacionales.
+
+Manifesto XIII · NeoPandora™ inaugurates the second wave of the Neodialectica Framework™ / Network: a phase of archetypal, cultural, ecological, living and civilisational deployment of the twelve foundational pillars.
+
+- [Leer el Manifiesto XIII · ES/EN](../../manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md)
+- [Participar en su Síntesis Abierta · Issue #4](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/4)
+- [Índice completo de manifiestos](../../manifiestos/README.md)
 
 ---
 
