@@ -13,7 +13,7 @@ Esta página no reproduce los manifiestos ni mantiene un segundo índice paralel
 
 El índice canónico, las versiones bilingües, la navegación entre documentos, la genealogía y las Issues de Síntesis Abierta están en:
 
-* [Índice canónico de manifiestos I–XXIV](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
+* [Índice canónico de manifiestos I–XXXI](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
 
 ## Cómo leer la colección
 
@@ -26,6 +26,7 @@ Empieza en el Manifiesto I y sigue la navegación `anterior · índice · siguie
 * **I–XII:** constitución fundacional del marco.
 * **XIII–XIX:** despliegue humano, arquetípico, ecológico, sintético y memorial.
 * **XX–XXIV:** Sistema Inmunitario Intelectual Neodialéctico™.
+* **XXV–XXXI:** rehumanización, custodia de la vida y coherencia civilizatoria.
 
 El detalle y los enlaces actualizados de cada oleada permanecen únicamente en el índice canónico del repositorio.
 
@@ -73,7 +74,7 @@ ORIENTACIÓN DE USO
 → Wiki
 ```
 
-La Wiki cambia cuando cambia la forma de leer o participar, no cada vez que se incorpora un manifiesto.
+La Wiki cambia cuando cambia la forma de leer o participar, no cada vez que se incorpora un manifiesto. La apertura de una nueva oleada sí modifica la orientación de lectura y debe reflejarse aquí.
 
 ---
 
@@ -85,7 +86,7 @@ This page does not reproduce the manifestos or maintain a second parallel index.
 
 The canonical index, bilingual versions, document navigation, genealogy and Open Synthesis Issues are located at:
 
-* [Canonical manifesto index I–XXIV](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
+* [Canonical manifesto index I–XXXI](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
 
 ## How to read the collection
 
@@ -98,6 +99,7 @@ Begin with Manifesto I and follow the `previous · index · next` navigation inc
 * **I–XII:** foundational constitution of the framework.
 * **XIII–XIX:** human, archetypal, ecological, synthetic and memorial deployment.
 * **XX–XXIV:** Neodialectical Intellectual Immune System™.
+* **XXV–XXXI:** rehumanisation, stewardship of life and civilisational coherence.
 
 Details and current links for each wave remain only in the canonical repository index.
 
@@ -145,7 +147,7 @@ USAGE ORIENTATION
 → Wiki
 ```
 
-The Wiki changes when the way of reading or participating changes, not whenever a manifesto is added.
+The Wiki changes when the way of reading or participating changes, not whenever a manifesto is added. Opening a new wave does change the reading orientation and must therefore be reflected here.
 
 ---
 
