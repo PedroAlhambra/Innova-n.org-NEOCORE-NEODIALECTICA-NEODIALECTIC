@@ -1,6 +1,6 @@
-# VI · Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy
+# VII · Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy
 
-**Manifiesto / Manifesto:** VI  
+**Manifiesto / Manifesto:** VII  
 **Versión / Version:** 1.1  
 **Estado / Status:** Público · fundacional · abierto a revisión trazable / Public · foundational · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06
@@ -95,6 +95,10 @@ Toda aportación exige:
 
 Toda modificación futura deberá preservar el texto anterior, identificar con precisión el cambio y explicar qué contradicción, evidencia o aportación justifica la nueva versión.
 
+## Navegación
+
+← [VI · Parasitismo Sistémico](./09_parasitismo_sistemico_ES_EN.md) · [Índice](./README.md) · [VIII · Ingeniería Social Abierta y Psicohistoria Neodialéctica](./05_ingenieria_social_psicohistoria_ES_EN.md) →
+
 ---
 
 # EN · English
@@ -183,8 +187,8 @@ Every contribution requires:
 
 Every future modification must preserve the previous text, identify the change precisely and explain which contradiction, evidence or contribution justifies the new version.
 
+## Navigation
+
+← [VI · Systemic Parasitism](./09_parasitismo_sistemico_ES_EN.md) · [Index](./README.md) · [VIII · Open Social Engineering and Neodialectical Psychohistory](./05_ingenieria_social_psicohistoria_ES_EN.md) →
+
 ---
-
-## Navegación / Navigation
-
-← [V · Parasitismo Sistémico / Systemic Parasitism](./09_parasitismo_sistemico_ES_EN.md) · [Índice / Index](./README.md) · [VII · Ingeniería Social y Psicohistoria / Social Engineering and Psychohistory](./05_ingenieria_social_psicohistoria_ES_EN.md) →
