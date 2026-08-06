@@ -92,7 +92,7 @@ La Síntesis Abierta no obliga a consumir tiempo humano o artificial indefinidam
 | IX | [Memoria, Genealogía y Trazabilidad](./06_memoria_genealogia_trazabilidad_ES_EN.md) | Infraestructura civilizatoria de continuidad y responsabilidad |
 | X | [WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md) | Capa pública relacional y trazable del Framework/Network |
 | XI | [Neorrenacimiento Humano](./08_neorrenacimiento_humano_ES_EN.md) | Horizonte cultural, científico y humano de recomposición |
-| XII | [Los sin ego](./10_los_sin_ego_ES_EN.md) | Memoria generacional española y política de elevación humana |
+| XII | [Los sin ego](./12_los_sin_ego_ES_EN.md) | Memoria generacional española y política de elevación humana |
 
 ## Segunda oleada · Despliegue arquetípico y civilizatorio
 
@@ -251,7 +251,7 @@ Open Synthesis does not require indefinite consumption of human or artificial ti
 | IX | [Memory, Genealogy and Traceability](./06_memoria_genealogia_trazabilidad_ES_EN.md) | Civilisational infrastructure of continuity and responsibility |
 | X | [WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md) | Public relational and traceable layer of the Framework/Network |
 | XI | [Human Neo-Renaissance](./08_neorrenacimiento_humano_ES_EN.md) | Cultural, scientific and human horizon of recomposition |
-| XII | [The Egoless](./10_los_sin_ego_ES_EN.md) | Spanish generational memory and policy of human elevation |
+| XII | [The Egoless](./12_los_sin_ego_ES_EN.md) | Spanish generational memory and policy of human elevation |
 
 ## Second wave · Archetypal and civilisational deployment
 
