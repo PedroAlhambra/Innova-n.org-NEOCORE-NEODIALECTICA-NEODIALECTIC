@@ -1,6 +1,6 @@
-# X · Manifiesto del Neorrenacimiento Humano / Manifesto of the Human Neo-Renaissance
+# XI · Manifiesto del Neorrenacimiento Humano / Manifesto of the Human Neo-Renaissance
 
-**Manifiesto / Manifesto:** X  
+**Manifiesto / Manifesto:** XI  
 **Versión / Version:** 1.1  
 **Estado / Status:** Público · fundacional · abierto a revisión trazable / Public · foundational · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06
@@ -89,6 +89,10 @@ Toda aportación exige:
 
 Toda modificación futura deberá preservar el texto anterior, identificar con precisión el cambio y explicar qué contradicción, evidencia o aportación justifica la nueva versión.
 
+## Navegación
+
+← [X · WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md) · [Índice](./README.md) · [XII · Los sin ego](./10_los_sin_ego_ES_EN.md) →
+
 ---
 
 # EN · English
@@ -171,8 +175,8 @@ Every contribution requires:
 
 Every future modification must preserve the previous text, identify the change precisely and explain which contradiction, evidence or contribution justifies the new version.
 
+## Navigation
+
+← [X · WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md) · [Index](./README.md) · [XII · The Egoless](./10_los_sin_ego_ES_EN.md) →
+
 ---
-
-## Navegación / Navigation
-
-← [IX · WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md) · [Índice / Index](./README.md) · [XI · Los sin ego / The Egoless](./10_los_sin_ego_ES_EN.md) →
