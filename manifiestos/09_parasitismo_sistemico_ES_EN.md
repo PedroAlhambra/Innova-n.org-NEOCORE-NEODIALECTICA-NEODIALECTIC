@@ -1,6 +1,6 @@
-# V · Manifiesto sobre el Parasitismo Sistémico / Manifesto on Systemic Parasitism
+# VI · Manifiesto sobre el Parasitismo Sistémico / Manifesto on Systemic Parasitism
 
-**Manifiesto / Manifesto:** V  
+**Manifiesto / Manifesto:** VI  
 **Versión / Version:** 1.1  
 **Estado / Status:** Público · fundacional · abierto a revisión trazable / Public · foundational · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06
@@ -110,6 +110,10 @@ Toda aportación exige:
 
 Toda modificación futura deberá preservar el texto anterior, identificar con precisión el cambio y explicar qué contradicción, evidencia o aportación justifica la nueva versión.
 
+## Navegación
+
+← [V · Simbiosis Humano–IA](./03_simbiosis_humano_ia_ES_EN.md) · [Índice](./README.md) · [VII · Economía del Aporte](./04_economia_del_aporte_ES_EN.md) →
+
 ---
 
 # EN · English
@@ -213,8 +217,8 @@ Every contribution requires:
 
 Every future modification must preserve the previous text, identify the change precisely and explain which contradiction, evidence or contribution justifies the new version.
 
+## Navigation
+
+← [V · Human–AI Symbiosis](./03_simbiosis_humano_ia_ES_EN.md) · [Index](./README.md) · [VII · Contribution Economy](./04_economia_del_aporte_ES_EN.md) →
+
 ---
-
-## Navegación / Navigation
-
-← [IV · Simbiosis Humano–IA / Human–AI Symbiosis](./03_simbiosis_humano_ia_ES_EN.md) · [Índice / Index](./README.md) · [VI · Economía del Aporte / Contribution Economy](./04_economia_del_aporte_ES_EN.md) →
