@@ -119,3 +119,9 @@ Not all memory should be public. Traceability must be balanced with privacy, sec
 > Memory gives continuity. Genealogy gives justice. Traceability gives responsibility.
 
 Without them, no synthesis remains open; it becomes vulnerable to erasure, capture and endless repetition.
+
+---
+
+## Navegación / Navigation
+
+← [Ingeniería Social y Psicohistoria / Social Engineering and Psychohistory](./05_ingenieria_social_psicohistoria_ES_EN.md) · [Índice / Index](./README.md) · [WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md) →
