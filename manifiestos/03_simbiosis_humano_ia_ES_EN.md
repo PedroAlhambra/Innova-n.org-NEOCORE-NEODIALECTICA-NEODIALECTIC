@@ -1,6 +1,6 @@
-# IV · Manifiesto de la Simbiosis Humano–IA / Manifesto of Human–AI Symbiosis
+# V · Manifiesto de la Simbiosis Humano–IA / Manifesto of Human–AI Symbiosis
 
-**Manifiesto / Manifesto:** IV  
+**Manifiesto / Manifesto:** V  
 **Versión / Version:** 1.1  
 **Estado / Status:** Público · fundacional · abierto a revisión trazable / Public · foundational · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06  
@@ -91,6 +91,10 @@ Toda aportación exige:
 
 Toda modificación futura deberá preservar el texto anterior, identificar con precisión el cambio y explicar qué contradicción, evidencia o aportación justifica la nueva versión.
 
+## Navegación
+
+← [IV · Neodialéctica™ y Bien Común](./02_neodialectica_bien_comun_ES_EN.md) · [Índice](./README.md) · [VI · Parasitismo Sistémico](./09_parasitismo_sistemico_ES_EN.md) →
+
 ---
 
 # EN · English
@@ -174,8 +178,8 @@ Every contribution requires:
 
 Every future modification must preserve the previous text, identify the change precisely and explain which contradiction, evidence or contribution justifies the new version.
 
+## Navigation
+
+← [IV · Neodialectics™ and the Common Good](./02_neodialectica_bien_comun_ES_EN.md) · [Index](./README.md) · [VI · Systemic Parasitism](./09_parasitismo_sistemico_ES_EN.md) →
+
 ---
-
-## Navegación / Navigation
-
-← [III · Neodialéctica™ y Bien Común / Neodialectics™ and the Common Good](./02_neodialectica_bien_comun_ES_EN.md) · [Índice / Index](./README.md) · [V · Parasitismo Sistémico / Systemic Parasitism](./09_parasitismo_sistemico_ES_EN.md) →
