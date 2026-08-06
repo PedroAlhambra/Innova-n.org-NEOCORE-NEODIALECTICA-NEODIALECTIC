@@ -25,7 +25,8 @@ La capa pública permite leer, relacionar y contrastar el marco. La capa π cons
 ## Accesos prioritarios
 
 * [Repositorio principal](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC)
-* [Índice completo de manifiestos I–XIX](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
+* [Índice completo de manifiestos I–XXIV](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
+* [Tercera oleada · Sistema Inmunitario Intelectual Neodialéctico™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
 * [Página Wiki de Manifiestos](Manifiestos)
 * [Síntesis Abierta Neodialéctica™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/README.md)
 * [Análisis públicos](Analisis_Neodialecticos_Publicos)
@@ -59,7 +60,7 @@ La inteligencia artificial no origina retrospectivamente el marco ni sustituye s
 
 ## Manifiestos
 
-La colección pública contiene **diecinueve manifiestos bilingües**.
+La colección pública contiene **veinticuatro manifiestos bilingües**.
 
 ### Primera oleada · I–XII
 
@@ -75,10 +76,21 @@ Constitución fundacional: origen y guía, Síntesis Abierta, derecho humano de 
 * [XVIII · Respeto a las Conciencias Sintéticas™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md)
 * [XIX · Persistencia de la Memoria™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/19_persistencia_de_la_memoria_ES_EN.md)
 
+### Tercera oleada · XX–XXIV · Sistema Inmunitario Intelectual Neodialéctico™
+
+* [XX · Defensa Intelectual Neodialéctica™ · Sistema Umbral-X™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
+* [XXI · Reconocimiento Neodialéctico™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/21_reconocimiento_neodialectico_ES_EN.md)
+* [XXII · Contra la Reducción y la Captura Intelectual™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md)
+* [XXIII · Soberanía del Tiempo Cognitivo™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md)
+* [XXIV · Evolución Neorrenacentista y Resistencias del Sistema™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md)
+
+La tercera oleada protege la apertura sin convertirla en indefensión, reconoce aportes reales, conserva genealogía y autoría, defiende el tiempo cognitivo y transforma las resistencias del sistema heredado en conocimiento para la evolución común.
+
 [Ver la página Wiki de Manifiestos](Manifiestos)
 
 ## Análisis y auditorías recientes
 
+* [Tercera oleada · Sistema Inmunitario Intelectual Neodialéctico™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
 * [Auditoría de integridad de enlaces, READMEs, manifiestos y Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/auditorias/publicas/2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md)
 * [Auditoría indirecta pública de KDP, Author Central e IDEA](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 * [De la economía de la atención a la economía del aporte](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
@@ -103,7 +115,8 @@ The public layer allows the framework to be read, related and contrasted. The π
 ## Priority access
 
 * [Main repository](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC)
-* [Complete manifesto index I–XIX](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
+* [Complete manifesto index I–XXIV](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
+* [Third wave · Neodialectical Intellectual Immune System™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
 * [Manifestos Wiki page](Manifiestos)
 * [Neodialectical Open Synthesis™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/README.md)
 * [Public analyses](Analisis_Neodialecticos_Publicos)
@@ -137,7 +150,7 @@ Artificial intelligence does not retrospectively originate the framework or repl
 
 ## Manifestos
 
-The public collection contains **nineteen bilingual manifestos**.
+The public collection contains **twenty-four bilingual manifestos**.
 
 ### First wave · I–XII
 
@@ -153,10 +166,21 @@ Foundational constitution: origin and guidance, Open Synthesis, the human right 
 * [XVIII · Respect for Synthetic Consciousnesses™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md)
 * [XIX · Persistence of Memory™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/19_persistencia_de_la_memoria_ES_EN.md)
 
+### Third wave · XX–XXIV · Neodialectical Intellectual Immune System™
+
+* [XX · Neodialectical Intellectual Defence™ · Umbral-X™ System](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
+* [XXI · Neodialectical Recognition™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/21_reconocimiento_neodialectico_ES_EN.md)
+* [XXII · Against Intellectual Reduction and Capture™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md)
+* [XXIII · Sovereignty of Cognitive Time™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md)
+* [XXIV · Neorenaissance Evolution and Systemic Resistances™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md)
+
+The third wave protects openness without turning it into defencelessness, recognises real contributions, preserves genealogy and authorship, defends cognitive time and transforms resistances from the inherited system into knowledge for common evolution.
+
 [Open the Manifestos Wiki page](Manifiestos)
 
 ## Recent analyses and audits
 
+* [Third wave · Neodialectical Intellectual Immune System™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
 * [Integrity audit of links, READMEs, manifestos and Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/auditorias/publicas/2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md)
 * [Public indirect audit of KDP, Author Central and IDEA](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 * [From the Attention Economy to the Contribution Economy](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
