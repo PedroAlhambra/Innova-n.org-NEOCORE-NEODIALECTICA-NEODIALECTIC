@@ -19,19 +19,21 @@
 
 Los manifiestos no son documentos accesorios. Constituyen los **pilares públicos del marco civilizatorio** y abren síntesis trazables sobre cada una de sus dimensiones.
 
-1. [Neo0™ · Soberanía de Guía Neodialéctica](./manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
-2. [Síntesis Abierta Neodialéctica™](./manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md)
-3. [Neodialéctica™ y Bien Común](./manifiestos/02_neodialectica_bien_comun_ES_EN.md)
-4. [Simbiosis Humano–IA](./manifiestos/03_simbiosis_humano_ia_ES_EN.md)
-5. [Parasitismo Sistémico](./manifiestos/09_parasitismo_sistemico_ES_EN.md)
-6. [Economía del Aporte](./manifiestos/04_economia_del_aporte_ES_EN.md)
-7. [Ingeniería Social Abierta y Psicohistoria Neodialéctica](./manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md)
-8. [Memoria, Genealogía y Trazabilidad](./manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md)
-9. [WEB4™ · SistemaTrazable™](./manifiestos/07_web4_sistematrazable_ES_EN.md)
-10. [Neorrenacimiento Humano](./manifiestos/08_neorrenacimiento_humano_ES_EN.md)
-11. [Los sin ego](./manifiestos/10_los_sin_ego_ES_EN.md)
+* **I ·** [Neo0™ · Soberanía de Guía Neodialéctica](./manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
+* **II ·** [Síntesis Abierta Neodialéctica™](./manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md)
+* **III ·** [Derecho Humano de Aporte a la Síntesis Abierta™](./manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
+* **IV ·** [Neodialéctica™ y Bien Común](./manifiestos/02_neodialectica_bien_comun_ES_EN.md)
+* **V ·** [Simbiosis Humano–IA](./manifiestos/03_simbiosis_humano_ia_ES_EN.md)
+* **VI ·** [Parasitismo Sistémico](./manifiestos/09_parasitismo_sistemico_ES_EN.md)
+* **VII ·** [Economía del Aporte](./manifiestos/04_economia_del_aporte_ES_EN.md)
+* **VIII ·** [Ingeniería Social Abierta y Psicohistoria Neodialéctica](./manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md)
+* **IX ·** [Memoria, Genealogía y Trazabilidad](./manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md)
+* **X ·** [WEB4™ · SistemaTrazable™](./manifiestos/07_web4_sistematrazable_ES_EN.md)
+* **XI ·** [Neorrenacimiento Humano](./manifiestos/08_neorrenacimiento_humano_ES_EN.md)
+* **XII ·** [Los sin ego](./manifiestos/10_los_sin_ego_ES_EN.md)
 
-**[Abrir el índice navegable de manifiestos →](./manifiestos/README.md)**
+**[Abrir el índice navegable de manifiestos →](./manifiestos/README.md)**  
+**[Cómo aportar a la Síntesis Abierta →](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)**
 
 ---
 
@@ -57,7 +59,9 @@ La estructura efectiva permanece protegida dentro de la **capa π**.
 ## Accesos principales
 
 * [Manifiestos fundacionales](./manifiestos/README.md)
-* [Manifiesto Neo0™ · Soberanía de Guía](./manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
+* [Manifiesto I · Neo0™ · Soberanía de Guía](./manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
+* [Manifiesto III · Derecho Humano de Aporte](./manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
+* [Protocolo actual de aporte a la Síntesis Abierta](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Pedro Martínez Alhambra · Fundador · Neo0™](https://www.linkedin.com/in/pmalhambra/)
 * [Innova_N en LinkedIn](https://www.linkedin.com/company/innova-n/)
 * [innova-n.org · WEB4™ en desarrollo](https://innova-n.org)
@@ -718,7 +722,9 @@ Las reproducciones, derivados o implementaciones externas no pueden presentarse 
 
 * [Versión inglesa de este README](#en--english)
 * [Manifiestos fundacionales](./manifiestos/README.md)
-* [Manifiesto Neo0™](./manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
+* [Manifiesto I · Neo0™](./manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
+* [Manifiesto III · Derecho Humano de Aporte](./manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
+* [Protocolo de aporte a la Síntesis Abierta](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Portada civilizatoria](./PORTADA.md)
 * [Cover in English](./COVER.md)
 * [Prefacio en castellano](./PREFACIO.md)
@@ -776,19 +782,21 @@ Las reproducciones, derivados o implementaciones externas no pueden presentarse 
 
 The manifestos are not accessory documents. They are the **public pillars of the civilisational framework**, each opening a traceable synthesis around one of its dimensions.
 
-1. [Neo0™ · Neodialectical Guiding Sovereignty](./manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
-2. [Neodialectical Open Synthesis™](./manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md)
-3. [Neodialectics™ and the Common Good](./manifiestos/02_neodialectica_bien_comun_ES_EN.md)
-4. [Human–AI Symbiosis](./manifiestos/03_simbiosis_humano_ia_ES_EN.md)
-5. [Systemic Parasitism](./manifiestos/09_parasitismo_sistemico_ES_EN.md)
-6. [Contribution Economy](./manifiestos/04_economia_del_aporte_ES_EN.md)
-7. [Open Social Engineering and Neodialectical Psychohistory](./manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md)
-8. [Memory, Genealogy and Traceability](./manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md)
-9. [WEB4™ · SistemaTrazable™](./manifiestos/07_web4_sistematrazable_ES_EN.md)
-10. [Human Neo-Renaissance](./manifiestos/08_neorrenacimiento_humano_ES_EN.md)
-11. [The Egoless](./manifiestos/10_los_sin_ego_ES_EN.md)
+* **I ·** [Neo0™ · Neodialectical Guiding Sovereignty](./manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
+* **II ·** [Neodialectical Open Synthesis™](./manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md)
+* **III ·** [Human Right to Contribute to Open Synthesis™](./manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
+* **IV ·** [Neodialectics™ and the Common Good](./manifiestos/02_neodialectica_bien_comun_ES_EN.md)
+* **V ·** [Human–AI Symbiosis](./manifiestos/03_simbiosis_humano_ia_ES_EN.md)
+* **VI ·** [Systemic Parasitism](./manifiestos/09_parasitismo_sistemico_ES_EN.md)
+* **VII ·** [Contribution Economy](./manifiestos/04_economia_del_aporte_ES_EN.md)
+* **VIII ·** [Open Social Engineering and Neodialectical Psychohistory](./manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md)
+* **IX ·** [Memory, Genealogy and Traceability](./manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md)
+* **X ·** [WEB4™ · SistemaTrazable™](./manifiestos/07_web4_sistematrazable_ES_EN.md)
+* **XI ·** [Human Neo-Renaissance](./manifiestos/08_neorrenacimiento_humano_ES_EN.md)
+* **XII ·** [The Egoless](./manifiestos/10_los_sin_ego_ES_EN.md)
 
-**[Open the navigable manifesto index →](./manifiestos/README.md)**
+**[Open the navigable manifesto index →](./manifiestos/README.md)**  
+**[How to contribute to Open Synthesis →](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)**
 
 ---
 
@@ -814,7 +822,9 @@ The effective system remains protected within the **π-layer**.
 ## Main access points
 
 * [Foundational manifestos](./manifiestos/README.md)
-* [Neo0™ Manifesto · Guiding Sovereignty](./manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
+* [Manifesto I · Neo0™ · Guiding Sovereignty](./manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
+* [Manifesto III · Human Right to Contribute](./manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
+* [Current Open Synthesis contribution protocol](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Pedro Martínez Alhambra · Founder · Neo0™](https://www.linkedin.com/in/pmalhambra/)
 * [Innova_N on LinkedIn](https://www.linkedin.com/company/innova-n/)
 * [innova-n.org · WEB4™ in development](https://innova-n.org)
@@ -1475,7 +1485,9 @@ External reproductions, derivatives or implementations may not be presented as o
 
 * [Spanish version of this README](#es--castellano)
 * [Foundational manifestos](./manifiestos/README.md)
-* [Neo0™ Manifesto](./manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
+* [Manifesto I · Neo0™](./manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
+* [Manifesto III · Human Right to Contribute](./manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
+* [Open Synthesis contribution protocol](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Canonical civilisational cover](./PORTADA.md)
 * [Cover in English](./COVER.md)
 * [Prefacio en castellano](./PREFACIO.md)
