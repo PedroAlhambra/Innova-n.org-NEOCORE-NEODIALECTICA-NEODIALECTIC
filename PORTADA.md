@@ -112,8 +112,9 @@ No designa una versión ejecutable pública ni una especificación técnica comp
 
 ## Acceso público
 
+* [Manifiesto Neo0™ · Soberanía de Guía Neodialéctica](./manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
+* [Índice de manifiestos fundacionales](./manifiestos/README.md)
 * [README bilingüe principal](./README.md)
-* [Manifiestos públicos](./manifiestos/README.md)
 * [Prefacio / Foreword](./FOREWORD.md)
 * [Análisis públicos](./analisis/README.md)
 * [Catálogo de obras](./obras/README.md)
@@ -176,8 +177,9 @@ It does not designate a public executable version or a complete technical specif
 
 ## Public access
 
+* [Neo0™ Manifesto · Neodialectical Guiding Sovereignty](./manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
+* [Foundational manifesto index](./manifiestos/README.md)
 * [Main bilingual README](./README.md)
-* [Public manifestos](./manifiestos/README.md)
 * [Prefacio / Foreword](./FOREWORD.md)
 * [Public analyses](./analisis/README.md)
 * [Works catalogue](./obras/README.md)
