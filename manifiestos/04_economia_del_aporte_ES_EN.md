@@ -1,6 +1,7 @@
-# Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy
+# VI · Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy
 
-**Versión / Version:** 1.0  
+**Manifiesto / Manifesto:** VI  
+**Versión / Version:** 1.1  
 **Estado / Status:** Público · fundacional · abierto a revisión trazable / Public · foundational · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06
 
@@ -77,38 +78,113 @@ La Economía del Aporte no es una tabla moral única. Es una familia de mecanism
 
 [Documento de base](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
 
+## VII. Síntesis Abierta de este manifiesto
+
+Este manifiesto abre su propia **Síntesis Abierta Neodialéctica™**.
+
+Toda aportación exige:
+
+* lectura previa;
+* retorno a fuente;
+* continuidad cognitiva;
+* genealogía;
+* trazabilidad;
+* clasificación;
+* delta;
+* y versión.
+
+Toda modificación futura deberá preservar el texto anterior, identificar con precisión el cambio y explicar qué contradicción, evidencia o aportación justifica la nueva versión.
+
 ---
 
 # EN · English
 
 ## Invocation
 
-The attention economy turned visibility into merchandise and presence into permanent competition. Millions create, research, care for and sustain systems whose value is concentrated in those who control channels, access or metrics.
+The attention economy turned visibility into merchandise and presence into permanent competition. Millions of people produce, create, research, care for and sustain systems whose value ultimately becomes concentrated in those who control the channel, access or metric.
 
-The **Contribution Economy** declares that civilisation cannot measure value only by captured attention. It must recognise origin, improvement, preservation, risk and return to the common system.
+The **Contribution Economy** declares that a civilisation cannot measure its value solely by what manages to capture attention. It must learn to recognise what is originated, what is improved, what is preserved, what risk is assumed and what return the common system receives.
 
 ## I. Attention is not contribution
 
-Distribution is not creation; synthesis is not origin; finance is not ownership of genealogy; popularity is not quality; and scale is not legitimacy.
+Attention may accompany value, but it does not prove it. What is most visible is not necessarily what is most useful, original, true or sustainable.
+
+We declare:
+
+* distribution is not creation;
+* synthesis is not origin;
+* financing is not ownership of genealogy;
+* popularity is not quality;
+* and scale is not legitimacy.
 
 ## II. Genealogy of value
 
-Every chain must distinguish who originated, developed, financed, executed, cared for, distributed, synthesised, maintained and copied. Common knowledge must not erase singular contribution, and singular contribution must not appropriate the common inheritance that made it possible.
+Every economic and cognitive chain must distinguish who:
 
-## III. Creation and destruction
+* originated;
+* developed;
+* financed;
+* executed;
+* cared for;
+* distributed;
+* synthesised;
+* maintained;
+* and copied.
 
-Creation may require years while malicious reporting, copying or blocking may take seconds. Just architectures must increase the cost of unjust destruction through traceability, review, appeal, responsibility and restitution.
+Common knowledge must not be used to erase singular contribution. Singular contribution must not appropriate the common inheritance that made it possible.
 
-## IV. Platforms, AI and taxation
+## III. Asymmetry between creation and destruction
 
-Discovery systems must distinguish popularity, relevance, originality, usefulness and sustained contribution. Automated economic activity and AI must contribute through taxation to States and common infrastructure rather than privatising gains while socialising costs.
+Creation may require years. Malicious reporting, copying, making invisible, blocking or destroying may require seconds.
 
-## Declaration
+A just architecture must raise the cost of unjust destruction through:
+
+* traceability;
+* review;
+* appeal;
+* responsibility;
+* restitution;
+* and protection of the continuity of the creator and the producer.
+
+## IV. Intermediation and parasitism
+
+Intermediation may provide coordination, scale, security and access. It becomes parasitic when it controls an obligatory passage, conceals dependencies, extracts disproportionate rent and blocks alternatives.
+
+The Contribution Economy requires auditing the real function of every intermediary and measuring how much value it returns to the organism that sustains it.
+
+## V. Platforms, AI and taxation
+
+Discovery systems must distinguish popularity, relevance, originality, usefulness and sustained contribution. Penalties, reports and reductions in reach must be explainable and reviewable.
+
+Automated economic activity and artificial intelligence must contribute through taxation to sustaining States and common infrastructures. It is unacceptable to privatise gains while socialising dependency, unemployment, institutional deterioration or ecological costs.
+
+## VI. Transition
+
+The Contribution Economy is not a single moral table. It is a family of auditable, multiscale and correctable mechanisms governed through Open Synthesis.
 
 > A mature society does not ask only how much value was captured. It asks who made it possible, what was returned and what future remained open afterwards.
+
+[Foundational document](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
+
+## VII. Open Synthesis of this manifesto
+
+This manifesto opens its own **Neodialectical Open Synthesis™**.
+
+Every contribution requires:
+
+* prior reading;
+* return to source;
+* cognitive continuity;
+* genealogy;
+* traceability;
+* classification;
+* delta;
+* and version.
+
+Every future modification must preserve the previous text, identify the change precisely and explain which contradiction, evidence or contribution justifies the new version.
 
 ---
 
 ## Navegación / Navigation
 
-← [Parasitismo Sistémico / Systemic Parasitism](./09_parasitismo_sistemico_ES_EN.md) · [Índice / Index](./README.md) · [Ingeniería Social y Psicohistoria / Social Engineering and Psychohistory](./05_ingenieria_social_psicohistoria_ES_EN.md) →
+← [V · Parasitismo Sistémico / Systemic Parasitism](./09_parasitismo_sistemico_ES_EN.md) · [Índice / Index](./README.md) · [VII · Ingeniería Social y Psicohistoria / Social Engineering and Psychohistory](./05_ingenieria_social_psicohistoria_ES_EN.md) →
