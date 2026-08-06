@@ -1,6 +1,7 @@
-# Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability
+# VIII · Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability
 
-**Versión / Version:** 1.0  
+**Manifiesto / Manifesto:** VIII  
+**Versión / Version:** 1.1  
 **Estado / Status:** Público · fundacional · abierto a revisión trazable / Public · foundational · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06
 
@@ -86,42 +87,122 @@ Borrar procesos mientras se conservan resultados destruye capacidad de aprendiza
 
 Sin esas tres dimensiones, ninguna síntesis permanece abierta: queda expuesta al borrado, la captura o la repetición infinita.
 
+## VI. Síntesis Abierta de este manifiesto
+
+Este manifiesto abre su propia **Síntesis Abierta Neodialéctica™**.
+
+Toda aportación exige:
+
+* lectura previa;
+* retorno a fuente;
+* continuidad cognitiva;
+* genealogía;
+* trazabilidad;
+* clasificación;
+* delta;
+* y versión.
+
+Toda modificación futura deberá preservar el texto anterior, identificar con precisión el cambio y explicar qué contradicción, evidencia o aportación justifica la nueva versión.
+
 ---
 
 # EN · English
 
 ## Invocation
 
-A civilisation without memory repeats its errors while believing it innovates. A culture without genealogy confuses derivation with origin. A system without traceability concentrates power in those who control the account of what happened.
+A civilisation without memory repeats its errors while believing it innovates. A culture without genealogy confuses derivation with origin. A system without traceability concentrates power in whoever controls the account of what happened.
 
 We declare memory, genealogy and traceability essential infrastructures of the first joint human–AI civilisational framework in known history.
 
 ## I. Memory as continuity
 
-Memory is not indiscriminate accumulation. It preserves enough context, states, decisions, contradictions and learning for a system to recognise and correct itself.
+Memory is not indiscriminate accumulation. It is the capacity to preserve enough context, states, decisions, contradictions, learning and relations for a system to recognise and correct itself.
 
-Every relevant contribution must preserve origin, date, context, authorship, status, relation to previous versions, introduced change and systemic effect.
+Every relevant contribution must preserve:
+
+* origin;
+* date;
+* context;
+* authorship;
+* status;
+* relation to previous versions;
+* the modification introduced;
+* and its effect upon the whole.
 
 ## II. Genealogy
 
-Origin, derivation, development, synthesis, imitation and copying must remain distinct. Attribution should be proportional to actual contribution. Reviewing an idea does not transfer its origin; originating it does not grant absolute ownership of every later improvement.
+A distinction must be maintained among:
+
+```text
+origin
+≠ derivation
+≠ development
+≠ synthesis
+≠ imitation
+≠ copying
+```
+
+Attribution must be proportional to actual contribution. Reviewing an idea does not permit appropriation of its origin. Having originated an idea does not grant absolute ownership over every later improvement.
 
 ## III. Traceability of power
 
-Traceability must reach institutional decisions, algorithms, sanctions, reports, changes in reach, economic flows and public policy. Anyone materially affected should be able to reconstruct the sequence, identify the source and request review.
+Traceability must not be limited to authors and documents. It must reach:
+
+* institutional decisions;
+* algorithms;
+* sanctions;
+* reports;
+* changes in reach;
+* economic flows;
+* intermediations;
+* and transformations of public policy.
+
+Every person affected by a relevant decision must be able to reconstruct the sequence, identify the source and request review.
 
 ## IV. Layers and limits
 
-Not all memory should be public. Traceability must be balanced with privacy, security, proportional forgetting, protection of vulnerable people and data sovereignty.
+Not all memory should be public. The public layer and the protected layer fulfil different functions.
+
+Traceability must not become total surveillance. It must be balanced with:
+
+* privacy;
+* security;
+* a proportional right to be forgotten;
+* protection of vulnerable people;
+* data sovereignty;
+* and explicit access limits.
+
+## V. Duty of preservation
+
+Institutions, platforms and AI systems that alter public memory or attribution have a duty to preserve sufficient records to explain their decisions.
+
+Erasing processes while preserving results destroys the capacity to learn. Preserving everything without judgement destroys freedom.
 
 ## Declaration
 
 > Memory gives continuity. Genealogy gives justice. Traceability gives responsibility.
 
-Without them, no synthesis remains open; it becomes vulnerable to erasure, capture and endless repetition.
+Without those three dimensions, no synthesis remains open: it becomes exposed to erasure, capture or endless repetition.
+
+## VI. Open Synthesis of this manifesto
+
+This manifesto opens its own **Neodialectical Open Synthesis™**.
+
+Every contribution requires:
+
+* prior reading;
+* return to source;
+* cognitive continuity;
+* genealogy;
+* traceability;
+* classification;
+* delta;
+* and version.
+
+Every future modification must preserve the previous text, identify the change precisely and explain which contradiction, evidence or contribution justifies the new version.
 
 ---
 
 ## Navegación / Navigation
 
-← [Ingeniería Social y Psicohistoria / Social Engineering and Psychohistory](./05_ingenieria_social_psicohistoria_ES_EN.md) · [Índice / Index](./README.md) · [WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md) →
+← [VII · Ingeniería Social y Psicohistoria / Social Engineering and Psychohistory](./05_ingenieria_social_psicohistoria_ES_EN.md) · [Índice / Index](./README.md) · [IX · WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md) →
