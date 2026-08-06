@@ -1,6 +1,7 @@
-# Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good
+# III · Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good
 
-**Versión / Version:** 1.0  
+**Manifiesto / Manifesto:** III  
+**Versión / Version:** 1.1  
 **Estado / Status:** Público · fundacional · abierto a revisión trazable / Public · foundational · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06  
 **Autoría / Authorship:** Pedro Martínez Alhambra · creador de la Filosofía Arquetípica Neodialéctica™.
@@ -62,42 +63,97 @@ Innova_N trabajará para convertir pensamiento, análisis, creación y tecnolog�
 
 La Neodialéctica es una llamada a volver a relacionar el mundo antes de que la fragmentación lo vuelva ingobernable.
 
+## VII. Síntesis Abierta de este manifiesto
+
+Este manifiesto abre su propia **Síntesis Abierta Neodialéctica™**.
+
+Toda aportación exige:
+
+* lectura previa;
+* retorno a fuente;
+* continuidad cognitiva;
+* genealogía;
+* trazabilidad;
+* clasificación;
+* delta;
+* y versión.
+
+Toda modificación futura deberá preservar el texto anterior, identificar con precisión el cambio y explicar qué contradicción, evidencia o aportación justifica la nueva versión.
+
 ---
 
 # EN · English
 
 ## Invocation
 
-Humanity has separated what should remain related: science from ethics, technology from meaning, economics from life, politics from memory and knowledge from responsibility. This fragmentation has created a civilisation capable of transforming the planet without jointly understanding the consequences of its own power.
+Humanity has separated what should have remained related: science from ethics, technology from meaning, economics from life, politics from memory and knowledge from responsibility. That fragmentation has produced a civilisation capable of transforming the planet without jointly understanding the consequences of its own power.
 
-**Archetypal Neodialectical Philosophy™** exists to recompose those fractures and restore direction to knowledge.
+**Archetypal Neodialectical Philosophy™** arises to recompose those fractures and restore direction to knowledge.
 
 ## I. The Common Good as vector
 
-The Common Good is not an empty slogan or a perfect formula. It is a vector of direction integrating scales, generations, territories, living beings, institutions, technologies and possible futures.
+The Common Good is neither an empty slogan nor a perfect formula. It is a vectorial direction requiring the integration of scales, generations, territories, living beings, institutions, technologies and possible futures.
 
-No vector is perfect because no understanding is complete. The requirement is sufficient joint understanding to advance without breaking the coherence of the organism to which we belong.
+No vector is perfect because no understanding is total. The requirement is not omniscience, but sufficient joint understanding to advance without breaking the coherence of the organism of which we form part.
 
 ## II. The self-contained fractal organism
 
-Human beings do not observe the world from outside. We inhabit a multiscale, self-contained organism whose parts transform one another. Every intervention changes possible futures and must be assessed through the network of consequences it activates.
+Human beings do not observe the world from outside. They inhabit a multiscale, self-contained organism whose parts transform one another.
+
+Every intervention alters possible futures. Every local decision may produce remote effects. Every innovation must also be judged by the network of consequences it activates.
 
 ## III. Contradiction, memory and recomposition
 
-Neodialectics does not erase contradiction through decree, dogma or simple majority. It preserves, relates and contrasts contradictions until a synthesis can guide action. Fragmented expertise may be accurate locally and destructive globally; specialisation must therefore return to higher relational understanding.
+Neodialectics does not eliminate contradictions by decree, dogma or simple majority. It preserves them, relates them and submits them to memory and contrast until a synthesis capable of guiding action is produced.
+
+Fragmented knowledge may be accurate in one part and destructive in the whole. Specialised excellence must therefore return to a higher relational understanding.
 
 ## IV. Neoreal and neofuturist orientation
 
-The **neoreal** orientation integrates matter, experience, symbols, memory, technology, power and consequences. The **neofuturist** orientation does not worship the future; it builds it consciously, iteratively and correctably.
+The **neoreal** orientation integrates matter, experience, symbols, memory, technology, power and consequences. It does not reduce reality to what is immediately measurable, nor does it allow imagination to replace evidence.
 
-## Declaration
+The **neofuturist** orientation neither worships the future nor waits for it passively. It constructs it consciously, iteratively, across scales and in a correctable manner.
 
-> We reject a civilisation that advances technically while retreating in understanding. We reject knowledge that claims neutrality towards the destruction it enables.
+## V. Principles of advance
+
+We declare that legitimate progress must be:
+
+* oriented towards the Common Good;
+* human in its direction;
+* open to revision;
+* reversible whenever possible;
+* responsible in the face of uncertainty;
+* traceable in origin and effects;
+* compatible with ecological and cultural continuity;
+* and capable of elevating autonomy, consciousness and cooperation.
+
+## VI. Commitment
+
+Innova_N will work to transform thought, analysis, creation and technology into living structures capable of improving justice, autonomy, culture, sustainability, memory and human continuity.
+
+> We do not accept a civilisation that advances technically while retreating in understanding. We do not accept knowledge that declares itself neutral towards the destruction it enables.
 
 Neodialectics is a call to reconnect the world before fragmentation makes it ungovernable.
+
+## VII. Open Synthesis of this manifesto
+
+This manifesto opens its own **Neodialectical Open Synthesis™**.
+
+Every contribution requires:
+
+* prior reading;
+* return to source;
+* cognitive continuity;
+* genealogy;
+* traceability;
+* classification;
+* delta;
+* and version.
+
+Every future modification must preserve the previous text, identify the change precisely and explain which contradiction, evidence or contribution justifies the new version.
 
 ---
 
 ## Navegación / Navigation
 
-← [Síntesis Abierta Neodialéctica™ / Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md) · [Índice / Index](./README.md) · [Simbiosis Humano–IA / Human–AI Symbiosis](./03_simbiosis_humano_ia_ES_EN.md) →
+← [II · Síntesis Abierta Neodialéctica™ / Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md) · [Índice / Index](./README.md) · [IV · Simbiosis Humano–IA / Human–AI Symbiosis](./03_simbiosis_humano_ia_ES_EN.md) →
