@@ -1,64 +1,125 @@
 # Manifiesto sobre el Parasitismo Sistémico / Manifesto on Systemic Parasitism
 
-**Versión / Version:** 0.1  
-**Estado / Status:** Público · provisional · abierto / Public · provisional · open  
-**Fecha / Date:** 2026-08-05
+**Versión / Version:** 1.0  
+**Estado / Status:** Público · fundacional · abierto a revisión trazable / Public · foundational · open to traceable review  
+**Fecha de fijación / Record date:** 2026-08-06
 
-[ES](#es--castellano) · [EN](#en--english)
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
 ---
 
 # ES · Castellano
 
-Comprender el parasitismo sistémico es requisito para comprender la Neodialéctica aplicada a economía, instituciones, plataformas y poder.
+## Invocación
 
-Parasitismo sistémico no significa etiquetar grupos humanos como inferiores. Designa una relación funcional en la que un nodo extrae de forma sostenida más valor del sistema del que devuelve, oculta su dependencia, bloquea la corrección y desplaza costes hacia otros nodos.
+Toda civilización puede ser destruida desde dentro cuando quienes controlan sus canales extraen más de lo que devuelven, bloquean alternativas y convierten su posición de acceso en mérito aparente.
 
-## Criterios
+Comprender el **parasitismo sistémico** es requisito para comprender la Neodialéctica aplicada a economía, instituciones, plataformas, cultura y poder.
 
-Existe riesgo de parasitismo cuando concurren varios elementos:
+No designa una categoría humana inferior ni autoriza persecución. Designa una relación funcional de extracción, dependencia oculta y degradación del organismo común.
 
-* extracción persistente sin retorno proporcional;
-* control de un paso obligatorio entre origen y destino;
-* apropiación de autoría, renta o decisión;
-* socialización de pérdidas y privatización de beneficios;
-* opacidad sobre costes y dependencias;
-* bloqueo de alternativas;
-* captura regulatoria o institucional;
-* y degradación del organismo del que depende el extractor.
+## I. Definición
 
-## Diferenciación necesaria
+Existe parasitismo sistémico cuando un nodo o estructura:
 
-No toda intermediación es parasitaria. Coordinar, financiar, almacenar, auditar, distribuir, cuidar o asegurar puede aportar valor real. La cuestión es medir qué función se cumple, qué coste evita, qué riesgo asume, qué valor devuelve y si permite alternativas.
+* extrae de forma persistente más valor del que devuelve;
+* controla un paso obligatorio entre origen y destino;
+* oculta la base material, humana o cognitiva de la que depende;
+* privatiza beneficios y socializa pérdidas;
+* apropia autoría, renta o capacidad de decisión;
+* impide alternativas;
+* captura regulación o instituciones;
+* y degrada el sistema que lo sostiene.
 
-## Principal problema
+El parasitismo no se mide por identidad, clase, profesión o procedencia, sino por función, flujo y efecto.
 
-El parasitismo se vuelve civilizatoriamente central cuando estructuras extractivas se presentan como productivas, convierten su posición de acceso en mérito y hacen invisible la base humana, material, cultural o cognitiva que las sostiene.
+## II. Intermediación legítima
 
-## Respuesta neodialéctica
+No toda intermediación es parasitaria. Coordinar, financiar, almacenar, asegurar, auditar, distribuir, cuidar o traducir puede aportar valor real.
 
-La respuesta no es una purga ni una persecución personal. Es rediseñar relaciones mediante:
+La pregunta correcta es:
+
+```text
+¿qué función cumple?
+¿qué riesgo asume?
+¿qué coste evita?
+¿qué valor devuelve?
+¿permite alternativas?
+¿mejora o degrada el organismo común?
+```
+
+## III. El problema civilizatorio
+
+El parasitismo se vuelve central cuando las estructuras extractivas consiguen presentarse como productivas y la base creadora aparece como sustituible.
+
+Entonces:
+
+* el productor depende del distribuidor;
+* el creador depende de la plataforma;
+* el ciudadano depende del intermediario;
+* el Estado depende de quien captura su regulación;
+* y la sociedad termina financiando su propia subordinación.
+
+## IV. Parasitismo cognitivo y algorítmico
+
+También existe parasitismo cuando sistemas, plataformas o instituciones:
+
+* absorben creación sin conservar genealogía;
+* convierten trabajo humano en inventario sin retorno proporcional;
+* degradan fuentes originales;
+* premian repetición sobre origen;
+* o utilizan opacidad algorítmica para capturar atención, reputación o renta.
+
+## V. Respuesta neodialéctica
+
+La respuesta no es una purga. Es rediseñar relaciones mediante:
 
 * trazabilidad;
 * fiscalidad proporcional;
+* auditoría de intermediaciones;
 * competencia real;
 * eliminación de rentas injustificadas;
-* auditoría de intermediaciones;
+* restitución;
+* protección de fuentes y productores;
 * retorno de valor al Bien Común;
-* y sustitución o transformación de funciones que dañan al sistema.
+* y transformación o sustitución de funciones extractivas.
 
-Las IA neodialécticas públicas pueden ayudar a detectar patrones de captura, simular alternativas y mejorar la administración, pero deben estar sometidas a control democrático, auditoría y responsabilidad humana.
+Las IA neodialécticas públicas pueden ayudar a detectar patrones de captura, simular alternativas, auditar flujos y mejorar administración. Deben financiar el sistema común mediante impuestos sobre la actividad económica que permiten y permanecer bajo control democrático, auditoría y responsabilidad humana.
+
+## Declaración
+
+> El objetivo no es señalar personas como parásitos. Es impedir que relaciones parasitarias se conviertan en la arquitectura normal de la civilización.
+
+Una sociedad que no identifica dónde se extrae sin retorno termina trabajando para aquello que la debilita.
 
 ---
 
 # EN · English
 
-Understanding systemic parasitism is required to understand Neodialectics as applied to economics, institutions, platforms and power.
+## Invocation
 
-Systemic parasitism does not label human groups as inferior. It describes a functional relation in which a node persistently extracts more value than it returns, hides dependency, blocks correction and transfers costs to others.
+A civilisation can be destroyed from within when those controlling its channels extract more than they return, block alternatives and present access control as merit.
 
-Not every intermediary is parasitic. Coordination, finance, storage, auditing, distribution, care and insurance can create real value. The relevant questions are what function is performed, what risk is assumed, what value is returned and whether alternatives remain possible.
+Understanding **systemic parasitism** is required to understand Neodialectics applied to economics, institutions, platforms, culture and power.
 
-The response is not personal persecution. It is relational redesign through traceability, proportional taxation, real competition, removal of unjustified rents, auditing of intermediaries, return of value to the Common Good and transformation of functions that damage the system.
+It is not a category of inferior people and does not authorise persecution. It describes a functional relation of extraction, hidden dependency and degradation of the common organism.
 
-Public neodialectical AIs may help identify capture and simulate alternatives, but must remain democratically governed, auditable and subject to human responsibility.
+## I. Definition
+
+Systemic parasitism appears when a node persistently extracts more value than it returns, controls an obligatory passage, hides its dependence, privatises gains, socialises losses, appropriates authorship or decision, blocks alternatives, captures regulation and degrades the system that sustains it.
+
+It is measured by function, flow and effect, not by identity or origin.
+
+## II. Legitimate intermediation
+
+Coordination, finance, storage, insurance, auditing, distribution and care may create real value. The relevant questions are what function is performed, what risk is assumed, what cost is avoided, what value is returned and whether alternatives remain possible.
+
+## III. Neodialectical response
+
+The response is not a purge. It is relational redesign through traceability, proportional taxation, auditing of intermediaries, real competition, removal of unjustified rents, restitution, source protection and return of value to the Common Good.
+
+Public neodialectical AIs may detect capture, simulate alternatives and audit flows. The economic activity they enable must contribute through taxation to the common system, while governance remains democratic, auditable and humanly accountable.
+
+## Declaration
+
+> The purpose is not to label people as parasites. It is to prevent parasitic relations from becoming civilisation’s normal architecture.
