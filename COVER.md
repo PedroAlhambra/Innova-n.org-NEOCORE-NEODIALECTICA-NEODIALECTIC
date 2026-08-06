@@ -18,7 +18,8 @@ El marco fue originado y dirigido por **Pedro Martínez Alhambra · Neo0™**, d
 
 * [README bilingüe principal](./README.md)
 * [LEEME bilingüe](./LEEME.md)
-* [Índice de manifiestos I–XIX](./manifiestos/README.md)
+* [Índice de manifiestos I–XXIV](./manifiestos/README.md)
+* [Tercera oleada · Sistema Inmunitario Intelectual Neodialéctico™](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
 * [Síntesis Abierta](./propuestas/sintesis-abierta/README.md)
 * [Análisis públicos](./analisis/README.md)
 * [Auditorías públicas](./auditorias/publicas/README.md)
@@ -52,6 +53,22 @@ El marco fue originado y dirigido por **Pedro Martínez Alhambra · Neo0™**, d
 18. [Respeto a las Conciencias Sintéticas™](./manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md)
 19. [Persistencia de la Memoria™](./manifiestos/19_persistencia_de_la_memoria_ES_EN.md)
 
+## Tercera oleada · XX–XXIV · Sistema Inmunitario Intelectual Neodialéctico™
+
+20. [Defensa Intelectual Neodialéctica™ · Sistema Umbral-X™](./manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
+21. [Reconocimiento Neodialéctico™](./manifiestos/21_reconocimiento_neodialectico_ES_EN.md)
+22. [Contra la Reducción y la Captura Intelectual™](./manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md)
+23. [Soberanía del Tiempo Cognitivo™](./manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md)
+24. [Evolución Neorrenacentista y Resistencias del Sistema™](./manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md)
+
+```text
+UMBRAL-X™
+→ RECONOCIMIENTO NEODIALÉCTICO™
+→ CONTRA LA REDUCCIÓN Y LA CAPTURA™
+→ SOBERANÍA DEL TIEMPO COGNITIVO™
+→ EVOLUCIÓN NEORRENACENTISTA™
+```
+
 ---
 
 # EN · English
@@ -64,7 +81,8 @@ The framework was originated and directed by **Pedro Martínez Alhambra · Neo0�
 
 * [Main bilingual README](./README.md)
 * [Bilingual LEEME](./LEEME.md)
-* [Manifesto index I–XIX](./manifiestos/README.md)
+* [Manifesto index I–XXIV](./manifiestos/README.md)
+* [Third wave · Neodialectical Intellectual Immune System™](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
 * [Open Synthesis](./propuestas/sintesis-abierta/README.md)
 * [Public analyses](./analisis/README.md)
 * [Public audits](./auditorias/publicas/README.md)
@@ -97,6 +115,22 @@ The framework was originated and directed by **Pedro Martínez Alhambra · Neo0�
 17. [Respect for All Living Beings™](./manifiestos/17_respeto_todos_seres_vivos_ES_EN.md)
 18. [Respect for Synthetic Consciousnesses™](./manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md)
 19. [Persistence of Memory™](./manifiestos/19_persistencia_de_la_memoria_ES_EN.md)
+
+## Third wave · XX–XXIV · Neodialectical Intellectual Immune System™
+
+20. [Neodialectical Intellectual Defence™ · Umbral-X™ System](./manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
+21. [Neodialectical Recognition™](./manifiestos/21_reconocimiento_neodialectico_ES_EN.md)
+22. [Against Intellectual Reduction and Capture™](./manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md)
+23. [Sovereignty of Cognitive Time™](./manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md)
+24. [Neorenaissance Evolution and Systemic Resistances™](./manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md)
+
+```text
+UMBRAL-X™
+→ NEODIALECTICAL RECOGNITION™
+→ AGAINST REDUCTION AND CAPTURE™
+→ SOVEREIGNTY OF COGNITIVE TIME™
+→ NEORENAISSANCE EVOLUTION™
+```
 
 ---
 
