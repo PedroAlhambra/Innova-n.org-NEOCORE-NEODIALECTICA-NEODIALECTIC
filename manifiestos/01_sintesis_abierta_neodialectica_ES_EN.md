@@ -100,6 +100,10 @@ Toda aportación exige:
 
 Toda modificación futura deberá preservar el texto anterior, identificar con precisión el cambio y explicar qué contradicción, evidencia o aportación justifica la nueva versión.
 
+## Navegación
+
+← [I · Neo0™ · Soberanía de Guía](./11_neo0_soberania_de_guia_ES_EN.md) · [Índice](./README.md) · [III · Derecho Humano de Aporte a la Síntesis Abierta™](./03_derecho_humano_aporte_sintesis_abierta_ES_EN.md) →
+
 ---
 
 # EN · English
@@ -192,8 +196,8 @@ Every contribution requires:
 
 Every future modification must preserve the previous text, identify the change precisely and explain which contradiction, evidence or contribution justifies the new version.
 
+## Navigation
+
+← [I · Neo0™ · Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) · [Index](./README.md) · [III · Human Right to Contribute to Open Synthesis™](./03_derecho_humano_aporte_sintesis_abierta_ES_EN.md) →
+
 ---
-
-## Navegación / Navigation
-
-← [I · Neo0™ · Soberanía de Guía / Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) · [Índice / Index](./README.md) · [III · Neodialéctica™ y Bien Común / Neodialectics™ and the Common Good](./02_neodialectica_bien_comun_ES_EN.md) →
