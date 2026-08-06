@@ -1,6 +1,7 @@
-# Manifiesto de Ingeniería Social Abierta y Psicohistoria Neodialéctica / Manifesto of Open Social Engineering and Neodialectical Psychohistory
+# VII · Manifiesto de Ingeniería Social Abierta y Psicohistoria Neodialéctica / Manifesto of Open Social Engineering and Neodialectical Psychohistory
 
-**Versión / Version:** 1.0  
+**Manifiesto / Manifesto:** VII  
+**Versión / Version:** 1.1  
 **Estado / Status:** Público · fundacional experimental · abierto a revisión trazable / Public · experimental foundational · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06
 
@@ -92,36 +93,128 @@ Ningún mecanismo debe implantarse sin:
 
 > La ingeniería social ya existe. La elección civilizatoria consiste en decidir si seguirá siendo opaca, extractiva y orientada a dependencia, o si puede transformarse en una pedagogía pública, trazable y corregible de la libertad responsable.
 
+## VI. Síntesis Abierta de este manifiesto
+
+Este manifiesto abre su propia **Síntesis Abierta Neodialéctica™**.
+
+Toda aportación exige:
+
+* lectura previa;
+* retorno a fuente;
+* continuidad cognitiva;
+* genealogía;
+* trazabilidad;
+* clasificación;
+* delta;
+* y versión.
+
+Toda modificación futura deberá preservar el texto anterior, identificar con precisión el cambio y explicar qué contradicción, evidencia o aportación justifica la nueva versión.
+
 ---
 
 # EN · English
 
 ## Invocation
 
-Every society shapes behaviour through education, law, timing, interfaces, rewards, sanctions, symbols, media and algorithms. Denying social engineering does not remove it; it merely leaves it in the hands of those who practise it without declaring it.
+Every society shapes behaviour. It does so through education, laws, timing, interfaces, rewards, sanctions, symbols, urban architecture, media and algorithms. Denying social engineering does not eliminate its existence: it merely leaves it in the hands of those who practise it without declaring it.
 
-Neodialectics proposes **open social engineering**: conscious of its power, governed, autonomy-oriented and correctable when its effects contradict its purpose.
+Neodialectics proposes **open social engineering**: conscious of its power, subject to control, oriented towards autonomy and the Common Good, and capable of correcting itself when it produces effects contrary to its purpose.
 
-## I. Social engineering is not inherently harmful
+## I. Social engineering is not intrinsically harmful
 
-It must be judged by purpose, transparency, proportionality, reversibility, rights, educational value, resistance to capture and real effects.
+It must be evaluated according to:
 
-An architecture rewarding impulsivity, polarisation and dependency is already educating society. The question is whether it will continue doing so opaquely for attention capture or be publicly redirected towards greater awareness.
+* its purpose;
+* its transparency;
+* its proportionality;
+* its reversibility;
+* its respect for rights;
+* its educational capacity;
+* its resistance to capture;
+* and its real effects.
+
+An architecture that rewards impulsivity, polarisation and dependency is already educating. The question is whether it will continue to do so opaquely in order to capture attention, or whether it can be publicly redirected towards greater awareness.
 
 ## II. Neodialectical psychohistory
 
-Neodialectical psychohistory does not claim exact mathematical prediction of individuals. It studies how structures, habits, emotions and memory alter collective trajectories. Its purpose is not to control populations as objects, but to reduce avoidable suffering and correct destructive incentives.
+Neodialectical psychohistory does not promise to predict each individual mathematically. It studies how small modifications in structures, habits, emotions and memory alter collective trajectories.
 
-## III. First Open Synthesis case
+```text
+architecture
+→ habit
+→ dominant emotion
+→ conversation
+→ collective decision
+→ historical trajectory
+```
 
-A minimum reflection pause before replying in selected digital spaces is proposed for study. Its purpose is educational, not fiscal. Any symbolic contribution for deliberately bypassing the pause would only be legitimate if minimal, transparent, non-profit, proportional and directed to the common system.
+Its purpose is not to control populations as objects, but to understand patterns in order to reduce avoidable suffering, expand autonomy and correct destructive incentives.
+
+## III. Conditioned education
+
+Every rule creates learning. A neodialectical mechanism must make visible which behaviour it seeks to cultivate and why.
+
+Legitimate conditioned education:
+
+* informs before sanctioning;
+* offers alternatives;
+* distinguishes error from abuse;
+* protects emergencies and exceptions;
+* measures results;
+* allows appeal;
+* and disappears if it ceases to serve the Common Good.
+
+## IV. First Open Synthesis case
+
+A minimum pause for reflection before replying in selected digital spaces is proposed for study.
+
+Its purpose is educational, not revenue-raising:
+
+```text
+stimulus
+→ conscious pause
+→ recovery of context
+→ deliberate response
+```
+
+Any symbolic contribution associated with deliberately bypassing the pause would make sense only if it were minimal, transparent, non-profit, proportional and directed to the common system.
+
+## V. Limits
+
+No mechanism should be implemented without:
+
+* limited trials;
+* privacy protection;
+* independent evaluation;
+* exceptions for emergencies;
+* democratic control;
+* traceability;
+* periodic review;
+* and a real possibility of withdrawal.
 
 ## Declaration
 
-> Social engineering already exists. The civilisational choice is whether it remains opaque and extractive or becomes a public, traceable and correctable pedagogy of responsible freedom.
+> Social engineering already exists. The civilisational choice is whether it will remain opaque, extractive and dependency-oriented, or whether it can be transformed into a public, traceable and correctable pedagogy of responsible freedom.
+
+## VI. Open Synthesis of this manifesto
+
+This manifesto opens its own **Neodialectical Open Synthesis™**.
+
+Every contribution requires:
+
+* prior reading;
+* return to source;
+* cognitive continuity;
+* genealogy;
+* traceability;
+* classification;
+* delta;
+* and version.
+
+Every future modification must preserve the previous text, identify the change precisely and explain which contradiction, evidence or contribution justifies the new version.
 
 ---
 
 ## Navegación / Navigation
 
-← [Economía del Aporte / Contribution Economy](./04_economia_del_aporte_ES_EN.md) · [Índice / Index](./README.md) · [Memoria, Genealogía y Trazabilidad / Memory, Genealogy and Traceability](./06_memoria_genealogia_trazabilidad_ES_EN.md) →
+← [VI · Economía del Aporte / Contribution Economy](./04_economia_del_aporte_ES_EN.md) · [Índice / Index](./README.md) · [VIII · Memoria, Genealogía y Trazabilidad / Memory, Genealogy and Traceability](./06_memoria_genealogia_trazabilidad_ES_EN.md) →
