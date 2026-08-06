@@ -91,6 +91,13 @@ Toda aportación exige:
 
 Toda modificación futura deberá preservar el texto anterior, identificar con precisión el cambio y explicar qué contradicción, evidencia o aportación justifica la nueva versión.
 
+### Cómo aportar a esta Síntesis Abierta
+
+Antes de participar, lee el manifiesto completo y el protocolo operativo. Presenta una aportación trazable con contexto, fuente o experiencia, genealogía, tipo de aporte y delta propuesto.
+
+* [Cómo aportar a la Síntesis Abierta Neodialéctica™](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [Abrir una aportación mediante la plantilla pública](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
+
 ## Navegación
 
 ← [IV · Neodialéctica™ y Bien Común](./02_neodialectica_bien_comun_ES_EN.md) · [Índice](./README.md) · [VI · Parasitismo Sistémico](./09_parasitismo_sistemico_ES_EN.md) →
@@ -177,6 +184,13 @@ Every contribution requires:
 * and version.
 
 Every future modification must preserve the previous text, identify the change precisely and explain which contradiction, evidence or contribution justifies the new version.
+
+### How to contribute to this Open Synthesis
+
+Before participating, read the full manifesto and the operational protocol. Submit a traceable contribution with context, source or experience, genealogy, contribution type and proposed delta.
+
+* [How to contribute to Neodialectical Open Synthesis™](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [Open a contribution through the public template](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
 
 ## Navigation
 
