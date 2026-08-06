@@ -11,6 +11,7 @@ Esta página relaciona los análisis y auditorías públicas del repositorio sin
 
 ## Incorporaciones recientes
 
+* [2026-08-06 · Auditoría de integridad de enlaces, READMEs, manifiestos y Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/auditorias/publicas/2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md)
 * [2026-08-06 · Auditoría indirecta pública de KDP, Author Central e IDEA](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 * [2026-08-05 · De la economía de la atención a la economía del aporte](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
 
@@ -47,6 +48,7 @@ This page connects the repository’s public analyses and audits without replaci
 
 ## Recent incorporations
 
+* [2026-08-06 · Integrity audit of links, READMEs, manifestos and Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/auditorias/publicas/2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md)
 * [2026-08-06 · Public indirect audit of KDP, Author Central and IDEA](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 * [2026-08-05 · From the Attention Economy to the Contribution Economy](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
 
