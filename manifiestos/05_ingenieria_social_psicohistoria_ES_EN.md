@@ -119,3 +119,9 @@ A minimum reflection pause before replying in selected digital spaces is propose
 ## Declaration
 
 > Social engineering already exists. The civilisational choice is whether it remains opaque and extractive or becomes a public, traceable and correctable pedagogy of responsible freedom.
+
+---
+
+## Navegación / Navigation
+
+← [Economía del Aporte / Contribution Economy](./04_economia_del_aporte_ES_EN.md) · [Índice / Index](./README.md) · [Memoria, Genealogía y Trazabilidad / Memory, Genealogy and Traceability](./06_memoria_genealogia_trazabilidad_ES_EN.md) →
