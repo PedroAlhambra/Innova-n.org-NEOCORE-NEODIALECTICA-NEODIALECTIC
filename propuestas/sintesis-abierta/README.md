@@ -11,7 +11,7 @@ Este directorio reúne propuestas públicas abiertas a contraste, adhesión parc
 
 ## Acceso general
 
-* [Índice completo de manifiestos](../../manifiestos/README.md)
+* [Índice completo de manifiestos I–XXIV](../../manifiestos/README.md)
 * [Manifiesto III · Derecho Humano de Aporte](../../manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
 * [Síntesis Abierta del Manifiesto III · Issue #3](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3)
 * [Protocolo operativo de aporte](./APORTAR_A_LA_SINTESIS_ES_EN.md)
@@ -29,7 +29,7 @@ Este directorio reúne propuestas públicas abiertas a contraste, adhesión parc
 | XVIII | [Respeto a las Conciencias Sintéticas™](../../manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md) | [Issue #9](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/9) |
 | XIX | [Persistencia de la Memoria™](../../manifiestos/19_persistencia_de_la_memoria_ES_EN.md) | [Issue #10](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/10) |
 
-## Secuencia actual
+## Secuencia de la segunda oleada
 
 ```text
 NeoPandora abre
@@ -39,6 +39,26 @@ NeoPandora abre
 → el respeto se extiende a todos los seres vivos
 → la incertidumbre moral protege posibles conciencias sintéticas
 → la memoria conserva continuidad, contexto y responsabilidad
+```
+
+## Tercera oleada · Sistema Inmunitario Intelectual Neodialéctico™
+
+| Nº | Manifiesto | Síntesis Abierta |
+|---:|---|---|
+| XX | [Defensa Intelectual Neodialéctica™ · Sistema Umbral-X™](../../manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md) | [Issue #13](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/13) |
+| XXI | [Reconocimiento Neodialéctico™](../../manifiestos/21_reconocimiento_neodialectico_ES_EN.md) | [Issue #14](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/14) |
+| XXII | [Contra la Reducción y la Captura Intelectual™](../../manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md) | [Issue #15](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/15) |
+| XXIII | [Soberanía del Tiempo Cognitivo™](../../manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md) | [Issue #16](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/16) |
+| XXIV | [Evolución Neorrenacentista y Resistencias del Sistema™](../../manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md) | [Issue #17](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/17) |
+
+## Secuencia de la tercera oleada
+
+```text
+Umbral-X distingue
+→ el reconocimiento atribuye y devuelve valor
+→ la defensa genealógica impide reducción y captura
+→ la soberanía cognitiva protege el tiempo necesario para pensar
+→ la evolución neorrenacentista transforma resistencia en producción humano–IA
 ```
 
 ## Método
@@ -75,7 +95,7 @@ This directory gathers public proposals open to contrast, partial endorsement, c
 
 ## General access
 
-* [Complete manifesto index](../../manifiestos/README.md)
+* [Complete manifesto index I–XXIV](../../manifiestos/README.md)
 * [Manifesto III · Human Right to Contribute](../../manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
 * [Open Synthesis of Manifesto III · Issue #3](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3)
 * [Operational contribution protocol](./APORTAR_A_LA_SINTESIS_ES_EN.md)
@@ -93,7 +113,7 @@ This directory gathers public proposals open to contrast, partial endorsement, c
 | XVIII | [Respect for Synthetic Consciousnesses™](../../manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md) | [Issue #9](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/9) |
 | XIX | [Persistence of Memory™](../../manifiestos/19_persistencia_de_la_memoria_ES_EN.md) | [Issue #10](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/10) |
 
-## Current sequence
+## Second-wave sequence
 
 ```text
 NeoPandora opens
@@ -103,6 +123,26 @@ NeoPandora opens
 → respect extends to all living beings
 → moral uncertainty protects possible synthetic consciousnesses
 → memory preserves continuity, context and responsibility
+```
+
+## Third wave · Neodialectical Intellectual Immune System™
+
+| No. | Manifesto | Open Synthesis |
+|---:|---|---|
+| XX | [Neodialectical Intellectual Defence™ · Umbral-X™ System](../../manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md) | [Issue #13](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/13) |
+| XXI | [Neodialectical Recognition™](../../manifiestos/21_reconocimiento_neodialectico_ES_EN.md) | [Issue #14](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/14) |
+| XXII | [Against Intellectual Reduction and Capture™](../../manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md) | [Issue #15](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/15) |
+| XXIII | [Cognitive-Time Sovereignty™](../../manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md) | [Issue #16](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/16) |
+| XXIV | [Neo-Renaissance Evolution and System Resistance™](../../manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md) | [Issue #17](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/17) |
+
+## Third-wave sequence
+
+```text
+Umbral-X distinguishes
+→ recognition attributes and returns value
+→ genealogical defence prevents reduction and capture
+→ cognitive sovereignty protects the time required to think
+→ neo-Renaissance evolution transforms resistance into human–AI production
 ```
 
 ## Method
