@@ -10,6 +10,14 @@ Esta serie reúne análisis estructurales y trazas públicas de utilidad documen
 
 ## 2026-08
 
+### Caso de éxito · auditoría gratuita a Amazon KDP y Author Central
+
+* [2026-08-06 · Caso de éxito completo](../../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+* [Página de proyección para la Wiki](../../wiki-source/Caso_Exito_Auditoria_Gratuita_Amazon_KDP.md)
+* [Auditoría indirecta de origen](./2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
+
+Caso `51071689`. Documenta la corrección verificable de asociaciones multilingües de IDEA y la recepción positiva por KDP de propuestas de mejora para su Biblioteca y Author Central. Es el primer caso publicado de una gran empresa registrada funcionalmente por Innova_N como **cliente gratuito por el Bien Común**, sin relación contractual ni deuda económica implícitas.
+
 ### Actualización del expediente DistroKid–Spotify
 
 * [2026-08-06 · Respuesta de Spotify, ausencia de respuesta localizada de DistroKid y nuevo requerimiento de datos](./2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md)
@@ -21,10 +29,11 @@ Registra la afirmación de Spotify de haber facilitado a DistroKid informes actu
 ### Auditoría indirecta pública · KDP, Author Central e IDEA
 
 * [2026-08-06 · Documento bilingüe completo](./2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
+* [Caso de éxito derivado](../../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
 * [Índice de auditorías públicas](../../auditorias/publicas/README.md)
 * [Ediciones internacionales de IDEA](../../obras/idea/EDICIONES.md)
 
-Caso `51071689`. Registra incidencias de publicación multilingüe, estado diferenciado de las ediciones finlandesas, problemas de asociación y metadatos, propuestas de mejora y aviso previo de publicación de la traza.
+Caso `51071689`. Registra incidencias de publicación multilingüe, estado diferenciado de las ediciones finlandesas, problemas de asociación y metadatos, propuestas de mejora, corrección del caso y aviso previo de publicación de la traza.
 
 ### Economía de la atención y economía del aporte
 
@@ -68,6 +77,14 @@ This series gathers structural analyses and public documentary traces produced f
 
 ## 2026-08
 
+### Success case · free audit for Amazon KDP and Author Central
+
+* [2026-08-06 · Complete success case](../../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+* [Wiki projection page](../../wiki-source/Caso_Exito_Auditoria_Gratuita_Amazon_KDP.md)
+* [Originating indirect audit](./2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
+
+Case `51071689`. Documents the verifiable correction of IDEA’s multilingual associations and KDP’s positive reception of improvement proposals for its Bookshelf and Author Central. It is the first published case of a large company functionally recorded by Innova_N as a **free client for the Common Good**, without implying a contractual relationship or financial debt.
+
 ### DistroKid–Spotify case update
 
 * [2026-08-06 · Spotify reply, no located DistroKid response and new data demand](./2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md)
@@ -79,10 +96,11 @@ Records Spotify’s assertion that it supplied DistroKid with up-to-date and acc
 ### Public indirect audit · KDP, Author Central and IDEA
 
 * [2026-08-06 · Complete bilingual document](./2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
+* [Derived success case](../../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
 * [Public audit index](../../auditorias/publicas/README.md)
 * [International IDEA editions](../../obras/idea/EDICIONES.md)
 
-Case `51071689`. It records multilingual publication incidents, differentiated Finnish-edition status, association and metadata problems, improvement proposals and prior notice that the trace would be published.
+Case `51071689`. It records multilingual publication incidents, differentiated Finnish-edition status, association and metadata problems, improvement proposals, correction of the case and prior notice that the trace would be published.
 
 ### Attention economy and contribution economy
 
