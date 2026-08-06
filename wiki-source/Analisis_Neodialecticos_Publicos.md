@@ -1,5 +1,5 @@
-# Análisis Neodialécticos Públicos
-# Public Neodialectical Analyses
+# Análisis y auditorías · guía de uso
+# Analyses and audits · usage guide
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -7,93 +7,129 @@
 
 # ES · Castellano
 
-Esta página relaciona los análisis y auditorías públicas del repositorio sin sustituir sus documentos canónicos.
+## Función de esta página
 
-## Caso de éxito destacado
+Esta página explica cómo localizar, leer y contrastar los análisis y auditorías del repositorio. No reproduce cada expediente ni mantiene un catálogo paralelo.
 
-* [Auditoría gratuita a Amazon KDP y Author Central](Caso_Exito_Auditoria_Gratuita_Amazon_KDP)
-* [Documento canónico del caso de éxito](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+Índices canónicos:
+
+* [Índice general de análisis](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/INDEX.md)
+* [Análisis públicos](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/README.md)
+* [Auditorías públicas](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/auditorias/publicas/README.md)
+
+## Cómo leer un análisis
+
+Comprueba:
+
+1. fecha y objeto;
+2. hechos verificados;
+3. datos declarados por terceros;
+4. testimonios y documentos;
+5. inferencias e hipótesis;
+6. contradicciones pendientes;
+7. propuestas y criterios de revisión;
+8. estado actual frente al estado histórico del documento.
+
+## Cómo leer una auditoría
+
+Distingue tres capas:
+
+```text
+TRAZA HISTÓRICA
+→ qué se observó y cuándo
+
+ESTADO ACTUAL
+→ qué quedó corregido, abierto o sin verificar
+
+APRENDIZAJE REUTILIZABLE
+→ qué puede mejorar otros sistemas
+```
+
+Una auditoría abierta puede contener estados ya superados. Las actualizaciones posteriores y los documentos de cierre deben leerse junto al expediente inicial.
+
+## Caso de aplicación recomendado
+
+* [Caso de éxito · auditoría gratuita a Amazon KDP y Author Central](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
 * [Auditoría indirecta de origen](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 
-El caso `51071689` documenta una aplicación práctica del Neodialectica Framework™ para detectar incoherencias, obtener una corrección verificable y producir propuestas de mejora recibidas positivamente por KDP. Innova_N registra funcionalmente a Amazon como **cliente gratuito por el Bien Común**, sin atribuirle contrato, deuda, asociación ni adhesión formal al marco.
+Este par permite observar la transición desde una incidencia real hasta una corrección verificable y una propuesta de mejora institucional.
 
-## Incorporaciones recientes
+## Cómo aportar
 
-* [2026-08-06 · Caso de éxito: auditoría gratuita a Amazon KDP y Author Central](Caso_Exito_Auditoria_Gratuita_Amazon_KDP)
-* [2026-08-06 · Auditoría de integridad de enlaces, READMEs, manifiestos y Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/auditorias/publicas/2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md)
-* [2026-08-06 · Auditoría indirecta pública de KDP, Author Central e IDEA](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
-* [2026-08-05 · De la economía de la atención a la economía del aporte](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
+* cita el documento y el fragmento concreto;
+* distingue corrección factual, interpretación y propuesta;
+* aporta fuente, evidencia o razonamiento trazable;
+* indica qué cambia respecto del estado anterior;
+* no atribuyas intenciones sin evidencia;
+* evita publicar datos personales innecesarios.
 
-## Serie España–Marruecos
+## Regla documental
 
-* [2026-07-22 · Dajla, mafias migratorias y control estatal](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
-* [2026-07-21 · España sin consulta](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
-
-## Religión, identidad y conciencia
-
-* [2026-07-13 · Religión e identidad](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
-
-## Inteligencia artificial, instituciones y gobernanza
-
-* [Anthropic, gobernanza de IA y problema del marco](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
-* [Convergencia neodialéctica en la IA institucional](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
-* [LinkedIn como red profesional fragmentada](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md)
-* [Stanford / ACE y el marco previo neodialéctico](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
-
-## Auditorías
-
-* [Índice de auditorías públicas](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/auditorias/publicas/README.md)
-* [2025-12 · Evento-Reflejo · Auditoría DistroKid](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md)
-
-## Criterio
-
-Los documentos distinguen, cuando corresponde, hechos verificados, datos declarados, testimonios, inferencias, hipótesis, contradicciones, conflictos de interés y evidencia pendiente.
+Los nuevos análisis y auditorías se incorporan a sus índices del repositorio. La Wiki sólo cambia cuando cambia la manera de leerlos, verificarlos o utilizarlos.
 
 ---
 
 # EN · English
 
-This page connects the repository’s public analyses and audits without replacing their canonical documents.
+## Purpose of this page
 
-## Featured success case
+This page explains how to locate, read and contrast analyses and audits in the repository. It does not reproduce each case or maintain a parallel catalogue.
 
-* [Free audit for Amazon KDP and Author Central](Caso_Exito_Auditoria_Gratuita_Amazon_KDP)
-* [Canonical success-case document](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+Canonical indexes:
+
+* [General analysis index](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/INDEX.md)
+* [Public analyses](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/README.md)
+* [Public audits](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/auditorias/publicas/README.md)
+
+## How to read an analysis
+
+Check:
+
+1. date and object;
+2. verified facts;
+3. data declared by third parties;
+4. testimony and documents;
+5. inferences and hypotheses;
+6. unresolved contradictions;
+7. proposals and review criteria;
+8. current status versus the historical status of the document.
+
+## How to read an audit
+
+Distinguish three layers:
+
+```text
+HISTORICAL TRACE
+→ what was observed and when
+
+CURRENT STATUS
+→ what was corrected, remains open or is unverified
+
+REUSABLE LEARNING
+→ what can improve other systems
+```
+
+An open audit may contain states that have since been superseded. Later updates and closure documents should be read together with the initial file.
+
+## Recommended application case
+
+* [Success case · free audit for Amazon KDP and Author Central](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
 * [Originating indirect audit](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 
-Case `51071689` documents a practical application of the Neodialectica Framework™ to detect inconsistencies, achieve a verifiable correction and produce improvement proposals positively received by KDP. Innova_N functionally records Amazon as a **free client for the Common Good**, without attributing a contract, debt, partnership or formal endorsement of the framework to Amazon.
+This pair shows the transition from a real incident to a verifiable correction and an institutional improvement proposal.
 
-## Recent incorporations
+## How to contribute
 
-* [2026-08-06 · Success case: free audit for Amazon KDP and Author Central](Caso_Exito_Auditoria_Gratuita_Amazon_KDP)
-* [2026-08-06 · Integrity audit of links, READMEs, manifestos and Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/auditorias/publicas/2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md)
-* [2026-08-06 · Public indirect audit of KDP, Author Central and IDEA](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
-* [2026-08-05 · From the Attention Economy to the Contribution Economy](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
+* cite the document and precise passage;
+* distinguish factual correction, interpretation and proposal;
+* provide a source, evidence or traceable reasoning;
+* state what changes relative to the previous status;
+* do not attribute intentions without evidence;
+* avoid publishing unnecessary personal data.
 
-## Spain–Morocco series
+## Documentary rule
 
-* [2026-07-22 · Dakhla, migrant-smuggling networks and state control](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
-* [2026-07-21 · Spain without consultation](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
-
-## Religion, identity and consciousness
-
-* [2026-07-13 · Religion and identity](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
-
-## Artificial intelligence, institutions and governance
-
-* [Anthropic, AI governance and the framework problem](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
-* [Neodialectical convergence in institutional AI](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
-* [LinkedIn as a fragmented professional network](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md)
-* [Stanford / ACE and the prior neodialectical framework](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
-
-## Audits
-
-* [Public audit index](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/auditorias/publicas/README.md)
-* [2025-12 · Event-Reflection · DistroKid Audit](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md)
-
-## Criterion
-
-Documents distinguish, where applicable, verified facts, declared data, testimony, inference, hypotheses, contradictions, conflicts of interest and pending evidence.
+New analyses and audits are added to their repository indexes. The Wiki changes only when the way of reading, verifying or using them changes.
 
 ---
 
