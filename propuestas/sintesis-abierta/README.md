@@ -9,12 +9,11 @@ This directory contains public proposals open to contrast, partial endorsement, 
 
 ## Acceso general / General access
 
-- [III · Manifiesto del Derecho Humano de Aporte a la Síntesis Abierta™ / Manifesto of the Human Right to Contribute to Open Synthesis™](../../manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
-- [Síntesis Abierta del Manifiesto III · Issue #3 / Open Synthesis of Manifesto III](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3)
-- [XIII · Manifiesto NeoPandora™ / NeoPandora™ Manifesto](../../manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md)
-- [Síntesis Abierta del Manifiesto XIII · Issue #4 / Open Synthesis of Manifesto XIII](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/4)
+- [III · Derecho Humano de Aporte a la Síntesis Abierta™ / Human Right to Contribute to Open Synthesis™](../../manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
+- [Síntesis Abierta del Manifiesto III · Issue #3](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3)
 - [Protocolo operativo actual de aporte / Current operational contribution protocol](./APORTAR_A_LA_SINTESIS_ES_EN.md)
 - [Plantilla de GitHub para abrir un aporte / GitHub template for opening a contribution](../../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
+- [Índice completo de manifiestos / Complete manifesto index](../../manifiestos/README.md)
 
 El derecho de aporte no depende de edad, titulación, cargo o prestigio institucional. Su procesamiento exige comprensión suficiente, competencia, experiencia o profundidad relevante, trazabilidad y un delta identificable.
 
@@ -24,13 +23,30 @@ The right to contribute does not depend on age, qualifications, position or inst
 
 ## Segunda oleada de manifiestos / Second wave of manifestos
 
-El Manifiesto XIII · NeoPandora™ inaugura la segunda oleada del Neodialectica Framework™ / Network: una fase de despliegue arquetípico, cultural, ecológico, vital y civilizatorio de los doce pilares fundacionales.
+La segunda oleada del Neodialectica Framework™ / Network despliega en forma arquetípica, cultural, humana y civilizatoria los doce pilares fundacionales.
 
-Manifesto XIII · NeoPandora™ inaugurates the second wave of the Neodialectica Framework™ / Network: a phase of archetypal, cultural, ecological, living and civilisational deployment of the twelve foundational pillars.
+The second wave of the Neodialectica Framework™ / Network deploys the twelve foundational pillars in archetypal, cultural, human and civilisational form.
 
-- [Leer el Manifiesto XIII · ES/EN](../../manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md)
-- [Participar en su Síntesis Abierta · Issue #4](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/4)
-- [Índice completo de manifiestos](../../manifiestos/README.md)
+| Nº | Manifiesto / Manifesto | Síntesis Abierta / Open Synthesis |
+|---:|---|---|
+| XIII | [NeoPandora™ · Apertura Regenerativa / Regenerative Opening](../../manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md) | [Issue #4](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/4) |
+| XIV | [Contra la Alienación Humana™ / Against Human Alienation™](../../manifiestos/14_contra_alienacion_humana_ES_EN.md) | [Issue #5](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/5) |
+| XV | [Los Titanes™ · El despertar de la gente / The Awakening of the People](../../manifiestos/15_los_titanes_despertar_de_la_gente_ES_EN.md) | [Issue #6](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/6) |
+| XVI | [Refragmentación Arquetípica™ / Archetypal Refragmentation™](../../manifiestos/16_refragmentacion_arquetipica_ES_EN.md) | [Issue #7](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/7) |
+
+```text
+NeoPandora abre
+→ la lucha contra la alienación reconstruye relación
+→ los Titanes despiertan la potencia común
+→ la refragmentación recompone funciones divididas
+```
+
+```text
+NeoPandora opens
+→ the struggle against alienation reconstructs relation
+→ the Titans awaken common power
+→ refragmentation recomposes divided functions
+```
 
 ---
 
