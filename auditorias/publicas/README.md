@@ -6,16 +6,6 @@ This directory gathers public notices, traces and audits documented by Innova_N.
 
 ## Registros activos / Active records
 
-### Regalías, metadatos y distribución musical / Royalties, metadata and music distribution
-
-* [2026-08-07 · Auditoría pública Spotify / DistroKid: regalías, metadatos y trazabilidad](./2026-08-07_auditoria_regalias_spotify_distrokid_ES_EN.md)
-
-  Casos DistroKid `2901165` y `2941949`; referencia Spotify `thread::c8F4V3L0dbmYc5D_MjvTMR4::`. Documenta la discrepancia entre 9.614 reproducciones mostradas y 0,00 USD de ingresos, las respuestas incompatibles recibidas, la advertencia de streaming artificial no cuantificada y la reapertura formal solicitada el 7 de agosto de 2026. No establece fraude: exige conciliación documental por pista, identificador, periodo, importe y cuenta.
-
-* [2026-08-07 · Public Spotify / DistroKid audit: royalties, metadata and traceability](./2026-08-07_auditoria_regalias_spotify_distrokid_ES_EN.md)
-
-  DistroKid cases `2901165` and `2941949`; Spotify reference `thread::c8F4V3L0dbmYc5D_MjvTMR4::`. Documents the discrepancy between 9,614 displayed streams and USD 0.00 in earnings, incompatible support statements, an unquantified artificial-streaming warning, and the formal reopening requested on 7 August 2026. It does not establish fraud: it requests documentary reconciliation by track, identifier, period, amount, and account.
-
 ### Casos de éxito y aporte al Bien Común / Success cases and Common-Good contribution
 
 * [2026-08-06 · Caso de éxito: auditoría gratuita a Amazon KDP y Author Central](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
