@@ -36,6 +36,7 @@
 ## Análisis y auditorías / Analyses and audits
 
 * [Análisis Neodialécticos Públicos](Analisis_Neodialecticos_Publicos)
+* [Caso de éxito · Auditoría gratuita a Amazon KDP](Caso_Exito_Auditoria_Gratuita_Amazon_KDP)
 * [Índice de análisis](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/INDEX.md)
 * [Auditorías públicas](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/auditorias/publicas/README.md)
 * [Auditoría de integridad: enlaces, READMEs y Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/auditorias/publicas/2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md)
