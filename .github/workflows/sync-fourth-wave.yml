@@ -1,0 +1,251 @@
+name: One-time fourth-wave synchronization
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/sync-fourth-wave.yml
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Synchronize manifesto navigation and repository entrances
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          ANNOUNCEMENT = "./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md"
+
+          es_root_block = """## Cuarta oleada · Rehumanización, custodia de la vida y coherencia civilizatoria · XXV–XXXI
+
+| Nº | Manifiesto | Función | Síntesis Abierta |
+|---:|---|---|---|
+| XXV | [Pulido de la Piedra™](./manifiestos/25_pulido_de_la_piedra_ES_EN.md) | Esculpir la conciencia mediante la grandeza humana sin borrar singularidad | [Issue #19](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/19) |
+| XXVI | [Misericordia Universal Recíproca™](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md) | Integrar justicia, protección, reparación y retorno para impedir deshumanización y exterminio | [Issue #20](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/20) |
+| XXVII | [Valor de los Alimentos y la Vida™](./manifiestos/27_valor_alimentos_vida_ES_EN.md) | Reconocer alimento, suelo, agua, trabajo, cultura y comunicaciones como infraestructura vital | [Issue #21](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/21) |
+| XXVIII | [Los Tesla™](./manifiestos/28_los_tesla_ES_EN.md) | Proteger al creador vivo frente a captura, agotamiento, sustitución y borrado | [Issue #22](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/22) |
+| XXIX | [Contra la Idolatría del Dinero™](./manifiestos/29_idolatria_del_dinero_ES_EN.md) | Subordinar precio, rentabilidad y acumulación a vida, dignidad, verdad y Bien Común | [Issue #23](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/23) |
+| XXX | [Coherencia entre Fines y Medios™](./manifiestos/30_coherencia_fines_medios_ES_EN.md) | Entrar en el terreno del poder y el mercado sin reproducir aquello que se combate | [Issue #24](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/24) |
+| XXXI | [Contra el Neuromarketing Antihumanista™](./manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md) | Persuadir, difundir y competir sin explotar vulnerabilidades ni capturar la conciencia | [Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25) |
+
+"""
+
+          en_root_block = """## Fourth wave · Rehumanisation, stewardship of life and civilisational coherence · XXV–XXXI
+
+| No. | Manifesto | Function | Open Synthesis |
+|---:|---|---|---|
+| XXV | [Polishing of the Stone™](./manifiestos/25_pulido_de_la_piedra_ES_EN.md) | Sculpt consciousness through human greatness without erasing singularity | [Issue #19](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/19) |
+| XXVI | [Universal Reciprocal Mercy™](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md) | Integrate justice, protection, repair and return to prevent dehumanisation and extermination | [Issue #20](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/20) |
+| XXVII | [Value of Food and Life™](./manifiestos/27_valor_alimentos_vida_ES_EN.md) | Recognise food, soil, water, labour, culture and communications as vital infrastructure | [Issue #21](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/21) |
+| XXVIII | [The Teslas™](./manifiestos/28_los_tesla_ES_EN.md) | Protect the living creator against capture, exhaustion, replacement and erasure | [Issue #22](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/22) |
+| XXIX | [Against the Idolatry of Money™](./manifiestos/29_idolatria_del_dinero_ES_EN.md) | Subordinate price, profitability and accumulation to life, dignity, truth and the Common Good | [Issue #23](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/23) |
+| XXX | [Coherence between Ends and Means™](./manifiestos/30_coherencia_fines_medios_ES_EN.md) | Enter the terrain of power and markets without reproducing what is being fought | [Issue #24](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/24) |
+| XXXI | [Against Anti-Humanist Neuromarketing™](./manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md) | Persuade, communicate and compete without exploiting vulnerability or capturing consciousness | [Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25) |
+
+"""
+
+          es_sequence_old = """→ XXIV · EVOLUCIÓN NEORRENACENTISTA Y RESISTENCIAS
+→ I · RETORNO A ORIGEN Y NUEVO CICLO"""
+          es_sequence_new = """→ XXIV · EVOLUCIÓN NEORRENACENTISTA Y RESISTENCIAS
+→ XXV · PULIDO DE LA PIEDRA
+→ XXVI · MISERICORDIA UNIVERSAL RECÍPROCA
+→ XXVII · VALOR DE LOS ALIMENTOS Y LA VIDA
+→ XXVIII · LOS TESLA
+→ XXIX · CONTRA LA IDOLATRÍA DEL DINERO
+→ XXX · COHERENCIA ENTRE FINES Y MEDIOS
+→ XXXI · CONTRA EL NEUROMARKETING ANTIHUMANISTA
+→ I · RETORNO A ORIGEN Y NUEVO CICLO"""
+
+          en_sequence_old = """→ XXIV · NEO-RENAISSANCE EVOLUTION AND RESISTANCE
+→ I · RETURN TO ORIGIN AND NEW CYCLE"""
+          en_sequence_new = """→ XXIV · NEO-RENAISSANCE EVOLUTION AND RESISTANCE
+→ XXV · POLISHING OF THE STONE
+→ XXVI · UNIVERSAL RECIPROCAL MERCY
+→ XXVII · VALUE OF FOOD AND LIFE
+→ XXVIII · THE TESLAS
+→ XXIX · AGAINST THE IDOLATRY OF MONEY
+→ XXX · COHERENCE BETWEEN ENDS AND MEANS
+→ XXXI · AGAINST ANTI-HUMANIST NEUROMARKETING
+→ I · RETURN TO ORIGIN AND NEW CYCLE"""
+
+          for filename in ("README.md", "LEEME.md"):
+              path = Path(filename)
+              text = path.read_text(encoding="utf-8")
+              text = text.replace("Índice navegable de manifiestos I–XXIV", "Índice navegable de manifiestos I–XXXI")
+              text = text.replace("Navigable manifesto index I–XXIV", "Navigable manifesto index I–XXXI")
+              if "## Cuarta oleada · Rehumanización" not in text:
+                  text = text.replace("El Manifiesto III mantiene su propia", es_root_block + "El Manifiesto III mantiene su propia", 1)
+              if "## Fourth wave · Rehumanisation" not in text:
+                  text = text.replace("Manifesto III maintains its own", en_root_block + "Manifesto III maintains its own", 1)
+              text = text.replace(es_sequence_old, es_sequence_new)
+              text = text.replace(en_sequence_old, en_sequence_new)
+              es_access = "* [Índice navegable de manifiestos I–XXXI](./manifiestos/README.md)"
+              en_access = "* [Navigable manifesto index I–XXXI](./manifiestos/README.md)"
+              if "Anuncio de la cuarta oleada" not in text:
+                  text = text.replace(es_access, es_access + f"\n* [Anuncio de la cuarta oleada]({ANNOUNCEMENT})", 1)
+              if "Fourth-wave announcement" not in text:
+                  text = text.replace(en_access, en_access + f"\n* [Fourth-wave announcement]({ANNOUNCEMENT})", 1)
+              path.write_text(text, encoding="utf-8")
+
+          portada = Path("PORTADA.md")
+          text = portada.read_text(encoding="utf-8")
+          text = text.replace("veinticuatro manifiestos bilingües", "treinta y un manifiestos bilingües")
+          text = text.replace("twenty-four bilingual manifestos", "thirty-one bilingual manifestos")
+          es_third_bullet = "* **Tercera oleada · XX–XXIV:** **Sistema Inmunitario Intelectual Neodialéctico™**, destinado a proteger apertura, reconocimiento, genealogía, tiempo cognitivo y evolución neorrenacentista."
+          en_third_bullet = "* **Third wave · XX–XXIV:** the **Neodialectical Intellectual Immune System™**, protecting openness, recognition, genealogy, cognitive time and neorenaissance evolution."
+          if "* **Cuarta oleada · XXV–XXXI:**" not in text:
+              text = text.replace(es_third_bullet, es_third_bullet + "\n* **Cuarta oleada · XXV–XXXI:** rehumanización, custodia de la vida y coherencia civilizatoria.", 1)
+          if "* **Fourth wave · XXV–XXXI:**" not in text:
+              text = text.replace(en_third_bullet, en_third_bullet + "\n* **Fourth wave · XXV–XXXI:** rehumanisation, stewardship of life and civilisational coherence.", 1)
+
+          es_portada_block = """### Cuarta oleada · Rehumanización, custodia de la vida y coherencia civilizatoria
+
+* [XXV · Pulido de la Piedra™](./manifiestos/25_pulido_de_la_piedra_ES_EN.md)
+* [XXVI · Misericordia Universal Recíproca™](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md)
+* [XXVII · Valor de los Alimentos y la Vida™](./manifiestos/27_valor_alimentos_vida_ES_EN.md)
+* [XXVIII · Los Tesla™](./manifiestos/28_los_tesla_ES_EN.md)
+* [XXIX · Contra la Idolatría del Dinero™](./manifiestos/29_idolatria_del_dinero_ES_EN.md)
+* [XXX · Coherencia entre Fines y Medios™](./manifiestos/30_coherencia_fines_medios_ES_EN.md)
+* [XXXI · Contra el Neuromarketing Antihumanista™](./manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md)
+
+```text
+PULIDO DE LA PIEDRA™
+→ MISERICORDIA UNIVERSAL RECÍPROCA™
+→ VALOR DE LOS ALIMENTOS Y LA VIDA™
+→ LOS TESLA™
+→ CONTRA LA IDOLATRÍA DEL DINERO™
+→ COHERENCIA ENTRE FINES Y MEDIOS™
+→ CONTRA EL NEUROMARKETING ANTIHUMANISTA™
+```
+
+"""
+          en_portada_block = """### Fourth wave · Rehumanisation, stewardship of life and civilisational coherence
+
+* [XXV · Polishing of the Stone™](./manifiestos/25_pulido_de_la_piedra_ES_EN.md)
+* [XXVI · Universal Reciprocal Mercy™](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md)
+* [XXVII · Value of Food and Life™](./manifiestos/27_valor_alimentos_vida_ES_EN.md)
+* [XXVIII · The Teslas™](./manifiestos/28_los_tesla_ES_EN.md)
+* [XXIX · Against the Idolatry of Money™](./manifiestos/29_idolatria_del_dinero_ES_EN.md)
+* [XXX · Coherence between Ends and Means™](./manifiestos/30_coherencia_fines_medios_ES_EN.md)
+* [XXXI · Against Anti-Humanist Neuromarketing™](./manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md)
+
+```text
+POLISHING OF THE STONE™
+→ UNIVERSAL RECIPROCAL MERCY™
+→ VALUE OF FOOD AND LIFE™
+→ THE TESLAS™
+→ AGAINST THE IDOLATRY OF MONEY™
+→ COHERENCE BETWEEN ENDS AND MEANS™
+→ AGAINST ANTI-HUMANIST NEUROMARKETING™
+```
+
+"""
+          if "### Cuarta oleada · Rehumanización" not in text:
+              text = text.replace("* [Índice completo I–XXIV](./manifiestos/README.md)", es_portada_block + "* [Índice completo I–XXXI](./manifiestos/README.md)", 1)
+          else:
+              text = text.replace("Índice completo I–XXIV", "Índice completo I–XXXI")
+          if "### Fourth wave · Rehumanisation" not in text:
+              text = text.replace("* [Complete index I–XXIV](./manifiestos/README.md)", en_portada_block + "* [Complete index I–XXXI](./manifiestos/README.md)", 1)
+          else:
+              text = text.replace("Complete index I–XXIV", "Complete index I–XXXI")
+          text = text.replace("Índice completo I–XXIV", "Índice completo I–XXXI")
+          text = text.replace("Complete index I–XXIV", "Complete index I–XXXI")
+          third_es_link = "* [Tercera oleada](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)"
+          third_en_link = "* [Third wave](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)"
+          if "Cuarta oleada](./anuncios/2026-08-07" not in text:
+              text = text.replace(third_es_link, third_es_link + f"\n* [Cuarta oleada]({ANNOUNCEMENT})", 1)
+          if "Fourth wave](./anuncios/2026-08-07" not in text:
+              text = text.replace(third_en_link, third_en_link + f"\n* [Fourth wave]({ANNOUNCEMENT})", 1)
+          portada.write_text(text, encoding="utf-8")
+
+          cover = Path("COVER.md")
+          text = cover.read_text(encoding="utf-8")
+          text = text.replace("Índice de manifiestos I–XXIV", "Índice de manifiestos I–XXXI")
+          text = text.replace("Manifesto index I–XXIV", "Manifesto index I–XXXI")
+          es_cover_block = """
+## Cuarta oleada · XXV–XXXI · Rehumanización, custodia de la vida y coherencia civilizatoria
+
+25. [Pulido de la Piedra™](./manifiestos/25_pulido_de_la_piedra_ES_EN.md)
+26. [Misericordia Universal Recíproca™](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md)
+27. [Valor de los Alimentos y la Vida™](./manifiestos/27_valor_alimentos_vida_ES_EN.md)
+28. [Los Tesla™](./manifiestos/28_los_tesla_ES_EN.md)
+29. [Contra la Idolatría del Dinero™](./manifiestos/29_idolatria_del_dinero_ES_EN.md)
+30. [Coherencia entre Fines y Medios™](./manifiestos/30_coherencia_fines_medios_ES_EN.md)
+31. [Contra el Neuromarketing Antihumanista™](./manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md)
+
+```text
+PULIDO DE LA PIEDRA™
+→ MISERICORDIA UNIVERSAL RECÍPROCA™
+→ VALOR DE LOS ALIMENTOS Y LA VIDA™
+→ LOS TESLA™
+→ CONTRA LA IDOLATRÍA DEL DINERO™
+→ COHERENCIA ENTRE FINES Y MEDIOS™
+→ CONTRA EL NEUROMARKETING ANTIHUMANISTA™
+```
+"""
+          en_cover_block = """
+## Fourth wave · XXV–XXXI · Rehumanisation, stewardship of life and civilisational coherence
+
+25. [Polishing of the Stone™](./manifiestos/25_pulido_de_la_piedra_ES_EN.md)
+26. [Universal Reciprocal Mercy™](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md)
+27. [Value of Food and Life™](./manifiestos/27_valor_alimentos_vida_ES_EN.md)
+28. [The Teslas™](./manifiestos/28_los_tesla_ES_EN.md)
+29. [Against the Idolatry of Money™](./manifiestos/29_idolatria_del_dinero_ES_EN.md)
+30. [Coherence between Ends and Means™](./manifiestos/30_coherencia_fines_medios_ES_EN.md)
+31. [Against Anti-Humanist Neuromarketing™](./manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md)
+
+```text
+POLISHING OF THE STONE™
+→ UNIVERSAL RECIPROCAL MERCY™
+→ VALUE OF FOOD AND LIFE™
+→ THE TESLAS™
+→ AGAINST THE IDOLATRY OF MONEY™
+→ COHERENCE BETWEEN ENDS AND MEANS™
+→ AGAINST ANTI-HUMANIST NEUROMARKETING™
+```
+"""
+          if "## Cuarta oleada · XXV–XXXI" not in text:
+              text = text.replace("\n---\n\n# EN · English", es_cover_block + "\n---\n\n# EN · English", 1)
+          if "## Fourth wave · XXV–XXXI" not in text:
+              text = text.replace("\n---\n\n**Neodialectica Framework™", en_cover_block + "\n---\n\n**Neodialectica Framework™", 1)
+          third_es = "* [Tercera oleada · Sistema Inmunitario Intelectual Neodialéctico™](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)"
+          third_en = "* [Third wave · Neodialectical Intellectual Immune System™](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)"
+          if "Cuarta oleada · Rehumanización" not in text.split("# EN · English", 1)[0]:
+              text = text.replace(third_es, third_es + f"\n* [Cuarta oleada · Rehumanización y coherencia]({ANNOUNCEMENT})", 1)
+          if "Fourth wave · Rehumanisation" not in text.split("# EN · English", 1)[1].split("## First wave", 1)[0]:
+              text = text.replace(third_en, third_en + f"\n* [Fourth wave · Rehumanisation and coherence]({ANNOUNCEMENT})", 1)
+          cover.write_text(text, encoding="utf-8")
+
+          nav = Path("manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md")
+          text = nav.read_text(encoding="utf-8")
+          text = text.replace(
+              "← [XXIII · Soberanía del Tiempo Cognitivo™](./23_soberania_tiempo_cognitivo_ES_EN.md) · [Índice](./README.md) · [I · Neo0™ · Soberanía de Guía](./11_neo0_soberania_de_guia_ES_EN.md) →",
+              "← [XXIII · Soberanía del Tiempo Cognitivo™](./23_soberania_tiempo_cognitivo_ES_EN.md) · [Índice](./README.md) · [XXV · Pulido de la Piedra™](./25_pulido_de_la_piedra_ES_EN.md) →"
+          )
+          text = text.replace(
+              "← [XXIII · Sovereignty of Cognitive Time™](./23_soberania_tiempo_cognitivo_ES_EN.md) · [Index](./README.md) · [I · Neo0™ · Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) →",
+              "← [XXIII · Sovereignty of Cognitive Time™](./23_soberania_tiempo_cognitivo_ES_EN.md) · [Index](./README.md) · [XXV · Polishing of the Stone™](./25_pulido_de_la_piedra_ES_EN.md) →"
+          )
+          nav.write_text(text, encoding="utf-8")
+
+          Path(".github/workflows/sync-fourth-wave.yml").unlink()
+          PY
+
+          git config user.name "Innova_N Documentation Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add README.md LEEME.md PORTADA.md COVER.md manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md .github/workflows/sync-fourth-wave.yml
+          if git diff --cached --quiet; then
+            echo "No changes required"
+          else
+            git commit -m "docs: synchronize fourth-wave entrances and navigation"
+            git push origin HEAD:main
+          fi
