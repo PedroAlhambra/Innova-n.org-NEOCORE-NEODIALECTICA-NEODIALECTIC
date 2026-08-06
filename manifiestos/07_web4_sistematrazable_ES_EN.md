@@ -1,6 +1,6 @@
-# IX · Manifiesto de WEB4™ · SistemaTrazable™ / Manifesto of WEB4™ · SistemaTrazable™
+# X · Manifiesto de WEB4™ · SistemaTrazable™ / Manifesto of WEB4™ · SistemaTrazable™
 
-**Manifiesto / Manifesto:** IX  
+**Manifiesto / Manifesto:** X  
 **Versión / Version:** 1.1  
 **Estado / Status:** Público · fundacional · abierto a revisión trazable / Public · foundational · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06
@@ -99,6 +99,10 @@ Toda aportación exige:
 
 Toda modificación futura deberá preservar el texto anterior, identificar con precisión el cambio y explicar qué contradicción, evidencia o aportación justifica la nueva versión.
 
+## Navegación
+
+← [IX · Memoria, Genealogía y Trazabilidad](./06_memoria_genealogia_trazabilidad_ES_EN.md) · [Índice](./README.md) · [XI · Neorrenacimiento Humano](./08_neorrenacimiento_humano_ES_EN.md) →
+
 ---
 
 # EN · English
@@ -191,8 +195,8 @@ Every contribution requires:
 
 Every future modification must preserve the previous text, identify the change precisely and explain which contradiction, evidence or contribution justifies the new version.
 
+## Navigation
+
+← [IX · Memory, Genealogy and Traceability](./06_memoria_genealogia_trazabilidad_ES_EN.md) · [Index](./README.md) · [XI · Human Neo-Renaissance](./08_neorrenacimiento_humano_ES_EN.md) →
+
 ---
-
-## Navegación / Navigation
-
-← [VIII · Memoria, Genealogía y Trazabilidad / Memory, Genealogy and Traceability](./06_memoria_genealogia_trazabilidad_ES_EN.md) · [Índice / Index](./README.md) · [X · Neorrenacimiento Humano / Human Neo-Renaissance](./08_neorrenacimiento_humano_ES_EN.md) →
