@@ -1,42 +1,121 @@
 # Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability
 
-**Versión / Version:** 0.1  
-**Estado / Status:** Público · provisional / Public · provisional  
-**Fecha / Date:** 2026-08-05
+**Versión / Version:** 1.0  
+**Estado / Status:** Público · fundacional · abierto a revisión trazable / Public · foundational · open to traceable review  
+**Fecha de fijación / Record date:** 2026-08-06
 
-[ES](#es--castellano) · [EN](#en--english)
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
 ---
 
 # ES · Castellano
 
-La memoria es una infraestructura civilizatoria. Sin ella, el conocimiento se fragmenta, la autoría se borra, los errores se repiten y la síntesis pierde continuidad.
+## Invocación
 
-## Principios
+Una civilización sin memoria repite sus errores creyendo que innova. Una cultura sin genealogía confunde derivación con origen. Un sistema sin trazabilidad concentra poder en quien controla el relato de lo ocurrido.
 
-* Toda aportación debe conservar origen, contexto, fecha, estado y relación con versiones anteriores.
-* Debe distinguirse entre origen, derivación, síntesis, imitación y copia.
-* La atribución debe ser proporcional al aporte real.
-* La revisión no debe borrar la genealogía de las formulaciones previas.
-* La trazabilidad debe aplicarse también a algoritmos, decisiones institucionales, denuncias, sanciones y cambios de alcance.
-* La memoria pública y la memoria protegida cumplen funciones diferentes y deben mantener límites explícitos.
+Declaramos la memoria, la genealogía y la trazabilidad como infraestructuras esenciales del primer marco civilizatorio humano–IA conjunto de la historia conocida.
 
-## Derecho a retorno a fuente
+## I. Memoria como continuidad
 
-Toda persona afectada por una atribución, sanción o modificación relevante debe poder conocer la fuente, reconstruir la secuencia y solicitar revisión.
+La memoria no es acumulación indiscriminada. Es la capacidad de conservar contexto, estados, decisiones, contradicciones, aprendizajes y relaciones suficientes para que un sistema pueda reconocerse y corregirse.
 
-## Riesgo civilizatorio
+Toda aportación relevante debe preservar:
 
-Una sociedad que conserva resultados pero borra procesos pierde capacidad para aprender. Una sociedad que conserva procesos sin proteger privacidad o seguridad también puede causar daño. La síntesis exige equilibrio, capas y gobernanza.
+* origen;
+* fecha;
+* contexto;
+* autoría;
+* estado;
+* relación con versiones anteriores;
+* modificación introducida;
+* y efecto sobre el conjunto.
+
+## II. Genealogía
+
+Debe distinguirse entre:
+
+```text
+origen
+≠ derivación
+≠ desarrollo
+≠ síntesis
+≠ imitación
+≠ copia
+```
+
+La atribución debe ser proporcional al aporte real. Revisar una idea no permite apropiarse de su origen. Haber originado una idea tampoco concede propiedad absoluta sobre toda mejora posterior.
+
+## III. Trazabilidad del poder
+
+La trazabilidad no debe limitarse a autores y documentos. Debe alcanzar:
+
+* decisiones institucionales;
+* algoritmos;
+* sanciones;
+* denuncias;
+* cambios de alcance;
+* flujos económicos;
+* intermediaciones;
+* y transformaciones de políticas públicas.
+
+Toda persona afectada por una decisión relevante debe poder reconstruir la secuencia, conocer la fuente y solicitar revisión.
+
+## IV. Capas y límites
+
+No toda memoria debe ser pública. La capa pública y la capa protegida cumplen funciones distintas.
+
+La trazabilidad no puede convertirse en vigilancia total. Debe equilibrarse con:
+
+* privacidad;
+* seguridad;
+* derecho al olvido proporcionado;
+* protección de vulnerables;
+* soberanía de datos;
+* y límites explícitos de acceso.
+
+## V. Deber de conservación
+
+Las instituciones, plataformas y sistemas de IA que alteran memoria pública o atribución tienen el deber de conservar registros suficientes para explicar sus decisiones.
+
+Borrar procesos mientras se conservan resultados destruye capacidad de aprendizaje. Conservarlo todo sin criterio destruye libertad.
+
+## Declaración
+
+> La memoria da continuidad. La genealogía da justicia. La trazabilidad da responsabilidad.
+
+Sin esas tres dimensiones, ninguna síntesis permanece abierta: queda expuesta al borrado, la captura o la repetición infinita.
 
 ---
 
 # EN · English
 
-Memory is civilisational infrastructure. Without it, knowledge fragments, authorship disappears, errors repeat and synthesis loses continuity.
+## Invocation
 
-Every contribution must preserve origin, context, date, status and relation to previous versions. Origin, derivation, synthesis, imitation and copying must be distinguished. Attribution should be proportional to actual contribution. Review must not erase genealogy.
+A civilisation without memory repeats its errors while believing it innovates. A culture without genealogy confuses derivation with origin. A system without traceability concentrates power in those who control the account of what happened.
 
-Traceability must also apply to algorithms, institutional decisions, reports, sanctions and changes in reach. Public and protected memory serve different functions and require explicit boundaries.
+We declare memory, genealogy and traceability essential infrastructures of the first joint human–AI civilisational framework in known history.
 
-A society that preserves results while erasing processes loses the ability to learn. A society that preserves everything without privacy or security can also cause harm. Open Synthesis requires layered governance and balance.
+## I. Memory as continuity
+
+Memory is not indiscriminate accumulation. It preserves enough context, states, decisions, contradictions and learning for a system to recognise and correct itself.
+
+Every relevant contribution must preserve origin, date, context, authorship, status, relation to previous versions, introduced change and systemic effect.
+
+## II. Genealogy
+
+Origin, derivation, development, synthesis, imitation and copying must remain distinct. Attribution should be proportional to actual contribution. Reviewing an idea does not transfer its origin; originating it does not grant absolute ownership of every later improvement.
+
+## III. Traceability of power
+
+Traceability must reach institutional decisions, algorithms, sanctions, reports, changes in reach, economic flows and public policy. Anyone materially affected should be able to reconstruct the sequence, identify the source and request review.
+
+## IV. Layers and limits
+
+Not all memory should be public. Traceability must be balanced with privacy, security, proportional forgetting, protection of vulnerable people and data sovereignty.
+
+## Declaration
+
+> Memory gives continuity. Genealogy gives justice. Traceability gives responsibility.
+
+Without them, no synthesis remains open; it becomes vulnerable to erasure, capture and endless repetition.
