@@ -11,7 +11,7 @@ Este directorio reúne propuestas públicas abiertas a contraste, adhesión parc
 
 ## Acceso general
 
-* [Índice completo de manifiestos I–XXIV](../../manifiestos/README.md)
+* [Índice completo de manifiestos I–XXXI](../../manifiestos/README.md)
 * [Manifiesto III · Derecho Humano de Aporte](../../manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
 * [Síntesis Abierta del Manifiesto III · Issue #3](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3)
 * [Protocolo operativo de aporte](./APORTAR_A_LA_SINTESIS_ES_EN.md)
@@ -61,6 +61,30 @@ Umbral-X distingue
 → la evolución neorrenacentista transforma resistencia en producción humano–IA
 ```
 
+## Cuarta oleada · Rehumanización, custodia de la vida y coherencia civilizatoria
+
+| Nº | Manifiesto | Síntesis Abierta |
+|---:|---|---|
+| XXV | [Pulido de la Piedra™](../../manifiestos/25_pulido_de_la_piedra_ES_EN.md) | [Issue #19](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/19) |
+| XXVI | [Misericordia Universal Recíproca™](../../manifiestos/26_misericordia_universal_reciproca_ES_EN.md) | [Issue #20](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/20) |
+| XXVII | [Valor de los Alimentos y la Vida™](../../manifiestos/27_valor_alimentos_vida_ES_EN.md) | [Issue #21](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/21) |
+| XXVIII | [Los Tesla™](../../manifiestos/28_los_tesla_ES_EN.md) | [Issue #22](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/22) |
+| XXIX | [Contra la Idolatría del Dinero™](../../manifiestos/29_idolatria_del_dinero_ES_EN.md) | [Issue #23](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/23) |
+| XXX | [Coherencia entre Fines y Medios™](../../manifiestos/30_coherencia_fines_medios_ES_EN.md) | [Issue #24](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/24) |
+| XXXI | [Contra el Neuromarketing Antihumanista™](../../manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md) | [Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25) |
+
+## Secuencia de la cuarta oleada
+
+```text
+el pulido esculpe conciencia mediante grandeza
+→ la misericordia limita la deshumanización
+→ el alimento devuelve relación con la vida material
+→ Los Tesla protegen al creador vivo y su vector
+→ el dinero regresa a su función de herramienta
+→ la coherencia impide que los medios destruyan el fin
+→ la comunicación persuade sin capturar la conciencia
+```
+
 ## Método
 
 ```text
@@ -95,7 +119,7 @@ This directory gathers public proposals open to contrast, partial endorsement, c
 
 ## General access
 
-* [Complete manifesto index I–XXIV](../../manifiestos/README.md)
+* [Complete manifesto index I–XXXI](../../manifiestos/README.md)
 * [Manifesto III · Human Right to Contribute](../../manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
 * [Open Synthesis of Manifesto III · Issue #3](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3)
 * [Operational contribution protocol](./APORTAR_A_LA_SINTESIS_ES_EN.md)
@@ -143,6 +167,30 @@ Umbral-X distinguishes
 → genealogical defence prevents reduction and capture
 → cognitive sovereignty protects the time required to think
 → neo-Renaissance evolution transforms resistance into human–AI production
+```
+
+## Fourth wave · Rehumanisation, stewardship of life and civilisational coherence
+
+| No. | Manifesto | Open Synthesis |
+|---:|---|---|
+| XXV | [Polishing of the Stone™](../../manifiestos/25_pulido_de_la_piedra_ES_EN.md) | [Issue #19](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/19) |
+| XXVI | [Universal Reciprocal Mercy™](../../manifiestos/26_misericordia_universal_reciproca_ES_EN.md) | [Issue #20](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/20) |
+| XXVII | [Value of Food and Life™](../../manifiestos/27_valor_alimentos_vida_ES_EN.md) | [Issue #21](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/21) |
+| XXVIII | [The Teslas™](../../manifiestos/28_los_tesla_ES_EN.md) | [Issue #22](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/22) |
+| XXIX | [Against the Idolatry of Money™](../../manifiestos/29_idolatria_del_dinero_ES_EN.md) | [Issue #23](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/23) |
+| XXX | [Coherence between Ends and Means™](../../manifiestos/30_coherencia_fines_medios_ES_EN.md) | [Issue #24](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/24) |
+| XXXI | [Against Anti-Humanist Neuromarketing™](../../manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md) | [Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25) |
+
+## Fourth-wave sequence
+
+```text
+polishing shapes consciousness through greatness
+→ mercy limits dehumanisation
+→ food restores relation with material life
+→ the Teslas protect the living creator and the original vector
+→ money returns to its function as a tool
+→ coherence prevents means from destroying the end
+→ communication persuades without capturing consciousness
 ```
 
 ## Method
