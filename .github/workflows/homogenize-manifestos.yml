@@ -4,6 +4,8 @@ on:
   push:
     paths:
       - ".github/workflows/homogenize-manifestos.yml"
+  issues:
+    types: [opened]
   workflow_dispatch:
 
 permissions:
@@ -11,6 +13,9 @@ permissions:
 
 jobs:
   homogenize:
+    if: >-
+      github.event_name != 'issues' ||
+      github.event.issue.title == '[automation] Homogenize manifesto contribution footer'
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
@@ -42,4 +47,4 @@ jobs:
           git commit -m "Manifiestos: homogeneizar cómo aportar a la Síntesis Abierta"
           git push
 
-# This file may be dispatched manually to reapply the canonical footer.
+# This file may be dispatched manually or activated with the exact automation Issue title.
