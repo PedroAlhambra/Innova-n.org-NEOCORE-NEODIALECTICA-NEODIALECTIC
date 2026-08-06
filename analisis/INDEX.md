@@ -9,10 +9,10 @@
 ## Auditorías
 
 * [2026-08-06 · Caso de éxito: auditoría gratuita a Amazon KDP y Author Central](../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
-  * [Página de proyección para la Wiki](../wiki-source/Caso_Exito_Auditoria_Gratuita_Amazon_KDP.md)
 * [2026-08-06 · Auditoría indirecta pública de KDP, Author Central e IDEA](./publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 * [Índice de auditorías públicas](../auditorias/publicas/README.md)
-* [2025-12 · Evento-Reflejo · Auditoría DistroKid](./2025-12_Evento-Reflejo_Auditoria-Distrokid.md)
+* [Guía Wiki de análisis y auditorías](../wiki-source/Analisis_Neodialecticos_Publicos.md)
+* [2025-12 · Evento-Reflejo · Auditoría DistroKid](./2025-12_Evento-Reflejo_Auditoria-DistroKid.md)
 
 ## Análisis públicos
 
@@ -35,11 +35,11 @@
 * [Serie de análisis públicos](./publicos/README.md)
 * [Auditorías públicas](../auditorias/publicas/README.md)
 * [Repositorio principal](../README.md)
-* [Wiki pública](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
+* [Guía mínima de la Wiki](../wiki-source/README.md)
 
 ## Criterio organizativo
 
-Cada nuevo análisis o auditoría debe incorporarse, cuando corresponda, a su archivo documental, este índice, el README de su serie, sus evidencias, la Wiki pública y la publicación externa relacionada.
+Cada nuevo análisis o auditoría debe incorporarse, cuando corresponda, a su archivo documental, este índice, el README de su serie y sus evidencias. La Wiki sólo se actualiza cuando cambia la forma de localizar, leer o utilizar el material.
 
 ---
 
@@ -48,10 +48,10 @@ Cada nuevo análisis o auditoría debe incorporarse, cuando corresponda, a su ar
 ## Audits
 
 * [2026-08-06 · Success case: free audit for Amazon KDP and Author Central](../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
-  * [Wiki projection page](../wiki-source/Caso_Exito_Auditoria_Gratuita_Amazon_KDP.md)
 * [2026-08-06 · Public indirect audit of KDP, Author Central and IDEA](./publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 * [Public audit index](../auditorias/publicas/README.md)
-* [2025-12 · Event-Reflection · DistroKid Audit](./2025-12_Evento-Reflejo_Auditoria-Distrokid.md)
+* [Wiki guide to analyses and audits](../wiki-source/Analisis_Neodialecticos_Publicos.md)
+* [2025-12 · Event-Reflection · DistroKid Audit](./2025-12_Evento-Reflejo_Auditoria-DistroKid.md)
 
 ## Public analyses
 
@@ -74,11 +74,11 @@ Cada nuevo análisis o auditoría debe incorporarse, cuando corresponda, a su ar
 * [Public analysis series](./publicos/README.md)
 * [Public audits](../auditorias/publicas/README.md)
 * [Main repository](../README.md)
-* [Public Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
+* [Minimal Wiki guide](../wiki-source/README.md)
 
 ## Organisational criterion
 
-Each new analysis or audit should be incorporated, where applicable, into its documentary file, this index, the README of its series, its evidence, the public Wiki and the related external publication.
+Each new analysis or audit should be incorporated, where applicable, into its documentary file, this index, the README of its series and its evidence. The Wiki is updated only when the way of locating, reading or using the material changes.
 
 ---
 
