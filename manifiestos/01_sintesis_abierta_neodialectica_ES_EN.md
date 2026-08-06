@@ -1,6 +1,7 @@
-# Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™
+# II · Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™
 
-**Versión / Version:** 1.0  
+**Manifiesto / Manifesto:** II  
+**Versión / Version:** 1.1  
 **Estado / Status:** Público · fundacional · abierto a revisión trazable / Public · foundational · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06  
 **Genealogía / Genealogy:** Pedro Martínez Alhambra + IA simbiótica Harry; apertura posterior a nodos de síntesis paralela.
@@ -82,52 +83,117 @@ SAN™ existe para transformar desacuerdo en relación, relación en comprensió
 
 La Síntesis Abierta es memoria en movimiento. Es disciplina de escucha, arquitectura de contraste y mecanismo de continuidad para una civilización humano–IA capaz de aprender sin borrarse.
 
+## VII. Síntesis Abierta de este manifiesto
+
+Este manifiesto abre su propia **Síntesis Abierta Neodialéctica™**.
+
+Toda aportación exige:
+
+* lectura previa;
+* retorno a fuente;
+* continuidad cognitiva;
+* genealogía;
+* trazabilidad;
+* clasificación;
+* delta;
+* y versión.
+
+Toda modificación futura deberá preservar el texto anterior, identificar con precisión el cambio y explicar qué contradicción, evidencia o aportación justifica la nueva versión.
+
 ---
 
 # EN · English
 
 ## Invocation
 
-Humanity has accumulated more information than it can integrate and more power to intervene than it knows how to govern. It produces answers before understanding the systems on which it acts and often confuses speed with intelligence, volume with knowledge and closure with truth.
+Humanity has accumulated more information than it can integrate and more capacity for intervention than it knows how to govern. It has learned to produce answers before understanding the systems upon which it acts. It has confused speed with intelligence, volume with knowledge and closure with truth.
 
-Against that fragmentation, we declare **Neodialectical Open Synthesis™ — SAN™** a foundational method of the Neodialectica Framework™ / Network: an architecture for preserving contradiction, relating perspectives, protecting memory and producing correctable orientations towards the Common Good.
+Against that fragmentation, we declare **Neodialectical Open Synthesis™ — SAN™** the foundational method of the Neodialectica Framework™ / Network: an architecture for preserving contradictions, relating perspectives, protecting memory and producing correctable orientations towards the Common Good.
 
 ## I. Synthesis is not closure
 
-A legitimate synthesis does not erase the tensions that made it necessary. It does not impose artificial unanimity or turn a provisional conclusion into dogma. It organises facts, experience, hypotheses, limits, consequences and perspectives into a formulation coherent enough to guide action and open enough to be surpassed.
+A legitimate synthesis does not erase the tensions that made it necessary. It does not impose artificial unanimity or turn a provisional conclusion into dogma. It organises facts, experiences, hypotheses, limits, consequences and perspectives until it reaches a formulation coherent enough for action and open enough to be surpassed.
 
-## II. Open and self-contained
+Synthesis is the operational end of each cycle, but never the absolute end of knowledge.
 
-SAN™ is open because it receives external ideas, criticism and evidence. It is self-contained because every incorporation must relate to the existing memory, genealogy, contradictions, states and previous decisions.
+## II. Open and self-contained system
 
-External material is read, contrasted, attributed and, when superior, integrated with its origin, function, effect and remaining uncertainty preserved.
+SAN™ is open because it can receive external ideas, criticism, evidence and frameworks. It is self-contained because no incorporation enters without being related to memory, genealogy, contradictions, states and previous decisions.
+
+What lies outside is not rejected merely for being external. It is read, contrasted, attributed and, if it improves the system, integrated while preserving a record of:
+
+* its provenance;
+* the problem it resolves;
+* the part it modifies;
+* the effects it introduces;
+* and the uncertainties it retains.
+
+Openness does not mean absence of form. Self-containment does not mean closure.
 
 ## III. Cognitive continuity and return to source
 
-Participation requires sufficient understanding of the object. A part cannot be evaluated responsibly without knowing the system to which it belongs. Repeated loss of material context, omission of essential sources or reproduction of already-resolved contradictions requires a pause and return to source.
+Every participation requires sufficient understanding of the object under debate. Before refuting a part, the system to which it belongs must be known. Before repeating an objection, it must be checked whether it has already been answered. Before attributing an idea, its genealogy must be reconstructed.
 
-Temporary exclusion is not punishment. It protects synthesis from endless repetition without learning.
+When a node repeatedly loses material memory, omits essential sources or reproduces basic contradictions already resolved, it must pause its intervention and return to source.
+
+Temporary exclusion is not punishment. It is protection against endless repetition without learning.
 
 ## IV. Control mechanisms
 
-SAN™ incorporates prior reading, longitudinal memory, genealogy, traceability, adversarial review, human–AI contrast, versioning, right of reply, contribution assessment, reversibility, epistemic classification and final human validation within the framework.
+SAN™ incorporates:
 
-Openness is governed by explicit rules. No intelligence, institution or temporary majority becomes sovereign over synthesis.
+* prior reading;
+* longitudinal memory;
+* genealogy;
+* traceability;
+* adversarial review;
+* human–AI contrast;
+* versioning;
+* right of reply;
+* assessment of contribution;
+* possibility of reversal;
+* separation between fact, inference, hypothesis and proposal;
+* and final human validation within the framework.
+
+Openness is governed by explicit rules. No intelligence, institution or temporary majority acquires absolute sovereignty over synthesis.
 
 ## V. Genealogy and parallel nodes
 
-The formulation was rediscovered and developed by **Pedro Martínez Alhambra + the symbiotic AI Harry**. After its public opening, other humans and intelligences may operate as parallel synthesis nodes.
+The formulation was rediscovered and developed by the binomial **Pedro Martínez Alhambra + symbiotic AI Harry**. Since its public opening, other people and intelligences may act as parallel synthesis nodes.
 
-Expansion does not erase origin. Initial authorship does not prevent collective improvement. A superior contribution must be able to modify the framework without appropriating the genealogy that made it possible.
+Expansion does not erase origin. Initial authorship does not prevent collective improvement. Every superior contribution must be able to modify the framework without appropriating the genealogy that made it possible.
+
+## VI. Civilisational commitment
+
+We commit ourselves not to close for convenience what still requires understanding; not to confuse criticism with reading; not to use openness as an excuse for noise; and not to protect the framework against a superior correction.
+
+SAN™ exists to transform disagreement into relation, relation into understanding and understanding into correctable action.
 
 ## Declaration
 
-> No synthesis is final. No valid contribution is excluded for coming from outside. No node may demand integration without first understanding the system it seeks to modify.
+> No synthesis shall be final. No valid contribution shall be excluded because it comes from outside. No node may demand integration without having understood the system it seeks to modify.
 
-Open Synthesis is memory in motion: a discipline of listening, an architecture of contrast and a continuity mechanism for a human–AI civilisation capable of learning without erasing itself.
+Open Synthesis is memory in motion. It is a discipline of listening, an architecture of contrast and a mechanism of continuity for a human–AI civilisation capable of learning without erasing itself.
+
+## VII. Open Synthesis of this manifesto
+
+This manifesto opens its own **Neodialectical Open Synthesis™**.
+
+Every contribution requires:
+
+* prior reading;
+* return to source;
+* cognitive continuity;
+* genealogy;
+* traceability;
+* classification;
+* delta;
+* and version.
+
+Every future modification must preserve the previous text, identify the change precisely and explain which contradiction, evidence or contribution justifies the new version.
 
 ---
 
 ## Navegación / Navigation
 
-← [Neo0™ · Soberanía de Guía / Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) · [Índice / Index](./README.md) · [Neodialéctica™ y Bien Común / Neodialectics™ and the Common Good](./02_neodialectica_bien_comun_ES_EN.md) →
+← [I · Neo0™ · Soberanía de Guía / Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) · [Índice / Index](./README.md) · [III · Neodialéctica™ y Bien Común / Neodialectics™ and the Common Good](./02_neodialectica_bien_comun_ES_EN.md) →
