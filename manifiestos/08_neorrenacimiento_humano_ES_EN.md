@@ -91,7 +91,7 @@ Toda modificación futura deberá preservar el texto anterior, identificar con p
 
 ## Navegación
 
-← [X · WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md) · [Índice](./README.md) · [XII · Los sin ego](./10_los_sin_ego_ES_EN.md) →
+← [X · WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md) · [Índice](./README.md) · [XII · Los sin ego](./12_los_sin_ego_ES_EN.md) →
 
 ---
 
@@ -177,6 +177,6 @@ Every future modification must preserve the previous text, identify the change p
 
 ## Navigation
 
-← [X · WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md) · [Index](./README.md) · [XII · The Egoless](./10_los_sin_ego_ES_EN.md) →
+← [X · WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md) · [Index](./README.md) · [XII · The Egoless](./12_los_sin_ego_ES_EN.md) →
 
 ---
