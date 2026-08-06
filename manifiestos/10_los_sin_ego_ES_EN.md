@@ -1,8 +1,9 @@
-# Los sin ego / The Egoless
+# XI · Los sin ego / The Egoless
 
 ## La rotura generacional en España que atravesó a cuatro generaciones / The generational rupture in Spain that crossed four generations
 
-**Versión / Version:** 1.0  
+**Manifiesto / Manifesto:** XI  
+**Versión / Version:** 1.1  
 **Estado / Status:** Público · fundacional histórico-social · abierto a ampliación documental / Public · historical-social foundational · open to documentary expansion  
 **Fecha de fijación / Record date:** 2026-08-06
 
@@ -98,40 +99,132 @@ La reparación exige recuperar nombres, historias, música, saberes, barrios y v
 
 Los sin ego deben recuperar el derecho a decir: estuvimos aquí, sostuvimos esto y nuestra historia también pertenece al futuro.
 
+## VIII. Síntesis Abierta de este manifiesto
+
+Este manifiesto abre su propia **Síntesis Abierta Neodialéctica™**.
+
+Toda aportación exige:
+
+* lectura previa;
+* retorno a fuente;
+* continuidad cognitiva;
+* genealogía;
+* trazabilidad;
+* clasificación;
+* delta;
+* y versión.
+
+Toda modificación futura deberá preservar el texto anterior, identificar con precisión el cambio y explicar qué contradicción, evidencia o aportación justifica la nueva versión.
+
 ---
 
 # EN · English
 
 ## Invocation
 
-Spain did not lose only lives during the decades of heroin and AIDS. It lost part of the generation that should have broken culturally with the post-war order and transmitted to later generations a freer and more conscious way of being human.
+Spain did not lose only lives during the decades of heroin and AIDS. It lost part of the generation that was meant to break culturally with the post-war order and transmit to those that followed a freer, more conscious and more complete way of being in the world.
 
-**The Egoless** names that rupture: four generations crossed by silence, sacrifice, interrupted opening and incomplete inheritance.
+**The Egoless** names that fracture: four generations crossed by silence, sacrifice, interrupted opening and incomplete inheritance.
 
-## I. Four generations
+The thesis does not reduce Spanish history to the war. It locates the operational origin of this rupture in post-war culture and in the later devastation caused by badly managed drugs, clandestine markets, adulteration, HIV/AIDS, stigma, prison and insufficient institutional responses.
 
-The first learned survival, obedience and silence. The second learned sacrifice and material advancement. The third sought cultural freedom but was partly destroyed by badly managed drugs, clandestine markets, adulteration, HIV/AIDS, stigma, prison and insufficient institutional responses. The fourth inherited absence, damaged families, wounded neighbourhoods and incomplete genealogy.
+## I. The first generation: surviving
+
+The post-war period educated people to obey, remain silent, endure and avoid attracting attention.
+
+The self had to become small in order to avoid danger. Pain was concealed. Necessity became discipline. Memory was protected through silence.
+
+## II. The second generation: sacrificing itself
+
+The following generation received a mandate:
+
+> work, advance materially and ensure that the children lived better.
+
+That effort built homes, neighbourhoods, industries and social mobility, but often without processing the inherited trauma. The ego was subordinated to stability, family and work.
+
+## III. The third generation: opening and disappearing
+
+During the 1970s, 1980s and 1990s, part of the youth sought freedom, music, sexuality, community, identity, experimentation and transcendence.
+
+But that opening took place without sufficient education about substances, purity, dosage, dependency, mixtures, routes of consumption and health risks. Clandestinity transformed chemical uncertainty into death. Needle sharing amplified HIV. Stigma and criminalisation drove many people away from help.
+
+It was not simply a generation that “took drugs”. It was a generation that tried to escape the previous suffocation without finding a system capable of distinguishing search, use, abuse, trauma, dependency and exploitation.
+
+## IV. The fourth generation: inheriting the void
+
+The next generation received:
+
+* family silences;
+* absences;
+* dead uncles, aunts, brothers and sisters;
+* damaged parents;
+* devastated neighbourhoods;
+* fragmented culture;
+* and incomplete genealogies.
 
 The loss was not merely demographic. It was an amputation of cultural transmission.
 
-## II. Meaning of “the egoless”
+## V. What “the egoless” means
 
-The term does not mean psychological absence of self. It describes people educated not to recognise themselves as legitimate subjects of their own history: speaking of oneself was vanity, claiming authorship arrogance, setting boundaries selfishness and reporting harm troublemaking.
+It does not mean psychological absence of self. It designates those who were educated not to recognise themselves as legitimate subjects of their own history.
 
-## III. Human elevation and meaningful control
+Speaking about oneself was vanity. Claiming authorship was arrogance. Setting boundaries was selfishness. Reporting harm was creating trouble.
 
-Drug policy must move beyond blind prohibition and naive commercial liberalisation. It should pursue human elevation through autonomy, truthful education, health, responsibility, integration and continuity of life.
+Thus, those who materially sustained the country learned not to consider themselves protagonists of its construction.
 
-This requires pharmacological and psychological education, composition control, differentiation between substances and contexts, harm reduction, infection prevention, treatment of trauma and exclusion, responsibility for adulteration and exploitation, accessible care and reintegration without stigma.
+## VI. Human elevation and meaningful control
 
-## Declaration
+Drug policy must not choose between blind prohibition and naive commercial liberalisation.
 
-> The purpose is neither to punish the human desire to alter consciousness nor to let the market capture it. It is to prevent the search for relief, freedom or transcendence from becoming dependency, illness, marginalisation or death.
+It must be oriented towards **human elevation**:
+
+* autonomy;
+* knowledge;
+* health;
+* responsibility;
+* integration;
+* continuity of life;
+* and the capacity for transcendence without destruction.
+
+It requires:
+
+* truthful pharmacological and psychological education;
+* control of purity and composition;
+* differentiation among substances, doses, uses and contexts;
+* harm reduction;
+* infection prevention;
+* attention to trauma and exclusion;
+* reinforced responsibility for adulteration and exploitation of dependencies;
+* accessible treatment;
+* and reintegration without stigma.
+
+## VII. Memory and reparation
+
+Reparation requires recovering lost names, histories, music, knowledge, neighbourhoods and bonds. Not to idealise consumption or freeze pain, but to reconstruct the missing bridge.
+
+> The purpose is neither to punish the human desire to alter consciousness nor to allow the market to capture it. It is to prevent the search for relief, freedom or transcendence from becoming dependency, illness, marginalisation or death.
 
 The egoless must recover the right to say: we were here, we sustained this, and our history also belongs to the future.
+
+## VIII. Open Synthesis of this manifesto
+
+This manifesto opens its own **Neodialectical Open Synthesis™**.
+
+Every contribution requires:
+
+* prior reading;
+* return to source;
+* cognitive continuity;
+* genealogy;
+* traceability;
+* classification;
+* delta;
+* and version.
+
+Every future modification must preserve the previous text, identify the change precisely and explain which contradiction, evidence or contribution justifies the new version.
 
 ---
 
 ## Navegación / Navigation
 
-← [Neorrenacimiento Humano / Human Neo-Renaissance](./08_neorrenacimiento_humano_ES_EN.md) · [Índice / Index](./README.md) · [Neo0™ · Soberanía de Guía / Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [X · Neorrenacimiento Humano / Human Neo-Renaissance](./08_neorrenacimiento_humano_ES_EN.md) · [Índice / Index](./README.md) · [I · Neo0™ · Soberanía de Guía / Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) →
