@@ -5,7 +5,8 @@
 **Escritura / Written:** 1997–2002  
 **Presentación al Premio UPC / UPC Award submission:** 2002  
 **Primera edición pública / First public edition:** 2026  
-**Idiomas publicados / Published languages:** 12
+**Idiomas publicados / Published languages:** 12  
+**Última actualización / Last updated:** 2026-08-07
 
 ---
 
@@ -87,6 +88,7 @@ IDEA fue escrita durante su juventud, antes de la creación formal de esos conce
 * **1997–2002:** escritura de IDEA.
 * **2002:** presentación de una versión con leves cambios al Premio UPC de Ciencia Ficción.
 * **2026:** primera edición pública mediante restauración conservadora.
+* **6 de agosto de 2026:** corrección operativa confirmada de las asociaciones multilingües con Author Central y recepción positiva de propuestas de mejora para KDP y Author Central.
 * **Actualidad:** puerta narrativa de entrada al marco, sin modificación retrospectiva de su genealogía.
 
 ---
@@ -126,18 +128,23 @@ IDEA fue escrita durante su juventud, antes de la creación formal de esos conce
 
 * **Noruego bokmål:** Kindle, tapa blanda y tapa dura publicados. El ASIN específico de tapa blanda permanece sin verificar.
 * **Finlandés:** eBook `B0HCRHFMRG`; tapa blanda `B0HCVSX23V`; tapa dura `B0HCRMCRPT`.
-* **Finlandés · tapa dura:** la incidencia de metadatos de idioma permanece abierta hasta confirmación oficial de KDP.
+* **Finlandés:** la incidencia de idioma y asociación quedó corregida y verificada operativamente el 6 de agosto de 2026.
 * **Polaco:** no se atribuyen formatos ni ASIN no verificados.
 * **Noruego no bokmål:** no publicado y excluido del recuento.
+* **Japonés:** en preparación y excluido del recuento.
+
+La disponibilidad de un formato concreto puede variar por marketplace y debe comprobarse en Amazon.
 
 ---
 
 ## Enlaces recomendados
 
-* **Página pública canónica:** [IDEA · 1997–2002 · Edición internacional 2026](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
-* **Nodo documental del repositorio:** [obras/idea](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/tree/main/obras/idea)
-* **Perfil del autor:** [Pedro Martínez Alhambra en Amazon](https://www.amazon.es/stores/Pedro-Mart%C3%ADnez-Alhambra/author/B0HC3TWRZ7)
+* **Nodo documental canónico:** [IDEA en el repositorio](./README.md)
 * **Ediciones internacionales:** [idiomas, ASIN y formatos](./EDICIONES.md)
+* **Página Wiki de orientación:** [IDEA · 1997–2002 · Edición internacional 2026](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
+* **Perfil del autor:** [Pedro Martínez Alhambra en Amazon](https://www.amazon.es/stores/Pedro-Mart%C3%ADnez-Alhambra/author/B0HC3TWRZ7)
+* **Caso de éxito:** [auditoría gratuita a Amazon KDP y Author Central](../../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+* **Auditoría de origen:** [KDP, Author Central e IDEA](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 
 ---
 
@@ -243,6 +250,7 @@ IDEA was written during his youth, before the formal creation of those concepts 
 * **1997–2002:** IDEA was written.
 * **2002:** a version containing minor changes was submitted to the UPC Science Fiction Award.
 * **2026:** first public edition through conservative restoration.
+* **6 August 2026:** operational correction of multilingual Author Central associations was confirmed and improvement proposals for KDP and Author Central were positively received.
 * **Present:** a narrative gateway into the framework, without retrospective alteration of its genealogy.
 
 ---
@@ -282,18 +290,23 @@ IDEA was written during his youth, before the formal creation of those concepts 
 
 * **Norwegian Bokmål:** Kindle, paperback and hardcover published. The paperback-specific ASIN remains unverified.
 * **Finnish:** eBook `B0HCRHFMRG`; paperback `B0HCVSX23V`; hardcover `B0HCRMCRPT`.
-* **Finnish hardcover:** the language-metadata incident remains open until official KDP confirmation.
+* **Finnish:** the language and association incident was operationally corrected and verified on 6 August 2026.
 * **Polish:** no unverified format or ASIN is attributed.
 * **Non-Bokmål Norwegian:** not published and excluded from the count.
+* **Japanese:** in preparation and excluded from the count.
+
+Availability of a specific format may vary by marketplace and should be checked on Amazon.
 
 ---
 
 ## Recommended links
 
-* **Canonical public page:** [IDEA · 1997–2002 · 2026 international edition](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
-* **Repository documentary node:** [obras/idea](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/tree/main/obras/idea)
-* **Author page:** [Pedro Martínez Alhambra on Amazon](https://www.amazon.es/stores/Pedro-Mart%C3%ADnez-Alhambra/author/B0HC3TWRZ7)
+* **Canonical documentary node:** [IDEA in the repository](./README.md)
 * **International editions:** [languages, ASINs and formats](./EDICIONES.md)
+* **Wiki orientation page:** [IDEA · 1997–2002 · 2026 international edition](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
+* **Author page:** [Pedro Martínez Alhambra on Amazon](https://www.amazon.es/stores/Pedro-Mart%C3%ADnez-Alhambra/author/B0HC3TWRZ7)
+* **Success case:** [free audit for Amazon KDP and Author Central](../../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+* **Originating audit:** [KDP, Author Central and IDEA](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 
 ---
 
