@@ -12,7 +12,7 @@
 * [2026-08-06 · Auditoría indirecta pública de KDP, Author Central e IDEA](./publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 * [Índice de auditorías públicas](../auditorias/publicas/README.md)
 * [Guía Wiki de análisis y auditorías](../wiki-source/Analisis_Neodialecticos_Publicos.md)
-* [2025-12 · Evento-Reflejo · Auditoría DistroKid](./2025-12_Evento-Reflejo_Auditoria-DistroKid.md)
+* [2025-12 · Evento-Reflejo · Auditoría DistroKid](./2025-12_Evento-Reflejo_Auditoria-Distrokid.md)
 
 ## Análisis públicos
 
@@ -51,7 +51,7 @@ Cada nuevo análisis o auditoría debe incorporarse, cuando corresponda, a su ar
 * [2026-08-06 · Public indirect audit of KDP, Author Central and IDEA](./publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 * [Public audit index](../auditorias/publicas/README.md)
 * [Wiki guide to analyses and audits](../wiki-source/Analisis_Neodialecticos_Publicos.md)
-* [2025-12 · Event-Reflection · DistroKid Audit](./2025-12_Evento-Reflejo_Auditoria-DistroKid.md)
+* [2025-12 · Event-Reflection · DistroKid Audit](./2025-12_Evento-Reflejo_Auditoria-Distrokid.md)
 
 ## Public analyses
 
