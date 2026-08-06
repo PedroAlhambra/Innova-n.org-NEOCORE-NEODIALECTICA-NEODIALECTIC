@@ -102,3 +102,9 @@ Individual excellence is necessary, but value sustained by society must be able 
 ## Declaration
 
 > We will not inherit the future: we will compose it. Humanity will not rise by separating itself from life, but by consciously returning to the organism of which it is part.
+
+---
+
+## Navegación / Navigation
+
+← [WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md) · [Índice / Index](./README.md) · [Los sin ego / The Egoless](./10_los_sin_ego_ES_EN.md) →
