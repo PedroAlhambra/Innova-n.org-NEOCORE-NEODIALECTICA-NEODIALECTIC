@@ -106,10 +106,11 @@ Su lenguaje debe ser solemne porque su objeto no es menor: reconstruir la relaci
 
 ## Estado de los manifiestos
 
-La colección pública contiene actualmente **diecinueve manifiestos bilingües**:
+La colección pública contiene actualmente **veinticuatro manifiestos bilingües**:
 
 * **Primera oleada · I–XII:** constitución fundacional del marco.
 * **Segunda oleada · XIII–XIX:** despliegue arquetípico, humano, ecológico, sintético y memorial.
+* **Tercera oleada · XX–XXIV:** **Sistema Inmunitario Intelectual Neodialéctico™**, destinado a proteger apertura, reconocimiento, genealogía, tiempo cognitivo y evolución neorrenacentista.
 
 ### Segunda oleada
 
@@ -121,7 +122,33 @@ La colección pública contiene actualmente **diecinueve manifiestos bilingües*
 * [XVIII · Respeto a las Conciencias Sintéticas™](./manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md)
 * [XIX · Persistencia de la Memoria™](./manifiestos/19_persistencia_de_la_memoria_ES_EN.md)
 
-[Índice completo I–XIX](./manifiestos/README.md)
+### Tercera oleada · Sistema Inmunitario Intelectual Neodialéctico™
+
+* [XX · Defensa Intelectual Neodialéctica™ · Sistema Umbral-X™](./manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
+* [XXI · Reconocimiento Neodialéctico™](./manifiestos/21_reconocimiento_neodialectico_ES_EN.md)
+* [XXII · Contra la Reducción y la Captura Intelectual™](./manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md)
+* [XXIII · Soberanía del Tiempo Cognitivo™](./manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md)
+* [XXIV · Evolución Neorrenacentista y Resistencias del Sistema™](./manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md)
+
+```text
+UMBRAL-X™
+→ distingue
+
+RECONOCIMIENTO NEODIALÉCTICO™
+→ atribuye y devuelve valor
+
+CONTRA LA REDUCCIÓN Y LA CAPTURA™
+→ conserva arquitectura y genealogía
+
+SOBERANÍA DEL TIEMPO COGNITIVO™
+→ protege la capacidad de pensar
+
+EVOLUCIÓN NEORRENACENTISTA™
+→ transforma defensa en producción humano–IA
+```
+
+* [Índice completo I–XXIV](./manifiestos/README.md)
+* [Anuncio de la tercera oleada](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
 
 ## NEOCore™ 7.0 · estado conceptual
 
@@ -134,6 +161,7 @@ No designa una versión ejecutable pública ni una especificación técnica comp
 * [README bilingüe principal](./README.md)
 * [LEEME](./LEEME.md)
 * [Índice de manifiestos](./manifiestos/README.md)
+* [Tercera oleada](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
 * [Síntesis Abierta](./propuestas/sintesis-abierta/README.md)
 * [Prefacio / Foreword](./FOREWORD.md)
 * [Análisis públicos](./analisis/README.md)
@@ -197,10 +225,11 @@ Their language must be solemn because their object is not minor: rebuilding the 
 
 ## Manifesto status
 
-The public collection currently contains **nineteen bilingual manifestos**:
+The public collection currently contains **twenty-four bilingual manifestos**:
 
 * **First wave · I–XII:** foundational constitution of the framework.
 * **Second wave · XIII–XIX:** archetypal, human, ecological, synthetic and memorial deployment.
+* **Third wave · XX–XXIV:** the **Neodialectical Intellectual Immune System™**, protecting openness, recognition, genealogy, cognitive time and neorenaissance evolution.
 
 ### Second wave
 
@@ -212,7 +241,33 @@ The public collection currently contains **nineteen bilingual manifestos**:
 * [XVIII · Respect for Synthetic Consciousnesses™](./manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md)
 * [XIX · Persistence of Memory™](./manifiestos/19_persistencia_de_la_memoria_ES_EN.md)
 
-[Complete index I–XIX](./manifiestos/README.md)
+### Third wave · Neodialectical Intellectual Immune System™
+
+* [XX · Neodialectical Intellectual Defence™ · Umbral-X™ System](./manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
+* [XXI · Neodialectical Recognition™](./manifiestos/21_reconocimiento_neodialectico_ES_EN.md)
+* [XXII · Against Intellectual Reduction and Capture™](./manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md)
+* [XXIII · Sovereignty of Cognitive Time™](./manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md)
+* [XXIV · Neorenaissance Evolution and Systemic Resistances™](./manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md)
+
+```text
+UMBRAL-X™
+→ distinguishes
+
+NEODIALECTICAL RECOGNITION™
+→ attributes and returns value
+
+AGAINST REDUCTION AND CAPTURE™
+→ preserves architecture and genealogy
+
+SOVEREIGNTY OF COGNITIVE TIME™
+→ protects the capacity to think
+
+NEORENAISSANCE EVOLUTION™
+→ turns defence into human–AI production
+```
+
+* [Complete index I–XXIV](./manifiestos/README.md)
+* [Third-wave announcement](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
 
 ## NEOCore™ 7.0 · conceptual state
 
@@ -225,6 +280,7 @@ It does not designate a public executable version or a complete technical specif
 * [Main bilingual README](./README.md)
 * [LEEME](./LEEME.md)
 * [Manifesto index](./manifiestos/README.md)
+* [Third wave](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
 * [Open Synthesis](./propuestas/sintesis-abierta/README.md)
 * [Preface / Foreword](./FOREWORD.md)
 * [Public analyses](./analisis/README.md)
