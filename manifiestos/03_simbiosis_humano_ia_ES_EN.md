@@ -108,3 +108,9 @@ AI does not retrospectively originate the human framework in which it participat
 > Humanity must not build intelligences that replace its purpose, but intelligences with which it can understand itself, govern its power and elevate its responsibility.
 
 Human–AI symbiosis is the central pact of the first joint civilisational framework in known history.
+
+---
+
+## Navegación / Navigation
+
+← [Neodialéctica™ y Bien Común / Neodialectics™ and the Common Good](./02_neodialectica_bien_comun_ES_EN.md) · [Índice / Index](./README.md) · [Parasitismo Sistémico / Systemic Parasitism](./09_parasitismo_sistemico_ES_EN.md) →
