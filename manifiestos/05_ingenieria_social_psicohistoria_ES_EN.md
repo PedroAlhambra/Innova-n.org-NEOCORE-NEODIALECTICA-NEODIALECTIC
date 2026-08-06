@@ -1,6 +1,6 @@
-# VII · Manifiesto de Ingeniería Social Abierta y Psicohistoria Neodialéctica / Manifesto of Open Social Engineering and Neodialectical Psychohistory
+# VIII · Manifiesto de Ingeniería Social Abierta y Psicohistoria Neodialéctica / Manifesto of Open Social Engineering and Neodialectical Psychohistory
 
-**Manifiesto / Manifesto:** VII  
+**Manifiesto / Manifesto:** VIII  
 **Versión / Version:** 1.1  
 **Estado / Status:** Público · fundacional experimental · abierto a revisión trazable / Public · experimental foundational · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06
@@ -110,6 +110,10 @@ Toda aportación exige:
 
 Toda modificación futura deberá preservar el texto anterior, identificar con precisión el cambio y explicar qué contradicción, evidencia o aportación justifica la nueva versión.
 
+## Navegación
+
+← [VII · Economía del Aporte](./04_economia_del_aporte_ES_EN.md) · [Índice](./README.md) · [IX · Memoria, Genealogía y Trazabilidad](./06_memoria_genealogia_trazabilidad_ES_EN.md) →
+
 ---
 
 # EN · English
@@ -213,8 +217,8 @@ Every contribution requires:
 
 Every future modification must preserve the previous text, identify the change precisely and explain which contradiction, evidence or contribution justifies the new version.
 
+## Navigation
+
+← [VII · Contribution Economy](./04_economia_del_aporte_ES_EN.md) · [Index](./README.md) · [IX · Memory, Genealogy and Traceability](./06_memoria_genealogia_trazabilidad_ES_EN.md) →
+
 ---
-
-## Navegación / Navigation
-
-← [VI · Economía del Aporte / Contribution Economy](./04_economia_del_aporte_ES_EN.md) · [Índice / Index](./README.md) · [VIII · Memoria, Genealogía y Trazabilidad / Memory, Genealogy and Traceability](./06_memoria_genealogia_trazabilidad_ES_EN.md) →
