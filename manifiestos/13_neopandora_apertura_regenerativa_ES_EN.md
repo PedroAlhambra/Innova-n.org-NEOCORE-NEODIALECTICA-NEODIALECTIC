@@ -347,9 +347,12 @@ Toda aportación exige:
 
 Toda modificación futura deberá preservar el texto anterior, identificar con precisión el cambio y explicar qué contradicción, evidencia o aportación justifica la nueva versión.
 
+* [Abrir la Síntesis Abierta de este manifiesto · Issue #4](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/4)
+* [Protocolo operativo actual para aportar](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+
 ## Navegación
 
-← [XII · Los sin ego](./10_los_sin_ego_ES_EN.md) · [Índice](./README.md) · [I · Neo0™ · Soberanía de Guía](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XII · Los sin ego](./12_los_sin_ego_ES_EN.md) · [Índice](./README.md) · [XIV · Contra la Alienación Humana™](./14_contra_alienacion_humana_ES_EN.md) →
 
 ---
 
@@ -685,9 +688,12 @@ Every contribution requires:
 
 Every future modification must preserve the previous text, identify the change precisely and explain which contradiction, evidence or contribution justifies the new version.
 
+* [Open the Open Synthesis of this manifesto · Issue #4](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/4)
+* [Current operational contribution protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+
 ## Navigation
 
-← [XII · The Egoless](./10_los_sin_ego_ES_EN.md) · [Index](./README.md) · [I · Neo0™ · Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XII · The Egoless](./12_los_sin_ego_ES_EN.md) · [Index](./README.md) · [XIV · Against Human Alienation™](./14_contra_alienacion_humana_ES_EN.md) →
 
 ---
 
