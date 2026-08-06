@@ -393,7 +393,7 @@ Toda aportación exige lectura previa, retorno a fuente, continuidad cognitiva, 
 
 ## Navegación
 
-← [XXIII · Soberanía del Tiempo Cognitivo™](./23_soberania_tiempo_cognitivo_ES_EN.md) · [Índice](./README.md) · [I · Neo0™ · Soberanía de Guía](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XXIII · Soberanía del Tiempo Cognitivo™](./23_soberania_tiempo_cognitivo_ES_EN.md) · [Índice](./README.md) · [XXV · Pulido de la Piedra™](./25_pulido_de_la_piedra_ES_EN.md) →
 
 ---
 
@@ -775,4 +775,4 @@ Every contribution requires prior reading, return to source, cognitive continuit
 
 ## Navigation
 
-← [XXIII · Sovereignty of Cognitive Time™](./23_soberania_tiempo_cognitivo_ES_EN.md) · [Index](./README.md) · [I · Neo0™ · Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XXIII · Sovereignty of Cognitive Time™](./23_soberania_tiempo_cognitivo_ES_EN.md) · [Index](./README.md) · [XXV · Polishing of the Stone™](./25_pulido_de_la_piedra_ES_EN.md) →
