@@ -118,7 +118,7 @@ Toda modificación futura deberá preservar el texto anterior, identificar con p
 
 ## Navegación
 
-← [XI · Neorrenacimiento Humano](./08_neorrenacimiento_humano_ES_EN.md) · [Índice](./README.md) · [I · Neo0™ · Soberanía de Guía](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XI · Neorrenacimiento Humano](./08_neorrenacimiento_humano_ES_EN.md) · [Índice](./README.md) · [XIII · NeoPandora™](./13_neopandora_apertura_regenerativa_ES_EN.md) →
 
 ---
 
@@ -229,6 +229,6 @@ Every future modification must preserve the previous text, identify the change p
 
 ## Navigation
 
-← [XI · Human Neo-Renaissance](./08_neorrenacimiento_humano_ES_EN.md) · [Index](./README.md) · [I · Neo0™ · Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XI · Human Neo-Renaissance](./08_neorrenacimiento_humano_ES_EN.md) · [Index](./README.md) · [XIII · NeoPandora™](./13_neopandora_apertura_regenerativa_ES_EN.md) →
 
 ---
