@@ -1,8 +1,8 @@
-# XI · Los sin ego / The Egoless
+# XII · Los sin ego / The Egoless
 
 ## La rotura generacional en España que atravesó a cuatro generaciones / The generational rupture in Spain that crossed four generations
 
-**Manifiesto / Manifesto:** XI  
+**Manifiesto / Manifesto:** XII  
 **Versión / Version:** 1.1  
 **Estado / Status:** Público · fundacional histórico-social · abierto a ampliación documental / Public · historical-social foundational · open to documentary expansion  
 **Fecha de fijación / Record date:** 2026-08-06
@@ -116,6 +116,10 @@ Toda aportación exige:
 
 Toda modificación futura deberá preservar el texto anterior, identificar con precisión el cambio y explicar qué contradicción, evidencia o aportación justifica la nueva versión.
 
+## Navegación
+
+← [XI · Neorrenacimiento Humano](./08_neorrenacimiento_humano_ES_EN.md) · [Índice](./README.md) · [I · Neo0™ · Soberanía de Guía](./11_neo0_soberania_de_guia_ES_EN.md) →
+
 ---
 
 # EN · English
@@ -223,8 +227,8 @@ Every contribution requires:
 
 Every future modification must preserve the previous text, identify the change precisely and explain which contradiction, evidence or contribution justifies the new version.
 
+## Navigation
+
+← [XI · Human Neo-Renaissance](./08_neorrenacimiento_humano_ES_EN.md) · [Index](./README.md) · [I · Neo0™ · Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) →
+
 ---
-
-## Navegación / Navigation
-
-← [X · Neorrenacimiento Humano / Human Neo-Renaissance](./08_neorrenacimiento_humano_ES_EN.md) · [Índice / Index](./README.md) · [I · Neo0™ · Soberanía de Guía / Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) →
