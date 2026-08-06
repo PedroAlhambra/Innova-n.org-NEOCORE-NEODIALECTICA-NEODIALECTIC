@@ -19,6 +19,14 @@ Esta carpeta reúne los materiales públicos de análisis, auditoría y trazabil
 
 ## Incorporaciones recientes
 
+### Caso de éxito · auditoría gratuita a Amazon KDP y Author Central
+
+* [Caso de éxito bilingüe completo](../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+* [Página de proyección para la Wiki](../wiki-source/Caso_Exito_Auditoria_Gratuita_Amazon_KDP.md)
+* [Auditoría indirecta de origen](./publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
+
+Caso `51071689`. Registra una aplicación práctica del Neodialectica Framework™: detección y trazabilidad de problemas multilingües, corrección verificable del caso, propuestas estructuradas para KDP y Author Central y recepción positiva de esas propuestas. Amazon queda clasificada funcionalmente por Innova_N como **cliente gratuito por el Bien Común**, sin que ello implique contrato, deuda, asociación ni adhesión formal al marco.
+
 ### Auditoría indirecta pública · KDP, Author Central e IDEA
 
 * [Documento bilingüe completo](./publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
@@ -75,6 +83,14 @@ This folder gathers public analysis, audit and documentary traceability material
 * [Public Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
 
 ## Recent incorporations
+
+### Success case · free audit for Amazon KDP and Author Central
+
+* [Complete bilingual success case](../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+* [Wiki projection page](../wiki-source/Caso_Exito_Auditoria_Gratuita_Amazon_KDP.md)
+* [Originating indirect audit](./publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
+
+Case `51071689`. It records a practical application of the Neodialectica Framework™: detection and traceability of multilingual problems, verifiable correction of the case, structured proposals for KDP and Author Central, and positive reception of those proposals. Innova_N functionally classifies Amazon as a **free client for the Common Good**, without implying a contract, debt, partnership or formal endorsement of the framework.
 
 ### Public indirect audit · KDP, Author Central and IDEA
 
