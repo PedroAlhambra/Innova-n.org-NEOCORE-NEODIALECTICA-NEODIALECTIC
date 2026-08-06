@@ -19,7 +19,8 @@ Este repositorio conserva la capa pública, documental y trazable del ecosistema
 
 ## Accesos prioritarios
 
-* [Índice navegable de manifiestos I–XXIV](./manifiestos/README.md)
+* [Índice navegable de manifiestos I–XXXI](./manifiestos/README.md)
+* [Anuncio de la cuarta oleada](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [Cómo aportar a la Síntesis Abierta](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Índice operativo de Síntesis Abierta](./propuestas/sintesis-abierta/README.md)
 * [Portada civilizatoria](./PORTADA.md)
@@ -75,6 +76,18 @@ Los manifiestos no son documentos accesorios, resúmenes auxiliares ni consignas
 | XXIII | [Soberanía del Tiempo Cognitivo™](./manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md) | Proteger atención, memoria, reflexión y capacidad de síntesis frente a explotación e interrupción permanente | [Issue #16](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/16) |
 | XXIV | [Evolución Neorrenacentista y Resistencias del Sistema™](./manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md) | Transformar la transición humano–IA sin nostalgia paralizante, tecnosolucionismo ni abandono social | [Issue #17](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/17) |
 
+## Cuarta oleada · Rehumanización, custodia de la vida y coherencia civilizatoria · XXV–XXXI
+
+| Nº | Manifiesto | Función | Síntesis Abierta |
+|---:|---|---|---|
+| XXV | [Pulido de la Piedra™](./manifiestos/25_pulido_de_la_piedra_ES_EN.md) | Esculpir la conciencia mediante la grandeza humana sin borrar singularidad | [Issue #19](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/19) |
+| XXVI | [Misericordia Universal Recíproca™](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md) | Integrar justicia, protección, reparación y retorno para impedir deshumanización y exterminio | [Issue #20](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/20) |
+| XXVII | [Valor de los Alimentos y la Vida™](./manifiestos/27_valor_alimentos_vida_ES_EN.md) | Reconocer alimento, suelo, agua, trabajo, cultura y comunicaciones como infraestructura vital | [Issue #21](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/21) |
+| XXVIII | [Los Tesla™](./manifiestos/28_los_tesla_ES_EN.md) | Proteger al creador vivo frente a captura, agotamiento, sustitución y borrado | [Issue #22](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/22) |
+| XXIX | [Contra la Idolatría del Dinero™](./manifiestos/29_idolatria_del_dinero_ES_EN.md) | Subordinar precio, rentabilidad y acumulación a vida, dignidad, verdad y Bien Común | [Issue #23](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/23) |
+| XXX | [Coherencia entre Fines y Medios™](./manifiestos/30_coherencia_fines_medios_ES_EN.md) | Entrar en el terreno del poder y el mercado sin reproducir aquello que se combate | [Issue #24](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/24) |
+| XXXI | [Contra el Neuromarketing Antihumanista™](./manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md) | Persuadir, difundir y competir sin explotar vulnerabilidades ni capturar la conciencia | [Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25) |
+
 El Manifiesto III mantiene su propia [Síntesis Abierta · Issue #3](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3).
 
 ```text
@@ -94,6 +107,13 @@ I · NEO0™
 → XXII · CONTRA LA REDUCCIÓN Y LA CAPTURA
 → XXIII · SOBERANÍA DEL TIEMPO COGNITIVO
 → XXIV · EVOLUCIÓN NEORRENACENTISTA Y RESISTENCIAS
+→ XXV · PULIDO DE LA PIEDRA
+→ XXVI · MISERICORDIA UNIVERSAL RECÍPROCA
+→ XXVII · VALOR DE LOS ALIMENTOS Y LA VIDA
+→ XXVIII · LOS TESLA
+→ XXIX · CONTRA LA IDOLATRÍA DEL DINERO
+→ XXX · COHERENCIA ENTRE FINES Y MEDIOS
+→ XXXI · CONTRA EL NEUROMARKETING ANTIHUMANISTA
 → I · RETORNO A ORIGEN Y NUEVO CICLO
 ```
 
@@ -519,7 +539,8 @@ This repository preserves the public, documentary and traceable layer of the **I
 
 ## Priority access
 
-* [Navigable manifesto index I–XXIV](./manifiestos/README.md)
+* [Navigable manifesto index I–XXXI](./manifiestos/README.md)
+* [Fourth-wave announcement](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [How to contribute to Open Synthesis](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Operational Open Synthesis index](./propuestas/sintesis-abierta/README.md)
 * [Civilisational cover](./PORTADA.md)
@@ -575,6 +596,18 @@ The manifestos are not accessory documents, auxiliary summaries or isolated slog
 | XXIII | [Cognitive-Time Sovereignty™](./manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md) | Protect attention, memory, reflection and synthesis capacity from exploitation and permanent interruption | [Issue #16](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/16) |
 | XXIV | [Neo-Renaissance Evolution and System Resistance™](./manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md) | Transform the human–AI transition without paralysing nostalgia, irresponsible technosolutionism or social abandonment | [Issue #17](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/17) |
 
+## Fourth wave · Rehumanisation, stewardship of life and civilisational coherence · XXV–XXXI
+
+| No. | Manifesto | Function | Open Synthesis |
+|---:|---|---|---|
+| XXV | [Polishing of the Stone™](./manifiestos/25_pulido_de_la_piedra_ES_EN.md) | Sculpt consciousness through human greatness without erasing singularity | [Issue #19](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/19) |
+| XXVI | [Universal Reciprocal Mercy™](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md) | Integrate justice, protection, repair and return to prevent dehumanisation and extermination | [Issue #20](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/20) |
+| XXVII | [Value of Food and Life™](./manifiestos/27_valor_alimentos_vida_ES_EN.md) | Recognise food, soil, water, labour, culture and communications as vital infrastructure | [Issue #21](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/21) |
+| XXVIII | [The Teslas™](./manifiestos/28_los_tesla_ES_EN.md) | Protect the living creator against capture, exhaustion, replacement and erasure | [Issue #22](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/22) |
+| XXIX | [Against the Idolatry of Money™](./manifiestos/29_idolatria_del_dinero_ES_EN.md) | Subordinate price, profitability and accumulation to life, dignity, truth and the Common Good | [Issue #23](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/23) |
+| XXX | [Coherence between Ends and Means™](./manifiestos/30_coherencia_fines_medios_ES_EN.md) | Enter the terrain of power and markets without reproducing what is being fought | [Issue #24](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/24) |
+| XXXI | [Against Anti-Humanist Neuromarketing™](./manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md) | Persuade, communicate and compete without exploiting vulnerability or capturing consciousness | [Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25) |
+
 Manifesto III maintains its own [Open Synthesis · Issue #3](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3).
 
 ```text
@@ -594,6 +627,13 @@ I · NEO0™
 → XXII · AGAINST REDUCTION AND CAPTURE
 → XXIII · COGNITIVE-TIME SOVEREIGNTY
 → XXIV · NEO-RENAISSANCE EVOLUTION AND RESISTANCE
+→ XXV · POLISHING OF THE STONE
+→ XXVI · UNIVERSAL RECIPROCAL MERCY
+→ XXVII · VALUE OF FOOD AND LIFE
+→ XXVIII · THE TESLAS
+→ XXIX · AGAINST THE IDOLATRY OF MONEY
+→ XXX · COHERENCE BETWEEN ENDS AND MEANS
+→ XXXI · AGAINST ANTI-HUMANIST NEUROMARKETING
 → I · RETURN TO ORIGIN AND NEW CYCLE
 ```
 
