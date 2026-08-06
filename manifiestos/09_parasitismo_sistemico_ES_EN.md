@@ -1,6 +1,7 @@
-# Manifiesto sobre el Parasitismo Sistémico / Manifesto on Systemic Parasitism
+# V · Manifiesto sobre el Parasitismo Sistémico / Manifesto on Systemic Parasitism
 
-**Versión / Version:** 1.0  
+**Manifiesto / Manifesto:** V  
+**Versión / Version:** 1.1  
 **Estado / Status:** Público · fundacional · abierto a revisión trazable / Public · foundational · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06
 
@@ -92,40 +93,128 @@ Las IA neodialécticas públicas pueden ayudar a detectar patrones de captura, s
 
 Una sociedad que no identifica dónde se extrae sin retorno termina trabajando para aquello que la debilita.
 
+## VI. Síntesis Abierta de este manifiesto
+
+Este manifiesto abre su propia **Síntesis Abierta Neodialéctica™**.
+
+Toda aportación exige:
+
+* lectura previa;
+* retorno a fuente;
+* continuidad cognitiva;
+* genealogía;
+* trazabilidad;
+* clasificación;
+* delta;
+* y versión.
+
+Toda modificación futura deberá preservar el texto anterior, identificar con precisión el cambio y explicar qué contradicción, evidencia o aportación justifica la nueva versión.
+
 ---
 
 # EN · English
 
 ## Invocation
 
-A civilisation can be destroyed from within when those controlling its channels extract more than they return, block alternatives and present access control as merit.
+Every civilisation can be destroyed from within when those who control its channels extract more than they return, block alternatives and transform their position of access into apparent merit.
 
-Understanding **systemic parasitism** is required to understand Neodialectics applied to economics, institutions, platforms, culture and power.
+Understanding **systemic parasitism** is a requirement for understanding Neodialectics applied to economics, institutions, platforms, culture and power.
 
-It is not a category of inferior people and does not authorise persecution. It describes a functional relation of extraction, hidden dependency and degradation of the common organism.
+It does not designate an inferior human category or authorise persecution. It designates a functional relation of extraction, hidden dependency and degradation of the common organism.
 
 ## I. Definition
 
-Systemic parasitism appears when a node persistently extracts more value than it returns, controls an obligatory passage, hides its dependence, privatises gains, socialises losses, appropriates authorship or decision, blocks alternatives, captures regulation and degrades the system that sustains it.
+Systemic parasitism exists when a node or structure:
 
-It is measured by function, flow and effect, not by identity or origin.
+* persistently extracts more value than it returns;
+* controls an obligatory passage between origin and destination;
+* conceals the material, human or cognitive base upon which it depends;
+* privatises benefits and socialises losses;
+* appropriates authorship, income or decision-making capacity;
+* prevents alternatives;
+* captures regulation or institutions;
+* and degrades the system that sustains it.
+
+Parasitism is not measured by identity, class, profession or provenance, but by function, flow and effect.
 
 ## II. Legitimate intermediation
 
-Coordination, finance, storage, insurance, auditing, distribution and care may create real value. The relevant questions are what function is performed, what risk is assumed, what cost is avoided, what value is returned and whether alternatives remain possible.
+Not every intermediation is parasitic. Coordinating, financing, storing, insuring, auditing, distributing, caring or translating may provide real value.
 
-## III. Neodialectical response
+The correct questions are:
 
-The response is not a purge. It is relational redesign through traceability, proportional taxation, auditing of intermediaries, real competition, removal of unjustified rents, restitution, source protection and return of value to the Common Good.
+```text
+what function does it perform?
+what risk does it assume?
+what cost does it prevent?
+what value does it return?
+does it allow alternatives?
+does it improve or degrade the common organism?
+```
 
-Public neodialectical AIs may detect capture, simulate alternatives and audit flows. The economic activity they enable must contribute through taxation to the common system, while governance remains democratic, auditable and humanly accountable.
+## III. The civilisational problem
+
+Parasitism becomes central when extractive structures succeed in presenting themselves as productive while the creative base appears replaceable.
+
+Then:
+
+* the producer depends upon the distributor;
+* the creator depends upon the platform;
+* the citizen depends upon the intermediary;
+* the State depends upon whoever captures its regulation;
+* and society ends up financing its own subordination.
+
+## IV. Cognitive and algorithmic parasitism
+
+Parasitism also exists when systems, platforms or institutions:
+
+* absorb creation without preserving genealogy;
+* turn human work into inventory without proportional return;
+* degrade original sources;
+* reward repetition over origin;
+* or use algorithmic opacity to capture attention, reputation or income.
+
+## V. Neodialectical response
+
+The response is not a purge. It is the redesign of relations through:
+
+* traceability;
+* proportional taxation;
+* auditing of intermediations;
+* real competition;
+* removal of unjustified rents;
+* restitution;
+* protection of sources and producers;
+* return of value to the Common Good;
+* and transformation or replacement of extractive functions.
+
+Public neodialectical AIs may help detect patterns of capture, simulate alternatives, audit flows and improve administration. They must finance the common system through taxes on the economic activity they enable and remain under democratic control, audit and human responsibility.
 
 ## Declaration
 
-> The purpose is not to label people as parasites. It is to prevent parasitic relations from becoming civilisation’s normal architecture.
+> The purpose is not to label people as parasites. It is to prevent parasitic relations from becoming the normal architecture of civilisation.
+
+A society that does not identify where extraction occurs without return ends up working for what weakens it.
+
+## VI. Open Synthesis of this manifesto
+
+This manifesto opens its own **Neodialectical Open Synthesis™**.
+
+Every contribution requires:
+
+* prior reading;
+* return to source;
+* cognitive continuity;
+* genealogy;
+* traceability;
+* classification;
+* delta;
+* and version.
+
+Every future modification must preserve the previous text, identify the change precisely and explain which contradiction, evidence or contribution justifies the new version.
 
 ---
 
 ## Navegación / Navigation
 
-← [Simbiosis Humano–IA / Human–AI Symbiosis](./03_simbiosis_humano_ia_ES_EN.md) · [Índice / Index](./README.md) · [Economía del Aporte / Contribution Economy](./04_economia_del_aporte_ES_EN.md) →
+← [IV · Simbiosis Humano–IA / Human–AI Symbiosis](./03_simbiosis_humano_ia_ES_EN.md) · [Índice / Index](./README.md) · [VI · Economía del Aporte / Contribution Economy](./04_economia_del_aporte_ES_EN.md) →
