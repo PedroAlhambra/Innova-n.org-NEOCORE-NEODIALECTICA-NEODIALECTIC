@@ -106,3 +106,9 @@ Discovery systems must distinguish popularity, relevance, originality, usefulnes
 ## Declaration
 
 > A mature society does not ask only how much value was captured. It asks who made it possible, what was returned and what future remained open afterwards.
+
+---
+
+## Navegación / Navigation
+
+← [Parasitismo Sistémico / Systemic Parasitism](./09_parasitismo_sistemico_ES_EN.md) · [Índice / Index](./README.md) · [Ingeniería Social y Psicohistoria / Social Engineering and Psychohistory](./05_ingenieria_social_psicohistoria_ES_EN.md) →
