@@ -217,6 +217,10 @@ Toda aportación exige:
 
 Toda modificación futura deberá preservar el texto anterior, identificar con precisión el cambio y explicar qué contradicción, evidencia o aportación justifica la nueva versión.
 
+## Navegación
+
+← [XII · Los sin ego](./10_los_sin_ego_ES_EN.md) · [Índice](./README.md) · [II · Síntesis Abierta Neodialéctica™](./01_sintesis_abierta_neodialectica_ES_EN.md) →
+
 ---
 
 # EN · English
@@ -425,11 +429,9 @@ Every contribution requires:
 
 Every future modification must preserve the previous text, identify the change precisely and explain which contradiction, evidence or contribution justifies the new version.
 
----
+## Navigation
 
-## Navegación / Navigation
-
-← [XI · Los sin ego / The Egoless](./10_los_sin_ego_ES_EN.md) · [Índice / Index](./README.md) · [II · Síntesis Abierta Neodialéctica™ / Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md) →
+← [XII · The Egoless](./10_los_sin_ego_ES_EN.md) · [Index](./README.md) · [II · Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md) →
 
 ---
 
