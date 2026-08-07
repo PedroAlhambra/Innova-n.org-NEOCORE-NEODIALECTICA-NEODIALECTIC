@@ -1,0 +1,152 @@
+name: one-shot-links-and-manifesto-block-cleanup
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/one-shot-links-and-manifesto-block-cleanup.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Refresh Morocco links and remove manifesto block commentary
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+
+          part1 = Path('analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md')
+          part2 = Path('analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md')
+          part3_rel = './2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md'
+          matrix3_rel = './evidencias/2026-08-07_ceuta-marruecos-evolucion-conflicto-fuentes-y-matriz_ES_EN.md'
+
+          # Remove only the explanatory sentence under the equivalent-links block.
+          # Keep the heading and the actual links.
+          removed_es = 0
+          removed_en = 0
+          es_patterns = [
+              r'^Este bloque garantiza que la edición castellana y la inglesa ofrecen acceso al mismo conjunto de destinos internos\.\s*$',
+              r'^Este bloque garantiza que las ediciones castellana e inglesa ofrecen acceso al mismo conjunto de destinos internos\.\s*$',
+          ]
+          en_patterns = [
+              r'^This block guarantees that the Spanish and English editions provide access to the same set of internal destinations\.\s*$',
+              r'^This block ensures that the Spanish and English editions provide access to the same set of internal destinations\.\s*$',
+          ]
+          for p in Path('manifiestos').glob('*.md'):
+              s = p.read_text(encoding='utf-8')
+              original = s
+              for pat in es_patterns:
+                  s, n = re.subn(pat, '', s, flags=re.M)
+                  removed_es += n
+              for pat in en_patterns:
+                  s, n = re.subn(pat, '', s, flags=re.M)
+                  removed_en += n
+              # Avoid triple blank lines introduced by removing the sentence.
+              s = re.sub(r'\n{3,}', '\n\n', s)
+              if s != original:
+                  p.write_text(s, encoding='utf-8')
+
+          # Part I: surface Parts II and III in the documentary update and navigation.
+          s = part1.read_text(encoding='utf-8')
+          link3_es = f'> - [Parte III — Ceuta 2026, Marruecos y evolución del conflicto / Part III — Ceuta 2026, Morocco and the evolution of the conflict]({part3_rel})\n'
+          if part3_rel not in s:
+              anchor = '> - [Parte II — Dajla, mafias migratorias y control estatal / Part II — Dakhla, migrant-smuggling networks and state control](./2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)\n'
+              if anchor in s:
+                  s = s.replace(anchor, anchor + link3_es, 1)
+              nav = '- [Parte II / Part II](./2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)\n'
+              if nav in s:
+                  s = s.replace(nav, nav + f'- [Parte III / Part III]({part3_rel})\n', 1)
+          part1.write_text(s, encoding='utf-8')
+
+          # Part II: add explicit continuation and reciprocal navigation to Part III.
+          s = part2.read_text(encoding='utf-8')
+          if part3_rel not in s:
+              marker = '### Documento matriz / Parent analysis\n\n- **GitHub:**  \n  [España sin consulta: Marruecos, regularización, nacionalidad y pérdida de control democrático](./2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)\n'
+              continuation = marker + '\n### Continuación / Continuation\n\n- **Parte III / Part III:**  \n  [Ceuta 2026, Marruecos y evolución del conflicto](' + part3_rel + ')\n- **Matriz Parte III / Part III evidence matrix:**  \n  [Fuentes y matriz de evidencias](' + matrix3_rel + ')\n'
+              if marker in s:
+                  s = s.replace(marker, continuation, 1)
+              nav = '- [Documento matriz / Parent analysis](./2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)\n'
+              if nav in s:
+                  s = s.replace(nav, nav + f'- [Parte III / Part III]({part3_rel})\n', 1)
+          part2.write_text(s, encoding='utf-8')
+
+          # Old Part II evidence matrix: point forward to Part III and its evidence matrix.
+          p = Path('analisis/publicos/evidencias/2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md')
+          s = p.read_text(encoding='utf-8')
+          cont = '**Continuación / Continuation:** [Parte III · Ceuta 2026, Marruecos y evolución del conflicto](../2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md) · [Matriz Parte III / Part III evidence matrix](./2026-08-07_ceuta-marruecos-evolucion-conflicto-fuentes-y-matriz_ES_EN.md)  \n'
+          if '2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md' not in s:
+              anchor = '**Documento matriz / Parent analysis:** [Parte I](../2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)\n'
+              if anchor in s:
+                  s = s.replace(anchor, anchor + '\n' + cont, 1)
+          p.write_text(s, encoding='utf-8')
+
+          # Part I evidence matrix: point to Parts II and III when the file exists.
+          p = Path('analisis/publicos/evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md')
+          if p.exists():
+              s = p.read_text(encoding='utf-8')
+              if '2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md' not in s:
+                  insertion = '\n**Continuación documental / Documentary continuation:** [Parte II · Dajla](../2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md) · [Parte III · Ceuta 2026](../2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md) · [Matriz Parte III](./2026-08-07_ceuta-marruecos-evolucion-conflicto-fuentes-y-matriz_ES_EN.md)  \n'
+                  # Put after metadata header when possible.
+                  m = re.search(r'(?m)^\*\*Idiomas / Languages:\*\*.*$', s)
+                  if m:
+                      pos = m.end()
+                      s = s[:pos] + insertion + s[pos:]
+                  else:
+                      s = insertion + '\n' + s
+                  p.write_text(s, encoding='utf-8')
+
+          # Wiki source guide: surface the three-part Spain-Morocco series.
+          p = Path('wiki-source/Analisis_Neodialecticos_Publicos.md')
+          if p.exists():
+              s = p.read_text(encoding='utf-8')
+              if '2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md' not in s:
+                  block = '''\n## Serie España–Marruecos / Spain–Morocco series\n\n- [Parte I · España sin consulta / Part I · Spain without consultation](../analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)\n- [Parte II · Dajla, mafias migratorias y control estatal / Part II · Dakhla, migrant-smuggling networks and state control](../analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)\n- [Parte III · Ceuta 2026, Marruecos y evolución del conflicto / Part III · Ceuta 2026, Morocco and the evolution of the conflict](../analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md)\n- [Matriz de evidencias Parte III / Part III evidence matrix](../analisis/publicos/evidencias/2026-08-07_ceuta-marruecos-evolucion-conflicto-fuentes-y-matriz_ES_EN.md)\n'''
+                  s = s.rstrip() + '\n' + block + '\n'
+                  p.write_text(s, encoding='utf-8')
+
+          # Produce a small postcheck report.
+          remaining = []
+          for p in Path('manifiestos').glob('*.md'):
+              t = p.read_text(encoding='utf-8')
+              if 'Este bloque garantiza que la edición castellana y la inglesa ofrecen acceso al mismo conjunto de destinos internos.' in t:
+                  remaining.append(str(p))
+              if 'This block guarantees that the Spanish and English editions provide access to the same set of internal destinations.' in t:
+                  remaining.append(str(p))
+
+          report = Path('auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md')
+          report.write_text(
+              '# Postcheck · vínculos España–Marruecos y limpieza de bloques de manifiestos\n\n'
+              '**Fecha / Date:** 2026-08-07  \n\n'
+              f'- Comentarios ES eliminados / ES comments removed: **{removed_es}**\n'
+              f'- Comentarios EN eliminados / EN comments removed: **{removed_en}**\n'
+              f'- Comentarios objetivo restantes / Remaining target comments: **{len(remaining)}**\n'
+              '- Parte I enlaza Parts II y III.\n'
+              '- Parte II enlaza Part I, Part III y la matriz de Part III.\n'
+              '- Las matrices históricas enlazan hacia la continuación actual cuando corresponde.\n'
+              '- La guía `wiki-source/Analisis_Neodialecticos_Publicos.md` incorpora la serie de tres partes.\n'
+              + ('' if not remaining else '\n## Pendientes\n' + '\n'.join(f'- {x}' for x in sorted(set(remaining))) + '\n'),
+              encoding='utf-8'
+          )
+
+          Path('.github/workflows/one-shot-links-and-manifesto-block-cleanup.yml').unlink()
+
+      - name: Commit updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "docs: refresh Morocco series links and clean manifesto link comments"
+            git push
+          fi
