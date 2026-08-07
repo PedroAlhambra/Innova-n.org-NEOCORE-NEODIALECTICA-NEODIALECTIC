@@ -226,7 +226,7 @@ Antes de participar, lee el manifiesto completo y el protocolo operativo. Presen
 
 ## Navegación
 
-← [XXXI · Contra el Neuromarketing Antihumanista™](./31_contra_neuromarketing_antihumanista_ES_EN.md) · [Índice](./README.md) · [II · Síntesis Abierta Neodialéctica™](./01_sintesis_abierta_neodialectica_ES_EN.md) →
+← [XXXIV · Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) · [Índice](./README.md) · [II · Síntesis Abierta Neodialéctica™](./01_sintesis_abierta_neodialectica_ES_EN.md) →
 
 ---
 
@@ -445,7 +445,7 @@ Before participating, read the full manifesto and the operational protocol. Subm
 
 ## Navigation
 
-← [XXXI · Against Anti-Humanist Neuromarketing™](./31_contra_neuromarketing_antihumanista_ES_EN.md) · [Index](./README.md) · [II · Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md) →
+← [XXXIV · Operational Utility of the Framework and Perpetual Joint Audit™](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) · [Index](./README.md) · [II · Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md) →
 
 ---
 

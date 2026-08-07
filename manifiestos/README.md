@@ -18,7 +18,7 @@ La colección se organiza desde el 7 de agosto de 2026 en cuatro oleadas relacio
 * **Primera oleada · I–XII:** constitución fundacional del marco, su método, dirección, límites y arquitectura pública.
 * **Segunda oleada · XIII–XIX:** despliegue arquetípico, cultural, vital y civilizatorio de los principios ya fijados.
 * **Tercera oleada · XX–XXIV:** **Sistema Inmunitario Intelectual Neodialéctico™**, orientado a proteger la apertura, reconocer el aporte, conservar genealogía, defender el tiempo cognitivo y transformar las resistencias del sistema heredado.
-* **Cuarta oleada · XXV–XXXI:** **Rehumanización, custodia de la vida y coherencia civilizatoria**, orientada a esculpir conciencia mediante grandeza humana, impedir la deshumanización, proteger alimento y creadores, subordinar el dinero a la vida y mantener coherencia entre fines, medios y comunicación.
+* **Cuarta oleada · XXV–XXXII:** **Rehumanización, custodia de la vida y coherencia civilizatoria**, orientada a esculpir conciencia mediante grandeza humana, impedir la deshumanización, proteger alimento y creadores, subordinar el dinero a la vida y mantener coherencia entre fines, medios y comunicación.
 
 Los manifiestos establecen y despliegan:
 
@@ -308,6 +308,17 @@ Una revisión futura deberá:
 * [IDEA · puerta narrativa del marco](../obras/idea/README.md)
 * [Wiki pública](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
 
+
+## Quinta oleada · Transición, utilidad operativa y nuevo ciclo humano
+
+| Nº | Manifiesto | Función | Síntesis Abierta |
+|---:|---|---|---|
+| XXXIII | [IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](./33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md) | Conectar la memoria literaria de origen con el reset sistémico mediante reemplazo y el Neorrenacimiento Humano | [Issue #28](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/28) |
+| XXXIV | [Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) | Demostrar aplicación práctica mediante auditorías públicas, autocorrección, memoria versionada y Síntesis Abierta permanente | [Issue #29](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/29) |
+
+La quinta oleada conecta transición y aplicación: IDEA aporta una puerta narrativa y una piedra de relación; la auditoría conjunta convierte el marco en una herramienta pública que debe demostrar utilidad mediante efectos verificables.
+
+
 ---
 
 # EN · English
@@ -321,7 +332,7 @@ Since 7 August 2026, the collection has been organised into four related waves:
 * **First wave · I–XII:** foundational constitution of the framework, its method, direction, limits and public architecture.
 * **Second wave · XIII–XIX:** archetypal, cultural, living and civilisational deployment of the established principles.
 * **Third wave · XX–XXIV:** the **Neodialectical Intellectual Immune System™**, protecting openness, recognising contribution, preserving genealogy, defending cognitive time and transforming resistance from the inherited system.
-* **Fourth wave · XXV–XXXI:** **Rehumanisation, stewardship of life and civilisational coherence**, shaping consciousness through human greatness, preventing dehumanisation, protecting food and creators, subordinating money to life and preserving coherence among ends, means and communication.
+* **Fourth wave · XXV–XXXII:** **Rehumanisation, stewardship of life and civilisational coherence**, shaping consciousness through human greatness, preventing dehumanisation, protecting food and creators, subordinating money to life and preserving coherence among ends, means and communication.
 
 No manifesto alone equals the complete system. Its reading must preserve relation to the framework, NEOCore™ 7.0, SAN™, NAVE™, WEB4™ and the documentary memory of the ecosystem.
 
@@ -458,6 +469,17 @@ All remain open to traceable revision through Neodialectical Open Synthesis™. 
 * [From the attention economy to the contribution economy](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
 * [IDEA · narrative gateway to the framework](../obras/idea/README.md)
 * [Public Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
+
+
+## Fifth wave · Transition, operational utility and a new human cycle
+
+| No. | Manifesto | Function | Open Synthesis |
+|---:|---|---|---|
+| XXXIII | [IDEA · Civilisational Cornerstone and Rosetta Stone™](./33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md) | Connect literary memory of origin with systemic reset through replacement and the Human Neo-Renaissance | [Issue #28](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/28) |
+| XXXIV | [Operational Utility of the Framework and Perpetual Joint Audit™](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) | Demonstrate practical application through public audits, self-correction, versioned memory and perpetual Open Synthesis | [Issue #29](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/29) |
+
+The fifth wave connects transition and application: IDEA provides a narrative gateway and relational cornerstone; joint audit turns the framework into a public tool whose utility must be demonstrated through verifiable effects.
+
 
 ---
 

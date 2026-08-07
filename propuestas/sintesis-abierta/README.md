@@ -85,6 +85,13 @@ el pulido esculpe conciencia mediante grandeza
 → la comunicación persuade sin capturar la conciencia
 ```
 
+## Quinta oleada · Transición, utilidad operativa y nuevo ciclo humano
+
+| Nº | Manifiesto | Síntesis Abierta |
+|---:|---|---|
+| XXXIII | [IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](../../manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md) | [Issue #28](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/28) |
+| XXXIV | [Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](../../manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) | [Issue #29](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/29) |
+
 ## Método
 
 ```text
@@ -192,6 +199,13 @@ polishing shapes consciousness through greatness
 → coherence prevents means from destroying the end
 → communication persuades without capturing consciousness
 ```
+
+## Fifth wave · Transition, operational utility and a new human cycle
+
+| No. | Manifesto | Open Synthesis |
+|---:|---|---|
+| XXXIII | [IDEA · Civilisational Cornerstone and Rosetta Stone™](../../manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md) | [Issue #28](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/28) |
+| XXXIV | [Operational Utility of the Framework and Perpetual Joint Audit™](../../manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) | [Issue #29](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/29) |
 
 ## Method
 

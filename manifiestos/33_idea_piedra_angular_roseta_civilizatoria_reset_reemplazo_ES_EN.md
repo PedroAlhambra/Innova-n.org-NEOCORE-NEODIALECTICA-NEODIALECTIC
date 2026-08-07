@@ -8,7 +8,7 @@
 ## Fifth wave · Transition, systemic replacement and a new human cycle
 
 **Manifiesto / Manifesto:** XXXIII  
-**Versión / Version:** 1.0  
+**Versión / Version:** 1.1  
 **Estado / Status:** Público · quinta oleada · IDEA-memoria-reemplazo-renacimiento · abierto a revisión trazable / Public · fifth wave · IDEA-memory-replacement-renaissance · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-07  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™. IDEA fue escrita entre 1997 y 2002 y antecede a la Neodialéctica, Innova_N y el vocabulario posterior del marco. Su función civilizatoria aquí formulada es una interpretación y operación neodialéctica de 2026, no una reescritura retrospectiva del texto original.  
@@ -261,6 +261,11 @@ El libro es una vía privilegiada de lectura y apoyo económico, no una tasa de 
 
 La aspiración es que millones de personas lo lean porque encuentran valor en él, no porque una institución las obligue.
 
+### Comprar y elegir edición
+
+* [Comprar IDEA · versiones publicadas y enlaces por idioma](../obras/idea/README.md#doce-idiomas-actuales)
+* [Registro canónico de ediciones y formatos](../obras/idea/EDICIONES.md)
+
 ## XI. Financiar aquello que queremos que exista
 
 Toda compra decide, en alguna medida, qué estructuras reciben capacidad futura.
@@ -378,7 +383,7 @@ Toda aportación exige lectura previa suficiente del objeto concreto, retorno a 
 
 ## Navegación
 
-← [XXXII · Reversión Ideológica Neodialéctica™](./32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md) · [Índice](./README.md) · [I · Neo0™ · Soberanía de Guía Neodialéctica](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XXXII · Reversión Ideológica Neodialéctica™](./32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md) · [Índice](./README.md) · [XXXIV · Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) →
 
 ---
 
@@ -593,6 +598,11 @@ The book is a privileged path of reading and economic support, not a tax on inte
 
 The aspiration is that millions read it because they find value in it, not because an institution compels them.
 
+### Buy and choose an edition
+
+* [Buy IDEA · published editions and language links](../obras/idea/README.md#doce-idiomas-actuales)
+* [Canonical edition and format register](../obras/idea/EDICIONES.md)
+
 ## XI. Financing what we want to exist
 
 Every purchase decides, to some degree, which structures receive future capacity.
@@ -685,7 +695,7 @@ Every contribution requires sufficient prior reading of the concrete object, ret
 
 ## Navigation
 
-← [XXXII · Neodialectical Ideological Reversal™](./32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md) · [Index](./README.md) · [I · Neo0™ · Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XXXII · Neodialectical Ideological Reversal™](./32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md) · [Index](./README.md) · [XXXIV · Operational Utility of the Framework and Perpetual Joint Audit™](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) →
 
 ---
 

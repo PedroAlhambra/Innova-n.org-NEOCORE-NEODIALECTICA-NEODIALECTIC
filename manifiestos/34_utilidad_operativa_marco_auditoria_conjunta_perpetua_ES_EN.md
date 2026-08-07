@@ -395,6 +395,7 @@ Se solicitan aportes sobre:
 
 Toda aportación exige fuente, contexto, genealogía, separación entre hecho e interpretación, trazabilidad, clasificación, delta y versión.
 
+* [Abrir la Síntesis Abierta de este manifiesto · Issue #29](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/29)
 * [Protocolo operativo actual para aportar](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
 * [Auditorías públicas](../auditorias/publicas/README.md)
@@ -640,6 +641,7 @@ Contributions are invited on neodialectical audit criteria; legal and terminolog
 
 Every contribution requires source, context, genealogy, separation between fact and interpretation, traceability, classification, delta and version.
 
+* [Open the Synthesis of this manifesto · Issue #29](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/29)
 * [Current operational contribution protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Open Synthesis index](../propuestas/sintesis-abierta/README.md)
 * [Public audits](../auditorias/publicas/README.md)
