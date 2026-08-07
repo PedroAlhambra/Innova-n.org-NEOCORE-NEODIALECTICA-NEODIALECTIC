@@ -18,6 +18,8 @@
 
 ## Análisis públicos
 
+* [2026-08-07 · Parte III — Ceuta 2026, Marruecos y evolución del conflicto](./publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md)
+  * [Fuentes y matriz de evidencias](./publicos/evidencias/2026-08-07_ceuta-marruecos-evolucion-conflicto-fuentes-y-matriz_ES_EN.md)
 * [2026-08-05 · De la economía de la atención a la economía del aporte](./publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
 * [2026-07-22 · Dajla, mafias migratorias y control estatal](./publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
   * [Fuentes y matriz de evidencias](./publicos/evidencias/2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md)
@@ -59,6 +61,8 @@ Cada nuevo análisis o auditoría debe incorporarse, cuando corresponda, a su ar
 
 ## Public analyses
 
+* [2026-08-07 · Part III — Ceuta 2026, Morocco and the evolution of the conflict](./publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md)
+  * [Sources and evidence matrix](./publicos/evidencias/2026-08-07_ceuta-marruecos-evolucion-conflicto-fuentes-y-matriz_ES_EN.md)
 * [2026-08-05 · From the Attention Economy to the Contribution Economy](./publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
 * [2026-07-22 · Dakhla, migrant-smuggling networks and state control](./publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
   * [Sources and evidence matrix](./publicos/evidencias/2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md)
