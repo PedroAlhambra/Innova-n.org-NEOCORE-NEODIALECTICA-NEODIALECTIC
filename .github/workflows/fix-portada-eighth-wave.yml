@@ -1,0 +1,35 @@
+name: One-time portada eighth-wave grouping fix
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/fix-portada-eighth-wave.yml
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p=Path('PORTADA.md'); t=p.read_text(encoding='utf-8')
+          issue43='* [Síntesis Abierta XXXVII · Issue #43](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/43)'
+          marker='* [XXXVII · Neofraternidad™](./manifiestos/37_neofraternidad_ES_EN.md)'
+          if issue43 in t:
+              t=t.replace('\n'+issue43,'',1)
+          if marker+'\n\n### Octava oleada' in t:
+              t=t.replace(marker+'\n\n### Octava oleada',marker+'\n'+issue43+'\n\n### Octava oleada',1)
+          p.write_text(t,encoding='utf-8')
+          Path('.github/workflows/fix-portada-eighth-wave.yml').unlink()
+          PY
+          git config user.name "Innova_N Documentation Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git commit -m "docs: fix seventh/eighth wave grouping in PORTADA" || exit 0
+          git push origin HEAD:main
