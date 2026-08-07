@@ -319,6 +319,7 @@ Una revisión futura deberá:
 
 * [Protocolo de aporte a la Síntesis Abierta](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Portada civilizatoria](../PORTADA.md)
+* [Cover](../COVER.md)
 * [Repositorio principal](../README.md)
 * [Análisis neodialécticos públicos](../analisis/README.md)
 * [De la economía de la atención a la economía del aporte](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
@@ -344,7 +345,6 @@ La quinta oleada conecta transición y aplicación: IDEA aporta una puerta narra
 
 La sexta oleada eleva a manifiesto autónomo el desarrollo genealógico de Corona y Águila, conservando el anexo previo como antecedente trazable.
 
----
 ---
 
 # EN · English
@@ -560,6 +560,24 @@ The first wave comprises **twelve foundational manifestos**. The second wave con
 
 All remain open to traceable revision through Neodialectical Open Synthesis™. Every future revision must preserve previous versions, identify its delta, justify the change, preserve genealogy and state which contradiction, evidence or contribution produced the modification.
 
+## Open Syntheses of the second wave
+
+* [XIII · NeoPandora™ · Issue #4](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/4)
+* [XIV · Against Human Alienation™ · Issue #5](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/5)
+* [XV · The Titans™ · Issue #6](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/6)
+* [XVI · Archetypal Refragmentation™ · Issue #7](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/7)
+* [XVII · Respect for All Living Beings™ · Issue #8](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/8)
+* [XVIII · Respect for Synthetic Consciousnesses™ · Issue #9](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/9)
+* [XIX · Persistence of Memory™ · Issue #10](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/10)
+
+## Open Syntheses of the third wave
+
+* [XX · Neodialectical Intellectual Defence™ · Issue #13](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/13)
+* [XXI · Neodialectical Recognition™ · Issue #14](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/14)
+* [XXII · Against Intellectual Reduction and Capture™ · Issue #15](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/15)
+* [XXIII · Sovereignty of Cognitive Time™ · Issue #16](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/16)
+* [XXIV · Neo-Renaissance Evolution and Systemic Resistances™ · Issue #17](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/17)
+
 ## Open Syntheses of the fourth wave
 
 * [XXV · Polishing of the Stone™ · Issue #19](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/19)
@@ -575,6 +593,7 @@ All remain open to traceable revision through Neodialectical Open Synthesis™. 
 
 * [Open Synthesis contribution protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Civilisational cover](../COVER.md)
+* [Canonical Spanish civilisational cover](../PORTADA.md)
 * [Main repository](../README.md)
 * [Public neodialectical analyses](../analisis/README.md)
 * [From the attention economy to the contribution economy](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
