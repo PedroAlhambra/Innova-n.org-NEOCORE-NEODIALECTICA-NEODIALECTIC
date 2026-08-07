@@ -10,6 +10,15 @@ Esta serie reúne análisis estructurales y trazas públicas de utilidad documen
 
 ## 2026-08
 
+### Parte III · Ceuta 2026, Marruecos y evolución del conflicto
+
+* [2026-08-07 · Documento bilingüe completo](./2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md)
+* [Fuentes y matriz de evidencias](./evidencias/2026-08-07_ceuta-marruecos-evolucion-conflicto-fuentes-y-matriz_ES_EN.md)
+* [Parte II · Dajla, mafias migratorias y control estatal](./2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
+* [Parte I · España sin consulta](./2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
+
+Actualiza la serie tras la escalada de Ceuta de finales de julio y comienzos de agosto: integra movilización digital, señales jurídicas malinterpretadas, capacidad y fallos de control, cooperación posterior, procedimientos judiciales y la nueva fuente audiovisual sobre supuestas investigaciones previas de aproximadamente cinco meses, sin convertir esa duración ni su conexión con la crisis migratoria en hechos demostrados antes de contar con corroboración primaria.
+
 ### Caso de éxito · auditoría gratuita a Amazon KDP y Author Central
 
 * [2026-08-06 · Caso de éxito completo](../../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
@@ -75,6 +84,15 @@ Los análisis deben distinguir hechos, datos declarados, testimonios, inferencia
 This series gathers structural analyses and public documentary traces produced from the neodialectical framework.
 
 ## 2026-08
+
+### Part III · Ceuta 2026, Morocco and the evolution of the conflict
+
+* [2026-08-07 · Complete bilingual document](./2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md)
+* [Sources and evidence matrix](./evidencias/2026-08-07_ceuta-marruecos-evolucion-conflicto-fuentes-y-matriz_ES_EN.md)
+* [Part II · Dakhla, migrant-smuggling networks and state control](./2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
+* [Part I · Spain without consultation](./2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
+
+Updates the series after the late-July and early-August Ceuta escalation: integrates digital mobilisation, misinterpreted legal signals, control capacity and failures, subsequent cooperation, judicial proceedings and the new audiovisual source concerning alleged prior investigations lasting approximately five months, without treating that duration or its connection with the migration crisis as demonstrated fact before primary corroboration is available.
 
 ### Success case · free audit for Amazon KDP and Author Central
 
