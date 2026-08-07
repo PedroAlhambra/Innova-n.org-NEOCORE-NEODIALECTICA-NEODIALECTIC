@@ -10,6 +10,14 @@ Esta serie reúne análisis estructurales y trazas públicas de utilidad documen
 
 ## 2026-08
 
+### Parte IV · Canarias: de la presión fronteriza a la infraestructura de acogida
+
+* [2026-08-07 · Documento bilingüe completo](./2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md)
+* [Fuentes y matriz de evidencias](./evidencias/2026-08-07_canarias-quorum-tutela-contratacion-control-politico-fuentes-y-matriz_ES_EN.md)
+* [Parte III · Ceuta 2026, Marruecos y evolución del conflicto](./2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md)
+
+Amplía la serie hacia la infraestructura española «aguas abajo»: tutela pública de menores, contratación de emergencia, concentración de proveedores, controles e inspecciones, Operación Cábila y vínculos políticos individuales. Distingue expresamente el vínculo documentado de Juan Enrique Quintana Ramos con la Ejecutiva local del PSOE de Gáldar de cualquier inferencia no demostrada sobre control partidario, adjudicaciones o conexión con Marruecos. La captura viral que motivó la revisión reproduce una noticia de julio de 2025; su relevancia actual deriva de que la investigación continuó en 2026.
+
 ### Parte III · Ceuta 2026, Marruecos y evolución del conflicto
 
 * [2026-08-07 · Documento bilingüe completo](./2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md)
@@ -84,6 +92,14 @@ Los análisis deben distinguir hechos, datos declarados, testimonios, inferencia
 This series gathers structural analyses and public documentary traces produced from the neodialectical framework.
 
 ## 2026-08
+
+### Part IV · Canary Islands: from border pressure to reception infrastructure
+
+* [2026-08-07 · Complete bilingual document](./2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md)
+* [Sources and evidence matrix](./evidencias/2026-08-07_canarias-quorum-tutela-contratacion-control-politico-fuentes-y-matriz_ES_EN.md)
+* [Part III · Ceuta 2026, Morocco and the evolution of the conflict](./2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md)
+
+Extends the series towards Spain's downstream infrastructure: public guardianship of minors, emergency procurement, provider concentration, oversight and inspection, Operation Cábila and individual political connections. It explicitly distinguishes Juan Enrique Quintana Ramos's documented role in the local PSOE executive in Gáldar from any unproven inference concerning party control, procurement or links to Morocco. The viral capture prompting the review reproduces a July 2025 story; its current relevance comes from the continuation of the investigation in 2026.
 
 ### Part III · Ceuta 2026, Morocco and the evolution of the conflict
 
