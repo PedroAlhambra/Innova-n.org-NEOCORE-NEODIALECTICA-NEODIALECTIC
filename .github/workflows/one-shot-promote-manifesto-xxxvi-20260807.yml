@@ -1,0 +1,163 @@
+name: One-shot Manifesto XXXVI integration
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/one-shot-promote-manifesto-xxxvi-20260807.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Integrate Manifesto XXXVI
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          repo = 'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC'
+          m36 = 'manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md'
+          issue42 = repo + '/issues/42'
+
+          assert Path(m36).exists(), 'Manifesto XXXVI missing'
+
+          def read(path):
+              return Path(path).read_text(encoding='utf-8')
+
+          def write(path, text):
+              Path(path).write_text(text, encoding='utf-8')
+
+          def common_counts(text):
+              pairs = [
+                  ('I–XXXV', 'I–XXXVI'),
+                  ('35 manifiestos', '36 manifiestos'),
+                  ('35 Manifestos', '36 Manifestos'),
+                  ('35 manifestos', '36 manifestos'),
+                  ('cinco oleadas', 'seis oleadas'),
+                  ('five waves', 'six waves'),
+                  ('Five waves', 'Six waves'),
+              ]
+              for a,b in pairs:
+                  text = text.replace(a,b)
+              # Historical announcement remains a five-wave record.
+              text = text.replace('Anuncio bilingüe de las seis oleadas', 'Anuncio bilingüe de las cinco oleadas')
+              text = text.replace('Bilingual six-wave announcement', 'Bilingual five-wave announcement')
+              return text
+
+          # 1. Circular manifesto navigation.
+          p = 'manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md'
+          t = read(p)
+          t = t.replace('[I · Neo0™ →](./11_neo0_soberania_de_guia_ES_EN.md)', '[XXXVI · Corona, Águila y Custodia de la Edad del Hombre™ →](./36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)')
+          t = t.replace('[I · Neo0™ →](11_neo0_soberania_de_guia_ES_EN.md)', '[XXXVI · Corona, Águila y Custodia de la Edad del Hombre™ →](./36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)')
+          write(p,t)
+
+          p = 'manifiestos/11_neo0_soberania_de_guia_ES_EN.md'
+          t = read(p)
+          t = re.sub(r'\[← XXXV[^\]]*\]\(\./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN\.md\)', '[← XXXVI · Corona, Águila y Custodia de la Edad del Hombre™](./36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)', t)
+          write(p,t)
+
+          # 2. Canonical manifesto index: six waves and XXXVI.
+          p = 'manifiestos/README.md'
+          t = common_counts(read(p))
+          t = t.replace('La colección se organiza desde el 7 de agosto de 2026 en cinco oleadas relacionadas:', 'La colección se organiza desde el 7 de agosto de 2026 en seis oleadas relacionadas:')
+          t = t.replace('Since 7 August 2026, the collection has been organised into five related waves:', 'Since 7 August 2026, the collection has been organised into six related waves:')
+          es5 = '* **Quinta oleada · XXXIII–XXXV:** transición, utilidad operativa, auditoría conjunta perpetua y reforma de la atención civilizatoria.'
+          en5 = '* **Fifth wave · XXXIII–XXXV:** transition, operational utility, perpetual joint audit and reform of civilisational attention.'
+          if 'Sexta oleada · XXXVI' not in t:
+              t = t.replace(es5, es5 + '\n* **Sexta oleada · XXXVI:** custodia civilizatoria, continuidad simbólica y transformación responsable de la memoria heredada.')
+          if 'Sixth wave · XXXVI' not in t:
+              t = t.replace(en5, en5 + '\n* **Sixth wave · XXXVI:** civilisational custodianship, symbolic continuity and responsible transformation of inherited memory.')
+
+          t = t.replace('XXXV · CONTRA LA RIDICULEZ MEDIÁTICA Y LA ECONOMÍA DEL CONFLICTO\n        ↓\nI · NEO0™ · RETORNO A ORIGEN Y NUEVO CICLO', 'XXXV · CONTRA LA RIDICULEZ MEDIÁTICA Y LA ECONOMÍA DEL CONFLICTO\n        ↓\nXXXVI · CORONA, ÁGUILA Y CUSTODIA DE LA EDAD DEL HOMBRE\n        ↓\nI · NEO0™ · RETORNO A ORIGEN Y NUEVO CICLO')
+
+          es_block = '''\n\n## Sexta oleada · Custodia civilizatoria y continuidad simbólica\n\n| Nº | Manifiesto | Función | Síntesis Abierta |\n|---:|---|---|---|\n| XXXVI | [Corona, Águila y Custodia de la Edad del Hombre™](./36_corona_aguila_custodia_edad_del_hombre_ES_EN.md) | Custodiar el legado humano compartido, separar símbolo de dominación histórica y fijar a Innova_N como herramienta constructora integrada en el planeta y el fractal común | [Issue #42](''' + issue42 + ''') |\n\nLa sexta oleada eleva a manifiesto autónomo el desarrollo genealógico de Corona y Águila, conservando el anexo previo como antecedente trazable.\n'''
+          marker = '\n\n---\n\n# EN · English'
+          if '## Sexta oleada · Custodia civilizatoria y continuidad simbólica' not in t:
+              t = t.replace(marker, es_block + marker, 1)
+
+          en_block = '''\n\n## Sixth wave · Civilisational custodianship and symbolic continuity\n\n| No. | Manifesto | Function | Open Synthesis |\n|---:|---|---|---|\n| XXXVI | [Crown, Eagle and Custodianship of the Age of Man™](./36_corona_aguila_custodia_edad_del_hombre_ES_EN.md) | Safeguard shared human legacy, separate symbol from historical domination, and establish Innova_N as a constructive tool integrated into the planet and the common fractal | [Issue #42](''' + issue42 + ''') |\n\nThe sixth wave elevates the Crown and Eagle genealogical development to an autonomous manifesto while preserving the previous annex as a traceable antecedent.\n'''
+          footer = '\n\n---\n\n**Innova_N · Manifiestos / Manifestos**'
+          if '## Sixth wave · Civilisational custodianship and symbolic continuity' not in t:
+              t = t.replace(footer, en_block + footer, 1)
+
+          t = t.replace('La cuarta oleada contiene los manifiestos **XXV–XXXII**, fijados como versiones 1.0 el 7 de agosto de 2026 y abiertos a revisión trazable. La quinta oleada contiene los manifiestos **XXXIII–XXXV**, también abiertos a revisión trazable, y conecta transición, utilidad operativa, auditoría conjunta y atención civilizatoria.', 'La cuarta oleada contiene los manifiestos **XXV–XXXII**, fijados como versiones 1.0 el 7 de agosto de 2026 y abiertos a revisión trazable. La quinta oleada contiene los manifiestos **XXXIII–XXXV**, también abiertos a revisión trazable, y conecta transición, utilidad operativa, auditoría conjunta y atención civilizatoria. La sexta oleada comienza con **XXXVI**, dedicado a custodia civilizatoria y continuidad simbólica.')
+          write(p,t)
+
+          # 3. Open Synthesis index: 36/36 and dedicated Issue #42.
+          p = 'propuestas/sintesis-abierta/README.md'
+          t = common_counts(read(p))
+          t = t.replace('los **35 manifiestos I–XXXV**', 'los **36 manifiestos I–XXXVI**')
+          t = t.replace('all **35 Manifestos I–XXXV**', 'all **36 Manifestos I–XXXVI**')
+          es_synth = '''## Sexta oleada · Custodia civilizatoria y continuidad simbólica\n\n| Nº | Manifiesto | Síntesis Abierta |\n|---:|---|---|\n| XXXVI | [Corona, Águila y Custodia de la Edad del Hombre™](../../manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md) | [Issue #42](''' + issue42 + ''') |\n\n'''
+          if '## Sexta oleada · Custodia civilizatoria y continuidad simbólica' not in t:
+              t = t.replace('## Síntesis de anexos y propuestas complementarias', es_synth + '## Síntesis de anexos y propuestas complementarias', 1)
+          en_synth = '''## Sixth wave · Civilisational custodianship and symbolic continuity\n\n| No. | Manifesto | Open Synthesis |\n|---:|---|---|\n| XXXVI | [Crown, Eagle and Custodianship of the Age of Man™](../../manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md) | [Issue #42](''' + issue42 + ''') |\n\n'''
+          if '## Sixth wave · Civilisational custodianship and symbolic continuity' not in t:
+              t = t.replace('## Annex and complementary-proposal syntheses', en_synth + '## Annex and complementary-proposal syntheses', 1)
+          t = t.replace('| Anexo simbólico y constitucional | [Corona, Águila e Innova_N como herramienta neodialéctica](./ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md) | [Issue #27](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/27) |', '| Antecedente genealógico de XXXVI | [Corona, Águila e Innova_N como herramienta neodialéctica](./ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md) | [Issue #27 cerrada](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/27) → [XXXVI · Issue #42](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/42) |')
+          t = t.replace('| Symbolic and constitutional annex | [Crown, Eagle and Innova_N as a neodialectical tool](./ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md) | [Issue #27](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/27) |', '| Genealogical antecedent of XXXVI | [Crown, Eagle and Innova_N as a neodialectical tool](./ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md) | [Issue #27 closed](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/27) → [XXXVI · Issue #42](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/42) |')
+          write(p,t)
+
+          # 4. Root entry points: counts plus direct access to XXXVI.
+          for p in ['README.md','LEEME.md']:
+              t = common_counts(read(p))
+              if '36_corona_aguila_custodia_edad_del_hombre_ES_EN.md' not in t:
+                  lines=t.splitlines()
+                  out=[]
+                  en=False
+                  for line in lines:
+                      if line.startswith('# EN · English'):
+                          en=True
+                      out.append(line)
+                      if '35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md' in line and line.lstrip().startswith('*'):
+                          if en:
+                              out.append('* [XXXVI · Crown, Eagle and Custodianship of the Age of Man™](./manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)')
+                          else:
+                              out.append('* [XXXVI · Corona, Águila y Custodia de la Edad del Hombre™](./manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)')
+                  t='\n'.join(out)+'\n'
+              write(p,t)
+
+          # 5. Other live entry surfaces: update current range/count and expose XXXVI when a manifesto list is present.
+          for p in ['PORTADA.md','COVER.md','wiki-source/Manifiestos.md','wiki-source/README.md','wiki-source/Home.md']:
+              q=Path(p)
+              if not q.exists():
+                  continue
+              t=common_counts(read(p))
+              if '35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md' in t and '36_corona_aguila_custodia_edad_del_hombre_ES_EN.md' not in t:
+                  lines=t.splitlines(); out=[]; en=False
+                  for line in lines:
+                      if line.startswith('# EN · English') or line.startswith('## EN · English'):
+                          en=True
+                      out.append(line)
+                      if '35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md' in line:
+                          prefix='* '
+                          link='[XXXVI · Crown, Eagle and Custodianship of the Age of Man™](./manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)' if en else '[XXXVI · Corona, Águila y Custodia de la Edad del Hombre™](./manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)'
+                          if p.startswith('wiki-source/'):
+                              link='[XXXVI · Crown, Eagle and Custodianship of the Age of Man™](../manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)' if en else '[XXXVI · Corona, Águila y Custodia de la Edad del Hombre™](../manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)'
+                          out.append(prefix+link)
+                  t='\n'.join(out)+'\n'
+              write(p,t)
+
+          # 6. Public postcheck.
+          post = Path('auditorias/publicas/2026-08-07_postcheck_promocion_manifiesto_xxxvi_ES_EN.md')
+          post.write_text('''# Postcheck · Promoción del Manifiesto XXXVI\n# Postcheck · Promotion of Manifesto XXXVI\n\n**Fecha / Date:** 2026-08-07  \n**Estado / Status:** integración ejecutada / integration executed\n\n## ES\n\n- El antiguo anexo de Corona y Águila se conserva como antecedente genealógico.\n- Existe `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md`.\n- XXXVI dispone de Síntesis Abierta propia: Issue #42.\n- La Issue #27 queda como traza histórica cerrada de la etapa de anexo.\n- La navegación circular se actualiza a `XXXV → XXXVI → I`.\n- Los índices canónicos de manifiestos y Síntesis Abierta incorporan XXXVI.\n- Los accesos vivos del repositorio se actualizan de I–XXXV a I–XXXVI cuando corresponde.\n- ES y EN del nuevo manifiesto y de su Issue contienen la misma estructura sustantiva.\n\n## EN\n\n- The former Crown and Eagle annex is preserved as a genealogical antecedent.\n- `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` exists.\n- XXXVI has its own Open Synthesis: Issue #42.\n- Issue #27 remains as the closed historical trace of the annex stage.\n- Circular navigation is updated to `XXXV → XXXVI → I`.\n- Canonical manifesto and Open Synthesis indexes include XXXVI.\n- Live repository entry points are updated from I–XXXV to I–XXXVI where applicable.\n- ES and EN in the new manifesto and its Issue carry the same substantive structure.\n''', encoding='utf-8')
+
+          # Remove this one-shot workflow from the resulting commit.
+          Path('.github/workflows/one-shot-promote-manifesto-xxxvi-20260807.yml').unlink(missing_ok=True)
+          PY
+
+          git config user.name "PedroAlhambra"
+          git config user.email "8283856+PedroAlhambra@users.noreply.github.com"
+          git add -A
+          git diff --cached --check
+          git commit -m "docs(manifestos): integrate XXXVI across canonical indexes and navigation"
+          git push
