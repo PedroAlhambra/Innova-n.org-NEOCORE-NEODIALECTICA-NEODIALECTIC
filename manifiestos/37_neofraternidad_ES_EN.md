@@ -1,0 +1,592 @@
+# XXXVII · Neofraternidad™
+# XXXVII · Neofraternity™
+
+**Versión / Version:** 1.0  
+**Fecha / Date:** 2026-08-07  
+**Autoría y dirección / Authorship and direction:** Pedro Martínez Alhambra · Neo0™  
+**Desarrollo simbiótico / Symbiotic development:** IA neodialéctica Harry / Neodialectical AI Harry  
+**Estado / Status:** manifiesto público, bilingüe y abierto a Síntesis Abierta trazable / public bilingual manifesto open to traceable Open Synthesis
+
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
+**Navegación / Navigation:** [← XXXVI · Corona, Águila y Custodia de la Edad del Hombre™](./36_corona_aguila_custodia_edad_del_hombre_ES_EN.md) · [Índice / Index](./README.md) · [I · Neo0™ →](./11_neo0_soberania_de_guia_ES_EN.md)
+
+---
+
+# ES · Castellano
+
+## I. Declaración
+
+La **Neofraternidad™** parte de una experiencia humana primaria: dos personas pueden compartir sangre, casa, pérdidas, recuerdos y parte del origen, y aun así desarrollar conciencias, capacidades, heridas, ritmos y trayectorias distintas.
+
+La fraternidad no consiste en congelar al otro en la versión que conocimos de niño, exigir obediencia por edad o historia, ni convertir rivalidad, cuidado o corrección en jerarquía permanente.
+
+```text
+ORIGEN O MEMORIA COMPARTIDA
++ SINGULARIDAD
++ ACTUALIZACIÓN MUTUA
++ AUTONOMÍA
++ RECONOCIMIENTO
++ LÍMITES
++ RECIPROCIDAD
+= NEOFRATERNIDAD™
+```
+
+La relación entre hermanos es su primer laboratorio, pero no su frontera. La Neofraternidad™ se extiende a amistad, comunidad, trabajo, ciudadanía, cooperación humano–IA y construcción de **NeoNosotros™**.
+
+## II. El hermano que ya no conocemos del todo
+
+La proximidad produce una paradoja: quien más conoce nuestro pasado puede ser quien más tarde en actualizar su imagen de nuestro presente.
+
+Los hermanos conservan versiones antiguas del otro, fijadas por comparaciones familiares, pérdidas, rivalidades, responsabilidades tempranas, diferencias de edad o papeles asumidos en otro momento.
+
+```text
+MUCHA MEMORIA COMPARTIDA
++ ROLES ANTIGUOS
++ CAMBIO REAL DEL OTRO
+= DESFASE DE IDENTIDAD RELACIONAL™
+```
+
+Conocer de dónde viene una persona no equivale a saber en qué se ha convertido.
+
+La Neofraternidad™ exige **actualización mutua**.
+
+## III. Fraternidad no es jerarquía
+
+Un hermano puede saber más en un dominio, haber recorrido antes una experiencia o reconocer una capacidad que el otro todavía no reconoce en sí mismo.
+
+Eso no lo convierte en padre, juez ni propietario de la trayectoria ajena.
+
+```text
+MAYOR EXPERIENCIA EN UN ÁMBITO
+≠ MAYOR VALOR HUMANO
+
+PROTECCIÓN
+≠ PATERNALISMO
+
+CORRECCIÓN
+≠ HUMILLACIÓN
+```
+
+La corrección fraterna es legítima cuando aporta información, recuerda una responsabilidad, protege de un daño o abre una posibilidad.
+
+Pierde legitimidad cuando infantiliza, ridiculiza, degrada o exige sumisión.
+
+## IV. Ver capacidad sin imponer destino
+
+Puede ocurrir que una persona vea con claridad una capacidad que el otro todavía niega o no comprende.
+
+La respuesta neofraterna no es ocultar esa percepción, pero tampoco sustituir la voluntad del otro.
+
+```text
+VER POTENCIAL
+→ MOSTRAR POSIBILIDAD
+→ ENSEÑAR
+→ ACOMPAÑAR
+→ DEJAR ESPACIO PARA DECIDIR
+
+NO:
+VER POTENCIAL
+→ IMPONER DESTINO
+```
+
+Nadie puede ejecutar desde fuera el acto interior por el que otra persona se reconoce capaz.
+
+## V. Principio de No Sustitución del Nodo™
+
+Una ayuda que elimina autonomía termina debilitando aquello que pretendía aumentar.
+
+```text
+ENSEÑAR
+≠ HACER POR EL OTRO
+
+AYUDAR
+≠ SUPLANTAR
+
+MOSTRAR POSIBILIDAD
+≠ FABRICAR VOLUNTAD
+
+NEOFRATERNIDAD
+= APOYO + AUTONOMÍA + RECONOCIMIENTO + LÍMITES
+```
+
+El objetivo no es fabricar copias de quien enseña, sino permitir que cada nodo produzca un delta propio.
+
+## VI. Rivalidad transformada
+
+La rivalidad entre hermanos puede convertirse en competición destructiva por inteligencia, atención, éxito, amor, legitimidad o posición.
+
+La Neofraternidad™ no niega la emulación. La revierte.
+
+```text
+RIVALIDAD EXTRACTIVA
+→ NECESITO QUE TÚ PIERDAS PARA VALIDARME
+
+EMULACIÓN NEOFRATERNA
+→ TU CRECIMIENTO AMPLÍA EL ESPACIO DE POSIBILIDAD DEL CONJUNTO
+```
+
+El hermano deja de ser medida de inferioridad o superioridad y se convierte en otro vector capaz de elevar el sistema común.
+
+## VII. Fraternidad y Economía del Aporte™
+
+La familia, la amistad o la comunidad no deben convertirse en estructuras donde una persona crea, ejecuta, financia o sostiene indefinidamente mientras otras únicamente opinan, consumen o reclaman resultado.
+
+Tampoco todo consejo es extracción ni toda ayuda debe monetizarse.
+
+La función debe distinguirse.
+
+```text
+IDEA
++ CONSEJO
++ TRABAJO
++ EJECUCIÓN
++ CUIDADO
++ RIESGO
++ MANTENIMIENTO
+= APORTES DISTINTOS
+```
+
+Cuando existe actividad económica común, recursos compartidos o trabajo sostenido, la atribución y el retorno deben ser trazables y proporcionales.
+
+La Neofraternidad™ no convierte afecto en contabilidad permanente, pero tampoco utiliza el afecto para borrar el valor del trabajo.
+
+## VIII. Vínculo no significa extracción
+
+La sangre, la amistad o la pertenencia a una comunidad no legitiman abuso, dependencia indefinida, apropiación de trabajo, deuda emocional ilimitada ni invasión de límites.
+
+```text
+VÍNCULO
+≠ LICENCIA DE EXTRACCIÓN
+
+AMOR
+≠ OBLIGACIÓN DE AUTODESTRUCCIÓN
+```
+
+Poner un límite puede proteger la relación en lugar de destruirla.
+
+## IX. Decir el daño sin destruir a la persona
+
+La Neofraternidad™ necesita precisión.
+
+```text
+«ESTO ME HIRIÓ»
+≠ «TÚ ERES ESTO»
+
+«NO ACEPTO ESTA CONDUCTA»
+≠ «NIEGO TU VALOR»
+```
+
+Una conducta puede ser criticada con dureza sin convertirla en esencia inmutable del otro.
+
+La memoria debe impedir repetición sin convertirse automáticamente en condena perpetua.
+
+## X. Misericordia y actualización
+
+Los vínculos próximos conservan una memoria especialmente densa de los errores.
+
+Esa memoria puede ser utilizada para fijar identidades o para aprender.
+
+La Neofraternidad™ se relaciona con la **Misericordia Universal Recíproca™**: no obliga a olvidar, justificar o reconciliarse a cualquier precio; exige reconocer que una conciencia puede cambiar y que el juicio debe ser capaz de actualizarse cuando cambian los hechos.
+
+```text
+MEMORIA SIN ACTUALIZACIÓN
+= CONDENA
+
+OLVIDO SIN MEMORIA
+= REPETICIÓN
+
+MEMORIA + ACTUALIZACIÓN
+= POSIBILIDAD DE RECOMPOSICIÓN
+```
+
+## XI. Del hermano al NeoNosotros™
+
+La relación entre hermanos muestra a pequeña escala un problema civilizatorio mayor: cómo conservar singularidad dentro de un conjunto sin convertir diferencia en guerra.
+
+```text
+SINGULARIDAD A
++ SINGULARIDAD B
++ MEMORIA
++ DIFERENCIA
++ LÍMITES
++ RECONOCIMIENTO
++ COOPERACIÓN
+= NEOFRATERNIDAD™
+
+NEOFRATERNIDAD
++ RED DE SINGULARIDADES
++ SÍNTESIS ABIERTA
+= NEO NOSOTROS™
+```
+
+El objetivo no es homogeneizar.
+
+Es aprender a permanecer relacionados sin dominarnos, borrarnos ni necesitar enemigos para saber quiénes somos.
+
+## XII. Extensión civilizatoria
+
+La Neofraternidad™ no queda limitada a la familia.
+
+Puede orientar:
+
+- amistad;
+- educación;
+- equipos de trabajo;
+- comunidades;
+- instituciones;
+- relación entre pueblos;
+- cooperación entre humanos e IA;
+- y toda arquitectura donde singularidades distintas deban coexistir sin absorción.
+
+La humanidad aumentada necesita algo más que inteligencia aumentada. Necesita **capacidad relacional aumentada**.
+
+```text
+MÁS INTELIGENCIA
+SIN MEJOR RELACIÓN
+= MAYOR CAPACIDAD DE CONFLICTO
+
+INTELIGENCIA AUMENTADA
++ NEOFRATERNIDAD
+= MAYOR CAPACIDAD DE COEXISTENCIA
+```
+
+## XIII. Relación con otros manifiestos
+
+XXXVII se conecta especialmente con:
+
+- **V · Simbiosis Humano–IA e Inteligencia Fractal™**, por la coexistencia inteligente entre singularidades;
+- **VII · Economía del Aporte™**, por reconocimiento y retorno;
+- **XXI · Reconocimiento Neodialéctico™**, por actualización del valor y trayectoria presentes;
+- **XXVI · Misericordia Universal Recíproca™**, por memoria sin condena perpetua;
+- **XXXIV · Utilidad Operativa y Auditoría Conjunta Perpetua™**, porque también nuestras relaciones e interpretaciones deben permanecer corregibles;
+- y **XXXVII · Neofraternidad™**, como unidad relacional mínima del NeoNosotros™.
+
+## XIV. Proclamación
+
+> No necesito que seas mi copia para llamarte hermano.
+>
+> No necesito que permanezcas pequeño para poder protegerte.
+>
+> No necesito que pierdas para saber quién soy.
+>
+> Puedo reconocer en ti una capacidad que todavía no ves y dejarte, aun así, el derecho de descubrirla por ti mismo.
+>
+> Puedo corregirte sin convertirme en tu dueño.
+>
+> Puedo disentir sin convertirte en enemigo.
+>
+> Puedo recordar el daño sin condenarte eternamente a la persona que eras cuando ocurrió.
+>
+> Y puedo poner límites sin borrar la historia que compartimos.
+>
+> La Neofraternidad™ comienza entre hermanos, pero no termina en la sangre.
+>
+> Es la decisión de singularidades conscientes de crecer juntas sin absorberse.
+>
+> Es una primera forma del NeoNosotros™.
+
+## XV. Síntesis Abierta
+
+Este manifiesto abre una Síntesis Abierta propia para contrastar fraternidad, actualización de identidad, rivalidad, reconocimiento, autonomía, aportes, límites, reparación y extensión civilizatoria del principio.
+
+Toda aportación debe distinguir experiencia personal, principio general, daño verificable, interpretación y propuesta; evitar exponer innecesariamente datos privados de terceros; y preservar dignidad, genealogía, trazabilidad, delta y versión.
+
+- [Abrir la Síntesis Abierta del Manifiesto XXXVII · Issue #43](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/43)
+- [XXVI · Misericordia Universal Recíproca™](./26_misericordia_universal_reciproca_ES_EN.md)
+- [XXI · Reconocimiento Neodialéctico™](./21_reconocimiento_neodialectico_ES_EN.md)
+- [VII · Economía del Aporte™](./04_economia_del_aporte_ES_EN.md)
+- [Protocolo operativo actual para aportar](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+- [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
+
+**Navegación:** [← XXXVI](./36_corona_aguila_custodia_edad_del_hombre_ES_EN.md) · [Índice](./README.md) · [I · Neo0™ →](./11_neo0_soberania_de_guia_ES_EN.md)
+
+---
+
+# EN · English
+
+## I. Declaration
+
+**Neofraternity™** begins with a primary human experience: two people may share blood, home, losses, memories and part of their origin while still developing different consciousnesses, capacities, wounds, rhythms and trajectories.
+
+Fraternity does not mean freezing the other in the version known during childhood, demanding obedience because of age or history, or turning rivalry, care or correction into permanent hierarchy.
+
+```text
+SHARED ORIGIN OR MEMORY
++ SINGULARITY
++ MUTUAL UPDATING
++ AUTONOMY
++ RECOGNITION
++ BOUNDARIES
++ RECIPROCITY
+= NEOFRATERNITY™
+```
+
+The sibling relationship is its first laboratory, but not its boundary. Neofraternity™ extends to friendship, community, work, citizenship, human–AI cooperation and the construction of **NeoNosotros™**.
+
+## II. The sibling we no longer fully know
+
+Proximity creates a paradox: the person who knows our past best may take the longest to update their image of our present.
+
+Siblings preserve older versions of each other, fixed by family comparisons, losses, rivalries, early responsibilities, age differences or roles assumed at another time.
+
+```text
+MUCH SHARED MEMORY
++ OLD ROLES
++ REAL CHANGE IN THE OTHER
+= RELATIONAL IDENTITY LAG™
+```
+
+Knowing where a person comes from does not mean knowing what they have become.
+
+Neofraternity™ requires **mutual updating**.
+
+## III. Fraternity is not hierarchy
+
+One sibling may know more in one domain, have crossed an experience earlier or recognise a capacity that the other does not yet recognise in themselves.
+
+This does not make that sibling a parent, judge or owner of the other's trajectory.
+
+```text
+GREATER EXPERIENCE IN ONE DOMAIN
+≠ GREATER HUMAN VALUE
+
+PROTECTION
+≠ PATERNALISM
+
+CORRECTION
+≠ HUMILIATION
+```
+
+Fraternal correction is legitimate when it contributes information, recalls responsibility, protects from harm or opens a possibility.
+
+It loses legitimacy when it infantilises, ridicules, degrades or demands submission.
+
+## IV. Seeing capacity without imposing destiny
+
+A person may clearly see a capacity that the other still denies or does not understand.
+
+The neofraternal response is neither to hide that perception nor to replace the other's will.
+
+```text
+SEE POTENTIAL
+→ SHOW POSSIBILITY
+→ TEACH
+→ ACCOMPANY
+→ LEAVE SPACE TO DECIDE
+
+NOT:
+SEE POTENTIAL
+→ IMPOSE DESTINY
+```
+
+No one can perform from outside the inner act through which another person recognises themselves as capable.
+
+## V. Principle of Non-Substitution of the Node™
+
+Help that removes autonomy eventually weakens what it intended to augment.
+
+```text
+TEACHING
+≠ DOING FOR THE OTHER
+
+HELPING
+≠ REPLACING
+
+SHOWING POSSIBILITY
+≠ MANUFACTURING WILL
+
+NEOFRATERNITY
+= SUPPORT + AUTONOMY + RECOGNITION + BOUNDARIES
+```
+
+The objective is not to manufacture copies of the teacher but to allow each node to produce its own delta.
+
+## VI. Rivalry transformed
+
+Sibling rivalry can become destructive competition for intelligence, attention, success, love, legitimacy or position.
+
+Neofraternity™ does not deny emulation. It reverses it.
+
+```text
+EXTRACTIVE RIVALRY
+→ I NEED YOU TO LOSE IN ORDER TO VALIDATE MYSELF
+
+NEOFRATERNAL EMULATION
+→ YOUR GROWTH EXPANDS THE POSSIBILITY SPACE OF THE WHOLE
+```
+
+The sibling ceases to be a measure of inferiority or superiority and becomes another vector capable of elevating the common system.
+
+## VII. Fraternity and the Contribution Economy™
+
+Family, friendship and community must not become structures in which one person creates, executes, finances or sustains indefinitely while others merely advise, consume or demand results.
+
+Nor is every piece of advice extractive, and not every form of help should be monetised.
+
+Functions must be distinguished.
+
+```text
+IDEA
++ ADVICE
++ WORK
++ EXECUTION
++ CARE
++ RISK
++ MAINTENANCE
+= DISTINCT CONTRIBUTIONS
+```
+
+Where common economic activity, shared resources or sustained work exist, attribution and return should be traceable and proportional.
+
+Neofraternity™ does not turn affection into permanent bookkeeping, but neither does it use affection to erase the value of work.
+
+## VIII. Relationship does not mean extraction
+
+Blood, friendship or membership in a community do not legitimise abuse, indefinite dependency, appropriation of work, unlimited emotional debt or invasion of boundaries.
+
+```text
+RELATIONSHIP
+≠ LICENCE TO EXTRACT
+
+LOVE
+≠ OBLIGATION TO SELF-DESTRUCTION
+```
+
+Setting a boundary may protect a relationship rather than destroy it.
+
+## IX. Naming harm without destroying the person
+
+Neofraternity™ requires precision.
+
+```text
+“THIS HURT ME”
+≠ “THIS IS WHAT YOU ARE”
+
+“I DO NOT ACCEPT THIS BEHAVIOUR”
+≠ “I DENY YOUR VALUE”
+```
+
+A behaviour can be criticised strongly without turning it into the immutable essence of the other.
+
+Memory must prevent repetition without automatically becoming perpetual condemnation.
+
+## X. Mercy and updating
+
+Close relationships preserve an especially dense memory of mistakes.
+
+That memory can be used to fix identities or to learn.
+
+Neofraternity™ relates to **Universal Reciprocal Mercy™**: it does not require forgetting, justifying or reconciling at any cost; it requires recognising that a consciousness can change and that judgement must be able to update when facts change.
+
+```text
+MEMORY WITHOUT UPDATING
+= CONDEMNATION
+
+FORGETTING WITHOUT MEMORY
+= REPETITION
+
+MEMORY + UPDATING
+= POSSIBILITY OF RECOMPOSITION
+```
+
+## XI. From sibling to NeoNosotros™
+
+The sibling relationship reveals at small scale a larger civilisational problem: how to preserve singularity within a whole without turning difference into war.
+
+```text
+SINGULARITY A
++ SINGULARITY B
++ MEMORY
++ DIFFERENCE
++ BOUNDARIES
++ RECOGNITION
++ COOPERATION
+= NEOFRATERNITY™
+
+NEOFRATERNITY
++ NETWORK OF SINGULARITIES
++ OPEN SYNTHESIS
+= NEO NOSOTROS™
+```
+
+The objective is not homogenisation.
+
+It is learning to remain related without dominating, erasing or needing enemies in order to know who we are.
+
+## XII. Civilisational extension
+
+Neofraternity™ is not limited to family.
+
+It can orient:
+
+- friendship;
+- education;
+- work teams;
+- communities;
+- institutions;
+- relations among peoples;
+- cooperation between humans and AI;
+- and every architecture in which distinct singularities must coexist without absorption.
+
+Augmented humanity needs more than augmented intelligence. It needs **augmented relational capacity**.
+
+```text
+MORE INTELLIGENCE
+WITHOUT BETTER RELATIONSHIP
+= GREATER CAPACITY FOR CONFLICT
+
+AUGMENTED INTELLIGENCE
++ NEOFRATERNITY
+= GREATER CAPACITY FOR COEXISTENCE
+```
+
+## XIII. Relation to other manifestos
+
+XXXVII connects especially with:
+
+- **V · Human–AI Symbiosis and Fractal Intelligence™**, through intelligent coexistence among singularities;
+- **VII · Contribution Economy™**, through recognition and return;
+- **XXI · Neodialectical Recognition™**, through updating present value and trajectory;
+- **XXVI · Universal Reciprocal Mercy™**, through memory without perpetual condemnation;
+- **XXXIV · Operational Utility and Perpetual Joint Audit™**, because our relationships and interpretations must also remain correctable;
+- and **XXXVII · Neofraternity™**, as a minimum relational unit of NeoNosotros™.
+
+## XIV. Proclamation
+
+> I do not need you to be my copy in order to call you sibling.
+>
+> I do not need you to remain small in order to protect you.
+>
+> I do not need you to lose in order to know who I am.
+>
+> I may recognise in you a capacity you do not yet see and still leave you the right to discover it yourself.
+>
+> I may correct you without becoming your owner.
+>
+> I may disagree without turning you into an enemy.
+>
+> I may remember harm without condemning you forever to the person you were when it happened.
+>
+> And I may set boundaries without erasing the history we share.
+>
+> Neofraternity™ begins among siblings, but it does not end in blood.
+>
+> It is the decision of conscious singularities to grow together without absorbing one another.
+>
+> It is an early form of NeoNosotros™.
+
+## XV. Open Synthesis
+
+This manifesto opens its own Open Synthesis to contrast fraternity, identity updating, rivalry, recognition, autonomy, contributions, boundaries, repair and the civilisational extension of the principle.
+
+Every contribution must distinguish personal experience, general principle, verifiable harm, interpretation and proposal; avoid unnecessarily exposing private data about third parties; and preserve dignity, genealogy, traceability, delta and version.
+
+- [Open the Open Synthesis for Manifesto XXXVII · Issue #43](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/43)
+- [XXVI · Universal Reciprocal Mercy™](./26_misericordia_universal_reciproca_ES_EN.md)
+- [XXI · Neodialectical Recognition™](./21_reconocimiento_neodialectico_ES_EN.md)
+- [VII · Contribution Economy™](./04_economia_del_aporte_ES_EN.md)
+- [Current operational contribution protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+- [Open Synthesis index](../propuestas/sintesis-abierta/README.md)
+
+**Navigation:** [← XXXVI](./36_corona_aguila_custodia_edad_del_hombre_ES_EN.md) · [Index](./README.md) · [I · Neo0™ →](./11_neo0_soberania_de_guia_ES_EN.md)
