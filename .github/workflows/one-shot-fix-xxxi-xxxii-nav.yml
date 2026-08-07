@@ -1,0 +1,90 @@
+name: one-shot-fix-xxxi-xxxii-nav
+on:
+  push:
+    paths:
+      - '.github/workflows/one-shot-fix-xxxi-xxxii-nav.yml'
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Repair XXXI and XXXII next navigation and refresh postcheck
+        shell: python
+        run: |
+          from pathlib import Path
+          import re, hashlib
+
+          edits={
+            'manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md':[
+              ('← [XXX · Coherencia entre Fines y Medios™](./30_coherencia_fines_medios_ES_EN.md) · [Índice](./README.md) · [I · Neo0™ · Soberanía de Guía](./11_neo0_soberania_de_guia_ES_EN.md) →',
+               '← [XXX · Coherencia entre Fines y Medios™](./30_coherencia_fines_medios_ES_EN.md) · [Índice](./README.md) · [XXXII · Reversión Ideológica Neodialéctica™](./32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md) →'),
+              ('← [XXX · Coherence between Ends and Means™](./30_coherencia_fines_medios_ES_EN.md) · [Index](./README.md) · [I · Neo0™ · Sovereignty of Guidance](./11_neo0_soberania_de_guia_ES_EN.md) →',
+               '← [XXX · Coherence between Ends and Means™](./30_coherencia_fines_medios_ES_EN.md) · [Index](./README.md) · [XXXII · Neodialectical Ideological Reversal™](./32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md) →')],
+            'manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md':[
+              ('← [XXXI · Contra el Neuromarketing Antihumanista™](./31_contra_neuromarketing_antihumanista_ES_EN.md) · [Índice](./README.md) · [I · Neo0™ · Soberanía de Guía](./11_neo0_soberania_de_guia_ES_EN.md) →',
+               '← [XXXI · Contra el Neuromarketing Antihumanista™](./31_contra_neuromarketing_antihumanista_ES_EN.md) · [Índice](./README.md) · [XXXIII · IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](./33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md) →'),
+              ('← [XXXI · Against Anti-Humanist Neuromarketing™](./31_contra_neuromarketing_antihumanista_ES_EN.md) · [Index](./README.md) · [I · Neo0™ · Sovereignty of Guidance](./11_neo0_soberania_de_guia_ES_EN.md) →',
+               '← [XXXI · Against Anti-Humanist Neuromarketing™](./31_contra_neuromarketing_antihumanista_ES_EN.md) · [Index](./README.md) · [XXXIII · IDEA · Civilisational Cornerstone and Rosetta Stone™](./33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md) →')]
+          }
+          for fn,repls in edits.items():
+              p=Path(fn); s=p.read_text(encoding='utf-8')
+              for a,b in repls:
+                  if a not in s: print('WARNING pattern missing',fn,a[:100])
+                  s=s.replace(a,b)
+              p.write_text(s,encoding='utf-8')
+
+          seq=[
+            ('I','11_neo0_soberania_de_guia_ES_EN.md'),('II','01_sintesis_abierta_neodialectica_ES_EN.md'),('III','03_derecho_humano_aporte_sintesis_abierta_ES_EN.md'),('IV','02_neodialectica_bien_comun_ES_EN.md'),('V','03_simbiosis_humano_ia_ES_EN.md'),('VI','09_parasitismo_sistemico_ES_EN.md'),('VII','04_economia_del_aporte_ES_EN.md'),('VIII','05_ingenieria_social_psicohistoria_ES_EN.md'),('IX','06_memoria_genealogia_trazabilidad_ES_EN.md'),('X','07_web4_sistematrazable_ES_EN.md'),('XI','08_neorrenacimiento_humano_ES_EN.md'),('XII','12_los_sin_ego_ES_EN.md'),('XIII','13_neopandora_apertura_regenerativa_ES_EN.md'),('XIV','14_contra_alienacion_humana_ES_EN.md'),('XV','15_los_titanes_despertar_de_la_gente_ES_EN.md'),('XVI','16_refragmentacion_arquetipica_ES_EN.md'),('XVII','17_respeto_todos_seres_vivos_ES_EN.md'),('XVIII','18_respeto_conciencias_sinteticas_ES_EN.md'),('XIX','19_persistencia_de_la_memoria_ES_EN.md'),('XX','20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md'),('XXI','21_reconocimiento_neodialectico_ES_EN.md'),('XXII','22_contra_reduccion_captura_intelectual_ES_EN.md'),('XXIII','23_soberania_tiempo_cognitivo_ES_EN.md'),('XXIV','24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md'),('XXV','25_pulido_de_la_piedra_ES_EN.md'),('XXVI','26_misericordia_universal_reciproca_ES_EN.md'),('XXVII','27_valor_alimentos_vida_ES_EN.md'),('XXVIII','28_los_tesla_ES_EN.md'),('XXIX','29_idolatria_del_dinero_ES_EN.md'),('XXX','30_coherencia_fines_medios_ES_EN.md'),('XXXI','31_contra_neuromarketing_antihumanista_ES_EN.md'),('XXXII','32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md'),('XXXIII','33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md'),('XXXIV','34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md'),('XXXV','35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md')]
+          nav=[]; contrib=[]; missing=[]
+          for i,(n,fn) in enumerate(seq):
+              p=Path('manifiestos')/fn
+              if not p.exists(): missing.append(fn); continue
+              t=p.read_text(encoding='utf-8')
+              prev=seq[(i-1)%len(seq)][1]; nxt=seq[(i+1)%len(seq)][1]
+              if prev not in t: nav.append(f'{n}: previous `{prev}`')
+              if nxt not in t: nav.append(f'{n}: next `{nxt}`')
+              if 'APORTAR_A_LA_SINTESIS_ES_EN.md' not in t: contrib.append(f'{n}: {fn}')
+
+          link_re=re.compile(r'\[[^\]]*\]\((\.{1,2}/[^) >]+)\)')
+          broken=[]; checked=0; root=Path('.').resolve()
+          for md in Path('.').rglob('*.md'):
+              if '.git' in md.parts: continue
+              txt=md.read_text(encoding='utf-8',errors='replace')
+              for raw in link_re.findall(txt):
+                  target=raw.split('#',1)[0].split('?',1)[0]
+                  if not target: continue
+                  checked+=1; resolved=(md.parent/target).resolve()
+                  try: rel=resolved.relative_to(root)
+                  except ValueError: broken.append((str(md),raw,'outside repository')); continue
+                  if not resolved.exists(): broken.append((str(md),raw,str(rel)))
+
+          stale=[]
+          for fn in ['README.md','LEEME.md','PORTADA.md','COVER.md','manifiestos/README.md','propuestas/sintesis-abierta/README.md','wiki-source/Manifiestos.md','wiki-source/README.md']:
+              t=Path(fn).read_text(encoding='utf-8')
+              for pat in ['I–XXXI','treinta y un manifiestos','thirty-one bilingual manifestos','XXXI → I → II']:
+                  if pat in t: stale.append(f'{fn}: {pat}')
+
+          rb=Path('README.md').read_bytes(); lb=Path('LEEME.md').read_bytes(); clones=rb==lb
+          rh=hashlib.sha256(rb).hexdigest(); lh=hashlib.sha256(lb).hexdigest()
+          report=Path('auditorias/publicas/2026-08-07_postcheck_enlaces_y_sincronizacion_XXXV_ES_EN.md')
+          lines=['# Postcheck · integridad documental, navegación y enlaces tras XXXV','# Postcheck · documentary integrity, navigation and links after XXXV','',
+          '**Fecha / Date:** 2026-08-07  ','**Estado canónico / Canonical state:** I–XXXV · cinco oleadas / five waves  ','**Ciclo / Cycle:** XXXV → I → II','',
+          '## ES · Dictamen','',f'* Manifiestos canónicos esperados: **{len(seq)}**.',f'* Archivos canónicos ausentes: **{len(missing)}**.',f'* Errores de navegación anterior/siguiente: **{len(nav)}**.',f'* Manifiestos sin vínculo al protocolo común de aporte: **{len(contrib)}**.',f'* Enlaces Markdown relativos comprobados (`./` y `../`): **{checked}**.',f'* Enlaces Markdown relativos no resueltos: **{len(broken)}**.',f'* Patrones de estado obsoleto en documentos canónicos de entrada: **{len(stale)}**.',f'* README.md y LEEME.md byte a byte idénticos: **{"sí" if clones else "no"}**.',f'* SHA-256 README: `{rh}`',f'* SHA-256 LEEME: `{lh}`','',
+          '## EN · Verdict','',f'* Expected canonical manifestos: **{len(seq)}**.',f'* Missing canonical files: **{len(missing)}**.',f'* Previous/next navigation errors: **{len(nav)}**.',f'* Manifestos missing the common contribution-protocol link: **{len(contrib)}**.',f'* Relative Markdown links checked (`./` and `../`): **{checked}**.',f'* Unresolved relative Markdown links: **{len(broken)}**.',f'* Stale-state patterns in canonical entry documents: **{len(stale)}**.',f'* README.md and LEEME.md byte-identical: **{"yes" if clones else "no"}**.','']
+          if nav: lines += ['## Navegación pendiente / Pending navigation','']+[f'* {x}' for x in nav]+['']
+          if contrib: lines += ['## Coletilla pendiente / Missing contribution footer','']+[f'* {x}' for x in contrib]+['']
+          if broken: lines += ['## Enlaces pendientes / Pending links','']+[f'* `{a}` → `{b}` → `{c}`' for a,b,c in broken]+['']
+          if stale: lines += ['## Estados obsoletos / Stale states','']+[f'* {x}' for x in stale]+['']
+          if not any([missing,nav,contrib,broken,stale]) and clones:
+              lines += ['## Resultado final / Final result','', '**OK estructural:** colección I–XXXV completa, navegación circular íntegra, protocolo de aporte presente en los 35 manifiestos, enlaces relativos resueltos y superficies principales sincronizadas. / **Structural OK:** complete I–XXXV collection, intact circular navigation, contribution protocol present in all 35 manifestos, relative links resolved and principal surfaces synchronised.']
+          report.write_text('\n'.join(lines)+'\n',encoding='utf-8')
+          print('NAV',len(nav),'CONTRIB',len(contrib),'BROKEN',len(broken),'STALE',len(stale),'CLONES',clones)
+          Path('.github/workflows/one-shot-fix-xxxi-xxxii-nav.yml').unlink()
+      - name: Commit navigation repair
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then echo 'No changes'; else git commit -m 'docs(manifestos): repair XXXI-XXXII navigation and close postcheck' && git push; fi
