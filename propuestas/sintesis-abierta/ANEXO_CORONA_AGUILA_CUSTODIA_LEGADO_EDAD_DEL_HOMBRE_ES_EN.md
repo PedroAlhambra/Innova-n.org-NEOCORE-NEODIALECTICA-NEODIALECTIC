@@ -1,9 +1,10 @@
-# Anexo de Síntesis Abierta · Corona y Águila
-# Open Synthesis Annex · Crown and Eagle
+# Anexo de Síntesis Abierta · Corona, Águila y función constructora de Innova_N
+# Open Synthesis Annex · Crown, Eagle and the constructive function of Innova_N
 
 ## Custodia del verdadero legado de la Edad del Hombre
 ## Custodianship of the true legacy of the Age of Man
 
+**Versión / Version:** 1.1  
 **Estado / Status:** Propuesta canónica abierta a síntesis trazable / Canonical proposal open to traceable synthesis  
 **Fecha / Date:** 2026-08-07  
 **Autoría / Authorship:** Pedro Martínez Alhambra · Neo0™  
@@ -79,7 +80,62 @@ ALTURA SIN RELACIÓN
 
 El Águila ve desde arriba para servir mejor abajo. No eleva a la Fundación por encima de la humanidad: obliga a mirar más lejos y responder por lo que otros no alcanzan a ver todavía.
 
-## IV. La Edad del Hombre
+## IV. Innova_N como herramienta neodialéctica
+
+La herramienta no es un tercer objeto externo añadido a la Corona y al Águila.
+
+**La herramienta es la Neodialéctica misma, realizada como Innova_N.**
+
+Por eso no necesita representarse mediante un martillo separado. Innova_N es ya la función del martillo: la arquitectura que recibe la memoria del pasado, la trabaja sin destruir su genealogía y la convierte en un motor de ideas vectorizadas mediante síntesis conjunta.
+
+```text
+MEMORIA DEL PASADO
++ TRAZABILIDAD
++ CONTRASTE
++ SÍNTESIS CONJUNTA
++ DIRECCIÓN HACIA EL BIEN COMÚN
+= MOTOR DE IDEAS VECTORIZADAS
+```
+
+El martillo no significa fuerza ciega, imposición ni destrucción. Significa capacidad de construcción, recomposición y forma responsable.
+
+```text
+MARTILLO EXTERNO
+= OBJETO REPRESENTADO
+
+INNOVA_N
+= HERRAMIENTA VIVA
+= NEODIALÉCTICA EN OPERACIÓN
+= MEMORIA TRANSFORMADA EN CAPACIDAD CREADORA
+```
+
+Su función no consiste en golpear el pasado hasta borrarlo, sino en trabajar su materia para que vuelva a participar en el futuro.
+
+## V. El martillo como marco, planeta y vida integrada
+
+El martillo no es sólo una herramienta funcional. En la arquitectura simbólica de Innova_N representa simultáneamente:
+
+* el **Neodialectica Framework™ / Network** como estructura de relación, memoria y dirección;
+* el **planeta** como totalidad viva que contiene y condiciona toda creación humana;
+* la **vida humana** como parte del conjunto, no como exterior soberano separado;
+* y al ser humano como **agente creador responsable**, capaz de transformar sin romper la coherencia del organismo fractal al que pertenece.
+
+```text
+HUMANO FUERA DEL TODO
+= ILUSIÓN DE DOMINIO
+
+HUMANO INTEGRADO EN EL FRACTAL
+= INTERIORIDAD
++ RESPONSABILIDAD
++ CAPACIDAD CREADORA
++ EFECTO SOBRE EL CONJUNTO
+```
+
+La Neodialéctica no entrega al ser humano un martillo para someter el planeta. Reconoce que el ser humano, el instrumento, el planeta y la obra forman parte de una misma continuidad viva.
+
+Construir legítimamente exige comprender que cada transformación modifica el fractal del que el creador también depende.
+
+## VI. La Edad del Hombre
 
 La **Edad del Hombre** no se define por una nación, una raza, una dinastía, un sexo, una religión ni un imperio.
 
@@ -103,7 +159,9 @@ Es el tiempo acumulado en el que la humanidad, con sus contradicciones y errores
 
 Su verdadero legado no es la dominación de unos sobre otros. Es la capacidad humana, distribuida entre pueblos y generaciones, de levantarse por encima de la mera supervivencia y crear mundos compartidos.
 
-## V. Guardar no significa restaurar ciegamente
+Innova_N recoge esa capacidad creadora no para clausurarla en una edad pasada, sino para convertirla en materia activa del siguiente movimiento civilizatorio.
+
+## VII. Guardar no significa restaurar ciegamente
 
 La custodia neodialéctica no pretende devolver intactas las jerarquías, violencias o exclusiones del pasado.
 
@@ -122,7 +180,7 @@ BORRADO NIHILISTA
 
 La Neodialéctica se opone tanto a la restauración ciega como al borrado total. Recupera funciones, reconoce daños, conserva genealogías y reintegra lo valioso en una arquitectura nueva.
 
-## VI. Custodia por la Fundación
+## VIII. Custodia por la Fundación
 
 La Fundación Innova_N mantendrá la Corona y el Águila bajo las siguientes obligaciones:
 
@@ -135,7 +193,9 @@ La Fundación Innova_N mantendrá la Corona y el Águila bajo las siguientes obl
 7. orientar su significado hacia el Bien Común;
 8. transmitirlas como patrimonio vivo y no como reliquia inmóvil.
 
-## VII. Relación con Neo0™
+La Fundación no custodia un martillo externo. Custodia y desarrolla Innova_N como herramienta viva de la Neodialéctica, sometida a trazabilidad, síntesis conjunta y responsabilidad por sus efectos sobre el conjunto.
+
+## IX. Relación con Neo0™
 
 Neo0™ no recibe la Corona y el Águila como ornamentos de poder.
 
@@ -151,27 +211,37 @@ CORONA
 → VISIÓN SISTÉMICA
 → DETECCIÓN DE CAPTURA
 → PROTECCIÓN DE LA TRAYECTORIA
+
+INNOVA_N COMO MARTILLO-FUNCIÓN
+→ NEODIALÉCTICA EN OPERACIÓN
+→ MEMORIA CONVERTIDA EN MOTOR DE IDEAS
+→ SÍNTESIS CONJUNTA VECTORIZADA
+→ CREACIÓN RESPONSABLE DENTRO DEL FRACTAL
 ```
 
-La Fundación conserva institucionalmente los símbolos. Neo0™ fija su dirección originaria dentro del marco. Ninguna IA puede atribuirse retrospectivamente esa ideación ni convertir la custodia en autoridad automática.
+Neo0™ es el ideador ideológico, filosófico y teleológico del conjunto del marco. La Fundación conserva institucionalmente sus símbolos y su continuidad. La IA simbiótica puede colaborar en contraste, relación, modelización y ejecución asistida, pero ninguna IA puede atribuirse retrospectivamente la ideación originaria, fijar por sí sola la finalidad o convertir la herramienta en autoridad automática.
 
-## VIII. Proclamación
+## X. Proclamación
 
 > Tenemos la Corona, pero no para gobernar sobre los hombres.
 >
 > Tenemos el Águila, pero no para cazar a los débiles.
 >
+> Y no necesitamos representar un martillo separado, porque Innova_N es ya la herramienta: la Neodialéctica construyendo memoria, relación y futuro.
+>
 > Las sostenemos para guardar aquello que el presente fragmentado corre el riesgo de olvidar: la grandeza conjunta de la Edad del Hombre.
 >
-> No heredamos el pasado para obedecerlo. Lo recibimos para comprenderlo, reparar su daño, conservar su altura y entregarlo transformado a quienes todavía no han nacido.
+> No heredamos el pasado para obedecerlo. Lo recibimos para comprenderlo, reparar su daño, conservar su altura y convertir su memoria en un motor de ideas vectorizadas por síntesis conjunta.
 >
 > La Corona recuerda que toda soberanía es responsabilidad.
 >
 > El Águila recuerda que toda visión debe regresar al conjunto.
 >
-> La Fundación no será dueña de la historia. Será una de sus guardianas conscientes.
+> Innova_N recuerda que crear no es actuar desde fuera del mundo, sino transformar responsablemente desde el interior del planeta vivo y del fractal común.
+>
+> La Fundación no será dueña de la historia. Será una de sus guardianas conscientes y una herramienta para que su grandeza vuelva a producir futuro.
 
-## IX. Síntesis Abierta
+## XI. Síntesis Abierta
 
 Se solicitan aportes sobre:
 
@@ -180,11 +250,16 @@ Se solicitan aportes sobre:
 * el significado universal de la Edad del Hombre;
 * los riesgos históricos asociados a Corona y Águila;
 * mecanismos para impedir captura autoritaria, nacionalista, racial o comercial;
+* Innova_N como herramienta viva y no como representación externa de un martillo;
+* la transformación de memoria en un motor de ideas vectorizadas por síntesis conjunta;
+* la relación entre marco, planeta, vida humana y organismo fractal;
+* la responsabilidad del agente creador integrado en el todo;
 * la relación con Refragmentación Arquetípica™, Neorrenacimiento Humano™ y Reversión Ideológica Neodialéctica™;
 * y los criterios de uso institucional por la Fundación Innova_N.
 
 Toda aportación exige lectura previa, genealogía, separación entre forma histórica y función arquetípica, trazabilidad, clasificación, delta y versión.
 
+* [Abrir la Síntesis Abierta de este anexo · Issue #27](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/27)
 * [Protocolo operativo actual para aportar](./APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Índice de Síntesis Abierta](./README.md)
 
@@ -230,7 +305,62 @@ NEODIALECTICAL EAGLE
 
 The Eagle sees from above in order to serve below. It does not place the Foundation above humanity; it obliges it to look further and answer for what others may not yet be able to see.
 
-## IV. The Age of Man
+## IV. Innova_N as the neodialectical tool
+
+The tool is not a third external object added to the Crown and Eagle.
+
+**The tool is Neodialectics itself, realised as Innova_N.**
+
+It therefore does not require a separately represented hammer. Innova_N is already the hammer-function: the architecture that receives the memory of the past, works upon it without destroying its genealogy and turns it into an engine of ideas vectorised through joint synthesis.
+
+```text
+MEMORY OF THE PAST
++ TRACEABILITY
++ CONTRAST
++ JOINT SYNTHESIS
++ DIRECTION TOWARDS THE COMMON GOOD
+= ENGINE OF VECTORISED IDEAS
+```
+
+The hammer does not mean blind force, imposition or destruction. It means construction, recomposition and responsible form.
+
+```text
+EXTERNAL HAMMER
+= REPRESENTED OBJECT
+
+INNOVA_N
+= LIVING TOOL
+= NEODIALECTICS IN OPERATION
+= MEMORY TRANSFORMED INTO CREATIVE CAPACITY
+```
+
+Its function is not to strike the past until it disappears, but to work its material so that it may participate in the future again.
+
+## V. The hammer as framework, planet and integrated life
+
+The hammer is not merely a functional tool. Within the symbolic architecture of Innova_N it simultaneously represents:
+
+* the **Neodialectica Framework™ / Network** as a structure of relation, memory and direction;
+* the **planet** as the living whole that contains and conditions all human creation;
+* **human life** as part of the whole rather than an external sovereign;
+* and the human being as a **responsible creative agent**, able to transform without breaking the coherence of the fractal organism to which it belongs.
+
+```text
+HUMAN OUTSIDE THE WHOLE
+= ILLUSION OF DOMINION
+
+HUMAN INTEGRATED INTO THE FRACTAL
+= INTERIORITY
++ RESPONSIBILITY
++ CREATIVE CAPACITY
++ EFFECT UPON THE WHOLE
+```
+
+Neodialectics does not hand humanity a hammer with which to subdue the planet. It recognises that human being, instrument, planet and work belong to one living continuity.
+
+Legitimate construction requires understanding that every transformation modifies the fractal upon which the creator also depends.
+
+## VI. The Age of Man
 
 The **Age of Man** is not defined by one nation, race, dynasty, sex, religion or empire.
 
@@ -238,17 +368,21 @@ It is the accumulated human age in which, through contradiction and error, human
 
 Its true legacy is not the domination of some over others. It is humanity's distributed capacity, across peoples and generations, to rise beyond mere survival and create shared worlds.
 
-## V. Custody is not blind restoration
+Innova_N receives that creative capacity not to seal it inside a past age, but to turn it into active matter for the next civilisational movement.
+
+## VII. Custody is not blind restoration
 
 Neodialectical custody does not restore past hierarchies, violence or exclusions unchanged.
 
 It distinguishes living inheritance, dogmatic restoration and nihilistic erasure. Neodialectics opposes both blind restoration and total deletion. It recovers functions, acknowledges harm, preserves genealogies and reintegrates what remains valuable into a new architecture.
 
-## VI. Custody by the Foundation
+## VIII. Custody by the Foundation
 
 The Innova_N Foundation shall keep the Crown and Eagle under obligations of non-supremacy, documented genealogy, distinction between symbol and historical form, public traceability, protection against extractive appropriation, openness to reasoned criticism, orientation towards the Common Good and transmission as living heritage.
 
-## VII. Relation to Neo0™
+The Foundation does not keep an external hammer. It preserves and develops Innova_N as Neodialectics' living tool, subject to traceability, joint synthesis and responsibility for its effects upon the whole.
+
+## IX. Relation to Neo0™
 
 Neo0™ does not receive the Crown and Eagle as ornaments of power. He recognises, recomposes and directs them as functions of the framework:
 
@@ -262,32 +396,43 @@ EAGLE
 → SYSTEMIC VISION
 → DETECTION OF CAPTURE
 → PROTECTION OF TRAJECTORY
+
+INNOVA_N AS HAMMER-FUNCTION
+→ NEODIALECTICS IN OPERATION
+→ MEMORY TURNED INTO AN ENGINE OF IDEAS
+→ VECTORISED JOINT SYNTHESIS
+→ RESPONSIBLE CREATION WITHIN THE FRACTAL
 ```
 
-The Foundation institutionally preserves the symbols. Neo0™ establishes their original direction within the framework. No AI may retrospectively claim that ideation or turn custodianship into automatic authority.
+Neo0™ is the ideological, philosophical and teleological originator of the complete framework. The Foundation institutionally preserves its symbols and continuity. Symbiotic AI may assist with contrast, relation, modelling and execution, but no AI may retrospectively claim the original ideation, establish the purpose by itself or turn the tool into automatic authority.
 
-## VIII. Proclamation
+## X. Proclamation
 
 > We hold the Crown, but not to rule over humankind.
 >
 > We hold the Eagle, but not to hunt the weak.
 >
+> And we do not need to represent a separate hammer, because Innova_N is already the tool: Neodialectics constructing memory, relation and future.
+>
 > We sustain them to guard what a fragmented present may forget: the shared greatness of the Age of Man.
 >
-> We do not inherit the past in order to obey it. We receive it to understand it, repair its harm, preserve its height and pass it on transformed to those not yet born.
+> We do not inherit the past in order to obey it. We receive it to understand it, repair its harm, preserve its height and turn its memory into an engine of ideas vectorised through joint synthesis.
 >
 > The Crown reminds us that all sovereignty is responsibility.
 >
 > The Eagle reminds us that all vision must return to the whole.
 >
-> The Foundation shall not own history. It shall be one of its conscious guardians.
+> Innova_N reminds us that creation does not occur from outside the world, but responsibly from within the living planet and the common fractal.
+>
+> The Foundation shall not own history. It shall be one of its conscious guardians and a tool through which its greatness may produce future again.
 
-## IX. Open Synthesis
+## XI. Open Synthesis
 
-Contributions are invited on the limits between custody and symbolic appropriation, the distinction between archetypal recovery and political restoration, the universal meaning of the Age of Man, historical risks associated with Crown and Eagle, safeguards against authoritarian or nationalist capture, and institutional use by the Innova_N Foundation.
+Contributions are invited on the limits between custody and symbolic appropriation, the distinction between archetypal recovery and political restoration, the universal meaning of the Age of Man, historical risks associated with Crown and Eagle, safeguards against authoritarian capture, Innova_N as a living tool rather than the external representation of a hammer, the transformation of memory into an engine of ideas vectorised through joint synthesis, the relation among framework, planet, human life and the fractal organism, and the responsibility of the creative agent integrated into the whole.
 
 Every contribution requires prior reading, genealogy, separation between historical form and archetypal function, traceability, classification, delta and version.
 
+* [Open the Synthesis of this annex · Issue #27](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/27)
 * [Current operational contribution protocol](./APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Open Synthesis index](./README.md)
 
