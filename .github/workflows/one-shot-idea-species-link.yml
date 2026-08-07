@@ -1,0 +1,53 @@
+name: one-shot-idea-species-link
+on:
+  push:
+    paths:
+      - '.github/workflows/one-shot-idea-species-link.yml'
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Link Starkdr-Gritax reading guide from IDEA node
+        shell: python
+        run: |
+          from pathlib import Path
+          p=Path('obras/idea/README.md')
+          s=p.read_text(encoding='utf-8')
+          es_marker='Actualmente funciona como puerta de entrada narrativa a la Neodialéctica, sin alterar su cronología ni convertir retrospectivamente la obra en producto del marco posterior.\n'
+          es_add='''\n\n### Starkdr, Gritax y la guerra-motor\n\nLa historia de las especies Starkdr y Gritax contiene una de las arquitecturas centrales de *IDEA*: conflicto, inteligencia artificial, control, simbiosis, autoselección y el descubrimiento de que incluso quien cree dirigir un sistema puede estar siendo dirigido por él.\n\n* [Historia de las especies · Starkdr, Gritax, guerra-motor y continuidad de la segunda parte](./STARKDR_GRITAX_HISTORIA_DE_LAS_ESPECIES_Y_CONTINUIDAD_ES_EN.md)\n* [Leer IDEA · edición en castellano](https://www.amazon.es/dp/B0HBRQGNQL)\n\nLa guía distingue el contenido de la novela 1997–2002 de la lectura y continuidad autoral declaradas en 2026.\n'''
+          en_marker='It now functions as a narrative gateway into Neodialectics without altering its chronology or retrospectively turning the work into a product of the later framework.\n'
+          en_add='''\n\n### Starkdr, Gritax and the motor-war\n\nThe history of the Starkdr and Gritax species contains one of *IDEA*'s central architectures: conflict, artificial intelligence, control, symbiosis, self-selection and the discovery that even those who believe they direct a system may themselves be directed by it.\n\n* [History of the species · Starkdr, Gritax, motor-war and second-part continuity](./STARKDR_GRITAX_HISTORIA_DE_LAS_ESPECIES_Y_CONTINUIDAD_ES_EN.md)\n* [Read IDEA · Spanish edition](https://www.amazon.es/dp/B0HBRQGNQL)\n\nThe guide distinguishes the 1997–2002 novel from the authorial reading and continuity declared in 2026.\n'''
+          if '### Starkdr, Gritax y la guerra-motor' not in s:
+              if es_marker not in s: raise SystemExit('ES marker not found')
+              s=s.replace(es_marker,es_marker+es_add,1)
+          if '### Starkdr, Gritax and the motor-war' not in s:
+              if en_marker not in s: raise SystemExit('EN marker not found')
+              s=s.replace(en_marker,en_marker+en_add,1)
+          # Add guide to canonical public links in both languages.
+          es_link='* [Historia de las especies Starkdr–Gritax y continuidad](./STARKDR_GRITAX_HISTORIA_DE_LAS_ESPECIES_Y_CONTINUIDAD_ES_EN.md)\n'
+          en_link='* [Starkdr–Gritax species history and continuity](./STARKDR_GRITAX_HISTORIA_DE_LAS_ESPECIES_Y_CONTINUIDAD_ES_EN.md)\n'
+          es_anchor='* [Kit público ES/EN](./PRESS_KIT_ES_EN.md)\n'
+          if es_link not in s and es_anchor in s:
+              s=s.replace(es_anchor,es_anchor+es_link,1)
+          # replace only the second occurrence in English area by locating EN section first
+          en_start=s.find('## EN · The work')
+          if en_start!=-1:
+              tail=s[en_start:]
+              if en_link not in tail and es_anchor in tail:
+                  tail=tail.replace(es_anchor,es_anchor+en_link,1)
+                  s=s[:en_start]+tail
+          p.write_text(s,encoding='utf-8')
+      - name: Remove one-shot workflow
+        shell: bash
+        run: rm .github/workflows/one-shot-idea-species-link.yml
+      - name: Commit
+        shell: bash
+        run: |
+          git config user.name "Innova_N automation"
+          git config user.email "actions@users.noreply.github.com"
+          git add obras/idea/README.md .github/workflows/one-shot-idea-species-link.yml
+          git commit -m "docs(idea): link species history and second-part continuity" || exit 0
+          git push
