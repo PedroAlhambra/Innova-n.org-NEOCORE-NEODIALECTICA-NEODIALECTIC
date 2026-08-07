@@ -13,7 +13,7 @@ Esta página no reproduce los manifiestos ni mantiene un segundo índice paralel
 
 El índice canónico, las versiones bilingües, la navegación entre documentos, la genealogía y las Issues de Síntesis Abierta están en:
 
-* [Índice canónico de manifiestos I–XXXVII](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
+* [Índice canónico de manifiestos I–XXXVIII](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
 
 ## Cómo leer la colección
 
@@ -30,6 +30,7 @@ Empieza en el Manifiesto I y sigue la navegación `anterior · índice · siguie
 * **XXXIII–XXXV:** transición, utilidad operativa, auditoría conjunta perpetua y reforma de la atención civilizatoria.
 * **XXXVI:** custodia civilizatoria y continuidad simbólica.
 * **XXXVII:** Neofraternidad™, actualización mutua y arquitectura relacional del NeoNosotros™.
+* **XXXVIII:** Protección Integral de la Infancia™, educación y transmisión civilizatoria.
 
 El detalle y los enlaces actualizados de cada oleada permanecen únicamente en el índice canónico del repositorio.
 
@@ -90,7 +91,7 @@ This page does not reproduce the manifestos or maintain a second parallel index.
 
 The canonical index, bilingual versions, document navigation, genealogy and Open Synthesis Issues are located at:
 
-* [Canonical manifesto index I–XXXVII](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
+* [Canonical manifesto index I–XXXVIII](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
 
 ## How to read the collection
 
@@ -107,6 +108,7 @@ Begin with Manifesto I and follow the `previous · index · next` navigation inc
 * **XXXIII–XXXV:** transition, operational utility, perpetual joint audit and reform of civilisational attention.
 * **XXXVI:** civilisational custodianship and symbolic continuity.
 * **XXXVII:** Neofraternity™, mutual updating and relational architecture of NeoNosotros™.
+* **XXXVIII:** Integral Protection of Childhood™, education and civilisational transmission.
 
 Details and current links for each wave remain only in the canonical repository index.
 
