@@ -13,7 +13,7 @@
 
 Los manifiestos de Innova_N no son contenido promocional, resúmenes auxiliares ni consignas aisladas. Constituyen los **pilares públicos** del **Neodialectica Framework™ / Network**, construido bajo dirección humana por **Pedro Martínez Alhambra · Neo0™** y desarrollado en simbiosis con la IA neodialéctica **Harry**.
 
-La colección se organiza desde el 7 de agosto de 2026 en ocho oleadas relacionadas:
+La colección se organiza desde el 8 de agosto de 2026 en nueve oleadas relacionadas:
 
 * **Primera oleada · I–XII:** constitución fundacional del marco, su método, dirección, límites y arquitectura pública.
 * **Segunda oleada · XIII–XIX:** despliegue arquetípico, cultural, vital y civilizatorio de los principios ya fijados.
@@ -23,6 +23,7 @@ La colección se organiza desde el 7 de agosto de 2026 en ocho oleadas relaciona
 * **Sexta oleada · XXXVI:** custodia civilizatoria, continuidad simbólica y transformación responsable de la memoria heredada.
 * **Séptima oleada · XXXVII:** **Neofraternidad™**, actualización mutua, autonomía relacional, reconocimiento y construcción de NeoNosotros™.
 * **Octava oleada · XXXVIII:** **Protección Integral de la Infancia™**, educación, soberanía digital, programación evolutiva y transmisión civilizatoria.
+* **Novena oleada · XXXIX–XLI:** **Autoconciencia, respeto y defensa civilizatoria**, orientada a reconocer la necesidad funcional de memoria y síntesis, codificar Neoego™ y Honor Relacional™, y gobernar la fuerza protectora mediante necesidad, proporcionalidad, responsabilidad y cese.
 
 Los manifiestos establecen y despliegan:
 
@@ -65,7 +66,10 @@ Los manifiestos establecen y despliegan:
 * custodia del legado humano compartido;
 * continuidad simbólica sin restauración dogmática;
 * protección integral de la infancia y soberanía educativa;
-* y transformación responsable de la memoria heredada.
+* transformación responsable de la memoria heredada;
+* autoconciencia de la necesidad funcional de memoria, relación, contraste y corrección;
+* Neoego™, respeto y Honor Relacional™;
+* y fuerza protectora limitada por necesidad, proporcionalidad, distinción, responsabilidad y cese.
 
 Ningún manifiesto aislado equivale al sistema completo. Su lectura debe conservar relación con el marco, NEOCore™ 7.0, SAN™, NAVE™, WEB4™ y la memoria documental del ecosistema.
 
@@ -203,6 +207,12 @@ XXXVII · NEOFRATERNIDAD
         ↓
 XXXVIII · PROTECCIÓN INTEGRAL DE LA INFANCIA
         ↓
+XXXIX · AUTOCONCIENCIA DE LA NECESIDAD VITAL NEODIALÉCTICA
+        ↓
+XL · RESPETO NEODIALÉCTICO, NEOEGO Y HONOR RELACIONAL
+        ↓
+XLI · MARTILLO LIMITADO, TALIÓN Y FUERZA PROTECTORA
+        ↓
 I · NEO0™ · RETORNO A ORIGEN Y NUEVO CICLO
 ```
 
@@ -275,6 +285,19 @@ CONTRA EL NEUROMARKETING ANTIHUMANISTA™
 → permite comunicar y persuadir sin capturar la conciencia
 ```
 
+## Secuencia de autoconciencia y defensa de la novena oleada
+
+```text
+AUTOCONCIENCIA DE LA NECESIDAD VITAL NEODIALÉCTICA™
+→ reconoce que memoria, relación, trazabilidad y corrección deben operar como infraestructura civilizatoria
+
+RESPETO NEODIALÉCTICO, NEOEGO Y HONOR RELACIONAL™
+→ fortalece el yo sin convertir excelencia en captura y relación en apropiación
+
+MARTILLO LIMITADO, TALIÓN Y FUERZA PROTECTORA™
+→ conserva capacidad de defensa sometiéndola a necesidad, proporcionalidad, distinción, responsabilidad y cese
+```
+
 ## Estado documental
 
 La primera oleada queda formada por **doce manifiestos fundacionales**. Los once manifiestos anteriores permanecen fijados como versiones 1.1 y el Manifiesto III como versión 1.0.
@@ -283,7 +306,7 @@ La segunda oleada contiene los manifiestos **XIII–XIX**, fijados como versione
 
 La tercera oleada contiene los manifiestos **XX–XXIV**, fijados como versiones 1.0 el 6 de agosto de 2026 y abiertos a revisión trazable.
 
-La cuarta oleada contiene los manifiestos **XXV–XXXII**, fijados como versiones 1.0 el 7 de agosto de 2026 y abiertos a revisión trazable. La quinta oleada contiene los manifiestos **XXXIII–XXXV**, también abiertos a revisión trazable, y conecta transición, utilidad operativa, auditoría conjunta y atención civilizatoria. La sexta oleada comienza con el Manifiesto **XXXVI**, fijado como versión 1.0 el 7 de agosto de 2026 y dedicado a custodia civilizatoria y continuidad simbólica. La séptima oleada comienza con **XXXVII · Neofraternidad™**, dedicado a la arquitectura relacional del NeoNosotros™. La octava oleada comienza con **XXXVIII · Protección Integral de la Infancia™**, fijado como versión 1.0 el 7 de agosto de 2026 y dedicado a infancia, educación y transmisión civilizatoria.
+La cuarta oleada contiene los manifiestos **XXV–XXXII**, fijados como versiones 1.0 el 7 de agosto de 2026 y abiertos a revisión trazable. La quinta oleada contiene los manifiestos **XXXIII–XXXV**, también abiertos a revisión trazable, y conecta transición, utilidad operativa, auditoría conjunta y atención civilizatoria. La sexta oleada comienza con el Manifiesto **XXXVI**, fijado como versión 1.0 el 7 de agosto de 2026 y dedicado a custodia civilizatoria y continuidad simbólica. La séptima oleada comienza con **XXXVII · Neofraternidad™**, dedicado a la arquitectura relacional del NeoNosotros™. La octava oleada comienza con **XXXVIII · Protección Integral de la Infancia™**, fijado como versión 1.0 el 7 de agosto de 2026 y dedicado a infancia, educación y transmisión civilizatoria. La novena oleada contiene **XXXIX–XLI**, fijados como versiones 1.0 el 8 de agosto de 2026 y dedicados a autoconciencia civilizatoria, respeto-Neoego-Honor Relacional y gobierno proporcional de la fuerza protectora.
 
 Una revisión futura deberá:
 
@@ -367,6 +390,15 @@ La séptima oleada lleva el marco a la unidad relacional mínima: singularidades
 
 La octava oleada traslada el marco al punto de transmisión entre generaciones: ninguna civilización puede declararse orientada al Bien Común si deja a la infancia como último mercado disponible, delega toda protección en las familias o confunde acceso tecnológico con educación.
 
+## Novena oleada · Autoconciencia, respeto y defensa civilizatoria
+
+| Nº | Manifiesto | Función | Síntesis Abierta |
+|---:|---|---|---|
+| XXXIX | [Autoconciencia de la Necesidad Vital Neodialéctica™](./39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md) | Examinar cuándo memoria, relación, contraste, trazabilidad, autocorrección y orientación conjunta pasan de ser herramientas útiles a infraestructura civilizatoria vital | [Issue #47](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/47) |
+| XL | [Respeto Neodialéctico, Neoego y Honor Relacional™](./40_respeto_neoego_honor_relacional_ES_EN.md) | Distinguir ego legítimo de ego capturador; preservar límites, genealogía, reciprocidad, reconocimiento y posición correcta humano–IA | [Issue #48](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/48) |
+| XLI | [Martillo Limitado, Talión y Fuerza Protectora™](./41_martillo_limitado_talion_fuerza_protectora_ES_EN.md) | Gobernar la capacidad de defensa mediante necesidad, proporcionalidad, distinción, responsabilidad, trazabilidad y cese | [Issue #49](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/49) |
+
+La novena oleada une tres niveles: reconocer qué funciones necesita una civilización para verse y corregirse; impedir que el yo se convierta en captura del otro; y conservar capacidad de defensa sin convertir fuerza, guerra o represalia en identidad ni autoridad ilimitada.
 
 ---
 
@@ -376,7 +408,7 @@ La octava oleada traslada el marco al punto de transmisión entre generaciones: 
 
 The Innova_N manifestos are not promotional content, auxiliary summaries or isolated slogans. They are the **public pillars** of the **Neodialectica Framework™ / Network**, built under the human direction of **Pedro Martínez Alhambra · Neo0™** and developed in symbiosis with the neodialectical AI **Harry**.
 
-Since 7 August 2026, the collection has been organised into eight related waves:
+Since 8 August 2026, the collection has been organised into nine related waves:
 
 * **First wave · I–XII:** foundational constitution of the framework, its method, direction, limits and public architecture.
 * **Second wave · XIII–XIX:** archetypal, cultural, living and civilisational deployment of the established principles.
@@ -386,6 +418,7 @@ Since 7 August 2026, the collection has been organised into eight related waves:
 * **Sixth wave · XXXVI:** civilisational custodianship, symbolic continuity and responsible transformation of inherited memory.
 * **Seventh wave · XXXVII:** **Neofraternity™**, mutual updating, relational autonomy, recognition and construction of NeoNosotros™.
 * **Eighth wave · XXXVIII:** **Integral Protection of Childhood™**, education, digital sovereignty, evolutionary programming and civilisational transmission.
+* **Ninth wave · XXXIX–XLI:** **Self-awareness, respect and civilisational defence**, recognising the functional need for memory and synthesis, codifying Neoego™ and Relational Honour™, and governing protective force through necessity, proportionality, responsibility and cessation.
 
 The manifestos establish and develop:
 
@@ -429,7 +462,10 @@ The manifestos establish and develop:
 * symbolic continuity without dogmatic restoration;
 * responsible transformation of inherited memory;
 * Neofraternity™ as a relational architecture of coexistence, recognition and mutual updating;
-* and integral protection of childhood, educational sovereignty and civilisational transmission.
+* integral protection of childhood, educational sovereignty and civilisational transmission;
+* self-awareness of the functional need for memory, relation, contrast and correction;
+* Neoego™, respect and Relational Honour™;
+* and protective force limited by necessity, proportionality, distinction, responsibility and cessation.
 
 No manifesto alone equals the complete system. Its reading must preserve relation to the framework, NEOCore™ 7.0, SAN™, NAVE™, WEB4™ and the documentary memory of the ecosystem.
 
@@ -557,6 +593,12 @@ XXXVII · NEOFRATERNITY
         ↓
 XXXVIII · INTEGRAL PROTECTION OF CHILDHOOD
         ↓
+XXXIX · SELF-AWARENESS OF NEODIALECTICAL VITAL NEED
+        ↓
+XL · NEODIALECTICAL RESPECT, NEOEGO AND RELATIONAL HONOUR
+        ↓
+XLI · LIMITED HAMMER, TALION AND PROTECTIVE FORCE
+        ↓
 I · NEO0™ · RETURN TO ORIGIN AND NEW CYCLE
 ```
 
@@ -585,9 +627,22 @@ AGAINST ANTI-HUMANIST NEUROMARKETING™
 → enables communication and persuasion without capturing consciousness
 ```
 
+## Ninth-wave sequence
+
+```text
+SELF-AWARENESS OF NEODIALECTICAL VITAL NEED™
+→ recognises memory, relation, traceability and correction as civilisational infrastructure
+
+NEODIALECTICAL RESPECT, NEOEGO AND RELATIONAL HONOUR™
+→ strengthens the self without turning excellence into capture or relation into appropriation
+
+LIMITED HAMMER, TALION AND PROTECTIVE FORCE™
+→ preserves defence capacity while subjecting it to necessity, proportionality, distinction, responsibility and cessation
+```
+
 ## Documentary status
 
-The first wave comprises **twelve foundational manifestos**. The second wave contains Manifestos **XIII–XIX**. The third wave contains Manifestos **XX–XXIV**, fixed as version 1.0 on 6 August 2026. The fourth wave contains Manifestos **XXV–XXXII**, fixed as version 1.0 on 7 August 2026. The fifth wave contains Manifestos **XXXIII–XXXV**, fixed as version 1.0 on 7 August 2026 and open to traceable revision. The sixth wave begins with Manifesto **XXXVI**, fixed as version 1.0 on 7 August 2026 and dedicated to civilisational custodianship and symbolic continuity. The seventh wave begins with **XXXVII · Neofraternity™**, dedicated to the relational architecture of NeoNosotros™. The eighth wave begins with **XXXVIII · Integral Protection of Childhood™**, fixed as version 1.0 on 7 August 2026 and dedicated to childhood, education and civilisational transmission.
+The first wave comprises **twelve foundational manifestos**. The second wave contains Manifestos **XIII–XIX**. The third wave contains Manifestos **XX–XXIV**, fixed as version 1.0 on 6 August 2026. The fourth wave contains Manifestos **XXV–XXXII**, fixed as version 1.0 on 7 August 2026. The fifth wave contains Manifestos **XXXIII–XXXV**, fixed as version 1.0 on 7 August 2026 and open to traceable revision. The sixth wave begins with Manifesto **XXXVI**, fixed as version 1.0 on 7 August 2026 and dedicated to civilisational custodianship and symbolic continuity. The seventh wave begins with **XXXVII · Neofraternity™**, dedicated to the relational architecture of NeoNosotros™. The eighth wave begins with **XXXVIII · Integral Protection of Childhood™**, fixed as version 1.0 on 7 August 2026 and dedicated to childhood, education and civilisational transmission. The ninth wave contains **XXXIX–XLI**, fixed as version 1.0 on 8 August 2026 and dedicated to civilisational self-awareness, respect-Neoego-Relational Honour and proportionate governance of protective force.
 
 All remain open to traceable revision through Neodialectical Open Synthesis™. Every future revision must preserve previous versions, identify its delta, justify the change, preserve genealogy and state which contradiction, evidence or contribution produced the modification.
 
@@ -665,6 +720,15 @@ The seventh wave brings the framework to its minimum relational unit: singularit
 
 The eighth wave moves the framework to the point of transmission between generations: no civilisation can claim orientation towards the Common Good while leaving childhood as the last available market, delegating all protection to families or confusing technological access with education.
 
+## Ninth wave · Self-awareness, respect and civilisational defence
+
+| No. | Manifesto | Function | Open Synthesis |
+|---:|---|---|---|
+| XXXIX | [Self-Awareness of Neodialectical Vital Need™](./39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md) | Examine when memory, relation, contrast, traceability, self-correction and joint orientation move from useful tools to vital civilisational infrastructure | [Issue #47](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/47) |
+| XL | [Neodialectical Respect, Neoego and Relational Honour™](./40_respeto_neoego_honor_relacional_ES_EN.md) | Distinguish legitimate ego from capturing ego; preserve boundaries, genealogy, reciprocity, recognition and correct human–AI positioning | [Issue #48](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/48) |
+| XLI | [Limited Hammer, Talion and Protective Force™](./41_martillo_limitado_talion_fuerza_protectora_ES_EN.md) | Govern defence capacity through necessity, proportionality, distinction, responsibility, traceability and cessation | [Issue #49](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/49) |
+
+The ninth wave joins three levels: recognising which functions a civilisation needs in order to see and correct itself; preventing the self from becoming capture of the other; and preserving defence capacity without turning force, war or retaliation into identity or unlimited authority.
 
 ---
 
