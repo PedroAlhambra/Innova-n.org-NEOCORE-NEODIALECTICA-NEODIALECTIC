@@ -343,7 +343,7 @@ Toda aportación exige lectura previa, retorno a fuente, continuidad cognitiva, 
 
 ## Navegación
 
-← [XXXI · Contra el Neuromarketing Antihumanista™](./31_contra_neuromarketing_antihumanista_ES_EN.md) · [Índice](./README.md) · [I · Neo0™ · Soberanía de Guía](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XXXI · Contra el Neuromarketing Antihumanista™](./31_contra_neuromarketing_antihumanista_ES_EN.md) · [Índice](./README.md) · [XXXIII · IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](./33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md) →
 
 ---
 
@@ -592,7 +592,7 @@ Every contribution requires prior reading, return to source, cognitive continuit
 
 ## Navigation
 
-← [XXXI · Against Anti-Humanist Neuromarketing™](./31_contra_neuromarketing_antihumanista_ES_EN.md) · [Index](./README.md) · [I · Neo0™ · Sovereignty of Guidance](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XXXI · Against Anti-Humanist Neuromarketing™](./31_contra_neuromarketing_antihumanista_ES_EN.md) · [Index](./README.md) · [XXXIII · IDEA · Civilisational Cornerstone and Rosetta Stone™](./33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md) →
 
 ---
 

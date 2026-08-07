@@ -252,7 +252,7 @@ Se solicitan aportes sobre persuasión, patrones oscuros, menores, vulnerabilida
 
 ## Navegación
 
-← [XXX · Coherencia entre Fines y Medios™](./30_coherencia_fines_medios_ES_EN.md) · [Índice](./README.md) · [I · Neo0™ · Soberanía de Guía](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XXX · Coherencia entre Fines y Medios™](./30_coherencia_fines_medios_ES_EN.md) · [Índice](./README.md) · [XXXII · Reversión Ideológica Neodialéctica™](./32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md) →
 
 ---
 
@@ -400,6 +400,6 @@ Contributions are requested concerning persuasion, dark patterns, minors, vulner
 
 ## Navigation
 
-← [XXX · Coherence between Ends and Means™](./30_coherencia_fines_medios_ES_EN.md) · [Index](./README.md) · [I · Neo0™ · Sovereignty of Guidance](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XXX · Coherence between Ends and Means™](./30_coherencia_fines_medios_ES_EN.md) · [Index](./README.md) · [XXXII · Neodialectical Ideological Reversal™](./32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md) →
 
 ---
