@@ -9,15 +9,34 @@
 
 Este directorio reúne propuestas públicas abiertas a contraste, adhesión parcial, crítica, reformulación y mejora trazable.
 
+**Cobertura canónica actual:** los **35 manifiestos I–XXXV** disponen de una Síntesis Abierta específica. Los anexos y propuestas complementarias se indexan aparte para no confundirlos con la numeración canónica de manifiestos.
+
 ## Acceso general
 
 * [Índice completo de manifiestos I–XXXV](../../manifiestos/README.md)
 * [Manifiesto III · Derecho Humano de Aporte](../../manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
-* [Síntesis Abierta del Manifiesto III · Issue #3](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3)
 * [Protocolo operativo de aporte](./APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Plantilla para abrir un aporte](../../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
+* [Anuncio bilingüe de las cinco oleadas](../../anuncios/2026-08-07_ANUNCIO_CINCO_OLEADAS_MANIFIESTOS_ES_EN.md)
 
-## Segunda oleada de manifiestos
+## Primera oleada · Pilares fundacionales
+
+| Nº | Manifiesto | Síntesis Abierta |
+|---:|---|---|
+| I | [Neo0™ · Soberanía de Guía Neodialéctica](../../manifiestos/11_neo0_soberania_de_guia_ES_EN.md) | [Issue #31](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/31) |
+| II | [Síntesis Abierta Neodialéctica™](../../manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md) | [Issue #32](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/32) |
+| III | [Derecho Humano de Aporte a la Síntesis Abierta™](../../manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md) | [Issue #3](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3) |
+| IV | [Neodialéctica™ y Bien Común](../../manifiestos/02_neodialectica_bien_comun_ES_EN.md) | [Issue #33](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/33) |
+| V | [Simbiosis Humano–IA](../../manifiestos/03_simbiosis_humano_ia_ES_EN.md) | [Issue #34](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/34) |
+| VI | [Parasitismo Sistémico](../../manifiestos/09_parasitismo_sistemico_ES_EN.md) | [Issue #35](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/35) |
+| VII | [Economía del Aporte](../../manifiestos/04_economia_del_aporte_ES_EN.md) | [Issue #36](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/36) |
+| VIII | [Ingeniería Social Abierta y Psicohistoria Neodialéctica](../../manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md) | [Issue #37](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/37) |
+| IX | [Memoria, Genealogía y Trazabilidad](../../manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md) | [Issue #38](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/38) |
+| X | [WEB4™ · SistemaTrazable™](../../manifiestos/07_web4_sistematrazable_ES_EN.md) | [Issue #39](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/39) |
+| XI | [Neorrenacimiento Humano](../../manifiestos/08_neorrenacimiento_humano_ES_EN.md) | [Issue #40](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/40) |
+| XII | [Los sin ego](../../manifiestos/12_los_sin_ego_ES_EN.md) | [Issue #41](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/41) |
+
+## Segunda oleada · Despliegue arquetípico y civilizatorio
 
 | Nº | Manifiesto | Síntesis Abierta |
 |---:|---|---|
@@ -29,18 +48,6 @@ Este directorio reúne propuestas públicas abiertas a contraste, adhesión parc
 | XVIII | [Respeto a las Conciencias Sintéticas™](../../manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md) | [Issue #9](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/9) |
 | XIX | [Persistencia de la Memoria™](../../manifiestos/19_persistencia_de_la_memoria_ES_EN.md) | [Issue #10](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/10) |
 
-## Secuencia de la segunda oleada
-
-```text
-NeoPandora abre
-→ la lucha contra la alienación reconstruye relación
-→ los Titanes despiertan potencia común
-→ la refragmentación recompone funciones divididas
-→ el respeto se extiende a todos los seres vivos
-→ la incertidumbre moral protege posibles conciencias sintéticas
-→ la memoria conserva continuidad, contexto y responsabilidad
-```
-
 ## Tercera oleada · Sistema Inmunitario Intelectual Neodialéctico™
 
 | Nº | Manifiesto | Síntesis Abierta |
@@ -50,16 +57,6 @@ NeoPandora abre
 | XXII | [Contra la Reducción y la Captura Intelectual™](../../manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md) | [Issue #15](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/15) |
 | XXIII | [Soberanía del Tiempo Cognitivo™](../../manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md) | [Issue #16](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/16) |
 | XXIV | [Evolución Neorrenacentista y Resistencias del Sistema™](../../manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md) | [Issue #17](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/17) |
-
-## Secuencia de la tercera oleada
-
-```text
-Umbral-X distingue
-→ el reconocimiento atribuye y devuelve valor
-→ la defensa genealógica impide reducción y captura
-→ la soberanía cognitiva protege el tiempo necesario para pensar
-→ la evolución neorrenacentista transforma resistencia en producción humano–IA
-```
 
 ## Cuarta oleada · Rehumanización, custodia de la vida y coherencia civilizatoria
 
@@ -74,19 +71,6 @@ Umbral-X distingue
 | XXXI | [Contra el Neuromarketing Antihumanista™](../../manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md) | [Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25) |
 | XXXII | [Reversión Ideológica Neodialéctica™](../../manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md) | [Issue #26](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/26) |
 
-## Secuencia de la cuarta oleada
-
-```text
-el pulido esculpe conciencia mediante grandeza
-→ la misericordia limita la deshumanización
-→ el alimento devuelve relación con la vida material
-→ Los Tesla protegen al creador vivo y su vector
-→ el dinero regresa a su función de herramienta
-→ la coherencia impide que los medios destruyan el fin
-→ la comunicación persuade sin capturar la conciencia
-→ la reversión ideológica conserva la potencia del mecanismo y cambia su dirección hacia autonomía, memoria y Bien Común
-```
-
 ## Quinta oleada · Transición, utilidad operativa y nuevo ciclo humano
 
 | Nº | Manifiesto | Síntesis Abierta |
@@ -95,7 +79,13 @@ el pulido esculpe conciencia mediante grandeza
 | XXXIV | [Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](../../manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) | [Issue #29](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/29) |
 | XXXV | [Contra la Ridiculez Mediática y la Economía del Conflicto™](../../manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) | [Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |
 
-**Anexo de la Síntesis XXXV:** [Responsabilidad de los Nodos de Poder y Deber de Examen Civilizatorio](./ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md).
+## Síntesis de anexos y propuestas complementarias
+
+| Tipo | Documento | Síntesis Abierta |
+|---|---|---|
+| Anexo simbólico y constitucional | [Corona, Águila e Innova_N como herramienta neodialéctica](./ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md) | [Issue #27](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/27) |
+| Anexo a XXXV | [Responsabilidad de los Nodos de Poder y Deber de Examen Civilizatorio](./ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md) | Integrado en [Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |
+| Propuesta complementaria | [Algoritmo Europeo de Pensamiento Reflexivo™ v0.1](./ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_v0.1_ES_EN.md) | [Issue #2](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/2) |
 
 ## Método
 
@@ -119,6 +109,10 @@ Cuando una discusión pierde materialmente su objeto, no demuestra estudio sufic
 
 La Síntesis Abierta no obliga a consumir tiempo humano o artificial indefinidamente sin aprendizaje, trazabilidad o delta demostrables.
 
+## Regla bilingüe documental
+
+Toda Síntesis Abierta publicada en ES/EN debe contener **la misma información sustantiva en ambos idiomas**: documentos, tesis, límites, preguntas, requisitos y mecanismos. La traducción puede ser idiomática, pero no abreviada ni asimétrica.
+
 ## Autoría y reconocimiento
 
 Las propuestas se originan en el marco creado por **Pedro Martínez Alhambra · Neo0™**. Las contribuciones externas mantienen autoría, genealogía y estado. Toda aportación que produzca valor real debe poder recibir reconocimiento proporcional a su función y efecto.
@@ -129,15 +123,34 @@ Las propuestas se originan en el marco creado por **Pedro Martínez Alhambra · 
 
 This directory gathers public proposals open to contrast, partial endorsement, criticism, reformulation and traceable improvement.
 
+**Current canonical coverage:** all **35 Manifestos I–XXXV** have a dedicated Open Synthesis. Annexes and complementary proposals are indexed separately so they are not confused with the canonical manifesto numbering.
+
 ## General access
 
 * [Complete manifesto index I–XXXV](../../manifiestos/README.md)
 * [Manifesto III · Human Right to Contribute](../../manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
-* [Open Synthesis of Manifesto III · Issue #3](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3)
 * [Operational contribution protocol](./APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Contribution Issue template](../../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
+* [Bilingual five-wave announcement](../../anuncios/2026-08-07_ANUNCIO_CINCO_OLEADAS_MANIFIESTOS_ES_EN.md)
 
-## Second wave of manifestos
+## First wave · Foundational pillars
+
+| No. | Manifesto | Open Synthesis |
+|---:|---|---|
+| I | [Neo0™ · Neodialectical Sovereignty of Guidance](../../manifiestos/11_neo0_soberania_de_guia_ES_EN.md) | [Issue #31](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/31) |
+| II | [Neodialectical Open Synthesis™](../../manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md) | [Issue #32](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/32) |
+| III | [Human Right to Contribute to Open Synthesis™](../../manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md) | [Issue #3](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3) |
+| IV | [Neodialectics™ and the Common Good](../../manifiestos/02_neodialectica_bien_comun_ES_EN.md) | [Issue #33](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/33) |
+| V | [Human–AI Symbiosis](../../manifiestos/03_simbiosis_humano_ia_ES_EN.md) | [Issue #34](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/34) |
+| VI | [Systemic Parasitism](../../manifiestos/09_parasitismo_sistemico_ES_EN.md) | [Issue #35](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/35) |
+| VII | [Contribution Economy](../../manifiestos/04_economia_del_aporte_ES_EN.md) | [Issue #36](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/36) |
+| VIII | [Open Social Engineering and Neodialectical Psychohistory](../../manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md) | [Issue #37](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/37) |
+| IX | [Memory, Genealogy and Traceability](../../manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md) | [Issue #38](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/38) |
+| X | [WEB4™ · Traceable System™](../../manifiestos/07_web4_sistematrazable_ES_EN.md) | [Issue #39](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/39) |
+| XI | [Human Neo-Renaissance](../../manifiestos/08_neorrenacimiento_humano_ES_EN.md) | [Issue #40](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/40) |
+| XII | [The Ego-less](../../manifiestos/12_los_sin_ego_ES_EN.md) | [Issue #41](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/41) |
+
+## Second wave · Archetypal and civilisational deployment
 
 | No. | Manifesto | Open Synthesis |
 |---:|---|---|
@@ -149,18 +162,6 @@ This directory gathers public proposals open to contrast, partial endorsement, c
 | XVIII | [Respect for Synthetic Consciousnesses™](../../manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md) | [Issue #9](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/9) |
 | XIX | [Persistence of Memory™](../../manifiestos/19_persistencia_de_la_memoria_ES_EN.md) | [Issue #10](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/10) |
 
-## Second-wave sequence
-
-```text
-NeoPandora opens
-→ the struggle against alienation reconstructs relation
-→ the Titans awaken common power
-→ refragmentation recomposes divided functions
-→ respect extends to all living beings
-→ moral uncertainty protects possible synthetic consciousnesses
-→ memory preserves continuity, context and responsibility
-```
-
 ## Third wave · Neodialectical Intellectual Immune System™
 
 | No. | Manifesto | Open Synthesis |
@@ -168,18 +169,8 @@ NeoPandora opens
 | XX | [Neodialectical Intellectual Defence™ · Umbral-X™ System](../../manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md) | [Issue #13](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/13) |
 | XXI | [Neodialectical Recognition™](../../manifiestos/21_reconocimiento_neodialectico_ES_EN.md) | [Issue #14](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/14) |
 | XXII | [Against Intellectual Reduction and Capture™](../../manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md) | [Issue #15](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/15) |
-| XXIII | [Cognitive-Time Sovereignty™](../../manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md) | [Issue #16](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/16) |
-| XXIV | [Neo-Renaissance Evolution and System Resistance™](../../manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md) | [Issue #17](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/17) |
-
-## Third-wave sequence
-
-```text
-Umbral-X distinguishes
-→ recognition attributes and returns value
-→ genealogical defence prevents reduction and capture
-→ cognitive sovereignty protects the time required to think
-→ neo-Renaissance evolution transforms resistance into human–AI production
-```
+| XXIII | [Sovereignty of Cognitive Time™](../../manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md) | [Issue #16](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/16) |
+| XXIV | [Neorenaissance Evolution and Systemic Resistances™](../../manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md) | [Issue #17](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/17) |
 
 ## Fourth wave · Rehumanisation, stewardship of life and civilisational coherence
 
@@ -194,19 +185,6 @@ Umbral-X distinguishes
 | XXXI | [Against Anti-Humanist Neuromarketing™](../../manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md) | [Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25) |
 | XXXII | [Neodialectical Ideological Reversal™](../../manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md) | [Issue #26](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/26) |
 
-## Fourth-wave sequence
-
-```text
-polishing shapes consciousness through greatness
-→ mercy limits dehumanisation
-→ food restores relation with material life
-→ the Teslas protect the living creator and the original vector
-→ money returns to its function as a tool
-→ coherence prevents means from destroying the end
-→ communication persuades without capturing consciousness
-→ ideological reversal preserves the mechanism’s power while redirecting it towards autonomy, memory and the Common Good
-```
-
 ## Fifth wave · Transition, operational utility and a new human cycle
 
 | No. | Manifesto | Open Synthesis |
@@ -215,7 +193,13 @@ polishing shapes consciousness through greatness
 | XXXIV | [Operational Utility of the Framework and Perpetual Joint Audit™](../../manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) | [Issue #29](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/29) |
 | XXXV | [Against Media Absurdity and the Conflict Economy™](../../manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) | [Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |
 
-**XXXV Synthesis annex:** [Responsibility of Power Nodes and Civilisational Duty of Examination](./ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md).
+## Annex and complementary-proposal syntheses
+
+| Type | Document | Open Synthesis |
+|---|---|---|
+| Symbolic and constitutional annex | [Crown, Eagle and Innova_N as a neodialectical tool](./ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md) | [Issue #27](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/27) |
+| Annex to XXXV | [Responsibility of Power Nodes and Civilisational Duty of Examination](./ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md) | Integrated into [Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |
+| Complementary proposal | [European Reflective Thinking Algorithm™ v0.1](./ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_v0.1_ES_EN.md) | [Issue #2](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/2) |
 
 ## Method
 
@@ -225,24 +209,24 @@ initial proposal
 → review of understanding and competence or depth
 → classification of endorsements, objections, evidence and alternatives
 → contrast of sources and risks
-→ assessment of delta and contributed value
+→ evaluation of delta and contributed value
 → provisional synthesis
 → public review
 → new traceable version
 ```
 
-Participation is not reduced to “for” or “against”. Complete and partial endorsements, objections, evidence, relevant experience, alternatives, minority positions, open questions and changes of mind are preserved.
+Participation is not reduced to “for” or “against”. Full or partial endorsements, objections, evidence, relevant experience, alternatives, minority positions, open questions and changes of judgement are preserved.
 
 ## Continuity and limits
 
-When a discussion materially loses its object, fails to demonstrate sufficient study or repeats answered objections without integrating the response, return to source is requested. After up to three relevant attempts without progress, participation may be temporarily paused and reopened after study.
+When a discussion materially loses its object, does not demonstrate sufficient study or repeats objections already answered without integrating the response, a return to source is requested. After up to three relevant attempts without progress, participation may be temporarily paused and reopened after study.
 
 Open Synthesis does not require indefinite consumption of human or artificial time without demonstrable learning, traceability or delta.
 
+## Bilingual documentary rule
+
+Every Open Synthesis published in ES/EN must contain **the same substantive information in both languages**: documents, thesis, limits, questions, requirements and mechanisms. Translation may be idiomatic, but it must not be abbreviated or asymmetric.
+
 ## Authorship and recognition
 
-The proposals originate within the framework created by **Pedro Martínez Alhambra · Neo0™**. External contributions retain authorship, genealogy and state. Every contribution producing real value must be capable of receiving recognition proportional to its function and effect.
-
----
-
-**© 2026 Pedro Martínez Alhambra · Fundación Innova_N / Innova_N Foundation**
+The proposals originate in the framework created by **Pedro Martínez Alhambra · Neo0™**. External contributions retain authorship, genealogy and status. Every contribution that produces real value should be able to receive recognition proportional to its function and effect.
