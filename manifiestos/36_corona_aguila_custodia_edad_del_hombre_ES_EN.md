@@ -280,6 +280,25 @@ Toda aportación exige lectura previa, genealogía, separación entre forma hist
 
 ---
 
+
+### Vínculos internos equivalentes
+
+Este bloque garantiza que la edición castellana y la inglesa ofrecen acceso al mismo conjunto de destinos internos.
+
+* [Referencia interna · ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md](../propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md)
+* [Protocolo de Síntesis Abierta](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
+* [Referencia interna · 11_neo0_soberania_de_guia_ES_EN.md](./11_neo0_soberania_de_guia_ES_EN.md)
+* [Referencia interna · 35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
+* [Índice de manifiestos](./README.md)
+* [Síntesis Abierta específica · Issue #42](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/42)
+
+## Navegación
+
+← [XXXV · Contra la Ridiculez Mediática y la Economía del Conflicto™](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) · [Índice](./README.md) · [I · Neo0™ · Soberanía de Guía Neodialéctica](./11_neo0_soberania_de_guia_ES_EN.md) →
+
+---
+
 # EN · English
 
 ## I. Declaration
@@ -547,3 +566,20 @@ Every contribution requires prior reading, genealogy, separation between histori
 
 **Pedro Martínez Alhambra · Neo0™**  
 **Fundación Innova_N · Filosofía Arquetípica Neodialéctica™ / Innova_N Foundation · Neodialectical Archetypal Philosophy™**
+
+
+### Equivalent internal links
+
+This block guarantees that the Spanish and English editions provide access to the same set of internal destinations.
+
+* [Internal reference · ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md](../propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md)
+* [Open Synthesis protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [Open Synthesis index](../propuestas/sintesis-abierta/README.md)
+* [Internal reference · 11_neo0_soberania_de_guia_ES_EN.md](./11_neo0_soberania_de_guia_ES_EN.md)
+* [Internal reference · 35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
+* [Manifesto index](./README.md)
+* [Dedicated Open Synthesis · Issue #42](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/42)
+
+## Navigation
+
+← [XXXV · Against Media Absurdity and the Conflict Economy™](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) · [Index](./README.md) · [I · Neo0™ · Neodialectical Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) →

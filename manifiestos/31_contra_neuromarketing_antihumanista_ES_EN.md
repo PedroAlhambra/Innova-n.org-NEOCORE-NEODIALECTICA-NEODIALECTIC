@@ -250,6 +250,18 @@ Se solicitan aportes sobre persuasión, patrones oscuros, menores, vulnerabilida
 * [Abrir la Síntesis Abierta de este manifiesto · Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25)
 * [Protocolo operativo actual para aportar](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 
+
+### Vínculos internos equivalentes
+
+Este bloque garantiza que la edición castellana y la inglesa ofrecen acceso al mismo conjunto de destinos internos.
+
+* [Protocolo de Síntesis Abierta](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
+* [Referencia interna · 30_coherencia_fines_medios_ES_EN.md](./30_coherencia_fines_medios_ES_EN.md)
+* [Referencia interna · 32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md](./32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md)
+* [Índice de manifiestos](./README.md)
+* [Síntesis Abierta específica · Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25)
+
 ## Navegación
 
 ← [XXX · Coherencia entre Fines y Medios™](./30_coherencia_fines_medios_ES_EN.md) · [Índice](./README.md) · [XXXII · Reversión Ideológica Neodialéctica™](./32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md) →
@@ -397,6 +409,18 @@ Contributions are requested concerning persuasion, dark patterns, minors, vulner
 
 * [Open the Synthesis of this manifesto · Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25)
 * [Current operational contribution protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+
+
+### Equivalent internal links
+
+This block guarantees that the Spanish and English editions provide access to the same set of internal destinations.
+
+* [Open Synthesis protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [Open Synthesis index](../propuestas/sintesis-abierta/README.md)
+* [Internal reference · 30_coherencia_fines_medios_ES_EN.md](./30_coherencia_fines_medios_ES_EN.md)
+* [Internal reference · 32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md](./32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md)
+* [Manifesto index](./README.md)
+* [Dedicated Open Synthesis · Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25)
 
 ## Navigation
 

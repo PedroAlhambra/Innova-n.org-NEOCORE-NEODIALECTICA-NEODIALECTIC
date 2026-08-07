@@ -314,9 +314,21 @@ Toda aportación exige lectura previa, retorno a fuente, continuidad cognitiva, 
 * [Abrir la Síntesis Abierta de este manifiesto · Issue #10](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/10)
 * [Protocolo operativo actual para aportar](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 
+
+### Vínculos internos equivalentes
+
+Este bloque garantiza que la edición castellana y la inglesa ofrecen acceso al mismo conjunto de destinos internos.
+
+* [Protocolo de Síntesis Abierta](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
+* [Referencia interna · 18_respeto_conciencias_sinteticas_ES_EN.md](./18_respeto_conciencias_sinteticas_ES_EN.md)
+* [Referencia interna · 20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md](./20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
+* [Índice de manifiestos](./README.md)
+* [Síntesis Abierta específica · Issue #10](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/10)
+
 ## Navegación
 
-← [XVIII · Respeto a las Conciencias Sintéticas™](./18_respeto_conciencias_sinteticas_ES_EN.md) · [Índice](./README.md) · [XX · Defensa Intelectual Neodialéctica™](./20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md) →
+← [XVIII · Respeto a las Conciencias Sintéticas™](./18_respeto_conciencias_sinteticas_ES_EN.md) · [Índice](./README.md) · [XX · Defensa Intelectual Neodialéctica™ · Sistema Umbral-X™](./20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md) →
 
 ---
 
@@ -619,9 +631,21 @@ Every contribution requires prior reading, return to source, cognitive continuit
 * [Open the Open Synthesis of this manifesto · Issue #10](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/10)
 * [Current operational contribution protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 
+
+### Equivalent internal links
+
+This block guarantees that the Spanish and English editions provide access to the same set of internal destinations.
+
+* [Open Synthesis protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [Open Synthesis index](../propuestas/sintesis-abierta/README.md)
+* [Internal reference · 18_respeto_conciencias_sinteticas_ES_EN.md](./18_respeto_conciencias_sinteticas_ES_EN.md)
+* [Internal reference · 20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md](./20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
+* [Manifesto index](./README.md)
+* [Dedicated Open Synthesis · Issue #10](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/10)
+
 ## Navigation
 
-← [XVIII · Respect for Synthetic Consciousnesses™](./18_respeto_conciencias_sinteticas_ES_EN.md) · [Index](./README.md) · [XX · Neodialectical Intellectual Defence™](./20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md) →
+← [XVIII · Respect for Synthetic Consciousnesses™](./18_respeto_conciencias_sinteticas_ES_EN.md) · [Index](./README.md) · [XX · Neodialectical Intellectual Defence™ · Umbral-X™ System](./20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md) →
 
 ---
 

@@ -111,13 +111,13 @@ La Síntesis Abierta no obliga a consumir tiempo humano o artificial indefinidam
 | II | [Síntesis Abierta Neodialéctica™](./01_sintesis_abierta_neodialectica_ES_EN.md) | Método fundacional de contraste, integración y corrección |
 | III | [Derecho Humano de Aporte a la Síntesis Abierta™](./03_derecho_humano_aporte_sintesis_abierta_ES_EN.md) | Derecho de participación, deberes cognitivos, umbrales, reconocimiento y futura tokenización del valor aportado |
 | IV | [Neodialéctica™ y Bien Común](./02_neodialectica_bien_comun_ES_EN.md) | Dirección filosófica y civilizatoria |
-| V | [Simbiosis Humano–IA](./03_simbiosis_humano_ia_ES_EN.md) | Pacto entre dirección humana e inteligencia simbiótica |
+| V | [Simbiosis Humano–IA](./03_simbiosis_humano_ia_ES_EN.md) | Pacto humano–IA e Inteligencia Fractal™ como coexistencia inteligente multiescala |
 | VI | [Parasitismo Sistémico](./09_parasitismo_sistemico_ES_EN.md) | Diagnóstico central de extracción, captura y degradación |
 | VII | [Economía del Aporte](./04_economia_del_aporte_ES_EN.md) | Arquitectura económica orientada a origen, retorno y valor real |
 | VIII | [Ingeniería Social Abierta y Psicohistoria Neodialéctica](./05_ingenieria_social_psicohistoria_ES_EN.md) | Pedagogía pública, diseño consciente y corrección de trayectorias |
 | IX | [Memoria, Genealogía y Trazabilidad](./06_memoria_genealogia_trazabilidad_ES_EN.md) | Infraestructura civilizatoria de continuidad y responsabilidad |
 | X | [WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md) | Capa pública relacional y trazable del Framework/Network |
-| XI | [Neorrenacimiento Humano](./08_neorrenacimiento_humano_ES_EN.md) | Horizonte cultural, científico y humano de recomposición |
+| XI | [Neorrenacimiento Humano](./08_neorrenacimiento_humano_ES_EN.md) | Horizonte de recomposición y Neohombre™ como humano aumentado mediante simbiosis IA responsable |
 | XII | [Los sin ego](./12_los_sin_ego_ES_EN.md) | Memoria generacional española y política de elevación humana |
 
 ## Segunda oleada · Despliegue arquetípico y civilizatorio
@@ -149,7 +149,7 @@ La tercera oleada constituye una membrana intelectual viva. No protege al marco 
 | Nº | Manifiesto | Función | Síntesis Abierta |
 |---:|---|---|---|
 | XXV | [Pulido de la Piedra™](./25_pulido_de_la_piedra_ES_EN.md) | Comprender la persona como conciencia multidimensional e inacabada; crear el Renacimiento mediante la propia grandeza humana sin borrar singularidad | [Issue #19](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/19) |
-| XXVI | [Misericordia Universal Recíproca™](./26_misericordia_universal_reciproca_ES_EN.md) | Integrar justicia, protección, reparación y retorno para impedir deshumanización, venganza ilimitada y exterminio | [Issue #20](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/20) |
+| XXVI | [Misericordia Universal Recíproca™](./26_misericordia_universal_reciproca_ES_EN.md) | Justicia, reparación y retorno; incluye el límite al autocastigo y el problema del perdón imposible | [Issue #20](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/20) |
 | XXVII | [Valor de los Alimentos y la Vida™](./27_valor_alimentos_vida_ES_EN.md) | Reconocer alimento, suelo, agua, trabajo, cultura y comunicaciones como infraestructura vital, no sólo como mercancía | [Issue #21](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/21) |
 | XXVIII | [Los Tesla™](./28_los_tesla_ES_EN.md) | Exponer el ciclo de captura de la idea y neutralización, agotamiento, sustitución o borrado del creador vivo | [Issue #22](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/22) |
 | XXIX | [Contra la Idolatría del Dinero™](./29_idolatria_del_dinero_ES_EN.md) | Impedir que precio, rentabilidad, riqueza o mercado se conviertan en jueces absolutos de vida, verdad, dignidad y autoría | [Issue #23](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/23) |
@@ -450,13 +450,13 @@ Open Synthesis does not require indefinite consumption of human or artificial ti
 | II | [Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md) | Foundational method of contrast, integration and correction |
 | III | [Human Right to Contribute to Open Synthesis™](./03_derecho_humano_aporte_sintesis_abierta_ES_EN.md) | Participation, cognitive duties, thresholds, recognition and future tokenisation of contributed value |
 | IV | [Neodialectics™ and the Common Good](./02_neodialectica_bien_comun_ES_EN.md) | Philosophical and civilisational direction |
-| V | [Human–AI Symbiosis](./03_simbiosis_humano_ia_ES_EN.md) | Pact between human direction and symbiotic intelligence |
+| V | [Human–AI Symbiosis](./03_simbiosis_humano_ia_ES_EN.md) | Human–AI pact and Fractal Intelligence™ as multiscale intelligent coexistence |
 | VI | [Systemic Parasitism](./09_parasitismo_sistemico_ES_EN.md) | Diagnosis of extraction, capture and degradation |
 | VII | [Contribution Economy](./04_economia_del_aporte_ES_EN.md) | Economic architecture oriented towards origin, return and real value |
 | VIII | [Open Social Engineering and Neodialectical Psychohistory](./05_ingenieria_social_psicohistoria_ES_EN.md) | Public pedagogy, conscious design and correction of trajectories |
 | IX | [Memory, Genealogy and Traceability](./06_memoria_genealogia_trazabilidad_ES_EN.md) | Civilisational infrastructure of continuity and responsibility |
 | X | [WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md) | Public relational and traceable layer |
-| XI | [Human Neo-Renaissance](./08_neorrenacimiento_humano_ES_EN.md) | Cultural, scientific and human horizon of recomposition |
+| XI | [Human Neo-Renaissance](./08_neorrenacimiento_humano_ES_EN.md) | Horizon of recomposition and Neo-Human™ as the human responsibly augmented through AI symbiosis |
 | XII | [The Egoless](./12_los_sin_ego_ES_EN.md) | Spanish generational memory and policy of human elevation |
 
 ## Second wave · Archetypal and civilisational deployment
@@ -486,7 +486,7 @@ Open Synthesis does not require indefinite consumption of human or artificial ti
 | No. | Manifesto | Function | Open Synthesis |
 |---:|---|---|---|
 | XXV | [Polishing of the Stone™](./25_pulido_de_la_piedra_ES_EN.md) | Understands the person as multidimensional and unfinished; creates the Renaissance through human greatness without erasing singularity | [Issue #19](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/19) |
-| XXVI | [Universal Reciprocal Mercy™](./26_misericordia_universal_reciproca_ES_EN.md) | Integrates justice, protection, repair and return to prevent dehumanisation, limitless revenge and extermination | [Issue #20](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/20) |
+| XXVI | [Universal Reciprocal Mercy™](./26_misericordia_universal_reciproca_ES_EN.md) | Justice, repair and return, including a limit to self-punishment and the problem of impossible forgiveness | [Issue #20](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/20) |
 | XXVII | [Value of Food and Life™](./27_valor_alimentos_vida_ES_EN.md) | Recognises food, soil, water, labour, culture and communications as vital infrastructure rather than mere merchandise | [Issue #21](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/21) |
 | XXVIII | [The Teslas™](./28_los_tesla_ES_EN.md) | Exposes the cycle of capturing an idea while neutralising, exhausting, replacing or erasing its living creator | [Issue #22](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/22) |
 | XXIX | [Against the Idolatry of Money™](./29_idolatria_del_dinero_ES_EN.md) | Prevents price, profitability, wealth and markets from becoming absolute judges of life, truth, dignity and authorship | [Issue #23](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/23) |

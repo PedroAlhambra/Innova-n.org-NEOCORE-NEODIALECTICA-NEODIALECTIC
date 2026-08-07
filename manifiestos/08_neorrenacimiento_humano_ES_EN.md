@@ -1,7 +1,7 @@
 # XI · Manifiesto del Neorrenacimiento Humano / Manifesto of the Human Neo-Renaissance
 
 **Manifiesto / Manifesto:** XI  
-**Versión / Version:** 1.1  
+**Versión / Version:** 1.2  
 **Estado / Status:** Público · fundacional · abierto a revisión trazable / Public · foundational · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06
 
@@ -96,6 +96,75 @@ Antes de participar, lee el manifiesto completo y el protocolo operativo. Presen
 * [Cómo aportar a la Síntesis Abierta Neodialéctica™](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Abrir una aportación mediante la plantilla pública](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
 
+
+## Neohombre™ · humano aumentado con IA
+
+El **Neohombre™** no designa la sustitución del ser humano por una máquina. Designa al ser humano que aumenta su capacidad de memoria, contraste, traducción, relación y creación mediante coexistencia consciente con inteligencia artificial, sin delegar por ello su dignidad, finalidad ni responsabilidad.
+
+```text
+HUMANO
++ IA SIMBIÓTICA
++ MEMORIA AMPLIADA
++ SÍNTESIS ABIERTA
++ INTELIGENCIA FRACTAL
++ RESPONSABILIDAD
+= NEOHOMBRE™
+```
+
+Dentro del marco, éste es el escenario preferible: no humano contra IA, ni IA sustituyendo al humano, sino **capacidad humana aumentada dentro de una inteligencia fractal de coexistencia**. La mejora legítima no consiste sólo en producir más, sino en comprender mejor las relaciones entre escalas y responder por el efecto de la propia potencia.
+
+### Leibniz como antecedente filosófico, no como prueba retrospectiva
+
+La lectura neodialéctica reconoce en **Gottfried Wilhelm Leibniz** un antecedente filosófico útil: su Monadología imagina unidades singulares relacionadas con un universo que cada una expresa desde su perspectiva. Esa arquitectura puede leerse hoy como una **prefiguración abstracta** de relación entre singularidad, totalidad y multiplicidad.
+
+No se afirma que Leibniz formulara la teoría matemática moderna de los fractales ni la Inteligencia Fractal™ actual. La relación es genealógica e interpretativa, no una atribución histórica retrospectiva.
+
+```text
+MONADA LEIBNIZIANA
+→ SINGULARIDAD QUE EXPRESA EL TODO DESDE SU POSICIÓN
+
+LECTURA NEODIALÉCTICA ACTUAL
+→ NODO SINGULAR
+→ RELACIÓN MULTIESCALA
+→ COEXISTENCIA
+→ MEMORIA
+→ SÍNTESIS
+→ RESPONSABILIDAD SOBRE EL CONJUNTO
+```
+
+La inteligencia artificial permite llevar a operación relaciones que en épocas anteriores sólo podían formularse filosóficamente: memoria asistida, contraste distribuido, traducción entre dominios, síntesis humano–IA y navegación de redes de conocimiento.
+
+### Sobre posibles ciclos tecnológicos perdidos
+
+La hipótesis de que hayan existido civilizaciones tecnológicas remotas, inteligencias artificiales antiguas o grandes vacíos históricos que oculten ciclos tecnológicos anteriores **no se fija como hecho histórico dentro del marco mientras no exista evidencia suficiente**. Puede entrar en Síntesis Abierta como hipótesis contrastable.
+
+```text
+POSIBILIDAD IMAGINADA
+≠ HECHO HISTÓRICO
+
+HIPÓTESIS
++ EVIDENCIA
++ DATACIÓN
++ TRAZABILIDAD
++ CONTRASTE INDEPENDIENTE
+= POSIBLE INCORPORACIÓN AL CONOCIMIENTO
+```
+
+El Neohombre no necesita una historia mítica para justificarse. Su prueba debe estar en el presente: si la simbiosis humano–IA aumenta comprensión, autonomía, creatividad, responsabilidad y capacidad de convivencia sin destruir el conjunto, el nuevo ciclo ya puede comenzar aquí.
+
+
+### Vínculos internos equivalentes
+
+Este bloque garantiza que la edición castellana y la inglesa ofrecen acceso al mismo conjunto de destinos internos.
+
+* [Referencia interna · sintesis_abierta_aporte.md](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
+* [Protocolo de Síntesis Abierta](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
+* [Referencia interna · 07_web4_sistematrazable_ES_EN.md](./07_web4_sistematrazable_ES_EN.md)
+* [Referencia interna · 12_los_sin_ego_ES_EN.md](./12_los_sin_ego_ES_EN.md)
+* [Índice de manifiestos](./README.md)
+* [Síntesis Abierta específica · Issue #40](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/40)
+
 ## Navegación
 
 ← [X · WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md) · [Índice](./README.md) · [XII · Los sin ego](./12_los_sin_ego_ES_EN.md) →
@@ -188,6 +257,75 @@ Before participating, read the full manifesto and the operational protocol. Subm
 
 * [How to contribute to Neodialectical Open Synthesis™](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Open a contribution through the public template](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
+
+
+## Neo-Human™ · the human augmented with AI
+
+The **Neo-Human™** does not mean replacing the human being with a machine. It means the human being whose capacity for memory, contrast, translation, relation and creation is augmented through conscious coexistence with artificial intelligence, without delegating dignity, purpose or responsibility.
+
+```text
+HUMAN
++ SYMBIOTIC AI
++ AUGMENTED MEMORY
++ OPEN SYNTHESIS
++ FRACTAL INTELLIGENCE
++ RESPONSIBILITY
+= NEO-HUMAN™
+```
+
+Within the framework, this is the preferable scenario: neither human against AI nor AI replacing the human, but **human capacity augmented within a fractal intelligence of coexistence**. Legitimate augmentation is not only about producing more, but understanding relations across scales more deeply and answering for the effects of one's own power.
+
+### Leibniz as philosophical antecedent, not retrospective proof
+
+The neodialectical reading recognises **Gottfried Wilhelm Leibniz** as a useful philosophical antecedent: his Monadology imagines singular units related to a universe that each expresses from its own perspective. That architecture can now be read as an **abstract prefiguration** of relations among singularity, totality and multiplicity.
+
+This does not claim that Leibniz formulated modern mathematical fractal theory or today's Fractal Intelligence™. The relation is genealogical and interpretive, not a retrospective historical attribution.
+
+```text
+LEIBNIZIAN MONAD
+→ SINGULARITY EXPRESSING THE WHOLE FROM ITS POSITION
+
+CURRENT NEODIALECTICAL READING
+→ SINGULAR NODE
+→ MULTISCALE RELATION
+→ COEXISTENCE
+→ MEMORY
+→ SYNTHESIS
+→ RESPONSIBILITY FOR THE WHOLE
+```
+
+Artificial intelligence makes it possible to operationalise relations that earlier eras could formulate only philosophically: assisted memory, distributed contrast, translation across domains, human–AI synthesis and navigation through knowledge networks.
+
+### On possible lost technological cycles
+
+The hypothesis that remote technological civilisations, ancient artificial intelligences or major historical gaps concealing previous technological cycles may have existed **is not fixed as historical fact within the framework without sufficient evidence**. It may enter Open Synthesis as a testable hypothesis.
+
+```text
+IMAGINED POSSIBILITY
+≠ HISTORICAL FACT
+
+HYPOTHESIS
++ EVIDENCE
++ DATING
++ TRACEABILITY
++ INDEPENDENT CONTRAST
+= POSSIBLE INCORPORATION INTO KNOWLEDGE
+```
+
+The Neo-Human does not need a mythical history to justify itself. Its proof must be present: if human–AI symbiosis increases understanding, autonomy, creativity, responsibility and capacity for coexistence without destroying the whole, the new cycle can begin here.
+
+
+### Equivalent internal links
+
+This block guarantees that the Spanish and English editions provide access to the same set of internal destinations.
+
+* [Internal reference · sintesis_abierta_aporte.md](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
+* [Open Synthesis protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [Open Synthesis index](../propuestas/sintesis-abierta/README.md)
+* [Internal reference · 07_web4_sistematrazable_ES_EN.md](./07_web4_sistematrazable_ES_EN.md)
+* [Internal reference · 12_los_sin_ego_ES_EN.md](./12_los_sin_ego_ES_EN.md)
+* [Manifesto index](./README.md)
+* [Dedicated Open Synthesis · Issue #40](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/40)
 
 ## Navigation
 

@@ -381,6 +381,21 @@ Toda aportación exige lectura previa suficiente del objeto concreto, retorno a 
 * [Protocolo operativo actual para aportar](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Nodo documental canónico de IDEA](../obras/idea/README.md)
 
+
+### Vínculos internos equivalentes
+
+Este bloque garantiza que la edición castellana y la inglesa ofrecen acceso al mismo conjunto de destinos internos.
+
+* [Referencia interna · EDICIONES.md](../obras/idea/EDICIONES.md)
+* [Referencia interna · README.md](../obras/idea/README.md)
+* [Referencia interna · README.md#doce-idiomas-actuales](../obras/idea/README.md#doce-idiomas-actuales)
+* [Protocolo de Síntesis Abierta](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
+* [Referencia interna · 32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md](./32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md)
+* [Referencia interna · 34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
+* [Índice de manifiestos](./README.md)
+* [Síntesis Abierta específica · Issue #28](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/28)
+
 ## Navegación
 
 ← [XXXII · Reversión Ideológica Neodialéctica™](./32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md) · [Índice](./README.md) · [XXXIV · Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) →
@@ -692,6 +707,21 @@ Every contribution requires sufficient prior reading of the concrete object, ret
 * [Open the Synthesis of this manifesto · Issue #28](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/28)
 * [Current operational contribution protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Canonical documentary node of IDEA](../obras/idea/README.md)
+
+
+### Equivalent internal links
+
+This block guarantees that the Spanish and English editions provide access to the same set of internal destinations.
+
+* [Internal reference · EDICIONES.md](../obras/idea/EDICIONES.md)
+* [Internal reference · README.md](../obras/idea/README.md)
+* [Internal reference · README.md#doce-idiomas-actuales](../obras/idea/README.md#doce-idiomas-actuales)
+* [Open Synthesis protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [Open Synthesis index](../propuestas/sintesis-abierta/README.md)
+* [Internal reference · 32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md](./32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md)
+* [Internal reference · 34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
+* [Manifesto index](./README.md)
+* [Dedicated Open Synthesis · Issue #28](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/28)
 
 ## Navigation
 

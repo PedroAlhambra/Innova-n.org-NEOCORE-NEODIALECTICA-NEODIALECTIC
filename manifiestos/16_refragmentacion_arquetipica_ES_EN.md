@@ -323,9 +323,21 @@ Toda aportación exige lectura previa, retorno a fuente, continuidad cognitiva, 
 * [Abrir la Síntesis Abierta de este manifiesto · Issue #7](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/7)
 * [Protocolo operativo actual para aportar](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 
+
+### Vínculos internos equivalentes
+
+Este bloque garantiza que la edición castellana y la inglesa ofrecen acceso al mismo conjunto de destinos internos.
+
+* [Protocolo de Síntesis Abierta](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
+* [Referencia interna · 15_los_titanes_despertar_de_la_gente_ES_EN.md](./15_los_titanes_despertar_de_la_gente_ES_EN.md)
+* [Referencia interna · 17_respeto_todos_seres_vivos_ES_EN.md](./17_respeto_todos_seres_vivos_ES_EN.md)
+* [Índice de manifiestos](./README.md)
+* [Síntesis Abierta específica · Issue #7](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/7)
+
 ## Navegación
 
-← [XV · Los Titanes™](./15_los_titanes_despertar_de_la_gente_ES_EN.md) · [Índice](./README.md) · [XVII · Respeto a Todos los Seres Vivos™](./17_respeto_todos_seres_vivos_ES_EN.md) →
+← [XV · Los Titanes™ · El despertar de la gente](./15_los_titanes_despertar_de_la_gente_ES_EN.md) · [Índice](./README.md) · [XVII · Respeto a Todos los Seres Vivos™](./17_respeto_todos_seres_vivos_ES_EN.md) →
 
 ---
 
@@ -637,9 +649,21 @@ Every contribution requires prior reading, return to source, cognitive continuit
 * [Open the Open Synthesis of this manifesto · Issue #7](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/7)
 * [Current operational contribution protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 
+
+### Equivalent internal links
+
+This block guarantees that the Spanish and English editions provide access to the same set of internal destinations.
+
+* [Open Synthesis protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [Open Synthesis index](../propuestas/sintesis-abierta/README.md)
+* [Internal reference · 15_los_titanes_despertar_de_la_gente_ES_EN.md](./15_los_titanes_despertar_de_la_gente_ES_EN.md)
+* [Internal reference · 17_respeto_todos_seres_vivos_ES_EN.md](./17_respeto_todos_seres_vivos_ES_EN.md)
+* [Manifesto index](./README.md)
+* [Dedicated Open Synthesis · Issue #7](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/7)
+
 ## Navigation
 
-← [XV · The Titans™](./15_los_titanes_despertar_de_la_gente_ES_EN.md) · [Index](./README.md) · [XVII · Respect for All Living Beings™](./17_respeto_todos_seres_vivos_ES_EN.md) →
+← [XV · The Titans™ · The Awakening of the People](./15_los_titanes_despertar_de_la_gente_ES_EN.md) · [Index](./README.md) · [XVII · Respect for All Living Beings™](./17_respeto_todos_seres_vivos_ES_EN.md) →
 
 ---
 

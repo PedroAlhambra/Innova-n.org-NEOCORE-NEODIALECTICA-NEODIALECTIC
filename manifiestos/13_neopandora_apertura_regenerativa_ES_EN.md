@@ -350,6 +350,18 @@ Toda modificación futura deberá preservar el texto anterior, identificar con p
 * [Abrir la Síntesis Abierta de este manifiesto · Issue #4](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/4)
 * [Protocolo operativo actual para aportar](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 
+
+### Vínculos internos equivalentes
+
+Este bloque garantiza que la edición castellana y la inglesa ofrecen acceso al mismo conjunto de destinos internos.
+
+* [Protocolo de Síntesis Abierta](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
+* [Referencia interna · 12_los_sin_ego_ES_EN.md](./12_los_sin_ego_ES_EN.md)
+* [Referencia interna · 14_contra_alienacion_humana_ES_EN.md](./14_contra_alienacion_humana_ES_EN.md)
+* [Índice de manifiestos](./README.md)
+* [Síntesis Abierta específica · Issue #4](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/4)
+
 ## Navegación
 
 ← [XII · Los sin ego](./12_los_sin_ego_ES_EN.md) · [Índice](./README.md) · [XIV · Contra la Alienación Humana™](./14_contra_alienacion_humana_ES_EN.md) →
@@ -690,6 +702,18 @@ Every future modification must preserve the previous text, identify the change p
 
 * [Open the Open Synthesis of this manifesto · Issue #4](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/4)
 * [Current operational contribution protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+
+
+### Equivalent internal links
+
+This block guarantees that the Spanish and English editions provide access to the same set of internal destinations.
+
+* [Open Synthesis protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [Open Synthesis index](../propuestas/sintesis-abierta/README.md)
+* [Internal reference · 12_los_sin_ego_ES_EN.md](./12_los_sin_ego_ES_EN.md)
+* [Internal reference · 14_contra_alienacion_humana_ES_EN.md](./14_contra_alienacion_humana_ES_EN.md)
+* [Manifesto index](./README.md)
+* [Dedicated Open Synthesis · Issue #4](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/4)
 
 ## Navigation
 

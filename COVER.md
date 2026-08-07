@@ -18,7 +18,7 @@ El marco fue originado y dirigido por **Pedro Martínez Alhambra · Neo0™**, d
 
 * [README bilingüe principal](./README.md)
 * [LEEME bilingüe](./LEEME.md)
-* [Índice de manifiestos I–XXXV](./manifiestos/README.md)
+* [Índice de manifiestos I–XXXVI](./manifiestos/README.md)
 * [Tercera oleada · Sistema Inmunitario Intelectual Neodialéctico™](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
 * [Cuarta oleada · Rehumanización y coherencia](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [Síntesis Abierta](./propuestas/sintesis-abierta/README.md)
@@ -92,7 +92,7 @@ PULIDO DE LA PIEDRA™
 → REVERSIÓN IDEOLÓGICA NEODIALÉCTICA™
 ```
 
-## Quinta oleada · XXXIII–XXXV · Transición, utilidad operativa y atención civilizatoria
+## Quinta oleada · XXXIII–XXXVI · Transición, utilidad operativa y atención civilizatoria
 
 33. [IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
 34. [Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](./manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
@@ -112,7 +112,7 @@ The framework was originated and directed by **Pedro Martínez Alhambra · Neo0�
 
 * [Main bilingual README](./README.md)
 * [Bilingual LEEME](./LEEME.md)
-* [Manifesto index I–XXXV](./manifiestos/README.md)
+* [Manifesto index I–XXXVI](./manifiestos/README.md)
 * [Third wave · Neodialectical Intellectual Immune System™](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
 * [Fourth wave · Rehumanisation and coherence](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [Open Synthesis](./propuestas/sintesis-abierta/README.md)
@@ -186,7 +186,7 @@ POLISHING OF THE STONE™
 → NEODIALECTICAL IDEOLOGICAL REVERSAL™
 ```
 
-## Fifth wave · XXXIII–XXXV · Transition, operational utility and civilisational attention
+## Fifth wave · XXXIII–XXXVI · Transition, operational utility and civilisational attention
 
 33. [IDEA · Civilisational Cornerstone and Rosetta Stone™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
 34. [Operational Utility of the Framework and Perpetual Joint Audit™](./manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
