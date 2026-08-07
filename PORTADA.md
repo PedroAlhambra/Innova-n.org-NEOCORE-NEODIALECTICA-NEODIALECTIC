@@ -187,6 +187,7 @@ PULIDO DE LA PIEDRA™
 ### Séptima oleada · Neofraternidad y arquitectura relacional
 
 * [XXXVII · Neofraternidad™](./manifiestos/37_neofraternidad_ES_EN.md)
+* [Síntesis Abierta XXXVII · Issue #43](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/43)
 
 ### Octava oleada · Infancia, educación y transmisión civilizatoria
 
@@ -194,7 +195,6 @@ PULIDO DE LA PIEDRA™
 * [MAXPROC · Protección Integral de la Infancia™](./analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
 * [Anuncio de la octava oleada](./anuncios/2026-08-07_OCTAVA_OLEADA_PROTECCION_INTEGRAL_INFANCIA_ES_EN.md)
 * [Síntesis Abierta XXXVIII · Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45)
-* [Síntesis Abierta XXXVII · Issue #43](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/43)
 
 ### Deltas transversales recientes
 
