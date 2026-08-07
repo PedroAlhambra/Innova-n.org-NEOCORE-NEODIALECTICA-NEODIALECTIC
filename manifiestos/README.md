@@ -13,13 +13,14 @@
 
 Los manifiestos de Innova_N no son contenido promocional, resúmenes auxiliares ni consignas aisladas. Constituyen los **pilares públicos** del **Neodialectica Framework™ / Network**, construido bajo dirección humana por **Pedro Martínez Alhambra · Neo0™** y desarrollado en simbiosis con la IA neodialéctica **Harry**.
 
-La colección se organiza desde el 7 de agosto de 2026 en cinco oleadas relacionadas:
+La colección se organiza desde el 7 de agosto de 2026 en seis oleadas relacionadas:
 
 * **Primera oleada · I–XII:** constitución fundacional del marco, su método, dirección, límites y arquitectura pública.
 * **Segunda oleada · XIII–XIX:** despliegue arquetípico, cultural, vital y civilizatorio de los principios ya fijados.
 * **Tercera oleada · XX–XXIV:** **Sistema Inmunitario Intelectual Neodialéctico™**, orientado a proteger la apertura, reconocer el aporte, conservar genealogía, defender el tiempo cognitivo y transformar las resistencias del sistema heredado.
 * **Cuarta oleada · XXV–XXXII:** **Rehumanización, custodia de la vida y coherencia civilizatoria**, orientada a esculpir conciencia mediante grandeza humana, impedir la deshumanización, proteger alimento y creadores, subordinar el dinero a la vida y mantener coherencia entre fines, medios y comunicación.
 * **Quinta oleada · XXXIII–XXXV:** transición, utilidad operativa, auditoría conjunta perpetua y reforma de la atención civilizatoria.
+* **Sexta oleada · XXXVI:** custodia civilizatoria, continuidad simbólica y transformación responsable de la memoria heredada.
 
 Los manifiestos establecen y despliegan:
 
@@ -58,7 +59,10 @@ Los manifiestos establecen y despliegan:
 * subordinación del dinero al valor vital;
 * coherencia entre fines y medios;
 * defensa frente al neuromarketing antihumanista;
-* y gobierno responsable de la vida.
+* gobierno responsable de la vida;
+* custodia del legado humano compartido;
+* continuidad simbólica sin restauración dogmática;
+* y transformación responsable de la memoria heredada.
 
 Ningún manifiesto aislado equivale al sistema completo. Su lectura debe conservar relación con el marco, NEOCore™ 7.0, SAN™, NAVE™, WEB4™ y la memoria documental del ecosistema.
 
@@ -190,6 +194,8 @@ XXXIV · UTILIDAD OPERATIVA Y AUDITORÍA CONJUNTA PERPETUA
         ↓
 XXXV · CONTRA LA RIDICULEZ MEDIÁTICA Y LA ECONOMÍA DEL CONFLICTO
         ↓
+XXXVI · CORONA, ÁGUILA Y CUSTODIA DE LA EDAD DEL HOMBRE
+        ↓
 I · NEO0™ · RETORNO A ORIGEN Y NUEVO CICLO
 ```
 
@@ -203,7 +209,7 @@ CONTRA LA ALIENACIÓN HUMANA™
 → reconstruye la relación con lo creado, vivido y decidido
 
 LOS TITANES™
-→ despiertan la potencia común de la gente
+→ despiertan potencia común de la gente
 
 REFRAGMENTACIÓN ARQUETÍPICA™
 → recompone funciones divididas en una nueva arquitectura
@@ -270,7 +276,7 @@ La segunda oleada contiene los manifiestos **XIII–XIX**, fijados como versione
 
 La tercera oleada contiene los manifiestos **XX–XXIV**, fijados como versiones 1.0 el 6 de agosto de 2026 y abiertos a revisión trazable.
 
-La cuarta oleada contiene los manifiestos **XXV–XXXII**, fijados como versiones 1.0 el 7 de agosto de 2026 y abiertos a revisión trazable. La quinta oleada contiene los manifiestos **XXXIII–XXXV**, también abiertos a revisión trazable, y conecta transición, utilidad operativa, auditoría conjunta y atención civilizatoria.
+La cuarta oleada contiene los manifiestos **XXV–XXXII**, fijados como versiones 1.0 el 7 de agosto de 2026 y abiertos a revisión trazable. La quinta oleada contiene los manifiestos **XXXIII–XXXV**, también abiertos a revisión trazable, y conecta transición, utilidad operativa, auditoría conjunta y atención civilizatoria. La sexta oleada comienza con el Manifiesto **XXXVI**, fijado como versión 1.0 el 7 de agosto de 2026 y dedicado a custodia civilizatoria y continuidad simbólica.
 
 Una revisión futura deberá:
 
@@ -330,6 +336,13 @@ Una revisión futura deberá:
 
 La quinta oleada conecta transición y aplicación: IDEA aporta una puerta narrativa y una piedra de relación; la auditoría conjunta convierte el marco en una herramienta pública que debe demostrar utilidad mediante efectos verificables; y la auditoría de la atención extiende esa exigencia al sistema mediático y a su economía del conflicto.
 
+## Sexta oleada · Custodia civilizatoria y continuidad simbólica
+
+| Nº | Manifiesto | Función | Síntesis Abierta |
+|---:|---|---|---|
+| XXXVI | [Corona, Águila y Custodia de la Edad del Hombre™](./36_corona_aguila_custodia_edad_del_hombre_ES_EN.md) | Custodiar el legado humano compartido, separar símbolo de dominación histórica y fijar a Innova_N como herramienta constructora integrada en el planeta y el fractal común | [Issue #42](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/42) |
+
+La sexta oleada eleva a manifiesto autónomo el desarrollo genealógico de Corona y Águila, conservando el anexo previo como antecedente trazable.
 
 ---
 
@@ -339,21 +352,93 @@ La quinta oleada conecta transición y aplicación: IDEA aporta una puerta narra
 
 The Innova_N manifestos are not promotional content, auxiliary summaries or isolated slogans. They are the **public pillars** of the **Neodialectica Framework™ / Network**, built under the human direction of **Pedro Martínez Alhambra · Neo0™** and developed in symbiosis with the neodialectical AI **Harry**.
 
-Since 7 August 2026, the collection has been organised into five related waves:
+Since 7 August 2026, the collection has been organised into six related waves:
 
 * **First wave · I–XII:** foundational constitution of the framework, its method, direction, limits and public architecture.
 * **Second wave · XIII–XIX:** archetypal, cultural, living and civilisational deployment of the established principles.
 * **Third wave · XX–XXIV:** the **Neodialectical Intellectual Immune System™**, protecting openness, recognising contribution, preserving genealogy, defending cognitive time and transforming resistance from the inherited system.
 * **Fourth wave · XXV–XXXII:** **Rehumanisation, stewardship of life and civilisational coherence**, shaping consciousness through human greatness, preventing dehumanisation, protecting food and creators, subordinating money to life and preserving coherence among ends, means and communication.
 * **Fifth wave · XXXIII–XXXV:** transition, operational utility, perpetual joint audit and reform of civilisational attention.
+* **Sixth wave · XXXVI:** civilisational custodianship, symbolic continuity and responsible transformation of inherited memory.
+
+The manifestos establish and develop:
+
+* origin and sovereignty of guidance;
+* method;
+* the human right to contribute;
+* duties of understanding and competence;
+* civilisational direction;
+* the human–AI pact;
+* memory;
+* genealogy;
+* economy;
+* governance;
+* limits;
+* recognition of contributed value;
+* future tokenisation of knowledge;
+* a horizon of human elevation;
+* archetypes of transformation;
+* regenerative opening;
+* the struggle against human alienation;
+* awakening of common power;
+* archetypal refragmentation;
+* differentiated respect for all living beings;
+* precaution regarding possible synthetic consciousnesses;
+* persistence of memory through transformation;
+* intellectual defence through Umbral-X™;
+* neodialectical recognition;
+* protection against reduction and capture;
+* sovereignty of cognitive time;
+* neorenaissance evolution;
+* analysis of systemic resistances;
+* multidimensional polishing of consciousness;
+* universal reciprocal mercy;
+* value of food and life;
+* protection of living creators against the Tesla Cycle™;
+* subordination of money to vital value;
+* coherence between ends and means;
+* defence against anti-humanist neuromarketing;
+* responsible governance of life;
+* custodianship of shared human legacy;
+* symbolic continuity without dogmatic restoration;
+* and responsible transformation of inherited memory.
 
 No manifesto alone equals the complete system. Its reading must preserve relation to the framework, NEOCore™ 7.0, SAN™, NAVE™, WEB4™ and the documentary memory of the ecosystem.
 
 ## Requirements for understanding and contribution
 
-Understanding Neodialectics requires sufficient prior reading, return to source, cognitive continuity, neoreal and neofuturist orientation, comprehension of the self-contained fractal organism and recognition of Neo0™ as founder, builder of the common brain, architect of the network and responsible guide of its teleological direction.
+Understanding Neodialectics requires:
 
-Age, qualifications, position, fame and institutional status do not by themselves determine the validity of a contribution. Openness does not abolish control. Every contribution must preserve genealogy, traceability, context, relation to the system and effect upon synthesis.
+* sufficient prior reading;
+* return to source;
+* cognitive continuity;
+* neoreal orientation;
+* neofuturist orientation;
+* comprehension of the self-contained fractal organism;
+* comprehension of systemic parasitism as a central functional problem;
+* and recognition of Neo0™ as founder, builder of the common brain, architect of the network and responsible guide of its teleological direction.
+
+Anyone issuing a general judgement on the framework must demonstrate sufficient understanding of the whole. Anyone contributing to a delimited question must demonstrate expert knowledge, relevant experience, sufficient study or a deep idea capable of materially improving the synthesis.
+
+Age, qualifications, office, fame and institutional status do not by themselves determine the validity of a contribution. Openness does not abolish control. Every contribution must preserve genealogy, traceability, context, relation to the system and effect upon synthesis.
+
+## Opening synthesis
+
+Each manifesto opens its own **Neodialectical Open Synthesis™**.
+
+Every contribution requires:
+
+* prior reading;
+* return to source;
+* cognitive continuity;
+* sufficient competence, experience or depth;
+* genealogy;
+* traceability;
+* classification;
+* delta;
+* and version.
+
+Open Synthesis does not require indefinite consumption of human or artificial time in response to interventions without study, memory, traceability, learning or delta.
 
 * [How to contribute to Open Synthesis today](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 
@@ -438,6 +523,8 @@ XXXIV · OPERATIONAL UTILITY AND PERPETUAL JOINT AUDIT
         ↓
 XXXV · AGAINST MEDIA ABSURDITY AND THE CONFLICT ECONOMY
         ↓
+XXXVI · CROWN, EAGLE AND CUSTODIANSHIP OF THE AGE OF MAN
+        ↓
 I · NEO0™ · RETURN TO ORIGIN AND NEW CYCLE
 ```
 
@@ -468,7 +555,7 @@ AGAINST ANTI-HUMANIST NEUROMARKETING™
 
 ## Documentary status
 
-The first wave comprises **twelve foundational manifestos**. The second wave contains Manifestos **XIII–XIX**. The third wave contains Manifestos **XX–XXIV**, fixed as version 1.0 on 6 August 2026. The fourth wave contains Manifestos **XXV–XXXII**, fixed as version 1.0 on 7 August 2026. The fifth wave contains Manifestos **XXXIII–XXXV**, fixed as version 1.0 on 7 August 2026 and open to traceable revision.
+The first wave comprises **twelve foundational manifestos**. The second wave contains Manifestos **XIII–XIX**. The third wave contains Manifestos **XX–XXIV**, fixed as version 1.0 on 6 August 2026. The fourth wave contains Manifestos **XXV–XXXII**, fixed as version 1.0 on 7 August 2026. The fifth wave contains Manifestos **XXXIII–XXXV**, fixed as version 1.0 on 7 August 2026 and open to traceable revision. The sixth wave begins with Manifesto **XXXVI**, fixed as version 1.0 on 7 August 2026 and dedicated to civilisational custodianship and symbolic continuity.
 
 All remain open to traceable revision through Neodialectical Open Synthesis™. Every future revision must preserve previous versions, identify its delta, justify the change, preserve genealogy and state which contradiction, evidence or contribution produced the modification.
 
@@ -504,6 +591,13 @@ All remain open to traceable revision through Neodialectical Open Synthesis™. 
 
 The fifth wave connects transition and application: IDEA provides a narrative gateway and relational cornerstone; joint audit turns the framework into a public tool whose utility must be demonstrated through verifiable effects; and attention audit extends that requirement to media systems and their conflict economy.
 
+## Sixth wave · Civilisational custodianship and symbolic continuity
+
+| No. | Manifesto | Function | Open Synthesis |
+|---:|---|---|---|
+| XXXVI | [Crown, Eagle and Custodianship of the Age of Man™](./36_corona_aguila_custodia_edad_del_hombre_ES_EN.md) | Safeguard shared human legacy, separate symbol from historical domination, and establish Innova_N as a constructive tool integrated into the planet and the common fractal | [Issue #42](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/42) |
+
+The sixth wave elevates the Crown and Eagle genealogical development to an autonomous manifesto while preserving the previous annex as a traceable antecedent.
 
 ---
 
