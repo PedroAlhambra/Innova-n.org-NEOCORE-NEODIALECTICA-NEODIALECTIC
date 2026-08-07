@@ -1,0 +1,59 @@
+name: One-shot IDEA sequel privacy cleanup
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/one-shot-idea-sequel-privacy.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Remove public sequel references and rename species guide
+        shell: bash
+        run: |
+          set -euo pipefail
+          OLD='obras/idea/STARKDR_GRITAX_HISTORIA_DE_LAS_ESPECIES_Y_CONTINUIDAD_ES_EN.md'
+          NEW='obras/idea/STARKDR_GRITAX_HISTORIA_DE_LAS_ESPECIES_ES_EN.md'
+          if [ -f "$OLD" ]; then
+            git mv "$OLD" "$NEW"
+          fi
+          python - <<'PY'
+          from pathlib import Path
+          old = 'STARKDR_GRITAX_HISTORIA_DE_LAS_ESPECIES_Y_CONTINUIDAD_ES_EN.md'
+          new = 'STARKDR_GRITAX_HISTORIA_DE_LAS_ESPECIES_ES_EN.md'
+          for p in Path('.').rglob('*'):
+              if not p.is_file() or '.git' in p.parts:
+                  continue
+              try:
+                  s = p.read_text(encoding='utf-8')
+              except Exception:
+                  continue
+              t = s.replace(old, new)
+              if p.as_posix() == 'obras/idea/README.md':
+                  t = t.replace('Historia de las especies · Starkdr, Gritax, guerra-motor y continuidad de la segunda parte', 'Historia de las especies · Starkdr, Gritax y guerra-motor')
+                  t = t.replace('La guía distingue el contenido de la novela 1997–2002 de la lectura y continuidad autoral declaradas en 2026.', 'La guía se limita al contenido publicado de la novela 1997–2002 y a la lectura pública autorizada, sin anticipar obras posteriores.')
+                  t = t.replace('Historia de las especies Starkdr–Gritax y continuidad', 'Historia de las especies Starkdr–Gritax')
+                  t = t.replace('History of the species · Starkdr, Gritax, motor-war and second-part continuity', 'History of the species · Starkdr, Gritax and motor-war')
+                  t = t.replace('The guide distinguishes the 1997–2002 novel from the authorial reading and continuity declared in 2026.', 'The guide is limited to the published 1997–2002 novel and the authorised public reading, without anticipating later works.')
+                  t = t.replace('History of the Starkdr–Gritax species and continuity', 'History of the Starkdr–Gritax species')
+              if t != s:
+                  p.write_text(t, encoding='utf-8')
+          PY
+          git rm .github/workflows/one-shot-idea-sequel-privacy.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m 'docs(idea): enforce public boundary for unpublished sequel material'
+          git push origin HEAD:main
