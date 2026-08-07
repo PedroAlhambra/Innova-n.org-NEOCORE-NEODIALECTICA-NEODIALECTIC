@@ -1,0 +1,91 @@
+name: One-time child-protection postcheck repairs
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/postcheck-child-protection.yml
+
+permissions:
+  contents: write
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Repair eighth-wave index symmetry
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          ISSUE='https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45'
+          MAN='./manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md'
+          ANN='./anuncios/2026-08-07_OCTAVA_OLEADA_PROTECCION_INTEGRAL_INFANCIA_ES_EN.md'
+          MAX='./analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md'
+
+          # Open Synthesis coverage and EN eighth wave.
+          p=Path('propuestas/sintesis-abierta/README.md'); t=p.read_text(encoding='utf-8')
+          t=t.replace('los **37 manifiestos I–XXXVIII**', 'los **38 manifiestos I–XXXVIII**')
+          t=t.replace('all **36 Manifestos I–XXXVI**', 'all **38 Manifestos I–XXXVIII**')
+          en7='''## Seventh wave · Neofraternity and relational architecture\n\n| No. | Manifesto | Open Synthesis |\n|---:|---|---|\n| XXXVII | [Neofraternity™](../../manifiestos/37_neofraternidad_ES_EN.md) | [Issue #43](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/43) |\n'''
+          en8=f'''\n## Eighth wave · Childhood, education and civilisational transmission\n\n| No. | Manifesto | Open Synthesis |\n|---:|---|---|\n| XXXVIII | [Integral Protection of Childhood™](../../manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) | [Issue #45]({ISSUE}) |\n\n* [Child-protection MAXPROC](../../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)\n* [Sources and evidence matrix](../../analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md)\n'''
+          if '## Eighth wave · Childhood, education and civilisational transmission' not in t and en7 in t:
+              t=t.replace(en7,en7+en8,1)
+          p.write_text(t,encoding='utf-8')
+
+          # PORTADA: declare eighth wave and separate its section from seventh.
+          p=Path('PORTADA.md'); t=p.read_text(encoding='utf-8')
+          es7='* **Séptima oleada · XXXVII:** Neofraternidad™, autonomía relacional, actualización mutua y construcción de NeoNosotros™.'
+          en7b='* **Seventh wave · XXXVII:** Neofraternity™, relational autonomy, mutual updating and construction of NeoNosotros™.'
+          if '* **Octava oleada · XXXVIII:**' not in t:
+              t=t.replace(es7,es7+'\n* **Octava oleada · XXXVIII:** Protección Integral de la Infancia™, educación, soberanía digital y transmisión civilizatoria.',1)
+          if '* **Eighth wave · XXXVIII:**' not in t:
+              t=t.replace(en7b,en7b+'\n* **Eighth wave · XXXVIII:** Integral Protection of Childhood™, education, digital sovereignty and civilisational transmission.',1)
+          bad='''### Séptima oleada · Neofraternidad y arquitectura relacional\n\n* [XXXVII · Neofraternidad™](./manifiestos/37_neofraternidad_ES_EN.md)\n* [XXXVIII · Protección Integral de la Infancia™](./manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)\n* [Octava oleada · Protección Integral de la Infancia](./anuncios/2026-08-07_OCTAVA_OLEADA_PROTECCION_INTEGRAL_INFANCIA_ES_EN.md)'''
+          good=f'''### Séptima oleada · Neofraternidad y arquitectura relacional\n\n* [XXXVII · Neofraternidad™](./manifiestos/37_neofraternidad_ES_EN.md)\n\n### Octava oleada · Infancia, educación y transmisión civilizatoria\n\n* [XXXVIII · Protección Integral de la Infancia™]({MAN})\n* [MAXPROC · Protección Integral de la Infancia™]({MAX})\n* [Anuncio de la octava oleada]({ANN})\n* [Síntesis Abierta XXXVIII · Issue #45]({ISSUE})'''
+          t=t.replace(bad,good)
+          ensection='''### Seventh wave · Neofraternity and relational architecture\n\n* [XXXVII · Neofraternity™](./manifiestos/37_neofraternidad_ES_EN.md)\n* [Open Synthesis XXXVII · Issue #43](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/43)'''
+          enadd=f'''\n\n### Eighth wave · Childhood, education and civilisational transmission\n\n* [XXXVIII · Integral Protection of Childhood™]({MAN})\n* [MAXPROC · Integral Protection of Childhood™]({MAX})\n* [Eighth-wave announcement]({ANN})\n* [Open Synthesis XXXVIII · Issue #45]({ISSUE})'''
+          if '### Eighth wave · Childhood, education and civilisational transmission' not in t:
+              t=t.replace(ensection,ensection+enadd,1)
+          p.write_text(t,encoding='utf-8')
+
+          # COVER: complete seventh and eighth waves in both languages.
+          p=Path('COVER.md'); t=p.read_text(encoding='utf-8')
+          es6='''## Sexta oleada · XXXVI · Custodia civilizatoria y continuidad simbólica\n\n36. [Corona, Águila y Custodia de la Edad del Hombre™](./manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)'''
+          es78=f'''\n\n## Séptima oleada · XXXVII · Neofraternidad y arquitectura relacional\n\n37. [Neofraternidad™](./manifiestos/37_neofraternidad_ES_EN.md)\n\n## Octava oleada · XXXVIII · Infancia, educación y transmisión civilizatoria\n\n38. [Protección Integral de la Infancia™]({MAN})\n\n* [MAXPROC · Protección Integral de la Infancia™]({MAX})\n* [Síntesis Abierta · Issue #45]({ISSUE})'''
+          if '## Séptima oleada · XXXVII' not in t:
+              t=t.replace(es6,es6+es78,1)
+          en6='''## Sixth wave · XXXVI · Civilisational custodianship and symbolic continuity\n\n36. [Crown, Eagle and Custodianship of the Age of Man™](./manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)'''
+          en78=f'''\n\n## Seventh wave · XXXVII · Neofraternity and relational architecture\n\n37. [Neofraternity™](./manifiestos/37_neofraternidad_ES_EN.md)\n\n## Eighth wave · XXXVIII · Childhood, education and civilisational transmission\n\n38. [Integral Protection of Childhood™]({MAN})\n\n* [MAXPROC · Integral Protection of Childhood™]({MAX})\n* [Open Synthesis · Issue #45]({ISSUE})'''
+          if '## Seventh wave · XXXVII' not in t:
+              t=t.replace(en6,en6+en78,1)
+          # Add EN priority links if absent.
+          marker='* [Manifesto index I–XXXVIII](./manifiestos/README.md)'
+          enpri=f'''\n* [XXXVIII · Integral Protection of Childhood™]({MAN})\n* [Eighth wave · Integral Protection of Childhood]({ANN})'''
+          enpos=t.find('# EN · English')
+          if enpos>=0 and 'Eighth wave · Integral Protection of Childhood' not in t[enpos:]:
+              idx=t.find(marker,enpos)
+              if idx>=0:
+                  end=idx+len(marker)
+                  t=t[:end]+enpri+t[end:]
+          p.write_text(t,encoding='utf-8')
+
+          # LEEME: priority access already points at XXXVIII; add MAXPROC/Issue if absent.
+          p=Path('LEEME.md'); t=p.read_text(encoding='utf-8')
+          marker='* [XXXVIII · Protección Integral de la Infancia™](./manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)'
+          if marker in t and 'MAXPROC · Protección Integral de la Infancia™' not in t:
+              t=t.replace(marker,marker+f'\n* [MAXPROC · Protección Integral de la Infancia™]({MAX})\n* [Síntesis Abierta XXXVIII · Issue #45]({ISSUE})',1)
+          p.write_text(t,encoding='utf-8')
+
+          Path('.github/workflows/postcheck-child-protection.yml').unlink()
+          PY
+          git config user.name "Innova_N Documentation Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git commit -m "docs: repair XXXVIII index symmetry after postcheck" || exit 0
+          git push origin HEAD:main
