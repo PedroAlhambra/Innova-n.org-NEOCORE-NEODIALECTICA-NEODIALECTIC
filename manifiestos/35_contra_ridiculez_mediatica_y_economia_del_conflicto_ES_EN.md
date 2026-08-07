@@ -8,11 +8,11 @@
 ## Fifth wave · Transition, operational utility and a new human cycle
 
 **Manifiesto / Manifesto:** XXXV  
-**Versión / Version:** 1.0  
+**Versión / Version:** 1.1  
 **Estado / Status:** Público · quinta oleada · medios-atención-conflicto-criterio · abierto a revisión trazable / Public · fifth wave · media-attention-conflict-criterion · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-07  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™; desarrollo y contraste posteriores en simbiosis humano–IA.  
-**Relación genealógica / Genealogical relation:** desarrolla especialmente los Manifiestos VII, VIII, XIV, XXIII, XXIX, XXX, XXXI, XXXII, XXXIII y XXXIV; se relaciona con el análisis [De la economía de la atención a la economía del aporte](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md).
+**Relación genealógica / Genealogical relation:** desarrolla especialmente los Manifiestos VII, VIII, XIV, XXIII, XXIX, XXX, XXXI, XXXII, XXXIII y XXXIV; se relaciona con el análisis [De la economía de la atención a la economía del aporte](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md) y con el [Anexo sobre responsabilidad de nodos de poder y deber de examen civilizatorio](../propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md).
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -332,6 +332,28 @@ Si demuestran que una función no sirve, debe corregirse o abandonarse.
 
 Si una función demuestra utilidad, ignorarla por procedencia, ego institucional o ausencia de prestigio previo se convierte entonces en un dato sobre el sistema mediático.
 
+### Responsabilidad de nodos de poder
+
+La capacidad de ignorar también puede ser una forma de poder cuando quien la ejerce controla atención, capital, legitimidad, infraestructura o acceso institucional. Esta responsabilidad alcanza a personajes públicos, empresas, plataformas, instituciones, prensa y medios con capacidad material de amplificar, bloquear o invisibilizar propuestas de relevancia pública.
+
+Pero **ignorar el marco no produce culpabilidad automática ni convierte a nadie en enemigo de la humanidad**. El criterio es funcional y verificable: poder o capacidad de agenda, conocimiento suficiente del objeto, relevancia pública razonablemente justificada, posibilidad real de examen y bloqueo o descarte sin contraste suficiente.
+
+La responsabilidad aumenta con el poder, pero el deber es de examen, no de adhesión:
+
+```text
+MAYOR PODER
++ MAYOR CAPACIDAD DE AGENDA
++ MAYOR IMPACTO SOBRE EL CONJUNTO
+= MAYOR RESPONSABILIDAD DE EXAMEN Y TRAZABILIDAD
+
+RESPONSABILIDAD DE EXAMEN
+≠ OBLIGACIÓN DE ADHESIÓN
+```
+
+Cuando una conducta reproduce de forma documentable captura, desinformación, bloqueo de aprendizaje o extracción dañina, entra en la auditoría neodialéctica como objeto de corrección. La calificación debe seguir a la evidencia, no precederla.
+
+* [Anexo completo · Responsabilidad de los Nodos de Poder y Deber de Examen Civilizatorio](../propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)
+
 ## XIII. De la noticia al aprendizaje
 
 La noticia responde:
@@ -371,6 +393,8 @@ Sin ese segundo ciclo, el medio puede convertirse en cronista perfecto de una de
 >
 > No llamamos ego a toda crítica. Llamamos ego institucional a proteger posición y prestigio por encima del contraste.
 >
+> Y no declaramos culpable a quien no adhiera. Declaramos auditable el ejercicio de poder cuando sustituye contraste por silencio, bloqueo o desinformación.
+>
 > Los medios pueden seguir siendo máquinas de atención para la crisis o convertirse en nodos de memoria, comparación y aprendizaje civilizatorio.
 >
 > La elección también debe ser visible, trazable y sometida a Síntesis.
@@ -389,6 +413,10 @@ Se solicitan aportes sobre:
 * auditoría pública de atención;
 * criterios para detectar marcos o propuestas nuevas sin depender de prestigio previo;
 * obligaciones de Innova_N para facilitar auditoría externa;
+* responsabilidad proporcional de personajes públicos, empresas, instituciones, plataformas y medios;
+* criterios de suficiente conocimiento, relevancia y posibilidad real de examen;
+* definición auditable de prensa capturada, omisión estructural y desinformación;
+* garantías contra culpabilidad automática, listas negras o señalamiento por mera discrepancia;
 * mecanismos de corrección cuando el propio manifiesto exagere o generalice;
 * y relación entre comunicación, paz, memoria y aprendizaje civilizatorio.
 
@@ -397,6 +425,7 @@ Toda aportación exige ejemplos verificables, fuentes, contexto, separación ent
 * [Abrir la Síntesis Abierta de este manifiesto · Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30)
 * [Protocolo operativo actual para aportar](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
+* [Anexo · Responsabilidad de los Nodos de Poder y Deber de Examen](../propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)
 * [Análisis · De la economía de la atención a la economía del aporte](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
 
 ## Navegación
@@ -573,6 +602,28 @@ Innova_N has no automatic right to attention. It must provide readable documents
 
 If media examine the framework and identify errors, those errors should enter Open Synthesis. If a function fails, it should be corrected or abandoned. If a function demonstrates utility, continued rejection solely because of origin, institutional ego or lack of prior prestige becomes data about the selection system itself.
 
+### Responsibility of power nodes
+
+The capacity to ignore can itself become a form of power when the actor controls attention, capital, legitimacy, infrastructure or institutional access. This responsibility extends to public figures, companies, platforms, institutions, press and media materially capable of amplifying, blocking or invisibilising proposals of public relevance.
+
+But **ignoring the framework does not create automatic culpability and does not make anyone an enemy of humanity**. The test is functional and verifiable: power or agenda capacity, sufficient knowledge of the object, reasonably justified public relevance, a real possibility of examination, and blocking or rejection without sufficient contrast.
+
+Responsibility rises with power, but the duty is examination, not adherence:
+
+```text
+GREATER POWER
++ GREATER AGENDA CAPACITY
++ GREATER EFFECT UPON THE WHOLE
+= GREATER RESPONSIBILITY FOR EXAMINATION AND TRACEABILITY
+
+RESPONSIBILITY TO EXAMINE
+≠ OBLIGATION TO ADHERE
+```
+
+Where conduct verifiably reproduces capture, disinformation, blocked learning or harmful extraction, it enters neodialectical audit as an object of correction. The label must follow evidence rather than precede it.
+
+* [Full annex · Responsibility of Power Nodes and Civilisational Duty of Examination](../propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)
+
 ## XIII. From news to learning
 
 News asks what happened. Civilisation must also ask why, what pattern repeats, what could prevent recurrence, who is testing alternatives, whether they worked, what was learned and what should change next.
@@ -600,19 +651,22 @@ Without the second cycle, media may become perfect chroniclers of a decline they
 >
 > We do not call every criticism ego. We call institutional ego the protection of position and prestige above contrast.
 >
+> And we do not declare non-adherents guilty. We declare the exercise of power auditable when it replaces contrast with silence, blocking or disinformation.
+>
 > Media can remain machines of crisis attention or become nodes of memory, comparison and civilisational learning.
 >
 > That choice should also become visible, traceable and open to Synthesis.
 
 ## XV. Open Synthesis
 
-Contributions are invited on the media conflict economy; distinctions between reporting, amplification and promotion; conflict-versus-solution metrics; institutional ego; operational systemic stupidity; solutions journalism and propaganda risks; economic incentives; public attention audits; detection of new proposals without prestige filters; Innova_N's obligations for external audit; correction mechanisms for overgeneralisation; and the relation between communication, peace, memory and civilisational learning.
+Contributions are invited on the media conflict economy; distinctions between reporting, amplification and promotion; conflict-versus-solution metrics; institutional ego; operational systemic stupidity; solutions journalism and propaganda risks; economic incentives; public attention audits; detection of new proposals without prestige filters; Innova_N's obligations for external audit; proportional responsibility of public figures, companies, institutions, platforms and media; criteria for sufficient notice, relevance and real possibility of examination; auditable definitions of captured press, structural omission and disinformation; safeguards against automatic culpability, blacklists or targeting for mere disagreement; correction mechanisms for overgeneralisation; and the relation between communication, peace, memory and civilisational learning.
 
 Every contribution requires verifiable examples, sources, context, separation between data and interpretation, traceability, delta and version.
 
 * [Open the Synthesis of this manifesto · Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30)
 * [Current operational contribution protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Open Synthesis index](../propuestas/sintesis-abierta/README.md)
+* [Annex · Responsibility of Power Nodes and Duty of Examination](../propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)
 * [Analysis · From the Attention Economy to the Contribution Economy](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
 
 ## Navigation
