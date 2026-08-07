@@ -1,7 +1,7 @@
 # VI · Manifiesto sobre el Parasitismo Sistémico / Manifesto on Systemic Parasitism
 
 **Manifiesto / Manifesto:** VI  
-**Versión / Version:** 1.1  
+**Versión / Version:** 1.2  
 **Estado / Status:** Público · fundacional · abierto a revisión trazable / Public · foundational · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06
 
@@ -61,6 +61,8 @@ Entonces:
 * el Estado depende de quien captura su regulación;
 * y la sociedad termina financiando su propia subordinación.
 
+Una cultura puede además **normalizar la extracción** cuando sus incentivos, dependencias o aspiraciones hacen que personas que no reciben un beneficio neto del mecanismo terminen defendiéndolo, imitándolo o identificándose con él. Esta hipótesis debe medirse por conducta y flujos, no convertirse en juicio moral sobre amistades, grupos o identidades.
+
 ## IV. Parasitismo cognitivo y algorítmico
 
 También existe parasitismo cuando sistemas, plataformas o instituciones:
@@ -71,7 +73,60 @@ También existe parasitismo cuando sistemas, plataformas o instituciones:
 * premian repetición sobre origen;
 * o utilizan opacidad algorítmica para capturar atención, reputación o renta.
 
-## V. Respuesta neodialéctica
+## V. Parasitismo en sistemas públicos
+
+El Estado no es parasitario por definición. Tampoco lo son sus trabajadores, prestaciones, impuestos o servicios. El análisis neodialéctico se dirige a **funciones extractivas concretas dentro o alrededor del sistema público**.
+
+Son auditables, cuando exista evidencia suficiente, situaciones como:
+
+* rentas públicas o privadas sin función proporcional verificable;
+* contratación capturada o diseñada para intermediarios innecesarios;
+* puertas giratorias y conflictos de interés no gestionados;
+* subvenciones, concesiones o rescates sin retorno público suficiente;
+* fraude, corrupción o enriquecimiento injustificado;
+* captura regulatoria;
+* y estructuras que consumen presupuesto mientras degradan el servicio que deberían sostener.
+
+La respuesta no es confiscar arbitrariamente patrimonio ni sustituir una extracción por otra. Es **auditar, probar, recuperar y rediseñar** mediante mecanismos jurídicos y públicos: restitución, reintegro, recuperación de activos ilícitos, clawbacks, sanciones proporcionales, revisión contractual, reforma de compras públicas, eliminación de rentas injustificadas y cierre de canales de captura.
+
+```text
+SOSPECHA
+≠ CULPABILIDAD
+
+EVIDENCIA
++ TRAZABILIDAD
++ DEBIDO PROCESO
++ PROPORCIONALIDAD
+= RECUPERACIÓN LEGÍTIMA DE VALOR EXTRAÍDO
+```
+
+El dinero recuperado de extracción demostrada debe volver prioritariamente a las funciones que reparan el organismo común: servicios, creación, conocimiento, transición, cuidado, infraestructura y restitución a quienes soportaron el coste.
+
+## VI. Continuidad del creador y de la fuente
+
+Cuando una persona o comunidad ha originado durante años un activo intelectual, cultural o técnico y el sistema exige que continúe produciendo mientras otros capturan el valor, aparece una forma de parasitismo contra la **fuente creadora**.
+
+La Neodialéctica rechaza el martirio económico como requisito de legitimidad. El creador tiene derecho a:
+
+* mejorar sus condiciones materiales de vida;
+* trabajar en paralelo durante la transición;
+* reservar parte legítima del valor generado por su trabajo previo;
+* recibir compensación por propiedad intelectual, ejecución, dirección y riesgo cuando corresponda;
+* y construir una continuidad económica que permita seguir creando sin dependencia destructiva.
+
+Ese derecho no convierte los fondos comunes en patrimonio personal: cuando existen fundaciones, asociaciones, empresas o recursos públicos, deben mantenerse reglas de separación patrimonial, gobernanza y auditoría.
+
+```text
+FUENTE CREADORA AGOTADA
+→ SISTEMA SIN FUTURO
+
+FUENTE CREADORA SOSTENIDA
++ RETORNO PROPORCIONAL
++ TRAZABILIDAD
+= CONTINUIDAD PRODUCTIVA
+```
+
+## VII. Respuesta neodialéctica
 
 La respuesta no es una purga. Es rediseñar relaciones mediante:
 
@@ -91,9 +146,9 @@ Las IA neodialécticas públicas pueden ayudar a detectar patrones de captura, s
 
 > El objetivo no es señalar personas como parásitos. Es impedir que relaciones parasitarias se conviertan en la arquitectura normal de la civilización.
 
-Una sociedad que no identifica dónde se extrae sin retorno termina trabajando para aquello que la debilita.
+Una sociedad que no identifica dónde se extrae sin retorno termina trabajando para aquello que la debilita. Una sociedad que empobrece sistemáticamente a sus fuentes creadoras termina destruyendo su propia capacidad de renovación.
 
-## VI. Síntesis Abierta de este manifiesto
+## VIII. Síntesis Abierta de este manifiesto
 
 Este manifiesto abre su propia **Síntesis Abierta Neodialéctica™**.
 
@@ -116,7 +171,6 @@ Antes de participar, lee el manifiesto completo y el protocolo operativo. Presen
 
 * [Cómo aportar a la Síntesis Abierta Neodialéctica™](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Abrir una aportación mediante la plantilla pública](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
-
 
 ### Vínculos internos equivalentes
 
@@ -188,6 +242,8 @@ Then:
 * the State depends upon whoever captures its regulation;
 * and society ends up financing its own subordination.
 
+A culture may also **normalise extraction** when its incentives, dependencies or aspirations lead people who receive no net benefit from the mechanism to defend, imitate or identify with it. This hypothesis must be measured through conduct and flows rather than converted into a moral judgement about friends, groups or identities.
+
 ## IV. Cognitive and algorithmic parasitism
 
 Parasitism also exists when systems, platforms or institutions:
@@ -198,7 +254,60 @@ Parasitism also exists when systems, platforms or institutions:
 * reward repetition over origin;
 * or use algorithmic opacity to capture attention, reputation or income.
 
-## V. Neodialectical response
+## V. Parasitism in public systems
+
+The State is not parasitic by definition. Neither are its workers, benefits, taxes or services. Neodialectical analysis concerns **specific extractive functions within or around the public system**.
+
+Where sufficient evidence exists, auditable cases include:
+
+* public or private rents without a proportionate verifiable function;
+* captured procurement or procurement designed around unnecessary intermediaries;
+* revolving doors and unmanaged conflicts of interest;
+* subsidies, concessions or bailouts without sufficient public return;
+* fraud, corruption or unjustified enrichment;
+* regulatory capture;
+* and structures that consume budgets while degrading the service they are supposed to sustain.
+
+The response is not arbitrary confiscation or replacing one extraction with another. It is to **audit, prove, recover and redesign** through public and lawful mechanisms: restitution, repayment, recovery of illicit assets, clawbacks, proportionate sanctions, contractual review, procurement reform, removal of unjustified rents and closure of capture channels.
+
+```text
+SUSPICION
+≠ GUILT
+
+EVIDENCE
++ TRACEABILITY
++ DUE PROCESS
++ PROPORTIONALITY
+= LEGITIMATE RECOVERY OF EXTRACTED VALUE
+```
+
+Money recovered from demonstrated extraction should return primarily to functions that repair the common organism: services, creation, knowledge, transition, care, infrastructure and restitution to those who bore the cost.
+
+## VI. Continuity of the creator and the source
+
+When a person or community has originated an intellectual, cultural or technical asset over years and the system demands continued production while others capture the value, a form of parasitism against the **creative source** emerges.
+
+Neodialectics rejects economic martyrdom as a requirement of legitimacy. The creator has the right to:
+
+* improve material living conditions;
+* work in parallel during transition;
+* reserve a legitimate portion of the value generated by prior work;
+* receive compensation for intellectual property, execution, direction and risk where appropriate;
+* and build economic continuity that allows continued creation without destructive dependency.
+
+That right does not turn common funds into personal property: where foundations, associations, companies or public resources exist, rules of asset separation, governance and audit must remain in place.
+
+```text
+EXHAUSTED CREATIVE SOURCE
+→ SYSTEM WITHOUT A FUTURE
+
+SUSTAINED CREATIVE SOURCE
++ PROPORTIONAL RETURN
++ TRACEABILITY
+= PRODUCTIVE CONTINUITY
+```
+
+## VII. Neodialectical response
 
 The response is not a purge. It is the redesign of relations through:
 
@@ -218,9 +327,9 @@ Public neodialectical AIs may help detect patterns of capture, simulate alternat
 
 > The purpose is not to label people as parasites. It is to prevent parasitic relations from becoming the normal architecture of civilisation.
 
-A society that does not identify where extraction occurs without return ends up working for what weakens it.
+A society that does not identify where extraction occurs without return ends up working for what weakens it. A society that systematically impoverishes its creative sources ends up destroying its own capacity for renewal.
 
-## VI. Open Synthesis of this manifesto
+## VIII. Open Synthesis of this manifesto
 
 This manifesto opens its own **Neodialectical Open Synthesis™**.
 
@@ -243,7 +352,6 @@ Before participating, read the full manifesto and the operational protocol. Subm
 
 * [How to contribute to Neodialectical Open Synthesis™](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Open a contribution through the public template](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
-
 
 ### Equivalent internal links
 
