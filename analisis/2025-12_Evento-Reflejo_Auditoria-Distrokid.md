@@ -4,7 +4,7 @@
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
-[⬅ Volver a la Wiki / Back to Wiki](../../wiki)
+[⬅ Volver a la Wiki / Back to Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
 
 ---
 
@@ -1108,4 +1108,4 @@ Personal, financial and security-sensitive evidence is not included in the publi
 
 # Navegación / Navigation
 
-[⬅ Volver a la Wiki / Back to Wiki](../../wiki)
+[⬅ Volver a la Wiki / Back to Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)

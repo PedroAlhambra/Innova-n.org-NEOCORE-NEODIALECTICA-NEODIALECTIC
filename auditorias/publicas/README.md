@@ -26,6 +26,14 @@ This directory gathers public notices, traces and audits documented by Innova_N.
 
   Preserves the historical review of links and sources performed on 6 August 2026. Later changes should be verified through their own commits and the current canonical indexes.
 
+* [2026-08-07 · Postcheck de enlaces y sincronización documental tras XXXV](./2026-08-07_postcheck_enlaces_y_sincronizacion_XXXV_ES_EN.md)
+
+  Revisa la simetría README/LEEME, PORTADA, COVER, Síntesis Abierta y fuente Wiki; comprueba enlaces Markdown relativos y registra correcciones de rutas.
+
+* [2026-08-07 · Link and documentary synchronisation postcheck after XXXV](./2026-08-07_postcheck_enlaces_y_sincronizacion_XXXV_ES_EN.md)
+
+  Reviews README/LEEME symmetry, PORTADA, COVER, Open Synthesis and Wiki source; checks relative Markdown links and records path corrections.
+
 ### Publicación editorial / Publishing
 
 * [2026-08-06 · Auditoría indirecta pública de KDP, Author Central e IDEA](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)

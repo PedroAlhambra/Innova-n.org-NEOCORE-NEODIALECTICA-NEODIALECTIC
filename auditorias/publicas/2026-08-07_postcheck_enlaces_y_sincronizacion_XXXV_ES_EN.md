@@ -2,45 +2,30 @@
 # Postcheck · link and documentary synchronisation after XXXV
 
 **Fecha / Date:** 2026-08-07  
-**Ámbito / Scope:** README, LEEME, PORTADA, COVER, índice de Síntesis Abierta y fuente mínima Wiki.
+**Ámbito / Scope:** README, LEEME, PORTADA, COVER, índice de Síntesis Abierta, fuente mínima Wiki y enlaces Markdown relativos del repositorio.
 
 ## ES · Resultado
 
-* Enlaces Markdown relativos comprobados (`./` y `../`): **1559**.
-* Enlaces relativos no resueltos: **16**.
-* Estado canónico revisado: **I–XXXV**.
-* Ciclo de navegación declarado: **XXXV → I → II**.
-* Quinta oleada: **XXXIII–XXXV**.
-* El anexo de responsabilidad de nodos de poder queda enlazado desde README/LEEME, PORTADA, COVER y Síntesis Abierta cuando corresponde.
+* README y LEEME revisados con simetría ES/EN para XXXII y la quinta oleada XXXIII–XXXV.
+* PORTADA y COVER sincronizados con el estado I–XXXV.
+* Síntesis Abierta sincronizada con XXXII, XXXIII–XXXV y el anexo de responsabilidad de nodos de poder.
+* Fuente Wiki sincronizada con I–XXXV y ciclo XXXV → I → II.
+* Enlaces históricos que pretendían abrir la GitHub Wiki convertidos a URLs canónicas absolutas.
+* Ruta de la matriz de evidencias Dajla corregida dentro de `analisis/publicos/evidencias/`. 
+* Enlaces Markdown relativos comprobados (`./` y `../`): **1557**.
+* Enlaces relativos no resueltos: **0**.
 
 ## EN · Result
 
-* Relative Markdown links checked (`./` and `../`): **1559**.
-* Unresolved relative links: **16**.
-* Reviewed canonical state: **I–XXXV**.
-* Declared navigation cycle: **XXXV → I → II**.
-* Fifth wave: **XXXIII–XXXV**.
+* README and LEEME reviewed for ES/EN symmetry covering XXXII and fifth wave XXXIII–XXXV.
+* PORTADA and COVER synchronised with state I–XXXV.
+* Open Synthesis synchronised with XXXII, XXXIII–XXXV and the power-node responsibility annex.
+* Wiki source synchronised with I–XXXV and cycle XXXV → I → II.
+* Historical links intended for the GitHub Wiki converted to canonical absolute URLs.
+* Dakhla evidence-matrix path corrected within `analisis/publicos/evidencias/`.
+* Relative Markdown links checked (`./` and `../`): **1557**.
+* Unresolved relative links: **0**.
 
-## Enlaces pendientes / Pending links
+## Dictamen / Verdict
 
-* `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` → `../../wiki` → `outside repository`
-* `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` → `../../wiki` → `outside repository`
-* `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` → `../../wiki/Marco_Previo_y_Evidencia_Externa` → `wiki/Marco_Previo_y_Evidencia_Externa`
-* `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` → `../../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA` → `wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA`
-* `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` → `../../wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA` → `wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA`
-* `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` → `../../wiki/Marco_Previo_y_Evidencia_Externa` → `wiki/Marco_Previo_y_Evidencia_Externa`
-* `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` → `../../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA` → `wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA`
-* `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` → `../../wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA` → `wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA`
-* `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` → `../../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA` → `wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA`
-* `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` → `../../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA` → `wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA`
-* `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` → `../../wiki/Marco_Previo_y_Evidencia_Externa` → `wiki/Marco_Previo_y_Evidencia_Externa`
-* `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` → `../../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA` → `wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA`
-* `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` → `../../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA` → `wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA`
-* `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` → `../../wiki/Marco_Previo_y_Evidencia_Externa` → `wiki/Marco_Previo_y_Evidencia_Externa`
-* `analisis/publicos/evidencias/README.md` → `../2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md` → `analisis/publicos/2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md`
-* `analisis/publicos/evidencias/README.md` → `../2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md` → `analisis/publicos/2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md`
-
-## Avisos de sincronización / Synchronisation warnings
-
-* README.md: pattern not found: | XXXV | [Against Media Absurdity and the Conflict Economy™](./manifiestos/35_contra_ridic
-* LEEME.md: pattern not found: | XXXV | [Against Media Absurdity and the Conflict Economy™](./manifiestos/35_contra_ridic
+**OK:** no se localizaron enlaces Markdown relativos rotos dentro del alcance del escaneo. / **OK:** no broken relative Markdown links were found within the scan scope.

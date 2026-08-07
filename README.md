@@ -631,6 +631,17 @@ The manifestos are not accessory documents, auxiliary summaries or isolated slog
 | XXIX | [Against the Idolatry of Money™](./manifiestos/29_idolatria_del_dinero_ES_EN.md) | Subordinate price, profitability and accumulation to life, dignity, truth and the Common Good | [Issue #23](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/23) |
 | XXX | [Coherence between Ends and Means™](./manifiestos/30_coherencia_fines_medios_ES_EN.md) | Enter the terrain of power and markets without reproducing what is being fought | [Issue #24](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/24) |
 | XXXI | [Against Anti-Humanist Neuromarketing™](./manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md) | Persuade, communicate and compete without exploiting vulnerability or capturing consciousness | [Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25) |
+| XXXII | [Neodialectical Ideological Reversal™](./manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md) | Reverse inherited mechanisms towards autonomy, memory, traceability and human direction | [Issue #26](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/26) |
+
+## Fifth wave · transition, operational utility and civilisational attention · XXXIII–XXXV
+
+| No. | Manifesto | Function | Open Synthesis |
+|---:|---|---|---|
+| XXXIII | [IDEA · Civilisational Cornerstone and Rosetta Stone™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md) | Narrative vehicle of the Human Neo-Renaissance and systemic reset through replacement | [Issue #28](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/28) |
+| XXXIV | [Operational Utility of the Framework and Perpetual Joint Audit™](./manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) | Practical application, public audit and permanent self-correction | [Issue #29](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/29) |
+| XXXV | [Against Media Absurdity and the Conflict Economy™](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) | Civilisational attention, conflict audit and media learning | [Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |
+
+**Linked annex:** [Responsibility of Power Nodes and Civilisational Duty of Examination](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md).
 
 Manifesto III maintains its own [Open Synthesis · Issue #3](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3).
 

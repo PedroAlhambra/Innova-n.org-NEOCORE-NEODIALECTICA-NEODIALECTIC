@@ -85,7 +85,7 @@ Buscaba fijar el núcleo del problema:
 Esa pregunta sigue siendo válida porque toca la capa que suele quedar oculta cuando el debate se reduce a seguridad, producto, benchmark o regulación reactiva.
 
 **Registro relacionado:**
-- [Pregunta institucional a Anthropic sobre gobernanza de IA](../../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
+- [Pregunta institucional a Anthropic sobre gobernanza de IA](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
 
 ---
 
@@ -220,9 +220,9 @@ Este análisis fija públicamente lo siguiente:
 ## 11. Relación con otros registros
 
 **Relacionado:**
-- [Pregunta institucional a Anthropic sobre gobernanza de IA](../../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
+- [Pregunta institucional a Anthropic sobre gobernanza de IA](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
 - [Convergencia neodialéctica no reconocida en la IA institucional](./2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
-- [Marco previo y evidencia externa](../../wiki/Marco_Previo_y_Evidencia_Externa)
+- [Marco previo y evidencia externa](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Marco_Previo_y_Evidencia_Externa)
 - [Stanford / ACE y el marco previo neodialéctico](./2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
 
 ---
@@ -302,7 +302,7 @@ It was meant to fix the core issue:
 That question remains valid because it touches the layer that tends to remain hidden when debate is reduced to safety, product, benchmark, or reactive regulation.
 
 **Related record:**
-- [Institutional Question to Anthropic about AI Governance](../../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
+- [Institutional Question to Anthropic about AI Governance](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
 
 ---
 
@@ -437,7 +437,7 @@ This analysis publicly fixes the following:
 ## 11. Relation to other records
 
 **Related:**
-- [Institutional Question to Anthropic about AI Governance](../../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
+- [Institutional Question to Anthropic about AI Governance](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
 - [Unrecognized neodialectical convergence in institutional AI](./2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
-- [Prior framework and external evidence](../../wiki/Marco_Previo_y_Evidencia_Externa)
+- [Prior framework and external evidence](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Marco_Previo_y_Evidencia_Externa)
 - [Stanford / ACE and the prior neodialectical framework](./2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)

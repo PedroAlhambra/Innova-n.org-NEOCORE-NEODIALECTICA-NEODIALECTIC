@@ -183,9 +183,9 @@ no como adorno filosófico del progreso técnico, sino como intento de corregir 
 Este caso queda vinculado a la capa pública del repositorio como parte de la trazabilidad de marco previo.
 
 **Relacionado:**
-- [Marco_Previo_y_Evidencia_Externa](../../wiki/Marco_Previo_y_Evidencia_Externa)
-- [Pregunta_Institucional_Anthropic_Gobernanza_IA](../../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
-- [Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA](../../wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
+- [Marco_Previo_y_Evidencia_Externa](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Marco_Previo_y_Evidencia_Externa)
+- [Pregunta_Institucional_Anthropic_Gobernanza_IA](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
+- [Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
 
 ---
 
@@ -316,6 +316,6 @@ That limit remains the same:
 This case is linked to the public repository layer as part of the traceability of prior framework.
 
 **Related:**
-- [Marco_Previo_y_Evidencia_Externa](../../wiki/Marco_Previo_y_Evidencia_Externa)
-- [Pregunta_Institucional_Anthropic_Gobernanza_IA](../../wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
-- [Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA](../../wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
+- [Marco_Previo_y_Evidencia_Externa](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Marco_Previo_y_Evidencia_Externa)
+- [Pregunta_Institucional_Anthropic_Gobernanza_IA](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Pregunta_Institucional_Anthropic_Gobernanza_IA)
+- [Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Convergencia_neodialectica_OpenAI_Anthropic_Instituciones_IA)
