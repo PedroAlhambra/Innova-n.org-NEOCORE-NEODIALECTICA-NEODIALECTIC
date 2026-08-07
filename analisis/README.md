@@ -26,6 +26,14 @@ Esta carpeta reúne los materiales públicos de análisis, auditoría y trazabil
 
 Caso `51071689`. Registra una aplicación práctica del Neodialectica Framework™: detección y trazabilidad de problemas multilingües, corrección verificable del caso, propuestas estructuradas para KDP y Author Central y recepción positiva de esas propuestas. Amazon queda clasificada funcionalmente por Innova_N como **cliente gratuito por el Bien Común**, sin que ello implique contrato, deuda, asociación ni adhesión formal al marco.
 
+### Actualización del expediente DistroKid–Spotify
+
+* [Respuesta de Spotify y requerimiento de trazabilidad de regalías](./publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md)
+* [Segundo escalado a DistroKid por ausencia de respuesta sustantiva](./publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md)
+* [Documento matriz de la auditoría](./2025-12_Evento-Reflejo_Auditoria-Distrokid.md)
+
+La actualización separa la respuesta declarativa de Spotify de la conciliación económica todavía no entregada, conserva la ausencia de respuesta sustantiva localizada de DistroKid hasta el momento documentado y registra el nuevo requerimiento formal de datos, responsable humano y corrección de regalías.
+
 ### Auditoría indirecta pública · KDP, Author Central e IDEA
 
 * [Documento bilingüe completo](./publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
@@ -89,6 +97,14 @@ This folder gathers public analysis, audit and documentary traceability material
 * [Originating indirect audit](./publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 
 Case `51071689`. It records a practical application of the Neodialectica Framework™: detection and traceability of multilingual problems, verifiable correction of the case, structured proposals for KDP and Author Central, and positive reception of those proposals. Innova_N functionally classifies Amazon as a **free client for the Common Good**, without implying a contract, debt, partnership or formal endorsement of the framework.
+
+### DistroKid–Spotify case update
+
+* [Spotify reply and demand for royalty traceability](./publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md)
+* [Second escalation to DistroKid over the lack of a substantive response](./publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md)
+* [Parent audit document](./2025-12_Evento-Reflejo_Auditoria-Distrokid.md)
+
+The update separates Spotify’s declarative reply from the economic reconciliation that has not yet been supplied, preserves the documented absence of a substantive DistroKid response through the recorded time and registers the renewed formal request for data, a human case owner and royalty correction.
 
 ### Public indirect audit · KDP, Author Central and IDEA
 
