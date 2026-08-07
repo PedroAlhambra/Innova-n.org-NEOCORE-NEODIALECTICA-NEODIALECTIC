@@ -1,0 +1,163 @@
+name: One-shot manifesto README completeness audit
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/one-shot-audit-manifestos-readme.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Audit and repair manifesto README
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+
+          root = Path('.')
+          mdir = root / 'manifiestos'
+          readme = mdir / 'README.md'
+
+          def roman_to_int(s):
+              vals={'I':1,'V':5,'X':10,'L':50,'C':100,'D':500,'M':1000}
+              total=0; prev=0
+              for ch in reversed(s):
+                  v=vals[ch]
+                  if v < prev: total -= v
+                  else: total += v; prev=v
+              return total
+
+          manifests=[]
+          for p in sorted(mdir.glob('*.md')):
+              if p.name == 'README.md':
+                  continue
+              text=p.read_text(encoding='utf-8',errors='replace')
+              first=text.splitlines()[0] if text.splitlines() else ''
+              m=re.match(r'^#\s+([IVXLCDM]+)\s+·\s+(.+)$', first)
+              if m:
+                  manifests.append((roman_to_int(m.group(1)), m.group(1), m.group(2).strip(), p.name))
+
+          manifests.sort()
+          nums=[x[0] for x in manifests]
+          expected=list(range(1,38))
+          duplicate_nums=sorted({n for n in nums if nums.count(n)>1})
+          missing_nums=[n for n in expected if n not in nums]
+          extra_nums=[n for n in nums if n not in expected]
+
+          s=readme.read_text(encoding='utf-8')
+          linked=set(re.findall(r'\]\(\./([^)]+\.md)\)', s))
+          manifest_files={x[3] for x in manifests}
+          missing_links=sorted(manifest_files-linked)
+
+          # Explicit current coverage near the collection description.
+          es_anchor='La colección se organiza desde el 7 de agosto de 2026 en siete oleadas relacionadas:\n'
+          es_insert='La colección canónica contiene **37 manifiestos bilingües, I–XXXVII**, organizados desde el 7 de agosto de 2026 en siete oleadas relacionadas:\n'
+          if es_anchor in s:
+              s=s.replace(es_anchor,es_insert,1)
+
+          en_anchor='Since 7 August 2026, the collection has been organised into seven related waves:\n'
+          en_insert='The canonical collection contains **37 bilingual manifestos, I–XXXVII**, organised since 7 August 2026 into seven related waves:\n'
+          if en_anchor in s:
+              s=s.replace(en_anchor,en_insert,1)
+
+          # Spanish thematic list lacked the latest relational delta.
+          old='* continuidad simbólica sin restauración dogmática;\n* y transformación responsable de la memoria heredada.\n'
+          new='* continuidad simbólica sin restauración dogmática;\n* transformación responsable de la memoria heredada;\n* y **Neofraternidad™** como arquitectura relacional de coexistencia, reconocimiento, actualización mutua y construcción de NeoNosotros™.\n'
+          if old in s:
+              s=s.replace(old,new,1)
+
+          # Reading architecture must include the seventh-wave manifesto before returning to I.
+          s=s.replace(
+              'XXXVI · CORONA, ÁGUILA Y CUSTODIA DE LA EDAD DEL HOMBRE\n        ↓\nI · NEO0™ · RETORNO A ORIGEN Y NUEVO CICLO',
+              'XXXVI · CORONA, ÁGUILA Y CUSTODIA DE LA EDAD DEL HOMBRE\n        ↓\nXXXVII · NEOFRATERNIDAD™\n        ↓\nI · NEO0™ · RETORNO A ORIGEN Y NUEVO CICLO'
+          )
+          s=s.replace(
+              'XXXVI · CROWN, EAGLE AND CUSTODIANSHIP OF THE AGE OF MAN\n        ↓\nI · NEO0™ · RETURN TO ORIGIN AND NEW CYCLE',
+              'XXXVI · CROWN, EAGLE AND CUSTODIANSHIP OF THE AGE OF MAN\n        ↓\nXXXVII · NEOFRATERNITY™\n        ↓\nI · NEO0™ · RETURN TO ORIGIN AND NEW CYCLE'
+          )
+
+          # Avoid stale blanket version claims in the first wave; each manifesto carries its own current version.
+          s=s.replace(
+              'La primera oleada queda formada por **doce manifiestos fundacionales**. Los once manifiestos anteriores permanecen fijados como versiones 1.1 y el Manifiesto III como versión 1.0.',
+              'La primera oleada queda formada por **doce manifiestos fundacionales**. Cada manifiesto conserva en su cabecera su versión vigente y su historial trazable; las revisiones posteriores no alteran el conteo canónico.'
+          )
+          s=s.replace(
+              'The first wave comprises **twelve foundational manifestos**. The second wave contains Manifestos **XIII–XIX**.',
+              'The first wave comprises **twelve foundational manifestos**. Each manifesto preserves its current version and traceable history in its own header; later revisions do not alter the canonical count. The second wave contains Manifestos **XIII–XIX**.'
+          )
+
+          readme.write_text(s,encoding='utf-8')
+
+          # Re-read and verify after repair.
+          current=readme.read_text(encoding='utf-8')
+          linked_after=set(re.findall(r'\]\(\./([^)]+\.md)\)', current))
+          missing_links_after=sorted(manifest_files-linked_after)
+          has_es_cycle='XXXVI · CORONA, ÁGUILA Y CUSTODIA DE LA EDAD DEL HOMBRE\n        ↓\nXXXVII · NEOFRATERNIDAD™\n        ↓\nI · NEO0™' in current
+          has_en_cycle='XXXVI · CROWN, EAGLE AND CUSTODIANSHIP OF THE AGE OF MAN\n        ↓\nXXXVII · NEOFRATERNITY™\n        ↓\nI · NEO0™' in current
+          has_counts=('37 manifiestos bilingües, I–XXXVII' in current and '37 bilingual manifestos, I–XXXVII' in current)
+
+          findings=[]
+          if nums != expected: findings.append(f'Numeración real distinta de I–XXXVII: {nums}')
+          if duplicate_nums: findings.append(f'Numerales duplicados: {duplicate_nums}')
+          if missing_nums: findings.append(f'Numerales ausentes: {missing_nums}')
+          if extra_nums: findings.append(f'Numerales fuera de rango: {extra_nums}')
+          if missing_links_after: findings.append(f'Archivos no enlazados desde README: {missing_links_after}')
+          if not has_es_cycle: findings.append('Arquitectura ES no cierra XXXVI → XXXVII → I')
+          if not has_en_cycle: findings.append('Arquitectura EN no cierra XXXVI → XXXVII → I')
+          if not has_counts: findings.append('Falta conteo canónico 37 I–XXXVII en ES/EN')
+
+          report=Path('auditorias/publicas/2026-08-07_postcheck_readme_manifiestos_I_XXXVII.md')
+          lines=[
+              '# Postcheck · README de manifiestos I–XXXVII',
+              '',
+              '**Fecha / Date:** 2026-08-07  ',
+              '',
+              f'- Archivos de manifiesto detectados / Manifesto files detected: **{len(manifests)}**',
+              f'- Numeración / Numbering: **I–XXXVII**' if nums==expected else f'- Numeración detectada / Detected numbering: `{nums}`',
+              f'- Archivos canónicos no enlazados desde `manifiestos/README.md`: **{len(missing_links_after)}**',
+              f'- Numerales duplicados / Duplicate numerals: **{len(duplicate_nums)}**',
+              f'- Numerales ausentes / Missing numerals: **{len(missing_nums)}**',
+              f'- Arquitectura ES XXXVI → XXXVII → I: **{"OK" if has_es_cycle else "FALLO"}**',
+              f'- Reading architecture EN XXXVI → XXXVII → I: **{"OK" if has_en_cycle else "FAIL"}**',
+              f'- Conteo bilingüe 37 I–XXXVII / Bilingual count 37 I–XXXVII: **{"OK" if has_counts else "FALLO"}**',
+              '',
+              '## Inventario / Inventory',
+              ''
+          ]
+          for n,roman,title,fn in manifests:
+              lines.append(f'- **{roman}** · `{fn}` · {title}')
+          lines += ['', '## Dictamen / Verdict', '']
+          if findings:
+              lines.append('**INCIDENCIAS:**')
+              lines += [f'- {x}' for x in findings]
+          else:
+              lines.append('**OK TOTAL:** los 37 manifiestos canónicos I–XXXVII existen, están enlazados desde el README y la arquitectura de lectura ES/EN incorpora correctamente XXXVII antes del retorno a I.')
+          report.write_text('\n'.join(lines)+'\n',encoding='utf-8')
+
+          if findings:
+              print('\n'.join('FINDING '+x for x in findings))
+              raise SystemExit(1)
+
+          Path('.github/workflows/one-shot-audit-manifestos-readme.yml').unlink()
+
+      - name: Commit repaired README and postcheck
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "docs(manifestos): repair and verify README I-XXXVII"
+            git push
+          fi
