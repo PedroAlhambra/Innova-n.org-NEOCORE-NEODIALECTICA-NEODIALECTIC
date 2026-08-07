@@ -18,7 +18,9 @@ El marco fue originado y dirigido por **Pedro Martínez Alhambra · Neo0™**, d
 
 * [README bilingüe principal](./README.md)
 * [LEEME bilingüe](./LEEME.md)
-* [Índice de manifiestos I–XXXVII](./manifiestos/README.md)
+* [Índice de manifiestos I–XXXVIII](./manifiestos/README.md)
+* [XXXVIII · Protección Integral de la Infancia™](./manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+* [Octava oleada · Protección Integral de la Infancia](./anuncios/2026-08-07_OCTAVA_OLEADA_PROTECCION_INTEGRAL_INFANCIA_ES_EN.md)
 * [Tercera oleada · Sistema Inmunitario Intelectual Neodialéctico™](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
 * [Cuarta oleada · Rehumanización y coherencia](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [Síntesis Abierta](./propuestas/sintesis-abierta/README.md)
@@ -123,7 +125,7 @@ The framework was originated and directed by **Pedro Martínez Alhambra · Neo0�
 
 * [Main bilingual README](./README.md)
 * [Bilingual LEEME](./LEEME.md)
-* [Manifesto index I–XXXVII](./manifiestos/README.md)
+* [Manifesto index I–XXXVIII](./manifiestos/README.md)
 * [Third wave · Neodialectical Intellectual Immune System™](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
 * [Fourth wave · Rehumanisation and coherence](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [Open Synthesis](./propuestas/sintesis-abierta/README.md)

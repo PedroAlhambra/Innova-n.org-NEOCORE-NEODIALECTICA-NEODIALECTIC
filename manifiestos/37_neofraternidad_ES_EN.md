@@ -9,7 +9,7 @@
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
-**Navegación / Navigation:** [← XXXVI · Corona, Águila y Custodia de la Edad del Hombre™](./36_corona_aguila_custodia_edad_del_hombre_ES_EN.md) · [Índice / Index](./README.md) · [I · Neo0™ →](./11_neo0_soberania_de_guia_ES_EN.md)
+**Navegación / Navigation:** [← XXXVI · Corona, Águila y Custodia de la Edad del Hombre™](./36_corona_aguila_custodia_edad_del_hombre_ES_EN.md) · [Índice / Index](./README.md) · [XXXVIII · Protección Integral de la Infancia™ →](./38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
 
 ---
 
@@ -299,7 +299,7 @@ Toda aportación debe distinguir experiencia personal, principio general, daño 
 - [Protocolo operativo actual para aportar](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 - [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
 
-**Navegación:** [← XXXVI](./36_corona_aguila_custodia_edad_del_hombre_ES_EN.md) · [Índice](./README.md) · [I · Neo0™ →](./11_neo0_soberania_de_guia_ES_EN.md)
+**Navegación:** [← XXXVI](./36_corona_aguila_custodia_edad_del_hombre_ES_EN.md) · [Índice](./README.md) · [XXXVIII · Protección Integral de la Infancia™ →](./38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
 
 ---
 
@@ -589,4 +589,4 @@ Every contribution must distinguish personal experience, general principle, veri
 - [Current operational contribution protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 - [Open Synthesis index](../propuestas/sintesis-abierta/README.md)
 
-**Navigation:** [← XXXVI](./36_corona_aguila_custodia_edad_del_hombre_ES_EN.md) · [Index](./README.md) · [I · Neo0™ →](./11_neo0_soberania_de_guia_ES_EN.md)
+**Navigation:** [← XXXVI](./36_corona_aguila_custodia_edad_del_hombre_ES_EN.md) · [Index](./README.md) · [XXXVIII · Protección Integral de la Infancia™ →](./38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)

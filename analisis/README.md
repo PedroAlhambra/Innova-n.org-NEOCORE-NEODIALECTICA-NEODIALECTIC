@@ -19,6 +19,13 @@ Esta carpeta reúne los materiales públicos de análisis, auditoría y trazabil
 
 ## Incorporaciones recientes
 
+### MAXPROC · Protección Integral de la Infancia™
+
+* [Auditoría completa](./publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+* [Fuentes y matriz de evidencias](./publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md)
+* [Manifiesto XXXVIII](../manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+* [Síntesis Abierta · Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45)
+
 ### Parte IV · Canarias: de la presión fronteriza a la infraestructura de acogida
 
 * [Análisis bilingüe completo](./publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md)
@@ -108,6 +115,13 @@ This folder gathers public analysis, audit and documentary traceability material
 * [Wiki guide to analyses and audits](../wiki-source/Analisis_Neodialecticos_Publicos.md)
 
 ## Recent incorporations
+
+### MAXPROC · Integral Protection of Childhood™
+
+* [Complete audit](./publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+* [Sources and evidence matrix](./publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md)
+* [Manifesto XXXVIII](../manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+* [Open Synthesis · Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45)
 
 ### Part IV · Canary Islands: from border pressure to reception infrastructure
 

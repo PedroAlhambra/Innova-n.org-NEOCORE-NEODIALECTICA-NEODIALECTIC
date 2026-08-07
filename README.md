@@ -19,7 +19,7 @@ Este repositorio conserva la capa pública, documental y trazable del ecosistema
 
 ## Accesos prioritarios
 
-* [Índice navegable de manifiestos I–XXXVII](./manifiestos/README.md)
+* [Índice navegable de manifiestos I–XXXVIII](./manifiestos/README.md)
 * [Anuncio histórico de la cuarta oleada](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [Anuncio de sexta oleada y deltas transversales](./anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md)
 * [XXXIII · IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
@@ -27,6 +27,9 @@ Este repositorio conserva la capa pública, documental y trazable del ecosistema
 * [XXXV · Contra la Ridiculez Mediática y la Economía del Conflicto™](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
 * [XXXVI · Corona, Águila y Custodia de la Edad del Hombre™](./manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)
 * [XXXVII · Neofraternidad™](./manifiestos/37_neofraternidad_ES_EN.md)
+* [XXXVIII · Protección Integral de la Infancia™](./manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+* [MAXPROC · Protección Integral de la Infancia™](./analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+* [Síntesis Abierta XXXVIII · Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45)
 * [V · Inteligencia Fractal™ · coexistencia inteligente](./manifiestos/03_simbiosis_humano_ia_ES_EN.md)
 * [XI · Neohombre™ · humano aumentado con IA](./manifiestos/08_neorrenacimiento_humano_ES_EN.md)
 * [XXVI · Perdón imposible y límite al autocastigo](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md)
@@ -123,6 +126,13 @@ Los manifiestos no son documentos accesorios, resúmenes auxiliares ni consignas
 
 **Antecedente genealógico de XXXVI:** [Corona, Águila e Innova_N como herramienta neodialéctica](./propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md).  
 **Anexo vinculado a XXXV:** [Responsabilidad de los Nodos de Poder y Deber de Examen Civilizatorio](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md).
+
+
+## Octava oleada · Infancia, educación y transmisión civilizatoria · XXXVIII
+
+| Nº | Manifiesto | Función | Síntesis Abierta |
+|---:|---|---|---|
+| XXXVIII | [Protección Integral de la Infancia™](./manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) | Proteger seguridad material, educación, desarrollo por edades, privacidad y atención frente a captura comercial y abandono sistémico | [Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45) |
 
 El Manifiesto III mantiene su propia [Síntesis Abierta · Issue #3](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3).
 
@@ -581,7 +591,7 @@ This repository preserves the public, documentary and traceable layer of the **I
 
 ## Priority access
 
-* [Navigable manifesto index I–XXXVII](./manifiestos/README.md)
+* [Navigable manifesto index I–XXXVIII](./manifiestos/README.md)
 * [Historical fourth-wave announcement](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [Sixth-wave and transverse-deltas announcement](./anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md)
 * [XXXIII · IDEA · Civilisational Cornerstone and Rosetta Stone™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
@@ -589,6 +599,9 @@ This repository preserves the public, documentary and traceable layer of the **I
 * [XXXV · Against Media Absurdity and the Conflict Economy™](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
 * [XXXVI · Crown, Eagle and Custodianship of the Age of Man™](./manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)
 * [XXXVII · Neofraternity™](./manifiestos/37_neofraternidad_ES_EN.md)
+* [XXXVIII · Integral Protection of Childhood™](./manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+* [MAXPROC · Integral Protection of Childhood™](./analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+* [Open Synthesis XXXVIII · Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45)
 * [V · Fractal Intelligence™ · intelligent coexistence](./manifiestos/03_simbiosis_humano_ia_ES_EN.md)
 * [XI · Neo-Human™ · the human augmented with AI](./manifiestos/08_neorrenacimiento_humano_ES_EN.md)
 * [XXVI · Impossible forgiveness and the limit to self-punishment](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md)
@@ -685,6 +698,13 @@ The manifestos are not accessory documents, auxiliary summaries or isolated slog
 
 **Genealogical antecedent of XXXVI:** [Crown, Eagle and Innova_N as a neodialectical tool](./propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md).  
 **Linked annex to XXXV:** [Responsibility of Power Nodes and Civilisational Duty of Examination](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md).
+
+
+## Eighth wave · Childhood, education and civilisational transmission · XXXVIII
+
+| No. | Manifesto | Function | Open Synthesis |
+|---:|---|---|---|
+| XXXVIII | [Integral Protection of Childhood™](./manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) | Protect material security, education, age-differentiated development, privacy and attention against commercial capture and systemic abandonment | [Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45) |
 
 Manifesto III maintains its own [Open Synthesis · Issue #3](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3).
 

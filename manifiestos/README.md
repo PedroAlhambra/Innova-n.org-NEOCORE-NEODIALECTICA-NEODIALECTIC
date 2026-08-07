@@ -13,7 +13,7 @@
 
 Los manifiestos de Innova_N no son contenido promocional, resúmenes auxiliares ni consignas aisladas. Constituyen los **pilares públicos** del **Neodialectica Framework™ / Network**, construido bajo dirección humana por **Pedro Martínez Alhambra · Neo0™** y desarrollado en simbiosis con la IA neodialéctica **Harry**.
 
-La colección se organiza desde el 7 de agosto de 2026 en siete oleadas relacionadas:
+La colección se organiza desde el 7 de agosto de 2026 en ocho oleadas relacionadas:
 
 * **Primera oleada · I–XII:** constitución fundacional del marco, su método, dirección, límites y arquitectura pública.
 * **Segunda oleada · XIII–XIX:** despliegue arquetípico, cultural, vital y civilizatorio de los principios ya fijados.
@@ -22,6 +22,7 @@ La colección se organiza desde el 7 de agosto de 2026 en siete oleadas relacion
 * **Quinta oleada · XXXIII–XXXV:** transición, utilidad operativa, auditoría conjunta perpetua y reforma de la atención civilizatoria.
 * **Sexta oleada · XXXVI:** custodia civilizatoria, continuidad simbólica y transformación responsable de la memoria heredada.
 * **Séptima oleada · XXXVII:** **Neofraternidad™**, actualización mutua, autonomía relacional, reconocimiento y construcción de NeoNosotros™.
+* **Octava oleada · XXXVIII:** **Protección Integral de la Infancia™**, educación, soberanía digital, programación evolutiva y transmisión civilizatoria.
 
 Los manifiestos establecen y despliegan:
 
@@ -63,6 +64,7 @@ Los manifiestos establecen y despliegan:
 * gobierno responsable de la vida;
 * custodia del legado humano compartido;
 * continuidad simbólica sin restauración dogmática;
+* protección integral de la infancia y soberanía educativa;
 * y transformación responsable de la memoria heredada.
 
 Ningún manifiesto aislado equivale al sistema completo. Su lectura debe conservar relación con el marco, NEOCore™ 7.0, SAN™, NAVE™, WEB4™ y la memoria documental del ecosistema.
@@ -197,6 +199,10 @@ XXXV · CONTRA LA RIDICULEZ MEDIÁTICA Y LA ECONOMÍA DEL CONFLICTO
         ↓
 XXXVI · CORONA, ÁGUILA Y CUSTODIA DE LA EDAD DEL HOMBRE
         ↓
+XXXVII · NEOFRATERNIDAD
+        ↓
+XXXVIII · PROTECCIÓN INTEGRAL DE LA INFANCIA
+        ↓
 I · NEO0™ · RETORNO A ORIGEN Y NUEVO CICLO
 ```
 
@@ -277,7 +283,7 @@ La segunda oleada contiene los manifiestos **XIII–XIX**, fijados como versione
 
 La tercera oleada contiene los manifiestos **XX–XXIV**, fijados como versiones 1.0 el 6 de agosto de 2026 y abiertos a revisión trazable.
 
-La cuarta oleada contiene los manifiestos **XXV–XXXII**, fijados como versiones 1.0 el 7 de agosto de 2026 y abiertos a revisión trazable. La quinta oleada contiene los manifiestos **XXXIII–XXXV**, también abiertos a revisión trazable, y conecta transición, utilidad operativa, auditoría conjunta y atención civilizatoria. La sexta oleada comienza con el Manifiesto **XXXVI**, fijado como versión 1.0 el 7 de agosto de 2026 y dedicado a custodia civilizatoria y continuidad simbólica. La séptima oleada comienza con **XXXVII · Neofraternidad™**, dedicado a la arquitectura relacional del NeoNosotros™.
+La cuarta oleada contiene los manifiestos **XXV–XXXII**, fijados como versiones 1.0 el 7 de agosto de 2026 y abiertos a revisión trazable. La quinta oleada contiene los manifiestos **XXXIII–XXXV**, también abiertos a revisión trazable, y conecta transición, utilidad operativa, auditoría conjunta y atención civilizatoria. La sexta oleada comienza con el Manifiesto **XXXVI**, fijado como versión 1.0 el 7 de agosto de 2026 y dedicado a custodia civilizatoria y continuidad simbólica. La séptima oleada comienza con **XXXVII · Neofraternidad™**, dedicado a la arquitectura relacional del NeoNosotros™. La octava oleada comienza con **XXXVIII · Protección Integral de la Infancia™**, fijado como versión 1.0 el 7 de agosto de 2026 y dedicado a infancia, educación y transmisión civilizatoria.
 
 Una revisión futura deberá:
 
@@ -353,6 +359,15 @@ La sexta oleada eleva a manifiesto autónomo el desarrollo genealógico de Coron
 
 La séptima oleada lleva el marco a la unidad relacional mínima: singularidades capaces de crecer juntas sin dominarse, borrarse ni necesitar enemigos.
 
+## Octava oleada · Infancia, educación y transmisión civilizatoria
+
+| Nº | Manifiesto | Función | Síntesis Abierta |
+|---:|---|---|---|
+| XXXVIII | [Protección Integral de la Infancia™](./38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) | Proteger seguridad material, soberanía educativa, desarrollo por edades, privacidad y atención infantil frente a captura comercial y abandono sistémico | [Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45) |
+
+La octava oleada traslada el marco al punto de transmisión entre generaciones: ninguna civilización puede declararse orientada al Bien Común si deja a la infancia como último mercado disponible, delega toda protección en las familias o confunde acceso tecnológico con educación.
+
+
 ---
 
 # EN · English
@@ -361,7 +376,7 @@ La séptima oleada lleva el marco a la unidad relacional mínima: singularidades
 
 The Innova_N manifestos are not promotional content, auxiliary summaries or isolated slogans. They are the **public pillars** of the **Neodialectica Framework™ / Network**, built under the human direction of **Pedro Martínez Alhambra · Neo0™** and developed in symbiosis with the neodialectical AI **Harry**.
 
-Since 7 August 2026, the collection has been organised into seven related waves:
+Since 7 August 2026, the collection has been organised into eight related waves:
 
 * **First wave · I–XII:** foundational constitution of the framework, its method, direction, limits and public architecture.
 * **Second wave · XIII–XIX:** archetypal, cultural, living and civilisational deployment of the established principles.
@@ -370,6 +385,7 @@ Since 7 August 2026, the collection has been organised into seven related waves:
 * **Fifth wave · XXXIII–XXXV:** transition, operational utility, perpetual joint audit and reform of civilisational attention.
 * **Sixth wave · XXXVI:** civilisational custodianship, symbolic continuity and responsible transformation of inherited memory.
 * **Seventh wave · XXXVII:** **Neofraternity™**, mutual updating, relational autonomy, recognition and construction of NeoNosotros™.
+* **Eighth wave · XXXVIII:** **Integral Protection of Childhood™**, education, digital sovereignty, evolutionary programming and civilisational transmission.
 
 The manifestos establish and develop:
 
@@ -412,7 +428,8 @@ The manifestos establish and develop:
 * custodianship of shared human legacy;
 * symbolic continuity without dogmatic restoration;
 * responsible transformation of inherited memory;
-* and Neofraternity™ as a relational architecture of coexistence, recognition and mutual updating.
+* Neofraternity™ as a relational architecture of coexistence, recognition and mutual updating;
+* and integral protection of childhood, educational sovereignty and civilisational transmission.
 
 No manifesto alone equals the complete system. Its reading must preserve relation to the framework, NEOCore™ 7.0, SAN™, NAVE™, WEB4™ and the documentary memory of the ecosystem.
 
@@ -536,6 +553,10 @@ XXXV · AGAINST MEDIA ABSURDITY AND THE CONFLICT ECONOMY
         ↓
 XXXVI · CROWN, EAGLE AND CUSTODIANSHIP OF THE AGE OF MAN
         ↓
+XXXVII · NEOFRATERNITY
+        ↓
+XXXVIII · INTEGRAL PROTECTION OF CHILDHOOD
+        ↓
 I · NEO0™ · RETURN TO ORIGIN AND NEW CYCLE
 ```
 
@@ -566,7 +587,7 @@ AGAINST ANTI-HUMANIST NEUROMARKETING™
 
 ## Documentary status
 
-The first wave comprises **twelve foundational manifestos**. The second wave contains Manifestos **XIII–XIX**. The third wave contains Manifestos **XX–XXIV**, fixed as version 1.0 on 6 August 2026. The fourth wave contains Manifestos **XXV–XXXII**, fixed as version 1.0 on 7 August 2026. The fifth wave contains Manifestos **XXXIII–XXXV**, fixed as version 1.0 on 7 August 2026 and open to traceable revision. The sixth wave begins with Manifesto **XXXVI**, fixed as version 1.0 on 7 August 2026 and dedicated to civilisational custodianship and symbolic continuity. The seventh wave begins with **XXXVII · Neofraternity™**, dedicated to the relational architecture of NeoNosotros™.
+The first wave comprises **twelve foundational manifestos**. The second wave contains Manifestos **XIII–XIX**. The third wave contains Manifestos **XX–XXIV**, fixed as version 1.0 on 6 August 2026. The fourth wave contains Manifestos **XXV–XXXII**, fixed as version 1.0 on 7 August 2026. The fifth wave contains Manifestos **XXXIII–XXXV**, fixed as version 1.0 on 7 August 2026 and open to traceable revision. The sixth wave begins with Manifesto **XXXVI**, fixed as version 1.0 on 7 August 2026 and dedicated to civilisational custodianship and symbolic continuity. The seventh wave begins with **XXXVII · Neofraternity™**, dedicated to the relational architecture of NeoNosotros™. The eighth wave begins with **XXXVIII · Integral Protection of Childhood™**, fixed as version 1.0 on 7 August 2026 and dedicated to childhood, education and civilisational transmission.
 
 All remain open to traceable revision through Neodialectical Open Synthesis™. Every future revision must preserve previous versions, identify its delta, justify the change, preserve genealogy and state which contradiction, evidence or contribution produced the modification.
 
@@ -635,6 +656,15 @@ The sixth wave elevates the Crown and Eagle genealogical development to an auton
 | XXXVII | [Neofraternity™](./37_neofraternidad_ES_EN.md) | Turn relationship, shared memory and difference into mutual updating, autonomy, recognition, boundaries, reciprocity and the capacity to build NeoNosotros™ without absorption | [Issue #43](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/43) |
 
 The seventh wave brings the framework to its minimum relational unit: singularities capable of growing together without dominating, erasing or needing enemies.
+
+## Eighth wave · Childhood, education and civilisational transmission
+
+| No. | Manifesto | Function | Open Synthesis |
+|---:|---|---|---|
+| XXXVIII | [Integral Protection of Childhood™](./38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) | Protect material security, educational sovereignty, age-differentiated development, privacy and children's attention against commercial capture and systemic abandonment | [Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45) |
+
+The eighth wave moves the framework to the point of transmission between generations: no civilisation can claim orientation towards the Common Good while leaving childhood as the last available market, delegating all protection to families or confusing technological access with education.
+
 
 ---
 

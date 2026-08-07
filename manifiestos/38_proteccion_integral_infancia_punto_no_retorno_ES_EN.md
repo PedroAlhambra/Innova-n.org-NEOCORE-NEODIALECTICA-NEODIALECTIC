@@ -14,7 +14,7 @@
 **Autoría y dirección / Authorship and direction:** Pedro Martínez Alhambra · Neo0™  
 **Desarrollo simbiótico / Symbiotic development:** IA neodialéctica Harry / Neodialectical AI Harry  
 **Relación genealógica / Genealogical relation:** deriva especialmente de IV · Bien Común, VII · Economía del Aporte, VIII · Ingeniería Social Abierta, XIV · Contra la Alienación Humana, XVII · Respeto a Todos los Seres Vivos, XXIII · Soberanía del Tiempo Cognitivo, XXIV · Evolución Neorrenacentista, XXVII · Valor de los Alimentos y la Vida, XXIX · Contra la Idolatría del Dinero, XXX · Coherencia entre Fines y Medios, XXXI · Contra el Neuromarketing Antihumanista y XXXVII · Neofraternidad.  
-**Base MAXPROC / MAXPROC basis:** [Auditoría de Protección Integral de la Infancia](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) · [Fuentes y matriz de evidencias](../analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuerzas-y-matriz_ES_EN.md)
+**Base MAXPROC / MAXPROC basis:** [Auditoría de Protección Integral de la Infancia](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) · [Fuentes y matriz de evidencias](../analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md)
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -671,7 +671,7 @@ Se solicitan aportes sobre pobreza infantil, Punto de No Retorno Infantil™, pu
 
 * [Síntesis Abierta específica · Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45)
 * [MAXPROC · Protección Integral de la Infancia](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
-* [Fuentes y matriz de evidencias](../analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuerzas-y-matriz_ES_EN.md)
+* [Fuentes y matriz de evidencias](../analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md)
 * [Protocolo operativo de Síntesis Abierta](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 
 ## Navegación
@@ -1114,7 +1114,7 @@ Contributions are requested concerning child poverty, the Child Point of No Retu
 
 * [Dedicated Open Synthesis · Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45)
 * [MAXPROC · Integral Protection of Childhood](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
-* [Sources and evidence matrix](../analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuerzas-y-matriz_ES_EN.md)
+* [Sources and evidence matrix](../analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md)
 * [Open Synthesis contribution protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 
 ## Navigation

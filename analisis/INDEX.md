@@ -18,6 +18,8 @@
 
 ## Análisis públicos
 
+* [2026-08-07 · MAXPROC — Protección Integral de la Infancia™](./publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+  * [Fuentes y matriz de evidencias](./publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md)
 * [2026-08-07 · Parte IV — Canarias: de la presión fronteriza a la infraestructura de acogida](./publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md)
   * [Fuentes y matriz de evidencias](./publicos/evidencias/2026-08-07_canarias-quorum-tutela-contratacion-control-politico-fuentes-y-matriz_ES_EN.md)
 * [2026-08-07 · Parte III — Ceuta 2026, Marruecos y evolución del conflicto](./publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md)
@@ -63,6 +65,8 @@ Cada nuevo análisis o auditoría debe incorporarse, cuando corresponda, a su ar
 
 ## Public analyses
 
+* [2026-08-07 · MAXPROC — Integral Protection of Childhood™](./publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+  * [Sources and evidence matrix](./publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md)
 * [2026-08-07 · Part IV — Canary Islands: from border pressure to reception infrastructure](./publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md)
   * [Sources and evidence matrix](./publicos/evidencias/2026-08-07_canarias-quorum-tutela-contratacion-control-politico-fuentes-y-matriz_ES_EN.md)
 * [2026-08-07 · Part III — Ceuta 2026, Morocco and the evolution of the conflict](./publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md)

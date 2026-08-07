@@ -28,6 +28,11 @@ Este directorio conserva pruebas visuales, materiales audiovisuales y documentos
 - [Parte III](../2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md)
 - [Parte IV](../2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md)
 
+### Protección Integral de la Infancia™
+
+- [Fuentes y matriz de evidencias MAXPROC](./2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md)
+- [Análisis MAXPROC](../2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+
 ## EN
 
 This directory preserves visual evidence, audiovisual material and supporting documents related to Innova_N public analyses.
@@ -43,3 +48,7 @@ This directory preserves visual evidence, audiovisual material and supporting do
 - [Part II](../2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
 - [Part III](../2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md)
 - [Part IV](../2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md)
+### Integral Protection of Childhood™
+
+- [MAXPROC sources and evidence matrix](./2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md)
+- [MAXPROC analysis](../2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)

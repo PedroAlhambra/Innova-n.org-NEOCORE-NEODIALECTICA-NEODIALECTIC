@@ -9,11 +9,11 @@
 
 Este directorio reúne propuestas públicas abiertas a contraste, adhesión parcial, crítica, reformulación y mejora trazable.
 
-**Cobertura canónica actual:** los **37 manifiestos I–XXXVII** disponen de una Síntesis Abierta específica. Los anexos y propuestas complementarias se indexan aparte para no confundirlos con la numeración canónica de manifiestos.
+**Cobertura canónica actual:** los **37 manifiestos I–XXXVIII** disponen de una Síntesis Abierta específica. Los anexos y propuestas complementarias se indexan aparte para no confundirlos con la numeración canónica de manifiestos.
 
 ## Acceso general
 
-* [Índice completo de manifiestos I–XXXVII](../../manifiestos/README.md)
+* [Índice completo de manifiestos I–XXXVIII](../../manifiestos/README.md)
 * [Manifiesto III · Derecho Humano de Aporte](../../manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
 * [Protocolo operativo de aporte](./APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Plantilla para abrir un aporte](../../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
@@ -130,6 +130,16 @@ Toda Síntesis Abierta publicada en ES/EN debe contener **la misma información 
 Las propuestas se originan en el marco creado por **Pedro Martínez Alhambra · Neo0™**. Las contribuciones externas mantienen autoría, genealogía y estado. Toda aportación que produzca valor real debe poder recibir reconocimiento proporcional a su función y efecto.
 
 ---
+## Octava oleada · Infancia, educación y transmisión civilizatoria
+
+| Nº | Manifiesto | Síntesis Abierta |
+|---:|---|---|
+| XXXVIII | [Protección Integral de la Infancia™](../../manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) | [Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45) |
+
+* [MAXPROC de protección integral](../../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+* [Fuentes y matriz de evidencias](../../analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md)
+
+
 ---
 
 # EN · English
@@ -140,7 +150,7 @@ This directory gathers public proposals open to contrast, partial endorsement, c
 
 ## General access
 
-* [Complete manifesto index I–XXXVII](../../manifiestos/README.md)
+* [Complete manifesto index I–XXXVIII](../../manifiestos/README.md)
 * [Manifesto III · Human Right to Contribute](../../manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
 * [Operational contribution protocol](./APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Contribution Issue template](../../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)

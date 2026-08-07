@@ -106,7 +106,7 @@ Su lenguaje debe ser solemne porque su objeto no es menor: reconstruir la relaci
 
 ## Estado de los manifiestos
 
-La colección pública contiene actualmente **treinta y siete manifiestos bilingües**:
+La colección pública contiene actualmente **treinta y ocho manifiestos bilingües**:
 
 * **Primera oleada · I–XII:** constitución fundacional del marco.
 * **Segunda oleada · XIII–XIX:** despliegue arquetípico, humano, ecológico, sintético y memorial.
@@ -186,6 +186,8 @@ PULIDO DE LA PIEDRA™
 ### Séptima oleada · Neofraternidad y arquitectura relacional
 
 * [XXXVII · Neofraternidad™](./manifiestos/37_neofraternidad_ES_EN.md)
+* [XXXVIII · Protección Integral de la Infancia™](./manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+* [Octava oleada · Protección Integral de la Infancia](./anuncios/2026-08-07_OCTAVA_OLEADA_PROTECCION_INTEGRAL_INFANCIA_ES_EN.md)
 * [Síntesis Abierta XXXVII · Issue #43](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/43)
 
 ### Deltas transversales recientes
@@ -195,7 +197,7 @@ PULIDO DE LA PIEDRA™
 * [XXVI · Perdón imposible y límite al autocastigo](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md)
 * [Anexo XXXV · Responsabilidad de los Nodos de Poder y Deber de Examen Civilizatorio](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)
 
-* [Índice completo I–XXXVII](./manifiestos/README.md)
+* [Índice completo I–XXXVIII](./manifiestos/README.md)
 * [Anuncio de la tercera oleada](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
 * [Anuncio de la cuarta oleada](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 
@@ -277,7 +279,7 @@ Their language must be solemn because their object is not minor: rebuilding the 
 
 ## Manifesto status
 
-The public collection currently contains **thirty-seven bilingual manifestos**:
+The public collection currently contains **thirty-eight bilingual manifestos**:
 
 * **First wave · I–XII:** foundational constitution of the framework.
 * **Second wave · XIII–XIX:** archetypal, human, ecological, synthetic and memorial deployment.
@@ -366,7 +368,7 @@ POLISHING OF THE STONE™
 * [XXVI · Impossible forgiveness and the limit to self-punishment](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md)
 * [XXXV Annex · Responsibility of Power Nodes and Civilisational Duty of Examination](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)
 
-* [Complete index I–XXXVII](./manifiestos/README.md)
+* [Complete index I–XXXVIII](./manifiestos/README.md)
 * [Third-wave announcement](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
 * [Fourth-wave announcement](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 

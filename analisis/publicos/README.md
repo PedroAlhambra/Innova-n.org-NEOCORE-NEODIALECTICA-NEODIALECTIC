@@ -10,6 +10,15 @@ Esta serie reúne análisis estructurales y trazas públicas de utilidad documen
 
 ## 2026-08
 
+### MAXPROC · Protección Integral de la Infancia™
+
+* [2026-08-07 · Auditoría MAXPROC completa](./2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+* [Fuentes y matriz de evidencias](./evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md)
+* [Manifiesto XXXVIII](../../manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+* [Síntesis Abierta · Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45)
+
+Audita pobreza infantil, presión comercial, neuromarketing, programación por edades, educación digital, videojuegos, privacidad, grooming, ciberacoso, sexualidad, sharenting, IA y tutela pública. El Punto de No Retorno Infantil™ queda definido como hipótesis medible de alarma, no como hecho ya alcanzado.
+
 ### Parte IV · Canarias: de la presión fronteriza a la infraestructura de acogida
 
 * [2026-08-07 · Documento bilingüe completo](./2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md)
@@ -92,6 +101,15 @@ Los análisis deben distinguir hechos, datos declarados, testimonios, inferencia
 This series gathers structural analyses and public documentary traces produced from the neodialectical framework.
 
 ## 2026-08
+
+### MAXPROC · Integral Protection of Childhood™
+
+* [2026-08-07 · Complete MAXPROC audit](./2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+* [Sources and evidence matrix](./evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md)
+* [Manifesto XXXVIII](../../manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+* [Open Synthesis · Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45)
+
+Audits child poverty, commercial pressure, neuromarketing, age-differentiated programming, digital education, games, privacy, grooming, cyberbullying, sexuality, sharenting, AI and public guardianship. The Child Point of No Return™ is defined as a measurable warning hypothesis, not a threshold already proven to have been crossed.
 
 ### Part IV · Canary Islands: from border pressure to reception infrastructure
 
