@@ -1,31 +1,36 @@
-# Postcheck · enlaces y sincronización documental tras XXXV
-# Postcheck · link and documentary synchronisation after XXXV
+# Postcheck · integridad documental, navegación y enlaces tras XXXV
+# Postcheck · documentary integrity, navigation and links after XXXV
 
 **Fecha / Date:** 2026-08-07  
-**Ámbito / Scope:** README, LEEME, PORTADA, COVER, índice de Síntesis Abierta, fuente mínima Wiki y enlaces Markdown relativos del repositorio.
+**Estado canónico / Canonical state:** I–XXXV · cinco oleadas / five waves  
+**Ciclo / Cycle:** XXXV → I → II
 
-## ES · Resultado
+## ES · Dictamen
 
-* README y LEEME revisados con simetría ES/EN para XXXII y la quinta oleada XXXIII–XXXV.
-* PORTADA y COVER sincronizados con el estado I–XXXV.
-* Síntesis Abierta sincronizada con XXXII, XXXIII–XXXV y el anexo de responsabilidad de nodos de poder.
-* Fuente Wiki sincronizada con I–XXXV y ciclo XXXV → I → II.
-* Enlaces históricos que pretendían abrir la GitHub Wiki convertidos a URLs canónicas absolutas.
-* Ruta de la matriz de evidencias Dajla corregida dentro de `analisis/publicos/evidencias/`. 
+* Manifiestos canónicos esperados: **35**.
+* Archivos canónicos ausentes: **0**.
+* Errores de navegación anterior/siguiente: **2**.
+* Manifiestos sin vínculo al protocolo común de aporte: **0**.
 * Enlaces Markdown relativos comprobados (`./` y `../`): **1557**.
-* Enlaces relativos no resueltos: **0**.
+* Enlaces Markdown relativos no resueltos: **0**.
+* Patrones de estado obsoleto en documentos canónicos de entrada: **0**.
+* README.md y LEEME.md byte a byte idénticos: **sí**.
+* SHA-256 README: `2d17fc06ce97cf123022c7d10afd9469c8d5f0ea1d27015921bfc264582f09ad`
+* SHA-256 LEEME: `2d17fc06ce97cf123022c7d10afd9469c8d5f0ea1d27015921bfc264582f09ad`
 
-## EN · Result
+## EN · Verdict
 
-* README and LEEME reviewed for ES/EN symmetry covering XXXII and fifth wave XXXIII–XXXV.
-* PORTADA and COVER synchronised with state I–XXXV.
-* Open Synthesis synchronised with XXXII, XXXIII–XXXV and the power-node responsibility annex.
-* Wiki source synchronised with I–XXXV and cycle XXXV → I → II.
-* Historical links intended for the GitHub Wiki converted to canonical absolute URLs.
-* Dakhla evidence-matrix path corrected within `analisis/publicos/evidencias/`.
+* Expected canonical manifestos: **35**.
+* Missing canonical files: **0**.
+* Previous/next navigation errors: **2**.
+* Manifestos missing the common contribution-protocol link: **0**.
 * Relative Markdown links checked (`./` and `../`): **1557**.
-* Unresolved relative links: **0**.
+* Unresolved relative Markdown links: **0**.
+* Stale-state patterns in canonical entry documents: **0**.
+* README.md and LEEME.md byte-identical: **yes**.
 
-## Dictamen / Verdict
+## Navegación pendiente / Pending navigation
 
-**OK:** no se localizaron enlaces Markdown relativos rotos dentro del alcance del escaneo. / **OK:** no broken relative Markdown links were found within the scan scope.
+* XXXI: falta vínculo siguiente `32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md`
+* XXXII: falta vínculo siguiente `33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md`
+

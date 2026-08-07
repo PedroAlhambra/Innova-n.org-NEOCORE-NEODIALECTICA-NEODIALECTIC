@@ -91,7 +91,6 @@ Los manifiestos no son documentos accesorios, resúmenes auxiliares ni consignas
 | XXIX | [Contra la Idolatría del Dinero™](./manifiestos/29_idolatria_del_dinero_ES_EN.md) | Subordinar precio, rentabilidad y acumulación a vida, dignidad, verdad y Bien Común | [Issue #23](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/23) |
 | XXX | [Coherencia entre Fines y Medios™](./manifiestos/30_coherencia_fines_medios_ES_EN.md) | Entrar en el terreno del poder y el mercado sin reproducir aquello que se combate | [Issue #24](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/24) |
 | XXXI | [Contra el Neuromarketing Antihumanista™](./manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md) | Persuadir, difundir y competir sin explotar vulnerabilidades ni capturar la conciencia | [Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25) |
-
 | XXXII | [Reversión Ideológica Neodialéctica™](./manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md) | Revertir mecanismos heredados hacia autonomía, memoria, trazabilidad y dirección humana | [Issue #26](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/26) |
 
 ## Quinta oleada · transición, utilidad operativa y atención civilizatoria · XXXIII–XXXV
