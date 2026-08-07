@@ -6,15 +6,23 @@ This directory gathers public notices, traces and audits documented by Innova_N.
 
 ## Registros activos / Active records
 
-### Casos de éxito y aporte al Bien Común / Success cases and Common-Good contribution
+### Casos de éxito, reapertura y aporte al Bien Común / Success cases, reopening and Common-Good contribution
 
-* [2026-08-06 · Caso de éxito: auditoría gratuita a Amazon KDP y Author Central](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+* [2026-08-07 · Addendum de trazabilidad: reapertura del caso KDP 51071689](./2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md)
 
-  Caso `51071689`. Documenta la corrección verificable de asociaciones multilingües de IDEA, la recepción positiva de propuestas de mejora para KDP y Author Central y la aplicación práctica del Neodialectica Framework™. Innova_N registra funcionalmente a Amazon como **cliente gratuito por el Bien Común**: receptor de una auditoría y propuestas sin contratación previa, sin que ello implique relación contractual, deuda económica ni aceptación formal de esa condición.
+  Corrige el cierre operativo anterior. Registra que el propio autor solicitó cerrar el caso prematuramente tras verificar un estado aparentemente correcto; KDP confirmó el cierre y, horas después, múltiples ediciones impresas aparecieron como «En línea · Cambios sin publicar» sin intervención del autor. La traza conserva el error humano, su reconocimiento, la reapertura y las hipótesis técnicas. La posibilidad de que exista algún test interno queda expresamente clasificada como **hipótesis no verificada**, no como hecho ni atribución de intención.
 
-* [2026-08-06 · Success case: free audit for Amazon KDP and Author Central](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+* [2026-08-07 · Traceability addendum: reopening of KDP case 51071689](./2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md)
 
-  Case `51071689`. Documents the verifiable correction of IDEA’s multilingual associations, positive reception of improvement proposals for KDP and Author Central, and practical application of the Neodialectica Framework™. Innova_N functionally records Amazon as a **free client for the Common Good**: recipient of an audit and proposals without prior engagement, without implying a contractual relationship, financial debt or formal acceptance of that status.
+  Corrects the previous operational closure. It records that the author prematurely requested closure after verifying an apparently correct state; KDP confirmed closure and, hours later, multiple print editions appeared as “Live · unpublished changes” without author intervention. The trace preserves the human error, its acknowledgement, reopening and technical hypotheses. The possibility of an internal test is expressly classified as an **unverified hypothesis**, not a fact or attribution of intent.
+
+* [2026-08-06 · Caso de éxito provisional: auditoría gratuita a Amazon KDP y Author Central](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+
+  Caso `51071689`. Documenta la corrección verificable observada el 6 de agosto de asociaciones multilingües de IDEA, la recepción positiva de propuestas de mejora para KDP y Author Central y la aplicación práctica del Neodialectica Framework™. Su cierre operativo posterior fue **reabierto el 7 de agosto de 2026** y debe leerse junto con el addendum de trazabilidad. Innova_N registra funcionalmente a Amazon como **cliente gratuito por el Bien Común**: receptor de una auditoría y propuestas sin contratación previa, sin que ello implique relación contractual, deuda económica ni aceptación formal de esa condición.
+
+* [2026-08-06 · Provisional success case: free audit for Amazon KDP and Author Central](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+
+  Case `51071689`. Documents the verifiable correction observed on 6 August of IDEA’s multilingual associations, positive reception of improvement proposals for KDP and Author Central, and practical application of the Neodialectica Framework™. Its later operational closure was **reopened on 7 August 2026** and must be read together with the traceability addendum. Innova_N functionally records Amazon as a **free client for the Common Good**: recipient of an audit and proposals without prior engagement, without implying a contractual relationship, financial debt or formal acceptance of that status.
 
 ### Integridad documental / Documentary integrity
 
@@ -38,11 +46,11 @@ This directory gathers public notices, traces and audits documented by Innova_N.
 
 * [2026-08-06 · Auditoría indirecta pública de KDP, Author Central e IDEA](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 
-  Caso `51071689`. Conserva la traza inicial de publicación multilingüe, las incidencias finlandesas, los problemas de asociación y metadatos, las propuestas comunicadas y la actualización posterior de cierre operativo.
+  Caso `51071689`. Conserva la traza inicial de publicación multilingüe, las incidencias finlandesas, los problemas de asociación y metadatos, las propuestas comunicadas y la corrección operativa observada el 6 de agosto. El estado actual debe complementarse con el addendum de reapertura del 7 de agosto.
 
 * [2026-08-06 · Public indirect audit of KDP, Author Central and IDEA](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 
-  Case `51071689`. Preserves the initial multilingual-publication trace, Finnish-edition incidents, association and metadata problems, communicated proposals and the later operational-closure update.
+  Case `51071689`. Preserves the initial multilingual-publication trace, Finnish-edition incidents, association and metadata problems, communicated proposals and the operational correction observed on 6 August. The current status must be supplemented by the 7 August reopening addendum.
 
 ## Navegación / Navigation
 
@@ -55,6 +63,6 @@ This directory gathers public notices, traces and audits documented by Innova_N.
 
 ## Criterio / Criterion
 
-Las auditorías públicas deben distinguir hechos, comunicaciones, inferencias, pendientes, actualizaciones y propuestas. No deben atribuir intenciones sin evidencia ni publicar datos personales innecesarios.
+Las auditorías públicas deben distinguir hechos, comunicaciones, inferencias, pendientes, actualizaciones y propuestas. No deben atribuir intenciones sin evidencia ni publicar datos personales innecesarios. También deben registrar los errores propios del auditor y sus correcciones cuando sean materialmente relevantes para la conclusión.
 
-Public audits must distinguish facts, communications, inferences, pending matters, updates and proposals. They must not attribute intentions without evidence or publish unnecessary personal data.
+Public audits must distinguish facts, communications, inferences, pending matters, updates and proposals. They must not attribute intentions without evidence or publish unnecessary personal data. They must also record the auditor's own errors and corrections when materially relevant to the conclusion.
