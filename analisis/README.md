@@ -19,6 +19,13 @@ Esta carpeta reúne los materiales públicos de análisis, auditoría y trazabil
 
 ## Incorporaciones recientes
 
+### Parte III · Ceuta 2026, Marruecos y evolución del conflicto
+
+* [Análisis bilingüe completo](./publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md)
+* [Fuentes y matriz de evidencias](./publicos/evidencias/2026-08-07_ceuta-marruecos-evolucion-conflicto-fuentes-y-matriz_ES_EN.md)
+
+Actualiza la serie España–Marruecos desde la Parte II del 22 de julio: reconstruye la escalada de Ceuta, la movilización digital, las señales jurídicas malinterpretadas, la respuesta posterior de ambos Estados, los procedimientos judiciales marroquíes y la nueva alegación audiovisual sobre investigaciones previas de aproximadamente cinco meses, conservada como pista pendiente de corroboración primaria.
+
 ### Caso de éxito · auditoría gratuita a Amazon KDP y Author Central
 
 * [Caso de éxito bilingüe completo](../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
@@ -50,6 +57,8 @@ Caso de referencia `51071689`. Conserva la traza histórica de las incidencias f
 
 ### España–Marruecos
 
+* [Parte III · Ceuta 2026, Marruecos y evolución del conflicto](./publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md)
+  * [Fuentes y matriz de evidencias](./publicos/evidencias/2026-08-07_ceuta-marruecos-evolucion-conflicto-fuentes-y-matriz_ES_EN.md)
 * [Parte II · Dajla, mafias migratorias y control estatal](./publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
 * [Parte I · España sin consulta](./publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
 
@@ -91,6 +100,13 @@ This folder gathers public analysis, audit and documentary traceability material
 
 ## Recent incorporations
 
+### Part III · Ceuta 2026, Morocco and the evolution of the conflict
+
+* [Complete bilingual analysis](./publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md)
+* [Sources and evidence matrix](./publicos/evidencias/2026-08-07_ceuta-marruecos-evolucion-conflicto-fuentes-y-matriz_ES_EN.md)
+
+Updates the Spain–Morocco series since Part II of 22 July: reconstructs the Ceuta escalation, digital mobilisation, misinterpreted legal signals, the subsequent response of both States, Moroccan judicial proceedings and the new audiovisual claim concerning approximately five months of prior investigations, preserved as a lead pending primary corroboration.
+
 ### Success case · free audit for Amazon KDP and Author Central
 
 * [Complete bilingual success case](../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
@@ -122,6 +138,8 @@ Reference case `51071689`. It preserves the historical trace of Finnish-edition 
 
 ### Spain–Morocco
 
+* [Part III · Ceuta 2026, Morocco and the evolution of the conflict](./publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md)
+  * [Sources and evidence matrix](./publicos/evidencias/2026-08-07_ceuta-marruecos-evolucion-conflicto-fuentes-y-matriz_ES_EN.md)
 * [Part II · Dakhla, migrant-smuggling networks and state control](./publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
 * [Part I · Spain without consultation](./publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
 
