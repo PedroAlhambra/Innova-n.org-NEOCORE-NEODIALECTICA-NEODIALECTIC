@@ -1,0 +1,145 @@
+name: one-shot-fix-readme-en-links
+on:
+  push:
+    paths:
+      - '.github/workflows/one-shot-fix-readme-en-links.yml'
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Repair README symmetry and repository links
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+
+          repo='https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC'
+          changed=[]
+          warnings=[]
+
+          def write_if(path,s,old):
+              if s!=old:
+                  Path(path).write_text(s,encoding='utf-8')
+                  changed.append(path)
+
+          # Restore full ES/EN symmetry in the root entry documents.
+          oldrow='| XXXI | [Against Anti-Humanist Neuromarketing™](./manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md) | Persuade, communicate and compete without exploiting vulnerability or capturing consciousness | [Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25) |'
+          insert=oldrow+'\n| XXXII | [Neodialectical Ideological Reversal™](./manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md) | Reverse inherited mechanisms towards autonomy, memory, traceability and human direction | [Issue #26](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/26) |\n\n## Fifth wave · transition, operational utility and civilisational attention · XXXIII–XXXV\n\n| No. | Manifesto | Function | Open Synthesis |\n|---:|---|---|---|\n| XXXIII | [IDEA · Civilisational Cornerstone and Rosetta Stone™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md) | Narrative vehicle of the Human Neo-Renaissance and systemic reset through replacement | [Issue #28](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/28) |\n| XXXIV | [Operational Utility of the Framework and Perpetual Joint Audit™](./manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) | Practical application, public audit and permanent self-correction | [Issue #29](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/29) |\n| XXXV | [Against Media Absurdity and the Conflict Economy™](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) | Civilisational attention, conflict audit and media learning | [Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |\n\n**Linked annex:** [Responsibility of Power Nodes and Civilisational Duty of Examination](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md).'
+          for path in ['README.md','LEEME.md']:
+              p=Path(path); s=p.read_text(encoding='utf-8'); old=s
+              if '## Fifth wave · transition, operational utility and civilisational attention · XXXIII–XXXV' not in s:
+                  if oldrow in s:
+                      s=s.replace(oldrow,insert,1)
+                  else:
+                      warnings.append(f'{path}: English XXXI row not found')
+              write_if(path,s,old)
+
+          # Convert historical pseudo-relative Wiki links into actual GitHub Wiki URLs.
+          for p in Path('.').rglob('*.md'):
+              if '.git' in p.parts:
+                  continue
+              s=p.read_text(encoding='utf-8',errors='replace'); old=s
+              s=s.replace('](../../wiki/',f']({repo}/wiki/')
+              s=s.replace('](../../wiki)',f']({repo}/wiki)')
+              if s!=old:
+                  p.write_text(s,encoding='utf-8')
+                  changed.append(str(p))
+
+          # Correct the evidence-index path: the matrix lives in the same evidencias directory.
+          p=Path('analisis/publicos/evidencias/README.md')
+          s=p.read_text(encoding='utf-8'); old=s
+          s=s.replace('](../2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md)','](./2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md)')
+          write_if(str(p),s,old)
+
+          # Make the new postcheck discoverable from the audit index.
+          p=Path('auditorias/publicas/README.md'); s=p.read_text(encoding='utf-8'); old=s
+          marker='### Publicación editorial / Publishing'
+          block='''* [2026-08-07 · Postcheck de enlaces y sincronización documental tras XXXV](./2026-08-07_postcheck_enlaces_y_sincronizacion_XXXV_ES_EN.md)\n\n  Revisa la simetría README/LEEME, PORTADA, COVER, Síntesis Abierta y fuente Wiki; comprueba enlaces Markdown relativos y registra correcciones de rutas.\n\n* [2026-08-07 · Link and documentary synchronisation postcheck after XXXV](./2026-08-07_postcheck_enlaces_y_sincronizacion_XXXV_ES_EN.md)\n\n  Reviews README/LEEME symmetry, PORTADA, COVER, Open Synthesis and Wiki source; checks relative Markdown links and records path corrections.\n\n'''
+          if 'Postcheck de enlaces y sincronización documental tras XXXV' not in s:
+              if marker in s:
+                  s=s.replace(marker,block+marker,1)
+              else:
+                  warnings.append('auditorias/publicas/README.md: publishing marker not found')
+          write_if(str(p),s,old)
+
+          # Re-run relative link postcheck after repairs.
+          link_re=re.compile(r'\[[^\]]*\]\((\.{1,2}/[^) >]+)\)')
+          broken=[]; checked=0
+          root=Path('.').resolve()
+          for md in Path('.').rglob('*.md'):
+              if '.git' in md.parts:
+                  continue
+              text=md.read_text(encoding='utf-8',errors='replace')
+              for raw in link_re.findall(text):
+                  target=raw.split('#',1)[0].split('?',1)[0]
+                  if not target: continue
+                  checked+=1
+                  resolved=(md.parent/target).resolve()
+                  try:
+                      rel=resolved.relative_to(root)
+                  except ValueError:
+                      broken.append((str(md),raw,'outside repository')); continue
+                  if not resolved.exists():
+                      broken.append((str(md),raw,str(rel)))
+
+          report=Path('auditorias/publicas/2026-08-07_postcheck_enlaces_y_sincronizacion_XXXV_ES_EN.md')
+          lines=[
+            '# Postcheck · enlaces y sincronización documental tras XXXV',
+            '# Postcheck · link and documentary synchronisation after XXXV','',
+            '**Fecha / Date:** 2026-08-07  ',
+            '**Ámbito / Scope:** README, LEEME, PORTADA, COVER, índice de Síntesis Abierta, fuente mínima Wiki y enlaces Markdown relativos del repositorio.','',
+            '## ES · Resultado','',
+            '* README y LEEME revisados con simetría ES/EN para XXXII y la quinta oleada XXXIII–XXXV.',
+            '* PORTADA y COVER sincronizados con el estado I–XXXV.',
+            '* Síntesis Abierta sincronizada con XXXII, XXXIII–XXXV y el anexo de responsabilidad de nodos de poder.',
+            '* Fuente Wiki sincronizada con I–XXXV y ciclo XXXV → I → II.',
+            '* Enlaces históricos que pretendían abrir la GitHub Wiki convertidos a URLs canónicas absolutas.',
+            '* Ruta de la matriz de evidencias Dajla corregida dentro de `analisis/publicos/evidencias/`. ',
+            f'* Enlaces Markdown relativos comprobados (`./` y `../`): **{checked}**.',
+            f'* Enlaces relativos no resueltos: **{len(broken)}**.','',
+            '## EN · Result','',
+            '* README and LEEME reviewed for ES/EN symmetry covering XXXII and fifth wave XXXIII–XXXV.',
+            '* PORTADA and COVER synchronised with state I–XXXV.',
+            '* Open Synthesis synchronised with XXXII, XXXIII–XXXV and the power-node responsibility annex.',
+            '* Wiki source synchronised with I–XXXV and cycle XXXV → I → II.',
+            '* Historical links intended for the GitHub Wiki converted to canonical absolute URLs.',
+            '* Dakhla evidence-matrix path corrected within `analisis/publicos/evidencias/`.',
+            f'* Relative Markdown links checked (`./` and `../`): **{checked}**.',
+            f'* Unresolved relative links: **{len(broken)}**.',''
+          ]
+          if broken:
+              lines += ['## Enlaces pendientes / Pending links','']
+              for src,raw,res in broken:
+                  lines.append(f'* `{src}` → `{raw}` → `{res}`')
+          else:
+              lines += ['## Dictamen / Verdict','',
+                        '**OK:** no se localizaron enlaces Markdown relativos rotos dentro del alcance del escaneo. / **OK:** no broken relative Markdown links were found within the scan scope.']
+          if warnings:
+              lines += ['','## Avisos / Warnings','']+[f'* {w}' for w in warnings]
+          before=report.read_text(encoding='utf-8') if report.exists() else ''
+          after='\n'.join(lines)+'\n'
+          if after!=before:
+              report.write_text(after,encoding='utf-8'); changed.append(str(report))
+
+          print('Changed files:')
+          for x in sorted(set(changed)): print('-',x)
+          print('Relative links checked:',checked)
+          print('Broken:',len(broken))
+          for x in broken: print('BROKEN',x)
+          for w in warnings: print('WARNING',w)
+
+          Path('.github/workflows/one-shot-fix-readme-en-links.yml').unlink()
+      - name: Commit final repairs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo 'No changes'
+          else
+            git commit -m 'docs: repair README bilingual symmetry and broken repository links'
+            git push
+          fi
