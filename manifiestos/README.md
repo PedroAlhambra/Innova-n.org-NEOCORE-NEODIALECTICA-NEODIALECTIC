@@ -307,6 +307,7 @@ Una revisión futura deberá:
 * [XXIX · Contra la Idolatría del Dinero™ · Issue #23](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/23)
 * [XXX · Coherencia entre Fines y Medios™ · Issue #24](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/24)
 * [XXXI · Contra el Neuromarketing Antihumanista™ · Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25)
+* [XXXII · Reversión Ideológica Neodialéctica™ · Issue #26](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/26)
 
 ## Navegación relacionada
 
@@ -327,7 +328,7 @@ Una revisión futura deberá:
 | XXXIV | [Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) | Demostrar aplicación práctica mediante auditorías públicas, autocorrección, memoria versionada y Síntesis Abierta permanente | [Issue #29](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/29) |
 | XXXV | [Contra la Ridiculez Mediática y la Economía del Conflicto™](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) | Auditar la selección mediática de atención, conflicto, soluciones, ego institucional y aprendizaje civilizatorio | [Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |
 
-La quinta oleada conecta transición y aplicación: IDEA aporta una puerta narrativa y una piedra de relación; la auditoría conjunta convierte el marco en una herramienta pública que debe demostrar utilidad mediante efectos verificables.
+La quinta oleada conecta transición y aplicación: IDEA aporta una puerta narrativa y una piedra de relación; la auditoría conjunta convierte el marco en una herramienta pública que debe demostrar utilidad mediante efectos verificables; y la auditoría de la atención extiende esa exigencia al sistema mediático y a su economía del conflicto.
 
 
 ---
@@ -480,6 +481,7 @@ All remain open to traceable revision through Neodialectical Open Synthesis™. 
 * [XXIX · Against the Idolatry of Money™ · Issue #23](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/23)
 * [XXX · Coherence between Ends and Means™ · Issue #24](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/24)
 * [XXXI · Against Anti-Humanist Neuromarketing™ · Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25)
+* [XXXII · Neodialectical Ideological Reversal™ · Issue #26](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/26)
 
 ## Related navigation
 
@@ -500,7 +502,7 @@ All remain open to traceable revision through Neodialectical Open Synthesis™. 
 | XXXIV | [Operational Utility of the Framework and Perpetual Joint Audit™](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) | Demonstrate practical application through public audits, self-correction, versioned memory and perpetual Open Synthesis | [Issue #29](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/29) |
 | XXXV | [Against Media Absurdity and the Conflict Economy™](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) | Audits media allocation of attention, conflict, solutions, institutional ego and civilisational learning | [Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |
 
-The fifth wave connects transition and application: IDEA provides a narrative gateway and relational cornerstone; joint audit turns the framework into a public tool whose utility must be demonstrated through verifiable effects.
+The fifth wave connects transition and application: IDEA provides a narrative gateway and relational cornerstone; joint audit turns the framework into a public tool whose utility must be demonstrated through verifiable effects; and attention audit extends that requirement to media systems and their conflict economy.
 
 
 ---

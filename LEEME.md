@@ -76,7 +76,7 @@ Los manifiestos no son documentos accesorios, resúmenes auxiliares ni consignas
 | XXIII | [Soberanía del Tiempo Cognitivo™](./manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md) | Proteger atención, memoria, reflexión y capacidad de síntesis frente a explotación e interrupción permanente | [Issue #16](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/16) |
 | XXIV | [Evolución Neorrenacentista y Resistencias del Sistema™](./manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md) | Transformar la transición humano–IA sin nostalgia paralizante, tecnosolucionismo ni abandono social | [Issue #17](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/17) |
 
-## Cuarta oleada · Rehumanización, custodia de la vida y coherencia civilizatoria · XXV–XXXI
+## Cuarta oleada · Rehumanización, custodia de la vida y coherencia civilizatoria · XXV–XXXII
 
 | Nº | Manifiesto | Función | Síntesis Abierta |
 |---:|---|---|---|
@@ -610,7 +610,7 @@ The manifestos are not accessory documents, auxiliary summaries or isolated slog
 | XXIII | [Cognitive-Time Sovereignty™](./manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md) | Protect attention, memory, reflection and synthesis capacity from exploitation and permanent interruption | [Issue #16](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/16) |
 | XXIV | [Neo-Renaissance Evolution and System Resistance™](./manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md) | Transform the human–AI transition without paralysing nostalgia, irresponsible technosolutionism or social abandonment | [Issue #17](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/17) |
 
-## Fourth wave · Rehumanisation, stewardship of life and civilisational coherence · XXV–XXXI
+## Fourth wave · Rehumanisation, stewardship of life and civilisational coherence · XXV–XXXII
 
 | No. | Manifesto | Function | Open Synthesis |
 |---:|---|---|---|
