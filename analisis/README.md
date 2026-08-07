@@ -19,6 +19,13 @@ Esta carpeta reúne los materiales públicos de análisis, auditoría y trazabil
 
 ## Incorporaciones recientes
 
+### Parte IV · Canarias: de la presión fronteriza a la infraestructura de acogida
+
+* [Análisis bilingüe completo](./publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md)
+* [Fuentes y matriz de evidencias](./publicos/evidencias/2026-08-07_canarias-quorum-tutela-contratacion-control-politico-fuentes-y-matriz_ES_EN.md)
+
+Amplía la serie España–Marruecos hacia la infraestructura española de acogida: tutela pública, contratación de emergencia, concentración de proveedores, inspección, Operación Cábila y conexiones políticas individuales. La investigación separa de forma explícita hechos oficiales, atribuciones periodísticas, inferencias y acusaciones no demostradas.
+
 ### Parte III · Ceuta 2026, Marruecos y evolución del conflicto
 
 * [Análisis bilingüe completo](./publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md)
@@ -57,6 +64,8 @@ Caso de referencia `51071689`. Conserva la traza histórica de las incidencias f
 
 ### España–Marruecos
 
+* [Parte IV · Canarias: de la presión fronteriza a la infraestructura de acogida](./publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md)
+  * [Fuentes y matriz de evidencias](./publicos/evidencias/2026-08-07_canarias-quorum-tutela-contratacion-control-politico-fuentes-y-matriz_ES_EN.md)
 * [Parte III · Ceuta 2026, Marruecos y evolución del conflicto](./publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md)
   * [Fuentes y matriz de evidencias](./publicos/evidencias/2026-08-07_ceuta-marruecos-evolucion-conflicto-fuentes-y-matriz_ES_EN.md)
 * [Parte II · Dajla, mafias migratorias y control estatal](./publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
@@ -100,6 +109,13 @@ This folder gathers public analysis, audit and documentary traceability material
 
 ## Recent incorporations
 
+### Part IV · Canary Islands: from border pressure to reception infrastructure
+
+* [Complete bilingual analysis](./publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md)
+* [Sources and evidence matrix](./publicos/evidencias/2026-08-07_canarias-quorum-tutela-contratacion-control-politico-fuentes-y-matriz_ES_EN.md)
+
+Extends the Spain–Morocco series into Spain's reception infrastructure: public guardianship, emergency procurement, provider concentration, inspection, Operation Cábila and individual political connections. The analysis explicitly separates official facts, press attributions, inferences and unsupported allegations.
+
 ### Part III · Ceuta 2026, Morocco and the evolution of the conflict
 
 * [Complete bilingual analysis](./publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md)
@@ -138,6 +154,8 @@ Reference case `51071689`. It preserves the historical trace of Finnish-edition 
 
 ### Spain–Morocco
 
+* [Part IV · Canary Islands: from border pressure to reception infrastructure](./publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md)
+  * [Sources and evidence matrix](./publicos/evidencias/2026-08-07_canarias-quorum-tutela-contratacion-control-politico-fuentes-y-matriz_ES_EN.md)
 * [Part III · Ceuta 2026, Morocco and the evolution of the conflict](./publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md)
   * [Sources and evidence matrix](./publicos/evidencias/2026-08-07_ceuta-marruecos-evolucion-conflicto-fuentes-y-matriz_ES_EN.md)
 * [Part II · Dakhla, migrant-smuggling networks and state control](./publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
