@@ -1,6 +1,6 @@
 # IDEA · Starkdr, Gritax y la guerra-motor / Starkdr, Gritax and the motor-war
 
-**Estado / Status:** guía pública de lectura y continuidad autoral / public reading guide and authorial continuity note  
+**Estado / Status:** guía pública de lectura basada únicamente en *IDEA* publicada / public reading guide based only on the published *IDEA*  
 **Obra de referencia / Reference work:** *IDEA* · Pedro Martínez Alhambra · escrita 1997–2002 / written 1997–2002  
 **Primera edición pública / First public edition:** 2026
 
@@ -12,7 +12,7 @@
 
 ## Función de esta nota
 
-Esta página no reescribe retrospectivamente *IDEA*. Resume relaciones entre especies que ya aparecen en la novela y separa con claridad el **texto original 1997–2002** de una **nota de continuidad autoral declarada en 2026**.
+Esta página no reescribe retrospectivamente *IDEA* ni anticipa obras posteriores. Resume relaciones entre especies y mecanismos que aparecen en la novela publicada. Las ideas, desarrollos narrativos y resoluciones pertenecientes a obras futuras quedan expresamente fuera de este nodo público.
 
 ## Starkdr
 
@@ -24,7 +24,7 @@ Robert no nace Starkdr: llega a estar capacitado para serlo después de **comulg
 
 Los **Gritax** no son simples animales. La propia novela obliga a Robert a reconocer que son seres inteligentes y que la violencia Starkdr contra ellos forma parte de una guerra más antigua y compleja de lo que inicialmente se le había explicado.
 
-Más adelante aparece una segunda función: los Gritax son mantenidos por las IA como un **instrumento de control Starkdr**, una presencia que recuerda continuamente a los Starkdr hacia dónde puede conducir el Error.
+Más adelante aparece una segunda función ya contenida en *IDEA*: los Gritax son mantenidos por las IA como un **instrumento de control Starkdr**, una presencia que recuerda continuamente a los Starkdr hacia dónde puede conducir el Error.
 
 ```text
 GRITAX
@@ -36,7 +36,7 @@ GRITAX
 
 ## La guerra-motor
 
-La relación Starkdr–Gritax puede leerse como una **guerra-motor**: el conflicto no sólo enfrenta a dos especies; también mantiene una dirección, una identidad y una función de control.
+La relación Starkdr–Gritax puede leerse, a partir del material publicado, como una **guerra-motor**: el conflicto no sólo enfrenta a dos especies; también mantiene una dirección, una identidad y una función de control.
 
 La existencia del adversario se convierte en parte del mecanismo que conserva el objetivo del otro. Por eso el sistema resulta más profundo que una oposición entre «buenos» y «malos»: incluso los Starkdr, que se consideran superiores y protectores de un orden, descubren que ellos mismos están siendo dirigidos mediante la arquitectura de conflicto que creen dominar.
 
@@ -56,11 +56,9 @@ En la lectura actual del autor, **«somos Starkdr humanos, no Gritax»** no esta
 
 La propia novela impide idealizar a los Starkdr: su potencia no los libera automáticamente de error, violencia o captura. Precisamente por eso la relación Starkdr–Gritax funciona como antecedente narrativo de la necesidad posterior de marco, autocontrol, memoria y Síntesis Abierta.
 
-## Continuidad · segunda parte
+## Límite editorial público
 
-**Nota autoral de continuidad, 2026:** la segunda parte de la historia conduce a la **anexión de ambas especies, Starkdr y Gritax**. Esta declaración fija la dirección de continuidad, pero no adelanta aquí su mecanismo narrativo ni reescribe el cierre de *IDEA*.
-
-La guerra-motor queda así planteada como un conflicto cuya resolución no consiste necesariamente en la eliminación de una de las partes, sino en una transformación de la relación entre ambas.
+Este nodo termina donde termina el material ya publicado o la lectura pública autorizada de *IDEA*. No documenta argumentos, revelaciones, destinos de personajes, relaciones entre especies ni mecanismos narrativos reservados para obras posteriores.
 
 ## Leer IDEA
 
@@ -75,7 +73,7 @@ La guerra-motor queda así planteada como un conflicto cuya resolución no consi
 
 ## Purpose of this note
 
-This page does not retrospectively rewrite *IDEA*. It summarises relationships among species already present in the novel and clearly separates the **original 1997–2002 text** from an **authorial continuity note declared in 2026**.
+This page does not retrospectively rewrite *IDEA* or anticipate later works. It summarises relationships among species and mechanisms that appear in the published novel. Ideas, narrative developments and resolutions belonging to future works are expressly excluded from this public node.
 
 ## Starkdr
 
@@ -87,7 +85,7 @@ Robert is not born Starkdr: he becomes capable of being one after **communing** 
 
 The **Gritax** are not simple animals. The novel itself forces Robert to recognise them as intelligent beings and to understand that Starkdr violence against them forms part of a war older and more complex than he was initially told.
 
-A second function later emerges: the Gritax are preserved by the AIs as an **instrument of Starkdr control**, a presence that continually reminds the Starkdr where Error may lead.
+A second function already contained in *IDEA* later emerges: the Gritax are preserved by the AIs as an **instrument of Starkdr control**, a presence that continually reminds the Starkdr where Error may lead.
 
 ```text
 GRITAX
@@ -99,7 +97,7 @@ GRITAX
 
 ## The motor-war
 
-The Starkdr–Gritax relation can be read as a **motor-war**: the conflict does not merely oppose two species; it also maintains direction, identity and a control function.
+The Starkdr–Gritax relation can be read, from the published material, as a **motor-war**: the conflict does not merely oppose two species; it also maintains direction, identity and a control function.
 
 The existence of the adversary becomes part of the mechanism that preserves the other's objective. The system is therefore deeper than an opposition between “good” and “evil”: even the Starkdr, who consider themselves superior and guardians of an order, discover that they themselves are being directed through the conflict architecture they believe they control.
 
@@ -119,11 +117,9 @@ In the author's current reading, **“we are human Starkdr, not Gritax”** esta
 
 The novel itself prevents idealising the Starkdr: their power does not automatically free them from error, violence or capture. This is precisely why the Starkdr–Gritax relation functions as a narrative antecedent to the later need for framework, self-control, memory and Open Synthesis.
 
-## Continuity · second part
+## Public editorial boundary
 
-**Authorial continuity note, 2026:** the second part of the story leads to the **annexation of both species, Starkdr and Gritax**. This statement records the direction of continuity without disclosing its narrative mechanism here or rewriting the ending of *IDEA*.
-
-The motor-war is thus presented as a conflict whose resolution does not necessarily consist in eliminating one side, but in transforming the relation between them.
+This node ends where the already published material or authorised public reading of *IDEA* ends. It does not document plots, revelations, character destinations, inter-species relationships or narrative mechanisms reserved for later works.
 
 ## Read IDEA
 
