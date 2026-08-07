@@ -233,13 +233,13 @@ Este bloque garantiza que la edición castellana y la inglesa ofrecen acceso al 
 * [Protocolo de Síntesis Abierta](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
 * [Referencia interna · 01_sintesis_abierta_neodialectica_ES_EN.md](./01_sintesis_abierta_neodialectica_ES_EN.md)
-* [Referencia interna · 36_corona_aguila_custodia_edad_del_hombre_ES_EN.md](./36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)
+* [Referencia interna · 37_neofraternidad_ES_EN.md](./37_neofraternidad_ES_EN.md)
 * [Índice de manifiestos](./README.md)
 * [Síntesis Abierta específica · Issue #31](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/31)
 
 ## Navegación
 
-← [XXXVI · Corona, Águila y Custodia de la Edad del Hombre™](./36_corona_aguila_custodia_edad_del_hombre_ES_EN.md) · [Índice](./README.md) · [II · Síntesis Abierta Neodialéctica™](./01_sintesis_abierta_neodialectica_ES_EN.md) →
+← [XXXVII · Neofraternidad™](./37_neofraternidad_ES_EN.md) · [Índice](./README.md) · [II · Síntesis Abierta Neodialéctica™](./01_sintesis_abierta_neodialectica_ES_EN.md) →
 
 ---
 
@@ -465,13 +465,13 @@ This block guarantees that the Spanish and English editions provide access to th
 * [Open Synthesis protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Open Synthesis index](../propuestas/sintesis-abierta/README.md)
 * [Internal reference · 01_sintesis_abierta_neodialectica_ES_EN.md](./01_sintesis_abierta_neodialectica_ES_EN.md)
-* [Internal reference · 36_corona_aguila_custodia_edad_del_hombre_ES_EN.md](./36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)
+* [Internal reference · 37_neofraternidad_ES_EN.md](./37_neofraternidad_ES_EN.md)
 * [Manifesto index](./README.md)
 * [Dedicated Open Synthesis · Issue #31](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/31)
 
 ## Navigation
 
-← [XXXVI · Crown, Eagle and Custodianship of the Age of Man™](./36_corona_aguila_custodia_edad_del_hombre_ES_EN.md) · [Index](./README.md) · [II · Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md) →
+← [XXXVII · Neofraternity™](./37_neofraternidad_ES_EN.md) · [Index](./README.md) · [II · Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md) →
 
 ---
 

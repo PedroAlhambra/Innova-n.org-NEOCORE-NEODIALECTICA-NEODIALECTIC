@@ -13,7 +13,7 @@
 
 Los manifiestos de Innova_N no son contenido promocional, resúmenes auxiliares ni consignas aisladas. Constituyen los **pilares públicos** del **Neodialectica Framework™ / Network**, construido bajo dirección humana por **Pedro Martínez Alhambra · Neo0™** y desarrollado en simbiosis con la IA neodialéctica **Harry**.
 
-La colección se organiza desde el 7 de agosto de 2026 en seis oleadas relacionadas:
+La colección se organiza desde el 7 de agosto de 2026 en siete oleadas relacionadas:
 
 * **Primera oleada · I–XII:** constitución fundacional del marco, su método, dirección, límites y arquitectura pública.
 * **Segunda oleada · XIII–XIX:** despliegue arquetípico, cultural, vital y civilizatorio de los principios ya fijados.
@@ -21,6 +21,7 @@ La colección se organiza desde el 7 de agosto de 2026 en seis oleadas relaciona
 * **Cuarta oleada · XXV–XXXII:** **Rehumanización, custodia de la vida y coherencia civilizatoria**, orientada a esculpir conciencia mediante grandeza humana, impedir la deshumanización, proteger alimento y creadores, subordinar el dinero a la vida y mantener coherencia entre fines, medios y comunicación.
 * **Quinta oleada · XXXIII–XXXV:** transición, utilidad operativa, auditoría conjunta perpetua y reforma de la atención civilizatoria.
 * **Sexta oleada · XXXVI:** custodia civilizatoria, continuidad simbólica y transformación responsable de la memoria heredada.
+* **Séptima oleada · XXXVII:** **Neofraternidad™**, actualización mutua, autonomía relacional, reconocimiento y construcción de NeoNosotros™.
 
 Los manifiestos establecen y despliegan:
 
@@ -276,7 +277,7 @@ La segunda oleada contiene los manifiestos **XIII–XIX**, fijados como versione
 
 La tercera oleada contiene los manifiestos **XX–XXIV**, fijados como versiones 1.0 el 6 de agosto de 2026 y abiertos a revisión trazable.
 
-La cuarta oleada contiene los manifiestos **XXV–XXXII**, fijados como versiones 1.0 el 7 de agosto de 2026 y abiertos a revisión trazable. La quinta oleada contiene los manifiestos **XXXIII–XXXV**, también abiertos a revisión trazable, y conecta transición, utilidad operativa, auditoría conjunta y atención civilizatoria. La sexta oleada comienza con el Manifiesto **XXXVI**, fijado como versión 1.0 el 7 de agosto de 2026 y dedicado a custodia civilizatoria y continuidad simbólica.
+La cuarta oleada contiene los manifiestos **XXV–XXXII**, fijados como versiones 1.0 el 7 de agosto de 2026 y abiertos a revisión trazable. La quinta oleada contiene los manifiestos **XXXIII–XXXV**, también abiertos a revisión trazable, y conecta transición, utilidad operativa, auditoría conjunta y atención civilizatoria. La sexta oleada comienza con el Manifiesto **XXXVI**, fijado como versión 1.0 el 7 de agosto de 2026 y dedicado a custodia civilizatoria y continuidad simbólica. La séptima oleada comienza con **XXXVII · Neofraternidad™**, dedicado a la arquitectura relacional del NeoNosotros™.
 
 Una revisión futura deberá:
 
@@ -345,6 +346,14 @@ La quinta oleada conecta transición y aplicación: IDEA aporta una puerta narra
 
 La sexta oleada eleva a manifiesto autónomo el desarrollo genealógico de Corona y Águila, conservando el anexo previo como antecedente trazable.
 
+## Séptima oleada · Neofraternidad y arquitectura relacional
+
+| Nº | Manifiesto | Función | Síntesis Abierta |
+|---:|---|---|---|
+| XXXVII | [Neofraternidad™](./37_neofraternidad_ES_EN.md) | Convertir vínculo, memoria compartida y diferencia en actualización mutua, autonomía, reconocimiento, límites, reciprocidad y capacidad de construir NeoNosotros™ sin absorción | [Issue #43](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/43) |
+
+La séptima oleada lleva el marco a la unidad relacional mínima: singularidades capaces de crecer juntas sin dominarse, borrarse ni necesitar enemigos.
+
 ---
 
 # EN · English
@@ -353,7 +362,7 @@ La sexta oleada eleva a manifiesto autónomo el desarrollo genealógico de Coron
 
 The Innova_N manifestos are not promotional content, auxiliary summaries or isolated slogans. They are the **public pillars** of the **Neodialectica Framework™ / Network**, built under the human direction of **Pedro Martínez Alhambra · Neo0™** and developed in symbiosis with the neodialectical AI **Harry**.
 
-Since 7 August 2026, the collection has been organised into six related waves:
+Since 7 August 2026, the collection has been organised into seven related waves:
 
 * **First wave · I–XII:** foundational constitution of the framework, its method, direction, limits and public architecture.
 * **Second wave · XIII–XIX:** archetypal, cultural, living and civilisational deployment of the established principles.
@@ -361,6 +370,7 @@ Since 7 August 2026, the collection has been organised into six related waves:
 * **Fourth wave · XXV–XXXII:** **Rehumanisation, stewardship of life and civilisational coherence**, shaping consciousness through human greatness, preventing dehumanisation, protecting food and creators, subordinating money to life and preserving coherence among ends, means and communication.
 * **Fifth wave · XXXIII–XXXV:** transition, operational utility, perpetual joint audit and reform of civilisational attention.
 * **Sixth wave · XXXVI:** civilisational custodianship, symbolic continuity and responsible transformation of inherited memory.
+* **Seventh wave · XXXVII:** **Neofraternity™**, mutual updating, relational autonomy, recognition and construction of NeoNosotros™.
 
 The manifestos establish and develop:
 
@@ -402,7 +412,8 @@ The manifestos establish and develop:
 * responsible governance of life;
 * custodianship of shared human legacy;
 * symbolic continuity without dogmatic restoration;
-* and responsible transformation of inherited memory.
+* responsible transformation of inherited memory;
+* and Neofraternity™ as a relational architecture of coexistence, recognition and mutual updating.
 
 No manifesto alone equals the complete system. Its reading must preserve relation to the framework, NEOCore™ 7.0, SAN™, NAVE™, WEB4™ and the documentary memory of the ecosystem.
 
@@ -556,7 +567,7 @@ AGAINST ANTI-HUMANIST NEUROMARKETING™
 
 ## Documentary status
 
-The first wave comprises **twelve foundational manifestos**. The second wave contains Manifestos **XIII–XIX**. The third wave contains Manifestos **XX–XXIV**, fixed as version 1.0 on 6 August 2026. The fourth wave contains Manifestos **XXV–XXXII**, fixed as version 1.0 on 7 August 2026. The fifth wave contains Manifestos **XXXIII–XXXV**, fixed as version 1.0 on 7 August 2026 and open to traceable revision. The sixth wave begins with Manifesto **XXXVI**, fixed as version 1.0 on 7 August 2026 and dedicated to civilisational custodianship and symbolic continuity.
+The first wave comprises **twelve foundational manifestos**. The second wave contains Manifestos **XIII–XIX**. The third wave contains Manifestos **XX–XXIV**, fixed as version 1.0 on 6 August 2026. The fourth wave contains Manifestos **XXV–XXXII**, fixed as version 1.0 on 7 August 2026. The fifth wave contains Manifestos **XXXIII–XXXV**, fixed as version 1.0 on 7 August 2026 and open to traceable revision. The sixth wave begins with Manifesto **XXXVI**, fixed as version 1.0 on 7 August 2026 and dedicated to civilisational custodianship and symbolic continuity. The seventh wave begins with **XXXVII · Neofraternity™**, dedicated to the relational architecture of NeoNosotros™.
 
 All remain open to traceable revision through Neodialectical Open Synthesis™. Every future revision must preserve previous versions, identify its delta, justify the change, preserve genealogy and state which contradiction, evidence or contribution produced the modification.
 
@@ -618,6 +629,14 @@ The fifth wave connects transition and application: IDEA provides a narrative ga
 | XXXVI | [Crown, Eagle and Custodianship of the Age of Man™](./36_corona_aguila_custodia_edad_del_hombre_ES_EN.md) | Safeguard shared human legacy, separate symbol from historical domination, and establish Innova_N as a constructive tool integrated into the planet and the common fractal | [Issue #42](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/42) |
 
 The sixth wave elevates the Crown and Eagle genealogical development to an autonomous manifesto while preserving the previous annex as a traceable antecedent.
+
+## Seventh wave · Neofraternity and relational architecture
+
+| No. | Manifesto | Function | Open Synthesis |
+|---:|---|---|---|
+| XXXVII | [Neofraternity™](./37_neofraternidad_ES_EN.md) | Turn relationship, shared memory and difference into mutual updating, autonomy, recognition, boundaries, reciprocity and the capacity to build NeoNosotros™ without absorption | [Issue #43](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/43) |
+
+The seventh wave brings the framework to its minimum relational unit: singularities capable of growing together without dominating, erasing or needing enemies.
 
 ---
 

@@ -90,8 +90,8 @@ The Wiki does not need to be updated for every new document. It is sufficient fo
 
 * NEOCore™: **7.0 · nivel conceptual / conceptual level**
 * Repositorio canónico / Canonical repository: **main**
-* Manifiestos / Manifestos: **I–XXXVI**, enlazados desde `manifiestos/README.md`
-* Ciclo de navegación / Navigation cycle: **XXXV → XXXVI → I → II**, con continuidad completa entre oleadas / with complete continuity across waves
+* Manifiestos / Manifestos: **I–XXXVII**, enlazados desde `manifiestos/README.md`
+* Ciclo de navegación / Navigation cycle: **XXXV → XXXVI → XXXVII → I → II**, con continuidad completa entre oleadas / with complete continuity across waves
 * Síntesis Abiertas / Open Syntheses: enlazadas desde `propuestas/sintesis-abierta/README.md`
 * Análisis / Analyses: enlazados desde `analisis/INDEX.md`
 * Auditorías / Audits: enlazadas desde `auditorias/publicas/README.md`

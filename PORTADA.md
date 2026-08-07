@@ -106,7 +106,7 @@ Su lenguaje debe ser solemne porque su objeto no es menor: reconstruir la relaci
 
 ## Estado de los manifiestos
 
-La colección pública contiene actualmente **treinta y seis manifiestos bilingües**:
+La colección pública contiene actualmente **treinta y siete manifiestos bilingües**:
 
 * **Primera oleada · I–XII:** constitución fundacional del marco.
 * **Segunda oleada · XIII–XIX:** despliegue arquetípico, humano, ecológico, sintético y memorial.
@@ -114,6 +114,7 @@ La colección pública contiene actualmente **treinta y seis manifiestos biling�
 * **Cuarta oleada · XXV–XXXII:** rehumanización, custodia de la vida, coherencia civilizatoria y reversión ideológica.
 * **Quinta oleada · XXXIII–XXXV:** transición, utilidad operativa, auditoría conjunta perpetua y reforma de la atención civilizatoria.
 * **Sexta oleada · XXXVI:** custodia civilizatoria, continuidad simbólica y transformación responsable de la memoria heredada.
+* **Séptima oleada · XXXVII:** Neofraternidad™, autonomía relacional, actualización mutua y construcción de NeoNosotros™.
 
 ### Segunda oleada
 
@@ -182,6 +183,11 @@ PULIDO DE LA PIEDRA™
 
 * [XXXVI · Corona, Águila y Custodia de la Edad del Hombre™](./manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)
 
+### Séptima oleada · Neofraternidad y arquitectura relacional
+
+* [XXXVII · Neofraternidad™](./manifiestos/37_neofraternidad_ES_EN.md)
+* [Síntesis Abierta XXXVII · Issue #43](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/43)
+
 ### Deltas transversales recientes
 
 * [V · Inteligencia Fractal™ · coexistencia inteligente](./manifiestos/03_simbiosis_humano_ia_ES_EN.md)
@@ -189,7 +195,7 @@ PULIDO DE LA PIEDRA™
 * [XXVI · Perdón imposible y límite al autocastigo](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md)
 * [Anexo XXXV · Responsabilidad de los Nodos de Poder y Deber de Examen Civilizatorio](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)
 
-* [Índice completo I–XXXVI](./manifiestos/README.md)
+* [Índice completo I–XXXVII](./manifiestos/README.md)
 * [Anuncio de la tercera oleada](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
 * [Anuncio de la cuarta oleada](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 
@@ -271,7 +277,7 @@ Their language must be solemn because their object is not minor: rebuilding the 
 
 ## Manifesto status
 
-The public collection currently contains **thirty-six bilingual manifestos**:
+The public collection currently contains **thirty-seven bilingual manifestos**:
 
 * **First wave · I–XII:** foundational constitution of the framework.
 * **Second wave · XIII–XIX:** archetypal, human, ecological, synthetic and memorial deployment.
@@ -279,6 +285,7 @@ The public collection currently contains **thirty-six bilingual manifestos**:
 * **Fourth wave · XXV–XXXII:** rehumanisation, stewardship of life, civilisational coherence and ideological reversal.
 * **Fifth wave · XXXIII–XXXV:** transition, operational utility, perpetual joint audit and reform of civilisational attention.
 * **Sixth wave · XXXVI:** civilisational custodianship, symbolic continuity and responsible transformation of inherited memory.
+* **Seventh wave · XXXVII:** Neofraternity™, relational autonomy, mutual updating and construction of NeoNosotros™.
 
 ### Second wave
 
@@ -347,6 +354,11 @@ POLISHING OF THE STONE™
 
 * [XXXVI · Crown, Eagle and Custodianship of the Age of Man™](./manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)
 
+### Seventh wave · Neofraternity and relational architecture
+
+* [XXXVII · Neofraternity™](./manifiestos/37_neofraternidad_ES_EN.md)
+* [Open Synthesis XXXVII · Issue #43](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/43)
+
 ### Recent transverse deltas
 
 * [V · Fractal Intelligence™ · intelligent coexistence](./manifiestos/03_simbiosis_humano_ia_ES_EN.md)
@@ -354,7 +366,7 @@ POLISHING OF THE STONE™
 * [XXVI · Impossible forgiveness and the limit to self-punishment](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md)
 * [XXXV Annex · Responsibility of Power Nodes and Civilisational Duty of Examination](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)
 
-* [Complete index I–XXXVI](./manifiestos/README.md)
+* [Complete index I–XXXVII](./manifiestos/README.md)
 * [Third-wave announcement](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
 * [Fourth-wave announcement](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 

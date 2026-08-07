@@ -11,7 +11,7 @@
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
-**Navegación / Navigation:** [← XXXV · Contra la Ridiculez Mediática y la Economía del Conflicto™](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) · [Índice / Index](./README.md) · [I · Neo0™ →](./11_neo0_soberania_de_guia_ES_EN.md)
+**Navegación / Navigation:** [← XXXV · Contra la Ridiculez Mediática y la Economía del Conflicto™](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) · [Índice / Index](./README.md) · [XXXVII · Neofraternidad™ →](./37_neofraternidad_ES_EN.md)
 
 ---
 
@@ -276,7 +276,7 @@ Toda aportación exige lectura previa, genealogía, separación entre forma hist
 - [Protocolo operativo actual para aportar](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 - [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
 
-**Navegación:** [← XXXV](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) · [Índice](./README.md) · [I · Neo0™ →](./11_neo0_soberania_de_guia_ES_EN.md)
+**Navegación:** [← XXXV](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) · [Índice](./README.md) · [XXXVII · Neofraternidad™ →](./37_neofraternidad_ES_EN.md)
 
 ---
 
@@ -560,7 +560,7 @@ Every contribution requires prior reading, genealogy, separation between histori
 - [Current operational contribution protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 - [Open Synthesis index](../propuestas/sintesis-abierta/README.md)
 
-**Navigation:** [← XXXV](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) · [Index](./README.md) · [I · Neo0™ →](./11_neo0_soberania_de_guia_ES_EN.md)
+**Navigation:** [← XXXV](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) · [Index](./README.md) · [XXXVII · Neofraternity™ →](./37_neofraternidad_ES_EN.md)
 
 ---
 

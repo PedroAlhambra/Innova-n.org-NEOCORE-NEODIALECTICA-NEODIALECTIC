@@ -9,11 +9,11 @@
 
 Este directorio reúne propuestas públicas abiertas a contraste, adhesión parcial, crítica, reformulación y mejora trazable.
 
-**Cobertura canónica actual:** los **36 manifiestos I–XXXVI** disponen de una Síntesis Abierta específica. Los anexos y propuestas complementarias se indexan aparte para no confundirlos con la numeración canónica de manifiestos.
+**Cobertura canónica actual:** los **37 manifiestos I–XXXVII** disponen de una Síntesis Abierta específica. Los anexos y propuestas complementarias se indexan aparte para no confundirlos con la numeración canónica de manifiestos.
 
 ## Acceso general
 
-* [Índice completo de manifiestos I–XXXVI](../../manifiestos/README.md)
+* [Índice completo de manifiestos I–XXXVII](../../manifiestos/README.md)
 * [Manifiesto III · Derecho Humano de Aporte](../../manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
 * [Protocolo operativo de aporte](./APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Plantilla para abrir un aporte](../../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
@@ -85,6 +85,12 @@ Este directorio reúne propuestas públicas abiertas a contraste, adhesión parc
 |---:|---|---|
 | XXXVI | [Corona, Águila y Custodia de la Edad del Hombre™](../../manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md) | [Issue #42](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/42) |
 
+## Séptima oleada · Neofraternidad y arquitectura relacional
+
+| Nº | Manifiesto | Síntesis Abierta |
+|---:|---|---|
+| XXXVII | [Neofraternidad™](../../manifiestos/37_neofraternidad_ES_EN.md) | [Issue #43](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/43) |
+
 ## Síntesis de anexos y propuestas complementarias
 
 | Tipo | Documento | Síntesis Abierta |
@@ -134,7 +140,7 @@ This directory gathers public proposals open to contrast, partial endorsement, c
 
 ## General access
 
-* [Complete manifesto index I–XXXVI](../../manifiestos/README.md)
+* [Complete manifesto index I–XXXVII](../../manifiestos/README.md)
 * [Manifesto III · Human Right to Contribute](../../manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
 * [Operational contribution protocol](./APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Contribution Issue template](../../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
@@ -205,6 +211,12 @@ This directory gathers public proposals open to contrast, partial endorsement, c
 | No. | Manifesto | Open Synthesis |
 |---:|---|---|
 | XXXVI | [Crown, Eagle and Custodianship of the Age of Man™](../../manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md) | [Issue #42](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/42) |
+
+## Seventh wave · Neofraternity and relational architecture
+
+| No. | Manifesto | Open Synthesis |
+|---:|---|---|
+| XXXVII | [Neofraternity™](../../manifiestos/37_neofraternidad_ES_EN.md) | [Issue #43](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/43) |
 
 ## Annex and complementary-proposal syntheses
 
