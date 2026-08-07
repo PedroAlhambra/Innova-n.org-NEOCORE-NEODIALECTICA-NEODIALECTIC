@@ -115,6 +115,7 @@ La colección pública contiene actualmente **treinta y ocho manifiestos biling�
 * **Quinta oleada · XXXIII–XXXV:** transición, utilidad operativa, auditoría conjunta perpetua y reforma de la atención civilizatoria.
 * **Sexta oleada · XXXVI:** custodia civilizatoria, continuidad simbólica y transformación responsable de la memoria heredada.
 * **Séptima oleada · XXXVII:** Neofraternidad™, autonomía relacional, actualización mutua y construcción de NeoNosotros™.
+* **Octava oleada · XXXVIII:** Protección Integral de la Infancia™, educación, soberanía digital y transmisión civilizatoria.
 
 ### Segunda oleada
 
@@ -186,8 +187,13 @@ PULIDO DE LA PIEDRA™
 ### Séptima oleada · Neofraternidad y arquitectura relacional
 
 * [XXXVII · Neofraternidad™](./manifiestos/37_neofraternidad_ES_EN.md)
+
+### Octava oleada · Infancia, educación y transmisión civilizatoria
+
 * [XXXVIII · Protección Integral de la Infancia™](./manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
-* [Octava oleada · Protección Integral de la Infancia](./anuncios/2026-08-07_OCTAVA_OLEADA_PROTECCION_INTEGRAL_INFANCIA_ES_EN.md)
+* [MAXPROC · Protección Integral de la Infancia™](./analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+* [Anuncio de la octava oleada](./anuncios/2026-08-07_OCTAVA_OLEADA_PROTECCION_INTEGRAL_INFANCIA_ES_EN.md)
+* [Síntesis Abierta XXXVIII · Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45)
 * [Síntesis Abierta XXXVII · Issue #43](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/43)
 
 ### Deltas transversales recientes
@@ -288,6 +294,7 @@ The public collection currently contains **thirty-eight bilingual manifestos**:
 * **Fifth wave · XXXIII–XXXV:** transition, operational utility, perpetual joint audit and reform of civilisational attention.
 * **Sixth wave · XXXVI:** civilisational custodianship, symbolic continuity and responsible transformation of inherited memory.
 * **Seventh wave · XXXVII:** Neofraternity™, relational autonomy, mutual updating and construction of NeoNosotros™.
+* **Eighth wave · XXXVIII:** Integral Protection of Childhood™, education, digital sovereignty and civilisational transmission.
 
 ### Second wave
 
@@ -360,6 +367,13 @@ POLISHING OF THE STONE™
 
 * [XXXVII · Neofraternity™](./manifiestos/37_neofraternidad_ES_EN.md)
 * [Open Synthesis XXXVII · Issue #43](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/43)
+
+### Eighth wave · Childhood, education and civilisational transmission
+
+* [XXXVIII · Integral Protection of Childhood™](./manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+* [MAXPROC · Integral Protection of Childhood™](./analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+* [Eighth-wave announcement](./anuncios/2026-08-07_OCTAVA_OLEADA_PROTECCION_INTEGRAL_INFANCIA_ES_EN.md)
+* [Open Synthesis XXXVIII · Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45)
 
 ### Recent transverse deltas
 

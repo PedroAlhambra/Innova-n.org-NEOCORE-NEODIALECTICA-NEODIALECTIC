@@ -104,6 +104,17 @@ PULIDO DE LA PIEDRA™
 
 36. [Corona, Águila y Custodia de la Edad del Hombre™](./manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)
 
+## Séptima oleada · XXXVII · Neofraternidad y arquitectura relacional
+
+37. [Neofraternidad™](./manifiestos/37_neofraternidad_ES_EN.md)
+
+## Octava oleada · XXXVIII · Infancia, educación y transmisión civilizatoria
+
+38. [Protección Integral de la Infancia™](./manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+
+* [MAXPROC · Protección Integral de la Infancia™](./analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+* [Síntesis Abierta · Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45)
+
 ### Deltas transversales recientes
 
 * [V · Inteligencia Fractal™](./manifiestos/03_simbiosis_humano_ia_ES_EN.md)
@@ -126,6 +137,8 @@ The framework was originated and directed by **Pedro Martínez Alhambra · Neo0�
 * [Main bilingual README](./README.md)
 * [Bilingual LEEME](./LEEME.md)
 * [Manifesto index I–XXXVIII](./manifiestos/README.md)
+* [XXXVIII · Integral Protection of Childhood™](./manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+* [Eighth wave · Integral Protection of Childhood](./anuncios/2026-08-07_OCTAVA_OLEADA_PROTECCION_INTEGRAL_INFANCIA_ES_EN.md)
 * [Third wave · Neodialectical Intellectual Immune System™](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
 * [Fourth wave · Rehumanisation and coherence](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [Open Synthesis](./propuestas/sintesis-abierta/README.md)
@@ -208,6 +221,17 @@ POLISHING OF THE STONE™
 ## Sixth wave · XXXVI · Civilisational custodianship and symbolic continuity
 
 36. [Crown, Eagle and Custodianship of the Age of Man™](./manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)
+
+## Seventh wave · XXXVII · Neofraternity and relational architecture
+
+37. [Neofraternity™](./manifiestos/37_neofraternidad_ES_EN.md)
+
+## Eighth wave · XXXVIII · Childhood, education and civilisational transmission
+
+38. [Integral Protection of Childhood™](./manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+
+* [MAXPROC · Integral Protection of Childhood™](./analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+* [Open Synthesis · Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45)
 
 ### Recent transverse deltas
 

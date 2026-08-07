@@ -9,7 +9,7 @@
 
 Este directorio reúne propuestas públicas abiertas a contraste, adhesión parcial, crítica, reformulación y mejora trazable.
 
-**Cobertura canónica actual:** los **37 manifiestos I–XXXVIII** disponen de una Síntesis Abierta específica. Los anexos y propuestas complementarias se indexan aparte para no confundirlos con la numeración canónica de manifiestos.
+**Cobertura canónica actual:** los **38 manifiestos I–XXXVIII** disponen de una Síntesis Abierta específica. Los anexos y propuestas complementarias se indexan aparte para no confundirlos con la numeración canónica de manifiestos.
 
 ## Acceso general
 
@@ -146,7 +146,7 @@ Las propuestas se originan en el marco creado por **Pedro Martínez Alhambra · 
 
 This directory gathers public proposals open to contrast, partial endorsement, criticism, reformulation and traceable improvement.
 
-**Current canonical coverage:** all **36 Manifestos I–XXXVI** have a dedicated Open Synthesis. Annexes and complementary proposals are indexed separately so they are not confused with the canonical manifesto numbering.
+**Current canonical coverage:** all **38 Manifestos I–XXXVIII** have a dedicated Open Synthesis. Annexes and complementary proposals are indexed separately so they are not confused with the canonical manifesto numbering.
 
 ## General access
 
@@ -227,6 +227,15 @@ This directory gathers public proposals open to contrast, partial endorsement, c
 | No. | Manifesto | Open Synthesis |
 |---:|---|---|
 | XXXVII | [Neofraternity™](../../manifiestos/37_neofraternidad_ES_EN.md) | [Issue #43](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/43) |
+
+## Eighth wave · Childhood, education and civilisational transmission
+
+| No. | Manifesto | Open Synthesis |
+|---:|---|---|
+| XXXVIII | [Integral Protection of Childhood™](../../manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) | [Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45) |
+
+* [Child-protection MAXPROC](../../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+* [Sources and evidence matrix](../../analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md)
 
 ## Annex and complementary-proposal syntheses
 

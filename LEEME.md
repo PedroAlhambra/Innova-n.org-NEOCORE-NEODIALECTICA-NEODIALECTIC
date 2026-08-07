@@ -21,6 +21,8 @@ Este repositorio conserva la capa pública, documental y trazable del ecosistema
 
 * [Índice navegable de manifiestos I–XXXVIII](./manifiestos/README.md)
 * [XXXVIII · Protección Integral de la Infancia™](./manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+* [MAXPROC · Protección Integral de la Infancia™](./analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+* [Síntesis Abierta XXXVIII · Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45)
 * [Octava oleada · Protección Integral de la Infancia](./anuncios/2026-08-07_OCTAVA_OLEADA_PROTECCION_INTEGRAL_INFANCIA_ES_EN.md)
 * [Anuncio histórico de la cuarta oleada](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [Anuncio de sexta oleada y deltas transversales](./anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md)
