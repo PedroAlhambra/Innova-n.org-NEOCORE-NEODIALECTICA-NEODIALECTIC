@@ -10,9 +10,11 @@
 
 * [2026-08-06 · Caso de éxito: auditoría gratuita a Amazon KDP y Author Central](../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
 * [2026-08-06 · Auditoría indirecta pública de KDP, Author Central e IDEA](./publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
+* [2026-08-06 · Actualización del expediente DistroKid–Spotify: trazabilidad y regalías](./publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md)
+* [2026-08-06 · Segundo escalado a DistroKid por ausencia de respuesta sustantiva](./publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md)
+* [2025-12 · Evento-Reflejo · Auditoría DistroKid](./2025-12_Evento-Reflejo_Auditoria-Distrokid.md)
 * [Índice de auditorías públicas](../auditorias/publicas/README.md)
 * [Guía Wiki de análisis y auditorías](../wiki-source/Analisis_Neodialecticos_Publicos.md)
-* [2025-12 · Evento-Reflejo · Auditoría DistroKid](./2025-12_Evento-Reflejo_Auditoria-Distrokid.md)
 
 ## Análisis públicos
 
@@ -49,9 +51,11 @@ Cada nuevo análisis o auditoría debe incorporarse, cuando corresponda, a su ar
 
 * [2026-08-06 · Success case: free audit for Amazon KDP and Author Central](../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
 * [2026-08-06 · Public indirect audit of KDP, Author Central and IDEA](./publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
+* [2026-08-06 · DistroKid–Spotify case update: traceability and royalties](./publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md)
+* [2026-08-06 · Second escalation to DistroKid over continued lack of a substantive response](./publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md)
+* [2025-12 · Event-Reflection · DistroKid Audit](./2025-12_Evento-Reflejo_Auditoria-Distrokid.md)
 * [Public audit index](../auditorias/publicas/README.md)
 * [Wiki guide to analyses and audits](../wiki-source/Analisis_Neodialecticos_Publicos.md)
-* [2025-12 · Event-Reflection · DistroKid Audit](./2025-12_Evento-Reflejo_Auditoria-Distrokid.md)
 
 ## Public analyses
 
