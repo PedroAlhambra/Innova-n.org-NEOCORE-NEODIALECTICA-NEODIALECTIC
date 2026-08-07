@@ -1,0 +1,187 @@
+name: one-shot-sync-links-readme-xxxv
+on:
+  push:
+    paths:
+      - '.github/workflows/one-shot-sync-links-readme-xxxv.yml'
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Synchronise current-state documents and audit relative links
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+
+          changed=[]
+          warnings=[]
+
+          def edit(path, replacements):
+              p=Path(path)
+              s=p.read_text(encoding='utf-8')
+              old=s
+              for a,b in replacements:
+                  if a not in s:
+                      warnings.append(f'{path}: pattern not found: {a[:90]}')
+                  s=s.replace(a,b)
+              if s!=old:
+                  p.write_text(s,encoding='utf-8')
+                  changed.append(path)
+
+          # README and LEEME: expose the live fifth wave and linked XXXV annex.
+          for path in ['README.md','LEEME.md']:
+              edit(path,[
+                ('* [Anuncio de la cuarta oleada](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)',
+                 '* [Anuncio histórico de la cuarta oleada](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)\n* [XXXIII · IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)\n* [XXXIV · Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](./manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)\n* [XXXV · Contra la Ridiculez Mediática y la Economía del Conflicto™](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)\n* [Anexo XXXV · Responsabilidad de los Nodos de Poder y Deber de Examen Civilizatorio](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)'),
+                ('* [Fourth-wave announcement](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)',
+                 '* [Historical fourth-wave announcement](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)\n* [XXXIII · IDEA · Civilisational Cornerstone and Rosetta Stone™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)\n* [XXXIV · Operational Utility of the Framework and Perpetual Joint Audit™](./manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)\n* [XXXV · Against Media Absurdity and the Conflict Economy™](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)\n* [XXXV Annex · Responsibility of Power Nodes and Civilisational Duty of Examination](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)'),
+                ('| XXXV | [Contra la Ridiculez Mediática y la Economía del Conflicto™](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) | Atención civilizatoria, auditoría del conflicto y aprendizaje mediático | [Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |',
+                 '| XXXV | [Contra la Ridiculez Mediática y la Economía del Conflicto™](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) | Atención civilizatoria, auditoría del conflicto y aprendizaje mediático | [Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |\n\n**Anexo vinculado:** [Responsabilidad de los Nodos de Poder y Deber de Examen Civilizatorio](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md).'),
+                ('| XXXV | [Against Media Absurdity and the Conflict Economy™](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) | Civilisational attention, conflict audit and media learning | [Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |',
+                 '| XXXV | [Against Media Absurdity and the Conflict Economy™](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) | Civilisational attention, conflict audit and media learning | [Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |\n\n**Linked annex:** [Responsibility of Power Nodes and Civilisational Duty of Examination](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md).')
+              ])
+
+          # PORTADA: current count, fourth-wave closure in XXXII, and fifth wave.
+          edit('PORTADA.md',[
+            ('treinta y un manifiestos bilingües','treinta y cinco manifiestos bilingües'),
+            ('thirty-one bilingual manifestos','thirty-five bilingual manifestos'),
+            ('**Cuarta oleada · XXV–XXXI:** rehumanización, custodia de la vida y coherencia civilizatoria.',
+             '**Cuarta oleada · XXV–XXXII:** rehumanización, custodia de la vida, coherencia civilizatoria y reversión ideológica.'),
+            ('**Fourth wave · XXV–XXXI:** rehumanisation, stewardship of life and civilisational coherence.',
+             '**Fourth wave · XXV–XXXII:** rehumanisation, stewardship of life, civilisational coherence and ideological reversal.'),
+            ('* [XXXI · Contra el Neuromarketing Antihumanista™](./manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md)\n\n```text\nPULIDO DE LA PIEDRA™',
+             '* [XXXI · Contra el Neuromarketing Antihumanista™](./manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md)\n* [XXXII · Reversión Ideológica Neodialéctica™](./manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md)\n\n```text\nPULIDO DE LA PIEDRA™'),
+            ('→ CONTRA EL NEUROMARKETING ANTIHUMANISTA™\n```\n\n* [Índice completo I–XXXI](./manifiestos/README.md)',
+             '→ CONTRA EL NEUROMARKETING ANTIHUMANISTA™\n→ REVERSIÓN IDEOLÓGICA NEODIALÉCTICA™\n```\n\n### Quinta oleada · Transición, utilidad operativa y atención civilizatoria\n\n* [XXXIII · IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)\n* [XXXIV · Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](./manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)\n* [XXXV · Contra la Ridiculez Mediática y la Economía del Conflicto™](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)\n* [Anexo XXXV · Responsabilidad de los Nodos de Poder y Deber de Examen Civilizatorio](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)\n\n* [Índice completo I–XXXV](./manifiestos/README.md)'),
+            ('* [XXXI · Against Anti-Humanist Neuromarketing™](./manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md)\n\n```text\nPOLISHING OF THE STONE™',
+             '* [XXXI · Against Anti-Humanist Neuromarketing™](./manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md)\n* [XXXII · Neodialectical Ideological Reversal™](./manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md)\n\n```text\nPOLISHING OF THE STONE™'),
+            ('→ AGAINST ANTI-HUMANIST NEUROMARKETING™\n```\n\n* [Complete index I–XXXI](./manifiestos/README.md)',
+             '→ AGAINST ANTI-HUMANIST NEUROMARKETING™\n→ NEODIALECTICAL IDEOLOGICAL REVERSAL™\n```\n\n### Fifth wave · Transition, operational utility and civilisational attention\n\n* [XXXIII · IDEA · Civilisational Cornerstone and Rosetta Stone™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)\n* [XXXIV · Operational Utility of the Framework and Perpetual Joint Audit™](./manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)\n* [XXXV · Against Media Absurdity and the Conflict Economy™](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)\n* [XXXV Annex · Responsibility of Power Nodes and Civilisational Duty of Examination](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)\n\n* [Complete index I–XXXV](./manifiestos/README.md)')
+          ])
+
+          # COVER: compact current map through XXXV.
+          edit('COVER.md',[
+            ('Índice de manifiestos I–XXXI','Índice de manifiestos I–XXXV'),
+            ('Manifesto index I–XXXI','Manifesto index I–XXXV'),
+            ('## Cuarta oleada · XXV–XXXI · Rehumanización, custodia de la vida y coherencia civilizatoria',
+             '## Cuarta oleada · XXV–XXXII · Rehumanización, custodia de la vida y coherencia civilizatoria'),
+            ('## Fourth wave · XXV–XXXI · Rehumanisation, stewardship of life and civilisational coherence',
+             '## Fourth wave · XXV–XXXII · Rehumanisation, stewardship of life and civilisational coherence'),
+            ('31. [Contra el Neuromarketing Antihumanista™](./manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md)',
+             '31. [Contra el Neuromarketing Antihumanista™](./manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md)\n32. [Reversión Ideológica Neodialéctica™](./manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md)'),
+            ('31. [Against Anti-Humanist Neuromarketing™](./manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md)',
+             '31. [Against Anti-Humanist Neuromarketing™](./manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md)\n32. [Neodialectical Ideological Reversal™](./manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md)'),
+            ('→ CONTRA EL NEUROMARKETING ANTIHUMANISTA™\n```\n\n---\n\n# EN · English',
+             '→ CONTRA EL NEUROMARKETING ANTIHUMANISTA™\n→ REVERSIÓN IDEOLÓGICA NEODIALÉCTICA™\n```\n\n## Quinta oleada · XXXIII–XXXV · Transición, utilidad operativa y atención civilizatoria\n\n33. [IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)\n34. [Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](./manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)\n35. [Contra la Ridiculez Mediática y la Economía del Conflicto™](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)\n\n* [Anexo XXXV · Responsabilidad de los Nodos de Poder y Deber de Examen Civilizatorio](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)\n\n---\n\n# EN · English'),
+            ('→ AGAINST ANTI-HUMANIST NEUROMARKETING™\n```\n\n---\n\n**Neodialectica Framework™',
+             '→ AGAINST ANTI-HUMANIST NEUROMARKETING™\n→ NEODIALECTICAL IDEOLOGICAL REVERSAL™\n```\n\n## Fifth wave · XXXIII–XXXV · Transition, operational utility and civilisational attention\n\n33. [IDEA · Civilisational Cornerstone and Rosetta Stone™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)\n34. [Operational Utility of the Framework and Perpetual Joint Audit™](./manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)\n35. [Against Media Absurdity and the Conflict Economy™](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)\n\n* [XXXV Annex · Responsibility of Power Nodes and Civilisational Duty of Examination](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)\n\n---\n\n**Neodialectica Framework™')
+          ])
+
+          # Wiki source: only usage/navigation state, never a second full index.
+          edit('wiki-source/Manifiestos.md',[
+            ('Índice canónico de manifiestos I–XXXI','Índice canónico de manifiestos I–XXXV'),
+            ('Canonical manifesto index I–XXXI','Canonical manifesto index I–XXXV'),
+            ('* **XXV–XXXI:** rehumanización, custodia de la vida y coherencia civilizatoria.',
+             '* **XXV–XXXII:** rehumanización, custodia de la vida, coherencia civilizatoria y reversión ideológica.\n* **XXXIII–XXXV:** transición, utilidad operativa, auditoría conjunta perpetua y reforma de la atención civilizatoria.'),
+            ('* **XXV–XXXI:** rehumanisation, stewardship of life and civilisational coherence.',
+             '* **XXV–XXXII:** rehumanisation, stewardship of life, civilisational coherence and ideological reversal.\n* **XXXIII–XXXV:** transition, operational utility, perpetual joint audit and reform of civilisational attention.')
+          ])
+          edit('wiki-source/README.md',[
+            ('**I–XXXI**, enlazados desde `manifiestos/README.md`','**I–XXXV**, enlazados desde `manifiestos/README.md`'),
+            ('**XXXI → I → II**, con continuidad completa entre oleadas','**XXXV → I → II**, con continuidad completa entre oleadas')
+          ])
+
+          # Open Synthesis index: add XXXII and the power-node annex.
+          edit('propuestas/sintesis-abierta/README.md',[
+            ('Índice completo de manifiestos I–XXXI','Índice completo de manifiestos I–XXXV'),
+            ('Complete manifesto index I–XXXI','Complete manifesto index I–XXXV'),
+            ('| XXXI | [Contra el Neuromarketing Antihumanista™](../../manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md) | [Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25) |',
+             '| XXXI | [Contra el Neuromarketing Antihumanista™](../../manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md) | [Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25) |\n| XXXII | [Reversión Ideológica Neodialéctica™](../../manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md) | [Issue #26](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/26) |'),
+            ('| XXXI | [Against Anti-Humanist Neuromarketing™](../../manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md) | [Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25) |',
+             '| XXXI | [Against Anti-Humanist Neuromarketing™](../../manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md) | [Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25) |\n| XXXII | [Neodialectical Ideological Reversal™](../../manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md) | [Issue #26](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/26) |'),
+            ('→ la comunicación persuade sin capturar la conciencia\n```',
+             '→ la comunicación persuade sin capturar la conciencia\n→ la reversión ideológica conserva la potencia del mecanismo y cambia su dirección hacia autonomía, memoria y Bien Común\n```'),
+            ('→ communication persuades without capturing consciousness\n```',
+             '→ communication persuades without capturing consciousness\n→ ideological reversal preserves the mechanism’s power while redirecting it towards autonomy, memory and the Common Good\n```'),
+            ('| XXXV | [Contra la Ridiculez Mediática y la Economía del Conflicto™](../../manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) | [Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |',
+             '| XXXV | [Contra la Ridiculez Mediática y la Economía del Conflicto™](../../manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) | [Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |\n\n**Anexo de la Síntesis XXXV:** [Responsabilidad de los Nodos de Poder y Deber de Examen Civilizatorio](./ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md).'),
+            ('| XXXV | [Against Media Absurdity and the Conflict Economy™](../../manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) | [Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |',
+             '| XXXV | [Against Media Absurdity and the Conflict Economy™](../../manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) | [Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |\n\n**XXXV Synthesis annex:** [Responsibility of Power Nodes and Civilisational Duty of Examination](./ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md).')
+          ])
+
+          # Audit relative Markdown links beginning ./ or ../. Anchor fragments are stripped for path existence.
+          link_re=re.compile(r'\[[^\]]*\]\((\.{1,2}/[^) >]+)\)')
+          broken=[]
+          checked=0
+          for md in Path('.').rglob('*.md'):
+              if '.git' in md.parts:
+                  continue
+              text=md.read_text(encoding='utf-8',errors='replace')
+              for raw in link_re.findall(text):
+                  target=raw.split('#',1)[0].split('?',1)[0]
+                  if not target:
+                      continue
+                  checked+=1
+                  resolved=(md.parent/target).resolve()
+                  try:
+                      rel=resolved.relative_to(Path('.').resolve())
+                  except ValueError:
+                      broken.append((str(md),raw,'outside repository'))
+                      continue
+                  if not resolved.exists():
+                      broken.append((str(md),raw,str(rel)))
+
+          report=Path('auditorias/publicas/2026-08-07_postcheck_enlaces_y_sincronizacion_XXXV_ES_EN.md')
+          lines=[
+            '# Postcheck · enlaces y sincronización documental tras XXXV',
+            '# Postcheck · link and documentary synchronisation after XXXV','',
+            '**Fecha / Date:** 2026-08-07  ',
+            '**Ámbito / Scope:** README, LEEME, PORTADA, COVER, índice de Síntesis Abierta y fuente mínima Wiki.','',
+            '## ES · Resultado','',
+            f'* Enlaces Markdown relativos comprobados (`./` y `../`): **{checked}**.',
+            f'* Enlaces relativos no resueltos: **{len(broken)}**.',
+            '* Estado canónico revisado: **I–XXXV**.',
+            '* Ciclo de navegación declarado: **XXXV → I → II**.',
+            '* Quinta oleada: **XXXIII–XXXV**.',
+            '* El anexo de responsabilidad de nodos de poder queda enlazado desde README/LEEME, PORTADA, COVER y Síntesis Abierta cuando corresponde.','',
+            '## EN · Result','',
+            f'* Relative Markdown links checked (`./` and `../`): **{checked}**.',
+            f'* Unresolved relative links: **{len(broken)}**.',
+            '* Reviewed canonical state: **I–XXXV**.',
+            '* Declared navigation cycle: **XXXV → I → II**.',
+            '* Fifth wave: **XXXIII–XXXV**.',''
+          ]
+          if broken:
+              lines += ['## Enlaces pendientes / Pending links','']
+              for src,raw,res in broken:
+                  lines.append(f'* `{src}` → `{raw}` → `{res}`')
+          else:
+              lines += ['## Dictamen / Verdict','','No se localizaron enlaces Markdown relativos rotos dentro del alcance del escaneo. / No broken relative Markdown links were found within the scan scope.']
+          if warnings:
+              lines += ['','## Avisos de sincronización / Synchronisation warnings',''] + [f'* {w}' for w in warnings]
+          report.write_text('\n'.join(lines)+'\n',encoding='utf-8')
+          changed.append(str(report))
+
+          print('Changed:', *changed, sep='\n- ')
+          print('Checked relative links:', checked)
+          print('Broken relative links:', len(broken))
+          if broken:
+              for x in broken[:50]: print('BROKEN',x)
+          if warnings:
+              for w in warnings: print('WARNING',w)
+
+          Path('.github/workflows/one-shot-sync-links-readme-xxxv.yml').unlink()
+      - name: Commit synchronisation and postcheck
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo 'No changes'
+          else
+            git commit -m 'docs: sync I-XXXV navigation, README surfaces and link postcheck'
+            git push
+          fi
