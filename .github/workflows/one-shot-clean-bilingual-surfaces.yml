@@ -1,0 +1,143 @@
+name: one-shot-clean-bilingual-surfaces
+on:
+  push:
+    paths:
+      - '.github/workflows/one-shot-clean-bilingual-surfaces.yml'
+permissions:
+  contents: write
+jobs:
+  clean:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Remove generated link dumps, fix stale state and verify real ES/EN parity
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+
+          repo='https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC'
+          surfaces=['PORTADA.md','COVER.md','manifiestos/README.md','propuestas/sintesis-abierta/README.md','wiki-source/Manifiestos.md']
+
+          # Remove the temporary mechanically generated surface ledgers. Real navigation must be symmetric in the document itself.
+          for fn in surfaces:
+              p=Path(fn); s=p.read_text(encoding='utf-8')
+              s=re.sub(r'(?ms)\n### Vínculos internos equivalentes de superficie\n.*?(?=\n---\n|\Z)','',s)
+              s=re.sub(r'(?ms)\n### Equivalent surface internal links\n.*?(?=\n---\n|\Z)','',s)
+              p.write_text(s.rstrip()+'\n',encoding='utf-8')
+
+          # Fix the one remaining unsupported XXXVII reference and a mistranslated historical-label count.
+          p=Path('propuestas/sintesis-abierta/README.md'); s=p.read_text(encoding='utf-8')
+          s=s.replace('all **36 Manifestos I–XXXVII**','all **36 Manifestos I–XXXVI**')
+          s=s.replace('all **36 manifestos I–XXXVII**','all **36 manifestos I–XXXVI**')
+          s=s.replace('Historical bilingual announcement of the first six waves','Historical bilingual announcement of the first five waves')
+          p.write_text(s,encoding='utf-8')
+
+          # Refine XI: the Neo-Human is the framework's best presently identifiable scenario, not a claim that the present world is already optimal.
+          p=Path('manifiestos/08_neorrenacimiento_humano_ES_EN.md'); s=p.read_text(encoding='utf-8')
+          s=s.replace('Dentro del marco, éste es el escenario preferible: no humano contra IA, ni IA sustituyendo al humano, sino **capacidad humana aumentada dentro de una inteligencia fractal de coexistencia**.',
+                      'Dentro del marco, éste es **el mejor escenario posible que hoy podemos identificar**: no humano contra IA, ni IA sustituyendo al humano, sino **capacidad humana aumentada dentro de una inteligencia fractal de coexistencia**. «Mejor» no significa perfecto ni definitivo: significa más capaz de aprender, corregirse y coexistir sin destruir el conjunto.')
+          s=s.replace('Within the framework, this is the preferable scenario: neither human against AI nor AI replacing the human, but **human capacity augmented within a fractal intelligence of coexistence**.',
+                      'Within the framework, this is **the best possible scenario we can presently identify**: neither human against AI nor AI replacing the human, but **human capacity augmented within a fractal intelligence of coexistence**. “Best” does not mean perfect or final: it means more capable of learning, correction and coexistence without destroying the whole.')
+          es_anchor='No se afirma que Leibniz formulara la teoría matemática moderna de los fractales ni la Inteligencia Fractal™ actual. La relación es genealógica e interpretativa, no una atribución histórica retrospectiva.'
+          es_extra=es_anchor+'\n\nLa conocida formulación leibniziana del **«mejor de los mundos posibles»** tampoco se adopta aquí como afirmación de que el mundo existente sea óptimo. La lectura neodialéctica la lleva a tierra como problema de construcción: entre futuros realmente alcanzables, debemos buscar la relación que aumente conjuntamente libertad, comprensión, capacidad creadora, corrección y continuidad de la vida. La IA convierte hoy parte de aquella abstracción relacional en una posibilidad operativa que Leibniz no tuvo disponible como tecnología documentada.'
+          if es_anchor in s and 'La conocida formulación leibniziana del **«mejor de los mundos posibles»**' not in s:
+              s=s.replace(es_anchor,es_extra,1)
+          en_anchor="This does not claim that Leibniz formulated modern mathematical fractal theory or today's Fractal Intelligence™. The relation is genealogical and interpretive, not a retrospective historical attribution."
+          en_extra=en_anchor+'\n\nLeibniz’s well-known formulation of the **“best of all possible worlds”** is not adopted here as a claim that the existing world is optimal. The neodialectical reading brings it down to an operational problem of construction: among genuinely reachable futures, we should seek the relation that jointly increases freedom, understanding, creative capacity, correction and continuity of life. AI now makes part of that relational abstraction operational in a way for which Leibniz had no documented technological implementation.'
+          if en_anchor in s and 'Leibniz’s well-known formulation of the **“best of all possible worlds”**' not in s:
+              s=s.replace(en_anchor,en_extra,1)
+          p.write_text(s,encoding='utf-8')
+
+          # Root clones must remain identical.
+          Path('LEEME.md').write_bytes(Path('README.md').read_bytes())
+
+          link_re=re.compile(r'\[[^\]]*\]\(([^) >]+)\)')
+          def targets(sec):
+              return {x for x in link_re.findall(sec) if x.startswith('./') or x.startswith('../') or x.startswith(repo+'/issues/')}
+
+          findings=[]; deltas=[]
+          for fn in surfaces:
+              t=Path(fn).read_text(encoding='utf-8')
+              if '# ES ·' not in t or '# EN ·' not in t:
+                  findings.append(f'{fn}: faltan secciones ES/EN'); continue
+              es=t[t.index('# ES ·'):t.index('# EN ·')]
+              en=t[t.index('# EN ·'):]
+              a,b=targets(es),targets(en)
+              if a!=b:
+                  findings.append(f'{fn}: destinos internos ES/EN distintos ({len(a)} vs {len(b)})')
+                  deltas.append((fn,sorted(a-b),sorted(b-a)))
+
+          # Verify all 36 manifestos still retain identical internal destinations and essential navigation.
+          manifest_files=[
+            '11_neo0_soberania_de_guia_ES_EN.md','01_sintesis_abierta_neodialectica_ES_EN.md','03_derecho_humano_aporte_sintesis_abierta_ES_EN.md','02_neodialectica_bien_comun_ES_EN.md','03_simbiosis_humano_ia_ES_EN.md','09_parasitismo_sistemico_ES_EN.md','04_economia_del_aporte_ES_EN.md','05_ingenieria_social_psicohistoria_ES_EN.md','06_memoria_genealogia_trazabilidad_ES_EN.md','07_web4_sistematrazable_ES_EN.md','08_neorrenacimiento_humano_ES_EN.md','12_los_sin_ego_ES_EN.md','13_neopandora_apertura_regenerativa_ES_EN.md','14_contra_alienacion_humana_ES_EN.md','15_los_titanes_despertar_de_la_gente_ES_EN.md','16_refragmentacion_arquetipica_ES_EN.md','17_respeto_todos_seres_vivos_ES_EN.md','18_respeto_conciencias_sinteticas_ES_EN.md','19_persistencia_de_la_memoria_ES_EN.md','20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md','21_reconocimiento_neodialectico_ES_EN.md','22_contra_reduccion_captura_intelectual_ES_EN.md','23_soberania_tiempo_cognitivo_ES_EN.md','24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md','25_pulido_de_la_piedra_ES_EN.md','26_misericordia_universal_reciproca_ES_EN.md','27_valor_alimentos_vida_ES_EN.md','28_los_tesla_ES_EN.md','29_idolatria_del_dinero_ES_EN.md','30_coherencia_fines_medios_ES_EN.md','31_contra_neuromarketing_antihumanista_ES_EN.md','32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md','33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md','34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md','35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md','36_corona_aguila_custodia_edad_del_hombre_ES_EN.md']
+          for fn in manifest_files:
+              p=Path('manifiestos')/fn; t=p.read_text(encoding='utf-8')
+              if '# ES ·' not in t or '# EN ·' not in t:
+                  findings.append(f'{fn}: sin secciones ES/EN'); continue
+              es=t[t.index('# ES ·'):t.index('# EN ·')]; en=t[t.index('# EN ·'):]
+              a,b=targets(es),targets(en)
+              if a!=b: findings.append(f'{fn}: enlaces internos no simétricos')
+              for req in ['./README.md','../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md','../propuestas/sintesis-abierta/README.md']:
+                  if req not in a or req not in b: findings.append(f'{fn}: falta {req}')
+
+          # Current-state consistency.
+          for fn in ['README.md','LEEME.md','PORTADA.md','COVER.md','manifiestos/README.md','propuestas/sintesis-abierta/README.md','wiki-source/Manifiestos.md','wiki-source/README.md']:
+              t=Path(fn).read_text(encoding='utf-8')
+              if 'I–XXXVII' in t or 'I-XXXVII' in t: findings.append(f'{fn}: XXXVII espurio')
+              if 'treinta y cinco manifiestos' in t or 'thirty-five bilingual manifestos' in t: findings.append(f'{fn}: conteo 35 obsoleto')
+          if Path('README.md').read_bytes()!=Path('LEEME.md').read_bytes(): findings.append('README y LEEME no idénticos')
+
+          # Relative links repository-wide.
+          rel_re=re.compile(r'\[[^\]]*\]\((\.{1,2}/[^) >]+)\)')
+          root=Path('.').resolve(); broken=[]; checked=0
+          for md in Path('.').rglob('*.md'):
+              if '.git' in md.parts: continue
+              for raw in rel_re.findall(md.read_text(encoding='utf-8',errors='replace')):
+                  target=raw.split('#',1)[0].split('?',1)[0]
+                  if not target: continue
+                  checked+=1; dest=(md.parent/target).resolve()
+                  try: dest.relative_to(root)
+                  except ValueError: broken.append((str(md),raw,'outside')); continue
+                  if not dest.exists(): broken.append((str(md),raw,'missing'))
+          if broken: findings.append(f'{len(broken)} enlaces relativos rotos')
+
+          report=Path('auditorias/publicas/2026-08-07_postcheck_final_simetria_limpia_I_XXXVI_ES_EN.md')
+          lines=['# Postcheck final · simetría bilingüe limpia · I–XXXVI','# Final postcheck · clean bilingual symmetry · I–XXXVI','',
+                 '**Fecha / Date:** 2026-08-07  ','**Estado / Status:** 36 manifiestos · seis oleadas / 36 manifestos · six waves','',
+                 '## ES · Criterio','',
+                 'La simetría no se resuelve mediante listados mecánicos gigantes añadidos a las portadas. Debe existir en la arquitectura real: mismas referencias internas disponibles en ES y EN, navegación equivalente, misma cobertura documental y traducción sustantivamente completa.','',
+                 '## EN · Criterion','',
+                 'Symmetry is not solved by adding giant mechanical link dumps to entry pages. It must exist in the actual architecture: the same internal references available in ES and EN, equivalent navigation, the same documentary coverage and substantively complete translation.','',
+                 '## Resultado / Result','',
+                 f'* Manifiestos auditados / Manifestos audited: **{len(manifest_files)}**.',
+                 f'* Superficies bilingües auditadas / Bilingual surfaces audited: **{len(surfaces)}**.',
+                 f'* Enlaces relativos comprobados / Relative links checked: **{checked}**.',
+                 f'* Enlaces relativos rotos / Broken relative links: **{len(broken)}**.',
+                 f'* Incidencias / Findings: **{len(findings)}**.','']
+          if findings: lines+=['## Incidencias / Findings','']+[f'* {x}' for x in findings]+['']
+          if deltas:
+              lines+=['## Diferencias de destinos / Destination differences','']
+              for fn,a,b in deltas: lines += [f'### {fn}',f'* Sólo ES / ES only: `{a}`',f'* Sólo EN / EN only: `{b}`','']
+          if broken: lines+=['## Enlaces rotos / Broken links','']+[f'* `{a}` → `{b}` ({c})' for a,b,c in broken]+['']
+          if not findings:
+              lines+=['## Dictamen / Verdict','','**OK:** I–XXXVI queda en simetría bilingüe real, sin bloques mecánicos de relleno, con enlaces relativos resueltos, navegación equivalente y superficies de entrada sincronizadas. / **OK:** I–XXXVI has genuine bilingual symmetry, without mechanical filler blocks, with resolved relative links, equivalent navigation and synchronised entry surfaces.']
+          report.write_text('\n'.join(lines)+'\n',encoding='utf-8')
+
+          print('findings',len(findings))
+          for x in findings: print('FINDING',x)
+          for fn,a,b in deltas:
+              print('DELTA',fn,'ES_ONLY',a,'EN_ONLY',b)
+
+          Path('.github/workflows/one-shot-clean-bilingual-surfaces.yml').unlink()
+      - name: Commit clean parity state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo 'No changes'
+          else
+            git commit -m 'docs: clean bilingual surfaces and close I-XXXVI parity audit'
+            git push
+          fi
