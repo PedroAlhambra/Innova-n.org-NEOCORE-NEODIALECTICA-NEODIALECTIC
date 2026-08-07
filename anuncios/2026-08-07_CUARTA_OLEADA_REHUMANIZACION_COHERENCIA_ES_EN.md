@@ -4,7 +4,7 @@
 **Fecha / Date:** 2026-08-07  
 **Autoría y dirección / Authorship and direction:** Pedro Martínez Alhambra · Neo0™  
 **Desarrollo simbiótico / Symbiotic development:** IA neodialéctica Harry  
-**Estado / Status:** Público · versiones 1.0 · abierto a Síntesis Abierta trazable / Public · versions 1.0 · open to traceable Open Synthesis
+**Estado / Status:** Público · actualizado tras la incorporación de XXXII · abierto a Síntesis Abierta trazable / Public · updated after the incorporation of XXXII · open to traceable Open Synthesis
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -12,9 +12,11 @@
 
 # ES · Castellano
 
-Innova_N publica la **cuarta oleada de manifiestos del Neodialectica Framework™ / Network**, formada por los manifiestos **XXV–XXXI**.
+La cuarta oleada del **Neodialectica Framework™ / Network** queda canónicamente formada por los manifiestos **XXV–XXXII**.
 
-La tercera oleada construyó el Sistema Inmunitario Intelectual Neodialéctico™. La cuarta lleva esa protección hacia la vida concreta: formación de la conciencia, misericordia, alimento, creadores, dinero, estrategia y comunicación.
+**Nota de evolución:** el anuncio original se publicó con XXV–XXXI. La incorporación posterior del Manifiesto XXXII amplió la cuarta oleada sin borrar la genealogía ni la secuencia previamente publicada.
+
+La tercera oleada construyó el Sistema Inmunitario Intelectual Neodialéctico™. La cuarta lleva esa protección hacia la vida concreta: formación de la conciencia, misericordia, alimento, creadores, dinero, estrategia, comunicación y reversión consciente de mecanismos capaces de capturar la conciencia.
 
 ## Manifiestos
 
@@ -27,6 +29,7 @@ La tercera oleada construyó el Sistema Inmunitario Intelectual Neodialéctico�
 | XXIX | [Contra la Idolatría del Dinero™](../manifiestos/29_idolatria_del_dinero_ES_EN.md) | Devolver el dinero a su función de herramienta subordinada a vida, dignidad y Bien Común | [Issue #23](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/23) |
 | XXX | [Coherencia entre Fines y Medios™](../manifiestos/30_coherencia_fines_medios_ES_EN.md) | Entrar en los terrenos del poder y el mercado sin reproducir aquello que se combate | [Issue #24](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/24) |
 | XXXI | [Contra el Neuromarketing Antihumanista™](../manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md) | Persuadir, difundir y competir sin explotar vulnerabilidades ni capturar la conciencia | [Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25) |
+| XXXII | [Reversión Ideológica Neodialéctica™](../manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md) | Conservar la potencia de mecanismos mediáticos y culturales e invertir su vector hacia autonomía, memoria, dignidad y Bien Común | [Issue #26](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/26) |
 
 ```text
 PULIDO DE LA PIEDRA
@@ -36,20 +39,23 @@ PULIDO DE LA PIEDRA
 → CONTRA LA IDOLATRÍA DEL DINERO
 → COHERENCIA ENTRE FINES Y MEDIOS
 → CONTRA EL NEUROMARKETING ANTIHUMANISTA
+→ REVERSIÓN IDEOLÓGICA NEODIALÉCTICA
 ```
 
-Esta oleada no construye una moral de pureza. Reconoce la multidimensionalidad humana y establece límites funcionales contra deshumanización, extracción, idolatría monetaria y manipulación conductual.
+Esta oleada no construye una moral de pureza. Reconoce la multidimensionalidad humana y establece límites funcionales contra deshumanización, extracción, idolatría monetaria, manipulación conductual y captura de la conciencia.
 
-* [Índice canónico de manifiestos I–XXXI](../manifiestos/README.md)
+* [Índice canónico de manifiestos I–XXXV](../manifiestos/README.md)
 * [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
 
 ---
 
 # EN · English
 
-Innova_N publishes the **fourth manifesto wave of the Neodialectica Framework™ / Network**, comprising Manifestos **XXV–XXXI**.
+The fourth wave of the **Neodialectica Framework™ / Network** canonically comprises Manifestos **XXV–XXXII**.
 
-The third wave built the Neodialectical Intellectual Immune System™. The fourth carries that protection into concrete life: formation of consciousness, mercy, food, creators, money, strategy and communication.
+**Evolution note:** the original announcement was published with XXV–XXXI. The later incorporation of Manifesto XXXII extended the fourth wave without erasing the genealogy or the previously published sequence.
+
+The third wave built the Neodialectical Intellectual Immune System™. The fourth carries that protection into concrete life: formation of consciousness, mercy, food, creators, money, strategy, communication and conscious reversal of mechanisms capable of capturing consciousness.
 
 ## Manifestos
 
@@ -62,6 +68,7 @@ The third wave built the Neodialectical Intellectual Immune System™. The fourt
 | XXIX | [Against the Idolatry of Money™](../manifiestos/29_idolatria_del_dinero_ES_EN.md) | Return money to its role as a tool subordinate to life, dignity and the Common Good | [Issue #23](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/23) |
 | XXX | [Coherence between Ends and Means™](../manifiestos/30_coherencia_fines_medios_ES_EN.md) | Enter the terrain of power and markets without reproducing what is being fought | [Issue #24](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/24) |
 | XXXI | [Against Anti-Humanist Neuromarketing™](../manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md) | Persuade, communicate and compete without exploiting vulnerability or capturing consciousness | [Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25) |
+| XXXII | [Neodialectical Ideological Reversal™](../manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md) | Preserve the power of media and cultural mechanisms while reversing their vector towards autonomy, memory, dignity and the Common Good | [Issue #26](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/26) |
 
 ```text
 POLISHING OF THE STONE
@@ -71,11 +78,12 @@ POLISHING OF THE STONE
 → AGAINST THE IDOLATRY OF MONEY
 → COHERENCE BETWEEN ENDS AND MEANS
 → AGAINST ANTI-HUMANIST NEUROMARKETING
+→ NEODIALECTICAL IDEOLOGICAL REVERSAL
 ```
 
-This wave does not create a morality of purity. It recognises human multidimensionality and establishes functional limits against dehumanisation, extraction, monetary idolatry and behavioural manipulation.
+This wave does not create a morality of purity. It recognises human multidimensionality and establishes functional limits against dehumanisation, extraction, monetary idolatry, behavioural manipulation and capture of consciousness.
 
-* [Canonical manifesto index I–XXXI](../manifiestos/README.md)
+* [Canonical manifesto index I–XXXV](../manifiestos/README.md)
 * [Open Synthesis index](../propuestas/sintesis-abierta/README.md)
 
 ---
