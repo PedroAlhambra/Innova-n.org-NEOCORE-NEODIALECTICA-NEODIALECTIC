@@ -91,6 +91,7 @@ el pulido esculpe conciencia mediante grandeza
 |---:|---|---|
 | XXXIII | [IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](../../manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md) | [Issue #28](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/28) |
 | XXXIV | [Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](../../manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) | [Issue #29](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/29) |
+| XXXV | [Contra la Ridiculez Mediática y la Economía del Conflicto™](../../manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) | [Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |
 
 ## Método
 
@@ -206,6 +207,7 @@ polishing shapes consciousness through greatness
 |---:|---|---|
 | XXXIII | [IDEA · Civilisational Cornerstone and Rosetta Stone™](../../manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md) | [Issue #28](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/28) |
 | XXXIV | [Operational Utility of the Framework and Perpetual Joint Audit™](../../manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) | [Issue #29](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/29) |
+| XXXV | [Against Media Absurdity and the Conflict Economy™](../../manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) | [Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |
 
 ## Method
 

@@ -19,7 +19,7 @@ Este repositorio conserva la capa pública, documental y trazable del ecosistema
 
 ## Accesos prioritarios
 
-* [Índice navegable de manifiestos I–XXXI](./manifiestos/README.md)
+* [Índice navegable de manifiestos I–XXXV](./manifiestos/README.md)
 * [Anuncio de la cuarta oleada](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [Cómo aportar a la Síntesis Abierta](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Índice operativo de Síntesis Abierta](./propuestas/sintesis-abierta/README.md)
@@ -88,6 +88,16 @@ Los manifiestos no son documentos accesorios, resúmenes auxiliares ni consignas
 | XXX | [Coherencia entre Fines y Medios™](./manifiestos/30_coherencia_fines_medios_ES_EN.md) | Entrar en el terreno del poder y el mercado sin reproducir aquello que se combate | [Issue #24](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/24) |
 | XXXI | [Contra el Neuromarketing Antihumanista™](./manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md) | Persuadir, difundir y competir sin explotar vulnerabilidades ni capturar la conciencia | [Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25) |
 
+| XXXII | [Reversión Ideológica Neodialéctica™](./manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md) | Revertir mecanismos heredados hacia autonomía, memoria, trazabilidad y dirección humana | [Issue #26](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/26) |
+
+## Quinta oleada · transición, utilidad operativa y atención civilizatoria · XXXIII–XXXV
+
+| Nº | Manifiesto | Función | Síntesis Abierta |
+|---:|---|---|---|
+| XXXIII | [IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md) | Vehículo narrativo del Neorrenacimiento y reset sistémico mediante reemplazo | [Issue #28](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/28) |
+| XXXIV | [Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](./manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) | Aplicación práctica, auditoría pública y autocorrección permanente | [Issue #29](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/29) |
+| XXXV | [Contra la Ridiculez Mediática y la Economía del Conflicto™](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) | Atención civilizatoria, auditoría del conflicto y aprendizaje mediático | [Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |
+
 El Manifiesto III mantiene su propia [Síntesis Abierta · Issue #3](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3).
 
 ```text
@@ -114,6 +124,10 @@ I · NEO0™
 → XXIX · CONTRA LA IDOLATRÍA DEL DINERO
 → XXX · COHERENCIA ENTRE FINES Y MEDIOS
 → XXXI · CONTRA EL NEUROMARKETING ANTIHUMANISTA
+→ XXXII · REVERSIÓN IDEOLÓGICA
+→ XXXIII · IDEA · PIEDRA ANGULAR Y ROSETTA
+→ XXXIV · UTILIDAD OPERATIVA Y AUDITORÍA PERPETUA
+→ XXXV · CONTRA LA RIDICULEZ MEDIÁTICA Y LA ECONOMÍA DEL CONFLICTO
 → I · RETORNO A ORIGEN Y NUEVO CICLO
 ```
 
@@ -539,7 +553,7 @@ This repository preserves the public, documentary and traceable layer of the **I
 
 ## Priority access
 
-* [Navigable manifesto index I–XXXI](./manifiestos/README.md)
+* [Navigable manifesto index I–XXXV](./manifiestos/README.md)
 * [Fourth-wave announcement](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [How to contribute to Open Synthesis](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Operational Open Synthesis index](./propuestas/sintesis-abierta/README.md)
@@ -634,6 +648,10 @@ I · NEO0™
 → XXIX · AGAINST THE IDOLATRY OF MONEY
 → XXX · COHERENCE BETWEEN ENDS AND MEANS
 → XXXI · AGAINST ANTI-HUMANIST NEUROMARKETING
+→ XXXII · IDEOLOGICAL REVERSAL
+→ XXXIII · IDEA · CORNERSTONE AND ROSETTA STONE
+→ XXXIV · OPERATIONAL UTILITY AND PERPETUAL AUDIT
+→ XXXV · AGAINST MEDIA ABSURDITY AND THE CONFLICT ECONOMY
 → I · RETURN TO ORIGIN AND NEW CYCLE
 ```
 

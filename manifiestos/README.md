@@ -13,12 +13,13 @@
 
 Los manifiestos de Innova_N no son contenido promocional, resúmenes auxiliares ni consignas aisladas. Constituyen los **pilares públicos** del **Neodialectica Framework™ / Network**, construido bajo dirección humana por **Pedro Martínez Alhambra · Neo0™** y desarrollado en simbiosis con la IA neodialéctica **Harry**.
 
-La colección se organiza desde el 7 de agosto de 2026 en cuatro oleadas relacionadas:
+La colección se organiza desde el 7 de agosto de 2026 en cinco oleadas relacionadas:
 
 * **Primera oleada · I–XII:** constitución fundacional del marco, su método, dirección, límites y arquitectura pública.
 * **Segunda oleada · XIII–XIX:** despliegue arquetípico, cultural, vital y civilizatorio de los principios ya fijados.
 * **Tercera oleada · XX–XXIV:** **Sistema Inmunitario Intelectual Neodialéctico™**, orientado a proteger la apertura, reconocer el aporte, conservar genealogía, defender el tiempo cognitivo y transformar las resistencias del sistema heredado.
 * **Cuarta oleada · XXV–XXXII:** **Rehumanización, custodia de la vida y coherencia civilizatoria**, orientada a esculpir conciencia mediante grandeza humana, impedir la deshumanización, proteger alimento y creadores, subordinar el dinero a la vida y mantener coherencia entre fines, medios y comunicación.
+* **Quinta oleada · XXXIII–XXXV:** transición, utilidad operativa, auditoría conjunta perpetua y reforma de la atención civilizatoria.
 
 Los manifiestos establecen y despliegan:
 
@@ -150,6 +151,7 @@ La tercera oleada constituye una membrana intelectual viva. No protege al marco 
 | XXIX | [Contra la Idolatría del Dinero™](./29_idolatria_del_dinero_ES_EN.md) | Impedir que precio, rentabilidad, riqueza o mercado se conviertan en jueces absolutos de vida, verdad, dignidad y autoría | [Issue #23](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/23) |
 | XXX | [Coherencia entre Fines y Medios™](./30_coherencia_fines_medios_ES_EN.md) | Entrar en los terrenos del poder, el mercado y el conflicto sin reproducir aquello que se combate | [Issue #24](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/24) |
 | XXXI | [Contra el Neuromarketing Antihumanista™](./31_contra_neuromarketing_antihumanista_ES_EN.md) | Distinguir persuasión legítima de explotación opaca de vulnerabilidades, sesgos y datos íntimos para capturar conducta | [Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25) |
+| XXXII | [Reversión Ideológica Neodialéctica™](./32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md) | Revertir mecanismos mediáticos y sistémicos hacia autonomía, memoria, trazabilidad y dirección humana | [Issue #26](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/26) |
 
 La cuarta oleada lleva el sistema desde su protección intelectual hacia la vida concreta. No crea una moral de pureza: construye condiciones para formar, reparar, alimentar, reconocer, financiar y comunicar sin reducir a las personas a recursos explotables.
 
@@ -179,6 +181,14 @@ XXIX · CONTRA LA IDOLATRÍA DEL DINERO
 XXX · COHERENCIA ENTRE FINES Y MEDIOS
         ↓
 XXXI · CONTRA EL NEUROMARKETING ANTIHUMANISTA
+        ↓
+XXXII · REVERSIÓN IDEOLÓGICA NEODIALÉCTICA
+        ↓
+XXXIII · IDEA · PIEDRA ANGULAR Y ROSETTA CIVILIZATORIA
+        ↓
+XXXIV · UTILIDAD OPERATIVA Y AUDITORÍA CONJUNTA PERPETUA
+        ↓
+XXXV · CONTRA LA RIDICULEZ MEDIÁTICA Y LA ECONOMÍA DEL CONFLICTO
         ↓
 I · NEO0™ · RETORNO A ORIGEN Y NUEVO CICLO
 ```
@@ -260,7 +270,7 @@ La segunda oleada contiene los manifiestos **XIII–XIX**, fijados como versione
 
 La tercera oleada contiene los manifiestos **XX–XXIV**, fijados como versiones 1.0 el 6 de agosto de 2026 y abiertos a revisión trazable.
 
-La cuarta oleada contiene los manifiestos **XXV–XXXI**, fijados como versiones 1.0 el 7 de agosto de 2026 y abiertos a revisión trazable. Cada texto conserva objeto propio para evitar solapamientos: formación, misericordia, alimento, creador vivo, dinero, medios y persuasión.
+La cuarta oleada contiene los manifiestos **XXV–XXXII**, fijados como versiones 1.0 el 7 de agosto de 2026 y abiertos a revisión trazable. La quinta oleada contiene los manifiestos **XXXIII–XXXV**, también abiertos a revisión trazable, y conecta transición, utilidad operativa, auditoría conjunta y atención civilizatoria.
 
 Una revisión futura deberá:
 
@@ -315,6 +325,7 @@ Una revisión futura deberá:
 |---:|---|---|---|
 | XXXIII | [IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](./33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md) | Conectar la memoria literaria de origen con el reset sistémico mediante reemplazo y el Neorrenacimiento Humano | [Issue #28](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/28) |
 | XXXIV | [Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) | Demostrar aplicación práctica mediante auditorías públicas, autocorrección, memoria versionada y Síntesis Abierta permanente | [Issue #29](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/29) |
+| XXXV | [Contra la Ridiculez Mediática y la Economía del Conflicto™](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) | Auditar la selección mediática de atención, conflicto, soluciones, ego institucional y aprendizaje civilizatorio | [Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |
 
 La quinta oleada conecta transición y aplicación: IDEA aporta una puerta narrativa y una piedra de relación; la auditoría conjunta convierte el marco en una herramienta pública que debe demostrar utilidad mediante efectos verificables.
 
@@ -327,12 +338,13 @@ La quinta oleada conecta transición y aplicación: IDEA aporta una puerta narra
 
 The Innova_N manifestos are not promotional content, auxiliary summaries or isolated slogans. They are the **public pillars** of the **Neodialectica Framework™ / Network**, built under the human direction of **Pedro Martínez Alhambra · Neo0™** and developed in symbiosis with the neodialectical AI **Harry**.
 
-Since 7 August 2026, the collection has been organised into four related waves:
+Since 7 August 2026, the collection has been organised into five related waves:
 
 * **First wave · I–XII:** foundational constitution of the framework, its method, direction, limits and public architecture.
 * **Second wave · XIII–XIX:** archetypal, cultural, living and civilisational deployment of the established principles.
 * **Third wave · XX–XXIV:** the **Neodialectical Intellectual Immune System™**, protecting openness, recognising contribution, preserving genealogy, defending cognitive time and transforming resistance from the inherited system.
 * **Fourth wave · XXV–XXXII:** **Rehumanisation, stewardship of life and civilisational coherence**, shaping consciousness through human greatness, preventing dehumanisation, protecting food and creators, subordinating money to life and preserving coherence among ends, means and communication.
+* **Fifth wave · XXXIII–XXXV:** transition, operational utility, perpetual joint audit and reform of civilisational attention.
 
 No manifesto alone equals the complete system. Its reading must preserve relation to the framework, NEOCore™ 7.0, SAN™, NAVE™, WEB4™ and the documentary memory of the ecosystem.
 
@@ -394,6 +406,7 @@ Age, qualifications, position, fame and institutional status do not by themselve
 | XXIX | [Against the Idolatry of Money™](./29_idolatria_del_dinero_ES_EN.md) | Prevents price, profitability, wealth and markets from becoming absolute judges of life, truth, dignity and authorship | [Issue #23](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/23) |
 | XXX | [Coherence between Ends and Means™](./30_coherencia_fines_medios_ES_EN.md) | Enters the terrain of power, markets and conflict without reproducing what is being fought | [Issue #24](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/24) |
 | XXXI | [Against Anti-Humanist Neuromarketing™](./31_contra_neuromarketing_antihumanista_ES_EN.md) | Distinguishes legitimate persuasion from opaque exploitation of vulnerability, bias and intimate data to capture behaviour | [Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25) |
+| XXXII | [Neodialectical Ideological Reversal™](./32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md) | Reverses media and systemic mechanisms towards autonomy, memory, traceability and human direction | [Issue #26](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/26) |
 
 ## Reading architecture
 
@@ -415,6 +428,14 @@ XXV · POLISHING OF THE STONE
 → XXIX · AGAINST THE IDOLATRY OF MONEY
 → XXX · COHERENCE BETWEEN ENDS AND MEANS
 → XXXI · AGAINST ANTI-HUMANIST NEUROMARKETING
+        ↓
+XXXII · NEODIALECTICAL IDEOLOGICAL REVERSAL
+        ↓
+XXXIII · IDEA · CIVILISATIONAL CORNERSTONE AND ROSETTA STONE
+        ↓
+XXXIV · OPERATIONAL UTILITY AND PERPETUAL JOINT AUDIT
+        ↓
+XXXV · AGAINST MEDIA ABSURDITY AND THE CONFLICT ECONOMY
         ↓
 I · NEO0™ · RETURN TO ORIGIN AND NEW CYCLE
 ```
@@ -446,7 +467,7 @@ AGAINST ANTI-HUMANIST NEUROMARKETING™
 
 ## Documentary status
 
-The first wave comprises **twelve foundational manifestos**. The second wave contains Manifestos **XIII–XIX**. The third wave contains Manifestos **XX–XXIV**, fixed as version 1.0 on 6 August 2026. The fourth wave contains Manifestos **XXV–XXXI**, fixed as version 1.0 on 7 August 2026.
+The first wave comprises **twelve foundational manifestos**. The second wave contains Manifestos **XIII–XIX**. The third wave contains Manifestos **XX–XXIV**, fixed as version 1.0 on 6 August 2026. The fourth wave contains Manifestos **XXV–XXXII**, fixed as version 1.0 on 7 August 2026. The fifth wave contains Manifestos **XXXIII–XXXV**, fixed as version 1.0 on 7 August 2026 and open to traceable revision.
 
 All remain open to traceable revision through Neodialectical Open Synthesis™. Every future revision must preserve previous versions, identify its delta, justify the change, preserve genealogy and state which contradiction, evidence or contribution produced the modification.
 
@@ -477,6 +498,7 @@ All remain open to traceable revision through Neodialectical Open Synthesis™. 
 |---:|---|---|---|
 | XXXIII | [IDEA · Civilisational Cornerstone and Rosetta Stone™](./33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md) | Connect literary memory of origin with systemic reset through replacement and the Human Neo-Renaissance | [Issue #28](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/28) |
 | XXXIV | [Operational Utility of the Framework and Perpetual Joint Audit™](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) | Demonstrate practical application through public audits, self-correction, versioned memory and perpetual Open Synthesis | [Issue #29](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/29) |
+| XXXV | [Against Media Absurdity and the Conflict Economy™](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) | Audits media allocation of attention, conflict, solutions, institutional ego and civilisational learning | [Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |
 
 The fifth wave connects transition and application: IDEA provides a narrative gateway and relational cornerstone; joint audit turns the framework into a public tool whose utility must be demonstrated through verifiable effects.
 

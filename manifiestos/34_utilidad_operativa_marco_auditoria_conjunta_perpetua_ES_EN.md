@@ -403,7 +403,7 @@ Toda aportación exige fuente, contexto, genealogía, separación entre hecho e 
 
 ## Navegación
 
-← [XXXIII · IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](./33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md) · [Índice](./README.md) · [I · Neo0™ · Soberanía de Guía Neodialéctica](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XXXIII · IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](./33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md) · [Índice](./README.md) · [XXXV · Contra la Ridiculez Mediática y la Economía del Conflicto™](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) →
 
 ---
 
@@ -649,7 +649,7 @@ Every contribution requires source, context, genealogy, separation between fact 
 
 ## Navigation
 
-← [XXXIII · IDEA · Civilisational Cornerstone and Rosetta Stone™](./33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md) · [Index](./README.md) · [I · Neo0™ · Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XXXIII · IDEA · Civilisational Cornerstone and Rosetta Stone™](./33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md) · [Index](./README.md) · [XXXV · Against Media Absurdity and the Conflict Economy™](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) →
 
 ---
 

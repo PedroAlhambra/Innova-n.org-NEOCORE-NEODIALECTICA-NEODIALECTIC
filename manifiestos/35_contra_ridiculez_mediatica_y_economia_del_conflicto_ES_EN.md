@@ -394,6 +394,7 @@ Se solicitan aportes sobre:
 
 Toda aportación exige ejemplos verificables, fuentes, contexto, separación entre dato e interpretación, trazabilidad, delta y versión.
 
+* [Abrir la Síntesis Abierta de este manifiesto · Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30)
 * [Protocolo operativo actual para aportar](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
 * [Análisis · De la economía de la atención a la economía del aporte](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
@@ -609,6 +610,7 @@ Contributions are invited on the media conflict economy; distinctions between re
 
 Every contribution requires verifiable examples, sources, context, separation between data and interpretation, traceability, delta and version.
 
+* [Open the Synthesis of this manifesto · Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30)
 * [Current operational contribution protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Open Synthesis index](../propuestas/sintesis-abierta/README.md)
 * [Analysis · From the Attention Economy to the Contribution Economy](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
