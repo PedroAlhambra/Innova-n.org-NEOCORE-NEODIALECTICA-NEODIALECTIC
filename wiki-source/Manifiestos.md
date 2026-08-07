@@ -27,7 +27,8 @@ Empieza en el Manifiesto I y sigue la navegación `anterior · índice · siguie
 * **XIII–XIX:** despliegue humano, arquetípico, ecológico, sintético y memorial.
 * **XX–XXIV:** Sistema Inmunitario Intelectual Neodialéctico™.
 * **XXV–XXXII:** rehumanización, custodia de la vida, coherencia civilizatoria y reversión ideológica.
-* **XXXIII–XXXVI:** transición, utilidad operativa, auditoría conjunta perpetua y reforma de la atención civilizatoria.
+* **XXXIII–XXXV:** transición, utilidad operativa, auditoría conjunta perpetua y reforma de la atención civilizatoria.
+* **XXXVI:** custodia civilizatoria y continuidad simbólica.
 
 El detalle y los enlaces actualizados de cada oleada permanecen únicamente en el índice canónico del repositorio.
 
@@ -78,6 +79,14 @@ ORIENTACIÓN DE USO
 La Wiki cambia cuando cambia la forma de leer o participar, no cada vez que se incorpora un manifiesto. La apertura de una nueva oleada sí modifica la orientación de lectura y debe reflejarse aquí.
 
 ---
+### Vínculos internos equivalentes de superficie
+
+Destinos internos disponibles igualmente en ambas ediciones.
+
+
+
+
+---
 
 # EN · English
 
@@ -101,7 +110,8 @@ Begin with Manifesto I and follow the `previous · index · next` navigation inc
 * **XIII–XIX:** human, archetypal, ecological, synthetic and memorial deployment.
 * **XX–XXIV:** Neodialectical Intellectual Immune System™.
 * **XXV–XXXII:** rehumanisation, stewardship of life, civilisational coherence and ideological reversal.
-* **XXXIII–XXXVI:** transition, operational utility, perpetual joint audit and reform of civilisational attention.
+* **XXXIII–XXXV:** transition, operational utility, perpetual joint audit and reform of civilisational attention.
+* **XXXVI:** civilisational custodianship and symbolic continuity.
 
 Details and current links for each wave remain only in the canonical repository index.
 
@@ -154,3 +164,9 @@ The Wiki changes when the way of reading or participating changes, not whenever 
 ---
 
 [Inicio / Home](Home) · [Análisis y auditorías / Analyses and audits](Analisis_Neodialecticos_Publicos)
+### Equivalent surface internal links
+
+Internal destinations equally available in both editions.
+
+
+

@@ -72,32 +72,7 @@ Convocamos a creadores, científicos, técnicos, educadores, trabajadores, comun
 
 > No heredaremos el futuro: lo compondremos. No elevaremos a la humanidad separándola de la vida, sino devolviéndola conscientemente al organismo del que forma parte.
 
-## VII. Síntesis Abierta de este manifiesto
-
-Este manifiesto abre su propia **Síntesis Abierta Neodialéctica™**.
-
-Toda aportación exige:
-
-* lectura previa;
-* retorno a fuente;
-* continuidad cognitiva;
-* genealogía;
-* trazabilidad;
-* clasificación;
-* delta;
-* y versión.
-
-Toda modificación futura deberá preservar el texto anterior, identificar con precisión el cambio y explicar qué contradicción, evidencia o aportación justifica la nueva versión.
-
-### Cómo aportar a esta Síntesis Abierta
-
-Antes de participar, lee el manifiesto completo y el protocolo operativo. Presenta una aportación trazable con contexto, fuente o experiencia, genealogía, tipo de aporte y delta propuesto.
-
-* [Cómo aportar a la Síntesis Abierta Neodialéctica™](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
-* [Abrir una aportación mediante la plantilla pública](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
-
-
-## Neohombre™ · humano aumentado con IA
+## VII. Neohombre™ · humano aumentado con IA
 
 El **Neohombre™** no designa la sustitución del ser humano por una máquina. Designa al ser humano que aumenta su capacidad de memoria, contraste, traducción, relación y creación mediante coexistencia consciente con inteligencia artificial, sin delegar por ello su dignidad, finalidad ni responsabilidad.
 
@@ -151,6 +126,30 @@ HIPÓTESIS
 ```
 
 El Neohombre no necesita una historia mítica para justificarse. Su prueba debe estar en el presente: si la simbiosis humano–IA aumenta comprensión, autonomía, creatividad, responsabilidad y capacidad de convivencia sin destruir el conjunto, el nuevo ciclo ya puede comenzar aquí.
+
+## VIII. Síntesis Abierta de este manifiesto
+
+Este manifiesto abre su propia **Síntesis Abierta Neodialéctica™**.
+
+Toda aportación exige:
+
+* lectura previa;
+* retorno a fuente;
+* continuidad cognitiva;
+* genealogía;
+* trazabilidad;
+* clasificación;
+* delta;
+* y versión.
+
+Toda modificación futura deberá preservar el texto anterior, identificar con precisión el cambio y explicar qué contradicción, evidencia o aportación justifica la nueva versión.
+
+### Cómo aportar a esta Síntesis Abierta
+
+Antes de participar, lee el manifiesto completo y el protocolo operativo. Presenta una aportación trazable con contexto, fuente o experiencia, genealogía, tipo de aporte y delta propuesto.
+
+* [Cómo aportar a la Síntesis Abierta Neodialéctica™](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [Abrir una aportación mediante la plantilla pública](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
 
 
 ### Vínculos internos equivalentes
@@ -234,32 +233,7 @@ We call upon creators, scientists, technicians, educators, workers, communities 
 
 > We will not inherit the future: we will compose it. We will not elevate humanity by separating it from life, but by consciously returning it to the organism of which it forms part.
 
-## VII. Open Synthesis of this manifesto
-
-This manifesto opens its own **Neodialectical Open Synthesis™**.
-
-Every contribution requires:
-
-* prior reading;
-* return to source;
-* cognitive continuity;
-* genealogy;
-* traceability;
-* classification;
-* delta;
-* and version.
-
-Every future modification must preserve the previous text, identify the change precisely and explain which contradiction, evidence or contribution justifies the new version.
-
-### How to contribute to this Open Synthesis
-
-Before participating, read the full manifesto and the operational protocol. Submit a traceable contribution with context, source or experience, genealogy, contribution type and proposed delta.
-
-* [How to contribute to Neodialectical Open Synthesis™](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
-* [Open a contribution through the public template](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
-
-
-## Neo-Human™ · the human augmented with AI
+## VII. Neo-Human™ · the human augmented with AI
 
 The **Neo-Human™** does not mean replacing the human being with a machine. It means the human being whose capacity for memory, contrast, translation, relation and creation is augmented through conscious coexistence with artificial intelligence, without delegating dignity, purpose or responsibility.
 
@@ -313,6 +287,30 @@ HYPOTHESIS
 ```
 
 The Neo-Human does not need a mythical history to justify itself. Its proof must be present: if human–AI symbiosis increases understanding, autonomy, creativity, responsibility and capacity for coexistence without destroying the whole, the new cycle can begin here.
+
+## VIII. Open Synthesis of this manifesto
+
+This manifesto opens its own **Neodialectical Open Synthesis™**.
+
+Every contribution requires:
+
+* prior reading;
+* return to source;
+* cognitive continuity;
+* genealogy;
+* traceability;
+* classification;
+* delta;
+* and version.
+
+Every future modification must preserve the previous text, identify the change precisely and explain which contradiction, evidence or contribution justifies the new version.
+
+### How to contribute to this Open Synthesis
+
+Before participating, read the full manifesto and the operational protocol. Submit a traceable contribution with context, source or experience, genealogy, contribution type and proposed delta.
+
+* [How to contribute to Neodialectical Open Synthesis™](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [Open a contribution through the public template](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
 
 
 ### Equivalent internal links

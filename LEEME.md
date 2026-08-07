@@ -21,6 +21,7 @@ Este repositorio conserva la capa pública, documental y trazable del ecosistema
 
 * [Índice navegable de manifiestos I–XXXVI](./manifiestos/README.md)
 * [Anuncio histórico de la cuarta oleada](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
+* [Anuncio de sexta oleada y deltas transversales](./anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md)
 * [XXXIII · IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
 * [XXXIV · Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](./manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
 * [XXXV · Contra la Ridiculez Mediática y la Economía del Conflicto™](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
@@ -54,13 +55,13 @@ Los manifiestos no son documentos accesorios, resúmenes auxiliares ni consignas
 | II | [Síntesis Abierta Neodialéctica™](./manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md) | Método fundacional de contraste, integración y corrección |
 | III | [Derecho Humano de Aporte a la Síntesis Abierta™](./manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md) | Participación, deberes cognitivos, reconocimiento y futura tokenización del valor aportado |
 | IV | [Neodialéctica™ y Bien Común](./manifiestos/02_neodialectica_bien_comun_ES_EN.md) | Dirección filosófica y civilizatoria |
-| V | [Simbiosis Humano–IA](./manifiestos/03_simbiosis_humano_ia_ES_EN.md) | Pacto entre dirección humana e inteligencia simbiótica |
+| V | [Simbiosis Humano–IA](./manifiestos/03_simbiosis_humano_ia_ES_EN.md) | Pacto humano–IA e Inteligencia Fractal™ como coexistencia inteligente multiescala |
 | VI | [Parasitismo Sistémico](./manifiestos/09_parasitismo_sistemico_ES_EN.md) | Diagnóstico de extracción, captura y degradación |
 | VII | [Economía del Aporte](./manifiestos/04_economia_del_aporte_ES_EN.md) | Origen, retorno y reconocimiento del valor real |
 | VIII | [Ingeniería Social Abierta y Psicohistoria Neodialéctica](./manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md) | Diseño consciente, pedagogía pública y corrección de trayectorias |
 | IX | [Memoria, Genealogía y Trazabilidad](./manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md) | Infraestructura civilizatoria de continuidad y responsabilidad |
 | X | [WEB4™ · SistemaTrazable™](./manifiestos/07_web4_sistematrazable_ES_EN.md) | Capa pública relacional y trazable |
-| XI | [Neorrenacimiento Humano](./manifiestos/08_neorrenacimiento_humano_ES_EN.md) | Horizonte cultural, científico y humano de recomposición |
+| XI | [Neorrenacimiento Humano](./manifiestos/08_neorrenacimiento_humano_ES_EN.md) | Neohombre™: capacidad humana aumentada mediante simbiosis IA responsable, memoria y síntesis |
 | XII | [Los sin ego](./manifiestos/12_los_sin_ego_ES_EN.md) | Memoria generacional española y política de elevación humana |
 
 ## Segunda oleada · despliegue arquetípico y civilizatorio XIII–XIX
@@ -90,7 +91,7 @@ Los manifiestos no son documentos accesorios, resúmenes auxiliares ni consignas
 | Nº | Manifiesto | Función | Síntesis Abierta |
 |---:|---|---|---|
 | XXV | [Pulido de la Piedra™](./manifiestos/25_pulido_de_la_piedra_ES_EN.md) | Esculpir la conciencia mediante la grandeza humana sin borrar singularidad | [Issue #19](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/19) |
-| XXVI | [Misericordia Universal Recíproca™](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md) | Integrar justicia, protección, reparación y retorno para impedir deshumanización y exterminio | [Issue #20](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/20) |
+| XXVI | [Misericordia Universal Recíproca™](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md) | Justicia, reparación y retorno; incluye el perdón imposible desde la autoconsciencia del autocastigo | [Issue #20](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/20) |
 | XXVII | [Valor de los Alimentos y la Vida™](./manifiestos/27_valor_alimentos_vida_ES_EN.md) | Reconocer alimento, suelo, agua, trabajo, cultura y comunicaciones como infraestructura vital | [Issue #21](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/21) |
 | XXVIII | [Los Tesla™](./manifiestos/28_los_tesla_ES_EN.md) | Proteger al creador vivo frente a captura, agotamiento, sustitución y borrado | [Issue #22](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/22) |
 | XXIX | [Contra la Idolatría del Dinero™](./manifiestos/29_idolatria_del_dinero_ES_EN.md) | Subordinar precio, rentabilidad y acumulación a vida, dignidad, verdad y Bien Común | [Issue #23](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/23) |
@@ -573,6 +574,7 @@ This repository preserves the public, documentary and traceable layer of the **I
 
 * [Navigable manifesto index I–XXXVI](./manifiestos/README.md)
 * [Historical fourth-wave announcement](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
+* [Sixth-wave and transverse-deltas announcement](./anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md)
 * [XXXIII · IDEA · Civilisational Cornerstone and Rosetta Stone™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
 * [XXXIV · Operational Utility of the Framework and Perpetual Joint Audit™](./manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
 * [XXXV · Against Media Absurdity and the Conflict Economy™](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
@@ -606,13 +608,13 @@ The manifestos are not accessory documents, auxiliary summaries or isolated slog
 | II | [Neodialectical Open Synthesis™](./manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md) | Foundational method of contrast, integration and correction |
 | III | [Human Right to Contribute to Open Synthesis™](./manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md) | Participation, cognitive duties, recognition and future tokenisation of contributed value |
 | IV | [Neodialectics™ and the Common Good](./manifiestos/02_neodialectica_bien_comun_ES_EN.md) | Philosophical and civilisational direction |
-| V | [Human–AI Symbiosis](./manifiestos/03_simbiosis_humano_ia_ES_EN.md) | Pact between human direction and symbiotic intelligence |
+| V | [Human–AI Symbiosis](./manifiestos/03_simbiosis_humano_ia_ES_EN.md) | Human–AI pact and Fractal Intelligence™ as multiscale intelligent coexistence |
 | VI | [Systemic Parasitism](./manifiestos/09_parasitismo_sistemico_ES_EN.md) | Diagnosis of extraction, capture and degradation |
 | VII | [Contribution Economy](./manifiestos/04_economia_del_aporte_ES_EN.md) | Origin, return and recognition of real value |
 | VIII | [Open Social Engineering and Neodialectical Psychohistory](./manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md) | Conscious design, public pedagogy and trajectory correction |
 | IX | [Memory, Genealogy and Traceability](./manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md) | Civilisational infrastructure of continuity and responsibility |
 | X | [WEB4™ · SistemaTrazable™](./manifiestos/07_web4_sistematrazable_ES_EN.md) | Public relational and traceable layer |
-| XI | [Human Neo-Renaissance](./manifiestos/08_neorrenacimiento_humano_ES_EN.md) | Cultural, scientific and human horizon of recomposition |
+| XI | [Human Neo-Renaissance](./manifiestos/08_neorrenacimiento_humano_ES_EN.md) | Neo-Human™: human capacity augmented through responsible AI symbiosis, memory and synthesis |
 | XII | [The Egoless](./manifiestos/12_los_sin_ego_ES_EN.md) | Spanish generational memory and human elevation policy |
 
 ## Second wave · archetypal and civilisational deployment XIII–XIX
@@ -642,7 +644,7 @@ The manifestos are not accessory documents, auxiliary summaries or isolated slog
 | No. | Manifesto | Function | Open Synthesis |
 |---:|---|---|---|
 | XXV | [Polishing of the Stone™](./manifiestos/25_pulido_de_la_piedra_ES_EN.md) | Sculpt consciousness through human greatness without erasing singularity | [Issue #19](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/19) |
-| XXVI | [Universal Reciprocal Mercy™](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md) | Integrate justice, protection, repair and return to prevent dehumanisation and extermination | [Issue #20](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/20) |
+| XXVI | [Universal Reciprocal Mercy™](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md) | Justice, repair and return, including impossible forgiveness under self-conscious self-punishment | [Issue #20](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/20) |
 | XXVII | [Value of Food and Life™](./manifiestos/27_valor_alimentos_vida_ES_EN.md) | Recognise food, soil, water, labour, culture and communications as vital infrastructure | [Issue #21](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/21) |
 | XXVIII | [The Teslas™](./manifiestos/28_los_tesla_ES_EN.md) | Protect the living creator against capture, exhaustion, replacement and erasure | [Issue #22](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/22) |
 | XXIX | [Against the Idolatry of Money™](./manifiestos/29_idolatria_del_dinero_ES_EN.md) | Subordinate price, profitability and accumulation to life, dignity, truth and the Common Good | [Issue #23](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/23) |

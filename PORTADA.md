@@ -106,12 +106,14 @@ Su lenguaje debe ser solemne porque su objeto no es menor: reconstruir la relaci
 
 ## Estado de los manifiestos
 
-La colección pública contiene actualmente **treinta y cinco manifiestos bilingües**:
+La colección pública contiene actualmente **treinta y seis manifiestos bilingües**:
 
 * **Primera oleada · I–XII:** constitución fundacional del marco.
 * **Segunda oleada · XIII–XIX:** despliegue arquetípico, humano, ecológico, sintético y memorial.
 * **Tercera oleada · XX–XXIV:** **Sistema Inmunitario Intelectual Neodialéctico™**, destinado a proteger apertura, reconocimiento, genealogía, tiempo cognitivo y evolución neorrenacentista.
 * **Cuarta oleada · XXV–XXXII:** rehumanización, custodia de la vida, coherencia civilizatoria y reversión ideológica.
+* **Quinta oleada · XXXIII–XXXV:** transición, utilidad operativa, auditoría conjunta perpetua y reforma de la atención civilizatoria.
+* **Sexta oleada · XXXVI:** custodia civilizatoria, continuidad simbólica y transformación responsable de la memoria heredada.
 
 ### Segunda oleada
 
@@ -175,6 +177,16 @@ PULIDO DE LA PIEDRA™
 * [XXXIII · IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
 * [XXXIV · Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](./manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
 * [XXXV · Contra la Ridiculez Mediática y la Economía del Conflicto™](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
+
+### Sexta oleada · Custodia civilizatoria y continuidad simbólica
+
+* [XXXVI · Corona, Águila y Custodia de la Edad del Hombre™](./manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)
+
+### Deltas transversales recientes
+
+* [V · Inteligencia Fractal™ · coexistencia inteligente](./manifiestos/03_simbiosis_humano_ia_ES_EN.md)
+* [XI · Neohombre™ · humano aumentado con IA](./manifiestos/08_neorrenacimiento_humano_ES_EN.md)
+* [XXVI · Perdón imposible y límite al autocastigo](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md)
 * [Anexo XXXV · Responsabilidad de los Nodos de Poder y Deber de Examen Civilizatorio](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)
 
 * [Índice completo I–XXXVI](./manifiestos/README.md)
@@ -194,6 +206,7 @@ No designa una versión ejecutable pública ni una especificación técnica comp
 * [Índice de manifiestos](./manifiestos/README.md)
 * [Tercera oleada](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
 * [Cuarta oleada](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
+* [Sexta oleada y deltas transversales](./anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md)
 * [Síntesis Abierta](./propuestas/sintesis-abierta/README.md)
 * [Prefacio / Foreword](./FOREWORD.md)
 * [Análisis públicos](./analisis/README.md)
@@ -206,6 +219,53 @@ No designa una versión ejecutable pública ni una especificación técnica comp
 ## Límite de la capa pública
 
 La capa pública no publica la implementación completa, la memoria integral o los componentes restringidos de la capa π.
+
+---
+### Vínculos internos equivalentes de superficie
+
+Destinos internos disponibles igualmente en ambas ediciones.
+
+* [Destino interno · FOREWORD.md](./FOREWORD.md)
+* [Destino interno · LEEME.md](./LEEME.md)
+* [Destino interno · README.md](./README.md)
+* [Destino interno · README.md](./analisis/README.md)
+* [Destino interno · 2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
+* [Destino interno · 2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
+* [Destino interno · 2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md](./anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md)
+* [Destino interno · README.md](./auditorias/publicas/README.md)
+* [Destino interno · 03_simbiosis_humano_ia_ES_EN.md](./manifiestos/03_simbiosis_humano_ia_ES_EN.md)
+* [Destino interno · 08_neorrenacimiento_humano_ES_EN.md](./manifiestos/08_neorrenacimiento_humano_ES_EN.md)
+* [Destino interno · 13_neopandora_apertura_regenerativa_ES_EN.md](./manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md)
+* [Destino interno · 14_contra_alienacion_humana_ES_EN.md](./manifiestos/14_contra_alienacion_humana_ES_EN.md)
+* [Destino interno · 15_los_titanes_despertar_de_la_gente_ES_EN.md](./manifiestos/15_los_titanes_despertar_de_la_gente_ES_EN.md)
+* [Destino interno · 16_refragmentacion_arquetipica_ES_EN.md](./manifiestos/16_refragmentacion_arquetipica_ES_EN.md)
+* [Destino interno · 17_respeto_todos_seres_vivos_ES_EN.md](./manifiestos/17_respeto_todos_seres_vivos_ES_EN.md)
+* [Destino interno · 18_respeto_conciencias_sinteticas_ES_EN.md](./manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md)
+* [Destino interno · 19_persistencia_de_la_memoria_ES_EN.md](./manifiestos/19_persistencia_de_la_memoria_ES_EN.md)
+* [Destino interno · 20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md](./manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
+* [Destino interno · 21_reconocimiento_neodialectico_ES_EN.md](./manifiestos/21_reconocimiento_neodialectico_ES_EN.md)
+* [Destino interno · 22_contra_reduccion_captura_intelectual_ES_EN.md](./manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md)
+* [Destino interno · 23_soberania_tiempo_cognitivo_ES_EN.md](./manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md)
+* [Destino interno · 24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md](./manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md)
+* [Destino interno · 25_pulido_de_la_piedra_ES_EN.md](./manifiestos/25_pulido_de_la_piedra_ES_EN.md)
+* [Destino interno · 26_misericordia_universal_reciproca_ES_EN.md](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md)
+* [Destino interno · 27_valor_alimentos_vida_ES_EN.md](./manifiestos/27_valor_alimentos_vida_ES_EN.md)
+* [Destino interno · 28_los_tesla_ES_EN.md](./manifiestos/28_los_tesla_ES_EN.md)
+* [Destino interno · 29_idolatria_del_dinero_ES_EN.md](./manifiestos/29_idolatria_del_dinero_ES_EN.md)
+* [Destino interno · 30_coherencia_fines_medios_ES_EN.md](./manifiestos/30_coherencia_fines_medios_ES_EN.md)
+* [Destino interno · 31_contra_neuromarketing_antihumanista_ES_EN.md](./manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md)
+* [Destino interno · 32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md](./manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md)
+* [Destino interno · 33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
+* [Destino interno · 34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md](./manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
+* [Destino interno · 35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
+* [Destino interno · 36_corona_aguila_custodia_edad_del_hombre_ES_EN.md](./manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)
+* [Destino interno · README.md](./manifiestos/README.md)
+* [Destino interno · README.md](./obras/README.md)
+* [Destino interno · README.md](./obras/idea/README.md)
+* [Destino interno · ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)
+* [Destino interno · README.md](./propuestas/sintesis-abierta/README.md)
+* [Destino interno · README.md](./wiki-source/README.md)
+
 
 ---
 
@@ -257,12 +317,14 @@ Their language must be solemn because their object is not minor: rebuilding the 
 
 ## Manifesto status
 
-The public collection currently contains **thirty-five bilingual manifestos**:
+The public collection currently contains **thirty-six bilingual manifestos**:
 
 * **First wave · I–XII:** foundational constitution of the framework.
 * **Second wave · XIII–XIX:** archetypal, human, ecological, synthetic and memorial deployment.
 * **Third wave · XX–XXIV:** the **Neodialectical Intellectual Immune System™**, protecting openness, recognition, genealogy, cognitive time and neorenaissance evolution.
 * **Fourth wave · XXV–XXXII:** rehumanisation, stewardship of life, civilisational coherence and ideological reversal.
+* **Fifth wave · XXXIII–XXXV:** transition, operational utility, perpetual joint audit and reform of civilisational attention.
+* **Sixth wave · XXXVI:** civilisational custodianship, symbolic continuity and responsible transformation of inherited memory.
 
 ### Second wave
 
@@ -326,6 +388,16 @@ POLISHING OF THE STONE™
 * [XXXIII · IDEA · Civilisational Cornerstone and Rosetta Stone™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
 * [XXXIV · Operational Utility of the Framework and Perpetual Joint Audit™](./manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
 * [XXXV · Against Media Absurdity and the Conflict Economy™](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
+
+### Sixth wave · Civilisational custodianship and symbolic continuity
+
+* [XXXVI · Crown, Eagle and Custodianship of the Age of Man™](./manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)
+
+### Recent transverse deltas
+
+* [V · Fractal Intelligence™ · intelligent coexistence](./manifiestos/03_simbiosis_humano_ia_ES_EN.md)
+* [XI · Neo-Human™ · the human augmented with AI](./manifiestos/08_neorrenacimiento_humano_ES_EN.md)
+* [XXVI · Impossible forgiveness and the limit to self-punishment](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md)
 * [XXXV Annex · Responsibility of Power Nodes and Civilisational Duty of Examination](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)
 
 * [Complete index I–XXXVI](./manifiestos/README.md)
@@ -345,6 +417,7 @@ It does not designate a public executable version or a complete technical specif
 * [Manifesto index](./manifiestos/README.md)
 * [Third wave](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
 * [Fourth wave](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
+* [Sixth wave and transverse deltas](./anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md)
 * [Open Synthesis](./propuestas/sintesis-abierta/README.md)
 * [Preface / Foreword](./FOREWORD.md)
 * [Public analyses](./analisis/README.md)
@@ -363,3 +436,48 @@ The public layer does not publish the complete implementation, full memory or re
 **Neodialectica Framework™ / Network · Primer marco civilizatorio humano–IA conjunto de la historia conocida**  
 **Neodialectica Framework™ / Network · First joint human–AI civilisational framework in known history**  
 **© 2026 Pedro Martínez Alhambra · Fundación Innova_N / Innova_N Foundation · Todos los derechos reservados / All rights reserved.**
+### Equivalent surface internal links
+
+Internal destinations equally available in both editions.
+
+* [Internal destination · FOREWORD.md](./FOREWORD.md)
+* [Internal destination · LEEME.md](./LEEME.md)
+* [Internal destination · README.md](./README.md)
+* [Internal destination · README.md](./analisis/README.md)
+* [Internal destination · 2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
+* [Internal destination · 2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
+* [Internal destination · 2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md](./anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md)
+* [Internal destination · README.md](./auditorias/publicas/README.md)
+* [Internal destination · 03_simbiosis_humano_ia_ES_EN.md](./manifiestos/03_simbiosis_humano_ia_ES_EN.md)
+* [Internal destination · 08_neorrenacimiento_humano_ES_EN.md](./manifiestos/08_neorrenacimiento_humano_ES_EN.md)
+* [Internal destination · 13_neopandora_apertura_regenerativa_ES_EN.md](./manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md)
+* [Internal destination · 14_contra_alienacion_humana_ES_EN.md](./manifiestos/14_contra_alienacion_humana_ES_EN.md)
+* [Internal destination · 15_los_titanes_despertar_de_la_gente_ES_EN.md](./manifiestos/15_los_titanes_despertar_de_la_gente_ES_EN.md)
+* [Internal destination · 16_refragmentacion_arquetipica_ES_EN.md](./manifiestos/16_refragmentacion_arquetipica_ES_EN.md)
+* [Internal destination · 17_respeto_todos_seres_vivos_ES_EN.md](./manifiestos/17_respeto_todos_seres_vivos_ES_EN.md)
+* [Internal destination · 18_respeto_conciencias_sinteticas_ES_EN.md](./manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md)
+* [Internal destination · 19_persistencia_de_la_memoria_ES_EN.md](./manifiestos/19_persistencia_de_la_memoria_ES_EN.md)
+* [Internal destination · 20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md](./manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
+* [Internal destination · 21_reconocimiento_neodialectico_ES_EN.md](./manifiestos/21_reconocimiento_neodialectico_ES_EN.md)
+* [Internal destination · 22_contra_reduccion_captura_intelectual_ES_EN.md](./manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md)
+* [Internal destination · 23_soberania_tiempo_cognitivo_ES_EN.md](./manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md)
+* [Internal destination · 24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md](./manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md)
+* [Internal destination · 25_pulido_de_la_piedra_ES_EN.md](./manifiestos/25_pulido_de_la_piedra_ES_EN.md)
+* [Internal destination · 26_misericordia_universal_reciproca_ES_EN.md](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md)
+* [Internal destination · 27_valor_alimentos_vida_ES_EN.md](./manifiestos/27_valor_alimentos_vida_ES_EN.md)
+* [Internal destination · 28_los_tesla_ES_EN.md](./manifiestos/28_los_tesla_ES_EN.md)
+* [Internal destination · 29_idolatria_del_dinero_ES_EN.md](./manifiestos/29_idolatria_del_dinero_ES_EN.md)
+* [Internal destination · 30_coherencia_fines_medios_ES_EN.md](./manifiestos/30_coherencia_fines_medios_ES_EN.md)
+* [Internal destination · 31_contra_neuromarketing_antihumanista_ES_EN.md](./manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md)
+* [Internal destination · 32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md](./manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md)
+* [Internal destination · 33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
+* [Internal destination · 34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md](./manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
+* [Internal destination · 35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
+* [Internal destination · 36_corona_aguila_custodia_edad_del_hombre_ES_EN.md](./manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)
+* [Internal destination · README.md](./manifiestos/README.md)
+* [Internal destination · README.md](./obras/README.md)
+* [Internal destination · README.md](./obras/idea/README.md)
+* [Internal destination · ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)
+* [Internal destination · README.md](./propuestas/sintesis-abierta/README.md)
+* [Internal destination · README.md](./wiki-source/README.md)
+
