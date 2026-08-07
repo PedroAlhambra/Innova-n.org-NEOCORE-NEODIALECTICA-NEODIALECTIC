@@ -11,7 +11,7 @@ Este directorio reúne propuestas públicas abiertas a contraste, adhesión parc
 
 ## Acceso general
 
-* [Índice completo de manifiestos I–XXXI](../../manifiestos/README.md)
+* [Índice completo de manifiestos I–XXXV](../../manifiestos/README.md)
 * [Manifiesto III · Derecho Humano de Aporte](../../manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
 * [Síntesis Abierta del Manifiesto III · Issue #3](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3)
 * [Protocolo operativo de aporte](./APORTAR_A_LA_SINTESIS_ES_EN.md)
@@ -72,6 +72,7 @@ Umbral-X distingue
 | XXIX | [Contra la Idolatría del Dinero™](../../manifiestos/29_idolatria_del_dinero_ES_EN.md) | [Issue #23](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/23) |
 | XXX | [Coherencia entre Fines y Medios™](../../manifiestos/30_coherencia_fines_medios_ES_EN.md) | [Issue #24](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/24) |
 | XXXI | [Contra el Neuromarketing Antihumanista™](../../manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md) | [Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25) |
+| XXXII | [Reversión Ideológica Neodialéctica™](../../manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md) | [Issue #26](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/26) |
 
 ## Secuencia de la cuarta oleada
 
@@ -83,6 +84,7 @@ el pulido esculpe conciencia mediante grandeza
 → el dinero regresa a su función de herramienta
 → la coherencia impide que los medios destruyan el fin
 → la comunicación persuade sin capturar la conciencia
+→ la reversión ideológica conserva la potencia del mecanismo y cambia su dirección hacia autonomía, memoria y Bien Común
 ```
 
 ## Quinta oleada · Transición, utilidad operativa y nuevo ciclo humano
@@ -92,6 +94,8 @@ el pulido esculpe conciencia mediante grandeza
 | XXXIII | [IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](../../manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md) | [Issue #28](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/28) |
 | XXXIV | [Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](../../manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) | [Issue #29](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/29) |
 | XXXV | [Contra la Ridiculez Mediática y la Economía del Conflicto™](../../manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) | [Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |
+
+**Anexo de la Síntesis XXXV:** [Responsabilidad de los Nodos de Poder y Deber de Examen Civilizatorio](./ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md).
 
 ## Método
 
@@ -127,7 +131,7 @@ This directory gathers public proposals open to contrast, partial endorsement, c
 
 ## General access
 
-* [Complete manifesto index I–XXXI](../../manifiestos/README.md)
+* [Complete manifesto index I–XXXV](../../manifiestos/README.md)
 * [Manifesto III · Human Right to Contribute](../../manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
 * [Open Synthesis of Manifesto III · Issue #3](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3)
 * [Operational contribution protocol](./APORTAR_A_LA_SINTESIS_ES_EN.md)
@@ -188,6 +192,7 @@ Umbral-X distinguishes
 | XXIX | [Against the Idolatry of Money™](../../manifiestos/29_idolatria_del_dinero_ES_EN.md) | [Issue #23](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/23) |
 | XXX | [Coherence between Ends and Means™](../../manifiestos/30_coherencia_fines_medios_ES_EN.md) | [Issue #24](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/24) |
 | XXXI | [Against Anti-Humanist Neuromarketing™](../../manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md) | [Issue #25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25) |
+| XXXII | [Neodialectical Ideological Reversal™](../../manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md) | [Issue #26](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/26) |
 
 ## Fourth-wave sequence
 
@@ -199,6 +204,7 @@ polishing shapes consciousness through greatness
 → money returns to its function as a tool
 → coherence prevents means from destroying the end
 → communication persuades without capturing consciousness
+→ ideological reversal preserves the mechanism’s power while redirecting it towards autonomy, memory and the Common Good
 ```
 
 ## Fifth wave · Transition, operational utility and a new human cycle
@@ -208,6 +214,8 @@ polishing shapes consciousness through greatness
 | XXXIII | [IDEA · Civilisational Cornerstone and Rosetta Stone™](../../manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md) | [Issue #28](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/28) |
 | XXXIV | [Operational Utility of the Framework and Perpetual Joint Audit™](../../manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) | [Issue #29](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/29) |
 | XXXV | [Against Media Absurdity and the Conflict Economy™](../../manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) | [Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |
+
+**XXXV Synthesis annex:** [Responsibility of Power Nodes and Civilisational Duty of Examination](./ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md).
 
 ## Method
 

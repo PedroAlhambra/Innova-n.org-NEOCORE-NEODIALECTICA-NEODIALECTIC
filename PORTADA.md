@@ -106,12 +106,12 @@ Su lenguaje debe ser solemne porque su objeto no es menor: reconstruir la relaci
 
 ## Estado de los manifiestos
 
-La colección pública contiene actualmente **treinta y un manifiestos bilingües**:
+La colección pública contiene actualmente **treinta y cinco manifiestos bilingües**:
 
 * **Primera oleada · I–XII:** constitución fundacional del marco.
 * **Segunda oleada · XIII–XIX:** despliegue arquetípico, humano, ecológico, sintético y memorial.
 * **Tercera oleada · XX–XXIV:** **Sistema Inmunitario Intelectual Neodialéctico™**, destinado a proteger apertura, reconocimiento, genealogía, tiempo cognitivo y evolución neorrenacentista.
-* **Cuarta oleada · XXV–XXXI:** rehumanización, custodia de la vida y coherencia civilizatoria.
+* **Cuarta oleada · XXV–XXXII:** rehumanización, custodia de la vida, coherencia civilizatoria y reversión ideológica.
 
 ### Segunda oleada
 
@@ -157,6 +157,7 @@ EVOLUCIÓN NEORRENACENTISTA™
 * [XXIX · Contra la Idolatría del Dinero™](./manifiestos/29_idolatria_del_dinero_ES_EN.md)
 * [XXX · Coherencia entre Fines y Medios™](./manifiestos/30_coherencia_fines_medios_ES_EN.md)
 * [XXXI · Contra el Neuromarketing Antihumanista™](./manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md)
+* [XXXII · Reversión Ideológica Neodialéctica™](./manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md)
 
 ```text
 PULIDO DE LA PIEDRA™
@@ -166,9 +167,17 @@ PULIDO DE LA PIEDRA™
 → CONTRA LA IDOLATRÍA DEL DINERO™
 → COHERENCIA ENTRE FINES Y MEDIOS™
 → CONTRA EL NEUROMARKETING ANTIHUMANISTA™
+→ REVERSIÓN IDEOLÓGICA NEODIALÉCTICA™
 ```
 
-* [Índice completo I–XXXI](./manifiestos/README.md)
+### Quinta oleada · Transición, utilidad operativa y atención civilizatoria
+
+* [XXXIII · IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
+* [XXXIV · Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](./manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
+* [XXXV · Contra la Ridiculez Mediática y la Economía del Conflicto™](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
+* [Anexo XXXV · Responsabilidad de los Nodos de Poder y Deber de Examen Civilizatorio](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)
+
+* [Índice completo I–XXXV](./manifiestos/README.md)
 * [Anuncio de la tercera oleada](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
 * [Anuncio de la cuarta oleada](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 
@@ -248,12 +257,12 @@ Their language must be solemn because their object is not minor: rebuilding the 
 
 ## Manifesto status
 
-The public collection currently contains **thirty-one bilingual manifestos**:
+The public collection currently contains **thirty-five bilingual manifestos**:
 
 * **First wave · I–XII:** foundational constitution of the framework.
 * **Second wave · XIII–XIX:** archetypal, human, ecological, synthetic and memorial deployment.
 * **Third wave · XX–XXIV:** the **Neodialectical Intellectual Immune System™**, protecting openness, recognition, genealogy, cognitive time and neorenaissance evolution.
-* **Fourth wave · XXV–XXXI:** rehumanisation, stewardship of life and civilisational coherence.
+* **Fourth wave · XXV–XXXII:** rehumanisation, stewardship of life, civilisational coherence and ideological reversal.
 
 ### Second wave
 
@@ -299,6 +308,7 @@ NEORENAISSANCE EVOLUTION™
 * [XXIX · Against the Idolatry of Money™](./manifiestos/29_idolatria_del_dinero_ES_EN.md)
 * [XXX · Coherence between Ends and Means™](./manifiestos/30_coherencia_fines_medios_ES_EN.md)
 * [XXXI · Against Anti-Humanist Neuromarketing™](./manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md)
+* [XXXII · Neodialectical Ideological Reversal™](./manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md)
 
 ```text
 POLISHING OF THE STONE™
@@ -308,9 +318,17 @@ POLISHING OF THE STONE™
 → AGAINST THE IDOLATRY OF MONEY™
 → COHERENCE BETWEEN ENDS AND MEANS™
 → AGAINST ANTI-HUMANIST NEUROMARKETING™
+→ NEODIALECTICAL IDEOLOGICAL REVERSAL™
 ```
 
-* [Complete index I–XXXI](./manifiestos/README.md)
+### Fifth wave · Transition, operational utility and civilisational attention
+
+* [XXXIII · IDEA · Civilisational Cornerstone and Rosetta Stone™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
+* [XXXIV · Operational Utility of the Framework and Perpetual Joint Audit™](./manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
+* [XXXV · Against Media Absurdity and the Conflict Economy™](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
+* [XXXV Annex · Responsibility of Power Nodes and Civilisational Duty of Examination](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)
+
+* [Complete index I–XXXV](./manifiestos/README.md)
 * [Third-wave announcement](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
 * [Fourth-wave announcement](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 

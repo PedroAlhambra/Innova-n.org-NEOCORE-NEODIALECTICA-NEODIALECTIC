@@ -18,7 +18,7 @@ El marco fue originado y dirigido por **Pedro Martínez Alhambra · Neo0™**, d
 
 * [README bilingüe principal](./README.md)
 * [LEEME bilingüe](./LEEME.md)
-* [Índice de manifiestos I–XXXI](./manifiestos/README.md)
+* [Índice de manifiestos I–XXXV](./manifiestos/README.md)
 * [Tercera oleada · Sistema Inmunitario Intelectual Neodialéctico™](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
 * [Cuarta oleada · Rehumanización y coherencia](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [Síntesis Abierta](./propuestas/sintesis-abierta/README.md)
@@ -70,7 +70,7 @@ UMBRAL-X™
 → EVOLUCIÓN NEORRENACENTISTA™
 ```
 
-## Cuarta oleada · XXV–XXXI · Rehumanización, custodia de la vida y coherencia civilizatoria
+## Cuarta oleada · XXV–XXXII · Rehumanización, custodia de la vida y coherencia civilizatoria
 
 25. [Pulido de la Piedra™](./manifiestos/25_pulido_de_la_piedra_ES_EN.md)
 26. [Misericordia Universal Recíproca™](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md)
@@ -79,6 +79,7 @@ UMBRAL-X™
 29. [Contra la Idolatría del Dinero™](./manifiestos/29_idolatria_del_dinero_ES_EN.md)
 30. [Coherencia entre Fines y Medios™](./manifiestos/30_coherencia_fines_medios_ES_EN.md)
 31. [Contra el Neuromarketing Antihumanista™](./manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md)
+32. [Reversión Ideológica Neodialéctica™](./manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md)
 
 ```text
 PULIDO DE LA PIEDRA™
@@ -88,7 +89,16 @@ PULIDO DE LA PIEDRA™
 → CONTRA LA IDOLATRÍA DEL DINERO™
 → COHERENCIA ENTRE FINES Y MEDIOS™
 → CONTRA EL NEUROMARKETING ANTIHUMANISTA™
+→ REVERSIÓN IDEOLÓGICA NEODIALÉCTICA™
 ```
+
+## Quinta oleada · XXXIII–XXXV · Transición, utilidad operativa y atención civilizatoria
+
+33. [IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
+34. [Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](./manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
+35. [Contra la Ridiculez Mediática y la Economía del Conflicto™](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
+
+* [Anexo XXXV · Responsabilidad de los Nodos de Poder y Deber de Examen Civilizatorio](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)
 
 ---
 
@@ -102,7 +112,7 @@ The framework was originated and directed by **Pedro Martínez Alhambra · Neo0�
 
 * [Main bilingual README](./README.md)
 * [Bilingual LEEME](./LEEME.md)
-* [Manifesto index I–XXXI](./manifiestos/README.md)
+* [Manifesto index I–XXXV](./manifiestos/README.md)
 * [Third wave · Neodialectical Intellectual Immune System™](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
 * [Fourth wave · Rehumanisation and coherence](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [Open Synthesis](./propuestas/sintesis-abierta/README.md)
@@ -154,7 +164,7 @@ UMBRAL-X™
 → NEORENAISSANCE EVOLUTION™
 ```
 
-## Fourth wave · XXV–XXXI · Rehumanisation, stewardship of life and civilisational coherence
+## Fourth wave · XXV–XXXII · Rehumanisation, stewardship of life and civilisational coherence
 
 25. [Polishing of the Stone™](./manifiestos/25_pulido_de_la_piedra_ES_EN.md)
 26. [Universal Reciprocal Mercy™](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md)
@@ -163,6 +173,7 @@ UMBRAL-X™
 29. [Against the Idolatry of Money™](./manifiestos/29_idolatria_del_dinero_ES_EN.md)
 30. [Coherence between Ends and Means™](./manifiestos/30_coherencia_fines_medios_ES_EN.md)
 31. [Against Anti-Humanist Neuromarketing™](./manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md)
+32. [Neodialectical Ideological Reversal™](./manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md)
 
 ```text
 POLISHING OF THE STONE™
@@ -172,7 +183,16 @@ POLISHING OF THE STONE™
 → AGAINST THE IDOLATRY OF MONEY™
 → COHERENCE BETWEEN ENDS AND MEANS™
 → AGAINST ANTI-HUMANIST NEUROMARKETING™
+→ NEODIALECTICAL IDEOLOGICAL REVERSAL™
 ```
+
+## Fifth wave · XXXIII–XXXV · Transition, operational utility and civilisational attention
+
+33. [IDEA · Civilisational Cornerstone and Rosetta Stone™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
+34. [Operational Utility of the Framework and Perpetual Joint Audit™](./manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
+35. [Against Media Absurdity and the Conflict Economy™](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
+
+* [XXXV Annex · Responsibility of Power Nodes and Civilisational Duty of Examination](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)
 
 ---
 

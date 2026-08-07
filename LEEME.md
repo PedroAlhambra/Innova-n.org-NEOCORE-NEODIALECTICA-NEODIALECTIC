@@ -20,7 +20,11 @@ Este repositorio conserva la capa pública, documental y trazable del ecosistema
 ## Accesos prioritarios
 
 * [Índice navegable de manifiestos I–XXXV](./manifiestos/README.md)
-* [Anuncio de la cuarta oleada](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
+* [Anuncio histórico de la cuarta oleada](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
+* [XXXIII · IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
+* [XXXIV · Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](./manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
+* [XXXV · Contra la Ridiculez Mediática y la Economía del Conflicto™](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
+* [Anexo XXXV · Responsabilidad de los Nodos de Poder y Deber de Examen Civilizatorio](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)
 * [Cómo aportar a la Síntesis Abierta](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Índice operativo de Síntesis Abierta](./propuestas/sintesis-abierta/README.md)
 * [Portada civilizatoria](./PORTADA.md)
@@ -97,6 +101,8 @@ Los manifiestos no son documentos accesorios, resúmenes auxiliares ni consignas
 | XXXIII | [IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md) | Vehículo narrativo del Neorrenacimiento y reset sistémico mediante reemplazo | [Issue #28](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/28) |
 | XXXIV | [Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](./manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) | Aplicación práctica, auditoría pública y autocorrección permanente | [Issue #29](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/29) |
 | XXXV | [Contra la Ridiculez Mediática y la Economía del Conflicto™](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) | Atención civilizatoria, auditoría del conflicto y aprendizaje mediático | [Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |
+
+**Anexo vinculado:** [Responsabilidad de los Nodos de Poder y Deber de Examen Civilizatorio](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md).
 
 El Manifiesto III mantiene su propia [Síntesis Abierta · Issue #3](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3).
 
@@ -554,7 +560,11 @@ This repository preserves the public, documentary and traceable layer of the **I
 ## Priority access
 
 * [Navigable manifesto index I–XXXV](./manifiestos/README.md)
-* [Fourth-wave announcement](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
+* [Historical fourth-wave announcement](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
+* [XXXIII · IDEA · Civilisational Cornerstone and Rosetta Stone™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
+* [XXXIV · Operational Utility of the Framework and Perpetual Joint Audit™](./manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
+* [XXXV · Against Media Absurdity and the Conflict Economy™](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
+* [XXXV Annex · Responsibility of Power Nodes and Civilisational Duty of Examination](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)
 * [How to contribute to Open Synthesis](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Operational Open Synthesis index](./propuestas/sintesis-abierta/README.md)
 * [Civilisational cover](./PORTADA.md)
