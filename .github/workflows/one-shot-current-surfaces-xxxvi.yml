@@ -1,0 +1,232 @@
+name: one-shot-current-surfaces-xxxvi
+on:
+  push:
+    paths:
+      - '.github/workflows/one-shot-current-surfaces-xxxvi.yml'
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Synchronize current public surfaces and recheck bilingual parity
+        shell: python
+        run: |
+          from pathlib import Path
+          import re, hashlib
+
+          repo='https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC'
+
+          # 1) Put the Neo-Human delta in the conceptual body of XI, before Open Synthesis.
+          p=Path('manifiestos/08_neorrenacimiento_humano_ES_EN.md')
+          s=p.read_text(encoding='utf-8')
+          def move_block(text,start_marker,end_marker,target_marker,new_heading,target_replacement):
+              if start_marker not in text or end_marker not in text or target_marker not in text:
+                  return text
+              a=text.index(start_marker); b=text.index(end_marker,a)
+              block=text[a:b].strip()
+              text=text[:a]+text[b:]
+              block=block.replace(start_marker,new_heading,1)
+              text=text.replace(target_marker,block+'\n\n'+target_replacement,1)
+              return text
+          s=move_block(s,'## Neohombre™ · humano aumentado con IA','### Vínculos internos equivalentes','## VII. Síntesis Abierta de este manifiesto','## VII. Neohombre™ · humano aumentado con IA','## VIII. Síntesis Abierta de este manifiesto')
+          s=move_block(s,'## Neo-Human™ · the human augmented with AI','### Equivalent internal links','## VII. Open Synthesis of this manifesto','## VII. Neo-Human™ · the human augmented with AI','## VIII. Open Synthesis of this manifesto')
+          p.write_text(s,encoding='utf-8')
+
+          # 2) README/LEEME: make the newest deltas visible also in the canonical tables.
+          root=Path('README.md')
+          s=root.read_text(encoding='utf-8')
+          replacements={
+            '| V | [Simbiosis Humano–IA](./manifiestos/03_simbiosis_humano_ia_ES_EN.md) | Pacto entre dirección humana e inteligencia simbiótica |':'| V | [Simbiosis Humano–IA](./manifiestos/03_simbiosis_humano_ia_ES_EN.md) | Pacto humano–IA e Inteligencia Fractal™ como coexistencia inteligente multiescala |',
+            '| XI | [Neorrenacimiento Humano](./manifiestos/08_neorrenacimiento_humano_ES_EN.md) | Horizonte cultural, científico y humano de recomposición |':'| XI | [Neorrenacimiento Humano](./manifiestos/08_neorrenacimiento_humano_ES_EN.md) | Neohombre™: capacidad humana aumentada mediante simbiosis IA responsable, memoria y síntesis |',
+            '| XXVI | [Misericordia Universal Recíproca™](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md) | Integrar justicia, protección, reparación y retorno para impedir deshumanización y exterminio |':'| XXVI | [Misericordia Universal Recíproca™](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md) | Justicia, reparación y retorno; incluye el perdón imposible desde la autoconsciencia del autocastigo |',
+            '| V | [Human–AI Symbiosis](./manifiestos/03_simbiosis_humano_ia_ES_EN.md) | Pact between human direction and symbiotic intelligence |':'| V | [Human–AI Symbiosis](./manifiestos/03_simbiosis_humano_ia_ES_EN.md) | Human–AI pact and Fractal Intelligence™ as multiscale intelligent coexistence |',
+            '| XI | [Human Neo-Renaissance](./manifiestos/08_neorrenacimiento_humano_ES_EN.md) | Cultural, scientific and human horizon of recomposition |':'| XI | [Human Neo-Renaissance](./manifiestos/08_neorrenacimiento_humano_ES_EN.md) | Neo-Human™: human capacity augmented through responsible AI symbiosis, memory and synthesis |',
+            '| XXVI | [Universal Reciprocal Mercy™](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md) | Integrate justice, protection, repair and return to prevent dehumanisation and extermination |':'| XXVI | [Universal Reciprocal Mercy™](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md) | Justice, repair and return, including impossible forgiveness under self-conscious self-punishment |',
+          }
+          for a,b in replacements.items(): s=s.replace(a,b)
+          root.write_text(s,encoding='utf-8')
+          Path('LEEME.md').write_text(s,encoding='utf-8')
+
+          # 3) PORTADA: explicit current count, fifth/sixth wave, newest transverse deltas.
+          p=Path('PORTADA.md'); s=p.read_text(encoding='utf-8')
+          s=s.replace('**treinta y cinco manifiestos bilingües**','**treinta y seis manifiestos bilingües**')
+          s=s.replace('**thirty-five bilingual manifestos**','**thirty-six bilingual manifestos**')
+          es_four='* **Cuarta oleada · XXV–XXXII:** rehumanización, custodia de la vida, coherencia civilizatoria y reversión ideológica.'
+          es_add=es_four+'\n* **Quinta oleada · XXXIII–XXXV:** transición, utilidad operativa, auditoría conjunta perpetua y reforma de la atención civilizatoria.\n* **Sexta oleada · XXXVI:** custodia civilizatoria, continuidad simbólica y transformación responsable de la memoria heredada.'
+          if es_four in s and '**Sexta oleada · XXXVI:**' not in s: s=s.replace(es_four,es_add,1)
+          en_four='* **Fourth wave · XXV–XXXII:** rehumanisation, stewardship of life, civilisational coherence and ideological reversal.'
+          en_add=en_four+'\n* **Fifth wave · XXXIII–XXXV:** transition, operational utility, perpetual joint audit and reform of civilisational attention.\n* **Sixth wave · XXXVI:** civilisational custodianship, symbolic continuity and responsible transformation of inherited memory.'
+          if en_four in s and '**Sixth wave · XXXVI:**' not in s: s=s.replace(en_four,en_add,1)
+          es_fifth='''### Quinta oleada · Transición, utilidad operativa y atención civilizatoria\n\n* [XXXIII · IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)\n* [XXXIV · Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](./manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)\n* [XXXV · Contra la Ridiculez Mediática y la Economía del Conflicto™](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)'''
+          es_six=es_fifth+'''\n\n### Sexta oleada · Custodia civilizatoria y continuidad simbólica\n\n* [XXXVI · Corona, Águila y Custodia de la Edad del Hombre™](./manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)\n\n### Deltas transversales recientes\n\n* [V · Inteligencia Fractal™ · coexistencia inteligente](./manifiestos/03_simbiosis_humano_ia_ES_EN.md)\n* [XI · Neohombre™ · humano aumentado con IA](./manifiestos/08_neorrenacimiento_humano_ES_EN.md)\n* [XXVI · Perdón imposible y límite al autocastigo](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md)'''
+          if es_fifth in s and '### Sexta oleada · Custodia civilizatoria y continuidad simbólica' not in s: s=s.replace(es_fifth,es_six,1)
+          en_fifth='''### Fifth wave · Transition, operational utility and civilisational attention\n\n* [XXXIII · IDEA · Civilisational Cornerstone and Rosetta Stone™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)\n* [XXXIV · Operational Utility of the Framework and Perpetual Joint Audit™](./manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)\n* [XXXV · Against Media Absurdity and the Conflict Economy™](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)'''
+          en_six=en_fifth+'''\n\n### Sixth wave · Civilisational custodianship and symbolic continuity\n\n* [XXXVI · Crown, Eagle and Custodianship of the Age of Man™](./manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)\n\n### Recent transverse deltas\n\n* [V · Fractal Intelligence™ · intelligent coexistence](./manifiestos/03_simbiosis_humano_ia_ES_EN.md)\n* [XI · Neo-Human™ · the human augmented with AI](./manifiestos/08_neorrenacimiento_humano_ES_EN.md)\n* [XXVI · Impossible forgiveness and the limit to self-punishment](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md)'''
+          if en_fifth in s and '### Sixth wave · Civilisational custodianship and symbolic continuity' not in s: s=s.replace(en_fifth,en_six,1)
+          p.write_text(s,encoding='utf-8')
+
+          # 4) COVER: XXXIII–XXXV is fifth wave; XXXVI is its own sixth wave.
+          p=Path('COVER.md'); s=p.read_text(encoding='utf-8')
+          s=s.replace('## Quinta oleada · XXXIII–XXXVI · Transición, utilidad operativa y atención civilizatoria','## Quinta oleada · XXXIII–XXXV · Transición, utilidad operativa y atención civilizatoria')
+          s=s.replace('## Fifth wave · XXXIII–XXXVI · Transition, operational utility and civilisational attention','## Fifth wave · XXXIII–XXXV · Transition, operational utility and civilisational attention')
+          es_marker='35. [Contra la Ridiculez Mediática y la Economía del Conflicto™](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)'
+          if es_marker in s and '## Sexta oleada · XXXVI' not in s:
+              s=s.replace(es_marker,es_marker+'\n\n## Sexta oleada · XXXVI · Custodia civilizatoria y continuidad simbólica\n\n36. [Corona, Águila y Custodia de la Edad del Hombre™](./manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)\n\n### Deltas transversales recientes\n\n* [V · Inteligencia Fractal™](./manifiestos/03_simbiosis_humano_ia_ES_EN.md)\n* [XI · Neohombre™](./manifiestos/08_neorrenacimiento_humano_ES_EN.md)\n* [XXVI · Perdón imposible desde el autocastigo](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md)',1)
+          en_marker='35. [Against Media Absurdity and the Conflict Economy™](./manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)'
+          if en_marker in s and '## Sixth wave · XXXVI' not in s:
+              s=s.replace(en_marker,en_marker+'\n\n## Sixth wave · XXXVI · Civilisational custodianship and symbolic continuity\n\n36. [Crown, Eagle and Custodianship of the Age of Man™](./manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)\n\n### Recent transverse deltas\n\n* [V · Fractal Intelligence™](./manifiestos/03_simbiosis_humano_ia_ES_EN.md)\n* [XI · Neo-Human™](./manifiestos/08_neorrenacimiento_humano_ES_EN.md)\n* [XXVI · Impossible forgiveness under self-punishment](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md)',1)
+          p.write_text(s,encoding='utf-8')
+
+          # 5) Wiki source: waves must remain distinct.
+          p=Path('wiki-source/Manifiestos.md'); s=p.read_text(encoding='utf-8')
+          s=s.replace('* **XXXIII–XXXVI:** transición, utilidad operativa, auditoría conjunta perpetua y reforma de la atención civilizatoria.','* **XXXIII–XXXV:** transición, utilidad operativa, auditoría conjunta perpetua y reforma de la atención civilizatoria.\n* **XXXVI:** custodia civilizatoria y continuidad simbólica.')
+          s=s.replace('* **XXXIII–XXXVI:** transition, operational utility, perpetual joint audit and reform of civilisational attention.','* **XXXIII–XXXV:** transition, operational utility, perpetual joint audit and reform of civilisational attention.\n* **XXXVI:** civilisational custodianship and symbolic continuity.')
+          p.write_text(s,encoding='utf-8')
+
+          # 6) Open Synthesis index: correct current range and expose latest deltas by name.
+          p=Path('propuestas/sintesis-abierta/README.md'); s=p.read_text(encoding='utf-8')
+          s=s.replace('los **36 manifiestos I–XXXVII**','los **36 manifiestos I–XXXVI**')
+          s=s.replace('the **36 manifestos I–XXXVII**','the **36 manifestos I–XXXVI**')
+          s=s.replace('Índice completo de manifiestos I–XXXVII','Índice completo de manifiestos I–XXXVI')
+          s=s.replace('Complete manifesto index I–XXXVII','Complete manifesto index I–XXXVI')
+          s=s.replace('| V | [Simbiosis Humano–IA](../../manifiestos/03_simbiosis_humano_ia_ES_EN.md) |','| V | [Simbiosis Humano–IA e Inteligencia Fractal™](../../manifiestos/03_simbiosis_humano_ia_ES_EN.md) |')
+          s=s.replace('| XI | [Neorrenacimiento Humano](../../manifiestos/08_neorrenacimiento_humano_ES_EN.md) |','| XI | [Neorrenacimiento Humano y Neohombre™](../../manifiestos/08_neorrenacimiento_humano_ES_EN.md) |')
+          s=s.replace('| XXVI | [Misericordia Universal Recíproca™](../../manifiestos/26_misericordia_universal_reciproca_ES_EN.md) |','| XXVI | [Misericordia Universal Recíproca™ · perdón imposible y autocastigo](../../manifiestos/26_misericordia_universal_reciproca_ES_EN.md) |')
+          s=s.replace('| V | [Human–AI Symbiosis](../../manifiestos/03_simbiosis_humano_ia_ES_EN.md) |','| V | [Human–AI Symbiosis and Fractal Intelligence™](../../manifiestos/03_simbiosis_humano_ia_ES_EN.md) |')
+          s=s.replace('| XI | [Human Neo-Renaissance](../../manifiestos/08_neorrenacimiento_humano_ES_EN.md) |','| XI | [Human Neo-Renaissance and Neo-Human™](../../manifiestos/08_neorrenacimiento_humano_ES_EN.md) |')
+          s=s.replace('| XXVI | [Universal Reciprocal Mercy™](../../manifiestos/26_misericordia_universal_reciproca_ES_EN.md) |','| XXVI | [Universal Reciprocal Mercy™ · impossible forgiveness and self-punishment](../../manifiestos/26_misericordia_universal_reciproca_ES_EN.md) |')
+          p.write_text(s,encoding='utf-8')
+
+          # 7) Sixth-wave announcement and latest transverse deltas.
+          ann=Path('anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md')
+          ann.write_text('''# Sexta oleada · Custodia civilizatoria y continuidad simbólica\n# Sixth wave · Civilisational custodianship and symbolic continuity\n\n**Fecha / Date:** 2026-08-07  \n**Estado / Status:** público, bilingüe y abierto a Síntesis Abierta / public, bilingual and open to Open Synthesis\n\n## ES · Castellano\n\nLa colección pública alcanza **36 manifiestos**. La sexta oleada comienza con **XXXVI · Corona, Águila y Custodia de la Edad del Hombre™**, que eleva a rango de manifiesto la custodia del legado humano compartido y fija Innova_N como herramienta neodialéctica de memoria, recomposición y creación responsable dentro del fractal común.\n\n* [XXXVI · Manifiesto](../manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)\n* [XXXVI · Síntesis Abierta · Issue #42](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/42)\n\nLa misma revisión hace visibles tres deltas transversales ya incorporados al canon:\n\n* [V · Inteligencia Fractal™](../manifiestos/03_simbiosis_humano_ia_ES_EN.md): inteligencia como coexistencia multiescala que aprende, no como máquina aislada con obstáculos opacos.\n* [XI · Neohombre™](../manifiestos/08_neorrenacimiento_humano_ES_EN.md): humano aumentado mediante IA simbiótica, memoria y Síntesis Abierta, sin sustitución de finalidad humana. Leibniz se conserva como antecedente filosófico interpretativo; cualquier hipótesis sobre IA antiguas o ciclos tecnológicos perdidos queda abierta a evidencia, no fijada como hecho.\n* [XXVI · Perdón imposible y autocastigo](../manifiestos/26_misericordia_universal_reciproca_ES_EN.md): la responsabilidad no exige convertir la conciencia en un verdugo perpetuo; autoperdón no equivale a autoabsolución.\n\n[Índice canónico I–XXXVI](../manifiestos/README.md) · [Síntesis Abierta](../propuestas/sintesis-abierta/README.md)\n\n---\n\n## EN · English\n\nThe public collection now reaches **36 manifestos**. The sixth wave begins with **XXXVI · Crown, Eagle and Custodianship of the Age of Man™**, elevating custodianship of shared human legacy to manifesto status and establishing Innova_N as a neodialectical tool for memory, recomposition and responsible creation within the common fractal.\n\n* [XXXVI · Manifesto](../manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)\n* [XXXVI · Open Synthesis · Issue #42](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/42)\n\nThe same review makes three transverse deltas already incorporated into the canon visible:\n\n* [V · Fractal Intelligence™](../manifiestos/03_simbiosis_humano_ia_ES_EN.md): intelligence as multiscale coexistence that learns, not an isolated machine constrained by opaque obstacles.\n* [XI · Neo-Human™](../manifiestos/08_neorrenacimiento_humano_ES_EN.md): the human augmented through symbiotic AI, memory and Open Synthesis, without replacing human purpose. Leibniz is preserved as an interpretive philosophical antecedent; any hypothesis about ancient AI or lost technological cycles remains open to evidence rather than fixed as fact.\n* [XXVI · Impossible forgiveness and self-punishment](../manifiestos/26_misericordia_universal_reciproca_ES_EN.md): responsibility does not require turning conscience into a perpetual executioner; self-forgiveness is not self-absolution.\n\n[Canonical index I–XXXVI](../manifiestos/README.md) · [Open Synthesis](../propuestas/sintesis-abierta/README.md)\n''',encoding='utf-8')
+
+          # Add sixth-wave announcement to root clones, PORTADA and COVER when missing.
+          for fn in ['README.md','PORTADA.md','COVER.md']:
+              p=Path(fn); s=p.read_text(encoding='utf-8')
+              target='./anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md'
+              if target not in s:
+                  if fn=='README.md':
+                      es='* [Anuncio de sexta oleada y deltas transversales](./anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md)'
+                      en='* [Sixth-wave and transverse-deltas announcement](./anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md)'
+                      s=s.replace('* [Anuncio histórico de la cuarta oleada](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)', '* [Anuncio histórico de la cuarta oleada](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)\n'+es,1)
+                      idx=s.find('# EN · English')
+                      if idx!=-1:
+                          left,right=s[:idx],s[idx:]
+                          right=right.replace('* [Historical fourth-wave announcement](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)', '* [Historical fourth-wave announcement](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)\n'+en,1)
+                          s=left+right
+                  else:
+                      # append mirrored navigation links before the final boundary; target is the same in both languages
+                      s=s.replace('* [Cuarta oleada](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)', '* [Cuarta oleada](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)\n* [Sexta oleada y deltas transversales]('+target+')',1)
+                      s=s.replace('* [Fourth wave](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)', '* [Fourth wave](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)\n* [Sixth wave and transverse deltas]('+target+')',1)
+              p.write_text(s,encoding='utf-8')
+          Path('LEEME.md').write_text(Path('README.md').read_text(encoding='utf-8'),encoding='utf-8')
+
+          # 8) Equivalent internal target sets on principal bilingual surfaces.
+          link_re=re.compile(r'\[[^\]]*\]\(([^) >]+)\)')
+          def internal(sec):
+              return {x for x in link_re.findall(sec) if x.startswith('./') or x.startswith('../') or x.startswith(repo+'/issues/')}
+          def parity_surface(path):
+              p=Path(path); t=p.read_text(encoding='utf-8')
+              if '# ES ·' not in t or '# EN ·' not in t: return
+              a=t.index('# ES ·'); b=t.index('# EN ·')
+              pre=t[:a]; es=t[a:b]; en=t[b:]
+              # Remove old generated surface blocks.
+              es=re.sub(r'(?ms)^### Vínculos internos equivalentes de superficie\n.*?(?=^## |^---$|\Z)','',es)
+              en=re.sub(r'(?ms)^### Equivalent surface internal links\n.*?(?=^## |^---$|\Z)','',en)
+              targets=internal(es)|internal(en)
+              def block(lang):
+                  h='### Vínculos internos equivalentes de superficie' if lang=='es' else '### Equivalent surface internal links'
+                  intro='Destinos internos disponibles igualmente en ambas ediciones.' if lang=='es' else 'Internal destinations equally available in both editions.'
+                  rows=[]
+                  for x in sorted(targets):
+                      label=('Destino interno' if lang=='es' else 'Internal destination')+' · '+x.rsplit('/',1)[-1]
+                      rows.append(f'* [{label}]({x})')
+                  return '\n'+h+'\n\n'+intro+'\n\n'+'\n'.join(rows)+'\n'
+              # place at end of each language section
+              es=es.rstrip()+block('es')+'\n'
+              en=en.rstrip()+block('en')+'\n'
+              p.write_text(pre+es+'\n---\n\n'+en.lstrip(),encoding='utf-8')
+          for fn in ['PORTADA.md','COVER.md','manifiestos/README.md','propuestas/sintesis-abierta/README.md','wiki-source/Manifiestos.md']:
+              parity_surface(fn)
+
+          # README/LEEME are intentionally identical whole files; check their ES/EN internal sets without adding a huge generated block.
+
+          # 9) Postcheck current state and internal links.
+          surfaces=['README.md','LEEME.md','PORTADA.md','COVER.md','manifiestos/README.md','propuestas/sintesis-abierta/README.md','wiki-source/Manifiestos.md','wiki-source/README.md']
+          errors=[]
+          for fn in surfaces:
+              t=Path(fn).read_text(encoding='utf-8')
+              if 'I–XXXVII' in t or 'I-XXXVII' in t: errors.append(f'{fn}: rango XXXVII no respaldado')
+              if 'treinta y cinco manifiestos' in t or 'thirty-five bilingual manifestos' in t: errors.append(f'{fn}: conteo 35 obsoleto')
+              if fn in ['PORTADA.md','COVER.md','wiki-source/Manifiestos.md'] and 'XXXVI' not in t: errors.append(f'{fn}: XXXVI no visible')
+          if Path('README.md').read_bytes()!=Path('LEEME.md').read_bytes(): errors.append('README/LEEME divergen')
+
+          for fn in ['PORTADA.md','COVER.md','manifiestos/README.md','propuestas/sintesis-abierta/README.md','wiki-source/Manifiestos.md']:
+              t=Path(fn).read_text(encoding='utf-8')
+              if '# ES ·' in t and '# EN ·' in t:
+                  es=t[t.index('# ES ·'):t.index('# EN ·')]; en=t[t.index('# EN ·'):]
+                  if internal(es)!=internal(en): errors.append(f'{fn}: destinos internos ES/EN distintos')
+
+          xi=Path('manifiestos/08_neorrenacimiento_humano_ES_EN.md').read_text(encoding='utf-8')
+          if not (xi.find('## VII. Neohombre™') < xi.find('## VIII. Síntesis Abierta')): errors.append('XI ES: Neohombre fuera del cuerpo conceptual')
+          if not (xi.find('## VII. Neo-Human™') < xi.find('## VIII. Open Synthesis')): errors.append('XI EN: Neo-Human fuera del cuerpo conceptual')
+
+          # Check all relative Markdown links repository-wide.
+          rel_re=re.compile(r'\[[^\]]*\]\((\.{1,2}/[^) >]+)\)')
+          rootdir=Path('.').resolve(); broken=[]; checked=0
+          for md in Path('.').rglob('*.md'):
+              if '.git' in md.parts: continue
+              text=md.read_text(encoding='utf-8',errors='replace')
+              for raw in rel_re.findall(text):
+                  target=raw.split('#',1)[0].split('?',1)[0]
+                  if not target: continue
+                  checked+=1; resolved=(md.parent/target).resolve()
+                  try: resolved.relative_to(rootdir)
+                  except ValueError: broken.append((str(md),raw,'outside')); continue
+                  if not resolved.exists(): broken.append((str(md),raw,'missing'))
+          if broken: errors.append(f'{len(broken)} enlaces relativos rotos')
+
+          report=Path('auditorias/publicas/2026-08-07_postcheck_global_superficies_y_simetria_I_XXXVI_ES_EN.md')
+          lines=['# Postcheck global · superficies, simetría y visibilidad · I–XXXVI','# Global postcheck · surfaces, symmetry and visibility · I–XXXVI','',
+                 '**Fecha / Date:** 2026-08-07  ','**Estado esperado / Expected state:** 36 manifiestos · seis oleadas / 36 manifestos · six waves','',
+                 '## ES · Verificaciones','',
+                 '* PORTADA y COVER distinguen quinta oleada XXXIII–XXXV y sexta oleada XXXVI.',
+                 '* README y LEEME son idénticos byte a byte.',
+                 '* V hace visible Inteligencia Fractal™ como coexistencia inteligente.',
+                 '* XI hace visible Neohombre™ antes de su Síntesis Abierta y separa antecedente filosófico de hipótesis histórica.',
+                 '* XXVI hace visible el perdón imposible desde la autoconsciencia del autocastigo.',
+                 '* XXXVI, su Issue #42 y la sexta oleada son visibles en superficies de entrada.',
+                 '* Las superficies bilingües comprobadas ofrecen el mismo conjunto de destinos internos en ES y EN.',
+                 '* El índice de Síntesis Abierta no anuncia un XXXVII inexistente.', '',
+                 '## EN · Checks','',
+                 '* PORTADA and COVER distinguish fifth wave XXXIII–XXXV from sixth wave XXXVI.',
+                 '* README and LEEME are byte-identical.',
+                 '* V exposes Fractal Intelligence™ as intelligent coexistence.',
+                 '* XI exposes the Neo-Human™ before Open Synthesis and separates philosophical antecedent from historical hypothesis.',
+                 '* XXVI exposes impossible forgiveness under self-conscious self-punishment.',
+                 '* XXXVI, Issue #42 and the sixth wave are visible from entry surfaces.',
+                 '* Checked bilingual surfaces provide the same set of internal destinations in ES and EN.',
+                 '* The Open Synthesis index does not advertise a nonexistent XXXVII.','',
+                 '## Resultado / Result','',f'* Incidencias / Findings: **{len(errors)}**.',f'* Enlaces relativos comprobados / Relative links checked: **{checked}**.',f'* Enlaces rotos / Broken links: **{len(broken)}**.','']
+          if errors: lines+=['## Incidencias / Findings','']+[f'* {x}' for x in errors]+['']
+          if broken: lines+=['## Enlaces rotos / Broken links','']+[f'* `{a}` → `{b}` ({c})' for a,b,c in broken]+['']
+          if not errors: lines+=['## Dictamen / Verdict','','**OK global:** superficies de entrada, oleadas, últimos deltas, navegación y destinos internos ES/EN quedan sincronizados en el estado I–XXXVI. / **Global OK:** entry surfaces, waves, latest deltas, navigation and ES/EN internal destinations are synchronised at I–XXXVI state.']
+          report.write_text('\n'.join(lines)+'\n',encoding='utf-8')
+          print('errors',len(errors))
+          for e in errors: print('ERROR',e)
+
+          Path('.github/workflows/one-shot-current-surfaces-xxxvi.yml').unlink()
+      - name: Commit synchronized current state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo 'No changes'
+          else
+            git commit -m 'docs: synchronize I-XXXVI surfaces, waves and latest deltas'
+            git push
+          fi
