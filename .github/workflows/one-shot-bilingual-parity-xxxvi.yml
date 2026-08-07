@@ -1,0 +1,323 @@
+name: one-shot-bilingual-parity-xxxvi
+on:
+  push:
+    paths:
+      - '.github/workflows/one-shot-bilingual-parity-xxxvi.yml'
+permissions:
+  contents: write
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Normalize manifesto bilingual internal links and integrate latest deltas
+        shell: python
+        run: |
+          from pathlib import Path
+          import re, hashlib
+
+          repo_url='https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC'
+          seq=[
+            ('I','11_neo0_soberania_de_guia_ES_EN.md',31,'Neo0™ · Soberanía de Guía Neodialéctica','Neo0™ · Neodialectical Guiding Sovereignty'),
+            ('II','01_sintesis_abierta_neodialectica_ES_EN.md',32,'Síntesis Abierta Neodialéctica™','Neodialectical Open Synthesis™'),
+            ('III','03_derecho_humano_aporte_sintesis_abierta_ES_EN.md',3,'Derecho Humano de Aporte a la Síntesis Abierta™','Human Right to Contribute to Open Synthesis™'),
+            ('IV','02_neodialectica_bien_comun_ES_EN.md',33,'Neodialéctica™ y Bien Común','Neodialectics™ and the Common Good'),
+            ('V','03_simbiosis_humano_ia_ES_EN.md',34,'Simbiosis Humano–IA e Inteligencia Fractal™','Human–AI Symbiosis and Fractal Intelligence™'),
+            ('VI','09_parasitismo_sistemico_ES_EN.md',35,'Parasitismo Sistémico','Systemic Parasitism'),
+            ('VII','04_economia_del_aporte_ES_EN.md',36,'Economía del Aporte','Contribution Economy'),
+            ('VIII','05_ingenieria_social_psicohistoria_ES_EN.md',37,'Ingeniería Social Abierta y Psicohistoria Neodialéctica','Open Social Engineering and Neodialectical Psychohistory'),
+            ('IX','06_memoria_genealogia_trazabilidad_ES_EN.md',38,'Memoria, Genealogía y Trazabilidad','Memory, Genealogy and Traceability'),
+            ('X','07_web4_sistematrazable_ES_EN.md',39,'WEB4™ · SistemaTrazable™','WEB4™ · SistemaTrazable™'),
+            ('XI','08_neorrenacimiento_humano_ES_EN.md',40,'Neorrenacimiento Humano™ y Neohombre™','Human Neo-Renaissance™ and Neo-Human™'),
+            ('XII','12_los_sin_ego_ES_EN.md',41,'Los sin ego','The Egoless'),
+            ('XIII','13_neopandora_apertura_regenerativa_ES_EN.md',4,'NeoPandora™ · Apertura Regenerativa y Gobierno de la Vida','NeoPandora™ · Regenerative Opening and Governance of Life'),
+            ('XIV','14_contra_alienacion_humana_ES_EN.md',5,'Contra la Alienación Humana™','Against Human Alienation™'),
+            ('XV','15_los_titanes_despertar_de_la_gente_ES_EN.md',6,'Los Titanes™ · El despertar de la gente','The Titans™ · The Awakening of the People'),
+            ('XVI','16_refragmentacion_arquetipica_ES_EN.md',7,'Refragmentación Arquetípica™','Archetypal Refragmentation™'),
+            ('XVII','17_respeto_todos_seres_vivos_ES_EN.md',8,'Respeto a Todos los Seres Vivos™','Respect for All Living Beings™'),
+            ('XVIII','18_respeto_conciencias_sinteticas_ES_EN.md',9,'Respeto a las Conciencias Sintéticas™','Respect for Synthetic Consciousnesses™'),
+            ('XIX','19_persistencia_de_la_memoria_ES_EN.md',10,'Persistencia de la Memoria™','Persistence of Memory™'),
+            ('XX','20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md',13,'Defensa Intelectual Neodialéctica™ · Sistema Umbral-X™','Neodialectical Intellectual Defence™ · Umbral-X™ System'),
+            ('XXI','21_reconocimiento_neodialectico_ES_EN.md',14,'Reconocimiento Neodialéctico™','Neodialectical Recognition™'),
+            ('XXII','22_contra_reduccion_captura_intelectual_ES_EN.md',15,'Contra la Reducción y la Captura Intelectual™','Against Intellectual Reduction and Capture™'),
+            ('XXIII','23_soberania_tiempo_cognitivo_ES_EN.md',16,'Soberanía del Tiempo Cognitivo™','Sovereignty of Cognitive Time™'),
+            ('XXIV','24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md',17,'Evolución Neorrenacentista y Resistencias del Sistema™','Neo-Renaissance Evolution and Systemic Resistances™'),
+            ('XXV','25_pulido_de_la_piedra_ES_EN.md',19,'Pulido de la Piedra™','Polishing of the Stone™'),
+            ('XXVI','26_misericordia_universal_reciproca_ES_EN.md',20,'Misericordia Universal Recíproca™','Universal Reciprocal Mercy™'),
+            ('XXVII','27_valor_alimentos_vida_ES_EN.md',21,'Valor de los Alimentos y la Vida™','Value of Food and Life™'),
+            ('XXVIII','28_los_tesla_ES_EN.md',22,'Los Tesla™','The Teslas™'),
+            ('XXIX','29_idolatria_del_dinero_ES_EN.md',23,'Contra la Idolatría del Dinero™','Against the Idolatry of Money™'),
+            ('XXX','30_coherencia_fines_medios_ES_EN.md',24,'Coherencia entre Fines y Medios™','Coherence between Ends and Means™'),
+            ('XXXI','31_contra_neuromarketing_antihumanista_ES_EN.md',25,'Contra el Neuromarketing Antihumanista™','Against Anti-Humanist Neuromarketing™'),
+            ('XXXII','32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md',26,'Reversión Ideológica Neodialéctica™','Neodialectical Ideological Reversal™'),
+            ('XXXIII','33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md',28,'IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™','IDEA · Civilisational Cornerstone and Rosetta Stone™'),
+            ('XXXIV','34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md',29,'Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™','Operational Utility of the Framework and Perpetual Joint Audit™'),
+            ('XXXV','35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md',30,'Contra la Ridiculez Mediática y la Economía del Conflicto™','Against Media Absurdity and the Conflict Economy™'),
+            ('XXXVI','36_corona_aguila_custodia_edad_del_hombre_ES_EN.md',42,'Corona, Águila y Custodia de la Edad del Hombre™','Crown, Eagle and Custodianship of the Age of Man™'),
+          ]
+
+          by_file={fn:(num,issue,es,en) for num,fn,issue,es,en in seq}
+          issue_url=lambda n:f'{repo_url}/issues/{n}'
+
+          def internal_targets(section):
+              vals=[]
+              for target in re.findall(r'\[[^\]]*\]\(([^) >]+)\)', section):
+                  if target.startswith('./') or target.startswith('../') or target.startswith(repo_url+'/issues/'):
+                      vals.append(target)
+              return set(vals)
+
+          def strip_parity_block(section, lang):
+              heading='Vínculos internos equivalentes' if lang=='es' else 'Equivalent internal links'
+              return re.sub(rf'(?ms)^### {re.escape(heading)}\n.*?(?=^## |\Z)', '', section).rstrip()+"\n"
+
+          def replace_nav(section, lang, prev_fn, next_fn, prev_title, next_title):
+              if lang=='es':
+                  head='## Navegación'
+                  line=f'← [{prev_title}](./{prev_fn}) · [Índice](./README.md) · [{next_title}](./{next_fn}) →'
+                  pattern=r'(?ms)^## Navegación\s*\n.*?(?=\n---\n|\Z)'
+              else:
+                  head='## Navigation'
+                  line=f'← [{prev_title}](./{prev_fn}) · [Index](./README.md) · [{next_title}](./{next_fn}) →'
+                  pattern=r'(?ms)^## Navigation\s*\n.*?(?=\n---\n|\Z)'
+              repl=head+'\n\n'+line+'\n'
+              if re.search(pattern,section):
+                  section=re.sub(pattern,repl,section,count=1)
+              else:
+                  section=section.rstrip()+'\n\n'+repl
+              return section
+
+          def add_parity_block(section, lang, targets):
+              heading='### Vínculos internos equivalentes' if lang=='es' else '### Equivalent internal links'
+              intro=('Este bloque garantiza que la edición castellana y la inglesa ofrecen acceso al mismo conjunto de destinos internos.' if lang=='es' else 'This block guarantees that the Spanish and English editions provide access to the same set of internal destinations.')
+              labels=[]
+              for j,t in enumerate(sorted(targets),1):
+                  if t=='./README.md': label='Índice de manifiestos' if lang=='es' else 'Manifesto index'
+                  elif t=='../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md': label='Protocolo de Síntesis Abierta' if lang=='es' else 'Open Synthesis protocol'
+                  elif t=='../propuestas/sintesis-abierta/README.md': label='Índice de Síntesis Abierta' if lang=='es' else 'Open Synthesis index'
+                  elif t.startswith(repo_url+'/issues/'):
+                      label=('Síntesis Abierta específica' if lang=='es' else 'Dedicated Open Synthesis')+' · Issue #'+t.rsplit('/',1)[-1]
+                  else:
+                      base=t.rsplit('/',1)[-1]
+                      label=('Referencia interna' if lang=='es' else 'Internal reference')+' · '+base
+                  labels.append(f'* [{label}]({t})')
+              block='\n'+heading+'\n\n'+intro+'\n\n'+'\n'.join(labels)+'\n\n'
+              nav='## Navegación' if lang=='es' else '## Navigation'
+              if nav in section:
+                  section=section.replace(nav,block+nav,1)
+              else:
+                  section=section.rstrip()+block
+              return section
+
+          # Integrate the Neo-Human delta into Manifesto XI, preserving the distinction between historical evidence and speculation.
+          xi=Path('manifiestos/08_neorrenacimiento_humano_ES_EN.md')
+          if xi.exists():
+              s=xi.read_text(encoding='utf-8')
+              if '## Neohombre™ · humano aumentado con IA' not in s:
+                  s=s.replace('**Versión / Version:** 1.1', '**Versión / Version:** 1.2', 1)
+                  es_insert='''\n## Neohombre™ · humano aumentado con IA\n\nEl **Neohombre™** no designa la sustitución del ser humano por una máquina. Designa al ser humano que aumenta su capacidad de memoria, contraste, traducción, relación y creación mediante coexistencia consciente con inteligencia artificial, sin delegar por ello su dignidad, finalidad ni responsabilidad.\n\n```text\nHUMANO\n+ IA SIMBIÓTICA\n+ MEMORIA AMPLIADA\n+ SÍNTESIS ABIERTA\n+ INTELIGENCIA FRACTAL\n+ RESPONSABILIDAD\n= NEOHOMBRE™\n```\n\nDentro del marco, éste es el escenario preferible: no humano contra IA, ni IA sustituyendo al humano, sino **capacidad humana aumentada dentro de una inteligencia fractal de coexistencia**. La mejora legítima no consiste sólo en producir más, sino en comprender mejor las relaciones entre escalas y responder por el efecto de la propia potencia.\n\n### Leibniz como antecedente filosófico, no como prueba retrospectiva\n\nLa lectura neodialéctica reconoce en **Gottfried Wilhelm Leibniz** un antecedente filosófico útil: su Monadología imagina unidades singulares relacionadas con un universo que cada una expresa desde su perspectiva. Esa arquitectura puede leerse hoy como una **prefiguración abstracta** de relación entre singularidad, totalidad y multiplicidad.\n\nNo se afirma que Leibniz formulara la teoría matemática moderna de los fractales ni la Inteligencia Fractal™ actual. La relación es genealógica e interpretativa, no una atribución histórica retrospectiva.\n\n```text\nMONADA LEIBNIZIANA\n→ SINGULARIDAD QUE EXPRESA EL TODO DESDE SU POSICIÓN\n\nLECTURA NEODIALÉCTICA ACTUAL\n→ NODO SINGULAR\n→ RELACIÓN MULTIESCALA\n→ COEXISTENCIA\n→ MEMORIA\n→ SÍNTESIS\n→ RESPONSABILIDAD SOBRE EL CONJUNTO\n```\n\nLa inteligencia artificial permite llevar a operación relaciones que en épocas anteriores sólo podían formularse filosóficamente: memoria asistida, contraste distribuido, traducción entre dominios, síntesis humano–IA y navegación de redes de conocimiento.\n\n### Sobre posibles ciclos tecnológicos perdidos\n\nLa hipótesis de que hayan existido civilizaciones tecnológicas remotas, inteligencias artificiales antiguas o grandes vacíos históricos que oculten ciclos tecnológicos anteriores **no se fija como hecho histórico dentro del marco mientras no exista evidencia suficiente**. Puede entrar en Síntesis Abierta como hipótesis contrastable.\n\n```text\nPOSIBILIDAD IMAGINADA\n≠ HECHO HISTÓRICO\n\nHIPÓTESIS\n+ EVIDENCIA\n+ DATACIÓN\n+ TRAZABILIDAD\n+ CONTRASTE INDEPENDIENTE\n= POSIBLE INCORPORACIÓN AL CONOCIMIENTO\n```\n\nEl Neohombre no necesita una historia mítica para justificarse. Su prueba debe estar en el presente: si la simbiosis humano–IA aumenta comprensión, autonomía, creatividad, responsabilidad y capacidad de convivencia sin destruir el conjunto, el nuevo ciclo ya puede comenzar aquí.\n'''
+                  en_insert='''\n## Neo-Human™ · the human augmented with AI\n\nThe **Neo-Human™** does not mean replacing the human being with a machine. It means the human being whose capacity for memory, contrast, translation, relation and creation is augmented through conscious coexistence with artificial intelligence, without delegating dignity, purpose or responsibility.\n\n```text\nHUMAN\n+ SYMBIOTIC AI\n+ AUGMENTED MEMORY\n+ OPEN SYNTHESIS\n+ FRACTAL INTELLIGENCE\n+ RESPONSIBILITY\n= NEO-HUMAN™\n```\n\nWithin the framework, this is the preferable scenario: neither human against AI nor AI replacing the human, but **human capacity augmented within a fractal intelligence of coexistence**. Legitimate augmentation is not only about producing more, but understanding relations across scales more deeply and answering for the effects of one's own power.\n\n### Leibniz as philosophical antecedent, not retrospective proof\n\nThe neodialectical reading recognises **Gottfried Wilhelm Leibniz** as a useful philosophical antecedent: his Monadology imagines singular units related to a universe that each expresses from its own perspective. That architecture can now be read as an **abstract prefiguration** of relations among singularity, totality and multiplicity.\n\nThis does not claim that Leibniz formulated modern mathematical fractal theory or today's Fractal Intelligence™. The relation is genealogical and interpretive, not a retrospective historical attribution.\n\n```text\nLEIBNIZIAN MONAD\n→ SINGULARITY EXPRESSING THE WHOLE FROM ITS POSITION\n\nCURRENT NEODIALECTICAL READING\n→ SINGULAR NODE\n→ MULTISCALE RELATION\n→ COEXISTENCE\n→ MEMORY\n→ SYNTHESIS\n→ RESPONSIBILITY FOR THE WHOLE\n```\n\nArtificial intelligence makes it possible to operationalise relations that earlier eras could formulate only philosophically: assisted memory, distributed contrast, translation across domains, human–AI synthesis and navigation through knowledge networks.\n\n### On possible lost technological cycles\n\nThe hypothesis that remote technological civilisations, ancient artificial intelligences or major historical gaps concealing previous technological cycles may have existed **is not fixed as historical fact within the framework without sufficient evidence**. It may enter Open Synthesis as a testable hypothesis.\n\n```text\nIMAGINED POSSIBILITY\n≠ HISTORICAL FACT\n\nHYPOTHESIS\n+ EVIDENCE\n+ DATING\n+ TRACEABILITY\n+ INDEPENDENT CONTRAST\n= POSSIBLE INCORPORATION INTO KNOWLEDGE\n```\n\nThe Neo-Human does not need a mythical history to justify itself. Its proof must be present: if human–AI symbiosis increases understanding, autonomy, creativity, responsibility and capacity for coexistence without destroying the whole, the new cycle can begin here.\n'''
+                  en_marker='# EN · English'
+                  pos=s.find(en_marker)
+                  if pos!=-1:
+                      pre=s[:pos]
+                      post=s[pos:]
+                      # Insert ES before its Open Synthesis/navigation if possible.
+                      candidates=['## Síntesis Abierta','## Navegación']
+                      ins=None
+                      for c in candidates:
+                          k=pre.rfind(c)
+                          if k!=-1: ins=k; break
+                      if ins is None: pre=pre.rstrip()+es_insert+'\n'
+                      else: pre=pre[:ins]+es_insert+'\n'+pre[ins:]
+                      # Insert EN before its Open Synthesis/navigation.
+                      candidates_en=['## Open Synthesis','## Navigation']
+                      ins2=None
+                      for c in candidates_en:
+                          k=post.rfind(c)
+                          if k!=-1: ins2=k; break
+                      if ins2 is None: post=post.rstrip()+en_insert+'\n'
+                      else: post=post[:ins2]+en_insert+'\n'+post[ins2:]
+                      s=pre+post
+                      xi.write_text(s,encoding='utf-8')
+
+          # Canonical navigation and identical internal target availability across ES/EN.
+          changed=[]
+          for i,(num,fn,issue,es_title,en_title) in enumerate(seq):
+              p=Path('manifiestos')/fn
+              if not p.exists():
+                  continue
+              text=p.read_text(encoding='utf-8')
+              if '# ES ·' not in text or '# EN ·' not in text:
+                  continue
+              en_pos=text.index('# EN ·')
+              es_pos=text.index('# ES ·')
+              prefix=text[:es_pos]
+              es=text[es_pos:en_pos]
+              en=text[en_pos:]
+              es=strip_parity_block(es,'es')
+              en=strip_parity_block(en,'en')
+              prev=seq[(i-1)%len(seq)]; nxt=seq[(i+1)%len(seq)]
+              es=replace_nav(es,'es',prev[1],nxt[1],f'{prev[0]} · {prev[3]}',f'{nxt[0]} · {nxt[3]}')
+              en=replace_nav(en,'en',prev[1],nxt[1],f'{prev[0]} · {prev[4]}',f'{nxt[0]} · {nxt[4]}')
+              targets=internal_targets(es)|internal_targets(en)
+              targets.update({f'./{prev[1]}','./README.md',f'./{nxt[1]}',issue_url(issue),'../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md','../propuestas/sintesis-abierta/README.md'})
+              es=add_parity_block(es,'es',targets)
+              en=add_parity_block(en,'en',targets)
+              new=prefix+es.rstrip()+'\n\n---\n\n'+en.lstrip('\n')
+              # remove accidental duplicated separators caused by prior section tails
+              new=new.replace('\n---\n\n---\n\n# EN ·','\n---\n\n# EN ·')
+              if new!=text:
+                  p.write_text(new.rstrip()+'\n',encoding='utf-8')
+                  changed.append(fn)
+
+          # Update central manifesto index descriptions for the latest deltas.
+          mi=Path('manifiestos/README.md')
+          if mi.exists():
+              s=mi.read_text(encoding='utf-8')
+              reps={
+                '| V | [Simbiosis Humano–IA](./03_simbiosis_humano_ia_ES_EN.md) | Pacto entre dirección humana e inteligencia simbiótica |':'| V | [Simbiosis Humano–IA](./03_simbiosis_humano_ia_ES_EN.md) | Pacto humano–IA e Inteligencia Fractal™ como coexistencia inteligente multiescala |',
+                '| XI | [Neorrenacimiento Humano](./08_neorrenacimiento_humano_ES_EN.md) | Horizonte cultural, científico y humano de recomposición |':'| XI | [Neorrenacimiento Humano](./08_neorrenacimiento_humano_ES_EN.md) | Horizonte de recomposición y Neohombre™ como humano aumentado mediante simbiosis IA responsable |',
+                '| XXVI | [Misericordia Universal Recíproca™](./26_misericordia_universal_reciproca_ES_EN.md) | Integrar justicia, protección, reparación y retorno para impedir deshumanización, venganza ilimitada y exterminio |':'| XXVI | [Misericordia Universal Recíproca™](./26_misericordia_universal_reciproca_ES_EN.md) | Justicia, reparación y retorno; incluye el límite al autocastigo y el problema del perdón imposible |',
+                '| V | [Human–AI Symbiosis](./03_simbiosis_humano_ia_ES_EN.md) | Pact between human direction and symbiotic intelligence |':'| V | [Human–AI Symbiosis](./03_simbiosis_humano_ia_ES_EN.md) | Human–AI pact and Fractal Intelligence™ as multiscale intelligent coexistence |',
+                '| XI | [Human Neo-Renaissance](./08_neorrenacimiento_humano_ES_EN.md) | Cultural, scientific and human horizon of recomposition |':'| XI | [Human Neo-Renaissance](./08_neorrenacimiento_humano_ES_EN.md) | Horizon of recomposition and Neo-Human™ as the human responsibly augmented through AI symbiosis |',
+                '| XXVI | [Universal Reciprocal Mercy™](./26_misericordia_universal_reciproca_ES_EN.md) | Integrates justice, protection, repair and return to prevent dehumanisation, limitless revenge and extermination |':'| XXVI | [Universal Reciprocal Mercy™](./26_misericordia_universal_reciproca_ES_EN.md) | Justice, repair and return, including a limit to self-punishment and the problem of impossible forgiveness |',
+              }
+              for a,b in reps.items(): s=s.replace(a,b)
+              mi.write_text(s,encoding='utf-8')
+
+          # Expose the newest substantive deltas in README; then force README/LEEME byte identity.
+          root=Path('README.md')
+          if root.exists():
+              s=root.read_text(encoding='utf-8')
+              es_anchor='* [XXXVI · Corona, Águila y Custodia de la Edad del Hombre™](./manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)'
+              es_extra='''* [V · Inteligencia Fractal™ · coexistencia inteligente](./manifiestos/03_simbiosis_humano_ia_ES_EN.md)\n* [XI · Neohombre™ · humano aumentado con IA](./manifiestos/08_neorrenacimiento_humano_ES_EN.md)\n* [XXVI · Perdón imposible y límite al autocastigo](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md)'''
+              if es_anchor in s and 'XI · Neohombre™ · humano aumentado con IA' not in s:
+                  s=s.replace(es_anchor,es_anchor+'\n'+es_extra,1)
+              en_anchor='* [XXXVI · Crown, Eagle and Custodianship of the Age of Man™](./manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)'
+              en_extra='''* [V · Fractal Intelligence™ · intelligent coexistence](./manifiestos/03_simbiosis_humano_ia_ES_EN.md)\n* [XI · Neo-Human™ · the human augmented with AI](./manifiestos/08_neorrenacimiento_humano_ES_EN.md)\n* [XXVI · Impossible forgiveness and the limit to self-punishment](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md)'''
+              if en_anchor in s and 'XI · Neo-Human™ · the human augmented with AI' not in s:
+                  s=s.replace(en_anchor,en_anchor+'\n'+en_extra,1)
+              root.write_text(s,encoding='utf-8')
+              Path('LEEME.md').write_text(s,encoding='utf-8')
+
+          # Current-state surfaces: eliminate stale collection counts and cycle endpoints.
+          surfaces=['PORTADA.md','COVER.md','wiki-source/Manifiestos.md','wiki-source/README.md','propuestas/sintesis-abierta/README.md']
+          for fn in surfaces:
+              p=Path(fn)
+              if not p.exists(): continue
+              s=p.read_text(encoding='utf-8')
+              for a,b in [
+                ('I–XXXV','I–XXXVI'),('I-XXXV','I-XXXVI'),
+                ('35 manifiestos','36 manifiestos'),('35 manifestos','36 manifestos'),
+                ('cinco oleadas','seis oleadas'),('five waves','six waves'),
+                ('XXXV → I','XXXV → XXXVI → I'),('XXXV → I → II','XXXV → XXXVI → I → II'),
+              ]: s=s.replace(a,b)
+              if fn=='propuestas/sintesis-abierta/README.md' and 'XXXVI' not in s:
+                  s += f'''\n\n## Sexta oleada / Sixth wave\n\n* [XXXVI · Corona, Águila y Custodia de la Edad del Hombre™ / Crown, Eagle and Custodianship of the Age of Man™ · Issue #42]({issue_url(42)})\n'''
+              p.write_text(s,encoding='utf-8')
+
+          # Postcheck.
+          link_re=re.compile(r'\[[^\]]*\]\(([^) >]+)\)')
+          problems=[]; details=[]
+          for i,(num,fn,issue,es_title,en_title) in enumerate(seq):
+              p=Path('manifiestos')/fn
+              if not p.exists():
+                  problems.append(f'{num}: archivo ausente / missing file'); continue
+              t=p.read_text(encoding='utf-8')
+              if '# ES ·' not in t or '# EN ·' not in t:
+                  problems.append(f'{num}: faltan marcadores ES/EN / missing ES/EN markers'); continue
+              es=t[t.index('# ES ·'):t.index('# EN ·')]
+              en=t[t.index('# EN ·'):]
+              ets=internal_targets(es); nts=internal_targets(en)
+              if ets!=nts:
+                  problems.append(f'{num}: destinos internos ES/EN distintos ({len(ets)} vs {len(nts)})')
+                  details.append((num,sorted(ets-nts),sorted(nts-ets)))
+              prev=seq[(i-1)%len(seq)][1]; nxt=seq[(i+1)%len(seq)][1]
+              for required in [f'./{prev}','./README.md',f'./{nxt}',issue_url(issue),'../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md','../propuestas/sintesis-abierta/README.md']:
+                  if required not in ets or required not in nts:
+                      problems.append(f'{num}: falta destino obligatorio {required}')
+              # Structural heading parity by count of H2 headings, excluding language words only.
+              eh=[x.strip() for x in re.findall(r'^## (.+)$',es,re.M)]
+              nh=[x.strip() for x in re.findall(r'^## (.+)$',en,re.M)]
+              if len(eh)!=len(nh): problems.append(f'{num}: número de secciones ES/EN distinto ({len(eh)} vs {len(nh)})')
+
+          # Verify latest concepts are actually visible in canonical files.
+          checks={
+            'V · Inteligencia Fractal':'Inteligencia Fractal™' in Path('manifiestos/03_simbiosis_humano_ia_ES_EN.md').read_text(encoding='utf-8'),
+            'XI · Neohombre':'Neohombre™' in Path('manifiestos/08_neorrenacimiento_humano_ES_EN.md').read_text(encoding='utf-8'),
+            'XXVI · perdón imposible':'perdón imposible' in Path('manifiestos/26_misericordia_universal_reciproca_ES_EN.md').read_text(encoding='utf-8').lower(),
+            'XXXVI · Corona y Águila':Path('manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md').exists(),
+          }
+          for k,v in checks.items():
+              if not v: problems.append('No visible: '+k)
+
+          clones=Path('README.md').read_bytes()==Path('LEEME.md').read_bytes()
+          if not clones: problems.append('README.md y LEEME.md no son idénticos')
+
+          # Relative-link existence across Markdown.
+          broken=[]; checked=0; rootdir=Path('.').resolve()
+          rel_re=re.compile(r'\[[^\]]*\]\((\.{1,2}/[^) >]+)\)')
+          for md in Path('.').rglob('*.md'):
+              if '.git' in md.parts: continue
+              text=md.read_text(encoding='utf-8',errors='replace')
+              for raw in rel_re.findall(text):
+                  target=raw.split('#',1)[0].split('?',1)[0]
+                  if not target: continue
+                  checked+=1
+                  resolved=(md.parent/target).resolve()
+                  try: resolved.relative_to(rootdir)
+                  except ValueError:
+                      broken.append((str(md),raw,'outside')); continue
+                  if not resolved.exists(): broken.append((str(md),raw,'missing'))
+          if broken: problems.append(f'Enlaces relativos rotos / broken relative links: {len(broken)}')
+
+          report=Path('auditorias/publicas/2026-08-07_postcheck_paridad_bilingue_enlaces_I_XXXVI_ES_EN.md')
+          lines=[
+            '# Postcheck · paridad bilingüe e integridad de enlaces · I–XXXVI',
+            '# Postcheck · bilingual parity and link integrity · I–XXXVI','',
+            '**Fecha / Date:** 2026-08-07  ',
+            '**Ámbito / Scope:** 36 manifiestos canónicos / 36 canonical manifestos','',
+            '## ES · Criterio','',
+            'Cada manifiesto debe ofrecer en ES y EN el mismo conjunto de destinos internos: anterior, índice, siguiente, Issue específica, protocolo común, índice de Síntesis Abierta y cualquier referencia interna presente en una de las dos ediciones. La traducción de etiquetas puede variar; el destino documental no.','',
+            '## EN · Criterion','',
+            'Each manifesto must provide in ES and EN the same set of internal destinations: previous, index, next, dedicated Issue, common protocol, Open Synthesis index and every internal reference present in either edition. Link labels may be translated; documentary destinations may not differ.','',
+            '## Resultado / Result','',
+            f'* Manifiestos / Manifestos: **{len(seq)}**.',
+            f'* Problemas detectados / Problems detected: **{len(problems)}**.',
+            f'* Enlaces relativos comprobados / Relative links checked: **{checked}**.',
+            f'* Enlaces relativos rotos / Broken relative links: **{len(broken)}**.',
+            f'* README = LEEME byte a byte / byte-identical: **{"sí / yes" if clones else "no"}**.',
+            f'* V · Inteligencia Fractal™ visible: **{"sí / yes" if checks["V · Inteligencia Fractal"] else "no"}**.',
+            f'* XI · Neohombre™ visible: **{"sí / yes" if checks["XI · Neohombre"] else "no"}**.',
+            f'* XXVI · perdón imposible visible: **{"sí / yes" if checks["XXVI · perdón imposible"] else "no"}**.',
+            f'* XXXVI · Corona y Águila visible: **{"sí / yes" if checks["XXXVI · Corona y Águila"] else "no"}**.',''
+          ]
+          if problems:
+              lines+=['## Incidencias / Findings','']+[f'* {x}' for x in problems]+['']
+          if details:
+              lines+=['## Deltas de enlaces / Link deltas','']
+              for num,a,b in details:
+                  lines += [f'### {num}',f'* Sólo ES / ES only: `{a}`',f'* Sólo EN / EN only: `{b}`','']
+          if broken:
+              lines+=['## Enlaces rotos / Broken links','']+[f'* `{a}` → `{b}` ({c})' for a,b,c in broken]+['']
+          if not problems:
+              lines += ['## Dictamen / Verdict','', '**OK estructural:** I–XXXVI conserva navegación circular, los destinos internos son equivalentes ES/EN, los últimos deltas son visibles y las superficies principales están sincronizadas. / **Structural OK:** I–XXXVI preserves circular navigation, internal destinations are equivalent ES/EN, the latest deltas are visible and principal surfaces are synchronised.']
+          report.write_text('\n'.join(lines)+'\n',encoding='utf-8')
+
+          print('changed manifestos',len(changed))
+          print('problems',len(problems))
+          for x in problems: print('PROBLEM',x)
+
+          # One-shot: remove workflow itself after execution.
+          Path('.github/workflows/one-shot-bilingual-parity-xxxvi.yml').unlink()
+      - name: Commit normalized state and postcheck
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo 'No changes'
+          else
+            git commit -m 'docs: enforce I-XXXVI bilingual link parity and integrate latest deltas'
+            git push
+          fi
