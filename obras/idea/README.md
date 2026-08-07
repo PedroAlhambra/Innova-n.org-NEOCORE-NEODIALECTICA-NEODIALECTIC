@@ -46,6 +46,16 @@ Se publica como **documento de origen**, obra previa del fundador y nodo literar
 
 Actualmente funciona como puerta de entrada narrativa a la Neodialéctica, sin alterar su cronología ni convertir retrospectivamente la obra en producto del marco posterior.
 
+
+### Starkdr, Gritax y la guerra-motor
+
+La historia de las especies Starkdr y Gritax contiene una de las arquitecturas centrales de *IDEA*: conflicto, inteligencia artificial, control, simbiosis, autoselección y el descubrimiento de que incluso quien cree dirigir un sistema puede estar siendo dirigido por él.
+
+* [Historia de las especies · Starkdr, Gritax, guerra-motor y continuidad de la segunda parte](./STARKDR_GRITAX_HISTORIA_DE_LAS_ESPECIES_Y_CONTINUIDAD_ES_EN.md)
+* [Leer IDEA · edición en castellano](https://www.amazon.es/dp/B0HBRQGNQL)
+
+La guía distingue el contenido de la novela 1997–2002 de la lectura y continuidad autoral declaradas en 2026.
+
 ---
 
 ## Posición pública y fuente canónica
@@ -122,6 +132,7 @@ La publicación internacional de IDEA permitió detectar incoherencias, obtener 
 * [Metadatos públicos](./METADATA.json)
 * [Registro de enlaces](./LINKS.json)
 * [Kit público ES/EN](./PRESS_KIT_ES_EN.md)
+* [Historia de las especies Starkdr–Gritax y continuidad](./STARKDR_GRITAX_HISTORIA_DE_LAS_ESPECIES_Y_CONTINUIDAD_ES_EN.md)
 
 ### Orientación y relaciones dentro del ecosistema
 
@@ -187,6 +198,16 @@ It is not presented as a prophecy or as a work originally created within Innova_
 It is published as an **origin document**, an earlier work by the Founder and a literary node currently linked from the cultural layer, the personal and authorial layer and **WEB4™ · SistemaTrazable™ Public Layer**.
 
 It now functions as a narrative gateway into Neodialectics without altering its chronology or retrospectively turning the work into a product of the later framework.
+
+
+### Starkdr, Gritax and the motor-war
+
+The history of the Starkdr and Gritax species contains one of *IDEA*'s central architectures: conflict, artificial intelligence, control, symbiosis, self-selection and the discovery that even those who believe they direct a system may themselves be directed by it.
+
+* [History of the species · Starkdr, Gritax, motor-war and second-part continuity](./STARKDR_GRITAX_HISTORIA_DE_LAS_ESPECIES_Y_CONTINUIDAD_ES_EN.md)
+* [Read IDEA · Spanish edition](https://www.amazon.es/dp/B0HBRQGNQL)
+
+The guide distinguishes the 1997–2002 novel from the authorial reading and continuity declared in 2026.
 
 ---
 
