@@ -327,7 +327,6 @@ Una revisión futura deberá:
 * [IDEA · puerta narrativa del marco](../obras/idea/README.md)
 * [Wiki pública](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
 
-
 ## Quinta oleada · Transición, utilidad operativa y nuevo ciclo humano
 
 | Nº | Manifiesto | Función | Síntesis Abierta |
@@ -610,7 +609,6 @@ All remain open to traceable revision through Neodialectical Open Synthesis™. 
 * [From the attention economy to the contribution economy](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
 * [IDEA · narrative gateway to the framework](../obras/idea/README.md)
 * [Public Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
-
 
 ## Fifth wave · Transition, operational utility and a new human cycle
 

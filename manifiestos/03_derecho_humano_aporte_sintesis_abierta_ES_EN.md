@@ -296,10 +296,7 @@ Toda aportación exige:
 
 Toda modificación futura deberá preservar el texto anterior, identificar con precisión el cambio y explicar qué contradicción, evidencia o aportación justifica la nueva versión.
 
-
 ### Vínculos internos equivalentes
-
-Este bloque garantiza que la edición castellana y la inglesa ofrecen acceso al mismo conjunto de destinos internos.
 
 * [Referencia interna · sintesis_abierta_aporte.md](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
 * [Protocolo de Síntesis Abierta](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
@@ -600,10 +597,7 @@ Every contribution requires:
 
 Every future modification must preserve the previous text, identify the change precisely and explain which contradiction, evidence or contribution justifies the new version.
 
-
 ### Equivalent internal links
-
-This block guarantees that the Spanish and English editions provide access to the same set of internal destinations.
 
 * [Internal reference · sintesis_abierta_aporte.md](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
 * [Open Synthesis protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)

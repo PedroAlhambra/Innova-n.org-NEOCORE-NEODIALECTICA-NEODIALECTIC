@@ -102,10 +102,7 @@ Antes de participar, lee el manifiesto completo y el protocolo operativo. Presen
 * [Cómo aportar a la Síntesis Abierta Neodialéctica™](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Abrir una aportación mediante la plantilla pública](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
 
-
 ### Vínculos internos equivalentes
-
-Este bloque garantiza que la edición castellana y la inglesa ofrecen acceso al mismo conjunto de destinos internos.
 
 * [Referencia interna · sintesis_abierta_aporte.md](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
 * [Referencia interna · 2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
@@ -215,10 +212,7 @@ Before participating, read the full manifesto and the operational protocol. Subm
 * [How to contribute to Neodialectical Open Synthesis™](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Open a contribution through the public template](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
 
-
 ### Equivalent internal links
-
-This block guarantees that the Spanish and English editions provide access to the same set of internal destinations.
 
 * [Internal reference · sintesis_abierta_aporte.md](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
 * [Internal reference · 2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)

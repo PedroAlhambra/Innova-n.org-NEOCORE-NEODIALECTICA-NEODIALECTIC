@@ -401,10 +401,7 @@ Toda aportación exige fuente, contexto, genealogía, separación entre hecho e 
 * [Auditorías públicas](../auditorias/publicas/README.md)
 * [Análisis públicos](../analisis/publicos/README.md)
 
-
 ### Vínculos internos equivalentes
-
-Este bloque garantiza que la edición castellana y la inglesa ofrecen acceso al mismo conjunto de destinos internos.
 
 * [Referencia interna · 2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md](../analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md)
 * [Referencia interna · 2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md](../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
@@ -666,10 +663,7 @@ Every contribution requires source, context, genealogy, separation between fact 
 * [Public audits](../auditorias/publicas/README.md)
 * [Public analyses](../analisis/publicos/README.md)
 
-
 ### Equivalent internal links
-
-This block guarantees that the Spanish and English editions provide access to the same set of internal destinations.
 
 * [Internal reference · 2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md](../analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md)
 * [Internal reference · 2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md](../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)

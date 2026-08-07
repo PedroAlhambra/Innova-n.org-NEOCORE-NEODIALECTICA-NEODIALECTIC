@@ -280,10 +280,7 @@ Toda aportación exige lectura previa, genealogía, separación entre forma hist
 
 ---
 
-
 ### Vínculos internos equivalentes
-
-Este bloque garantiza que la edición castellana y la inglesa ofrecen acceso al mismo conjunto de destinos internos.
 
 * [Referencia interna · ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md](../propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md)
 * [Protocolo de Síntesis Abierta](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
@@ -567,10 +564,7 @@ Every contribution requires prior reading, genealogy, separation between histori
 **Pedro Martínez Alhambra · Neo0™**  
 **Fundación Innova_N · Filosofía Arquetípica Neodialéctica™ / Innova_N Foundation · Neodialectical Archetypal Philosophy™**
 
-
 ### Equivalent internal links
-
-This block guarantees that the Spanish and English editions provide access to the same set of internal destinations.
 
 * [Internal reference · ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md](../propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md)
 * [Open Synthesis protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)

@@ -381,10 +381,7 @@ Toda aportación exige lectura previa suficiente del objeto concreto, retorno a 
 * [Protocolo operativo actual para aportar](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Nodo documental canónico de IDEA](../obras/idea/README.md)
 
-
 ### Vínculos internos equivalentes
-
-Este bloque garantiza que la edición castellana y la inglesa ofrecen acceso al mismo conjunto de destinos internos.
 
 * [Referencia interna · EDICIONES.md](../obras/idea/EDICIONES.md)
 * [Referencia interna · README.md](../obras/idea/README.md)
@@ -708,10 +705,7 @@ Every contribution requires sufficient prior reading of the concrete object, ret
 * [Current operational contribution protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Canonical documentary node of IDEA](../obras/idea/README.md)
 
-
 ### Equivalent internal links
-
-This block guarantees that the Spanish and English editions provide access to the same set of internal destinations.
 
 * [Internal reference · EDICIONES.md](../obras/idea/EDICIONES.md)
 * [Internal reference · README.md](../obras/idea/README.md)

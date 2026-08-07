@@ -154,10 +154,7 @@ Antes de participar, lee el manifiesto completo y el protocolo operativo. Presen
 * [Abrir una aportación mediante la plantilla pública](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
 * [Síntesis Abierta específica del Manifiesto V · Issue #34](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/34)
 
-
 ### Vínculos internos equivalentes
-
-Este bloque garantiza que la edición castellana y la inglesa ofrecen acceso al mismo conjunto de destinos internos.
 
 * [Referencia interna · sintesis_abierta_aporte.md](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
 * [Protocolo de Síntesis Abierta](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
@@ -317,10 +314,7 @@ Before participating, read the full manifesto and the operational protocol. Subm
 * [Open a contribution through the public template](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
 * [Dedicated Open Synthesis for Manifesto V · Issue #34](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/34)
 
-
 ### Equivalent internal links
-
-This block guarantees that the Spanish and English editions provide access to the same set of internal destinations.
 
 * [Internal reference · sintesis_abierta_aporte.md](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
 * [Open Synthesis protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)

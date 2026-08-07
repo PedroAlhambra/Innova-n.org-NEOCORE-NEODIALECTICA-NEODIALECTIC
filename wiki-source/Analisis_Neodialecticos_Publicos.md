@@ -134,3 +134,11 @@ New analyses and audits are added to their repository indexes. The Wiki changes 
 ---
 
 [Inicio / Home](Home) · [Manifiestos / Manifestos](Manifiestos)
+
+## Serie España–Marruecos / Spain–Morocco series
+
+- [Parte I · España sin consulta / Part I · Spain without consultation](../analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
+- [Parte II · Dajla, mafias migratorias y control estatal / Part II · Dakhla, migrant-smuggling networks and state control](../analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
+- [Parte III · Ceuta 2026, Marruecos y evolución del conflicto / Part III · Ceuta 2026, Morocco and the evolution of the conflict](../analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md)
+- [Matriz de evidencias Parte III / Part III evidence matrix](../analisis/publicos/evidencias/2026-08-07_ceuta-marruecos-evolucion-conflicto-fuentes-y-matriz_ES_EN.md)
+

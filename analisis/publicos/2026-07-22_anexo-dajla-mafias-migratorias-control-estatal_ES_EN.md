@@ -28,6 +28,13 @@
 - **GitHub:**  
   [España sin consulta: Marruecos, regularización, nacionalidad y pérdida de control democrático](./2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
 
+### Continuación / Continuation
+
+- **Parte III / Part III:**  
+  [Ceuta 2026, Marruecos y evolución del conflicto](./2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md)
+- **Matriz Parte III / Part III evidence matrix:**  
+  [Fuentes y matriz de evidencias](./evidencias/2026-08-07_ceuta-marruecos-evolucion-conflicto-fuentes-y-matriz_ES_EN.md)
+
 - **LinkedIn:**  
   https://www.linkedin.com/pulse/espa%C3%B1a-sin-consulta-marruecos-regularizaci%C3%B3n-nacionalidad-y-p%C3%A9rdida-bh97e/
 
@@ -60,6 +67,7 @@
 - [English version](#english-version)
 - [Matriz de evidencias / Evidence matrix](./evidencias/2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md)
 - [Documento matriz / Parent analysis](./2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
+- [Parte III / Part III](./2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md)
 
 ---
 

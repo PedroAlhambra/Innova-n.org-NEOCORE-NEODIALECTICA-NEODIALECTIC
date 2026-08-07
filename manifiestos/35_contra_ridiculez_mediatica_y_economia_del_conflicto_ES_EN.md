@@ -428,10 +428,7 @@ Toda aportación exige ejemplos verificables, fuentes, contexto, separación ent
 * [Anexo · Responsabilidad de los Nodos de Poder y Deber de Examen](../propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)
 * [Análisis · De la economía de la atención a la economía del aporte](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
 
-
 ### Vínculos internos equivalentes
-
-Este bloque garantiza que la edición castellana y la inglesa ofrecen acceso al mismo conjunto de destinos internos.
 
 * [Referencia interna · 2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
 * [Referencia interna · ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md](../propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)
@@ -683,10 +680,7 @@ Every contribution requires verifiable examples, sources, context, separation be
 * [Annex · Responsibility of Power Nodes and Duty of Examination](../propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)
 * [Analysis · From the Attention Economy to the Contribution Economy](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
 
-
 ### Equivalent internal links
-
-This block guarantees that the Spanish and English editions provide access to the same set of internal destinations.
 
 * [Internal reference · 2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
 * [Internal reference · ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md](../propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)

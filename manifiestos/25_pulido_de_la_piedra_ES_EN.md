@@ -129,10 +129,7 @@ Se solicitan aportes sobre persona multidimensional, formación y adoctrinamient
 * [Abrir la Síntesis Abierta de este manifiesto · Issue #19](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/19)
 * [Protocolo operativo actual para aportar](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 
-
 ### Vínculos internos equivalentes
-
-Este bloque garantiza que la edición castellana y la inglesa ofrecen acceso al mismo conjunto de destinos internos.
 
 * [Protocolo de Síntesis Abierta](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
@@ -252,10 +249,7 @@ Contributions are requested concerning the multidimensional person, formation an
 * [Open the Synthesis of this manifesto · Issue #19](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/19)
 * [Current operational contribution protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 
-
 ### Equivalent internal links
-
-This block guarantees that the Spanish and English editions provide access to the same set of internal destinations.
 
 * [Open Synthesis protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Open Synthesis index](../propuestas/sintesis-abierta/README.md)

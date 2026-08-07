@@ -15,6 +15,7 @@
 > **EN:** This analysis now has a second part devoted to the operational infrastructure of border pressure: Dakhla, smuggling networks, territorial surveillance, possible corruption, selective tolerance and political instrumentalisation.
 >
 > - [Parte II — Dajla, mafias migratorias y control estatal / Part II — Dakhla, migrant-smuggling networks and state control](./2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
+> - [Parte III — Ceuta 2026, Marruecos y evolución del conflicto / Part III — Ceuta 2026, Morocco and the evolution of the conflict](./2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md)
 > - [LinkedIn](https://www.linkedin.com/pulse/parte-ii-dajla-mafias-migratorias-y-control-estatal-la-infraestructura-eykae/)
 > - [Facebook](https://www.facebook.com/photo?fbid=122116292565165790&set=a.122115638673165790)
 
@@ -23,6 +24,7 @@
 - [Español](#versión-en-español)
 - [English version](#english-version)
 - [Parte II / Part II](./2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
+- [Parte III / Part III](./2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md)
 
 # Versión en español
 
