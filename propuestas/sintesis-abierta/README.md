@@ -9,15 +9,15 @@
 
 Este directorio reúne propuestas públicas abiertas a contraste, adhesión parcial, crítica, reformulación y mejora trazable.
 
-**Cobertura canónica actual:** los **35 manifiestos I–XXXV** disponen de una Síntesis Abierta específica. Los anexos y propuestas complementarias se indexan aparte para no confundirlos con la numeración canónica de manifiestos.
+**Cobertura canónica actual:** los **36 manifiestos I–XXXVI** disponen de una Síntesis Abierta específica. Los anexos y propuestas complementarias se indexan aparte para no confundirlos con la numeración canónica de manifiestos.
 
 ## Acceso general
 
-* [Índice completo de manifiestos I–XXXV](../../manifiestos/README.md)
+* [Índice completo de manifiestos I–XXXVI](../../manifiestos/README.md)
 * [Manifiesto III · Derecho Humano de Aporte](../../manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
 * [Protocolo operativo de aporte](./APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Plantilla para abrir un aporte](../../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
-* [Anuncio bilingüe de las cinco oleadas](../../anuncios/2026-08-07_ANUNCIO_CINCO_OLEADAS_MANIFIESTOS_ES_EN.md)
+* [Anuncio histórico bilingüe de las cinco primeras oleadas](../../anuncios/2026-08-07_ANUNCIO_CINCO_OLEADAS_MANIFIESTOS_ES_EN.md)
 
 ## Primera oleada · Pilares fundacionales
 
@@ -79,11 +79,17 @@ Este directorio reúne propuestas públicas abiertas a contraste, adhesión parc
 | XXXIV | [Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](../../manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) | [Issue #29](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/29) |
 | XXXV | [Contra la Ridiculez Mediática y la Economía del Conflicto™](../../manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) | [Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |
 
+## Sexta oleada · Custodia civilizatoria y continuidad simbólica
+
+| Nº | Manifiesto | Síntesis Abierta |
+|---:|---|---|
+| XXXVI | [Corona, Águila y Custodia de la Edad del Hombre™](../../manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md) | [Issue #42](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/42) |
+
 ## Síntesis de anexos y propuestas complementarias
 
 | Tipo | Documento | Síntesis Abierta |
 |---|---|---|
-| Anexo simbólico y constitucional | [Corona, Águila e Innova_N como herramienta neodialéctica](./ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md) | [Issue #27](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/27) |
+| Antecedente genealógico de XXXVI | [Corona, Águila e Innova_N como herramienta neodialéctica](./ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md) | [Issue #27 · cerrada](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/27) → [XXXVI · Issue #42](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/42) |
 | Anexo a XXXV | [Responsabilidad de los Nodos de Poder y Deber de Examen Civilizatorio](./ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md) | Integrado en [Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |
 | Propuesta complementaria | [Algoritmo Europeo de Pensamiento Reflexivo™ v0.1](./ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_v0.1_ES_EN.md) | [Issue #2](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/2) |
 
@@ -109,7 +115,7 @@ Cuando una discusión pierde materialmente su objeto, no demuestra estudio sufic
 
 La Síntesis Abierta no obliga a consumir tiempo humano o artificial indefinidamente sin aprendizaje, trazabilidad o delta demostrables.
 
-## Regla bilingüe documental
+## Regla documental bilingüe
 
 Toda Síntesis Abierta publicada en ES/EN debe contener **la misma información sustantiva en ambos idiomas**: documentos, tesis, límites, preguntas, requisitos y mecanismos. La traducción puede ser idiomática, pero no abreviada ni asimétrica.
 
@@ -123,15 +129,15 @@ Las propuestas se originan en el marco creado por **Pedro Martínez Alhambra · 
 
 This directory gathers public proposals open to contrast, partial endorsement, criticism, reformulation and traceable improvement.
 
-**Current canonical coverage:** all **35 Manifestos I–XXXV** have a dedicated Open Synthesis. Annexes and complementary proposals are indexed separately so they are not confused with the canonical manifesto numbering.
+**Current canonical coverage:** all **36 Manifestos I–XXXVI** have a dedicated Open Synthesis. Annexes and complementary proposals are indexed separately so they are not confused with the canonical manifesto numbering.
 
 ## General access
 
-* [Complete manifesto index I–XXXV](../../manifiestos/README.md)
+* [Complete manifesto index I–XXXVI](../../manifiestos/README.md)
 * [Manifesto III · Human Right to Contribute](../../manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
 * [Operational contribution protocol](./APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Contribution Issue template](../../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
-* [Bilingual five-wave announcement](../../anuncios/2026-08-07_ANUNCIO_CINCO_OLEADAS_MANIFIESTOS_ES_EN.md)
+* [Historical bilingual announcement of the first five waves](../../anuncios/2026-08-07_ANUNCIO_CINCO_OLEADAS_MANIFIESTOS_ES_EN.md)
 
 ## First wave · Foundational pillars
 
@@ -193,11 +199,17 @@ This directory gathers public proposals open to contrast, partial endorsement, c
 | XXXIV | [Operational Utility of the Framework and Perpetual Joint Audit™](../../manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) | [Issue #29](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/29) |
 | XXXV | [Against Media Absurdity and the Conflict Economy™](../../manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) | [Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |
 
+## Sixth wave · Civilisational custodianship and symbolic continuity
+
+| No. | Manifesto | Open Synthesis |
+|---:|---|---|
+| XXXVI | [Crown, Eagle and Custodianship of the Age of Man™](../../manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md) | [Issue #42](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/42) |
+
 ## Annex and complementary-proposal syntheses
 
 | Type | Document | Open Synthesis |
 |---|---|---|
-| Symbolic and constitutional annex | [Crown, Eagle and Innova_N as a neodialectical tool](./ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md) | [Issue #27](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/27) |
+| Genealogical antecedent of XXXVI | [Crown, Eagle and Innova_N as a neodialectical tool](./ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md) | [Issue #27 · closed](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/27) → [XXXVI · Issue #42](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/42) |
 | Annex to XXXV | [Responsibility of Power Nodes and Civilisational Duty of Examination](./ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md) | Integrated into [Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |
 | Complementary proposal | [European Reflective Thinking Algorithm™ v0.1](./ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_v0.1_ES_EN.md) | [Issue #2](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/2) |
 
