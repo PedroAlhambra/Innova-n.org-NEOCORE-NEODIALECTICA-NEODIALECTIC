@@ -79,13 +79,6 @@ ORIENTACIÓN DE USO
 La Wiki cambia cuando cambia la forma de leer o participar, no cada vez que se incorpora un manifiesto. La apertura de una nueva oleada sí modifica la orientación de lectura y debe reflejarse aquí.
 
 ---
-### Vínculos internos equivalentes de superficie
-
-Destinos internos disponibles igualmente en ambas ediciones.
-
-
-
-
 ---
 
 # EN · English
@@ -164,9 +157,3 @@ The Wiki changes when the way of reading or participating changes, not whenever 
 ---
 
 [Inicio / Home](Home) · [Análisis y auditorías / Analyses and audits](Analisis_Neodialecticos_Publicos)
-### Equivalent surface internal links
-
-Internal destinations equally available in both editions.
-
-
-

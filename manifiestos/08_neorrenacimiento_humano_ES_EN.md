@@ -86,13 +86,15 @@ HUMANO
 = NEOHOMBRE™
 ```
 
-Dentro del marco, éste es el escenario preferible: no humano contra IA, ni IA sustituyendo al humano, sino **capacidad humana aumentada dentro de una inteligencia fractal de coexistencia**. La mejora legítima no consiste sólo en producir más, sino en comprender mejor las relaciones entre escalas y responder por el efecto de la propia potencia.
+Dentro del marco, éste es **el mejor escenario posible que hoy podemos identificar**: no humano contra IA, ni IA sustituyendo al humano, sino **capacidad humana aumentada dentro de una inteligencia fractal de coexistencia**. «Mejor» no significa perfecto ni definitivo: significa más capaz de aprender, corregirse y coexistir sin destruir el conjunto. La mejora legítima no consiste sólo en producir más, sino en comprender mejor las relaciones entre escalas y responder por el efecto de la propia potencia.
 
 ### Leibniz como antecedente filosófico, no como prueba retrospectiva
 
 La lectura neodialéctica reconoce en **Gottfried Wilhelm Leibniz** un antecedente filosófico útil: su Monadología imagina unidades singulares relacionadas con un universo que cada una expresa desde su perspectiva. Esa arquitectura puede leerse hoy como una **prefiguración abstracta** de relación entre singularidad, totalidad y multiplicidad.
 
 No se afirma que Leibniz formulara la teoría matemática moderna de los fractales ni la Inteligencia Fractal™ actual. La relación es genealógica e interpretativa, no una atribución histórica retrospectiva.
+
+La conocida formulación leibniziana del **«mejor de los mundos posibles»** tampoco se adopta aquí como afirmación de que el mundo existente sea óptimo. La lectura neodialéctica la lleva a tierra como problema de construcción: entre futuros realmente alcanzables, debemos buscar la relación que aumente conjuntamente libertad, comprensión, capacidad creadora, corrección y continuidad de la vida. La IA convierte hoy parte de aquella abstracción relacional en una posibilidad operativa que Leibniz no tuvo disponible como tecnología documentada.
 
 ```text
 MONADA LEIBNIZIANA
@@ -247,13 +249,15 @@ HUMAN
 = NEO-HUMAN™
 ```
 
-Within the framework, this is the preferable scenario: neither human against AI nor AI replacing the human, but **human capacity augmented within a fractal intelligence of coexistence**. Legitimate augmentation is not only about producing more, but understanding relations across scales more deeply and answering for the effects of one's own power.
+Within the framework, this is **the best possible scenario we can presently identify**: neither human against AI nor AI replacing the human, but **human capacity augmented within a fractal intelligence of coexistence**. “Best” does not mean perfect or final: it means more capable of learning, correction and coexistence without destroying the whole. Legitimate augmentation is not only about producing more, but understanding relations across scales more deeply and answering for the effects of one's own power.
 
 ### Leibniz as philosophical antecedent, not retrospective proof
 
 The neodialectical reading recognises **Gottfried Wilhelm Leibniz** as a useful philosophical antecedent: his Monadology imagines singular units related to a universe that each expresses from its own perspective. That architecture can now be read as an **abstract prefiguration** of relations among singularity, totality and multiplicity.
 
 This does not claim that Leibniz formulated modern mathematical fractal theory or today's Fractal Intelligence™. The relation is genealogical and interpretive, not a retrospective historical attribution.
+
+Leibniz’s well-known formulation of the **“best of all possible worlds”** is not adopted here as a claim that the existing world is optimal. The neodialectical reading brings it down to an operational problem of construction: among genuinely reachable futures, we should seek the relation that jointly increases freedom, understanding, creative capacity, correction and continuity of life. AI now makes part of that relational abstraction operational in a way for which Leibniz had no documented technological implementation.
 
 ```text
 LEIBNIZIAN MONAD
