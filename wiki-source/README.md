@@ -68,6 +68,24 @@
 
 <!-- NEO_ALL_MANIFESTOS_END -->
 
+<!-- NEO_OPEN_SYNTHESIS_INVITATION_START -->
+
+## Participa en la Síntesis Abierta / Join the Open Synthesis
+
+**Este marco no pide adhesión ciega.** La Síntesis Abierta está abierta a cualquier persona que quiera aportar una **adhesión razonada o parcial, crítica, objeción, contraejemplo, fuente, experiencia, verificación, traducción, implementación o propuesta de delta**. Toda aportación debe poder discutirse, contrastarse y revisarse.
+
+**Puerta de entrada recomendada:** [XLVIII · La Síntesis Todo lo Ve™](../manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) · [Síntesis Abierta XLVIII · Issue #56](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/56)  
+**Cómo aportar:** [Protocolo de aporte a la Síntesis Abierta](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)  
+**Todas las síntesis abiertas:** [Índice operativo de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
+
+**This framework does not ask for blind endorsement.** Open Synthesis is open to anyone willing to contribute a **reasoned or partial endorsement, criticism, objection, counterexample, source, experience, verification, translation, implementation or proposed delta**. Every contribution must remain open to discussion, checking and revision.
+
+**Recommended entry point:** [XLVIII · The Synthesis Sees Everything™](../manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) · [Open Synthesis XLVIII · Issue #56](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/56)  
+**How to contribute:** [Open Synthesis contribution protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)  
+**All open syntheses:** [Open Synthesis operational index](../propuestas/sintesis-abierta/README.md)
+
+<!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->
+
 
 Este directorio conserva en el repositorio principal la versión trazable de las pocas páginas que deben proyectarse en la Wiki pública.
 

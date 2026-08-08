@@ -424,3 +424,33 @@ La relación documental indica afinidad conceptual, genealogía, contraste o apl
 - [KDP–Author Central–IDEA](../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md) — obra, mercado, metadatos y valor editorial sin confundir propiedad, autoría y plataforma / work, market, metadata and publishing value without confusing property, authorship and platform.
 - [Mapa transversal completo](./RELACIONES_TRABAJO_APLICADO_ES_EN.md#manifiesto-xxix)
 <!-- NEO_RELATED_WORK_END -->
+
+<!-- NEO_OPEN_SYNTHESIS_INVITATION_START -->
+
+## Participa en la Síntesis Abierta / Join the Open Synthesis
+
+**Este marco no pide adhesión ciega.** La Síntesis Abierta está abierta a cualquier persona que quiera aportar una **adhesión razonada o parcial, crítica, objeción, contraejemplo, fuente, experiencia, verificación, traducción, implementación o propuesta de delta**. Toda aportación debe poder discutirse, contrastarse y revisarse.
+
+**Puerta de entrada recomendada:** [XLVIII · La Síntesis Todo lo Ve™](48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) · [Síntesis Abierta XLVIII · Issue #56](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/56)  
+**Cómo aportar:** [Protocolo de aporte a la Síntesis Abierta](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)  
+**Todas las síntesis abiertas:** [Índice operativo de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
+
+**This framework does not ask for blind endorsement.** Open Synthesis is open to anyone willing to contribute a **reasoned or partial endorsement, criticism, objection, counterexample, source, experience, verification, translation, implementation or proposed delta**. Every contribution must remain open to discussion, checking and revision.
+
+**Recommended entry point:** [XLVIII · The Synthesis Sees Everything™](48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) · [Open Synthesis XLVIII · Issue #56](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/56)  
+**How to contribute:** [Open Synthesis contribution protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)  
+**All open syntheses:** [Open Synthesis operational index](../propuestas/sintesis-abierta/README.md)
+
+<!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->
+
+<!-- NEO_MANIFESTO_NAV_START -->
+
+## Navegación canónica / Canonical navigation
+
+← **XXVIII** · [Manifiesto de Los Tesla™ / The Teslas™](28_los_tesla_ES_EN.md)
+· [Índice I–LI / I–LI index](README.md) ·
+**XXX** · [Manifiesto de la Coherencia entre Fines y Medios™ / Coherence between Ends and Means™](30_coherencia_fines_medios_ES_EN.md) →
+
+> La navegación canónica mantiene la colección conectada sin convertir ningún manifiesto aislado en equivalente del marco completo. / Canonical navigation keeps the collection connected without treating any single manifesto as equivalent to the complete framework.
+
+<!-- NEO_MANIFESTO_NAV_END -->

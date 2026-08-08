@@ -1032,3 +1032,33 @@ La relación documental indica afinidad conceptual, genealogía, contraste o apl
 **Todos unidos / All united** — fórmula abierta de adhesión colectiva; no atribuye firma individual a quien no la haya expresado.
 
 **© 2026 Pedro Martínez Alhambra · Fundación Innova_N**
+
+<!-- NEO_OPEN_SYNTHESIS_INVITATION_START -->
+
+## Participa en la Síntesis Abierta / Join the Open Synthesis
+
+**Este marco no pide adhesión ciega.** La Síntesis Abierta está abierta a cualquier persona que quiera aportar una **adhesión razonada o parcial, crítica, objeción, contraejemplo, fuente, experiencia, verificación, traducción, implementación o propuesta de delta**. Toda aportación debe poder discutirse, contrastarse y revisarse.
+
+**Puerta de entrada recomendada:** [XLVIII · La Síntesis Todo lo Ve™](48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) · [Síntesis Abierta XLVIII · Issue #56](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/56)  
+**Cómo aportar:** [Protocolo de aporte a la Síntesis Abierta](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)  
+**Todas las síntesis abiertas:** [Índice operativo de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
+
+**This framework does not ask for blind endorsement.** Open Synthesis is open to anyone willing to contribute a **reasoned or partial endorsement, criticism, objection, counterexample, source, experience, verification, translation, implementation or proposed delta**. Every contribution must remain open to discussion, checking and revision.
+
+**Recommended entry point:** [XLVIII · The Synthesis Sees Everything™](48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) · [Open Synthesis XLVIII · Issue #56](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/56)  
+**How to contribute:** [Open Synthesis contribution protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)  
+**All open syntheses:** [Open Synthesis operational index](../propuestas/sintesis-abierta/README.md)
+
+<!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->
+
+<!-- NEO_MANIFESTO_NAV_START -->
+
+## Navegación canónica / Canonical navigation
+
+← **XLVI** · [Cerrar la Herida™ · Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria / Closing the Wound™](46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
+· [Índice I–LI / I–LI index](README.md) ·
+**XLVIII** · [La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo / The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine](48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) →
+
+> La navegación canónica mantiene la colección conectada sin convertir ningún manifiesto aislado en equivalente del marco completo. / Canonical navigation keeps the collection connected without treating any single manifesto as equivalent to the complete framework.
+
+<!-- NEO_MANIFESTO_NAV_END -->
