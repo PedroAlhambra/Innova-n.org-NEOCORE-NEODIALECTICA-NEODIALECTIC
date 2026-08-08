@@ -2,17 +2,28 @@ from pathlib import Path
 import os,re,sys
 
 root=Path('.').resolve()
-latest=root/'manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md'
+latest=root/'manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md'
 index=root/'manifiestos/README.md'
 protocol=root/'propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md'
 synth_index=root/'propuestas/sintesis-abierta/README.md'
-issue59='https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/59'
+issue59='https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/64'
 
 for p in (latest,index,protocol,synth_index):
     if not p.exists(): raise SystemExit(f'Missing canonical target: {p.relative_to(root)}')
 
-start='<!-- NEO_LATEST_MANIFESTO_START -->'
-end='<!-- NEO_LATEST_MANIFESTO_END -->'
+start='<!-- NEO_LATEST_MANIFESTO_START -->
+
+> ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
+>
+> **LII · Ciudadanía Humana Neodialéctica™ · de la sangre y el suelo a la pertenencia cívica funcional**  
+> **LII · Neodialectical Human Citizenship™ · from blood and soil to functional civic belonging**
+>
+> La propuesta está **abierta a crítica, objeciones, contraejemplos, fuentes, correcciones y propuestas de mejora**. No se pide adhesión: se pide contraste. / The proposal is **open to criticism, objections, counterexamples, sources, corrections and improvement proposals**. Endorsement is not required: scrutiny is.
+>
+> **[Leer manifiesto LII / Read manifesto LII](../../manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md) · [Participar en la Síntesis Abierta LII · Issue #64 / Join Open Synthesis LII · Issue #64](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/64)**  
+> [Cómo aportar / How to contribute](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Índice de Síntesis Abierta / Open Synthesis index](../../propuestas/sintesis-abierta/README.md) · [52 manifiestos I–LII / 52 manifestos I–LII](../../manifiestos/README.md)
+
+<!-- NEO_LATEST_MANIFESTO_END -->'
 
 def rel(f,target):
     return os.path.relpath(target,start=f.parent).replace(os.sep,'/')
@@ -22,13 +33,13 @@ def block(f):
 
 > ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LI · Síntesis Abierta como Poder Cívico Complementario o Sustitutivo™**  
-> **LI · Open Synthesis as Complementary or Substitutive Civic Power™**
+> **LII · Ciudadanía Humana Neodialéctica™ · de la sangre y el suelo a la pertenencia cívica funcional**  
+> **LII · Neodialectical Human Citizenship™ · from blood and soil to functional civic belonging**
 >
 > La propuesta está **abierta a crítica, objeciones, contraejemplos, fuentes, correcciones y propuestas de mejora**. No se pide adhesión: se pide contraste. / The proposal is **open to criticism, objections, counterexamples, sources, corrections and improvement proposals**. Endorsement is not required: scrutiny is.
 >
-> **[Leer manifiesto LI / Read manifesto LI]({rel(f,latest)}) · [Participar en la Síntesis Abierta LI · Issue #59 / Join Open Synthesis LI · Issue #59]({issue59})**  
-> [Cómo aportar / How to contribute]({rel(f,protocol)}) · [Índice de Síntesis Abierta / Open Synthesis index]({rel(f,synth_index)}) · [51 manifiestos I–LI / 51 manifestos I–LI]({rel(f,index)})
+> **[Leer manifiesto LI / Read manifesto LI]({rel(f,latest)}) · [Participar en la Síntesis Abierta LI · Issue #64 / Join Open Synthesis LI · Issue #64]({issue59})**  
+> [Cómo aportar / How to contribute]({rel(f,protocol)}) · [Índice de Síntesis Abierta / Open Synthesis index]({rel(f,synth_index)}) · [52 manifiestos I–LII / 52 manifestos I–LII]({rel(f,index)})
 
 {end}'''
 
@@ -68,8 +79,8 @@ for f in readmes:
         continue
     m=re.search(re.escape(start)+r'(.*?)'+re.escape(end),text,re.S)
     blk=m.group(1)
-    if 'Issue #59' not in blk or '51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md' not in blk:
-        fail.append(f'{f.relative_to(root)}: LI/Issue #59 feature incomplete')
+    if 'Issue #64' not in blk or '52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md' not in blk:
+        fail.append(f'{f.relative_to(root)}: LI/Issue #64 feature incomplete')
     for href in link_re.findall(blk):
         h=href.split('#',1)[0].strip()
         if not h or re.match(r'^[A-Za-z][A-Za-z0-9+.-]*:',h): continue

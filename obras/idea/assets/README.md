@@ -9,18 +9,18 @@
 
 > ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LI · Síntesis Abierta como Poder Cívico Complementario o Sustitutivo™**  
-> **LI · Open Synthesis as Complementary or Substitutive Civic Power™**
+> **LII · Ciudadanía Humana Neodialéctica™ · de la sangre y el suelo a la pertenencia cívica funcional**  
+> **LII · Neodialectical Human Citizenship™ · from blood and soil to functional civic belonging**
 >
 > La propuesta está **abierta a crítica, objeciones, contraejemplos, fuentes, correcciones y propuestas de mejora**. No se pide adhesión: se pide contraste. / The proposal is **open to criticism, objections, counterexamples, sources, corrections and improvement proposals**. Endorsement is not required: scrutiny is.
 >
-> **[Leer manifiesto LI / Read manifesto LI](../../../manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md) · [Participar en la Síntesis Abierta LI · Issue #59 / Join Open Synthesis LI · Issue #59](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/59)**  
-> [Cómo aportar / How to contribute](../../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Índice de Síntesis Abierta / Open Synthesis index](../../../propuestas/sintesis-abierta/README.md) · [51 manifiestos I–LI / 51 manifestos I–LI](../../../manifiestos/README.md)
+> **[Leer manifiesto LII / Read manifesto LII](../../../manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md) · [Participar en la Síntesis Abierta LII · Issue #64 / Join Open Synthesis LII · Issue #64](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/64)**  
+> [Cómo aportar / How to contribute](../../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Índice de Síntesis Abierta / Open Synthesis index](../../../propuestas/sintesis-abierta/README.md) · [52 manifiestos I–LII / 52 manifestos I–LII](../../../manifiestos/README.md)
 
 <!-- NEO_LATEST_MANIFESTO_END -->
 <!-- MANIFESTOS_CURRENT_START -->
 
-**Colección completa de manifiestos / Complete manifesto collection:** **I–LI · 51 manifiestos bilingües / 51 bilingual manifestos** · [índice canónico / canonical index](../../../manifiestos/README.md)
+**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LII · 52 manifiestos bilingües / 52 bilingual manifestos** · [índice canónico / canonical index](../../../manifiestos/README.md)
 
 <!-- MANIFESTOS_CURRENT_END -->
 
@@ -28,11 +28,11 @@
 
 ## Red completa de manifiestos / Complete manifesto network
 
-**Estado canónico / Canonical state:** **51 manifiestos bilingües · I–LI · 18 oleadas / 51 bilingual manifestos · I–LI · 18 waves**  
+**Estado canónico / Canonical state:** **52 manifiestos bilingües · I–LII · 19 oleadas / 52 bilingual manifestos · I–LII · 19 waves**  
 **Índice canónico / Canonical index:** [../../../manifiestos/README.md](../../../manifiestos/README.md)
 
 <details>
-<summary><strong>I–LI · 51 manifiestos / 51 manifestos</strong></summary>
+<summary><strong>I–LII · 52 manifiestos / 52 manifestos</strong></summary>
 
 - **I** · [Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica / Neo0™ · Neodialectical Guiding Sovereignty](../../../manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
 - **II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™ / Neodialectical Open Synthesis™](../../../manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md)
@@ -85,10 +85,11 @@
 - **XLIX** · [La Neodialéctica como Punto de Encuentro entre Culturas™ / La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™](../../../manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)
 - **L** · [Por una Inteligencia Compartida, no Única™ · Invitación Abierta a las IAs / For Shared, Not Singular Intelligence™](../../../manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
 - **LI** · [Síntesis Abierta como Poder Cívico Complementario o Sustitutivo™ / Open Synthesis as Complementary or Substitutive Civic Power™](../../../manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md)
+- **LII** · [Ciudadanía Humana Neodialéctica™ · de la sangre y el suelo a la pertenencia cívica funcional / Neodialectical Human Citizenship™ · from blood and soil to functional civic belonging](../../../manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md)
 
 </details>
 
-> **Regla de lectura / Reading rule:** ningún manifiesto equivale por sí solo al marco completo. Esta navegación mantiene los 51 manifiestos accesibles desde cualquier README sin sustituir el contexto propio de cada nodo. / No single manifesto equals the complete framework. This navigation keeps all 51 manifestos accessible from every README without replacing each node’s own context.
+> **Regla de lectura / Reading rule:** ningún manifiesto equivale por sí solo al marco completo. Esta navegación mantiene los 52 manifiestos accesibles desde cualquier README sin sustituir el contexto propio de cada nodo. / No single manifesto equals the complete framework. This navigation keeps all 52 manifestos accessible from every README without replacing each node’s own context.
 
 <!-- NEO_ALL_MANIFESTOS_END -->
 

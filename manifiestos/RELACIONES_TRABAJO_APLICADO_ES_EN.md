@@ -2,7 +2,7 @@
 # Transversal map · Manifestos ↔ applied work
 
 **Estado / Status:** público · relacional · 2026-08-08 / public · relational · 2026-08-08  
-**Cobertura / Coverage:** I–LI · 51 manifiestos / 51 manifestos  
+**Cobertura / Coverage:** I–LII · 52 manifiestos / 52 manifestos  
 **Función / Function:** relacionar principios, análisis, auditorías, obras, protocolos, evidencias y casos mediante enlaces internos, sin convertir correlación documental en prueba causal. / Relate principles, analyses, audits, works, protocols, evidence and cases through internal links without turning documentary correlation into causal proof.
 
 ---
@@ -385,3 +385,16 @@ Casos y análisis principales:
 - **Síntesis Abierta / Open Synthesis:** [Issue #63](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/63).
 - **Relaciones principales / Main relations:** IX · Memoria-Genealogía-Trazabilidad; XIII · NeoPandora™; XVI · Refragmentación Arquetípica™; XIX · Persistencia de la Memoria™; XX · Umbral-X™; XXXIV · Auditoría Conjunta Perpetua™; XXXVI · Corona-Águila-Custodia; XLIII · Inteligencia Humana Expandida™; XLV · Multidimensionalidad; XLVIII · La Síntesis Todo lo Ve™; LI · Poder Cívico Complementario o Sustitutivo™.
 - **Regla probatoria / Evidentiary rule:** la autodemostración se refiere al funcionamiento observable del método neodialéctico —relacionar fragmentos, conservar memoria y contradicción y producir síntesis revisables—; no convierte por sí sola una hipótesis externa concreta (por ejemplo, Ceres–Olimpo™) en hecho histórico.
+
+
+## LII · Ciudadanía Humana Neodialéctica™ · relación aplicada
+## LII · Neodialectical Human Citizenship™ · applied relation
+
+**Relaciones genealógicas principales:** II · Síntesis Abierta; III · Derecho Humano de Aporte; IV · Bien Común; IX · Memoria, Genealogía y Trazabilidad; XXXVII · Neofraternidad™; XLIX · Interoperabilidad Cultural™; LI · Poder Cívico Complementario o Sustitutivo™.  
+**Main genealogical relations:** II · Open Synthesis; III · Human Right to Contribute; IV · Common Good; IX · Memory, Genealogy and Traceability; XXXVII · Neofraternity™; XLIX · Cultural Interoperability™; LI · Complementary or Substitutive Civic Power™.
+
+- [Manifiesto LII / Manifesto LII](./52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md)
+- [Análisis público / Public analysis](../analisis/publicos/2026-08-08_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_funcional_ES_EN.md)
+- [Síntesis Abierta #64 / Open Synthesis #64](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/64)
+
+**Regla de relación:** igualdad humana universal no elimina administración territorial; aporte no equivale a riqueza; pertenencia funcional no puede convertirse en filtro de valor humano. / **Relation rule:** universal human equality does not erase territorial administration; contribution is not equivalent to wealth; functional belonging must not become a filter of human worth.

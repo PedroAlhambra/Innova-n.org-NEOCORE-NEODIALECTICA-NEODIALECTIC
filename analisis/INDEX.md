@@ -1,5 +1,12 @@
 # Índice · análisis / Analysis index
 
+
+<!-- NEO_CITIZENSHIP_LII_START -->
+> ## 🟠 LII · CIUDADANÍA HUMANA NEODIALÉCTICA™ / NEODIALECTICAL HUMAN CITIZENSHIP™
+> Sangre = genealogía. Suelo = localización y vínculo. Dignidad humana = común. La propuesta abre una transición hacia pertenencia cívica funcional y multiescala sin confundir igualdad humana con ausencia de administración territorial.  
+> [Manifiesto LII / Manifesto LII](../manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md) · [Análisis / Analysis](publicos/2026-08-08_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_funcional_ES_EN.md) · [Síntesis Abierta #64 / Open Synthesis #64](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/64)
+<!-- NEO_CITIZENSHIP_LII_END -->
+
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
 ---

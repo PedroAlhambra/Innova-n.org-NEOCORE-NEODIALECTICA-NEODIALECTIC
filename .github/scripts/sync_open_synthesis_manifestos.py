@@ -74,8 +74,8 @@ for f in readmes:
         ('Navigable manifesto index I–L','Navigable manifesto index I–LI'),
         ('I–L · 50 manifiestos bilingües','I–LI · 51 manifiestos bilingües'),
         ('I–L · 50 bilingual manifestos','I–LI · 51 bilingual manifestos'),
-        ('50 manifiestos bilingües · I–L · 17 oleadas','51 manifiestos bilingües · I–LI · 18 oleadas'),
-        ('50 bilingual manifestos · I–L · 17 waves','51 bilingual manifestos · I–LI · 18 waves')]:
+        ('50 manifiestos bilingües · I–L · 17 oleadas','52 manifiestos bilingües · I–LII · 19 oleadas'),
+        ('50 bilingual manifestos · I–L · 17 waves','52 bilingual manifestos · I–LII · 19 waves')]:
         s=s.replace(a,b)
     if s!=old:
         f.write_text(s,encoding='utf-8'); changed.append(f)

@@ -94,7 +94,7 @@ write_if_changed(path, text)
 path = Path('manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md')
 text = path.read_text(encoding='utf-8')
 text = text.replace('**Cobertura / Coverage:** I–XLIX · 49 manifiestos / 49 manifestos',
-                    '**Cobertura / Coverage:** I–LI · 51 manifiestos / 51 manifestos')
+                    '**Cobertura / Coverage:** I–LII · 52 manifiestos / 52 manifestos')
 text = text.replace('## Matriz completa I–XLVII / Complete I–XLVII matrix',
                     '## Matriz completa I–LI / Complete I–LI matrix')
 research_rel = '../' + RESEARCH

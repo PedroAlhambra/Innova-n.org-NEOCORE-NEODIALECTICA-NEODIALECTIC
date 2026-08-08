@@ -31,13 +31,13 @@ def latest_block(doc:Path)->str:
 
 > ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
 >
-> **{TITLE_ES}**  
-> **{TITLE_EN}**
+> **LII · Ciudadanía Humana Neodialéctica™ · de la sangre y el suelo a la pertenencia cívica funcional**  
+> **LII · Neodialectical Human Citizenship™ · from blood and soil to functional civic belonging**
 >
 > La propuesta está **abierta a crítica, objeciones, contraejemplos, fuentes, correcciones y propuestas de mejora**. No se pide adhesión: se pide contraste. / The proposal is **open to criticism, objections, counterexamples, sources, corrections and improvement proposals**. Endorsement is not required: scrutiny is.
 >
-> **[Leer manifiesto LII / Read manifesto LII]({m}) · [Participar en la Síntesis Abierta LII · Issue #64 / Join Open Synthesis LII · Issue #64]({ISSUE})**  
-> [Cómo aportar / How to contribute]({contrib}) · [Índice de Síntesis Abierta / Open Synthesis index]({synth}) · [52 manifiestos I–LII / 52 manifestos I–LII]({idx})
+> **[Leer manifiesto LII / Read manifesto LII](../../manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md) · [Participar en la Síntesis Abierta LII · Issue #64 / Join Open Synthesis LII · Issue #64](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/64)**  
+> [Cómo aportar / How to contribute](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Índice de Síntesis Abierta / Open Synthesis index](../../propuestas/sintesis-abierta/README.md) · [52 manifiestos I–LII / 52 manifestos I–LII](../../manifiestos/README.md)
 
 <!-- NEO_LATEST_MANIFESTO_END -->'''
 
@@ -46,7 +46,7 @@ def current_block(doc:Path)->str:
     idx=rel(doc,Path('manifiestos/README.md'))
     return f'''<!-- MANIFESTOS_CURRENT_START -->
 
-**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LII · 52 manifiestos bilingües / 52 bilingual manifestos** · [índice canónico / canonical index]({idx})
+**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LII · 52 manifiestos bilingües / 52 bilingual manifestos** · [índice canónico / canonical index](../../manifiestos/README.md)
 
 <!-- MANIFESTOS_CURRENT_END -->'''
 
@@ -57,9 +57,9 @@ def sync_all_block(text:str,doc:Path)->str:
     if not ma: return text
     b=ma.group(0)
     reps={
-      '51 manifiestos bilingües · I–LI · 18 oleadas':'52 manifiestos bilingües · I–LII · 19 oleadas',
-      '51 bilingual manifestos · I–LI · 18 waves':'52 bilingual manifestos · I–LII · 19 waves',
-      'I–LI · 51 manifiestos / 51 manifestos':'I–LII · 52 manifiestos / 52 manifestos',
+      '52 manifiestos bilingües · I–LII · 19 oleadas':'52 manifiestos bilingües · I–LII · 19 oleadas',
+      '52 bilingual manifestos · I–LII · 19 waves':'52 bilingual manifestos · I–LII · 19 waves',
+      'I–LII · 52 manifiestos / 52 manifestos':'I–LII · 52 manifiestos / 52 manifestos',
       'mantiene los 51 manifiestos':'mantiene los 52 manifiestos',
       'keeps all 51 manifestos':'keeps all 52 manifestos',
     }
@@ -148,17 +148,31 @@ changed=[]
 for p in dict.fromkeys(TARGETS):
     old=p.read_text(encoding='utf-8')
     t=old
-    if '<!-- NEO_LATEST_MANIFESTO_START -->' in t:
-        t=re.sub(r'<!-- NEO_LATEST_MANIFESTO_START -->.*?<!-- NEO_LATEST_MANIFESTO_END -->',latest_block(p),t,flags=re.S)
-    if '<!-- MANIFESTOS_CURRENT_START -->' in t:
-        t=re.sub(r'<!-- MANIFESTOS_CURRENT_START -->.*?<!-- MANIFESTOS_CURRENT_END -->',current_block(p),t,flags=re.S)
+    if '<!-- NEO_LATEST_MANIFESTO_START -->
+
+> ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
+>
+> **LII · Ciudadanía Humana Neodialéctica™ · de la sangre y el suelo a la pertenencia cívica funcional**  
+> **LII · Neodialectical Human Citizenship™ · from blood and soil to functional civic belonging**
+>
+> La propuesta está **abierta a crítica, objeciones, contraejemplos, fuentes, correcciones y propuestas de mejora**. No se pide adhesión: se pide contraste. / The proposal is **open to criticism, objections, counterexamples, sources, corrections and improvement proposals**. Endorsement is not required: scrutiny is.
+>
+> **[Leer manifiesto LII / Read manifesto LII](../../manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md) · [Participar en la Síntesis Abierta LII · Issue #64 / Join Open Synthesis LII · Issue #64](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/64)**  
+> [Cómo aportar / How to contribute](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Índice de Síntesis Abierta / Open Synthesis index](../../propuestas/sintesis-abierta/README.md) · [52 manifiestos I–LII / 52 manifestos I–LII](../../manifiestos/README.md)
+
+<!-- NEO_LATEST_MANIFESTO_END -->',latest_block(p),t,flags=re.S)
+    if '<!-- MANIFESTOS_CURRENT_START -->
+
+**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LII · 52 manifiestos bilingües / 52 bilingual manifestos** · [índice canónico / canonical index](../../manifiestos/README.md)
+
+<!-- MANIFESTOS_CURRENT_END -->',current_block(p),t,flags=re.S)
     t=sync_all_block(t,p)
     exact={
-      '51 manifiestos bilingües · I–LI · 18 oleadas':'52 manifiestos bilingües · I–LII · 19 oleadas',
-      '51 bilingual manifestos · I–LI · 18 waves':'52 bilingual manifestos · I–LII · 19 waves',
-      'I–LI · 51 manifiestos bilingües / 51 bilingual manifestos':'I–LII · 52 manifiestos bilingües / 52 bilingual manifestos',
-      'I–LI · 51 manifiestos / 51 manifestos':'I–LII · 52 manifiestos / 52 manifestos',
-      '51 manifiestos I–LI / 51 manifestos I–LI':'52 manifiestos I–LII / 52 manifestos I–LII',
+      '52 manifiestos bilingües · I–LII · 19 oleadas':'52 manifiestos bilingües · I–LII · 19 oleadas',
+      '52 bilingual manifestos · I–LII · 19 waves':'52 bilingual manifestos · I–LII · 19 waves',
+      'I–LII · 52 manifiestos bilingües / 52 bilingual manifestos':'I–LII · 52 manifiestos bilingües / 52 bilingual manifestos',
+      'I–LII · 52 manifiestos / 52 manifestos':'I–LII · 52 manifiestos / 52 manifestos',
+      '52 manifiestos I–LII / 52 manifestos I–LII':'52 manifiestos I–LII / 52 manifestos I–LII',
     }
     for a,z in exact.items(): t=t.replace(a,z)
     t=add_citizenship_block(t,p)
