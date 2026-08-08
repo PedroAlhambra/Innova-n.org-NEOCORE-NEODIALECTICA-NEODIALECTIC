@@ -1,3 +1,4 @@
+# trigger: 2026-08-08T20:37:00+02:00
 name: one-shot-sync-open-synthesis-and-manifesto-links
 
 on:
@@ -93,7 +94,6 @@ jobs:
                   return text.replace(anchor, anchor + '\n\n' + block, 1)
               return text.rstrip() + '\n\n' + block + '\n'
 
-          # README/LEEME sweep
           readmes = sorted(set(root.rglob('README.md')) | set(root.rglob('README_*.md')) | {root/'LEEME.md'})
           readmes = [p for p in readmes if p.exists() and '.git' not in p.parts]
           changed = []
@@ -102,7 +102,6 @@ jobs:
               text = f.read_text(encoding='utf-8')
               old = text
               text = replace_or_insert(text, invite_start, invite_end, invite_block(f), '<!-- NEO_ALL_MANIFESTOS_END -->')
-              # Canonical current-state text only; historical dated audit prose is intentionally not rewritten.
               text = text.replace('Índice navegable de manifiestos I–L', 'Índice navegable de manifiestos I–LI')
               text = text.replace('Navigable manifesto index I–L', 'Navigable manifesto index I–LI')
               text = text.replace('I–L · 50 manifiestos bilingües', 'I–LI · 51 manifiestos bilingües')
@@ -113,7 +112,6 @@ jobs:
                   f.write_text(text, encoding='utf-8')
                   changed.append(f)
 
-          # Every canonical manifesto receives Open Synthesis invitation + deterministic prev/index/next navigation.
           for i, (roman, title, f) in enumerate(links):
               text = f.read_text(encoding='utf-8')
               old = text
@@ -131,31 +129,25 @@ jobs:
               else:
                   nav.append('**Fin de la colección / End of collection** →')
               nav += ['', '> La navegación canónica mantiene la colección conectada sin convertir ningún manifiesto aislado en equivalente del marco completo. / Canonical navigation keeps the collection connected without treating any single manifesto as equivalent to the complete framework.', '', nav_end]
-              nav_block = '\n'.join(nav)
-              text = replace_or_insert(text, nav_start, nav_end, nav_block)
+              text = replace_or_insert(text, nav_start, nav_end, '\n'.join(nav))
               if text != old:
                   f.write_text(text, encoding='utf-8')
                   changed.append(f)
 
-          # Validation helpers
           link_re = re.compile(r'\[[^\]]*\]\(([^)]+)\)')
           failures=[]
-
-          # Every README/LEEME must have one invitation and access to all 51 canonical manifestos via managed network or canonical index.
           for f in readmes:
               text=f.read_text(encoding='utf-8')
               if text.count(invite_start)!=1 or text.count(invite_end)!=1:
                   failures.append(f'{f.relative_to(root)}: Open Synthesis invitation marker count invalid')
               if 'APORTAR_A_LA_SINTESIS_ES_EN.md' not in text or 'issues/56' not in text:
                   failures.append(f'{f.relative_to(root)}: Open Synthesis links incomplete')
-              # Existing homogenized READMEs should expose the complete managed manifesto network.
               nblock=re.search(r'<!-- NEO_ALL_MANIFESTOS_START -->(.*?)<!-- NEO_ALL_MANIFESTOS_END -->', text, re.S)
               if nblock:
                   resolved=set()
                   for href in link_re.findall(nblock.group(1)):
                       h=href.split('#',1)[0].strip()
-                      if not h or re.match(r'^[a-zA-Z][a-zA-Z0-9+.-]*:', h):
-                          continue
+                      if not h or re.match(r'^[a-zA-Z][a-zA-Z0-9+.-]*:', h): continue
                       t=(f.parent/h).resolve()
                       if t in seen: resolved.add(t)
                   if len(resolved)!=51:
@@ -163,7 +155,6 @@ jobs:
               elif rel(f,index) not in text:
                   failures.append(f'{f.relative_to(root)}: neither full managed network nor canonical manifesto index link')
 
-          # Every canonical manifesto: unique invitation, unique managed nav, valid prev/next/index targets.
           for i,(roman,title,f) in enumerate(links):
               text=f.read_text(encoding='utf-8')
               if text.count(invite_start)!=1 or text.count(invite_end)!=1:
@@ -171,8 +162,7 @@ jobs:
               if text.count(nav_start)!=1 or text.count(nav_end)!=1:
                   failures.append(f'{f.relative_to(root)}: navigation marker count invalid')
               navtxt=re.search(re.escape(nav_start)+r'(.*?)'+re.escape(nav_end),text,re.S)
-              if not navtxt:
-                  continue
+              if not navtxt: continue
               expected={index.resolve()}
               if i>0: expected.add(links[i-1][2].resolve())
               if i+1<len(links): expected.add(links[i+1][2].resolve())
@@ -185,15 +175,12 @@ jobs:
               if not expected.issubset(got):
                   failures.append(f'{f.relative_to(root)}: canonical prev/index/next navigation incomplete')
 
-          # Validate local links in all managed invitation/nav/network blocks.
           for f in readmes + [x[2] for x in links]:
               text=f.read_text(encoding='utf-8')
-              blocks=[]
               for a,b in [(invite_start,invite_end),(nav_start,nav_end),('<!-- NEO_ALL_MANIFESTOS_START -->','<!-- NEO_ALL_MANIFESTOS_END -->')]:
                   m=re.search(re.escape(a)+r'(.*?)'+re.escape(b),text,re.S)
-                  if m: blocks.append(m.group(1))
-              for block in blocks:
-                  for href in link_re.findall(block):
+                  if not m: continue
+                  for href in link_re.findall(m.group(1)):
                       h=href.split('#',1)[0].strip()
                       if not h or h.startswith('/') or re.match(r'^[a-zA-Z][a-zA-Z0-9+.-]*:',h): continue
                       if not (f.parent/h).resolve().exists():
@@ -204,12 +191,10 @@ jobs:
           print('FILES_CHANGED=', len(set(changed)))
           for p in sorted(set(changed)):
               print('CHANGED', p.relative_to(root).as_posix())
-
           if failures:
               print('POSTCHECK FAIL')
               for x in failures: print(x)
               sys.exit(1)
-
           print('POSTCHECK OK: 51 canonical manifestos connected; all README/LEEME targets expose Open Synthesis; managed local links resolve')
           PY
 
@@ -235,9 +220,7 @@ jobs:
           git pull --rebase origin main
           rm -f .github/workflows/one-shot-sync-open-synthesis-and-manifesto-links.yml
           git add -A
-          if git diff --cached --quiet; then
-            exit 0
-          fi
+          if git diff --cached --quiet; then exit 0; fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git commit -m 'chore: remove completed Open Synthesis and manifesto-link one-shot'
