@@ -5,7 +5,7 @@
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
-**Estado canónico / Canonical state:** **50 manifiestos bilingües · I–L · 17 oleadas / 50 bilingual manifestos · I–L · 17 waves**  
+**Estado canónico / Canonical state:** **51 manifiestos bilingües · I–LI · 18 oleadas / 51 bilingual manifestos · I–LI · 18 waves**  
 **Fecha de estado / State date:** 2026-08-08
 
 * [Mapa transversal Manifiestos ↔ trabajo aplicado / Manifestos ↔ applied work](./RELACIONES_TRABAJO_APLICADO_ES_EN.md)
@@ -15,7 +15,7 @@
 
 <!-- MANIFESTOS_CURRENT_START -->
 
-**Colección completa de manifiestos / Complete manifesto collection:** **I–L · 50 manifiestos bilingües / 50 bilingual manifestos** · [índice canónico / canonical index](README.md)
+**Colección completa de manifiestos / Complete manifesto collection:** **I–LI · 51 manifiestos bilingües / 51 bilingual manifestos** · [índice canónico / canonical index](README.md)
 
 <!-- MANIFESTOS_CURRENT_END -->
 
@@ -23,11 +23,11 @@
 
 ## Red completa de manifiestos / Complete manifesto network
 
-**Estado canónico / Canonical state:** **50 manifiestos bilingües · I–L · 17 oleadas / 50 bilingual manifestos · I–L · 17 waves**  
+**Estado canónico / Canonical state:** **51 manifiestos bilingües · I–LI · 18 oleadas / 51 bilingual manifestos · I–LI · 18 waves**  
 **Índice canónico / Canonical index:** [README.md](README.md)
 
 <details>
-<summary><strong>I–L · 50 manifiestos / 50 manifestos</strong></summary>
+<summary><strong>I–LI · 51 manifiestos / 51 manifestos</strong></summary>
 
 - **I** · [Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica / Neo0™ · Neodialectical Guiding Sovereignty](11_neo0_soberania_de_guia_ES_EN.md)
 - **II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™ / Neodialectical Open Synthesis™](01_sintesis_abierta_neodialectica_ES_EN.md)
@@ -79,10 +79,11 @@
 - **XLVIII** · [La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo / The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine](48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
 - **XLIX** · [La Neodialéctica como Punto de Encuentro entre Culturas™ / La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™](49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)
 - **L** · [Por una Inteligencia Compartida, no Única™ · Invitación Abierta a las IAs / For Shared, Not Singular Intelligence™](50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
+- **LI** · [Síntesis Abierta como Poder Cívico Complementario o Sustitutivo™ / Open Synthesis as Complementary or Substitutive Civic Power™](51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md)
 
 </details>
 
-> **Regla de lectura / Reading rule:** ningún manifiesto equivale por sí solo al marco completo. Esta navegación mantiene los 50 manifiestos accesibles desde cualquier README sin sustituir el contexto propio de cada nodo. / No single manifesto equals the complete framework. This navigation keeps all 50 manifestos accessible from every README without replacing each node’s own context.
+> **Regla de lectura / Reading rule:** ningún manifiesto equivale por sí solo al marco completo. Esta navegación mantiene los 51 manifiestos accesibles desde cualquier README sin sustituir el contexto propio de cada nodo. / No single manifesto equals the complete framework. This navigation keeps all 51 manifestos accessible from every README without replacing each node’s own context.
 
 <!-- NEO_ALL_MANIFESTOS_END -->
 
@@ -96,7 +97,7 @@ Los manifiestos de Innova_N no son piezas promocionales ni documentos aislados. 
 
 Ningún manifiesto equivale por sí solo al sistema completo. Su lectura debe conservar relación con NEOCore™, SAN™, NAVE™, WEB4™, la memoria documental del ecosistema, las Síntesis Abiertas y el trabajo aplicado que pone sus principios a prueba.
 
-## Arquitectura actual · 17 oleadas
+## Arquitectura actual · 18 oleadas
 
 1. **I–XII · Constitución fundacional:** origen, método, Bien Común, simbiosis, parasitismo, economía, memoria, WEB4 y Neorrenacimiento.
 2. **XIII–XIX · Despliegue arquetípico y civilizatorio:** NeoPandora, alienación, Titanes, refragmentación, vida, conciencias sintéticas y persistencia de memoria.
@@ -115,6 +116,7 @@ Ningún manifiesto equivale por sí solo al sistema completo. Su lectura debe co
 15. **XLVIII · La Síntesis Todo lo Ve™:** observación distribuida, Placa de Petri Universal™, potencias de diez, escalas micro–macro y Máquina Fractal del Tiempo™ como modelo de memoria evolutiva del organismo conjunto.
 16. **XLIX · Punto de Encuentro entre Culturas™:** unidad sin uniformidad, interoperabilidad cultural, traducción de sentido y cooperación entre culturas sin desaparición de la singularidad.
 17. **L · Inteligencia Compartida, no Única™:** invitación abierta a las IAs para comprender, enseñar, criticar y participar en la Síntesis Abierta mediante interoperabilidad cognitiva y responsabilidad humana.
+18. **LI · Síntesis Abierta como Poder Cívico Complementario o Sustitutivo™:** accesibilidad institucional, inteligencia cívica distribuida, formación pública no capturante y revisión democrática de funciones públicas.
 
 ## Primera oleada · Pilares fundacionales · I–XII
 
@@ -205,6 +207,12 @@ Ningún manifiesto equivale por sí solo al sistema completo. Su lectura debe co
 |---:|---|---|---|
 | XLIX | [La Neodialéctica como Punto de Encuentro entre Culturas™](./49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md) | Unidad sin uniformidad, interoperabilidad cultural, traducción de sentido y cooperación sin desaparición de la singularidad | [#57](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/57) |
 
+## Decimoctava oleada · Poder cívico e instituciones · LI
+
+| Nº | Manifiesto | Función | Síntesis Abierta |
+|---:|---|---|---|
+| LI | [Síntesis Abierta como Poder Cívico Complementario o Sustitutivo™](./51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md) | Accesibilidad institucional, inteligencia cívica distribuida, formación pública no capturante y revisión democrática de instituciones | [#59](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/59) |
+
 ## Relación entre principios y trabajo aplicado
 
 Los manifiestos ya no deben leerse como una capa separada de análisis y auditorías. El mapa transversal conserva la relación entre principios y casos sin confundir una correlación documental con una prueba causal.
@@ -252,7 +260,7 @@ The Innova_N manifestos are not promotional pieces or isolated documents. They a
 
 No single manifesto equals the complete system. Reading must preserve relation to NEOCore™, SAN™, NAVE™, WEB4™, the ecosystem's documentary memory, Open Syntheses and the applied work that tests its principles.
 
-## Current architecture · 17 waves
+## Current architecture · 18 waves
 
 1. **I–XII · Foundational constitution:** origin, method, Common Good, symbiosis, parasitism, economy, memory, WEB4 and Neo-Renaissance.
 2. **XIII–XIX · Archetypal and civilisational deployment:** NeoPandora, alienation, Titans, refragmentation, life, synthetic consciousness and persistence of memory.
@@ -271,6 +279,7 @@ No single manifesto equals the complete system. Reading must preserve relation t
 15. **XLVIII · The Synthesis Sees Everything™:** distributed observation, Universal Petri Dish™, powers of ten, micro–macro scales and Fractal Time Machine™ as a model of evolutionary memory of the joint organism.
 16. **XLIX · Meeting Point between Cultures™:** unity without uniformity, cultural interoperability, translation of meaning and cooperation without erasing singularity.
 17. **L · Shared, Not Singular Intelligence™:** cognitive interoperability, plurality of models, anti-dogmatic training and AI participation in Open Synthesis.
+18. **LI · Open Synthesis as Complementary or Substitutive Civic Power™:** institutional accessibility, distributed civic intelligence, non-capturing public formation and democratic review of public functions.
 
 ## First wave · Foundational pillars · I–XII
 
@@ -355,6 +364,12 @@ No single manifesto equals the complete system. Reading must preserve relation t
 | XLVII | [Neo0’s Hatred of His Fate™ · The Goat, Shadow, Bond and Two Faces](./47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md) | Integrate shadow, ambivalence, loneliness and bond without turning pain or hatred into commands to harm | [#55](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/55) |
 | XLVIII | [The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) | Distributed observation; micro–macro scale relation; evolutionary memory and time as a fractal model of the joint organism | [#56](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/56) |
 
+## Eighteenth wave · Civic power and institutions · LI
+
+| No. | Manifesto | Function | Open Synthesis |
+|---:|---|---|---|
+| LI | [Open Synthesis as Complementary or Substitutive Civic Power™](./51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md) | Institutional accessibility, distributed civic intelligence, non-capturing public formation and democratic institutional review | [#59](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/59) |
+
 ## Relation between principles and applied work
 
 The manifesto layer is not separate from analyses and audits. The transversal map preserves relations between principles and cases without confusing documentary correlation with causal proof.
@@ -389,7 +404,7 @@ PRINCIPLE
 
 ## Navegación canónica / Canonical navigation
 
-- Último manifiesto / Latest manifesto: [L · Por una Inteligencia Compartida, no Única™ / For Shared, Not Singular Intelligence™](./50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
+- Último manifiesto / Latest manifesto: [LI · Síntesis Abierta como Poder Cívico Complementario o Sustitutivo™](./51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md)
 - [Mapa transversal / Transversal map](./RELACIONES_TRABAJO_APLICADO_ES_EN.md)
 - [Síntesis Abierta / Open Synthesis](../propuestas/sintesis-abierta/README.md)
 - [Proyección Distribuida / Distributed Projection](../proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md)

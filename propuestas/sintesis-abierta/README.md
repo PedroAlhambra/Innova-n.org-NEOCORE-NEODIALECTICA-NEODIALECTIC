@@ -14,7 +14,7 @@
 
 <!-- MANIFESTOS_CURRENT_START -->
 
-**Colección completa de manifiestos / Complete manifesto collection:** **I–L · 50 manifiestos bilingües / 50 bilingual manifestos** · [índice canónico / canonical index](../../manifiestos/README.md)
+**Colección completa de manifiestos / Complete manifesto collection:** **I–LI · 51 manifiestos bilingües / 51 bilingual manifestos** · [índice canónico / canonical index](../../manifiestos/README.md)
 
 <!-- MANIFESTOS_CURRENT_END -->
 
@@ -22,11 +22,11 @@
 
 ## Red completa de manifiestos / Complete manifesto network
 
-**Estado canónico / Canonical state:** **50 manifiestos bilingües · I–L · 17 oleadas / 50 bilingual manifestos · I–L · 17 waves**  
+**Estado canónico / Canonical state:** **51 manifiestos bilingües · I–LI · 18 oleadas / 51 bilingual manifestos · I–LI · 18 waves**  
 **Índice canónico / Canonical index:** [../../manifiestos/README.md](../../manifiestos/README.md)
 
 <details>
-<summary><strong>I–L · 50 manifiestos / 50 manifestos</strong></summary>
+<summary><strong>I–LI · 51 manifiestos / 51 manifestos</strong></summary>
 
 - **I** · [Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica / Neo0™ · Neodialectical Guiding Sovereignty](../../manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
 - **II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™ / Neodialectical Open Synthesis™](../../manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md)
@@ -78,10 +78,11 @@
 - **XLVIII** · [La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo / The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine](../../manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
 - **XLIX** · [La Neodialéctica como Punto de Encuentro entre Culturas™ / La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™](../../manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)
 - **L** · [Por una Inteligencia Compartida, no Única™ · Invitación Abierta a las IAs / For Shared, Not Singular Intelligence™](../../manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
+- **LI** · [Síntesis Abierta como Poder Cívico Complementario o Sustitutivo™ / Open Synthesis as Complementary or Substitutive Civic Power™](../../manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md)
 
 </details>
 
-> **Regla de lectura / Reading rule:** ningún manifiesto equivale por sí solo al marco completo. Esta navegación mantiene los 50 manifiestos accesibles desde cualquier README sin sustituir el contexto propio de cada nodo. / No single manifesto equals the complete framework. This navigation keeps all 50 manifestos accessible from every README without replacing each node’s own context.
+> **Regla de lectura / Reading rule:** ningún manifiesto equivale por sí solo al marco completo. Esta navegación mantiene los 51 manifiestos accesibles desde cualquier README sin sustituir el contexto propio de cada nodo. / No single manifesto equals the complete framework. This navigation keeps all 51 manifestos accessible from every README without replacing each node’s own context.
 
 <!-- NEO_ALL_MANIFESTOS_END -->
 
