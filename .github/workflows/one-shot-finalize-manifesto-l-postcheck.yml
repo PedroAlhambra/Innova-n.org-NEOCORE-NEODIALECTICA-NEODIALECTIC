@@ -27,6 +27,11 @@ jobs:
           s = s.replace('We need systems able to declare uncertainty, preserve provenance, identify disagreement, provide sources, recognise limits, contrast other syntheses, correct themselves and return unresolved questions to humans.', 'We need systems able to declare uncertainty, preserve provenance, identify disagreement, provide sources and verifiable justifications where possible, recognise limits, contrast other syntheses, correct themselves and return unresolved questions to humans.')
           mf.write_text(s, encoding='utf-8')
 
+          xlix = Path('manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md')
+          s = xlix.read_text(encoding='utf-8')
+          s = s.replace('./32_reversion_ideologica_ES_EN.md', './32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md')
+          xlix.write_text(s, encoding='utf-8')
+
           for p in [Path('README.md'), Path('LEEME.md')]:
               s = p.read_text(encoding='utf-8')
               s = s.replace('50 manifiestos bilingües · I–L · dieciséis oleadas', '50 manifiestos bilingües · I–L · diecisiete oleadas')
@@ -58,6 +63,7 @@ jobs:
             if not p.exists(): errors.append(f'missing {p}')
           req={
             files[0]:['# ES · Castellano','# EN · English','Principio de Antidogma Algorítmico™','Algorithmic Anti-Dogma Principle™','issues/58','VALIDACIÓN HUMANA','HUMAN VALIDATION','justificaciones, fuentes y criterios verificables','verifiable justifications'],
+            files[1]:['./32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md','./50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md'],
             files[2]:['50 manifiestos bilingües · I–L · 17 oleadas','50 bilingual manifestos · I–L · 17 waves','## Decimoséptima oleada','## Seventeenth wave','issues/58'],
             files[4]:['I–L','50 manifiestos','issues/58'],
             files[5]:['I–L','50','L ·'],
@@ -68,8 +74,6 @@ jobs:
             txt=p.read_text(encoding='utf-8')
             for x in need:
               if x not in txt: errors.append(f'{p} missing {x}')
-          prev=files[1].read_text(encoding='utf-8')
-          if './50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md' not in prev: errors.append('XLIX missing L link')
           rel=files[3].read_text(encoding='utf-8')
           if '50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md' not in rel or 'issues/58' not in rel: errors.append('relation map missing L')
 
@@ -94,7 +98,7 @@ jobs:
           if ! git diff --quiet; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-            git add README.md LEEME.md manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md
+            git add README.md LEEME.md manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md
             git commit -m 'docs: finalize manifesto L postcheck corrections'
             git push
           fi
