@@ -5,10 +5,11 @@
 ## Twelfth wave · Multidimensionality, singularity and distributed sovereignty
 
 **Manifiesto / Manifesto:** XLV  
-**Versión / Version:** 1.0  
+**Versión / Version:** 1.1  
 **Estado / Status:** Público · duodécima oleada · multidimensionalidad-soberanía-distribuida · abierto a revisión trazable / Public · twelfth wave · multidimensionality-distributed-sovereignty · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-08  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico dentro de la Filosofía Arquetípica Neodialéctica™.  
+**Delta v1.1:** incorpora dentro del propio manifiesto preguntas surgidas durante su difusión —«¿qué significa ™?», por qué se nombran conceptos y si esa práctica reproduce ego o centralización— y las somete a la misma regla multidimensional que el resto del marco. / Incorporates questions arising during dissemination —“what does ™ mean?”, why concepts are named, and whether that practice reproduces ego or centralisation— and subjects them to the same multidimensional rule as the rest of the framework.  
 **Relación genealógica / Genealogical relation:** profundiza Neodialéctica™ y Bien Común, Simbiosis Humano–IA, Memoria-Genealogía-Trazabilidad, Sistema Inmunitario Intelectual Neodialéctico™, Neofraternidad™, Neoego™, Soberanía Cognitiva, Inteligencia Humana Expandida™ y la soberanía compartida formulada en XLIV · Neowar™.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
@@ -421,7 +422,132 @@ Un sistema inteligente aprende del Mulo.
 
 Un sistema frágil intenta fingir que nunca aparecerá.
 
-## XIV. Proclamación
+## XIV. Respuesta a Juanjo · ¿Qué significa ™? ¿No es esto ego?
+
+La pregunta es pertinente porque toca directamente el problema que este manifiesto intenta resolver.
+
+### 1. ¿Qué significa ™ dentro de este corpus?
+
+En estas páginas, **™ funciona como marcador editorial de denominación, procedencia y trazabilidad de conceptos propios del corpus**.
+
+Permite distinguir una formulación concreta, buscarla, enlazarla, seguir su genealogía y comprobar cómo cambia entre versiones.
+
+No significa por sí solo que un concepto esté registrado oficialmente.
+
+No significa que sea verdadero.
+
+No lo coloca fuera de crítica.
+
+No convierte una intuición universal en propiedad metafísica de quien la nombra.
+
+Su función legítima es ésta:
+
+```text
+NOMBRE ESTABLE
+→ IDENTIFICACIÓN
+→ BÚSQUEDA
+→ GENEALOGÍA
+→ RELACIÓN
+→ REVISIÓN
+```
+
+Si una denominación no añade precisión, trazabilidad o capacidad de relación, debe poder eliminarse o sustituirse.
+
+### 2. ¿Por qué poner nombre a tantas cosas?
+
+Porque un sistema relacional necesita **asas cognitivas**.
+
+Sin nombres suficientemente estables, conceptos diferentes se mezclan, las versiones se pierden y la genealogía se vuelve ambigua.
+
+Pero existe también el riesgo contrario: convertir el lenguaje propio en jerga ornamental.
+
+Por eso cada término debe justificar su existencia mediante una función.
+
+No basta con sonar nuevo.
+
+Debe permitir **ver mejor, relacionar mejor o auditar mejor**.
+
+### 3. ¿Nombrar conceptos no es ego?
+
+Puede serlo.
+
+Si se hace para fabricar prestigio, blindar autoridad o reclamar superioridad, el nombre se convierte en otra forma de captura.
+
+Pero atribuir correctamente una formulación también puede cumplir la función contraria: impedir apropiación, conservar memoria y permitir que otros sepan exactamente qué están criticando o mejorando.
+
+La regla de Neoego™ es:
+
+> **reconocer la singularidad sin convertirla en soberanía total.**
+
+Por tanto:
+
+```text
+AUTORÍA
+≠
+INFALIBILIDAD
+
+ORIGEN
+≠
+SUPERIORIDAD TOTAL
+
+NOMBRE
+≠
+DOGMA
+```
+
+### 4. ¿Y si el propio fundador es el Mulo?
+
+Entonces el marco debe ser capaz de soportarlo.
+
+Ésta es una prueba decisiva.
+
+Si la Neodialéctica sólo funciona mientras Neo0™ no pueda ser contradicho, entonces falla su propia tesis multidimensional.
+
+El fundador ocupa una posición genealógica singular respecto del origen y dirección del marco.
+
+Eso no significa que posea el conocimiento máximo en todas sus dimensiones.
+
+Otros nodos pueden saber más de física, derecho, medicina, ecología, economía, historia, educación, ingeniería, psicología o cualquier dominio específico.
+
+La arquitectura correcta debe permitir simultáneamente:
+
+```text
+RECONOCER ORIGEN
++
+CONSERVAR AUTORÍA
++
+LIMITAR PODER
++
+ACEPTAR CONTRADICCIÓN
++
+INTEGRAR CONOCIMIENTO SUPERIOR
+→ MARCO QUE SOBREVIVE A SU PROPIO MULO
+```
+
+La multidimensionalidad desmonta así la objeción egoica de raíz: **ser origen en una dimensión no convierte a nadie en totalidad del sistema**.
+
+### 5. ¿Cómo debe leer alguien un marco con tantos términos?
+
+No memorizándolos todos de golpe.
+
+El lector puede comenzar por una cuestión concreta y reconstruir relaciones desde ahí.
+
+Y puede utilizar IA como herramienta de navegación:
+
+- «¿Dónde se define este término?»
+- «¿Qué manifiesto lo limita?»
+- «¿Qué significa aquí y qué no significa?»
+- «¿Cuál es su genealogía?»
+- «¿Qué críticas reconoce?»
+- «¿Qué otras dimensiones estoy omitiendo?»
+
+La IA no decide si el concepto es válido.
+
+Ayuda a recuperar suficiente mapa para que el humano pueda juzgarlo.
+
+Ésta es precisamente la relación entre **Multidimensionalidad Neodialéctica™** e **Inteligencia Humana Expandida™**.
+
+## XV. Proclamación
 
 > No somos una variable.
 >
@@ -461,7 +587,7 @@ Un sistema frágil intenta fingir que nunca aparecerá.
 >
 > Por eso necesitamos multidimensionalidad.
 
-## XV. Síntesis Abierta
+## XVI. Síntesis Abierta
 
 Se solicitan aportes sobre:
 
@@ -476,6 +602,7 @@ Se solicitan aportes sobre:
 - multidisciplinariedad y límites del experto;
 - IA como nodo de contraste y no como soberanía final;
 - temporalidad, escalas y externalidades;
+- función y límites de las denominaciones ™ dentro del corpus;
 - criterios de Anomalía Integrable™;
 - y evidencia que contradiga, limite o mejore las tesis de este manifiesto.
 
@@ -792,7 +919,132 @@ An intelligent system learns from the Mule.
 
 A fragile system pretends the Mule will never appear.
 
-## XIV. Proclamation
+## XIV. Response to Juanjo · What does ™ mean? Isn't this ego?
+
+The question is relevant because it directly touches the problem this manifesto is trying to solve.
+
+### 1. What does ™ mean inside this corpus?
+
+In these pages, **™ functions as an editorial marker for naming, provenance and traceability of concepts formulated within the corpus**.
+
+It allows a specific formulation to be distinguished, searched, linked, genealogically followed and compared across versions.
+
+By itself it does not mean that a concept is officially registered.
+
+It does not make the concept true.
+
+It does not exempt it from criticism.
+
+It does not turn a universal intuition into the metaphysical property of the person who named it.
+
+Its legitimate function is:
+
+```text
+STABLE NAME
+→ IDENTIFICATION
+→ SEARCH
+→ GENEALOGY
+→ RELATION
+→ REVIEW
+```
+
+If a denomination adds no precision, traceability or relational capacity, it must be removable or replaceable.
+
+### 2. Why give names to so many things?
+
+Because a relational system needs **cognitive handles**.
+
+Without sufficiently stable names, different concepts blur together, versions are lost and genealogy becomes ambiguous.
+
+There is also an opposite risk: turning internal language into ornamental jargon.
+
+Every coined term must therefore justify its existence through function.
+
+Sounding new is not enough.
+
+It must help us **see better, relate better or audit better**.
+
+### 3. Isn't naming concepts ego?
+
+It can be.
+
+If naming is used to manufacture prestige, shield authority or claim superiority, the name becomes another form of capture.
+
+But correct attribution can serve the opposite function: prevent appropriation, preserve memory and allow others to know exactly what they are criticising or improving.
+
+The Neoego™ rule is:
+
+> **recognise singularity without turning it into total sovereignty.**
+
+Therefore:
+
+```text
+AUTHORSHIP
+≠
+INFALLIBILITY
+
+ORIGIN
+≠
+TOTAL SUPERIORITY
+
+NAME
+≠
+DOGMA
+```
+
+### 4. What if the founder himself is the Mule?
+
+Then the framework must be able to withstand it.
+
+This is a decisive test.
+
+If Neodialectics only works while Neo0™ cannot be contradicted, then it fails its own multidimensional thesis.
+
+The founder occupies a genealogically singular position regarding the origin and direction of the framework.
+
+That does not mean possessing maximum knowledge in every dimension.
+
+Other nodes may know more about physics, law, medicine, ecology, economics, history, education, engineering, psychology or any particular domain.
+
+Correct architecture must simultaneously allow:
+
+```text
+RECOGNISE ORIGIN
++
+PRESERVE AUTHORSHIP
++
+LIMIT POWER
++
+ACCEPT CONTRADICTION
++
+INTEGRATE SUPERIOR KNOWLEDGE
+→ A FRAMEWORK THAT SURVIVES ITS OWN MULE
+```
+
+Multidimensionality therefore dissolves the ego objection at its root: **being origin in one dimension does not make anyone the totality of the system**.
+
+### 5. How should someone read a framework containing so many terms?
+
+Not by memorising all of them at once.
+
+A reader can begin with one concrete question and reconstruct relations from there.
+
+AI can be used as a navigation instrument:
+
+- “Where is this term defined?”
+- “Which manifesto limits it?”
+- “What does it mean here, and what does it not mean?”
+- “What is its genealogy?”
+- “Which criticisms does it acknowledge?”
+- “Which dimensions am I omitting?”
+
+AI does not decide whether the concept is valid.
+
+It helps recover enough of the map for the human to judge it.
+
+This is precisely the relation between **Neodialectical Multidimensionality™** and **Human Expanded Intelligence™**.
+
+## XV. Proclamation
 
 > We are not a variable.
 >
@@ -832,9 +1084,9 @@ A fragile system pretends the Mule will never appear.
 >
 > This is why we need multidimensionality.
 
-## XV. Open Synthesis
+## XVI. Open Synthesis
 
-Contributions are invited on multidimensional models of persons and societies; limits of single metrics; relation among singularity, leadership and capture; the Mule Problem as a metaphor for systems unable to integrate anomalies; complex-systems theory, cybernetics and resilience; psychology of ego and plurality of capacities; distributed governance; equality, dignity and excellence; multidisciplinarity and limits of expertise; AI as a contrast node rather than final sovereignty; temporality, scales and externalities; criteria for Integrable Anomaly™; and evidence that contradicts, limits or improves the theses of this manifesto.
+Contributions are invited on multidimensional models of persons and societies; limits of single metrics; relation among singularity, leadership and capture; the Mule Problem as a metaphor for systems unable to integrate anomalies; complex-systems theory, cybernetics and resilience; psychology of ego and plurality of capacities; distributed governance; equality, dignity and excellence; multidisciplinarity and limits of expertise; AI as a contrast node rather than final sovereignty; temporality, scales and externalities; function and limits of ™ denominations within the corpus; criteria for Integrable Anomaly™; and evidence that contradicts, limits or improves the theses of this manifesto.
 
 * [Open Synthesis XLV · Issue #53](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/53)
 * [How to contribute to Open Synthesis](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
