@@ -681,10 +681,24 @@ Every contribution requires source, context, genealogy, separation between fact 
 
 ## Navigation
 
-← [XXXIII · IDEA · Civilisational Cornerstone and Rosetta Stone™](./33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md) · [Index](./README.md) · [XXXV · Against Media Absurdity and the Conflict Economy™](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) →
+← [XXXIII · IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](./33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md) · [Index](./README.md) · [XXXV · Against Media Absurdity and the Conflict Economy™](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) →
 
 ---
 
 **Pedro Martínez Alhambra · Neo0™ · Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™**  
 **Pedro Martínez Alhambra · Neo0™ · Operational Utility of the Framework and Perpetual Joint Audit™**  
 **© 2026 Pedro Martínez Alhambra · Fundación Innova_N / Innova_N Foundation**
+
+<!-- NEO_RELATED_WORK_START -->
+## Trabajo aplicado y casos relacionados / Applied work and related cases
+
+Este manifiesto es el nodo de unión entre teoría y expedientes. Los enlaces siguientes son casos de aplicación y autocorrección, no certificaciones universales del marco. / This manifesto is the bridge between theory and case files. The following links are applications and self-corrections, not universal certifications of the framework.
+
+- [Índice de auditorías públicas](../auditorias/publicas/README.md).
+- [KDP–Author Central–IDEA · auditoría maestra](../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md).
+- [KDP 51071689 · estado técnico actual](../auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md) — el estado técnico permanece sin explicación causal completa / the technical state remains without a complete causal explanation.
+- [Spotify–DistroKid · cierre circular y escalado](../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md) — expediente abierto / open case.
+- [MAXPROC · Protección Integral de la Infancia](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md).
+- [Serie España–Marruecos · Parte IV](../analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md).
+- [Mapa transversal completo](./RELACIONES_TRABAJO_APLICADO_ES_EN.md#manifiesto-xxxiv)
+<!-- NEO_RELATED_WORK_END -->
