@@ -4,16 +4,20 @@ on:
   push:
     paths:
       - '.github/workflows/one-shot-sync-manifesto-52-citizenship.yml'
+  issue_comment:
+    types: [created]
 
 permissions:
   contents: write
 
 jobs:
   sync:
+    if: github.event_name == 'push' || (github.event_name == 'issue_comment' && github.event.issue.number == 64 && contains(github.event.comment.body, 'SYNC-LII-64'))
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
       - name: Synchronize LII and recent relations
         run: python .github/scripts/sync_manifesto_52_citizenship_and_recent_relations.py
