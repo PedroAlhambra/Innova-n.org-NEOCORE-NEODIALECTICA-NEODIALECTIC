@@ -1,0 +1,41 @@
+name: Correlation runner
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/kick-correlation.yml
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Execute prepared correlation script
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import textwrap
+          src = Path('.github/workflows/correlate-manifestos-applied-work.yml').read_text(encoding='utf-8')
+          start = src.index("          python3 - <<'PY'\n") + len("          python3 - <<'PY'\n")
+          end = src.index("\n          PY\n", start)
+          code = textwrap.dedent(src[start:end])
+          exec(compile(code, 'correlate_manifestos_applied_work.py', 'exec'), {'__name__':'__main__'})
+          runner = Path('.github/workflows/kick-correlation.yml')
+          if runner.exists():
+              runner.unlink()
+          PY
+      - name: Commit generated relational layer
+        shell: bash
+        run: |
+          git config user.name "Innova_N Documentation Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git commit -m "docs: correlate manifestos with applied work and repair canonical map"
+          git push origin HEAD:main
