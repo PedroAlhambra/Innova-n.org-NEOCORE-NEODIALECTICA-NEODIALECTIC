@@ -3,7 +3,7 @@
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
-**Cobertura canónica / Canonical coverage:** **48 manifiestos · I–XLVIIIIII / 48 manifestos · I–XLVIIIIII**  
+**Cobertura canónica / Canonical coverage:** **48 manifiestos · I–XLVIII / 48 manifestos · I–XLVIII**  
 **Estado / Status:** 2026-08-08
 
 * [Índice canónico de manifiestos / Canonical manifesto index](../../manifiestos/README.md)
@@ -11,6 +11,12 @@
 * [Protocolo operativo de aporte / Operational contribution protocol](./APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Plantilla de aporte / Contribution template](../../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
 
+
+<!-- MANIFESTOS_CURRENT_START -->
+
+**Colección completa de manifiestos / Complete manifesto collection:** **I–XLVIII · 48 manifiestos bilingües / 48 bilingual manifestos** · [índice canónico / canonical index](../../manifiestos/README.md)
+
+<!-- MANIFESTOS_CURRENT_END -->
 ---
 
 # ES · Castellano

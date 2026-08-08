@@ -112,13 +112,19 @@ The Wiki does not need to be updated for every new document. It is sufficient fo
 
 <!-- NEO_CURRENT_NAV_START -->
 
+
+<!-- MANIFESTOS_CURRENT_START -->
+
+**Colección completa de manifiestos / Complete manifesto collection:** **I–XLVIII · 48 manifiestos bilingües / 48 bilingual manifestos** · [índice canónico / canonical index](../manifiestos/README.md)
+
+<!-- MANIFESTOS_CURRENT_END -->
 ---
 
 ## Estado canónico actual · Current canonical state
 
 **Neodialectica Framework™ / Network · Innova_N · NEOCore™**
 
-- Colección pública actual: **45 manifiestos bilingües · I–XLVIII · doce oleadas** / Current public collection: **45 bilingual manifestos · I–XLVIII · twelve waves**.
+- Colección pública actual: **48 manifiestos bilingües · I–XLVIII · doce oleadas** / Current public collection: **48 bilingual manifestos · I–XLVIII · twelve waves**.
 - Último manifiesto / Latest manifesto: [XLV · Multidimensionalidad Neodialéctica™ · Neodialectical Multidimensionality™](../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md).
 - Índice completo / Complete index: [Manifiestos / Manifestos](../manifiestos/README.md).
 - Contraste público / Public contrast: [Síntesis Abierta / Open Synthesis](../propuestas/sintesis-abierta/README.md).

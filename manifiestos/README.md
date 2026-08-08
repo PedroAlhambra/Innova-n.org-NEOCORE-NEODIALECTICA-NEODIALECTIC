@@ -5,13 +5,19 @@
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
-**Estado canónico / Canonical state:** **48 manifiestos bilingües · I–XLVIIIIII · 15 oleadas / 48 bilingual manifestos · I–XLVIIIIII · 15 waves**  
+**Estado canónico / Canonical state:** **48 manifiestos bilingües · I–XLVIII · 15 oleadas / 48 bilingual manifestos · I–XLVIII · 15 waves**  
 **Fecha de estado / State date:** 2026-08-08
 
 * [Mapa transversal Manifiestos ↔ trabajo aplicado / Manifestos ↔ applied work](./RELACIONES_TRABAJO_APLICADO_ES_EN.md)
 * [Protocolo de aporte a la Síntesis Abierta / Open Synthesis contribution protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Índice operativo de Síntesis Abierta / Open Synthesis index](../propuestas/sintesis-abierta/README.md)
 
+
+<!-- MANIFESTOS_CURRENT_START -->
+
+**Colección completa de manifiestos / Complete manifesto collection:** **I–XLVIII · 48 manifiestos bilingües / 48 bilingual manifestos** · [índice canónico / canonical index](README.md)
+
+<!-- MANIFESTOS_CURRENT_END -->
 ---
 
 # ES · Castellano

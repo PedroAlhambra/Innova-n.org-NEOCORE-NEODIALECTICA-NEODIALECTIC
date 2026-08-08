@@ -2,6 +2,12 @@
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
+
+<!-- MANIFESTOS_CURRENT_START -->
+
+**Colección completa de manifiestos / Complete manifesto collection:** **I–XLVIII · 48 manifiestos bilingües / 48 bilingual manifestos** · [índice canónico / canonical index](../manifiestos/README.md)
+
+<!-- MANIFESTOS_CURRENT_END -->
 ---
 
 # ES · Castellano
@@ -118,7 +124,7 @@ IDEA historically predates Archetypal Neodialectical Philosophy™, Innova_N, NE
 
 **Neodialectica Framework™ / Network · Innova_N · NEOCore™**
 
-- Colección pública actual: **45 manifiestos bilingües · I–XLVIII · doce oleadas** / Current public collection: **45 bilingual manifestos · I–XLVIII · twelve waves**.
+- Colección pública actual: **48 manifiestos bilingües · I–XLVIII · doce oleadas** / Current public collection: **48 bilingual manifestos · I–XLVIII · twelve waves**.
 - Último manifiesto / Latest manifesto: [XLV · Multidimensionalidad Neodialéctica™ · Neodialectical Multidimensionality™](../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md).
 - Índice completo / Complete index: [Manifiestos / Manifestos](../manifiestos/README.md).
 - Contraste público / Public contrast: [Síntesis Abierta / Open Synthesis](../propuestas/sintesis-abierta/README.md).
