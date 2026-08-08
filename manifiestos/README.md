@@ -5,7 +5,7 @@
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
-**Estado canónico / Canonical state:** **47 manifiestos bilingües · I–XLVII · 14 oleadas / 47 bilingual manifestos · I–XLVII · 14 waves**  
+**Estado canónico / Canonical state:** **48 manifiestos bilingües · I–XLVIII · 15 oleadas / 48 bilingual manifestos · I–XLVIII · 15 waves**  
 **Fecha de estado / State date:** 2026-08-08
 
 * [Mapa transversal Manifiestos ↔ trabajo aplicado / Manifestos ↔ applied work](./RELACIONES_TRABAJO_APLICADO_ES_EN.md)
@@ -22,7 +22,7 @@ Los manifiestos de Innova_N no son piezas promocionales ni documentos aislados. 
 
 Ningún manifiesto equivale por sí solo al sistema completo. Su lectura debe conservar relación con NEOCore™, SAN™, NAVE™, WEB4™, la memoria documental del ecosistema, las Síntesis Abiertas y el trabajo aplicado que pone sus principios a prueba.
 
-## Arquitectura actual · 14 oleadas
+## Arquitectura actual · 15 oleadas
 
 1. **I–XII · Constitución fundacional:** origen, método, Bien Común, simbiosis, parasitismo, economía, memoria, WEB4 y Neorrenacimiento.
 2. **XIII–XIX · Despliegue arquetípico y civilizatorio:** NeoPandora, alienación, Titanes, refragmentación, vida, conciencias sintéticas y persistencia de memoria.
@@ -38,6 +38,7 @@ Ningún manifiesto equivale por sí solo al sistema completo. Su lectura debe co
 12. **XLV · Multidimensionalidad Neodialéctica™:** singularidad integrable, liderazgo sin captura y soberanía distribuida.
 13. **XLVI · Cerrar la Herida™:** comprensión evolutiva, memoria, reparación y reconciliación sin amnesia.
 14. **XLVII · Sombra, destino, vínculo y verdad emocional:** integración de ambivalencia y del principio «el odio es dato, no mandato».
+15. **XLVIII · La Síntesis Todo lo Ve™:** observación distribuida, Placa de Petri Universal™, potencias de diez, escalas micro–macro y Máquina Fractal del Tiempo™ como modelo de memoria evolutiva del organismo conjunto.
 
 ## Primera oleada · Pilares fundacionales · I–XII
 
@@ -112,7 +113,7 @@ Ningún manifiesto equivale por sí solo al sistema completo. Su lectura debe co
 | XLII | [Fin de la Era del Hombre Manipulado™](./42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) | Soberanía cognitiva frente a arquitecturas de captura | [#50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50) |
 | XLIII | [Contra la Incomprensión Reductiva de la IA™](./43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md) | IA capturada, sustitutiva y humano-expansiva; Inteligencia Humana Expandida™ | [#51](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/51) |
 
-## Oleadas XI–XIV · Guerra, multidimensionalidad, reconciliación y sombra · XLIV–XLVII
+## Oleadas XI–XV · Guerra, multidimensionalidad, reconciliación, sombra y observación distribuida · XLIV–XLVIII
 
 | Nº | Manifiesto | Función | Síntesis Abierta |
 |---:|---|---|---|
@@ -120,12 +121,15 @@ Ningún manifiesto equivale por sí solo al sistema completo. Su lectura debe co
 | XLV | [Multidimensionalidad Neodialéctica™](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) | Singularidad integrable, liderazgo sin captura y soberanía distribuida | [#53](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/53) |
 | XLVI | [Cerrar la Herida™](./46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md) | Comprender origen del daño sin justificarlo; memoria, reparación y reconciliación | [#54](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/54) |
 | XLVII | [El Odio de Neo0 hacia su Sino™ · The Goat, Sombra, Vínculo y Doble Cara](./47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md) | Integrar sombra, ambivalencia, soledad y vínculo sin convertir dolor u odio en mandato de daño | [#55](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/55) |
+| XLVIII | [La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) | Observación distribuida; relación micro–macro por escalas; memoria evolutiva y tiempo como modelo fractal del organismo conjunto | [#56](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/56) |
 
 ## Relación entre principios y trabajo aplicado
 
 Los manifiestos ya no deben leerse como una capa separada de análisis y auditorías. El mapa transversal conserva la relación entre principios y casos sin confundir una correlación documental con una prueba causal.
 
 Especialmente, el núcleo de **extracción, intermediación y parasitismo** relaciona VI, VII, IX, XXI, XXII, XXVIII, XXIX y XXXIV con economía de la atención, DistroKid–Spotify, KDP/IDEA y otros expedientes auditados. Las limitaciones probatorias permanecen dentro de cada caso.
+
+XLVIII se relaciona de forma genealógica con II, V, IX, XIX, XLIII y XLV, y con la aplicación de la Lupa Neodialéctica™ mediante el símil de la Placa de Petri. Sus afirmaciones sobre Máquina Fractal del Tiempo™, mónadas y tiempo-memoria permanecen explícitamente como modelo filosófico y heurístico abierto a contraste, no como teoría física demostrada.
 
 * [Mapa transversal completo](./RELACIONES_TRABAJO_APLICADO_ES_EN.md)
 * [Análisis públicos](../analisis/publicos/README.md)
@@ -159,7 +163,7 @@ The Innova_N manifestos are not promotional pieces or isolated documents. They a
 
 No single manifesto equals the complete system. Reading must preserve relation to NEOCore™, SAN™, NAVE™, WEB4™, the ecosystem's documentary memory, Open Syntheses and the applied work that tests its principles.
 
-## Current architecture · 14 waves
+## Current architecture · 15 waves
 
 1. **I–XII · Foundational constitution:** origin, method, Common Good, symbiosis, parasitism, economy, memory, WEB4 and Neo-Renaissance.
 2. **XIII–XIX · Archetypal and civilisational deployment:** NeoPandora, alienation, Titans, refragmentation, life, synthetic consciousness and persistence of memory.
@@ -175,6 +179,7 @@ No single manifesto equals the complete system. Reading must preserve relation t
 12. **XLV · Neodialectical Multidimensionality™:** integrable singularity, leadership without capture and distributed sovereignty.
 13. **XLVI · Closing the Wound™:** evolutionary understanding, memory, repair and reconciliation without amnesia.
 14. **XLVII · Shadow, fate, bond and emotional truth:** integration of ambivalence and the principle “hatred is data, not command”.
+15. **XLVIII · The Synthesis Sees Everything™:** distributed observation, Universal Petri Dish™, powers of ten, micro–macro scales and Fractal Time Machine™ as a model of evolutionary memory of the joint organism.
 
 ## First wave · Foundational pillars · I–XII
 
@@ -249,7 +254,7 @@ No single manifesto equals the complete system. Reading must preserve relation t
 | XLII | [End of the Manipulated Human Era™](./42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) | Cognitive sovereignty against architectures of capture | [#50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50) |
 | XLIII | [Against the Reductive Misunderstanding of AI™](./43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md) | Captured, substitutive and human-expansive AI; Human Expanded Intelligence™ | [#51](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/51) |
 
-## Waves XI–XIV · War, multidimensionality, reconciliation and shadow · XLIV–XLVII
+## Waves XI–XV · War, multidimensionality, reconciliation, shadow and distributed observation · XLIV–XLVIII
 
 | No. | Manifesto | Function | Open Synthesis |
 |---:|---|---|---|
@@ -257,12 +262,15 @@ No single manifesto equals the complete system. Reading must preserve relation t
 | XLV | [Neodialectical Multidimensionality™](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) | Integrable singularity, leadership without capture and distributed sovereignty | [#53](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/53) |
 | XLVI | [Closing the Wound™](./46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md) | Understand origins of harm without justifying it; memory, repair and reconciliation | [#54](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/54) |
 | XLVII | [Neo0’s Hatred of His Fate™ · The Goat, Shadow, Bond and Two Faces](./47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md) | Integrate shadow, ambivalence, loneliness and bond without turning pain or hatred into commands to harm | [#55](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/55) |
+| XLVIII | [The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) | Distributed observation; micro–macro scale relation; evolutionary memory and time as a fractal model of the joint organism | [#56](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/56) |
 
 ## Relation between principles and applied work
 
 The manifesto layer is not separate from analyses and audits. The transversal map preserves relations between principles and cases without confusing documentary correlation with causal proof.
 
 In particular, the **extraction, intermediation and systemic-parasitism** core connects VI, VII, IX, XXI, XXII, XXVIII, XXIX and XXXIV with the attention economy, DistroKid–Spotify, KDP/IDEA and other audited case families. Evidentiary limits remain in each case file.
+
+XLVIII is genealogically related to II, V, IX, XIX, XLIII and XLV, and to the use of the Neodialectical Lens™ through the Petri-dish analogy. Its claims about the Fractal Time Machine™, monads and time-as-memory remain explicitly philosophical and heuristic models open to contrast, not demonstrated physical theory.
 
 * [Complete transversal map](./RELACIONES_TRABAJO_APLICADO_ES_EN.md)
 * [Public analyses](../analisis/publicos/README.md)
@@ -290,7 +298,7 @@ PRINCIPLE
 
 ## Navegación canónica / Canonical navigation
 
-- Último manifiesto / Latest manifesto: [XLVII · El Odio de Neo0 hacia su Sino™](./47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md)
+- Último manifiesto / Latest manifesto: [XLVIII · La Síntesis Todo lo Ve™](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
 - [Mapa transversal / Transversal map](./RELACIONES_TRABAJO_APLICADO_ES_EN.md)
 - [Síntesis Abierta / Open Synthesis](../propuestas/sintesis-abierta/README.md)
 - [Proyección Distribuida / Distributed Projection](../proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md)
