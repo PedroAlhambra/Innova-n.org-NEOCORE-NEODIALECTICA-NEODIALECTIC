@@ -1,0 +1,27 @@
+name: one-shot-audit-readmes-xl42
+
+on:
+  push:
+    paths:
+      - '.github/workflows/one-shot-audit-readmes-xl42.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Run README audit
+        run: python .github/scripts/audit_readmes_xl42.py
+      - name: Commit results
+        run: |
+          git config user.name "Innova_N README audit"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --check
+          git commit -m "docs: synchronise all README hubs and audit links [skip ci]"
+          git push
