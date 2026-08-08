@@ -644,7 +644,7 @@ Contributions are invited on cultural interoperability, translation of meaning, 
 - [VIII · Ingeniería Social Abierta y Psicohistoria Neodialéctica](./05_ingenieria_social_psicohistoria_ES_EN.md)
 - [IX · Memoria, Genealogía y Trazabilidad](./06_memoria_genealogia_trazabilidad_ES_EN.md)
 - [XVI · Refragmentación Arquetípica™](./16_refragmentacion_arquetipica_ES_EN.md)
-- [XXXII · Reversión Ideológica™](./32_reversion_ideologica_ES_EN.md)
+- [XXXII · Reversión Ideológica™](./32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md)
 - [XXXVII · Neofraternidad™](./37_neofraternidad_ES_EN.md)
 - [XLV · Multidimensionalidad Neodialéctica™](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
 - [XLVIII · La Síntesis Todo lo Ve™](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)

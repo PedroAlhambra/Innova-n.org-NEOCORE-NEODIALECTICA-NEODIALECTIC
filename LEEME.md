@@ -673,6 +673,9 @@ This repository preserves the public, documentary and traceable layer of the **I
 
 ## Priority access
 
+* [L · For Shared, Not Singular Intelligence™](./manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
+* [Open Synthesis L · Issue #58](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/58)
+
 * [Navigable manifesto index I–L](./manifiestos/README.md)
 * [Historical fourth-wave announcement](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [Sixth-wave and transverse-deltas announcement](./anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md)

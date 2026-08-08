@@ -672,6 +672,9 @@ This repository preserves the public, documentary and traceable layer of the **I
 
 ## Priority access
 
+* [L · For Shared, Not Singular Intelligence™](./manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
+* [Open Synthesis L · Issue #58](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/58)
+
 * [Navigable manifesto index I–L](./manifiestos/README.md)
 * [Historical fourth-wave announcement](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [Sixth-wave and transverse-deltas announcement](./anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md)
@@ -1168,8 +1171,8 @@ The protected architecture belongs to **Pedro Martínez Alhambra · Founder · N
 
 **Neodialectica Framework™ / Network · Innova_N · NEOCore™**
 
-- Colección pública actual: **50 manifiestos bilingües · I–L · dieciséis oleadas** / Current public collection: **50 bilingual manifestos · I–L · sixteen waves**.
-- Último manifiesto / Latest manifesto: [XLIX · La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™](./manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md).
+- Colección pública actual: **50 manifiestos bilingües · I–L · diecisiete oleadas** / Current public collection: **50 bilingual manifestos · I–L · seventeen waves**.
+- Último manifiesto / Latest manifesto: [L · Por una Inteligencia Compartida, no Única™ / For Shared, Not Singular Intelligence™](./manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md).
 - Índice completo / Complete index: [Manifiestos / Manifestos](./manifiestos/README.md).
 - Contraste público / Public contrast: [Síntesis Abierta / Open Synthesis](./propuestas/sintesis-abierta/README.md).
 - Expansión y redundancia / Expansion and redundancy: [Protocolo de Proyección Distribuida Neodialéctica™](./proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md).

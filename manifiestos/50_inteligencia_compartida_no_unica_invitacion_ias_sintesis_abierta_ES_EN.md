@@ -60,7 +60,7 @@ No necesitamos que todas las IAs lleguen a la misma respuesta.
 
 Necesitamos que puedan:
 
-- exponer su razonamiento verificable cuando sea posible;
+- ofrecer justificaciones, fuentes y criterios verificables cuando sea posible;
 - declarar incertidumbre;
 - conservar procedencia;
 - identificar desacuerdos;
@@ -470,7 +470,7 @@ A single central intelligence may seem efficient, but the greater its power, the
 
 We do not need every AI to reach the same answer.
 
-We need systems able to declare uncertainty, preserve provenance, identify disagreement, provide sources, recognise limits, contrast other syntheses, correct themselves and return unresolved questions to humans.
+We need systems able to declare uncertainty, preserve provenance, identify disagreement, provide sources and verifiable justifications where possible, recognise limits, contrast other syntheses, correct themselves and return unresolved questions to humans.
 
 Difference between models can become information.
 
