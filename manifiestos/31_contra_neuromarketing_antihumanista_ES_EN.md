@@ -421,3 +421,13 @@ Contributions are requested concerning persuasion, dark patterns, minors, vulner
 ← [XXX · Coherence between Ends and Means™](./30_coherencia_fines_medios_ES_EN.md) · [Index](./README.md) · [XXXII · Neodialectical Ideological Reversal™](./32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md) →
 
 ---
+
+<!-- NEO_RELATED_WORK_START -->
+## Trabajo aplicado y casos relacionados / Applied work and related cases
+
+- [MAXPROC · Protección Integral de la Infancia™](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) — menores, publicidad integrada, dark patterns, engagement y vulnerabilidad / minors, embedded advertising, dark patterns, engagement and vulnerability.
+- [Matriz de evidencias de infancia](../analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md) — separa regulación, evidencia, hipótesis y afirmaciones no demostradas / separates regulation, evidence, hypotheses and unproven claims.
+- [Economía de la atención → Economía del aporte](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md) — atención como activo y riesgo de captura / attention as asset and capture risk.
+- [LinkedIn como red profesional fragmentada](../analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md) — distribución algorítmica de visibilidad y atención / algorithmic distribution of visibility and attention.
+- [Mapa transversal completo](./RELACIONES_TRABAJO_APLICADO_ES_EN.md#manifiesto-xxxi)
+<!-- NEO_RELATED_WORK_END -->
