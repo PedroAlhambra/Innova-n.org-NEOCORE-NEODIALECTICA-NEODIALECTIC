@@ -304,12 +304,13 @@ Se solicitan aportes sobre:
 - reparación y desescalada;
 - y relación entre misericordia, honor y defensa.
 
+* [Síntesis Abierta XLI · Issue #49](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/49)
 * [Protocolo operativo de Síntesis Abierta](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Índice de manifiestos](./README.md)
 
 ## Navegación
 
-← [XL · Respeto Neodialéctico, Neoego y Honor Relacional™](./40_respeto_neoego_honor_relacional_ES_EN.md) · [Índice](./README.md) · [I · Neo0™ · Soberanía de Guía Neodialéctica](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XL · Respeto Neodialéctico, Neoego y Honor Relacional™](./40_respeto_neoego_honor_relacional_ES_EN.md) · [Índice](./README.md) · [XLII · Fin de la Era del Hombre Manipulado™](./42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) →
 
 ---
 
@@ -436,9 +437,10 @@ Universal Reciprocal Mercy™ does not require allowing harm to continue without
 
 Contributions are requested on protective force, legitimate defence, proportionality, talion as an escalation limit, last resort, defensive war, civilian protection, institutional coercion, AI and force decisions, repair, de-escalation, mercy, honour and defence.
 
+* [Open Synthesis XLI · Issue #49](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/49)
 * [Open Synthesis operational protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Manifesto index](./README.md)
 
 ## Navigation
 
-← [XL · Neodialectical Respect, Neoego and Relational Honour™](./40_respeto_neoego_honor_relacional_ES_EN.md) · [Index](./README.md) · [I · Neo0™ · Neodialectical Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XL · Neodialectical Respect, Neoego and Relational Honour™](./40_respeto_neoego_honor_relacional_ES_EN.md) · [Index](./README.md) · [XLII · End of the Manipulated Human Era™](./42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) →
