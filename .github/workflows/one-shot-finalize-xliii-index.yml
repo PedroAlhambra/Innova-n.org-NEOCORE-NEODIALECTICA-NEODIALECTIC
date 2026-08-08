@@ -1,0 +1,25 @@
+name: one-shot-finalize-xliii-index
+
+on:
+  push:
+    paths:
+      - '.github/scripts/one_shot_finalize_xliii_index.py'
+
+permissions:
+  contents: write
+
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - run: python .github/scripts/one_shot_finalize_xliii_index.py
+      - run: |
+          git config user.name "Innova_N manifesto sync"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --check
+          git commit -m "docs(manifestos): finalize XLIII indexes and priority links [skip ci]"
+          git push
