@@ -1,13 +1,12 @@
-# trigger: 2026-08-08T21:40:00+02:00
 name: one-shot-feature-umbral-x-maxproc-001
 
 on:
-  push:
-    paths:
-      - '.github/workflows/one-shot-feature-umbral-x-maxproc-001.yml'
+  issues:
+    types: [opened]
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: one-shot-feature-umbral-x-maxproc-001-main
@@ -15,6 +14,7 @@ concurrency:
 
 jobs:
   sync:
+    if: contains(github.event.issue.title, '[UMBRAL-X-RUN-001]')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
