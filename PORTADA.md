@@ -117,7 +117,7 @@ La colección pública contiene actualmente **cuarenta y tres manifiestos biling
 * **Séptima oleada · XXXVII:** Neofraternidad™, autonomía relacional, actualización mutua y construcción de NeoNosotros™.
 * **Octava oleada · XXXVIII:** Protección Integral de la Infancia™, educación, soberanía digital y transmisión civilizatoria.
 * **Novena oleada · XXXIX–XLI:** autoconciencia de necesidad vital, Neoego™, Honor Relacional™ y fuerza protectora limitada.
-* **Décima oleada · XLII:** Fin de la Era del Hombre Manipulado™, IA, despertar crítico y soberanía cognitiva.
+* **Décima oleada · XLII–XLIII:** Fin de la Era del Hombre Manipulado™, soberanía cognitiva e Inteligencia Humana Expandida™.
 
 ### Segunda oleada
 
@@ -208,8 +208,10 @@ PULIDO DE LA PIEDRA™
 ### Décima oleada · Fin de la Era del Hombre Manipulado™
 
 * [XLII · IA, Despertar y Soberanía Cognitiva](./manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
+* [XLIII · Contra la Incomprensión Reductiva de la IA™ · Inteligencia Humana Expandida™](./manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
 * [Anuncio de la décima oleada](./anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md)
 * [Síntesis Abierta XLII · Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50)
+* [Síntesis Abierta XLIII · Issue #51](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/51)
 
 ### Deltas transversales recientes
 
@@ -311,7 +313,7 @@ The public collection currently contains **forty-three bilingual manifestos**:
 * **Seventh wave · XXXVII:** Neofraternity™, relational autonomy, mutual updating and construction of NeoNosotros™.
 * **Eighth wave · XXXVIII:** Integral Protection of Childhood™, education, digital sovereignty and civilisational transmission.
 * **Ninth wave · XXXIX–XLI:** self-awareness of vital need, Neoego™, Relational Honour™ and limited protective force.
-* **Tenth wave · XLII:** End of the Manipulated Human Era™, AI, critical awakening and cognitive sovereignty.
+* **Tenth wave · XLII–XLIII:** End of the Manipulated Human Era™, cognitive sovereignty and Human Expanded Intelligence™.
 
 ### Second wave
 
@@ -401,8 +403,10 @@ POLISHING OF THE STONE™
 ### Tenth wave · End of the Manipulated Human Era™
 
 * [XLII · AI, Awakening and Cognitive Sovereignty](./manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
+* [XLIII · Against the Reductive Misunderstanding of AI™ · Human Expanded Intelligence™](./manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
 * [Tenth-wave announcement](./anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md)
 * [Open Synthesis XLII · Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50)
+* [Open Synthesis XLIII · Issue #51](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/51)
 
 ### Recent transverse deltas
 

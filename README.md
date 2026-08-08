@@ -155,6 +155,7 @@ Los manifiestos no son documentos accesorios, resúmenes auxiliares ni consignas
 | Nº | Manifiesto | Función | Síntesis Abierta |
 |---:|---|---|---|
 | XLII | [Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva](./manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) | Convertir la IA en herramienta potencial de comprensión, memoria y contraste frente a captura cognitiva, sin atribuirle emancipación automática | [Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50) |
+| XLIII | [Contra la Incomprensión Reductiva de la IA™ · Inteligencia Humana Expandida™](./manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md) | Distinguir IA capturada, sustitutiva y humano-expansiva; formular ampliación cognitiva soberana y Revisión de Pares Aumentada™ | [Issue #51](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/51) |
 
 El Manifiesto III mantiene su propia [Síntesis Abierta · Issue #3](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3).
 
@@ -754,6 +755,7 @@ The manifestos are not accessory documents, auxiliary summaries or isolated slog
 | No. | Manifesto | Function | Open Synthesis |
 |---:|---|---|---|
 | XLII | [End of the Manipulated Human Era™ · AI, Awakening and Cognitive Sovereignty](./manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) | Make AI a potential instrument of understanding, memory and contrast against cognitive capture, without attributing automatic emancipation to it | [Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50) |
+| XLIII | [Against the Reductive Misunderstanding of AI™ · Human Expanded Intelligence™](./manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md) | Distinguish captured, substitutive and human-expansive AI; formulate sovereign cognitive augmentation and Augmented Peer Review™ | [Issue #51](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/51) |
 
 Manifesto III maintains its own [Open Synthesis · Issue #3](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3).
 

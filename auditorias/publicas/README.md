@@ -8,6 +8,14 @@ This directory gathers public notices, traces and audits documented by Innova_N.
 
 ### Casos de éxito, reapertura y aporte al Bien Común / Success cases, reopening and Common-Good contribution
 
+* [2026-08-08 · Respuesta KDP sobre «cambios sin publicar» y estado actual del caso 51071689](./2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md)
+
+  KDP confirma que los títulos pueden dejarse en ese estado si no existen cambios reales y que ello no afecta a su disponibilidad actual. Soporte no identifica la causa raíz, el campo pendiente ni la relación con correcciones internas previas. El autor solicita mantener o reabrir el seguimiento técnico antes de republicar únicamente para limpiar el indicador visual.
+
+* [2026-08-08 · KDP response on “unpublished changes” and current state of case 51071689](./2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md)
+
+  KDP confirms that titles may be left in that state when no real changes are required and that current availability is unaffected. Support does not identify the root cause, pending field or relation to earlier internal corrections. The author requests continued or reopened technical follow-up before republishing solely to clear the visual indicator.
+
 * [2026-08-07 · Addendum de trazabilidad: reapertura del caso KDP 51071689](./2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md)
 
   Corrige el cierre operativo anterior. Registra que el propio autor solicitó cerrar el caso prematuramente tras verificar un estado aparentemente correcto; KDP confirmó el cierre y, horas después, múltiples ediciones impresas aparecieron como «En línea · Cambios sin publicar» sin intervención del autor. La traza conserva el error humano, su reconocimiento, la reapertura y las hipótesis técnicas. La posibilidad de que exista algún test interno queda expresamente clasificada como **hipótesis no verificada**, no como hecho ni atribución de intención.
@@ -16,11 +24,11 @@ This directory gathers public notices, traces and audits documented by Innova_N.
 
   Corrects the previous operational closure. It records that the author prematurely requested closure after verifying an apparently correct state; KDP confirmed closure and, hours later, multiple print editions appeared as “Live · unpublished changes” without author intervention. The trace preserves the human error, its acknowledgement, reopening and technical hypotheses. The possibility of an internal test is expressly classified as an **unverified hypothesis**, not a fact or attribution of intent.
 
-* [2026-08-06 · Caso de éxito provisional: auditoría gratuita a Amazon KDP y Author Central](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+* [2026-08-06 · Hito de éxito operativo provisional: auditoría gratuita a Amazon KDP y Author Central](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
 
   Caso `51071689`. Documenta la corrección verificable observada el 6 de agosto de asociaciones multilingües de IDEA, la recepción positiva de propuestas de mejora para KDP y Author Central y la aplicación práctica del Neodialectica Framework™. Su cierre operativo posterior fue **reabierto el 7 de agosto de 2026** y debe leerse junto con el addendum de trazabilidad. Innova_N registra funcionalmente a Amazon como **cliente gratuito por el Bien Común**: receptor de una auditoría y propuestas sin contratación previa, sin que ello implique relación contractual, deuda económica ni aceptación formal de esa condición.
 
-* [2026-08-06 · Provisional success case: free audit for Amazon KDP and Author Central](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+* [2026-08-06 · Provisional operational-success milestone: free audit for Amazon KDP and Author Central](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
 
   Case `51071689`. Documents the verifiable correction observed on 6 August of IDEA’s multilingual associations, positive reception of improvement proposals for KDP and Author Central, and practical application of the Neodialectica Framework™. Its later operational closure was **reopened on 7 August 2026** and must be read together with the traceability addendum. Innova_N functionally records Amazon as a **free client for the Common Good**: recipient of an audit and proposals without prior engagement, without implying a contractual relationship, financial debt or formal acceptance of that status.
 
@@ -46,11 +54,11 @@ This directory gathers public notices, traces and audits documented by Innova_N.
 
 * [2026-08-06 · Auditoría indirecta pública de KDP, Author Central e IDEA](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 
-  Caso `51071689`. Conserva la traza inicial de publicación multilingüe, las incidencias finlandesas, los problemas de asociación y metadatos, las propuestas comunicadas y la corrección operativa observada el 6 de agosto. El estado actual debe complementarse con el addendum de reapertura del 7 de agosto.
+  Caso `51071689`. Conserva la traza inicial de publicación multilingüe, las incidencias finlandesas, los problemas de asociación y metadatos, las propuestas comunicadas y la corrección operativa observada el 6 de agosto. El estado actual debe leerse junto con los addenda del 7 y 8 de agosto.
 
 * [2026-08-06 · Public indirect audit of KDP, Author Central and IDEA](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 
-  Case `51071689`. Preserves the initial multilingual-publication trace, Finnish-edition incidents, association and metadata problems, communicated proposals and the operational correction observed on 6 August. The current status must be supplemented by the 7 August reopening addendum.
+  Case `51071689`. Preserves the initial multilingual-publication trace, Finnish-edition incidents, association and metadata problems, communicated proposals and the operational correction observed on 6 August. The current status must be read together with the 7 and 8 August addenda.
 
 ## Navegación / Navigation
 

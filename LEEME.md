@@ -25,6 +25,7 @@ Este repositorio conserva la capa pública, documental y trazable del ecosistema
 * [XL · Respeto Neodialéctico, Neoego y Honor Relacional™](./manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md)
 * [XLI · Martillo Limitado, Talión y Fuerza Protectora™](./manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md)
 * [XLII · Fin de la Era del Hombre Manipulado™](./manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
+* [XLIII · Contra la Incomprensión Reductiva de la IA™ · Inteligencia Humana Expandida™](./manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
 * [Décima oleada · anuncio](./anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md)
 * [MAXPROC · Protección Integral de la Infancia™](./analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
 * [Síntesis Abierta XXXVIII · Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45)
@@ -152,6 +153,7 @@ Los manifiestos no son documentos accesorios, resúmenes auxiliares ni consignas
 | Nº | Manifiesto | Función | Síntesis Abierta |
 |---:|---|---|---|
 | XLII | [Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva](./manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) | Examinar la IA como bifurcación entre captura aumentada y comprensión aumentada bajo dirección humana, memoria, fuentes, contraste y trazabilidad | [Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50) |
+| XLIII | [Contra la Incomprensión Reductiva de la IA™ · Inteligencia Humana Expandida™](./manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md) | Distinguir IA capturada, sustitutiva y humano-expansiva; formular ampliación cognitiva soberana y Revisión de Pares Aumentada™ | [Issue #51](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/51) |
 
 * [Anuncio de la décima oleada](./anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md)
 
@@ -741,6 +743,7 @@ The manifestos are not accessory documents, auxiliary summaries or isolated slog
 | No. | Manifesto | Function | Open Synthesis |
 |---:|---|---|---|
 | XLII | [End of the Manipulated Human Era™ · AI, Awakening and Cognitive Sovereignty](./manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) | Examine AI as a bifurcation between augmented capture and augmented understanding under human direction, memory, sources, contrast and traceability | [Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50) |
+| XLIII | [Against the Reductive Misunderstanding of AI™ · Human Expanded Intelligence™](./manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md) | Distinguish captured, substitutive and human-expansive AI; formulate sovereign cognitive augmentation and Augmented Peer Review™ | [Issue #51](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/51) |
 
 * [Tenth-wave announcement](./anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md)
 

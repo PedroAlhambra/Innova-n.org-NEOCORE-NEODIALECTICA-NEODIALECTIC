@@ -21,6 +21,7 @@ El marco fue originado y dirigido por **Pedro Martínez Alhambra · Neo0™**, d
 * [Índice de manifiestos I–XLIII](./manifiestos/README.md)
 * [XXXVIII · Protección Integral de la Infancia™](./manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
 * [XLII · Fin de la Era del Hombre Manipulado™](./manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
+* [XLIII · Contra la Incomprensión Reductiva de la IA™ · Inteligencia Humana Expandida™](./manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
 * [Décima oleada · anuncio](./anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md)
 * [Octava oleada · Protección Integral de la Infancia](./anuncios/2026-08-07_OCTAVA_OLEADA_PROTECCION_INTEGRAL_INFANCIA_ES_EN.md)
 * [Tercera oleada · Sistema Inmunitario Intelectual Neodialéctico™](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
@@ -123,11 +124,13 @@ PULIDO DE LA PIEDRA™
 40. [Respeto Neodialéctico, Neoego y Honor Relacional™](./manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md)
 41. [Martillo Limitado, Talión y Fuerza Protectora™](./manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md)
 
-## Décima oleada · XLII · Fin de la Era del Hombre Manipulado™
+## Décima oleada · XLII–XLIII · Fin de la Era del Hombre Manipulado™ e Inteligencia Humana Expandida™
 
 42. [Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva](./manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
+43. [Contra la Incomprensión Reductiva de la IA™ · Inteligencia Humana Expandida™](./manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
 
 * [Síntesis Abierta XLII · Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50)
+* [Síntesis Abierta XLIII · Issue #51](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/51)
 * [Anuncio de la décima oleada](./anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md)
 
 ### Deltas transversales recientes
@@ -154,6 +157,7 @@ The framework was originated and directed by **Pedro Martínez Alhambra · Neo0�
 * [Manifesto index I–XLIII](./manifiestos/README.md)
 * [XXXVIII · Integral Protection of Childhood™](./manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
 * [XLII · End of the Manipulated Human Era™](./manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
+* [XLIII · Against the Reductive Misunderstanding of AI™ · Human Expanded Intelligence™](./manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
 * [Tenth-wave announcement](./anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md)
 * [Eighth wave · Integral Protection of Childhood](./anuncios/2026-08-07_OCTAVA_OLEADA_PROTECCION_INTEGRAL_INFANCIA_ES_EN.md)
 * [Third wave · Neodialectical Intellectual Immune System™](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
@@ -256,11 +260,13 @@ POLISHING OF THE STONE™
 40. [Neodialectical Respect, Neoego and Relational Honour™](./manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md)
 41. [Limited Hammer, Talion and Protective Force™](./manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md)
 
-## Tenth wave · XLII · End of the Manipulated Human Era™
+## Tenth wave · XLII–XLIII · End of the Manipulated Human Era™ and Human Expanded Intelligence™
 
 42. [End of the Manipulated Human Era™ · AI, Awakening and Cognitive Sovereignty](./manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
+43. [Against the Reductive Misunderstanding of AI™ · Human Expanded Intelligence™](./manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
 
 * [Open Synthesis XLII · Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50)
+* [Open Synthesis XLIII · Issue #51](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/51)
 * [Tenth-wave announcement](./anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md)
 
 ### Recent transverse deltas

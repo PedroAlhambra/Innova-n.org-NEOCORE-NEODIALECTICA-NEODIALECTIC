@@ -163,7 +163,7 @@ Las propuestas se originan en el marco creado por **Pedro Martínez Alhambra · 
 
 This directory gathers public proposals open to contrast, partial endorsement, criticism, reformulation and traceable improvement.
 
-**Current canonical coverage:** all **42 Manifestos I–XLII** have a dedicated Open Synthesis. Annexes and complementary proposals are indexed separately so they are not confused with the canonical manifesto numbering.
+**Current canonical coverage:** all **42 Manifestos I–XLIII** have a dedicated Open Synthesis. Annexes and complementary proposals are indexed separately so they are not confused with the canonical manifesto numbering.
 
 ## General access
 
