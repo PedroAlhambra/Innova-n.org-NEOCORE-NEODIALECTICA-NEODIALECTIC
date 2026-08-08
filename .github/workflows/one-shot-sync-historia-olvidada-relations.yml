@@ -1,0 +1,28 @@
+name: one-shot sync Forgotten History relations
+
+on:
+  push:
+    paths:
+      - '.github/workflows/one-shot-sync-historia-olvidada-relations.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Synchronize relations
+        run: python .github/scripts/sync_historia_olvidada_relations.py
+      - name: Commit synchronized documentation
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md LEEME.md analisis manifiestos propuestas wiki-source
+          if git diff --cached --quiet; then
+            echo "No documentation changes"
+          else
+            git commit -m "docs: integrate Forgotten History across READMEs and relations"
+            git push
+          fi
