@@ -228,3 +228,12 @@ Before participating, read the full manifesto and the operational protocol. Subm
 ← [VI · Systemic Parasitism](./09_parasitismo_sistemico_ES_EN.md) · [Index](./README.md) · [VIII · Open Social Engineering and Neodialectical Psychohistory](./05_ingenieria_social_psicohistoria_ES_EN.md) →
 
 ---
+
+<!-- NEO_RELATED_WORK_START -->
+## Trabajo aplicado y casos relacionados / Applied work and related cases
+
+- [Economía de la atención → Economía del aporte](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md) — documento aplicado de base / foundational applied document.
+- [Spotify–DistroKid · cierre circular y escalado](../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md) — retorno, intermediación y trazabilidad de regalías; el expediente permanece abierto / return, intermediation and royalty traceability; the case remains open.
+- [KDP–Author Central–IDEA](../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md) — trazabilidad de edición, asociación y mejora de infraestructura / publishing, association and infrastructure-improvement traceability.
+- [Mapa transversal completo](./RELACIONES_TRABAJO_APLICADO_ES_EN.md#manifiesto-vii)
+<!-- NEO_RELATED_WORK_END -->
