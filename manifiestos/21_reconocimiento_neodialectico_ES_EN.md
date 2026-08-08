@@ -814,3 +814,12 @@ Every contribution requires prior reading, return to source, cognitive continuit
 ## Navigation
 
 ← [XX · Neodialectical Intellectual Defence™ · Umbral-X™ System](./20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md) · [Index](./README.md) · [XXII · Against Intellectual Reduction and Capture™](./22_contra_reduccion_captura_intelectual_ES_EN.md) →
+
+<!-- NEO_RELATED_WORK_START -->
+## Trabajo aplicado y casos relacionados / Applied work and related cases
+
+- [Economía de la atención → Economía del aporte](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md) — visibilidad, atribución y retorno / visibility, attribution and return.
+- [Spotify–DistroKid · cierre circular](../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md) — reconocimiento económico y conciliación del creador; expediente abierto / economic recognition and creator reconciliation; open case.
+- [KDP–Author Central–IDEA](../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md) — asociación correcta de obra, autor e idioma / correct association of work, author and language.
+- [Mapa transversal completo](./RELACIONES_TRABAJO_APLICADO_ES_EN.md#manifiesto-xxi)
+<!-- NEO_RELATED_WORK_END -->
