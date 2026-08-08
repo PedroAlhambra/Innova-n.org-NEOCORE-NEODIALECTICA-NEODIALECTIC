@@ -25,7 +25,7 @@ for roman,title,href in re.findall(r'- \*\*([IVXLCDM]+)\*\* · \[([^\]]+)\]\(([^
         raise SystemExit(f'Missing canonical manifesto: {href}')
     seen.add(p)
     links.append((roman,title.strip(),p))
-if len(links)!=51 or links[0][0]!='I' or links[-1][0]!='LI':
+if len(links)!=52 or links[0][0]!='I' or links[-1][0]!='LII':
     raise SystemExit(f'Canonical manifesto set invalid: {len(links)} {links[0][0] if links else None}..{links[-1][0] if links else None}')
 
 def rel(frm,target):
@@ -70,12 +70,12 @@ for f in readmes:
     s=f.read_text(encoding='utf-8'); old=s
     s=replace_or_append(s,invite_start,invite_end,invite(f),'<!-- NEO_ALL_MANIFESTOS_END -->')
     for a,b in [
-        ('Índice navegable de manifiestos I–L','Índice navegable de manifiestos I–LI'),
-        ('Navigable manifesto index I–L','Navigable manifesto index I–LI'),
-        ('I–L · 50 manifiestos bilingües','I–LI · 51 manifiestos bilingües'),
-        ('I–L · 50 bilingual manifestos','I–LI · 51 bilingual manifestos'),
-        ('50 manifiestos bilingües · I–L · 17 oleadas','52 manifiestos bilingües · I–LII · 19 oleadas'),
-        ('50 bilingual manifestos · I–L · 17 waves','52 bilingual manifestos · I–LII · 19 waves')]:
+        ('Índice navegable de manifiestos I–LI','Índice navegable de manifiestos I–LII'),
+        ('Navigable manifesto index I–LI','Navigable manifesto index I–LII'),
+        ('I–LI · 51 manifiestos bilingües','I–LII · 52 manifiestos bilingües'),
+        ('I–LI · 51 bilingual manifestos','I–LII · 52 bilingual manifestos'),
+        ('51 manifiestos bilingües · I–LI · 18 oleadas','52 manifiestos bilingües · I–LII · 19 oleadas'),
+        ('51 bilingual manifestos · I–LI · 18 waves','52 bilingual manifestos · I–LII · 19 waves')]:
         s=s.replace(a,b)
     if s!=old:
         f.write_text(s,encoding='utf-8'); changed.append(f)
@@ -87,7 +87,7 @@ for i,(roman,title,f) in enumerate(links):
     nxt=links[i+1] if i+1<len(links) else None
     nav=[nav_start,'','## Navegación canónica / Canonical navigation','']
     nav.append(f'← **{prev[0]}** · [{prev[1]}]({rel(f,prev[2])})' if prev else '← **Inicio de la colección / Start of collection**')
-    nav.append(f'· [Índice I–LI / I–LI index]({rel(f,index)}) ·')
+    nav.append(f'· [Índice I–LII / I–LII index]({rel(f,index)}) ·')
     nav.append(f'**{nxt[0]}** · [{nxt[1]}]({rel(f,nxt[2])}) →' if nxt else '**Fin de la colección / End of collection** →')
     nav += ['','> La navegación canónica mantiene la colección conectada sin convertir ningún manifiesto aislado en equivalente del marco completo. / Canonical navigation keeps the collection connected without treating any single manifesto as equivalent to the complete framework.','',nav_end]
     s=replace_or_append(s,nav_start,nav_end,'\n'.join(nav))
@@ -110,7 +110,7 @@ for f in readmes:
             if not h or re.match(r'^[a-zA-Z][a-zA-Z0-9+.-]*:',h): continue
             t=(f.parent/h).resolve()
             if t in seen: got.add(t)
-        if len(got)!=51: fail.append(f'{f.relative_to(root)} network {len(got)}/51')
+        if len(got)!=52: fail.append(f'{f.relative_to(root)} network {len(got)}/52')
     elif rel(f,index) not in s:
         fail.append(f'{f.relative_to(root)} canonical index missing')
 
@@ -149,4 +149,4 @@ if fail:
     print('POSTCHECK FAIL')
     print('\n'.join(fail))
     sys.exit(1)
-print('POSTCHECK OK: 51 manifestos connected; all README/LEEME targets expose Open Synthesis; managed links resolve')
+print('POSTCHECK OK: 52 manifestos connected; all README/LEEME targets expose Open Synthesis; managed links resolve')
