@@ -33,6 +33,8 @@ Este repositorio conserva la capa pública, documental y trazable del ecosistema
 * [XLI · Martillo Limitado, Talión y Fuerza Protectora™](./manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md)
 * [XLII · Fin de la Era del Hombre Manipulado™](./manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
 * [Síntesis Abierta XLII · Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50)
+* [XLIII · Contra la Incomprensión Reductiva de la IA™ · Inteligencia Humana Expandida™](./manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
+* [Síntesis Abierta XLIII · Issue #51](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/51)
 * [Décima oleada · anuncio](./anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md)
 * [MAXPROC · Protección Integral de la Infancia™](./analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
 * [Síntesis Abierta XXXVIII · Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45)
@@ -630,6 +632,8 @@ This repository preserves the public, documentary and traceable layer of the **I
 * [XLI · Limited Hammer, Talion and Protective Force™](./manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md)
 * [XLII · End of the Manipulated Human Era™](./manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
 * [Open Synthesis XLII · Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50)
+* [XLIII · Against the Reductive Misunderstanding of AI™ · Human Expanded Intelligence™](./manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
+* [Open Synthesis XLIII · Issue #51](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/51)
 * [Tenth-wave announcement](./anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md)
 * [MAXPROC · Integral Protection of Childhood™](./analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
 * [Open Synthesis XXXVIII · Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45)
@@ -1054,7 +1058,7 @@ The protected architecture belongs to **Pedro Martínez Alhambra · Founder · N
 
 **Neodialectica Framework™ / Network · Innova_N · NEOCore™**
 
-- Colección pública actual: **43 manifiestos bilingües · I–XLIIII · diez oleadas** / Current public collection: **43 bilingual manifestos · I–XLIIII · ten waves**.
+- Colección pública actual: **43 manifiestos bilingües · I–XLIII · diez oleadas** / Current public collection: **43 bilingual manifestos · I–XLIII · ten waves**.
 - Último manifiesto / Latest manifesto: [XLIII · Contra la Incomprensión Reductiva de la IA™ · Against the Reductive Misunderstanding of AI™](./manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md).
 - Índice completo / Complete index: [Manifiestos / Manifestos](./manifiestos/README.md).
 - Contraste público / Public contrast: [Síntesis Abierta / Open Synthesis](./propuestas/sintesis-abierta/README.md).

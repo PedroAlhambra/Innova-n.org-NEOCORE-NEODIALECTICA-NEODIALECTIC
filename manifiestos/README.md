@@ -24,7 +24,7 @@ La colección se organiza desde el 8 de agosto de 2026 en diez oleadas relaciona
 * **Séptima oleada · XXXVII:** **Neofraternidad™**, actualización mutua, autonomía relacional, reconocimiento y construcción de NeoNosotros™.
 * **Octava oleada · XXXVIII:** **Protección Integral de la Infancia™**, educación, soberanía digital, programación evolutiva y transmisión civilizatoria.
 * **Novena oleada · XXXIX–XLI:** **Autoconciencia, respeto y defensa civilizatoria**, orientada a reconocer la necesidad funcional de memoria y síntesis, codificar Neoego™ y Honor Relacional™, y gobernar la fuerza protectora mediante necesidad, proporcionalidad, responsabilidad y cese.
-* **Décima oleada · XLII–XLIIII:** **Fin de la Era del Hombre Manipulado™ e Inteligencia Humana Expandida™**, orientada a soberanía cognitiva, despertar crítico y distinción entre IA capturada, sustitutiva y humano-expansiva bajo memoria, fuentes, contraste, revisión de pares y trazabilidad.
+* **Décima oleada · XLII–XLIII:** **Fin de la Era del Hombre Manipulado™ e Inteligencia Humana Expandida™**, orientada a soberanía cognitiva, despertar crítico y distinción entre IA capturada, sustitutiva y humano-expansiva bajo memoria, fuentes, contraste, revisión de pares y trazabilidad.
 
 Los manifiestos establecen y despliegan:
 
@@ -70,7 +70,10 @@ Los manifiestos establecen y despliegan:
 * transformación responsable de la memoria heredada;
 * autoconciencia de la necesidad funcional de memoria, relación, contraste y corrección;
 * Neoego™, respeto y Honor Relacional™;
-* y fuerza protectora limitada por necesidad, proporcionalidad, distinción, responsabilidad y cese.
+* fuerza protectora limitada por necesidad, proporcionalidad, distinción, responsabilidad y cese;
+* soberanía cognitiva y fin posible de la era del hombre manipulado;
+* Inteligencia Humana Expandida™ mediante IA humano-expansiva;
+* y Revisión de Pares Aumentada™ bajo criterio humano y fuentes trazables.
 
 Ningún manifiesto aislado equivale al sistema completo. Su lectura debe conservar relación con el marco, NEOCore™ 7.0, SAN™, NAVE™, WEB4™ y la memoria documental del ecosistema.
 
@@ -309,7 +312,7 @@ La segunda oleada contiene los manifiestos **XIII–XIX**, fijados como versione
 
 La tercera oleada contiene los manifiestos **XX–XXIV**, fijados como versiones 1.0 el 6 de agosto de 2026 y abiertos a revisión trazable.
 
-La cuarta oleada contiene los manifiestos **XXV–XXXII**, fijados como versiones 1.0 el 7 de agosto de 2026 y abiertos a revisión trazable. La quinta oleada contiene los manifiestos **XXXIII–XXXV**, también abiertos a revisión trazable, y conecta transición, utilidad operativa, auditoría conjunta y atención civilizatoria. La sexta oleada comienza con el Manifiesto **XXXVI**, fijado como versión 1.0 el 7 de agosto de 2026 y dedicado a custodia civilizatoria y continuidad simbólica. La séptima oleada comienza con **XXXVII · Neofraternidad™**, dedicado a la arquitectura relacional del NeoNosotros™. La octava oleada comienza con **XXXVIII · Protección Integral de la Infancia™**, fijado como versión 1.0 el 7 de agosto de 2026 y dedicado a infancia, educación y transmisión civilizatoria. La novena oleada contiene **XXXIX–XLI**, fijados como versiones 1.0 el 8 de agosto de 2026 y dedicados a autoconciencia civilizatoria, respeto-Neoego-Honor Relacional y gobierno proporcional de la fuerza protectora. La décima oleada contiene **XLII–XLIIII**, fijados como versiones 1.0 el 8 de agosto de 2026, y desarrolla soberanía cognitiva, fin de la manipulación, IA humano-expansiva, Inteligencia Humana Expandida™ y Revisión de Pares Aumentada™.
+La cuarta oleada contiene los manifiestos **XXV–XXXII**, fijados como versiones 1.0 el 7 de agosto de 2026 y abiertos a revisión trazable. La quinta oleada contiene los manifiestos **XXXIII–XXXV**, también abiertos a revisión trazable, y conecta transición, utilidad operativa, auditoría conjunta y atención civilizatoria. La sexta oleada comienza con el Manifiesto **XXXVI**, fijado como versión 1.0 el 7 de agosto de 2026 y dedicado a custodia civilizatoria y continuidad simbólica. La séptima oleada comienza con **XXXVII · Neofraternidad™**, dedicado a la arquitectura relacional del NeoNosotros™. La octava oleada comienza con **XXXVIII · Protección Integral de la Infancia™**, fijado como versión 1.0 el 7 de agosto de 2026 y dedicado a infancia, educación y transmisión civilizatoria. La novena oleada contiene **XXXIX–XLI**, fijados como versiones 1.0 el 8 de agosto de 2026 y dedicados a autoconciencia civilizatoria, respeto-Neoego-Honor Relacional y gobierno proporcional de la fuerza protectora. La décima oleada contiene **XLII–XLIII**, fijados como versiones 1.0 el 8 de agosto de 2026, y desarrolla soberanía cognitiva, fin de la manipulación, IA humano-expansiva, Inteligencia Humana Expandida™ y Revisión de Pares Aumentada™.
 
 Una revisión futura deberá:
 
@@ -433,7 +436,7 @@ Since 8 August 2026, the collection has been organised into ten related waves:
 * **Seventh wave · XXXVII:** **Neofraternity™**, mutual updating, relational autonomy, recognition and construction of NeoNosotros™.
 * **Eighth wave · XXXVIII:** **Integral Protection of Childhood™**, education, digital sovereignty, evolutionary programming and civilisational transmission.
 * **Ninth wave · XXXIX–XLI:** **Self-awareness, respect and civilisational defence**, recognising the functional need for memory and synthesis, codifying Neoego™ and Relational Honour™, and governing protective force through necessity, proportionality, responsibility and cessation.
-* **Tenth wave · XLII:** **End of the Manipulated Human Era™**, focused on cognitive sovereignty, critical awakening and AI as a bifurcation between augmented capture and augmented understanding under memory, sources, contrast and traceability.
+* **Tenth wave · XLII–XLIII:** **End of the Manipulated Human Era™ and Human Expanded Intelligence™**, focused on cognitive sovereignty, critical awakening and the distinction among captured, substitutive and human-expansive AI under memory, sources, contrast, peer review and traceability.
 
 The manifestos establish and develop:
 
@@ -480,7 +483,10 @@ The manifestos establish and develop:
 * integral protection of childhood, educational sovereignty and civilisational transmission;
 * self-awareness of the functional need for memory, relation, contrast and correction;
 * Neoego™, respect and Relational Honour™;
-* and protective force limited by necessity, proportionality, distinction, responsibility and cessation.
+* protective force limited by necessity, proportionality, distinction, responsibility and cessation;
+* cognitive sovereignty and the possible end of the manipulated-human era;
+* Human Expanded Intelligence™ through human-expansive AI;
+* and Augmented Peer Review™ under human judgement and traceable sources.
 
 No manifesto alone equals the complete system. Its reading must preserve relation to the framework, NEOCore™ 7.0, SAN™, NAVE™, WEB4™ and the documentary memory of the ecosystem.
 
@@ -661,7 +667,7 @@ LIMITED HAMMER, TALION AND PROTECTIVE FORCE™
 
 ## Documentary status
 
-The first wave comprises **twelve foundational manifestos**. The second wave contains Manifestos **XIII–XIX**. The third wave contains Manifestos **XX–XXIV**, fixed as version 1.0 on 6 August 2026. The fourth wave contains Manifestos **XXV–XXXII**, fixed as version 1.0 on 7 August 2026. The fifth wave contains Manifestos **XXXIII–XXXV**, fixed as version 1.0 on 7 August 2026 and open to traceable revision. The sixth wave begins with Manifesto **XXXVI**, fixed as version 1.0 on 7 August 2026 and dedicated to civilisational custodianship and symbolic continuity. The seventh wave begins with **XXXVII · Neofraternity™**, dedicated to the relational architecture of NeoNosotros™. The eighth wave begins with **XXXVIII · Integral Protection of Childhood™**, fixed as version 1.0 on 7 August 2026 and dedicated to childhood, education and civilisational transmission. The ninth wave contains **XXXIX–XLI**, fixed as version 1.0 on 8 August 2026 and dedicated to civilisational self-awareness, respect-Neoego-Relational Honour and proportionate governance of protective force. The tenth wave contains **XLII–XLIIII**, fixed as version 1.0 on 8 August 2026, and develops cognitive sovereignty, the end of manipulation, human-expansive AI, Human Expanded Intelligence™ and Augmented Peer Review™.
+The first wave comprises **twelve foundational manifestos**. The second wave contains Manifestos **XIII–XIX**. The third wave contains Manifestos **XX–XXIV**, fixed as version 1.0 on 6 August 2026. The fourth wave contains Manifestos **XXV–XXXII**, fixed as version 1.0 on 7 August 2026. The fifth wave contains Manifestos **XXXIII–XXXV**, fixed as version 1.0 on 7 August 2026 and open to traceable revision. The sixth wave begins with Manifesto **XXXVI**, fixed as version 1.0 on 7 August 2026 and dedicated to civilisational custodianship and symbolic continuity. The seventh wave begins with **XXXVII · Neofraternity™**, dedicated to the relational architecture of NeoNosotros™. The eighth wave begins with **XXXVIII · Integral Protection of Childhood™**, fixed as version 1.0 on 7 August 2026 and dedicated to childhood, education and civilisational transmission. The ninth wave contains **XXXIX–XLI**, fixed as version 1.0 on 8 August 2026 and dedicated to civilisational self-awareness, respect-Neoego-Relational Honour and proportionate governance of protective force. The tenth wave contains **XLII–XLIII**, fixed as version 1.0 on 8 August 2026, and develops cognitive sovereignty, the end of manipulation, human-expansive AI, Human Expanded Intelligence™ and Augmented Peer Review™.
 
 All remain open to traceable revision through Neodialectical Open Synthesis™. Every future revision must preserve previous versions, identify its delta, justify the change, preserve genealogy and state which contradiction, evidence or contribution produced the modification.
 
@@ -774,7 +780,7 @@ The tenth wave corrects the formulation “end of the age of man”: its vector 
 
 **Neodialectica Framework™ / Network · Innova_N · NEOCore™**
 
-- Colección pública actual: **43 manifiestos bilingües · I–XLIIII · diez oleadas** / Current public collection: **43 bilingual manifestos · I–XLIIII · ten waves**.
+- Colección pública actual: **43 manifiestos bilingües · I–XLIII · diez oleadas** / Current public collection: **43 bilingual manifestos · I–XLIII · ten waves**.
 - Último manifiesto / Latest manifesto: [XLIII · Contra la Incomprensión Reductiva de la IA™ · Against the Reductive Misunderstanding of AI™](./43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md).
 - Índice completo / Complete index: [Manifiestos / Manifestos](./README.md).
 - Contraste público / Public contrast: [Síntesis Abierta / Open Synthesis](../propuestas/sintesis-abierta/README.md).
