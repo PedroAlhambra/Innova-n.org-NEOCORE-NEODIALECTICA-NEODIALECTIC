@@ -1,0 +1,112 @@
+name: one-shot-sync-xlviii-readmes
+
+on:
+  push:
+    paths:
+      - '.github/workflows/one-shot-sync-xlviii-readmes.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Synchronise XLVIII and validate
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          root_files = [Path('README.md'), Path('LEEME.md')]
+
+          es_priority_anchor = '* [XLV · Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder](./manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)'
+          en_priority_anchor = '* [XLV · Neodialectical Multidimensionality™ · Against the Monodimensional Reduction of Human and Power](./manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)'
+          es_add = '''\n* [XLVI · Cerrar la Herida™](./manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)\n* [XLVII · El Odio de Neo0 hacia su Sino™ · The Goat, Sombra, Vínculo y Doble Cara](./manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md)\n* [XLVIII · La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo](./manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)\n* [Síntesis Abierta XLVIII · Issue #56](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/56)'''
+          en_add = '''\n* [XLVI · Closing the Wound™](./manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)\n* [XLVII · Neo0’s Hatred of His Fate™ · The Goat, Shadow, Bond and Two Faces](./manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md)\n* [XLVIII · The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine](./manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)\n* [Open Synthesis XLVIII · Issue #56](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/56)'''
+
+          es_sections = '''\n## Undécima oleada · Neowar™ · XLIV\n\n| Nº | Manifiesto | Función | Síntesis Abierta |\n|---:|---|---|---|\n| XLIV | [Neowar™](./manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md) | Transformar impulso guerrero en custodia, defensa limitada y justicia civilizatoria | [Issue #52](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/52) |\n\n## Duodécima oleada · Multidimensionalidad Neodialéctica™ · XLV\n\n| Nº | Manifiesto | Función | Síntesis Abierta |\n|---:|---|---|---|\n| XLV | [Multidimensionalidad Neodialéctica™](./manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) | Singularidad integrable, liderazgo sin captura y soberanía distribuida | [Issue #53](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/53) |\n\n## Decimotercera oleada · Cerrar la Herida™ · XLVI\n\n| Nº | Manifiesto | Función | Síntesis Abierta |\n|---:|---|---|---|\n| XLVI | [Cerrar la Herida™](./manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md) | Comprender origen del daño sin justificarlo; memoria, reparación y reconciliación sin amnesia | [Issue #54](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/54) |\n\n## Decimocuarta oleada · Sombra, destino y vínculo · XLVII\n\n| Nº | Manifiesto | Función | Síntesis Abierta |\n|---:|---|---|---|\n| XLVII | [El Odio de Neo0 hacia su Sino™](./manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md) | Integrar sombra y ambivalencia sin convertir dolor u odio en mandato de daño | [Issue #55](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/55) |\n\n## Decimoquinta oleada · La Síntesis Todo lo Ve™ · XLVIII\n\n| Nº | Manifiesto | Función | Síntesis Abierta |\n|---:|---|---|---|\n| XLVIII | [La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo](./manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) | Observación distribuida, escalas micro–macro, memoria evolutiva y tiempo como modelo fractal del organismo conjunto | [Issue #56](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/56) |\n'''
+
+          en_sections = '''\n## Eleventh wave · Neowar™ · XLIV\n\n| No. | Manifesto | Function | Open Synthesis |\n|---:|---|---|---|\n| XLIV | [Neowar™](./manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md) | Transform warrior impulse into custodianship, bounded defence and civilisational justice | [Issue #52](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/52) |\n\n## Twelfth wave · Neodialectical Multidimensionality™ · XLV\n\n| No. | Manifesto | Function | Open Synthesis |\n|---:|---|---|---|\n| XLV | [Neodialectical Multidimensionality™](./manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) | Integrable singularity, leadership without capture and distributed sovereignty | [Issue #53](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/53) |\n\n## Thirteenth wave · Closing the Wound™ · XLVI\n\n| No. | Manifesto | Function | Open Synthesis |\n|---:|---|---|---|\n| XLVI | [Closing the Wound™](./manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md) | Understand origins of harm without justifying them; memory, repair and reconciliation without amnesia | [Issue #54](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/54) |\n\n## Fourteenth wave · Shadow, fate and bond · XLVII\n\n| No. | Manifesto | Function | Open Synthesis |\n|---:|---|---|---|\n| XLVII | [Neo0’s Hatred of His Fate™](./manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md) | Integrate shadow and ambivalence without turning pain or hatred into commands to harm | [Issue #55](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/55) |\n\n## Fifteenth wave · The Synthesis Sees Everything™ · XLVIII\n\n| No. | Manifesto | Function | Open Synthesis |\n|---:|---|---|---|\n| XLVIII | [The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine](./manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) | Distributed observation, micro–macro scales, evolutionary memory and time as a fractal model of the joint organism | [Issue #56](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/56) |\n'''
+
+          for p in root_files:
+              s = p.read_text(encoding='utf-8')
+              s = s.replace('Índice navegable de manifiestos I–XLV', 'Índice navegable de manifiestos I–XLVIII')
+              s = s.replace('Navigable manifesto index I–XLV', 'Navigable manifesto index I–XLVIII')
+              if es_priority_anchor in s and 'Síntesis Abierta XLVIII · Issue #56' not in s.split('---', 1)[0]:
+                  s = s.replace(es_priority_anchor, es_priority_anchor + es_add, 1)
+              if en_priority_anchor in s and 'Open Synthesis XLVIII · Issue #56' not in s[s.find('# EN · English'):]:
+                  s = s.replace(en_priority_anchor, en_priority_anchor + en_add, 1)
+              es_marker = '\nEl Manifiesto III mantiene su propia [Síntesis Abierta · Issue #3]'
+              if es_marker in s and '## Decimoquinta oleada · La Síntesis Todo lo Ve™ · XLVIII' not in s:
+                  s = s.replace(es_marker, es_sections + es_marker, 1)
+              en_marker = '\nManifesto III maintains its own [Open Synthesis · Issue #3]'
+              if en_marker in s and '## Fifteenth wave · The Synthesis Sees Everything™ · XLVIII' not in s:
+                  s = s.replace(en_marker, en_sections + en_marker, 1)
+              s = s.replace('→ XLII · FIN DE LA ERA DEL HOMBRE MANIPULADO\n→ I · RETORNO A ORIGEN Y NUEVO CICLO', '→ XLII · FIN DE LA ERA DEL HOMBRE MANIPULADO\n→ XLIII · INTELIGENCIA HUMANA EXPANDIDA\n→ XLIV · NEOWAR\n→ XLV · MULTIDIMENSIONALIDAD NEODIALÉCTICA\n→ XLVI · CERRAR LA HERIDA\n→ XLVII · SOMBRA, SINO Y DOBLE CARA\n→ XLVIII · LA SÍNTESIS TODO LO VE\n→ I · RETORNO A ORIGEN Y NUEVO CICLO')
+              s = s.replace('→ XLII · END OF THE MANIPULATED HUMAN ERA\n→ I · RETURN TO ORIGIN AND NEW CYCLE', '→ XLII · END OF THE MANIPULATED HUMAN ERA\n→ XLIII · HUMAN EXPANDED INTELLIGENCE\n→ XLIV · NEOWAR\n→ XLV · NEODIALECTICAL MULTIDIMENSIONALITY\n→ XLVI · CLOSING THE WOUND\n→ XLVII · SHADOW, FATE AND TWO FACES\n→ XLVIII · THE SYNTHESIS SEES EVERYTHING\n→ I · RETURN TO ORIGIN AND NEW CYCLE')
+              s = re.sub(r'Colección pública actual: \*\*\d+ manifiestos bilingües · I–XLV[I]* · [^*]+\*\* / Current public collection: \*\*\d+ bilingual manifestos · I–XLV[I]* · [^*]+\*\*\.', 'Colección pública actual: **48 manifiestos bilingües · I–XLVIII · quince oleadas** / Current public collection: **48 bilingual manifestos · I–XLVIII · fifteen waves**.', s)
+              s = re.sub(r'- Último manifiesto / Latest manifesto: \[[^\n]+\n', '- Último manifiesto / Latest manifesto: [XLVIII · La Síntesis Todo lo Ve™ · The Synthesis Sees Everything™](./manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md).\n', s)
+              p.write_text(s, encoding='utf-8')
+
+          # XLVII must navigate forward to XLVIII rather than closing the cycle directly.
+          p = Path('manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md')
+          s = p.read_text(encoding='utf-8')
+          s = s.replace('← [XLVI · Closing the Wound™](./46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md) · [Index](./README.md) · [I · Neo0™ · Neodialectical Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) →', '← [XLVI · Closing the Wound™](./46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md) · [Index](./README.md) · [XLVIII · The Synthesis Sees Everything™](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) →')
+          p.write_text(s, encoding='utf-8')
+
+          # Relation map coverage + explicit XLVIII relation.
+          p = Path('manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md')
+          s = p.read_text(encoding='utf-8')
+          s = s.replace('**Cobertura / Coverage:** I–XLVII · 47 manifiestos / 47 manifestos', '**Cobertura / Coverage:** I–XLVIII · 48 manifiestos / 48 manifestos')
+          if '## XLVIII · La Síntesis Todo lo Ve™' not in s:
+              s += '''\n\n---\n\n## XLVIII · La Síntesis Todo lo Ve™ / The Synthesis Sees Everything™\n\n**Relación / Relation:** B–C · estructural, genealógica y heurística / structural, genealogical and heuristic.\n\n- [XLVIII · manifiesto / manifesto](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)\n- [Síntesis Abierta XLVIII · Issue #56 / Open Synthesis XLVIII · Issue #56](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/56)\n- [Religión e identidad · mini placa de Petri / Religion and identity · mini Petri dish](../analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)\n- [II · Síntesis Abierta](./01_sintesis_abierta_neodialectica_ES_EN.md) · [V · Simbiosis Humano–IA](./03_simbiosis_humano_ia_ES_EN.md) · [IX · Memoria, Genealogía y Trazabilidad](./06_memoria_genealogia_trazabilidad_ES_EN.md) · [XIX · Persistencia de la Memoria](./19_persistencia_de_la_memoria_ES_EN.md) · [XLIII · Inteligencia Humana Expandida](./43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md) · [XLV · Multidimensionalidad](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md).\n\n**Límite epistemológico / Epistemic limit:** la Placa de Petri Universal™, la Máquina Fractal del Tiempo™, el humano como mónada y el tiempo como memoria evolutiva se relacionan aquí como modelos filosóficos y heurísticos abiertos a contraste. Esta correlación no los convierte en teorías físicas, cosmológicas o biológicas demostradas. / The Universal Petri Dish™, Fractal Time Machine™, human as monad and time as evolutionary memory are related here as philosophical and heuristic models open to contrast. This correlation does not turn them into demonstrated physical, cosmological or biological theories.\n'''
+          p.write_text(s, encoding='utf-8')
+
+          # Update stale canonical ranges in README files only; historical audit files are not touched.
+          for p in Path('.').rglob('README.md'):
+              s = p.read_text(encoding='utf-8')
+              s2 = s.replace('I–XLVII · 47 manifiestos', 'I–XLVIII · 48 manifiestos')
+              s2 = s2.replace('47 manifiestos · I–XLVII', '48 manifiestos · I–XLVIII')
+              s2 = s2.replace('47 manifestos · I–XLVII', '48 manifestos · I–XLVIII')
+              s2 = s2.replace('I–XLVII / 47 manifestos', 'I–XLVIII / 48 manifestos')
+              s2 = s2.replace('I–XLV', 'I–XLVIII')
+              if s2 != s:
+                  p.write_text(s2, encoding='utf-8')
+
+          # Validate canonical surfaces.
+          required = '48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md'
+          checks = [Path('README.md'), Path('LEEME.md'), Path('manifiestos/README.md'), Path('propuestas/sintesis-abierta/README.md'), Path('wiki-source/Manifiestos.md'), Path('manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md')]
+          missing = []
+          for p in checks:
+              t = p.read_text(encoding='utf-8')
+              if required not in t:
+                  missing.append(str(p))
+          if missing:
+              raise SystemExit('XLVIII missing from canonical surfaces: ' + ', '.join(missing))
+          for p in [Path('README.md'), Path('LEEME.md'), Path('manifiestos/README.md'), Path('propuestas/sintesis-abierta/README.md')]:
+              t = p.read_text(encoding='utf-8')
+              for roman in ['XLIV','XLV','XLVI','XLVII','XLVIII']:
+                  if roman not in t:
+                      raise SystemExit(f'{p}: missing {roman}')
+          print('XLVIII synchronisation validated')
+          PY
+
+      - name: Commit synchronisation and remove one-shot
+        shell: bash
+        run: |
+          rm -f .github/workflows/one-shot-sync-xlviii-readmes.yml
+          git config user.name "Innova_N automation"
+          git config user.email "actions@users.noreply.github.com"
+          git add README.md LEEME.md manifiestos/README.md manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md propuestas/sintesis-abierta/README.md wiki-source/Manifiestos.md '**/README.md' .github/workflows/one-shot-sync-xlviii-readmes.yml || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "docs: synchronise XLVIII across canonical surfaces"
+          git push origin HEAD:main
