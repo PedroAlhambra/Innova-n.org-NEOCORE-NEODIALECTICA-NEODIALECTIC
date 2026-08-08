@@ -1744,6 +1744,16 @@ Y dentro de ella ya puede verse una parte de la arquitectura del problema mayor.
 > **La fuerza no puede pertenecer al dogma. La identidad no puede ocupar el lugar de la individualidad. La unidad no exige uniformidad. Antes de predecir la historia hay que aprender a verla entera. La Neodialéctica es la herramienta que está dirigiendo ese vector de avance.**
 
 
+## Relación con XLIX · Punto de Encuentro entre Culturas™
+
+La formulación de este artículo sobre la Neodialéctica como punto de encuentro real entre culturas se desarrolla posteriormente como manifiesto autónomo:
+
+- [XLIX · La Neodialéctica como Punto de Encuentro entre Culturas™](../../manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)
+- [Síntesis Abierta XLIX · Issue #57](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/57)
+- [XLVIII · La Síntesis Todo lo Ve™](../../manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) — relación multiescala y antecedente de la Placa de Petri Universal.
+
+La relación es genealógica y conceptual; no convierte por sí sola las analogías del marco en afirmaciones empíricas demostradas.
+
 ## Documentos citados
 
 1. [PSOE · Programa electoral. Elecciones generales 2023](https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf)

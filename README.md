@@ -10,7 +10,7 @@
 
 <!-- MANIFESTOS_CURRENT_START -->
 
-**Colección completa de manifiestos / Complete manifesto collection:** **I–XLVIII · 48 manifiestos bilingües / 48 bilingual manifestos** · [índice canónico / canonical index](manifiestos/README.md)
+**Colección completa de manifiestos / Complete manifesto collection:** **I–XLIX · 49 manifiestos bilingües / 49 bilingual manifestos** · [índice canónico / canonical index](manifiestos/README.md)
 
 <!-- MANIFESTOS_CURRENT_END -->
 ---
@@ -25,7 +25,7 @@ Este repositorio conserva la capa pública, documental y trazable del ecosistema
 
 ## Accesos prioritarios
 
-* [Índice navegable de manifiestos I–XLVIII](./manifiestos/README.md)
+* [Índice navegable de manifiestos I–XLIX](./manifiestos/README.md)
 * [Anuncio histórico de la cuarta oleada](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [Anuncio de sexta oleada y deltas transversales](./anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md)
 * [XXXIII · IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
@@ -194,6 +194,12 @@ Los manifiestos no son documentos accesorios, resúmenes auxiliares ni consignas
 |---:|---|---|---|
 | XLVIII | [La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo](./manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) | Observación distribuida, escalas micro–macro, memoria evolutiva y tiempo como modelo fractal del organismo conjunto | [Issue #56](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/56) |
 
+## Decimosexta oleada · Punto de Encuentro entre Culturas™ · XLIX
+
+| Nº | Manifiesto | Función | Síntesis Abierta |
+|---:|---|---|---|
+| XLIX | [La Neodialéctica como Punto de Encuentro entre Culturas™](./manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md) | Unidad sin uniformidad, interoperabilidad cultural, traducción de sentido y cooperación sin desaparición | [Issue #57](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/57) |
+
 El Manifiesto III mantiene su propia [Síntesis Abierta · Issue #3](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3).
 
 ```text
@@ -237,6 +243,7 @@ I · NEO0™
 → XLVI · CERRAR LA HERIDA
 → XLVII · SOMBRA, SINO Y DOBLE CARA
 → XLVIII · LA SÍNTESIS TODO LO VE
+→ XLIX · PUNTO DE ENCUENTRO ENTRE CULTURAS
 → I · RETORNO A ORIGEN Y NUEVO CICLO
 ```
 
@@ -662,7 +669,7 @@ This repository preserves the public, documentary and traceable layer of the **I
 
 ## Priority access
 
-* [Navigable manifesto index I–XLVIII](./manifiestos/README.md)
+* [Navigable manifesto index I–XLIX](./manifiestos/README.md)
 * [Historical fourth-wave announcement](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [Sixth-wave and transverse-deltas announcement](./anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md)
 * [XXXIII · IDEA · Civilisational Cornerstone and Rosetta Stone™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
@@ -830,6 +837,12 @@ The manifestos are not accessory documents, auxiliary summaries or isolated slog
 |---:|---|---|---|
 | XLVIII | [The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine](./manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) | Distributed observation, micro–macro scales, evolutionary memory and time as a fractal model of the joint organism | [Issue #56](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/56) |
 
+## Sixteenth wave · Meeting Point between Cultures™ · XLIX
+
+| No. | Manifesto | Function | Open Synthesis |
+|---:|---|---|---|
+| XLIX | [Neodialectics as a Meeting Point between Cultures™](./manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md) | Unity without uniformity, cultural interoperability, translation of meaning and cooperation without disappearance | [Issue #57](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/57) |
+
 Manifesto III maintains its own [Open Synthesis · Issue #3](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3).
 
 ```text
@@ -873,6 +886,7 @@ I · NEO0™
 → XLVI · CLOSING THE WOUND
 → XLVII · SHADOW, FATE AND TWO FACES
 → XLVIII · THE SYNTHESIS SEES EVERYTHING
+→ XLIX · MEETING POINT BETWEEN CULTURES
 → I · RETURN TO ORIGIN AND NEW CYCLE
 ```
 
@@ -1151,8 +1165,8 @@ The protected architecture belongs to **Pedro Martínez Alhambra · Founder · N
 
 **Neodialectica Framework™ / Network · Innova_N · NEOCore™**
 
-- Colección pública actual: **48 manifiestos bilingües · I–XLVIII · quince oleadas** / Current public collection: **48 bilingual manifestos · I–XLVIII · fifteen waves**.
-- Último manifiesto / Latest manifesto: [XLVIII · La Síntesis Todo lo Ve™ · The Synthesis Sees Everything™](./manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md).
+- Colección pública actual: **49 manifiestos bilingües · I–XLIX · dieciséis oleadas** / Current public collection: **49 bilingual manifestos · I–XLIX · sixteen waves**.
+- Último manifiesto / Latest manifesto: [XLIX · La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™](./manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md).
 - Índice completo / Complete index: [Manifiestos / Manifestos](./manifiestos/README.md).
 - Contraste público / Public contrast: [Síntesis Abierta / Open Synthesis](./propuestas/sintesis-abierta/README.md).
 - Expansión y redundancia / Expansion and redundancy: [Protocolo de Proyección Distribuida Neodialéctica™](./proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md).

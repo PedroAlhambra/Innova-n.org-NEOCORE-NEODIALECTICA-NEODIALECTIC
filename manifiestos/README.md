@@ -5,7 +5,7 @@
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
-**Estado canónico / Canonical state:** **48 manifiestos bilingües · I–XLVIII · 15 oleadas / 48 bilingual manifestos · I–XLVIII · 15 waves**  
+**Estado canónico / Canonical state:** **49 manifiestos bilingües · I–XLIX · 15 oleadas / 48 bilingual manifestos · I–XLIX · 15 waves**  
 **Fecha de estado / State date:** 2026-08-08
 
 * [Mapa transversal Manifiestos ↔ trabajo aplicado / Manifestos ↔ applied work](./RELACIONES_TRABAJO_APLICADO_ES_EN.md)
@@ -15,7 +15,7 @@
 
 <!-- MANIFESTOS_CURRENT_START -->
 
-**Colección completa de manifiestos / Complete manifesto collection:** **I–XLVIII · 48 manifiestos bilingües / 48 bilingual manifestos** · [índice canónico / canonical index](README.md)
+**Colección completa de manifiestos / Complete manifesto collection:** **I–XLIX · 49 manifiestos bilingües / 49 bilingual manifestos** · [índice canónico / canonical index](README.md)
 
 <!-- MANIFESTOS_CURRENT_END -->
 ---
@@ -314,3 +314,11 @@ PRINCIPLE
 **Principio de procedencia / Provenance principle:** la fuente intelectual y genealógica es **Innova_N**, dentro de **NEOCore™ / Neodialectica Framework™ / Network**, bajo dirección humana de **Pedro Martínez Alhambra · Neo0™**. GitHub es la primera proyección WEB4™ pública, versionada y trazable; no es el origen intelectual del sistema. / The intellectual and genealogical source is **Innova_N**, within **NEOCore™ / Neodialectica Framework™ / Network**, under the human direction of **Pedro Martínez Alhambra · Neo0™**. GitHub is the first public, versioned and traceable WEB4™ projection; it is not the intellectual origin of the system.
 
 **© 2026 Pedro Martínez Alhambra · Fundación Innova_N / Innova_N Foundation**
+
+
+## Decimosexta oleada · Punto de Encuentro entre Culturas™ · XLIX
+## Sixteenth wave · Meeting Point between Cultures™ · XLIX
+
+| Nº / No. | Manifiesto / Manifesto | Función / Function | Síntesis / Synthesis |
+|---:|---|---|---|
+| XLIX | [La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™](./49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md) | Unidad sin uniformidad; interoperabilidad cultural; traducción de sentido; cooperación sin desaparición / Unity without uniformity; cultural interoperability; translation of meaning; cooperation without disappearance | [Issue #57](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/57) |

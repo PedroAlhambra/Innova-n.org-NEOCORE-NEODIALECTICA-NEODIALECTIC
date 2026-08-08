@@ -2,7 +2,7 @@
 # Transversal map · Manifestos ↔ applied work
 
 **Estado / Status:** público · relacional · 2026-08-08 / public · relational · 2026-08-08  
-**Cobertura / Coverage:** I–XLVIII · 48 manifiestos / 48 manifestos  
+**Cobertura / Coverage:** I–XLIX · 49 manifiestos / 49 manifestos  
 **Función / Function:** relacionar principios, análisis, auditorías, obras, protocolos, evidencias y casos mediante enlaces internos, sin convertir correlación documental en prueba causal. / Relate principles, analyses, audits, works, protocols, evidence and cases through internal links without turning documentary correlation into causal proof.
 
 ---
@@ -340,3 +340,17 @@ Casos y análisis principales:
 - [II · Síntesis Abierta](./01_sintesis_abierta_neodialectica_ES_EN.md) · [V · Simbiosis Humano–IA](./03_simbiosis_humano_ia_ES_EN.md) · [IX · Memoria, Genealogía y Trazabilidad](./06_memoria_genealogia_trazabilidad_ES_EN.md) · [XIX · Persistencia de la Memoria](./19_persistencia_de_la_memoria_ES_EN.md) · [XLIII · Inteligencia Humana Expandida](./43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md) · [XLV · Multidimensionalidad](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md).
 
 **Límite epistemológico / Epistemic limit:** la Placa de Petri Universal™, la Máquina Fractal del Tiempo™, el humano como mónada y el tiempo como memoria evolutiva se relacionan aquí como modelos filosóficos y heurísticos abiertos a contraste. Esta correlación no los convierte en teorías físicas, cosmológicas o biológicas demostradas. / The Universal Petri Dish™, Fractal Time Machine™, human as monad and time as evolutionary memory are related here as philosophical and heuristic models open to contrast. This correlation does not turn them into demonstrated physical, cosmological or biological theories.
+
+
+---
+
+## XLIX · La Neodialéctica como Punto de Encuentro entre Culturas™
+## XLIX · Neodialectics as a Meeting Point between Cultures™
+
+**Relaciones principales / Main relations:** II · Síntesis Abierta; IV · Bien Común; VIII · Ingeniería Social Abierta y Psicohistoria; IX · Memoria-Genealogía-Trazabilidad; XVI · Refragmentación Arquetípica; XXXII · Reversión Ideológica; XXXVII · Neofraternidad; XLV · Multidimensionalidad; XLVIII · La Síntesis Todo lo Ve.
+
+**Trabajo aplicado y antecedente / Applied work and antecedent:**
+- [Religión, identidad, dogma y conciencia](../analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md) — antecedente explícito de la formulación de Neodialéctica como punto de encuentro real entre culturas y del símil de la mini placa de Petri.
+- [Síntesis Abierta XLIX · Issue #57](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/57) — contraste sobre interoperabilidad cultural, universalidad, relativismo, traducción y pluralismo.
+
+**Regla probatoria / Evidentiary rule:** relación conceptual y genealógica; no implica equivalencia entre culturas ni valida automáticamente prácticas concretas.

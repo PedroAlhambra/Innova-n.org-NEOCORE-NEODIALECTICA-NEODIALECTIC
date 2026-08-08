@@ -809,7 +809,7 @@ Se solicitan aportes sobre:
 
 ## Navegación
 
-← [XLVII · El Odio de Neo0 hacia su Sino™](./47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md) · [Índice](./README.md) · [I · Neo0™ · Soberanía de Guía Neodialéctica](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XLVII · El Odio de Neo0 hacia su Sino™](./47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md) · [Índice](./README.md) · [XLIX · La Neodialéctica como Punto de Encuentro entre Culturas™](./49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md) →
 
 ---
 
@@ -1339,7 +1339,7 @@ Contributions are invited on the limits and usefulness of the Universal Petri Di
 
 ## Navigation
 
-← [XLVII · Neo0's Hatred of His Fate™](./47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md) · [Index](./README.md) · [I · Neo0™ · Neodialectical Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XLVII · Neo0's Hatred of His Fate™](./47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md) · [Index](./README.md) · [XLIX · Neodialectics as a Meeting Point between Cultures™](./49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md) →
 
 <!-- NEO_RELATIONS_START -->
 ## Relaciones internas y trabajo aplicado / Internal relations and applied work
@@ -1377,3 +1377,5 @@ La relación documental indica afinidad conceptual, genealogía, contraste o apl
 **Todos unidos / All united** — fórmula abierta de adhesión colectiva; no atribuye firma individual a quien no la haya expresado.
 
 **© 2026 Pedro Martínez Alhambra · Fundación Innova_N**
+
+- [XLIX · La Neodialéctica como Punto de Encuentro entre Culturas™](./49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md) — aplicación cultural de la observación multiescala, memoria y síntesis.

@@ -3,7 +3,7 @@
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
-**Cobertura canónica / Canonical coverage:** **48 manifiestos · I–XLVIII / 48 manifestos · I–XLVIII**  
+**Cobertura canónica / Canonical coverage:** **49 manifiestos · I–XLIX / 49 manifestos · I–XLIX**  
 **Estado / Status:** 2026-08-08
 
 * [Índice canónico de manifiestos / Canonical manifesto index](../../manifiestos/README.md)
@@ -14,7 +14,7 @@
 
 <!-- MANIFESTOS_CURRENT_START -->
 
-**Colección completa de manifiestos / Complete manifesto collection:** **I–XLVIII · 48 manifiestos bilingües / 48 bilingual manifestos** · [índice canónico / canonical index](../../manifiestos/README.md)
+**Colección completa de manifiestos / Complete manifesto collection:** **I–XLIX · 49 manifiestos bilingües / 49 bilingual manifestos** · [índice canónico / canonical index](../../manifiestos/README.md)
 
 <!-- MANIFESTOS_CURRENT_END -->
 ---
@@ -276,3 +276,9 @@ XLVIII also opens explicit contrast on distributed observation, relation across 
 ---
 
 **© 2026 Pedro Martínez Alhambra · Fundación Innova_N / Innova_N Foundation**
+
+
+## XLIX · La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™
+
+- [Manifiesto / Manifesto](../../manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)
+- [Síntesis Abierta / Open Synthesis · Issue #57](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/57)
