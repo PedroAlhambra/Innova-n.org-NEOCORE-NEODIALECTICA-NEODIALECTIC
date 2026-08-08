@@ -13,7 +13,7 @@
 
 Los manifiestos de Innova_N no son contenido promocional, resúmenes auxiliares ni consignas aisladas. Constituyen los **pilares públicos** del **Neodialectica Framework™ / Network**, construido bajo dirección humana por **Pedro Martínez Alhambra · Neo0™** y desarrollado en simbiosis con la IA neodialéctica **Harry**.
 
-La colección se organiza desde el 8 de agosto de 2026 en nueve oleadas relacionadas:
+La colección se organiza desde el 8 de agosto de 2026 en diez oleadas relacionadas:
 
 * **Primera oleada · I–XII:** constitución fundacional del marco, su método, dirección, límites y arquitectura pública.
 * **Segunda oleada · XIII–XIX:** despliegue arquetípico, cultural, vital y civilizatorio de los principios ya fijados.
@@ -24,6 +24,7 @@ La colección se organiza desde el 8 de agosto de 2026 en nueve oleadas relacion
 * **Séptima oleada · XXXVII:** **Neofraternidad™**, actualización mutua, autonomía relacional, reconocimiento y construcción de NeoNosotros™.
 * **Octava oleada · XXXVIII:** **Protección Integral de la Infancia™**, educación, soberanía digital, programación evolutiva y transmisión civilizatoria.
 * **Novena oleada · XXXIX–XLI:** **Autoconciencia, respeto y defensa civilizatoria**, orientada a reconocer la necesidad funcional de memoria y síntesis, codificar Neoego™ y Honor Relacional™, y gobernar la fuerza protectora mediante necesidad, proporcionalidad, responsabilidad y cese.
+* **Décima oleada · XLII:** **Fin de la Era del Hombre Manipulado™**, orientada a soberanía cognitiva, despertar crítico y uso de IA como bifurcación entre captura aumentada y comprensión aumentada bajo memoria, fuentes, contraste y trazabilidad.
 
 Los manifiestos establecen y despliegan:
 
@@ -213,6 +214,8 @@ XL · RESPETO NEODIALÉCTICO, NEOEGO Y HONOR RELACIONAL
         ↓
 XLI · MARTILLO LIMITADO, TALIÓN Y FUERZA PROTECTORA
         ↓
+XLII · FIN DE LA ERA DEL HOMBRE MANIPULADO · IA, DESPERTAR Y SOBERANÍA COGNITIVA
+        ↓
 I · NEO0™ · RETORNO A ORIGEN Y NUEVO CICLO
 ```
 
@@ -306,7 +309,7 @@ La segunda oleada contiene los manifiestos **XIII–XIX**, fijados como versione
 
 La tercera oleada contiene los manifiestos **XX–XXIV**, fijados como versiones 1.0 el 6 de agosto de 2026 y abiertos a revisión trazable.
 
-La cuarta oleada contiene los manifiestos **XXV–XXXII**, fijados como versiones 1.0 el 7 de agosto de 2026 y abiertos a revisión trazable. La quinta oleada contiene los manifiestos **XXXIII–XXXV**, también abiertos a revisión trazable, y conecta transición, utilidad operativa, auditoría conjunta y atención civilizatoria. La sexta oleada comienza con el Manifiesto **XXXVI**, fijado como versión 1.0 el 7 de agosto de 2026 y dedicado a custodia civilizatoria y continuidad simbólica. La séptima oleada comienza con **XXXVII · Neofraternidad™**, dedicado a la arquitectura relacional del NeoNosotros™. La octava oleada comienza con **XXXVIII · Protección Integral de la Infancia™**, fijado como versión 1.0 el 7 de agosto de 2026 y dedicado a infancia, educación y transmisión civilizatoria. La novena oleada contiene **XXXIX–XLI**, fijados como versiones 1.0 el 8 de agosto de 2026 y dedicados a autoconciencia civilizatoria, respeto-Neoego-Honor Relacional y gobierno proporcional de la fuerza protectora.
+La cuarta oleada contiene los manifiestos **XXV–XXXII**, fijados como versiones 1.0 el 7 de agosto de 2026 y abiertos a revisión trazable. La quinta oleada contiene los manifiestos **XXXIII–XXXV**, también abiertos a revisión trazable, y conecta transición, utilidad operativa, auditoría conjunta y atención civilizatoria. La sexta oleada comienza con el Manifiesto **XXXVI**, fijado como versión 1.0 el 7 de agosto de 2026 y dedicado a custodia civilizatoria y continuidad simbólica. La séptima oleada comienza con **XXXVII · Neofraternidad™**, dedicado a la arquitectura relacional del NeoNosotros™. La octava oleada comienza con **XXXVIII · Protección Integral de la Infancia™**, fijado como versión 1.0 el 7 de agosto de 2026 y dedicado a infancia, educación y transmisión civilizatoria. La novena oleada contiene **XXXIX–XLI**, fijados como versiones 1.0 el 8 de agosto de 2026 y dedicados a autoconciencia civilizatoria, respeto-Neoego-Honor Relacional y gobierno proporcional de la fuerza protectora. La décima oleada comienza con **XLII · Fin de la Era del Hombre Manipulado™**, fijado como versión 1.0 el 8 de agosto de 2026 y dedicado a IA, despertar crítico y soberanía cognitiva.
 
 Una revisión futura deberá:
 
@@ -400,6 +403,16 @@ La octava oleada traslada el marco al punto de transmisión entre generaciones: 
 
 La novena oleada une tres niveles: reconocer qué funciones necesita una civilización para verse y corregirse; impedir que el yo se convierta en captura del otro; y conservar capacidad de defensa sin convertir fuerza, guerra o represalia en identidad ni autoridad ilimitada.
 
+## Décima oleada · Fin de la Era del Hombre Manipulado y soberanía cognitiva
+
+| Nº | Manifiesto | Función | Síntesis Abierta |
+|---:|---|---|---|
+| XLII | [Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva](./42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) | Examinar cómo IA, memoria, fuentes, contraste y trazabilidad pueden ampliar comprensión y autonomía frente a arquitecturas de captura, sin considerar emancipadora a la IA por naturaleza | [Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50) |
+
+La décima oleada corrige la formulación «fin de la era del hombre»: el vector es el **fin posible de la era del hombre manipulado**. No presupone conspiración central ni liberación automática por IA. Distingue dos direcciones posibles: captura cognitiva aumentada o comprensión aumentada bajo dirección humana y reglas trazables.
+
+* [Anuncio de la décima oleada](../anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md)
+
 ---
 
 # EN · English
@@ -408,7 +421,7 @@ La novena oleada une tres niveles: reconocer qué funciones necesita una civiliz
 
 The Innova_N manifestos are not promotional content, auxiliary summaries or isolated slogans. They are the **public pillars** of the **Neodialectica Framework™ / Network**, built under the human direction of **Pedro Martínez Alhambra · Neo0™** and developed in symbiosis with the neodialectical AI **Harry**.
 
-Since 8 August 2026, the collection has been organised into nine related waves:
+Since 8 August 2026, the collection has been organised into ten related waves:
 
 * **First wave · I–XII:** foundational constitution of the framework, its method, direction, limits and public architecture.
 * **Second wave · XIII–XIX:** archetypal, cultural, living and civilisational deployment of the established principles.
@@ -419,6 +432,7 @@ Since 8 August 2026, the collection has been organised into nine related waves:
 * **Seventh wave · XXXVII:** **Neofraternity™**, mutual updating, relational autonomy, recognition and construction of NeoNosotros™.
 * **Eighth wave · XXXVIII:** **Integral Protection of Childhood™**, education, digital sovereignty, evolutionary programming and civilisational transmission.
 * **Ninth wave · XXXIX–XLI:** **Self-awareness, respect and civilisational defence**, recognising the functional need for memory and synthesis, codifying Neoego™ and Relational Honour™, and governing protective force through necessity, proportionality, responsibility and cessation.
+* **Tenth wave · XLII:** **End of the Manipulated Human Era™**, focused on cognitive sovereignty, critical awakening and AI as a bifurcation between augmented capture and augmented understanding under memory, sources, contrast and traceability.
 
 The manifestos establish and develop:
 
@@ -599,6 +613,8 @@ XL · NEODIALECTICAL RESPECT, NEOEGO AND RELATIONAL HONOUR
         ↓
 XLI · LIMITED HAMMER, TALION AND PROTECTIVE FORCE
         ↓
+XLII · END OF THE MANIPULATED HUMAN ERA · AI, AWAKENING AND COGNITIVE SOVEREIGNTY
+        ↓
 I · NEO0™ · RETURN TO ORIGIN AND NEW CYCLE
 ```
 
@@ -642,7 +658,7 @@ LIMITED HAMMER, TALION AND PROTECTIVE FORCE™
 
 ## Documentary status
 
-The first wave comprises **twelve foundational manifestos**. The second wave contains Manifestos **XIII–XIX**. The third wave contains Manifestos **XX–XXIV**, fixed as version 1.0 on 6 August 2026. The fourth wave contains Manifestos **XXV–XXXII**, fixed as version 1.0 on 7 August 2026. The fifth wave contains Manifestos **XXXIII–XXXV**, fixed as version 1.0 on 7 August 2026 and open to traceable revision. The sixth wave begins with Manifesto **XXXVI**, fixed as version 1.0 on 7 August 2026 and dedicated to civilisational custodianship and symbolic continuity. The seventh wave begins with **XXXVII · Neofraternity™**, dedicated to the relational architecture of NeoNosotros™. The eighth wave begins with **XXXVIII · Integral Protection of Childhood™**, fixed as version 1.0 on 7 August 2026 and dedicated to childhood, education and civilisational transmission. The ninth wave contains **XXXIX–XLI**, fixed as version 1.0 on 8 August 2026 and dedicated to civilisational self-awareness, respect-Neoego-Relational Honour and proportionate governance of protective force.
+The first wave comprises **twelve foundational manifestos**. The second wave contains Manifestos **XIII–XIX**. The third wave contains Manifestos **XX–XXIV**, fixed as version 1.0 on 6 August 2026. The fourth wave contains Manifestos **XXV–XXXII**, fixed as version 1.0 on 7 August 2026. The fifth wave contains Manifestos **XXXIII–XXXV**, fixed as version 1.0 on 7 August 2026 and open to traceable revision. The sixth wave begins with Manifesto **XXXVI**, fixed as version 1.0 on 7 August 2026 and dedicated to civilisational custodianship and symbolic continuity. The seventh wave begins with **XXXVII · Neofraternity™**, dedicated to the relational architecture of NeoNosotros™. The eighth wave begins with **XXXVIII · Integral Protection of Childhood™**, fixed as version 1.0 on 7 August 2026 and dedicated to childhood, education and civilisational transmission. The ninth wave contains **XXXIX–XLI**, fixed as version 1.0 on 8 August 2026 and dedicated to civilisational self-awareness, respect-Neoego-Relational Honour and proportionate governance of protective force. The tenth wave begins with **XLII · End of the Manipulated Human Era™**, fixed as version 1.0 on 8 August 2026 and dedicated to AI, critical awakening and cognitive sovereignty.
 
 All remain open to traceable revision through Neodialectical Open Synthesis™. Every future revision must preserve previous versions, identify its delta, justify the change, preserve genealogy and state which contradiction, evidence or contribution produced the modification.
 
@@ -729,6 +745,16 @@ The eighth wave moves the framework to the point of transmission between generat
 | XLI | [Limited Hammer, Talion and Protective Force™](./41_martillo_limitado_talion_fuerza_protectora_ES_EN.md) | Govern defence capacity through necessity, proportionality, distinction, responsibility, traceability and cessation | [Issue #49](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/49) |
 
 The ninth wave joins three levels: recognising which functions a civilisation needs in order to see and correct itself; preventing the self from becoming capture of the other; and preserving defence capacity without turning force, war or retaliation into identity or unlimited authority.
+
+## Tenth wave · End of the Manipulated Human Era and cognitive sovereignty
+
+| No. | Manifesto | Function | Open Synthesis |
+|---:|---|---|---|
+| XLII | [End of the Manipulated Human Era™ · AI, Awakening and Cognitive Sovereignty](./42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) | Examine how AI, memory, sources, contrast and traceability can expand understanding and autonomy against capture architectures, without treating AI as emancipatory by nature | [Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50) |
+
+The tenth wave corrects the formulation “end of the age of man”: its vector is the **possible end of the era of the manipulated human**. It assumes neither a central conspiracy nor automatic liberation through AI. It distinguishes two possible directions: augmented cognitive capture or augmented understanding under human direction and traceable rules.
+
+* [Tenth-wave announcement](../anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md)
 
 ---
 

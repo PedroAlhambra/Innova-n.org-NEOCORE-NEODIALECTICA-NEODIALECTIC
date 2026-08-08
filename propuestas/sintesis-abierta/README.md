@@ -9,11 +9,11 @@
 
 Este directorio reúne propuestas públicas abiertas a contraste, adhesión parcial, crítica, reformulación y mejora trazable.
 
-**Cobertura canónica actual:** los **38 manifiestos I–XXXVIII** disponen de una Síntesis Abierta específica. Los anexos y propuestas complementarias se indexan aparte para no confundirlos con la numeración canónica de manifiestos.
+**Cobertura canónica actual:** los **42 manifiestos I–XLII** disponen de una Síntesis Abierta específica. Los anexos y propuestas complementarias se indexan aparte para no confundirlos con la numeración canónica de manifiestos.
 
 ## Acceso general
 
-* [Índice completo de manifiestos I–XXXVIII](../../manifiestos/README.md)
+* [Índice completo de manifiestos I–XLII](../../manifiestos/README.md)
 * [Manifiesto III · Derecho Humano de Aporte](../../manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
 * [Protocolo operativo de aporte](./APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Plantilla para abrir un aporte](../../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
@@ -139,6 +139,22 @@ Las propuestas se originan en el marco creado por **Pedro Martínez Alhambra · 
 * [MAXPROC de protección integral](../../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
 * [Fuentes y matriz de evidencias](../../analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md)
 
+## Novena oleada · Autoconciencia, respeto y defensa civilizatoria
+
+| Nº | Manifiesto | Síntesis Abierta |
+|---:|---|---|
+| XXXIX | [Autoconciencia de la Necesidad Vital Neodialéctica™](../../manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md) | [Issue #47](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/47) |
+| XL | [Respeto Neodialéctico, Neoego y Honor Relacional™](../../manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md) | [Issue #48](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/48) |
+| XLI | [Martillo Limitado, Talión y Fuerza Protectora™](../../manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md) | [Issue #49](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/49) |
+
+## Décima oleada · Fin de la Era del Hombre Manipulado™
+
+| Nº | Manifiesto | Síntesis Abierta |
+|---:|---|---|
+| XLII | [Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva](../../manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) | [Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50) |
+
+* [Anuncio de la décima oleada](../../anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md)
+
 
 ---
 
@@ -146,11 +162,11 @@ Las propuestas se originan en el marco creado por **Pedro Martínez Alhambra · 
 
 This directory gathers public proposals open to contrast, partial endorsement, criticism, reformulation and traceable improvement.
 
-**Current canonical coverage:** all **38 Manifestos I–XXXVIII** have a dedicated Open Synthesis. Annexes and complementary proposals are indexed separately so they are not confused with the canonical manifesto numbering.
+**Current canonical coverage:** all **42 Manifestos I–XLII** have a dedicated Open Synthesis. Annexes and complementary proposals are indexed separately so they are not confused with the canonical manifesto numbering.
 
 ## General access
 
-* [Complete manifesto index I–XXXVIII](../../manifiestos/README.md)
+* [Complete manifesto index I–XLII](../../manifiestos/README.md)
 * [Manifesto III · Human Right to Contribute](../../manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
 * [Operational contribution protocol](./APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Contribution Issue template](../../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
@@ -236,6 +252,22 @@ This directory gathers public proposals open to contrast, partial endorsement, c
 
 * [Child-protection MAXPROC](../../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
 * [Sources and evidence matrix](../../analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md)
+
+## Ninth wave · Self-awareness, respect and civilisational defence
+
+| No. | Manifesto | Open Synthesis |
+|---:|---|---|
+| XXXIX | [Self-Awareness of Neodialectical Vital Need™](../../manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md) | [Issue #47](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/47) |
+| XL | [Neodialectical Respect, Neoego and Relational Honour™](../../manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md) | [Issue #48](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/48) |
+| XLI | [Limited Hammer, Talion and Protective Force™](../../manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md) | [Issue #49](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/49) |
+
+## Tenth wave · End of the Manipulated Human Era™
+
+| No. | Manifesto | Open Synthesis |
+|---:|---|---|
+| XLII | [End of the Manipulated Human Era™ · AI, Awakening and Cognitive Sovereignty](../../manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) | [Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50) |
+
+* [Tenth-wave announcement](../../anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md)
 
 ## Annex and complementary-proposal syntheses
 

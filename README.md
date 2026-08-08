@@ -19,7 +19,7 @@ Este repositorio conserva la capa pública, documental y trazable del ecosistema
 
 ## Accesos prioritarios
 
-* [Índice navegable de manifiestos I–XXXVIII](./manifiestos/README.md)
+* [Índice navegable de manifiestos I–XLII](./manifiestos/README.md)
 * [Anuncio histórico de la cuarta oleada](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [Anuncio de sexta oleada y deltas transversales](./anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md)
 * [XXXIII · IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
@@ -28,6 +28,12 @@ Este repositorio conserva la capa pública, documental y trazable del ecosistema
 * [XXXVI · Corona, Águila y Custodia de la Edad del Hombre™](./manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)
 * [XXXVII · Neofraternidad™](./manifiestos/37_neofraternidad_ES_EN.md)
 * [XXXVIII · Protección Integral de la Infancia™](./manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+* [XXXIX · Autoconciencia de la Necesidad Vital Neodialéctica™](./manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md)
+* [XL · Respeto Neodialéctico, Neoego y Honor Relacional™](./manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md)
+* [XLI · Martillo Limitado, Talión y Fuerza Protectora™](./manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md)
+* [XLII · Fin de la Era del Hombre Manipulado™](./manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
+* [Síntesis Abierta XLII · Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50)
+* [Décima oleada · anuncio](./anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md)
 * [MAXPROC · Protección Integral de la Infancia™](./analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
 * [Síntesis Abierta XXXVIII · Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45)
 * [V · Inteligencia Fractal™ · coexistencia inteligente](./manifiestos/03_simbiosis_humano_ia_ES_EN.md)
@@ -134,6 +140,20 @@ Los manifiestos no son documentos accesorios, resúmenes auxiliares ni consignas
 |---:|---|---|---|
 | XXXVIII | [Protección Integral de la Infancia™](./manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) | Proteger seguridad material, educación, desarrollo por edades, privacidad y atención frente a captura comercial y abandono sistémico | [Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45) |
 
+## Novena oleada · Autoconciencia, respeto y defensa civilizatoria · XXXIX–XLI
+
+| Nº | Manifiesto | Función | Síntesis Abierta |
+|---:|---|---|---|
+| XXXIX | [Autoconciencia de la Necesidad Vital Neodialéctica™](./manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md) | Memoria, relación, contraste, trazabilidad y corrección como infraestructura civilizatoria | [Issue #47](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/47) |
+| XL | [Respeto Neodialéctico, Neoego y Honor Relacional™](./manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md) | Fortalecer el yo sin convertir excelencia en captura; preservar límites, reciprocidad y genealogía | [Issue #48](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/48) |
+| XLI | [Martillo Limitado, Talión y Fuerza Protectora™](./manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md) | Gobernar la defensa mediante necesidad, proporcionalidad, distinción, responsabilidad y cese | [Issue #49](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/49) |
+
+## Décima oleada · Fin de la Era del Hombre Manipulado™ · XLII
+
+| Nº | Manifiesto | Función | Síntesis Abierta |
+|---:|---|---|---|
+| XLII | [Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva](./manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) | Convertir la IA en herramienta potencial de comprensión, memoria y contraste frente a captura cognitiva, sin atribuirle emancipación automática | [Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50) |
+
 El Manifiesto III mantiene su propia [Síntesis Abierta · Issue #3](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3).
 
 ```text
@@ -166,6 +186,11 @@ I · NEO0™
 → XXXV · CONTRA LA RIDICULEZ MEDIÁTICA Y LA ECONOMÍA DEL CONFLICTO
 → XXXVI · CORONA, ÁGUILA Y CUSTODIA DE LA EDAD DEL HOMBRE
 → XXXVII · NEOFRATERNIDAD™
+→ XXXVIII · PROTECCIÓN INTEGRAL DE LA INFANCIA
+→ XXXIX · AUTOCONCIENCIA DE LA NECESIDAD VITAL
+→ XL · NEOEGO Y HONOR RELACIONAL
+→ XLI · MARTILLO LIMITADO Y FUERZA PROTECTORA
+→ XLII · FIN DE LA ERA DEL HOMBRE MANIPULADO
 → I · RETORNO A ORIGEN Y NUEVO CICLO
 ```
 
@@ -422,7 +447,7 @@ La capa pública reúne obras literarias, musicales, visuales y culturales vincu
 
 **IDEA** es una novela de ciencia ficción escrita entre 1997 y 2002. Una versión con leves modificaciones fue presentada al Premio UPC de Ciencia Ficción en 2002. Su primera edición pública apareció en 2026 mediante restauración conservadora.
 
-IDEA antecede a la Neodialéctica™, Innova_N, NEOCore™, NAVE™, SAN™, WEB4™ y al vocabulario posterior del marco. Su función actual como puerta narrativa no altera esa genealogía.
+IDEA antecede a la Neodialéctica™, Innova_N, NEOCore™, NAVE™, SAN™, WEB4™ y al vocabulario posterior del marco. Su función actual como puerta narrativa no altera esa genealogía. La décima oleada hace explícita otra relación: desde una ficción de 1997–2002, IDEA permite entrar en el problema contemporáneo de la soberanía cognitiva frente a sistemas de captura y en el uso de IA para reconstruir contexto, memoria y contraste.
 
 * [Obras y ecosistema creativo](./obras/README.md)
 * [IDEA · nodo público](./obras/idea/README.md)
@@ -591,7 +616,7 @@ This repository preserves the public, documentary and traceable layer of the **I
 
 ## Priority access
 
-* [Navigable manifesto index I–XXXVIII](./manifiestos/README.md)
+* [Navigable manifesto index I–XLII](./manifiestos/README.md)
 * [Historical fourth-wave announcement](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [Sixth-wave and transverse-deltas announcement](./anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md)
 * [XXXIII · IDEA · Civilisational Cornerstone and Rosetta Stone™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
@@ -600,6 +625,12 @@ This repository preserves the public, documentary and traceable layer of the **I
 * [XXXVI · Crown, Eagle and Custodianship of the Age of Man™](./manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)
 * [XXXVII · Neofraternity™](./manifiestos/37_neofraternidad_ES_EN.md)
 * [XXXVIII · Integral Protection of Childhood™](./manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+* [XXXIX · Self-Awareness of Neodialectical Vital Need™](./manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md)
+* [XL · Neodialectical Respect, Neoego and Relational Honour™](./manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md)
+* [XLI · Limited Hammer, Talion and Protective Force™](./manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md)
+* [XLII · End of the Manipulated Human Era™](./manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
+* [Open Synthesis XLII · Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50)
+* [Tenth-wave announcement](./anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md)
 * [MAXPROC · Integral Protection of Childhood™](./analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
 * [Open Synthesis XXXVIII · Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45)
 * [V · Fractal Intelligence™ · intelligent coexistence](./manifiestos/03_simbiosis_humano_ia_ES_EN.md)
@@ -706,6 +737,20 @@ The manifestos are not accessory documents, auxiliary summaries or isolated slog
 |---:|---|---|---|
 | XXXVIII | [Integral Protection of Childhood™](./manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) | Protect material security, education, age-differentiated development, privacy and attention against commercial capture and systemic abandonment | [Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45) |
 
+## Ninth wave · Self-awareness, respect and civilisational defence · XXXIX–XLI
+
+| No. | Manifesto | Function | Open Synthesis |
+|---:|---|---|---|
+| XXXIX | [Self-Awareness of Neodialectical Vital Need™](./manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md) | Memory, relation, contrast, traceability and correction as civilisational infrastructure | [Issue #47](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/47) |
+| XL | [Neodialectical Respect, Neoego and Relational Honour™](./manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md) | Strengthen the self without turning excellence into capture; preserve boundaries, reciprocity and genealogy | [Issue #48](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/48) |
+| XLI | [Limited Hammer, Talion and Protective Force™](./manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md) | Govern defence through necessity, proportionality, distinction, responsibility and cessation | [Issue #49](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/49) |
+
+## Tenth wave · End of the Manipulated Human Era™ · XLII
+
+| No. | Manifesto | Function | Open Synthesis |
+|---:|---|---|---|
+| XLII | [End of the Manipulated Human Era™ · AI, Awakening and Cognitive Sovereignty](./manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) | Make AI a potential instrument of understanding, memory and contrast against cognitive capture, without attributing automatic emancipation to it | [Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50) |
+
 Manifesto III maintains its own [Open Synthesis · Issue #3](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3).
 
 ```text
@@ -738,6 +783,11 @@ I · NEO0™
 → XXXV · AGAINST MEDIA ABSURDITY AND THE CONFLICT ECONOMY
 → XXXVI · CROWN, EAGLE AND CUSTODIANSHIP OF THE AGE OF MAN
 → XXXVII · NEOFRATERNITY™
+→ XXXVIII · INTEGRAL PROTECTION OF CHILDHOOD
+→ XXXIX · SELF-AWARENESS OF VITAL NEED
+→ XL · NEOEGO AND RELATIONAL HONOUR
+→ XLI · LIMITED HAMMER AND PROTECTIVE FORCE
+→ XLII · END OF THE MANIPULATED HUMAN ERA
 → I · RETURN TO ORIGIN AND NEW CYCLE
 ```
 
@@ -887,7 +937,7 @@ It is not the complete operational system, a functional NEOCore™ copy, an open
 
 **IDEA** is a science-fiction novel written between 1997 and 2002. A version with minor changes was submitted to the UPC Science Fiction Award in 2002. Its first public edition appeared in 2026 through conservative restoration.
 
-IDEA predates Neodialectics™, Innova_N, NEOCore™, NAVE™, SAN™, WEB4™ and the later vocabulary of the framework. Its present narrative-gateway function does not alter that genealogy.
+IDEA predates Neodialectics™, Innova_N, NEOCore™, NAVE™, SAN™, WEB4™ and the later vocabulary of the framework. Its present narrative-gateway function does not alter that genealogy. The tenth wave makes another relation explicit: from a 1997–2002 fiction, IDEA provides an entry into the contemporary problem of cognitive sovereignty against capture systems and into the use of AI to reconstruct context, memory and contrast.
 
 * [Works and creative ecosystem](./obras/README.md)
 * [IDEA public node](./obras/idea/README.md)

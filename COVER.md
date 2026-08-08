@@ -18,7 +18,7 @@ El marco fue originado y dirigido por **Pedro Martínez Alhambra · Neo0™**, d
 
 * [README bilingüe principal](./README.md)
 * [LEEME bilingüe](./LEEME.md)
-* [Índice de manifiestos I–XXXVIII](./manifiestos/README.md)
+* [Índice de manifiestos I–XLII](./manifiestos/README.md)
 * [XXXVIII · Protección Integral de la Infancia™](./manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
 * [Octava oleada · Protección Integral de la Infancia](./anuncios/2026-08-07_OCTAVA_OLEADA_PROTECCION_INTEGRAL_INFANCIA_ES_EN.md)
 * [Tercera oleada · Sistema Inmunitario Intelectual Neodialéctico™](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
@@ -136,7 +136,7 @@ The framework was originated and directed by **Pedro Martínez Alhambra · Neo0�
 
 * [Main bilingual README](./README.md)
 * [Bilingual LEEME](./LEEME.md)
-* [Manifesto index I–XXXVIII](./manifiestos/README.md)
+* [Manifesto index I–XLII](./manifiestos/README.md)
 * [XXXVIII · Integral Protection of Childhood™](./manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
 * [Eighth wave · Integral Protection of Childhood](./anuncios/2026-08-07_OCTAVA_OLEADA_PROTECCION_INTEGRAL_INFANCIA_ES_EN.md)
 * [Third wave · Neodialectical Intellectual Immune System™](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
