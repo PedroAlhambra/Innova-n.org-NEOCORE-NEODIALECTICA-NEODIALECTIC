@@ -5,6 +5,20 @@
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
+
+<!-- NEO_LATEST_MANIFESTO_START -->
+
+> ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
+>
+> **LI · Síntesis Abierta como Poder Cívico Complementario o Sustitutivo™**  
+> **LI · Open Synthesis as Complementary or Substitutive Civic Power™**
+>
+> La propuesta está **abierta a crítica, objeciones, contraejemplos, fuentes, correcciones y propuestas de mejora**. No se pide adhesión: se pide contraste. / The proposal is **open to criticism, objections, counterexamples, sources, corrections and improvement proposals**. Endorsement is not required: scrutiny is.
+>
+> **[Leer manifiesto LI / Read manifesto LI](51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md) · [Participar en la Síntesis Abierta LI · Issue #59 / Join Open Synthesis LI · Issue #59](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/59)**  
+> [Cómo aportar / How to contribute](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Índice de Síntesis Abierta / Open Synthesis index](../propuestas/sintesis-abierta/README.md) · [51 manifiestos I–LI / 51 manifestos I–LI](README.md)
+
+<!-- NEO_LATEST_MANIFESTO_END -->
 **Estado canónico / Canonical state:** **51 manifiestos bilingües · I–LI · 18 oleadas / 51 bilingual manifestos · I–LI · 18 waves**  
 **Fecha de estado / State date:** 2026-08-08
 
