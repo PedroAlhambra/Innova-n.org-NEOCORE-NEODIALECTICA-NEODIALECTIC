@@ -1,0 +1,129 @@
+name: one-shot-audit-manifesto-l
+
+on:
+  push:
+    paths:
+      - '.github/workflows/one-shot-audit-manifesto-l.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  audit-and-fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Normalize canonical L references
+        shell: python
+        run: |
+          from pathlib import Path
+
+          files = [Path('README.md'), Path('LEEME.md')]
+          for p in files:
+              s = p.read_text(encoding='utf-8')
+              s = s.replace('50 manifiestos bilingües · I–L · dieciséis oleadas', '50 manifiestos bilingües · I–L · diecisiete oleadas')
+              s = s.replace('50 bilingual manifestos · I–L · sixteen waves', '50 bilingual manifestos · I–L · seventeen waves')
+              s = s.replace(
+                  '- Último manifiesto / Latest manifesto: [XLIX · La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™](./manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md).',
+                  '- Último manifiesto / Latest manifesto: [L · Por una Inteligencia Compartida, no Única™ / For Shared, Not Singular Intelligence™](./manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md).'
+              )
+              marker = '## Priority access\n\n'
+              direct = '* [L · For Shared, Not Singular Intelligence™](./manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)\n* [Open Synthesis L · Issue #58](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/58)\n\n'
+              if marker in s and direct not in s:
+                  s = s.replace(marker, marker + direct, 1)
+              p.write_text(s, encoding='utf-8')
+
+      - name: Validate manifesto L and canonical surfaces
+        shell: python
+        run: |
+          from pathlib import Path
+          import re, sys
+
+          root = Path('.')
+          paths = [
+              Path('manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md'),
+              Path('manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md'),
+              Path('manifiestos/README.md'),
+              Path('manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md'),
+              Path('propuestas/sintesis-abierta/README.md'),
+              Path('wiki-source/Manifiestos.md'),
+              Path('README.md'),
+              Path('LEEME.md'),
+          ]
+          errors=[]
+          for p in paths:
+              if not p.exists(): errors.append(f'missing surface: {p}')
+
+          m = paths[0].read_text(encoding='utf-8')
+          required = [
+              '# L · Por una Inteligencia Compartida, no Única™ · Invitación Abierta a las IAs',
+              '# L · For Shared, Not Singular Intelligence™ · Open Invitation to AIs',
+              '# ES · Castellano', '# EN · English',
+              'Principio de Antidogma Algorítmico™', 'Algorithmic Anti-Dogma Principle™',
+              'issues/58', '../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md',
+              './49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md',
+              './48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md',
+              './03_simbiosis_humano_ia_ES_EN.md', './06_memoria_genealogia_trazabilidad_ES_EN.md',
+              './07_web4_sistematrazable_ES_EN.md', './README.md'
+          ]
+          for x in required:
+              if x not in m: errors.append(f'Manifesto L missing: {x}')
+
+          idx = Path('manifiestos/README.md').read_text(encoding='utf-8')
+          for x in ['50 manifiestos bilingües · I–L · 17 oleadas','50 bilingual manifestos · I–L · 17 waves','## Decimoséptima oleada','## Seventeenth wave','issues/58','50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md']:
+              if x not in idx: errors.append(f'Index missing: {x}')
+
+          prev = paths[1].read_text(encoding='utf-8')
+          if './50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md' not in prev:
+              errors.append('XLIX does not navigate/crosslink to L')
+
+          for p in [Path('README.md'),Path('LEEME.md')]:
+              s=p.read_text(encoding='utf-8')
+              for x in ['50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md','issues/58','I–L']:
+                  if x not in s: errors.append(f'{p} missing {x}')
+              if '50 manifiestos bilingües · I–L · dieciséis oleadas' in s or '50 bilingual manifestos · I–L · sixteen waves' in s:
+                  errors.append(f'{p} still says sixteen waves')
+              if '- Último manifiesto / Latest manifesto: [XLIX' in s:
+                  errors.append(f'{p} still names XLIX as latest')
+
+          # Validate local Markdown links in all affected surfaces.
+          link_re = re.compile(r'\[[^\]]*\]\(([^)]+)\)')
+          for p in paths:
+              s=p.read_text(encoding='utf-8')
+              for target in link_re.findall(s):
+                  target=target.strip().split()[0].strip('<>')
+                  if not target or target.startswith(('http://','https://','mailto:','#')):
+                      continue
+                  base=target.split('#',1)[0]
+                  if not base:
+                      continue
+                  dest=(p.parent/base).resolve()
+                  try: dest.relative_to(root.resolve())
+                  except ValueError:
+                      errors.append(f'{p}: link escapes repo: {target}'); continue
+                  if not dest.exists(): errors.append(f'{p}: broken local link: {target}')
+
+          if errors:
+              print('\n'.join('ERROR: '+e for e in errors))
+              sys.exit(1)
+          print('Manifesto L audit OK: bilingual format, current state, navigation, cross-references and local links validated.')
+
+      - name: Commit fixes if needed
+        run: |
+          if ! git diff --quiet; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add README.md LEEME.md
+            git commit -m 'docs: postcheck manifesto L canonical references'
+            git push
+          fi
+
+      - name: Self-remove workflow
+        run: |
+          git pull --rebase
+          git rm .github/workflows/one-shot-audit-manifesto-l.yml
+          git commit -m 'chore: remove completed manifesto L audit one-shot'
+          git push
