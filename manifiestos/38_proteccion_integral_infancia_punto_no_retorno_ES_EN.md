@@ -676,7 +676,7 @@ Se solicitan aportes sobre pobreza infantil, Punto de No Retorno Infantil™, pu
 
 ## Navegación
 
-← [XXXVII · Neofraternidad™](./37_neofraternidad_ES_EN.md) · [Índice](./README.md) · [I · Neo0™](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XXXVII · Neofraternidad™](./37_neofraternidad_ES_EN.md) · [Índice](./README.md) · [XXXIX · Autoconciencia de la Necesidad Vital Neodialéctica™](./39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md) →
 
 ---
 
@@ -1119,7 +1119,7 @@ Contributions are requested concerning child poverty, the Child Point of No Retu
 
 ## Navigation
 
-← [XXXVII · Neofraternity™](./37_neofraternidad_ES_EN.md) · [Index](./README.md) · [I · Neo0™](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XXXVII · Neofraternity™](./37_neofraternidad_ES_EN.md) · [Index](./README.md) · [XXXIX · Self-Awareness of Neodialectical Vital Need™](./39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md) →
 
 ---
 

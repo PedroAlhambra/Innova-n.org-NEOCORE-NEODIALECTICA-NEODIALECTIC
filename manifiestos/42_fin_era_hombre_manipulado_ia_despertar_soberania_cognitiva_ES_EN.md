@@ -326,7 +326,7 @@ Se solicitan aportes sobre:
 
 ## Navegación
 
-← [XLI · Martillo Limitado, Talión y Fuerza Protectora™](./41_martillo_limitado_talion_fuerza_protectora_ES_EN.md) · [Índice](./README.md) · [I · Neo0™ · Soberanía de Guía Neodialéctica](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XLI · Martillo Limitado, Talión y Fuerza Protectora™](./41_martillo_limitado_talion_fuerza_protectora_ES_EN.md) · [Índice](./README.md) · [XLIII · Contra la Incomprensión Reductiva de la IA™](./43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md) →
 
 ---
 
@@ -532,7 +532,7 @@ Contributions are requested on propaganda and persuasion; the attention economy;
 
 ## Navigation
 
-← [XLI · Limited Hammer, Talion and Protective Force™](./41_martillo_limitado_talion_fuerza_protectora_ES_EN.md) · [Index](./README.md) · [I · Neo0™ · Neodialectical Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XLI · Limited Hammer, Talion and Protective Force™](./41_martillo_limitado_talion_fuerza_protectora_ES_EN.md) · [Index](./README.md) · [XLIII · Against the Reductive Misunderstanding of AI™](./43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md) →
 
 ---
 

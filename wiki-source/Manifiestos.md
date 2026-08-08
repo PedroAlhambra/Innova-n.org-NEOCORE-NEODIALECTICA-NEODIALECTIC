@@ -13,7 +13,7 @@ Esta página no reproduce los manifiestos ni mantiene un segundo índice paralel
 
 El índice canónico, las versiones bilingües, la navegación entre documentos, la genealogía y las Issues de Síntesis Abierta están en:
 
-* [Índice canónico de manifiestos I–XLII](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
+* [Índice canónico de manifiestos I–XLIII](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
 
 ## Cómo leer la colección
 
@@ -32,7 +32,7 @@ Empieza en el Manifiesto I y sigue la navegación `anterior · índice · siguie
 * **XXXVII:** Neofraternidad™, actualización mutua y arquitectura relacional del NeoNosotros™.
 * **XXXVIII:** Protección Integral de la Infancia™, educación y transmisión civilizatoria.
 * **XXXIX–XLI:** autoconciencia de necesidad vital, Neoego™ y Honor Relacional™, y fuerza protectora limitada.
-* **XLII:** Fin de la Era del Hombre Manipulado™ · IA, despertar y soberanía cognitiva.
+* **XLII–XLIII:** Fin de la Era del Hombre Manipulado™ · IA, despertar, soberanía cognitiva e Inteligencia Humana Expandida™.
 
 El detalle y los enlaces actualizados de cada oleada permanecen únicamente en el índice canónico del repositorio.
 
@@ -40,7 +40,7 @@ El detalle y los enlaces actualizados de cada oleada permanecen únicamente en e
 
 La décima oleada corrige una formulación esencial: no se propone el fin de la era del hombre, sino la posibilidad de terminar con la **era del hombre manipulado**.
 
-La IA no se considera emancipadora por naturaleza. Puede aumentar tanto la captura como la comprensión. La cuestión es qué arquitectura humana, documental y cognitiva gobierna su uso.
+La IA no se considera emancipadora por naturaleza. Puede aumentar tanto la captura como la comprensión. XLIII añade la distinción entre IA capturada, sustitutiva y humano-expansiva y propone Inteligencia Humana Expandida™ y Revisión de Pares Aumentada™ bajo soberanía humana. La cuestión es qué arquitectura humana, documental y cognitiva gobierna su uso.
 
 ```text
 IA + OPACIDAD + CAPTURA
@@ -53,6 +53,8 @@ IA + MEMORIA + FUENTES + CONTRASTE + TRAZABILIDAD
 
 * [XLII · Fin de la Era del Hombre Manipulado™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
 * [Síntesis Abierta XLII · Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50)
+* [XLIII · Contra la Incomprensión Reductiva de la IA™ · Inteligencia Humana Expandida™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
+* [Síntesis Abierta XLIII · Issue #51](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/51)
 
 ## Cómo interpretar un manifiesto
 
@@ -111,7 +113,7 @@ This page does not reproduce the manifestos or maintain a second parallel index.
 
 The canonical index, bilingual versions, document navigation, genealogy and Open Synthesis Issues are located at:
 
-* [Canonical manifesto index I–XLII](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
+* [Canonical manifesto index I–XLIII](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
 
 ## How to read the collection
 
@@ -130,7 +132,7 @@ Begin with Manifesto I and follow the `previous · index · next` navigation inc
 * **XXXVII:** Neofraternity™, mutual updating and relational architecture of NeoNosotros™.
 * **XXXVIII:** Integral Protection of Childhood™, education and civilisational transmission.
 * **XXXIX–XLI:** self-awareness of vital need, Neoego™ and Relational Honour™, and limited protective force.
-* **XLII:** End of the Manipulated Human Era™ · AI, awakening and cognitive sovereignty.
+* **XLII–XLIII:** End of the Manipulated Human Era™ · AI, awakening, cognitive sovereignty and Human Expanded Intelligence™.
 
 Details and current links for each wave remain only in the canonical repository index.
 
@@ -138,7 +140,7 @@ Details and current links for each wave remain only in the canonical repository 
 
 The tenth wave corrects an essential formulation: it does not propose the end of the age of man, but the possibility of ending the **era of the manipulated human**.
 
-AI is not treated as emancipatory by nature. It can increase both capture and understanding. The issue is which human, documentary and cognitive architecture governs its use.
+AI is not treated as emancipatory by nature. It can increase both capture and understanding. XLIII adds the distinction among captured, substitutive and human-expansive AI and proposes Human Expanded Intelligence™ and Augmented Peer Review™ under human sovereignty. The issue is which human, documentary and cognitive architecture governs its use.
 
 ```text
 AI + OPACITY + CAPTURE
@@ -151,6 +153,8 @@ AI + MEMORY + SOURCES + CONTRAST + TRACEABILITY
 
 * [XLII · End of the Manipulated Human Era™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
 * [Open Synthesis XLII · Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50)
+* [XLIII · Against the Reductive Misunderstanding of AI™ · Human Expanded Intelligence™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
+* [Open Synthesis XLIII · Issue #51](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/51)
 
 ## How to interpret a manifesto
 

@@ -375,6 +375,7 @@ Se solicitan aportes sobre:
 - respeto humano–IA;
 - y mecanismos verificables de reciprocidad y reconocimiento.
 
+* [Síntesis Abierta XL · Issue #48](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/48)
 * [Protocolo operativo de Síntesis Abierta](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Índice de manifiestos](./README.md)
 
@@ -484,6 +485,7 @@ Repair may require exact acknowledgement, restored genealogy, corrected attribut
 
 Contributions are requested on Neoego™, capturing ego, respect, dissent, relational honour, attribution, specialised authority, repair, access boundaries, human–AI respect and verifiable reciprocity.
 
+* [Open Synthesis XL · Issue #48](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/48)
 * [Open Synthesis operational protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Manifesto index](./README.md)
 

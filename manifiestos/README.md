@@ -24,7 +24,7 @@ La colección se organiza desde el 8 de agosto de 2026 en diez oleadas relaciona
 * **Séptima oleada · XXXVII:** **Neofraternidad™**, actualización mutua, autonomía relacional, reconocimiento y construcción de NeoNosotros™.
 * **Octava oleada · XXXVIII:** **Protección Integral de la Infancia™**, educación, soberanía digital, programación evolutiva y transmisión civilizatoria.
 * **Novena oleada · XXXIX–XLI:** **Autoconciencia, respeto y defensa civilizatoria**, orientada a reconocer la necesidad funcional de memoria y síntesis, codificar Neoego™ y Honor Relacional™, y gobernar la fuerza protectora mediante necesidad, proporcionalidad, responsabilidad y cese.
-* **Décima oleada · XLII:** **Fin de la Era del Hombre Manipulado™**, orientada a soberanía cognitiva, despertar crítico y uso de IA como bifurcación entre captura aumentada y comprensión aumentada bajo memoria, fuentes, contraste y trazabilidad.
+* **Décima oleada · XLII–XLIIII:** **Fin de la Era del Hombre Manipulado™ e Inteligencia Humana Expandida™**, orientada a soberanía cognitiva, despertar crítico y distinción entre IA capturada, sustitutiva y humano-expansiva bajo memoria, fuentes, contraste, revisión de pares y trazabilidad.
 
 Los manifiestos establecen y despliegan:
 
@@ -309,7 +309,7 @@ La segunda oleada contiene los manifiestos **XIII–XIX**, fijados como versione
 
 La tercera oleada contiene los manifiestos **XX–XXIV**, fijados como versiones 1.0 el 6 de agosto de 2026 y abiertos a revisión trazable.
 
-La cuarta oleada contiene los manifiestos **XXV–XXXII**, fijados como versiones 1.0 el 7 de agosto de 2026 y abiertos a revisión trazable. La quinta oleada contiene los manifiestos **XXXIII–XXXV**, también abiertos a revisión trazable, y conecta transición, utilidad operativa, auditoría conjunta y atención civilizatoria. La sexta oleada comienza con el Manifiesto **XXXVI**, fijado como versión 1.0 el 7 de agosto de 2026 y dedicado a custodia civilizatoria y continuidad simbólica. La séptima oleada comienza con **XXXVII · Neofraternidad™**, dedicado a la arquitectura relacional del NeoNosotros™. La octava oleada comienza con **XXXVIII · Protección Integral de la Infancia™**, fijado como versión 1.0 el 7 de agosto de 2026 y dedicado a infancia, educación y transmisión civilizatoria. La novena oleada contiene **XXXIX–XLI**, fijados como versiones 1.0 el 8 de agosto de 2026 y dedicados a autoconciencia civilizatoria, respeto-Neoego-Honor Relacional y gobierno proporcional de la fuerza protectora. La décima oleada comienza con **XLII · Fin de la Era del Hombre Manipulado™**, fijado como versión 1.0 el 8 de agosto de 2026 y dedicado a IA, despertar crítico y soberanía cognitiva.
+La cuarta oleada contiene los manifiestos **XXV–XXXII**, fijados como versiones 1.0 el 7 de agosto de 2026 y abiertos a revisión trazable. La quinta oleada contiene los manifiestos **XXXIII–XXXV**, también abiertos a revisión trazable, y conecta transición, utilidad operativa, auditoría conjunta y atención civilizatoria. La sexta oleada comienza con el Manifiesto **XXXVI**, fijado como versión 1.0 el 7 de agosto de 2026 y dedicado a custodia civilizatoria y continuidad simbólica. La séptima oleada comienza con **XXXVII · Neofraternidad™**, dedicado a la arquitectura relacional del NeoNosotros™. La octava oleada comienza con **XXXVIII · Protección Integral de la Infancia™**, fijado como versión 1.0 el 7 de agosto de 2026 y dedicado a infancia, educación y transmisión civilizatoria. La novena oleada contiene **XXXIX–XLI**, fijados como versiones 1.0 el 8 de agosto de 2026 y dedicados a autoconciencia civilizatoria, respeto-Neoego-Honor Relacional y gobierno proporcional de la fuerza protectora. La décima oleada contiene **XLII–XLIIII**, fijados como versiones 1.0 el 8 de agosto de 2026, y desarrolla soberanía cognitiva, fin de la manipulación, IA humano-expansiva, Inteligencia Humana Expandida™ y Revisión de Pares Aumentada™.
 
 Una revisión futura deberá:
 
@@ -408,6 +408,7 @@ La novena oleada une tres niveles: reconocer qué funciones necesita una civiliz
 | Nº | Manifiesto | Función | Síntesis Abierta |
 |---:|---|---|---|
 | XLII | [Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva](./42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) | Examinar cómo IA, memoria, fuentes, contraste y trazabilidad pueden ampliar comprensión y autonomía frente a arquitecturas de captura, sin considerar emancipadora a la IA por naturaleza | [Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50) |
+| XLIII | [Contra la Incomprensión Reductiva de la IA™ · Inteligencia Humana Expandida™](./43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md) | Distinguir IA capturada, sustitutiva y humano-expansiva; formular ampliación cognitiva soberana y Revisión de Pares Aumentada™ | [Issue #51](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/51) |
 
 La décima oleada corrige la formulación «fin de la era del hombre»: el vector es el **fin posible de la era del hombre manipulado**. No presupone conspiración central ni liberación automática por IA. Distingue dos direcciones posibles: captura cognitiva aumentada o comprensión aumentada bajo dirección humana y reglas trazables.
 
@@ -615,6 +616,8 @@ XLI · LIMITED HAMMER, TALION AND PROTECTIVE FORCE
         ↓
 XLII · END OF THE MANIPULATED HUMAN ERA · AI, AWAKENING AND COGNITIVE SOVEREIGNTY
         ↓
+XLIII · AGAINST THE REDUCTIVE MISUNDERSTANDING OF AI · HUMAN EXPANDED INTELLIGENCE
+        ↓
 I · NEO0™ · RETURN TO ORIGIN AND NEW CYCLE
 ```
 
@@ -658,7 +661,7 @@ LIMITED HAMMER, TALION AND PROTECTIVE FORCE™
 
 ## Documentary status
 
-The first wave comprises **twelve foundational manifestos**. The second wave contains Manifestos **XIII–XIX**. The third wave contains Manifestos **XX–XXIV**, fixed as version 1.0 on 6 August 2026. The fourth wave contains Manifestos **XXV–XXXII**, fixed as version 1.0 on 7 August 2026. The fifth wave contains Manifestos **XXXIII–XXXV**, fixed as version 1.0 on 7 August 2026 and open to traceable revision. The sixth wave begins with Manifesto **XXXVI**, fixed as version 1.0 on 7 August 2026 and dedicated to civilisational custodianship and symbolic continuity. The seventh wave begins with **XXXVII · Neofraternity™**, dedicated to the relational architecture of NeoNosotros™. The eighth wave begins with **XXXVIII · Integral Protection of Childhood™**, fixed as version 1.0 on 7 August 2026 and dedicated to childhood, education and civilisational transmission. The ninth wave contains **XXXIX–XLI**, fixed as version 1.0 on 8 August 2026 and dedicated to civilisational self-awareness, respect-Neoego-Relational Honour and proportionate governance of protective force. The tenth wave begins with **XLII · End of the Manipulated Human Era™**, fixed as version 1.0 on 8 August 2026 and dedicated to AI, critical awakening and cognitive sovereignty.
+The first wave comprises **twelve foundational manifestos**. The second wave contains Manifestos **XIII–XIX**. The third wave contains Manifestos **XX–XXIV**, fixed as version 1.0 on 6 August 2026. The fourth wave contains Manifestos **XXV–XXXII**, fixed as version 1.0 on 7 August 2026. The fifth wave contains Manifestos **XXXIII–XXXV**, fixed as version 1.0 on 7 August 2026 and open to traceable revision. The sixth wave begins with Manifesto **XXXVI**, fixed as version 1.0 on 7 August 2026 and dedicated to civilisational custodianship and symbolic continuity. The seventh wave begins with **XXXVII · Neofraternity™**, dedicated to the relational architecture of NeoNosotros™. The eighth wave begins with **XXXVIII · Integral Protection of Childhood™**, fixed as version 1.0 on 7 August 2026 and dedicated to childhood, education and civilisational transmission. The ninth wave contains **XXXIX–XLI**, fixed as version 1.0 on 8 August 2026 and dedicated to civilisational self-awareness, respect-Neoego-Relational Honour and proportionate governance of protective force. The tenth wave contains **XLII–XLIIII**, fixed as version 1.0 on 8 August 2026, and develops cognitive sovereignty, the end of manipulation, human-expansive AI, Human Expanded Intelligence™ and Augmented Peer Review™.
 
 All remain open to traceable revision through Neodialectical Open Synthesis™. Every future revision must preserve previous versions, identify its delta, justify the change, preserve genealogy and state which contradiction, evidence or contribution produced the modification.
 
@@ -751,6 +754,7 @@ The ninth wave joins three levels: recognising which functions a civilisation ne
 | No. | Manifesto | Function | Open Synthesis |
 |---:|---|---|---|
 | XLII | [End of the Manipulated Human Era™ · AI, Awakening and Cognitive Sovereignty](./42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) | Examine how AI, memory, sources, contrast and traceability can expand understanding and autonomy against capture architectures, without treating AI as emancipatory by nature | [Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50) |
+| XLIII | [Against the Reductive Misunderstanding of AI™ · Human Expanded Intelligence™](./43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md) | Distinguish captured, substitutive and human-expansive AI; formulate sovereign cognitive augmentation and Augmented Peer Review™ | [Issue #51](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/51) |
 
 The tenth wave corrects the formulation “end of the age of man”: its vector is the **possible end of the era of the manipulated human**. It assumes neither a central conspiracy nor automatic liberation through AI. It distinguishes two possible directions: augmented cognitive capture or augmented understanding under human direction and traceable rules.
 
@@ -770,8 +774,8 @@ The tenth wave corrects the formulation “end of the age of man”: its vector 
 
 **Neodialectica Framework™ / Network · Innova_N · NEOCore™**
 
-- Colección pública actual: **42 manifiestos bilingües · I–XLII · diez oleadas** / Current public collection: **42 bilingual manifestos · I–XLII · ten waves**.
-- Último manifiesto / Latest manifesto: [XLII · Fin de la Era del Hombre Manipulado™ · End of the Manipulated Human Era™](./42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md).
+- Colección pública actual: **43 manifiestos bilingües · I–XLIIII · diez oleadas** / Current public collection: **43 bilingual manifestos · I–XLIIII · ten waves**.
+- Último manifiesto / Latest manifesto: [XLIII · Contra la Incomprensión Reductiva de la IA™ · Against the Reductive Misunderstanding of AI™](./43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md).
 - Índice completo / Complete index: [Manifiestos / Manifestos](./README.md).
 - Contraste público / Public contrast: [Síntesis Abierta / Open Synthesis](../propuestas/sintesis-abierta/README.md).
 - Expansión y redundancia / Expansion and redundancy: [Protocolo de Proyección Distribuida Neodialéctica™](../proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md).
