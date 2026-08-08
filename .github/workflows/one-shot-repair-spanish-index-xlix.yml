@@ -61,3 +61,5 @@ jobs:
           git rm .github/workflows/one-shot-repair-spanish-index-xlix.yml
           git commit -m 'chore: remove completed Spanish manifesto index repair'
           git push
+
+# trigger
