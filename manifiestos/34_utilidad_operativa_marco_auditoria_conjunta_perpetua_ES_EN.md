@@ -760,7 +760,7 @@ Este manifiesto es el nodo de unión entre teoría y expedientes. Los enlaces si
 ## Navegación canónica / Canonical navigation
 
 ← **XXXIII** · [IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™ / IDEA · Civilisational Cornerstone and Rosetta Stone™](33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
-· [Índice I–LI / I–LI index](README.md) ·
+· [Índice I–LII / I–LII index](README.md) ·
 **XXXV** · [Contra la Ridiculez Mediática y la Economía del Conflicto™ / Against Media Absurdity and the Conflict Economy™](35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) →
 
 > La navegación canónica mantiene la colección conectada sin convertir ningún manifiesto aislado en equivalente del marco completo. / Canonical navigation keeps the collection connected without treating any single manifesto as equivalent to the complete framework.

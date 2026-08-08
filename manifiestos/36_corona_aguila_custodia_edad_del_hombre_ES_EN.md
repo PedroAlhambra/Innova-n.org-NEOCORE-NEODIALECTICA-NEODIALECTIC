@@ -609,7 +609,7 @@ La relación documental indica afinidad conceptual, genealogía, contraste o apl
 ## Navegación canónica / Canonical navigation
 
 ← **XXXV** · [Contra la Ridiculez Mediática y la Economía del Conflicto™ / Against Media Absurdity and the Conflict Economy™](35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
-· [Índice I–LI / I–LI index](README.md) ·
+· [Índice I–LII / I–LII index](README.md) ·
 **XXXVII** · [Neofraternidad™ / Neofraternity™](37_neofraternidad_ES_EN.md) →
 
 > La navegación canónica mantiene la colección conectada sin convertir ningún manifiesto aislado en equivalente del marco completo. / Canonical navigation keeps the collection connected without treating any single manifesto as equivalent to the complete framework.

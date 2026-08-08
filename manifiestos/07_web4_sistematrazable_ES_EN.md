@@ -266,7 +266,7 @@ La relación documental indica afinidad conceptual, genealogía, contraste o apl
 ## Navegación canónica / Canonical navigation
 
 ← **IX** · [Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability / Memory, Genealogy and Traceability](06_memoria_genealogia_trazabilidad_ES_EN.md)
-· [Índice I–LI / I–LI index](README.md) ·
+· [Índice I–LII / I–LII index](README.md) ·
 **XI** · [Manifiesto del Neorrenacimiento Humano / Manifesto of the Human Neo-Renaissance / Human Neo-Renaissance](08_neorrenacimiento_humano_ES_EN.md) →
 
 > La navegación canónica mantiene la colección conectada sin convertir ningún manifiesto aislado en equivalente del marco completo. / Canonical navigation keeps the collection connected without treating any single manifesto as equivalent to the complete framework.

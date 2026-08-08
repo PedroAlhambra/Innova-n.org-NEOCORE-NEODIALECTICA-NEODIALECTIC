@@ -295,7 +295,7 @@ La relación documental indica afinidad conceptual, genealogía, contraste o apl
 ## Navegación canónica / Canonical navigation
 
 ← **VI** · [Manifiesto sobre el Parasitismo Sistémico / Manifesto on Systemic Parasitism / Systemic Parasitism](09_parasitismo_sistemico_ES_EN.md)
-· [Índice I–LI / I–LI index](README.md) ·
+· [Índice I–LII / I–LII index](README.md) ·
 **VIII** · [Manifiesto de Ingeniería Social Abierta y Psicohistoria Neodialéctica / Manifesto of Open Social Engineering and Neodialectical Psychohistory / Open Social Engineering and Psychohistory](05_ingenieria_social_psicohistoria_ES_EN.md) →
 
 > La navegación canónica mantiene la colección conectada sin convertir ningún manifiesto aislado en equivalente del marco completo. / Canonical navigation keeps the collection connected without treating any single manifesto as equivalent to the complete framework.

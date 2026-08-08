@@ -719,7 +719,7 @@ La relación documental indica afinidad conceptual, genealogía, contraste o apl
 ## Navegación canónica / Canonical navigation
 
 ← **XIII** · [Manifiesto NeoPandora™ de la Apertura Regenerativa y el Gobierno de la Vida / NeoPandora™](13_neopandora_apertura_regenerativa_ES_EN.md)
-· [Índice I–LI / I–LI index](README.md) ·
+· [Índice I–LII / I–LII index](README.md) ·
 **XV** · [Manifiesto de los Titanes™ · El despertar de la gente / The Titans™](15_los_titanes_despertar_de_la_gente_ES_EN.md) →
 
 > La navegación canónica mantiene la colección conectada sin convertir ningún manifiesto aislado en equivalente del marco completo. / Canonical navigation keeps the collection connected without treating any single manifesto as equivalent to the complete framework.

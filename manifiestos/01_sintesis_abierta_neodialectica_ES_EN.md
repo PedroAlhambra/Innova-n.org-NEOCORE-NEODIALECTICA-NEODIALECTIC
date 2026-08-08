@@ -284,7 +284,7 @@ La relación documental indica afinidad conceptual, genealogía, contraste o apl
 ## Navegación canónica / Canonical navigation
 
 ← **I** · [Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica / Neo0™ · Neodialectical Guiding Sovereignty](11_neo0_soberania_de_guia_ES_EN.md)
-· [Índice I–LI / I–LI index](README.md) ·
+· [Índice I–LII / I–LII index](README.md) ·
 **III** · [Manifiesto del Derecho Humano de Aporte a la Síntesis Abierta™ / Human Right to Contribute](03_derecho_humano_aporte_sintesis_abierta_ES_EN.md) →
 
 > La navegación canónica mantiene la colección conectada sin convertir ningún manifiesto aislado en equivalente del marco completo. / Canonical navigation keeps the collection connected without treating any single manifesto as equivalent to the complete framework.

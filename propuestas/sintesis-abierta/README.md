@@ -35,7 +35,7 @@
 > [Investigación / Research](../../analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md) · [Addendum de autodemostración / Self-demonstration addendum](../../analisis/publicos/2026-08-08_addendum_autodemostracion_creacion_neodialectica_historia_olvidada_ES_EN.md) · [Síntesis Abierta #63 / Open Synthesis #63](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/63)
 
 <!-- NEO_FORGOTTEN_HISTORY_SYNTHESIS_END -->
-**Cobertura canónica / Canonical coverage:** **51 manifiestos · I–LI / 51 manifestos · I–LI**  
+**Cobertura canónica / Canonical coverage:** **52 manifiestos · I–LII / 52 manifestos · I–LII**  
 **Estado / Status:** 2026-08-08
 
 * [Índice canónico de manifiestos / Canonical manifesto index](../../manifiestos/README.md)

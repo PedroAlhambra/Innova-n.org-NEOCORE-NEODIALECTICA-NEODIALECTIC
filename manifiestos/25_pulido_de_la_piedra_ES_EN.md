@@ -310,7 +310,7 @@ La relación documental indica afinidad conceptual, genealogía, contraste o apl
 ## Navegación canónica / Canonical navigation
 
 ← **XXIV** · [Manifiesto de la Evolución Neorrenacentista y las Resistencias del Sistema™ / Neo-Renaissance Evolution and Systemic Resistances™](24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md)
-· [Índice I–LI / I–LI index](README.md) ·
+· [Índice I–LII / I–LII index](README.md) ·
 **XXVI** · [Manifiesto de la Misericordia Universal Recíproca™ / Universal Reciprocal Mercy™](26_misericordia_universal_reciproca_ES_EN.md) →
 
 > La navegación canónica mantiene la colección conectada sin convertir ningún manifiesto aislado en equivalente del marco completo. / Canonical navigation keeps the collection connected without treating any single manifesto as equivalent to the complete framework.

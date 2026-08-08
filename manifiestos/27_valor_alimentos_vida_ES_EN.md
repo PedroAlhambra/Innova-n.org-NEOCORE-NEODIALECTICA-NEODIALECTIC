@@ -340,7 +340,7 @@ La relación documental indica afinidad conceptual, genealogía, contraste o apl
 ## Navegación canónica / Canonical navigation
 
 ← **XXVI** · [Manifiesto de la Misericordia Universal Recíproca™ / Universal Reciprocal Mercy™](26_misericordia_universal_reciproca_ES_EN.md)
-· [Índice I–LI / I–LI index](README.md) ·
+· [Índice I–LII / I–LII index](README.md) ·
 **XXVIII** · [Manifiesto de Los Tesla™ / The Teslas™](28_los_tesla_ES_EN.md) →
 
 > La navegación canónica mantiene la colección conectada sin convertir ningún manifiesto aislado en equivalente del marco completo. / Canonical navigation keeps the collection connected without treating any single manifesto as equivalent to the complete framework.

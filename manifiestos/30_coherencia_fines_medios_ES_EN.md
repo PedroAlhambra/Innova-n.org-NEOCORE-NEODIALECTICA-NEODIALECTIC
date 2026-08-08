@@ -402,7 +402,7 @@ La relación documental indica afinidad conceptual, genealogía, contraste o apl
 ## Navegación canónica / Canonical navigation
 
 ← **XXIX** · [Manifiesto contra la Idolatría del Dinero™ / Against the Idolatry of Money™](29_idolatria_del_dinero_ES_EN.md)
-· [Índice I–LI / I–LI index](README.md) ·
+· [Índice I–LII / I–LII index](README.md) ·
 **XXXI** · [Manifiesto contra el Neuromarketing Antihumanista™ / Against Anti-Humanist Neuromarketing™](31_contra_neuromarketing_antihumanista_ES_EN.md) →
 
 > La navegación canónica mantiene la colección conectada sin convertir ningún manifiesto aislado en equivalente del marco completo. / Canonical navigation keeps the collection connected without treating any single manifesto as equivalent to the complete framework.

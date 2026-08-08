@@ -435,7 +435,7 @@ La relación documental indica afinidad conceptual, genealogía, contraste o apl
 ## Navegación canónica / Canonical navigation
 
 ← **XXVII** · [Manifiesto del Valor de los Alimentos y la Vida™ / Value of Food and Life™](27_valor_alimentos_vida_ES_EN.md)
-· [Índice I–LI / I–LI index](README.md) ·
+· [Índice I–LII / I–LII index](README.md) ·
 **XXIX** · [Manifiesto contra la Idolatría del Dinero™ / Against the Idolatry of Money™](29_idolatria_del_dinero_ES_EN.md) →
 
 > La navegación canónica mantiene la colección conectada sin convertir ningún manifiesto aislado en equivalente del marco completo. / Canonical navigation keeps the collection connected without treating any single manifesto as equivalent to the complete framework.

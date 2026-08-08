@@ -768,7 +768,7 @@ La relación documental indica afinidad conceptual, genealogía, contraste o apl
 ## Navegación canónica / Canonical navigation
 
 ← **XXII** · [Manifiesto contra la Reducción y la Captura Intelectual™ / Against Intellectual Reduction and Capture™](22_contra_reduccion_captura_intelectual_ES_EN.md)
-· [Índice I–LI / I–LI index](README.md) ·
+· [Índice I–LII / I–LII index](README.md) ·
 **XXIV** · [Manifiesto de la Evolución Neorrenacentista y las Resistencias del Sistema™ / Neo-Renaissance Evolution and Systemic Resistances™](24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md) →
 
 > La navegación canónica mantiene la colección conectada sin convertir ningún manifiesto aislado en equivalente del marco completo. / Canonical navigation keeps the collection connected without treating any single manifesto as equivalent to the complete framework.

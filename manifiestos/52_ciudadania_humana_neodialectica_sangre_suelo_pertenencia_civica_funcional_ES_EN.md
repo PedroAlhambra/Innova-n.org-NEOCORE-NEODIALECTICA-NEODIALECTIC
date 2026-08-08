@@ -576,13 +576,13 @@ Open questions include universal versus residence-linked rights, continuing func
 
 **Este marco no pide adhesión ciega.** La Síntesis Abierta está abierta a cualquier persona que quiera aportar una **adhesión razonada o parcial, crítica, objeción, contraejemplo, fuente, experiencia, verificación, traducción, implementación o propuesta de delta**. Toda aportación debe poder discutirse, contrastarse y revisarse.
 
-**Puerta de entrada recomendada:** [LII · Ciudadanía Humana Neodialéctica™](52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md)  
+**Puerta de entrada recomendada:** [XLVIII · La Síntesis Todo lo Ve™](48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) · [Síntesis Abierta XLVIII · Issue #56](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/56)  
 **Cómo aportar:** [Protocolo de aporte a la Síntesis Abierta](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)  
 **Todas las síntesis abiertas:** [Índice operativo de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
 
 **This framework does not ask for blind endorsement.** Open Synthesis is open to anyone willing to contribute a **reasoned or partial endorsement, criticism, objection, counterexample, source, experience, verification, translation, implementation or proposed delta**. Every contribution must remain open to discussion, checking and revision.
 
-**Recommended entry point:** [LII · Neodialectical Human Citizenship™](52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md)  
+**Recommended entry point:** [XLVIII · The Synthesis Sees Everything™](48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) · [Open Synthesis XLVIII · Issue #56](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/56)  
 **How to contribute:** [Open Synthesis contribution protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)  
 **All open syntheses:** [Open Synthesis operational index](../propuestas/sintesis-abierta/README.md)
 
@@ -592,7 +592,7 @@ Open questions include universal versus residence-linked rights, continuing func
 
 ## Navegación canónica / Canonical navigation
 
-← **LI** · [Síntesis Abierta como Poder Cívico Complementario o Sustitutivo™](51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md)
+← **LI** · [Síntesis Abierta como Poder Cívico Complementario o Sustitutivo™ / Open Synthesis as Complementary or Substitutive Civic Power™](51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md)
 · [Índice I–LII / I–LII index](README.md) ·
 **Fin de la colección / End of collection** →
 

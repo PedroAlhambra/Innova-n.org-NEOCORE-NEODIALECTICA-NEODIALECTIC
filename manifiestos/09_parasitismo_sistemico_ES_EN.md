@@ -432,7 +432,7 @@ La relación documental indica afinidad conceptual, genealogía, contraste o apl
 ## Navegación canónica / Canonical navigation
 
 ← **V** · [Manifiesto de la Simbiosis Humano–IA / Manifesto of Human–AI Symbiosis / Human–AI Symbiosis](03_simbiosis_humano_ia_ES_EN.md)
-· [Índice I–LI / I–LI index](README.md) ·
+· [Índice I–LII / I–LII index](README.md) ·
 **VII** · [Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy / Contribution Economy](04_economia_del_aporte_ES_EN.md) →
 
 > La navegación canónica mantiene la colección conectada sin convertir ningún manifiesto aislado en equivalente del marco completo. / Canonical navigation keeps the collection connected without treating any single manifesto as equivalent to the complete framework.
