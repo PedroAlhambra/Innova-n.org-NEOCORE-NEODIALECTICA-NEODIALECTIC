@@ -244,3 +244,13 @@ Before participating, read the full manifesto and the operational protocol. Subm
 ← [VIII · Open Social Engineering and Neodialectical Psychohistory](./05_ingenieria_social_psicohistoria_ES_EN.md) · [Index](./README.md) · [X · WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md) →
 
 ---
+
+<!-- NEO_RELATED_WORK_START -->
+## Trabajo aplicado y casos relacionados / Applied work and related cases
+
+- [Stanford / ACE y marco previo neodialéctico](../analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md) — precedencia y convergencia documentada; **no prueba copia directa** / documented precedence and convergence; **not proof of direct copying**.
+- [KDP–Author Central–IDEA](../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md) — cadena de metadatos, asociación, corrección y estado / metadata, association, correction and state chain.
+- [Spotify–DistroKid · cierre circular](../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md) — identificadores, informes, pagos y preservación de registros / identifiers, reports, payments and record preservation.
+- [Protocolo de Proyección Distribuida](../proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md) — redundancia, procedencia y anti-descontextualización / redundancy, provenance and anti-decontextualisation.
+- [Mapa transversal completo](./RELACIONES_TRABAJO_APLICADO_ES_EN.md#manifiesto-ix)
+<!-- NEO_RELATED_WORK_END -->
