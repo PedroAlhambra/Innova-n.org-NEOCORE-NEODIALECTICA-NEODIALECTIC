@@ -2,6 +2,16 @@
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
+<!-- NEO_FORGOTTEN_HISTORY_RESEARCH_START -->
+
+> ## 🟣 HISTORIA OLVIDADA™ · INVESTIGACIÓN EN SÍNTESIS ABIERTA / FORGOTTEN HISTORY™ · OPEN-SYNTHESIS RESEARCH
+>
+> **Ceres · memoria arquetípica · amnesia tecnológica cíclica · descompresión generativa · autodemostración del método**
+>
+> [Investigación principal / Main research](publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md) · [Autodemostración Neodialéctica™ / Neodialectical Self-Demonstration™](publicos/2026-08-08_addendum_autodemostracion_creacion_neodialectica_historia_olvidada_ES_EN.md) · [Síntesis Abierta #63 / Open Synthesis #63](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/63)
+
+<!-- NEO_FORGOTTEN_HISTORY_RESEARCH_END -->
+
 
 
 <!-- NEO_LATEST_MANIFESTO_START -->
@@ -19,13 +29,13 @@
 <!-- NEO_LATEST_MANIFESTO_END -->
 <!-- MANIFESTOS_CURRENT_START -->
 
-**Colección completa de manifiestos / Complete manifesto collection:** **I–LI · 51 manifiestos bilingües / 51 bilingual manifestos** · [índice canónico / canonical index](../manifiestos/README.md)
+**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LI · 51 manifiestos bilingües / 51 bilingual manifestos** · [índice canónico / canonical index](../manifiestos/README.md)
 
 <!-- MANIFESTOS_CURRENT_END -->
 
 <!-- NEO_ALL_MANIFESTOS_START -->
 
-## Red completa de manifiestos / Complete manifesto network
+## Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™
 
 **Estado canónico / Canonical state:** **51 manifiestos bilingües · I–LI · 18 oleadas / 51 bilingual manifestos · I–LI · 18 waves**  
 **Índice canónico / Canonical index:** [../manifiestos/README.md](../manifiestos/README.md)

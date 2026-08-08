@@ -18,6 +18,10 @@
 
 ## Análisis públicos
 
+* [2026-08-08 · Historia Olvidada™ · Ceres, Amnesia Tecnológica Cíclica y Descompresión Arquetípica Generativa™](./publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md)
+  * [Addendum · Principio de Autodemostración Neodialéctica™](./publicos/2026-08-08_addendum_autodemostracion_creacion_neodialectica_historia_olvidada_ES_EN.md)
+  * [Síntesis Abierta #63](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/63)
+
 * [2026-08-07 · MAXPROC — Protección Integral de la Infancia™](./publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
   * [Fuentes y matriz de evidencias](./publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md)
 * [2026-08-07 · Parte IV — Canarias: de la presión fronteriza a la infraestructura de acogida](./publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md)
@@ -65,6 +69,10 @@ Cada nuevo análisis o auditoría debe incorporarse, cuando corresponda, a su ar
 * [Wiki guide to analyses and audits](../wiki-source/Analisis_Neodialecticos_Publicos.md)
 
 ## Public analyses
+
+* [2026-08-08 · Forgotten History™ · Ceres, Cyclical Technological Amnesia and Generative Archetypal Decompression™](./publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md)
+  * [Addendum · Principle of Neodialectical Self-Demonstration™](./publicos/2026-08-08_addendum_autodemostracion_creacion_neodialectica_historia_olvidada_ES_EN.md)
+  * [Open Synthesis #63](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/63)
 
 * [2026-08-07 · MAXPROC — Integral Protection of Childhood™](./publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
   * [Sources and evidence matrix](./publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md)

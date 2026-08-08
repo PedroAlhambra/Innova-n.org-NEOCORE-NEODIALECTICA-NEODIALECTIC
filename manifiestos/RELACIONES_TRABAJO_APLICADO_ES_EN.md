@@ -2,7 +2,7 @@
 # Transversal map · Manifestos ↔ applied work
 
 **Estado / Status:** público · relacional · 2026-08-08 / public · relational · 2026-08-08  
-**Cobertura / Coverage:** I–XLIX · 49 manifiestos / 49 manifestos  
+**Cobertura / Coverage:** I–LI · 51 manifiestos / 51 manifestos  
 **Función / Function:** relacionar principios, análisis, auditorías, obras, protocolos, evidencias y casos mediante enlaces internos, sin convertir correlación documental en prueba causal. / Relate principles, analyses, audits, works, protocols, evidence and cases through internal links without turning documentary correlation into causal proof.
 
 ---
@@ -30,7 +30,7 @@ Casos y análisis principales:
 
 ---
 
-## Matriz completa I–XLVII / Complete I–XLVII matrix
+## Matriz completa I–LI / Complete I–LI matrix
 
 <a id="manifiesto-i"></a>
 ### I · [Neo0™ · Soberanía de Guía Neodialéctica](./11_neo0_soberania_de_guia_ES_EN.md)
@@ -103,6 +103,7 @@ Casos y análisis principales:
 
 <a id="manifiesto-xiii"></a>
 ### XIII · [NeoPandora™](./13_neopandora_apertura_regenerativa_ES_EN.md)
+- **B/C** · [Historia Olvidada™ · apertura generativa y mariposa fractal](../analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md).
 - **A/B** · [MAXPROC · Protección Integral de la Infancia](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md).
 - **C** · [Oráculo Neodialéctico™](../fragmentos/INDICE.md).
 
@@ -119,6 +120,7 @@ Casos y análisis principales:
 
 <a id="manifiesto-xvi"></a>
 ### XVI · [Refragmentación Arquetípica™](./16_refragmentacion_arquetipica_ES_EN.md)
+- **A/B** · [Historia Olvidada™ · Descompresión Arquetípica Generativa™](../analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md) — desarrollo directo de la refragmentación como recomposición generativa, no restauración literal.
 - **B** · [Religión, identidad, dogma y conciencia](../analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md).
 - **C** · [Oráculo Neodialéctico™](../fragmentos/INDICE.md).
 
@@ -134,6 +136,7 @@ Casos y análisis principales:
 
 <a id="manifiesto-xix"></a>
 ### XIX · [Persistencia de la Memoria™](./19_persistencia_de_la_memoria_ES_EN.md)
+- **A/B** · [Historia Olvidada™ · Amnesia Tecnológica Cíclica™](../analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md) — prueba conceptual sobre persistencia, pérdida de contexto y memoria comprimida.
 - **B** · [Stanford / ACE y marco previo](../analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md).
 - **C** · [IDEA](../obras/idea/README.md).
 - **A** · [KDP–Author Central–IDEA](../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md).
@@ -236,6 +239,7 @@ Casos y análisis principales:
 
 <a id="manifiesto-xxxvi"></a>
 ### XXXVI · [Corona, Águila y Custodia de la Edad del Hombre™](./36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)
+- **B/C** · [Historia Olvidada™ · Águila, custodia y continuidad de memoria](../analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md) — relación arquetípica e institucional, no legitimación automática de instituciones concretas.
 - **B** · [Religión, identidad, dogma y conciencia](../analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md).
 - **C** · [Anexo Corona–Águila–Custodia](../propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md).
 - **C** · [Oráculo Neodialéctico™](../fragmentos/INDICE.md).
@@ -370,3 +374,14 @@ Casos y análisis principales:
 - [Análisis aplicado sobre accesibilidad institucional](../analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md)
 - [Síntesis Abierta #59](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/59)
 - Relaciones principales: II, III, IV, VIII, IX, X, XXXIV, XXXVI, XLV y L.
+
+
+---
+
+## Investigación transversal · Historia Olvidada™, Ceres y Autodemostración Neodialéctica™
+
+- **Documento principal / Main document:** [Historia Olvidada™ · Ceres, Amnesia Tecnológica Cíclica y Descompresión Arquetípica Generativa™](../analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md).
+- **Delta metodológico / Methodological delta:** [Principio de Autodemostración Neodialéctica™](../analisis/publicos/2026-08-08_addendum_autodemostracion_creacion_neodialectica_historia_olvidada_ES_EN.md).
+- **Síntesis Abierta / Open Synthesis:** [Issue #63](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/63).
+- **Relaciones principales / Main relations:** IX · Memoria-Genealogía-Trazabilidad; XIII · NeoPandora™; XVI · Refragmentación Arquetípica™; XIX · Persistencia de la Memoria™; XX · Umbral-X™; XXXIV · Auditoría Conjunta Perpetua™; XXXVI · Corona-Águila-Custodia; XLIII · Inteligencia Humana Expandida™; XLV · Multidimensionalidad; XLVIII · La Síntesis Todo lo Ve™; LI · Poder Cívico Complementario o Sustitutivo™.
+- **Regla probatoria / Evidentiary rule:** la autodemostración se refiere al funcionamiento observable del método neodialéctico —relacionar fragmentos, conservar memoria y contradicción y producir síntesis revisables—; no convierte por sí sola una hipótesis externa concreta (por ejemplo, Ceres–Olimpo™) en hecho histórico.

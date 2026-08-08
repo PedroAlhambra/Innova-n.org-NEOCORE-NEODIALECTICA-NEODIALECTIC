@@ -17,7 +17,17 @@
 > [Cómo aportar / How to contribute](APORTAR_A_LA_SINTESIS_ES_EN.md) · [Índice de Síntesis Abierta / Open Synthesis index](README.md) · [51 manifiestos I–LI / 51 manifestos I–LI](../../manifiestos/README.md)
 
 <!-- NEO_LATEST_MANIFESTO_END -->
-**Cobertura canónica / Canonical coverage:** **50 manifiestos · I–L / 50 manifestos · I–L**  
+
+<!-- NEO_FORGOTTEN_HISTORY_SYNTHESIS_START -->
+
+> ## 🟣 INVESTIGACIÓN NEODIALÉCTICA ABIERTA · HISTORIA OLVIDADA™ / OPEN NEODIALECTICAL RESEARCH · FORGOTTEN HISTORY™
+>
+> **Ceres · Amnesia Tecnológica Cíclica™ · Descompresión Arquetípica Generativa™ · Autodemostración Neodialéctica™**
+>
+> [Investigación / Research](../../analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md) · [Addendum de autodemostración / Self-demonstration addendum](../../analisis/publicos/2026-08-08_addendum_autodemostracion_creacion_neodialectica_historia_olvidada_ES_EN.md) · [Síntesis Abierta #63 / Open Synthesis #63](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/63)
+
+<!-- NEO_FORGOTTEN_HISTORY_SYNTHESIS_END -->
+**Cobertura canónica / Canonical coverage:** **51 manifiestos · I–LI / 51 manifestos · I–LI**  
 **Estado / Status:** 2026-08-08
 
 * [Índice canónico de manifiestos / Canonical manifesto index](../../manifiestos/README.md)
@@ -28,13 +38,13 @@
 
 <!-- MANIFESTOS_CURRENT_START -->
 
-**Colección completa de manifiestos / Complete manifesto collection:** **I–LI · 51 manifiestos bilingües / 51 bilingual manifestos** · [índice canónico / canonical index](../../manifiestos/README.md)
+**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LI · 51 manifiestos bilingües / 51 bilingual manifestos** · [índice canónico / canonical index](../../manifiestos/README.md)
 
 <!-- MANIFESTOS_CURRENT_END -->
 
 <!-- NEO_ALL_MANIFESTOS_START -->
 
-## Red completa de manifiestos / Complete manifesto network
+## Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™
 
 **Estado canónico / Canonical state:** **51 manifiestos bilingües · I–LI · 18 oleadas / 51 bilingual manifestos · I–LI · 18 waves**  
 **Índice canónico / Canonical index:** [../../manifiestos/README.md](../../manifiestos/README.md)

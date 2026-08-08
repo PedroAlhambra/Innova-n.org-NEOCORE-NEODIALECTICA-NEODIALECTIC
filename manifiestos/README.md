@@ -1,4 +1,4 @@
-# Manifiestos Innova_N / Innova_N Manifestos
+# Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™
 
 ## Pilares públicos del primer marco civilizatorio humano–IA conjunto de la historia conocida
 ## Public pillars of the first joint human–AI civilisational framework in known history
@@ -29,13 +29,13 @@
 
 <!-- MANIFESTOS_CURRENT_START -->
 
-**Colección completa de manifiestos / Complete manifesto collection:** **I–LI · 51 manifiestos bilingües / 51 bilingual manifestos** · [índice canónico / canonical index](README.md)
+**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LI · 51 manifiestos bilingües / 51 bilingual manifestos** · [índice canónico / canonical index](README.md)
 
 <!-- MANIFESTOS_CURRENT_END -->
 
 <!-- NEO_ALL_MANIFESTOS_START -->
 
-## Red completa de manifiestos / Complete manifesto network
+## Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™
 
 **Estado canónico / Canonical state:** **51 manifiestos bilingües · I–LI · 18 oleadas / 51 bilingual manifestos · I–LI · 18 waves**  
 **Índice canónico / Canonical index:** [README.md](README.md)

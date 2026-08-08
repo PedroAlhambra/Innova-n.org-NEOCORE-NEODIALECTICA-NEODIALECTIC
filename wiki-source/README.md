@@ -17,7 +17,7 @@
 
 <!-- NEO_ALL_MANIFESTOS_START -->
 
-## Red completa de manifiestos / Complete manifesto network
+## Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™
 
 **Estado canónico / Canonical state:** **51 manifiestos bilingües · I–LI · 18 oleadas / 51 bilingual manifestos · I–LI · 18 waves**  
 **Índice canónico / Canonical index:** [../manifiestos/README.md](../manifiestos/README.md)
@@ -217,7 +217,7 @@ The Wiki does not need to be updated for every new document. It is sufficient fo
 
 <!-- MANIFESTOS_CURRENT_START -->
 
-**Colección completa de manifiestos / Complete manifesto collection:** **I–LI · 51 manifiestos bilingües / 51 bilingual manifestos** · [índice canónico / canonical index](../manifiestos/README.md)
+**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LI · 51 manifiestos bilingües / 51 bilingual manifestos** · [índice canónico / canonical index](../manifiestos/README.md)
 
 <!-- MANIFESTOS_CURRENT_END -->
 ---

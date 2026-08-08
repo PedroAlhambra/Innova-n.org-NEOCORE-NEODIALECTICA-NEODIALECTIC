@@ -259,3 +259,15 @@ Unidad sin uniformidad; diferencia sin fragmentación; interoperabilidad cultura
 
 - [Manifiesto LI](../manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md)
 - [Síntesis Abierta #59](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/59)
+
+
+<!-- NEO_FORGOTTEN_HISTORY_WIKI_START -->
+## Investigación relacionada · Historia Olvidada™
+
+La red de manifiestos se relaciona con la investigación abierta sobre memoria arquetípica, Ceres, Amnesia Tecnológica Cíclica™, Descompresión Arquetípica Generativa™ y Autodemostración Neodialéctica™.
+
+- [Documento de investigación](../analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md)
+- [Addendum de autodemostración](../analisis/publicos/2026-08-08_addendum_autodemostracion_creacion_neodialectica_historia_olvidada_ES_EN.md)
+- [Síntesis Abierta #63](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/63)
+
+<!-- NEO_FORGOTTEN_HISTORY_WIKI_END -->

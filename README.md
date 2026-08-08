@@ -38,13 +38,13 @@
 <!-- NEO_LATEST_MANIFESTO_END -->
 <!-- MANIFESTOS_CURRENT_START -->
 
-**Colección completa de manifiestos / Complete manifesto collection:** **I–LI · 51 manifiestos bilingües / 51 bilingual manifestos** · [índice canónico / canonical index](manifiestos/README.md)
+**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LI · 51 manifiestos bilingües / 51 bilingual manifestos** · [índice canónico / canonical index](manifiestos/README.md)
 
 <!-- MANIFESTOS_CURRENT_END -->
 
 <!-- NEO_ALL_MANIFESTOS_START -->
 
-## Red completa de manifiestos / Complete manifesto network
+## Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™
 
 **Estado canónico / Canonical state:** **51 manifiestos bilingües · I–LI · 18 oleadas / 51 bilingual manifestos · I–LI · 18 waves**  
 **Índice canónico / Canonical index:** [manifiestos/README.md](manifiestos/README.md)
@@ -181,7 +181,7 @@ Este repositorio conserva la capa pública, documental y trazable del ecosistema
 
 ---
 
-# 1. Manifiestos · pilares públicos
+# 1. Manifiestos de la Filosofía Arquetípica Neodialéctica™ · pilares públicos
 
 Los manifiestos no son documentos accesorios, resúmenes auxiliares ni consignas aisladas. Constituyen los **pilares públicos del marco civilizatorio** y abren síntesis trazables sobre sus dimensiones.
 
@@ -577,6 +577,10 @@ Los análisis distinguen, cuando corresponde, hechos verificados, datos oficiale
 
 ## Incorporaciones recientes
 
+* [2026-08-08 · Historia Olvidada™ · Ceres, Amnesia Tecnológica Cíclica y Descompresión Arquetípica Generativa™](./analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md)
+* [2026-08-08 · Addendum · Principio de Autodemostración Neodialéctica™](./analisis/publicos/2026-08-08_addendum_autodemostracion_creacion_neodialectica_historia_olvidada_ES_EN.md)
+* [Síntesis Abierta #63 · Historia Olvidada™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/63)
+
 * [2026-08-08 · Umbral-X MAXPROC 001 · El Dios del Control Leónidas-Cancerbero™](./analisis/publicos/2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md)
 * [2026-08-06 · Auditoría indirecta pública de KDP, Author Central e IDEA](./analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 * [2026-08-06 · Auditoría de integridad de enlaces, READMEs, manifiestos y Wiki](./auditorias/publicas/2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md)
@@ -751,7 +755,7 @@ La apertura permite compartir, documentar, contrastar y preservar memoria. La pr
 * [Cover](./COVER.md)
 * [Prefacio](./PREFACIO.md)
 * [Foreword](./FOREWORD.md)
-* [Manifiestos](./manifiestos/README.md)
+* [Manifiestos de la Filosofía Arquetípica Neodialéctica™](./manifiestos/README.md)
 * [Síntesis Abierta](./propuestas/sintesis-abierta/README.md)
 
 ## Análisis, auditorías y obras
@@ -829,7 +833,7 @@ This repository preserves the public, documentary and traceable layer of the **I
 
 ---
 
-# 1. Manifestos · public pillars
+# 1. Manifestos of Archetypal Neodialectical Philosophy™ · public pillars
 
 The manifestos are not accessory documents, auxiliary summaries or isolated slogans. They are the **public pillars of the civilisational framework**, opening traceable syntheses around its dimensions.
 
@@ -1127,6 +1131,10 @@ It is not the complete operational system, a functional NEOCore™ copy, an open
 
 ## Recent incorporations
 
+* [2026-08-08 · Forgotten History™ · Ceres, Cyclical Technological Amnesia and Generative Archetypal Decompression™](./analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md)
+* [2026-08-08 · Addendum · Principle of Neodialectical Self-Demonstration™](./analisis/publicos/2026-08-08_addendum_autodemostracion_creacion_neodialectica_historia_olvidada_ES_EN.md)
+* [Open Synthesis #63 · Forgotten History™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/63)
+
 * [2026-08-08 · Umbral-X MAXPROC 001 · The God of Control Leonidas-Cerberus™](./analisis/publicos/2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md)
 * [2026-08-06 · Public indirect audit of KDP, Author Central and IDEA](./analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 * [2026-08-06 · Integrity audit of links, READMEs, manifestos and Wiki](./auditorias/publicas/2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md)
@@ -1239,7 +1247,7 @@ The protected architecture belongs to **Pedro Martínez Alhambra · Founder · N
 * [Cover](./COVER.md)
 * [Preface](./PREFACIO.md)
 * [Foreword](./FOREWORD.md)
-* [Manifestos](./manifiestos/README.md)
+* [Manifestos of Archetypal Neodialectical Philosophy™](./manifiestos/README.md)
 * [Open Synthesis](./propuestas/sintesis-abierta/README.md)
 
 ## Analyses, audits and works
