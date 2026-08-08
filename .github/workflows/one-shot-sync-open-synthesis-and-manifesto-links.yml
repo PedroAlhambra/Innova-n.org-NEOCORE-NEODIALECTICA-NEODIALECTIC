@@ -1,0 +1,244 @@
+name: one-shot-sync-open-synthesis-and-manifesto-links
+
+on:
+  push:
+    paths:
+      - '.github/workflows/one-shot-sync-open-synthesis-and-manifesto-links.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: one-shot-sync-open-synthesis-and-manifesto-links-main
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Audit and synchronize READMEs, Open Synthesis invitations and manifesto navigation
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+          import os, re, sys
+
+          root = Path('.').resolve()
+          mdir = root / 'manifiestos'
+          index = mdir / 'README.md'
+          protocol = root / 'propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md'
+          synth_index = root / 'propuestas/sintesis-abierta/README.md'
+          issue56 = 'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/56'
+
+          if not index.exists() or not protocol.exists() or not synth_index.exists():
+              raise SystemExit('Canonical Open Synthesis sources missing')
+
+          idx_text = index.read_text(encoding='utf-8')
+          net = re.search(r'<!-- NEO_ALL_MANIFESTOS_START -->(.*?)<!-- NEO_ALL_MANIFESTOS_END -->', idx_text, re.S)
+          if not net:
+              raise SystemExit('Canonical manifesto network block missing from manifiestos/README.md')
+
+          links = []
+          seen = set()
+          for roman, title, href in re.findall(r'- \*\*([IVXLCDM]+)\*\* · \[([^\]]+)\]\(([^)]+\.md)\)', net.group(1)):
+              p = (mdir / href).resolve()
+              if p in seen:
+                  continue
+              if not p.exists():
+                  raise SystemExit(f'Canonical manifesto target missing: {href}')
+              seen.add(p)
+              links.append((roman, title.strip(), p))
+
+          if len(links) != 51:
+              raise SystemExit(f'Expected 51 canonical manifestos from index network, found {len(links)}')
+          if links[0][0] != 'I' or links[-1][0] != 'LI':
+              raise SystemExit(f'Unexpected canonical endpoints: {links[0][0]}..{links[-1][0]}')
+
+          def rel(frm: Path, target: Path):
+              return os.path.relpath(target, start=frm.parent).replace(os.sep, '/')
+
+          invite_start = '<!-- NEO_OPEN_SYNTHESIS_INVITATION_START -->'
+          invite_end = '<!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->'
+          nav_start = '<!-- NEO_MANIFESTO_NAV_START -->'
+          nav_end = '<!-- NEO_MANIFESTO_NAV_END -->'
+
+          def invite_block(f: Path):
+              return f'''{invite_start}
+
+## Participa en la Síntesis Abierta / Join the Open Synthesis
+
+**Este marco no pide adhesión ciega.** La Síntesis Abierta está abierta a cualquier persona que quiera aportar una **adhesión razonada o parcial, crítica, objeción, contraejemplo, fuente, experiencia, verificación, traducción, implementación o propuesta de delta**. Toda aportación debe poder discutirse, contrastarse y revisarse.
+
+**Puerta de entrada recomendada:** [XLVIII · La Síntesis Todo lo Ve™]({rel(f, links[47][2])}) · [Síntesis Abierta XLVIII · Issue #56]({issue56})  
+**Cómo aportar:** [Protocolo de aporte a la Síntesis Abierta]({rel(f, protocol)})  
+**Todas las síntesis abiertas:** [Índice operativo de Síntesis Abierta]({rel(f, synth_index)})
+
+**This framework does not ask for blind endorsement.** Open Synthesis is open to anyone willing to contribute a **reasoned or partial endorsement, criticism, objection, counterexample, source, experience, verification, translation, implementation or proposed delta**. Every contribution must remain open to discussion, checking and revision.
+
+**Recommended entry point:** [XLVIII · The Synthesis Sees Everything™]({rel(f, links[47][2])}) · [Open Synthesis XLVIII · Issue #56]({issue56})  
+**How to contribute:** [Open Synthesis contribution protocol]({rel(f, protocol)})  
+**All open syntheses:** [Open Synthesis operational index]({rel(f, synth_index)})
+
+{invite_end}'''
+
+          def replace_or_insert(text, start, end, block, anchor=None):
+              if start in text and end in text:
+                  return re.sub(re.escape(start) + r'.*?' + re.escape(end), block, text, count=1, flags=re.S)
+              if anchor and anchor in text:
+                  return text.replace(anchor, anchor + '\n\n' + block, 1)
+              return text.rstrip() + '\n\n' + block + '\n'
+
+          # README/LEEME sweep
+          readmes = sorted(set(root.rglob('README.md')) | set(root.rglob('README_*.md')) | {root/'LEEME.md'})
+          readmes = [p for p in readmes if p.exists() and '.git' not in p.parts]
+          changed = []
+
+          for f in readmes:
+              text = f.read_text(encoding='utf-8')
+              old = text
+              text = replace_or_insert(text, invite_start, invite_end, invite_block(f), '<!-- NEO_ALL_MANIFESTOS_END -->')
+              # Canonical current-state text only; historical dated audit prose is intentionally not rewritten.
+              text = text.replace('Índice navegable de manifiestos I–L', 'Índice navegable de manifiestos I–LI')
+              text = text.replace('Navigable manifesto index I–L', 'Navigable manifesto index I–LI')
+              text = text.replace('I–L · 50 manifiestos bilingües', 'I–LI · 51 manifiestos bilingües')
+              text = text.replace('I–L · 50 bilingual manifestos', 'I–LI · 51 bilingual manifestos')
+              text = text.replace('50 manifiestos bilingües · I–L · 17 oleadas', '51 manifiestos bilingües · I–LI · 18 oleadas')
+              text = text.replace('50 bilingual manifestos · I–L · 17 waves', '51 bilingual manifestos · I–LI · 18 waves')
+              if text != old:
+                  f.write_text(text, encoding='utf-8')
+                  changed.append(f)
+
+          # Every canonical manifesto receives Open Synthesis invitation + deterministic prev/index/next navigation.
+          for i, (roman, title, f) in enumerate(links):
+              text = f.read_text(encoding='utf-8')
+              old = text
+              text = replace_or_insert(text, invite_start, invite_end, invite_block(f))
+              prev = links[i-1] if i > 0 else None
+              nxt = links[i+1] if i + 1 < len(links) else None
+              nav = [nav_start, '', '## Navegación canónica / Canonical navigation', '']
+              if prev:
+                  nav.append(f'← **{prev[0]}** · [{prev[1]}]({rel(f, prev[2])})')
+              else:
+                  nav.append('← **Inicio de la colección / Start of collection**')
+              nav.append(f'· [Índice I–LI / I–LI index]({rel(f, index)}) ·')
+              if nxt:
+                  nav.append(f'**{nxt[0]}** · [{nxt[1]}]({rel(f, nxt[2])}) →')
+              else:
+                  nav.append('**Fin de la colección / End of collection** →')
+              nav += ['', '> La navegación canónica mantiene la colección conectada sin convertir ningún manifiesto aislado en equivalente del marco completo. / Canonical navigation keeps the collection connected without treating any single manifesto as equivalent to the complete framework.', '', nav_end]
+              nav_block = '\n'.join(nav)
+              text = replace_or_insert(text, nav_start, nav_end, nav_block)
+              if text != old:
+                  f.write_text(text, encoding='utf-8')
+                  changed.append(f)
+
+          # Validation helpers
+          link_re = re.compile(r'\[[^\]]*\]\(([^)]+)\)')
+          failures=[]
+
+          # Every README/LEEME must have one invitation and access to all 51 canonical manifestos via managed network or canonical index.
+          for f in readmes:
+              text=f.read_text(encoding='utf-8')
+              if text.count(invite_start)!=1 or text.count(invite_end)!=1:
+                  failures.append(f'{f.relative_to(root)}: Open Synthesis invitation marker count invalid')
+              if 'APORTAR_A_LA_SINTESIS_ES_EN.md' not in text or 'issues/56' not in text:
+                  failures.append(f'{f.relative_to(root)}: Open Synthesis links incomplete')
+              # Existing homogenized READMEs should expose the complete managed manifesto network.
+              nblock=re.search(r'<!-- NEO_ALL_MANIFESTOS_START -->(.*?)<!-- NEO_ALL_MANIFESTOS_END -->', text, re.S)
+              if nblock:
+                  resolved=set()
+                  for href in link_re.findall(nblock.group(1)):
+                      h=href.split('#',1)[0].strip()
+                      if not h or re.match(r'^[a-zA-Z][a-zA-Z0-9+.-]*:', h):
+                          continue
+                      t=(f.parent/h).resolve()
+                      if t in seen: resolved.add(t)
+                  if len(resolved)!=51:
+                      failures.append(f'{f.relative_to(root)}: managed manifesto network {len(resolved)}/51')
+              elif rel(f,index) not in text:
+                  failures.append(f'{f.relative_to(root)}: neither full managed network nor canonical manifesto index link')
+
+          # Every canonical manifesto: unique invitation, unique managed nav, valid prev/next/index targets.
+          for i,(roman,title,f) in enumerate(links):
+              text=f.read_text(encoding='utf-8')
+              if text.count(invite_start)!=1 or text.count(invite_end)!=1:
+                  failures.append(f'{f.relative_to(root)}: invitation marker count invalid')
+              if text.count(nav_start)!=1 or text.count(nav_end)!=1:
+                  failures.append(f'{f.relative_to(root)}: navigation marker count invalid')
+              navtxt=re.search(re.escape(nav_start)+r'(.*?)'+re.escape(nav_end),text,re.S)
+              if not navtxt:
+                  continue
+              expected={index.resolve()}
+              if i>0: expected.add(links[i-1][2].resolve())
+              if i+1<len(links): expected.add(links[i+1][2].resolve())
+              got=set()
+              for href in link_re.findall(navtxt.group(1)):
+                  h=href.split('#',1)[0].strip()
+                  if not h or re.match(r'^[a-zA-Z][a-zA-Z0-9+.-]*:', h): continue
+                  t=(f.parent/h).resolve()
+                  if t.exists(): got.add(t)
+              if not expected.issubset(got):
+                  failures.append(f'{f.relative_to(root)}: canonical prev/index/next navigation incomplete')
+
+          # Validate local links in all managed invitation/nav/network blocks.
+          for f in readmes + [x[2] for x in links]:
+              text=f.read_text(encoding='utf-8')
+              blocks=[]
+              for a,b in [(invite_start,invite_end),(nav_start,nav_end),('<!-- NEO_ALL_MANIFESTOS_START -->','<!-- NEO_ALL_MANIFESTOS_END -->')]:
+                  m=re.search(re.escape(a)+r'(.*?)'+re.escape(b),text,re.S)
+                  if m: blocks.append(m.group(1))
+              for block in blocks:
+                  for href in link_re.findall(block):
+                      h=href.split('#',1)[0].strip()
+                      if not h or h.startswith('/') or re.match(r'^[a-zA-Z][a-zA-Z0-9+.-]*:',h): continue
+                      if not (f.parent/h).resolve().exists():
+                          failures.append(f'{f.relative_to(root)}: broken managed local link -> {href}')
+
+          print('CANONICAL_MANIFESTOS=', len(links))
+          print('README_LEEME_TARGETS=', len(readmes))
+          print('FILES_CHANGED=', len(set(changed)))
+          for p in sorted(set(changed)):
+              print('CHANGED', p.relative_to(root).as_posix())
+
+          if failures:
+              print('POSTCHECK FAIL')
+              for x in failures: print(x)
+              sys.exit(1)
+
+          print('POSTCHECK OK: 51 canonical manifestos connected; all README/LEEME targets expose Open Synthesis; managed local links resolve')
+          PY
+
+      - name: Commit safely
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          if git diff --cached --quiet; then
+            echo 'No content changes required.'
+          else
+            git commit -m 'docs: complete Open Synthesis invitations and manifesto navigation'
+            git pull --rebase origin main
+            git push origin main
+          fi
+
+      - name: Cleanup one-shot
+        shell: bash
+        run: |
+          set -euo pipefail
+          git pull --rebase origin main
+          rm -f .github/workflows/one-shot-sync-open-synthesis-and-manifesto-links.yml
+          git add -A
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore: remove completed Open Synthesis and manifesto-link one-shot'
+          git push origin main
