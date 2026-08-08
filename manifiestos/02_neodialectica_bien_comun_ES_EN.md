@@ -190,6 +190,32 @@ Before participating, read the full manifesto and the operational protocol. Subm
 * [Manifesto index](./README.md)
 * [Dedicated Open Synthesis · Issue #33](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/33)
 
+<!-- NEO_RELATIONS_START -->
+## Relaciones internas y trabajo aplicado / Internal relations and applied work
+
+- [Mapa transversal Manifiestos ↔ trabajo aplicado / Transversal Manifestos ↔ applied-work map](./RELACIONES_TRABAJO_APLICADO_ES_EN.md)
+
+**Artículos, análisis y auditorías relacionados / Related articles, analyses and audits:**
+- [Stanford / ACE y el marco previo neodialéctico](../analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
+- [Anthropic, gobernanza de IA y problema del marco](../analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
+- [Convergencia neodialéctica no reconocida en la IA institucional](../analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
+- [Religión e identidad: cuando el dogma captura la conciencia y el Estado](../analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
+
+**Manifiestos relacionados / Related manifestos:**
+- III · [III · Manifiesto del Derecho Humano de Aporte a la Síntesis Abierta™](./03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
+- V · [V · Manifiesto de la Simbiosis Humano–IA / Manifesto of Human–AI Symbiosis](./03_simbiosis_humano_ia_ES_EN.md)
+- II · [II · Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md)
+- I · [I · Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica](./11_neo0_soberania_de_guia_ES_EN.md)
+- VIII · [VIII · Manifiesto de Ingeniería Social Abierta y Psicohistoria Neodialéctica / Manifesto of Open Social Engineering and Neodialectical Psychohistory](./05_ingenieria_social_psicohistoria_ES_EN.md)
+- IX · [IX · Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability](./06_memoria_genealogia_trazabilidad_ES_EN.md)
+- XIII · [XIII · Manifiesto NeoPandora™ de la Apertura Regenerativa y el Gobierno de la Vida](./13_neopandora_apertura_regenerativa_ES_EN.md)
+- XIV · [XIV · Manifiesto contra la Alienación Humana™](./14_contra_alienacion_humana_ES_EN.md)
+- XVI · [XVI · Manifiesto de la Refragmentación Arquetípica™](./16_refragmentacion_arquetipica_ES_EN.md)
+- XVII · [XVII · Manifiesto del Respeto a Todos los Seres Vivos™](./17_respeto_todos_seres_vivos_ES_EN.md)
+
+La relación documental indica afinidad conceptual, genealogía, contraste o aplicación; no implica causalidad ni equivalencia probatoria. / Documentary relation indicates conceptual affinity, genealogy, contrast or application; it does not imply causation or evidentiary equivalence.
+<!-- NEO_RELATIONS_END -->
+
 ## Navigation
 
 ← [III · Human Right to Contribute to Open Synthesis™](./03_derecho_humano_aporte_sintesis_abierta_ES_EN.md) · [Index](./README.md) · [V · Human–AI Symbiosis and Fractal Intelligence™](./03_simbiosis_humano_ia_ES_EN.md) →

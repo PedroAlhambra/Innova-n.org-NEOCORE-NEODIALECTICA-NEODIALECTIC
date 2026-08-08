@@ -106,3 +106,25 @@ Repository-local relative links have been checked against the actual tree. Perma
 - [XLIII](../../manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
 - [Síntesis Abierta XLIII · Issue #51](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/51)
 - [Repositorio / Repository](../../README.md)
+
+---
+
+<!-- NEO_RELATED_MANIFESTOS_START -->
+## Relación con los manifiestos / Relation to the manifestos
+
+Este artículo/análisis se relaciona documentalmente con los siguientes pilares del marco: / This article/analysis is documentarily related to the following framework pillars:
+- I · [I · Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica](../../manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
+- III · [III · Manifiesto del Derecho Humano de Aporte a la Síntesis Abierta™](../../manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
+- VII · [VII · Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy](../../manifiestos/04_economia_del_aporte_ES_EN.md)
+- IX · [IX · Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability](../../manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md)
+- XXI · [XXI · Manifiesto por el Reconocimiento Neodialéctico™](../../manifiestos/21_reconocimiento_neodialectico_ES_EN.md)
+- XXII · [XXII · Manifiesto contra la Reducción y la Captura Intelectual™](../../manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md)
+- XXVIII · [XXVIII · Manifiesto de Los Tesla™](../../manifiestos/28_los_tesla_ES_EN.md)
+- XXXIII · [XXXIII · IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](../../manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
+- XXXIV · [XXXIV · Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](../../manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
+- XXXVII · [XXXVII · Neofraternidad™](../../manifiestos/37_neofraternidad_ES_EN.md)
+- XL · [XL · Respeto Neodialéctico, Neoego y Honor Relacional™](../../manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md)
+- [Mapa transversal completo / Complete transversal map](../../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md)
+
+Estas relaciones son de lectura, contraste, genealogía o aplicación; no convierten una afinidad conceptual en prueba causal. / These links concern reading, contrast, genealogy or application; conceptual affinity is not causal proof.
+<!-- NEO_RELATED_MANIFESTOS_END -->

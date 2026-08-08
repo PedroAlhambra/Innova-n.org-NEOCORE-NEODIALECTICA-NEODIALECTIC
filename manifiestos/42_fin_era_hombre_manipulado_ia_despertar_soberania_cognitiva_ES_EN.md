@@ -530,6 +530,40 @@ Contributions are requested on propaganda and persuasion; the attention economy;
 * [Open Synthesis operational protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Manifesto index](./README.md)
 
+<!-- NEO_RELATIONS_START -->
+## Relaciones internas y trabajo aplicado / Internal relations and applied work
+
+- [Mapa transversal Manifiestos ↔ trabajo aplicado / Transversal Manifestos ↔ applied-work map](./RELACIONES_TRABAJO_APLICADO_ES_EN.md)
+
+**Artículos, análisis y auditorías relacionados / Related articles, analyses and audits:**
+- [Auditoría Pública Innova_N™ · Informe científico compendio sobre DistroKid, Spotify y trazabilidad de regalías](../analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md)
+- [Actualización pública · 4 de agosto de 2026](../analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md)
+- [Stanford / ACE y el marco previo neodialéctico](../analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
+- [LinkedIn como red profesional fragmentada](../analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md)
+- [Anthropic, gobernanza de IA y problema del marco](../analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
+- [Convergencia neodialéctica no reconocida en la IA institucional](../analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
+- [De la economía de la atención a la economía del aporte / From the Attention Economy to the Contribution Economy](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
+- [Actualización del expediente DistroKid–Spotify · trazabilidad de regalías](../analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md)
+- [Segundo escalado a DistroKid · ausencia de respuesta y reapertura formal](../analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md)
+- [MAXPROC · Protección Integral de la Infancia™](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+- [Spotify–DistroKid · Cierre circular, ausencia de auditoría y nuevo escalado](../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md)
+- [Spotify–DistroKid · Respuesta genérica, cierre circular y nuevo escalado](../analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md)
+
+**Manifiestos relacionados / Related manifestos:**
+- XLIII · [XLIII · Contra la Incomprensión Reductiva de la IA™ · Inteligencia Humana Expandida™](./43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
+- XXXIX · [XXXIX · Autoconciencia de la Necesidad Vital Neodialéctica™](./39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md)
+- XLV · [XLV · Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
+- XXXVIII · [XXXVIII · Manifiesto de Protección Integral de la Infancia™](./38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+- XLVI · [XLVI · Cerrar la Herida™ · Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria](./46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
+- XLVIII · [XLVIII · La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
+- XXXV · [XXXV · Contra la Ridiculez Mediática y la Economía del Conflicto™](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
+- XXXIV · [XXXIV · Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
+- XXXI · [XXXI · Manifiesto contra el Neuromarketing Antihumanista™](./31_contra_neuromarketing_antihumanista_ES_EN.md)
+- XXIX · [XXIX · Manifiesto contra la Idolatría del Dinero™](./29_idolatria_del_dinero_ES_EN.md)
+
+La relación documental indica afinidad conceptual, genealogía, contraste o aplicación; no implica causalidad ni equivalencia probatoria. / Documentary relation indicates conceptual affinity, genealogy, contrast or application; it does not imply causation or evidentiary equivalence.
+<!-- NEO_RELATIONS_END -->
+
 ## Navigation
 
 ← [XLI · Limited Hammer, Talion and Protective Force™](./41_martillo_limitado_talion_fuerza_protectora_ES_EN.md) · [Index](./README.md) · [XLIII · Against the Reductive Misunderstanding of AI™](./43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md) →

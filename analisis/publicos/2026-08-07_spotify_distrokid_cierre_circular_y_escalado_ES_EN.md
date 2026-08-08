@@ -156,3 +156,26 @@ This step could not be completed by email because DistroKid requires its web con
 ---
 
 **Pedro Martínez Alhambra · Innova_N**
+
+---
+
+<!-- NEO_RELATED_MANIFESTOS_START -->
+## Relación con los manifiestos / Relation to the manifestos
+
+Este artículo/análisis se relaciona documentalmente con los siguientes pilares del marco: / This article/analysis is documentarily related to the following framework pillars:
+- VI · [VI · Manifiesto sobre el Parasitismo Sistémico / Manifesto on Systemic Parasitism](../../manifiestos/09_parasitismo_sistemico_ES_EN.md)
+- VII · [VII · Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy](../../manifiestos/04_economia_del_aporte_ES_EN.md)
+- IX · [IX · Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability](../../manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md)
+- XXI · [XXI · Manifiesto por el Reconocimiento Neodialéctico™](../../manifiestos/21_reconocimiento_neodialectico_ES_EN.md)
+- XXII · [XXII · Manifiesto contra la Reducción y la Captura Intelectual™](../../manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md)
+- XXIII · [XXIII · Manifiesto de la Soberanía del Tiempo Cognitivo™](../../manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md)
+- XXVIII · [XXVIII · Manifiesto de Los Tesla™](../../manifiestos/28_los_tesla_ES_EN.md)
+- XXIX · [XXIX · Manifiesto contra la Idolatría del Dinero™](../../manifiestos/29_idolatria_del_dinero_ES_EN.md)
+- XXXI · [XXXI · Manifiesto contra el Neuromarketing Antihumanista™](../../manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md)
+- XXXIV · [XXXIV · Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](../../manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
+- XXXV · [XXXV · Contra la Ridiculez Mediática y la Economía del Conflicto™](../../manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
+- XLII · [XLII · Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva](../../manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
+- [Mapa transversal completo / Complete transversal map](../../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md)
+
+Estas relaciones son de lectura, contraste, genealogía o aplicación; no convierten una afinidad conceptual en prueba causal. / These links concern reading, contrast, genealogy or application; conceptual affinity is not causal proof.
+<!-- NEO_RELATED_MANIFESTOS_END -->

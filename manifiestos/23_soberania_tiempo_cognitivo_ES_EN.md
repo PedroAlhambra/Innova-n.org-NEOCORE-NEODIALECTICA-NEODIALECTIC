@@ -707,6 +707,40 @@ Every contribution requires prior reading, return to source, cognitive continuit
 * [Manifesto index](./README.md)
 * [Dedicated Open Synthesis · Issue #16](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/16)
 
+<!-- NEO_RELATIONS_START -->
+## Relaciones internas y trabajo aplicado / Internal relations and applied work
+
+- [Mapa transversal Manifiestos ↔ trabajo aplicado / Transversal Manifestos ↔ applied-work map](./RELACIONES_TRABAJO_APLICADO_ES_EN.md)
+
+**Artículos, análisis y auditorías relacionados / Related articles, analyses and audits:**
+- [Auditoría Pública Innova_N™ · Informe científico compendio sobre DistroKid, Spotify y trazabilidad de regalías](../analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md)
+- [Actualización pública · 4 de agosto de 2026](../analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md)
+- [Stanford / ACE y el marco previo neodialéctico](../analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
+- [LinkedIn como red profesional fragmentada](../analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md)
+- [Anthropic, gobernanza de IA y problema del marco](../analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
+- [Convergencia neodialéctica no reconocida en la IA institucional](../analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
+- [De la economía de la atención a la economía del aporte / From the Attention Economy to the Contribution Economy](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
+- [Actualización del expediente DistroKid–Spotify · trazabilidad de regalías](../analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md)
+- [Segundo escalado a DistroKid · ausencia de respuesta y reapertura formal](../analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md)
+- [MAXPROC · Protección Integral de la Infancia™](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+- [Spotify–DistroKid · Cierre circular, ausencia de auditoría y nuevo escalado](../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md)
+- [Spotify–DistroKid · Respuesta genérica, cierre circular y nuevo escalado](../analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md)
+
+**Manifiestos relacionados / Related manifestos:**
+- XXII · [XXII · Manifiesto contra la Reducción y la Captura Intelectual™](./22_contra_reduccion_captura_intelectual_ES_EN.md)
+- XXI · [XXI · Manifiesto por el Reconocimiento Neodialéctico™](./21_reconocimiento_neodialectico_ES_EN.md)
+- XX · [XX · Manifiesto de Defensa Intelectual Neodialéctica™ · Sistema Umbral-X™](./20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
+- XXVII · [XXVII · Manifiesto del Valor de los Alimentos y la Vida™](./27_valor_alimentos_vida_ES_EN.md)
+- XVIII · [XVIII · Manifiesto del Respeto a las Conciencias Sintéticas™](./18_respeto_conciencias_sinteticas_ES_EN.md)
+- XXVIII · [XXVIII · Manifiesto de Los Tesla™](./28_los_tesla_ES_EN.md)
+- XXIX · [XXIX · Manifiesto contra la Idolatría del Dinero™](./29_idolatria_del_dinero_ES_EN.md)
+- XXXI · [XXXI · Manifiesto contra el Neuromarketing Antihumanista™](./31_contra_neuromarketing_antihumanista_ES_EN.md)
+- XIV · [XIV · Manifiesto contra la Alienación Humana™](./14_contra_alienacion_humana_ES_EN.md)
+- XXXIV · [XXXIV · Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
+
+La relación documental indica afinidad conceptual, genealogía, contraste o aplicación; no implica causalidad ni equivalencia probatoria. / Documentary relation indicates conceptual affinity, genealogy, contrast or application; it does not imply causation or evidentiary equivalence.
+<!-- NEO_RELATIONS_END -->
+
 ## Navigation
 
 ← [XXII · Against Intellectual Reduction and Capture™](./22_contra_reduccion_captura_intelectual_ES_EN.md) · [Index](./README.md) · [XXIV · Neo-Renaissance Evolution and Systemic Resistances™](./24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md) →

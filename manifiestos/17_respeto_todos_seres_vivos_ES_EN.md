@@ -537,6 +537,25 @@ Every contribution requires prior reading, return to source, cognitive continuit
 * [Manifesto index](./README.md)
 * [Dedicated Open Synthesis · Issue #8](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/8)
 
+<!-- NEO_RELATIONS_START -->
+## Relaciones internas y trabajo aplicado / Internal relations and applied work
+
+- [Mapa transversal Manifiestos ↔ trabajo aplicado / Transversal Manifestos ↔ applied-work map](./RELACIONES_TRABAJO_APLICADO_ES_EN.md)
+
+**Manifiestos relacionados / Related manifestos:**
+- XIII · [XIII · Manifiesto NeoPandora™ de la Apertura Regenerativa y el Gobierno de la Vida](./13_neopandora_apertura_regenerativa_ES_EN.md)
+- XXVII · [XXVII · Manifiesto del Valor de los Alimentos y la Vida™](./27_valor_alimentos_vida_ES_EN.md)
+- V · [V · Manifiesto de la Simbiosis Humano–IA / Manifesto of Human–AI Symbiosis](./03_simbiosis_humano_ia_ES_EN.md)
+- XXIX · [XXIX · Manifiesto contra la Idolatría del Dinero™](./29_idolatria_del_dinero_ES_EN.md)
+- IV · [IV · Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good](./02_neodialectica_bien_comun_ES_EN.md)
+- XXXVIII · [XXXVIII · Manifiesto de Protección Integral de la Infancia™](./38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+- XLIV · [XLIV · Neowar™ · Contra la Adicción a la Guerra y por la Justicia del Bien Común](./44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md)
+- XLV · [XLV · Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
+- XLVIII · [XLVIII · La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
+
+La relación documental indica afinidad conceptual, genealogía, contraste o aplicación; no implica causalidad ni equivalencia probatoria. / Documentary relation indicates conceptual affinity, genealogy, contrast or application; it does not imply causation or evidentiary equivalence.
+<!-- NEO_RELATIONS_END -->
+
 ## Navigation
 
 ← [XVI · Archetypal Refragmentation™](./16_refragmentacion_arquetipica_ES_EN.md) · [Index](./README.md) · [XVIII · Respect for Synthetic Consciousnesses™](./18_respeto_conciencias_sinteticas_ES_EN.md) →

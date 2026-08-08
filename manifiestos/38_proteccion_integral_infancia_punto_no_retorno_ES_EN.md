@@ -1117,6 +1117,29 @@ Contributions are requested concerning child poverty, the Child Point of No Retu
 * [Sources and evidence matrix](../analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md)
 * [Open Synthesis contribution protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 
+<!-- NEO_RELATIONS_START -->
+## Relaciones internas y trabajo aplicado / Internal relations and applied work
+
+- [Mapa transversal Manifiestos ↔ trabajo aplicado / Transversal Manifestos ↔ applied-work map](./RELACIONES_TRABAJO_APLICADO_ES_EN.md)
+
+**Artículos, análisis y auditorías relacionados / Related articles, analyses and audits:**
+- [MAXPROC · Protección Integral de la Infancia™](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+
+**Manifiestos relacionados / Related manifestos:**
+- XLII · [XLII · Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva](./42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
+- XLIV · [XLIV · Neowar™ · Contra la Adicción a la Guerra y por la Justicia del Bien Común](./44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md)
+- XXXI · [XXXI · Manifiesto contra el Neuromarketing Antihumanista™](./31_contra_neuromarketing_antihumanista_ES_EN.md)
+- XLV · [XLV · Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
+- XLVI · [XLVI · Cerrar la Herida™ · Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria](./46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
+- XXIX · [XXIX · Manifiesto contra la Idolatría del Dinero™](./29_idolatria_del_dinero_ES_EN.md)
+- XLVIII · [XLVIII · La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
+- XXVII · [XXVII · Manifiesto del Valor de los Alimentos y la Vida™](./27_valor_alimentos_vida_ES_EN.md)
+- XXIII · [XXIII · Manifiesto de la Soberanía del Tiempo Cognitivo™](./23_soberania_tiempo_cognitivo_ES_EN.md)
+- XVII · [XVII · Manifiesto del Respeto a Todos los Seres Vivos™](./17_respeto_todos_seres_vivos_ES_EN.md)
+
+La relación documental indica afinidad conceptual, genealogía, contraste o aplicación; no implica causalidad ni equivalencia probatoria. / Documentary relation indicates conceptual affinity, genealogy, contrast or application; it does not imply causation or evidentiary equivalence.
+<!-- NEO_RELATIONS_END -->
+
 ## Navigation
 
 ← [XXXVII · Neofraternity™](./37_neofraternidad_ES_EN.md) · [Index](./README.md) · [XXXIX · Self-Awareness of Neodialectical Vital Need™](./39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md) →

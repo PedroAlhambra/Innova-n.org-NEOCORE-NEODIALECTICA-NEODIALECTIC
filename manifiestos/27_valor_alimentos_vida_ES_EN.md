@@ -288,6 +288,29 @@ Contributions are requested concerning the right to food, animal welfare, plant 
 * [Manifesto index](./README.md)
 * [Dedicated Open Synthesis · Issue #21](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/21)
 
+<!-- NEO_RELATIONS_START -->
+## Relaciones internas y trabajo aplicado / Internal relations and applied work
+
+- [Mapa transversal Manifiestos ↔ trabajo aplicado / Transversal Manifestos ↔ applied-work map](./RELACIONES_TRABAJO_APLICADO_ES_EN.md)
+
+**Artículos, análisis y auditorías relacionados / Related articles, analyses and audits:**
+- [MAXPROC · Protección Integral de la Infancia™](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+
+**Manifiestos relacionados / Related manifestos:**
+- XXIX · [XXIX · Manifiesto contra la Idolatría del Dinero™](./29_idolatria_del_dinero_ES_EN.md)
+- XXIII · [XXIII · Manifiesto de la Soberanía del Tiempo Cognitivo™](./23_soberania_tiempo_cognitivo_ES_EN.md)
+- XXXI · [XXXI · Manifiesto contra el Neuromarketing Antihumanista™](./31_contra_neuromarketing_antihumanista_ES_EN.md)
+- XVII · [XVII · Manifiesto del Respeto a Todos los Seres Vivos™](./17_respeto_todos_seres_vivos_ES_EN.md)
+- XXXVIII · [XXXVIII · Manifiesto de Protección Integral de la Infancia™](./38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+- XIV · [XIV · Manifiesto contra la Alienación Humana™](./14_contra_alienacion_humana_ES_EN.md)
+- XIII · [XIII · Manifiesto NeoPandora™ de la Apertura Regenerativa y el Gobierno de la Vida](./13_neopandora_apertura_regenerativa_ES_EN.md)
+- XLII · [XLII · Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva](./42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
+- XLIV · [XLIV · Neowar™ · Contra la Adicción a la Guerra y por la Justicia del Bien Común](./44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md)
+- XLV · [XLV · Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
+
+La relación documental indica afinidad conceptual, genealogía, contraste o aplicación; no implica causalidad ni equivalencia probatoria. / Documentary relation indicates conceptual affinity, genealogy, contrast or application; it does not imply causation or evidentiary equivalence.
+<!-- NEO_RELATIONS_END -->
+
 ## Navigation
 
 ← [XXVI · Universal Reciprocal Mercy™](./26_misericordia_universal_reciproca_ES_EN.md) · [Index](./README.md) · [XXVIII · The Teslas™](./28_los_tesla_ES_EN.md) →

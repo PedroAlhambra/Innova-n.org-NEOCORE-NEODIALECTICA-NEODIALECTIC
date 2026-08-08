@@ -3485,3 +3485,26 @@ And within it, part of the architecture of the larger problem can already be see
 
 1. [PSOE · Electoral Programme. 2023 General Election](https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf)
 2. [Podemos · Feminist and LGTBIQA+ Document](https://podemos.info/wp-content/uploads/2022/07/Documento-feminista-y-LGTBIQA.pdf)
+
+---
+
+<!-- NEO_RELATED_MANIFESTOS_START -->
+## Relación con los manifiestos / Relation to the manifestos
+
+Este artículo/análisis se relaciona documentalmente con los siguientes pilares del marco: / This article/analysis is documentarily related to the following framework pillars:
+- IV · [IV · Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good](../../manifiestos/02_neodialectica_bien_comun_ES_EN.md)
+- VIII · [VIII · Manifiesto de Ingeniería Social Abierta y Psicohistoria Neodialéctica / Manifesto of Open Social Engineering and Neodialectical Psychohistory](../../manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md)
+- XIV · [XIV · Manifiesto contra la Alienación Humana™](../../manifiestos/14_contra_alienacion_humana_ES_EN.md)
+- XVI · [XVI · Manifiesto de la Refragmentación Arquetípica™](../../manifiestos/16_refragmentacion_arquetipica_ES_EN.md)
+- XX · [XX · Manifiesto de Defensa Intelectual Neodialéctica™ · Sistema Umbral-X™](../../manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
+- XXII · [XXII · Manifiesto contra la Reducción y la Captura Intelectual™](../../manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md)
+- XXV · [XXV · Manifiesto del Pulido de la Piedra™](../../manifiestos/25_pulido_de_la_piedra_ES_EN.md)
+- XXXII · [XXXII · Manifiesto de la Reversión Ideológica Neodialéctica™](../../manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md)
+- XL · [XL · Respeto Neodialéctico, Neoego y Honor Relacional™](../../manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md)
+- XLV · [XLV · Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder](../../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
+- XLVI · [XLVI · Cerrar la Herida™ · Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria](../../manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
+- XLVIII · [XLVIII · La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo](../../manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
+- [Mapa transversal completo / Complete transversal map](../../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md)
+
+Estas relaciones son de lectura, contraste, genealogía o aplicación; no convierten una afinidad conceptual en prueba causal. / These links concern reading, contrast, genealogy or application; conceptual affinity is not causal proof.
+<!-- NEO_RELATED_MANIFESTOS_END -->

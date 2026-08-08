@@ -223,6 +223,40 @@ Before participating, read the full manifesto and the operational protocol. Subm
 * [Manifesto index](./README.md)
 * [Dedicated Open Synthesis · Issue #36](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/36)
 
+<!-- NEO_RELATIONS_START -->
+## Relaciones internas y trabajo aplicado / Internal relations and applied work
+
+- [Mapa transversal Manifiestos ↔ trabajo aplicado / Transversal Manifestos ↔ applied-work map](./RELACIONES_TRABAJO_APLICADO_ES_EN.md)
+
+**Artículos, análisis y auditorías relacionados / Related articles, analyses and audits:**
+- [Auditoría Pública Innova_N™ · Informe científico compendio sobre DistroKid, Spotify y trazabilidad de regalías](../analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md)
+- [Actualización pública · 4 de agosto de 2026](../analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md)
+- [LinkedIn como red profesional fragmentada](../analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md)
+- [De la economía de la atención a la economía del aporte / From the Attention Economy to the Contribution Economy](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
+- [Actualización del expediente DistroKid–Spotify · trazabilidad de regalías](../analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md)
+- [Auditoría indirecta pública · KDP, Author Central e IDEA](../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
+- [Segundo escalado a DistroKid · ausencia de respuesta y reapertura formal](../analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md)
+- [Spotify–DistroKid · Cierre circular, ausencia de auditoría y nuevo escalado](../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md)
+- [Spotify–DistroKid · Respuesta genérica, cierre circular y nuevo escalado](../analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md)
+- [Hito de éxito operativo provisional · Auditoría gratuita a Amazon KDP y Author Central](../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+- [Addendum de trazabilidad · respuesta KDP sobre «cambios sin publicar»](../auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md)
+- [Auditoría global final · README, enlaces, XLIII y trazabilidad KDP 51071689](../auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md)
+
+**Manifiestos relacionados / Related manifestos:**
+- VI · [VI · Manifiesto sobre el Parasitismo Sistémico / Manifesto on Systemic Parasitism](./09_parasitismo_sistemico_ES_EN.md)
+- IX · [IX · Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability](./06_memoria_genealogia_trazabilidad_ES_EN.md)
+- III · [III · Manifiesto del Derecho Humano de Aporte a la Síntesis Abierta™](./03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
+- I · [I · Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica](./11_neo0_soberania_de_guia_ES_EN.md)
+- XXI · [XXI · Manifiesto por el Reconocimiento Neodialéctico™](./21_reconocimiento_neodialectico_ES_EN.md)
+- XXII · [XXII · Manifiesto contra la Reducción y la Captura Intelectual™](./22_contra_reduccion_captura_intelectual_ES_EN.md)
+- XXIII · [XXIII · Manifiesto de la Soberanía del Tiempo Cognitivo™](./23_soberania_tiempo_cognitivo_ES_EN.md)
+- XXVIII · [XXVIII · Manifiesto de Los Tesla™](./28_los_tesla_ES_EN.md)
+- XXIX · [XXIX · Manifiesto contra la Idolatría del Dinero™](./29_idolatria_del_dinero_ES_EN.md)
+- XXXI · [XXXI · Manifiesto contra el Neuromarketing Antihumanista™](./31_contra_neuromarketing_antihumanista_ES_EN.md)
+
+La relación documental indica afinidad conceptual, genealogía, contraste o aplicación; no implica causalidad ni equivalencia probatoria. / Documentary relation indicates conceptual affinity, genealogy, contrast or application; it does not imply causation or evidentiary equivalence.
+<!-- NEO_RELATIONS_END -->
+
 ## Navigation
 
 ← [VI · Systemic Parasitism](./09_parasitismo_sistemico_ES_EN.md) · [Index](./README.md) · [VIII · Open Social Engineering and Neodialectical Psychohistory](./05_ingenieria_social_psicohistoria_ES_EN.md) →

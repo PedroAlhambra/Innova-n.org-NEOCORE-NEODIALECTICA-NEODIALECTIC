@@ -1096,6 +1096,37 @@ Contributions are invited on multidimensional models of persons and societies; l
 
 ← [XLIV · Neowar™](./44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md) · [Index](./README.md) · [I · Neo0™ · Neodialectical Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) →
 
+<!-- NEO_RELATIONS_START -->
+## Relaciones internas y trabajo aplicado / Internal relations and applied work
+
+- [Mapa transversal Manifiestos ↔ trabajo aplicado / Transversal Manifestos ↔ applied-work map](./RELACIONES_TRABAJO_APLICADO_ES_EN.md)
+
+**Artículos, análisis y auditorías relacionados / Related articles, analyses and audits:**
+- [Stanford / ACE y el marco previo neodialéctico](../analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
+- [Anthropic, gobernanza de IA y problema del marco](../analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
+- [Convergencia neodialéctica no reconocida en la IA institucional](../analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
+- [Religión e identidad: cuando el dogma captura la conciencia y el Estado](../analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
+- [España sin consulta: Marruecos, regularización, nacionalidad y pérdida de control democrático / Spain without consultation: Morocco, regularisation, nationality and loss of democratic control](../analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md)
+- [Parte II — Dajla, mafias migratorias y control estatal](../analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
+- [Parte III — Ceuta 2026, Marruecos y evolución del conflicto](../analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md)
+- [Parte IV — Canarias: de la presión fronteriza a la infraestructura de acogida](../analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md)
+- [Postcheck · vínculos España–Marruecos y limpieza de bloques de manifiestos](../auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md)
+
+**Manifiestos relacionados / Related manifestos:**
+- XLIV · [XLIV · Neowar™ · Contra la Adicción a la Guerra y por la Justicia del Bien Común](./44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md)
+- XLVI · [XLVI · Cerrar la Herida™ · Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria](./46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
+- XLIII · [XLIII · Contra la Incomprensión Reductiva de la IA™ · Inteligencia Humana Expandida™](./43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
+- XLII · [XLII · Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva](./42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
+- XLVIII · [XLVIII · La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
+- XLI · [XLI · Martillo Limitado, Talión y Fuerza Protectora™](./41_martillo_limitado_talion_fuerza_protectora_ES_EN.md)
+- XL · [XL · Respeto Neodialéctico, Neoego y Honor Relacional™](./40_respeto_neoego_honor_relacional_ES_EN.md)
+- XXXIX · [XXXIX · Autoconciencia de la Necesidad Vital Neodialéctica™](./39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md)
+- XXXVIII · [XXXVIII · Manifiesto de Protección Integral de la Infancia™](./38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+- XXXV · [XXXV · Contra la Ridiculez Mediática y la Economía del Conflicto™](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
+
+La relación documental indica afinidad conceptual, genealogía, contraste o aplicación; no implica causalidad ni equivalencia probatoria. / Documentary relation indicates conceptual affinity, genealogy, contrast or application; it does not imply causation or evidentiary equivalence.
+<!-- NEO_RELATIONS_END -->
+
 ---
 
 ## Firma común / Common signature

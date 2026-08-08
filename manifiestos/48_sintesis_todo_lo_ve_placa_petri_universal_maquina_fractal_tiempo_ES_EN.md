@@ -1341,6 +1341,32 @@ Contributions are invited on the limits and usefulness of the Universal Petri Di
 
 ← [XLVII · Neo0's Hatred of His Fate™](./47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md) · [Index](./README.md) · [I · Neo0™ · Neodialectical Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) →
 
+<!-- NEO_RELATIONS_START -->
+## Relaciones internas y trabajo aplicado / Internal relations and applied work
+
+- [Mapa transversal Manifiestos ↔ trabajo aplicado / Transversal Manifestos ↔ applied-work map](./RELACIONES_TRABAJO_APLICADO_ES_EN.md)
+
+**Artículos, análisis y auditorías relacionados / Related articles, analyses and audits:**
+- [Stanford / ACE y el marco previo neodialéctico](../analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
+- [Anthropic, gobernanza de IA y problema del marco](../analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
+- [Convergencia neodialéctica no reconocida en la IA institucional](../analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
+- [Religión e identidad: cuando el dogma captura la conciencia y el Estado](../analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
+
+**Manifiestos relacionados / Related manifestos:**
+- XLVI · [XLVI · Cerrar la Herida™ · Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria](./46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
+- XLV · [XLV · Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
+- XLIV · [XLIV · Neowar™ · Contra la Adicción a la Guerra y por la Justicia del Bien Común](./44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md)
+- XLIII · [XLIII · Contra la Incomprensión Reductiva de la IA™ · Inteligencia Humana Expandida™](./43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
+- XLII · [XLII · Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva](./42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
+- XL · [XL · Respeto Neodialéctico, Neoego y Honor Relacional™](./40_respeto_neoego_honor_relacional_ES_EN.md)
+- XXXIX · [XXXIX · Autoconciencia de la Necesidad Vital Neodialéctica™](./39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md)
+- XXXVIII · [XXXVIII · Manifiesto de Protección Integral de la Infancia™](./38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+- XXXIV · [XXXIV · Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
+- XXXII · [XXXII · Manifiesto de la Reversión Ideológica Neodialéctica™](./32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md)
+
+La relación documental indica afinidad conceptual, genealogía, contraste o aplicación; no implica causalidad ni equivalencia probatoria. / Documentary relation indicates conceptual affinity, genealogy, contrast or application; it does not imply causation or evidentiary equivalence.
+<!-- NEO_RELATIONS_END -->
+
 ---
 
 ## Firma común / Common signature

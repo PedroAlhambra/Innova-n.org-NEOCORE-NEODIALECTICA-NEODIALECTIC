@@ -663,6 +663,30 @@ Every contribution requires prior reading, return to source, cognitive continuit
 * [Manifesto index](./README.md)
 * [Dedicated Open Synthesis · Issue #5](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/5)
 
+<!-- NEO_RELATIONS_START -->
+## Relaciones internas y trabajo aplicado / Internal relations and applied work
+
+- [Mapa transversal Manifiestos ↔ trabajo aplicado / Transversal Manifestos ↔ applied-work map](./RELACIONES_TRABAJO_APLICADO_ES_EN.md)
+
+**Artículos, análisis y auditorías relacionados / Related articles, analyses and audits:**
+- [Religión e identidad: cuando el dogma captura la conciencia y el Estado](../analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
+- [MAXPROC · Protección Integral de la Infancia™](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+
+**Manifiestos relacionados / Related manifestos:**
+- XVI · [XVI · Manifiesto de la Refragmentación Arquetípica™](./16_refragmentacion_arquetipica_ES_EN.md)
+- VIII · [VIII · Manifiesto de Ingeniería Social Abierta y Psicohistoria Neodialéctica / Manifesto of Open Social Engineering and Neodialectical Psychohistory](./05_ingenieria_social_psicohistoria_ES_EN.md)
+- XX · [XX · Manifiesto de Defensa Intelectual Neodialéctica™ · Sistema Umbral-X™](./20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
+- XXII · [XXII · Manifiesto contra la Reducción y la Captura Intelectual™](./22_contra_reduccion_captura_intelectual_ES_EN.md)
+- XXIII · [XXIII · Manifiesto de la Soberanía del Tiempo Cognitivo™](./23_soberania_tiempo_cognitivo_ES_EN.md)
+- IV · [IV · Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good](./02_neodialectica_bien_comun_ES_EN.md)
+- XXV · [XXV · Manifiesto del Pulido de la Piedra™](./25_pulido_de_la_piedra_ES_EN.md)
+- XXVII · [XXVII · Manifiesto del Valor de los Alimentos y la Vida™](./27_valor_alimentos_vida_ES_EN.md)
+- XXXI · [XXXI · Manifiesto contra el Neuromarketing Antihumanista™](./31_contra_neuromarketing_antihumanista_ES_EN.md)
+- XXXII · [XXXII · Manifiesto de la Reversión Ideológica Neodialéctica™](./32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md)
+
+La relación documental indica afinidad conceptual, genealogía, contraste o aplicación; no implica causalidad ni equivalencia probatoria. / Documentary relation indicates conceptual affinity, genealogy, contrast or application; it does not imply causation or evidentiary equivalence.
+<!-- NEO_RELATIONS_END -->
+
 ## Navigation
 
 ← [XIII · NeoPandora™ · Regenerative Opening and Governance of Life](./13_neopandora_apertura_regenerativa_ES_EN.md) · [Index](./README.md) · [XV · The Titans™ · The Awakening of the People](./15_los_titanes_despertar_de_la_gente_ES_EN.md) →

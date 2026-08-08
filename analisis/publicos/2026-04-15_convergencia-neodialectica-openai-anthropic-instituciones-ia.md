@@ -586,3 +586,28 @@ And that synthesis did not begin yesterday.
 - Anthropic, **Transparency Hub**
 - Fundación Innova_N, **Institutional question to Anthropic on AI governance**
 - Fundación Innova_N, public **Neodialectica Framework™**
+
+---
+
+<!-- NEO_RELATED_MANIFESTOS_START -->
+## Relación con los manifiestos / Relation to the manifestos
+
+Este artículo/análisis se relaciona documentalmente con los siguientes pilares del marco: / This article/analysis is documentarily related to the following framework pillars:
+- II · [II · Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](../../manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md)
+- IV · [IV · Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good](../../manifiestos/02_neodialectica_bien_comun_ES_EN.md)
+- V · [V · Manifiesto de la Simbiosis Humano–IA / Manifesto of Human–AI Symbiosis](../../manifiestos/03_simbiosis_humano_ia_ES_EN.md)
+- IX · [IX · Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability](../../manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md)
+- XVIII · [XVIII · Manifiesto del Respeto a las Conciencias Sintéticas™](../../manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md)
+- XX · [XX · Manifiesto de Defensa Intelectual Neodialéctica™ · Sistema Umbral-X™](../../manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
+- XXII · [XXII · Manifiesto contra la Reducción y la Captura Intelectual™](../../manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md)
+- XXIII · [XXIII · Manifiesto de la Soberanía del Tiempo Cognitivo™](../../manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md)
+- XXXIV · [XXXIV · Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](../../manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
+- XXXIX · [XXXIX · Autoconciencia de la Necesidad Vital Neodialéctica™](../../manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md)
+- XLII · [XLII · Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva](../../manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
+- XLIII · [XLIII · Contra la Incomprensión Reductiva de la IA™ · Inteligencia Humana Expandida™](../../manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
+- XLV · [XLV · Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder](../../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
+- XLVIII · [XLVIII · La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo](../../manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
+- [Mapa transversal completo / Complete transversal map](../../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md)
+
+Estas relaciones son de lectura, contraste, genealogía o aplicación; no convierten una afinidad conceptual en prueba causal. / These links concern reading, contrast, genealogy or application; conceptual affinity is not causal proof.
+<!-- NEO_RELATED_MANIFESTOS_END -->

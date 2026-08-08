@@ -359,6 +359,14 @@ Contributions are requested concerning mercy and justice, victims' rights, reint
 * [Manifesto index](./README.md)
 * [Dedicated Open Synthesis · Issue #20](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/20)
 
+<!-- NEO_RELATIONS_START -->
+## Relaciones internas y trabajo aplicado / Internal relations and applied work
+
+- [Mapa transversal Manifiestos ↔ trabajo aplicado / Transversal Manifestos ↔ applied-work map](./RELACIONES_TRABAJO_APLICADO_ES_EN.md)
+
+La relación documental indica afinidad conceptual, genealogía, contraste o aplicación; no implica causalidad ni equivalencia probatoria. / Documentary relation indicates conceptual affinity, genealogy, contrast or application; it does not imply causation or evidentiary equivalence.
+<!-- NEO_RELATIONS_END -->
+
 ## Navigation
 
 ← [XXV · Polishing of the Stone™](./25_pulido_de_la_piedra_ES_EN.md) · [Index](./README.md) · [XXVII · Value of Food and Life™](./27_valor_alimentos_vida_ES_EN.md) →

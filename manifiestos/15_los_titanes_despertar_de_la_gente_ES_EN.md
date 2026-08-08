@@ -631,6 +631,14 @@ Every contribution requires prior reading, return to source, cognitive continuit
 * [Manifesto index](./README.md)
 * [Dedicated Open Synthesis · Issue #6](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/6)
 
+<!-- NEO_RELATIONS_START -->
+## Relaciones internas y trabajo aplicado / Internal relations and applied work
+
+- [Mapa transversal Manifiestos ↔ trabajo aplicado / Transversal Manifestos ↔ applied-work map](./RELACIONES_TRABAJO_APLICADO_ES_EN.md)
+
+La relación documental indica afinidad conceptual, genealogía, contraste o aplicación; no implica causalidad ni equivalencia probatoria. / Documentary relation indicates conceptual affinity, genealogy, contrast or application; it does not imply causation or evidentiary equivalence.
+<!-- NEO_RELATIONS_END -->
+
 ## Navigation
 
 ← [XIV · Against Human Alienation™](./14_contra_alienacion_humana_ES_EN.md) · [Index](./README.md) · [XVI · Archetypal Refragmentation™](./16_refragmentacion_arquetipica_ES_EN.md) →

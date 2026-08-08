@@ -520,3 +520,21 @@ This MAXPROC audit provides the evidence and design basis for **Manifesto XXXVII
 - Congreso de los Diputados · Proyecto de Ley Orgánica para la protección de menores en entornos digitales, situación actual: https://www.congreso.es/es/iniciativas-organo?_iniciativas_id=121%2F000052&_iniciativas_legislatura=XV&_iniciativas_mode=mostrarDetalle&p_p_id=iniciativas&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal
 
 **© 2026 Pedro Martínez Alhambra · Fundación Innova_N / Innova_N Foundation**
+
+---
+
+<!-- NEO_RELATED_MANIFESTOS_START -->
+## Relación con los manifiestos / Relation to the manifestos
+
+Este artículo/análisis se relaciona documentalmente con los siguientes pilares del marco: / This article/analysis is documentarily related to the following framework pillars:
+- XIV · [XIV · Manifiesto contra la Alienación Humana™](../../manifiestos/14_contra_alienacion_humana_ES_EN.md)
+- XXIII · [XXIII · Manifiesto de la Soberanía del Tiempo Cognitivo™](../../manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md)
+- XXVII · [XXVII · Manifiesto del Valor de los Alimentos y la Vida™](../../manifiestos/27_valor_alimentos_vida_ES_EN.md)
+- XXXI · [XXXI · Manifiesto contra el Neuromarketing Antihumanista™](../../manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md)
+- XXXVIII · [XXXVIII · Manifiesto de Protección Integral de la Infancia™](../../manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+- XLII · [XLII · Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva](../../manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
+- XLVI · [XLVI · Cerrar la Herida™ · Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria](../../manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
+- [Mapa transversal completo / Complete transversal map](../../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md)
+
+Estas relaciones son de lectura, contraste, genealogía o aplicación; no convierten una afinidad conceptual en prueba causal. / These links concern reading, contrast, genealogy or application; conceptual affinity is not causal proof.
+<!-- NEO_RELATED_MANIFESTOS_END -->
