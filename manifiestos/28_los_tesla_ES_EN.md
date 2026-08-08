@@ -365,3 +365,15 @@ Contributions are requested concerning the Tesla Cycle™, evidence, economic an
 ← [XXVII · Value of Food and Life™](./27_valor_alimentos_vida_ES_EN.md) · [Index](./README.md) · [XXIX · Against the Idolatry of Money™](./29_idolatria_del_dinero_ES_EN.md) →
 
 ---
+
+<!-- NEO_RELATED_WORK_START -->
+## Trabajo aplicado y casos relacionados / Applied work and related cases
+
+> El Ciclo Tesla™ exige distinguir patrón, indicio, evidencia e inferencia. Estos enlaces documentan casos de procedencia, retorno y continuidad del creador; no prueban por sí solos un ciclo completo ni una conspiración. / The Tesla Cycle™ requires distinguishing pattern, indication, evidence and inference. These links document provenance, return and creator-continuity cases; they do not by themselves prove a complete cycle or conspiracy.
+
+- [Stanford / ACE y marco previo neodialéctico](../analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md) — precedencia y convergencia; no prueba directa de copia / precedence and convergence; not direct proof of copying.
+- [Convergencia neodialéctica en IA institucional](../analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md) — relación estructural documentada, no imputación causal automática / documented structural relation, not automatic causal attribution.
+- [Spotify–DistroKid · cierre circular](../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md) — continuidad económica y trazabilidad del creador; expediente abierto / creator economic continuity and traceability; open case.
+- [Economía de la atención → Economía del aporte](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md) — separación entre origen, canal, visibilidad y retorno / separation among origin, channel, visibility and return.
+- [Mapa transversal completo](./RELACIONES_TRABAJO_APLICADO_ES_EN.md#manifiesto-xxviii)
+<!-- NEO_RELATED_WORK_END -->
