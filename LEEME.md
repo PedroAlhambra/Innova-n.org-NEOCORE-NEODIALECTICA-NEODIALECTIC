@@ -133,6 +133,28 @@ Los manifiestos no son documentos accesorios, resúmenes auxiliares ni consignas
 **Antecedente genealógico de XXXVI:** [Corona, Águila e Innova_N como herramienta neodialéctica](./propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md).  
 **Anexo vinculado a XXXV:** [Responsabilidad de los Nodos de Poder y Deber de Examen Civilizatorio](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md).
 
+## Octava oleada · Infancia, educación y transmisión civilizatoria · XXXVIII
+
+| Nº | Manifiesto | Función | Síntesis Abierta |
+|---:|---|---|---|
+| XXXVIII | [Protección Integral de la Infancia™](./manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) | Proteger seguridad material, educación, desarrollo por edades, privacidad y atención frente a captura comercial y abandono sistémico | [Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45) |
+
+## Novena oleada · Autoconciencia, respeto y defensa civilizatoria · XXXIX–XLI
+
+| Nº | Manifiesto | Función | Síntesis Abierta |
+|---:|---|---|---|
+| XXXIX | [Autoconciencia de la Necesidad Vital Neodialéctica™](./manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md) | Memoria, relación, contraste, trazabilidad y corrección como infraestructura civilizatoria | [Issue #47](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/47) |
+| XL | [Respeto Neodialéctico, Neoego y Honor Relacional™](./manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md) | Preservar límites, reciprocidad y genealogía sin convertir excelencia en captura | [Issue #48](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/48) |
+| XLI | [Martillo Limitado, Talión y Fuerza Protectora™](./manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md) | Gobernar defensa mediante necesidad, proporcionalidad, distinción, responsabilidad y cese | [Issue #49](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/49) |
+
+## Décima oleada · Fin de la Era del Hombre Manipulado™ · XLII
+
+| Nº | Manifiesto | Función | Síntesis Abierta |
+|---:|---|---|---|
+| XLII | [Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva](./manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) | Examinar la IA como bifurcación entre captura aumentada y comprensión aumentada bajo dirección humana, memoria, fuentes, contraste y trazabilidad | [Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50) |
+
+* [Anuncio de la décima oleada](./anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md)
+
 El Manifiesto III mantiene su propia [Síntesis Abierta · Issue #3](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3).
 
 ```text
@@ -165,6 +187,11 @@ I · NEO0™
 → XXXV · CONTRA LA RIDICULEZ MEDIÁTICA Y LA ECONOMÍA DEL CONFLICTO
 → XXXVI · CORONA, ÁGUILA Y CUSTODIA DE LA EDAD DEL HOMBRE
 → XXXVII · NEOFRATERNIDAD™
+→ XXXVIII · PROTECCIÓN INTEGRAL DE LA INFANCIA
+→ XXXIX · AUTOCONCIENCIA DE LA NECESIDAD VITAL
+→ XL · NEOEGO Y HONOR RELACIONAL
+→ XLI · MARTILLO LIMITADO Y FUERZA PROTECTORA
+→ XLII · FIN DE LA ERA DEL HOMBRE MANIPULADO
 → I · RETORNO A ORIGEN Y NUEVO CICLO
 ```
 
@@ -695,6 +722,28 @@ The manifestos are not accessory documents, auxiliary summaries or isolated slog
 **Genealogical antecedent of XXXVI:** [Crown, Eagle and Innova_N as a neodialectical tool](./propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md).  
 **Linked annex to XXXV:** [Responsibility of Power Nodes and Civilisational Duty of Examination](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md).
 
+## Eighth wave · Childhood, education and civilisational transmission · XXXVIII
+
+| No. | Manifesto | Function | Open Synthesis |
+|---:|---|---|---|
+| XXXVIII | [Integral Protection of Childhood™](./manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) | Protect material security, education, age-differentiated development, privacy and attention against commercial capture and systemic abandonment | [Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45) |
+
+## Ninth wave · Self-awareness, respect and civilisational defence · XXXIX–XLI
+
+| No. | Manifesto | Function | Open Synthesis |
+|---:|---|---|---|
+| XXXIX | [Self-Awareness of Neodialectical Vital Need™](./manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md) | Memory, relation, contrast, traceability and correction as civilisational infrastructure | [Issue #47](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/47) |
+| XL | [Neodialectical Respect, Neoego and Relational Honour™](./manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md) | Preserve boundaries, reciprocity and genealogy without turning excellence into capture | [Issue #48](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/48) |
+| XLI | [Limited Hammer, Talion and Protective Force™](./manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md) | Govern defence through necessity, proportionality, distinction, responsibility and cessation | [Issue #49](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/49) |
+
+## Tenth wave · End of the Manipulated Human Era™ · XLII
+
+| No. | Manifesto | Function | Open Synthesis |
+|---:|---|---|---|
+| XLII | [End of the Manipulated Human Era™ · AI, Awakening and Cognitive Sovereignty](./manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) | Examine AI as a bifurcation between augmented capture and augmented understanding under human direction, memory, sources, contrast and traceability | [Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50) |
+
+* [Tenth-wave announcement](./anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md)
+
 Manifesto III maintains its own [Open Synthesis · Issue #3](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3).
 
 ```text
@@ -727,6 +776,11 @@ I · NEO0™
 → XXXV · AGAINST MEDIA ABSURDITY AND THE CONFLICT ECONOMY
 → XXXVI · CROWN, EAGLE AND CUSTODIANSHIP OF THE AGE OF MAN
 → XXXVII · NEOFRATERNITY™
+→ XXXVIII · INTEGRAL PROTECTION OF CHILDHOOD
+→ XXXIX · SELF-AWARENESS OF VITAL NEED
+→ XL · NEOEGO AND RELATIONAL HONOUR
+→ XLI · LIMITED HAMMER AND PROTECTIVE FORCE
+→ XLII · END OF THE MANIPULATED HUMAN ERA
 → I · RETURN TO ORIGIN AND NEW CYCLE
 ```
 

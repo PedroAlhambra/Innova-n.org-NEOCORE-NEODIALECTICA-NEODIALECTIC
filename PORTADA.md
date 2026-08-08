@@ -106,7 +106,7 @@ Su lenguaje debe ser solemne porque su objeto no es menor: reconstruir la relaci
 
 ## Estado de los manifiestos
 
-La colección pública contiene actualmente **treinta y ocho manifiestos bilingües**:
+La colección pública contiene actualmente **cuarenta y dos manifiestos bilingües**:
 
 * **Primera oleada · I–XII:** constitución fundacional del marco.
 * **Segunda oleada · XIII–XIX:** despliegue arquetípico, humano, ecológico, sintético y memorial.
@@ -116,6 +116,8 @@ La colección pública contiene actualmente **treinta y ocho manifiestos biling�
 * **Sexta oleada · XXXVI:** custodia civilizatoria, continuidad simbólica y transformación responsable de la memoria heredada.
 * **Séptima oleada · XXXVII:** Neofraternidad™, autonomía relacional, actualización mutua y construcción de NeoNosotros™.
 * **Octava oleada · XXXVIII:** Protección Integral de la Infancia™, educación, soberanía digital y transmisión civilizatoria.
+* **Novena oleada · XXXIX–XLI:** autoconciencia de necesidad vital, Neoego™, Honor Relacional™ y fuerza protectora limitada.
+* **Décima oleada · XLII:** Fin de la Era del Hombre Manipulado™, IA, despertar crítico y soberanía cognitiva.
 
 ### Segunda oleada
 
@@ -195,6 +197,19 @@ PULIDO DE LA PIEDRA™
 * [MAXPROC · Protección Integral de la Infancia™](./analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
 * [Anuncio de la octava oleada](./anuncios/2026-08-07_OCTAVA_OLEADA_PROTECCION_INTEGRAL_INFANCIA_ES_EN.md)
 * [Síntesis Abierta XXXVIII · Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45)
+
+### Novena oleada · Autoconciencia, respeto y defensa civilizatoria
+
+* [XXXIX · Autoconciencia de la Necesidad Vital Neodialéctica™](./manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md)
+* [XL · Respeto Neodialéctico, Neoego y Honor Relacional™](./manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md)
+* [XLI · Martillo Limitado, Talión y Fuerza Protectora™](./manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md)
+* [Síntesis Abierta XXXIX–XLI · Issues #47–#49](./manifiestos/README.md#novena-oleada--autoconciencia-respeto-y-defensa-civilizatoria)
+
+### Décima oleada · Fin de la Era del Hombre Manipulado™
+
+* [XLII · IA, Despertar y Soberanía Cognitiva](./manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
+* [Anuncio de la décima oleada](./anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md)
+* [Síntesis Abierta XLII · Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50)
 
 ### Deltas transversales recientes
 
@@ -285,7 +300,7 @@ Their language must be solemn because their object is not minor: rebuilding the 
 
 ## Manifesto status
 
-The public collection currently contains **thirty-eight bilingual manifestos**:
+The public collection currently contains **forty-two bilingual manifestos**:
 
 * **First wave · I–XII:** foundational constitution of the framework.
 * **Second wave · XIII–XIX:** archetypal, human, ecological, synthetic and memorial deployment.
@@ -295,6 +310,8 @@ The public collection currently contains **thirty-eight bilingual manifestos**:
 * **Sixth wave · XXXVI:** civilisational custodianship, symbolic continuity and responsible transformation of inherited memory.
 * **Seventh wave · XXXVII:** Neofraternity™, relational autonomy, mutual updating and construction of NeoNosotros™.
 * **Eighth wave · XXXVIII:** Integral Protection of Childhood™, education, digital sovereignty and civilisational transmission.
+* **Ninth wave · XXXIX–XLI:** self-awareness of vital need, Neoego™, Relational Honour™ and limited protective force.
+* **Tenth wave · XLII:** End of the Manipulated Human Era™, AI, critical awakening and cognitive sovereignty.
 
 ### Second wave
 
@@ -374,6 +391,18 @@ POLISHING OF THE STONE™
 * [MAXPROC · Integral Protection of Childhood™](./analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
 * [Eighth-wave announcement](./anuncios/2026-08-07_OCTAVA_OLEADA_PROTECCION_INTEGRAL_INFANCIA_ES_EN.md)
 * [Open Synthesis XXXVIII · Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45)
+
+### Ninth wave · Self-awareness, respect and civilisational defence
+
+* [XXXIX · Self-Awareness of Neodialectical Vital Need™](./manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md)
+* [XL · Neodialectical Respect, Neoego and Relational Honour™](./manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md)
+* [XLI · Limited Hammer, Talion and Protective Force™](./manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md)
+
+### Tenth wave · End of the Manipulated Human Era™
+
+* [XLII · AI, Awakening and Cognitive Sovereignty](./manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
+* [Tenth-wave announcement](./anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md)
+* [Open Synthesis XLII · Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50)
 
 ### Recent transverse deltas
 
