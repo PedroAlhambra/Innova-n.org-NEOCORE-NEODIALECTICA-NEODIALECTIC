@@ -1,9 +1,9 @@
-# Auditoría de One-Shots GitHub Actions · carreras, no-op y estado final
-# GitHub Actions One-Shot Audit · races, no-op failures and final state
+# Auditoría de One-Shots GitHub Actions · carreras, non-fast-forward, no-op y estado final
+# GitHub Actions One-Shot Audit · races, non-fast-forward, no-op and final state
 
 **Fecha / Date:** 2026-08-08  
 **Repositorio / Repository:** `PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC`  
-**Estado / Status:** fallos históricos explicados · sincronización posterior completada · one-shots obsoletos retirados / historical failures explained · later synchronization completed · obsolete one-shots removed
+**Estado / Status:** causa de fallo confirmada en logs · sincronización posterior completada · one-shots obsoletos retirados / failure cause confirmed in logs · later synchronization completed · obsolete one-shots removed
 
 ---
 
@@ -19,9 +19,45 @@ El correo recibió múltiples notificaciones de GitHub Actions con estados `fail
 - `one-shot-repair-spanish-index-xlix`;
 - y one-shots anteriores de postcheck/sincronización.
 
-La acumulación visual de avisos podía sugerir que el estado actual del repositorio seguía roto. La lectura de commits demuestra que no es esa la interpretación correcta.
+La acumulación visual de avisos podía sugerir que el estado actual del repositorio seguía roto. La revisión de commits y, después, de los **logs reales de ejecución** demuestra que no es esa la interpretación correcta.
 
-## 2. Causa principal detectada
+## 2. Fallo confirmado en `one-shot-readmes-v4`
+
+Se abrió la ejecución indicada por el correo de GitHub:
+
+- **Workflow run:** `31258964815`
+- **Job:** `93106666045` · `homogenize`
+- **Commit de origen:** `f617f2f6f6f8bbdb7f8c499bd60e9cfd12cb652e`
+
+El job muestra:
+
+```text
+checkout
+→ SUCCESS
+
+Homogenize and validate
+→ SUCCESS
+→ 13 READMEs modificados
+→ POSTCHECK OK: 50/50 manifiestos enlazados
+
+Commit changes
+→ COMMIT LOCAL CREADO: 9ca9f44
+→ PUSH RECHAZADO: non-fast-forward
+
+Cleanup one-shots
+→ SKIPPED por el fallo anterior
+```
+
+La línea material del log es:
+
+```text
+! [rejected] main -> main (non-fast-forward)
+Updates were rejected because the tip of your current branch is behind its remote counterpart.
+```
+
+Por tanto, para esta ejecución concreta la causa del `failure` **no fue un error del script documental ni un postcheck fallido**. Fue una **carrera de escritura**: mientras este runner trabajaba sobre `f617f2f`, la rama `main` avanzó por otra operación y el `git push` sin `pull --rebase` previo fue rechazado.
+
+## 3. Diseño que permitió la carrera
 
 El commit `f617f2f6f6f8bbdb7f8c499bd60e9cfd12cb652e` registró `one-shot-readmes-v4` con:
 
@@ -29,41 +65,53 @@ El commit `f617f2f6f6f8bbdb7f8c499bd60e9cfd12cb652e` registró `one-shot-readmes
 on: [push]
 ```
 
-El mismo workflow:
+El workflow:
 
-1. ejecutaba un script de homogeneización;
+1. ejecutaba el script de homogeneización;
 2. hacía `git add -A`;
-3. ejecutaba un `git commit` sin comprobar primero si existían cambios;
-4. hacía `git push`;
-5. y después eliminaba varios workflows one-shot y volvía a hacer push.
+3. creaba commit;
+4. hacía `git push` **sin integrar primero cambios remotos concurrentes**;
+5. y, sólo después, pretendía eliminar varios one-shots y volver a hacer push.
 
-Ese diseño genera dos riesgos combinados.
-
-### A. Fallo por no-op
-
-Si otro workflow paralelo ya aplicó los mismos cambios, `git commit` encuentra el árbol limpio y devuelve código de salida distinto de cero.
+Con varios one-shots activos y pushes sucesivos, el patrón podía producir runners trabajando sobre bases distintas.
 
 ```text
-MISMA TAREA EN PARALELO
-→ PRIMER RUN HACE EL CAMBIO
-→ SEGUNDO RUN YA NO TIENE DELTA
-→ git commit SIN GUARDIA
-→ FAILURE AUNQUE EL ESTADO DOCUMENTAL SEA CORRECTO
+RUN A Y RUN B PARTEN DE ESTADOS PRÓXIMOS
+→ AMBOS GENERAN DELTA
+→ A PUBLICA PRIMERO
+→ main AVANZA
+→ B INTENTA PUSH SOBRE BASE ANTIGUA
+→ NON-FAST-FORWARD
+→ FAILURE
 ```
 
-### B. Carrera por múltiples pushes
+## 4. Riesgo secundario de no-op
 
-Un workflow activado con `on: [push]` hace nuevos pushes al:
+El workflow también contenía un `git commit` sin comprobar si existían cambios staged.
 
-- publicar la corrección;
-- eliminar one-shots;
-- o actualizar ficheros relacionados.
+Eso no fue la causa del run `31258964815`, porque en ese run sí se creó el commit local `9ca9f44`.
 
-Esos pushes pueden activar otros workflows que todavía existían en el commit de origen o generar ejecuciones que se resuelven cuando el workflow ya ha sido eliminado. Esto explica parte de los avisos `No jobs were run` y de la repetición de notificaciones.
+Sin embargo, era un riesgo adicional: si otro runner hubiera aplicado antes exactamente el mismo delta, el script podía terminar correctamente pero `git commit` fallar por árbol limpio.
 
-## 3. Evidencia de corrección posterior
+Por tanto se distinguen:
 
-Los fallos de notificación no representan el último estado documental.
+```text
+CAUSA CONFIRMADA DEL RUN ANALIZADO
+→ carrera + push non-fast-forward
+
+RIESGO DE DISEÑO ADICIONAL
+→ commit no-op no protegido
+```
+
+## 5. Por qué aparecen también `No jobs were run`
+
+Los workflows temporales se creaban, ejecutaban, modificaban y eliminaban mediante nuevos pushes. Algunas notificaciones corresponden a eventos generados cuando el archivo del workflow ya había cambiado o desaparecido, o cuando sus condiciones ya no permitían ejecutar jobs.
+
+Ese ruido de ejecución es coherente con una arquitectura de múltiples one-shots efímeros encadenados por pushes. No constituye por sí mismo evidencia de que el contenido final quedara sin sincronizar.
+
+## 6. Evidencia de corrección posterior
+
+Los avisos rojos no representan el último estado documental.
 
 Posteriormente existen commits de resultado correcto:
 
@@ -75,11 +123,20 @@ Posteriormente existen commits de resultado correcto:
 
 La búsqueda actual de código por `name: one-shot` no devuelve workflows activos y la ruta `.github/workflows/one-shot-readmes-v4.yml` devuelve `404`, coherente con su eliminación posterior.
 
-## 4. Dictamen
+## 7. Dictamen
 
 ```text
 NOTIFICACIONES DE FAILURE
-→ reales como ejecuciones históricas
+→ ejecuciones históricas realmente fallidas
+
+SCRIPT DE HOMOGENEIZACIÓN DEL RUN 31258964815
+→ correcto
+
+POSTCHECK DEL MISMO RUN
+→ correcto: 50/50
+
+CAUSA DEL FAILURE
+→ push non-fast-forward por carrera concurrente
 
 ESTADO DOCUMENTAL FINAL DE ESAS OPERACIONES
 → corregido posteriormente
@@ -89,20 +146,25 @@ ONE-SHOTS OBSOLETOS
 
 FALLO ACTUAL PERSISTENTE DEMOSTRADO
 → no detectado en esta revisión
-
-CAUSA SISTÉMICA PRINCIPAL
-→ workflows one-shot concurrentes + trigger demasiado amplio + commit no-op no protegido
 ```
 
-Por tanto, no debe repararse otra vez el contenido simplemente porque Gmail conserve avisos rojos de ejecuciones anteriores.
+No debe repararse otra vez el contenido simplemente porque Gmail conserve avisos rojos de ejecuciones anteriores.
 
-## 5. Norma para futuros one-shots
+## 8. Norma para futuros one-shots
 
 Los próximos one-shots deberán cumplir como mínimo:
 
 1. **trigger limitado al propio archivo**, no `on: [push]` global;
 2. **idempotencia**: ejecutar dos veces debe producir el mismo estado;
-3. **commit protegido**:
+3. **concurrency group** para impedir dos escritores simultáneos de la misma familia;
+4. **actualización de rama antes de publicar**;
+5. **commit protegido**;
+6. una única implementación activa por tarea, evitando `v2`, `v3`, `v4` concurrentes;
+7. cleanup sólo después de postcheck correcto y push confirmado;
+8. validación del estado final, no interpretación del color de una ejecución aislada;
+9. cuando el conector GitHub permita efectuar la modificación directamente con trazabilidad suficiente, preferir la escritura directa y reservar Actions para transformaciones realmente masivas o reproducibles.
+
+Patrón mínimo recomendado:
 
 ```bash
 git add -A
@@ -113,13 +175,15 @@ if ! git diff --cached --quiet; then
 fi
 ```
 
-4. **concurrency group** para impedir dos escritores simultáneos sobre la misma operación;
-5. una única implementación activa por tarea, evitando `v2`, `v3`, `v4` concurrentes;
-6. cleanup sólo después de postcheck correcto;
-7. validación del estado final, no interpretación del color de una ejecución aislada;
-8. cuando el conector GitHub permita efectuar la modificación directamente con trazabilidad suficiente, preferir la escritura directa y reservar Actions para transformaciones realmente masivas o reproducibles.
+Y a nivel de workflow:
 
-## 6. Patrón recomendado
+```yaml
+concurrency:
+  group: one-shot-<operacion>
+  cancel-in-progress: false
+```
+
+## 9. Patrón recomendado
 
 ```text
 CREAR ONE-SHOT ÚNICO
@@ -128,14 +192,14 @@ CREAR ONE-SHOT ÚNICO
 → TRANSFORMACIÓN IDEMPOTENTE
 → VALIDACIÓN
 → COMMIT SÓLO SI HAY DELTA
-→ REBASE
+→ PULL --REBASE
 → PUSH
 → POSTCHECK
 → RETIRADA DEL ONE-SHOT
 → NO NUEVAS EJECUCIONES EN CASCADA
 ```
 
-## 7. Relación con la Auditoría Conjunta Perpetua™
+## 10. Relación con la Auditoría Conjunta Perpetua™
 
 Este incidente es un ejemplo útil de la diferencia entre:
 
@@ -155,20 +219,46 @@ El sistema debe conservar el error histórico porque informa sobre fragilidad de
 
 Gmail received multiple GitHub Actions notifications marked `failed` or `No jobs were run` for one-shot workflows including `one-shot-readmes-v3`, `one-shot-readmes-v4`, `one-shot-homogenize-all-readmes-manifestos`, `one-shot-repair-spanish-index-xlix` and earlier postcheck/synchronisation one-shots.
 
-The volume of red notifications could falsely suggest that the repository remained broken.
+The volume of red notifications could falsely suggest that the repository remained broken. Commit inspection followed by direct workflow-log inspection shows otherwise.
 
-## 2. Main cause found
+## 2. Confirmed failure in `one-shot-readmes-v4`
 
-Commit `f617f2f6f6f8bbdb7f8c499bd60e9cfd12cb652e` registered `one-shot-readmes-v4` with a broad `on: [push]` trigger. The workflow ran a homogenisation script, executed an unguarded `git commit`, pushed, then removed several one-shot workflows and pushed again.
+The GitHub notification led to:
 
-This creates two coupled failure modes:
+- **Workflow run:** `31258964815`
+- **Job:** `93106666045` · `homogenize`
+- **Source commit:** `f617f2f6f6f8bbdb7f8c499bd60e9cfd12cb652e`
 
-- **no-op commit failure:** another concurrent run may already have produced the same state, causing `git commit` to exit non-zero on a clean tree;
-- **push-trigger race:** correction and cleanup pushes can trigger sibling workflows or leave queued events referring to workflows that have already been removed.
+The actual job log shows that checkout succeeded, `Homogenize and validate` succeeded, all 13 target READMEs were changed, and the postcheck reported `50/50 manifestos linked`.
 
-## 3. Evidence of later correction
+The workflow then created local commit `9ca9f44` but its push was rejected:
 
-The notification failures are not the final documentary state. Later successful commits include:
+```text
+! [rejected] main -> main (non-fast-forward)
+Updates were rejected because the tip of your current branch is behind its remote counterpart.
+```
+
+The confirmed cause of this run failure is therefore a **concurrent-write race**, not a failed documentary transformation.
+
+## 3. Design allowing the race
+
+The workflow used a broad `on: [push]` trigger, committed changes and attempted to push without first rebasing against concurrent remote updates. It then intended to remove several one-shot workflows with another push.
+
+With several temporary workflows active at once, two runners could produce valid local deltas from nearby but different repository states; the first push advances `main`, and the second is rejected as non-fast-forward.
+
+## 4. Secondary no-op risk
+
+The workflow also used an unguarded `git commit`. This was **not** the cause of run `31258964815`, because that run successfully created local commit `9ca9f44`.
+
+It remained a separate design risk: another runner applying the identical delta first could leave a clean tree and make the later unguarded commit exit non-zero.
+
+## 5. `No jobs were run` notifications
+
+Temporary workflows were created, triggered, changed and deleted through additional pushes. Some queued events therefore referred to workflows whose files or conditions had already changed. This is consistent with the observed notification noise and does not by itself establish an incorrect final repository state.
+
+## 6. Evidence of later correction
+
+Later successful commits include:
 
 - `ba0fcece6a5ca478e3d2240bb5805624075779db` · complete I–L README homogenisation;
 - `0e8426fff85d90474c7c7f4a1340822b645e9436` · removal of completed homogenisation one-shots;
@@ -178,11 +268,20 @@ The notification failures are not the final documentary state. Later successful 
 
 A current code search for `name: one-shot` returns no active workflow and `.github/workflows/one-shot-readmes-v4.yml` now returns `404`, consistent with cleanup.
 
-## 4. Finding
+## 7. Finding
 
 ```text
 FAILED NOTIFICATIONS
-→ genuine historical run failures
+→ genuine historical failed runs
+
+TRANSFORMATION SCRIPT IN RUN 31258964815
+→ successful
+
+POSTCHECK IN THAT RUN
+→ successful: 50/50
+
+FAILURE CAUSE
+→ non-fast-forward push caused by concurrent write race
 
 FINAL DOCUMENTARY STATE OF THOSE OPERATIONS
 → corrected later
@@ -192,18 +291,15 @@ OBSOLETE ONE-SHOTS
 
 DEMONSTRATED CURRENT PERSISTENT FAILURE
 → none detected in this review
-
-PRIMARY SYSTEMIC CAUSE
-→ concurrent one-shots + overbroad push trigger + unguarded no-op commit
 ```
 
-## 5. Rule for future one-shots
+## 8. Rule for future one-shots
 
-Future one-shots should use a path-limited trigger, idempotent transformation, guarded commits, a concurrency group, only one active implementation per task, cleanup after successful postcheck and validation of final repository state rather than the colour of an isolated historical run.
+Future one-shots should use a path-limited trigger, idempotent transformation, a concurrency group, rebasing before push, guarded commits, only one active implementation per task, cleanup after successful postcheck and confirmed push, and validation of final repository state rather than the colour of an isolated historical run.
 
 Where the GitHub connector can perform the required write directly with sufficient traceability, direct writes should be preferred over temporary Actions workflows.
 
-## 6. Recommended pattern
+## 9. Recommended pattern
 
 ```text
 CREATE ONE UNIQUE ONE-SHOT
@@ -212,14 +308,14 @@ CREATE ONE UNIQUE ONE-SHOT
 → IDEMPOTENT TRANSFORMATION
 → VALIDATION
 → COMMIT ONLY IF DELTA EXISTS
-→ REBASE
+→ PULL --REBASE
 → PUSH
 → POSTCHECK
 → REMOVE ONE-SHOT
 → NO CASCADING RUNS
 ```
 
-## 7. Relation to Perpetual Joint Audit™
+## 10. Relation to Perpetual Joint Audit™
 
 This incident demonstrates the distinction:
 
