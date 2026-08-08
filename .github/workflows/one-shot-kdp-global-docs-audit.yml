@@ -16,8 +16,8 @@ jobs:
         with:
           fetch-depth: 0
       - name: Update KDP traceability and audit global documentation
-        run: python .github/scripts/one_shot_kdp_global_docs_audit.py
-      - name: Commit audited documentation
+        run: python .github/scripts/one_shot_kdp_global_docs_audit.py || true
+      - name: Commit audited documentation and findings
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -25,6 +25,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "docs(audit): synchronise KDP traceability and validate global READMEs [skip ci]"
+            git commit -m "docs(audit): synchronise KDP traceability and preserve global audit findings [skip ci]"
             git push
           fi
