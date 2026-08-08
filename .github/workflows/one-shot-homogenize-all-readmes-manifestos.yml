@@ -16,61 +16,89 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Homogenize every README and LEEME
+      - name: Repair canonical index and homogenize every README/LEEME
         shell: python
         run: |
           from pathlib import Path
-          import os, re, sys
+          import os,re,sys
 
-          idx_path=Path('manifiestos/README.md')
-          index=idx_path.read_text(encoding='utf-8')
-          if '# EN · English' not in index:
-              raise SystemExit('canonical manifesto index lacks EN section')
-          es,en=index.split('# EN · English',1)
+          idx=Path('manifiestos/README.md')
+          s=idx.read_text(encoding='utf-8')
+          if '# EN · English' not in s: raise SystemExit('missing EN section in canonical index')
+          es,en=s.split('# EN · English',1)
+
+          # Repair known gap: XLIX existed in EN/current-state but was missing from the ES table.
+          xlix='./49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md'
+          if xlix not in es:
+              marker='## Relación entre principios y trabajo aplicado'
+              block='''## Decimosexta oleada · Interoperabilidad cultural · XLIX
+
+| Nº | Manifiesto | Función | Síntesis Abierta |
+|---:|---|---|---|
+| XLIX | [La Neodialéctica como Punto de Encuentro entre Culturas™](./49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md) | Unidad sin uniformidad, interoperabilidad cultural, traducción de sentido y cooperación sin desaparición de la singularidad | [#57](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/57) |
+
+'''
+              if marker not in es: raise SystemExit('ES insertion marker missing')
+              es=es.replace(marker,block+marker,1)
+
+          # Repair stale EN architecture summary: tables already include XLIX and L, summary stopped at XLVIII.
+          en=en.replace('## Current architecture · 15 waves','## Current architecture · 17 waves')
+          if '16. **XLIX · Meeting Point between Cultures™:' not in en:
+              needle='15. **XLVIII · The Synthesis Sees Everything™:** distributed observation, Universal Petri Dish™, powers of ten, micro–macro scales and Fractal Time Machine™ as a model of evolutionary memory of the joint organism.\n'
+              add='16. **XLIX · Meeting Point between Cultures™:** unity without uniformity, cultural interoperability, translation of meaning and cooperation without erasing singularity.\n17. **L · Shared, Not Singular Intelligence™:** cognitive interoperability, plurality of models, anti-dogmatic training and AI participation in Open Synthesis.\n'
+              if needle not in en: raise SystemExit('EN architecture insertion marker missing')
+              en=en.replace(needle,needle+add,1)
+
+          s=es+'# EN · English'+en
+          idx.write_text(s,encoding='utf-8')
+
+          # Parse 50 canonical entries from EN tables; derive ES title from each manifesto H1.
+          en=s.split('# EN · English',1)[1]
           row_re=re.compile(r'^\|\s*([IVXLCDM]+)\s*\|\s*\[([^\]]+)\]\((\.\/[^)]+\.md)\)\s*\|',re.M)
+          rows=[]; seen=set()
+          for roman,en_title,rel in row_re.findall(en):
+              if roman not in seen:
+                  rows.append((roman,en_title,rel)); seen.add(roman)
+          if len(rows)!=50: raise SystemExit(f'EN canonical table has {len(rows)} unique manifestos, expected 50')
 
-          def unique(rows):
-              out=[]; seen=set()
-              for r,t,p in rows:
-                  if r not in seen:
-                      out.append((r,t,p)); seen.add(r)
-              return out
+          entries=[]
+          for roman,en_title,rel in rows:
+              mf=Path('manifiestos')/rel[2:]
+              if not mf.exists(): raise SystemExit(f'missing manifesto target {roman}: {mf}')
+              first=mf.read_text(encoding='utf-8').splitlines()[0].strip()
+              prefix=f'# {roman} · '
+              es_title=first[len(prefix):] if first.startswith(prefix) else first.lstrip('# ').strip()
+              entries.append((roman,es_title,en_title,mf))
 
-          es_rows=unique(row_re.findall(es))
-          en_rows=unique(row_re.findall(en))
-          en_map={r:(t,p) for r,t,p in en_rows}
-          if len(es_rows)!=50 or len(en_map)!=50:
-              raise SystemExit(f'canonical index parse mismatch ES={len(es_rows)} EN={len(en_map)}')
-          for r,t,p in es_rows:
-              target=Path('manifiestos')/p[2:]
-              if not target.exists(): raise SystemExit(f'missing manifesto {r}: {target}')
-              if r not in en_map: raise SystemExit(f'missing EN manifesto {r}')
+          # Verify ES canonical tables now also expose all 50.
+          es_now=idx.read_text(encoding='utf-8').split('# EN · English',1)[0]
+          es_rows=[]; es_seen=set()
+          for roman,_,rel in row_re.findall(es_now):
+              if roman not in es_seen: es_rows.append((roman,rel)); es_seen.add(roman)
+          if len(es_rows)!=50: raise SystemExit(f'ES canonical table has {len(es_rows)} unique manifestos after repair, expected 50')
 
-          start='<!-- NEO_ALL_MANIFESTOS_START -->'
-          end='<!-- NEO_ALL_MANIFESTOS_END -->'
-          block_re=re.compile(re.escape(start)+r'.*?'+re.escape(end),re.S)
+          start='<!-- NEO_ALL_MANIFESTOS_START -->'; end='<!-- NEO_ALL_MANIFESTOS_END -->'
+          managed_re=re.compile(re.escape(start)+r'.*?'+re.escape(end),re.S)
           readmes=sorted({*Path('.').rglob('README.md'),*Path('.').rglob('LEEME.md')})
           readmes=[p for p in readmes if not any(x in {'.git','node_modules','dist','build','.astro'} for x in p.parts)]
           changed=[]
 
           for p in readmes:
-              idx_rel=os.path.relpath(Path('manifiestos/README.md'),p.parent).replace(os.sep,'/')
-              lines=[start,'','## Red completa de manifiestos / Complete manifesto network','',
-                     '**Estado canónico / Canonical state:** **50 manifiestos bilingües · I–L · 17 oleadas / 50 bilingual manifestos · I–L · 17 waves**  ',
-                     f'**Índice canónico / Canonical index:** [{idx_rel}]({idx_rel})','',
-                     '<details>','<summary><strong>I–L · 50 manifiestos / 50 manifestos</strong></summary>','']
-              for roman,es_title,rel in es_rows:
-                  en_title=en_map[roman][0]
-                  target=Path('manifiestos')/rel[2:]
-                  target_rel=os.path.relpath(target,p.parent).replace(os.sep,'/')
-                  lines.append(f'- **{roman}** · [{es_title} / {en_title}]({target_rel})')
-              lines += ['', '</details>', '',
-                        '> **Regla de lectura / Reading rule:** ningún manifiesto equivale por sí solo al marco completo. Esta navegación común mantiene accesibles los 50 manifiestos desde cualquier README sin sustituir el contexto específico de cada nodo. / No single manifesto equals the complete framework. This common navigation keeps all 50 manifestos reachable from every README without replacing each node’s specific context.',
-                        '',end]
-              block='\n'.join(lines)
+              idx_rel=os.path.relpath(idx,p.parent).replace(os.sep,'/')
+              out=[start,'','## Red completa de manifiestos / Complete manifesto network','',
+                   '**Estado canónico / Canonical state:** **50 manifiestos bilingües · I–L · 17 oleadas / 50 bilingual manifestos · I–L · 17 waves**  ',
+                   f'**Índice canónico / Canonical index:** [{idx_rel}]({idx_rel})','',
+                   '<details>','<summary><strong>I–L · 50 manifiestos / 50 manifestos</strong></summary>','']
+              for roman,es_title,en_title,mf in entries:
+                  rel=os.path.relpath(mf,p.parent).replace(os.sep,'/')
+                  out.append(f'- **{roman}** · [{es_title} / {en_title}]({rel})')
+              out += ['', '</details>', '',
+                      '> **Regla de lectura / Reading rule:** ningún manifiesto equivale por sí solo al marco completo. Esta navegación común mantiene accesibles los 50 manifiestos desde cualquier README sin sustituir el contexto específico de cada nodo. / No single manifesto equals the complete framework. This common navigation keeps all 50 manifestos reachable from every README without replacing each node’s specific context.',
+                      '',end]
+              block='\n'.join(out)
               text=p.read_text(encoding='utf-8')
               if start in text and end in text:
-                  new=block_re.sub(block,text,count=1)
+                  new=managed_re.sub(block,text,count=1)
               else:
                   sep=text.find('\n---\n')
                   if sep!=-1 and sep<1800:
@@ -78,62 +106,60 @@ jobs:
                   else:
                       nl=text.find('\n'); pos=nl+1 if nl!=-1 else len(text)
                       new=text[:pos]+'\n'+block+'\n\n'+text[pos:]
-              repl={
+              replacements={
                 '49 manifiestos bilingües · I–XLIX · 16 oleadas':'50 manifiestos bilingües · I–L · 17 oleadas',
                 '49 bilingual manifestos · I–XLIX · 16 waves':'50 bilingual manifestos · I–L · 17 waves',
                 '50 manifiestos bilingües · I–L · dieciséis oleadas':'50 manifiestos bilingües · I–L · diecisiete oleadas',
-                '50 bilingual manifestos · I–L · sixteen waves':'50 bilingual manifestos · I–L · seventeen waves'}
-              for a,b in repl.items(): new=new.replace(a,b)
+                '50 bilingual manifestos · I–L · sixteen waves':'50 bilingual manifestos · I–L · seventeen waves',
+                'Current architecture · 15 waves':'Current architecture · 17 waves'}
+              for a,b in replacements.items(): new=new.replace(a,b)
               if new!=text:
                   p.write_text(new,encoding='utf-8'); changed.append(str(p))
 
           errors=[]
           for p in readmes:
-              text=p.read_text(encoding='utf-8')
-              if text.count(start)!=1 or text.count(end)!=1:
-                  errors.append(f'{p}: managed block count invalid'); continue
-              managed=block_re.search(text).group(0)
-              if '50 manifiestos bilingües · I–L · 17 oleadas' not in managed or '50 bilingual manifestos · I–L · 17 waves' not in managed:
-                  errors.append(f'{p}: state missing')
-              links=re.findall(r'\[[^\]]*\]\(([^)]+)\)',managed)
-              local=[x for x in links if not x.startswith(('http://','https://','mailto:','#'))]
-              if len(local)!=51: errors.append(f'{p}: expected 51 managed local links, got {len(local)}')
-              for target in local:
-                  base=target.split('#',1)[0]
-                  if base and not (p.parent/base).resolve().exists(): errors.append(f'{p}: broken managed link {target}')
-              for roman,_,_ in es_rows:
-                  if managed.count(f'- **{roman}** · ')!=1: errors.append(f'{p}: missing/duplicate {roman}')
-
-          stale=['I–XLIX · 49 manifiestos','I–XLIX · 49 bilingual','50 manifiestos bilingües · I–L · 16 oleadas','50 bilingual manifestos · I–L · 16 waves','dieciséis oleadas','sixteen waves']
-          for p in readmes:
               t=p.read_text(encoding='utf-8')
-              for s in stale:
-                  if s in t: errors.append(f'{p}: stale state remains: {s}')
+              if t.count(start)!=1 or t.count(end)!=1:
+                  errors.append(f'{p}: managed block count != 1'); continue
+              m=managed_re.search(t).group(0)
+              links=re.findall(r'\[[^\]]*\]\(([^)]+)\)',m)
+              local=[x for x in links if not x.startswith(('http://','https://','mailto:','#'))]
+              if len(local)!=51: errors.append(f'{p}: managed local links={len(local)}, expected 51')
+              for link in local:
+                  base=link.split('#',1)[0]
+                  if base and not (p.parent/base).resolve().exists(): errors.append(f'{p}: broken managed link {link}')
+              for roman,_,_,_ in entries:
+                  if m.count(f'- **{roman}** · ')!=1: errors.append(f'{p}: missing/duplicate {roman}')
+              if '50 manifiestos bilingües · I–L · 17 oleadas' not in m or '50 bilingual manifestos · I–L · 17 waves' not in m:
+                  errors.append(f'{p}: stale managed state')
+
+          # Canonical-index specific symmetry checks.
+          canon=idx.read_text(encoding='utf-8')
+          for token in ['## Arquitectura actual · 17 oleadas','## Current architecture · 17 waves','16. **XLIX','17. **L ·','## Decimosexta oleada','## Decimoséptima oleada','## Sixteenth wave','## Seventeenth wave']:
+              if token not in canon: errors.append(f'manifiestos/README.md missing {token}')
 
           print(f'READMES_TOTAL={len(readmes)}')
           print(f'READMES_CHANGED={len(changed)}')
           for p in changed: print('CHANGED',p)
           if errors:
               print('\n'.join('ERROR '+e for e in errors)); sys.exit(1)
-          print('VALIDATED: every README/LEEME exposes all 50 manifestos with valid local links')
+          print('VALIDATED: all README/LEEME surfaces expose I-L 50/50 with working relative links; canonical ES/EN index repaired to 17 waves.')
 
-      - name: Commit homogenized README surfaces
+      - name: Commit homogenized surfaces
         run: |
           if ! git diff --quiet; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
             git add -A
-            git commit -m 'docs: homogenize all READMEs with complete I-L manifesto network'
+            git commit -m 'docs: homogenize every README with complete I-L manifesto network'
             git push
           fi
 
-      - name: Self-remove workflow
+      - name: Self-remove workflows
         run: |
           git pull --rebase
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git rm .github/workflows/one-shot-homogenize-all-readmes-manifestos.yml
-          git commit -m 'chore: remove completed README manifesto homogenizer'
+          git rm -f .github/workflows/one-shot-homogenize-all-readmes-manifestos.yml .github/workflows/one-shot-repair-spanish-index-xlix.yml || true
+          git commit -m 'chore: remove completed README manifesto homogenizers' || true
           git push
-
-# trigger: 2026-08-08T14:57+02:00
