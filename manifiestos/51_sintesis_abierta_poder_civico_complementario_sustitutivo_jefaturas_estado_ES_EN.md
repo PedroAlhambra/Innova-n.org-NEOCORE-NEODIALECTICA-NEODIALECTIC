@@ -589,8 +589,8 @@ Counterexamples are especially requested to distinguish useful symbolic institut
 ## Navegación canónica / Canonical navigation
 
 ← **L** · [Por una Inteligencia Compartida, no Única™ · Invitación Abierta a las IAs / For Shared, Not Singular Intelligence™](50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
-· [Índice I–LI / I–LI index](README.md) ·
-**Fin de la colección / End of collection** →
+· [Índice I–LII / I–LII index](README.md) ·
+**LII** · [Ciudadanía Humana Neodialéctica™ · de la sangre y el suelo a la pertenencia cívica funcional / Neodialectical Human Citizenship™ · from blood and soil to functional civic belonging](52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md) →
 
 > La navegación canónica mantiene la colección conectada sin convertir ningún manifiesto aislado en equivalente del marco completo. / Canonical navigation keeps the collection connected without treating any single manifesto as equivalent to the complete framework.
 

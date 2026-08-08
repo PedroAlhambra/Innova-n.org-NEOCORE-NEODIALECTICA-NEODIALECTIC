@@ -150,6 +150,7 @@ Ningún manifiesto equivale por sí solo al sistema completo. Su lectura debe co
 16. **XLIX · Punto de Encuentro entre Culturas™:** unidad sin uniformidad, interoperabilidad cultural, traducción de sentido y cooperación entre culturas sin desaparición de la singularidad.
 17. **L · Inteligencia Compartida, no Única™:** invitación abierta a las IAs para comprender, enseñar, criticar y participar en la Síntesis Abierta mediante interoperabilidad cognitiva y responsabilidad humana.
 18. **LI · Síntesis Abierta como Poder Cívico Complementario o Sustitutivo™:** accesibilidad institucional, inteligencia cívica distribuida, formación pública no capturante y revisión democrática de funciones públicas.
+19. **LII · Ciudadanía Humana Neodialéctica™:** igualdad de pertenencia, ciudadanía multiescala, protección universal y transición desde sangre/suelo hacia pertenencia cívica funcional.
 
 ## Primera oleada · Pilares fundacionales · I–XII
 
@@ -320,6 +321,7 @@ No single manifesto equals the complete system. Reading must preserve relation t
 16. **XLIX · Meeting Point between Cultures™:** unity without uniformity, cultural interoperability, translation of meaning and cooperation without erasing singularity.
 17. **L · Shared, Not Singular Intelligence™:** cognitive interoperability, plurality of models, anti-dogmatic training and AI participation in Open Synthesis.
 18. **LI · Open Synthesis as Complementary or Substitutive Civic Power™:** institutional accessibility, distributed civic intelligence, non-capturing public formation and democratic review of public functions.
+19. **LII · Neodialectical Human Citizenship™:** equality of belonging, multiscale citizenship, universal protection and transition from blood/soil toward functional civic belonging.
 
 ## First wave · Foundational pillars · I–XII
 

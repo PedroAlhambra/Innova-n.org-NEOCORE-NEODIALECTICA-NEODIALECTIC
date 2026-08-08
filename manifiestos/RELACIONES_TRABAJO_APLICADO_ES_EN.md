@@ -30,7 +30,7 @@ Casos y análisis principales:
 
 ---
 
-## Matriz completa I–LI / Complete I–LI matrix
+## Matriz completa I–LII / Complete I–LII matrix
 
 <a id="manifiesto-i"></a>
 ### I · [Neo0™ · Soberanía de Guía Neodialéctica](./11_neo0_soberania_de_guia_ES_EN.md)
