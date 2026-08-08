@@ -117,7 +117,7 @@ La colección pública contiene actualmente **cuarenta y tres manifiestos biling
 * **Séptima oleada · XXXVII:** Neofraternidad™, autonomía relacional, actualización mutua y construcción de NeoNosotros™.
 * **Octava oleada · XXXVIII:** Protección Integral de la Infancia™, educación, soberanía digital y transmisión civilizatoria.
 * **Novena oleada · XXXIX–XLI:** autoconciencia de necesidad vital, Neoego™, Honor Relacional™ y fuerza protectora limitada.
-* **Décima oleada · XLII–XLIV:** Fin de la Era del Hombre Manipulado™, soberanía cognitiva e Inteligencia Humana Expandida™.
+* **Décima oleada · XLII–XLV:** Fin de la Era del Hombre Manipulado™, soberanía cognitiva e Inteligencia Humana Expandida™.
 
 ### Segunda oleada
 
@@ -210,6 +210,7 @@ PULIDO DE LA PIEDRA™
 * [XLII · IA, Despertar y Soberanía Cognitiva](./manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
 * [XLIII · Contra la Incomprensión Reductiva de la IA™ · Inteligencia Humana Expandida™](./manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
 * [XLIV · Neowar™ · Contra la Adicción a la Guerra y por la Justicia del Bien Común](./manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md)
+* [XLV · Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder](./manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
 * [Anuncio de la décima oleada](./anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md)
 * [Síntesis Abierta XLII · Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50)
 * [Síntesis Abierta XLIII · Issue #51](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/51)
@@ -221,7 +222,7 @@ PULIDO DE LA PIEDRA™
 * [XXVI · Perdón imposible y límite al autocastigo](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md)
 * [Anexo XXXV · Responsabilidad de los Nodos de Poder y Deber de Examen Civilizatorio](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)
 
-* [Índice completo I–XLIV](./manifiestos/README.md)
+* [Índice completo I–XLV](./manifiestos/README.md)
 * [Anuncio de la tercera oleada](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
 * [Anuncio de la cuarta oleada](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 
@@ -314,7 +315,7 @@ The public collection currently contains **forty-three bilingual manifestos**:
 * **Seventh wave · XXXVII:** Neofraternity™, relational autonomy, mutual updating and construction of NeoNosotros™.
 * **Eighth wave · XXXVIII:** Integral Protection of Childhood™, education, digital sovereignty and civilisational transmission.
 * **Ninth wave · XXXIX–XLI:** self-awareness of vital need, Neoego™, Relational Honour™ and limited protective force.
-* **Tenth wave · XLII–XLIV:** End of the Manipulated Human Era™, cognitive sovereignty and Human Expanded Intelligence™.
+* **Tenth wave · XLII–XLV:** End of the Manipulated Human Era™, cognitive sovereignty and Human Expanded Intelligence™.
 
 ### Second wave
 
@@ -416,7 +417,7 @@ POLISHING OF THE STONE™
 * [XXVI · Impossible forgiveness and the limit to self-punishment](./manifiestos/26_misericordia_universal_reciproca_ES_EN.md)
 * [XXXV Annex · Responsibility of Power Nodes and Civilisational Duty of Examination](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)
 
-* [Complete index I–XLIV](./manifiestos/README.md)
+* [Complete index I–XLV](./manifiestos/README.md)
 * [Third-wave announcement](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
 * [Fourth-wave announcement](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 

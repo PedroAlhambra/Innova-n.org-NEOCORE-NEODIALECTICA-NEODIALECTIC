@@ -9,11 +9,11 @@
 
 Este directorio reúne propuestas públicas abiertas a contraste, adhesión parcial, crítica, reformulación y mejora trazable.
 
-**Cobertura canónica actual:** los **44 manifiestos I–XLIV** disponen de una Síntesis Abierta específica. Los anexos y propuestas complementarias se indexan aparte para no confundirlos con la numeración canónica de manifiestos.
+**Cobertura canónica actual:** los **44 manifiestos I–XLV** disponen de una Síntesis Abierta específica. Los anexos y propuestas complementarias se indexan aparte para no confundirlos con la numeración canónica de manifiestos.
 
 ## Acceso general
 
-* [Índice completo de manifiestos I–XLIV](../../manifiestos/README.md)
+* [Índice completo de manifiestos I–XLV](../../manifiestos/README.md)
 * [Manifiesto III · Derecho Humano de Aporte](../../manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
 * [Protocolo operativo de aporte](./APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Plantilla para abrir un aporte](../../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
@@ -163,11 +163,11 @@ Las propuestas se originan en el marco creado por **Pedro Martínez Alhambra · 
 
 This directory gathers public proposals open to contrast, partial endorsement, criticism, reformulation and traceable improvement.
 
-**Current canonical coverage:** all **42 Manifestos I–XLIV** have a dedicated Open Synthesis. Annexes and complementary proposals are indexed separately so they are not confused with the canonical manifesto numbering.
+**Current canonical coverage:** all **42 Manifestos I–XLV** have a dedicated Open Synthesis. Annexes and complementary proposals are indexed separately so they are not confused with the canonical manifesto numbering.
 
 ## General access
 
-* [Complete manifesto index I–XLIV](../../manifiestos/README.md)
+* [Complete manifesto index I–XLV](../../manifiestos/README.md)
 * [Manifesto III · Human Right to Contribute](../../manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
 * [Operational contribution protocol](./APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Contribution Issue template](../../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
@@ -309,6 +309,13 @@ Every Open Synthesis published in ES/EN must contain **the same substantive info
 
 The proposals originate in the framework created by **Pedro Martínez Alhambra · Neo0™**. External contributions retain authorship, genealogy and status. Every contribution that produces real value should be able to receive recognition proportional to its function and effect.
 
+
+## XLV · Multidimensionalidad Neodialéctica™ / Neodialectical Multidimensionality™
+
+- [Síntesis Abierta XLV · Issue #53 / Open Synthesis XLV · Issue #53](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/53)
+- [Manifiesto / Manifesto](../../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
+- Ejes / Axes: multidimensionalidad, singularidad, ego, Problema del Mulo, soberanía distribuida, Anomalía Integrable™, denominaciones ™ y revisión multidisciplinar.
+
 <!-- NEO_CURRENT_NAV_START -->
 
 ---
@@ -317,8 +324,8 @@ The proposals originate in the framework created by **Pedro Martínez Alhambra �
 
 **Neodialectica Framework™ / Network · Innova_N · NEOCore™**
 
-- Colección pública actual: **44 manifiestos bilingües · I–XLIV · once oleadas** / Current public collection: **44 bilingual manifestos · I–XLIV · eleven waves**.
-- Último manifiesto / Latest manifesto: [XLIV · Neowar™ · Contra la Adicción a la Guerra y por la Justicia del Bien Común / Against War Addiction and for Common-Good Justice](../../manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md).
+- Colección pública actual: **45 manifiestos bilingües · I–XLV · doce oleadas** / Current public collection: **45 bilingual manifestos · I–XLV · twelve waves**.
+- Último manifiesto / Latest manifesto: [XLV · Multidimensionalidad Neodialéctica™ · Neodialectical Multidimensionality™](../../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md).
 - Índice completo / Complete index: [Manifiestos / Manifestos](../../manifiestos/README.md).
 - Contraste público / Public contrast: [Síntesis Abierta / Open Synthesis](./README.md).
 - Expansión y redundancia / Expansion and redundancy: [Protocolo de Proyección Distribuida Neodialéctica™](../../proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md).

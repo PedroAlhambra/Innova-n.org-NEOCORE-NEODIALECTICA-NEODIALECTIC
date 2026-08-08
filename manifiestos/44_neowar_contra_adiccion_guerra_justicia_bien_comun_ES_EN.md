@@ -360,7 +360,7 @@ Se solicitan aportes sobre:
 
 ## Navegación
 
-← [XLIII · Contra la Incomprensión Reductiva de la IA™](./43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md) · [Índice](./README.md) · [I · Neo0™ · Soberanía de Guía Neodialéctica](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XLIII · Contra la Incomprensión Reductiva de la IA™](./43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md) · [Índice](./README.md) · [XLV · Multidimensionalidad Neodialéctica™](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) →
 
 ---
 
@@ -647,7 +647,7 @@ Contributions are invited on effects of visual violence and war imaginaries with
 
 ## Navigation
 
-← [XLIII · Against the Reductive Misunderstanding of AI™](./43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md) · [Index](./README.md) · [I · Neo0™ · Neodialectical Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XLIII · Against the Reductive Misunderstanding of AI™](./43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md) · [Index](./README.md) · [XLV · Neodialectical Multidimensionality™](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) →
 
 ---
 

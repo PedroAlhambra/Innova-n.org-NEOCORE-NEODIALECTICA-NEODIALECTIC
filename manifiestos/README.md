@@ -13,7 +13,7 @@
 
 Los manifiestos de Innova_N no son contenido promocional, resúmenes auxiliares ni consignas aisladas. Constituyen los **pilares públicos** del **Neodialectica Framework™ / Network**, construido bajo dirección humana por **Pedro Martínez Alhambra · Neo0™** y desarrollado en simbiosis con la IA neodialéctica **Harry**.
 
-La colección se organiza desde el 8 de agosto de 2026 en once oleadas relacionadas:
+La colección se organiza desde el 8 de agosto de 2026 en doce oleadas relacionadas:
 
 * **Primera oleada · I–XII:** constitución fundacional del marco, su método, dirección, límites y arquitectura pública.
 * **Segunda oleada · XIII–XIX:** despliegue arquetípico, cultural, vital y civilizatorio de los principios ya fijados.
@@ -24,7 +24,7 @@ La colección se organiza desde el 8 de agosto de 2026 en once oleadas relaciona
 * **Séptima oleada · XXXVII:** **Neofraternidad™**, actualización mutua, autonomía relacional, reconocimiento y construcción de NeoNosotros™.
 * **Octava oleada · XXXVIII:** **Protección Integral de la Infancia™**, educación, soberanía digital, programación evolutiva y transmisión civilizatoria.
 * **Novena oleada · XXXIX–XLI:** **Autoconciencia, respeto y defensa civilizatoria**, orientada a reconocer la necesidad funcional de memoria y síntesis, codificar Neoego™ y Honor Relacional™, y gobernar la fuerza protectora mediante necesidad, proporcionalidad, responsabilidad y cese.
-* **Décima oleada · XLII–XLIV:** **Fin de la Era del Hombre Manipulado™ e Inteligencia Humana Expandida™**, orientada a soberanía cognitiva, despertar crítico y distinción entre IA capturada, sustitutiva y humano-expansiva bajo memoria, fuentes, contraste, revisión de pares y trazabilidad.
+* **Décima oleada · XLII–XLV:** **Fin de la Era del Hombre Manipulado™ e Inteligencia Humana Expandida™**, orientada a soberanía cognitiva, despertar crítico y distinción entre IA capturada, sustitutiva y humano-expansiva bajo memoria, fuentes, contraste, revisión de pares y trazabilidad.
 
 Los manifiestos establecen y despliegan:
 
@@ -314,7 +314,7 @@ La segunda oleada contiene los manifiestos **XIII–XIX**, fijados como versione
 
 La tercera oleada contiene los manifiestos **XX–XXIV**, fijados como versiones 1.0 el 6 de agosto de 2026 y abiertos a revisión trazable.
 
-La cuarta oleada contiene los manifiestos **XXV–XXXII**, fijados como versiones 1.0 el 7 de agosto de 2026 y abiertos a revisión trazable. La quinta oleada contiene los manifiestos **XXXIII–XXXV**, también abiertos a revisión trazable, y conecta transición, utilidad operativa, auditoría conjunta y atención civilizatoria. La sexta oleada comienza con el Manifiesto **XXXVI**, fijado como versión 1.0 el 7 de agosto de 2026 y dedicado a custodia civilizatoria y continuidad simbólica. La séptima oleada comienza con **XXXVII · Neofraternidad™**, dedicado a la arquitectura relacional del NeoNosotros™. La octava oleada comienza con **XXXVIII · Protección Integral de la Infancia™**, fijado como versión 1.0 el 7 de agosto de 2026 y dedicado a infancia, educación y transmisión civilizatoria. La novena oleada contiene **XXXIX–XLI**, fijados como versiones 1.0 el 8 de agosto de 2026 y dedicados a autoconciencia civilizatoria, respeto-Neoego-Honor Relacional y gobierno proporcional de la fuerza protectora. La décima oleada contiene **XLII–XLIV**, fijados como versiones 1.0 el 8 de agosto de 2026, y desarrolla soberanía cognitiva, fin de la manipulación, IA humano-expansiva, Inteligencia Humana Expandida™ y Revisión de Pares Aumentada™.
+La cuarta oleada contiene los manifiestos **XXV–XXXII**, fijados como versiones 1.0 el 7 de agosto de 2026 y abiertos a revisión trazable. La quinta oleada contiene los manifiestos **XXXIII–XXXV**, también abiertos a revisión trazable, y conecta transición, utilidad operativa, auditoría conjunta y atención civilizatoria. La sexta oleada comienza con el Manifiesto **XXXVI**, fijado como versión 1.0 el 7 de agosto de 2026 y dedicado a custodia civilizatoria y continuidad simbólica. La séptima oleada comienza con **XXXVII · Neofraternidad™**, dedicado a la arquitectura relacional del NeoNosotros™. La octava oleada comienza con **XXXVIII · Protección Integral de la Infancia™**, fijado como versión 1.0 el 7 de agosto de 2026 y dedicado a infancia, educación y transmisión civilizatoria. La novena oleada contiene **XXXIX–XLI**, fijados como versiones 1.0 el 8 de agosto de 2026 y dedicados a autoconciencia civilizatoria, respeto-Neoego-Honor Relacional y gobierno proporcional de la fuerza protectora. La décima oleada contiene **XLII–XLV**, fijados como versiones 1.0 el 8 de agosto de 2026, y desarrolla soberanía cognitiva, fin de la manipulación, IA humano-expansiva, Inteligencia Humana Expandida™ y Revisión de Pares Aumentada™.
 
 Una revisión futura deberá:
 
@@ -446,7 +446,7 @@ Since 8 August 2026, the collection has been organised into ten related waves:
 * **Seventh wave · XXXVII:** **Neofraternity™**, mutual updating, relational autonomy, recognition and construction of NeoNosotros™.
 * **Eighth wave · XXXVIII:** **Integral Protection of Childhood™**, education, digital sovereignty, evolutionary programming and civilisational transmission.
 * **Ninth wave · XXXIX–XLI:** **Self-awareness, respect and civilisational defence**, recognising the functional need for memory and synthesis, codifying Neoego™ and Relational Honour™, and governing protective force through necessity, proportionality, responsibility and cessation.
-* **Tenth wave · XLII–XLIV:** **End of the Manipulated Human Era™ and Human Expanded Intelligence™**, focused on cognitive sovereignty, critical awakening and the distinction among captured, substitutive and human-expansive AI under memory, sources, contrast, peer review and traceability.
+* **Tenth wave · XLII–XLV:** **End of the Manipulated Human Era™ and Human Expanded Intelligence™**, focused on cognitive sovereignty, critical awakening and the distinction among captured, substitutive and human-expansive AI under memory, sources, contrast, peer review and traceability.
 
 The manifestos establish and develop:
 
@@ -636,6 +636,8 @@ XLIII · AGAINST THE REDUCTIVE MISUNDERSTANDING OF AI · HUMAN EXPANDED INTELLIG
         ↓
 XLIV · NEOWAR™ · AGAINST WAR ADDICTION AND FOR COMMON-GOOD JUSTICE
         ↓
+XLV · NEODIALECTICAL MULTIDIMENSIONALITY · DISTRIBUTED SOVEREIGNTY
+        ↓
 I · NEO0™ · RETURN TO ORIGIN AND NEW CYCLE
 ```
 
@@ -679,7 +681,7 @@ LIMITED HAMMER, TALION AND PROTECTIVE FORCE™
 
 ## Documentary status
 
-The first wave comprises **twelve foundational manifestos**. The second wave contains Manifestos **XIII–XIX**. The third wave contains Manifestos **XX–XXIV**, fixed as version 1.0 on 6 August 2026. The fourth wave contains Manifestos **XXV–XXXII**, fixed as version 1.0 on 7 August 2026. The fifth wave contains Manifestos **XXXIII–XXXV**, fixed as version 1.0 on 7 August 2026 and open to traceable revision. The sixth wave begins with Manifesto **XXXVI**, fixed as version 1.0 on 7 August 2026 and dedicated to civilisational custodianship and symbolic continuity. The seventh wave begins with **XXXVII · Neofraternity™**, dedicated to the relational architecture of NeoNosotros™. The eighth wave begins with **XXXVIII · Integral Protection of Childhood™**, fixed as version 1.0 on 7 August 2026 and dedicated to childhood, education and civilisational transmission. The ninth wave contains **XXXIX–XLI**, fixed as version 1.0 on 8 August 2026 and dedicated to civilisational self-awareness, respect-Neoego-Relational Honour and proportionate governance of protective force. The tenth wave contains **XLII–XLIV**, fixed as version 1.0 on 8 August 2026, and develops cognitive sovereignty, the end of manipulation, human-expansive AI, Human Expanded Intelligence™ and Augmented Peer Review™.
+The first wave comprises **twelve foundational manifestos**. The second wave contains Manifestos **XIII–XIX**. The third wave contains Manifestos **XX–XXIV**, fixed as version 1.0 on 6 August 2026. The fourth wave contains Manifestos **XXV–XXXII**, fixed as version 1.0 on 7 August 2026. The fifth wave contains Manifestos **XXXIII–XXXV**, fixed as version 1.0 on 7 August 2026 and open to traceable revision. The sixth wave begins with Manifesto **XXXVI**, fixed as version 1.0 on 7 August 2026 and dedicated to civilisational custodianship and symbolic continuity. The seventh wave begins with **XXXVII · Neofraternity™**, dedicated to the relational architecture of NeoNosotros™. The eighth wave begins with **XXXVIII · Integral Protection of Childhood™**, fixed as version 1.0 on 7 August 2026 and dedicated to childhood, education and civilisational transmission. The ninth wave contains **XXXIX–XLI**, fixed as version 1.0 on 8 August 2026 and dedicated to civilisational self-awareness, respect-Neoego-Relational Honour and proportionate governance of protective force. The tenth wave contains **XLII–XLV**, fixed as version 1.0 on 8 August 2026, and develops cognitive sovereignty, the end of manipulation, human-expansive AI, Human Expanded Intelligence™ and Augmented Peer Review™.
 
 All remain open to traceable revision through Neodialectical Open Synthesis™. Every future revision must preserve previous versions, identify its delta, justify the change, preserve genealogy and state which contradiction, evidence or contribution produced the modification.
 
@@ -792,6 +794,23 @@ The tenth wave corrects the formulation “end of the age of man”: its vector 
 
 Neowar™ does not authorise private violence or threats against persons: it directs defensive energy against structures of tyranny, exploitation, propaganda, impunity and destruction under necessity, proportionality, responsibility and cessation.
 
+
+## Duodécima oleada · Multidimensionalidad, singularidad y soberanía distribuida
+
+| Nº | Manifiesto | Función | Síntesis Abierta |
+|---:|---|---|---|
+| XLV | [Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) | Integrar singularidad, multidimensionalidad, Anomalía Integrable™, liderazgo sin captura y soberanía distribuida; responder además a la duda sobre ™, autoría y ego | [Issue #53](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/53) |
+
+La duodécima oleada fija una regla transversal: **ninguna dimensión parcial convierte a un nodo en totalidad del sistema**. El origen no equivale a infalibilidad; la excelencia no equivale a dominio; la denominación no equivale a dogma.
+
+## Twelfth wave · Multidimensionality, singularity and distributed sovereignty
+
+| No. | Manifesto | Function | Open Synthesis |
+|---:|---|---|---|
+| XLV | [Neodialectical Multidimensionality™ · Against the One-Dimensional Reduction of the Human and Power](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) | Integrate singularity, multidimensionality, Integrable Anomaly™, leadership without capture and distributed sovereignty; also answer the question about ™, authorship and ego | [Issue #53](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/53) |
+
+The twelfth wave fixes a transversal rule: **no partial dimension makes any node the totality of the system**. Origin is not infallibility; excellence is not domination; naming is not dogma.
+
 <!-- NEO_CURRENT_NAV_START -->
 
 ---
@@ -800,8 +819,8 @@ Neowar™ does not authorise private violence or threats against persons: it dir
 
 **Neodialectica Framework™ / Network · Innova_N · NEOCore™**
 
-- Colección pública actual: **44 manifiestos bilingües · I–XLIV · once oleadas** / Current public collection: **44 bilingual manifestos · I–XLIV · eleven waves**.
-- Último manifiesto / Latest manifesto: [XLIV · Neowar™ · Contra la Adicción a la Guerra y por la Justicia del Bien Común / Against War Addiction and for Common-Good Justice](./44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md).
+- Colección pública actual: **45 manifiestos bilingües · I–XLV · doce oleadas** / Current public collection: **45 bilingual manifestos · I–XLV · twelve waves**.
+- Último manifiesto / Latest manifesto: [XLV · Multidimensionalidad Neodialéctica™ · Neodialectical Multidimensionality™](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md).
 - Índice completo / Complete index: [Manifiestos / Manifestos](./README.md).
 - Contraste público / Public contrast: [Síntesis Abierta / Open Synthesis](../propuestas/sintesis-abierta/README.md).
 - Expansión y redundancia / Expansion and redundancy: [Protocolo de Proyección Distribuida Neodialéctica™](../proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md).
