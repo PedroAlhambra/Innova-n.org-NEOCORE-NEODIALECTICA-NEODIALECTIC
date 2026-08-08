@@ -384,3 +384,13 @@ Contributions are requested concerning price and value, economic dogmas, wealth 
 ← [XXVIII · The Teslas™](./28_los_tesla_ES_EN.md) · [Index](./README.md) · [XXX · Coherence between Ends and Means™](./30_coherencia_fines_medios_ES_EN.md) →
 
 ---
+
+<!-- NEO_RELATED_WORK_START -->
+## Trabajo aplicado y casos relacionados / Applied work and related cases
+
+- [Economía de la atención → Economía del aporte](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md) — diferencia entre valor producido, precio, canal y renta / distinction among produced value, price, channel and rent.
+- [Spotify–DistroKid · cierre circular](../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md) — retorno económico y trazabilidad; expediente abierto / economic return and traceability; open case.
+- [MAXPROC · Protección Integral de la Infancia](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) — pobreza, consumo y presión comercial. El Punto de No Retorno Infantil™ sigue siendo hipótesis de umbral, no hecho demostrado / poverty, consumption and commercial pressure. The Child Point of No Return™ remains a threshold hypothesis, not a proven current state.
+- [KDP–Author Central–IDEA](../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md) — obra, mercado, metadatos y valor editorial sin confundir propiedad, autoría y plataforma / work, market, metadata and publishing value without confusing property, authorship and platform.
+- [Mapa transversal completo](./RELACIONES_TRABAJO_APLICADO_ES_EN.md#manifiesto-xxix)
+<!-- NEO_RELATED_WORK_END -->
