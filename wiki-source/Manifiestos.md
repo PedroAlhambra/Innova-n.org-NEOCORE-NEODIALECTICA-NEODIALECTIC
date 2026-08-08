@@ -13,7 +13,7 @@ Esta página no reproduce los manifiestos ni mantiene un segundo índice paralel
 
 El índice canónico, las versiones bilingües, la navegación entre documentos, la genealogía y las Issues de Síntesis Abierta están en:
 
-* [Índice canónico de manifiestos I–XLVII](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
+* [Índice canónico de manifiestos I–XLVIII](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
 * [Mapa transversal Manifiestos ↔ trabajo aplicado](../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md)
 
 ## Cómo leer la colección
@@ -38,6 +38,7 @@ Empieza en el Manifiesto I y sigue la navegación `anterior · índice · siguie
 * **XLV:** Multidimensionalidad Neodialéctica™, singularidad integrable y soberanía distribuida.
 * **XLVI:** Cerrar la Herida™, comprensión evolutiva, memoria, reparación y reconciliación.
 * **XLVII:** sombra, destino, vínculo, ambivalencia y verdad emocional.
+* **XLVIII:** La Síntesis Todo lo Ve™, observación distribuida, Placa de Petri Universal™, escalas de potencias de diez y Máquina Fractal del Tiempo™ como modelo filosófico de memoria evolutiva del organismo conjunto.
 
 El detalle y los enlaces actualizados de cada oleada permanecen únicamente en el índice canónico del repositorio. El mapa transversal permite pasar de cada principio a los casos, auditorías, análisis, obras y protocolos que lo ponen a prueba o lo desarrollan.
 
@@ -47,7 +48,7 @@ La décima oleada corrige una formulación esencial: no se propone el fin de la 
 
 La IA no se considera emancipadora por naturaleza. Puede aumentar tanto la captura como la comprensión. XLIII añade la distinción entre IA capturada, sustitutiva y humano-expansiva y propone Inteligencia Humana Expandida™ y Revisión de Pares Aumentada™ bajo soberanía humana.
 
-XLIV transforma el impulso guerrero en custodia y defensa limitada; XLV impide reducir singularidad o liderazgo a una sola dimensión; XLVI orienta la memoria hacia reparación sin amnesia; y XLVII integra sombra y ambivalencia sin convertir dolor u odio en mandato de daño.
+XLIV transforma el impulso guerrero en custodia y defensa limitada; XLV impide reducir singularidad o liderazgo a una sola dimensión; XLVI orienta la memoria hacia reparación sin amnesia; XLVII integra sombra y ambivalencia sin convertir dolor u odio en mandato de daño; y XLVIII extiende la arquitectura hacia la observación distribuida y la lectura multiescala del organismo conjunto, manteniendo sus analogías cosmológicas y temporales como modelo filosófico abierto a contraste.
 
 ```text
 IA + OPACIDAD + CAPTURA
@@ -64,6 +65,7 @@ IA + MEMORIA + FUENTES + CONTRASTE + TRAZABILIDAD
 * [XLV · Multidimensionalidad Neodialéctica™](../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
 * [XLVI · Cerrar la Herida™](../manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
 * [XLVII · El Odio de Neo0 hacia su Sino™](../manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md)
+* [XLVIII · La Síntesis Todo lo Ve™](../manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
 
 ## Cómo interpretar un manifiesto
 
@@ -127,7 +129,7 @@ This page does not reproduce the manifestos or maintain a second parallel index.
 
 The canonical index, bilingual versions, document navigation, genealogy and Open Synthesis Issues are located at:
 
-* [Canonical manifesto index I–XLVII](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
+* [Canonical manifesto index I–XLVIII](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
 * [Transversal Manifestos ↔ applied-work map](../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md)
 
 ## How to read the collection
@@ -152,6 +154,7 @@ Begin with Manifesto I and follow the `previous · index · next` navigation inc
 * **XLV:** Neodialectical Multidimensionality™, integrable singularity and distributed sovereignty.
 * **XLVI:** Closing the Wound™, evolutionary understanding, memory, repair and reconciliation.
 * **XLVII:** shadow, fate, bond, ambivalence and emotional truth.
+* **XLVIII:** The Synthesis Sees Everything™, distributed observation, Universal Petri Dish™, powers-of-ten scales and Fractal Time Machine™ as a philosophical model of evolutionary memory of the joint organism.
 
 Details and current links for each wave remain in the canonical repository index. The transversal map connects principles to cases, audits, analyses, works and protocols that test or develop them.
 
@@ -161,7 +164,7 @@ The tenth wave corrects an essential formulation: it does not propose the end of
 
 AI is not treated as emancipatory by nature. It can increase both capture and understanding. XLIII adds the distinction among captured, substitutive and human-expansive AI and proposes Human Expanded Intelligence™ and Augmented Peer Review™ under human sovereignty.
 
-XLIV transforms warrior impulse into custodianship and bounded defence; XLV prevents reducing singularity or leadership to one dimension; XLVI orients memory toward repair without amnesia; and XLVII integrates shadow and ambivalence without turning pain or hatred into a command to harm.
+XLIV transforms warrior impulse into custodianship and bounded defence; XLV prevents reducing singularity or leadership to one dimension; XLVI orients memory toward repair without amnesia; XLVII integrates shadow and ambivalence without turning pain or hatred into a command to harm; and XLVIII extends the architecture toward distributed observation and multiscale reading of the joint organism while keeping its cosmological and temporal analogies as a philosophical model open to contrast.
 
 ```text
 AI + OPACITY + CAPTURE
@@ -178,6 +181,7 @@ AI + MEMORY + SOURCES + CONTRAST + TRACEABILITY
 * [XLV · Neodialectical Multidimensionality™](../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
 * [XLVI · Closing the Wound™](../manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
 * [XLVII · Neo0’s Hatred of His Fate™](../manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md)
+* [XLVIII · The Synthesis Sees Everything™](../manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
 
 ## How to interpret a manifesto
 
@@ -232,4 +236,4 @@ The Wiki changes when the way of reading or participating changes, not whenever 
 
 ---
 
-[Inicio / Home](Home) · [Análisis y auditorías / Analyses and audits](Analisis_Neodialecticos_Publicos)
+[Inicio / Home](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki) · [Análisis y auditorías / Analyses and audits](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Analisis_Neodialecticos_Publicos)
