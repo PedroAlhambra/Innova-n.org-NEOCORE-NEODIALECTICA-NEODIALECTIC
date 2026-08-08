@@ -39,6 +39,7 @@
 
 ## Directorios relacionados
 
+* [Mapa transversal Manifiestos ↔ trabajo aplicado](../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md)
 * [README de análisis](./README.md)
 * [Serie de análisis públicos](./publicos/README.md)
 * [Auditorías públicas](../auditorias/publicas/README.md)
@@ -47,7 +48,7 @@
 
 ## Criterio organizativo
 
-Cada nuevo análisis o auditoría debe incorporarse, cuando corresponda, a su archivo documental, este índice, el README de su serie y sus evidencias. La Wiki sólo se actualiza cuando cambia la forma de localizar, leer o utilizar el material.
+Cada nuevo análisis o auditoría debe incorporarse, cuando corresponda, a su archivo documental, este índice, el README de su serie y sus evidencias. Cuando ponga a prueba una función de un manifiesto, debe incorporarse además al mapa transversal y enlazarse desde el manifiesto cuando la relación sea material. La Wiki sólo se actualiza cuando cambia la forma de localizar, leer o utilizar el material.
 
 ---
 
@@ -86,6 +87,7 @@ Cada nuevo análisis o auditoría debe incorporarse, cuando corresponda, a su ar
 
 ## Related directories
 
+* [Transversal Manifestos ↔ applied-work map](../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md)
 * [Analysis README](./README.md)
 * [Public analysis series](./publicos/README.md)
 * [Public audits](../auditorias/publicas/README.md)
@@ -94,7 +96,7 @@ Cada nuevo análisis o auditoría debe incorporarse, cuando corresponda, a su ar
 
 ## Organisational criterion
 
-Each new analysis or audit should be incorporated, where applicable, into its documentary file, this index, the README of its series and its evidence. The Wiki is updated only when the way of locating, reading or using the material changes.
+Each new analysis or audit should be incorporated, where applicable, into its documentary file, this index, the README of its series and its evidence. When it materially tests a manifesto function, it should also be incorporated into the transversal map and linked from the manifesto when the relation is material. The Wiki is updated only when the way of locating, reading or using the material changes.
 
 ---
 
