@@ -1,0 +1,147 @@
+name: one-shot-sync-xlix
+
+on:
+  push:
+    paths:
+      - '.github/workflows/one-shot-sync-xlix.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Synchronise XLIX across canonical surfaces
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          manifesto = 'manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md'
+          issue = 'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/57'
+          article = 'analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md'
+
+          # 1) Global README coverage blocks.
+          for p in Path('.').rglob('README.md'):
+              s = p.read_text(encoding='utf-8')
+              old = s
+              s = s.replace('I–XLVIII · 48 manifiestos bilingües / 48 bilingual manifestos', 'I–XLIX · 49 manifiestos bilingües / 49 bilingual manifestos')
+              s = s.replace('I–XLVIII · 48 manifiestos', 'I–XLIX · 49 manifiestos')
+              s = s.replace('I–XLVIII · 48 manifestos', 'I–XLIX · 49 manifestos')
+              if s != old:
+                  p.write_text(s, encoding='utf-8')
+
+          # 2) Root README and LEEME: latest state, priority access, wave table and chain.
+          for name in ['README.md','LEEME.md']:
+              p = Path(name)
+              s = p.read_text(encoding='utf-8')
+              s = s.replace('Índice navegable de manifiestos I–XLVIII', 'Índice navegable de manifiestos I–XLIX')
+              s = s.replace('Navigable manifesto index I–XLVIII', 'Navigable manifesto index I–XLIX')
+              es_anchor = '* [XLVIII · La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo](./manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)'
+              en_anchor = '* [XLVIII · The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine](./manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)'
+              es_add = '\n* [XLIX · La Neodialéctica como Punto de Encuentro entre Culturas™](./manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)\n* [Síntesis Abierta XLIX · Issue #57]('+issue+')'
+              en_add = '\n* [XLIX · Neodialectics as a Meeting Point between Cultures™](./manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)\n* [Open Synthesis XLIX · Issue #57]('+issue+')'
+              if es_anchor in s and 'Síntesis Abierta XLIX · Issue #57' not in s[:s.find('# EN · English') if '# EN · English' in s else len(s)]:
+                  s = s.replace(es_anchor, es_anchor + es_add, 1)
+              if en_anchor in s and 'Open Synthesis XLIX · Issue #57' not in s[s.find('# EN · English') if '# EN · English' in s else 0:]:
+                  s = s.replace(en_anchor, en_anchor + en_add, 1)
+              es_marker = '\nEl Manifiesto III mantiene su propia [Síntesis Abierta · Issue #3]'
+              if es_marker in s and '## Decimosexta oleada · Punto de Encuentro entre Culturas™ · XLIX' not in s:
+                  block = '''\n## Decimosexta oleada · Punto de Encuentro entre Culturas™ · XLIX\n\n| Nº | Manifiesto | Función | Síntesis Abierta |\n|---:|---|---|---|\n| XLIX | [La Neodialéctica como Punto de Encuentro entre Culturas™](./manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md) | Unidad sin uniformidad, interoperabilidad cultural, traducción de sentido y cooperación sin desaparición | [Issue #57]('''+issue+''') |\n'''
+                  s = s.replace(es_marker, block + es_marker, 1)
+              en_marker = '\nManifesto III maintains its own [Open Synthesis · Issue #3]'
+              if en_marker in s and '## Sixteenth wave · Meeting Point between Cultures™ · XLIX' not in s:
+                  block = '''\n## Sixteenth wave · Meeting Point between Cultures™ · XLIX\n\n| No. | Manifesto | Function | Open Synthesis |\n|---:|---|---|---|\n| XLIX | [Neodialectics as a Meeting Point between Cultures™](./manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md) | Unity without uniformity, cultural interoperability, translation of meaning and cooperation without disappearance | [Issue #57]('''+issue+''') |\n'''
+                  s = s.replace(en_marker, block + en_marker, 1)
+              s = s.replace('→ XLVIII · LA SÍNTESIS TODO LO VE\n→ I · RETORNO A ORIGEN Y NUEVO CICLO', '→ XLVIII · LA SÍNTESIS TODO LO VE\n→ XLIX · PUNTO DE ENCUENTRO ENTRE CULTURAS\n→ I · RETORNO A ORIGEN Y NUEVO CICLO')
+              s = s.replace('→ XLVIII · THE SYNTHESIS SEES EVERYTHING\n→ I · RETURN TO ORIGIN AND NEW CYCLE', '→ XLVIII · THE SYNTHESIS SEES EVERYTHING\n→ XLIX · MEETING POINT BETWEEN CULTURES\n→ I · RETURN TO ORIGIN AND NEW CYCLE')
+              s = re.sub(r'Colección pública actual: \*\*48 manifiestos bilingües · I–XLVIII · quince oleadas\*\* / Current public collection: \*\*48 bilingual manifestos · I–XLVIII · fifteen waves\*\*\.', 'Colección pública actual: **49 manifiestos bilingües · I–XLIX · dieciséis oleadas** / Current public collection: **49 bilingual manifestos · I–XLIX · sixteen waves**.', s)
+              s = re.sub(r'- Último manifiesto / Latest manifesto: \[[^\n]+', '- Último manifiesto / Latest manifesto: [XLIX · La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™](./manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md).', s)
+              p.write_text(s, encoding='utf-8')
+
+          # 3) Manifesto canonical index.
+          p = Path('manifiestos/README.md')
+          s = p.read_text(encoding='utf-8')
+          s = s.replace('I–XLVIII', 'I–XLIX')
+          s = s.replace('48 manifiestos', '49 manifiestos')
+          s = s.replace('48 manifestos', '49 manifestos')
+          if '49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md' not in s:
+              insertion = '''\n\n## Decimosexta oleada · Punto de Encuentro entre Culturas™ · XLIX\n## Sixteenth wave · Meeting Point between Cultures™ · XLIX\n\n| Nº / No. | Manifiesto / Manifesto | Función / Function | Síntesis / Synthesis |\n|---:|---|---|---|\n| XLIX | [La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™](./49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md) | Unidad sin uniformidad; interoperabilidad cultural; traducción de sentido; cooperación sin desaparición / Unity without uniformity; cultural interoperability; translation of meaning; cooperation without disappearance | [Issue #57]('''+issue+''') |\n'''
+              s += insertion
+          p.write_text(s, encoding='utf-8')
+
+          # 4) Open Synthesis canonical index.
+          p = Path('propuestas/sintesis-abierta/README.md')
+          s = p.read_text(encoding='utf-8')
+          s = s.replace('I–XLVIII', 'I–XLIX').replace('48 manifiestos', '49 manifiestos').replace('48 manifestos', '49 manifestos')
+          if 'Issue #57' not in s:
+              s += '''\n\n## XLIX · La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™\n\n- [Manifiesto / Manifesto](../../manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)\n- [Síntesis Abierta / Open Synthesis · Issue #57]('''+issue+''')\n'''
+          p.write_text(s, encoding='utf-8')
+
+          # 5) Wiki-source manifesto guide.
+          p = Path('wiki-source/Manifiestos.md')
+          s = p.read_text(encoding='utf-8')
+          s = s.replace('I–XLVIII', 'I–XLIX').replace('48 manifiestos', '49 manifiestos').replace('48 manifestos', '49 manifestos')
+          if '49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md' not in s:
+              s += '''\n\n## XLIX · La Neodialéctica como Punto de Encuentro entre Culturas™\n\nUnidad sin uniformidad; diferencia sin fragmentación; interoperabilidad cultural y traducción de sentido.\n\n- [Manifiesto canónico](../manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)\n- [Síntesis Abierta · Issue #57]('''+issue+''')\n- [Antecedente: Religión, identidad, dogma y conciencia](../analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)\n'''
+          p.write_text(s, encoding='utf-8')
+
+          # 6) XLVIII forward navigation and relation to XLIX.
+          p = Path('manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md')
+          s = p.read_text(encoding='utf-8')
+          s = s.replace('· [I · Neo0™ · Soberanía de Guía Neodialéctica](./11_neo0_soberania_de_guia_ES_EN.md) →', '· [XLIX · La Neodialéctica como Punto de Encuentro entre Culturas™](./49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md) →')
+          s = s.replace('· [I · Neo0™ · Neodialectical Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) →', '· [XLIX · Neodialectics as a Meeting Point between Cultures™](./49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md) →')
+          if '49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md' not in s[s.find('## Relaciones internas y trabajo aplicado') if '## Relaciones internas y trabajo aplicado' in s else 0:]:
+              s += '\n- [XLIX · La Neodialéctica como Punto de Encuentro entre Culturas™](./49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md) — aplicación cultural de la observación multiescala, memoria y síntesis.\n'
+          p.write_text(s, encoding='utf-8')
+
+          # 7) Reciprocal relation from antecedent article.
+          p = Path(article)
+          s = p.read_text(encoding='utf-8')
+          if '49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md' not in s:
+              marker = '\n## Documentos citados\n'
+              block = '''\n## Relación con XLIX · Punto de Encuentro entre Culturas™\n\nLa formulación de este artículo sobre la Neodialéctica como punto de encuentro real entre culturas se desarrolla posteriormente como manifiesto autónomo:\n\n- [XLIX · La Neodialéctica como Punto de Encuentro entre Culturas™](../../manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)\n- [Síntesis Abierta XLIX · Issue #57]('''+issue+''')\n- [XLVIII · La Síntesis Todo lo Ve™](../../manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) — relación multiescala y antecedente de la Placa de Petri Universal.\n\nLa relación es genealógica y conceptual; no convierte por sí sola las analogías del marco en afirmaciones empíricas demostradas.\n'''
+              if marker in s:
+                  s = s.replace(marker, block + marker, 1)
+              else:
+                  s += block
+          p.write_text(s, encoding='utf-8')
+
+          # 8) Applied-work relation map.
+          p = Path('manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md')
+          s = p.read_text(encoding='utf-8')
+          s = s.replace('I–XLVIII · 48 manifiestos / 48 manifestos', 'I–XLIX · 49 manifiestos / 49 manifestos')
+          if '## XLIX · La Neodialéctica como Punto de Encuentro entre Culturas™' not in s:
+              s += '''\n\n---\n\n## XLIX · La Neodialéctica como Punto de Encuentro entre Culturas™\n## XLIX · Neodialectics as a Meeting Point between Cultures™\n\n**Relaciones principales / Main relations:** II · Síntesis Abierta; IV · Bien Común; VIII · Ingeniería Social Abierta y Psicohistoria; IX · Memoria-Genealogía-Trazabilidad; XVI · Refragmentación Arquetípica; XXXII · Reversión Ideológica; XXXVII · Neofraternidad; XLV · Multidimensionalidad; XLVIII · La Síntesis Todo lo Ve.\n\n**Trabajo aplicado y antecedente / Applied work and antecedent:**\n- [Religión, identidad, dogma y conciencia](../analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md) — antecedente explícito de la formulación de Neodialéctica como punto de encuentro real entre culturas y del símil de la mini placa de Petri.\n- [Síntesis Abierta XLIX · Issue #57]('''+issue+''') — contraste sobre interoperabilidad cultural, universalidad, relativismo, traducción y pluralismo.\n\n**Regla probatoria / Evidentiary rule:** relación conceptual y genealógica; no implica equivalencia entre culturas ni valida automáticamente prácticas concretas.\n'''
+          p.write_text(s, encoding='utf-8')
+
+          # 9) Basic validation: paths named above must exist and no malformed I–XLVIIII patterns.
+          required = [Path(manifesto), Path(article), Path('manifiestos/README.md'), Path('propuestas/sintesis-abierta/README.md'), Path('wiki-source/Manifiestos.md'), Path('manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md')]
+          for p in required:
+              assert p.exists(), p
+          for p in [Path('README.md'),Path('LEEME.md'),*required]:
+              text = p.read_text(encoding='utf-8')
+              assert 'XLVIIII' not in text, f'malformed roman numeral in {p}'
+          print('XLIX sync validation OK')
+          PY
+
+      - name: Commit synchronized XLIX surfaces
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md LEEME.md manifiestos propuestas/sintesis-abierta/README.md wiki-source/Manifiestos.md analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md
+          git commit -m "docs: integrate XLIX across canonical relations and indexes" || exit 0
+          git push
+
+      - name: Remove completed one-shot
+        run: |
+          git pull --rebase
+          git rm .github/workflows/one-shot-sync-xlix.yml
+          git commit -m "chore: remove completed XLIX sync one-shot"
+          git push
