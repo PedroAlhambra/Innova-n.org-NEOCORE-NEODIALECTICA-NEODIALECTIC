@@ -366,3 +366,15 @@ Before participating, read the full manifesto and the operational protocol. Subm
 ← [V · Human–AI Symbiosis and Fractal Intelligence™](./03_simbiosis_humano_ia_ES_EN.md) · [Index](./README.md) · [VII · Contribution Economy](./04_economia_del_aporte_ES_EN.md) →
 
 ---
+
+<!-- NEO_RELATED_WORK_START -->
+## Trabajo aplicado y casos relacionados / Applied work and related cases
+
+> La correlación muestra aplicación o contraste funcional; no convierte por sí sola una hipótesis en hecho, una investigación en culpabilidad ni una analogía funcional en identidad moral. / Correlation shows functional application or contrast; it does not by itself turn a hypothesis into fact, an investigation into guilt or a functional analogy into moral identity.
+
+- [Economía de la atención → Economía del aporte](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md) — captura de valor, intermediación y control de canales / value capture, intermediation and channel control.
+- [Auditoría matriz DistroKid](../analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md) — trazabilidad económica y retorno al creador / economic traceability and creator return.
+- [Spotify–DistroKid · cierre circular y escalado](../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md) — expediente abierto; documenta ausencia de conciliación material, **no desvío deliberado probado** / open case; documents missing material reconciliation, **not proven deliberate diversion**.
+- [Canarias · tutela, contratación y control](../analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md) — relación con intermediación, dependencia y control público; **no etiqueta personas o entidades como parásitos** / relation to intermediation, dependency and public oversight; **does not label persons or entities as parasites**.
+- [Mapa transversal completo](./RELACIONES_TRABAJO_APLICADO_ES_EN.md#manifiesto-vi)
+<!-- NEO_RELATED_WORK_END -->
