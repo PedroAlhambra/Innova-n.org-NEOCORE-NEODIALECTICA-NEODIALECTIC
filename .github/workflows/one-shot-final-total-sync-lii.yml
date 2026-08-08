@@ -1,0 +1,115 @@
+name: one-shot final total sync LII
+
+on:
+  pull_request_target:
+    types: [opened, reopened, synchronize]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    if: github.event.pull_request.head.ref == 'automation/final-total-sync-lii'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Synchronize manifesto network and latest feature
+        run: |
+          python .github/scripts/sync_open_synthesis_manifestos.py
+          python .github/scripts/sync_latest_manifesto_feature.py
+      - name: Normalize remaining explicit coverage and LII wave sections
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          root=Path('.')
+          targets=list(root.rglob('README*.md'))+[root/'LEEME.md',root/'analisis/INDEX.md',root/'wiki-source/Manifiestos.md',root/'manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md']
+          reps={
+            '51 manifiestos · I–LI / 51 manifestos · I–LI':'52 manifiestos · I–LII / 52 manifestos · I–LII',
+            '51 manifiestos bilingües · I–LI · 18 oleadas':'52 manifiestos bilingües · I–LII · 19 oleadas',
+            '51 bilingual manifestos · I–LI · 18 waves':'52 bilingual manifestos · I–LII · 19 waves',
+            'I–LI · 51 manifiestos bilingües / 51 bilingual manifestos':'I–LII · 52 manifiestos bilingües / 52 bilingual manifestos',
+            'Índice I–LI / I–LI index':'Índice I–LII / I–LII index',
+          }
+          for p in dict.fromkeys(targets):
+            if not p.exists() or '.git' in p.parts: continue
+            s=p.read_text(encoding='utf-8'); old=s
+            for a,b in reps.items(): s=s.replace(a,b)
+            if s!=old: p.write_text(s,encoding='utf-8')
+
+          p=root/'manifiestos/README.md'
+          s=p.read_text(encoding='utf-8'); old=s
+          es='''\n## Decimonovena oleada · Ciudadanía humana y pertenencia multiescala · LII\n\n| Nº | Manifiesto | Función | Síntesis Abierta |\n|---:|---|---|---|\n| LII | [Ciudadanía Humana Neodialéctica™](./52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md) | Igualdad de pertenencia, ciudadanía multiescala, protección universal y pertenencia cívica funcional | [#64](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/64) |\n'''
+          if '## Decimonovena oleada · Ciudadanía humana y pertenencia multiescala · LII' not in s:
+            a='\n## Relación entre principios y trabajo aplicado'
+            if a in s: s=s.replace(a,'\n'+es+a,1)
+          en='''\n## Nineteenth wave · Human citizenship and multiscale belonging · LII\n\n| No. | Manifesto | Function | Open Synthesis |\n|---:|---|---|---|\n| LII | [Neodialectical Human Citizenship™](./52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md) | Equality of belonging, multiscale citizenship, universal protection and functional civic belonging | [#64](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/64) |\n'''
+          if '## Nineteenth wave · Human citizenship and multiscale belonging · LII' not in s:
+            a='\n## Relation between principles and applied work'
+            if a in s: s=s.replace(a,'\n'+en+a,1)
+          if s!=old: p.write_text(s,encoding='utf-8')
+          PY
+      - name: Postcheck
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re,sys
+          root=Path('.')
+          fail=[]
+          latest='52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md'
+          readmes=sorted({p for p in root.rglob('README*.md') if '.git' not in p.parts}|{root/'LEEME.md'})
+          for p in readmes:
+            if not p.exists(): continue
+            s=p.read_text(encoding='utf-8')
+            if '<!-- NEO_LATEST_MANIFESTO_START -->' in s:
+              b=re.search(r'<!-- NEO_LATEST_MANIFESTO_START -->(.*?)<!-- NEO_LATEST_MANIFESTO_END -->',s,re.S)
+              if not b or latest not in b.group(1) or 'issues/64' not in b.group(1): fail.append(f'{p}: latest')
+            if '<!-- NEO_ALL_MANIFESTOS_START -->' in s:
+              b=re.search(r'<!-- NEO_ALL_MANIFESTOS_START -->(.*?)<!-- NEO_ALL_MANIFESTOS_END -->',s,re.S)
+              if not b or '- **LII** ·' not in b.group(1) or 'I–LII · 52 manifiestos / 52 manifestos' not in b.group(1): fail.append(f'{p}: network')
+            if '51 manifiestos · I–LI / 51 manifestos · I–LI' in s: fail.append(f'{p}: stale coverage')
+          mdir=root/'manifiestos'
+          manifests=[]
+          idx=(mdir/'README.md').read_text(encoding='utf-8')
+          net=re.search(r'<!-- NEO_ALL_MANIFESTOS_START -->(.*?)<!-- NEO_ALL_MANIFESTOS_END -->',idx,re.S)
+          if not net: fail.append('canonical network missing')
+          else:
+            seen=set()
+            for roman,href in re.findall(r'- \*\*([IVXLCDM]+)\*\* · \[[^\]]+\]\(([^)]+\.md)\)',net.group(1)):
+              f=(mdir/href).resolve()
+              if f not in seen: seen.add(f); manifests.append((roman,f))
+            if len(manifests)!=52 or manifests[-1][0]!='LII': fail.append(f'canonical manifestos={len(manifests)} last={manifests[-1][0] if manifests else None}')
+          for i,(roman,f) in enumerate(manifests):
+            s=f.read_text(encoding='utf-8')
+            b=re.search(r'<!-- NEO_MANIFESTO_NAV_START -->(.*?)<!-- NEO_MANIFESTO_NAV_END -->',s,re.S)
+            if not b or 'I–LII' not in b.group(1): fail.append(f'{f.name}: nav index')
+            if i<51 and manifests[i+1][1].name not in b.group(1): fail.append(f'{f.name}: next')
+            if i>0 and manifests[i-1][1].name not in b.group(1): fail.append(f'{f.name}: prev')
+          synth=(root/'propuestas/sintesis-abierta/README.md').read_text(encoding='utf-8')
+          if '**Cobertura canónica / Canonical coverage:** **52 manifiestos · I–LII / 52 manifestos · I–LII**' not in synth: fail.append('synthesis coverage')
+          mi=(mdir/'README.md').read_text(encoding='utf-8')
+          for x in ['19. **LII · Ciudadanía Humana Neodialéctica™:**','19. **LII · Neodialectical Human Citizenship™:**','## Decimonovena oleada · Ciudadanía humana y pertenencia multiescala · LII','## Nineteenth wave · Human citizenship and multiscale belonging · LII']:
+            if x not in mi: fail.append('manifest index missing '+x)
+          if fail:
+            print('POSTCHECK FAIL')
+            print('\n'.join(fail))
+            sys.exit(1)
+          print(f'POSTCHECK OK: {len(readmes)} README/LEEME targets; 52 manifestos I-LII; 19 waves; prev/index/next complete; synthesis coverage current')
+          PY
+      - name: Commit synchronized state
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "docs: finalize total synchronization to LII"
+            git pull --rebase origin main
+            git push origin main
+          fi
