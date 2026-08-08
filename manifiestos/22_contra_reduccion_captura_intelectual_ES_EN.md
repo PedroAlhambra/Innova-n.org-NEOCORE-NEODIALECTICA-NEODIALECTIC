@@ -772,3 +772,15 @@ Every contribution requires prior reading, return to source, cognitive continuit
 ## Navigation
 
 ← [XXI · Neodialectical Recognition™](./21_reconocimiento_neodialectico_ES_EN.md) · [Index](./README.md) · [XXIII · Sovereignty of Cognitive Time™](./23_soberania_tiempo_cognitivo_ES_EN.md) →
+
+<!-- NEO_RELATED_WORK_START -->
+## Trabajo aplicado y casos relacionados / Applied work and related cases
+
+> Precedencia o convergencia no equivalen automáticamente a copia. / Precedence or convergence does not automatically equal copying.
+
+- [Economía de la atención → Economía del aporte](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md) — captura de valor y de canal / value and channel capture.
+- [Stanford / ACE y marco previo neodialéctico](../analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md) — cronología y convergencia; no prueba directa de apropiación / chronology and convergence; not direct proof of appropriation.
+- [Convergencia neodialéctica en IA institucional](../analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md) — lectura de convergencia estructural; no imputación causal automática / structural-convergence reading; no automatic causal attribution.
+- [Protocolo de Proyección Distribuida](../proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md) — procedencia y anti-descontextualización / provenance and anti-decontextualisation.
+- [Mapa transversal completo](./RELACIONES_TRABAJO_APLICADO_ES_EN.md#manifiesto-xxii)
+<!-- NEO_RELATED_WORK_END -->
