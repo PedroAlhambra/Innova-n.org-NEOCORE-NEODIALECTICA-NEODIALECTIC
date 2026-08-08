@@ -1124,3 +1124,13 @@ Contributions are requested concerning child poverty, the Child Point of No Retu
 ---
 
 **© 2026 Pedro Martínez Alhambra · Fundación Innova_N / Innova_N Foundation**
+
+<!-- NEO_RELATED_WORK_START -->
+## Trabajo aplicado y casos relacionados / Applied work and related cases
+
+- [MAXPROC · Protección Integral de la Infancia™](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) — análisis aplicado principal / main applied analysis.
+- [Fuentes y matriz de evidencias](../analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md) — separa hechos, señales, diseño e hipótesis; el Punto de No Retorno Infantil™ **no se presenta como hecho ya alcanzado** / separates facts, signals, design and hypotheses; the Child Point of No Return™ **is not presented as an already reached state**.
+- [Canarias · tutela, contratación y control](../analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md) — aplicación al deber reforzado del Estado cuando tutela menores; mantiene límites probatorios del caso / application to the State's enhanced duty when it acts as guardian; preserves the case's evidentiary limits.
+- [Economía de la atención → Economía del aporte](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md) — atención y consumo como flujos de valor / attention and consumption as value flows.
+- [Mapa transversal completo](./RELACIONES_TRABAJO_APLICADO_ES_EN.md#manifiesto-xxxviii)
+<!-- NEO_RELATED_WORK_END -->
