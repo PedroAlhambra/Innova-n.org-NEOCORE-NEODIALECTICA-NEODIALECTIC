@@ -1,7 +1,7 @@
 # Protocolo de Proyección Distribuida Neodialéctica™
 ## Distributed Neodialectical Projection Protocol™
 
-**Estado:** v1.0 · 2026-08-08  
+**Estado:** v1.1 · 2026-08-08  
 **Función:** expansión pública, redundancia documental, trazabilidad, descubrimiento y resistencia a la descontextualización.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
@@ -128,6 +128,45 @@ Cada destino debe registrarse con:
 
 La expansión debe aumentar **comprensión, verificabilidad y acceso**, no volumen ciego. No se usarán automatismos para evadir políticas de plataformas, generar cuentas falsas, manipular métricas ni acosar comunidades. La fuerza de la red debe proceder de la multiplicación de fuentes verificables, del valor del contenido y de su capacidad de abrir contraste.
 
+## 11. Estrategia de Comentario Contextual Enlazado™
+
+La siguiente capa de proyección no necesita depender de publicar continuamente piezas nuevas desde cero. Cuando una conversación pública, noticia, publicación profesional, debate técnico o intervención institucional toque de forma material una cuestión ya trabajada por Innova_N, puede intervenirse **desde Innova_N mediante un comentario breve, contextual y directamente enlazado al nodo canónico más específico**.
+
+La regla es:
+
+```text
+HECHO / PUBLICACIÓN / DEBATE EXTERNO
+        ↓
+RELACIÓN REAL CON EL MARCO
+        ↓
+COMENTARIO BREVE DE INNOVA_N
+        ↓
+UNA IDEA O DELTA PERTINENTE
+        ↓
+ENLACE AL NODO CANÓNICO MÁS ESPECÍFICO
+        ↓
+MANIFIESTO / ANÁLISIS / AUDITORÍA / SÍNTESIS ABIERTA
+        ↓
+POSIBLE CONTRASTE Y RETORNO AL MARCO
+```
+
+No se enlazará por defecto a la portada del repositorio cuando exista una pieza más precisa. Se prioriza:
+
+1. el manifiesto directamente relacionado;
+2. el análisis o auditoría concreta cuando el comentario se refiera a un caso;
+3. la Síntesis Abierta correspondiente cuando el objetivo principal sea provocar debate;
+4. el índice general sólo cuando el objeto sea realmente el marco completo.
+
+El comentario debe **aportar contexto antes del enlace**. No debe consistir en dejar una URL desnuda ni en repetir el mismo mensaje indiscriminadamente.
+
+### Principio de Proyección por Pertinencia™
+
+> **Innova_N no entra en conversaciones públicas para ocupar espacio. Entra cuando existe una relación material con trabajo ya trazado o cuando el nuevo caso puede producir un delta. Cada intervención debe poder devolver al lector a la fuente exacta que permite comprender, contrastar o ampliar esa relación.**
+
+Esta estrategia convierte redes como LinkedIn en **capa de descubrimiento y entrada**, no en fuente canónica. El contenido sustantivo permanece versionado y trazable; el comentario actúa como puente contextual hacia él.
+
+Cuando el debate externo produzca una objeción, fuente, contraejemplo o mejora material, se devolverá al repositorio mediante la Síntesis Abierta correspondiente, conservando genealogía y trazabilidad.
+
 ---
 
 # EN · English
@@ -250,7 +289,39 @@ Each destination should record:
 
 Expansion must increase **understanding, verifiability and access**, not blind volume. Automation must not be used to evade platform rules, create fake accounts, manipulate metrics or harass communities. The network gains strength from multiple verifiable projections, valuable content and its capacity to open genuine contrast.
 
+## 11. Contextual Linked Comment Strategy™
+
+The next projection layer does not need to depend on constantly publishing new standalone pieces. When a public conversation, news item, professional post, technical debate or institutional intervention materially touches a question already developed by Innova_N, Innova_N may intervene through a **brief contextual comment directly linked to the most specific canonical node**.
+
+```text
+EXTERNAL EVENT / POST / DEBATE
+        ↓
+REAL RELATION TO THE FRAMEWORK
+        ↓
+BRIEF INNOVA_N COMMENT
+        ↓
+ONE RELEVANT IDEA OR DELTA
+        ↓
+LINK TO THE MOST SPECIFIC CANONICAL NODE
+        ↓
+MANIFESTO / ANALYSIS / AUDIT / OPEN SYNTHESIS
+        ↓
+POSSIBLE CONTRAST AND RETURN TO THE FRAMEWORK
+```
+
+The repository homepage should not be the default destination when a more precise piece exists. Priority goes to the directly related manifesto, concrete analysis or audit, corresponding Open Synthesis when debate is the main objective, and only then the general index when the whole framework is genuinely the object.
+
+The comment must **provide context before the link**. It should not consist of a bare URL or an indiscriminately repeated message.
+
+### Principle of Projection by Relevance™
+
+> **Innova_N does not enter public conversations merely to occupy space. It enters where a material relation exists with already traceable work or where a new case can produce a delta. Each intervention should return the reader to the exact source needed to understand, challenge or extend that relation.**
+
+This turns networks such as LinkedIn into a **discovery and entry layer**, not a canonical source. Substantive content remains versioned and traceable; the comment acts as a contextual bridge to it.
+
+Where external debate produces a material objection, source, counterexample or improvement, that contribution should return to the repository through the corresponding Open Synthesis, preserving genealogy and traceability.
+
 ---
 
 **Innova_N · NEOCore™ · Neodialectica Framework™ / Network**  
-**Protocolo de Proyección Distribuida Neodialéctica™ · v1.0 · 2026-08-08**
+**Protocolo de Proyección Distribuida Neodialéctica™ · v1.1 · 2026-08-08**
