@@ -1,0 +1,109 @@
+name: one-shot-finalize-manifesto-l-postcheck
+
+on:
+  push:
+    paths:
+      - '.github/workflows/one-shot-finalize-manifesto-l-postcheck.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Apply postcheck corrections
+        shell: python
+        run: |
+          from pathlib import Path
+
+          mf = Path('manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md')
+          s = mf.read_text(encoding='utf-8')
+          s = s.replace('- exponer su razonamiento verificable cuando sea posible;', '- ofrecer justificaciones, fuentes y criterios verificables cuando sea posible;')
+          s = s.replace('We need systems able to declare uncertainty, preserve provenance, identify disagreement, provide sources, recognise limits, contrast other syntheses, correct themselves and return unresolved questions to humans.', 'We need systems able to declare uncertainty, preserve provenance, identify disagreement, provide sources and verifiable justifications where possible, recognise limits, contrast other syntheses, correct themselves and return unresolved questions to humans.')
+          mf.write_text(s, encoding='utf-8')
+
+          for p in [Path('README.md'), Path('LEEME.md')]:
+              s = p.read_text(encoding='utf-8')
+              s = s.replace('50 manifiestos bilingües · I–L · dieciséis oleadas', '50 manifiestos bilingües · I–L · diecisiete oleadas')
+              s = s.replace('50 bilingual manifestos · I–L · sixteen waves', '50 bilingual manifestos · I–L · seventeen waves')
+              s = s.replace(
+                  '- Último manifiesto / Latest manifesto: [XLIX · La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™](./manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md).',
+                  '- Último manifiesto / Latest manifesto: [L · Por una Inteligencia Compartida, no Única™ / For Shared, Not Singular Intelligence™](./manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md).'
+              )
+              marker = '## Priority access\n\n'
+              direct = '* [L · For Shared, Not Singular Intelligence™](./manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)\n* [Open Synthesis L · Issue #58](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/58)\n\n'
+              if marker in s and direct not in s:
+                  s = s.replace(marker, marker + direct, 1)
+              p.write_text(s, encoding='utf-8')
+
+      - name: Validate all L surfaces and local links
+        shell: python
+        run: |
+          from pathlib import Path
+          import re, sys
+          root=Path('.').resolve()
+          files=[
+            Path('manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md'),
+            Path('manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md'),
+            Path('manifiestos/README.md'), Path('manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md'),
+            Path('propuestas/sintesis-abierta/README.md'), Path('wiki-source/Manifiestos.md'),
+            Path('README.md'), Path('LEEME.md')]
+          errors=[]
+          for p in files:
+            if not p.exists(): errors.append(f'missing {p}')
+          req={
+            files[0]:['# ES · Castellano','# EN · English','Principio de Antidogma Algorítmico™','Algorithmic Anti-Dogma Principle™','issues/58','VALIDACIÓN HUMANA','HUMAN VALIDATION','justificaciones, fuentes y criterios verificables','verifiable justifications'],
+            files[2]:['50 manifiestos bilingües · I–L · 17 oleadas','50 bilingual manifestos · I–L · 17 waves','## Decimoséptima oleada','## Seventeenth wave','issues/58'],
+            files[4]:['I–L','50 manifiestos','issues/58'],
+            files[5]:['I–L','50','L ·'],
+            files[6]:['50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md','issues/58','diecisiete oleadas','seventeen waves'],
+            files[7]:['50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md','issues/58','diecisiete oleadas','seventeen waves'],
+          }
+          for p,need in req.items():
+            txt=p.read_text(encoding='utf-8')
+            for x in need:
+              if x not in txt: errors.append(f'{p} missing {x}')
+          prev=files[1].read_text(encoding='utf-8')
+          if './50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md' not in prev: errors.append('XLIX missing L link')
+          rel=files[3].read_text(encoding='utf-8')
+          if '50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md' not in rel or 'issues/58' not in rel: errors.append('relation map missing L')
+
+          link_re=re.compile(r'\[[^\]]*\]\(([^)]+)\)')
+          for p in files:
+            txt=p.read_text(encoding='utf-8')
+            for target in link_re.findall(txt):
+              target=target.strip().split()[0].strip('<>')
+              if not target or target.startswith(('http://','https://','mailto:','#')): continue
+              base=target.split('#',1)[0]
+              if not base: continue
+              dest=(p.parent/base).resolve()
+              try: dest.relative_to(root)
+              except ValueError: errors.append(f'{p}: escapes repo {target}'); continue
+              if not dest.exists(): errors.append(f'{p}: broken local link {target}')
+          if errors:
+            print('\n'.join('ERROR: '+e for e in errors)); sys.exit(1)
+          print('POSTCHECK L OK')
+
+      - name: Commit corrections
+        run: |
+          if ! git diff --quiet; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add README.md LEEME.md manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md
+            git commit -m 'docs: finalize manifesto L postcheck corrections'
+            git push
+          fi
+
+      - name: Remove one-shots
+        run: |
+          git pull --rebase
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git rm -f .github/workflows/one-shot-finalize-manifesto-l-postcheck.yml .github/workflows/one-shot-audit-manifesto-l.yml || true
+          git commit -m 'chore: remove completed manifesto L postcheck one-shots' || true
+          git push
