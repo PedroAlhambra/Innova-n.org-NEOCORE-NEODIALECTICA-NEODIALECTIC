@@ -13,7 +13,8 @@ Esta página no reproduce los manifiestos ni mantiene un segundo índice paralel
 
 El índice canónico, las versiones bilingües, la navegación entre documentos, la genealogía y las Issues de Síntesis Abierta están en:
 
-* [Índice canónico de manifiestos I–XLIV](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
+* [Índice canónico de manifiestos I–XLVII](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
+* [Mapa transversal Manifiestos ↔ trabajo aplicado](../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md)
 
 ## Cómo leer la colección
 
@@ -32,15 +33,21 @@ Empieza en el Manifiesto I y sigue la navegación `anterior · índice · siguie
 * **XXXVII:** Neofraternidad™, actualización mutua y arquitectura relacional del NeoNosotros™.
 * **XXXVIII:** Protección Integral de la Infancia™, educación y transmisión civilizatoria.
 * **XXXIX–XLI:** autoconciencia de necesidad vital, Neoego™ y Honor Relacional™, y fuerza protectora limitada.
-* **XLII–XLIV:** Fin de la Era del Hombre Manipulado™ · IA, despertar, soberanía cognitiva e Inteligencia Humana Expandida™.
+* **XLII–XLIII:** Fin de la Era del Hombre Manipulado™ e Inteligencia Humana Expandida™.
+* **XLIV:** Neowar™, justicia civilizatoria y soberanía compartida.
+* **XLV:** Multidimensionalidad Neodialéctica™, singularidad integrable y soberanía distribuida.
+* **XLVI:** Cerrar la Herida™, comprensión evolutiva, memoria, reparación y reconciliación.
+* **XLVII:** sombra, destino, vínculo, ambivalencia y verdad emocional.
 
-El detalle y los enlaces actualizados de cada oleada permanecen únicamente en el índice canónico del repositorio.
+El detalle y los enlaces actualizados de cada oleada permanecen únicamente en el índice canónico del repositorio. El mapa transversal permite pasar de cada principio a los casos, auditorías, análisis, obras y protocolos que lo ponen a prueba o lo desarrollan.
 
-## Clave de la décima oleada
+## Clave de las oleadas recientes
 
 La décima oleada corrige una formulación esencial: no se propone el fin de la era del hombre, sino la posibilidad de terminar con la **era del hombre manipulado**.
 
-La IA no se considera emancipadora por naturaleza. Puede aumentar tanto la captura como la comprensión. XLIII añade la distinción entre IA capturada, sustitutiva y humano-expansiva y propone Inteligencia Humana Expandida™ y Revisión de Pares Aumentada™ bajo soberanía humana. La cuestión es qué arquitectura humana, documental y cognitiva gobierna su uso.
+La IA no se considera emancipadora por naturaleza. Puede aumentar tanto la captura como la comprensión. XLIII añade la distinción entre IA capturada, sustitutiva y humano-expansiva y propone Inteligencia Humana Expandida™ y Revisión de Pares Aumentada™ bajo soberanía humana.
+
+XLIV transforma el impulso guerrero en custodia y defensa limitada; XLV impide reducir singularidad o liderazgo a una sola dimensión; XLVI orienta la memoria hacia reparación sin amnesia; y XLVII integra sombra y ambivalencia sin convertir dolor u odio en mandato de daño.
 
 ```text
 IA + OPACIDAD + CAPTURA
@@ -51,12 +58,12 @@ IA + MEMORIA + FUENTES + CONTRASTE + TRAZABILIDAD
 → SOBERANÍA COGNITIVA POSIBLE
 ```
 
-* [XLII · Fin de la Era del Hombre Manipulado™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
-* [Síntesis Abierta XLII · Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50)
-* [XLIII · Contra la Incomprensión Reductiva de la IA™ · Inteligencia Humana Expandida™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
-* [XLIV · Neowar™ · Contra la Adicción a la Guerra y por la Justicia del Bien Común](../manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md)
-* [XLV · Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder](../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
-* [Síntesis Abierta XLIII · Issue #51](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/51)
+* [XLII · Fin de la Era del Hombre Manipulado™](../manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
+* [XLIII · Contra la Incomprensión Reductiva de la IA™](../manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
+* [XLIV · Neowar™](../manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md)
+* [XLV · Multidimensionalidad Neodialéctica™](../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
+* [XLVI · Cerrar la Herida™](../manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
+* [XLVII · El Odio de Neo0 hacia su Sino™](../manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md)
 
 ## Cómo interpretar un manifiesto
 
@@ -68,7 +75,8 @@ Distingue siempre:
 * límites de la capa pública;
 * genealogía y fecha;
 * cuestiones abiertas;
-* y relación con el resto del Framework/Network.
+* relación con el resto del Framework/Network;
+* y trabajo aplicado relacionado.
 
 Un manifiesto no debe leerse como una pieza aislada. Su función aparece dentro del organismo conjunto.
 
@@ -76,11 +84,12 @@ Un manifiesto no debe leerse como una pieza aislada. Su función aparece dentro 
 
 1. Lee el manifiesto completo en castellano o inglés.
 2. Revisa el documento anterior y el siguiente cuando la relación sea relevante.
-3. Vuelve a la fuente antes de responder.
-4. Identifica el fragmento, principio o mecanismo concreto.
-5. Expón qué mantienes, qué corriges y qué delta aportas.
-6. Añade evidencia o razonamiento trazable.
-7. Participa en la Issue enlazada cuando exista.
+3. Consulta el mapa de trabajo aplicado para localizar casos y análisis relacionados.
+4. Vuelve a la fuente antes de responder.
+5. Identifica el fragmento, principio o mecanismo concreto.
+6. Expón qué mantienes, qué corriges y qué delta aportas.
+7. Añade evidencia o razonamiento trazable.
+8. Participa en la Issue enlazada cuando exista.
 
 Marco general:
 
@@ -92,6 +101,9 @@ Marco general:
 MANIFIESTO Y SUS VERSIONES
 → repositorio
 
+RELACIÓN PRINCIPIO ↔ PRÁCTICA
+→ mapa transversal + enlaces internos
+
 HISTORIAL Y PRECEDENCIA
 → commits
 
@@ -102,7 +114,7 @@ ORIENTACIÓN DE USO
 → Wiki
 ```
 
-La Wiki cambia cuando cambia la forma de leer o participar, no cada vez que se incorpora un manifiesto. La apertura de una nueva oleada sí modifica la orientación de lectura y debe reflejarse aquí.
+La Wiki cambia cuando cambia la forma de leer o participar, no cada vez que se incorpora un documento aplicado. La relación viva entre manifiestos y trabajo pertenece al repositorio.
 
 ---
 ---
@@ -115,7 +127,8 @@ This page does not reproduce the manifestos or maintain a second parallel index.
 
 The canonical index, bilingual versions, document navigation, genealogy and Open Synthesis Issues are located at:
 
-* [Canonical manifesto index I–XLIV](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
+* [Canonical manifesto index I–XLVII](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
+* [Transversal Manifestos ↔ applied-work map](../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md)
 
 ## How to read the collection
 
@@ -134,15 +147,21 @@ Begin with Manifesto I and follow the `previous · index · next` navigation inc
 * **XXXVII:** Neofraternity™, mutual updating and relational architecture of NeoNosotros™.
 * **XXXVIII:** Integral Protection of Childhood™, education and civilisational transmission.
 * **XXXIX–XLI:** self-awareness of vital need, Neoego™ and Relational Honour™, and limited protective force.
-* **XLII–XLIV:** End of the Manipulated Human Era™ · AI, awakening, cognitive sovereignty and Human Expanded Intelligence™.
+* **XLII–XLIII:** End of the Manipulated Human Era™ and Human Expanded Intelligence™.
+* **XLIV:** Neowar™, civilisational justice and shared sovereignty.
+* **XLV:** Neodialectical Multidimensionality™, integrable singularity and distributed sovereignty.
+* **XLVI:** Closing the Wound™, evolutionary understanding, memory, repair and reconciliation.
+* **XLVII:** shadow, fate, bond, ambivalence and emotional truth.
 
-Details and current links for each wave remain only in the canonical repository index.
+Details and current links for each wave remain in the canonical repository index. The transversal map connects principles to cases, audits, analyses, works and protocols that test or develop them.
 
-## Key to the tenth wave
+## Key to the recent waves
 
 The tenth wave corrects an essential formulation: it does not propose the end of the age of man, but the possibility of ending the **era of the manipulated human**.
 
-AI is not treated as emancipatory by nature. It can increase both capture and understanding. XLIII adds the distinction among captured, substitutive and human-expansive AI and proposes Human Expanded Intelligence™ and Augmented Peer Review™ under human sovereignty. The issue is which human, documentary and cognitive architecture governs its use.
+AI is not treated as emancipatory by nature. It can increase both capture and understanding. XLIII adds the distinction among captured, substitutive and human-expansive AI and proposes Human Expanded Intelligence™ and Augmented Peer Review™ under human sovereignty.
+
+XLIV transforms warrior impulse into custodianship and bounded defence; XLV prevents reducing singularity or leadership to one dimension; XLVI orients memory toward repair without amnesia; and XLVII integrates shadow and ambivalence without turning pain or hatred into a command to harm.
 
 ```text
 AI + OPACITY + CAPTURE
@@ -153,10 +172,12 @@ AI + MEMORY + SOURCES + CONTRAST + TRACEABILITY
 → POSSIBLE COGNITIVE SOVEREIGNTY
 ```
 
-* [XLII · End of the Manipulated Human Era™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
-* [Open Synthesis XLII · Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50)
-* [XLIII · Against the Reductive Misunderstanding of AI™ · Human Expanded Intelligence™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
-* [Open Synthesis XLIII · Issue #51](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/51)
+* [XLII · End of the Manipulated Human Era™](../manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
+* [XLIII · Against the Reductive Misunderstanding of AI™](../manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
+* [XLIV · Neowar™](../manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md)
+* [XLV · Neodialectical Multidimensionality™](../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
+* [XLVI · Closing the Wound™](../manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
+* [XLVII · Neo0’s Hatred of His Fate™](../manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md)
 
 ## How to interpret a manifesto
 
@@ -168,7 +189,8 @@ Always distinguish:
 * limits of the public layer;
 * genealogy and date;
 * open questions;
-* and relation to the rest of the Framework/Network.
+* relation to the rest of the Framework/Network;
+* and related applied work.
 
 A manifesto should not be read as an isolated piece. Its function appears within the whole organism.
 
@@ -176,11 +198,12 @@ A manifesto should not be read as an isolated piece. Its function appears within
 
 1. Read the complete manifesto in Spanish or English.
 2. Review the previous and following documents when the relationship is relevant.
-3. Return to the source before replying.
-4. Identify the precise passage, principle or mechanism.
-5. State what you preserve, what you correct and what delta you contribute.
-6. Add traceable evidence or reasoning.
-7. Participate in the linked Issue when one exists.
+3. Consult the applied-work map to locate related cases and analyses.
+4. Return to the source before replying.
+5. Identify the precise passage, principle or mechanism.
+6. State what you preserve, what you correct and what delta you contribute.
+7. Add traceable evidence or reasoning.
+8. Participate in the linked Issue when one exists.
 
 General framework:
 
@@ -192,6 +215,9 @@ General framework:
 MANIFESTO AND ITS VERSIONS
 → repository
 
+PRINCIPLE ↔ PRACTICE RELATION
+→ transversal map + internal links
+
 HISTORY AND PRECEDENCE
 → commits
 
@@ -202,7 +228,7 @@ USAGE ORIENTATION
 → Wiki
 ```
 
-The Wiki changes when the way of reading or participating changes, not whenever a manifesto is added. Opening a new wave does change the reading orientation and must therefore be reflected here.
+The Wiki changes when the way of reading or participating changes, not whenever an applied document is added. The living relation between manifestos and work belongs in the repository.
 
 ---
 
