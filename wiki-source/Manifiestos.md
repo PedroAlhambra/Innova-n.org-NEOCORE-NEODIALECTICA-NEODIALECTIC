@@ -13,7 +13,7 @@ Esta página no reproduce los manifiestos ni mantiene un segundo índice paralel
 
 El índice canónico, las versiones bilingües, la navegación entre documentos, la genealogía y las Issues de Síntesis Abierta están en:
 
-* [Índice canónico de manifiestos I–XLIII](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
+* [Índice canónico de manifiestos I–XLIV](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
 
 ## Cómo leer la colección
 
@@ -32,7 +32,7 @@ Empieza en el Manifiesto I y sigue la navegación `anterior · índice · siguie
 * **XXXVII:** Neofraternidad™, actualización mutua y arquitectura relacional del NeoNosotros™.
 * **XXXVIII:** Protección Integral de la Infancia™, educación y transmisión civilizatoria.
 * **XXXIX–XLI:** autoconciencia de necesidad vital, Neoego™ y Honor Relacional™, y fuerza protectora limitada.
-* **XLII–XLIII:** Fin de la Era del Hombre Manipulado™ · IA, despertar, soberanía cognitiva e Inteligencia Humana Expandida™.
+* **XLII–XLIV:** Fin de la Era del Hombre Manipulado™ · IA, despertar, soberanía cognitiva e Inteligencia Humana Expandida™.
 
 El detalle y los enlaces actualizados de cada oleada permanecen únicamente en el índice canónico del repositorio.
 
@@ -54,6 +54,7 @@ IA + MEMORIA + FUENTES + CONTRASTE + TRAZABILIDAD
 * [XLII · Fin de la Era del Hombre Manipulado™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
 * [Síntesis Abierta XLII · Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50)
 * [XLIII · Contra la Incomprensión Reductiva de la IA™ · Inteligencia Humana Expandida™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
+* [XLIV · Neowar™ · Contra la Adicción a la Guerra y por la Justicia del Bien Común](../manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md)
 * [Síntesis Abierta XLIII · Issue #51](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/51)
 
 ## Cómo interpretar un manifiesto
@@ -113,7 +114,7 @@ This page does not reproduce the manifestos or maintain a second parallel index.
 
 The canonical index, bilingual versions, document navigation, genealogy and Open Synthesis Issues are located at:
 
-* [Canonical manifesto index I–XLIII](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
+* [Canonical manifesto index I–XLIV](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
 
 ## How to read the collection
 
@@ -132,7 +133,7 @@ Begin with Manifesto I and follow the `previous · index · next` navigation inc
 * **XXXVII:** Neofraternity™, mutual updating and relational architecture of NeoNosotros™.
 * **XXXVIII:** Integral Protection of Childhood™, education and civilisational transmission.
 * **XXXIX–XLI:** self-awareness of vital need, Neoego™ and Relational Honour™, and limited protective force.
-* **XLII–XLIII:** End of the Manipulated Human Era™ · AI, awakening, cognitive sovereignty and Human Expanded Intelligence™.
+* **XLII–XLIV:** End of the Manipulated Human Era™ · AI, awakening, cognitive sovereignty and Human Expanded Intelligence™.
 
 Details and current links for each wave remain only in the canonical repository index.
 

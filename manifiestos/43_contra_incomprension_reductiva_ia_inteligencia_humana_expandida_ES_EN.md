@@ -401,7 +401,7 @@ Se solicitan aportes sobre:
 
 ## Navegación
 
-← [XLII · Fin de la Era del Hombre Manipulado™](./42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) · [Índice](./README.md) · [I · Neo0™ · Soberanía de Guía Neodialéctica](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XLII · Fin de la Era del Hombre Manipulado™](./42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) · [Índice](./README.md) · [XLIV · Neowar™](./44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md) →
 
 ---
 
@@ -700,7 +700,7 @@ Contributions are requested on AI as cognitive augmentation; limits and risks of
 
 ## Navigation
 
-← [XLII · End of the Manipulated Human Era™](./42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) · [Index](./README.md) · [I · Neo0™ · Neodialectical Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XLII · End of the Manipulated Human Era™](./42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) · [Index](./README.md) · [XLIV · Neowar™](./44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md) →
 
 ---
 
