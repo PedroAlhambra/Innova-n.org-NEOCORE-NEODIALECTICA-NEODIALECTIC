@@ -95,7 +95,6 @@ jobs:
                   path.write_text(new_text, encoding='utf-8')
                   changed.append(path.relative_to(root).as_posix())
 
-          # Postcheck every README/LEEME target.
           failures = []
           for path in targets:
               text = path.read_text(encoding='utf-8')
@@ -186,3 +185,5 @@ jobs:
             echo 'README synchronization succeeded but one-shot cleanup could not be published.' >&2
             exit 1
           fi
+
+# retrigger after workflow existed on main
