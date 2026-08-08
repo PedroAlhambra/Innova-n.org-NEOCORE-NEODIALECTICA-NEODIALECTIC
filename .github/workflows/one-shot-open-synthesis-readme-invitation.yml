@@ -1,0 +1,188 @@
+name: one-shot-open-synthesis-readme-invitation
+
+on:
+  push:
+    paths:
+      - '.github/workflows/one-shot-open-synthesis-readme-invitation.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: one-shot-open-synthesis-readme-invitation-main
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Prepare canonical insertion script
+        shell: bash
+        run: |
+          cat > /tmp/sync_open_synthesis_invitation.py <<'PY'
+          from pathlib import Path
+          import os
+          import re
+          import sys
+
+          root = Path('.').resolve()
+          start = '<!-- NEO_OPEN_SYNTHESIS_INVITATION_START -->'
+          end = '<!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->'
+
+          manifesto = root / 'manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md'
+          protocol = root / 'propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md'
+          synthesis_index = root / 'propuestas/sintesis-abierta/README.md'
+          issue_url = 'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/56'
+
+          targets = sorted({p for p in root.rglob('README*.md') if '.git' not in p.parts})
+          leeme = root / 'LEEME.md'
+          if leeme.exists():
+              targets.append(leeme)
+          targets = sorted(set(targets))
+
+          if not targets:
+              raise SystemExit('No README targets found')
+
+          changed = []
+          for path in targets:
+              text = path.read_text(encoding='utf-8')
+              base = path.parent
+
+              def rel(target: Path) -> str:
+                  return os.path.relpath(target, base).replace(os.sep, '/')
+
+              block = f'''{start}
+
+## Participa en la Síntesis Abierta / Join the Open Synthesis
+
+**Este marco no pide adhesión ciega.** La Síntesis Abierta está abierta a cualquier persona que quiera aportar una **adhesión razonada o parcial, crítica, objeción, contraejemplo, fuente, experiencia, verificación, traducción, implementación o propuesta de delta**. Las aportaciones deben ser trazables, discutibles y revisables, y distinguir hechos, experiencias, inferencias, hipótesis y propuestas.
+
+**Puerta de entrada recomendada:** [XLVIII · La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo]({rel(manifesto)}) · [Síntesis Abierta XLVIII · Issue #56]({issue_url})  
+**Cómo aportar:** [Protocolo de aporte a la Síntesis Abierta]({rel(protocol)})  
+**Todas las síntesis abiertas:** [Índice operativo de Síntesis Abierta]({rel(synthesis_index)})
+
+**This framework does not ask for blind endorsement.** Open Synthesis is open to anyone willing to contribute a **reasoned or partial endorsement, criticism, objection, counterexample, source, experience, verification, translation, implementation or proposed delta**. Contributions must remain traceable, debatable and revisable, and distinguish facts, experiences, inferences, hypotheses and proposals.
+
+**Recommended entry point:** [XLVIII · The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine]({rel(manifesto)}) · [Open Synthesis XLVIII · Issue #56]({issue_url})  
+**How to contribute:** [Open Synthesis contribution protocol]({rel(protocol)})  
+**All open syntheses:** [Open Synthesis operational index]({rel(synthesis_index)})
+
+{end}'''
+
+              if start in text and end in text:
+                  pattern = re.compile(re.escape(start) + r'.*?' + re.escape(end), re.S)
+                  new_text = pattern.sub(block, text, count=1)
+              elif '<!-- NEO_ALL_MANIFESTOS_END -->' in text:
+                  anchor = '<!-- NEO_ALL_MANIFESTOS_END -->'
+                  new_text = text.replace(anchor, anchor + '\n\n' + block, 1)
+              elif '<!-- MANIFESTOS_CURRENT_END -->' in text:
+                  anchor = '<!-- MANIFESTOS_CURRENT_END -->'
+                  new_text = text.replace(anchor, anchor + '\n\n' + block, 1)
+              else:
+                  lines = text.splitlines()
+                  insert_at = 1 if lines and lines[0].startswith('#') else 0
+                  lines[insert_at:insert_at] = ['', block, '']
+                  new_text = '\n'.join(lines)
+                  if text.endswith('\n'):
+                      new_text += '\n'
+
+              if new_text != text:
+                  path.write_text(new_text, encoding='utf-8')
+                  changed.append(path.relative_to(root).as_posix())
+
+          # Postcheck every README/LEEME target.
+          failures = []
+          for path in targets:
+              text = path.read_text(encoding='utf-8')
+              relpath = path.relative_to(root).as_posix()
+              if text.count(start) != 1 or text.count(end) != 1:
+                  failures.append(f'{relpath}: marker count invalid')
+              if 'Issue #56' not in text:
+                  failures.append(f'{relpath}: Issue #56 missing')
+              if 'APORTAR_A_LA_SINTESIS_ES_EN.md' not in text:
+                  failures.append(f'{relpath}: contribution protocol missing')
+              if '48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md' not in text:
+                  failures.append(f'{relpath}: XLVIII entry point missing')
+
+          print(f'README_TARGETS={len(targets)}')
+          print(f'README_CHANGED={len(changed)}')
+          for item in changed:
+              print('CHANGED', item)
+
+          if failures:
+              print('POSTCHECK FAIL')
+              for failure in failures:
+                  print(failure)
+              sys.exit(1)
+
+          print(f'POSTCHECK OK: Open Synthesis invitation present in {len(targets)}/{len(targets)} README/LEEME files')
+          PY
+
+      - name: Apply, validate and push safely
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+          success=0
+          for attempt in 1 2 3; do
+            echo "SYNC ATTEMPT $attempt"
+            git fetch origin main
+            git reset --hard origin/main
+            python /tmp/sync_open_synthesis_invitation.py
+            git add -A
+
+            if git diff --cached --quiet; then
+              echo 'No content changes required.'
+              success=1
+              break
+            fi
+
+            git commit -m 'docs: add Open Synthesis invitation to every README'
+            if git push origin HEAD:main; then
+              success=1
+              break
+            fi
+            echo 'Push race detected; retrying from latest origin/main.'
+          done
+
+          if [ "$success" -ne 1 ]; then
+            echo 'Unable to publish README synchronization after three attempts.' >&2
+            exit 1
+          fi
+
+      - name: Remove this one-shot after successful synchronization
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+          success=0
+          for attempt in 1 2 3; do
+            echo "CLEANUP ATTEMPT $attempt"
+            git fetch origin main
+            git reset --hard origin/main
+            if [ ! -f .github/workflows/one-shot-open-synthesis-readme-invitation.yml ]; then
+              success=1
+              break
+            fi
+            rm .github/workflows/one-shot-open-synthesis-readme-invitation.yml
+            git add -A
+            git commit -m 'chore: remove Open Synthesis README one-shot'
+            if git push origin HEAD:main; then
+              success=1
+              break
+            fi
+          done
+
+          if [ "$success" -ne 1 ]; then
+            echo 'README synchronization succeeded but one-shot cleanup could not be published.' >&2
+            exit 1
+          fi
