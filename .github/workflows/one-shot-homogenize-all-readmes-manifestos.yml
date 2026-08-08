@@ -135,3 +135,5 @@ jobs:
           git rm .github/workflows/one-shot-homogenize-all-readmes-manifestos.yml
           git commit -m 'chore: remove completed README manifesto homogenizer'
           git push
+
+# trigger: 2026-08-08T14:57+02:00
