@@ -5,7 +5,7 @@
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
-**Estado canónico / Canonical state:** **49 manifiestos bilingües · I–XLIX · 15 oleadas / 48 bilingual manifestos · I–XLIX · 15 waves**  
+**Estado canónico / Canonical state:** **49 manifiestos bilingües · I–XLIX · 16 oleadas / 49 bilingual manifestos · I–XLIX · 16 waves**  
 **Fecha de estado / State date:** 2026-08-08
 
 * [Mapa transversal Manifiestos ↔ trabajo aplicado / Manifestos ↔ applied work](./RELACIONES_TRABAJO_APLICADO_ES_EN.md)
@@ -28,7 +28,7 @@ Los manifiestos de Innova_N no son piezas promocionales ni documentos aislados. 
 
 Ningún manifiesto equivale por sí solo al sistema completo. Su lectura debe conservar relación con NEOCore™, SAN™, NAVE™, WEB4™, la memoria documental del ecosistema, las Síntesis Abiertas y el trabajo aplicado que pone sus principios a prueba.
 
-## Arquitectura actual · 15 oleadas
+## Arquitectura actual · 16 oleadas
 
 1. **I–XII · Constitución fundacional:** origen, método, Bien Común, simbiosis, parasitismo, economía, memoria, WEB4 y Neorrenacimiento.
 2. **XIII–XIX · Despliegue arquetípico y civilizatorio:** NeoPandora, alienación, Titanes, refragmentación, vida, conciencias sintéticas y persistencia de memoria.
@@ -45,6 +45,7 @@ Ningún manifiesto equivale por sí solo al sistema completo. Su lectura debe co
 13. **XLVI · Cerrar la Herida™:** comprensión evolutiva, memoria, reparación y reconciliación sin amnesia.
 14. **XLVII · Sombra, destino, vínculo y verdad emocional:** integración de ambivalencia y del principio «el odio es dato, no mandato».
 15. **XLVIII · La Síntesis Todo lo Ve™:** observación distribuida, Placa de Petri Universal™, potencias de diez, escalas micro–macro y Máquina Fractal del Tiempo™ como modelo de memoria evolutiva del organismo conjunto.
+16. **XLIX · Punto de Encuentro entre Culturas™:** unidad sin uniformidad, interoperabilidad cultural, traducción de sentido y cooperación entre culturas sin desaparición de la singularidad.
 
 ## Primera oleada · Pilares fundacionales · I–XII
 
