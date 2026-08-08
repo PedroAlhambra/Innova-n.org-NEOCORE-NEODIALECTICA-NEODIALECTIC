@@ -94,7 +94,7 @@ jobs:
           errors=[]
           for p in readmes:
               s=p.read_text(encoding='utf-8')
-              if s.count(start)!=1 or s.count(end)!=1: errors.append(f'{p}: block count') ; continue
+              if s.count(start)!=1 or s.count(end)!=1: errors.append(f'{p}: block count'); continue
               m=br.search(s).group(0)
               for roman,_,_,_ in entries:
                   if m.count(f'- **{roman}** · ')!=1: errors.append(f'{p}: missing {roman}')
@@ -122,3 +122,5 @@ jobs:
           git rm -f .github/workflows/one-shot-readmes-v3.yml .github/workflows/one-shot-homogenize-all-readmes-manifestos.yml .github/workflows/one-shot-repair-spanish-index-xlix.yml || true
           git commit -m 'chore: remove completed README homogenization one-shots' || true
           git push
+
+# trigger-2
