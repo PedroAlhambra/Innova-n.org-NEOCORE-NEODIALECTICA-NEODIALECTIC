@@ -1,0 +1,26 @@
+name: one-shot-readmes-v4
+on: [push]
+permissions:
+  contents: write
+jobs:
+  homogenize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Homogenize and validate
+        run: python .github/scripts/homogenize_readmes.py
+      - name: Commit changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m 'docs: homogenize all READMEs with complete I-L manifesto network'
+          git push
+      - name: Cleanup one-shots
+        run: |
+          git pull --rebase
+          git rm -f .github/workflows/one-shot-readmes-v4.yml .github/workflows/one-shot-readmes-v3.yml .github/workflows/one-shot-homogenize-all-readmes-manifestos.yml .github/workflows/one-shot-repair-spanish-index-xlix.yml .github/scripts/homogenize_readmes.py || true
+          git commit -m 'chore: remove completed README homogenization one-shots' || true
+          git push
