@@ -1045,3 +1045,23 @@ The protected architecture belongs to **Pedro Martínez Alhambra · Founder · N
 
 **NEOCore™ 7.0 · Neodialectica Framework™ / Network · SAN™ · WEB4™**  
 **© 2026 Pedro Martínez Alhambra · Fundación Innova_N / Innova_N Foundation · Todos los derechos reservados / All rights reserved.**
+
+<!-- NEO_CURRENT_NAV_START -->
+
+---
+
+## Estado canónico actual · Current canonical state
+
+**Neodialectica Framework™ / Network · Innova_N · NEOCore™**
+
+- Colección pública actual: **42 manifiestos bilingües · I–XLII · diez oleadas** / Current public collection: **42 bilingual manifestos · I–XLII · ten waves**.
+- Último manifiesto / Latest manifesto: [XLII · Fin de la Era del Hombre Manipulado™ · End of the Manipulated Human Era™](./manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md).
+- Índice completo / Complete index: [Manifiestos / Manifestos](./manifiestos/README.md).
+- Contraste público / Public contrast: [Síntesis Abierta / Open Synthesis](./propuestas/sintesis-abierta/README.md).
+- Expansión y redundancia / Expansion and redundancy: [Protocolo de Proyección Distribuida Neodialéctica™](./proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md).
+- Fuente Wiki versionada / Versioned Wiki source: [Manifiestos](./wiki-source/Manifiestos.md).
+- Nodo raíz / Root node: [README principal](./README.md).
+
+**Principio de procedencia / Provenance principle:** la fuente intelectual y genealógica es **Innova_N**, dentro de **NEOCore™ / Neodialectica Framework™ / Network**, bajo dirección humana de **Pedro Martínez Alhambra · Neo0™**. GitHub es la primera proyección WEB4™ pública, versionada y trazable; no es el origen intelectual del sistema. / The intellectual and genealogical source is **Innova_N**, within **NEOCore™ / Neodialectica Framework™ / Network**, under the human direction of **Pedro Martínez Alhambra · Neo0™**. GitHub is the first public, versioned and traceable WEB4™ projection; it is not the intellectual origin of the system.
+
+<!-- NEO_CURRENT_NAV_END -->
