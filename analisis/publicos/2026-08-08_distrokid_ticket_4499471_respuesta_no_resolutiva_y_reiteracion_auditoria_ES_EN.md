@@ -1,5 +1,5 @@
-# DistroKid · Ticket 4499471 · respuesta no resolutiva y reiteración de auditoría
-# DistroKid · Ticket 4499471 · non-substantive reply and renewed audit request
+# DistroKid · Ticket 4499471 · respuesta no resolutiva, encuesta prematura y reiteración de auditoría
+# DistroKid · Ticket 4499471 · non-substantive reply, premature survey and renewed audit request
 
 **Fecha / Date:** 2026-08-08  
 **Autor / Author:** Pedro Martínez Alhambra  
@@ -49,7 +49,7 @@ La respuesta recibida no identifica:
 6. el resultado de una auditoría completa de enrutamiento;
 7. la relación material entre este ticket y los expedientes `2901165` y `2941949`.
 
-## 4. Respuesta enviada
+## 4. Primera reiteración enviada
 
 El mismo 8 de agosto se contestó dentro del hilo, dejando expresamente indicado que el problema no son las estadísticas estimadas y solicitando una revisión humana de los datos subyacentes.
 
@@ -67,7 +67,42 @@ Se solicitaron siete respuestas punto por punto:
 
 También se pidió mantener abierto `4499471` hasta que esas cuestiones reciban respuesta sustantiva.
 
-## 5. Dictamen provisional
+## 5. Encuesta de satisfacción enviada antes de resolver el fondo
+
+Posteriormente, DistroKid remitió un correo titulado **“Request [Earnings/Withdrawals Issue] Share your feedback with us!”** invitando a valorar la experiencia de soporte.
+
+El propio mensaje indica que, si el problema todavía no está resuelto, debe comunicarse antes de completar la encuesta. En el recordatorio del caso vuelve a reproducirse la misma explicación sobre `Estimated Daily Stats`, API y fluctuaciones temporales.
+
+Por tanto, la secuencia observada es:
+
+```text
+RECLAMACIÓN DE REGALÍAS HISTÓRICAS Y ENRUTAMIENTO
+→ RESPUESTA SOBRE ESTADÍSTICAS ESTIMADAS
+→ SIN AUDITORÍA SOLICITADA
+→ ENCUESTA DE SATISFACCIÓN
+```
+
+La encuesta no prueba por sí sola que DistroKid haya cerrado formalmente el ticket, pero constituye una señal operativa de cierre o transición de soporte antes de que exista respuesta sustantiva al objeto reclamado.
+
+## 6. Segunda reiteración · caso expresamente declarado no resuelto
+
+El 8 de agosto de 2026 se respondió de nuevo al hilo señalando expresamente que **el caso no está resuelto** y que la explicación proporcionada se refiere a estadísticas estimadas, no a los pagos históricos reclamados ni al enrutamiento de regalías.
+
+**Gmail message id del envío / Sent Gmail message id:** `19fe2a1c7db4b6a2`
+
+La nueva respuesta solicita revisión humana y trazabilidad sobre:
+
+- ISRC y demás identificadores de los lanzamientos afectados;
+- correspondencia entre lanzamientos, perfiles y cuenta;
+- importes efectivamente recibidos de Spotify;
+- importes efectivamente atribuidos y abonados;
+- posibles registros retenidos, no conciliados o dirigidos a otra asociación;
+- reconstrucción completa del routing desde finales de 2024;
+- confirmación expresa de que el expediente sigue abierto y referencia operativa del caso.
+
+No se considera atendida la reclamación mientras esas cuestiones materiales permanezcan sin respuesta.
+
+## 7. Dictamen actualizado
 
 ```text
 RESPUESTA HUMANA
@@ -85,20 +120,26 @@ AUDITORÍA DE REGALÍAS
 AUDITORÍA DE ENRUTAMIENTO
 → no aportada
 
+ENCUESTA DE SATISFACCIÓN ANTES DE RESOLUCIÓN MATERIAL
+→ sí
+
 PRUEBA DE DESVÍO O APROPIACIÓN
 → no establecida
 
-ESTADO
-→ abierto
+ESTADO DOCUMENTAL DEL CASO
+→ abierto y expresamente impugnado como no resuelto
 ```
 
 No se transforma una ausencia de respuesta en prueba de fraude. El expediente continúa exigiendo trazabilidad precisamente para distinguir entre retraso, error de metadatos, asociación incorrecta, ausencia legítima de remuneración para determinadas reproducciones, fallo de conciliación u otras causas posibles.
 
-## 6. Relación documental
+La cuestión central ya no es únicamente económica: también existe un problema de **calidad de escalado del soporte** cuando una reclamación concreta recibe respuestas que describen otro fenómeno y el flujo deriva hacia una encuesta sin aportar la auditoría solicitada.
+
+## 8. Relación documental
 
 - [Cierre circular, ausencia de auditoría y nuevo escalado · 2026-08-07](./2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md)
 - [Actualización de trazabilidad Spotify–DistroKid · 2026-08-06](./2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md)
 - [Auditoría DistroKid–Spotify · actualización 2026-08-04](../2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md)
+- [Addendum sobre retirada/reaparición de catálogo en Apple Music · 2026-08-08](./2026-08-08_addendum_distrokid_catalogo_album_removed_added_apple_music_ES_EN.md)
 
 ---
 
@@ -122,7 +163,7 @@ The number of streams does not by itself establish a specific amount owed or pro
 
 The response does not identify the Spotify royalty reports received, amounts attributed, basis for any zero amount, identifier/account mappings, unmatched or differently routed records, the result of a royalty-routing audit, or the material relation to the two previous tickets.
 
-## 4. Reply sent
+## 4. First renewed request
 
 A reply was sent in the same thread on 8 August 2026 requesting a human review of the underlying royalty records rather than another explanation of estimated statistics.
 
@@ -130,7 +171,30 @@ A reply was sent in the same thread on 8 August 2026 requesting a human review o
 
 The message requested seven point-by-point answers and asked DistroKid to keep ticket `4499471` open until they are substantively addressed.
 
-## 5. Provisional finding
+## 5. Satisfaction survey before substantive resolution
+
+DistroKid subsequently sent a message titled **“Request [Earnings/Withdrawals Issue] Share your feedback with us!”** inviting a support rating. The message itself says that unresolved issues should be reported before completing the survey, while its case reminder again reproduces the Estimated Daily Stats/API explanation.
+
+Observed sequence:
+
+```text
+HISTORICAL ROYALTY AND ROUTING CLAIM
+→ ESTIMATED-STATS RESPONSE
+→ REQUESTED AUDIT NOT PROVIDED
+→ SATISFACTION SURVEY
+```
+
+The survey does not by itself prove that the ticket was formally closed, but it is an operational sign of closure or support transition before the substantive object of the claim has been answered.
+
+## 6. Second renewed request · case expressly stated as unresolved
+
+A further reply was sent on 8 August 2026 stating explicitly that **the case is not resolved** and that the previous explanation concerns estimated statistics rather than the historical payments and royalty routing under dispute.
+
+**Sent Gmail message id:** `19fe2a1c7db4b6a2`
+
+The reply requests a human review of ISRC and release mappings, Spotify amounts received, amounts attributed and paid, possible unmatched/held/misassociated records, full routing reconstruction since late 2024, and explicit confirmation that the case remains open with an operational reference.
+
+## 7. Updated finding
 
 ```text
 HUMAN REPLY
@@ -148,20 +212,26 @@ ROYALTY AUDIT
 ROUTING AUDIT
 → not provided
 
+SATISFACTION SURVEY BEFORE MATERIAL RESOLUTION
+→ yes
+
 PROOF OF MISROUTING OR APPROPRIATION
 → not established
 
-STATUS
-→ open
+DOCUMENTARY CASE STATUS
+→ open and expressly challenged as unresolved
 ```
 
 The lack of a substantive answer is not treated as proof of fraud. Traceability remains necessary to distinguish among delay, metadata error, incorrect association, legitimately non-remunerated streams, reconciliation failure or other possible causes.
 
-## 6. Documentary relation
+The case now also raises a support-escalation quality issue: a concrete royalty-routing claim has repeatedly received explanations about a different phenomenon and then moved toward a satisfaction survey without the requested audit being supplied.
+
+## 8. Documentary relation
 
 - [Circular closure, missing audit and renewed escalation · 2026-08-07](./2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md)
 - [Spotify–DistroKid traceability update · 2026-08-06](./2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md)
 - [DistroKid–Spotify audit update · 2026-08-04](../2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md)
+- [Addendum on catalogue removal/reappearance in Apple Music · 2026-08-08](./2026-08-08_addendum_distrokid_catalogo_album_removed_added_apple_music_ES_EN.md)
 
 ---
 
