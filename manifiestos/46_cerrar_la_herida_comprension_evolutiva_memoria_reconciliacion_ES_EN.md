@@ -5,7 +5,7 @@
 ## Thirteenth wave · Understanding origins, repair and reconciliation
 
 **Manifiesto / Manifesto:** XLVI  
-**Versión / Version:** 1.0  
+**Versión / Version:** 1.1  
 **Estado / Status:** Público · decimotercera oleada · comprensión-evolutiva-memoria-reconciliación · abierto a revisión trazable / Public · thirteenth wave · evolutionary-understanding-memory-reconciliation · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-08  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico dentro de la Filosofía Arquetípica Neodialéctica™.  
@@ -195,7 +195,7 @@ La tortura puede dejar de aceptarse como espectáculo.
 
 La dominación de la mujer puede dejar de entenderse como orden natural.
 
-La infancia puede dejar de considerarse propiedad del adulto.
+La infancia puede dejar de ser objeto de tutela invasiva por parte del Estado: su protección y crianza corresponden primariamente a sus padres o tutores responsables, mientras las instituciones deben garantizar derechos, seguridad y apoyo sin sustituir indebidamente ese vínculo.
 
 La guerra puede dejar de ser gloria.
 
@@ -596,7 +596,7 @@ Biology changes slowly.
 
 Culture can transform in decades what seemed normal for centuries.
 
-Slavery can cease to be regarded as legitimate. Torture can cease to be accepted as spectacle. The domination of women can cease to be understood as natural order. Childhood can cease to be treated as adult property. War can cease to be glory. Difference can cease to be threat.
+Slavery can cease to be regarded as legitimate. Torture can cease to be accepted as spectacle. The domination of women can cease to be understood as natural order. Childhood can cease to be subjected to invasive state guardianship: its protection and upbringing belong primarily to responsible parents or guardians, while institutions should guarantee rights, safety and support without improperly replacing that bond. War can cease to be glory. Difference can cease to be threat.
 
 Civilisational evolution consists precisely in **recognising inherited mechanisms and consciously deciding which should no longer govern us**.
 
