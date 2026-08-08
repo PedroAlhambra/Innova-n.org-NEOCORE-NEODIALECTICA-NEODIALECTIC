@@ -34,13 +34,14 @@ jobs:
         run: |
           from pathlib import Path
           import re,sys
-          root=Path('.').resolve(); files=[Path('manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md'),Path('manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md'),Path('manifiestos/README.md'),Path('manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md'),Path('propuestas/sintesis-abierta/README.md'),Path('wiki-source/Manifiestos.md'),Path('README.md'),Path('LEEME.md')]; errors=[]
-          checks=[(files[0],['# ES · Castellano','# EN · English','Principio de Antidogma Algorítmico™','Algorithmic Anti-Dogma Principle™','issues/58','justificaciones, fuentes y criterios verificables','verifiable justifications']),(files[1],['./32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md','./50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md']),(files[2],['50 manifiestos bilingües · I–L · 17 oleadas','50 bilingual manifestos · I–L · 17 waves','## Decimoséptima oleada','## Seventeenth wave','issues/58']),(files[4],['I–L','50 manifiestos','issues/58']),(files[5],['I–L','50','L ·']),(files[6],['diecisiete oleadas','seventeen waves','50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md','issues/58']),(files[7],['diecisiete oleadas','seventeen waves','50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md','issues/58'])]
+          files=[Path('manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md'),Path('manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md'),Path('manifiestos/README.md'),Path('manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md'),Path('propuestas/sintesis-abierta/README.md'),Path('wiki-source/Manifiestos.md'),Path('README.md'),Path('LEEME.md')]; errors=[]
+          checks=[(files[0],['# ES · Castellano','# EN · English','Principio de Antidogma Algorítmico™','Algorithmic Anti-Dogma Principle™','issues/58','justificaciones, fuentes y criterios verificables','verifiable justifications']),(files[1],['./32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md','./50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md']),(files[2],['50 manifiestos bilingües · I–L · 17 oleadas','50 bilingual manifestos · I–L · 17 waves','## Decimoséptima oleada','## Seventeenth wave','issues/58']),(files[4],['I–L','50 manifiestos','issues/58']),(files[5],['I–L','50','L ·']),(files[6],['diecisiete oleadas','seventeen waves','50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md','issues/58']),(files[7],['50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md','issues/58','I–L'])]
           for p,need in checks:
             t=p.read_text(encoding='utf-8')
             for x in need:
               if x not in t: errors.append(f'{p} missing {x}')
-          if '50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md' not in files[3].read_text(encoding='utf-8') or 'issues/58' not in files[3].read_text(encoding='utf-8'): errors.append('relation map missing L')
+          rel=files[3].read_text(encoding='utf-8')
+          if '50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md' not in rel or 'issues/58' not in rel: errors.append('relation map missing L')
           link_re=re.compile(r'\[[^\]]*\]\(([^)]+)\)')
           for p in files:
             for target in link_re.findall(p.read_text(encoding='utf-8')):
