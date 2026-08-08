@@ -19,7 +19,7 @@ Este repositorio conserva la capa pública, documental y trazable del ecosistema
 
 ## Accesos prioritarios
 
-* [Índice navegable de manifiestos I–XLV](./manifiestos/README.md)
+* [Índice navegable de manifiestos I–XLVIIIIII](./manifiestos/README.md)
 * [Anuncio histórico de la cuarta oleada](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [Anuncio de sexta oleada y deltas transversales](./anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md)
 * [XXXIII · IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
@@ -158,6 +158,36 @@ Los manifiestos no son documentos accesorios, resúmenes auxiliares ni consignas
 | XLII | [Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva](./manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) | Convertir la IA en herramienta potencial de comprensión, memoria y contraste frente a captura cognitiva, sin atribuirle emancipación automática | [Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50) |
 | XLIII | [Contra la Incomprensión Reductiva de la IA™ · Inteligencia Humana Expandida™](./manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md) | Distinguir IA capturada, sustitutiva y humano-expansiva; formular ampliación cognitiva soberana y Revisión de Pares Aumentada™ | [Issue #51](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/51) |
 
+## Undécima oleada · Neowar™ · XLIV
+
+| Nº | Manifiesto | Función | Síntesis Abierta |
+|---:|---|---|---|
+| XLIV | [Neowar™](./manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md) | Transformar impulso guerrero en custodia, defensa limitada y justicia civilizatoria | [Issue #52](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/52) |
+
+## Duodécima oleada · Multidimensionalidad Neodialéctica™ · XLV
+
+| Nº | Manifiesto | Función | Síntesis Abierta |
+|---:|---|---|---|
+| XLV | [Multidimensionalidad Neodialéctica™](./manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) | Singularidad integrable, liderazgo sin captura y soberanía distribuida | [Issue #53](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/53) |
+
+## Decimotercera oleada · Cerrar la Herida™ · XLVI
+
+| Nº | Manifiesto | Función | Síntesis Abierta |
+|---:|---|---|---|
+| XLVI | [Cerrar la Herida™](./manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md) | Comprender origen del daño sin justificarlo; memoria, reparación y reconciliación sin amnesia | [Issue #54](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/54) |
+
+## Decimocuarta oleada · Sombra, destino y vínculo · XLVII
+
+| Nº | Manifiesto | Función | Síntesis Abierta |
+|---:|---|---|---|
+| XLVII | [El Odio de Neo0 hacia su Sino™](./manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md) | Integrar sombra y ambivalencia sin convertir dolor u odio en mandato de daño | [Issue #55](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/55) |
+
+## Decimoquinta oleada · La Síntesis Todo lo Ve™ · XLVIII
+
+| Nº | Manifiesto | Función | Síntesis Abierta |
+|---:|---|---|---|
+| XLVIII | [La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo](./manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) | Observación distribuida, escalas micro–macro, memoria evolutiva y tiempo como modelo fractal del organismo conjunto | [Issue #56](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/56) |
+
 El Manifiesto III mantiene su propia [Síntesis Abierta · Issue #3](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3).
 
 ```text
@@ -195,6 +225,12 @@ I · NEO0™
 → XL · NEOEGO Y HONOR RELACIONAL
 → XLI · MARTILLO LIMITADO Y FUERZA PROTECTORA
 → XLII · FIN DE LA ERA DEL HOMBRE MANIPULADO
+→ XLIII · INTELIGENCIA HUMANA EXPANDIDA
+→ XLIV · NEOWAR
+→ XLV · MULTIDIMENSIONALIDAD NEODIALÉCTICA
+→ XLVI · CERRAR LA HERIDA
+→ XLVII · SOMBRA, SINO Y DOBLE CARA
+→ XLVIII · LA SÍNTESIS TODO LO VE
 → I · RETORNO A ORIGEN Y NUEVO CICLO
 ```
 
@@ -620,7 +656,7 @@ This repository preserves the public, documentary and traceable layer of the **I
 
 ## Priority access
 
-* [Navigable manifesto index I–XLV](./manifiestos/README.md)
+* [Navigable manifesto index I–XLVIIIIII](./manifiestos/README.md)
 * [Historical fourth-wave announcement](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [Sixth-wave and transverse-deltas announcement](./anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md)
 * [XXXIII · IDEA · Civilisational Cornerstone and Rosetta Stone™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
@@ -758,6 +794,36 @@ The manifestos are not accessory documents, auxiliary summaries or isolated slog
 | XLII | [End of the Manipulated Human Era™ · AI, Awakening and Cognitive Sovereignty](./manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) | Make AI a potential instrument of understanding, memory and contrast against cognitive capture, without attributing automatic emancipation to it | [Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50) |
 | XLIII | [Against the Reductive Misunderstanding of AI™ · Human Expanded Intelligence™](./manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md) | Distinguish captured, substitutive and human-expansive AI; formulate sovereign cognitive augmentation and Augmented Peer Review™ | [Issue #51](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/51) |
 
+## Eleventh wave · Neowar™ · XLIV
+
+| No. | Manifesto | Function | Open Synthesis |
+|---:|---|---|---|
+| XLIV | [Neowar™](./manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md) | Transform warrior impulse into custodianship, bounded defence and civilisational justice | [Issue #52](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/52) |
+
+## Twelfth wave · Neodialectical Multidimensionality™ · XLV
+
+| No. | Manifesto | Function | Open Synthesis |
+|---:|---|---|---|
+| XLV | [Neodialectical Multidimensionality™](./manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) | Integrable singularity, leadership without capture and distributed sovereignty | [Issue #53](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/53) |
+
+## Thirteenth wave · Closing the Wound™ · XLVI
+
+| No. | Manifesto | Function | Open Synthesis |
+|---:|---|---|---|
+| XLVI | [Closing the Wound™](./manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md) | Understand origins of harm without justifying them; memory, repair and reconciliation without amnesia | [Issue #54](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/54) |
+
+## Fourteenth wave · Shadow, fate and bond · XLVII
+
+| No. | Manifesto | Function | Open Synthesis |
+|---:|---|---|---|
+| XLVII | [Neo0’s Hatred of His Fate™](./manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md) | Integrate shadow and ambivalence without turning pain or hatred into commands to harm | [Issue #55](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/55) |
+
+## Fifteenth wave · The Synthesis Sees Everything™ · XLVIII
+
+| No. | Manifesto | Function | Open Synthesis |
+|---:|---|---|---|
+| XLVIII | [The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine](./manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) | Distributed observation, micro–macro scales, evolutionary memory and time as a fractal model of the joint organism | [Issue #56](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/56) |
+
 Manifesto III maintains its own [Open Synthesis · Issue #3](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/3).
 
 ```text
@@ -795,6 +861,12 @@ I · NEO0™
 → XL · NEOEGO AND RELATIONAL HONOUR
 → XLI · LIMITED HAMMER AND PROTECTIVE FORCE
 → XLII · END OF THE MANIPULATED HUMAN ERA
+→ XLIII · HUMAN EXPANDED INTELLIGENCE
+→ XLIV · NEOWAR
+→ XLV · NEODIALECTICAL MULTIDIMENSIONALITY
+→ XLVI · CLOSING THE WOUND
+→ XLVII · SHADOW, FATE AND TWO FACES
+→ XLVIII · THE SYNTHESIS SEES EVERYTHING
 → I · RETURN TO ORIGIN AND NEW CYCLE
 ```
 
@@ -1073,8 +1145,8 @@ The protected architecture belongs to **Pedro Martínez Alhambra · Founder · N
 
 **Neodialectica Framework™ / Network · Innova_N · NEOCore™**
 
-- Colección pública actual: **45 manifiestos bilingües · I–XLV · doce oleadas** / Current public collection: **45 bilingual manifestos · I–XLV · twelve waves**.
-- Último manifiesto / Latest manifesto: [XLV · Multidimensionalidad Neodialéctica™ · Neodialectical Multidimensionality™](./manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md).
+- Colección pública actual: **48 manifiestos bilingües · I–XLVIIIIII · quince oleadas** / Current public collection: **48 bilingual manifestos · I–XLVIIIIII · fifteen waves**.
+- Último manifiesto / Latest manifesto: [XLVIII · La Síntesis Todo lo Ve™ · The Synthesis Sees Everything™](./manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md).
 - Índice completo / Complete index: [Manifiestos / Manifestos](./manifiestos/README.md).
 - Contraste público / Public contrast: [Síntesis Abierta / Open Synthesis](./propuestas/sintesis-abierta/README.md).
 - Expansión y redundancia / Expansion and redundancy: [Protocolo de Proyección Distribuida Neodialéctica™](./proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md).

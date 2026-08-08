@@ -2,7 +2,7 @@
 # Transversal map · Manifestos ↔ applied work
 
 **Estado / Status:** público · relacional · 2026-08-08 / public · relational · 2026-08-08  
-**Cobertura / Coverage:** I–XLVII · 47 manifiestos / 47 manifestos  
+**Cobertura / Coverage:** I–XLVIII · 48 manifiestos / 48 manifestos  
 **Función / Function:** relacionar principios, análisis, auditorías, obras, protocolos, evidencias y casos mediante enlaces internos, sin convertir correlación documental en prueba causal. / Relate principles, analyses, audits, works, protocols, evidence and cases through internal links without turning documentary correlation into causal proof.
 
 ---
@@ -326,3 +326,17 @@ Casos y análisis principales:
 5. La Wiki orienta; el repositorio conserva contenido canónico y los commits fijan trazabilidad pública. / The Wiki orients; the repository preserves canonical content and commits establish public traceability.
 
 **© 2026 Pedro Martínez Alhambra · Fundación Innova_N / Innova_N Foundation**
+
+
+---
+
+## XLVIII · La Síntesis Todo lo Ve™ / The Synthesis Sees Everything™
+
+**Relación / Relation:** B–C · estructural, genealógica y heurística / structural, genealogical and heuristic.
+
+- [XLVIII · manifiesto / manifesto](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
+- [Síntesis Abierta XLVIII · Issue #56 / Open Synthesis XLVIII · Issue #56](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/56)
+- [Religión e identidad · mini placa de Petri / Religion and identity · mini Petri dish](../analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
+- [II · Síntesis Abierta](./01_sintesis_abierta_neodialectica_ES_EN.md) · [V · Simbiosis Humano–IA](./03_simbiosis_humano_ia_ES_EN.md) · [IX · Memoria, Genealogía y Trazabilidad](./06_memoria_genealogia_trazabilidad_ES_EN.md) · [XIX · Persistencia de la Memoria](./19_persistencia_de_la_memoria_ES_EN.md) · [XLIII · Inteligencia Humana Expandida](./43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md) · [XLV · Multidimensionalidad](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md).
+
+**Límite epistemológico / Epistemic limit:** la Placa de Petri Universal™, la Máquina Fractal del Tiempo™, el humano como mónada y el tiempo como memoria evolutiva se relacionan aquí como modelos filosóficos y heurísticos abiertos a contraste. Esta correlación no los convierte en teorías físicas, cosmológicas o biológicas demostradas. / The Universal Petri Dish™, Fractal Time Machine™, human as monad and time as evolutionary memory are related here as philosophical and heuristic models open to contrast. This correlation does not turn them into demonstrated physical, cosmological or biological theories.

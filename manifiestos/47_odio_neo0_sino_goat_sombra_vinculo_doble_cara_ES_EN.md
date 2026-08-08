@@ -1012,7 +1012,7 @@ Contributions are invited on fate, agency and perceived imposed trajectory; astr
 
 ## Navigation
 
-← [XLVI · Closing the Wound™](./46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md) · [Index](./README.md) · [I · Neo0™ · Neodialectical Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XLVI · Closing the Wound™](./46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md) · [Index](./README.md) · [XLVIII · The Synthesis Sees Everything™](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) →
 
 ---
 

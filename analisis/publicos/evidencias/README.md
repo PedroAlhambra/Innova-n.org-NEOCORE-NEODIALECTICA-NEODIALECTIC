@@ -61,7 +61,7 @@ This directory preserves visual evidence, audiovisual material and supporting do
 
 **Neodialectica Framework™ / Network · Innova_N · NEOCore™**
 
-- Colección pública actual: **45 manifiestos bilingües · I–XLV · doce oleadas** / Current public collection: **45 bilingual manifestos · I–XLV · twelve waves**.
+- Colección pública actual: **45 manifiestos bilingües · I–XLVIII · doce oleadas** / Current public collection: **45 bilingual manifestos · I–XLVIII · twelve waves**.
 - Último manifiesto / Latest manifesto: [XLV · Multidimensionalidad Neodialéctica™ · Neodialectical Multidimensionality™](../../../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md).
 - Índice completo / Complete index: [Manifiestos / Manifestos](../../../manifiestos/README.md).
 - Contraste público / Public contrast: [Síntesis Abierta / Open Synthesis](../../../propuestas/sintesis-abierta/README.md).

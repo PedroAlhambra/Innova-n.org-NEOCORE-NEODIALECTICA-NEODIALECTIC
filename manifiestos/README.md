@@ -5,7 +5,7 @@
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
-**Estado canónico / Canonical state:** **48 manifiestos bilingües · I–XLVIII · 15 oleadas / 48 bilingual manifestos · I–XLVIII · 15 waves**  
+**Estado canónico / Canonical state:** **48 manifiestos bilingües · I–XLVIIIIII · 15 oleadas / 48 bilingual manifestos · I–XLVIIIIII · 15 waves**  
 **Fecha de estado / State date:** 2026-08-08
 
 * [Mapa transversal Manifiestos ↔ trabajo aplicado / Manifestos ↔ applied work](./RELACIONES_TRABAJO_APLICADO_ES_EN.md)

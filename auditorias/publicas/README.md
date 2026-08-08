@@ -36,11 +36,11 @@ This directory gathers public notices, traces and audits documented by Innova_N.
 
 * [2026-08-08 · Auditoría global final de README, enlaces, XLIII y trazabilidad KDP](./2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md)
 
-  Postcheck integral del árbol Markdown: READMEs, rutas internas, aliases versionados de la Wiki, estado I–XLV, enlaces de Síntesis Abierta y cadena documental KDP 51071689.
+  Postcheck integral del árbol Markdown: READMEs, rutas internas, aliases versionados de la Wiki, estado I–XLVIII, enlaces de Síntesis Abierta y cadena documental KDP 51071689.
 
 * [2026-08-08 · Final global audit of README, links, XLIII and KDP traceability](./2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md)
 
-  Full Markdown-tree postcheck covering READMEs, internal paths, versioned Wiki aliases, I–XLV state, Open Synthesis links and the KDP 51071689 documentary chain.
+  Full Markdown-tree postcheck covering READMEs, internal paths, versioned Wiki aliases, I–XLVIII state, Open Synthesis links and the KDP 51071689 documentary chain.
 
 * [2026-08-06 · Auditoría de integridad de enlaces, READMEs, manifiestos y Wiki](./2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md)
 
@@ -103,7 +103,7 @@ Public audits must distinguish facts, communications, inferences, pending matter
 
 **Neodialectica Framework™ / Network · Innova_N · NEOCore™**
 
-- Colección pública actual: **45 manifiestos bilingües · I–XLV · doce oleadas** / Current public collection: **45 bilingual manifestos · I–XLV · twelve waves**.
+- Colección pública actual: **45 manifiestos bilingües · I–XLVIII · doce oleadas** / Current public collection: **45 bilingual manifestos · I–XLVIII · twelve waves**.
 - Último manifiesto / Latest manifesto: [XLV · Multidimensionalidad Neodialéctica™ · Neodialectical Multidimensionality™](../../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md).
 - Índice completo / Complete index: [Manifiestos / Manifestos](../../manifiestos/README.md).
 - Contraste público / Public contrast: [Síntesis Abierta / Open Synthesis](../../propuestas/sintesis-abierta/README.md).

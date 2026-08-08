@@ -3,7 +3,7 @@
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
-**Cobertura canónica / Canonical coverage:** **48 manifiestos · I–XLVIII / 48 manifestos · I–XLVIII**  
+**Cobertura canónica / Canonical coverage:** **48 manifiestos · I–XLVIIIIII / 48 manifestos · I–XLVIIIIII**  
 **Estado / Status:** 2026-08-08
 
 * [Índice canónico de manifiestos / Canonical manifesto index](../../manifiestos/README.md)
