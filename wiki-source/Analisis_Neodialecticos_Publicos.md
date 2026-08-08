@@ -142,3 +142,16 @@ New analyses and audits are added to their repository indexes. The Wiki changes 
 - [Parte III · Ceuta 2026, Marruecos y evolución del conflicto / Part III · Ceuta 2026, Morocco and the evolution of the conflict](../analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md)
 - [Matriz de evidencias Parte III / Part III evidence matrix](../analisis/publicos/evidencias/2026-08-07_ceuta-marruecos-evolucion-conflicto-fuentes-y-matriz_ES_EN.md)
 
+---
+
+<!-- KDP_51071689_TRACE_START -->
+
+## Trazabilidad KDP 51071689 · estado actual / KDP 51071689 traceability · current state
+
+**Estado 2026-08-08 / Status 2026-08-08:** KDP confirmó que mantener el estado «cambios sin publicar» sin tocar no afecta a la disponibilidad actual; la causa raíz, el campo pendiente y la relación con correcciones internas previas continúan sin explicación técnica. El seguimiento fue solicitado de nuevo por el autor. / KDP confirmed that leaving the “unpublished changes” state untouched does not affect current availability; the root cause, pending field and relation to earlier internal corrections remain technically unexplained. Continued follow-up was requested by the author.
+
+- [Auditoría maestra / Master audit](../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
+- [Reapertura · 2026-08-07 / Reopening · 2026-08-07](../auditorias/publicas/2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md)
+- [Respuesta KDP y estado actual · 2026-08-08 / KDP response and current state · 2026-08-08](../auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md)
+
+<!-- KDP_51071689_TRACE_END -->

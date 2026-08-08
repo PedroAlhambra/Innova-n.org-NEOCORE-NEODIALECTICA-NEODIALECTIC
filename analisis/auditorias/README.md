@@ -53,6 +53,18 @@ The DistroKid file remains for now at:
 
 New public audits should be recorded in `auditorias/publicas/` and linked from the general `analisis/` indexes. The Wiki should be updated only when the way of locating, interpreting or using audits changes.
 
+<!-- KDP_51071689_TRACE_START -->
+
+## Trazabilidad KDP 51071689 · estado actual / KDP 51071689 traceability · current state
+
+**Estado 2026-08-08 / Status 2026-08-08:** KDP confirmó que mantener el estado «cambios sin publicar» sin tocar no afecta a la disponibilidad actual; la causa raíz, el campo pendiente y la relación con correcciones internas previas continúan sin explicación técnica. El seguimiento fue solicitado de nuevo por el autor. / KDP confirmed that leaving the “unpublished changes” state untouched does not affect current availability; the root cause, pending field and relation to earlier internal corrections remain technically unexplained. Continued follow-up was requested by the author.
+
+- [Auditoría maestra / Master audit](../publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
+- [Reapertura · 2026-08-07 / Reopening · 2026-08-07](../../auditorias/publicas/2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md)
+- [Respuesta KDP y estado actual · 2026-08-08 / KDP response and current state · 2026-08-08](../../auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md)
+
+<!-- KDP_51071689_TRACE_END -->
+
 <!-- NEO_CURRENT_NAV_START -->
 
 ---

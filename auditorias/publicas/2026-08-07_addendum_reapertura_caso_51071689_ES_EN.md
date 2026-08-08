@@ -179,6 +179,7 @@ El caso `51071689` pasa así de ser un simple «caso de éxito cerrado» a una d
 
 - [Auditoría indirecta pública · KDP, Author Central e IDEA](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 - [Caso de éxito provisional · auditoría gratuita a Amazon KDP y Author Central](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+- [Continuación · respuesta KDP y estado actual · 8 de agosto](./2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md)
 - [Índice de auditorías públicas](./README.md)
 - [XXXIV · Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](../../manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
 
@@ -327,6 +328,7 @@ Case `51071689` therefore evolves from a simple “closed success case” into a
 
 - [Public indirect audit · KDP, Author Central and IDEA](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 - [Provisional success case · free audit for Amazon KDP and Author Central](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+- [Continuation · KDP response and current state · 8 August](./2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md)
 - [Public audit index](./README.md)
 - [XXXIV · Operational Utility of the Framework and Perpetual Joint Audit™](../../manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
 
