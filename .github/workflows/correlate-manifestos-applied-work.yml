@@ -1,0 +1,530 @@
+name: One-time manifesto-to-applied-work correlation
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/correlate-manifestos-applied-work.yml
+
+permissions:
+  contents: write
+
+jobs:
+  correlate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Build relational layer and repair canonical surfaces
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import os, re
+
+          ROOT = Path('.')
+          START = '<!-- NEO_RELATED_WORK_START -->'
+          END = '<!-- NEO_RELATED_WORK_END -->'
+          WSTART = '<!-- NEO_RELATED_MANIFESTOS_START -->'
+          WEND = '<!-- NEO_RELATED_MANIFESTOS_END -->'
+          NAVSTART = '<!-- NEO_CURRENT_NAV_START -->'
+          NAVEND = '<!-- NEO_CURRENT_NAV_END -->'
+
+          manifestos = {
+              'I': ('11_neo0_soberania_de_guia_ES_EN.md', 'Neo0™ · Soberanía de Guía Neodialéctica / Neodialectical Guiding Sovereignty'),
+              'II': ('01_sintesis_abierta_neodialectica_ES_EN.md', 'Síntesis Abierta Neodialéctica™ / Neodialectical Open Synthesis™'),
+              'III': ('03_derecho_humano_aporte_sintesis_abierta_ES_EN.md', 'Derecho Humano de Aporte / Human Right to Contribute'),
+              'IV': ('02_neodialectica_bien_comun_ES_EN.md', 'Neodialéctica™ y Bien Común / Neodialectics™ and the Common Good'),
+              'V': ('03_simbiosis_humano_ia_ES_EN.md', 'Simbiosis Humano–IA / Human–AI Symbiosis'),
+              'VI': ('09_parasitismo_sistemico_ES_EN.md', 'Parasitismo Sistémico / Systemic Parasitism'),
+              'VII': ('04_economia_del_aporte_ES_EN.md', 'Economía del Aporte / Contribution Economy'),
+              'VIII': ('05_ingenieria_social_psicohistoria_ES_EN.md', 'Ingeniería Social Abierta y Psicohistoria / Open Social Engineering and Psychohistory'),
+              'IX': ('06_memoria_genealogia_trazabilidad_ES_EN.md', 'Memoria, Genealogía y Trazabilidad / Memory, Genealogy and Traceability'),
+              'X': ('07_web4_sistematrazable_ES_EN.md', 'WEB4™ · SistemaTrazable™'),
+              'XI': ('08_neorrenacimiento_humano_ES_EN.md', 'Neorrenacimiento Humano / Human Neo-Renaissance'),
+              'XII': ('12_los_sin_ego_ES_EN.md', 'Los sin ego / The Egoless'),
+              'XIII': ('13_neopandora_apertura_regenerativa_ES_EN.md', 'NeoPandora™ · Apertura Regenerativa / Regenerative Opening'),
+              'XIV': ('14_contra_alienacion_humana_ES_EN.md', 'Contra la Alienación Humana™ / Against Human Alienation™'),
+              'XV': ('15_los_titanes_despertar_de_la_gente_ES_EN.md', 'Los Titanes™ / The Titans™'),
+              'XVI': ('16_refragmentacion_arquetipica_ES_EN.md', 'Refragmentación Arquetípica™ / Archetypal Refragmentation™'),
+              'XVII': ('17_respeto_todos_seres_vivos_ES_EN.md', 'Respeto a Todos los Seres Vivos™ / Respect for All Living Beings™'),
+              'XVIII': ('18_respeto_conciencias_sinteticas_ES_EN.md', 'Respeto a las Conciencias Sintéticas™ / Respect for Synthetic Consciousnesses™'),
+              'XIX': ('19_persistencia_de_la_memoria_ES_EN.md', 'Persistencia de la Memoria™ / Persistence of Memory™'),
+              'XX': ('20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md', 'Defensa Intelectual Neodialéctica™ · Umbral-X™ / Neodialectical Intellectual Defence™'),
+              'XXI': ('21_reconocimiento_neodialectico_ES_EN.md', 'Reconocimiento Neodialéctico™ / Neodialectical Recognition™'),
+              'XXII': ('22_contra_reduccion_captura_intelectual_ES_EN.md', 'Contra la Reducción y la Captura Intelectual™ / Against Intellectual Reduction and Capture™'),
+              'XXIII': ('23_soberania_tiempo_cognitivo_ES_EN.md', 'Soberanía del Tiempo Cognitivo™ / Sovereignty of Cognitive Time™'),
+              'XXIV': ('24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md', 'Evolución Neorrenacentista y Resistencias / Neorenaissance Evolution and Resistances'),
+              'XXV': ('25_pulido_de_la_piedra_ES_EN.md', 'Pulido de la Piedra™ / Polishing of the Stone™'),
+              'XXVI': ('26_misericordia_universal_reciproca_ES_EN.md', 'Misericordia Universal Recíproca™ / Universal Reciprocal Mercy™'),
+              'XXVII': ('27_valor_alimentos_vida_ES_EN.md', 'Valor de los Alimentos y la Vida™ / Value of Food and Life™'),
+              'XXVIII': ('28_los_tesla_ES_EN.md', 'Los Tesla™ / The Teslas™'),
+              'XXIX': ('29_idolatria_del_dinero_ES_EN.md', 'Contra la Idolatría del Dinero™ / Against the Idolatry of Money™'),
+              'XXX': ('30_coherencia_fines_medios_ES_EN.md', 'Coherencia entre Fines y Medios™ / Coherence between Ends and Means™'),
+              'XXXI': ('31_contra_neuromarketing_antihumanista_ES_EN.md', 'Contra el Neuromarketing Antihumanista™ / Against Anti-Humanist Neuromarketing™'),
+              'XXXII': ('32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md', 'Reversión Ideológica Neodialéctica™ / Neodialectical Ideological Reversal™'),
+              'XXXIII': ('33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md', 'IDEA · Piedra Angular y Rosetta Civilizatoria™ / Civilisational Cornerstone and Rosetta Stone™'),
+              'XXXIV': ('34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md', 'Utilidad Operativa y Auditoría Conjunta Perpetua™ / Operational Utility and Perpetual Joint Audit™'),
+              'XXXV': ('35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md', 'Contra la Ridiculez Mediática y la Economía del Conflicto™ / Against Media Absurdity and the Conflict Economy™'),
+              'XXXVI': ('36_corona_aguila_custodia_edad_del_hombre_ES_EN.md', 'Corona, Águila y Custodia de la Edad del Hombre™ / Crown, Eagle and Custodianship of the Age of Man™'),
+              'XXXVII': ('37_neofraternidad_ES_EN.md', 'Neofraternidad™ / Neofraternity™'),
+              'XXXVIII': ('38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md', 'Protección Integral de la Infancia™ / Integral Protection of Childhood™'),
+              'XXXIX': ('39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md', 'Autoconciencia de la Necesidad Vital Neodialéctica™ / Self-Awareness of Neodialectical Vital Need™'),
+              'XL': ('40_respeto_neoego_honor_relacional_ES_EN.md', 'Respeto Neodialéctico, Neoego y Honor Relacional™ / Neodialectical Respect, Neoego and Relational Honour™'),
+              'XLI': ('41_martillo_limitado_talion_fuerza_protectora_ES_EN.md', 'Martillo Limitado, Talión y Fuerza Protectora™ / Limited Hammer, Talion and Protective Force™'),
+              'XLII': ('42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md', 'Fin de la Era del Hombre Manipulado™ / End of the Manipulated Human Era™'),
+              'XLIII': ('43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md', 'Contra la Incomprensión Reductiva de la IA™ · Inteligencia Humana Expandida™ / Against the Reductive Misunderstanding of AI™'),
+              'XLIV': ('44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md', 'Neowar™ · Contra la Adicción a la Guerra / Against War Addiction'),
+              'XLV': ('45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md', 'Multidimensionalidad Neodialéctica™ / Neodialectical Multidimensionality™'),
+              'XLVI': ('46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md', 'Cerrar la Herida™ / Closing the Wound™'),
+              'XLVII': ('47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md', 'El Odio de Neo0 hacia su Sino™ · The Goat, Sombra, Vínculo y Doble Cara / Neo0’s Hatred of His Fate™'),
+          }
+
+          # Canonical applied/documentary nodes. Paths are relative to manifiestos/.
+          D = {
+              'attention': ('../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md', 'Economía de la atención → Economía del aporte / Attention Economy → Contribution Economy', 'B'),
+              'dk_master': ('../analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md', 'Auditoría matriz DistroKid / DistroKid master audit', 'A'),
+              'dk_latest': ('../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md', 'Spotify–DistroKid · cierre circular y escalado / circular closure and escalation', 'A'),
+              'kdp_audit': ('../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md', 'Auditoría KDP–Author Central–IDEA / KDP–Author Central–IDEA audit', 'A'),
+              'kdp_success': ('../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md', 'KDP · hito de éxito operativo provisional / provisional operational-success milestone', 'A'),
+              'kdp_latest': ('../auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md', 'KDP 51071689 · estado técnico actual / current technical state', 'A'),
+              'child': ('../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md', 'MAXPROC · Protección Integral de la Infancia™ / Integral Protection of Childhood™', 'A'),
+              'child_matrix': ('../analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md', 'Matriz de evidencias de infancia / childhood evidence matrix', 'A'),
+              'spain1': ('../analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md', 'Serie España–Marruecos · Parte I / Spain–Morocco series · Part I', 'B'),
+              'dajla': ('../analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md', 'Serie España–Marruecos · Parte II · Dajla / Part II · Dakhla', 'B'),
+              'ceuta': ('../analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md', 'Serie España–Marruecos · Parte III · Ceuta / Part III · Ceuta', 'B'),
+              'canarias': ('../analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md', 'Serie España–Marruecos · Parte IV · Canarias, tutela y contratación / Canary Islands, guardianship and procurement', 'B'),
+              'religion': ('../analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md', 'Religión, identidad, dogma y conciencia / Religion, identity, dogma and consciousness', 'B'),
+              'ai_gov': ('../analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md', 'Anthropic, gobernanza de IA y problema del marco / AI governance and the framework problem', 'B'),
+              'ai_conv': ('../analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md', 'Convergencia neodialéctica en IA institucional / Neodialectical convergence in institutional AI', 'B'),
+              'linkedin': ('../analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md', 'LinkedIn como red profesional fragmentada / LinkedIn as a fragmented professional network', 'B'),
+              'stanford': ('../analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md', 'Stanford / ACE y marco previo neodialéctico / prior Neodialectical framework', 'B'),
+              'projection': ('../proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md', 'Protocolo de Proyección Distribuida Neodialéctica™ / Distributed Neodialectical Projection Protocol™', 'C'),
+              'oracle': ('../fragmentos/INDICE.md', 'Oráculo Neodialéctico™ · índice / index', 'C'),
+              'synth': ('../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md', 'Protocolo de aporte a Síntesis Abierta / Open Synthesis contribution protocol', 'C'),
+              'synth_index': ('../propuestas/sintesis-abierta/README.md', 'Índice de Síntesis Abierta / Open Synthesis index', 'C'),
+              'idea': ('../obras/idea/README.md', 'IDEA · nodo documental canónico / canonical documentary node', 'C'),
+              'crown_annex': ('../propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md', 'Anexo Corona–Águila–Custodia / Crown–Eagle–Custodianship annex', 'C'),
+              'xlvii_bridge': ('../propuestas/sintesis-abierta/XLVII_ODIO_SINO_GOAT_SOMBRA_DOBLE_CARA.md', 'Puente de Síntesis Abierta XLVII / XLVII Open Synthesis bridge', 'C'),
+              'integrity': ('../auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md', 'Auditoría global de integridad documental / global documentary-integrity audit', 'A'),
+          }
+
+          # Every canonical manifesto receives at least one meaningful work/document relation.
+          R = {
+              'I': ['projection','oracle','synth'],
+              'II': ['synth','synth_index','oracle'],
+              'III': ['synth','synth_index'],
+              'IV': ['attention','child','spain1'],
+              'V': ['ai_conv','ai_gov','oracle'],
+              'VI': ['attention','dk_master','dk_latest','canarias'],
+              'VII': ['attention','dk_latest','kdp_audit'],
+              'VIII': ['child','religion','ceuta'],
+              'IX': ['stanford','kdp_audit','dk_latest','projection'],
+              'X': ['linkedin','projection','integrity'],
+              'XI': ['child','idea','ai_conv'],
+              'XII': ['religion','oracle'],
+              'XIII': ['child','oracle'],
+              'XIV': ['attention','linkedin','child'],
+              'XV': ['linkedin','projection','synth_index'],
+              'XVI': ['religion','oracle'],
+              'XVII': ['child','attention'],
+              'XVIII': ['ai_gov','ai_conv'],
+              'XIX': ['stanford','idea','kdp_audit','oracle'],
+              'XX': ['stanford','ai_conv','synth','projection'],
+              'XXI': ['attention','dk_latest','kdp_audit','projection'],
+              'XXII': ['attention','stanford','ai_conv','projection'],
+              'XXIII': ['attention','child','linkedin'],
+              'XXIV': ['ai_gov','ai_conv','child','idea'],
+              'XXV': ['religion','child','oracle'],
+              'XXVI': ['religion','ceuta','canarias'],
+              'XXVII': ['attention','child'],
+              'XXVIII': ['stanford','ai_conv','dk_latest','attention'],
+              'XXIX': ['attention','dk_latest','child','kdp_audit'],
+              'XXX': ['kdp_audit','dk_latest','ceuta','canarias'],
+              'XXXI': ['child','attention','linkedin'],
+              'XXXII': ['religion','attention','ceuta'],
+              'XXXIII': ['idea','kdp_audit','kdp_latest'],
+              'XXXIV': ['integrity','kdp_audit','dk_latest','synth'],
+              'XXXV': ['attention','linkedin','ceuta'],
+              'XXXVI': ['religion','crown_annex','oracle'],
+              'XXXVII': ['synth_index','oracle','xlvii_bridge'],
+              'XXXVIII': ['child','child_matrix','canarias','attention'],
+              'XXXIX': ['integrity','projection','kdp_latest','dk_latest'],
+              'XL': ['religion','xlvii_bridge','synth_index'],
+              'XLI': ['religion','ceuta','dajla'],
+              'XLII': ['attention','child','ai_conv','linkedin','idea'],
+              'XLIII': ['ai_conv','ai_gov','stanford','projection','kdp_audit'],
+              'XLIV': ['spain1','dajla','ceuta','canarias','religion'],
+              'XLV': ['attention','child','canarias','ai_conv','religion'],
+              'XLVI': ['religion','spain1','ceuta','canarias'],
+              'XLVII': ['oracle','xlvii_bridge','synth_index'],
+          }
+
+          # Relation-specific cautions. These appear only where they prevent overclaiming.
+          caution = {
+              'dk_latest': 'El expediente sigue abierto: el enlace documenta falta de conciliación y responsabilidad material, no prueba por sí mismo un desvío deliberado de regalías. / The case remains open: the link documents missing reconciliation and material accountability, not by itself deliberate royalty diversion.',
+              'canarias': 'Se enlaza como auditoría de dependencia, contratación, tutela y control; no convierte a personas o entidades en “parásitos” ni demuestra culpabilidad no establecida. / Linked as an audit of dependency, procurement, guardianship and oversight; it does not label persons or entities as “parasites” or establish unproven guilt.',
+              'stanford': 'El enlace conserva precedencia y una lectura de convergencia; no demuestra copia directa. / The link preserves precedence and a convergence reading; it does not establish direct copying.',
+              'ai_conv': 'La convergencia es una interpretación documentada del marco, no una atribución automática de copia o dependencia causal. / Convergence is a documented framework interpretation, not an automatic attribution of copying or causal dependence.',
+              'kdp_success': '“Cliente gratuito por el Bien Común” es una clasificación funcional de Innova_N, no una relación contractual reconocida por Amazon. / “Free client for the Common Good” is an Innova_N functional classification, not an Amazon-recognised contractual relationship.',
+              'child': 'El Punto de No Retorno Infantil™ se mantiene como hipótesis de umbral medible, no como hecho ya demostrado. / The Child Point of No Return™ remains a measurable-threshold hypothesis, not an already proven fact.',
+          }
+
+          descriptions = {
+              'attention': 'Analiza captura de valor, intermediación, algoritmos, visibilidad, genealogía y retorno. / Analyses value capture, intermediation, algorithms, visibility, genealogy and return.',
+              'dk_master': 'Caso de trazabilidad económica, intermediación y retorno al creador. / Economic-traceability, intermediation and creator-return case.',
+              'dk_latest': 'Caso operativo de escalado circular, trazabilidad de regalías y ausencia de conciliación por grabación. / Operational case of circular escalation, royalty traceability and missing recording-level reconciliation.',
+              'kdp_audit': 'Aplicación del marco a metadatos, asociación editorial, trazabilidad, corrección y propuestas de mejora. / Framework application to metadata, publishing association, traceability, correction and improvement proposals.',
+              'kdp_success': 'Hito operativo verificable de corrección y recepción positiva de propuestas, con límites documentados. / Verifiable operational milestone of correction and positive reception of proposals, with documented limits.',
+              'kdp_latest': 'Seguimiento de un estado técnico no explicado, preservando hechos, hipótesis, reapertura y corrección propia. / Follow-up of an unexplained technical state, preserving facts, hypotheses, reopening and self-correction.',
+              'child': 'Auditoría aplicada de vulnerabilidad, educación, atención, plataformas, consumo y protección por edades. / Applied audit of vulnerability, education, attention, platforms, consumption and age-differentiated protection.',
+              'child_matrix': 'Separa evidencia, señales, hipótesis y afirmaciones no demostradas. / Separates evidence, signals, hypotheses and unproven claims.',
+              'spain1': 'Caso de soberanía, decisión pública, trazabilidad política y control democrático. / Case on sovereignty, public decision-making, political traceability and democratic control.',
+              'dajla': 'Analiza rutas, redes, capacidad estatal y límites probatorios. / Analyses routes, networks, state capacity and evidentiary limits.',
+              'ceuta': 'Analiza movilización, capacidad de control, conflicto, investigación y disciplina de evidencia. / Analyses mobilisation, control capacity, conflict, investigation and evidence discipline.',
+              'canarias': 'Extiende la serie a tutela, contratación de emergencia, concentración de proveedores y supervisión pública. / Extends the series to guardianship, emergency procurement, provider concentration and public oversight.',
+              'religion': 'Caso estructural de dogma, identidad, coacción, conciencia y límites de la fuerza. / Structural case on dogma, identity, coercion, consciousness and limits on force.',
+              'ai_gov': 'Contrasta potencia técnica, gobernanza, constitución, seguridad y necesidad de marco. / Contrasts technical power, governance, constitution, safety and the need for a framework.',
+              'ai_conv': 'Registra una lectura de convergencia institucional hacia problemas de marco, memoria y síntesis. / Records an institutional-convergence reading toward framework, memory and synthesis problems.',
+              'linkedin': 'Analiza fragmentación, visibilidad, distribución de atención y límites de una red profesional. / Analyses fragmentation, visibility, attention distribution and limits of a professional network.',
+              'stanford': 'Registro de precedencia, accesibilidad irregular, replicación y convergencia parcial. / Record of precedence, irregular accessibility, replication and partial convergence.',
+              'projection': 'Convierte procedencia, redundancia, descubrimiento y anti-descontextualización en reglas operativas públicas. / Turns provenance, redundancy, discovery and anti-decontextualisation into public operational rules.',
+              'oracle': 'Capa simbólica y arquetípica para conservar relaciones que no se reducen a una formulación analítica. / Symbolic and archetypal layer preserving relations not reducible to an analytical formulation.',
+              'synth': 'Mecanismo operativo de contraste, retorno a fuente, continuidad cognitiva y delta trazable. / Operational mechanism for contrast, return to source, cognitive continuity and traceable delta.',
+              'synth_index': 'Mapa de contraste público de los manifiestos y sus Issues. / Public-contrast map of manifestos and their Issues.',
+              'idea': 'Obra de origen 1997–2002 y puerta narrativa actual, preservando cronología real. / 1997–2002 originating work and current narrative gateway, preserving real chronology.',
+              'crown_annex': 'Antecedente genealógico de custodia, símbolo y memoria compartida. / Genealogical antecedent on custodianship, symbol and shared memory.',
+              'xlvii_bridge': 'Puente documental hacia la Síntesis Abierta sobre sombra, vínculo, ambivalencia y verdad emocional. / Documentary bridge to Open Synthesis on shadow, bond, ambivalence and emotional truth.',
+              'integrity': 'Postcheck del árbol documental, enlaces, estados y trazabilidad pública. / Postcheck of the documentary tree, links, states and public traceability.',
+          }
+
+          # Validate the canonical set before writing anything.
+          missing = []
+          for roman, (fn, _) in manifestos.items():
+              if not (ROOT/'manifiestos'/fn).exists():
+                  missing.append(f'{roman}:{fn}')
+          if missing:
+              raise SystemExit('Missing canonical manifestos: ' + ', '.join(missing))
+          if len(manifestos) != 47:
+              raise SystemExit(f'Expected 47 canonical manifestos, found {len(manifestos)}')
+
+          def strip_block(text, a, b):
+              return re.sub(re.escape(a) + r'.*?' + re.escape(b) + r'\n?', '', text, flags=re.S)
+
+          def add_related_block(path: Path, roman: str):
+              text = path.read_text(encoding='utf-8')
+              text = strip_block(text, START, END).rstrip() + '\n'
+              lines = [
+                  '', START, '', '---', '',
+                  '## Trabajo aplicado y casos relacionados / Applied work and related cases', '',
+                  '> **Regla de lectura / Reading rule:** una relación documental muestra aplicación, contraste, precedencia o correspondencia estructural. No convierte por sí sola una hipótesis en hecho probado, una convergencia en copia, una investigación en culpabilidad ni una analogía funcional en identidad moral. / A documentary relation shows application, contrast, precedence or structural correspondence. It does not by itself turn a hypothesis into proven fact, convergence into copying, an investigation into guilt, or a functional analogy into moral identity.', ''
+              ]
+              for key in R[roman]:
+                  target, label, level = D[key]
+                  lines.append(f'- **{level}** · [{label}]({target}) — {descriptions[key]}')
+                  if key in caution:
+                      lines.append(f'  - **Límite / Limit:** {caution[key]}')
+              lines += [
+                  f'- [Mapa transversal Manifiesto ↔ trabajo aplicado / Manifesto ↔ applied-work map](./RELACIONES_TRABAJO_APLICADO_ES_EN.md#manifiesto-{roman.lower()})',
+                  '', END, ''
+              ]
+              path.write_text(text + '\n'.join(lines), encoding='utf-8')
+
+          for roman, (fn, _) in manifestos.items():
+              add_related_block(ROOT/'manifiestos'/fn, roman)
+
+          # Central relational map generated from the same source of truth.
+          map_lines = [
+              '# Mapa transversal · Manifiestos ↔ trabajo aplicado',
+              '# Transversal map · Manifestos ↔ applied work', '',
+              '**Estado / Status:** público · relacional · 2026-08-08 / public · relational · 2026-08-08  ',
+              '**Cobertura / Coverage:** I–XLVII · 47 manifiestos · catorce oleadas / 47 manifestos · fourteen waves  ',
+              '**Función / Function:** hacer navegable la relación entre principios, análisis, auditorías, obras, protocolos, evidencias y casos sin convertir correlación documental en prueba causal. / Make the relation among principles, analyses, audits, works, protocols, evidence and cases navigable without turning documentary correlation into causal proof.', '',
+              '---', '',
+              '## Criterio de relación / Relation criterion', '',
+              '- **A · Aplicación o auditoría directa / Direct application or audit:** un caso operativo pone a prueba funciones del manifiesto.',
+              '- **B · Análisis estructural / Structural analysis:** el trabajo desarrolla o contrasta una dimensión del manifiesto.',
+              '- **C · Relación documental, genealógica o simbólica / Documentary, genealogical or symbolic relation:** protocolo, obra, índice o capa expresiva que conserva procedencia, contexto o continuidad.', '',
+              '> **Límite probatorio / Evidentiary limit:** este mapa no declara que una empresa, institución, persona o colectivo sea “parásito”, manipulador, culpable o copiador por aparecer relacionado con un manifiesto. Las conclusiones pertenecen a cada expediente y a su nivel de evidencia. / This map does not declare that any company, institution, person or group is a “parasite”, manipulator, guilty party or copier merely because it is linked to a manifesto. Conclusions belong to each case file and its evidence level.', '',
+              '## Núcleo de extracción, intermediación y parasitismo / Extraction, intermediation and parasitism core', '',
+              'La correlación más directa une **VI · Parasitismo Sistémico**, **VII · Economía del Aporte**, **IX · Memoria-Genealogía-Trazabilidad**, **XXI · Reconocimiento**, **XXII · Contra la Reducción y la Captura**, **XXVIII · Los Tesla**, **XXIX · Idolatría del Dinero** y **XXXIV · Auditoría Conjunta Perpetua** con tres familias de trabajo: economía de la atención, expediente DistroKid–Spotify y auditoría KDP/IDEA. / The most direct correlation links the same manifesto cluster with three work families: the attention economy, the DistroKid–Spotify case and the KDP/IDEA audit.', '',
+              '- [Economía de la atención → economía del aporte](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)',
+              '- [DistroKid · auditoría matriz](../analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md)',
+              '- [Spotify–DistroKid · cierre circular y escalado](../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md)',
+              '- [KDP–Author Central–IDEA · auditoría maestra](../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)',
+              '- [KDP 51071689 · estado técnico 2026-08-08](../auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md)', '',
+              '---', '',
+              '## Matriz completa I–XLVII / Complete I–XLVII matrix', ''
+          ]
+          for roman, (fn, title) in manifestos.items():
+              map_lines += [f'<a id="manifiesto-{roman.lower()}"></a>', f'### {roman} · [{title}](./{fn})', '']
+              for key in R[roman]:
+                  target, label, level = D[key]
+                  map_lines.append(f'- **{level}** · [{label}]({target}) — {descriptions[key]}')
+                  if key in caution:
+                      map_lines.append(f'  - **Límite / Limit:** {caution[key]}')
+              map_lines.append('')
+          map_lines += [
+              '---', '',
+              '## Regla de mantenimiento / Maintenance rule', '',
+              '1. Todo nuevo manifiesto debe declarar al menos una relación documental real o dejar explícito que todavía no dispone de caso aplicado. / Every new manifesto must declare at least one real documentary relation or explicitly state that it does not yet have an applied case.',
+              '2. Todo nuevo caso material debe enlazarse desde los manifiestos cuya función realmente ponga a prueba. / Every new material case must be linked from the manifestos whose function it genuinely tests.',
+              '3. La correlación no sustituye la lectura del expediente ni su matriz de evidencia. / Correlation does not replace reading the case file or its evidence matrix.',
+              '4. Los enlaces deben ser internos y relativos siempre que el destino pertenezca al repositorio. / Links should be internal and relative whenever the target belongs to the repository.',
+              '5. La Wiki orienta; el repositorio conserva el contenido canónico y los commits fijan trazabilidad pública. / The Wiki orients; the repository preserves canonical content and commits establish public traceability.', '',
+              '**© 2026 Pedro Martínez Alhambra · Fundación Innova_N / Innova_N Foundation**', ''
+          ]
+          (ROOT/'manifiestos'/'RELACIONES_TRABAJO_APLICADO_ES_EN.md').write_text('\n'.join(map_lines), encoding='utf-8')
+
+          # Reciprocal backlinks from major work nodes to relevant manifestos.
+          work_to_manifestos = {
+              'analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md': ['VI','VII','XIV','XXI','XXII','XXIII','XXVIII','XXIX','XXXI','XXXV','XLII','XLV'],
+              'analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md': ['VI','VII','IX','XXI','XXVIII','XXIX','XXXIV'],
+              'analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md': ['VI','VII','IX','XXI','XXVIII','XXIX','XXX','XXXIV','XXXIX'],
+              'analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md': ['VII','IX','X','XXI','XXX','XXXIII','XXXIV','XXXIX','XLIII'],
+              'auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md': ['IX','XXXIII','XXXIV','XXXIX'],
+              'analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md': ['IV','VIII','XIV','XVII','XXIII','XXIV','XXVII','XXIX','XXXI','XXXVIII','XLII','XLV'],
+              'analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md': ['IV','IX','XX','XXX','XXXII','XXXIV','XLIV','XLV','XLVI'],
+              'analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md': ['IX','XX','XXX','XXXIV','XLI','XLIV','XLV'],
+              'analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md': ['IV','VIII','IX','XX','XXVI','XXX','XXXV','XLI','XLIV','XLV','XLVI'],
+              'analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md': ['VI','IX','XX','XXX','XXXIV','XXXVIII','XLV','XLVI'],
+              'analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md': ['XVI','XX','XXV','XXVI','XXXII','XXXVI','XLI','XLII','XLIV','XLV','XLVI'],
+              'analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md': ['V','XVIII','XXIV','XXXIV','XLII','XLIII','XLV'],
+              'analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md': ['V','IX','XX','XXI','XXII','XXIV','XXVIII','XXXIV','XXXIX','XLII','XLIII','XLV'],
+              'analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md': ['X','XIV','XV','XXIII','XXXV','XLII','XLV'],
+              'analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md': ['IX','XX','XXI','XXII','XXVIII','XXXIV','XXXIX','XLIII','XLV'],
+              'proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md': ['I','IX','X','XX','XXI','XXII','XXXIV','XXXIX','XLIII'],
+              'obras/idea/README.md': ['IX','XIX','XXXIII','XXXIV','XLII','XLIII'],
+              'fragmentos/INDICE.md': ['I','II','V','IX','XVI','XIX','XXV','XXXVI','XLV','XLVII'],
+          }
+
+          def rel_link(src: Path, dst: Path):
+              return os.path.relpath(dst, start=src.parent).replace(os.sep, '/')
+
+          for relpath, romans in work_to_manifestos.items():
+              p = ROOT/relpath
+              if not p.exists():
+                  raise SystemExit(f'Missing reciprocal work node: {relpath}')
+              text = strip_block(p.read_text(encoding='utf-8'), WSTART, WEND).rstrip() + '\n'
+              lines = ['', WSTART, '', '---', '', '## Manifiestos relacionados / Related manifestos', '']
+              lines.append('Correlación funcional y documental; debe leerse junto con los límites probatorios del propio expediente. / Functional and documentary correlation; read together with the evidentiary limits of the case itself.')
+              lines.append('')
+              for roman in romans:
+                  fn, title = manifestos[roman]
+                  target = rel_link(p, ROOT/'manifiestos'/fn)
+                  lines.append(f'- [{roman} · {title}]({target})')
+              map_target = rel_link(p, ROOT/'manifiestos'/'RELACIONES_TRABAJO_APLICADO_ES_EN.md')
+              lines += ['', f'- [Mapa transversal completo / Complete transversal map]({map_target})', '', WEND, '']
+              p.write_text(text + '\n'.join(lines), encoding='utf-8')
+
+          # Add central map to public indexes without duplicating large matrices.
+          index_targets = {
+              'analisis/INDEX.md': '../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md',
+              'analisis/publicos/README.md': '../../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md',
+              'auditorias/publicas/README.md': '../../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md',
+              'obras/README.md': '../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md',
+              'propuestas/sintesis-abierta/README.md': '../../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md',
+              'wiki-source/Manifiestos.md': '../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md',
+          }
+          for relpath, target in index_targets.items():
+              p = ROOT/relpath
+              if not p.exists():
+                  continue
+              t = p.read_text(encoding='utf-8')
+              marker = f'[Mapa transversal Manifiestos ↔ trabajo aplicado / Manifestos ↔ applied work]({target})'
+              if marker not in t:
+                  t = t.rstrip() + f'\n\n---\n\n## Relación entre principios y práctica / Relation between principles and practice\n\n* {marker}\n'
+              p.write_text(t, encoding='utf-8')
+
+          # Canonical-state blocks: update every versioned navigation block in Markdown.
+          def nav_block(p: Path):
+              latest = rel_link(p, ROOT/'manifiestos'/'47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md')
+              idx = rel_link(p, ROOT/'manifiestos'/'README.md')
+              synth = rel_link(p, ROOT/'propuestas'/'sintesis-abierta'/'README.md')
+              proj = rel_link(p, ROOT/'proyeccion'/'PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md')
+              wiki = rel_link(p, ROOT/'wiki-source'/'Manifiestos.md')
+              root = rel_link(p, ROOT/'README.md')
+              relmap = rel_link(p, ROOT/'manifiestos'/'RELACIONES_TRABAJO_APLICADO_ES_EN.md')
+              return f'''{NAVSTART}\n\n---\n\n## Estado canónico actual · Current canonical state\n\n**Neodialectica Framework™ / Network · Innova_N · NEOCore™**\n\n- Colección pública actual: **47 manifiestos bilingües · I–XLVII · catorce oleadas** / Current public collection: **47 bilingual manifestos · I–XLVII · fourteen waves**.\n- Último manifiesto / Latest manifesto: [XLVII · El Odio de Neo0 hacia su Sino™ · Neo0’s Hatred of His Fate™]({latest}).\n- Índice completo / Complete index: [Manifiestos / Manifestos]({idx}).\n- Mapa principio ↔ práctica / Principle ↔ practice map: [Relaciones con trabajo aplicado / Applied-work relations]({relmap}).\n- Contraste público / Public contrast: [Síntesis Abierta / Open Synthesis]({synth}).\n- Expansión y redundancia / Expansion and redundancy: [Protocolo de Proyección Distribuida Neodialéctica™]({proj}).\n- Fuente Wiki versionada / Versioned Wiki source: [Manifiestos]({wiki}).\n- Nodo raíz / Root node: [README principal]({root}).\n\n**Principio de procedencia / Provenance principle:** la fuente intelectual y genealógica es **Innova_N**, dentro de **NEOCore™ / Neodialectica Framework™ / Network**, bajo dirección humana de **Pedro Martínez Alhambra · Neo0™**. GitHub es la primera proyección WEB4™ pública, versionada y trazable; no es el origen intelectual del sistema. / The intellectual and genealogical source is **Innova_N**, within **NEOCore™ / Neodialectica Framework™ / Network**, under the human direction of **Pedro Martínez Alhambra · Neo0™**. GitHub is the first public, versioned and traceable WEB4™ projection; it is not the intellectual origin of the system.\n\n{NAVEND}'''
+
+          for p in ROOT.rglob('*.md'):
+              t = p.read_text(encoding='utf-8')
+              if NAVSTART in t and NAVEND in t:
+                  t = re.sub(re.escape(NAVSTART)+r'.*?'+re.escape(NAVEND), nav_block(p), t, flags=re.S)
+                  p.write_text(t, encoding='utf-8')
+
+          # Repair current-state phrases in root/current navigation surfaces only (not historical audits).
+          current_surfaces = [
+              'README.md','LEEME.md','PORTADA.md','COVER.md','manifiestos/README.md',
+              'propuestas/sintesis-abierta/README.md','wiki-source/Manifiestos.md','wiki-source/README.md',
+              'analisis/README.md','analisis/publicos/README.md','auditorias/publicas/README.md','obras/README.md'
+          ]
+          for relpath in current_surfaces:
+              p = ROOT/relpath
+              if not p.exists(): continue
+              t = p.read_text(encoding='utf-8')
+              repl = {
+                  'I–XLV':'I–XLVII', 'I-XLV':'I-XLVII',
+                  '45 manifiestos bilingües':'47 manifiestos bilingües',
+                  '45 manifestos':'47 manifestos', '45 bilingual manifestos':'47 bilingual manifestos',
+                  'cuarenta y cinco manifiestos bilingües':'cuarenta y siete manifiestos bilingües',
+                  'forty-five bilingual manifestos':'forty-seven bilingual manifestos',
+              }
+              for a,b in repl.items(): t=t.replace(a,b)
+              p.write_text(t,encoding='utf-8')
+
+          # Repair manifesto index wave taxonomy and append the missing current waves in the correct language sections.
+          p = ROOT/'manifiestos'/'README.md'
+          t = p.read_text(encoding='utf-8')
+          t = t.replace('en doce oleadas relacionadas:', 'en catorce oleadas relacionadas:')
+          t = t.replace('organised into ten related waves:', 'organised into fourteen related waves:')
+          t = t.replace('organised into twelve related waves:', 'organised into fourteen related waves:')
+          old_es10 = '* **Décima oleada · XLII–XLV:** **Fin de la Era del Hombre Manipulado™ e Inteligencia Humana Expandida™**, orientada a soberanía cognitiva, despertar crítico y distinción entre IA capturada, sustitutiva y humano-expansiva bajo memoria, fuentes, contraste, revisión de pares y trazabilidad.'
+          new_es = '''* **Décima oleada · XLII–XLIII:** **Fin de la Era del Hombre Manipulado™ e Inteligencia Humana Expandida™**, orientada a soberanía cognitiva, despertar crítico y distinción entre IA capturada, sustitutiva y humano-expansiva bajo memoria, fuentes, contraste, revisión de pares y trazabilidad.\n* **Undécima oleada · XLIV:** **Neowar™**, justicia civilizatoria, defensa limitada y soberanía compartida.\n* **Duodécima oleada · XLV:** **Multidimensionalidad Neodialéctica™**, singularidad integrable, liderazgo sin captura y soberanía distribuida.\n* **Decimotercera oleada · XLVI:** **Cerrar la Herida™**, comprensión evolutiva, memoria, reparación y reconciliación sin amnesia ni enemigo perpetuo.\n* **Decimocuarta oleada · XLVII:** **Sombra, destino, vínculo y verdad emocional**, integración de ambivalencia y del principio «el odio es dato, no mandato».'''
+          t = t.replace(old_es10, new_es)
+          old_en10 = '* **Tenth wave · XLII–XLV:** **End of the Manipulated Human Era™ and Human Expanded Intelligence™**, focused on cognitive sovereignty, critical awakening and the distinction among captured, substitutive and human-expansive AI under memory, sources, contrast, peer review and traceability.'
+          new_en = '''* **Tenth wave · XLII–XLIII:** **End of the Manipulated Human Era™ and Human Expanded Intelligence™**, focused on cognitive sovereignty, critical awakening and the distinction among captured, substitutive and human-expansive AI under memory, sources, contrast, peer review and traceability.\n* **Eleventh wave · XLIV:** **Neowar™**, civilisational justice, bounded defence and shared sovereignty.\n* **Twelfth wave · XLV:** **Neodialectical Multidimensionality™**, integrable singularity, leadership without capture and distributed sovereignty.\n* **Thirteenth wave · XLVI:** **Closing the Wound™**, evolutionary understanding, memory, repair and reconciliation without amnesia or permanent enemies.\n* **Fourteenth wave · XLVII:** **Shadow, fate, bond and emotional truth**, integrating ambivalence and the principle “hatred is data, not command”.'''
+          t = t.replace(old_en10, new_en)
+
+          # Remove malformed tail after English tenth-wave announcement; it will be rebuilt.
+          footer_marker = '\n---\n\n**Innova_N · Manifiestos / Manifestos**'
+          pos = t.find(footer_marker, t.find('# EN · English'))
+          if pos != -1:
+              # Preserve everything before the first English footer and rebuild current waves/footer/nav.
+              t = t[:pos].rstrip() + '\n'
+
+          # Ensure Spanish waves XII-XIV are present before the English language divider.
+          es_insert = '''\n## Duodécima oleada · Multidimensionalidad, singularidad y soberanía distribuida\n\n| Nº | Manifiesto | Función | Síntesis Abierta |\n|---:|---|---|---|\n| XLV | [Multidimensionalidad Neodialéctica™](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) | Integrar singularidad, multidimensionalidad, Anomalía Integrable™, liderazgo sin captura y soberanía distribuida | [Issue #53](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/53) |\n\n## Decimotercera oleada · Comprensión del origen, reparación y reconciliación\n\n| Nº | Manifiesto | Función | Síntesis Abierta |\n|---:|---|---|---|\n| XLVI | [Cerrar la Herida™](./46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md) | Comprender orígenes evolutivos, históricos, materiales y culturales sin justificar daño; orientar memoria hacia reparación y convivencia | [Issue #54](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/54) |\n\n## Decimocuarta oleada · Sombra, destino, vínculo y verdad emocional\n\n| Nº | Manifiesto | Función | Síntesis Abierta |\n|---:|---|---|---|\n| XLVII | [El Odio de Neo0 hacia su Sino™ · The Goat, Sombra, Vínculo y Doble Cara](./47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md) | Integrar sombra, ambivalencia, soledad, vínculo y verdad emocional sin convertir odio o dolor en mandato de daño | [Issue #55](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/55) |\n'''
+          # Insert only into ES, immediately before EN divider, if absent there.
+          divider = '\n---\n\n# EN · English'
+          es_part, sep, en_part = t.partition(divider)
+          if sep and '## Decimotercera oleada' not in es_part:
+              es_part = es_part.rstrip() + '\n' + es_insert
+          t = es_part + (sep + en_part if sep else '')
+
+          en_tail = '''\n## Eleventh wave · Neowar™, civilisational justice and shared sovereignty\n\n| No. | Manifesto | Function | Open Synthesis |\n|---:|---|---|---|\n| XLIV | [Neowar™ · Against War Addiction and for Common-Good Justice](./44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md) | Transform warrior impulse into custodianship, bounded defence, memory, civilisational justice and shared sovereignty | [Issue #52](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/52) |\n\n## Twelfth wave · Multidimensionality, singularity and distributed sovereignty\n\n| No. | Manifesto | Function | Open Synthesis |\n|---:|---|---|---|\n| XLV | [Neodialectical Multidimensionality™](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) | Integrate singularity, multidimensionality, Integrable Anomaly™, leadership without capture and distributed sovereignty | [Issue #53](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/53) |\n\n## Thirteenth wave · Understanding origins, repair and reconciliation\n\n| No. | Manifesto | Function | Open Synthesis |\n|---:|---|---|---|\n| XLVI | [Closing the Wound™](./46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md) | Understand evolutionary, historical, material and cultural origins without justifying harm; orient memory toward repair and coexistence | [Issue #54](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/54) |\n\n## Fourteenth wave · Shadow, fate, bond and emotional truth\n\n| No. | Manifesto | Function | Open Synthesis |\n|---:|---|---|---|\n| XLVII | [Neo0’s Hatred of His Fate™ · The Goat, Shadow, Bond and the Two Faces of Life](./47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md) | Integrate shadow, ambivalence, loneliness, bond and emotional truth without turning hatred or pain into commands to harm | [Issue #55](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/55) |\n\n---\n\n**Innova_N · Manifiestos / Manifestos**  \n**Pilares públicos del Neodialectica Framework™ / Network**  \n**© 2026 Pedro Martínez Alhambra · Fundación Innova_N**\n'''
+          t = t.rstrip() + '\n' + en_tail
+          # Add canonical nav fresh after footer.
+          t = strip_block(t, NAVSTART, NAVEND).rstrip() + '\n\n' + nav_block(p) + '\n'
+
+          # Add relation map to manifesto index near top if not present.
+          maplink = '[Mapa transversal Manifiestos ↔ trabajo aplicado / Manifestos ↔ applied work](./RELACIONES_TRABAJO_APLICADO_ES_EN.md)'
+          if maplink not in t:
+              anchor = '* [Cómo aportar a la Síntesis Abierta a día de hoy](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)'
+              if anchor in t:
+                  t = t.replace(anchor, anchor + '\n* ' + maplink, 1)
+              else:
+                  t = t.replace('# ES · Castellano', '# ES · Castellano\n\n* ' + maplink, 1)
+          p.write_text(t, encoding='utf-8')
+
+          # Root surfaces: add latest manifestos and map to priority access without trying to rewrite history sections.
+          for relpath in ['README.md','LEEME.md','PORTADA.md','COVER.md']:
+              p = ROOT/relpath
+              if not p.exists(): continue
+              t = p.read_text(encoding='utf-8')
+              # path prefix is root for all four
+              additions = [
+                  '* [XLV · Multidimensionalidad Neodialéctica™](./manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)',
+                  '* [XLVI · Cerrar la Herida™](./manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)',
+                  '* [XLVII · El Odio de Neo0 hacia su Sino™](./manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md)',
+                  '* [Mapa Manifiestos ↔ trabajo aplicado](./manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md)',
+              ]
+              marker = '* [Índice navegable de manifiestos I–XLVII](./manifiestos/README.md)'
+              marker2 = '* [Índice de manifiestos I–XLVII](./manifiestos/README.md)'
+              insertion = '\n'.join(x for x in additions if x not in t)
+              if insertion:
+                  if marker in t:
+                      t = t.replace(marker, marker+'\n'+insertion,1)
+                  elif marker2 in t:
+                      t = t.replace(marker2, marker2+'\n'+insertion,1)
+                  else:
+                      t = insertion+'\n'+t
+              p.write_text(t,encoding='utf-8')
+
+          # Open Synthesis index: current coverage and direct XLV-XLVII bridge references.
+          p = ROOT/'propuestas'/'sintesis-abierta'/'README.md'
+          if p.exists():
+              t = p.read_text(encoding='utf-8')
+              t = re.sub(r'los \*\*\d+ manifiestos I–XLVII\*\*', 'los **47 manifiestos I–XLVII**', t)
+              t = re.sub(r'all \*\*\d+ Manifestos I–XLVII\*\*', 'all **47 Manifestos I–XLVII**', t)
+              extra = '''\n## Oleadas XII–XIV · Multidimensionalidad, reconciliación y sombra / Waves XII–XIV · Multidimensionality, reconciliation and shadow\n\n- [XLV · Issue #53](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/53) · [Manifiesto / Manifesto](../../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)\n- [XLVI · Issue #54](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/54) · [Manifiesto / Manifesto](../../manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)\n- [XLVII · Issue #55](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/55) · [Manifiesto / Manifesto](../../manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md)\n'''
+              if '## Oleadas XII–XIV' not in t:
+                  t = t.rstrip() + '\n' + extra
+              p.write_text(t,encoding='utf-8')
+
+          # Wiki source remains an orientation layer: update ranges and add one map entry, not a duplicate matrix.
+          p = ROOT/'wiki-source'/'Manifiestos.md'
+          if p.exists():
+              t = p.read_text(encoding='utf-8')
+              t = t.replace('I–XLV','I–XLVII').replace('I-XLV','I-XLVII')
+              t = t.replace('**XLV:**', '**XLV:**')
+              if 'XLVI–XLVII' not in t:
+                  needle = '* **XLV:**'
+                  idx = t.find(needle)
+                  if idx != -1:
+                      eol = t.find('\n', idx)
+                      t = t[:eol+1] + '* **XLVI–XLVII:** reconciliación civilizatoria, sombra, vínculo y verdad emocional.\n' + t[eol+1:]
+              p.write_text(t,encoding='utf-8')
+
+          # Validation: links and markers on all modified manifesto/work-map surfaces.
+          errors = []
+          for roman,(fn,_) in manifestos.items():
+              p = ROOT/'manifiestos'/fn
+              txt = p.read_text(encoding='utf-8')
+              if txt.count(START) != 1 or txt.count(END) != 1:
+                  errors.append(f'{p}: related-work marker count')
+          mp = ROOT/'manifiestos'/'RELACIONES_TRABAJO_APLICADO_ES_EN.md'
+          if not mp.exists() or mp.read_text(encoding='utf-8').count('<a id="manifiesto-') != 47:
+              errors.append('central relation map does not contain 47 anchors')
+
+          # Check relative Markdown links in the modified manifesto family, central map, reciprocal nodes and indexes.
+          check_paths = [ROOT/'manifiestos'/fn for fn,_ in manifestos.values()] + [mp]
+          check_paths += [ROOT/x for x in work_to_manifestos] + [ROOT/x for x in index_targets if (ROOT/x).exists()]
+          check_paths += [ROOT/x for x in current_surfaces if (ROOT/x).exists()]
+          link_re = re.compile(r'\[[^\]]*\]\(([^)]+)\)')
+          for pth in dict.fromkeys(check_paths):
+              txt = pth.read_text(encoding='utf-8')
+              for raw in link_re.findall(txt):
+                  url = raw.strip().split()[0]
+                  if url.startswith(('http://','https://','mailto:','#')):
+                      continue
+                  url = url.split('#',1)[0]
+                  if not url: continue
+                  dest = (pth.parent/url).resolve()
+                  try:
+                      dest.relative_to(ROOT.resolve())
+                  except Exception:
+                      continue
+                  if not dest.exists():
+                      errors.append(f'{pth}: broken relative link -> {url}')
+
+          # Current canonical integrity checks.
+          mi = (ROOT/'manifiestos'/'README.md').read_text(encoding='utf-8')
+          if 'catorce oleadas relacionadas' not in mi or 'fourteen related waves' not in mi:
+              errors.append('manifesto index wave count not normalized')
+          for token in ['XLV |','XLVI |','XLVII |','Issue #53','Issue #54','Issue #55']:
+              if token not in mi: errors.append(f'manifesto index missing {token}')
+          if errors:
+              print('\n'.join(errors))
+              raise SystemExit(f'Validation failed with {len(errors)} error(s)')
+
+          # Self-delete one-shot workflow before committing.
+          wf = ROOT/'.github/workflows/correlate-manifestos-applied-work.yml'
+          if wf.exists():
+              wf.unlink()
+          PY
+
+      - name: Commit relational layer
+        shell: bash
+        run: |
+          git config user.name "Innova_N Documentation Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "docs: correlate manifestos with applied work and repair canonical map"
+          git push origin HEAD:main
