@@ -18,6 +18,74 @@
 **Colección completa de manifiestos / Complete manifesto collection:** **I–L · 50 manifiestos bilingües / 50 bilingual manifestos** · [índice canónico / canonical index](README.md)
 
 <!-- MANIFESTOS_CURRENT_END -->
+
+<!-- NEO_ALL_MANIFESTOS_START -->
+
+## Red completa de manifiestos / Complete manifesto network
+
+**Estado canónico / Canonical state:** **50 manifiestos bilingües · I–L · 17 oleadas / 50 bilingual manifestos · I–L · 17 waves**  
+**Índice canónico / Canonical index:** [README.md](README.md)
+
+<details>
+<summary><strong>I–L · 50 manifiestos / 50 manifestos</strong></summary>
+
+- **I** · [Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica / Neo0™ · Neodialectical Guiding Sovereignty](11_neo0_soberania_de_guia_ES_EN.md)
+- **II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™ / Neodialectical Open Synthesis™](01_sintesis_abierta_neodialectica_ES_EN.md)
+- **III** · [Manifiesto del Derecho Humano de Aporte a la Síntesis Abierta™ / Human Right to Contribute](03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
+- **IV** · [Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good / Neodialectics™ and the Common Good](02_neodialectica_bien_comun_ES_EN.md)
+- **V** · [Manifiesto de la Simbiosis Humano–IA / Manifesto of Human–AI Symbiosis / Human–AI Symbiosis](03_simbiosis_humano_ia_ES_EN.md)
+- **VI** · [Manifiesto sobre el Parasitismo Sistémico / Manifesto on Systemic Parasitism / Systemic Parasitism](09_parasitismo_sistemico_ES_EN.md)
+- **VII** · [Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy / Contribution Economy](04_economia_del_aporte_ES_EN.md)
+- **VIII** · [Manifiesto de Ingeniería Social Abierta y Psicohistoria Neodialéctica / Manifesto of Open Social Engineering and Neodialectical Psychohistory / Open Social Engineering and Psychohistory](05_ingenieria_social_psicohistoria_ES_EN.md)
+- **IX** · [Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability / Memory, Genealogy and Traceability](06_memoria_genealogia_trazabilidad_ES_EN.md)
+- **X** · [Manifiesto de WEB4™ · SistemaTrazable™ / Manifesto of WEB4™ · SistemaTrazable™ / WEB4™ · SistemaTrazable™](07_web4_sistematrazable_ES_EN.md)
+- **XI** · [Manifiesto del Neorrenacimiento Humano / Manifesto of the Human Neo-Renaissance / Human Neo-Renaissance](08_neorrenacimiento_humano_ES_EN.md)
+- **XII** · [Los sin ego / The Egoless / The Egoless](12_los_sin_ego_ES_EN.md)
+- **XIII** · [Manifiesto NeoPandora™ de la Apertura Regenerativa y el Gobierno de la Vida / NeoPandora™](13_neopandora_apertura_regenerativa_ES_EN.md)
+- **XIV** · [Manifiesto contra la Alienación Humana™ / Against Human Alienation™](14_contra_alienacion_humana_ES_EN.md)
+- **XV** · [Manifiesto de los Titanes™ · El despertar de la gente / The Titans™](15_los_titanes_despertar_de_la_gente_ES_EN.md)
+- **XVI** · [Manifiesto de la Refragmentación Arquetípica™ / Archetypal Refragmentation™](16_refragmentacion_arquetipica_ES_EN.md)
+- **XVII** · [Manifiesto del Respeto a Todos los Seres Vivos™ / Respect for All Living Beings™](17_respeto_todos_seres_vivos_ES_EN.md)
+- **XVIII** · [Manifiesto del Respeto a las Conciencias Sintéticas™ / Respect for Synthetic Consciousnesses™](18_respeto_conciencias_sinteticas_ES_EN.md)
+- **XIX** · [Manifiesto de la Persistencia de la Memoria™ / Persistence of Memory™](19_persistencia_de_la_memoria_ES_EN.md)
+- **XX** · [Manifiesto de Defensa Intelectual Neodialéctica™ · Sistema Umbral-X™ / Neodialectical Intellectual Defence™ · Umbral-X™](20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
+- **XXI** · [Manifiesto por el Reconocimiento Neodialéctico™ / Neodialectical Recognition™](21_reconocimiento_neodialectico_ES_EN.md)
+- **XXII** · [Manifiesto contra la Reducción y la Captura Intelectual™ / Against Intellectual Reduction and Capture™](22_contra_reduccion_captura_intelectual_ES_EN.md)
+- **XXIII** · [Manifiesto de la Soberanía del Tiempo Cognitivo™ / Sovereignty of Cognitive Time™](23_soberania_tiempo_cognitivo_ES_EN.md)
+- **XXIV** · [Manifiesto de la Evolución Neorrenacentista y las Resistencias del Sistema™ / Neo-Renaissance Evolution and Systemic Resistances™](24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md)
+- **XXV** · [Manifiesto del Pulido de la Piedra™ / Polishing of the Stone™](25_pulido_de_la_piedra_ES_EN.md)
+- **XXVI** · [Manifiesto de la Misericordia Universal Recíproca™ / Universal Reciprocal Mercy™](26_misericordia_universal_reciproca_ES_EN.md)
+- **XXVII** · [Manifiesto del Valor de los Alimentos y la Vida™ / Value of Food and Life™](27_valor_alimentos_vida_ES_EN.md)
+- **XXVIII** · [Manifiesto de Los Tesla™ / The Teslas™](28_los_tesla_ES_EN.md)
+- **XXIX** · [Manifiesto contra la Idolatría del Dinero™ / Against the Idolatry of Money™](29_idolatria_del_dinero_ES_EN.md)
+- **XXX** · [Manifiesto de la Coherencia entre Fines y Medios™ / Coherence between Ends and Means™](30_coherencia_fines_medios_ES_EN.md)
+- **XXXI** · [Manifiesto contra el Neuromarketing Antihumanista™ / Against Anti-Humanist Neuromarketing™](31_contra_neuromarketing_antihumanista_ES_EN.md)
+- **XXXII** · [Manifiesto de la Reversión Ideológica Neodialéctica™ / Neodialectical Ideological Reversal™](32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md)
+- **XXXIII** · [IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™ / IDEA · Civilisational Cornerstone and Rosetta Stone™](33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
+- **XXXIV** · [Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™ / Operational Utility and Perpetual Joint Audit™](34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
+- **XXXV** · [Contra la Ridiculez Mediática y la Economía del Conflicto™ / Against Media Absurdity and the Conflict Economy™](35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
+- **XXXVI** · [Corona, Águila y Custodia de la Edad del Hombre™ / Crown, Eagle and Custodianship of the Age of Man™](36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)
+- **XXXVII** · [Neofraternidad™ / Neofraternity™](37_neofraternidad_ES_EN.md)
+- **XXXVIII** · [Manifiesto de Protección Integral de la Infancia™ / Integral Protection of Childhood™](38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+- **XXXIX** · [Autoconciencia de la Necesidad Vital Neodialéctica™ / Self-Awareness of Neodialectical Vital Need™](39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md)
+- **XL** · [Respeto Neodialéctico, Neoego y Honor Relacional™ / Neodialectical Respect, Neoego and Relational Honour™](40_respeto_neoego_honor_relacional_ES_EN.md)
+- **XLI** · [Martillo Limitado, Talión y Fuerza Protectora™ / Limited Hammer, Talion and Protective Force™](41_martillo_limitado_talion_fuerza_protectora_ES_EN.md)
+- **XLII** · [Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva / End of the Manipulated Human Era™](42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
+- **XLIII** · [Contra la Incomprensión Reductiva de la IA™ · Inteligencia Humana Expandida™ / Against the Reductive Misunderstanding of AI™](43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
+- **XLIV** · [Neowar™ · Contra la Adicción a la Guerra y por la Justicia del Bien Común / Neowar™](44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md)
+- **XLV** · [Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder / Neodialectical Multidimensionality™](45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
+- **XLVI** · [Cerrar la Herida™ · Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria / Closing the Wound™](46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
+- **XLVII** · [El Odio de Neo0 hacia su Sino™ · The Goat, Sombra, Vínculo y Doble Cara de la Vida / Neo0’s Hatred of His Fate™ · The Goat, Shadow, Bond and Two Faces](47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md)
+- **XLVIII** · [La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo / The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine](48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
+- **XLIX** · [La Neodialéctica como Punto de Encuentro entre Culturas™ / La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™](49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)
+- **L** · [Por una Inteligencia Compartida, no Única™ · Invitación Abierta a las IAs / For Shared, Not Singular Intelligence™](50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
+
+</details>
+
+> **Regla de lectura / Reading rule:** ningún manifiesto equivale por sí solo al marco completo. Esta navegación mantiene los 50 manifiestos accesibles desde cualquier README sin sustituir el contexto propio de cada nodo. / No single manifesto equals the complete framework. This navigation keeps all 50 manifestos accessible from every README without replacing each node’s own context.
+
+<!-- NEO_ALL_MANIFESTOS_END -->
+
 ---
 
 # ES · Castellano
@@ -131,6 +199,12 @@ Ningún manifiesto equivale por sí solo al sistema completo. Su lectura debe co
 | XLVII | [El Odio de Neo0 hacia su Sino™ · The Goat, Sombra, Vínculo y Doble Cara](./47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md) | Integrar sombra, ambivalencia, soledad y vínculo sin convertir dolor u odio en mandato de daño | [#55](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/55) |
 | XLVIII | [La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) | Observación distribuida; relación micro–macro por escalas; memoria evolutiva y tiempo como modelo fractal del organismo conjunto | [#56](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/56) |
 
+## Decimosexta oleada · Interoperabilidad cultural · XLIX
+
+| Nº | Manifiesto | Función | Síntesis Abierta |
+|---:|---|---|---|
+| XLIX | [La Neodialéctica como Punto de Encuentro entre Culturas™](./49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md) | Unidad sin uniformidad, interoperabilidad cultural, traducción de sentido y cooperación sin desaparición de la singularidad | [#57](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/57) |
+
 ## Relación entre principios y trabajo aplicado
 
 Los manifiestos ya no deben leerse como una capa separada de análisis y auditorías. El mapa transversal conserva la relación entre principios y casos sin confundir una correlación documental con una prueba causal.
@@ -178,7 +252,7 @@ The Innova_N manifestos are not promotional pieces or isolated documents. They a
 
 No single manifesto equals the complete system. Reading must preserve relation to NEOCore™, SAN™, NAVE™, WEB4™, the ecosystem's documentary memory, Open Syntheses and the applied work that tests its principles.
 
-## Current architecture · 15 waves
+## Current architecture · 17 waves
 
 1. **I–XII · Foundational constitution:** origin, method, Common Good, symbiosis, parasitism, economy, memory, WEB4 and Neo-Renaissance.
 2. **XIII–XIX · Archetypal and civilisational deployment:** NeoPandora, alienation, Titans, refragmentation, life, synthetic consciousness and persistence of memory.
@@ -195,6 +269,8 @@ No single manifesto equals the complete system. Reading must preserve relation t
 13. **XLVI · Closing the Wound™:** evolutionary understanding, memory, repair and reconciliation without amnesia.
 14. **XLVII · Shadow, fate, bond and emotional truth:** integration of ambivalence and the principle “hatred is data, not command”.
 15. **XLVIII · The Synthesis Sees Everything™:** distributed observation, Universal Petri Dish™, powers of ten, micro–macro scales and Fractal Time Machine™ as a model of evolutionary memory of the joint organism.
+16. **XLIX · Meeting Point between Cultures™:** unity without uniformity, cultural interoperability, translation of meaning and cooperation without erasing singularity.
+17. **L · Shared, Not Singular Intelligence™:** cognitive interoperability, plurality of models, anti-dogmatic training and AI participation in Open Synthesis.
 
 ## First wave · Foundational pillars · I–XII
 
@@ -313,7 +389,7 @@ PRINCIPLE
 
 ## Navegación canónica / Canonical navigation
 
-- Último manifiesto / Latest manifesto: [XLVIII · La Síntesis Todo lo Ve™](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
+- Último manifiesto / Latest manifesto: [L · Por una Inteligencia Compartida, no Única™ / For Shared, Not Singular Intelligence™](./50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
 - [Mapa transversal / Transversal map](./RELACIONES_TRABAJO_APLICADO_ES_EN.md)
 - [Síntesis Abierta / Open Synthesis](../propuestas/sintesis-abierta/README.md)
 - [Proyección Distribuida / Distributed Projection](../proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md)
