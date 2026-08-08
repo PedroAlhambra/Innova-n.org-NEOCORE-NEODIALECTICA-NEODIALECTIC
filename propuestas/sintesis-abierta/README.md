@@ -3,7 +3,7 @@
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
-**Cobertura canónica / Canonical coverage:** **47 manifiestos · I–XLVII / 47 manifestos · I–XLVII**  
+**Cobertura canónica / Canonical coverage:** **48 manifiestos · I–XLVIII / 48 manifestos · I–XLVIII**  
 **Estado / Status:** 2026-08-08
 
 * [Índice canónico de manifiestos / Canonical manifesto index](../../manifiestos/README.md)
@@ -92,7 +92,7 @@ La participación no se reduce a «a favor» o «en contra». Toda intervención
 | XLII | [Fin de la Era del Hombre Manipulado™](../../manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) | [#50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50) |
 | XLIII | [Contra la Incomprensión Reductiva de la IA™](../../manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md) | [#51](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/51) |
 
-## XLIV–XLVII · Guerra, multidimensionalidad, reconciliación y sombra
+## XLIV–XLVIII · Guerra, multidimensionalidad, reconciliación, sombra y observación distribuida
 
 | Nº | Manifiesto | Síntesis Abierta |
 |---:|---|---|
@@ -100,6 +100,7 @@ La participación no se reduce a «a favor» o «en contra». Toda intervención
 | XLV | [Multidimensionalidad Neodialéctica™](../../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) | [#53](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/53) |
 | XLVI | [Cerrar la Herida™](../../manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md) | [#54](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/54) |
 | XLVII | [El Odio de Neo0 hacia su Sino™](../../manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md) | [#55](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/55) |
+| XLVIII | [La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo](../../manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) | [#56](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/56) |
 
 ## Anexos y propuestas complementarias
 
@@ -131,6 +132,8 @@ La Síntesis Abierta no obliga a consumir tiempo humano o artificial indefinidam
 ## Relación con trabajo aplicado
 
 El debate de un manifiesto debe poder consultar los casos que realmente ponen a prueba su función. La correlación está centralizada para no llenar las Issues con enlaces redundantes ni confundir analogías con evidencia.
+
+XLVIII abre además el contraste explícito sobre observación distribuida, relación entre escalas, Placa de Petri Universal™, Máquina Fractal del Tiempo™, mónadas y tiempo entendido dentro del modelo como memoria evolutiva del organismo conjunto. Estas formulaciones permanecen abiertas a refutación, delimitación y contraste interdisciplinar.
 
 * [Mapa transversal Manifiestos ↔ trabajo aplicado](../../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md)
 
@@ -217,7 +220,7 @@ Participation is not reduced to “for” or “against”. Every intervention m
 | XLII | [End of the Manipulated Human Era™](../../manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) | [#50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50) |
 | XLIII | [Against the Reductive Misunderstanding of AI™](../../manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md) | [#51](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/51) |
 
-## XLIV–XLVII · War, multidimensionality, reconciliation and shadow
+## XLIV–XLVIII · War, multidimensionality, reconciliation, shadow and distributed observation
 
 | No. | Manifesto | Open Synthesis |
 |---:|---|---|
@@ -225,6 +228,7 @@ Participation is not reduced to “for” or “against”. Every intervention m
 | XLV | [Neodialectical Multidimensionality™](../../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) | [#53](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/53) |
 | XLVI | [Closing the Wound™](../../manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md) | [#54](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/54) |
 | XLVII | [Neo0’s Hatred of His Fate™](../../manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md) | [#55](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/55) |
+| XLVIII | [The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine](../../manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) | [#56](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/56) |
 
 ## Annexes and complementary proposals
 
@@ -256,6 +260,8 @@ Open Synthesis does not require indefinite consumption of human or artificial ti
 ## Relation to applied work
 
 A manifesto discussion should be able to consult the cases that genuinely test its function. Correlation is centralised to avoid redundant links and to keep analogies separate from evidence.
+
+XLVIII also opens explicit contrast on distributed observation, relation across scales, Universal Petri Dish™, Fractal Time Machine™, monads and time understood within the model as evolutionary memory of the joint organism. These formulations remain open to refutation, delimitation and interdisciplinary contrast.
 
 * [Transversal Manifestos ↔ applied-work map](../../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md)
 
