@@ -2,11 +2,12 @@
 # Public indirect audit · KDP, Author Central and IDEA
 
 **Fecha / Date:** 2026-08-06  
+**Última actualización / Last update:** 2026-08-08  
 **Caso de referencia / Reference case:** `51071689`  
 **Obra / Work:** IDEA  
 **Autor e impulsor / Author and initiator:** Pedro Martínez Alhambra  
 **Procedencia declarada / Declared provenance:** Fundación Neodialéctica Innova_N  
-**Estado / Status:** cierre operativo documentado · seguimiento de implementación / operational closure documented · implementation monitoring
+**Estado / Status:** seguimiento reabierto · disponibilidad confirmada · causa técnica pendiente / reopened follow-up · availability confirmed · technical cause pending
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -31,7 +32,7 @@ No atribuye intenciones, no identifica públicamente a agentes individuales de s
 
 La auditoría es indirecta porque no nace de un acceso interno a los sistemas de Amazon. Surge del uso real de KDP, de las páginas públicas de producto, de la gestión de múltiples idiomas y formatos, de la recepción de copias y del intercambio con soporte.
 
-> **Nota de lectura:** las secciones 2–7 conservan el estado observado al abrir la auditoría. La sección 8 registra la actualización posterior que documentó la corrección operativa. La traza histórica no debe confundirse con el estado actual.
+> **Nota de lectura:** las secciones 2–7 conservan el estado observado al abrir la auditoría. La sección 8 registra el hito de corrección operativa confirmado el 6 de agosto. La sección 9 integra la reapertura del 7–8 de agosto y enlaza sus addenda específicos. La traza histórica no debe confundirse con el estado actual.
 
 ## 2. Incidencias finlandesas documentadas
 
@@ -115,7 +116,7 @@ Al abrirse la auditoría quedaron pendientes:
 
 Un correo automático de disponibilidad se registró como evidencia relevante, pero no cerraba por sí mismo el conjunto del caso.
 
-## 8. Actualización posterior · cierre operativo documentado
+## 8. Hito posterior · corrección operativa documentada
 
 En una comunicación posterior del 6 de agosto de 2026, KDP y Author Central confirmaron por escrito que los formatos publicados de IDEA en doce idiomas habían quedado asignados correctamente a la Página de Autor:
 
@@ -136,7 +137,7 @@ El autor verificó después la corrección de las asociaciones y de los idiomas 
 
 KDP respondió además que las propuestas para mejorar la Biblioteca KDP y vincular automáticamente los libros a la Página de Autor eran **muy buenas ideas**, que habían tenido **una buena acogida** y que serían tenidas en cuenta a medida que se introdujeran nuevas mejoras en KDP y Author Central.
 
-### Dictamen actualizado
+### Dictamen del hito del 6 de agosto
 
 ```text
 INCIDENCIAS DE ASOCIACIÓN E IDIOMA
@@ -155,13 +156,68 @@ ATRIBUCIÓN INTERNA POR AMAZON
 → no verificada
 ```
 
-La auditoría deja de presentarse como expediente operativo sin resolver. Permanece abierta únicamente para observar una posible implementación general de las propuestas y cualquier evidencia futura sobre la conservación interna de su procedencia.
+Este resultado sigue siendo válido como **hito de corrección operativa**, pero dejó de equivaler a cierre definitivo del expediente cuando apareció nueva evidencia el 7 de agosto.
 
-El resultado derivado se documenta por separado como caso de éxito:
+El resultado derivado se conserva por separado como hito provisional:
 
-* [Caso de éxito · auditoría gratuita a Amazon KDP y Author Central](../../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+* [Hito de éxito operativo provisional · auditoría gratuita a Amazon KDP y Author Central](../../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
 
-## 9. Principio de publicación responsable
+## 9. Reapertura y estado actual · 7–8 de agosto de 2026
+
+El 7 de agosto, después de una verificación aparentemente correcta, el autor solicitó cerrar el caso. KDP confirmó el cierre. Horas después, múltiples ediciones impresas pasaron a mostrar simultáneamente un estado de «cambios sin publicar» / «Continuar configuración» sin que el autor declarara haber modificado esos títulos en ese intervalo.
+
+El autor remitió tres capturas y solicitó explicación antes de realizar nuevas acciones. La trazabilidad registra expresamente el cierre prematuro como error propio de evaluación y no lo atribuye a Amazon.
+
+El 8 de agosto KDP respondió que:
+
+* soporte no puede modificar directamente ese estado;
+* puede volver a enviarse el libro para intentar limpiarlo cuando no existen cambios reales;
+* también puede dejarse el libro como está si no es necesario modificarlo;
+* y **mantener ese estado no afecta a la disponibilidad actual del título**.
+
+KDP no explicó qué proceso produjo el cambio simultáneo, qué campo concreto figura pendiente ni si existe relación con las correcciones internas anteriores.
+
+El autor respondió solicitando mantener abierto o reabrir formalmente el expediente hasta aclarar, en la medida técnicamente posible:
+
+1. qué proceso provocó el estado;
+2. qué campo o metadato figura pendiente;
+3. si existe relación con actuaciones internas realizadas durante `51071689`;
+4. y si el estado puede normalizarse sin republicar manualmente cada edición.
+
+### Dictamen actual
+
+```text
+CORRECCIONES PREVIAS DE IDIOMA Y ASOCIACIÓN
+→ confirmadas como hito operativo
+
+NUEVO ESTADO «CAMBIOS SIN PUBLICAR»
+→ reconocido por KDP
+
+DISPONIBILIDAD COMERCIAL ACTUAL
+→ KDP confirma que no queda afectada por dejar el estado sin tocar
+
+CAUSA RAÍZ
+→ no determinada
+
+CAMPO PENDIENTE
+→ no identificado
+
+RELACIÓN CON CORRECCIONES INTERNAS PREVIAS
+→ no confirmada ni descartada
+
+REPUBLICACIÓN MASIVA SÓLO PARA LIMPIAR EL ESTADO
+→ no necesaria para conservar disponibilidad según la respuesta recibida
+
+ESTADO DE AUDITORÍA
+→ seguimiento reabierto
+```
+
+La secuencia completa queda desarrollada en dos addenda trazables:
+
+* [Addendum · reapertura del caso · 7 de agosto](../../auditorias/publicas/2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md)
+* [Addendum · respuesta KDP sobre «cambios sin publicar» · 8 de agosto](../../auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md)
+
+## 10. Principio de publicación responsable
 
 La finalidad de esta auditoría no es hostigar a trabajadores de soporte ni convertir errores técnicos en acusaciones personales. Es transformar una secuencia de incidencias en:
 
@@ -192,7 +248,7 @@ It does not attribute intentions, publicly identify individual support agents or
 
 The audit is indirect because it does not arise from internal access to Amazon systems. It emerges from actual use of KDP, public product pages, management of multiple languages and formats, receipt of copies and exchanges with support.
 
-> **Reading note:** sections 2–7 preserve the state observed when the audit was opened. Section 8 records the later update documenting operational correction. The historical trace must not be confused with the current state.
+> **Reading note:** sections 2–7 preserve the state observed when the audit was opened. Section 8 records the operational-correction milestone confirmed on 6 August. Section 9 integrates the 7–8 August reopening and links its dedicated addenda. The historical trace must not be confused with the current state.
 
 ## 2. Documented Finnish-edition incidents
 
@@ -276,7 +332,7 @@ When the audit was opened, the following remained pending:
 
 An automatic availability email was recorded as relevant evidence, but did not by itself close the entire case.
 
-## 8. Later update · documented operational closure
+## 8. Later milestone · documented operational correction
 
 In a later communication on 6 August 2026, KDP and Author Central confirmed in writing that published IDEA formats in twelve languages had been correctly assigned to the Author Page:
 
@@ -286,7 +342,7 @@ The author subsequently verified the corrected associations and displayed langua
 
 KDP also stated that the proposals for improving the KDP Bookshelf and automatically linking books to the Author Page were **very good ideas**, had been **well received**, and would be considered as new improvements were introduced across KDP and Author Central.
 
-### Updated determination
+### 6 August milestone determination
 
 ```text
 LANGUAGE AND ASSOCIATION INCIDENTS
@@ -305,13 +361,68 @@ INTERNAL ATTRIBUTION BY AMAZON
 → not verified
 ```
 
-The audit is no longer presented as an unresolved operational file. It remains open only to observe possible general implementation of the proposals and any future evidence concerning internal preservation of their provenance.
+This result remains valid as an **operational-correction milestone**, but it ceased to amount to definitive closure when new evidence appeared on 7 August.
 
-The derived result is documented separately as a success case:
+The derived result is preserved separately as a provisional milestone:
 
-* [Success case · free audit for Amazon KDP and Author Central](../../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+* [Provisional operational-success milestone · free audit for Amazon KDP and Author Central](../../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
 
-## 9. Responsible-publication principle
+## 9. Reopening and current status · 7–8 August 2026
+
+On 7 August, after an apparently correct verification, the author asked for the case to be closed. KDP confirmed closure. Hours later, multiple print editions simultaneously began displaying an “unpublished changes” / “Continue setup” state although the author stated that he had not modified those titles during that interval.
+
+The author sent three screenshots and requested an explanation before taking further action. The trace expressly records the premature closure as the author’s own evaluation error rather than attributing it to Amazon.
+
+On 8 August KDP replied that:
+
+* support cannot directly modify that state;
+* the book may be resubmitted to attempt to clear it when no real changes exist;
+* the book may also be left as it is when no changes are needed;
+* and **leaving that state untouched does not affect current title availability**.
+
+KDP did not explain which process produced the simultaneous state change, which specific field is pending, or whether it is related to earlier internal corrections.
+
+The author replied asking that the case remain open or be formally reopened until KDP can clarify, as far as technically possible:
+
+1. what process produced the state;
+2. which field or metadata is pending;
+3. whether it is related to actions carried out during `51071689`;
+4. whether the state can be normalised without manually republishing each edition.
+
+### Current determination
+
+```text
+PREVIOUS LANGUAGE AND ASSOCIATION CORRECTIONS
+→ confirmed as an operational milestone
+
+NEW “UNPUBLISHED CHANGES” STATE
+→ acknowledged by KDP
+
+CURRENT COMMERCIAL AVAILABILITY
+→ KDP confirms it is not affected by leaving the state untouched
+
+ROOT CAUSE
+→ undetermined
+
+PENDING FIELD
+→ unidentified
+
+RELATION TO EARLIER INTERNAL CORRECTIONS
+→ neither confirmed nor ruled out
+
+MASS REPUBLICATION MERELY TO CLEAR THE STATE
+→ not required to preserve availability according to the received response
+
+AUDIT STATUS
+→ reopened follow-up
+```
+
+The complete sequence is developed in two traceable addenda:
+
+* [Addendum · case reopening · 7 August](../../auditorias/publicas/2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md)
+* [Addendum · KDP response on “unpublished changes” · 8 August](../../auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md)
+
+## 10. Responsible-publication principle
 
 The purpose of this audit is not to harass support workers or turn technical errors into personal accusations. It is to transform a sequence of incidents into:
 
@@ -325,7 +436,9 @@ The purpose of this audit is not to harass support workers or turn technical err
 
 ## Referencias / References
 
-* [Caso de éxito / Success case](../../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+* [Hito de éxito operativo provisional / Provisional operational-success milestone](../../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+* [Addendum de reapertura / Reopening addendum · 2026-08-07](../../auditorias/publicas/2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md)
+* [Addendum de respuesta KDP / KDP-response addendum · 2026-08-08](../../auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md)
 * [IDEA · ediciones internacionales / international editions](../../obras/idea/EDICIONES.md)
 * [IDEA · nodo documental canónico / canonical documentary node](../../obras/idea/README.md)
 * [Repositorio principal / main repository](../../README.md)
