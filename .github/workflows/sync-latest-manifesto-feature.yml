@@ -1,0 +1,37 @@
+name: sync-latest-manifesto-feature
+
+on:
+  push:
+    paths:
+      - '.github/workflows/sync-latest-manifesto-feature.yml'
+      - '.github/scripts/sync_latest_manifesto_feature.py'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-latest-manifesto-feature-main
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Synchronize and validate
+        run: python .github/scripts/sync_latest_manifesto_feature.py
+      - name: Commit if needed
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          if git diff --cached --quiet; then
+            echo 'No changes required.'
+            exit 0
+          fi
+          git commit -m 'docs: feature manifesto LI and Open Synthesis 59 across all READMEs'
+          git pull --rebase origin main
+          git push origin main
