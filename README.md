@@ -7,7 +7,21 @@
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
+<!-- NEO_LATEST_UMBRAL_X_NEWS_START -->
 
+> ## 🟠 NOVEDAD · SÍNTESIS ABIERTA UMBRAL-X / LATEST · UMBRAL-X OPEN SYNTHESIS
+>
+> **MAXPROC 001 · El Dios del Control Leónidas-Cancerbero™**  
+> **Spotify · DistroKid · TIDAL · metadatos · regalías · perfiles · trazabilidad**
+>
+> Publicamos la **primera Hipótesis Umbral-X MAXPROC**: ¿qué explica los círculos de soporte, desasociaciones de canciones, perfiles incorrectos y posibles anomalías de regalías? Se contrastan seis hipótesis competidoras —desde fragmentación de metadatos y error humano hasta fraude de terceros o un posible incidente técnico— **sin afirmar ninguna como hecho sin evidencia**. / We publish the **first Umbral-X MAXPROC Hypothesis**, testing six competing explanations without treating any of them as fact without evidence.
+>
+> **LLAMAMIENTO A MÚSICOS / CALL TO MUSICIANS:** buscamos casos comparables con DistroKid, Spotify, TIDAL y otros DSP: canciones que desaparecen o reaparecen, perfiles divididos, mappings erróneos, identificadores cambiados, regalías ausentes, soporte circular, suplantación o evidencia que refute nuestras sospechas.
+>
+> **[Leer investigación / Read investigation](analisis/publicos/2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md) · [Aportar caso o evidencia · Síntesis Abierta #61 / Contribute case or evidence · Open Synthesis #61](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/61)**  
+> [Cómo aportar / How to contribute](propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+
+<!-- NEO_LATEST_UMBRAL_X_NEWS_END -->
 
 <!-- NEO_LATEST_MANIFESTO_START -->
 
@@ -246,7 +260,6 @@ Los manifiestos no son documentos accesorios, resúmenes auxiliares ni consignas
 **Antecedente genealógico de XXXVI:** [Corona, Águila e Innova_N como herramienta neodialéctica](./propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md).  
 **Anexo vinculado a XXXV:** [Responsabilidad de los Nodos de Poder y Deber de Examen Civilizatorio](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md).
 
-
 ## Octava oleada · Infancia, educación y transmisión civilizatoria · XXXVIII
 
 | Nº | Manifiesto | Función | Síntesis Abierta |
@@ -348,6 +361,8 @@ I · NEO0™
 → XLVII · SOMBRA, SINO Y DOBLE CARA
 → XLVIII · LA SÍNTESIS TODO LO VE
 → XLIX · PUNTO DE ENCUENTRO ENTRE CULTURAS
+→ L · INTELIGENCIA COMPARTIDA, NO ÚNICA
+→ LI · PODER CÍVICO COMPLEMENTARIO O SUSTITUTIVO
 → I · RETORNO A ORIGEN Y NUEVO CICLO
 ```
 
@@ -562,6 +577,7 @@ Los análisis distinguen, cuando corresponde, hechos verificados, datos oficiale
 
 ## Incorporaciones recientes
 
+* [2026-08-08 · Umbral-X MAXPROC 001 · El Dios del Control Leónidas-Cancerbero™](./analisis/publicos/2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md)
 * [2026-08-06 · Auditoría indirecta pública de KDP, Author Central e IDEA](./analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 * [2026-08-06 · Auditoría de integridad de enlaces, READMEs, manifiestos y Wiki](./auditorias/publicas/2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md)
 * [2026-08-05 · De la economía de la atención a la economía del aporte](./analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
@@ -892,7 +908,6 @@ The manifestos are not accessory documents, auxiliary summaries or isolated slog
 **Genealogical antecedent of XXXVI:** [Crown, Eagle and Innova_N as a neodialectical tool](./propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md).  
 **Linked annex to XXXV:** [Responsibility of Power Nodes and Civilisational Duty of Examination](./propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md).
 
-
 ## Eighth wave · Childhood, education and civilisational transmission · XXXVIII
 
 | No. | Manifesto | Function | Open Synthesis |
@@ -994,6 +1009,8 @@ I · NEO0™
 → XLVII · SHADOW, FATE AND TWO FACES
 → XLVIII · THE SYNTHESIS SEES EVERYTHING
 → XLIX · MEETING POINT BETWEEN CULTURES
+→ L · SHARED, NOT SINGULAR INTELLIGENCE
+→ LI · COMPLEMENTARY OR SUBSTITUTIVE CIVIC POWER
 → I · RETURN TO ORIGIN AND NEW CYCLE
 ```
 
@@ -1110,6 +1127,7 @@ It is not the complete operational system, a functional NEOCore™ copy, an open
 
 ## Recent incorporations
 
+* [2026-08-08 · Umbral-X MAXPROC 001 · The God of Control Leonidas-Cerberus™](./analisis/publicos/2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md)
 * [2026-08-06 · Public indirect audit of KDP, Author Central and IDEA](./analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 * [2026-08-06 · Integrity audit of links, READMEs, manifestos and Wiki](./auditorias/publicas/2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md)
 * [2026-08-05 · From the Attention Economy to the Contribution Economy](./analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
@@ -1272,8 +1290,9 @@ The protected architecture belongs to **Pedro Martínez Alhambra · Founder · N
 
 **Neodialectica Framework™ / Network · Innova_N · NEOCore™**
 
-- Colección pública actual: **50 manifiestos bilingües · I–L · diecisiete oleadas** / Current public collection: **50 bilingual manifestos · I–L · seventeen waves**.
-- Último manifiesto / Latest manifesto: [L · Por una Inteligencia Compartida, no Única™ / For Shared, Not Singular Intelligence™](./manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md).
+- Colección pública actual: **51 manifiestos bilingües · I–LI · dieciocho oleadas** / Current public collection: **51 bilingual manifestos · I–LI · eighteen waves**.
+- Último manifiesto / Latest manifesto: [LI · Síntesis Abierta como Poder Cívico Complementario o Sustitutivo™ / Open Synthesis as Complementary or Substitutive Civic Power™](./manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md).
+- Última noticia de Síntesis Abierta / Latest Open Synthesis news: [Umbral-X MAXPROC 001 · Leónidas-Cancerbero™](./analisis/publicos/2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md) · [Issue #61](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/61).
 - Índice completo / Complete index: [Manifiestos / Manifestos](./manifiestos/README.md).
 - Contraste público / Public contrast: [Síntesis Abierta / Open Synthesis](./propuestas/sintesis-abierta/README.md).
 - Expansión y redundancia / Expansion and redundancy: [Protocolo de Proyección Distribuida Neodialéctica™](./proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md).
