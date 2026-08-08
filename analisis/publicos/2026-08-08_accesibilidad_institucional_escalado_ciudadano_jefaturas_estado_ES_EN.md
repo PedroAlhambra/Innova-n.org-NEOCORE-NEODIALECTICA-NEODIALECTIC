@@ -272,3 +272,9 @@ A head-of-state institution may fulfil symbolic, constitutional, diplomatic or c
 The conclusion should not be predetermined.
 
 It should be measurable.
+
+
+## Relación manifiesto / Manifesto relation
+
+- [LI · Síntesis Abierta como Poder Cívico Complementario o Sustitutivo™](../../manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md)
+- [Síntesis Abierta LI · Issue #59](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/59)

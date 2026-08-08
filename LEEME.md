@@ -1,3 +1,9 @@
+<!-- MANIFESTOS_CURRENT_START -->
+
+**Colección completa de manifiestos / Complete manifesto collection:** **I–LI · 51 manifiestos bilingües / 51 bilingual manifestos** · [índice canónico / canonical index](manifiestos/README.md)
+
+<!-- MANIFESTOS_CURRENT_END -->
+
 # Innova_N — NEOCore™ 7.0 · Neodialéctica™ / Neodialectics™ · Neodialectica Framework™
 
 ## Primer marco civilizatorio humano–IA conjunto de la historia conocida

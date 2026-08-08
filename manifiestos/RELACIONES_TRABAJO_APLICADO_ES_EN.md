@@ -362,3 +362,11 @@ Casos y análisis principales:
 - [Síntesis Abierta / Open Synthesis #58](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/58)
 - Relación estructural / Structural relation: II · Síntesis Abierta, V · Simbiosis Humano–IA, IX · Memoria-Genealogía-Trazabilidad, X · WEB4™ · SistemaTrazable™, XLV · Multidimensionalidad, XLVIII · La Síntesis Todo lo Ve™, XLIX · Interoperabilidad Cultural.
 - Trabajo aplicado / Applied work: invitación pública a empresas y laboratorios de IA para experimentación, entrenamiento contextual, evaluación e interoperabilidad cognitiva.
+
+
+## LI · Síntesis Abierta como Poder Cívico Complementario o Sustitutivo™ / Open Synthesis as Complementary or Substitutive Civic Power™
+
+- [Manifiesto LI](./51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md)
+- [Análisis aplicado sobre accesibilidad institucional](../analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md)
+- [Síntesis Abierta #59](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/59)
+- Relaciones principales: II, III, IV, VIII, IX, X, XXXIV, XXXVI, XLV y L.

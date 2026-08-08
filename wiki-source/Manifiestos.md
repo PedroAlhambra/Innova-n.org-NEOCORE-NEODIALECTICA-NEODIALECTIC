@@ -253,3 +253,9 @@ Unidad sin uniformidad; diferencia sin fragmentación; interoperabilidad cultura
 - [Manifiesto bilingüe / Bilingual manifesto](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
 - [Síntesis Abierta / Open Synthesis #58](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/58)
 - Invita a empresas, laboratorios, comunidades abiertas y desarrolladores de IA a comprender, enseñar, criticar y experimentar con la Síntesis Abierta sin convertir el marco en dogma ni una IA en inteligencia única.
+
+
+### LI · Síntesis Abierta como Poder Cívico Complementario o Sustitutivo™
+
+- [Manifiesto LI](../manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md)
+- [Síntesis Abierta #59](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/59)
