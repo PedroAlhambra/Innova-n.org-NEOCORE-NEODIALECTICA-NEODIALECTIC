@@ -34,6 +34,14 @@ This directory gathers public notices, traces and audits documented by Innova_N.
 
 ### Integridad documental / Documentary integrity
 
+* [2026-08-08 · Auditoría global final de README, enlaces, XLIII y trazabilidad KDP](./2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md)
+
+  Postcheck integral del árbol Markdown: READMEs, rutas internas, aliases versionados de la Wiki, estado I–XLIII, enlaces de Síntesis Abierta y cadena documental KDP 51071689.
+
+* [2026-08-08 · Final global audit of README, links, XLIII and KDP traceability](./2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md)
+
+  Full Markdown-tree postcheck covering READMEs, internal paths, versioned Wiki aliases, I–XLIII state, Open Synthesis links and the KDP 51071689 documentary chain.
+
 * [2026-08-06 · Auditoría de integridad de enlaces, READMEs, manifiestos y Wiki](./2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md)
 
   Conserva la revisión histórica de los enlaces y fuentes realizada el 6 de agosto de 2026. Las modificaciones posteriores deben verificarse mediante sus propios commits y los índices canónicos actuales.

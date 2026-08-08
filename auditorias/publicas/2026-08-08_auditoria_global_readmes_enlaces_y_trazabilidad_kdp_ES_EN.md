@@ -14,7 +14,7 @@
 
 - Markdown revisados: **148**.
 - README.md revisados: **12**.
-- Enlaces Markdown internos relativos comprobados: **2619**.
+- Enlaces Markdown internos relativos comprobados: **2622**.
 - Enlaces Wiki extensionless reconocidos correctamente contra su `.md` fuente: **13**.
 - Enlaces internos genuinamente rotos: **0**.
 - Marcadores canónicos obsoletos en hubs vivos: **0**.
@@ -67,6 +67,8 @@ Ninguno.
 
 Ninguno.
 
+- Auditoría final indexada en `auditorias/publicas/README.md`: **sí**. / Final audit indexed in `auditorias/publicas/README.md`: **yes**.
+
 ## Límite de la comprobación
 
 Se han validado contra el árbol real del repositorio todas las rutas Markdown relativas detectadas. Los enlaces externos de terceros no quedan garantizados permanentemente por esta auditoría y los anclajes automáticos de GitHub derivados de encabezados Unicode no se someten aquí a una simulación completa del renderer.
@@ -79,7 +81,7 @@ Se han validado contra el árbol real del repositorio todas las rutas Markdown r
 
 - Markdown files reviewed: **148**.
 - README.md files reviewed: **12**.
-- Relative internal Markdown links checked: **2619**.
+- Relative internal Markdown links checked: **2622**.
 - Extensionless Wiki links correctly resolved against versioned `.md` sources: **13**.
 - Genuine broken internal links: **0**.
 - Stale canonical markers in live hubs: **0**.
