@@ -13,7 +13,7 @@ Esta página no reproduce los manifiestos ni mantiene un segundo índice paralel
 
 El índice canónico, las versiones bilingües, la navegación entre documentos, la genealogía y las Issues de Síntesis Abierta están en:
 
-* [Índice canónico de manifiestos I–XLIX](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
+* [Índice canónico de manifiestos I–L](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
 * [Mapa transversal Manifiestos ↔ trabajo aplicado](../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md)
 
 ## Cómo leer la colección
@@ -129,7 +129,7 @@ This page does not reproduce the manifestos or maintain a second parallel index.
 
 The canonical index, bilingual versions, document navigation, genealogy and Open Synthesis Issues are located at:
 
-* [Canonical manifesto index I–XLIX](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
+* [Canonical manifesto index I–L](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
 * [Transversal Manifestos ↔ applied-work map](../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md)
 
 ## How to read the collection
@@ -246,3 +246,10 @@ Unidad sin uniformidad; diferencia sin fragmentación; interoperabilidad cultura
 - [Manifiesto canónico](../manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)
 - [Síntesis Abierta · Issue #57](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/57)
 - [Antecedente: Religión, identidad, dogma y conciencia](../analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
+
+
+## L · Por una Inteligencia Compartida, no Única™ / For Shared, Not Singular Intelligence™
+
+- [Manifiesto bilingüe / Bilingual manifesto](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
+- [Síntesis Abierta / Open Synthesis #58](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/58)
+- Invita a empresas, laboratorios, comunidades abiertas y desarrolladores de IA a comprender, enseñar, criticar y experimentar con la Síntesis Abierta sin convertir el marco en dogma ni una IA en inteligencia única.

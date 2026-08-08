@@ -10,7 +10,7 @@
 
 <!-- MANIFESTOS_CURRENT_START -->
 
-**Colección completa de manifiestos / Complete manifesto collection:** **I–XLIX · 49 manifiestos bilingües / 49 bilingual manifestos** · [índice canónico / canonical index](manifiestos/README.md)
+**Colección completa de manifiestos / Complete manifesto collection:** **I–L · 50 manifiestos bilingües / 50 bilingual manifestos** · [índice canónico / canonical index](manifiestos/README.md)
 
 <!-- MANIFESTOS_CURRENT_END -->
 ---
@@ -25,7 +25,10 @@ Este repositorio conserva la capa pública, documental y trazable del ecosistema
 
 ## Accesos prioritarios
 
-* [Índice navegable de manifiestos I–XLIX](./manifiestos/README.md)
+* [L · Por una Inteligencia Compartida, no Única™](./manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
+* [Síntesis Abierta L · Issue #58](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/58)
+
+* [Índice navegable de manifiestos I–L](./manifiestos/README.md)
 * [Anuncio histórico de la cuarta oleada](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [Anuncio de sexta oleada y deltas transversales](./anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md)
 * [XXXIII · IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
@@ -669,7 +672,7 @@ This repository preserves the public, documentary and traceable layer of the **I
 
 ## Priority access
 
-* [Navigable manifesto index I–XLIX](./manifiestos/README.md)
+* [Navigable manifesto index I–L](./manifiestos/README.md)
 * [Historical fourth-wave announcement](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [Sixth-wave and transverse-deltas announcement](./anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md)
 * [XXXIII · IDEA · Civilisational Cornerstone and Rosetta Stone™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
@@ -1165,7 +1168,7 @@ The protected architecture belongs to **Pedro Martínez Alhambra · Founder · N
 
 **Neodialectica Framework™ / Network · Innova_N · NEOCore™**
 
-- Colección pública actual: **49 manifiestos bilingües · I–XLIX · dieciséis oleadas** / Current public collection: **49 bilingual manifestos · I–XLIX · sixteen waves**.
+- Colección pública actual: **50 manifiestos bilingües · I–L · dieciséis oleadas** / Current public collection: **50 bilingual manifestos · I–L · sixteen waves**.
 - Último manifiesto / Latest manifesto: [XLIX · La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™](./manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md).
 - Índice completo / Complete index: [Manifiestos / Manifestos](./manifiestos/README.md).
 - Contraste público / Public contrast: [Síntesis Abierta / Open Synthesis](./propuestas/sintesis-abierta/README.md).

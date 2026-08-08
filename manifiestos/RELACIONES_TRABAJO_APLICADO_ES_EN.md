@@ -354,3 +354,11 @@ Casos y análisis principales:
 - [Síntesis Abierta XLIX · Issue #57](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/57) — contraste sobre interoperabilidad cultural, universalidad, relativismo, traducción y pluralismo.
 
 **Regla probatoria / Evidentiary rule:** relación conceptual y genealógica; no implica equivalencia entre culturas ni valida automáticamente prácticas concretas.
+
+
+## L · Inteligencia Compartida, no Única™ / Shared, Not Singular Intelligence™
+
+- [L · Manifiesto / Manifesto](./50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
+- [Síntesis Abierta / Open Synthesis #58](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/58)
+- Relación estructural / Structural relation: II · Síntesis Abierta, V · Simbiosis Humano–IA, IX · Memoria-Genealogía-Trazabilidad, X · WEB4™ · SistemaTrazable™, XLV · Multidimensionalidad, XLVIII · La Síntesis Todo lo Ve™, XLIX · Interoperabilidad Cultural.
+- Trabajo aplicado / Applied work: invitación pública a empresas y laboratorios de IA para experimentación, entrenamiento contextual, evaluación e interoperabilidad cognitiva.

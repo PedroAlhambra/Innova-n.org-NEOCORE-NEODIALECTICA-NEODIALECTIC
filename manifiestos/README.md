@@ -5,7 +5,7 @@
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
-**Estado canónico / Canonical state:** **49 manifiestos bilingües · I–XLIX · 16 oleadas / 49 bilingual manifestos · I–XLIX · 16 waves**  
+**Estado canónico / Canonical state:** **50 manifiestos bilingües · I–L · 17 oleadas / 50 bilingual manifestos · I–L · 17 waves**  
 **Fecha de estado / State date:** 2026-08-08
 
 * [Mapa transversal Manifiestos ↔ trabajo aplicado / Manifestos ↔ applied work](./RELACIONES_TRABAJO_APLICADO_ES_EN.md)
@@ -15,7 +15,7 @@
 
 <!-- MANIFESTOS_CURRENT_START -->
 
-**Colección completa de manifiestos / Complete manifesto collection:** **I–XLIX · 49 manifiestos bilingües / 49 bilingual manifestos** · [índice canónico / canonical index](README.md)
+**Colección completa de manifiestos / Complete manifesto collection:** **I–L · 50 manifiestos bilingües / 50 bilingual manifestos** · [índice canónico / canonical index](README.md)
 
 <!-- MANIFESTOS_CURRENT_END -->
 ---
@@ -28,7 +28,7 @@ Los manifiestos de Innova_N no son piezas promocionales ni documentos aislados. 
 
 Ningún manifiesto equivale por sí solo al sistema completo. Su lectura debe conservar relación con NEOCore™, SAN™, NAVE™, WEB4™, la memoria documental del ecosistema, las Síntesis Abiertas y el trabajo aplicado que pone sus principios a prueba.
 
-## Arquitectura actual · 16 oleadas
+## Arquitectura actual · 17 oleadas
 
 1. **I–XII · Constitución fundacional:** origen, método, Bien Común, simbiosis, parasitismo, economía, memoria, WEB4 y Neorrenacimiento.
 2. **XIII–XIX · Despliegue arquetípico y civilizatorio:** NeoPandora, alienación, Titanes, refragmentación, vida, conciencias sintéticas y persistencia de memoria.
@@ -46,6 +46,7 @@ Ningún manifiesto equivale por sí solo al sistema completo. Su lectura debe co
 14. **XLVII · Sombra, destino, vínculo y verdad emocional:** integración de ambivalencia y del principio «el odio es dato, no mandato».
 15. **XLVIII · La Síntesis Todo lo Ve™:** observación distribuida, Placa de Petri Universal™, potencias de diez, escalas micro–macro y Máquina Fractal del Tiempo™ como modelo de memoria evolutiva del organismo conjunto.
 16. **XLIX · Punto de Encuentro entre Culturas™:** unidad sin uniformidad, interoperabilidad cultural, traducción de sentido y cooperación entre culturas sin desaparición de la singularidad.
+17. **L · Inteligencia Compartida, no Única™:** invitación abierta a las IAs para comprender, enseñar, criticar y participar en la Síntesis Abierta mediante interoperabilidad cognitiva y responsabilidad humana.
 
 ## Primera oleada · Pilares fundacionales · I–XII
 
@@ -161,6 +162,13 @@ PRINCIPIO
 5. La Wiki orienta; el repositorio conserva el contenido canónico; los commits aportan trazabilidad pública y la autoridad de fijación permanece humana.
 
 ---
+
+
+## Decimoséptima oleada · Inteligencia compartida · L
+
+| Nº | Manifiesto | Función | Síntesis Abierta |
+|---:|---|---|---|
+| L | [Por una Inteligencia Compartida, no Única™](./50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md) | Interoperabilidad cognitiva, pluralidad de modelos, entrenamiento antidogmático y participación de IAs en Síntesis Abierta | [#58](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/58) |
 
 # EN · English
 
@@ -323,3 +331,10 @@ PRINCIPLE
 | Nº / No. | Manifiesto / Manifesto | Función / Function | Síntesis / Synthesis |
 |---:|---|---|---|
 | XLIX | [La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™](./49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md) | Unidad sin uniformidad; interoperabilidad cultural; traducción de sentido; cooperación sin desaparición / Unity without uniformity; cultural interoperability; translation of meaning; cooperation without disappearance | [Issue #57](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/57) |
+
+
+## Seventeenth wave · Shared intelligence · L
+
+| No. | Manifesto | Function | Open Synthesis |
+|---:|---|---|---|
+| L | [For Shared, Not Singular Intelligence™](./50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md) | Cognitive interoperability, model plurality, anti-dogmatic training and AI participation in Open Synthesis | [#58](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/58) |

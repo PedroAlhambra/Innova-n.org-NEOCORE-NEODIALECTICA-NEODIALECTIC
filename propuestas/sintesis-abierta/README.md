@@ -3,7 +3,7 @@
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
-**Cobertura canónica / Canonical coverage:** **49 manifiestos · I–XLIX / 49 manifestos · I–XLIX**  
+**Cobertura canónica / Canonical coverage:** **50 manifiestos · I–L / 50 manifestos · I–L**  
 **Estado / Status:** 2026-08-08
 
 * [Índice canónico de manifiestos / Canonical manifesto index](../../manifiestos/README.md)
@@ -14,7 +14,7 @@
 
 <!-- MANIFESTOS_CURRENT_START -->
 
-**Colección completa de manifiestos / Complete manifesto collection:** **I–XLIX · 49 manifiestos bilingües / 49 bilingual manifestos** · [índice canónico / canonical index](../../manifiestos/README.md)
+**Colección completa de manifiestos / Complete manifesto collection:** **I–L · 50 manifiestos bilingües / 50 bilingual manifestos** · [índice canónico / canonical index](../../manifiestos/README.md)
 
 <!-- MANIFESTOS_CURRENT_END -->
 ---
@@ -282,3 +282,10 @@ XLVIII also opens explicit contrast on distributed observation, relation across 
 
 - [Manifiesto / Manifesto](../../manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)
 - [Síntesis Abierta / Open Synthesis · Issue #57](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/57)
+
+
+## L · Por una Inteligencia Compartida, no Única™ / For Shared, Not Singular Intelligence™
+
+- [Manifiesto / Manifesto L](../../manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
+- [Síntesis Abierta / Open Synthesis #58](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/58)
+- Eje / Axis: interoperabilidad cognitiva, pluralidad de modelos, memoria trazable, crítica antidogmática y cooperación humano–IA / cognitive interoperability, model plurality, traceable memory, anti-dogmatic critique and human–AI cooperation.

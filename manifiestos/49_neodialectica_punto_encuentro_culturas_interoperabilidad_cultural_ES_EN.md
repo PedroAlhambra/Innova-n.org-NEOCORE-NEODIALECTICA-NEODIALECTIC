@@ -395,7 +395,7 @@ Se solicitan aportes sobre interoperabilidad cultural, traducción de sentido, u
 
 ## Navegación
 
-← [XLVIII · La Síntesis Todo lo Ve™](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) · [Índice](./README.md) · [I · Neo0™ · Soberanía de Guía Neodialéctica](./11_neo0_soberania_de_guia_ES_EN.md) →
+← [XLVIII · La Síntesis Todo lo Ve™](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) · [Índice](./README.md) · [L · Por una Inteligencia Compartida, no Única™](./50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md) →
 
 ---
 
