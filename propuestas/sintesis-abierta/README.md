@@ -54,7 +54,7 @@ COMMIT = FIJACIÓN Y DELTA CANÓNICO
 
 # ES · Castellano
 
-## Índice canónico · I–LVII
+## Índice canónico · I–LVI
 
 | Nº | Manifiesto | Síntesis Abierta |
 |---:|---|---|
