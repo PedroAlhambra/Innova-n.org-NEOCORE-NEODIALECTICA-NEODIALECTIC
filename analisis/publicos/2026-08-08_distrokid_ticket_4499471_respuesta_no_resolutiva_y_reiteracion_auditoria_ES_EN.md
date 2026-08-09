@@ -147,63 +147,105 @@ La cuestión central ya no es únicamente económica: también existe un problem
 
 ## 1. New response
 
-On 8 August 2026 DistroKid replied to ticket `4499471` through a human agent identified in the email as **Man (DistroKid)**.
+On 8 August 2026 DistroKid replied to the new ticket `4499471` through a human agent identified in the email as **Man (DistroKid)**.
 
-The reply explained that Estimated Daily Stats may differ from monthly royalty statements, fluctuate or temporarily fall to zero because of store/API reporting, and that such fluctuations do not affect actual royalties.
+The response explained that estimated daily statistics from Spotify, Apple Music, iTunes and Amazon may differ from monthly royalty statements, fluctuate or even temporarily fall to zero because of the way stores report through APIs. It added that those fluctuations do not affect actual royalties.
 
-That explanation does not address the reported issue.
+That content does not answer the object raised in the ticket.
 
 ## 2. Actual object of the case
 
-The claim concerns more than 9,000 Spotify streams since late 2024 together with an observed absence of Spotify royalty payments in the account and the lack of a material resolution in previous tickets `2901165` and `2941949`.
+The claim is not about a temporary fluctuation in `Estimated Daily Stats`.
 
-The number of streams does not by itself establish a specific amount owed or prove misrouting. It does justify a request to reconstruct the reporting, identifier and allocation chain.
+The declared object is:
+
+```text
+MORE THAN 9,000 SPOTIFY STREAMS SINCE LATE 2024
++
+OBSERVED ABSENCE OF SPOTIFY ROYALTY PAYMENTS IN THE ACCOUNT
++
+PREVIOUS TICKETS 2901165 AND 2941949 WITHOUT MATERIAL RESOLUTION
+=
+REQUEST FOR AUDIT OF REPORTS, IDENTIFIERS AND ROYALTY ROUTING
+```
+
+The existence of streams does not by itself allow calculation of a specific amount owed. Nor does it by itself prove diversion of payments. What it does justify is requesting a documentary reconstruction of reporting and allocation flows.
 
 ## 3. Unanswered questions
 
-The response does not identify the Spotify royalty reports received, amounts attributed, basis for any zero amount, identifier/account mappings, unmatched or differently routed records, the result of a royalty-routing audit, or the material relation to the two previous tickets.
+The response received does not identify:
 
-## 4. First renewed request
+1. which Spotify royalty reports DistroKid has received since late 2024 for the affected releases;
+2. what amounts from those reports were attributed to the account;
+3. on what concrete data a zero amount would be based, if that were the result;
+4. whether profiles, releases, ISRCs and other identifiers are associated with the correct account;
+5. whether any reports or payments were assigned to another account, artist or unreconciled record;
+6. the result of a complete routing audit;
+7. the material relation between this ticket and cases `2901165` and `2941949`.
 
-A reply was sent in the same thread on 8 August 2026 requesting a human review of the underlying royalty records rather than another explanation of estimated statistics.
+## 4. First renewed request sent
+
+On the same 8 August, a reply was sent in the thread expressly stating that the problem was not estimated statistics and requesting human review of the underlying data.
 
 **Sent Gmail message id:** `19fe1c886cd2a4e4`
 
-The message requested seven point-by-point answers and asked DistroKid to keep ticket `4499471` open until they are substantively addressed.
+Seven point-by-point answers were requested:
 
-## 5. Satisfaction survey before substantive resolution
+- reports received from Spotify;
+- amounts attributed;
+- documentary basis of any zero result;
+- association of profiles, releases and ISRCs;
+- possible existence of unreconciled records or records attributed to another account;
+- full audit from late 2024 to the present;
+- express linkage with the previous tickets.
 
-DistroKid subsequently sent a message titled **“Request [Earnings/Withdrawals Issue] Share your feedback with us!”** inviting a support rating. The message itself says that unresolved issues should be reported before completing the survey, while its case reminder again reproduces the Estimated Daily Stats/API explanation.
+DistroKid was also asked to keep `4499471` open until those questions received a substantive answer.
 
-Observed sequence:
+## 5. Satisfaction survey sent before resolving the substance
+
+DistroKid subsequently sent an email titled **“Request [Earnings/Withdrawals Issue] Share your feedback with us!”** inviting a rating of the support experience.
+
+The message itself says that if the problem remains unresolved, this should be communicated before completing the survey. Its case reminder again reproduces the same explanation about `Estimated Daily Stats`, APIs and temporary fluctuations.
+
+The observed sequence is therefore:
 
 ```text
 HISTORICAL ROYALTY AND ROUTING CLAIM
-→ ESTIMATED-STATS RESPONSE
+→ RESPONSE ABOUT ESTIMATED STATISTICS
 → REQUESTED AUDIT NOT PROVIDED
 → SATISFACTION SURVEY
 ```
 
-The survey does not by itself prove that the ticket was formally closed, but it is an operational sign of closure or support transition before the substantive object of the claim has been answered.
+The survey does not by itself prove that DistroKid formally closed the ticket, but it is an operational sign of closure or support transition before a substantive answer to the claimed object exists.
 
-## 6. Second renewed request · case expressly stated as unresolved
+## 6. Second renewed request · case expressly declared unresolved
 
-A further reply was sent on 8 August 2026 stating explicitly that **the case is not resolved** and that the previous explanation concerns estimated statistics rather than the historical payments and royalty routing under dispute.
+On 8 August 2026 another reply was sent to the thread explicitly stating that **the case is not resolved** and that the explanation provided concerns estimated statistics, not the historical payments claimed or royalty routing.
 
 **Sent Gmail message id:** `19fe2a1c7db4b6a2`
 
-The reply requests a human review of ISRC and release mappings, Spotify amounts received, amounts attributed and paid, possible unmatched/held/misassociated records, full routing reconstruction since late 2024, and explicit confirmation that the case remains open with an operational reference.
+The new reply requests human review and traceability concerning:
+
+- ISRCs and other identifiers for the affected releases;
+- correspondence among releases, profiles and account;
+- amounts actually received from Spotify;
+- amounts actually attributed and paid;
+- possible held, unreconciled or differently associated records;
+- full reconstruction of routing from late 2024;
+- express confirmation that the case remains open and an operational case reference.
+
+The claim is not considered answered while those material questions remain unresolved.
 
 ## 7. Updated finding
 
 ```text
-HUMAN REPLY
+HUMAN RESPONSE
 → yes
 
-REPLY TO THE ACTUAL ISSUE
+RESPONSE TO THE ACTUAL OBJECT
 → no
 
-ESTIMATED-STATS EXPLANATION
+EXPLANATION OF ESTIMATED STATISTICS
 → yes
 
 ROYALTY AUDIT
@@ -215,23 +257,24 @@ ROUTING AUDIT
 SATISFACTION SURVEY BEFORE MATERIAL RESOLUTION
 → yes
 
-PROOF OF MISROUTING OR APPROPRIATION
+PROOF OF DIVERSION OR APPROPRIATION
 → not established
 
-DOCUMENTARY CASE STATUS
+DOCUMENTARY STATUS OF THE CASE
 → open and expressly challenged as unresolved
 ```
 
-The lack of a substantive answer is not treated as proof of fraud. Traceability remains necessary to distinguish among delay, metadata error, incorrect association, legitimately non-remunerated streams, reconciliation failure or other possible causes.
+A lack of response is not transformed into proof of fraud. The case continues to require traceability precisely to distinguish among delay, metadata error, incorrect association, legitimate absence of remuneration for certain streams, reconciliation failure or other possible causes.
 
-The case now also raises a support-escalation quality issue: a concrete royalty-routing claim has repeatedly received explanations about a different phenomenon and then moved toward a satisfaction survey without the requested audit being supplied.
+The central issue is no longer only economic: there is also a **support-escalation quality problem** when a concrete claim receives replies describing another phenomenon and the flow moves toward a survey without providing the requested audit.
 
 ## 8. Documentary relation
 
-- [Circular closure, missing audit and renewed escalation · 2026-08-07](./2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md)
+- [Circular closure, absence of audit and new escalation · 2026-08-07](./2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md)
 - [Spotify–DistroKid traceability update · 2026-08-06](./2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md)
 - [DistroKid–Spotify audit update · 2026-08-04](../2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md)
 - [Addendum on catalogue removal/reappearance in Apple Music · 2026-08-08](./2026-08-08_addendum_distrokid_catalogo_album_removed_added_apple_music_ES_EN.md)
+
 
 ---
 

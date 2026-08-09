@@ -234,46 +234,105 @@ FUNDADOR SOSTIENE CASI TODO
 
 ## 1. Object
 
-This delta records two related problems the framework should not hide:
+This delta records two related problems that the framework should not hide:
 
-1. the accumulated cost of **creating, documenting, correcting, defending, projecting and opening to scrutiny** a framework oriented towards the Common Good;
-2. the need to resist patterns of cognitive degradation that replace truth, study and correction with prestige, money, fame, manipulation, tribalism, reduction or repetition without learning.
+1. the accumulated cost of **creating, documenting, correcting, defending, projecting and opening to contrast** a framework oriented toward the Common Good;
+2. the need to combat patterns of cognitive degradation that replace truth, study and correction with prestige, money, fame, manipulation, tribalism, reduction or repetition without learning.
 
-Archetypal Neodialectical Philosophy™ did not begin in August 2026. Its working genealogy goes back to **2021**. Recent commits document phases of publication and formalisation; they must not be confused with the actual beginning of the creator’s effort.
+Archetypal Neodialectical Philosophy™ did not originate in August 2026. Its working genealogy goes back to **2021**. Recent commits document phases of publication and formalisation and must not be confused with the real beginning of the creative effort.
 
 ## 2. Founder’s War Against Cognitive Stupidity™
 
 The expression **Founder’s War Against Cognitive Stupidity™** is used in an **intellectual, cultural and non-violent** sense.
 
-It is not a war against people and does not authorise insult, persecution, harassment, targeting or violence. It names a persistent struggle against **correctable cognitive and systemic patterns**.
+It does not designate a war against people and does not authorise insult, persecution, harassment, targeting or violence. It designates a persistent struggle against **correctable cognitive and systemic patterns**.
 
-Here, “stupidity” does not mean lower intelligence or a permanent identity. It is operationalised through behaviours such as judging a complex object without examining it; repeating harmful conduct despite evidence and a real possibility of correction; replacing argument with status, fame, money, provenance or authority; manipulating information or attention for advantage; rewarding notoriety or conflict over truth and usefulness; systematically ignoring proposals solely for lack of prestige; erasing genealogy; demanding endless explanations without learning; or turning disagreement into essential enmity.
+Within this delta, “stupidity” does not mean lower intelligence or a permanent identity. It is operationalised as behaviours such as:
 
-### Depersonalisation rule
+- judging a complex object without examining it and presenting that impression as a total judgement;
+- repeating harmful conduct after evidence and a real possibility of correction are available;
+- replacing argument with position, fame, money, provenance or authority;
+- manipulating information, attention or context to gain advantage;
+- rewarding notoriety or conflict above truth and usefulness;
+- systematically blocking or ignoring a proposal for lack of prestige without proportionate examination;
+- appropriating work, erasing genealogy or invisibilising the effort sustaining a creation;
+- demanding infinite explanations without learning from previous ones;
+- turning disagreement into contempt or the adversary into an essential enemy.
+
+The “war” consists of:
+
+```text
+MEMORY
++ SOURCE
++ EVIDENCE
++ CONTRADICTION
++ TRACEABILITY
++ BETTER QUESTIONS
++ RIGHT TO CORRECT
++ RIGHT TO BE CORRECTED
++ OPEN SYNTHESIS
+= RESISTANCE TO COGNITIVE DEGRADATION
+```
+
+### Depersonalisation rule of the struggle
 
 > **Fight the error, manipulation and capture pattern; do not turn the person into the error.**
 
-## 3. Lack of support is not proof of bad faith
+A person acting reductively today may contribute a decisive correction tomorrow. The architecture must preserve that possibility.
 
-The founder records a personal experience of prolonged low recognition, limited public support and disproportionately solitary effort, including outreach through professional and social networks.
+## 3. Lack of support does not prove bad faith
 
-This autobiographical datum is relevant to the real cost of creation and projection, but it does not prove corruption, greed, fame-seeking or bad faith in those who do not engage.
+The founder records as personal experience a prolonged perception of **low recognition, limited public support and disproportionately solitary effort**, including outreach through professional and social networks.
+
+That autobiographical datum is relevant for studying the real burden of creation and projection, but it must retain a safeguard:
+
+**NOT SUPPORTING ≠ BEING CORRUPT ≠ SEEKING ONLY MONEY OR FAME ≠ ACTING IN BAD FAITH.**
+
+Possible causes include lack of awareness, information saturation, lack of time, disagreement, absence of trust, access barriers, incentives, reputational filters or simple lack of interest.
+
+Neodialectical criticism should target verifiable mechanisms where they exist, not attribute intentions without evidence.
 
 ## 4. Return of Foundational Time™
 
-The framework recognises that human time devoted to Common-Good infrastructure is neither infinite nor naturally free.
+The framework recognises that human time devoted to a Common-Good project **is neither infinite nor naturally free**.
 
-Since 2021, the founder’s work has included conceptual creation, writing, technical design, memory and genealogy, audit, contradiction, correction, publication, maintenance, external responses, institutional and academic outreach, manual onboarding, defence against reduction or appropriation, and editorial and technical materialisation.
+Since 2021, the founder's work includes, among other functions:
+
+- conceptual and philosophical creation;
+- writing and revision;
+- technical and architectural design;
+- construction of NEOCore™, WEB4™, Open Synthesis and related systems;
+- preservation of memory and genealogy;
+- audit, contradiction and correction;
+- publication and documentary maintenance;
+- attention to external objections;
+- institutional, academic, technological, cultural and editorial outreach;
+- individual contact and follow-up;
+- manual guidance for new participants while no simpler participation interface exists;
+- defence against reduction, appropriation, manipulation or erasure of the work;
+- editorial and technological materialisation.
 
 ### Principle of Return of Foundational Time™
 
-> **Time, cognitive labour, risk, care, maintenance, exposure and projection effort traceably devoted to building Common-Good infrastructure are real contributions. The framework should record them and, when legitimate return mechanisms exist, allow proportional recognition and return without turning such recognition into infallibility, hereditary privilege or absolute power.**
+> **Time, cognitive work, risk, care, maintenance, exposure and projection effort traceably devoted to building infrastructure oriented toward the Common Good are real contributions. The framework should record them and, when legitimate return mechanisms exist, allow proportional recognition and return without transforming that recognition into infallibility, hereditary privilege or absolute power.**
 
-Possible future forms include documentary recognition, attribution, funding, remuneration for real functions, proportional return within the Contribution Economy™, workload reduction, recovered time, institutional support and distributed maintenance.
+Future return may take different forms:
+
+- documentary recognition;
+- attribution and precedence;
+- funding;
+- remuneration for functions actually performed;
+- proportional economic return within the future Contribution Economy™;
+- workload reduction through teams and automation;
+- recovered time for research, family, rest and creation;
+- institutional or material support;
+- distribution of maintenance across new nodes.
 
 ## 5. No fabricated retrospective hours
 
-The framework must not invent an exact number of hours for 2021–2026 where no sufficient record exists.
+The framework should not invent an exact number of hours worked between 2021 and 2026 where sufficient records do not exist.
+
+The distinction is fixed:
 
 ```text
 DOCUMENTED PERIOD OF DEDICATION SINCE 2021
@@ -281,11 +340,35 @@ DOCUMENTED PERIOD OF DEDICATION SINCE 2021
 PROVEN EXACT NUMBER OF HOURS
 ```
 
-From this phase onward, work should be logged by date, type, object, reasonably estimated time where possible, verifiable output, evidence, utility and actual return.
+Temporal genealogy can be recognised from 2021; exact hours should only be counted when reasonable evidence exists.
+
+From this phase onward it is recommended to record each session or block through:
+
+| Field | Description |
+|---|---|
+| Date | day of work |
+| Type | creation / review / outreach / defence / support / maintenance / synthesis / materialisation |
+| Object | piece, contact, issue, edition or system |
+| Time | duration when it can be reasonably estimated |
+| Result | verifiable output |
+| Evidence | commit, email, issue, publication, file, ticket or delivery |
+| Utility | immediate / potential / to be validated |
+| Current return | none / recognition / income / collaboration / other |
 
 ## 6. Outreach is also infrastructure work
 
-Outreach is not merely separate “marketing” when its function is to find expert contradiction, incorporate evidence, open institutional nodes, recruit Open Synthesis participants, obtain critical review, explain system use, preserve relations and genealogy, or transform an isolated proposal into collective infrastructure.
+Outreach is not counted as “marketing” separate from the framework when its real function is to:
+
+- find expert contradiction;
+- incorporate evidence;
+- open institutional nodes;
+- recruit participants for Open Synthesis;
+- obtain critical review;
+- explain how to use the system;
+- preserve relations and genealogy;
+- transform an isolated proposal into collective infrastructure.
+
+Therefore:
 
 ```text
 CREATION
@@ -300,34 +383,72 @@ CREATION
 
 ## 7. Guided participation and onboarding cost
 
-While GitHub remains the operational Open Synthesis channel, new participants may be guided through the process.
+While GitHub remains the operational channel for Open Synthesis, the founder and available nodes may **guide new participants by the hand**.
 
-The preferred route is the corresponding public Issue. If a person contributes by email because GitHub is inconvenient, the contribution may be classified, transformed into a proposed GitHub transcription or summary, and published only after explicit permission for publication and attribution.
+The preferred route remains the corresponding public Issue. If someone replies by email because GitHub is uncomfortable for them, the process may be:
 
-**Receiving an email does not itself grant publication permission.**
+1. receive the contribution by email;
+2. classify it as criticism, source, objection, alternative, experience or another category;
+3. prepare a transcription or summary for GitHub;
+4. request explicit authorisation to publish and attribute;
+5. publish only after that authorisation;
+6. link the contribution to the related manifesto, analysis or Issue;
+7. record the resulting delta.
 
-The time spent mediating this process is also maintenance and civic-infrastructure work.
+**EMAIL RECEIVED ≠ PERMISSION TO PUBLISH.**
 
-## 8. Safeguards
+Time invested in this mediation is also maintenance and expansion work for civic infrastructure.
+
+## 8. Relation to the existing framework
+
+This delta is especially connected with:
+
+- **I · Neo0™ and Guiding Sovereignty:** human origin does not equal infallibility;
+- **VI · Systemic Parasitism:** extraction of value and work without return;
+- **VII · Contribution Economy™:** recognition and possible proportional return;
+- **XX · Umbral-X™:** intellectual defence and contrast;
+- **XXI · Neodialectical Recognition™:** recording authorship, utility, precedence and invisible work;
+- **XXII · Against Intellectual Reduction and Capture™**;
+- **XXIII · Sovereignty of Cognitive Time™:** explanation, maintenance and defence consume time;
+- **XXIV · System Resistances™**;
+- **XXIX · Against the Idolatry of Money™:** money and fame should not replace truth or utility;
+- **XXXV · Against Media Ridicule and the Conflict Economy™:** operationalisation of systemic stupidity, prestige filters and duty of examination;
+- **XL · Respect, Neoego and Relational Honour™**;
+- **XLII · End of the Era of the Manipulated Human™**.
+
+## 9. Safeguards
 
 ```text
-FOUNDER LABOUR ≠ FOUNDER INFALLIBILITY
+FOUNDER WORK ≠ FOUNDER INFALLIBILITY
 SACRIFICE ≠ RIGHT TO DOMINATE
 TIME CONTRIBUTED ≠ AUTOMATIC TRUTH
 LACK OF SUPPORT ≠ PROOF OF CONSPIRACY
-MONEY / FAME AS INCENTIVES ≠ AUTOMATIC GUILT
+MONEY / FAME AS INCENTIVE ≠ AUTOMATIC GUILT
 WAR AGAINST STUPIDITY ≠ WAR AGAINST PEOPLE
 RECOGNITION ≠ CULT
 FUTURE RETURN ≠ CURRENT AUTOMATIC FINANCIAL DEBT
 ```
 
-## 9. Working thesis
+## 10. Working thesis
 
-A framework that claims to protect the Common Good must also prove that it does not consume the person building it indefinitely.
+The framework's coherence test includes its capacity **not to grind down the person who builds it**.
 
-If its growth depends on exhausting one person’s time, health, income, attention and private life, the architecture is not yet sufficiently distributed.
+If an architecture claims to defend the Common Good but can grow only by indefinitely consuming the time, health, income, attention and private life of a single person, the architecture is not yet sufficiently distributed.
 
-The intended evolution is from founder-heavy maintenance to traceable effort, visible cost, guided participation, distributed functions, recognition, proportional return and a sustainable network in which the founder can recover time without losing genealogical traceability or human direction.
+The correct evolution is:
+
+```text
+FOUNDER SUSTAINS ALMOST EVERYTHING
+→ RECORD OF EFFORT
+→ VISIBILITY OF COST
+→ GUIDED PARTICIPATION
+→ DISTRIBUTION OF FUNCTIONS
+→ RECOGNITION
+→ PROPORTIONAL RETURN
+→ SELF-SUSTAINING NETWORK
+→ FOUNDER RECOVERS TIME WITHOUT LOSING TRACEABILITY OR GENEALOGICAL DIRECTION
+```
+
 
 ---
 

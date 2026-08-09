@@ -206,9 +206,9 @@ Este addendum eleva el nivel de trazabilidad al fijar:
 
 ## 1. Purpose
 
-This addendum expands a catalogue-integrity incident already recorded in the canonical DistroKid–Spotify audit compendium in general terms as **removals, redeliveries, reappearances and incomplete catalogue restoration**.
+This addendum develops in detail an incident that the canonical DistroKid–Spotify audit compendium had already recorded more generally as **removals, redeliveries, reappearances and incomplete catalogue restoration**.
 
-The preserved mailbox contains automatic notifications issued by DistroKid’s own Artist Profile Alerts system with explicit sequences of:
+The mailbox review preserves automatic notifications issued by DistroKid's own Artist Profile Alerts system with explicit sequences of:
 
 ```text
 Album removed
@@ -218,7 +218,7 @@ Album added
 
 without the author declaring that he requested those operations.
 
-These notifications directly document catalogue events detected by DistroKid. **They do not by themselves prove royalty diversion, ISRC changes or deliberate misconduct.**
+These notifications are direct evidence of catalogue events detected by DistroKid. **They do not by themselves prove royalty diversion, an ISRC change or deliberate conduct.**
 
 ## 2. Techno Bach · 13–14 November 2025
 
@@ -244,7 +244,30 @@ DistroKid email · 14 November 2025:
 - `I found you - Single`
 - `Sun between the clouds - Single`
 
-Only `Metal Waves` and `Storm Clouds` occur in both consecutive sets. The event is therefore not visibly equivalent to a symmetrical removal/restoration of the same six items.
+### Observable discrepancy
+
+The consecutive lists **do not match**.
+
+Only these titles appear in both:
+
+- `Metal Waves - Single`
+- `Storm Clouds - Single`
+
+The following do not appear in the immediate addition list:
+
+- `Night Howls - Single`
+- `Gog! - Single`
+- `Building the Neodialectic Eden - Single`
+- `Climbing High - Single`
+
+Titles appear as added that were not in the previous day's removal list:
+
+- `Pyramid - Single`
+- `Dark matter - Single`
+- `I found you - Single`
+- `Sun between the clouds - Single`
+
+This requires reconstruction by identifiers and does not allow us to assume a simple symmetrical reversal.
 
 ## 3. Yellow Quasar · 6–7 December 2025
 
@@ -270,24 +293,43 @@ DistroKid email · 7 December 2025:
 - `Octaves Dream - Single`
 - `Variations over the rain (Original piano version) - Single`
 
-Four titles overlap. `Deo Metallum` and `Uno` do not appear in the immediate addition list, while two different catalogue objects appear instead.
+### Observable discrepancy
 
-## 4. Earlier availability evidence
+Four titles match:
 
-Separate DistroKid messages preserved in the mailbox confirm Apple Music availability for, among others:
+- `Variations over the rain - Single`
+- `Shadowy Whispers - Single`
+- `Tryp to the Nothing - Single`
+- `Tryp to the Nothing (revisited) - Single`
 
-- `Gog!` · Techno Bach · 24 July 2025;
-- `Uno` · Yellow Quasar · 23 August 2025.
+The following do not appear in the immediate addition list:
 
-Additional Page Protector reports show successive additions of `Building the Neodialectic Eden`, `Night Howls` and `Uno` during July–August 2025.
+- `Deo Metallum - Single`
+- `Uno - Single`
 
-## 5. Evidentiary distinction
+Two different objects appear as added:
 
-DistroKid’s Artist Profile Alert emails state that the system monitors major streaming services, but the preserved `Album removed` / `Album added` lines **do not themselves identify the DSP associated with each individual event**.
+- `Octaves Dream - Single`
+- `Variations over the rain (Original piano version) - Single`
 
-The contemporaneous institutional complaint filed in December 2025 identified the incidents as affecting Apple Music. That attribution is part of the complainant’s documentary record, but it does not replace technical confirmation from DistroKid’s internal event data.
+Again, the pattern is not a removal followed by an identical restoration of the same visible set.
 
-Accordingly:
+## 4. Additional evidence of earlier additions
+
+The mailbox also preserves separate DistroKid notices confirming Apple Music availability, including:
+
+- `Gog!` · Techno Bach · available on Apple Music on 24 July 2025;
+- `Uno` · Yellow Quasar · available on Apple Music on 23 August 2025.
+
+Other Page Protector reports also show successive additions of `Building the Neodialectic Eden`, `Night Howls` and `Uno` during July–August 2025.
+
+## 5. Required evidentiary distinction
+
+DistroKid Artist Profile Alerts indicate that the system **monitors the major streaming platforms**, but the body of the preserved emails containing `Album removed` / `Album added` **does not expressly identify which DSP corresponds to each individual line**.
+
+The contemporaneous institutional complaint of December 2025 classified these episodes as incidents affecting Apple Music. That attribution is part of the complainant's documentation, but it does not replace the technical confirmation that only DistroKid can provide from its internal records.
+
+Therefore:
 
 ```text
 REMOVED / ADDED EVENTS
@@ -298,35 +340,59 @@ THE SPECIFIC EVENT BEING APPLE MUSIC
 → technical confirmation by DistroKid pending
 
 ISRC / UPC / ROUTING CHANGE
-→ not established
+→ not demonstrated
 
 ROYALTY DIVERSION
-→ not established
+→ not demonstrated
 ```
 
-## 6. Relation to the economic audit
+## 6. Relation to the economic case
 
-These incidents matter because the royalty audit already requires reconstruction of the complete release → identifier → DSP object → reporting → beneficiary chain.
+These incidents matter because the royalty audit already requires reconstruction of the chain:
 
-A removal, redelivery, relink or replacement may be economically harmless when identifiers and reconciliation remain intact. It may also create fragmentation or traceability loss when parallel objects, identifier changes or incorrect mappings exist.
+```text
+Release
+→ UPC
+→ ISRC
+→ delivery / redelivery
+→ DSP catalogue object
+→ artist profile
+→ streams
+→ economic report
+→ receiving account
+```
 
-The events are therefore not presented as proof of fraud, but as material evidence that must be reconciled against the royalty-routing audit.
+A removal, redelivery, relink or replacement may be economically harmless if identifiers and reconciliation are preserved correctly. It may also generate fragmentation or loss of traceability if parallel objects, identifier changes or incorrect mappings exist.
 
-## 7. Supplement sent to ticket 4499471
+These events are therefore **not presented as proof of fraud**, but as material evidence that must be reconciled with the royalty audit.
 
-On 8 August 2026 a formal supplement was sent in ticket `4499471`, requesting DistroKid to identify for every event:
+## 7. Additional request added to ticket 4499471
 
-1. the exact DSP/store;
-2. release, UPC and ISRC;
-3. whether the operation was removal, redelivery, relink or replacement;
-4. whether any identifier changed;
-5. whether any royalty-reporting object/account mapping changed;
-6. why the removed and added sets do not match;
-7. whether the event could affect reporting or reconciliation.
+On 8 August 2026 a formal supplement was sent in the `4499471` ticket thread asking DistroKid, for every event above, to:
+
+1. identify the exact DSP/store;
+2. identify the release, UPC and ISRC involved;
+3. state whether there was a removal, redelivery, relink or replacement;
+4. confirm whether any identifier changed;
+5. confirm whether any royalty-reporting object or mapping changed;
+6. explain why the `removed` and `added` lists do not match;
+7. confirm whether those events could have affected economic reconciliation or reporting.
+
+The email requires this evidence to be integrated into the human routing and catalogue audit already requested, without turning the anomaly into a premature allegation.
 
 ## 8. Finding
 
-The issue **was already present in GitHub**, but only in aggregated form in Phase D of the canonical compendium. This addendum now fixes dates, projects, exact titles, sequence mismatches and the distinction between confirmed evidence and still-pending DSP attribution.
+The case **was already recorded in GitHub**, but until this review it was aggregated in Phase D of the canonical compendium as a catalogue-integrity incident.
+
+This addendum raises the level of traceability by fixing:
+
+- dates;
+- projects;
+- specific titles;
+- removal/addition sequences;
+- discrepancies between sets;
+- and the distinction between confirmed evidence and DSP identification that remains pending.
+
 
 ---
 

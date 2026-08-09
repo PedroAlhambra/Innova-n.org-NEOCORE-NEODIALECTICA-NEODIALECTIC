@@ -122,9 +122,9 @@ La tesis se fortalece si aumenta de forma verificable:
 
 Archetypal Neodialectical Philosophy™ does not need to wait for a complete future implementation to demonstrate a narrower property: **its basic cognitive cycle can already be executed**.
 
-The current repository, versioned memory, documentary relations, manifestos, audits, Open Synthesis, incorporation of external criticism and human–AI review constitute a **minimal operational proof of executability**.
+The current existence of the repository, its versioned memory, relations among documents, manifestos, audits, Open Synthesis, incorporation of external criticism and human–AI review constitute a **minimal operational proof of executability**.
 
-This does NOT demonstrate that every thesis in the framework is true.
+This does NOT mean demonstrating that every thesis in the framework is true.
 
 ```text
 EXISTING AND EXECUTABLE SYSTEM
@@ -134,9 +134,9 @@ EXISTING AND EXECUTABLE SYSTEM
 ≠ AUTOMATIC PROOF OF ALL ITS THESES
 ```
 
-## 2. Observable cycle
+## 2. Already observable cycle
 
-Even with basic tools, the system can already execute:
+With tools that are still basic, the system can perform the following cycle:
 
 ```text
 SOURCE / PROPOSAL
@@ -150,15 +150,31 @@ SOURCE / PROPOSAL
 → NEW REVIEW
 ```
 
+Terry Winograd's external criticism and its later return to the framework as a delta on power, incentives and transition is a concrete example of that cycle.
+
 ## 3. Human review bottleneck
 
-As the corpus grows, responsible review requires more time to reread and relate its parts. Lack of time or attention does not by itself demonstrate bad faith or capture. It does reveal a cognitive architecture problem: a complex system may remain unexamined because its initial comprehension cost is too high.
+The larger the corpus becomes, the greater the cost of rereading and relating it before issuing responsible criticism.
+
+A counterpart's lack of time or attention does not demonstrate bad faith, incompetence or capture. It does show a cognitive-architecture problem: **a complex system can be valuable and still remain unexamined because its initial comprehension cost is too high**.
+
+That bottleneck is a functional reason to introduce AI into review.
 
 ## 4. Scalable AI Review™
 
-Neodialectical AI can serve as a preliminary and continuous review layer for memory, relation finding, contradiction detection, version comparison, epistemic classification, source return and preparation of human review.
+Neodialectical AI can operate as a prior and continuous review layer to:
 
-It does not replace expert judgement.
+- preserve memory of a large corpus;
+- locate relations and contradictions;
+- compare versions;
+- separate facts, inferences, hypotheses and proposals;
+- detect unsourced or over-broad claims;
+- prepare questions and counterexamples;
+- return the human reviewer to the exact source;
+- summarise deltas without erasing genealogy;
+- reduce repetitive rereading work.
+
+Its function is not to replace the expert or decide what is true by algorithmic authority.
 
 ```text
 AI = MEMORY AMPLIFICATION + FIRST CONTRAST + PREPARATION
@@ -167,11 +183,46 @@ HUMAN = RESPONSIBILITY + JUDGEMENT + DECISION + CORRECTION
 
 ## 5. Principle of Limited Demonstration by Execution™
 
-> **When a system publicly and traceably executes a function it claims to perform, that execution is operational evidence for that function, without thereby proving every thesis, purpose or future capability of the system.**
+> **When a system publicly and traceably executes a function that it claims to be able to perform, that execution constitutes operational evidence of that function, although it does not by extension demonstrate all the system's theses, aims or future capabilities.**
 
-## 6. Still to be demonstrated
+## 6. What remains to be demonstrated
 
-Large-scale participation, comparative quality, measurable error reduction, resistance to capture, distributed governance, multi-AI interoperability, economic sustainability, institutional legitimacy and civilisational impact remain open empirical and design questions.
+Minimal operational proof does not yet resolve:
+
+- scalability to large communities;
+- comparative quality against other methods;
+- quantifiable error reduction;
+- resistance to bias and capture;
+- sustained distributed governance;
+- interoperability among multiple AIs;
+- economic sustainability;
+- utility across different domains;
+- institutional legitimacy;
+- civilisational impact.
+
+These properties require experimentation, metrics, comparison, external criticism and time.
+
+## 7. Advancement criteria
+
+The thesis becomes stronger if the following increase in a verifiable way:
+
+1. the number of external criticisms incorporated with genealogy;
+2. the capacity to detect and correct contradictions;
+3. reproducibility of source → delta routes;
+4. reduction of human review time without degrading quality;
+5. the number of independent reviewers capable of using the system;
+6. decentralisation of functions currently concentrated in Neo0;
+7. the capacity of different AIs to reach compatible relations or useful contradictions.
+
+## 8. Relations
+
+- [XXXIV · Operational Utility of the Framework and Perpetual Joint Audit™](../../manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
+- [L · For Shared, Not Singular Intelligence™](../../manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
+- [XLII · End of the Era of the Manipulated Human™](../../manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
+- [Founder Audit™](../../auditorias/publicas/2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md)
+- [Open Synthesis XXXIV · #29](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/29)
+- [Open Synthesis L · #58](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/58)
+
 
 ---
 
