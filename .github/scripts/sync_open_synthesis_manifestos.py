@@ -13,7 +13,6 @@ leonidas = root / 'propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APOR
 latest_path = mdir / '56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md'
 issue76 = 'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/76'
 
-# Bootstrap LVI into the canonical index if this is the first LVI run.
 idx = index.read_text(encoding='utf-8')
 if latest_path.name not in idx:
     marker = '\n</details>\n'
@@ -37,7 +36,6 @@ for a,b in [
     idx = idx.replace(a,b)
 index.write_text(idx,encoding='utf-8')
 
-# Bootstrap LVI into Open Synthesis index/table and repair stale coverage labels.
 ss = synth_index.read_text(encoding='utf-8')
 for a,b in [
     ('55 manifiestos · I–LV / 55 manifestos · I–LV','56 manifiestos · I–LVI / 56 manifestos · I–LVI'),
@@ -61,12 +59,15 @@ synth_index.write_text(ss,encoding='utf-8')
 
 IDX=index.read_text(encoding='utf-8')
 net_match=re.search(r'<!-- NEO_ALL_MANIFESTOS_START -->(.*?)<!-- NEO_ALL_MANIFESTOS_END -->',IDX,re.S)
-if not net_match: raise SystemExit('Canonical manifesto network block missing')
+if not net_match:
+    raise SystemExit('Canonical manifesto network block missing')
 links=[]; seen=set()
 for roman,title,href in re.findall(r'- \*\*([IVXLCDM]+)\*\* · \[([^\]]+)\]\(([^)]+\.md)\)',net_match.group(1)):
     p=(mdir/href).resolve()
-    if p in seen: continue
-    if not p.exists(): raise SystemExit(f'Missing canonical manifesto: {href}')
+    if p in seen:
+        continue
+    if not p.exists():
+        raise SystemExit(f'Missing canonical manifesto: {href}')
     seen.add(p); links.append((roman,title.strip(),p))
 if len(links)!=56 or links[0][0]!='I' or links[-1][0]!='LVI':
     raise SystemExit(f'Canonical manifesto set invalid: {len(links)} {links[-1][0] if links else None}')
@@ -78,11 +79,14 @@ NETWORK_START='<!-- NEO_ALL_MANIFESTOS_START -->'; NETWORK_END='<!-- NEO_ALL_MAN
 INVITE_START='<!-- NEO_OPEN_SYNTHESIS_INVITATION_START -->'; INVITE_END='<!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->'
 NAV_START='<!-- NEO_MANIFESTO_NAV_START -->'; NAV_END='<!-- NEO_MANIFESTO_NAV_END -->'
 
-def rel(frm,target): return os.path.relpath(target,start=frm.parent).replace(os.sep,'/')
+def rel(frm,target):
+    return os.path.relpath(target,start=frm.parent).replace(os.sep,'/')
+
 def replace_block(text,start,end,block,append=False):
     if start in text and end in text:
         return re.sub(re.escape(start)+r'.*?'+re.escape(end),block,text,count=1,flags=re.S)
-    if append: return text.rstrip()+'\n\n'+block+'\n'
+    if append:
+        return text.rstrip()+'\n\n'+block+'\n'
     return text
 
 def latest_block(f):
@@ -93,7 +97,7 @@ def latest_block(f):
 > **LVI · NO-CONTROL™ · Síntesis Previa a la Potencia**  
 > **LVI · NO-CONTROL™ · Synthesis Before Power**
 >
-> Distingue perturbación funcional de ataque intencional y riesgo de doble uso de acusación. Fija que la potencia tecnológica no debe crecer por delante de la capacidad colectiva de comprenderla, limitarla, auditarla y detenerla. / It separates functional disruption from intentional attack and dual-use risk from accusation. Technological power should not outrun the collective capacity to understand, limit, audit and stop it.
+> Distingue perturbación funcional de ataque intencional y riesgo de doble uso de acusación. La potencia tecnológica no debe crecer por delante de la capacidad colectiva de comprenderla, limitarla, auditarla y detenerla. / It separates functional disruption from intentional attack and dual-use risk from accusation. Technological power should not outrun the collective capacity to understand, limit, audit and stop it.
 >
 > **[Leer LVI / Read LVI]({rel(f,LATEST)}) · [Síntesis Abierta LVI · #76 / Open Synthesis LVI · #76]({issue76})**  
 > [Cómo aportar]({rel(f,protocol)}) · [Leónidas™ · auditorías externas]({rel(f,leonidas)}) · [Auditorías públicas]({rel(f,audits)}) · [56 manifiestos I–LVI]({rel(f,index)})
@@ -124,6 +128,18 @@ def network_block(f):
 </details>
 
 > Ningún manifiesto equivale por sí solo al marco completo. / No single manifesto equals the complete framework.
+
+{NETWORK_END}'''
+
+def compact_network_block(f):
+    return f'''{NETWORK_START}
+
+## Manifiestos / Manifestos
+
+**I–LVI · 56 manifiestos bilingües · 23 oleadas / 56 bilingual manifestos · 23 waves.**  
+Los manifiestos son pilares públicos del marco, no equivalentes al marco completo. / The manifestos are public pillars of the framework, not equivalents of the complete framework.
+
+**[Abrir índice canónico y navegable / Open canonical navigable index →]({rel(f,index)})**
 
 {NETWORK_END}'''
 
@@ -161,9 +177,20 @@ for f in readmes:
     s=f.read_text(encoding='utf-8'); old=s
     s=replace_block(s,LATEST_START,LATEST_END,latest_block(f))
     s=replace_block(s,CURRENT_START,CURRENT_END,current_block(f))
-    if NETWORK_START in s and NETWORK_END in s and f.resolve()!=index.resolve(): s=replace_block(s,NETWORK_START,NETWORK_END,network_block(f))
-    if INVITE_START in s and INVITE_END in s: s=replace_block(s,INVITE_START,INVITE_END,invite_block(f))
+    if NETWORK_START in s and NETWORK_END in s:
+        if f.resolve()==index.resolve():
+            s=replace_block(s,NETWORK_START,NETWORK_END,network_block(f))
+        else:
+            s=replace_block(s,NETWORK_START,NETWORK_END,compact_network_block(f))
+    if INVITE_START in s and INVITE_END in s:
+        s=replace_block(s,INVITE_START,INVITE_END,invite_block(f))
     for a,b in [
+        ('Índice navegable de manifiestos I–LIII','Índice navegable de manifiestos I–LVI'),
+        ('Navigable manifesto index I–LIII','Navigable manifesto index I–LVI'),
+        ('53 manifiestos bilingües','56 manifiestos bilingües'),
+        ('53 bilingual manifestos','56 bilingual manifestos'),
+        ('54 manifiestos bilingües','56 manifiestos bilingües'),
+        ('54 bilingual manifestos','56 bilingual manifestos'),
         ('55 manifiestos bilingües · I–LV · 22 oleadas','56 manifiestos bilingües · I–LVI · 23 oleadas'),
         ('55 bilingual manifestos · I–LV · 22 waves','56 bilingual manifestos · I–LVI · 23 waves'),
         ('I–LV · 55 manifiestos bilingües','I–LVI · 56 manifiestos bilingües'),
@@ -171,32 +198,42 @@ for f in readmes:
         ('55 manifiestos I–LV','56 manifiestos I–LVI'),
         ('55 manifestos I–LV','56 manifestos I–LVI')]:
         s=s.replace(a,b)
-    if s!=old: f.write_text(s,encoding='utf-8'); changed.append(f)
+    if s!=old:
+        f.write_text(s,encoding='utf-8'); changed.append(f)
 
 for i,(roman,title,f) in enumerate(links):
     s=f.read_text(encoding='utf-8'); old=s
     s=replace_block(s,INVITE_START,INVITE_END,invite_block(f),append=True)
     s=replace_block(s,NAV_START,NAV_END,nav_block(i,f),append=True)
-    if s!=old: f.write_text(s,encoding='utf-8'); changed.append(f)
+    if s!=old:
+        f.write_text(s,encoding='utf-8'); changed.append(f)
 
 fail=[]
 for f in readmes:
     s=f.read_text(encoding='utf-8')
     if CURRENT_START in s:
         blk=re.search(re.escape(CURRENT_START)+r'(.*?)'+re.escape(CURRENT_END),s,re.S).group(1)
-        if '56 manifiestos bilingües / 56 bilingual manifestos' not in blk: fail.append(f'{f.relative_to(root)} current')
+        if '56 manifiestos bilingües / 56 bilingual manifestos' not in blk:
+            fail.append(f'{f.relative_to(root)} current')
     if NETWORK_START in s:
         blk=re.search(re.escape(NETWORK_START)+r'(.*?)'+re.escape(NETWORK_END),s,re.S).group(1)
-        if 'I–LVI · 56 manifiestos / 56 manifestos' not in blk: fail.append(f'{f.relative_to(root)} network')
+        if f.resolve()==index.resolve():
+            if 'I–LVI · 56 manifiestos / 56 manifestos' not in blk:
+                fail.append(f'{f.relative_to(root)} canonical network')
+        else:
+            if 'Abrir índice canónico y navegable / Open canonical navigable index' not in blk:
+                fail.append(f'{f.relative_to(root)} compact network')
 for i,(roman,title,f) in enumerate(links):
     s=f.read_text(encoding='utf-8')
     nav=re.search(re.escape(NAV_START)+r'(.*?)'+re.escape(NAV_END),s,re.S)
-    if not nav or 'I–LVI' not in nav.group(1): fail.append(f'{f.relative_to(root)} nav')
-    elif i+1<len(links) and rel(f,links[i+1][2]) not in nav.group(1): fail.append(f'{f.relative_to(root)} next')
+    if not nav or 'I–LVI' not in nav.group(1):
+        fail.append(f'{f.relative_to(root)} nav')
+    elif i+1<len(links) and rel(f,links[i+1][2]) not in nav.group(1):
+        fail.append(f'{f.relative_to(root)} next')
 
 print('CANONICAL_MANIFESTOS=56')
 print('README_LEEME_TARGETS=',len(readmes))
 print('FILES_CHANGED=',len(set(changed)))
 if fail:
     print('POSTCHECK FAIL'); print('\n'.join(fail)); sys.exit(1)
-print('POSTCHECK OK: I-LVI/56/23 waves synchronized; LVI #76 latest; Leónidas audit gateway preserved')
+print('POSTCHECK OK: canonical I-LVI/56/23 retained; noncanonical README manifesto blocks compacted; LVI #76 latest; Leónidas audit gateway preserved')
