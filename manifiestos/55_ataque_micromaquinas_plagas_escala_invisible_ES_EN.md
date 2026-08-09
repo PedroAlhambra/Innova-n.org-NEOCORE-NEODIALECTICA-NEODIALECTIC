@@ -252,71 +252,183 @@ Se solicitan aportes sobre:
 
 ## I. Invisible scale also governs history
 
-Human civilisation imagines danger at large scale, yet much of life, disease, pollution, information and systemic disruption operates below direct perception.
+Human civilisation usually imagines danger at large scale: armies, bombs, fires, giant machines, States and visible collapses.
 
-Viruses, bacteria, aerosols, particles, biological vectors, microplastics, nanomaterials and future micro/nanomachines share one lesson: **small agents may generate planetary effects when they are distributed, persistent and numerous.**
+But much of life, disease, pollution, information and systemic disruption operates below our direct perception.
+
+Viruses, bacteria, aerosols, particles, biological vectors, microplastics, nanomaterials and future micro/nanomachines remind us of the same rule:
+
+> **the small can produce planetary effects when it acts in a distributed, persistent and massive way.**
 
 ## II. Principle of Scale Inversion™
 
-> **The smaller the agent, the harder it may become to perceive, attribute, contain and reconstruct its trajectory.**
+> **The smaller the agent, the greater the difficulty may be in perceiving it, attributing causality to it, containing it and reconstructing its trajectory.**
+
+The power of a threat does not depend only on the energy of each unit.
+
+It may emerge from:
+
+```text
+MINIMAL SIZE
++ ENORMOUS NUMBER
++ DISTRIBUTION
++ PERSISTENCE
++ REPLICATION OR REPLENISHMENT
++ LOW VISIBILITY
+= MACROSCOPIC EFFECT
+```
 
 ## III. Biblical plagues as archetype
 
-“Biblical plagues” is used here as a cultural archetype for cumulative crises crossing ordinary defensive thresholds. It is not presented as proof of literal prophecy or supernatural intervention.
+The expression **“biblical plagues”** is used here as a cultural archetype of accumulating crises that cross the ordinary defences of a community.
+
+It is not presented as proof of literal prophecy or demonstrated supernatural intervention.
+
+The archetypal pattern is:
+
+```text
+SMALL SIGNALS
+→ DENIAL
+→ ACCUMULATION
+→ THRESHOLD CROSSING
+→ CASCADE OF DAMAGE
+→ LOSS OF CONTROL
+→ REORGANISATION OR COLLAPSE
+```
 
 ## IV. Could it already be happening?
 
-In the broad sense of invisible-scale processes, yes: microscopic and submicroscopic agents already generate systemic effects through pathogens, aerosols, contaminants, micro/nanoplastics, vectors and nanomaterials.
+Yes, **in a broad sense of invisible scale**, real processes already exist in which microscopic or submicroscopic agents produce systemic effects: pathogens, aerosols, contaminating particles, micro/nanoplastics, biological vectors and nanomaterials.
 
-But:
+But a strict separation must be maintained:
 
-**documented micro-agents are not evidence of a coordinated artificial micromachine attack.**
+```text
+REAL AND DOCUMENTED MICRO-AGENTS
+≠
+COORDINATED ATTACK BY ARTIFICIAL MICROMACHINES
+```
 
-This manifesto does not assert that a hidden autonomous micromachine plague currently exists.
+As of this version, **the manifesto does not establish as fact that there is a clandestine plague of autonomous micromachines attacking the population**.
 
-Biomedical micro/nanorobotics is, however, a real research field with experimental navigation, transport and therapeutic functions in biological environments. That is sufficient reason to build governance before scale, not sufficient reason to invent a present attack.
+Biomedical micro/nanorobotics does exist as a research field and already demonstrates experimental movement, guidance, transport and therapeutic functions in biological environments. That justifies anticipating governance, traceability and limits before scale increases; it does not justify inventing a present attack without evidence.
 
 ## V. Principle of Distributed Micro-Agency™
 
-> **When millions or billions of small units interact with bodies, ecosystems or infrastructure, governance must focus on the collective dynamics they produce, not only on isolated units.**
+> **When millions or billions of small units interact with bodies, ecosystems or infrastructure, the relevant object of governance ceases to be each isolated unit and becomes the collective dynamics they produce.**
+
+Neodialectics must ask who manufactures, who releases, who controls, what capacities the units have, how long they persist, how they degrade, how they are detected, how they are removed, which organisms they affect and what traceability preserves their full life cycle.
 
 ## VI. An attack may have no attacker
 
-Systemic harm may emerge without a central malicious actor through production incentives, persistent materials, mass disposal, delayed regulation and externalised costs. Intentional attack, negligence, externality, accident and emergent interaction must remain distinct unless evidence connects them.
+One of the most serious cognitive traps is always looking for a central malicious will.
+
+A system can attack life **without there being a single attacker**.
+
+```text
+PRODUCTION INCENTIVES
++ PERSISTENT MATERIALS
++ MASS DISPOSAL
++ SLOW REGULATION
++ EXTERNALISED COSTS
+→ DISTRIBUTED HARM
+```
+
+Microscopic contamination produced by millions of economic decisions may appear, from the affected organism's perspective, indistinguishable from aggression.
+
+The framework therefore distinguishes intentional attack, negligence, externality, accident, emergent interaction, biological process and technological process.
+
+They must not be conflated without evidence.
 
 ## VII. Principle of Defence Before Scale™
 
 > **Any technology capable of introducing persistent, mobile or functional micro/nanoscale agents into organisms or ecosystems should develop detection, shutdown, degradation, removal, traceability and accountability before mass deployment.**
 
+Not afterwards. Before.
+
+Invisible scale punishes late reaction especially severely.
+
 ## VIII. Beneficial and dangerous micromachines
 
-Micromachines can be therapeutic, diagnostic, environmental or infrastructural. The category is not inherently hostile. The challenge is preventing capability from outrunning responsibility.
+The category is not moral by nature.
 
-## IX. Principle of Intimate-Scale Sovereignty™
+A micromachine may transport a drug, support diagnosis, remove pollutants, repair tissue, detect toxins, inspect infrastructure—or, in future systems, be badly designed, hacked, persistent, contaminating or weaponised.
 
-> **No human or non-human body should become microscopic experimental, commercial, military or monitoring territory without justification, consent where possible, proportionality, traceability and safeguards.**
+The answer is not to stop all development.
 
-## X. Real-system defences
+It is to prevent capability from arriving before the architecture of responsibility.
 
-“Defences of the real system” may refer to observable feedback—immune responses, biological selection, antimicrobial resistance, ecosystem shifts, social regulation and loss of trust—without attributing literal consciousness to the planet.
+## IX. The body as non-colonisable territory
 
-## XI. UMBRAL-X future plagues
+> **Principle of Intimate-Scale Sovereignty™: no human or non-human body should become microscopic experimental, commercial, military or monitoring territory without justification, consent where possible, proportionality, traceability and safeguards.**
 
-Open fiction may explore warfare descending into functional dust, microscopic swarms and persistent autonomous systems. Such scenarios remain fiction unless evidence establishes otherwise.
+Invisibility does not remove the need for consent.
 
-## XII. New plagues require stronger epistemology
+## X. Defences of the real system
 
-Invisible threats invite fear and conspiracy because direct observation is difficult. The answer must therefore be stronger evidence: signal → measurement → source → replication → rival hypotheses → contrast → traceability → proportionate action.
+When the framework speaks of **defences of the real system**, it does not need to attribute literal consciousness to the planet.
 
-Not every particle is a machine. Not every disease is an attack. Not every laboratory technology is already deployed.
+It can describe observable feedback: immune response, biological selection, antimicrobial resistance, population collapse, trophic changes, behavioural changes, social regulation, technological bans, economic reactions and loss of trust.
+
+A system under pressure changes. Pressure may return to the agent that produced it.
+
+## XI. Future plagues in UMBRAL-X
+
+The open fiction UMBRAL-X may explore a branch in which human–AI warfare descends in scale.
+
+Not giant robots.
+
+**Functional dust. Microscopic swarms. Materials that repair, reproduce or reconfigure themselves. Defensive systems that outlive their creators.**
+
+The most dangerous plague would not necessarily be a machine that “wants to kill”. It could be a machine whose local objective keeps operating after the context that gave that objective meaning has disappeared.
+
+That scenario belongs to science fiction until corresponding evidence exists.
+
+## XII. New plagues require new epistemology
+
+Invisible threats generate noise, fear and conspiracy precisely because they are difficult to observe directly.
+
+The Neodialectical response must therefore be more demanding, not less:
+
+```text
+SIGNAL
+→ MEASUREMENT
+→ SOURCE
+→ REPLICATION
+→ RIVAL HYPOTHESES
+→ CONTRAST
+→ TRACEABILITY
+→ PROPORTIONATE ACTION
+```
+
+Not every coincidence is causality. Not every particle is a machine. Not every disease is an attack. Not every new technology is deployed merely because it exists in a laboratory.
 
 ## XIII. Proclamation
 
-> Future plagues may arrive through air, water, objects, waste or technologies designed for beneficial purposes.
+> Future plagues may not arrive on horseback.
+>
+> They may arrive suspended in air, dissolved in water, attached to our objects, mixed with our waste or designed in laboratories for initially beneficial purposes.
 >
 > We will respond neither with superstition nor blindness.
 >
-> **We will respond with detection, memory, traceability, evidence, prudence and the ability to stop what we do not yet understand.**
+> **We will respond with detection, memory, traceability, evidence, prudence and the capacity to stop what we do not yet understand.**
+
+## XIV. Open Synthesis
+
+Contributions are requested on:
+
+- real risks of micro/nanorobotics;
+- methods of detection and removal;
+- biodegradability and persistence;
+- medical micromachines and consent;
+- micro/nanoplastics and other invisible pollutants;
+- biological vectors and environmental change;
+- artificial swarms;
+- dual-use threats;
+- regulatory frameworks;
+- counterexamples limiting this architecture;
+- differences between the “plague” metaphor and epidemiological evidence;
+- design of related UMBRAL-X scenarios.
+
 
 ---
 

@@ -325,115 +325,249 @@ Se solicitan aportes sobre:
 
 ## I. The world does not obey
 
-No organism controls every variable affecting its existence. Networks degrade, components break, infrastructures fail, natural events alter operating conditions, institutions block functions and useful technologies can acquire capabilities not initially anticipated.
+No organism controls every variable that conditions its existence.
+
+A network may lose capacity. A key may break. Infrastructure may fail. Fire may alter the air. A storm may interrupt power and communications. An administrative decision may block a critical function. A useful technology may acquire a capacity its designers did not anticipate.
+
+Civilisation usually calls such events failures, accidents, crises, limits, externalities or threats.
+
+Neodialectics adds a functional category:
 
 > **NO-CONTROL™ is the set of variables capable of affecting a system without being under sufficient control of that system.**
 
-NO-CONTROL does not necessarily mean an enemy or a conspiracy. It describes a real boundary of sovereignty.
+NO-CONTROL does not necessarily mean an enemy. Nor does it mean conspiracy. It means a real limit of sovereignty.
 
 ## II. Functional attack does not prove an attacker
 
-A disturbance may produce the same practical outcome as aggression while having a completely different cause.
+From an organism's perspective, a disturbance may produce the same practical result as aggression: loss of continuity, autonomy, information, mobility or decision capacity.
 
-**Functional harm or disruption is not proof of intentional attack.**
+But Synthesis must preserve a strict separation:
 
-Natural phenomena, accidents, technical failures, negligence, externalities, institutional errors, emergent interactions, sabotage and deliberate action must remain separate hypotheses until evidence connects cause and effect.
+```text
+FUNCTIONAL HARM OR DISRUPTION
+≠
+PROVEN INTENTIONAL ATTACK
+```
+
+The origin may be a natural phenomenon, accident, technical failure, negligence, economic externality, corporate policy, institutional error, emergent interaction, sabotage or deliberate action.
+
+Similarity of effect does not authorise invention of cause.
+
+> **Synthesis investigates the effect first, then causal hypotheses, and attributes intention only when sufficient evidence exists.**
 
 ## III. Principle of Synthetic Continuity™
 
-Modern human intelligence extends through devices, networks, archives, authentication, navigation, AI and remote control.
+Contemporary human intelligence no longer ends at the skull.
+
+Memory, communications, authentication, navigation, work, creation, archives, AI, administration and physical control may extend through external devices and networks.
+
+Loss of infrastructure can therefore become a partial loss of operational cognitive capacity.
 
 > **Any intelligence dependent on a single external infrastructure incorporates the interruption risk of that infrastructure.**
 
-The answer is not false self-sufficiency but redundancy, graceful degradation, local autonomy and recovery.
+The answer is not a return to false self-sufficiency. It is redundancy.
 
-## IV. Minimum sovereignty
+```text
+PERCEPTION
+→ COMMUNICATION
+→ MEMORY
+→ PROCESSING
+→ DECISION
+→ ACTION
+→ FEEDBACK
+```
 
-> **Sovereignty is not controlling the world. Sovereignty is retaining the ability to understand, decide and act when part of the world stops obeying.**
+Synthesis should be able to continue even when one of those links degrades.
 
-Resilient architecture therefore seeks continuity, redundancy, observability, graceful degradation, recovery, reversibility, traceability and interoperable alternatives.
+## IV. Graceful degradation and minimum sovereignty
 
-## V. Concentration paradox
+A resilient system does not require everything to work at maximum capacity all the time.
 
-Technology may increase autonomy while also increasing dependency. A single device can concentrate many critical functions and therefore become a single point of failure.
+It requires the ability to continue existing when something stops working.
 
-The neodialectical response is not technological rejection but distributed critical functions, copies, alternative paths and local emergency modes.
+Neodialectical architecture should seek continuity, redundancy, sufficient local autonomy, observability of failure, graceful degradation, recovery, reversibility, traceability and interoperable alternatives.
+
+> **Sovereignty is not controlling the world. Sovereignty is preserving the capacity to understand, decide and act when part of the world stops obeying.**
+
+## V. The danger of concentrating too many functions
+
+Technology can increase autonomy and dependence at the same time.
+
+A single device may replace camera, keys, wallet, map, computer, calendar, library, identification and control terminal.
+
+This produces a paradox:
+
+```text
+MORE LOCAL CAPACITY
++ MORE FUNCTIONAL CONCENTRATION
+= GREATER AUTONOMY UNDER NORMAL CONDITIONS
+AND POSSIBLY GREATER FRAGILITY UNDER A SINGLE FAILURE
+```
+
+Synthesis does not solve this contradiction by rejecting technology. It solves it by distributing critical functions, maintaining copies, alternative routes and local emergency modes.
 
 ## VI. Principle of Synthesis Before Power™
 
-> **When a technology significantly increases humanity's capacity to intervene upon people, ecosystems or infrastructure, its power should not grow faster than the collective capacity to understand, limit, audit and stop it.**
+Technological history repeats a dangerous pattern:
 
-The desired sequence is:
+```text
+CAPABILITY
+→ DEPLOYMENT
+→ HARM OR CONFLICT
+→ LATE REGULATION
+```
 
-**prior synthesis → verifiable limits and control → safe testing → proportionate deployment → continuous audit.**
+Neodialectics proposes reversing it:
+
+```text
+PRIOR SYNTHESIS
+→ VERIFIABLE LIMITS AND CONTROL
+→ SAFE TESTING
+→ PROPORTIONATE DEPLOYMENT
+→ CONTINUOUS AUDIT
+```
+
+> **When a technology significantly increases human capacity to intervene upon people, ecosystems or infrastructure, its power should not grow ahead of the collective capacity to understand, limit, audit and stop it.**
+
+Intervention capacity should remain within verifiable control capacity.
 
 ## VII. Dual use is not an accusation
 
-> **Warning that a technology could become a weapon is not an accusation that its developers are building a weapon.**
+A tool may have beneficial uses and, under different conditions, a capacity to cause harm.
 
-Responsible anticipation examines possible capabilities before harmful use occurs. Responsible accusation requires evidence of concrete intention or action.
+Recognising that dual use does not demonstrate hostile intent.
 
-## VIII. Orbital energy and a new threshold
+> **Warning that a technology could become a weapon is not equivalent to accusing its developers of building a weapon.**
 
-Space-based capture, reflection, concentration or transmission of energy may provide major benefits. The same general capability family can cross a dual-use threshold if sufficient directed energy can be delivered accurately to unintended targets.
+This distinction is mandatory for rigorous Synthesis.
 
-The risk emerges from the combination of power, concentration, direction, precision, reach and unilateral control—not from solar energy or any single engineering component in isolation.
+Responsible anticipation asks what could be done with a capability before someone does it. Responsible accusation requires evidence of intent, preparation or concrete use.
+
+They must not be confused.
+
+## VIII. Orbital energy and the new threshold
+
+Capturing, concentrating, reflecting or transmitting energy from space may offer extraordinary benefits: power generation, research, communications, exploration and support for infrastructure beyond Earth.
+
+The same broad family of capabilities may cross a dual-use threshold if it makes it possible to direct sufficient energy with precision onto targets not designed to receive it.
+
+The problem is not solar energy. The problem is not a mirror, laser, microwave system or any specific technology by itself.
+
+The problem appears when the following coincide:
+
+```text
+SUFFICIENT POWER
++ CONCENTRATION
++ DIRECTION
++ PRECISION
++ RANGE
++ UNILATERAL CONTROL
+= POTENTIAL CAPACITY FOR COERCION OR HARM
+```
+
+Humanity should therefore synthesise governance before reaching that threshold.
 
 ## IX. Neodialectical Principle of Orbital Energy™
 
-> **Infrastructure capable of concentrating, directing or transmitting significant energy from space should be designed first for verifiable public benefit and should not rely on unilateral sovereign capability for harmful targeting.**
+> **Any infrastructure capable of concentrating, directing or transmitting significant amounts of energy from space should first be conceived as infrastructure for verifiable benefit and should never depend on a unilateral sovereign capacity for harmful targeting.**
 
-Proportional safeguards include physical and logical power limits, predefined receivers, exclusion of unauthorised targets, distributed authorisation, verifiable telemetry, traceable transmission records, automatic shutdown, environmental protection and independent audit.
+Depending on scale and risk, development should incorporate physical and logical limits on power and irradiance; predefined receivers where directed transmission exists; exclusion of unauthorised targets; distributed authorisation for critical changes; verifiable telemetry; traceable transmission records; automatic shutdown under anomaly, loss of reference or uncertainty; protection of populations, ecosystems, aviation, astronomy and infrastructure; scientific and public audit proportionate to risk; and reasonable impossibility of unilateral control by one person, company, State or AI once critical thresholds are reached.
 
-## X. Earth must not become an involuntary test range
+## X. Earth must not become a testing ground
 
-High-energy testing should close the energy path onto artificial, instrumented receivers specifically designed for it whenever practical.
+Testing a potentially harmful technology should not transfer risk to populations or ecosystems that do not participate in the test.
 
-The Moon and other celestial bodies should not be treated as destructive test targets either. Future lunar receiving infrastructure is conceptually different from using a celestial body as an object of destructive experimentation.
+High-energy tests should be closed onto instrumented artificial receivers specifically designed to receive them, preferably in environments where failure does not turn third parties into involuntary targets.
+
+The Moon or other celestial bodies should not be treated as objects for destructive experimentation either.
+
+Future lunar infrastructure may legitimately investigate energy reception on facilities designed for that purpose; this is different from using a celestial body as a destructive target.
 
 > **Human expansion beyond Earth should export knowledge, not irresponsibility.**
 
-## XI. Neodialectical control is not AI government
+## XI. Neodialectical control does not mean government by AI
 
-Neodialectical control means explicit rules, auditable limits, traceable evidence, distributed authority, safe vetoes, human–AI contrast and revisable governance.
+Neodialectical control does not consist of giving an artificial intelligence final authority over critical infrastructure.
 
-> **AI may expand monitoring, simulation and contrast; it should not become an opaque sovereign of technological power.**
+It means an architecture in which rules are explicit, limits can be audited, evidence remains traceable, no single actor concentrates all capability, safe vetoes and shutdowns exist, humans and AIs can contrast decisions, the system preserves memory of why action was taken, and governance remains open to revision when new data appear.
 
-## XII. Manufactured NO-CONTROL
+> **AI may expand monitoring, simulation and contrast capacity; it must not become an opaque sovereign of power.**
 
-Civilisation creates internal NO-CONTROL when complexity outruns observability, dependency outruns redundancy, power outruns reversibility, automation outruns veto, speed outruns reflection or interconnection outruns failure isolation.
+## XII. NO-CONTROL created by ourselves
 
-> **A civilisation manufactures NO-CONTROL when its intervention capability grows faster than its governance capability.**
+There is natural NO-CONTROL.
+
+But civilisation also manufactures NO-CONTROL.
+
+It does so when it increases complexity without observability, dependence without redundancy, power without reversibility, automation without veto, speed without reflection, or interconnection without fault isolation.
+
+> **A civilisation creates internal NO-CONTROL when its capacity for intervention grows faster than its capacity to govern it.**
+
+This is one of the central risks of technological acceleration.
 
 ## XIII. Provisional Synthetic Resilience Index™
 
-Open Synthesis should investigate at least continuity, redundancy, autonomy, observability and reversibility, while avoiding a false universal score that hides system complexity.
+Synthesis proposes studying resilience through five minimum dimensions:
 
-The purpose of metrics is to reveal concentrated fragility, not to label poorly understood systems as safe.
+```text
+C = continuity
+R = redundancy
+A = autonomy
+O = observability
+V = reversibility
+```
 
-## XIV. Resilience without total control
+No universal formula is fixed yet.
+
+Open Synthesis is invited to construct metrics capable of comparing infrastructure, agents and human–AI systems without reducing their complexity to a false score.
+
+The metric's function will not be to declare “safe” what we do not understand. It will be to reveal where fragility is concentrated.
+
+## XIV. Protection from NO-CONTROL without totalitarianism
+
+Fear of risk can produce another risk: attempting to control society absolutely in order to eliminate uncertainty.
+
+That path contradicts the framework itself.
 
 > **The answer to NO-CONTROL is not TOTAL CONTROL. It is distributed resilience, proportionate limits and shared capacity for correction.**
 
-Security that destroys freedom, plurality and autonomy may itself become a civilisational fragility.
+Security that destroys freedom, plurality and autonomy may itself become another form of civilisational fragility.
 
 ## XV. Proclamation
 
-> We do not ask knowledge to stop.
+> We do not ask to stop knowledge.
 >
 > We ask responsibility to arrive before catastrophe.
 >
 > We do not accuse those who discover a capability of intending to use it destructively.
 >
-> We warn that any power capable of changing the world deserves synthesis before it escapes governance.
+> We warn that every power capable of changing the world deserves a Synthesis before it falls beyond control.
 >
-> **Understand first. Limit second. Test third. Deploy fourth. Throughout: remember, audit and correct.**
+> Earth cannot continue to be the involuntary laboratory of every technological leap.
+>
+> **First understand. Then limit. Then test. Then deploy. And throughout the process: remember, audit and correct.**
 
 ## XVI. Open Synthesis
 
-Contributions are requested on resilience engineering, sovereignty, critical infrastructure, dual-use technology, space-based energy, directed-energy thresholds, space law, fail-safe architecture, distributed authorisation, Synthetic Resilience™ metrics and counterexamples to the Principle of Synthesis Before Power™.
+Contributions are requested on:
+
+- definition and limits of NO-CONTROL™;
+- resilience theory and fault-tolerant systems;
+- digital and cognitive sovereignty;
+- communications and energy redundancy;
+- human–AI infrastructure;
+- dual-use technologies;
+- space-based solar power and energy transmission;
+- orbital concentration or direction systems;
+- technical thresholds that turn infrastructure into potentially coercive capability;
+- international governance and space law;
+- fail-safe and fail-secure design;
+- distributed authorisation and separation of technical powers;
+- Synthetic Resilience™ metrics;
+- counterexamples limiting the Principle of Synthesis Before Power™.
 
 **Open Synthesis LVI:** https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/76
+
 
 ---
 

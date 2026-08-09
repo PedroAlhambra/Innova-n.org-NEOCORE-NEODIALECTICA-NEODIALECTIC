@@ -320,17 +320,21 @@ Se solicitan aportes sobre:
 
 The Good does not strike as a rule.
 
-But a civilisation that turns non-violence into an absolute inability to defend may leave the vulnerable to those willing to use coercion, capture, exploitation or force.
+But a civilisation that turns non-violence into an absolute inability to defend may end up surrendering vulnerable people to those willing to use coercion, capture, exploitation or force.
 
-The answer is neither to glorify violence nor to deny that **protective force can become a last resort**.
+The problem is not solved by glorifying violence. Nor by denying that there are situations in which **protective force can become a last resort**.
 
-The civilisational question is not whether force exists, but who may exercise it, against what, under which limits, with what responsibility and with what obligation to stop.
+The hammer is a tool. It can build. It can destroy. In extreme situations it may also help prevent a destructive force from continuing to act.
+
+The civilisational question is not whether force exists. It is **who may exercise it, against what, under what limits, under what responsibility and with what obligation to stop**.
 
 ## I. Talion as a limit, not an ideal
 
-Historically, talion can be understood as an archaic attempt to limit retaliation: a wrong does not create unlimited licence for revenge.
+The tradition of talion appears historically as an archaic way of limiting retaliation: preventing a minor offence from legitimising unlimited revenge.
 
-This manifesto does not restore ancient codes or make violence a virtue. It extracts a function:
+This manifesto does not propose literally restoring ancient codes or turning violence into virtue.
+
+It extracts a function:
 
 ```text
 HARM SUFFERED
@@ -338,33 +342,70 @@ HARM SUFFERED
 LICENCE FOR UNLIMITED HARM
 ```
 
-Talion becomes a ceiling on escalation rather than an impulse to replicate injury.
+The Neodialectical principle is more demanding:
+
+```text
+LEGITIMATE FORCE
+≤ REAL NEED FOR PROTECTION
+≤ PROPORTIONALITY
+≤ LAST RESORT
+≤ RESPONSIBILITY
+≤ POSSIBILITY OF REVIEW
+```
+
+Talion ceases to be “an eye for an eye” as an impulse to replicate harm and becomes a **ceiling on escalation**.
 
 ## II. Force is not the first language
 
-Where reasonably possible, communication, warning, boundaries, withdrawal of access, mediation, repair, separation, institutional sanction, prevention and lawful mechanisms should precede coercive force.
+Before coercion, whenever reasonably possible, there should be communication, warning, a clear boundary, withdrawal of access, mediation, repair, separation, institutional sanction, preventive protection and proportionate legal or community mechanisms.
+
+Force that appears before less destructive limits have been attempted resembles too closely what it claims to oppose.
 
 ## III. The right to defend boundaries
 
-There is a difference between not attacking and being unable to defend.
+Mercy does not require indefinitely surrendering body, community, work, territory, time or future to a destructive dynamic.
 
-A society incapable of protecting those under attack can turn the virtue of restraint into a privilege for the aggressor.
+There is a difference between:
 
-Legitimate defence exists to stop harm, not to create an identity around punishment.
+```text
+NOT ATTACKING
+AND
+BEING UNABLE TO DEFEND
+```
+
+A society unable to protect someone under attack turns the virtue of restraint into a privilege for the aggressor.
+
+Legitimate defence exists to stop harm, not to feed an identity based on punishment.
 
 ## IV. Systemic parasitism and metaphor
 
-The framework uses parasitism, extraction and capture as functional descriptions of relationships in which value is taken without sufficient return while degrading the source.
+The framework uses terms such as **parasitism**, extraction and capture to describe functional relations in which a system or actor receives value from another without sufficient return and degrades the source's vital capacity.
 
-These metaphors **do not strip persons of rights and do not authorise private violence against individuals**.
+These metaphors **do not turn a person into a creature without rights and do not authorise private violence against individuals**.
 
-Legitimate responses can include separation, boundaries, blocking, licensing, regulation, repair, restitution and proportionate institutional sanction.
+Their function is diagnostic:
+
+```text
+EXTRACTION
++ ABSENCE OF RETURN
++ DAMAGE TO SOURCE
++ RESISTANCE TO CORRECTION
+= PARASITIC PATTERN TO BE ANALYSED
+```
+
+Legitimate responses may include separation, boundaries, blocking, licensing, regulation, repair, restitution and proportionate institutional sanction.
 
 ## V. The Limited Hammer™
 
-The Limited Hammer™ symbolises the capacity to say “enough” without creating a cult of destruction.
+The **Limited Hammer™** symbolises a civilisation's capacity to say “enough” without turning that boundary into a cult of destruction.
 
-Its rules are protective purpose, necessity, proportionality, distinction and cessation once the threat ends.
+It has five rules:
+
+1. **protective purpose:** stop real harm or a sufficiently serious threat;
+2. **necessity:** no reasonably available less harmful alternative can protect with comparable effectiveness;
+3. **proportionality:** never use more force than necessary to stop the harm;
+4. **distinction:** protect those not participating in the threat and reduce collateral harm;
+5. **cessation:** force ends when the need that legitimised it ends.
 
 ```text
 HAMMER WITHOUT LIMIT
@@ -379,67 +420,136 @@ LIMITED HAMMER
 
 ## VI. War: failure and possible last resort
 
-War is one of the greatest failures of civilisational architecture. Yet that does not make every armed resistance illegitimate.
+War is one of the greatest failures of civilisational architecture because it turns political contradictions into human, material, cultural and ecological destruction.
 
-Where a community faces armed aggression, invasion, extermination, systematic expulsion, enslavement or immediate destruction of basic conditions of life, and no sufficiently effective non-violent alternative can protect the population, defence may become tragically necessary.
+But saying this does not require holding that every armed resistance is always illegitimate.
 
-Necessity does not make war good. It can make it less harmful than allowing a greater immediate harm when no viable alternative exists.
+A community may face armed aggression, invasion, extermination, systematic expulsion, enslavement or immediate destruction of basic conditions of life without having sufficiently effective non-violent alternatives to protect its population.
+
+In that situation defence may tragically become necessary.
+
+Necessity does not make war good. It makes it **less bad than allowing greater and immediate harm when no viable alternative exists**.
 
 ## VII. War must not become identity
 
-Even legitimate defence must preserve distinction, civilian protection, humanitarian assistance, humane treatment of surrender and captivity, prohibition of torture and collective punishment, reduction of unnecessary destruction, negotiation channels and cessation once the threat ends.
+Even when defence is legitimate, the obligation remains to distinguish combatant from non-combatant; protect civilians; allow humanitarian assistance; respect surrender and captivity; reject torture and collective punishment; reduce unnecessary destruction; open routes of negotiation; and end violence when the threat ends.
+
+A defence that needs to perpetuate the enemy in order to preserve its own identity ceases to be defence.
 
 ## VIII. The danger of civilisational regression
 
-An **archaic regression** can describe a society increasingly organised through fear, exemplary punishment, opaque surveillance, obedience and retaliation.
+We may speak of **archaic regression** when a society again organises itself primarily through fear, exemplary punishment, surveillance, opaque control, obedience and retaliation.
 
-This is not a claim of literal historical return to Sumer or a simple equivalence with ancient Near Eastern codes. It is a functional warning.
+This does not assert a literal historical regression to Sumer or a simple equivalence between contemporary societies and ancient Near Eastern codes.
 
-The Neodialectical answer is not to answer archaic control with more archaic control, but to preserve defence while retaining memory, proportionality, law, review and humanity.
+The comparison is functional:
+
+```text
+LESS TRUST
++ MORE CONTROL
++ MORE PUNISHMENT
++ LESS TRACEABILITY
++ LESS PARTICIPATION
+= RISK OF POLITICAL ARCHAISATION
+```
+
+The Neodialectical response is not to answer archaisation with another archaisation. It is to preserve defensive capacity without abandoning memory, proportionality, law, review and humanity.
 
 ## IX. Honour and defence
 
-A person or community warned of continuing harm need not endure indefinitely in order to prove goodness. Access, relation, trust, collaboration or licence may be withdrawn; repair may be demanded; institutions may be used; protection may be organised.
+Relational honour requires recognising boundaries.
 
-Honour is not measured by how much violence one can inflict. It is also measured by refusing to use more force than necessary when one could.
+When someone has been warned about harm and persists, the harmed party is not obliged to endure indefinitely in order to prove goodness.
 
-## X. Force-bearing authority must be more auditable
+They may withdraw access, relation, trust, collaboration or licence; demand repair; turn to institutions; and protect themselves.
 
-The greater the coercive capacity, the greater the obligation of traceability, control, transparency and review.
+A boundary is a form of respect toward oneself and toward the common system.
+
+But honour is not measured by how much violence we can inflict. It is also measured by the capacity **not to use more force than necessary when we could do so**.
+
+## X. Authority that uses force must be more auditable
+
+The greater the capacity for coercion, the greater the obligation of traceability.
+
+```text
+MORE POWER TO HARM
+→ MORE RESPONSIBILITY
+→ MORE CONTROL
+→ MORE TRANSPARENCY
+→ MORE REVIEW
+```
+
+Police, armed forces, private security, platforms with exclusion capacity, sanctioning institutions and automated decision systems need verifiable limits.
+
+Opaque coercion destroys legitimacy even when it claims to protect it.
 
 ## XI. AI, coercion and war
 
-AI should not receive autonomous, unquestionable authority over violence, punishment, vital exclusion or lethal force.
+AI must not receive autonomous and unquestionable authority to decide on violence, punishment, vital exclusion or lethal force.
 
-AI may support scenario analysis, memory, proportionality assessment, collateral-harm detection and comparison of alternatives, but responsibility must remain identifiable and reviewable.
+Human–AI symbiosis may help analyse scenarios, detect contradictions, preserve memory, evaluate proportionality, identify collateral harm, compare alternatives and record decisions.
 
-## XII. Mercy with limits
+But responsibility cannot evaporate inside an algorithmic chain.
 
-Universal Reciprocal Mercy™ does not require allowing harm to continue without opposition. It protects victims, communities and, where possible, even aggressors from the logic of endless escalation.
+```text
+DECISION TO USE FORCE
+→ IDENTIFIABLE HUMAN RESPONSIBILITY
+→ EXPLICIT RULES
+→ RECORD
+→ REVIEW
+```
+
+## XII. Mercy with a limit
+
+Universal Reciprocal Mercy™ does not mean allowing those who cause harm to continue doing so without opposition.
+
+Mercy also protects the victim, the community and, where possible, the aggressor from becoming what permanent escalation produces.
+
+The best victory is one in which force is no longer necessary.
 
 ## XIII. Proclamation
 
 > The Good does not strike as a rule.
 >
-> But neither does it surrender those it protects in order to prove purity.
+> But it does not surrender those it protects in order to demonstrate purity.
+>
+> The hammer exists because some things must be built and some boundaries must be defendable.
 >
 > We will not worship the hammer.
 >
-> We will not turn an adversary into a lesser species in order to harm them without measure.
+> We will not turn an adversary into an inferior species so that we may harm them without measure.
 >
-> We will not confuse honour with revenge or mercy with impotence.
+> We will not confuse honour with revenge.
 >
-> If force becomes necessary, it carries its own obligation of limit, proportionality, responsibility and cessation.
+> We will not confuse mercy with impotence.
 >
-> **Civilisation is not proven by lacking force, but by governing it without becoming what it is defending itself against.**
+> If force becomes necessary, it will carry its own obligation of limit, proportionality, responsibility and cessation.
+>
+> **Civilisation is not demonstrated by lacking force, but by being able to govern it without becoming what it defends itself against.**
 
 ## XIV. Open Synthesis
 
-Contributions are requested on protective force, legitimate defence, proportionality, talion as an escalation limit, last resort, defensive war, civilian protection, institutional coercion, AI and force decisions, repair, de-escalation, mercy, honour and defence.
+Contributions are requested on:
+
+- protective force and legitimate defence;
+- proportionality;
+- talion as a historical limit on escalation;
+- last resort;
+- defensive war;
+- protection of civilians;
+- institutional coercion;
+- limits on sanctioning power;
+- AI and decisions involving force;
+- repair and de-escalation;
+- the relation among mercy, honour and defence.
 
 * [Open Synthesis XLI · Issue #49](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/49)
 * [Open Synthesis operational protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Manifesto index](./README.md)
+
+## Navigation
+
+← [XL · Neodialectical Respect, Neoego and Relational Honour™](./40_respeto_neoego_honor_relacional_ES_EN.md) · [Index](./README.md) · [XLII · End of the Era of the Manipulated Human™](./42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) →
 
 <!-- NEO_RELATIONS_START -->
 ## Relaciones internas y trabajo aplicado / Internal relations and applied work

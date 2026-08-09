@@ -425,117 +425,242 @@ Preguntas abiertas:
 
 ## Invocation
 
-For centuries, political communities have largely answered belonging through two shortcuts: **blood**, belonging through parentage, and **soil**, belonging through place of birth.
+For centuries, political communities have answered an elementary question through two major shortcuts:
 
-Both may have served historical functions of identification, continuity and administration. Neither by itself answers the prior question:
+- **blood:** belonging because one's parents belonged;
+- **soil:** belonging because one was born within a border.
 
-> **why should a person's basic political dignity depend on ancestry or the accidental location of birth?**
+Both mechanisms may have served historical functions of identification, continuity and administration.
 
-Archetypal Neodialectical Philosophy™ separates genealogy, birthplace, administrative nationality and human dignity.
+But neither by itself answers a prior question:
+
+> **why should a person's basic political dignity depend on ancestry or the accidental place of birth?**
+
+Archetypal Neodialectical Philosophy™ proposes separating what has too often been confused:
+
+```text
+GENEALOGY
+≠ HUMAN HIERARCHY
+
+PLACE OF BIRTH
+≠ CIVILISATIONAL VALUE
+
+ADMINISTRATIVE NATIONALITY
+≠ HUMAN DIGNITY
+```
+
+Blood preserves memory. Soil preserves location and bond. Neither makes one person more human than another.
 
 ## I. Principle of Equality of Human Belonging™
 
 > **No person acquires greater or lesser civilisational dignity through blood, ancestry, ethnicity, inherited nationality or place of birth.**
 
-Every person belongs first to the human community. This does not erase families, languages, cultures, peoples or territories; it prevents them from becoming scales of human worth.
+Every person belongs first to the human community.
+
+This basic equality does not erase identities, families, languages, cultures, peoples or territories. It prevents them from becoming scales of human value.
 
 ## II. Ius sanguinis and ius soli as historical administrative technologies
 
-Existing legal mechanisms have organised membership, responsibilities, transmission of rights, population records, diplomatic protection, taxation, residence and political participation.
+Neodialectics does not need to declare every previous legal mechanism absurd in order to move beyond it.
 
-An administrative technology, however, should not become an ontology.
+They answered concrete needs: determining legal membership, assigning responsibilities, ordering transmission of rights, registering populations, organising diplomatic protection and structuring taxation, residence and political participation.
 
-The inherited model can progressively evolve toward **functional civic belonging** grounded in real relations: residence, participation, responsibility, reciprocity and protection.
+But an administrative tool must not become an ontology.
+
+```text
+BLOOD
+OR
+SOIL
+→ LEGAL IDENTITY
+→ DIFFERENTIATED ACCESS TO RIGHTS
+```
+
+may evolve toward:
+
+```text
+COMMON HUMAN DIGNITY
++ REAL BOND
++ RESIDENCE
++ PARTICIPATION
++ RESPONSIBILITY
++ RECIPROCITY
++ PROTECTION
+→ FUNCTIONAL CIVIC BELONGING
+```
 
 ## III. Functional civic belonging
 
-Future political belonging may increasingly reflect real and traceable relations with communities: effective residence, family and social ties, civic participation, legal responsibility, taxation where applicable, care, work, study, cooperation, rootedness and stable willingness to belong.
+Future political belonging may progressively rely on real and traceable relations with a community, including effective residence, family and affective bonds, community participation, legal responsibility, taxation where applicable, care, work, study, cooperation, rootedness, stable willingness to belong and acceptance of reciprocal responsibilities.
 
-None of these may become a test of human worth.
+None of these elements may become by itself a test of human worth.
 
-> **Principle of Non-Commodification of Belonging™: functional citizenship must not become a system in which only those who produce economic wealth are allowed to belong. Care, dependence, childhood, learning, vulnerability and human existence itself remain legitimate parts of the common organism.**
+A sick person, a child, a dependant, an unemployed person, a refugee or someone unable to contribute materially retains exactly the same dignity.
+
+> **Principle of Non-Commodification of Belonging™: functional citizenship cannot become a system in which only those who produce economic wealth belong. Care, dependence, childhood, learning, vulnerability and mere human existence are also legitimate parts of the common organism.**
 
 ## IV. Equality does not mean absence of organisation
 
-Human equality does not erase the material limits of territories. Communities still need to administer housing, healthcare, education, infrastructure, security, mobility, environment, taxation, institutional capacity and common resources.
+Human equality does not require pretending that territories have no material limits.
 
-**Administrative borders are not moral borders between humans.** Restrictions should be justified through real, proportionate and reviewable needs compatible with rights, not presumed superiority of blood, ethnicity or origin.
+Communities still need to administer housing, healthcare, education, infrastructure, security, mobility, environment, taxation, institutional capacity, demographic planning and common resources.
 
-## V. Nationality as metadata rather than hierarchy
+```text
+HUMAN EQUALITY
+≠ ABSENCE OF ADMINISTRATION
 
-In a mature Neodialectical architecture, nationality may progressively shift from an exclusionary political identity toward **administrative and genealogical metadata of relation**: origin, family history, applicable legal frameworks, residence, active political rights, concrete obligations and protection routes.
+ADMINISTRATIVE BORDER
+≠ MORAL BORDER BETWEEN HUMANS
+```
+
+Administrative restrictions should be justified by real, proportionate and reviewable needs compatible with rights, not by supposed superiority of blood, ethnicity or origin.
+
+## V. Nationality as metadata, not hierarchy
+
+In a mature Neodialectical architecture, nationality may evolve from an exclusionary political identity toward **administrative and genealogical metadata of relation**.
+
+It may inform origin, family history, applicable legal frameworks, institutional bonds, residence, active political rights, concrete obligations and routes of protection.
+
+But it should not determine a person's value.
 
 Nationality may continue to exist without functioning as an ontological border.
 
 ## VI. Multiscale citizenship
 
-A person may belong simultaneously to neighbourhood, municipality, region, State, supranational union and humanity.
+A person does not need to belong to only one layer.
 
-> **Principle of Multiscale Belonging™: civic identity can be simultaneously local, regional, State-level, supranational and human without one dimension having to destroy the others.**
+```text
+NEIGHBOURHOOD
+↕
+MUNICIPALITY
+↕
+REGION
+↕
+STATE
+↕
+SUPRASTATE UNION
+↕
+HUMAN COMMUNITY
+```
 
-## VII. From exclusionary nationality to relational nodes
+Each level may preserve different competences, responsibilities and forms of participation. Belonging to one scale should not require denying the others.
 
-The framework's node architecture allows communities to be described not only through a closed sovereign centre but through traceable territorial, cultural, professional, scientific, educational, family and cooperative relations.
+> **Principle of Multiscale Belonging™: a civic identity can be simultaneously local, regional, State-level, supranational and human without one dimension having to destroy the others.**
 
-The question expands from “what country are you from?” to **“with which communities do you maintain real relations, what responsibilities exist between you, and how is that belonging reciprocally protected?”**
+## VII. From exclusionary nationality to the relational node
+
+The framework's node architecture allows us to imagine communities not defined only by a closed sovereign centre.
+
+A person may maintain traceable relations with territorial, cultural, professional, scientific, educational, family, cooperative and civilisational nodes.
+
+The question ceases to be only “what country are you from?” and incorporates:
+
+> **“with which communities do you maintain real relations, what responsibilities exist between you, and how is that belonging reciprocally protected?”**
 
 ## VIII. Universal protection and linked rights
 
-Open Synthesis must distinguish universal human rights, residence-linked rights, specific political rights and rights derived from concrete contributions or contracts. This prevents both nationality from becoming the key to all dignity and human equality from being confused with absence of concrete responsibility.
+Not all rights need to depend on the same criterion.
+
+Open Synthesis must distinguish among:
+
+### Universal human rights
+
+They belong to a person by virtue of existing and should not depend on nationality.
+
+### Residence rights
+
+They may reasonably relate to stable presence and use of services or infrastructure.
+
+### Specific political rights
+
+They may require verifiable bonds, residence, sufficient knowledge of the institutional framework or democratically established procedures.
+
+### Rights derived from concrete contributions
+
+They may depend on contracts, work, contributions, creation, care or other specific legal relations.
+
+The distinction must prevent two symmetrical errors: turning nationality into the key to all dignity, and turning human equality into denial of all concrete responsibility.
 
 ## IX. Childhood, statelessness, refuge and vulnerability
 
-Children must not lose protection because of their parents' decisions. Statelessness must not mean loss of legal humanity. A refugee remains a bearer of dignity when a relationship with a State breaks. Disability, dependence and poverty cannot reduce belonging.
+An architecture of belonging is tested especially where a person has less capacity to defend themselves.
+
+Children should not lose protection because of their parents' decisions. Statelessness cannot mean loss of legal humanity. A refugee does not cease to be a subject of dignity because their relationship with a State has broken. Disability, dependence or poverty cannot reduce belonging.
 
 > **Principle of Continuity of Human Protection™: when a political, territorial or documentary relationship breaks, basic human dignity and protection must survive the rupture.**
 
 ## X. Culture and identity without tribal closure
 
-Moving beyond citizenship based exclusively on blood or soil does not require erasing cultures. [Cultural Interoperability™](./49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md) permits deep identity and historical memory without turning those into absolute human borders.
+Moving beyond citizenship based exclusively on blood or soil does not require erasing cultures.
+
+On the contrary, [Cultural Interoperability™](./49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md) makes it possible to preserve memory without turning it into an absolute border.
+
+A culture may transmit language, symbols, history, customs, memory, forms of care, art and knowledge without turning someone born elsewhere into a second-class human being.
+
+Identity can be deep without being exclusionary.
 
 ## XI. Citizenship and the Contribution Economy
 
-The [Contribution Economy](./04_economia_del_aporte_ES_EN.md) must not become a commercial condition of citizenship. Contribution includes creating, caring, learning, teaching, maintaining, correcting, protecting, paying taxes, raising children, researching, producing, mediating and participating—as well as life stages in which the common organism sustains the person.
+The [Contribution Economy](./04_economia_del_aporte_ES_EN.md) must not become a commercial condition of citizenship.
+
+Contribution has many forms: creating, caring, learning, teaching, maintaining, correcting, protecting, paying taxes, raising children, researching, producing, mediating, participating—or simply passing through a stage of life in which the common organism sustains the person.
+
+A community that accepts only those who generate economic surplus reproduces another form of exclusion.
 
 ## XII. Open Synthesis as citizenship infrastructure
 
-[Open Synthesis as Civic Power](./51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md) separates citizenship from passive obedience. Belonging includes the capacity to question, contribute, contradict, propose, access public memory, understand decisions and participate in the evolution of common rules.
+[Open Synthesis as Civic Power](./51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md) separates citizenship from passive obedience.
+
+Belonging also means being able to ask, contribute, contradict, propose, access public memory, understand decisions, verify answers and participate in the evolution of common rules.
+
+Neodialectical citizenship is relational, not merely registrational.
 
 ## XIII. Transition
 
-This manifesto does not propose abolishing passports, nationalities or borders overnight. It proposes a direction:
+This manifesto does not propose erasing passports, nationalities or borders overnight.
+
+It proposes a direction of evolution:
 
 ```text
 IMMEDIATE UNIVERSAL DIGNITY
-→ SEPARATION OF DIGNITY FROM NATIONALITY
-→ EXPANSION OF RIGHTS BASED ON REAL RELATION
-→ MULTIPLE AND MULTISCALE BELONGING
-→ INTEROPERABILITY BETWEEN NODES
-→ DEMOCRATIC LEGAL REFORM
-→ FUNCTIONAL HUMAN CITIZENSHIP
+        ↓
+SEPARATION OF DIGNITY FROM NATIONALITY
+        ↓
+EXPANSION OF RIGHTS BASED ON REAL BONDS
+        ↓
+MULTIPLE AND MULTISCALE BELONGING
+        ↓
+INTEROPERABILITY BETWEEN NODES
+        ↓
+DEMOCRATIC LEGAL REFORM
+        ↓
+FUNCTIONAL HUMAN CITIZENSHIP
 ```
 
-Every transition must evaluate material capacity, acquired rights, legal certainty and unintended effects. Legitimate reform requires no violence.
+Each transition must measure consequences, material capacity, acquired rights, legal certainty and unintended effects.
+
+No legitimate reform requires violence.
 
 ## XIV. The Neodialectical question
 
-The inherited debate asks whether the key to citizenship should be transmitted through blood or granted through soil.
+The traditional debate asks:
+
+> **should the key to citizenship be transmitted by blood or granted by soil?**
 
 Neodialectics asks a prior question:
 
-> **why should that key determine a different category of human dignity?**
+> **why should that key decide a different category of human dignity?**
 
 Blood and soil may preserve information. They must not become hierarchy.
 
 ## XV. Proclamation
 
-> Before being nationals, we are human.
+> Before we are nationals, we are human.
 >
 > Our blood preserves genealogy, not superiority.
 >
 > Our birthplace preserves history, not rank.
 >
-> Territories need organisation, not myths of inequality.
+> Territories need organisation, not mythologies of inequality.
 >
 > Communities need responsibility, not castes of origin.
 >
@@ -545,22 +670,34 @@ Blood and soil may preserve information. They must not become hierarchy.
 >
 > We can administer borders without turning them into moral borders.
 >
-> We can preserve nationalities without confusing them with human worth.
+> We can preserve nationalities without confusing them with human value.
 >
 > **The citizenship of the future should not decide who deserves to be human. It should organise how humans live together, participate, answer for responsibilities and protect one another.**
 
 ## XVI. Open Synthesis
 
-Contributions are especially invited from jurists, constitutional scholars, citizenship and migration specialists, public administrations, demographers, economists, social workers, refugee and statelessness organisations, cultural-identity specialists, local communities and citizens.
+Contributions are especially requested from jurists, constitutional scholars, citizenship and migration specialists, public administrations, demographers, economists, social workers, refugee and statelessness organisations, cultural-identity specialists, local communities and citizens.
 
-Open questions include universal versus residence-linked rights, continuing functions of nationality, non-economic contribution, childhood and vulnerability, multiple jurisdictions, territorial capacity, cultural continuity, democratic transition and counterexamples capable of limiting or refuting the proposal.
+Open questions:
+
+1. Which rights should be absolutely universal, and which may depend on residence or real bond?
+2. Which current functions of nationality remain necessary?
+3. How can functional citizenship avoid discriminating against people unable to contribute economically?
+4. How should childhood, statelessness, refuge, disability and dependence be protected?
+5. How can multiple belonging be built without insoluble jurisdictional conflicts?
+6. What obligations should accompany each scale of citizenship?
+7. How can material capacity, housing, services and mobility be managed without returning to hierarchies of origin?
+8. How can legitimate cultural communities be protected from dissolution or capture?
+9. What constitutional and democratic transition could advance without destroying useful functions of the State?
+10. Which counterexamples refute or limit this proposal?
 
 * [Open Synthesis · Issue #64](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/64)
-* [XLIX · Meeting Point between Cultures™](./49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)
+* [XLIX · Meeting Point Between Cultures™](./49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)
 * [LI · Complementary or Substitutive Civic Power™](./51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md)
 * [III · Human Right to Contribute](./03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
 * [VII · Contribution Economy](./04_economia_del_aporte_ES_EN.md)
 * [IX · Memory, Genealogy and Traceability](./06_memoria_genealogia_trazabilidad_ES_EN.md)
+
 
 ---
 

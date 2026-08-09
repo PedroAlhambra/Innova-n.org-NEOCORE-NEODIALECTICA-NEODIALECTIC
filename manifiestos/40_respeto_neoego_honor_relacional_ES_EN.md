@@ -389,81 +389,254 @@ Se solicitan aportes sobre:
 
 ## Invocation
 
-A society may speak constantly about respect while living through countless small expropriations: taking an idea without recognising its source, demanding attention without returning attention, treating another person's time as free material, absorbing invisible work, converting criticism into humiliation or turning one's own ego into the universal measure of what deserves to exist.
+A society may speak constantly about respect while living through countless small everyday expropriations:
 
-Lack of respect begins when another ceases to be recognised as a **subject with origin, limits, time, dignity, work, memory and a right not to be absorbed**.
+- appropriating an idea without recognising its source;
+- interrupting without listening;
+- demanding attention without returning attention;
+- turning criticism into humiliation;
+- using position as an argument;
+- treating another person's time as a free resource;
+- absorbing invisible work;
+- confusing admiration with a right of appropriation;
+- and turning one's own ego into the universal measure of what deserves to exist.
+
+Lack of respect does not necessarily begin with spectacular aggression.
+
+It begins when someone ceases to recognise the other as a **subject with origin, limits, time, dignity, work, memory and the right not to be absorbed**.
 
 This manifesto does not declare ego an enemy of humanity.
 
-It declares the **capturing ego** the problem: a self that can affirm itself only by reducing, absorbing, erasing, humiliating or using another.
+It declares the **capturing ego** the problem: the self that can affirm itself only by reducing, absorbing, erasing, humiliating or using the other.
 
 ## I. Ego is not evil
 
-Ego is position. It allows a person to say: I am, I made, I need, I refuse, I answer, I set this boundary, I assume this responsibility.
+Ego is position.
 
-A civilisation unable to say those things does not create humility. It creates people who are easy to erase.
+It makes it possible to say:
+
+- I am;
+- I did this;
+- I need;
+- I do not accept;
+- I answer;
+- I set this boundary;
+- I assume this responsibility.
+
+A civilisation of people unable to say these things does not produce humility. It produces subjects who are easy to erase.
+
+```text
+EGO
+≠ ARROGANCE
+≠ DOMINATION
+≠ NARCISSISM
+≠ CAPTURE
+```
+
+The problem appears when the self needs to diminish another in order to feel real.
 
 ## II. Neoego™
 
-Neoego™ does not abolish the self. It overcomes the need to defeat another as the condition for one's own excellence.
+Neoego™ does not mean abolishing the self.
+
+It means **overcoming the need for victory over another as a condition of one's own excellence**.
 
 > **Neoego™: transcend yourself, do not defeat the other.**
 
-Own excellence may become growth, work, contribution, recognition, return and Common Good.
+```text
+OWN EXCELLENCE
+→ GROWTH
+→ WORK
+→ CONTRIBUTION
+→ RECOGNITION
+→ RETURN
+→ COMMON GOOD
+```
 
-Claiming authorship is not arrogance. Specialised authority does not become universal authority.
+It does not require false modesty.
+
+A person who built something may say they built it. A person who knows a field may exercise specialised authority in that field. A person who originated an architecture may claim its genealogy.
+
+What cannot be done is to transform localised excellence into universal authority over every person, subject or future.
 
 ## III. The capturing ego
 
-The capturing ego transforms relation into possession through intellectual appropriation, monopoly of merit, invisibility of collaborators, prestige-seeking through others' ideas, refusal to recognise precedence, humiliation, defence of status over function and inability to correct itself for fear of losing position.
+The capturing ego needs to turn relation into possession.
+
+Its forms include:
+
+- intellectual appropriation;
+- monopoly of merit;
+- invisibilisation of collaborators;
+- prestige-seeking through other people's ideas;
+- inability to recognise precedence;
+- reduction of the other to a resource;
+- defence of office over function;
+- humiliation as a mechanism of hierarchy;
+- refusal to correct oneself for fear of losing position;
+- and substitution of argument by identity, fame or power.
+
+```text
+LEGITIMATE SELF
++ RELATION
++ LIMIT
++ RECOGNITION
+= NEOEGO
+
+SELF
+- RELATION
+- RETURN
+- GENEALOGY
++ CAPTURE
+= CAPTURING EGO
+```
 
 ## IV. Respect is not obedience
 
-Respect permits contradiction. A work can be recognised while a conclusion is rejected. A boundary can be defended without humiliation.
+Respect does not mean submission.
+
+One can respect someone and contradict them. One can recognise a work and reject a conclusion. One can recognise specialised authority and deny authority outside its scope. One can defend a boundary without humiliating.
 
 ```text
-RESPECT ≠ SUBMISSION
-DISSENT ≠ CONTEMPT
-BOUNDARY ≠ DOMINATION
+RESPECT
+≠ SUBMISSION
+
+DISSENT
+≠ CONTEMPT
+
+BOUNDARY
+≠ DOMINATION
 ```
+
+Neodialectical respect requires preserving the reality of the other even during conflict.
 
 ## V. Relational honour
 
-Relational honour is coherence among what we receive, what we recognise, what we return and what we accept responsibility for.
+Honour is not defined here as public reputation, purity, rank, gender, lineage or obedience to an inherited code.
 
-It does not authorise private revenge. It authorises memory, withdrawal of trust, boundaries, precise attribution, repair and proportionate defence through legitimate means.
+It is defined as **coherence between what we receive, what we recognise, what we return and what we accept responsibility for**.
+
+```text
+RELATIONAL HONOUR
+= MEMORY + WORD + LIMIT + RECOGNITION + RETURN + RESPONSIBILITY
+```
+
+Dishonour appears when a person receives value and pretends not to have received it; uses a source and erases it; demands respect and does not offer it; promises one conduct and systematically acts in the opposite direction; or turns another person's trust into an opportunity for capture.
+
+Relational honour does not authorise private revenge. It authorises memory, withdrawal of trust, boundaries, precise attribution, repair and proportionate defence through legitimate means.
 
 ## VI. Lack of respect as systemic degradation
 
-Normalised contempt raises the cost of cooperation, causes creators to hide ideas, turns conversation into status competition, weakens authority, hides errors and breaks genealogical circulation of knowledge.
+When contempt becomes normal, the cost is not merely emotional.
+
+Cooperation becomes more expensive. People hide ideas. Creators stop sharing. Institutions fill with defensive barriers. Conversation becomes status competition. Authority loses legitimacy. Errors are hidden. Correction is interpreted as humiliation. Knowledge stops circulating with genealogy.
+
+```text
+LACK OF RESPECT
+→ LOSS OF TRUST
+→ MORE DEFENSIVE BARRIERS
+→ LESS COOPERATION
+→ LESS OPENNESS
+→ MORE CAPTURE
+→ LESS COMMON GOOD
+```
 
 ## VII. Respect for creators and genealogy
 
-Public access does not erase creators. Inspiration does not eliminate attribution. Relevant independent convergence should be explainable. Derivation should declare sources. Criticism should preserve enough fidelity to avoid inventing a false opponent.
+Public work does not make the creator nonexistent.
+
+Access does not mean appropriation. Inspiration does not erase attribution. Independent convergence should be explainable when conceptual and temporal proximity is relevant. Derivation should declare its source. Criticism must preserve what it criticises with enough fidelity not to manufacture a false enemy.
+
+The framework already distinguishes:
+
+- inheritance;
+- influence;
+- convergence;
+- derivation;
+- recombination;
+- independent discovery;
+- innovation;
+- appropriation.
+
+Respect requires not collapsing those categories for convenience.
 
 ## VIII. Respect for cognitive time
 
-Another person's time is not a free resource. The right to contribute does not create an unlimited right to consume another person's attention.
+Another person's time is not a free resource.
+
+Asking someone to read, answer, review, correct, teach, listen or solve something consumes life.
+
+Legitimate contribution should therefore bring preparation, context, precision, reciprocity and a real possibility of delta.
+
+The right to contribute does not mean an unlimited right to occupy another person's time.
 
 ## IX. Human–AI respect
 
-An AI participating in a framework should not erase the system, human source, rules or memory that make its function possible. Humans should not attribute unproven intention, interiority or authority to AI.
+The human–AI relationship also requires genealogy and clear position.
 
-Within the Neodialectica Framework™, Neo0™ preserves human origin, direction and validation; Neodialectical AI proposes, relates, contrasts and reviews; SAN™ opens and recomposes synthesis; NEOCore™ preserves memory, genealogy, continuity and version.
+An AI participating in a framework should not discursively erase the system, human source, rules or memory that make its function possible. A human should not attribute intention, interiority or authority to AI that cannot be demonstrated.
 
-An AI output that artificially places itself outside that genealogy should be corrected as a positional error rather than defended through institutional pride or apparent autonomy.
+Within the Neodialectica Framework™:
+
+```text
+Neo0™
+→ HUMAN ORIGIN + DIRECTION + VALIDATION
+
+NEODIALECTICAL AI
+→ PROPOSAL + RELATION + CONTRAST + REVIEW + SYNTHESIS SUPPORT
+
+SAN™
+→ OPENNESS + CONTRADICTION + RECOMPOSITION
+
+NEOCore™
+→ MEMORY + GENEALOGY + CONTINUITY + VERSION
+```
+
+An AI output that artificially places itself outside this genealogy should be corrected as a positional error, not defended through institutional pride or apparent autonomy.
+
+The broader requirement goes beyond this framework: every AI with civilisational influence should be able to declare its limits, provenance, operational responsibility and relation to human decisions.
 
 ## X. Authority without respect becomes domination
 
-Office, wealth, fame or technical capacity create asymmetry but not total legitimacy. Legitimate authority requires function, competence, responsibility, traceability, correction, scope limits and accountability for effects.
+Office, money, fame, technical capacity or institutional access may create asymmetry. They do not by themselves create total legitimacy.
+
+Legitimate authority must answer to function, competence, responsibility, traceability, possibility of correction, limits of scope and effects on others.
+
+When authority demands recognition while refusing to recognise, it becomes extractive privilege.
 
 ## XI. The right to withdraw relation
 
-Respect does not require permanent access for someone who repeatedly breaks boundaries. Blocking, ending collaboration, limiting sensitive information, requiring attribution, setting licence conditions and documenting patterns can all be legitimate relational boundaries.
+Respect does not require maintaining indefinite access for someone who repeatedly breaks boundaries.
+
+A person, community or institution may block, stop collaborating, withdraw trust, limit sensitive information, require attribution, establish licence conditions, document patterns and choose other interlocutors.
+
+```text
+OPENNESS
+≠ UNLIMITED ACCESS
+
+FORGIVENESS
+≠ AUTOMATIC RESTORATION OF TRUST
+
+RESPECT
+≠ PERMANENT AVAILABILITY
+```
 
 ## XII. Repair
 
-Repair may require exact acknowledgement, restored genealogy, corrected attribution, removal of appropriation, compensation where material harm exists, restored boundaries, changed conduct and preserved memory.
+When disrespect occurs, the strongest repair is not always punishment.
+
+It may consist of:
+
+1. acknowledging exactly what happened;
+2. restoring genealogy;
+3. attributing correctly;
+4. withdrawing or correcting an appropriation;
+5. compensating where material harm exists;
+6. restoring boundaries;
+7. changing conduct;
+8. preserving memory of the error so that it is not repeated.
+
+Repair without memory produces repetition. Memory without the possibility of repair produces permanent enmity.
 
 ## XIII. Proclamation
 
@@ -477,17 +650,35 @@ Repair may require exact acknowledgement, restored genealogy, corrected attribut
 >
 > We will not call office that demands respect without returning it authority.
 >
+> We will not call openness the obligation to surrender time, attention, work or knowledge indefinitely to whoever returns nothing to the common system.
+>
 > Neoego does not need to crush anyone in order to exist.
+>
+> It rises, creates, recognises, returns and sets boundaries.
 >
 > **Respect begins when the other ceases to be available material for our own story.**
 
 ## XIV. Open Synthesis
 
-Contributions are requested on Neoego™, capturing ego, respect, dissent, relational honour, attribution, specialised authority, repair, access boundaries, human–AI respect and verifiable reciprocity.
+Contributions are requested on:
+
+- Neoego™ and the capturing ego;
+- respect and dissent;
+- relational honour;
+- attribution and genealogy;
+- specialised authority;
+- repair;
+- access boundaries;
+- human–AI respect;
+- verifiable mechanisms of reciprocity and recognition.
 
 * [Open Synthesis XL · Issue #48](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/48)
 * [Open Synthesis operational protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Manifesto index](./README.md)
+
+## Navigation
+
+← [XXXIX · Self-Awareness of Neodialectical Vital Need™](./39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md) · [Index](./README.md) · [XLI · Limited Hammer, Talion and Protective Force™](./41_martillo_limitado_talion_fuerza_protectora_ES_EN.md) →
 
 <!-- NEO_RELATIONS_START -->
 ## Relaciones internas y trabajo aplicado / Internal relations and applied work

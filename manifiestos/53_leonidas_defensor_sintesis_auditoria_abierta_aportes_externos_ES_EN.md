@@ -303,39 +303,82 @@ Se solicitan aportes sobre:
 
 ## I. Leónidas does not guard a closed gate
 
-Cancerbero™ protects the integrity of the archive, Wiki, repository, provenance and documentary boundaries.
+Cancerbero™ safeguards the integrity of the archive, the Wiki, the repository, provenance and documentary boundaries.
 
-**Leónidas™ protects another boundary: the possibility of entering Synthesis.**
+**Leónidas™ safeguards another boundary: the possibility of entering Synthesis.**
 
-It does not protect the framework from criticism. It protects the right of criticism to arrive with enough form, context and evidence to be examined.
+It does not protect the framework from criticism. It protects criticism's right to arrive with enough form, context and evidence to be examined.
 
-> **Leónidas™ defends the passage between a lived problem and a public synthesis capable of studying it without erasing the person who brings it, without turning suspicions into facts, and without allowing noise to destroy evidence.**
+> **Leónidas™ defends the passage between a lived problem and a public synthesis capable of studying it without erasing the person who brings it, without turning suspicions into facts and without allowing noise to destroy evidence.**
+
+Leónidas is therefore not the guardian of an elite. It is the defender of an open square.
 
 ## II. Right to bring a problem
 
-Any person may propose a problem requiring joint resolution, a new public audit, new evidence for an existing audit, a contradiction or refutation, a comparable case, a direct experience open to verification, a repair proposal, an alternative hypothesis or a request to reopen a closed case when new evidence appears.
+Any person should be able to propose to the system:
 
-Social, academic, economic or institutional status does not by itself determine admissibility.
+- a problem requiring joint resolution;
+- a new Public Audit;
+- new evidence for an already open audit;
+- a contradiction or refutation;
+- a comparable case;
+- direct experience open to verification;
+- a proposal for repair;
+- an alternative hypothesis;
+- a request to reopen a closed case when new evidence appears.
 
-The condition is different: **what is to be audited must be formulable, traceable and accompanied by the best available evidence.**
+Social, academic, economic or institutional provenance does not by itself determine admissibility.
+
+The condition is different:
+
+> **what is to be audited must be formulable, traceable and accompanied by the best available evidence.**
 
 ## III. Principle of External Synthesis Opening™
 
-> **Any person may propose a new Open Synthesis or Public Audit when they provide a sufficiently delimited object, a legitimate reason for examination and elements open to contrast.**
+> **Any person may propose a new Open Synthesis or Public Audit when they provide a sufficiently delimited object, a legitimate reason for interest and elements open to contrast.**
 
-An external proposal does not automatically become truth, a validated accusation or an obligatory priority. It becomes an **examinable object**.
+The external proposal does not automatically become truth, a validated accusation or an obligatory priority.
+
+It becomes an **examinable object**.
+
+```text
+EXTERNAL PROBLEM
+→ DELIMITED OBJECT
+→ SOURCES / EVIDENCE / EXPERIENCE
+→ CLASSIFICATION
+→ PUBLIC ISSUE
+→ CONTRAST
+→ RIVAL HYPOTHESES
+→ PROVISIONAL SYNTHESIS
+→ DELTA / PROPOSAL / CLOSURE / REOPENING
+```
 
 ## IV. Principle of Evidence for Joint Audit™
 
-A public audit should preserve verifiable facts; documents, communications and records; direct testimony classified as testimony; inferences separated from facts; rival hypotheses; pending or unverifiable information; contradictory evidence; and the auditor's own errors and corrections.
+An audit should not rest on indignation, popularity or personal authority.
 
-Sensitive information should be minimised rather than exposed merely for publicity.
+It should try to preserve:
+
+1. **verifiable facts**;
+2. **documents, communications or records**;
+3. **direct testimony**, identified as testimony;
+4. **inferences**, separated from facts;
+5. **competing hypotheses**;
+6. **pending or unverifiable information**;
+7. **evidence contradicting the initial hypothesis**;
+8. **the auditor's own errors and corrections**.
+
+Not all evidence needs to be public in raw form. Where personal data, legitimate secrets, minors, medical information, credentials, keys or sensitive material exist, only what is strictly necessary should be published, or a verification method that reduces exposure should be used.
 
 ## V. The Issue as an audit square
 
-Until a superior native interface exists, **GitHub Issues is the current public operational channel for contribution and contrast**.
+Until a superior native interface exists, **GitHub Issues functions as the public operational channel for contribution and contrast**.
 
-Every active Public Audit should, where materially useful, have an associated Issue capable of receiving new evidence, comparable cases, refutations, timelines, sources, corrections and repair proposals.
+Each active Public Audit should, where materially useful, have an associated Issue where people may add new evidence, comparable cases, refutations, timelines, sources, corrections, resolution alternatives and later confirmations or denials.
+
+The Issue does not replace the audit document.
+
+The document preserves the versioned synthesis. The Issue preserves conversation, provenance and incoming material.
 
 ```text
 ISSUE = INPUT AND CONTRAST
@@ -345,51 +388,115 @@ COMMIT = FIXATION AND DELTA
 
 ## VI. Audits born from outside
 
-The network must not limit itself to problems detected by Neo0 or Innova_N. An external person may propose an audit by describing the object, what happened, what is known, what remains unknown, what evidence exists, what outcome is sought, who may be affected and what information must remain private.
+The network should not restrict itself to auditing problems detected by Neo0 or Innova_N.
 
-Providing a case does not grant unilateral control over its conclusion. Joint audit must preserve contradiction, right of response and the possibility that the initial hypothesis is wrong.
+An external person may open an audit proposal.
+
+At minimum they should describe:
+
+```text
+OBJECT
+WHAT HAPPENED
+WHAT IS KNOWN
+WHAT IS NOT KNOWN
+WHAT EVIDENCE EXISTS
+WHAT OUTCOME OR REPAIR IS SOUGHT
+WHICH PEOPLE OR INSTITUTIONS ARE AFFECTED
+WHICH DATA MUST NOT BE PUBLISHED
+```
+
+If the case passes a minimum threshold of clarity, legitimacy and traceability, a Public Audit or external Problem Synthesis may be opened.
+
+**Contributing a case does not give the contributor unilateral control over its conclusion.**
+
+Joint audit must preserve contradiction, right of response and the possibility that the initial hypothesis is wrong.
 
 ## VII. Leónidas and Cancerbero
 
+The two guardians perform different and complementary functions.
+
 ```text
 CANCERBERO™
-= INTEGRITY + PROVENANCE + DOCUMENTARY BOUNDARY + ARCHIVE CUSTODY
+= INTEGRITY + PROVENANCE + DOCUMENTARY LIMIT + ARCHIVE CUSTODY
 
 LEÓNIDAS™
-= OPENING + DEFENCE OF SYNTHESIS + EVIDENCE + RIGHT TO CONTRIBUTE + JOINT RESOLUTION
+= OPENNESS + DEFENCE OF SYNTHESIS + EVIDENCE + RIGHT TO CONTRIBUTE + JOINT RESOLUTION
 ```
 
-Cancerbero prevents the archive from losing identity. Leónidas prevents the entrance from being closed by convenience, prestige, fear or overload, while also preventing unsupported accusation from entering disguised as fact.
+Cancerbero prevents the archive from losing identity.
+
+Leónidas prevents the entrance from being closed for reasons of convenience, prestige, fear or saturation.
+
+But Leónidas also prevents an accusation without evidence from passing through the gate disguised as fact.
 
 > **Synthesis is defended by keeping it open and demanding at the same time.**
 
-## VIII. AI as first-line review, not judge
+## VIII. AI as first line of review, not as judge
 
-AI may help organise timelines, detect duplicates, relate documents, locate contradictions, classify facts/inferences/hypotheses, identify missing information, prepare questions and preserve memory.
+The quantity of evidence, cases and documents may rapidly exceed human reading capacity.
 
-But AI is not a judge, court, police force or automatic authority. Publication, accusation, closure, correction and decision remain human and traceable responsibilities.
+AI can help order timelines, detect duplicates, relate documents, locate contradictions, distinguish fact from statement, inference and hypothesis, identify missing information, prepare contrast questions, return to original sources and maintain memory across reviews.
+
+But:
+
+```text
+AI ≠ JUDGE
+AI ≠ COURT
+AI ≠ POLICE
+AI ≠ AUTOMATIC AUTHORITY
+```
+
+Responsibility for publication, accusation, closure, correction and decision remains human and traceable.
 
 ## IX. Music audit as an opening case
 
-The DistroKid–Spotify–DSP public audit is a suitable application. Musicians, producers, labels, listeners and distributors may contribute comparable cases concerning disappearing/reappearing tracks, split profiles, incorrect mappings, changed identifiers, missing or inconsistent royalties, circular support, metadata conflicts, impersonation, or evidence that confirms or refutes current hypotheses.
+The public DistroKid–Spotify–DSP audit is particularly suitable for this mechanism.
 
-Outreach to music communities should ask for **cases, screenshots, identifiers, timelines and support responses**, not for belief in a predetermined accusation.
+Musicians, producers, labels, listeners and distributors may contribute comparable cases concerning songs that disappear or reappear, split or incorrect profiles, wrong mappings, changed identifiers, missing or inconsistent royalties, circular support, contradictory metadata, impersonation, or evidence that confirms or refutes current hypotheses.
 
-## X. Audits deserve documentary visibility
+Outreach to music communities should not ask people to believe an accusation. It should ask for **cases, screenshots, identifiers, timelines and support responses** that allow patterns to be compared.
 
-Manifestos declare architecture and principles. Audits show what happens when that architecture meets real problems.
+Each contribution must distinguish personal experience from general evidence.
 
-> **A framework that only publishes principles can remain doctrine. A framework that accepts evidence, permits itself to be audited, corrects hypotheses and preserves outcomes begins to become cognitive infrastructure.**
+## X. Audits with the same documentary dignity as manifestos
 
-## XI. Principle of Reopening by New Evidence™
+Manifestos declare architecture, principles and direction.
 
-> **No audit should be considered irreversibly closed when material new evidence appears that could alter its conclusion.**
+Audits show what happens when that architecture meets real problems.
 
-Closing fixes the known state at a date; it does not prohibit future learning.
+Public Audits should therefore occupy a visible place in the system rather than remain buried as appendices.
+
+> **A framework that only publishes principles may remain doctrine. A framework that accepts evidence, allows itself to be audited, corrects its hypotheses and preserves the results begins to become cognitive infrastructure.**
+
+## XI. Principle of Reopening Through New Evidence™
+
+> **No audit should be considered irreversibly closed when material evidence appears that is capable of changing its conclusion.**
+
+Closure means fixing the state of knowledge on a date. It does not mean prohibiting future learning.
+
+```text
+CLOSURE
++ NEW MATERIAL EVIDENCE
+→ TRACEABLE REOPENING
+→ NEW REVIEW
+→ NEW VERSION
+```
 
 ## XII. Limits
 
-Leónidas™ does not authorise harassment campaigns, doxxing, unnecessary publication of private data, unsupported accusations presented as fact, fabricated evidence, brigading, substitution for courts/police/regulators, guilt by association, or treating popularity as proof.
+Leónidas™ does not authorise:
+
+- harassment campaigns;
+- doxxing;
+- publication of unnecessary private data;
+- accusations presented as facts without evidence;
+- fabrication or manipulation of evidence;
+- brigading or coordinated pressure to impose conclusions;
+- use of the system as a substitute for police, courts, regulators or competent professional assistance;
+- public condemnation of a person by mere association;
+- turning numbers of supporters into proof.
+
+Where there may be crime, physical risk or a need for regulatory intervention, an audit may document and orient, but it does not replace the corresponding legal channels.
 
 ## XIII. Leónidas™ Proclamation
 
@@ -401,7 +508,7 @@ Leónidas™ does not authorise harassment campaigns, doxxing, unnecessary publi
 >
 > We do not promise to agree with you.
 >
-> We promise to try to preserve the question, provenance, contradictions and the path toward an answer.
+> We promise to try to preserve the question, provenance, contradictions and the path of the answer.
 >
 > We do not defend a predetermined conclusion.
 >
@@ -413,12 +520,28 @@ Leónidas™ does not authorise harassment campaigns, doxxing, unnecessary publi
 
 ## XIV. Open Synthesis
 
-Contributions are invited on evidence standards, privacy, right of response, abuse prevention, closure/reopening, AI-assisted review, community evidence, repair metrics and attribution to those who discover, document, refute or correct a problem.
+Contributions are requested on:
 
-* [How to contribute](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
-* [Public audits](../auditorias/publicas/README.md)
+- minimum criteria for accepting an externally proposed audit;
+- hierarchies and quality of evidence;
+- privacy and consent protection;
+- right of response for audited people or institutions;
+- mechanisms to prevent coordinated campaigns or abusive reports;
+- closure and reopening of cases;
+- use of AI in classification and contrast;
+- integration of evidence contributed by communities;
+- resolution and repair metrics;
+- attribution and recognition mechanisms for those who discover, document, refute or correct a problem.
+
+* [How to contribute to Open Synthesis](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [Public Audits](../auditorias/publicas/README.md)
 * [XXXIV · Perpetual Joint Audit™](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
-* [XLVIII · The Synthesis Sees Everything™](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
+* [XLVIII · Synthesis Sees Everything™](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
+
+## Navigation
+
+← [LII · Neodialectical Human Citizenship™](./52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md) · [Index](./README.md)
+
 
 ---
 

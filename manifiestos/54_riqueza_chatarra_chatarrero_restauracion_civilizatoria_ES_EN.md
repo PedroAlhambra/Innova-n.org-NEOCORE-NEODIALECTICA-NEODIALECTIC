@@ -483,39 +483,83 @@ Preguntas abiertas:
 
 ## I. Reversing wealth
 
-For too long, wealth has been associated with the capacity to replace and poverty with the need to repair.
+For too long we have called the ability to buy something new wealth and the need to repair something old poverty.
 
-Archetypal Neodialectical Philosophy™ proposes a reversal:
+Archetypal Neodialectical Philosophy™ proposes reversing that reading.
 
-> **Wealth also belongs to those who can preserve, transform, restore and return function to what an extractive system had declared waste.**
+> **Wealth does not belong only to those who can replace. It also belongs to those who know how to preserve, transform, restore and return function to what the system had declared waste.**
 
-A broken object still contains matter, embedded work, design, energy, memory and sometimes beauty. A mature civilisation should therefore move from use-and-discard toward maintenance, repair, restoration, reuse, transformation and material recovery.
+A broken object preserves matter, already invested energy, design, human work, memory and sometimes beauty.
+
+Discarding it without trying to understand it can be both a material and cognitive loss.
+
+```text
+OBJECT
+→ USE
+→ WEAR
+→ BREAKAGE
+→ DISCARD
+```
+
+should not be the dominant sequence of a mature civilisation.
+
+It should evolve toward:
+
+```text
+OBJECT
+→ USE
+→ MAINTENANCE
+→ REPAIR
+→ RESTORATION
+→ REUSE
+→ TRANSFORMATION
+→ MATERIAL RECOVERY
+→ NEW LIFE
+```
 
 ## II. The Scrapworker™
 
-The scrapworker has often been pushed to the social margin: the person who collects what others discard, dismantles it, classifies it, stores it, resells it or rebuilds it.
+The scrapworker archetype has often been placed at the social periphery: the person who collects what others throw away, dismantles, classifies, stores, resells or rebuilds it.
 
-Neodialectics moves this archetype toward the centre.
+Neodialectics places this figure closer to the centre.
 
-> **The Scrapworker™ sees value where an extractive system sees only the end of a cycle.**
+> **The Scrapworker™ sees value where the extractive system sees only the end of a cycle.**
 
-This is not an archetype of misery, but of the **material second chance**.
+This is not the archetype of misery. It is the archetype of the **material second chance**.
+
+It looks at a part and asks: what still works? what can be repaired? what can be dismantled without destruction? which component can serve another object? which material can be recovered? which story deserves preservation? which residue can become art? which knowledge can be passed forward?
 
 ## III. Principle of Restorative Wealth™
 
-> **Civilisational wealth should also be measured by the capacity to extend material life, recover function, reduce extraction and transform residues into new cycles of utility, beauty and knowledge.**
+> **Civilisational wealth should also be measured by the capacity to extend the useful life of matter, recover function, reduce extraction and transform residues into new cycles of utility, beauty and knowledge.**
+
+A society that manufactures much but restores little may appear rich while impoverishing its material base.
+
+A society that knows how to repair can produce less waste and more autonomy.
+
+Restoration creates wealth because it preserves previous work and adds new work without necessarily requiring equivalent new extraction.
 
 ## IV. From margin to social foundation
 
-Repair should not remain a hobby, an emergency response to poverty or an invisible trade. Electronics repairers, mechanics, welders, carpenters, textile repairers, cobblers, appliance technicians, material recoverers, remanufacturers, repair designers, scrap artists, tool libraries, community workshops and repair cooperatives should become recognised infrastructure.
+Repair should not remain confined to hobbies, precarity or economic emergency. It should become **basic social infrastructure**.
+
+Society needs electronics repairers, furniture restorers, mechanics, welders, carpenters, textile repairers and tailors, cobblers, appliance technicians, material recoverers, bicycle repairers, reuse artisans, remanufacturing specialists, metal/glass/complex-material recyclers, design-for-disassembly specialists, residue artists, tool libraries, community workshops, repair cooperatives, recovered-parts markets and specialists in safe classification of hazardous waste.
+
+> **The work of restoring things should recover prestige, training, salary, infrastructure and cultural centrality.**
 
 ## V. Principle of the Dignity of Repair Work™
 
-> **No trade is inferior because it works with used, broken, dirty or discarded matter. The dignity of work depends on function, care, competence and contribution—not on the novelty of the object.**
+> **No trade should be considered inferior because it works with used, broken, dirty or discarded matter. The dignity of work depends on its function, care, competence and contribution, not on the novelty of the object on which it works.**
+
+A technician who extends a machine's life by ten years may contribute more real value than a commercial chain that induces premature replacement.
+
+A scrapworker who correctly separates materials may reduce future extraction.
+
+A person who recovers a chair, tool or musical instrument preserves matter and memory.
 
 ## VI. Art from residue
 
-Restoration can go beyond returning an original function. Waste can acquire a new one.
+There is a higher level of restoration: not only returning an original function but **creating a new function**.
 
 ```text
 RESIDUE
@@ -528,59 +572,116 @@ RESIDUE
 → VALUE
 ```
 
-Value does not reside only in matter or price. It also emerges from relation, understanding and reconfiguration.
+Discarded material can become sculpture, furniture, instrument, architecture, toy, machine, prosthesis, tool, educational piece or symbol.
+
+The art of residue reveals a truth of the framework:
+
+> **value does not reside only in matter or price; it also emerges from relation, understanding and the capacity for reconfiguration.**
 
 ## VII. Against cultural obsolescence
 
-Obsolescence can be cultural as well as technical. When society teaches that repair is shameful, old objects signal failure and buying new means progress, consumption begins to organise identity.
+Obsolescence is not only technical. It can also be cultural.
 
-Neodialectics proposes **pride in preservation** instead of manufactured pride in replacement.
+When a society learns that repair is shameful, that using something old means failure and that buying new equals progress, consumption stops answering only to need and begins organising identity.
+
+This connects with the [Manifesto Against Anti-Humanist Neuromarketing™](./31_contra_neuromarketing_antihumanista_ES_EN.md).
+
+A permanent-replacement system needs to manufacture the desire to discard. Neodialectics proposes manufacturing **pride in preservation**.
 
 ## VIII. Design for repair
 
-Citizens cannot reasonably be asked to repair products deliberately made impossible to repair. Products should, when technically and materially reasonable, support disassembly, documentation, spare parts, modularity, component replacement, material identification and end-of-life recovery.
+It is not enough to ask citizens to repair objects deliberately designed not to be repaired.
+
+Change must reach design.
+
+Every product should try, where technically and materially reasonable, to optimise disassembly, access to parts, documentation, spare-part availability, modularity, component replacement, updates without artificial disablement, identifiable materials, end-of-life recovery, compatibility with common tools, and reduction of unnecessary irreversible adhesives or joints.
 
 > **Principle of Reparability by Origin™: the right to repair begins before purchase, in the architecture of the object.**
 
 ## IX. Less unnecessary plastic
 
-Plastics have enabled important medical, technical, hygienic and industrial functions. This manifesto does not call every plastic use useless.
+Plastic has enabled important advances and there are technical, medical, sanitary, industrial and safety uses that are difficult to replace immediately.
 
-It proposes reducing massive plastic production where use is brief, replaceable or unnecessary while material persistence is far longer than utility.
+This manifesto does not declare every plastic use useless.
 
-Plastic and microplastic contamination spans environmental compartments and living organisms. Their widespread presence is sufficient reason for strong reduction, containment, substitution, traceability and continued study without turning each finding into unsupported clinical claims.
+It proposes another rule:
+
+> **stop mass-producing plastic where its function is brief, dispensable or easily replaceable while its material persistence is far greater than its utility.**
+
+Plastic and microplastic contamination already crosses multiple environmental compartments and reaches living organisms. The presence of these particles in environments and bodies is enough to justify strong reduction, substitution, containment, traceability and study without turning every finding into a simplistic claim about specific clinical effects still under investigation.
+
+```text
+MINUTES OF USE
++
+DECADES OR CENTURIES OF PERSISTENCE
+= TEMPORAL MISMATCH
+```
+
+A coherent civilisation should reduce that mismatch.
 
 ## X. Principle of Material-Temporal Proportion™
 
-> **The environmental persistence of a material should bear a reasonable relationship to the duration and necessity of the function it serves.**
+> **The environmental persistence of a material should bear a reasonable relation to the duration and necessity of the function for which it is used.**
 
-A critical medical device and a minutes-long disposable wrapper do not present the same justification.
+Using an extremely persistent material in a critical medical device is not equivalent to using it in packaging intended to exist for only a few minutes.
+
+Neodialectics requires distinguishing uses rather than replacing one dogma with another.
 
 ## XI. Defences of the real system
 
-Within the Neodialectical model, ecological, biological, economic and social feedback produced by persistent degradation can be understood as **defences of the real system**.
+Within the Neodialectical model, the planet and its cohabitants are understood as a network of interdependent material, biological and temporal relations.
 
-This does not attribute conscious intention to the planet. It recognises that extraction and contamination alter relationships and generate returning costs, constraints and adaptation pressures.
+When a practice generates accumulation, toxicity, biodiversity loss, soil degradation, water contamination or persistent harm to organisms, **feedback** appears: constraints, disease, costs, local collapses, loss of productivity, adaptation, regulation, conflict and the need for correction.
 
-> **We do not live outside the system we contaminate. Matter returns through water, air, food, soil, health, economy and conflict.**
+The framework may describe these responses as **defences of the real system**.
+
+This does not attribute conscious intention to the planet.
+
+It means recognising that:
+
+```text
+EXTRACTION / POLLUTION
+→ ALTERED RELATIONS
+→ SYSTEM RESPONSES
+→ RETURNED COSTS
+→ NEED FOR ADAPTATION
+```
+
+> **We do not live outside the system we contaminate. Matter returns through water, air, food, soil, economy, health and conflict.**
 
 ## XII. Cohabitants, not scenery
 
-Other living beings share water, air, soil, trophic chains and space with humans. Reducing pollution is therefore not merely environmental management; it is a form of coexistence.
+Other living beings are not a passive background to the human economy.
+
+They share water, air, soil, food chains and space with us.
+
+[Respect for All Living Beings™](./17_respeto_todos_seres_vivos_ES_EN.md) requires including them in civilisational calculation.
+
+Reducing waste and pollution is not merely “environmental management”. It is a form of coexistence.
 
 ## XIII. Material Contribution Economy
 
-The Contribution Economy™ should recognise people who prevent extraction, extend useful life, document repairs, recover components, design repairable products, classify waste, turn discard into art, teach crafts and maintain common infrastructure.
+The [Contribution Economy™](./04_economia_del_aporte_ES_EN.md) should recognise the value of those who prevent extraction, extend an object's life, share a repair, document disassembly, recover a component, design a repairable product, clean a space, classify waste, turn discard into art, teach a craft, create an open tool or maintain common infrastructure.
 
-> **Preserving existing value is also a form of creating value.**
+Contribution is not only producing something new.
+
+> **Preserving existing value is also creating value.**
 
 ## XIV. Right to repair and right to learn repair
 
-Repair autonomy requires reasonable access to manuals, spare parts, diagnostics, technical education, shared tools and safety standards. Dangerous systems and hazardous materials still require appropriate professional competence.
+A society dependent on opaque chains of replacement loses autonomy.
+
+The right to repair should therefore be accompanied by reasonable access to manuals, spare parts, diagnostic information, technical training, school and community workshops, shared tools, safety standards, transparent second-hand markets and protection against artificial repair barriers when they are not justified by real safety needs.
+
+But the right to repair does not require an unqualified person to manipulate dangerous systems.
+
+Batteries, high voltage, gases, asbestos, chemicals, critical structures and hazardous waste require appropriate professionals and protocols.
 
 ## XV. Restorative education
 
-Children and adults should learn that objects have structure and can be understood.
+Children should learn that things have structure. That they can be opened, understood and maintained. That breaking does not always mean ending.
+
+Basic technical education should progressively include:
 
 ```text
 OBSERVE
@@ -592,21 +693,23 @@ OBSERVE
 → DOCUMENT
 ```
 
-Not everyone must become a mechanic. No one should be forced to remain a powerless consumer.
+Not to turn everyone into mechanics. To prevent everyone from becoming powerless consumers.
 
 ## XVI. The workshop-city
 
-A Neodialectical city should look less like a linear shop → home → bin flow and more like a network of repair, exchange, tool lending, recovered parts, second-hand markets, artistic reuse, training and material classification.
+The Neodialectical city should look less like a linear shop → home → bin flow and more like a network of workshops.
 
-Waste becomes less a place and more a **classification question**.
+Each neighbourhood could support nodes for repair, exchange, tool lending, part recovery, second-hand use, artistic reuse, training, composting where appropriate, material classification, component libraries and open documentation of solutions.
+
+Waste then stops being a place. It becomes a **classification question**.
 
 ## XVII. Do not romanticise precarity
 
-Elevating the Scrapworker™ archetype does not mean romanticising unsafe informal waste work, toxic exposure, child exploitation or poverty.
+Elevating the Scrapworker™ archetype does not mean romanticising dumps, dangerous informal work, toxic exposure, child exploitation or poverty.
 
-If material recovery is a central function, workers require protection, infrastructure, training, recognition, decent pay, health safeguards and producer responsibility.
+On the contrary, if material recovery is a central function, it should receive labour protection, adequate equipment, training, infrastructure, professional recognition, decent wages, material traceability, health controls, producer responsibility and classification/decontamination technology.
 
-> **Making the scrapworker a social foundation does not mean keeping them at the bottom. It means raising the function and the people who perform it.**
+> **Making the scrapworker a social foundation does not mean keeping them at the bottom. It means raising the function and the person who performs it.**
 
 ## XVIII. Principle of Second-Life Priority™
 
@@ -614,11 +717,31 @@ If material recovery is a central function, workers require protection, infrastr
 
 This is not an absolute prohibition on manufacturing. It is a reversal of decision order.
 
+```text
+CAN WE MAINTAIN?
+↓
+CAN WE REPAIR?
+↓
+CAN WE REUSE?
+↓
+CAN WE REMANUFACTURE?
+↓
+CAN WE RECOVER MATERIAL?
+↓
+ONLY THEN: WHAT DO WE NEED TO MANUFACTURE NEW?
+```
+
 ## XIX. Visible and invisible wealth
 
-A broader account of contribution should include avoided matter, useful life added, embedded work conserved, social costs avoided, knowledge transmitted, autonomy gained, waste avoided, beauty created and memory preserved.
+GDP may register the sale of a new object. It may also register some repairs.
 
-Not everything must immediately become a token, price or single metric.
+But much of the value of preserving, sharing, exchanging, maintaining or reusing may remain culturally undervalued.
+
+Neodialectics proposes a broader account of contribution: avoided matter, added useful life, conserved embedded energy, avoided social cost, transmitted knowledge, gained autonomy, avoided waste, created beauty and preserved memory.
+
+Not everything needs to become immediately a token, price or single metric.
+
+Measurement should serve value, not replace it.
 
 ## XX. Scrap Proclamation™
 
@@ -628,23 +751,55 @@ Not everything must immediately become a token, price or single metric.
 >
 > New does not necessarily mean progress.
 >
-> Matter remembers the work already invested in it.
+> Matter remembers the work it has already received.
 >
-> Residue may still contain function, learning and beauty.
+> Residue may preserve function, learning and beauty.
 >
-> True power is not only the capacity to buy another object.
+> True power is not only the ability to buy something else.
 >
-> **It is the capacity to return life to what appeared finished.**
+> **It is knowing how to return life to what appeared finished.**
 >
 > The scrapworker should not remain at society's margin.
 >
-> The function belongs near its centre: rescuing value, reducing extraction, restoring autonomy and turning discard into possibility.
+> The function should be central: **rescuing value, reducing extraction, restoring autonomy and turning discard into possibility.**
+>
+> Let us stop manufacturing rubbish to sustain the illusion of wealth.
+>
+> Let us learn to manufacture less, better, disassemblable, repairable and durable.
+>
+> Let us learn to restore.
+>
+> Let us learn to transform.
+>
+> Let us learn to see art where we once saw only scrap.
 
 ## XXI. Open Synthesis
 
-Contributions are invited from scrapworkers, recyclers, repairers, mechanics, restorers, artisans, artists, engineers, industrial designers, material scientists, environmental toxicologists, circular-economy specialists, right-to-repair advocates, waste managers, municipalities, educators, cooperatives and citizens.
+Contributions are especially requested from scrapworkers, recyclers, repairers, mechanics, restorers, artisans, artists, engineers, industrial designers, materials specialists, environmental toxicologists, circular-economy specialists, right-to-repair advocates, waste managers, reverse-logistics specialists, technical educators, cooperatives, municipalities and citizens.
 
-Open questions include repair incentives, reparability indexes, spare-part availability, reduction priorities for short-lived plastics, safe material substitution, professionalisation of recovery, repair education, recognition of preserved value, artistic reuse, workshop-city design and counterexamples to the Principle of Second-Life Priority™.
+Open questions:
+
+1. Which repair activities should receive fiscal, training or public-procurement priority?
+2. How can added useful life be measured without creating absurd bureaucracy?
+3. Which products should be required to publish reparability indexes?
+4. How can spare parts be guaranteed for reasonable periods?
+5. Which plastics and short-duration uses should be reduced first?
+6. How can substitutions that generate worse impacts than the replaced material be avoided?
+7. How can recovery and recycling be professionalised without destroying useful local networks?
+8. How can repair workshops be integrated into schools without unnecessary risk?
+9. How can the value of preserving matter be economically recognised?
+10. Which residues can safely become artistic or construction material?
+11. How can cities be designed so that repair is easier than replacement?
+12. Which counterexamples limit the Principle of Second-Life Priority™?
+
+* [VII · Contribution Economy™](./04_economia_del_aporte_ES_EN.md)
+* [XVII · Respect for All Living Beings™](./17_respeto_todos_seres_vivos_ES_EN.md)
+* [XXV · Polishing of the Stone™](./25_pulido_de_la_piedra_ES_EN.md)
+* [XXIX · Against the Idolatry of Money™](./29_idolatria_del_dinero_ES_EN.md)
+* [XXX · Coherence between Ends and Means™](./30_coherencia_fines_medios_ES_EN.md)
+* [XXXI · Against Anti-Humanist Neuromarketing™](./31_contra_neuromarketing_antihumanista_ES_EN.md)
+* [LIII · Leónidas™](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
+
 
 ---
 
