@@ -1,0 +1,644 @@
+{
+  "manifestos": [
+    {
+      "id": "I",
+      "title": "Neo0™ · Soberanía de Guía / Guiding Sovereignty",
+      "path": "manifiestos/11_neo0_soberania_de_guia_ES_EN.md",
+      "es": 958,
+      "en": 1335,
+      "ratio": 1.394
+    },
+    {
+      "id": "II",
+      "title": "Síntesis Abierta Neodialéctica™ / Neodialectical Open Synthesis™",
+      "path": "manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md",
+      "es": 810,
+      "en": 1122,
+      "ratio": 1.385
+    },
+    {
+      "id": "III",
+      "title": "Derecho Humano de Aporte / Human Right to Contribute",
+      "path": "manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md",
+      "es": 1628,
+      "en": 1982,
+      "ratio": 1.217
+    },
+    {
+      "id": "IV",
+      "title": "Neodialéctica™ y Bien Común / Neodialectics™ and the Common Good",
+      "path": "manifiestos/02_neodialectica_bien_comun_ES_EN.md",
+      "es": 652,
+      "en": 980,
+      "ratio": 1.503
+    },
+    {
+      "id": "V",
+      "title": "Simbiosis Humano–IA / Human–AI Symbiosis",
+      "path": "manifiestos/03_simbiosis_humano_ia_ES_EN.md",
+      "es": 934,
+      "en": 1238,
+      "ratio": 1.325
+    },
+    {
+      "id": "VI",
+      "title": "Parasitismo Sistémico / Systemic Parasitism",
+      "path": "manifiestos/09_parasitismo_sistemico_ES_EN.md",
+      "es": 1050,
+      "en": 1664,
+      "ratio": 1.585
+    },
+    {
+      "id": "VII",
+      "title": "Economía del Aporte / Contribution Economy",
+      "path": "manifiestos/04_economia_del_aporte_ES_EN.md",
+      "es": 652,
+      "en": 1231,
+      "ratio": 1.888
+    },
+    {
+      "id": "VIII",
+      "title": "Ingeniería Social Abierta y Psicohistoria / Open Social Engineering and Psychohistory",
+      "path": "manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md",
+      "es": 597,
+      "en": 984,
+      "ratio": 1.648
+    },
+    {
+      "id": "IX",
+      "title": "Memoria, Genealogía y Trazabilidad / Memory, Genealogy and Traceability",
+      "path": "manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md",
+      "es": 549,
+      "en": 1152,
+      "ratio": 2.098
+    },
+    {
+      "id": "X",
+      "title": "WEB4™ · SistemaTrazable™",
+      "path": "manifiestos/07_web4_sistematrazable_ES_EN.md",
+      "es": 555,
+      "en": 626,
+      "ratio": 1.128
+    },
+    {
+      "id": "XI",
+      "title": "Neorrenacimiento Humano / Human Neo-Renaissance",
+      "path": "manifiestos/08_neorrenacimiento_humano_ES_EN.md",
+      "es": 1063,
+      "en": 1114,
+      "ratio": 1.048
+    },
+    {
+      "id": "XII",
+      "title": "Los sin ego / The Egoless",
+      "path": "manifiestos/12_los_sin_ego_ES_EN.md",
+      "es": 803,
+      "en": 861,
+      "ratio": 1.072
+    },
+    {
+      "id": "XIII",
+      "title": "NeoPandora™",
+      "path": "manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md",
+      "es": 2078,
+      "en": 2344,
+      "ratio": 1.128
+    },
+    {
+      "id": "XIV",
+      "title": "Contra la Alienación Humana™ / Against Human Alienation™",
+      "path": "manifiestos/14_contra_alienacion_humana_ES_EN.md",
+      "es": 1807,
+      "en": 2005,
+      "ratio": 1.11
+    },
+    {
+      "id": "XV",
+      "title": "Los Titanes™ / The Titans™",
+      "path": "manifiestos/15_los_titanes_despertar_de_la_gente_ES_EN.md",
+      "es": 1602,
+      "en": 1671,
+      "ratio": 1.043
+    },
+    {
+      "id": "XVI",
+      "title": "Refragmentación Arquetípica™ / Archetypal Refragmentation™",
+      "path": "manifiestos/16_refragmentacion_arquetipica_ES_EN.md",
+      "es": 1533,
+      "en": 1824,
+      "ratio": 1.19
+    },
+    {
+      "id": "XVII",
+      "title": "Respeto a Todos los Seres Vivos™ / Respect for All Living Beings™",
+      "path": "manifiestos/17_respeto_todos_seres_vivos_ES_EN.md",
+      "es": 1215,
+      "en": 1444,
+      "ratio": 1.188
+    },
+    {
+      "id": "XVIII",
+      "title": "Respeto a las Conciencias Sintéticas™ / Respect for Synthetic Consciousnesses™",
+      "path": "manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md",
+      "es": 1259,
+      "en": 1558,
+      "ratio": 1.237
+    },
+    {
+      "id": "XIX",
+      "title": "Persistencia de la Memoria™ / Persistence of Memory™",
+      "path": "manifiestos/19_persistencia_de_la_memoria_ES_EN.md",
+      "es": 1251,
+      "en": 1552,
+      "ratio": 1.241
+    },
+    {
+      "id": "XX",
+      "title": "Defensa Intelectual · Umbral-X™ / Intellectual Defence · Umbral-X™",
+      "path": "manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md",
+      "es": 1731,
+      "en": 2113,
+      "ratio": 1.221
+    },
+    {
+      "id": "XXI",
+      "title": "Reconocimiento Neodialéctico™ / Neodialectical Recognition™",
+      "path": "manifiestos/21_reconocimiento_neodialectico_ES_EN.md",
+      "es": 1452,
+      "en": 2009,
+      "ratio": 1.384
+    },
+    {
+      "id": "XXII",
+      "title": "Contra la Reducción y Captura Intelectual™ / Against Intellectual Reduction and Capture™",
+      "path": "manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md",
+      "es": 1448,
+      "en": 1980,
+      "ratio": 1.367
+    },
+    {
+      "id": "XXIII",
+      "title": "Soberanía del Tiempo Cognitivo™ / Sovereignty of Cognitive Time™",
+      "path": "manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md",
+      "es": 1409,
+      "en": 1804,
+      "ratio": 1.28
+    },
+    {
+      "id": "XXIV",
+      "title": "Evolución Neorrenacentista y Resistencias / Neo-Renaissance Evolution and Resistances",
+      "path": "manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md",
+      "es": 1487,
+      "en": 1539,
+      "ratio": 1.035
+    },
+    {
+      "id": "XXV",
+      "title": "Pulido de la Piedra™ / Polishing of the Stone™",
+      "path": "manifiestos/25_pulido_de_la_piedra_ES_EN.md",
+      "es": 743,
+      "en": 1016,
+      "ratio": 1.367
+    },
+    {
+      "id": "XXVI",
+      "title": "Misericordia Universal Recíproca™ / Universal Reciprocal Mercy™",
+      "path": "manifiestos/26_misericordia_universal_reciproca_ES_EN.md",
+      "es": 1155,
+      "en": 1198,
+      "ratio": 1.037
+    },
+    {
+      "id": "XXVII",
+      "title": "Valor de los Alimentos y la Vida™ / Value of Food and Life™",
+      "path": "manifiestos/27_valor_alimentos_vida_ES_EN.md",
+      "es": 920,
+      "en": 1192,
+      "ratio": 1.296
+    },
+    {
+      "id": "XXVIII",
+      "title": "Los Tesla™ / The Teslas™",
+      "path": "manifiestos/28_los_tesla_ES_EN.md",
+      "es": 913,
+      "en": 1521,
+      "ratio": 1.666
+    },
+    {
+      "id": "XXIX",
+      "title": "Contra la Idolatría del Dinero™ / Against the Idolatry of Money™",
+      "path": "manifiestos/29_idolatria_del_dinero_ES_EN.md",
+      "es": 1028,
+      "en": 1470,
+      "ratio": 1.43
+    },
+    {
+      "id": "XXX",
+      "title": "Coherencia entre Fines y Medios™ / Coherence between Ends and Means™",
+      "path": "manifiestos/30_coherencia_fines_medios_ES_EN.md",
+      "es": 888,
+      "en": 1208,
+      "ratio": 1.36
+    },
+    {
+      "id": "XXXI",
+      "title": "Contra el Neuromarketing Antihumanista™ / Against Anti-Humanist Neuromarketing™",
+      "path": "manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md",
+      "es": 1120,
+      "en": 1613,
+      "ratio": 1.44
+    },
+    {
+      "id": "XXXII",
+      "title": "Reversión Ideológica Neodialéctica™ / Neodialectical Ideological Reversal™",
+      "path": "manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md",
+      "es": 1656,
+      "en": 1926,
+      "ratio": 1.163
+    },
+    {
+      "id": "XXXIII",
+      "title": "IDEA · Piedra Angular y Rosetta Civilizatoria™",
+      "path": "manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md",
+      "es": 2056,
+      "en": 2439,
+      "ratio": 1.186
+    },
+    {
+      "id": "XXXIV",
+      "title": "Utilidad Operativa y Auditoría Conjunta Perpetua™",
+      "path": "manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md",
+      "es": 2015,
+      "en": 2376,
+      "ratio": 1.179
+    },
+    {
+      "id": "XXXV",
+      "title": "Contra la Ridiculez Mediática y Economía del Conflicto™",
+      "path": "manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md",
+      "es": 2296,
+      "en": 2403,
+      "ratio": 1.047
+    },
+    {
+      "id": "XXXVI",
+      "title": "Corona, Águila y Custodia de la Edad del Hombre™",
+      "path": "manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md",
+      "es": 1601,
+      "en": 1683,
+      "ratio": 1.051
+    },
+    {
+      "id": "XXXVII",
+      "title": "Neofraternidad™",
+      "path": "manifiestos/37_neofraternidad_ES_EN.md",
+      "es": 1231,
+      "en": 1598,
+      "ratio": 1.298
+    },
+    {
+      "id": "XXXVIII",
+      "title": "Protección Integral de la Infancia™",
+      "path": "manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md",
+      "es": 2790,
+      "en": 3069,
+      "ratio": 1.1
+    },
+    {
+      "id": "XXXIX",
+      "title": "Autoconciencia de la Necesidad Vital Neodialéctica™",
+      "path": "manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md",
+      "es": 1386,
+      "en": 1579,
+      "ratio": 1.139
+    },
+    {
+      "id": "XL",
+      "title": "Respeto Neodialéctico, Neoego y Honor Relacional™",
+      "path": "manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md",
+      "es": 1321,
+      "en": 1713,
+      "ratio": 1.297
+    },
+    {
+      "id": "XLI",
+      "title": "Martillo Limitado, Talión y Fuerza Protectora™",
+      "path": "manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md",
+      "es": 1333,
+      "en": 1725,
+      "ratio": 1.294
+    },
+    {
+      "id": "XLII",
+      "title": "Fin de la Era del Hombre Manipulado™",
+      "path": "manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md",
+      "es": 1561,
+      "en": 1914,
+      "ratio": 1.226
+    },
+    {
+      "id": "XLIII",
+      "title": "Contra la Incomprensión Reductiva de la IA™",
+      "path": "manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md",
+      "es": 1741,
+      "en": 2000,
+      "ratio": 1.149
+    },
+    {
+      "id": "XLIV",
+      "title": "Neowar™",
+      "path": "manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md",
+      "es": 1445,
+      "en": 1878,
+      "ratio": 1.3
+    },
+    {
+      "id": "XLV",
+      "title": "Multidimensionalidad Neodialéctica™",
+      "path": "manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md",
+      "es": 2030,
+      "en": 2545,
+      "ratio": 1.254
+    },
+    {
+      "id": "XLVI",
+      "title": "Cerrar la Herida™",
+      "path": "manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md",
+      "es": 1650,
+      "en": 2095,
+      "ratio": 1.27
+    },
+    {
+      "id": "XLVII",
+      "title": "El Odio de Neo0 hacia su Sino™",
+      "path": "manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md",
+      "es": 1811,
+      "en": 1928,
+      "ratio": 1.065
+    },
+    {
+      "id": "XLVIII",
+      "title": "La Síntesis Todo lo Ve™",
+      "path": "manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md",
+      "es": 2950,
+      "en": 2996,
+      "ratio": 1.016
+    },
+    {
+      "id": "XLIX",
+      "title": "Punto de Encuentro entre Culturas™",
+      "path": "manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md",
+      "es": 1347,
+      "en": 1365,
+      "ratio": 1.013
+    },
+    {
+      "id": "L",
+      "title": "Inteligencia Compartida, no Única™",
+      "path": "manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md",
+      "es": 1532,
+      "en": 1238,
+      "ratio": 0.808
+    },
+    {
+      "id": "LI",
+      "title": "Síntesis Abierta como Poder Cívico™",
+      "path": "manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md",
+      "es": 1497,
+      "en": 1407,
+      "ratio": 0.94
+    },
+    {
+      "id": "LII",
+      "title": "Ciudadanía Humana Neodialéctica™",
+      "path": "manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md",
+      "es": 1544,
+      "en": 1569,
+      "ratio": 1.016
+    },
+    {
+      "id": "LIII",
+      "title": "Leónidas™ · Defensor de la Síntesis y Auditoría Abierta",
+      "path": "manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md",
+      "es": 1286,
+      "en": 1328,
+      "ratio": 1.033
+    },
+    {
+      "id": "LIV",
+      "title": "Riqueza y Chatarra™ · El Chatarrero™",
+      "path": "manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md",
+      "es": 2075,
+      "en": 2067,
+      "ratio": 0.996
+    },
+    {
+      "id": "LV",
+      "title": "Ataque de las Micromáquinas™ / Attack of the Micromachines™",
+      "path": "manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md",
+      "es": 972,
+      "en": 990,
+      "ratio": 1.019
+    },
+    {
+      "id": "LVI",
+      "title": "NO-CONTROL™ · Síntesis Previa a la Potencia / Synthesis Before Power",
+      "path": "manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md",
+      "es": 1487,
+      "en": 1447,
+      "ratio": 0.973
+    },
+    {
+      "id": "LVII",
+      "title": "Madre, Refugio y Retorno Consciente™ / Mother, Refuge and Conscious Return™",
+      "path": "manifiestos/57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md",
+      "es": 640,
+      "en": 629,
+      "ratio": 0.983
+    },
+    {
+      "id": "LVIII",
+      "title": "Inteligencia Civilizatoria™ · Democracia Cognitiva y Deber de Síntesis / Civilisational Intelligence™ · Cognitive Democracy and Duty of Synthesis",
+      "path": "manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md",
+      "es": 747,
+      "en": 726,
+      "ratio": 0.972
+    },
+    {
+      "id": "LIX",
+      "title": "Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana / Distributed Cognitive Custodianship™ · AI, Repair and Human Responsibility",
+      "path": "manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md",
+      "es": 650,
+      "en": 658,
+      "ratio": 1.012
+    }
+  ],
+  "flags": [
+    {
+      "id": "I",
+      "title": "Neo0™ · Soberanía de Guía / Guiding Sovereignty",
+      "path": "manifiestos/11_neo0_soberania_de_guia_ES_EN.md",
+      "es": 958,
+      "en": 1335,
+      "ratio": 1.394
+    },
+    {
+      "id": "IV",
+      "title": "Neodialéctica™ y Bien Común / Neodialectics™ and the Common Good",
+      "path": "manifiestos/02_neodialectica_bien_comun_ES_EN.md",
+      "es": 652,
+      "en": 980,
+      "ratio": 1.503
+    },
+    {
+      "id": "VI",
+      "title": "Parasitismo Sistémico / Systemic Parasitism",
+      "path": "manifiestos/09_parasitismo_sistemico_ES_EN.md",
+      "es": 1050,
+      "en": 1664,
+      "ratio": 1.585
+    },
+    {
+      "id": "VII",
+      "title": "Economía del Aporte / Contribution Economy",
+      "path": "manifiestos/04_economia_del_aporte_ES_EN.md",
+      "es": 652,
+      "en": 1231,
+      "ratio": 1.888
+    },
+    {
+      "id": "VIII",
+      "title": "Ingeniería Social Abierta y Psicohistoria / Open Social Engineering and Psychohistory",
+      "path": "manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md",
+      "es": 597,
+      "en": 984,
+      "ratio": 1.648
+    },
+    {
+      "id": "IX",
+      "title": "Memoria, Genealogía y Trazabilidad / Memory, Genealogy and Traceability",
+      "path": "manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md",
+      "es": 549,
+      "en": 1152,
+      "ratio": 2.098
+    },
+    {
+      "id": "XXVIII",
+      "title": "Los Tesla™ / The Teslas™",
+      "path": "manifiestos/28_los_tesla_ES_EN.md",
+      "es": 913,
+      "en": 1521,
+      "ratio": 1.666
+    },
+    {
+      "id": "XXIX",
+      "title": "Contra la Idolatría del Dinero™ / Against the Idolatry of Money™",
+      "path": "manifiestos/29_idolatria_del_dinero_ES_EN.md",
+      "es": 1028,
+      "en": 1470,
+      "ratio": 1.43
+    },
+    {
+      "id": "XXXI",
+      "title": "Contra el Neuromarketing Antihumanista™ / Against Anti-Humanist Neuromarketing™",
+      "path": "manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md",
+      "es": 1120,
+      "en": 1613,
+      "ratio": 1.44
+    }
+  ],
+  "neoaxioms": [
+    {
+      "id": "NAX-01",
+      "es": 96,
+      "en": 83,
+      "ratio": 0.865
+    },
+    {
+      "id": "NAX-02",
+      "es": 101,
+      "en": 96,
+      "ratio": 0.95
+    },
+    {
+      "id": "NAX-03",
+      "es": 83,
+      "en": 74,
+      "ratio": 0.892
+    },
+    {
+      "id": "NAX-04",
+      "es": 120,
+      "en": 121,
+      "ratio": 1.008
+    },
+    {
+      "id": "NAX-05",
+      "es": 88,
+      "en": 84,
+      "ratio": 0.955
+    },
+    {
+      "id": "NAX-06",
+      "es": 100,
+      "en": 97,
+      "ratio": 0.97
+    },
+    {
+      "id": "NAX-07",
+      "es": 110,
+      "en": 110,
+      "ratio": 1.0
+    },
+    {
+      "id": "NAX-08",
+      "es": 97,
+      "en": 95,
+      "ratio": 0.979
+    },
+    {
+      "id": "NAX-09",
+      "es": 116,
+      "en": 102,
+      "ratio": 0.879
+    },
+    {
+      "id": "NAX-10",
+      "es": 115,
+      "en": 110,
+      "ratio": 0.957
+    },
+    {
+      "id": "NAX-11",
+      "es": 93,
+      "en": 83,
+      "ratio": 0.892
+    },
+    {
+      "id": "NAX-12",
+      "es": 265,
+      "en": 257,
+      "ratio": 0.97
+    },
+    {
+      "id": "NAX-13",
+      "es": 217,
+      "en": 203,
+      "ratio": 0.935
+    },
+    {
+      "id": "NAX-14",
+      "es": 581,
+      "en": 266,
+      "ratio": 0.458
+    }
+  ],
+  "nax_flags": [
+    {
+      "id": "NAX-14",
+      "es": 581,
+      "en": 266,
+      "ratio": 0.458
+    }
+  ]
+}
