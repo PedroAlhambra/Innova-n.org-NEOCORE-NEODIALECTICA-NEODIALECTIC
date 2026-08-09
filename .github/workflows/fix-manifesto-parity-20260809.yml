@@ -1,0 +1,44 @@
+name: fix-manifesto-parity-20260809
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/scripts/fix_manifesto_parity_40_41_52_56.py'
+      - '.github/workflows/fix-manifesto-parity-20260809.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: neocore-document-sync-main
+  cancel-in-progress: false
+
+jobs:
+  fix-parity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Apply manifesto parity corrections
+        run: python .github/scripts/fix_manifesto_parity_40_41_52_56.py
+      - name: Commit corrections
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md \
+                  manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md \
+                  manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md \
+                  manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md \
+                  manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md \
+                  manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md \
+                  manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md
+          if git diff --cached --quiet; then
+            echo 'No parity changes needed.'
+            exit 0
+          fi
+          git commit -m 'fix: completar paridad ES EN en manifiestos XL XLI LII-LVI'
+          git pull --rebase origin main
+          git push origin main
