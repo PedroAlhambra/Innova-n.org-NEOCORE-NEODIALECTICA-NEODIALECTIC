@@ -7,7 +7,7 @@
 
 - Archivos Markdown revisados: **217**.
 - README/LEEME revisados: **15**.
-- Enlaces internos de ruta comprobados: **4954**.
+- Enlaces internos de ruta comprobados: **4959**.
 - Alias internos de GitHub Wiki reconocidos: **11**.
 - Enlaces externos inventariados sin comprobar disponibilidad remota: **995**.
 - Enlaces sólo a ancla detectados: **230**.
@@ -37,7 +37,7 @@
 
 - Markdown files reviewed: **217**.
 - README/LEEME files reviewed: **15**.
-- Internal path links checked: **4954**.
+- Internal path links checked: **4959**.
 - GitHub Wiki extensionless page aliases recognised: **11**.
 - Broken internal links found: **0**.
 - Canonical critical failures: **3**.
