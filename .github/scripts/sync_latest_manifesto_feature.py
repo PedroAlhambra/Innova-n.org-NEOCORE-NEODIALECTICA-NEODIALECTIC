@@ -4,13 +4,14 @@ import re
 import sys
 
 root = Path('.').resolve()
-latest = root / 'manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md'
+latest = root / 'manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md'
 index = root / 'manifiestos/README.md'
 protocol = root / 'propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md'
 synth_index = root / 'propuestas/sintesis-abierta/README.md'
-issue64 = 'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/64'
+audits = root / 'auditorias/publicas/README.md'
+issue69 = 'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69'
 
-for p in (latest, index, protocol, synth_index):
+for p in (latest, index, protocol, synth_index, audits):
     if not p.exists():
         raise SystemExit(f'Missing canonical target: {p.relative_to(root)}')
 
@@ -27,13 +28,13 @@ def block(f: Path) -> str:
 
 > ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LII · Ciudadanía Humana Neodialéctica™ · de la sangre y el suelo a la pertenencia cívica funcional**  
-> **LII · Neodialectical Human Citizenship™ · from blood and soil to functional civic belonging**
+> **LIII · Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas**  
+> **LIII · Leónidas™ · Defender of Synthesis, Open Audit and the Right to Bring Problems**
 >
-> La propuesta está **abierta a crítica, objeciones, contraejemplos, fuentes, correcciones y propuestas de mejora**. No se pide adhesión: se pide contraste. / The proposal is **open to criticism, objections, counterexamples, sources, corrections and improvement proposals**. Endorsement is not required: scrutiny is.
+> Leónidas™ abre la puerta para aportar pruebas a auditorías existentes o proponer nuevos problemas y auditorías externas bajo trazabilidad, contradicción y separación entre hechos e hipótesis. / Leónidas™ opens the gate for evidence contributions to existing audits or new external problems and audits under traceability, contradiction and separation between facts and hypotheses.
 >
-> **[Leer manifiesto LII / Read manifesto LII]({rel(f, latest)}) · [Participar en la Síntesis Abierta LII · Issue #64 / Join Open Synthesis LII · Issue #64]({issue64})**  
-> [Cómo aportar / How to contribute]({rel(f, protocol)}) · [Índice de Síntesis Abierta / Open Synthesis index]({rel(f, synth_index)}) · [52 manifiestos I–LII / 52 manifestos I–LII]({rel(f, index)})
+> **[Leer manifiesto LIII / Read manifesto LIII]({rel(f, latest)}) · [Participar en la Síntesis Abierta LIII · Issue #69 / Join Open Synthesis LIII · Issue #69]({issue69})**  
+> [Cómo aportar / How to contribute]({rel(f, protocol)}) · [Índice de Síntesis Abierta / Open Synthesis index]({rel(f, synth_index)}) · [Auditorías públicas / Public audits]({rel(f, audits)}) · [53 manifiestos I–LIII / 53 manifestos I–LIII]({rel(f, index)})
 
 {END}'''
 
@@ -76,8 +77,8 @@ for f in readmes:
         continue
     m = re.search(re.escape(START) + r'(.*?)' + re.escape(END), text, re.S)
     blk = m.group(1)
-    if 'Issue #64' not in blk or latest.name not in blk:
-        fail.append(f'{f.relative_to(root)}: LII/Issue #64 feature incomplete')
+    if 'Issue #69' not in blk or latest.name not in blk:
+        fail.append(f'{f.relative_to(root)}: LIII/Issue #69 feature incomplete')
     for href in link_re.findall(blk):
         h = href.split('#', 1)[0].strip()
         if not h or re.match(r'^[A-Za-z][A-Za-z0-9+.-]*:', h):
@@ -98,7 +99,7 @@ else:
         if p not in seen:
             seen.add(p)
             unique.append((roman, p))
-    if len(unique) != 52 or unique[0][0] != 'I' or unique[-1][0] != 'LII':
+    if len(unique) != 53 or unique[0][0] != 'I' or unique[-1][0] != 'LIII':
         fail.append(f'manifiestos/README.md: canonical sequence invalid ({len(unique)} items)')
     for roman, p in unique:
         if not p.exists():
@@ -113,4 +114,4 @@ if fail:
     for x in fail:
         print(x)
     sys.exit(1)
-print('POSTCHECK OK: latest LII + Open Synthesis #64 featured near top of every README/LEEME; canonical I-LII network intact')
+print('POSTCHECK OK: latest LIII + Open Synthesis #69 featured near top of every README/LEEME; canonical I-LIII network intact')
