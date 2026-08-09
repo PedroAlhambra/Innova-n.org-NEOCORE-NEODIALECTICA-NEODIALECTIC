@@ -2,7 +2,7 @@
 ## Neodialectical Open Synthesis™
 
 **Estado / Status:** **Síntesis iniciada / Synthesis Initiated · 2026-08-09**  
-**Cobertura en este commit / Coverage at this commit:** **59 manifiestos · I–LIX / 59 manifestos · I–LIX**
+**Cobertura en este commit / Coverage at this commit:** **60 manifiestos · I–LX / 60 manifestos · I–LX**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -54,10 +54,9 @@ Cada Neoaxioma dispone de un espacio de contraste propio además de la matriz ge
 <!-- NEOAXIOM_SYNTHESIS_INDEX_END -->
 > ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LIX · Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana**  
-> **LIX · Distributed Cognitive Custodianship™ · AI, Repair and Human Responsibility**
+> **LX · Relevancia Humana Necesaria™ · Inteligencia Distribuida, Aporte y Anti-Captura Social / Necessary Human Relevance™ · Distributed Intelligence, Contribution and Anti-Capture**
 >
-> **[Leer LIX / Read LIX](../../manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md) · [Síntesis Abierta LIX · #79 / Open Synthesis LIX · #79](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/79)**  
+> **[Leer LX / Read LX](../../manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md) · [Síntesis Abierta LX · #99 / Open Synthesis LX · #99](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/99)**  
 > [Cómo aportar / How to contribute](APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™](LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas / Public audits](../../auditorias/publicas/README.md) · [Índice de manifiestos / Manifesto index](../../manifiestos/README.md)
 
 > El número de manifiestos no constituye un cierre de canon: registra el estado del corpus en este commit. / The manifesto count is not a closed canon: it records the corpus state at this commit.
@@ -98,7 +97,7 @@ COMMIT = FIJACIÓN Y DELTA CANÓNICO / CANONICAL FIXATION AND DELTA
 
 # ES · Castellano
 
-## Índice canónico · I–LIX
+## Índice canónico · I–LX
 
 | Nº | Manifiesto | Síntesis Abierta |
 |---:|---|---|
