@@ -1,3 +1,4 @@
+# trigger: 2026-08-09T22:48+02:00
 name: sync-lx-final
 
 on:
@@ -16,18 +17,14 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Synchronize Open Synthesis network
-        run: python .github/scripts/sync_open_synthesis_manifestos.py
-      - name: Normalize canonical indices
-        run: python .github/scripts/normalize_manifesto_indices.py
-      - name: Synchronize root navigation
-        run: python .github/scripts/sync_root_navigation.py
-      - name: Commit synchronized I-LX network
+      - name: Synchronize LX latest surfaces
+        run: python .github/scripts/sync_lx_latest_blocks.py
+      - name: Commit synchronized I-LX surfaces
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add README.md LEEME.md manifiestos/README.md propuestas/sintesis-abierta/README.md manifiestos/*.md analisis/README.md analisis/auditorias/README.md analisis/publicos/README.md analisis/publicos/evidencias/README.md auditorias/publicas/README.md obras/README.md obras/idea/README.md obras/idea/assets/README.md proyeccion/README.md wiki-source/README.md
+          git add README.md LEEME.md propuestas/sintesis-abierta/README.md analisis/README.md analisis/auditorias/README.md analisis/publicos/README.md analisis/publicos/evidencias/README.md auditorias/publicas/README.md obras/README.md obras/idea/README.md obras/idea/assets/README.md proyeccion/README.md wiki-source/README.md
           if git diff --cached --quiet; then exit 0; fi
-          git commit -m 'docs: sincronizar navegación y Síntesis Abierta I-LX'
+          git commit -m 'docs: sincronizar superficies LX y Síntesis #99'
           git pull --rebase origin main
           git push origin main
