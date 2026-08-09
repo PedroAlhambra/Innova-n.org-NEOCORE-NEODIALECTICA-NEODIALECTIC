@@ -1,4 +1,3 @@
-# temporary integration runner: 2026-08-09T22:39+02:00
 name: audit-markdown-readmes-links
 
 on:
@@ -17,7 +16,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: nax10-lx-integration-final
+  group: neocore-document-sync-main
   cancel-in-progress: false
 
 jobs:
@@ -27,19 +26,14 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Fix single-table SAN compatibility
-        run: python .github/scripts/fix_apply_wave_syn_index.py
-      - name: Apply additive NAX-10 / LX integration
-        run: python .github/scripts/apply_wave_human_relevance_symbols.py
-      - name: Patch postcheck for I-LX
-        run: python .github/scripts/patch_postcheck_for_lx.py
-      - name: Commit integration
+      - name: Audit Markdown, README, indices and repository-local links
+        run: python .github/scripts/audit_markdown_links_readmes.py
+      - name: Commit audit report if needed
         run: |
-          set -euo pipefail
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -A
+          git add auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md
           if git diff --cached --quiet; then exit 0; fi
-          git commit -m 'docs: integrar NAX-10 León, Bandera de Síntesis y LX'
+          git commit -m 'audit: postcheck README indices and links'
           git pull --rebase origin main
           git push origin main
