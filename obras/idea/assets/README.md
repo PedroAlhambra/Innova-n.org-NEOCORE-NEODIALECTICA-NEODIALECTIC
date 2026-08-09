@@ -12,10 +12,10 @@
 > **LV · Ataque de las Micromáquinas™ · Las Plagas de la Escala Invisible**  
 > **LV · Attack of the Micromachines™ · The Plagues of the Invisible Scale**
 >
-> El marco separa microagentes reales, micro/nanorrobótica experimental y la hipótesis mucho más fuerte de un ataque intencional. Propone defensa antes de escala: detección, apagado, degradación, retirada, trazabilidad y responsabilidad. / The framework separates real micro-agents, experimental micro/nanorobotics and the much stronger hypothesis of intentional attack. It proposes defence before scale: detection, shutdown, degradation, removal, traceability and accountability.
+> Se separan microagentes reales, micro/nanorrobótica experimental y la hipótesis mucho más fuerte de un ataque intencional. / Real micro-agents, experimental micro/nanorobotics and the much stronger hypothesis of intentional attack remain distinct.
 >
-> **[Leer LV / Read LV](../../../manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md) · [Síntesis Abierta LV · #74 / Open Synthesis LV · #74](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/74)**  
-> [Cómo aportar](../../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™ · auditorías externas](../../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas](../../../auditorias/publicas/README.md) · [55 manifiestos I–LV](../../../manifiestos/README.md)
+> **[Leer LV / Read LV](../../../manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md) · [Síntesis Abierta LV · Issue #74 / Open Synthesis LV · Issue #74](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/74)**  
+> [Cómo aportar / How to contribute](../../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Índice de Síntesis Abierta / Open Synthesis index](../../../propuestas/sintesis-abierta/README.md) · [Auditorías públicas / Public audits](../../../auditorias/publicas/README.md) · [55 manifiestos I–LV / 55 manifestos I–LV](../../../manifiestos/README.md)
 
 <!-- NEO_LATEST_MANIFESTO_END -->
 <!-- MANIFESTOS_CURRENT_START -->
