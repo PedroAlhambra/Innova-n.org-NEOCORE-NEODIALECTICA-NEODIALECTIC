@@ -1,5 +1,5 @@
 # Trigger técnico temporal
 
-Activa la integración aditiva NAX-10 / LX mediante la sincronización canónica. Este archivo se elimina tras el postcheck.
+Activa la sincronización canónica tras la integración NAX-10 / LX. Este archivo se elimina tras el postcheck.
 
-Tercera pasada: validación SAN canónica corregida.
+Sincronización final de navegación, README y Síntesis Abierta I–LX.
