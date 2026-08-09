@@ -1,10 +1,11 @@
+# trigger: 2026-08-09T20:49:00+02:00
 name: One-shot · NEOCore 7.1 + Neoaxiomas en todos los README
 
 on:
   push:
     branches: [main]
     paths:
-      - '.github/triggers/neocore-71-readmes.trigger'
+      - '.github/workflows/oneshot-neoaxiomas-readmes.yml'
 
 permissions:
   contents: write
@@ -38,10 +39,11 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 <!-- NEOAXIOMAS_GLOBAL_LINK_END -->'''
 
-          targets = {p for p in Path('.').rglob('README*.md') if '.git' not in p.parts}
+          targets = set(Path('.').rglob('README.md')) | set(Path('.').rglob('README_*.md'))
           leeme = Path('LEEME.md')
           if leeme.exists():
               targets.add(leeme)
+          targets = {p for p in targets if p.exists() and '.git' not in p.parts}
 
           changed = []
           for p in sorted(targets):
