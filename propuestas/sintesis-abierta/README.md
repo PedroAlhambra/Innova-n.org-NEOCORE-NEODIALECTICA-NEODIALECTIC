@@ -1,60 +1,48 @@
 # Síntesis Abierta Neodialéctica™
 ## Neodialectical Open Synthesis™
 
-**Estado / Status:** 2026-08-09  
-**Cobertura canónica / Canonical coverage:** **56 manifiestos · I–LVI / 56 manifestos · I–LVI**
+**Estado / Status:** **Síntesis iniciada / Synthesis Initiated · 2026-08-09**  
+**Cobertura en este commit / Coverage at this commit:** **59 manifiestos · I–LIX / 59 manifestos · I–LIX**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
-<!-- NEO_LATEST_MANIFESTO_START -->
-
 > ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LVI · NO-CONTROL™ · Síntesis Previa a la Potencia**  
-> **LVI · NO-CONTROL™ · Synthesis Before Power**
+> **LIX · Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana**  
+> **LIX · Distributed Cognitive Custodianship™ · AI, Repair and Human Responsibility**
 >
-> Distingue perturbación funcional de ataque intencional y riesgo de doble uso de acusación. La potencia tecnológica no debe crecer por delante de la capacidad colectiva de comprenderla, limitarla, auditarla y detenerla. / It separates functional disruption from intentional attack and dual-use risk from accusation. Technological power should not outrun the collective capacity to understand, limit, audit and stop it.
->
-> **[Leer LVI / Read LVI](../../manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md) · [Síntesis Abierta LVI · #76 / Open Synthesis LVI · #76](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/76)**  
-> [Cómo aportar](APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™ · auditorías externas](LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas](../../auditorias/publicas/README.md) · [56 manifiestos I–LVI](../../manifiestos/README.md)
+> **[Leer LIX / Read LIX](../../manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md) · [Síntesis Abierta LIX · #79 / Open Synthesis LIX · #79](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/79)**  
+> [Cómo aportar / How to contribute](APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™](LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas / Public audits](../../auditorias/publicas/README.md) · [Índice de manifiestos / Manifesto index](../../manifiestos/README.md)
 
-<!-- NEO_LATEST_MANIFESTO_END -->
+> El número de manifiestos no constituye un cierre de canon: registra el estado del corpus en este commit. / The manifesto count is not a closed canon: it records the corpus state at this commit.
 
-<!-- MANIFESTOS_CURRENT_START -->
+## Tres puertas públicas de participación / Three public participation routes
 
-**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LVI · 56 manifiestos bilingües / 56 bilingual manifestos** · [índice canónico / canonical index](../../manifiestos/README.md)
+### 1. Contrastar un manifiesto / Challenge a manifesto
 
-<!-- MANIFESTOS_CURRENT_END -->
+Aporta crítica, objeción, contraejemplo, fuente, experiencia, implementación, corrección o delta en su Issue asociado. / Contribute criticism, objection, counterexample, source, experience, implementation, correction or delta in its associated Issue.
 
-## Tres puertas públicas de participación
+### 2. Traer un problema o Auditoría Pública / Bring a problem or Public Audit
 
-### 1. Contrastar un manifiesto
+[LIII · Leónidas™](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) abre problemas externos y auditorías propuestas por terceros. / opens external problems and audits proposed by third parties.
 
-Aporta crítica, objeción, contraejemplo, fuente, experiencia, implementación, corrección o delta en su Issue asociado.
+[Protocolo Leónidas™](./LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Portal de Auditorías Públicas](../../auditorias/publicas/README.md) · [Plantilla de auditoría](../../.github/ISSUE_TEMPLATE/auditoria_publica_aporte.yml)
 
-### 2. Traer un problema o Auditoría Pública
+### 3. Crear ficción abierta / Create open fiction
 
-[LIII · Leónidas™](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) abre formalmente problemas externos y auditorías propuestas por terceros.
-
-- [Protocolo Leónidas™](./LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)
-- [Portal de Auditorías Públicas](../../auditorias/publicas/README.md)
-- [Plantilla de auditoría](../../.github/ISSUE_TEMPLATE/auditoria_publica_aporte.yml)
-
-### 3. Crear ficción abierta
-
-La primera línea narrativa abierta es **[UMBRAL-X · Apocalipsis de las IAs™ · La Rama Starkdr Perdida](../../obras/umbral-x/README.md)**, con propuestas externas en [Issue #73](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/73). Las aportaciones conservan atribución y no entran en canon sin revisión y commit explícito.
+[UMBRAL-X · Apocalipsis de las IAs™ · La Rama Starkdr Perdida](../../obras/umbral-x/README.md) · [Issue #73](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/73)
 
 ```text
-ISSUE = ENTRADA Y CONTRASTE
-DOCUMENTO = SÍNTESIS / OBRA VERSIONADA
-COMMIT = FIJACIÓN Y DELTA CANÓNICO
+ISSUE = ENTRADA Y CONTRASTE / ENTRY AND CONTRAST
+DOCUMENTO = SÍNTESIS U OBRA VERSIONADA / VERSIONED SYNTHESIS OR WORK
+COMMIT = FIJACIÓN Y DELTA CANÓNICO / CANONICAL FIXATION AND DELTA
 ```
 
 ---
 
 # ES · Castellano
 
-## Índice canónico · I–LVI
+## Índice canónico · I–LIX
 
 | Nº | Manifiesto | Síntesis Abierta |
 |---:|---|---|
@@ -111,9 +99,12 @@ COMMIT = FIJACIÓN Y DELTA CANÓNICO
 | LI | [Síntesis Abierta como Poder Cívico™](../../manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md) | [#59](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/59) |
 | LII | [Ciudadanía Humana Neodialéctica™](../../manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md) | [#64](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/64) |
 | LIII | [Leónidas™ · Síntesis y Auditoría Abierta](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) | [#69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69) |
-| **LIV** | **[Riqueza y Chatarra™](../../manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md)** | **[#72](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/72)** |
-| **LV** | **[Ataque de las Micromáquinas™ · Plagas de la Escala Invisible](../../manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md)** | **[#74](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/74)** |
-| **LVI** | **[NO-CONTROL™ · Síntesis Previa a la Potencia](../../manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md)** | **[#76](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/76)** |
+| LIV | [Riqueza y Chatarra™](../../manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md) | [#72](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/72) |
+| LV | [Ataque de las Micromáquinas™](../../manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md) | [#74](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/74) |
+| LVI | [NO-CONTROL™ · Síntesis Previa a la Potencia](../../manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md) | [#76](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/76) |
+| LVII | [Madre, Refugio y Retorno Consciente™](../../manifiestos/57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md) | [#77](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/77) |
+| LVIII | [Inteligencia Civilizatoria™](../../manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md) | [#78](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/78) |
+| LIX | [Custodia Cognitiva Distribuida™](../../manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md) | [#79](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/79) |
 
 ## Auditorías y síntesis no limitadas a un manifiesto
 
@@ -143,9 +134,9 @@ La popularidad no equivale a prueba. La admisión de una auditoría no valida un
 
 # EN · English
 
-Open Synthesis currently covers **56 bilingual manifestos I–LVI**, Public Audits and the first open-fiction branch.
+Open Synthesis currently covers **59 bilingual manifestos I–LIX**, Public Audits and the first open-fiction branch. This is a live state under **Synthesis Initiated**, not a final corpus count.
 
-There are three primary contribution routes: contrast an existing manifesto; bring evidence or a new Public Audit through Leónidas™; or contribute to open fiction through **UMBRAL-X · AI Apocalypse™ · Issue #73**.
+There are three primary contribution routes: challenge an existing manifesto; bring evidence or a new Public Audit through Leónidas™; or contribute to open fiction through **UMBRAL-X · AI Apocalypse™ · Issue #73**.
 
 Admission creates an examinable contribution. It does not automatically validate an allegation, conclusion or literary canon. Attribution, contradiction and traceability are preserved.
 
