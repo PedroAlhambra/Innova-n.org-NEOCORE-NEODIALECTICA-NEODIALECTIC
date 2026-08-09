@@ -1,3 +1,4 @@
+# trigger: 2026-08-09T21:37+02:00
 name: audit-relations-neocore
 
 on:
@@ -34,6 +35,6 @@ jobs:
             echo 'No audit changes required.'
             exit 0
           fi
-          git commit -m 'audit: barrida relacional manifiestos neoaxiomas publicaciones'
+          git commit -m 'audit: postcheck relacional final I-LIX'
           git pull --rebase origin main
           git push origin main
