@@ -1,0 +1,119 @@
+{
+  "status": "OK",
+  "ok": [
+    {
+      "check": "README/LEEME sin versión 7.0/7.x",
+      "detail": ""
+    },
+    {
+      "check": "README/LEEME declaran NEOCore™ 7.1",
+      "detail": ""
+    },
+    {
+      "check": "README/LEEME tienen un bloque Neoaxiomas",
+      "detail": ""
+    },
+    {
+      "check": "README/LEEME tienen un menú relacional vivo",
+      "detail": ""
+    },
+    {
+      "check": "Corpus canónico I–LIX = 59 manifiestos",
+      "detail": "59 · I–LIX"
+    },
+    {
+      "check": "59/59 manifiestos tienen pie relacional",
+      "detail": ""
+    },
+    {
+      "check": "59/59 manifiestos tienen navegación canónica",
+      "detail": ""
+    },
+    {
+      "check": "NAX-01..14 existen en ES y EN",
+      "detail": ""
+    },
+    {
+      "check": "NAX-01..14 enlazan sus Síntesis específicas #84–#97",
+      "detail": ""
+    },
+    {
+      "check": "Topología NAX no duplica NAX-14",
+      "detail": "1"
+    },
+    {
+      "check": "NAX-12 contiene salvaguarda ISO/regulatoria",
+      "detail": ""
+    },
+    {
+      "check": "Regla no reductiva está fijada en Neoaxiomas",
+      "detail": ""
+    },
+    {
+      "check": "README raíz ES expone Neoaxiomas y mapa relacional",
+      "detail": ""
+    },
+    {
+      "check": "README raíz EN expone Neoaxioms y living relational map",
+      "detail": ""
+    },
+    {
+      "check": "Mapa relacional declara I–LIX / 59",
+      "detail": ""
+    },
+    {
+      "check": "Mapa relacional referencia 59/59 archivos canónicos",
+      "detail": ""
+    },
+    {
+      "check": "Auditoría relacional: 0 manifiestos ausentes",
+      "detail": "[]"
+    },
+    {
+      "check": "Auditoría relacional: 0 enlaces locales rotos",
+      "detail": "0"
+    },
+    {
+      "check": "Auditoría relacional: 0 manifiestos sin publicación entrante",
+      "detail": "0"
+    },
+    {
+      "check": "Auditoría relacional: 14 Neoaxiomas con síntesis específica",
+      "detail": "[]"
+    },
+    {
+      "check": "Auditoría ES/EN: 0 asimetrías fuertes en manifiestos",
+      "detail": "0"
+    },
+    {
+      "check": "Auditoría ES/EN: 0 asimetrías fuertes en Neoaxiomas",
+      "detail": "0"
+    },
+    {
+      "check": "Auditoría histórica: 0 regresiones fuertes",
+      "detail": "0"
+    },
+    {
+      "check": "Sin staging/repair one-shots de esta integración",
+      "detail": ""
+    },
+    {
+      "check": "Informes de auditoría base presentes",
+      "detail": ""
+    }
+  ],
+  "fail": [],
+  "warnings": [
+    {
+      "check": "Densidad documental a revisar sin reescritura automática",
+      "detail": "X, XX, XXIX, LVIII, LIX"
+    },
+    {
+      "check": "Capa ilustrativa",
+      "detail": "Pendiente de incorporar las imágenes cuando estén disponibles; deben añadirse con alt/procedencia sin sustituir texto."
+    }
+  ],
+  "readme_targets": 16,
+  "manifestos": 59,
+  "neoaxioms": 14
+}
