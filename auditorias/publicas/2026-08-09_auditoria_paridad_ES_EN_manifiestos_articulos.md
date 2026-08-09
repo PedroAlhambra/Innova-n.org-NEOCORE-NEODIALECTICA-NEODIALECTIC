@@ -62,7 +62,7 @@
 | `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` | 1817 | 1704 | 0.94 | 19 | 18 | OK |
 | `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` | 1853 | 1548 | 0.84 | 25 | 17 | OK |
 | `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | 2124 | 1687 | 0.79 | 19 | 18 | OK |
-| `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | 1420 | 1397 | 0.98 | 14 | 13 | OK |
+| `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | 1963 | 1900 | 0.97 | 18 | 17 | OK |
 | `manifiestos/37_neofraternidad_ES_EN.md` | 1047 | 1057 | 1.01 | 15 | 15 | OK |
 | `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` | 2457 | 2222 | 0.90 | 29 | 28 | OK |
 | `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` | 1242 | 1068 | 0.86 | 15 | 14 | OK |
@@ -85,7 +85,7 @@
 | `manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md` | 1396 | 1356 | 0.97 | 16 | 16 | OK |
 | `manifiestos/57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md` | 584 | 656 | 1.12 | 10 | 11 | OK |
 | `manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md` | 709 | 770 | 1.09 | 13 | 14 | OK |
-| `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md` | 631 | 722 | 1.14 | 13 | 14 | OK |
+| `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md` | 631 | 730 | 1.16 | 13 | 14 | OK |
 | `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` | 1539 | 1524 | 0.99 | 15 | 16 | OK |
 | `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` | 357 | 355 | 0.99 | 1 | 1 | OK |
 | `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` | 3237 | 3440 | 1.06 | 29 | 30 | OK |
