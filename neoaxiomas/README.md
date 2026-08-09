@@ -2,13 +2,26 @@
 ## Neoaxioms™ · Open Axiomatic Layer of NEOCore™
 
 **Estado / Status:** **SÍNTESIS ABIERTA · OPEN SYNTHESIS**  
-**Marco / Framework:** **NEOCore™ 7.x · Filosofía Arquetípica Neodialéctica™**  
+**Marco / Framework:** **NEOCore™ 7.1 · Filosofía Arquetípica Neodialéctica™**  
 **Fecha de apertura / Opening date:** **2026-08-09**  
 **Origen humano / Human origin:** **Pedro Martínez Alhambra · Neo0™**  
 **Función / Function:** hacer explícita la capa axiomática evolutiva del marco sin convertirla en dogma cerrado. / to make the framework's evolving axiomatic layer explicit without turning it into closed dogma.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
+
+<!-- NEOAXIOMAS_GLOBAL_LINK_START -->
+
+---
+
+## NEOCore™ 7.1 · Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™
+## NEOCore™ 7.1 · First Fractal Multihead Layer™ + Neoaxiomatic Layer™
+
+Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin convertirse en dogmas cerrados: permanecen abiertos a contraste, evidencia, crítica, refutación y revisión mediante **Síntesis Abierta Neodialéctica™ — SAN™**. / **Neoaxioms™** express high-stability principles of NEOCore™ without becoming closed dogma: they remain open to challenge, evidence, criticism, refutation and revision through **Neodialectical Open Synthesis™ — SAN™**.
+
+**[Síntesis Abierta Neoaxiomas™ / Neoaxioms Open Synthesis](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)** · **[Protocolo / Protocol](../propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md)**
+
+<!-- NEOAXIOMAS_GLOBAL_LINK_END -->
 > **Regla de estado:** un Neoaxioma puede orientar el sistema y quedar fijado documentalmente sin quedar fuera de revisión. La fijación registra genealogía, precedencia y estado; la Síntesis Abierta conserva el derecho de contraste, mejora o reformulación.  
 > **State rule:** a Neoaxiom may orient the system and be documentarily fixed without becoming immune to revision. Fixation records genealogy, precedence and state; Open Synthesis preserves the right to challenge, improve or reformulate it.
 
