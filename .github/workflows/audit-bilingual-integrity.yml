@@ -1,0 +1,32 @@
+name: audit-bilingual-integrity
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/scripts/audit_bilingual_integrity.py'
+      - '.github/workflows/audit-bilingual-integrity.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Audit bilingual integrity without rewriting sources
+        run: python .github/scripts/audit_bilingual_integrity.py
+      - name: Commit audit report
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add auditorias/publicas/2026-08-09_auditoria_integridad_bilingue_no_reductiva_ES_EN.md auditorias/publicas/2026-08-09_auditoria_integridad_bilingue_no_reductiva.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'audit: integridad bilingüe no reductiva del corpus'
+          git pull --rebase origin main
+          git push origin main
