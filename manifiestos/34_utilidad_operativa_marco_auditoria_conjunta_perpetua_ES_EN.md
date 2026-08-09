@@ -741,17 +741,13 @@ Este manifiesto es el nodo de unión entre teoría y expedientes. Los enlaces si
 
 ## Participa en la Síntesis Abierta / Join the Open Synthesis
 
-**Este marco no pide adhesión ciega.** Puedes aportar una crítica, objeción, contraejemplo, fuente, experiencia, verificación, implementación o propuesta de delta. Con **Leónidas™** también puedes aportar pruebas a una Auditoría Pública existente o proponer un problema externo para nueva auditoría trazable.
+**Este marco no pide adhesión ciega.** Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o un delta. Con **Leónidas™** también puedes aportar pruebas a una Auditoría Pública existente o proponer una nueva auditoría trazable.
 
-**Puerta actual:** [LIII · Leónidas™](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Síntesis Abierta LIII · Issue #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)  
-**Cómo aportar:** [Protocolo general](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Protocolo Leónidas™](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
-**Auditorías Públicas:** [portal y pruebas](../auditorias/publicas/README.md) · [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
+**Puerta actual:** [LIII · Leónidas™](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Síntesis Abierta LIII · #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)  
+**Cómo aportar:** [protocolo general](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [protocolo Leónidas™](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
+**Auditorías:** [portal público](../auditorias/publicas/README.md) · [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
 
-**This framework does not ask for blind endorsement.** You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a proposed delta. With **Leónidas™**, you may also contribute evidence to an existing Public Audit or bring an external problem for a new traceable audit.
-
-**Current gate:** [LIII · Leónidas™](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Open Synthesis LIII · Issue #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)  
-**How to contribute:** [general protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™ protocol](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
-**Public Audits:** [portal and evidence](../auditorias/publicas/README.md) · [Open Synthesis index](../propuestas/sintesis-abierta/README.md)
+**This framework does not ask for blind endorsement.** You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta. With **Leónidas™**, you may also contribute evidence to an existing Public Audit or propose a new traceable audit.
 
 <!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->
 
@@ -759,8 +755,8 @@ Este manifiesto es el nodo de unión entre teoría y expedientes. Los enlaces si
 
 ## Navegación canónica / Canonical navigation
 
-← **XXXIII** · [IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™ / IDEA · Civilisational Cornerstone and Rosetta Stone™](33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
-· [Índice I–LIII / I–LIII index](README.md) ·
+← **XXXIII** · [IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™ / IDEA · Civilisational Cornerstone and Rosetta Stone™](33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)  
+· [Índice I–LIII / I–LIII index](README.md) ·  
 **XXXV** · [Contra la Ridiculez Mediática y la Economía del Conflicto™ / Against Media Absurdity and the Conflict Economy™](35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) →
 
 > La navegación canónica mantiene la colección conectada sin convertir ningún manifiesto aislado en equivalente del marco completo. / Canonical navigation keeps the collection connected without treating any single manifesto as equivalent to the complete framework.

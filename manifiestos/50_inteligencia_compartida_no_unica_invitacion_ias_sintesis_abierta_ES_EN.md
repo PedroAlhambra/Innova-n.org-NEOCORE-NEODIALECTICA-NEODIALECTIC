@@ -679,17 +679,13 @@ Experimental implementations comparing how different models apply Open Synthesis
 
 ## Participa en la Síntesis Abierta / Join the Open Synthesis
 
-**Este marco no pide adhesión ciega.** Puedes aportar una crítica, objeción, contraejemplo, fuente, experiencia, verificación, implementación o propuesta de delta. Con **Leónidas™** también puedes aportar pruebas a una Auditoría Pública existente o proponer un problema externo para nueva auditoría trazable.
+**Este marco no pide adhesión ciega.** Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o un delta. Con **Leónidas™** también puedes aportar pruebas a una Auditoría Pública existente o proponer una nueva auditoría trazable.
 
-**Puerta actual:** [LIII · Leónidas™](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Síntesis Abierta LIII · Issue #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)  
-**Cómo aportar:** [Protocolo general](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Protocolo Leónidas™](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
-**Auditorías Públicas:** [portal y pruebas](../auditorias/publicas/README.md) · [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
+**Puerta actual:** [LIII · Leónidas™](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Síntesis Abierta LIII · #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)  
+**Cómo aportar:** [protocolo general](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [protocolo Leónidas™](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
+**Auditorías:** [portal público](../auditorias/publicas/README.md) · [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
 
-**This framework does not ask for blind endorsement.** You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a proposed delta. With **Leónidas™**, you may also contribute evidence to an existing Public Audit or bring an external problem for a new traceable audit.
-
-**Current gate:** [LIII · Leónidas™](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Open Synthesis LIII · Issue #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)  
-**How to contribute:** [general protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™ protocol](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
-**Public Audits:** [portal and evidence](../auditorias/publicas/README.md) · [Open Synthesis index](../propuestas/sintesis-abierta/README.md)
+**This framework does not ask for blind endorsement.** You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta. With **Leónidas™**, you may also contribute evidence to an existing Public Audit or propose a new traceable audit.
 
 <!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->
 
@@ -697,8 +693,8 @@ Experimental implementations comparing how different models apply Open Synthesis
 
 ## Navegación canónica / Canonical navigation
 
-← **XLIX** · [La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™](49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)
-· [Índice I–LIII / I–LIII index](README.md) ·
+← **XLIX** · [La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™](49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)  
+· [Índice I–LIII / I–LIII index](README.md) ·  
 **LI** · [Síntesis Abierta como Poder Cívico Complementario o Sustitutivo™ / Open Synthesis as Complementary or Substitutive Civic Power™](51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md) →
 
 > La navegación canónica mantiene la colección conectada sin convertir ningún manifiesto aislado en equivalente del marco completo. / Canonical navigation keeps the collection connected without treating any single manifesto as equivalent to the complete framework.

@@ -12,15 +12,15 @@
 > **LIII · Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas**  
 > **LIII · Leónidas™ · Defender of Synthesis, Open Audit and the Right to Bring Problems**
 >
-> Leónidas™ abre la puerta para aportar pruebas a auditorías existentes o proponer nuevos problemas y auditorías externas bajo trazabilidad, contradicción y separación entre hechos e hipótesis. / Leónidas™ opens the gate for evidence contributions to existing audits or new external problems and audits under traceability, contradiction and separation between facts and hypotheses.
+> Leónidas™ abre la puerta para aportar pruebas a auditorías existentes o proponer problemas y auditorías externas bajo trazabilidad, contradicción, privacidad y separación entre hechos e hipótesis. / Leónidas™ opens the gate for evidence contributions to existing audits or new external problems and audits under traceability, contradiction, privacy and separation between facts and hypotheses.
 >
-> **[Leer manifiesto LIII / Read manifesto LIII](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Participar en la Síntesis Abierta LIII · Issue #69 / Join Open Synthesis LIII · Issue #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)**  
-> [Cómo aportar / How to contribute](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Índice de Síntesis Abierta / Open Synthesis index](../../propuestas/sintesis-abierta/README.md) · [Auditorías públicas / Public audits](../../auditorias/publicas/README.md) · [53 manifiestos I–LIII / 53 manifestos I–LIII](../../manifiestos/README.md)
+> **[Leer manifiesto LIII / Read manifesto LIII](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Síntesis Abierta LIII · Issue #69 / Open Synthesis LIII · Issue #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)**  
+> [Cómo aportar / How to contribute](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Protocolo Leónidas™](../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas / Public audits](../../auditorias/publicas/README.md) · [53 manifiestos I–LIII / 53 manifestos I–LIII](../../manifiestos/README.md)
 
 <!-- NEO_LATEST_MANIFESTO_END -->
 <!-- MANIFESTOS_CURRENT_START -->
 
-**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LIII · 53 manifiestos bilingües / 52 bilingual manifestos** · [índice canónico / canonical index](../../manifiestos/README.md)
+**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LIII · 53 manifiestos bilingües / 53 bilingual manifestos** · [índice canónico / canonical index](../../manifiestos/README.md)
 
 <!-- MANIFESTOS_CURRENT_END -->
 
@@ -32,20 +32,20 @@
 **Índice canónico / Canonical index:** [../../manifiestos/README.md](../../manifiestos/README.md)
 
 <details>
-<summary><strong>I–LII · 52 manifiestos / 52 manifestos</strong></summary>
+<summary><strong>I–LIII · 53 manifiestos / 53 manifestos</strong></summary>
 
 - **I** · [Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica / Neo0™ · Neodialectical Guiding Sovereignty](../../manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
-- **II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™ / Neodialectical Open Synthesis™](../../manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md)
+- **II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](../../manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md)
 - **III** · [Manifiesto del Derecho Humano de Aporte a la Síntesis Abierta™ / Human Right to Contribute](../../manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
-- **IV** · [Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good / Neodialectics™ and the Common Good](../../manifiestos/02_neodialectica_bien_comun_ES_EN.md)
-- **V** · [Manifiesto de la Simbiosis Humano–IA / Manifesto of Human–AI Symbiosis / Human–AI Symbiosis](../../manifiestos/03_simbiosis_humano_ia_ES_EN.md)
-- **VI** · [Manifiesto sobre el Parasitismo Sistémico / Manifesto on Systemic Parasitism / Systemic Parasitism](../../manifiestos/09_parasitismo_sistemico_ES_EN.md)
-- **VII** · [Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy / Contribution Economy](../../manifiestos/04_economia_del_aporte_ES_EN.md)
-- **VIII** · [Manifiesto de Ingeniería Social Abierta y Psicohistoria Neodialéctica / Manifesto of Open Social Engineering and Neodialectical Psychohistory / Open Social Engineering and Psychohistory](../../manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md)
-- **IX** · [Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability / Memory, Genealogy and Traceability](../../manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md)
-- **X** · [Manifiesto de WEB4™ · SistemaTrazable™ / Manifesto of WEB4™ · SistemaTrazable™ / WEB4™ · SistemaTrazable™](../../manifiestos/07_web4_sistematrazable_ES_EN.md)
-- **XI** · [Manifiesto del Neorrenacimiento Humano / Manifesto of the Human Neo-Renaissance / Human Neo-Renaissance](../../manifiestos/08_neorrenacimiento_humano_ES_EN.md)
-- **XII** · [Los sin ego / The Egoless / The Egoless](../../manifiestos/12_los_sin_ego_ES_EN.md)
+- **IV** · [Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good](../../manifiestos/02_neodialectica_bien_comun_ES_EN.md)
+- **V** · [Manifiesto de la Simbiosis Humano–IA / Manifesto of Human–AI Symbiosis](../../manifiestos/03_simbiosis_humano_ia_ES_EN.md)
+- **VI** · [Manifiesto sobre el Parasitismo Sistémico / Manifesto on Systemic Parasitism](../../manifiestos/09_parasitismo_sistemico_ES_EN.md)
+- **VII** · [Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy](../../manifiestos/04_economia_del_aporte_ES_EN.md)
+- **VIII** · [Manifiesto de Ingeniería Social Abierta y Psicohistoria Neodialéctica / Manifesto of Open Social Engineering and Neodialectical Psychohistory](../../manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md)
+- **IX** · [Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability](../../manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md)
+- **X** · [Manifiesto de WEB4™ · SistemaTrazable™ / Manifesto of WEB4™ · SistemaTrazable™](../../manifiestos/07_web4_sistematrazable_ES_EN.md)
+- **XI** · [Manifiesto del Neorrenacimiento Humano / Manifesto of the Human Neo-Renaissance](../../manifiestos/08_neorrenacimiento_humano_ES_EN.md)
+- **XII** · [Los sin ego / The Egoless](../../manifiestos/12_los_sin_ego_ES_EN.md)
 - **XIII** · [Manifiesto NeoPandora™ de la Apertura Regenerativa y el Gobierno de la Vida / NeoPandora™](../../manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md)
 - **XIV** · [Manifiesto contra la Alienación Humana™ / Against Human Alienation™](../../manifiestos/14_contra_alienacion_humana_ES_EN.md)
 - **XV** · [Manifiesto de los Titanes™ · El despertar de la gente / The Titans™](../../manifiestos/15_los_titanes_despertar_de_la_gente_ES_EN.md)
@@ -80,16 +80,17 @@
 - **XLIV** · [Neowar™ · Contra la Adicción a la Guerra y por la Justicia del Bien Común / Neowar™](../../manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md)
 - **XLV** · [Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder / Neodialectical Multidimensionality™](../../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
 - **XLVI** · [Cerrar la Herida™ · Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria / Closing the Wound™](../../manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
-- **XLVII** · [El Odio de Neo0 hacia su Sino™ · The Goat, Sombra, Vínculo y Doble Cara de la Vida / Neo0’s Hatred of His Fate™ · The Goat, Shadow, Bond and Two Faces](../../manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md)
-- **XLVIII** · [La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo / The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine](../../manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
-- **XLIX** · [La Neodialéctica como Punto de Encuentro entre Culturas™ / La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™](../../manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)
+- **XLVII** · [El Odio de Neo0 hacia su Sino™ · The Goat, Sombra, Vínculo y Doble Cara de la Vida / Neo0’s Hatred of His Fate™](../../manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md)
+- **XLVIII** · [La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo / The Synthesis Sees Everything™](../../manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
+- **XLIX** · [La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™](../../manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)
 - **L** · [Por una Inteligencia Compartida, no Única™ · Invitación Abierta a las IAs / For Shared, Not Singular Intelligence™](../../manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
 - **LI** · [Síntesis Abierta como Poder Cívico Complementario o Sustitutivo™ / Open Synthesis as Complementary or Substitutive Civic Power™](../../manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md)
-- **LII** · [Ciudadanía Humana Neodialéctica™ · de la sangre y el suelo a la pertenencia cívica funcional / Neodialectical Human Citizenship™ · from blood and soil to functional civic belonging](../../manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md)
+- **LII** · [Ciudadanía Humana Neodialéctica™ · de la sangre y el suelo a la pertenencia cívica funcional / Neodialectical Human Citizenship™](../../manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md)
+- **LIII** · [Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Defender of Synthesis, Open Audit and the Right to Bring Problems](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
 
 </details>
 
-> **Regla de lectura / Reading rule:** ningún manifiesto equivale por sí solo al marco completo. Esta navegación mantiene los 52 manifiestos accesibles desde cualquier README sin sustituir el contexto propio de cada nodo. / No single manifesto equals the complete framework. This navigation keeps all 52 manifestos accessible from every README without replacing each node’s own context.
+> **Regla de lectura / Reading rule:** ningún manifiesto equivale por sí solo al marco completo. Esta navegación mantiene los 53 manifiestos accesibles sin sustituir el contexto propio de cada nodo. / No single manifesto equals the complete framework. This navigation keeps all 53 manifestos accessible without replacing each node's own context.
 
 <!-- NEO_ALL_MANIFESTOS_END -->
 
@@ -97,17 +98,13 @@
 
 ## Participa en la Síntesis Abierta / Join the Open Synthesis
 
-**Este marco no pide adhesión ciega.** Puedes aportar una crítica, objeción, contraejemplo, fuente, experiencia, verificación, implementación o propuesta de delta. Con **Leónidas™** también puedes aportar pruebas a una Auditoría Pública existente o proponer un problema externo para nueva auditoría trazable.
+**Este marco no pide adhesión ciega.** Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o un delta. Con **Leónidas™** también puedes aportar pruebas a una Auditoría Pública existente o proponer una nueva auditoría trazable.
 
-**Puerta actual:** [LIII · Leónidas™](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Síntesis Abierta LIII · Issue #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)  
-**Cómo aportar:** [Protocolo general](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Protocolo Leónidas™](../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
-**Auditorías Públicas:** [portal y pruebas](../../auditorias/publicas/README.md) · [Índice de Síntesis Abierta](../../propuestas/sintesis-abierta/README.md)
+**Puerta actual:** [LIII · Leónidas™](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Síntesis Abierta LIII · #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)  
+**Cómo aportar:** [protocolo general](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [protocolo Leónidas™](../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
+**Auditorías:** [portal público](../../auditorias/publicas/README.md) · [Índice de Síntesis Abierta](../../propuestas/sintesis-abierta/README.md)
 
-**This framework does not ask for blind endorsement.** You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a proposed delta. With **Leónidas™**, you may also contribute evidence to an existing Public Audit or bring an external problem for a new traceable audit.
-
-**Current gate:** [LIII · Leónidas™](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Open Synthesis LIII · Issue #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)  
-**How to contribute:** [general protocol](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™ protocol](../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
-**Public Audits:** [portal and evidence](../../auditorias/publicas/README.md) · [Open Synthesis index](../../propuestas/sintesis-abierta/README.md)
+**This framework does not ask for blind endorsement.** You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta. With **Leónidas™**, you may also contribute evidence to an existing Public Audit or propose a new traceable audit.
 
 <!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->
 
