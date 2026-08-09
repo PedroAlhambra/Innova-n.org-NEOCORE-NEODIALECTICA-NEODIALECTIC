@@ -1,0 +1,51 @@
+name: apply-wave-human-relevance-symbols
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/scripts/apply_wave_human_relevance_symbols.py'
+      - '.github/workflows/apply-wave-human-relevance-symbols.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: neocore-wave-human-relevance-symbols
+  cancel-in-progress: false
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Apply additive symbolic and human-relevance integration
+        run: python .github/scripts/apply_wave_human_relevance_symbols.py
+      - name: Synchronize Open Synthesis network
+        run: python .github/scripts/sync_open_synthesis_manifestos.py
+      - name: Synchronize latest manifesto surfaces
+        run: python .github/scripts/sync_latest_manifesto_feature.py
+      - name: Relational audit
+        run: python .github/scripts/audit_relations_neocore.py
+      - name: Bilingual parity audit
+        run: python .github/scripts/audit_bilingual_parity_simple.py
+      - name: Historical non-reductive audit
+        run: python .github/scripts/audit_manifesto_history_regressions.py
+      - name: Final NEOCore 7.1 postcheck
+        run: python .github/scripts/postcheck_neocore_71_integridad_relacional.py
+      - name: Commit integration and audits
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          if git diff --cached --quiet; then
+            echo 'No changes required.'
+            exit 0
+          fi
+          git commit -m 'docs: ampliar NAX-10, publicar LX y relanzar mapa relacional'
+          git pull --rebase origin main
+          git push origin main
