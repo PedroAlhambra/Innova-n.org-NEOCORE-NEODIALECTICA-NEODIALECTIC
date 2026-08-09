@@ -418,7 +418,7 @@ The proposed canonical extension is:
 
 ## Vínculos / Links
 
-- [XXXIII · IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](../../manifiestos/33_idea_piedra_angular_rosetta_civilizatoria_reset_reemplazo_ES_EN.md)
+- [XXXIII · IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](../../manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
 - [XXXIV · Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™](../../manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
 - [XXXIX · Autoconciencia de la Necesidad Vital Neodialéctica™](../../manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md)
 - [XLII · Fin de la Era del Hombre Manipulado™](../../manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
