@@ -48,6 +48,7 @@ CURRENT_START='<!-- MANIFESTOS_CURRENT_START -->'; CURRENT_END='<!-- MANIFESTOS_
 NETWORK_START='<!-- NEO_ALL_MANIFESTOS_START -->'; NETWORK_END='<!-- NEO_ALL_MANIFESTOS_END -->'
 INVITE_START='<!-- NEO_OPEN_SYNTHESIS_INVITATION_START -->'; INVITE_END='<!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->'
 NAV_START='<!-- NEO_MANIFESTO_NAV_START -->'; NAV_END='<!-- NEO_MANIFESTO_NAV_END -->'
+ENTRY_ROUTE_START='<!-- NEO_ENTRY_REGISTER_ROUTE_START -->'; ENTRY_ROUTE_END='<!-- NEO_ENTRY_REGISTER_ROUTE_END -->'
 
 def rel(frm,target):
     return os.path.relpath(target,start=frm.parent).replace(os.sep,'/')
@@ -102,6 +103,18 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 {INVITE_END}'''
 
+def entry_route_block(f):
+    form='https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/new?template=registro_entrada_derivacion.yml'
+    return f'''{ENTRY_ROUTE_START}
+
+### 1. Registrar entrada / Register entry
+
+La lectura pública no exige identificación. Si quieres dejar una relación trazable de lectura, investigación, crítica, implementación, contacto institucional o derivación, utiliza el **Registro de Entrada Trazable™**. / Public reading does not require identification. If you want a traceable relationship for reading, research, criticism, implementation, institutional contact or derivation, use the **Traceable Entry Register™**.
+
+[Protocolo / Protocol]({rel(f,entry_register)}) · [Abrir registro / Open register]({form}) · [Seguir el marco / Follow the framework]({rel(f,follow)})
+
+{ENTRY_ROUTE_END}'''
+
 def nav_block(i,f):
     prev=links[i-1] if i else None
     nxt=links[i+1] if i+1<len(links) else None
@@ -128,6 +141,31 @@ for f in readmes:
         s=replace_block(s,NETWORK_START,NETWORK_END,compact_network_block(f))
     if INVITE_START in s and INVITE_END in s:
         s=replace_block(s,INVITE_START,INVITE_END,invite_block(f))
+
+    # Keep the root entry map compact but make the traceable doorway explicit.
+    if f.resolve()==(root/'README.md').resolve():
+        s=re.sub(
+            r'^\| \*\*Síntesis Abierta™\*\* \|.*$',
+            '| **Síntesis Abierta™** | [Índice operativo](./propuestas/sintesis-abierta/README.md) · [Cómo aportar](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Registrar entrada](./propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Seguir marco](./proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) |',
+            s,flags=re.M)
+        s=re.sub(
+            r'^\| \*\*Open Synthesis™\*\* \|.*$',
+            '| **Open Synthesis™** | [Operational index](./propuestas/sintesis-abierta/README.md) · [How to contribute](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Register entry](./propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Follow framework](./proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) |',
+            s,flags=re.M)
+
+    # Open Synthesis now has four public routes; entry registration is the first doorway.
+    if f.resolve()==synth_index.resolve():
+        s=re.sub(r'## (?:Tres|Cuatro) puertas públicas de participación / (?:Three|Four) public participation routes',
+                 '## Cuatro puertas públicas de participación / Four public participation routes',s)
+        s=re.sub(r'### \d+\. Contrastar un manifiesto / Challenge a manifesto','### 2. Contrastar un manifiesto / Challenge a manifesto',s)
+        s=re.sub(r'### \d+\. Traer un problema o Auditoría Pública / Bring a problem or Public Audit','### 3. Traer un problema o Auditoría Pública / Bring a problem or Public Audit',s)
+        s=re.sub(r'### \d+\. Crear ficción abierta / Create open fiction','### 4. Crear ficción abierta / Create open fiction',s)
+        block=entry_route_block(f)
+        if ENTRY_ROUTE_START in s and ENTRY_ROUTE_END in s:
+            s=replace_block(s,ENTRY_ROUTE_START,ENTRY_ROUTE_END,block)
+        else:
+            heading='## Cuatro puertas públicas de participación / Four public participation routes'
+            s=s.replace(heading,heading+'\n\n'+block,1)
 
     # Remove stale hard-coded corpus references left outside managed blocks.
     s=re.sub(r'Índice navegable de manifiestos I–[IVXLCDM]+',f'Índice navegable de manifiestos I–{roman}',s)
@@ -160,6 +198,10 @@ for p in (root/'README.md', index, synth_index):
         fail.append(f'{p.relative_to(root)} stale count')
 if LATEST.name not in (root/'README.md').read_text(encoding='utf-8'):
     fail.append('README.md stale latest manifesto')
+if 'REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md' not in (root/'README.md').read_text(encoding='utf-8'):
+    fail.append('README.md missing entry register')
+if ENTRY_ROUTE_START not in synth_index.read_text(encoding='utf-8'):
+    fail.append('Open Synthesis index missing entry-register route')
 
 print(f'CANONICAL_MANIFESTOS={count}')
 print(f'LATEST={roman} ISSUE=#{issue_num}')
