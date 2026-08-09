@@ -1,0 +1,106 @@
+name: Registro de Entrada Trazable · lectura, seguimiento o derivación
+description: Registra voluntariamente tu entrada, seguimiento, investigación, crítica, implementación o derivación del marco.
+title: "Registro de entrada · "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Este formulario crea un registro público y trazable. No implica adhesión al marco ni convierte una aportación en canon. No publiques credenciales, documentos confidenciales ni datos personales innecesarios.
+
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo de entrada
+      options:
+        - Lectura / seguimiento
+        - Crítica o contraste
+        - Investigación
+        - Implementación técnica
+        - Adaptación / derivación
+        - Traducción / difusión
+        - Contacto institucional
+        - Otro
+    validations:
+      required: true
+
+  - type: input
+    id: objeto
+    attributes:
+      label: Objeto consultado
+      description: Enlace o nombre del manifiesto, IDEA, análisis, auditoría, protocolo o parte del marco.
+      placeholder: https://github.com/...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: origen
+    attributes:
+      label: Cómo llegaste a este nodo
+      options:
+        - Búsqueda propia
+        - Repositorio / GitHub
+        - Enlace recibido por correo de Innova_N
+        - Enlace compartido por un tercero
+        - Red social / publicación
+        - Amazon / IDEA
+        - Otro
+    validations:
+      required: true
+
+  - type: textarea
+    id: finalidad
+    attributes:
+      label: Finalidad o interés
+      description: Explica brevemente qué quieres comprender, contrastar, investigar, implementar o seguir.
+    validations:
+      required: true
+
+  - type: input
+    id: institucion
+    attributes:
+      label: Institución, equipo o proyecto (opcional)
+      description: Sólo si deseas hacerlo público.
+
+  - type: textarea
+    id: derivacion
+    attributes:
+      label: Derivación, implementación o reutilización material (si existe)
+      description: Describe qué parte utilizas, adaptas o implementas y qué diferencias introduces. Si no existe, escribe NO APLICA.
+    validations:
+      required: true
+
+  - type: input
+    id: enlace_derivado
+    attributes:
+      label: Enlace al trabajo derivado (opcional)
+      description: Repositorio, artículo, producto, investigación, publicación u otra URL pública.
+
+  - type: textarea
+    id: aporte
+    attributes:
+      label: Aporte, objeción o pregunta inicial (opcional)
+      description: Si ya tienes una crítica, fuente, contraejemplo o pregunta, puedes dejarla aquí. Se podrá redirigir a un Issue específico de Síntesis Abierta.
+
+  - type: textarea
+    id: privacidad
+    attributes:
+      label: Privacidad y límites
+      description: Indica si hay información que no debe reproducirse fuera de este Issue. Recuerda que el Issue en sí es público.
+      placeholder: Sin límites adicionales / No additional limits
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: declaracion
+    attributes:
+      label: Declaraciones
+      options:
+        - label: Entiendo que este registro es público y queda asociado a mi cuenta de GitHub.
+          required: true
+        - label: Entiendo que registrarme no implica adhesión al marco ni aceptación de mis conclusiones.
+          required: true
+        - label: No he incluido deliberadamente credenciales, secretos, datos personales innecesarios ni material confidencial no autorizado.
+          required: true
+        - label: Si declaro una derivación, acepto conservar de forma razonable la genealogía y procedencia de las ideas o mecanismos utilizados mientras se define la política jurídica específica de licencias.
+          required: true
