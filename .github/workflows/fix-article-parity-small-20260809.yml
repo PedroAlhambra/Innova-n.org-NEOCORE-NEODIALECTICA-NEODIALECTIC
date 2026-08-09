@@ -1,0 +1,42 @@
+name: fix-article-parity-small-20260809
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/scripts/fix_article_parity_batch_small_20260809.py'
+      - '.github/workflows/fix-article-parity-small-20260809.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: neocore-document-sync-main
+  cancel-in-progress: false
+
+jobs:
+  fix-parity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Apply article parity corrections
+        run: python .github/scripts/fix_article_parity_batch_small_20260809.py
+      - name: Commit corrections
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add analisis/publicos/2026-08-08_addendum_distrokid_catalogo_album_removed_added_apple_music_ES_EN.md \
+                  analisis/publicos/2026-08-08_distrokid_ticket_4499471_respuesta_no_resolutiva_y_reiteracion_auditoria_ES_EN.md \
+                  analisis/publicos/2026-08-08_delta_poder_incentivos_tokenizacion_y_transicion_neodialectica_ES_EN.md \
+                  analisis/publicos/2026-08-09_guerra_fundador_contra_idiotez_devolucion_tiempo_bien_comun_ES_EN.md \
+                  analisis/publicos/2026-08-09_prueba_operativa_minima_revision_ia_escalable_ES_EN.md
+          if git diff --cached --quiet; then
+            echo 'No parity changes needed.'
+            exit 0
+          fi
+          git commit -m 'fix: completar paridad ES EN en cinco análisis públicos'
+          git pull --rebase origin main
+          git push origin main
