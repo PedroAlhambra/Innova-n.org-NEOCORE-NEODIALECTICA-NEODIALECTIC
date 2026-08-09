@@ -5,6 +5,8 @@
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
+<!-- NEO_LATEST_MANIFESTO_START -->
+
 > ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
 >
 > **LIII · Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas**  
@@ -15,8 +17,16 @@
 > **[Leer LIII / Read LIII](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Síntesis Abierta LIII · Issue #69 / Open Synthesis LIII · Issue #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)**  
 > [Protocolo Leónidas™](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas](../auditorias/publicas/README.md) · [Issues de auditorías](../auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md)
 
+<!-- NEO_LATEST_MANIFESTO_END -->
+
 **Estado canónico / Canonical state:** **53 manifiestos bilingües · I–LIII · 20 oleadas / 53 bilingual manifestos · I–LIII · 20 waves**  
 **Fecha de estado / State date:** 2026-08-09
+
+<!-- MANIFESTOS_CURRENT_START -->
+
+**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LIII · 53 manifiestos bilingües / 53 bilingual manifestos** · [índice canónico / canonical index](README.md)
+
+<!-- MANIFESTOS_CURRENT_END -->
 
 ## Dos puertas principales del marco público / Two primary public entry points
 
@@ -35,7 +45,12 @@ Las auditorías tienen la misma relevancia operativa que los manifiestos: los ma
 - [Registro de Issues de auditoría / Public Audit Issue register](../auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md)
 - [Plantilla GitHub · Auditoría Pública](../.github/ISSUE_TEMPLATE/auditoria_publica_aporte.yml)
 
+<!-- NEO_ALL_MANIFESTOS_START -->
+
 ## Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™
+
+**Estado canónico / Canonical state:** **53 manifiestos bilingües · I–LIII · 20 oleadas / 53 bilingual manifestos · I–LIII · 20 waves**  
+**Índice canónico / Canonical index:** [README.md](README.md)
 
 <details open>
 <summary><strong>I–LIII · 53 manifiestos / 53 manifestos</strong></summary>
@@ -96,6 +111,12 @@ Las auditorías tienen la misma relevancia operativa que los manifiestos: los ma
 
 </details>
 
+> **Regla de lectura / Reading rule:** ningún manifiesto equivale por sí solo al marco completo. La colección actual mantiene 53 manifiestos I–LIII accesibles sin sustituir el contexto de cada nodo. / No single manifesto equals the complete framework. The current collection keeps 53 manifestos I–LIII accessible without replacing each node's context.
+
+<!-- NEO_ALL_MANIFESTOS_END -->
+
+<!-- NEO_OPEN_SYNTHESIS_INVITATION_START -->
+
 ## Participa / Participate
 
 **El marco no pide adhesión ciega.** Puedes aportar una crítica, objeción, contraejemplo, fuente, experiencia, verificación, implementación o delta. También puedes aportar pruebas a una auditoría o proponer una nueva.
@@ -104,3 +125,5 @@ Las auditorías tienen la misma relevancia operativa que los manifiestos: los ma
 - [Cómo aportar](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 - [Leónidas™ · abrir problemas y auditorías](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)
 - [Auditorías públicas](../auditorias/publicas/README.md)
+
+<!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->
