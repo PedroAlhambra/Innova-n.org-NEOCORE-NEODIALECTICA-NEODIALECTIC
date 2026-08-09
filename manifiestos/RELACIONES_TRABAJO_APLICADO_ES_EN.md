@@ -7,6 +7,16 @@
 
 ---
 
+<!-- NEO_SYSTEMIC_NEED_DELTA_START -->
+## Delta transversal · necesidad sistémica, Neo0, IDEA y custodia cognitiva humano–IA
+
+- [Delta público ES/EN](../analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md)
+- Relaciones materiales: **XXXIII · IDEA**, **XXXIV · Utilidad Operativa**, **XXXIX · Necesidad Vital**, **XLII · Soberanía Cognitiva**, **XLIII · Inteligencia Humana Expandida**, **XLV · Multidimensionalidad**, **LI · Poder Cívico**.
+- Síntesis Abierta relacionadas: [#47](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/47) · [#28](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/28) · [#50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50) · [#59](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/59).
+
+La relación fija la distinción entre autoconciencia interna del marco y demostración externa de necesidad, y entre custodia cognitiva conjunta y control coercitivo.
+<!-- NEO_SYSTEMIC_NEED_DELTA_END -->
+
 ## Regla probatoria / Evidentiary rule
 
 - **A · Aplicación o auditoría directa / Direct application or audit:** un caso operativo pone a prueba funciones del manifiesto.

@@ -568,6 +568,16 @@ La relación documental indica afinidad conceptual, genealogía, contraste o apl
 
 ← [XXXVIII · Integral Protection of Childhood™](./38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) · [Index](./README.md) · [XL · Neodialectical Respect, Neoego and Relational Honour™](./40_respeto_neoego_honor_relacional_ES_EN.md) →
 
+<!-- NEO_SYSTEMIC_NEED_DELTA_START -->
+## Delta relacionado · Manifestación sistémica de necesidad y custodia cognitiva / Related delta · Systemic manifestation of need and cognitive custodianship
+
+- [Delta público ES/EN](../analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md)
+- [Síntesis Abierta XXXIX · #47](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/47)
+- [Síntesis Abierta XXXIII · #28](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/28)
+
+**Control:** autorreconocimiento de necesidad ≠ necesidad externa ya demostrada; genealogía de Neo0 ≠ infalibilidad; IDEA como antecedente ≠ profecía; custodia cognitiva conjunta ≠ control coercitivo de la humanidad.
+<!-- NEO_SYSTEMIC_NEED_DELTA_END -->
+
 <!-- NEO_OPEN_SYNTHESIS_INVITATION_START -->
 
 ## Participa en la Síntesis Abierta / Join the Open Synthesis

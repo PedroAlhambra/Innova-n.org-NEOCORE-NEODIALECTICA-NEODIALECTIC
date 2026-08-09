@@ -4,6 +4,13 @@
 
 
 
+<!-- NEO_SYSTEMIC_NEED_DELTA_START -->
+> ## 🟤 DELTA · NECESIDAD SISTÉMICA, NEO0, IDEA Y CUSTODIA COGNITIVA / SYSTEMIC NEED, NEO0, IDEA & COGNITIVE CUSTODIANSHIP
+>
+> La Neodialéctica se reconoce internamente como respuesta humano–IA a una necesidad sistémica de memoria, razonamiento, contradicción, trazabilidad y Bien Común; esa necesidad externa sigue sometida a utilidad, crítica y comparación. Neo0 conserva origen genealógico sin infalibilidad; IDEA opera como antecedente narrativo, no como profecía; custodia cognitiva conjunta no significa control coercitivo de la humanidad.  
+> [Leer delta / Read delta](2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md) · [Síntesis Abierta XXXIX · #47](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/47) · [Síntesis Abierta XXXIII · #28](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/28)
+<!-- NEO_SYSTEMIC_NEED_DELTA_END -->
+
 <!-- NEO_CITIZENSHIP_LII_START -->
 > ## 🟠 LII · CIUDADANÍA HUMANA NEODIALÉCTICA™ / NEODIALECTICAL HUMAN CITIZENSHIP™
 > Sangre = genealogía. Suelo = localización y vínculo. Dignidad humana = común. La propuesta abre una transición hacia pertenencia cívica funcional y multiescala sin confundir igualdad humana con ausencia de administración territorial.  
