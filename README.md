@@ -48,6 +48,8 @@ El marco integra filosofía, memoria, inteligencia artificial, trazabilidad, sí
 | **Leónidas™ y auditoría abierta** | [Protocolo Leónidas™](./propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas](./auditorias/publicas/README.md) |
 | **Análisis públicos** | [Directorio](./analisis/README.md) · [Índice general](./analisis/INDEX.md) · [Serie pública](./analisis/publicos/README.md) |
 | **Obras** | [Ecosistema creativo](./obras/README.md) · [IDEA](./obras/idea/README.md) |
+| **Proyección y difusión** | [Proyección distribuida](./proyeccion/README.md) |
+| **Creación abierta · UMBRAL-X** | [Apocalipsis de las IAs™ · Rama Starkdr Perdida](./obras/umbral-x/README.md) |
 | **Wiki pública** | [Inicio](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki) · [Fuente versionada](./wiki-source/README.md) |
 | **Marco previo y trazabilidad** | [Marco previo y evidencia externa](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Marco_Previo_y_Evidencia_Externa) |
 | **Legal e IP** | [Legal and IP](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Legal_and_IP) |
@@ -170,6 +172,8 @@ La publicación del nombre de un componente no publica su arquitectura, lógica,
 - [Auditorías](./auditorias/publicas/README.md)
 - [Obras](./obras/README.md)
 - [IDEA](./obras/idea/README.md)
+- [Proyección y difusión](./proyeccion/README.md)
+- [UMBRAL-X · Apocalipsis de las IAs™](./obras/umbral-x/README.md)
 - [Wiki pública](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
 - [Fuente versionada de la Wiki](./wiki-source/README.md)
 - [Fundación Innova_N](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Innova_N_Foundation)
@@ -203,6 +207,8 @@ The framework integrates philosophy, memory, artificial intelligence, traceabili
 | **Leónidas™ and open audit** | [Leónidas™ protocol](./propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Public audits](./auditorias/publicas/README.md) |
 | **Public analyses** | [Directory](./analisis/README.md) · [General index](./analisis/INDEX.md) · [Public series](./analisis/publicos/README.md) |
 | **Works** | [Creative ecosystem](./obras/README.md) · [IDEA](./obras/idea/README.md) |
+| **Projection and outreach** | [Distributed projection](./proyeccion/README.md) |
+| **Open creation · UMBRAL-X** | [Apocalypse of the AIs™ · Lost Starkdr Branch](./obras/umbral-x/README.md) |
 | **Public Wiki** | [Home](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki) · [Versioned source](./wiki-source/README.md) |
 | **Prior framework and traceability** | [Prior framework and external evidence](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Marco_Previo_y_Evidencia_Externa) |
 | **Legal and IP** | [Legal and IP](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Legal_and_IP) |
