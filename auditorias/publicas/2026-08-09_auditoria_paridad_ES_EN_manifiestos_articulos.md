@@ -20,7 +20,7 @@
 
 | Archivo | Palabras ES | Palabras EN | Ratio EN/ES | H ES | H EN | Motivo |
 |---|---:|---:|---:|---:|---:|---|
-| `analisis/publicos/2026-08-09_maxproc_registro_entrada_trazabilidad_derivacion_herosion_ES_EN.md` | 755 | 439 | 0.58 | 12 | 12 | EN/ES palabras=0.58 |
+| `analisis/publicos/2026-08-09_maxproc_registro_entrada_trazabilidad_derivacion_herosion_ES_EN.md` | 754 | 444 | 0.59 | 12 | 12 | EN/ES palabras=0.59 |
 
 ## Inventario completo
 
@@ -106,7 +106,7 @@
 | `analisis/publicos/2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md` | 1245 | 1208 | 0.97 | 14 | 14 | OK |
 | `analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md` | 1070 | 1202 | 1.12 | 11 | 12 | OK |
 | `analisis/publicos/2026-08-09_guerra_fundador_contra_idiotez_devolucion_tiempo_bien_comun_ES_EN.md` | 1144 | 1110 | 0.97 | 12 | 12 | OK |
-| `analisis/publicos/2026-08-09_maxproc_registro_entrada_trazabilidad_derivacion_herosion_ES_EN.md` | 755 | 439 | 0.58 | 12 | 12 | REVISAR |
+| `analisis/publicos/2026-08-09_maxproc_registro_entrada_trazabilidad_derivacion_herosion_ES_EN.md` | 754 | 444 | 0.59 | 12 | 12 | REVISAR |
 | `analisis/publicos/2026-08-09_prueba_operativa_minima_revision_ia_escalable_ES_EN.md` | 555 | 541 | 0.97 | 8 | 8 | OK |
 | `analisis/publicos/2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md` | 433 | 482 | 1.11 | 6 | 7 | OK |
 
