@@ -13,7 +13,7 @@
 > **LVI · NO-CONTROL™ · Síntesis Previa a la Potencia**  
 > **LVI · NO-CONTROL™ · Synthesis Before Power**
 >
-> Distingue perturbación funcional de ataque intencional y riesgo de doble uso de acusación. Fija que la potencia tecnológica no debe crecer por delante de la capacidad colectiva de comprenderla, limitarla, auditarla y detenerla. / It separates functional disruption from intentional attack and dual-use risk from accusation. Technological power should not outrun the collective capacity to understand, limit, audit and stop it.
+> Distingue perturbación funcional de ataque intencional y riesgo de doble uso de acusación. La potencia tecnológica no debe crecer por delante de la capacidad colectiva de comprenderla, limitarla, auditarla y detenerla. / It separates functional disruption from intentional attack and dual-use risk from accusation. Technological power should not outrun the collective capacity to understand, limit, audit and stop it.
 >
 > **[Leer LVI / Read LVI](../../manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md) · [Síntesis Abierta LVI · #76 / Open Synthesis LVI · #76](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/76)**  
 > [Cómo aportar](APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™ · auditorías externas](LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas](../../auditorias/publicas/README.md) · [56 manifiestos I–LVI](../../manifiestos/README.md)

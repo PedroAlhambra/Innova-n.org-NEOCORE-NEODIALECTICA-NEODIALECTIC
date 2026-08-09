@@ -12,7 +12,7 @@
 > **LVI · NO-CONTROL™ · Síntesis Previa a la Potencia**  
 > **LVI · NO-CONTROL™ · Synthesis Before Power**
 >
-> Distingue perturbación funcional de ataque intencional y riesgo de doble uso de acusación. Fija que la potencia tecnológica no debe crecer por delante de la capacidad colectiva de comprenderla, limitarla, auditarla y detenerla. / It separates functional disruption from intentional attack and dual-use risk from accusation. Technological power should not outrun the collective capacity to understand, limit, audit and stop it.
+> Distingue perturbación funcional de ataque intencional y riesgo de doble uso de acusación. La potencia tecnológica no debe crecer por delante de la capacidad colectiva de comprenderla, limitarla, auditarla y detenerla. / It separates functional disruption from intentional attack and dual-use risk from accusation. Technological power should not outrun the collective capacity to understand, limit, audit and stop it.
 >
 > **[Leer LVI / Read LVI](56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md) · [Síntesis Abierta LVI · #76 / Open Synthesis LVI · #76](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/76)**  
 > [Cómo aportar](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™ · auditorías externas](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas](../auditorias/publicas/README.md) · [56 manifiestos I–LVI](README.md)
@@ -44,11 +44,12 @@ Cada manifiesto dispone de un espacio público de contraste. El mapa completo es
 
 <!-- NEO_ALL_MANIFESTOS_START -->
 
-## Colección canónica / Canonical collection
+## Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™
 
-**56 manifiestos bilingües · I–LVI · 23 oleadas / 56 bilingual manifestos · I–LVI · 23 waves**
+**Estado canónico / Canonical state:** **56 manifiestos bilingües · I–LVI · 23 oleadas / 56 bilingual manifestos · I–LVI · 23 waves**  
+**Índice canónico / Canonical index:** [README.md](README.md)
 
-<details open>
+<details>
 <summary><strong>I–LVI · 56 manifiestos / 56 manifestos</strong></summary>
 
 - **I** · [Neo0™ · Soberanía de Guía / Guiding Sovereignty](11_neo0_soberania_de_guia_ES_EN.md)
@@ -103,14 +104,14 @@ Cada manifiesto dispone de un espacio público de contraste. El mapa completo es
 - **L** · [Inteligencia Compartida, no Única™](50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
 - **LI** · [Síntesis Abierta como Poder Cívico™](51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md)
 - **LII** · [Ciudadanía Humana Neodialéctica™](52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md)
-- **LIII** · [Leónidas™ · Defensor de la Síntesis y Auditoría Abierta](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [#69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)
-- **LIV** · [Riqueza y Chatarra™ · El Chatarrero™](54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md) · [#72](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/72)
-
-- **LV** · [Ataque de las Micromáquinas™ · Las Plagas de la Escala Invisible / Attack of the Micromachines™ · The Plagues of the Invisible Scale](55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md) · [Síntesis #74](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/74)
-
-- **LVI** · [NO-CONTROL™ · Síntesis Previa a la Potencia / NO-CONTROL™ · Synthesis Before Power](56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md) · [Síntesis #76](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/76)
+- **LIII** · [Leónidas™ · Defensor de la Síntesis y Auditoría Abierta](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
+- **LIV** · [Riqueza y Chatarra™ · El Chatarrero™](54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md)
+- **LV** · [Ataque de las Micromáquinas™ · Las Plagas de la Escala Invisible / Attack of the Micromachines™ · The Plagues of the Invisible Scale](55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md)
+- **LVI** · [NO-CONTROL™ · Síntesis Previa a la Potencia / NO-CONTROL™ · Synthesis Before Power](56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md)
 
 </details>
+
+> Ningún manifiesto equivale por sí solo al marco completo. / No single manifesto equals the complete framework.
 
 <!-- NEO_ALL_MANIFESTOS_END -->
 
