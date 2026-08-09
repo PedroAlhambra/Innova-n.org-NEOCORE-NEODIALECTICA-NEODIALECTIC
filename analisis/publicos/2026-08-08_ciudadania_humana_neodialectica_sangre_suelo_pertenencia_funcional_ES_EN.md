@@ -76,16 +76,64 @@ La propuesta no pide adhesión. Pide **casos límite, contradicciones, modelos a
 
 # EN · English
 
-The historical debate between **ius sanguinis** and **ius soli** asks how legal membership in a political community is acquired.
+## Framing
 
-The Neodialectical reading asks a prior question:
+The historical debate between **ius sanguinis** and **ius soli** asks through which mechanism a person acquires legal membership in a political community.
 
-> **why should ancestry or birthplace determine a different category of human dignity?**
+The Neodialectical reading introduces a prior question:
 
-The proposal does not deny the administrative need for residence rules, citizenship, taxation, mobility, political participation, diplomatic protection or management of common resources. It separates those functions from human worth.
+> **why should place of birth or ancestry determine a different category of human dignity?**
 
-Future citizenship may increasingly reflect real relations—residence, responsibility, participation, reciprocity and mutual protection—while preserving the principle that economic productivity cannot become a test of belonging.
+The proposal does not deny that States need rules governing residence, citizenship, taxation, mobility, political participation, diplomatic protection or administration of resources. It distinguishes those functions from any supposed difference in human worth.
 
-A multiscale model permits simultaneous local, regional, State, supranational and human belonging. Each layer may carry different competences without becoming a hierarchy of human value.
+```text
+BLOOD = GENEALOGY
+SOIL = LOCATION / BOND
+NATIONALITY = LEGAL-ADMINISTRATIVE RELATION
+HUMAN DIGNITY = COMMON
+```
 
-The proposal is open to legal, political, economic and social criticism through [Open Synthesis #64](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/64).
+The working hypothesis is that a mature civilisational architecture can preserve the first three layers without turning them into a hierarchy of the fourth.
+
+## From origin to relation
+
+Future citizenship could evolve from membership that is predominantly inherited or assigned at birth toward models in which **real bonds, residence, responsibility, participation, reciprocity and mutual protection** carry greater weight.
+
+But that evolution contains a risk: turning citizenship into a productivity test.
+
+The framework therefore adds the **Principle of Non-Commodification of Belonging™**: a person passing through childhood, illness, unemployment, dependency, refuge, disability or any stage of low economic contribution does not belong any less.
+
+## Multiscale belonging
+
+The proposed model does not require one identity to replace another.
+
+```text
+LOCAL ↔ REGIONAL ↔ STATE ↔ SUPRASTATE ↔ HUMAN
+```
+
+Each scale may preserve different functions. Belonging to one does not require denying the others.
+
+This connects directly with:
+
+- [XLIX · Meeting Point Between Cultures™](../../manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md);
+- [LI · Complementary or Substitutive Civic Power™](../../manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md);
+- [III · Human Right to Contribute](../../manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md);
+- [VII · Contribution Economy](../../manifiestos/04_economia_del_aporte_ES_EN.md);
+- [IX · Memory, Genealogy and Traceability](../../manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md).
+
+## Debate for Open Synthesis
+
+The proposal is expressly open to legal, political, economic and social criticism.
+
+Central questions:
+
+1. Which rights should belong universally to every person?
+2. Which may reasonably depend on residence or a real bond?
+3. Which current functions of nationality are indispensable and which are historical residues?
+4. How can cultures and communities be preserved without turning origin into hierarchy?
+5. How can material capacity, housing, healthcare, education, security and mobility be managed without denying human equality?
+6. How should minors, stateless people, refugees, dependants and people unable to contribute economically be protected?
+7. Can multiscale citizenship exist without irresolvable jurisdictional conflicts?
+8. What democratic and legal transition would be required?
+
+The proposal does not ask for adherence. It asks for **edge cases, contradictions, alternative models and improvements**.
