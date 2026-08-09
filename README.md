@@ -23,7 +23,7 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 ### Mapa relacional vivo / Living relational map
 
-[Manifiestos / Manifestos](manifiestos/README.md) · [Relaciones y trabajo aplicado / Relations and applied work](manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Neoaxiomas™](neoaxiomas/README.md) · [Síntesis Abierta / Open Synthesis](propuestas/sintesis-abierta/README.md) · [Auditoría relacional MAXPROC / MAXPROC relational audit](auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md)
+[Manifiestos / Manifestos](manifiestos/README.md) · [Relaciones y trabajo aplicado / Relations and applied work](manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Neoaxiomas™](neoaxiomas/README.md) · [Síntesis Abierta / Open Synthesis](propuestas/sintesis-abierta/README.md) · [Síntesis relacional / Relational synthesis #98](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/98) · [Auditoría MAXPROC / MAXPROC audit](auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md)
 
 <!-- NEO_RELATIONAL_MENU_END -->
 > **Estado del marco / Framework status:** **Síntesis iniciada / Synthesis Initiated**. El corpus es vivo y continúa evolucionando. Cualquier número de manifiestos debe leerse como estado en la fecha de consulta, no como total final. / The corpus is live and continues to evolve. Any manifesto count is the state at the time of consultation, not a final total.

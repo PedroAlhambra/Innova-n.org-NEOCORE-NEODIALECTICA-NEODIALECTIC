@@ -22,7 +22,7 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 ### Mapa relacional vivo / Living relational map
 
-[Manifiestos / Manifestos](../../manifiestos/README.md) · [Relaciones y trabajo aplicado / Relations and applied work](../../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Neoaxiomas™](../../neoaxiomas/README.md) · [Síntesis Abierta / Open Synthesis](README.md) · [Auditoría relacional MAXPROC / MAXPROC relational audit](../../auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md)
+[Manifiestos / Manifestos](../../manifiestos/README.md) · [Relaciones y trabajo aplicado / Relations and applied work](../../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Neoaxiomas™](../../neoaxiomas/README.md) · [Síntesis Abierta / Open Synthesis](README.md) · [Síntesis relacional / Relational synthesis #98](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/98) · [Auditoría MAXPROC / MAXPROC audit](../../auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md)
 
 <!-- NEO_RELATIONAL_MENU_END -->
 

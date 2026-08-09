@@ -820,7 +820,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Relaciones y contexto / Relations and context
 
-[Mapa transversal](RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Mapa relacional MAXPROC](../auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md) · [Neoaxiomas™](../neoaxiomas/README.md) · [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
+[Mapa transversal](RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Síntesis relacional #98](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/98) · [Mapa relacional MAXPROC](../auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md) · [Neoaxiomas™](../neoaxiomas/README.md) · [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
 
 > Este bloque añade navegación y relaciones; no sustituye, resume ni reduce el cuerpo del manifiesto. / This block adds navigation and relations; it does not replace, summarise or reduce the manifesto body.
 
