@@ -1,3 +1,4 @@
+# trigger: 2026-08-09T22:10+02:00
 name: sync-open-synthesis-network
 
 on:
@@ -11,6 +12,7 @@ on:
       - '.github/scripts/sync_open_synthesis_manifestos.py'
       - '.github/scripts/normalize_manifesto_indices.py'
       - '.github/scripts/sync_root_navigation.py'
+      - '.github/scripts/apply_wave_human_relevance_symbols.py'
 
 permissions:
   contents: write
@@ -26,12 +28,22 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+      - name: Apply additive NAX-10 and human-relevance integration
+        run: python .github/scripts/apply_wave_human_relevance_symbols.py
       - name: Synchronize Open Synthesis network
         run: python .github/scripts/sync_open_synthesis_manifestos.py
       - name: Normalize canonical indices
         run: python .github/scripts/normalize_manifesto_indices.py
       - name: Synchronize root navigation
         run: python .github/scripts/sync_root_navigation.py
+      - name: Relational audit
+        run: python .github/scripts/audit_relations_neocore.py
+      - name: Bilingual parity audit
+        run: python .github/scripts/audit_bilingual_parity_simple.py
+      - name: Historical non-reductive audit
+        run: python .github/scripts/audit_manifesto_history_regressions.py
+      - name: Final NEOCore 7.1 postcheck
+        run: python .github/scripts/postcheck_neocore_71_integridad_relacional.py
       - name: Commit synchronized network if needed
         run: |
           set -euo pipefail
@@ -42,6 +54,6 @@ jobs:
             echo 'No changes required.'
             exit 0
           fi
-          git commit -m 'docs: sync Open Synthesis canonical network'
+          git commit -m 'docs: ampliar NAX-10, publicar LX y relanzar mapa relacional'
           git pull --rebase origin main
           git push origin main
