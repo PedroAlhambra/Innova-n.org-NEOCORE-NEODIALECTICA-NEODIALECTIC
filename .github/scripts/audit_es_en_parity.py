@@ -7,6 +7,14 @@ REPORT = ROOT / 'auditorias' / 'publicas' / '2026-08-09_auditoria_paridad_ES_EN_
 
 ES_MARKERS = [r'^# ES · Castellano\s*$', r'^# ES · Español\s*$', r'^## ES · Castellano\s*$']
 EN_MARKERS = [r'^# EN · English\s*$', r'^## EN · English\s*$']
+SHARED_TRAILING_MARKERS = [
+    '<!-- NEO_RELATIONS_START -->',
+    '<!-- NEO_RELATED_WORK_START -->',
+    '<!-- NEO_OPEN_SYNTHESIS_INVITATION_START -->',
+    '<!-- NEO_MANIFESTO_NAV_START -->',
+    '<!-- MANIFESTOS_CURRENT_START -->',
+    '<!-- NEO_LATEST_MANIFESTO_START -->',
+]
 
 def find_marker(text, patterns):
     hits=[]
@@ -24,6 +32,10 @@ def words(s):
 def headings(s):
     return [x.strip() for x in re.findall(r'^#{2,6}\s+(.+)$',s,re.M)]
 
+def cut_shared_tail(s):
+    positions=[s.find(marker) for marker in SHARED_TRAILING_MARKERS if s.find(marker)>=0]
+    return s[:min(positions)] if positions else s
+
 rows=[]
 flagged=[]
 missing=[]
@@ -38,12 +50,8 @@ for base in TARGETS:
         if not es or not en or en.start() < es.start():
             missing.append((rel,bool(es),bool(en)))
             continue
-        es_body=text[es.end():en.start()]
-        en_body=text[en.end():]
-        # Exclude shared trailing navigation blocks where possible.
-        for marker in ['<!-- NEO_OPEN_SYNTHESIS_INVITATION_START -->','<!-- NEO_MANIFESTO_NAV_START -->']:
-            i=en_body.find(marker)
-            if i>=0: en_body=en_body[:i]
+        es_body=cut_shared_tail(text[es.end():en.start()])
+        en_body=cut_shared_tail(text[en.end():])
         ew=len(words(es_body)); nw=len(words(en_body)); ratio=(nw/ew if ew else 0)
         eh=len(headings(es_body)); nh=len(headings(en_body))
         status='OK'
@@ -68,6 +76,7 @@ lines.append('## Criterio')
 lines.append('')
 lines.append('- Se compara recuento aproximado de palabras entre las secciones ES y EN.')
 lines.append('- Se compara el número de encabezados internos como señal de estructura perdida.')
+lines.append('- Se excluyen de ambos lados bloques compartidos de relaciones, navegación, invitación a Síntesis Abierta y otros bloques automáticos bilingües.')
 lines.append('- Se marca **REVISAR** si EN tiene menos del 78% de palabras de ES, más del 155%, o pierde de forma importante la estructura de encabezados.')
 lines.append('- Es un detector: cada caso marcado requiere lectura humana antes de corregir.')
 lines.append('')
