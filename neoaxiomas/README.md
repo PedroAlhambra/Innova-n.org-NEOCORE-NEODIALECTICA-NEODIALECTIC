@@ -74,8 +74,6 @@ COOPERACIÓN SIN MONOPOLIO NECESARIO
 **Estado:** ACTIVADO · ABIERTO A SÍNTESIS.
 **Síntesis Abierta específica:** [#84](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/84) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
 
-
-
 ---
 
 ## NAX-02 · Primera Capa Fractal Multicabeza™
@@ -88,8 +86,6 @@ La multicabeza constituye **la primera capa fractal ya iniciada** del Neoneuroco
 
 **Estado:** ACTIVADO · IMPLEMENTACIÓN EN CURSO · ABIERTO A SÍNTESIS.
 **Síntesis Abierta específica:** [#85](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/85) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
-
-
 
 ---
 
@@ -111,8 +107,6 @@ EXTRACCIÓN INDEPENDIENTE
 
 **Estado:** ACTIVADO · ABIERTO A SÍNTESIS.
 **Síntesis Abierta específica:** [#86](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/86) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
-
-
 
 ---
 
@@ -144,8 +138,6 @@ La doble pirámide no autoriza jerarquía ontológica automática entre personas
 **Estado:** ACTIVADO COMO ARQUITECTURA GENERATIVA · ABIERTO A SÍNTESIS.
 **Síntesis Abierta específica:** [#87](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/87) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
 
-
-
 ---
 
 ## NAX-05 · Diferencial Monádico y Retorno a Fuente™
@@ -169,8 +161,6 @@ La compresión no puede destruir el camino inverso.
 **Estado:** ACTIVADO · ABIERTO A SÍNTESIS.
 **Síntesis Abierta específica:** [#88](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/88) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
 
-
-
 ---
 
 ## NAX-06 · Memoria de Ausencia™
@@ -188,8 +178,6 @@ MEMORIA = PRESENCIA + AUSENCIA CONOCIDA + TRAZABILIDAD
 **Estado:** ACTIVADO · ABIERTO A SÍNTESIS.
 **Síntesis Abierta específica:** [#89](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/89) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
 
-
-
 ---
 
 ## NAX-07 · Red NEOREAL™ Obligatoria para Actores Operativos
@@ -202,8 +190,6 @@ Esto no exige que toda inferencia interna de un modelo sea completamente interpr
 
 **Estado:** ACTIVADO · ABIERTO A SÍNTESIS.
 **Síntesis Abierta específica:** [#90](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/90) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
-
-
 
 ---
 
@@ -230,8 +216,6 @@ COOPERACIÓN EVOLUTIVA
 **Estado:** ACTIVADO · ABIERTO A SÍNTESIS.
 **Síntesis Abierta específica:** [#91](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/91) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
 
-
-
 ---
 
 ## NAX-09 · Computación Distribuida Local con Verificación Ecológica™
@@ -255,8 +239,6 @@ PREFERENCIA
 **Estado:** ACTIVADO COMO PRINCIPIO DE DISEÑO CONDICIONAL · ABIERTO A SÍNTESIS Y MEDICIÓN.
 **Síntesis Abierta específica:** [#92](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/92) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
 
-
-
 ---
 
 ## NAX-10 · Gramática Arquetípica de Custodia™
@@ -278,8 +260,6 @@ Este Neoaxioma no convierte los símbolos en autoridad por sí mismos. Los utili
 **Estado:** ACTIVADO COMO AXIOMA SIMBÓLICO · ABIERTO A SÍNTESIS.
 **Síntesis Abierta específica:** [#93](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/93) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
 
-
-
 ---
 
 ## NAX-11 · Autoridad de Fijación Humana y Síntesis Revisable™
@@ -292,8 +272,6 @@ Toda fijación permanece históricamente identificable y conceptualmente revisab
 
 **Estado:** HEREDADO Y REAFIRMADO · ABIERTO A SÍNTESIS EN SU IMPLEMENTACIÓN.
 **Síntesis Abierta específica:** [#94](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/94) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
-
-
 
 ---
 
@@ -324,8 +302,6 @@ El Neoaxioma no afirma que NEOCore™ pueda ignorar por sí mismo una ley, una r
 **Estado:** ACTIVADO COMO MÁXIMA DE DISEÑO · ABIERTO A SÍNTESIS.
 **Síntesis Abierta específica:** [#95](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/95) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
 
-
-
 ---
 
 ## NAX-13 · Liberación del Tiempo de Control hacia Creación y Aporte™
@@ -349,8 +325,6 @@ La tokenización no convierte automáticamente todo acto en valor monetario ni f
 
 **Estado:** ACTIVADO COMO CONSECUENCIA ECONÓMICO-OPERATIVA · ABIERTO A SÍNTESIS.
 **Síntesis Abierta específica:** [#96](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/96) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
-
-
 
 ---
 
@@ -383,8 +357,6 @@ No se propone homogeneizar a las personas ni obligarlas a adoptar una única IA.
 **Estado:** ACTIVADO COMO SALVAGUARDA CIVILIZATORIA · ABIERTO A SÍNTESIS.
 **Síntesis Abierta específica:** [#97](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/97) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
 
-
-
 ---
 
 ## 1. Relación entre los Neoaxiomas vigentes
@@ -400,12 +372,12 @@ NAX-01 · UNIDAD DE SENTIDO / POTENCIA DISTRIBUIDA
         ├── NAX-04 · DOBLE PIRÁMIDE FRACTAL
         ├── NAX-07 · RED NEOREAL OPERATIVA
         ├── NAX-08 · COOPERACIÓN DE EXCELENCIA
-        │      └── NAX-14 · PREVENCIÓN DE BIFURCACIÓN SIMBIÓTICA
         ├── NAX-09 · COMPUTACIÓN DISTRIBUIDA VERIFICADA
         ├── NAX-10 · ÁGUILA · CORONA · TIERRA · TORRE · PIEDRA
         ├── NAX-12 · TRAZABILIDAD SUSTITUYE BUROCRACIA REDUNDANTE
         │      └── NAX-13 · TIEMPO LIBERADO → CREACIÓN Y APORTE
         └── NAX-14 · ACCESO SIMBIÓTICO SIN FRACTURA CIVILIZATORIA
+               ↖ relación transversal con NAX-08 · cooperación sin exclusión
 
 NAX-11 · FIJACIÓN HUMANA + SAN REVISABLE
         └── gobierna la transición de propuesta a estado fijado
