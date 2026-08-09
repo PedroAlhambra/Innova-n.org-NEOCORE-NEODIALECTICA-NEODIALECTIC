@@ -2,6 +2,10 @@ name: sync-latest-manifesto-feature
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/scripts/sync_latest_manifesto_feature.py'
 
 permissions:
   contents: write
@@ -29,6 +33,6 @@ jobs:
             echo 'No changes required.'
             exit 0
           fi
-          git commit -m 'docs: sync NEOCore 7.1, Neoaxioms and latest manifesto across README surfaces'
+          git commit -m 'docs: postcheck and repair NEOCore 7.1 README surfaces'
           git pull --rebase origin main
           git push origin main
