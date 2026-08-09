@@ -1,19 +1,19 @@
 # Postcheck LVI · NO-CONTROL™ · README, índices y enlaces / README, indices and links
 
 **Fecha / Date:** 2026-08-09  
-**Estado / Status:** **REQUIERE CORRECCIÓN / NEEDS CORRECTION**
+**Estado / Status:** **OK**
 
 ## ES · Resultado
 
-- Archivos Markdown revisados: **212**.
+- Archivos Markdown revisados: **213**.
 - README/LEEME revisados: **15**.
-- Enlaces internos de ruta comprobados: **4665**.
+- Enlaces internos de ruta comprobados: **4669**.
 - Alias internos de GitHub Wiki reconocidos: **11**.
 - Enlaces externos inventariados sin comprobar disponibilidad remota: **977**.
-- Enlaces sólo a ancla detectados: **220**.
+- Enlaces sólo a ancla detectados: **222**.
 - Bloques de último manifiesto encontrados en README/LEEME: **13**.
 - Manifiestos canónicos detectados: **56 · I–LVI**.
-- Enlaces internos rotos detectados: **2**.
+- Enlaces internos rotos detectados: **0**.
 - Fallos canónicos críticos: **0**.
 
 ### Comprobaciones canónicas
@@ -25,18 +25,15 @@
 
 ### Enlaces internos rotos
 
-| Origen | Destino | Motivo |
-|---|---|---|
-| `manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md` | `59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md` | destino inexistente / missing target |
-| `manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md` | `59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md` | destino inexistente / missing target |
+- Ninguno detectado por el validador de rutas del repositorio.
 
 ## EN · Result
 
-- Markdown files reviewed: **212**.
+- Markdown files reviewed: **213**.
 - README/LEEME files reviewed: **15**.
-- Internal path links checked: **4665**.
+- Internal path links checked: **4669**.
 - GitHub Wiki extensionless page aliases recognised: **11**.
-- Broken internal links found: **2**.
+- Broken internal links found: **0**.
 - Canonical critical failures: **0**.
 
 External URL availability and rendered GitHub anchor semantics are not asserted by this local-path validator.
