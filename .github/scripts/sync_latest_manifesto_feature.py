@@ -4,17 +4,42 @@ import re
 import sys
 
 root = Path('.').resolve()
-latest = root / 'manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md'
-index = root / 'manifiestos/README.md'
+mdir = root / 'manifiestos'
+index = mdir / 'README.md'
 protocol = root / 'propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md'
 synth_index = root / 'propuestas/sintesis-abierta/README.md'
 audits = root / 'auditorias/publicas/README.md'
 leonidas = root / 'propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md'
-issue76 = 'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/76'
 
-for p in (latest, index, protocol, synth_index, audits, leonidas):
+for p in (index, protocol, synth_index, audits, leonidas):
     if not p.exists():
         raise SystemExit(f'Missing canonical target: {p.relative_to(root)}')
+
+idx = index.read_text(encoding='utf-8')
+entries = []
+seen = set()
+for roman, title, href in re.findall(r'^- \*\*([IVXLCDM]+)\*\* · \[([^\]]+)\]\(([^)]+\.md)\)', idx, re.M):
+    p = (mdir / href).resolve()
+    if p in seen or not p.exists():
+        continue
+    seen.add(p)
+    entries.append((roman, title.strip(), p))
+
+if not entries:
+    raise SystemExit('No canonical manifestos found in manifiestos/README.md')
+
+roman, title, latest = entries[-1]
+count = len(entries)
+latest_text = latest.read_text(encoding='utf-8')
+issue_match = re.search(r'https://github\.com/PedroAlhambra/Innova-n\.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/(\d+)', latest_text)
+if issue_match:
+    issue_num = issue_match.group(1)
+else:
+    # Transitional mapping for manifestos created before the issue URL was embedded in-file.
+    issue_num = {'LVII':'77', 'LVIII':'78', 'LIX':'79'}.get(roman)
+if not issue_num:
+    raise SystemExit(f'Cannot resolve Open Synthesis issue for latest manifesto {roman}')
+issue_url = f'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/{issue_num}'
 
 START='<!-- NEO_LATEST_MANIFESTO_START -->'
 END='<!-- NEO_LATEST_MANIFESTO_END -->'
@@ -27,21 +52,18 @@ def block(f):
 
 > ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LVI · NO-CONTROL™ · Síntesis Previa a la Potencia**  
-> **LVI · NO-CONTROL™ · Synthesis Before Power**
+> **{roman} · {title}**
 >
-> Distingue perturbación funcional de ataque intencional y riesgo de doble uso de acusación. La potencia tecnológica no debe crecer por delante de la capacidad colectiva de comprenderla, limitarla, auditarla y detenerla. / It separates functional disruption from intentional attack and dual-use risk from accusation. Technological power should not outrun the collective capacity to understand, limit, audit and stop it.
->
-> **[Leer LVI / Read LVI]({rel(f,latest)}) · [Síntesis Abierta LVI · #76 / Open Synthesis LVI · #76]({issue76})**  
-> [Cómo aportar]({rel(f,protocol)}) · [Leónidas™ · auditorías externas]({rel(f,leonidas)}) · [Auditorías públicas]({rel(f,audits)}) · [56 manifiestos I–LVI]({rel(f,index)})
+> **[Leer {roman} / Read {roman}]({rel(f,latest)}) · [Síntesis Abierta {roman} · #{issue_num} / Open Synthesis {roman} · #{issue_num}]({issue_url})**  
+> [Cómo aportar / How to contribute]({rel(f,protocol)}) · [Leónidas™]({rel(f,leonidas)}) · [Auditorías públicas / Public audits]({rel(f,audits)}) · [{count} manifiestos / manifestos · I–{roman}]({rel(f,index)})
 
 {END}'''
 
-readmes=sorted({p for p in root.rglob('README*.md') if '.git' not in p.parts})
-leeme=root/'LEEME.md'
+readmes = sorted({p for p in root.rglob('README*.md') if '.git' not in p.parts})
+leeme = root / 'LEEME.md'
 if leeme.exists():
     readmes.append(leeme)
-readmes=sorted(set(readmes))
+readmes = sorted(set(readmes))
 changed=[]
 for f in readmes:
     text=f.read_text(encoding='utf-8'); old=text
@@ -55,24 +77,15 @@ for f in readmes:
     text=f.read_text(encoding='utf-8')
     if START in text:
         m=re.search(re.escape(START)+r'(.*?)'+re.escape(END),text,re.S)
-        if not m or 'Issue #76' not in m.group(1) and '#76' not in m.group(1):
-            fail.append(f'{f.relative_to(root)} latest issue')
         if not m or latest.name not in m.group(1):
             fail.append(f'{f.relative_to(root)} latest path')
-idx=index.read_text(encoding='utf-8')
-net=re.search(r'<!-- NEO_ALL_MANIFESTOS_START -->(.*?)<!-- NEO_ALL_MANIFESTOS_END -->',idx,re.S)
-if not net:
-    fail.append('canonical block missing')
-else:
-    items=re.findall(r'- \*\*([IVXLCDM]+)\*\* · \[[^\]]+\]\(([^)]+\.md)\)',net.group(1)); unique=[]; seen=set()
-    for roman,href in items:
-        p=(index.parent/href).resolve()
-        if p not in seen:
-            seen.add(p); unique.append((roman,p))
-    if len(unique)!=56 or unique[-1][0]!='LVI':
-        fail.append(f'canonical sequence invalid {len(unique)}')
+        if not m or f'#{issue_num}' not in m.group(1):
+            fail.append(f'{f.relative_to(root)} latest issue')
+
+print(f'CANONICAL_MANIFESTOS={count}')
+print(f'LATEST={roman} {latest.name} ISSUE=#{issue_num}')
 print('README_LEEME_TARGETS=',len(readmes))
 print('FILES_CHANGED=',len(changed))
 if fail:
     print('POSTCHECK FAIL'); print('\n'.join(fail)); sys.exit(1)
-print('POSTCHECK OK: latest LVI + Open Synthesis #76 featured; canonical I-LVI network intact')
+print(f'POSTCHECK OK: latest {roman} + Open Synthesis #{issue_num}; count={count}')
