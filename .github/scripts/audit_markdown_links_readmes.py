@@ -18,6 +18,7 @@ link_re = re.compile(r'(?<!!)\[[^\]]*\]\(([^)]+)\)')
 internal_checked = 0
 external_seen = 0
 anchor_only = 0
+wiki_aliases = 0
 broken = []
 
 for f in markdown_files:
@@ -28,7 +29,6 @@ for f in markdown_files:
             continue
         if target.startswith('<') and target.endswith('>'):
             target = target[1:-1].strip()
-        # Remove optional Markdown title only when clearly quoted after whitespace.
         target = re.sub(r'\s+["\'][^"\']*["\']\s*$', '', target)
         low = target.lower()
         if low.startswith(('http://','https://','mailto:','tel:','data:')):
@@ -49,6 +49,11 @@ for f in markdown_files:
             broken.append((f.relative_to(root).as_posix(), target, 'fuera del repositorio / outside repository'))
             continue
         if not p.exists():
+            # GitHub Wiki accepts extensionless page links such as (Home) or (Manifiestos).
+            wiki_candidate = p.with_suffix('.md') if f.parent.name == 'wiki-source' and not Path(clean).suffix else None
+            if wiki_candidate and wiki_candidate.exists():
+                wiki_aliases += 1
+                continue
             broken.append((f.relative_to(root).as_posix(), target, 'destino inexistente / missing target'))
 
 idx = manifest_index.read_text(encoding='utf-8')
@@ -96,6 +101,7 @@ lines = [
     f'- Archivos Markdown revisados: **{len(markdown_files)}**.',
     f'- README/LEEME revisados: **{len(readmes)}**.',
     f'- Enlaces internos de ruta comprobados: **{internal_checked}**.',
+    f'- Alias internos de GitHub Wiki reconocidos: **{wiki_aliases}**.',
     f'- Enlaces externos inventariados sin comprobar disponibilidad remota: **{external_seen}**.',
     f'- Enlaces sólo a ancla detectados: **{anchor_only}**.',
     f'- Bloques de último manifiesto encontrados en README/LEEME: **{latest_markers}**.',
@@ -127,6 +133,7 @@ lines += [
     f'- Markdown files reviewed: **{len(markdown_files)}**.',
     f'- README/LEEME files reviewed: **{len(readmes)}**.',
     f'- Internal path links checked: **{internal_checked}**.',
+    f'- GitHub Wiki extensionless page aliases recognised: **{wiki_aliases}**.',
     f'- Broken internal links found: **{len(broken)}**.',
     f'- Canonical critical failures: **{len(critical)}**.',
     '',
@@ -136,4 +143,4 @@ lines += [
 ]
 report.write_text('\n'.join(lines)+'\n',encoding='utf-8')
 print(f'POSTCHECK_STATUS={status}')
-print(f'MARKDOWN_FILES={len(markdown_files)} README_LEEME={len(readmes)} INTERNAL_LINKS={internal_checked} BROKEN={len(broken)} CRITICAL={len(critical)}')
+print(f'MARKDOWN_FILES={len(markdown_files)} README_LEEME={len(readmes)} INTERNAL_LINKS={internal_checked} WIKI_ALIASES={wiki_aliases} BROKEN={len(broken)} CRITICAL={len(critical)}')
