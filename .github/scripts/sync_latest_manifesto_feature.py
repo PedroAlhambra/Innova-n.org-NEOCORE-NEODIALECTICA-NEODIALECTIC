@@ -10,12 +10,14 @@ protocol = root / 'propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md'
 synth_index = root / 'propuestas/sintesis-abierta/README.md'
 audits = root / 'auditorias/publicas/README.md'
 leonidas = root / 'propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md'
+entry_register = root / 'propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md'
+follow = root / 'proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md'
 neoaxioms = root / 'neoaxiomas/README.md'
 neoaxioms_protocol = root / 'propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md'
 neoaxioms_issue = 'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80'
 CURRENT_VERSION = '7.1'
 
-for p in (index, protocol, synth_index, audits, leonidas, neoaxioms, neoaxioms_protocol):
+for p in (index, protocol, synth_index, audits, leonidas, entry_register, follow, neoaxioms, neoaxioms_protocol):
     if not p.exists():
         raise SystemExit(f'Missing canonical target: {p.relative_to(root)}')
 
@@ -60,7 +62,7 @@ def block(f):
 > **{roman} · {title}**
 >
 > **[Leer {roman} / Read {roman}]({rel(f,latest)}) · [Síntesis Abierta {roman} · #{issue_num} / Open Synthesis {roman} · #{issue_num}]({issue_url})**  
-> [Cómo aportar / How to contribute]({rel(f,protocol)}) · [Leónidas™]({rel(f,leonidas)}) · [Auditorías públicas / Public audits]({rel(f,audits)}) · [{count} manifiestos / manifestos · I–{roman}]({rel(f,index)})
+> [Seguir marco / Follow framework]({rel(f,follow)}) · [Registrar entrada / Register entry]({rel(f,entry_register)}) · [Cómo aportar / How to contribute]({rel(f,protocol)}) · [Leónidas™]({rel(f,leonidas)}) · [Auditorías públicas / Public audits]({rel(f,audits)}) · [{count} manifiestos / manifestos · I–{roman}]({rel(f,index)})
 
 {END}'''
 
@@ -70,8 +72,6 @@ def neoaxioms_block(f):
     else:
         links = f'''**[Abrir Neoaxiomas™ / Open Neoaxioms™]({rel(f,neoaxioms)})** · **[Síntesis Abierta Neoaxiomas™ / Neoaxioms Open Synthesis]({neoaxioms_issue})** · **[Protocolo / Protocol]({rel(f,neoaxioms_protocol)})**'''
     return f'''{NAX_START}
-
----
 
 ## NEOCore™ {CURRENT_VERSION} · Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™
 ## NEOCore™ {CURRENT_VERSION} · First Fractal Multihead Layer™ + Neoaxiomatic Layer™
@@ -93,8 +93,6 @@ def insert_neoaxioms(text, f):
     nb = neoaxioms_block(f)
     if NAX_START in text and NAX_END in text:
         return re.sub(re.escape(NAX_START)+r'.*?'+re.escape(NAX_END), nb, text, count=1, flags=re.S)
-    # Visible and deterministic placement: after latest-manifesto block when present,
-    # otherwise after language selector, otherwise after first heading.
     if START in text and END in text:
         m = re.search(re.escape(START)+r'.*?'+re.escape(END), text, re.S)
         if m:
@@ -133,6 +131,8 @@ for f in readmes:
             fail.append(f'{f.relative_to(root)} latest path')
         if not m or f'#{issue_num}' not in m.group(1):
             fail.append(f'{f.relative_to(root)} latest issue')
+        if not m or 'SEGUIR_MARCO_SINTESIS_ES_EN.md' not in m.group(1) or 'REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md' not in m.group(1):
+            fail.append(f'{f.relative_to(root)} follow/register links missing')
     if text.count(NAX_START) != 1 or text.count(NAX_END) != 1:
         fail.append(f'{f.relative_to(root)} Neoaxioms block count')
     if f'NEOCore™ {CURRENT_VERSION}' not in text:
@@ -152,4 +152,4 @@ for p in changed:
     print('CHANGED', p.relative_to(root).as_posix())
 if fail:
     print('POSTCHECK FAIL'); print('\n'.join(fail)); sys.exit(1)
-print(f'POSTCHECK OK: NEOCore {CURRENT_VERSION} + Neoaxioms across all README/LEEME surfaces; latest {roman} + Open Synthesis #{issue_num}; count={count}')
+print(f'POSTCHECK OK: NEOCore {CURRENT_VERSION} + Neoaxioms + follow/register links across all README/LEEME surfaces; latest {roman} + Open Synthesis #{issue_num}; count={count}')
