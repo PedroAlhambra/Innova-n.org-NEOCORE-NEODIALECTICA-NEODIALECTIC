@@ -2,7 +2,7 @@
 ## Neodialectical Open Synthesis™
 
 **Estado / Status:** 2026-08-09  
-**Cobertura canónica / Canonical coverage:** **53 manifiestos · I–LIII / 53 manifestos · I–LIII**
+**Cobertura canónica / Canonical coverage:** **54 manifiestos · I–LIV / 54 manifestos · I–LIV**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -10,54 +10,51 @@
 
 > ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LIII · Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas**  
-> **LIII · Leónidas™ · Defender of Synthesis, Open Audit and the Right to Bring Problems**
+> **LIV · Riqueza y Chatarra™ · El Chatarrero™ como arquetipo de restauración civilizatoria**  
+> **LIV · Wealth and Scrap™ · The Scrapworker™ as an archetype of civilisational restoration**
 >
-> Leónidas™ abre la puerta para aportar pruebas a auditorías existentes o proponer problemas y auditorías externas bajo trazabilidad, contradicción, privacidad y separación entre hechos e hipótesis. / Leónidas™ opens the gate for evidence contributions to existing audits or new external problems and audits under traceability, contradiction, privacy and separation between facts and hypotheses.
+> Reparar, restaurar, reutilizar, remanufacturar y convertir residuo en nueva función o arte pasan del margen a una función civilizatoria central. / Repair, restoration, reuse, remanufacturing and transforming residue into new function or art move from the margin toward a central civilisational function.
 >
-> **[Leer manifiesto LIII / Read manifesto LIII](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Síntesis Abierta LIII · Issue #69 / Open Synthesis LIII · Issue #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)**  
-> [Cómo aportar / How to contribute](APORTAR_A_LA_SINTESIS_ES_EN.md) · [Protocolo Leónidas™](LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas / Public audits](../../auditorias/publicas/README.md) · [53 manifiestos I–LIII / 53 manifestos I–LIII](../../manifiestos/README.md)
+> **[Leer LIV / Read LIV](../../manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md) · [Síntesis Abierta LIV · #72 / Open Synthesis LIV · #72](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/72)**  
+> [Cómo aportar](./APORTAR_A_LA_SINTESIS_ES_EN.md) · [LIII · Leónidas™ y Auditoría Abierta](./LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías Públicas](../../auditorias/publicas/README.md)
 
 <!-- NEO_LATEST_MANIFESTO_END -->
 
 <!-- MANIFESTOS_CURRENT_START -->
 
-**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LIII · 53 manifiestos bilingües / 53 bilingual manifestos** · [índice canónico / canonical index](../../manifiestos/README.md)
+**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LIV · 54 manifiestos bilingües / 54 bilingual manifestos** · [índice canónico / canonical index](../../manifiestos/README.md)
 
 <!-- MANIFESTOS_CURRENT_END -->
 
-## Dos formas principales de participar / Two primary ways to participate
+## Tres puertas públicas de participación
 
-### 1. Contrastar una propuesta o manifiesto
+### 1. Contrastar un manifiesto
 
-Puedes aportar adhesión razonada o parcial, crítica, objeción, contraejemplo, fuente, experiencia, revisión, implementación o delta.
+Aporta crítica, objeción, contraejemplo, fuente, experiencia, implementación, corrección o delta en su Issue asociado.
 
-- [Protocolo general de aporte](./APORTAR_A_LA_SINTESIS_ES_EN.md)
-- [Plantilla general de Síntesis Abierta](../../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
+### 2. Traer un problema o Auditoría Pública
 
-### 2. Traer un problema o una auditoría
+[LIII · Leónidas™](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) abre formalmente problemas externos y auditorías propuestas por terceros.
 
-Puedes aportar pruebas a una auditoría existente o proponer una completamente nueva.
-
-- [LIII · Leónidas™](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
-- [Protocolo Leónidas™ · Auditoría Abierta](./LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)
+- [Protocolo Leónidas™](./LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)
 - [Portal de Auditorías Públicas](../../auditorias/publicas/README.md)
-- [Registro de Issues de auditoría](../../auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md)
-- [Plantilla · Auditoría Pública · aporte o nueva propuesta](../../.github/ISSUE_TEMPLATE/auditoria_publica_aporte.yml)
+- [Plantilla de auditoría](../../.github/ISSUE_TEMPLATE/auditoria_publica_aporte.yml)
+
+### 3. Crear ficción abierta
+
+La primera línea narrativa abierta es **[UMBRAL-X · Apocalipsis de las IAs™ · La Rama Starkdr Perdida](../../obras/umbral-x/README.md)**, con propuestas externas en [Issue #73](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/73). Las aportaciones conservan atribución y no entran en canon sin revisión y commit explícito.
 
 ```text
 ISSUE = ENTRADA Y CONTRASTE
-DOCUMENTO = SÍNTESIS VERSIONADA
-COMMIT = FIJACIÓN Y DELTA
+DOCUMENTO = SÍNTESIS / OBRA VERSIONADA
+COMMIT = FIJACIÓN Y DELTA CANÓNICO
 ```
-
-La admisión de un caso **no valida su acusación o hipótesis inicial**. Separa siempre hecho, testimonio, inferencia, hipótesis, evidencia contradictoria y pendiente.
 
 ---
 
 # ES · Castellano
 
-## Índice canónico de Síntesis Abierta · I–LIII
+## Índice canónico · I–LIV
 
 | Nº | Manifiesto | Síntesis Abierta |
 |---:|---|---|
@@ -95,7 +92,7 @@ La admisión de un caso **no valida su acusación o hipótesis inicial**. Separa
 | XXXII | [Reversión Ideológica Neodialéctica™](../../manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md) | [#26](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/26) |
 | XXXIII | [IDEA · Piedra Angular y Rosetta Civilizatoria™](../../manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md) | [#28](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/28) |
 | XXXIV | [Utilidad Operativa y Auditoría Conjunta Perpetua™](../../manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) | [#29](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/29) |
-| XXXV | [Contra la Ridiculez Mediática y la Economía del Conflicto™](../../manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) | [#30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |
+| XXXV | [Contra la Ridiculez Mediática y Economía del Conflicto™](../../manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) | [#30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |
 | XXXVI | [Corona, Águila y Custodia de la Edad del Hombre™](../../manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md) | [#42](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/42) |
 | XXXVII | [Neofraternidad™](../../manifiestos/37_neofraternidad_ES_EN.md) | [#43](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/43) |
 | XXXVIII | [Protección Integral de la Infancia™](../../manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) | [#45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45) |
@@ -110,69 +107,52 @@ La admisión de un caso **no valida su acusación o hipótesis inicial**. Separa
 | XLVII | [El Odio de Neo0 hacia su Sino™](../../manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md) | [#55](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/55) |
 | XLVIII | [La Síntesis Todo lo Ve™](../../manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) | [#56](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/56) |
 | XLIX | [Punto de Encuentro entre Culturas™](../../manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md) | [#57](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/57) |
-| L | [Por una Inteligencia Compartida, no Única™](../../manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md) | [#58](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/58) |
+| L | [Inteligencia Compartida, no Única™](../../manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md) | [#58](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/58) |
 | LI | [Síntesis Abierta como Poder Cívico™](../../manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md) | [#59](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/59) |
 | LII | [Ciudadanía Humana Neodialéctica™](../../manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md) | [#64](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/64) |
-| **LIII** | **[Leónidas™ · Defensor de la Síntesis y Auditoría Abierta](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)** | **[#69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)** |
+| LIII | [Leónidas™ · Síntesis y Auditoría Abierta](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) | [#69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69) |
+| **LIV** | **[Riqueza y Chatarra™](../../manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md)** | **[#72](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/72)** |
 
-## Síntesis y auditorías operativas no limitadas a un manifiesto
+## Auditorías y síntesis no limitadas a un manifiesto
 
-| Objeto | Documento / entrada | Issue |
-|---|---|---|
-| Historia Olvidada™ | [Investigación + Autodemostración](../../analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md) | [#63](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/63) |
-| Música digital · DistroKid/Spotify/DSPs | [Auditoría pública](../../auditorias/publicas/2026-08-08_auditoria_externa_streaming_distribuidores_metadatos_regalias_ES_EN.md) | [#61](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/61) |
-| KDP / Author Central / IDEA | [Portal de auditorías](../../auditorias/publicas/README.md) | [#70](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70) |
-| Integridad del repositorio / Wiki / automatizaciones | [Portal de auditorías](../../auditorias/publicas/README.md) | [#71](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/71) |
-| Auditoría del Fundador™ | [Auditoría pública](../../auditorias/publicas/2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md) | [#68](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/68) |
+- [Música digital · DistroKid / Spotify / DSPs · #61](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/61)
+- [Historia Olvidada™ · #63](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/63)
+- [Auditoría del Fundador™ · #68](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/68)
+- [KDP / Author Central / IDEA · #70](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)
+- [Integridad documental del repositorio · #71](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/71)
 
 ## Método
 
 ```text
-propuesta o problema
-→ retorno a fuente y delimitación
-→ evidencia / objeción / alternativa
-→ clasificación y contraste
-→ hipótesis rivales
-→ síntesis provisional
-→ delta o reparación
-→ versión trazable
-→ revisión pública
+PROPUESTA / PROBLEMA
+→ FUENTE Y DELIMITACIÓN
+→ EVIDENCIA / OBJECIÓN / ALTERNATIVA
+→ CONTRASTE
+→ HIPÓTESIS RIVALES
+→ SÍNTESIS PROVISIONAL
+→ DELTA / REPARACIÓN
+→ COMMIT VERSIONADO
+→ REVISIÓN PÚBLICA
 ```
 
-La Síntesis Abierta no obliga a consumir tiempo humano o artificial indefinidamente sin aprendizaje, trazabilidad o delta. Tampoco permite que popularidad, presión coordinada o autoridad sustituyan a la evidencia.
+La popularidad no equivale a prueba. La admisión de una auditoría no valida una acusación. La apertura de una propuesta literaria no la convierte en canon.
 
 ---
 
 # EN · English
 
-Open Synthesis is the public contrast layer for the **53 manifestos I–LIII** and for problems or Public Audits that may originate outside the framework.
+Open Synthesis currently covers **54 bilingual manifestos I–LIV**, Public Audits and the first open-fiction branch.
 
-Participation can take two main forms: critique an existing proposal, or bring a problem/evidence and request a new or existing Public Audit. Leónidas™ formalises the second route.
+There are three primary contribution routes: contrast an existing manifesto; bring evidence or a new Public Audit through Leónidas™; or contribute to open fiction through **UMBRAL-X · AI Apocalypse™ · Issue #73**.
 
-The canonical manifesto-to-Issue mapping is the bilingual table above. Public Audit entry points are:
+Admission creates an examinable contribution. It does not automatically validate an allegation, conclusion or literary canon. Attribution, contradiction and traceability are preserved.
 
-- [Public Audits portal](../../auditorias/publicas/README.md)
-- [Contribute evidence or open an audit](../../auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md)
-- [Public Audit Issue register](../../auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md)
-- [Leónidas™ protocol](./LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)
-- [LIII Open Synthesis · #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)
-
-Admission makes a case examinable; it does not validate the contributor's allegation. Facts, testimony, inference, hypotheses, contradictory evidence and pending matters remain separate.
+- [Manifesto index](../../manifiestos/README.md)
+- [General contribution protocol](./APORTAR_A_LA_SINTESIS_ES_EN.md)
+- [Leónidas™ Open Audit protocol](./LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)
+- [Public Audits](../../auditorias/publicas/README.md)
+- [UMBRAL-X · AI Apocalypse™](../../obras/umbral-x/README.md)
 
 ---
 
 **© 2026 Pedro Martínez Alhambra · Fundación Innova_N / Innova_N Foundation**
-
-<!-- NEO_OPEN_SYNTHESIS_INVITATION_START -->
-
-## Participa en la Síntesis Abierta / Join the Open Synthesis
-
-**Este marco no pide adhesión ciega.** Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o un delta. Con **Leónidas™** también puedes aportar pruebas a una Auditoría Pública existente o proponer una nueva auditoría trazable.
-
-**Puerta actual:** [LIII · Leónidas™](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Síntesis Abierta LIII · #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)  
-**Cómo aportar:** [protocolo general](APORTAR_A_LA_SINTESIS_ES_EN.md) · [protocolo Leónidas™](LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
-**Auditorías:** [portal público](../../auditorias/publicas/README.md) · [Índice de Síntesis Abierta](README.md)
-
-**This framework does not ask for blind endorsement.** You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta. With **Leónidas™**, you may also contribute evidence to an existing Public Audit or propose a new traceable audit.
-
-<!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->
