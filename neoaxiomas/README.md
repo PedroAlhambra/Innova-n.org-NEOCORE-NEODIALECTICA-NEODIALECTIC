@@ -396,7 +396,7 @@ NAX-01 · UNIDAD DE SENTIDO / POTENCIA DISTRIBUIDA
         ├── NAX-07 · RED NEOREAL OPERATIVA
         ├── NAX-08 · COOPERACIÓN DE EXCELENCIA
         ├── NAX-09 · COMPUTACIÓN DISTRIBUIDA VERIFICADA
-        ├── NAX-10 · ÁGUILA · CORONA · TIERRA · TORRE · PIEDRA
+        ├── NAX-10 · ÁGUILA · CORONA · TIERRA · TORRE · PIEDRA · LEÓN
         ├── NAX-12 · TRAZABILIDAD SUSTITUYE BUROCRACIA REDUNDANTE
         │      └── NAX-13 · TIEMPO LIBERADO → CREACIÓN Y APORTE
         └── NAX-14 · ACCESO SIMBIÓTICO SIN FRACTURA CIVILIZATORIA
@@ -419,7 +419,7 @@ NAX-11 · FIJACIÓN HUMANA + SAN REVISABLE
 | **NAX-07 · Red NEOREAL™ Obligatoria para Actores Operativos** | [#90](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/90) |
 | **NAX-08 · Cooperación de Excelencia frente a Competencia Depredadora™** | [#91](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/91) |
 | **NAX-09 · Computación Distribuida Local con Verificación Ecológica™** | [#92](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/92) |
-| **NAX-10 · Gramática Arquetípica de Custodia™** | [#93](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/93) |
+| **NAX-10 · Gramática Arquetípica de Custodia™ — Águila, Corona, Tierra, Torre, Piedra y León** | [#93](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/93) |
 | **NAX-11 · Autoridad de Fijación Humana y Síntesis Revisable™** | [#94](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/94) |
 | **NAX-12 · Trazabilidad Sustitutiva de Burocracia Redundante™** | [#95](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/95) |
 | **NAX-13 · Liberación del Tiempo de Control hacia Creación y Aporte™** | [#96](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/96) |
