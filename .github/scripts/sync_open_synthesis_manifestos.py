@@ -32,9 +32,7 @@ count=len(links)
 roman,title,LATEST=links[-1]
 # Waves are documentary groupings, not the source of manifesto count.
 # Current public grouping: LVII-LIX forms wave 24.
-waves=24 if count >= 59 else 23 if count >= 56 else None
-if waves is None:
-    waves=max(1,count)
+waves=24 if count >= 59 else 23 if count >= 56 else max(1,count)
 
 latest_text=LATEST.read_text(encoding='utf-8')
 im=re.search(r'https://github\.com/PedroAlhambra/Innova-n\.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/(\d+)',latest_text)
@@ -127,9 +125,17 @@ for f in readmes:
         s=replace_block(s,NETWORK_START,NETWORK_END,compact_network_block(f))
     if INVITE_START in s and INVITE_END in s:
         s=replace_block(s,INVITE_START,INVITE_END,invite_block(f))
-    # Remove stale hard-coded counts left outside managed blocks.
-    s=re.sub(r'I–LVI · 56 manifiestos bilingües · 23 oleadas',f'I–{roman} · {count} manifiestos bilingües · {waves} oleadas',s)
-    s=re.sub(r'56 bilingual manifestos · I–LVI · 23 waves',f'{count} bilingual manifestos · I–{roman} · {waves} waves',s)
+
+    # Remove stale hard-coded corpus references left outside managed blocks.
+    s=re.sub(r'Índice navegable de manifiestos I–[IVXLCDM]+',f'Índice navegable de manifiestos I–{roman}',s)
+    s=re.sub(r'Navigable manifesto index I–[IVXLCDM]+',f'Navigable manifesto index I–{roman}',s)
+    s=re.sub(r'I–[IVXLCDM]+ · \d+ manifiestos bilingües · \d+ oleadas',f'I–{roman} · {count} manifiestos bilingües · {waves} oleadas',s)
+    s=re.sub(r'\d+ bilingual manifestos · I–[IVXLCDM]+ · \d+ waves',f'{count} bilingual manifestos · I–{roman} · {waves} waves',s)
+    s=re.sub(r'I–[IVXLCDM]+ · \d+ manifiestos bilingües',f'I–{roman} · {count} manifiestos bilingües',s)
+    s=re.sub(r'I–[IVXLCDM]+ · \d+ bilingual manifestos',f'I–{roman} · {count} bilingual manifestos',s)
+    s=re.sub(r'\d+ manifiestos I–[IVXLCDM]+',f'{count} manifiestos I–{roman}',s)
+    s=re.sub(r'\d+ manifestos I–[IVXLCDM]+',f'{count} manifestos I–{roman}',s)
+
     if s!=old:
         f.write_text(s,encoding='utf-8'); changed.append(f)
 
