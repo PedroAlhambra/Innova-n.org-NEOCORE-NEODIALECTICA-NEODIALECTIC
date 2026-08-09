@@ -1,0 +1,91 @@
+name: Auditoría Pública · aporte o nueva propuesta
+description: Aporta pruebas a una auditoría existente o propone una nueva auditoría pública trazable.
+title: "Auditoría Pública · "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Este canal sirve para aportar pruebas, refutaciones, casos comparables o proponer una nueva Auditoría Pública / Síntesis de Problema. No conviertas sospechas en hechos. Evita datos personales innecesarios.
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo de aporte
+      options:
+        - Prueba nueva para auditoría existente
+        - Caso comparable
+        - Refutación o evidencia contradictoria
+        - Corrección de cronología o metadatos
+        - Propuesta de nueva auditoría
+        - Propuesta de reparación o resolución
+    validations:
+      required: true
+  - type: input
+    id: auditoria
+    attributes:
+      label: Auditoría o problema relacionado
+      description: Enlace al documento o Issue existente; si es una auditoría nueva, escribe NUEVA.
+    validations:
+      required: true
+  - type: textarea
+    id: objeto
+    attributes:
+      label: Objeto concreto
+      description: Describe qué se quiere contrastar o resolver.
+    validations:
+      required: true
+  - type: textarea
+    id: hechos
+    attributes:
+      label: Hechos conocidos
+      description: Separa hechos verificables de interpretaciones.
+    validations:
+      required: true
+  - type: textarea
+    id: evidencia
+    attributes:
+      label: Evidencia disponible
+      description: Enlaces, capturas, identificadores, comunicaciones, fechas, registros u otros elementos verificables. No publiques credenciales ni datos personales innecesarios.
+    validations:
+      required: true
+  - type: textarea
+    id: incertidumbre
+    attributes:
+      label: Qué no se sabe / hipótesis alternativas
+      description: Indica incertidumbres, inferencias e hipótesis rivales.
+    validations:
+      required: true
+  - type: textarea
+    id: contradiccion
+    attributes:
+      label: Evidencia que podría contradecir tu hipótesis
+      description: Si existe, inclúyela. Si no la conoces, indícalo.
+    validations:
+      required: true
+  - type: textarea
+    id: resultado
+    attributes:
+      label: Resultado o reparación buscada
+      description: Qué cambio, explicación, verificación o reparación sería útil.
+    validations:
+      required: true
+  - type: textarea
+    id: privacidad
+    attributes:
+      label: Privacidad y límites
+      description: Señala qué material no debería hacerse público o requiere anonimización.
+    validations:
+      required: true
+  - type: checkboxes
+    id: declaracion
+    attributes:
+      label: Declaraciones
+      options:
+        - label: Distingo hechos, testimonios, inferencias e hipótesis.
+          required: true
+        - label: No he incluido deliberadamente datos personales innecesarios, credenciales ni material ilícito.
+          required: true
+        - label: Acepto que la conclusión pueda contradecir mi hipótesis inicial.
+          required: true
+        - label: Entiendo que esta auditoría pública no sustituye a policía, tribunales, reguladores ni asesoramiento profesional.
+          required: true
