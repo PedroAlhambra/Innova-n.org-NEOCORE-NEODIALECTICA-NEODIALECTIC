@@ -1,0 +1,33 @@
+name: Síntesis Abierta · Neoaxioma™
+description: Contraste público de un Neoaxioma™ del NEOCore™
+title: "Síntesis Abierta NAX-XX · "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Utiliza esta plantilla para aportar crítica, contraejemplo, evidencia, riesgo, implementación o propuesta de delta sobre un Neoaxioma™. La apertura de una aportación no implica su aceptación.
+  - type: input
+    id: neoaxioma
+    attributes:
+      label: Neoaxioma
+      description: Identificador y título, por ejemplo NAX-01.
+    validations:
+      required: true
+  - type: textarea
+    id: aporte
+    attributes:
+      label: Aporte
+      description: Expón el argumento completo. No sustituyas fuentes por resúmenes si son necesarias para evaluar el punto.
+    validations:
+      required: true
+  - type: textarea
+    id: evidencia
+    attributes:
+      label: Evidencia, fuentes o contraejemplos
+      description: Enlaces, datos, casos, pruebas, implementación o referencias verificables.
+  - type: textarea
+    id: relacion
+    attributes:
+      label: Relaciones con otros Neoaxiomas, manifiestos o publicaciones
+      description: Indica vínculos relevantes si los conoces.
