@@ -1,4 +1,4 @@
-# trigger: 2026-08-09T22:14+02:00
+# trigger: 2026-08-09T22:18+02:00
 name: sync-open-synthesis-network
 
 on:
@@ -33,21 +33,7 @@ jobs:
         run: python .github/scripts/apply_wave_human_relevance_symbols.py
       - name: Patch postcheck for I-LX corpus
         run: python .github/scripts/patch_postcheck_for_lx.py
-      - name: Synchronize Open Synthesis network
-        run: python .github/scripts/sync_open_synthesis_manifestos.py
-      - name: Normalize canonical indices
-        run: python .github/scripts/normalize_manifesto_indices.py
-      - name: Synchronize root navigation
-        run: python .github/scripts/sync_root_navigation.py
-      - name: Relational audit
-        run: python .github/scripts/audit_relations_neocore.py
-      - name: Bilingual parity audit
-        run: python .github/scripts/audit_bilingual_parity_simple.py
-      - name: Historical non-reductive audit
-        run: python .github/scripts/audit_manifesto_history_regressions.py
-      - name: Final NEOCore 7.1 postcheck
-        run: python .github/scripts/postcheck_neocore_71_integridad_relacional.py
-      - name: Commit synchronized network if needed
+      - name: Commit integration if needed
         run: |
           set -euo pipefail
           git config user.name 'github-actions[bot]'
@@ -57,6 +43,6 @@ jobs:
             echo 'No changes required.'
             exit 0
           fi
-          git commit -m 'docs: ampliar NAX-10, publicar LX y relanzar mapa relacional'
+          git commit -m 'docs: integrar NAX-10 León, Bandera de Síntesis y LX'
           git pull --rebase origin main
           git push origin main
