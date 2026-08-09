@@ -1,0 +1,40 @@
+name: fix-article-parity-large-20260809
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/scripts/fix_article_parity_large_20260809.py'
+      - '.github/workflows/fix-article-parity-large-20260809.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: neocore-document-sync-main
+  cancel-in-progress: false
+
+jobs:
+  fix-parity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Apply long-article parity corrections
+        run: python .github/scripts/fix_article_parity_large_20260809.py
+      - name: Commit corrections
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md \
+                  analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md \
+                  analisis/publicos/2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md
+          if git diff --cached --quiet; then
+            echo 'No parity changes needed.'
+            exit 0
+          fi
+          git commit -m 'fix: completar paridad ES EN en análisis públicos largos'
+          git pull --rebase origin main
+          git push origin main
