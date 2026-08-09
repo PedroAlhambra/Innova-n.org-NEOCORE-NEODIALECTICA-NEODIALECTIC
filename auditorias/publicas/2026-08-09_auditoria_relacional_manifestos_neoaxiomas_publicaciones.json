@@ -319,10 +319,10 @@
       "roman": "XXXVI",
       "title": "Corona, Águila y Custodia de la Edad del Hombre™",
       "path": "manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md",
-      "words": 3495,
-      "headings": 33,
-      "paragraphs": 110,
-      "words_per_heading": 105.9
+      "words": 4588,
+      "headings": 41,
+      "paragraphs": 138,
+      "words_per_heading": 111.9
     },
     {
       "roman": "XXXVII",
@@ -526,10 +526,19 @@
       "roman": "LIX",
       "title": "Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana / Distributed Cognitive Custodianship™ · AI, Repair and Human Responsibility",
       "path": "manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md",
-      "words": 1379,
+      "words": 1387,
       "headings": 30,
       "paragraphs": 53,
-      "words_per_heading": 46.0
+      "words_per_heading": 46.2
+    },
+    {
+      "roman": "LX",
+      "title": "Relevancia Humana Necesaria™ · Inteligencia Distribuida, Aporte y Anti-Captura Social / Necessary Human Relevance™ · Distributed Intelligence, Contribution and Anti-Capture",
+      "path": "manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md",
+      "words": 3308,
+      "headings": 34,
+      "paragraphs": 115,
+      "words_per_heading": 97.3
     }
   ],
   "density_flags": [
@@ -573,10 +582,10 @@
       "roman": "LIX",
       "title": "Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana / Distributed Cognitive Custodianship™ · AI, Repair and Human Responsibility",
       "path": "manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md",
-      "words": 1379,
+      "words": 1387,
       "headings": 30,
       "paragraphs": 53,
-      "words_per_heading": 46.0
+      "words_per_heading": 46.2
     }
   ],
   "relation_missing": [],
@@ -710,8 +719,8 @@
     {
       "id": "NAX-10",
       "titles": [
-        "Archetypal Grammar of Custodianship™",
-        "Gramática Arquetípica de Custodia™"
+        "Archetypal Grammar of Custodianship™ — Eagle, Crown, Earth, Tower, Stone and Lion",
+        "Gramática Arquetípica de Custodia™ — Águila, Corona, Tierra, Torre, Piedra y León"
       ],
       "issues": [
         "80",
@@ -4442,6 +4451,15 @@
     },
     {
       "a": "LI",
+      "b": "LX",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/README.md",
+        "wiki-source/Manifiestos.md"
+      ]
+    },
+    {
+      "a": "LI",
       "b": "XIII",
       "sources": 2,
       "examples": [
@@ -4564,6 +4582,78 @@
       "examples": [
         "propuestas/sintesis-abierta/README.md",
         "wiki-source/README.md"
+      ]
+    },
+    {
+      "a": "LX",
+      "b": "XLII",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/README.md",
+        "wiki-source/Manifiestos.md"
+      ]
+    },
+    {
+      "a": "LX",
+      "b": "XLIII",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/README.md",
+        "wiki-source/Manifiestos.md"
+      ]
+    },
+    {
+      "a": "LX",
+      "b": "XLIV",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/README.md",
+        "wiki-source/Manifiestos.md"
+      ]
+    },
+    {
+      "a": "LX",
+      "b": "XLIX",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/README.md",
+        "wiki-source/Manifiestos.md"
+      ]
+    },
+    {
+      "a": "LX",
+      "b": "XLV",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/README.md",
+        "wiki-source/Manifiestos.md"
+      ]
+    },
+    {
+      "a": "LX",
+      "b": "XLVI",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/README.md",
+        "wiki-source/Manifiestos.md"
+      ]
+    },
+    {
+      "a": "LX",
+      "b": "XLVII",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/README.md",
+        "wiki-source/Manifiestos.md"
+      ]
+    },
+    {
+      "a": "LX",
+      "b": "XLVIII",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/README.md",
+        "wiki-source/Manifiestos.md"
       ]
     },
     {
@@ -5980,6 +6070,7 @@
       "path": "wiki-source/Manifiestos.md",
       "manifestos": [
         "LI",
+        "LX",
         "XLII",
         "XLIII",
         "XLIV",
@@ -6053,6 +6144,7 @@
         "LVI",
         "LVII",
         "LVIII",
+        "LX",
         "V",
         "VI",
         "VII",
@@ -11202,7 +11294,8 @@
           "auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md"
         ],
         "manifiestos": [
-          "manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md"
+          "manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md",
+          "manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md"
         ],
         "otros": [
           "manifiestos/README.md",
@@ -11290,7 +11383,8 @@
           "manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md",
           "manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md",
           "manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md",
-          "manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md"
+          "manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md",
+          "manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md"
         ],
         "neoaxiomas": [
           "neoaxiomas/README.md"
@@ -11306,6 +11400,44 @@
         ],
         "proyeccion": [
           "proyeccion/README.md"
+        ]
+      }
+    },
+    {
+      "roman": "LX",
+      "title": "Relevancia Humana Necesaria™ · Inteligencia Distribuida, Aporte y Anti-Captura Social / Necessary Human Relevance™ · Distributed Intelligence, Contribution and Anti-Capture",
+      "path": "manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md",
+      "outbound": {
+        "auditorias/publicas": [
+          "auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md"
+        ],
+        "manifiestos": [
+          "manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md"
+        ],
+        "otros": [
+          "manifiestos/README.md",
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
+        ],
+        "neoaxiomas": [
+          "neoaxiomas/README.md"
+        ],
+        "sintesis-abierta": [
+          "propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md",
+          "propuestas/sintesis-abierta/README.md"
+        ]
+      },
+      "inbound": {
+        "manifiestos": [
+          "manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md"
+        ],
+        "otros": [
+          "manifiestos/README.md",
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
+          "README.md",
+          "wiki-source/Manifiestos.md"
+        ],
+        "sintesis-abierta": [
+          "propuestas/sintesis-abierta/README.md"
         ]
       }
     }
