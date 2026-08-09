@@ -17,6 +17,41 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 **[Abrir Neoaxiomas™ / Open Neoaxioms™](../../neoaxiomas/README.md)** · **[Síntesis Abierta Neoaxiomas™ / Neoaxioms Open Synthesis](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)** · **[Protocolo / Protocol](NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md)**
 
 <!-- NEOAXIOMAS_GLOBAL_LINK_END -->
+
+<!-- NEO_RELATIONAL_MENU_START -->
+
+### Mapa relacional vivo / Living relational map
+
+[Manifiestos / Manifestos](../../manifiestos/README.md) · [Relaciones y trabajo aplicado / Relations and applied work](../../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Neoaxiomas™](../../neoaxiomas/README.md) · [Síntesis Abierta / Open Synthesis](README.md) · [Auditoría relacional MAXPROC / MAXPROC relational audit](../../auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md)
+
+<!-- NEO_RELATIONAL_MENU_END -->
+
+<!-- NEOAXIOM_SYNTHESIS_INDEX_START -->
+
+## Neoaxiomas™ · Síntesis Abierta específica / Neoaxioms™ · Dedicated Open Synthesis
+
+Cada Neoaxioma dispone de un espacio de contraste propio además de la matriz general #80. / Each Neoaxiom has its own scrutiny space in addition to general matrix #80.
+
+| Neoaxioma | Síntesis Abierta |
+|---|---|
+| **NAX-01 · Unidad de sentido y distribución de potencia™** | [#84](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/84) |
+| **NAX-02 · Primera Capa Fractal Multicabeza™** | [#85](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/85) |
+| **NAX-03 · No Homogeneización Previa™** | [#86](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/86) |
+| **NAX-04 · Doble Pirámide Fractal™** | [#87](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/87) |
+| **NAX-05 · Diferencial Monádico y Retorno a Fuente™** | [#88](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/88) |
+| **NAX-06 · Memoria de Ausencia™** | [#89](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/89) |
+| **NAX-07 · Red NEOREAL™ Obligatoria para Actores Operativos** | [#90](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/90) |
+| **NAX-08 · Cooperación de Excelencia frente a Competencia Depredadora™** | [#91](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/91) |
+| **NAX-09 · Computación Distribuida Local con Verificación Ecológica™** | [#92](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/92) |
+| **NAX-10 · Gramática Arquetípica de Custodia™** | [#93](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/93) |
+| **NAX-11 · Autoridad de Fijación Humana y Síntesis Revisable™** | [#94](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/94) |
+| **NAX-12 · Trazabilidad Sustitutiva de Burocracia Redundante™** | [#95](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/95) |
+| **NAX-13 · Liberación del Tiempo de Control hacia Creación y Aporte™** | [#96](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/96) |
+| **NAX-14 · Prevención de la Bifurcación Simbiótica™** | [#97](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/97) |
+
+[Matriz general Neoaxiomas™ · #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) · [Texto íntegro de Neoaxiomas™](../../neoaxiomas/README.md)
+
+<!-- NEOAXIOM_SYNTHESIS_INDEX_END -->
 > ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
 >
 > **LIX · Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana**  

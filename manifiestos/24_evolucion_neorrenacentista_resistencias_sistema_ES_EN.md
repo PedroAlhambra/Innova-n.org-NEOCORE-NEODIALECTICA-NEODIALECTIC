@@ -816,6 +816,16 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 <!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->
 
+<!-- NEO_RELATIONAL_FOOTER_START -->
+
+## Relaciones y contexto / Relations and context
+
+[Mapa transversal](RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Mapa relacional MAXPROC](../auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md) · [Neoaxiomas™](../neoaxiomas/README.md) · [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
+
+> Este bloque añade navegación y relaciones; no sustituye, resume ni reduce el cuerpo del manifiesto. / This block adds navigation and relations; it does not replace, summarise or reduce the manifesto body.
+
+<!-- NEO_RELATIONAL_FOOTER_END -->
+
 <!-- NEO_MANIFESTO_NAV_START -->
 
 ## Navegación canónica / Canonical navigation

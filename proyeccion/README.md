@@ -30,6 +30,14 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 <!-- NEOAXIOMAS_GLOBAL_LINK_END -->
 
+<!-- NEO_RELATIONAL_MENU_START -->
+
+### Mapa relacional vivo / Living relational map
+
+[Manifiestos / Manifestos](../manifiestos/README.md) · [Relaciones y trabajo aplicado / Relations and applied work](../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Neoaxiomas™](../neoaxiomas/README.md) · [Síntesis Abierta / Open Synthesis](../propuestas/sintesis-abierta/README.md) · [Auditoría relacional MAXPROC / MAXPROC relational audit](../auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md)
+
+<!-- NEO_RELATIONAL_MENU_END -->
+
 # Traceable projection and outreach
 
 Este directorio documenta cómo Innova_N proyecta el marco fuera de su fuente viva sin confundir **difusión** con simple marketing. Cuando el trabajo busca crítica, evidencia, participantes, implementación, contraste o apertura de nodos, se registra como **trabajo de construcción del Bien Común**.

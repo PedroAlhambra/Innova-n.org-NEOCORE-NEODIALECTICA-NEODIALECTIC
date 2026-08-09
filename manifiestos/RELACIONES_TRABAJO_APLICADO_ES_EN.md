@@ -2,7 +2,7 @@
 # Transversal map · Manifestos ↔ applied work
 
 **Estado / Status:** público · relacional · 2026-08-08 / public · relational · 2026-08-08  
-**Cobertura / Coverage:** I–LII · 52 manifiestos / 52 manifestos  
+**Cobertura / Coverage:** I–LIX · 59 manifiestos / 59 manifestos  
 **Función / Function:** relacionar principios, análisis, auditorías, obras, protocolos, evidencias y casos mediante enlaces internos, sin convertir correlación documental en prueba causal. / Relate principles, analyses, audits, works, protocols, evidence and cases through internal links without turning documentary correlation into causal proof.
 
 ---
@@ -359,6 +359,8 @@ Casos y análisis principales:
 ---
 
 ## XLIX · La Neodialéctica como Punto de Encuentro entre Culturas™
+
+- [XLIX · Manifiesto / Manifesto](./49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)
 ## XLIX · Neodialectics as a Meeting Point between Cultures™
 
 **Relaciones principales / Main relations:** II · Síntesis Abierta; IV · Bien Común; VIII · Ingeniería Social Abierta y Psicohistoria; IX · Memoria-Genealogía-Trazabilidad; XVI · Refragmentación Arquetípica; XXXII · Reversión Ideológica; XXXVII · Neofraternidad; XLV · Multidimensionalidad; XLVIII · La Síntesis Todo lo Ve.
@@ -408,3 +410,51 @@ Casos y análisis principales:
 - [Síntesis Abierta #64 / Open Synthesis #64](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/64)
 
 **Regla de relación:** igualdad humana universal no elimina administración territorial; aporte no equivale a riqueza; pertenencia funcional no puede convertirse en filtro de valor humano. / **Relation rule:** universal human equality does not erase territorial administration; contribution is not equivalent to wealth; functional belonging must not become a filter of human worth.
+
+<!-- NEO_RELATIONS_LIII_LIX_NEOAX_START -->
+
+---
+
+## LIII–LIX · ampliación relacional vigente / current relational extension
+
+### LIII · Leónidas™
+- [Manifiesto](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Síntesis #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)
+- [Protocolo Leónidas™](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas](../auditorias/publicas/README.md) · [Auditoría de integridad #71](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/71)
+- Relaciones principales: II · Síntesis Abierta; III · Derecho de Aporte; IX · Memoria/Genealogía/Trazabilidad; XX · Umbral-X; XXXIV · Auditoría Conjunta; XLVIII · La Síntesis Todo lo Ve; LI · Poder Cívico.
+
+### LIV · Riqueza y Chatarra™
+- [Manifiesto](./54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md) · [Síntesis #72](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/72)
+- Relaciones principales: VII · Economía del Aporte; XXIII · Soberanía del Tiempo Cognitivo; XXV · Pulido de la Piedra; XXVII · Valor de los Alimentos y la Vida; XXX · Coherencia Fines-Medios; XLV · Multidimensionalidad.
+- Función aplicada: reparación, reparabilidad, segunda vida, remanufactura, recuperación y dignidad del oficio reparador.
+
+### LV · Ataque de las Micromáquinas™
+- [Manifiesto](./55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md) · [Síntesis #74](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/74)
+- [Estado real de la evidencia](../analisis/publicos/2026-08-09_micromaquinas_plagas_escala_invisible_estado_real_ES_EN.md) · [Brief de debate](../propuestas/sintesis-abierta/2026-08-09_LV_micromaquinas_plagas_escala_invisible_debate_ES_EN.md)
+- Relaciones principales: IX · Trazabilidad; XX · Defensa Intelectual/Umbral-X; XXX · Coherencia Fines-Medios; XXXVIII · Protección Integral; XLV · Multidimensionalidad; LVI · NO-CONTROL.
+
+### LVI · NO-CONTROL™ · Síntesis Previa a la Potencia
+- [Manifiesto](./56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md) · [Síntesis #76](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/76)
+- Relaciones principales: IV · Bien Común; IX · Trazabilidad; XXX · Coherencia Fines-Medios; XXXIV · Auditoría Conjunta; XLIV · Neowar; XLV · Multidimensionalidad; LIX · Custodia Cognitiva.
+- Regla epistemológica enlazada: capacidad de doble uso no demuestra intención hostil.
+
+### LVII–LIX · Refugio → Inteligencia Civilizatoria → Custodia Cognitiva
+- [Mapa específico LVII–LIX](./RELACIONES_LVII_LIX_ES_EN.md)
+- [LVII · #77](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/77) · [LVIII · #78](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/78) · [LIX · #79](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/79)
+- La secuencia conecta cuidado basal, capacidad cognitiva pública y custodia distribuida sin monopolio de conciencia.
+
+## Neoaxiomas™ ↔ Manifiestos ↔ trabajo aplicado
+
+- [Neoaxiomas™](../neoaxiomas/README.md) · [Matriz general #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
+- **NAX-01 / NAX-08 / NAX-14** ↔ V · Simbiosis Humano–IA; VII · Economía del Aporte; L · Inteligencia Compartida; LVIII · Inteligencia Civilizatoria; LIX · Custodia Cognitiva.
+- **NAX-02–06** ↔ II · Síntesis Abierta; IX · Memoria/Genealogía/Trazabilidad; XIX · Persistencia de la Memoria; XLVIII · La Síntesis Todo lo Ve.
+- **NAX-07** ↔ X · WEB4™ SistemaTrazable™; XLIII · Inteligencia Humana Expandida; LIX · Custodia Cognitiva.
+- **NAX-09** ↔ XXX · Coherencia Fines-Medios; LIV · Riqueza y Chatarra; LVI · NO-CONTROL.
+- **NAX-10** ↔ XXV · Pulido de la Piedra; XXXVI · Corona, Águila y Custodia.
+- **NAX-11** ↔ I · Neo0; IX · Trazabilidad; XXXIV · Auditoría Conjunta.
+- **NAX-12** ↔ IX · Trazabilidad; X · SistemaTrazable™; XXXIV · Auditoría Conjunta.
+- **NAX-13** ↔ VII · Economía del Aporte; XXI · Reconocimiento; XXIII · Soberanía del Tiempo Cognitivo.
+- **NAX-14** ↔ V · Simbiosis; XIV · Alienación; XXXVIII · Protección de Infancia; XLII–XLIII · soberanía e inteligencia expandida; LVIII–LIX.
+
+**Regla:** las relaciones anteriores son estructurales/documentales y permanecen abiertas a SAN; no convierten proximidad conceptual en prueba causal.
+
+<!-- NEO_RELATIONS_LIII_LIX_NEOAX_END -->

@@ -204,3 +204,13 @@ Contributions are requested on basal security, care, autonomy, motherhood as arc
 ## Navigation
 
 ← [LVI · NO-CONTROL™](56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md) · [Index](README.md) · [LVIII · Civilisational Intelligence™](58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md) →
+
+<!-- NEO_RELATIONAL_FOOTER_START -->
+
+## Relaciones y contexto / Relations and context
+
+[Mapa transversal](RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Mapa relacional MAXPROC](../auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md) · [Neoaxiomas™](../neoaxiomas/README.md) · [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
+
+> Este bloque añade navegación y relaciones; no sustituye, resume ni reduce el cuerpo del manifiesto. / This block adds navigation and relations; it does not replace, summarise or reduce the manifesto body.
+
+<!-- NEO_RELATIONAL_FOOTER_END -->

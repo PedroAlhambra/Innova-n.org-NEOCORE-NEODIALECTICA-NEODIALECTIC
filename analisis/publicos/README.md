@@ -56,6 +56,14 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 **[Abrir Neoaxiomas™ / Open Neoaxioms™](../../neoaxiomas/README.md)** · **[Síntesis Abierta Neoaxiomas™ / Neoaxioms Open Synthesis](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)** · **[Protocolo / Protocol](../../propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md)**
 
 <!-- NEOAXIOMAS_GLOBAL_LINK_END -->
+
+<!-- NEO_RELATIONAL_MENU_START -->
+
+### Mapa relacional vivo / Living relational map
+
+[Manifiestos / Manifestos](../../manifiestos/README.md) · [Relaciones y trabajo aplicado / Relations and applied work](../../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Neoaxiomas™](../../neoaxiomas/README.md) · [Síntesis Abierta / Open Synthesis](../../propuestas/sintesis-abierta/README.md) · [Auditoría relacional MAXPROC / MAXPROC relational audit](../../auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md)
+
+<!-- NEO_RELATIONAL_MENU_END -->
 <!-- MANIFESTOS_CURRENT_START -->
 
 **Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LIX · 59 manifiestos bilingües / 59 bilingual manifestos** · [índice canónico / canonical index](../../manifiestos/README.md)
