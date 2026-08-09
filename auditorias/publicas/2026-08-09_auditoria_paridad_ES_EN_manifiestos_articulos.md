@@ -12,7 +12,7 @@
 - Es un detector: cada caso marcado requiere lectura humana antes de corregir.
 
 **Documentos bilingües examinados:** 78  
-**Marcados para revisión:** 21  
+**Marcados para revisión:** 20  
 **Con marcador incompleto/ausente:** 0
 
 ## Casos marcados
@@ -37,7 +37,6 @@
 | `analisis/publicos/2026-08-08_distrokid_ticket_4499471_respuesta_no_resolutiva_y_reiteracion_auditoria_ES_EN.md` | 754 | 552 | 0.73 | 8 | 8 | EN/ES palabras=0.73 |
 | `analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md` | 1721 | 338 | 0.20 | 21 | 8 | EN/ES palabras=0.20; encabezados ES=21, EN=8 |
 | `analisis/publicos/2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md` | 1245 | 351 | 0.28 | 14 | 6 | EN/ES palabras=0.28; encabezados ES=14, EN=6 |
-| `analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md` | 1070 | 575 | 0.54 | 11 | 4 | EN/ES palabras=0.54; encabezados ES=11, EN=4 |
 | `analisis/publicos/2026-08-09_guerra_fundador_contra_idiotez_devolucion_tiempo_bien_comun_ES_EN.md` | 1144 | 716 | 0.63 | 12 | 11 | EN/ES palabras=0.63 |
 | `analisis/publicos/2026-08-09_prueba_operativa_minima_revision_ia_escalable_ES_EN.md` | 555 | 249 | 0.45 | 8 | 6 | EN/ES palabras=0.45 |
 
@@ -119,7 +118,7 @@
 | `analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md` | 1721 | 338 | 0.20 | 21 | 8 | REVISAR |
 | `analisis/publicos/2026-08-08_techno_bach_record_semanal_apple_music_ES_EN.md` | 335 | 289 | 0.86 | 5 | 5 | OK |
 | `analisis/publicos/2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md` | 1245 | 351 | 0.28 | 14 | 6 | REVISAR |
-| `analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md` | 1070 | 575 | 0.54 | 11 | 4 | REVISAR |
+| `analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md` | 1070 | 1202 | 1.12 | 11 | 12 | OK |
 | `analisis/publicos/2026-08-09_guerra_fundador_contra_idiotez_devolucion_tiempo_bien_comun_ES_EN.md` | 1144 | 716 | 0.63 | 12 | 11 | REVISAR |
 | `analisis/publicos/2026-08-09_prueba_operativa_minima_revision_ia_escalable_ES_EN.md` | 555 | 249 | 0.45 | 8 | 6 | REVISAR |
 | `analisis/publicos/2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md` | 433 | 482 | 1.11 | 6 | 7 | OK |
