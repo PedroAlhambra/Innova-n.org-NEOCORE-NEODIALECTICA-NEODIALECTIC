@@ -12,7 +12,7 @@
 - Se marca **REVISAR** si EN tiene menos del 78% de palabras de ES, más del 155%, o pierde de forma importante la estructura de encabezados.
 - Es un detector: cada caso marcado requiere lectura humana antes de corregir.
 
-**Documentos bilingües examinados:** 81  
+**Documentos bilingües examinados:** 82  
 **Marcados para revisión:** 17  
 **Con marcador incompleto/ausente:** 0
 
@@ -102,6 +102,7 @@
 | `manifiestos/57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md` | 584 | 574 | 0.98 | 10 | 10 | OK |
 | `manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md` | 709 | 688 | 0.97 | 13 | 13 | OK |
 | `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md` | 631 | 640 | 1.01 | 13 | 13 | OK |
+| `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` | 357 | 355 | 0.99 | 1 | 1 | OK |
 | `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` | 3237 | 3440 | 1.06 | 29 | 30 | OK |
 | `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` | 621 | 912 | 1.47 | 6 | 7 | OK |
 | `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` | 1285 | 1569 | 1.22 | 12 | 14 | OK |
