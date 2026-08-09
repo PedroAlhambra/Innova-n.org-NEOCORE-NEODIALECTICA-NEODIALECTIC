@@ -254,9 +254,7 @@ Contributions are requested on cognitive custodianship, plurality of AI, technol
 ## Navegación canónica / Canonical navigation
 
 ← **LVIII** · [Inteligencia Civilizatoria™ · Democracia Cognitiva y Deber de Síntesis / Civilisational Intelligence™ · Cognitive Democracy and Duty of Synthesis](58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md)  
-· [Índice I–LIX / I–LIX index](README.md) · [Síntesis Abierta / Open Synthesis](../propuestas/sintesis-abierta/README.md) · [Neoaxiomas™](../neoaxiomas/README.md) ·  
+· [Índice I–LIX / I–LIX index](README.md) ·  
 **Fin provisional de la colección / Provisional end of collection** →
-
-> Este bloque es navegación aditiva. No sustituye ni resume el cuerpo del manifiesto. / This is an additive navigation block. It does not replace or summarise the manifesto body.
 
 <!-- NEO_MANIFESTO_NAV_END -->
