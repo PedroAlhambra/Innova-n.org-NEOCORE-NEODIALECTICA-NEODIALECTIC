@@ -178,19 +178,19 @@ IMPLEMENTACIÓN INTERNA COMPLETA
 
 No todo mecanismo operativo debe publicarse por el hecho de que el marco sea abierto a crítica.
 
-## 11. Código de Sión
+## 11. Manifiestos reservados futuros
 
-**No se publica ni se describe aquí ningún contenido del denominado Código de Sión mientras permanezca reservado.**
+**Los manifiestos que todavía permanezcan reservados no se nombran, describen ni reconstruyen anticipadamente en la capa pública.**
 
-La infraestructura queda preparada para que, cuando exista decisión expresa de publicación, ese manifiesto pueda:
+La infraestructura queda preparada para que, cuando exista decisión expresa de publicación, cualquier manifiesto reservado pueda:
 
 1. incorporarse al índice canónico;
 2. recibir Issue de Síntesis Abierta;
 3. entrar en navegación automática;
 4. declarar sus relaciones genealógicas;
-5. redirigir de forma expresa al nodo canónico de **IDEA** cuando corresponda.
+5. enlazar o redirigir a nodos previos como **IDEA** cuando corresponda.
 
-Reserva no equivale a inexistencia; publicación futura no autoriza reconstrucción anticipada de su contenido.
+Reserva no equivale a inexistencia; publicación futura no autoriza reconstrucción anticipada de contenido.
 
 ## 12. Dictamen MAXPROC
 
@@ -330,11 +330,11 @@ PUBLIC LAYER NEEDED TO UNDERSTAND AND CONTRIBUTE
 COMPLETE INTERNAL IMPLEMENTATION
 ```
 
-## 11. Code of Zion
+## 11. Future reserved manifestos
 
-**No content of the reserved Code of Zion is published or reconstructed here.**
+**Manifestos that remain reserved are not named, described or reconstructed in advance in the public layer.**
 
-The infrastructure is prepared so that, when publication is explicitly authorised, the manifesto can enter the canonical index, Open Synthesis, automatic navigation, genealogical relations and an explicit redirect to the canonical **IDEA** node where appropriate.
+The infrastructure is prepared so that, when publication is explicitly authorised, a reserved manifesto can enter the canonical index, Open Synthesis, automatic navigation, genealogical relations and links or redirects to previous nodes such as **IDEA** where appropriate.
 
 ## 12. MAXPROC ruling
 
