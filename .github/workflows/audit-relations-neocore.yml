@@ -1,0 +1,39 @@
+name: audit-relations-neocore
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/scripts/audit_relations_neocore.py'
+      - '.github/workflows/audit-relations-neocore.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: neocore-relational-audit-main
+  cancel-in-progress: false
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Run non-reductive relational audit
+        run: python .github/scripts/audit_relations_neocore.py
+      - name: Commit audit outputs
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones.json
+          if git diff --cached --quiet; then
+            echo 'No audit changes required.'
+            exit 0
+          fi
+          git commit -m 'audit: barrida relacional manifiestos neoaxiomas publicaciones'
+          git pull --rebase origin main
+          git push origin main
