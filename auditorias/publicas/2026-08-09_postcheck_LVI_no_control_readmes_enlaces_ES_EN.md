@@ -5,12 +5,12 @@
 
 ## ES · Resultado
 
-- Archivos Markdown revisados: **211**.
+- Archivos Markdown revisados: **212**.
 - README/LEEME revisados: **15**.
-- Enlaces internos de ruta comprobados: **4659**.
+- Enlaces internos de ruta comprobados: **4665**.
 - Alias internos de GitHub Wiki reconocidos: **11**.
 - Enlaces externos inventariados sin comprobar disponibilidad remota: **977**.
-- Enlaces sólo a ancla detectados: **218**.
+- Enlaces sólo a ancla detectados: **220**.
 - Bloques de último manifiesto encontrados en README/LEEME: **13**.
 - Manifiestos canónicos detectados: **56 · I–LVI**.
 - Enlaces internos rotos detectados: **2**.
@@ -27,14 +27,14 @@
 
 | Origen | Destino | Motivo |
 |---|---|---|
-| `manifiestos/57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md` | `58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md` | destino inexistente / missing target |
-| `manifiestos/57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md` | `58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md` | `59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md` | `59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md` | destino inexistente / missing target |
 
 ## EN · Result
 
-- Markdown files reviewed: **211**.
+- Markdown files reviewed: **212**.
 - README/LEEME files reviewed: **15**.
-- Internal path links checked: **4659**.
+- Internal path links checked: **4665**.
 - GitHub Wiki extensionless page aliases recognised: **11**.
 - Broken internal links found: **2**.
 - Canonical critical failures: **0**.
