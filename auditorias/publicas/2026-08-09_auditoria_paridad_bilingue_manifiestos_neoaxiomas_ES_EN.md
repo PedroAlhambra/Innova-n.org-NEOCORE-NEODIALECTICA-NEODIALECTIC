@@ -3,21 +3,13 @@
 
 **Manifiestos examinados / Manifestos:** 59  
 **Neoaxiomas / Neoaxioms:** 14  
-**Regla:** la longitud es sólo señal de auditoría; nunca autoriza resumir ni borrar. La reparación, cuando proceda, amplía el idioma reducido desde la fuente completa. / **Rule:** length is only an audit signal; it never authorises summarising or deletion. Repair, where needed, expands the reduced language from the complete source.
+**Regla:** la longitud es sólo señal de auditoría; nunca autoriza resumir ni borrar. Todos los bloques gestionados de navegación, relaciones, menús e índices quedan fuera del recuento. La reparación, cuando proceda, amplía el idioma reducido desde la fuente completa. / **Rule:** length is only an audit signal; it never authorises summarising or deletion. All managed navigation, relation, menu and index blocks are excluded. Repair, where needed, expands the reduced language from the complete source.
 
 ## Manifiestos con asimetría fuerte / Strong manifesto asymmetry
 
 | Nº | ES | EN | EN/ES | Archivo |
 |---:|---:|---:|---:|---|
-| I | 958 | 1335 | 1.394 | `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` |
-| IV | 652 | 980 | 1.503 | `manifiestos/02_neodialectica_bien_comun_ES_EN.md` |
-| VI | 1050 | 1664 | 1.585 | `manifiestos/09_parasitismo_sistemico_ES_EN.md` |
-| VII | 652 | 1231 | 1.888 | `manifiestos/04_economia_del_aporte_ES_EN.md` |
-| VIII | 597 | 984 | 1.648 | `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` |
-| IX | 549 | 1152 | 2.098 | `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` |
-| XXVIII | 913 | 1521 | 1.666 | `manifiestos/28_los_tesla_ES_EN.md` |
-| XXIX | 1028 | 1470 | 1.43 | `manifiestos/29_idolatria_del_dinero_ES_EN.md` |
-| XXXI | 1120 | 1613 | 1.44 | `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` |
+| — | — | — | — | Ninguno / None |
 
 ## Neoaxiomas / Neoaxioms
 
@@ -36,7 +28,7 @@
 | NAX-11 | 93 | 83 | 0.892 | OK |
 | NAX-12 | 265 | 257 | 0.97 | OK |
 | NAX-13 | 217 | 203 | 0.935 | OK |
-| NAX-14 | 581 | 266 | 0.458 | REVISAR / REVIEW |
+| NAX-14 | 181 | 171 | 0.945 | OK |
 
 ## Regla de conservación
 
