@@ -3,10 +3,10 @@ from urllib.parse import unquote
 import re
 
 root = Path('.').resolve()
+# Historical filename retained so existing links remain valid; report title is now corpus-generic.
 report = root / 'auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md'
 manifest_index = root / 'manifiestos/README.md'
 synth_index = root / 'propuestas/sintesis-abierta/README.md'
-latest = root / 'manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md'
 
 markdown_files = sorted(p for p in root.rglob('*.md') if '.git' not in p.parts)
 readmes = sorted(p for p in markdown_files if p.name.startswith('README'))
@@ -49,33 +49,43 @@ for f in markdown_files:
             broken.append((f.relative_to(root).as_posix(), target, 'fuera del repositorio / outside repository'))
             continue
         if not p.exists():
-            # GitHub Wiki accepts extensionless page links such as (Home) or (Manifiestos).
             wiki_candidate = p.with_suffix('.md') if f.parent.name == 'wiki-source' and not Path(clean).suffix else None
             if wiki_candidate and wiki_candidate.exists():
                 wiki_aliases += 1
                 continue
             broken.append((f.relative_to(root).as_posix(), target, 'destino inexistente / missing target'))
 
+# Canonical collection is the explicit ordered list in manifiestos/README.md.
 idx = manifest_index.read_text(encoding='utf-8')
-net = re.search(r'<!-- NEO_ALL_MANIFESTOS_START -->(.*?)<!-- NEO_ALL_MANIFESTOS_END -->', idx, re.S)
-canonical = []
-if net:
-    seen=set()
-    for roman, href in re.findall(r'- \*\*([IVXLCDM]+)\*\* · \[[^\]]+\]\(([^)]+\.md)\)', net.group(1)):
-        p=(manifest_index.parent/href).resolve()
-        if p not in seen:
-            seen.add(p); canonical.append((roman,p))
+canonical=[]; seen=set()
+for roman, href in re.findall(r'^- \*\*([IVXLCDM]+)\*\* · \[[^\]]+\]\(([^)]+\.md)\)', idx, re.M):
+    p=(manifest_index.parent/href).resolve()
+    if p.exists() and p not in seen:
+        seen.add(p); canonical.append((roman,p))
 
 critical=[]
-if len(canonical)!=56 or not canonical or canonical[-1][0] != 'LVI':
-    critical.append(f'Colección canónica inesperada: {len(canonical)} manifiestos; último={canonical[-1][0] if canonical else "ninguno"}.')
-if not latest.exists():
-    critical.append('Falta el manifiesto LVI.')
+latest_roman=canonical[-1][0] if canonical else None
+latest=canonical[-1][1] if canonical else None
+count=len(canonical)
+issue_num=None
+if latest:
+    lt=latest.read_text(encoding='utf-8',errors='replace')
+    ims=re.findall(r'https://github\.com/PedroAlhambra/Innova-n\.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/(\d+)',lt)
+    issue_num=ims[0] if ims else None
+
+if not canonical:
+    critical.append('No se pudo reconstruir la colección canónica desde el índice.')
+if latest and not latest.exists():
+    critical.append(f'Falta el último manifiesto {latest_roman}.')
+
 ss=synth_index.read_text(encoding='utf-8')
-if '## Índice canónico · I–LVI' not in ss:
-    critical.append('El índice de Síntesis Abierta no declara I–LVI.')
-if latest.name not in ss or 'issues/76' not in ss:
-    critical.append('La Síntesis Abierta no enlaza correctamente LVI / Issue #76.')
+if canonical:
+    if f'I–{latest_roman}' not in ss:
+        critical.append(f'El índice de Síntesis Abierta no declara I–{latest_roman}.')
+    if latest.name not in ss:
+        critical.append(f'La Síntesis Abierta no enlaza el último manifiesto {latest_roman}.')
+    if issue_num and f'issues/{issue_num}' not in ss:
+        critical.append(f'La Síntesis Abierta no enlaza el Issue #{issue_num} del último manifiesto {latest_roman}.')
 
 latest_markers=0
 latest_bad=[]
@@ -84,14 +94,16 @@ for f in readmes:
     if '<!-- NEO_LATEST_MANIFESTO_START -->' in text:
         latest_markers += 1
         m=re.search(r'<!-- NEO_LATEST_MANIFESTO_START -->(.*?)<!-- NEO_LATEST_MANIFESTO_END -->',text,re.S)
-        if not m or 'LVI' not in m.group(1) or 'issues/76' not in m.group(1):
+        body=m.group(1) if m else ''
+        if not m or (latest_roman and latest_roman not in body) or (issue_num and f'issues/{issue_num}' not in body):
             latest_bad.append(f.relative_to(root).as_posix())
 if latest_bad:
     critical.append('README con bloque latest desincronizado: '+', '.join(latest_bad))
 
 status = 'OK' if not broken and not critical else 'REQUIERE CORRECCIÓN / NEEDS CORRECTION'
+latest_desc=f'{latest_roman} / #{issue_num}' if latest_roman and issue_num else (latest_roman or '?')
 lines = [
-    '# Postcheck LVI · NO-CONTROL™ · README, índices y enlaces / README, indices and links',
+    '# Postcheck dinámico · README, índices y enlaces / Dynamic README, indices and links postcheck',
     '',
     '**Fecha / Date:** 2026-08-09  ',
     f'**Estado / Status:** **{status}**',
@@ -105,16 +117,17 @@ lines = [
     f'- Enlaces externos inventariados sin comprobar disponibilidad remota: **{external_seen}**.',
     f'- Enlaces sólo a ancla detectados: **{anchor_only}**.',
     f'- Bloques de último manifiesto encontrados en README/LEEME: **{latest_markers}**.',
-    f'- Manifiestos canónicos detectados: **{len(canonical)} · I–{canonical[-1][0] if canonical else "?"}**.',
+    f'- Manifiestos canónicos detectados: **{count} · I–{latest_roman or "?"}**.',
+    f'- Último manifiesto / Síntesis: **{latest_desc}**.',
     f'- Enlaces internos rotos detectados: **{len(broken)}**.',
     f'- Fallos canónicos críticos: **{len(critical)}**.',
     '',
     '### Comprobaciones canónicas',
     '',
-    '- LVI debe ser el último manifiesto canónico.',
-    '- La colección debe declarar 56 manifiestos I–LVI.',
-    '- Síntesis Abierta debe enlazar LVI y el Issue #76.',
-    '- Los README con bloque `NEO_LATEST_MANIFESTO` deben apuntar a LVI / #76.',
+    '- La colección se reconstruye dinámicamente desde `manifiestos/README.md`; no se fija un número histórico en el auditor.',
+    '- Síntesis Abierta debe enlazar el último manifiesto y su Issue específico.',
+    '- Los README con bloque `NEO_LATEST_MANIFESTO` deben apuntar al último manifiesto y su Síntesis.',
+    '- La auditoría de rutas no sustituye la comprobación remota de URLs externas ni la validación semántica de anclas renderizadas.',
     '',
 ]
 if critical:
@@ -134,13 +147,15 @@ lines += [
     f'- README/LEEME files reviewed: **{len(readmes)}**.',
     f'- Internal path links checked: **{internal_checked}**.',
     f'- GitHub Wiki extensionless page aliases recognised: **{wiki_aliases}**.',
+    f'- Canonical manifestos detected: **{count} · I–{latest_roman or "?"}**.',
+    f'- Latest manifesto / synthesis: **{latest_desc}**.',
     f'- Broken internal links found: **{len(broken)}**.',
     f'- Canonical critical failures: **{len(critical)}**.',
     '',
-    'External URL availability and rendered GitHub anchor semantics are not asserted by this local-path validator.',
+    'The canonical collection is derived dynamically from the current manifesto index; the auditor no longer hard-codes a historical endpoint.',
     '',
     '**Innova_N · NEOCore™ · Neodialectica Framework™ / Network**',
 ]
 report.write_text('\n'.join(lines)+'\n',encoding='utf-8')
 print(f'POSTCHECK_STATUS={status}')
-print(f'MARKDOWN_FILES={len(markdown_files)} README_LEEME={len(readmes)} INTERNAL_LINKS={internal_checked} WIKI_ALIASES={wiki_aliases} BROKEN={len(broken)} CRITICAL={len(critical)}')
+print(f'MARKDOWN_FILES={len(markdown_files)} README_LEEME={len(readmes)} CANONICAL={count} LATEST={latest_roman} ISSUE={issue_num} INTERNAL_LINKS={internal_checked} WIKI_ALIASES={wiki_aliases} BROKEN={len(broken)} CRITICAL={len(critical)}')
