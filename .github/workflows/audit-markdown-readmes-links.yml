@@ -1,4 +1,4 @@
-# temporary integration runner: 2026-08-09T22:24+02:00
+# temporary integration runner: 2026-08-09T22:29+02:00
 name: audit-markdown-readmes-links
 
 on:
@@ -17,7 +17,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: neocore-document-sync-main
+  group: nax10-lx-integration-temporary
   cancel-in-progress: false
 
 jobs:
