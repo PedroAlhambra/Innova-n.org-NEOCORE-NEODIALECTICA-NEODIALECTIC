@@ -1,4 +1,4 @@
-# temporary diagnostic 2: 2026-08-09T22:34+02:00
+# temporary integration runner: 2026-08-09T22:39+02:00
 name: audit-markdown-readmes-links
 
 on:
@@ -17,7 +17,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: nax10-lx-diagnostic-2
+  group: nax10-lx-integration-final
   cancel-in-progress: false
 
 jobs:
@@ -27,32 +27,19 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Diagnose corrected additive integration without retaining partial changes
-        run: |
-          set +e
-          python .github/scripts/fix_apply_wave_syn_index.py > /tmp/nax10_lx.log 2>&1
-          fixcode=$?
-          python .github/scripts/apply_wave_human_relevance_symbols.py >> /tmp/nax10_lx.log 2>&1
-          applycode=$?
-          python .github/scripts/patch_postcheck_for_lx.py >> /tmp/nax10_lx.log 2>&1
-          patchcode=$?
-          git reset --hard HEAD
-          {
-            echo "# Diagnóstico temporal NAX-10 / LX · segunda pasada"
-            echo
-            echo "FIX_EXIT=$fixcode"
-            echo "APPLY_EXIT=$applycode"
-            echo "PATCH_EXIT=$patchcode"
-            echo '```text'
-            cat /tmp/nax10_lx.log
-            echo '```'
-          } > auditorias/publicas/2026-08-09_debug_integracion_nax10_lx.md
-      - name: Commit diagnostic
+      - name: Fix single-table SAN compatibility
+        run: python .github/scripts/fix_apply_wave_syn_index.py
+      - name: Apply additive NAX-10 / LX integration
+        run: python .github/scripts/apply_wave_human_relevance_symbols.py
+      - name: Patch postcheck for I-LX
+        run: python .github/scripts/patch_postcheck_for_lx.py
+      - name: Commit integration
         run: |
           set -euo pipefail
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add auditorias/publicas/2026-08-09_debug_integracion_nax10_lx.md
-          git commit -m 'audit: diagnosticar segunda pasada NAX-10 LX' || exit 0
+          git add -A
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'docs: integrar NAX-10 León, Bandera de Síntesis y LX'
           git pull --rebase origin main
           git push origin main
