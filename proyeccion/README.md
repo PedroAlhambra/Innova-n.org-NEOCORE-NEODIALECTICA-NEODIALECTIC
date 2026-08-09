@@ -1,3 +1,11 @@
+
+## Respuestas externas relevantes · 2026-08-09 / Relevant external responses
+
+- [Smil + Winograd · deltas incorporados a Síntesis Abierta](../analisis/publicos/2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md)
+- **Novum (Dinamarca):** presentación de IDEA enviada; actualización de estado canónico comunicada.
+- **Boekrecensiesblog (Países Bajos):** ejemplar físico acordado; envío directo por Amazon.
+- **deutsche-science-fiction.de:** EPUB acordado tras finalizar KDP Select.
+
 # Proyección y difusión trazable
 
 <!-- NEO_LATEST_MANIFESTO_START -->

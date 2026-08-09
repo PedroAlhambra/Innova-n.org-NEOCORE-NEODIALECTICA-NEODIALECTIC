@@ -2,6 +2,12 @@
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
+## Actualización 2026-08-09 · crítica externa / External criticism
+
+- [Václav Smil + Terry Winograd · deltas sobre integración, poder e incentivos](./2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md)
+- [MAXPROC 001 · Leónidas-Cancerbero™](./2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md)
+
+
 
 
 <!-- NEO_SYSTEMIC_NEED_DELTA_START -->

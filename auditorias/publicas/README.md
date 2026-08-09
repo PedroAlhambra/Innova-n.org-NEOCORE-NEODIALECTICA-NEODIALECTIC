@@ -1,3 +1,9 @@
+
+## Actualización 2026-08-09 · DistroKid / Spotify
+
+- [Ticket 4499471 · auditoría de royalty routing y catálogo](./2026-08-09_distrokid_ticket_4499471_royalty_routing_ES_EN.md)
+- [MAXPROC 001 · Leónidas-Cancerbero™](../../analisis/publicos/2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md)
+
 # Auditorías Públicas · Leónidas™
 
 <!-- NEO_LATEST_MANIFESTO_START -->
