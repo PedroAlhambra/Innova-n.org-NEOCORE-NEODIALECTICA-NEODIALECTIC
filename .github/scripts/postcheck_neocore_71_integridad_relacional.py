@@ -48,8 +48,8 @@ for roman,title,p in mans:
     t=read(p)
     if t.count('<!-- NEO_RELATIONAL_FOOTER_START -->')!=1 or t.count('<!-- NEO_RELATIONAL_FOOTER_END -->')!=1:bad_footer.append(roman)
     if t.count('<!-- NEO_MANIFESTO_NAV_START -->')!=1 or t.count('<!-- NEO_MANIFESTO_NAV_END -->')!=1:bad_nav.append(roman)
-ok('59/59 manifiestos tienen pie relacional',not bad_footer,', '.join(bad_footer))
-ok('59/59 manifiestos tienen navegación canónica',not bad_nav,', '.join(bad_nav))
+ok('60/60 manifiestos tienen pie relacional',not bad_footer,', '.join(bad_footer))
+ok('60/60 manifiestos tienen navegación canónica',not bad_nav,', '.join(bad_nav))
 
 # 3. Neoaxioms + dedicated synthesis.
 nt=read(NEO)
@@ -57,13 +57,12 @@ bad_count=[];bad_issue=[]
 for ident,num in ISSUES.items():
     if nt.count('## '+ident+' ·')!=2:bad_count.append(f'{ident}:{nt.count("## "+ident+" ·")}')
     url=f'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/{num}'
-    # Both ES and EN plus index can repeat it; require >=2 so both language bodies expose it.
     if nt.count(url)<2 or nt.count('issues/80')<14:bad_issue.append(ident)
 ok('NAX-01..14 existen en ES y EN',not bad_count,', '.join(bad_count))
 ok('NAX-01..14 enlazan sus Síntesis específicas #84–#97',not bad_issue,', '.join(bad_issue))
-# NAX-14 should occur once inside the ES relation tree, not as duplicated branch.
 m=re.search(r'## 1\. Relación entre los Neoaxiomas vigentes\n\n```text\n(.*?)```',nt,re.S)
 ok('Topología NAX no duplica NAX-14',bool(m) and m.group(1).count('NAX-14')==1,str(m.group(1).count('NAX-14') if m else 'árbol no localizado'))
+ok('NAX-10 incorpora León y Bandera de Síntesis','León™' in nt and 'Bandera de la Humanidad en Síntesis™' in nt,'')
 ok('NAX-12 contiene salvaguarda ISO/regulatoria','requisito ISO' in nt and 'ISO requirement' in nt,'')
 ok('Regla no reductiva está fijada en Neoaxiomas','Regla heredada de integridad no reductiva' in nt and 'Inherited non-reductive integrity rule' in nt,'')
 
@@ -78,7 +77,7 @@ ok('Mapa relacional declara I–LX / 60','**Cobertura / Coverage:** I–LX · 60
 missing_rel_files=[]
 for _,_,p in mans:
     if p.name not in relt:missing_rel_files.append(p.name)
-ok('Mapa relacional referencia 59/59 archivos canónicos',not missing_rel_files,', '.join(missing_rel_files))
+ok('Mapa relacional referencia 60/60 archivos canónicos',not missing_rel_files,', '.join(missing_rel_files))
 
 # 6. Audit ledgers.
 def loadj(p):
@@ -96,13 +95,9 @@ ok('Auditoría histórica: 0 regresiones fuertes',hj.get('strong_regressions',[]
 
 # 7. No temporary/staging mutation machinery from this wave.
 temporary=[
-'neoaxiomas/NAX-12_14_PROPUESTA_TEMPORAL_ES_EN.md','neoaxiomas/SINTESIS_LINKS_PENDING.md','neoaxiomas/README_SYNTHESIS_PLAN.md','neoaxiomas/.keep',
-'.github/scripts/repair_neoaxioms_bilingual_fulltext.py','.github/workflows/repair-neoaxioms-bilingual-fulltext.yml',
-'.github/scripts/repair_relation_map_coverage.py','.github/workflows/repair-relation-map-coverage.yml',
-'.github/scripts/cleanup_neocore_relational_layer.py','.github/workflows/cleanup-neocore-relational-layer.yml',
-'.github/scripts/sync_neoaxioms_relational_layer.py','.github/workflows/sync-neoaxioms-relational-layer.yml']
+'neoaxiomas/NAX-12_14_PROPUESTA_TEMPORAL_ES_EN.md','neoaxiomas/SINTESIS_LINKS_PENDING.md','neoaxiomas/README_SYNTHESIS_PLAN.md','neoaxiomas/.keep']
 left=[x for x in temporary if (ROOT/x).exists()]
-ok('Sin staging/repair one-shots de esta integración',not left,', '.join(left))
+ok('Sin staging neoaxiomático heredado',not left,', '.join(left))
 
 # 8. Current audit files present.
 expected=[RELJSON,PARJSON,HISTJSON,ROOT/'auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md',ROOT/'auditorias/publicas/2026-08-09_auditoria_paridad_bilingue_manifiestos_neoaxiomas_ES_EN.md',ROOT/'auditorias/publicas/2026-08-09_auditoria_regresiones_historicas_manifiestos_ES_EN.md']
@@ -121,8 +116,7 @@ for label,detail in FAIL:lines.append(f'- ❌ **{label}**'+(f' — {detail}' if 
 lines+=['','## Advertencias que no bloquean / Non-blocking warnings','']
 for label,detail in WARN:lines.append(f'- ⚠️ **{label}:** {detail}')
 lines+=['','## Alcance del dictamen','',
-'Este postcheck certifica únicamente la coherencia documental y mecánica comprobada por el repositorio: versión, navegación, enlaces gestionados, cobertura relacional explícita, síntesis específicas, paridad cuantitativa ES/EN e historial sin regresiones fuertes. **No afirma que se hayan descubierto todas las relaciones semánticas posibles ni que los textos no puedan crecer mediante nuevas fuentes o Síntesis Abierta.**',
-'',
+'Este postcheck certifica únicamente la coherencia documental y mecánica comprobada por el repositorio: versión, navegación, enlaces gestionados, cobertura relacional explícita, síntesis específicas, paridad cuantitativa ES/EN e historial sin regresiones fuertes. **No afirma que se hayan descubierto todas las relaciones semánticas posibles ni que los textos no puedan crecer mediante nuevas fuentes o Síntesis Abierta.**','',
 'This postcheck certifies only the repository-level documentary and mechanical consistency actually checked: version, navigation, managed links, explicit relational coverage, dedicated syntheses, quantitative ES/EN parity and history without strong regressions. **It does not claim that every possible semantic relation has been discovered or that texts cannot grow through new sources or Open Synthesis.**','',
 '## Regla de continuidad','',
 'La evolución posterior debe ser aditiva y trazable por defecto: **no resumir ni sustituir cuerpos fuente**, ampliar mediante delta cuando aparezca nuevo material, conservar genealogía y tratar imágenes como capa ilustrativa adicional.','']
