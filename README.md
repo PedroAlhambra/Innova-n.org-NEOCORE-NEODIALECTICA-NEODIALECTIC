@@ -32,12 +32,12 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 ## 🔴 Actualidad / Latest
 
-### LIX · Custodia Cognitiva Distribuida™
-### LIX · Distributed Cognitive Custodianship™
+### LX · Relevancia Humana Necesaria™
+### LX · Necessary Human Relevance™
 
-IA, reparación, pluralidad, trazabilidad, duda y responsabilidad humana sin crear un nuevo monopolio del control. / AI, repair, plurality, traceability, doubt and human responsibility without creating a new monopoly of control.
+Inteligencia distribuida con potencia humana suficiente, separación entre visibilidad y aporte, cooperación frente a competición de estatus y simbiosis con IA sin nueva aristocracia cognitiva. / Distributed intelligence with sufficient human capacity, separation of visibility from contribution, cooperation over status competition and AI symbiosis without a new cognitive aristocracy.
 
-**[Leer LIX / Read LIX](./manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md)** · **[Síntesis Abierta #79 / Open Synthesis #79](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/79)**
+**[Leer LX / Read LX](./manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md)** · **[Síntesis Abierta #99 / Open Synthesis #99](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/99)** · **[Síntesis Abierta #79 / Open Synthesis #79](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/79)**
 
 ### Umbral-X™ · MAXPROC 001 · Leónidas-Cancerbero™
 

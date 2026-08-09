@@ -28,12 +28,12 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 > ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LIX · Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana**  
-> **LIX · Distributed Cognitive Custodianship™ · AI, Repair and Human Responsibility**
+> **LX · Relevancia Humana Necesaria™ · Inteligencia Distribuida, Aporte y Anti-Captura Social**  
+> **LX · Necessary Human Relevance™ · Distributed Intelligence, Contribution and Anti-Capture**
 >
-> **[Leer LIX / Read LIX](59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md) · [Síntesis Abierta LIX · #79 / Open Synthesis LIX · #79](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/79)**
+> **[Leer LX / Read LX](60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md) · [Síntesis Abierta LX · #99 / Open Synthesis LX · #99](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/99)**
 
-**Estado en este commit / State at this commit:** **59 manifiestos bilingües · I–LIX · 24 oleadas / 59 bilingual manifestos · I–LIX · 24 waves**  
+**Estado en este commit / State at this commit:** **60 manifiestos bilingües · I–LX · 24 oleadas / 60 bilingual manifestos · I–LX · 24 waves**  
 **Fecha / Date:** 2026-08-09
 
 ## Dos puertas principales / Two main doors
@@ -110,6 +110,7 @@ Cada manifiesto dispone de un espacio público de contraste. / Each manifesto ha
 - **LVII** · [Madre, Refugio y Retorno Consciente™ / Mother, Refuge and Conscious Return™](57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md)
 - **LVIII** · [Inteligencia Civilizatoria™ · Democracia Cognitiva y Deber de Síntesis / Civilisational Intelligence™ · Cognitive Democracy and Duty of Synthesis](58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md)
 - **LIX** · [Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana / Distributed Cognitive Custodianship™ · AI, Repair and Human Responsibility](59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md)
+- **LX** · [Relevancia Humana Necesaria™ · Inteligencia Distribuida, Aporte y Anti-Captura Social / Necessary Human Relevance™ · Distributed Intelligence, Contribution and Anti-Capture](60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md)
 
 > Ningún manifiesto equivale por sí solo al marco completo. / No single manifesto equals the complete framework.
 
@@ -117,5 +118,5 @@ Cada manifiesto dispone de un espacio público de contraste. / Each manifesto ha
 
 Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. / You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta.
 
-**Última síntesis / Latest synthesis:** [LIX · Custodia Cognitiva Distribuida™](59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md) · [Issue #79](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/79)  
+**Última síntesis / Latest synthesis:** [LX · Relevancia Humana Necesaria™](60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md) · [Issue #99](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/99)  
 **Cómo aportar / How to contribute:** [protocolo general / general protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../auditorias/publicas/README.md) · [índice / index](../propuestas/sintesis-abierta/README.md)

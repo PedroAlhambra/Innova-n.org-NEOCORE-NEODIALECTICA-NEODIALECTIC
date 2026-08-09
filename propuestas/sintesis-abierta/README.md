@@ -161,6 +161,7 @@ COMMIT = FIJACIÓN Y DELTA CANÓNICO / CANONICAL FIXATION AND DELTA
 | LVII | [Madre, Refugio y Retorno Consciente™](../../manifiestos/57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md) | [#77](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/77) |
 | LVIII | [Inteligencia Civilizatoria™](../../manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md) | [#78](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/78) |
 | LIX | [Custodia Cognitiva Distribuida™](../../manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md) | [#79](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/79) |
+| LX | [Relevancia Humana Necesaria™](../../manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md) | [#99](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/99) |
 
 ## Auditorías y síntesis no limitadas a un manifiesto
 

@@ -42,7 +42,7 @@ idx=read(MIDX); mans=[];seen=set()
 for roman,title,href in re.findall(r'^- \*\*([IVXLCDM]+)\*\* · \[([^\]]+)\]\(([^)]+\.md)\)',idx,re.M):
     p=(MIDX.parent/href).resolve()
     if p.exists() and p not in seen:seen.add(p);mans.append((roman,title,p))
-ok('Corpus canónico I–LIX = 59 manifiestos',len(mans)==59 and mans[0][0]=='I' and mans[-1][0]=='LIX',f'{len(mans)} · {mans[0][0] if mans else "?"}–{mans[-1][0] if mans else "?"}')
+ok('Corpus canónico I–LX = 60 manifiestos',len(mans)==60 and mans[0][0]=='I' and mans[-1][0]=='LX',f'{len(mans)} · {mans[0][0] if mans else "?"}–{mans[-1][0] if mans else "?"}')
 bad_footer=[];bad_nav=[]
 for roman,title,p in mans:
     t=read(p)
@@ -74,7 +74,7 @@ ok('README raíz EN expone Neoaxioms y living relational map','| **Neoaxioms™*
 
 # 5. Curated relation map explicit coverage.
 relt=read(REL)
-ok('Mapa relacional declara I–LIX / 59','**Cobertura / Coverage:** I–LIX · 59 manifiestos / 59 manifestos' in relt,'')
+ok('Mapa relacional declara I–LX / 60','**Cobertura / Coverage:** I–LX · 60 manifiestos / 60 manifestos' in relt,'')
 missing_rel_files=[]
 for _,_,p in mans:
     if p.name not in relt:missing_rel_files.append(p.name)

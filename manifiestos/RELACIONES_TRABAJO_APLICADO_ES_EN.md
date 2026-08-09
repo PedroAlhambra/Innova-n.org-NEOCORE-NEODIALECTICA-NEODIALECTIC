@@ -2,7 +2,7 @@
 # Transversal map · Manifestos ↔ applied work
 
 **Estado / Status:** público · relacional · 2026-08-09 / public · relational · 2026-08-09  
-**Cobertura / Coverage:** I–LIX · 59 manifiestos / 59 manifestos  
+**Cobertura / Coverage:** I–LX · 60 manifiestos / 60 manifestos  
 **Función / Function:** relacionar principios, análisis, auditorías, obras, protocolos, evidencias y casos mediante enlaces internos, sin convertir correlación documental en prueba causal. / Relate principles, analyses, audits, works, protocols, evidence and cases through internal links without turning documentary correlation into causal proof.
 
 ---
@@ -444,18 +444,23 @@ Casos y análisis principales:
 - [LIX · Custodia Cognitiva Distribuida™](./59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md) · [Síntesis #79](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/79)
 - La secuencia conecta cuidado basal, capacidad cognitiva pública y custodia distribuida sin monopolio de conciencia.
 
+### LX · Relevancia Humana Necesaria™ · inteligencia distribuida y anti-captura social
+- [Manifiesto / Manifesto](./60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md) · [Síntesis #99](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/99)
+- Relaciones principales: V · Simbiosis Humano–IA; VII · Economía del Aporte; VIII · Ingeniería Social Abierta; XIV · Alienación; XXI · Reconocimiento; XXIII · Tiempo Cognitivo; XXXI · Neuromarketing; XLII–XLIII · soberanía e inteligencia expandida; XLVIII · Síntesis; L · Inteligencia Compartida; LVIII · Inteligencia Civilizatoria; LIX · Custodia Cognitiva; NAX-08, NAX-13 y NAX-14.
+- Función aplicada: separar popularidad de aporte, detectar amplificación social sin presumir fraude, distribuir capacidad de trabajo con IA y evitar una aristocracia reputacional.
+
 ## Neoaxiomas™ ↔ Manifiestos ↔ trabajo aplicado
 
 - [Neoaxiomas™](../neoaxiomas/README.md) · [Matriz general #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
-- **NAX-01 / NAX-08 / NAX-14** ↔ V · Simbiosis Humano–IA; VII · Economía del Aporte; L · Inteligencia Compartida; LVIII · Inteligencia Civilizatoria; LIX · Custodia Cognitiva.
+- **NAX-01 / NAX-08 / NAX-14** ↔ V · Simbiosis Humano–IA; VII · Economía del Aporte; L · Inteligencia Compartida; LVIII · Inteligencia Civilizatoria; LIX · Custodia Cognitiva; **LX · Relevancia Humana Necesaria**.
 - **NAX-02–06** ↔ II · Síntesis Abierta; IX · Memoria/Genealogía/Trazabilidad; XIX · Persistencia de la Memoria; XLVIII · La Síntesis Todo lo Ve.
 - **NAX-07** ↔ X · WEB4™ SistemaTrazable™; XLIII · Inteligencia Humana Expandida; LIX · Custodia Cognitiva.
 - **NAX-09** ↔ XXX · Coherencia Fines-Medios; LIV · Riqueza y Chatarra; LVI · NO-CONTROL.
-- **NAX-10** ↔ XXV · Pulido de la Piedra; XXXVI · Corona, Águila y Custodia.
+- **NAX-10** ↔ XXV · Pulido de la Piedra; XXXVI · Corona, Águila, León y Custodia; XLIX · interoperabilidad cultural y bandera como síntesis simbólica.
 - **NAX-11** ↔ I · Neo0; IX · Trazabilidad; XXXIV · Auditoría Conjunta.
 - **NAX-12** ↔ IX · Trazabilidad; X · SistemaTrazable™; XXXIV · Auditoría Conjunta.
-- **NAX-13** ↔ VII · Economía del Aporte; XXI · Reconocimiento; XXIII · Soberanía del Tiempo Cognitivo.
-- **NAX-14** ↔ V · Simbiosis; XIV · Alienación; XXXVIII · Protección de Infancia; XLII–XLIII · soberanía e inteligencia expandida; LVIII–LIX.
+- **NAX-13** ↔ VII · Economía del Aporte; XXI · Reconocimiento; XXIII · Soberanía del Tiempo Cognitivo; **LX · Relevancia Humana Necesaria**.
+- **NAX-14** ↔ V · Simbiosis; XIV · Alienación; XXXVIII · Protección de Infancia; XLII–XLIII · soberanía e inteligencia expandida; LVIII–LIX; **LX · Relevancia Humana Necesaria**.
 
 **Regla:** las relaciones anteriores son estructurales/documentales y permanecen abiertas a SAN; no convierten proximidad conceptual en prueba causal.
 

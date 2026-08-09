@@ -13,7 +13,7 @@ Esta página no reproduce los manifiestos ni mantiene un segundo índice paralel
 
 El índice canónico, las versiones bilingües, la navegación entre documentos, la genealogía y las Issues de Síntesis Abierta están en:
 
-* [Índice canónico de manifiestos I–L](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
+* [Índice canónico de manifiestos I–LX](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
 * [Mapa transversal Manifiestos ↔ trabajo aplicado](../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md)
 
 ## Cómo leer la colección
@@ -39,6 +39,10 @@ Empieza en el Manifiesto I y sigue la navegación `anterior · índice · siguie
 * **XLVI:** Cerrar la Herida™, comprensión evolutiva, memoria, reparación y reconciliación.
 * **XLVII:** sombra, destino, vínculo, ambivalencia y verdad emocional.
 * **XLVIII:** La Síntesis Todo lo Ve™, observación distribuida, Placa de Petri Universal™, escalas de potencias de diez y Máquina Fractal del Tiempo™ como modelo filosófico de memoria evolutiva del organismo conjunto.
+* **XLIX–LII:** interoperabilidad cultural, inteligencia compartida, poder cívico y ciudadanía humana funcional.
+* **LIII–LVI:** Leónidas™, reparación, riesgos de escala invisible y NO-CONTROL™.
+* **LVII–LIX:** refugio, inteligencia civilizatoria y custodia cognitiva distribuida.
+* **LX:** Relevancia Humana Necesaria™, potencia distribuida, aporte y anti-captura social.
 
 El detalle y los enlaces actualizados de cada oleada permanecen únicamente en el índice canónico del repositorio. El mapa transversal permite pasar de cada principio a los casos, auditorías, análisis, obras y protocolos que lo ponen a prueba o lo desarrollan.
 
@@ -66,6 +70,7 @@ IA + MEMORIA + FUENTES + CONTRASTE + TRAZABILIDAD
 * [XLVI · Cerrar la Herida™](../manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
 * [XLVII · El Odio de Neo0 hacia su Sino™](../manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md)
 * [XLVIII · La Síntesis Todo lo Ve™](../manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
+* [LX · Relevancia Humana Necesaria™](../manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md)
 
 ## Cómo interpretar un manifiesto
 
@@ -129,7 +134,7 @@ This page does not reproduce the manifestos or maintain a second parallel index.
 
 The canonical index, bilingual versions, document navigation, genealogy and Open Synthesis Issues are located at:
 
-* [Canonical manifesto index I–L](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
+* [Canonical manifesto index I–LX](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
 * [Transversal Manifestos ↔ applied-work map](../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md)
 
 ## How to read the collection
@@ -155,6 +160,10 @@ Begin with Manifesto I and follow the `previous · index · next` navigation inc
 * **XLVI:** Closing the Wound™, evolutionary understanding, memory, repair and reconciliation.
 * **XLVII:** shadow, fate, bond, ambivalence and emotional truth.
 * **XLVIII:** The Synthesis Sees Everything™, distributed observation, Universal Petri Dish™, powers-of-ten scales and Fractal Time Machine™ as a philosophical model of evolutionary memory of the joint organism.
+* **XLIX–LII:** cultural interoperability, shared intelligence, civic power and functional human citizenship.
+* **LIII–LVI:** Leónidas™, repair, invisible-scale risks and NO-CONTROL™.
+* **LVII–LIX:** refuge, civilisational intelligence and distributed cognitive custodianship.
+* **LX:** Necessary Human Relevance™, distributed capacity, contribution and social anti-capture.
 
 Details and current links for each wave remain in the canonical repository index. The transversal map connects principles to cases, audits, analyses, works and protocols that test or develop them.
 
@@ -182,6 +191,7 @@ AI + MEMORY + SOURCES + CONTRAST + TRACEABILITY
 * [XLVI · Closing the Wound™](../manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
 * [XLVII · Neo0’s Hatred of His Fate™](../manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md)
 * [XLVIII · The Synthesis Sees Everything™](../manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
+* [LX · Necessary Human Relevance™](../manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md)
 
 ## How to interpret a manifesto
 

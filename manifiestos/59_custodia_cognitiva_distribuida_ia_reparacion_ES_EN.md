@@ -237,7 +237,7 @@ Contributions are requested on cognitive custodianship, plurality of AI, technol
 
 ## Navigation
 
-← [LVIII · Civilisational Intelligence™](58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md) · [Index](README.md) · Fin provisional de la serie / Provisional end of series
+← [LVIII · Civilisational Intelligence™](58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md) · [Index](README.md) · [LX · Necessary Human Relevance™](60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md) →
 
 <!-- NEO_RELATIONAL_FOOTER_START -->
 
