@@ -1,4 +1,4 @@
-# trigger: 2026-08-09T22:10+02:00
+# trigger: 2026-08-09T22:14+02:00
 name: sync-open-synthesis-network
 
 on:
@@ -13,6 +13,7 @@ on:
       - '.github/scripts/normalize_manifesto_indices.py'
       - '.github/scripts/sync_root_navigation.py'
       - '.github/scripts/apply_wave_human_relevance_symbols.py'
+      - '.github/scripts/patch_postcheck_for_lx.py'
 
 permissions:
   contents: write
@@ -30,6 +31,8 @@ jobs:
           fetch-depth: 0
       - name: Apply additive NAX-10 and human-relevance integration
         run: python .github/scripts/apply_wave_human_relevance_symbols.py
+      - name: Patch postcheck for I-LX corpus
+        run: python .github/scripts/patch_postcheck_for_lx.py
       - name: Synchronize Open Synthesis network
         run: python .github/scripts/sync_open_synthesis_manifestos.py
       - name: Normalize canonical indices
