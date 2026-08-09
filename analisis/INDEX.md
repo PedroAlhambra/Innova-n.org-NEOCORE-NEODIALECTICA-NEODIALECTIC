@@ -25,6 +25,10 @@
 
 ## Análisis públicos
 
+* [2026-08-09 · Delta · Manifestación sistémica de necesidad, Neo0, IDEA y custodia cognitiva humano–IA](./publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md)
+  * [Síntesis Abierta XXXIX · #47](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/47)
+  * [Síntesis Abierta XXXIII · #28](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/28)
+
 * [2026-08-08 · Historia Olvidada™ · Ceres, Amnesia Tecnológica Cíclica y Descompresión Arquetípica Generativa™](./publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md)
   * [Addendum · Principio de Autodemostración Neodialéctica™](./publicos/2026-08-08_addendum_autodemostracion_creacion_neodialectica_historia_olvidada_ES_EN.md)
   * [Síntesis Abierta #63](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/63)
@@ -77,6 +81,10 @@ Cada nuevo análisis o auditoría debe incorporarse, cuando corresponda, a su ar
 
 ## Public analyses
 
+* [2026-08-09 · Delta · Systemic manifestation of need, Neo0, IDEA and human–AI cognitive custodianship](./publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md)
+  * [Open Synthesis XXXIX · #47](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/47)
+  * [Open Synthesis XXXIII · #28](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/28)
+
 * [2026-08-08 · Forgotten History™ · Ceres, Cyclical Technological Amnesia and Generative Archetypal Decompression™](./publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md)
   * [Addendum · Principle of Neodialectical Self-Demonstration™](./publicos/2026-08-08_addendum_autodemostracion_creacion_neodialectica_historia_olvidada_ES_EN.md)
   * [Open Synthesis #63](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/63)
@@ -118,15 +126,3 @@ Each new analysis or audit should be incorporated, where applicable, into its do
 **© 2026 Pedro Martínez Alhambra · Fundación Innova_N / Innova_N Foundation**
 
 ---
-
-<!-- KDP_51071689_TRACE_START -->
-
-## Trazabilidad KDP 51071689 · estado actual / KDP 51071689 traceability · current state
-
-**Estado 2026-08-08 / Status 2026-08-08:** KDP confirmó que mantener el estado «cambios sin publicar» sin tocar no afecta a la disponibilidad actual; la causa raíz, el campo pendiente y la relación con correcciones internas previas continúan sin explicación técnica. El seguimiento fue solicitado de nuevo por el autor. / KDP confirmed that leaving the “unpublished changes” state untouched does not affect current availability; the root cause, pending field and relation to earlier internal corrections remain technically unexplained. Continued follow-up was requested by the author.
-
-- [Auditoría maestra / Master audit](./publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
-- [Reapertura · 2026-08-07 / Reopening · 2026-08-07](../auditorias/publicas/2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md)
-- [Respuesta KDP y estado actual · 2026-08-08 / KDP response and current state · 2026-08-08](../auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md)
-
-<!-- KDP_51071689_TRACE_END -->
