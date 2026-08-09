@@ -7,7 +7,7 @@
 
 ## 1. Tandas realizadas
 
-Durante la madrugada y primera mañana del 9 de agosto de 2026 se ejecutaron tandas escalonadas de contacto institucional, académico y puente IDEA–Marco.
+Durante el 9 de agosto de 2026 se ejecutaron tandas escalonadas de contacto institucional, académico, empresarial y puente IDEA–Marco.
 
 ### Instituciones y centros de IA, gobernanza y ética
 
@@ -28,12 +28,14 @@ Durante la madrugada y primera mañana del 9 de agosto de 2026 se ejecutaron tan
 |---|---|---|
 | Philipp Koralus · Oxford | razón, agencia, truth-seeking AI, autonomía | Enviado · pendiente |
 | Carissa Véliz · Oxford | privacidad, poder, predicción, oráculos e IA | Enviado · pendiente |
-| Virginia Dignum · Umeå | Responsible AI, democracia, gobernanza | Respuesta automática con derivación al AI Policy Lab |
+| Virginia Dignum · Umeå | Responsible AI, democracia, gobernanza | Respuesta humana posterior: limitación de tiempo; puerta abierta mantenida |
 | Shannon Vallor · Edinburgh | futuros tecnomorales, florecimiento humano, ética IA | Respuesta automática con derivación al Centre for Technomoral Futures |
 | Neil Lawrence · Cambridge | inteligencia, agencia y beneficio público | Respuesta automática con derivación a Jess Montgomery / ai@cam |
 | Mark Coeckelbergh · Vienna | filosofía política de IA y democracia | Fuera de oficina · no se escala como urgente |
 | Yochai Benkler · Harvard/BKC | commons, colaboración descentralizada y captura | Contacto específico enviado tras derivación del buzón general |
 | Jess Montgomery · ai@cam | IA para ciencia, ciudadanos y sociedad | Contacto específico enviado tras derivación de Neil Lawrence |
+| Vaclav Smil | integración material y límites civilizatorios | Respuesta sustantiva; delta incorporado |
+| Terry Winograd | incentivos, poder y estrategia de transición | Respuesta sustantiva; delta incorporado |
 
 ### Puente IDEA–Marco
 
@@ -46,7 +48,7 @@ Durante la madrugada y primera mañana del 9 de agosto de 2026 se ejecutaron tan
 | N. Katherine Hayles | cognición, tecnosimbiosis, literatura y posthumanismo | Enviado · pendiente |
 | Sherryl Vint | ficción especulativa y tecnocultura | Respuesta automática: baja médica; no realizar seguimiento durante la baja |
 
-## 2. Derivaciones resueltas esta mañana
+## 2. Derivaciones resueltas
 
 Las respuestas automáticas no se trataron como aportaciones doctrinales. Se utilizaron sólo cuando ofrecían una ruta institucional explícita.
 
@@ -66,18 +68,26 @@ Desde esta fase los mensajes dirigidos incorporan, cuando procede, una explicaci
 4. si GitHub constituye una barrera, el interlocutor puede responder por correo;
 5. Innova_N puede preparar una propuesta de transcripción o resumen para el Issue;
 6. **nada recibido por correo se publica o atribuye sin autorización explícita**;
-7. una vez autorizado, el aporte vuelve al Issue, conserva genealogía y puede producir delta.
+7. una vez autorizado, el aporte vuelve al Issue, conserva genealogía y puede producir delta;
+8. desde la implantación del Registro de Entrada Trazable™, el interlocutor puede declarar voluntariamente una relación pública de lectura, investigación, crítica, implementación o derivación;
+9. todo nuevo correo debe incluir, cuando sea pertinente, el **enlace vivo de seguimiento**, para que no quede congelado en el estado del corpus del día de envío.
 
-Protocolo específico: [Puente de Participación Guiada · Correo ↔ GitHub](../propuestas/sintesis-abierta/PUENTE_PARTICIPACION_GUIADA_CORREO_GITHUB_ES_EN.md).
+Protocolos:
+
+- [Puente de Participación Guiada · Correo ↔ GitHub](../propuestas/sintesis-abierta/PUENTE_PARTICIPACION_GUIADA_CORREO_GITHUB_ES_EN.md)
+- [Registro de Entrada Trazable™ y Derivación](../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)
+- [Seguir el Marco y la Síntesis](./SEGUIR_MARCO_SINTESIS_ES_EN.md)
 
 ## 4. Respuestas con contenido y respuestas administrativas
 
-Hasta la revisión de esta mañana:
+Hasta la revisión de esta jornada:
 
-- no existe todavía una nueva aportación intelectual externa en los Issues posteriores a las ya registradas;
-- las respuestas de Oxford, Vallor, Lawrence, Dignum, Coeckelbergh y Berkman citadas arriba son automáticas o administrativas, por lo que **no se integran como aportes a la Síntesis**;
-- la crítica sustantiva de Terry Winograd sobre incentivos y capacidad real de transición sí fue previamente integrada en el delta de poder, incentivos, tokenización y transición y enlazada a las Síntesis relacionadas;
+- las respuestas administrativas o automáticas no se integran como aportes a la Síntesis;
+- la crítica sustantiva de Terry Winograd sobre incentivos y capacidad real de transición fue integrada en los deltas correspondientes;
+- la respuesta sustantiva de Vaclav Smil se conserva como objeción externa de integración y complejidad, sin presentarla como adhesión;
 - los rechazos editoriales o de reseña se responden con cortesía cuando son humanos y no se transforman artificialmente en adhesiones o críticas del marco.
+
+Documento relacionado: [Smil + Winograd · respuestas externas y deltas](../analisis/publicos/2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md).
 
 ## 5. Trabajo aportado y devolución de tiempo
 
@@ -99,7 +109,64 @@ No se asigna una cifra retroactiva de horas que no esté documentada. La genealo
 
 Documento relacionado: [Guerra del Fundador contra la Idiotez™ y Devolución del Tiempo Fundacional™](../analisis/publicos/2026-08-09_guerra_fundador_contra_idiotez_devolucion_tiempo_bien_comun_ES_EN.md).
 
-## 6. Salvaguarda de la «guerra contra la idiotez»
+## 6. Oleada empresarial · Australia y Brasil · 2026-08-09
+
+Se ejecutó una nueva oleada dirigida a organizaciones con actividad real en IA, arquitectura, automatización, gobernanza, trazabilidad o interacción humano–IA. No se reutilizaron destinatarios ya contactados en tandas anteriores.
+
+### Australia
+
+| Destino | Encaje principal | Material enviado | Estado |
+|---|---|---|---|
+| Gradient Institute | Responsible AI, claridad basada en evidencia, crítica externa | IDEA EN + enlace vivo + Registro de Entrada | Enviado |
+| Appen | trabajo humano en la infraestructura de IA, datos, evaluación y atribución | IDEA EN + enlace vivo + Registro de Entrada | Enviado |
+| daisee | interpretación de comunicación humana, IA conversacional/analítica y trazabilidad | IDEA EN + enlace vivo + Registro de Entrada | Enviado |
+| Leonardo Consulting | arquitectura, automatización, procesos e integración | IDEA EN + enlace vivo + Registro de Entrada | Enviado |
+
+### Brasil
+
+| Destino | Encaje principal | Material enviado | Estado |
+|---|---|---|---|
+| Nama | IA empresarial auditable, sustentada por fuentes y trazabilidad | IDEA PT + enlace vivo + Registro de Entrada | Enviado |
+| Maritaca AI | modelos en portugués, contexto brasileño, soberanía e infraestructura local | IDEA PT + enlace vivo + Registro de Entrada | Enviado |
+| InBot | IA conversacional, agentes, governança y humanización | IDEA PT + enlace vivo + Registro de Entrada | Enviado |
+| Digibee · Partnerships | integración AI-native, orquestación e interoperabilidad | IDEA PT + enlace vivo + Registro de Entrada | Enviado |
+
+### Identificadores Gmail de la oleada
+
+```text
+Gradient Institute  19fe7af8cb5b9187
+Appen               19fe7afc5a28d445
+daisee              19fe7aff4b960ec0
+Leonardo Consulting 19fe7b02190ca67b
+Nama                19fe7b05fcc93403
+Maritaca AI         19fe7b0881d3e324
+InBot               19fe7b0b8f487988
+Digibee             19fe7b11633ec614
+```
+
+Los correos no solicitan adhesión. Piden crítica, objeciones, fuentes, límites de implementación o posible relación futura. Todos utilizan el enlace vivo de seguimiento y el nuevo Registro de Entrada Trazable™.
+
+## 7. Registro de Entrada Trazable™ como nueva capa de proyección
+
+A partir de esta oleada, la proyección externa queda organizada así:
+
+```text
+CONTACTO
+→ NODO ESPECÍFICO
++ ENLACE VIVO DE SEGUIMIENTO
++ REGISTRO DE ENTRADA OPCIONAL
+→ RESPUESTA / NO RESPUESTA
+→ APORTE SI EXISTE
+→ ISSUE
+→ DELTA
+→ COMMIT
+```
+
+La mera recepción o lectura de un correo no crea una atribución pública. El registro aparece cuando el interlocutor decide entrar de forma reconocible o cuando autoriza la incorporación de un aporte recibido por otro canal.
+
+Análisis de arquitectura: [MAXPROC · Registro de Entrada, Derivación y Herosión™](../analisis/publicos/2026-08-09_maxproc_registro_entrada_trazabilidad_derivacion_herosion_ES_EN.md).
+
+## 8. Salvaguarda de la «guerra contra la idiotez»
 
 La expresión se usa como combate **intelectual y no violento** contra patrones de manipulación, reducción, repetición sin aprendizaje, prestigio por encima del argumento, borrado de genealogía y subordinación de verdad/utilidad a fama o dinero.
 
