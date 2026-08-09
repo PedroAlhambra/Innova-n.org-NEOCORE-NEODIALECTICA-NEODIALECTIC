@@ -2,7 +2,7 @@
 ## Neodialectical Open Synthesis™
 
 **Estado / Status:** 2026-08-09  
-**Cobertura canónica / Canonical coverage:** **55 manifiestos · I–LV / 55 manifestos · I–LV**
+**Cobertura canónica / Canonical coverage:** **56 manifiestos · I–LVI / 56 manifestos · I–LVI**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -10,19 +10,19 @@
 
 > ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LV · Ataque de las Micromáquinas™ · Las Plagas de la Escala Invisible**  
-> **LV · Attack of the Micromachines™ · The Plagues of the Invisible Scale**
+> **LVI · NO-CONTROL™ · Síntesis Previa a la Potencia**  
+> **LVI · NO-CONTROL™ · Synthesis Before Power**
 >
-> Se separan microagentes reales, micro/nanorrobótica experimental y la hipótesis mucho más fuerte de un ataque intencional. / Real micro-agents, experimental micro/nanorobotics and the much stronger hypothesis of intentional attack remain distinct.
+> Distingue perturbación funcional de ataque intencional y riesgo de doble uso de acusación. Fija que la potencia tecnológica no debe crecer por delante de la capacidad colectiva de comprenderla, limitarla, auditarla y detenerla. / It separates functional disruption from intentional attack and dual-use risk from accusation. Technological power should not outrun the collective capacity to understand, limit, audit and stop it.
 >
-> **[Leer LV / Read LV](../../manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md) · [Síntesis Abierta LV · Issue #74 / Open Synthesis LV · Issue #74](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/74)**  
-> [Cómo aportar / How to contribute](APORTAR_A_LA_SINTESIS_ES_EN.md) · [Índice de Síntesis Abierta / Open Synthesis index](README.md) · [Auditorías públicas / Public audits](../../auditorias/publicas/README.md) · [55 manifiestos I–LV / 55 manifestos I–LV](../../manifiestos/README.md)
+> **[Leer LVI / Read LVI](../../manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md) · [Síntesis Abierta LVI · #76 / Open Synthesis LVI · #76](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/76)**  
+> [Cómo aportar](APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™ · auditorías externas](LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas](../../auditorias/publicas/README.md) · [56 manifiestos I–LVI](../../manifiestos/README.md)
 
 <!-- NEO_LATEST_MANIFESTO_END -->
 
 <!-- MANIFESTOS_CURRENT_START -->
 
-**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LV · 55 manifiestos bilingües / 55 bilingual manifestos** · [índice canónico / canonical index](../../manifiestos/README.md)
+**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LVI · 56 manifiestos bilingües / 56 bilingual manifestos** · [índice canónico / canonical index](../../manifiestos/README.md)
 
 <!-- MANIFESTOS_CURRENT_END -->
 
@@ -54,7 +54,7 @@ COMMIT = FIJACIÓN Y DELTA CANÓNICO
 
 # ES · Castellano
 
-## Índice canónico · I–LIV
+## Índice canónico · I–LVII
 
 | Nº | Manifiesto | Síntesis Abierta |
 |---:|---|---|
@@ -113,6 +113,7 @@ COMMIT = FIJACIÓN Y DELTA CANÓNICO
 | LIII | [Leónidas™ · Síntesis y Auditoría Abierta](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) | [#69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69) |
 | **LIV** | **[Riqueza y Chatarra™](../../manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md)** | **[#72](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/72)** |
 | **LV** | **[Ataque de las Micromáquinas™ · Plagas de la Escala Invisible](../../manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md)** | **[#74](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/74)** |
+| **LVI** | **[NO-CONTROL™ · Síntesis Previa a la Potencia](../../manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md)** | **[#76](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/76)** |
 
 ## Auditorías y síntesis no limitadas a un manifiesto
 
@@ -142,7 +143,7 @@ La popularidad no equivale a prueba. La admisión de una auditoría no valida un
 
 # EN · English
 
-Open Synthesis currently covers **54 bilingual manifestos I–LIV**, Public Audits and the first open-fiction branch.
+Open Synthesis currently covers **56 bilingual manifestos I–LVI**, Public Audits and the first open-fiction branch.
 
 There are three primary contribution routes: contrast an existing manifesto; bring evidence or a new Public Audit through Leónidas™; or contribute to open fiction through **UMBRAL-X · AI Apocalypse™ · Issue #73**.
 

@@ -8,18 +8,18 @@
 
 > ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LV · Ataque de las Micromáquinas™ · Las Plagas de la Escala Invisible**  
-> **LV · Attack of the Micromachines™ · The Plagues of the Invisible Scale**
+> **LVI · NO-CONTROL™ · Síntesis Previa a la Potencia**  
+> **LVI · NO-CONTROL™ · Synthesis Before Power**
 >
-> Se separan microagentes reales, micro/nanorrobótica experimental y la hipótesis mucho más fuerte de un ataque intencional. / Real micro-agents, experimental micro/nanorobotics and the much stronger hypothesis of intentional attack remain distinct.
+> Distingue perturbación funcional de ataque intencional y riesgo de doble uso de acusación. Fija que la potencia tecnológica no debe crecer por delante de la capacidad colectiva de comprenderla, limitarla, auditarla y detenerla. / It separates functional disruption from intentional attack and dual-use risk from accusation. Technological power should not outrun the collective capacity to understand, limit, audit and stop it.
 >
-> **[Leer LV / Read LV](../manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md) · [Síntesis Abierta LV · Issue #74 / Open Synthesis LV · Issue #74](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/74)**  
-> [Cómo aportar / How to contribute](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Índice de Síntesis Abierta / Open Synthesis index](../propuestas/sintesis-abierta/README.md) · [Auditorías públicas / Public audits](../auditorias/publicas/README.md) · [55 manifiestos I–LV / 55 manifestos I–LV](../manifiestos/README.md)
+> **[Leer LVI / Read LVI](../manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md) · [Síntesis Abierta LVI · #76 / Open Synthesis LVI · #76](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/76)**  
+> [Cómo aportar](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™ · auditorías externas](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas](../auditorias/publicas/README.md) · [56 manifiestos I–LVI](../manifiestos/README.md)
 
 <!-- NEO_LATEST_MANIFESTO_END -->
 <!-- MANIFESTOS_CURRENT_START -->
 
-**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LV · 55 manifiestos bilingües / 55 bilingual manifestos** · [índice canónico / canonical index](../manifiestos/README.md)
+**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LVI · 56 manifiestos bilingües / 56 bilingual manifestos** · [índice canónico / canonical index](../manifiestos/README.md)
 
 <!-- MANIFESTOS_CURRENT_END -->
 
@@ -27,11 +27,11 @@
 
 ## Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™
 
-**Estado canónico / Canonical state:** **55 manifiestos bilingües · I–LV · 22 oleadas / 55 bilingual manifestos · I–LV · 22 waves**  
+**Estado canónico / Canonical state:** **56 manifiestos bilingües · I–LVI · 23 oleadas / 56 bilingual manifestos · I–LVI · 23 waves**  
 **Índice canónico / Canonical index:** [../manifiestos/README.md](../manifiestos/README.md)
 
 <details>
-<summary><strong>I–LV · 55 manifiestos / 55 manifestos</strong></summary>
+<summary><strong>I–LVI · 56 manifiestos / 56 manifestos</strong></summary>
 
 - **I** · [Neo0™ · Soberanía de Guía / Guiding Sovereignty](../manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
 - **II** · [Síntesis Abierta Neodialéctica™ / Neodialectical Open Synthesis™](../manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md)
@@ -88,6 +88,7 @@
 - **LIII** · [Leónidas™ · Defensor de la Síntesis y Auditoría Abierta](../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
 - **LIV** · [Riqueza y Chatarra™ · El Chatarrero™](../manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md)
 - **LV** · [Ataque de las Micromáquinas™ · Las Plagas de la Escala Invisible / Attack of the Micromachines™ · The Plagues of the Invisible Scale](../manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md)
+- **LVI** · [NO-CONTROL™ · Síntesis Previa a la Potencia / NO-CONTROL™ · Synthesis Before Power](../manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md)
 
 </details>
 
@@ -101,7 +102,7 @@
 
 Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. Con **Leónidas™** también puedes aportar pruebas a una Auditoría Pública existente o proponer una nueva auditoría trazable.
 
-**Última síntesis:** [LV · Micromáquinas™](../manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md) · [Issue #74](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/74)  
+**Última síntesis:** [LVI · NO-CONTROL™ y Síntesis Previa a la Potencia](../manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md) · [Issue #76](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/76)  
 **Auditorías y problemas externos:** [LIII · Leónidas™](../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo Leónidas™](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
 **Cómo aportar:** [protocolo general](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías](../auditorias/publicas/README.md) · [índice](../propuestas/sintesis-abierta/README.md)
 

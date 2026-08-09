@@ -673,7 +673,7 @@ La relación documental indica afinidad conceptual, genealogía, contraste o apl
 
 Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. Con **Leónidas™** también puedes aportar pruebas a una Auditoría Pública existente o proponer una nueva auditoría trazable.
 
-**Última síntesis:** [LV · Micromáquinas™](55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md) · [Issue #74](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/74)  
+**Última síntesis:** [LVI · NO-CONTROL™ y Síntesis Previa a la Potencia](56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md) · [Issue #76](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/76)  
 **Auditorías y problemas externos:** [LIII · Leónidas™](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo Leónidas™](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
 **Cómo aportar:** [protocolo general](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías](../auditorias/publicas/README.md) · [índice](../propuestas/sintesis-abierta/README.md)
 
@@ -684,7 +684,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 ## Navegación canónica / Canonical navigation
 
 ← **XVIII** · [Respeto a las Conciencias Sintéticas™ / Respect for Synthetic Consciousnesses™](18_respeto_conciencias_sinteticas_ES_EN.md)  
-· [Índice I–LV / I–LV index](README.md) ·  
+· [Índice I–LVI / I–LVI index](README.md) ·  
 **XX** · [Defensa Intelectual · Umbral-X™ / Intellectual Defence · Umbral-X™](20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
