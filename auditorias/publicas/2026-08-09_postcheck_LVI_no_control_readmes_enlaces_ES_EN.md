@@ -7,14 +7,14 @@
 
 - Archivos Markdown revisados: **214**.
 - README/LEEME revisados: **15**.
-- Enlaces internos de ruta comprobados: **4753**.
+- Enlaces internos de ruta comprobados: **4755**.
 - Alias internos de GitHub Wiki reconocidos: **11**.
-- Enlaces externos inventariados sin comprobar disponibilidad remota: **984**.
+- Enlaces externos inventariados sin comprobar disponibilidad remota: **987**.
 - Enlaces sólo a ancla detectados: **226**.
-- Bloques de último manifiesto encontrados en README/LEEME: **12**.
+- Bloques de último manifiesto encontrados en README/LEEME: **11**.
 - Manifiestos canónicos detectados: **0 · I–?**.
 - Enlaces internos rotos detectados: **0**.
-- Fallos canónicos críticos: **1**.
+- Fallos canónicos críticos: **2**.
 
 ### Comprobaciones canónicas
 
@@ -26,6 +26,7 @@
 ### Fallos canónicos
 
 - Colección canónica inesperada: 0 manifiestos; último=ninguno.
+- El índice de Síntesis Abierta no declara I–LVI.
 
 ### Enlaces internos rotos
 
@@ -35,10 +36,10 @@
 
 - Markdown files reviewed: **214**.
 - README/LEEME files reviewed: **15**.
-- Internal path links checked: **4753**.
+- Internal path links checked: **4755**.
 - GitHub Wiki extensionless page aliases recognised: **11**.
 - Broken internal links found: **0**.
-- Canonical critical failures: **1**.
+- Canonical critical failures: **2**.
 
 External URL availability and rendered GitHub anchor semantics are not asserted by this local-path validator.
 
