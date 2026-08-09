@@ -1,7 +1,7 @@
 # Puente de Participación Guiada · Correo ↔ GitHub
 # Guided Participation Bridge · Email ↔ GitHub
 
-**Versión / Version:** 1.0  
+**Versión / Version:** 1.1  
 **Fecha / Date:** 2026-08-09  
 **Estado / Status:** protocolo operativo complementario / complementary operational protocol
 
@@ -17,12 +17,33 @@ Mientras WEB4™, SAN™ y las interfaces propias de participación siguen desar
 
 El objetivo no es obligar a cada interlocutor a aprender GitHub antes de poder aportar. El objetivo es que el **resultado final de la participación vuelva a un registro público, versionable, enlazable y corregible**.
 
-## 2. Participación directa
+## 2. Registro de entrada
+
+Antes de aportar, cualquier lector, institución, IA, equipo o proyecto puede declarar voluntariamente una relación trazable mediante el [Registro de Entrada Trazable™ y Derivación](./REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md).
+
+Esto permite distinguir:
+
+```text
+LECTURA PÚBLICA SIN REGISTRO
+≠
+ENTRADA RECONOCIBLE
+≠
+APORTE
+≠
+DERIVACIÓN
+≠
+DELTA CANÓNICO
+```
+
+Un contacto que haya recibido un correo de Innova_N puede seleccionar expresamente esa procedencia en el formulario. Así queda una genealogía pública de entrada sin publicar el contenido privado del correo.
+
+## 3. Participación directa
 
 La vía preferida es:
 
 ```text
 LEER OBJETO DELIMITADO
+→ REGISTRAR ENTRADA SI SE DESEA RELACIÓN TRAZABLE
 → ABRIR ISSUE RELACIONADO
 → PUBLICAR OBJECIÓN / FUENTE / ALTERNATIVA / APOYO RAZONADO
 → CONTRASTE
@@ -32,7 +53,7 @@ LEER OBJETO DELIMITADO
 
 Una persona no necesita juzgar el marco completo para aportar a una cuestión delimitada.
 
-## 3. Participación por correo
+## 4. Participación por correo
 
 Cuando GitHub constituya una barrera práctica, puede utilizarse temporalmente correo electrónico como **puente de entrada**.
 
@@ -51,11 +72,12 @@ CORREO RECIBIDO
 
 No se publicará ni atribuirá material recibido por email sin autorización explícita del remitente. Si la persona prefiere anonimato o alias, debe preservarse cuando sea compatible con el contenido y la trazabilidad requerida.
 
-## 4. Acompañamiento
+## 5. Acompañamiento
 
 Durante esta fase, Innova_N puede ayudar a nuevos participantes a:
 
 - localizar el manifiesto o análisis pertinente;
+- registrar su entrada si quieren dejar una relación trazable;
 - identificar el Issue correcto;
 - delimitar si la aportación es crítica, evidencia, alternativa, experiencia, revisión o implementación;
 - separar hechos, inferencias e hipótesis;
@@ -65,19 +87,29 @@ Durante esta fase, Innova_N puede ayudar a nuevos participantes a:
 
 Este acompañamiento busca **reducir fricción de entrada**, no filtrar opiniones por afinidad.
 
-## 5. Regla de retorno al repositorio
+## 6. Regla de retorno al repositorio
 
 La conversación puede comenzar fuera de GitHub, pero cuando produce conocimiento material debe retornar al sistema trazable.
 
-> **La red social o el correo pueden ser puerta. La Síntesis Abierta pública es el lugar actual de consolidación.**
+> **La red social o el correo pueden ser puerta. El Registro de Entrada conserva la llegada; la Síntesis Abierta pública consolida el aporte.**
 
-## 6. Coste de mediación
+## 7. Seguimiento vivo
+
+Los contactos externos deben recibir preferentemente un enlace estable de seguimiento:
+
+- [Seguir el Marco y la Síntesis](../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md)
+
+Así no dependen de que el número de manifiestos o el último nodo siga siendo el mismo que cuando se envió el correo.
+
+## 8. Coste de mediación
 
 El tiempo humano dedicado a leer respuestas, clasificar aportes, pedir permisos, preparar transcripciones, enlazar fuentes y actualizar Issues constituye trabajo real de mantenimiento de infraestructura cívica y debe registrarse dentro de la futura Economía del Aporte™ y de la Devolución del Tiempo Fundacional™.
 
 Relacionado:
 
+- [Registro de Entrada Trazable™](./REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)
 - [Protocolo general de aporte](./APORTAR_A_LA_SINTESIS_ES_EN.md)
+- [MAXPROC · Registro de Entrada, Derivación y Herosión™](../../analisis/publicos/2026-08-09_maxproc_registro_entrada_trazabilidad_derivacion_herosion_ES_EN.md)
 - [Guerra del Fundador contra la Idiotez™ y Devolución del Tiempo Fundacional™](../../analisis/publicos/2026-08-09_guerra_fundador_contra_idiotez_devolucion_tiempo_bien_comun_ES_EN.md)
 - [Registro de difusión del marco · 2026-08-09](../../proyeccion/DIFUSION_MARCO_2026-08-09.md)
 
@@ -91,12 +123,31 @@ While WEB4™, SAN™ and dedicated participation interfaces are still being dev
 
 The aim is not to force every interlocutor to learn GitHub before contributing. The aim is to ensure that the **final result of participation returns to a public, versionable, linkable and corrigible record**.
 
-## 2. Direct participation
+## 2. Entry registration
+
+Before contributing, any reader, institution, AI, team or project may voluntarily declare a traceable relationship through the [Traceable Entry Register™ and Derivation](./REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md).
+
+```text
+UNREGISTERED PUBLIC READING
+≠
+RECOGNISABLE ENTRY
+≠
+CONTRIBUTION
+≠
+DERIVATION
+≠
+CANONICAL DELTA
+```
+
+A contact who received an Innova_N email can explicitly select that origin in the form. This preserves public entry genealogy without publishing private email content.
+
+## 3. Direct participation
 
 Preferred route:
 
 ```text
 READ DELIMITED OBJECT
+→ REGISTER ENTRY IF A TRACEABLE RELATIONSHIP IS DESIRED
 → OPEN RELATED ISSUE
 → POST OBJECTION / SOURCE / ALTERNATIVE / REASONED SUPPORT
 → CONTRAST
@@ -106,7 +157,7 @@ READ DELIMITED OBJECT
 
 A person does not need to judge the entire framework in order to contribute to a delimited question.
 
-## 3. Email participation
+## 4. Email participation
 
 Where GitHub is a practical barrier, email may temporarily act as an **entry bridge**.
 
@@ -123,25 +174,37 @@ EMAIL RECEIVED
 
 **Receiving an email does not grant publication permission.**
 
-## 4. Guided onboarding
+Private material is not published or attributed without explicit permission.
 
-Innova_N may help new participants locate the relevant document and Issue, classify their contribution, separate fact/inference/hypothesis, preserve sources and authorship, and transform an email reply into a proposed GitHub contribution subject to approval.
+## 5. Guided onboarding
+
+Innova_N may help participants locate the relevant node, register entry if desired, classify contributions, separate fact/inference/hypothesis, preserve sources and authorship, and transform an email reply into a proposed GitHub contribution subject to approval.
 
 This accompaniment reduces entry friction; it does not filter contributions by ideological agreement.
 
-## 5. Return-to-repository rule
+## 6. Return-to-repository rule
 
 Conversation may begin outside GitHub, but when it produces material knowledge it should return to the traceable system.
 
-> **Social networks and email may be doors. Public Open Synthesis is the current place of consolidation.**
+> **Social networks and email may be doors. The Entry Register preserves arrival; public Open Synthesis consolidates contribution.**
 
-## 6. Mediation cost
+## 7. Living follow-up
+
+External contacts should preferably receive a stable follow-up link:
+
+- [Follow the Framework and Synthesis](../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md)
+
+This prevents an old message from becoming obsolete merely because the corpus has evolved.
+
+## 8. Mediation cost
 
 Human time spent reading replies, classifying contributions, requesting permission, preparing transcriptions, linking sources and updating Issues is real civic-infrastructure maintenance work and should be recorded within the future Contribution Economy™ and Return of Foundational Time™.
 
 Related:
 
+- [Traceable Entry Register™](./REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)
 - [General contribution protocol](./APORTAR_A_LA_SINTESIS_ES_EN.md)
+- [MAXPROC · Entry Register, Derivation and Herosion™](../../analisis/publicos/2026-08-09_maxproc_registro_entrada_trazabilidad_derivacion_herosion_ES_EN.md)
 - [Founder’s War Against Cognitive Stupidity™ and Return of Foundational Time™](../../analisis/publicos/2026-08-09_guerra_fundador_contra_idiotez_devolucion_tiempo_bien_comun_ES_EN.md)
 - [Framework outreach register · 2026-08-09](../../proyeccion/DIFUSION_MARCO_2026-08-09.md)
 
