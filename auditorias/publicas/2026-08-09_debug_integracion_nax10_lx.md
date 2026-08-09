@@ -1,6 +1,10 @@
-# Diagnóstico temporal NAX-10 / LX
+# Diagnóstico temporal NAX-10 / LX · segunda pasada
 
-EXIT_CODE=1
+FIX_EXIT=0
+APPLY_EXIT=1
+PATCH_EXIT=0
 ```text
-SYN EN LIX row missing
+FIX OK: single bilingual SAN table supported
+FAIL ['M60 synth ES/EN']
+POSTCHECK PATCH OK: corpus I–LX / 60
 ```
