@@ -284,9 +284,9 @@
       "id": "XXXVI",
       "title": "Corona, Águila y Custodia de la Edad del Hombre™",
       "path": "manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md",
-      "es": 1601,
-      "en": 1619,
-      "ratio": 1.011
+      "es": 2168,
+      "en": 2145,
+      "ratio": 0.989
     },
     {
       "id": "XXXVII",
@@ -469,8 +469,16 @@
       "title": "Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana / Distributed Cognitive Custodianship™ · AI, Repair and Human Responsibility",
       "path": "manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md",
       "es": 650,
-      "en": 658,
-      "ratio": 1.012
+      "en": 666,
+      "ratio": 1.025
+    },
+    {
+      "id": "LX",
+      "title": "Relevancia Humana Necesaria™ · Inteligencia Distribuida, Aporte y Anti-Captura Social / Necessary Human Relevance™ · Distributed Intelligence, Contribution and Anti-Capture",
+      "path": "manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md",
+      "es": 1640,
+      "en": 1543,
+      "ratio": 0.941
     }
   ],
   "flags": [],
@@ -531,9 +539,9 @@
     },
     {
       "id": "NAX-10",
-      "es": 115,
-      "en": 110,
-      "ratio": 0.957
+      "es": 530,
+      "en": 518,
+      "ratio": 0.977
     },
     {
       "id": "NAX-11",
