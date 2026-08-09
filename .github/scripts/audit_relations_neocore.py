@@ -1,202 +1,172 @@
 from pathlib import Path
 import os, re, sys, json
 from collections import defaultdict
+from itertools import combinations
 
-ROOT = Path('.').resolve()
-MD = [p for p in ROOT.rglob('*.md') if '.git' not in p.parts]
-MANIFEST_DIR = ROOT / 'manifiestos'
-MANIFEST_INDEX = MANIFEST_DIR / 'README.md'
-REL_MAP = MANIFEST_DIR / 'RELACIONES_TRABAJO_APLICADO_ES_EN.md'
-NEOAX = ROOT / 'neoaxiomas' / 'README.md'
-REPORT = ROOT / 'auditorias' / 'publicas' / '2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md'
-JSON_OUT = ROOT / 'auditorias' / 'publicas' / '2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones.json'
+ROOT=Path('.').resolve()
+MD=[p for p in ROOT.rglob('*.md') if '.git' not in p.parts]
+MDIR=ROOT/'manifiestos'; MIDX=MDIR/'README.md'; REL=MDIR/'RELACIONES_TRABAJO_APLICADO_ES_EN.md'
+NEO=ROOT/'neoaxiomas/README.md'; SYN=ROOT/'propuestas/sintesis-abierta/README.md'
+REPORT=ROOT/'auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md'
+JSON_OUT=ROOT/'auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones.json'
+MANAGED=[
+('<!-- NEO_LATEST_MANIFESTO_START -->','<!-- NEO_LATEST_MANIFESTO_END -->'),
+('<!-- NEOAXIOMAS_GLOBAL_LINK_START -->','<!-- NEOAXIOMAS_GLOBAL_LINK_END -->'),
+('<!-- MANIFESTOS_CURRENT_START -->','<!-- MANIFESTOS_CURRENT_END -->'),
+('<!-- NEO_ALL_MANIFESTOS_START -->','<!-- NEO_ALL_MANIFESTOS_END -->'),
+('<!-- NEO_OPEN_SYNTHESIS_INVITATION_START -->','<!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->'),
+('<!-- NEO_MANIFESTO_NAV_START -->','<!-- NEO_MANIFESTO_NAV_END -->'),
+('<!-- NEO_RELATIONAL_FOOTER_START -->','<!-- NEO_RELATIONAL_FOOTER_END -->'),
+('<!-- NEO_RELATIONAL_MENU_START -->','<!-- NEO_RELATIONAL_MENU_END -->')]
+LINK=re.compile(r'\[[^\]]*\]\(([^)]+)\)')
+WORD=re.compile(r"[A-Za-zÁÉÍÓÚÜÑáéíóúüñ0-9][A-Za-zÁÉÍÓÚÜÑáéíóúüñ0-9’'\-]*")
 
-MANAGED = [
-    ('<!-- NEO_LATEST_MANIFESTO_START -->','<!-- NEO_LATEST_MANIFESTO_END -->'),
-    ('<!-- NEOAXIOMAS_GLOBAL_LINK_START -->','<!-- NEOAXIOMAS_GLOBAL_LINK_END -->'),
-    ('<!-- MANIFESTOS_CURRENT_START -->','<!-- MANIFESTOS_CURRENT_END -->'),
-    ('<!-- NEO_ALL_MANIFESTOS_START -->','<!-- NEO_ALL_MANIFESTOS_END -->'),
-    ('<!-- NEO_OPEN_SYNTHESIS_INVITATION_START -->','<!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->'),
-    ('<!-- NEO_MANIFESTO_NAV_START -->','<!-- NEO_MANIFESTO_NAV_END -->'),
-]
-LINK_RE = re.compile(r'\[[^\]]*\]\(([^)]+)\)')
-WORD_RE = re.compile(r"[A-Za-zÁÉÍÓÚÜÑáéíóúüñ0-9][A-Za-zÁÉÍÓÚÜÑáéíóúüñ0-9’'\-]*")
+def strip_managed(t):
+    for a,b in MANAGED:t=re.sub(re.escape(a)+r'.*?'+re.escape(b),'',t,flags=re.S)
+    return t
 
+def local_target(src,href):
+    h=href.split('#',1)[0].strip()
+    if not h or h.startswith('/') or re.match(r'^[A-Za-z][A-Za-z0-9+.-]*:',h):return None
+    t=(src.parent/h).resolve()
+    if t.exists():return t
+    # wiki-source uses extensionless page links that render as Wiki pages; resolve to tracked .md source.
+    if 'wiki-source' in src.parts and not Path(h).suffix:
+        alt=(src.parent/(h+'.md')).resolve()
+        if alt.exists():return alt
+    return t
 
-def strip_managed(text):
-    for a,b in MANAGED:
-        text = re.sub(re.escape(a)+r'.*?'+re.escape(b), '', text, flags=re.S)
-    return text
-
-
-def local_target(src, href):
-    h = href.split('#',1)[0].strip()
-    if not h or h.startswith('/') or re.match(r'^[a-zA-Z][a-zA-Z0-9+.-]*:',h):
-        return None
-    return (src.parent / h).resolve()
-
-idx = MANIFEST_INDEX.read_text(encoding='utf-8')
+idx=MIDX.read_text(encoding='utf-8')
 manifestos=[]
-for roman,title,href in re.findall(r'^- \*\*([IVXLCDM]+)\*\* · \[([^\]]+)\]\(([^)]+\.md)\)', idx, re.M):
-    p=(MANIFEST_DIR/href).resolve()
-    if p.exists() and p not in [x[2] for x in manifestos]:
-        manifestos.append((roman,title.strip(),p))
-if not manifestos:
-    raise SystemExit('No manifestos parsed from canonical index')
+for roman,title,href in re.findall(r'^- \*\*([IVXLCDM]+)\*\* · \[([^\]]+)\]\(([^)]+\.md)\)',idx,re.M):
+    p=(MDIR/href).resolve()
+    if p.exists() and p not in [x[2] for x in manifestos]:manifestos.append((roman,title.strip(),p))
+if not manifestos:raise SystemExit('No canonical manifestos found')
+MSET={p for _,_,p in manifestos}; BYPATH={p:(r,t) for r,t,p in manifestos}
 
-manifest_set={p for _,_,p in manifestos}
-# direct graph from actual Markdown links only
-outbound=defaultdict(set); inbound=defaultdict(set)
-broken=[]
+outbound=defaultdict(set);inbound=defaultdict(set);broken=[]
 for f in MD:
-    text=f.read_text(encoding='utf-8', errors='replace')
-    for href in LINK_RE.findall(text):
-        t=local_target(f,href)
-        if t is None: continue
-        if not t.exists(): broken.append((f,t,href))
-        else:
-            outbound[f.resolve()].add(t)
-            inbound[t].add(f.resolve())
+    t=f.read_text(encoding='utf-8',errors='replace')
+    for href in LINK.findall(t):
+        target=local_target(f,href)
+        if target is None:continue
+        if target.exists():outbound[f.resolve()].add(target);inbound[target].add(f.resolve())
+        else:broken.append((f,href))
 
-# Manifesto body metrics. These do not change source content.
 metrics=[]
 for roman,title,p in manifestos:
-    raw=p.read_text(encoding='utf-8',errors='replace')
-    body=strip_managed(raw)
-    words=len(WORD_RE.findall(body))
-    headings=sum(1 for ln in body.splitlines() if ln.lstrip().startswith('#'))
-    paras=sum(1 for block in re.split(r'\n\s*\n',body) if len(WORD_RE.findall(block))>=8 and not block.lstrip().startswith('#'))
-    prose_per_heading=round(words/max(headings,1),1)
-    metrics.append({'roman':roman,'title':title,'path':p.relative_to(ROOT).as_posix(),'words':words,'headings':headings,'paragraphs':paras,'words_per_heading':prose_per_heading})
+    body=strip_managed(p.read_text(encoding='utf-8',errors='replace'))
+    w=len(WORD.findall(body)); h=sum(1 for x in body.splitlines() if x.lstrip().startswith('#'))
+    para=sum(1 for x in re.split(r'\n\s*\n',body) if len(WORD.findall(x))>=8 and not x.lstrip().startswith('#'))
+    metrics.append({'roman':roman,'title':title,'path':p.relative_to(ROOT).as_posix(),'words':w,'headings':h,'paragraphs':para,'words_per_heading':round(w/max(h,1),1)})
+short=[m for m in metrics if m['words']<900 or m['words_per_heading']<55]
 
-# Conservative flags: only identify candidates for human/source recovery; never rewrite or summarize.
-short=[m for m in metrics if m['words'] < 900 or m['words_per_heading'] < 55]
-
-# Coverage of curated relation map by actual manifesto file link.
-rel_text=REL_MAP.read_text(encoding='utf-8',errors='replace') if REL_MAP.exists() else ''
-relation_covered=[]; relation_missing=[]
+reltext=REL.read_text(encoding='utf-8',errors='replace') if REL.exists() else ''
+covered=[];missing=[]
 for roman,title,p in manifestos:
-    if p.name in rel_text: relation_covered.append(roman)
-    else: relation_missing.append((roman,title,p))
+    if p.name in reltext:covered.append(roman)
+    else:missing.append((roman,title,p))
 
-# Neoaxiom section / synthesis-link audit.
-nax_text=NEOAX.read_text(encoding='utf-8',errors='replace')
-sections=[]
-pat=re.compile(r'^## (NAX-\d{2}) · ([^\n]+)\n(.*?)(?=^## NAX-\d{2} ·|^## \d+\.|^# EN ·|\Z)',re.M|re.S)
-for ident,title,body in pat.findall(nax_text):
-    issues=sorted(set(re.findall(r'https://github\.com/PedroAlhambra/Innova-n\.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/(\d+)',body)))
-    sections.append({'id':ident,'title':title.strip(),'issues':issues})
-nax_missing=[x for x in sections if not x['issues']]
+# Neoaxiom synthesis audit, deduplicated across ES/EN; #80 alone is not a dedicated synthesis.
+naxraw=NEO.read_text(encoding='utf-8',errors='replace')
+nd=defaultdict(lambda:{'titles':set(),'issues':set()})
+pat=re.compile(r'^## (NAX-\d{2}) · ([^\n]+)\n(.*?)(?=^## NAX-\d{2} ·|^## \d+\.|^## Open Synthesis|^# EN ·|\Z)',re.M|re.S)
+for ident,title,body in pat.findall(naxraw):
+    nd[ident]['titles'].add(title.strip())
+    nd[ident]['issues'].update(re.findall(r'https://github\.com/PedroAlhambra/Innova-n\.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/(\d+)',body))
+neoaxioms=[]
+for ident in sorted(nd,key=lambda x:int(x.split('-')[1])):
+    vals=nd[ident]; issues=sorted(vals['issues'],key=int); dedicated=[x for x in issues if x!='80']
+    neoaxioms.append({'id':ident,'titles':sorted(vals['titles']),'issues':issues,'dedicated':dedicated})
+nax_missing=[x for x in neoaxioms if not x['dedicated']]
 
-# Direct documentary graph per manifesto, grouped by repository domain.
-def group_refs(paths):
+# Publication/document relation hubs and co-citation graph.
+def is_publication(p):
+    try:r=p.relative_to(ROOT)
+    except ValueError:return False
+    if p in MSET:return False
+    if r.parts and r.parts[0] in {'analisis','auditorias','propuestas','obras','anuncios','difusion','proyeccion','wiki-source'}:return True
+    return False
+pubs=[]; pub_inbound=defaultdict(set); pair_sources=defaultdict(set)
+for f in MD:
+    fr=f.resolve()
+    if not is_publication(fr):continue
+    linked=sorted([x for x in outbound[fr] if x in MSET],key=lambda p:BYPATH[p][0])
+    if linked:
+        rr=f.relative_to(ROOT).as_posix(); pubs.append({'path':rr,'manifestos':[BYPATH[p][0] for p in linked]})
+        for p in linked:pub_inbound[p].add(fr)
+        for a,b in combinations(linked,2):pair_sources[tuple(sorted((a,b),key=lambda p:BYPATH[p][0]))].add(fr)
+weak=[{'roman':r,'title':t,'path':p.relative_to(ROOT).as_posix(),'publication_links':len(pub_inbound[p])} for r,t,p in manifestos if len(pub_inbound[p])==0]
+co=[]
+for (a,b),srcs in pair_sources.items():
+    if len(srcs)>=2:
+        co.append({'a':BYPATH[a][0],'b':BYPATH[b][0],'sources':len(srcs),'examples':[p.relative_to(ROOT).as_posix() for p in sorted(srcs)[:8]]})
+co.sort(key=lambda x:(-x['sources'],x['a'],x['b']))
+
+# Direct graph grouped by domain.
+def group(paths):
     g=defaultdict(list)
     for p in sorted(paths,key=lambda x:x.as_posix().lower()):
         try:r=p.relative_to(ROOT)
         except ValueError:continue
-        if p in manifest_set: key='manifiestos'
-        elif r.parts[:2]==('analisis','publicos'): key='analisis/publicos'
-        elif r.parts[:2]==('auditorias','publicas'): key='auditorias/publicas'
-        elif r.parts[:2]==('propuestas','sintesis-abierta'): key='sintesis-abierta'
-        elif r.parts and r.parts[0]=='obras': key='obras'
-        elif r.parts and r.parts[0]=='proyeccion': key='proyeccion'
-        elif r.parts and r.parts[0]=='neoaxiomas': key='neoaxiomas'
-        else: key='otros'
-        g[key].append(r.as_posix())
+        if p in MSET:k='manifiestos'
+        elif r.parts[:2]==('analisis','publicos'):k='analisis/publicos'
+        elif r.parts[:2]==('auditorias','publicas'):k='auditorias/publicas'
+        elif r.parts[:2]==('propuestas','sintesis-abierta'):k='sintesis-abierta'
+        elif r.parts and r.parts[0]=='obras':k='obras'
+        elif r.parts and r.parts[0]=='proyeccion':k='proyeccion'
+        elif r.parts and r.parts[0]=='neoaxiomas':k='neoaxiomas'
+        else:k='otros'
+        g[k].append(r.as_posix())
     return dict(g)
+graph=[{'roman':r,'title':t,'path':p.relative_to(ROOT).as_posix(),'outbound':group(outbound[p]),'inbound':group(inbound[p])} for r,t,p in manifestos]
 
-graph=[]
-for roman,title,p in manifestos:
-    graph.append({
-        'roman':roman,'title':title,'path':p.relative_to(ROOT).as_posix(),
-        'outbound':group_refs(outbound[p]),
-        'inbound':group_refs(inbound[p]),
-    })
-
-# Menu/entry-point audit.
-entrypoints=[ROOT/'README.md',MANIFEST_INDEX,ROOT/'propuestas/sintesis-abierta/README.md',NEOAX,REL_MAP]
+entry=[ROOT/'README.md',MIDX,SYN,NEO,REL]
 menu=[]
-for p in entrypoints:
-    if not p.exists():
-        menu.append({'path':p.relative_to(ROOT).as_posix(),'missing_file':True}); continue
-    t=p.read_text(encoding='utf-8',errors='replace')
-    menu.append({
-        'path':p.relative_to(ROOT).as_posix(),
-        'neoaxiomas': 'neoaxiomas/README.md' in t or p==NEOAX,
-        'sintesis': 'propuestas/sintesis-abierta/README.md' in t or p.name=='README.md' and p.parent.name=='sintesis-abierta',
-        'relations': 'RELACIONES_TRABAJO_APLICADO_ES_EN.md' in t or p==REL_MAP,
-        'manifestos': 'manifiestos/README.md' in t or p==MANIFEST_INDEX,
-    })
+for p in entry:
+    t=p.read_text(encoding='utf-8',errors='replace') if p.exists() else ''
+    menu.append({'path':p.relative_to(ROOT).as_posix(),'neoaxiomas':('neoaxiomas/README.md' in t or p==NEO),'sintesis':('propuestas/sintesis-abierta/README.md' in t or p==SYN),'relations':('RELACIONES_TRABAJO_APLICADO_ES_EN.md' in t or p==REL),'manifestos':('manifiestos/README.md' in t or p==MIDX),'audit':('2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md' in t or p==REPORT)})
 
-# Write full non-reductive audit. No source document is shortened or rewritten.
-lines=[]
-lines += ['# Auditoría relacional MAXPROC · Manifiestos ↔ Neoaxiomas ↔ publicaciones ↔ Síntesis Abierta',
-          '## MAXPROC relational audit · Manifestos ↔ Neoaxioms ↔ publications ↔ Open Synthesis','',
-          '**Fecha / Date:** 2026-08-09  ',
-          f'**Manifiestos canónicos detectados / Canonical manifestos detected:** {len(manifestos)} · I–{manifestos[-1][0]}  ',
-          f'**Archivos Markdown examinados / Markdown files scanned:** {len(MD)}  ',
-          '**Regla de integridad:** esta auditoría no resume, acorta ni reescribe cuerpos de manifiestos. Las métricas sólo detectan candidatos a recuperación o ampliación desde fuentes, manteniendo íntegro el texto existente. / **Integrity rule:** this audit never summarises, shortens or rewrites manifesto bodies. Metrics only detect candidates for source recovery or expansion while preserving existing text intact.','',
-          '---','',
-          '## 1. Hallazgos estructurales / Structural findings','',
-          f'- Cobertura del mapa curado / Curated-map coverage: **{len(relation_covered)}/{len(manifestos)}**.',
-          f'- Manifiestos ausentes del mapa curado / Manifestos missing from curated map: **{", ".join(x[0] for x in relation_missing) if relation_missing else "ninguno / none"}**.',
-          f'- Neoaxiomas sin enlace de síntesis en su propia sección / Neoaxioms without a synthesis link in their own section: **{", ".join(x["id"] for x in nax_missing) if nax_missing else "ninguno / none"}**.',
-          f'- Enlaces Markdown locales rotos detectados / Broken local Markdown links detected: **{len(broken)}**.',
-          f'- Manifiestos candidatos a revisión de densidad textual, sin modificación automática / Manifestos flagged for textual-density review, with no automatic modification: **{len(short)}**.','',
-          '---','',
-          '## 2. Candidatos a recuperación o ampliación íntegra / Candidates for full source recovery or expansion','',
-          '| Nº | Archivo | Palabras aprox. | Encabezados | Párrafos sustantivos | Palabras/encabezado |','|---:|---|---:|---:|---:|---:|']
-for m in short:
-    lines.append(f'| {m["roman"]} | `{m["path"]}` | {m["words"]} | {m["headings"]} | {m["paragraphs"]} | {m["words_per_heading"]} |')
-lines += ['','> La inclusión en esta tabla **no significa que el manifiesto sea conceptualmente insuficiente**. Significa únicamente que su densidad documental es baja frente al resto del corpus y debe compararse con hilos, fuentes, publicaciones y versiones anteriores antes de cualquier ampliación. / Inclusion here does **not** mean conceptual insufficiency; it only marks low documentary density and requires comparison with sources before expansion.','',
-          '---','',
-          '## 3. Cobertura de relaciones por manifiesto / Per-manifesto relation coverage','']
-for node in graph:
-    lines += [f'### {node["roman"]} · {node["title"]}',f'`{node["path"]}`','']
-    out=node['outbound']; inn=node['inbound']
-    if out:
-        lines.append('**Salientes directas / Direct outbound:**')
-        for k,vals in out.items():
-            lines.append(f'- **{k}:** ' + ' · '.join(f'`{v}`' for v in vals))
-    else: lines.append('**Salientes directas / Direct outbound:** ninguna / none.')
-    if inn:
-        lines.append('**Entrantes directas / Direct inbound:**')
-        for k,vals in inn.items():
-            lines.append(f'- **{k}:** ' + ' · '.join(f'`{v}`' for v in vals))
-    else: lines.append('**Entrantes directas / Direct inbound:** ninguna / none.')
-    lines.append('')
-
-lines += ['---','','## 4. Neoaxiomas y sus síntesis / Neoaxioms and their syntheses','',
-          '| Neoaxioma | Título | Issues enlazados en la sección |','|---|---|---|']
-for x in sections:
-    val=' · '.join('#'+i for i in x['issues']) if x['issues'] else '**FALTA / MISSING**'
-    lines.append(f'| {x["id"]} | {x["title"]} | {val} |')
-
-lines += ['','---','','## 5. Menús y puertas de navegación / Menus and navigation doors','',
-          '| Superficie | Neoaxiomas | Síntesis | Relaciones | Manifiestos |','|---|:---:|:---:|:---:|:---:|']
-for m in menu:
-    if m.get('missing_file'):
-        lines.append(f'| `{m["path"]}` | — | — | — | — |'); continue
-    yn=lambda v:'✓' if v else '✗'
-    lines.append(f'| `{m["path"]}` | {yn(m["neoaxiomas"])} | {yn(m["sintesis"])} | {yn(m["relations"])} | {yn(m["manifestos"])} |')
-
-lines += ['','---','','## 6. Enlaces locales rotos / Broken local links','']
+lines=['# Auditoría relacional MAXPROC · Manifiestos ↔ Neoaxiomas ↔ publicaciones ↔ Síntesis Abierta','## MAXPROC relational audit · Manifestos ↔ Neoaxioms ↔ publications ↔ Open Synthesis','',
+'**Fecha / Date:** 2026-08-09  ',f'**Manifiestos canónicos / Canonical manifestos:** {len(manifestos)} · I–{manifestos[-1][0]}  ',f'**Markdown examinado / Markdown scanned:** {len(MD)}  ',
+'**Regla de integridad:** esta auditoría no resume, acorta ni reescribe cuerpos fuente. Detecta relaciones documentales y candidatos a revisión; las relaciones semánticas o causales siguen requiriendo SAN/revisión humana. / **Integrity rule:** this audit never summarises, shortens or rewrites source bodies. It detects documentary relations and review candidates; semantic or causal relations still require SAN/human review.','',
+'## 1. Estado estructural / Structural state','',f'- Cobertura del mapa curado: **{len(covered)}/{len(manifestos)}**.',f'- Ausentes del mapa curado: **{", ".join(x[0] for x in missing) if missing else "ninguno / none"}**.',f'- Neoaxiomas sin Síntesis específica: **{", ".join(x["id"] for x in nax_missing) if nax_missing else "ninguno / none"}**.',f'- Enlaces locales realmente no resueltos: **{len(broken)}**.',f'- Manifiestos sin enlace entrante desde publicaciones/documentos aplicados: **{len(weak)}**.',f'- Pares de manifiestos cocitados por ≥2 publicaciones: **{len(co)}**.','',
+'## 2. Densidad documental · sólo alarma, nunca reducción','', '| Nº | Archivo | Palabras | Encabezados | Párrafos | Palabras/encabezado |','|---:|---|---:|---:|---:|---:|']
+for m in short:lines.append(f'| {m["roman"]} | `{m["path"]}` | {m["words"]} | {m["headings"]} | {m["paragraphs"]} | {m["words_per_heading"]} |')
+lines+=['','> Una bandera de densidad no autoriza a reescribir. Debe compararse con fuentes e historial; si falta desarrollo previo, se restaura o amplía sin borrar el texto vigente.','',
+'## 3. Neoaxiomas ↔ Síntesis específica','', '| Neoaxioma | Issues detectados | Síntesis específica |','|---|---|---|']
+for x in neoaxioms:lines.append(f'| {x["id"]} | {", ".join("#"+i for i in x["issues"])} | {", ".join("#"+i for i in x["dedicated"]) if x["dedicated"] else "**FALTA**"} |')
+lines+=['','## 4. Cobertura de publicaciones','']
+if weak:
+    lines.append('**Sin relación entrante directa desde documentos aplicados / Without direct inbound applied-document relation:**')
+    for x in weak:lines.append(f'- **{x["roman"]}** · `{x["path"]}`')
+else:lines.append('- Todos los manifiestos tienen al menos una relación documental entrante desde publicaciones/documentos aplicados. / Every manifesto has at least one inbound documentary relation from applied publications/documents.')
+lines+=['','### Cocitación documental · candidatos de relación para revisión SAN','',
+'> Cocitación significa que dos manifiestos son enlazados por los mismos documentos. Es evidencia de relación documental, no de equivalencia ni causalidad.','', '| Par | Nº fuentes | Ejemplos |','|---|---:|---|']
+for x in co[:100]:lines.append(f'| **{x["a"]} ↔ {x["b"]}** | {x["sources"]} | ' + '<br>'.join(f'`{e}`' for e in x['examples'][:4]) + ' |')
+lines+=['','## 5. Menús y puertas','', '| Superficie | Neoaxiomas | Síntesis | Relaciones | Manifiestos | Auditoría |','|---|:---:|:---:|:---:|:---:|:---:|']
+for x in menu:
+    q=lambda b:'✓' if b else '✗';lines.append(f'| `{x["path"]}` | {q(x["neoaxiomas"])} | {q(x["sintesis"])} | {q(x["relations"])} | {q(x["manifestos"])} | {q(x["audit"])} |')
+lines+=['','## 6. Enlaces locales no resueltos','']
 if broken:
-    for f,t,href in broken:
-        lines.append(f'- `{f.relative_to(ROOT).as_posix()}` → `{href}`')
-else:
-    lines.append('- Ninguno detectado / None detected.')
-
-lines += ['','---','','## 7. Regla permanente de mantenimiento / Permanent maintenance rule','',
-          '1. Ninguna automatización puede sustituir un manifiesto por un resumen ni reducir deliberadamente su cuerpo fuente. / No automation may replace a manifesto with a summary or deliberately reduce its source body.',
-          '2. Toda nueva publicación debe declarar o descubrir relaciones con manifiestos, Neoaxiomas, auditorías y Síntesis Abierta cuando existan. / Every new publication should declare or discover relations to manifestos, Neoaxioms, audits and Open Synthesis when they exist.',
-          '3. Toda nueva pieza canónica debe exponer menú de retorno al índice correspondiente y, cuando proceda, a su Síntesis Abierta. / Every new canonical piece must expose return navigation to its index and, where applicable, its Open Synthesis.',
-          '4. Las relaciones automáticas basadas en enlaces se consideran **documentales**; las relaciones semánticas o causales requieren revisión humana/SAN. / Link-based automatic relations are **documentary**; semantic or causal relations require human/SAN review.',
-          '5. Las futuras imágenes de manifiestos y Neoaxiomas deben añadirse como capa ilustrativa sin sustituir texto ni genealogía. / Future manifesto and Neoaxiom images must be added as an illustrative layer without replacing text or genealogy.','']
-
-REPORT.parent.mkdir(parents=True,exist_ok=True)
-REPORT.write_text('\n'.join(lines)+'\n',encoding='utf-8')
-JSON_OUT.write_text(json.dumps({'metrics':metrics,'short':short,'relation_missing':[x[0] for x in relation_missing],'neoaxioms':sections,'broken':[{'source':f.relative_to(ROOT).as_posix(),'href':h} for f,_,h in broken],'graph':graph,'menu':menu},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-
-print('MANIFESTOS',len(manifestos),'MARKDOWN',len(MD),'SHORT',len(short),'RELATION_MISSING',len(relation_missing),'NAX_MISSING_SYNTH',len(nax_missing),'BROKEN',len(broken))
-print('REPORT',REPORT.relative_to(ROOT))
+    for f,h in broken:lines.append(f'- `{f.relative_to(ROOT).as_posix()}` → `{h}`')
+else:lines.append('- Ninguno / None.')
+lines+=['','## 7. Grafo directo completo por manifiesto','']
+for x in graph:
+    lines += [f'### {x["roman"]} · {x["title"]}',f'`{x["path"]}`']
+    for label,data in [('Salientes / Outbound',x['outbound']),('Entrantes / Inbound',x['inbound'])]:
+        lines.append(f'**{label}:**')
+        if not data:lines.append('- ninguna / none')
+        else:
+            for k,vals in data.items():lines.append(f'- **{k}:** '+' · '.join(f'`{v}`' for v in vals))
+    lines.append('')
+lines+=['## 8. Regla permanente de mantenimiento','',
+'1. Ninguna automatización puede sustituir un manifiesto, Neoaxioma u otro cuerpo fuente por un resumen ni reducir deliberadamente su contenido.',
+'2. Toda nueva publicación debe declarar o descubrir relaciones con manifiestos, Neoaxiomas, auditorías y Síntesis Abierta cuando existan.',
+'3. Toda pieza canónica debe exponer retorno a índices y Síntesis relacionadas sin convertir navegación en sustituto del texto.',
+'4. Las relaciones por enlace y cocitación son documentales; las relaciones semánticas/causales requieren SAN.',
+'5. Las ilustraciones se añaden como capa expresiva con alt/procedencia, sin sustituir texto ni genealogía.','']
+REPORT.parent.mkdir(parents=True,exist_ok=True);REPORT.write_text('\n'.join(lines),encoding='utf-8')
+JSON_OUT.write_text(json.dumps({'metrics':metrics,'density_flags':short,'relation_missing':[x[0] for x in missing],'neoaxioms':neoaxioms,'broken':[{'source':f.relative_to(ROOT).as_posix(),'href':h} for f,h in broken],'weak_publication_relations':weak,'co_citation':co,'publication_hubs':pubs,'graph':graph,'menu':menu},ensure_ascii=False,indent=2),encoding='utf-8')
+print('MANIFESTOS',len(manifestos),'MAP',len(covered),'/',len(manifestos),'NAX_MISSING',len(nax_missing),'BROKEN',len(broken),'WEAK_PUB',len(weak),'COCITATION',len(co))
+print('POSTCHECK OK: non-reductive relational audit generated')
