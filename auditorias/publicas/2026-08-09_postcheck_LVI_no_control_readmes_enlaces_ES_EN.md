@@ -5,15 +5,15 @@
 
 ## ES · Resultado
 
-- Archivos Markdown revisados: **216**.
+- Archivos Markdown revisados: **217**.
 - README/LEEME revisados: **15**.
-- Enlaces internos de ruta comprobados: **4770**.
+- Enlaces internos de ruta comprobados: **4954**.
 - Alias internos de GitHub Wiki reconocidos: **11**.
-- Enlaces externos inventariados sin comprobar disponibilidad remota: **989**.
+- Enlaces externos inventariados sin comprobar disponibilidad remota: **995**.
 - Enlaces sólo a ancla detectados: **230**.
 - Bloques de último manifiesto encontrados en README/LEEME: **11**.
 - Manifiestos canónicos detectados: **0 · I–?**.
-- Enlaces internos rotos detectados: **2**.
+- Enlaces internos rotos detectados: **0**.
 - Fallos canónicos críticos: **3**.
 
 ### Comprobaciones canónicas
@@ -31,18 +31,15 @@
 
 ### Enlaces internos rotos
 
-| Origen | Destino | Motivo |
-|---|---|---|
-| `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md` | `../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md` | destino inexistente / missing target |
-| `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md` | `../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md` | destino inexistente / missing target |
+- Ninguno detectado por el validador de rutas del repositorio.
 
 ## EN · Result
 
-- Markdown files reviewed: **216**.
+- Markdown files reviewed: **217**.
 - README/LEEME files reviewed: **15**.
-- Internal path links checked: **4770**.
+- Internal path links checked: **4954**.
 - GitHub Wiki extensionless page aliases recognised: **11**.
-- Broken internal links found: **2**.
+- Broken internal links found: **0**.
 - Canonical critical failures: **3**.
 
 External URL availability and rendered GitHub anchor semantics are not asserted by this local-path validator.
