@@ -13,7 +13,7 @@
 - Es un detector: cada caso marcado requiere lectura humana antes de corregir.
 
 **Documentos bilingües examinados:** 82  
-**Marcados para revisión:** 17  
+**Marcados para revisión:** 16  
 **Con marcador incompleto/ausente:** 0
 
 ## Casos marcados
@@ -28,7 +28,6 @@
 | `manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md` | 906 | 549 | 0.61 | 14 | 13 | EN/ES palabras=0.61 |
 | `manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md` | 1396 | 850 | 0.61 | 16 | 16 | EN/ES palabras=0.61 |
 | `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` | 2582 | 738 | 0.29 | 40 | 8 | EN/ES palabras=0.29; encabezados ES=40, EN=8 |
-| `analisis/publicos/2026-08-08_addendum_autodemostracion_creacion_neodialectica_historia_olvidada_ES_EN.md` | 656 | 189 | 0.29 | 9 | 2 | EN/ES palabras=0.29; encabezados ES=9, EN=2 |
 | `analisis/publicos/2026-08-08_addendum_distrokid_catalogo_album_removed_added_apple_music_ES_EN.md` | 803 | 588 | 0.73 | 14 | 12 | EN/ES palabras=0.73 |
 | `analisis/publicos/2026-08-08_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_funcional_ES_EN.md` | 419 | 135 | 0.32 | 4 | 0 | EN/ES palabras=0.32; encabezados ES=4, EN=0 |
 | `analisis/publicos/2026-08-08_delta_poder_incentivos_tokenizacion_y_transicion_neodialectica_ES_EN.md` | 908 | 357 | 0.39 | 12 | 4 | EN/ES palabras=0.39; encabezados ES=12, EN=4 |
@@ -111,7 +110,7 @@
 | `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` | 531 | 670 | 1.26 | 5 | 6 | OK |
 | `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md` | 403 | 604 | 1.50 | 6 | 7 | OK |
 | `analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md` | 807 | 805 | 1.00 | 8 | 9 | OK |
-| `analisis/publicos/2026-08-08_addendum_autodemostracion_creacion_neodialectica_historia_olvidada_ES_EN.md` | 656 | 189 | 0.29 | 9 | 2 | REVISAR |
+| `analisis/publicos/2026-08-08_addendum_autodemostracion_creacion_neodialectica_historia_olvidada_ES_EN.md` | 656 | 657 | 1.00 | 9 | 9 | OK |
 | `analisis/publicos/2026-08-08_addendum_distrokid_catalogo_album_removed_added_apple_music_ES_EN.md` | 803 | 588 | 0.73 | 14 | 12 | REVISAR |
 | `analisis/publicos/2026-08-08_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_funcional_ES_EN.md` | 419 | 135 | 0.32 | 4 | 0 | REVISAR |
 | `analisis/publicos/2026-08-08_delta_poder_incentivos_tokenizacion_y_transicion_neodialectica_ES_EN.md` | 908 | 357 | 0.39 | 12 | 4 | REVISAR |
