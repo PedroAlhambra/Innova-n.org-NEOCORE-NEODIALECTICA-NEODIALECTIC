@@ -8,7 +8,7 @@
       "historical_max_words": 2360,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 24
+      "versions_checked": 27
     },
     {
       "id": "II",
@@ -18,7 +18,7 @@
       "historical_max_words": 1996,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 18
+      "versions_checked": 21
     },
     {
       "id": "III",
@@ -28,7 +28,7 @@
       "historical_max_words": 3682,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 14
+      "versions_checked": 17
     },
     {
       "id": "IV",
@@ -38,7 +38,7 @@
       "historical_max_words": 1696,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 18
+      "versions_checked": 21
     },
     {
       "id": "V",
@@ -48,7 +48,7 @@
       "historical_max_words": 2270,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 19
+      "versions_checked": 22
     },
     {
       "id": "VI",
@@ -58,7 +58,7 @@
       "historical_max_words": 2761,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 20
+      "versions_checked": 23
     },
     {
       "id": "VII",
@@ -68,7 +68,7 @@
       "historical_max_words": 1932,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 19
+      "versions_checked": 22
     },
     {
       "id": "VIII",
@@ -78,7 +78,7 @@
       "historical_max_words": 1637,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 18
+      "versions_checked": 21
     },
     {
       "id": "IX",
@@ -88,7 +88,7 @@
       "historical_max_words": 1754,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 19
+      "versions_checked": 22
     },
     {
       "id": "X",
@@ -98,7 +98,7 @@
       "historical_max_words": 1227,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 18
+      "versions_checked": 21
     },
     {
       "id": "XI",
@@ -108,7 +108,7 @@
       "historical_max_words": 2224,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 21
+      "versions_checked": 24
     },
     {
       "id": "XII",
@@ -118,7 +118,7 @@
       "historical_max_words": 1778,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 15
+      "versions_checked": 18
     },
     {
       "id": "XIII",
@@ -128,7 +128,7 @@
       "historical_max_words": 4541,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 14
+      "versions_checked": 17
     },
     {
       "id": "XIV",
@@ -138,7 +138,7 @@
       "historical_max_words": 3922,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 13
+      "versions_checked": 16
     },
     {
       "id": "XV",
@@ -148,7 +148,7 @@
       "historical_max_words": 3392,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 13
+      "versions_checked": 16
     },
     {
       "id": "XVI",
@@ -158,7 +158,7 @@
       "historical_max_words": 3466,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 14
+      "versions_checked": 17
     },
     {
       "id": "XVII",
@@ -168,7 +168,7 @@
       "historical_max_words": 2773,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 13
+      "versions_checked": 16
     },
     {
       "id": "XVIII",
@@ -178,7 +178,7 @@
       "historical_max_words": 2932,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 13
+      "versions_checked": 16
     },
     {
       "id": "XIX",
@@ -188,7 +188,7 @@
       "historical_max_words": 2923,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 14
+      "versions_checked": 17
     },
     {
       "id": "XX",
@@ -198,7 +198,7 @@
       "historical_max_words": 3965,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 13
+      "versions_checked": 16
     },
     {
       "id": "XXI",
@@ -208,7 +208,7 @@
       "historical_max_words": 3582,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 14
+      "versions_checked": 17
     },
     {
       "id": "XXII",
@@ -218,7 +218,7 @@
       "historical_max_words": 3549,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 14
+      "versions_checked": 17
     },
     {
       "id": "XXIII",
@@ -228,7 +228,7 @@
       "historical_max_words": 3338,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 13
+      "versions_checked": 16
     },
     {
       "id": "XXIV",
@@ -238,7 +238,7 @@
       "historical_max_words": 3156,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 14
+      "versions_checked": 17
     },
     {
       "id": "XXV",
@@ -248,7 +248,7 @@
       "historical_max_words": 1887,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 13
+      "versions_checked": 16
     },
     {
       "id": "XXVI",
@@ -258,7 +258,7 @@
       "historical_max_words": 2499,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 14
+      "versions_checked": 17
     },
     {
       "id": "XXVII",
@@ -268,7 +268,7 @@
       "historical_max_words": 2223,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 13
+      "versions_checked": 16
     },
     {
       "id": "XXVIII",
@@ -278,7 +278,7 @@
       "historical_max_words": 2570,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 14
+      "versions_checked": 17
     },
     {
       "id": "XXIX",
@@ -288,7 +288,7 @@
       "historical_max_words": 2633,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 14
+      "versions_checked": 17
     },
     {
       "id": "XXX",
@@ -298,7 +298,7 @@
       "historical_max_words": 2236,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 13
+      "versions_checked": 16
     },
     {
       "id": "XXXI",
@@ -308,7 +308,7 @@
       "historical_max_words": 2860,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 15
+      "versions_checked": 18
     },
     {
       "id": "XXXII",
@@ -318,7 +318,7 @@
       "historical_max_words": 3757,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 14
+      "versions_checked": 17
     },
     {
       "id": "XXXIII",
@@ -328,7 +328,7 @@
       "historical_max_words": 4670,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 15
+      "versions_checked": 18
     },
     {
       "id": "XXXIV",
@@ -338,7 +338,7 @@
       "historical_max_words": 4568,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 16
+      "versions_checked": 19
     },
     {
       "id": "XXXV",
@@ -348,17 +348,17 @@
       "historical_max_words": 4887,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 15
+      "versions_checked": 18
     },
     {
       "id": "XXXVI",
       "title": "Corona, Águila y Custodia de la Edad del Hombre™",
       "path": "manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md",
-      "current_words": 3495,
-      "historical_max_words": 3495,
+      "current_words": 4588,
+      "historical_max_words": 4588,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 14
+      "versions_checked": 18
     },
     {
       "id": "XXXVII",
@@ -368,7 +368,7 @@
       "historical_max_words": 2931,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 12
+      "versions_checked": 15
     },
     {
       "id": "XXXVIII",
@@ -378,7 +378,7 @@
       "historical_max_words": 6114,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 14
+      "versions_checked": 17
     },
     {
       "id": "XXXIX",
@@ -388,7 +388,7 @@
       "historical_max_words": 3086,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 12
+      "versions_checked": 15
     },
     {
       "id": "XL",
@@ -398,7 +398,7 @@
       "historical_max_words": 3178,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 13
+      "versions_checked": 16
     },
     {
       "id": "XLI",
@@ -408,7 +408,7 @@
       "historical_max_words": 3191,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 13
+      "versions_checked": 16
     },
     {
       "id": "XLII",
@@ -418,7 +418,7 @@
       "historical_max_words": 3639,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 13
+      "versions_checked": 16
     },
     {
       "id": "XLIII",
@@ -428,7 +428,7 @@
       "historical_max_words": 3887,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 12
+      "versions_checked": 15
     },
     {
       "id": "XLIV",
@@ -438,7 +438,7 @@
       "historical_max_words": 3480,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 12
+      "versions_checked": 15
     },
     {
       "id": "XLV",
@@ -448,7 +448,7 @@
       "historical_max_words": 4782,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 12
+      "versions_checked": 15
     },
     {
       "id": "XLVI",
@@ -458,7 +458,7 @@
       "historical_max_words": 3894,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 12
+      "versions_checked": 15
     },
     {
       "id": "XLVII",
@@ -468,7 +468,7 @@
       "historical_max_words": 3953,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 12
+      "versions_checked": 15
     },
     {
       "id": "XLVIII",
@@ -478,7 +478,7 @@
       "historical_max_words": 6184,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 12
+      "versions_checked": 15
     },
     {
       "id": "XLIX",
@@ -488,7 +488,7 @@
       "historical_max_words": 2932,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 12
+      "versions_checked": 15
     },
     {
       "id": "L",
@@ -498,7 +498,7 @@
       "historical_max_words": 2961,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 12
+      "versions_checked": 15
     },
     {
       "id": "LI",
@@ -508,7 +508,7 @@
       "historical_max_words": 3120,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 11
+      "versions_checked": 14
     },
     {
       "id": "LII",
@@ -518,7 +518,7 @@
       "historical_max_words": 3321,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 11
+      "versions_checked": 14
     },
     {
       "id": "LIII",
@@ -528,7 +528,7 @@
       "historical_max_words": 2777,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 9
+      "versions_checked": 12
     },
     {
       "id": "LIV",
@@ -538,7 +538,7 @@
       "historical_max_words": 4373,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 7
+      "versions_checked": 10
     },
     {
       "id": "LV",
@@ -548,7 +548,7 @@
       "historical_max_words": 2093,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 7
+      "versions_checked": 10
     },
     {
       "id": "LVI",
@@ -558,7 +558,7 @@
       "historical_max_words": 3060,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 6
+      "versions_checked": 9
     },
     {
       "id": "LVII",
@@ -568,7 +568,7 @@
       "historical_max_words": 1334,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 2
+      "versions_checked": 5
     },
     {
       "id": "LVIII",
@@ -578,17 +578,27 @@
       "historical_max_words": 1544,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 2
+      "versions_checked": 5
     },
     {
       "id": "LIX",
       "title": "Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana / Distributed Cognitive Custodianship™ · AI, Repair and Human Responsibility",
       "path": "manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md",
-      "current_words": 1379,
-      "historical_max_words": 1379,
+      "current_words": 1387,
+      "historical_max_words": 1387,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 2
+      "versions_checked": 6
+    },
+    {
+      "id": "LX",
+      "title": "Relevancia Humana Necesaria™ · Inteligencia Distribuida, Aporte y Anti-Captura Social / Necessary Human Relevance™ · Distributed Intelligence, Contribution and Anti-Capture",
+      "path": "manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md",
+      "current_words": 3308,
+      "historical_max_words": 3308,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 1
     }
   ],
   "strong_regressions": []
