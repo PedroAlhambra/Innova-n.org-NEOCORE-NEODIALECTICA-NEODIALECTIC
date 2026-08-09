@@ -23,10 +23,20 @@
 
 Este directorio documenta cómo Innova_N proyecta el marco fuera de su fuente viva sin confundir **difusión** con simple marketing. Cuando el trabajo busca crítica, evidencia, participantes, implementación, contraste o apertura de nodos, se registra como **trabajo de construcción del Bien Común**.
 
+## Entrada estable para contactos / Stable external-contact entry
+
+- **[Seguir el Marco y la Síntesis / Follow the Framework and Synthesis](./SEGUIR_MARCO_SINTESIS_ES_EN.md)**
+- **[Registro de Entrada Trazable™ / Traceable Entry Register™](../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)**
+
+Los nuevos contactos deben recibir preferentemente el enlace vivo de seguimiento además del nodo específico que motive el correo. Así una comunicación no queda obsoleta cuando cambia el último manifiesto o crece el corpus.
+
 ## Documentos activos
 
 - [Protocolo de Proyección Distribuida Neodialéctica™](./PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md)
 - [Difusión del Neodialectica Framework™ / Network · 2026-08-09](./DIFUSION_MARCO_2026-08-09.md)
+- [Seguir el Marco y la Síntesis](./SEGUIR_MARCO_SINTESIS_ES_EN.md)
+- [Registro de Entrada Trazable™ y Derivación](../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)
+- [MAXPROC · Registro de Entrada, Derivación y Herosión™](../analisis/publicos/2026-08-09_maxproc_registro_entrada_trazabilidad_derivacion_herosion_ES_EN.md)
 - [Puente de Participación Guiada · Correo ↔ GitHub](../propuestas/sintesis-abierta/PUENTE_PARTICIPACION_GUIADA_CORREO_GITHUB_ES_EN.md)
 - [Auditoría del Fundador™ · Tiempo, carga solitaria y retorno al Bien Común](../auditorias/publicas/2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md)
 - [Delta · Guerra del Fundador contra la Idiotez™ y Devolución del Tiempo Fundacional™](../analisis/publicos/2026-08-09_guerra_fundador_contra_idiotez_devolucion_tiempo_bien_comun_ES_EN.md)
@@ -38,6 +48,8 @@ Este directorio documenta cómo Innova_N proyecta el marco fuera de su fuente vi
 CREACIÓN / INVESTIGACIÓN / AUDITORÍA
 → PUBLICACIÓN TRAZABLE
 → DIFUSIÓN CONTEXTUAL
+→ ENLACE VIVO DE SEGUIMIENTO
+→ REGISTRO DE ENTRADA SI EL INTERLOCUTOR QUIERE RELACIÓN TRAZABLE
 → RESPUESTA EXTERNA
 → CLASIFICACIÓN
 → CONSENTIMIENTO SI VIENE POR CORREO
