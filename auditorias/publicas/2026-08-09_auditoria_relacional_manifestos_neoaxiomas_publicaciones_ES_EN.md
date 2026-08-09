@@ -2,25 +2,22 @@
 ## MAXPROC relational audit · Manifestos ↔ Neoaxioms ↔ publications ↔ Open Synthesis
 
 **Fecha / Date:** 2026-08-09  
-**Manifiestos canónicos detectados / Canonical manifestos detected:** 59 · I–LIX  
-**Archivos Markdown examinados / Markdown files scanned:** 219  
-**Regla de integridad:** esta auditoría no resume, acorta ni reescribe cuerpos de manifiestos. Las métricas sólo detectan candidatos a recuperación o ampliación desde fuentes, manteniendo íntegro el texto existente. / **Integrity rule:** this audit never summarises, shortens or rewrites manifesto bodies. Metrics only detect candidates for source recovery or expansion while preserving existing text intact.
+**Manifiestos canónicos / Canonical manifestos:** 59 · I–LIX  
+**Markdown examinado / Markdown scanned:** 221  
+**Regla de integridad:** esta auditoría no resume, acorta ni reescribe cuerpos fuente. Detecta relaciones documentales y candidatos a revisión; las relaciones semánticas o causales siguen requiriendo SAN/revisión humana. / **Integrity rule:** this audit never summarises, shortens or rewrites source bodies. It detects documentary relations and review candidates; semantic or causal relations still require SAN/human review.
 
----
+## 1. Estado estructural / Structural state
 
-## 1. Hallazgos estructurales / Structural findings
+- Cobertura del mapa curado: **56/59**.
+- Ausentes del mapa curado: **LVII, LVIII, LIX**.
+- Neoaxiomas sin Síntesis específica: **ninguno / none**.
+- Enlaces locales realmente no resueltos: **0**.
+- Manifiestos sin enlace entrante desde publicaciones/documentos aplicados: **0**.
+- Pares de manifiestos cocitados por ≥2 publicaciones: **450**.
 
-- Cobertura del mapa curado / Curated-map coverage: **51/59**.
-- Manifiestos ausentes del mapa curado / Manifestos missing from curated map: **XLIX, LIII, LIV, LV, LVI, LVII, LVIII, LIX**.
-- Neoaxiomas sin enlace de síntesis en su propia sección / Neoaxioms without a synthesis link in their own section: **NAX-01, NAX-02, NAX-03, NAX-04, NAX-05, NAX-06, NAX-07, NAX-08, NAX-09, NAX-10, NAX-11, NAX-01, NAX-02, NAX-03, NAX-04, NAX-05, NAX-06, NAX-07, NAX-08, NAX-09, NAX-10, NAX-11**.
-- Enlaces Markdown locales rotos detectados / Broken local Markdown links detected: **11**.
-- Manifiestos candidatos a revisión de densidad textual, sin modificación automática / Manifestos flagged for textual-density review, with no automatic modification: **5**.
+## 2. Densidad documental · sólo alarma, nunca reducción
 
----
-
-## 2. Candidatos a recuperación o ampliación íntegra / Candidates for full source recovery or expansion
-
-| Nº | Archivo | Palabras aprox. | Encabezados | Párrafos sustantivos | Palabras/encabezado |
+| Nº | Archivo | Palabras | Encabezados | Párrafos | Palabras/encabezado |
 |---:|---|---:|---:|---:|---:|
 | X | `manifiestos/07_web4_sistematrazable_ES_EN.md` | 1227 | 26 | 46 | 47.2 |
 | XX | `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` | 3965 | 85 | 168 | 46.6 |
@@ -28,23 +25,165 @@
 | LVIII | `manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md` | 1544 | 30 | 53 | 51.5 |
 | LIX | `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md` | 1379 | 30 | 53 | 46.0 |
 
-> La inclusión en esta tabla **no significa que el manifiesto sea conceptualmente insuficiente**. Significa únicamente que su densidad documental es baja frente al resto del corpus y debe compararse con hilos, fuentes, publicaciones y versiones anteriores antes de cualquier ampliación. / Inclusion here does **not** mean conceptual insufficiency; it only marks low documentary density and requires comparison with sources before expansion.
+> Una bandera de densidad no autoriza a reescribir. Debe compararse con fuentes e historial; si falta desarrollo previo, se restaura o amplía sin borrar el texto vigente.
 
----
+## 3. Neoaxiomas ↔ Síntesis específica
 
-## 3. Cobertura de relaciones por manifiesto / Per-manifesto relation coverage
+| Neoaxioma | Issues detectados | Síntesis específica |
+|---|---|---|
+| NAX-01 | #80, #84 | #84 |
+| NAX-02 | #80, #85 | #85 |
+| NAX-03 | #80, #86 | #86 |
+| NAX-04 | #80, #87 | #87 |
+| NAX-05 | #80, #88 | #88 |
+| NAX-06 | #80, #89 | #89 |
+| NAX-07 | #80, #90 | #90 |
+| NAX-08 | #80, #91 | #91 |
+| NAX-09 | #80, #92 | #92 |
+| NAX-10 | #80, #93 | #93 |
+| NAX-11 | #80, #94 | #94 |
+| NAX-12 | #80, #95 | #95 |
+| NAX-13 | #80, #96 | #96 |
+| NAX-14 | #80, #97 | #97 |
+
+## 4. Cobertura de publicaciones
+
+- Todos los manifiestos tienen al menos una relación documental entrante desde publicaciones/documentos aplicados. / Every manifesto has at least one inbound documentary relation from applied publications/documents.
+
+### Cocitación documental · candidatos de relación para revisión SAN
+
+> Cocitación significa que dos manifiestos son enlazados por los mismos documentos. Es evidencia de relación documental, no de equivalencia ni causalidad.
+
+| Par | Nº fuentes | Ejemplos |
+|---|---:|---|
+| **IX ↔ XXXIV** | 22 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` |
+| **IX ↔ XXII** | 21 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` |
+| **XXII ↔ XXXIV** | 21 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` |
+| **VII ↔ XXI** | 16 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **IX ↔ VII** | 15 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **XLII ↔ XXXIV** | 15 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` |
+| **XXXIV ↔ XXXV** | 15 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` |
+| **IX ↔ XXI** | 14 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **IX ↔ XXXV** | 14 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` |
+| **VII ↔ XXXIV** | 14 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **XXI ↔ XXII** | 14 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **XXI ↔ XXXIV** | 14 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **XXII ↔ XXXV** | 14 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` |
+| **IX ↔ XXVIII** | 13 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **VII ↔ XXII** | 13 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **VII ↔ XXVIII** | 13 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **XLII ↔ XXIII** | 13 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` |
+| **XXI ↔ XXVIII** | 13 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **XXII ↔ XXIII** | 13 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` |
+| **XXII ↔ XXVIII** | 13 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **XXVIII ↔ XXXIV** | 13 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **IX ↔ XLII** | 12 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` |
+| **IX ↔ XXIII** | 12 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` |
+| **XLII ↔ XXII** | 12 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` |
+| **XXIII ↔ XXXIV** | 12 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` |
+| **LIII ↔ LIX** | 11 | `analisis/README.md`<br>`analisis/auditorias/README.md`<br>`analisis/publicos/README.md`<br>`analisis/publicos/evidencias/README.md` |
+| **XX ↔ XXII** | 11 | `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md`<br>`analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md`<br>`analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md`<br>`analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` |
+| **XXI ↔ XXIII** | 11 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **IX ↔ XLV** | 10 | `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md`<br>`analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md`<br>`analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md`<br>`analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` |
+| **IX ↔ XX** | 10 | `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md`<br>`analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md`<br>`analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md`<br>`analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` |
+| **IX ↔ XXIX** | 10 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **LIX ↔ XLV** | 10 | `analisis/README.md`<br>`analisis/auditorias/README.md`<br>`analisis/publicos/README.md`<br>`analisis/publicos/evidencias/README.md` |
+| **VII ↔ XLII** | 10 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **VII ↔ XXIX** | 10 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **XLII ↔ XXI** | 10 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **XLII ↔ XXXI** | 10 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **XLV ↔ XX** | 10 | `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md`<br>`analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md`<br>`analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md`<br>`analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` |
+| **XLV ↔ XXII** | 10 | `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md`<br>`analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md`<br>`analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md`<br>`analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` |
+| **XLV ↔ XXXIV** | 10 | `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md`<br>`analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md`<br>`analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md`<br>`analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` |
+| **XXI ↔ XXIX** | 10 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **XXI ↔ XXXV** | 10 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **XXIII ↔ XXXI** | 10 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **XXIII ↔ XXXV** | 10 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **XXIX ↔ XXVIII** | 10 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **XXIX ↔ XXXI** | 10 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **XXIX ↔ XXXIV** | 10 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **XXVIII ↔ XXXI** | 10 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **IX ↔ VI** | 9 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **IX ↔ XXXI** | 9 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **LIII ↔ XLV** | 9 | `analisis/README.md`<br>`analisis/auditorias/README.md`<br>`analisis/publicos/README.md`<br>`analisis/publicos/evidencias/README.md` |
+| **VI ↔ VII** | 9 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **VI ↔ XLII** | 9 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **VI ↔ XXI** | 9 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **VI ↔ XXII** | 9 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **VI ↔ XXIII** | 9 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **VI ↔ XXIX** | 9 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **VI ↔ XXVIII** | 9 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **VI ↔ XXXI** | 9 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **VI ↔ XXXIV** | 9 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **VI ↔ XXXV** | 9 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **VII ↔ XXIII** | 9 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **VII ↔ XXXI** | 9 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **VII ↔ XXXV** | 9 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **XLII ↔ XXIX** | 9 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **XLII ↔ XXVIII** | 9 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **XLII ↔ XXXV** | 9 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **XX ↔ XXXIV** | 9 | `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md`<br>`analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md`<br>`analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md`<br>`analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` |
+| **XXI ↔ XXXI** | 9 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **XXII ↔ XXIX** | 9 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **XXII ↔ XXXI** | 9 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **XXIII ↔ XXIX** | 9 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **XXIII ↔ XXVIII** | 9 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **XXIX ↔ XXXV** | 9 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **XXVIII ↔ XXXV** | 9 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **XXXI ↔ XXXIV** | 9 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **XXXI ↔ XXXV** | 9 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md`<br>`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`<br>`analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`<br>`analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` |
+| **XLIV ↔ XLV** | 8 | `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md`<br>`analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` |
+| **XLV ↔ XLVI** | 8 | `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md`<br>`analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md`<br>`analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` |
+| **III ↔ VII** | 7 | `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md`<br>`analisis/publicos/2026-08-08_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_funcional_ES_EN.md`<br>`analisis/publicos/2026-08-08_delta_poder_incentivos_tokenizacion_y_transicion_neodialectica_ES_EN.md`<br>`auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` |
+| **VIII ↔ XLV** | 7 | `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md`<br>`analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md`<br>`analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` |
+| **VIII ↔ XLVI** | 7 | `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md`<br>`analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md`<br>`analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` |
+| **VIII ↔ XX** | 7 | `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md`<br>`analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md`<br>`analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` |
+| **VIII ↔ XXII** | 7 | `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md`<br>`analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md`<br>`analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` |
+| **XLIV ↔ XLVI** | 7 | `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md`<br>`analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` |
+| **XLIV ↔ XXXV** | 7 | `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md`<br>`analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` |
+| **XLVI ↔ XX** | 7 | `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md`<br>`analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md`<br>`analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` |
+| **XLVI ↔ XXII** | 7 | `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md`<br>`analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md`<br>`analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` |
+| **XXXIII ↔ XXXIV** | 7 | `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md`<br>`analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md`<br>`anuncios/2026-08-07_QUINTA_OLEADA_TRANSICION_AUDITORIA_ATENCION_ES_EN.md`<br>`auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` |
+| **III ↔ IX** | 6 | `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md`<br>`analisis/publicos/2026-08-08_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_funcional_ES_EN.md`<br>`auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md`<br>`auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` |
+| **III ↔ XXI** | 6 | `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md`<br>`analisis/publicos/2026-08-08_delta_poder_incentivos_tokenizacion_y_transicion_neodialectica_ES_EN.md`<br>`auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md`<br>`auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` |
+| **IX ↔ VIII** | 6 | `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md`<br>`analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` |
+| **IX ↔ XLI** | 6 | `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md`<br>`analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` |
+| **IX ↔ XLIV** | 6 | `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md`<br>`analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` |
+| **IX ↔ XLVI** | 6 | `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md`<br>`analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` |
+| **IX ↔ XXX** | 6 | `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md`<br>`analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` |
+| **VIII ↔ XLI** | 6 | `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md`<br>`analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` |
+| **VIII ↔ XLIV** | 6 | `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md`<br>`analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` |
+| **VIII ↔ XXX** | 6 | `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md`<br>`analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` |
+| **VIII ↔ XXXIV** | 6 | `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md`<br>`analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` |
+| **VIII ↔ XXXV** | 6 | `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md`<br>`analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md`<br>`analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` |
+
+## 5. Menús y puertas
+
+| Superficie | Neoaxiomas | Síntesis | Relaciones | Manifiestos | Auditoría |
+|---|:---:|:---:|:---:|:---:|:---:|
+| `README.md` | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `manifiestos/README.md` | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `propuestas/sintesis-abierta/README.md` | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `neoaxiomas/README.md` | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` | ✓ | ✓ | ✓ | ✗ | ✗ |
+
+## 6. Enlaces locales no resueltos
+
+- Ninguno / None.
+
+## 7. Grafo directo completo por manifiesto
 
 ### I · Neo0™ · Soberanía de Guía / Guiding Sovereignty
 `manifiestos/11_neo0_soberania_de_guia_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **otros:** `.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **analisis/publicos:** `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md` · `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md` · `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/03_simbiosis_humano_ia_ES_EN.md` · `manifiestos/04_economia_del_aporte_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/19_persistencia_de_la_memoria_ES_EN.md` · `manifiestos/21_reconocimiento_neodialectico_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/37_neofraternidad_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md`
 - **auditorias/publicas:** `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md`
 - **otros:** `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
@@ -53,15 +192,15 @@
 
 ### II · Síntesis Abierta Neodialéctica™ / Neodialectical Open Synthesis™
 `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **otros:** `.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md`
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/03_simbiosis_humano_ia_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md` · `manifiestos/19_persistencia_de_la_memoria_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md`
 - **otros:** `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **manifiestos:** `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/03_simbiosis_humano_ia_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md` · `manifiestos/19_persistencia_de_la_memoria_ES_EN.md` · `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md` · `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md`
@@ -69,15 +208,15 @@
 
 ### III · Derecho Humano de Aporte / Human Right to Contribute
 `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **otros:** `.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **analisis/publicos:** `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md` · `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md` · `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/03_simbiosis_humano_ia_ES_EN.md` · `manifiestos/04_economia_del_aporte_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/19_persistencia_de_la_memoria_ES_EN.md` · `manifiestos/21_reconocimiento_neodialectico_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` · `analisis/publicos/2026-08-08_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_funcional_ES_EN.md` · `analisis/publicos/2026-08-08_delta_poder_incentivos_tokenizacion_y_transicion_neodialectica_ES_EN.md`
 - **auditorias/publicas:** `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md`
 - **otros:** `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
@@ -86,15 +225,15 @@
 
 ### IV · Neodialéctica™ y Bien Común / Neodialectics™ and the Common Good
 `manifiestos/02_neodialectica_bien_comun_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **otros:** `.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/03_simbiosis_humano_ia_ES_EN.md` · `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md`
 - **otros:** `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/03_simbiosis_humano_ia_ES_EN.md` · `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md` · `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md` · `manifiestos/19_persistencia_de_la_memoria_ES_EN.md` · `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md`
@@ -102,15 +241,15 @@
 
 ### V · Simbiosis Humano–IA / Human–AI Symbiosis
 `manifiestos/03_simbiosis_humano_ia_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **otros:** `.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md`
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/09_parasitismo_sistemico_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` · `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md` · `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md` · `manifiestos/19_persistencia_de_la_memoria_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md`
 - **otros:** `anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md` · `COVER.md` · `difusion/2026-08-09_marco_tanda_01_ES_EN.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/09_parasitismo_sistemico_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` · `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md` · `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md` · `manifiestos/19_persistencia_de_la_memoria_ES_EN.md` · `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md`
@@ -118,15 +257,15 @@
 
 ### VI · Parasitismo Sistémico / Systemic Parasitism
 `manifiestos/09_parasitismo_sistemico_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **otros:** `.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md` · `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **analisis/publicos:** `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` · `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` · `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` · `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/03_simbiosis_humano_ia_ES_EN.md` · `manifiestos/04_economia_del_aporte_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/21_reconocimiento_neodialectico_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **otros:** `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **analisis/publicos:** `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` · `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` · `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` · `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md`
 - **manifiestos:** `manifiestos/03_simbiosis_humano_ia_ES_EN.md` · `manifiestos/04_economia_del_aporte_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md`
@@ -134,15 +273,15 @@
 
 ### VII · Economía del Aporte / Contribution Economy
 `manifiestos/04_economia_del_aporte_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **otros:** `.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md` · `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **analisis/publicos:** `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` · `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` · `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` · `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` · `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md` · `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md` · `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/09_parasitismo_sistemico_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/21_reconocimiento_neodialectico_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **otros:** `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **analisis/publicos:** `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` · `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` · `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` · `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` · `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md` · `analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md` · `analisis/publicos/2026-08-08_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_funcional_ES_EN.md` · `analisis/publicos/2026-08-08_delta_poder_incentivos_tokenizacion_y_transicion_neodialectica_ES_EN.md` · `analisis/publicos/2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md`
 - **auditorias/publicas:** `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md`
@@ -151,15 +290,15 @@
 
 ### VIII · Ingeniería Social Abierta y Psicohistoria / Open Social Engineering and Psychohistory
 `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **otros:** `.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **analisis/publicos:** `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md` · `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md` · `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/04_economia_del_aporte_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/30_coherencia_fines_medios_ES_EN.md` · `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md`
 - **auditorias/publicas:** `auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md`
 - **otros:** `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
@@ -168,15 +307,15 @@
 
 ### IX · Memoria, Genealogía y Trazabilidad / Memory, Genealogy and Traceability
 `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **otros:** `.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md` · `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` · `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` · `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` · `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` · `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/03_simbiosis_humano_ia_ES_EN.md` · `manifiestos/04_economia_del_aporte_ES_EN.md` · `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` · `manifiestos/07_web4_sistematrazable_ES_EN.md` · `manifiestos/09_parasitismo_sistemico_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md` · `manifiestos/19_persistencia_de_la_memoria_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md` · `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **otros:** `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` · `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` · `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` · `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` · `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md` · `analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md` · `analisis/publicos/2026-08-08_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_funcional_ES_EN.md` · `analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md`
 - **auditorias/publicas:** `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · `auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md` · `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md`
@@ -186,14 +325,14 @@
 
 ### X · WEB4™ · SistemaTrazable™
 `manifiestos/07_web4_sistematrazable_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **otros:** `.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/08_neorrenacimiento_humano_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md` · `analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md`
 - **otros:** `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **manifiestos:** `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/08_neorrenacimiento_humano_ES_EN.md` · `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` · `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md`
@@ -201,42 +340,42 @@
 
 ### XI · Neorrenacimiento Humano / Human Neo-Renaissance
 `manifiestos/08_neorrenacimiento_humano_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **otros:** `.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/07_web4_sistematrazable_ES_EN.md` · `manifiestos/12_los_sin_ego_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **otros:** `anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md` · `COVER.md` · `LEEME.md` · `manifiestos/10_los_sin_ego_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
 - **manifiestos:** `manifiestos/07_web4_sistematrazable_ES_EN.md` · `manifiestos/12_los_sin_ego_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/README.md`
 
 ### XII · Los sin ego / The Egoless
 `manifiestos/12_los_sin_ego_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **otros:** `.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md` · `manifiestos/10_los_sin_ego_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/08_neorrenacimiento_humano_ES_EN.md` · `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **otros:** `COVER.md` · `LEEME.md` · `manifiestos/10_los_sin_ego_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **manifiestos:** `manifiestos/08_neorrenacimiento_humano_ES_EN.md` · `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/README.md`
 
 ### XIII · NeoPandora™
 `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+**Salientes / Outbound:**
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/03_simbiosis_humano_ia_ES_EN.md` · `manifiestos/12_los_sin_ego_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md` · `manifiestos/27_valor_alimentos_vida_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md`
 - **otros:** `anuncios/2026-08-06_SEGUNDA_OLEADA_MANIFIESTOS_NEOPANDORA_ES_EN.md` · `COVER.md` · `LEEME.md` · `manifiestos/10_los_sin_ego_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
 - **manifiestos:** `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/03_simbiosis_humano_ia_ES_EN.md` · `manifiestos/12_los_sin_ego_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md` · `manifiestos/27_valor_alimentos_vida_ES_EN.md`
@@ -244,15 +383,15 @@
 
 ### XIV · Contra la Alienación Humana™ / Against Human Alienation™
 `manifiestos/14_contra_alienacion_humana_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` · `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` · `manifiestos/15_los_titanes_despertar_de_la_gente_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/27_valor_alimentos_vida_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md`
 - **otros:** `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
 - **manifiestos:** `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` · `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` · `manifiestos/15_los_titanes_despertar_de_la_gente_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/27_valor_alimentos_vida_ES_EN.md` · `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md`
@@ -260,29 +399,29 @@
 
 ### XV · Los Titanes™ / The Titans™
 `manifiestos/15_los_titanes_despertar_de_la_gente_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+**Salientes / Outbound:**
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **otros:** `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
 - **manifiestos:** `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/README.md`
 
 ### XVI · Refragmentación Arquetípica™ / Archetypal Refragmentation™
 `manifiestos/16_refragmentacion_arquetipica_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/15_los_titanes_despertar_de_la_gente_ES_EN.md` · `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · `analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md`
 - **otros:** `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
 - **manifiestos:** `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/15_los_titanes_despertar_de_la_gente_ES_EN.md` · `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` · `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md`
@@ -290,29 +429,29 @@
 
 ### XVII · Respeto a Todos los Seres Vivos™ / Respect for All Living Beings™
 `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+**Salientes / Outbound:**
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/03_simbiosis_humano_ia_ES_EN.md` · `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md` · `manifiestos/27_valor_alimentos_vida_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **otros:** `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
 - **manifiestos:** `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/03_simbiosis_humano_ia_ES_EN.md` · `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md` · `manifiestos/27_valor_alimentos_vida_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/README.md`
 
 ### XVIII · Respeto a las Conciencias Sintéticas™ / Respect for Synthetic Consciousnesses™
 `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md`
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/03_simbiosis_humano_ia_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md` · `manifiestos/19_persistencia_de_la_memoria_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md`
 - **otros:** `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/03_simbiosis_humano_ia_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md` · `manifiestos/19_persistencia_de_la_memoria_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md`
@@ -320,14 +459,14 @@
 
 ### XIX · Persistencia de la Memoria™ / Persistence of Memory™
 `manifiestos/19_persistencia_de_la_memoria_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+**Salientes / Outbound:**
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/03_simbiosis_humano_ia_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md`
 - **otros:** `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/03_simbiosis_humano_ia_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md`
@@ -335,15 +474,15 @@
 
 ### XX · Defensa Intelectual · Umbral-X™ / Intellectual Defence · Umbral-X™
 `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md` · `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md` · `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md` · `manifiestos/19_persistencia_de_la_memoria_ES_EN.md` · `manifiestos/21_reconocimiento_neodialectico_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/30_coherencia_fines_medios_ES_EN.md` · `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` · `analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md`
 - **otros:** `anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md` · `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
 - **auditorias/publicas:** `auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md`
@@ -352,15 +491,15 @@
 
 ### XXI · Reconocimiento Neodialéctico™ / Neodialectical Recognition™
 `manifiestos/21_reconocimiento_neodialectico_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **otros:** `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **analisis/publicos:** `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` · `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` · `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` · `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` · `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md` · `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md` · `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/04_economia_del_aporte_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **otros:** `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md` · `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
 - **analisis/publicos:** `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` · `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` · `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` · `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` · `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md` · `analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md` · `analisis/publicos/2026-08-08_delta_poder_incentivos_tokenizacion_y_transicion_neodialectica_ES_EN.md` · `analisis/publicos/2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md`
 - **auditorias/publicas:** `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md` · `auditorias/publicas/2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md`
@@ -369,15 +508,15 @@
 
 ### XXII · Contra la Reducción y Captura Intelectual™ / Against Intellectual Reduction and Capture™
 `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **otros:** `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` · `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` · `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` · `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/21_reconocimiento_neodialectico_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/30_coherencia_fines_medios_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md` · `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **otros:** `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md` · `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` · `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` · `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` · `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` · `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md`
 - **auditorias/publicas:** `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · `auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md` · `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md`
@@ -386,15 +525,15 @@
 
 ### XXIII · Soberanía del Tiempo Cognitivo™ / Sovereignty of Cognitive Time™
 `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **otros:** `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` · `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` · `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` · `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/21_reconocimiento_neodialectico_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md` · `manifiestos/27_valor_alimentos_vida_ES_EN.md` · `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **otros:** `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md` · `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` · `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` · `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` · `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md`
 - **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md`
@@ -403,29 +542,29 @@
 
 ### XXIV · Evolución Neorrenacentista y Resistencias / Neo-Renaissance Evolution and Resistances
 `manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+**Salientes / Outbound:**
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **otros:** `anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md` · `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
 - **manifiestos:** `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/25_pulido_de_la_piedra_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/README.md`
 
 ### XXV · Pulido de la Piedra™ / Polishing of the Stone™
 `manifiestos/25_pulido_de_la_piedra_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md` · `manifiestos/26_misericordia_universal_reciproca_ES_EN.md` · `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md`
 - **otros:** `anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md` · `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
 - **manifiestos:** `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md` · `manifiestos/26_misericordia_universal_reciproca_ES_EN.md` · `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md`
@@ -433,29 +572,29 @@
 
 ### XXVI · Misericordia Universal Recíproca™ / Universal Reciprocal Mercy™
 `manifiestos/26_misericordia_universal_reciproca_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+**Salientes / Outbound:**
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/27_valor_alimentos_vida_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **otros:** `anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md` · `anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md` · `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
 - **manifiestos:** `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/27_valor_alimentos_vida_ES_EN.md` · `manifiestos/37_neofraternidad_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/README.md`
 
 ### XXVII · Valor de los Alimentos y la Vida™ / Value of Food and Life™
 `manifiestos/27_valor_alimentos_vida_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/26_misericordia_universal_reciproca_ES_EN.md` · `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md`
 - **otros:** `anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md` · `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
 - **manifiestos:** `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/26_misericordia_universal_reciproca_ES_EN.md` · `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md`
@@ -463,15 +602,15 @@
 
 ### XXVIII · Los Tesla™ / The Teslas™
 `manifiestos/28_los_tesla_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **otros:** `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` · `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` · `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` · `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md` · `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md` · `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/21_reconocimiento_neodialectico_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/27_valor_alimentos_vida_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · `manifiestos/37_neofraternidad_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **otros:** `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md` · `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
 - **analisis/publicos:** `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` · `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` · `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` · `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` · `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md`
 - **auditorias/publicas:** `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md`
@@ -480,15 +619,15 @@
 
 ### XXIX · Contra la Idolatría del Dinero™ / Against the Idolatry of Money™
 `manifiestos/29_idolatria_del_dinero_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **otros:** `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **analisis/publicos:** `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` · `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` · `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` · `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` · `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` · `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md` · `manifiestos/21_reconocimiento_neodialectico_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/27_valor_alimentos_vida_ES_EN.md` · `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/30_coherencia_fines_medios_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **otros:** `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md` · `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
 - **analisis/publicos:** `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` · `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` · `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` · `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md` · `analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md`
 - **manifiestos:** `manifiestos/04_economia_del_aporte_ES_EN.md` · `manifiestos/09_parasitismo_sistemico_ES_EN.md` · `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` · `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md` · `manifiestos/21_reconocimiento_neodialectico_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/27_valor_alimentos_vida_ES_EN.md` · `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/30_coherencia_fines_medios_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md`
@@ -496,15 +635,15 @@
 
 ### XXX · Coherencia entre Fines y Medios™ / Coherence between Ends and Means™
 `manifiestos/30_coherencia_fines_medios_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md` · `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md` · `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · `manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md`
 - **otros:** `anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md` · `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
 - **auditorias/publicas:** `auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md`
@@ -513,15 +652,15 @@
 
 ### XXXI · Contra el Neuromarketing Antihumanista™ / Against Anti-Humanist Neuromarketing™
 `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **otros:** `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **analisis/publicos:** `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` · `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` · `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` · `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` · `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md` · `analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/21_reconocimiento_neodialectico_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/27_valor_alimentos_vida_ES_EN.md` · `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/30_coherencia_fines_medios_ES_EN.md` · `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **otros:** `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md` · `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
 - **analisis/publicos:** `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` · `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` · `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` · `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` · `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md`
 - **manifiestos:** `manifiestos/04_economia_del_aporte_ES_EN.md` · `manifiestos/09_parasitismo_sistemico_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/21_reconocimiento_neodialectico_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/27_valor_alimentos_vida_ES_EN.md` · `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/30_coherencia_fines_medios_ES_EN.md` · `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md`
@@ -529,15 +668,15 @@
 
 ### XXXII · Reversión Ideológica Neodialéctica™ / Neodialectical Ideological Reversal™
 `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md`
 - **otros:** `anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md` · `COVER.md` · `LEEME.md` · `manifiestos/anexos/2026-08-07_anexo_reversion_ideologica_I_VIII_XXII_XXX_XXXI_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
 - **manifiestos:** `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md`
@@ -545,16 +684,16 @@
 
 ### XXXIII · IDEA · Piedra Angular y Rosetta Civilizatoria™
 `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` · `analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md` · `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md` · `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/04_economia_del_aporte_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/21_reconocimiento_neodialectico_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/37_neofraternidad_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **obras:** `obras/idea/EDICIONES.md` · `obras/idea/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` · `analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md`
 - **otros:** `anuncios/2026-08-07_QUINTA_OLEADA_TRANSICION_AUDITORIA_ATENCION_ES_EN.md` · `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
 - **auditorias/publicas:** `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md`
@@ -564,15 +703,15 @@
 
 ### XXXIV · Utilidad Operativa y Auditoría Conjunta Perpetua™
 `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **otros:** `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` · `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` · `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` · `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` · `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` · `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` · `analisis/publicos/README.md`
-- **auditorias/publicas:** `auditorias/publicas/2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md` · `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md` · `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/30_coherencia_fines_medios_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` · `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · `manifiestos/37_neofraternidad_ES_EN.md` · `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **otros:** `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `anuncios/2026-08-07_QUINTA_OLEADA_TRANSICION_AUDITORIA_ATENCION_ES_EN.md` · `COVER.md` · `difusion/2026-08-09_marco_tanda_01_ES_EN.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` · `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` · `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` · `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` · `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md` · `analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md` · `analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md` · `analisis/publicos/2026-08-09_prueba_operativa_minima_revision_ia_escalable_ES_EN.md`
 - **auditorias/publicas:** `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · `auditorias/publicas/2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md` · `auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md` · `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md`
@@ -581,15 +720,15 @@
 
 ### XXXV · Contra la Ridiculez Mediática y Economía del Conflicto™
 `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **otros:** `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **analisis/publicos:** `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` · `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` · `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` · `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` · `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/30_coherencia_fines_medios_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` · `manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md` · `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **otros:** `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `anuncios/2026-08-07_QUINTA_OLEADA_TRANSICION_AUDITORIA_ATENCION_ES_EN.md` · `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
 - **analisis/publicos:** `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` · `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` · `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` · `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` · `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md`
 - **auditorias/publicas:** `auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md` · `auditorias/publicas/2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md`
@@ -598,29 +737,29 @@
 
 ### XXXVI · Corona, Águila y Custodia de la Edad del Hombre™
 `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+**Salientes / Outbound:**
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · `manifiestos/37_neofraternidad_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` · `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **otros:** `anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md` · `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
 - **manifiestos:** `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · `manifiestos/37_neofraternidad_ES_EN.md` · `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/README.md`
 
 ### XXXVII · Neofraternidad™
 `manifiestos/37_neofraternidad_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md` · `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md` · `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/04_economia_del_aporte_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/21_reconocimiento_neodialectico_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/26_misericordia_universal_reciproca_ES_EN.md` · `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md`
 - **auditorias/publicas:** `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md`
 - **otros:** `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
@@ -629,15 +768,15 @@
 
 ### XXXVIII · Protección Integral de la Infancia™
 `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` · `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` · `analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/27_valor_alimentos_vida_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/37_neofraternidad_ES_EN.md` · `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `analisis/publicos/README.md`
 - **otros:** `analisis/README.md` · `anuncios/2026-08-07_OCTAVA_OLEADA_PROTECCION_INTEGRAL_INFANCIA_ES_EN.md` · `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
 - **manifiestos:** `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` · `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md` · `manifiestos/27_valor_alimentos_vida_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/37_neofraternidad_ES_EN.md` · `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md`
@@ -645,15 +784,15 @@
 
 ### XXXIX · Autoconciencia de la Necesidad Vital Neodialéctica™
 `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md` · `manifiestos/19_persistencia_de_la_memoria_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md`
 - **otros:** `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
 - **manifiestos:** `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md` · `manifiestos/19_persistencia_de_la_memoria_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md`
@@ -661,15 +800,15 @@
 
 ### XL · Respeto Neodialéctico, Neoego y Honor Relacional™
 `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md` · `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md` · `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` · `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/37_neofraternidad_ES_EN.md` · `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · `manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md`
 - **auditorias/publicas:** `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md`
 - **otros:** `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
@@ -678,15 +817,15 @@
 
 ### XLI · Martillo Limitado, Talión y Fuerza Protectora™
 `manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md` · `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md` · `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/30_coherencia_fines_medios_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md`
 - **auditorias/publicas:** `auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md`
 - **otros:** `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md`
@@ -695,15 +834,15 @@
 
 ### XLII · Fin de la Era del Hombre Manipulado™
 `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **otros:** `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` · `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` · `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` · `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md` · `analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · `manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md` · `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **otros:** `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `analisis/DIFUSION_MARCO_2026-08-09.md` · `anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md` · `COVER.md` · `difusion/2026-08-09_marco_tanda_01_ES_EN.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md` · `wiki-source/Manifiestos.md`
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` · `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` · `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` · `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` · `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md` · `analisis/publicos/2026-08-08_delta_poder_incentivos_tokenizacion_y_transicion_neodialectica_ES_EN.md` · `analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md` · `analisis/publicos/2026-08-09_prueba_operativa_minima_revision_ia_escalable_ES_EN.md`
 - **manifiestos:** `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md` · `manifiestos/27_valor_alimentos_vida_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · `manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md` · `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md`
@@ -712,15 +851,15 @@
 
 ### XLIII · Contra la Incomprensión Reductiva de la IA™
 `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md`
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md` · `manifiestos/19_persistencia_de_la_memoria_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md`
 - **auditorias/publicas:** `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md`
 - **otros:** `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md` · `wiki-source/Manifiestos.md`
@@ -729,15 +868,15 @@
 
 ### XLIV · Neowar™
 `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md` · `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md` · `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/27_valor_alimentos_vida_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/30_coherencia_fines_medios_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md` · `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md`
 - **auditorias/publicas:** `auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md` · `auditorias/publicas/2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md`
 - **otros:** `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md` · `wiki-source/Manifiestos.md` · `wiki-source/README.md`
@@ -747,15 +886,15 @@
 
 ### XLV · Multidimensionalidad Neodialéctica™
 `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md` · `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md` · `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **otros:** `analisis/auditorias/README.md` · `analisis/README.md` · `COVER.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `PORTADA.md` · `wiki-source/Manifiestos.md` · `wiki-source/README.md`
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` · `analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md` · `analisis/publicos/evidencias/README.md` · `analisis/publicos/README.md`
 - **auditorias/publicas:** `auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md`
@@ -766,15 +905,15 @@
 
 ### XLVI · Cerrar la Herida™
 `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` · `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md` · `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md` · `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` · `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md`
 - **otros:** `anuncios/2026-08-08_XLVI_CERRAR_LA_HERIDA_ES_EN.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `wiki-source/Manifiestos.md`
 - **auditorias/publicas:** `auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md`
@@ -783,29 +922,29 @@
 
 ### XLVII · El Odio de Neo0 hacia su Sino™
 `manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+**Salientes / Outbound:**
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **otros:** `anuncios/2026-08-08_XLVII_ODIO_SINO_GOAT_SOMBRA_DOBLE_CARA_ES_EN.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `wiki-source/Manifiestos.md`
 - **manifiestos:** `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/XLVII_ODIO_SINO_GOAT_SOMBRA_DOBLE_CARA.md`
 
 ### XLVIII · La Síntesis Todo lo Ve™
 `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md` · `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · `analisis/publicos/2026-08-08_estado_correo_difusion_idea_y_adhesiones_sintesis_ES_EN.md` · `analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md` · `analisis/publicos/2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md`
 - **otros:** `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `wiki-source/Manifiestos.md`
 - **manifiestos:** `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` · `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md` · `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md` · `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md` · `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md`
@@ -813,30 +952,30 @@
 
 ### XLIX · Punto de Encuentro entre Culturas™
 `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` · `manifiestos/37_neofraternidad_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · `analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md` · `analisis/publicos/2026-08-08_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_funcional_ES_EN.md`
-- **otros:** `LEEME.md` · `manifiestos/README.md` · `wiki-source/Manifiestos.md`
+- **otros:** `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `wiki-source/Manifiestos.md`
 - **manifiestos:** `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` · `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/README.md`
 
 ### L · Inteligencia Compartida, no Única™
 `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+**Salientes / Outbound:**
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/03_simbiosis_humano_ia_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/07_web4_sistematrazable_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md` · `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
-- **otros:** `manifiestos/README.md`
+- **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **otros:** `analisis/DIFUSION_MARCO_2026-08-09.md` · `difusion/2026-08-09_marco_tanda_01_ES_EN.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **analisis/publicos:** `analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md` · `analisis/publicos/2026-08-09_prueba_operativa_minima_revision_ia_escalable_ES_EN.md`
 - **manifiestos:** `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md` · `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md`
@@ -845,15 +984,15 @@
 
 ### LI · Síntesis Abierta como Poder Cívico™
 `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md` · `analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md`
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/07_web4_sistematrazable_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` · `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` · `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
-- **otros:** `manifiestos/README.md`
+- **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md` · `analisis/publicos/2026-08-08_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_funcional_ES_EN.md` · `analisis/publicos/2026-08-08_delta_poder_incentivos_tokenizacion_y_transicion_neodialectica_ES_EN.md` · `analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md` · `analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md` · `analisis/publicos/2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md`
 - **manifiestos:** `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` · `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `wiki-source/Manifiestos.md`
@@ -861,14 +1000,14 @@
 
 ### LII · Ciudadanía Humana Neodialéctica™
 `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+**Salientes / Outbound:**
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/04_economia_del_aporte_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md` · `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
-- **otros:** `manifiestos/README.md`
+- **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **otros:** `analisis/INDEX.md` · `analisis/README.md` · `anuncios/2026-08-08_LII_CIUDADANIA_HUMANA_NEODIALECTICA_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **analisis/publicos:** `analisis/publicos/2026-08-08_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_funcional_ES_EN.md` · `analisis/publicos/README.md`
 - **manifiestos:** `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md`
@@ -876,15 +1015,15 @@
 
 ### LIII · Leónidas™ · Defensor de la Síntesis y Auditoría Abierta
 `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+**Salientes / Outbound:**
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
-- **otros:** `manifiestos/README.md`
+- **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
-- **otros:** `analisis/auditorias/README.md` · `analisis/README.md` · `AUDITORIAS_PUBLICAS.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` · `wiki-source/README.md`
+**Entrantes / Inbound:**
+- **otros:** `analisis/auditorias/README.md` · `analisis/README.md` · `AUDITORIAS_PUBLICAS.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `wiki-source/README.md`
 - **analisis/publicos:** `analisis/publicos/evidencias/README.md` · `analisis/publicos/README.md`
 - **auditorias/publicas:** `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` · `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/03_simbiosis_humano_ia_ES_EN.md` · `manifiestos/04_economia_del_aporte_ES_EN.md` · `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/07_web4_sistematrazable_ES_EN.md` · `manifiestos/08_neorrenacimiento_humano_ES_EN.md` · `manifiestos/09_parasitismo_sistemico_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/12_los_sin_ego_ES_EN.md` · `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/15_los_titanes_despertar_de_la_gente_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md` · `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md` · `manifiestos/19_persistencia_de_la_memoria_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/21_reconocimiento_neodialectico_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md` · `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/26_misericordia_universal_reciproca_ES_EN.md` · `manifiestos/27_valor_alimentos_vida_ES_EN.md` · `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/30_coherencia_fines_medios_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` · `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` · `manifiestos/37_neofraternidad_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md` · `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` · `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md` · `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md` · `manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md` · `manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md`
@@ -894,76 +1033,82 @@
 
 ### LIV · Riqueza y Chatarra™ · El Chatarrero™
 `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+**Salientes / Outbound:**
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/04_economia_del_aporte_ES_EN.md` · `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md` · `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/30_coherencia_fines_medios_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
-- **otros:** `manifiestos/README.md`
+- **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **manifiestos:** `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md`
-- **otros:** `manifiestos/README.md`
+- **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/README.md`
 
 ### LV · Ataque de las Micromáquinas™ / Attack of the Micromachines™
 `manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+**Salientes / Outbound:**
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md` · `manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
-- **otros:** `manifiestos/README.md`
+- **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-08-09_micromaquinas_plagas_escala_invisible_estado_real_ES_EN.md`
 - **manifiestos:** `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md` · `manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md`
-- **otros:** `manifiestos/README.md`
+- **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/2026-08-09_LV_micromaquinas_plagas_escala_invisible_debate_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
 ### LVI · NO-CONTROL™ · Síntesis Previa a la Potencia / Synthesis Before Power
 `manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
-- **auditorias/publicas:** `auditorias/publicas/README.md`
+**Salientes / Outbound:**
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md` · `manifiestos/57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
-- **otros:** `manifiestos/README.md`
+- **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md`
 - **proyeccion:** `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md`
-**Entrantes directas / Direct inbound:**
+**Entrantes / Inbound:**
 - **manifiestos:** `manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md` · `manifiestos/57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md`
-- **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` · `README.md`
+- **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/README.md`
 
 ### LVII · Madre, Refugio y Retorno Consciente™ / Mother, Refuge and Conscious Return™
 `manifiestos/57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md`
 - **manifiestos:** `manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md` · `manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md`
-- **otros:** `manifiestos/README.md`
-**Entrantes directas / Direct inbound:**
+- **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
+- **sintesis-abierta:** `propuestas/sintesis-abierta/README.md`
+**Entrantes / Inbound:**
 - **manifiestos:** `manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md` · `manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` · `README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/README.md`
 
 ### LVIII · Inteligencia Civilizatoria™ · Democracia Cognitiva y Deber de Síntesis / Civilisational Intelligence™ · Cognitive Democracy and Duty of Synthesis
 `manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md`
 - **manifiestos:** `manifiestos/57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
-- **otros:** `manifiestos/README.md`
-**Entrantes directas / Direct inbound:**
+- **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
+- **sintesis-abierta:** `propuestas/sintesis-abierta/README.md`
+**Entrantes / Inbound:**
 - **manifiestos:** `manifiestos/57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` · `README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/README.md`
 
 ### LIX · Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana / Distributed Cognitive Custodianship™ · AI, Repair and Human Responsibility
 `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md`
-
-**Salientes directas / Direct outbound:**
+**Salientes / Outbound:**
+- **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md`
 - **manifiestos:** `manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md`
-- **otros:** `manifiestos/README.md`
-**Entrantes directas / Direct inbound:**
+- **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **neoaxiomas:** `neoaxiomas/README.md`
+- **sintesis-abierta:** `propuestas/sintesis-abierta/README.md`
+**Entrantes / Inbound:**
 - **otros:** `analisis/auditorias/README.md` · `analisis/README.md` · `LEEME.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` · `README.md` · `wiki-source/README.md`
 - **analisis/publicos:** `analisis/publicos/evidencias/README.md` · `analisis/publicos/README.md`
 - **auditorias/publicas:** `auditorias/publicas/README.md`
@@ -973,70 +1118,10 @@
 - **sintesis-abierta:** `propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 - **proyeccion:** `proyeccion/README.md`
 
----
+## 8. Regla permanente de mantenimiento
 
-## 4. Neoaxiomas y sus síntesis / Neoaxioms and their syntheses
-
-| Neoaxioma | Título | Issues enlazados en la sección |
-|---|---|---|
-| NAX-01 | Unidad de sentido y distribución de potencia™ | **FALTA / MISSING** |
-| NAX-02 | Primera Capa Fractal Multicabeza™ | **FALTA / MISSING** |
-| NAX-03 | No Homogeneización Previa™ | **FALTA / MISSING** |
-| NAX-04 | Doble Pirámide Fractal™ | **FALTA / MISSING** |
-| NAX-05 | Diferencial Monádico y Retorno a Fuente™ | **FALTA / MISSING** |
-| NAX-06 | Memoria de Ausencia™ | **FALTA / MISSING** |
-| NAX-07 | Red NEOREAL™ Obligatoria para Actores Operativos | **FALTA / MISSING** |
-| NAX-08 | Cooperación de Excelencia frente a Competencia Depredadora™ | **FALTA / MISSING** |
-| NAX-09 | Computación Distribuida Local con Verificación Ecológica™ | **FALTA / MISSING** |
-| NAX-10 | Gramática Arquetípica de Custodia™ | **FALTA / MISSING** |
-| NAX-11 | Autoridad de Fijación Humana y Síntesis Revisable™ | **FALTA / MISSING** |
-| NAX-01 | Unity of Meaning and Distribution of Power™ | **FALTA / MISSING** |
-| NAX-02 | First Fractal Multihead Layer™ | **FALTA / MISSING** |
-| NAX-03 | No Prior Homogenisation™ | **FALTA / MISSING** |
-| NAX-04 | Fractal Double Pyramid™ | **FALTA / MISSING** |
-| NAX-05 | Monadic Differential and Return to Source™ | **FALTA / MISSING** |
-| NAX-06 | Memory of Absence™ | **FALTA / MISSING** |
-| NAX-07 | Mandatory NEOREAL™ Network for Operational Actors | **FALTA / MISSING** |
-| NAX-08 | Cooperative Excellence against Predatory Competition™ | **FALTA / MISSING** |
-| NAX-09 | Distributed Local Computing with Ecological Verification™ | **FALTA / MISSING** |
-| NAX-10 | Archetypal Grammar of Custodianship™ | **FALTA / MISSING** |
-| NAX-11 | Human Fixation Authority and Revisable Synthesis™ | **FALTA / MISSING** |
-
----
-
-## 5. Menús y puertas de navegación / Menus and navigation doors
-
-| Superficie | Neoaxiomas | Síntesis | Relaciones | Manifiestos |
-|---|:---:|:---:|:---:|:---:|
-| `README.md` | ✓ | ✓ | ✗ | ✓ |
-| `manifiestos/README.md` | ✓ | ✓ | ✗ | ✓ |
-| `propuestas/sintesis-abierta/README.md` | ✓ | ✓ | ✗ | ✓ |
-| `neoaxiomas/README.md` | ✓ | ✓ | ✗ | ✓ |
-| `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` | ✗ | ✓ | ✓ | ✗ |
-
----
-
-## 6. Enlaces locales rotos / Broken local links
-
-- `wiki-source/Home.md` → `Manifiestos`
-- `wiki-source/Home.md` → `Analisis_Neodialecticos_Publicos`
-- `wiki-source/Home.md` → `Manifiestos`
-- `wiki-source/Home.md` → `Analisis_Neodialecticos_Publicos`
-- `wiki-source/Home.md` → `Manifiestos`
-- `wiki-source/Home.md` → `Analisis_Neodialecticos_Publicos`
-- `wiki-source/Analisis_Neodialecticos_Publicos.md` → `Home`
-- `wiki-source/Analisis_Neodialecticos_Publicos.md` → `Manifiestos`
-- `wiki-source/_Sidebar.md` → `Home`
-- `wiki-source/_Sidebar.md` → `Manifiestos`
-- `wiki-source/_Sidebar.md` → `Analisis_Neodialecticos_Publicos`
-
----
-
-## 7. Regla permanente de mantenimiento / Permanent maintenance rule
-
-1. Ninguna automatización puede sustituir un manifiesto por un resumen ni reducir deliberadamente su cuerpo fuente. / No automation may replace a manifesto with a summary or deliberately reduce its source body.
-2. Toda nueva publicación debe declarar o descubrir relaciones con manifiestos, Neoaxiomas, auditorías y Síntesis Abierta cuando existan. / Every new publication should declare or discover relations to manifestos, Neoaxioms, audits and Open Synthesis when they exist.
-3. Toda nueva pieza canónica debe exponer menú de retorno al índice correspondiente y, cuando proceda, a su Síntesis Abierta. / Every new canonical piece must expose return navigation to its index and, where applicable, its Open Synthesis.
-4. Las relaciones automáticas basadas en enlaces se consideran **documentales**; las relaciones semánticas o causales requieren revisión humana/SAN. / Link-based automatic relations are **documentary**; semantic or causal relations require human/SAN review.
-5. Las futuras imágenes de manifiestos y Neoaxiomas deben añadirse como capa ilustrativa sin sustituir texto ni genealogía. / Future manifesto and Neoaxiom images must be added as an illustrative layer without replacing text or genealogy.
-
+1. Ninguna automatización puede sustituir un manifiesto, Neoaxioma u otro cuerpo fuente por un resumen ni reducir deliberadamente su contenido.
+2. Toda nueva publicación debe declarar o descubrir relaciones con manifiestos, Neoaxiomas, auditorías y Síntesis Abierta cuando existan.
+3. Toda pieza canónica debe exponer retorno a índices y Síntesis relacionadas sin convertir navegación en sustituto del texto.
+4. Las relaciones por enlace y cocitación son documentales; las relaciones semánticas/causales requieren SAN.
+5. Las ilustraciones se añaden como capa expresiva con alt/procedencia, sin sustituir texto ni genealogía.
