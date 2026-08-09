@@ -12,13 +12,11 @@
 > **LIX · Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana / Distributed Cognitive Custodianship™ · AI, Repair and Human Responsibility**
 >
 > **[Leer LIX / Read LIX](../../../manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md) · [Síntesis Abierta LIX · #79 / Open Synthesis LIX · #79](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/79)**  
-> [Cómo aportar / How to contribute](../../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™](../../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas / Public audits](../../../auditorias/publicas/README.md) · [59 manifiestos / manifestos · I–LIX](../../../manifiestos/README.md)
+> [Seguir marco / Follow framework](../../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [Registrar entrada / Register entry](../../../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Cómo aportar / How to contribute](../../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™](../../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas / Public audits](../../../auditorias/publicas/README.md) · [59 manifiestos / manifestos · I–LIX](../../../manifiestos/README.md)
 
 <!-- NEO_LATEST_MANIFESTO_END -->
 
 <!-- NEOAXIOMAS_GLOBAL_LINK_START -->
-
----
 
 ## NEOCore™ 7.1 · Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™
 ## NEOCore™ 7.1 · First Fractal Multihead Layer™ + Neoaxiomatic Layer™

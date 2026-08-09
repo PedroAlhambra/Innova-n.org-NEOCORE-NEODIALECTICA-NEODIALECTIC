@@ -12,8 +12,6 @@
 
 <!-- NEOAXIOMAS_GLOBAL_LINK_START -->
 
----
-
 ## NEOCore™ 7.1 · Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™
 ## NEOCore™ 7.1 · First Fractal Multihead Layer™ + Neoaxiomatic Layer™
 
