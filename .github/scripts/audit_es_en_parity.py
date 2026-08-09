@@ -1,6 +1,7 @@
 from pathlib import Path
 import re
 
+# Postcheck final tras normalización editorial ES/EN · 2026-08-09
 ROOT = Path('.')
 TARGETS = [ROOT / 'manifiestos', ROOT / 'analisis' / 'publicos']
 REPORT = ROOT / 'auditorias' / 'publicas' / '2026-08-09_auditoria_paridad_ES_EN_manifiestos_articulos.md'
