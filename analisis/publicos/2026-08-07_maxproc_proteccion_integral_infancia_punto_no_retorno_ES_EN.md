@@ -452,51 +452,440 @@ Este análisis fundamenta el **Manifiesto XXXVIII · Protección Integral de la 
 
 # EN · English
 
-## MAXPROC ruling
+## 0. MAXPROC ruling
 
-The starting hypothesis is important enough to become an autonomous manifesto, but it requires documentary precision: **there is no evidence that Spain has already reached a state in which children are the only members of households consuming non-essential goods**. It should be treated as a proposed civilisational warning threshold.
+The starting hypothesis is important enough to be elevated into its own manifesto, but it requires documentary precision:
 
-The underlying vulnerability is nevertheless measurable. Spain's 2025 Living Conditions Survey places the AROPE rate for children under 16 at 33.9%, while low-spending households devote most of their budgets to housing, utilities and food. At the same time, children inhabit commercial environments shaped by integrated advertising, influencers, games, virtual currencies, recommender systems, behavioural data and persuasive design.
+> **It has not been demonstrated that Spain has already reached a state in which “the only people consuming non-essential goods are children”.**
 
-The MAXPROC conclusion is that childhood must not be treated as a cognitively exploitable market segment and that protection cannot rest exclusively upon each family having the time, money, knowledge and legal capacity to defend itself against industrial persuasion systems.
+It must be treated as a **civilisational warning threshold**, not as a current statistical fact.
 
-## Child Point of No Return™
+The objective signal is nevertheless serious. Spain's 2025 Living Conditions Survey places the AROPE rate for children under 16 at **33.9%**, compared with 25.7% for the population as a whole. The 2025 Household Budget Survey shows that households in the lowest spending quintile devote **61.5%** of their budget to housing, utilities and food alone. This narrowing of discretionary margin coexists with commercial ecosystems capable of directing consumption pressure toward minors through integrated advertising, influencers, microtransactions, variable rewards, FOMO, personal data and persuasive design.
 
-The **Child Point of No Return™** is provisionally defined as a measurable warning condition in which adult discretionary consumption collapses, remaining non-essential household spending becomes concentrated on children, and commercial systems simultaneously intensify direct pressure upon children's attention, identity and desire.
+The MAXPROC conclusion is twofold:
 
-It is a hypothesis to measure, not a fact to proclaim.
+1. **Childhood must cease to be treated as a cognitively exploitable market segment.**
+2. **Protection cannot rest only on each family having enough time, money, technical knowledge and legal capacity to defend itself against industrial persuasion systems.**
 
-## Main protection gaps
+## 1. Child Point of No Return™
 
-The audit identifies interconnected risks in child poverty, commercial targeting, addictive design, hidden advertising, age-inappropriate audiovisual content, cyberbullying, grooming, pornography, gaming monetisation, profiling, sharenting, child influencer work, AI-generated manipulation and unequal digital education.
-
-It rejects both technological abandonment and technological solutionism. Publicly guaranteed devices and connectivity are necessary for equality when the curriculum requires them, but devices must remain subordinate to teachers, pedagogy, programming, critical thinking, human interaction and time away from screens.
-
-## Public audiovisual protection
-
-Animation is not an age category. Public regulation should preserve age-differentiated classification and extend coherent metadata and content descriptors across linear television, on-demand services, video platforms and relevant influencers.
-
-Public children's programming should recover an evolutionary logic with differentiated blocks and catalogues, while public oversight must remain independent, transparent, plural and appealable rather than becoming ideological censorship.
-
-## Core formula
+The **Child Point of No Return™** is provisionally defined as a civilisational alarm indicator, not as a prophetic date or as a claim that it has already been reached.
 
 ```text
-CHILD PROTECTION
-= MATERIAL SECURITY
-+ HUMAN RELATION
-+ EDUCATION
-+ DIGITAL ACCESS
-+ AGE-DIFFERENTIATED CONTENT
-+ COMMERCIAL RESTRAINT
-+ PRIVACY
-+ SAFETY
-+ PARTICIPATION
-+ RIGHT TO GROW WITHOUT BEING OPTIMISED FOR CONSUMPTION
+ADULTS IN THE HOUSEHOLD
+→ LOSE DISCRETIONARY CONSUMPTION CAPACITY
+
+WHILE
+
+NON-ESSENTIAL SPENDING THAT IS PRESERVED
+→ BECOMES CONCENTRATED ON CHILDREN
+
+AND SIMULTANEOUSLY
+
+THE MARKET
+→ INCREASES DIRECT PRESSURE ON THE CHILD'S PSYCHE
+
+RESULT
+→ CHILDHOOD BECOMES THE LAST VECTOR OF ASPIRATIONAL CONSUMPTION
 ```
 
-## NEXT
+The threshold must be measured, not proclaimed. It requires longitudinal indicators on:
 
-This MAXPROC audit provides the evidence and design basis for **Manifesto XXXVIII · Integral Protection of Childhood and the Child Point of No Return™** and its dedicated Open Synthesis.
+- discretionary spending by adults and minors within the household;
+- parental sacrifices to sustain child consumption;
+- debt associated with celebrations, devices, fashion, leisure and subscriptions;
+- minors' exposure to advertising and social pressure;
+- consumption induced through platforms, games and influencers;
+- child material deprivation;
+- evolution of essential household spending.
+
+## 2. Map of underprotection
+
+### 2.1. Poverty and material inequality
+
+Spanish childhood begins from a level of economic vulnerability above the average. INE places the AROPE rate for children under 16 at 33.9% in 2025. UNICEF has indicated that approximately one in three children and adolescents is in poverty or social exclusion.
+
+The problem is not merely lack of goods. Child poverty reduces:
+
+- participation in leisure;
+- school trips and activities;
+- ability to invite friends;
+- access to books and equipment;
+- holidays;
+- connectivity and adequate devices;
+- quiet housing in which to study;
+- family margin for accompaniment and support.
+
+**Detected dogma:** “if the child has formal access to school and the Internet, equality is solved”.
+
+### 2.2. Childhood as a market
+
+Spain's General Audiovisual Communication Law already prohibits directly urging minors to buy by exploiting their inexperience or credulity and prohibits encouraging them to pressure their parents into purchasing products. The problem is that contemporary advertising no longer appears only as a separate advertisement.
+
+It is integrated into:
+
+- videos;
+- livestreams;
+- challenges;
+- sponsorships;
+- video games;
+- virtual currencies;
+- loot boxes;
+- skins;
+- affiliate links;
+- influencers' personal stories;
+- algorithmic recommendations;
+- apparently spontaneous content.
+
+The CNMC acted in 2026 against influencers over unidentified advertising and failures connected with the protection of minors. The European Commission expressly recommends preventing children's lack of commercial literacy from being exploited through manipulative practices, unwanted spending, virtual currencies or loot boxes.
+
+**Detected dogma:** “if the minor does not sign the contract, they are not the real consumer”.
+
+### 2.3. Neuromarketing and addictive design
+
+Manifesto XXXI already defines general behavioural capture. Childhood requires a stricter rule because the capacity to understand probabilities, advertising, reputation, peer pressure and future consequences is still developing.
+
+European guidance for protecting minors under the DSA recommends disabling by default or limiting mechanisms that encourage excessive use, such as streaks, ephemeral content, read receipts, autoplay and notifications, and constraining persuasive design primarily aimed at engagement.
+
+**Detected dogma:** “engagement means that the child likes it”.
+
+### 2.4. Invisible advertising and influencers
+
+The boundary between entertainment and advertising has weakened. In 2026 the CNMC required and sanctioned users of particular relevance for failing to identify commercial communications adequately.
+
+For an adult, it may sometimes be reasonable to infer that a brand appearance is paid. For a child, that inference cannot be assumed.
+
+**Detected dogma:** “everyone knows influencers live from advertising”.
+
+### 2.5. Animation and false age equivalence
+
+Animation is not an age category.
+
+A cartoon may be designed for preschool children, early readers, preteens, teenagers or adults. The civilisational error is to use the visual medium as a substitute for developmental analysis.
+
+Spain already has rating categories: especially recommended for children, all audiences, 7, 12, 16, 18 and X. Law 13/2022 requires programmes to be rated, and in June 2026 the CNMC, the Ministry and the audiovisual sector began signing a co-regulation agreement to harmonise ratings and descriptors across television, on-demand services and certain influencers.
+
+But protection requires effective implementation. In July 2026 the CNMC sanctioned Viacom for broadcasting as “all audiences” content whose official rating was “not recommended for under 12s”.
+
+**Detected dogmas:** “if it is animation, it is for children”, and its contemporary inverse: “if all minors are digital natives, they can manage any content with a simple general label”.
+
+### 2.6. Children's programming and public responsibility
+
+The audiovisual system should recover a logic of **differentiated developmental programming**.
+
+The proposal is not for the State to decide ideologically what children should think. It is for **independent and traceable public oversight** of:
+
+- recommended age;
+- descriptors for violence, fear, sex, language, drugs, gambling, purchases and commercial pressure;
+- schedules;
+- child profiles on platforms;
+- inserted advertising;
+- recommendation mechanisms;
+- clear separation among educational content, entertainment and commercial communication.
+
+Public programming should be structured through approximate and reviewable developmental bands:
+
+```text
+0–3   → attachment, language, slow rhythm, priority adult presence
+4–6   → symbolic play, initial literacy, basic emotion
+7–9   → exploration, cooperation, causality, initial critical thinking
+10–12 → guided autonomy, science, coexistence, media literacy
+13–15 → identity, informed sexuality, citizenship, networks, creation
+16–17 → advanced autonomy, economy, rights, politics, work, AI
+```
+
+These bands are neither clinical diagnoses nor rigid borders. They are a design architecture to be adapted to maturity, special educational needs and context.
+
+### 2.7. Social networks, cyberbullying and violence
+
+The Spanish digital-wellbeing study published in 2025, built from tens of thousands of students, describes a hyperconnected environment in which anxiety and digital violence increase. UNICEF reports that 19.2% of girls and 12.7% of boys surveyed said they had experienced cyberbullying during the previous year.
+
+**Detected dogma:** “what happens online is not real violence”.
+
+### 2.8. Grooming, contact with strangers and sexual exploitation
+
+Research presented by Guardia Civil and fundaciónSOL in June 2026 found that 39% of participating secondary-school students and 14% of participating primary-school students had had online contact with people they had not previously known offline. Among them, some reported interactions with adults that made them uncomfortable; unsolicited sexual messages were also reported.
+
+Police cases show that gifts, false identities, chats and social platforms can be used to gain minors' trust and obtain sexual material.
+
+**Detected dogma:** “supervising the device is enough”. The risk lies in the relational architecture, not only in the physical screen.
+
+### 2.9. Pornography and maturity
+
+The UNICEF/Red.es study places average first access to pornography at around 11 years of age. The response cannot be reduced either to technical prohibition or passive normalisation.
+
+What is needed includes:
+
+- proportionate, privacy-preserving age assurance;
+- age-appropriate affective and sexual education;
+- help channels;
+- literacy about consent, fiction and exploitation;
+- effective prosecution of illegal material and grooming.
+
+**Detected dogmas:** “talking about sexuality encourages it” versus the opposite dogma “seeing sexual content is equivalent to sex education”. Both confuse information with exposure.
+
+### 2.10. Video games, loot boxes and microtransactions
+
+Loot boxes, virtual currencies, random rewards, FOMO and microtransactions can turn play into economic pressure. Spain's Ministry of Consumer Affairs and European institutions have developed specific campaigns warning of these risks.
+
+**Detected dogma:** “it is only a game because the purchased object is virtual”.
+
+### 2.11. Data, profiling and privacy
+
+Children under 14 cannot by themselves provide valid consent in Spain for data processing based on consent. But even parental consent may be materially insufficient as a defence when design is opaque, privacy policies are incomprehensible or the service becomes a requirement of social or school belonging.
+
+Child protection requires **privacy by default**, data minimisation, prohibition of high-granularity commercial profiling and severe limits on emotional, biometric and behavioural inference.
+
+**Detected dogma:** “accepting terms means understanding them”.
+
+### 2.12. Sharenting, kidfluencers and child digital labour
+
+Commercial exposure of children's images may generate income, a permanent digital footprint and loss of privacy before the child can understand what that means. In 2026 there is even a specific parliamentary initiative concerning commercial sharenting and economic exploitation of children's images.
+
+**Detected dogma:** “parents own the child's public identity”.
+
+### 2.13. AI, deepfakes and artificial companions
+
+AI introduces new risks:
+
+- generation of fake sexualised images;
+- impersonation;
+- emotional manipulation;
+- chatbots simulating intimacy;
+- automated tutoring without supervision;
+- cognitive profiling;
+- mass production of personalised persuasive content.
+
+Protection does not require excluding minors from AI. It requires AI intended for them to have higher limits for safety, transparency, memory, data and persuasion.
+
+**Detected dogma:** “if the AI answers kindly, the relationship is safe”.
+
+### 2.14. Digital education: neither analogue abandonment nor technosolutionism
+
+The education system needs enough computers and tablets so that family income does not determine access to tools, programming, creation, AI and knowledge. Spain maintains public programmes such as **Educa en Digital**, with implementation projected through 2028 and technological investment above €236 million.
+
+But handing out screens is not education.
+
+UNESCO warns that technology should support education based on human interaction and that its effect depends on context, pedagogy, teacher training and moderation of use. There is also evidence of distraction when use is excessive or unguided.
+
+The proposed architecture is:
+
+```text
+PUBLIC OR GUARANTEED DEVICE
++ CONNECTIVITY
++ AUDITABLE SOFTWARE
++ PROTECTED EDUCATIONAL IDENTITY
++ TEACHER
++ CURRICULUM
++ PROGRAMMING AND COMPUTATIONAL THINKING
++ GUIDED AI
++ CREATION
++ SCREEN-FREE TIME
++ OUTCOME EVALUATION
+= SOVEREIGN DIGITAL EDUCATION
+```
+
+Not:
+
+```text
+TABLET
+= EDUCATION
+```
+
+### 2.15. The family as the last firewall
+
+Legislation and institutional discourse often transfer a large part of supervision to parents. The family is irreplaceable, but it cannot be the only firewall.
+
+A family competes with:
+
+- global recommendation systems;
+- marketing departments;
+- behavioural analytics;
+- product design;
+- generative AI;
+- influencers;
+- data markets;
+- peer pressure.
+
+**Detected dogma:** “if a child suffers digital harm, it is because their parents did not watch them”.
+
+Responsibility must be distributed among family, school, State, platforms, media, advertisers, manufacturers and community.
+
+## 3. Matrix of dogmas that leave childhood unprotected
+
+| Dogma | Failure | Proposed reversal |
+|---|---|---|
+| The market can regulate itself | The minor does not negotiate with equal cognitive power | Reinforced protection and public audit |
+| Parents are responsible for everything | Industrial asymmetry cannot be compensated individually | Systemic co-responsibility |
+| All cartoons are equivalent | Confuses format with maturity | Developmental programming and rating |
+| All digital minors are the same | Erases differences across 0–17 and neurodiversity | Design by age, maturity and need |
+| More screen = more modernity | Confuses tool with learning | Pedagogical, moderated and evaluated use |
+| Banning all screens protects | Prevents literacy and creates inequality | Guided and sovereign access |
+| Engagement = choice | Ignores addictive design and reward systems | Non-manipulative design by default |
+| Consent = understanding | Opaque policies and dependency | Privacy and minimisation by default |
+| If it is virtual, it costs nothing | Microtransactions and opaque currencies | Real price, friction and limits |
+| Online violence is less real | Psychological and social harm persists | Equivalent protection and rapid response |
+| Advertising identifies itself | Integration with entertainment and influencers | Unambiguous identification and commercial literacy |
+| Poverty is only lack of income | It also reduces time, participation, devices and opportunities | Multilayer child policies |
+| Economic growth will reach the child | Spain maintains structural child vulnerability | Measurable budget priority |
+
+## 4. Proposed system
+
+### 4.1. Public Children's Digital Infrastructure
+
+Every enrolled minor should have, where required by the curriculum:
+
+- a sufficient device provided or guaranteed by the public system;
+- connectivity;
+- repair and replacement;
+- accessible software;
+- tools for creation and programming;
+- protected access to educational AI;
+- continuity between home and school for families without sufficient resources.
+
+Ownership may follow different models. What is not negotiable is that **family economic capacity must not determine educational digital citizenship**.
+
+### 4.2. Public-Service Children's Programming by Age
+
+RTVE and regional public broadcasters should operate as quality references with age- and maturity-differentiated blocks accompanied by:
+
+- open metadata;
+- descriptors;
+- absence or an extreme minimum of commercial pressure;
+- cultural and linguistic diversity;
+- science, art, reading, nature, music, coexistence and programming;
+- participation by pedagogues, developmental psychologists, creators and children;
+- public evaluation of impact.
+
+### 4.3. Independent supervisor
+
+“State control” compatible with democracy must not mean ideological censorship by the government of the day.
+
+It should take the form of **independent public oversight**, with:
+
+- published criteria;
+- plural bodies;
+- right of appeal;
+- open data;
+- traceability of decisions;
+- external audit;
+- child and family participation;
+- prohibition of ideological discrimination.
+
+### 4.4. Reinforced commercial protection
+
+For minors:
+
+- prohibition of behavioural advertising based on intimate profiles;
+- prohibition on exploiting fear, belonging, body image, loneliness or precarity;
+- front-facing identification of advertising;
+- prohibition of false scarcity and commercially directed FOMO;
+- limits on random rewards and microtransactions;
+- real price visible in euros alongside virtual currencies;
+- a child option without commercial personalisation.
+
+### 4.5. Right to non-commercialised time
+
+Childhood needs time that is not converted into advertising inventory, data, engagement metrics or a sales opportunity.
+
+The principle is recognised:
+
+```text
+PLAY
+LEARN
+BE BORED
+TALK
+READ
+CREATE
+MOVE
+BE WITH OTHERS
+
+ARE NOT ECONOMICALLY EMPTY TIMES
+```
+
+## 5. Risks of the proposal itself
+
+MAXPROC requires auditing the solution too.
+
+### Risk A · excessive paternalism
+
+Protection may become denial of adolescent autonomy.
+
+**Mitigation:** rights that increase with age and maturity, child participation and review.
+
+### Risk B · political censorship
+
+Public control of content may be captured by a government.
+
+**Mitigation:** independent regulator, public criteria, plurality, appeal and traceability.
+
+### Risk C · child surveillance
+
+Age verification or safety mechanisms may create invasive identity systems.
+
+**Mitigation:** age assurance with data minimisation, separation of identity and content, privacy by design.
+
+### Risk D · school technosolutionism
+
+Distributing tablets may substitute for investment in teachers, libraries or coexistence.
+
+**Mitigation:** technology subordinated to pedagogical goals and evaluation.
+
+### Risk E · inequality through prohibition
+
+Wealthy families may retain private access while public schools restrict tools.
+
+**Mitigation:** universal guided literacy and access, not digital exclusion.
+
+### Risk F · rigid classification
+
+Chronological age does not capture all diversity.
+
+**Mitigation:** indicative bands, descriptors, special needs, maturity and informed family control.
+
+## 6. MAXPROC roadmap
+
+### Phase 0 · measure the threshold
+
+Create an annual dashboard including:
+
+- child AROPE;
+- child material deprivation;
+- essential/discretionary spending structure;
+- access to devices and connectivity;
+- commercial exposure;
+- microtransactions;
+- age of first mobile phone;
+- cyberbullying;
+- grooming;
+- consumption of adult content;
+- educational use of AI;
+- screen time by purpose.
+
+### Phase 1 · commercial shielding
+
+Apply DSA, LGCA and data-protection rules more strongly to minors; audit influencers, video games, embedded advertising and recommendation systems.
+
+### Phase 2 · transversal developmental classification
+
+Unify television, VOD, platforms, video games and child profiles through interoperable age metadata and descriptors.
+
+### Phase 3 · educational infrastructure
+
+Guarantee devices, connectivity and support; teach programming, digital creation, AI, cybersecurity, advertising, privacy and critical thinking.
+
+### Phase 4 · public programming
+
+Create public-service blocks and catalogues differentiated by age, rather than one generic pool of “children's content”.
+
+### Phase 5 · child participation
+
+No protection system should be designed only by talking about children. It must include safe mechanisms for hearing their experiences and revising design.
+
+## 7. NEXT
+
+This analysis grounds **Manifesto XXXVIII · Integral Protection of Childhood and the Child Point of No Return™** and its dedicated Open Synthesis.
+
 
 ---
 

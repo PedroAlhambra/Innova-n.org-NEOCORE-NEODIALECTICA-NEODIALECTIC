@@ -251,46 +251,235 @@ La función de Umbral-X no es confirmar la sospecha inicial. Es **hacerla sobrev
 
 ## 1. Open-Synthesis news item
 
-Innova_N publishes its **first Umbral-X MAXPROC Hypothesis** as an open, traceable investigation.
+Innova_N publishes its **first Umbral-X MAXPROC Hypothesis** as an open and traceable research piece.
 
-The question is whether the observed circularity among artist, distributor and DSP is best explained by a cyberincident, fragmented metadata, human or automated mapping error, support-layer limitations, third-party fraud, accounting/reporting separation, or some combination of these.
+The object is an uncomfortable but legitimate question:
 
-## 2. Leonidas-Cerberus™ as neoarchetype
+> **what real architecture of data, identity and payments exists behind Spotify, DistroKid, TIDAL and other DSPs, and what can produce a support circle in which a musician observes anomalies while each layer refers them to another?**
 
-**The God of Control Leonidas-Cerberus™** names a system in which access, identity, catalogue, metadata and payment pass through multiple controlled gates while causal responsibility may remain fragmented. It is an analytical neoarchetype, not an accusation against any individual.
+The question starts from a concrete case, but it is not intended to remain there. It is opened to all musicians, labels, distributors, data engineers, metadata specialists, royalty-accounting professionals and cybersecurity specialists who can contribute comparable cases.
 
-## 3. Current evidence
+## 2. The neoarchetype: The God of Control Leonidas-Cerberus™
 
-Official Spotify and DistroKid documentation confirms that artist-profile mapping and metadata errors are a known class of problem and often require coordination between service and distributor. TIDAL documents profile merging and distributor-dependent profile data. Academic work describes music metadata as fragmented across multiple proprietary or independently maintained records. Historical reporting also documents unauthorized uploads and artist impersonation.
+Leonidas-Cerberus™ represents infrastructure with multiple gates and guardians:
 
-At the same time, Spotify's public status history reports no general incidents for May–July 2026. This weakens the strong hypothesis of a known platform-wide outage, while not ruling out internal, partial, security, reconciliation or data-layer problems.
+```text
+MUSICIAN
+→ DISTRIBUTOR
+→ METADATA
+→ DSP
+→ ARTIST PROFILE
+→ ISRC / UPC / URI / ARTIST ID
+→ STATISTICS
+→ ROYALTY REPORTS
+→ SETTLEMENT
+→ SUPPORT
+→ BACK TO DISTRIBUTOR OR DSP
+```
 
-## 4. Working hypotheses
+The name **does not identify personal culprits**. It is an analytical neoarchetype for observing systems in which control is highly concentrated while causal responsibility may remain fragmented.
 
-- **H1:** cyberincident or infrastructure/data degradation;
-- **H2:** fragmented databases and metadata reconciliation;
-- **H3:** human or automated mapping error;
-- **H4:** support agents without access to the relevant accounting/routing layer;
-- **H5:** third-party fraud, impersonation or unauthorized upload;
-- **H6:** separation between audience-statistics systems and royalty-reporting systems.
+## 3. Signals activating Umbral-X
 
-No hypothesis is treated as established fact.
+The Innova_N case contains, among others, the following signals:
 
-## 5. Call to musicians and technical specialists
+- reported listening activity together with an observed absence of Spotify royalties in the account;
+- previous tickets without material reconstruction of payment routing;
+- a recent DistroKid reply focused on `Estimated Daily Stats` even though the claim requested an audit of royalties, identifiers and allocation;
+- a subsequent satisfaction survey sent without answering the accounting questions raised;
+- a history of songs appearing, disappearing or becoming associated/disassociated with profiles and catalogues;
+- circular referrals between distributor and platform for different kinds of incidents.
 
-We invite musicians, labels, distributors, metadata engineers, cybersecurity specialists and royalty-accounting professionals to contribute comparable cases involving missing royalties, disappearing releases, split artist profiles, wrong mappings, changed identifiers, circular support, unauthorized uploads, proven fraud, or evidence showing that these suspicions are wrong.
+Related internal documentation:
+
+- [Ticket 4499471 · non-substantive reply and renewed audit request](./2026-08-08_distrokid_ticket_4499471_respuesta_no_resolutiva_y_reiteracion_auditoria_ES_EN.md)
+- [Spotify–DistroKid update · royalty traceability](./2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md)
+- [Circular closure and escalation](./2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md)
+- [Addendum · catalogue removed/added and Apple Music](./2026-08-08_addendum_distrokid_catalogo_album_removed_added_apple_music_ES_EN.md)
+
+## 4. Competing MAXPROC hypotheses
+
+### H1 · Cyberincident, loss or infrastructure degradation
+
+Could there be loss, corruption, unavailability or partial desynchronisation of data caused by a technical or security incident?
+
+**Current status:** possible in the abstract, **without sufficient public evidence to assert it in this case**.
+
+Spotify's public status page also records no general incidents during May, June or July 2026, which weakens the strong version of a known recent platform-wide outage:
+
+- Spotify Status · Incident History: https://spotify.statuspage.io/history
+
+This **does not exclude** an internal, partial, reconciliation, security or data problem that does not affect general availability.
+
+### H2 · Fragmentation of databases and metadata
+
+This is the hypothesis that currently has the strongest general external support.
+
+Spotify officially acknowledges that problems involving artist names, releases, credits, availability and other metadata must be corrected through the label or distributor because Spotify displays music according to the metadata it receives:
+
+- Spotify · Fixing problems with music metadata: https://support.spotify.com/artists/article/fixing-problems-with-music/
+
+Spotify also expressly recognises that music and catalogues may become mixed between different profiles:
+
+- Spotify · Music mixed up with another artist: https://support.spotify.com/artists/article/music-mixed-up-with-another-artist/
+
+DistroKid provides `Fixer` precisely because releases may disappear from the correct profile or become mapped to another artist:
+
+- DistroKid · My Spotify Release is Missing From My Artist Page: https://support.distrokid.com/hc/en-us/articles/10403637585939-My-Spotify-Release-is-Missing-From-My-Artist-Page
+- DistroKid · Making Sure Your Music is On the Correct Spotify and Apple Music Page: https://support.distrokid.com/hc/en-us/articles/4401872567699-Making-Sure-Your-Music-is-On-the-Correct-Spotify-and-Apple-Music-Page
+
+DistroKid adds an important structural fact: final mapping of artist pages is **not under the distributor's direct control**, but is managed by the services themselves.
+
+TIDAL also contemplates duplicate profiles and merges. Its documentation explains that when profiles are merged only one remains active and followers of the closed profile are not transferred; it also says that certain profile data is adjusted according to records received from the distributor:
+
+- TIDAL · Claim Your Artist Profile: https://support.tidal.com/hc/en-us/articles/44170181437713-Claim-Your-Artist-Profile
+
+An academic publication on music-metadata infrastructure describes precisely an ecosystem in which different entities maintain their own versions of the same data and corrections/synchronisations are manually laborious and error-prone:
+
+- Hardjono et al., *Towards an Open and Scalable Music Metadata Layer*: https://arxiv.org/abs/1911.08278
+
+### H3 · Human error or defective automation
+
+The very existence of tools to correct mapping, merges and duplicate profiles demonstrates that association errors are a known class of problem.
+
+This does not permit attribution of a specific error to a person, but makes plausible a combination of:
+
+- data uploaded with incomplete identifiers;
+- profile changes;
+- merges;
+- homonymous artist pages;
+- metadata redelivery;
+- automated matching processes;
+- later manual intervention.
+
+Historical Spotify community cases document songs assigned to incorrect profiles, duplicate profiles and problems requiring coordination among artist, distributor and Spotify:
+
+- https://community.spotify.com/t5/Content-Questions/Wrong-artist-page/td-p/4877279
+- https://community.spotify.com/t5/Content-Questions/Release-listed-on-the-wrong-profile/td-p/5139962
+- https://community.spotify.com/t5/Content-Questions/My-music-listed-under-wrong-artist/td-p/1530282
+
+These testimonies are **anecdotal cases**, not a measurement of global incidence.
+
+### H4 · Support without access to the layer that resolves the problem
+
+An explanation compatible with the observed circle is that first-line agents may have guidance on statistics, metadata or repair tools but not direct access to:
+
+- royalty reports received from the DSP;
+- accounting allocations by ISRC;
+- internal reconciliation rules;
+- historical remapping records;
+- payment ledgers;
+- events modifying ownership or association.
+
+If this were true, a generic answer could be correct within its own domain and at the same time irrelevant to the concrete case.
+
+### H5 · Fraud, impersonation or appropriation by third parties
+
+This should be investigated **only when concrete indicators exist**.
+
+There is independent historical evidence that third parties have managed to upload unauthorised music, impersonate artists or introduce releases into other artists' profiles. Pitchfork documented multiple cases of impostors and unauthorised uploads in 2019 and identified fragmented metadata as a structural vulnerability of the ecosystem:
+
+- Pitchfork · *How Artist Imposters and Fake Songs Sneak Onto Streaming Services*: https://pitchfork.com/features/article/how-artist-imposters-and-fake-songs-sneak-onto-streaming-services/
+
+This demonstrates that **the class of attack exists**, not that it explains this case.
+
+### H6 · Statistics and royalties belong to different systems
+
+DistroKid states that estimated daily statistics and earnings reports come from different systems and that fluctuations in the statistics API do not by themselves affect actual royalties:
+
+- DistroKid · My Stats Disappeared: https://support.distrokid.com/hc/en-us/articles/360013647473-My-Stats-Disappeared
+
+Therefore:
+
+```text
+STATISTICS ANOMALY
+≠
+PROOF OF ROYALTY ANOMALY
+```
+
+But the inverse also applies:
+
+```text
+EXPLAINING THE STATISTICS API
+≠
+AUDITING THE ROYALTY LEDGER
+```
+
+That is precisely one of the central points of the current case.
+
+## 5. Provisional Umbral-X finding
+
+As of this publication:
+
+```text
+CONFIRMED CYBERATTACK
+→ NO
+
+CONFIRMED DATABASE LOSS
+→ NO
+
+CONFIRMED ROYALTY THEFT
+→ NO
+
+METADATA FRAGMENTATION / ERRORS AS A KNOWN CLASS
+→ YES
+
+EXTERNAL CASES OF INCORRECT MAPPING
+→ YES
+
+EXTERNAL CASES OF IMPERSONATION / UNAUTHORISED UPLOAD
+→ YES
+
+CURRENT SUPPORT RESPONSE SUFFICIENT TO AUDIT OUR CASE
+→ NO
+
+NEED TO RECONSTRUCT IDENTIFIERS + REPORTS + ROUTING
+→ YES
+```
+
+The most parsimonious hypothesis **for now** is not “they lost the entire database”, but a possible combination of **metadata fragmentation, decoupled support layers and lack of end-to-end traceability**. MAXPROC nevertheless keeps H1–H6 open until data exist that can discriminate among them.
+
+## 6. Worldwide call to musicians
+
+We are seeking musicians and labels who have experienced any of the following problems with **DistroKid, Spotify, TIDAL or other DSPs**:
+
+- missing royalties or royalties inexplicably at zero;
+- songs disappearing and reappearing;
+- catalogues split across two profiles;
+- music placed on another artist's profile;
+- someone else's music appearing on one's own profile;
+- unexpected changes in ISRC, UPC, URI or artist ID;
+- merged or disassociated profiles;
+- simultaneous errors across multiple platforms;
+- circular support between distributor and DSP;
+- cases of proven fraud, impersonation or theft;
+- cases in which the system worked correctly and contradicts our suspicions.
+
+### Recommended contribution format
+
+1. platform;
+2. distributor;
+3. approximate date;
+4. identifiers that can be made public;
+5. what changed or disappeared;
+6. effect on statistics;
+7. effect on royalties;
+8. responses received;
+9. final resolution;
+10. hypothesis supported or refuted by the case.
 
 **Open Synthesis:** [Issue #61](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/61)
 
-## 6. MAXPROC rule
+## 7. MAXPROC rule
 
 > **HYPOTHESIS ≠ FACT**  
 > **CORRELATION ≠ CAUSATION**  
-> **EVASIVE SUPPORT ≠ PROOF OF FRAUD**  
+> **EVASIVE RESPONSE ≠ PROOF OF FRAUD**  
 > **METADATA ERROR ≠ ROYALTY ERROR**  
-> **BUT MISSING TRACEABILITY = AN AUDITABLE PROBLEM**
+> **BUT ABSENCE OF TRACEABILITY = AUDITABLE PROBLEM**
 
-Umbral-X exists not to confirm an initial suspicion, but to make it **survive or fail under external evidence**.
+The function of Umbral-X is not to confirm the initial suspicion. It is to **make it survive or die under external evidence**.
+
 
 ---
 
