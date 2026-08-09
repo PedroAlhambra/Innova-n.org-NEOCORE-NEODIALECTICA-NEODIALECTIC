@@ -1,4 +1,3 @@
-# trigger: 2026-08-09T22:18+02:00
 name: sync-open-synthesis-network
 
 on:
@@ -12,8 +11,6 @@ on:
       - '.github/scripts/sync_open_synthesis_manifestos.py'
       - '.github/scripts/normalize_manifesto_indices.py'
       - '.github/scripts/sync_root_navigation.py'
-      - '.github/scripts/apply_wave_human_relevance_symbols.py'
-      - '.github/scripts/patch_postcheck_for_lx.py'
 
 permissions:
   contents: write
@@ -29,20 +26,18 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Apply additive NAX-10 and human-relevance integration
-        run: python .github/scripts/apply_wave_human_relevance_symbols.py
-      - name: Patch postcheck for I-LX corpus
-        run: python .github/scripts/patch_postcheck_for_lx.py
-      - name: Commit integration if needed
+      - name: Synchronize Open Synthesis network
+        run: python .github/scripts/sync_open_synthesis_manifestos.py
+      - name: Normalize canonical indices
+        run: python .github/scripts/normalize_manifesto_indices.py
+      - name: Synchronize root navigation
+        run: python .github/scripts/sync_root_navigation.py
+      - name: Commit synchronized network if needed
         run: |
-          set -euo pipefail
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -A
-          if git diff --cached --quiet; then
-            echo 'No changes required.'
-            exit 0
-          fi
-          git commit -m 'docs: integrar NAX-10 León, Bandera de Síntesis y LX'
+          git add README.md LEEME.md manifiestos/README.md propuestas/sintesis-abierta/README.md manifiestos/*.md
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'docs: sync Open Synthesis canonical network'
           git pull --rebase origin main
           git push origin main
