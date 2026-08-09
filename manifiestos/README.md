@@ -117,13 +117,18 @@ Las auditorías tienen la misma relevancia operativa que los manifiestos: los ma
 
 <!-- NEO_OPEN_SYNTHESIS_INVITATION_START -->
 
-## Participa / Participate
+## Participa en la Síntesis Abierta / Join the Open Synthesis
 
-**El marco no pide adhesión ciega.** Puedes aportar una crítica, objeción, contraejemplo, fuente, experiencia, verificación, implementación o delta. También puedes aportar pruebas a una auditoría o proponer una nueva.
+**Este marco no pide adhesión ciega.** Puedes aportar una crítica, objeción, contraejemplo, fuente, experiencia, verificación, implementación o propuesta de delta. Con **Leónidas™** también puedes aportar pruebas a una Auditoría Pública existente o proponer un problema externo para nueva auditoría trazable.
 
-- [Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
-- [Cómo aportar](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
-- [Leónidas™ · abrir problemas y auditorías](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)
-- [Auditorías públicas](../auditorias/publicas/README.md)
+**Puerta actual:** [LIII · Leónidas™](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Síntesis Abierta LIII · Issue #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)  
+**Cómo aportar:** [Protocolo general](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Protocolo Leónidas™](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
+**Auditorías Públicas:** [portal y pruebas](../auditorias/publicas/README.md) · [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
+
+**This framework does not ask for blind endorsement.** You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a proposed delta. With **Leónidas™**, you may also contribute evidence to an existing Public Audit or bring an external problem for a new traceable audit.
+
+**Current gate:** [LIII · Leónidas™](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Open Synthesis LIII · Issue #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)  
+**How to contribute:** [general protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™ protocol](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
+**Public Audits:** [portal and evidence](../auditorias/publicas/README.md) · [Open Synthesis index](../propuestas/sintesis-abierta/README.md)
 
 <!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->

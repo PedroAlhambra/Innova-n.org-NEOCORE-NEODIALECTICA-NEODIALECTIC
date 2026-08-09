@@ -38,7 +38,7 @@
 <!-- NEO_LATEST_MANIFESTO_END -->
 <!-- MANIFESTOS_CURRENT_START -->
 
-**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LII · 52 manifiestos bilingües / 52 bilingual manifestos** · [índice canónico / canonical index](manifiestos/README.md)
+**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LIII · 53 manifiestos bilingües / 52 bilingual manifestos** · [índice canónico / canonical index](manifiestos/README.md)
 
 <!-- MANIFESTOS_CURRENT_END -->
 
@@ -46,7 +46,7 @@
 
 ## Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™
 
-**Estado canónico / Canonical state:** **52 manifiestos bilingües · I–LII · 19 oleadas / 52 bilingual manifestos · I–LII · 19 waves**  
+**Estado canónico / Canonical state:** **53 manifiestos bilingües · I–LIII · 20 oleadas / 53 bilingual manifestos · I–LIII · 20 waves**  
 **Índice canónico / Canonical index:** [manifiestos/README.md](manifiestos/README.md)
 
 <details>
@@ -115,17 +115,17 @@
 
 ## Participa en la Síntesis Abierta / Join the Open Synthesis
 
-**Este marco no pide adhesión ciega.** La Síntesis Abierta está abierta a cualquier persona que quiera aportar una **adhesión razonada o parcial, crítica, objeción, contraejemplo, fuente, experiencia, verificación, traducción, implementación o propuesta de delta**. Toda aportación debe poder discutirse, contrastarse y revisarse.
+**Este marco no pide adhesión ciega.** Puedes aportar una crítica, objeción, contraejemplo, fuente, experiencia, verificación, implementación o propuesta de delta. Con **Leónidas™** también puedes aportar pruebas a una Auditoría Pública existente o proponer un problema externo para nueva auditoría trazable.
 
-**Puerta de entrada recomendada:** [XLVIII · La Síntesis Todo lo Ve™](manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) · [Síntesis Abierta XLVIII · Issue #56](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/56)  
-**Cómo aportar:** [Protocolo de aporte a la Síntesis Abierta](propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)  
-**Todas las síntesis abiertas:** [Índice operativo de Síntesis Abierta](propuestas/sintesis-abierta/README.md)
+**Puerta actual:** [LIII · Leónidas™](manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Síntesis Abierta LIII · Issue #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)  
+**Cómo aportar:** [Protocolo general](propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Protocolo Leónidas™](propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
+**Auditorías Públicas:** [portal y pruebas](auditorias/publicas/README.md) · [Índice de Síntesis Abierta](propuestas/sintesis-abierta/README.md)
 
-**This framework does not ask for blind endorsement.** Open Synthesis is open to anyone willing to contribute a **reasoned or partial endorsement, criticism, objection, counterexample, source, experience, verification, translation, implementation or proposed delta**. Every contribution must remain open to discussion, checking and revision.
+**This framework does not ask for blind endorsement.** You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a proposed delta. With **Leónidas™**, you may also contribute evidence to an existing Public Audit or bring an external problem for a new traceable audit.
 
-**Recommended entry point:** [XLVIII · The Synthesis Sees Everything™](manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) · [Open Synthesis XLVIII · Issue #56](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/56)  
-**How to contribute:** [Open Synthesis contribution protocol](propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)  
-**All open syntheses:** [Open Synthesis operational index](propuestas/sintesis-abierta/README.md)
+**Current gate:** [LIII · Leónidas™](manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Open Synthesis LIII · Issue #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)  
+**How to contribute:** [general protocol](propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™ protocol](propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
+**Public Audits:** [portal and evidence](auditorias/publicas/README.md) · [Open Synthesis index](propuestas/sintesis-abierta/README.md)
 
 <!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->
 
@@ -144,7 +144,7 @@ Este repositorio conserva la capa pública, documental y trazable del ecosistema
 * [L · Por una Inteligencia Compartida, no Única™](./manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
 * [Síntesis Abierta L · Issue #58](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/58)
 
-* [Índice navegable de manifiestos I–LII](./manifiestos/README.md)
+* [Índice navegable de manifiestos I–LIII](./manifiestos/README.md)
 * [Anuncio histórico de la cuarta oleada](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [Anuncio de sexta oleada y deltas transversales](./anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md)
 * [XXXIII · IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
@@ -797,7 +797,7 @@ This repository preserves the public, documentary and traceable layer of the **I
 * [L · For Shared, Not Singular Intelligence™](./manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
 * [Open Synthesis L · Issue #58](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/58)
 
-* [Navigable manifesto index I–LII](./manifiestos/README.md)
+* [Navigable manifesto index I–LIII](./manifiestos/README.md)
 * [Historical fourth-wave announcement](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [Sixth-wave and transverse-deltas announcement](./anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md)
 * [XXXIII · IDEA · Civilisational Cornerstone and Rosetta Stone™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
