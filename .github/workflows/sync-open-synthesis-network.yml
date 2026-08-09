@@ -4,6 +4,9 @@ on:
   workflow_dispatch:
   push:
     paths:
+      - 'manifiestos/*.md'
+      - 'manifiestos/README.md'
+      - 'propuestas/sintesis-abierta/README.md'
       - '.github/workflows/sync-open-synthesis-network.yml'
       - '.github/scripts/sync_open_synthesis_manifestos.py'
       - '.github/scripts/normalize_manifesto_indices.py'
