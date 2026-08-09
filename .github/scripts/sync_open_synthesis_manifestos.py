@@ -10,8 +10,10 @@ protocol = root / 'propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md'
 synth_index = root / 'propuestas/sintesis-abierta/README.md'
 audits = root / 'auditorias/publicas/README.md'
 leonidas = root / 'propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md'
+entry_register = root / 'propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md'
+follow = root / 'proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md'
 
-for p in (index, protocol, synth_index, audits, leonidas):
+for p in (index, protocol, synth_index, audits, leonidas, entry_register, follow):
     if not p.exists():
         raise SystemExit(f'Missing canonical target: {p.relative_to(root)}')
 
@@ -63,7 +65,7 @@ def latest_block(f):
 > **{roman} · {title}**
 >
 > **[Leer {roman} / Read {roman}]({rel(f,LATEST)}) · [Síntesis Abierta {roman} · #{issue_num} / Open Synthesis {roman} · #{issue_num}]({issue_url})**  
-> [Cómo aportar / How to contribute]({rel(f,protocol)}) · [Leónidas™]({rel(f,leonidas)}) · [Auditorías públicas / Public audits]({rel(f,audits)}) · [{count} manifiestos / manifestos · I–{roman}]({rel(f,index)})
+> [Seguir marco / Follow framework]({rel(f,follow)}) · [Registrar entrada / Register entry]({rel(f,entry_register)}) · [Cómo aportar / How to contribute]({rel(f,protocol)}) · [Leónidas™]({rel(f,leonidas)}) · [Auditorías públicas / Public audits]({rel(f,audits)}) · [{count} manifiestos / manifestos · I–{roman}]({rel(f,index)})
 
 {LATEST_END}'''
 
@@ -94,6 +96,7 @@ def invite_block(f):
 Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. / You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta.
 
 **Última síntesis / Latest synthesis:** [{roman} · {title}]({rel(f,LATEST)}) · [Issue #{issue_num}]({issue_url})  
+**Seguimiento vivo / Living follow-up:** [seguir el marco / follow the framework]({rel(f,follow)}) · [registro de entrada / entry register]({rel(f,entry_register)})  
 **Auditorías / Audits:** [LIII · Leónidas™]({rel(f,links[52][2]) if len(links)>52 else rel(f,leonidas)}) · [protocolo / protocol]({rel(f,leonidas)})  
 **Cómo aportar / How to contribute:** [protocolo general / general protocol]({rel(f,protocol)}) · [portal de auditorías / audit portal]({rel(f,audits)}) · [índice / index]({rel(f,synth_index)})
 
@@ -139,7 +142,7 @@ for f in readmes:
     if s!=old:
         f.write_text(s,encoding='utf-8'); changed.append(f)
 
-# Keep manifesto navigation dynamic when managed navigation markers exist.
+# Keep manifesto navigation and participation blocks dynamic.
 for i,(_,_,f) in enumerate(links):
     s=f.read_text(encoding='utf-8'); old=s
     if NAV_START in s and NAV_END in s:
@@ -149,7 +152,7 @@ for i,(_,_,f) in enumerate(links):
     if s!=old:
         f.write_text(s,encoding='utf-8'); changed.append(f)
 
-# Validate the three canonical entry points without assuming the corpus is final.
+# Validate canonical entry points without assuming the corpus is final.
 fail=[]
 for p in (root/'README.md', index, synth_index):
     s=p.read_text(encoding='utf-8')
