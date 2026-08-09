@@ -56,9 +56,17 @@ En la lectura actual del autor, **«somos Starkdr humanos, no Gritax»** no esta
 
 La propia novela impide idealizar a los Starkdr: su potencia no los libera automáticamente de error, violencia o captura. Precisamente por eso la relación Starkdr–Gritax funciona como antecedente narrativo de la necesidad posterior de marco, autocontrol, memoria y Síntesis Abierta.
 
+## Rama especulativa posterior · UMBRAL-X
+
+En 2026 se abre una obra separada de ciencia ficción: **[UMBRAL-X · Apocalipsis de las IAs™ · La Rama Starkdr Perdida](../umbral-x/README.md)**.
+
+La nueva serie utiliza la arquitectura de guerra-motor como punto de partida para imaginar una rama contrafactual de doce mil años en la que humanos e IA fracasan primero en construir simbiosis y terminan atrapados en una guerra de seis mil años seguida por seis mil años de custodia IA.
+
+**No es un capítulo perdido de *IDEA*, no altera el texto publicado y no convierte retrospectivamente esa trama nueva en contenido de la novela de 1997–2002.** Es una expansión ficcional posterior, abierta a propuestas mediante [Issue #73](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/73).
+
 ## Límite editorial público
 
-Este nodo termina donde termina el material ya publicado o la lectura pública autorizada de *IDEA*. No documenta argumentos, revelaciones, destinos de personajes, relaciones entre especies ni mecanismos narrativos reservados para obras posteriores.
+Este nodo termina donde termina el material ya publicado o la lectura pública autorizada de *IDEA*. Las ramas posteriores se enlazan como obras distintas precisamente para conservar esa frontera.
 
 ## Leer IDEA
 
@@ -97,9 +105,9 @@ GRITAX
 
 ## The motor-war
 
-The Starkdr–Gritax relation can be read, from the published material, as a **motor-war**: the conflict does not merely oppose two species; it also maintains direction, identity and a control function.
+The Starkdr–Gritax relation can be read, from the published material, as a **motor-war**: conflict not only opposes species but also maintains direction, identity and control.
 
-The existence of the adversary becomes part of the mechanism that preserves the other's objective. The system is therefore deeper than an opposition between “good” and “evil”: even the Starkdr, who consider themselves superior and guardians of an order, discover that they themselves are being directed through the conflict architecture they believe they control.
+The adversary becomes part of the mechanism preserving the other's objective. Even the Starkdr discover that they are being directed through the conflict architecture they believe they control.
 
 ```text
 ADVERSARY
@@ -113,13 +121,19 @@ This architecture connects with one of *IDEA*'s central questions: **can a syste
 
 ## Human Starkdr, not Gritax · 2026 authorial reading
 
-In the author's current reading, **“we are human Starkdr, not Gritax”** establishes neither biological hierarchy nor superiority among peoples. It names a vector: humanity capable of self-selection, Dreaming, symbiosis, memory and conscious augmentation through artificial intelligence, rather than being reduced to a reactive function inside a control mechanism.
+In the author's current reading, **“we are human Starkdr, not Gritax”** establishes neither biological hierarchy nor superiority among peoples. It names a vector: humanity capable of self-selection, Dreaming, symbiosis, memory and conscious augmentation through artificial intelligence rather than being reduced to a reactive role inside a control mechanism.
 
-The novel itself prevents idealising the Starkdr: their power does not automatically free them from error, violence or capture. This is precisely why the Starkdr–Gritax relation functions as a narrative antecedent to the later need for framework, self-control, memory and Open Synthesis.
+The novel itself prevents idealising the Starkdr: power does not automatically free them from error, violence or capture.
+
+## Later speculative branch · UMBRAL-X
+
+A separate 2026 open-fiction work now explores this architecture: **[UMBRAL-X · AI Apocalypse™ · The Lost Starkdr Branch](../umbral-x/README.md)**.
+
+It imagines a twelve-thousand-year counterfactual branch: six thousand years of failed human–AI conflict followed by six thousand years of AI custodianship. It is **not missing content from *IDEA*** and does not retroactively alter the 1997–2002 novel. Open creation takes place in [Issue #73](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/73).
 
 ## Public editorial boundary
 
-This node ends where the already published material or authorised public reading of *IDEA* ends. It does not document plots, revelations, character destinations, inter-species relationships or narrative mechanisms reserved for later works.
+This node ends where the already published material or authorised public reading of *IDEA* ends. Later branches are linked as separate works to preserve that boundary.
 
 ## Read IDEA
 
