@@ -300,7 +300,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 ## Navegación canónica / Canonical navigation
 
 ← **VI** · [Parasitismo Sistémico / Systemic Parasitism](09_parasitismo_sistemico_ES_EN.md)  
-· [Índice I–LIX / I–LIX index](README.md) ·  
+· [Índice I–LIX / I–LIX index](README.md) · [Síntesis Abierta / Open Synthesis](../propuestas/sintesis-abierta/README.md) · [Neoaxiomas™](../neoaxiomas/README.md) ·  
 **VIII** · [Ingeniería Social Abierta y Psicohistoria / Open Social Engineering and Psychohistory](05_ingenieria_social_psicohistoria_ES_EN.md) →
+
+> Este bloque es navegación aditiva. No sustituye ni resume el cuerpo del manifiesto. / This is an additive navigation block. It does not replace or summarise the manifesto body.
 
 <!-- NEO_MANIFESTO_NAV_END -->

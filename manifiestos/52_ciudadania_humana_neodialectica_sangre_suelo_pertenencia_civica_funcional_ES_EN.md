@@ -735,7 +735,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 ## Navegación canónica / Canonical navigation
 
 ← **LI** · [Síntesis Abierta como Poder Cívico™](51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md)  
-· [Índice I–LIX / I–LIX index](README.md) ·  
+· [Índice I–LIX / I–LIX index](README.md) · [Síntesis Abierta / Open Synthesis](../propuestas/sintesis-abierta/README.md) · [Neoaxiomas™](../neoaxiomas/README.md) ·  
 **LIII** · [Leónidas™ · Defensor de la Síntesis y Auditoría Abierta](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) →
+
+> Este bloque es navegación aditiva. No sustituye ni resume el cuerpo del manifiesto. / This is an additive navigation block. It does not replace or summarise the manifesto body.
 
 <!-- NEO_MANIFESTO_NAV_END -->

@@ -453,7 +453,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 ## Navegación canónica / Canonical navigation
 
 ← **XXVIII** · [Los Tesla™ / The Teslas™](28_los_tesla_ES_EN.md)  
-· [Índice I–LIX / I–LIX index](README.md) ·  
+· [Índice I–LIX / I–LIX index](README.md) · [Síntesis Abierta / Open Synthesis](../propuestas/sintesis-abierta/README.md) · [Neoaxiomas™](../neoaxiomas/README.md) ·  
 **XXX** · [Coherencia entre Fines y Medios™ / Coherence between Ends and Means™](30_coherencia_fines_medios_ES_EN.md) →
+
+> Este bloque es navegación aditiva. No sustituye ni resume el cuerpo del manifiesto. / This is an additive navigation block. It does not replace or summarise the manifesto body.
 
 <!-- NEO_MANIFESTO_NAV_END -->

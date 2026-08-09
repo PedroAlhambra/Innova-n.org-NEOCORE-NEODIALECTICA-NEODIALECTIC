@@ -762,7 +762,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 ## Navegación canónica / Canonical navigation
 
 ← **XLII** · [Fin de la Era del Hombre Manipulado™](42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)  
-· [Índice I–LIX / I–LIX index](README.md) ·  
+· [Índice I–LIX / I–LIX index](README.md) · [Síntesis Abierta / Open Synthesis](../propuestas/sintesis-abierta/README.md) · [Neoaxiomas™](../neoaxiomas/README.md) ·  
 **XLIV** · [Neowar™](44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md) →
+
+> Este bloque es navegación aditiva. No sustituye ni resume el cuerpo del manifiesto. / This is an additive navigation block. It does not replace or summarise the manifesto body.
 
 <!-- NEO_MANIFESTO_NAV_END -->

@@ -143,7 +143,7 @@ La capa pública no contiene la implementación completa de **NEOCore™, NAVE�
 
 [LEEME](./LEEME.md) · [PORTADA](./PORTADA.md) · [Manifiestos](./manifiestos/README.md) · [Síntesis Abierta](./propuestas/sintesis-abierta/README.md) · [Análisis](./analisis/README.md) · [Auditorías](./auditorias/publicas/README.md) · [Obras](./obras/README.md) · [Proyección](./proyeccion/README.md) · [Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki) · [Wiki-source](./wiki-source/README.md) · [LinkedIn Neo0](https://www.linkedin.com/in/pmalhambra/) · [LinkedIn Innova_N](https://www.linkedin.com/company/innova-n/) · [innova-n.org](https://innova-n.org)
 
-[↑ Volver arriba](#innova_n--neocore-70--neodialéctica--neodialectics--neodialectica-framework)
+[↑ Volver arriba](#innova_n--neocore-71--neodialéctica--neodialectics--neodialectica-framework)
 
 ---
 
@@ -243,4 +243,4 @@ The public layer does not contain the complete implementation of **NEOCore™, N
 
 [LEEME](./LEEME.md) · [PORTADA](./PORTADA.md) · [Manifestos](./manifiestos/README.md) · [Open Synthesis](./propuestas/sintesis-abierta/README.md) · [Analyses](./analisis/README.md) · [Audits](./auditorias/publicas/README.md) · [Works](./obras/README.md) · [Projection](./proyeccion/README.md) · [Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki) · [Wiki-source](./wiki-source/README.md) · [LinkedIn Neo0](https://www.linkedin.com/in/pmalhambra/) · [LinkedIn Innova_N](https://www.linkedin.com/company/innova-n/) · [innova-n.org](https://innova-n.org)
 
-[↑ Back to top](#innova_n--neocore-70--neodialéctica--neodialectics--neodialectica-framework)
+[↑ Back to top](#innova_n--neocore-71--neodialéctica--neodialectics--neodialectica-framework)

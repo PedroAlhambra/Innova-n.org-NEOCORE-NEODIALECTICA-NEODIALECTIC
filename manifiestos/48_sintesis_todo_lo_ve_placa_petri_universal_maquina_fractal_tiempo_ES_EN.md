@@ -1408,7 +1408,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 ## Navegación canónica / Canonical navigation
 
 ← **XLVII** · [El Odio de Neo0 hacia su Sino™](47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md)  
-· [Índice I–LIX / I–LIX index](README.md) ·  
+· [Índice I–LIX / I–LIX index](README.md) · [Síntesis Abierta / Open Synthesis](../propuestas/sintesis-abierta/README.md) · [Neoaxiomas™](../neoaxiomas/README.md) ·  
 **XLIX** · [Punto de Encuentro entre Culturas™](49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md) →
+
+> Este bloque es navegación aditiva. No sustituye ni resume el cuerpo del manifiesto. / This is an additive navigation block. It does not replace or summarise the manifesto body.
 
 <!-- NEO_MANIFESTO_NAV_END -->

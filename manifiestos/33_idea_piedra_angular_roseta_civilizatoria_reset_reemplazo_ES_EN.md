@@ -791,7 +791,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 ## Navegación canónica / Canonical navigation
 
 ← **XXXII** · [Reversión Ideológica Neodialéctica™ / Neodialectical Ideological Reversal™](32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md)  
-· [Índice I–LIX / I–LIX index](README.md) ·  
+· [Índice I–LIX / I–LIX index](README.md) · [Síntesis Abierta / Open Synthesis](../propuestas/sintesis-abierta/README.md) · [Neoaxiomas™](../neoaxiomas/README.md) ·  
 **XXXIV** · [Utilidad Operativa y Auditoría Conjunta Perpetua™](34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) →
+
+> Este bloque es navegación aditiva. No sustituye ni resume el cuerpo del manifiesto. / This is an additive navigation block. It does not replace or summarise the manifesto body.
 
 <!-- NEO_MANIFESTO_NAV_END -->

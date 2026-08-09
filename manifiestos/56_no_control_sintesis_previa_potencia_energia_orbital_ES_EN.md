@@ -605,7 +605,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 ## Navegación canónica / Canonical navigation
 
 ← **LV** · [Ataque de las Micromáquinas™ / Attack of the Micromachines™](55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md)  
-· [Índice I–LIX / I–LIX index](README.md) ·  
+· [Índice I–LIX / I–LIX index](README.md) · [Síntesis Abierta / Open Synthesis](../propuestas/sintesis-abierta/README.md) · [Neoaxiomas™](../neoaxiomas/README.md) ·  
 **LVII** · [Madre, Refugio y Retorno Consciente™ / Mother, Refuge and Conscious Return™](57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md) →
+
+> Este bloque es navegación aditiva. No sustituye ni resume el cuerpo del manifiesto. / This is an additive navigation block. It does not replace or summarise the manifesto body.
 
 <!-- NEO_MANIFESTO_NAV_END -->

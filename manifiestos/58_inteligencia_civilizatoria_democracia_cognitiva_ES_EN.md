@@ -266,3 +266,15 @@ Contributions are requested on metrics of civilisational intelligence, education
 > Este bloque añade navegación y relaciones; no sustituye, resume ni reduce el cuerpo del manifiesto. / This block adds navigation and relations; it does not replace, summarise or reduce the manifesto body.
 
 <!-- NEO_RELATIONAL_FOOTER_END -->
+
+<!-- NEO_MANIFESTO_NAV_START -->
+
+## Navegación canónica / Canonical navigation
+
+← **LVII** · [Madre, Refugio y Retorno Consciente™ / Mother, Refuge and Conscious Return™](57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md)  
+· [Índice I–LIX / I–LIX index](README.md) · [Síntesis Abierta / Open Synthesis](../propuestas/sintesis-abierta/README.md) · [Neoaxiomas™](../neoaxiomas/README.md) ·  
+**LIX** · [Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana / Distributed Cognitive Custodianship™ · AI, Repair and Human Responsibility](59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md) →
+
+> Este bloque es navegación aditiva. No sustituye ni resume el cuerpo del manifiesto. / This is an additive navigation block. It does not replace or summarise the manifesto body.
+
+<!-- NEO_MANIFESTO_NAV_END -->

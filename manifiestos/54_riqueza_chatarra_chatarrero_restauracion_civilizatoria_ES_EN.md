@@ -840,7 +840,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 ## Navegación canónica / Canonical navigation
 
 ← **LIII** · [Leónidas™ · Defensor de la Síntesis y Auditoría Abierta](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)  
-· [Índice I–LIX / I–LIX index](README.md) ·  
+· [Índice I–LIX / I–LIX index](README.md) · [Síntesis Abierta / Open Synthesis](../propuestas/sintesis-abierta/README.md) · [Neoaxiomas™](../neoaxiomas/README.md) ·  
 **LV** · [Ataque de las Micromáquinas™ / Attack of the Micromachines™](55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md) →
+
+> Este bloque es navegación aditiva. No sustituye ni resume el cuerpo del manifiesto. / This is an additive navigation block. It does not replace or summarise the manifesto body.
 
 <!-- NEO_MANIFESTO_NAV_END -->

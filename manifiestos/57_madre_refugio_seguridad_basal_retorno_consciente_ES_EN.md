@@ -214,3 +214,15 @@ Contributions are requested on basal security, care, autonomy, motherhood as arc
 > Este bloque añade navegación y relaciones; no sustituye, resume ni reduce el cuerpo del manifiesto. / This block adds navigation and relations; it does not replace, summarise or reduce the manifesto body.
 
 <!-- NEO_RELATIONAL_FOOTER_END -->
+
+<!-- NEO_MANIFESTO_NAV_START -->
+
+## Navegación canónica / Canonical navigation
+
+← **LVI** · [NO-CONTROL™ · Síntesis Previa a la Potencia / Synthesis Before Power](56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md)  
+· [Índice I–LIX / I–LIX index](README.md) · [Síntesis Abierta / Open Synthesis](../propuestas/sintesis-abierta/README.md) · [Neoaxiomas™](../neoaxiomas/README.md) ·  
+**LVIII** · [Inteligencia Civilizatoria™ · Democracia Cognitiva y Deber de Síntesis / Civilisational Intelligence™ · Cognitive Democracy and Duty of Synthesis](58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md) →
+
+> Este bloque es navegación aditiva. No sustituye ni resume el cuerpo del manifiesto. / This is an additive navigation block. It does not replace or summarise the manifesto body.
+
+<!-- NEO_MANIFESTO_NAV_END -->
