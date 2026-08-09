@@ -12,10 +12,10 @@
 > **LIII · Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas**  
 > **LIII · Leónidas™ · Defender of Synthesis, Open Audit and the Right to Bring Problems**
 >
-> Leónidas™ abre la puerta para que cualquier persona pueda aportar pruebas a auditorías existentes o proponer nuevos problemas y auditorías externas, siempre bajo trazabilidad, contradicción, privacidad y separación estricta entre hechos e hipótesis. / Leónidas™ opens the gate for anyone to contribute evidence to existing audits or propose new external problems and audits under traceability, contradiction, privacy and strict separation between facts and hypotheses.
+> Leónidas™ abre la puerta para aportar pruebas a auditorías existentes o proponer nuevos problemas y auditorías externas bajo trazabilidad, contradicción y separación entre hechos e hipótesis. / Leónidas™ opens the gate for evidence contributions to existing audits or new external problems and audits under traceability, contradiction and separation between facts and hypotheses.
 >
-> **[Leer LIII / Read LIII](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Síntesis Abierta LIII · Issue #69 / Open Synthesis LIII · Issue #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)**  
-> [Protocolo Leónidas™](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas](../auditorias/publicas/README.md) · [Issues de auditorías](../auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md)
+> **[Leer manifiesto LIII / Read manifesto LIII](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Participar en la Síntesis Abierta LIII · Issue #69 / Join Open Synthesis LIII · Issue #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)**  
+> [Cómo aportar / How to contribute](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Índice de Síntesis Abierta / Open Synthesis index](../propuestas/sintesis-abierta/README.md) · [Auditorías públicas / Public audits](../auditorias/publicas/README.md) · [53 manifiestos I–LIII / 53 manifestos I–LIII](README.md)
 
 <!-- NEO_LATEST_MANIFESTO_END -->
 

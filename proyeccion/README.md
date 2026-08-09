@@ -1,4 +1,19 @@
 # Proyección y difusión trazable
+
+<!-- NEO_LATEST_MANIFESTO_START -->
+
+> ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
+>
+> **LIII · Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas**  
+> **LIII · Leónidas™ · Defender of Synthesis, Open Audit and the Right to Bring Problems**
+>
+> Leónidas™ abre la puerta para aportar pruebas a auditorías existentes o proponer nuevos problemas y auditorías externas bajo trazabilidad, contradicción y separación entre hechos e hipótesis. / Leónidas™ opens the gate for evidence contributions to existing audits or new external problems and audits under traceability, contradiction and separation between facts and hypotheses.
+>
+> **[Leer manifiesto LIII / Read manifesto LIII](../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Participar en la Síntesis Abierta LIII · Issue #69 / Join Open Synthesis LIII · Issue #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)**  
+> [Cómo aportar / How to contribute](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Índice de Síntesis Abierta / Open Synthesis index](../propuestas/sintesis-abierta/README.md) · [Auditorías públicas / Public audits](../auditorias/publicas/README.md) · [53 manifiestos I–LIII / 53 manifestos I–LIII](../manifiestos/README.md)
+
+<!-- NEO_LATEST_MANIFESTO_END -->
+
 # Traceable projection and outreach
 
 Este directorio documenta cómo Innova_N proyecta el marco fuera de su fuente viva sin confundir **difusión** con simple marketing. Cuando el trabajo busca crítica, evidencia, participantes, implementación, contraste o apertura de nodos, se registra como **trabajo de construcción del Bien Común**.
