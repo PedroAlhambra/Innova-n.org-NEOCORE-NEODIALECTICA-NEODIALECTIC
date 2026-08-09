@@ -1,16 +1,16 @@
 name: One-shot · NEOCore 7.1 + Neoaxiomas en todos los README
 
 on:
-  issues:
-    types: [opened]
+  push:
+    branches: [main]
+    paths:
+      - '.github/triggers/neocore-71-readmes.trigger'
 
 permissions:
   contents: write
-  issues: write
 
 jobs:
   sync-readmes:
-    if: github.event.issue.title == 'RUN NEOCORE 7.1 README SYNC'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -48,11 +48,11 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
               text = p.read_text(encoding='utf-8')
               old = text
 
-              # La identidad vigente en superficies README/LEEME pasa de 7.0 a 7.1.
               text = re.sub(r'NEOCore™\s+v?7\.0', lambda m: m.group(0).replace('7.0','7.1'), text)
               text = re.sub(r'NEOCore\s+v?7\.0', lambda m: m.group(0).replace('7.0','7.1'), text)
+              text = re.sub(r'NEOCore™\s+7\.x', 'NEOCore™ 7.1', text)
+              text = re.sub(r'NEOCore\s+7\.x', 'NEOCore 7.1', text)
 
-              # Bloque global idempotente: se actualiza si existe y se añade si falta.
               if marker in text and marker_end in text:
                   text = re.sub(re.escape(marker)+r'.*?'+re.escape(marker_end), block, text, count=1, flags=re.S)
               else:
@@ -69,16 +69,15 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
           for p in changed:
               print('MODIFICADO', p)
 
-          # Postcheck fuerte: todos los README/LEEME deben declarar 7.1 y enlazar Neoaxiomas.
           failures = []
           for p in sorted(targets):
               text = p.read_text(encoding='utf-8')
-              if marker not in text or marker_end not in text:
-                  failures.append(f'{p}: falta bloque Neoaxiomas')
+              if text.count(marker) != 1 or text.count(marker_end) != 1:
+                  failures.append(f'{p}: bloque Neoaxiomas ausente o duplicado')
               if 'NEOCore™ 7.1' not in text:
                   failures.append(f'{p}: falta declaración NEOCore™ 7.1')
-              if re.search(r'NEOCore(?:™)?\s+v?7\.0', text):
-                  failures.append(f'{p}: queda referencia vigente NEOCore 7.0')
+              if re.search(r'NEOCore(?:™)?\s+(?:v?7\.0|7\.x)', text):
+                  failures.append(f'{p}: queda referencia de versión anterior')
 
           if failures:
               print('POSTCHECK FAIL')
@@ -95,23 +94,11 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
           set -euo pipefail
           if git diff --quiet; then
             echo 'No hay cambios pendientes.'
-          else
-            git config user.name 'NEOCore GitHub Action'
-            git config user.email 'actions@users.noreply.github.com'
-            git add -A
-            git commit -m 'docs: sincronizar NEOCore 7.1 y Neoaxiomas en todos los README'
-            git pull --rebase origin main
-            git push origin main
+            exit 0
           fi
-
-      - name: Cerrar issue disparador
-        uses: actions/github-script@v7
-        with:
-          script: |
-            await github.rest.issues.update({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.issue.number,
-              state: 'closed',
-              state_reason: 'completed'
-            })
+          git config user.name 'NEOCore GitHub Action'
+          git config user.email 'actions@users.noreply.github.com'
+          git add -A
+          git commit -m 'docs: sincronizar NEOCore 7.1 y Neoaxiomas en todos los README'
+          git pull --rebase origin main
+          git push origin main
