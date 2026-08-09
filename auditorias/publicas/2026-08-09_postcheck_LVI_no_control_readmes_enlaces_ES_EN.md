@@ -5,12 +5,12 @@
 
 ## ES · Resultado
 
-- Archivos Markdown revisados: **219**.
+- Archivos Markdown revisados: **224**.
 - README/LEEME revisados: **16**.
-- Enlaces internos de ruta comprobados: **4983**.
+- Enlaces internos de ruta comprobados: **5501**.
 - Alias internos de GitHub Wiki reconocidos: **11**.
-- Enlaces externos inventariados sin comprobar disponibilidad remota: **998**.
-- Enlaces sólo a ancla detectados: **232**.
+- Enlaces externos inventariados sin comprobar disponibilidad remota: **1195**.
+- Enlaces sólo a ancla detectados: **234**.
 - Bloques de último manifiesto encontrados en README/LEEME: **11**.
 - Manifiestos canónicos detectados: **0 · I–?**.
 - Enlaces internos rotos detectados: **0**.
@@ -35,9 +35,9 @@
 
 ## EN · Result
 
-- Markdown files reviewed: **219**.
+- Markdown files reviewed: **224**.
 - README/LEEME files reviewed: **16**.
-- Internal path links checked: **4983**.
+- Internal path links checked: **5501**.
 - GitHub Wiki extensionless page aliases recognised: **11**.
 - Broken internal links found: **0**.
 - Canonical critical failures: **3**.
