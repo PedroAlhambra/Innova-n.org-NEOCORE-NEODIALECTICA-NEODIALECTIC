@@ -1,4 +1,4 @@
-name: One-shot · Neoaxiomas en todos los README
+name: One-shot · NEOCore 7.1 + Neoaxiomas en todos los README
 
 on:
   issues:
@@ -10,66 +10,99 @@ permissions:
 
 jobs:
   sync-readmes:
-    if: github.event.issue.title == 'RUN NEOAXIOMAS README SYNC'
+    if: github.event.issue.title == 'RUN NEOCORE 7.1 README SYNC'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Añadir bloque Neoaxiomas a todos los README
+      - name: Sincronizar versión 7.1 y bloque Neoaxiomas
         shell: bash
         run: |
           python3 - <<'PY'
           from pathlib import Path
+          import re
 
           marker = '<!-- NEOAXIOMAS_GLOBAL_LINK_START -->'
-          block = '''\n\n<!-- NEOAXIOMAS_GLOBAL_LINK_START -->
+          marker_end = '<!-- NEOAXIOMAS_GLOBAL_LINK_END -->'
+          block = '''<!-- NEOAXIOMAS_GLOBAL_LINK_START -->
 ---
 
-## Neoaxiomas™ · Capa Axiomática abierta / Neoaxioms™ · Open Axiomatic Layer
+## NEOCore™ 7.1 · Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™
+## NEOCore™ 7.1 · First Fractal Multihead Layer™ + Neoaxiomatic Layer™
 
 Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin convertirlos en dogmas: permanecen abiertos a contraste, evidencia, crítica y revisión mediante **Síntesis Abierta Neodialéctica™ — SAN™**. / **Neoaxioms™** express high-stability principles of NEOCore™ without turning them into dogma: they remain open to challenge, evidence, criticism and revision through **Neodialectical Open Synthesis™ — SAN™**.
 
 **[Abrir Neoaxiomas™ / Open Neoaxioms™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/neoaxiomas/README.md)** · **[Síntesis Abierta Neoaxiomas™ / Neoaxioms Open Synthesis](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)** · **[Protocolo / Protocol](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md)**
 
-<!-- NEOAXIOMAS_GLOBAL_LINK_END -->
-'''
+<!-- NEOAXIOMAS_GLOBAL_LINK_END -->'''
+
+          targets = {p for p in Path('.').rglob('README*.md') if '.git' not in p.parts}
+          leeme = Path('LEEME.md')
+          if leeme.exists():
+              targets.add(leeme)
 
           changed = []
-          skipped = []
-          for p in sorted(Path('.').rglob('README.md')):
-              if '.git' in p.parts:
-                  continue
+          for p in sorted(targets):
               text = p.read_text(encoding='utf-8')
-              if marker in text:
-                  skipped.append(str(p))
-                  continue
-              if not text.endswith('\n'):
-                  text += '\n'
-              p.write_text(text + block, encoding='utf-8')
-              changed.append(str(p))
+              old = text
 
-          print('READMES_MODIFICADOS=', len(changed))
+              # La identidad vigente en superficies README/LEEME pasa de 7.0 a 7.1.
+              text = re.sub(r'NEOCore™\s+v?7\.0', lambda m: m.group(0).replace('7.0','7.1'), text)
+              text = re.sub(r'NEOCore\s+v?7\.0', lambda m: m.group(0).replace('7.0','7.1'), text)
+
+              # Bloque global idempotente: se actualiza si existe y se añade si falta.
+              if marker in text and marker_end in text:
+                  text = re.sub(re.escape(marker)+r'.*?'+re.escape(marker_end), block, text, count=1, flags=re.S)
+              else:
+                  if not text.endswith('\n'):
+                      text += '\n'
+                  text += '\n\n' + block + '\n'
+
+              if text != old:
+                  p.write_text(text, encoding='utf-8')
+                  changed.append(str(p))
+
+          print('TARGETS=', len(targets))
+          print('CHANGED=', len(changed))
           for p in changed:
               print('MODIFICADO', p)
-          print('READMES_YA_ENLAZADOS=', len(skipped))
-          for p in skipped:
-              print('YA_PRESENTE', p)
+
+          # Postcheck fuerte: todos los README/LEEME deben declarar 7.1 y enlazar Neoaxiomas.
+          failures = []
+          for p in sorted(targets):
+              text = p.read_text(encoding='utf-8')
+              if marker not in text or marker_end not in text:
+                  failures.append(f'{p}: falta bloque Neoaxiomas')
+              if 'NEOCore™ 7.1' not in text:
+                  failures.append(f'{p}: falta declaración NEOCore™ 7.1')
+              if re.search(r'NEOCore(?:™)?\s+v?7\.0', text):
+                  failures.append(f'{p}: queda referencia vigente NEOCore 7.0')
+
+          if failures:
+              print('POSTCHECK FAIL')
+              for f in failures:
+                  print(f)
+              raise SystemExit(1)
+
+          print('POSTCHECK OK: todas las superficies README/LEEME declaran NEOCore 7.1 y enlazan Neoaxiomas')
           PY
 
       - name: Commit de sincronización
         shell: bash
         run: |
+          set -euo pipefail
           if git diff --quiet; then
             echo 'No hay cambios pendientes.'
-            exit 0
+          else
+            git config user.name 'NEOCore GitHub Action'
+            git config user.email 'actions@users.noreply.github.com'
+            git add -A
+            git commit -m 'docs: sincronizar NEOCore 7.1 y Neoaxiomas en todos los README'
+            git pull --rebase origin main
+            git push origin main
           fi
-          git config user.name 'NEOCore GitHub Action'
-          git config user.email 'actions@users.noreply.github.com'
-          git add -A
-          git commit -m 'docs: enlazar Neoaxiomas y Síntesis Abierta en todos los README'
-          git push
 
       - name: Cerrar issue disparador
         uses: actions/github-script@v7
