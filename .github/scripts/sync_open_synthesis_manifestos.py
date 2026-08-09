@@ -10,14 +10,14 @@ protocol = root / 'propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md'
 synth_index = root / 'propuestas/sintesis-abierta/README.md'
 audits = root / 'auditorias/publicas/README.md'
 leonidas = root / 'propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md'
-latest_path = mdir / '55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md'
-issue74 = 'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/74'
+latest_path = mdir / '56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md'
+issue76 = 'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/76'
 
-# Bootstrap LV into the canonical index if this is the first LV run.
+# Bootstrap LVI into the canonical index if this is the first LVI run.
 idx = index.read_text(encoding='utf-8')
 if latest_path.name not in idx:
     marker = '\n</details>\n'
-    row = f'\n- **LV** · [Ataque de las Micromáquinas™ · Las Plagas de la Escala Invisible / Attack of the Micromachines™ · The Plagues of the Invisible Scale]({latest_path.name}) · [Síntesis #74]({issue74})\n'
+    row = f'\n- **LVI** · [NO-CONTROL™ · Síntesis Previa a la Potencia / NO-CONTROL™ · Synthesis Before Power]({latest_path.name}) · [Síntesis #76]({issue76})\n'
     start = idx.find('<!-- NEO_ALL_MANIFESTOS_START -->')
     end = idx.find('<!-- NEO_ALL_MANIFESTOS_END -->')
     if start < 0 or end < 0:
@@ -28,28 +28,34 @@ if latest_path.name not in idx:
     idx = idx[:pos] + row + idx[pos:]
 
 for a,b in [
-    ('54 manifiestos bilingües · I–LIV · 21 oleadas','55 manifiestos bilingües · I–LV · 22 oleadas'),
-    ('54 bilingual manifestos · I–LIV · 21 waves','55 bilingual manifestos · I–LV · 22 waves'),
-    ('I–LIV · 54 manifiestos bilingües / 54 bilingual manifestos','I–LV · 55 manifiestos bilingües / 55 bilingual manifestos'),
-    ('I–LIV · 54 manifiestos / 54 manifestos','I–LV · 55 manifiestos / 55 manifestos'),
-    ('54 manifiestos I–LIV','55 manifiestos I–LV'),
-    ('54 manifestos I–LIV','55 manifestos I–LV')]:
+    ('55 manifiestos bilingües · I–LV · 22 oleadas','56 manifiestos bilingües · I–LVI · 23 oleadas'),
+    ('55 bilingual manifestos · I–LV · 22 waves','56 bilingual manifestos · I–LVI · 23 waves'),
+    ('I–LV · 55 manifiestos bilingües / 55 bilingual manifestos','I–LVI · 56 manifiestos bilingües / 56 bilingual manifestos'),
+    ('I–LV · 55 manifiestos / 55 manifestos','I–LVI · 56 manifiestos / 56 manifestos'),
+    ('55 manifiestos I–LV','56 manifiestos I–LVI'),
+    ('55 manifestos I–LV','56 manifestos I–LVI')]:
     idx = idx.replace(a,b)
 index.write_text(idx,encoding='utf-8')
 
-# Bootstrap LV into Open Synthesis index/table if absent.
+# Bootstrap LVI into Open Synthesis index/table and repair stale coverage labels.
 ss = synth_index.read_text(encoding='utf-8')
-ss = ss.replace('54 manifiestos · I–LIV / 54 manifestos · I–LIV','55 manifiestos · I–LV / 55 manifestos · I–LV')
-ss = ss.replace('Índice canónico de Síntesis Abierta · I–LIV','Índice canónico de Síntesis Abierta · I–LV')
+for a,b in [
+    ('55 manifiestos · I–LV / 55 manifestos · I–LV','56 manifiestos · I–LVI / 56 manifestos · I–LVI'),
+    ('Índice canónico · I–LIV','Índice canónico · I–LVI'),
+    ('Índice canónico · I–LV','Índice canónico · I–LVI'),
+    ('Índice canónico de Síntesis Abierta · I–LV','Índice canónico de Síntesis Abierta · I–LVI'),
+    ('Open Synthesis currently covers **54 bilingual manifestos I–LIV**','Open Synthesis currently covers **56 bilingual manifestos I–LVI**'),
+    ('Open Synthesis currently covers **55 bilingual manifestos I–LV**','Open Synthesis currently covers **56 bilingual manifestos I–LVI**')]:
+    ss = ss.replace(a,b)
 if latest_path.name not in ss:
-    liv_line = None
+    lv_line = None
     lines = ss.splitlines()
     for i,line in enumerate(lines):
-        if '| **LIV**' in line or ('54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md' in line and line.lstrip().startswith('|')):
-            liv_line = i
-    lv_row = f'| **LV** | **[Ataque de las Micromáquinas™ · Plagas de la Escala Invisible](../../manifiestos/{latest_path.name})** | **[#74]({issue74})** |'
-    if liv_line is not None:
-        lines.insert(liv_line+1,lv_row)
+        if '| **LV**' in line or ('55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md' in line and line.lstrip().startswith('|')):
+            lv_line = i
+    lvi_row = f'| **LVI** | **[NO-CONTROL™ · Síntesis Previa a la Potencia](../../manifiestos/{latest_path.name})** | **[#76]({issue76})** |'
+    if lv_line is not None:
+        lines.insert(lv_line+1,lvi_row)
         ss='\n'.join(lines)+'\n'
 synth_index.write_text(ss,encoding='utf-8')
 
@@ -62,7 +68,7 @@ for roman,title,href in re.findall(r'- \*\*([IVXLCDM]+)\*\* · \[([^\]]+)\]\(([^
     if p in seen: continue
     if not p.exists(): raise SystemExit(f'Missing canonical manifesto: {href}')
     seen.add(p); links.append((roman,title.strip(),p))
-if len(links)!=55 or links[0][0]!='I' or links[-1][0]!='LV':
+if len(links)!=56 or links[0][0]!='I' or links[-1][0]!='LVI':
     raise SystemExit(f'Canonical manifesto set invalid: {len(links)} {links[-1][0] if links else None}')
 
 LATEST=links[-1][2]
@@ -84,20 +90,20 @@ def latest_block(f):
 
 > ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LV · Ataque de las Micromáquinas™ · Las Plagas de la Escala Invisible**  
-> **LV · Attack of the Micromachines™ · The Plagues of the Invisible Scale**
+> **LVI · NO-CONTROL™ · Síntesis Previa a la Potencia**  
+> **LVI · NO-CONTROL™ · Synthesis Before Power**
 >
-> El marco separa microagentes reales, micro/nanorrobótica experimental y la hipótesis mucho más fuerte de un ataque intencional. Propone defensa antes de escala: detección, apagado, degradación, retirada, trazabilidad y responsabilidad. / The framework separates real micro-agents, experimental micro/nanorobotics and the much stronger hypothesis of intentional attack. It proposes defence before scale: detection, shutdown, degradation, removal, traceability and accountability.
+> Distingue perturbación funcional de ataque intencional y riesgo de doble uso de acusación. Fija que la potencia tecnológica no debe crecer por delante de la capacidad colectiva de comprenderla, limitarla, auditarla y detenerla. / It separates functional disruption from intentional attack and dual-use risk from accusation. Technological power should not outrun the collective capacity to understand, limit, audit and stop it.
 >
-> **[Leer LV / Read LV]({rel(f,LATEST)}) · [Síntesis Abierta LV · #74 / Open Synthesis LV · #74]({issue74})**  
-> [Cómo aportar]({rel(f,protocol)}) · [Leónidas™ · auditorías externas]({rel(f,leonidas)}) · [Auditorías públicas]({rel(f,audits)}) · [55 manifiestos I–LV]({rel(f,index)})
+> **[Leer LVI / Read LVI]({rel(f,LATEST)}) · [Síntesis Abierta LVI · #76 / Open Synthesis LVI · #76]({issue76})**  
+> [Cómo aportar]({rel(f,protocol)}) · [Leónidas™ · auditorías externas]({rel(f,leonidas)}) · [Auditorías públicas]({rel(f,audits)}) · [56 manifiestos I–LVI]({rel(f,index)})
 
 {LATEST_END}'''
 
 def current_block(f):
     return f'''{CURRENT_START}
 
-**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LV · 55 manifiestos bilingües / 55 bilingual manifestos** · [índice canónico / canonical index]({rel(f,index)})
+**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LVI · 56 manifiestos bilingües / 56 bilingual manifestos** · [índice canónico / canonical index]({rel(f,index)})
 
 {CURRENT_END}'''
 
@@ -107,11 +113,11 @@ def network_block(f):
 
 ## Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™
 
-**Estado canónico / Canonical state:** **55 manifiestos bilingües · I–LV · 22 oleadas / 55 bilingual manifestos · I–LV · 22 waves**  
+**Estado canónico / Canonical state:** **56 manifiestos bilingües · I–LVI · 23 oleadas / 56 bilingual manifestos · I–LVI · 23 waves**  
 **Índice canónico / Canonical index:** [{rel(f,index)}]({rel(f,index)})
 
 <details>
-<summary><strong>I–LV · 55 manifiestos / 55 manifestos</strong></summary>
+<summary><strong>I–LVI · 56 manifiestos / 56 manifestos</strong></summary>
 
 {body}
 
@@ -128,7 +134,7 @@ def invite_block(f):
 
 Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. Con **Leónidas™** también puedes aportar pruebas a una Auditoría Pública existente o proponer una nueva auditoría trazable.
 
-**Última síntesis:** [LV · Micromáquinas™]({rel(f,LATEST)}) · [Issue #74]({issue74})  
+**Última síntesis:** [LVI · NO-CONTROL™ y Síntesis Previa a la Potencia]({rel(f,LATEST)}) · [Issue #76]({issue76})  
 **Auditorías y problemas externos:** [LIII · Leónidas™]({rel(f,links[52][2])}) · [protocolo Leónidas™]({rel(f,leonidas)})  
 **Cómo aportar:** [protocolo general]({rel(f,protocol)}) · [portal de auditorías]({rel(f,audits)}) · [índice]({rel(f,synth_index)})
 
@@ -143,7 +149,7 @@ def nav_block(i,f):
 ## Navegación canónica / Canonical navigation
 
 {a}  
-· [Índice I–LV / I–LV index]({rel(f,index)}) ·  
+· [Índice I–LVI / I–LVI index]({rel(f,index)}) ·  
 {b}
 
 {NAV_END}'''
@@ -157,7 +163,14 @@ for f in readmes:
     s=replace_block(s,CURRENT_START,CURRENT_END,current_block(f))
     if NETWORK_START in s and NETWORK_END in s and f.resolve()!=index.resolve(): s=replace_block(s,NETWORK_START,NETWORK_END,network_block(f))
     if INVITE_START in s and INVITE_END in s: s=replace_block(s,INVITE_START,INVITE_END,invite_block(f))
-    for a,b in [('54 manifiestos bilingües · I–LIV · 21 oleadas','55 manifiestos bilingües · I–LV · 22 oleadas'),('54 bilingual manifestos · I–LIV · 21 waves','55 bilingual manifestos · I–LV · 22 waves'),('I–LIV · 54 manifiestos bilingües','I–LV · 55 manifiestos bilingües'),('I–LIV · 54 bilingual manifestos','I–LV · 55 bilingual manifestos')]: s=s.replace(a,b)
+    for a,b in [
+        ('55 manifiestos bilingües · I–LV · 22 oleadas','56 manifiestos bilingües · I–LVI · 23 oleadas'),
+        ('55 bilingual manifestos · I–LV · 22 waves','56 bilingual manifestos · I–LVI · 23 waves'),
+        ('I–LV · 55 manifiestos bilingües','I–LVI · 56 manifiestos bilingües'),
+        ('I–LV · 55 bilingual manifestos','I–LVI · 56 bilingual manifestos'),
+        ('55 manifiestos I–LV','56 manifiestos I–LVI'),
+        ('55 manifestos I–LV','56 manifestos I–LVI')]:
+        s=s.replace(a,b)
     if s!=old: f.write_text(s,encoding='utf-8'); changed.append(f)
 
 for i,(roman,title,f) in enumerate(links):
@@ -171,19 +184,19 @@ for f in readmes:
     s=f.read_text(encoding='utf-8')
     if CURRENT_START in s:
         blk=re.search(re.escape(CURRENT_START)+r'(.*?)'+re.escape(CURRENT_END),s,re.S).group(1)
-        if '55 manifiestos bilingües / 55 bilingual manifestos' not in blk: fail.append(f'{f.relative_to(root)} current')
+        if '56 manifiestos bilingües / 56 bilingual manifestos' not in blk: fail.append(f'{f.relative_to(root)} current')
     if NETWORK_START in s:
         blk=re.search(re.escape(NETWORK_START)+r'(.*?)'+re.escape(NETWORK_END),s,re.S).group(1)
-        if 'I–LV · 55 manifiestos / 55 manifestos' not in blk: fail.append(f'{f.relative_to(root)} network')
+        if 'I–LVI · 56 manifiestos / 56 manifestos' not in blk: fail.append(f'{f.relative_to(root)} network')
 for i,(roman,title,f) in enumerate(links):
     s=f.read_text(encoding='utf-8')
     nav=re.search(re.escape(NAV_START)+r'(.*?)'+re.escape(NAV_END),s,re.S)
-    if not nav or 'I–LV' not in nav.group(1): fail.append(f'{f.relative_to(root)} nav')
+    if not nav or 'I–LVI' not in nav.group(1): fail.append(f'{f.relative_to(root)} nav')
     elif i+1<len(links) and rel(f,links[i+1][2]) not in nav.group(1): fail.append(f'{f.relative_to(root)} next')
 
-print('CANONICAL_MANIFESTOS=55')
+print('CANONICAL_MANIFESTOS=56')
 print('README_LEEME_TARGETS=',len(readmes))
 print('FILES_CHANGED=',len(set(changed)))
 if fail:
     print('POSTCHECK FAIL'); print('\n'.join(fail)); sys.exit(1)
-print('POSTCHECK OK: I-LV/55/22 waves synchronized; LV #74 latest; Leónidas audit gateway preserved')
+print('POSTCHECK OK: I-LVI/56/23 waves synchronized; LVI #76 latest; Leónidas audit gateway preserved')
