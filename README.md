@@ -44,7 +44,7 @@ El marco integra filosofía, memoria, inteligencia artificial, trazabilidad, sí
 |---|---|
 | **Filosofía y marco** | [Filosofía Neodialéctica · Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Philosophy_Neodialectic) · [Portada civilizatoria](./PORTADA.md) |
 | **Manifiestos** | **[I–LIX · 59 manifiestos bilingües](./manifiestos/README.md)** |
-| **Síntesis Abierta™** | [Índice operativo](./propuestas/sintesis-abierta/README.md) · [Cómo aportar](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) |
+| **Síntesis Abierta™** | [Índice operativo](./propuestas/sintesis-abierta/README.md) · [Cómo aportar](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Registrar entrada](./propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Seguir marco](./proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) |
 | **Leónidas™ y auditoría abierta** | [Protocolo Leónidas™](./propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas](./auditorias/publicas/README.md) |
 | **Análisis públicos** | [Directorio](./analisis/README.md) · [Índice general](./analisis/INDEX.md) · [Serie pública](./analisis/publicos/README.md) |
 | **Obras** | [Ecosistema creativo](./obras/README.md) · [IDEA](./obras/idea/README.md) |
@@ -142,7 +142,7 @@ The framework integrates philosophy, memory, artificial intelligence, traceabili
 |---|---|
 | **Philosophy and framework** | [Neodialectical Philosophy · Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Philosophy_Neodialectic) · [Civilisational cover](./PORTADA.md) |
 | **Manifestos** | **[I–LIX · 59 bilingual manifestos](./manifiestos/README.md)** |
-| **Open Synthesis™** | [Operational index](./propuestas/sintesis-abierta/README.md) · [How to contribute](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) |
+| **Open Synthesis™** | [Operational index](./propuestas/sintesis-abierta/README.md) · [How to contribute](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Register entry](./propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Follow framework](./proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) |
 | **Leónidas™ and open audit** | [Leónidas™ protocol](./propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Public audits](./auditorias/publicas/README.md) |
 | **Public analyses** | [Directory](./analisis/README.md) · [General index](./analisis/INDEX.md) · [Public series](./analisis/publicos/README.md) |
 | **Works** | [Creative ecosystem](./obras/README.md) · [IDEA](./obras/idea/README.md) |

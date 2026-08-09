@@ -16,19 +16,29 @@
 
 > El número de manifiestos no constituye un cierre de canon: registra el estado del corpus en este commit. / The manifesto count is not a closed canon: it records the corpus state at this commit.
 
-## Tres puertas públicas de participación / Three public participation routes
+## Cuatro puertas públicas de participación / Four public participation routes
 
-### 1. Contrastar un manifiesto / Challenge a manifesto
+<!-- NEO_ENTRY_REGISTER_ROUTE_START -->
+
+### 1. Registrar entrada / Register entry
+
+La lectura pública no exige identificación. Si quieres dejar una relación trazable de lectura, investigación, crítica, implementación, contacto institucional o derivación, utiliza el **Registro de Entrada Trazable™**. / Public reading does not require identification. If you want a traceable relationship for reading, research, criticism, implementation, institutional contact or derivation, use the **Traceable Entry Register™**.
+
+[Protocolo / Protocol](REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Abrir registro / Open register](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/new?template=registro_entrada_derivacion.yml) · [Seguir el marco / Follow the framework](../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md)
+
+<!-- NEO_ENTRY_REGISTER_ROUTE_END -->
+
+### 2. Contrastar un manifiesto / Challenge a manifesto
 
 Aporta crítica, objeción, contraejemplo, fuente, experiencia, implementación, corrección o delta en su Issue asociado. / Contribute criticism, objection, counterexample, source, experience, implementation, correction or delta in its associated Issue.
 
-### 2. Traer un problema o Auditoría Pública / Bring a problem or Public Audit
+### 3. Traer un problema o Auditoría Pública / Bring a problem or Public Audit
 
 [LIII · Leónidas™](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) abre problemas externos y auditorías propuestas por terceros. / opens external problems and audits proposed by third parties.
 
 [Protocolo Leónidas™](./LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Portal de Auditorías Públicas](../../auditorias/publicas/README.md) · [Plantilla de auditoría](../../.github/ISSUE_TEMPLATE/auditoria_publica_aporte.yml)
 
-### 3. Crear ficción abierta / Create open fiction
+### 4. Crear ficción abierta / Create open fiction
 
 [UMBRAL-X · Apocalipsis de las IAs™ · La Rama Starkdr Perdida](../../obras/umbral-x/README.md) · [Issue #73](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/73)
 
