@@ -581,11 +581,11 @@ Contributions are requested on:
 
 ## Participa en la Síntesis Abierta / Join the Open Synthesis
 
-Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. Con **Leónidas™** también puedes aportar pruebas a una Auditoría Pública existente o proponer una nueva auditoría trazable.
+Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. / You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta.
 
-**Última síntesis:** [LVI · NO-CONTROL™ y Síntesis Previa a la Potencia](56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md) · [Issue #76](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/76)  
-**Auditorías y problemas externos:** [LIII · Leónidas™](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo Leónidas™](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
-**Cómo aportar:** [protocolo general](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías](../auditorias/publicas/README.md) · [índice](../propuestas/sintesis-abierta/README.md)
+**Última síntesis / Latest synthesis:** [LIX · Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana / Distributed Cognitive Custodianship™ · AI, Repair and Human Responsibility](59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md) · [Issue #79](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/79)  
+**Auditorías / Audits:** [LIII · Leónidas™](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo / protocol](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
+**Cómo aportar / How to contribute:** [protocolo general / general protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../auditorias/publicas/README.md) · [índice / index](../propuestas/sintesis-abierta/README.md)
 
 <!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->
 
@@ -593,8 +593,8 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **LV** · [Ataque de las Micromáquinas™ · Las Plagas de la Escala Invisible / Attack of the Micromachines™ · The Plagues of the Invisible Scale](55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md)  
-· [Índice I–LVI / I–LVI index](README.md) ·  
-**Fin de la colección / End of collection** →
+← **LV** · [Ataque de las Micromáquinas™ / Attack of the Micromachines™](55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md)  
+· [Índice I–LIX / I–LIX index](README.md) ·  
+**LVII** · [Madre, Refugio y Retorno Consciente™ / Mother, Refuge and Conscious Return™](57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->

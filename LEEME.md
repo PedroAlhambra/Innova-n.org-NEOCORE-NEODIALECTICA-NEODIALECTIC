@@ -1,6 +1,6 @@
 <!-- MANIFESTOS_CURRENT_START -->
 
-**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LVI · 56 manifiestos bilingües / 56 bilingual manifestos** · [índice canónico / canonical index](manifiestos/README.md)
+**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LIX · 59 manifiestos bilingües / 59 bilingual manifestos** · [índice canónico / canonical index](manifiestos/README.md)
 
 <!-- MANIFESTOS_CURRENT_END -->
 
@@ -19,20 +19,17 @@
 
 > ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LVI · NO-CONTROL™ · Síntesis Previa a la Potencia**  
-> **LVI · NO-CONTROL™ · Synthesis Before Power**
+> **LIX · Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana / Distributed Cognitive Custodianship™ · AI, Repair and Human Responsibility**
 >
-> Distingue perturbación funcional de ataque intencional y riesgo de doble uso de acusación. La potencia tecnológica no debe crecer por delante de la capacidad colectiva de comprenderla, limitarla, auditarla y detenerla. / It separates functional disruption from intentional attack and dual-use risk from accusation. Technological power should not outrun the collective capacity to understand, limit, audit and stop it.
->
-> **[Leer LVI / Read LVI](manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md) · [Síntesis Abierta LVI · #76 / Open Synthesis LVI · #76](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/76)**  
-> [Cómo aportar](propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™ · auditorías externas](propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas](auditorias/publicas/README.md) · [56 manifiestos I–LVI](manifiestos/README.md)
+> **[Leer LIX / Read LIX](manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md) · [Síntesis Abierta LIX · #79 / Open Synthesis LIX · #79](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/79)**  
+> [Cómo aportar / How to contribute](propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™](propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas / Public audits](auditorias/publicas/README.md) · [59 manifiestos / manifestos · I–LIX](manifiestos/README.md)
 
 <!-- NEO_LATEST_MANIFESTO_END -->
 <!-- NEO_ALL_MANIFESTOS_START -->
 
 ## Manifiestos / Manifestos
 
-**I–LVI · 56 manifiestos bilingües · 23 oleadas / 56 bilingual manifestos · 23 waves.**  
+**I–LIX · 59 manifiestos bilingües · 24 oleadas / 59 bilingual manifestos · 24 waves.**  
 Los manifiestos son pilares públicos del marco, no equivalentes al marco completo. / The manifestos are public pillars of the framework, not equivalents of the complete framework.
 
 **[Abrir índice canónico y navegable / Open canonical navigable index →](manifiestos/README.md)**
@@ -43,11 +40,11 @@ Los manifiestos son pilares públicos del marco, no equivalentes al marco comple
 
 ## Participa en la Síntesis Abierta / Join the Open Synthesis
 
-Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. Con **Leónidas™** también puedes aportar pruebas a una Auditoría Pública existente o proponer una nueva auditoría trazable.
+Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. / You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta.
 
-**Última síntesis:** [LVI · NO-CONTROL™ y Síntesis Previa a la Potencia](manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md) · [Issue #76](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/76)  
-**Auditorías y problemas externos:** [LIII · Leónidas™](manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo Leónidas™](propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
-**Cómo aportar:** [protocolo general](propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías](auditorias/publicas/README.md) · [índice](propuestas/sintesis-abierta/README.md)
+**Última síntesis / Latest synthesis:** [LIX · Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana / Distributed Cognitive Custodianship™ · AI, Repair and Human Responsibility](manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md) · [Issue #79](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/79)  
+**Auditorías / Audits:** [LIII · Leónidas™](manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo / protocol](propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
+**Cómo aportar / How to contribute:** [protocolo general / general protocol](propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](auditorias/publicas/README.md) · [índice / index](propuestas/sintesis-abierta/README.md)
 
 <!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->
 
