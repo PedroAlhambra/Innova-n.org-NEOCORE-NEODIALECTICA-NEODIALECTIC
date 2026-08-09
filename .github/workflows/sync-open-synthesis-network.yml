@@ -7,6 +7,7 @@ on:
       - '.github/workflows/sync-open-synthesis-network.yml'
       - '.github/scripts/sync_open_synthesis_manifestos.py'
       - '.github/scripts/normalize_manifesto_indices.py'
+      - '.github/scripts/sync_root_navigation.py'
 
 permissions:
   contents: write
@@ -26,6 +27,8 @@ jobs:
         run: python .github/scripts/sync_open_synthesis_manifestos.py
       - name: Normalize canonical indices
         run: python .github/scripts/normalize_manifesto_indices.py
+      - name: Synchronize root navigation
+        run: python .github/scripts/sync_root_navigation.py
       - name: Commit synchronized network if needed
         run: |
           set -euo pipefail
