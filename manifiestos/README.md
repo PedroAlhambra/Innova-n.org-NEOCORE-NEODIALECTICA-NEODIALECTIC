@@ -9,22 +9,22 @@
 
 > ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LIV · Riqueza y Chatarra™ · El Chatarrero™ como arquetipo de restauración civilizatoria**  
-> **LIV · Wealth and Scrap™ · The Scrapworker™ as an archetype of civilisational restoration**
+> **LV · Ataque de las Micromáquinas™ · Las Plagas de la Escala Invisible**  
+> **LV · Attack of the Micromachines™ · The Plagues of the Invisible Scale**
 >
-> Reparación, restauración, reutilización, remanufactura y transformación del residuo pasan del margen a infraestructura civilizatoria. / Repair, restoration, reuse, remanufacturing and transformation of residue move from the margin toward civilisational infrastructure.
+> El marco separa microagentes reales, micro/nanorrobótica experimental y la hipótesis mucho más fuerte de un ataque intencional. Propone defensa antes de escala: detección, apagado, degradación, retirada, trazabilidad y responsabilidad. / The framework separates real micro-agents, experimental micro/nanorobotics and the much stronger hypothesis of intentional attack. It proposes defence before scale: detection, shutdown, degradation, removal, traceability and accountability.
 >
-> **[Leer LIV / Read LIV](54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md) · [Síntesis Abierta LIV · #72](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/72)**  
-> [LIII · Leónidas™ · problemas y auditorías externas](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Auditorías Públicas](../auditorias/publicas/README.md)
+> **[Leer LV / Read LV](55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md) · [Síntesis Abierta LV · #74 / Open Synthesis LV · #74](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/74)**  
+> [Cómo aportar](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™ · auditorías externas](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas](../auditorias/publicas/README.md) · [55 manifiestos I–LV](README.md)
 
 <!-- NEO_LATEST_MANIFESTO_END -->
 
-**Estado canónico / Canonical state:** **54 manifiestos bilingües · I–LIV · 21 oleadas / 54 bilingual manifestos · I–LIV · 21 waves**  
+**Estado canónico / Canonical state:** **55 manifiestos bilingües · I–LV · 22 oleadas / 55 bilingual manifestos · I–LV · 22 waves**  
 **Fecha / Date:** 2026-08-09
 
 <!-- MANIFESTOS_CURRENT_START -->
 
-**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LIV · 54 manifiestos bilingües / 54 bilingual manifestos**.
+**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LV · 55 manifiestos bilingües / 55 bilingual manifestos** · [índice canónico / canonical index](README.md)
 
 <!-- MANIFESTOS_CURRENT_END -->
 
@@ -46,10 +46,10 @@ Cada manifiesto dispone de un espacio público de contraste. El mapa completo es
 
 ## Colección canónica / Canonical collection
 
-**54 manifiestos bilingües · I–LIV · 21 oleadas / 54 bilingual manifestos · I–LIV · 21 waves**
+**55 manifiestos bilingües · I–LV · 22 oleadas / 55 bilingual manifestos · I–LV · 22 waves**
 
 <details open>
-<summary><strong>I–LIV · 54 manifiestos / 54 manifestos</strong></summary>
+<summary><strong>I–LV · 55 manifiestos / 55 manifestos</strong></summary>
 
 - **I** · [Neo0™ · Soberanía de Guía / Guiding Sovereignty](11_neo0_soberania_de_guia_ES_EN.md)
 - **II** · [Síntesis Abierta Neodialéctica™ / Neodialectical Open Synthesis™](01_sintesis_abierta_neodialectica_ES_EN.md)
@@ -106,16 +106,20 @@ Cada manifiesto dispone de un espacio público de contraste. El mapa completo es
 - **LIII** · [Leónidas™ · Defensor de la Síntesis y Auditoría Abierta](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [#69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)
 - **LIV** · [Riqueza y Chatarra™ · El Chatarrero™](54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md) · [#72](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/72)
 
+- **LV** · [Ataque de las Micromáquinas™ · Las Plagas de la Escala Invisible / Attack of the Micromachines™ · The Plagues of the Invisible Scale](55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md) · [Síntesis #74](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/74)
+
 </details>
 
 <!-- NEO_ALL_MANIFESTOS_END -->
 
 <!-- NEO_OPEN_SYNTHESIS_INVITATION_START -->
 
-## Participa / Participate
+## Participa en la Síntesis Abierta / Join the Open Synthesis
 
-- Última Síntesis: [LIV · Riqueza y Chatarra™ · #72](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/72)
-- Problemas y auditorías externas: [LIII · Leónidas™](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
-- Ficción abierta: [UMBRAL-X · Apocalipsis de las IAs™ · #73](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/73)
+Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. Con **Leónidas™** también puedes aportar pruebas a una Auditoría Pública existente o proponer una nueva auditoría trazable.
+
+**Última síntesis:** [LV · Micromáquinas™](55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md) · [Issue #74](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/74)  
+**Auditorías y problemas externos:** [LIII · Leónidas™](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo Leónidas™](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
+**Cómo aportar:** [protocolo general](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías](../auditorias/publicas/README.md) · [índice](../propuestas/sintesis-abierta/README.md)
 
 <!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->

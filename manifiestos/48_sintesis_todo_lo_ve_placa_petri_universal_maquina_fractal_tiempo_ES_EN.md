@@ -1384,13 +1384,11 @@ La relación documental indica afinidad conceptual, genealogía, contraste o apl
 
 ## Participa en la Síntesis Abierta / Join the Open Synthesis
 
-**Este marco no pide adhesión ciega.** Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o un delta. Con **Leónidas™** también puedes aportar pruebas a una Auditoría Pública existente o proponer una nueva auditoría trazable.
+Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. Con **Leónidas™** también puedes aportar pruebas a una Auditoría Pública existente o proponer una nueva auditoría trazable.
 
-**Puerta actual:** [LIII · Leónidas™](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Síntesis Abierta LIII · #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)  
-**Cómo aportar:** [protocolo general](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [protocolo Leónidas™](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
-**Auditorías:** [portal público](../auditorias/publicas/README.md) · [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
-
-**This framework does not ask for blind endorsement.** You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta. With **Leónidas™**, you may also contribute evidence to an existing Public Audit or propose a new traceable audit.
+**Última síntesis:** [LV · Micromáquinas™](55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md) · [Issue #74](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/74)  
+**Auditorías y problemas externos:** [LIII · Leónidas™](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo Leónidas™](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
+**Cómo aportar:** [protocolo general](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías](../auditorias/publicas/README.md) · [índice](../propuestas/sintesis-abierta/README.md)
 
 <!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->
 
@@ -1398,10 +1396,8 @@ La relación documental indica afinidad conceptual, genealogía, contraste o apl
 
 ## Navegación canónica / Canonical navigation
 
-← **XLVII** · [El Odio de Neo0 hacia su Sino™ · The Goat, Sombra, Vínculo y Doble Cara de la Vida / Neo0’s Hatred of His Fate™](47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md)  
-· [Índice I–LIII / I–LIII index](README.md) ·  
-**XLIX** · [La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™](49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md) →
-
-> La navegación canónica mantiene la colección conectada sin convertir ningún manifiesto aislado en equivalente del marco completo. / Canonical navigation keeps the collection connected without treating any single manifesto as equivalent to the complete framework.
+← **XLVII** · [El Odio de Neo0 hacia su Sino™](47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md)  
+· [Índice I–LV / I–LV index](README.md) ·  
+**XLIX** · [Punto de Encuentro entre Culturas™](49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->

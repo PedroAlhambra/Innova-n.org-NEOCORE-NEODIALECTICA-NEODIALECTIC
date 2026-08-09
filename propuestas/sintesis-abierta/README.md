@@ -2,7 +2,7 @@
 ## Neodialectical Open Synthesis™
 
 **Estado / Status:** 2026-08-09  
-**Cobertura canónica / Canonical coverage:** **54 manifiestos · I–LIV / 54 manifestos · I–LIV**
+**Cobertura canónica / Canonical coverage:** **55 manifiestos · I–LV / 55 manifestos · I–LV**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -10,19 +10,19 @@
 
 > ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LIV · Riqueza y Chatarra™ · El Chatarrero™ como arquetipo de restauración civilizatoria**  
-> **LIV · Wealth and Scrap™ · The Scrapworker™ as an archetype of civilisational restoration**
+> **LV · Ataque de las Micromáquinas™ · Las Plagas de la Escala Invisible**  
+> **LV · Attack of the Micromachines™ · The Plagues of the Invisible Scale**
 >
-> Reparar, restaurar, reutilizar, remanufacturar y convertir residuo en nueva función o arte pasan del margen a una función civilizatoria central. / Repair, restoration, reuse, remanufacturing and transforming residue into new function or art move from the margin toward a central civilisational function.
+> El marco separa microagentes reales, micro/nanorrobótica experimental y la hipótesis mucho más fuerte de un ataque intencional. Propone defensa antes de escala: detección, apagado, degradación, retirada, trazabilidad y responsabilidad. / The framework separates real micro-agents, experimental micro/nanorobotics and the much stronger hypothesis of intentional attack. It proposes defence before scale: detection, shutdown, degradation, removal, traceability and accountability.
 >
-> **[Leer LIV / Read LIV](../../manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md) · [Síntesis Abierta LIV · #72 / Open Synthesis LIV · #72](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/72)**  
-> [Cómo aportar](./APORTAR_A_LA_SINTESIS_ES_EN.md) · [LIII · Leónidas™ y Auditoría Abierta](./LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías Públicas](../../auditorias/publicas/README.md)
+> **[Leer LV / Read LV](../../manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md) · [Síntesis Abierta LV · #74 / Open Synthesis LV · #74](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/74)**  
+> [Cómo aportar](APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™ · auditorías externas](LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas](../../auditorias/publicas/README.md) · [55 manifiestos I–LV](../../manifiestos/README.md)
 
 <!-- NEO_LATEST_MANIFESTO_END -->
 
 <!-- MANIFESTOS_CURRENT_START -->
 
-**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LIV · 54 manifiestos bilingües / 54 bilingual manifestos** · [índice canónico / canonical index](../../manifiestos/README.md)
+**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LV · 55 manifiestos bilingües / 55 bilingual manifestos** · [índice canónico / canonical index](../../manifiestos/README.md)
 
 <!-- MANIFESTOS_CURRENT_END -->
 
@@ -112,6 +112,7 @@ COMMIT = FIJACIÓN Y DELTA CANÓNICO
 | LII | [Ciudadanía Humana Neodialéctica™](../../manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md) | [#64](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/64) |
 | LIII | [Leónidas™ · Síntesis y Auditoría Abierta](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) | [#69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69) |
 | **LIV** | **[Riqueza y Chatarra™](../../manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md)** | **[#72](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/72)** |
+| **LV** | **[Ataque de las Micromáquinas™ · Plagas de la Escala Invisible](../../manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md)** | **[#74](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/74)** |
 
 ## Auditorías y síntesis no limitadas a un manifiesto
 
