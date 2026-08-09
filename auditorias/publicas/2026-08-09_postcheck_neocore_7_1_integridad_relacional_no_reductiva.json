@@ -18,15 +18,15 @@
       "detail": ""
     },
     {
-      "check": "Corpus canónico I–LIX = 59 manifiestos",
-      "detail": "59 · I–LIX"
+      "check": "Corpus canónico I–LX = 60 manifiestos",
+      "detail": "60 · I–LX"
     },
     {
-      "check": "59/59 manifiestos tienen pie relacional",
+      "check": "60/60 manifiestos tienen pie relacional",
       "detail": ""
     },
     {
-      "check": "59/59 manifiestos tienen navegación canónica",
+      "check": "60/60 manifiestos tienen navegación canónica",
       "detail": ""
     },
     {
@@ -40,6 +40,10 @@
     {
       "check": "Topología NAX no duplica NAX-14",
       "detail": "1"
+    },
+    {
+      "check": "NAX-10 incorpora León y Bandera de Síntesis",
+      "detail": ""
     },
     {
       "check": "NAX-12 contiene salvaguarda ISO/regulatoria",
@@ -58,11 +62,11 @@
       "detail": ""
     },
     {
-      "check": "Mapa relacional declara I–LIX / 59",
+      "check": "Mapa relacional declara I–LX / 60",
       "detail": ""
     },
     {
-      "check": "Mapa relacional referencia 59/59 archivos canónicos",
+      "check": "Mapa relacional referencia 60/60 archivos canónicos",
       "detail": ""
     },
     {
@@ -94,7 +98,7 @@
       "detail": "0"
     },
     {
-      "check": "Sin staging/repair one-shots de esta integración",
+      "check": "Sin staging neoaxiomático heredado",
       "detail": ""
     },
     {
@@ -114,6 +118,6 @@
     }
   ],
   "readme_targets": 16,
-  "manifestos": 59,
+  "manifestos": 60,
   "neoaxioms": 14
 }

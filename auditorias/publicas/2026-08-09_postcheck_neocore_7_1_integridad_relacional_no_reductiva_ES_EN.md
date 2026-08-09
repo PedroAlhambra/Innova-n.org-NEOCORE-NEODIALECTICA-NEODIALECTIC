@@ -4,7 +4,7 @@
 **Fecha / Date:** 2026-08-09  
 **Resultado / Result:** **OK**  
 **README/LEEME examinados:** 16  
-**Manifiestos canónicos:** 59  
+**Manifiestos canónicos:** 60  
 **Neoaxiomas:** 14
 
 ## Comprobaciones / Checks
@@ -13,18 +13,19 @@
 - ✅ **README/LEEME declaran NEOCore™ 7.1**
 - ✅ **README/LEEME tienen un bloque Neoaxiomas**
 - ✅ **README/LEEME tienen un menú relacional vivo**
-- ✅ **Corpus canónico I–LIX = 59 manifiestos** — 59 · I–LIX
-- ✅ **59/59 manifiestos tienen pie relacional**
-- ✅ **59/59 manifiestos tienen navegación canónica**
+- ✅ **Corpus canónico I–LX = 60 manifiestos** — 60 · I–LX
+- ✅ **60/60 manifiestos tienen pie relacional**
+- ✅ **60/60 manifiestos tienen navegación canónica**
 - ✅ **NAX-01..14 existen en ES y EN**
 - ✅ **NAX-01..14 enlazan sus Síntesis específicas #84–#97**
 - ✅ **Topología NAX no duplica NAX-14** — 1
+- ✅ **NAX-10 incorpora León y Bandera de Síntesis**
 - ✅ **NAX-12 contiene salvaguarda ISO/regulatoria**
 - ✅ **Regla no reductiva está fijada en Neoaxiomas**
 - ✅ **README raíz ES expone Neoaxiomas y mapa relacional**
 - ✅ **README raíz EN expone Neoaxioms y living relational map**
-- ✅ **Mapa relacional declara I–LIX / 59**
-- ✅ **Mapa relacional referencia 59/59 archivos canónicos**
+- ✅ **Mapa relacional declara I–LX / 60**
+- ✅ **Mapa relacional referencia 60/60 archivos canónicos**
 - ✅ **Auditoría relacional: 0 manifiestos ausentes** — []
 - ✅ **Auditoría relacional: 0 enlaces locales rotos** — 0
 - ✅ **Auditoría relacional: 0 manifiestos sin publicación entrante** — 0
@@ -32,7 +33,7 @@
 - ✅ **Auditoría ES/EN: 0 asimetrías fuertes en manifiestos** — 0
 - ✅ **Auditoría ES/EN: 0 asimetrías fuertes en Neoaxiomas** — 0
 - ✅ **Auditoría histórica: 0 regresiones fuertes** — 0
-- ✅ **Sin staging/repair one-shots de esta integración**
+- ✅ **Sin staging neoaxiomático heredado**
 - ✅ **Informes de auditoría base presentes**
 
 ## Advertencias que no bloquean / Non-blocking warnings
