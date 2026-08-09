@@ -1,6 +1,7 @@
 name: sync-latest-manifesto-feature
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - '.github/workflows/sync-latest-manifesto-feature.yml'
@@ -32,6 +33,6 @@ jobs:
             echo 'No changes required.'
             exit 0
           fi
-          git commit -m 'docs: feature manifesto LI and Open Synthesis 59 across all READMEs'
+          git commit -m 'docs: sync latest manifesto LIII, Open Synthesis #69 and public audit access'
           git pull --rebase origin main
           git push origin main
