@@ -2,16 +2,12 @@ name: sync-latest-manifesto-feature
 
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - '.github/workflows/sync-latest-manifesto-feature.yml'
-      - '.github/scripts/sync_latest_manifesto_feature.py'
 
 permissions:
   contents: write
 
 concurrency:
-  group: sync-latest-manifesto-feature-main
+  group: neocore-document-sync-main
   cancel-in-progress: false
 
 jobs:
@@ -21,7 +17,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Synchronize and validate
+      - name: Synchronize and validate latest manifesto feature
         run: python .github/scripts/sync_latest_manifesto_feature.py
       - name: Commit if needed
         run: |
@@ -33,6 +29,6 @@ jobs:
             echo 'No changes required.'
             exit 0
           fi
-          git commit -m 'docs: sync latest manifesto LIII, Open Synthesis #69 and public audit access'
+          git commit -m 'docs: sync latest manifesto feature'
           git pull --rebase origin main
           git push origin main
