@@ -1,0 +1,72 @@
+name: One-shot · Neoaxiomas en todos los README
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/oneshot-neoaxiomas-readmes.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  sync-readmes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Añadir bloque Neoaxiomas a todos los README
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          marker = '<!-- NEOAXIOMAS_GLOBAL_LINK_START -->'
+          block = '''\n\n<!-- NEOAXIOMAS_GLOBAL_LINK_START -->
+---
+
+## Neoaxiomas™ · Capa Axiomática abierta / Neoaxioms™ · Open Axiomatic Layer
+
+Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin convertirlos en dogmas: permanecen abiertos a contraste, evidencia, crítica y revisión mediante **Síntesis Abierta Neodialéctica™ — SAN™**. / **Neoaxioms™** express high-stability principles of NEOCore™ without turning them into dogma: they remain open to challenge, evidence, criticism and revision through **Neodialectical Open Synthesis™ — SAN™**.
+
+**[Abrir Neoaxiomas™ / Open Neoaxioms™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/neoaxiomas/README.md)** · **[Síntesis Abierta Neoaxiomas™ / Neoaxioms Open Synthesis](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)** · **[Protocolo / Protocol](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md)**
+
+<!-- NEOAXIOMAS_GLOBAL_LINK_END -->
+'''
+
+          changed = []
+          skipped = []
+          for p in sorted(Path('.').rglob('README.md')):
+              if '.git' in p.parts:
+                  continue
+              text = p.read_text(encoding='utf-8')
+              if marker in text:
+                  skipped.append(str(p))
+                  continue
+              if not text.endswith('\n'):
+                  text += '\n'
+              p.write_text(text + block, encoding='utf-8')
+              changed.append(str(p))
+
+          print('READMES_MODIFICADOS=', len(changed))
+          for p in changed:
+              print('MODIFICADO', p)
+          print('READMES_YA_ENLAZADOS=', len(skipped))
+          for p in skipped:
+              print('YA_PRESENTE', p)
+          PY
+
+      - name: Commit de sincronización
+        shell: bash
+        run: |
+          if git diff --quiet; then
+            echo 'No hay cambios pendientes.'
+            exit 0
+          fi
+          git config user.name 'NEOCore GitHub Action'
+          git config user.email 'actions@users.noreply.github.com'
+          git add '**/README.md' README.md 2>/dev/null || git add -A
+          git commit -m 'docs: enlazar Neoaxiomas y Síntesis Abierta en todos los README'
+          git push
