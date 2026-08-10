@@ -13,7 +13,7 @@
 - `REVISAR` bloquea la publicación automática de manifiestos; `ADVERTENCIA` exige inspección editorial pero no demuestra por sí sola recorte.
 
 **Documentos bilingües examinados:** 94  
-**Recortes/materialmente asimétricos para revisión:** 17  
+**Recortes/materialmente asimétricos para revisión:** 18  
 **Advertencias estructurales sin prueba suficiente de recorte:** 18  
 **Con marcador incompleto/ausente:** 0
 
@@ -38,6 +38,7 @@
 | `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md` | 631 | 730 | 1.16 | 13 | 14 | sección XI EN/ES=2.56 (146/57 palabras) |
 | `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` | 1539 | 1524 | 0.99 | 15 | 16 | sección XIV EN/ES=1.82 (167/92 palabras) |
 | `manifiestos/61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md` | 1067 | 1072 | 1.00 | 12 | 14 | sección 12 EN/ES=2.85 (148/52 palabras) |
+| `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md` | 1435 | 1764 | 1.23 | 15 | 16 | sección 15 EN/ES=2.84 (455/160 palabras); sección 15 listas ES=12, EN=29 |
 
 ## Advertencias estructurales
 
@@ -133,9 +134,9 @@
 | `manifiestos/64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md` | 838 | 813 | 0.97 | 14 | 14 | OK |
 | `manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md` | 882 | 882 | 1.00 | 14 | 14 | OK |
 | `manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md` | 1651 | 1636 | 0.99 | 14 | 14 | OK |
-| `manifiestos/66_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md` | 1157 | 1188 | 1.03 | 13 | 13 | OK |
 | `manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md` | 1167 | 1195 | 1.02 | 13 | 13 | OK |
-| `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | 1234 | 1268 | 1.03 | 10 | 10 | OK |
+| `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md` | 1435 | 1764 | 1.23 | 15 | 16 | REVISAR |
+| `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | 1591 | 1618 | 1.02 | 11 | 11 | OK |
 | `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` | 357 | 355 | 0.99 | 1 | 1 | OK |
 | `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` | 3237 | 3440 | 1.06 | 29 | 30 | OK |
 | `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` | 621 | 912 | 1.47 | 6 | 7 | OK |
