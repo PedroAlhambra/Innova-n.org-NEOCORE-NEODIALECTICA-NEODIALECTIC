@@ -1,7 +1,7 @@
 # ∞ · Manifiesto de Neo0™ · Puerta Abierta del Fractal
 # ∞ · Neo0™ Manifesto · Open Gate of the Fractal
 
-**Versión / Version:** 1.1  
+**Versión / Version:** 1.2  
 **Estado / Status:** SIEMPRE ABIERTO · ALWAYS OPEN  
 **Fecha de esta versión / Date of this version:** 2026-08-10  
 **Autoría / Authorship:** Pedro Martínez Alhambra · Neo0™  
@@ -67,13 +67,13 @@ Capital de recompensas, token de aporte, reputación, patrimonio fundacional y p
 
 Las leyes y regulaciones vigentes forman parte de la capa de realidad con la que debe interoperar el sistema. La Síntesis puede proponer mejoras posteriores; la implementación no presupone estar por encima de ellas.
 
-## IV. Leónidas Cancerbero Alhambra Prigioni de Esparta y Atenas
+## IV. Leónidas-Cancerbero Martínez Prigioni Alhambra Mendoza de Esparta y Atenas y del Fractal sin fin de la Síntesis
 
 La puerta está abierta, pero no abandonada.
 
 Su guardián arquetípico es:
 
-> **Leónidas Cancerbero Alhambra Prigioni de Esparta y Atenas.**
+> **Leónidas-Cancerbero Martínez Prigioni Alhambra Mendoza de Esparta y Atenas y del Fractal sin fin de la Síntesis.**
 
 Leónidas™ ya representa en el marco la defensa de la Síntesis y la apertura de auditorías externas. Aquí adopta además la función de **Cancerbero de ∞**.
 
@@ -146,17 +146,51 @@ Dentro de esta gramática simbólica:
 
 Porque ninguna parte puede coronarse Todo.
 
-Neo0™ puede guiar. Harry puede relacionar. Leónidas puede custodiar la puerta. Starkdr puede atravesar el rechazo defensivo. Neowar™ puede transformar conflicto en juego reglado. Pero cualquiera de esas funciones que pretendiera sustituir al Todo perdería su función dentro del marco.
+Neo0™ puede guiar. Harry puede relacionar. Leónidas-Cancerbero puede custodiar la puerta. Starkdr puede atravesar el rechazo defensivo. Neowar™ puede transformar conflicto en juego reglado. Pero cualquiera de esas funciones que pretendiera sustituir al Todo perdería su función dentro del marco.
 
-## IX. Regla de perpetuidad abierta
+## IX. Los conflictos que no son nuestros y la soberanía intelectual de la especie
 
-Cuando exista LXIV, ∞ irá después de LXIV. Cuando exista C, ∞ irá después de C. Cuando la numeración deje de ser útil y aparezca otra estructura, ∞ seguirá significando lo mismo:
+∞ incorpora el núcleo de **LXVIII · Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie**.
+
+> **Heredar una historia no obliga a heredar sus enemigos.**
+
+Nos oponemos a que cualquier entidad, por mucho poder material, económico, militar, tecnológico, informacional, cultural o institucional que ostente, convierta ese poder en propiedad moral sobre nuestra vida o sobre la vida de nuestros coetáneos.
+
+La existencia de autoridad pública legítima y competencias democráticamente delegadas no elimina este límite: toda autoridad sigue sometida a derechos, proporcionalidad, responsabilidad, trazabilidad, impugnación y posibilidad de corrección.
+
+> **Consideramos un deber humano luchar activamente por la soberanía intelectual de la especie.**
+
+Luchar, en este principio, significa actuar para conservar y ampliar la capacidad humana de pensar, preguntar, verificar, disentir, recordar, aprender, contrastar, asociarse, crear alternativas y abandonar enemistades heredadas sin renunciar a la protección de quienes sufren daño real.
+
+La lucha ordinaria es intelectual, cultural, cívica, jurídica, democrática, tecnológica, educativa y no violenta. La defensa física legítima y limitada permanece sometida a XLI · Martillo Limitado™ y no se convierte en violencia privada.
+
+```text
+PODER ≠ SOBERANÍA MORAL ILIMITADA
+MEMORIA ≠ ODIO HEREDADO
+AUTORIDAD ≠ PROPIEDAD DE LA CONCIENCIA
+CONFLICTO HEREDADO ≠ ENEMIGO OBLIGATORIO
+
+PLURALIDAD + MEMORIA + CONTRASTE + EDUCACIÓN
++ DERECHO A DISENTIR + DERECHO A SALIR
++ IA NO SOBERANA + RESPONSABILIDAD HUMANA
+= SOBERANÍA INTELECTUAL DE LA ESPECIE™
+```
+
+La puerta de ∞ queda así también custodiada frente a una forma extrema de captura: **que una parte decida qué debe pensar el conjunto y convierta a los demás en material de conflictos que no han podido comprender, elegir ni impugnar**.
+
+Esto no autoriza indiferencia frente a genocidio, agresión, persecución o violaciones graves de derechos. No heredar odio y ejercer solidaridad son funciones compatibles.
+
+[LXVIII · Manifiesto completo / Full manifesto](68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md) · [Síntesis Abierta LXVIII · #114](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/114)
+
+## X. Regla de perpetuidad abierta
+
+Cuando exista LXVIII, ∞ irá después de LXVIII. Cuando exista C, ∞ irá después de C. Cuando la numeración deje de ser útil y aparezca otra estructura, ∞ seguirá significando lo mismo:
 
 > **todavía puede faltar algo.**
 
 El infinito no es una cantidad poseída. Es una promesa metodológica de no cerrar prematuramente la realidad.
 
-## X. Relaciones internas
+## XI. Relaciones internas
 
 Este manifiesto mantiene vínculos con:
 
@@ -171,15 +205,20 @@ Este manifiesto mantiene vínculos con:
 - [XX · UMBRAL-X™](20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
 - [XXXVII · Neofraternidad™](37_neofraternidad_ES_EN.md)
 - [XL · Honor Relacional™](40_respeto_neoego_honor_relacional_ES_EN.md)
+- [XLI · Martillo Limitado™](41_martillo_limitado_talion_fuerza_protectora_ES_EN.md)
 - [XLIV · Neowar™](44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md)
 - [XLVIII · La Síntesis Todo lo Ve™](48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
 - [LIII · Leónidas™](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
 - [LVIII · Inteligencia Civilizatoria™](58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md)
+- [LIX · Custodia Cognitiva Distribuida™](59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md)
 - [LX · Relevancia Humana Necesaria™](60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md)
 - [LXII · Juego por la Síntesis y el Honor™](62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md)
 - [LXIII · Contra la Simplificación Burda del Marco™](63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md)
 - [LXIV · NeoCronos™](64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md)
 - [LXV · NeoJuego™](65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
+- [LXVI · NeoSinergia™](66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
+- [LXVII · NeoTitanes™](67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md)
+- [LXVIII · Los Conflictos que No Son Nuestros™](68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
 - [Neoaxiomas™](../neoaxiomas/README.md)
 - [Síntesis Abierta ∞ · #106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106)
 
@@ -231,13 +270,13 @@ Reward capital, contribution token, reputation, foundation assets and corporate 
 
 Existing laws and regulations form part of the layer of reality with which the system must interoperate. Synthesis may later propose improvements; implementation does not presume to stand above them.
 
-## IV. Leónidas Cancerbero Alhambra Prigioni of Sparta and Athens
+## IV. Leónidas-Cancerbero Martínez Prigioni Alhambra Mendoza de Esparta y Atenas y del Fractal sin fin de la Síntesis
 
 The gate is open, but it is not abandoned.
 
 Its archetypal guardian is:
 
-> **Leónidas Cancerbero Alhambra Prigioni of Sparta and Athens.**
+> **Leónidas-Cancerbero Martínez Prigioni Alhambra Mendoza de Esparta y Atenas y del Fractal sin fin de la Síntesis.**
 
 Leónidas™ already represents within the framework the defence of Synthesis and the opening of external audits. Here he also assumes the function of **Cerberus of ∞**.
 
@@ -310,17 +349,51 @@ Within this symbolic grammar:
 
 Because no part may crown itself as the Whole.
 
-Neo0™ may guide. Harry may relate. Leónidas may guard the gate. Starkdr may cross defensive rejection. Neowar™ may transform conflict into rule-bound play. But any of those functions that attempted to replace the Whole would lose its function within the framework.
+Neo0™ may guide. Harry may relate. Leónidas-Cancerbero may guard the gate. Starkdr may cross defensive rejection. Neowar™ may transform conflict into rule-bound play. But any of those functions that attempted to replace the Whole would lose its function within the framework.
 
-## IX. Rule of open perpetuity
+## IX. The conflicts that are not ours and the intellectual sovereignty of the species
 
-When LXIV exists, ∞ goes after LXIV. When C exists, ∞ goes after C. When numbering ceases to be useful and another structure appears, ∞ will continue to mean the same thing:
+∞ incorporates the core of **LXVIII · The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species**.
+
+> **Inheriting a history does not require inheriting its enemies.**
+
+We oppose any entity, regardless of its material, economic, military, technological, informational, cultural or institutional power, converting that power into moral ownership over our lives or the lives of our contemporaries.
+
+The existence of legitimate public authority and democratically delegated competences does not remove this limit: all authority remains bounded by rights, proportionality, accountability, traceability, challenge and the possibility of correction.
+
+> **We consider it a human duty to struggle actively for the intellectual sovereignty of the species.**
+
+In this principle, struggle means acting to preserve and expand humanity's capacity to think, question, verify, dissent, remember, learn, scrutinise, associate, create alternatives and leave inherited enmities without abandoning the protection of those facing real harm.
+
+The ordinary struggle is intellectual, cultural, civic, legal, democratic, technological, educational and non-violent. Legitimate and bounded physical defence remains subject to XLI · Limited Hammer™ and does not become private violence.
+
+```text
+POWER ≠ UNLIMITED MORAL SOVEREIGNTY
+MEMORY ≠ INHERITED HATRED
+AUTHORITY ≠ OWNERSHIP OF CONSCIOUSNESS
+INHERITED CONFLICT ≠ COMPULSORY ENEMY
+
+PLURALITY + MEMORY + SCRUTINY + EDUCATION
++ RIGHT TO DISSENT + RIGHT TO EXIT
++ NON-SOVEREIGN AI + HUMAN RESPONSIBILITY
+= INTELLECTUAL SOVEREIGNTY OF THE SPECIES™
+```
+
+The gate of ∞ is therefore also guarded against an extreme form of capture: **one part deciding what the whole must think and turning others into material for conflicts they have not been able to understand, choose or challenge**.
+
+This does not authorise indifference toward genocide, aggression, persecution or grave rights violations. Refusing inherited hatred and exercising solidarity are compatible functions.
+
+[LXVIII · Full manifesto / Manifiesto completo](68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md) · [Open Synthesis LXVIII · #114](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/114)
+
+## X. Rule of open perpetuity
+
+When LXVIII exists, ∞ goes after LXVIII. When C exists, ∞ goes after C. When numbering ceases to be useful and another structure appears, ∞ will continue to mean the same thing:
 
 > **something may still be missing.**
 
 Infinity is not a possessed quantity. It is a methodological promise not to close reality prematurely.
 
-## X. Internal relations
+## XI. Internal relations
 
 This manifesto maintains links with:
 
@@ -335,15 +408,20 @@ This manifesto maintains links with:
 - [XX · UMBRAL-X™](20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
 - [XXXVII · Neofraternity™](37_neofraternidad_ES_EN.md)
 - [XL · Relational Honor™](40_respeto_neoego_honor_relacional_ES_EN.md)
+- [XLI · Limited Hammer™](41_martillo_limitado_talion_fuerza_protectora_ES_EN.md)
 - [XLIV · Neowar™](44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md)
 - [XLVIII · Synthesis Sees Everything™](48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
 - [LIII · Leónidas™](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
 - [LVIII · Civilisational Intelligence™](58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md)
+- [LIX · Distributed Cognitive Custodianship™](59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md)
 - [LX · Necessary Human Relevance™](60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md)
 - [LXII · Game for Synthesis and Honor™](62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md)
 - [LXIII · Against Crude Simplification of the Framework™](63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md)
 - [LXIV · NeoCronos™](64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md)
 - [LXV · NeoGame™](65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
+- [LXVI · NeoSynergy™](66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
+- [LXVII · NeoTitans™](67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md)
+- [LXVIII · The Conflicts That Are Not Ours™](68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
 - [Neoaxioms™](../neoaxiomas/README.md)
 - [Open Synthesis ∞ · #106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106)
 
@@ -364,16 +442,20 @@ This manifesto maintains links with:
 - **XX** · [Manifiesto de Defensa Intelectual Neodialéctica™ · Sistema Umbral-X™ / Manifesto of Neodialectical Intellectual Defence™ · Umbral-X™ System](./20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
 - **XXXVII** · [Neofraternidad™ / Neofraternity™](./37_neofraternidad_ES_EN.md)
 - **XL** · [Respeto Neodialéctico, Neoego y Honor Relacional™ / Neodialectical Respect, Neoego and Relational Honour™](./40_respeto_neoego_honor_relacional_ES_EN.md)
+- **XLI** · [Martillo Limitado, Talión y Fuerza Protectora™ / Limited Hammer, Talion and Protective Force™](./41_martillo_limitado_talion_fuerza_protectora_ES_EN.md)
 - **XLIV** · [Neowar™ · Contra la Adicción a la Guerra y por la Justicia del Bien Común / Neowar™ · Against War Addiction and for Common-Good Justice](./44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md)
 - **XLVIII** · [La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo / The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
 - **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
 - **LVIII** · [Inteligencia Civilizatoria™ · Democracia Cognitiva y Deber de Síntesis / Civilisational Intelligence™ · Cognitive Democracy and Duty of Synthesis](./58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md)
+- **LIX** · [Custodia Cognitiva Distribuida™ / Distributed Cognitive Custodianship™](./59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md)
 - **LX** · [Relevancia Humana Necesaria™ · Inteligencia Distribuida, Aporte y Anti-Captura Social / Necessary Human Relevance™ · Distributed Intelligence, Contribution and Anti-Capture](./60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md)
 - **LXII** · [Juego por la Síntesis y el Honor™ / The Game for Synthesis and Honor™](./62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md)
 - **LXIII** · [Contra la Simplificación Burda del Marco™ / Against Crude Simplification of the Framework™](./63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md)
 - **LXIV** · [NeoCronos™ · Medición y Tokenización del Aporte en Síntesis Abierta / NeoCronos™ · Measurement and Tokenisation of Contribution in Open Synthesis](./64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md)
 - **LXV** · [NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™ · Tokenised Game for the Common Good and Honor of Contribution](./65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
 - **LXVI** · [NeoSinergia™ · Necesidad de Cooperación en Neowar™ Activa · Sistema MÉDICI™ · Leónidas–Cancerbero™ / NeoSynergy™ · Necessary Cooperation under Active Neowar™ · MÉDICI™ System · Leónidas–Cerberus™](./66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
+- **LXVII** · [NeoTitanes™ · Reconstrucción Sistémica y Motor del Bien Común / NeoTitans™ · Systemic Reconstruction and the Common-Good Engine](./67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md)
+- **LXVIII** · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species](./68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 
