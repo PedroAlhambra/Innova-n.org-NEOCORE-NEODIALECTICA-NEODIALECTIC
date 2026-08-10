@@ -32,9 +32,9 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 ## 🔴 Actualidad / Latest
 
-### LXII · Juego por la Síntesis y el Honor™ / The Game for Synthesis and Honor™
+### LXV · NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™
 
-**[Leer LXII / Read LXII](./manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md)** · **[Síntesis Abierta #103 / Open Synthesis #103](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/103)**
+**[Leer LXV / Read LXV](./manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)** · **[Síntesis Abierta #109 / Open Synthesis #109](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/109)**
 
 
 ### Umbral-X™ · MAXPROC 001 · Leónidas-Cancerbero™
@@ -60,7 +60,7 @@ El marco integra filosofía, memoria, inteligencia artificial, trazabilidad, sí
 | Área | Acceso |
 |---|---|
 | **Filosofía y marco** | [Filosofía Neodialéctica · Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Philosophy_Neodialectic) · [Portada civilizatoria](./PORTADA.md) |
-| **Manifiestos** | **[I–LXII · 62 manifiestos bilingües](./manifiestos/README.md)** |
+| **Manifiestos** | **[I–LXV · 65 manifiestos bilingües](./manifiestos/README.md)** |
 | **Neoaxiomas™** | [Capa Axiomática Abierta](./neoaxiomas/README.md) · [Síntesis específicas](./propuestas/sintesis-abierta/README.md#neoaxiomas--síntesis-abierta-específica--neoaxioms--dedicated-open-synthesis) |
 | **Mapa relacional vivo** | [Manifiestos ↔ trabajo aplicado](./manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Auditoría MAXPROC](./auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md) |
 | **Síntesis Abierta™** | [Índice operativo](./propuestas/sintesis-abierta/README.md) · [Cómo aportar](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Registrar entrada](./propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Seguir marco](./proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) |
@@ -97,7 +97,7 @@ La **Síntesis Abierta Neodialéctica™ — SAN™** es el método principal de
 
 Los manifiestos son los **pilares públicos de la Filosofía Arquetípica Neodialéctica™**, no el marco completo.
 
-**Estado en este commit: I–LXII · 62 manifiestos bilingües · 24 oleadas · Síntesis iniciada.**
+**Estado en este commit: I–LXV · 65 manifiestos bilingües · 24 oleadas · Síntesis iniciada.**
 
 **[Abrir índice completo y navegable de manifiestos →](./manifiestos/README.md)**
 
@@ -160,7 +160,7 @@ The framework integrates philosophy, memory, artificial intelligence, traceabili
 | Area | Access |
 |---|---|
 | **Philosophy and framework** | [Neodialectical Philosophy · Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Philosophy_Neodialectic) · [Civilisational cover](./PORTADA.md) |
-| **Manifestos** | **[I–LXII · 62 bilingual manifestos](./manifiestos/README.md)** |
+| **Manifestos** | **[I–LXV · 65 bilingual manifestos](./manifiestos/README.md)** |
 | **Neoaxioms™** | [Open Axiomatic Layer](./neoaxiomas/README.md) · [Dedicated syntheses](./propuestas/sintesis-abierta/README.md#neoaxiomas--síntesis-abierta-específica--neoaxioms--dedicated-open-synthesis) |
 | **Living relational map** | [Manifestos ↔ applied work](./manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [MAXPROC audit](./auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md) |
 | **Open Synthesis™** | [Operational index](./propuestas/sintesis-abierta/README.md) · [How to contribute](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Register entry](./propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Follow framework](./proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) |
@@ -197,7 +197,7 @@ The **Neodialectica Framework™** functions simultaneously as framework and liv
 
 The manifestos are the **public pillars of Archetypal Neodialectical Philosophy™**, not the complete framework.
 
-**State at this commit: I–LXII · 62 bilingual manifestos · 24 waves · Synthesis Initiated.**
+**State at this commit: I–LXV · 65 bilingual manifestos · 24 waves · Synthesis Initiated.**
 
 **[Open the complete navigable manifesto index →](./manifiestos/README.md)**
 

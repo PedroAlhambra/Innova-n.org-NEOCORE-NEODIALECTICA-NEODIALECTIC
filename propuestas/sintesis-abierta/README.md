@@ -134,6 +134,16 @@ TOKENIZACIÓN = POSIBLE RECONOCIMIENTO / RETORNO DEL VALOR VALIDADO
 
 ## Cuatro puertas públicas de participación / Four public participation routes
 
+<!-- NEO_ENTRY_REGISTER_ROUTE_START -->
+
+### 1. Registrar entrada / Register entry
+
+La lectura pública no exige identificación. Si quieres dejar una relación trazable de lectura, investigación, crítica, implementación, contacto institucional o derivación, utiliza el **Registro de Entrada Trazable™**. / Public reading does not require identification. If you want a traceable relationship for reading, research, criticism, implementation, institutional contact or derivation, use the **Traceable Entry Register™**.
+
+[Protocolo / Protocol](REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Abrir registro / Open register](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/new?template=registro_entrada_derivacion.yml) · [Seguir el marco / Follow the framework](../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md)
+
+<!-- NEO_ENTRY_REGISTER_ROUTE_END -->
+
 ### 1. Registrar entrada / Register entry
 
 La lectura pública no exige identificación. Si quieres dejar una relación trazable de lectura, investigación, crítica, implementación, contacto institucional o derivación, utiliza el **Registro de Entrada Trazable™**. / Public reading does not require identification. If you want a traceable relationship for reading, research, criticism, implementation, institutional contact or derivation, use the **Traceable Entry Register™**.

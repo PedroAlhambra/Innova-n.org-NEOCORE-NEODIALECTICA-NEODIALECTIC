@@ -35,7 +35,7 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 <!-- NEO_RELATIONAL_MENU_END -->
 <!-- MANIFESTOS_CURRENT_START -->
 
-**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LXII · 62 manifiestos bilingües / 62 bilingual manifestos** · [índice canónico / canonical index](../manifiestos/README.md)
+**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LXV · 65 manifiestos bilingües / 65 bilingual manifestos** · [índice canónico / canonical index](../manifiestos/README.md)
 
 <!-- MANIFESTOS_CURRENT_END -->
 
@@ -43,7 +43,7 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 ## Manifiestos / Manifestos
 
-**I–LXII · 62 manifiestos bilingües · 24 oleadas / 62 bilingual manifestos · 24 waves.**  
+**I–LXV · 65 manifiestos bilingües · 24 oleadas / 65 bilingual manifestos · 24 waves.**  
 Los manifiestos son pilares públicos del marco, no equivalentes al marco completo. / The manifestos are public pillars of the framework, not equivalents of the complete framework.
 
 **[Abrir índice canónico y navegable / Open canonical navigable index →](../manifiestos/README.md)**
@@ -56,7 +56,7 @@ Los manifiestos son pilares públicos del marco, no equivalentes al marco comple
 
 Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. / You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta.
 
-**Última síntesis / Latest synthesis:** [LXII · Juego por la Síntesis y el Honor™ / The Game for Synthesis and Honor™](../manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md) · [Issue #103](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/103)  
+**Última síntesis / Latest synthesis:** [LXV · NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™](../manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md) · [Issue #109](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/109)  
 **Seguimiento vivo / Living follow-up:** [seguir el marco / follow the framework](../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [registro de entrada / entry register](../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)  
 **Auditorías / Audits:** [LIII · Leónidas™](../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo / protocol](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
 **Cómo aportar / How to contribute:** [protocolo general / general protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../auditorias/publicas/README.md) · [índice / index](../propuestas/sintesis-abierta/README.md)
