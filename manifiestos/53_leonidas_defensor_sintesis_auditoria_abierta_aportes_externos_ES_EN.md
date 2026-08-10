@@ -560,7 +560,7 @@ Contributions are requested on:
 
 Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. / You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta.
 
-**Última síntesis / Latest synthesis:** [LXI · Contra el Reduccionismo Matemático™ y por la Custodia Experimental Multiescalar™ / Against Mathematical Reductionism™ and for Multiscale Experimental Custodianship™](61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md) · [Issue #101](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/101)  
+**Última síntesis / Latest synthesis:** [LXII · Juego por la Síntesis y el Honor™ / The Game for Synthesis and Honor™](62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md) · [Issue #103](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/103)  
 **Seguimiento vivo / Living follow-up:** [seguir el marco / follow the framework](../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [registro de entrada / entry register](../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)  
 **Auditorías / Audits:** [LIII · Leónidas™](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo / protocol](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
 **Cómo aportar / How to contribute:** [protocolo general / general protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../auditorias/publicas/README.md) · [índice / index](../propuestas/sintesis-abierta/README.md)
@@ -582,7 +582,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 ## Navegación canónica / Canonical navigation
 
 ← **LII** · [Ciudadanía Humana Neodialéctica™](52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md)  
-· [Índice I–LXI / I–LXI index](README.md) ·  
+· [Índice I–LXII / I–LXII index](README.md) ·  
 **LIV** · [Riqueza y Chatarra™ · El Chatarrero™](54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->

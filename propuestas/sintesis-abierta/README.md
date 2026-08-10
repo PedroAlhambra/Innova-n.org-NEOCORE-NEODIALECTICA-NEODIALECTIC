@@ -2,7 +2,7 @@
 ## Neodialectical Open Synthesis™
 
 **Estado / Status:** **Síntesis iniciada / Synthesis Initiated · 2026-08-09**  
-**Cobertura en este commit / Coverage at this commit:** **61 manifiestos · I–LXI / 61 manifestos · I–LXI**
+**Cobertura en este commit / Coverage at this commit:** **62 manifiestos · I–LXII / 62 manifestos · I–LXII**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -54,9 +54,9 @@ Cada Neoaxioma dispone de un espacio de contraste propio además de la matriz ge
 <!-- NEOAXIOM_SYNTHESIS_INDEX_END -->
 > ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LXI · Contra el Reduccionismo Matemático™ y por la Custodia Experimental Multiescalar™ / Against Mathematical Reductionism™ and for Multiscale Experimental Custodianship™**
+> **LXII · Juego por la Síntesis y el Honor™ / The Game for Synthesis and Honor™**
 >
-> **[Leer LXI / Read LXI](../../manifiestos/61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md) · [Síntesis Abierta LXI · #101 / Open Synthesis LXI · #101](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/101)**
+> **[Leer LXII / Read LXII](../../manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md) · [Síntesis Abierta LXII · #103 / Open Synthesis LXII · #103](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/103)**
 
 > El número de manifiestos no constituye un cierre de canon: registra el estado del corpus en este commit. / The manifesto count is not a closed canon: it records the corpus state at this commit.
 
@@ -96,7 +96,7 @@ COMMIT = FIJACIÓN Y DELTA CANÓNICO / CANONICAL FIXATION AND DELTA
 
 # ES · Castellano
 
-## Índice canónico · I–LXI
+## Índice canónico · I–LXII
 
 | Nº | Manifiesto | Síntesis Abierta |
 |---:|---|---|
@@ -189,7 +189,7 @@ La popularidad no equivale a prueba. La admisión de una auditoría no valida un
 
 # EN · English
 
-Open Synthesis currently covers **61 bilingual manifestos I–LXI**, Public Audits and the first open-fiction branch. This is a live state under **Synthesis Initiated**, not a final corpus count.
+Open Synthesis currently covers **62 bilingual manifestos I–LXII**, Public Audits and the first open-fiction branch. This is a live state under **Synthesis Initiated**, not a final corpus count.
 
 There are three primary contribution routes: challenge an existing manifesto; bring evidence or a new Public Audit through Leónidas™; or contribute to open fiction through **UMBRAL-X · AI Apocalypse™ · Issue #73**.
 

@@ -28,12 +28,12 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 > ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LXI · Contra el Reduccionismo Matemático™ y por la Custodia Experimental Multiescalar™ / Against Mathematical Reductionism™ and for Multiscale Experimental Custodianship™**
+> **LXII · Juego por la Síntesis y el Honor™ / The Game for Synthesis and Honor™**
 >
-> **[Leer LXI / Read LXI](61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md) · [Síntesis Abierta LXI · #101 / Open Synthesis LXI · #101](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/101)**
+> **[Leer LXII / Read LXII](62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md) · [Síntesis Abierta LXII · #103 / Open Synthesis LXII · #103](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/103)**
 
-**Estado en este commit / State at this commit:** **61 manifiestos bilingües · I–LXI · 24 oleadas / 61 bilingual manifestos · I–LXI · 24 waves**  
-**Fecha / Date:** 2026-08-09
+**Estado en este commit / State at this commit:** **62 manifiestos bilingües · I–LXII · 24 oleadas / 62 bilingual manifestos · I–LXII · 24 waves**  
+**Fecha / Date:** 2026-08-10
 
 ## Dos puertas principales / Two main doors
 
@@ -111,6 +111,7 @@ Cada manifiesto dispone de un espacio público de contraste. / Each manifesto ha
 - **LIX** · [Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana / Distributed Cognitive Custodianship™ · AI, Repair and Human Responsibility](59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md)
 - **LX** · [Relevancia Humana Necesaria™ · Inteligencia Distribuida, Aporte y Anti-Captura Social / Necessary Human Relevance™ · Distributed Intelligence, Contribution and Anti-Capture](60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md)
 - **LXI** · [Contra el Reduccionismo Matemático™ y por la Custodia Experimental Multiescalar™ / Against Mathematical Reductionism™ and for Multiscale Experimental Custodianship™](61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md)
+- **LXII** · [Juego por la Síntesis y el Honor™ / The Game for Synthesis and Honor™](62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md)
 
 > Ningún manifiesto equivale por sí solo al marco completo. / No single manifesto equals the complete framework.
 
