@@ -88,7 +88,7 @@ Cada manifiesto dispone de un espacio público de contraste. / Each manifesto ha
 - **XXX** · [Coherencia entre Fines y Medios™ / Coherence between Ends and Means™](30_coherencia_fines_medios_ES_EN.md)
 - **XXXI** · [Contra el Neuromarketing Antihumanista™ / Against Anti-Humanist Neuromarketing™](31_contra_neuromarketing_antihumanista_ES_EN.md)
 - **XXXII** · [Reversión Ideológica Neodialéctica™ / Neodialectical Ideological Reversal™](32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md)
-- **XXXIII** · [IDEA · Piedra Angular y Rosetta Civilizatoria™](33_idea_piedra_angular_rosetta_civilizatoria_reset_reemplazo_ES_EN.md)
+- **XXXIII** · [IDEA · Piedra Angular y Rosetta Civilizatoria™](33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
 - **XXXIV** · [Utilidad Operativa y Auditoría Conjunta Perpetua™](34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
 - **XXXV** · [Contra la Ridiculez Mediática y Economía del Conflicto™](35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
 - **XXXVI** · [Corona, Águila y Custodia de la Edad del Hombre™](36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)
