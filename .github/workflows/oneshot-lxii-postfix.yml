@@ -1,0 +1,82 @@
+name: oneshot-lxii-postfix
+
+on:
+  push:
+    paths:
+      - '.github/workflows/oneshot-lxii-postfix.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  postfix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Corregir residuos visibles
+        shell: python
+        run: |
+          from pathlib import Path
+
+          p = Path('manifiestos/README.md')
+          s = p.read_text(encoding='utf-8')
+          old = '**Última síntesis / Latest synthesis:** [LX · Relevancia Humana Necesaria™](60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md) · [Issue #99](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/99)'
+          new = '**Última síntesis / Latest synthesis:** [LXII · Juego por la Síntesis y el Honor™](62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md) · [Issue #103](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/103)'
+          s = s.replace(old, new)
+          p.write_text(s, encoding='utf-8')
+
+          p = Path('README.md')
+          s = p.read_text(encoding='utf-8')
+          old_block = '''Últimos nodos:
+
+- [LVI · NO-CONTROL™ · Síntesis Previa a la Potencia](./manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md)
+- [LVII · Madre, Refugio y Retorno Consciente™](./manifiestos/57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md)
+- [LVIII · Inteligencia Civilizatoria™ · Democracia Cognitiva y Deber de Síntesis](./manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md)
+- [LIX · Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana](./manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md)'''
+          new_block = '''Últimos nodos:
+
+- [LIX · Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana](./manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md)
+- [LX · Relevancia Humana Necesaria™](./manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md)
+- [LXI · Contra el Reduccionismo Matemático™ y Custodia Experimental Multiescalar™](./manifiestos/61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md)
+- [LXII · Juego por la Síntesis y el Honor™](./manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md)'''
+          s = s.replace(old_block, new_block)
+          p.write_text(s, encoding='utf-8')
+
+      - name: Auditar
+        run: |
+          python .github/scripts/audit_markdown_links_readmes.py
+
+      - name: Verificar
+        shell: python
+        run: |
+          from pathlib import Path
+          m = Path('manifiestos/README.md').read_text(encoding='utf-8')
+          r = Path('README.md').read_text(encoding='utf-8')
+          assert 'Última síntesis / Latest synthesis:** [LXII' in m
+          assert 'Issue #103' in m
+          assert '[LXII · Juego por la Síntesis y el Honor™]' in r
+          a = Path('auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md').read_text(encoding='utf-8')
+          assert '62 · I–LXII' in a and 'LXII / #103' in a and 'Enlaces internos rotos detectados: **0**' in a and 'Fallos canónicos críticos: **0**' in a
+
+      - name: Commit
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git reset .github/workflows/oneshot-lxii-postfix.yml
+          if ! git diff --cached --quiet; then
+            git commit -m 'docs: cerrar residuos de navegación LXII'
+            git push
+          fi
+
+      - name: Retirar one-shot
+        if: always()
+        run: |
+          git pull --rebase || true
+          git rm -f .github/workflows/oneshot-lxii-postfix.yml
+          git commit -m 'ci: retirar postfix LXII' || true
+          git push || true
