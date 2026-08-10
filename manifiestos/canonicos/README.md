@@ -16,4 +16,40 @@ Los nombres históricos se mantienen temporalmente como rutas **legacy** para no
 
 **No se debe inferir jamás el número canónico a partir del prefijo decimal histórico.**
 
-La migración debe copiar el mismo blob/contenido a la ruta canónica, actualizar referencias y sólo retirar una ruta legacy cuando no queden dependencias.
+## Fuente única y resolución de enlaces
+
+La ruta **legacy** es, durante la migración, la **fuente de contenido editable**. La ruta canónica es una **representación derivada automáticamente** y no debe editarse manualmente.
+
+La sincronización se realiza mediante:
+
+`.github/scripts/sync_canonical_manifestos.py`
+
+El principio es:
+
+```text
+FUENTE LEGACY EDITABLE
+        ↓
+REGISTRO CANÓNICO ÚNICO
+        ↓
+RESOLUTOR DE DESTINOS
+        ↓
+REPRESENTACIÓN CANÓNICA DERIVADA
+```
+
+Un mismo destino lógico debe resolverse siempre desde una única fuente de verdad. Al generar una copia canónica, los enlaces relativos se recalculan según la ubicación real del archivo derivado. Si un enlace apunta a otro manifiesto registrado, se dirige a su ruta canónica romana; si apunta a otra parte del repositorio, se conserva el mismo destino lógico con una ruta relativa correcta.
+
+Por tanto, **no se exige identidad byte-a-byte entre fuente legacy y representación canónica**: el contenido semántico debe conservarse, pero los enlaces pueden y deben transformarse para mantener exactamente el mismo destino lógico.
+
+La migración sólo podrá retirar una ruta legacy cuando no queden dependencias externas o internas que necesiten conservarla.
+
+## Invariante de seguridad
+
+Toda sincronización canónica debe terminar con:
+
+```text
+CANONICAL_GENERATED = número registrado
+CANONICAL_MISSING_LEGACY = 0
+BROKEN_INTERNAL_LINKS = 0
+```
+
+Si cualquiera de estas condiciones falla, la migración queda abierta y debe corregirse antes de declarar el estado documental como sano.
