@@ -5,6 +5,39 @@ import sys
 
 # Final closure for NEOCore™ 7.2 after the main 7.2 integration has passed.
 
+# 0. Refine the parity auditor: a numbered semantic section ends at the next
+# H2 of any kind, not only at the next numbered H2. This prevents unnumbered
+# Open Synthesis/navigation tails from being charged to the last numbered section.
+p=Path('.github/scripts/audit_es_en_parity.py')
+s=p.read_text(encoding='utf-8')
+old='''def numbered_sections(s):
+    matches=list(re.finditer(r'^##\\s+((?:\\d+)|(?:[IVXLCDM]+))\\.\\s+.+$',s,re.M))
+    out={}
+    for i,m in enumerate(matches):
+        start=m.end()
+        end=matches[i+1].start() if i+1 < len(matches) else len(s)
+        out[m.group(1)] = s[start:end]
+    return out
+'''
+new='''def numbered_sections(s):
+    all_h2=list(re.finditer(r'^##\\s+(.+)$',s,re.M))
+    out={}
+    for i,m in enumerate(all_h2):
+        h=m.group(1).strip()
+        ident=re.match(r'^((?:\\d+)|(?:[IVXLCDM]+))\\.\\s+',h)
+        if not ident:
+            continue
+        start=m.end()
+        end=all_h2[i+1].start() if i+1 < len(all_h2) else len(s)
+        out[ident.group(1)] = s[start:end]
+    return out
+'''
+if old in s:
+    s=s.replace(old,new,1)
+    p.write_text(s,encoding='utf-8')
+elif 'all_h2=list(re.finditer' not in s:
+    raise SystemExit('Could not refine numbered_sections in parity auditor')
+
 # 1. Complete Open Synthesis index.
 p=Path('propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md')
 s=p.read_text(encoding='utf-8')
