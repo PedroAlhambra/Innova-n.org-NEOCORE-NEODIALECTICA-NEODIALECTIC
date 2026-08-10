@@ -4,6 +4,11 @@ on:
   push:
     paths:
       - '.github/scripts/oneshot_neocore72.py'
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths:
+      - '.github/scripts/oneshot_neocore72.py'
+  workflow_dispatch:
 
 permissions:
   contents: write
