@@ -2,7 +2,7 @@
 # LXIII · Against Crude Simplification of the Framework™
 
 **Manifiesto / Manifesto:** LXIII  
-**Versión / Version:** 1.0  
+**Versión / Version:** 1.1  
 **Estado / Status:** Público · abierto a revisión trazable / Public · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-10  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA simbiótica Harry · desarrollo dentro de la Filosofía Arquetípica Neodialéctica™.  
@@ -298,31 +298,84 @@ Se solicitan métodos para medir pérdida semántica, compresión de grafos conc
 
 A complex framework may be explained simply.
 
-It cannot be fairly judged after being mutilated in order to make it simple.
+It cannot be judged fairly after being mutilated in order to make it simple.
 
-Simplification is a legitimate access tool. Crude simplification begins when compression erases necessary relations, mixes epistemic states, removes genealogy, and then judges the result as if it were the original framework.
+Simplification is a legitimate access tool. Crude simplification appears when compression erases necessary relations, mixes state levels, removes genealogy, turns hypotheses into dogmas or attributed dogmas into real hypotheses, and then judges the result as though it were the original framework.
 
 > **SIMPLIFY TO ENTER ≠ REDUCE TO JUDGE.**
 
-## I. Fidelity before Compression™
+## I. The problem is not summarising
 
-> Every compression of the framework must preserve the relations required to prevent meaning from changing category.
+Every mind summarises. Every interface selects. Every form of teaching introduces layers.
 
-A summary should state what it contains, what it omits, what level it represents, where the complete source is, and what conclusions cannot legitimately be drawn from the compressed version.
+The problem begins when a summary ceases to declare itself as a summary.
 
-## II. Proportional Depth™
+An entry point may say:
 
-Not every participant needs to understand the entire framework. Yet the broader the judgement, the deeper the reading required to sustain it.
+> “SAN™ is an open method for scrutinising and improving ideas.”
+
+That may be sufficient for orientation.
+
+But it is not sufficient to evaluate its architecture of memory, cognitive continuity, return to source, delta classification, genealogy, state levels, UMBRAL-X™, documentary fixation, conflict and revision.
+
+The error is not speaking simply. It is **confusing a low-resolution projection with the high-resolution object it projects**.
+
+## II. Fidelity before Compression™
+
+> **Every compression of the framework must preserve the relations required so that meaning does not change category.**
+
+A summarised version should be able to state:
+
+- what it contains;
+- what it omits;
+- which level it represents;
+- which essential relations are left out;
+- which claims are fixed, open, suspended, speculative or refuted;
+- where the complete source is located;
+- and which conclusions cannot be drawn from that compression.
 
 ```text
-ORIENT → access summary
-PARTICIPATE → sufficient understanding of the affected node
-CRITICISE → text + immediate relations
-REFUTE → genealogy + evidence + competing alternatives
-JUDGE THE WHOLE FRAMEWORK → relational reading of the whole architecture
+SOURCE
+→ DECLARED COMPRESSION
+→ MINIMUM RELATIONS PRESERVED
+→ EXPLICIT LIMITS
+→ RETURN TO SOURCE
 ```
 
-## III. Complexity is not truth
+## III. Proportional Depth™
+
+Not every form of participation requires understanding the whole framework.
+
+But the wider the scope of the judgement, the greater the depth of reading required to sustain it.
+
+```text
+ORIENT
+→ access summary
+
+PARTICIPATE
+→ sufficient understanding of the affected node
+
+CRITICISE
+→ reading of the text + immediate relations
+
+REFUTE
+→ genealogy + evidence + competing alternatives
+
+JUDGE THE WHOLE FRAMEWORK
+→ relational reading of the complete architecture
+```
+
+The rule protects both the framework and the critic. A deep objection may defeat a deep thesis. A caricature cannot.
+
+## IV. Complexity does not equal truth
+
+The fact that a system is difficult to understand does not demonstrate that it is correct.
+
+The fact that a person does not understand it at first does not demonstrate that the system is false either.
+
+Complexity may conceal errors. It may also be the genuine consequence of an architecture integrating multiple domains, scales and genealogies.
+
+Therefore:
 
 ```text
 COMPLEXITY ≠ TRUTH
@@ -331,21 +384,114 @@ SIMPLICITY ≠ FALSEHOOD
 SUMMARY ≠ TOTALITY
 ```
 
-The perceived need for extraordinary intellectual capacity must be treated as a cognitive-architecture and documentation problem, not as grounds for creating an intellectual caste.
+## V. Required intelligence must not become a caste
 
-## IV. Layered Access™
+The current perception that understanding the complete framework requires extraordinary intellectual capacity must be treated as a **problem of cognitive architecture and documentation**, not as a title of nobility.
 
-The same object may have legitimate resolutions: a thirty-second entrance, a five-minute orientation, a thematic node, an architectural layer and the complete source. Every layer should link deeper and preserve return to source.
+It is not fixed as a psychometric fact that “Nobel Prize intelligence” is required. That expression indicates a perceived very high cognitive load.
 
-## V. AI and explanation
+If the framework could only be understood by an exceptional elite, it would have a civilisational access problem.
 
-AI may adapt explanations to readers but should disclose simplification level, preserved relations, omitted relations, sources and uncertainties whenever the task requires faithful representation of the framework.
+For that reason the following must coexist:
 
-AI must not silently replace the corpus with an instantaneous interpretation.
+- a simple citizen layer;
+- intermediate learning layers;
+- deep documentation;
+- permanent return to source;
+- and AI tools capable of adapting explanations without destroying relations.
 
-## VI. Accessibility without deformation
+Cognitive excellence must serve to **open understanding**, not to monopolise it.
 
-Citizen participation should be easy. Global judgement should require proportionally deeper reading.
+## VI. Reduction antipatterns
+
+The following are invalid reductions when they pretend to replace the object:
+
+- “Neodialectics is a philosophy about AI”;
+- “SAN™ is simply debate”;
+- “UMBRAL-X™ is a filter for accepting or rejecting ideas”;
+- “Archetypal Refragmentation™ is mythology”;
+- “NEOCore™ is a chatbot”;
+- “WEB4™ is a website”;
+- “Neoaxioms™ are dogmas”;
+- “everything speculative in the framework is presented as science”;
+- “the whole framework depends on a single theory”;
+- or any reading of an isolated branch presented as an exhaustive description of the system.
+
+A simplification may use such phrases as an initial approximation only if it immediately declares their limits.
+
+## VII. Compression with semantic loss
+
+Loss is not measured only by the number of words removed.
+
+A single relation may be erased and the meaning changed completely.
+
+Example:
+
+```text
+OPEN HYPOTHESIS
+- UMBRAL-X
+- PROVISIONAL STATE
+= APPARENT DOGMATIC CLAIM
+```
+
+Or:
+
+```text
+GENEALOGICAL AUTHORITY
+- OPEN SYNTHESIS
+= APPARENT INFALLIBILITY
+```
+
+The system should therefore begin to consider **relational loss** in addition to textual loss.
+
+## VIII. Principle of Layered Access™
+
+The same object may have different legitimate resolutions:
+
+```text
+LAYER 0 · 30 seconds
+What is it and why should I care?
+
+LAYER 1 · 5 minutes
+What problem does it solve and how do I participate?
+
+LAYER 2 · thematic node
+What do I need to understand for this question?
+
+LAYER 3 · architecture
+How does it relate to the rest of the framework?
+
+LAYER 4 · complete source
+Genealogy, documents, contradictions, states and traceability.
+```
+
+Each layer must link to the next and preserve return to source.
+
+## IX. AI and responsibility for explanation
+
+AI may help produce explanations adapted to the reader, but it must avoid two errors:
+
+1. inventing coherence that does not exist;
+2. destroying real coherence in order to produce a comfortable answer.
+
+A good assisted explanation should be able to declare:
+
+- the level of simplification;
+- preserved relations;
+- omitted relations;
+- sources used;
+- uncertainties;
+- and the possibility of going deeper.
+
+AI must not replace the corpus with its instantaneous interpretation.
+
+## X. Relation to citizen participation
+
+This manifesto does not contradict the need to make Open Synthesis easier.
+
+It reinforces it.
+
+Non-specialist citizens must be able to contribute without studying all of NEOCore™. But anyone who intends to judge the whole must proportionally increase the depth of reading.
 
 ```text
 EASY ENTRY
@@ -359,14 +505,67 @@ PROPORTIONAL JUDGEMENT
 ACCESSIBILITY WITHOUT DISTORTION
 ```
 
-## VII. Anti-elitist safeguard
+## XI. Relations with the corpus
 
-Framework complexity cannot immunise it from criticism. «You do not understand it» is not an argument. A claim of crude simplification must identify the missing relation and show how its omission changes the conclusion.
+This manifesto is directly related to:
 
-> **The critic must represent the criticised object faithfully. The defender must demonstrate where distortion occurs.**
+- II · Neodialectical Open Synthesis™;
+- IX · Memory, Genealogy and Traceability™;
+- XVI · Archetypal Refragmentation™;
+- XX · Neodialectical Intellectual Defence™ / UMBRAL-X™;
+- XLV · Neodialectical Multidimensionality™;
+- XLVIII · Synthesis Sees Everything™;
+- LIX · Distributed Cognitive Custodianship™;
+- LX · Necessary Human Relevance™;
+- LXII · Game for Synthesis and Honor™;
+- Delta #102 · Protected Progressive Autonomy™ and cognitive accessibility;
+- Delta #104 · Non-Absolutisation of Scale™;
+- NAX-03 · No Prior Homogenisation™;
+- NAX-05 · Monadic Differential and Return to Source™;
+- NAX-06 · Memory of Absence™;
+- and the non-reductive integrity rule of the Neoaxiomatic layer.
 
-## VIII. Open Synthesis
+## XII. Safeguard against elitism
 
-[Issue #105 · Open Synthesis LXIII](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/105)
+The framework cannot use its own complexity to immunise itself against criticism.
 
-Contributions are requested on semantic-loss measurement, conceptual graph compression, layered UX, education, technical documentation and philosophy of science.
+“You do not understand it” can never replace an argued response.
+
+If criticism is based on a simplification, it must be shown **which specific relation is missing and why that omission changes the conclusion**.
+
+If this cannot be done, the accusation of simplification must itself remain open to review.
+
+The requirement is symmetrical:
+
+> **The critic must represent faithfully what is being criticised. The defender must demonstrate where the distortion lies.**
+
+## XIII. Proclamation
+
+> We do not ask for reverence before complexity.
+>
+> We ask for fidelity before judgement.
+>
+> A map may be small. A gate may be simple. An explanation may fit into thirty seconds.
+>
+> But no one should confuse the gate with the city, the map with the territory, or the summary with the complete network of relations that made it possible.
+>
+> To simplify is to open.
+>
+> To reduce until deformation is to close while pretending to have understood.
+
+## XIV. Open Synthesis
+
+[Issue #105 · LXIII Open Synthesis](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/105)
+
+Methods are requested for measuring semantic loss, conceptual-graph compression, layered UX, education, technical documentation, philosophy of science, and criticisms capable of demonstrating that this rule is excessive, insufficient or incorrect.
+
+### Internal links
+
+- [XVI · Archetypal Refragmentation™](./16_refragmentacion_arquetipica_ES_EN.md)
+- [XX · UMBRAL-X™](./20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
+- [XLV · Neodialectical Multidimensionality™](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
+- [XLVIII · Synthesis Sees Everything™](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
+- [LXI · Multiscale Experimental Custodianship™](./61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md)
+- [LXII · Game for Synthesis and Honor™](./62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md)
+- [Neoaxioms™](../neoaxiomas/README.md)
+- [Open Synthesis](../propuestas/sintesis-abierta/README.md)
