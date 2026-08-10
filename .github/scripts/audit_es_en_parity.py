@@ -34,9 +34,10 @@ def headings(s):
     return [x.strip() for x in re.findall(r'^#{2,6}\s+(.+)$',s,re.M)]
 
 def numbered_section_ids(s):
+    """Compare only principal H2 numbered sections; nested numbered subheads are not language-section identity."""
     ids=[]
-    for h in headings(s):
-        m=re.match(r'^((?:\d+)|(?:[IVXLCDM]+))\.\s+',h)
+    for h in re.findall(r'^##\s+(.+)$',s,re.M):
+        m=re.match(r'^((?:\d+)|(?:[IVXLCDM]+))\.\s+',h.strip())
         if m:
             ids.append(m.group(1))
     return ids
@@ -73,7 +74,7 @@ for base in TARGETS:
         if ratio > 1.55:
             status='REVISAR'; reasons.append(f'EN/ES palabras={ratio:.2f}')
         if rel.startswith('manifiestos/') and es_ids and es_ids != en_ids:
-            status='REVISAR'; reasons.append(f'secciones numeradas ES={es_ids}, EN={en_ids}')
+            status='REVISAR'; reasons.append(f'secciones principales ES={es_ids}, EN={en_ids}')
         rows.append((rel,ew,nw,ratio,eh,nh,status,'; '.join(reasons)))
         if status!='OK': flagged.append(rows[-1])
 
@@ -88,9 +89,9 @@ lines.append('## Criterio')
 lines.append('')
 lines.append('- Se compara recuento aproximado de palabras entre las secciones ES y EN.')
 lines.append('- Se compara el número de encabezados internos como señal de estructura perdida.')
-lines.append('- En `manifiestos/*.md` se compara además la secuencia de identificadores de secciones numeradas (1, 2, 3… o I, II, III…) para impedir que una traducción omita capítulos aunque el volumen total parezca suficiente.')
+lines.append('- En `manifiestos/*.md` se compara además la secuencia de identificadores de secciones principales H2 numeradas (1, 2, 3… o I, II, III…) para impedir que una traducción omita capítulos aunque el volumen total parezca suficiente. Los subapartados H3+ no se usan como identidad de sección principal.')
 lines.append('- Se excluyen de ambos lados bloques compartidos de relaciones, navegación, invitación a Síntesis Abierta y otros bloques automáticos bilingües.')
-lines.append('- Se marca **REVISAR** si EN tiene menos del 78% de palabras de ES, más del 155%, pierde de forma importante la estructura de encabezados o no conserva la misma secuencia de secciones numeradas en un manifiesto.')
+lines.append('- Se marca **REVISAR** si EN tiene menos del 78% de palabras de ES, más del 155%, pierde de forma importante la estructura de encabezados o no conserva la misma secuencia de secciones principales numeradas en un manifiesto.')
 lines.append('- Es un detector: cada caso marcado requiere lectura humana antes de corregir.')
 lines.append('')
 lines.append(f'**Documentos bilingües examinados:** {len(rows)}  ')
