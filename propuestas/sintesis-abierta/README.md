@@ -2,7 +2,7 @@
 ## Neodialectical Open Synthesis™
 
 **Estado / Status:** **Síntesis iniciada / Synthesis Initiated · 2026-08-09**  
-**Cobertura actual / Current coverage:** **65 manifiestos finitos · I–LXV + Manifiesto ∞ · 14 Neoaxiomas™ · síntesis transversales, auditorías y proyectos / 65 finite manifestos · I–LXV + Manifesto ∞ · 14 Neoaxioms™ · transversal syntheses, audits and projects**
+**Cobertura actual / Current coverage:** **68 manifiestos finitos · I–LXVIII + Manifiesto ∞ · 14 Neoaxiomas™ · síntesis transversales, auditorías y proyectos / 68 finite manifestos · I–LXVIII + Manifesto ∞ · 14 Neoaxioms™ · transversal syntheses, audits and projects**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english) · **[Índice completo / Complete index](INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md)**
 
@@ -30,8 +30,8 @@ JUZGAR TODO EL MARCO
 
 <!-- NEOAXIOMAS_GLOBAL_LINK_START -->
 
-## NEOCore™ 7.1 · Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™
-## NEOCore™ 7.1 · First Fractal Multihead Layer™ + Neoaxiomatic Layer™
+## NEOCore™ 7.2 · Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™ + Soberanía de Síntesis™
+## NEOCore™ 7.2 · First Fractal Multihead Layer™ + Neoaxiomatic Layer™ + Synthesis Sovereignty™
 
 Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin convertirse en dogmas cerrados: permanecen abiertos a contraste, evidencia, crítica, refutación y revisión mediante **Síntesis Abierta Neodialéctica™ — SAN™**. / **Neoaxioms™** express high-stability principles of NEOCore™ without becoming closed dogma: they remain open to challenge, evidence, criticism, refutation and revision through **Neodialectical Open Synthesis™ — SAN™**.
 
@@ -84,9 +84,9 @@ Cada Neoaxioma dispone de un espacio de contraste propio además de la matriz ge
 
 > ## 🔴 ÚLTIMO MANIFIESTO FINITO ABIERTO A SÍNTESIS / LATEST FINITE MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LXV · NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte**
+> **LXVIII · Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™**
 >
-> **[Leer LXV / Read LXV](../../manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md) · [Síntesis LXV · #109](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/109)**
+> **[Leer LXVIII / Read LXVIII](../../manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md) · [Síntesis LXVIII · #114 / Synthesis LXVIII · #114](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/114)**
 
 > ## ∞ · PUERTA ABIERTA PERMANENTE / PERMANENT OPEN DOOR
 >

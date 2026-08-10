@@ -2,7 +2,7 @@
 ## Neoaxioms™ · Open Axiomatic Layer of NEOCore™
 
 **Estado / Status:** **SÍNTESIS ABIERTA · OPEN SYNTHESIS**  
-**Marco / Framework:** **NEOCore™ 7.1 · Filosofía Arquetípica Neodialéctica™**  
+**Marco / Framework:** **NEOCore™ 7.2 · Filosofía Arquetípica Neodialéctica™**  
 **Fecha de apertura / Opening date:** **2026-08-09**  
 **Origen humano / Human origin:** **Pedro Martínez Alhambra · Neo0™**  
 **Función / Function:** hacer explícita la capa axiomática evolutiva del marco sin convertirla en dogma cerrado. / to make the framework's evolving axiomatic layer explicit without turning it into closed dogma.
@@ -12,8 +12,8 @@
 
 <!-- NEOAXIOMAS_GLOBAL_LINK_START -->
 
-## NEOCore™ 7.1 · Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™
-## NEOCore™ 7.1 · First Fractal Multihead Layer™ + Neoaxiomatic Layer™
+## NEOCore™ 7.2 · Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™ + Soberanía de Síntesis™
+## NEOCore™ 7.2 · First Fractal Multihead Layer™ + Neoaxiomatic Layer™ + Synthesis Sovereignty™
 
 Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin convertirse en dogmas cerrados: permanecen abiertos a contraste, evidencia, crítica, refutación y revisión mediante **Síntesis Abierta Neodialéctica™ — SAN™**. / **Neoaxioms™** express high-stability principles of NEOCore™ without becoming closed dogma: they remain open to challenge, evidence, criticism, refutation and revision through **Neodialectical Open Synthesis™ — SAN™**.
 
@@ -34,6 +34,23 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 **Navegación / Navigation:** [Síntesis Abierta™](../propuestas/sintesis-abierta/README.md) · [Cómo aportar / How to contribute](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Manifiestos / Manifestos](../manifiestos/README.md) · [Memoria, Genealogía y Trazabilidad](../manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md) · [Multidimensionalidad Neodialéctica™](../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) · [Custodia Cognitiva Distribuida™](../manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md) · [Mapa transversal / Transversal map](../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md)
 
 ---
+
+<!-- NEOAXIOM_CANDIDATES_72_START -->
+
+## Candidatos neoaxiomáticos detectados en el repaso I–LXVIII / Neoaxiomatic candidates detected in the I–LXVIII review
+
+**Estado:** candidatos visibles para SAN™; **no se promueven automáticamente a NAX-15+**. / **Status:** visible candidates for SAN™; **not automatically promoted to NAX-15+**.
+
+| Candidato / Candidate | Procedencia / Provenance | Estado / Status |
+|---|---|---|
+| **C-NAX-15 · Soberanía Intelectual de la Especie™ / Intellectual Sovereignty of the Species™** | [LXVIII](../manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md) | **Candidato explícito** en LXVIII; pendiente de contraste suficiente / **Explicit candidate** in LXVIII; pending sufficient scrutiny |
+| **C-NAX-16 · No Coronación de la Parte™ / Non-Crowning of the Part™** | [LXII](../manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md) + [∞](../manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) | Candidato 7.2: persona, IA, Fundación, Corporación, mayoría o subsistema no equivalen al Todo / 7.2 candidate: person, AI, Foundation, Corporation, majority or subsystem do not equal the Whole |
+| **C-NAX-17 · Reconstrucción Sistémica™ / Systemic Reconstruction™** | [LXVII](../manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md) | Principio manifiesto; candidato a evaluación, no canonizado / Manifest principle; candidate for evaluation, not canonicalised |
+| **C-NAX-18 · Motor del Bien Común + NeoSinergia™ / Common-Good Engine + NeoSynergy™** | [LXVI](../manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md) + [LXVII](../manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md) | Candidato relacional a síntesis; no convierte cooperación en coerción / Relational synthesis candidate; does not turn cooperation into coercion |
+
+**Regla 7.2 / 7.2 rule:** la futura **Innova_N Fundación** puede custodiar propósito, memoria y Bien Común; la futura **Innova_N Corporación** puede materializar infraestructura y sostenibilidad. Ninguna adquiere soberanía epistemológica por su forma jurídica. Ambas quedan subordinadas a gobernanza humana, legalidad, trazabilidad, auditoría y SAN™. / the future **Innova_N Foundation** may guard purpose, memory and the Common Good; the future **Innova_N Corporation** may materialise infrastructure and sustainability. Neither acquires epistemic sovereignty through legal form. Both remain subject to human governance, law, traceability, audit and SAN™.
+
+<!-- NEOAXIOM_CANDIDATES_72_END -->
 
 # ES · Castellano
 

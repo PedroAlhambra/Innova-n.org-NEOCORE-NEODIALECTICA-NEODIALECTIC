@@ -35,7 +35,7 @@ waves=24 if count >= 59 else 23 if count >= 56 else max(1,count)
 
 latest_text=LATEST.read_text(encoding='utf-8')
 im=re.search(r'https://github\.com/PedroAlhambra/Innova-n\.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/(\d+)',latest_text)
-issue_num=im.group(1) if im else {'LVII':'77','LVIII':'78','LIX':'79'}.get(roman)
+issue_num=im.group(1) if im else {'LVII':'77','LVIII':'78','LIX':'79','LXVI':'110','LXVII':'112','LXVIII':'114'}.get(roman)
 if not issue_num:
     raise SystemExit(f'Cannot resolve Open Synthesis issue for {roman}')
 issue_url=f'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/{issue_num}'

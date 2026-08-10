@@ -267,6 +267,14 @@
     "LXVI": {
       "legacy": "manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md",
       "canonical": "manifiestos/canonicos/LXVI_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md"
+    },
+    "LXVII": {
+      "legacy": "manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md",
+      "canonical": "manifiestos/canonicos/LXVII_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md"
+    },
+    "LXVIII": {
+      "legacy": "manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md",
+      "canonical": "manifiestos/canonicos/LXVIII_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md"
     }
   }
 }

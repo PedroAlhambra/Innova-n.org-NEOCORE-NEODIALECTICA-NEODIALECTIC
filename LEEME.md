@@ -1,6 +1,6 @@
 <!-- MANIFESTOS_CURRENT_START -->
 
-**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LXV · 65 manifiestos bilingües / 65 bilingual manifestos** · [índice canónico / canonical index](manifiestos/README.md)
+**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LXVIII · 68 manifiestos bilingües / 68 bilingual manifestos** · [índice canónico / canonical index](manifiestos/README.md)
 
 <!-- MANIFESTOS_CURRENT_END -->
 
@@ -19,23 +19,34 @@
 
 > ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LXV · NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™**
+> **LXVIII · Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™**
 >
-> **[Leer LXV / Read LXV](manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md) · [Síntesis Abierta LXV · #109 / Open Synthesis LXV · #109](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/109)**  
-> [Seguir marco / Follow framework](proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [Registrar entrada / Register entry](propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Cómo aportar / How to contribute](propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™](propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas / Public audits](auditorias/publicas/README.md) · [65 manifiestos / manifestos · I–LXV](manifiestos/README.md)
+> **[Leer LXVIII / Read LXVIII](manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md) · [Síntesis Abierta LXVIII · #114 / Open Synthesis LXVIII · #114](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/114)**  
+> [Seguir marco / Follow framework](proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [Registrar entrada / Register entry](propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Cómo aportar / How to contribute](propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™](propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas / Public audits](auditorias/publicas/README.md) · [68 manifiestos / manifestos · I–LXVIII](manifiestos/README.md)
 
 <!-- NEO_LATEST_MANIFESTO_END -->
 
 <!-- NEOAXIOMAS_GLOBAL_LINK_START -->
 
-## NEOCore™ 7.1 · Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™
-## NEOCore™ 7.1 · First Fractal Multihead Layer™ + Neoaxiomatic Layer™
+## NEOCore™ 7.2 · Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™ + Soberanía de Síntesis™
+## NEOCore™ 7.2 · First Fractal Multihead Layer™ + Neoaxiomatic Layer™ + Synthesis Sovereignty™
 
 Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin convertirse en dogmas cerrados: permanecen abiertos a contraste, evidencia, crítica, refutación y revisión mediante **Síntesis Abierta Neodialéctica™ — SAN™**. / **Neoaxioms™** express high-stability principles of NEOCore™ without becoming closed dogma: they remain open to challenge, evidence, criticism, refutation and revision through **Neodialectical Open Synthesis™ — SAN™**.
 
 **[Abrir Neoaxiomas™ / Open Neoaxioms™](neoaxiomas/README.md)** · **[Síntesis Abierta Neoaxiomas™ / Neoaxioms Open Synthesis](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)** · **[Protocolo / Protocol](propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md)**
 
 <!-- NEOAXIOMAS_GLOBAL_LINK_END -->
+
+<!-- NEOCORE_72_DELTA_START -->
+
+## NEOCore™ 7.2 · Delta actual / Current delta
+
+**Soberanía de Síntesis™ + Innova_N Fundación/Corporación futuras + corpus I–LXVIII + ∞ + WEB4™ actualizado.**  
+La Fundación custodiará propósito y Bien Común; la Corporación materializará infraestructura y sostenibilidad; ninguna sustituye a la Síntesis. NeoCronos™ permanece experimental y revisable. / The Foundation will guard purpose and the Common Good; the Corporation will materialise infrastructure and sustainability; neither replaces Synthesis. NeoCronos™ remains experimental and revisable.
+
+**[Leer delta 7.2 / Read 7.2 delta](proyeccion/NEOCORE_7_2_DELTA_ES_EN.md)** · **[WEB4™](web4/README.md)** · **[Neoaxiomas™](neoaxiomas/README.md)**
+
+<!-- NEOCORE_72_DELTA_END -->
 
 <!-- NEO_RELATIONAL_MENU_START -->
 
@@ -48,7 +59,7 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 ## Manifiestos / Manifestos
 
-**I–LXV · 65 manifiestos bilingües · 24 oleadas / 65 bilingual manifestos · 24 waves.**  
+**I–LXVIII · 68 manifiestos bilingües · 24 oleadas / 68 bilingual manifestos · 24 waves.**  
 Los manifiestos son pilares públicos del marco, no equivalentes al marco completo. / The manifestos are public pillars of the framework, not equivalents of the complete framework.
 
 **[Abrir índice canónico y navegable / Open canonical navigable index →](manifiestos/README.md)**
@@ -61,7 +72,7 @@ Los manifiestos son pilares públicos del marco, no equivalentes al marco comple
 
 Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. / You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta.
 
-**Última síntesis / Latest synthesis:** [LXV · NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™](manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md) · [Issue #109](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/109)  
+**Última síntesis / Latest synthesis:** [LXVIII · Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™](manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md) · [Issue #114](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/114)  
 **Seguimiento vivo / Living follow-up:** [seguir el marco / follow the framework](proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [registro de entrada / entry register](propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)  
 **Auditorías / Audits:** [LIII · Leónidas™](manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo / protocol](propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
 **Cómo aportar / How to contribute:** [protocolo general / general protocol](propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](auditorias/publicas/README.md) · [índice / index](propuestas/sintesis-abierta/README.md)
@@ -83,7 +94,7 @@ Este repositorio conserva la capa pública, documental y trazable del ecosistema
 * [L · Por una Inteligencia Compartida, no Única™](./manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
 * [Síntesis Abierta L · Issue #58](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/58)
 
-* [Índice navegable de manifiestos I–LXV](./manifiestos/README.md)
+* [Índice navegable de manifiestos I–LXVIII](./manifiestos/README.md)
 * [XXXVIII · Protección Integral de la Infancia™](./manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
 * [XXXIX · Autoconciencia de la Necesidad Vital Neodialéctica™](./manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md)
 * [XL · Respeto Neodialéctico, Neoego y Honor Relacional™](./manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md)
@@ -737,7 +748,7 @@ This repository preserves the public, documentary and traceable layer of the **I
 * [L · For Shared, Not Singular Intelligence™](./manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
 * [Open Synthesis L · Issue #58](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/58)
 
-* [Navigable manifesto index I–LXV](./manifiestos/README.md)
+* [Navigable manifesto index I–LXVIII](./manifiestos/README.md)
 * [Historical fourth-wave announcement](./anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md)
 * [Sixth-wave and transverse-deltas announcement](./anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md)
 * [XXXIII · IDEA · Civilisational Cornerstone and Rosetta Stone™](./manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)

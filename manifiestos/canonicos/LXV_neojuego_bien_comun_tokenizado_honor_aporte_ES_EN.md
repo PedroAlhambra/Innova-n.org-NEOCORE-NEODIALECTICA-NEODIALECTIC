@@ -2,7 +2,7 @@
 # LXV · NeoGame™ · Tokenised Game for the Common Good and Honor of Contribution
 
 **Manifiesto / Manifesto:** LXV  
-**Versión / Version:** 1.2  
+**Versión / Version:** 1.1  
 **Estado / Status:** Público · abierto a Síntesis Abierta / Public · open to Open Synthesis  
 **Fecha / Date:** 2026-08-10  
 **Autoría / Authorship:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico.  
@@ -246,17 +246,20 @@ LXII fijó:
 
 > **Su Majestad es la Síntesis.**
 
-LXV mantiene esa regla frente a la tokenización.
+LXV mantiene esa regla frente a la tokenización y la futura institucionalización de Innova_N.
 
-Ni el mayor poseedor de tokens, ni el fundador, ni una IA, ni un patrocinador, ni la persona con más tiempo acumulado adquiere por ello soberanía epistemológica automática.
+Ni el mayor poseedor de tokens, ni el fundador, ni una IA, ni un patrocinador, ni Innova_N Fundación, ni Innova_N Corporación, ni la persona con más tiempo acumulado adquiere por ello soberanía epistemológica automática.
 
 ```text
 TOKEN ≠ VERDAD
 CAPITAL ≠ VERDAD
 POPULARIDAD ≠ VERDAD
 AUTORÍA ≠ VERDAD
+INSTITUCIÓN ≠ VERDAD
 IA ≠ VERDAD
 ```
+
+Fundación y Corporación pueden custodiar y materializar; ninguna puede comprar, poseer o cerrar la Síntesis.
 
 ## 13. Relaciones internas
 
@@ -528,17 +531,20 @@ LXII established:
 
 > **Her Majesty is Synthesis.**
 
-LXV preserves that rule in the face of tokenisation.
+LXV preserves that rule against tokenisation and the future institutionalisation of Innova_N.
 
-Neither the largest token holder, nor the founder, nor an AI, nor a sponsor, nor the person with the most accumulated time thereby acquires automatic epistemic sovereignty.
+Neither the largest token holder, nor the founder, nor an AI, nor a sponsor, nor the Innova_N Foundation, nor the Innova_N Corporation, nor the person with the most accumulated time thereby acquires automatic epistemic sovereignty.
 
 ```text
 TOKEN ≠ TRUTH
 CAPITAL ≠ TRUTH
 POPULARITY ≠ TRUTH
 AUTHORSHIP ≠ TRUTH
+INSTITUTION ≠ TRUTH
 AI ≠ TRUTH
 ```
+
+Foundation and Corporation may guard and materialise; neither may buy, own or close Synthesis.
 
 ## 13. Internal relations
 
@@ -591,6 +597,7 @@ AI ≠ TRUTH
 - **LXII** · [Juego por la Síntesis y el Honor™ / The Game for Synthesis and Honor™](LXII_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md)
 - **LXIII** · [Contra la Simplificación Burda del Marco™ / Against Crude Simplification of the Framework™](LXIII_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md)
 - **LXIV** · [NeoCronos™ · Medición y Tokenización del Aporte en Síntesis Abierta / NeoCronos™ · Measurement and Tokenisation of Contribution in Open Synthesis](LXIV_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md)
+- **LXVI** · [NeoSinergia™ · Necesidad de Cooperación en Neowar™ Activa · Sistema MÉDICI™ · Leónidas–Cancerbero™ / NeoSynergy™ · Necessary Cooperation under Active Neowar™ · MÉDICI™ System · Leónidas–Cerberus™](LXVI_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 

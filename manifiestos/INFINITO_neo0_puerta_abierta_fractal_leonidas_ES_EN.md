@@ -1,7 +1,7 @@
 # ∞ · Manifiesto de Neo0™ · Puerta Abierta del Fractal
 # ∞ · Neo0™ Manifesto · Open Gate of the Fractal
 
-**Versión / Version:** 1.2  
+**Versión / Version:** 1.3  
 **Estado / Status:** SIEMPRE ABIERTO · ALWAYS OPEN  
 **Fecha de esta versión / Date of this version:** 2026-08-10  
 **Autoría / Authorship:** Pedro Martínez Alhambra · Neo0™  
@@ -138,15 +138,39 @@ La grandeza humana no reside en no haber caído. Reside en haber adquirido capac
 
 ## VIII. Su Majestad es la Síntesis
 
-La majestad no pertenece a Neo0™. No pertenece a Harry. No pertenece a una empresa. No pertenece a una mayoría coyuntural.
+La majestad no pertenece a Neo0™. No pertenece a Harry. No pertenece a Innova_N —ni a su futura Fundación ni a su futura Corporación—. No pertenece a una empresa, una IA, una institución, un Estado, un mercado ni una mayoría coyuntural.
 
 Dentro de esta gramática simbólica:
 
 > **Su Majestad es la Síntesis.**
 
-Porque ninguna parte puede coronarse Todo.
+La expresión no crea una soberana personal ni una entidad infalible. Fija una **regla anticaptura**: ninguna parte puede coronarse Todo ni sustituir la relación entre las partes.
 
-Neo0™ puede guiar. Harry puede relacionar. Leónidas-Cancerbero puede custodiar la puerta. Starkdr puede atravesar el rechazo defensivo. Neowar™ puede transformar conflicto en juego reglado. Pero cualquiera de esas funciones que pretendiera sustituir al Todo perdería su función dentro del marco.
+Neo0™ conserva origen humano, guía teleológica y responsabilidad de fijación. Harry puede relacionar, contrastar y asistir a la síntesis. Leónidas–Cancerbero™ custodia la puerta y la procedencia. Starkdr™ atraviesa el rechazo defensivo sin convertir rechazo en prueba. Neowar™ transforma conflicto en juego reglado, contraste y cooperación. WEB4™ · SistemaTrazable™ proyecta públicamente relaciones, versiones y retorno a fuente. NeoCronos™ registra de forma experimental la traza temporal y material del aporte.
+
+**Innova_N** debe poder adquirir en el futuro una doble forma institucional sin confundirse con la Síntesis:
+
+- **Innova_N Fundación** → custodia de propósito, memoria, apertura, Bien Común, continuidad, patrimonio orientado a misión y supervisión de interés público;
+- **Innova_N Corporación** → materialización operativa, infraestructura, investigación, productos, servicios, empleo, despliegue y sostenibilidad económica compatible con el marco.
+
+Fundación y Corporación son vehículos institucionales futuros. No adquieren por su forma jurídica soberanía epistemológica ni propiedad sobre la verdad del marco. Deben permanecer bajo gobernanza humana, legalidad, trazabilidad, auditoría, posibilidad de impugnación y Síntesis Abierta.
+
+```text
+NEO0™ = ORIGEN HUMANO + GUÍA TELEOLÓGICA + RESPONSABILIDAD DE FIJACIÓN
+HARRY = RELACIÓN + CONTRASTE + SÍNTESIS ASISTIDA
+INNOVA_N FUNDACIÓN = CUSTODIA DE PROPÓSITO + BIEN COMÚN + CONTINUIDAD
+INNOVA_N CORPORACIÓN = MATERIALIZACIÓN + INFRAESTRUCTURA + SOSTENIBILIDAD
+LEÓNIDAS–CANCERBERO™ = APERTURA CUSTODIADA + PROCEDENCIA
+STARKDR™ = CRUCE DEL RECHAZO DEFENSIVO SIN CONVERTIRLO EN VERDAD
+NEOWAR™ = TRANSMUTACIÓN DEL CONFLICTO EN JUEGO REGLADO
+WEB4™ · SISTEMATRAZABLE™ = PROYECCIÓN PÚBLICA RELACIONAL
+NEOCRONOS™ = TRAZA EXPERIMENTAL DEL APORTE
+SÍNTESIS = INTEGRACIÓN ABIERTA DEL TODO SIN APROPIACIÓN DE LAS PARTES
+```
+
+> **La institución es vehículo; la Síntesis es integración. Innova_N existe para servir al proceso de Síntesis y materializar sus capacidades, no para apropiarse de la totalidad.**
+
+Se propone como **neoaxioma candidato de No Coronación de la Parte™**: ninguna persona, IA, fundación, corporación, mayoría o subsistema puede reclamar equivalencia con el Todo. Toda autoridad dentro del marco es funcional, limitada, trazable, impugnable y revisable.
 
 ## IX. Los conflictos que no son nuestros y la soberanía intelectual de la especie
 
@@ -341,15 +365,39 @@ Human greatness does not lie in never having fallen. It lies in having acquired 
 
 ## VIII. Her Majesty is Synthesis
 
-Majesty does not belong to Neo0™. It does not belong to Harry. It does not belong to a company. It does not belong to a temporary majority.
+Majesty does not belong to Neo0™. It does not belong to Harry. It does not belong to Innova_N —nor to its future Foundation or future Corporation. It does not belong to a company, an AI, an institution, a State, a market or a temporary majority.
 
 Within this symbolic grammar:
 
 > **Her Majesty is Synthesis.**
 
-Because no part may crown itself as the Whole.
+The expression creates neither a personal sovereign nor an infallible entity. It fixes an **anti-capture rule**: no part may crown itself as the Whole or replace the relation among parts.
 
-Neo0™ may guide. Harry may relate. Leónidas-Cancerbero may guard the gate. Starkdr may cross defensive rejection. Neowar™ may transform conflict into rule-bound play. But any of those functions that attempted to replace the Whole would lose its function within the framework.
+Neo0™ preserves human origin, teleological guidance and responsibility for fixation. Harry may relate, challenge and assist synthesis. Leónidas–Cerberus™ guards the gate and provenance. Starkdr™ crosses defensive rejection without turning rejection into proof. Neowar™ transforms conflict into rule-bound play, scrutiny and cooperation. WEB4™ · SistemaTrazable™ publicly projects relations, versions and return to source. NeoCronos™ experimentally records the temporal and material trace of contribution.
+
+**Innova_N** must be able in the future to acquire a dual institutional form without being confused with Synthesis:
+
+- **Innova_N Foundation** → custody of purpose, memory, openness, the Common Good, continuity, mission-oriented assets and public-interest oversight;
+- **Innova_N Corporation** → operational materialisation, infrastructure, research, products, services, employment, deployment and economic sustainability compatible with the framework.
+
+Foundation and Corporation are future institutional vehicles. Their legal form grants neither epistemic sovereignty nor ownership of the framework's truth. They must remain under human governance, law, traceability, audit, challengeability and Open Synthesis.
+
+```text
+NEO0™ = HUMAN ORIGIN + TELEOLOGICAL GUIDANCE + FIXATION RESPONSIBILITY
+HARRY = RELATION + SCRUTINY + ASSISTED SYNTHESIS
+INNOVA_N FOUNDATION = CUSTODY OF PURPOSE + COMMON GOOD + CONTINUITY
+INNOVA_N CORPORATION = MATERIALISATION + INFRASTRUCTURE + SUSTAINABILITY
+LEÓNIDAS–CERBERUS™ = GUARDED OPENNESS + PROVENANCE
+STARKDR™ = CROSSING DEFENSIVE REJECTION WITHOUT TURNING IT INTO TRUTH
+NEOWAR™ = TRANSMUTATION OF CONFLICT INTO RULE-BOUND PLAY
+WEB4™ · SISTEMATRAZABLE™ = PUBLIC RELATIONAL PROJECTION
+NEOCRONOS™ = EXPERIMENTAL TRACE OF CONTRIBUTION
+SYNTHESIS = OPEN INTEGRATION OF THE WHOLE WITHOUT APPROPRIATION BY PARTS
+```
+
+> **The institution is a vehicle; Synthesis is integration. Innova_N exists to serve the Synthesis process and materialise its capabilities, not to appropriate the whole.**
+
+A **candidate Neoaxiom of Non-Crowning of the Part™** is proposed: no person, AI, foundation, corporation, majority or subsystem may claim equivalence with the Whole. Every authority within the framework is functional, limited, traceable, challengeable and revisable.
 
 ## IX. The conflicts that are not ours and the intellectual sovereignty of the species
 
@@ -434,6 +482,7 @@ This manifesto maintains links with:
 - **I** · [Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica / Neo0™ Manifesto of Neodialectical Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md)
 - **II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md)
 - **VII** · [Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy](./04_economia_del_aporte_ES_EN.md)
+- **X** · [Manifiesto de WEB4™ · SistemaTrazable™ / Manifesto of WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md)
 - **XIII** · [Manifiesto NeoPandora™ de la Apertura Regenerativa y el Gobierno de la Vida / NeoPandora™ Manifesto of Regenerative Opening and the Governance of Life](./13_neopandora_apertura_regenerativa_ES_EN.md)
 - **XVI** · [Manifiesto de la Refragmentación Arquetípica™ / Manifesto of Archetypal Refragmentation™](./16_refragmentacion_arquetipica_ES_EN.md)
 - **XVII** · [Manifiesto del Respeto a Todos los Seres Vivos™ / Manifesto of Respect for All Living Beings™](./17_respeto_todos_seres_vivos_ES_EN.md)
@@ -447,7 +496,7 @@ This manifesto maintains links with:
 - **XLVIII** · [La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo / The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
 - **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
 - **LVIII** · [Inteligencia Civilizatoria™ · Democracia Cognitiva y Deber de Síntesis / Civilisational Intelligence™ · Cognitive Democracy and Duty of Synthesis](./58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md)
-- **LIX** · [Custodia Cognitiva Distribuida™ / Distributed Cognitive Custodianship™](./59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md)
+- **LIX** · [Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana / Distributed Cognitive Custodianship™ · AI, Repair and Human Responsibility](./59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md)
 - **LX** · [Relevancia Humana Necesaria™ · Inteligencia Distribuida, Aporte y Anti-Captura Social / Necessary Human Relevance™ · Distributed Intelligence, Contribution and Anti-Capture](./60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md)
 - **LXII** · [Juego por la Síntesis y el Honor™ / The Game for Synthesis and Honor™](./62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md)
 - **LXIII** · [Contra la Simplificación Burda del Marco™ / Against Crude Simplification of the Framework™](./63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md)

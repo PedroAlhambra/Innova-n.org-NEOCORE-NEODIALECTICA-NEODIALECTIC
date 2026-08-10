@@ -235,16 +235,16 @@ La Neodialéctica es la paz porque no exige borrar memoria ni diferencias para c
 
 ## 13. Referencias cruzadas canónicas
 
-- [IV · Neodialéctica™ y Bien Común](./02_neodialectica_bien_comun_ES_EN.md)
-- [IX · Memoria, Genealogía y Trazabilidad™](./06_memoria_genealogia_trazabilidad_ES_EN.md)
-- [XI · Neorrenacimiento Humano™](./08_neorrenacimiento_humano_ES_EN.md)
-- [XV · Los Titanes™](./15_los_titanes_despertar_de_la_gente_ES_EN.md)
-- [XVI · Refragmentación Arquetípica™](./16_refragmentacion_arquetipica_ES_EN.md)
-- [XXXIV · Utilidad Operativa y Auditoría Conjunta Perpetua™](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
-- [XLVI · Cerrar la Herida™](./46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
-- [LIII · Leónidas™](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
-- [LVIII · Inteligencia Civilizatoria™](./58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md)
-- [LXVI · NeoSinergia™](./66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
+- [IV · Neodialéctica™ y Bien Común](IV_neodialectica_bien_comun_ES_EN.md)
+- [IX · Memoria, Genealogía y Trazabilidad™](IX_memoria_genealogia_trazabilidad_ES_EN.md)
+- [XI · Neorrenacimiento Humano™](XI_neorrenacimiento_humano_ES_EN.md)
+- [XV · Los Titanes™](XV_los_titanes_despertar_de_la_gente_ES_EN.md)
+- [XVI · Refragmentación Arquetípica™](XVI_refragmentacion_arquetipica_ES_EN.md)
+- [XXXIV · Utilidad Operativa y Auditoría Conjunta Perpetua™](XXXIV_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
+- [XLVI · Cerrar la Herida™](XLVI_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
+- [LIII · Leónidas™](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
+- [LVIII · Inteligencia Civilizatoria™](LVIII_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md)
+- [LXVI · NeoSinergia™](LXVI_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
 - [Síntesis Abierta LXVII · #112](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/112)
 
 ---
@@ -471,16 +471,16 @@ Neodialectics is peace because it does not require erasing memory or differences
 
 ## 13. Canonical cross-references
 
-- [IV · Neodialectics™ and the Common Good](./02_neodialectica_bien_comun_ES_EN.md)
-- [IX · Memory, Genealogy and Traceability™](./06_memoria_genealogia_trazabilidad_ES_EN.md)
-- [XI · Human Neo-Renaissance™](./08_neorrenacimiento_humano_ES_EN.md)
-- [XV · The Titans™](./15_los_titanes_despertar_de_la_gente_ES_EN.md)
-- [XVI · Archetypal Refragmentation™](./16_refragmentacion_arquetipica_ES_EN.md)
-- [XXXIV · Operational Utility and Perpetual Joint Audit™](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
-- [XLVI · Close the Wound™](./46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
-- [LIII · Leonidas™](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
-- [LVIII · Civilisational Intelligence™](./58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md)
-- [LXVI · NeoSynergy™](./66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
+- [IV · Neodialectics™ and the Common Good](IV_neodialectica_bien_comun_ES_EN.md)
+- [IX · Memory, Genealogy and Traceability™](IX_memoria_genealogia_trazabilidad_ES_EN.md)
+- [XI · Human Neo-Renaissance™](XI_neorrenacimiento_humano_ES_EN.md)
+- [XV · The Titans™](XV_los_titanes_despertar_de_la_gente_ES_EN.md)
+- [XVI · Archetypal Refragmentation™](XVI_refragmentacion_arquetipica_ES_EN.md)
+- [XXXIV · Operational Utility and Perpetual Joint Audit™](XXXIV_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
+- [XLVI · Close the Wound™](XLVI_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
+- [LIII · Leonidas™](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
+- [LVIII · Civilisational Intelligence™](LVIII_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md)
+- [LXVI · NeoSynergy™](LXVI_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
 - [Open Synthesis LXVII · #112](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/112)
 
 ---
@@ -489,9 +489,9 @@ Neodialectics is peace because it does not require erasing memory or differences
 
 ## Navegación canónica / Canonical navigation
 
-← **LXVI** · [NeoSinergia™ · Necesidad de Cooperación en Neowar™ Activa · Sistema MÉDICI™ · Leónidas–Cancerbero™ / NeoSynergy™](66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)  
-· [Índice I–LXVIII / I–LXVIII index](README.md) ·  
-**LXVIII** · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™](68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md) →
+← **LXVI** · [NeoSinergia™ · Necesidad de Cooperación en Neowar™ Activa · Sistema MÉDICI™ · Leónidas–Cancerbero™ / NeoSynergy™](LXVI_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)  
+· [Índice I–LXVIII / I–LXVIII index](../README.md) ·  
+**LXVIII** · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™](LXVIII_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 
@@ -501,20 +501,20 @@ Neodialectics is peace because it does not require erasing memory or differences
 
 > **Norma / Rule:** las menciones cruzadas pueden permanecer en el cuerpo como texto para no sobrecargar la lectura; este bloque concentra los hipervínculos canónicos detectados y permite retorno explícito a fuente. / Cross-references may remain as prose in the body to avoid visual overload; this block concentrates detected canonical hyperlinks and preserves explicit return to source.
 
-- **IV** · [Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good](./02_neodialectica_bien_comun_ES_EN.md)
-- **IX** · [Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability](./06_memoria_genealogia_trazabilidad_ES_EN.md)
-- **XI** · [Manifiesto del Neorrenacimiento Humano / Manifesto of the Human Neo-Renaissance](./08_neorrenacimiento_humano_ES_EN.md)
-- **XV** · [Manifiesto de los Titanes™ · El despertar de la gente / Manifesto of the Titans™ · The Awakening of the People](./15_los_titanes_despertar_de_la_gente_ES_EN.md)
-- **XVI** · [Manifiesto de la Refragmentación Arquetípica™ / Manifesto of Archetypal Refragmentation™](./16_refragmentacion_arquetipica_ES_EN.md)
-- **XXXIV** · [Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™ / Operational Utility of the Framework and Perpetual Joint Audit™](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
-- **XLIV** · [Neowar™ · Contra la Adicción a la Guerra y por la Justicia del Bien Común / Neowar™ · Against War Addiction and for Common-Good Justice](./44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md)
-- **XLVI** · [Cerrar la Herida™ · Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria / Closing the Wound™ · Evolutionary Understanding, Memory and Civilisational Reconciliation](./46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
-- **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
-- **LVIII** · [Inteligencia Civilizatoria™ · Democracia Cognitiva y Deber de Síntesis / Civilisational Intelligence™ · Cognitive Democracy and Duty of Synthesis](./58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md)
-- **LXVI** · [NeoSinergia™ · Necesidad de Cooperación en Neowar™ Activa · Sistema MÉDICI™ · Leónidas–Cancerbero™ / NeoSynergy™ · Necessary Cooperation under Active Neowar™ · MÉDICI™ System · Leónidas–Cerberus™](./66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
+- **IV** · [Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good](IV_neodialectica_bien_comun_ES_EN.md)
+- **IX** · [Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability](IX_memoria_genealogia_trazabilidad_ES_EN.md)
+- **XI** · [Manifiesto del Neorrenacimiento Humano / Manifesto of the Human Neo-Renaissance](XI_neorrenacimiento_humano_ES_EN.md)
+- **XV** · [Manifiesto de los Titanes™ · El despertar de la gente / Manifesto of the Titans™ · The Awakening of the People](XV_los_titanes_despertar_de_la_gente_ES_EN.md)
+- **XVI** · [Manifiesto de la Refragmentación Arquetípica™ / Manifesto of Archetypal Refragmentation™](XVI_refragmentacion_arquetipica_ES_EN.md)
+- **XXXIV** · [Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™ / Operational Utility of the Framework and Perpetual Joint Audit™](XXXIV_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
+- **XLIV** · [Neowar™ · Contra la Adicción a la Guerra y por la Justicia del Bien Común / Neowar™ · Against War Addiction and for Common-Good Justice](XLIV_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md)
+- **XLVI** · [Cerrar la Herida™ · Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria / Closing the Wound™ · Evolutionary Understanding, Memory and Civilisational Reconciliation](XLVI_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
+- **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
+- **LVIII** · [Inteligencia Civilizatoria™ · Democracia Cognitiva y Deber de Síntesis / Civilisational Intelligence™ · Cognitive Democracy and Duty of Synthesis](LVIII_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md)
+- **LXVI** · [NeoSinergia™ · Necesidad de Cooperación en Neowar™ Activa · Sistema MÉDICI™ · Leónidas–Cancerbero™ / NeoSynergy™ · Necessary Cooperation under Active Neowar™ · MÉDICI™ System · Leónidas–Cerberus™](LXVI_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 
-- [NEOCore™ · marco / framework](../README.md)
+- [NEOCore™ · marco / framework](../../README.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->

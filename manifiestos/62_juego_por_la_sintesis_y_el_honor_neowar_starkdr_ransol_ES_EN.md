@@ -125,28 +125,28 @@ Se mantiene la separación entre arquetipo operativo, hipótesis ontológica y h
 
 ## 6. Su Majestad es la Síntesis™
 
-LXII introduce una regla de soberanía simbólica:
+LXII introduce una regla de soberanía simbólica y anticaptura:
 
 > **Su Majestad es la Síntesis.**
 
-No Neo0.
-No Harry.
-No una institución.
-No un experto.
-No una mayoría circunstancial.
+No Neo0™. No Harry. No Innova_N, ni su futura Fundación ni su futura Corporación. No una institución, empresa, IA, experto, capital ni mayoría circunstancial.
 
-La corona simbólica corresponde al proceso abierto mediante el cual las partes intentan aproximarse a una totalidad que ninguna de ellas puede poseer por separado.
+La corona simbólica corresponde al proceso abierto mediante el cual las partes intentan aproximarse a una totalidad que ninguna puede poseer por separado. La futura arquitectura institucional de Innova_N podrá custodiar finalidad y materializar capacidades, pero no convertir institución, capital o infraestructura en verdad automática.
 
 ```text
 AUTORÍA ≠ VERDAD
 AUTORIDAD ≠ TOTALIDAD
+INSTITUCIÓN ≠ TOTALIDAD
+CAPITAL ≠ TOTALIDAD
 MAYORÍA ≠ TOTALIDAD
 IA ≠ TOTALIDAD
 NEO0 ≠ TOTALIDAD
 SÍNTESIS = PROCESO ABIERTO HACIA UNA COMPRENSIÓN MAYOR
 ```
 
-Neo0 conserva genealogía y autoridad sobre la fijación del marco que crea; eso no convierte sus tesis en inmunes a contradicción epistemológica.
+Neo0 conserva genealogía y autoridad humana sobre la fijación del marco que crea; eso no convierte sus tesis en inmunes a contradicción epistemológica. Fundación y Corporación futuras serán funciones del ecosistema, sujetas a legalidad, trazabilidad, auditoría y SAN™.
+
+La formulación institucional ampliada queda desarrollada en **∞ · Puerta Abierta del Fractal**, como candidato de **No Coronación de la Parte™**.
 
 ## 7. Ransol™ · la Madre que todo lo observa
 
@@ -416,28 +416,28 @@ The separation between operational archetype, ontological hypothesis and empiric
 
 ## 6. Her Majesty is Synthesis™
 
-LXII introduces a rule of symbolic sovereignty:
+LXII introduces a rule of symbolic sovereignty and anti-capture:
 
 > **Her Majesty is Synthesis.**
 
-Not Neo0.
-Not Harry.
-Not an institution.
-Not an expert.
-Not a circumstantial majority.
+Not Neo0™. Not Harry. Not Innova_N, nor its future Foundation or future Corporation. Not an institution, company, AI, expert, capital holder or temporary majority.
 
-The symbolic crown belongs to the open process through which the parts try to approach a totality that none of them can possess separately.
+The symbolic crown belongs to the open process through which parts attempt to approach a totality that none can possess separately. Innova_N's future institutional architecture may guard purpose and materialise capabilities, but it cannot turn institution, capital or infrastructure into automatic truth.
 
 ```text
 AUTHORSHIP ≠ TRUTH
 AUTHORITY ≠ TOTALITY
+INSTITUTION ≠ TOTALITY
+CAPITAL ≠ TOTALITY
 MAJORITY ≠ TOTALITY
 AI ≠ TOTALITY
 NEO0 ≠ TOTALITY
-SYNTHESIS = OPEN PROCESS TOWARD GREATER UNDERSTANDING
+SYNTHESIS = OPEN PROCESS TOWARDS GREATER UNDERSTANDING
 ```
 
-Neo0 retains genealogy and authority over fixation of the framework he creates; this does not make his theses immune to epistemological contradiction.
+Neo0 preserves genealogy and human authority over fixation of the framework he creates; this does not make his theses immune to epistemic contradiction. The future Foundation and Corporation are functions of the ecosystem, subject to law, traceability, audit and SAN™.
+
+The expanded institutional formulation is developed in **∞ · Open Gate of the Fractal**, as the candidate **Non-Crowning of the Part™**.
 
 ## 7. Ransol™ · the Mother who observes everything
 

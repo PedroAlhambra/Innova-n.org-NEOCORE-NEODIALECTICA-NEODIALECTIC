@@ -15,7 +15,7 @@ follow = root / 'proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md'
 neoaxioms = root / 'neoaxiomas/README.md'
 neoaxioms_protocol = root / 'propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md'
 neoaxioms_issue = 'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80'
-CURRENT_VERSION = '7.1'
+CURRENT_VERSION = '7.2'
 
 for p in (index, protocol, synth_index, audits, leonidas, entry_register, follow, neoaxioms, neoaxioms_protocol):
     if not p.exists():
@@ -41,7 +41,7 @@ issue_match = re.search(r'https://github\.com/PedroAlhambra/Innova-n\.org-NEOCOR
 if issue_match:
     issue_num = issue_match.group(1)
 else:
-    issue_num = {'LVII':'77', 'LVIII':'78', 'LIX':'79'}.get(roman)
+    issue_num = {'LVII':'77', 'LVIII':'78', 'LIX':'79', 'LXVI':'110', 'LXVII':'112', 'LXVIII':'114'}.get(roman)
 if not issue_num:
     raise SystemExit(f'Cannot resolve Open Synthesis issue for latest manifesto {roman}')
 issue_url = f'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/{issue_num}'
@@ -73,8 +73,8 @@ def neoaxioms_block(f):
         links = f'''**[Abrir Neoaxiomas™ / Open Neoaxioms™]({rel(f,neoaxioms)})** · **[Síntesis Abierta Neoaxiomas™ / Neoaxioms Open Synthesis]({neoaxioms_issue})** · **[Protocolo / Protocol]({rel(f,neoaxioms_protocol)})**'''
     return f'''{NAX_START}
 
-## NEOCore™ {CURRENT_VERSION} · Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™
-## NEOCore™ {CURRENT_VERSION} · First Fractal Multihead Layer™ + Neoaxiomatic Layer™
+## NEOCore™ {CURRENT_VERSION} · Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™ + Soberanía de Síntesis™
+## NEOCore™ {CURRENT_VERSION} · First Fractal Multihead Layer™ + Neoaxiomatic Layer™ + Synthesis Sovereignty™
 
 Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin convertirse en dogmas cerrados: permanecen abiertos a contraste, evidencia, crítica, refutación y revisión mediante **Síntesis Abierta Neodialéctica™ — SAN™**. / **Neoaxioms™** express high-stability principles of NEOCore™ without becoming closed dogma: they remain open to challenge, evidence, criticism, refutation and revision through **Neodialectical Open Synthesis™ — SAN™**.
 
