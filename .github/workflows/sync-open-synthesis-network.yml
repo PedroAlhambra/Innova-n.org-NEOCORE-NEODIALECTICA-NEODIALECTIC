@@ -13,6 +13,7 @@ on:
       - '.github/scripts/sync_canonical_manifestos.py'
       - '.github/scripts/normalize_manifesto_indices.py'
       - '.github/scripts/sync_root_navigation.py'
+      - '.github/scripts/audit_markdown_links_readmes.py'
 
 permissions:
   contents: write
@@ -36,6 +37,18 @@ jobs:
         run: python .github/scripts/sync_root_navigation.py
       - name: Generate canonical manifesto representations
         run: python .github/scripts/sync_canonical_manifestos.py
+      - name: Audit generated documentary graph
+        run: python .github/scripts/audit_markdown_links_readmes.py
+      - name: Enforce healthy documentary graph before publish
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md')
+          text=p.read_text(encoding='utf-8')
+          if '**Estado / Status:** **OK**' not in text:
+              raise SystemExit('Generated documentary graph is not healthy; publish aborted.')
+          print('DOCUMENTARY_GRAPH=OK')
+          PY
       - name: Commit synchronized network if needed
         run: |
           git config user.name 'github-actions[bot]'
