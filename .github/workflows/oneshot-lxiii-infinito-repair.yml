@@ -29,14 +29,12 @@ jobs:
           canonical = 'manifiestos/canonicos/LXIII_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md'
           issue = f'{repo}/issues/105'
 
-          # 1. Reparar vínculo Ransol: el archivo real contiene RED_DEL_TIEMPO.
           p = Path('manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md')
           s = p.read_text(encoding='utf-8')
           s = s.replace('../../obras/idea/RANSOL_RED_TIEMPO_ARBOLES_INVISIBLES_ETERNOS_ES_EN.md',
                         '../../obras/idea/RANSOL_RED_DEL_TIEMPO_ARBOLES_INVISIBLES_ETERNOS_ES_EN.md')
           p.write_text(s, encoding='utf-8')
 
-          # 2. Integrar LXIII en índice canónico y mantener Infinito siempre detrás del último finito.
           p = Path('manifiestos/README.md')
           s = p.read_text(encoding='utf-8')
           lxii = '- **LXII** · [Juego por la Síntesis y el Honor™ / The Game for Synthesis and Honor™](62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md)'
@@ -44,14 +42,12 @@ jobs:
           inf = '- **∞** · [Neo0™ · Puerta Abierta del Fractal / Open Gate of the Fractal](INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) · [Síntesis #106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106)'
           if lxiii not in s:
               s = s.replace(lxii, lxii + '\n' + lxiii)
-          # eliminar versiones previas de la línea infinita y colocarla detrás de LXIII
           s = re.sub(r'\n- \*\*∞\*\* · \[Neo0™ · Puerta Abierta del Fractal[^\n]*', '', s)
           s = s.replace(lxiii, lxiii + '\n' + inf)
           s = s.replace('**62 manifiestos bilingües · I–LXII · 24 oleadas / 62 bilingual manifestos · I–LXII · 24 waves**',
                         '**63 manifiestos bilingües · I–LXIII · 24 oleadas / 63 bilingual manifestos · I–LXIII · 24 waves**')
           p.write_text(s, encoding='utf-8')
 
-          # 3. Registrar nombre canónico de LXIII.
           p = Path('manifiestos/CANONICAL_FILENAMES.json')
           data = json.loads(p.read_text(encoding='utf-8'))
           data.setdefault('entries', {})['LXIII'] = {'legacy': legacy, 'canonical': canonical}
@@ -78,7 +74,6 @@ jobs:
               s = s.replace(lxiii, lxiii + '\n' + inf)
           p.write_text(s, encoding='utf-8')
 
-          # Añadir puerta infinita visible al README raíz sin confundirla con el último manifiesto finito.
           p = Path('README.md')
           r = p.read_text(encoding='utf-8')
           marker = '<!-- NEO_INFINITY_GATE_START -->'
