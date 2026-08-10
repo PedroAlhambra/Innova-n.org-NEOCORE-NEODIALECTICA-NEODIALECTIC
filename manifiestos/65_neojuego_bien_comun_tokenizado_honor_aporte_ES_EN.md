@@ -2,7 +2,7 @@
 # LXV · NeoGame™ · Tokenised Game for the Common Good and Honor of Contribution
 
 **Manifiesto / Manifesto:** LXV  
-**Versión / Version:** 1.1  
+**Versión / Version:** 1.2  
 **Estado / Status:** Público · abierto a Síntesis Abierta / Public · open to Open Synthesis  
 **Fecha / Date:** 2026-08-10  
 **Autoría / Authorship:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico.  
@@ -299,43 +299,128 @@ IA ≠ VERDAD
 
 ## 1. NeoGame™
 
-> **NeoGame™ is the tokenised game for the Common Good played inside Open Syntheses.**
+LXII established the ethical root: playing for Synthesis and Honor means competing so that the best possible synthesis survives, not so that the other participant is humiliated.
 
-Each Open Synthesis is a real game board.
+LXV adds the civic and economic layer:
 
-## 2. Correct architecture
+> **NeoGame™ is the tokenised game for the Common Good that takes place inside Open Syntheses.**
+
+There is no parallel board.
+
+Every Open Synthesis is a real game of NeoGame™.
+
+## 2. Correct architecture of the game
+
+The correct sequence is:
 
 ```text
-ENTER OPEN SYNTHESIS
+ENTER AN OPEN SYNTHESIS
 → CHOOSE A CONTRIBUTION
 → BEGIN CONTRIBUTING
   = NEOCRONOS™ ACTIVE
-→ NEOCRONOS™ MEASURES AND TRACES CONTRIBUTION
+→ NEOCRONOS™ MEASURES AND TRACES THE CONTRIBUTION
 → SUBMIT / CLOSE CONTRIBUTION
 → SAN™ SCRUTINY
 → REAL VALUATION
-→ TOKENISATION / RETURN UNDER RULES
+→ TOKENISATION / RETURN UNDER THE RULES
 ```
 
-NeoCronos™ is part of the contribution itself, not a later stage after valuation.
+NeoCronos™ **is part of the contribution**. It does not appear after valuation.
+
+```text
+OPEN SYNTHESIS = BOARD
+CONTRIBUTION = MOVE
+NEOCRONOS™ = MEASUREMENT OF THE MOVE FROM THE MOMENT IT BEGINS
+EVIDENCE / CONTRADICTION = COUNTERMOVE
+SAN™ = SCRUTINY
+DELTA THAT SURVIVES = IMPROVEMENT OF THE GAME STATE
+TOKENISATION = POSSIBLE RECOGNITION OF VALIDATED VALUE
+GENEALOGY = MEMORY OF WHO CONTRIBUTED WHAT
+```
 
 ## 3. Anyone can play
 
-Anyone may contribute with sufficient understanding of the concrete node. Full mastery of the entire framework is not required for a local question, source, objection, test, repair or improvement.
+> **The right to enter does not depend on understanding the complete framework.**
 
-## 4. Understanding the whole requires another scale
+Anyone may contribute when they sufficiently understand the concrete node they enter.
 
-Faithful global understanding currently requires or strongly benefits from AI assistance able to maintain relational memory, genealogy, epistemic states and return to source.
+They may do so through:
 
-AI reduces cognitive load; it does not become canonical sovereignty.
+- an honest question;
+- practical experience;
+- an objection;
+- a source;
+- a datum;
+- a counterexample;
+- a translation;
+- a use test;
+- a repair;
+- a relation between ideas;
+- a better proposal;
+- or a demonstration that something does not work.
+
+```text
+UNDERSTANDING EVERYTHING
+≠ A REQUIREMENT FOR CONTRIBUTING SOMETHING
+```
+
+## 4. Understanding the Whole requires another scale
+
+The complete framework is currently a highly complex documentary and relational organism: manifestos, Neoaxioms™, Open Synthesis, memory, genealogies, works, hypotheses, technical layers, epistemic states, audits and multiscale relations.
+
+A person may contribute locally without mastering that totality.
+
+However, faithfully understanding or judging the whole requires maintaining many relations simultaneously.
+
+Therefore:
+
+> **AI assistance is currently necessary or highly recommended for understanding the complete framework with sufficient relational memory, always with return to source and without delegating final sovereignty to AI.**
+
+```text
+LOCAL CONTRIBUTION
+→ PERSON + SUFFICIENT CONTEXT
+
+GLOBAL READING
+→ PERSON + AI + CORPUS + RETURN TO SOURCE
+```
+
+AI reduces cognitive load; it does not turn its interpretation into canon.
 
 ## 5. Honor of Contribution™
 
-The honorable player preserves sources and genealogy, recognises better moves, accepts correction without humiliation and values improvement of Synthesis above individual score.
+NeoGame™ inherits Relational Honor™.
+
+The honorable player:
+
+- does not plagiarise;
+- does not hide the source;
+- does not manipulate genealogy;
+- does not turn reward into a right to dominate;
+- recognises a better move by an opponent;
+- admits when their thesis loses;
+- corrects without humiliating;
+- receives correction without automatically turning it into enmity;
+- declares uncertainty;
+- and prioritises improvement of the Synthesis over their individual score.
+
+> **Honor is not measured by never losing. It is measured by how much common value can be produced without destroying dignity, memory or provisional truth.**
 
 ## 6. NeoCronos™ inside the move
 
-NeoCronos™ starts when contribution starts and measures its trace while it happens: time, sources, evidence, relations, deltas, revisions and result.
+NeoCronos™ begins when the player starts contributing.
+
+It measures and preserves the trace of that move while it occurs:
+
+- time;
+- sources;
+- evidence;
+- relations;
+- deltas;
+- revisions;
+- result;
+- and any other variables the system may agree upon through Open Synthesis.
+
+Afterwards SAN™ scrutinises the result and the Contribution Economy™ determines which value deserves recognition.
 
 ```text
 CONTRIBUTION IN PROGRESS
@@ -348,34 +433,144 @@ CLOSED CONTRIBUTION
 → TOKENISATION
 ```
 
-## 7. Tokenisation is an instrument
+[LXIV · NeoCronos™](./64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md)
+
+## 7. Tokenisation: reward, not purpose
 
 ```text
-COMMON GOOD → PURPOSE
-SYNTHESIS → PROCESS / BOARD
-CONTRIBUTION → MOVE
-NEOCRONOS™ → MEASUREMENT DURING THE MOVE
-SAN™ → SCRUTINY
-TOKEN → RECOGNITION / RETURN INSTRUMENT
+COMMON GOOD
+→ PURPOSE
+
+SYNTHESIS
+→ PROCESS / BOARD
+
+CONTRIBUTION
+→ MOVE
+
+NEOCRONOS™
+→ MEASUREMENT AND TRACE DURING THE MOVE
+
+SAN™
+→ SCRUTINY
+
+TOKEN
+→ RECOGNITION / RETURN INSTRUMENT
 ```
 
-## 8. Anti-farming
+If the token becomes the purpose, NeoGame™ degenerates.
 
-Spam, redundant messages, inflated time, plagiarism, artificial fragmentation, unrevised mass generation and sabotage must not become winning strategies.
+## 8. Scoring cannot be simple
+
+A ranking based on number of comments, hours or votes would destroy the principle of the system.
+
+A contribution may be valuable because of:
+
+- depth;
+- originality;
+- usefulness;
+- evidence;
+- difficulty;
+- avoided cost;
+- synthesis capacity;
+- repair;
+- maintenance;
+- continuity of memory;
+- impact;
+- or the opening of a new fertile line.
+
+NeoCronos™ measures variables; valuation remains multidimensional and revisable.
+
+## 9. Anti-farming
+
+The system must detect and deny reward or penalise under the rules:
+
+- spam;
+- redundant messages;
+- artificial division of contributions;
+- inflated time;
+- plagiarism;
+- coordinated votes without merit;
+- mass generation without review;
+- sabotage;
+- fabricated conflicts later “resolved” for reward;
+- and strategies whose individual benefit depends on degrading the common system.
 
 ```text
 EARNING TOKENS BY DESTROYING VALUE
 = LOSING THE NEOGAME
 ```
 
-## 9. Majesty remains with Synthesis
+## 10. The value of a question
 
-Tokens, capital, popularity, authorship or AI do not create automatic epistemic sovereignty.
+Answers are not the only things that create value.
 
-> **Her Majesty remains Synthesis.**
+A question may reveal an invisible assumption, expose a contradiction, connect disciplines, activate an investigation, force the definition of an ambiguous word or prevent a premature decision.
 
-## 10. Open Synthesis
+A question may therefore be tokenisable when its verifiable effect justifies it.
 
-[Issue #109 · NeoGame™ Open Synthesis](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/109)
+## 11. Cooperation and competition
 
-> **NeoGame™: play for the Common Good with honor, memory and contribution measured from its beginning.**
+NeoGame™ transforms competition:
+
+```text
+PREDATORY COMPETITION
+→ WHO WINS
+
+NEOGAME™
+→ WHICH CONTRIBUTION IMPROVES THE SYSTEM MOST
+```
+
+Two participants may compete to produce the best explanation, solution or refutation and still increase common value together.
+
+## 12. Her Majesty is Synthesis
+
+LXII established:
+
+> **Her Majesty is Synthesis.**
+
+LXV preserves that rule in the face of tokenisation.
+
+Neither the largest token holder, nor the founder, nor an AI, nor a sponsor, nor the person with the most accumulated time thereby acquires automatic epistemic sovereignty.
+
+```text
+TOKEN ≠ TRUTH
+CAPITAL ≠ TRUTH
+POPULARITY ≠ TRUTH
+AUTHORSHIP ≠ TRUTH
+AI ≠ TRUTH
+```
+
+## 13. Internal relations
+
+- [II · Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md)
+- [III · Human Right to Contribute™](./03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
+- [VII · Contribution Economy™](./04_economia_del_aporte_ES_EN.md)
+- [IX · Memory, Genealogy and Traceability™](./06_memoria_genealogia_trazabilidad_ES_EN.md)
+- [XXIII · Sovereignty of Cognitive Time™](./23_soberania_tiempo_cognitivo_ES_EN.md)
+- [XL · Relational Honor™](./40_respeto_neoego_honor_relacional_ES_EN.md)
+- [LXII · Game for Synthesis and Honor™](./62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md)
+- [LXIII · Against Crude Simplification of the Framework™](./63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md)
+- [LXIV · NeoCronos™](./64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md)
+- [LXV Open Synthesis · #109](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/109)
+
+## 14. Proclamation
+
+> Enter wherever you can contribute.
+>
+> When you begin contributing, NeoCronos™ begins with you.
+>
+> Ask what you do not understand.
+>
+> Contradict what does not withstand scrutiny.
+>
+> Recognise what another person sees better.
+>
+> Preserve the source.
+>
+> Leave a better trace than the one you found.
+>
+> If your time and intelligence produce common value, the system must be able to remember it and return part of that value.
+>
+> But no token is worth more than the Synthesis that made it possible.
+>
+> **NeoGame™: play for the Common Good, with honor, memory and contribution measured from its beginning.**
