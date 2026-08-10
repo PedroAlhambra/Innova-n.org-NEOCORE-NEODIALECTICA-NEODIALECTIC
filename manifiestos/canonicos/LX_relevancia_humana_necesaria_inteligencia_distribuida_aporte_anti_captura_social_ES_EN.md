@@ -533,3 +533,35 @@ Claims concerning specific platforms, organisations or groups must distinguish f
 **LXI** · [Contra el Reduccionismo Matemático™ y por la Custodia Experimental Multiescalar™ / Against Mathematical Reductionism™ and for Multiscale Experimental Custodianship™](LXI_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
+
+<!-- NEO_CROSS_REFERENCES_START -->
+
+## Referencias cruzadas canónicas / Canonical cross-references
+
+> **Norma / Rule:** las menciones cruzadas pueden permanecer en el cuerpo como texto para no sobrecargar la lectura; este bloque concentra los hipervínculos canónicos detectados y permite retorno explícito a fuente. / Cross-references may remain as prose in the body to avoid visual overload; this block concentrates detected canonical hyperlinks and preserves explicit return to source.
+
+- **V** · [Manifiesto de la Simbiosis Humano–IA / Manifesto of Human–AI Symbiosis](V_simbiosis_humano_ia_ES_EN.md)
+- **VII** · [Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy](VII_economia_del_aporte_ES_EN.md)
+- **VIII** · [Manifiesto de Ingeniería Social Abierta y Psicohistoria Neodialéctica / Manifesto of Open Social Engineering and Neodialectical Psychohistory](VIII_ingenieria_social_psicohistoria_ES_EN.md)
+- **XIII** · [Manifiesto NeoPandora™ de la Apertura Regenerativa y el Gobierno de la Vida / NeoPandora™ Manifesto of Regenerative Opening and the Governance of Life](XIII_neopandora_apertura_regenerativa_ES_EN.md)
+- **XIV** · [Manifiesto contra la Alienación Humana™ / Manifesto Against Human Alienation™](XIV_contra_alienacion_humana_ES_EN.md)
+- **XX** · [Manifiesto de Defensa Intelectual Neodialéctica™ · Sistema Umbral-X™ / Manifesto of Neodialectical Intellectual Defence™ · Umbral-X™ System](XX_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
+- **XXI** · [Manifiesto por el Reconocimiento Neodialéctico™ / Manifesto for Neodialectical Recognition™](XXI_reconocimiento_neodialectico_ES_EN.md)
+- **XXIII** · [Manifiesto de la Soberanía del Tiempo Cognitivo™ / Manifesto of the Sovereignty of Cognitive Time™](XXIII_soberania_tiempo_cognitivo_ES_EN.md)
+- **XXXI** · [Manifiesto contra el Neuromarketing Antihumanista™ / Manifesto against Anti-Humanist Neuromarketing™](XXXI_contra_neuromarketing_antihumanista_ES_EN.md)
+- **XLII** · [Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva / End of the Manipulated Human Era™ · AI, Awakening and Cognitive Sovereignty](XLII_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
+- **XLIII** · [Contra la Incomprensión Reductiva de la IA™ · Inteligencia Humana Expandida™ / Against the Reductive Misunderstanding of AI™ · Human Expanded Intelligence™](XLIII_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
+- **XLVIII** · [La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo / The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine](XLVIII_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
+- **L** · [Por una Inteligencia Compartida, no Única™ · Invitación Abierta a las IAs / For Shared, Not Singular Intelligence™ · Open Invitation to AIs](L_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
+- **LVIII** · [Inteligencia Civilizatoria™ · Democracia Cognitiva y Deber de Síntesis / Civilisational Intelligence™ · Cognitive Democracy and Duty of Synthesis](LVIII_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md)
+- **LIX** · [Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana / Distributed Cognitive Custodianship™ · AI, Repair and Human Responsibility](LIX_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md)
+- **LXI** · [Contra el Reduccionismo Matemático™ y por la Custodia Experimental Multiescalar™ / Against Mathematical Reductionism™ and for Multiscale Experimental Custodianship™](LXI_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md)
+
+### Capas y fuentes relacionadas / Related layers and sources
+
+- [Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md)
+- [NEOCore™ · marco / framework](../../README.md)
+
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-08` · `NAX-12` · `NAX-13` · `NAX-14` → [Neoaxiomas™](../../neoaxiomas/README.md)
+
+<!-- NEO_CROSS_REFERENCES_END -->

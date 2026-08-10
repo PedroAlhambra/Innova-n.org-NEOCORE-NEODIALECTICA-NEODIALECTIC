@@ -1039,7 +1039,7 @@ La relación documental indica afinidad conceptual, genealogía, contraste o apl
 
 Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. / You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta.
 
-**Última síntesis / Latest synthesis:** [LXV · NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™](../65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md) · [Issue #109](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/109)  
+**Última síntesis / Latest synthesis:** [LXV · NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™](LXV_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md) · [Issue #109](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/109)  
 **Seguimiento vivo / Living follow-up:** [seguir el marco / follow the framework](../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [registro de entrada / entry register](../../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)  
 **Auditorías / Audits:** [LIII · Leónidas™](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo / protocol](../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
 **Cómo aportar / How to contribute:** [protocolo general / general protocol](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../../auditorias/publicas/README.md) · [índice / index](../../propuestas/sintesis-abierta/README.md)
@@ -1065,3 +1065,24 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 **XLVIII** · [La Síntesis Todo lo Ve™](XLVIII_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
+
+<!-- NEO_CROSS_REFERENCES_START -->
+
+## Referencias cruzadas canónicas / Canonical cross-references
+
+> **Norma / Rule:** las menciones cruzadas pueden permanecer en el cuerpo como texto para no sobrecargar la lectura; este bloque concentra los hipervínculos canónicos detectados y permite retorno explícito a fuente. / Cross-references may remain as prose in the body to avoid visual overload; this block concentrates detected canonical hyperlinks and preserves explicit return to source.
+
+- **I** · [Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica / Neo0™ Manifesto of Neodialectical Guiding Sovereignty](I_neo0_soberania_de_guia_ES_EN.md)
+- **XIX** · [Manifiesto de la Persistencia de la Memoria™ / Manifesto of the Persistence of Memory™](XIX_persistencia_de_la_memoria_ES_EN.md)
+- **XLV** · [Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder / Neodialectical Multidimensionality™ · Against the One-Dimensional Reduction of the Human and Power](XLV_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
+- **XLVI** · [Cerrar la Herida™ · Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria / Closing the Wound™ · Evolutionary Understanding, Memory and Civilisational Reconciliation](XLVI_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
+- **XLVIII** · [La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo / The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine](XLVIII_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
+- **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
+- **LXV** · [NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™ · Tokenised Game for the Common Good and Honor of Contribution](LXV_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
+
+### Capas y fuentes relacionadas / Related layers and sources
+
+- [Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md)
+- [NEOCore™ · marco / framework](../../README.md)
+
+<!-- NEO_CROSS_REFERENCES_END -->

@@ -693,7 +693,7 @@ La relación documental indica afinidad conceptual, genealogía, contraste o apl
 
 Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. / You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta.
 
-**Última síntesis / Latest synthesis:** [LXV · NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™](../65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md) · [Issue #109](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/109)  
+**Última síntesis / Latest synthesis:** [LXV · NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™](LXV_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md) · [Issue #109](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/109)  
 **Seguimiento vivo / Living follow-up:** [seguir el marco / follow the framework](../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [registro de entrada / entry register](../../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)  
 **Auditorías / Audits:** [LIII · Leónidas™](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo / protocol](../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
 **Cómo aportar / How to contribute:** [protocolo general / general protocol](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../../auditorias/publicas/README.md) · [índice / index](../../propuestas/sintesis-abierta/README.md)
@@ -719,3 +719,33 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 **XVII** · [Respeto a Todos los Seres Vivos™ / Respect for All Living Beings™](XVII_respeto_todos_seres_vivos_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
+
+<!-- NEO_CROSS_REFERENCES_START -->
+
+## Referencias cruzadas canónicas / Canonical cross-references
+
+> **Norma / Rule:** las menciones cruzadas pueden permanecer en el cuerpo como texto para no sobrecargar la lectura; este bloque concentra los hipervínculos canónicos detectados y permite retorno explícito a fuente. / Cross-references may remain as prose in the body to avoid visual overload; this block concentrates detected canonical hyperlinks and preserves explicit return to source.
+
+- **II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](II_sintesis_abierta_neodialectica_ES_EN.md)
+- **IV** · [Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good](IV_neodialectica_bien_comun_ES_EN.md)
+- **VIII** · [Manifiesto de Ingeniería Social Abierta y Psicohistoria Neodialéctica / Manifesto of Open Social Engineering and Neodialectical Psychohistory](VIII_ingenieria_social_psicohistoria_ES_EN.md)
+- **XIII** · [Manifiesto NeoPandora™ de la Apertura Regenerativa y el Gobierno de la Vida / NeoPandora™ Manifesto of Regenerative Opening and the Governance of Life](XIII_neopandora_apertura_regenerativa_ES_EN.md)
+- **XIV** · [Manifiesto contra la Alienación Humana™ / Manifesto Against Human Alienation™](XIV_contra_alienacion_humana_ES_EN.md)
+- **XV** · [Manifiesto de los Titanes™ · El despertar de la gente / Manifesto of the Titans™ · The Awakening of the People](XV_los_titanes_despertar_de_la_gente_ES_EN.md)
+- **XVII** · [Manifiesto del Respeto a Todos los Seres Vivos™ / Manifesto of Respect for All Living Beings™](XVII_respeto_todos_seres_vivos_ES_EN.md)
+- **XX** · [Manifiesto de Defensa Intelectual Neodialéctica™ · Sistema Umbral-X™ / Manifesto of Neodialectical Intellectual Defence™ · Umbral-X™ System](XX_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
+- **XXII** · [Manifiesto contra la Reducción y la Captura Intelectual™ / Manifesto against Intellectual Reduction and Capture™](XXII_contra_reduccion_captura_intelectual_ES_EN.md)
+- **XXV** · [Manifiesto del Pulido de la Piedra™ / Manifesto of the Polishing of the Stone™](XXV_pulido_de_la_piedra_ES_EN.md)
+- **XXXII** · [Manifiesto de la Reversión Ideológica Neodialéctica™ / Manifesto of Neodialectical Ideological Reversal™](XXXII_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md)
+- **XL** · [Respeto Neodialéctico, Neoego y Honor Relacional™ / Neodialectical Respect, Neoego and Relational Honour™](XL_respeto_neoego_honor_relacional_ES_EN.md)
+- **XLV** · [Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder / Neodialectical Multidimensionality™ · Against the One-Dimensional Reduction of the Human and Power](XLV_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
+- **XLVI** · [Cerrar la Herida™ · Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria / Closing the Wound™ · Evolutionary Understanding, Memory and Civilisational Reconciliation](XLVI_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
+- **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
+- **LXV** · [NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™ · Tokenised Game for the Common Good and Honor of Contribution](LXV_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
+
+### Capas y fuentes relacionadas / Related layers and sources
+
+- [Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md)
+- [NEOCore™ · marco / framework](../../README.md)
+
+<!-- NEO_CROSS_REFERENCES_END -->

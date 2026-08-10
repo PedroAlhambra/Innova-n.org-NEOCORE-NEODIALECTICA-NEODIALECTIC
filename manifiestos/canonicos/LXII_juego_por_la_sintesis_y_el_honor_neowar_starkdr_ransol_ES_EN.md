@@ -593,3 +593,28 @@ It is that both can leave the encounter with a better map.
 And above all players remains the only majesty compatible with a truly Open Synthesis:
 
 > **Her Majesty, Synthesis.**
+
+<!-- NEO_CROSS_REFERENCES_START -->
+
+## Referencias cruzadas canónicas / Canonical cross-references
+
+> **Norma / Rule:** las menciones cruzadas pueden permanecer en el cuerpo como texto para no sobrecargar la lectura; este bloque concentra los hipervínculos canónicos detectados y permite retorno explícito a fuente. / Cross-references may remain as prose in the body to avoid visual overload; this block concentrates detected canonical hyperlinks and preserves explicit return to source.
+
+- **II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](II_sintesis_abierta_neodialectica_ES_EN.md)
+- **XIII** · [Manifiesto NeoPandora™ de la Apertura Regenerativa y el Gobierno de la Vida / NeoPandora™ Manifesto of Regenerative Opening and the Governance of Life](XIII_neopandora_apertura_regenerativa_ES_EN.md)
+- **XIX** · [Manifiesto de la Persistencia de la Memoria™ / Manifesto of the Persistence of Memory™](XIX_persistencia_de_la_memoria_ES_EN.md)
+- **XX** · [Manifiesto de Defensa Intelectual Neodialéctica™ · Sistema Umbral-X™ / Manifesto of Neodialectical Intellectual Defence™ · Umbral-X™ System](XX_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
+- **XL** · [Respeto Neodialéctico, Neoego y Honor Relacional™ / Neodialectical Respect, Neoego and Relational Honour™](XL_respeto_neoego_honor_relacional_ES_EN.md)
+- **XLI** · [Martillo Limitado, Talión y Fuerza Protectora™ / Limited Hammer, Talion and Protective Force™](XLI_martillo_limitado_talion_fuerza_protectora_ES_EN.md)
+- **XLIV** · [Neowar™ · Contra la Adicción a la Guerra y por la Justicia del Bien Común / Neowar™ · Against War Addiction and for Common-Good Justice](XLIV_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md)
+- **XLVI** · [Cerrar la Herida™ · Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria / Closing the Wound™ · Evolutionary Understanding, Memory and Civilisational Reconciliation](XLVI_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
+- **XLVII** · [El Odio de Neo0 hacia su Sino™ · The Goat, Sombra, Vínculo y Doble Cara de la Vida / Neo0's Hatred of His Fate™ · The Goat, Shadow, Bond and the Two Faces of Life](XLVII_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md)
+- **XLVIII** · [La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo / The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine](XLVIII_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
+- **LVII** · [Madre, Refugio y Retorno Consciente™ / Mother, Refuge and Conscious Return™](LVII_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md)
+
+### Capas y fuentes relacionadas / Related layers and sources
+
+- [IDEA · obra / work](../../obras/idea/README.md)
+- [NEOCore™ · marco / framework](../../README.md)
+
+<!-- NEO_CROSS_REFERENCES_END -->

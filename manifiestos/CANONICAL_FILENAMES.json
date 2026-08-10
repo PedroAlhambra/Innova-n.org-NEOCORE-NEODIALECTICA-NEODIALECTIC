@@ -251,6 +251,22 @@
     "LXII": {
       "legacy": "manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md",
       "canonical": "manifiestos/canonicos/LXII_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md"
+    },
+    "LXIII": {
+      "legacy": "manifiestos/63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md",
+      "canonical": "manifiestos/canonicos/LXIII_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md"
+    },
+    "LXIV": {
+      "legacy": "manifiestos/64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md",
+      "canonical": "manifiestos/canonicos/LXIV_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md"
+    },
+    "LXV": {
+      "legacy": "manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md",
+      "canonical": "manifiestos/canonicos/LXV_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md"
+    },
+    "LXVI": {
+      "legacy": "manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md",
+      "canonical": "manifiestos/canonicos/LXVI_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md"
     }
   }
 }

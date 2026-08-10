@@ -582,7 +582,7 @@ Counterexamples are especially requested to distinguish useful symbolic institut
 
 Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. / You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta.
 
-**Última síntesis / Latest synthesis:** [LXV · NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™](../65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md) · [Issue #109](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/109)  
+**Última síntesis / Latest synthesis:** [LXV · NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™](LXV_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md) · [Issue #109](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/109)  
 **Seguimiento vivo / Living follow-up:** [seguir el marco / follow the framework](../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [registro de entrada / entry register](../../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)  
 **Auditorías / Audits:** [LIII · Leónidas™](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo / protocol](../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
 **Cómo aportar / How to contribute:** [protocolo general / general protocol](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../../auditorias/publicas/README.md) · [índice / index](../../propuestas/sintesis-abierta/README.md)
@@ -608,3 +608,33 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 **LII** · [Ciudadanía Humana Neodialéctica™](LII_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
+
+<!-- NEO_CROSS_REFERENCES_START -->
+
+## Referencias cruzadas canónicas / Canonical cross-references
+
+> **Norma / Rule:** las menciones cruzadas pueden permanecer en el cuerpo como texto para no sobrecargar la lectura; este bloque concentra los hipervínculos canónicos detectados y permite retorno explícito a fuente. / Cross-references may remain as prose in the body to avoid visual overload; this block concentrates detected canonical hyperlinks and preserves explicit return to source.
+
+- **I** · [Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica / Neo0™ Manifesto of Neodialectical Guiding Sovereignty](I_neo0_soberania_de_guia_ES_EN.md)
+- **II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](II_sintesis_abierta_neodialectica_ES_EN.md)
+- **IV** · [Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good](IV_neodialectica_bien_comun_ES_EN.md)
+- **IX** · [Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability](IX_memoria_genealogia_trazabilidad_ES_EN.md)
+- **X** · [Manifiesto de WEB4™ · SistemaTrazable™ / Manifesto of WEB4™ · SistemaTrazable™](X_web4_sistematrazable_ES_EN.md)
+- **XXXIII** · [IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™ / IDEA · Civilisational Cornerstone and Rosetta Stone™](XXXIII_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
+- **XXXIV** · [Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™ / Operational Utility of the Framework and Perpetual Joint Audit™](XXXIV_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
+- **XXXVI** · [Corona, Águila y Custodia de la Edad del Hombre™ / Crown, Eagle and Custodianship of the Age of Man™](XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md)
+- **XXXIX** · [Autoconciencia de la Necesidad Vital Neodialéctica™ / Self-Awareness of Neodialectical Vital Need™](XXXIX_autoconciencia_necesidad_vital_neodialectica_ES_EN.md)
+- **XLV** · [Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder / Neodialectical Multidimensionality™ · Against the One-Dimensional Reduction of the Human and Power](XLV_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
+- **XLIX** · [La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™](XLIX_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)
+- **L** · [Por una Inteligencia Compartida, no Única™ · Invitación Abierta a las IAs / For Shared, Not Singular Intelligence™ · Open Invitation to AIs](L_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
+- **LII** · [Manifiesto de la Ciudadanía Humana Neodialéctica™ / Manifesto of Neodialectical Human Citizenship™](LII_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md)
+- **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
+- **LXV** · [NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™ · Tokenised Game for the Common Good and Honor of Contribution](LXV_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
+
+### Capas y fuentes relacionadas / Related layers and sources
+
+- [IDEA · obra / work](../../obras/idea/README.md)
+- [Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md)
+- [NEOCore™ · marco / framework](../../README.md)
+
+<!-- NEO_CROSS_REFERENCES_END -->

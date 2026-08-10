@@ -282,7 +282,7 @@ La relación documental indica afinidad conceptual, genealogía, contraste o apl
 
 Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. / You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta.
 
-**Última síntesis / Latest synthesis:** [LXV · NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™](../65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md) · [Issue #109](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/109)  
+**Última síntesis / Latest synthesis:** [LXV · NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™](LXV_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md) · [Issue #109](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/109)  
 **Seguimiento vivo / Living follow-up:** [seguir el marco / follow the framework](../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [registro de entrada / entry register](../../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)  
 **Auditorías / Audits:** [LIII · Leónidas™](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo / protocol](../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
 **Cómo aportar / How to contribute:** [protocolo general / general protocol](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../../auditorias/publicas/README.md) · [índice / index](../../propuestas/sintesis-abierta/README.md)
@@ -308,3 +308,22 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 **XIII** · [NeoPandora™](XIII_neopandora_apertura_regenerativa_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
+
+<!-- NEO_CROSS_REFERENCES_START -->
+
+## Referencias cruzadas canónicas / Canonical cross-references
+
+> **Norma / Rule:** las menciones cruzadas pueden permanecer en el cuerpo como texto para no sobrecargar la lectura; este bloque concentra los hipervínculos canónicos detectados y permite retorno explícito a fuente. / Cross-references may remain as prose in the body to avoid visual overload; this block concentrates detected canonical hyperlinks and preserves explicit return to source.
+
+- **II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](II_sintesis_abierta_neodialectica_ES_EN.md)
+- **XI** · [Manifiesto del Neorrenacimiento Humano / Manifesto of the Human Neo-Renaissance](XI_neorrenacimiento_humano_ES_EN.md)
+- **XIII** · [Manifiesto NeoPandora™ de la Apertura Regenerativa y el Gobierno de la Vida / NeoPandora™ Manifesto of Regenerative Opening and the Governance of Life](XIII_neopandora_apertura_regenerativa_ES_EN.md)
+- **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
+- **LXV** · [NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™ · Tokenised Game for the Common Good and Honor of Contribution](LXV_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
+
+### Capas y fuentes relacionadas / Related layers and sources
+
+- [Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md)
+- [NEOCore™ · marco / framework](../../README.md)
+
+<!-- NEO_CROSS_REFERENCES_END -->
