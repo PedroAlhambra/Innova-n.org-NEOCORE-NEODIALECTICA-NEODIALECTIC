@@ -12,7 +12,7 @@
 - Se marca **REVISAR** si EN tiene menos del 78% de palabras de ES, más del 155%, o pierde de forma importante la estructura de encabezados.
 - Es un detector: cada caso marcado requiere lectura humana antes de corregir.
 
-**Documentos bilingües examinados:** 85  
+**Documentos bilingües examinados:** 86  
 **Marcados para revisión:** 1  
 **Con marcador incompleto/ausente:** 0
 
@@ -111,5 +111,6 @@
 | `analisis/publicos/2026-08-09_maxproc_registro_entrada_trazabilidad_derivacion_herosion_ES_EN.md` | 754 | 444 | 0.59 | 12 | 12 | REVISAR |
 | `analisis/publicos/2026-08-09_prueba_operativa_minima_revision_ia_escalable_ES_EN.md` | 555 | 541 | 0.97 | 8 | 8 | OK |
 | `analisis/publicos/2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md` | 433 | 482 | 1.11 | 6 | 7 | OK |
+| `analisis/publicos/2026-08-10_LXI_genetica_ADN_neopandora_placa_petri_ES_EN.md` | 417 | 391 | 0.94 | 0 | 0 | OK |
 
 > La paridad editorial exigida no significa traducción palabra por palabra, pero sí conservación íntegra de tesis, secciones, matices, cautelas epistemológicas, ejemplos, fórmulas y conclusión.
