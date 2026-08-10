@@ -6,6 +6,7 @@ on:
     paths:
       - '.github/workflows/sync-manifesto-crossrefs.yml'
       - '.github/scripts/sync_manifesto_crossrefs.py'
+      - '.github/scripts/sync_manifesto_reference_policy.py'
       - 'manifiestos/**.md'
       - 'neoaxiomas/README.md'
       - 'obras/idea/README.md'
@@ -26,6 +27,8 @@ jobs:
           fetch-depth: 0
       - name: Sync canonical cross-references
         run: python .github/scripts/sync_manifesto_crossrefs.py
+      - name: Sync cross-reference policy
+        run: python .github/scripts/sync_manifesto_reference_policy.py
       - name: Commit synchronized cross-references
         run: |
           set -euo pipefail
