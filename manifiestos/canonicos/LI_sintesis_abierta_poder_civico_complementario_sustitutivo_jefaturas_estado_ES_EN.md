@@ -415,6 +415,21 @@ If it does not, Open Synthesis can develop these functions outside it.
 
 If, over time, a civic architecture demonstrates that it performs certain public functions better, the community should be able to decide democratically whether to retain, reform, reduce or replace the previous architecture.
 
+<!-- PARITY_72_51_II -->
+The functional choice is represented explicitly:
+
+```text
+EXISTING INSTITUTION
++ OPEN SYNTHESIS
+→ COMPLEMENT
+
+EXISTING INSTITUTION
+WITHOUT A JUSTIFIABLE PUBLIC FUNCTION
++ MORE USEFUL CIVIC ALTERNATIVE
++ DEMOCRATIC DECISION
+→ REFORM OR REPLACEMENT
+```
+
 ## III. It does not electorally represent the people; it articulates distributed civic intelligence
 
 Open Synthesis must not appropriate legitimacy it does not possess.
@@ -424,6 +439,19 @@ It does not automatically replace voting, grant legal representation to particip
 Its function is to **articulate the distributed cognitive capacity of people and institutions to observe, contribute, contradict, preserve memory and build traceable proposals**.
 
 Legal sovereignty and electoral representation remain distinct from participation in synthesis.
+
+<!-- PARITY_72_51_III -->
+The distinction is structural:
+
+```text
+LEGAL SOVEREIGNTY
+≠
+DISTRIBUTED CIVIC INTELLIGENCE
+
+ELECTORAL REPRESENTATION
+≠
+PARTICIPATION IN SYNTHESIS
+```
 
 ## IV. The power of the people needs cognitive infrastructure
 
@@ -449,6 +477,20 @@ A constitutional monarchy can retain utility if it performs real and verifiable 
 
 No function should be presumed merely from a title. It should be observable.
 
+<!-- PARITY_72_51_VI -->
+A constitutional monarchy can retain observable utility by acting, within its legal limits, as:
+
+- custodian of historical continuity;
+- bridge between generations;
+- transversal listening node;
+- facilitator of encounters;
+- institutional defender of the long term;
+- promoter of science, culture and cooperation;
+- escalation channel for issues of general interest;
+- symbolic guarantor that the State also listens outside electoral cycles.
+
+No function is presumed from the title: it must be observable.
+
 ## VII. Crown, presidency or platform: form is not sacred
 
 Neodialectics does not turn any institutional form into dogma.
@@ -472,6 +514,25 @@ Legitimate criticism requires no violence. Legitimate replacement requires proce
 WEB4™ · SistemaTrazable™ can turn civic escalation into a verifiable architecture recording origin, authorship, destination, classification, evidence, relations, contradictions, responses, referrals, status, delta and outcome.
 
 Institutions would not need to answer everything personally, while citizens could know whether a proposal arrived, where it was routed, whether it was rejected and why, or whether it generated review.
+
+<!-- PARITY_72_51_IX -->
+A traceable public escalation can register:
+
+```text
+ORIGIN
+AUTHORSHIP
+DATE
+DESTINATION
+CLASSIFICATION
+EVIDENCE
+RELATIONS
+CONTRADICTIONS
+RESPONSES
+DERIVATIONS
+STATE
+DELTA
+RESULT
+```
 
 ## X. From closed court to synthesis node
 
@@ -629,7 +690,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 - **L** · [Por una Inteligencia Compartida, no Única™ · Invitación Abierta a las IAs / For Shared, Not Singular Intelligence™ · Open Invitation to AIs](L_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
 - **LII** · [Manifiesto de la Ciudadanía Humana Neodialéctica™ / Manifesto of Neodialectical Human Citizenship™](LII_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md)
 - **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
-- **LXV** · [NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™ · Tokenised Game for the Common Good and Honor of Contribution](LXV_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
+- **LXVIII** · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species](LXVIII_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 

@@ -255,6 +255,19 @@ A victory requiring permanent lies must continue lying in order to survive.
 
 A means must be evaluated through necessity, proportionality, possible transparency, reversibility, temporality, responsibility, traceability, non-dehumanisation and coherence with the core of the end.
 
+<!-- PARITY_72_30_III -->
+The Spanish source keeps nine dimensions explicit:
+
+- necessity;
+- proportionality;
+- possible transparency;
+- reversibility;
+- temporality;
+- responsibility;
+- traceability;
+- non-dehumanisation;
+- coherence between the means and the value invoked by the end.
+
 ## IV. Defence, conflict and force
 
 Neodialectics does not require defencelessness.
@@ -431,7 +444,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 - **XLV** · [Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder / Neodialectical Multidimensionality™ · Against the One-Dimensional Reduction of the Human and Power](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
 - **XLVI** · [Cerrar la Herida™ · Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria / Closing the Wound™ · Evolutionary Understanding, Memory and Civilisational Reconciliation](./46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
 - **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
-- **LXV** · [NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™ · Tokenised Game for the Common Good and Honor of Contribution](./65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
+- **LXVIII** · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species](./68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 

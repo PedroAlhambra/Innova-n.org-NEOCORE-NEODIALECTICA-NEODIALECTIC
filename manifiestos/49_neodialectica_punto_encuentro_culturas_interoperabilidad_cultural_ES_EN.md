@@ -469,6 +469,28 @@ Universality does not require identical language, clothing, belief, family struc
 
 It means that certain questions can be asked everywhere: is there avoidable harm, coercion, dignity, dissent, memory, reciprocity, capacity for correction, and preservation of life and autonomy?
 
+<!-- PARITY_72_49_IV -->
+Legitimate universality does not require everyone to:
+
+- speak alike;
+- dress alike;
+- believe alike;
+- organise family life identically;
+- produce the same art;
+- preserve the same symbols;
+- inhabit the world through a single aesthetic.
+
+It means that certain questions must be askable everywhere:
+
+- is there avoidable harm?;
+- is there coercion?;
+- is there dignity?;
+- is dissent possible?;
+- is memory preserved?;
+- is there reciprocity?;
+- is correction possible?;
+- does the structure preserve life and autonomy?
+
 ## V. The Common Good is not a culture
 
 The Common Good must not be confused with the habits of one region, religion, class or civilisation.
@@ -476,6 +498,19 @@ The Common Good must not be confused with the habits of one region, religion, cl
 It is a **relational vector of evaluation**.
 
 It asks about the direction of consequences rather than prescribing a single form of life.
+
+<!-- PARITY_72_49_V -->
+The relational evaluation is represented as:
+
+```text
+CULTURAL PRACTICE
+→ EFFECTS
+→ SCALES
+→ MEMORY
+→ HARM / BENEFIT
+→ CAPACITY FOR REVISION
+→ DIRECTION
+```
 
 ## VI. Cultural Interoperability Principle™
 
@@ -518,6 +553,19 @@ Languages, foods, religions, music, technologies, mathematics, stories, laws and
 Cultural identity is real, but need not be imagined as an isolated substance.
 
 It can be understood as a historical configuration of relations.
+
+<!-- PARITY_72_49_X -->
+Cultural identity can be understood as a historical configuration of relations:
+
+```text
+MEMORY
++ ENVIRONMENT
++ EXCHANGE
++ CONFLICT
++ CREATION
++ ADAPTATION
+→ LIVING CULTURE
+```
 
 ## XI. Difference is information
 
@@ -714,7 +762,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 - **XLVIII** · [La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo / The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
 - **L** · [Por una Inteligencia Compartida, no Única™ · Invitación Abierta a las IAs / For Shared, Not Singular Intelligence™ · Open Invitation to AIs](./50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
 - **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
-- **LXV** · [NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™ · Tokenised Game for the Common Good and Honor of Contribution](./65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
+- **LXVIII** · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species](./68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 

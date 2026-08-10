@@ -262,6 +262,30 @@ High price does not prove value. Profitability does not prove usefulness. Wealth
 
 Each may contain relevant information. None may become a complete moral verdict.
 
+<!-- PARITY_72_29_III -->
+The Spanish source separates several substitutions that must not be confused:
+
+### Price as value
+A high price can indicate scarcity, demand, market power or positioning. It does not by itself demonstrate human, ecological, cultural or civilisational value.
+
+### Profitability as utility
+Something can be profitable while externalising damage, and something socially useful can be difficult to monetise. Profitability is therefore information, not a universal measure of usefulness.
+
+### Wealth as merit
+Wealth can arise from work, creation and contribution, but also from inheritance, position, monopoly, extraction, luck or accumulated advantage. Possession alone does not prove moral merit.
+
+### Poverty as guilt
+Lack of money does not prove lack of effort, intelligence, dignity or contribution. Material circumstances, illness, care work, exclusion, geography and inherited conditions also shape outcomes.
+
+### Growth as progress
+Economic growth may accompany genuine improvement, but growth in extraction, waste, addiction or repair of avoidable damage cannot automatically be called progress.
+
+### Property as authorship
+Legal or economic ownership and intellectual origin are different relations. A system that can acquire an asset must still preserve genealogy and recognise who created, discovered or contributed what.
+
+### Market as truth
+Markets aggregate preferences and constraints under particular rules. They do not automatically answer what is true, just, sustainable or desirable for the Common Good.
+
 ## IV. Technical language and concealed dogma
 
 Efficiency, productivity, competitiveness, optimisation and investor confidence may describe real functions.
@@ -477,7 +501,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 - **XXXV** · [Contra la Ridiculez Mediática y la Economía del Conflicto™ / Against Media Absurdity and the Conflict Economy™](XXXV_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
 - **XXXVIII** · [Manifiesto de Protección Integral de la Infancia™ / Manifesto for the Integral Protection of Childhood™](XXXVIII_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
 - **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
-- **LXV** · [NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™ · Tokenised Game for the Common Good and Honor of Contribution](LXV_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
+- **LXVIII** · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species](LXVIII_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 

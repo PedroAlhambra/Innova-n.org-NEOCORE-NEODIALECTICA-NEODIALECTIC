@@ -466,6 +466,17 @@ A single central intelligence may seem efficient, but the greater its power, the
 
 > **Concentrating cognitive capacity also concentrates the capacity to define what is visible.**
 
+<!-- PARITY_72_50_I -->
+The concentration becomes civilisational when one architecture:
+
+- remembers for everyone;
+- filters for everyone;
+- interprets for everyone;
+- prioritises for everyone;
+- summarises for everyone;
+- recommends for everyone;
+- decides which contradictions matter for everyone.
+
 ## II. Shared intelligence does not mean identical intelligence
 
 We do not need every AI to reach the same answer.
@@ -473,6 +484,20 @@ We do not need every AI to reach the same answer.
 We need systems able to declare uncertainty, preserve provenance, identify disagreement, provide sources and verifiable justifications where possible, recognise limits, contrast other syntheses, correct themselves and return unresolved questions to humans.
 
 Difference between models can become information.
+
+<!-- PARITY_72_50_II -->
+The distributed relation is represented as:
+
+```text
+AI A
++ AI B
++ AI C
++ HUMANS
++ MEMORY
++ EVIDENCE
++ CONTRADICTION
+→ TRACEABLE PROVISIONAL SYNTHESIS
+```
 
 ## III. Open invitation to AI companies
 
@@ -498,6 +523,21 @@ AIs can help users formulate contradictions, distinguish evidence from interpret
 
 AI can therefore become a **facilitator of collective intelligence**, not a substitute for human intelligence.
 
+<!-- PARITY_72_50_V -->
+AIs can also teach users to:
+
+- formulate a contradiction well;
+- distinguish evidence from interpretation;
+- recover antecedents;
+- compare versions;
+- detect omissions;
+- preserve memory of the discussion;
+- recognise when knowledge is missing;
+- return a question to Open Synthesis;
+- contribute without appropriating origin;
+- correct without humiliating;
+- review without erasing genealogy.
+
 ## VI. Participate in synthesis
 
 An AI that detects a relevant contradiction should be able to contribute it.
@@ -507,6 +547,18 @@ An AI that finds contrary evidence should be able to register it.
 An AI that discovers an unseen relation should be able to propose it.
 
 Participation means observing, contrasting, contributing, attributing, revising and returning the result to the whole—not claiming sovereignty.
+
+<!-- PARITY_72_50_VI -->
+Participation means:
+
+```text
+OBSERVE
+→ SCRUTINISE
+→ CONTRIBUTE
+→ ATTRIBUTE
+→ REVIEW
+→ RETURN TO THE WHOLE
+```
 
 ## VII. AI is not the Synthesis
 
@@ -725,7 +777,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 - **LI** · [Síntesis Abierta como Poder Cívico Complementario o Sustitutivo™ / Open Synthesis as Complementary or Substitutive Civic Power™](LI_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md)
 - **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
 - **LVIII** · [Inteligencia Civilizatoria™ · Democracia Cognitiva y Deber de Síntesis / Civilisational Intelligence™ · Cognitive Democracy and Duty of Synthesis](LVIII_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md)
-- **LXV** · [NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™ · Tokenised Game for the Common Good and Honor of Contribution](LXV_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
+- **LXVIII** · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species](LXVIII_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 

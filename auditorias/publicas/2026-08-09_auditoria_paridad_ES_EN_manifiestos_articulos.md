@@ -13,28 +13,15 @@
 - `REVISAR` bloquea la publicación automática de manifiestos; `ADVERTENCIA` exige inspección editorial pero no demuestra por sí sola recorte.
 
 **Documentos bilingües examinados:** 95  
-**Recortes/materialmente asimétricos para revisión:** 14  
-**Advertencias estructurales sin prueba suficiente de recorte:** 19  
+**Recortes/materialmente asimétricos para revisión:** 0  
+**Advertencias estructurales sin prueba suficiente de recorte:** 31  
 **Con marcador incompleto/ausente:** 0
 
 ## Casos marcados
 
 | Archivo | Palabras ES | Palabras EN | Ratio EN/ES | H ES | H EN | Motivo |
 |---|---:|---:|---:|---:|---:|---|
-| `manifiestos/28_los_tesla_ES_EN.md` | 697 | 645 | 0.93 | 12 | 12 | sección II EN/ES=0.46 (41/90 palabras); sección II listas ES=8, EN=0; sección V fórmulas/bloques ES=1, EN=0 |
-| `manifiestos/29_idolatria_del_dinero_ES_EN.md` | 819 | 685 | 0.84 | 22 | 15 | sección III EN/ES=0.31 (49/160 palabras) |
-| `manifiestos/30_coherencia_fines_medios_ES_EN.md` | 725 | 655 | 0.90 | 12 | 12 | sección III listas ES=9, EN=0 |
-| `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` | 1606 | 1349 | 0.84 | 23 | 16 | sección II listas ES=17, EN=5; sección III fórmulas/bloques ES=1, EN=0; sección IV fórmulas/bloques ES=1, EN=0; sección VII EN/ES=0.52 (66/128 palabras) |
-| `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | 1961 | 1570 | 0.80 | 17 | 17 | sección II listas ES=13, EN=0; sección III listas ES=9, EN=0; sección III fórmulas/bloques ES=1, EN=0; sección V fórmulas/bloques ES=2, EN=1; sección VI listas ES=10, EN=0; sección VII listas ES=9, EN=0; sección IX EN/ES=0.51 (53/104 palabras); sección IX listas ES=14, EN=4 |
-| `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` | 1207 | 1068 | 0.88 | 14 | 14 | sección II fórmulas/bloques ES=1, EN=0; sección III fórmulas/bloques ES=2, EN=1; sección IV EN/ES=0.58 (61/105 palabras); sección IV listas ES=8, EN=0; sección V fórmulas/bloques ES=1, EN=0; sección VII fórmulas/bloques ES=1, EN=0; sección VIII EN/ES=0.64 (61/95 palabras); sección VIII listas ES=13, EN=0; sección X listas ES=5, EN=0; sección X fórmulas/bloques ES=1, EN=0 |
-| `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` | 1406 | 1176 | 0.84 | 14 | 14 | sección III listas ES=8, EN=0; sección IV listas ES=9, EN=0; sección VI EN/ES=0.54 (50/93 palabras); sección VI listas ES=14, EN=0; sección VIII fórmulas/bloques ES=2, EN=1; sección IX fórmulas/bloques ES=1, EN=0 |
-| `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` | 2677 | 2309 | 0.86 | 29 | 29 | sección IV EN/ES=0.63 (86/136 palabras) |
-| `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md` | 1252 | 1106 | 0.88 | 20 | 20 | sección IV listas ES=15, EN=0; sección V fórmulas/bloques ES=1, EN=0; sección X fórmulas/bloques ES=1, EN=0 |
-| `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` | 1427 | 1134 | 0.79 | 20 | 20 | sección I listas ES=7, EN=0; sección II fórmulas/bloques ES=1, EN=0; sección V listas ES=11, EN=0; sección VI fórmulas/bloques ES=1, EN=0 |
-| `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md` | 1443 | 1383 | 0.96 | 16 | 18 | sección II fórmulas/bloques ES=1, EN=0; sección III fórmulas/bloques ES=1, EN=0; sección VI listas ES=8, EN=0; sección IX fórmulas/bloques ES=1, EN=0 |
-| `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` | 1539 | 1524 | 0.99 | 15 | 16 | sección XIV EN/ES=1.82 (167/92 palabras) |
-| `manifiestos/61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md` | 1067 | 1072 | 1.00 | 12 | 14 | sección 12 EN/ES=2.85 (148/52 palabras) |
-| `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md` | 1435 | 1764 | 1.23 | 15 | 16 | sección 15 EN/ES=2.84 (455/160 palabras); sección 15 listas ES=12, EN=29 |
+| — | — | — | — | — | — | Sin casos |
 
 ## Advertencias estructurales
 
@@ -42,23 +29,35 @@
 |---|---|---|
 | `manifiestos/25_pulido_de_la_piedra_ES_EN.md` | ADVERTENCIA | sección VII listas ES=8, EN=0 |
 | `manifiestos/27_valor_alimentos_vida_ES_EN.md` | ADVERTENCIA | sección IX listas ES=8, EN=2 |
+| `manifiestos/28_los_tesla_ES_EN.md` | ADVERTENCIA | sección VIII listas ES=10, EN=0 |
+| `manifiestos/29_idolatria_del_dinero_ES_EN.md` | ADVERTENCIA | sección V listas ES=8, EN=0 |
+| `manifiestos/30_coherencia_fines_medios_ES_EN.md` | ADVERTENCIA | sección II listas ES=10, EN=3; sección IV listas ES=8, EN=0; sección V listas ES=6, EN=0; sección VII listas ES=7, EN=0; sección IX listas ES=9, EN=0 |
 | `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` | ADVERTENCIA | sección I listas ES=11, EN=3; sección II listas ES=6, EN=0; sección III listas ES=11, EN=0; sección IV listas ES=10, EN=0; sección VI listas ES=7, EN=0; sección VIII listas ES=7, EN=0; sección IX listas ES=13, EN=0; sección XI listas ES=10, EN=0; sección XII listas ES=8, EN=0 |
 | `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` | ADVERTENCIA | sección II listas ES=11, EN=3; sección III listas ES=13, EN=5; sección IV listas ES=8, EN=0; sección V listas ES=5, EN=0; sección VI listas ES=7, EN=0; sección VIII listas ES=15, EN=3; sección XI listas ES=13, EN=0; sección XII listas ES=11, EN=1 |
 | `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` | ADVERTENCIA | sección V listas ES=9, EN=0; sección VI listas ES=7, EN=0; sección VII listas ES=9, EN=0; sección XII listas ES=15, EN=5; sección XV listas ES=16, EN=3 |
-| `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | ADVERTENCIA | sección VII listas ES=14, EN=4 |
+| `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` | ADVERTENCIA | sección III listas ES=10, EN=4; sección V listas ES=13, EN=4; sección VII listas ES=0, EN=7; sección IX listas ES=8, EN=0; sección XI listas ES=6, EN=0; sección XIII listas ES=10, EN=0; sección XV listas ES=18, EN=5 |
+| `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | ADVERTENCIA | sección I listas ES=9, EN=0; sección IV listas ES=6, EN=0; sección X listas ES=10, EN=0; sección XI listas ES=6, EN=0; sección XII listas ES=11, EN=3; sección XIII citas ES=8, EN=0; sección XV listas ES=21, EN=5 |
 | `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` | ADVERTENCIA | sección III listas ES=14, EN=0; sección IV listas ES=11, EN=0; sección V listas ES=17, EN=3; sección VI listas ES=8, EN=0; sección IX listas ES=11, EN=0; sección X listas ES=16, EN=0; sección XII listas ES=12, EN=0; sección XIII listas ES=12, EN=0; sección XIV listas ES=8, EN=0; sección XV listas ES=9, EN=0; sección XVI listas ES=7, EN=0; sección XVIII listas ES=11, EN=0; sección XIX listas ES=5, EN=0; sección XX listas ES=6, EN=0; sección XXII listas ES=8, EN=0; sección XXIV listas ES=17, EN=0; sección XXV listas ES=14, EN=0 |
+| `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` | ADVERTENCIA | sección I listas ES=12, EN=0; sección III listas ES=10, EN=0; sección VI listas ES=8, EN=0; sección XI listas ES=8, EN=0; sección XIII listas ES=11, EN=3 |
 | `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` | ADVERTENCIA | sección V listas ES=5, EN=0; sección VIII listas ES=5, EN=0; sección X listas ES=7, EN=0; sección XI listas ES=8, EN=0 |
 | `manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md` | ADVERTENCIA | sección II listas ES=10, EN=0; sección VI listas ES=6, EN=0; sección VII listas ES=9, EN=0; sección XI listas ES=7, EN=0 |
+| `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` | ADVERTENCIA | sección V listas ES=9, EN=0; sección XIII listas ES=16, EN=3 |
 | `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md` | ADVERTENCIA | sección III listas ES=11, EN=0; sección VII listas ES=17, EN=0; sección IX listas ES=13, EN=3; sección XV listas ES=15, EN=3 |
 | `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` | ADVERTENCIA | sección XII listas ES=15, EN=3 |
 | `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` | ADVERTENCIA | sección I listas ES=17, EN=0; sección XII listas ES=10, EN=0; sección XVI listas ES=17, EN=3 |
 | `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` | ADVERTENCIA | sección I listas ES=12, EN=0; sección IV listas ES=7, EN=0; sección XIV listas ES=8, EN=0; sección XVII listas ES=15, EN=3 |
 | `manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md` | ADVERTENCIA | sección V listas ES=12, EN=0; sección IX listas ES=15, EN=0; sección XVII listas ES=15, EN=3 |
+| `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` | ADVERTENCIA | sección II listas ES=7, EN=0; sección V listas ES=12, EN=4; sección XII listas ES=8, EN=0; sección XVII listas ES=11, EN=2; sección XXI listas ES=7, EN=0; sección XXVIII listas ES=16, EN=4 |
+| `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md` | ADVERTENCIA | sección III listas ES=7, EN=0; sección VII listas ES=7, EN=0; sección VIII listas ES=7, EN=0; sección XI listas ES=5, EN=0; sección XII listas ES=6, EN=0; sección XIV listas ES=11, EN=0 |
+| `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` | ADVERTENCIA | sección II listas ES=15, EN=6; sección III listas ES=12, EN=0; sección IV listas ES=11, EN=0; sección VIII listas ES=13, EN=0; sección XI listas ES=7, EN=0; sección XII listas ES=9, EN=0; sección XII citas ES=4, EN=0; sección XIV listas ES=6, EN=0 |
+| `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md` | ADVERTENCIA | sección I listas ES=8, EN=0; sección II listas ES=12, EN=3; sección IV listas ES=10, EN=0; sección V listas ES=8, EN=0; sección VIII listas ES=9, EN=0; sección IX listas ES=7, EN=0; sección X listas ES=9, EN=0; sección XI listas ES=10, EN=0 |
 | `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` | ADVERTENCIA | sección III listas ES=12, EN=0; sección IV listas ES=11, EN=0; sección V listas ES=8, EN=0; sección VII listas ES=8, EN=0; sección X listas ES=8, EN=0; sección XI listas ES=14, EN=0; sección XII listas ES=8, EN=0 |
 | `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` | ADVERTENCIA | sección V listas ES=8, EN=0; sección VIII listas ES=9, EN=0; sección IX listas ES=9, EN=0 |
 | `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md` | ADVERTENCIA | sección II listas ES=8, EN=0; sección IV listas ES=20, EN=0; sección VIII listas ES=11, EN=0; sección XIII listas ES=12, EN=0; sección XIV listas ES=9, EN=0; sección XVI listas ES=11, EN=0; sección XVII listas ES=10, EN=0; sección XIX listas ES=9, EN=0 |
 | `manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md` | ADVERTENCIA | sección V listas ES=10, EN=0; sección VI listas ES=11, EN=4; sección VIII listas ES=7, EN=0; sección X listas ES=10, EN=0 |
 | `manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md` | ADVERTENCIA | sección II listas ES=10, EN=0; sección IV listas ES=9, EN=0; sección IX listas ES=10, EN=0; sección XI listas ES=8, EN=0 |
+| `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` | ADVERTENCIA | sección I listas ES=8, EN=0; sección II listas ES=8, EN=0; sección III listas ES=6, EN=0; sección V listas ES=6, EN=0; sección VII listas ES=10, EN=0; sección VIII listas ES=10, EN=0; sección XI listas ES=9, EN=0; sección XIII listas ES=16, EN=0 |
+| `manifiestos/61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md` | ADVERTENCIA | sección 3 listas ES=6, EN=0; sección 5 listas ES=11, EN=3; sección 8 listas ES=7, EN=0 |
 
 ## Inventario completo
 
@@ -92,30 +91,30 @@
 | `manifiestos/25_pulido_de_la_piedra_ES_EN.md` | 601 | 592 | 0.99 | 10 | 10 | ADVERTENCIA |
 | `manifiestos/26_misericordia_universal_reciproca_ES_EN.md` | 958 | 942 | 0.98 | 12 | 12 | OK |
 | `manifiestos/27_valor_alimentos_vida_ES_EN.md` | 783 | 768 | 0.98 | 14 | 14 | ADVERTENCIA |
-| `manifiestos/28_los_tesla_ES_EN.md` | 697 | 645 | 0.93 | 12 | 12 | REVISAR |
-| `manifiestos/29_idolatria_del_dinero_ES_EN.md` | 819 | 685 | 0.84 | 22 | 15 | REVISAR |
-| `manifiestos/30_coherencia_fines_medios_ES_EN.md` | 725 | 655 | 0.90 | 12 | 12 | REVISAR |
+| `manifiestos/28_los_tesla_ES_EN.md` | 697 | 732 | 1.05 | 12 | 12 | ADVERTENCIA |
+| `manifiestos/29_idolatria_del_dinero_ES_EN.md` | 819 | 897 | 1.10 | 22 | 22 | ADVERTENCIA |
+| `manifiestos/30_coherencia_fines_medios_ES_EN.md` | 725 | 686 | 0.95 | 12 | 12 | ADVERTENCIA |
 | `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` | 943 | 871 | 0.92 | 15 | 15 | ADVERTENCIA |
 | `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` | 1251 | 1211 | 0.97 | 15 | 15 | ADVERTENCIA |
 | `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` | 1679 | 1605 | 0.96 | 17 | 17 | ADVERTENCIA |
-| `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` | 1606 | 1349 | 0.84 | 23 | 16 | REVISAR |
-| `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | 1961 | 1570 | 0.80 | 17 | 17 | REVISAR |
-| `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | 1822 | 1801 | 0.99 | 16 | 16 | ADVERTENCIA |
+| `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` | 1606 | 1618 | 1.01 | 23 | 16 | ADVERTENCIA |
+| `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | 1961 | 1980 | 1.01 | 17 | 17 | ADVERTENCIA |
+| `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | 1822 | 1801 | 0.99 | 16 | 16 | OK |
 | `manifiestos/37_neofraternidad_ES_EN.md` | 1047 | 1057 | 1.01 | 15 | 15 | OK |
 | `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` | 2431 | 2222 | 0.91 | 28 | 28 | ADVERTENCIA |
-| `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` | 1207 | 1068 | 0.88 | 14 | 14 | REVISAR |
+| `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` | 1207 | 1304 | 1.08 | 14 | 14 | ADVERTENCIA |
 | `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` | 1177 | 1167 | 0.99 | 15 | 15 | ADVERTENCIA |
 | `manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md` | 1186 | 1147 | 0.97 | 15 | 15 | ADVERTENCIA |
-| `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` | 1406 | 1176 | 0.84 | 14 | 14 | REVISAR |
+| `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` | 1406 | 1393 | 0.99 | 14 | 14 | ADVERTENCIA |
 | `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md` | 1577 | 1492 | 0.95 | 19 | 19 | ADVERTENCIA |
 | `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` | 1336 | 1342 | 1.00 | 13 | 13 | ADVERTENCIA |
 | `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` | 1824 | 1833 | 1.00 | 22 | 22 | ADVERTENCIA |
 | `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` | 1545 | 1512 | 0.98 | 18 | 18 | ADVERTENCIA |
 | `manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md` | 1687 | 1687 | 1.00 | 18 | 18 | ADVERTENCIA |
-| `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` | 2677 | 2309 | 0.86 | 29 | 29 | REVISAR |
-| `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md` | 1252 | 1106 | 0.88 | 20 | 20 | REVISAR |
-| `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` | 1427 | 1134 | 0.79 | 20 | 20 | REVISAR |
-| `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md` | 1443 | 1383 | 0.96 | 16 | 18 | REVISAR |
+| `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` | 2677 | 2418 | 0.90 | 29 | 29 | ADVERTENCIA |
+| `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md` | 1252 | 1205 | 0.96 | 20 | 20 | ADVERTENCIA |
+| `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` | 1427 | 1236 | 0.87 | 20 | 20 | ADVERTENCIA |
+| `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md` | 1443 | 1482 | 1.03 | 16 | 18 | ADVERTENCIA |
 | `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` | 1449 | 1474 | 1.02 | 21 | 22 | ADVERTENCIA |
 | `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` | 1161 | 1154 | 0.99 | 14 | 14 | ADVERTENCIA |
 | `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md` | 1992 | 1982 | 0.99 | 21 | 22 | ADVERTENCIA |
@@ -124,15 +123,15 @@
 | `manifiestos/57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md` | 556 | 546 | 0.98 | 9 | 9 | OK |
 | `manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md` | 676 | 655 | 0.97 | 12 | 12 | OK |
 | `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md` | 607 | 616 | 1.01 | 12 | 12 | OK |
-| `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` | 1539 | 1524 | 0.99 | 15 | 16 | REVISAR |
-| `manifiestos/61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md` | 1067 | 1072 | 1.00 | 12 | 14 | REVISAR |
+| `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` | 1539 | 1524 | 0.99 | 15 | 16 | ADVERTENCIA |
+| `manifiestos/61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md` | 1067 | 1072 | 1.00 | 12 | 14 | ADVERTENCIA |
 | `manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md` | 1194 | 1221 | 1.02 | 14 | 14 | OK |
 | `manifiestos/63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md` | 1120 | 1141 | 1.02 | 16 | 16 | OK |
 | `manifiestos/64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md` | 838 | 813 | 0.97 | 14 | 14 | OK |
 | `manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md` | 912 | 910 | 1.00 | 14 | 14 | OK |
 | `manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md` | 1651 | 1636 | 0.99 | 14 | 14 | OK |
 | `manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md` | 1167 | 1195 | 1.02 | 13 | 13 | OK |
-| `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md` | 1435 | 1764 | 1.23 | 15 | 16 | REVISAR |
+| `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md` | 1435 | 1764 | 1.23 | 15 | 16 | OK |
 | `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | 1816 | 1827 | 1.01 | 11 | 11 | OK |
 | `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` | 357 | 355 | 0.99 | 1 | 1 | OK |
 | `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` | 3237 | 3440 | 1.06 | 29 | 30 | OK |

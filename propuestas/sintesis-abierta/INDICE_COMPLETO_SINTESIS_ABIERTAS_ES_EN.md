@@ -3,7 +3,7 @@
 
 **Fecha / Date:** 2026-08-10  
 **Estado / Status:** vivo, versionado y revisable / living, versioned and revisable  
-**Cobertura / Coverage:** **65 manifiestos finitos I–LXV + Manifiesto ∞ · 14 Neoaxiomas™ · síntesis transversales, auditorías y proyectos de sistema**.
+**Cobertura / Coverage:** **68 manifiestos finitos I–LXVIII + Manifiesto ∞ · 14 Neoaxiomas™ · síntesis transversales, auditorías y proyectos de sistema**.
 
 > **ABIERTO A SÍNTESIS ≠ VALIDADO.**  
 > **OPEN TO SYNTHESIS ≠ VALIDATED.**
@@ -85,6 +85,9 @@ La comprensión global fiel del marco completo es una tarea distinta: por su den
 | LXIII | [Contra la Simplificación Burda del Marco™](../../manifiestos/63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md) | [#105](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/105) |
 | LXIV | [NeoCronos™ · Medición y Tokenización del Aporte](../../manifiestos/64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md) | [#107](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/107) |
 | LXV | [NeoJuego™ · Juego por el Bien Común Tokenizado](../../manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md) | [#109](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/109) |
+| LXVI | [NeoSinergia™](../../manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md) | [#110](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/110) |
+| LXVII | [NeoTitanes™ · Reconstrucción Sistémica y Motor del Bien Común](../../manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md) | [#112](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/112) |
+| LXVIII | [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie](../../manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md) | [#114](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/114) |
 | ∞ | [Neo0™ · Puerta Abierta del Fractal](../../manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) | [#106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106) |
 
 **Regla ∞:** el manifiesto ∞ no cuenta como número finito; permanece siempre después del último manifiesto numerado y conserva abierta la continuidad del fractal.

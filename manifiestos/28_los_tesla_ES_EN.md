@@ -244,6 +244,18 @@ Elimination is not limited to physical killing.
 
 It may be economic, institutional, reputational, legal and bureaucratic, algorithmic, cognitive, historical or physical. Claims of physical violence, disappearance or caused death require sufficient evidence and strict separation between proof, indication, inference and hypothesis.
 
+<!-- PARITY_72_28_II -->
+The Spanish source distinguishes eight auditable mechanisms rather than collapsing them into one accusation:
+
+- **economic**: funding, employment, access or subsistence;
+- **institutional**: exclusion from decision spaces;
+- **reputational**: discredit without refuting the work;
+- **legal/bureaucratic**: exhaustion through procedures or litigation;
+- **algorithmic**: burying the source while amplifying stronger distributors;
+- **cognitive**: forcing endless re-explanation of documented work;
+- **historical**: preserving the idea while erasing origin;
+- **physical**: violence or caused death, assertable only with sufficient evidence.
+
 ## III. Individual failure as a concealing narrative
 
 The operation reaches its most effective form when its consequences are presented as natural defects of the victim.
@@ -280,6 +292,17 @@ WITHOUT ERASING THEIR DIFFERENCE
 Replacing the creator with a more obedient, prestigious, fundable or controllable figure does not merely steal authorship. It may also steal the original direction of the idea.
 
 What was born to transform the system ends as a product of that same system.
+
+<!-- PARITY_72_28_V -->
+The neutralisation pattern described by the Spanish source is:
+
+```text
+TRANSFORMATIVE IDEA
+→ SEPARATION FROM ITS ORIGIN
+→ COMPATIBLE SPOKESPERSON
+→ ABSORPTION
+→ NEUTRALISATION OF ITS VECTOR
+```
 
 ## VI. Double extraction
 
@@ -464,7 +487,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 - **XXXVII** · [Neofraternidad™ / Neofraternity™](./37_neofraternidad_ES_EN.md)
 - **XL** · [Respeto Neodialéctico, Neoego y Honor Relacional™ / Neodialectical Respect, Neoego and Relational Honour™](./40_respeto_neoego_honor_relacional_ES_EN.md)
 - **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
-- **LXV** · [NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™ · Tokenised Game for the Common Good and Honor of Contribution](./65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
+- **LXVIII** · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species](./68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 

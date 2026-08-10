@@ -494,11 +494,54 @@ ATTENTION CAPTURED BY CONFLICT
 
 Media do not necessarily create war, but their economic architecture may reward continuous amplification of conflict.
 
+<!-- PARITY_72_35_II -->
+The Spanish source makes the asymmetry explicit. Conflict has competitive advantages in an attention economy because it:
+
+- is immediate;
+- provides adversaries that are easy to represent;
+- creates narrative continuity;
+- allows simple headlines;
+- activates fear, indignation and belonging;
+- favours repetition;
+- turns every new episode into a reason to return.
+
+Systemic solutions behave differently because they:
+
+- require context;
+- require comparison among alternatives;
+- may take years to verify;
+- force acknowledgement of uncertainty;
+- do not always provide a hero and a villain;
+- may question the economic structures of the medium that must examine them.
+
 ## III. Amplification is not causation
 
 Reporting on war does not automatically cause or promote it. Yet communication architectures may intensify harmful dynamics when they reward provocation and escalation, remove historical context, turn humiliation into entertainment, amplify incendiary claims without proportionality, hide exit paths or define success solely through clicks and time spent.
 
 Attribution of such effects must be demonstrated case by case.
+
+<!-- PARITY_72_35_III -->
+A communicative architecture can contribute to harmful escalation when it:
+
+- rewards provocation and escalation;
+- simplifies complex conflicts into absolute identities;
+- removes historical context;
+- turns public humiliation into entertainment;
+- amplifies incendiary claims without proportionality;
+- makes exit routes invisible;
+- measures success only through clicks, audience or time spent.
+
+```text
+REPORTING
+≠ FOMENTING
+
+AMPLIFICATION WITHOUT CONTEXT
++ INCENTIVE TO ESCALATE
++ HIDDEN EXIT ROUTES
+= POSSIBLE CONTRIBUTION TO CONFLICT
+```
+
+That contribution must be demonstrated case by case rather than presumed.
 
 ## IV. Ego as an institutional variable
 
@@ -532,6 +575,17 @@ ERROR
 
 This definition makes the phenomenon auditable without insulting individuals.
 
+<!-- PARITY_72_35_V -->
+The operational definition is also preserved explicitly:
+
+```text
+ERROR
++ AVAILABLE EVIDENCE
++ POSSIBILITY OF CORRECTION
++ REPETITION OF THE ERROR
+= OPERATIONAL SYSTEMIC STUPIDITY
+```
+
 ## VI. Empirical proof must be built
 
 The intuition that ego and stupidity dominate a system must be converted into a testable hypothesis.
@@ -549,6 +603,20 @@ INTUITION
 
 Neodialectics does not need criticism to be true by decree. It needs it to be testable, refutable and improvable.
 
+<!-- PARITY_72_35_VI -->
+Empirical scrutiny therefore has to measure, among other variables:
+
+- space devoted to conflict compared with solutions;
+- proportion of reactive news to preventive investigation;
+- follow-up of proposals after their first mention;
+- diversity of sources outside habitual institutional circuits;
+- time granted to complex ideas;
+- public corrections;
+- later recognition of ideas initially ignored;
+- treatment of authors without prior prestige;
+- dependence on traffic or advertising linked to polarising content;
+- relation between intensity of coverage and later effects.
+
 ## VII. The civilisational scandal of ignoring solutions
 
 The contradiction becomes severe when societies recognise climate crisis, recurring wars, political fragmentation, attention collapse, economic concentration, AI disruption, meaning crises and institutional deterioration while allocating little stable informational capacity to identifying, comparing and auditing integrative frameworks that address several of these problems together.
@@ -556,6 +624,21 @@ The contradiction becomes severe when societies recognise climate crisis, recurr
 No media outlet is required to accept the Neodialectica Framework™ as a universal solution.
 
 A public, versioned, traceable and criticisable civilisational proposal should simply be capable of being examined on content and results rather than filtered only through prestige or institutional size.
+
+<!-- PARITY_72_35_VII -->
+The contradiction becomes especially serious when a society simultaneously recognises:
+
+- climate crisis;
+- recurrent wars;
+- loss of trust;
+- political fragmentation;
+- crises of mental health and attention;
+- economic concentration;
+- disruption produced by artificial intelligence;
+- loss of meaning in work;
+- institutional deterioration;
+
+while devoting little stable informational capacity to finding, comparing and auditing integrative frameworks able to relate several of those problems at once.
 
 ## VIII. The framework cannot proclaim total solution
 
@@ -584,6 +667,20 @@ CIVILISATIONAL MEDIA
 + AUDIT THEM
 + FOLLOW RESULTS
 ```
+
+<!-- PARITY_72_35_IX -->
+The complete operational set proposed by the Spanish source is:
+
+1. **detection of real novelty**, including novelty outside dominant institutions;
+2. **solutions journalism**, without becoming propaganda;
+3. **audit of proposals**, not only coverage of crises;
+4. **longitudinal memory**, so that claims can be checked against later outcomes;
+5. **follow-up of corrections**, not only of the initial error;
+6. **space for complexity** when the object requires it;
+7. **comparison of systems**, not only statements;
+8. **transparency about economic incentives**;
+9. **metrics of social impact** in addition to audience metrics;
+10. **capacity to acknowledge that something relevant was previously ignored**.
 
 ## X. Public audit of attention
 
@@ -787,8 +884,8 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 - **XLV** · [Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder / Neodialectical Multidimensionality™ · Against the One-Dimensional Reduction of the Human and Power](XLV_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
 - **XLVI** · [Cerrar la Herida™ · Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria / Closing the Wound™ · Evolutionary Understanding, Memory and Civilisational Reconciliation](XLVI_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
 - **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
-- **LXV** · [NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™ · Tokenised Game for the Common Good and Honor of Contribution](LXV_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
 - **LXVI** · [NeoSinergia™ · Necesidad de Cooperación en Neowar™ Activa · Sistema MÉDICI™ · Leónidas–Cancerbero™ / NeoSynergy™ · Necessary Cooperation under Active Neowar™ · MÉDICI™ System · Leónidas–Cerberus™](LXVI_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
+- **LXVIII** · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species](LXVIII_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 

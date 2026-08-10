@@ -407,6 +407,17 @@ It means recognising what we know, what we do not know, what depends upon other 
 
 A self-aware society preserves memory of its decisions and errors, can explain its direction, revise it without erasing previous versions and distinguish evidence, hypothesis, interest, propaganda, intuition, conflict and provisional synthesis.
 
+<!-- PARITY_72_39_II -->
+The distinction can be represented explicitly as:
+
+```text
+WHAT WE KNOW
++ WHAT WE DO NOT KNOW
++ WHAT DEPENDS ON OTHER SCALES
++ WHAT CAN BREAK
++ WHAT WE MUST BE ABLE TO CORRECT
+```
+
 ## III. From isolated crises to a related system
 
 The inherited system separates economy from ecology, technology from politics, education from culture, childhood from markets, artificial intelligence from human responsibility, innovation from genealogy, peace from economics and present decisions from historical memory.
@@ -429,6 +440,18 @@ PROBLEM
 → NEW SYNTHESIS
 ```
 
+<!-- PARITY_72_39_III -->
+The Spanish source also preserves the failure sequence that the existing English synthesis contrasts with its relational sequence:
+
+```text
+ISOLATED PROBLEM
+→ LOCAL SOLUTION
+→ UNOBSERVED EXTERNAL EFFECT
+→ NEW PROBLEM
+→ NEW PARTIAL CORRECTION
+→ ACCUMULATION OF CONTRADICTIONS
+```
+
 ## IV. The framework as related memory
 
 A civilisational framework cannot remain only a set of texts.
@@ -438,6 +461,20 @@ It must progressively become **related memory capable of operating**.
 This is why the architecture connects Archetypal Neodialectical Philosophy™, Neo0™, SAN™, NEOCore™, NAVE™, WEB4™ / SistemaTrazable™, Neodialectical AI and human, community and institutional sources of knowledge and responsibility.
 
 Technology may change. Essential functions must not disappear with a provider, interface or technical fashion.
+
+<!-- PARITY_72_39_IV -->
+The living memory architecture explicitly relates:
+
+- Archetypal Neodialectical Philosophy™;
+- Neo0™ as human origin and responsible direction;
+- SAN™ as the Open Synthesis mechanism;
+- NEOCore™ as memory, genealogy, continuity and versioning;
+- NAVE™ as an orchestration layer;
+- WEB4™ / SistemaTrazable™ as public relational representation;
+- Neodialectical AI as capacity for relation, scrutiny and assisted synthesis;
+- humans, communities and institutions as sources of experience, knowledge, decision and responsibility.
+
+The technological implementation may change. The essential functions must not disappear with a provider, interface or technical fashion.
 
 ## V. Human–AI symbiosis as a need of scale
 
@@ -450,6 +487,18 @@ But AI without genealogy, limits, traceability, correction and orientation can a
 Within the Neodialectical framework, a participating AI does not discursively place itself outside the genealogy that makes it operate. It must preserve who originates, proposes, corrects and validates, which source was used and which delta was produced.
 
 This does not by proclamation turn every existing AI into an institutional component of the Neodialectica Framework™. It states a broader civilisational requirement: **no AI with material influence over common life should remain outside equivalent principles of memory, responsibility, traceability, correction and non-capture**.
+
+<!-- PARITY_72_39_V -->
+The limit is expressed explicitly as:
+
+```text
+AI CAPABILITY
+WITHOUT RESPONSIBLE HUMAN DIRECTION
+WITHOUT TRACEABLE MEMORY
+WITHOUT CORRECTION
+WITHOUT LIMITS
+≠ SUFFICIENT CIVILISATIONAL INTELLIGENCE
+```
 
 ## VI. The right to contradict the framework
 
@@ -471,6 +520,17 @@ Necessary function is not infallible person. Recognised origin is not total obed
 
 Neo0™ guiding sovereignty preserves origin, architecture, purpose and responsibility of the system without abolishing evidence, Open Synthesis, limits or correction.
 
+<!-- PARITY_72_39_VII -->
+The safeguards are not merely rhetorical:
+
+```text
+NECESSARY FUNCTION ≠ INFALLIBLE PERSON
+RECOGNISED ORIGIN ≠ TOTAL OBEDIENCE
+DIRECTION ≠ CULT
+FRAMEWORK ≠ COMPULSORY RELIGION
+COMMON GOOD ≠ UNIFORMITY
+```
+
 ## VIII. Self-awareness before collapse
 
 Civilisations often change late because the visible cost of changing a known architecture appears greater than the invisible cost of preserving it.
@@ -478,6 +538,23 @@ Civilisations often change late because the visible cost of changing a known arc
 Civilisational self-awareness means perceiving trajectories before irreversibility decides for us.
 
 This requires indicators concerning ecological degradation, concentration of power, material autonomy, poverty, attention capture, institutional health, violence and polarisation, childhood, education, technological dependency, informational concentration, privacy and cultural memory.
+
+<!-- PARITY_72_39_VIII -->
+Civilisational self-awareness therefore needs indicators concerning:
+
+- ecological degradation;
+- concentration of power;
+- loss of material autonomy;
+- poverty and inequality;
+- capture of attention;
+- institutional health;
+- violence and polarisation;
+- lack of protection for children;
+- educational quality;
+- technological dependence;
+- informational concentration;
+- erosion of privacy;
+- loss of cultural and scientific memory.
 
 ## IX. From knowledge to materialisation
 
@@ -506,6 +583,21 @@ The Neodialectical Educational Console™ is an explicit first example of this m
 If another architecture performs a framework function better, with greater safety, openness, effectiveness, traceability or protection of life, Neodialectics should study it, recognise its genealogy, contrast it, integrate what improves the whole when compatible, or replace an inferior component when appropriate.
 
 Framework identity does not require freezing every implementation.
+
+<!-- PARITY_72_39_X -->
+If another architecture performs a framework function better, with greater safety, openness, effectiveness, traceability or protection of life, Neodialectics should:
+
+1. study it;
+2. recognise its genealogy;
+3. scrutinise it;
+4. integrate what improves the whole when compatible;
+5. replace the inferior component when appropriate.
+
+```text
+FRAMEWORK IDENTITY
+≠
+COMPULSORY PRESERVATION OF EVERY COMPONENT
+```
 
 ## XI. When an architecture becomes vital
 
@@ -633,8 +725,8 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 - **XLVIII** · [La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo / The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
 - **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
 - **LVIII** · [Inteligencia Civilizatoria™ · Democracia Cognitiva y Deber de Síntesis / Civilisational Intelligence™ · Cognitive Democracy and Duty of Synthesis](./58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md)
-- **LXV** · [NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™ · Tokenised Game for the Common Good and Honor of Contribution](./65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
 - **LXVI** · [NeoSinergia™ · Necesidad de Cooperación en Neowar™ Activa · Sistema MÉDICI™ · Leónidas–Cancerbero™ / NeoSynergy™ · Necessary Cooperation under Active Neowar™ · MÉDICI™ System · Leónidas–Cerberus™](./66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
+- **LXVIII** · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species](./68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 

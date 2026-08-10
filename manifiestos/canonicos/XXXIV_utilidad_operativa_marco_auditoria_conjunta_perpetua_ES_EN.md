@@ -481,6 +481,35 @@ AUDIT
 + CORRECT
 ```
 
+<!-- PARITY_72_34_II -->
+The audit function is explicitly decomposed in the Spanish source so that it can:
+
+1. reconstruct what was claimed;
+2. identify who made the claim and in what context;
+3. recover the available sources and evidence;
+4. separate fact, testimony, inference, hypothesis and proposal;
+5. identify contradictions and missing information;
+6. compare alternative explanations;
+7. preserve dissent instead of erasing it;
+8. record corrections and changes of criterion;
+9. connect the case with related cases and systemic patterns;
+10. verify whether a proposed repair was actually applied;
+11. measure the result after implementation;
+12. reopen the case if materially new evidence appears.
+
+```text
+CLAIM
+→ SOURCE / EVIDENCE
+→ CONTRADICTION
+→ ALTERNATIVES
+→ PROVISIONAL SYNTHESIS
+→ ACTION
+→ MEASUREMENT
+→ DELTA
+```
+
+The objective is not to create an omniscient tribunal. It is to prevent conclusions, corrections and responsibilities from disappearing each time the conversational context changes.
+
 ## III. Audit begins with ourselves
 
 The framework loses legitimacy if it demands external traceability while declaring itself immune from it.
@@ -491,6 +520,17 @@ Manifestos are not tablets delivered outside history. They are **living objects 
 
 Each version should answer what changed, why, who contributed, what source justified the change, what was preserved and what effect the delta has upon the whole.
 
+<!-- PARITY_72_34_III -->
+The question that must remain visible is:
+
+```text
+WHAT DO WE KNOW?
++ HOW DO WE KNOW IT?
++ WHAT CONTRADICTS IT?
++ WHAT IS STILL MISSING?
++ WHAT WOULD CHANGE THE CONCLUSION?
+```
+
 ## IV. Manifestos as part of perpetual audit
 
 Each manifesto simultaneously functions as an architectural proposal and as an object permanently audited through Open Synthesis.
@@ -500,6 +540,14 @@ The collection therefore operates as an **open long-duration civilisational audi
 Perpetual audit does not mean infinite discussion without learning. It means **no version is permanently protected from superior evidence**.
 
 Continuity requires memory; openness requires correctability.
+
+<!-- PARITY_72_34_IV -->
+The framework therefore distinguishes declaration from demonstrated usefulness:
+
+```text
+FRAMEWORK + VERIFIABLE RESULT
+= UTILITY DEMONSTRATED IN THAT CASE
+```
 
 ## V. Open Synthesis as the engine of joint audit
 
@@ -538,6 +586,17 @@ A system that forgets every incident forces society to pay the same cost repeate
 ## VII. Concrete utility of the Neodialectica Framework™
 
 The framework should create utility at multiple scales: helping persons distinguish experience and conditioning; reconstructing organisational processes and failure points; revealing market separation between price and contributed value; auditing whether technology expands capacity or captures autonomy; preserving institutional responses and corrections; maintaining cultural genealogy; and comparing whether the direction of multiple systems increases life, understanding, creative capacity and the Common Good or accumulates fragmentation and extraction.
+
+<!-- PARITY_72_34_VII -->
+The Spanish source specifies the same utility test across seven scales:
+
+- **Person:** help distinguish experience, conditioning, interest, fear, evidence and one's own direction.
+- **Organisation:** reconstruct processes, responsibilities, dependencies, failure points, hidden costs and repair routes.
+- **Market:** show when price, attention or bargaining power separate from the real value contributed.
+- **Technology:** audit whether a tool expands human capacity or captures autonomy, memory, identity or decision.
+- **Institutions:** preserve responses, commitments, inconsistencies, improvements and absence of response in traceable public memory.
+- **Culture:** relate works, symbols, genealogies and transformations without erasing provenance.
+- **Civilisation:** compare the combined direction of multiple systems and ask whether their sum increases life, understanding, sufficient freedom, creative capacity and the Common Good, or instead produces fragmentation, extraction and accumulated harm.
 
 ## VIII. From error to contribution
 
@@ -789,7 +848,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 - **XL** · [Respeto Neodialéctico, Neoego y Honor Relacional™ / Neodialectical Respect, Neoego and Relational Honour™](XL_respeto_neoego_honor_relacional_ES_EN.md)
 - **XLI** · [Martillo Limitado, Talión y Fuerza Protectora™ / Limited Hammer, Talion and Protective Force™](XLI_martillo_limitado_talion_fuerza_protectora_ES_EN.md)
 - **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
-- **LXV** · [NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™ · Tokenised Game for the Common Good and Honor of Contribution](LXV_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
+- **LXVIII** · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species](LXVIII_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 

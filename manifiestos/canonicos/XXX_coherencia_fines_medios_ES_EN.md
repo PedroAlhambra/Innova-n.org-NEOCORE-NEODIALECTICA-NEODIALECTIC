@@ -255,6 +255,19 @@ A victory requiring permanent lies must continue lying in order to survive.
 
 A means must be evaluated through necessity, proportionality, possible transparency, reversibility, temporality, responsibility, traceability, non-dehumanisation and coherence with the core of the end.
 
+<!-- PARITY_72_30_III -->
+The legitimacy test in the Spanish source asks for all of the following dimensions:
+
+- **necessity**: whether the measure is genuinely needed for the stated end;
+- **proportionality**: whether its cost and intrusion are proportionate to the problem;
+- **possible transparency**: whether reasons, criteria and limits can be made visible without creating a greater harm;
+- **reversibility**: whether the measure can be withdrawn when it fails or its justification disappears;
+- **temporality**: whether exceptional means have an explicit duration instead of becoming permanent by inertia;
+- **responsibility**: whether identifiable humans and institutions remain answerable for consequences;
+- **traceability**: whether decisions, changes and evidence can be reconstructed later;
+- **non-dehumanisation**: whether people remain persons rather than expendable variables of the objective;
+- **coherence**: whether the means preserve rather than destroy the value invoked by the end.
+
 ## IV. Defence, conflict and force
 
 Neodialectics does not require defencelessness.
@@ -431,7 +444,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 - **XLV** · [Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder / Neodialectical Multidimensionality™ · Against the One-Dimensional Reduction of the Human and Power](XLV_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
 - **XLVI** · [Cerrar la Herida™ · Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria / Closing the Wound™ · Evolutionary Understanding, Memory and Civilisational Reconciliation](XLVI_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
 - **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
-- **LXV** · [NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™ · Tokenised Game for the Common Good and Honor of Contribution](LXV_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
+- **LXVIII** · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species](LXVIII_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 

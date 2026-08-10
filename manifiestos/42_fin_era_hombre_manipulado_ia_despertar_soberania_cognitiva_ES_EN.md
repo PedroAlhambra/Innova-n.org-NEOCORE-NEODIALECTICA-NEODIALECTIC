@@ -391,6 +391,18 @@ The problem begins when architecture systematically maximises retention over und
 
 The answer is not to abandon technology. It is to **recover it for the human**.
 
+<!-- PARITY_72_42_III -->
+Capture appears when an interface is systematically oriented to:
+
+- maximising permanence rather than understanding;
+- provoking reaction before reflection;
+- personalising stimuli to exploit vulnerabilities;
+- fragmenting context;
+- replacing memory with flow;
+- turning indignation into a product;
+- hiding selection criteria;
+- reducing the person to a prediction and monetisation profile.
+
 ## IV. AI as an augmented cognitive mirror
 
 Used responsibly, AI can help people compare sources, reconstruct chronologies, detect contradictions, identify assumptions, connect economics, politics, technology, ecology and culture, translate specialised knowledge, compare alternatives, preserve decisions and identify missing information.
@@ -398,6 +410,19 @@ Used responsibly, AI can help people compare sources, reconstruct chronologies, 
 This does not make AI the final authority. It makes it an **instrument for enlarging the field of understanding**.
 
 Responsible authority must remain human, identifiable and reviewable.
+
+<!-- PARITY_72_42_IV -->
+Used correctly, AI can help a person:
+
+- compare sources;
+- reconstruct chronologies;
+- detect contradictions;
+- identify hidden assumptions;
+- relate economics, politics, technology, ecology and culture;
+- translate specialised knowledge;
+- simulate alternatives;
+- preserve decisions and their reasons;
+- ask what information is missing before concluding.
 
 ## V. The same AI can perfect the cage
 
@@ -416,6 +441,24 @@ The decisive variable is the architecture of relation.
 ## VI. Conditions for emancipatory AI
 
 AI oriented towards cognitive sovereignty should favour human direction, return to sources, separation of fact from inference and hypothesis, traceable memory, plural contrast, uncertainty disclosure, contradiction detection, reviewable reasoning, privacy, freedom from addiction-maximisation, continuous correction, cognitive-time sovereignty, reinforced childhood protection and orientation towards the Common Good without erasing individual autonomy.
+
+<!-- PARITY_72_42_VI -->
+An AI oriented towards cognitive sovereignty should favour:
+
+1. **identifiable human direction**;
+2. **return to sources**;
+3. **separation between fact, inference, hypothesis and opinion**;
+4. **traceable memory**;
+5. **plurality and scrutiny**;
+6. **capacity to say “I do not know”**;
+7. **detection of contradictions**;
+8. **sufficient explanation to review decisions**;
+9. **protection against commercial capture of intimacy**;
+10. **absence of primary optimisation for addiction or permanence**;
+11. **continuous correction**;
+12. **right to disconnection and sovereignty over cognitive time**;
+13. **reinforced protection of childhood**;
+14. **orientation towards the Common Good without cancelling individual autonomy**.
 
 ## VII. Awakening does not mean adopting a doctrine
 
@@ -453,6 +496,18 @@ PERSON
 
 The aim is not to abolish markets, media, institutions or technology, but to prevent them from operating upon cognitively defenceless persons.
 
+<!-- PARITY_72_42_VIII -->
+The Spanish source explicitly contrasts the existing English person-centred sequence with the reduction sequence:
+
+```text
+USER
+→ AUDIENCE
+→ DATA
+→ PROFILE
+→ TARGET
+→ CONVERSION
+```
+
 ## IX. IDEA as narrative gateway
 
 IDEA was written between 1997 and 2002, before the present explosion of generative AI and before the later vocabulary of Neodialectics.
@@ -460,6 +515,19 @@ IDEA was written between 1997 and 2002, before the present explosion of generati
 Its 2026 publication allows it to be read both as an autonomous literary work and as an early genealogical document around questions later reappearing in the framework: control, memory, perception, identity, artificial intelligence, autonomy and power.
 
 IDEA is therefore not presented merely as «a book about AI». It can function as a **narrative gateway to a later civilisational architecture attempting to answer problems already interrogated by the fiction**.
+
+<!-- PARITY_72_42_IX -->
+The chronology must remain explicit:
+
+```text
+IDEA · 1997–2002
+        ↓
+EXPERIENCE + CRISES + CONCEPTUAL DEVELOPMENT
+        ↓
+NEODIALECTICS / FRAMEWORK / NETWORK
+        ↓
+OPEN SYNTHESIS + SYMBIOTIC AI + TRACEABILITY
+```
 
 ## X. Urgency without prophecy
 
@@ -638,7 +706,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 - **XLVI** · [Cerrar la Herida™ · Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria / Closing the Wound™ · Evolutionary Understanding, Memory and Civilisational Reconciliation](./46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
 - **XLVIII** · [La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo / The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
 - **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
-- **LXV** · [NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™ · Tokenised Game for the Common Good and Honor of Contribution](./65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
+- **LXVIII** · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species](./68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 

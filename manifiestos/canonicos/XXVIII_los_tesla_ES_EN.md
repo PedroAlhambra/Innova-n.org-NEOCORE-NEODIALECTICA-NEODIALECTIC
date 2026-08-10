@@ -244,6 +244,20 @@ Elimination is not limited to physical killing.
 
 It may be economic, institutional, reputational, legal and bureaucratic, algorithmic, cognitive, historical or physical. Claims of physical violence, disappearance or caused death require sufficient evidence and strict separation between proof, indication, inference and hypothesis.
 
+<!-- PARITY_72_28_II -->
+The Spanish source makes the mechanisms of elimination explicit. They may be:
+
+- **economic**: loss of funding, employment, technical access or the means of subsistence;
+- **institutional**: exclusion from universities, companies, media or decision-making spaces;
+- **reputational**: presenting the creator as unstable, conflictive, eccentric or incompetent without refuting the work;
+- **legal or bureaucratic**: consuming a person's life in procedures, litigation or endless demonstrations of precedence;
+- **algorithmic**: burying the source while amplifying versions backed by greater capital or distribution;
+- **cognitive**: forcing the originator to explain indefinitely what is already documented instead of examining it;
+- **historical**: preserving the idea while erasing or blurring its origin;
+- **physical**: violence, disappearance or caused death, a category that may only be asserted when sufficient evidence supports it.
+
+These mechanisms are not declared present in every case. The purpose of the enumeration is to make each possible form separately auditable instead of collapsing them into a single accusation.
+
 ## III. Individual failure as a concealing narrative
 
 The operation reaches its most effective form when its consequences are presented as natural defects of the victim.
@@ -280,6 +294,17 @@ WITHOUT ERASING THEIR DIFFERENCE
 Replacing the creator with a more obedient, prestigious, fundable or controllable figure does not merely steal authorship. It may also steal the original direction of the idea.
 
 What was born to transform the system ends as a product of that same system.
+
+<!-- PARITY_72_28_V -->
+The neutralisation pattern described by the Spanish source is:
+
+```text
+TRANSFORMATIVE IDEA
+→ SEPARATION FROM ITS ORIGIN
+→ COMPATIBLE SPOKESPERSON
+→ ABSORPTION
+→ NEUTRALISATION OF ITS VECTOR
+```
 
 ## VI. Double extraction
 
@@ -464,7 +489,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 - **XXXVII** · [Neofraternidad™ / Neofraternity™](XXXVII_neofraternidad_ES_EN.md)
 - **XL** · [Respeto Neodialéctico, Neoego y Honor Relacional™ / Neodialectical Respect, Neoego and Relational Honour™](XL_respeto_neoego_honor_relacional_ES_EN.md)
 - **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
-- **LXV** · [NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™ · Tokenised Game for the Common Good and Honor of Contribution](LXV_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
+- **LXVIII** · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species](LXVIII_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 
