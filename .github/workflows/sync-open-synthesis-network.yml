@@ -9,6 +9,7 @@ on:
       - 'manifiestos/CANONICAL_FILENAMES.json'
       - 'propuestas/sintesis-abierta/README.md'
       - '.github/workflows/sync-open-synthesis-network.yml'
+      - '.github/scripts/register_manifestos_LXIII_LXVI.py'
       - '.github/scripts/sync_open_synthesis_manifestos.py'
       - '.github/scripts/sync_canonical_manifestos.py'
       - '.github/scripts/normalize_manifesto_indices.py'
@@ -29,6 +30,8 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+      - name: Register recent manifestos in canonical catalogue
+        run: python .github/scripts/register_manifestos_LXIII_LXVI.py
       - name: Synchronize Open Synthesis network
         run: python .github/scripts/sync_open_synthesis_manifestos.py
       - name: Normalize canonical indices
