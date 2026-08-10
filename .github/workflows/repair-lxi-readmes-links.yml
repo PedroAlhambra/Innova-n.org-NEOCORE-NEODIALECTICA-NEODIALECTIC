@@ -9,6 +9,7 @@ on:
 permissions:
   contents: write
 
+# One-shot repair retriggered manually on 2026-08-10 to complete LXI propagation.
 jobs:
   repair:
     runs-on: ubuntu-latest
