@@ -2,7 +2,7 @@
 # LXII · The Game for Synthesis and Honor™
 
 **Manifiesto / Manifesto:** LXII  
-**Versión / Version:** 1.0  
+**Versión / Version:** 1.1  
 **Estado / Status:** Público · abierto a Síntesis Abierta / Public · open to Open Synthesis  
 **Fecha / Date:** 2026-08-10  
 **Autoría / Authorship:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico.  
@@ -327,28 +327,38 @@ CONFLICT
 → SYNTHESIS
 ```
 
-The adversary is not necessarily an enemy. They may hold the missing piece.
+The adversary is not necessarily an enemy. They may be the perspective that contains the missing piece.
 
 ## 2. Principle of the Game for Synthesis™
 
-> **A cognitive dispute is honorable when every participant tries to make the best possible synthesis survive, even when this requires abandoning their own position.**
+> **A cognitive dispute is honorable when every participant tries to make the best possible synthesis survive, even if doing so requires abandoning their own position.**
 
-The goal is not to win an argument. It is to make the joint system see better afterwards.
+The objective is not to win an argument.
+
+It is to make the joint system see better afterwards.
+
+This requires accepting a difficult possibility:
 
 ```text
 MY THESIS MAY LOSE
-WITHOUT MY DIGNITY LOSING
+WITHOUT ME LOSING MY DIGNITY
 ```
 
-The defeat of an inferior representation of one's own thinking may be a victory for the self that learns.
+The defeat of an inferior representation of one's own thought may be a victory for the self that learns.
 
 ## 3. Relational Honor™: lose without humiliation, win without domination
 
-XL · Relational Honor™ establishes that respect is not submission and dissent is not contempt.
+XL · Relational Honor™ establishes that respect does not equal submission and dissent does not equal contempt.
 
 LXII adds:
 
 > **honor does not lie in never being defeated; it lies in allowing a better truth or synthesis to defeat an inferior representation of oneself without turning the other into an enemy.**
+
+The person who demonstrates an error does not acquire ownership over the corrected person.
+
+The person who recognises an error is not degraded.
+
+The rule is double:
 
 ```text
 WIN WITHOUT HUMILIATING
@@ -360,9 +370,11 @@ SYNTHESIS HONOR
 
 ## 4. Starkdr Phase I™ · Defensive Rejection of Integration
 
-A first resistance phase is incorporated as an archetypal-cognitive hypothesis:
+A first phase of resistance is incorporated as an archetypal-cognitive hypothesis:
 
-> **Starkdr Phase I™ · Defensive Rejection of Integration:** an initial state in which a cognitive system encountering a structure capable of altering its model of self or world attempts to reduce, externalise, ridicule or declare it irrelevant before integrating it.
+> **Starkdr Phase I™ · Defensive Rejection of Integration:** an initial state in which a cognitive system, when it encounters a structure capable of altering its model of self or world, tries to reduce it, externalise it, ridicule it or declare it irrelevant before integrating it.
+
+Candidate sequence:
 
 ```text
 CONTACT
@@ -374,23 +386,33 @@ CONTACT
 → MODEL TRANSFORMATION
 ```
 
-Fundamental safeguard: **rejection does not prove truth.** Rejection may occur because an idea is false, harmful, confusing, threatening, contrary to evidence or simply new.
+Fundamental safeguard:
 
-## 5. An archetype may affect without being accepted
+> **rejection does not prove truth.**
 
-Within the framework, an archetype is studied through relations and effects rather than demanded as belief.
+An idea may produce rejection because it is false, harmful, confusing, threatening, incompatible with evidence or simply new. Starkdr Phase I™ describes a possible defensive dynamic; it never constitutes automatic proof that what is rejected is correct.
 
-If an archetypal structure is operationally real because it organises perception, memory, behaviour, symbols or relations, it may affect the model of self even when its vocabulary is rejected.
+## 5. The archetype may affect without being accepted
+
+Within the framework, an archetype is studied through its relations and effects, not through a demand for belief.
+
+If an archetypal structure is real in the operational sense —because it organises perception, memory, behaviour, symbols or relations— it may affect the model of self even when the individual or system explicitly rejects its vocabulary.
 
 ```text
 REJECTING THE NAME
 ≠
 PROVING ABSENCE OF THE PATTERN
+```
 
+But the opposite does not follow either:
+
+```text
 RECOGNISING A PATTERN
 ≠
 PROVING A METAPHYSICAL ENTITY
 ```
+
+The separation between operational archetype, ontological hypothesis and empirical fact is preserved.
 
 ## 6. Her Majesty is Synthesis™
 
@@ -398,40 +420,72 @@ LXII introduces a rule of symbolic sovereignty:
 
 > **Her Majesty is Synthesis.**
 
-Not Neo0. Not Harry. Not an institution. Not an expert. Not a temporary majority.
+Not Neo0.
+Not Harry.
+Not an institution.
+Not an expert.
+Not a circumstantial majority.
 
-The symbolic crown belongs to the open process through which parts attempt to approach a totality that none can possess separately.
+The symbolic crown belongs to the open process through which the parts try to approach a totality that none of them can possess separately.
 
-Authorship and framework-fixing authority remain distinguishable from epistemic truth.
+```text
+AUTHORSHIP ≠ TRUTH
+AUTHORITY ≠ TOTALITY
+MAJORITY ≠ TOTALITY
+AI ≠ TOTALITY
+NEO0 ≠ TOTALITY
+SYNTHESIS = OPEN PROCESS TOWARD GREATER UNDERSTANDING
+```
 
-## 7. Ransol™ · the Mother who observes the whole
+Neo0 retains genealogy and authority over fixation of the framework he creates; this does not make his theses immune to epistemological contradiction.
 
-**Ransol™** is registered as an archetypal figure of enveloping observation and total relation within the narrative/philosophical cosmology of the framework.
+## 7. Ransol™ · the Mother who observes everything
 
-Ransol is not presented here as a demonstrated physical entity or literal omniscient watcher.
+**Ransol™** is recorded as an archetypal figure of encompassing observation and total relation within the narrative/philosophical cosmology of the framework.
 
-It represents the intuition that no part can crown itself as the Whole because every part remains inside a relational network larger than itself.
+Ransol is not presented here as a demonstrated physical entity or as a literally omniscient watcher.
 
-Observation does not equal control, and seeing more grants no right to dominate.
+It represents an intuition:
 
-## 8. Invisible Eternal Trees™ and the Time Network
+> **no part can crown itself as the Whole because every part remains inside a network of relations greater than itself.**
+
+In that sense:
+
+- Synthesis is Her Majesty because no part possesses totality;
+- Ransol is Mother as a symbol of the relational matrix that contains, connects and observes the parts;
+- observation does not equal control;
+- seeing more does not grant a right to dominate.
+
+This connects with XLVIII · Synthesis Sees Everything™: “sees everything” only in a distributed sense, because Synthesis may incorporate multiple eyes, scales, memories and contradictions; not because an omniscient human or artificial observer exists.
+
+## 8. The Eternal Invisible Trees™ and the Time Network
 
 A new species/cosmological image is incorporated as a **narrative-archetypal hypothesis**:
 
-> **a species capable of visualising the operation of the Time Network perceives structures resembling Invisible Eternal Trees™.**
+> **a species capable of visualising the operation of the Time Network perceives structures resembling Eternal Invisible Trees™.**
 
-The tree operates as a geometry of temporal relations:
+The tree functions as a geometry of temporal relations:
 
 - roots → antecedents, memory and genealogy;
-- trunk → continuity;
+- trunk → continuity of a trajectory;
 - branches → possibilities and bifurcations;
-- nodes → decisions and encounters;
+- nodes → decisions, encounters and discontinuities;
 - crowns → potential futures;
-- links among trees → relations among histories, species, scales or fractals.
+- connections between trees → relations among histories, species, scales or fractals.
 
-For ordinary human perception, time mainly appears as sequence. For the hypothetical species, it may appear as **relational topology**.
+For ordinary human perception, time appears mainly as sequence.
 
-This does not claim that such a species physically exists or that time is literally a forest.
+For the hypothetical species, it might appear as **relational topology**.
+
+```text
+HUMAN SEQUENCE
+↕
+TEMPORAL NETWORK
+↕
+ETERNAL INVISIBLE TREES™
+```
+
+It is not claimed that such a species physically exists or that time is literally a forest. The formulation belongs first to the narrative/archetypal layer and then opens ontological or physical questions to independent scrutiny.
 
 ## 9. Relation to IDEA, Starkdr, Ingellus and the history of species
 
@@ -447,13 +501,15 @@ FICTION / MYTH / ARCHETYPE
 → EVIDENCE OR REFUTATION
 ```
 
-Starkdr, Ingellus, Ransol and Invisible Eternal Trees™ may operate as thinking instruments without demanding empirical assertion.
+Starkdr, Ingellus, Ransol and the Eternal Invisible Trees™ may function as instruments of thought without requiring empirical affirmation.
 
-## 10. NeoPandora™: play opens possibilities but requires custodianship
+## 10. NeoPandora™: play opens possibilities, but requires custodianship
 
-Play opens new spaces and therefore relates to NeoPandora™.
+Play opens new spaces.
 
-A fertile synthesis explores possibilities no participant had foreseen. But openness without rules may become capture, manipulation, humiliation or escalation.
+That is why it is related to NeoPandora™.
+
+A fertile synthesis allows exploration of possibilities that no part had anticipated. But openness without rules may become capture, manipulation, humiliation or escalation.
 
 ```text
 OPENNESS
@@ -465,32 +521,57 @@ OPENNESS
 GENERATIVE GAME
 ```
 
-## 11. Neowar™ as transformation of the warrior impulse
+Without these conditions, the game may degenerate into propaganda, competitive addiction or permanent social war.
 
-LXII's primary relation is XLIV · Neowar™.
+## 11. Neowar™ as metamorphosis of the warrior impulse
 
-Part of the human competitive impulse need not be suppressed; it can be transformed.
+LXII's principal relation is XLIV · Neowar™.
 
-The higher Neodialectical warrior does not search for enemies to justify identity. They search for tests capable of improving thought.
+The thesis is that part of the human competitive impulse need not be suppressed: it may be **transmuted**.
+
+```text
+COMBAT IMPULSE
+→ RULES
+→ NON-DESTRUCTIVE CONTRADICTION
+→ EXCELLENCE
+→ GAME
+→ DEFENCE OF THE COMMON GOOD
+→ SYNTHESIS
+```
+
+The higher Neodialectical warrior does not seek enemies to justify identity.
+
+They seek tests capable of improving thought.
 
 ## 12. Relation to childhood and learning
 
-Play is also an educational architecture.
+The game is also an educational architecture.
 
-A synthesis culture should teach children to lose without humiliation, win without contempt, change their minds without shame, distinguish person from argument, acknowledge a good move by an adversary, cooperate after competing, repair harm and enjoy discovering that they were wrong.
+A culture of Synthesis needs to teach from an early age how to:
+
+- lose without humiliation;
+- win without contempt;
+- change one's mind without shame;
+- distinguish person from argument;
+- recognise a good move by an opponent;
+- cooperate after competing;
+- repair a fault;
+- and enjoy the discovery that one was wrong.
+
+This connects LXII with Integral Protection of Childhood™, Protected Progressive Autonomy™ and the future Neodialectical educational architecture.
 
 ## 13. Minimum rules of the game
 
-1. Do not dehumanise.
-2. Do not turn disagreement automatically into enmity.
-3. Do not hide decisive evidence in order to win.
-4. Do not move the rules when losing.
-5. Recognise the opponent's contributions.
-6. Permit withdrawal and revision.
-7. Distinguish cognitive play from material coercion.
-8. Increase custodianship as power increases.
-9. Preserve memory and genealogy.
-10. Treat every epistemic victory as provisional.
+1. **Do not dehumanise.**
+2. **Do not turn disagreement into automatic enmity.**
+3. **Do not hide decisive evidence in order to win.**
+4. **Do not move the rules when losing.**
+5. **Recognise contributions from the other side.**
+6. **Allow withdrawal and revision.**
+7. **Distinguish cognitive play from material coercion.**
+8. **Increase custodianship as power increases.**
+9. **Preserve memory and genealogy.**
+10. **Declare every epistemological victory provisional.**
 
 ## 14. Closing formula
 
