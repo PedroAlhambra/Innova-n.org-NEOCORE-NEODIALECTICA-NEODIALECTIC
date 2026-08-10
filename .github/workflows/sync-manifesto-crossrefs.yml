@@ -1,0 +1,41 @@
+name: sync-manifesto-crossrefs
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/sync-manifesto-crossrefs.yml'
+      - '.github/scripts/sync_manifesto_crossrefs.py'
+      - 'manifiestos/**.md'
+      - 'neoaxiomas/README.md'
+      - 'obras/idea/README.md'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: neocore-document-sync-main
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Sync canonical cross-references
+        run: python .github/scripts/sync_manifesto_crossrefs.py
+      - name: Commit synchronized cross-references
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add manifiestos/*.md
+          if git diff --cached --quiet; then
+            echo 'Cross-references already synchronized.'
+            exit 0
+          fi
+          git commit -m 'docs: sincronizar referencias cruzadas canónicas de manifiestos'
+          git pull --rebase origin main
+          git push origin main
