@@ -224,7 +224,7 @@ Esta solución preserva apertura, privacidad, autoría, precedencia y retorno a 
 
 ## 1. Problem
 
-Public openness creates a real tension:
+Public openness of the framework creates a real tension:
 
 ```text
 OPENNESS
@@ -234,29 +234,31 @@ OPENNESS
 SURRENDER OF GENEALOGY
 ```
 
-A public repository may be read, cloned, downloaded or studied without the author knowing every reader by name. Covert identification of every reader would be technically incomplete, ethically problematic and contrary to cognitive sovereignty.
+A public repository may be read, cloned, downloaded or studied without the author knowing every reader by name. Attempting to identify every reader covertly would be technically incomplete, ethically problematic and contrary to the framework's own architecture of cognitive sovereignty.
 
-The correct solution is to distinguish **anonymous reading** from **registered entry into the process**.
+But the absence of total surveillance does not require abandoning traceability. The correct solution is to distinguish **anonymous reading** from **registered entry into the process**.
 
-## 2. Traceable Entry Register™ principle
+## 2. Principle of the Traceable Entry Register™
 
-Provisional operational rule:
+The following is established as a provisional operational mechanism:
 
-> **Public reading may remain free. Any person, AI, institution or team wishing to enter Open Synthesis recognisably, announce an implementation, declare a derivative, contribute criticism or establish a follow-up relationship is provided with an explicit Traceable Entry Register™.**
+> **Public reading may remain free. Any person, AI, institution or team wishing to enter Synthesis recognisably, announce an implementation, declare a derivative, contribute criticism or establish a follow-up relationship has an explicit Traceable Entry Register™ route available.**
 
-Registration does not make the participant an adherent, licensee, partner or representative, and does not make a contribution canonical.
+Registration does not turn the participant into an adherent, licensee, partner or representative of the framework.
+
+Nor does it turn a contribution into canon.
 
 ## 3. Relationship states
 
 ```text
 VISITOR
-→ unregistered reading
+→ reading without registration
 
 REGISTERED READER
-→ declares entry and object consulted
+→ declares entry and the object consulted
 
 PARTICIPANT
-→ contributes criticism, evidence, objection, experience or hypothesis
+→ contributes criticism, source, objection, experience or hypothesis
 
 DERIVER
 → declares material adaptation, implementation, reuse or extension
@@ -265,12 +267,16 @@ CONTRIBUTOR
 → contribution produces an identifiable delta
 
 FIXATION
-→ accepted delta is documented by commit
+→ accepted delta is documented through a commit
 ```
+
+Transition between states is not automatic.
 
 ## 4. Current functional register
 
-Until WEB4™ and dedicated interfaces replace this layer, GitHub serves as provisional infrastructure:
+Until WEB4™ and dedicated interfaces replace this layer, GitHub serves as provisional infrastructure.
+
+The functional mechanism is:
 
 ```text
 STABLE PUBLIC LINK
@@ -279,75 +285,138 @@ STABLE PUBLIC LINK
 → OBJECT CONSULTED
 → DECLARED PURPOSE
 → RELATION / DERIVATION IF ANY
-→ SPECIFIC OPEN SYNTHESIS ISSUE WHEN REQUIRED
+→ POSSIBLE SPECIFIC SYNTHESIS ISSUE
 → DELTA
 → COMMIT
 ```
 
-A GitHub account provides a minimum public identifier. A civil identity is not required where unnecessary.
+A GitHub account provides a minimum public identifier. A civil name is not required when unnecessary.
 
-## 5. Data collected
+## 5. What it should record
 
-The form should support object consulted, source of contact, purpose, optional institution/project, derivative-work URL, genealogical attribution, privacy limits and consent for the public record.
+The form should allow the participant to indicate:
 
-## 6. What it must not do
+- entry object: manifesto, IDEA, analysis, audit, protocol or general framework;
+- source of contact: own search, received link, Innova_N email, third party or other;
+- purpose: reading, research, criticism, implementation, translation, derivation, collaboration or follow-up;
+- institution or project, optional;
+- derivative-work URL, if any;
+- need for attribution or genealogical link;
+- privacy limits;
+- consent for the record to remain publicly linked.
 
-The register does not authorise hidden fingerprinting, covert identity collection, publication of private email, unjustified identity correlation, ideological adhesion as a condition of reading, or automatic treatment of reading as appropriation.
+## 6. What it must NOT do
+
+The Traceable Entry Register™ does not authorise:
+
+- hidden fingerprinting;
+- covert identity collection;
+- publication of private emails;
+- identity correlation without a legitimate basis;
+- requiring ideological adherence in order to read;
+- turning a visit into an automatic obligation to contribute;
+- treating reading as appropriation.
+
+Traceability begins when there is a recognisable act of entry, contribution or derivation.
 
 ## 7. Derivation and genealogy
 
-The material risk is not that someone learns from the framework; it is that a derivative architecture erases provenance.
+The central concern is not that another person may learn from the framework. The material risk appears when a derived architecture erases provenance.
+
+Therefore the following is proposed:
 
 ```text
 ORIGIN
 + SHA / DATE
 + DERIVED OBJECT
-+ DERIVER
++ DERIVING AUTHOR / TEAM
 + RETURN LINK
 + DELTA
 = RECONSTRUCTABLE GENEALOGY
 ```
 
-## 8. External contacts
+When the future licensing policy permits it legally, this ethical obligation of genealogy should also be translated into explicit attribution and reuse rules.
 
-Future outreach should provide a **living follow-up link** that exposes current framework state, latest manifesto, IDEA, the Entry Register, Open Synthesis, external-response deltas, audits and version history.
+## 8. Relation to external contacts
+
+Every new institutional communication should use a **living follow-up link**, rather than depending only on a specific figure or manifesto sent on a particular date.
+
+The follow-up link should lead to:
+
+- current framework state;
+- latest manifesto;
+- IDEA as the literary gateway;
+- Traceable Entry Register™;
+- Open Synthesis;
+- deltas produced by external responses;
+- public audits;
+- versioned history.
+
+Thus, a contact received in August 2026 can follow later evolution without requiring a new email for every change.
 
 ## 9. Herosion™
 
-Working definition, still open to synthesis:
+The working term **Herosion™**, still open to Synthesis, is introduced:
 
-> fractal inherited harm received from earlier system layers or generations, partially reproduced through operation upon them and transmitted again unless consciously repaired.
+> inherited fractal harm that a system or generation receives from earlier layers, reproduces wholly or partly while operating upon them, and transmits again if no conscious repair occurs.
 
-It does not assign automatic moral guilt. In software, inherited vulnerable dependencies are a limited technical example; broader social analogies require evidence case by case.
+It does not imply automatic moral guilt for each generation.
+
+It describes a functional chain:
+
+```text
+PREVIOUS HARM / DEBT
+→ INHERITANCE
+→ NORMALISATION
+→ REPRODUCTION
+→ NEW LAYER
+→ AMPLIFIED OR TRANSFORMED INHERITED HARM
+```
+
+In software, a vulnerable dependency inherited through higher-level dependencies is a limited technical example of this pattern. In institutions, culture or knowledge, the analogy must be tested case by case and must not be used as automatic evidence of intention.
 
 ## 10. Security and openness
 
-Dependency graphs, Dependabot, secret scanning and code scanning address technical inherited risk. They do not require publication of the complete internal implementation.
+Tools such as dependency graph, Dependabot, secret scanning or code scanning do not constitute a surrender of the framework's canon. They are mechanisms for detecting technical debt and risk.
+
+The correct safeguard is to separate:
 
 ```text
-PUBLIC LAYER NEEDED TO UNDERSTAND AND CONTRIBUTE
+PUBLIC LAYER REQUIRED TO UNDERSTAND AND CONTRIBUTE
 ≠
 COMPLETE INTERNAL IMPLEMENTATION
 ```
 
+Not every operational mechanism must be published merely because the framework is open to criticism.
+
 ## 11. Future reserved manifestos
 
-**Manifestos that remain reserved are not named, described or reconstructed in advance in the public layer.**
+**Manifestos that still remain reserved are not named, described or reconstructed in advance in the public layer.**
 
-The infrastructure is prepared so that, when publication is explicitly authorised, a reserved manifesto can enter the canonical index, Open Synthesis, automatic navigation, genealogical relations and links or redirects to previous nodes such as **IDEA** where appropriate.
+The infrastructure is prepared so that, when there is an explicit decision to publish, any reserved manifesto may:
+
+1. enter the canonical index;
+2. receive an Open Synthesis Issue;
+3. enter automatic navigation;
+4. declare its genealogical relations;
+5. link or redirect to previous nodes such as **IDEA** where appropriate.
+
+Reservation does not equal non-existence; future publication does not authorise advance reconstruction of content.
 
 ## 12. MAXPROC ruling
 
-A traceable entry register is necessary as a voluntary, identifiable doorway for participation and derivation, not as universal reader surveillance.
+The entry register is necessary **as a voluntary and traceable gateway for participation and derivation**, not as universal surveillance of the reader.
+
+The recommended architecture is:
 
 ```text
 PUBLIC READING
         ↓
 FOLLOW THE FRAMEWORK
         ↓
-REGISTER ENTRY
+REGISTER ENTRY (optional for mere reading; necessary for a recognisable relationship)
         ↓
-CONTRIBUTE / CHALLENGE / IMPLEMENT / DERIVE
+CONTRIBUTE / CONTRADICT / IMPLEMENT / DERIVE
         ↓
 SPECIFIC ISSUE
         ↓
@@ -357,6 +426,8 @@ COMMIT
         ↓
 PUBLIC GENEALOGY
 ```
+
+This solution preserves openness, privacy, authorship, precedence and return to source without claiming an identification capability that GitHub does not provide for anonymous readers.
 
 ---
 
