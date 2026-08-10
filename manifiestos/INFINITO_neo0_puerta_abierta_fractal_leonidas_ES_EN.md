@@ -373,7 +373,7 @@ This manifesto maintains links with:
 - **LXIII** · [Contra la Simplificación Burda del Marco™ / Against Crude Simplification of the Framework™](./63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md)
 - **LXIV** · [NeoCronos™ · Medición y Tokenización del Aporte en Síntesis Abierta / NeoCronos™ · Measurement and Tokenisation of Contribution in Open Synthesis](./64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md)
 - **LXV** · [NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™ · Tokenised Game for the Common Good and Honor of Contribution](./65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
-- **LXVI** · [NeoTitanes™ · Reconstrucción Sistémica y Motor del Bien Común / NeoTitans™ · Systemic Reconstruction and the Common-Good Engine](./66_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md)
+- **LXVI** · [NeoSinergia™ · Necesidad de Cooperación en Neowar™ Activa · Sistema MÉDICI™ · Leónidas–Cancerbero™ / NeoSynergy™ · Necessary Cooperation under Active Neowar™ · MÉDICI™ System · Leónidas–Cerberus™](./66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 
