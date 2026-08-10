@@ -11,17 +11,33 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 <!-- NEOAXIOMAS_GLOBAL_LINK_END -->
 
-
 **Estado:** DEMO / prototipo público, no implementación definitiva.  
 **Marco actual:** NEOCore™ 7.2.  
 **Fecha:** 2026-08-10.
 
+## Portada WEB4™ 7.2
+
+- [`index.html`](./index.html) — portada pública actualizada del marco.
+- La portada sitúa **arriba** dos banners vivos: **Neoaxiomas™** y **Manifiestos**.
+- Ambos inventarios se leen en tiempo de ejecución desde la fuente canónica de GitHub (`neoaxiomas/README.md` y `manifiestos/README.md`), con fallback a la API pública de GitHub.
+- Los banners rotan automáticamente, permiten avanzar/retroceder, pausar, abrir la fuente y **leer un extracto dentro del propio banner**.
+- El banner de Manifiestos obtiene además el cuerpo del manifiesto seleccionado desde su archivo GitHub, por lo que la portada no necesita mantener una copia paralela del corpus.
+- El banner neoaxiomático deduplica las secciones ES/EN y muestra tanto **NAX-01–NAX-14** como los candidatos **C-NAX-15–C-NAX-18** mientras conserven ese estado en la fuente.
+
 ## Superficies públicas actuales
 
+- [`index.html`](./index.html) — entrada WEB4™ · NEOCore™ 7.2.
 - [`manifiestos/`](./manifiestos/) — lector WEB4™ de I–LXVIII + ∞ con retorno a la fuente GitHub.
+- [`idea/`](./idea/) — nueva página de IDEA: sinopsis narrativa, cronología, autor en tercera persona, genealogía y relación con el marco.
 - [`neocronos/`](./neocronos/) — DEMO local de NeoCronos™ dentro de una aportación de Síntesis Abierta.
 - [`../propuestas/sintesis-abierta/`](../propuestas/sintesis-abierta/README.md) — protocolo y memoria pública de SAN™.
 - [`../neoaxiomas/`](../neoaxiomas/README.md) — capa Neoaxiomática abierta y candidatos detectados.
+
+## IDEA dentro de WEB4™
+
+La página [`idea/index.html`](./idea/index.html) presenta **IDEA** como obra literaria antes de presentarla como relación documental con el marco. Explica la historia de Robert, los Satélites Casa de Luz Horizonte y la brecha del SensFusión; conserva la cronología 1997–2002 → Premio UPC 2002 → primera publicación 2026; y habla de **Pedro Martínez Alhambra en tercera persona**.
+
+La relación actual IDEA ↔ Neodialéctica se presenta como relación genealógica posterior: la novela antecede históricamente a la Neodialéctica™, Innova_N, NEOCore™, SAN™, NAVE™ y WEB4™ y no se redefine retrospectivamente como una obra nacida dentro del marco.
 
 ## Delta 7.2
 
