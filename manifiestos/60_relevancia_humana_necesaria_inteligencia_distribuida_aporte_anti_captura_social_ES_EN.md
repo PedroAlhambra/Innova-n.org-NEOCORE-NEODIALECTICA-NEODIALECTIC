@@ -528,6 +528,8 @@ Claims concerning specific platforms, organisations or groups must distinguish f
 
 ## Navegación canónica / Canonical navigation
 
-← [LIX · Custodia Cognitiva Distribuida™](59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md) · [Índice / Index](README.md) · Fin provisional / Provisional end
+← **LIX** · [Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana / Distributed Cognitive Custodianship™ · AI, Repair and Human Responsibility](59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md)  
+· [Índice I–LX / I–LX index](README.md) ·  
+**Fin provisional de la colección / Provisional end of collection** →
 
 <!-- NEO_MANIFESTO_NAV_END -->

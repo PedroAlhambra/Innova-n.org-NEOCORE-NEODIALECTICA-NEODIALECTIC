@@ -190,7 +190,7 @@ La popularidad no equivale a prueba. La admisión de una auditoría no valida un
 
 # EN · English
 
-Open Synthesis currently covers **59 bilingual manifestos I–LIX**, Public Audits and the first open-fiction branch. This is a live state under **Synthesis Initiated**, not a final corpus count.
+Open Synthesis currently covers **60 bilingual manifestos I–LX**, Public Audits and the first open-fiction branch. This is a live state under **Synthesis Initiated**, not a final corpus count.
 
 There are three primary contribution routes: challenge an existing manifesto; bring evidence or a new Public Audit through Leónidas™; or contribute to open fiction through **UMBRAL-X · AI Apocalypse™ · Issue #73**.
 

@@ -221,22 +221,22 @@ Toda modificación futura deberá preservar el texto anterior, identificar con p
 
 Antes de participar, lee el manifiesto completo y el protocolo operativo. Presenta una aportación trazable con contexto, fuente o experiencia, genealogía, tipo de aporte y delta propuesto.
 
-* [Cómo aportar a la Síntesis Abierta Neodialéctica™](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
-* [Abrir una aportación mediante la plantilla pública](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
+* [Cómo aportar a la Síntesis Abierta Neodialéctica™](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [Abrir una aportación mediante la plantilla pública](../../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
 
 ### Vínculos internos equivalentes
 
-* [Referencia interna · sintesis_abierta_aporte.md](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
-* [Protocolo de Síntesis Abierta](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
-* [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
-* [Referencia interna · 01_sintesis_abierta_neodialectica_ES_EN.md](./01_sintesis_abierta_neodialectica_ES_EN.md)
-* [Referencia interna · 37_neofraternidad_ES_EN.md](./37_neofraternidad_ES_EN.md)
-* [Índice de manifiestos](./README.md)
+* [Referencia interna · sintesis_abierta_aporte.md](../../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
+* [Protocolo de Síntesis Abierta](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [Índice de Síntesis Abierta](../../propuestas/sintesis-abierta/README.md)
+* [Referencia interna · 01_sintesis_abierta_neodialectica_ES_EN.md](II_sintesis_abierta_neodialectica_ES_EN.md)
+* [Referencia interna · 37_neofraternidad_ES_EN.md](XXXVII_neofraternidad_ES_EN.md)
+* [Índice de manifiestos](../README.md)
 * [Síntesis Abierta específica · Issue #31](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/31)
 
 ## Navegación
 
-← [XXXVII · Neofraternidad™](./37_neofraternidad_ES_EN.md) · [Índice](./README.md) · [II · Síntesis Abierta Neodialéctica™](./01_sintesis_abierta_neodialectica_ES_EN.md) →
+← [XXXVII · Neofraternidad™](XXXVII_neofraternidad_ES_EN.md) · [Índice](../README.md) · [II · Síntesis Abierta Neodialéctica™](II_sintesis_abierta_neodialectica_ES_EN.md) →
 
 ---
 
@@ -450,48 +450,48 @@ Every future modification must preserve the previous text, identify the change p
 
 Before participating, read the full manifesto and the operational protocol. Submit a traceable contribution with context, source or experience, genealogy, contribution type and proposed delta.
 
-* [How to contribute to Neodialectical Open Synthesis™](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
-* [Open a contribution through the public template](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
+* [How to contribute to Neodialectical Open Synthesis™](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [Open a contribution through the public template](../../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
 
 ### Equivalent internal links
 
-* [Internal reference · sintesis_abierta_aporte.md](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
-* [Open Synthesis protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
-* [Open Synthesis index](../propuestas/sintesis-abierta/README.md)
-* [Internal reference · 01_sintesis_abierta_neodialectica_ES_EN.md](./01_sintesis_abierta_neodialectica_ES_EN.md)
-* [Internal reference · 37_neofraternidad_ES_EN.md](./37_neofraternidad_ES_EN.md)
-* [Manifesto index](./README.md)
+* [Internal reference · sintesis_abierta_aporte.md](../../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
+* [Open Synthesis protocol](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [Open Synthesis index](../../propuestas/sintesis-abierta/README.md)
+* [Internal reference · 01_sintesis_abierta_neodialectica_ES_EN.md](II_sintesis_abierta_neodialectica_ES_EN.md)
+* [Internal reference · 37_neofraternidad_ES_EN.md](XXXVII_neofraternidad_ES_EN.md)
+* [Manifesto index](../README.md)
 * [Dedicated Open Synthesis · Issue #31](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/31)
 
 <!-- NEO_RELATIONS_START -->
 ## Relaciones internas y trabajo aplicado / Internal relations and applied work
 
-- [Mapa transversal Manifiestos ↔ trabajo aplicado / Transversal Manifestos ↔ applied-work map](./RELACIONES_TRABAJO_APLICADO_ES_EN.md)
+- [Mapa transversal Manifiestos ↔ trabajo aplicado / Transversal Manifestos ↔ applied-work map](../RELACIONES_TRABAJO_APLICADO_ES_EN.md)
 
 **Artículos, análisis y auditorías relacionados / Related articles, analyses and audits:**
-- [Auditoría indirecta pública · KDP, Author Central e IDEA](../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
-- [Hito de éxito operativo provisional · Auditoría gratuita a Amazon KDP y Author Central](../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
-- [Addendum de trazabilidad · respuesta KDP sobre «cambios sin publicar»](../auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md)
-- [Auditoría global final · README, enlaces, XLIII y trazabilidad KDP 51071689](../auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md)
+- [Auditoría indirecta pública · KDP, Author Central e IDEA](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
+- [Hito de éxito operativo provisional · Auditoría gratuita a Amazon KDP y Author Central](../../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+- [Addendum de trazabilidad · respuesta KDP sobre «cambios sin publicar»](../../auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md)
+- [Auditoría global final · README, enlaces, XLIII y trazabilidad KDP 51071689](../../auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md)
 
 **Manifiestos relacionados / Related manifestos:**
-- II · [II · Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md)
-- III · [III · Manifiesto del Derecho Humano de Aporte a la Síntesis Abierta™](./03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
-- IV · [IV · Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good](./02_neodialectica_bien_comun_ES_EN.md)
-- V · [V · Manifiesto de la Simbiosis Humano–IA / Manifesto of Human–AI Symbiosis](./03_simbiosis_humano_ia_ES_EN.md)
-- VII · [VII · Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy](./04_economia_del_aporte_ES_EN.md)
-- IX · [IX · Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability](./06_memoria_genealogia_trazabilidad_ES_EN.md)
-- XIX · [XIX · Manifiesto de la Persistencia de la Memoria™](./19_persistencia_de_la_memoria_ES_EN.md)
-- XXI · [XXI · Manifiesto por el Reconocimiento Neodialéctico™](./21_reconocimiento_neodialectico_ES_EN.md)
-- XXII · [XXII · Manifiesto contra la Reducción y la Captura Intelectual™](./22_contra_reduccion_captura_intelectual_ES_EN.md)
-- XXVIII · [XXVIII · Manifiesto de Los Tesla™](./28_los_tesla_ES_EN.md)
+- II · [II · Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](II_sintesis_abierta_neodialectica_ES_EN.md)
+- III · [III · Manifiesto del Derecho Humano de Aporte a la Síntesis Abierta™](III_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
+- IV · [IV · Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good](IV_neodialectica_bien_comun_ES_EN.md)
+- V · [V · Manifiesto de la Simbiosis Humano–IA / Manifesto of Human–AI Symbiosis](V_simbiosis_humano_ia_ES_EN.md)
+- VII · [VII · Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy](VII_economia_del_aporte_ES_EN.md)
+- IX · [IX · Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability](IX_memoria_genealogia_trazabilidad_ES_EN.md)
+- XIX · [XIX · Manifiesto de la Persistencia de la Memoria™](XIX_persistencia_de_la_memoria_ES_EN.md)
+- XXI · [XXI · Manifiesto por el Reconocimiento Neodialéctico™](XXI_reconocimiento_neodialectico_ES_EN.md)
+- XXII · [XXII · Manifiesto contra la Reducción y la Captura Intelectual™](XXII_contra_reduccion_captura_intelectual_ES_EN.md)
+- XXVIII · [XXVIII · Manifiesto de Los Tesla™](XXVIII_los_tesla_ES_EN.md)
 
 La relación documental indica afinidad conceptual, genealogía, contraste o aplicación; no implica causalidad ni equivalencia probatoria. / Documentary relation indicates conceptual affinity, genealogy, contrast or application; it does not imply causation or evidentiary equivalence.
 <!-- NEO_RELATIONS_END -->
 
 ## Navigation
 
-← [XXXVII · Neofraternity™](./37_neofraternidad_ES_EN.md) · [Index](./README.md) · [II · Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md) →
+← [XXXVII · Neofraternity™](XXXVII_neofraternidad_ES_EN.md) · [Index](../README.md) · [II · Neodialectical Open Synthesis™](II_sintesis_abierta_neodialectica_ES_EN.md) →
 
 ---
 
@@ -505,10 +505,10 @@ La relación documental indica afinidad conceptual, genealogía, contraste o apl
 
 Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. / You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta.
 
-**Última síntesis / Latest synthesis:** [LIX · Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana / Distributed Cognitive Custodianship™ · AI, Repair and Human Responsibility](59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md) · [Issue #98](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/98)  
-**Seguimiento vivo / Living follow-up:** [seguir el marco / follow the framework](../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [registro de entrada / entry register](../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)  
-**Auditorías / Audits:** [LIII · Leónidas™](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo / protocol](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
-**Cómo aportar / How to contribute:** [protocolo general / general protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../auditorias/publicas/README.md) · [índice / index](../propuestas/sintesis-abierta/README.md)
+**Última síntesis / Latest synthesis:** [LX · Relevancia Humana Necesaria™ · Inteligencia Distribuida, Aporte y Anti-Captura Social / Necessary Human Relevance™ · Distributed Intelligence, Contribution and Anti-Capture](LX_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md) · [Issue #99](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/99)  
+**Seguimiento vivo / Living follow-up:** [seguir el marco / follow the framework](../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [registro de entrada / entry register](../../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)  
+**Auditorías / Audits:** [LIII · Leónidas™](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo / protocol](../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
+**Cómo aportar / How to contribute:** [protocolo general / general protocol](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../../auditorias/publicas/README.md) · [índice / index](../../propuestas/sintesis-abierta/README.md)
 
 <!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->
 
@@ -516,7 +516,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Relaciones y contexto / Relations and context
 
-[Mapa transversal](RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Síntesis relacional #98](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/98) · [Mapa relacional MAXPROC](../auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md) · [Neoaxiomas™](../neoaxiomas/README.md) · [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
+[Mapa transversal](../RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Síntesis relacional #98](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/98) · [Mapa relacional MAXPROC](../../auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md) · [Neoaxiomas™](../../neoaxiomas/README.md) · [Índice de Síntesis Abierta](../../propuestas/sintesis-abierta/README.md)
 
 > Este bloque añade navegación y relaciones; no sustituye, resume ni reduce el cuerpo del manifiesto. / This block adds navigation and relations; it does not replace, summarise or reduce the manifesto body.
 
@@ -527,7 +527,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 ## Navegación canónica / Canonical navigation
 
 ← **Inicio de la colección / Start of collection**  
-· [Índice I–LIX / I–LIX index](README.md) ·  
-**II** · [Síntesis Abierta Neodialéctica™ / Neodialectical Open Synthesis™](01_sintesis_abierta_neodialectica_ES_EN.md) →
+· [Índice I–LX / I–LX index](../README.md) ·  
+**II** · [Síntesis Abierta Neodialéctica™ / Neodialectical Open Synthesis™](II_sintesis_abierta_neodialectica_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
