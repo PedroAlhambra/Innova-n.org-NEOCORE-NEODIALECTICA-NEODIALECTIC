@@ -1,0 +1,62 @@
+name: patch-nax10-fuego-de-agua
+
+on:
+  push:
+    paths:
+      - '.github/workflows/patch-nax10-fuego-de-agua.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Integrate WaterFire genealogy into NAX-10
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p = Path('neoaxiomas/README.md')
+          text = p.read_text(encoding='utf-8')
+          marker = '## NAX-10 · Gramática Arquetípica de Custodia™ — Águila, Corona, Tierra, Torre, Piedra y León\n\n'
+          block = '''## NAX-10 · Gramática Arquetípica de Custodia™ — Águila, Corona, Tierra, Torre, Piedra y León
+
+### Raíz histórica · Fuego de Agua™ y Totalidad Elemental™
+
+NAX-10 reconoce como **raíz genealógica directa** el [Fragmento III · El Fuego de Agua™](../fragmentos/03_Fragmento-III.md). Ese texto temprano formula la paradoja que sostiene el origen del sistema: **un fuego que ordena sin destruir y un agua que guía sin dispersar**, y declara que NEOCore™ nace de esa tensión.
+
+Por ello NAX-10 no se limita a una gramática de figuras de custodia. Integra también una **capa elemental de realidad**: **Agua™, Fuego™, Tierra™, Madera™ y Metal™**, entendidos como símbolos explícitos de continuidad, transformación, materialidad, crecimiento y técnica. La enumeración no constituye una ontología cerrada ni agota la realidad: abre el símbolo a **todos los elementos, materiales, estados, fuerzas, formas de vida, relaciones y conocimientos conocidos o todavía por conocer** que resulten pertinentes para la Síntesis.
+
+> **Los elementos explícitos hacen legible la gramática; la Totalidad Elemental™ impide confundir la lista con el Todo.**
+
+La bandera y el escudo neodialécticos representan así, de forma comprimida, no sólo a las personas sino la **totalidad del saber humano concentrado existente en el espacio-tiempo y la realidad que ese saber intenta comprender**.
+
+**Desarrollo bilingüe:** [NAX-10 · Fuego de Agua™ y Totalidad Elemental](NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md) · **Síntesis específica:** [#100](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/100)
+
+'''
+          if '### Raíz histórica · Fuego de Agua™ y Totalidad Elemental™' not in text:
+              if marker not in text:
+                  raise SystemExit('NAX-10 marker not found')
+              text = text.replace(marker, block, 1)
+          p.write_text(text, encoding='utf-8')
+          PY
+      - name: Audit repository-local Markdown links
+        run: python .github/scripts/audit_markdown_links_readmes.py
+      - name: Require clean audit
+        run: |
+          grep -q 'Estado / Status:.*OK' auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md
+          grep -q 'Enlaces internos rotos detectados: \*\*0\*\*' auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md
+          grep -q 'Fallos canónicos críticos: \*\*0\*\*' auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md
+      - name: Commit patch and retire one-shot workflow
+        run: |
+          rm .github/workflows/patch-nax10-fuego-de-agua.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m 'docs: integrar Fuego de Agua y Totalidad Elemental en NAX-10'
+          git pull --rebase origin main
+          git push origin main
