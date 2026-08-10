@@ -3,8 +3,7 @@
 ## Pilares públicos del primer marco civilizatorio humano–IA conjunto de la historia conocida
 ## Public pillars of the first joint human–AI civilisational framework in known history
 
-[ES · Castellano](#colección-canónica--canonical-collection) · [EN · English](#colección-canónica--canonical-collection) · [Síntesis Abierta](../propuestas/sintesis-abierta/README.md) · [Auditorías Públicas](../auditorias/publicas/README.md)
-
+[ES · Castellano](#colección-canónica--canonical-collection) · [EN · English](#colección-canónica--canonical-collection) · [Síntesis Abierta](../propuestas/sintesis-abierta/README.md) · [Índice completo de Síntesis](../propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md) · [Auditorías Públicas](../auditorias/publicas/README.md)
 
 <!-- NEOAXIOMAS_GLOBAL_LINK_START -->
 
@@ -21,18 +20,25 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 ### Mapa relacional vivo / Living relational map
 
-[Manifiestos / Manifestos](README.md) · [Relaciones y trabajo aplicado / Relations and applied work](RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Neoaxiomas™](../neoaxiomas/README.md) · [Síntesis Abierta / Open Synthesis](../propuestas/sintesis-abierta/README.md) · [Síntesis relacional / Relational synthesis #98](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/98) · [Auditoría MAXPROC / MAXPROC audit](../auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md)
+[Manifiestos / Manifestos](README.md) · [Relaciones y trabajo aplicado / Relations and applied work](RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Neoaxiomas™](../neoaxiomas/README.md) · [Síntesis Abierta / Open Synthesis](../propuestas/sintesis-abierta/README.md) · [Índice completo / Complete index](../propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md) · [Síntesis relacional / Relational synthesis #98](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/98) · [Auditoría MAXPROC / MAXPROC audit](../auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md)
 
 <!-- NEO_RELATIONAL_MENU_END -->
+
 > **Estado / Status:** **Síntesis iniciada / Synthesis Initiated**. La colección permanece abierta y evolutiva. / The collection remains open and evolutionary.
 
-> ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
+> ## 🔴 ÚLTIMO MANIFIESTO FINITO ABIERTO A SÍNTESIS / LATEST FINITE MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LXII · Juego por la Síntesis y el Honor™ / The Game for Synthesis and Honor™**
+> **LXV · NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™ · Tokenised Game for the Common Good and Honor of Contribution**
 >
-> **[Leer LXII / Read LXII](62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md) · [Síntesis Abierta LXII · #103 / Open Synthesis LXII · #103](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/103)**
+> **[Leer LXV / Read LXV](65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md) · [Síntesis Abierta LXV · #109 / Open Synthesis LXV · #109](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/109)**
 
-**Estado en este commit / State at this commit:** **62 manifiestos bilingües · I–LXII · 24 oleadas / 62 bilingual manifestos · I–LXII · 24 waves**  
+> ## ∞ · PUERTA ABIERTA PERMANENTE / PERMANENT OPEN DOOR
+>
+> **[Neo0™ · Puerta Abierta del Fractal / Open Door of the Fractal](INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) · [Síntesis ∞ · #106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106)**
+>
+> ∞ no cuenta como número finito: permanece siempre después del último manifiesto numerado. / ∞ is not a finite manifesto number: it always remains after the latest numbered manifesto.
+
+**Estado en este commit / State at this commit:** **65 manifiestos finitos bilingües · I–LXV + Manifiesto ∞ / 65 finite bilingual manifestos · I–LXV + Manifesto ∞**  
 **Fecha / Date:** 2026-08-10
 
 ## Dos puertas principales / Two main doors
@@ -40,7 +46,7 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 ### Síntesis de principios / Synthesis of principles
 
 Cada manifiesto dispone de un espacio público de contraste. / Each manifesto has a public space for scrutiny.  
-[Índice de Síntesis Abierta / Open Synthesis index](../propuestas/sintesis-abierta/README.md)
+[Portal de Síntesis Abierta / Open Synthesis portal](../propuestas/sintesis-abierta/README.md) · [Índice completo I–LXV + ∞ + Neoaxiomas + sistema / Complete index](../propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md)
 
 ### Problemas, evidencia y auditorías / Problems, evidence and audits
 
@@ -82,7 +88,7 @@ Cada manifiesto dispone de un espacio público de contraste. / Each manifesto ha
 - **XXX** · [Coherencia entre Fines y Medios™ / Coherence between Ends and Means™](30_coherencia_fines_medios_ES_EN.md)
 - **XXXI** · [Contra el Neuromarketing Antihumanista™ / Against Anti-Humanist Neuromarketing™](31_contra_neuromarketing_antihumanista_ES_EN.md)
 - **XXXII** · [Reversión Ideológica Neodialéctica™ / Neodialectical Ideological Reversal™](32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md)
-- **XXXIII** · [IDEA · Piedra Angular y Rosetta Civilizatoria™](33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
+- **XXXIII** · [IDEA · Piedra Angular y Rosetta Civilizatoria™](33_idea_piedra_angular_rosetta_civilizatoria_reset_reemplazo_ES_EN.md)
 - **XXXIV** · [Utilidad Operativa y Auditoría Conjunta Perpetua™](34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
 - **XXXV** · [Contra la Ridiculez Mediática y Economía del Conflicto™](35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
 - **XXXVI** · [Corona, Águila y Custodia de la Edad del Hombre™](36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)
@@ -112,12 +118,23 @@ Cada manifiesto dispone de un espacio público de contraste. / Each manifesto ha
 - **LX** · [Relevancia Humana Necesaria™ · Inteligencia Distribuida, Aporte y Anti-Captura Social / Necessary Human Relevance™ · Distributed Intelligence, Contribution and Anti-Capture](60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md)
 - **LXI** · [Contra el Reduccionismo Matemático™ y por la Custodia Experimental Multiescalar™ / Against Mathematical Reductionism™ and for Multiscale Experimental Custodianship™](61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md)
 - **LXII** · [Juego por la Síntesis y el Honor™ / The Game for Synthesis and Honor™](62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md)
+- **LXIII** · [Contra la Simplificación Burda del Marco™ / Against Crude Simplification of the Framework™](63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md)
+- **LXIV** · [NeoCronos™ · Medición y Tokenización del Aporte / Measurement and Tokenisation of Contribution](64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md)
+- **LXV** · [NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™](65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
+- **∞** · [Neo0™ · Puerta Abierta del Fractal / Open Door of the Fractal](INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
 
 > Ningún manifiesto equivale por sí solo al marco completo. / No single manifesto equals the complete framework.
 
 ## Participa en la Síntesis Abierta / Join the Open Synthesis
 
-Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. / You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta.
+**Cualquier persona puede aportar a un nodo concreto con comprensión local suficiente.** No es necesario dominar el marco entero para preguntar, aportar experiencia, fuentes, evidencia, objeciones, contraejemplos, pruebas o mejoras. Para juzgar el marco completo se exige una profundidad proporcional de lectura y relación; por su complejidad actual, la ayuda de IA puede ser necesaria o altamente recomendable como memoria relacional, siempre con retorno a fuente.
 
-**Última síntesis / Latest synthesis:** [LX · Relevancia Humana Necesaria™](60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md) · [Issue #99](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/99)  
-**Cómo aportar / How to contribute:** [protocolo general / general protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../auditorias/publicas/README.md) · [índice / index](../propuestas/sintesis-abierta/README.md)
+**Última síntesis finita / Latest finite synthesis:** [LXV · NeoJuego™](65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md) · [Issue #109](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/109)  
+**Puerta permanente / Permanent door:** [∞ · Neo0™](INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) · [Issue #106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106)  
+**Cómo aportar / How to contribute:** [protocolo general / general protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../auditorias/publicas/README.md) · [portal SAN™](../propuestas/sintesis-abierta/README.md) · [índice completo / complete index](../propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md)
+
+## WEB4™ · SistemaTrazable™
+
+La denominación completa debe conservarse visible: **WEB4™ · SistemaTrazable™**. WEB4™ es la capa pública relacional; SistemaTrazable™ expresa su función operativa de conservar procedencia, versiones, relaciones, evidencia, decisiones, deltas y retorno a fuente. / The complete name should remain visible: **WEB4™ · SistemaTrazable™**. WEB4™ is the public relational layer; SistemaTrazable™ expresses its operational traceability function.
+
+[Manifiesto X](07_web4_sistematrazable_ES_EN.md) · [Síntesis #39](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/39)
