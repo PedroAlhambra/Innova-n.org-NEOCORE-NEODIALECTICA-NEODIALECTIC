@@ -61,6 +61,19 @@ jobs:
                   p.write_text(s,encoding='utf-8')
               elif "'LXVIII':'114'" not in s:
                   raise SystemExit(f'issue fallback not patchable: {name}')
+
+          # Current Open Synthesis coverage was also manually frozen at LXV.
+          # Repair that visible state before the generic synchroniser validates.
+          p=Path('propuestas/sintesis-abierta/README.md')
+          s=p.read_text(encoding='utf-8')
+          s=s.replace(
+              '65 manifiestos finitos · I–LXV + Manifiesto ∞ · 14 Neoaxiomas™',
+              '68 manifiestos finitos · I–LXVIII + Manifiesto ∞ · 14 Neoaxiomas™'
+          ).replace(
+              '65 finite manifestos · I–LXV + Manifesto ∞ · 14 Neoaxioms™',
+              '68 finite manifestos · I–LXVIII + Manifesto ∞ · 14 Neoaxioms™'
+          )
+          p.write_text(s,encoding='utf-8')
           PY
       - name: Apply and validate 7.2
         run: python .github/scripts/oneshot_neocore72.py
