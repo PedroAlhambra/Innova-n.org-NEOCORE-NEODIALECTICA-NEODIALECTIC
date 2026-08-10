@@ -39,7 +39,6 @@ def headings(s):
 
 
 def numbered_section_ids(s):
-    """Compare only principal H2 numbered sections; nested numbered subheads are not language-section identity."""
     ids=[]
     for h in re.findall(r'^##\s+(.+)$',s,re.M):
         m=re.match(r'^((?:\d+)|(?:[IVXLCDM]+))\.\s+',h.strip())
@@ -49,7 +48,6 @@ def numbered_section_ids(s):
 
 
 def numbered_sections(s):
-    """Return principal H2 numbered sections as {id: body including content until next H2}."""
     matches=list(re.finditer(r'^##\s+((?:\d+)|(?:[IVXLCDM]+))\.\s+.+$',s,re.M))
     out={}
     for i,m in enumerate(matches):
@@ -76,36 +74,49 @@ def cut_shared_tail(s):
     return s[:min(positions)] if positions else s
 
 
-def section_material_reasons(es_body, en_body):
-    """Detect section-level abridgement that a global word ratio can hide."""
-    reasons=[]
+def section_diagnostics(es_body, en_body):
+    """Return (material_failures, structural_warnings). Formatting alone is warning, not proof of abridgement."""
+    material=[]
+    warnings=[]
     es_sections=numbered_sections(es_body)
     en_sections=numbered_sections(en_body)
     for sid in [x for x in es_sections if x in en_sections]:
         a=es_sections[sid]; b=en_sections[sid]
         aw=len(words(a)); bw=len(words(b)); ratio=(bw/aw if aw else 1.0)
-        # Long sections should not collapse into summaries.
-        if aw >= 90 and ratio < 0.62:
-            reasons.append(f'sección {sid} EN/ES={ratio:.2f} ({bw}/{aw} palabras)')
-        if bw >= 90 and aw > 0 and ratio > 1.75:
-            reasons.append(f'sección {sid} EN/ES={ratio:.2f} ({bw}/{aw} palabras)')
+
+        if aw >= 90 and ratio < 0.65:
+            material.append(f'sección {sid} EN/ES={ratio:.2f} ({bw}/{aw} palabras)')
+        if bw >= 90 and aw > 0 and ratio > 1.80:
+            material.append(f'sección {sid} EN/ES={ratio:.2f} ({bw}/{aw} palabras)')
 
         ai=list_items(a); bi=list_items(b)
-        if max(ai,bi) >= 4 and min(ai,bi) < max(1, int(max(ai,bi)*0.50)):
-            reasons.append(f'sección {sid} listas ES={ai}, EN={bi}')
+        list_asym = max(ai,bi) >= 4 and min(ai,bi) < max(1, int(max(ai,bi)*0.50))
+        if list_asym:
+            msg=f'sección {sid} listas ES={ai}, EN={bi}'
+            # Si además hay compresión notable, la asimetría es indicio material; si no, sólo formato.
+            if aw >= 70 and (ratio < 0.75 or ratio > 1.55):
+                material.append(msg)
+            else:
+                warnings.append(msg)
 
         ac=code_blocks(a); bc=code_blocks(b)
         if ac != bc and max(ac,bc) >= 1:
-            reasons.append(f'sección {sid} fórmulas/bloques ES={ac}, EN={bc}')
+            material.append(f'sección {sid} fórmulas/bloques ES={ac}, EN={bc}')
 
         aq=blockquotes(a); bq=blockquotes(b)
-        if max(aq,bq) >= 3 and min(aq,bq) < max(1, int(max(aq,bq)*0.50)):
-            reasons.append(f'sección {sid} citas ES={aq}, EN={bq}')
-    return reasons
+        quote_asym = max(aq,bq) >= 3 and min(aq,bq) < max(1, int(max(aq,bq)*0.50))
+        if quote_asym:
+            msg=f'sección {sid} citas ES={aq}, EN={bq}'
+            if aw >= 70 and (ratio < 0.75 or ratio > 1.55):
+                material.append(msg)
+            else:
+                warnings.append(msg)
+    return material, warnings
 
 
 rows=[]
 flagged=[]
+warned=[]
 missing=[]
 for base in TARGETS:
     for p in sorted(base.glob('*.md')):
@@ -123,50 +134,62 @@ for base in TARGETS:
         ew=len(words(es_body)); nw=len(words(en_body)); ratio=(nw/ew if ew else 0)
         eh=len(headings(es_body)); nh=len(headings(en_body))
         es_ids=numbered_section_ids(es_body); en_ids=numbered_section_ids(en_body)
-        status='OK'
-        reasons=[]
+        material=[]
+        warnings=[]
         if ratio < 0.78:
-            status='REVISAR'; reasons.append(f'EN/ES palabras={ratio:.2f}')
-        if eh >= 4 and nh < max(2, int(eh*0.70)):
-            status='REVISAR'; reasons.append(f'encabezados ES={eh}, EN={nh}')
+            material.append(f'EN/ES global={ratio:.2f}')
         if ratio > 1.55:
-            status='REVISAR'; reasons.append(f'EN/ES palabras={ratio:.2f}')
+            material.append(f'EN/ES global={ratio:.2f}')
+        if eh >= 4 and nh < max(2, int(eh*0.70)):
+            material.append(f'encabezados ES={eh}, EN={nh}')
         if rel.startswith('manifiestos/') and es_ids and es_ids != en_ids:
-            status='REVISAR'; reasons.append(f'secciones principales ES={es_ids}, EN={en_ids}')
+            material.append(f'secciones principales ES={es_ids}, EN={en_ids}')
         if rel.startswith('manifiestos/'):
-            material=section_material_reasons(es_body,en_body)
-            if material:
-                status='REVISAR'; reasons.extend(material)
-        rows.append((rel,ew,nw,ratio,eh,nh,status,'; '.join(reasons)))
-        if status!='OK': flagged.append(rows[-1])
+            m,w=section_diagnostics(es_body,en_body)
+            material.extend(m); warnings.extend(w)
+        status='REVISAR' if material else ('ADVERTENCIA' if warnings else 'OK')
+        reason='; '.join(material)
+        warning='; '.join(warnings)
+        row=(rel,ew,nw,ratio,eh,nh,status,reason,warning)
+        rows.append(row)
+        if material: flagged.append(row)
+        elif warnings: warned.append(row)
 
 lines=[]
 lines.append('# Auditoría de paridad ES/EN · manifiestos y artículos públicos')
 lines.append('')
 lines.append('**Fecha:** 2026-08-10  ')
 lines.append('**Ámbito:** `manifiestos/*.md` y `analisis/publicos/*.md` con secciones ES/EN.  ')
-lines.append('**Objetivo:** detectar versiones inglesas ausentes, materialmente resumidas o estructuralmente incompletas, incluso cuando el volumen global del documento parezca suficiente.  ')
+lines.append('**Objetivo:** detectar traducciones ausentes o materialmente recortadas sin confundir automáticamente diferencias legítimas de maquetación con pérdida semántica.  ')
 lines.append('')
 lines.append('## Criterio')
 lines.append('')
-lines.append('- Se compara recuento aproximado de palabras entre las secciones ES y EN.')
-lines.append('- Se compara el número de encabezados internos como señal de estructura perdida.')
-lines.append('- En `manifiestos/*.md` se compara la secuencia de secciones principales H2 numeradas.')
-lines.append('- También se compara **sección por sección** el volumen material y la conservación de listas, fórmulas/bloques de código y citas. Esto impide que una traducción conserve los títulos pero sustituya capítulos completos por resúmenes.')
-lines.append('- Se excluyen de ambos lados bloques compartidos de relaciones, navegación, invitación a Síntesis Abierta y referencias cruzadas generadas.')
-lines.append('- Es un detector conservador: un caso marcado exige lectura y corrección, no traducción palabra por palabra.')
+lines.append('- Se compara volumen global, encabezados y secuencia de secciones principales H2 numeradas.')
+lines.append('- Se compara sección por sección el volumen material y la conservación de fórmulas/bloques.')
+lines.append('- Las diferencias de listas o citas se marcan como **ADVERTENCIA estructural** si el volumen de la sección sigue siendo razonablemente equivalente; pasan a **REVISAR** cuando coinciden con compresión material.')
+lines.append('- Los bloques generados de navegación y referencias cruzadas no se contabilizan como traducción.')
+lines.append('- `REVISAR` bloquea la publicación automática de manifiestos; `ADVERTENCIA` exige inspección editorial pero no demuestra por sí sola recorte.')
 lines.append('')
 lines.append(f'**Documentos bilingües examinados:** {len(rows)}  ')
-lines.append(f'**Marcados para revisión:** {len(flagged)}  ')
+lines.append(f'**Recortes/materialmente asimétricos para revisión:** {len(flagged)}  ')
+lines.append(f'**Advertencias estructurales sin prueba suficiente de recorte:** {len(warned)}  ')
 lines.append(f'**Con marcador incompleto/ausente:** {len(missing)}')
 lines.append('')
 lines.append('## Casos marcados')
 lines.append('')
 lines.append('| Archivo | Palabras ES | Palabras EN | Ratio EN/ES | H ES | H EN | Motivo |')
 lines.append('|---|---:|---:|---:|---:|---:|---|')
-for rel,ew,nw,ratio,eh,nh,status,reason in flagged:
+for rel,ew,nw,ratio,eh,nh,status,reason,warning in flagged:
     lines.append(f'| `{rel}` | {ew} | {nw} | {ratio:.2f} | {eh} | {nh} | {reason} |')
 if not flagged: lines.append('| — | — | — | — | — | — | Sin casos |')
+lines.append('')
+lines.append('## Advertencias estructurales')
+lines.append('')
+lines.append('| Archivo | Estado | Advertencia |')
+lines.append('|---|---|---|')
+for rel,ew,nw,ratio,eh,nh,status,reason,warning in warned:
+    lines.append(f'| `{rel}` | ADVERTENCIA | {warning} |')
+if not warned: lines.append('| — | — | Sin advertencias |')
 lines.append('')
 if missing:
     lines.append('## Marcadores incompletos')
@@ -178,10 +201,10 @@ lines.append('## Inventario completo')
 lines.append('')
 lines.append('| Archivo | ES | EN | Ratio | H ES | H EN | Estado |')
 lines.append('|---|---:|---:|---:|---:|---:|---|')
-for rel,ew,nw,ratio,eh,nh,status,reason in rows:
+for rel,ew,nw,ratio,eh,nh,status,reason,warning in rows:
     lines.append(f'| `{rel}` | {ew} | {nw} | {ratio:.2f} | {eh} | {nh} | {status} |')
 lines.append('')
-lines.append('> La paridad editorial exigida no significa traducción palabra por palabra, pero sí conservación íntegra de tesis, secciones, matices, cautelas epistemológicas, ejemplos, listas, fórmulas, relaciones y conclusión.')
+lines.append('> La paridad editorial exigida no significa traducción palabra por palabra ni idéntica maquetación, pero sí conservación íntegra de tesis, secciones, matices, cautelas epistemológicas, ejemplos, fórmulas, relaciones y conclusión.')
 REPORT.parent.mkdir(parents=True,exist_ok=True)
 REPORT.write_text('\n'.join(lines)+'\n',encoding='utf-8')
-print(f'PARITY_AUDIT docs={len(rows)} flagged={len(flagged)} missing={len(missing)} report={REPORT}')
+print(f'PARITY_AUDIT docs={len(rows)} flagged={len(flagged)} warnings={len(warned)} missing={len(missing)} report={REPORT}')
