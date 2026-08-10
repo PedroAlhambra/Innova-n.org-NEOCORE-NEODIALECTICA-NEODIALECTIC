@@ -2,7 +2,7 @@
 # LXIV · NeoCronos™ · Measurement and Tokenisation of Contribution in Open Synthesis
 
 **Manifiesto / Manifesto:** LXIV  
-**Versión / Version:** 1.1  
+**Versión / Version:** 1.2  
 **Estado / Status:** Público · abierto a Síntesis Abierta / Public · open to Open Synthesis  
 **Fecha / Date:** 2026-08-10  
 **Autoría / Authorship:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico.  
@@ -302,87 +302,281 @@ LXII · Juego por la Síntesis y el Honor™ aporta la regla ética: ganar no co
 
 ## 1. Functional correction: NeoCronos™ is part of contribution
 
-NeoCronos™ does **not** appear after contribution has been valued.
+NeoCronos™ does **not appear after contribution has been valued**.
 
-It becomes active **when contribution begins inside an Open Synthesis** and measures/traces that contribution while it is being produced.
+NeoCronos™ becomes active **the instant a contribution begins inside an Open Synthesis** and is the system responsible for measuring it and preserving its trace.
+
+The correct relation is:
 
 ```text
-ENTER OPEN SYNTHESIS
+ENTER AN OPEN SYNTHESIS
 → BEGIN CONTRIBUTING
   = NEOCRONOS™ ACTIVE
-→ MEASURE AND TRACE CONTRIBUTION
-→ SUBMIT / CLOSE CONTRIBUTION
+→ MEASURE AND TRACE THE CONTRIBUTION
+→ CLOSE / SUBMIT THE CONTRIBUTION
 → SAN™ SCRUTINY
 → REAL VALUATION
-→ TOKENISATION / RETURN UNDER RULES
+→ TOKENISATION / RETURN UNDER THE RULES
 ```
 
-> **NeoCronos™ is part of contribution: it starts when contribution starts and measures it while it happens.**
+Therefore:
+
+> **NeoCronos™ is part of contribution: it begins when contribution begins and measures it while it is being produced.**
+
+It is not a separate gate. The gate is Open Synthesis.
 
 ## 2. What NeoCronos™ measures
 
-NeoCronos™ does not merely count minutes. It may trace devoted time, synthesis object, sources, evidence, counterexamples, relations, deltas, revisions, corrections, translations, tests, memory work and the resulting submitted contribution.
+NeoCronos™ does not measure minutes alone.
+
+It records a multidimensional trace of the work carried out during contribution, including whenever technically possible and relevant:
+
+- time devoted;
+- the Synthesis object being worked on;
+- sources consulted or supplied;
+- evidence;
+- counterexamples;
+- relations discovered;
+- proposed deltas;
+- revisions;
+- corrections;
+- translations;
+- tests;
+- memory and genealogy work;
+- positive or negative results;
+- and the final result submitted to the Synthesis.
+
+Measurement does not replace later judgement of value.
 
 ```text
 NEOCRONOS™ = CONTRIBUTION MEASUREMENT / TRACE
-SAN™ = CONTRIBUTION SCRUTINY
+SAN™ = SCRUTINY OF THE CONTRIBUTION
 CONTRIBUTION ECONOMY™ = VALUATION / RETURN
-TOKENISATION = REPRESENTATION OF RECOGNISED VALUE UNDER RULES
+TOKENISATION = REPRESENTATION OF RECOGNISED VALUE UNDER THE RULES
 ```
 
 ## 3. Time is a dimension, not the price
 
+NeoCronos™ also exists so that the vital cost of time devoted to the Common Good does not disappear.
+
+But it rejects mechanical equivalence:
+
 ```text
 1 HOUR ≠ 1 TOKEN
 MORE HOURS ≠ MORE VALUE
-ACTIVITY ≠ CONTRIBUTION
+SPEED ≠ LESS VALUE
 LONG TEXT ≠ DEEP CONTRIBUTION
+ACTIVITY ≠ CONTRIBUTION
 ```
 
-Time matters as part of the human cost of contribution, but it never determines value by itself.
+A relation discovered in five minutes may save years. A five-hour intervention may produce no useful delta at all.
 
-## 4. Traceable contribution session
+Time enters the measurement because it is part of the cost of contribution, but by itself it does not decide value.
 
-The candidate operational unit is a traceable contribution session. It begins when someone starts contributing to a concrete Synthesis and ends when that contribution is submitted, paused or abandoned.
+## 4. Basic unit: traceable contribution session
 
-## 5. Open valuation
+The candidate operational unit of NeoCronos™ is the **traceable contribution session**.
 
-NeoCronos™ measures and preserves contribution variables. SAN™ and the Contribution Economy™ subsequently determine what real value survived scrutiny.
-
-## 6. Tokenisation
+A session begins when a person decides to contribute inside a specific Synthesis and ends when that contribution is submitted, paused or abandoned.
 
 ```text
-MEASURED CONTRIBUTION ≠ VALIDATED CONTRIBUTION
-VALIDATED CONTRIBUTION ≠ AUTOMATIC TOKEN
-TOKEN ≠ AUTOMATIC EURO
-TOKEN ≠ EQUITY
-REWARD ≠ EPISTEMIC AUTHORITY
+NC-*
+├─ participant / available identity
+├─ synthesis / object
+├─ start
+├─ end / pauses
+├─ useful recorded time
+├─ sources
+├─ evidence
+├─ relations
+├─ deltas
+├─ result
+├─ SAN™ state
+└─ valuation / tokenisation state
 ```
 
-## 7. Anyone may contribute
+Implementation may evolve, but this conceptual relation is fixed.
 
-Anyone may contribute to an Open Synthesis with sufficient local understanding of the concrete node. Full mastery of the entire framework is not required for local participation.
+## 5. What may constitute a contribution
 
-## 8. Full-framework understanding and AI
+Contribution may exist in:
 
-The complete framework is now relationally, documentarily and genealogically dense enough that faithful global understanding currently requires or strongly benefits from AI assistance as relational memory and cognitive scaffolding, always with return to source.
+- a question that reveals a real contradiction;
+- a decisive source;
+- a refutation;
+- a counterexample;
+- a new relation;
+- code;
+- documentary repair;
+- faithful translation;
+- memory maintenance;
+- a superior synthesis;
+- an implementation;
+- a use test;
+- a demonstration that something does not work;
+- care or maintenance necessary for system continuity.
 
-AI does not replace the corpus or become final sovereignty.
+The mere volume of activity does not equal contribution.
 
-## 9. Relation to NeoGame™ and Honor
+## 6. Subsequent open valuation
+
+NeoCronos™ measures and preserves the variables of contribution. Afterwards, SAN™ and the Contribution Economy™ may evaluate which part of that activity produced real value.
+
+Open candidate function:
 
 ```text
-NEOGAME™ = PLAY INSIDE SYNTHESIS FOR THE COMMON GOOD
-CONTRIBUTION = MOVE
-NEOCRONOS™ = MEASUREMENT AND TRACE FROM THE START OF THE MOVE
-SAN™ = SCRUTINY
-TOKENISATION = POSSIBLE RECOGNITION / RETURN OF VALIDATED VALUE
+CONTRIBUTION_VALUE = F(
+  NeoCronos_measurement,
+  understanding,
+  originality,
+  usefulness,
+  difficulty,
+  evidence,
+  impact,
+  synthesis,
+  continuity,
+  maintenance,
+  avoided_cost,
+  reproducibility,
+  quality
+)
 ```
 
-The ethical root remains LXII · Game for Synthesis and Honor™.
+Weighting remains open to experience, audit and Synthesis.
 
-## 10. Open Synthesis
+## 7. Tokenisation
 
-[Issue #107 · NeoCronos™ Open Synthesis](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/107)
+NeoCronos™ connects measurement of contribution with its possible tokenisation, while keeping the layers separate:
 
+```text
+MEASURED CONTRIBUTION
+≠ VALIDATED CONTRIBUTION
+
+VALIDATED CONTRIBUTION
+≠ AUTOMATIC TOKEN
+
+TOKEN
+≠ AUTOMATIC EURO
+
+TOKEN
+≠ SHARE / CORPORATE EQUITY
+
+REWARD
+≠ EPISTEMIC AUTHORITY
+```
+
+Tokenisation should represent recognition or return only when the open rules of the system allow it.
+
+## 8. Contribution Return Fund™
+
+Economic return requires real material backing.
+
+```text
+CONTRIBUTION MEASURED BY NEOCRONOS™
+→ SAN™ SCRUTINY
+→ RECOGNISED VALUE
+→ ELIGIBILITY
+→ AVAILABLE FUND
+→ REAL REWARD
+```
+
+Non-existent liquidity must not be pretended.
+
+## 9. Anti-farming
+
+NeoCronos™ should help detect and prevent:
+
+- spam;
+- repetition;
+- inflated time;
+- artificial fragmentation;
+- plagiarism;
+- appropriation of genealogy;
+- mass automatic generation without review;
+- manufactured complexity;
+- sabotage followed by a claim for repairing it;
+- popularity without verifiable usefulness.
+
+> **Measuring does not mean rewarding.**
+
+## 10. Anyone can contribute
+
+**Anyone may participate in an Open Synthesis** when they reach sufficient understanding of the concrete node on which they intervene.
+
+They do not need to master the whole framework in order to ask a question, contribute experience, point out a local contradiction, offer a source, test an interface or propose an improvement.
+
+```text
+CONTRIBUTE TO A NODE
+→ SUFFICIENT LOCAL UNDERSTANDING
+→ NEOCRONOS™ ACTIVE DURING CONTRIBUTION
+```
+
+## 11. Global understanding and AI assistance
+
+The joint framework has reached a relational, documentary, genealogical and multidimensional density that makes it very difficult for individual human memory to maintain all its connections simultaneously.
+
+Therefore:
+
+```text
+PARTICIPATE LOCALLY
+→ DOES NOT REQUIRE MASTERY OF THE WHOLE
+
+UNDERSTAND / JUDGE THE COMPLETE FRAMEWORK
+→ DEEP RELATIONAL MEMORY
+→ RETURN TO SOURCE
+→ AI ASSISTANCE CURRENTLY NECESSARY OR HIGHLY RECOMMENDED
+```
+
+AI functions as cognitive scaffolding and relational memory; it does not replace the corpus or acquire final sovereignty.
+
+## 12. Relation to NeoGame™ and Honor
+
+**NeoGame™** is the tokenised game for the Common Good that takes place inside Open Syntheses.
+
+NeoCronos™ is its contribution-measurement system.
+
+```text
+NEOGAME™
+= PLAY INSIDE SYNTHESIS FOR THE COMMON GOOD
+
+CONTRIBUTION
+= MOVE
+
+NEOCRONOS™
+= MEASUREMENT AND TRACE OF THAT MOVE FROM THE MOMENT IT BEGINS
+
+SAN™
+= SCRUTINY
+
+TOKENISATION
+= POSSIBLE RECOGNITION / RETURN OF VALIDATED VALUE
+```
+
+LXII · Game for Synthesis and Honor™ provides the ethical rule: winning does not consist in humiliating others or accumulating tokens, but in making the Synthesis better.
+
+## 13. Relations
+
+- [II · Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md)
+- [III · Human Right to Contribute™](./03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
+- [VII · Contribution Economy™](./04_economia_del_aporte_ES_EN.md)
+- [IX · Memory, Genealogy and Traceability™](./06_memoria_genealogia_trazabilidad_ES_EN.md)
+- [XXIII · Sovereignty of Cognitive Time™](./23_soberania_tiempo_cognitivo_ES_EN.md)
+- [XL · Relational Honor™](./40_respeto_neoego_honor_relacional_ES_EN.md)
+- [LXII · Game for Synthesis and Honor™](./62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md)
+- [LXIII · Against Crude Simplification™](./63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md)
+- [LXV · NeoGame™](./65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
+- [NeoCronos™ Open Synthesis · #107](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/107)
+
+## 14. Proclamation
+
+> Entering a Synthesis opens the possibility of contributing.
+>
+> The moment contribution begins, NeoCronos™ begins with it.
+>
+> It measures the effort, trace and relations of that contribution without confusing time with value.
+>
+> SAN™ scrutinises what was produced.
+>
+> The Contribution Economy™ determines which value deserves recognition.
+>
 > **NeoCronos™ does not come after contribution: it lives inside contribution from its beginning and allows its value not to disappear without memory.**
