@@ -31,6 +31,7 @@ jobs:
         run: |
           python - <<'PY'
           from pathlib import Path
+          import re
 
           # WEB4 reader was frozen at LX. Extend its explicit registry before
           # the 7.2 one-shot performs its own idempotent checks.
@@ -62,8 +63,7 @@ jobs:
               elif "'LXVIII':'114'" not in s:
                   raise SystemExit(f'issue fallback not patchable: {name}')
 
-          # Current Open Synthesis coverage was also manually frozen at LXV.
-          # Repair that visible state before the generic synchroniser validates.
+          # Current Open Synthesis coverage and recent nodes were frozen at LXV.
           p=Path('propuestas/sintesis-abierta/README.md')
           s=p.read_text(encoding='utf-8')
           s=s.replace(
@@ -73,10 +73,72 @@ jobs:
               '65 finite manifestos · I–LXV + Manifesto ∞ · 14 Neoaxioms™',
               '68 finite manifestos · I–LXVIII + Manifesto ∞ · 14 Neoaxioms™'
           )
+          start='<!-- NEOCORE_72_RECENT_SYNTHESIS_START -->'
+          end='<!-- NEOCORE_72_RECENT_SYNTHESIS_END -->'
+          recent=f'''{start}
+
+## Nodos recientes integrados · LXVI–LXVIII + ∞ / Recent integrated nodes · LXVI–LXVIII + ∞
+
+- **LXVI · [NeoSinergia™](../../manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)** · [Síntesis #110](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/110)
+- **LXVII · [NeoTitanes™](../../manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md)** · [Síntesis #112](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/112)
+- **LXVIII · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie](../../manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)** · [Síntesis #114](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/114)
+- **∞ · [Neo0™ · Puerta Abierta del Fractal](../../manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)** · [Síntesis #106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106)
+
+La integración 7.2 mantiene ∞ fuera del recuento finito y registra los nuevos candidatos neoaxiomáticos sin canonizarlos automáticamente. / The 7.2 integration keeps ∞ outside the finite count and registers the new Neoaxiomatic candidates without automatically canonising them.
+
+{end}'''
+          if start in s and end in s:
+              s=re.sub(re.escape(start)+r'.*?'+re.escape(end),recent,s,count=1,flags=re.S)
+          else:
+              anchor='## NeoJuego™ y NeoCronos™ · relación operativa correcta'
+              if anchor in s:
+                  s=s.replace(anchor,recent+'\n\n---\n\n'+anchor,1)
+              else:
+                  s=s.replace('\n# ES · Castellano','\n'+recent+'\n\n# ES · Castellano',1)
+          p.write_text(s,encoding='utf-8')
+
+          # Complete Open Synthesis index: extend finite table and coverage.
+          p=Path('propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md')
+          s=p.read_text(encoding='utf-8')
+          s=s.replace(
+              '65 manifiestos finitos I–LXV + Manifiesto ∞ · 14 Neoaxiomas™',
+              '68 manifiestos finitos I–LXVIII + Manifiesto ∞ · 14 Neoaxiomas™'
+          ).replace(
+              '65 finite manifestos I–LXV + Manifesto ∞ · 14 Neoaxioms™',
+              '68 finite manifestos I–LXVIII + Manifesto ∞ · 14 Neoaxioms™'
+          )
+          if '| LXVI | [NeoSinergia™]' not in s:
+              needle='| ∞ | [Neo0™ · Puerta Abierta del Fractal](../../manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) | [#106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106) |'
+              rows='''| LXVI | [NeoSinergia™](../../manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md) | [#110](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/110) |
+| LXVII | [NeoTitanes™ · Reconstrucción Sistémica y Motor del Bien Común](../../manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md) | [#112](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/112) |
+| LXVIII | [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie](../../manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md) | [#114](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/114) |'''
+              if needle not in s:
+                  raise SystemExit('complete synthesis index ∞ row not found')
+              s=s.replace(needle,rows+'\n'+needle,1)
           p.write_text(s,encoding='utf-8')
           PY
       - name: Apply and validate 7.2
         run: python .github/scripts/oneshot_neocore72.py
+      - name: Audit ES EN parity after 7.2
+        shell: bash
+        run: |
+          python .github/scripts/audit_es_en_parity.py
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          p=Path('auditorias/publicas/2026-08-09_auditoria_paridad_ES_EN_manifiestos_articulos.md')
+          text=p.read_text(encoding='utf-8')
+          flagged=text.split('## Casos marcados',1)[1].split('## ',1)[0] if '## Casos marcados' in text else ''
+          bad=[line for line in flagged.splitlines() if re.match(r'^\| `manifiestos/.*\.md` \|',line)]
+          missing=[]
+          if '## Marcadores incompletos' in text:
+              block=text.split('## Marcadores incompletos',1)[1].split('## ',1)[0]
+              missing=[line for line in block.splitlines() if '`manifiestos/' in line]
+          if bad or missing:
+              print('\n'.join(bad+missing))
+              raise SystemExit('MANIFESTO_PARITY=FAIL')
+          print('MANIFESTO_PARITY=OK')
+          PY
       - name: Commit and self-clean
         run: |
           git config user.name 'Innova_N NEOCore automation'
