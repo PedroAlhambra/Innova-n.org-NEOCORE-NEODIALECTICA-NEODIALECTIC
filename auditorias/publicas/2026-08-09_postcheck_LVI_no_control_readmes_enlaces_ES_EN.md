@@ -7,7 +7,7 @@
 
 - Archivos Markdown revisados: **303**.
 - README/LEEME revisados: **17**.
-- Enlaces internos de ruta comprobados: **8247**.
+- Enlaces internos de ruta comprobados: **8257**.
 - Alias internos de GitHub Wiki reconocidos: **11**.
 - Enlaces externos inventariados sin comprobar disponibilidad remota: **1630**.
 - Enlaces sólo a ancla detectados: **368**.
@@ -32,7 +32,7 @@
 
 - Markdown files reviewed: **303**.
 - README/LEEME files reviewed: **17**.
-- Internal path links checked: **8247**.
+- Internal path links checked: **8257**.
 - GitHub Wiki extensionless page aliases recognised: **11**.
 - Canonical manifestos detected: **65 · I–LXV**.
 - Latest manifesto / synthesis: **LXV / #109**.
