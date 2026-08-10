@@ -15,12 +15,16 @@
 <div class="wrap">
   <div class="top"><div class="brand">Innova_N · WEB4™ · SistemaTrazable™ · NeoCronos™</div><div class="badge">DEMO / prototipo público WEB4™</div></div>
   <h1>Aporta a una Síntesis.<br>NeoCronos™ mide la jugada.</h1>
-  <p class="lead"><strong>NeoCronos™ no es una puerta separada.</strong> Entras por una Síntesis Abierta y, cuando empiezas a aportar, NeoCronos™ se activa con ese aporte para medir y conservar su traza. El tiempo registrado no genera tokens, dinero ni participación de forma automática.</p>
+  <p class="lead"><strong>NeoCronos™ no es una puerta separada.</strong> La ruta correcta es <strong>Síntesis Abierta → aporte → NeoCronos™</strong>. Entras por una Síntesis Abierta y, cuando empiezas a aportar, NeoCronos™ se activa con ese aporte para medir y conservar su traza. El tiempo registrado no genera tokens, dinero ni participación de forma automática.</p>
 
   <div class="explain">
     <strong>¿Qué significa WEB4™ · SistemaTrazable™?</strong>
     WEB4™ es la capa pública relacional del marco. <strong>SistemaTrazable™</strong> nombra su principio operativo: conservar procedencia, relaciones, versiones, evidencia, decisiones y retornos para que una aportación pueda reconstruirse, contrastarse y corregirse sin perder genealogía.
-    <div class="actions"><a class="button secondary" href="https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/07_web4_sistematrazable_ES_EN.md">Leer WEB4™ · SistemaTrazable™</a><a class="button secondary" href="https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/107">Síntesis NeoCronos™ #107</a></div>
+    <div class="actions">
+      <a class="button" href="/sintesis/">Entrar en Síntesis Abierta</a>
+      <a class="button secondary" href="https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/07_web4_sistematrazable_ES_EN.md">Leer WEB4™ · SistemaTrazable™</a>
+      <a class="button secondary" href="https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/107">Síntesis NeoCronos™ #107</a>
+    </div>
   </div>
 
   <div class="grid">
@@ -35,7 +39,8 @@
       <label style="margin-top:12px">Intención / delta que vas a explorar<textarea id="note" placeholder="¿Qué quieres contrastar, corregir, demostrar, relacionar o construir?"></textarea></label>
       <div class="actions">
         <button id="start">Comenzar aporte · NeoCronos™</button>
-        <a class="button secondary" href="https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/README.md">Ver Síntesis Abiertas</a>
+        <a class="button secondary" href="/sintesis/">Abrir página de Síntesis</a>
+        <a class="button secondary" href="https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/README.md">Índice GitHub de Síntesis</a>
       </div>
       <p class="notice">Privacidad v0.3: esta DEMO guarda la traza únicamente en <strong>localStorage</strong> de este navegador. No hay backend, identidad verificada, tokenización ni pago.</p>
     </section>
@@ -65,7 +70,11 @@
       <h2>Traza del aporte</h2>
       <div class="flow"><span>Síntesis Abierta</span><span>Aporte + NeoCronos™</span><span>Trabajo trazable</span><span>Fuentes / evidencia / delta</span><span>Entrega</span><span>SAN™</span><span>Valoración</span><span>Tokenización / retorno</span></div>
       <p class="notice"><strong>Relación correcta:</strong> NeoCronos™ está dentro del aporte y funciona desde su inicio. WEB4™ · SistemaTrazable™ conserva la genealogía y relaciones; SAN™ contrasta el resultado; la valoración y la tokenización vienen después.</p>
-      <div class="actions"><button class="secondary" id="export">Exportar JSON</button><button class="danger" id="clear">Borrar trazas locales</button></div>
+      <div class="actions">
+        <a class="button secondary" href="/sintesis/">Volver a Síntesis Abierta</a>
+        <button class="secondary" id="export">Exportar JSON</button>
+        <button class="danger" id="clear">Borrar trazas locales</button>
+      </div>
       <h3>Aportes locales</h3>
       <div class="history" id="history"></div>
     </section>
