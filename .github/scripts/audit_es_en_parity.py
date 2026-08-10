@@ -17,6 +17,12 @@ SHARED_TRAILING_MARKERS = [
     '<!-- NEO_LATEST_MANIFESTO_START -->',
     '<!-- NEO_CROSS_REFERENCES_START -->',
 ]
+LANGUAGE_TRAILING_HEADINGS = [
+    r'^## Navegación\s*$',
+    r'^## Navigation\s*$',
+    r'^### Vínculos internos equivalentes\s*$',
+    r'^### Equivalent internal links\s*$',
+]
 
 
 def find_marker(text, patterns):
@@ -71,6 +77,21 @@ def blockquotes(s):
 
 def cut_shared_tail(s):
     positions=[s.find(marker) for marker in SHARED_TRAILING_MARKERS if s.find(marker)>=0]
+    return s[:min(positions)] if positions else s
+
+
+def cut_language_tail(s):
+    """Exclude language-specific navigation/link tails from semantic parity.
+
+    These blocks are navigation infrastructure, not translated manifesto body.
+    Without this cut the last numbered section can absorb a different amount
+    of ES/EN navigation and create false semantic-ratio failures.
+    """
+    positions=[]
+    for pat in LANGUAGE_TRAILING_HEADINGS:
+        m=re.search(pat,s,re.M)
+        if m:
+            positions.append(m.start())
     return s[:min(positions)] if positions else s
 
 
@@ -129,8 +150,8 @@ for base in TARGETS:
         if not es or not en or en.start() < es.start():
             missing.append((rel,bool(es),bool(en)))
             continue
-        es_body=cut_shared_tail(text[es.end():en.start()])
-        en_body=cut_shared_tail(text[en.end():])
+        es_body=cut_language_tail(cut_shared_tail(text[es.end():en.start()]))
+        en_body=cut_language_tail(cut_shared_tail(text[en.end():]))
         ew=len(words(es_body)); nw=len(words(en_body)); ratio=(nw/ew if ew else 0)
         eh=len(headings(es_body)); nh=len(headings(en_body))
         es_ids=numbered_section_ids(es_body); en_ids=numbered_section_ids(en_body)
@@ -167,7 +188,7 @@ lines.append('')
 lines.append('- Se compara volumen global, encabezados y secuencia de secciones principales H2 numeradas.')
 lines.append('- Se compara sección por sección el volumen material y la conservación de fórmulas/bloques.')
 lines.append('- Las diferencias de listas o citas se marcan como **ADVERTENCIA estructural** si el volumen de la sección sigue siendo razonablemente equivalente; pasan a **REVISAR** cuando coinciden con compresión material.')
-lines.append('- Los bloques generados de navegación y referencias cruzadas no se contabilizan como traducción.')
+lines.append('- Los bloques generados de navegación, referencias cruzadas y colas de navegación específicas de idioma no se contabilizan como traducción.')
 lines.append('- `REVISAR` bloquea la publicación automática de manifiestos; `ADVERTENCIA` exige inspección editorial pero no demuestra por sí sola recorte.')
 lines.append('')
 lines.append(f'**Documentos bilingües examinados:** {len(rows)}  ')
