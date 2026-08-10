@@ -1,0 +1,35 @@
+name: one-shot NEOCore 7.2 runner
+
+on:
+  push:
+    paths:
+      - '.github/scripts/oneshot_neocore72.py'
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Fast-forward current main
+        run: |
+          git fetch origin main
+          git checkout main
+          git merge --ff-only origin/main
+      - name: Apply and validate 7.2
+        run: python .github/scripts/oneshot_neocore72.py
+      - name: Commit and self-clean
+        run: |
+          git config user.name 'Innova_N NEOCore automation'
+          git config user.email 'actions@users.noreply.github.com'
+          git rm --ignore-unmatch .github/scripts/oneshot_neocore72.py
+          git rm --ignore-unmatch .github/workflows/oneshot-neocore-72-runner.yml
+          git rm --ignore-unmatch .github/workflows/oneshot-neocore-72-synthesis-web4.yml
+          git add -A
+          git status --short
+          git commit -m 'feat: NEOCore 7.2 soberanía de síntesis y WEB4 actualizado'
+          git push origin main
