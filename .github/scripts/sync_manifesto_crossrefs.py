@@ -36,7 +36,16 @@ def first_titles(text):
     return ordinal, es, en
 
 
-# Catálogo canónico root: no duplicados de manifiestos/canonicos.
+def display_title(es, en):
+    a=es.strip(); b=en.strip()
+    if not b or a.casefold() == b.casefold():
+        return a
+    # Algunos manifiestos históricos ya contienen ES / EN en un único H1.
+    if b.casefold() in a.casefold() or a.casefold() in b.casefold():
+        return a if len(a) >= len(b) else b
+    return f'{a} / {b}'
+
+
 files = sorted(MAN.glob('[0-9][0-9]_*.md'))
 inf = MAN / 'INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md'
 if inf.exists():
@@ -53,18 +62,12 @@ for p in files:
     catalog[ordinal] = {'path': p, 'es': es, 'en': en}
     path_to_ord[p.name] = ordinal
 
-# Alias deliberadamente conservadores: sólo términos distintivos.
 ALIASES = {
-    'Síntesis Abierta Neodialéctica': 'II',
-    'Neodialectical Open Synthesis': 'II',
-    'Derecho Humano de Aporte': 'III',
-    'Human Right to Contribute': 'III',
-    'Economía del Aporte': 'VII',
-    'Contribution Economy': 'VII',
-    'Memoria, Genealogía y Trazabilidad': 'IX',
-    'Memory, Genealogy and Traceability': 'IX',
-    'WEB4': 'X', 'SistemaTrazable': 'X',
-    'NeoPandora': 'XIII',
+    'Síntesis Abierta Neodialéctica': 'II', 'Neodialectical Open Synthesis': 'II',
+    'Derecho Humano de Aporte': 'III', 'Human Right to Contribute': 'III',
+    'Economía del Aporte': 'VII', 'Contribution Economy': 'VII',
+    'Memoria, Genealogía y Trazabilidad': 'IX', 'Memory, Genealogy and Traceability': 'IX',
+    'WEB4': 'X', 'SistemaTrazable': 'X', 'NeoPandora': 'XIII',
     'Refragmentación Arquetípica': 'XVI', 'Archetypal Refragmentation': 'XVI',
     'Persistencia de la Memoria': 'XIX', 'Persistence of Memory': 'XIX',
     'UMBRAL-X': 'XX', 'Umbral-X': 'XX',
@@ -73,21 +76,18 @@ ALIASES = {
     'Pulido de la Piedra': 'XXV', 'Polishing of the Stone': 'XXV',
     'Los Tesla': 'XXVIII', 'The Teslas': 'XXVIII',
     'Idolatría del Dinero': 'XXIX', 'Idolatry of Money': 'XXIX',
-    'Honor Relacional': 'XL', 'Relational Honor': 'XL',
-    'Neowar': 'XLIV',
+    'Honor Relacional': 'XL', 'Relational Honor': 'XL', 'Neowar': 'XLIV',
     'Multidimensionalidad Neodialéctica': 'XLV', 'Neodialectical Multidimensionality': 'XLV',
     'Cerrar la Herida': 'XLVI', 'Close the Wound': 'XLVI',
     'La Síntesis Todo lo Ve': 'XLVIII', 'Synthesis Sees Everything': 'XLVIII',
-    'Leónidas': 'LIII', 'Leonidas': 'LIII',
-    'NO-CONTROL': 'LVI',
+    'Leónidas': 'LIII', 'Leonidas': 'LIII', 'NO-CONTROL': 'LVI',
     'Inteligencia Civilizatoria': 'LVIII', 'Civilisational Intelligence': 'LVIII',
     'Custodia Cognitiva Distribuida': 'LIX', 'Distributed Cognitive Custodianship': 'LIX',
     'Relevancia Humana Necesaria': 'LX', 'Necessary Human Relevance': 'LX',
     'Custodia Experimental Multiescalar': 'LXI', 'Multiscale Experimental Custodianship': 'LXI',
     'Juego por la Síntesis y el Honor': 'LXII', 'Game for Synthesis and Honor': 'LXII',
     'Simplificación Burda': 'LXIII', 'Crude Simplification': 'LXIII',
-    'NeoCronos': 'LXIV',
-    'NeoJuego': 'LXV', 'NeoGame': 'LXV',
+    'NeoCronos': 'LXIV', 'NeoJuego': 'LXV', 'NeoGame': 'LXV',
 }
 
 SPECIAL_DOCS = [
@@ -99,21 +99,17 @@ SPECIAL_DOCS = [
 
 def detect_refs(text, own_ord):
     refs = set()
-    # Ordinal seguido de punto medio: XLIV · Neowar, etc.
     for ord_ in re.findall(r'\b([IVXLCDM]+)\s*·', text):
         if ord_ in catalog and ord_ != own_ord:
             refs.add(ord_)
-    # "Manifiesto XX" / "Manifesto XX" incluso sin título.
     for ord_ in re.findall(r'\b(?:Manifiesto|Manifesto)\s+([IVXLCDM]+)\b', text, re.I):
         ord_ = ord_.upper()
         if ord_ in catalog and ord_ != own_ord:
             refs.add(ord_)
-    # Enlaces markdown ya existentes a otros manifiestos.
     for target in re.findall(r'\((?:\./)?([^/()]+\.md)(?:#[^)]*)?\)', text):
         ord_ = path_to_ord.get(Path(target).name)
         if ord_ and ord_ != own_ord:
             refs.add(ord_)
-    # Nombres distintivos usados sin ordinal.
     low = text.casefold()
     for alias, ord_ in ALIASES.items():
         if ord_ != own_ord and alias.casefold() in low and ord_ in catalog:
@@ -124,18 +120,16 @@ def detect_refs(text, own_ord):
 def block_for(text, own_ord):
     refs = detect_refs(text, own_ord)
     lines = [
-        START,
-        '',
-        '## Referencias cruzadas canónicas / Canonical cross-references',
-        '',
-        '> **Norma / Rule:** las menciones cruzadas pueden permanecer en el cuerpo como texto para no sobrecargar la lectura; este bloque concentra los hipervínculos canónicos detectados y permite retorno explícito a fuente. / Cross-references may remain as prose in the body to avoid visual overload; this block concentrates detected canonical hyperlinks and preserves explicit return to source.',
-        '',
+        START, '',
+        '## Referencias cruzadas canónicas / Canonical cross-references', '',
+        '> **Norma / Rule:** las menciones cruzadas pueden permanecer en el cuerpo como texto para no sobrecargar la lectura; este bloque concentra los hipervínculos canónicos detectados y permite retorno explícito a fuente. / Cross-references may remain as prose in the body to avoid visual overload; this block concentrates detected canonical hyperlinks and preserves explicit return to source.', ''
     ]
     if refs:
         for ord_ in sorted(refs, key=roman_to_int):
             item = catalog[ord_]
             rel = './' + item['path'].name
-            lines.append(f"- **{ord_}** · [{item['es']} / {item['en']}]({rel})")
+            label = display_title(item['es'], item['en'])
+            lines.append(f'- **{ord_}** · [{label}]({rel})')
     else:
         lines.append('- Sin referencias cruzadas a otros manifiestos detectadas / No cross-references to other manifestos detected.')
 
