@@ -1,0 +1,93 @@
+name: oneshot-register-lxvii-neotitanes
+
+on:
+  push:
+    paths:
+      - '.github/workflows/oneshot-register-lxvii-neotitanes.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: neocore-document-sync-main
+  cancel-in-progress: false
+
+jobs:
+  register:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Registrar LXVII en índices canónicos
+        shell: python
+        run: |
+          from pathlib import Path
+          import json, re
+
+          repo = 'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC'
+          manifest = '67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md'
+          issue = f'{repo}/issues/112'
+
+          p = Path('manifiestos/README.md')
+          s = p.read_text(encoding='utf-8')
+          row = '- **LXVII** · [NeoTitanes™ · Reconstrucción Sistémica y Motor del Bien Común / NeoTitans™](67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md)'
+          marker = '- **∞** · [Neo0™ · Puerta Abierta del Fractal / Open Door of the Fractal](INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)'
+          if row not in s:
+              if marker not in s:
+                  raise SystemExit('No se encontró la fila ∞ en manifiestos/README.md')
+              s = s.replace(marker, row + '\n' + marker, 1)
+          p.write_text(s, encoding='utf-8')
+
+          regp = Path('manifiestos/CANONICAL_FILENAMES.json')
+          reg = json.loads(regp.read_text(encoding='utf-8'))
+          reg.setdefault('entries', {})['LXVII'] = {
+              'legacy': f'manifiestos/{manifest}',
+              'canonical': 'manifiestos/canonicos/LXVII_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md'
+          }
+          regp.write_text(json.dumps(reg, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+
+          synth_row = f'| LXVII | [NeoTitanes™ · Reconstrucción Sistémica y Motor del Bien Común](../../manifiestos/{manifest}) | [#112]({issue}) |'
+          for q in (Path('propuestas/sintesis-abierta/README.md'), Path('propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md')):
+              t = q.read_text(encoding='utf-8')
+              if synth_row not in t:
+                  m = re.search(r'^\| ∞ \| .*issues/106\) \|$', t, re.M)
+                  if not m:
+                      raise SystemExit(f'No se encontró fila ∞ en {q}')
+                  t = t[:m.start()] + synth_row + '\n' + t[m.start():]
+              q.write_text(t, encoding='utf-8')
+
+      - name: Sincronizar red documental
+        run: |
+          python .github/scripts/sync_open_synthesis_manifestos.py
+          python .github/scripts/normalize_manifesto_indices.py
+          python .github/scripts/sync_root_navigation.py
+          python .github/scripts/sync_canonical_manifestos.py
+          python .github/scripts/sync_manifesto_crossrefs.py
+
+      - name: Auditar
+        run: |
+          python .github/scripts/audit_markdown_links_readmes.py
+          if [ -f .github/scripts/audit_es_en_parity.py ]; then python .github/scripts/audit_es_en_parity.py; fi
+
+      - name: Commit de integración
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git reset .github/workflows/oneshot-register-lxvii-neotitanes.yml
+          if ! git diff --cached --quiet; then
+            git commit -m 'docs: integrar LXVII NeoTitanes en red canónica'
+            git pull --rebase origin main
+            git push origin main
+          fi
+
+      - name: Retirar one-shot
+        if: always()
+        run: |
+          git pull --rebase || true
+          git rm -f .github/workflows/oneshot-register-lxvii-neotitanes.yml || true
+          git commit -m 'ci: retirar one-shot registro LXVII NeoTitanes' || true
+          git push || true
