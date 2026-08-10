@@ -6,7 +6,17 @@ body:
   - type: markdown
     attributes:
       value: |
-        Este canal sirve para aportar pruebas, refutaciones, casos comparables o proponer una nueva Auditoría Pública / Síntesis de Problema. No conviertas sospechas en hechos. Evita datos personales innecesarios.
+        Este canal sirve para aportar pruebas, refutaciones, casos comparables o proponer una nueva Auditoría Pública / Síntesis de Problema.
+
+        **No necesitas saber Git, hacer commits ni preparar un informe técnico perfecto.** Puedes escribir con lenguaje normal y adjuntar capturas o archivos directamente en los campos de texto o comentarios de GitHub arrastrando o pegando el material cuando GitHub lo permita.
+
+        **ADMISIÓN ≠ VALIDACIÓN.** Una captura o documento puede acreditar un resultado observable en una prueba concreta sin demostrar por sí solo causa, intención ni responsabilidad.
+
+        Si una evidencia adquiere relevancia material, podrá preservarse después en el repositorio canónico con identificador, metadatos y huella criptográfica. **La persona que aporta no tiene que realizar esa preservación técnica.**
+
+        Guía rápida: https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/GUIA_RAPIDA_APORTAR_EVIDENCIA_ES_EN.md
+
+        No conviertas sospechas en hechos. Evita datos personales innecesarios.
   - type: dropdown
     id: tipo
     attributes:
@@ -18,62 +28,70 @@ body:
         - Corrección de cronología o metadatos
         - Propuesta de nueva auditoría
         - Propuesta de reparación o resolución
+        - No sé cómo clasificarlo todavía
     validations:
       required: true
   - type: input
     id: auditoria
     attributes:
       label: Auditoría o problema relacionado
-      description: Enlace al documento o Issue existente; si es una auditoría nueva, escribe NUEVA.
+      description: Enlace al documento o Issue existente; si es una auditoría nueva o no sabes dónde encaja, escribe NUEVA o NO SÉ.
     validations:
       required: true
   - type: textarea
     id: objeto
     attributes:
-      label: Objeto concreto
-      description: Describe qué se quiere contrastar o resolver.
+      label: ¿Qué quieres aportar o contrastar?
+      description: Explícalo con tus palabras. No necesitas terminología técnica.
     validations:
       required: true
   - type: textarea
     id: hechos
     attributes:
-      label: Hechos conocidos
-      description: Separa hechos verificables de interpretaciones.
+      label: ¿Qué observaste o qué sabes directamente?
+      description: Cuenta el hecho observable. Si algo es una interpretación o te lo dijo otra fuente, indícalo si puedes.
     validations:
       required: true
   - type: textarea
     id: evidencia
     attributes:
       label: Evidencia disponible
-      description: Enlaces, capturas, identificadores, comunicaciones, fechas, registros u otros elementos verificables. No publiques credenciales ni datos personales innecesarios.
+      description: Puedes incluir enlaces, capturas, imágenes, identificadores, comunicaciones, fechas, registros u otros elementos verificables. Arrastra o pega archivos directamente si GitHub lo permite. Si falta algún dato, indica simplemente que no lo sabes. No publiques credenciales ni datos personales innecesarios.
     validations:
       required: true
   - type: textarea
+    id: contexto
+    attributes:
+      label: Contexto mínimo de la prueba
+      description: Si lo sabes, indica fecha/hora aproximada, plataforma o lugar, qué hiciste y qué resultado apareció. Si no conoces algún dato, escribe NO SÉ.
+    validations:
+      required: false
+  - type: textarea
     id: incertidumbre
     attributes:
-      label: Qué no se sabe / hipótesis alternativas
-      description: Indica incertidumbres, inferencias e hipótesis rivales.
+      label: ¿Qué no sabes todavía? / hipótesis alternativas
+      description: No es obligatorio tener una explicación. Puedes escribir simplemente NO SÉ. Si tienes varias posibles causas, sepáralas del hecho observado.
     validations:
       required: true
   - type: textarea
     id: contradiccion
     attributes:
-      label: Evidencia que podría contradecir tu hipótesis
-      description: Si existe, inclúyela. Si no la conoces, indícalo.
+      label: ¿Conoces algo que pueda contradecir tu interpretación?
+      description: Si existe, inclúyelo. Si no lo conoces, escribe NO SÉ.
     validations:
       required: true
   - type: textarea
     id: resultado
     attributes:
-      label: Resultado o reparación buscada
-      description: Qué cambio, explicación, verificación o reparación sería útil.
+      label: ¿Qué resultado o reparación sería útil?
+      description: Puede ser una explicación, una comprobación, una corrección, una reparación o simplemente abrir contraste.
     validations:
       required: true
   - type: textarea
     id: privacidad
     attributes:
       label: Privacidad y límites
-      description: Señala qué material no debería hacerse público o requiere anonimización.
+      description: Señala qué material no debería hacerse público o requiere anonimización. Si no aplica, escribe NO APLICA.
     validations:
       required: true
   - type: checkboxes
@@ -81,11 +99,13 @@ body:
     attributes:
       label: Declaraciones
       options:
-        - label: Distingo hechos, testimonios, inferencias e hipótesis.
+        - label: He intentado distinguir entre lo observado, lo afirmado por otras fuentes y mis propias inferencias.
           required: true
         - label: No he incluido deliberadamente datos personales innecesarios, credenciales ni material ilícito.
           required: true
-        - label: Acepto que la conclusión pueda contradecir mi hipótesis inicial.
+        - label: Acepto que el contraste pueda corregir o contradecir mi interpretación inicial.
+          required: true
+        - label: Entiendo que admitir este aporte no significa que haya sido validado.
           required: true
         - label: Entiendo que esta auditoría pública no sustituye a policía, tribunales, reguladores ni asesoramiento profesional.
           required: true
