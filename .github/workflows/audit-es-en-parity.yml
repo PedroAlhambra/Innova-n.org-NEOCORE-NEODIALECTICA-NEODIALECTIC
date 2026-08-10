@@ -33,8 +33,39 @@ jobs:
           git add auditorias/publicas/2026-08-09_auditoria_paridad_ES_EN_manifiestos_articulos.md
           if git diff --cached --quiet; then
             echo 'Parity report unchanged.'
-            exit 0
+          else
+            git commit -m 'audit: informe de paridad ES EN en manifiestos y artículos'
+            git pull --rebase origin main
+            git push origin main
           fi
-          git commit -m 'audit: informe de paridad ES EN en manifiestos y artículos'
-          git pull --rebase origin main
-          git push origin main
+      - name: Enforce full manifesto parity
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          p = Path('auditorias/publicas/2026-08-09_auditoria_paridad_ES_EN_manifiestos_articulos.md')
+          text = p.read_text(encoding='utf-8')
+
+          flagged_block = text.split('## Casos marcados', 1)[1].split('## ', 1)[0] if '## Casos marcados' in text else ''
+          flagged_manifestos = [
+              line for line in flagged_block.splitlines()
+              if re.match(r'^\| `manifiestos/.*\.md` \|', line)
+          ]
+
+          missing_manifestos = []
+          if '## Marcadores incompletos' in text:
+              missing_block = text.split('## Marcadores incompletos', 1)[1].split('## ', 1)[0]
+              missing_manifestos = [
+                  line for line in missing_block.splitlines()
+                  if '`manifiestos/' in line
+              ]
+
+          if flagged_manifestos or missing_manifestos:
+              print('MANIFESTO_PARITY=FAIL')
+              for line in flagged_manifestos + missing_manifestos:
+                  print(line)
+              raise SystemExit('A manifesto has an absent, materially shortened or structurally incomplete ES/EN counterpart.')
+
+          print('MANIFESTO_PARITY=OK')
+          PY
