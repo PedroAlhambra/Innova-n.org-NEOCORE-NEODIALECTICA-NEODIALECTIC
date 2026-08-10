@@ -26,11 +26,14 @@ jobs:
           git fetch origin main
           git checkout main
           git merge --ff-only origin/main
-      - name: Prepatch WEB4 manifest registry
+      - name: Prepatch current network inputs
         shell: bash
         run: |
           python - <<'PY'
           from pathlib import Path
+
+          # WEB4 reader was frozen at LX. Extend its explicit registry before
+          # the 7.2 one-shot performs its own idempotent checks.
           p=Path('web4/manifiestos/index.html')
           s=p.read_text(encoding='utf-8')
           if "['LXI','Contra el Reduccionismo" not in s:
@@ -40,6 +43,19 @@ jobs:
                   raise SystemExit('WEB4 prepatch needle not found')
               s=s.replace(needle,replacement,1)
               p.write_text(s,encoding='utf-8')
+
+          # The latest-manifesto synchroniser had a historical fallback only
+          # through LIX. Register the known Open Synthesis issues for the new
+          # current nodes so it can propagate LXVIII safely.
+          p=Path('.github/scripts/sync_latest_manifesto_feature.py')
+          s=p.read_text(encoding='utf-8')
+          old="{'LVII':'77', 'LVIII':'78', 'LIX':'79'}"
+          new="{'LVII':'77', 'LVIII':'78', 'LIX':'79', 'LXVI':'110', 'LXVII':'112', 'LXVIII':'114'}"
+          if old in s:
+              s=s.replace(old,new,1)
+              p.write_text(s,encoding='utf-8')
+          elif "'LXVIII':'114'" not in s:
+              raise SystemExit('latest-manifesto issue fallback not patchable')
           PY
       - name: Apply and validate 7.2
         run: python .github/scripts/oneshot_neocore72.py
