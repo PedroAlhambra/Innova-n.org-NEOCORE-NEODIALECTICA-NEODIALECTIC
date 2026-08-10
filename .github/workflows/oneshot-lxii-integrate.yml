@@ -1,0 +1,108 @@
+name: oneshot-lxii-integrate
+
+on:
+  push:
+    paths:
+      - '.github/workflows/oneshot-lxii-integrate.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Integrar LXII en canon e índices
+        shell: python
+        run: |
+          from pathlib import Path
+          import json
+          import re
+
+          issue_url = 'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/103'
+          legacy = 'manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md'
+          canonical = 'manifiestos/canonicos/LXII_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md'
+
+          # 1) Enlazar Issue #103 desde LXII.
+          p = Path(legacy)
+          s = p.read_text(encoding='utf-8')
+          if '**Síntesis Abierta / Open Synthesis:**' not in s:
+              needle = '**Rama principal / Main branch:** XLIV · Neowar™  \n'
+              s = s.replace(needle, needle + f'**Síntesis Abierta / Open Synthesis:** [Issue #103]({issue_url})  \n')
+              p.write_text(s, encoding='utf-8')
+
+          # 2) Añadir LXII a colección y actualizar estado manual visible.
+          p = Path('manifiestos/README.md')
+          s = p.read_text(encoding='utf-8')
+          lxii_line = '- **LXII** · [Juego por la Síntesis y el Honor™ / The Game for Synthesis and Honor™](62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md)'
+          if lxii_line not in s:
+              anchor = '- **LXI** · [Contra el Reduccionismo Matemático™ y por la Custodia Experimental Multiescalar™ / Against Mathematical Reductionism™ and for Multiscale Experimental Custodianship™](61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md)'
+              s = s.replace(anchor, anchor + '\n' + lxii_line)
+
+          s = re.sub(
+              r'> \*\*LXI · Contra el Reduccionismo Matemático™ y por la Custodia Experimental Multiescalar™ / Against Mathematical Reductionism™ and for Multiscale Experimental Custodianship™\*\*\n>\n> \*\*\[Leer LXI / Read LXI\]\([^\n]+\) · \[Síntesis Abierta LXI · #101 / Open Synthesis LXI · #101\]\([^\n]+\)\*\*',
+              '> **LXII · Juego por la Síntesis y el Honor™ / The Game for Synthesis and Honor™**\n>\n> **[Leer LXII / Read LXII](62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md) · [Síntesis Abierta LXII · #103 / Open Synthesis LXII · #103](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/103)**',
+              s,
+              count=1,
+          )
+          s = s.replace('**61 manifiestos bilingües · I–LXI · 24 oleadas / 61 bilingual manifestos · I–LXI · 24 waves**', '**62 manifiestos bilingües · I–LXII · 24 oleadas / 62 bilingual manifestos · I–LXII · 24 waves**')
+          s = s.replace('**Fecha / Date:** 2026-08-09', '**Fecha / Date:** 2026-08-10', 1)
+          p.write_text(s, encoding='utf-8')
+
+          # 3) Completar registro de nombres canónicos (LXI estaba ausente en el registro leído).
+          p = Path('manifiestos/CANONICAL_FILENAMES.json')
+          data = json.loads(p.read_text(encoding='utf-8'))
+          entries = data.setdefault('entries', {})
+          entries['LXI'] = {
+              'legacy':'manifiestos/61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md',
+              'canonical':'manifiestos/canonicos/LXI_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md'
+          }
+          entries['LXII'] = {'legacy': legacy, 'canonical': canonical}
+          p.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+
+      - name: Ejecutar sincronización documental existente
+        run: |
+          python .github/scripts/sync_open_synthesis_manifestos.py
+          python .github/scripts/normalize_manifesto_indices.py
+          python .github/scripts/sync_root_navigation.py
+          python .github/scripts/sync_canonical_manifestos.py
+          python .github/scripts/audit_markdown_links_readmes.py
+
+      - name: Verificar estado LXII
+        shell: python
+        run: |
+          from pathlib import Path
+          import json
+          r = Path('manifiestos/README.md').read_text(encoding='utf-8')
+          assert '62 manifiestos bilingües' in r
+          assert 'I–LXII' in r
+          assert '62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md' in r
+          m = Path('manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md').read_text(encoding='utf-8')
+          assert 'Issue #103' in m
+          reg = json.loads(Path('manifiestos/CANONICAL_FILENAMES.json').read_text(encoding='utf-8'))
+          assert 'LXI' in reg['entries'] and 'LXII' in reg['entries']
+          assert Path('manifiestos/canonicos/LXII_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md').exists()
+
+      - name: Commit de integración
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git reset .github/workflows/oneshot-lxii-integrate.yml
+          if ! git diff --cached --quiet; then
+            git commit -m 'docs: integrar LXII en canon síntesis y red relacional'
+            git push
+          fi
+
+      - name: Retirar one-shot
+        if: always()
+        run: |
+          git pull --rebase || true
+          git rm -f .github/workflows/oneshot-lxii-integrate.yml
+          git commit -m 'ci: retirar one-shot LXII' || true
+          git push || true
