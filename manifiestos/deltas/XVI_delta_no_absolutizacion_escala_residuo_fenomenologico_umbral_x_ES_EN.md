@@ -76,7 +76,7 @@ Este delta registra una continuidad con *IDEA*: la apertura narrativa a que las 
 - [LXI · Custodia Experimental Multiescalar™](../61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md)
 - [LXII · Juego por la Síntesis y el Honor™](../62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md)
 - [Neoaxiomas™](../../neoaxiomas/README.md): NAX-03, NAX-05, NAX-06, NAX-10 y capa de integridad relacional.
-- [Ransol™ · Red del Tiempo · Árboles Invisibles Eternos™](../../obras/idea/RANSOL_RED_TIEMPO_ARBOLES_INVISIBLES_ETERNOS_ES_EN.md)
+- [Ransol™ · Red del Tiempo · Árboles Invisibles Eternos™](../../obras/idea/RANSOL_RED_DEL_TIEMPO_ARBOLES_INVISIBLES_ETERNOS_ES_EN.md)
 - [Síntesis #104](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/104)
 
 ### 7. Salvaguardas
