@@ -12,7 +12,7 @@
 - Los bloques generados de navegación y referencias cruzadas no se contabilizan como traducción.
 - `REVISAR` bloquea la publicación automática de manifiestos; `ADVERTENCIA` exige inspección editorial pero no demuestra por sí sola recorte.
 
-**Documentos bilingües examinados:** 91  
+**Documentos bilingües examinados:** 92  
 **Recortes/materialmente asimétricos para revisión:** 17  
 **Advertencias estructurales sin prueba suficiente de recorte:** 18  
 **Con marcador incompleto/ausente:** 0
@@ -132,6 +132,7 @@
 | `manifiestos/63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md` | 1120 | 1141 | 1.02 | 16 | 16 | OK |
 | `manifiestos/64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md` | 838 | 813 | 0.97 | 14 | 14 | OK |
 | `manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md` | 882 | 882 | 1.00 | 14 | 14 | OK |
+| `manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md` | 1651 | 1636 | 0.99 | 14 | 14 | OK |
 | `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | 1234 | 1268 | 1.03 | 10 | 10 | OK |
 | `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` | 357 | 355 | 0.99 | 1 | 1 | OK |
 | `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` | 3237 | 3440 | 1.06 | 29 | 30 | OK |
