@@ -26,6 +26,21 @@ jobs:
           git fetch origin main
           git checkout main
           git merge --ff-only origin/main
+      - name: Prepatch WEB4 manifest registry
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('web4/manifiestos/index.html')
+          s=p.read_text(encoding='utf-8')
+          if "['LXI','Contra el Reduccionismo" not in s:
+              needle="['LX','Relevancia Humana Necesaria™','60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md']]"
+              replacement="['LX','Relevancia Humana Necesaria™','60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md'],['LXI','Contra el Reduccionismo Matemático™ y Custodia Experimental Multiescalar™','61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md'],['LXII','Juego por la Síntesis y el Honor™','62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md'],['LXIII','Contra la Simplificación Burda del Marco™','63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md'],['LXIV','NeoCronos™','64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md'],['LXV','NeoJuego™','65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md'],['LXVI','NeoSinergia™','66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md'],['LXVII','NeoTitanes™','67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md'],['LXVIII','Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie','68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md'],['∞','Neo0™ · Puerta Abierta del Fractal','INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md']]"
+              if needle not in s:
+                  raise SystemExit('WEB4 prepatch needle not found')
+              s=s.replace(needle,replacement,1)
+              p.write_text(s,encoding='utf-8')
+          PY
       - name: Apply and validate 7.2
         run: python .github/scripts/oneshot_neocore72.py
       - name: Commit and self-clean
