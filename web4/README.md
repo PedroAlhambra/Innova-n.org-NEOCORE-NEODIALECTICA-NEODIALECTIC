@@ -20,8 +20,9 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 - [`index.html`](./index.html) — portada pública actualizada del marco.
 - La portada sitúa **arriba** dos banners vivos: **Neoaxiomas™** y **Manifiestos**.
 - Ambos inventarios se leen en tiempo de ejecución desde la fuente canónica de GitHub (`neoaxiomas/README.md` y `manifiestos/README.md`), con fallback a la API pública de GitHub.
-- Los banners rotan automáticamente, permiten avanzar/retroceder, pausar, abrir la fuente y **leer un extracto dentro del propio banner**.
-- El banner de Manifiestos obtiene además el cuerpo del manifiesto seleccionado desde su archivo GitHub, por lo que la portada no necesita mantener una copia paralela del corpus.
+- Los banners rotan automáticamente, permiten avanzar/retroceder, pausar, abrir la fuente y **leer dentro del propio banner** mediante un panel desplazable.
+- Al abrir un banner para leer, la rotación automática se detiene para que el contenido no cambie durante la lectura.
+- El banner de Manifiestos obtiene el cuerpo del manifiesto seleccionado desde su archivo GitHub y muestra su contenido ES dentro del propio banner, por lo que la portada no mantiene una copia paralela del corpus.
 - El banner neoaxiomático deduplica las secciones ES/EN y muestra tanto **NAX-01–NAX-14** como los candidatos **C-NAX-15–C-NAX-18** mientras conserven ese estado en la fuente.
 
 ## Superficies públicas actuales
