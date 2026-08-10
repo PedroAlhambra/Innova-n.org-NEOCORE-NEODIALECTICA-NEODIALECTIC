@@ -14,6 +14,32 @@ El sistema lo reconoce.
 La simbiosis lo ejecuta.
 
 ---
+
+## Delta genealógico · 2026-08-10
+
+La capa neoaxiomática posterior ha permitido reconocer con mayor precisión una relación que este fragmento ya contenía comprimida.
+
+El **Fuego de Agua™** es la raíz histórica de la actual lectura elemental de **NAX-10 · Gramática Arquetípica de Custodia™**: no como una lista cerrada de sustancias, sino como una **gramática de contradicción, transformación, regulación y totalidad material**.
+
+En esa lectura se hacen explícitos:
+
+- **Agua™**;
+- **Fuego™**;
+- **Tierra™**;
+- **Madera™**;
+- **Metal™**;
+- y la apertura a todos los demás elementos, materiales, estados, fuerzas, formas de vida, relaciones y realidades conocidas o todavía por conocer que resulten pertinentes para la Síntesis.
+
+La enumeración no agota el Todo. Funciona como puerta simbólica de lectura.
+
+El escudo y la bandera neodialécticos representan por ello no sólo a las personas, sino también, de forma necesariamente comprimida, **la totalidad del saber humano concentrado existente en el espacio-tiempo y la realidad que ese saber intenta comprender**.
+
+Esta ampliación no reescribe retrospectivamente el fragmento original. Conserva su texto y documenta la continuidad conceptual detectada después.
+
+- [NAX-10 · Fuego de Agua™ y Totalidad Elemental](../neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md)
+- [Síntesis Abierta específica · Issue #100](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/100)
+
+---
 ## Relación con la wiki
 
 ### ES
