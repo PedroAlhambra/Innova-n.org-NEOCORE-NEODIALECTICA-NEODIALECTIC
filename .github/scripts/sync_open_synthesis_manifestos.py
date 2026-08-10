@@ -17,7 +17,6 @@ for p in (index, protocol, synth_index, audits, leonidas, entry_register, follow
     if not p.exists():
         raise SystemExit(f'Missing canonical target: {p.relative_to(root)}')
 
-# Canonical order is the explicit order in manifiestos/README.md.
 idx = index.read_text(encoding='utf-8')
 links=[]
 seen=set()
@@ -32,8 +31,6 @@ if not links:
 
 count=len(links)
 roman,title,LATEST=links[-1]
-# Waves are documentary groupings, not the source of manifesto count.
-# Current public grouping: LVII-LIX forms wave 24.
 waves=24 if count >= 59 else 23 if count >= 56 else max(1,count)
 
 latest_text=LATEST.read_text(encoding='utf-8')
@@ -130,6 +127,13 @@ def nav_block(i,f):
 
 {NAV_END}'''
 
+def current_latest_quote(f):
+    return f'''> ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
+>
+> **{roman} · {title}**
+>
+> **[Leer {roman} / Read {roman}]({rel(f,LATEST)}) · [Síntesis Abierta {roman} · #{issue_num} / Open Synthesis {roman} · #{issue_num}]({issue_url})**'''
+
 readmes=sorted(set(root.rglob('README.md'))|set(root.rglob('README_*.md'))|{root/'LEEME.md'})
 readmes=[p for p in readmes if p.exists() and '.git' not in p.parts]
 changed=[]
@@ -142,21 +146,19 @@ for f in readmes:
     if INVITE_START in s and INVITE_END in s:
         s=replace_block(s,INVITE_START,INVITE_END,invite_block(f))
 
-    # Keep the root entry map compact but make the traceable doorway explicit.
     if f.resolve()==(root/'README.md').resolve():
-        s=re.sub(
-            r'^\| \*\*Síntesis Abierta™\*\* \|.*$',
-            '| **Síntesis Abierta™** | [Índice operativo](./propuestas/sintesis-abierta/README.md) · [Cómo aportar](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Registrar entrada](./propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Seguir marco](./proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) |',
-            s,flags=re.M)
-        s=re.sub(
-            r'^\| \*\*Open Synthesis™\*\* \|.*$',
-            '| **Open Synthesis™** | [Operational index](./propuestas/sintesis-abierta/README.md) · [How to contribute](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Register entry](./propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Follow framework](./proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) |',
-            s,flags=re.M)
+        s=re.sub(r'^\| \*\*Síntesis Abierta™\*\* \|.*$','| **Síntesis Abierta™** | [Índice operativo](./propuestas/sintesis-abierta/README.md) · [Cómo aportar](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Registrar entrada](./propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Seguir marco](./proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) |',s,flags=re.M)
+        s=re.sub(r'^\| \*\*Open Synthesis™\*\* \|.*$','| **Open Synthesis™** | [Operational index](./propuestas/sintesis-abierta/README.md) · [How to contribute](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Register entry](./propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Follow framework](./proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) |',s,flags=re.M)
+        root_latest=f'''## 🔴 Actualidad / Latest
 
-    # Open Synthesis now has four public routes; entry registration is the first doorway.
+### {roman} · {title}
+
+**[Leer {roman} / Read {roman}](./{rel(root/'README.md',LATEST)})** · **[Síntesis Abierta #{issue_num} / Open Synthesis #{issue_num}]({issue_url})**
+'''
+        s=re.sub(r'## 🔴 Actualidad / Latest\n.*?(?=\n### Umbral-X™)',root_latest+'\n',s,count=1,flags=re.S)
+
     if f.resolve()==synth_index.resolve():
-        s=re.sub(r'## (?:Tres|Cuatro) puertas públicas de participación / (?:Three|Four) public participation routes',
-                 '## Cuatro puertas públicas de participación / Four public participation routes',s)
+        s=re.sub(r'## (?:Tres|Cuatro) puertas públicas de participación / (?:Three|Four) public participation routes','## Cuatro puertas públicas de participación / Four public participation routes',s)
         s=re.sub(r'### \d+\. Contrastar un manifiesto / Challenge a manifesto','### 2. Contrastar un manifiesto / Challenge a manifesto',s)
         s=re.sub(r'### \d+\. Traer un problema o Auditoría Pública / Bring a problem or Public Audit','### 3. Traer un problema o Auditoría Pública / Bring a problem or Public Audit',s)
         s=re.sub(r'### \d+\. Crear ficción abierta / Create open fiction','### 4. Crear ficción abierta / Create open fiction',s)
@@ -166,21 +168,27 @@ for f in readmes:
         else:
             heading='## Cuatro puertas públicas de participación / Four public participation routes'
             s=s.replace(heading,heading+'\n\n'+block,1)
+        s=re.sub(r'\*\*Cobertura en este commit / Coverage at this commit:\*\* \*\*\d+ manifiestos · I–[IVXLCDM]+ / \d+ manifestos · I–[IVXLCDM]+\*\*',f'**Cobertura en este commit / Coverage at this commit:** **{count} manifiestos · I–{roman} / {count} manifestos · I–{roman}**',s)
+        s=re.sub(r'> ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS\n>.*?(?=\n> El número de manifiestos)',current_latest_quote(f)+'\n',s,count=1,flags=re.S)
 
-    # Remove stale hard-coded corpus references left outside managed blocks.
+    if f.resolve()==index.resolve():
+        s=re.sub(r'> ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS\n>.*?(?=\n\*\*Estado en este commit)',current_latest_quote(f)+'\n',s,count=1,flags=re.S)
+        s=re.sub(r'\*\*Estado en este commit / State at this commit:\*\* \*\*\d+ manifiestos bilingües · I–[IVXLCDM]+ · \d+ oleadas / \d+ bilingual manifestos · I–[IVXLCDM]+ · \d+ waves\*\*',f'**Estado en este commit / State at this commit:** **{count} manifiestos bilingües · I–{roman} · {waves} oleadas / {count} bilingual manifestos · I–{roman} · {waves} waves**',s)
+
     s=re.sub(r'Índice navegable de manifiestos I–[IVXLCDM]+',f'Índice navegable de manifiestos I–{roman}',s)
     s=re.sub(r'Navigable manifesto index I–[IVXLCDM]+',f'Navigable manifesto index I–{roman}',s)
     s=re.sub(r'I–[IVXLCDM]+ · \d+ manifiestos bilingües · \d+ oleadas',f'I–{roman} · {count} manifiestos bilingües · {waves} oleadas',s)
     s=re.sub(r'\d+ bilingual manifestos · I–[IVXLCDM]+ · \d+ waves',f'{count} bilingual manifestos · I–{roman} · {waves} waves',s)
     s=re.sub(r'I–[IVXLCDM]+ · \d+ manifiestos bilingües',f'I–{roman} · {count} manifiestos bilingües',s)
     s=re.sub(r'I–[IVXLCDM]+ · \d+ bilingual manifestos',f'I–{roman} · {count} bilingual manifestos',s)
+    s=re.sub(r'\d+ manifiestos · I–[IVXLCDM]+',f'{count} manifiestos · I–{roman}',s)
+    s=re.sub(r'\d+ manifestos · I–[IVXLCDM]+',f'{count} manifestos · I–{roman}',s)
     s=re.sub(r'\d+ manifiestos I–[IVXLCDM]+',f'{count} manifiestos I–{roman}',s)
     s=re.sub(r'\d+ manifestos I–[IVXLCDM]+',f'{count} manifestos I–{roman}',s)
 
     if s!=old:
         f.write_text(s,encoding='utf-8'); changed.append(f)
 
-# Keep manifesto navigation and participation blocks dynamic.
 for i,(_,_,f) in enumerate(links):
     s=f.read_text(encoding='utf-8'); old=s
     if NAV_START in s and NAV_END in s:
@@ -190,7 +198,6 @@ for i,(_,_,f) in enumerate(links):
     if s!=old:
         f.write_text(s,encoding='utf-8'); changed.append(f)
 
-# Validate canonical entry points without assuming the corpus is final.
 fail=[]
 for p in (root/'README.md', index, synth_index):
     s=p.read_text(encoding='utf-8')
