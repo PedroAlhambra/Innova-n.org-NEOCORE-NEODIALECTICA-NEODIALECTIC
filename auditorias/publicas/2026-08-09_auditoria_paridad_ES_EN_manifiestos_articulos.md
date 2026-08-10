@@ -13,14 +13,13 @@
 - Es un detector: cada caso marcado requiere lectura humana antes de corregir.
 
 **Documentos bilingües examinados:** 91  
-**Marcados para revisión:** 3  
+**Marcados para revisión:** 2  
 **Con marcador incompleto/ausente:** 0
 
 ## Casos marcados
 
 | Archivo | Palabras ES | Palabras EN | Ratio EN/ES | H ES | H EN | Motivo |
 |---|---:|---:|---:|---:|---:|---|
-| `manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md` | 882 | 232 | 0.26 | 14 | 10 | EN/ES palabras=0.26 |
 | `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | 1211 | 453 | 0.37 | 10 | 8 | EN/ES palabras=0.37 |
 | `analisis/publicos/2026-08-09_maxproc_registro_entrada_trazabilidad_derivacion_herosion_ES_EN.md` | 754 | 444 | 0.59 | 12 | 12 | EN/ES palabras=0.59 |
 
@@ -93,7 +92,7 @@
 | `manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md` | 1125 | 900 | 0.80 | 14 | 14 | OK |
 | `manifiestos/63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md` | 1120 | 1141 | 1.02 | 16 | 16 | OK |
 | `manifiestos/64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md` | 838 | 813 | 0.97 | 14 | 14 | OK |
-| `manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md` | 882 | 232 | 0.26 | 14 | 10 | REVISAR |
+| `manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md` | 882 | 882 | 1.00 | 14 | 14 | OK |
 | `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | 1211 | 453 | 0.37 | 10 | 8 | REVISAR |
 | `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` | 357 | 355 | 0.99 | 1 | 1 | OK |
 | `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` | 3237 | 3440 | 1.06 | 29 | 30 | OK |
