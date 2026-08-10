@@ -272,7 +272,7 @@ Contributions are requested on metrics of civilisational intelligence, education
 ## Navegación canónica / Canonical navigation
 
 ← **LVII** · [Madre, Refugio y Retorno Consciente™ / Mother, Refuge and Conscious Return™](LVII_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md)  
-· [Índice I–LX / I–LX index](../README.md) ·  
+· [Índice I–LXI / I–LXI index](../README.md) ·  
 **LIX** · [Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana / Distributed Cognitive Custodianship™ · AI, Repair and Human Responsibility](LIX_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->

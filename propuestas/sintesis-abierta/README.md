@@ -2,7 +2,7 @@
 ## Neodialectical Open Synthesis™
 
 **Estado / Status:** **Síntesis iniciada / Synthesis Initiated · 2026-08-09**  
-**Cobertura en este commit / Coverage at this commit:** **60 manifiestos · I–LX / 60 manifestos · I–LX**
+**Cobertura en este commit / Coverage at this commit:** **61 manifiestos · I–LXI / 61 manifestos · I–LXI**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -54,10 +54,9 @@ Cada Neoaxioma dispone de un espacio de contraste propio además de la matriz ge
 <!-- NEOAXIOM_SYNTHESIS_INDEX_END -->
 > ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LX · Relevancia Humana Necesaria™ · Inteligencia Distribuida, Aporte y Anti-Captura Social / Necessary Human Relevance™ · Distributed Intelligence, Contribution and Anti-Capture**
+> **LXI · Contra el Reduccionismo Matemático™ y por la Custodia Experimental Multiescalar™ / Against Mathematical Reductionism™ and for Multiscale Experimental Custodianship™**
 >
-> **[Leer LX / Read LX](../../manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md) · [Síntesis Abierta LX · #99 / Open Synthesis LX · #99](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/99)**  
-> [Cómo aportar / How to contribute](APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™](LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas / Public audits](../../auditorias/publicas/README.md) · [Índice de manifiestos / Manifesto index](../../manifiestos/README.md)
+> **[Leer LXI / Read LXI](../../manifiestos/61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md) · [Síntesis Abierta LXI · #101 / Open Synthesis LXI · #101](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/101)**
 
 > El número de manifiestos no constituye un cierre de canon: registra el estado del corpus en este commit. / The manifesto count is not a closed canon: it records the corpus state at this commit.
 
@@ -97,7 +96,7 @@ COMMIT = FIJACIÓN Y DELTA CANÓNICO / CANONICAL FIXATION AND DELTA
 
 # ES · Castellano
 
-## Índice canónico · I–LX
+## Índice canónico · I–LXI
 
 | Nº | Manifiesto | Síntesis Abierta |
 |---:|---|---|
@@ -190,7 +189,7 @@ La popularidad no equivale a prueba. La admisión de una auditoría no valida un
 
 # EN · English
 
-Open Synthesis currently covers **60 bilingual manifestos I–LX**, Public Audits and the first open-fiction branch. This is a live state under **Synthesis Initiated**, not a final corpus count.
+Open Synthesis currently covers **61 bilingual manifestos I–LXI**, Public Audits and the first open-fiction branch. This is a live state under **Synthesis Initiated**, not a final corpus count.
 
 There are three primary contribution routes: challenge an existing manifesto; bring evidence or a new Public Audit through Leónidas™; or contribute to open fiction through **UMBRAL-X · AI Apocalypse™ · Issue #73**.
 

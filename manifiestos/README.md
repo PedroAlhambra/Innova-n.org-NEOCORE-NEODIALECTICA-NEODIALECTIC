@@ -28,12 +28,11 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 > ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LX · Relevancia Humana Necesaria™ · Inteligencia Distribuida, Aporte y Anti-Captura Social**  
-> **LX · Necessary Human Relevance™ · Distributed Intelligence, Contribution and Anti-Capture**
+> **LXI · Contra el Reduccionismo Matemático™ y por la Custodia Experimental Multiescalar™ / Against Mathematical Reductionism™ and for Multiscale Experimental Custodianship™**
 >
-> **[Leer LX / Read LX](60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md) · [Síntesis Abierta LX · #99 / Open Synthesis LX · #99](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/99)**
+> **[Leer LXI / Read LXI](61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md) · [Síntesis Abierta LXI · #101 / Open Synthesis LXI · #101](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/101)**
 
-**Estado en este commit / State at this commit:** **60 manifiestos bilingües · I–LX · 24 oleadas / 60 bilingual manifestos · I–LX · 24 waves**  
+**Estado en este commit / State at this commit:** **61 manifiestos bilingües · I–LXI · 24 oleadas / 61 bilingual manifestos · I–LXI · 24 waves**  
 **Fecha / Date:** 2026-08-09
 
 ## Dos puertas principales / Two main doors
