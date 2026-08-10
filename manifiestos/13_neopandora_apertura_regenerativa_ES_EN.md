@@ -769,3 +769,35 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 **XIV** · [Contra la Alienación Humana™ / Against Human Alienation™](14_contra_alienacion_humana_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
+
+<!-- NEO_CROSS_REFERENCES_START -->
+
+## Referencias cruzadas canónicas / Canonical cross-references
+
+> **Norma / Rule:** las menciones cruzadas pueden permanecer en el cuerpo como texto para no sobrecargar la lectura; este bloque concentra los hipervínculos canónicos detectados y permite retorno explícito a fuente. / Cross-references may remain as prose in the body to avoid visual overload; this block concentrates detected canonical hyperlinks and preserves explicit return to source.
+
+- **II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™ / Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md)
+- **III** · [Manifiesto del Derecho Humano de Aporte a la Síntesis Abierta™ / Manifesto of the Human Right to Contribute to Open Synthesis™](./03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
+- **IV** · [Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good / Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good](./02_neodialectica_bien_comun_ES_EN.md)
+- **V** · [Manifiesto de la Simbiosis Humano–IA / Manifesto of Human–AI Symbiosis / Manifiesto de la Simbiosis Humano–IA / Manifesto of Human–AI Symbiosis](./03_simbiosis_humano_ia_ES_EN.md)
+- **VII** · [Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy / Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy](./04_economia_del_aporte_ES_EN.md)
+- **IX** · [Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability / Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability](./06_memoria_genealogia_trazabilidad_ES_EN.md)
+- **X** · [Manifiesto de WEB4™ · SistemaTrazable™ / Manifesto of WEB4™ · SistemaTrazable™ / Manifiesto de WEB4™ · SistemaTrazable™ / Manifesto of WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md)
+- **XII** · [Los sin ego / The Egoless / Los sin ego / The Egoless](./12_los_sin_ego_ES_EN.md)
+- **XIV** · [Manifiesto contra la Alienación Humana™ / Manifesto Against Human Alienation™](./14_contra_alienacion_humana_ES_EN.md)
+- **XVII** · [Manifiesto del Respeto a Todos los Seres Vivos™ / Manifesto of Respect for All Living Beings™](./17_respeto_todos_seres_vivos_ES_EN.md)
+- **XXVII** · [Manifiesto del Valor de los Alimentos y la Vida™ / Manifesto of the Value of Food and Life™](./27_valor_alimentos_vida_ES_EN.md)
+- **XXIX** · [Manifiesto contra la Idolatría del Dinero™ / Manifesto against the Idolatry of Money™](./29_idolatria_del_dinero_ES_EN.md)
+- **XXXVIII** · [Manifiesto de Protección Integral de la Infancia™ / Manifesto for the Integral Protection of Childhood™](./38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+- **XLIV** · [Neowar™ · Contra la Adicción a la Guerra y por la Justicia del Bien Común / Neowar™ · Against War Addiction and for Common-Good Justice](./44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md)
+- **XLV** · [Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder / Neodialectical Multidimensionality™ · Against the One-Dimensional Reduction of the Human and Power](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
+- **XLVIII** · [La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo / The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
+- **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
+- **LXV** · [NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™ · Tokenised Game for the Common Good and Honor of Contribution](./65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
+
+### Capas y fuentes relacionadas / Related layers and sources
+
+- [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
+- [NEOCore™ · marco / framework](../README.md)
+
+<!-- NEO_CROSS_REFERENCES_END -->

@@ -844,3 +844,30 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 **LV** · [Ataque de las Micromáquinas™ / Attack of the Micromachines™](55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
+
+<!-- NEO_CROSS_REFERENCES_START -->
+
+## Referencias cruzadas canónicas / Canonical cross-references
+
+> **Norma / Rule:** las menciones cruzadas pueden permanecer en el cuerpo como texto para no sobrecargar la lectura; este bloque concentra los hipervínculos canónicos detectados y permite retorno explícito a fuente. / Cross-references may remain as prose in the body to avoid visual overload; this block concentrates detected canonical hyperlinks and preserves explicit return to source.
+
+- **IV** · [Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good / Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good](./02_neodialectica_bien_comun_ES_EN.md)
+- **VII** · [Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy / Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy](./04_economia_del_aporte_ES_EN.md)
+- **XVII** · [Manifiesto del Respeto a Todos los Seres Vivos™ / Manifesto of Respect for All Living Beings™](./17_respeto_todos_seres_vivos_ES_EN.md)
+- **XXV** · [Manifiesto del Pulido de la Piedra™ / Manifesto of the Polishing of the Stone™](./25_pulido_de_la_piedra_ES_EN.md)
+- **XXVII** · [Manifiesto del Valor de los Alimentos y la Vida™ / Manifesto of the Value of Food and Life™](./27_valor_alimentos_vida_ES_EN.md)
+- **XXIX** · [Manifiesto contra la Idolatría del Dinero™ / Manifesto against the Idolatry of Money™](./29_idolatria_del_dinero_ES_EN.md)
+- **XXX** · [Manifiesto de la Coherencia entre Fines y Medios™ / Manifesto of Coherence between Ends and Means™](./30_coherencia_fines_medios_ES_EN.md)
+- **XXXI** · [Manifiesto contra el Neuromarketing Antihumanista™ / Manifesto against Anti-Humanist Neuromarketing™](./31_contra_neuromarketing_antihumanista_ES_EN.md)
+- **XLII** · [Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva / End of the Manipulated Human Era™ · AI, Awakening and Cognitive Sovereignty](./42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
+- **XLVIII** · [La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo / The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
+- **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
+- **LV** · [Manifiesto del Ataque de las Micromáquinas™ · Las Plagas de la Escala Invisible / Manifesto of the Attack of the Micromachines™ · The Plagues of the Invisible Scale](./55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md)
+- **LXV** · [NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™ · Tokenised Game for the Common Good and Honor of Contribution](./65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
+
+### Capas y fuentes relacionadas / Related layers and sources
+
+- [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
+- [NEOCore™ · marco / framework](../README.md)
+
+<!-- NEO_CROSS_REFERENCES_END -->

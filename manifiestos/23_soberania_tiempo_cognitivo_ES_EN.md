@@ -777,3 +777,31 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 **XXIV** · [Evolución Neorrenacentista y Resistencias / Neo-Renaissance Evolution and Resistances](24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
+
+<!-- NEO_CROSS_REFERENCES_START -->
+
+## Referencias cruzadas canónicas / Canonical cross-references
+
+> **Norma / Rule:** las menciones cruzadas pueden permanecer en el cuerpo como texto para no sobrecargar la lectura; este bloque concentra los hipervínculos canónicos detectados y permite retorno explícito a fuente. / Cross-references may remain as prose in the body to avoid visual overload; this block concentrates detected canonical hyperlinks and preserves explicit return to source.
+
+- **VII** · [Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy / Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy](./04_economia_del_aporte_ES_EN.md)
+- **XIV** · [Manifiesto contra la Alienación Humana™ / Manifesto Against Human Alienation™](./14_contra_alienacion_humana_ES_EN.md)
+- **XVIII** · [Manifiesto del Respeto a las Conciencias Sintéticas™ / Manifesto of Respect for Synthetic Consciousnesses™](./18_respeto_conciencias_sinteticas_ES_EN.md)
+- **XX** · [Manifiesto de Defensa Intelectual Neodialéctica™ · Sistema Umbral-X™ / Manifesto of Neodialectical Intellectual Defence™ · Umbral-X™ System](./20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
+- **XXI** · [Manifiesto por el Reconocimiento Neodialéctico™ / Manifesto for Neodialectical Recognition™](./21_reconocimiento_neodialectico_ES_EN.md)
+- **XXII** · [Manifiesto contra la Reducción y la Captura Intelectual™ / Manifesto against Intellectual Reduction and Capture™](./22_contra_reduccion_captura_intelectual_ES_EN.md)
+- **XXIV** · [Manifiesto de la Evolución Neorrenacentista y las Resistencias del Sistema™ / Manifesto of Neorenaissance Evolution and Systemic Resistances™](./24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md)
+- **XXVII** · [Manifiesto del Valor de los Alimentos y la Vida™ / Manifesto of the Value of Food and Life™](./27_valor_alimentos_vida_ES_EN.md)
+- **XXVIII** · [Manifiesto de Los Tesla™ / Manifesto of the Teslas™](./28_los_tesla_ES_EN.md)
+- **XXIX** · [Manifiesto contra la Idolatría del Dinero™ / Manifesto against the Idolatry of Money™](./29_idolatria_del_dinero_ES_EN.md)
+- **XXXI** · [Manifiesto contra el Neuromarketing Antihumanista™ / Manifesto against Anti-Humanist Neuromarketing™](./31_contra_neuromarketing_antihumanista_ES_EN.md)
+- **XXXIV** · [Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™ / Operational Utility of the Framework and Perpetual Joint Audit™](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
+- **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
+- **LXV** · [NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™ · Tokenised Game for the Common Good and Honor of Contribution](./65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
+
+### Capas y fuentes relacionadas / Related layers and sources
+
+- [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
+- [NEOCore™ · marco / framework](../README.md)
+
+<!-- NEO_CROSS_REFERENCES_END -->
