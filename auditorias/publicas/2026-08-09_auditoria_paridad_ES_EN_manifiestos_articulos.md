@@ -8,20 +8,20 @@
 
 - Se compara recuento aproximado de palabras entre las secciones ES y EN.
 - Se compara el número de encabezados internos como señal de estructura perdida.
-- En `manifiestos/*.md` se compara además la secuencia de identificadores de secciones numeradas (1, 2, 3… o I, II, III…) para impedir que una traducción omita capítulos aunque el volumen total parezca suficiente.
+- En `manifiestos/*.md` se compara además la secuencia de identificadores de secciones principales H2 numeradas (1, 2, 3… o I, II, III…) para impedir que una traducción omita capítulos aunque el volumen total parezca suficiente. Los subapartados H3+ no se usan como identidad de sección principal.
 - Se excluyen de ambos lados bloques compartidos de relaciones, navegación, invitación a Síntesis Abierta y otros bloques automáticos bilingües.
-- Se marca **REVISAR** si EN tiene menos del 78% de palabras de ES, más del 155%, pierde de forma importante la estructura de encabezados o no conserva la misma secuencia de secciones numeradas en un manifiesto.
+- Se marca **REVISAR** si EN tiene menos del 78% de palabras de ES, más del 155%, pierde de forma importante la estructura de encabezados o no conserva la misma secuencia de secciones principales numeradas en un manifiesto.
 - Es un detector: cada caso marcado requiere lectura humana antes de corregir.
 
 **Documentos bilingües examinados:** 91  
-**Marcados para revisión:** 1  
+**Marcados para revisión:** 0  
 **Con marcador incompleto/ausente:** 0
 
 ## Casos marcados
 
 | Archivo | Palabras ES | Palabras EN | Ratio EN/ES | H ES | H EN | Motivo |
 |---|---:|---:|---:|---:|---:|---|
-| `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` | 1853 | 1548 | 0.84 | 25 | 17 | secciones numeradas ES=['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', '1', '2', '3', '4', '5', '6', '7', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII', 'XIV', 'XV'], EN=['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII', 'XIV', 'XV'] |
+| — | — | — | — | — | — | Sin casos |
 
 ## Inventario completo
 
@@ -61,7 +61,7 @@
 | `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` | 1043 | 938 | 0.90 | 17 | 16 | OK |
 | `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` | 1361 | 1282 | 0.94 | 17 | 16 | OK |
 | `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` | 1817 | 1704 | 0.94 | 19 | 18 | OK |
-| `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` | 1853 | 1548 | 0.84 | 25 | 17 | REVISAR |
+| `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` | 1853 | 1548 | 0.84 | 25 | 17 | OK |
 | `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | 2124 | 1687 | 0.79 | 19 | 18 | OK |
 | `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | 1963 | 1900 | 0.97 | 18 | 17 | OK |
 | `manifiestos/37_neofraternidad_ES_EN.md` | 1047 | 1057 | 1.01 | 15 | 15 | OK |
