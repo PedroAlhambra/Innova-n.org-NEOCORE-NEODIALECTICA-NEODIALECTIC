@@ -40,7 +40,6 @@ def display_title(es, en):
     a=es.strip(); b=en.strip()
     if not b or a.casefold() == b.casefold():
         return a
-    # Algunos manifiestos históricos ya contienen ES / EN en un único H1.
     if b.casefold() in a.casefold() or a.casefold() in b.casefold():
         return a if len(a) >= len(b) else b
     return f'{a} / {b}'
@@ -88,6 +87,10 @@ ALIASES = {
     'Juego por la Síntesis y el Honor': 'LXII', 'Game for Synthesis and Honor': 'LXII',
     'Simplificación Burda': 'LXIII', 'Crude Simplification': 'LXIII',
     'NeoCronos': 'LXIV', 'NeoJuego': 'LXV', 'NeoGame': 'LXV',
+    'NeoSinergia': 'LXVI', 'NeoSynergy': 'LXVI',
+    'MÉDICI': 'LXVI', 'MEDICI': 'LXVI',
+    'NeoGalaxia': 'LXVI', 'NeoGalaxy': 'LXVI',
+    'pensamiento de Andrómeda': 'LXVI', 'thought from Andromeda': 'LXVI',
 }
 
 SPECIAL_DOCS = [
