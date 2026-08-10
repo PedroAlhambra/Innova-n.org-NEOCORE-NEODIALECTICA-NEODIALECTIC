@@ -1,6 +1,12 @@
 from pathlib import Path
 import re
 
+# NEOCORE72_SECOND_PASS_HOOK_START
+_hook = Path('.github/scripts/parity_secondpass_72.py')
+if _hook.exists():
+    exec(compile(_hook.read_text(encoding='utf-8'), str(_hook), 'exec'))
+# NEOCORE72_SECOND_PASS_HOOK_END
+
 # Auditoría reforzada de paridad editorial ES/EN · 2026-08-10
 ROOT = Path('.')
 TARGETS = [ROOT / 'manifiestos', ROOT / 'analisis' / 'publicos']
@@ -114,7 +120,6 @@ def section_diagnostics(es_body, en_body):
         list_asym = max(ai,bi) >= 4 and min(ai,bi) < max(1, int(max(ai,bi)*0.50))
         if list_asym:
             msg=f'sección {sid} listas ES={ai}, EN={bi}'
-            # Si además hay compresión notable, la asimetría es indicio material; si no, sólo formato.
             if aw >= 70 and (ratio < 0.75 or ratio > 1.55):
                 material.append(msg)
             else:
