@@ -44,18 +44,23 @@ jobs:
               s=s.replace(needle,replacement,1)
               p.write_text(s,encoding='utf-8')
 
-          # The latest-manifesto synchroniser had a historical fallback only
-          # through LIX. Register the known Open Synthesis issues for the new
-          # current nodes so it can propagate LXVIII safely.
-          p=Path('.github/scripts/sync_latest_manifesto_feature.py')
-          s=p.read_text(encoding='utf-8')
-          old="{'LVII':'77', 'LVIII':'78', 'LIX':'79'}"
-          new="{'LVII':'77', 'LVIII':'78', 'LIX':'79', 'LXVI':'110', 'LXVII':'112', 'LXVIII':'114'}"
-          if old in s:
-              s=s.replace(old,new,1)
-              p.write_text(s,encoding='utf-8')
-          elif "'LXVIII':'114'" not in s:
-              raise SystemExit('latest-manifesto issue fallback not patchable')
+          # Both living synthesis synchronisers had a historical fallback only
+          # through LIX. Register the known issues for current finite nodes.
+          old_latest="{'LVII':'77', 'LVIII':'78', 'LIX':'79'}"
+          new_latest="{'LVII':'77', 'LVIII':'78', 'LIX':'79', 'LXVI':'110', 'LXVII':'112', 'LXVIII':'114'}"
+          old_open="{'LVII':'77','LVIII':'78','LIX':'79'}"
+          new_open="{'LVII':'77','LVIII':'78','LIX':'79','LXVI':'110','LXVII':'112','LXVIII':'114'}"
+          for name,old,new in [
+              ('.github/scripts/sync_latest_manifesto_feature.py',old_latest,new_latest),
+              ('.github/scripts/sync_open_synthesis_manifestos.py',old_open,new_open),
+          ]:
+              p=Path(name)
+              s=p.read_text(encoding='utf-8')
+              if old in s:
+                  s=s.replace(old,new,1)
+                  p.write_text(s,encoding='utf-8')
+              elif "'LXVIII':'114'" not in s:
+                  raise SystemExit(f'issue fallback not patchable: {name}')
           PY
       - name: Apply and validate 7.2
         run: python .github/scripts/oneshot_neocore72.py
