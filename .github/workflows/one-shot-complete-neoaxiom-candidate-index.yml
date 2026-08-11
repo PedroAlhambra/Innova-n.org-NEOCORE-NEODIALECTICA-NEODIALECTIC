@@ -1,0 +1,45 @@
+name: one-shot complete neoaxiom candidate index
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/one-shot-complete-neoaxiom-candidate-index.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  complete:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Complete candidate index
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md')
+          s=p.read_text(encoding='utf-8')
+          s=s.replace('**72 manifiestos finitos I–LXXII + Manifiesto ∞ · 14 Neoaxiomas™ · síntesis transversales, auditorías y proyectos de sistema**', '**72 manifiestos finitos I–LXXII + Manifiesto ∞ · 14 Neoaxiomas™ canónicos + 5 candidatos C-NAX-15–C-NAX-19 · síntesis transversales, auditorías y proyectos de sistema**')
+          marker='| **C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ · candidato** | [#123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123) |'
+          rows='''| **C-NAX-15 · Soberanía Intelectual de la Especie™ · candidato** | [matriz #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) · [LXVIII #114](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/114) |
+| **C-NAX-16 · No Coronación de la Parte™ · candidato** | [matriz #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) · [∞ #106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106) |
+| **C-NAX-17 · Reconstrucción Sistémica™ · candidato** | [matriz #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) · [LXVII #112](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/112) |
+| **C-NAX-18 · Motor del Bien Común + NeoSinergia™ · candidato** | [matriz #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) · [LXVI #110](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/110) · [LXVII #112](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/112) |
+'''
+          if 'C-NAX-15 · Soberanía Intelectual de la Especie™ · candidato' not in s:
+              if marker not in s: raise SystemExit('C-NAX-19 marker missing')
+              s=s.replace(marker,rows+marker)
+          p.write_text(s,encoding='utf-8')
+          assert all(f'C-NAX-{n}' in s for n in range(15,20))
+          print('CANDIDATE_INDEX_15_19=OK')
+          PY
+      - name: Commit and self-remove
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git rm .github/workflows/one-shot-complete-neoaxiom-candidate-index.yml
+          git add -A
+          git commit -m 'docs: completar índice C-NAX-15 a C-NAX-19'
+          git push
