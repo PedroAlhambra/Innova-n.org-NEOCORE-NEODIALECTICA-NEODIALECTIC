@@ -92,7 +92,6 @@ La comprensión global fiel del marco completo es una tarea distinta: por su den
 | LXX | [El Fauno™](../../manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md) | [#120](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/120) |
 | LXXI | [Libertad Sexual, Hipersexualización Industrial y Separación de Planos™](../../manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md) | [#121](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/121) |
 | LXXII | [El Hombre Custodio™](../../manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) | [#122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122) |
-| LXVI | [NeoSinergia™ · Neowar™ Activa, Sistema MÉDICI™ y Leónidas–Cancerbero™](../../manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md) | [#110](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/110) |
 | ∞ | [Neo0™ · Puerta Abierta del Fractal](../../manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) | [#106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106) |
 
 **Regla ∞:** el manifiesto ∞ no cuenta como número finito; permanece siempre después del último manifiesto numerado y conserva abierta la continuidad del fractal.

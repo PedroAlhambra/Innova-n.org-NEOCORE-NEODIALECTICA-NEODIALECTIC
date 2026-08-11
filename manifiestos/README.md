@@ -144,7 +144,6 @@ Cada manifiesto dispone de un espacio público de contraste. / Each manifesto ha
 - **LXX** · [El Fauno™ · Masculinidad Fragmentada, Depredación Relacional y Retorno al Hombre / The Faun™](70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md) · [SAN #120](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/120)
 - **LXXI** · [Libertad Sexual, Hipersexualización Industrial y Separación de Planos™ / Sexual Freedom, Industrial Hypersexualisation and Separation of Planes™](71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md) · [SAN #121](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/121)
 - **LXXII** · [El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™](72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) · [SAN #122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122)
-- **LXVI** · [NeoSinergia™ · Neowar™ Activa, Sistema MÉDICI™ y Leónidas–Cancerbero™ / NeoSynergy™](66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
 - **∞** · [Neo0™ · Puerta Abierta del Fractal / Open Door of the Fractal](INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
 
 > Ningún manifiesto equivale por sí solo al marco completo. / No single manifesto equals the complete framework.
