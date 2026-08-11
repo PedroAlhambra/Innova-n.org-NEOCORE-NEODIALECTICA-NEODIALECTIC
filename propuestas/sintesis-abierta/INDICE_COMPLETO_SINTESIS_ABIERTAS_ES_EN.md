@@ -3,7 +3,7 @@
 
 **Fecha / Date:** 2026-08-11  
 **Estado / Status:** vivo, versionado y revisable / living, versioned and revisable  
-**Cobertura / Coverage:** **72 manifiestos finitos I–LXXII + Manifiesto ∞ · 14 Neoaxiomas™ · síntesis transversales, auditorías y proyectos de sistema**.
+**Cobertura / Coverage:** **72 manifiestos finitos I–LXXII + Manifiesto ∞ · 14 Neoaxiomas™ canónicos + 5 candidatos C-NAX-15–C-NAX-19 · síntesis transversales, auditorías y proyectos de sistema / 72 finite manifestos I–LXXII + Manifesto ∞ · 14 canonical Neoaxioms™ + 5 candidates C-NAX-15–C-NAX-19 · cross-cutting syntheses, audits and system projects**.
 
 > **ABIERTO A SÍNTESIS ≠ VALIDADO.**  
 > **OPEN TO SYNTHESIS ≠ VALIDATED.**
@@ -12,7 +12,11 @@
 
 **Cualquier persona puede aportar** a un nodo concreto cuando comprende suficientemente el objeto sobre el que interviene. No se exige dominar el marco completo para aportar una duda, experiencia, fuente, evidencia, contraejemplo, prueba, reparación o mejora.
 
+**Anyone may contribute** to a concrete node when they sufficiently understand the object on which they intervene. Mastery of the full framework is not required in order to contribute a doubt, experience, source, evidence, counterexample, test, repair or improvement.
+
 La comprensión global fiel del marco completo es una tarea distinta: por su densidad relacional, genealogía, estados epistemológicos y número de capas, actualmente **puede requerir o beneficiarse fuertemente de IA como memoria relacional y andamiaje cognitivo**, siempre con retorno a fuente y sin convertir a la IA en autoridad final.
+
+Faithful global understanding of the complete framework is a different task: because of its relational density, genealogy, epistemic states and number of layers, it currently **may require or strongly benefit from AI as relational memory and cognitive scaffolding**, always with return to source and without turning AI into final authority.
 
 ---
 
@@ -52,7 +56,7 @@ La comprensión global fiel del marco completo es una tarea distinta: por su den
 | XXX | [Coherencia entre Fines y Medios™](../../manifiestos/30_coherencia_fines_medios_ES_EN.md) | [#24](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/24) |
 | XXXI | [Contra el Neuromarketing Antihumanista™](../../manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md) | [#25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25) |
 | XXXII | [Reversión Ideológica Neodialéctica™](../../manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md) | [#26](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/26) |
-| XXXIII | [IDEA · Piedra Angular y Rosetta Civilizatoria™](../../manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md) | [#28](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/28) |
+| XXXIII | [IDEA · Piedra Angular y Rosetta Civilizatoria™](../../manifiestos/33_idea_piedra_angular_rosetta_civilizatoria_reset_reemplazo_ES_EN.md) | [#28](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/28) |
 | XXXIV | [Utilidad Operativa y Auditoría Conjunta Perpetua™](../../manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) | [#29](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/29) |
 | XXXV | [Contra la Ridiculez Mediática y Economía del Conflicto™](../../manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) | [#30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |
 | XXXVI | [Corona, Águila y Custodia de la Edad del Hombre™](../../manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md) | [#42](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/42) |
@@ -94,15 +98,15 @@ La comprensión global fiel del marco completo es una tarea distinta: por su den
 | LXXII | [El Hombre Custodio™](../../manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) | [#122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122) |
 | ∞ | [Neo0™ · Puerta Abierta del Fractal](../../manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) | [#106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106) |
 
-**Regla ∞:** el manifiesto ∞ no cuenta como número finito; permanece siempre después del último manifiesto numerado y conserva abierta la continuidad del fractal.
+**Regla ∞ / ∞ rule:** el manifiesto ∞ no cuenta como número finito; permanece siempre después del último manifiesto numerado y conserva abierta la continuidad del fractal. / Manifesto ∞ does not count as a finite number; it always remains after the latest numbered manifesto and keeps fractal continuity open.
 
 ---
 
-# 2 · Neoaxiomas™
+# 2 · Neoaxiomas™ / Neoaxioms™
 
-[Matriz general · Issue #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) · [Texto íntegro](../../neoaxiomas/README.md) · [Protocolo](NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md)
+[Matriz general / General matrix · Issue #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) · [Texto íntegro / Full text](../../neoaxiomas/README.md) · [Protocolo / Protocol](NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md)
 
-| Neoaxioma | Síntesis |
+| Neoaxioma / Neoaxiom | Síntesis / Synthesis |
 |---|---|
 | NAX-01 · Unidad de sentido y distribución de potencia™ | [#84](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/84) |
 | NAX-02 · Primera Capa Fractal Multicabeza™ | [#85](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/85) |
@@ -118,15 +122,21 @@ La comprensión global fiel del marco completo es una tarea distinta: por su den
 | NAX-12 · Trazabilidad Sustitutiva de Burocracia Redundante™ | [#95](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/95) |
 | NAX-13 · Liberación del Tiempo de Control hacia Creación y Aporte™ | [#96](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/96) |
 | NAX-14 · Prevención de la Bifurcación Simbiótica™ | [#97](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/97) |
-| **C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ · candidato** | [#123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123) |
+| **C-NAX-15 · Soberanía Intelectual de la Especie™ / Intellectual Sovereignty of the Species™ · candidato / candidate** | [matriz #80 / matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) · [LXVIII #114](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/114) |
+| **C-NAX-16 · No Coronación de la Parte™ / Non-Coronation of the Part™ · candidato / candidate** | [matriz #80 / matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) · [∞ #106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106) |
+| **C-NAX-17 · Reconstrucción Sistémica™ / Systemic Reconstruction™ · candidato / candidate** | [matriz #80 / matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) · [LXVII #112](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/112) |
+| **C-NAX-18 · Motor del Bien Común + NeoSinergia™ / Common-Good Engine + NeoSynergy™ · candidato / candidate** | [matriz #80 / matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) · [LXVI #110](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/110) · [LXVII #112](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/112) |
+| **C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™ · candidato / candidate** | [#123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123) · [matriz #80 / matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) |
+
+**Regla de estado / State rule:** NAX-01–NAX-14 son canónicos y revisables; C-NAX-15–C-NAX-19 son candidatos visibles y trazables, no canónicos hasta fijación explícita posterior. / NAX-01–NAX-14 are canonical and revisable; C-NAX-15–C-NAX-19 are visible, traceable candidates and remain non-canonical until a later explicit fixation.
 
 ---
 
-# 3 · Síntesis transversales, deltas, auditorías y proyectos
+# 3 · Síntesis transversales, deltas, auditorías y proyectos / Cross-cutting syntheses, deltas, audits and projects
 
-Estas entradas no sustituyen la síntesis de un manifiesto o Neoaxioma: abren objetos concretos del sistema, casos reales o relaciones entre capas.
+Estas entradas no sustituyen la síntesis de un manifiesto o Neoaxioma: abren objetos concretos del sistema, casos reales o relaciones entre capas. / These entries do not replace the synthesis of a manifesto or Neoaxiom: they open concrete system objects, real cases or relations between layers.
 
-| Objeto | Síntesis / Auditoría |
+| Objeto / Object | Síntesis / Auditoría · Synthesis / Audit |
 |---|---|
 | Algoritmo Europeo de Pensamiento Reflexivo™ · tres minutos antes de responder | [#2](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/2) |
 | Canarias · Quórum, tutela y contratación | [#44](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/44) |
@@ -142,34 +152,35 @@ Estas entradas no sustituyen la síntesis de un manifiesto o Neoaxioma: abren ob
 | Fuego de Agua™ y Totalidad Elemental · raíz de NAX-10 | [#100](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/100) |
 | Autonomía Progresiva Protegida™ · infancia, educación y participación | [#102](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/102) |
 | No Absolutización de Escala™, Residuo Fenomenológico y Cosmologías Monádicas | [#104](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/104) |
-| Delta · Defensa de la Inocencia Humana™ ↔ Fauno™ ↔ Separación de Planos™ ↔ Hombre Custodio™ | [documento](./2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md) · [#119](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/119) · [#120](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/120) · [#121](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/121) · [#122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122) · [C-NAX-19 #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123) |
+| Delta · Defensa de la Inocencia Humana™ ↔ Fauno™ ↔ Separación de Planos™ ↔ Hombre Custodio™ | [documento / document](./2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md) · [#119](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/119) · [#120](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/120) · [#121](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/121) · [#122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122) · [C-NAX-19 #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123) |
 | LinkedIn · #neodialéctica y previsualización innova-n.org | [#108](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/108) |
 
 ---
 
 # 4 · NeoCronos™ dentro del aporte / NeoCronos™ inside contribution
 
-La relación vigente es:
+La relación vigente es / The current relation is:
 
 ```text
-ENTRAR EN UNA SÍNTESIS
-→ COMENZAR APORTE
-   └─ NEOCRONOS™ ACTIVO
-      · tiempo
-      · fuentes
-      · evidencias
-      · relaciones
+ENTRAR EN UNA SÍNTESIS / ENTER A SYNTHESIS
+→ COMENZAR APORTE / BEGIN CONTRIBUTION
+   └─ NEOCRONOS™ ACTIVO / ACTIVE
+      · tiempo / time
+      · fuentes / sources
+      · evidencias / evidence
+      · relaciones / relations
       · deltas
-      · revisiones
-      · resultado
-→ ENTREGAR APORTE
-→ CONTRASTE SAN™
-→ VALORACIÓN REAL
+      · revisiones / revisions
+      · resultado / result
+→ ENTREGAR APORTE / SUBMIT CONTRIBUTION
+→ CONTRASTE SAN™ / SAN™ SCRUTINY
+→ VALORACIÓN REAL / REAL VALUATION
 → TOKENIZACIÓN / RECONOCIMIENTO / RETORNO SEGÚN REGLAS
+  TOKENISATION / RECOGNITION / RETURN UNDER RULES
 ```
 
-**NeoCronos™ ⊂ APORTE.** No es una puerta separada, ni un cronómetro externo, ni la valoración final.  
-[Manifiesto LXIV](../../manifiestos/64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md) · [Síntesis #107](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/107) · [NeoJuego™ LXV](../../manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
+**NeoCronos™ ⊂ APORTE / CONTRIBUTION.** No es una puerta separada, ni un cronómetro externo, ni la valoración final. / It is not a separate gate, an external stopwatch or the final valuation.  
+[Manifiesto / Manifesto LXIV](../../manifiestos/64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md) · [Síntesis / Synthesis #107](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/107) · [NeoJuego™ / NeoGame™ LXV](../../manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
 
 ---
 
@@ -177,23 +188,26 @@ ENTRAR EN UNA SÍNTESIS
 
 **WEB4™** es la capa pública relacional del marco. **SistemaTrazable™** nombra el principio operativo mediante el cual procedencia, relaciones, versiones, evidencia, decisiones, deltas y retornos deben poder reconstruirse y auditarse sin borrar genealogía.
 
-[Manifiesto X · WEB4™ · SistemaTrazable™](../../manifiestos/07_web4_sistematrazable_ES_EN.md) · [Síntesis #39](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/39)
+**WEB4™** is the framework's public relational layer. **SistemaTrazable™** names the operational principle through which provenance, relations, versions, evidence, decisions, deltas and returns must remain reconstructible and auditable without erasing genealogy.
+
+[Manifiesto / Manifesto X · WEB4™ · SistemaTrazable™](../../manifiestos/07_web4_sistematrazable_ES_EN.md) · [Síntesis / Synthesis #39](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/39)
 
 ---
 
-# EN · Operational summary
+# 6 · Resumen operativo ES / EN · Operational summary ES / EN
 
-- Every finite manifesto I–LXV has a dedicated Open Synthesis issue.
-- Manifesto ∞ remains permanently open after the latest finite manifesto.
-- Every current Neoaxiom NAX-01–NAX-14 has a dedicated synthesis plus general matrix #80.
-- System-wide deltas, audits, applied cases and projects have their own traceable synthesis spaces.
-- Anyone may contribute locally with sufficient understanding of the specific node.
-- Full-framework evaluation requires proportionally deeper reading and currently benefits strongly from AI-assisted relational memory with return to source.
-- NeoCronos™ activates **inside contribution when contribution begins**; SAN™ scrutinises the result; valuation and tokenisation occur afterwards.
-- WEB4™ is explicitly **WEB4™ · SistemaTrazable™**: the public relational/traceability layer of the framework.
+- Todo manifiesto finito I–LXXII dispone de una Síntesis Abierta dedicada. / Every finite manifesto I–LXXII has a dedicated Open Synthesis issue.
+- El Manifiesto ∞ permanece abierto permanentemente detrás del último manifiesto finito. / Manifesto ∞ remains permanently open after the latest finite manifesto.
+- Todo Neoaxioma canónico NAX-01–NAX-14 dispone de síntesis dedicada y de la matriz general #80. / Every canonical Neoaxiom NAX-01–NAX-14 has a dedicated synthesis plus general matrix #80.
+- C-NAX-15–C-NAX-19 permanecen candidatos: se muestran con matriz/ruta de síntesis y no se elevan automáticamente a canon. / C-NAX-15–C-NAX-19 remain candidates: they are shown with a synthesis matrix/route and are not automatically elevated to canon.
+- Los deltas, auditorías, casos aplicados y proyectos del sistema disponen de espacios trazables de síntesis. / System-wide deltas, audits, applied cases and projects have traceable synthesis spaces.
+- Cualquier persona puede aportar localmente con comprensión suficiente del nodo concreto. / Anyone may contribute locally with sufficient understanding of the specific node.
+- La evaluación del marco completo requiere lectura proporcionalmente más profunda y actualmente se beneficia fuertemente de memoria relacional asistida por IA con retorno a fuente. / Full-framework evaluation requires proportionally deeper reading and currently benefits strongly from AI-assisted relational memory with return to source.
+- NeoCronos™ se activa **dentro del aporte cuando comienza el aporte**; SAN™ contrasta el resultado; valoración y tokenización, si proceden, ocurren después. / NeoCronos™ activates **inside contribution when contribution begins**; SAN™ scrutinises the result; valuation and tokenisation, where applicable, occur afterwards.
+- WEB4™ es explícitamente **WEB4™ · SistemaTrazable™**: capa pública relacional y de trazabilidad del marco. / WEB4™ is explicitly **WEB4™ · SistemaTrazable™**: the public relational/traceability layer of the framework.
 
 ---
 
-[Volver al portal de Síntesis Abierta / Back to Open Synthesis portal](README.md) · [Manifiestos](../../manifiestos/README.md) · [Neoaxiomas™](../../neoaxiomas/README.md) · [Auditorías Públicas](../../auditorias/publicas/README.md)
+[Volver al portal de Síntesis Abierta / Back to Open Synthesis portal](README.md) · [Manifiestos / Manifestos](../../manifiestos/README.md) · [Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md) · [Auditorías Públicas / Public Audits](../../auditorias/publicas/README.md)
 
 **© 2026 Pedro Martínez Alhambra · Fundación Innova_N / Innova_N Foundation**
