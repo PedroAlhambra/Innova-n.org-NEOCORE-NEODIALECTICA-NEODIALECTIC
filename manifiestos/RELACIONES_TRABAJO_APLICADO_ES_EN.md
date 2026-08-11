@@ -505,3 +505,14 @@ Casos y análisis principales:
 
 [Delta íntegro / Full delta](../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md) · [LXIX #119](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/119) · [LXX #120](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/120) · [LXXI #121](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/121) · [LXXII #122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122) · [C-NAX-19 #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123)
 <!-- RELACION_LXIX_LXXII_END -->
+
+
+---
+
+## LXXIII–LXXIV · Humanidad Común™, Maduración Invertida™, Trol™ y Bot / Common Humanity™, Inverted Maturation™, Troll™ and Bot
+
+**ES:** esta constelación une VI · Parasitismo Sistémico™, VII · Economía del Aporte™, XXXI · Neuromarketing Antihumanista™, XXXV · Economía del Conflicto™, LV · Micromáquinas™, LXVIII · Soberanía Intelectual y LXIX–LXXII. Faunismo™, Orquismo™, Trolismo™ y Parasitismo™ se tratan como funciones, no identidades. Se incorporan Maduración Invertida™, Microagencia Digital Distribuida™, C-NAX-20 y C-NAX-21.
+
+**EN:** this constellation links VI · Systemic Parasitism™, VII · Contribution Economy™, XXXI · Anti-Humanist Neuromarketing™, XXXV · Conflict Economy™, LV · Micromachines™, LXVIII · Intellectual Sovereignty and LXIX–LXXII. Faunism™, Orcism™, Trollism™ and Parasitism™ are treated as functions, not identities. Inverted Maturation™, Distributed Digital Micro-Agency™, C-NAX-20 and C-NAX-21 are incorporated.
+
+[Delta / Delta](../propuestas/sintesis-abierta/2026-08-11_DELTA_HUMANIDAD_COMUN_MADURACION_INVERTIDA_TROL_BOT_MAL_SISTEMICO_ES_EN.md) · [#124](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/124) · [#125](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/125) · [#126](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/126) · [#127](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/127)

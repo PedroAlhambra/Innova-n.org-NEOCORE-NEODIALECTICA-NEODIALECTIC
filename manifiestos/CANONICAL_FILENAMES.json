@@ -291,6 +291,14 @@
     "LXXII": {
       "legacy": "manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md",
       "canonical": "manifiestos/canonicos/LXXII_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md"
+    },
+    "LXXIII": {
+      "legacy": "manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md",
+      "canonical": "manifiestos/canonicos/LXXIII_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md"
+    },
+    "LXXIV": {
+      "legacy": "manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md",
+      "canonical": "manifiestos/canonicos/LXXIV_asimetria_destruccion_trol_humano_bot_ES_EN.md"
     }
   }
 }

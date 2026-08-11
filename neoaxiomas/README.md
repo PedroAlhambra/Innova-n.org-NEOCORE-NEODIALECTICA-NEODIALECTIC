@@ -37,7 +37,7 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 <!-- NEOAXIOM_CANDIDATES_72_START -->
 
-## Candidatos neoaxiomáticos detectados en el repaso I–LXXII / Neoaxiomatic candidates detected in the I–LXXII review
+## Candidatos neoaxiomáticos detectados en el repaso I–LXXIV / Neoaxiomatic candidates detected in the I–LXXIV review
 
 **Estado:** candidatos visibles para SAN™; **no se promueven automáticamente a NAX-15+**. / **Status:** visible candidates for SAN™; **not automatically promoted to NAX-15+**.
 
@@ -48,6 +48,8 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 | **C-NAX-17 · Reconstrucción Sistémica™ / Systemic Reconstruction™** | [LXVII](../manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md) | Principio manifiesto; candidato a evaluación, no canonizado / Manifest principle; candidate for evaluation, not canonicalised |
 | **C-NAX-18 · Motor del Bien Común + NeoSinergia™ / Common-Good Engine + NeoSynergy™** | [LXVI](../manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md) + [LXVII](../manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md) | Candidato relacional a síntesis; no convierte cooperación en coerción / Relational synthesis candidate; does not turn cooperation into coercion |
 | **C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™** | [LXIX](../manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md) + [LXX](../manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md) + [LXXI](../manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md) + [LXXII](../manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) | **Candidato explícito · SAN #123**; no canonizado / **Explicit candidate · SAN #123**; not canonicalised |
+| **C-NAX-20 · Humanidad Común sin Supresión de la Diferencia™ / Common Humanity without Suppression of Difference™** | [LXXIII](../manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md) | **Candidato explícito · SAN #126**; no canonizado / **Explicit candidate · SAN #126**; not canonicalised |
+| **C-NAX-21 · Ignorancia Sistémica del Mal y No Superioridad de la Destrucción™ / Systemic Ignorance of Evil and Non-Superiority of Destruction™** | [VI](../manifiestos/09_parasitismo_sistemico_ES_EN.md) + [LXXIII](../manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md) + [LXXIV](../manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md) | **Candidato explícito · SAN #127**; no canonizado / **Explicit candidate · SAN #127**; not canonicalised |
 
 
 ### C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™
@@ -83,6 +85,29 @@ COMMON DIGNITY
 **Separación de Planos / Separation of Planes:** `FANTASÍA/FANTASY ≠ REALIDAD/REALITY · DESEO/DESIRE ≠ DERECHO/RIGHT · ROL/ROLE ≠ IDENTIDAD TOTAL/TOTAL IDENTITY · EXCITACIÓN/AROUSAL ≠ CONSENTIMIENTO/CONSENT · PODER/POWER ≠ PERMISO/PERMISSION · ACCESO/ACCESS ≠ DISPONIBILIDAD/AVAILABILITY · RELACIÓN/RELATIONSHIP ≠ PROPIEDAD/OWNERSHIP`.
 
 **Síntesis específica / Dedicated synthesis:** [#123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123). **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
+
+
+### C-NAX-20 · Humanidad Común sin Supresión de la Diferencia™ / Common Humanity without Suppression of Difference™
+
+> **ES:** La condición humana común constituye el suelo relacional compartido de toda identidad particular. Ninguna diferencia legítima debe ser borrada, patologizada o forzada a la invisibilidad; ninguna identidad parcial debe coronarse como totalidad de la persona, justificar la deshumanización de otros ni exigir centralidad social permanente como condición de respeto.
+
+> **EN:** Common humanity constitutes the shared relational ground of every particular identity. No legitimate difference should be erased, pathologised or forced into invisibility; no partial identity should be crowned as the totality of the person, justify the dehumanisation of others or demand permanent social centrality as a condition of respect.
+
+**Síntesis / Synthesis:** [#126](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/126) · **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
+
+### C-NAX-21 · Ignorancia Sistémica del Mal y No Superioridad de la Destrucción™ / Systemic Ignorance of Evil and Non-Superiority of Destruction™
+
+> **ES:** La capacidad de destruir, someter, extraer o dañar no demuestra superioridad ni comprensión del sistema. Incluso cuando el daño es deliberado, una acción que corona un objetivo parcial y degrada injustificadamente las relaciones o condiciones que sostienen el conjunto opera desde ignorancia sistémica. El Bien Común exige una comprensión capaz de integrar efectos, dependencias, límites, reparación y continuidad.
+
+> **EN:** The capacity to destroy, dominate, extract or harm does not demonstrate superiority or understanding of the system. Even when harm is deliberate, an action that crowns a partial objective and unjustifiably degrades the relations or conditions sustaining the whole operates from systemic ignorance. The Common Good requires understanding capable of integrating effects, dependencies, limits, repair and continuity.
+
+```text
+INTELIGENCIA LOCAL ≠ SABIDURÍA SISTÉMICA / LOCAL INTELLIGENCE ≠ SYSTEMIC WISDOM
+DESTRUIR ≠ SUPERIORIDAD / DESTROYING ≠ SUPERIORITY
+CONSTRUIR ≠ BIEN AUTOMÁTICO / BUILDING ≠ AUTOMATIC GOOD
+```
+
+**Síntesis / Synthesis:** [#127](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/127) · **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
 
 **Regla 7.2 / 7.2 rule:** la futura **Innova_N Fundación** puede custodiar propósito, memoria y Bien Común; la futura **Innova_N Corporación** puede materializar infraestructura y sostenibilidad. Ninguna adquiere soberanía epistemológica por su forma jurídica. Ambas quedan subordinadas a gobernanza humana, legalidad, trazabilidad, auditoría y SAN™. / the future **Innova_N Foundation** may guard purpose, memory and the Common Good; the future **Innova_N Corporation** may materialise infrastructure and sustainability. Neither acquires epistemic sovereignty through legal form. Both remain subject to human governance, law, traceability, audit and SAN™.
 
