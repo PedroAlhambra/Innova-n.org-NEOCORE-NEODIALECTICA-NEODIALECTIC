@@ -1,23 +1,35 @@
 # Innova_N
 
-## Guías / Guides
+**NEOCore™ 7.2 · estado actual / current state**
 
-* [Inicio · cómo usar el sistema / Home · how to use the system](Home)
-* [Manifiestos · lectura y participación / Manifestos · reading and participation](Manifiestos)
-* [Análisis y auditorías · guía de uso / Analyses and audits · usage guide](Analisis_Neodialecticos_Publicos)
+## Entrar / Enter
 
-## Fuentes canónicas / Canonical sources
+* [Inicio / Home](Home)
+* [Mapa completo del marco / Complete framework map](Mapa_del_Marco)
+* [Filosofía y NEOCore™ / Philosophy and NEOCore™](Filosofia_y_NEOCore)
 
-* [Repositorio principal / Main repository](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC)
-* [README principal / Main README](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/README.md)
-* [Índice de manifiestos / Manifesto index](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
-* [Síntesis Abierta / Open Synthesis](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/README.md)
-* [Índice de análisis / Analysis index](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/INDEX.md)
-* [Auditorías públicas / Public audits](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/auditorias/publicas/README.md)
-* [Obras / Works](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/obras/README.md)
-* [IDEA](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/obras/idea/README.md)
+## Aprender y contrastar / Learn and challenge
 
-## Regla / Rule
+* [Manifiestos / Manifestos](Manifiestos)
+* [Neoaxiomas™ / Neoaxioms™](Neoaxiomas)
+* [Síntesis Abierta™ / Open Synthesis™](Sintesis_Abierta)
+* [Participar / Participate](Participar)
 
-**Repositorio = contenido y commits. Wiki = orientación y uso.**  
-**Repository = content and commits. Wiki = orientation and usage.**
+## Investigar / Research
+
+* [Análisis y auditorías / Analyses and audits](Analisis_Neodialecticos_Publicos)
+* [Procedencia, trazabilidad y legal / Provenance, traceability and legal](Procedencia_Trazabilidad_y_Legal)
+
+## Crear y proyectar / Create and project
+
+* [Obras y cultura / Works and culture](Obras_y_Cultura)
+* [WEB4™ y proyección / WEB4™ and projection](WEB4_y_Proyeccion)
+
+## Fuentes / Sources
+
+* [Repositorio canónico / Canonical repository](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC)
+* [README raíz / Root README](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/README.md)
+* [Snapshot congelado / Frozen snapshot](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/tree/snapshot/neocore-7-current-2026-08-11)
+
+**Repositorio = fuente documental trazable. Wiki = mapa estable de orientación.**  
+**Repository = traceable documentary source. Wiki = stable orientation map.**
