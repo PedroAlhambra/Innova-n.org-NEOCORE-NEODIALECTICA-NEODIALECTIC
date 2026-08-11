@@ -254,7 +254,7 @@ Contributions are requested on cognitive custodianship, plurality of AI, technol
 ## Navegación canónica / Canonical navigation
 
 ← **LVIII** · [Inteligencia Civilizatoria™ · Democracia Cognitiva y Deber de Síntesis / Civilisational Intelligence™ · Cognitive Democracy and Duty of Synthesis](LVIII_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md)  
-· [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
+· [Índice I–LXXV / I–LXXV index](../README.md) ·  
 **LX** · [Relevancia Humana Necesaria™ · Inteligencia Distribuida, Aporte y Anti-Captura Social / Necessary Human Relevance™ · Distributed Intelligence, Contribution and Anti-Capture](LX_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->

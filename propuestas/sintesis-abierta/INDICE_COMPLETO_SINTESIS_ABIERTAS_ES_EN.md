@@ -3,7 +3,7 @@
 
 **Fecha / Date:** 2026-08-11  
 **Estado / Status:** vivo, versionado y revisable / living, versioned and revisable  
-**Cobertura / Coverage:** **74 manifiestos finitos I–LXXIV + Manifiesto ∞ · 14 Neoaxiomas™ canónicos + 7 candidatos C-NAX-15–C-NAX-21 · síntesis transversales, auditorías y proyectos de sistema / 74 finite manifestos I–LXXIV + Manifesto ∞ · 14 canonical Neoaxioms™ + 7 candidates C-NAX-15–C-NAX-21 · cross-cutting syntheses, audits and system projects**.
+**Cobertura / Coverage:** **75 manifiestos finitos I–LXXV + Manifiesto ∞ · 14 Neoaxiomas™ canónicos + 8 candidatos C-NAX-15–C-NAX-22 · síntesis transversales, auditorías y proyectos de sistema / 75 finite manifestos I–LXXV + Manifesto ∞ · 14 canonical Neoaxioms™ + 8 candidates C-NAX-15–C-NAX-22 · cross-cutting syntheses, audits and system projects**.
 
 > **ABIERTO A SÍNTESIS ≠ VALIDADO.**  
 > **OPEN TO SYNTHESIS ≠ VALIDATED.**
@@ -98,6 +98,7 @@ Faithful global understanding of the complete framework is a different task: bec
 | LXXII | [El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™ · Strength, Desire, Power and Responsibility](../../manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) | [#122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122) |
 | LXXIII | [Maduración Invertida™ · Humanidad Común y Degradación Arquetípica Reversible / Inverted Maturation™ · Common Humanity and Reversible Archetypal Degradation](../../manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md) | [#124](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/124) |
 | LXXIV | [Asimetría de la Destrucción™ · Del Trol Humano al Bot / Asymmetry of Destruction™ · From the Human Troll to the Bot](../../manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md) | [#125](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/125) |
+| LXXV | [Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™](../../manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md) | [#134](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/134) |
 | ∞ | [Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](../../manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) | [#106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106) |
 
 **Regla ∞ / ∞ rule:** el manifiesto ∞ no cuenta como número finito; permanece siempre después del último manifiesto numerado y conserva abierta la continuidad del fractal. / Manifesto ∞ does not count as a finite number; it always remains after the latest numbered manifesto and keeps fractal continuity open.
@@ -131,8 +132,9 @@ Faithful global understanding of the complete framework is a different task: bec
 | **C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™ · candidato / candidate** | [#123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123) · [matriz #80 / matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) |
 | **C-NAX-20 · Humanidad Común sin Supresión de la Diferencia™ / Common Humanity without Suppression of Difference™ · candidato / candidate** | [#126](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/126) · [LXXIII #124](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/124) |
 | **C-NAX-21 · Ignorancia Sistémica del Mal y No Superioridad de la Destrucción™ / Systemic Ignorance of Evil and Non-Superiority of Destruction™ · candidato / candidate** | [#127](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/127) · [LXXIII #124](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/124) · [LXXIV #125](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/125) |
+| **C-NAX-22 · Memoria Material-Relacional™ / Material-Relational Memory™ · candidato / candidate** | [#135](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/135) · [LXXV #134](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/134) |
 
-**Regla de estado / State rule:** NAX-01–NAX-14 son canónicos y revisables; C-NAX-15–C-NAX-21 son candidatos visibles y trazables, no canónicos hasta fijación explícita posterior. / NAX-01–NAX-14 are canonical and revisable; C-NAX-15–C-NAX-21 are visible, traceable candidates and remain non-canonical until a later explicit fixation.
+**Regla de estado / State rule:** NAX-01–NAX-14 son canónicos y revisables; C-NAX-15–C-NAX-22 son candidatos visibles y trazables, no canónicos hasta fijación explícita posterior. / NAX-01–NAX-14 are canonical and revisable; C-NAX-15–C-NAX-22 are visible, traceable candidates and remain non-canonical until a later explicit fixation.
 
 ---
 
@@ -200,10 +202,10 @@ ENTRAR EN UNA SÍNTESIS / ENTER A SYNTHESIS
 
 # 6 · Resumen operativo ES / EN · Operational summary ES / EN
 
-- Todo manifiesto finito I–LXXII dispone de una Síntesis Abierta dedicada. / Every finite manifesto I–LXXII has a dedicated Open Synthesis issue.
+- Todo manifiesto finito I–LXXV dispone de una Síntesis Abierta dedicada. / Every finite manifesto I–LXXV has a dedicated Open Synthesis issue.
 - El Manifiesto ∞ permanece abierto permanentemente detrás del último manifiesto finito. / Manifesto ∞ remains permanently open after the latest finite manifesto.
 - Todo Neoaxioma canónico NAX-01–NAX-14 dispone de síntesis dedicada y de la matriz general #80. / Every canonical Neoaxiom NAX-01–NAX-14 has a dedicated synthesis plus general matrix #80.
-- C-NAX-15–C-NAX-21 permanecen candidatos: se muestran con matriz/ruta de síntesis y no se elevan automáticamente a canon. / C-NAX-15–C-NAX-21 remain candidates: they are shown with a synthesis matrix/route and are not automatically elevated to canon.
+- C-NAX-15–C-NAX-22 permanecen candidatos: se muestran con matriz/ruta de síntesis y no se elevan automáticamente a canon. / C-NAX-15–C-NAX-22 remain candidates: they are shown with a synthesis matrix/route and are not automatically elevated to canon.
 - Los deltas, auditorías, casos aplicados y proyectos del sistema disponen de espacios trazables de síntesis. / System-wide deltas, audits, applied cases and projects have traceable synthesis spaces.
 - Cualquier persona puede aportar localmente con comprensión suficiente del nodo concreto. / Anyone may contribute locally with sufficient understanding of the specific node.
 - La evaluación del marco completo requiere lectura proporcionalmente más profunda y actualmente se beneficia fuertemente de memoria relacional asistida por IA con retorno a fuente. / Full-framework evaluation requires proportionally deeper reading and currently benefits strongly from AI-assisted relational memory with return to source.

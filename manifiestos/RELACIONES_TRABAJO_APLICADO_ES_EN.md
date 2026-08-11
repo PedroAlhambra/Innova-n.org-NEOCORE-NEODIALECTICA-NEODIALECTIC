@@ -2,7 +2,7 @@
 # Transversal map · Manifestos ↔ applied work
 
 **Estado / Status:** público · relacional · vivo / public · relational · living  
-**Cobertura / Coverage:** I–LXXIV · 74 manifiestos finitos + ∞ como continuidad abierta / 74 finite manifestos I–LXXIV + ∞ as open continuity  
+**Cobertura / Coverage:** I–LXXV · 75 manifiestos finitos + ∞ como continuidad abierta / 75 finite manifestos I–LXXV + ∞ as open continuity  
 **Función / Function:** relacionar principios, análisis, auditorías, obras, protocolos, evidencias y casos mediante enlaces internos, sin convertir correlación documental en prueba causal. / Relate principles, analyses, audits, works, protocols, evidence and cases through internal links without turning documentary correlation into causal proof.
 
 ---
@@ -422,6 +422,22 @@ Casos y análisis principales:
 [Abrir capa neoaxiomática completa / Open full Neoaxiomatic layer](../neoaxiomas/README.md) · [Matriz general SAN #80 / General SAN matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
 
 <!-- NEO_RELATIONS_LXI_LXXIV_END -->
+
+---
+
+<!-- NEO_RELATIONS_LXXV_START -->
+
+## LXXV · Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™
+
+- **Manifiesto / Manifesto:** [LXXV · Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™](./75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md).
+- **Relación / Relation:** B–C · memoria material-relacional, degradación de relaciones, reciprocidad ecológica, viración arquetípica y custodia de sistemas vivos / material-relational memory, degradation of relations, ecological reciprocity, archetypal drift and custodianship of living systems.
+- **Síntesis Abierta / Open Synthesis:** [#134](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/134).
+- **Candidato neoaxiomático / Neoaxiomatic candidate:** [C-NAX-22 · Memoria Material-Relacional™ / Material-Relational Memory™ · #135](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/135) · [capa neoaxiomática / Neoaxiomatic layer](../neoaxiomas/README.md).
+- **Interconexiones / Interconnections:** [VI · Manifiesto sobre el Parasitismo Sistémico / Manifesto on Systemic Parasitism](./09_parasitismo_sistemico_ES_EN.md) · [XVI · Manifiesto de la Refragmentación Arquetípica™ / Manifesto of Archetypal Refragmentation™](./16_refragmentacion_arquetipica_ES_EN.md) · [XVII · Manifiesto del Respeto a Todos los Seres Vivos™ / Manifesto of Respect for All Living Beings™](./17_respeto_todos_seres_vivos_ES_EN.md) · [XL · Respeto Neodialéctico, Neoego y Honor Relacional™ / Neodialectical Respect, Neoego and Relational Honour™](./40_respeto_neoego_honor_relacional_ES_EN.md) · [LXXIV · Asimetría de la Destrucción™ · Del Trol Humano al Bot / Asymmetry of Destruction™ · From the Human Troll to the Bot](./74_asimetria_destruccion_trol_humano_bot_ES_EN.md).
+
+**Regla probatoria / Evidentiary rule:** Memoria Material-Relacional™ no equivale a consciencia, intención ni almacenamiento deliberado; las categorías empíricas de biología, ecología, geología, genética, climatología, química o física conservan prioridad dentro de sus dominios. / Material-Relational Memory™ is not equivalent to consciousness, intention or deliberate storage; empirical categories from biology, ecology, geology, genetics, climatology, chemistry or physics retain priority within their domains.
+
+<!-- NEO_RELATIONS_LXXV_END -->
 
 ---
 

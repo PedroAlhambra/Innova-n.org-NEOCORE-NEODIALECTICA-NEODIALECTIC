@@ -2,7 +2,7 @@
 ## Neodialectical Open Synthesis™
 
 **Estado / Status:** **Síntesis iniciada / Synthesis Initiated · 2026-08-09**  
-**Cobertura actual / Current coverage:** **74 manifiestos finitos · I–LXXIV + Manifiesto ∞ · 14 Neoaxiomas™ · síntesis transversales, auditorías y proyectos / 74 finite manifestos · I–LXXIV + Manifesto ∞ · 14 Neoaxioms™ · transversal syntheses, audits and projects**
+**Cobertura actual / Current coverage:** **75 manifiestos finitos · I–LXXV + Manifiesto ∞ · 14 Neoaxiomas™ · síntesis transversales, auditorías y proyectos / 75 finite manifestos · I–LXXV + Manifesto ∞ · 14 Neoaxioms™ · transversal syntheses, audits and projects**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english) · **[Índice completo / Complete index](INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md)**
 
@@ -84,9 +84,9 @@ Cada Neoaxioma dispone de un espacio de contraste propio además de la matriz ge
 
 > ## 🔴 ÚLTIMO MANIFIESTO FINITO ABIERTO A SÍNTESIS / LATEST FINITE MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LXXIV · Asimetría de la Destrucción™ · Del Trol Humano al Bot / Asymmetry of Destruction™ · From the Human Troll to the Bot**
+> **LXXV · Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™**
 >
-> **[Leer LXXIV / Read LXXIV](../../manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md) · [Síntesis LXXIV · #125 / Synthesis LXXIV · #125](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/125)**
+> **[Leer LXXV / Read LXXV](../../manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md) · [Síntesis LXXV · #134 / Synthesis LXXV · #134](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/134)**
 
 > ## ∞ · PUERTA ABIERTA PERMANENTE / PERMANENT OPEN DOOR
 >

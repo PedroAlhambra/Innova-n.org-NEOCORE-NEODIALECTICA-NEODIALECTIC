@@ -3,7 +3,7 @@
 **Fecha / Date:** 2026-08-12  
 **Objeto / Scope:** títulos ES/EN, metadatos mínimos, marcadores de idioma, simetría de secciones principales, índices, espejo canónico y bloque normativo de referencias cruzadas.
 
-**Manifiestos revisados / Manifestos reviewed:** 75  
+**Manifiestos revisados / Manifestos reviewed:** 76  
 **REVISAR / REVIEW:** 0  
 **ADVERTENCIAS / WARNINGS:** 0
 
@@ -85,6 +85,7 @@
 | LXXII | `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md` | El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad | The Custodian Man™ · Strength, Desire, Power and Responsibility | **OK** |  |
 | LXXIII | `manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md` | Maduración Invertida™ · Humanidad Común y Degradación Arquetípica Reversible | Inverted Maturation™ · Common Humanity and Reversible Archetypal Degradation | **OK** |  |
 | LXXIV | `manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md` | Asimetría de la Destrucción™ · Del Trol Humano al Bot | Asymmetry of Destruction™ · From the Human Troll to the Bot | **OK** |  |
+| LXXV | `manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md` | Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ | The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™ | **OK** |  |
 | ∞ | `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | Manifiesto de Neo0™ · Puerta Abierta del Fractal | Neo0™ Manifesto · Open Gate of the Fractal | **OK** |  |
 
 ## Regla permanente / Permanent rule

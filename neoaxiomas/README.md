@@ -37,7 +37,7 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 <!-- NEOAXIOM_CANDIDATES_72_START -->
 
-## Candidatos neoaxiomáticos detectados en el repaso I–LXXIV / Neoaxiomatic candidates detected in the I–LXXIV review
+## Candidatos neoaxiomáticos detectados en el repaso I–LXXV / Neoaxiomatic candidates detected in the I–LXXV review
 
 **Estado:** candidatos visibles para SAN™; si completan **365 días naturales desde su primera apertura pública trazable sin respuesta sustantiva**, se fijan como Neoaxiomas definitivos del canon vigente, **sin cerrar SAN™: permanecen abiertos y revisables**. / **Status:** visible candidates for SAN™; if they complete **365 calendar days from their first traceable public opening without a substantive response**, they are fixed as definitive Neoaxioms of the current canon, **without closing SAN™: they remain open and revisable**.
 
@@ -55,6 +55,7 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 | **C-NAX-20 · Humanidad Común sin Supresión de la Diferencia™ / Common Humanity without Suppression of Difference™** | [LXXIII](../manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md) | **Candidato explícito · SAN #126**; no canonizado / **Explicit candidate · SAN #126**; not canonicalised |
 | **C-NAX-21 · Ignorancia Sistémica del Mal y No Superioridad de la Destrucción™ / Systemic Ignorance of Evil and Non-Superiority of Destruction™** | [VI](../manifiestos/09_parasitismo_sistemico_ES_EN.md) + [LXXIII](../manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md) + [LXXIV](../manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md) | **Candidato explícito · SAN #127**; no canonizado / **Explicit candidate · SAN #127**; not canonicalised |
 
+| **C-NAX-22 · Memoria Material-Relacional™ / Material-Relational Memory™** | [LXXV](../manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md) | **Candidato explícito · SAN #135**; no canonizado / **Explicit candidate · SAN #135**; not canonicalised |
 
 ### C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™
 
@@ -114,6 +115,16 @@ CONSTRUIR ≠ BIEN AUTOMÁTICO / BUILDING ≠ AUTOMATIC GOOD
 **Síntesis / Synthesis:** [#127](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/127) · **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
 
 **Regla 7.2 / 7.2 rule:** la futura **Innova_N Fundación** puede custodiar propósito, memoria y Bien Común; la futura **Innova_N Corporación** puede materializar infraestructura y sostenibilidad. Ninguna adquiere soberanía epistemológica por su forma jurídica. Ambas quedan subordinadas a gobernanza humana, legalidad, trazabilidad, auditoría y SAN™. / the future **Innova_N Foundation** may guard purpose, memory and the Common Good; the future **Innova_N Corporation** may materialise infrastructure and sustainability. Neither acquires epistemic sovereignty through legal form. Both remain subject to human governance, law, traceability, audit and SAN™.
+
+
+### C-NAX-22 · Memoria Material-Relacional™ / Material-Relational Memory™
+
+> **ES:** Todo sistema material o vivo conserva, en su estado presente, huellas de relaciones anteriores. Esas huellas no equivalen necesariamente a memoria consciente ni a almacenamiento intencional, pero forman parte de la memoria material-relacional del sistema. Transformar o destruir sus soportes modifica también las posibilidades de reconstruir su historia, continuidad y relaciones.
+
+> **EN:** Every material or living system preserves, in its present state, traces of previous relations. Those traces do not necessarily amount to conscious memory or intentional storage, but they form part of the system’s material-relational memory. Transforming or destroying its supports also changes the possibilities of reconstructing its history, continuity and relations.
+
+**Procedencia / Provenance:** [LXXV](../manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md).  
+**Síntesis / Synthesis:** [#135](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/135) · **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
 
 <!-- NEOAXIOM_CANDIDATES_72_END -->
 

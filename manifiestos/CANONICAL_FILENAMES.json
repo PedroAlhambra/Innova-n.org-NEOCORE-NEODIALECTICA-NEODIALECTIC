@@ -299,6 +299,10 @@
     "LXXIV": {
       "legacy": "manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md",
       "canonical": "manifiestos/canonicos/LXXIV_asimetria_destruccion_trol_humano_bot_ES_EN.md"
+    },
+    "LXXV": {
+      "legacy": "manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md",
+      "canonical": "manifiestos/canonicos/LXXV_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES"
     }
   }
 }

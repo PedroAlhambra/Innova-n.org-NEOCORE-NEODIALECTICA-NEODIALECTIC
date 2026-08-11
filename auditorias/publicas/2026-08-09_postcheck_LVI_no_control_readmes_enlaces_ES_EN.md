@@ -7,16 +7,16 @@
 
 ## ES · Resultado
 
-- Archivos Markdown activos revisados: **354**.
+- Archivos Markdown activos revisados: **355**.
 - Archivos Markdown históricos excluidos del estado vivo: **55**.
 - README/LEEME activos revisados: **18**.
-- Enlaces internos de ruta comprobados: **11068**.
+- Enlaces internos de ruta comprobados: **11082**.
 - Alias internos de GitHub Wiki reconocidos: **38**.
-- Enlaces externos inventariados sin comprobar disponibilidad remota: **1959**.
+- Enlaces externos inventariados sin comprobar disponibilidad remota: **1966**.
 - Enlaces sólo a ancla detectados: **416**.
 - Bloques de último manifiesto encontrados en README/LEEME: **10**.
-- Manifiestos canónicos detectados: **74 · I–LXXIV**.
-- Último manifiesto / Síntesis: **LXXIV / #125**.
+- Manifiestos canónicos detectados: **75 · I–LXXV**.
+- Último manifiesto / Síntesis: **LXXV / #134**.
 - Enlaces internos rotos del grafo vivo: **0**.
 - Fallos canónicos críticos: **0**.
 
@@ -34,13 +34,13 @@
 
 ## EN · Result
 
-- Active Markdown files reviewed: **354**.
+- Active Markdown files reviewed: **355**.
 - Historical Markdown files excluded from living-state health: **55**.
 - Active README/LEEME files reviewed: **18**.
-- Internal path links checked: **11068**.
+- Internal path links checked: **11082**.
 - GitHub Wiki extensionless page aliases recognised: **38**.
-- Canonical manifestos detected: **74 · I–LXXIV**.
-- Latest manifesto / synthesis: **LXXIV / #125**.
+- Canonical manifestos detected: **75 · I–LXXV**.
+- Latest manifesto / synthesis: **LXXV / #134**.
 - Broken internal links in the living graph: **0**.
 - Canonical critical failures: **0**.
 
