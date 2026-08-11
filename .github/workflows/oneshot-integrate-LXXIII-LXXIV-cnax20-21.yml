@@ -1,5 +1,6 @@
 name: one-shot integrate LXXIII LXXIV C-NAX-20 C-NAX-21
 
+# final trigger 2026-08-11
 on:
   push:
     branches: [main]
