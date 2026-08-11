@@ -9,7 +9,7 @@
 
 ## Función de esta página
 
-Esta página orienta hacia la arquitectura filosófica y cognitiva sin congelar en la Wiki estados internos que cambian. El estado vigente del núcleo aparece únicamente en el sidebar.
+Esta página orienta hacia la arquitectura filosófica y cognitiva sin congelar en la Wiki estados internos que cambian. El estado vigente del núcleo se mantiene en la rama canónica viva; la Wiki ofrece rutas estables hacia sus fuentes.
 
 ## Filosofía Arquetípica Neodialéctica™
 
@@ -21,6 +21,7 @@ Fuentes:
 - [PORTADA](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/PORTADA.md)
 - [Manifiestos](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
 - [Neoaxiomas™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/neoaxiomas/README.md)
+- [NeoGenealogía™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md)
 - [Fragmentos históricos](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/tree/main/fragmentos)
 
 ## Qué es NEOCore™ dentro de la capa pública
@@ -31,8 +32,25 @@ Para entender sus relaciones, consulta:
 
 - [Mapa relacional de manifiestos y trabajo aplicado](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md)
 - [Síntesis Abierta™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/README.md)
+- [NeoGenealogía™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md)
 - [WEB4™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/web4/README.md)
 - [Proyección](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/proyeccion/README.md)
+
+## NeoGenealogía™
+
+NeoGenealogía™ extiende **Memoria, Genealogía y Trazabilidad™** hacia el contraste histórico y externo. Su función es detectar y distinguir antecedentes, convergencias independientes, derivaciones demostrables, contraejemplos y falsos pares sin apropiación retrospectiva.
+
+Un antecedente bien documentado puede reducir una afirmación de novedad del propio marco. Eso se considera **corrección genealógica**, no una amenaza.
+
+```text
+ANTECEDENTE ≠ DERIVACIÓN
+CONVERGENCIA ≠ COPIA
+PRECEDENCIA ≠ COMPLETITUD
+SIMILITUD ≠ EQUIVALENCIA
+NOVEDAD DE UNA PARTE ≠ NOVEDAD DEL SISTEMA
+```
+
+Primer caso abierto: [PROTO-ND-001 · Asilomar 1974–1975, Asilomar AI 2017 y Pausa Competente™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md) · [Síntesis Abierta #136](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136).
 
 ## Dirección humana e IA
 
@@ -50,6 +68,9 @@ NEOAXIOMAS™
 SAN™
 → método de contraste y recomposición
 
+NEOGENEALOGÍA™
+→ antecedentes + convergencias + contraejemplos + calibración de novedad
+
 NEOCore™
 → memoria + relación + continuidad + síntesis
 
@@ -65,7 +86,7 @@ Cada término tiene relaciones con los demás, pero ninguno equivale por sí sol
 
 ## Purpose of this page
 
-This page points toward the philosophical and cognitive architecture without freezing changing internal states in the Wiki. The current core state appears only in the sidebar.
+This page points toward the philosophical and cognitive architecture without freezing changing internal states in the Wiki. The current core state evolves on the living canonical branch; the Wiki provides stable routes to its sources.
 
 ## Archetypal Neodialectical Philosophy™
 
@@ -77,6 +98,7 @@ Sources:
 - [COVER](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/COVER.md)
 - [Manifestos](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md)
 - [Neoaxioms™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/neoaxiomas/README.md)
+- [NeoGenealogy™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md)
 - [Historical fragments](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/tree/main/fragments)
 
 ## What NEOCore™ means in the public layer
@@ -87,8 +109,25 @@ To understand its relations, consult:
 
 - [Relational map of manifestos and applied work](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md)
 - [Open Synthesis™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/README.md)
+- [NeoGenealogy™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md)
 - [WEB4™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/web4/README.md)
 - [Projection](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/proyeccion/README.md)
+
+## NeoGenealogy™
+
+NeoGenealogy™ extends **Memory, Genealogy and Traceability™** into historical and external scrutiny. Its function is to detect and distinguish antecedents, independent convergences, demonstrable derivations, counterexamples and false pairs without retrospective appropriation.
+
+A well-documented antecedent may reduce a novelty claim made by the framework itself. That is treated as **genealogical correction**, not as a threat.
+
+```text
+ANTECEDENT ≠ DERIVATION
+CONVERGENCE ≠ COPYING
+PRECEDENCE ≠ COMPLETENESS
+SIMILARITY ≠ EQUIVALENCE
+NOVELTY OF A PART ≠ NOVELTY OF THE SYSTEM
+```
+
+First open case: [PROTO-ND-001 · Asilomar 1974–1975, Asilomar AI 2017 and Competent Pause™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md) · [Open Synthesis #136](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136).
 
 ## Human direction and AI
 
@@ -103,8 +142,11 @@ MANIFESTOS
 NEOAXIOMS™
 → high-stability principles open to revision
 
-SAN™
+OPEN SYNTHESIS™
 → method of challenge and recomposition
+
+NEOGENEALOGY™
+→ antecedents + convergences + counterexamples + novelty calibration
 
 NEOCore™
 → memory + relation + continuity + synthesis
