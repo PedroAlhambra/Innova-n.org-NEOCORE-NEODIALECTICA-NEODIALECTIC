@@ -1,0 +1,43 @@
+from pathlib import Path
+import re
+
+ROOT=Path('.').resolve()
+MIDX=ROOT/'manifiestos/README.md'
+SYN=ROOT/'propuestas/sintesis-abierta/README.md'
+ROW=re.compile(r'^- \*\*([IVXLCDM]+)\*\* · \[([^\]]+)\]\(([^)]+\.md)\)(.*)$',re.M)
+ISSUE=re.compile(r'https://github\.com/PedroAlhambra/Innova-n\.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/(\d+)')
+
+idx=MIDX.read_text(encoding='utf-8')
+rows=ROW.findall(idx)
+if not rows:
+    raise SystemExit('No finite manifesto rows found')
+roman,label,href,suffix=rows[-1]
+count=len(rows)
+p=ROOT/'manifiestos'/href
+front=p.read_text(encoding='utf-8').split('# ES ·',1)[0]
+issues=ISSUE.findall(front)
+if not issues:
+    raise SystemExit(f'No manifesto synthesis issue found for {roman}')
+issue=issues[0]
+issue_url=f'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/{issue}'
+
+latest=(f'> ## 🔴 ÚLTIMO MANIFIESTO FINITO ABIERTO A SÍNTESIS / LATEST FINITE MANIFESTO OPEN FOR SYNTHESIS\n>\n'
+        f'> **{roman} · {label}**\n>\n'
+        f'> **[{label}]({href}) · [Síntesis Abierta {roman} · #{issue} / Open Synthesis {roman} · #{issue}]({issue_url})**')
+
+idx=re.sub(r'> ## 🔴 ÚLTIMO MANIFIESTO FINITO ABIERTO A SÍNTESIS / LATEST FINITE MANIFESTO OPEN FOR SYNTHESIS\n>.*?(?=\n> ## ∞)',latest+'\n',idx,count=1,flags=re.S)
+idx=re.sub(r'\*\*Estado en este commit / State at this commit:\*\*.*$',
+           f'**Estado en este commit / State at this commit:** **{count} manifiestos finitos bilingües · I–{roman} + Manifiesto ∞ / {count} finite bilingual manifestos · I–{roman} + Manifesto ∞**  ',idx,count=1,flags=re.M)
+idx=re.sub(r'Índice completo I–[IVXLCDM]+ \+ ∞',f'Índice completo I–{roman} + ∞',idx)
+idx=re.sub(r'Complete index I–[IVXLCDM]+ \+ ∞',f'Complete index I–{roman} + ∞',idx)
+MIDX.write_text(idx,encoding='utf-8')
+
+syn=SYN.read_text(encoding='utf-8')
+syn=re.sub(r'^\*\*Cobertura actual / Current coverage:\*\*.*$',
+           f'**Cobertura actual / Current coverage:** **{count} manifiestos finitos · I–{roman} + Manifiesto ∞ · 14 Neoaxiomas™ · síntesis transversales, auditorías y proyectos / {count} finite manifestos · I–{roman} + Manifesto ∞ · 14 Neoaxioms™ · transversal syntheses, audits and projects**',syn,count=1,flags=re.M)
+slatest=(f'> ## 🔴 ÚLTIMO MANIFIESTO FINITO ABIERTO A SÍNTESIS / LATEST FINITE MANIFESTO OPEN FOR SYNTHESIS\n>\n'
+         f'> **{roman} · {label}**\n>\n'
+         f'> **[Leer {roman} / Read {roman}](../../manifiestos/{href}) · [Síntesis {roman} · #{issue} / Synthesis {roman} · #{issue}]({issue_url})**')
+syn=re.sub(r'> ## 🔴 ÚLTIMO MANIFIESTO FINITO ABIERTO A SÍNTESIS / LATEST FINITE MANIFESTO OPEN FOR SYNTHESIS\n>.*?(?=\n> ## ∞)',slatest+'\n',syn,count=1,flags=re.S)
+SYN.write_text(syn,encoding='utf-8')
+print(f'MANIFESTO_FRONTIER_HEADERS count={count} latest={roman} issue=#{issue}')
