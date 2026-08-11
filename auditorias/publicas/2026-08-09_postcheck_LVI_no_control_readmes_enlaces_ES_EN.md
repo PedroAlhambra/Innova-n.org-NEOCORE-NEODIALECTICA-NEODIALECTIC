@@ -5,9 +5,9 @@
 
 ## ES · Resultado
 
-- Archivos Markdown revisados: **323**.
+- Archivos Markdown revisados: **325**.
 - README/LEEME revisados: **18**.
-- Enlaces internos de ruta comprobados: **10593**.
+- Enlaces internos de ruta comprobados: **10631**.
 - Alias internos de GitHub Wiki reconocidos: **11**.
 - Enlaces externos inventariados sin comprobar disponibilidad remota: **1663**.
 - Enlaces sólo a ancla detectados: **388**.
@@ -28,14 +28,14 @@
 
 | Origen | Destino | Motivo |
 |---|---|---|
-| `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` | `./70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` | destino inexistente / missing target |
-| `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` | `./70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md` | `./72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md` | `./72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md` | destino inexistente / missing target |
 
 ## EN · Result
 
-- Markdown files reviewed: **323**.
+- Markdown files reviewed: **325**.
 - README/LEEME files reviewed: **18**.
-- Internal path links checked: **10593**.
+- Internal path links checked: **10631**.
 - GitHub Wiki extensionless page aliases recognised: **11**.
 - Canonical manifestos detected: **68 · I–LXVIII**.
 - Latest manifesto / synthesis: **LXVIII**.
