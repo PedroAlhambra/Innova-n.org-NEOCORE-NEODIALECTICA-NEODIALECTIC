@@ -1,122 +1,44 @@
 # Despliegue mínimo de la Wiki
 # Minimal Wiki deployment
 
-## Objetivo
+## Principio
 
-Reducir el mantenimiento manual de la Wiki a cuatro páginas estables y evitar que vuelva a convertirse en una copia paralela del repositorio.
+La fuente editable y trazable está en `wiki-source/`. La Wiki pública debe recibir estas páginas sin introducir estados paralelos ni números de versión fuera de la cabecera del sidebar.
 
-Reduce manual Wiki maintenance to four stable pages and prevent it from becoming a parallel copy of the repository again.
+The editable, traceable source lives in `wiki-source/`. The public Wiki should receive these pages without introducing parallel states or version numbers outside the sidebar header.
 
----
+## Archivos a proyectar / Files to project
 
-# ES · Procedimiento
+- `Home.md`
+- `Mapa_del_Marco.md`
+- `Filosofia_y_NEOCore.md`
+- `Manifiestos.md`
+- `Neoaxiomas.md`
+- `Sintesis_Abierta.md`
+- `Participar.md`
+- `Analisis_Neodialecticos_Publicos.md`
+- `Obras_y_Cultura.md`
+- `WEB4_y_Proyeccion.md`
+- `Procedencia_Trazabilidad_y_Legal.md`
+- `_Sidebar.md`
 
-## Cambios imprescindibles
+## Regla de nombres
 
-Realizar únicamente estas cuatro sustituciones en la Wiki pública:
+Los nombres de archivo deben conservarse al proyectarlos para que los enlaces internos de la Wiki sean estables.
 
-| Página Wiki | Fuente que debe copiarse |
-|---|---|
-| `Home` | [`wiki-source/Home.md`](./Home.md) |
-| `Manifiestos` | [`wiki-source/Manifiestos.md`](./Manifiestos.md) |
-| `Analisis_Neodialecticos_Publicos` | [`wiki-source/Analisis_Neodialecticos_Publicos.md`](./Analisis_Neodialecticos_Publicos.md) |
-| `_Sidebar` | [`wiki-source/_Sidebar.md`](./_Sidebar.md) |
+File names should be preserved when projecting them so that internal Wiki links remain stable.
 
-## Páginas antiguas
+## Postcheck mínimo / Minimum postcheck
 
-No es necesario borrar inmediatamente todas las páginas temáticas antiguas.
+1. Abrir Home / Open Home.
+2. Confirmar que el sidebar carga / Confirm sidebar loads.
+3. Recorrer todos los enlaces internos de las páginas nuevas / Follow all internal links on the new pages.
+4. Confirmar que la versión vigente aparece sólo arriba en `_Sidebar.md` / Confirm the current version appears only at the top of `_Sidebar.md`.
+5. Confirmar que los inventarios vivos remiten a índices canónicos del repositorio / Confirm living inventories point to canonical repository indexes.
+6. Confirmar que ES y EN mantienen estructura equivalente / Confirm ES and EN keep equivalent structure.
 
-1. Retirarlas de `_Sidebar` para que dejen de formar parte de la navegación principal.
-2. Mantenerlas temporalmente como archivo histórico cuando contengan información útil.
-3. No actualizarlas salvo que sean imprescindibles.
-4. Trasladar al repositorio cualquier contenido canónico que sólo exista en una página antigua.
-5. Cuando una página quede totalmente absorbida por el repositorio, puede eliminarse o conservarse con una nota de archivo.
+## Límite operativo
 
-Nota recomendada para páginas históricas:
+GitHub no ofrece una API REST de contenidos equivalente para editar la Wiki como si fuera el árbol normal del repositorio. Por eso `wiki-source/` es la fuente trazable; la proyección al repositorio Git de la Wiki requiere una operación Git con credenciales que permitan escribir en la Wiki.
 
-```markdown
-> **Página histórica no canónica.**
-> El contenido actualizado y versionado se conserva en el repositorio principal.
-> Consulte los enlaces de la página Home para acceder a la fuente vigente.
-```
-
-## Ritmo de mantenimiento
-
-Actualizar la Wiki únicamente cuando cambie:
-
-* la ruta de entrada;
-* la guía de lectura;
-* el mecanismo de participación;
-* o la navegación principal.
-
-No actualizarla por cada nuevo manifiesto, auditoría, análisis, edición o commit.
-
-## Verificación posterior
-
-Después de las cuatro sustituciones:
-
-1. abrir `Home`;
-2. probar los tres enlaces internos principales;
-3. comprobar la Sidebar en una página distinta;
-4. abrir los índices canónicos del repositorio;
-5. confirmar que ninguna página principal exige duplicar listados completos.
-
----
-
-# EN · Procedure
-
-## Required changes
-
-Perform only these four replacements in the public Wiki:
-
-| Wiki page | Source to copy |
-|---|---|
-| `Home` | [`wiki-source/Home.md`](./Home.md) |
-| `Manifiestos` | [`wiki-source/Manifiestos.md`](./Manifiestos.md) |
-| `Analisis_Neodialecticos_Publicos` | [`wiki-source/Analisis_Neodialecticos_Publicos.md`](./Analisis_Neodialecticos_Publicos.md) |
-| `_Sidebar` | [`wiki-source/_Sidebar.md`](./_Sidebar.md) |
-
-## Older pages
-
-There is no need to delete every older thematic page immediately.
-
-1. Remove them from `_Sidebar` so they are no longer part of primary navigation.
-2. Keep them temporarily as historical archives when they contain useful information.
-3. Do not update them unless necessary.
-4. Move to the repository any canonical content that exists only on an older page.
-5. When a page has been fully absorbed by the repository, it may be deleted or retained with an archive notice.
-
-Recommended notice for historical pages:
-
-```markdown
-> **Historical non-canonical page.**
-> Updated and versioned content is preserved in the main repository.
-> Use the links on the Home page to access the current source.
-```
-
-## Maintenance cadence
-
-Update the Wiki only when the following changes:
-
-* the entry route;
-* the reading guide;
-* the participation mechanism;
-* or primary navigation.
-
-Do not update it for every new manifesto, audit, analysis, edition or commit.
-
-## Post-deployment verification
-
-After the four replacements:
-
-1. open `Home`;
-2. test the three main internal links;
-3. check the Sidebar from another page;
-4. open the canonical repository indexes;
-5. confirm that no primary page requires complete lists to be duplicated.
-
----
-
-**Regla final / Final rule:**  
-**Repositorio = contenido canónico y commits. Wiki = guía de uso estable.**  
-**Repository = canonical content and commits. Wiki = stable usage guide.**
+GitHub does not provide an equivalent repository-contents REST API for editing the Wiki as part of the normal repository tree. Therefore `wiki-source/` is the traceable source; projection to the Wiki Git repository requires a Git operation with credentials that allow Wiki writes.
