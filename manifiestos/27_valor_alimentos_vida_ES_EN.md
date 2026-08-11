@@ -323,7 +323,7 @@ La relación documental indica afinidad conceptual, genealogía, contraste o apl
 
 Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. / You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta.
 
-**Última síntesis / Latest synthesis:** [LXXII · El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™](72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) · [Issue #122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122)  
+**Última síntesis / Latest synthesis:** [LXXIV · Asimetría de la Destrucción™ · Del Trol Humano al Bot / Asymmetry of Destruction™ · From the Human Troll to the Bot](74_asimetria_destruccion_trol_humano_bot_ES_EN.md) · [Issue #125](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/125)  
 **Seguimiento vivo / Living follow-up:** [seguir el marco / follow the framework](../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [registro de entrada / entry register](../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)  
 **Auditorías / Audits:** [LIII · Leónidas™](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo / protocol](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
 **Cómo aportar / How to contribute:** [protocolo general / general protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../auditorias/publicas/README.md) · [índice / index](../propuestas/sintesis-abierta/README.md)
@@ -345,7 +345,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 ## Navegación canónica / Canonical navigation
 
 ← **XXVI** · [Misericordia Universal Recíproca™ / Universal Reciprocal Mercy™](26_misericordia_universal_reciproca_ES_EN.md)  
-· [Índice I–LXXII / I–LXXII index](README.md) ·  
+· [Índice I–LXXIV / I–LXXIV index](README.md) ·  
 **XXVIII** · [Los Tesla™ / The Teslas™](28_los_tesla_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
@@ -369,7 +369,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 - **XLIV** · [Neowar™ · Contra la Adicción a la Guerra y por la Justicia del Bien Común / Neowar™ · Against War Addiction and for Common-Good Justice](./44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md)
 - **XLV** · [Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder / Neodialectical Multidimensionality™ · Against the One-Dimensional Reduction of the Human and Power](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
 - **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
-- **LXXII** · [El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™ · Strength, Desire, Power and Responsibility](./72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md)
+- **LXXIV** · [Asimetría de la Destrucción™ · Del Trol Humano al Bot / Asymmetry of Destruction™ · From the Human Troll to the Bot](./74_asimetria_destruccion_trol_humano_bot_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 

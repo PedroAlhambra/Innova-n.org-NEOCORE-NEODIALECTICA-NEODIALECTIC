@@ -818,7 +818,7 @@ Open questions:
 
 Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. / You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta.
 
-**Última síntesis / Latest synthesis:** [LXXII · El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™](LXXII_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) · [Issue #122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122)  
+**Última síntesis / Latest synthesis:** [LXXIV · Asimetría de la Destrucción™ · Del Trol Humano al Bot / Asymmetry of Destruction™ · From the Human Troll to the Bot](LXXIV_asimetria_destruccion_trol_humano_bot_ES_EN.md) · [Issue #125](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/125)  
 **Seguimiento vivo / Living follow-up:** [seguir el marco / follow the framework](../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [registro de entrada / entry register](../../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)  
 **Auditorías / Audits:** [LIII · Leónidas™](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo / protocol](../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
 **Cómo aportar / How to contribute:** [protocolo general / general protocol](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../../auditorias/publicas/README.md) · [índice / index](../../propuestas/sintesis-abierta/README.md)
@@ -840,7 +840,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 ## Navegación canónica / Canonical navigation
 
 ← **LIII** · [Leónidas™ · Defensor de la Síntesis y Auditoría Abierta](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)  
-· [Índice I–LXXII / I–LXXII index](../README.md) ·  
+· [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
 **LV** · [Ataque de las Micromáquinas™ / Attack of the Micromachines™](LV_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
@@ -864,7 +864,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 - **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
 - **LV** · [Manifiesto del Ataque de las Micromáquinas™ · Las Plagas de la Escala Invisible / Manifesto of the Attack of the Micromachines™ · The Plagues of the Invisible Scale](LV_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md)
 - **LXVI** · [NeoSinergia™ · Necesidad de Cooperación en Neowar™ Activa · Sistema MÉDICI™ · Leónidas–Cancerbero™ / NeoSynergy™ · Necessary Cooperation under Active Neowar™ · MÉDICI™ System · Leónidas–Cerberus™](LXVI_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
-- **LXVIII** · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species](LXVIII_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
+- **LXXIV** · [Asimetría de la Destrucción™ · Del Trol Humano al Bot / Asymmetry of Destruction™ · From the Human Troll to the Bot](LXXIV_asimetria_destruccion_trol_humano_bot_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 

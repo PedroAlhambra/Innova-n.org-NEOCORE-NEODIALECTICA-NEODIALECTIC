@@ -844,7 +844,7 @@ La relación documental indica afinidad conceptual, genealogía, contraste o apl
 
 Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. / You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta.
 
-**Última síntesis / Latest synthesis:** [LXXII · El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™](LXXII_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) · [Issue #122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122)  
+**Última síntesis / Latest synthesis:** [LXXIV · Asimetría de la Destrucción™ · Del Trol Humano al Bot / Asymmetry of Destruction™ · From the Human Troll to the Bot](LXXIV_asimetria_destruccion_trol_humano_bot_ES_EN.md) · [Issue #125](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/125)  
 **Seguimiento vivo / Living follow-up:** [seguir el marco / follow the framework](../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [registro de entrada / entry register](../../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)  
 **Auditorías / Audits:** [LIII · Leónidas™](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo / protocol](../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
 **Cómo aportar / How to contribute:** [protocolo general / general protocol](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../../auditorias/publicas/README.md) · [índice / index](../../propuestas/sintesis-abierta/README.md)
@@ -866,7 +866,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 ## Navegación canónica / Canonical navigation
 
 ← **XLV** · [Multidimensionalidad Neodialéctica™](XLV_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)  
-· [Índice I–LXXII / I–LXXII index](../README.md) ·  
+· [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
 **XLVII** · [El Odio de Neo0 hacia su Sino™](XLVII_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
@@ -891,7 +891,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 - **XLVII** · [El Odio de Neo0 hacia su Sino™ · The Goat, Sombra, Vínculo y Doble Cara de la Vida / Neo0's Hatred of His Fate™ · The Goat, Shadow, Bond and the Two Faces of Life](XLVII_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md)
 - **XLVIII** · [La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo / The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine](XLVIII_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
 - **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
-- **LXVIII** · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species](LXVIII_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
+- **LXXIV** · [Asimetría de la Destrucción™ · Del Trol Humano al Bot / Asymmetry of Destruction™ · From the Human Troll to the Bot](LXXIV_asimetria_destruccion_trol_humano_bot_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 

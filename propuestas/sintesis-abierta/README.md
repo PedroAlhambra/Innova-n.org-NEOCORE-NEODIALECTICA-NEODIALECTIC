@@ -2,7 +2,7 @@
 ## Neodialectical Open Synthesis™
 
 **Estado / Status:** **Síntesis iniciada / Synthesis Initiated · 2026-08-09**  
-**Cobertura actual / Current coverage:** **72 manifiestos finitos · I–LXXII + Manifiesto ∞ · 14 Neoaxiomas™ · síntesis transversales, auditorías y proyectos / 72 finite manifestos · I–LXXII + Manifesto ∞ · 14 Neoaxioms™ · transversal syntheses, audits and projects**
+**Cobertura actual / Current coverage:** **74 manifiestos finitos · I–LXXIV + Manifiesto ∞ · 14 Neoaxiomas™ · síntesis transversales, auditorías y proyectos / 74 finite manifestos · I–LXXIV + Manifesto ∞ · 14 Neoaxioms™ · transversal syntheses, audits and projects**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english) · **[Índice completo / Complete index](INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md)**
 
@@ -84,9 +84,9 @@ Cada Neoaxioma dispone de un espacio de contraste propio además de la matriz ge
 
 > ## 🔴 ÚLTIMO MANIFIESTO FINITO ABIERTO A SÍNTESIS / LATEST FINITE MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LXXII · El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™**
+> **LXXIV · Asimetría de la Destrucción™ · Del Trol Humano al Bot / Asymmetry of Destruction™ · From the Human Troll to the Bot**
 >
-> **[Leer LXXII / Read LXXII](../../manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) · [Síntesis LXXII · #122 / Synthesis LXXII · #122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122)**
+> **[Leer LXXIV / Read LXXIV](../../manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md) · [Síntesis LXXIV · #125 / Synthesis LXXIV · #125](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/125)**
 
 > ## ∞ · PUERTA ABIERTA PERMANENTE / PERMANENT OPEN DOOR
 >

@@ -529,7 +529,7 @@ Claims concerning specific platforms, organisations or groups must distinguish f
 ## Navegación canónica / Canonical navigation
 
 ← **LIX** · [Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana / Distributed Cognitive Custodianship™ · AI, Repair and Human Responsibility](LIX_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md)  
-· [Índice I–LXXII / I–LXXII index](../README.md) ·  
+· [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
 **LXI** · [Contra el Reduccionismo Matemático™ y por la Custodia Experimental Multiescalar™ / Against Mathematical Reductionism™ and for Multiscale Experimental Custodianship™](LXI_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->

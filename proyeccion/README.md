@@ -12,10 +12,10 @@
 
 > ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LXXII · El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™**
+> **LXXIV · Asimetría de la Destrucción™ · Del Trol Humano al Bot / Asymmetry of Destruction™ · From the Human Troll to the Bot**
 >
-> **[Leer LXXII / Read LXXII](../manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) · [Síntesis Abierta LXXII · #122 / Open Synthesis LXXII · #122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122)**  
-> [Seguir marco / Follow framework](SEGUIR_MARCO_SINTESIS_ES_EN.md) · [Registrar entrada / Register entry](../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Cómo aportar / How to contribute](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas / Public audits](../auditorias/publicas/README.md) · [72 manifiestos / manifestos · I–LXXII](../manifiestos/README.md)
+> **[Leer LXXIV / Read LXXIV](../manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md) · [Síntesis Abierta LXXIV · #125 / Open Synthesis LXXIV · #125](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/125)**  
+> [Seguir marco / Follow framework](SEGUIR_MARCO_SINTESIS_ES_EN.md) · [Registrar entrada / Register entry](../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Cómo aportar / How to contribute](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas / Public audits](../auditorias/publicas/README.md) · [74 manifiestos / manifestos · I–LXXIV](../manifiestos/README.md)
 
 <!-- NEO_LATEST_MANIFESTO_END -->
 
@@ -95,7 +95,7 @@ La falta de respuesta, de apoyo, de difusión o de adhesión no constituye por s
 
 Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. / You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta.
 
-**Última síntesis / Latest synthesis:** [LXXII · El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™](../manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) · [Issue #122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122)  
+**Última síntesis / Latest synthesis:** [LXXIV · Asimetría de la Destrucción™ · Del Trol Humano al Bot / Asymmetry of Destruction™ · From the Human Troll to the Bot](../manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md) · [Issue #125](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/125)  
 **Seguimiento vivo / Living follow-up:** [seguir el marco / follow the framework](SEGUIR_MARCO_SINTESIS_ES_EN.md) · [registro de entrada / entry register](../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)  
 **Auditorías / Audits:** [LIII · Leónidas™](../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo / protocol](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
 **Cómo aportar / How to contribute:** [protocolo general / general protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../auditorias/publicas/README.md) · [índice / index](../propuestas/sintesis-abierta/README.md)
