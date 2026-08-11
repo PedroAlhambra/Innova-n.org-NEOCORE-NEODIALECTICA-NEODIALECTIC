@@ -1,6 +1,6 @@
 name: sync-open-synthesis-network
 
-# Living frontier is derived dynamically from manifiestos/README.md and canonical registries.
+# Living frontier is derived dynamically from manifesto identities and canonical registries.
 on:
   workflow_dispatch:
   push:
@@ -12,18 +12,22 @@ on:
       - 'propuestas/sintesis-abierta/README.md'
       - 'propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md'
       - '.github/workflows/sync-open-synthesis-network.yml'
+      - '.github/scripts/register_manifesto_frontier.py'
       - '.github/scripts/register_manifestos_LXIII_LXVI.py'
       - '.github/scripts/normalize_manifesto_bilingual_names.py'
       - '.github/scripts/normalize_internal_link_aliases.py'
+      - '.github/scripts/sync_neoaxiom_candidates.py'
       - '.github/scripts/sync_open_synthesis_manifestos.py'
       - '.github/scripts/sync_canonical_manifestos.py'
       - '.github/scripts/normalize_manifesto_indices.py'
       - '.github/scripts/sync_root_navigation.py'
       - '.github/scripts/sync_manifesto_crossrefs.py'
       - '.github/scripts/sync_relations_frontier.py'
+      - '.github/scripts/sync_relations_lxxv.py'
       - '.github/scripts/audit_es_en_parity.py'
       - '.github/scripts/audit_markdown_links_readmes.py'
       - '.github/scripts/audit_manifesto_bilingual_structure.py'
+      - '.github/scripts/audit_manifesto_registry_completeness.py'
       - '.github/scripts/audit_relations_neocore.py'
 
 permissions:
@@ -40,12 +44,16 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+      - name: Register new finite manifesto frontier
+        run: python .github/scripts/register_manifesto_frontier.py
       - name: Normalize bilingual manifesto identities
         run: python .github/scripts/normalize_manifesto_bilingual_names.py
       - name: Normalize known internal link aliases
         run: python .github/scripts/normalize_internal_link_aliases.py
       - name: Register historical recent manifestos safely
         run: python .github/scripts/register_manifestos_LXIII_LXVI.py
+      - name: Synchronize Neoaxiomatic candidates
+        run: python .github/scripts/sync_neoaxiom_candidates.py
       - name: Synchronize Open Synthesis network
         run: python .github/scripts/sync_open_synthesis_manifestos.py
       - name: Normalize canonical indices
@@ -53,13 +61,17 @@ jobs:
       - name: Synchronize root navigation
         run: python .github/scripts/sync_root_navigation.py
       - name: Synchronize relational frontier
-        run: python .github/scripts/sync_relations_frontier.py
+        run: |
+          python .github/scripts/sync_relations_frontier.py
+          python .github/scripts/sync_relations_lxxv.py
       - name: Generate canonical manifesto representations
         run: python .github/scripts/sync_canonical_manifestos.py
       - name: Synchronize manifesto cross-references
         run: python .github/scripts/sync_manifesto_crossrefs.py
       - name: Regenerate canonical representations after cross-reference sync
         run: python .github/scripts/sync_canonical_manifestos.py
+      - name: Audit manifesto registry completeness
+        run: python .github/scripts/audit_manifesto_registry_completeness.py
       - name: Audit ES EN semantic parity
         run: python .github/scripts/audit_es_en_parity.py
       - name: Audit bilingual manifesto structure
@@ -70,6 +82,8 @@ jobs:
         run: python .github/scripts/audit_markdown_links_readmes.py
       - name: Show audit summaries
         run: |
+          echo '--- REGISTRY AUDIT ---'
+          cat auditorias/publicas/2026-08-12_auditoria_registro_canonico_manifiestos_ES_EN.md
           echo '--- LINK AUDIT ---'
           head -n 45 auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md
           echo '--- STRUCTURE AUDIT ---'
@@ -80,6 +94,12 @@ jobs:
         run: |
           python - <<'PY'
           from pathlib import Path
+          import json
+          registry=json.loads(Path('manifiestos/CANONICAL_FILENAMES.json').read_text(encoding='utf-8'))['entries']
+          n=len(registry)
+          reg=Path('auditorias/publicas/2026-08-12_auditoria_registro_canonico_manifiestos_ES_EN.md').read_text(encoding='utf-8')
+          if f'**Entradas canónicas / Canonical entries:** {n}' not in reg or '**Problemas / Problems:** 0' not in reg:
+              raise SystemExit('Manifesto registry is incomplete or inconsistent; publish aborted.')
           links=Path('auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md').read_text(encoding='utf-8')
           if '**Estado / Status:** **OK**' not in links:
               raise SystemExit('Generated documentary graph is not healthy; publish aborted.')
@@ -93,7 +113,7 @@ jobs:
               raise SystemExit('Bilingual manifesto identity/index asymmetry detected; publish aborted.')
           rel=Path('auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md').read_text(encoding='utf-8')
           required=[
-              '- Cobertura del mapa curado: **74/74**.',
+              f'- Cobertura del mapa curado: **{n}/{n}**.',
               '- Ausentes del mapa curado: **ninguno / none**.',
               '- Neoaxiomas sin Síntesis específica: **ninguno / none**.',
               '- Enlaces locales realmente no resueltos: **0**.',
@@ -102,6 +122,7 @@ jobs:
           missing=[x for x in required if x not in rel]
           if missing:
               raise SystemExit('Relational audit is incomplete: '+repr(missing))
+          print(f'MANIFESTO_REGISTRY=OK ({n})')
           print('DOCUMENTARY_GRAPH=OK')
           print('MATERIAL_PARITY=OK')
           print('BILINGUAL_STRUCTURE=OK')
