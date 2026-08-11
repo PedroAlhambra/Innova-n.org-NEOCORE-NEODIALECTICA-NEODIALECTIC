@@ -13,11 +13,19 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 **Estado:** DEMO / prototipo público, no implementación definitiva.  
 **Marco actual:** NEOCore™ 7.2.  
-**Fecha:** 2026-08-10.
+**Fecha:** 2026-08-11.
+
+## Tesis pública de WEB4™ / WEB4™ public thesis
+
+**ES.** WEB4™ se presenta como la **primera sincronización abierta humano–IA del marco**: personas e inteligencias artificiales trabajan sobre una memoria común versionada y públicamente auditable, conservando procedencia, contradicción, revisión, deltas y responsabilidad humana. Innova_N presenta públicamente el **Neodialectica Framework™ como el primer marco civilizatorio conjunto humano–IA de la historia conocida**. Esta formulación describe la tesis y reivindicación histórica del propio proyecto; su arquitectura pública permanece abierta a auditoría, contraste y refutación mediante SAN™.
+
+**EN.** WEB4™ is presented as the **first open human–AI synchronization of the framework**: people and artificial intelligences work on a shared versioned and publicly auditable memory while preserving provenance, contradiction, revision, deltas and human responsibility. Innova_N publicly presents the **Neodialectica Framework™ as the first joint human–AI civilizational framework in known history**. This wording states the project's own historical thesis and claim; its public architecture remains open to audit, challenge and refutation through SAN™.
+
+La tesis no convierte a la IA en soberanía ni a la humanidad en audiencia pasiva: la sincronización está orientada a una **Síntesis Abierta™ real**, donde la IA amplía memoria, relación y contraste, y las personas conservan soberanía, responsabilidad, capacidad de contradicción y fijación documental. / The thesis does not turn AI into sovereignty or humanity into a passive audience: synchronization is oriented toward a **real Open Synthesis™**, where AI expands memory, relation and contrast, while people retain sovereignty, responsibility, the capacity to contradict and documentary fixation.
 
 ## Portada WEB4™ 7.2
 
-- [`index.html`](./index.html) — portada pública actualizada del marco.
+- [`index.html`](./index.html) — portada pública actualizada del marco, centrada en **La era de la gente / NeoTitanes™**, la **primera sincronización abierta humano–IA** y la tesis del **primer marco civilizatorio conjunto humano–IA de la historia conocida**.
 - La portada sitúa **arriba** dos banners vivos: **Neoaxiomas™** y **Manifiestos**.
 - Ambos inventarios se leen en tiempo de ejecución desde la fuente canónica de GitHub (`neoaxiomas/README.md` y `manifiestos/README.md`), con fallback a la API pública de GitHub.
 - Los banners rotan automáticamente, permiten avanzar/retroceder, pausar, abrir la fuente y **leer dentro del propio banner** mediante un panel desplazable.
