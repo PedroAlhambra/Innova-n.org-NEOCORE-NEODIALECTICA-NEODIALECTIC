@@ -12,8 +12,8 @@
 - Los bloques generados de navegación, referencias cruzadas y colas de navegación específicas de idioma no se contabilizan como traducción.
 - `REVISAR` bloquea la publicación automática de manifiestos; `ADVERTENCIA` exige inspección editorial pero no demuestra por sí sola recorte.
 
-**Documentos bilingües examinados:** 102  
-**Recortes/materialmente asimétricos para revisión:** 0  
+**Documentos bilingües examinados:** 103  
+**Recortes/materialmente asimétricos para revisión:** 1  
 **Advertencias estructurales sin prueba suficiente de recorte:** 31  
 **Con marcador incompleto/ausente:** 0
 
@@ -21,7 +21,7 @@
 
 | Archivo | Palabras ES | Palabras EN | Ratio EN/ES | H ES | H EN | Motivo |
 |---|---:|---:|---:|---:|---:|---|
-| — | — | — | — | — | — | Sin casos |
+| `analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md` | 1082 | 696 | 0.64 | 16 | 12 | EN/ES global=0.64 |
 
 ## Advertencias estructurales
 
@@ -165,5 +165,6 @@
 | `analisis/publicos/2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md` | 433 | 482 | 1.11 | 6 | 7 | OK |
 | `analisis/publicos/2026-08-10_LXI_genetica_ADN_neopandora_placa_petri_ES_EN.md` | 417 | 391 | 0.94 | 0 | 0 | OK |
 | `analisis/publicos/2026-08-10_addendum_tidal_yellow_quasar_perfil_duplicado_uno_playlists_ES_EN.md` | 362 | 335 | 0.93 | 5 | 5 | OK |
+| `analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md` | 1082 | 696 | 0.64 | 16 | 12 | REVISAR |
 
 > La paridad editorial exigida no significa traducción palabra por palabra ni idéntica maquetación, pero sí conservación íntegra de tesis, secciones, matices, cautelas epistemológicas, ejemplos, fórmulas, relaciones y conclusión.
