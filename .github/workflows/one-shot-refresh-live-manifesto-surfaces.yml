@@ -1,5 +1,6 @@
 name: one-shot refresh live manifesto surfaces
 
+# second-push trigger after workflow registration
 on:
   push:
     branches: [main]
