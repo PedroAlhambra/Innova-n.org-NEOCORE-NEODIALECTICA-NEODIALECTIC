@@ -5,6 +5,7 @@ import re
 # Historical helper: it now only guarantees the registry entries it originally
 # introduced and normalises duplicates. It must never append LXVI after newer
 # manifestos, because the live collection already owns canonical ordering.
+# This file also acts as a safe trigger for the permanent Open-Synthesis sync.
 p = Path('manifiestos/CANONICAL_FILENAMES.json')
 data = json.loads(p.read_text(encoding='utf-8'))
 entries = data.setdefault('entries', {})
