@@ -24668,96 +24668,24 @@
   ],
   "publication_hubs": [
     {
-      "path": "difusion/2026-08-09_marco_tanda_01_ES_EN.md",
-      "manifestos": [
-        "L",
-        "V",
-        "XLII",
-        "XXXIV"
-      ]
-    },
-    {
-      "path": "anuncios/2026-08-06_SEGUNDA_OLEADA_MANIFIESTOS_NEOPANDORA_ES_EN.md",
-      "manifestos": [
-        "XIII"
-      ]
-    },
-    {
-      "path": "anuncios/2026-08-08_LII_CIUDADANIA_HUMANA_NEODIALECTICA_ES_EN.md",
-      "manifestos": [
-        "LII"
-      ]
-    },
-    {
-      "path": "anuncios/2026-08-07_OCTAVA_OLEADA_PROTECCION_INTEGRAL_INFANCIA_ES_EN.md",
-      "manifestos": [
-        "XXXVIII"
-      ]
-    },
-    {
-      "path": "anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md",
-      "manifestos": [
-        "XLII"
-      ]
-    },
-    {
-      "path": "anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md",
-      "manifestos": [
-        "XX",
-        "XXI",
-        "XXII",
-        "XXIII",
-        "XXIV"
-      ]
-    },
-    {
-      "path": "anuncios/2026-08-08_XLVII_ODIO_SINO_GOAT_SOMBRA_DOBLE_CARA_ES_EN.md",
-      "manifestos": [
-        "XLVII"
-      ]
-    },
-    {
-      "path": "anuncios/2026-08-08_XLVI_CERRAR_LA_HERIDA_ES_EN.md",
-      "manifestos": [
-        "XLVI"
-      ]
-    },
-    {
-      "path": "anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md",
-      "manifestos": [
-        "XXIX",
-        "XXV",
-        "XXVI",
-        "XXVII",
-        "XXVIII",
-        "XXX",
-        "XXXI",
-        "XXXII"
-      ]
-    },
-    {
-      "path": "anuncios/2026-08-07_QUINTA_OLEADA_TRANSICION_AUDITORIA_ATENCION_ES_EN.md",
-      "manifestos": [
-        "XXXIII",
-        "XXXIV",
-        "XXXV"
-      ]
-    },
-    {
-      "path": "anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md",
-      "manifestos": [
-        "V",
-        "XI",
-        "XXVI",
-        "XXXVI"
-      ]
-    },
-    {
       "path": "obras/README.md",
       "manifestos": [
         "LIII",
         "LXXV",
         "XLV"
+      ]
+    },
+    {
+      "path": "analisis/DIFUSION_MARCO_2026-08-09.md",
+      "manifestos": [
+        "L",
+        "XLII"
+      ]
+    },
+    {
+      "path": "analisis/INDEX.md",
+      "manifestos": [
+        "LII"
       ]
     },
     {
@@ -24778,29 +24706,6 @@
       ]
     },
     {
-      "path": "analisis/DIFUSION_MARCO_2026-08-09.md",
-      "manifestos": [
-        "L",
-        "XLII"
-      ]
-    },
-    {
-      "path": "analisis/INDEX.md",
-      "manifestos": [
-        "LII"
-      ]
-    },
-    {
-      "path": "analisis/README.md",
-      "manifestos": [
-        "LII",
-        "LIII",
-        "LXXV",
-        "XLV",
-        "XXXVIII"
-      ]
-    },
-    {
       "path": "analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md",
       "manifestos": [
         "IX",
@@ -24818,6 +24723,16 @@
       ]
     },
     {
+      "path": "analisis/README.md",
+      "manifestos": [
+        "LII",
+        "LIII",
+        "LXXV",
+        "XLV",
+        "XXXVIII"
+      ]
+    },
+    {
       "path": "proyeccion/README.md",
       "manifestos": [
         "LIII",
@@ -24825,15 +24740,208 @@
       ]
     },
     {
-      "path": "propuestas/sintesis-abierta/XLVII_ODIO_SINO_GOAT_SOMBRA_DOBLE_CARA.md",
+      "path": "anuncios/2026-08-07_OCTAVA_OLEADA_PROTECCION_INTEGRAL_INFANCIA_ES_EN.md",
+      "manifestos": [
+        "XXXVIII"
+      ]
+    },
+    {
+      "path": "anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md",
+      "manifestos": [
+        "XX",
+        "XXI",
+        "XXII",
+        "XXIII",
+        "XXIV"
+      ]
+    },
+    {
+      "path": "anuncios/2026-08-08_XLVI_CERRAR_LA_HERIDA_ES_EN.md",
+      "manifestos": [
+        "XLVI"
+      ]
+    },
+    {
+      "path": "anuncios/2026-08-07_QUINTA_OLEADA_TRANSICION_AUDITORIA_ATENCION_ES_EN.md",
+      "manifestos": [
+        "XXXIII",
+        "XXXIV",
+        "XXXV"
+      ]
+    },
+    {
+      "path": "anuncios/2026-08-08_LII_CIUDADANIA_HUMANA_NEODIALECTICA_ES_EN.md",
+      "manifestos": [
+        "LII"
+      ]
+    },
+    {
+      "path": "anuncios/2026-08-08_XLVII_ODIO_SINO_GOAT_SOMBRA_DOBLE_CARA_ES_EN.md",
       "manifestos": [
         "XLVII"
       ]
     },
     {
-      "path": "propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md",
+      "path": "anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md",
       "manifestos": [
+        "V",
+        "XI",
+        "XXVI",
+        "XXXVI"
+      ]
+    },
+    {
+      "path": "anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md",
+      "manifestos": [
+        "XXIX",
+        "XXV",
+        "XXVI",
+        "XXVII",
+        "XXVIII",
+        "XXX",
+        "XXXI",
+        "XXXII"
+      ]
+    },
+    {
+      "path": "anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md",
+      "manifestos": [
+        "XLII"
+      ]
+    },
+    {
+      "path": "anuncios/2026-08-06_SEGUNDA_OLEADA_MANIFIESTOS_NEOPANDORA_ES_EN.md",
+      "manifestos": [
+        "XIII"
+      ]
+    },
+    {
+      "path": "difusion/2026-08-09_marco_tanda_01_ES_EN.md",
+      "manifestos": [
+        "L",
+        "V",
+        "XLII",
+        "XXXIV"
+      ]
+    },
+    {
+      "path": "auditorias/publicas/2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md",
+      "manifestos": [
+        "XXXIV"
+      ]
+    },
+    {
+      "path": "auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md",
+      "manifestos": [
+        "LIII"
+      ]
+    },
+    {
+      "path": "auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md",
+      "manifestos": [
+        "I",
+        "III",
+        "IX",
+        "VII",
+        "XL",
+        "XXI",
+        "XXII",
+        "XXVIII",
+        "XXXIII",
+        "XXXIV",
+        "XXXVII"
+      ]
+    },
+    {
+      "path": "auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md",
+      "manifestos": [
+        "IX",
+        "VIII",
+        "XLI",
+        "XLIV",
+        "XLV",
+        "XLVI",
+        "XX",
+        "XXII",
+        "XXX",
+        "XXXIV",
         "XXXV"
+      ]
+    },
+    {
+      "path": "auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md",
+      "manifestos": [
+        "I",
+        "III",
+        "IX",
+        "VII",
+        "XL",
+        "XLIII",
+        "XXI",
+        "XXII",
+        "XXVIII",
+        "XXXIII",
+        "XXXIV",
+        "XXXVII"
+      ]
+    },
+    {
+      "path": "auditorias/publicas/README.md",
+      "manifestos": [
+        "LIII",
+        "LXXV"
+      ]
+    },
+    {
+      "path": "auditorias/publicas/2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md",
+      "manifestos": [
+        "XLIV",
+        "XXI",
+        "XXIII",
+        "XXXV"
+      ]
+    },
+    {
+      "path": "auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md",
+      "manifestos": [
+        "LIII"
+      ]
+    },
+    {
+      "path": "auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md",
+      "manifestos": [
+        "I",
+        "III",
+        "IX",
+        "VII",
+        "XL",
+        "XXI",
+        "XXII",
+        "XXVIII",
+        "XXXIII",
+        "XXXIV",
+        "XXXVII"
+      ]
+    },
+    {
+      "path": "auditorias/publicas/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md",
+      "manifestos": [
+        "IX",
+        "LIII",
+        "V",
+        "XLIII",
+        "XXI",
+        "XXII",
+        "XXX",
+        "XXXIV"
+      ]
+    },
+    {
+      "path": "propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md",
+      "manifestos": [
+        "IX",
+        "LIX",
+        "XLV"
       ]
     },
     {
@@ -24917,37 +25025,15 @@
       ]
     },
     {
-      "path": "propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md",
-      "manifestos": [
-        "IX"
-      ]
-    },
-    {
-      "path": "propuestas/sintesis-abierta/NEOCRONOS_RETORNO_TEMPORAL_TOKENIZACION_ES_EN.md",
-      "manifestos": [
-        "III",
-        "IX",
-        "VII",
-        "XXIII"
-      ]
-    },
-    {
       "path": "propuestas/sintesis-abierta/XLVI_CERRAR_LA_HERIDA.md",
       "manifestos": [
         "XLVI"
       ]
     },
     {
-      "path": "propuestas/sintesis-abierta/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md",
+      "path": "propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md",
       "manifestos": [
-        "IX",
-        "LIII",
-        "V",
-        "XLIII",
-        "XXI",
-        "XXII",
-        "XXX",
-        "XXXIV"
+        "XXXV"
       ]
     },
     {
@@ -24957,15 +25043,12 @@
       ]
     },
     {
-      "path": "propuestas/sintesis-abierta/2026-08-08_LII_ciudadania_humana_neodialectica_debate_ES_EN.md",
+      "path": "propuestas/sintesis-abierta/NEOCRONOS_RETORNO_TEMPORAL_TOKENIZACION_ES_EN.md",
       "manifestos": [
-        "LII"
-      ]
-    },
-    {
-      "path": "propuestas/sintesis-abierta/2026-08-09_LV_micromaquinas_plagas_escala_invisible_debate_ES_EN.md",
-      "manifestos": [
-        "LV"
+        "III",
+        "IX",
+        "VII",
+        "XXIII"
       ]
     },
     {
@@ -25045,31 +25128,40 @@
       ]
     },
     {
-      "path": "propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md",
+      "path": "propuestas/sintesis-abierta/2026-08-09_LV_micromaquinas_plagas_escala_invisible_debate_ES_EN.md",
+      "manifestos": [
+        "LV"
+      ]
+    },
+    {
+      "path": "propuestas/sintesis-abierta/2026-08-08_LII_ciudadania_humana_neodialectica_debate_ES_EN.md",
+      "manifestos": [
+        "LII"
+      ]
+    },
+    {
+      "path": "propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md",
+      "manifestos": [
+        "IX"
+      ]
+    },
+    {
+      "path": "propuestas/sintesis-abierta/XLVII_ODIO_SINO_GOAT_SOMBRA_DOBLE_CARA.md",
+      "manifestos": [
+        "XLVII"
+      ]
+    },
+    {
+      "path": "propuestas/sintesis-abierta/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md",
       "manifestos": [
         "IX",
-        "LIX",
-        "XLV"
-      ]
-    },
-    {
-      "path": "obras/idea/STARKDR_GRITAX_HISTORIA_DE_LAS_ESPECIES_ES_EN.md",
-      "manifestos": [
-        "XXXIII"
-      ]
-    },
-    {
-      "path": "obras/idea/RANSOL_RED_DEL_TIEMPO_ARBOLES_INVISIBLES_ETERNOS_ES_EN.md",
-      "manifestos": [
-        "LXII"
-      ]
-    },
-    {
-      "path": "obras/idea/README.md",
-      "manifestos": [
         "LIII",
-        "LXXV",
-        "XLV"
+        "V",
+        "XLIII",
+        "XXI",
+        "XXII",
+        "XXX",
+        "XXXIV"
       ]
     },
     {
@@ -25082,6 +25174,26 @@
       ]
     },
     {
+      "path": "obras/idea/README.md",
+      "manifestos": [
+        "LIII",
+        "LXXV",
+        "XLV"
+      ]
+    },
+    {
+      "path": "obras/idea/RANSOL_RED_DEL_TIEMPO_ARBOLES_INVISIBLES_ETERNOS_ES_EN.md",
+      "manifestos": [
+        "LXII"
+      ]
+    },
+    {
+      "path": "obras/idea/STARKDR_GRITAX_HISTORIA_DE_LAS_ESPECIES_ES_EN.md",
+      "manifestos": [
+        "XXXIII"
+      ]
+    },
+    {
       "path": "obras/idea/assets/README.md",
       "manifestos": [
         "LIII",
@@ -25090,185 +25202,11 @@
       ]
     },
     {
-      "path": "analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md",
+      "path": "analisis/auditorias/README.md",
       "manifestos": [
-        "IX",
-        "VI",
-        "VII",
-        "XLII",
-        "XXI",
-        "XXII",
-        "XXIII",
-        "XXIX",
-        "XXVIII",
-        "XXXI",
-        "XXXIV",
-        "XXXV"
-      ]
-    },
-    {
-      "path": "analisis/publicos/2026-08-09_prueba_operativa_minima_revision_ia_escalable_ES_EN.md",
-      "manifestos": [
-        "L",
-        "XLII",
-        "XXXIV"
-      ]
-    },
-    {
-      "path": "analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md",
-      "manifestos": [
-        "IX",
-        "VIII",
-        "XLI",
-        "XLIV",
-        "XLV",
-        "XLVI",
-        "XX",
-        "XXII",
-        "XXX",
-        "XXXIV",
-        "XXXV"
-      ]
-    },
-    {
-      "path": "analisis/publicos/2026-08-09_micromaquinas_plagas_escala_invisible_estado_real_ES_EN.md",
-      "manifestos": [
-        "LV"
-      ]
-    },
-    {
-      "path": "analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md",
-      "manifestos": [
-        "IX",
-        "VI",
-        "VII",
-        "XLII",
-        "XXI",
-        "XXII",
-        "XXIII",
-        "XXIX",
-        "XXVIII",
-        "XXXI",
-        "XXXIV",
-        "XXXV"
-      ]
-    },
-    {
-      "path": "analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md",
-      "manifestos": [
-        "XIV",
-        "XLII",
-        "XLVI",
-        "XXIII",
-        "XXVII",
-        "XXXI",
-        "XXXVIII"
-      ]
-    },
-    {
-      "path": "analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md",
-      "manifestos": [
-        "II",
-        "IV",
-        "IX",
-        "V",
-        "XLII",
-        "XLIII",
-        "XLV",
-        "XLVIII",
-        "XVIII",
-        "XX",
-        "XXII",
-        "XXIII",
-        "XXXIV",
-        "XXXIX"
-      ]
-    },
-    {
-      "path": "analisis/publicos/2026-08-08_estado_correo_difusion_idea_y_adhesiones_sintesis_ES_EN.md",
-      "manifestos": [
-        "XLVIII"
-      ]
-    },
-    {
-      "path": "analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md",
-      "manifestos": [
-        "IX",
-        "VI",
-        "VII",
-        "XLII",
-        "XXI",
-        "XXII",
-        "XXIII",
-        "XXIX",
-        "XXVIII",
-        "XXXI",
-        "XXXIV",
-        "XXXV"
-      ]
-    },
-    {
-      "path": "analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md",
-      "manifestos": [
-        "IX",
-        "VI",
-        "VII",
-        "XLII",
-        "XXI",
-        "XXII",
-        "XXIII",
-        "XXIX",
-        "XXVIII",
-        "XXXI",
-        "XXXIV",
-        "XXXV"
-      ]
-    },
-    {
-      "path": "analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md",
-      "manifestos": [
-        "I",
-        "III",
-        "IX",
-        "VII",
-        "XL",
-        "XXI",
-        "XXII",
-        "XXVIII",
-        "XXXIII",
-        "XXXIV",
-        "XXXVII"
-      ]
-    },
-    {
-      "path": "analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md",
-      "manifestos": [
-        "IX",
-        "VIII",
-        "XLI",
-        "XLIV",
-        "XLV",
-        "XLVI",
-        "XX",
-        "XXII",
-        "XXX",
-        "XXXIV",
-        "XXXV"
-      ]
-    },
-    {
-      "path": "analisis/publicos/2026-08-10_LXII_juego_sintesis_honor_starkdr_ransol_arboles_tiempo_ES_EN.md",
-      "manifestos": [
-        "LXII"
-      ]
-    },
-    {
-      "path": "analisis/publicos/2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md",
-      "manifestos": [
-        "LI",
-        "VII",
-        "XLVIII",
-        "XXI"
+        "LIII",
+        "LXXV",
+        "XLV"
       ]
     },
     {
@@ -25280,34 +25218,6 @@
         "LII",
         "VII",
         "XLIX"
-      ]
-    },
-    {
-      "path": "analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md",
-      "manifestos": [
-        "IX",
-        "LIX",
-        "LVIII",
-        "XLII",
-        "XX",
-        "XXXIV"
-      ]
-    },
-    {
-      "path": "analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md",
-      "manifestos": [
-        "IX",
-        "VI",
-        "VII",
-        "XLII",
-        "XXI",
-        "XXII",
-        "XXIII",
-        "XXIX",
-        "XXVIII",
-        "XXXI",
-        "XXXIV",
-        "XXXV"
       ]
     },
     {
@@ -25329,19 +25239,24 @@
       ]
     },
     {
-      "path": "analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md",
+      "path": "analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md",
       "manifestos": [
-        "LI",
+        "IX",
+        "VI",
+        "VII",
         "XLII",
-        "XLIII",
-        "XLV",
-        "XXXIII",
+        "XXI",
+        "XXII",
+        "XXIII",
+        "XXIX",
+        "XXVIII",
+        "XXXI",
         "XXXIV",
-        "XXXIX"
+        "XXXV"
       ]
     },
     {
-      "path": "analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md",
+      "path": "analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md",
       "manifestos": [
         "II",
         "IV",
@@ -25357,6 +25272,19 @@
         "XXIII",
         "XXXIV",
         "XXXIX"
+      ]
+    },
+    {
+      "path": "analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md",
+      "manifestos": [
+        "IX",
+        "LI",
+        "X",
+        "XIII",
+        "XIX",
+        "XLVIII",
+        "XVI",
+        "XX"
       ]
     },
     {
@@ -25393,16 +25321,11 @@
       ]
     },
     {
-      "path": "analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md",
+      "path": "analisis/publicos/2026-08-09_prueba_operativa_minima_revision_ia_escalable_ES_EN.md",
       "manifestos": [
-        "IX",
-        "LI",
-        "X",
-        "XIII",
-        "XIX",
-        "XLVIII",
-        "XVI",
-        "XX"
+        "L",
+        "XLII",
+        "XXXIV"
       ]
     },
     {
@@ -25430,32 +25353,19 @@
       ]
     },
     {
-      "path": "analisis/publicos/README.md",
+      "path": "analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md",
       "manifestos": [
-        "LII",
-        "LIII",
-        "LXXV",
-        "XLV",
-        "XXXVIII"
-      ]
-    },
-    {
-      "path": "analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md",
-      "manifestos": [
-        "II",
-        "IV",
         "IX",
-        "V",
-        "XLII",
-        "XLIII",
+        "VIII",
+        "XLI",
+        "XLIV",
         "XLV",
-        "XLVIII",
-        "XVIII",
+        "XLVI",
         "XX",
         "XXII",
-        "XXIII",
+        "XXX",
         "XXXIV",
-        "XXXIX"
+        "XXXV"
       ]
     },
     {
@@ -25475,103 +25385,68 @@
       ]
     },
     {
-      "path": "analisis/auditorias/README.md",
+      "path": "analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md",
       "manifestos": [
-        "LIII",
-        "LXXV",
-        "XLV"
-      ]
-    },
-    {
-      "path": "analisis/publicos/evidencias/README.md",
-      "manifestos": [
-        "LIII",
-        "LXXV",
-        "XLV"
-      ]
-    },
-    {
-      "path": "auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md",
-      "manifestos": [
-        "LIII"
-      ]
-    },
-    {
-      "path": "auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md",
-      "manifestos": [
-        "I",
-        "III",
         "IX",
+        "VI",
         "VII",
-        "XL",
+        "XLII",
         "XXI",
         "XXII",
+        "XXIII",
+        "XXIX",
         "XXVIII",
-        "XXXIII",
+        "XXXI",
         "XXXIV",
-        "XXXVII"
+        "XXXV"
       ]
     },
     {
-      "path": "auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md",
+      "path": "analisis/publicos/2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md",
       "manifestos": [
-        "I",
-        "III",
-        "IX",
+        "LI",
         "VII",
-        "XL",
+        "XLVIII",
+        "XXI"
+      ]
+    },
+    {
+      "path": "analisis/publicos/2026-08-10_LXII_juego_sintesis_honor_starkdr_ransol_arboles_tiempo_ES_EN.md",
+      "manifestos": [
+        "LXII"
+      ]
+    },
+    {
+      "path": "analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md",
+      "manifestos": [
+        "IX",
+        "VI",
+        "VII",
+        "XLII",
         "XXI",
         "XXII",
+        "XXIII",
+        "XXIX",
         "XXVIII",
-        "XXXIII",
+        "XXXI",
         "XXXIV",
-        "XXXVII"
+        "XXXV"
       ]
     },
     {
-      "path": "auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md",
+      "path": "analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md",
       "manifestos": [
-        "LIII"
-      ]
-    },
-    {
-      "path": "auditorias/publicas/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md",
-      "manifestos": [
-        "IX",
-        "LIII",
-        "V",
+        "LI",
+        "XLII",
         "XLIII",
-        "XXI",
-        "XXII",
-        "XXX",
-        "XXXIV"
-      ]
-    },
-    {
-      "path": "auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md",
-      "manifestos": [
-        "I",
-        "III",
-        "IX",
-        "VII",
-        "XL",
-        "XLIII",
-        "XXI",
-        "XXII",
-        "XXVIII",
+        "XLV",
         "XXXIII",
         "XXXIV",
-        "XXXVII"
+        "XXXIX"
       ]
     },
     {
-      "path": "auditorias/publicas/2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md",
-      "manifestos": [
-        "XXXIV"
-      ]
-    },
-    {
-      "path": "auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md",
+      "path": "analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md",
       "manifestos": [
         "IX",
         "VIII",
@@ -25587,19 +25462,144 @@
       ]
     },
     {
-      "path": "auditorias/publicas/README.md",
+      "path": "analisis/publicos/2026-08-08_estado_correo_difusion_idea_y_adhesiones_sintesis_ES_EN.md",
       "manifestos": [
-        "LIII",
-        "LXXV"
+        "XLVIII"
       ]
     },
     {
-      "path": "auditorias/publicas/2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md",
+      "path": "analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md",
       "manifestos": [
-        "XLIV",
-        "XXI",
+        "XIV",
+        "XLII",
+        "XLVI",
         "XXIII",
+        "XXVII",
+        "XXXI",
+        "XXXVIII"
+      ]
+    },
+    {
+      "path": "analisis/publicos/README.md",
+      "manifestos": [
+        "LII",
+        "LIII",
+        "LXXV",
+        "XLV",
+        "XXXVIII"
+      ]
+    },
+    {
+      "path": "analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md",
+      "manifestos": [
+        "IX",
+        "LIX",
+        "LVIII",
+        "XLII",
+        "XX",
+        "XXXIV"
+      ]
+    },
+    {
+      "path": "analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md",
+      "manifestos": [
+        "II",
+        "IV",
+        "IX",
+        "V",
+        "XLII",
+        "XLIII",
+        "XLV",
+        "XLVIII",
+        "XVIII",
+        "XX",
+        "XXII",
+        "XXIII",
+        "XXXIV",
+        "XXXIX"
+      ]
+    },
+    {
+      "path": "analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md",
+      "manifestos": [
+        "I",
+        "III",
+        "IX",
+        "VII",
+        "XL",
+        "XXI",
+        "XXII",
+        "XXVIII",
+        "XXXIII",
+        "XXXIV",
+        "XXXVII"
+      ]
+    },
+    {
+      "path": "analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md",
+      "manifestos": [
+        "II",
+        "IV",
+        "IX",
+        "V",
+        "XLII",
+        "XLIII",
+        "XLV",
+        "XLVIII",
+        "XVIII",
+        "XX",
+        "XXII",
+        "XXIII",
+        "XXXIV",
+        "XXXIX"
+      ]
+    },
+    {
+      "path": "analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md",
+      "manifestos": [
+        "IX",
+        "VI",
+        "VII",
+        "XLII",
+        "XXI",
+        "XXII",
+        "XXIII",
+        "XXIX",
+        "XXVIII",
+        "XXXI",
+        "XXXIV",
         "XXXV"
+      ]
+    },
+    {
+      "path": "analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md",
+      "manifestos": [
+        "IX",
+        "VI",
+        "VII",
+        "XLII",
+        "XXI",
+        "XXII",
+        "XXIII",
+        "XXIX",
+        "XXVIII",
+        "XXXI",
+        "XXXIV",
+        "XXXV"
+      ]
+    },
+    {
+      "path": "analisis/publicos/2026-08-09_micromaquinas_plagas_escala_invisible_estado_real_ES_EN.md",
+      "manifestos": [
+        "LV"
+      ]
+    },
+    {
+      "path": "analisis/publicos/evidencias/README.md",
+      "manifestos": [
+        "LIII",
+        "LXXV",
+        "XLV"
       ]
     }
   ],
