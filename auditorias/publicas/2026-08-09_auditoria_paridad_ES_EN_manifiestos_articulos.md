@@ -140,7 +140,7 @@
 | `manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md` | 1119 | 1199 | 1.07 | 19 | 20 | OK |
 | `manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md` | 1370 | 1398 | 1.02 | 15 | 16 | OK |
 | `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | 2112 | 2116 | 1.00 | 13 | 13 | OK |
-| `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` | 357 | 355 | 0.99 | 1 | 1 | OK |
+| `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` | 611 | 611 | 1.00 | 1 | 1 | OK |
 | `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` | 3237 | 3440 | 1.06 | 29 | 30 | OK |
 | `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` | 621 | 912 | 1.47 | 6 | 7 | OK |
 | `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` | 1285 | 1569 | 1.22 | 12 | 14 | OK |

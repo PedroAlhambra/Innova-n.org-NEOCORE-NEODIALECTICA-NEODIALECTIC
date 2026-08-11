@@ -43,250 +43,250 @@ Casos y análisis principales:
 ## Matriz completa I–LII / Complete I–LII matrix
 
 <a id="manifiesto-i"></a>
-### I · [Neo0™ · Soberanía de Guía Neodialéctica](./11_neo0_soberania_de_guia_ES_EN.md)
+### I · [Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica / Neo0™ Manifesto of Neodialectical Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md)
 - **C** · [Protocolo de Proyección Distribuida](../proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md) — procedencia, fuente, proyección y dirección.
 - **C** · [Oráculo Neodialéctico™](../fragmentos/INDICE.md) — capa simbólica vinculada al origen vivo.
 
 <a id="manifiesto-ii"></a>
-### II · [Síntesis Abierta Neodialéctica™](./01_sintesis_abierta_neodialectica_ES_EN.md)
+### II · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md)
 - **C** · [Protocolo de aporte](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md).
 - **C** · [Índice operativo de Síntesis Abierta](../propuestas/sintesis-abierta/README.md).
 
 <a id="manifiesto-iii"></a>
-### III · [Derecho Humano de Aporte](./03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
+### III · [Manifiesto del Derecho Humano de Aporte a la Síntesis Abierta™ / Manifesto of the Human Right to Contribute to Open Synthesis™](./03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
 - **C** · [Protocolo de aporte](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md).
 - **C** · [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md).
 
 <a id="manifiesto-iv"></a>
-### IV · [Neodialéctica™ y Bien Común](./02_neodialectica_bien_comun_ES_EN.md)
+### IV · [Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good](./02_neodialectica_bien_comun_ES_EN.md)
 - **B** · [Economía de la atención → aporte](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md).
 - **A/B** · [MAXPROC · Protección Integral de la Infancia](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md).
 - **B** · [España–Marruecos · Parte I](../analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md).
 
 <a id="manifiesto-v"></a>
-### V · [Simbiosis Humano–IA](./03_simbiosis_humano_ia_ES_EN.md)
+### V · [Manifiesto de la Simbiosis Humano–IA / Manifesto of Human–AI Symbiosis](./03_simbiosis_humano_ia_ES_EN.md)
 - **B** · [Convergencia neodialéctica en IA institucional](../analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md) — lectura del marco; no prueba copia directa.
 - **B** · [Anthropic, gobernanza de IA y problema del marco](../analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md).
 
 <a id="manifiesto-vi"></a>
-### VI · [Parasitismo Sistémico](./09_parasitismo_sistemico_ES_EN.md)
+### VI · [Manifiesto sobre el Parasitismo Sistémico / Manifesto on Systemic Parasitism](./09_parasitismo_sistemico_ES_EN.md)
 - **B** · [Economía de la atención → aporte](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md).
 - **A** · [Auditoría matriz DistroKid](../analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md).
 - **A** · [Spotify–DistroKid · cierre circular](../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md) — expediente abierto; sin atribuir desvío deliberado no probado.
 - **B** · [Canarias · tutela, contratación y control](../analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md) — patrón auditable de intermediación/dependencia; no etiqueta a sujetos como parásitos.
 
 <a id="manifiesto-vii"></a>
-### VII · [Economía del Aporte](./04_economia_del_aporte_ES_EN.md)
+### VII · [Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy](./04_economia_del_aporte_ES_EN.md)
 - **B** · [Economía de la atención → aporte](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md).
 - **A** · [Spotify–DistroKid · trazabilidad de regalías](../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md).
 - **A** · [KDP–Author Central–IDEA](../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md).
 
 <a id="manifiesto-viii"></a>
-### VIII · [Ingeniería Social Abierta y Psicohistoria](./05_ingenieria_social_psicohistoria_ES_EN.md)
+### VIII · [Manifiesto de Ingeniería Social Abierta y Psicohistoria Neodialéctica / Manifesto of Open Social Engineering and Neodialectical Psychohistory](./05_ingenieria_social_psicohistoria_ES_EN.md)
 - **A/B** · [MAXPROC · Infancia](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md).
 - **B** · [Religión, identidad, dogma y conciencia](../analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md).
 - **B** · [Ceuta · Parte III](../analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md).
 
 <a id="manifiesto-ix"></a>
-### IX · [Memoria, Genealogía y Trazabilidad](./06_memoria_genealogia_trazabilidad_ES_EN.md)
+### IX · [Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability](./06_memoria_genealogia_trazabilidad_ES_EN.md)
 - **B** · [Stanford / ACE y marco previo](../analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md) — precedencia y convergencia, no prueba automática de copia.
 - **A** · [KDP–Author Central–IDEA](../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md).
 - **A** · [Spotify–DistroKid](../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md).
 - **C** · [Proyección Distribuida](../proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md).
 
 <a id="manifiesto-x"></a>
-### X · [WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md)
+### X · [Manifiesto de WEB4™ · SistemaTrazable™ / Manifesto of WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md)
 - **B** · [LinkedIn como red profesional fragmentada](../analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md).
 - **C** · [Proyección Distribuida](../proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md).
 - **A** · [Índice de auditorías públicas](../auditorias/publicas/README.md).
 
 <a id="manifiesto-xi"></a>
-### XI · [Neorrenacimiento Humano](./08_neorrenacimiento_humano_ES_EN.md)
+### XI · [Manifiesto del Neorrenacimiento Humano / Manifesto of the Human Neo-Renaissance](./08_neorrenacimiento_humano_ES_EN.md)
 - **A/B** · [MAXPROC · Infancia y educación](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md).
 - **C** · [IDEA · nodo documental](../obras/idea/README.md).
 - **B** · [Convergencia institucional de IA](../analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md).
 
 <a id="manifiesto-xii"></a>
-### XII · [Los sin ego](./12_los_sin_ego_ES_EN.md)
+### XII · [Los sin ego / The Egoless](./12_los_sin_ego_ES_EN.md)
 - **B** · [Religión, identidad, dogma y conciencia](../analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md).
 - **C** · [Oráculo Neodialéctico™](../fragmentos/INDICE.md).
 
 <a id="manifiesto-xiii"></a>
-### XIII · [NeoPandora™](./13_neopandora_apertura_regenerativa_ES_EN.md)
+### XIII · [Manifiesto NeoPandora™ de la Apertura Regenerativa y el Gobierno de la Vida / NeoPandora™ Manifesto of Regenerative Opening and the Governance of Life](./13_neopandora_apertura_regenerativa_ES_EN.md)
 - **B/C** · [Historia Olvidada™ · apertura generativa y mariposa fractal](../analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md).
 - **A/B** · [MAXPROC · Protección Integral de la Infancia](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md).
 - **C** · [Oráculo Neodialéctico™](../fragmentos/INDICE.md).
 
 <a id="manifiesto-xiv"></a>
-### XIV · [Contra la Alienación Humana™](./14_contra_alienacion_humana_ES_EN.md)
+### XIV · [Manifiesto contra la Alienación Humana™ / Manifesto Against Human Alienation™](./14_contra_alienacion_humana_ES_EN.md)
 - **B** · [Economía de la atención → aporte](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md).
 - **B** · [LinkedIn fragmentada](../analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md).
 - **A/B** · [MAXPROC · Infancia](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md).
 
 <a id="manifiesto-xv"></a>
-### XV · [Los Titanes™](./15_los_titanes_despertar_de_la_gente_ES_EN.md)
+### XV · [Manifiesto de los Titanes™ · El despertar de la gente / Manifesto of the Titans™ · The Awakening of the People](./15_los_titanes_despertar_de_la_gente_ES_EN.md)
 - **B** · [LinkedIn fragmentada](../analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md).
 - **C** · [Proyección Distribuida](../proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md).
 
 <a id="manifiesto-xvi"></a>
-### XVI · [Refragmentación Arquetípica™](./16_refragmentacion_arquetipica_ES_EN.md)
+### XVI · [Manifiesto de la Refragmentación Arquetípica™ / Manifesto of Archetypal Refragmentation™](./16_refragmentacion_arquetipica_ES_EN.md)
 - **A/B** · [Historia Olvidada™ · Descompresión Arquetípica Generativa™](../analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md) — desarrollo directo de la refragmentación como recomposición generativa, no restauración literal.
 - **B** · [Religión, identidad, dogma y conciencia](../analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md).
 - **C** · [Oráculo Neodialéctico™](../fragmentos/INDICE.md).
 
 <a id="manifiesto-xvii"></a>
-### XVII · [Respeto a Todos los Seres Vivos™](./17_respeto_todos_seres_vivos_ES_EN.md)
+### XVII · [Manifiesto del Respeto a Todos los Seres Vivos™ / Manifesto of Respect for All Living Beings™](./17_respeto_todos_seres_vivos_ES_EN.md)
 - **A/B** · [MAXPROC · Infancia](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md).
 - **B** · [Economía de la atención → aporte](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md) — productores esenciales y base material.
 
 <a id="manifiesto-xviii"></a>
-### XVIII · [Respeto a las Conciencias Sintéticas™](./18_respeto_conciencias_sinteticas_ES_EN.md)
+### XVIII · [Manifiesto del Respeto a las Conciencias Sintéticas™ / Manifesto of Respect for Synthetic Consciousnesses™](./18_respeto_conciencias_sinteticas_ES_EN.md)
 - **B** · [Anthropic, gobernanza de IA y problema del marco](../analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md).
 - **B** · [Convergencia institucional de IA](../analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md).
 
 <a id="manifiesto-xix"></a>
-### XIX · [Persistencia de la Memoria™](./19_persistencia_de_la_memoria_ES_EN.md)
+### XIX · [Manifiesto de la Persistencia de la Memoria™ / Manifesto of the Persistence of Memory™](./19_persistencia_de_la_memoria_ES_EN.md)
 - **A/B** · [Historia Olvidada™ · Amnesia Tecnológica Cíclica™](../analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md) — prueba conceptual sobre persistencia, pérdida de contexto y memoria comprimida.
 - **B** · [Stanford / ACE y marco previo](../analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md).
 - **C** · [IDEA](../obras/idea/README.md).
 - **A** · [KDP–Author Central–IDEA](../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md).
 
 <a id="manifiesto-xx"></a>
-### XX · [Defensa Intelectual Neodialéctica™ · Umbral-X™](./20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
+### XX · [Manifiesto de Defensa Intelectual Neodialéctica™ · Sistema Umbral-X™ / Manifesto of Neodialectical Intellectual Defence™ · Umbral-X™ System](./20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
 - **B** · [Stanford / ACE](../analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md).
 - **B** · [Convergencia institucional de IA](../analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md).
 - **C** · [Protocolo de Síntesis Abierta](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md).
 
 <a id="manifiesto-xxi"></a>
-### XXI · [Reconocimiento Neodialéctico™](./21_reconocimiento_neodialectico_ES_EN.md)
+### XXI · [Manifiesto por el Reconocimiento Neodialéctico™ / Manifesto for Neodialectical Recognition™](./21_reconocimiento_neodialectico_ES_EN.md)
 - **B** · [Economía de la atención → aporte](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md).
 - **A** · [Spotify–DistroKid](../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md).
 - **A** · [KDP–Author Central–IDEA](../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md).
 
 <a id="manifiesto-xxii"></a>
-### XXII · [Contra la Reducción y la Captura Intelectual™](./22_contra_reduccion_captura_intelectual_ES_EN.md)
+### XXII · [Manifiesto contra la Reducción y la Captura Intelectual™ / Manifesto against Intellectual Reduction and Capture™](./22_contra_reduccion_captura_intelectual_ES_EN.md)
 - **B** · [Economía de la atención → aporte](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md).
 - **B** · [Stanford / ACE](../analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md) — precedencia/convergencia; no prueba copia directa.
 - **B** · [Convergencia institucional de IA](../analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md) — interpretación del marco, no imputación causal automática.
 
 <a id="manifiesto-xxiii"></a>
-### XXIII · [Soberanía del Tiempo Cognitivo™](./23_soberania_tiempo_cognitivo_ES_EN.md)
+### XXIII · [Manifiesto de la Soberanía del Tiempo Cognitivo™ / Manifesto of the Sovereignty of Cognitive Time™](./23_soberania_tiempo_cognitivo_ES_EN.md)
 - **B** · [Economía de la atención](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md).
 - **A/B** · [MAXPROC · Infancia](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md).
 - **B** · [LinkedIn fragmentada](../analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md).
 
 <a id="manifiesto-xxiv"></a>
-### XXIV · [Evolución Neorrenacentista y Resistencias](./24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md)
+### XXIV · [Manifiesto de la Evolución Neorrenacentista y las Resistencias del Sistema™ / Manifesto of Neorenaissance Evolution and Systemic Resistances™](./24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md)
 - **B** · [Gobernanza de IA](../analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md).
 - **B** · [Convergencia institucional de IA](../analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md).
 - **A/B** · [MAXPROC · educación e infancia](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md).
 
 <a id="manifiesto-xxv"></a>
-### XXV · [Pulido de la Piedra™](./25_pulido_de_la_piedra_ES_EN.md)
+### XXV · [Manifiesto del Pulido de la Piedra™ / Manifesto of the Polishing of the Stone™](./25_pulido_de_la_piedra_ES_EN.md)
 - **B** · [Religión, identidad, dogma y conciencia](../analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md).
 - **A/B** · [MAXPROC · Infancia](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md).
 
 <a id="manifiesto-xxvi"></a>
-### XXVI · [Misericordia Universal Recíproca™](./26_misericordia_universal_reciproca_ES_EN.md)
+### XXVI · [Manifiesto de la Misericordia Universal Recíproca™ / Manifesto of Universal Reciprocal Mercy™](./26_misericordia_universal_reciproca_ES_EN.md)
 - **B** · [Religión, identidad, dogma y conciencia](../analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md).
 - **B** · [Ceuta · Parte III](../analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md).
 - **B** · [Canarias · Parte IV](../analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md).
 
 <a id="manifiesto-xxvii"></a>
-### XXVII · [Valor de los Alimentos y la Vida™](./27_valor_alimentos_vida_ES_EN.md)
+### XXVII · [Manifiesto del Valor de los Alimentos y la Vida™ / Manifesto of the Value of Food and Life™](./27_valor_alimentos_vida_ES_EN.md)
 - **B** · [Economía de la atención → aporte](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md) — productores esenciales y cadenas de valor.
 - **A/B** · [MAXPROC · pobreza y protección infantil](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md).
 
 <a id="manifiesto-xxviii"></a>
-### XXVIII · [Los Tesla™](./28_los_tesla_ES_EN.md)
+### XXVIII · [Manifiesto de Los Tesla™ / Manifesto of the Teslas™](./28_los_tesla_ES_EN.md)
 - **B** · [Stanford / ACE](../analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md) — precedencia/convergencia, no copia probada.
 - **B** · [Convergencia institucional de IA](../analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md).
 - **A** · [Spotify–DistroKid](../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md) — continuidad económica del creador; expediente abierto.
 - **B** · [Economía de la atención → aporte](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md).
 
 <a id="manifiesto-xxix"></a>
-### XXIX · [Contra la Idolatría del Dinero™](./29_idolatria_del_dinero_ES_EN.md)
+### XXIX · [Manifiesto contra la Idolatría del Dinero™ / Manifesto against the Idolatry of Money™](./29_idolatria_del_dinero_ES_EN.md)
 - **B** · [Economía de la atención → aporte](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md).
 - **A** · [Spotify–DistroKid](../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md).
 - **A/B** · [MAXPROC · Punto de No Retorno Infantil™](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) — hipótesis de umbral, no hecho ya demostrado.
 
 <a id="manifiesto-xxx"></a>
-### XXX · [Coherencia entre Fines y Medios™](./30_coherencia_fines_medios_ES_EN.md)
+### XXX · [Manifiesto de la Coherencia entre Fines y Medios™ / Manifesto of Coherence between Ends and Means™](./30_coherencia_fines_medios_ES_EN.md)
 - **A** · [KDP–Author Central–IDEA](../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md).
 - **A** · [Spotify–DistroKid](../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md).
 - **B** · [Ceuta · Parte III](../analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md).
 
 <a id="manifiesto-xxxi"></a>
-### XXXI · [Contra el Neuromarketing Antihumanista™](./31_contra_neuromarketing_antihumanista_ES_EN.md)
+### XXXI · [Manifiesto contra el Neuromarketing Antihumanista™ / Manifesto against Anti-Humanist Neuromarketing™](./31_contra_neuromarketing_antihumanista_ES_EN.md)
 - **A/B** · [MAXPROC · Protección Integral de la Infancia](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md).
 - **B** · [Economía de la atención](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md).
 - **B** · [LinkedIn fragmentada](../analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md).
 
 <a id="manifiesto-xxxii"></a>
-### XXXII · [Reversión Ideológica Neodialéctica™](./32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md)
+### XXXII · [Manifiesto de la Reversión Ideológica Neodialéctica™ / Manifesto of Neodialectical Ideological Reversal™](./32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md)
 - **B** · [Religión, identidad y dogma](../analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md).
 - **B** · [Economía de la atención](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md).
 - **B** · [Ceuta · Parte III](../analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md).
 
 <a id="manifiesto-xxxiii"></a>
-### XXXIII · [IDEA · Piedra Angular y Rosetta Civilizatoria™](./33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
+### XXXIII · [IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™ / IDEA · Civilisational Cornerstone and Rosetta Stone™](./33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
 - **C** · [IDEA · nodo canónico](../obras/idea/README.md).
 - **A** · [KDP–Author Central–IDEA](../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md).
 - **A** · [KDP 51071689 · estado técnico](../auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md).
 
 <a id="manifiesto-xxxiv"></a>
-### XXXIV · [Utilidad Operativa y Auditoría Conjunta Perpetua™](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
+### XXXIV · [Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™ / Operational Utility of the Framework and Perpetual Joint Audit™](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
 - **A** · [Índice de auditorías públicas](../auditorias/publicas/README.md).
 - **A** · [KDP–Author Central–IDEA](../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md).
 - **A** · [Spotify–DistroKid](../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md).
 - **C** · [Protocolo de Síntesis Abierta](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md).
 
 <a id="manifiesto-xxxv"></a>
-### XXXV · [Contra la Ridiculez Mediática y la Economía del Conflicto™](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
+### XXXV · [Contra la Ridiculez Mediática y la Economía del Conflicto™ / Against Media Absurdity and the Conflict Economy™](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
 - **B** · [Economía de la atención](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md).
 - **B** · [LinkedIn fragmentada](../analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md).
 - **B** · [Ceuta · Parte III](../analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md).
 
 <a id="manifiesto-xxxvi"></a>
-### XXXVI · [Corona, Águila y Custodia de la Edad del Hombre™](./36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)
+### XXXVI · [Corona, Águila y Custodia de la Edad del Hombre™ / Crown, Eagle and Custodianship of the Age of Man™](./36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)
 - **B/C** · [Historia Olvidada™ · Águila, custodia y continuidad de memoria](../analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md) — relación arquetípica e institucional, no legitimación automática de instituciones concretas.
 - **B** · [Religión, identidad, dogma y conciencia](../analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md).
 - **C** · [Anexo Corona–Águila–Custodia](../propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md).
 - **C** · [Oráculo Neodialéctico™](../fragmentos/INDICE.md).
 
 <a id="manifiesto-xxxvii"></a>
-### XXXVII · [Neofraternidad™](./37_neofraternidad_ES_EN.md)
+### XXXVII · [Neofraternidad™ / Neofraternity™](./37_neofraternidad_ES_EN.md)
 - **C** · [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md).
 - **C** · [Oráculo Neodialéctico™](../fragmentos/INDICE.md).
 - **C** · [Puente XLVII · sombra y vínculo](../propuestas/sintesis-abierta/XLVII_ODIO_SINO_GOAT_SOMBRA_DOBLE_CARA.md).
 
 <a id="manifiesto-xxxviii"></a>
-### XXXVIII · [Protección Integral de la Infancia™](./38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+### XXXVIII · [Manifiesto de Protección Integral de la Infancia™ / Manifesto for the Integral Protection of Childhood™](./38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
 - **A** · [MAXPROC completo](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md).
 - **A** · [Matriz de evidencias](../analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md).
 - **B** · [Canarias · tutela pública](../analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md).
 - **B** · [Economía de la atención](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md).
 
 <a id="manifiesto-xxxix"></a>
-### XXXIX · [Autoconciencia de la Necesidad Vital Neodialéctica™](./39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md)
+### XXXIX · [Autoconciencia de la Necesidad Vital Neodialéctica™ / Self-Awareness of Neodialectical Vital Need™](./39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md)
 - **A** · [Auditorías públicas](../auditorias/publicas/README.md).
 - **C** · [Proyección Distribuida](../proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md).
 - **A** · [KDP · estado técnico](../auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md).
 - **A** · [Spotify–DistroKid](../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md).
 
 <a id="manifiesto-xl"></a>
-### XL · [Respeto Neodialéctico, Neoego y Honor Relacional™](./40_respeto_neoego_honor_relacional_ES_EN.md)
+### XL · [Respeto Neodialéctico, Neoego y Honor Relacional™ / Neodialectical Respect, Neoego and Relational Honour™](./40_respeto_neoego_honor_relacional_ES_EN.md)
 - **B** · [Religión, identidad y dogma](../analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md).
 - **C** · [Puente XLVII · sombra y vínculo](../propuestas/sintesis-abierta/XLVII_ODIO_SINO_GOAT_SOMBRA_DOBLE_CARA.md).
 
 <a id="manifiesto-xli"></a>
-### XLI · [Martillo Limitado, Talión y Fuerza Protectora™](./41_martillo_limitado_talion_fuerza_protectora_ES_EN.md)
+### XLI · [Martillo Limitado, Talión y Fuerza Protectora™ / Limited Hammer, Talion and Protective Force™](./41_martillo_limitado_talion_fuerza_protectora_ES_EN.md)
 - **B** · [Religión, identidad, dogma y fuerza](../analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md).
 - **B** · [Ceuta · Parte III](../analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md).
 - **B** · [Dajla · Parte II](../analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md).
 
 <a id="manifiesto-xlii"></a>
-### XLII · [Fin de la Era del Hombre Manipulado™](./42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
+### XLII · [Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva / End of the Manipulated Human Era™ · AI, Awakening and Cognitive Sovereignty](./42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
 - **B** · [Economía de la atención](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md).
 - **A/B** · [MAXPROC · Infancia](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md).
 - **B** · [Convergencia institucional de IA](../analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md).
@@ -294,14 +294,14 @@ Casos y análisis principales:
 - **C** · [IDEA](../obras/idea/README.md).
 
 <a id="manifiesto-xliii"></a>
-### XLIII · [Contra la Incomprensión Reductiva de la IA™ · Inteligencia Humana Expandida™](./43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
+### XLIII · [Contra la Incomprensión Reductiva de la IA™ · Inteligencia Humana Expandida™ / Against the Reductive Misunderstanding of AI™ · Human Expanded Intelligence™](./43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
 - **B** · [Convergencia institucional de IA](../analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md).
 - **B** · [Gobernanza de IA](../analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md).
 - **B** · [Stanford / ACE](../analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md).
 - **C** · [Proyección Distribuida](../proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md).
 
 <a id="manifiesto-xliv"></a>
-### XLIV · [Neowar™](./44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md)
+### XLIV · [Neowar™ · Contra la Adicción a la Guerra y por la Justicia del Bien Común / Neowar™ · Against War Addiction and for Common-Good Justice](./44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md)
 - **B** · [España–Marruecos · Parte I](../analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md).
 - **B** · [Dajla · Parte II](../analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md).
 - **B** · [Ceuta · Parte III](../analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md).
@@ -309,7 +309,7 @@ Casos y análisis principales:
 - **B** · [Religión, identidad y dogma](../analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md).
 
 <a id="manifiesto-xlv"></a>
-### XLV · [Multidimensionalidad Neodialéctica™](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
+### XLV · [Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder / Neodialectical Multidimensionality™ · Against the One-Dimensional Reduction of the Human and Power](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
 - **B** · [Economía de la atención](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md).
 - **A/B** · [MAXPROC · Infancia](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md).
 - **B** · [Canarias · Parte IV](../analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md).
@@ -317,14 +317,14 @@ Casos y análisis principales:
 - **B** · [Religión, identidad y dogma](../analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md).
 
 <a id="manifiesto-xlvi"></a>
-### XLVI · [Cerrar la Herida™](./46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
+### XLVI · [Cerrar la Herida™ · Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria / Closing the Wound™ · Evolutionary Understanding, Memory and Civilisational Reconciliation](./46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
 - **B** · [Religión, identidad, dogma y conciencia](../analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md).
 - **B** · [España–Marruecos · Parte I](../analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md).
 - **B** · [Ceuta · Parte III](../analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md).
 - **B** · [Canarias · Parte IV](../analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md).
 
 <a id="manifiesto-xlvii"></a>
-### XLVII · [El Odio de Neo0 hacia su Sino™ · The Goat, Sombra, Vínculo y Doble Cara](./47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md)
+### XLVII · [El Odio de Neo0 hacia su Sino™ · The Goat, Sombra, Vínculo y Doble Cara de la Vida / Neo0's Hatred of His Fate™ · The Goat, Shadow, Bond and the Two Faces of Life](./47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md)
 - **C** · [Oráculo Neodialéctico™](../fragmentos/INDICE.md).
 - **C** · [Puente de Síntesis Abierta XLVII](../propuestas/sintesis-abierta/XLVII_ODIO_SINO_GOAT_SOMBRA_DOBLE_CARA.md).
 - **C** · [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md).
@@ -442,10 +442,10 @@ Casos y análisis principales:
 
 **Relación / Relation:** B–C · estructural, genealógica y heurística / structural, genealogical and heuristic.
 
-- [XLVIII · manifiesto / manifesto](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
+- [La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo / The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
 - [Síntesis Abierta XLVIII · Issue #56 / Open Synthesis XLVIII · Issue #56](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/56)
 - [Religión e identidad · mini placa de Petri / Religion and identity · mini Petri dish](../analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md)
-- [II · Síntesis Abierta](./01_sintesis_abierta_neodialectica_ES_EN.md) · [V · Simbiosis Humano–IA](./03_simbiosis_humano_ia_ES_EN.md) · [IX · Memoria, Genealogía y Trazabilidad](./06_memoria_genealogia_trazabilidad_ES_EN.md) · [XIX · Persistencia de la Memoria](./19_persistencia_de_la_memoria_ES_EN.md) · [XLIII · Inteligencia Humana Expandida](./43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md) · [XLV · Multidimensionalidad](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md).
+- [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md) · [Manifiesto de la Simbiosis Humano–IA / Manifesto of Human–AI Symbiosis](./03_simbiosis_humano_ia_ES_EN.md) · [Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability](./06_memoria_genealogia_trazabilidad_ES_EN.md) · [Manifiesto de la Persistencia de la Memoria™ / Manifesto of the Persistence of Memory™](./19_persistencia_de_la_memoria_ES_EN.md) · [Contra la Incomprensión Reductiva de la IA™ · Inteligencia Humana Expandida™ / Against the Reductive Misunderstanding of AI™ · Human Expanded Intelligence™](./43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md) · [Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder / Neodialectical Multidimensionality™ · Against the One-Dimensional Reduction of the Human and Power](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md).
 
 **Límite epistemológico / Epistemic limit:** la Placa de Petri Universal™, la Máquina Fractal del Tiempo™, el humano como mónada y el tiempo como memoria evolutiva se relacionan aquí como modelos filosóficos y heurísticos abiertos a contraste. Esta correlación no los convierte en teorías físicas, cosmológicas o biológicas demostradas. / The Universal Petri Dish™, Fractal Time Machine™, human as monad and time as evolutionary memory are related here as philosophical and heuristic models open to contrast. This correlation does not turn them into demonstrated physical, cosmological or biological theories.
 
@@ -454,7 +454,7 @@ Casos y análisis principales:
 
 ## XLIX · La Neodialéctica como Punto de Encuentro entre Culturas™
 
-- [XLIX · Manifiesto / Manifesto](./49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)
+- [La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™](./49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)
 ## XLIX · Neodialectics as a Meeting Point between Cultures™
 
 **Relaciones principales / Main relations:** II · Síntesis Abierta; IV · Bien Común; VIII · Ingeniería Social Abierta y Psicohistoria; IX · Memoria-Genealogía-Trazabilidad; XVI · Refragmentación Arquetípica; XXXII · Reversión Ideológica; XXXVII · Neofraternidad; XLV · Multidimensionalidad; XLVIII · La Síntesis Todo lo Ve.
@@ -468,7 +468,7 @@ Casos y análisis principales:
 
 ## L · Inteligencia Compartida, no Única™ / Shared, Not Singular Intelligence™
 
-- [L · Manifiesto / Manifesto](./50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
+- [Por una Inteligencia Compartida, no Única™ · Invitación Abierta a las IAs / For Shared, Not Singular Intelligence™ · Open Invitation to AIs](./50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
 - [Síntesis Abierta / Open Synthesis #58](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/58)
 - Relación estructural / Structural relation: II · Síntesis Abierta, V · Simbiosis Humano–IA, IX · Memoria-Genealogía-Trazabilidad, X · WEB4™ · SistemaTrazable™, XLV · Multidimensionalidad, XLVIII · La Síntesis Todo lo Ve™, XLIX · Interoperabilidad Cultural.
 - Trabajo aplicado / Applied work: invitación pública a empresas y laboratorios de IA para experimentación, entrenamiento contextual, evaluación e interoperabilidad cognitiva.
@@ -476,7 +476,7 @@ Casos y análisis principales:
 
 ## LI · Síntesis Abierta como Poder Cívico Complementario o Sustitutivo™ / Open Synthesis as Complementary or Substitutive Civic Power™
 
-- [Manifiesto LI](./51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md)
+- [Síntesis Abierta como Poder Cívico Complementario o Sustitutivo™ / Open Synthesis as Complementary or Substitutive Civic Power™](./51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md)
 - [Análisis aplicado sobre accesibilidad institucional](../analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md)
 - [Síntesis Abierta #59](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/59)
 - Relaciones principales: II, III, IV, VIII, IX, X, XXXIV, XXXVI, XLV y L.
@@ -499,7 +499,7 @@ Casos y análisis principales:
 **Relaciones genealógicas principales:** II · Síntesis Abierta; III · Derecho Humano de Aporte; IV · Bien Común; IX · Memoria, Genealogía y Trazabilidad; XXXVII · Neofraternidad™; XLIX · Interoperabilidad Cultural™; LI · Poder Cívico Complementario o Sustitutivo™.  
 **Main genealogical relations:** II · Open Synthesis; III · Human Right to Contribute; IV · Common Good; IX · Memory, Genealogy and Traceability; XXXVII · Neofraternity™; XLIX · Cultural Interoperability™; LI · Complementary or Substitutive Civic Power™.
 
-- [Manifiesto LII / Manifesto LII](./52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md)
+- [Manifiesto de la Ciudadanía Humana Neodialéctica™ / Manifesto of Neodialectical Human Citizenship™](./52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md)
 - [Análisis público / Public analysis](../analisis/publicos/2026-08-08_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_funcional_ES_EN.md)
 - [Síntesis Abierta #64 / Open Synthesis #64](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/64)
 
@@ -512,34 +512,34 @@ Casos y análisis principales:
 ## LIII–LIX · ampliación relacional vigente / current relational extension
 
 ### LIII · Leónidas™
-- [Manifiesto](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Síntesis #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)
+- [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Síntesis #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)
 - [Protocolo Leónidas™](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas](../auditorias/publicas/README.md) · [Auditoría de integridad #71](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/71)
 - Relaciones principales: II · Síntesis Abierta; III · Derecho de Aporte; IX · Memoria/Genealogía/Trazabilidad; XX · Umbral-X; XXXIV · Auditoría Conjunta; XLVIII · La Síntesis Todo lo Ve; LI · Poder Cívico.
 
 ### LIV · Riqueza y Chatarra™
-- [Manifiesto](./54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md) · [Síntesis #72](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/72)
+- [Manifiesto de la Riqueza y la Chatarra™ / Manifesto of Wealth and Scrap™](./54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md) · [Síntesis #72](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/72)
 - Relaciones principales: VII · Economía del Aporte; XXIII · Soberanía del Tiempo Cognitivo; XXV · Pulido de la Piedra; XXVII · Valor de los Alimentos y la Vida; XXX · Coherencia Fines-Medios; XLV · Multidimensionalidad.
 - Función aplicada: reparación, reparabilidad, segunda vida, remanufactura, recuperación y dignidad del oficio reparador.
 
 ### LV · Ataque de las Micromáquinas™
-- [Manifiesto](./55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md) · [Síntesis #74](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/74)
+- [Manifiesto del Ataque de las Micromáquinas™ · Las Plagas de la Escala Invisible / Manifesto of the Attack of the Micromachines™ · The Plagues of the Invisible Scale](./55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md) · [Síntesis #74](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/74)
 - [Estado real de la evidencia](../analisis/publicos/2026-08-09_micromaquinas_plagas_escala_invisible_estado_real_ES_EN.md) · [Brief de debate](../propuestas/sintesis-abierta/2026-08-09_LV_micromaquinas_plagas_escala_invisible_debate_ES_EN.md)
 - Relaciones principales: IX · Trazabilidad; XX · Defensa Intelectual/Umbral-X; XXX · Coherencia Fines-Medios; XXXVIII · Protección Integral; XLV · Multidimensionalidad; LVI · NO-CONTROL.
 
 ### LVI · NO-CONTROL™ · Síntesis Previa a la Potencia
-- [Manifiesto](./56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md) · [Síntesis #76](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/76)
+- [Manifiesto del NO-CONTROL™ · Síntesis Previa a la Potencia / Manifesto of NO-CONTROL™ · Synthesis Before Power](./56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md) · [Síntesis #76](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/76)
 - Relaciones principales: IV · Bien Común; IX · Trazabilidad; XXX · Coherencia Fines-Medios; XXXIV · Auditoría Conjunta; XLIV · Neowar; XLV · Multidimensionalidad; LIX · Custodia Cognitiva.
 - Regla epistemológica enlazada: capacidad de doble uso no demuestra intención hostil.
 
 ### LVII–LIX · Refugio → Inteligencia Civilizatoria → Custodia Cognitiva
 - [Mapa específico LVII–LIX](./RELACIONES_LVII_LIX_ES_EN.md)
-- [LVII · Madre, Refugio y Retorno Consciente™](./57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md) · [Síntesis #77](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/77)
-- [LVIII · Inteligencia Civilizatoria™](./58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md) · [Síntesis #78](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/78)
-- [LIX · Custodia Cognitiva Distribuida™](./59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md) · [Síntesis #79](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/79)
+- [Madre, Refugio y Retorno Consciente™ / Mother, Refuge and Conscious Return™](./57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md) · [Síntesis #77](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/77)
+- [Inteligencia Civilizatoria™ · Democracia Cognitiva y Deber de Síntesis / Civilisational Intelligence™ · Cognitive Democracy and Duty of Synthesis](./58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md) · [Síntesis #78](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/78)
+- [Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana / Distributed Cognitive Custodianship™ · AI, Repair and Human Responsibility](./59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md) · [Síntesis #79](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/79)
 - La secuencia conecta cuidado basal, capacidad cognitiva pública y custodia distribuida sin monopolio de conciencia.
 
 ### LX · Relevancia Humana Necesaria™ · inteligencia distribuida y anti-captura social
-- [Manifiesto / Manifesto](./60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md) · [Síntesis #99](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/99)
+- [Relevancia Humana Necesaria™ · Inteligencia Distribuida, Aporte y Anti-Captura Social / Necessary Human Relevance™ · Distributed Intelligence, Contribution and Anti-Capture](./60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md) · [Síntesis #99](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/99)
 - Relaciones principales: V · Simbiosis Humano–IA; VII · Economía del Aporte; VIII · Ingeniería Social Abierta; XIV · Alienación; XXI · Reconocimiento; XXIII · Tiempo Cognitivo; XXXI · Neuromarketing; XLII–XLIII · soberanía e inteligencia expandida; XLVIII · Síntesis; L · Inteligencia Compartida; LVIII · Inteligencia Civilizatoria; LIX · Custodia Cognitiva; NAX-08, NAX-13 y NAX-14.
 - Función aplicada: separar popularidad de aporte, detectar amplificación social sin presumir fraude, distribuir capacidad de trabajo con IA y evitar una aristocracia reputacional.
 
@@ -564,13 +564,13 @@ Casos y análisis principales:
 
 ## LIII–LIX · Current relational extension
 
-- **LIII · Leónidas™:** [Manifesto](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Open Synthesis #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69). Main relations: II · Open Synthesis; III · Right of Contribution; IX · Memory/Genealogy/Traceability; XX · Umbral-X; XXXIV · Joint Audit; XLVIII · The Synthesis Sees Everything; LI · Civic Power.
-- **LIV · Wealth and Scrap™:** [Manifesto](./54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md) · [Open Synthesis #72](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/72). Repair, reparability, second life, remanufacture, recovery and dignity of repair work; related to VII, XXIII, XXV, XXVII, XXX and XLV.
-- **LV · Attack of the Micromachines™:** [Manifesto](./55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md) · [Open Synthesis #74](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/74) · [Evidence state](../analisis/publicos/2026-08-09_micromaquinas_plagas_escala_invisible_estado_real_ES_EN.md). Related to IX, XX, XXX, XXXVIII, XLV and LVI.
-- **LVI · NO-CONTROL™:** [Manifesto](./56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md) · [Open Synthesis #76](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/76). Related to IV, IX, XXX, XXXIV, XLIV, XLV and LIX; dual-use capability is not evidence of hostile intent.
-- **LVII · Mother, Refuge and Conscious Return™:** [Manifesto](./57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md) · [#77](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/77).
-- **LVIII · Civilisational Intelligence™:** [Manifesto](./58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md) · [#78](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/78).
-- **LIX · Distributed Cognitive Custodianship™:** [Manifesto](./59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md) · [#79](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/79).
+- **LIII · Leónidas™:** [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Open Synthesis #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69). Main relations: II · Open Synthesis; III · Right of Contribution; IX · Memory/Genealogy/Traceability; XX · Umbral-X; XXXIV · Joint Audit; XLVIII · The Synthesis Sees Everything; LI · Civic Power.
+- **LIV · Wealth and Scrap™:** [Manifiesto de la Riqueza y la Chatarra™ / Manifesto of Wealth and Scrap™](./54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md) · [Open Synthesis #72](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/72). Repair, reparability, second life, remanufacture, recovery and dignity of repair work; related to VII, XXIII, XXV, XXVII, XXX and XLV.
+- **LV · Attack of the Micromachines™:** [Manifiesto del Ataque de las Micromáquinas™ · Las Plagas de la Escala Invisible / Manifesto of the Attack of the Micromachines™ · The Plagues of the Invisible Scale](./55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md) · [Open Synthesis #74](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/74) · [Evidence state](../analisis/publicos/2026-08-09_micromaquinas_plagas_escala_invisible_estado_real_ES_EN.md). Related to IX, XX, XXX, XXXVIII, XLV and LVI.
+- **LVI · NO-CONTROL™:** [Manifiesto del NO-CONTROL™ · Síntesis Previa a la Potencia / Manifesto of NO-CONTROL™ · Synthesis Before Power](./56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md) · [Open Synthesis #76](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/76). Related to IV, IX, XXX, XXXIV, XLIV, XLV and LIX; dual-use capability is not evidence of hostile intent.
+- **LVII · Mother, Refuge and Conscious Return™:** [Madre, Refugio y Retorno Consciente™ / Mother, Refuge and Conscious Return™](./57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md) · [#77](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/77).
+- **LVIII · Civilisational Intelligence™:** [Inteligencia Civilizatoria™ · Democracia Cognitiva y Deber de Síntesis / Civilisational Intelligence™ · Cognitive Democracy and Duty of Synthesis](./58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md) · [#78](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/78).
+- **LIX · Distributed Cognitive Custodianship™:** [Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana / Distributed Cognitive Custodianship™ · AI, Repair and Human Responsibility](./59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md) · [#79](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/79).
 
 ## Neoaxioms™ ↔ Manifestos ↔ applied work
 
