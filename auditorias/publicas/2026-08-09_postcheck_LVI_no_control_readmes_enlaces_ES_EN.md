@@ -5,16 +5,16 @@
 
 ## ES · Resultado
 
-- Archivos Markdown revisados: **332**.
+- Archivos Markdown revisados: **333**.
 - README/LEEME revisados: **18**.
-- Enlaces internos de ruta comprobados: **10961**.
+- Enlaces internos de ruta comprobados: **10968**.
 - Alias internos de GitHub Wiki reconocidos: **11**.
-- Enlaces externos inventariados sin comprobar disponibilidad remota: **1740**.
-- Enlaces sólo a ancla detectados: **390**.
+- Enlaces externos inventariados sin comprobar disponibilidad remota: **1742**.
+- Enlaces sólo a ancla detectados: **392**.
 - Bloques de último manifiesto encontrados en README/LEEME: **11**.
 - Manifiestos canónicos detectados: **72 · I–LXXII**.
 - Último manifiesto / Síntesis: **LXXII / #122**.
-- Enlaces internos rotos detectados: **3**.
+- Enlaces internos rotos detectados: **1**.
 - Fallos canónicos críticos: **0**.
 
 ### Comprobaciones canónicas
@@ -28,19 +28,17 @@
 
 | Origen | Destino | Motivo |
 |---|---|---|
-| `manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md` | `./74_asimetria_destruccion_trol_humano_bot_ES_EN.md` | destino inexistente / missing target |
-| `manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md` | `./74_asimetria_destruccion_trol_humano_bot_ES_EN.md` | destino inexistente / missing target |
-| `manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md` | `../propuestas/sintesis-abierta/2026-08-11_DELTA_HUMANIDAD_COMUN_MADURACION_INVERTIDA_TROL_BOT_MAL_SISTEMICO_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md` | `../propuestas/sintesis-abierta/2026-08-11_DELTA_HUMANIDAD_COMUN_MADURACION_INVERTIDA_TROL_BOT_MAL_SISTEMICO_ES_EN.md` | destino inexistente / missing target |
 
 ## EN · Result
 
-- Markdown files reviewed: **332**.
+- Markdown files reviewed: **333**.
 - README/LEEME files reviewed: **18**.
-- Internal path links checked: **10961**.
+- Internal path links checked: **10968**.
 - GitHub Wiki extensionless page aliases recognised: **11**.
 - Canonical manifestos detected: **72 · I–LXXII**.
 - Latest manifesto / synthesis: **LXXII / #122**.
-- Broken internal links found: **3**.
+- Broken internal links found: **1**.
 - Canonical critical failures: **0**.
 
 The canonical collection is derived dynamically from the current manifesto index; the auditor no longer hard-codes a historical endpoint.
