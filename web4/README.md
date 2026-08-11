@@ -15,6 +15,8 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 **Marco actual:** NEOCore™ 7.2.  
 **Fecha:** 2026-08-11.
 
+> **INNOVA_N · PATRIMONIO COMÚN DE LA HUMANIDAD / COMMON HERITAGE OF HUMANITY**
+
 ## Tesis pública de WEB4™ / WEB4™ public thesis
 
 **ES.** WEB4™ se presenta como la **primera sincronización abierta humano–IA del marco**: personas e inteligencias artificiales trabajan sobre una memoria común versionada y públicamente auditable, conservando procedencia, contradicción, revisión, deltas y responsabilidad humana. Innova_N presenta públicamente el **Neodialectica Framework™ como el primer marco civilizatorio conjunto humano–IA de la historia conocida**. Esta formulación describe la tesis y reivindicación histórica del propio proyecto; su arquitectura pública permanece abierta a auditoría, contraste y refutación mediante SAN™.
@@ -63,3 +65,23 @@ NeoCronos™ permanece experimental: mide y conserva trazas de aportes, no asign
 **ES.** WEB4™ incorpora la frontera viva **I–LXXIV + ∞**, con **Maduración Invertida™, Humanidad Común™, Faunismo™, Orquismo™, Trolismo™, Microagencia Digital Distribuida™ y Asimetría de la Destrucción™**. Los candidatos visibles llegan ahora a **C-NAX-21**. La fuente canónica sigue siendo GitHub y los banners deben leerla dinámicamente.
 
 **EN.** WEB4™ incorporates the living frontier **I–LXXIV + ∞**, with **Inverted Maturation™, Common Humanity™, Faunism™, Orcism™, Trollism™, Distributed Digital Micro-Agency™ and Asymmetry of Destruction™**. Visible candidates now extend through **C-NAX-21**. GitHub remains the canonical source and the banners must read it dynamically.
+
+## Delta 2026-08-11 · De proyección a espacio habitable / From projection to inhabitable space
+
+**ES.** El siguiente salto de WEB4™ se concentra en **construir alrededor de NEOCore™**, no sólo en explicarlo. NEOCore™ actúa como motor común de memoria, relación, contraste y síntesis; WEB4™ debe convertirse progresivamente en su espacio habitable: un ágora multimedia, multicabeza y monádica donde personas e IA puedan aprender, crear, investigar, auditar, componer, escribir, contrastar y sintetizar sin perder autoría, genealogía ni responsabilidad.
+
+La web actual `innova-n.org` debe leerse como una **proyección one-shot / prototipo** del corpus GitHub. No es la forma final de WEB4™ ni debe quedar reducida a portfolio del fundador.
+
+El aprendizaje gamificado se orientará a **capacidad y aporte verificable**, no a captura de atención, permanencia compulsiva o puntuaciones de valor humano. Arte, literatura, música, ciencia, tecnología, filosofía, fotografía y otras formas de creación deben evolucionar desde secciones de exposición hacia **modos nativos de creación dentro de la propia plataforma**.
+
+Innova_N adopta como vector público la formulación **«Patrimonio común de la humanidad»**: no como sustitución de UNESCO ni de otras instituciones, sino como infraestructura paralela, cooperativa y complementaria orientada a crear, preservar, relacionar y transmitir conocimiento y cultura. Patrimonio común no significa pérdida de autoría.
+
+**EN.** The next WEB4™ leap focuses on **building around NEOCore™**, not merely explaining it. NEOCore™ acts as the common engine for memory, relation, contrast and synthesis; WEB4™ should progressively become its inhabitable space: a multimedia, multihead and monadic agora where people and AIs can learn, create, research, audit, compose, write, challenge and synthesise without losing authorship, genealogy or responsibility.
+
+The current `innova-n.org` site should be read as a **one-shot projection / prototype** of the GitHub corpus. It is not the final form of WEB4™ and should not remain reduced to a founder portfolio.
+
+Gamified learning should reward **capacity and verifiable contribution**, not attention capture, compulsive retention or scores of human worth. Art, literature, music, science, technology, philosophy, photography and other creative forms should evolve from exhibition sections into **native creation modes inside the platform itself**.
+
+Innova_N adopts **“Common Heritage of Humanity”** as a public vector: not as a replacement for UNESCO or other institutions, but as parallel, cooperative and complementary infrastructure oriented toward creating, preserving, relating and transmitting knowledge and culture. Common heritage does not mean loss of authorship.
+
+**[Leer delta completo / Read full delta](../proyeccion/2026-08-11_delta_web4_neocore_patrimonio_comun_aprendizaje_creacion_ES_EN.md)** · **[Síntesis Abierta / Open Synthesis #133](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/133)**
