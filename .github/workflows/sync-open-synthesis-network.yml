@@ -1,6 +1,6 @@
 name: sync-open-synthesis-network
 
-# Current live frontier: I–LXXII + ∞ · C-NAX-19 candidate
+# Current live frontier: I–LXXII + ∞ · C-NAX-15–C-NAX-19 candidates
 on:
   workflow_dispatch:
   push:
@@ -8,7 +8,9 @@ on:
       - 'manifiestos/*.md'
       - 'manifiestos/README.md'
       - 'manifiestos/CANONICAL_FILENAMES.json'
+      - 'neoaxiomas/README.md'
       - 'propuestas/sintesis-abierta/README.md'
+      - 'propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md'
       - '.github/workflows/sync-open-synthesis-network.yml'
       - '.github/scripts/register_manifestos_LXIII_LXVI.py'
       - '.github/scripts/sync_open_synthesis_manifestos.py'
@@ -35,6 +37,30 @@ jobs:
         run: python .github/scripts/register_manifestos_LXIII_LXVI.py
       - name: Synchronize Open Synthesis network
         run: python .github/scripts/sync_open_synthesis_manifestos.py
+      - name: Complete Neoaxiom candidate index
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md')
+          s=p.read_text(encoding='utf-8')
+          s=s.replace('**72 manifiestos finitos I–LXXII + Manifiesto ∞ · 14 Neoaxiomas™ · síntesis transversales, auditorías y proyectos de sistema**', '**72 manifiestos finitos I–LXXII + Manifiesto ∞ · 14 Neoaxiomas™ canónicos + 5 candidatos C-NAX-15–C-NAX-19 · síntesis transversales, auditorías y proyectos de sistema**')
+          marker='| **C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ · candidato** | [#123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123) |'
+          rows='''| **C-NAX-15 · Soberanía Intelectual de la Especie™ · candidato** | [matriz #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) · [LXVIII #114](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/114) |
+| **C-NAX-16 · No Coronación de la Parte™ · candidato** | [matriz #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) · [∞ #106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106) |
+| **C-NAX-17 · Reconstrucción Sistémica™ · candidato** | [matriz #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) · [LXVII #112](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/112) |
+| **C-NAX-18 · Motor del Bien Común + NeoSinergia™ · candidato** | [matriz #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) · [LXVI #110](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/110) · [LXVII #112](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/112) |
+'''
+          if 'C-NAX-15 · Soberanía Intelectual de la Especie™ · candidato' not in s:
+              if marker not in s:
+                  raise SystemExit('C-NAX-19 marker missing from complete SAN index')
+              s=s.replace(marker,rows+marker)
+          for n in range(15,20):
+              if f'C-NAX-{n}' not in s:
+                  raise SystemExit(f'C-NAX-{n} missing from complete SAN index')
+          p.write_text(s,encoding='utf-8')
+          print('CANDIDATE_INDEX_15_19=OK')
+          PY
       - name: Normalize canonical indices
         run: python .github/scripts/normalize_manifesto_indices.py
       - name: Synchronize root navigation
