@@ -1,6 +1,6 @@
 # Innova_N
 
-**NEOCore™ 7.2 · estado actual / current state**
+**NEOCore™ · estado vivo / living state**
 
 ## Entrar / Enter
 
@@ -18,6 +18,7 @@
 ## Investigar / Research
 
 * [Análisis y auditorías / Analyses and audits](Analisis_Neodialecticos_Publicos)
+* [NeoGenealogía™ / NeoGenealogy™](NeoGenealogia)
 * [Procedencia, trazabilidad y legal / Provenance, traceability and legal](Procedencia_Trazabilidad_y_Legal)
 
 ## Crear y proyectar / Create and project
@@ -27,9 +28,12 @@
 
 ## Fuentes / Sources
 
-* [Repositorio canónico / Canonical repository](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC)
+* [Repositorio canónico vivo / Living canonical repository](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC)
 * [README raíz / Root README](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/README.md)
-* [Snapshot congelado / Frozen snapshot](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/tree/snapshot/neocore-7-current-2026-08-11)
+* [Snapshot histórico de referencia · 2026-08-11 / Historical reference snapshot · 2026-08-11](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/tree/snapshot/neocore-7-current-2026-08-11)
+
+**El estado vigente evoluciona en la rama canónica; el snapshot conserva una referencia histórica y no limita deltas posteriores.**  
+**The current state evolves on the canonical branch; the snapshot preserves a historical reference and does not limit later deltas.**
 
 **Repositorio = fuente documental trazable. Wiki = mapa estable de orientación.**  
 **Repository = traceable documentary source. Wiki = stable orientation map.**
