@@ -1,0 +1,42 @@
+name: audit-manifesto-bilingual-structure
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/scripts/audit_manifesto_bilingual_structure.py'
+      - '.github/workflows/audit-manifesto-bilingual-structure.yml'
+      - 'manifiestos/**.md'
+      - 'manifiestos/CANONICAL_FILENAMES.json'
+      - 'propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: neocore-document-sync-main
+  cancel-in-progress: false
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Audit bilingual manifesto structure
+        run: python .github/scripts/audit_manifesto_bilingual_structure.py
+      - name: Commit audit report
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add auditorias/publicas/2026-08-12_auditoria_estructura_bilingue_manifiestos_ES_EN.md
+          if git diff --cached --quiet; then
+            echo 'Manifesto structure report unchanged.'
+          else
+            git commit -m 'audit: estructura bilingüe completa de manifiestos'
+            git pull --rebase origin main
+            git push origin main
+          fi
