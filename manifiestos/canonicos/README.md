@@ -11,7 +11,6 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 <!-- NEOAXIOMAS_GLOBAL_LINK_END -->
 
-
 ## Regla
 
 El **número romano es el identificador canónico** del manifiesto y debe ser visible también en su nombre de archivo canónico.
@@ -24,7 +23,7 @@ Ejemplo:
 
 `I_neo0_soberania_de_guia_ES_EN.md`
 
-Los nombres históricos se mantienen temporalmente como rutas **legacy** para no romper enlaces, citas, navegación, auditorías ni referencias externas. La correspondencia completa I–LXXII está registrada en `../CANONICAL_FILENAMES.json`.
+Los nombres históricos se mantienen temporalmente como rutas **legacy** para no romper enlaces, citas, navegación, auditorías ni referencias externas. La correspondencia completa **I–LXXIV** está registrada en `../CANONICAL_FILENAMES.json`.
 
 **No se debe inferir jamás el número canónico a partir del prefijo decimal histórico.**
 
