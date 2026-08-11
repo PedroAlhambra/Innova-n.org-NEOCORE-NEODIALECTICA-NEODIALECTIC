@@ -41,7 +41,7 @@ issue_match = re.search(r'https://github\.com/PedroAlhambra/Innova-n\.org-NEOCOR
 if issue_match:
     issue_num = issue_match.group(1)
 else:
-    issue_num = {'LVII':'77', 'LVIII':'78', 'LIX':'79', 'LXVI':'110', 'LXVII':'112', 'LXVIII':'114'}.get(roman)
+    issue_num = {'LVII':'77', 'LVIII':'78', 'LIX':'79', 'LXVI':'110', 'LXVII':'112', 'LXVIII':'114', 'LXIX':'119', 'LXX':'120', 'LXXI':'121', 'LXXII':'122'}.get(roman)
 if not issue_num:
     raise SystemExit(f'Cannot resolve Open Synthesis issue for latest manifesto {roman}')
 issue_url = f'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/{issue_num}'
@@ -83,8 +83,10 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 {NAX_END}'''
 
 def replace_version(text):
-    text = re.sub(r'NEOCore™\s+v?7\.0', lambda m: m.group(0).replace('7.0', CURRENT_VERSION), text)
-    text = re.sub(r'NEOCore\s+v?7\.0', lambda m: m.group(0).replace('7.0', CURRENT_VERSION), text)
+    # Live README/LEEME surfaces follow CURRENT_VERSION. Dated audit snapshots
+    # live outside this synchroniser and retain the state they recorded.
+    text = re.sub(r'NEOCore™\s+v?7\.[01]', f'NEOCore™ {CURRENT_VERSION}', text)
+    text = re.sub(r'NEOCore\s+v?7\.[01]', f'NEOCore {CURRENT_VERSION}', text)
     text = re.sub(r'NEOCore™\s+7\.x', f'NEOCore™ {CURRENT_VERSION}', text)
     text = re.sub(r'NEOCore\s+7\.x', f'NEOCore {CURRENT_VERSION}', text)
     return text
@@ -122,7 +124,7 @@ for f in readmes:
         f.write_text(text,encoding='utf-8'); changed.append(f)
 
 fail=[]
-old_version_re = re.compile(r'NEOCore(?:™)?\s+(?:v?7\.0|7\.x)')
+old_version_re = re.compile(r'NEOCore(?:™)?\s+(?:v?7\.[01]|7\.x)')
 for f in readmes:
     text=f.read_text(encoding='utf-8')
     if START in text:
