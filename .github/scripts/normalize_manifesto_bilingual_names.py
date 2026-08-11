@@ -6,6 +6,8 @@ ROOT = Path('.').resolve()
 REGISTRY = ROOT / 'manifiestos' / 'CANONICAL_FILENAMES.json'
 INDEX_TARGETS = [
     ROOT / 'manifiestos' / 'README.md',
+    ROOT / 'manifiestos' / 'RELACIONES_TRABAJO_APLICADO_ES_EN.md',
+    ROOT / 'manifiestos' / 'RELACIONES_LVII_LIX_ES_EN.md',
     ROOT / 'propuestas' / 'sintesis-abierta' / 'README.md',
     ROOT / 'propuestas' / 'sintesis-abierta' / 'INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md',
 ]
@@ -61,7 +63,6 @@ def normalize_source(path, roman):
     if not has_meta:
         title_positions=[i for i,l in enumerate(lines[:pre_end]) if (lambda m: bool(m and m.group(1)==roman))(TITLE_LINE.match(l))]
         insert_at=max(title_positions)+1
-        # Keep exactly one blank separator before metadata.
         while insert_at < len(lines) and lines[insert_at]=='' and insert_at+1 < len(lines) and lines[insert_at+1]=='':
             lines.pop(insert_at)
         lines[insert_at:insert_at]=['', f'**Manifiesto / Manifesto:** {roman}  ']
@@ -74,7 +75,8 @@ def normalize_source(path, roman):
 
 
 def replace_link_label(text, filename, label):
-    # Only replace labels of links that resolve to this manifesto filename.
+    # Every link whose target is a manifesto source uses the same canonical
+    # bilingual visible name. This does not change body prose mentions.
     rx=re.compile(r'\[([^\]]+)\]\(([^)\n]*'+re.escape(filename)+r'(?:#[^)]*)?)\)')
     return rx.sub(lambda m: f'[{label}]({m.group(2)})', text)
 
@@ -92,7 +94,6 @@ for roman,entry in entries.items():
     if changed:
         changed_sources.append(entry['legacy'])
 
-# Infinite manifesto is already outside finite registry; normalize identity if necessary.
 inf=ROOT/'manifiestos'/'INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md'
 if inf.exists():
     es,en,changed=normalize_source(inf,'∞')
@@ -102,6 +103,8 @@ if inf.exists():
 
 changed_indices=[]
 for p in INDEX_TARGETS:
+    if not p.exists():
+        continue
     text=p.read_text(encoding='utf-8')
     old=text
     for roman,(es,en,filename) in titles.items():
