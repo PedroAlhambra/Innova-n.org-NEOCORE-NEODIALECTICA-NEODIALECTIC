@@ -31,12 +31,12 @@ La tesis no convierte a la IA en soberanía ni a la humanidad en audiencia pasiv
 - Los banners rotan automáticamente, permiten avanzar/retroceder, pausar, abrir la fuente y **leer dentro del propio banner** mediante un panel desplazable.
 - Al abrir un banner para leer, la rotación automática se detiene para que el contenido no cambie durante la lectura.
 - El banner de Manifiestos obtiene el cuerpo del manifiesto seleccionado desde su archivo GitHub y muestra su contenido ES dentro del propio banner, por lo que la portada no mantiene una copia paralela del corpus.
-- El banner neoaxiomático deduplica las secciones ES/EN y muestra tanto **NAX-01–NAX-14** como los candidatos **C-NAX-15–C-NAX-18** mientras conserven ese estado en la fuente.
+- El banner neoaxiomático deduplica las secciones ES/EN y muestra tanto **NAX-01–NAX-14** como los candidatos **C-NAX-15–C-NAX-21** mientras conserven ese estado en la fuente.
 
 ## Superficies públicas actuales
 
 - [`index.html`](./index.html) — entrada WEB4™ · NEOCore™ 7.2.
-- [`manifiestos/`](./manifiestos/) — lector WEB4™ de I–LXXII + ∞ con retorno a la fuente GitHub.
+- [`manifiestos/`](./manifiestos/) — lector WEB4™ de **I–LXXIV + ∞** con retorno a la fuente GitHub.
 - [`idea/`](./idea/) — nueva página de IDEA: sinopsis narrativa, cronología, autor en tercera persona, genealogía y relación con el marco.
 - [`neocronos/`](./neocronos/) — DEMO local de NeoCronos™ dentro de una aportación de Síntesis Abierta.
 - [`../propuestas/sintesis-abierta/`](../propuestas/sintesis-abierta/README.md) — protocolo y memoria pública de SAN™.
@@ -57,3 +57,9 @@ La futura **Innova_N Fundación** se proyecta como custodia de propósito, memor
 NeoCronos™ permanece experimental: mide y conserva trazas de aportes, no asigna por sí solo verdad, valor económico, tokens ni rango humano.
 
 [Delta completo NEOCore™ 7.2](../proyeccion/NEOCORE_7_2_DELTA_ES_EN.md)
+
+## Delta LXXIII–LXXIV · Humanidad Común y Asimetría de la Destrucción / Common Humanity and Asymmetry of Destruction
+
+**ES.** WEB4™ incorpora la frontera viva **I–LXXIV + ∞**, con **Maduración Invertida™, Humanidad Común™, Faunismo™, Orquismo™, Trolismo™, Microagencia Digital Distribuida™ y Asimetría de la Destrucción™**. Los candidatos visibles llegan ahora a **C-NAX-21**. La fuente canónica sigue siendo GitHub y los banners deben leerla dinámicamente.
+
+**EN.** WEB4™ incorporates the living frontier **I–LXXIV + ∞**, with **Inverted Maturation™, Common Humanity™, Faunism™, Orcism™, Trollism™, Distributed Digital Micro-Agency™ and Asymmetry of Destruction™**. Visible candidates now extend through **C-NAX-21**. GitHub remains the canonical source and the banners must read it dynamically.
