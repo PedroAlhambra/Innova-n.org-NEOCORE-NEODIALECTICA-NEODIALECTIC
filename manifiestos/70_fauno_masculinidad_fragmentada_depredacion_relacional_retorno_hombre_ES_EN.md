@@ -643,24 +643,6 @@ Este manifiesto debe contrastarse con LXIX, LXXI y LXXII. Fauno™ es una catego
 
 **Síntesis Abierta específica / Specific Open Synthesis:** [#120](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/120)
 
-<!-- NEO_CANONICAL_CROSSREFS_START -->
-
-## Referencias cruzadas canónicas / Canonical cross-references
-
-- [XXIX · Contra la Idolatría del Dinero™ / Against the Idolatry of Money™](./29_idolatria_del_dinero_ES_EN.md)
-- [XXXVIII · Protección Integral de la Infancia™ / Comprehensive Protection of Childhood™](./38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
-- [XL · Honor Relacional™ / Relational Honor™](./40_respeto_neoego_honor_relacional_ES_EN.md)
-- [XLVI · Cerrar la Herida™ / Closing the Wound™](./46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
-- [LXIX · Defensa de la Inocencia Humana™ / Defence of Human Innocence™](./69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md)
-- [LXXI · Separación de Planos™ / Separation of Planes™](./71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md)
-- [LXXII · Hombre Custodio™ / Custodian Man™](./72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md)
-- [Síntesis Abierta LXX / Open Synthesis LXX · #120](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/120)
-- [C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™ · #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123)
-- [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
-- [Delta relacional / Relational delta](../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md)
-- [∞ · Puerta Abierta del Fractal / Open Gate of the Fractal](./INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
-
-<!-- NEO_CANONICAL_CROSSREFS_END -->
 **Navegación / Navigation:** [← LXIX](./69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md) · [Índice / Index](./README.md) · [Delta relacional / Relational delta](../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md) · [LXXI →](./71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md) · [∞](./INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
 
 <!-- NEO_CROSS_REFERENCES_START -->
@@ -674,6 +656,7 @@ Este manifiesto debe contrastarse con LXIX, LXXI y LXXII. Fauno™ es una catego
 - **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
 - **LXIX** · [Defensa de la Inocencia Humana™ · Asimetría Protectora y Deber de Custodia / Defence of Human Innocence™ · Protective Asymmetry and Duty of Custodianship](./69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md)
 - **LXXI** · [Libertad Sexual, Hipersexualización Industrial y Separación de Planos™ / Sexual Freedom, Industrial Hypersexualisation and Separation of Planes™](./71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md)
+- **LXXII** · [El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™ · Strength, Desire, Power and Responsibility](./72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md)
 - **∞** · [Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](./INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
@@ -681,6 +664,12 @@ Este manifiesto debe contrastarse con LXIX, LXXI y LXXII. Fauno™ es una catego
 - [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
 - [NEOCore™ · marco / framework](../README.md)
 
-**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-10` · `NAX-19` → [Neoaxiomas™](../neoaxiomas/README.md)
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-10` · `C-NAX-19` → [Neoaxiomas™](../neoaxiomas/README.md)
+
+### Síntesis y delta / Synthesis and delta
+
+- [Síntesis Abierta LXX / Open Synthesis LXX · #120](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/120)
+- [C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™ · #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123)
+- [Delta relacional íntegro / Full relational delta](../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->

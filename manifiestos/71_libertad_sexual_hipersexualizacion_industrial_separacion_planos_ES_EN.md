@@ -749,23 +749,6 @@ Este manifiesto debe contrastarse con LXIX, LXX y LXXII y con evidencia empíric
 
 **Síntesis Abierta específica / Specific Open Synthesis:** [#121](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/121)
 
-<!-- NEO_CANONICAL_CROSSREFS_START -->
-
-## Referencias cruzadas canónicas / Canonical cross-references
-
-- [XXXI · Contra el Neuromarketing Antihumanista™ / Against Anti-Humanist Neuromarketing™](./31_contra_neuromarketing_antihumanista_ES_EN.md)
-- [XXXVIII · Protección Integral de la Infancia™ / Comprehensive Protection of Childhood™](./38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
-- [XLII · Fin de la Era del Hombre Manipulado™ / End of the Era of the Manipulated Human™](./42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
-- [LXIX · Defensa de la Inocencia Humana™ / Defence of Human Innocence™](./69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md)
-- [LXX · Fauno™ / Faun™](./70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md)
-- [LXXII · Hombre Custodio™ / Custodian Man™](./72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md)
-- [Síntesis Abierta LXXI / Open Synthesis LXXI · #121](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/121)
-- [C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™ · #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123)
-- [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
-- [Delta relacional / Relational delta](../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md)
-- [∞ · Puerta Abierta del Fractal / Open Gate of the Fractal](./INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
-
-<!-- NEO_CANONICAL_CROSSREFS_END -->
 **Navegación / Navigation:** [← LXX](./70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md) · [Índice / Index](./README.md) · [Delta relacional / Relational delta](../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md) · [LXXII →](./72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) · [∞](./INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
 
 <!-- NEO_CROSS_REFERENCES_START -->
@@ -785,6 +768,12 @@ Este manifiesto debe contrastarse con LXIX, LXX y LXXII y con evidencia empíric
 - [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
 - [NEOCore™ · marco / framework](../README.md)
 
-**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-04` · `NAX-07` · `NAX-10` · `NAX-15` · `NAX-19` → [Neoaxiomas™](../neoaxiomas/README.md)
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-04` · `NAX-07` · `NAX-10` · `C-NAX-15` · `C-NAX-19` → [Neoaxiomas™](../neoaxiomas/README.md)
+
+### Síntesis y delta / Synthesis and delta
+
+- [Síntesis Abierta LXXI / Open Synthesis LXXI · #121](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/121)
+- [C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™ · #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123)
+- [Delta relacional íntegro / Full relational delta](../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->
