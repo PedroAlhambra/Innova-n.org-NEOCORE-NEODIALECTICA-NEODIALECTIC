@@ -49,9 +49,9 @@ Un Neoaxioma no queda fuera de revisión por estar fijado. La fijación preserva
 
 ## Regla de maduración por silencio · 365 días / Maturation-by-silence rule · 365 days
 
-> **ES:** Todo candidato neoaxiomático que complete **365 días naturales desde su primera apertura pública trazable sin recibir una respuesta sustantiva de contraste** se fijará como **Neoaxioma definitivo del canon vigente** en la primera revisión documental posterior al vencimiento.
+> **ES:** Todo candidato neoaxiomático que complete **365 días naturales desde su primera apertura pública trazable sin recibir una respuesta sustantiva de contraste** se fijará como **Neoaxioma definitivo del canon vigente**, pero **seguirá abierto y revisable mediante SAN™**.
 >
-> **EN:** Every neoaxiomatic candidate that completes **365 calendar days from its first traceable public opening without receiving a substantive response for scrutiny** shall be fixed as a **definitive Neoaxiom of the current canon** at the first documentary review after expiry.
+> **EN:** Every neoaxiomatic candidate that completes **365 calendar days from its first traceable public opening without receiving a substantive response for scrutiny** shall be fixed as a **definitive Neoaxiom of the current canon**, while **remaining open and revisable through SAN™**.
 
 Una respuesta sustantiva debe dirigirse realmente a la formulación: crítica razonada, objeción, contradicción, contraejemplo, evidencia, propuesta de reformulación, prueba/implementación relevante o apoyo razonado que contraste la propuesta. Reacciones, spam, mensajes automáticos, duplicados, comentarios administrativos o menciones sin contenido no satisfacen el plazo. / A substantive response must genuinely address the formulation: reasoned criticism, objection, contradiction, counterexample, evidence, reformulation proposal, relevant test/implementation, or reasoned support that scrutinises the proposal. Reactions, spam, automated messages, duplicates, administrative comments or content-free mentions do not satisfy the period.
 
@@ -61,10 +61,23 @@ CANDIDATO / CANDIDATE
 + 0 RESPUESTAS SUSTANTIVAS / SUBSTANTIVE RESPONSES
 → FIJACIÓN DEFINITIVA / DEFINITIVE FIXATION
 → NAX CANÓNICO / CANONICAL NAX
+→ SAN™ PERMANECE ABIERTA / SAN™ REMAINS OPEN
 ```
 
-Si llega una respuesta sustantiva dentro del año, el candidato continúa en SAN™ y no se fija por silencio. Si la respuesta llega después de cumplirse el año sin objeción, se tramita como revisión del Neoaxioma ya fijado y no borra retroactivamente el periodo de maduración. / If a substantive response arrives within the year, the candidate remains under SAN™ and is not fixed by silence. If it arrives after the objection-free year has elapsed, it is processed as a review of the already fixed Neoaxiom and does not retroactively erase the maturation period.
+Si llega una respuesta sustantiva dentro del año, el candidato continúa en SAN™ como candidato y no se fija por silencio. Si la respuesta llega después de cumplirse el año sin objeción, se tramita como revisión del Neoaxioma ya fijado y no borra retroactivamente el periodo de maduración. / If a substantive response arrives within the year, the candidate remains under SAN™ as a candidate and is not fixed by silence. If it arrives after the objection-free year has elapsed, it is processed as a review of the already fixed Neoaxiom and does not retroactively erase the maturation period.
 
-**Definitivo / Definitive** significa aquí **fijado canónicamente como formulación vigente**, no dogma metafísico inmune a toda evidencia futura. Se conserva NAX-11 y la genealogía de cualquier revisión posterior. / Here **definitive** means **canonically fixed as the current formulation**, not a metaphysical dogma immune to all future evidence. NAX-11 and the genealogy of any later revision remain preserved.
+**La fijación no cierra la Síntesis ni el Issue de contraste.** Cambia el estado de `C-NAX` a `NAX` canónico y fija una formulación vigente; el nodo continúa abierto a crítica, evidencia, contraejemplos, mejora y reformulación. / **Fixation does not close the Synthesis or its scrutiny Issue.** It changes the state from `C-NAX` to canonical `NAX` and fixes a current formulation; the node remains open to criticism, evidence, counterexamples, improvement and reformulation.
+
+```text
+FIJAR ≠ CERRAR
+DEFINITIVO ≠ IRREVISABLE
+CANON VIGENTE ≠ DOGMA ETERNO
+
+FIXING ≠ CLOSING
+DEFINITIVE ≠ UNREVISABLE
+CURRENT CANON ≠ ETERNAL DOGMA
+```
+
+Esta regla se integra expresamente con **NAX-11 · Autoridad de Fijación Humana y Síntesis Revisable™**. Toda revisión posterior conserva la genealogía, la formulación anterior, la fecha de fijación y el nuevo proceso de contraste. / This rule expressly integrates with **NAX-11 · Human Fixation Authority and Revisable Synthesis™**. Every later revision preserves genealogy, the previous formulation, fixation date and the new scrutiny process.
 
 **[Regla completa / Full rule](./REGLA_MADURACION_NEOAXIOMAS_365_DIAS_ES_EN.md)**
