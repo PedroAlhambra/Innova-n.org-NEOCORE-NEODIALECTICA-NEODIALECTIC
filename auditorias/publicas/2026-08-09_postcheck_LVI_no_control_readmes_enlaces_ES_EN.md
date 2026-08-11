@@ -5,7 +5,7 @@
 
 ## ES · Resultado
 
-- Archivos Markdown revisados: **337**.
+- Archivos Markdown revisados: **338**.
 - README/LEEME revisados: **18**.
 - Enlaces internos de ruta comprobados: **10996**.
 - Alias internos de GitHub Wiki reconocidos: **11**.
@@ -30,7 +30,7 @@
 
 ## EN · Result
 
-- Markdown files reviewed: **337**.
+- Markdown files reviewed: **338**.
 - README/LEEME files reviewed: **18**.
 - Internal path links checked: **10996**.
 - GitHub Wiki extensionless page aliases recognised: **11**.
