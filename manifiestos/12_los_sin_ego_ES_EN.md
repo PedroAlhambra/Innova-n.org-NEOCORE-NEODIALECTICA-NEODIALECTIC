@@ -1,4 +1,5 @@
-# XII · Los sin ego / The Egoless
+# XII · Los sin ego
+# XII · The Egoless
 
 ## La rotura generacional en España que atravesó a cuatro generaciones / The generational rupture in Spain that crossed four generations
 
@@ -303,9 +304,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XI** · [Neorrenacimiento Humano / Human Neo-Renaissance](08_neorrenacimiento_humano_ES_EN.md)  
+← **XI** · [Manifiesto del Neorrenacimiento Humano / Manifesto of the Human Neo-Renaissance](08_neorrenacimiento_humano_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](README.md) ·  
-**XIII** · [NeoPandora™](13_neopandora_apertura_regenerativa_ES_EN.md) →
+**XIII** · [Manifiesto NeoPandora™ de la Apertura Regenerativa y el Gobierno de la Vida / NeoPandora™ Manifesto of Regenerative Opening and the Governance of Life](13_neopandora_apertura_regenerativa_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

@@ -738,9 +738,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XXXIX** · [Autoconciencia de la Necesidad Vital Neodialéctica™](XXXIX_autoconciencia_necesidad_vital_neodialectica_ES_EN.md)  
+← **XXXIX** · [Autoconciencia de la Necesidad Vital Neodialéctica™ / Self-Awareness of Neodialectical Vital Need™](XXXIX_autoconciencia_necesidad_vital_neodialectica_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
-**XLI** · [Martillo Limitado, Talión y Fuerza Protectora™](XLI_martillo_limitado_talion_fuerza_protectora_ES_EN.md) →
+**XLI** · [Martillo Limitado, Talión y Fuerza Protectora™ / Limited Hammer, Talion and Protective Force™](XLI_martillo_limitado_talion_fuerza_protectora_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

@@ -1,4 +1,5 @@
-# IX · Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability
+# IX · Manifiesto de la Memoria, la Genealogía y la Trazabilidad
+# IX · Manifesto of Memory, Genealogy and Traceability
 
 **Manifiesto / Manifesto:** IX  
 **Versión / Version:** 1.1  
@@ -316,9 +317,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **VIII** · [Ingeniería Social Abierta y Psicohistoria / Open Social Engineering and Psychohistory](05_ingenieria_social_psicohistoria_ES_EN.md)  
+← **VIII** · [Manifiesto de Ingeniería Social Abierta y Psicohistoria Neodialéctica / Manifesto of Open Social Engineering and Neodialectical Psychohistory](05_ingenieria_social_psicohistoria_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](README.md) ·  
-**X** · [WEB4™ · SistemaTrazable™](07_web4_sistematrazable_ES_EN.md) →
+**X** · [Manifiesto de WEB4™ · SistemaTrazable™ / Manifesto of WEB4™ · SistemaTrazable™](07_web4_sistematrazable_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

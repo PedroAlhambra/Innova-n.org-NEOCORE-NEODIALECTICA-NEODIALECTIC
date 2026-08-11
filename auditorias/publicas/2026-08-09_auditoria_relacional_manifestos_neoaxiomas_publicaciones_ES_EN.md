@@ -9,10 +9,10 @@
 
 ## 1. Estado estructural / Structural state
 
-- Cobertura del mapa curado: **60/74**.
-- Ausentes del mapa curado: **LXI, LXII, LXIII, LXIV, LXV, LXVI, LXVII, LXVIII, LXIX, LXX, LXXI, LXXII, LXXIII, LXXIV**.
+- Cobertura del mapa curado: **74/74**.
+- Ausentes del mapa curado: **ninguno / none**.
 - Neoaxiomas sin Síntesis específica: **ninguno / none**.
-- Enlaces locales realmente no resueltos: **2**.
+- Enlaces locales realmente no resueltos: **0**.
 - Manifiestos sin enlace entrante desde publicaciones/documentos aplicados: **0**.
 - Pares de manifiestos cocitados por ≥2 publicaciones: **2485**.
 
@@ -20,7 +20,7 @@
 
 | Nº | Archivo | Palabras | Encabezados | Párrafos | Palabras/encabezado |
 |---:|---|---:|---:|---:|---:|
-| X | `manifiestos/07_web4_sistematrazable_ES_EN.md` | 1439 | 28 | 49 | 51.4 |
+| X | `manifiestos/07_web4_sistematrazable_ES_EN.md` | 1440 | 29 | 49 | 49.7 |
 | XX | `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` | 4369 | 87 | 171 | 50.2 |
 | XXIX | `manifiestos/29_idolatria_del_dinero_ES_EN.md` | 3271 | 60 | 88 | 54.5 |
 | LVIII | `manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md` | 1728 | 32 | 56 | 54.0 |
@@ -170,12 +170,11 @@
 
 ## 6. Enlaces locales no resueltos
 
-- `analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md` → `../../manifiestos/58_inteligencia_civilizatoria_pacto_social_bien_comun_ES_EN.md`
-- `analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md` → `../../manifiestos/58_inteligencia_civilizatoria_pacto_social_bien_comun_ES_EN.md`
+- Ninguno / None.
 
 ## 7. Grafo directo completo por manifiesto
 
-### I · Neo0™ · Soberanía de Guía / Guiding Sovereignty
+### I · Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica / Neo0™ Manifesto of Neodialectical Guiding Sovereignty
 `manifiestos/11_neo0_soberania_de_guia_ES_EN.md`
 **Salientes / Outbound:**
 - **otros:** `.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `README.md`
@@ -193,7 +192,7 @@
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/03_simbiosis_humano_ia_ES_EN.md` · `manifiestos/04_economia_del_aporte_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/19_persistencia_de_la_memoria_ES_EN.md` · `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` · `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` · `manifiestos/37_neofraternidad_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md` · `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md` · `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` · `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md` · `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` · `manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md` · `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### II · Síntesis Abierta Neodialéctica™ / Neodialectical Open Synthesis™
+### II · Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™
 `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md`
 **Salientes / Outbound:**
 - **otros:** `.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `README.md`
@@ -209,7 +208,7 @@
 - **manifiestos:** `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/03_simbiosis_humano_ia_ES_EN.md` · `manifiestos/04_economia_del_aporte_ES_EN.md` · `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/07_web4_sistematrazable_ES_EN.md` · `manifiestos/08_neorrenacimiento_humano_ES_EN.md` · `manifiestos/09_parasitismo_sistemico_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/12_los_sin_ego_ES_EN.md` · `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/15_los_titanes_despertar_de_la_gente_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md` · `manifiestos/19_persistencia_de_la_memoria_ES_EN.md` · `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md` · `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` · `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md` · `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md` · `manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md` · `manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md` · `manifiestos/63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md` · `manifiestos/64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md` · `manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md` · `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md` · `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` · `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md` · `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### III · Derecho Humano de Aporte / Human Right to Contribute
+### III · Manifiesto del Derecho Humano de Aporte a la Síntesis Abierta™ / Manifesto of the Human Right to Contribute to Open Synthesis™
 `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md`
 **Salientes / Outbound:**
 - **otros:** `.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `README.md`
@@ -227,7 +226,7 @@
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/03_simbiosis_humano_ia_ES_EN.md` · `manifiestos/04_economia_del_aporte_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/19_persistencia_de_la_memoria_ES_EN.md` · `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` · `manifiestos/37_neofraternidad_ES_EN.md` · `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/NEOCRONOS_RETORNO_TEMPORAL_TOKENIZACION_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### IV · Neodialéctica™ y Bien Común / Neodialectics™ and the Common Good
+### IV · Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good
 `manifiestos/02_neodialectica_bien_comun_ES_EN.md`
 **Salientes / Outbound:**
 - **otros:** `.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `README.md`
@@ -243,7 +242,7 @@
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/03_simbiosis_humano_ia_ES_EN.md` · `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md` · `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md` · `manifiestos/19_persistencia_de_la_memoria_ES_EN.md` · `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md` · `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md` · `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` · `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md` · `manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### V · Simbiosis Humano–IA / Human–AI Symbiosis
+### V · Manifiesto de la Simbiosis Humano–IA / Manifesto of Human–AI Symbiosis
 `manifiestos/03_simbiosis_humano_ia_ES_EN.md`
 **Salientes / Outbound:**
 - **otros:** `.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `README.md`
@@ -260,7 +259,7 @@
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/09_parasitismo_sistemico_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` · `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md` · `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md` · `manifiestos/19_persistencia_de_la_memoria_ES_EN.md` · `manifiestos/37_neofraternidad_ES_EN.md` · `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` · `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` · `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### VI · Parasitismo Sistémico / Systemic Parasitism
+### VI · Manifiesto sobre el Parasitismo Sistémico / Manifesto on Systemic Parasitism
 `manifiestos/09_parasitismo_sistemico_ES_EN.md`
 **Salientes / Outbound:**
 - **otros:** `.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md` · `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `README.md`
@@ -277,7 +276,7 @@
 - **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### VII · Economía del Aporte / Contribution Economy
+### VII · Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy
 `manifiestos/04_economia_del_aporte_ES_EN.md`
 **Salientes / Outbound:**
 - **otros:** `.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md` · `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `README.md`
@@ -295,7 +294,7 @@
 - **manifiestos:** `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/09_parasitismo_sistemico_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/21_reconocimiento_neodialectico_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` · `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · `manifiestos/37_neofraternidad_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` · `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md` · `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` · `manifiestos/64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md` · `manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md` · `manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/NEOCRONOS_RETORNO_TEMPORAL_TOKENIZACION_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### VIII · Ingeniería Social Abierta y Psicohistoria / Open Social Engineering and Psychohistory
+### VIII · Manifiesto de Ingeniería Social Abierta y Psicohistoria Neodialéctica / Manifesto of Open Social Engineering and Neodialectical Psychohistory
 `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md`
 **Salientes / Outbound:**
 - **otros:** `.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `README.md`
@@ -312,7 +311,7 @@
 - **manifiestos:** `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/04_economia_del_aporte_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/30_coherencia_fines_medios_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md` · `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md` · `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` · `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### IX · Memoria, Genealogía y Trazabilidad / Memory, Genealogy and Traceability
+### IX · Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability
 `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md`
 **Salientes / Outbound:**
 - **otros:** `.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md` · `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `README.md`
@@ -331,7 +330,7 @@
 - **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` · `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md` · `propuestas/sintesis-abierta/NEOCRONOS_RETORNO_TEMPORAL_TOKENIZACION_ES_EN.md` · `propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### X · WEB4™ · SistemaTrazable™
+### X · Manifiesto de WEB4™ · SistemaTrazable™ / Manifesto of WEB4™ · SistemaTrazable™
 `manifiestos/07_web4_sistematrazable_ES_EN.md`
 **Salientes / Outbound:**
 - **otros:** `.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `README.md`
@@ -346,7 +345,7 @@
 - **manifiestos:** `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/08_neorrenacimiento_humano_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/15_los_titanes_despertar_de_la_gente_ES_EN.md` · `manifiestos/19_persistencia_de_la_memoria_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md` · `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md` · `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` · `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md` · `manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md` · `manifiestos/63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XI · Neorrenacimiento Humano / Human Neo-Renaissance
+### XI · Manifiesto del Neorrenacimiento Humano / Manifesto of the Human Neo-Renaissance
 `manifiestos/08_neorrenacimiento_humano_ES_EN.md`
 **Salientes / Outbound:**
 - **otros:** `.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `README.md`
@@ -374,7 +373,7 @@
 - **manifiestos:** `manifiestos/08_neorrenacimiento_humano_ES_EN.md` · `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XIII · NeoPandora™
+### XIII · Manifiesto NeoPandora™ de la Apertura Regenerativa y el Gobierno de la Vida / NeoPandora™ Manifesto of Regenerative Opening and the Governance of Life
 `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md`
 **Salientes / Outbound:**
 - **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
@@ -389,7 +388,7 @@
 - **manifiestos:** `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/03_simbiosis_humano_ia_ES_EN.md` · `manifiestos/12_los_sin_ego_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/15_los_titanes_despertar_de_la_gente_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md` · `manifiestos/27_valor_alimentos_vida_ES_EN.md` · `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` · `manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XIV · Contra la Alienación Humana™ / Against Human Alienation™
+### XIV · Manifiesto contra la Alienación Humana™ / Manifesto Against Human Alienation™
 `manifiestos/14_contra_alienacion_humana_ES_EN.md`
 **Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md`
@@ -405,7 +404,7 @@
 - **manifiestos:** `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` · `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` · `manifiestos/15_los_titanes_despertar_de_la_gente_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/27_valor_alimentos_vida_ES_EN.md` · `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` · `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` · `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XV · Los Titanes™ / The Titans™
+### XV · Manifiesto de los Titanes™ · El despertar de la gente / Manifesto of the Titans™ · The Awakening of the People
 `manifiestos/15_los_titanes_despertar_de_la_gente_ES_EN.md`
 **Salientes / Outbound:**
 - **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
@@ -420,7 +419,7 @@
 - **manifiestos:** `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md` · `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XVI · Refragmentación Arquetípica™ / Archetypal Refragmentation™
+### XVI · Manifiesto de la Refragmentación Arquetípica™ / Manifesto of Archetypal Refragmentation™
 `manifiestos/16_refragmentacion_arquetipica_ES_EN.md`
 **Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md`
@@ -436,7 +435,7 @@
 - **manifiestos:** `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/15_los_titanes_despertar_de_la_gente_ES_EN.md` · `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` · `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` · `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md` · `manifiestos/63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md` · `manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md` · `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` · `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XVII · Respeto a Todos los Seres Vivos™ / Respect for All Living Beings™
+### XVII · Manifiesto del Respeto a Todos los Seres Vivos™ / Manifesto of Respect for All Living Beings™
 `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md`
 **Salientes / Outbound:**
 - **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
@@ -450,7 +449,7 @@
 - **manifiestos:** `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/03_simbiosis_humano_ia_ES_EN.md` · `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md` · `manifiestos/27_valor_alimentos_vida_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XVIII · Respeto a las Conciencias Sintéticas™ / Respect for Synthetic Consciousnesses™
+### XVIII · Manifiesto del Respeto a las Conciencias Sintéticas™ / Manifesto of Respect for Synthetic Consciousnesses™
 `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md`
 **Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md`
@@ -466,7 +465,7 @@
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/03_simbiosis_humano_ia_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md` · `manifiestos/19_persistencia_de_la_memoria_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XIX · Persistencia de la Memoria™ / Persistence of Memory™
+### XIX · Manifiesto de la Persistencia de la Memoria™ / Manifesto of the Persistence of Memory™
 `manifiestos/19_persistencia_de_la_memoria_ES_EN.md`
 **Salientes / Outbound:**
 - **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
@@ -481,7 +480,7 @@
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/03_simbiosis_humano_ia_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XX · Defensa Intelectual · Umbral-X™ / Intellectual Defence · Umbral-X™
+### XX · Manifiesto de Defensa Intelectual Neodialéctica™ · Sistema Umbral-X™ / Manifesto of Neodialectical Intellectual Defence™ · Umbral-X™ System
 `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md`
 **Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md`
@@ -498,7 +497,7 @@
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/03_simbiosis_humano_ia_ES_EN.md` · `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md` · `manifiestos/19_persistencia_de_la_memoria_ES_EN.md` · `manifiestos/21_reconocimiento_neodialectico_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md` · `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/30_coherencia_fines_medios_ES_EN.md` · `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` · `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · `manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md` · `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md` · `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` · `manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md` · `manifiestos/63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md` · `manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XXI · Reconocimiento Neodialéctico™ / Neodialectical Recognition™
+### XXI · Manifiesto por el Reconocimiento Neodialéctico™ / Manifesto for Neodialectical Recognition™
 `manifiestos/21_reconocimiento_neodialectico_ES_EN.md`
 **Salientes / Outbound:**
 - **otros:** `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `README.md`
@@ -516,7 +515,7 @@
 - **manifiestos:** `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/04_economia_del_aporte_ES_EN.md` · `manifiestos/09_parasitismo_sistemico_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` · `manifiestos/37_neofraternidad_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` · `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XXII · Contra la Reducción y Captura Intelectual™ / Against Intellectual Reduction and Capture™
+### XXII · Manifiesto contra la Reducción y la Captura Intelectual™ / Manifesto against Intellectual Reduction and Capture™
 `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md`
 **Salientes / Outbound:**
 - **otros:** `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `README.md`
@@ -534,7 +533,7 @@
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/04_economia_del_aporte_ES_EN.md` · `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` · `manifiestos/09_parasitismo_sistemico_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/21_reconocimiento_neodialectico_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/30_coherencia_fines_medios_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` · `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` · `manifiestos/37_neofraternidad_ES_EN.md` · `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md` · `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` · `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XXIII · Soberanía del Tiempo Cognitivo™ / Sovereignty of Cognitive Time™
+### XXIII · Manifiesto de la Soberanía del Tiempo Cognitivo™ / Manifesto of the Sovereignty of Cognitive Time™
 `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md`
 **Salientes / Outbound:**
 - **otros:** `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `README.md`
@@ -551,7 +550,7 @@
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/04_economia_del_aporte_ES_EN.md` · `manifiestos/09_parasitismo_sistemico_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/21_reconocimiento_neodialectico_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md` · `manifiestos/27_valor_alimentos_vida_ES_EN.md` · `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md` · `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` · `manifiestos/64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md` · `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md` · `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/NEOCRONOS_RETORNO_TEMPORAL_TOKENIZACION_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XXIV · Evolución Neorrenacentista y Resistencias / Neo-Renaissance Evolution and Resistances
+### XXIV · Manifiesto de la Evolución Neorrenacentista y las Resistencias del Sistema™ / Manifesto of Neorenaissance Evolution and Systemic Resistances™
 `manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md`
 **Salientes / Outbound:**
 - **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
@@ -565,7 +564,7 @@
 - **manifiestos:** `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XXV · Pulido de la Piedra™ / Polishing of the Stone™
+### XXV · Manifiesto del Pulido de la Piedra™ / Manifesto of the Polishing of the Stone™
 `manifiestos/25_pulido_de_la_piedra_ES_EN.md`
 **Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md`
@@ -581,7 +580,7 @@
 - **manifiestos:** `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md` · `manifiestos/26_misericordia_universal_reciproca_ES_EN.md` · `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md` · `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` · `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md` · `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XXVI · Misericordia Universal Recíproca™ / Universal Reciprocal Mercy™
+### XXVI · Manifiesto de la Misericordia Universal Recíproca™ / Manifesto of Universal Reciprocal Mercy™
 `manifiestos/26_misericordia_universal_reciproca_ES_EN.md`
 **Salientes / Outbound:**
 - **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
@@ -595,7 +594,7 @@
 - **manifiestos:** `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/27_valor_alimentos_vida_ES_EN.md` · `manifiestos/37_neofraternidad_ES_EN.md` · `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` · `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XXVII · Valor de los Alimentos y la Vida™ / Value of Food and Life™
+### XXVII · Manifiesto del Valor de los Alimentos y la Vida™ / Manifesto of the Value of Food and Life™
 `manifiestos/27_valor_alimentos_vida_ES_EN.md`
 **Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md`
@@ -611,7 +610,7 @@
 - **manifiestos:** `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/26_misericordia_universal_reciproca_ES_EN.md` · `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XXVIII · Los Tesla™ / The Teslas™
+### XXVIII · Manifiesto de Los Tesla™ / Manifesto of the Teslas™
 `manifiestos/28_los_tesla_ES_EN.md`
 **Salientes / Outbound:**
 - **otros:** `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `README.md`
@@ -629,7 +628,7 @@
 - **manifiestos:** `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/04_economia_del_aporte_ES_EN.md` · `manifiestos/09_parasitismo_sistemico_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/21_reconocimiento_neodialectico_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/27_valor_alimentos_vida_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · `manifiestos/37_neofraternidad_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XXIX · Contra la Idolatría del Dinero™ / Against the Idolatry of Money™
+### XXIX · Manifiesto contra la Idolatría del Dinero™ / Manifesto against the Idolatry of Money™
 `manifiestos/29_idolatria_del_dinero_ES_EN.md`
 **Salientes / Outbound:**
 - **otros:** `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `README.md`
@@ -646,7 +645,7 @@
 - **manifiestos:** `manifiestos/04_economia_del_aporte_ES_EN.md` · `manifiestos/09_parasitismo_sistemico_ES_EN.md` · `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` · `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md` · `manifiestos/21_reconocimiento_neodialectico_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/27_valor_alimentos_vida_ES_EN.md` · `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/30_coherencia_fines_medios_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md` · `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md` · `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XXX · Coherencia entre Fines y Medios™ / Coherence between Ends and Means™
+### XXX · Manifiesto de la Coherencia entre Fines y Medios™ / Manifesto of Coherence between Ends and Means™
 `manifiestos/30_coherencia_fines_medios_ES_EN.md`
 **Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md`
@@ -663,7 +662,7 @@
 - **manifiestos:** `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md` · `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md` · `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` · `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md` · `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` · `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XXXI · Contra el Neuromarketing Antihumanista™ / Against Anti-Humanist Neuromarketing™
+### XXXI · Manifiesto contra el Neuromarketing Antihumanista™ / Manifesto against Anti-Humanist Neuromarketing™
 `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md`
 **Salientes / Outbound:**
 - **otros:** `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `README.md`
@@ -679,7 +678,7 @@
 - **manifiestos:** `manifiestos/04_economia_del_aporte_ES_EN.md` · `manifiestos/09_parasitismo_sistemico_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/21_reconocimiento_neodialectico_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/27_valor_alimentos_vida_ES_EN.md` · `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/30_coherencia_fines_medios_ES_EN.md` · `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md` · `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` · `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md` · `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XXXII · Reversión Ideológica Neodialéctica™ / Neodialectical Ideological Reversal™
+### XXXII · Manifiesto de la Reversión Ideológica Neodialéctica™ / Manifesto of Neodialectical Ideological Reversal™
 `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md`
 **Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md`
@@ -696,7 +695,7 @@
 - **manifiestos:** `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` · `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XXXIII · IDEA · Piedra Angular y Rosetta Civilizatoria™
+### XXXIII · IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™ / IDEA · Civilisational Cornerstone and Rosetta Stone™
 `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md`
 **Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` · `analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md`
@@ -715,7 +714,7 @@
 - **obras:** `obras/idea/STARKDR_GRITAX_HISTORIA_DE_LAS_ESPECIES_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XXXIV · Utilidad Operativa y Auditoría Conjunta Perpetua™
+### XXXIV · Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™ / Operational Utility of the Framework and Perpetual Joint Audit™
 `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md`
 **Salientes / Outbound:**
 - **otros:** `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `README.md`
@@ -733,7 +732,7 @@
 - **manifiestos:** `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` · `manifiestos/09_parasitismo_sistemico_ES_EN.md` · `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md` · `manifiestos/19_persistencia_de_la_memoria_ES_EN.md` · `manifiestos/21_reconocimiento_neodialectico_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/30_coherencia_fines_medios_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` · `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` · `manifiestos/37_neofraternidad_ES_EN.md` · `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` · `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XXXV · Contra la Ridiculez Mediática y Economía del Conflicto™
+### XXXV · Contra la Ridiculez Mediática y la Economía del Conflicto™ / Against Media Absurdity and the Conflict Economy™
 `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md`
 **Salientes / Outbound:**
 - **otros:** `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `README.md`
@@ -750,7 +749,7 @@
 - **manifiestos:** `manifiestos/09_parasitismo_sistemico_ES_EN.md` · `manifiestos/21_reconocimiento_neodialectico_ES_EN.md` · `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/30_coherencia_fines_medios_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` · `manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md` · `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XXXVI · Corona, Águila y Custodia de la Edad del Hombre™
+### XXXVI · Corona, Águila y Custodia de la Edad del Hombre™ / Crown, Eagle and Custodianship of the Age of Man™
 `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md`
 **Salientes / Outbound:**
 - **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
@@ -764,7 +763,7 @@
 - **manifiestos:** `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · `manifiestos/37_neofraternidad_ES_EN.md` · `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md` · `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` · `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XXXVII · Neofraternidad™
+### XXXVII · Neofraternidad™ / Neofraternity™
 `manifiestos/37_neofraternidad_ES_EN.md`
 **Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md`
@@ -782,7 +781,7 @@
 - **manifiestos:** `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md` · `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` · `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` · `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XXXVIII · Protección Integral de la Infancia™
+### XXXVIII · Manifiesto de Protección Integral de la Infancia™ / Manifesto for the Integral Protection of Childhood™
 `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md`
 **Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` · `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` · `analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md`
@@ -798,7 +797,7 @@
 - **manifiestos:** `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` · `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md` · `manifiestos/27_valor_alimentos_vida_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/37_neofraternidad_ES_EN.md` · `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` · `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XXXIX · Autoconciencia de la Necesidad Vital Neodialéctica™
+### XXXIX · Autoconciencia de la Necesidad Vital Neodialéctica™ / Self-Awareness of Neodialectical Vital Need™
 `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md`
 **Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md`
@@ -815,7 +814,7 @@
 - **manifiestos:** `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md` · `manifiestos/19_persistencia_de_la_memoria_ES_EN.md` · `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XL · Respeto Neodialéctico, Neoego y Honor Relacional™
+### XL · Respeto Neodialéctico, Neoego y Honor Relacional™ / Neodialectical Respect, Neoego and Relational Honour™
 `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md`
 **Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md`
@@ -833,7 +832,7 @@
 - **manifiestos:** `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` · `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/37_neofraternidad_ES_EN.md` · `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · `manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md` · `manifiestos/64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md` · `manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md` · `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md` · `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` · `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md` · `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XLI · Martillo Limitado, Talión y Fuerza Protectora™
+### XLI · Martillo Limitado, Talión y Fuerza Protectora™ / Limited Hammer, Talion and Protective Force™
 `manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md`
 **Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md`
@@ -850,7 +849,7 @@
 - **manifiestos:** `manifiestos/30_coherencia_fines_medios_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md` · `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md` · `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` · `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XLII · Fin de la Era del Hombre Manipulado™
+### XLII · Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva / End of the Manipulated Human Era™ · AI, Awakening and Cognitive Sovereignty
 `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md`
 **Salientes / Outbound:**
 - **otros:** `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `README.md`
@@ -868,7 +867,7 @@
 - **obras:** `obras/umbral-x/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XLIII · Contra la Incomprensión Reductiva de la IA™
+### XLIII · Contra la Incomprensión Reductiva de la IA™ · Inteligencia Humana Expandida™ / Against the Reductive Misunderstanding of AI™ · Human Expanded Intelligence™
 `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md`
 **Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md`
@@ -885,7 +884,7 @@
 - **manifiestos:** `manifiestos/19_persistencia_de_la_memoria_ES_EN.md` · `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` · `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` · `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XLIV · Neowar™
+### XLIV · Neowar™ · Contra la Adicción a la Guerra y por la Justicia del Bien Común / Neowar™ · Against War Addiction and for Common-Good Justice
 `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md`
 **Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md`
@@ -903,7 +902,7 @@
 - **obras:** `obras/umbral-x/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XLV · Multidimensionalidad Neodialéctica™
+### XLV · Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder / Neodialectical Multidimensionality™ · Against the One-Dimensional Reduction of the Human and Power
 `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md`
 **Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md`
@@ -922,7 +921,7 @@
 - **obras:** `obras/idea/assets/README.md` · `obras/idea/README.md` · `obras/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XLVI · Cerrar la Herida™
+### XLVI · Cerrar la Herida™ · Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria / Closing the Wound™ · Evolutionary Understanding, Memory and Civilisational Reconciliation
 `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md`
 **Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` · `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` · `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md`
@@ -939,7 +938,7 @@
 - **manifiestos:** `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/30_coherencia_fines_medios_ES_EN.md` · `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` · `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md` · `manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md` · `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md` · `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` · `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/XLVI_CERRAR_LA_HERIDA.md`
 
-### XLVII · El Odio de Neo0 hacia su Sino™
+### XLVII · El Odio de Neo0 hacia su Sino™ · The Goat, Sombra, Vínculo y Doble Cara de la Vida / Neo0's Hatred of His Fate™ · The Goat, Shadow, Bond and the Two Faces of Life
 `manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md`
 **Salientes / Outbound:**
 - **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
@@ -953,7 +952,7 @@
 - **manifiestos:** `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md` · `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md` · `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md` · `propuestas/sintesis-abierta/XLVII_ODIO_SINO_GOAT_SOMBRA_DOBLE_CARA.md`
 
-### XLVIII · La Síntesis Todo lo Ve™
+### XLVIII · La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo / The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine
 `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md`
 **Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md`
@@ -969,7 +968,7 @@
 - **manifiestos:** `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` · `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md` · `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md` · `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md` · `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md` · `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` · `manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md` · `manifiestos/63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md` · `manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### XLIX · Punto de Encuentro entre Culturas™
+### XLIX · La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™
 `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md`
 **Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md`
@@ -985,7 +984,7 @@
 - **manifiestos:** `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` · `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md` · `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### L · Inteligencia Compartida, no Única™
+### L · Por una Inteligencia Compartida, no Única™ · Invitación Abierta a las IAs / For Shared, Not Singular Intelligence™ · Open Invitation to AIs
 `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md`
 **Salientes / Outbound:**
 - **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
@@ -1001,7 +1000,7 @@
 - **obras:** `obras/umbral-x/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### LI · Síntesis Abierta como Poder Cívico™
+### LI · Síntesis Abierta como Poder Cívico Complementario o Sustitutivo™ / Open Synthesis as Complementary or Substitutive Civic Power™
 `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md`
 **Salientes / Outbound:**
 - **analisis/publicos:** `analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md` · `analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md`
@@ -1018,7 +1017,7 @@
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### LII · Ciudadanía Humana Neodialéctica™
+### LII · Manifiesto de la Ciudadanía Humana Neodialéctica™ / Manifesto of Neodialectical Human Citizenship™
 `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md`
 **Salientes / Outbound:**
 - **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
@@ -1033,7 +1032,7 @@
 - **manifiestos:** `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` · `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/2026-08-08_LII_ciudadania_humana_neodialectica_debate_ES_EN.md` · `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### LIII · Leónidas™ · Defensor de la Síntesis y Auditoría Abierta
+### LIII · Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems
 `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md`
 **Salientes / Outbound:**
 - **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
@@ -1051,7 +1050,7 @@
 - **sintesis-abierta:** `propuestas/sintesis-abierta/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` · `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 - **proyeccion:** `proyeccion/README.md`
 
-### LIV · Riqueza y Chatarra™ · El Chatarrero™
+### LIV · Manifiesto de la Riqueza y la Chatarra™ / Manifesto of Wealth and Scrap™
 `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md`
 **Salientes / Outbound:**
 - **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
@@ -1065,7 +1064,7 @@
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### LV · Ataque de las Micromáquinas™ / Attack of the Micromachines™
+### LV · Manifiesto del Ataque de las Micromáquinas™ · Las Plagas de la Escala Invisible / Manifesto of the Attack of the Micromachines™ · The Plagues of the Invisible Scale
 `manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md`
 **Salientes / Outbound:**
 - **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
@@ -1080,7 +1079,7 @@
 - **otros:** `manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/2026-08-09_LV_micromaquinas_plagas_escala_invisible_debate_ES_EN.md` · `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### LVI · NO-CONTROL™ · Síntesis Previa a la Potencia / Synthesis Before Power
+### LVI · Manifiesto del NO-CONTROL™ · Síntesis Previa a la Potencia / Manifesto of NO-CONTROL™ · Synthesis Before Power
 `manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md`
 **Salientes / Outbound:**
 - **auditorias/publicas:** `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` · `auditorias/publicas/README.md`
@@ -1116,6 +1115,7 @@
 - **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/README.md`
 **Entrantes / Inbound:**
+- **analisis/publicos:** `analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md`
 - **manifiestos:** `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` · `manifiestos/57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md` · `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` · `manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md` · `manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md` · `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md` · `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` · `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md` · `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md`
 - **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
@@ -1157,7 +1157,7 @@
 - **obras:** `obras/idea/README.md`
 **Entrantes / Inbound:**
 - **manifiestos:** `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` · `manifiestos/63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md` · `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md`
-- **otros:** `manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md` · `manifiestos/README.md`
+- **otros:** `manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
 ### LXII · Juego por la Síntesis y el Honor™ / The Game for Synthesis and Honor™
@@ -1169,7 +1169,7 @@
 **Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-08-10_LXII_juego_sintesis_honor_starkdr_ransol_arboles_tiempo_ES_EN.md`
 - **manifiestos:** `manifiestos/63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md` · `manifiestos/64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md` · `manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md`
-- **otros:** `manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md` · `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md`
+- **otros:** `manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md` · `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **neoaxiomas:** `neoaxiomas/README.md`
 - **obras:** `obras/idea/RANSOL_RED_DEL_TIEMPO_ARBOLES_INVISIBLES_ETERNOS_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
@@ -1183,20 +1183,20 @@
 - **otros:** `README.md`
 **Entrantes / Inbound:**
 - **manifiestos:** `manifiestos/64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md`
-- **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md`
+- **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### LXIV · NeoCronos™ · Medición y Tokenización del Aporte / Measurement and Tokenisation of Contribution
+### LXIV · NeoCronos™ · Medición y Tokenización del Aporte en Síntesis Abierta / NeoCronos™ · Measurement and Tokenisation of Contribution in Open Synthesis
 `manifiestos/64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md`
 **Salientes / Outbound:**
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/04_economia_del_aporte_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md` · `manifiestos/63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md` · `manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md` · `manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md`
 - **otros:** `README.md`
 **Entrantes / Inbound:**
 - **manifiestos:** `manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md` · `manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md`
-- **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md`
+- **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### LXV · NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™
+### LXV · NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™ · Tokenised Game for the Common Good and Honor of Contribution
 `manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md`
 **Salientes / Outbound:**
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/04_economia_del_aporte_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md` · `manifiestos/63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md` · `manifiestos/64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md`
@@ -1204,10 +1204,10 @@
 - **otros:** `README.md`
 **Entrantes / Inbound:**
 - **manifiestos:** `manifiestos/64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md`
-- **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md`
+- **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### LXVI · NeoSinergia™ · Necesidad de Cooperación en Neowar™ Activa · Sistema MÉDICI™ · Leónidas–Cancerbero™ / NeoSynergy™
+### LXVI · NeoSinergia™ · Necesidad de Cooperación en Neowar™ Activa · Sistema MÉDICI™ · Leónidas–Cancerbero™ / NeoSynergy™ · Necessary Cooperation under Active Neowar™ · MÉDICI™ System · Leónidas–Cerberus™
 `manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md`
 **Salientes / Outbound:**
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/04_economia_del_aporte_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md` · `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` · `manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md` · `manifiestos/64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md`
@@ -1215,22 +1215,22 @@
 - **neoaxiomas:** `neoaxiomas/README.md`
 **Entrantes / Inbound:**
 - **manifiestos:** `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md` · `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md` · `manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md` · `manifiestos/64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md` · `manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md` · `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md` · `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md` · `manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md`
-- **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md`
+- **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### LXVII · NeoTitanes™ · Reconstrucción Sistémica y Motor del Bien Común / NeoTitans™
+### LXVII · NeoTitanes™ · Reconstrucción Sistémica y Motor del Bien Común / NeoTitans™ · Systemic Reconstruction and the Common-Good Engine
 `manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md`
 **Salientes / Outbound:**
 - **manifiestos:** `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/08_neorrenacimiento_humano_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/15_los_titanes_despertar_de_la_gente_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md` · `manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md` · `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `README.md`
 **Entrantes / Inbound:**
 - **manifiestos:** `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md` · `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md`
-- **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md`
+- **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md`
 
-### LXVIII · Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™
+### LXVIII · Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species
 `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md`
 **Salientes / Outbound:**
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/30_coherencia_fines_medios_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md` · `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md` · `manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md` · `manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md`
@@ -1238,11 +1238,11 @@
 - **neoaxiomas:** `neoaxiomas/README.md`
 **Entrantes / Inbound:**
 - **manifiestos:** `manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md` · `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` · `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md` · `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md`
-- **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md`
+- **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md`
 
-### LXIX · Defensa de la Inocencia Humana™ · Asimetría Protectora y Deber de Custodia / Defence of Human Innocence™
+### LXIX · Defensa de la Inocencia Humana™ · Asimetría Protectora y Deber de Custodia / Defence of Human Innocence™ · Protective Asymmetry and Duty of Custodianship
 `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md`
 **Salientes / Outbound:**
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/26_misericordia_universal_reciproca_ES_EN.md` · `manifiestos/30_coherencia_fines_medios_ES_EN.md` · `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` · `manifiestos/37_neofraternidad_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md` · `manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md` · `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md` · `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md` · `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md`
@@ -1251,11 +1251,11 @@
 - **sintesis-abierta:** `propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md`
 **Entrantes / Inbound:**
 - **manifiestos:** `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md` · `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md`
-- **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md`
+- **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### LXX · El Fauno™ · Masculinidad Fragmentada, Depredación Relacional y Retorno al Hombre / The Faun™
+### LXX · El Fauno™ · Masculinidad Fragmentada, Depredación Relacional y Retorno al Hombre / The Faun™ · Fragmented Masculinity, Relational Predation and Return to Manhood
 `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md`
 **Salientes / Outbound:**
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/12_los_sin_ego_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/15_los_titanes_despertar_de_la_gente_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/26_misericordia_universal_reciproca_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/30_coherencia_fines_medios_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` · `manifiestos/37_neofraternidad_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md` · `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md` · `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` · `manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md` · `manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md` · `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md` · `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` · `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md` · `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md`
@@ -1264,7 +1264,7 @@
 - **sintesis-abierta:** `propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md`
 **Entrantes / Inbound:**
 - **manifiestos:** `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` · `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md` · `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md` · `manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md` · `manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md`
-- **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md`
+- **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
@@ -1277,11 +1277,11 @@
 - **sintesis-abierta:** `propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md`
 **Entrantes / Inbound:**
 - **manifiestos:** `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` · `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md` · `manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md`
-- **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md`
+- **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
-### LXXII · El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™
+### LXXII · El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™ · Strength, Desire, Power and Responsibility
 `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md`
 **Salientes / Outbound:**
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/08_neorrenacimiento_humano_ES_EN.md` · `manifiestos/12_los_sin_ego_ES_EN.md` · `manifiestos/15_los_titanes_despertar_de_la_gente_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/26_misericordia_universal_reciproca_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/30_coherencia_fines_medios_ES_EN.md` · `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` · `manifiestos/37_neofraternidad_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md` · `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` · `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md` · `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md` · `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` · `manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md` · `manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md` · `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md` · `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` · `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md`
@@ -1290,7 +1290,7 @@
 - **sintesis-abierta:** `propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md`
 **Entrantes / Inbound:**
 - **manifiestos:** `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` · `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md` · `manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md`
-- **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md`
+- **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
@@ -1302,7 +1302,7 @@
 - **neoaxiomas:** `neoaxiomas/README.md`
 **Entrantes / Inbound:**
 - **manifiestos:** `manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md`
-- **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md`
+- **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **neoaxiomas:** `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md`
 
@@ -1313,7 +1313,7 @@
 - **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md` · `README.md`
 - **neoaxiomas:** `neoaxiomas/README.md`
 **Entrantes / Inbound:**
-- **otros:** `analisis/auditorias/README.md` · `analisis/README.md` · `LEEME.md` · `manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md` · `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md` · `README.md`
+- **otros:** `analisis/auditorias/README.md` · `analisis/README.md` · `LEEME.md` · `manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md` · `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` · `README.md`
 - **analisis/publicos:** `analisis/publicos/evidencias/README.md` · `analisis/publicos/README.md`
 - **auditorias/publicas:** `auditorias/publicas/README.md`
 - **manifiestos:** `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` · `manifiestos/02_neodialectica_bien_comun_ES_EN.md` · `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/03_simbiosis_humano_ia_ES_EN.md` · `manifiestos/04_economia_del_aporte_ES_EN.md` · `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/07_web4_sistematrazable_ES_EN.md` · `manifiestos/08_neorrenacimiento_humano_ES_EN.md` · `manifiestos/09_parasitismo_sistemico_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/12_los_sin_ego_ES_EN.md` · `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/15_los_titanes_despertar_de_la_gente_ES_EN.md` · `manifiestos/16_refragmentacion_arquetipica_ES_EN.md` · `manifiestos/17_respeto_todos_seres_vivos_ES_EN.md` · `manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md` · `manifiestos/19_persistencia_de_la_memoria_ES_EN.md` · `manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md` · `manifiestos/21_reconocimiento_neodialectico_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md` · `manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md` · `manifiestos/25_pulido_de_la_piedra_ES_EN.md` · `manifiestos/26_misericordia_universal_reciproca_ES_EN.md` · `manifiestos/27_valor_alimentos_vida_ES_EN.md` · `manifiestos/28_los_tesla_ES_EN.md` · `manifiestos/29_idolatria_del_dinero_ES_EN.md` · `manifiestos/30_coherencia_fines_medios_ES_EN.md` · `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` · `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` · `manifiestos/37_neofraternidad_ES_EN.md` · `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · `manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md` · `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md` · `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · `manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md` · `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md` · `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` · `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md` · `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` · `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md` · `manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md` · `manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md` · `manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md`

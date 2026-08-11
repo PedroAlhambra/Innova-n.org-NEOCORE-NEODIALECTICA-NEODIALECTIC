@@ -1,6 +1,8 @@
 # XXXVII · Neofraternidad™
 # XXXVII · Neofraternity™
 
+**Manifiesto / Manifesto:** XXXVII  
+
 **Versión / Version:** 1.0  
 **Fecha / Date:** 2026-08-07  
 **Autoría y dirección / Authorship and direction:** Pedro Martínez Alhambra · Neo0™  
@@ -644,9 +646,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XXXVI** · [Corona, Águila y Custodia de la Edad del Hombre™](XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md)  
+← **XXXVI** · [Corona, Águila y Custodia de la Edad del Hombre™ / Crown, Eagle and Custodianship of the Age of Man™](XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
-**XXXVIII** · [Protección Integral de la Infancia™](XXXVIII_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) →
+**XXXVIII** · [Manifiesto de Protección Integral de la Infancia™ / Manifesto for the Integral Protection of Childhood™](XXXVIII_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

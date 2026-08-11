@@ -1,8 +1,8 @@
 # Mapa transversal · Manifiestos ↔ trabajo aplicado
 # Transversal map · Manifestos ↔ applied work
 
-**Estado / Status:** público · relacional · 2026-08-09 / public · relational · 2026-08-09  
-**Cobertura / Coverage:** I–LX · 60 manifiestos / 60 manifestos  
+**Estado / Status:** público · relacional · vivo / public · relational · living  
+**Cobertura / Coverage:** I–LXXIV · 74 manifiestos finitos + ∞ como continuidad abierta / 74 finite manifestos I–LXXIV + ∞ as open continuity  
 **Función / Function:** relacionar principios, análisis, auditorías, obras, protocolos, evidencias y casos mediante enlaces internos, sin convertir correlación documental en prueba causal. / Relate principles, analyses, audits, works, protocols, evidence and cases through internal links without turning documentary correlation into causal proof.
 
 ---
@@ -328,6 +328,100 @@ Casos y análisis principales:
 - **C** · [Oráculo Neodialéctico™](../fragmentos/INDICE.md).
 - **C** · [Puente de Síntesis Abierta XLVII](../propuestas/sintesis-abierta/XLVII_ODIO_SINO_GOAT_SOMBRA_DOBLE_CARA.md).
 - **C** · [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md).
+
+---
+
+<!-- NEO_RELATIONS_LXI_LXXIV_START -->
+
+---
+
+## LXI–LXXIV · frontera relacional vigente / current relational frontier
+
+> Esta sección completa el mapa curado hasta el último manifiesto finito vigente. Las relaciones indican afinidad funcional, genealogía, aplicación o contraste documental; no prueban causalidad, identidad conceptual ni validación automática. / This section completes the curated map up to the current latest finite manifesto. Relations indicate functional affinity, genealogy, application or documentary scrutiny; they do not prove causation, conceptual identity or automatic validation.
+
+### LXI · [Contra el Reduccionismo Matemático™ y por la Custodia Experimental Multiescalar™ / Against Mathematical Reductionism™ and for Multiscale Experimental Custodianship™](./61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md)
+- **Relación / Relation:** B–C · método experimental, límites del formalismo y contraste multiescalar / experimental method, limits of formalism and multiscale scrutiny.
+- **Síntesis Abierta / Open Synthesis:** [#101](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/101).
+- **Interconexiones / Interconnections:** [XX · Umbral-X™](./20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md) · [XLV · Multidimensionalidad Neodialéctica™](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) · [LVIII · Inteligencia Civilizatoria™](./58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md) · [NeoGenealogía™](../propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md).
+
+### LXII · [Juego por la Síntesis y el Honor™ / The Game for Synthesis and Honor™](./62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md)
+- **Relación / Relation:** C · arquitectura de juego, honor, no coronación de la parte y continuidad abierta / game architecture, honor, non-coronation of the part and open continuity.
+- **Síntesis Abierta / Open Synthesis:** [#103](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/103).
+- **Interconexiones / Interconnections:** [XLIV · Neowar™](./44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md) · [∞ · Puerta Abierta del Fractal](./INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) · [C-NAX-16 · No Coronación de la Parte™](../neoaxiomas/README.md).
+
+### LXIII · [Contra la Simplificación Burda del Marco™ / Against Crude Simplification of the Framework™](./63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md)
+- **Relación / Relation:** A–C · fidelidad de compresión, integridad documental y acceso sin mutilación / compression fidelity, documentary integrity and access without mutilation.
+- **Síntesis Abierta / Open Synthesis:** [#105](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/105).
+- **Interconexiones / Interconnections:** [IX · Memoria, Genealogía y Trazabilidad](./06_memoria_genealogia_trazabilidad_ES_EN.md) · [XXXIV · Auditoría Conjunta Perpetua™](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) · [Auditoría ES/EN](../auditorias/publicas/2026-08-09_auditoria_paridad_ES_EN_manifiestos_articulos.md) · [Auditoría estructural bilingüe](../auditorias/publicas/2026-08-12_auditoria_estructura_bilingue_manifiestos_ES_EN.md).
+
+### LXIV · [NeoCronos™ · Medición y Tokenización del Aporte en Síntesis Abierta / NeoCronos™ · Measurement and Tokenisation of Contribution in Open Synthesis](./64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md)
+- **Relación / Relation:** A–C · tiempo de aporte, medición trazable y entrada en Síntesis Abierta / contribution time, traceable measurement and Open-Synthesis entry.
+- **Síntesis Abierta / Open Synthesis:** [#107](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/107).
+- **Interconexiones / Interconnections:** [VII · Economía del Aporte](./04_economia_del_aporte_ES_EN.md) · [X · WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md) · [NeoCronos™ · upgrade de entrada/panel/traza](../propuestas/sintesis-abierta/NEOCRONOS_UPGRADE_ENTRADA_PANEL_TRAZA_ES_EN.md) · [NeoCronos™ · retorno temporal/tokenización](../propuestas/sintesis-abierta/NEOCRONOS_RETORNO_TEMPORAL_TOKENIZACION_ES_EN.md) · [NAX-13 · Liberación del Tiempo de Control hacia Creación y Aporte™](../neoaxiomas/README.md).
+
+### LXV · [NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™ · Tokenised Game for the Common Good and Honor of Contribution](./65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
+- **Relación / Relation:** B–C · incentivo, reconocimiento y juego subordinados al Bien Común / incentive, recognition and game subordinated to the Common Good.
+- **Síntesis Abierta / Open Synthesis:** [#109](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/109).
+- **Interconexiones / Interconnections:** [VII · Economía del Aporte](./04_economia_del_aporte_ES_EN.md) · [LXIV · NeoCronos™](./64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md) · [XL · Respeto, Neoego y Honor Relacional™](./40_respeto_neoego_honor_relacional_ES_EN.md).
+
+### LXVI · [NeoSinergia™ · Necesidad de Cooperación en Neowar™ Activa · Sistema MÉDICI™ · Leónidas–Cancerbero™ / NeoSynergy™ · Necessary Cooperation under Active Neowar™ · MÉDICI™ System · Leónidas–Cerberus™](./66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
+- **Relación / Relation:** B–C · cooperación, NeoSinergia™ y coordinación bajo tensión / cooperation, NeoSynergy™ and coordination under tension.
+- **Síntesis Abierta / Open Synthesis:** [#110](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/110).
+- **Interconexiones / Interconnections:** [NAX-08 · Cooperación de Excelencia frente a Competencia Depredadora™](../neoaxiomas/README.md) · [C-NAX-18 · Motor del Bien Común + NeoSinergia™](../neoaxiomas/README.md) · [LXVII · NeoTitanes™](./67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md) · [LIII · Leónidas™](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md).
+
+### LXVII · [NeoTitanes™ · Reconstrucción Sistémica y Motor del Bien Común / NeoTitans™ · Systemic Reconstruction and the Common-Good Engine](./67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md)
+- **Relación / Relation:** B–C · reconstrucción sistémica, cooperación y motor del Bien Común / systemic reconstruction, cooperation and Common-Good engine.
+- **Síntesis Abierta / Open Synthesis:** [#112](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/112).
+- **Interconexiones / Interconnections:** [C-NAX-17 · Reconstrucción Sistémica™](../neoaxiomas/README.md) · [C-NAX-18 · Motor del Bien Común + NeoSinergia™](../neoaxiomas/README.md) · [LXVI · NeoSinergia™](./66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md) · [XXXIV · Auditoría Conjunta Perpetua™](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md).
+
+### LXVIII · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species](./68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
+- **Relación / Relation:** B–C · soberanía intelectual, atribución y separación entre conflicto ajeno y juicio propio / intellectual sovereignty, attribution and separation between inherited conflict and independent judgement.
+- **Síntesis Abierta / Open Synthesis:** [#114](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/114).
+- **Interconexiones / Interconnections:** [IX · Memoria, Genealogía y Trazabilidad](./06_memoria_genealogia_trazabilidad_ES_EN.md) · [XXII · Contra la Reducción y Captura Intelectual™](./22_contra_reduccion_captura_intelectual_ES_EN.md) · [C-NAX-15 · Soberanía Intelectual de la Especie™](../neoaxiomas/README.md) · [NeoGenealogía™](../propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md).
+
+### LXIX · [Defensa de la Inocencia Humana™ · Asimetría Protectora y Deber de Custodia / Defence of Human Innocence™ · Protective Asymmetry and Duty of Custodianship](./69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md)
+- **Relación / Relation:** B–C · protección proporcional, inocencia y asimetría de poder / proportional protection, innocence and power asymmetry.
+- **Síntesis Abierta / Open Synthesis:** [#119](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/119).
+- **Interconexiones / Interconnections:** [XXXVIII · Protección Integral de la Infancia™](./38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) · [C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™](../neoaxiomas/README.md) · [Delta relacional LXXIII–LXXIV](../propuestas/sintesis-abierta/2026-08-11_DELTA_HUMANIDAD_COMUN_MADURACION_INVERTIDA_TROL_BOT_MAL_SISTEMICO_ES_EN.md).
+
+### LXX · [El Fauno™ · Masculinidad Fragmentada, Depredación Relacional y Retorno al Hombre / The Faun™ · Fragmented Masculinity, Relational Predation and Return to Manhood](./70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md)
+- **Relación / Relation:** B–C · arquetipo funcional, depredación relacional y no reducción de persona a conducta / functional archetype, relational predation and non-reduction of person to conduct.
+- **Síntesis Abierta / Open Synthesis:** [#120](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/120).
+- **Interconexiones / Interconnections:** [XVI · Refragmentación Arquetípica™](./16_refragmentacion_arquetipica_ES_EN.md) · [C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™](../neoaxiomas/README.md) · [Delta relacional LXXIII–LXXIV](../propuestas/sintesis-abierta/2026-08-11_DELTA_HUMANIDAD_COMUN_MADURACION_INVERTIDA_TROL_BOT_MAL_SISTEMICO_ES_EN.md).
+
+### LXXI · [Libertad Sexual, Hipersexualización Industrial y Separación de Planos™ / Sexual Freedom, Industrial Hypersexualisation and Separation of Planes™](./71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md)
+- **Relación / Relation:** B–C · libertad adulta, hipersexualización industrial y separación de planos / adult freedom, industrial hypersexualisation and separation of planes.
+- **Síntesis Abierta / Open Synthesis:** [#121](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/121).
+- **Interconexiones / Interconnections:** [XXXI · Neuromarketing Antihumanista™](./31_contra_neuromarketing_antihumanista_ES_EN.md) · [XXXVIII · Protección Integral de la Infancia™](./38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) · [C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™](../neoaxiomas/README.md) · [Delta relacional LXXIII–LXXIV](../propuestas/sintesis-abierta/2026-08-11_DELTA_HUMANIDAD_COMUN_MADURACION_INVERTIDA_TROL_BOT_MAL_SISTEMICO_ES_EN.md).
+
+### LXXII · [El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™ · Strength, Desire, Power and Responsibility](./72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md)
+- **Relación / Relation:** B–C · fuerza, deseo y poder convertidos en responsabilidad de custodia / strength, desire and power converted into custodial responsibility.
+- **Síntesis Abierta / Open Synthesis:** [#122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122).
+- **Interconexiones / Interconnections:** [XXXVI · Corona, Águila y Custodia™](./36_corona_aguila_custodia_edad_del_hombre_ES_EN.md) · [XLI · Fuerza Protectora™](./41_martillo_limitado_talion_fuerza_protectora_ES_EN.md) · [C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™](../neoaxiomas/README.md) · [Delta relacional LXXIII–LXXIV](../propuestas/sintesis-abierta/2026-08-11_DELTA_HUMANIDAD_COMUN_MADURACION_INVERTIDA_TROL_BOT_MAL_SISTEMICO_ES_EN.md).
+
+### LXXIII · [Maduración Invertida™ · Humanidad Común y Degradación Arquetípica Reversible / Inverted Maturation™ · Common Humanity and Reversible Archetypal Degradation](./73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md)
+- **Relación / Relation:** B–C · maduración invertida, humanidad común y reversibilidad arquetípica / inverted maturation, common humanity and archetypal reversibility.
+- **Síntesis Abierta / Open Synthesis:** [#124](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/124).
+- **Interconexiones / Interconnections:** [C-NAX-20 · Humanidad Común sin Supresión de la Diferencia™](../neoaxiomas/README.md) · [C-NAX-21 · Ignorancia Sistémica del Mal™](../neoaxiomas/README.md) · [LXXIV · Asimetría de la Destrucción™](./74_asimetria_destruccion_trol_humano_bot_ES_EN.md) · [Delta relacional LXXIII–LXXIV](../propuestas/sintesis-abierta/2026-08-11_DELTA_HUMANIDAD_COMUN_MADURACION_INVERTIDA_TROL_BOT_MAL_SISTEMICO_ES_EN.md).
+
+### LXXIV · [Asimetría de la Destrucción™ · Del Trol Humano al Bot / Asymmetry of Destruction™ · From the Human Troll to the Bot](./74_asimetria_destruccion_trol_humano_bot_ES_EN.md)
+- **Relación / Relation:** B–C · asimetría de coste del daño, trolismo, microagencia digital y reparación / asymmetry in the cost of harm, trollism, digital micro-agency and repair.
+- **Síntesis Abierta / Open Synthesis:** [#125](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/125).
+- **Interconexiones / Interconnections:** [VI · Parasitismo Sistémico](./09_parasitismo_sistemico_ES_EN.md) · [LV · Micromáquinas™](./55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md) · [C-NAX-21 · Ignorancia Sistémica del Mal™](../neoaxiomas/README.md) · [Delta relacional LXXIII–LXXIV](../propuestas/sintesis-abierta/2026-08-11_DELTA_HUMANIDAD_COMUN_MADURACION_INVERTIDA_TROL_BOT_MAL_SISTEMICO_ES_EN.md).
+
+### Neoaxiomas relacionados / Related Neoaxioms
+
+- **LXVIII → C-NAX-15 · Soberanía Intelectual de la Especie™ / Intellectual Sovereignty of the Species™.**
+- **LXII + ∞ → C-NAX-16 · No Coronación de la Parte™ / Non-Coronation of the Part™.**
+- **LXVII → C-NAX-17 · Reconstrucción Sistémica™ / Systemic Reconstruction™.**
+- **LXVI + LXVII → C-NAX-18 · Motor del Bien Común + NeoSinergia™ / Common-Good Engine + NeoSynergy™.**
+- **LXIX–LXXII → C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™.**
+- **LXXIII → C-NAX-20 · Humanidad Común sin Supresión de la Diferencia™ / Common Humanity without Suppression of Difference™.**
+- **VI + LXXIII + LXXIV → C-NAX-21 · Ignorancia Sistémica del Mal y No Superioridad de la Destrucción™ / Systemic Ignorance of Evil and Non-Superiority of Destruction™.**
+
+[Abrir capa neoaxiomática completa / Open full Neoaxiomatic layer](../neoaxiomas/README.md) · [Matriz general SAN #80 / General SAN matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
+
+<!-- NEO_RELATIONS_LXI_LXXIV_END -->
 
 ---
 

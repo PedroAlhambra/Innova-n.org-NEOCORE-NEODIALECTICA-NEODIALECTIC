@@ -664,9 +664,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **L** · [Inteligencia Compartida, no Única™](L_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)  
+← **L** · [Por una Inteligencia Compartida, no Única™ · Invitación Abierta a las IAs / For Shared, Not Singular Intelligence™ · Open Invitation to AIs](L_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
-**LII** · [Ciudadanía Humana Neodialéctica™](LII_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md) →
+**LII** · [Manifiesto de la Ciudadanía Humana Neodialéctica™ / Manifesto of Neodialectical Human Citizenship™](LII_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

@@ -766,7 +766,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ← **XII** · [Los sin ego / The Egoless](12_los_sin_ego_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](README.md) ·  
-**XIV** · [Contra la Alienación Humana™ / Against Human Alienation™](14_contra_alienacion_humana_ES_EN.md) →
+**XIV** · [Manifiesto contra la Alienación Humana™ / Manifesto Against Human Alienation™](14_contra_alienacion_humana_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

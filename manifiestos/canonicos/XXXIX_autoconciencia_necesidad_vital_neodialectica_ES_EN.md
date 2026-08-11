@@ -697,9 +697,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XXXVIII** · [Protección Integral de la Infancia™](XXXVIII_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)  
+← **XXXVIII** · [Manifiesto de Protección Integral de la Infancia™ / Manifesto for the Integral Protection of Childhood™](XXXVIII_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
-**XL** · [Respeto Neodialéctico, Neoego y Honor Relacional™](XL_respeto_neoego_honor_relacional_ES_EN.md) →
+**XL** · [Respeto Neodialéctico, Neoego y Honor Relacional™ / Neodialectical Respect, Neoego and Relational Honour™](XL_respeto_neoego_honor_relacional_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

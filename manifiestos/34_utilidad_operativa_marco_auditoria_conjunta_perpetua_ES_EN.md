@@ -812,9 +812,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XXXIII** · [IDEA · Piedra Angular y Rosetta Civilizatoria™](33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)  
+← **XXXIII** · [IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™ / IDEA · Civilisational Cornerstone and Rosetta Stone™](33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](README.md) ·  
-**XXXV** · [Contra la Ridiculez Mediática y Economía del Conflicto™](35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) →
+**XXXV** · [Contra la Ridiculez Mediática y la Economía del Conflicto™ / Against Media Absurdity and the Conflict Economy™](35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

@@ -1,6 +1,8 @@
 # LXXI · Libertad Sexual, Hipersexualización Industrial y Separación de Planos™
 # LXXI · Sexual Freedom, Industrial Hypersexualisation and Separation of Planes™
 
+**Manifiesto / Manifesto:** LXXI  
+
 **Versión / Version:** 1.0  
 **Fecha / Date:** 2026-08-11  
 **Estado / Status:** manifiesto público abierto a Síntesis / public manifesto open to Synthesis  

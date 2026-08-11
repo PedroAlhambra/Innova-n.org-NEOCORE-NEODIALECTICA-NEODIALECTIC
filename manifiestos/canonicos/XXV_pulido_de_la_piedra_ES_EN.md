@@ -314,9 +314,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XXIV** · [Evolución Neorrenacentista y Resistencias / Neo-Renaissance Evolution and Resistances](XXIV_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md)  
+← **XXIV** · [Manifiesto de la Evolución Neorrenacentista y las Resistencias del Sistema™ / Manifesto of Neorenaissance Evolution and Systemic Resistances™](XXIV_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
-**XXVI** · [Misericordia Universal Recíproca™ / Universal Reciprocal Mercy™](XXVI_misericordia_universal_reciproca_ES_EN.md) →
+**XXVI** · [Manifiesto de la Misericordia Universal Recíproca™ / Manifesto of Universal Reciprocal Mercy™](XXVI_misericordia_universal_reciproca_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

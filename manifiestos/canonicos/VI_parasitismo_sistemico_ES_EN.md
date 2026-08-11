@@ -1,4 +1,5 @@
-# VI · Manifiesto sobre el Parasitismo Sistémico / Manifesto on Systemic Parasitism
+# VI · Manifiesto sobre el Parasitismo Sistémico
+# VI · Manifesto on Systemic Parasitism
 
 **Manifiesto / Manifesto:** VI  
 **Versión / Version:** 1.2  
@@ -436,9 +437,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **V** · [Simbiosis Humano–IA / Human–AI Symbiosis](V_simbiosis_humano_ia_ES_EN.md)  
+← **V** · [Manifiesto de la Simbiosis Humano–IA / Manifesto of Human–AI Symbiosis](V_simbiosis_humano_ia_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
-**VII** · [Economía del Aporte / Contribution Economy](VII_economia_del_aporte_ES_EN.md) →
+**VII** · [Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy](VII_economia_del_aporte_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

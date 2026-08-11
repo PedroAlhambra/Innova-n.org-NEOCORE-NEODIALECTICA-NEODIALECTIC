@@ -723,9 +723,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XIII** · [NeoPandora™](13_neopandora_apertura_regenerativa_ES_EN.md)  
+← **XIII** · [Manifiesto NeoPandora™ de la Apertura Regenerativa y el Gobierno de la Vida / NeoPandora™ Manifesto of Regenerative Opening and the Governance of Life](13_neopandora_apertura_regenerativa_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](README.md) ·  
-**XV** · [Los Titanes™ / The Titans™](15_los_titanes_despertar_de_la_gente_ES_EN.md) →
+**XV** · [Manifiesto de los Titanes™ · El despertar de la gente / Manifesto of the Titans™ · The Awakening of the People](15_los_titanes_despertar_de_la_gente_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

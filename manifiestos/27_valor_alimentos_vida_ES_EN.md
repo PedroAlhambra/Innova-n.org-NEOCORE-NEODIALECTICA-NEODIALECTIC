@@ -344,9 +344,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XXVI** · [Misericordia Universal Recíproca™ / Universal Reciprocal Mercy™](26_misericordia_universal_reciproca_ES_EN.md)  
+← **XXVI** · [Manifiesto de la Misericordia Universal Recíproca™ / Manifesto of Universal Reciprocal Mercy™](26_misericordia_universal_reciproca_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](README.md) ·  
-**XXVIII** · [Los Tesla™ / The Teslas™](28_los_tesla_ES_EN.md) →
+**XXVIII** · [Manifiesto de Los Tesla™ / Manifesto of the Teslas™](28_los_tesla_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

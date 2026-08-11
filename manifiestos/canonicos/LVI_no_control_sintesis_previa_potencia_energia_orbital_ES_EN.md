@@ -604,7 +604,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **LV** · [Ataque de las Micromáquinas™ / Attack of the Micromachines™](LV_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md)  
+← **LV** · [Manifiesto del Ataque de las Micromáquinas™ · Las Plagas de la Escala Invisible / Manifesto of the Attack of the Micromachines™ · The Plagues of the Invisible Scale](LV_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
 **LVII** · [Madre, Refugio y Retorno Consciente™ / Mother, Refuge and Conscious Return™](LVII_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md) →
 

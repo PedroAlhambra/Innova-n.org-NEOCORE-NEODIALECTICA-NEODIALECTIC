@@ -1,4 +1,5 @@
-# IV · Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good
+# IV · Manifiesto de la Neodialéctica™ y el Bien Común
+# IV · Manifesto of Neodialectics™ and the Common Good
 
 **Manifiesto / Manifesto:** IV  
 **Versión / Version:** 1.1  
@@ -249,9 +250,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **III** · [Derecho Humano de Aporte / Human Right to Contribute](III_derecho_humano_aporte_sintesis_abierta_ES_EN.md)  
+← **III** · [Manifiesto del Derecho Humano de Aporte a la Síntesis Abierta™ / Manifesto of the Human Right to Contribute to Open Synthesis™](III_derecho_humano_aporte_sintesis_abierta_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
-**V** · [Simbiosis Humano–IA / Human–AI Symbiosis](V_simbiosis_humano_ia_ES_EN.md) →
+**V** · [Manifiesto de la Simbiosis Humano–IA / Manifesto of Human–AI Symbiosis](V_simbiosis_humano_ia_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

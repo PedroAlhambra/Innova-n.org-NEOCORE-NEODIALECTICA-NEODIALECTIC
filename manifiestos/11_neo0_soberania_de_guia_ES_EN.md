@@ -528,7 +528,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ← **Inicio de la colección / Start of collection**  
 · [Índice I–LXXIV / I–LXXIV index](README.md) ·  
-**II** · [Síntesis Abierta Neodialéctica™ / Neodialectical Open Synthesis™](01_sintesis_abierta_neodialectica_ES_EN.md) →
+**II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](01_sintesis_abierta_neodialectica_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

@@ -1,7 +1,7 @@
 # Postcheck dinámico · README, índices y enlaces / Dynamic README, indices and links postcheck
 
 **Fecha / Date:** 2026-08-12  
-**Estado / Status:** **REQUIERE CORRECCIÓN / NEEDS CORRECTION**
+**Estado / Status:** **OK**
 
 > **Alcance:** el grafo vivo excluye `wiki-legacy-archive/` porque conserva deliberadamente la topología histórica anterior. Los archivos históricos permanecen versionados, pero sus enlaces obsoletos no se contabilizan como roturas del estado canónico vigente. / **Scope:** the living graph excludes `wiki-legacy-archive/`, which deliberately preserves the former Wiki topology. Historical files remain versioned, but their obsolete links do not count as breakage of the current canonical state.
 
@@ -10,14 +10,14 @@
 - Archivos Markdown activos revisados: **354**.
 - Archivos Markdown históricos excluidos del estado vivo: **55**.
 - README/LEEME activos revisados: **18**.
-- Enlaces internos de ruta comprobados: **11000**.
+- Enlaces internos de ruta comprobados: **11068**.
 - Alias internos de GitHub Wiki reconocidos: **38**.
-- Enlaces externos inventariados sin comprobar disponibilidad remota: **1944**.
+- Enlaces externos inventariados sin comprobar disponibilidad remota: **1959**.
 - Enlaces sólo a ancla detectados: **416**.
 - Bloques de último manifiesto encontrados en README/LEEME: **10**.
 - Manifiestos canónicos detectados: **74 · I–LXXIV**.
 - Último manifiesto / Síntesis: **LXXIV / #125**.
-- Enlaces internos rotos del grafo vivo: **2**.
+- Enlaces internos rotos del grafo vivo: **0**.
 - Fallos canónicos críticos: **0**.
 
 ### Comprobaciones canónicas
@@ -30,21 +30,18 @@
 
 ### Enlaces internos rotos del grafo vivo
 
-| Origen | Destino | Motivo |
-|---|---|---|
-| `analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md` | `../../manifiestos/58_inteligencia_civilizatoria_pacto_social_bien_comun_ES_EN.md` | destino inexistente / missing target |
-| `analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md` | `../../manifiestos/58_inteligencia_civilizatoria_pacto_social_bien_comun_ES_EN.md` | destino inexistente / missing target |
+- Ninguno detectado por el validador de rutas del repositorio.
 
 ## EN · Result
 
 - Active Markdown files reviewed: **354**.
 - Historical Markdown files excluded from living-state health: **55**.
 - Active README/LEEME files reviewed: **18**.
-- Internal path links checked: **11000**.
+- Internal path links checked: **11068**.
 - GitHub Wiki extensionless page aliases recognised: **38**.
 - Canonical manifestos detected: **74 · I–LXXIV**.
 - Latest manifesto / synthesis: **LXXIV / #125**.
-- Broken internal links in the living graph: **2**.
+- Broken internal links in the living graph: **0**.
 - Canonical critical failures: **0**.
 
 The canonical collection is derived dynamically from the current manifesto index. Historical Wiki archives are preserved as evidence but are not treated as the live navigation graph.

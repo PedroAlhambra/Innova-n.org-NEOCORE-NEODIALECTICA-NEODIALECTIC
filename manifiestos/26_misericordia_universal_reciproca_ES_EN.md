@@ -400,9 +400,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XXV** · [Pulido de la Piedra™ / Polishing of the Stone™](25_pulido_de_la_piedra_ES_EN.md)  
+← **XXV** · [Manifiesto del Pulido de la Piedra™ / Manifesto of the Polishing of the Stone™](25_pulido_de_la_piedra_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](README.md) ·  
-**XXVII** · [Valor de los Alimentos y la Vida™ / Value of Food and Life™](27_valor_alimentos_vida_ES_EN.md) →
+**XXVII** · [Manifiesto del Valor de los Alimentos y la Vida™ / Manifesto of the Value of Food and Life™](27_valor_alimentos_vida_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

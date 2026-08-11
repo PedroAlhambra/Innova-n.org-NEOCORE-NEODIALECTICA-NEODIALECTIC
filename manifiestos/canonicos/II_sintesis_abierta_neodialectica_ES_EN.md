@@ -1,4 +1,5 @@
-# II · Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™
+# II · Manifiesto de la Síntesis Abierta Neodialéctica™
+# II · Manifesto of Neodialectical Open Synthesis™
 
 **Manifiesto / Manifesto:** II  
 **Versión / Version:** 1.1  
@@ -288,9 +289,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **I** · [Neo0™ · Soberanía de Guía / Guiding Sovereignty](I_neo0_soberania_de_guia_ES_EN.md)  
+← **I** · [Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica / Neo0™ Manifesto of Neodialectical Guiding Sovereignty](I_neo0_soberania_de_guia_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
-**III** · [Derecho Humano de Aporte / Human Right to Contribute](III_derecho_humano_aporte_sintesis_abierta_ES_EN.md) →
+**III** · [Manifiesto del Derecho Humano de Aporte a la Síntesis Abierta™ / Manifesto of the Human Right to Contribute to Open Synthesis™](III_derecho_humano_aporte_sintesis_abierta_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

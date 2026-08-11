@@ -714,9 +714,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XV** · [Los Titanes™ / The Titans™](XV_los_titanes_despertar_de_la_gente_ES_EN.md)  
+← **XV** · [Manifiesto de los Titanes™ · El despertar de la gente / Manifesto of the Titans™ · The Awakening of the People](XV_los_titanes_despertar_de_la_gente_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
-**XVII** · [Respeto a Todos los Seres Vivos™ / Respect for All Living Beings™](XVII_respeto_todos_seres_vivos_ES_EN.md) →
+**XVII** · [Manifiesto del Respeto a Todos los Seres Vivos™ / Manifesto of Respect for All Living Beings™](XVII_respeto_todos_seres_vivos_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

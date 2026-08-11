@@ -465,9 +465,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **LIV** · [Riqueza y Chatarra™ · El Chatarrero™](LIV_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md)  
+← **LIV** · [Manifiesto de la Riqueza y la Chatarra™ / Manifesto of Wealth and Scrap™](LIV_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
-**LVI** · [NO-CONTROL™ · Síntesis Previa a la Potencia / Synthesis Before Power](LVI_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md) →
+**LVI** · [Manifiesto del NO-CONTROL™ · Síntesis Previa a la Potencia / Manifesto of NO-CONTROL™ · Synthesis Before Power](LVI_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

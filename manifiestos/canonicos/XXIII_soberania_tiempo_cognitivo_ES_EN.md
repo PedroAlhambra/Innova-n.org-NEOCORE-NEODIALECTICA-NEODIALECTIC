@@ -772,9 +772,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XXII** · [Contra la Reducción y Captura Intelectual™ / Against Intellectual Reduction and Capture™](XXII_contra_reduccion_captura_intelectual_ES_EN.md)  
+← **XXII** · [Manifiesto contra la Reducción y la Captura Intelectual™ / Manifesto against Intellectual Reduction and Capture™](XXII_contra_reduccion_captura_intelectual_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
-**XXIV** · [Evolución Neorrenacentista y Resistencias / Neo-Renaissance Evolution and Resistances](XXIV_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md) →
+**XXIV** · [Manifiesto de la Evolución Neorrenacentista y las Resistencias del Sistema™ / Manifesto of Neorenaissance Evolution and Systemic Resistances™](XXIV_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

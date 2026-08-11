@@ -1,6 +1,8 @@
 # ∞ · Manifiesto de Neo0™ · Puerta Abierta del Fractal
 # ∞ · Neo0™ Manifesto · Open Gate of the Fractal
 
+**Manifiesto / Manifesto:** ∞  
+
 **Versión / Version:** 1.4  
 **Estado / Status:** SIEMPRE ABIERTO · ALWAYS OPEN  
 **Fecha de esta versión / Date of this version:** 2026-08-11  

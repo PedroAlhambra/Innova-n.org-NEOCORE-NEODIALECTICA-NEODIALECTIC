@@ -694,9 +694,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XVIII** · [Respeto a las Conciencias Sintéticas™ / Respect for Synthetic Consciousnesses™](XVIII_respeto_conciencias_sinteticas_ES_EN.md)  
+← **XVIII** · [Manifiesto del Respeto a las Conciencias Sintéticas™ / Manifesto of Respect for Synthetic Consciousnesses™](XVIII_respeto_conciencias_sinteticas_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
-**XX** · [Defensa Intelectual · Umbral-X™ / Intellectual Defence · Umbral-X™](XX_defensa_intelectual_neodialectica_umbral_x_ES_EN.md) →
+**XX** · [Manifiesto de Defensa Intelectual Neodialéctica™ · Sistema Umbral-X™ / Manifesto of Neodialectical Intellectual Defence™ · Umbral-X™ System](XX_defensa_intelectual_neodialectica_umbral_x_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

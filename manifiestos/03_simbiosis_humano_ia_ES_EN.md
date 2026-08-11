@@ -1,4 +1,5 @@
-# V · Manifiesto de la Simbiosis Humano–IA / Manifesto of Human–AI Symbiosis
+# V · Manifiesto de la Simbiosis Humano–IA
+# V · Manifesto of Human–AI Symbiosis
 
 **Manifiesto / Manifesto:** V  
 **Versión / Version:** 1.2  
@@ -382,9 +383,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **IV** · [Neodialéctica™ y Bien Común / Neodialectics™ and the Common Good](02_neodialectica_bien_comun_ES_EN.md)  
+← **IV** · [Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good](02_neodialectica_bien_comun_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](README.md) ·  
-**VI** · [Parasitismo Sistémico / Systemic Parasitism](09_parasitismo_sistemico_ES_EN.md) →
+**VI** · [Manifiesto sobre el Parasitismo Sistémico / Manifesto on Systemic Parasitism](09_parasitismo_sistemico_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

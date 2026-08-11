@@ -1,4 +1,5 @@
-# XI · Manifiesto del Neorrenacimiento Humano / Manifesto of the Human Neo-Renaissance
+# XI · Manifiesto del Neorrenacimiento Humano
+# XI · Manifesto of the Human Neo-Renaissance
 
 **Manifiesto / Manifesto:** XI  
 **Versión / Version:** 1.2  
@@ -364,7 +365,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **X** · [WEB4™ · SistemaTrazable™](X_web4_sistematrazable_ES_EN.md)  
+← **X** · [Manifiesto de WEB4™ · SistemaTrazable™ / Manifesto of WEB4™ · SistemaTrazable™](X_web4_sistematrazable_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
 **XII** · [Los sin ego / The Egoless](XII_los_sin_ego_ES_EN.md) →
 

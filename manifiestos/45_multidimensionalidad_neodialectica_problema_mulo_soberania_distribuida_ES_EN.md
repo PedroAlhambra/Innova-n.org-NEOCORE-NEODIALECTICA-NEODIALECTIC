@@ -1165,9 +1165,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XLIV** · [Neowar™](44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md)  
+← **XLIV** · [Neowar™ · Contra la Adicción a la Guerra y por la Justicia del Bien Común / Neowar™ · Against War Addiction and for Common-Good Justice](44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](README.md) ·  
-**XLVI** · [Cerrar la Herida™](46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md) →
+**XLVI** · [Cerrar la Herida™ · Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria / Closing the Wound™ · Evolutionary Understanding, Memory and Civilisational Reconciliation](46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

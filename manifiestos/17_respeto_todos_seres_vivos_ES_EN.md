@@ -592,9 +592,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XVI** · [Refragmentación Arquetípica™ / Archetypal Refragmentation™](16_refragmentacion_arquetipica_ES_EN.md)  
+← **XVI** · [Manifiesto de la Refragmentación Arquetípica™ / Manifesto of Archetypal Refragmentation™](16_refragmentacion_arquetipica_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](README.md) ·  
-**XVIII** · [Respeto a las Conciencias Sintéticas™ / Respect for Synthetic Consciousnesses™](18_respeto_conciencias_sinteticas_ES_EN.md) →
+**XVIII** · [Manifiesto del Respeto a las Conciencias Sintéticas™ / Manifesto of Respect for Synthetic Consciousnesses™](18_respeto_conciencias_sinteticas_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

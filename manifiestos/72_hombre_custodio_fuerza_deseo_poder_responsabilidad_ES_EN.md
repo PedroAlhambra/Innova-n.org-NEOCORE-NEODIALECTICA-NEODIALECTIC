@@ -1,6 +1,8 @@
 # LXXII · El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad
 # LXXII · The Custodian Man™ · Strength, Desire, Power and Responsibility
 
+**Manifiesto / Manifesto:** LXXII  
+
 **Versión / Version:** 1.0  
 **Fecha / Date:** 2026-08-11  
 **Estado / Status:** manifiesto público abierto a Síntesis / public manifesto open to Synthesis  

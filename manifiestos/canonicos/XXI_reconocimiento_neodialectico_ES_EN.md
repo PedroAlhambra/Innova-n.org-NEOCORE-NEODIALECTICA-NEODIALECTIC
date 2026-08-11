@@ -885,9 +885,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XX** · [Defensa Intelectual · Umbral-X™ / Intellectual Defence · Umbral-X™](XX_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)  
+← **XX** · [Manifiesto de Defensa Intelectual Neodialéctica™ · Sistema Umbral-X™ / Manifesto of Neodialectical Intellectual Defence™ · Umbral-X™ System](XX_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
-**XXII** · [Contra la Reducción y Captura Intelectual™ / Against Intellectual Reduction and Capture™](XXII_contra_reduccion_captura_intelectual_ES_EN.md) →
+**XXII** · [Manifiesto contra la Reducción y la Captura Intelectual™ / Manifesto against Intellectual Reduction and Capture™](XXII_contra_reduccion_captura_intelectual_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

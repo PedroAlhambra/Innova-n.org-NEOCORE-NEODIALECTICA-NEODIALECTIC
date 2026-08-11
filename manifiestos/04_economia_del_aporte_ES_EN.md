@@ -1,4 +1,5 @@
-# VII · Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy
+# VII · Manifiesto de la Economía del Aporte
+# VII · Manifesto of the Contribution Economy
 
 **Manifiesto / Manifesto:** VII  
 **Versión / Version:** 1.1  
@@ -299,9 +300,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **VI** · [Parasitismo Sistémico / Systemic Parasitism](09_parasitismo_sistemico_ES_EN.md)  
+← **VI** · [Manifiesto sobre el Parasitismo Sistémico / Manifesto on Systemic Parasitism](09_parasitismo_sistemico_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](README.md) ·  
-**VIII** · [Ingeniería Social Abierta y Psicohistoria / Open Social Engineering and Psychohistory](05_ingenieria_social_psicohistoria_ES_EN.md) →
+**VIII** · [Manifiesto de Ingeniería Social Abierta y Psicohistoria Neodialéctica / Manifesto of Open Social Engineering and Neodialectical Psychohistory](05_ingenieria_social_psicohistoria_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

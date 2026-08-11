@@ -165,6 +165,6 @@
 | `analisis/publicos/2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md` | 433 | 482 | 1.11 | 6 | 7 | OK |
 | `analisis/publicos/2026-08-10_LXI_genetica_ADN_neopandora_placa_petri_ES_EN.md` | 417 | 391 | 0.94 | 0 | 0 | OK |
 | `analisis/publicos/2026-08-10_addendum_tidal_yellow_quasar_perfil_duplicado_uno_playlists_ES_EN.md` | 362 | 335 | 0.93 | 5 | 5 | OK |
-| `analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md` | 1082 | 1093 | 1.01 | 16 | 16 | OK |
+| `analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md` | 1080 | 1091 | 1.01 | 16 | 16 | OK |
 
 > La paridad editorial exigida no significa traducción palabra por palabra ni idéntica maquetación, pero sí conservación íntegra de tesis, secciones, matices, cautelas epistemológicas, ejemplos, fórmulas, relaciones y conclusión.

@@ -734,9 +734,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **LI** · [Síntesis Abierta como Poder Cívico™](51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md)  
+← **LI** · [Síntesis Abierta como Poder Cívico Complementario o Sustitutivo™ / Open Synthesis as Complementary or Substitutive Civic Power™](51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](README.md) ·  
-**LIII** · [Leónidas™ · Defensor de la Síntesis y Auditoría Abierta](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) →
+**LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

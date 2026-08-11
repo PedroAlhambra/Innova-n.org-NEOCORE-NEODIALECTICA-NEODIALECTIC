@@ -1,4 +1,5 @@
-# X · Manifiesto de WEB4™ · SistemaTrazable™ / Manifesto of WEB4™ · SistemaTrazable™
+# X · Manifiesto de WEB4™ · SistemaTrazable™
+# X · Manifesto of WEB4™ · SistemaTrazable™
 
 **Manifiesto / Manifesto:** X  
 **Versión / Version:** 1.1  
@@ -270,9 +271,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **IX** · [Memoria, Genealogía y Trazabilidad / Memory, Genealogy and Traceability](06_memoria_genealogia_trazabilidad_ES_EN.md)  
+← **IX** · [Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability](06_memoria_genealogia_trazabilidad_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](README.md) ·  
-**XI** · [Neorrenacimiento Humano / Human Neo-Renaissance](08_neorrenacimiento_humano_ES_EN.md) →
+**XI** · [Manifiesto del Neorrenacimiento Humano / Manifesto of the Human Neo-Renaissance](08_neorrenacimiento_humano_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

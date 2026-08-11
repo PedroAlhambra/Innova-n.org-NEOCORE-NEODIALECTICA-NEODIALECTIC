@@ -462,9 +462,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XXVII** · [Valor de los Alimentos y la Vida™ / Value of Food and Life™](XXVII_valor_alimentos_vida_ES_EN.md)  
+← **XXVII** · [Manifiesto del Valor de los Alimentos y la Vida™ / Manifesto of the Value of Food and Life™](XXVII_valor_alimentos_vida_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
-**XXIX** · [Contra la Idolatría del Dinero™ / Against the Idolatry of Money™](XXIX_idolatria_del_dinero_ES_EN.md) →
+**XXIX** · [Manifiesto contra la Idolatría del Dinero™ / Manifesto against the Idolatry of Money™](XXIX_idolatria_del_dinero_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

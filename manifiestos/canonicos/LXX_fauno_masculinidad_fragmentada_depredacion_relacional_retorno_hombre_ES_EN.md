@@ -1,6 +1,8 @@
 # LXX · El Fauno™ · Masculinidad Fragmentada, Depredación Relacional y Retorno al Hombre
 # LXX · The Faun™ · Fragmented Masculinity, Relational Predation and Return to Manhood
 
+**Manifiesto / Manifesto:** LXX  
+
 **Versión / Version:** 1.0  
 **Fecha / Date:** 2026-08-11  
 **Estado / Status:** manifiesto público abierto a Síntesis / public manifesto open to Synthesis  

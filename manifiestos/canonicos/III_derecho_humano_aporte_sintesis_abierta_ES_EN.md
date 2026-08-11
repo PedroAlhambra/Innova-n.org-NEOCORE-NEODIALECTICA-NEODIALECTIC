@@ -666,9 +666,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **II** · [Síntesis Abierta Neodialéctica™ / Neodialectical Open Synthesis™](II_sintesis_abierta_neodialectica_ES_EN.md)  
+← **II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](II_sintesis_abierta_neodialectica_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
-**IV** · [Neodialéctica™ y Bien Común / Neodialectics™ and the Common Good](IV_neodialectica_bien_comun_ES_EN.md) →
+**IV** · [Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good](IV_neodialectica_bien_comun_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

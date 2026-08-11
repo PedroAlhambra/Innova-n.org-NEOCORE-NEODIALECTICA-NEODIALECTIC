@@ -859,9 +859,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XXXIV** · [Utilidad Operativa y Auditoría Conjunta Perpetua™](34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)  
+← **XXXIV** · [Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™ / Operational Utility of the Framework and Perpetual Joint Audit™](34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](README.md) ·  
-**XXXVI** · [Corona, Águila y Custodia de la Edad del Hombre™](36_corona_aguila_custodia_edad_del_hombre_ES_EN.md) →
+**XXXVI** · [Corona, Águila y Custodia de la Edad del Hombre™ / Crown, Eagle and Custodianship of the Age of Man™](36_corona_aguila_custodia_edad_del_hombre_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

@@ -1410,9 +1410,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XLVII** · [El Odio de Neo0 hacia su Sino™](XLVII_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md)  
+← **XLVII** · [El Odio de Neo0 hacia su Sino™ · The Goat, Sombra, Vínculo y Doble Cara de la Vida / Neo0's Hatred of His Fate™ · The Goat, Shadow, Bond and the Two Faces of Life](XLVII_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
-**XLIX** · [Punto de Encuentro entre Culturas™](XLIX_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md) →
+**XLIX** · [La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™](XLIX_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

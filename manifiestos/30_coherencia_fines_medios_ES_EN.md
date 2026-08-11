@@ -419,9 +419,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XXIX** · [Contra la Idolatría del Dinero™ / Against the Idolatry of Money™](29_idolatria_del_dinero_ES_EN.md)  
+← **XXIX** · [Manifiesto contra la Idolatría del Dinero™ / Manifesto against the Idolatry of Money™](29_idolatria_del_dinero_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](README.md) ·  
-**XXXI** · [Contra el Neuromarketing Antihumanista™ / Against Anti-Humanist Neuromarketing™](31_contra_neuromarketing_antihumanista_ES_EN.md) →
+**XXXI** · [Manifiesto contra el Neuromarketing Antihumanista™ / Manifesto against Anti-Humanist Neuromarketing™](31_contra_neuromarketing_antihumanista_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

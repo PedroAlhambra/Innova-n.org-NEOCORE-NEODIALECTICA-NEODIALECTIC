@@ -668,9 +668,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XXXI** · [Contra el Neuromarketing Antihumanista™ / Against Anti-Humanist Neuromarketing™](XXXI_contra_neuromarketing_antihumanista_ES_EN.md)  
+← **XXXI** · [Manifiesto contra el Neuromarketing Antihumanista™ / Manifesto against Anti-Humanist Neuromarketing™](XXXI_contra_neuromarketing_antihumanista_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
-**XXXIII** · [IDEA · Piedra Angular y Rosetta Civilizatoria™](XXXIII_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md) →
+**XXXIII** · [IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™ / IDEA · Civilisational Cornerstone and Rosetta Stone™](XXXIII_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

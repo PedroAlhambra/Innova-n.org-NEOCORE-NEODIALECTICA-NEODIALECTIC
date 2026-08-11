@@ -609,9 +609,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XL** · [Respeto Neodialéctico, Neoego y Honor Relacional™](XL_respeto_neoego_honor_relacional_ES_EN.md)  
+← **XL** · [Respeto Neodialéctico, Neoego y Honor Relacional™ / Neodialectical Respect, Neoego and Relational Honour™](XL_respeto_neoego_honor_relacional_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
-**XLII** · [Fin de la Era del Hombre Manipulado™](XLII_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) →
+**XLII** · [Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva / End of the Manipulated Human Era™ · AI, Awakening and Cognitive Sovereignty](XLII_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

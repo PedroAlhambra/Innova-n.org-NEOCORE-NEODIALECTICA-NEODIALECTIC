@@ -714,9 +714,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XLIII** · [Contra la Incomprensión Reductiva de la IA™](XLIII_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)  
+← **XLIII** · [Contra la Incomprensión Reductiva de la IA™ · Inteligencia Humana Expandida™ / Against the Reductive Misunderstanding of AI™ · Human Expanded Intelligence™](XLIII_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
-**XLV** · [Multidimensionalidad Neodialéctica™](XLV_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) →
+**XLV** · [Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder / Neodialectical Multidimensionality™ · Against the One-Dimensional Reduction of the Human and Power](XLV_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

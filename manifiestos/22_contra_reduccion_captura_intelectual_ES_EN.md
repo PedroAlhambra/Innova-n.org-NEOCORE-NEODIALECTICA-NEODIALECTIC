@@ -846,9 +846,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XXI** · [Reconocimiento Neodialéctico™ / Neodialectical Recognition™](21_reconocimiento_neodialectico_ES_EN.md)  
+← **XXI** · [Manifiesto por el Reconocimiento Neodialéctico™ / Manifesto for Neodialectical Recognition™](21_reconocimiento_neodialectico_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](README.md) ·  
-**XXIII** · [Soberanía del Tiempo Cognitivo™ / Sovereignty of Cognitive Time™](23_soberania_tiempo_cognitivo_ES_EN.md) →
+**XXIII** · [Manifiesto de la Soberanía del Tiempo Cognitivo™ / Manifesto of the Sovereignty of Cognitive Time™](23_soberania_tiempo_cognitivo_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

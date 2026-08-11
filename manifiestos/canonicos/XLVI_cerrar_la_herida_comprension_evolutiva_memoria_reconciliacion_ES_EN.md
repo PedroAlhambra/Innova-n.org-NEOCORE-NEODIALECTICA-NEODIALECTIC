@@ -865,9 +865,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XLV** · [Multidimensionalidad Neodialéctica™](XLV_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)  
+← **XLV** · [Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder / Neodialectical Multidimensionality™ · Against the One-Dimensional Reduction of the Human and Power](XLV_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
-**XLVII** · [El Odio de Neo0 hacia su Sino™](XLVII_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md) →
+**XLVII** · [El Odio de Neo0 hacia su Sino™ · The Goat, Sombra, Vínculo y Doble Cara de la Vida / Neo0's Hatred of His Fate™ · The Goat, Shadow, Bond and the Two Faces of Life](XLVII_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

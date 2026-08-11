@@ -790,9 +790,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XXXII** · [Reversión Ideológica Neodialéctica™ / Neodialectical Ideological Reversal™](32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md)  
+← **XXXII** · [Manifiesto de la Reversión Ideológica Neodialéctica™ / Manifesto of Neodialectical Ideological Reversal™](32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](README.md) ·  
-**XXXIV** · [Utilidad Operativa y Auditoría Conjunta Perpetua™](34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) →
+**XXXIV** · [Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™ / Operational Utility of the Framework and Perpetual Joint Audit™](34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

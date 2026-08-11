@@ -675,9 +675,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XIV** · [Contra la Alienación Humana™ / Against Human Alienation™](XIV_contra_alienacion_humana_ES_EN.md)  
+← **XIV** · [Manifiesto contra la Alienación Humana™ / Manifesto Against Human Alienation™](XIV_contra_alienacion_humana_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
-**XVI** · [Refragmentación Arquetípica™ / Archetypal Refragmentation™](XVI_refragmentacion_arquetipica_ES_EN.md) →
+**XVI** · [Manifiesto de la Refragmentación Arquetípica™ / Manifesto of Archetypal Refragmentation™](XVI_refragmentacion_arquetipica_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

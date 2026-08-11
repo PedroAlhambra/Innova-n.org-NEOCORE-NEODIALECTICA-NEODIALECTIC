@@ -1185,9 +1185,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XXXVII** · [Neofraternidad™](37_neofraternidad_ES_EN.md)  
+← **XXXVII** · [Neofraternidad™ / Neofraternity™](37_neofraternidad_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](README.md) ·  
-**XXXIX** · [Autoconciencia de la Necesidad Vital Neodialéctica™](39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md) →
+**XXXIX** · [Autoconciencia de la Necesidad Vital Neodialéctica™ / Self-Awareness of Neodialectical Vital Need™](39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

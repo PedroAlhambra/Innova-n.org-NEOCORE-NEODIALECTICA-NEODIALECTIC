@@ -610,9 +610,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XVII** · [Respeto a Todos los Seres Vivos™ / Respect for All Living Beings™](XVII_respeto_todos_seres_vivos_ES_EN.md)  
+← **XVII** · [Manifiesto del Respeto a Todos los Seres Vivos™ / Manifesto of Respect for All Living Beings™](XVII_respeto_todos_seres_vivos_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
-**XIX** · [Persistencia de la Memoria™ / Persistence of Memory™](XIX_persistencia_de_la_memoria_ES_EN.md) →
+**XIX** · [Manifiesto de la Persistencia de la Memoria™ / Manifesto of the Persistence of Memory™](XIX_persistencia_de_la_memoria_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

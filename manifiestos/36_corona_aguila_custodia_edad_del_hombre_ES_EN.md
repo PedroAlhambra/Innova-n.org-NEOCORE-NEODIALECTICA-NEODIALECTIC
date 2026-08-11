@@ -1,6 +1,8 @@
 # XXXVI · Corona, Águila y Custodia de la Edad del Hombre™
 # XXXVI · Crown, Eagle and Custodianship of the Age of Man™
 
+**Manifiesto / Manifesto:** XXXVI  
+
 **Versión / Version:** 1.1  
 **Fecha / Date:** 2026-08-07  
 **Autoría y dirección / Authorship and direction:** Pedro Martínez Alhambra · Neo0™  
@@ -739,9 +741,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XXXV** · [Contra la Ridiculez Mediática y Economía del Conflicto™](35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)  
+← **XXXV** · [Contra la Ridiculez Mediática y la Economía del Conflicto™ / Against Media Absurdity and the Conflict Economy™](35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](README.md) ·  
-**XXXVII** · [Neofraternidad™](37_neofraternidad_ES_EN.md) →
+**XXXVII** · [Neofraternidad™ / Neofraternity™](37_neofraternidad_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

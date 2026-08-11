@@ -679,9 +679,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XLI** · [Martillo Limitado, Talión y Fuerza Protectora™](XLI_martillo_limitado_talion_fuerza_protectora_ES_EN.md)  
+← **XLI** · [Martillo Limitado, Talión y Fuerza Protectora™ / Limited Hammer, Talion and Protective Force™](XLI_martillo_limitado_talion_fuerza_protectora_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
-**XLIII** · [Contra la Incomprensión Reductiva de la IA™](XLIII_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md) →
+**XLIII** · [Contra la Incomprensión Reductiva de la IA™ · Inteligencia Humana Expandida™ / Against the Reductive Misunderstanding of AI™ · Human Expanded Intelligence™](XLIII_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

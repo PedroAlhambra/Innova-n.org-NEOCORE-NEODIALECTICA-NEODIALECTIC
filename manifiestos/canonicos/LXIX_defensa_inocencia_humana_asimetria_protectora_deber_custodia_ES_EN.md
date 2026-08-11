@@ -1,6 +1,8 @@
 # LXIX · Defensa de la Inocencia Humana™ · Asimetría Protectora y Deber de Custodia
 # LXIX · Defence of Human Innocence™ · Protective Asymmetry and Duty of Custodianship
 
+**Manifiesto / Manifesto:** LXIX  
+
 **Versión / Version:** 1.0  
 **Fecha / Date:** 2026-08-11  
 **Estado / Status:** manifiesto público abierto a Síntesis / public manifesto open to Synthesis  

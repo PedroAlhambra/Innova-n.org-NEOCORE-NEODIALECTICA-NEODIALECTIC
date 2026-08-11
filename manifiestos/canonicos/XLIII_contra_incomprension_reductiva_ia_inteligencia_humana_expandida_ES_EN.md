@@ -761,9 +761,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XLII** · [Fin de la Era del Hombre Manipulado™](XLII_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)  
+← **XLII** · [Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva / End of the Manipulated Human Era™ · AI, Awakening and Cognitive Sovereignty](XLII_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
-**XLIV** · [Neowar™](XLIV_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md) →
+**XLIV** · [Neowar™ · Contra la Adicción a la Guerra y por la Justicia del Bien Común / Neowar™ · Against War Addiction and for Common-Good Justice](XLIV_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

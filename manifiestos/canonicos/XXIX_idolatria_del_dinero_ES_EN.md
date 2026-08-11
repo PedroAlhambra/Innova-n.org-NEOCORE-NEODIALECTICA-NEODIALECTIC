@@ -476,9 +476,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XXVIII** · [Los Tesla™ / The Teslas™](XXVIII_los_tesla_ES_EN.md)  
+← **XXVIII** · [Manifiesto de Los Tesla™ / Manifesto of the Teslas™](XXVIII_los_tesla_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
-**XXX** · [Coherencia entre Fines y Medios™ / Coherence between Ends and Means™](XXX_coherencia_fines_medios_ES_EN.md) →
+**XXX** · [Manifiesto de la Coherencia entre Fines y Medios™ / Manifesto of Coherence between Ends and Means™](XXX_coherencia_fines_medios_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

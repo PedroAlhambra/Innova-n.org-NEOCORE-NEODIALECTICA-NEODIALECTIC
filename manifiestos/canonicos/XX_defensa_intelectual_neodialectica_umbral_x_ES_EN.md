@@ -917,9 +917,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XIX** · [Persistencia de la Memoria™ / Persistence of Memory™](XIX_persistencia_de_la_memoria_ES_EN.md)  
+← **XIX** · [Manifiesto de la Persistencia de la Memoria™ / Manifesto of the Persistence of Memory™](XIX_persistencia_de_la_memoria_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
-**XXI** · [Reconocimiento Neodialéctico™ / Neodialectical Recognition™](XXI_reconocimiento_neodialectico_ES_EN.md) →
+**XXI** · [Manifiesto por el Reconocimiento Neodialéctico™ / Manifesto for Neodialectical Recognition™](XXI_reconocimiento_neodialectico_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

@@ -581,9 +581,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **LII** · [Ciudadanía Humana Neodialéctica™](LII_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md)  
+← **LII** · [Manifiesto de la Ciudadanía Humana Neodialéctica™ / Manifesto of Neodialectical Human Citizenship™](LII_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](../README.md) ·  
-**LIV** · [Riqueza y Chatarra™ · El Chatarrero™](LIV_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md) →
+**LIV** · [Manifiesto de la Riqueza y la Chatarra™ / Manifesto of Wealth and Scrap™](LIV_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

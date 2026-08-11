@@ -839,9 +839,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **LIII** · [Leónidas™ · Defensor de la Síntesis y Auditoría Abierta](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)  
+← **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](README.md) ·  
-**LV** · [Ataque de las Micromáquinas™ / Attack of the Micromachines™](55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md) →
+**LV** · [Manifiesto del Ataque de las Micromáquinas™ · Las Plagas de la Escala Invisible / Manifesto of the Attack of the Micromachines™ · The Plagues of the Invisible Scale](55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 

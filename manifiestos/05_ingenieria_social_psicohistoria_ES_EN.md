@@ -1,4 +1,5 @@
-# VIII · Manifiesto de Ingeniería Social Abierta y Psicohistoria Neodialéctica / Manifesto of Open Social Engineering and Neodialectical Psychohistory
+# VIII · Manifiesto de Ingeniería Social Abierta y Psicohistoria Neodialéctica
+# VIII · Manifesto of Open Social Engineering and Neodialectical Psychohistory
 
 **Manifiesto / Manifesto:** VIII  
 **Versión / Version:** 1.1  
@@ -312,9 +313,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **VII** · [Economía del Aporte / Contribution Economy](04_economia_del_aporte_ES_EN.md)  
+← **VII** · [Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy](04_economia_del_aporte_ES_EN.md)  
 · [Índice I–LXXIV / I–LXXIV index](README.md) ·  
-**IX** · [Memoria, Genealogía y Trazabilidad / Memory, Genealogy and Traceability](06_memoria_genealogia_trazabilidad_ES_EN.md) →
+**IX** · [Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability](06_memoria_genealogia_trazabilidad_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 
