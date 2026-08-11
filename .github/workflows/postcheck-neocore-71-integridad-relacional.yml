@@ -1,33 +1,9 @@
-# rerun: 2026-08-09T21:47+02:00
-name: postcheck-neocore-71-integridad-relacional
+# HISTORICAL / INERT
+# This file is retained only because the former NEOCore 7.1 postcheck has
+# historical audit outputs. It has no event trigger and performs no action.
+# Current live validation belongs to NEOCore 7.2 synchronisers and postchecks.
+name: archived-postcheck-neocore-71-integridad-relacional
 
-on:
-  workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - '.github/scripts/postcheck_neocore_71_integridad_relacional.py'
-      - '.github/workflows/postcheck-neocore-71-integridad-relacional.yml'
+on: {}
 
-permissions:
-  contents: write
-
-jobs:
-  postcheck:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-      - name: Run final NEOCore 7.1 postcheck
-        run: python .github/scripts/postcheck_neocore_71_integridad_relacional.py
-      - name: Commit postcheck report
-        run: |
-          set -euo pipefail
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add auditorias/publicas/2026-08-09_postcheck_neocore_7_1_integridad_relacional_no_reductiva_ES_EN.md auditorias/publicas/2026-08-09_postcheck_neocore_7_1_integridad_relacional_no_reductiva.json
-          if git diff --cached --quiet; then exit 0; fi
-          git commit -m 'audit: postcheck integral NEOCore 7.1 relacional no reductivo'
-          git pull --rebase origin main
-          git push origin main
+jobs: {}
