@@ -570,6 +570,7 @@ Este manifiesto debe leerse junto con LXX–LXXII y el delta relacional. Su form
 - **XLI** · [Martillo Limitado, Talión y Fuerza Protectora™ / Limited Hammer, Talion and Protective Force™](./41_martillo_limitado_talion_fuerza_protectora_ES_EN.md)
 - **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
 - **LXVIII** · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species](./68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
+- **LXX** · [El Fauno™ · Masculinidad Fragmentada, Depredación Relacional y Retorno al Hombre / The Faun™ · Fragmented Masculinity, Relational Predation and Return to Manhood](./70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md)
 - **∞** · [Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](./INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
