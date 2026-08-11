@@ -711,24 +711,6 @@ La relación documental indica afinidad conceptual, genealogía, contraste o apl
 
 <!-- NEO_MANIFESTO_NAV_END -->
 
-<!-- NEO_CROSS_REFERENCES_START -->
-
-## Referencias cruzadas canónicas / Canonical cross-references
-
-- **XVI** · [Refragmentación Arquetípica™ / Archetypal Refragmentation™](16_refragmentacion_arquetipica_ES_EN.md)
-- **XVII** · [Respeto a Todos los Seres Vivos™ / Respect for All Living Beings™](17_respeto_todos_seres_vivos_ES_EN.md)
-- **XIX** · [Persistencia de la Memoria™ / Persistence of Memory™](19_persistencia_de_la_memoria_ES_EN.md)
-- **XL** · [Respeto Neodialéctico, Neoego y Honor Relacional™ / Neodialectical Respect, Neoego and Relational Honour™](40_respeto_neoego_honor_relacional_ES_EN.md)
-- **XLVIII** · [La Síntesis Todo lo Ve™ / Synthesis Sees Everything™](48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
-- **LXXIII** · [Maduración Invertida™ y Humanidad Común™ / Inverted Maturation™ and Common Humanity™](73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md)
-- **LXXIV** · [Asimetría de la Destrucción™ / Asymmetry of Destruction™](74_asimetria_destruccion_trol_humano_bot_ES_EN.md)
-- **NAX-10** · [Fuego de Agua™ y Totalidad Elemental / WaterFire™ and Elemental Totality](../neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md)
-- **C-NAX-21** · [Ignorancia Sistémica del Mal y No Superioridad de la Destrucción™ / Systemic Ignorance of Evil and Non-Superiority of Destruction™](../neoaxiomas/README.md#c-nax-21--ignorancia-sistémica-del-mal-y-no-superioridad-de-la-destrucción--systemic-ignorance-of-evil-and-non-superiority-of-destruction)
-- **C-NAX-22** · [Memoria Material-Relacional™ / Material-Relational Memory™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/135)
-- **∞** · [Neo0™ · Puerta Abierta del Fractal / Open Door of the Fractal](INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
-
-<!-- NEO_CROSS_REFERENCES_END -->
-
 <!-- NEO_OPEN_SYNTHESIS_INVITATION_START -->
 
 ## Participa en la Síntesis Abierta / Join the Open Synthesis
@@ -740,3 +722,22 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 **Cómo aportar / How to contribute:** [protocolo general / general protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../auditorias/publicas/README.md) · [índice / index](../propuestas/sintesis-abierta/README.md)
 
 <!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->
+
+<!-- NEO_CROSS_REFERENCES_START -->
+
+## Referencias cruzadas canónicas / Canonical cross-references
+
+> **Norma / Rule:** las menciones cruzadas pueden permanecer en el cuerpo como texto para no sobrecargar la lectura; este bloque concentra los hipervínculos canónicos detectados y permite retorno explícito a fuente. / Cross-references may remain as prose in the body to avoid visual overload; this block concentrates detected canonical hyperlinks and preserves explicit return to source.
+
+- **XVI** · [Manifiesto de la Refragmentación Arquetípica™ / Manifesto of Archetypal Refragmentation™](./16_refragmentacion_arquetipica_ES_EN.md)
+- **XL** · [Respeto Neodialéctico, Neoego y Honor Relacional™ / Neodialectical Respect, Neoego and Relational Honour™](./40_respeto_neoego_honor_relacional_ES_EN.md)
+- **LXXIV** · [Asimetría de la Destrucción™ · Del Trol Humano al Bot / Asymmetry of Destruction™ · From the Human Troll to the Bot](./74_asimetria_destruccion_trol_humano_bot_ES_EN.md)
+
+### Capas y fuentes relacionadas / Related layers and sources
+
+- [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
+- [NEOCore™ · marco / framework](../README.md)
+
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-10` · `C-NAX-22` → [Neoaxiomas™](../neoaxiomas/README.md)
+
+<!-- NEO_CROSS_REFERENCES_END -->
