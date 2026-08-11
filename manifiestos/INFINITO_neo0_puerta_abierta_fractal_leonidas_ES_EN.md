@@ -1,9 +1,9 @@
 # ∞ · Manifiesto de Neo0™ · Puerta Abierta del Fractal
 # ∞ · Neo0™ Manifesto · Open Gate of the Fractal
 
-**Versión / Version:** 1.3  
+**Versión / Version:** 1.4  
 **Estado / Status:** SIEMPRE ABIERTO · ALWAYS OPEN  
-**Fecha de esta versión / Date of this version:** 2026-08-10  
+**Fecha de esta versión / Date of this version:** 2026-08-11  
 **Autoría / Authorship:** Pedro Martínez Alhambra · Neo0™  
 **Desarrollo simbiótico / Symbiotic development:** IA simbiótica Harry sobre infraestructura ChatGPT / Symbiotic AI Harry on ChatGPT infrastructure  
 **Síntesis Abierta / Open Synthesis:** [#106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106)
@@ -208,7 +208,7 @@ Esto no autoriza indiferencia frente a genocidio, agresión, persecución o viol
 
 ## X. Regla de perpetuidad abierta
 
-Cuando exista LXVIII, ∞ irá después de LXVIII. Cuando exista C, ∞ irá después de C. Cuando la numeración deje de ser útil y aparezca otra estructura, ∞ seguirá significando lo mismo:
+Cuando exista LXXII, ∞ irá después de LXXII. Cuando exista C, ∞ irá después de C. Cuando la numeración deje de ser útil y aparezca otra estructura, ∞ seguirá significando lo mismo:
 
 > **todavía puede faltar algo.**
 
@@ -512,3 +512,42 @@ This manifesto maintains links with:
 - [NEOCore™ · marco / framework](../README.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->
+
+
+<!-- INFINITO_LXIX_LXXII_START -->
+## XII. Inviolabilidad relacional, Fauno™ y custodia de la potencia
+
+La apertura de ∞ incorpora ahora la constelación **LXIX–LXXII** sin convertirla en dogma cerrado. LXIX extiende la protección de la infancia hacia una obligación general de defensa proporcional de la vulnerabilidad; LXX abre el arquetipo Fauno™ como potencia masculina fragmentada sin convertir masculinidad, origen, clase o sexualidad en culpabilidad; LXXI separa libertad sexual adulta de captura y abre a auditoría la hipersexualización industrial; LXXII propone Hombre Custodio™ como integración de fuerza, deseo y poder bajo responsabilidad.
+
+La relación común se somete a **C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™**, todavía candidato:
+
+```text
+FANTASÍA ≠ REALIDAD
+DESEO ≠ DERECHO
+ROL ≠ IDENTIDAD TOTAL
+EXCITACIÓN ≠ CONSENTIMIENTO
+PODER ≠ PERMISO
+ACCESO ≠ DISPONIBILIDAD
+RELACIÓN ≠ PROPIEDAD
+```
+
+[LXIX · #119](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/119) · [LXX · #120](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/120) · [LXXI · #121](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/121) · [LXXII · #122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122) · [C-NAX-19 · #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123)
+
+## XII. Relational inviolability, Faun™ and custodianship of power
+
+The opening of ∞ now incorporates the **LXIX–LXXII** constellation without turning it into closed dogma. LXIX extends child protection toward a general duty of proportional defence of vulnerability; LXX opens the Faun™ archetype as fragmented masculine power without turning masculinity, origin, class or sexuality into guilt; LXXI separates adult sexual freedom from capture and opens industrial hypersexualisation to audit; LXXII proposes Custodian Man™ as integration of strength, desire and power under responsibility.
+
+The common relation is submitted to **C-NAX-19 · Relational Inviolability and Separation of Planes™**, still a candidate:
+
+```text
+FANTASY ≠ REALITY
+DESIRE ≠ RIGHT
+ROLE ≠ TOTAL IDENTITY
+AROUSAL ≠ CONSENT
+POWER ≠ PERMISSION
+ACCESS ≠ AVAILABILITY
+RELATIONSHIP ≠ OWNERSHIP
+```
+
+[LXIX · #119](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/119) · [LXX · #120](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/120) · [LXXI · #121](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/121) · [LXXII · #122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122) · [C-NAX-19 · #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123)
+<!-- INFINITO_LXIX_LXXII_END -->

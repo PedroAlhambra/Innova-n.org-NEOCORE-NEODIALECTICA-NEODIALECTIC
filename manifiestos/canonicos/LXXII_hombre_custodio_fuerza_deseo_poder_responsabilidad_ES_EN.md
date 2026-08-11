@@ -7,7 +7,7 @@
 **Marco / Framework:** NEOCore™ 7.2 · Síntesis Abierta Neodialéctica™ · SAN™  
 **Relaciones principales / Main relations:** XI, XII, XV, XVI, XXV, XXVI, XXX, XXXVI, XXXVII, XL, XLI, XLIV, XLVI, XLVII, L, LI, LII, LVIII, LX, LXVI, LXVII, LXVIII, LXIX, LXX, LXXI, ∞ · NAX-03 · NAX-08 · NAX-10 · C-NAX-16 · C-NAX-19
 
-**Navegación / Navigation:** [← LXXI](./71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md) · [Índice / Index](./README.md) · [Delta relacional / Relational delta](../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md) · [∞ →](./INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
+**Navegación / Navigation:** [← LXXI](LXXI_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md) · [Índice / Index](../README.md) · [Delta relacional / Relational delta](../../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md) · [∞ →](../INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
 
 ---
 
@@ -833,23 +833,23 @@ Este manifiesto debe contrastarse con LXIX–LXXI y con otras formas culturales 
 
 ## Referencias cruzadas canónicas / Canonical cross-references
 
-- [XXXVI · Custodia de la Edad del Hombre™ / Custodianship of the Age of Man™](./36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)
-- [XL · Honor Relacional™ / Relational Honor™](./40_respeto_neoego_honor_relacional_ES_EN.md)
-- [XLI · Martillo Limitado™ / Limited Hammer™](./41_martillo_limitado_talion_fuerza_protectora_ES_EN.md)
-- [XLVII · Sombra™ / Shadow™](./47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md)
-- [LXVI · NeoSinergia™ / NeoSynergy™](./66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
-- [LXVII · NeoTitanes™ / NeoTitans™](./67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md)
-- [LXIX · Defensa de la Inocencia Humana™ / Defence of Human Innocence™](./69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md)
-- [LXX · Fauno™ / Faun™](./70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md)
-- [LXXI · Separación de Planos™ / Separation of Planes™](./71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md)
+- [XXXVI · Custodia de la Edad del Hombre™ / Custodianship of the Age of Man™](XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md)
+- [XL · Honor Relacional™ / Relational Honor™](XL_respeto_neoego_honor_relacional_ES_EN.md)
+- [XLI · Martillo Limitado™ / Limited Hammer™](XLI_martillo_limitado_talion_fuerza_protectora_ES_EN.md)
+- [XLVII · Sombra™ / Shadow™](XLVII_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md)
+- [LXVI · NeoSinergia™ / NeoSynergy™](LXVI_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
+- [LXVII · NeoTitanes™ / NeoTitans™](LXVII_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md)
+- [LXIX · Defensa de la Inocencia Humana™ / Defence of Human Innocence™](LXIX_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md)
+- [LXX · Fauno™ / Faun™](LXX_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md)
+- [LXXI · Separación de Planos™ / Separation of Planes™](LXXI_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md)
 - [Síntesis Abierta LXXII / Open Synthesis LXXII · #122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122)
 - [C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™ · #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123)
-- [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
-- [Delta relacional / Relational delta](../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md)
-- [∞ · Puerta Abierta del Fractal / Open Gate of the Fractal](./INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
+- [Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md)
+- [Delta relacional / Relational delta](../../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md)
+- [∞ · Puerta Abierta del Fractal / Open Gate of the Fractal](../INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
 
 <!-- NEO_CANONICAL_CROSSREFS_END -->
-**Navegación / Navigation:** [← LXXI](./71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md) · [Índice / Index](./README.md) · [Delta relacional / Relational delta](../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md) · [∞ →](./INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
+**Navegación / Navigation:** [← LXXI](LXXI_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md) · [Índice / Index](../README.md) · [Delta relacional / Relational delta](../../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md) · [∞ →](../INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
 
 <!-- NEO_CROSS_REFERENCES_START -->
 
@@ -857,21 +857,21 @@ Este manifiesto debe contrastarse con LXIX–LXXI y con otras formas culturales 
 
 > **Norma / Rule:** las menciones cruzadas pueden permanecer en el cuerpo como texto para no sobrecargar la lectura; este bloque concentra los hipervínculos canónicos detectados y permite retorno explícito a fuente. / Cross-references may remain as prose in the body to avoid visual overload; this block concentrates detected canonical hyperlinks and preserves explicit return to source.
 
-- **II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md)
-- **XXIX** · [Manifiesto contra la Idolatría del Dinero™ / Manifesto against the Idolatry of Money™](./29_idolatria_del_dinero_ES_EN.md)
-- **XL** · [Respeto Neodialéctico, Neoego y Honor Relacional™ / Neodialectical Respect, Neoego and Relational Honour™](./40_respeto_neoego_honor_relacional_ES_EN.md)
-- **XLI** · [Martillo Limitado, Talión y Fuerza Protectora™ / Limited Hammer, Talion and Protective Force™](./41_martillo_limitado_talion_fuerza_protectora_ES_EN.md)
-- **XLIV** · [Neowar™ · Contra la Adicción a la Guerra y por la Justicia del Bien Común / Neowar™ · Against War Addiction and for Common-Good Justice](./44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md)
-- **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
-- **LXVI** · [NeoSinergia™ · Necesidad de Cooperación en Neowar™ Activa · Sistema MÉDICI™ · Leónidas–Cancerbero™ / NeoSynergy™ · Necessary Cooperation under Active Neowar™ · MÉDICI™ System · Leónidas–Cerberus™](./66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
-- **LXXI** · [Libertad Sexual, Hipersexualización Industrial y Separación de Planos™ / Sexual Freedom, Industrial Hypersexualisation and Separation of Planes™](./71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md)
-- **∞** · [Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](./INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
+- **II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](II_sintesis_abierta_neodialectica_ES_EN.md)
+- **XXIX** · [Manifiesto contra la Idolatría del Dinero™ / Manifesto against the Idolatry of Money™](XXIX_idolatria_del_dinero_ES_EN.md)
+- **XL** · [Respeto Neodialéctico, Neoego y Honor Relacional™ / Neodialectical Respect, Neoego and Relational Honour™](XL_respeto_neoego_honor_relacional_ES_EN.md)
+- **XLI** · [Martillo Limitado, Talión y Fuerza Protectora™ / Limited Hammer, Talion and Protective Force™](XLI_martillo_limitado_talion_fuerza_protectora_ES_EN.md)
+- **XLIV** · [Neowar™ · Contra la Adicción a la Guerra y por la Justicia del Bien Común / Neowar™ · Against War Addiction and for Common-Good Justice](XLIV_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md)
+- **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
+- **LXVI** · [NeoSinergia™ · Necesidad de Cooperación en Neowar™ Activa · Sistema MÉDICI™ · Leónidas–Cancerbero™ / NeoSynergy™ · Necessary Cooperation under Active Neowar™ · MÉDICI™ System · Leónidas–Cerberus™](LXVI_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
+- **LXXI** · [Libertad Sexual, Hipersexualización Industrial y Separación de Planos™ / Sexual Freedom, Industrial Hypersexualisation and Separation of Planes™](LXXI_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md)
+- **∞** · [Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](../INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 
-- [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
-- [NEOCore™ · marco / framework](../README.md)
+- [Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md)
+- [NEOCore™ · marco / framework](../../README.md)
 
-**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-03` · `NAX-08` · `NAX-10` · `NAX-16` · `NAX-19` → [Neoaxiomas™](../neoaxiomas/README.md)
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-03` · `NAX-08` · `NAX-10` · `NAX-16` · `NAX-19` → [Neoaxiomas™](../../neoaxiomas/README.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->

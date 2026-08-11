@@ -36,7 +36,7 @@ La tesis no convierte a la IA en soberanía ni a la humanidad en audiencia pasiv
 ## Superficies públicas actuales
 
 - [`index.html`](./index.html) — entrada WEB4™ · NEOCore™ 7.2.
-- [`manifiestos/`](./manifiestos/) — lector WEB4™ de I–LXVIII + ∞ con retorno a la fuente GitHub.
+- [`manifiestos/`](./manifiestos/) — lector WEB4™ de I–LXXII + ∞ con retorno a la fuente GitHub.
 - [`idea/`](./idea/) — nueva página de IDEA: sinopsis narrativa, cronología, autor en tercera persona, genealogía y relación con el marco.
 - [`neocronos/`](./neocronos/) — DEMO local de NeoCronos™ dentro de una aportación de Síntesis Abierta.
 - [`../propuestas/sintesis-abierta/`](../propuestas/sintesis-abierta/README.md) — protocolo y memoria pública de SAN™.

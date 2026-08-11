@@ -28,9 +28,9 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 > ## 🔴 ÚLTIMO MANIFIESTO FINITO ABIERTO A SÍNTESIS / LATEST FINITE MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LXVIII · Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species**
+> **LXXII · El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™ · Strength, Desire, Power and Responsibility**
 >
-> **[Leer LXVIII / Read LXVIII](68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md) · [Síntesis Abierta LXVIII · #114 / Open Synthesis LXVIII · #114](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/114)**
+> **[Leer LXXII / Read LXXII](72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) · [Síntesis Abierta LXXII · #122 / Open Synthesis LXXII · #122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122)**
 
 > ## ∞ · PUERTA ABIERTA PERMANENTE / PERMANENT OPEN DOOR
 >
@@ -38,8 +38,8 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 >
 > ∞ no cuenta como número finito: permanece siempre después del último manifiesto numerado. / ∞ is not a finite manifesto number: it always remains after the latest numbered manifesto.
 
-**Estado en este commit / State at this commit:** **68 manifiestos finitos bilingües · I–LXVIII + Manifiesto ∞ / 68 finite bilingual manifestos · I–LXVIII + Manifesto ∞**  
-**Fecha / Date:** 2026-08-10
+**Estado en este commit / State at this commit:** **72 manifiestos finitos bilingües · I–LXXII + Manifiesto ∞ / 72 finite bilingual manifestos · I–LXXII + Manifesto ∞**  
+**Fecha / Date:** 2026-08-11
 
 <!-- NEO_CROSS_REFERENCE_POLICY_START -->
 
@@ -62,7 +62,7 @@ La sincronización se automatiza mediante `.github/scripts/sync_manifesto_crossr
 ### Síntesis de principios / Synthesis of principles
 
 Cada manifiesto dispone de un espacio público de contraste. / Each manifesto has a public space for scrutiny.  
-[Portal de Síntesis Abierta / Open Synthesis portal](../propuestas/sintesis-abierta/README.md) · [Índice completo I–LXVIII + ∞ + Neoaxiomas + sistema / Complete index](../propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md)
+[Portal de Síntesis Abierta / Open Synthesis portal](../propuestas/sintesis-abierta/README.md) · [Índice completo I–LXXII + ∞ + Neoaxiomas + sistema / Complete index](../propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md)
 
 ### Problemas, evidencia y auditorías / Problems, evidence and audits
 
@@ -140,7 +140,10 @@ Cada manifiesto dispone de un espacio público de contraste. / Each manifesto ha
 - **LXVI** · [NeoSinergia™ · Necesidad de Cooperación en Neowar™ Activa · Sistema MÉDICI™ · Leónidas–Cancerbero™ / NeoSynergy™](66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
 - **LXVII** · [NeoTitanes™ · Reconstrucción Sistémica y Motor del Bien Común / NeoTitans™](67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md)
 - **LXVIII** · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™](68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
-- **LXVI** · [NeoSinergia™ · Neowar™ Activa, Sistema MÉDICI™ y Leónidas–Cancerbero™ / NeoSynergy™](66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
+- **LXIX** · [Defensa de la Inocencia Humana™ · Asimetría Protectora y Deber de Custodia / Defence of Human Innocence™](69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md) · [SAN #119](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/119)
+- **LXX** · [El Fauno™ · Masculinidad Fragmentada, Depredación Relacional y Retorno al Hombre / The Faun™](70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md) · [SAN #120](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/120)
+- **LXXI** · [Libertad Sexual, Hipersexualización Industrial y Separación de Planos™ / Sexual Freedom, Industrial Hypersexualisation and Separation of Planes™](71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md) · [SAN #121](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/121)
+- **LXXII** · [El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™](72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) · [SAN #122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122)
 - **∞** · [Neo0™ · Puerta Abierta del Fractal / Open Door of the Fractal](INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
 
 > Ningún manifiesto equivale por sí solo al marco completo. / No single manifesto equals the complete framework.
@@ -149,7 +152,7 @@ Cada manifiesto dispone de un espacio público de contraste. / Each manifesto ha
 
 **Cualquier persona puede aportar a un nodo concreto con comprensión local suficiente.** No es necesario dominar el marco entero para preguntar, aportar experiencia, fuentes, evidencia, objeciones, contraejemplos, pruebas o mejoras. Para juzgar el marco completo se exige una profundidad proporcional de lectura y relación; por su complejidad actual, la ayuda de IA puede ser necesaria o altamente recomendable como memoria relacional, siempre con retorno a fuente.
 
-**Última síntesis finita / Latest finite synthesis:** [LXVIII · Los Conflictos que No Son Nuestros™](68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md) · [Issue #114](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/114)  
+**Última síntesis finita / Latest finite synthesis:** [LXXII · El Hombre Custodio™](72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) · [Issue #122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122)
 **Puerta permanente / Permanent door:** [∞ · Neo0™](INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) · [Issue #106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106)  
 **Cómo aportar / How to contribute:** [protocolo general / general protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../auditorias/publicas/README.md) · [portal SAN™](../propuestas/sintesis-abierta/README.md) · [índice completo / complete index](../propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md)
 

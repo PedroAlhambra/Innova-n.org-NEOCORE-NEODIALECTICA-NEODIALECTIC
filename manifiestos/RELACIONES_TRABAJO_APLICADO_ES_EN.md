@@ -494,3 +494,14 @@ Casos y análisis principales:
 **Rule:** these are structural/documentary relations open to SAN; conceptual proximity is not causal proof.
 
 <!-- NEO_RELATIONS_EXTENSION_EN_END -->
+
+
+<!-- RELACION_LXIX_LXXII_START -->
+## Constelación LXIX–LXXII · Inviolabilidad, Fauno, Separación de Planos y Custodia / LXIX–LXXII constellation · Inviolability, Faun, Separation of Planes and Custodianship
+
+**ES:** XXXVIII · Protección Integral de la Infancia™ → LXIX · Defensa de la Inocencia Humana™ → LXX · Fauno™ → LXXI · Separación de Planos™ → LXXII · Hombre Custodio™ → C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™. La relación no declara causalidad empírica entre pornografía, migración, clase o conducta; abre esos factores a auditoría específica y conserva `ORIGEN ≠ CONDUCTA`, `FANTASÍA ≠ REALIDAD`, `DESEO ≠ DERECHO`, `PROTECCIÓN ≠ PROPIEDAD`.
+
+**EN:** XXXVIII · Comprehensive Protection of Childhood™ → LXIX · Defence of Human Innocence™ → LXX · Faun™ → LXXI · Separation of Planes™ → LXXII · Custodian Man™ → C-NAX-19 · Relational Inviolability and Separation of Planes™. The relation does not declare empirical causation between pornography, migration, class or conduct; it opens those factors to specific audit and preserves `ORIGIN ≠ CONDUCT`, `FANTASY ≠ REALITY`, `DESIRE ≠ RIGHT`, `PROTECTION ≠ OWNERSHIP`.
+
+[Delta íntegro / Full delta](../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md) · [LXIX #119](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/119) · [LXX #120](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/120) · [LXXI #121](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/121) · [LXXII #122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122) · [C-NAX-19 #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123)
+<!-- RELACION_LXIX_LXXII_END -->

@@ -1,9 +1,9 @@
 # Índice Completo de Síntesis Abiertas™
 # Complete Open Synthesis™ Index
 
-**Fecha / Date:** 2026-08-10  
+**Fecha / Date:** 2026-08-11  
 **Estado / Status:** vivo, versionado y revisable / living, versioned and revisable  
-**Cobertura / Coverage:** **68 manifiestos finitos I–LXVIII + Manifiesto ∞ · 14 Neoaxiomas™ · síntesis transversales, auditorías y proyectos de sistema**.
+**Cobertura / Coverage:** **72 manifiestos finitos I–LXXII + Manifiesto ∞ · 14 Neoaxiomas™ · síntesis transversales, auditorías y proyectos de sistema**.
 
 > **ABIERTO A SÍNTESIS ≠ VALIDADO.**  
 > **OPEN TO SYNTHESIS ≠ VALIDATED.**
@@ -88,7 +88,10 @@ La comprensión global fiel del marco completo es una tarea distinta: por su den
 | LXVI | [NeoSinergia™](../../manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md) | [#110](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/110) |
 | LXVII | [NeoTitanes™ · Reconstrucción Sistémica y Motor del Bien Común](../../manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md) | [#112](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/112) |
 | LXVIII | [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie](../../manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md) | [#114](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/114) |
-| LXVI | [NeoSinergia™ · Neowar™ Activa, Sistema MÉDICI™ y Leónidas–Cancerbero™](../../manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md) | [#110](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/110) |
+| LXIX | [Defensa de la Inocencia Humana™](../../manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md) | [#119](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/119) |
+| LXX | [El Fauno™](../../manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md) | [#120](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/120) |
+| LXXI | [Libertad Sexual, Hipersexualización Industrial y Separación de Planos™](../../manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md) | [#121](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/121) |
+| LXXII | [El Hombre Custodio™](../../manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) | [#122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122) |
 | ∞ | [Neo0™ · Puerta Abierta del Fractal](../../manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) | [#106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106) |
 
 **Regla ∞:** el manifiesto ∞ no cuenta como número finito; permanece siempre después del último manifiesto numerado y conserva abierta la continuidad del fractal.
@@ -115,6 +118,7 @@ La comprensión global fiel del marco completo es una tarea distinta: por su den
 | NAX-12 · Trazabilidad Sustitutiva de Burocracia Redundante™ | [#95](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/95) |
 | NAX-13 · Liberación del Tiempo de Control hacia Creación y Aporte™ | [#96](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/96) |
 | NAX-14 · Prevención de la Bifurcación Simbiótica™ | [#97](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/97) |
+| **C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ · candidato** | [#123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123) |
 
 ---
 
@@ -138,6 +142,7 @@ Estas entradas no sustituyen la síntesis de un manifiesto o Neoaxioma: abren ob
 | Fuego de Agua™ y Totalidad Elemental · raíz de NAX-10 | [#100](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/100) |
 | Autonomía Progresiva Protegida™ · infancia, educación y participación | [#102](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/102) |
 | No Absolutización de Escala™, Residuo Fenomenológico y Cosmologías Monádicas | [#104](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/104) |
+| Delta · Defensa de la Inocencia Humana™ ↔ Fauno™ ↔ Separación de Planos™ ↔ Hombre Custodio™ | [documento](./2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md) · [#119](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/119) · [#120](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/120) · [#121](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/121) · [#122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122) · [C-NAX-19 #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123) |
 | LinkedIn · #neodialéctica y previsualización innova-n.org | [#108](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/108) |
 
 ---

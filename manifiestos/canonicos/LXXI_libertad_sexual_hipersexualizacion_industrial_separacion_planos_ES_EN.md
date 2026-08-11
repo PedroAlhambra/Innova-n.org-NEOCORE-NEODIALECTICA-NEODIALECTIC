@@ -7,7 +7,7 @@
 **Marco / Framework:** NEOCore™ 7.2 · Síntesis Abierta Neodialéctica™ · SAN™  
 **Relaciones principales / Main relations:** XIV, XXIII, XXV, XXIX, XXX, XXXI, XXXVIII, XL, XLII, XLIII, XLVII, LVIII, LIX, LX, LXI, LXVIII, LXIX, LXX, LXXII, ∞ · NAX-04 · NAX-07 · NAX-10 · C-NAX-15 · C-NAX-19
 
-**Navegación / Navigation:** [← LXX](./70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md) · [Índice / Index](./README.md) · [Delta relacional / Relational delta](../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md) · [LXXII →](./72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) · [∞](./INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
+**Navegación / Navigation:** [← LXX](LXX_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md) · [Índice / Index](../README.md) · [Delta relacional / Relational delta](../../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md) · [LXXII →](LXXII_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) · [∞](../INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
 
 ---
 
@@ -753,20 +753,20 @@ Este manifiesto debe contrastarse con LXIX, LXX y LXXII y con evidencia empíric
 
 ## Referencias cruzadas canónicas / Canonical cross-references
 
-- [XXXI · Contra el Neuromarketing Antihumanista™ / Against Anti-Humanist Neuromarketing™](./31_contra_neuromarketing_antihumanista_ES_EN.md)
-- [XXXVIII · Protección Integral de la Infancia™ / Comprehensive Protection of Childhood™](./38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
-- [XLII · Fin de la Era del Hombre Manipulado™ / End of the Era of the Manipulated Human™](./42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
-- [LXIX · Defensa de la Inocencia Humana™ / Defence of Human Innocence™](./69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md)
-- [LXX · Fauno™ / Faun™](./70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md)
-- [LXXII · Hombre Custodio™ / Custodian Man™](./72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md)
+- [XXXI · Contra el Neuromarketing Antihumanista™ / Against Anti-Humanist Neuromarketing™](XXXI_contra_neuromarketing_antihumanista_ES_EN.md)
+- [XXXVIII · Protección Integral de la Infancia™ / Comprehensive Protection of Childhood™](XXXVIII_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+- [XLII · Fin de la Era del Hombre Manipulado™ / End of the Era of the Manipulated Human™](XLII_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
+- [LXIX · Defensa de la Inocencia Humana™ / Defence of Human Innocence™](LXIX_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md)
+- [LXX · Fauno™ / Faun™](LXX_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md)
+- [LXXII · Hombre Custodio™ / Custodian Man™](LXXII_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md)
 - [Síntesis Abierta LXXI / Open Synthesis LXXI · #121](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/121)
 - [C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™ · #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123)
-- [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
-- [Delta relacional / Relational delta](../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md)
-- [∞ · Puerta Abierta del Fractal / Open Gate of the Fractal](./INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
+- [Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md)
+- [Delta relacional / Relational delta](../../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md)
+- [∞ · Puerta Abierta del Fractal / Open Gate of the Fractal](../INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
 
 <!-- NEO_CANONICAL_CROSSREFS_END -->
-**Navegación / Navigation:** [← LXX](./70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md) · [Índice / Index](./README.md) · [Delta relacional / Relational delta](../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md) · [LXXII →](./72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) · [∞](./INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
+**Navegación / Navigation:** [← LXX](LXX_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md) · [Índice / Index](../README.md) · [Delta relacional / Relational delta](../../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md) · [LXXII →](LXXII_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) · [∞](../INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
 
 <!-- NEO_CROSS_REFERENCES_START -->
 
@@ -774,17 +774,17 @@ Este manifiesto debe contrastarse con LXIX, LXX y LXXII y con evidencia empíric
 
 > **Norma / Rule:** las menciones cruzadas pueden permanecer en el cuerpo como texto para no sobrecargar la lectura; este bloque concentra los hipervínculos canónicos detectados y permite retorno explícito a fuente. / Cross-references may remain as prose in the body to avoid visual overload; this block concentrates detected canonical hyperlinks and preserves explicit return to source.
 
-- **II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md)
-- **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
-- **LXX** · [El Fauno™ · Masculinidad Fragmentada, Depredación Relacional y Retorno al Hombre / The Faun™ · Fragmented Masculinity, Relational Predation and Return to Manhood](./70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md)
-- **LXXII** · [El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™ · Strength, Desire, Power and Responsibility](./72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md)
-- **∞** · [Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](./INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
+- **II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](II_sintesis_abierta_neodialectica_ES_EN.md)
+- **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
+- **LXX** · [El Fauno™ · Masculinidad Fragmentada, Depredación Relacional y Retorno al Hombre / The Faun™ · Fragmented Masculinity, Relational Predation and Return to Manhood](LXX_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md)
+- **LXXII** · [El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™ · Strength, Desire, Power and Responsibility](LXXII_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md)
+- **∞** · [Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](../INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 
-- [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
-- [NEOCore™ · marco / framework](../README.md)
+- [Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md)
+- [NEOCore™ · marco / framework](../../README.md)
 
-**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-04` · `NAX-07` · `NAX-10` · `NAX-15` · `NAX-19` → [Neoaxiomas™](../neoaxiomas/README.md)
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-04` · `NAX-07` · `NAX-10` · `NAX-15` · `NAX-19` → [Neoaxiomas™](../../neoaxiomas/README.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->

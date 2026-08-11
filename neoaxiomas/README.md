@@ -37,7 +37,7 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 <!-- NEOAXIOM_CANDIDATES_72_START -->
 
-## Candidatos neoaxiomáticos detectados en el repaso I–LXVIII / Neoaxiomatic candidates detected in the I–LXVIII review
+## Candidatos neoaxiomáticos detectados en el repaso I–LXXII / Neoaxiomatic candidates detected in the I–LXXII review
 
 **Estado:** candidatos visibles para SAN™; **no se promueven automáticamente a NAX-15+**. / **Status:** visible candidates for SAN™; **not automatically promoted to NAX-15+**.
 
@@ -47,6 +47,42 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 | **C-NAX-16 · No Coronación de la Parte™ / Non-Crowning of the Part™** | [LXII](../manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md) + [∞](../manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) | Candidato 7.2: persona, IA, Fundación, Corporación, mayoría o subsistema no equivalen al Todo / 7.2 candidate: person, AI, Foundation, Corporation, majority or subsystem do not equal the Whole |
 | **C-NAX-17 · Reconstrucción Sistémica™ / Systemic Reconstruction™** | [LXVII](../manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md) | Principio manifiesto; candidato a evaluación, no canonizado / Manifest principle; candidate for evaluation, not canonicalised |
 | **C-NAX-18 · Motor del Bien Común + NeoSinergia™ / Common-Good Engine + NeoSynergy™** | [LXVI](../manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md) + [LXVII](../manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md) | Candidato relacional a síntesis; no convierte cooperación en coerción / Relational synthesis candidate; does not turn cooperation into coercion |
+| **C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™** | [LXIX](../manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md) + [LXX](../manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md) + [LXXI](../manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md) + [LXXII](../manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) | **Candidato explícito · SAN #123**; no canonizado / **Explicit candidate · SAN #123**; not canonicalised |
+
+
+### C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™
+
+**ES · formulación candidata:**
+
+> **Ningún deseo, fantasía, rol, vínculo, acceso, dependencia o posición de poder convierte a otra persona en disponible, poseída u obligada. Toda relación legítima debe preservar dignidad, consentimiento válido, capacidad real de salida y responsabilidad proporcional a la asimetría de poder.**
+
+```text
+DIGNIDAD COMÚN
++ CONSENTIMIENTO VÁLIDO
++ SEPARACIÓN DE PLANOS
++ CAPACIDAD REAL DE SALIDA
++ PROTECCIÓN PROPORCIONAL A VULNERABILIDAD
++ RESPONSABILIDAD PROPORCIONAL A PODER
+= INVIOLABILIDAD RELACIONAL™
+```
+
+**EN · candidate formulation:**
+
+> **No desire, fantasy, role, bond, access, dependency or position of power turns another person into someone available, possessed or obliged. Every legitimate relationship must preserve dignity, valid consent, real capacity to exit and responsibility proportional to power asymmetry.**
+
+```text
+COMMON DIGNITY
++ VALID CONSENT
++ SEPARATION OF PLANES
++ REAL CAPACITY TO EXIT
++ PROTECTION PROPORTIONAL TO VULNERABILITY
++ RESPONSIBILITY PROPORTIONAL TO POWER
+= RELATIONAL INVIOLABILITY™
+```
+
+**Separación de Planos / Separation of Planes:** `FANTASÍA/FANTASY ≠ REALIDAD/REALITY · DESEO/DESIRE ≠ DERECHO/RIGHT · ROL/ROLE ≠ IDENTIDAD TOTAL/TOTAL IDENTITY · EXCITACIÓN/AROUSAL ≠ CONSENTIMIENTO/CONSENT · PODER/POWER ≠ PERMISO/PERMISSION · ACCESO/ACCESS ≠ DISPONIBILIDAD/AVAILABILITY · RELACIÓN/RELATIONSHIP ≠ PROPIEDAD/OWNERSHIP`.
+
+**Síntesis específica / Dedicated synthesis:** [#123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123). **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
 
 **Regla 7.2 / 7.2 rule:** la futura **Innova_N Fundación** puede custodiar propósito, memoria y Bien Común; la futura **Innova_N Corporación** puede materializar infraestructura y sostenibilidad. Ninguna adquiere soberanía epistemológica por su forma jurídica. Ambas quedan subordinadas a gobernanza humana, legalidad, trazabilidad, auditoría y SAN™. / the future **Innova_N Foundation** may guard purpose, memory and the Common Good; the future **Innova_N Corporation** may materialise infrastructure and sustainability. Neither acquires epistemic sovereignty through legal form. Both remain subject to human governance, law, traceability, audit and SAN™.
 

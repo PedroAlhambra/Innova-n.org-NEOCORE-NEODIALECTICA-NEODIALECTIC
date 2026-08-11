@@ -2,7 +2,7 @@
 ## Neodialectical Open Synthesis™
 
 **Estado / Status:** **Síntesis iniciada / Synthesis Initiated · 2026-08-09**  
-**Cobertura actual / Current coverage:** **68 manifiestos finitos · I–LXVIII + Manifiesto ∞ · 14 Neoaxiomas™ · síntesis transversales, auditorías y proyectos / 68 finite manifestos · I–LXVIII + Manifesto ∞ · 14 Neoaxioms™ · transversal syntheses, audits and projects**
+**Cobertura actual / Current coverage:** **72 manifiestos finitos · I–LXXII + Manifiesto ∞ · 14 Neoaxiomas™ · síntesis transversales, auditorías y proyectos / 72 finite manifestos · I–LXXII + Manifesto ∞ · 14 Neoaxioms™ · transversal syntheses, audits and projects**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english) · **[Índice completo / Complete index](INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md)**
 
@@ -307,3 +307,11 @@ Anyone may contribute locally with sufficient understanding of the concrete node
 ---
 
 **© 2026 Pedro Martínez Alhambra · Fundación Innova_N / Innova_N Foundation**
+
+<!-- DELTA_INVIOLABILIDAD_RELACIONAL_20260811_START -->
+## Delta 2026-08-11 · Inviolabilidad Relacional / Relational Inviolability
+
+**ES.** Nueva constelación abierta: [LXIX · Defensa de la Inocencia Humana™](../../manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md) · [#119](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/119); [LXX · Fauno™](../../manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md) · [#120](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/120); [LXXI · Libertad Sexual, Hipersexualización Industrial y Separación de Planos™](../../manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md) · [#121](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/121); [LXXII · Hombre Custodio™](../../manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) · [#122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122); [C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™](../../neoaxiomas/README.md) · [#123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123). [Delta íntegro](./2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md).
+
+**EN.** New open constellation: [LXIX · Defence of Human Innocence™](../../manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md) · [#119](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/119); [LXX · Faun™](../../manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md) · [#120](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/120); [LXXI · Sexual Freedom, Industrial Hypersexualisation and Separation of Planes™](../../manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md) · [#121](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/121); [LXXII · Custodian Man™](../../manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) · [#122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122); [C-NAX-19 · Relational Inviolability and Separation of Planes™](../../neoaxiomas/README.md) · [#123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123). [Full delta](./2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md).
+<!-- DELTA_INVIOLABILIDAD_RELACIONAL_20260811_END -->
