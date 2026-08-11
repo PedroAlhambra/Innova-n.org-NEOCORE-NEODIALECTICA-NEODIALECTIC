@@ -59,6 +59,12 @@ jobs:
         run: python .github/scripts/audit_manifesto_bilingual_structure.py
       - name: Audit generated documentary graph
         run: python .github/scripts/audit_markdown_links_readmes.py
+      - name: Show living-graph findings
+        run: |
+          echo '--- LINK AUDIT ---'
+          cat auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md
+          echo '--- STRUCTURE AUDIT SUMMARY ---'
+          head -n 20 auditorias/publicas/2026-08-12_auditoria_estructura_bilingue_manifiestos_ES_EN.md
       - name: Enforce healthy documentary graph and material parity
         run: |
           python - <<'PY'
