@@ -1,6 +1,6 @@
 name: sync-open-synthesis-network
 
-# Current live frontier: I–LXXIV + ∞ · C-NAX-15–C-NAX-21 candidates
+# Temporary audited closure for current I–LXXIV + ∞ frontier; latest remains dynamically derived by synchronizers.
 on:
   workflow_dispatch:
   push:
@@ -12,12 +12,14 @@ on:
       - 'propuestas/sintesis-abierta/README.md'
       - 'propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md'
       - '.github/workflows/sync-open-synthesis-network.yml'
-      - '.github/scripts/oneshot_integrate_LXXIII_LXXIV_cnax20_21_v2.py'
+      - '.github/scripts/oneshot_readme_frontier_LXXIV.py'
       - '.github/scripts/register_manifestos_LXIII_LXVI.py'
       - '.github/scripts/sync_open_synthesis_manifestos.py'
       - '.github/scripts/sync_canonical_manifestos.py'
       - '.github/scripts/normalize_manifesto_indices.py'
       - '.github/scripts/sync_root_navigation.py'
+      - '.github/scripts/sync_manifesto_crossrefs.py'
+      - '.github/scripts/audit_es_en_parity.py'
       - '.github/scripts/audit_markdown_links_readmes.py'
 
 permissions:
@@ -34,27 +36,12 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Integrate current LXXIII-LXXIV and C-NAX-20-21 frontier
-        run: python .github/scripts/oneshot_integrate_LXXIII_LXXIV_cnax20_21_v2.py
+      - name: Repair infinity parity and sweep living README frontier
+        run: python .github/scripts/oneshot_readme_frontier_LXXIV.py
       - name: Register historical recent manifestos safely
         run: python .github/scripts/register_manifestos_LXIII_LXVI.py
       - name: Synchronize Open Synthesis network
         run: python .github/scripts/sync_open_synthesis_manifestos.py
-      - name: Validate full Neoaxiom candidate frontier
-        shell: bash
-        run: |
-          python - <<'PY'
-          from pathlib import Path
-          p=Path('propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md')
-          s=p.read_text(encoding='utf-8')
-          for n in range(15,22):
-              if f'C-NAX-{n}' not in s:
-                  raise SystemExit(f'C-NAX-{n} missing from complete SAN index')
-          if '74 manifiestos finitos I–LXXIV' not in s or '74 finite manifestos I–LXXIV' not in s:
-              raise SystemExit('Living manifesto frontier is not I-LXXIV in complete SAN index')
-          print('CANDIDATE_INDEX_15_21=OK')
-          print('MANIFESTO_FRONTIER_I_LXXIV=OK')
-          PY
       - name: Normalize canonical indices
         run: python .github/scripts/normalize_manifesto_indices.py
       - name: Synchronize root navigation
@@ -65,26 +52,34 @@ jobs:
         run: python .github/scripts/sync_manifesto_crossrefs.py
       - name: Regenerate canonical representations after cross-reference sync
         run: python .github/scripts/sync_canonical_manifestos.py
+      - name: Audit ES EN semantic parity
+        run: python .github/scripts/audit_es_en_parity.py
       - name: Audit generated documentary graph
         run: python .github/scripts/audit_markdown_links_readmes.py
-      - name: Enforce healthy documentary graph before publish
+      - name: Enforce current closure
         run: |
           python - <<'PY'
           from pathlib import Path
-          p=Path('auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md')
-          text=p.read_text(encoding='utf-8')
-          if '**Estado / Status:** **OK**' not in text:
-              raise SystemExit('Generated documentary graph is not healthy; publish aborted.')
-          if 'Último manifiesto / Síntesis: **LXXIV / #125**' not in text and 'Latest manifesto / synthesis: **LXXIV / #125**' not in text:
-              raise SystemExit('Postcheck did not resolve LXXIV/#125 as current frontier')
+          link=Path('auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md').read_text(encoding='utf-8')
+          if '**Estado / Status:** **OK**' not in link or '74 · I–LXXIV' not in link or 'LXXIV / #125' not in link:
+              raise SystemExit('Documentary graph is not clean at LXXIV/#125')
+          parity=Path('auditorias/publicas/2026-08-09_auditoria_paridad_ES_EN_manifiestos_articulos.md').read_text(encoding='utf-8')
+          if '**Recortes/materialmente asimétricos para revisión:** 0' not in parity or '**Con marcador incompleto/ausente:** 0' not in parity:
+              raise SystemExit('ES/EN material parity is not clean')
+          readme=Path('auditorias/publicas/2026-08-11_postcheck_README_frontera_LXXIV_ES_EN.md').read_text(encoding='utf-8')
+          if '**Estado / Status:** **OK**' not in readme:
+              raise SystemExit('README frontier sweep is not clean')
           print('DOCUMENTARY_GRAPH=OK')
+          print('PARITY=OK')
+          print('README_FRONTIER=OK')
           PY
       - name: Commit synchronized network if needed
         run: |
+          set -euo pipefail
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add -A
           if git diff --cached --quiet; then exit 0; fi
-          git commit -m 'docs: sync Open Synthesis and canonical manifesto network'
+          git commit -m 'audit: cerrar paridad ∞ README y frontera LXXIV'
           git pull --rebase origin main
           git push origin main
