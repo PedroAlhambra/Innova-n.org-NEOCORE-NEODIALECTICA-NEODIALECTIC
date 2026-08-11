@@ -3,12 +3,17 @@ from urllib.parse import unquote
 import re
 
 root = Path('.').resolve()
-# Historical filename retained so existing links remain valid; report title is now corpus-generic.
 report = root / 'auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md'
 manifest_index = root / 'manifiestos/README.md'
 synth_index = root / 'propuestas/sintesis-abierta/README.md'
 
-markdown_files = sorted(p for p in root.rglob('*.md') if '.git' not in p.parts)
+# Historical archives deliberately preserve old Wiki topology, including links
+# to pages that no longer exist in the living Wiki. They must remain untouched
+# and must not make the current documentary graph fail.
+EXCLUDED_TOP_LEVEL = {'wiki-legacy-archive'}
+all_markdown = sorted(p for p in root.rglob('*.md') if '.git' not in p.parts)
+archived_markdown = [p for p in all_markdown if p.relative_to(root).parts and p.relative_to(root).parts[0] in EXCLUDED_TOP_LEVEL]
+markdown_files = [p for p in all_markdown if p not in archived_markdown]
 readmes = sorted(p for p in markdown_files if p.name.startswith('README'))
 leeme = root / 'LEEME.md'
 if leeme.exists() and leeme not in readmes:
@@ -44,16 +49,23 @@ for f in markdown_files:
         internal_checked += 1
         p = (root / clean.lstrip('/')).resolve() if clean.startswith('/') else (f.parent / clean).resolve()
         try:
-            p.relative_to(root)
+            relp = p.relative_to(root)
         except ValueError:
             broken.append((f.relative_to(root).as_posix(), target, 'fuera del repositorio / outside repository'))
             continue
-        if not p.exists():
-            wiki_candidate = p.with_suffix('.md') if f.parent.name == 'wiki-source' and not Path(clean).suffix else None
-            if wiki_candidate and wiki_candidate.exists():
-                wiki_aliases += 1
-                continue
-            broken.append((f.relative_to(root).as_posix(), target, 'destino inexistente / missing target'))
+
+        # A live document may explicitly link to a historical archive; that
+        # target is valid if it exists. Only the links *inside* archived files
+        # are excluded from current-health enforcement.
+        if p.exists():
+            continue
+
+        # GitHub Wiki source uses extensionless page aliases.
+        wiki_candidate = p.with_suffix('.md') if f.parent.name == 'wiki-source' and not Path(clean).suffix else None
+        if wiki_candidate and wiki_candidate.exists():
+            wiki_aliases += 1
+            continue
+        broken.append((f.relative_to(root).as_posix(), target, 'destino inexistente / missing target'))
 
 # Canonical collection is the explicit ordered list in manifiestos/README.md.
 idx = manifest_index.read_text(encoding='utf-8')
@@ -105,13 +117,16 @@ latest_desc=f'{latest_roman} / #{issue_num}' if latest_roman and issue_num else 
 lines = [
     '# Postcheck dinámico · README, índices y enlaces / Dynamic README, indices and links postcheck',
     '',
-    '**Fecha / Date:** 2026-08-09  ',
+    '**Fecha / Date:** 2026-08-12  ',
     f'**Estado / Status:** **{status}**',
+    '',
+    '> **Alcance:** el grafo vivo excluye `wiki-legacy-archive/` porque conserva deliberadamente la topología histórica anterior. Los archivos históricos permanecen versionados, pero sus enlaces obsoletos no se contabilizan como roturas del estado canónico vigente. / **Scope:** the living graph excludes `wiki-legacy-archive/`, which deliberately preserves the former Wiki topology. Historical files remain versioned, but their obsolete links do not count as breakage of the current canonical state.',
     '',
     '## ES · Resultado',
     '',
-    f'- Archivos Markdown revisados: **{len(markdown_files)}**.',
-    f'- README/LEEME revisados: **{len(readmes)}**.',
+    f'- Archivos Markdown activos revisados: **{len(markdown_files)}**.',
+    f'- Archivos Markdown históricos excluidos del estado vivo: **{len(archived_markdown)}**.',
+    f'- README/LEEME activos revisados: **{len(readmes)}**.',
     f'- Enlaces internos de ruta comprobados: **{internal_checked}**.',
     f'- Alias internos de GitHub Wiki reconocidos: **{wiki_aliases}**.',
     f'- Enlaces externos inventariados sin comprobar disponibilidad remota: **{external_seen}**.',
@@ -119,7 +134,7 @@ lines = [
     f'- Bloques de último manifiesto encontrados en README/LEEME: **{latest_markers}**.',
     f'- Manifiestos canónicos detectados: **{count} · I–{latest_roman or "?"}**.',
     f'- Último manifiesto / Síntesis: **{latest_desc}**.',
-    f'- Enlaces internos rotos detectados: **{len(broken)}**.',
+    f'- Enlaces internos rotos del grafo vivo: **{len(broken)}**.',
     f'- Fallos canónicos críticos: **{len(critical)}**.',
     '',
     '### Comprobaciones canónicas',
@@ -127,35 +142,37 @@ lines = [
     '- La colección se reconstruye dinámicamente desde `manifiestos/README.md`; no se fija un número histórico en el auditor.',
     '- Síntesis Abierta debe enlazar el último manifiesto y su Issue específico.',
     '- Los README con bloque `NEO_LATEST_MANIFESTO` deben apuntar al último manifiesto y su Síntesis.',
+    '- El archivo Wiki histórico se conserva como evidencia y no se reescribe para simular vigencia.',
     '- La auditoría de rutas no sustituye la comprobación remota de URLs externas ni la validación semántica de anclas renderizadas.',
     '',
 ]
 if critical:
     lines += ['### Fallos canónicos', ''] + [f'- {x}' for x in critical] + ['']
 if broken:
-    lines += ['### Enlaces internos rotos', '', '| Origen | Destino | Motivo |', '|---|---|---|']
+    lines += ['### Enlaces internos rotos del grafo vivo', '', '| Origen | Destino | Motivo |', '|---|---|---|']
     for src,target,why in broken:
         lines.append(f'| `{src}` | `{target}` | {why} |')
     lines.append('')
 else:
-    lines += ['### Enlaces internos rotos', '', '- Ninguno detectado por el validador de rutas del repositorio.', '']
+    lines += ['### Enlaces internos rotos del grafo vivo', '', '- Ninguno detectado por el validador de rutas del repositorio.', '']
 
 lines += [
     '## EN · Result',
     '',
-    f'- Markdown files reviewed: **{len(markdown_files)}**.',
-    f'- README/LEEME files reviewed: **{len(readmes)}**.',
+    f'- Active Markdown files reviewed: **{len(markdown_files)}**.',
+    f'- Historical Markdown files excluded from living-state health: **{len(archived_markdown)}**.',
+    f'- Active README/LEEME files reviewed: **{len(readmes)}**.',
     f'- Internal path links checked: **{internal_checked}**.',
     f'- GitHub Wiki extensionless page aliases recognised: **{wiki_aliases}**.',
     f'- Canonical manifestos detected: **{count} · I–{latest_roman or "?"}**.',
     f'- Latest manifesto / synthesis: **{latest_desc}**.',
-    f'- Broken internal links found: **{len(broken)}**.',
+    f'- Broken internal links in the living graph: **{len(broken)}**.',
     f'- Canonical critical failures: **{len(critical)}**.',
     '',
-    'The canonical collection is derived dynamically from the current manifesto index; the auditor no longer hard-codes a historical endpoint.',
+    'The canonical collection is derived dynamically from the current manifesto index. Historical Wiki archives are preserved as evidence but are not treated as the live navigation graph.',
     '',
     '**Innova_N · NEOCore™ · Neodialectica Framework™ / Network**',
 ]
 report.write_text('\n'.join(lines)+'\n',encoding='utf-8')
 print(f'POSTCHECK_STATUS={status}')
-print(f'MARKDOWN_FILES={len(markdown_files)} README_LEEME={len(readmes)} CANONICAL={count} LATEST={latest_roman} ISSUE={issue_num} INTERNAL_LINKS={internal_checked} WIKI_ALIASES={wiki_aliases} BROKEN={len(broken)} CRITICAL={len(critical)}')
+print(f'MARKDOWN_ACTIVE={len(markdown_files)} ARCHIVED_EXCLUDED={len(archived_markdown)} README_LEEME={len(readmes)} CANONICAL={count} LATEST={latest_roman} ISSUE={issue_num} INTERNAL_LINKS={internal_checked} WIKI_ALIASES={wiki_aliases} BROKEN={len(broken)} CRITICAL={len(critical)}')
