@@ -5,7 +5,7 @@ ROOT=Path('.').resolve()
 MIDX=ROOT/'manifiestos/README.md'
 SYN=ROOT/'propuestas/sintesis-abierta/README.md'
 ROW=re.compile(r'^- \*\*([IVXLCDM]+)\*\* · \[([^\]]+)\]\(([^)]+\.md)\)(.*)$',re.M)
-ISSUE=re.compile(r'https://github\.com/PedroAlhambra/Innova-n\.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/(\d+)')
+ISSUE=re.compile(r'https://github\.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/(\d+)')
 
 idx=MIDX.read_text(encoding='utf-8')
 rows=ROW.findall(idx)
@@ -30,6 +30,9 @@ idx=re.sub(r'\*\*Estado en este commit / State at this commit:\*\*.*$',
            f'**Estado en este commit / State at this commit:** **{count} manifiestos finitos bilingües · I–{roman} + Manifiesto ∞ / {count} finite bilingual manifestos · I–{roman} + Manifesto ∞**  ',idx,count=1,flags=re.M)
 idx=re.sub(r'Índice completo I–[IVXLCDM]+ \+ ∞',f'Índice completo I–{roman} + ∞',idx)
 idx=re.sub(r'Complete index I–[IVXLCDM]+ \+ ∞',f'Complete index I–{roman} + ∞',idx)
+idx=re.sub(r'^\*\*Última síntesis finita / Latest finite synthesis:\*\*.*$',
+           f'**Última síntesis finita / Latest finite synthesis:** [{label}]({href}) · [Issue #{issue}]({issue_url})  ',
+           idx,count=1,flags=re.M)
 MIDX.write_text(idx,encoding='utf-8')
 
 syn=SYN.read_text(encoding='utf-8')
