@@ -10,10 +10,10 @@
 
 > ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LXVIII · Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™**
+> **LXXII · El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™**
 >
-> **[Leer LXVIII / Read LXVIII](../../manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md) · [Síntesis Abierta LXVIII · #114 / Open Synthesis LXVIII · #114](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/114)**  
-> [Seguir marco / Follow framework](../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [Registrar entrada / Register entry](../../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Cómo aportar / How to contribute](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™](../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas / Public audits](README.md) · [68 manifiestos / manifestos · I–LXVIII](../../manifiestos/README.md)
+> **[Leer LXXII / Read LXXII](../../manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) · [Síntesis Abierta LXXII · #122 / Open Synthesis LXXII · #122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122)**  
+> [Seguir marco / Follow framework](../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [Registrar entrada / Register entry](../../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Cómo aportar / How to contribute](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™](../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas / Public audits](README.md) · [72 manifiestos / manifestos · I–LXXII](../../manifiestos/README.md)
 
 <!-- NEO_LATEST_MANIFESTO_END -->
 

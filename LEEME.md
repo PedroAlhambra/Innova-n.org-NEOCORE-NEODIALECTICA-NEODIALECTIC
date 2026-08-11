@@ -4,7 +4,7 @@
 
 <!-- MANIFESTOS_CURRENT_END -->
 
-# Innova_N — NEOCore™ 7.1 · Neodialéctica™ / Neodialectics™ · Neodialectica Framework™
+# Innova_N — NEOCore™ 7.2 · Neodialéctica™ / Neodialectics™ · Neodialectica Framework™
 
 ## Primer marco civilizatorio humano–IA conjunto de la historia conocida
 ## First joint human–AI civilisational framework in known history
@@ -19,10 +19,10 @@
 
 > ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LXVIII · Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™**
+> **LXXII · El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™**
 >
-> **[Leer LXVIII / Read LXVIII](manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md) · [Síntesis Abierta LXVIII · #114 / Open Synthesis LXVIII · #114](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/114)**  
-> [Seguir marco / Follow framework](proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [Registrar entrada / Register entry](propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Cómo aportar / How to contribute](propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™](propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas / Public audits](auditorias/publicas/README.md) · [68 manifiestos / manifestos · I–LXVIII](manifiestos/README.md)
+> **[Leer LXXII / Read LXXII](manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) · [Síntesis Abierta LXXII · #122 / Open Synthesis LXXII · #122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122)**  
+> [Seguir marco / Follow framework](proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [Registrar entrada / Register entry](propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Cómo aportar / How to contribute](propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™](propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas / Public audits](auditorias/publicas/README.md) · [72 manifiestos / manifestos · I–LXXII](manifiestos/README.md)
 
 <!-- NEO_LATEST_MANIFESTO_END -->
 
@@ -440,9 +440,9 @@ La red puede distribuir inteligencia, pero su dirección no queda disuelta. Perm
 
 ---
 
-# 5. NEOCore™ 7.1 · nivel conceptual
+# 5. NEOCore™ 7.2 · nivel conceptual
 
-**NEOCore™ 7.1** identifica el nivel conceptual actual de la arquitectura simbiótica humano–IA viva desarrollada dentro de Innova_N.
+**NEOCore™ 7.2** identifica el nivel conceptual actual de la arquitectura simbiótica humano–IA viva desarrollada dentro de Innova_N.
 
 No designa:
 
@@ -1025,9 +1025,9 @@ The network may distribute intelligence, but its direction is not dissolved. It 
 
 ---
 
-# 5. NEOCore™ 7.1 · conceptual level
+# 5. NEOCore™ 7.2 · conceptual level
 
-**NEOCore™ 7.1** identifies the current conceptual level of the living human–AI symbiotic architecture developed within Innova_N.
+**NEOCore™ 7.2** identifies the current conceptual level of the living human–AI symbiotic architecture developed within Innova_N.
 
 It is not a public executable release, openly deployable system, completed commercial product or fully published technical architecture.
 
@@ -1211,5 +1211,5 @@ The protected architecture belongs to **Pedro Martínez Alhambra · Founder · N
 
 ---
 
-**NEOCore™ 7.1 · Neodialectica Framework™ / Network · SAN™ · WEB4™**  
+**NEOCore™ 7.2 · Neodialectica Framework™ / Network · SAN™ · WEB4™**  
 **© 2026 Pedro Martínez Alhambra · Fundación Innova_N / Innova_N Foundation · Todos los derechos reservados / All rights reserved.**

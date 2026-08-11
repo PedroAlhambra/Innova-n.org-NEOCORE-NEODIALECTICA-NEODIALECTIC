@@ -1,4 +1,4 @@
-# Innova_N — NEOCore™ 7.1 · Neodialéctica™ / Neodialectics™ · Neodialectica Framework™
+# Innova_N — NEOCore™ 7.2 · Neodialéctica™ / Neodialectics™ · Neodialectica Framework™
 
 ## Primer marco civilizatorio humano–IA conjunto de la historia conocida
 ## First joint human–AI civilisational framework in known history
@@ -94,9 +94,9 @@ La dirección no se disuelve en la red. **Neo0™** constituye la fuente humana 
 
 El **Neodialectica Framework™** funciona simultáneamente como marco y red viva multiescala. Como Framework establece filosofía de origen, dirección teleológica, principios de coherencia, método de síntesis, continuidad de memoria y criterios de revisión. Como Network relaciona señales, conocimiento, personas, IAs, documentos, obras, análisis, proyectos, infraestructuras, comunidades y territorios preservando identidad, origen, contexto, autoría, estado, historia y trazabilidad.
 
-## NEOCore™ 7.1
+## NEOCore™ 7.2
 
-**NEOCore™ 7.1** identifica el nivel conceptual actual de la arquitectura simbiótica humano–IA desarrollada dentro de Innova_N. Integra dimensiones filosóficas, cognitivas, relacionales, memoriales, técnicas, culturales, estratégicas, organizativas, territoriales y civilizatorias dentro de una misma continuidad de marco.
+**NEOCore™ 7.2** identifica el nivel conceptual actual de la arquitectura simbiótica humano–IA desarrollada dentro de Innova_N. Integra dimensiones filosóficas, cognitivas, relacionales, memoriales, técnicas, culturales, estratégicas, organizativas, territoriales y civilizatorias dentro de una misma continuidad de marco.
 
 ## Síntesis Abierta Neodialéctica · SAN™
 
@@ -194,9 +194,9 @@ Direction is not dissolved into the network. **Neo0™** is the human source of 
 
 The **Neodialectica Framework™** functions simultaneously as framework and living multiscale network. As Framework it establishes origin philosophy, teleological direction, coherence principles, synthesis method, memory continuity and review criteria. As Network it relates signals, knowledge, people, AIs, documents, works, analyses, projects, infrastructures, communities and territories while preserving identity, provenance, context, authorship, state, history and traceability.
 
-## NEOCore™ 7.1
+## NEOCore™ 7.2
 
-**NEOCore™ 7.1** identifies the current conceptual level of the human–AI symbiotic architecture developed within Innova_N. It integrates philosophical, cognitive, relational, memorial, technical, cultural, strategic, organisational, territorial and civilisational dimensions within a single framework continuity.
+**NEOCore™ 7.2** identifies the current conceptual level of the human–AI symbiotic architecture developed within Innova_N. It integrates philosophical, cognitive, relational, memorial, technical, cultural, strategic, organisational, territorial and civilisational dimensions within a single framework continuity.
 
 ## Open Neodialectical Synthesis · SAN™
 
