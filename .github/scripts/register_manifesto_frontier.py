@@ -12,7 +12,6 @@ TITLE = re.compile(r'^#\s+([IVXLCDM]+)\s*·\s*(.+?)\s*$', re.M)
 META = re.compile(r'^\*\*Manifiesto / Manifesto:\*\*\s*([IVXLCDM]+)\s*$', re.M)
 ISSUE = re.compile(r'https://github\.com/PedroAlhambra/Innova-n\.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/(\d+)')
 ROW = re.compile(r'^- \*\*([IVXLCDM]+)\*\* · \[([^\]]+)\]\(([^)]+\.md)\)(?:.*)$', re.M)
-SROW = re.compile(r'^\|\s*([IVXLCDM]+)\s*\|\s*\[([^\]]+)\]\(([^)]+\.md)\)\s*\|\s*\[#(\d+)\]\(([^)]+)\)\s*\|\s*$', re.M)
 
 
 def roman_to_int(s):
@@ -27,11 +26,11 @@ def roman_to_int(s):
     return total
 
 
-def slug_from_filename(name):
-    stem=name[:-6] if name.endswith('.md') else name
-    # Remove historical decimal prefix only; canonical identity is Roman.
+def expected_canonical(roman, legacy_path):
+    name=Path(legacy_path).name
+    stem=name[:-3] if name.endswith('.md') else name
     stem=re.sub(r'^\d+_', '', stem)
-    return stem
+    return f'manifiestos/canonicos/{roman}_{stem}.md'
 
 
 def parse_source(p):
@@ -44,11 +43,9 @@ def parse_source(p):
     meta=META.search(text[:6000])
     if not meta or meta.group(1)!=roman or len(same)<2:
         return None
-    # The dedicated manifesto synthesis is the first issue in metadata/front matter.
     front=text.split('# ES ·',1)[0]
     issues=ISSUE.findall(front)
     if not issues:
-        # Fallback: first issue in document. Candidate issue, if any, normally comes later.
         issues=ISSUE.findall(text)
     if not issues:
         return None
@@ -57,10 +54,19 @@ def parse_source(p):
 
 data=json.loads(REGISTRY.read_text(encoding='utf-8'))
 entries=data.setdefault('entries',{})
-registered_paths={Path(v['legacy']).name for v in entries.values()}
-registered_ord=set(entries)
+registry_changed=False
 
-# A duplicate historical file with an already-registered ordinal is not a new frontier node.
+# Canonical mirror naming is deterministic for every registered manifesto.
+# Repair malformed historical/dynamic entries before deciding whether there is
+# a new frontier node.
+for roman,entry in entries.items():
+    expected=expected_canonical(roman,entry['legacy'])
+    if entry.get('canonical') != expected:
+        print(f'CANONICAL_PATH_REPAIRED {roman}: {entry.get("canonical")} -> {expected}')
+        entry['canonical']=expected
+        registry_changed=True
+
+registered_ord=set(entries)
 candidates={}
 for p in sorted(MDIR.glob('[0-9]*_ES_EN.md')):
     parsed=parse_source(p)
@@ -73,12 +79,6 @@ for p in sorted(MDIR.glob('[0-9]*_ES_EN.md')):
         raise SystemExit(f'Ambiguous unregistered manifesto ordinal {roman}: {candidates[roman]["path"]} and {p}')
     candidates[roman]=parsed
 
-if not candidates:
-    print('MANIFESTO_FRONTIER_REGISTER new=0')
-    raise SystemExit(0)
-
-# Only append ordinals beyond the current finite frontier. A missing ordinal in the
-# middle is a historical integrity problem and must be handled explicitly.
 max_registered=max((roman_to_int(r) for r in registered_ord), default=0)
 new_sorted=sorted(candidates.values(), key=lambda x:roman_to_int(x['roman']))
 for c in new_sorted:
@@ -87,16 +87,21 @@ for c in new_sorted:
     max_registered=roman_to_int(c['roman'])
 
 for c in new_sorted:
-    roman=c['roman']; p=c['path']; slug=slug_from_filename(p.name)
+    roman=c['roman']; p=c['path']; legacy=f'manifiestos/{p.name}'
     entries[roman]={
-        'legacy': f'manifiestos/{p.name}',
-        'canonical': f'manifiestos/canonicos/{roman}_{slug}',
+        'legacy': legacy,
+        'canonical': expected_canonical(roman,legacy),
     }
+    registry_changed=True
 
-# Preserve numeric Roman order in JSON independently of insertion history.
 ordered=dict(sorted(entries.items(), key=lambda kv:roman_to_int(kv[0])))
 data['entries']=ordered
-REGISTRY.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+if registry_changed:
+    REGISTRY.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+
+if not new_sorted:
+    print(f'MANIFESTO_FRONTIER_REGISTER new=0 registry_repaired={1 if registry_changed else 0}')
+    raise SystemExit(0)
 
 # Rebuild only the canonical collection rows, preserving all surrounding prose.
 idx=INDEX.read_text(encoding='utf-8')
@@ -109,7 +114,6 @@ rows=[]
 for roman in sorted(existing,key=roman_to_int):
     label,href=existing[roman]
     extra=''
-    # Preserve any SAN suffix already present for existing rows.
     m=re.search(r'^- \*\*'+re.escape(roman)+r'\*\* · \[[^\]]+\]\('+re.escape(href)+r'\)(.*)$',idx,re.M)
     if m:
         extra=m.group(1)
@@ -125,13 +129,11 @@ if start not in idx or end not in idx:
     raise SystemExit('Cannot locate canonical collection block in manifiestos/README.md')
 pre,rest=idx.split(start,1)
 body,post=rest.split(end,1)
-# Preserve the permanent ∞ row after the finite set.
 inf_match=re.search(r'^- \*\*∞\*\* · .*$',body,re.M)
 inf_row=inf_match.group(0) if inf_match else '- **∞** · [Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)'
 idx=pre+start+'\n\n'+'\n'.join(rows+[inf_row])+'\n\n'+end+post
 INDEX.write_text(idx,encoding='utf-8')
 
-# Add corresponding rows to the complete Open-Synthesis index before ∞.
 syn=SYNTH.read_text(encoding='utf-8')
 for c in new_sorted:
     if re.search(r'^\|\s*'+re.escape(c['roman'])+r'\s*\|',syn,re.M):
