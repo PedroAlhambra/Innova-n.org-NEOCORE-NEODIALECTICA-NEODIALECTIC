@@ -1,4 +1,4 @@
-name: one-shot neoaxiom 365-day maturation rule
+name: one-shot clarify open definitive neoaxiom fixation
 
 on:
   push:
@@ -10,35 +10,37 @@ permissions:
   contents: write
 
 jobs:
-  patch:
+  patch-and-retire:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Patch neoaxiom index
+      - name: Clarify definitive fixation remains open and revisable
         run: |
           python - <<'PY'
           from pathlib import Path
           p=Path('neoaxiomas/README.md')
           s=p.read_text(encoding='utf-8')
-          old='**Estado:** candidatos visibles para SAN™; **no se promueven automáticamente a NAX-15+**. / **Status:** visible candidates for SAN™; **not automatically promoted to NAX-15+**.'
-          new='**Estado:** candidatos visibles para SAN™; si completan **365 días naturales desde su primera apertura pública trazable sin respuesta sustantiva**, se fijan como Neoaxiomas definitivos del canon vigente. / **Status:** visible candidates for SAN™; if they complete **365 calendar days from their first traceable public opening without a substantive response**, they are fixed as definitive Neoaxioms of the current canon.'
+          old='**Estado:** candidatos visibles para SAN™; si completan **365 días naturales desde su primera apertura pública trazable sin respuesta sustantiva**, se fijan como Neoaxiomas definitivos del canon vigente. / **Status:** visible candidates for SAN™; if they complete **365 calendar days from their first traceable public opening without a substantive response**, they are fixed as definitive Neoaxioms of the current canon.'
+          new='**Estado:** candidatos visibles para SAN™; si completan **365 días naturales desde su primera apertura pública trazable sin respuesta sustantiva**, se fijan como Neoaxiomas definitivos del canon vigente, **sin cerrar SAN™: permanecen abiertos y revisables**. / **Status:** visible candidates for SAN™; if they complete **365 calendar days from their first traceable public opening without a substantive response**, they are fixed as definitive Neoaxioms of the current canon, **without closing SAN™: they remain open and revisable**.'
           if old not in s:
-              raise SystemExit('Expected candidate status line not found')
+              raise SystemExit('Expected status wording not found')
           s=s.replace(old,new,1)
-          marker=new+'\n\n'
-          block='''> **Regla de Maduración Neoaxiomática™ · 365 días / Neoaxiomatic Maturation Rule™ · 365 days:** el silencio no queda indefinido. Un candidato que complete el plazo sin respuesta sustantiva adquiere **fijación definitiva** en la primera revisión documental posterior y recibe el ordinal NAX correspondiente. Una respuesta posterior se procesa como revisión del Neoaxioma ya fijado y no borra retroactivamente el periodo de maduración. / silence is not indefinite. A candidate completing the period without substantive response acquires **definitive fixation** at the first subsequent documentary review and receives the corresponding NAX ordinal. A later response is processed as a review of the already fixed Neoaxiom and does not retroactively erase the maturation period.\n>\n> **[Regla completa / Full rule](../propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_365_DIAS_ES_EN.md)**\n\n'''
-          s=s.replace(marker, marker+block, 1)
+          old2='> **Regla de Maduración Neoaxiomática™ · 365 días / Neoaxiomatic Maturation Rule™ · 365 days:** el silencio no queda indefinido. Un candidato que complete el plazo sin respuesta sustantiva adquiere **fijación definitiva** en la primera revisión documental posterior y recibe el ordinal NAX correspondiente. Una respuesta posterior se procesa como revisión del Neoaxioma ya fijado y no borra retroactivamente el periodo de maduración. / silence is not indefinite. A candidate completing the period without substantive response acquires **definitive fixation** at the first subsequent documentary review and receives the corresponding NAX ordinal. A later response is processed as a review of the already fixed Neoaxiom and does not retroactively erase the maturation period.'
+          new2='> **Regla de Maduración Neoaxiomática™ · 365 días / Neoaxiomatic Maturation Rule™ · 365 days:** el silencio no queda indefinido. Un candidato que complete el plazo sin respuesta sustantiva adquiere **fijación definitiva** en la primera revisión documental posterior y recibe el ordinal NAX correspondiente, pero **la fijación no cierra la Síntesis ni el Issue: el Neoaxioma permanece abierto y revisable mediante SAN™**. Una respuesta posterior se procesa como revisión del Neoaxioma ya fijado y no borra retroactivamente el periodo de maduración. / silence is not indefinite. A candidate completing the period without substantive response acquires **definitive fixation** at the first subsequent documentary review and receives the corresponding NAX ordinal, but **fixation does not close the Synthesis or the Issue: the Neoaxiom remains open and revisable through SAN™**. A later response is processed as a review of the already fixed Neoaxiom and does not retroactively erase the maturation period.'
+          if old2 not in s:
+              raise SystemExit('Expected rule wording not found')
+          s=s.replace(old2,new2,1)
           p.write_text(s,encoding='utf-8')
           PY
-      - name: Commit
+      - name: Retire this one-shot and commit
         run: |
           set -euo pipefail
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git rm .github/workflows/oneshot-neoaxiom-365.yml
           git add neoaxiomas/README.md
-          if git diff --cached --quiet; then exit 0; fi
-          git commit -m 'docs: aplicar maduración neoaxiomática de 365 días'
+          git commit -m 'docs: fijar Neoaxiomas definitivos pero abiertos y revisables'
           git pull --rebase origin main
           git push origin main
