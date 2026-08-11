@@ -220,94 +220,202 @@ Ese es precisamente el tipo de afirmación que NeoGenealogía™ deberá poner a
 
 ## 1. Record purpose
 
-An external publication shared on 12 August 2026 brought the Asilomar case back into view as an example of scientists imposing limits on their own work when technical capability had moved ahead of sufficiently measured risk.
+An external publication shared on 12 August 2026 brought the Asilomar case back into view as an example of scientists who, faced with a new technical capability and risks that were still insufficiently measured, imposed limits on their own work before an external authority had fully determined the rules.
 
-The case is relevant to the framework, but it is not treated as automatic confirmation. **NeoGenealogy™** requires return to sources, separation of fact from interpretation and an explicit statement of what the relationship actually establishes.
+The observation is relevant to the framework, but it must not be absorbed as automatic confirmation. **NeoGenealogy™** is applied: return to sources, separate facts from interpretation, and record what relationship can actually be established.
 
-## 2. Minimal verified chronology
+## 2. Minimum verified chronology
 
-In 1974, a National Academy of Sciences committee chaired by Paul Berg recommended voluntary deferral of certain recombinant-DNA experiments while possible hazards were assessed and an international conference was prepared.
+### 1974 · voluntary deferral
 
-The International Conference on Recombinant DNA Molecules met at Asilomar in February 1975. Its outcome was not an indefinite ban: it recommended that research proceed under safeguards and containment requirements proportionate to risk.
+In 1974, a National Academy of Sciences committee chaired by Paul Berg recommended **voluntary deferral of certain recombinant-DNA experiments** while possible hazards were assessed more carefully and an international conference was prepared to discuss them.
 
-In 1976, NIH issued its first recombinant-DNA guidelines, institutionalising part of the oversight architecture.
+The proposal was not a total suspension of molecular biology. It concerned specific classes of experiments that the committee regarded as sufficiently uncertain or potentially hazardous.
 
-## 3. Relevant pattern
+### February 1975 · Asilomar
+
+The International Conference on Recombinant DNA Molecules met in February 1975 at the Asilomar Conference Center in Pacific Grove, California.
+
+After intense debate, the outcome was not to preserve the deferral indefinitely, but to allow research to continue **under safeguards and containment levels adapted to risk**.
+
+### 1976 · later institutionalisation
+
+In 1976, NIH published its first guidelines for recombinant-DNA research. The process therefore moved from an alarm and act of self-restraint originating within the scientific community toward a more institutionalised oversight architecture.
+
+## 3. The pattern of interest
+
+The relevant pattern is not simply «experts should rule».
+
+It is more precise:
 
 ```text
 NEW TECHNICAL CAPABILITY
 + MATERIAL UNCERTAINTY
-+ SPECIALISED RISK KNOWLEDGE
++ SPECIALISED KNOWLEDGE OF RISK
 → INTERNAL SIGNAL
 → DEFERRAL / PAUSE
 → DELIBERATION
 → CONDITIONS FOR CONTINUATION
-→ LATER OVERSIGHT AND REVIEW
+→ OVERSIGHT AND REVIEW
 ```
 
-This is a historical form of informed self-limitation before demonstrated harm.
+This provides a historical form of **informed self-limitation before demonstrated harm**.
 
-## 4. Why PROTO-ND
+## 4. Why it is classified as PROTO-ND
 
-The case partially anticipates later framework functions: capability is not treated as equivalent to licence to deploy; knowledge implies responsibility; relevant uncertainty can justify pause; scaling is preceded by deliberation; continuation is conditional and revisable; detected risk is translated into institutional memory.
+Asilomar 1974–1975 shows partial affinities with later elements of the framework:
 
-The label does **not** claim that the historical participants were Neodialectical or authored the later framework.
+- recognising that **technical capability and legitimacy to deploy are not equivalent**;
+- keeping the relation between knowledge and responsibility open;
+- introducing a pause under relevant uncertainty;
+- deliberating before scaling;
+- defining revisable conditions for continuation;
+- turning detected risk into rules and institutional memory.
 
-## 5. Limits of the analogy
+This supports **PROTO-ND** as a present analytical classification.
 
-Asilomar mainly addressed biosafety within a relatively bounded scientific community. It does not by itself contain permanent Open Synthesis, a general Common-Good architecture, a complete theory of human sovereignty, relational traceability of all affected groups, or a joint human–AI civilisational architecture.
+It does not justify saying that Berg, Baltimore, Brenner, Roblin, Singer, or Asilomar as a whole «were Neodialectical». That attribution would be retrospective and historically false.
 
-## 6. Limits of expert self-governance
+## 5. What Asilomar does not solve
 
-Expert knowledge can detect risks others cannot yet see, increasing responsibility to warn. But understanding a mechanism better does not grant total legitimacy over all of its social consequences.
+The comparison also reveals limits.
 
-The proposed delta is therefore **competent signal + expanded synthesis**, not technocracy.
+Asilomar focused primarily on biosafety and on a relatively bounded scientific community. The case does not by itself contain:
+
+- a permanent Open Synthesis;
+- a general Common-Good architecture;
+- a complete theory of human sovereignty;
+- relational traceability for the full set of affected parties;
+- a general mechanism of continuous public contradiction;
+- or a joint human–AI civilisational architecture.
+
+The antecedent is real **precisely because its claim is limited to what can be demonstrated**.
+
+## 6. The limit of expert self-governance
+
+Specialised knowledge can identify risks that others do not yet see. This increases responsibility and makes the expert signal especially valuable.
+
+But:
+
+```text
+UNDERSTANDING THE MECHANISM BETTER
+≠ POSSESSING ALL LEGITIMACY OVER ITS CONSEQUENCES
+```
+
+A technology may have labour, political, cultural, environmental, military or distributive effects extending beyond the technical domain of those who build it.
+
+The Neodialectical delta is therefore not «rule by experts», but **competent signal + expanded synthesis**.
 
 ## 7. Competent Pause™
 
+The case opens an operational hypothesis:
+
 > **Technical capability ≠ automatic licence to deploy.**
 
-**Competent Pause™** is provisionally defined as a proportional, traceable and revisable slowdown or stop triggered when there is a material gap between the capacity to intervene and the available capacity to understand, attribute, contain or repair consequences.
+**Competent Pause™** provisionally names the mechanism by which a technically grounded signal may proportionally stop or slow deployment when a material gap exists between:
 
-It must remain open to counterevidence and to decisions to resume, modify, limit or stop. It is not an indefinite default veto.
+```text
+CAPACITY TO INTERVENE
 
-## 8. Relation to Umbral-X™
+AND
+
+CAPACITY TO:
+UNDERSTAND
++ ATTRIBUTE
++ CONTAIN
++ REPAIR
+```
+
+The pause should be:
+
+- proportional to risk;
+- traceable;
+- revisable;
+- limited to the object that justifies it;
+- capable of incorporating counterevidence;
+- and oriented toward deciding whether to resume, modify, limit or stop.
+
+It is not an indefinite default veto.
+
+## 8. Proposed relation to Umbral-X™
+
+A risk signal may enter through Umbral-X™ when it rises sufficiently above noise to justify scrutiny.
 
 ```text
 SIGNAL
 → EVIDENCE / EXPERIENCE / MODEL
 → UMBRAL-X™
-→ COMPETENT PAUSE™ WHEN SCALING COST IS MATERIAL
+→ COMPETENT PAUSE™ WHEN THE COST OF SCALING IS MATERIAL
 → OPEN SYNTHESIS™
 → TRACEABLE DECISION
 ```
 
-The cost of false alarms must also be considered. Prudence is not immobility.
+The cost of a false alarm must also be part of the analysis. Prudence does not mean immobility.
 
 ## 9. Asilomar AI 2017
 
-In January 2017, the Future of Life Institute convened its Beneficial AI meeting at Asilomar. The resulting Asilomar AI Principles included beneficial research goals, safety, transparency, responsibility, liberty and privacy, shared benefit and prosperity, human control over delegation to AI, non-subversion of civic processes, capability caution and planning proportionate to the possible importance of advanced AI.
+In January 2017, the Future of Life Institute convened researchers and participants from several fields at Asilomar to discuss beneficial AI. That process produced the **Asilomar AI Principles**.
 
-This is recorded as another pre-Neodialectics proto-neodialectical layer, again partial rather than equivalent to the complete framework.
+They include principles concerning:
 
-## 10. Genealogical effect
+- research directed toward beneficial AI;
+- safety;
+- transparency and responsibility;
+- liberty and privacy;
+- shared benefit;
+- shared prosperity;
+- **human control over how and whether to delegate decisions to AI systems**;
+- non-subversion of social and civic processes;
+- caution regarding future capabilities;
+- and planning proportionate to the possible historical importance of advanced AI.
 
-The case establishes that scientific self-limitation under uncertainty is **not** a Neodialectical invention in isolation. The framework's potential distinctiveness must instead be tested at the level of relations among pause, Umbral-X™, Open Synthesis, traceability, memory, distributed responsibility, human sovereignty, affected parties, repair and the Common Good.
+This is recorded as a second proto-neodialectical layer predating the public formulation of Neodialectics, but again **partial and not equivalent to the complete framework**.
 
-## 11. Sources
+## 10. Genealogical Contrast Matrix™ · case 001
 
-- Berg P, Baltimore D, Brenner S, Roblin RO, Singer MF. *Asilomar conference on recombinant DNA molecules.* Science, 1975: https://pubmed.ncbi.nlm.nih.gov/1056638/
-- NCBI Bookshelf, recombinant-DNA historical timeline: https://www.ncbi.nlm.nih.gov/sites/books/NBK195888/
-- Paul Berg, personal historical reflections: https://pmc.ncbi.nlm.nih.gov/articles/PMC2815933/
-- NCBI Bookshelf, *Asilomar and Recombinant DNA*: https://www.ncbi.nlm.nih.gov/books/NBK234217/
-- Future of Life Institute, *Beneficial AI 2017*: https://futureoflife.org/event/bai-2017/
-- Future of Life Institute, *Asilomar AI Principles*: https://futureoflife.org/open-letter/ai-principles/
+| Field | Asilomar 1974–1975 |
+|---|---|
+| Source | documented scientific publications and historical timelines |
+| Domain | molecular biology / recombinant DNA |
+| Problem | uncertainty over biohazards arising from a new capability |
+| Mechanism | voluntary deferral + conference + safeguards |
+| Participation | mainly the scientific community, with other actors present at the conference |
+| Reversibility | yes; the deferral led to conditional resumption |
+| Traceability | letters, conference report, later guidelines |
+| Outcome | research continued under guidelines and oversight |
+| ND relation | **PROTO-ND** |
+| Effect | strong antecedent for Competent Pause™; limits any isolated novelty claim for the idea of technical self-restraint |
 
-## 12. Internal relations
+## 11. Effect on novelty claims
+
+The case requires a useful precision:
+
+**scientific self-restraint under uncertainty is not a Neodialectical invention.**
+
+The framework's possible contribution must be sought elsewhere: in the way it relates that function to Umbral-X™, Open Synthesis™, traceability, memory, distributed responsibility, human sovereignty, affected parties, repair, the Common Good and continuous review.
+
+```text
+ANTECEDENT OF ONE COMPONENT
+≠ AUTOMATIC ANTECEDENT OF THE WHOLE ARCHITECTURE
+```
+
+This is precisely the kind of claim NeoGenealogy™ should test in every case.
+
+## 12. Main sources
+
+- Berg P, Baltimore D, Brenner S, Roblin RO, Singer MF. **Asilomar conference on recombinant DNA molecules.** *Science*, 1975. PubMed: https://pubmed.ncbi.nlm.nih.gov/1056638/
+- NCBI Bookshelf. **Historical and Policy Timelines for Recombinant DNA Technology.** https://www.ncbi.nlm.nih.gov/sites/books/NBK195888/
+- Paul Berg. **Personal Reflections on the Origins and Emergence of Recombinant DNA Technology.** https://pmc.ncbi.nlm.nih.gov/articles/PMC2815933/
+- NCBI Bookshelf. **Asilomar and Recombinant DNA: The End of the Beginning.** https://www.ncbi.nlm.nih.gov/books/NBK234217/
+- Future of Life Institute. **Beneficial AI 2017.** https://futureoflife.org/event/bai-2017/
+- Future of Life Institute. **Asilomar AI Principles.** https://futureoflife.org/open-letter/ai-principles/
+
+## 13. Internal relations
 
 - [IX · Memory, Genealogy and Traceability™](../../manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md)
 - [XX · Intellectual Defence · Umbral-X™](../../manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
 - [XXXIV · Operational Utility and Perpetual Joint Audit™](../../manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
+- [XLII · End of the Era of the Manipulated Human™](../../manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
 - [LVIII · Civilisational Intelligence™](../../manifiestos/58_inteligencia_civilizatoria_pacto_social_bien_comun_ES_EN.md)
 - [LIX · Distributed Cognitive Custodianship™](../../manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md)
 - [NeoGenealogy™](../../propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md)
