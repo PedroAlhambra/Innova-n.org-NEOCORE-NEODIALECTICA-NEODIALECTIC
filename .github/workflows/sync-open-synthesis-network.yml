@@ -13,6 +13,7 @@ on:
       - 'propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md'
       - '.github/workflows/sync-open-synthesis-network.yml'
       - '.github/scripts/register_manifestos_LXIII_LXVI.py'
+      - '.github/scripts/normalize_manifesto_bilingual_names.py'
       - '.github/scripts/sync_open_synthesis_manifestos.py'
       - '.github/scripts/sync_canonical_manifestos.py'
       - '.github/scripts/normalize_manifesto_indices.py'
@@ -20,6 +21,7 @@ on:
       - '.github/scripts/sync_manifesto_crossrefs.py'
       - '.github/scripts/audit_es_en_parity.py'
       - '.github/scripts/audit_markdown_links_readmes.py'
+      - '.github/scripts/audit_manifesto_bilingual_structure.py'
 
 permissions:
   contents: write
@@ -35,6 +37,8 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+      - name: Normalize bilingual manifesto identities
+        run: python .github/scripts/normalize_manifesto_bilingual_names.py
       - name: Register historical recent manifestos safely
         run: python .github/scripts/register_manifestos_LXIII_LXVI.py
       - name: Synchronize Open Synthesis network
@@ -51,6 +55,8 @@ jobs:
         run: python .github/scripts/sync_canonical_manifestos.py
       - name: Audit ES EN semantic parity
         run: python .github/scripts/audit_es_en_parity.py
+      - name: Audit bilingual manifesto structure
+        run: python .github/scripts/audit_manifesto_bilingual_structure.py
       - name: Audit generated documentary graph
         run: python .github/scripts/audit_markdown_links_readmes.py
       - name: Enforce healthy documentary graph and material parity
@@ -65,8 +71,12 @@ jobs:
               raise SystemExit('Material ES/EN asymmetry detected; publish aborted.')
           if '**Con marcador incompleto/ausente:** 0' not in parity:
               raise SystemExit('Incomplete ES/EN markers detected; publish aborted.')
+          structure=Path('auditorias/publicas/2026-08-12_auditoria_estructura_bilingue_manifiestos_ES_EN.md').read_text(encoding='utf-8')
+          if '**REVISAR / REVIEW:** 0' not in structure:
+              raise SystemExit('Bilingual manifesto identity/index asymmetry detected; publish aborted.')
           print('DOCUMENTARY_GRAPH=OK')
           print('MATERIAL_PARITY=OK')
+          print('BILINGUAL_STRUCTURE=OK')
           PY
       - name: Commit synchronized network if needed
         run: |
