@@ -1,5 +1,6 @@
 name: sync-open-synthesis-network
 
+# Current live frontier: I–LXXII + ∞ · C-NAX-19 candidate
 on:
   workflow_dispatch:
   push:
