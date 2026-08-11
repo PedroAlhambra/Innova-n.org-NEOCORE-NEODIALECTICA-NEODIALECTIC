@@ -1,6 +1,7 @@
 from pathlib import Path
 import re
 
+# Trigger 2026-08-11T12:45+02:00: final living-frontier sweep.
 ROOT=Path('.')
 repo='https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC'
 readmes=sorted(set(ROOT.rglob('README.md'))|set(ROOT.rglob('README_*.md'))|{ROOT/'LEEME.md'})
