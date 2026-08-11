@@ -245,18 +245,16 @@ Elimination is not limited to physical killing.
 It may be economic, institutional, reputational, legal and bureaucratic, algorithmic, cognitive, historical or physical. Claims of physical violence, disappearance or caused death require sufficient evidence and strict separation between proof, indication, inference and hypothesis.
 
 <!-- PARITY_72_28_II -->
-The Spanish source makes the mechanisms of elimination explicit. They may be:
+The Spanish source distinguishes eight auditable mechanisms rather than collapsing them into one accusation:
 
-- **economic**: loss of funding, employment, technical access or the means of subsistence;
-- **institutional**: exclusion from universities, companies, media or decision-making spaces;
-- **reputational**: presenting the creator as unstable, conflictive, eccentric or incompetent without refuting the work;
-- **legal or bureaucratic**: consuming a person's life in procedures, litigation or endless demonstrations of precedence;
-- **algorithmic**: burying the source while amplifying versions backed by greater capital or distribution;
-- **cognitive**: forcing the originator to explain indefinitely what is already documented instead of examining it;
-- **historical**: preserving the idea while erasing or blurring its origin;
-- **physical**: violence, disappearance or caused death, a category that may only be asserted when sufficient evidence supports it.
-
-These mechanisms are not declared present in every case. The purpose of the enumeration is to make each possible form separately auditable instead of collapsing them into a single accusation.
+- **economic**: funding, employment, access or subsistence;
+- **institutional**: exclusion from decision spaces;
+- **reputational**: discredit without refuting the work;
+- **legal/bureaucratic**: exhaustion through procedures or litigation;
+- **algorithmic**: burying the source while amplifying stronger distributors;
+- **cognitive**: forcing endless re-explanation of documented work;
+- **historical**: preserving the idea while erasing origin;
+- **physical**: violence or caused death, assertable only with sufficient evidence.
 
 ## III. Individual failure as a concealing narrative
 

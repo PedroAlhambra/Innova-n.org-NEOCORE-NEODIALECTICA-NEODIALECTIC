@@ -497,18 +497,7 @@ The audit function is explicitly decomposed in the Spanish source so that it can
 11. measure the result after implementation;
 12. reopen the case if materially new evidence appears.
 
-```text
-CLAIM
-→ SOURCE / EVIDENCE
-→ CONTRADICTION
-→ ALTERNATIVES
-→ PROVISIONAL SYNTHESIS
-→ ACTION
-→ MEASUREMENT
-→ DELTA
-```
-
-The objective is not to create an omniscient tribunal. It is to prevent conclusions, corrections and responsibilities from disappearing each time the conversational context changes.
+The objective is not an omniscient tribunal, but persistent memory of claims, corrections, responsibilities and outcomes.
 
 ## III. Audit begins with ourselves
 

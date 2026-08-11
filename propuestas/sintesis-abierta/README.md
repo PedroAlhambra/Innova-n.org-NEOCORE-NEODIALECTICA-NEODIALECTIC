@@ -237,6 +237,7 @@ COMMIT = FIJACIÓN Y DELTA CANÓNICO / CANONICAL FIXATION AND DELTA
 | LXIII | [Contra la Simplificación Burda del Marco™](../../manifiestos/63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md) | [#105](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/105) |
 | LXIV | [NeoCronos™ · Medición y Tokenización del Aporte](../../manifiestos/64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md) | [#107](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/107) |
 | LXV | [NeoJuego™ · Juego por el Bien Común Tokenizado](../../manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md) | [#109](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/109) |
+| LXVI | [NeoSinergia™ · Neowar™ Activa, Sistema MÉDICI™ y Leónidas–Cancerbero™](../../manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md) | [#110](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/110) |
 | ∞ | [Neo0™ · Puerta Abierta del Fractal](../../manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) | [#106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106) |
 
 > El número de manifiestos no constituye un cierre de canon: registra el estado actual. ∞ conserva la apertura permanente. / The manifesto count is not a closed canon: it records the current state. ∞ preserves permanent openness.

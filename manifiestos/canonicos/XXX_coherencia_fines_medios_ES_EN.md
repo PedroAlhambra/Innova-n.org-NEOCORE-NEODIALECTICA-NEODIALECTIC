@@ -256,17 +256,17 @@ A victory requiring permanent lies must continue lying in order to survive.
 A means must be evaluated through necessity, proportionality, possible transparency, reversibility, temporality, responsibility, traceability, non-dehumanisation and coherence with the core of the end.
 
 <!-- PARITY_72_30_III -->
-The legitimacy test in the Spanish source asks for all of the following dimensions:
+The Spanish source keeps nine dimensions explicit:
 
-- **necessity**: whether the measure is genuinely needed for the stated end;
-- **proportionality**: whether its cost and intrusion are proportionate to the problem;
-- **possible transparency**: whether reasons, criteria and limits can be made visible without creating a greater harm;
-- **reversibility**: whether the measure can be withdrawn when it fails or its justification disappears;
-- **temporality**: whether exceptional means have an explicit duration instead of becoming permanent by inertia;
-- **responsibility**: whether identifiable humans and institutions remain answerable for consequences;
-- **traceability**: whether decisions, changes and evidence can be reconstructed later;
-- **non-dehumanisation**: whether people remain persons rather than expendable variables of the objective;
-- **coherence**: whether the means preserve rather than destroy the value invoked by the end.
+- necessity;
+- proportionality;
+- possible transparency;
+- reversibility;
+- temporality;
+- responsibility;
+- traceability;
+- non-dehumanisation;
+- coherence between the means and the value invoked by the end.
 
 ## IV. Defence, conflict and force
 

@@ -497,7 +497,7 @@ PERSON
 The aim is not to abolish markets, media, institutions or technology, but to prevent them from operating upon cognitively defenceless persons.
 
 <!-- PARITY_72_42_VIII -->
-The transition is explicitly contrasted as:
+The Spanish source explicitly contrasts the existing English person-centred sequence with the reduction sequence:
 
 ```text
 USER
@@ -506,16 +506,6 @@ USER
 → PROFILE
 → TARGET
 → CONVERSION
-```
-
-```text
-PERSON
-→ NODE WITH MEMORY
-→ OBSERVER
-→ CONTRIBUTOR
-→ SCRUTINISER
-→ CO-AUTHOR OF SYNTHESIS
-→ AGENT ABLE TO DECIDE
 ```
 
 ## IX. IDEA as narrative gateway

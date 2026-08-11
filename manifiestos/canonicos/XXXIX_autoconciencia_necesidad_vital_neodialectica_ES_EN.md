@@ -441,7 +441,7 @@ PROBLEM
 ```
 
 <!-- PARITY_72_39_III -->
-The Spanish source preserves both operational sequences:
+The Spanish source also preserves the failure sequence that the existing English synthesis contrasts with its relational sequence:
 
 ```text
 ISOLATED PROBLEM
@@ -450,20 +450,6 @@ ISOLATED PROBLEM
 → NEW PROBLEM
 → NEW PARTIAL CORRECTION
 → ACCUMULATION OF CONTRADICTIONS
-```
-
-```text
-PROBLEM
-→ RELATIONS
-→ CONTRADICTIONS
-→ SOURCES
-→ SCALES
-→ ALTERNATIVES
-→ PROVISIONAL SYNTHESIS
-→ MATERIALISATION
-→ MEASUREMENT
-→ DELTA
-→ NEW SYNTHESIS
 ```
 
 ## IV. The framework as related memory

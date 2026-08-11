@@ -1,20 +1,20 @@
 # Postcheck dinámico · README, índices y enlaces / Dynamic README, indices and links postcheck
 
 **Fecha / Date:** 2026-08-09  
-**Estado / Status:** **REQUIERE CORRECCIÓN / NEEDS CORRECTION**
+**Estado / Status:** **OK**
 
 ## ES · Resultado
 
-- Archivos Markdown revisados: **325**.
+- Archivos Markdown revisados: **326**.
 - README/LEEME revisados: **18**.
-- Enlaces internos de ruta comprobados: **10631**.
+- Enlaces internos de ruta comprobados: **10650**.
 - Alias internos de GitHub Wiki reconocidos: **11**.
-- Enlaces externos inventariados sin comprobar disponibilidad remota: **1663**.
+- Enlaces externos inventariados sin comprobar disponibilidad remota: **1665**.
 - Enlaces sólo a ancla detectados: **388**.
 - Bloques de último manifiesto encontrados en README/LEEME: **11**.
 - Manifiestos canónicos detectados: **68 · I–LXVIII**.
 - Último manifiesto / Síntesis: **LXVIII**.
-- Enlaces internos rotos detectados: **2**.
+- Enlaces internos rotos detectados: **0**.
 - Fallos canónicos críticos: **0**.
 
 ### Comprobaciones canónicas
@@ -26,20 +26,17 @@
 
 ### Enlaces internos rotos
 
-| Origen | Destino | Motivo |
-|---|---|---|
-| `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md` | `./72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md` | destino inexistente / missing target |
-| `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md` | `./72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md` | destino inexistente / missing target |
+- Ninguno detectado por el validador de rutas del repositorio.
 
 ## EN · Result
 
-- Markdown files reviewed: **325**.
+- Markdown files reviewed: **326**.
 - README/LEEME files reviewed: **18**.
-- Internal path links checked: **10631**.
+- Internal path links checked: **10650**.
 - GitHub Wiki extensionless page aliases recognised: **11**.
 - Canonical manifestos detected: **68 · I–LXVIII**.
 - Latest manifesto / synthesis: **LXVIII**.
-- Broken internal links found: **2**.
+- Broken internal links found: **0**.
 - Canonical critical failures: **0**.
 
 The canonical collection is derived dynamically from the current manifesto index; the auditor no longer hard-codes a historical endpoint.
