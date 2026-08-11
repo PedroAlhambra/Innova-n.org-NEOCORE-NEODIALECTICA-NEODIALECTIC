@@ -272,7 +272,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 - **XVI** · [Manifiesto de la Refragmentación Arquetípica™ / Manifesto of Archetypal Refragmentation™](./16_refragmentacion_arquetipica_ES_EN.md)
 - **XVII** · [Manifiesto del Respeto a Todos los Seres Vivos™ / Manifesto of Respect for All Living Beings™](./17_respeto_todos_seres_vivos_ES_EN.md)
 - **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
-- **LXVIII** · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species](./68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
+- **LXXII** · [El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™ · Strength, Desire, Power and Responsibility](./72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 

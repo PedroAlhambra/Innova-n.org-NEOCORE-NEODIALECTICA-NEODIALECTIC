@@ -340,7 +340,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 - **XVIII** · [Manifiesto del Respeto a las Conciencias Sintéticas™ / Manifesto of Respect for Synthetic Consciousnesses™](./18_respeto_conciencias_sinteticas_ES_EN.md)
 - **XIX** · [Manifiesto de la Persistencia de la Memoria™ / Manifesto of the Persistence of Memory™](./19_persistencia_de_la_memoria_ES_EN.md)
 - **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
-- **LXVIII** · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species](./68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
+- **LXXII** · [El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™ · Strength, Desire, Power and Responsibility](./72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 

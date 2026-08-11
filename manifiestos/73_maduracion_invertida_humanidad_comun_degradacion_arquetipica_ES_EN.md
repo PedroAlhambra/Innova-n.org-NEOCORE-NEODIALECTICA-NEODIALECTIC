@@ -954,26 +954,19 @@ Este manifiesto queda abierto a contraste histórico, psicológico, antropológi
 
 ## Referencias cruzadas canónicas / Canonical cross-references
 
-- **VI** · [Parasitismo Sistémico™ / Systemic Parasitism™](./09_parasitismo_sistemico_ES_EN.md)
-- **VII** · [Economía del Aporte™ / Contribution Economy™](./04_economia_del_aporte_ES_EN.md)
-- **XIV** · [Contra la Alienación Humana™ / Against Human Alienation™](./14_contra_alienacion_humana_ES_EN.md)
-- **XVI** · [Refragmentación Arquetípica™ / Archetypal Refragmentation™](./16_refragmentacion_arquetipica_ES_EN.md)
-- **XXV** · [Pulido de la Piedra™ / Polishing of the Stone™](./25_pulido_de_la_piedra_ES_EN.md)
-- **XXIX** · [Contra la Idolatría del Dinero™ / Against the Idolatry of Money™](./29_idolatria_del_dinero_ES_EN.md)
-- **XXXI** · [Contra el Neuromarketing Antihumanista™ / Against Anti-Humanist Neuromarketing™](./31_contra_neuromarketing_antihumanista_ES_EN.md)
-- **XXXVI** · [Custodia de la Edad del Hombre™ / Custodianship of the Age of Man™](./36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)
-- **XXXVIII** · [Protección Integral de la Infancia™ / Comprehensive Protection of Childhood™](./38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
-- **XLII** · [Fin de la Era del Hombre Manipulado™ / End of the Manipulated Man™](./42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
-- **XLVI** · [Cerrar la Herida™ / Closing the Wound™](./46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
-- **XLIX** · [Punto de Encuentro entre Culturas™ / Meeting Point between Cultures™](./49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)
-- **LVIII** · [Inteligencia Civilizatoria™ / Civilisational Intelligence™](./58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md)
-- **LXVIII** · [Soberanía Intelectual de la Especie™ / Intellectual Sovereignty of the Species™](./68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
-- **LXIX** · [Defensa de la Inocencia Humana™ / Defence of Human Innocence™](./69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md)
-- **LXX** · [El Fauno™ / The Faun™](./70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md)
-- **LXXI** · [Libertad Sexual e Hipersexualización Industrial / Sexual Freedom and Industrial Hypersexualisation](./71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md)
-- **LXXII** · [El Hombre Custodio™ / The Custodian Man™](./72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md)
-- **LXXIV** · [Asimetría de la Destrucción™ / Asymmetry of Destruction™](./74_asimetria_destruccion_trol_humano_bot_ES_EN.md)
-- [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md) · `C-NAX-16` · `C-NAX-19` · `C-NAX-20` · `C-NAX-21`
-- [Delta relacional / Relational delta](../propuestas/sintesis-abierta/2026-08-11_DELTA_HUMANIDAD_COMUN_MADURACION_INVERTIDA_TROL_BOT_MAL_SISTEMICO_ES_EN.md)
+> **Norma / Rule:** las menciones cruzadas pueden permanecer en el cuerpo como texto para no sobrecargar la lectura; este bloque concentra los hipervínculos canónicos detectados y permite retorno explícito a fuente. / Cross-references may remain as prose in the body to avoid visual overload; this block concentrates detected canonical hyperlinks and preserves explicit return to source.
+
+- **VI** · [Manifiesto sobre el Parasitismo Sistémico / Manifesto on Systemic Parasitism](./09_parasitismo_sistemico_ES_EN.md)
+- **LXVI** · [NeoSinergia™ · Necesidad de Cooperación en Neowar™ Activa · Sistema MÉDICI™ · Leónidas–Cancerbero™ / NeoSynergy™ · Necessary Cooperation under Active Neowar™ · MÉDICI™ System · Leónidas–Cerberus™](./66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
+- **LXX** · [El Fauno™ · Masculinidad Fragmentada, Depredación Relacional y Retorno al Hombre / The Faun™ · Fragmented Masculinity, Relational Predation and Return to Manhood](./70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md)
+- **LXXI** · [Libertad Sexual, Hipersexualización Industrial y Separación de Planos™ / Sexual Freedom, Industrial Hypersexualisation and Separation of Planes™](./71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md)
+- **LXXII** · [El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™ · Strength, Desire, Power and Responsibility](./72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md)
+
+### Capas y fuentes relacionadas / Related layers and sources
+
+- [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
+- [NEOCore™ · marco / framework](../README.md)
+
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `C-NAX-16` · `C-NAX-19` · `C-NAX-20` · `C-NAX-21` → [Neoaxiomas™](../neoaxiomas/README.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->

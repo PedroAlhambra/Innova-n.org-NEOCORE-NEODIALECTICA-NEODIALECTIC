@@ -483,7 +483,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 - **LIV** · [Manifiesto de la Riqueza y la Chatarra™ / Manifesto of Wealth and Scrap™](./54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md)
 - **LVI** · [Manifiesto del NO-CONTROL™ · Síntesis Previa a la Potencia / Manifesto of NO-CONTROL™ · Synthesis Before Power](./56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md)
 - **LXVI** · [NeoSinergia™ · Necesidad de Cooperación en Neowar™ Activa · Sistema MÉDICI™ · Leónidas–Cancerbero™ / NeoSynergy™ · Necessary Cooperation under Active Neowar™ · MÉDICI™ System · Leónidas–Cerberus™](./66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
-- **LXVIII** · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species](./68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
+- **LXXII** · [El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™ · Strength, Desire, Power and Responsibility](./72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 
