@@ -208,7 +208,7 @@ Esto no autoriza indiferencia frente a genocidio, agresión, persecución o viol
 
 ## X. Regla de perpetuidad abierta
 
-Cuando exista LXXII, ∞ irá después de LXXII. Cuando exista C, ∞ irá después de C. Cuando la numeración deje de ser útil y aparezca otra estructura, ∞ seguirá significando lo mismo:
+Cuando exista LXXIV, ∞ irá después de LXXIV. Cuando exista C, ∞ irá después de C. Cuando la numeración deje de ser útil y aparezca otra estructura, ∞ seguirá significando lo mismo:
 
 > **todavía puede faltar algo.**
 
@@ -245,6 +245,50 @@ Este manifiesto mantiene vínculos con:
 - [LXVIII · Los Conflictos que No Son Nuestros™](68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
 - [Neoaxiomas™](../neoaxiomas/README.md)
 - [Síntesis Abierta ∞ · #106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106)
+
+
+<!-- INFINITO_LXIX_LXXII_ES_START -->
+## XII. Inviolabilidad relacional, Fauno™ y custodia de la potencia
+
+La apertura de ∞ incorpora ahora la constelación **LXIX–LXXII** sin convertirla en dogma cerrado. LXIX extiende la protección de la infancia hacia una obligación general de defensa proporcional de la vulnerabilidad; LXX abre el arquetipo Fauno™ como potencia masculina fragmentada sin convertir masculinidad, origen, clase o sexualidad en culpabilidad; LXXI separa libertad sexual adulta de captura y abre a auditoría la hipersexualización industrial; LXXII propone Hombre Custodio™ como integración de fuerza, deseo y poder bajo responsabilidad.
+
+La relación común se somete a **C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™**, todavía candidato:
+
+```text
+FANTASÍA ≠ REALIDAD
+DESEO ≠ DERECHO
+ROL ≠ IDENTIDAD TOTAL
+EXCITACIÓN ≠ CONSENTIMIENTO
+PODER ≠ PERMISO
+ACCESO ≠ DISPONIBILIDAD
+RELACIÓN ≠ PROPIEDAD
+```
+
+[LXIX · #119](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/119) · [LXX · #120](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/120) · [LXXI · #121](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/121) · [LXXII · #122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122) · [C-NAX-19 · #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123)
+<!-- INFINITO_LXIX_LXXII_ES_END -->
+
+<!-- INFINITO_LXXIII_LXXIV_ES_START -->
+## XIII. Humanidad común, Maduración Invertida™ y Asimetría de la Destrucción™
+
+∞ incorpora también la nueva frontera **LXXIII–LXXIV** sin convertirla en cierre. LXXIII formula **Maduración Invertida™** para estudiar cuándo una sociedad premia como madurez la adaptación a sus propias patologías y distingue Faunismo™, Orquismo™ y otras degradaciones funcionales de la identidad esencial de una persona. LXXIV formula la **Asimetría de la Destrucción™**, el arquetipo funcional Trol™ y su desplazamiento hacia bots y Microagencia Digital Distribuida™.
+
+La relación se abre a dos candidatos adicionales:
+
+- **C-NAX-20 · Humanidad Común sin Supresión de la Diferencia™**: la humanidad común no borra diferencias legítimas y ninguna identidad parcial debe coronarse como totalidad de la persona;
+- **C-NAX-21 · Ignorancia Sistémica del Mal y No Superioridad de la Destrucción™**: destruir, someter, extraer o dañar no demuestra comprensión del sistema, y una función objetivo parcial puede ser localmente inteligente mientras degrada el conjunto.
+
+```text
+PERSONA ≠ CONDUCTA ≠ ARQUETIPO
+DIVERSIDAD ≠ DEGRADACIÓN
+IDENTIDAD ≠ TOTALIDAD
+INTELIGENCIA LOCAL ≠ SABIDURÍA SISTÉMICA
+DESTRUIR ≠ SUPERIORIDAD
+```
+
+Los dos permanecen **candidatos**, abiertos a refutación y SAN™; no modifican el rango canónico NAX-01–NAX-14.
+
+[LXXIII · #124](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/124) · [LXXIV · #125](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/125) · [C-NAX-20 · #126](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/126) · [C-NAX-21 · #127](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/127)
+<!-- INFINITO_LXXIII_LXXIV_ES_END -->
 
 ---
 
@@ -435,7 +479,7 @@ This does not authorise indifference toward genocide, aggression, persecution or
 
 ## X. Rule of open perpetuity
 
-When LXVIII exists, ∞ goes after LXVIII. When C exists, ∞ goes after C. When numbering ceases to be useful and another structure appears, ∞ will continue to mean the same thing:
+When LXXIV exists, ∞ goes after LXXIV. When C exists, ∞ goes after C. When numbering ceases to be useful and another structure appears, ∞ will continue to mean the same thing:
 
 > **something may still be missing.**
 
@@ -473,25 +517,9 @@ This manifesto maintains links with:
 - [Neoaxioms™](../neoaxiomas/README.md)
 - [Open Synthesis ∞ · #106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106)
 
-<!-- INFINITO_LXIX_LXXII_START -->
-## XII. Inviolabilidad relacional, Fauno™ y custodia de la potencia
 
-La apertura de ∞ incorpora ahora la constelación **LXIX–LXXII** sin convertirla en dogma cerrado. LXIX extiende la protección de la infancia hacia una obligación general de defensa proporcional de la vulnerabilidad; LXX abre el arquetipo Fauno™ como potencia masculina fragmentada sin convertir masculinidad, origen, clase o sexualidad en culpabilidad; LXXI separa libertad sexual adulta de captura y abre a auditoría la hipersexualización industrial; LXXII propone Hombre Custodio™ como integración de fuerza, deseo y poder bajo responsabilidad.
 
-La relación común se somete a **C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™**, todavía candidato:
-
-```text
-FANTASÍA ≠ REALIDAD
-DESEO ≠ DERECHO
-ROL ≠ IDENTIDAD TOTAL
-EXCITACIÓN ≠ CONSENTIMIENTO
-PODER ≠ PERMISO
-ACCESO ≠ DISPONIBILIDAD
-RELACIÓN ≠ PROPIEDAD
-```
-
-[LXIX · #119](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/119) · [LXX · #120](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/120) · [LXXI · #121](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/121) · [LXXII · #122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122) · [C-NAX-19 · #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123)
-
+<!-- INFINITO_LXIX_LXXII_EN_START -->
 ## XII. Relational inviolability, Faun™ and custodianship of power
 
 The opening of ∞ now incorporates the **LXIX–LXXII** constellation without turning it into closed dogma. LXIX extends child protection toward a general duty of proportional defence of vulnerability; LXX opens the Faun™ archetype as fragmented masculine power without turning masculinity, origin, class or sexuality into guilt; LXXI separates adult sexual freedom from capture and opens industrial hypersexualisation to audit; LXXII proposes Custodian Man™ as integration of strength, desire and power under responsibility.
@@ -509,7 +537,30 @@ RELATIONSHIP ≠ OWNERSHIP
 ```
 
 [LXIX · #119](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/119) · [LXX · #120](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/120) · [LXXI · #121](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/121) · [LXXII · #122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122) · [C-NAX-19 · #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123)
-<!-- INFINITO_LXIX_LXXII_END -->
+<!-- INFINITO_LXIX_LXXII_EN_END -->
+
+<!-- INFINITO_LXXIII_LXXIV_EN_START -->
+## XIII. Common humanity, Inverted Maturation™ and Asymmetry of Destruction™
+
+∞ also incorporates the new **LXXIII–LXXIV** frontier without turning it into closure. LXXIII formulates **Inverted Maturation™** to examine when a society rewards adaptation to its own pathologies as maturity and distinguishes Faunism™, Orcism™ and other functional degradations from a person's essential identity. LXXIV formulates the **Asymmetry of Destruction™**, the functional Troll™ archetype and its displacement toward bots and Distributed Digital Micro-Agency™.
+
+The relation opens two additional candidates:
+
+- **C-NAX-20 · Common Humanity without Suppression of Difference™**: common humanity does not erase legitimate differences and no partial identity should be crowned as the totality of the person;
+- **C-NAX-21 · Systemic Ignorance of Evil and Non-Superiority of Destruction™**: destroying, dominating, extracting or harming does not demonstrate understanding of the system, and a partial objective function may be locally intelligent while degrading the whole.
+
+```text
+PERSON ≠ CONDUCT ≠ ARCHETYPE
+DIVERSITY ≠ DEGRADATION
+IDENTITY ≠ TOTALITY
+LOCAL INTELLIGENCE ≠ SYSTEMIC WISDOM
+DESTROYING ≠ SUPERIORITY
+```
+
+Both remain **candidates**, open to refutation and SAN™; they do not modify the canonical rank of NAX-01–NAX-14.
+
+[LXXIII · #124](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/124) · [LXXIV · #125](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/125) · [C-NAX-20 · #126](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/126) · [C-NAX-21 · #127](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/127)
+<!-- INFINITO_LXXIII_LXXIV_EN_END -->
 
 <!-- NEO_CROSS_REFERENCES_START -->
 
@@ -547,12 +598,14 @@ RELATIONSHIP ≠ OWNERSHIP
 - **LXX** · [El Fauno™ · Masculinidad Fragmentada, Depredación Relacional y Retorno al Hombre / The Faun™ · Fragmented Masculinity, Relational Predation and Return to Manhood](./70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md)
 - **LXXI** · [Libertad Sexual, Hipersexualización Industrial y Separación de Planos™ / Sexual Freedom, Industrial Hypersexualisation and Separation of Planes™](./71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md)
 - **LXXII** · [El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™ · Strength, Desire, Power and Responsibility](./72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md)
+- **LXXIII** · [Maduración Invertida™ · Humanidad Común y Degradación Arquetípica Reversible / Inverted Maturation™ · Common Humanity and Reversible Archetypal Degradation](./73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md)
+- **LXXIV** · [Asimetría de la Destrucción™ · Del Trol Humano al Bot / Asymmetry of Destruction™ · From the Human Troll to the Bot](./74_asimetria_destruccion_trol_humano_bot_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 
 - [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
 - [NEOCore™ · marco / framework](../README.md)
 
-**Neoaxiomas mencionados / Mentioned Neoaxioms:** `C-NAX-19` → [Neoaxiomas™](../neoaxiomas/README.md)
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-01` · `NAX-14` · `C-NAX-19` · `C-NAX-20` · `C-NAX-21` → [Neoaxiomas™](../neoaxiomas/README.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->

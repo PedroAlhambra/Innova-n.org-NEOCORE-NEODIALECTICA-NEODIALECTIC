@@ -23,7 +23,7 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 ## NEOCore™ 7.2 · Delta actual / Current delta
 
-**Soberanía de Síntesis™ + Innova_N Fundación/Corporación futuras + corpus I–LXXII + ∞ + WEB4™ actualizado.**  
+**Soberanía de Síntesis™ + Innova_N Fundación/Corporación futuras + corpus I–LXXIV + ∞ + WEB4™ actualizado.**  
 La Fundación custodiará propósito y Bien Común; la Corporación materializará infraestructura y sostenibilidad; ninguna sustituye a la Síntesis. NeoCronos™ permanece experimental y revisable. / The Foundation will guard purpose and the Common Good; the Corporation will materialise infrastructure and sustainability; neither replaces Synthesis. NeoCronos™ remains experimental and revisable.
 
 **[Leer delta 7.2 / Read 7.2 delta](proyeccion/NEOCORE_7_2_DELTA_ES_EN.md)** · **[WEB4™](web4/README.md)** · **[Neoaxiomas™](neoaxiomas/README.md)**
