@@ -12,7 +12,7 @@
 - Los bloques generados de navegación, referencias cruzadas y colas de navegación específicas de idioma no se contabilizan como traducción.
 - `REVISAR` bloquea la publicación automática de manifiestos; `ADVERTENCIA` exige inspección editorial pero no demuestra por sí sola recorte.
 
-**Documentos bilingües examinados:** 101  
+**Documentos bilingües examinados:** 102  
 **Recortes/materialmente asimétricos para revisión:** 0  
 **Advertencias estructurales sin prueba suficiente de recorte:** 31  
 **Con marcador incompleto/ausente:** 0
@@ -138,6 +138,7 @@
 | `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md` | 1466 | 1602 | 1.09 | 23 | 24 | OK |
 | `manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md` | 1660 | 1790 | 1.08 | 22 | 23 | OK |
 | `manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md` | 1119 | 1199 | 1.07 | 19 | 20 | OK |
+| `manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md` | 1370 | 1398 | 1.02 | 15 | 16 | OK |
 | `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | 2112 | 2116 | 1.00 | 13 | 13 | OK |
 | `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` | 357 | 355 | 0.99 | 1 | 1 | OK |
 | `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` | 3237 | 3440 | 1.06 | 29 | 30 | OK |
