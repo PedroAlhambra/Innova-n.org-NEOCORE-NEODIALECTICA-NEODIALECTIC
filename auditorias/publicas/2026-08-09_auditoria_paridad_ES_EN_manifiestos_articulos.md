@@ -12,8 +12,8 @@
 - Los bloques generados de navegación, referencias cruzadas y colas de navegación específicas de idioma no se contabilizan como traducción.
 - `REVISAR` bloquea la publicación automática de manifiestos; `ADVERTENCIA` exige inspección editorial pero no demuestra por sí sola recorte.
 
-**Documentos bilingües examinados:** 95  
-**Recortes/materialmente asimétricos para revisión:** 0  
+**Documentos bilingües examinados:** 101  
+**Recortes/materialmente asimétricos para revisión:** 1  
 **Advertencias estructurales sin prueba suficiente de recorte:** 31  
 **Con marcador incompleto/ausente:** 0
 
@@ -21,7 +21,7 @@
 
 | Archivo | Palabras ES | Palabras EN | Ratio EN/ES | H ES | H EN | Motivo |
 |---|---:|---:|---:|---:|---:|---|
-| — | — | — | — | — | — | Sin casos |
+| `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | 1816 | 2051 | 1.13 | 11 | 13 | secciones principales ES=['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI'], EN=['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XII'] |
 
 ## Advertencias estructurales
 
@@ -132,7 +132,13 @@
 | `manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md` | 1651 | 1636 | 0.99 | 14 | 14 | OK |
 | `manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md` | 1167 | 1195 | 1.02 | 13 | 13 | OK |
 | `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md` | 1435 | 1764 | 1.23 | 15 | 16 | OK |
-| `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | 1816 | 1827 | 1.01 | 11 | 11 | OK |
+| `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` | 1453 | 1552 | 1.07 | 17 | 18 | OK |
+| `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` | 1487 | 1585 | 1.07 | 18 | 19 | OK |
+| `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md` | 1545 | 1614 | 1.04 | 20 | 21 | OK |
+| `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md` | 1466 | 1602 | 1.09 | 23 | 24 | OK |
+| `manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md` | 1660 | 1790 | 1.08 | 22 | 23 | OK |
+| `manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md` | 1119 | 1199 | 1.07 | 19 | 20 | OK |
+| `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | 1816 | 2051 | 1.13 | 11 | 13 | REVISAR |
 | `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` | 357 | 355 | 0.99 | 1 | 1 | OK |
 | `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` | 3237 | 3440 | 1.06 | 29 | 30 | OK |
 | `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` | 621 | 912 | 1.47 | 6 | 7 | OK |
