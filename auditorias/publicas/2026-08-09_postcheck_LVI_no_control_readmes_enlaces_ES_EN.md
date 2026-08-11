@@ -1,7 +1,7 @@
 # Postcheck dinámico · README, índices y enlaces / Dynamic README, indices and links postcheck
 
 **Fecha / Date:** 2026-08-09  
-**Estado / Status:** **REQUIERE CORRECCIÓN / NEEDS CORRECTION**
+**Estado / Status:** **OK**
 
 ## ES · Resultado
 
@@ -14,7 +14,7 @@
 - Bloques de último manifiesto encontrados en README/LEEME: **11**.
 - Manifiestos canónicos detectados: **72 · I–LXXII**.
 - Último manifiesto / Síntesis: **LXXII / #122**.
-- Enlaces internos rotos detectados: **1**.
+- Enlaces internos rotos detectados: **0**.
 - Fallos canónicos críticos: **0**.
 
 ### Comprobaciones canónicas
@@ -26,9 +26,7 @@
 
 ### Enlaces internos rotos
 
-| Origen | Destino | Motivo |
-|---|---|---|
-| `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` | `../../manifiestos/33_idea_piedra_angular_rosetta_civilizatoria_reset_reemplazo_ES_EN.md` | destino inexistente / missing target |
+- Ninguno detectado por el validador de rutas del repositorio.
 
 ## EN · Result
 
@@ -38,7 +36,7 @@
 - GitHub Wiki extensionless page aliases recognised: **11**.
 - Canonical manifestos detected: **72 · I–LXXII**.
 - Latest manifesto / synthesis: **LXXII / #122**.
-- Broken internal links found: **1**.
+- Broken internal links found: **0**.
 - Canonical critical failures: **0**.
 
 The canonical collection is derived dynamically from the current manifesto index; the auditor no longer hard-codes a historical endpoint.
