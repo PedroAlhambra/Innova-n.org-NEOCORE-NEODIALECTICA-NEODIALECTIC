@@ -844,22 +844,20 @@ Este manifiesto queda abierto a informática, seguridad, sociología de redes, p
 
 ## Referencias cruzadas canónicas / Canonical cross-references
 
-- **VI** · [Parasitismo Sistémico™ / Systemic Parasitism™](./09_parasitismo_sistemico_ES_EN.md)
-- **VII** · [Economía del Aporte™ / Contribution Economy™](./04_economia_del_aporte_ES_EN.md)
-- **IX** · [Memoria, Genealogía y Trazabilidad™ / Memory, Genealogy and Traceability™](./06_memoria_genealogia_trazabilidad_ES_EN.md)
-- **XX** · [UMBRAL-X™](./20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
-- **XXXI** · [Neuromarketing Antihumanista™ / Anti-Humanist Neuromarketing™](./31_contra_neuromarketing_antihumanista_ES_EN.md)
-- **XXXIV** · [Auditoría Conjunta Perpetua™ / Perpetual Joint Audit™](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
-- **XXXV** · [Economía del Conflicto™ / Conflict Economy™](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
-- **XLII** · [Fin de la Era del Hombre Manipulado™ / End of the Manipulated Man™](./42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
-- **XLIV** · [Neowar™](./44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md)
-- **LV** · [Ataque de las Micromáquinas™ / Attack of the Micromachines™](./55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md)
-- **LVIII** · [Inteligencia Civilizatoria™ / Civilisational Intelligence™](./58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md)
-- **LIX** · [Custodia Cognitiva Distribuida™ / Distributed Cognitive Custodianship™](./59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md)
-- **LXIII** · [Contra la Simplificación Burda™ / Against Crude Simplification™](./63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md)
-- **LXVIII** · [Soberanía Intelectual de la Especie™ / Intellectual Sovereignty of the Species™](./68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
-- **LXXIII** · [Maduración Invertida™ / Inverted Maturation™](./73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md)
-- [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md) · `C-NAX-15` · `C-NAX-16` · `C-NAX-21`
-- [Delta relacional / Relational delta](../propuestas/sintesis-abierta/2026-08-11_DELTA_HUMANIDAD_COMUN_MADURACION_INVERTIDA_TROL_BOT_MAL_SISTEMICO_ES_EN.md)
+> **Norma / Rule:** las menciones cruzadas pueden permanecer en el cuerpo como texto para no sobrecargar la lectura; este bloque concentra los hipervínculos canónicos detectados y permite retorno explícito a fuente. / Cross-references may remain as prose in the body to avoid visual overload; this block concentrates detected canonical hyperlinks and preserves explicit return to source.
+
+- **VII** · [Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy](./04_economia_del_aporte_ES_EN.md)
+- **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
+- **LV** · [Manifiesto del Ataque de las Micromáquinas™ · Las Plagas de la Escala Invisible / Manifesto of the Attack of the Micromachines™ · The Plagues of the Invisible Scale](./55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md)
+- **LXX** · [El Fauno™ · Masculinidad Fragmentada, Depredación Relacional y Retorno al Hombre / The Faun™ · Fragmented Masculinity, Relational Predation and Return to Manhood](./70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md)
+- **LXXIII** · [Maduración Invertida™ · Humanidad Común y Degradación Arquetípica Reversible / Inverted Maturation™ · Common Humanity and Reversible Archetypal Degradation](./73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md)
+- **∞** · [Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](./INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
+
+### Capas y fuentes relacionadas / Related layers and sources
+
+- [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
+- [NEOCore™ · marco / framework](../README.md)
+
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `C-NAX-21` → [Neoaxiomas™](../neoaxiomas/README.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->
