@@ -20,6 +20,7 @@ on:
       - '.github/scripts/normalize_manifesto_indices.py'
       - '.github/scripts/sync_root_navigation.py'
       - '.github/scripts/sync_manifesto_crossrefs.py'
+      - '.github/scripts/sync_relations_frontier.py'
       - '.github/scripts/audit_es_en_parity.py'
       - '.github/scripts/audit_markdown_links_readmes.py'
       - '.github/scripts/audit_manifesto_bilingual_structure.py'
@@ -51,6 +52,8 @@ jobs:
         run: python .github/scripts/normalize_manifesto_indices.py
       - name: Synchronize root navigation
         run: python .github/scripts/sync_root_navigation.py
+      - name: Synchronize relational frontier
+        run: python .github/scripts/sync_relations_frontier.py
       - name: Generate canonical manifesto representations
         run: python .github/scripts/sync_canonical_manifestos.py
       - name: Synchronize manifesto cross-references
