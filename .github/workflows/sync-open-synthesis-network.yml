@@ -17,6 +17,7 @@ on:
       - '.github/scripts/normalize_manifesto_bilingual_names.py'
       - '.github/scripts/normalize_internal_link_aliases.py'
       - '.github/scripts/sync_neoaxiom_candidates.py'
+      - '.github/scripts/sync_manifesto_frontier_headers.py'
       - '.github/scripts/sync_open_synthesis_manifestos.py'
       - '.github/scripts/sync_canonical_manifestos.py'
       - '.github/scripts/normalize_manifesto_indices.py'
@@ -54,6 +55,8 @@ jobs:
         run: python .github/scripts/register_manifestos_LXIII_LXVI.py
       - name: Synchronize Neoaxiomatic candidates
         run: python .github/scripts/sync_neoaxiom_candidates.py
+      - name: Synchronize manifesto frontier headers
+        run: python .github/scripts/sync_manifesto_frontier_headers.py
       - name: Synchronize Open Synthesis network
         run: python .github/scripts/sync_open_synthesis_manifestos.py
       - name: Normalize canonical indices
