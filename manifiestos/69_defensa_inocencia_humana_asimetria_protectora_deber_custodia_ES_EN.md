@@ -566,12 +566,26 @@ Este manifiesto debe leerse junto con LXX–LXXII y el delta relacional. Su form
 > **Norma / Rule:** las menciones cruzadas pueden permanecer en el cuerpo como texto para no sobrecargar la lectura; este bloque concentra los hipervínculos canónicos detectados y permite retorno explícito a fuente. / Cross-references may remain as prose in the body to avoid visual overload; this block concentrates detected canonical hyperlinks and preserves explicit return to source.
 
 - **II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md)
+- **XIV** · [Manifiesto contra la Alienación Humana™ / Manifesto Against Human Alienation™](./14_contra_alienacion_humana_ES_EN.md)
+- **XVI** · [Manifiesto de la Refragmentación Arquetípica™ / Manifesto of Archetypal Refragmentation™](./16_refragmentacion_arquetipica_ES_EN.md)
+- **XXV** · [Manifiesto del Pulido de la Piedra™ / Manifesto of the Polishing of the Stone™](./25_pulido_de_la_piedra_ES_EN.md)
+- **XXVI** · [Manifiesto de la Misericordia Universal Recíproca™ / Manifesto of Universal Reciprocal Mercy™](./26_misericordia_universal_reciproca_ES_EN.md)
+- **XXX** · [Manifiesto de la Coherencia entre Fines y Medios™ / Manifesto of Coherence between Ends and Means™](./30_coherencia_fines_medios_ES_EN.md)
+- **XXXVI** · [Corona, Águila y Custodia de la Edad del Hombre™ / Crown, Eagle and Custodianship of the Age of Man™](./36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)
+- **XXXVII** · [Neofraternidad™ / Neofraternity™](./37_neofraternidad_ES_EN.md)
 - **XXXVIII** · [Manifiesto de Protección Integral de la Infancia™ / Manifesto for the Integral Protection of Childhood™](./38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+- **XL** · [Respeto Neodialéctico, Neoego y Honor Relacional™ / Neodialectical Respect, Neoego and Relational Honour™](./40_respeto_neoego_honor_relacional_ES_EN.md)
 - **XLI** · [Martillo Limitado, Talión y Fuerza Protectora™ / Limited Hammer, Talion and Protective Force™](./41_martillo_limitado_talion_fuerza_protectora_ES_EN.md)
+- **XLII** · [Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva / End of the Manipulated Human Era™ · AI, Awakening and Cognitive Sovereignty](./42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
+- **XLVI** · [Cerrar la Herida™ · Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria / Closing the Wound™ · Evolutionary Understanding, Memory and Civilisational Reconciliation](./46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
+- **LII** · [Manifiesto de la Ciudadanía Humana Neodialéctica™ / Manifesto of Neodialectical Human Citizenship™](./52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md)
 - **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
+- **LVII** · [Madre, Refugio y Retorno Consciente™ / Mother, Refuge and Conscious Return™](./57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md)
+- **LVIII** · [Inteligencia Civilizatoria™ · Democracia Cognitiva y Deber de Síntesis / Civilisational Intelligence™ · Cognitive Democracy and Duty of Synthesis](./58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md)
 - **LXVIII** · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species](./68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
 - **LXX** · [El Fauno™ · Masculinidad Fragmentada, Depredación Relacional y Retorno al Hombre / The Faun™ · Fragmented Masculinity, Relational Predation and Return to Manhood](./70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md)
 - **LXXI** · [Libertad Sexual, Hipersexualización Industrial y Separación de Planos™ / Sexual Freedom, Industrial Hypersexualisation and Separation of Planes™](./71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md)
+- **LXXII** · [El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™ · Strength, Desire, Power and Responsibility](./72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md)
 - **∞** · [Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](./INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
