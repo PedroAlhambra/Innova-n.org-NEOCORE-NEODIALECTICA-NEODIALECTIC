@@ -1,6 +1,6 @@
 name: sync-open-synthesis-network
 
-# Current live frontier: I–LXXII + ∞ · C-NAX-15–C-NAX-19 candidates
+# Current live frontier: I–LXXIV + ∞ · C-NAX-15–C-NAX-21 candidates
 on:
   workflow_dispatch:
   push:
@@ -12,6 +12,7 @@ on:
       - 'propuestas/sintesis-abierta/README.md'
       - 'propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md'
       - '.github/workflows/sync-open-synthesis-network.yml'
+      - '.github/scripts/oneshot_integrate_LXXIII_LXXIV_cnax20_21_v2.py'
       - '.github/scripts/register_manifestos_LXIII_LXVI.py'
       - '.github/scripts/sync_open_synthesis_manifestos.py'
       - '.github/scripts/sync_canonical_manifestos.py'
@@ -33,39 +34,36 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Register recent manifestos in canonical catalogue
+      - name: Integrate current LXXIII-LXXIV and C-NAX-20-21 frontier
+        run: python .github/scripts/oneshot_integrate_LXXIII_LXXIV_cnax20_21_v2.py
+      - name: Register historical recent manifestos safely
         run: python .github/scripts/register_manifestos_LXIII_LXVI.py
       - name: Synchronize Open Synthesis network
         run: python .github/scripts/sync_open_synthesis_manifestos.py
-      - name: Complete Neoaxiom candidate index
+      - name: Validate full Neoaxiom candidate frontier
         shell: bash
         run: |
           python - <<'PY'
           from pathlib import Path
           p=Path('propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md')
           s=p.read_text(encoding='utf-8')
-          s=s.replace('**72 manifiestos finitos I–LXXII + Manifiesto ∞ · 14 Neoaxiomas™ · síntesis transversales, auditorías y proyectos de sistema**', '**72 manifiestos finitos I–LXXII + Manifiesto ∞ · 14 Neoaxiomas™ canónicos + 5 candidatos C-NAX-15–C-NAX-19 · síntesis transversales, auditorías y proyectos de sistema**')
-          marker='| **C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ · candidato** | [#123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123) |'
-          rows='''| **C-NAX-15 · Soberanía Intelectual de la Especie™ · candidato** | [matriz #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) · [LXVIII #114](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/114) |
-| **C-NAX-16 · No Coronación de la Parte™ · candidato** | [matriz #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) · [∞ #106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106) |
-| **C-NAX-17 · Reconstrucción Sistémica™ · candidato** | [matriz #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) · [LXVII #112](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/112) |
-| **C-NAX-18 · Motor del Bien Común + NeoSinergia™ · candidato** | [matriz #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) · [LXVI #110](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/110) · [LXVII #112](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/112) |
-'''
-          if 'C-NAX-15 · Soberanía Intelectual de la Especie™ · candidato' not in s:
-              if marker not in s:
-                  raise SystemExit('C-NAX-19 marker missing from complete SAN index')
-              s=s.replace(marker,rows+marker)
-          for n in range(15,20):
+          for n in range(15,22):
               if f'C-NAX-{n}' not in s:
                   raise SystemExit(f'C-NAX-{n} missing from complete SAN index')
-          p.write_text(s,encoding='utf-8')
-          print('CANDIDATE_INDEX_15_19=OK')
+          if '74 manifiestos finitos I–LXXIV' not in s or '74 finite manifestos I–LXXIV' not in s:
+              raise SystemExit('Living manifesto frontier is not I-LXXIV in complete SAN index')
+          print('CANDIDATE_INDEX_15_21=OK')
+          print('MANIFESTO_FRONTIER_I_LXXIV=OK')
           PY
       - name: Normalize canonical indices
         run: python .github/scripts/normalize_manifesto_indices.py
       - name: Synchronize root navigation
         run: python .github/scripts/sync_root_navigation.py
       - name: Generate canonical manifesto representations
+        run: python .github/scripts/sync_canonical_manifestos.py
+      - name: Synchronize manifesto cross-references
+        run: python .github/scripts/sync_manifesto_crossrefs.py
+      - name: Regenerate canonical representations after cross-reference sync
         run: python .github/scripts/sync_canonical_manifestos.py
       - name: Audit generated documentary graph
         run: python .github/scripts/audit_markdown_links_readmes.py
@@ -77,6 +75,8 @@ jobs:
           text=p.read_text(encoding='utf-8')
           if '**Estado / Status:** **OK**' not in text:
               raise SystemExit('Generated documentary graph is not healthy; publish aborted.')
+          if 'Último manifiesto / Síntesis: **LXXIV / #125**' not in text and 'Latest manifesto / synthesis: **LXXIV / #125**' not in text:
+              raise SystemExit('Postcheck did not resolve LXXIV/#125 as current frontier')
           print('DOCUMENTARY_GRAPH=OK')
           PY
       - name: Commit synchronized network if needed
