@@ -5,6 +5,8 @@ ROOT = Path('.')
 MAN = ROOT / 'manifiestos'
 START = '<!-- NEO_CROSS_REFERENCES_START -->'
 END = '<!-- NEO_CROSS_REFERENCES_END -->'
+LEGACY_START = '<!-- NEO_CANONICAL_CROSSREFS_START -->'
+LEGACY_END = '<!-- NEO_CANONICAL_CROSSREFS_END -->'
 
 
 def roman_to_int(s):
@@ -23,7 +25,11 @@ def roman_to_int(s):
 
 
 def strip_generated(text):
-    return re.sub(re.escape(START) + r'.*?' + re.escape(END) + r'\s*', '', text, flags=re.S)
+    text = re.sub(re.escape(START) + r'.*?' + re.escape(END) + r'\s*', '', text, flags=re.S)
+    # Retira el bloque transitorio usado al abrir LXIX–LXXII. La capa normativa
+    # única sigue siendo NEO_CROSS_REFERENCES para evitar dobles navegadores.
+    text = re.sub(re.escape(LEGACY_START) + r'.*?' + re.escape(LEGACY_END) + r'\s*', '', text, flags=re.S)
+    return text
 
 
 def first_titles(text):
@@ -37,7 +43,7 @@ def first_titles(text):
 
 
 def display_title(es, en):
-    a=es.strip(); b=en.strip()
+    a = es.strip(); b = en.strip()
     if not b or a.casefold() == b.casefold():
         return a
     if b.casefold() in a.casefold() or a.casefold() in b.casefold():
@@ -77,7 +83,7 @@ ALIASES = {
     'Idolatría del Dinero': 'XXIX', 'Idolatry of Money': 'XXIX',
     'Honor Relacional': 'XL', 'Relational Honor': 'XL', 'Neowar': 'XLIV',
     'Multidimensionalidad Neodialéctica': 'XLV', 'Neodialectical Multidimensionality': 'XLV',
-    'Cerrar la Herida': 'XLVI', 'Close the Wound': 'XLVI',
+    'Cerrar la Herida': 'XLVI', 'Close the Wound': 'XLVI', 'Closing the Wound': 'XLVI',
     'La Síntesis Todo lo Ve': 'XLVIII', 'Synthesis Sees Everything': 'XLVIII',
     'Leónidas': 'LIII', 'Leonidas': 'LIII', 'NO-CONTROL': 'LVI',
     'Inteligencia Civilizatoria': 'LVIII', 'Civilisational Intelligence': 'LVIII',
@@ -91,13 +97,27 @@ ALIASES = {
     'MÉDICI': 'LXVI', 'MEDICI': 'LXVI',
     'NeoGalaxia': 'LXVI', 'NeoGalaxy': 'LXVI',
     'pensamiento de Andrómeda': 'LXVI', 'thought from Andromeda': 'LXVI',
+    'NeoTitanes': 'LXVII', 'NeoTitans': 'LXVII',
+    'Soberanía Intelectual de la Especie': 'LXVIII', 'Intellectual Sovereignty of the Species': 'LXVIII',
+    'Defensa de la Inocencia Humana': 'LXIX', 'Defence of Human Innocence': 'LXIX',
+    'Fauno': 'LXX', 'Faun': 'LXX',
+    'Separación de Planos': 'LXXI', 'Separation of Planes': 'LXXI',
+    'Hipersexualización Industrial': 'LXXI', 'Industrial Hypersexualisation': 'LXXI',
+    'Hombre Custodio': 'LXXII', 'Custodian Man': 'LXXII',
 }
 
 SPECIAL_DOCS = [
     (re.compile(r'\bIDEA\b'), 'IDEA · obra / work', '../obras/idea/README.md'),
-    (re.compile(r'\b(?:Neoaxiomas?|Neoaxioms?|NAX-\d{2})\b', re.I), 'Neoaxiomas™ / Neoaxioms™', '../neoaxiomas/README.md'),
+    (re.compile(r'\b(?:Neoaxiomas?|Neoaxioms?|(?:C-)?NAX-\d{2})\b', re.I), 'Neoaxiomas™ / Neoaxioms™', '../neoaxiomas/README.md'),
     (re.compile(r'\bNEOCore™?\b', re.I), 'NEOCore™ · marco / framework', '../README.md'),
 ]
+
+DEDICATED_SYNTHESIS = {
+    'LXIX': 119,
+    'LXX': 120,
+    'LXXI': 121,
+    'LXXII': 122,
+}
 
 
 def detect_refs(text, own_ord):
@@ -118,6 +138,13 @@ def detect_refs(text, own_ord):
         if ord_ != own_ord and alias.casefold() in low and ord_ in catalog:
             refs.add(ord_)
     return refs
+
+
+def neoaxiom_ids(text):
+    found = set(m.upper() for m in re.findall(r'\b(?:C-)?NAX-\d{2}\b', text, re.I))
+    def key(s):
+        return (1 if s.startswith('C-') else 0, int(re.search(r'\d+', s).group()))
+    return sorted(found, key=key)
 
 
 def block_for(text, own_ord):
@@ -148,9 +175,18 @@ def block_for(text, own_ord):
                 lines.append(f'- [{label}]({href})')
                 seen.add(href)
 
-    naxes = sorted(set(re.findall(r'\bNAX-(\d{2})\b', text, re.I)), key=int)
+    naxes = neoaxiom_ids(text)
     if naxes:
-        lines += ['', '**Neoaxiomas mencionados / Mentioned Neoaxioms:** ' + ' · '.join(f'`NAX-{n}`' for n in naxes) + ' → [Neoaxiomas™](../neoaxiomas/README.md)']
+        lines += ['', '**Neoaxiomas mencionados / Mentioned Neoaxioms:** ' + ' · '.join(f'`{n}`' for n in naxes) + ' → [Neoaxiomas™](../neoaxiomas/README.md)']
+
+    issue = DEDICATED_SYNTHESIS.get(own_ord)
+    if issue:
+        lines += [
+            '', '### Síntesis y delta / Synthesis and delta', '',
+            f'- [Síntesis Abierta {own_ord} / Open Synthesis {own_ord} · #{issue}](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/{issue})',
+            '- [C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™ · #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123)',
+            '- [Delta relacional íntegro / Full relational delta](../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md)',
+        ]
 
     lines += ['', END, '']
     return '\n'.join(lines)
