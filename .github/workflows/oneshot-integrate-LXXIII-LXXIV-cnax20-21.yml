@@ -1,5 +1,6 @@
 name: one-shot final postcheck LXXIII LXXIV C-NAX-20 C-NAX-21
 
+# trigger after infinity parity repair
 on:
   push:
     branches: [main]
