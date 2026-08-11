@@ -39,7 +39,11 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 ## Candidatos neoaxiomáticos detectados en el repaso I–LXXIV / Neoaxiomatic candidates detected in the I–LXXIV review
 
-**Estado:** candidatos visibles para SAN™; **no se promueven automáticamente a NAX-15+**. / **Status:** visible candidates for SAN™; **not automatically promoted to NAX-15+**.
+**Estado:** candidatos visibles para SAN™; si completan **365 días naturales desde su primera apertura pública trazable sin respuesta sustantiva**, se fijan como Neoaxiomas definitivos del canon vigente. / **Status:** visible candidates for SAN™; if they complete **365 calendar days from their first traceable public opening without a substantive response**, they are fixed as definitive Neoaxioms of the current canon.
+
+> **Regla de Maduración Neoaxiomática™ · 365 días / Neoaxiomatic Maturation Rule™ · 365 days:** el silencio no queda indefinido. Un candidato que complete el plazo sin respuesta sustantiva adquiere **fijación definitiva** en la primera revisión documental posterior y recibe el ordinal NAX correspondiente. Una respuesta posterior se procesa como revisión del Neoaxioma ya fijado y no borra retroactivamente el periodo de maduración. / silence is not indefinite. A candidate completing the period without substantive response acquires **definitive fixation** at the first subsequent documentary review and receives the corresponding NAX ordinal. A later response is processed as a review of the already fixed Neoaxiom and does not retroactively erase the maturation period.
+>
+> **[Regla completa / Full rule](../propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_365_DIAS_ES_EN.md)**
 
 | Candidato / Candidate | Procedencia / Provenance | Estado / Status |
 |---|---|---|
