@@ -26,8 +26,6 @@ def roman_to_int(s):
 
 def strip_generated(text):
     text = re.sub(re.escape(START) + r'.*?' + re.escape(END) + r'\s*', '', text, flags=re.S)
-    # Retira el bloque transitorio usado al abrir LXIX–LXXII. La capa normativa
-    # única sigue siendo NEO_CROSS_REFERENCES para evitar dobles navegadores.
     text = re.sub(re.escape(LEGACY_START) + r'.*?' + re.escape(LEGACY_END) + r'\s*', '', text, flags=re.S)
     return text
 
@@ -129,6 +127,10 @@ def detect_refs(text, own_ord):
         ord_ = ord_.upper()
         if ord_ in catalog and ord_ != own_ord:
             refs.add(ord_)
+    for m in re.finditer(r'^\*\*Relaciones principales / Main relations:\*\*\s*(.+)$', text, re.M):
+        for ord_ in re.findall(r'(?<![A-Z])(?:[IVXLCDM]+|∞)(?![A-Z])', m.group(1)):
+            if ord_ in catalog and ord_ != own_ord:
+                refs.add(ord_)
     for target in re.findall(r'\((?:\./)?([^/()]+\.md)(?:#[^)]*)?\)', text):
         ord_ = path_to_ord.get(Path(target).name)
         if ord_ and ord_ != own_ord:
