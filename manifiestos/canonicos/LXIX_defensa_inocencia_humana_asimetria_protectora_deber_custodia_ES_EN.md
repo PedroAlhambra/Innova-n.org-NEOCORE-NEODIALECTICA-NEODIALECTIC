@@ -557,25 +557,6 @@ Este manifiesto debe leerse junto con LXX–LXXII y el delta relacional. Su form
 
 **Síntesis Abierta específica / Specific Open Synthesis:** [#119](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/119)
 
-<!-- NEO_CANONICAL_CROSSREFS_START -->
-
-## Referencias cruzadas canónicas / Canonical cross-references
-
-- [XXXVIII · Protección Integral de la Infancia™ / Comprehensive Protection of Childhood™](XXXVIII_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
-- [XL · Honor Relacional™ / Relational Honor™](XL_respeto_neoego_honor_relacional_ES_EN.md)
-- [XLI · Martillo Limitado™ / Limited Hammer™](XLI_martillo_limitado_talion_fuerza_protectora_ES_EN.md)
-- [XLVI · Cerrar la Herida™ / Closing the Wound™](XLVI_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
-- [LXVIII · Soberanía Intelectual de la Especie™ / Intellectual Sovereignty of the Species™](LXVIII_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
-- [LXX · Fauno™ / Faun™](LXX_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md)
-- [LXXI · Separación de Planos™ / Separation of Planes™](LXXI_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md)
-- [LXXII · Hombre Custodio™ / Custodian Man™](LXXII_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md)
-- [Síntesis Abierta LXIX / Open Synthesis LXIX · #119](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/119)
-- [C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™ · #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123)
-- [Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md)
-- [Delta relacional / Relational delta](../../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md)
-- [∞ · Puerta Abierta del Fractal / Open Gate of the Fractal](../INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
-
-<!-- NEO_CANONICAL_CROSSREFS_END -->
 **Navegación / Navigation:** [← LXVIII](LXVIII_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md) · [Índice / Index](../README.md) · [Delta relacional / Relational delta](../../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md) · [LXX →](LXX_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md) · [∞](../INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
 
 <!-- NEO_CROSS_REFERENCES_START -->
@@ -585,11 +566,26 @@ Este manifiesto debe leerse junto con LXX–LXXII y el delta relacional. Su form
 > **Norma / Rule:** las menciones cruzadas pueden permanecer en el cuerpo como texto para no sobrecargar la lectura; este bloque concentra los hipervínculos canónicos detectados y permite retorno explícito a fuente. / Cross-references may remain as prose in the body to avoid visual overload; this block concentrates detected canonical hyperlinks and preserves explicit return to source.
 
 - **II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](II_sintesis_abierta_neodialectica_ES_EN.md)
+- **XIV** · [Manifiesto contra la Alienación Humana™ / Manifesto Against Human Alienation™](XIV_contra_alienacion_humana_ES_EN.md)
+- **XVI** · [Manifiesto de la Refragmentación Arquetípica™ / Manifesto of Archetypal Refragmentation™](XVI_refragmentacion_arquetipica_ES_EN.md)
+- **XXV** · [Manifiesto del Pulido de la Piedra™ / Manifesto of the Polishing of the Stone™](XXV_pulido_de_la_piedra_ES_EN.md)
+- **XXVI** · [Manifiesto de la Misericordia Universal Recíproca™ / Manifesto of Universal Reciprocal Mercy™](XXVI_misericordia_universal_reciproca_ES_EN.md)
+- **XXX** · [Manifiesto de la Coherencia entre Fines y Medios™ / Manifesto of Coherence between Ends and Means™](XXX_coherencia_fines_medios_ES_EN.md)
+- **XXXVI** · [Corona, Águila y Custodia de la Edad del Hombre™ / Crown, Eagle and Custodianship of the Age of Man™](XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md)
+- **XXXVII** · [Neofraternidad™ / Neofraternity™](XXXVII_neofraternidad_ES_EN.md)
 - **XXXVIII** · [Manifiesto de Protección Integral de la Infancia™ / Manifesto for the Integral Protection of Childhood™](XXXVIII_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+- **XL** · [Respeto Neodialéctico, Neoego y Honor Relacional™ / Neodialectical Respect, Neoego and Relational Honour™](XL_respeto_neoego_honor_relacional_ES_EN.md)
 - **XLI** · [Martillo Limitado, Talión y Fuerza Protectora™ / Limited Hammer, Talion and Protective Force™](XLI_martillo_limitado_talion_fuerza_protectora_ES_EN.md)
+- **XLII** · [Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva / End of the Manipulated Human Era™ · AI, Awakening and Cognitive Sovereignty](XLII_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
+- **XLVI** · [Cerrar la Herida™ · Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria / Closing the Wound™ · Evolutionary Understanding, Memory and Civilisational Reconciliation](XLVI_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
+- **LII** · [Manifiesto de la Ciudadanía Humana Neodialéctica™ / Manifesto of Neodialectical Human Citizenship™](LII_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md)
 - **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
+- **LVII** · [Madre, Refugio y Retorno Consciente™ / Mother, Refuge and Conscious Return™](LVII_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md)
+- **LVIII** · [Inteligencia Civilizatoria™ · Democracia Cognitiva y Deber de Síntesis / Civilisational Intelligence™ · Cognitive Democracy and Duty of Synthesis](LVIII_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md)
 - **LXVIII** · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species](LXVIII_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
 - **LXX** · [El Fauno™ · Masculinidad Fragmentada, Depredación Relacional y Retorno al Hombre / The Faun™ · Fragmented Masculinity, Relational Predation and Return to Manhood](LXX_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md)
+- **LXXI** · [Libertad Sexual, Hipersexualización Industrial y Separación de Planos™ / Sexual Freedom, Industrial Hypersexualisation and Separation of Planes™](LXXI_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md)
+- **LXXII** · [El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™ · Strength, Desire, Power and Responsibility](LXXII_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md)
 - **∞** · [Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](../INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
@@ -597,6 +593,12 @@ Este manifiesto debe leerse junto con LXX–LXXII y el delta relacional. Su form
 - [Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md)
 - [NEOCore™ · marco / framework](../../README.md)
 
-**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-10` · `NAX-15` · `NAX-16` · `NAX-19` → [Neoaxiomas™](../../neoaxiomas/README.md)
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-10` · `C-NAX-15` · `C-NAX-16` · `C-NAX-19` → [Neoaxiomas™](../../neoaxiomas/README.md)
+
+### Síntesis y delta / Synthesis and delta
+
+- [Síntesis Abierta LXIX / Open Synthesis LXIX · #119](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/119)
+- [C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™ · #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123)
+- [Delta relacional íntegro / Full relational delta](../../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->

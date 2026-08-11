@@ -84,9 +84,9 @@ Cada Neoaxioma dispone de un espacio de contraste propio además de la matriz ge
 
 > ## 🔴 ÚLTIMO MANIFIESTO FINITO ABIERTO A SÍNTESIS / LATEST FINITE MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LXVIII · Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™**
+> **LXXII · El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™**
 >
-> **[Leer LXVIII / Read LXVIII](../../manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md) · [Síntesis LXVIII · #114 / Synthesis LXVIII · #114](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/114)**
+> **[Leer LXXII / Read LXXII](../../manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) · [Síntesis LXXII · #122 / Synthesis LXXII · #122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122)**
 
 > ## ∞ · PUERTA ABIERTA PERMANENTE / PERMANENT OPEN DOOR
 >
