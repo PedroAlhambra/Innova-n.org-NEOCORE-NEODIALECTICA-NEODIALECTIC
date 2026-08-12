@@ -5,10 +5,13 @@ ROOT = Path('.').resolve()
 REPORT = ROOT / 'auditorias' / 'publicas' / '2026-08-12_auditoria_global_simetria_ES_EN.md'
 
 # Historical material is preserved as evidence and never rewritten by a live-state audit.
+# Canonical manifesto mirrors are validated independently against their source and are not
+# double-counted here.
 EXCLUDED_PARTS = {'.git', 'wiki-legacy-archive'}
 EXCLUDED_PREFIXES = (
     '.github/scripts/',
     '.github/workflows/',
+    'manifiestos/canonicos/',
 )
 
 ES_PATTERNS = [
@@ -28,6 +31,7 @@ SHARED_TAIL_MARKERS = [
     '<!-- MANIFESTOS_CURRENT_START -->',
     '<!-- NEO_LATEST_MANIFESTO_START -->',
     '<!-- NEO_CROSS_REFERENCES_START -->',
+    '<!-- NEO_RELATIONAL_FOOTER_START -->',
 ]
 
 LANG_TAIL_HEADINGS = [
@@ -49,11 +53,24 @@ def strip_generated_tail(s):
     for pat in LANG_TAIL_HEADINGS:
         m=re.search(pat,s,re.M)
         if m: positions.append(m.start())
+    # A bilingual heading after the EN body normally begins a shared tail, e.g.
+    # "## Trazabilidad / Traceability". It belongs to neither language half.
+    m=re.search(r'^#{2,6}\s+[^\n]+\s+/\s+[^\n]+\s*$',s,re.M)
+    if m: positions.append(m.start())
     return s[:min(positions)] if positions else s
 
 
+def without_fenced_code(s):
+    return re.sub(r'```.*?```','\n',s,flags=re.S)
+
+
+def without_comments(s):
+    return re.sub(r'<!--.*?-->','\n',s,flags=re.S)
+
+
 def clean_for_words(s):
-    s=re.sub(r'```.*?```',' ',s,flags=re.S)
+    s=without_fenced_code(s)
+    s=without_comments(s)
     s=re.sub(r'https?://\S+',' ',s)
     s=re.sub(r'[`*_>#|\[\](){}]',' ',s)
     return s
@@ -65,7 +82,7 @@ def word_count(s):
 
 def headings(s):
     out=[]
-    for m in re.finditer(r'^(#{2,6})\s+(.+?)\s*$',s,re.M):
+    for m in re.finditer(r'^(#{2,6})\s+(.+?)\s*$',without_comments(s),re.M):
         level=len(m.group(1)); title=m.group(2).strip()
         ident=''
         mm=re.match(r'^((?:\d+)|(?:[IVXLCDM]+))\.\s+',title)
@@ -79,23 +96,26 @@ def structural_heading_signature(s):
 
 
 def sections_by_heading(s):
-    hs=list(re.finditer(r'^(#{2,6})\s+(.+?)\s*$',s,re.M))
+    cleaned=without_comments(s)
+    hs=list(re.finditer(r'^(#{2,6})\s+(.+?)\s*$',cleaned,re.M))
     out=[]
     for i,m in enumerate(hs):
-        start=m.end(); end=hs[i+1].start() if i+1<len(hs) else len(s)
+        start=m.end(); end=hs[i+1].start() if i+1<len(hs) else len(cleaned)
         title=m.group(2).strip()
         ident=''
         mm=re.match(r'^((?:\d+)|(?:[IVXLCDM]+))\.\s+',title)
         if mm: ident=mm.group(1)
-        out.append((len(m.group(1)),ident,title,s[start:end]))
+        out.append((len(m.group(1)),ident,title,cleaned[start:end]))
     return out
 
 
 def count_lists(s):
+    s=without_fenced_code(s)
     return len(re.findall(r'^\s*(?:[-*+]\s+|\d+\.\s+)',s,re.M))
 
 
 def count_quotes(s):
+    s=without_fenced_code(s)
     return len(re.findall(r'^>\s+\S',s,re.M))
 
 
@@ -104,6 +124,7 @@ def count_code(s):
 
 
 def count_table_rows(s):
+    s=without_fenced_code(s)
     n=0
     for line in s.splitlines():
         x=line.strip()
@@ -114,13 +135,14 @@ def count_table_rows(s):
 
 
 def count_paragraphs(s):
-    # Ignore fenced code and generated navigation. Lists are blocks in their own right.
-    s=re.sub(r'```.*?```','\n',s,flags=re.S)
+    s=without_fenced_code(without_comments(s))
+    # Remove list/table blocks: those are compared independently and should not inflate prose.
+    s=re.sub(r'(?m)^\s*(?:[-*+]\s+|\d+\.\s+).*$','',s)
+    s=re.sub(r'(?m)^\s*\|.*\|\s*$','',s)
     blocks=[]
     for part in re.split(r'\n\s*\n',s):
         p=part.strip()
-        if not p: continue
-        if p.startswith('#'): continue
+        if not p or p.startswith('#'): continue
         blocks.append(p)
     return len(blocks)
 
@@ -148,6 +170,7 @@ def audit_split(rel,es,en):
     problems=[]
     ewc=word_count(es); nwc=word_count(en)
     ratio=(nwc/ewc if ewc else 1.0)
+    # Translation is not word-for-word, but large volume divergence is a compression alarm.
     if ewc >= 80 and not (0.82 <= ratio <= 1.35):
         problems.append(f'volumen EN/ES={ratio:.2f} ({nwc}/{ewc})')
     es_sig=structural_heading_signature(es); en_sig=structural_heading_signature(en)
@@ -155,42 +178,35 @@ def audit_split(rel,es,en):
         problems.append(f'esqueleto de encabezados distinto ES={es_sig} EN={en_sig}')
     a=sections_by_heading(es); b=sections_by_heading(en)
     if len(a)==len(b):
-        for i,(sa,sb) in enumerate(zip(a,b),1):
+        for sa,sb in zip(a,b):
             ash=section_shape(sa[3]); bsh=section_shape(sb[3])
-            # No compression: presentation-bearing structures must be mirrored exactly.
+            ident=sa[1] or sa[2]
+            # Strict symmetry: lists, quotes, formulas and tables must be mirrored exactly.
             for key in ('lists','quotes','code','tables'):
                 if ash[key] != bsh[key]:
-                    ident=sa[1] or sa[2]
                     problems.append(f'{ident}: {key} ES={ash[key]} EN={bsh[key]}')
-            # Paragraph count may differ by one because English and Spanish punctuation can
-            # legitimately segment prose differently; larger differences indicate compression.
+            # Paragraph segmentation may vary by one for language grammar; larger differences
+            # are treated as compression until manually reviewed.
             if abs(ash['paragraphs']-bsh['paragraphs']) > 1:
-                ident=sa[1] or sa[2]
-                problems.append(f'{ident}: bloques ES={ash["paragraphs"]} EN={bsh["paragraphs"]}')
+                problems.append(f'{ident}: párrafos ES={ash["paragraphs"]} EN={bsh["paragraphs"]}')
     return problems,ewc,nwc,ratio
 
 
 def bilingual_filename(p):
-    return '_ES_EN' in p.name or p.name in {'README.md','LEEME.md'}
+    return '_ES_EN' in p.name or p.name in {'README.md','LEEME.md','COVER.md','PORTADA.md'}
 
 
 def paired_heading_issues(text):
     # Interleaved bilingual documents may express both languages on one heading or as
-    # consecutive headings of equal level. This is a structural signal, not semantic MT.
-    hs=[(len(m.group(1)),m.group(2).strip()) for m in re.finditer(r'^(#{1,6})\s+(.+?)\s*$',text,re.M)]
+    # consecutive headings of equal level. Flag lone headings for editorial review.
+    hs=[(len(m.group(1)),m.group(2).strip()) for m in re.finditer(r'^(#{1,6})\s+(.+?)\s*$',without_comments(text),re.M)]
     bad=[]; i=0
     while i < len(hs):
         lvl,title=hs[i]
-        low=title.lower()
-        if any(x in low for x in ('http://','https://')):
-            i+=1; continue
-        bilingual = ' / ' in title or ' · ' in title and any(tok in title for tok in ('ES','EN'))
-        if bilingual:
+        if ' / ' in title:
             i+=1; continue
         if i+1 < len(hs) and hs[i+1][0]==lvl:
-            # Consecutive title pairs are accepted; semantic translation is manually audited.
             i+=2; continue
-        # Numbered NAX/manifest headings inside a split body are handled elsewhere.
         if re.match(r'^(?:NAX-|C-NAX-|[IVXLCDM]+\s*·|\d+\.)',title):
             i+=1; continue
         bad.append(title)
@@ -219,12 +235,12 @@ for p in sorted(ROOT.rglob('*.md')):
     elif bilingual_filename(p):
         bad=paired_heading_issues(text)
         if bad:
-            paired_review.append((rel,bad[:12]))
-            rows.append((rel,'REVISAR-PAREADO','encabezados potencialmente monolingües: '+ ' | '.join(bad[:12])))
+            paired_review.append((rel,bad[:20]))
+            rows.append((rel,'REVISAR-PAREADO','encabezados potencialmente monolingües: '+ ' | '.join(bad[:20])))
         else:
             rows.append((rel,'PAREADO','sin marcador dividido; estructura pareada aceptada'))
 
-# YAML issue templates are public response surfaces too. Require explicit ES/EN in visible form strings.
+# GitHub Issue templates are public response surfaces too. Check visible name/description/label.
 yaml_review=[]
 for p in sorted((ROOT/'.github'/'ISSUE_TEMPLATE').glob('*.y*ml')):
     text=p.read_text(encoding='utf-8',errors='replace')
@@ -232,14 +248,15 @@ for p in sorted((ROOT/'.github'/'ISSUE_TEMPLATE').glob('*.y*ml')):
     for m in re.finditer(r'^\s*(name|description|label):\s*["\']?(.+?)["\']?\s*$',text,re.M):
         val=m.group(2).strip()
         if len(val)<3 or val.startswith('http'): continue
-        if '/' not in val and ' / ' not in val and 'ES' not in val and 'EN' not in val:
-            misses.append(f'{m.group(1)}={val[:70]}')
-    if misses: yaml_review.append((p.relative_to(ROOT).as_posix(),misses[:12]))
+        if ' / ' not in val and not ('ES' in val and 'EN' in val):
+            misses.append(f'{m.group(1)}={val[:90]}')
+    if misses: yaml_review.append((p.relative_to(ROOT).as_posix(),misses[:20]))
 
 lines=[
 '# Auditoría global de simetría ES/EN / Global ES/EN symmetry audit','',
 '**Fecha / Date:** 2026-08-12  ',
 '**Regla / Rule:** **NO COMPRESIÓN / NO COMPRESSION.** Toda superficie editorial bilingüe debe conservar contenido y estructura: títulos, secciones, listas, citas, fórmulas, tablas, cautelas, ejemplos, navegación y llamadas a Síntesis. / Every bilingual editorial surface must preserve content and structure: titles, sections, lists, quotations, formulas, tables, safeguards, examples, navigation and Synthesis calls.','',
+'> Los espejos `manifiestos/canonicos/` no se duplican en este recuento: su igualdad con la fuente se valida mediante la auditoría estructural canónica. / `manifiestos/canonicos/` mirrors are not double-counted here: equality with their source is validated by the canonical structural audit.','',
 '## Resumen / Summary','',
 f'- Markdown activo examinado / Active Markdown scanned: **{len(active_md)}**.',
 f'- Documentos con secciones ES/EN divididas / Split ES/EN documents: **{sum(1 for _,s,_ in rows if s in ("OK","REVISAR","MARCADORES"))}**.',
