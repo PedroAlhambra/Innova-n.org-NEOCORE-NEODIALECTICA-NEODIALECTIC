@@ -9,23 +9,19 @@
 
 - Markdown activo examinado / Active Markdown scanned: **284**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **205**.
-- Fallos estructurales divididos / Split structural failures: **139**.
+- Fallos estructurales divididos / Split structural failures: **126**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **23**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
 
-- `COVER.md` · ES=1112 · EN=1055 · ratio=0.95
-  - Accesos principales: lists ES=19 EN=17
+- `COVER.md` · ES=1112 · EN=1099 · ratio=0.99
   - Deltas transversales recientes: párrafos ES=1 EN=2
 - `LEEME.md` · ES=4254 · EN=3262 · ratio=0.77
   - volumen EN/ES=0.77 (3262/4254)
   - esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')]
-- `PORTADA.md` · ES=1520 · EN=1440 · ratio=0.95
-  - Los manifiestos como pilares: lists ES=6 EN=0
-  - Novena oleada · Autoconciencia, respeto y defensa civilizatoria: lists ES=4 EN=3
-  - Décima oleada · Fin de la Era del Hombre Manipulado™: lists ES=7 EN=5
+- `PORTADA.md` · ES=1520 · EN=1495 · ratio=0.98
   - Límite de la capa pública: párrafos ES=2 EN=3
 - `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · ES=3046 · EN=2684 · ratio=0.88
   - **Patrón institucional observado**: párrafos ES=45 EN=47
@@ -206,132 +202,23 @@
 - `auditorias/publicas/README.md` · ES=691 · EN=79 · ratio=0.11
   - volumen EN/ES=0.11 (79/691)
   - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, ''), (2, ''), (2, ''), (2, '')] EN=[]
-- `manifiestos/28_los_tesla_ES_EN.md` · ES=697 · EN=724 · ratio=1.04
-  - II: párrafos ES=2 EN=3
-  - III: párrafos ES=3 EN=2
-- `manifiestos/29_idolatria_del_dinero_ES_EN.md` · ES=819 · EN=900 · ratio=1.10
-  - III: párrafos ES=0 EN=3
-- `manifiestos/30_coherencia_fines_medios_ES_EN.md` · ES=725 · EN=696 · ratio=0.96
-  - III: párrafos ES=1 EN=2
-- `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` · ES=1679 · EN=1607 · ratio=0.96
-  - II: párrafos ES=4 EN=3
-  - III: párrafos ES=4 EN=3
-- `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · ES=1606 · EN=1602 · ratio=1.00
-  - esqueleto de encabezados distinto ES=[(2, ''), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (3, '1'), (3, '2'), (3, '3'), (3, '4'), (3, '5'), (3, '6'), (3, '7'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV')] EN=[(2, ''), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV')]
-- `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · ES=1961 · EN=1956 · ratio=1.00
-  - I: lists ES=9 EN=0
-  - I: párrafos ES=4 EN=3
-  - II: párrafos ES=3 EN=5
-  - IV: lists ES=6 EN=0
-  - V: párrafos ES=5 EN=4
-  - VI: párrafos ES=3 EN=4
-  - VII: párrafos ES=4 EN=5
-  - VIII: párrafos ES=5 EN=4
-  - X: lists ES=10 EN=0
-  - X: párrafos ES=4 EN=3
-  - XI: lists ES=6 EN=0
-  - XI: párrafos ES=4 EN=2
-  - XII: lists ES=8 EN=0
-  - XII: párrafos ES=5 EN=2
-  - XIII: quotes ES=8 EN=0
-  - XIII: párrafos ES=5 EN=2
-  - XV: lists ES=21 EN=5
-- `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` · ES=1822 · EN=1801 · ratio=0.99
-  - III bis. El León: lists ES=6 EN=0
-  - Bandera de España en Síntesis™ · propuesta abierta: lists ES=10 EN=0
-  - XII: párrafos ES=5 EN=6
-- `manifiestos/37_neofraternidad_ES_EN.md` · ES=1047 · EN=1057 · ratio=1.01
-  - XV: párrafos ES=4 EN=3
-- `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · ES=2431 · EN=2222 · ratio=0.91
-  - III: lists ES=14 EN=0
-  - IV: lists ES=11 EN=0
-  - IV: párrafos ES=5 EN=4
-  - V: lists ES=14 EN=0
-  - VI: lists ES=8 EN=0
-  - IX: lists ES=11 EN=0
-  - IX: párrafos ES=5 EN=4
-  - X: lists ES=16 EN=0
-  - XI: lists ES=10 EN=0
-  - XII: lists ES=12 EN=0
-  - XIII: lists ES=12 EN=0
-  - XIV: lists ES=8 EN=0
-  - XV: lists ES=9 EN=0
-  - XVI: lists ES=7 EN=0
-  - XVIII: lists ES=11 EN=0
-  - XIX: lists ES=5 EN=0
-  - XX: lists ES=6 EN=0
-  - XXII: lists ES=8 EN=0
-  - XXIV: lists ES=17 EN=0
-  - XXV: lists ES=14 EN=0
-- `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · ES=1207 · EN=1276 · ratio=1.06
-  - I: lists ES=12 EN=0
-  - I: párrafos ES=5 EN=4
-  - II: párrafos ES=7 EN=4
+- `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · ES=1606 · EN=1545 · ratio=0.96
+  - I: lists ES=13 EN=7
+  - II: párrafos ES=3 EN=4
   - III: lists ES=10 EN=0
-  - III: párrafos ES=3 EN=4
-  - IV: párrafos ES=5 EN=6
-  - V: párrafos ES=8 EN=6
-  - VI: lists ES=8 EN=0
-  - VII: párrafos ES=4 EN=3
-  - IX: párrafos ES=4 EN=3
-  - XI: lists ES=8 EN=0
-  - XIII: lists ES=11 EN=3
-- `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` · ES=1177 · EN=1167 · ratio=0.99
-  - I: párrafos ES=5 EN=4
-  - II: párrafos ES=8 EN=6
-  - IV: párrafos ES=6 EN=3
-  - V: lists ES=5 EN=0
-  - V: párrafos ES=5 EN=4
-  - VI: párrafos ES=10 EN=2
-  - VII: párrafos ES=8 EN=4
-  - VIII: lists ES=5 EN=0
-  - IX: párrafos ES=6 EN=5
-  - X: lists ES=7 EN=0
-  - X: párrafos ES=4 EN=3
-  - XI: lists ES=8 EN=0
-  - XII: párrafos ES=4 EN=3
-- `manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md` · ES=1186 · EN=1147 · ratio=0.97
-  - Invocación: párrafos ES=10 EN=5
-  - II: lists ES=10 EN=0
-  - VI: lists ES=6 EN=0
-  - VI: párrafos ES=7 EN=5
-  - VII: lists ES=9 EN=0
-  - VIII: párrafos ES=5 EN=4
-  - IX: párrafos ES=9 EN=5
-  - XI: lists ES=7 EN=0
-- `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` · ES=1406 · EN=1373 · ratio=0.98
-  - Invocación: párrafos ES=10 EN=9
-  - I: párrafos ES=5 EN=3
-  - II: párrafos ES=7 EN=6
-  - III: párrafos ES=5 EN=4
+  - III: párrafos ES=4 EN=5
   - V: lists ES=9 EN=0
   - V: párrafos ES=4 EN=3
-  - VI: párrafos ES=1 EN=2
-  - VII: párrafos ES=6 EN=3
-  - IX: párrafos ES=5 EN=4
-  - X: párrafos ES=4 EN=3
-  - XI: párrafos ES=6 EN=5
-  - XIII: lists ES=16 EN=3
-- `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md` · ES=1577 · EN=1492 · ratio=0.95
-  - II: párrafos ES=10 EN=6
-  - III: lists ES=11 EN=0
-  - III: párrafos ES=6 EN=5
-  - V: párrafos ES=9 EN=4
-  - VI: párrafos ES=9 EN=8
-  - VII: lists ES=17 EN=0
-  - IX: lists ES=10 EN=0
-  - IX: párrafos ES=8 EN=7
-  - X: párrafos ES=6 EN=5
-  - XIII: párrafos ES=7 EN=3
-  - XIV: quotes ES=13 EN=12
-  - XV: lists ES=15 EN=3
-- `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` · ES=1336 · EN=1342 · ratio=1.00
-  - II: párrafos ES=15 EN=9
-  - III: párrafos ES=12 EN=8
-  - IV: párrafos ES=8 EN=5
-  - V: párrafos ES=14 EN=9
-  - VI: párrafos ES=11 EN=7
-  - XII: lists ES=15 EN=3
+  - VI: párrafos ES=4 EN=3
+  - VIII: párrafos ES=4 EN=3
+  - IX: lists ES=8 EN=0
+  - IX: párrafos ES=4 EN=3
+  - XI: lists ES=6 EN=0
+  - XII: párrafos ES=5 EN=3
+  - XIII: lists ES=10 EN=0
+  - XV: lists ES=18 EN=5
+- `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` · ES=1822 · EN=1801 · ratio=0.99
+  - XII: párrafos ES=5 EN=6
 - `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · ES=1824 · EN=1833 · ratio=1.00
   - Invocación: párrafos ES=16 EN=7
   - I: lists ES=17 EN=0
@@ -593,8 +480,8 @@
   - 6: lists ES=10 EN=0
   - 6: párrafos ES=0 EN=1
   - 7: párrafos ES=1 EN=0
-- `neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md` · ES=791 · EN=666 · ratio=0.84
-  - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (3, ''), (3, ''), (2, '7'), (2, '8'), (2, '9')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9')]
+- `neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md` · ES=791 · EN=769 · ratio=0.97
+  - 9: párrafos ES=3 EN=2
 - `obras/idea/PRESS_KIT_ES_EN.md` · ES=953 · EN=963 · ratio=1.01
   - Cita editorial recomendada: lists ES=0 EN=6
   - Cita editorial recomendada: párrafos ES=2 EN=5
@@ -776,10 +663,10 @@
 
 | Archivo | Estado | Detalle |
 |---|---|---|
-| `COVER.md` | **REVISAR** | Accesos principales: lists ES=19 EN=17; Deltas transversales recientes: párrafos ES=1 EN=2 |
+| `COVER.md` | **REVISAR** | Deltas transversales recientes: párrafos ES=1 EN=2 |
 | `FOREWORD.md` | **OK** |  |
 | `LEEME.md` | **REVISAR** | volumen EN/ES=0.77 (3262/4254); esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] |
-| `PORTADA.md` | **REVISAR** | Los manifiestos como pilares: lists ES=6 EN=0; Novena oleada · Autoconciencia, respeto y defensa civilizatoria: lists ES=4 EN=3; Décima oleada · Fin de la Era del Hombre Manipulado™: lists ES=7 EN=5; Límite de la capa pública: párrafos ES=2 EN=3 |
+| `PORTADA.md` | **REVISAR** | Límite de la capa pública: párrafos ES=2 EN=3 |
 | `PREFACIO.md` | **OK** |  |
 | `README.md` | **OK** |  |
 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` | **REVISAR** | **Patrón institucional observado**: párrafos ES=45 EN=47 |
@@ -910,23 +797,23 @@
 | `manifiestos/25_pulido_de_la_piedra_ES_EN.md` | **OK** |  |
 | `manifiestos/26_misericordia_universal_reciproca_ES_EN.md` | **OK** |  |
 | `manifiestos/27_valor_alimentos_vida_ES_EN.md` | **OK** |  |
-| `manifiestos/28_los_tesla_ES_EN.md` | **REVISAR** | II: párrafos ES=2 EN=3; III: párrafos ES=3 EN=2 |
-| `manifiestos/29_idolatria_del_dinero_ES_EN.md` | **REVISAR** | III: párrafos ES=0 EN=3 |
-| `manifiestos/30_coherencia_fines_medios_ES_EN.md` | **REVISAR** | III: párrafos ES=1 EN=2 |
+| `manifiestos/28_los_tesla_ES_EN.md` | **OK** |  |
+| `manifiestos/29_idolatria_del_dinero_ES_EN.md` | **OK** |  |
+| `manifiestos/30_coherencia_fines_medios_ES_EN.md` | **OK** |  |
 | `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` | **OK** |  |
 | `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` | **OK** |  |
-| `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` | **REVISAR** | II: párrafos ES=4 EN=3; III: párrafos ES=4 EN=3 |
-| `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, ''), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (3, '1'), (3, '2'), (3, '3'), (3, '4'), (3, '5'), (3, '6'), (3, '7'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV')] EN=[(2, ''), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV')] |
-| `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | **REVISAR** | I: lists ES=9 EN=0; I: párrafos ES=4 EN=3; II: párrafos ES=3 EN=5; IV: lists ES=6 EN=0; V: párrafos ES=5 EN=4; VI: párrafos ES=3 EN=4; VII: párrafos ES=4 EN=5; VIII: párrafos ES=5 EN=4; X: lists ES=10 EN=0; X: párrafos ES=4 EN=3; XI: lists ES=6 EN=0; XI: párrafos ES=4 EN=2; XII: lists ES=8 EN=0; XII: párrafos ES=5 EN=2; XIII: quotes ES=8 EN=0; XIII: párrafos ES=5 EN=2; XV: lists ES=21 EN=5 |
-| `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | **REVISAR** | III bis. El León: lists ES=6 EN=0; Bandera de España en Síntesis™ · propuesta abierta: lists ES=10 EN=0; XII: párrafos ES=5 EN=6 |
-| `manifiestos/37_neofraternidad_ES_EN.md` | **REVISAR** | XV: párrafos ES=4 EN=3 |
-| `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` | **REVISAR** | III: lists ES=14 EN=0; IV: lists ES=11 EN=0; IV: párrafos ES=5 EN=4; V: lists ES=14 EN=0; VI: lists ES=8 EN=0; IX: lists ES=11 EN=0; IX: párrafos ES=5 EN=4; X: lists ES=16 EN=0; XI: lists ES=10 EN=0; XII: lists ES=12 EN=0; XIII: lists ES=12 EN=0; XIV: lists ES=8 EN=0; XV: lists ES=9 EN=0; XVI: lists ES=7 EN=0; XVIII: lists ES=11 EN=0; XIX: lists ES=5 EN=0; XX: lists ES=6 EN=0; XXII: lists ES=8 EN=0; XXIV: lists ES=17 EN=0; XXV: lists ES=14 EN=0 |
-| `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` | **REVISAR** | I: lists ES=12 EN=0; I: párrafos ES=5 EN=4; II: párrafos ES=7 EN=4; III: lists ES=10 EN=0; III: párrafos ES=3 EN=4; IV: párrafos ES=5 EN=6; V: párrafos ES=8 EN=6; VI: lists ES=8 EN=0; VII: párrafos ES=4 EN=3; IX: párrafos ES=4 EN=3; XI: lists ES=8 EN=0; XIII: lists ES=11 EN=3 |
-| `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` | **REVISAR** | I: párrafos ES=5 EN=4; II: párrafos ES=8 EN=6; IV: párrafos ES=6 EN=3; V: lists ES=5 EN=0; V: párrafos ES=5 EN=4; VI: párrafos ES=10 EN=2; VII: párrafos ES=8 EN=4; VIII: lists ES=5 EN=0; IX: párrafos ES=6 EN=5; X: lists ES=7 EN=0; X: párrafos ES=4 EN=3; XI: lists ES=8 EN=0; XII: párrafos ES=4 EN=3 |
-| `manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md` | **REVISAR** | Invocación: párrafos ES=10 EN=5; II: lists ES=10 EN=0; VI: lists ES=6 EN=0; VI: párrafos ES=7 EN=5; VII: lists ES=9 EN=0; VIII: párrafos ES=5 EN=4; IX: párrafos ES=9 EN=5; XI: lists ES=7 EN=0 |
-| `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` | **REVISAR** | Invocación: párrafos ES=10 EN=9; I: párrafos ES=5 EN=3; II: párrafos ES=7 EN=6; III: párrafos ES=5 EN=4; V: lists ES=9 EN=0; V: párrafos ES=4 EN=3; VI: párrafos ES=1 EN=2; VII: párrafos ES=6 EN=3; IX: párrafos ES=5 EN=4; X: párrafos ES=4 EN=3; XI: párrafos ES=6 EN=5; XIII: lists ES=16 EN=3 |
-| `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md` | **REVISAR** | II: párrafos ES=10 EN=6; III: lists ES=11 EN=0; III: párrafos ES=6 EN=5; V: párrafos ES=9 EN=4; VI: párrafos ES=9 EN=8; VII: lists ES=17 EN=0; IX: lists ES=10 EN=0; IX: párrafos ES=8 EN=7; X: párrafos ES=6 EN=5; XIII: párrafos ES=7 EN=3; XIV: quotes ES=13 EN=12; XV: lists ES=15 EN=3 |
-| `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` | **REVISAR** | II: párrafos ES=15 EN=9; III: párrafos ES=12 EN=8; IV: párrafos ES=8 EN=5; V: párrafos ES=14 EN=9; VI: párrafos ES=11 EN=7; XII: lists ES=15 EN=3 |
+| `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` | **OK** |  |
+| `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` | **REVISAR** | I: lists ES=13 EN=7; II: párrafos ES=3 EN=4; III: lists ES=10 EN=0; III: párrafos ES=4 EN=5; V: lists ES=9 EN=0; V: párrafos ES=4 EN=3; VI: párrafos ES=4 EN=3; VIII: párrafos ES=4 EN=3; IX: lists ES=8 EN=0; IX: párrafos ES=4 EN=3; XI: lists ES=6 EN=0; XII: párrafos ES=5 EN=3; XIII: lists ES=10 EN=0; XV: lists ES=18 EN=5 |
+| `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | **OK** |  |
+| `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | **REVISAR** | XII: párrafos ES=5 EN=6 |
+| `manifiestos/37_neofraternidad_ES_EN.md` | **OK** |  |
+| `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` | **OK** |  |
+| `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` | **OK** |  |
+| `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` | **OK** |  |
+| `manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md` | **OK** |  |
+| `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` | **OK** |  |
+| `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md` | **OK** |  |
+| `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` | **OK** |  |
 | `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` | **REVISAR** | Invocación: párrafos ES=16 EN=7; I: lists ES=17 EN=0; IV: párrafos ES=10 EN=6; V: párrafos ES=8 EN=5; VI: lists ES=2 EN=0; VI: párrafos ES=11 EN=6; VIII: párrafos ES=7 EN=5; IX: párrafos ES=9 EN=5; X: párrafos ES=6 EN=4; XI: párrafos ES=14 EN=7; XII: lists ES=10 EN=0; XVI: lists ES=17 EN=3 |
 | `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` | **REVISAR** | I: lists ES=12 EN=0; II: párrafos ES=5 EN=4; III: párrafos ES=8 EN=6; IV: lists ES=7 EN=0; V: párrafos ES=13 EN=8; VI: párrafos ES=9 EN=4; VII: párrafos ES=8 EN=7; VIII: párrafos ES=8 EN=6; IX: párrafos ES=9 EN=6; X: párrafos ES=14 EN=4; XI: párrafos ES=5 EN=4; XIV: lists ES=8 EN=0; XVII: lists ES=15 EN=3 |
 | `manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md` | **REVISAR** | I: párrafos ES=13 EN=10; III: párrafos ES=13 EN=7; IV: párrafos ES=15 EN=10; V: lists ES=12 EN=0; V: párrafos ES=7 EN=5; VI: párrafos ES=13 EN=8; VII: párrafos ES=11 EN=6; VIII: párrafos ES=15 EN=7; IX: lists ES=15 EN=0; IX: párrafos ES=6 EN=5; X: párrafos ES=11 EN=5; XI: párrafos ES=14 EN=9; XV: párrafos ES=10 EN=7; XVII: lists ES=15 EN=3 |
@@ -965,7 +852,7 @@
 | `manifiestos/anexos/2026-08-07_anexo_reversion_ideologica_I_VIII_XXII_XXX_XXXI_ES_EN.md` | **REVISAR** | Anexo al Manifiesto VIII · Ingeniería Social Abierta: lists ES=8 EN=0; Anexo al Manifiesto XXXI · Neuromarketing Antihumanista: lists ES=6 EN=0; Regla de integración futura: lists ES=6 EN=0; Regla de integración futura: párrafos ES=2 EN=3 |
 | `manifiestos/deltas/LXI_delta_genetica_adn_neopandora_custodia_multiescalar_ES_EN.md` | **REVISAR** | 2: lists ES=12 EN=0; 2: párrafos ES=3 EN=2; 5: code ES=1 EN=0; 7: lists ES=6 EN=0; 7: párrafos ES=3 EN=2; 11: lists ES=6 EN=0; 11: párrafos ES=2 EN=1 |
 | `manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md` | **REVISAR** | volumen EN/ES=0.76 (338/447); 2: code ES=1 EN=0; 2: párrafos ES=2 EN=1; 6: lists ES=10 EN=0; 6: párrafos ES=0 EN=1; 7: párrafos ES=1 EN=0 |
-| `neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (3, ''), (3, ''), (2, '7'), (2, '8'), (2, '9')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9')] |
+| `neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md` | **REVISAR** | 9: párrafos ES=3 EN=2 |
 | `neoaxiomas/README.md` | **OK** |  |
 | `obras/README.md` | **OK** |  |
 | `obras/idea/PRESS_KIT_ES_EN.md` | **REVISAR** | Cita editorial recomendada: lists ES=0 EN=6; Cita editorial recomendada: párrafos ES=2 EN=5 |
