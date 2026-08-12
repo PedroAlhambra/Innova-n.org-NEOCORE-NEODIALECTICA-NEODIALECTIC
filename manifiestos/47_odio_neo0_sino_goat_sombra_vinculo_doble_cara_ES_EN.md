@@ -618,19 +618,25 @@ It is one of the reasons the framework must exist.
 
 ## I. The Goat
 
-In my own symbolic reading of the Chinese zodiac, I identify with the **Earth Goat**.
+In my own symbolic reading of the Chinese zodiac, I recognise myself in the **Earth Goat**.
 
 I use it as an autobiographical archetype.
 
-It does not need to become a scientific law in order to have narrative and reflective function.
+I do not need to turn it into a scientific law for it to have a narrative and reflective function.
 
-The goat carries, seeks footholds and climbs difficult ground. It may look stubborn from outside while simply trying to find somewhere to stand.
+The goat carries.
+
+It seeks support.
+
+It climbs difficult places.
+
+It may look stubborn from outside while simply trying to find somewhere to stand.
 
 **The Goat** also contains a useful contemporary ambiguity.
 
-It can mean the animal.
+It can be read as *goat*, the animal.
 
-And it can evoke the cultural acronym *Greatest Of All Time*.
+And it can be read as the cultural acronym *Greatest Of All Time*.
 
 This manifesto rejects turning that second reading into competitive coronation.
 
@@ -641,7 +647,7 @@ I need to be able to be whole.
 ```text
 THE GOAT
 ≠
-A CROWN ABOVE OTHERS
+CROWN OVER OTHERS
 
 THE GOAT
 =
@@ -683,7 +689,19 @@ It proves that something inside us is saying:
 
 Neodialectics does not need to pretend hatred does not exist.
 
-It can be directed at a situation, loss, injustice, oneself, a trajectory or what we feel was imposed upon us.
+It exists.
+
+It can be directed at a situation.
+
+At a loss.
+
+At an injustice.
+
+At oneself.
+
+At a trajectory.
+
+At what we feel was imposed upon us.
 
 The error is not recognising the emotion.
 
@@ -716,7 +734,17 @@ I have often felt that someone can look at a life from outside and think:
 
 “he has everything”.
 
-Ability, work, objects, ideas, projects, apparent freedom.
+Ability.
+
+Work.
+
+Objects.
+
+Ideas.
+
+Projects.
+
+Apparent freedom.
 
 And from that inventory wonder why the person does not seem to enjoy enough.
 
@@ -743,9 +771,26 @@ MORE RESOURCES
 
 Human reality is multidimensional.
 
-Resources matter. Material security matters. Autonomy matters.
+Resources matter.
 
-But so do belonging, intimacy, friendship, reciprocity, recognition, presence, care, play, shared memory, shared time, being expected and being able to give someone what one has.
+Material security matters.
+
+Autonomy matters.
+
+But so do:
+
+- belonging;
+- intimacy;
+- friendship;
+- reciprocity;
+- recognition;
+- presence;
+- care;
+- play;
+- shared memory;
+- shared time;
+- being expected;
+- and being able to give someone what one has.
 
 Material abundance does not automatically cancel relational deprivation.
 
@@ -753,7 +798,9 @@ Material abundance does not automatically cancel relational deprivation.
 
 A person who observes only visible dimensions may conclude another life is more complete than it really is.
 
-Comparison follows, and sometimes resentment.
+Comparison follows.
+
+And sometimes resentment.
 
 But the comparison is between surfaces:
 
@@ -765,7 +812,15 @@ YOUR VISIBLE EXTERIOR
 
 That comparison is structurally biased.
 
-We do not know the emotional price someone pays for what we admire. We do not know what they lost, whom they miss, what fear sustains their activity or which part of their success also functions as refuge.
+We do not know the emotional price someone pays for what we admire.
+
+We do not know what they lost.
+
+We do not know whom they miss.
+
+We do not know what fear sustains their activity.
+
+We do not know which part of their success also functions as refuge.
 
 I therefore do not state as fact that “people hate me because they think I have everything”.
 
@@ -783,7 +838,17 @@ I cannot reduce them either.
 
 If I perceive envy, judgement, distance or rejection, I may be wrong about its origin.
 
-Perhaps there is envy. Perhaps incomprehension. Perhaps fatigue. Perhaps fear. Perhaps an old wound. Perhaps they simply do not want the same bond I want.
+Perhaps there is envy.
+
+Perhaps there is incomprehension.
+
+Perhaps there is fatigue.
+
+Perhaps there is fear.
+
+Perhaps there is an old wound.
+
+Perhaps they simply do not want the same bond I want.
 
 A serious philosophy does not turn every personal pain into a total explanation of another person's mind.
 
@@ -791,9 +856,25 @@ A serious philosophy does not turn every personal pain into a total explanation 
 
 Nobody lives only from inventory.
 
-Even a person with security, knowledge, prestige, beauty, power or resources still needs dimensions that cannot be fully purchased: relationship, meaning, belonging, reciprocity, time and care.
+Even a person with security, knowledge, prestige, beauty, power or resources still needs dimensions that cannot be fully purchased.
 
-But not everyone suffers equally, lacks the same things or experiences absence with the same weight.
+Relationship.
+
+Meaning.
+
+Belonging.
+
+Reciprocity.
+
+Time.
+
+Care.
+
+But not everyone suffers equally.
+
+Not everyone lacks the same things.
+
+Not every absence carries the same weight.
 
 The correct universal claim is not:
 
@@ -805,9 +886,27 @@ It is:
 
 ## IX. The framework must look at shadow
 
+Here appears one of the fundamental differences of the neodialectical architecture.
+
 It is not enough to speak of Common Good, cooperation, mercy, fraternity and future.
 
-A complete architecture must also be able to look at hatred, anger, revenge, ego, pride, fear, cowardice, envy, jealousy, desire for control, fantasies of escape, resentment, exhaustion, contradiction and destructive capacity.
+A complete architecture must also be able to look at:
+
+- hatred;
+- anger;
+- desire for revenge;
+- ego;
+- pride;
+- fear;
+- cowardice;
+- envy;
+- jealousy;
+- desire for control;
+- fantasies of escape;
+- resentment;
+- exhaustion;
+- contradiction;
+- and destructive capacity.
 
 Not to celebrate them.
 
@@ -819,7 +918,19 @@ To prevent them from governing from places we refuse to observe.
 
 Every person contains potentials that may be oriented in different directions.
 
-Care and domination. Generosity and possession. Courage and recklessness. Dignified pride and narcissism. Protection and control. Love and fear of loss. Creation and desire for recognition.
+Care and domination.
+
+Generosity and possession.
+
+Courage and recklessness.
+
+Dignified pride and narcissism.
+
+Protection and control.
+
+Love and fear of loss.
+
+Creation and desire for recognition.
 
 Neodialectics does not resolve the tension by declaring one face “true” and the other “false”.
 
@@ -846,7 +957,17 @@ If a founder publishes only certainty, strength, vision and capacity, the result
 
 The origin of the framework should also be traceable through contradiction.
 
-I may feel pride in building something and resentment that it occupied my life. I may love humanity as a horizon and become tired of particular humans. I may defend mercy and feel anger. I may seek connection and want isolation. I may want recognition and distrust it. I may build a future-oriented system and for an hour wish to have no responsibility for it at all.
+I may feel pride in building something and resentment that it occupied my life.
+
+I may love humanity as a horizon and become tired of particular humans.
+
+I may defend mercy and feel anger.
+
+I may seek connection and want isolation.
+
+I may want recognition and distrust recognition.
+
+I may build a future-oriented system and for an hour wish to have no responsibility for it at all.
 
 That does not automatically invalidate the framework.
 
@@ -957,7 +1078,13 @@ The vector asks:
 
 > “where is this going and what can I still change?”
 
-We do not control every condition. We do not choose every loss. We cannot force anyone to accompany us. We cannot reverse time.
+We do not control every condition.
+
+We do not choose every loss.
+
+We cannot force anyone to accompany us.
+
+We cannot reverse time.
 
 But we can understand more clearly which part of the direction remains ours to alter.
 
@@ -1004,7 +1131,20 @@ FATE
 
 ## XVII. Open Synthesis
 
-Contributions are invited on fate, agency and perceived imposed trajectory; astrology and symbolic systems as personal meaning tools versus empirical claims; loneliness, absence and relational wellbeing; visible wealth and invisible suffering; social comparison, envy and projection; emotional ambivalence in leaders, creators and founders; integration of shadow without glorification of harm; hatred, frustration, grief and need for connection; sovereign interdependence; moral limits of intense emotions; the Two-Face Principle™; and evidence that contradicts, limits or improves this manifesto.
+Contributions are invited on:
+
+- fate, agency and perceived imposed trajectory;
+- astrology and symbolic systems as personal meaning tools versus empirical claims;
+- loneliness, absence and relational wellbeing;
+- visible wealth and invisible suffering;
+- social comparison, envy and projection;
+- emotional ambivalence in leaders, creators and founders;
+- integration of shadow without glorification of harm;
+- hatred, frustration, grief and need for connection;
+- sovereign interdependence;
+- moral limits of intense emotions;
+- the Two-Face Principle™;
+- and evidence that contradicts, limits or improves this manifesto.
 
 * [Open Synthesis XLVII · Issue #55](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/55)
 * [How to contribute to Open Synthesis](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)

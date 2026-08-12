@@ -624,7 +624,25 @@ A vast share of political, economic, scientific, technological and moral error b
 
 > **reducing a multidimensional system to one variable and then confusing that variable with the whole of reality.**
 
-Money. Power. Ideology. Class. Identity. Intelligence quotient. Productivity. Popularity. Votes. Data.
+Money.
+
+Power.
+
+Ideology.
+
+Class.
+
+Identity.
+
+Intelligence quotient.
+
+Productivity.
+
+Popularity.
+
+Votes.
+
+Data.
 
 One dimension may explain something.
 
@@ -648,7 +666,25 @@ Understanding requires relating dimensions without destroying their difference.
 
 ## I. The human is not a variable
 
-A person is simultaneously body, memory, emotion, intelligence, history, relationships, desire, fear, knowledge, error, creative capacity, responsibility, material context, cultural context, lived time, future project and a node inside larger systems.
+A person is simultaneously:
+
+- body;
+- memory;
+- emotion;
+- intelligence;
+- history;
+- relationships;
+- desire;
+- fear;
+- knowledge;
+- error;
+- creative capacity;
+- responsibility;
+- material context;
+- cultural context;
+- lived time;
+- future project;
+- and a node inside larger systems.
 
 Reducing a person to consumer, worker, voter, profile, diagnosis, income, political identity or algorithmic score destroys essential information.
 
@@ -723,7 +759,15 @@ It is solved by preventing excellence in one dimension from automatically becomi
 
 A person may be extraordinary in one dimension and limited in many others.
 
-A great scientist may be morally wrong. A great entrepreneur may misunderstand society. A great artist may manage an institution badly. A great politician may ignore science. A founder may understand origin better than anyone and still require contradiction regarding consequences.
+A great scientist may be morally wrong.
+
+A great entrepreneur may misunderstand society.
+
+A great artist may manage an institution badly.
+
+A great politician may ignore science.
+
+A founder may understand origin better than anyone and still require contradiction regarding the consequences of their proposals.
 
 Correct architecture does not abolish leadership.
 
@@ -752,7 +796,9 @@ Shared sovereignty does not mean everyone has identical knowledge, function or r
 
 It means no partial superiority makes anyone owner of another person's conscience.
 
-Every node preserves an irreducible sphere of sovereignty, while every common sphere requires coordination.
+Every node preserves an irreducible sphere of sovereignty.
+
+And every common sphere requires coordination mechanisms.
 
 ```text
 PERSONAL SOVEREIGNTY
@@ -765,19 +811,36 @@ TRACEABLE CONTRAST
 → DISTRIBUTED SOVEREIGNTY
 ```
 
-We do not all know the same things. We cannot all do the same things. We do not contribute equally to every problem.
+We do not all know the same things.
+
+We cannot all do the same things.
+
+We do not contribute equally to every problem.
 
 But nobody ceases to be a subject because they do not master one particular dimension.
 
 ## VI. Multidimensionality dissolves the false opposition between equality and excellence
 
-A one-dimensional civilisation often falls into one of two traps: denying differences in order to protect equality, or turning differences into absolute hierarchies in order to protect excellence.
+A one-dimensional civilisation often falls into one of two traps:
+
+1. denying differences in order to protect equality;
+2. turning differences into absolute hierarchies in order to protect excellence.
 
 Multidimensionality makes it possible to move beyond that opposition.
 
 Two people may be unequal in one dimension while remaining equal in dignity.
 
-One may contribute more technical knowledge, another better understanding of human harm, another historical memory, another execution capacity, another creativity, another direct experience.
+One may contribute more technical knowledge.
+
+Another may understand human harm better.
+
+Another may possess historical memory.
+
+Another may have greater execution capacity.
+
+Another may contribute creativity.
+
+Another may contribute direct experience.
 
 Synthesis does not need to pretend all contributions are equal.
 
@@ -810,7 +873,11 @@ To prevent the expert from confusing one dimension with the whole system.
 
 The same rule applies to artificial intelligence.
 
-AI may relate enormous amounts of information and still be wrong. It may recover context and produce a false synthesis. It may multiply perspectives while inheriting bias from data, architecture or instruction.
+AI may relate enormous amounts of information and still be wrong.
+
+It may recover context and produce a false synthesis.
+
+It may multiply perspectives while inheriting bias from its data, architecture or instructions.
 
 Neodialectical AI therefore receives no final sovereignty.
 
@@ -832,7 +899,15 @@ Intelligence emerges from relation, not from the idolatry of one node.
 
 The Common Good cannot maximise one variable alone.
 
-Maximising economic growth alone may destroy health, community or ecosystems. Maximising security alone may destroy freedom. Maximising individual liberty alone may ignore externalities and vulnerability. Maximising equality alone may destroy functional diversity and initiative. Maximising efficiency alone may sacrifice resilience.
+If it maximises only economic growth, it may destroy health, community or ecosystems.
+
+If it maximises only security, it may destroy freedom.
+
+If it maximises only individual liberty, it may ignore externalities and vulnerability.
+
+If it maximises only equality, it may destroy functional diversity and initiative.
+
+If it maximises only efficiency, it may sacrifice resilience.
 
 The Common Good requires multivariable and multiscale composition.
 
@@ -857,7 +932,11 @@ A decision does not only have multiple simultaneous dimensions.
 
 It also has multiple times.
 
-What is beneficial today may be destructive in twenty years. What is costly today may prevent future catastrophe. A policy may benefit one generation and transfer the bill to another.
+What is beneficial today may be destructive in twenty years.
+
+What is costly today may prevent a future catastrophe.
+
+A policy may benefit one generation and transfer the bill to another.
 
 The framework therefore requires memory and horizon.
 
@@ -874,7 +953,21 @@ POSSIBLE FUTURES
 
 The person is not an external observer of the system.
 
-The person is a node within family, neighbourhood, city, state, species, ecosystem and planet.
+The person is a node within it.
+
+Family.
+
+Neighbourhood.
+
+City.
+
+State.
+
+Species.
+
+Ecosystem.
+
+Planet.
 
 Each scale modifies and is modified by others.
 
@@ -888,7 +981,18 @@ That is the practical function of fractal reading.
 
 ## XII. Against capture by a single metric
 
-Contemporary society is full of substitutes for reality: GDP for wellbeing, followers for relevance, money for value, clicks for legitimate attention, productivity for contribution, scores for learning, votes for understanding, data for truth, office for epistemic authority and algorithms for judgement.
+Contemporary society is full of substitutes for reality:
+
+- GDP for wellbeing;
+- followers for relevance;
+- money for value;
+- clicks for legitimate attention;
+- productivity for contribution;
+- scores for learning;
+- votes for understanding;
+- data for truth;
+- office for epistemic authority;
+- algorithms for judgement.
 
 Metrics are instruments.
 
@@ -1086,7 +1190,22 @@ This is precisely the relation between **Neodialectical Multidimensionality™**
 
 ## XVI. Open Synthesis
 
-Contributions are invited on multidimensional models of persons and societies; limits of single metrics; relation among singularity, leadership and capture; the Mule Problem as a metaphor for systems unable to integrate anomalies; complex-systems theory, cybernetics and resilience; psychology of ego and plurality of capacities; distributed governance; equality, dignity and excellence; multidisciplinarity and limits of expertise; AI as a contrast node rather than final sovereignty; temporality, scales and externalities; function and limits of ™ denominations within the corpus; criteria for Integrable Anomaly™; and evidence that contradicts, limits or improves the theses of this manifesto.
+Contributions are invited on:
+
+- multidimensional models of persons and societies;
+- limits of single metrics;
+- relation among singularity, leadership and capture;
+- the Mule Problem as a metaphor for systems unable to integrate anomalies;
+- complex-systems theory, cybernetics and resilience;
+- psychology of ego and plurality of capacities;
+- distributed governance;
+- equality, dignity and excellence;
+- multidisciplinarity and limits of expertise;
+- AI as a contrast node rather than final sovereignty;
+- temporality, scales and externalities;
+- function and limits of ™ denominations within the corpus;
+- criteria for Integrable Anomaly™;
+- and evidence that contradicts, limits or improves the theses of this manifesto.
 
 * [Open Synthesis XLV · Issue #53](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/53)
 * [How to contribute to Open Synthesis](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
