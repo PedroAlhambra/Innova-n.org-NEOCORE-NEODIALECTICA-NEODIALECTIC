@@ -19,6 +19,7 @@
 
 * [Análisis y auditorías / Analyses and audits](Analisis_Neodialecticos_Publicos)
 * [NeoGenealogía™ / NeoGenealogy™](NeoGenealogia)
+* [RADAR-Π™ · antecedentes y arquetipos / antecedents and archetypes](RADAR_PI)
 * [Procedencia, trazabilidad y legal / Provenance, traceability and legal](Procedencia_Trazabilidad_y_Legal)
 
 ## Crear y proyectar / Create and project
