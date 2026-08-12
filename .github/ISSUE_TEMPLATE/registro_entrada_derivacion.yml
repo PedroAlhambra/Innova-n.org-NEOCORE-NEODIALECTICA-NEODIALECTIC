@@ -1,6 +1,6 @@
-name: Registro de Entrada Trazable · lectura, seguimiento o derivación
-description: Registra voluntariamente tu entrada, seguimiento, investigación, crítica, implementación o derivación del marco.
-title: "Registro de entrada · "
+name: Registro de Entrada Trazable · lectura, seguimiento o derivación / Traceable Entry Register · reading, follow-up or derivation
+description: Registra voluntariamente tu entrada, seguimiento, investigación, crítica, implementación o derivación del marco. / Voluntarily register your entry, follow-up, research, criticism, implementation or derivation of the framework.
+title: "Registro de entrada / Entry register · "
 labels: []
 body:
   - type: markdown
@@ -8,27 +8,29 @@ body:
       value: |
         Este formulario crea un registro público y trazable. No implica adhesión al marco ni convierte una aportación en canon. No publiques credenciales, documentos confidenciales ni datos personales innecesarios.
 
+        This form creates a public and traceable record. It does not imply adherence to the framework and does not turn a contribution into canon. Do not publish credentials, confidential documents or unnecessary personal data.
+
   - type: dropdown
     id: tipo
     attributes:
-      label: Tipo de entrada
+      label: Tipo de entrada / Entry type
       options:
-        - Lectura / seguimiento
-        - Crítica o contraste
-        - Investigación
-        - Implementación técnica
-        - Adaptación / derivación
-        - Traducción / difusión
-        - Contacto institucional
-        - Otro
+        - Lectura / seguimiento · Reading / follow-up
+        - Crítica o contraste · Criticism or scrutiny
+        - Investigación · Research
+        - Implementación técnica · Technical implementation
+        - Adaptación / derivación · Adaptation / derivation
+        - Traducción / difusión · Translation / dissemination
+        - Contacto institucional · Institutional contact
+        - Otro · Other
     validations:
       required: true
 
   - type: input
     id: objeto
     attributes:
-      label: Objeto consultado
-      description: Enlace o nombre del manifiesto, IDEA, análisis, auditoría, protocolo o parte del marco.
+      label: Objeto consultado / Object consulted
+      description: Enlace o nombre del manifiesto, IDEA, análisis, auditoría, protocolo o parte del marco. / Link or name of the manifesto, IDEA, analysis, audit, protocol or part of the framework.
       placeholder: https://github.com/...
     validations:
       required: true
@@ -36,57 +38,57 @@ body:
   - type: dropdown
     id: origen
     attributes:
-      label: Cómo llegaste a este nodo
+      label: Cómo llegaste a este nodo / How you reached this node
       options:
-        - Búsqueda propia
-        - Repositorio / GitHub
-        - Enlace recibido por correo de Innova_N
-        - Enlace compartido por un tercero
-        - Red social / publicación
-        - Amazon / IDEA
-        - Otro
+        - Búsqueda propia · Own search
+        - Repositorio / GitHub · Repository / GitHub
+        - Enlace recibido por correo de Innova_N · Link received by email from Innova_N
+        - Enlace compartido por un tercero · Link shared by a third party
+        - Red social / publicación · Social network / publication
+        - Amazon / IDEA · Amazon / IDEA
+        - Otro · Other
     validations:
       required: true
 
   - type: textarea
     id: finalidad
     attributes:
-      label: Finalidad o interés
-      description: Explica brevemente qué quieres comprender, contrastar, investigar, implementar o seguir.
+      label: Finalidad o interés / Purpose or interest
+      description: Explica brevemente qué quieres comprender, contrastar, investigar, implementar o seguir. / Briefly explain what you want to understand, scrutinise, research, implement or follow.
     validations:
       required: true
 
   - type: input
     id: institucion
     attributes:
-      label: Institución, equipo o proyecto (opcional)
-      description: Sólo si deseas hacerlo público.
+      label: Institución, equipo o proyecto (opcional) / Institution, team or project (optional)
+      description: Sólo si deseas hacerlo público. / Only if you wish to make it public.
 
   - type: textarea
     id: derivacion
     attributes:
-      label: Derivación, implementación o reutilización material (si existe)
-      description: Describe qué parte utilizas, adaptas o implementas y qué diferencias introduces. Si no existe, escribe NO APLICA.
+      label: Derivación, implementación o reutilización material (si existe) / Derivation, implementation or material reuse (if any)
+      description: Describe qué parte utilizas, adaptas o implementas y qué diferencias introduces. Si no existe, escribe NO APLICA. / Describe which part you use, adapt or implement and what differences you introduce. If none, write NOT APPLICABLE.
     validations:
       required: true
 
   - type: input
     id: enlace_derivado
     attributes:
-      label: Enlace al trabajo derivado (opcional)
-      description: Repositorio, artículo, producto, investigación, publicación u otra URL pública.
+      label: Enlace al trabajo derivado (opcional) / Link to derived work (optional)
+      description: Repositorio, artículo, producto, investigación, publicación u otra URL pública. / Repository, article, product, research, publication or another public URL.
 
   - type: textarea
     id: aporte
     attributes:
-      label: Aporte, objeción o pregunta inicial (opcional)
-      description: Si ya tienes una crítica, fuente, contraejemplo o pregunta, puedes dejarla aquí. Se podrá redirigir a un Issue específico de Síntesis Abierta.
+      label: Aporte, objeción o pregunta inicial (opcional) / Initial contribution, objection or question (optional)
+      description: Si ya tienes una crítica, fuente, contraejemplo o pregunta, puedes dejarla aquí. Se podrá redirigir a un Issue específico de Síntesis Abierta. / If you already have criticism, a source, counterexample or question, you may leave it here. It may be redirected to a specific Open Synthesis Issue.
 
   - type: textarea
     id: privacidad
     attributes:
-      label: Privacidad y límites
-      description: Indica si hay información que no debe reproducirse fuera de este Issue. Recuerda que el Issue en sí es público.
+      label: Privacidad y límites / Privacy and limits
+      description: Indica si hay información que no debe reproducirse fuera de este Issue. Recuerda que el Issue en sí es público. / Indicate whether there is information that should not be reproduced outside this Issue. Remember that the Issue itself is public.
       placeholder: Sin límites adicionales / No additional limits
     validations:
       required: true
@@ -94,13 +96,13 @@ body:
   - type: checkboxes
     id: declaracion
     attributes:
-      label: Declaraciones
+      label: Declaraciones / Declarations
       options:
-        - label: Entiendo que este registro es público y queda asociado a mi cuenta de GitHub.
+        - label: Entiendo que este registro es público y queda asociado a mi cuenta de GitHub. / I understand that this register is public and associated with my GitHub account.
           required: true
-        - label: Entiendo que registrarme no implica adhesión al marco ni aceptación de mis conclusiones.
+        - label: Entiendo que registrarme no implica adhesión al marco ni aceptación de mis conclusiones. / I understand that registering does not imply adherence to the framework or acceptance of my conclusions.
           required: true
-        - label: No he incluido deliberadamente credenciales, secretos, datos personales innecesarios ni material confidencial no autorizado.
+        - label: No he incluido deliberadamente credenciales, secretos, datos personales innecesarios ni material confidencial no autorizado. / I have not deliberately included credentials, secrets, unnecessary personal data or unauthorised confidential material.
           required: true
-        - label: Si declaro una derivación, acepto conservar de forma razonable la genealogía y procedencia de las ideas o mecanismos utilizados mientras se define la política jurídica específica de licencias.
+        - label: Si declaro una derivación, acepto conservar de forma razonable la genealogía y procedencia de las ideas o mecanismos utilizados mientras se define la política jurídica específica de licencias. / If I declare a derivation, I agree to reasonably preserve the genealogy and provenance of the ideas or mechanisms used while the specific legal licensing policy is being defined.
           required: true
