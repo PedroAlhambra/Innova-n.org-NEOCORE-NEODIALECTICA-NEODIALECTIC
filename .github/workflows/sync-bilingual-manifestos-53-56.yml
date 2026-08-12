@@ -1,0 +1,46 @@
+name: sync-bilingual-manifestos-53-56
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/scripts/repair_manifesto_53_strict_symmetry.py'
+      - '.github/scripts/repair_manifesto_54_structure_only.py'
+      - '.github/scripts/repair_manifesto_55_structure_only.py'
+      - '.github/scripts/repair_manifesto_56_structure_only.py'
+      - '.github/workflows/sync-bilingual-manifestos-53-56.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: neocore-document-sync-main
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Restore strict ES EN symmetry LIII-LVI
+        run: |
+          python .github/scripts/repair_manifesto_53_strict_symmetry.py
+          python .github/scripts/repair_manifesto_54_structure_only.py
+          python .github/scripts/repair_manifesto_55_structure_only.py
+          python .github/scripts/repair_manifesto_56_structure_only.py
+      - name: Commit repaired manifestos
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md \
+                  manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md \
+                  manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md \
+                  manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'fix: simetría ES EN sin compresión LIII-LVI'
+          git pull --rebase origin main
+          git push origin main
