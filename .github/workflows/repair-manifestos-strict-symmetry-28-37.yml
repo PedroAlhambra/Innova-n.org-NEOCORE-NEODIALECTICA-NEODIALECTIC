@@ -1,0 +1,43 @@
+name: repair-manifestos-strict-symmetry-28-37
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/scripts/repair_manifestos_strict_symmetry_28_37.py'
+      - '.github/workflows/repair-manifestos-strict-symmetry-28-37.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: neocore-document-sync-main
+  cancel-in-progress: false
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Restore strict ES EN symmetry XXVIII-XXXVII
+        run: python .github/scripts/repair_manifestos_strict_symmetry_28_37.py
+      - name: Commit repaired manifestos
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add manifiestos/28_los_tesla_ES_EN.md \
+                  manifiestos/29_idolatria_del_dinero_ES_EN.md \
+                  manifiestos/30_coherencia_fines_medios_ES_EN.md \
+                  manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md \
+                  manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md \
+                  manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md \
+                  manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md \
+                  manifiestos/37_neofraternidad_ES_EN.md
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'fix: simetría ES EN sin compresión XXVIII-XXXVII'
+          git pull --rebase origin main
+          git push origin main
