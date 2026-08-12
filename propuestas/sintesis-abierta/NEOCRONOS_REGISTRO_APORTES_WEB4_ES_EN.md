@@ -1,67 +1,289 @@
-# NeoCronos™ · Registro de Aportes de Síntesis en WEB4™
-# NeoCronos™ · Open Synthesis Contribution Ledger in WEB4™
+# NeoCronos™ · Eventos de Aporte y Créditos de Función en WEB4™
+# NeoCronos™ · Contribution Events and Role Credits in WEB4™
 
 **Estado / Status:** diseño operativo abierto · open operational design  
 **Fecha / Date:** 2026-08-12  
 **Marco / Framework:** NEOCore™ 7.2 · Síntesis Abierta Neodialéctica™ / Neodialectical Open Synthesis™ · WEB4™  
 **Rama técnica / Technical branch:** `sintesis-aportes-tokenizados`  
 **Síntesis de diseño / Design synthesis:** [#141](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/141)  
+**Auditoría retrospectiva / Retrospective audit:** [#142](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/142)  
 **Raíz ya fijada / Already-fixed root:** [LXIV · NeoCronos™](../../manifiestos/64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md) · [LXV · NeoJuego™ / NeoGame™](../../manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
 
 ---
 
 # ES · Castellano
 
-## 1. Naturaleza de esta rama
+## 1. Corrección del modelo anterior
 
-Esta rama **no crea un principio nuevo de NEOCore™ ni sube su versión**. Materializa una capa de implementación y registro ya prevista por LXIV · NeoCronos™ y LXV · NeoJuego™.
-
-LXIV establece la medición y conservación de la traza desde que comienza el aporte. LXV convierte la Síntesis Abierta en un espacio jugable donde el aporte es la jugada y la genealogía conserva quién aportó qué.
-
-La nueva capa añade tres funciones concretas:
-
-1. registro retrospectivo de aportes anteriores;
-2. asignación inmediata de un **token de traza NeoCronos™** cuando existe síntesis nueva y un delta atribuible demostrable;
-3. proyección gamificada de la valoración y de su genealogía en WEB4™.
+La primera implementación de esta rama utilizó un modelo plano:
 
 ```text
-LXIV · NEOCRONOS™ = MEDICIÓN + TIEMPO + TRAZA
-LXV · NEOJUEGO™ = JUGADA + APORTE + BIEN COMÚN
-ESTA RAMA = LEDGER + TOKEN DE TRAZA + WEB4 + GITHUB BRIDGE
+UN APORTE
+→ UN APORTANTE
+→ UN TOKEN
 ```
 
-## 2. Dos capas distintas de tokenización
+Ese modelo es insuficiente y queda sustituido.
 
-La palabra **tokenización** debe separar dos niveles para evitar confundir reconocimiento con dinero.
+Un evento de Síntesis puede contener varias funciones realizadas por personas distintas. La persona que publica una información puede no ser quien descubre su relación con el marco; quien descubre la relación puede no ser quien ejecuta la implementación; y una IA puede asistir en el contraste sin convertirse por ello en origen humano del delta.
 
-### 2.1. Token de Traza NeoCronos™
+La unidad correcta pasa a ser:
 
-Todo aporte atribuible que produzca **síntesis nueva y un delta demostrable** recibe un identificador `NC-*`.
+```text
+EVENTO DE APORTE
+→ FUENTE / PROCEDENCIA
+→ DESCUBRIMIENTO O RECEPCIÓN
+→ INGESTA
+→ CURACIÓN
+→ RELACIÓN
+→ CONTRADICCIÓN / CONTRASTE
+→ SÍNTESIS
+→ DELTA
+→ IMPLEMENTACIÓN
+→ FIJACIÓN
+```
 
-Ese token registra:
+Cada función atribuible conserva su propia traza.
 
-- autoría o procedencia;
-- fuente;
+## 2. Regla fundamental de autoría
+
+> **La procedencia de una señal no determina por sí sola la autoría del delta.**
+
+NeoCronos™ debe distinguir, cuando existan:
+
+- `source_originator` · autor/procedencia de la señal o material original;
+- `discoverer` · quien encuentra la señal y reconoce que puede ser relevante;
+- `receiver` · quien recibe una aportación dirigida al sistema;
+- `manual_ingestor` · quien introduce manualmente el aporte en el sistema;
+- `curator` · quien selecciona, contextualiza y prepara el material;
+- `relation_author` · quien establece una relación nueva entre la señal y el corpus;
+- `contradiction_author` · quien formula una objeción, tensión o contraejemplo;
+- `synthesis_operator` · quien ejecuta trabajo de contraste y recomposición;
+- `delta_author` · quien origina el cambio conceptual o funcional demostrable;
+- `implementation_operator` · quien materializa técnicamente el cambio;
+- `fixation_operator` · quien fija documental o técnicamente la nueva traza.
+
+```text
+FUENTE
+≠ DESCUBRIDOR
+≠ INGESTOR
+≠ AUTOR DE LA RELACIÓN
+≠ AUTOR DEL DELTA
+≠ IMPLEMENTADOR
+```
+
+Una misma persona puede ocupar varias funciones. Varias personas pueden intervenir en el mismo evento. Ninguna de esas situaciones autoriza a borrar las demás genealogías.
+
+## 3. Evento y créditos de traza
+
+NeoCronos™ v0.3 separa:
+
+### 3.1. Evento
+
+El `NC-EVT-*` identifica el acontecimiento completo de aporte y transformación.
+
+El evento conserva:
+
 - fecha;
-- objeto aportado;
-- estado de contraste;
-- delta producido;
-- relaciones con el corpus;
-- commits o documentos derivados;
-- historial de revaloración.
+- procedencia;
+- modo de ingesta;
+- objeto;
+- estado Umbral-X™;
+- estado SAN™;
+- delta global del evento;
+- relaciones con Issues, documentos y commits;
+- estado económico;
+- créditos de función asociados.
+
+### 3.2. Crédito de función
+
+El `NC-CR-*` reconoce trabajo atribuible dentro del evento.
 
 ```text
-DELTA NUEVO
-+ AUTORÍA / PROCEDENCIA
-+ TRAZA RECONSTRUIBLE
-= TOKEN DE TRAZA NEOCRONOS™ ASIGNADO
+NC-EVT-* = CONTENEDOR GENEALÓGICO DEL EVENTO
+NC-CR-*  = CRÉDITO DE TRAZA DE UNA FUNCIÓN ATRIBUIBLE
 ```
 
-### 2.2. Retorno económico
+No se asignan porcentajes económicos en esta fase. La traza registra qué hizo cada actor; una futura Economía del Aporte™ podrá valorar después las distintas funciones sin reescribir la historia.
 
-El token de traza **no genera automáticamente dinero, equity, criptomoneda, voto soberano ni derecho económico**.
+## 4. Fase manual actual
 
-Una eventual remuneración debe resolverse después mediante la Economía del Aporte™, MÉDICI™, ONes™, SAN™ u otros mecanismos que el marco valide, con respaldo material, reglas jurídicas/contables, disponibilidad de recursos y gobernanza específica.
+WEB4™ todavía no permite que toda persona entre directamente en la Síntesis y registre por sí misma fuentes, relaciones, deltas y tiempo de trabajo.
+
+Por ello, durante esta fase, gran parte de los aportes externos siguen este recorrido:
+
+```text
+SEÑAL EXTERNA
+→ NEO0™ LA VE O LA RECIBE
+→ NEO0™ DECIDE SI MERECE ENTRADA
+→ NEO0™ LA INTRODUCE MANUALMENTE
+→ NEO0™ LA RELACIONA CON EL CORPUS
+→ NEO0™ + IA PUEDEN CONTRASTARLA
+→ NEO0™ FIJA O ABRE EL DELTA
+```
+
+Cuando ese trabajo ocurre, debe registrarse.
+
+Esto **no es un impuesto del fundador** ni convierte a Neo0™ en coautor de la idea externa. Reconoce trabajo real de ingestión, curación, contextualización, relación, contraste y fijación que actualmente no realiza todavía la infraestructura automática.
+
+Cuando WEB4™ permita aportes directos, el modo podrá cambiar a:
+
+```text
+INGESTION_MODE = direct-web4
+```
+
+y la persona podrá ser ingestor y operador de su propio aporte sin intervención manual de Neo0™.
+
+Modos previstos:
+
+- `manual-neo0`;
+- `direct-web4`;
+- `api`;
+- `imported`;
+- `automated`.
+
+## 5. Caso correctivo · Asilomar
+
+La primera versión de esta rama creó erróneamente:
+
+`NC-2026-0005-JOSE-LUIS-CASAL-ASILOMAR`.
+
+Ese identificador queda **deprecado por atribución incorrecta**.
+
+La genealogía correcta es:
+
+```text
+JOSÉ LUIS CASAL
+→ autor/procedencia de una publicación vista en LinkedIn
+
+NEO0™
+→ descubre la publicación
+→ reconoce su relevancia
+→ introduce manualmente la información en SAN™
+→ establece la relación ASILOMAR ↔ MARCO
+→ abre el contraste
+→ produce y fija el delta relacional
+```
+
+Por tanto, el evento pasa a ser:
+
+`NC-EVT-2026-0005`.
+
+Créditos:
+
+- `NC-CR-2026-0005-A` · José Luis Casal · **source_originator** · crédito de procedencia, no autor del delta relacional;
+- `NC-CR-2026-0005-B` · Pedro Martínez Alhambra · Neo0™ · **discoverer + manual_ingestor + curator + relation_author + synthesis_operator + delta_author + fixation_operator**.
+
+La posterior formalización de RADAR-Π™ es otro evento porque constituye un delta distinto:
+
+`NC-EVT-2026-0006`.
+
+Así se preserva simultáneamente la fuente externa y el trabajo real que produjo la nueva relación.
+
+## 6. Regla aplicable a todos los aportes externos de esta fase
+
+El mismo criterio se aplica a Alfonso Calvo, David J. Gunkel, Hugo Roger Paz, feedback WEB4™, preguntas externas, correspondencia y futuras señales.
+
+Ejemplo general:
+
+```text
+AUTOR EXTERNO
+→ CRÍTICA / PREGUNTA / FUENTE ORIGINAL
+→ CRÉDITO POR ESA FUNCIÓN
+
+NEO0™
+→ RECEPCIÓN / DESCUBRIMIENTO
+→ INGESTA MANUAL
+→ CURACIÓN
+→ RELACIÓN CON EL MARCO
+→ APERTURA / FIJACIÓN DE SÍNTESIS
+→ CRÉDITO POR ESAS FUNCIONES
+
+IA NEODIALÉCTICA
+→ CONTRASTE / ESTRUCTURACIÓN / IMPLEMENTACIÓN CUANDO PROCEDA
+→ CRÉDITO POR ESAS FUNCIONES
+```
+
+La existencia de trabajo de Neo0™ dentro de un evento no reduce el crédito del autor externo por aquello que efectivamente aportó.
+
+## 7. Migración de los tokens planos existentes
+
+Los antiguos `NC-2026-0001...0009` quedan conservados en `contributions.json` como **historial de migración**, no como modelo activo.
+
+El caso Casal se marca específicamente `deprecated-misattribution`.
+
+Los demás se marcan `deprecated-flat-model`: no necesariamente eran falsos en cuanto al origen de la señal, pero eran incompletos porque reducían un evento multirrol a una sola atribución.
+
+```text
+CORREGIR GENEALOGÍA
+≠ BORRAR ERROR PREVIO
+
+CORREGIR GENEALOGÍA
+= CONSERVAR QUÉ SE ATRIBUYÓ
++ EXPLICAR POR QUÉ ERA INSUFICIENTE
++ FIJAR LA NUEVA RELACIÓN
+```
+
+## 8. Modelo mínimo de datos v0.3
+
+```text
+event_id                       # NC-EVT-*
+date
+ingestion_mode                 # manual-neo0 / direct-web4 / api / imported / automated
+source_url
+title.es
+title.en
+event_delta.es
+event_delta.en
+umbral_x
+san_state
+economic_state
+credits[]
+  credit_token_id              # NC-CR-*
+  actor
+  visibility
+  roles[]
+  work_es
+  work_en
+  token_state
+```
+
+En fases posteriores podrán añadirse:
+
+```text
+started_at
+ended_at
+neocronos_session
+source_references[]
+related_manifestos[]
+related_neoaxioms[]
+related_projects[]
+delta_commits[]
+assessment_history[]
+implementation_evidence[]
+economic_eligibility
+privacy_notes
+```
+
+## 9. Token de traza y economía siguen separados
+
+```text
+CRÉDITO / TOKEN DE TRAZA
+= RECONOCIMIENTO GENEALÓGICO
++ FUNCIÓN
++ TRABAJO DEMOSTRABLE
++ HISTORIAL
+
+RETORNO ECONÓMICO
+= CAPA POSTERIOR
++ VALORACIÓN
++ REGLAS
++ RESPALDO MATERIAL
++ LEGALIDAD / CONTABILIDAD
++ GOBERNANZA
+```
+
+Por tanto:
 
 ```text
 TOKEN DE TRAZA
@@ -70,103 +292,49 @@ TOKEN DE TRAZA
 ≠ RANGO HUMANO
 ≠ EURO AUTOMÁTICO
 ≠ EQUITY
-≠ ACTIVO FINANCIERO AUTOMÁTICO
 ```
 
-Esta separación permite cumplir la regla de tokenizar todo delta nuevo sin convertir una anotación genealógica en una promesa financiera.
+## 10. WEB4™ gamificada
 
-## 3. Genealogía: no fusionar aportantes distintos
+WEB4™ debe representar el **evento completo** y permitir desplegar sus créditos internos.
 
-NeoCronos™ mantiene separadas las aportaciones aunque hayan llegado al mismo Issue o hayan producido una síntesis conjunta.
+Una tarjeta puede mostrar:
 
-David J. Gunkel y Hugo Roger Paz conservan registros distintos aunque compartan #132. La publicación de José Luis Casal sobre Asilomar y la posterior formalización de RADAR-Π™ por Neo0™ son dos aportes relacionados, no una única autoría.
+1. evento `NC-EVT-*`;
+2. título y fecha;
+3. modo de ingesta;
+4. delta del evento;
+5. Umbral-X™ y SAN™;
+6. actores participantes;
+7. funciones de cada actor;
+8. créditos `NC-CR-*`;
+9. fuente original;
+10. Issue, documento y commits;
+11. revaloraciones;
+12. estado económico separado.
 
-También se diferencia una **fuente externa** de la persona que la introduce en el sistema. La documentación NRO sobre SENTIENT puede ser fuente primaria; el acto de traerla al marco, relacionarla y abrir un nuevo caso RADAR-Π™ constituye otro nivel de aporte.
+La gamificación no puede convertir un único número en medida de dignidad, autoridad o verdad.
+
+## 11. Regla de auditoría retrospectiva
+
+Para cualquier caso antiguo:
 
 ```text
-MISMO ISSUE ≠ MISMA AUTORÍA
-MISMA SÍNTESIS ≠ MISMO APORTE
-FUENTE EXTERNA ≠ APORTANTE HUMANO
-SEÑAL DISPARADORA ≠ DELTA DERIVADO
+¿QUÉ EXISTÍA ANTES?
++ ¿QUIÉN ORIGINÓ LA SEÑAL?
++ ¿QUIÉN LA DESCUBRIÓ O RECIBIÓ?
++ ¿QUIÉN LA INTRODUJO?
++ ¿QUIÉN ESTABLECIÓ LA RELACIÓN?
++ ¿QUIÉN HIZO EL CONTRASTE?
++ ¿QUIÉN PRODUJO EL DELTA?
++ ¿QUIÉN LO IMPLEMENTÓ?
++ ¿QUIÉN LO FIJÓ?
+= EVENTO + CRÉDITOS DE FUNCIÓN
 ```
 
-## 4. Primer registro público reconstruido
+Si una función no puede demostrarse, no se atribuye.
 
-Los siguientes tokens de traza quedan asignados en la rama de implementación:
-
-| Token de traza | Aportante / procedencia | Entrada | Delta reconocido | Estado económico |
-|---|---|---|---|---|
-| `NC-2026-0001-ALFONSO-CALVO` | Alfonso Calvo Orra | [#140](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/140) | accesibilidad, onboarding, navegación y mediación; además obliga a precisar SAN™, Leónidas™, Neo0™ y capa π | no emitido |
-| `NC-2026-0002-DAVID-GUNKEL` | David J. Gunkel | [#132](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/132) | agencia distribuida, meaningful human control, supervisión y responsabilidad sociotécnica como contraste explícito | no emitido |
-| `NC-2026-0003-HUGO-ROGER-PAZ` | Hugo Roger Paz | [#132](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/132) | feedback loops, path dependence, efectos no intencionados, fallos emergentes y memoria temporal como stress-test | no emitido |
-| `NC-2026-0004-WEB4-FEEDBACK` | feedback externo agregado · identidad privada | [#133](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/133) | priorización de WEB4™ como espacio habitable, educativo, creativo y por especialidades; recuperación de diseño previo | no emitido |
-| `NC-2026-0005-JOSE-LUIS-CASAL-ASILOMAR` | José Luis Casal | [#136](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136) | señal Asilomar que dispara la búsqueda sistemática de antecedentes proto-neodialécticos | no emitido |
-| `NC-2026-0006-NEO0-RADAR-PI` | Pedro Martínez Alhambra · Neo0™ | [#137](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/137) | formalización de RADAR-Π™ y barrido negativo de antecedentes, convergencias y falsos paralelos | no emitido |
-| `NC-2026-0007-NEO0-SENTIENT-SIGNAL` | Neo0™ + fuentes NRO | [#139](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/139) | apertura del segundo caso RADAR-Π™; el token reconoce abrir el caso, no valida equivalencia con NEOCore™ | no emitido |
-| `NC-2026-0008-HOJAS-CARCOMIDAS` | Neo0™ + IA Neodialéctica Harry | [#134](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/134) · [#135](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/135) | LXXV + C-NAX-22 · Memoria Material-Relacional™ | no emitido |
-| `NC-2026-0009-ANONYMOUS-TM-QUESTION` | pregunta pública anonimizada | [#53](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/53) | definición explícita de ™ como marcador de denominación y trazabilidad, no de verdad o inmunidad crítica | no emitido |
-
-La numeración `NC-*` describe el orden del **registro reconstruido**, no pretende afirmar que éstos sean los primeros aportes cronológicos absolutos de toda la historia del marco.
-
-## 5. Auditoría retrospectiva obligatoria
-
-Debe continuarse el barrido de documentos, Issues, conversaciones públicas, correspondencia privada, revisiones, auditorías y commits para localizar aportes anteriores con delta atribuible.
-
-Cada caso debe responder:
-
-1. ¿qué existía antes del aporte?;
-2. ¿quién o qué introdujo la señal?;
-3. ¿qué cambió después?;
-4. ¿puede reconstruirse un vínculo material entre ambos?;
-5. ¿el cambio fue realmente nuevo o recuperó un diseño anterior?;
-6. ¿qué autorías deben permanecer separadas?;
-7. ¿qué puede publicarse y qué debe quedar privado o anonimizado?;
-8. ¿qué estado SAN™ y Umbral-X™ corresponde?;
-9. ¿qué Issue, documento o commit fija el delta?;
-10. ¿existe retorno económico o sólo token de traza por ahora?
-
-```text
-ESTADO ANTES
-+ APORTE ATRIBUIBLE
-+ CAMBIO POSTERIOR
-+ RELACIÓN RECONSTRUIBLE
-= DELTA DEMOSTRABLE
-→ TOKEN DE TRAZA
-```
-
-Si la genealogía no puede demostrarse, no se inventa un token retrospectivo.
-
-## 6. Modelo mínimo de datos
-
-```text
-contribution_id
-token_id
-token_state                   # assigned-trace
-contributor_name
-contributor_visibility        # public / anonymous / private
-source_type                   # external-human / external-source / internal-human / human-ai
-source_reference
-received_at
-public_issue
-scope
-neocronos_trace
-umbral_x_state
-san_state
-accepted_components[]
-conditional_components[]
-rejected_components[]
-open_components[]
-related_manifestos[]
-related_neoaxioms[]
-related_projects[]
-delta_description
-delta_commits[]
-implementation_status
-economic_state                # not-issued / pending-governance / issued
-assessment_history[]
-credits
-privacy_notes
-```
+## 12. Fuente de trazabilidad
 
 Durante esta fase:
 
@@ -174,158 +342,285 @@ Durante esta fase:
 ISSUE = ENTRADA Y CONTRASTE
 DOCUMENTO = SÍNTESIS VERSIONADA
 COMMIT = FIJACIÓN Y DELTA
-WEB4™ = VISUALIZACIÓN + INTERACCIÓN + JUEGO
+NEOCRONOS™ = EVENTO + CRÉDITOS + TIEMPO + GENEALOGÍA
+WEB4™ = EXPERIENCIA / JUEGO / VISUALIZACIÓN
 ```
-
-## 7. Valoración gamificada
-
-WEB4™ debe mostrar el aporte como una jugada trazable. La estética puede ser intensamente lúdica; la mecánica de valor no debe transformarse en economía de atención.
-
-Se pueden mostrar señales separadas y explicables:
-
-- retorno a fuente;
-- comprensión reconstruible;
-- evidencia aportada;
-- contradicción fértil;
-- relación nueva detectada;
-- originalidad;
-- utilidad;
-- delta aceptado;
-- implementación producida;
-- reparación lograda;
-- enseñanza útil;
-- capacidad de revisión;
-- estado SAN™;
-- token de traza;
-- estado económico separado.
-
-```text
-PUNTOS / INSIGNIAS / NIVELES
-≠ VERDAD
-≠ SOBERANÍA
-≠ DIGNIDAD
-≠ RANGO HUMANO
-
-GAMIFICACIÓN LEGÍTIMA
-= APRENDIZAJE
-+ APORTE
-+ RETORNO A FUENTE
-+ EVIDENCIA
-+ CONTRADICCIÓN FÉRTIL
-+ DELTA
-+ REVISIÓN
-```
-
-Una crítica radical bien fundada puede generar más reconocimiento que una aprobación vacía.
-
-## 8. Flujo WEB4™
-
-```text
-[ENTRAR EN SÍNTESIS]
-        ↓
-[COMENZAR APORTE]
-        ↓
-NEOCRONOS™ ABRE SESIÓN
-        ↓
-LEER / CONTRASTAR / CREAR / REPARAR
-        ↓
-FUENTES + EVIDENCIAS + RELACIONES + DELTAS
-        ↓
-SAN™ CONTRASTA
-        ↓
-DELTA DEMOSTRABLE
-        ↓
-TOKEN DE TRAZA NC-* ASIGNADO
-        ↓
-ISSUE + DOCUMENTO + COMMIT
-        ↓
-WEB4™ ACTUALIZA LA PARTIDA
-        ↓
-RETORNO ECONÓMICO, SI PROCEDE, BAJO GOBERNANZA SEPARADA
-```
-
-Todo elemento visible debe permitir regresar a la fuente que lo justifica.
-
-## 9. Salvaguardas
-
-1. GitHub permanece como fuente pública de trazabilidad durante esta fase.
-2. WEB4™ es la capa viva y gamificada sobre esa genealogía.
-3. NeoCronos™ registra; SAN™ contrasta; ninguna puntuación se corona como verdad.
-4. La autoría no se borra porque una propuesta sea rechazada parcialmente.
-5. La privacidad puede exigir registro privado o anonimizado.
-6. Token de traza y pago son capas distintas.
-7. No se diseñarán rachas compulsivas, FOMO, loot boxes, multiplicadores opacos ni rankings de dignidad humana.
-8. Esta capa no aumenta por sí sola la versión de NEOCore™.
-
-## 10. Relaciones canónicas
-
-- [II · Síntesis Abierta Neodialéctica™](../../manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md)
-- [VII · Economía del Aporte™](../../manifiestos/04_economia_del_aporte_ES_EN.md)
-- [XX · Umbral-X™](../../manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
-- [LIII · Leónidas™](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
-- [LXIV · NeoCronos™](../../manifiestos/64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md)
-- [LXV · NeoJuego™](../../manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
-- [Neoaxiomas™](../../neoaxiomas/README.md)
-- [WEB4™](../../web4/README.md)
-- [Síntesis NeoCronos™ · #107](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/107)
-- [Primer aporte evaluado WEB4™ · #140](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/140)
-- [Rama de aportes tokenizados · #141](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/141)
-- [Auditoría retrospectiva · #142](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/142)
 
 ---
 
 # EN · English
 
-## 1. Nature of this branch
+## 1. Correction of the previous model
 
-This branch **does not create a new NEOCore™ principle or raise its version**. It materialises an implementation and ledger layer already anticipated by LXIV · NeoCronos™ and LXV · NeoGame™.
-
-LXIV establishes measurement and preservation of trace from the moment a contribution begins. LXV turns Open Synthesis into a playable space where the contribution is the move and genealogy preserves who contributed what.
-
-The new layer adds three concrete functions:
-
-1. retrospective recording of earlier contributions;
-2. immediate assignment of a **NeoCronos™ trace token** when new synthesis and a demonstrable attributable delta exist;
-3. gamified projection of valuation and genealogy in WEB4™.
+The first implementation in this branch used a flat model:
 
 ```text
-LXIV · NEOCRONOS™ = MEASUREMENT + TIME + TRACE
-LXV · NEOGAME™ = MOVE + CONTRIBUTION + COMMON GOOD
-THIS BRANCH = LEDGER + TRACE TOKEN + WEB4 + GITHUB BRIDGE
+ONE CONTRIBUTION
+→ ONE CONTRIBUTOR
+→ ONE TOKEN
 ```
 
-## 2. Two distinct tokenisation layers
+That model is insufficient and is replaced.
 
-The word **tokenisation** must separate two levels to avoid confusing recognition with money.
+A Synthesis event may contain several functions performed by different people. The person publishing information may not be the person who discovers its relation with the framework; the person discovering the relation may not be the implementation operator; and an AI may assist scrutiny without thereby becoming the human origin of the delta.
 
-### 2.1. NeoCronos™ Trace Token
+The correct unit becomes:
 
-Every attributable contribution that produces **new synthesis and a demonstrable delta** receives an `NC-*` identifier.
+```text
+CONTRIBUTION EVENT
+→ SOURCE / PROVENANCE
+→ DISCOVERY OR RECEPTION
+→ INGESTION
+→ CURATION
+→ RELATION
+→ CONTRADICTION / SCRUTINY
+→ SYNTHESIS
+→ DELTA
+→ IMPLEMENTATION
+→ FIXATION
+```
 
-That token records:
+Each attributable function preserves its own trace.
 
-- authorship or provenance;
-- source;
+## 2. Fundamental authorship rule
+
+> **The provenance of a signal does not by itself determine authorship of the delta.**
+
+NeoCronos™ must distinguish, where they exist:
+
+- `source_originator` · author/provenance of the original signal or material;
+- `discoverer` · person who finds the signal and recognises possible relevance;
+- `receiver` · person receiving a contribution addressed to the system;
+- `manual_ingestor` · person manually introducing the contribution into the system;
+- `curator` · person selecting, contextualising and preparing the material;
+- `relation_author` · person establishing a new relation between signal and corpus;
+- `contradiction_author` · person formulating an objection, tension or counterexample;
+- `synthesis_operator` · person carrying out scrutiny and recomposition work;
+- `delta_author` · person originating the demonstrable conceptual or functional change;
+- `implementation_operator` · person technically materialising the change;
+- `fixation_operator` · person documentarily or technically fixing the new trace.
+
+```text
+SOURCE
+≠ DISCOVERER
+≠ INGESTOR
+≠ RELATION AUTHOR
+≠ DELTA AUTHOR
+≠ IMPLEMENTER
+```
+
+One person may occupy several functions. Several people may intervene in the same event. Neither situation authorises erasure of the other genealogies.
+
+## 3. Event and trace credits
+
+NeoCronos™ v0.3 separates:
+
+### 3.1. Event
+
+The `NC-EVT-*` identifies the complete contribution-and-transformation event.
+
+The event preserves:
+
 - date;
-- contributed object;
-- scrutiny state;
-- delta produced;
-- relations with the corpus;
-- derived commits or documents;
-- reassessment history.
+- provenance;
+- ingestion mode;
+- object;
+- Umbral-X™ state;
+- SAN™ state;
+- global event delta;
+- relations with Issues, documents and commits;
+- economic state;
+- associated role credits.
+
+### 3.2. Role credit
+
+The `NC-CR-*` recognises attributable work inside the event.
 
 ```text
-NEW DELTA
-+ AUTHORSHIP / PROVENANCE
-+ RECONSTRUCTIBLE TRACE
-= NEOCRONOS™ TRACE TOKEN ASSIGNED
+NC-EVT-* = GENEALOGICAL EVENT CONTAINER
+NC-CR-*  = TRACE CREDIT FOR AN ATTRIBUTABLE FUNCTION
 ```
 
-### 2.2. Economic return
+No economic percentages are assigned at this stage. Trace records what each actor did; a future Contribution Economy™ may later value different functions without rewriting history.
 
-The trace token **does not automatically generate money, equity, cryptocurrency, sovereign vote or economic entitlement**.
+## 4. Current manual phase
 
-Any remuneration must later be resolved through the Contribution Economy™, MÉDICI™, ONes™, SAN™ or other mechanisms validated by the framework, with material backing, legal/accounting rules, resource availability and specific governance.
+WEB4™ does not yet allow every person to enter Synthesis directly and independently record sources, relations, deltas and working time.
+
+Therefore, during this phase, many external contributions follow this path:
+
+```text
+EXTERNAL SIGNAL
+→ NEO0™ SEES OR RECEIVES IT
+→ NEO0™ DECIDES WHETHER IT MERITS ENTRY
+→ NEO0™ MANUALLY INGESTS IT
+→ NEO0™ RELATES IT TO THE CORPUS
+→ NEO0™ + AI MAY SCRUTINISE IT
+→ NEO0™ FIXES OR OPENS THE DELTA
+```
+
+When this work occurs, it must be recorded.
+
+This is **not a founder tax** and does not make Neo0™ co-author of the external idea. It recognises real ingestion, curation, contextualisation, relation, scrutiny and fixation work that the automated infrastructure does not yet perform.
+
+When WEB4™ supports direct contributions, the mode may become:
+
+```text
+INGESTION_MODE = direct-web4
+```
+
+and the person may become ingestor and operator of their own contribution without manual Neo0™ intervention.
+
+Planned modes:
+
+- `manual-neo0`;
+- `direct-web4`;
+- `api`;
+- `imported`;
+- `automated`.
+
+## 5. Corrective case · Asilomar
+
+The first branch version incorrectly created:
+
+`NC-2026-0005-JOSE-LUIS-CASAL-ASILOMAR`.
+
+That identifier is **deprecated for incorrect attribution**.
+
+The correct genealogy is:
+
+```text
+JOSÉ LUIS CASAL
+→ author/provenance of a publication seen on LinkedIn
+
+NEO0™
+→ discovers the publication
+→ recognises its relevance
+→ manually introduces the information into SAN™
+→ establishes the ASILOMAR ↔ FRAMEWORK relation
+→ opens scrutiny
+→ produces and fixes the relational delta
+```
+
+Therefore, the event becomes:
+
+`NC-EVT-2026-0005`.
+
+Credits:
+
+- `NC-CR-2026-0005-A` · José Luis Casal · **source_originator** · provenance credit, not author of the relational delta;
+- `NC-CR-2026-0005-B` · Pedro Martínez Alhambra · Neo0™ · **discoverer + manual_ingestor + curator + relation_author + synthesis_operator + delta_author + fixation_operator**.
+
+The later formalisation of RADAR-Π™ is another event because it constitutes a distinct delta:
+
+`NC-EVT-2026-0006`.
+
+This simultaneously preserves the external source and the actual work producing the new relation.
+
+## 6. Rule applying to all external contributions in this phase
+
+The same criterion applies to Alfonso Calvo, David J. Gunkel, Hugo Roger Paz, WEB4™ feedback, external questions, correspondence and future signals.
+
+General example:
+
+```text
+EXTERNAL AUTHOR
+→ ORIGINAL CRITICISM / QUESTION / SOURCE
+→ CREDIT FOR THAT FUNCTION
+
+NEO0™
+→ RECEPTION / DISCOVERY
+→ MANUAL INGESTION
+→ CURATION
+→ RELATION WITH THE FRAMEWORK
+→ OPENING / FIXING SYNTHESIS
+→ CREDIT FOR THOSE FUNCTIONS
+
+NEODIALECTICAL AI
+→ SCRUTINY / STRUCTURING / IMPLEMENTATION WHERE APPLICABLE
+→ CREDIT FOR THOSE FUNCTIONS
+```
+
+The existence of Neo0™ work inside an event does not reduce the external author's credit for what they actually contributed.
+
+## 7. Migration of existing flat tokens
+
+The former `NC-2026-0001...0009` identifiers are preserved in `contributions.json` as **migration history**, not as the active model.
+
+The Casal case is specifically marked `deprecated-misattribution`.
+
+The others are marked `deprecated-flat-model`: they were not necessarily false regarding signal origin, but they were incomplete because they reduced a multi-role event to one attribution.
+
+```text
+CORRECTING GENEALOGY
+≠ ERASING THE PREVIOUS ERROR
+
+CORRECTING GENEALOGY
+= PRESERVING WHAT WAS ATTRIBUTED
++ EXPLAINING WHY IT WAS INSUFFICIENT
++ FIXING THE NEW RELATION
+```
+
+## 8. Minimum data model v0.3
+
+```text
+event_id                       # NC-EVT-*
+date
+ingestion_mode                 # manual-neo0 / direct-web4 / api / imported / automated
+source_url
+title.es
+title.en
+event_delta.es
+event_delta.en
+umbral_x
+san_state
+economic_state
+credits[]
+  credit_token_id              # NC-CR-*
+  actor
+  visibility
+  roles[]
+  work_es
+  work_en
+  token_state
+```
+
+Later phases may add:
+
+```text
+started_at
+ended_at
+neocronos_session
+source_references[]
+related_manifestos[]
+related_neoaxioms[]
+related_projects[]
+delta_commits[]
+assessment_history[]
+implementation_evidence[]
+economic_eligibility
+privacy_notes
+```
+
+## 9. Trace token and economy remain separate
+
+```text
+TRACE CREDIT / TOKEN
+= GENEALOGICAL RECOGNITION
++ FUNCTION
++ DEMONSTRABLE WORK
++ HISTORY
+
+ECONOMIC RETURN
+= LATER LAYER
++ VALUATION
++ RULES
++ MATERIAL BACKING
++ LEGALITY / ACCOUNTING
++ GOVERNANCE
+```
+
+Therefore:
 
 ```text
 TRACE TOKEN
@@ -334,103 +629,49 @@ TRACE TOKEN
 ≠ HUMAN RANK
 ≠ AUTOMATIC EURO
 ≠ EQUITY
-≠ AUTOMATIC FINANCIAL ASSET
 ```
 
-This separation makes it possible to comply with the rule of tokenising every new delta without turning a genealogical record into a financial promise.
+## 10. Gamified WEB4™
 
-## 3. Genealogy: do not merge distinct contributors
+WEB4™ must represent the **complete event** and allow its internal credits to be expanded.
 
-NeoCronos™ keeps contributions separate even when they reached the same Issue or produced a joint synthesis.
+A card may display:
 
-David J. Gunkel and Hugo Roger Paz retain separate records even though both share #132. José Luis Casal's publication about Asilomar and the later formalisation of RADAR-Π™ by Neo0™ are two related contributions, not a single authorship.
+1. `NC-EVT-*` event;
+2. title and date;
+3. ingestion mode;
+4. event delta;
+5. Umbral-X™ and SAN™;
+6. participating actors;
+7. each actor's functions;
+8. `NC-CR-*` credits;
+9. original source;
+10. Issue, document and commits;
+11. reassessments;
+12. separate economic state.
 
-An **external source** is also distinguished from the person introducing it into the system. NRO documentation about SENTIENT may be a primary source; the act of bringing it into the framework, relating it and opening a new RADAR-Π™ case constitutes another contribution level.
+Gamification must not turn a single number into a measure of dignity, authority or truth.
+
+## 11. Retrospective audit rule
+
+For every historical case:
 
 ```text
-SAME ISSUE ≠ SAME AUTHORSHIP
-SAME SYNTHESIS ≠ SAME CONTRIBUTION
-EXTERNAL SOURCE ≠ HUMAN CONTRIBUTOR
-TRIGGER SIGNAL ≠ DERIVED DELTA
+WHAT EXISTED BEFORE?
++ WHO ORIGINATED THE SIGNAL?
++ WHO DISCOVERED OR RECEIVED IT?
++ WHO INGESTED IT?
++ WHO ESTABLISHED THE RELATION?
++ WHO PERFORMED SCRUTINY?
++ WHO PRODUCED THE DELTA?
++ WHO IMPLEMENTED IT?
++ WHO FIXED IT?
+= EVENT + ROLE CREDITS
 ```
 
-## 4. First reconstructed public ledger
+If a function cannot be demonstrated, it is not attributed.
 
-The following trace tokens are assigned in the implementation branch:
-
-| Trace token | Contributor / provenance | Entry | Recognised delta | Economic state |
-|---|---|---|---|---|
-| `NC-2026-0001-ALFONSO-CALVO` | Alfonso Calvo Orra | [#140](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/140) | accessibility, onboarding, navigation and mediation; also forces clarification of SAN™, Leónidas™, Neo0™ and layer π | not issued |
-| `NC-2026-0002-DAVID-GUNKEL` | David J. Gunkel | [#132](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/132) | distributed agency, meaningful human control, oversight and sociotechnical responsibility as explicit scrutiny | not issued |
-| `NC-2026-0003-HUGO-ROGER-PAZ` | Hugo Roger Paz | [#132](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/132) | feedback loops, path dependence, unintended effects, emergent failures and temporal memory as a stress test | not issued |
-| `NC-2026-0004-WEB4-FEEDBACK` | aggregated external feedback · private identity | [#133](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/133) | prioritisation of WEB4™ as a habitable, educational, creative and speciality-based space; recovery of prior design | not issued |
-| `NC-2026-0005-JOSE-LUIS-CASAL-ASILOMAR` | José Luis Casal | [#136](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136) | Asilomar signal triggering systematic search for proto-neodialectical antecedents | not issued |
-| `NC-2026-0006-NEO0-RADAR-PI` | Pedro Martínez Alhambra · Neo0™ | [#137](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/137) | formalisation of RADAR-Π™ and negative scanning of antecedents, convergences and false parallels | not issued |
-| `NC-2026-0007-NEO0-SENTIENT-SIGNAL` | Neo0™ + NRO sources | [#139](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/139) | opening of the second RADAR-Π™ case; the token recognises opening the case, not equivalence with NEOCore™ | not issued |
-| `NC-2026-0008-HOJAS-CARCOMIDAS` | Neo0™ + Neodialectical AI Harry | [#134](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/134) · [#135](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/135) | LXXV + C-NAX-22 · Material-Relational Memory™ | not issued |
-| `NC-2026-0009-ANONYMOUS-TM-QUESTION` | anonymised public question | [#53](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/53) | explicit definition of ™ as a naming and traceability marker, not truth or immunity from criticism | not issued |
-
-The `NC-*` numbering describes the order of the **reconstructed ledger**; it does not claim that these are the earliest absolute chronological contributions in the entire history of the framework.
-
-## 5. Mandatory retrospective audit
-
-The scan of documents, Issues, public conversations, private correspondence, reviews, audits and commits must continue to locate earlier contributions with attributable delta.
-
-Each case must answer:
-
-1. what existed before the contribution?;
-2. who or what introduced the signal?;
-3. what changed afterwards?;
-4. can a material link between both be reconstructed?;
-5. was the change genuinely new or did it recover earlier design?;
-6. which authorships must remain separate?;
-7. what may be public and what must remain private or anonymised?;
-8. which SAN™ and Umbral-X™ state applies?;
-9. which Issue, document or commit fixes the delta?;
-10. does economic return exist, or only a trace token for now?
-
-```text
-STATE BEFORE
-+ ATTRIBUTABLE CONTRIBUTION
-+ LATER CHANGE
-+ RECONSTRUCTIBLE RELATION
-= DEMONSTRABLE DELTA
-→ TRACE TOKEN
-```
-
-If genealogy cannot be demonstrated, no retrospective token is invented.
-
-## 6. Minimum data model
-
-```text
-contribution_id
-token_id
-token_state                   # assigned-trace
-contributor_name
-contributor_visibility        # public / anonymous / private
-source_type                   # external-human / external-source / internal-human / human-ai
-source_reference
-received_at
-public_issue
-scope
-neocronos_trace
-umbral_x_state
-san_state
-accepted_components[]
-conditional_components[]
-rejected_components[]
-open_components[]
-related_manifestos[]
-related_neoaxioms[]
-related_projects[]
-delta_description
-delta_commits[]
-implementation_status
-economic_state                # not-issued / pending-governance / issued
-assessment_history[]
-credits
-privacy_notes
-```
+## 12. Traceability source
 
 During this phase:
 
@@ -438,100 +679,6 @@ During this phase:
 ISSUE = ENTRY AND SCRUTINY
 DOCUMENT = VERSIONED SYNTHESIS
 COMMIT = FIXATION AND DELTA
-WEB4™ = VISUALISATION + INTERACTION + GAME
+NEOCRONOS™ = EVENT + CREDITS + TIME + GENEALOGY
+WEB4™ = EXPERIENCE / GAME / VISUALISATION
 ```
-
-## 7. Gamified valuation
-
-WEB4™ must display the contribution as a traceable move. The aesthetic may be intensely game-like; the value mechanics must not become an attention economy.
-
-Separate and explainable signals may include:
-
-- return to source;
-- reconstructible understanding;
-- evidence contributed;
-- fertile contradiction;
-- new relation detected;
-- originality;
-- utility;
-- accepted delta;
-- implementation produced;
-- repair achieved;
-- useful teaching;
-- capacity to revise;
-- SAN™ state;
-- trace token;
-- separate economic state.
-
-```text
-POINTS / BADGES / LEVELS
-≠ TRUTH
-≠ SOVEREIGNTY
-≠ DIGNITY
-≠ HUMAN RANK
-
-LEGITIMATE GAMIFICATION
-= LEARNING
-+ CONTRIBUTION
-+ RETURN TO SOURCE
-+ EVIDENCE
-+ FERTILE CONTRADICTION
-+ DELTA
-+ REVISION
-```
-
-A well-founded radical criticism may generate more recognition than empty approval.
-
-## 8. WEB4™ flow
-
-```text
-[ENTER SYNTHESIS]
-        ↓
-[BEGIN CONTRIBUTION]
-        ↓
-NEOCRONOS™ OPENS SESSION
-        ↓
-READ / SCRUTINISE / CREATE / REPAIR
-        ↓
-SOURCES + EVIDENCE + RELATIONS + DELTAS
-        ↓
-SAN™ SCRUTINISES
-        ↓
-DEMONSTRABLE DELTA
-        ↓
-NC-* TRACE TOKEN ASSIGNED
-        ↓
-ISSUE + DOCUMENT + COMMIT
-        ↓
-WEB4™ UPDATES THE GAME
-        ↓
-ECONOMIC RETURN, IF APPLICABLE, UNDER SEPARATE GOVERNANCE
-```
-
-Every visible element must allow return to the source that justifies it.
-
-## 9. Safeguards
-
-1. GitHub remains the public traceability source during this phase.
-2. WEB4™ is the living, gamified layer over that genealogy.
-3. NeoCronos™ records; SAN™ scrutinises; no score is crowned as truth.
-4. Authorship is not erased because a proposal is partially rejected.
-5. Privacy may require a private or anonymised record.
-6. Trace token and payment are separate layers.
-7. Compulsive streaks, FOMO, loot boxes, opaque multipliers and rankings of human dignity will not be designed.
-8. This layer does not by itself increase the NEOCore™ version.
-
-## 10. Canonical relations
-
-- [II · Neodialectical Open Synthesis™](../../manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md)
-- [VII · Contribution Economy™](../../manifiestos/04_economia_del_aporte_ES_EN.md)
-- [XX · Umbral-X™](../../manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)
-- [LIII · Leónidas™](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
-- [LXIV · NeoCronos™](../../manifiestos/64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md)
-- [LXV · NeoGame™](../../manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md)
-- [Neoaxioms™](../../neoaxiomas/README.md)
-- [WEB4™](../../web4/README.md)
-- [NeoCronos™ Synthesis · #107](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/107)
-- [First WEB4™ evaluated contribution · #140](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/140)
-- [Tokenised contribution branch · #141](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/141)
-- [Retrospective audit · #142](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/142)
