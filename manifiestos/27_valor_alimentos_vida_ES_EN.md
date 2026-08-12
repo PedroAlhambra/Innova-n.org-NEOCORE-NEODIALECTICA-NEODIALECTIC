@@ -237,7 +237,14 @@ Recovering the table does not mean imposing one family or tradition. It means re
 
 Food systems depend upon networks connecting production, storage, weather, water, energy, transport, markets, administrations, consumers and emergencies.
 
-These capacities are underused when extractors restrict essential data, conceal prices or availability, block interoperability, maintain inadequate rural connectivity, concentrate logistics information or prevent surplus from reaching need.
+These capacities are underused when extractors:
+
+* restrict essential data;
+* conceal prices, margins or availability;
+* block interoperability;
+* maintain inadequate rural connectivity;
+* concentrate logistics information;
+* or prevent surplus from being connected with needs.
 
 ```text
 EXISTING CAPACITY

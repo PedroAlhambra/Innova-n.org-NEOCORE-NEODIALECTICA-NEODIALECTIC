@@ -332,7 +332,18 @@ POSTHUMOUS APPROPRIATION
 
 Preserving archives after destroying the creator is insufficient.
 
-Protection must act while the person can still create through verifiable precedence, dates, versions, commits and SHA, explicit attribution, human claims channels, protection against discrediting campaigns, minimum subsistence and proportional return, legal and technical support, archive preservation, protection of cognitive time and separation between criticism of work and destruction of person.
+Protection must act while the person can still create through:
+
+* verifiable precedence;
+* dates, versions, commits and SHA;
+* explicit attribution;
+* human claims channels;
+* protection against discrediting campaigns;
+* minimum subsistence and proportional return;
+* legal and technical support;
+* archive preservation;
+* protection of cognitive time;
+* and separation between criticism of work and destruction of person.
 
 A commit provides public traceability. It neither replaces human authority nor by itself guarantees the creator's survival.
 

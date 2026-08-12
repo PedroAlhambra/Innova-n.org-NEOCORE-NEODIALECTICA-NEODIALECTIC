@@ -305,7 +305,16 @@ Technique does not remove moral direction. It conceals it when refusing to decla
 
 ## V. Sacrifices to the idol
 
-Monetary idolatry normalises destroyed health, families without time, abandoned vocations, degraded territories, industrialised animals, wasted food, dispossessed creators and indebted future generations.
+Monetary idolatry normalises:
+
+* health destroyed to preserve employment;
+* families without time;
+* vocations abandoned for lack of profitability;
+* degraded territories;
+* industrialised animals;
+* wasted food;
+* dispossessed creators;
+* and indebted future generations.
 
 A civilisation continuously sacrificing people to money has not overcome idolatry. It has only renamed the altar.
 
