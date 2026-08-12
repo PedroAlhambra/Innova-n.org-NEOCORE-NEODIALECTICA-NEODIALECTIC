@@ -1,5 +1,6 @@
 name: fix-manifesto-parity-20260809
 
+# Reejecución 2026-08-12: la paridad estructural ES/EN pasa a ser requisito estricto, sin compresiones.
 on:
   workflow_dispatch:
   push:
