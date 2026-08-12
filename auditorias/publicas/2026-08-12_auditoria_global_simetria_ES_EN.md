@@ -9,7 +9,7 @@
 
 - Markdown activo examinado / Active Markdown scanned: **284**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **205**.
-- Fallos estructurales divididos / Split structural failures: **126**.
+- Fallos estructurales divididos / Split structural failures: **121**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **23**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -202,225 +202,32 @@
 - `auditorias/publicas/README.md` · ES=691 · EN=79 · ratio=0.11
   - volumen EN/ES=0.11 (79/691)
   - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, ''), (2, ''), (2, ''), (2, '')] EN=[]
-- `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · ES=1606 · EN=1545 · ratio=0.96
-  - I: lists ES=13 EN=7
-  - II: párrafos ES=3 EN=4
-  - III: lists ES=10 EN=0
-  - III: párrafos ES=4 EN=5
-  - V: lists ES=9 EN=0
+- `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · ES=1606 · EN=1537 · ratio=0.96
   - V: párrafos ES=4 EN=3
-  - VI: párrafos ES=4 EN=3
-  - VIII: párrafos ES=4 EN=3
-  - IX: lists ES=8 EN=0
-  - IX: párrafos ES=4 EN=3
-  - XI: lists ES=6 EN=0
-  - XII: párrafos ES=5 EN=3
-  - XIII: lists ES=10 EN=0
-  - XV: lists ES=18 EN=5
-- `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` · ES=1822 · EN=1801 · ratio=0.99
-  - XII: párrafos ES=5 EN=6
-- `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` · ES=1824 · EN=1833 · ratio=1.00
-  - Invocación: párrafos ES=16 EN=7
-  - I: lists ES=17 EN=0
-  - IV: párrafos ES=10 EN=6
-  - V: párrafos ES=8 EN=5
-  - VI: lists ES=2 EN=0
-  - VI: párrafos ES=11 EN=6
-  - VIII: párrafos ES=7 EN=5
-  - IX: párrafos ES=9 EN=5
-  - X: párrafos ES=6 EN=4
-  - XI: párrafos ES=14 EN=7
-  - XII: lists ES=10 EN=0
-  - XVI: lists ES=17 EN=3
-- `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · ES=1545 · EN=1512 · ratio=0.98
-  - I: lists ES=12 EN=0
-  - II: párrafos ES=5 EN=4
-  - III: párrafos ES=8 EN=6
-  - IV: lists ES=7 EN=0
-  - V: párrafos ES=13 EN=8
-  - VI: párrafos ES=9 EN=4
-  - VII: párrafos ES=8 EN=7
+- `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` · ES=1822 · EN=1789 · ratio=0.98
+  - XII: lists ES=17 EN=4
+  - XII: párrafos ES=5 EN=4
+- `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · ES=1545 · EN=1523 · ratio=0.99
   - VIII: párrafos ES=8 EN=6
-  - IX: párrafos ES=9 EN=6
-  - X: párrafos ES=14 EN=4
-  - XI: párrafos ES=5 EN=4
-  - XIV: lists ES=8 EN=0
-  - XVII: lists ES=15 EN=3
-- `manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md` · ES=1687 · EN=1687 · ratio=1.00
-  - I: párrafos ES=13 EN=10
-  - III: párrafos ES=13 EN=7
-  - IV: párrafos ES=15 EN=10
-  - V: lists ES=12 EN=0
-  - V: párrafos ES=7 EN=5
-  - VI: párrafos ES=13 EN=8
-  - VII: párrafos ES=11 EN=6
-  - VIII: párrafos ES=15 EN=7
-  - IX: lists ES=15 EN=0
-  - IX: párrafos ES=6 EN=5
-  - X: párrafos ES=11 EN=5
-  - XI: párrafos ES=14 EN=9
-  - XV: párrafos ES=10 EN=7
-  - XVII: lists ES=15 EN=3
-- `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` · ES=2677 · EN=2414 · ratio=0.90
-  - I: párrafos ES=11 EN=6
-  - II: lists ES=7 EN=0
-  - II: párrafos ES=7 EN=4
-  - III: párrafos ES=9 EN=5
-  - IV: párrafos ES=13 EN=8
-  - V: lists ES=8 EN=0
-  - V: párrafos ES=8 EN=4
-  - VI: párrafos ES=12 EN=6
-  - VII: párrafos ES=15 EN=4
-  - VIII: párrafos ES=11 EN=3
-  - IX: párrafos ES=16 EN=8
-  - X: párrafos ES=11 EN=6
-  - XI: párrafos ES=9 EN=3
-  - XII: lists ES=8 EN=0
-  - XII: párrafos ES=4 EN=3
-  - XIII: párrafos ES=7 EN=4
-  - XIV: párrafos ES=6 EN=4
-  - XV: párrafos ES=9 EN=3
-  - XVI: párrafos ES=7 EN=3
-  - XVII: lists ES=9 EN=0
-  - XVII: párrafos ES=6 EN=3
-  - XVIII: párrafos ES=14 EN=4
-  - XIX: párrafos ES=7 EN=5
-  - XX: párrafos ES=12 EN=5
-  - XXI: lists ES=7 EN=0
-  - XXI: párrafos ES=6 EN=5
-  - XXVIII: lists ES=16 EN=4
-- `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md` · ES=1252 · EN=1193 · ratio=0.95
-  - I: párrafos ES=7 EN=3
-  - II: quotes ES=2 EN=0
-  - II: párrafos ES=7 EN=3
-  - III: lists ES=7 EN=0
-  - III: párrafos ES=5 EN=3
-  - IV: párrafos ES=4 EN=5
-  - V: párrafos ES=5 EN=4
-  - VII: lists ES=7 EN=0
-  - VII: párrafos ES=5 EN=2
-  - VIII: lists ES=7 EN=0
-  - IX: párrafos ES=5 EN=3
-  - X: párrafos ES=4 EN=5
-  - XI: lists ES=5 EN=0
-  - XI: párrafos ES=4 EN=2
-  - XII: lists ES=6 EN=0
-  - XIV: lists ES=11 EN=0
-  - XV: párrafos ES=7 EN=3
-  - XVI: párrafos ES=4 EN=3
-  - XVII: párrafos ES=3 EN=2
-- `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` · ES=1427 · EN=1220 · ratio=0.85
-  - I: párrafos ES=6 EN=3
-  - II: lists ES=9 EN=0
-  - II: párrafos ES=3 EN=4
-  - III: lists ES=12 EN=0
-  - III: párrafos ES=5 EN=3
-  - IV: lists ES=11 EN=0
-  - IV: párrafos ES=5 EN=4
-  - VI: párrafos ES=7 EN=5
-  - VII: quotes ES=1 EN=0
-  - VII: párrafos ES=7 EN=4
-  - VIII: lists ES=13 EN=0
-  - VIII: párrafos ES=5 EN=3
-  - IX: párrafos ES=3 EN=2
-  - X: párrafos ES=10 EN=3
-  - XI: lists ES=7 EN=0
-  - XI: párrafos ES=3 EN=2
-  - XII: lists ES=9 EN=0
-  - XII: quotes ES=4 EN=0
-  - XII: párrafos ES=7 EN=2
-  - XIII: párrafos ES=4 EN=1
-  - XIV: lists ES=6 EN=0
-  - XIV: párrafos ES=6 EN=3
-  - XV: párrafos ES=4 EN=2
-  - XVI: párrafos ES=4 EN=3
-- `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md` · ES=1443 · EN=1347 · ratio=0.93
-  - Invocación: párrafos ES=9 EN=7
-  - I: lists ES=8 EN=0
-  - I: párrafos ES=5 EN=4
-  - II: lists ES=9 EN=0
-  - III: quotes ES=1 EN=0
-  - III: párrafos ES=9 EN=5
-  - IV: lists ES=10 EN=0
-  - V: lists ES=8 EN=0
-  - VII: quotes ES=2 EN=0
-  - VII: párrafos ES=8 EN=4
-  - VIII: lists ES=9 EN=0
-  - VIII: párrafos ES=5 EN=3
-  - IX: lists ES=7 EN=0
-  - IX: párrafos ES=4 EN=3
-  - X: lists ES=9 EN=0
-  - XI: lists ES=10 EN=0
-  - XI: párrafos ES=4 EN=3
-  - XII: párrafos ES=6 EN=3
-- `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` · ES=1449 · EN=1429 · ratio=0.99
+- `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` · ES=1427 · EN=1414 · ratio=0.99
+  - XIX: lists ES=8 EN=6
+- `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md` · ES=1443 · EN=1452 · ratio=1.01
+  - XV: lists ES=6 EN=5
+  - XV: párrafos ES=3 EN=2
+- `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` · ES=1449 · EN=1432 · ratio=0.99
   - Invocación: párrafos ES=8 EN=6
   - I: párrafos ES=4 EN=3
   - II: lists ES=6 EN=0
-  - III: lists ES=12 EN=0
-  - III: párrafos ES=5 EN=4
-  - IV: lists ES=11 EN=0
-  - IV: párrafos ES=4 EN=3
-  - V: lists ES=8 EN=0
-  - VI: párrafos ES=4 EN=3
-  - VII: lists ES=8 EN=0
-  - VII: quotes ES=2 EN=1
-  - VII: párrafos ES=6 EN=4
   - Derechos derivados de contribuciones concretas: lists ES=2 EN=0
   - IX: párrafos ES=6 EN=3
-  - X: lists ES=8 EN=0
-  - X: párrafos ES=5 EN=4
-  - XI: lists ES=14 EN=0
-  - XII: lists ES=8 EN=0
-  - XIV: párrafos ES=6 EN=5
-- `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` · ES=1161 · EN=1154 · ratio=0.99
-  - I: párrafos ES=7 EN=5
-  - V: lists ES=8 EN=0
-  - V: párrafos ES=5 EN=4
-  - VIII: lists ES=9 EN=0
-  - IX: lists ES=9 EN=0
-  - IX: párrafos ES=5 EN=4
-  - XI: párrafos ES=3 EN=2
-- `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md` · ES=1992 · EN=1932 · ratio=0.97
+- `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md` · ES=1992 · EN=1935 · ratio=0.97
   - I: párrafos ES=12 EN=7
-  - II: lists ES=8 EN=0
-  - II: párrafos ES=6 EN=5
-  - IV: lists ES=20 EN=0
-  - IV: párrafos ES=4 EN=3
   - VII: párrafos ES=6 EN=4
-  - VIII: lists ES=11 EN=0
-  - XII: párrafos ES=5 EN=4
-  - XIII: lists ES=12 EN=0
-  - XIV: lists ES=9 EN=0
-  - XV: párrafos ES=8 EN=3
-  - XVI: lists ES=11 EN=0
-  - XVI: párrafos ES=4 EN=3
-  - XVII: lists ES=10 EN=0
-  - XVII: párrafos ES=4 EN=3
   - XVIII: párrafos ES=3 EN=2
-  - XIX: lists ES=9 EN=0
   - XIX: párrafos ES=6 EN=5
-- `manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md` · ES=906 · EN=926 · ratio=1.02
-  - V: lists ES=10 EN=0
-  - VI: lists ES=7 EN=0
-  - VII: párrafos ES=4 EN=3
-  - VIII: lists ES=7 EN=0
-  - X: lists ES=10 EN=0
-  - X: párrafos ES=4 EN=3
-  - XI: párrafos ES=6 EN=5
-  - XII: párrafos ES=6 EN=3
+- `manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md` · ES=906 · EN=923 · ratio=1.02
   - XIV: párrafos ES=2 EN=4
-- `manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md` · ES=1396 · EN=1356 · ratio=0.97
-  - I: párrafos ES=8 EN=6
-  - II: lists ES=10 EN=0
-  - III: párrafos ES=7 EN=6
-  - IV: lists ES=9 EN=0
-  - V: párrafos ES=5 EN=4
-  - VII: párrafos ES=7 EN=6
-  - VIII: párrafos ES=6 EN=5
-  - IX: lists ES=10 EN=0
-  - XI: lists ES=8 EN=0
-  - XIII: párrafos ES=5 EN=4
+- `manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md` · ES=1396 · EN=1351 · ratio=0.97
   - XVI: párrafos ES=3 EN=5
 - `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` · ES=1539 · EN=1442 · ratio=0.94
   - I: lists ES=8 EN=0
@@ -803,9 +610,9 @@
 | `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` | **OK** |  |
 | `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` | **OK** |  |
 | `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` | **OK** |  |
-| `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` | **REVISAR** | I: lists ES=13 EN=7; II: párrafos ES=3 EN=4; III: lists ES=10 EN=0; III: párrafos ES=4 EN=5; V: lists ES=9 EN=0; V: párrafos ES=4 EN=3; VI: párrafos ES=4 EN=3; VIII: párrafos ES=4 EN=3; IX: lists ES=8 EN=0; IX: párrafos ES=4 EN=3; XI: lists ES=6 EN=0; XII: párrafos ES=5 EN=3; XIII: lists ES=10 EN=0; XV: lists ES=18 EN=5 |
+| `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` | **REVISAR** | V: párrafos ES=4 EN=3 |
 | `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | **OK** |  |
-| `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | **REVISAR** | XII: párrafos ES=5 EN=6 |
+| `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | **REVISAR** | XII: lists ES=17 EN=4; XII: párrafos ES=5 EN=4 |
 | `manifiestos/37_neofraternidad_ES_EN.md` | **OK** |  |
 | `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` | **OK** |  |
 | `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` | **OK** |  |
@@ -814,18 +621,18 @@
 | `manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md` | **OK** |  |
 | `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md` | **OK** |  |
 | `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` | **OK** |  |
-| `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` | **REVISAR** | Invocación: párrafos ES=16 EN=7; I: lists ES=17 EN=0; IV: párrafos ES=10 EN=6; V: párrafos ES=8 EN=5; VI: lists ES=2 EN=0; VI: párrafos ES=11 EN=6; VIII: párrafos ES=7 EN=5; IX: párrafos ES=9 EN=5; X: párrafos ES=6 EN=4; XI: párrafos ES=14 EN=7; XII: lists ES=10 EN=0; XVI: lists ES=17 EN=3 |
-| `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` | **REVISAR** | I: lists ES=12 EN=0; II: párrafos ES=5 EN=4; III: párrafos ES=8 EN=6; IV: lists ES=7 EN=0; V: párrafos ES=13 EN=8; VI: párrafos ES=9 EN=4; VII: párrafos ES=8 EN=7; VIII: párrafos ES=8 EN=6; IX: párrafos ES=9 EN=6; X: párrafos ES=14 EN=4; XI: párrafos ES=5 EN=4; XIV: lists ES=8 EN=0; XVII: lists ES=15 EN=3 |
-| `manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md` | **REVISAR** | I: párrafos ES=13 EN=10; III: párrafos ES=13 EN=7; IV: párrafos ES=15 EN=10; V: lists ES=12 EN=0; V: párrafos ES=7 EN=5; VI: párrafos ES=13 EN=8; VII: párrafos ES=11 EN=6; VIII: párrafos ES=15 EN=7; IX: lists ES=15 EN=0; IX: párrafos ES=6 EN=5; X: párrafos ES=11 EN=5; XI: párrafos ES=14 EN=9; XV: párrafos ES=10 EN=7; XVII: lists ES=15 EN=3 |
-| `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` | **REVISAR** | I: párrafos ES=11 EN=6; II: lists ES=7 EN=0; II: párrafos ES=7 EN=4; III: párrafos ES=9 EN=5; IV: párrafos ES=13 EN=8; V: lists ES=8 EN=0; V: párrafos ES=8 EN=4; VI: párrafos ES=12 EN=6; VII: párrafos ES=15 EN=4; VIII: párrafos ES=11 EN=3; IX: párrafos ES=16 EN=8; X: párrafos ES=11 EN=6; XI: párrafos ES=9 EN=3; XII: lists ES=8 EN=0; XII: párrafos ES=4 EN=3; XIII: párrafos ES=7 EN=4; XIV: párrafos ES=6 EN=4; XV: párrafos ES=9 EN=3; XVI: párrafos ES=7 EN=3; XVII: lists ES=9 EN=0; XVII: párrafos ES=6 EN=3; XVIII: párrafos ES=14 EN=4; XIX: párrafos ES=7 EN=5; XX: párrafos ES=12 EN=5; XXI: lists ES=7 EN=0; XXI: párrafos ES=6 EN=5; XXVIII: lists ES=16 EN=4 |
-| `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md` | **REVISAR** | I: párrafos ES=7 EN=3; II: quotes ES=2 EN=0; II: párrafos ES=7 EN=3; III: lists ES=7 EN=0; III: párrafos ES=5 EN=3; IV: párrafos ES=4 EN=5; V: párrafos ES=5 EN=4; VII: lists ES=7 EN=0; VII: párrafos ES=5 EN=2; VIII: lists ES=7 EN=0; IX: párrafos ES=5 EN=3; X: párrafos ES=4 EN=5; XI: lists ES=5 EN=0; XI: párrafos ES=4 EN=2; XII: lists ES=6 EN=0; XIV: lists ES=11 EN=0; XV: párrafos ES=7 EN=3; XVI: párrafos ES=4 EN=3; XVII: párrafos ES=3 EN=2 |
-| `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` | **REVISAR** | I: párrafos ES=6 EN=3; II: lists ES=9 EN=0; II: párrafos ES=3 EN=4; III: lists ES=12 EN=0; III: párrafos ES=5 EN=3; IV: lists ES=11 EN=0; IV: párrafos ES=5 EN=4; VI: párrafos ES=7 EN=5; VII: quotes ES=1 EN=0; VII: párrafos ES=7 EN=4; VIII: lists ES=13 EN=0; VIII: párrafos ES=5 EN=3; IX: párrafos ES=3 EN=2; X: párrafos ES=10 EN=3; XI: lists ES=7 EN=0; XI: párrafos ES=3 EN=2; XII: lists ES=9 EN=0; XII: quotes ES=4 EN=0; XII: párrafos ES=7 EN=2; XIII: párrafos ES=4 EN=1; XIV: lists ES=6 EN=0; XIV: párrafos ES=6 EN=3; XV: párrafos ES=4 EN=2; XVI: párrafos ES=4 EN=3 |
-| `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md` | **REVISAR** | Invocación: párrafos ES=9 EN=7; I: lists ES=8 EN=0; I: párrafos ES=5 EN=4; II: lists ES=9 EN=0; III: quotes ES=1 EN=0; III: párrafos ES=9 EN=5; IV: lists ES=10 EN=0; V: lists ES=8 EN=0; VII: quotes ES=2 EN=0; VII: párrafos ES=8 EN=4; VIII: lists ES=9 EN=0; VIII: párrafos ES=5 EN=3; IX: lists ES=7 EN=0; IX: párrafos ES=4 EN=3; X: lists ES=9 EN=0; XI: lists ES=10 EN=0; XI: párrafos ES=4 EN=3; XII: párrafos ES=6 EN=3 |
-| `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` | **REVISAR** | Invocación: párrafos ES=8 EN=6; I: párrafos ES=4 EN=3; II: lists ES=6 EN=0; III: lists ES=12 EN=0; III: párrafos ES=5 EN=4; IV: lists ES=11 EN=0; IV: párrafos ES=4 EN=3; V: lists ES=8 EN=0; VI: párrafos ES=4 EN=3; VII: lists ES=8 EN=0; VII: quotes ES=2 EN=1; VII: párrafos ES=6 EN=4; Derechos derivados de contribuciones concretas: lists ES=2 EN=0; IX: párrafos ES=6 EN=3; X: lists ES=8 EN=0; X: párrafos ES=5 EN=4; XI: lists ES=14 EN=0; XII: lists ES=8 EN=0; XIV: párrafos ES=6 EN=5 |
-| `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` | **REVISAR** | I: párrafos ES=7 EN=5; V: lists ES=8 EN=0; V: párrafos ES=5 EN=4; VIII: lists ES=9 EN=0; IX: lists ES=9 EN=0; IX: párrafos ES=5 EN=4; XI: párrafos ES=3 EN=2 |
-| `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md` | **REVISAR** | I: párrafos ES=12 EN=7; II: lists ES=8 EN=0; II: párrafos ES=6 EN=5; IV: lists ES=20 EN=0; IV: párrafos ES=4 EN=3; VII: párrafos ES=6 EN=4; VIII: lists ES=11 EN=0; XII: párrafos ES=5 EN=4; XIII: lists ES=12 EN=0; XIV: lists ES=9 EN=0; XV: párrafos ES=8 EN=3; XVI: lists ES=11 EN=0; XVI: párrafos ES=4 EN=3; XVII: lists ES=10 EN=0; XVII: párrafos ES=4 EN=3; XVIII: párrafos ES=3 EN=2; XIX: lists ES=9 EN=0; XIX: párrafos ES=6 EN=5 |
-| `manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md` | **REVISAR** | V: lists ES=10 EN=0; VI: lists ES=7 EN=0; VII: párrafos ES=4 EN=3; VIII: lists ES=7 EN=0; X: lists ES=10 EN=0; X: párrafos ES=4 EN=3; XI: párrafos ES=6 EN=5; XII: párrafos ES=6 EN=3; XIV: párrafos ES=2 EN=4 |
-| `manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md` | **REVISAR** | I: párrafos ES=8 EN=6; II: lists ES=10 EN=0; III: párrafos ES=7 EN=6; IV: lists ES=9 EN=0; V: párrafos ES=5 EN=4; VII: párrafos ES=7 EN=6; VIII: párrafos ES=6 EN=5; IX: lists ES=10 EN=0; XI: lists ES=8 EN=0; XIII: párrafos ES=5 EN=4; XVI: párrafos ES=3 EN=5 |
+| `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` | **OK** |  |
+| `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` | **REVISAR** | VIII: párrafos ES=8 EN=6 |
+| `manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md` | **OK** |  |
+| `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` | **OK** |  |
+| `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md` | **OK** |  |
+| `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` | **REVISAR** | XIX: lists ES=8 EN=6 |
+| `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md` | **REVISAR** | XV: lists ES=6 EN=5; XV: párrafos ES=3 EN=2 |
+| `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` | **REVISAR** | Invocación: párrafos ES=8 EN=6; I: párrafos ES=4 EN=3; II: lists ES=6 EN=0; Derechos derivados de contribuciones concretas: lists ES=2 EN=0; IX: párrafos ES=6 EN=3 |
+| `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` | **OK** |  |
+| `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md` | **REVISAR** | I: párrafos ES=12 EN=7; VII: párrafos ES=6 EN=4; XVIII: párrafos ES=3 EN=2; XIX: párrafos ES=6 EN=5 |
+| `manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md` | **REVISAR** | XIV: párrafos ES=2 EN=4 |
+| `manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md` | **REVISAR** | XVI: párrafos ES=3 EN=5 |
 | `manifiestos/57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md` | **OK** |  |
 | `manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md` | **OK** |  |
 | `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md` | **OK** |  |
