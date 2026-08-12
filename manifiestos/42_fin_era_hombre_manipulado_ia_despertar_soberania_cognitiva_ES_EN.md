@@ -340,13 +340,13 @@ The possibility opening before us is different:
 
 **the end of the manipulated human era.**
 
-For too long, attention, desire, fear, memory and collective perception have been conditionable by systems that an individual can scarcely observe as a whole: propaganda, advertising, media architecture, platform design, informational concentration, political and commercial incentives, persuasion techniques and, increasingly, algorithmic systems able to personalise what each person sees.
+For too long, attention, desire, fear, memory and collective perception have been conditionable by systems that the individual can scarcely observe as a whole: propaganda, advertising, media architecture, platform design, informational concentration, political and commercial incentives, persuasion techniques and, increasingly, algorithmic systems capable of personalising what each person sees.
 
-No single hidden will need be assumed behind this.
+There is no need to imagine a single will behind all of this.
 
-Human systems can produce anti-human outcomes through local incentives, opacity, concentration of power and optimisation of partial metrics.
+Human systems can produce anti-human effects through the sum of local incentives, opacity, concentration of power and optimisation of partial metrics.
 
-The historical novelty of artificial intelligence is that the same technology capable of multiplying capture can also multiply **human capacity to understand it**.
+The historical novelty of artificial intelligence is that the same technology capable of multiplying that capture can also multiply the **human capacity to understand it**.
 
 That is the bifurcation.
 
@@ -354,65 +354,67 @@ That is the bifurcation.
 AI + CAPTURE + OPACITY
 → MORE PRECISE MANIPULATION
 
-AI + MEMORY + CONTRAST + TRACEABILITY + HUMAN DIRECTION
+AI + MEMORY + SCRUTINY + TRACEABILITY + HUMAN DIRECTION
 → AUGMENTED UNDERSTANDING
 → COGNITIVE SOVEREIGNTY
 ```
 
-AI does not save humanity merely by existing. It can help people awaken when used to reconnect fragments, recover context, compare narratives, detect contradictions, preserve memory and restore decision capacity.
+AI does not save the human merely by existing.
 
-## I. The problem is not that humans are weak
+It can help humanity awaken if it is used to relate what is fragmented, recover context, compare narratives, detect contradictions, preserve memory and return capacity for decision.
 
-Human cognition evolved for communities, limited signals and finite information. It was not designed to receive thousands of daily stimuli selected by systems able to experiment continuously with attention.
+## I. The problem is not that the human is weak
 
-When an individual competes alone against infrastructure that knows behavioural patterns, formal freedom can coexist with profound cognitive asymmetry.
+The human brain evolved to live in communities, interpret limited signals and decide with finite information.
 
-Freedom therefore requires understanding **how the field of choice is constructed**.
+It was not designed to receive thousands of daily stimuli selected by systems that can constantly experiment with its attention.
+
+When a person competes alone against an infrastructure that knows their behavioural patterns, formal freedom can coexist with profound cognitive asymmetry.
+
+For that reason, sovereignty cannot be reduced to “everyone decides what they consume”.
+
+To decide freely, one must be able to understand **how the field of decision is constructed**.
 
 ## II. To those who know Neo0™
 
-This manifesto also preserves a personal testimony as genealogy, not proof of authority.
+This manifesto also preserves a personal testimony, not as proof of authority but as verifiable genealogy.
 
-Those who knew Pedro Martínez Alhambra before the public formulation of Neodialectics can compare with their own memory a repeatedly declared pattern: early attention to technological, economic, political and social crises; searching for relations among apparently separate domains; and a persistent need to anticipate consequences before they became evident in the immediate environment.
+Those who knew Pedro Martínez Alhambra before the public formulation of Neodialectics can contrast against their own memory a repeated life pattern: early attention to technological, economic, political and social crises; a search for relations among apparently separate domains; and a persistent need to anticipate consequences before they became evident to the immediate environment.
 
-Declared antecedents include early attention to the financial crisis associated with subprime mortgages and later observation of political, technological, informational and social transformations that eventually became related within the framework.
+Among those antecedents is the early reading of the financial crisis associated with subprime mortgages and, later, the monitoring of political, technological, informational and social transformations that eventually became related within the framework.
 
-This does not require retrospective acceptance that every anticipation was correct. Strong historical claims should be tested through chronology, documents, testimony and contrast.
+This section does not require retrospective acceptance that every anticipation was correct.
 
-The genealogy fixed here is narrower: the Framework/Network is presented as emerging not from a promotional decision to invent a theory, but from an accumulation of lived problems that increasingly required a common architecture to be thought together.
+The strong claim must be subjected to chronology, documents, testimony and scrutiny.
 
-For Neo0™, this construction is experienced as an **unavoidable and unwanted vital calling**: not a demonstrable supernatural destiny, but the biographical experience of being unable to stop developing the framework once its underlying relations had been perceived.
+What is fixed here is the declared genealogy: the Framework/Network does not arise from a promotional decision to “create a theory”, but from a life-long accumulation of problems that eventually required a common architecture in order to be thought together.
+
+In Neo0™'s experience, that construction is lived as an **inevitable and unsought vital calling**: not as a demonstrable supernatural destiny, but as the biographical sense of being unable to stop developing the framework once the relations it attempts to order had been perceived.
 
 ## III. The screen is not the enemy; capture is
 
-A screen can be library, conversation, tool, laboratory, memory, creation and access to knowledge.
+The problem is not a screen merely for being a screen.
 
-The problem begins when architecture systematically maximises retention over understanding, reaction over reflection, vulnerability exploitation over autonomy, flow over memory and opaque selection over intelligible choice.
+A screen can be a library, conversation, tool, laboratory, memory, creation and access to knowledge.
 
-The answer is not to abandon technology. It is to **recover it for the human**.
+The problem appears when its architecture is systematically oriented towards:
 
-<!-- PARITY_72_42_III -->
-Capture appears when an interface is systematically oriented to:
-
-- maximising permanence rather than understanding;
+- maximising permanence instead of understanding;
 - provoking reaction before reflection;
 - personalising stimuli to exploit vulnerabilities;
 - fragmenting context;
 - replacing memory with flow;
 - turning indignation into a product;
 - hiding selection criteria;
-- reducing the person to a prediction and monetisation profile.
+- and reducing the person to a prediction and monetisation profile.
+
+The answer is not to abandon technology.
+
+It is to **recover it for the human**.
 
 ## IV. AI as an augmented cognitive mirror
 
-Used responsibly, AI can help people compare sources, reconstruct chronologies, detect contradictions, identify assumptions, connect economics, politics, technology, ecology and culture, translate specialised knowledge, compare alternatives, preserve decisions and identify missing information.
-
-This does not make AI the final authority. It makes it an **instrument for enlarging the field of understanding**.
-
-Responsible authority must remain human, identifiable and reviewable.
-
-<!-- PARITY_72_42_IV -->
-Used correctly, AI can help a person:
+Used correctly, AI can help a person do something that until now required enormous amounts of time, training and institutional access:
 
 - compare sources;
 - reconstruct chronologies;
@@ -422,11 +424,29 @@ Used correctly, AI can help a person:
 - translate specialised knowledge;
 - simulate alternatives;
 - preserve decisions and their reasons;
-- ask what information is missing before concluding.
+- and ask what information is missing before concluding.
+
+This does not make AI the final authority.
+
+It makes it an **instrument for expanding the field of understanding**.
+
+Responsible authority must remain human, identifiable and revisable.
 
 ## V. The same AI can perfect the cage
 
-AI can also enable personalised propaganda, surveillance, emotional manipulation, synthetic deception, psychological profiling, political microtargeting, automated discrimination, cognitive dependency and substitution of judgement by algorithmic obedience.
+Every emancipatory thesis about AI must preserve its main contradiction.
+
+The same systems can be used for:
+
+- personalised propaganda;
+- surveillance;
+- emotional manipulation;
+- mass generation of deceptive content;
+- psychological profiling;
+- political microtargeting;
+- automation of discrimination;
+- cognitive dependency;
+- or substitution of judgement by algorithmic obedience.
 
 Therefore:
 
@@ -438,66 +458,52 @@ MORE HUMAN FREEDOM
 
 The decisive variable is the architecture of relation.
 
-## VI. Conditions for emancipatory AI
+## VI. Conditions of an emancipatory AI
 
-AI oriented towards cognitive sovereignty should favour human direction, return to sources, separation of fact from inference and hypothesis, traceable memory, plural contrast, uncertainty disclosure, contradiction detection, reviewable reasoning, privacy, freedom from addiction-maximisation, continuous correction, cognitive-time sovereignty, reinforced childhood protection and orientation towards the Common Good without erasing individual autonomy.
-
-<!-- PARITY_72_42_VI -->
-An AI oriented towards cognitive sovereignty should favour:
+An AI oriented towards cognitive sovereignty must favour:
 
 1. **identifiable human direction**;
 2. **return to sources**;
-3. **separation between fact, inference, hypothesis and opinion**;
+3. **separation among fact, inference, hypothesis and opinion**;
 4. **traceable memory**;
 5. **plurality and scrutiny**;
-6. **capacity to say “I do not know”**;
+6. **capacity to say “I don't know”**;
 7. **detection of contradictions**;
 8. **sufficient explanation to review decisions**;
 9. **protection against commercial capture of intimacy**;
 10. **absence of primary optimisation for addiction or permanence**;
 11. **continuous correction**;
-12. **right to disconnection and sovereignty over cognitive time**;
+12. **right to disconnection and sovereignty of cognitive time**;
 13. **reinforced protection of childhood**;
-14. **orientation towards the Common Good without cancelling individual autonomy**.
+14. **and orientation towards the Common Good without cancelling individual autonomy**.
 
 ## VII. Awakening does not mean adopting a doctrine
 
-Awakening does not mean accepting Neodialectics or Neo0™. It does not mean replacing one propaganda system with another.
+Awakening is not accepting Neodialectics.
 
-It means recovering the capacity to:
+It is not accepting Neo0™.
+
+It is not replacing one propaganda with another.
+
+Awakening means recovering the capacity to:
 
 ```text
 SEE
 → REMEMBER
 → RELATE
-→ CONTRAST
+→ SCRUTINISE
 → DOUBT
 → CORRECT
 → DECIDE
 ```
 
-A framework demanding obedience rather than understanding would betray its own purpose. Neodialectics can defend awakening only if it remains open to analysis, contradiction and correction.
+A framework that asked for obedience instead of understanding would betray its own purpose.
+
+Neodialectics can defend awakening only if it accepts being an object of analysis, contradiction and correction as well.
 
 ## VIII. From consumer to conscious node
 
-Inherited architecture often reduces the person to user, audience, data, profile, target and conversion.
-
-The proposed direction is different:
-
-```text
-PERSON
-→ NODE WITH MEMORY
-→ OBSERVER
-→ CONTRIBUTOR
-→ CONTRASTER
-→ CO-AUTHOR OF SYNTHESIS
-→ AGENT CAPABLE OF DECISION
-```
-
-The aim is not to abolish markets, media, institutions or technology, but to prevent them from operating upon cognitively defenceless persons.
-
-<!-- PARITY_72_42_VIII -->
-The Spanish source explicitly contrasts the existing English person-centred sequence with the reduction sequence:
+The inherited architecture tends to treat the person as:
 
 ```text
 USER
@@ -508,15 +514,32 @@ USER
 → CONVERSION
 ```
 
-## IX. IDEA as narrative gateway
+The neodialectical architecture proposes another direction:
 
-IDEA was written between 1997 and 2002, before the present explosion of generative AI and before the later vocabulary of Neodialectics.
+```text
+PERSON
+→ NODE WITH MEMORY
+→ OBSERVER
+→ CONTRIBUTOR
+→ SCRUTINISER
+→ CO-AUTHOR OF SYNTHESIS
+→ AGENT CAPABLE OF DECIDING
+```
 
-Its 2026 publication allows it to be read both as an autonomous literary work and as an early genealogical document around questions later reappearing in the framework: control, memory, perception, identity, artificial intelligence, autonomy and power.
+The aim is not to eliminate markets, media, institutions or technology.
 
-IDEA is therefore not presented merely as «a book about AI». It can function as a **narrative gateway to a later civilisational architecture attempting to answer problems already interrogated by the fiction**.
+It is to prevent them from operating upon cognitively defenceless people.
 
-<!-- PARITY_72_42_IX -->
+## IX. IDEA as a narrative gateway
+
+IDEA was written between 1997 and 2002, before the current explosion of generative AI and before the later vocabulary of Neodialectics.
+
+Its publication in 2026 allows it to be read as an autonomous literary work and, at the same time, as an early genealogical document of questions that later reappear in the framework: control, memory, perception, identity, artificial intelligence, autonomy and power.
+
+For that reason, IDEA is not presented only as “a book about AI”.
+
+It can function as a **narrative gateway towards a later civilisational architecture that attempts to answer the problems already interrogated by the fiction**.
+
 The chronology must remain explicit:
 
 ```text
@@ -531,9 +554,9 @@ OPEN SYNTHESIS + SYMBIOTIC AI + TRACEABILITY
 
 ## X. Urgency without prophecy
 
-The world contains simultaneous risk vectors: armed conflict, ecological and material pressure, technological concentration, polarisation, inequality, institutional fragility, informational manipulation and accelerating AI.
+The global situation contains multiple simultaneous risk vectors: armed conflict, ecological and material pressure, technological concentration, polarisation, inequality, institutional fragility, informational manipulation and acceleration of AI.
 
-This manifesto does not set a date for collapse or turn urgency into a demonstrated fact.
+This manifesto does not set a date for collapse or turn a perception of urgency into demonstrated fact.
 
 It establishes a precautionary criterion:
 
@@ -542,24 +565,26 @@ HIGH SYSTEMIC RISK
 + UNCERTAINTY
 + POTENTIAL COST OF WAITING
 → UNDERSTAND EARLIER
-→ CONTRAST EARLIER
+→ SCRUTINISE EARLIER
 → CORRECT EARLIER
 ```
+
+Waiting for absolute certainty can also cause harm when systems evolve faster than our institutional capacity to understand them.
 
 ## XI. The end of an era
 
 The Age of Man does not end because another intelligence appears.
 
-A new phase can begin because humans now possess tools capable of helping them observe systems too complex for a single mind.
+A new phase may begin precisely because humans have, for the first time, tools capable of helping them observe systems too complex for a single mind.
 
-The proposed horizon is not:
+The horizon is not:
 
 ```text
 HUMAN
 → REPLACED BY AI
 ```
 
-It is:
+The proposed horizon is:
 
 ```text
 MANIPULATED HUMAN
@@ -567,36 +592,56 @@ MANIPULATED HUMAN
 → HUMAN WITH MEMORY
 → HUMAN WITH JUDGEMENT
 → HUMAN IN RESPONSIBLE SYMBIOSIS
-→ NEO-HUMAN™
+→ NEOHUMAN™
 ```
 
-Technology ceases to be only a mechanism that knows humans in order to sell to, direct or predict them. Humans begin using it to **know themselves and understand the systems attempting to condition them**.
+Technology ceases to be exclusively a mechanism that knows the human in order to sell to, direct or predict them.
+
+The human begins to use it to **know themselves and understand the systems that attempt to condition them**.
 
 ## XII. Proclamation
 
-> We do not announce the end of humanity.
+> We do not announce the end of the human.
 >
 > We announce the possibility of the end of the manipulated human.
 >
-> Not because artificial intelligence will automatically free us, but because it can help us see what was previously too large, too fast or too fragmented for one mind.
+> Not because artificial intelligence will automatically liberate us, but because it can help us see what was previously too large, too fast or too fragmented for one mind.
 >
 > The same AI can perfect the cage or help us understand its bars.
 >
-> The difference will be memory, traceability, education, human direction, contrast, autonomy and the Common Good.
+> The difference will be memory, traceability, education, human direction, scrutiny, autonomy and Common Good.
 >
 > We do not want humans obedient to a machine.
 >
 > We want humans capable of using machines to stop blindly obeying systems they do not understand.
 >
-> **The next human era begins when understanding ceases to be the privilege of those who control information.**
+> **The next human era begins when understanding ceases to be the privilege of whoever controls information.**
 
 ## XIII. Open Synthesis
 
-Contributions are requested on propaganda and persuasion; the attention economy; media and algorithmic literacy; AI as autonomy or capture amplifier; memory versus fragmentation; systems designed for understanding; information concentration; critical education; cognitive sovereignty; measurable autonomy; privacy and profiling; childhood; and safeguards against turning an emancipatory framework into a new obedience structure.
+Contributions are invited on:
+
+- propaganda, persuasion and manipulation;
+- attention economy;
+- media and algorithmic literacy;
+- AI as an amplifier of autonomy or capture;
+- memory and context against fragmentation;
+- design of systems oriented towards understanding;
+- informational concentration;
+- critical education;
+- cognitive sovereignty;
+- verifiable metrics of autonomy;
+- privacy and profiling;
+- childhood;
+- and mechanisms to prevent an emancipatory framework from becoming a new structure of obedience.
 
 * [Open Synthesis XLII · Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50)
-* [Open Synthesis operational protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [Operational Open Synthesis protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Manifesto index](./README.md)
+
+## Navigation
+
+← [XLI · Limited Hammer, Talion and Protective Force™](./41_martillo_limitado_talion_fuerza_protectora_ES_EN.md) · [Index](./README.md) · [XLIII · Against the Reductive Misunderstanding of AI™](./43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md) →
 
 <!-- NEO_RELATIONS_START -->
 ## Relaciones internas y trabajo aplicado / Internal relations and applied work
