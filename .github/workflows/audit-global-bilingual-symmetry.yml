@@ -1,0 +1,42 @@
+name: audit-global-bilingual-symmetry
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '**/*.md'
+      - '.github/ISSUE_TEMPLATE/*.yml'
+      - '.github/ISSUE_TEMPLATE/*.yaml'
+      - '.github/scripts/audit_global_bilingual_symmetry.py'
+      - '.github/workflows/audit-global-bilingual-symmetry.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: neocore-document-sync-main
+  cancel-in-progress: false
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Audit global ES EN symmetry
+        run: python .github/scripts/audit_global_bilingual_symmetry.py
+      - name: Commit audit report
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add auditorias/publicas/2026-08-12_auditoria_global_simetria_ES_EN.md
+          if git diff --cached --quiet; then
+            echo 'Global bilingual symmetry report unchanged.'
+            exit 0
+          fi
+          git commit -m 'audit: simetría global ES EN sin compresión'
+          git pull --rebase origin main
+          git push origin main
