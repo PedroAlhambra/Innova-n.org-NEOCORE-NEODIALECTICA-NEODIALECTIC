@@ -1,9 +1,13 @@
 {
-  "schema": "neocronos-contribution-ledger/v0.1",
+  "schema": "neocronos-contribution-ledger/v0.2",
   "updated_at": "2026-08-12",
   "canonical_rules": {
-    "es": "Todo aporte atribuible que produzca síntesis nueva y un delta demostrable entra como candidato a tokenización. Tokenizar no equivale a verdad, soberanía, rango humano, dinero automático ni participación societaria.",
-    "en": "Every attributable contribution that produces new synthesis and a demonstrable delta enters as a tokenisation candidate. Tokenising does not equal truth, sovereignty, human rank, automatic money or equity."
+    "es": "Todo aporte atribuible que produzca síntesis nueva y un delta demostrable recibe un token de traza NeoCronos™. El token de traza reconoce y conserva genealogía; no equivale a verdad, soberanía, rango humano, dinero automático, activo financiero ni participación societaria.",
+    "en": "Every attributable contribution that produces new synthesis and a demonstrable delta receives a NeoCronos™ trace token. The trace token recognises and preserves genealogy; it does not equal truth, sovereignty, human rank, automatic money, a financial asset or equity."
+  },
+  "token_layers": {
+    "trace_token": "assigned_when_demonstrable_delta_exists / asignado_cuando_existe_delta_demostrable",
+    "economic_return": "separate_governance_required / requiere_gobernanza_separada"
   },
   "traceability": {
     "issue": "entrada_y_contraste / entry_and_scrutiny",
@@ -33,9 +37,10 @@
       },
       "umbral_x": "X-RETORNO-A-FUENTE + X-CONDICIONAL / X-RETURN-TO-SOURCE + X-CONDITIONAL",
       "san_state": "open",
-      "token_state": "candidate",
+      "token_state": "assigned-trace",
+      "economic_state": "not-issued",
       "implementation_state": "partial-roadmap-input",
-      "badges": ["FUENTE / SOURCE", "DELTA / DELTA", "CRÍTICA FÉRTIL / FERTILE CRITICISM", "REVISIÓN ABIERTA / OPEN REVIEW"]
+      "badges": ["FUENTE / SOURCE", "DELTA / DELTA", "CRÍTICA FÉRTIL / FERTILE CRITICISM", "TOKEN DE TRAZA / TRACE TOKEN"]
     },
     {
       "token_id": "NC-2026-0002-DAVID-GUNKEL",
@@ -58,9 +63,10 @@
       },
       "umbral_x": "X-ABIERTO / X-OPEN",
       "san_state": "open",
-      "token_state": "candidate",
+      "token_state": "assigned-trace",
+      "economic_state": "not-issued",
       "implementation_state": "research-task-open",
-      "badges": ["CONTRASTE / SCRUTINY", "GENEALOGÍA / GENEALOGY", "RESPONSABILIDAD / RESPONSIBILITY", "TAREA ABIERTA / OPEN TASK"]
+      "badges": ["CONTRASTE / SCRUTINY", "GENEALOGÍA / GENEALOGY", "RESPONSABILIDAD / RESPONSIBILITY", "TOKEN DE TRAZA / TRACE TOKEN"]
     },
     {
       "token_id": "NC-2026-0003-HUGO-ROGER-PAZ",
@@ -83,9 +89,10 @@
       },
       "umbral_x": "X-ABIERTO / X-OPEN",
       "san_state": "open",
-      "token_state": "candidate",
+      "token_state": "assigned-trace",
+      "economic_state": "not-issued",
       "implementation_state": "stress-test-open",
-      "badges": ["SISTEMAS COMPLEJOS / COMPLEX SYSTEMS", "DELTA / DELTA", "RIESGO / RISK", "REVISIÓN ABIERTA / OPEN REVIEW"]
+      "badges": ["SISTEMAS COMPLEJOS / COMPLEX SYSTEMS", "DELTA / DELTA", "RIESGO / RISK", "TOKEN DE TRAZA / TRACE TOKEN"]
     },
     {
       "token_id": "NC-2026-0004-WEB4-FEEDBACK",
@@ -108,9 +115,10 @@
       },
       "umbral_x": "X-ABIERTO / X-OPEN",
       "san_state": "open",
-      "token_state": "candidate",
+      "token_state": "assigned-trace",
+      "economic_state": "not-issued",
       "implementation_state": "roadmap-priority",
-      "badges": ["ROADMAP", "APRENDIZAJE / LEARNING", "CREACIÓN / CREATION", "GENEALOGÍA / GENEALOGY"]
+      "badges": ["ROADMAP", "APRENDIZAJE / LEARNING", "CREACIÓN / CREATION", "TOKEN DE TRAZA / TRACE TOKEN"]
     },
     {
       "token_id": "NC-2026-0005-JOSE-LUIS-CASAL-ASILOMAR",
@@ -133,9 +141,10 @@
       },
       "umbral_x": "X-ABIERTO / X-OPEN",
       "san_state": "open",
-      "token_state": "candidate",
+      "token_state": "assigned-trace",
+      "economic_state": "not-issued",
       "implementation_state": "genealogy-trigger-fixed",
-      "badges": ["ANTECEDENTE / ANTECEDENT", "FUENTE / SOURCE", "DISPARADOR / TRIGGER", "RETORNO / RETURN"]
+      "badges": ["ANTECEDENTE / ANTECEDENT", "FUENTE / SOURCE", "DISPARADOR / TRIGGER", "TOKEN DE TRAZA / TRACE TOKEN"]
     },
     {
       "token_id": "NC-2026-0006-NEO0-RADAR-PI",
@@ -158,9 +167,10 @@
       },
       "umbral_x": "X-ABIERTO / X-OPEN",
       "san_state": "open-fixed-delta",
-      "token_state": "candidate",
+      "token_state": "assigned-trace",
+      "economic_state": "not-issued",
       "implementation_state": "documented",
-      "badges": ["DELTA FIJADO / FIXED DELTA", "RADAR-Π™", "NEGATIVE SCAN", "FUENTE / SOURCE"]
+      "badges": ["DELTA FIJADO / FIXED DELTA", "RADAR-Π™", "BARRIDO NEGATIVO / NEGATIVE SCAN", "TOKEN DE TRAZA / TRACE TOKEN"]
     },
     {
       "token_id": "NC-2026-0007-NEO0-SENTIENT-SIGNAL",
@@ -178,14 +188,15 @@
         "en": "Introduces a functional comparison between an intelligence/observation architecture and relational framework operations while keeping convergence, equivalence, derivation and teleology separate."
       },
       "valuation": {
-        "es": "SEÑAL CANDIDATA · aporta objeto legítimo de contraste; la clasificación PROTO-ND/CONV-ND/FALSO-PAR permanece pendiente.",
-        "en": "CANDIDATE SIGNAL · provides a legitimate scrutiny object; PROTO-ND/CONV-ND/FALSE-PAIR classification remains pending."
+        "es": "SEÑAL CANDIDATA · aporta objeto legítimo de contraste; la clasificación PROTO-ND/CONV-ND/FALSO-PAR permanece pendiente. El token reconoce el delta de abrir el caso, no valida SENTIENT como equivalente al marco.",
+        "en": "CANDIDATE SIGNAL · provides a legitimate scrutiny object; PROTO-ND/CONV-ND/FALSE-PAIR classification remains pending. The token recognises the delta of opening the case; it does not validate SENTIENT as equivalent to the framework."
       },
       "umbral_x": "X-CONDICIONAL / X-CONDITIONAL",
       "san_state": "open",
-      "token_state": "candidate",
+      "token_state": "assigned-trace",
+      "economic_state": "not-issued",
       "implementation_state": "radar-case-open",
-      "badges": ["RADAR-Π™", "CONVERGENCIA / CONVERGENCE", "FUENTE PRIMARIA / PRIMARY SOURCE", "PENDIENTE / PENDING"]
+      "badges": ["RADAR-Π™", "CONVERGENCIA / CONVERGENCE", "FUENTE PRIMARIA / PRIMARY SOURCE", "TOKEN DE TRAZA / TRACE TOKEN"]
     },
     {
       "token_id": "NC-2026-0008-HOJAS-CARCOMIDAS",
@@ -208,9 +219,10 @@
       },
       "umbral_x": "X-ABIERTO / X-OPEN",
       "san_state": "fixed-delta-open-synthesis",
-      "token_state": "candidate",
+      "token_state": "assigned-trace",
+      "economic_state": "not-issued",
       "implementation_state": "manifesto-and-candidate-fixed",
-      "badges": ["LXXV", "C-NAX-22", "DELTA FIJADO / FIXED DELTA", "SÍNTESIS ABIERTA / OPEN SYNTHESIS"]
+      "badges": ["LXXV", "C-NAX-22", "DELTA FIJADO / FIXED DELTA", "TOKEN DE TRAZA / TRACE TOKEN"]
     },
     {
       "token_id": "NC-2026-0009-ANONYMOUS-TM-QUESTION",
@@ -233,9 +245,10 @@
       },
       "umbral_x": "X-ABIERTO / X-OPEN",
       "san_state": "fixed-explanatory-delta",
-      "token_state": "candidate",
+      "token_state": "assigned-trace",
+      "economic_state": "not-issued",
       "implementation_state": "clarification-fixed",
-      "badges": ["PREGUNTA FÉRTIL / FERTILE QUESTION", "DELTA / DELTA", "TRAZABILIDAD / TRACEABILITY", "ANÓNIMO / ANONYMOUS"]
+      "badges": ["PREGUNTA FÉRTIL / FERTILE QUESTION", "DELTA / DELTA", "TRAZABILIDAD / TRACEABILITY", "TOKEN DE TRAZA / TRACE TOKEN"]
     }
   ]
 }
