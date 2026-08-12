@@ -7,13 +7,13 @@
 
 ## ES · Resultado
 
-- Archivos Markdown activos revisados: **358**.
+- Archivos Markdown activos revisados: **360**.
 - Archivos Markdown históricos excluidos del estado vivo: **55**.
 - README/LEEME activos revisados: **18**.
-- Enlaces internos de ruta comprobados: **11117**.
+- Enlaces internos de ruta comprobados: **11052**.
 - Alias internos de GitHub Wiki reconocidos: **43**.
-- Enlaces externos inventariados sin comprobar disponibilidad remota: **2018**.
-- Enlaces sólo a ancla detectados: **420**.
+- Enlaces externos inventariados sin comprobar disponibilidad remota: **2021**.
+- Enlaces sólo a ancla detectados: **422**.
 - Bloques de último manifiesto encontrados en README/LEEME: **10**.
 - Manifiestos canónicos detectados: **75 · I–LXXV**.
 - Último manifiesto / Síntesis: **LXXV / #134**.
@@ -34,10 +34,10 @@
 
 ## EN · Result
 
-- Active Markdown files reviewed: **358**.
+- Active Markdown files reviewed: **360**.
 - Historical Markdown files excluded from living-state health: **55**.
 - Active README/LEEME files reviewed: **18**.
-- Internal path links checked: **11117**.
+- Internal path links checked: **11052**.
 - GitHub Wiki extensionless page aliases recognised: **43**.
 - Canonical manifestos detected: **75 · I–LXXV**.
 - Latest manifesto / synthesis: **LXXV / #134**.
