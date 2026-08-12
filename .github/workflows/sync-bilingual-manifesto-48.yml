@@ -1,0 +1,30 @@
+name: sync-bilingual-manifesto-48
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/scripts/repair_manifesto_48_strict_symmetry.py'
+      - '.github/workflows/sync-bilingual-manifesto-48.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: neocore-document-sync-main
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - run: python .github/scripts/repair_manifesto_48_strict_symmetry.py
+      - run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'fix: simetría ES EN sin compresión en XLVIII'
+          git pull --rebase origin main
+          git push origin main
