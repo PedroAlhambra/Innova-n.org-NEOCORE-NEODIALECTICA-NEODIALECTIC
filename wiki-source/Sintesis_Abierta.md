@@ -19,11 +19,24 @@ La Síntesis Abierta Neodialéctica™ — SAN™ es la capa pública de contras
 - [Registro de entrada trazable](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)
 - [Leónidas™ · auditoría abierta y aportes externos](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)
 - [NeoGenealogía™ · antecedentes, convergencias y contraejemplos](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md)
+- [RADAR-Π™ · detector de antecedentes y arquetipos recurrentes](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md)
+- [RADAR-Π™ · cola abierta de señales](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/138)
 - [Issues abiertas](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues)
 
-## NeoGenealogía™ dentro de SAN™
+## NeoGenealogía™ y RADAR-Π™ dentro de SAN™
 
-NeoGenealogía™ introduce una entrada específica para evidencia histórica y comparativa. Un antecedente, una convergencia o un contraejemplo puede modificar la genealogía y también reducir, matizar o reforzar una afirmación de novedad del propio marco.
+NeoGenealogía™ introduce una entrada específica para evidencia histórica y comparativa. **RADAR-Π™** realiza el barrido activo: detecta señales que después deben volver a fuente, compararse, buscar contraevidencia y clasificarse.
+
+```text
+SEÑAL HISTÓRICA / CONTEMPORÁNEA
+→ RADAR-Π™ DETECTA
+→ NEOGENEALOGÍA™ ATRIBUYE Y CLASIFICA
+→ SAN™ CONTRASTA
+→ DELTA / SIN DELTA / REFUTACIÓN LOCAL
+→ TRAZA
+```
+
+Un antecedente, una convergencia o un contraejemplo puede modificar la genealogía y también reducir, matizar o reforzar una afirmación de novedad del propio marco.
 
 ```text
 ANTECEDENTE
@@ -34,7 +47,7 @@ ANTECEDENTE
 → SE DETERMINA EL DELTA
 ```
 
-Primer nodo: [PROTO-ND-001 · Asilomar](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md) · [Síntesis #136](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136).
+Primer nodo: [PROTO-ND-001 · Asilomar](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md) · [NeoGenealogía #136](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136) · [RADAR-Π #137](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/137).
 
 ## Qué puede entrar
 
@@ -49,6 +62,8 @@ Primer nodo: [PROTO-ND-001 · Asilomar](https://github.com/PedroAlhambra/Innova-
 - contradicción;
 - antecedente histórico;
 - convergencia independiente;
+- recurrencia arquetípica funcional;
+- señal RADAR-Π™;
 - delta conceptual;
 - propuesta de reparación.
 
@@ -66,6 +81,9 @@ SER MAYORITARIO
 
 SER SIMILAR
 ≠ SER DERIVACIÓN O COPIA
+
+SER RECURRENTE
+≠ SER IDÉNTICO
 
 SER PRODUCIDO POR IA
 ≠ TENER AUTORIDAD FINAL
@@ -92,11 +110,24 @@ Neodialectical Open Synthesis™ — SAN™ is the public layer for challenge, r
 - [Traceable entry register](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)
 - [Leónidas™ · open audit and external contributions](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)
 - [NeoGenealogy™ · antecedents, convergences and counterexamples](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md)
+- [RADAR-Π™ · antecedent and recurring-archetype detector](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md)
+- [RADAR-Π™ · open signal queue](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/138)
 - [Open issues](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues)
 
-## NeoGenealogy™ inside Open Synthesis™
+## NeoGenealogy™ and RADAR-Π™ inside Open Synthesis™
 
-NeoGenealogy™ provides a dedicated entry path for historical and comparative evidence. An antecedent, convergence or counterexample may modify genealogy and may also reduce, qualify or strengthen a novelty claim made by the framework itself.
+NeoGenealogy™ provides a dedicated entry path for historical and comparative evidence. **RADAR-Π™** performs the active scan: it detects signals that must then return to source, be compared, face counterevidence and receive a classification.
+
+```text
+HISTORICAL / CONTEMPORARY SIGNAL
+→ RADAR-Π™ DETECTS
+→ NEOGENEALOGY™ ATTRIBUTES AND CLASSIFIES
+→ OPEN SYNTHESIS™ CHALLENGES
+→ DELTA / NO DELTA / LOCAL REFUTATION
+→ TRACE
+```
+
+An antecedent, convergence or counterexample may modify genealogy and may also reduce, qualify or strengthen a novelty claim made by the framework itself.
 
 ```text
 ANTECEDENT
@@ -107,7 +138,7 @@ ANTECEDENT
 → THE DELTA IS DETERMINED
 ```
 
-First node: [PROTO-ND-001 · Asilomar](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md) · [Synthesis #136](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136).
+First node: [PROTO-ND-001 · Asilomar](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md) · [NeoGenealogy #136](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136) · [RADAR-Π #137](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/137).
 
 ## What may enter
 
@@ -122,6 +153,8 @@ First node: [PROTO-ND-001 · Asilomar](https://github.com/PedroAlhambra/Innova-n
 - contradiction;
 - historical antecedent;
 - independent convergence;
+- functional archetypal recurrence;
+- RADAR-Π™ signal;
 - conceptual delta;
 - repair proposal.
 
@@ -139,6 +172,9 @@ BEING MAJORITY
 
 BEING SIMILAR
 ≠ BEING DERIVATION OR COPYING
+
+BEING RECURRENT
+≠ BEING IDENTICAL
 
 BEING PRODUCED BY AI
 ≠ HAVING FINAL AUTHORITY
