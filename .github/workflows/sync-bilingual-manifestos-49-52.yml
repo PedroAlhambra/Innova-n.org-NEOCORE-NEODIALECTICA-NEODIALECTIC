@@ -1,0 +1,46 @@
+name: sync-bilingual-manifestos-49-52
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/scripts/repair_manifesto_49_strict_symmetry.py'
+      - '.github/scripts/repair_manifesto_50_strict_symmetry.py'
+      - '.github/scripts/repair_manifesto_51_strict_symmetry.py'
+      - '.github/scripts/repair_manifesto_52_structure_only.py'
+      - '.github/workflows/sync-bilingual-manifestos-49-52.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: neocore-document-sync-main
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Restore strict ES EN symmetry XLIX-LII
+        run: |
+          python .github/scripts/repair_manifesto_49_strict_symmetry.py
+          python .github/scripts/repair_manifesto_50_strict_symmetry.py
+          python .github/scripts/repair_manifesto_51_strict_symmetry.py
+          python .github/scripts/repair_manifesto_52_structure_only.py
+      - name: Commit repaired manifestos
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md \
+                  manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md \
+                  manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md \
+                  manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'fix: simetría ES EN sin compresión XLIX-LII'
+          git pull --rebase origin main
+          git push origin main
