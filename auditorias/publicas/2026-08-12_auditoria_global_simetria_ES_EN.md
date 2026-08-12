@@ -12,7 +12,7 @@
 - Fallos estructurales divididos / Split structural failures: **70**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **42**.
-- Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **1**.
+- Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
 
@@ -499,7 +499,7 @@
 
 ## Plantillas GitHub Issue / GitHub Issue templates
 
-- `.github/ISSUE_TEMPLATE/auditoria_publica_aporte.yml`: name=Auditoría Pública · aporte o nueva propuesta | description=Aporta pruebas a una auditoría existente o propone una nueva auditoría pública trazable. | label=Tipo de aporte | label=Auditoría o problema relacionado | description=Enlace al documento o Issue existente; si es una auditoría nueva o no sabes dónde encaja,  | label=¿Qué quieres aportar o contrastar? | description=Explícalo con tus palabras. No necesitas terminología técnica. | label=¿Qué observaste o qué sabes directamente? | description=Cuenta el hecho observable. Si algo es una interpretación o te lo dijo otra fuente, indíca | label=Evidencia disponible | description=Puedes incluir enlaces, capturas, imágenes, identificadores, comunicaciones, fechas, regis | label=Contexto mínimo de la prueba | description=Si lo sabes, indica fecha/hora aproximada, plataforma o lugar, qué hiciste y qué resultado | description=No es obligatorio tener una explicación. Puedes escribir simplemente NO SÉ. Si tienes vari | label=¿Conoces algo que pueda contradecir tu interpretación? | description=Si existe, inclúyelo. Si no lo conoces, escribe NO SÉ. | label=¿Qué resultado o reparación sería útil? | description=Puede ser una explicación, una comprobación, una corrección, una reparación o simplemente  | label=Privacidad y límites | description=Señala qué material no debería hacerse público o requiere anonimización. Si no aplica, esc
+- OK.
 
 ## Inventario / Inventory
 
