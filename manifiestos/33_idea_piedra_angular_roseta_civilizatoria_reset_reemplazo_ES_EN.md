@@ -436,7 +436,7 @@ Humanity does not redeem itself by dominating nature. It recomposes itself by re
 
 ## II. Redemption without erasure
 
-Humanity has produced greatness and harm.
+Humanity has produced greatness and also harm.
 
 The neodialectical response does not require hatred of the species, infinite inherited guilt or erasure of the past. It requires creative responsibility.
 
@@ -449,13 +449,15 @@ RECOGNISED HARM
 = POSSIBILITY OF HUMAN REDEMPTION
 ```
 
-Redemption means ceasing to repeat harm once we are capable of understanding it. It means turning knowledge, technology, art, memory and organisation into instruments of relation rather than human grinding.
+To redeem ourselves means ceasing to repeat harm once we are capable of understanding it.
+
+It means turning knowledge, technology, art, memory and organisation into instruments of relation rather than human grinding.
 
 ## III. IDEA as Cornerstone
 
-A cornerstone does not contain the entire building. It establishes a relation from which other pieces can be oriented.
+A cornerstone does not contain the entire building by itself. It establishes a relation from which the other pieces can be oriented.
 
-IDEA performs this function because it links two times without falsifying them:
+IDEA performs this function because it connects two times without falsifying them:
 
 ```text
 1997–2002
@@ -468,7 +470,9 @@ TRACEABLE RELATION BETWEEN BOTH
 = LIVING GENEALOGY
 ```
 
-The novel precedes the system and therefore allows readers to observe which questions existed before the later vocabulary was created. It does not prove Neodialectics by itself. It preserves a verifiable root of its human trajectory.
+The novel precedes the system and, precisely for that reason, makes it possible to observe which questions were already present before the later vocabulary existed.
+
+It does not by itself demonstrate the validity of Neodialectics. It preserves a verifiable root of its human trajectory.
 
 ## IV. IDEA as Civilisational Rosetta Stone
 

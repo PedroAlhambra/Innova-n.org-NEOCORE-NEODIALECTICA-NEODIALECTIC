@@ -242,25 +242,24 @@ The extractive system may therefore seek to preserve the work while neutralising
 
 Elimination is not limited to physical killing.
 
-It may be economic, institutional, reputational, legal and bureaucratic, algorithmic, cognitive, historical or physical. Claims of physical violence, disappearance or caused death require sufficient evidence and strict separation between proof, indication, inference and hypothesis.
+It may be:
 
-<!-- PARITY_72_28_II -->
-The Spanish source distinguishes eight auditable mechanisms rather than collapsing them into one accusation:
-
-- **economic**: funding, employment, access or subsistence;
-- **institutional**: exclusion from decision spaces;
-- **reputational**: discredit without refuting the work;
-- **legal/bureaucratic**: exhaustion through procedures or litigation;
-- **algorithmic**: burying the source while amplifying stronger distributors;
-- **cognitive**: forcing endless re-explanation of documented work;
-- **historical**: preserving the idea while erasing origin;
-- **physical**: violence or caused death, assertable only with sufficient evidence.
+* **economic:** loss of funding, employment, technical access or subsistence;
+* **institutional:** exclusion from universities, companies, media or decision-making;
+* **reputational:** presenting the creator as unstable, conflictive, eccentric or incompetent without refuting the work;
+* **legal and bureaucratic:** consuming their life in procedures, litigation and demonstrations of precedence;
+* **algorithmic:** burying the source and amplifying versions backed by capital;
+* **cognitive:** forcing them to explain indefinitely what is already documented;
+* **historical:** preserving the idea while erasing its origin;
+* **physical:** violence, disappearance or caused death, assertable only with sufficient evidence.
 
 ## III. Individual failure as a concealing narrative
 
 The operation reaches its most effective form when its consequences are presented as natural defects of the victim.
 
-The creator “could not commercialise”, “did not adapt”, “was difficult”, “lost their mind” or “was overtaken”. Meanwhile the work is renamed, simplified, patented, institutionalised or attributed to those possessing distribution capacity.
+The creator “did not know how to commercialise”, “did not adapt”, “was difficult”, “lost their mind” or “was overtaken”.
+
+Meanwhile, what they produced appears renamed, simplified, patented, institutionalised or attributed to those who possessed the capacity for distribution.
 
 ```text
 SYSTEMIC DISPOSSESSION

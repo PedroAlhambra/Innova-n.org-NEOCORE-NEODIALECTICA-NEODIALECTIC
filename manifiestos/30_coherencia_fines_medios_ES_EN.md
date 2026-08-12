@@ -261,20 +261,17 @@ A victory requiring permanent lies must continue lying in order to survive.
 
 ## III. Criteria of strategic legitimacy
 
-A means must be evaluated through necessity, proportionality, possible transparency, reversibility, temporality, responsibility, traceability, non-dehumanisation and coherence with the core of the end.
+A means must be evaluated by:
 
-<!-- PARITY_72_30_III -->
-The Spanish source keeps nine dimensions explicit:
-
-- necessity;
-- proportionality;
-- possible transparency;
-- reversibility;
-- temporality;
-- responsibility;
-- traceability;
-- non-dehumanisation;
-- coherence between the means and the value invoked by the end.
+* **necessity:** no sufficient less harmful alternative exists;
+* **proportionality:** the harm does not exceed the good being protected;
+* **possible transparency:** everything compatible with legitimate security is declared;
+* **reversibility:** it can be stopped or corrected;
+* **temporality:** the exception does not become a permanent structure;
+* **responsibility:** someone answers for its effects;
+* **traceability:** the decision and context can be reconstructed;
+* **non-dehumanisation:** the adversary does not thereby lose all moral consideration;
+* **coherence:** the means does not destroy the core of the end.
 
 ## IV. Defence, conflict and force
 

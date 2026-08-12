@@ -574,18 +574,35 @@ A system that forgets every incident forces society to pay the same cost repeate
 
 ## VII. Concrete utility of the Neodialectica Framework™
 
-The framework should create utility at multiple scales: helping persons distinguish experience and conditioning; reconstructing organisational processes and failure points; revealing market separation between price and contributed value; auditing whether technology expands capacity or captures autonomy; preserving institutional responses and corrections; maintaining cultural genealogy; and comparing whether the direction of multiple systems increases life, understanding, creative capacity and the Common Good or accumulates fragmentation and extraction.
+The framework must be capable of producing concrete utility at several scales.
 
-<!-- PARITY_72_34_VII -->
-The Spanish source specifies the same utility test across seven scales:
+### 1. Person
 
-- **Person:** help distinguish experience, conditioning, interest, fear, evidence and one's own direction.
-- **Organisation:** reconstruct processes, responsibilities, dependencies, failure points, hidden costs and repair routes.
-- **Market:** show when price, attention or bargaining power separate from the real value contributed.
-- **Technology:** audit whether a tool expands human capacity or captures autonomy, memory, identity or decision.
-- **Institutions:** preserve responses, commitments, inconsistencies, improvements and absence of response in traceable public memory.
-- **Culture:** relate works, symbols, genealogies and transformations without erasing provenance.
-- **Civilisation:** compare the combined direction of multiple systems and ask whether their sum increases life, understanding, sufficient freedom, creative capacity and the Common Good, or instead produces fragmentation, extraction and accumulated harm.
+Help distinguish lived experience, conditioning, interest, fear, evidence and one's own direction.
+
+### 2. Organisation
+
+Reconstruct processes, responsibilities, dependencies, failure points, hidden costs and repair routes.
+
+### 3. Market
+
+Reveal when price, attention or bargaining power separate from the real value contributed.
+
+### 4. Technology
+
+Audit whether a tool expands human capacity or captures autonomy, memory, identity or decision-making.
+
+### 5. Institutions
+
+Preserve responses, commitments, inconsistencies, improvements and absence of response within traceable public memory.
+
+### 6. Culture
+
+Relate works, symbols, genealogies and transformations without erasing provenance.
+
+### 7. Civilisation
+
+Compare the combined direction of multiple systems and ask whether their sum increases life, understanding, sufficient freedom, creative capacity and the Common Good, or instead produces fragmentation, extraction and accumulated harm.
 
 ## VIII. From error to contribution
 

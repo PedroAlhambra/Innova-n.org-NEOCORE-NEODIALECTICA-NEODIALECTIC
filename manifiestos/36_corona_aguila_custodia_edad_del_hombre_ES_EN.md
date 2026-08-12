@@ -440,7 +440,14 @@ The Eagle sees from above in order to serve below. It does not place the Foundat
 
 The **Lion™** enters the grammar of custodianship as contained protective strength.
 
-It does not represent superiority of blood, people or lineage. It represents courage before danger, dignity without submission, defence of the vulnerable, endurance under pressure, strength limited by purpose and the decision to protect without turning protection into domination.
+It does not represent superiority of blood, people or lineage. It represents:
+
+- courage before danger;
+- dignity without submission;
+- defence of the vulnerable;
+- endurance under pressure;
+- strength limited by purpose;
+- and the decision to protect without turning protection into domination.
 
 ```text
 STRENGTH WITHOUT LIMIT
@@ -564,7 +571,18 @@ The relation is suggestive, but must remain traceable: **symbolic similarity doe
 
 ### Spain-in-Synthesis Flag™ · open proposal
 
-SAN™ is opened to study a flag capable of preserving, without confusing them, layers that are now fragmented: the current constitutional flag and its historical continuity; relevant historical and regional ensigns; Crown as responsibility; neodialectical grammar; European belonging; Jewish/Hebrew heritage of the peninsula and diaspora; Arab and Islamic heritage of Al-Andalus and the Mediterranean; Christian and secular memory; peoples, regions, migrations and minorities; and sexual and gender diversity, precisely because a flag aspiring to represent everyone cannot require part of the population to disappear symbolically in order to belong.
+SAN™ is opened to study a flag capable of preserving, without confusing them, layers that are now fragmented:
+
+- the current constitutional flag and its historical continuity;
+- relevant historical and regional ensigns;
+- Crown as responsibility;
+- neodialectical grammar;
+- European belonging;
+- Jewish/Hebrew heritage of the peninsula and diaspora;
+- Arab and Islamic heritage of Al-Andalus and the Mediterranean;
+- Christian and secular memory;
+- peoples, regions, migrations and minorities;
+- and sexual and gender diversity, precisely because a flag aspiring to represent everyone cannot require part of the population to disappear symbolically in order to belong.
 
 The Synthesis **does not adopt the claim that sexual diversity constitutes biological degradation**. It may study how different dogmas judged it historically and how exclusion fragmented societies, but it does not turn a moral judgement into a genetic statement.
 
