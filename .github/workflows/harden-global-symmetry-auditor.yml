@@ -1,0 +1,36 @@
+name: harden-global-symmetry-auditor
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/scripts/harden_global_symmetry_auditor.py'
+      - '.github/workflows/harden-global-symmetry-auditor.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: neocore-document-sync-main
+  cancel-in-progress: false
+
+jobs:
+  harden:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Harden global bilingual auditor
+        run: python .github/scripts/harden_global_symmetry_auditor.py
+      - name: Commit hardened auditor
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add .github/scripts/audit_global_bilingual_symmetry.py
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'audit: simetría ES EN estricta en toda superficie pública'
+          git pull --rebase origin main
+          git push origin main
