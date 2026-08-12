@@ -1,6 +1,6 @@
 name: audit-global-bilingual-symmetry
 
-# Revisión viva 2026-08-12 · sin compresión ES/EN.
+# Revisión viva 2026-08-12 · sin compresión ES/EN · refresco tras XLIX–LVI.
 on:
   workflow_dispatch:
   push:
