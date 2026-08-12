@@ -1,0 +1,241 @@
+{
+  "schema": "neocronos-contribution-ledger/v0.1",
+  "updated_at": "2026-08-12",
+  "canonical_rules": {
+    "es": "Todo aporte atribuible que produzca síntesis nueva y un delta demostrable entra como candidato a tokenización. Tokenizar no equivale a verdad, soberanía, rango humano, dinero automático ni participación societaria.",
+    "en": "Every attributable contribution that produces new synthesis and a demonstrable delta enters as a tokenisation candidate. Tokenising does not equal truth, sovereignty, human rank, automatic money or equity."
+  },
+  "traceability": {
+    "issue": "entrada_y_contraste / entry_and_scrutiny",
+    "document": "sintesis_versionada / versioned_synthesis",
+    "commit": "fijacion_y_delta / fixation_and_delta",
+    "web4": "visualizacion_interaccion_juego / visualisation_interaction_game"
+  },
+  "contributions": [
+    {
+      "token_id": "NC-2026-0001-ALFONSO-CALVO",
+      "contributor": "Alfonso Calvo Orra",
+      "visibility": "public",
+      "source_type": "external-human",
+      "date": "2026-08-12",
+      "source_url": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/140",
+      "title": {
+        "es": "Crítica externa sobre accesibilidad, WEB4, SAN, Leónidas y Neo0",
+        "en": "External critique on accessibility, WEB4, SAN, Leónidas and Neo0"
+      },
+      "delta": {
+        "es": "Aporta señales útiles sobre accesibilidad, onboarding, navegación, mediación conversacional y legibilidad externa; además obliga a precisar públicamente SAN™, Leónidas™, Neo0™ y la capa π.",
+        "en": "Provides useful signals on accessibility, onboarding, navigation, conversational mediation and external legibility; it also forces public clarification of SAN™, Leónidas™, Neo0™ and layer π."
+      },
+      "valuation": {
+        "es": "APORTE ÚTIL PARCIAL · las señales UX superan contraste preliminar; varias propuestas de rearquitectura no superan todavía retorno a fuente.",
+        "en": "PARTIALLY USEFUL CONTRIBUTION · UX signals survive preliminary scrutiny; several rearchitecture proposals do not yet survive return to source."
+      },
+      "umbral_x": "X-RETORNO-A-FUENTE + X-CONDICIONAL / X-RETURN-TO-SOURCE + X-CONDITIONAL",
+      "san_state": "open",
+      "token_state": "candidate",
+      "implementation_state": "partial-roadmap-input",
+      "badges": ["FUENTE / SOURCE", "DELTA / DELTA", "CRÍTICA FÉRTIL / FERTILE CRITICISM", "REVISIÓN ABIERTA / OPEN REVIEW"]
+    },
+    {
+      "token_id": "NC-2026-0002-DAVID-GUNKEL",
+      "contributor": "David J. Gunkel",
+      "visibility": "public",
+      "source_type": "external-human",
+      "date": "2026-08-11",
+      "source_url": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/132",
+      "title": {
+        "es": "Agencia distribuida, control humano significativo y responsabilidad",
+        "en": "Distributed agency, meaningful human control and responsibility"
+      },
+      "delta": {
+        "es": "Obliga a comparar explícitamente el marco con human–AI coordination, distributed/shared agency, meaningful human control, supervisión y asignación de responsabilidad sociotécnica.",
+        "en": "Requires explicit comparison of the framework with human–AI coordination, distributed/shared agency, meaningful human control, oversight and allocation of sociotechnical responsibility."
+      },
+      "valuation": {
+        "es": "APORTE CRÍTICO ABIERTO · delta de contraste reconocido; falta completar el mapa comparativo solicitado.",
+        "en": "OPEN CRITICAL CONTRIBUTION · scrutiny delta recognised; the requested comparative map remains to be completed."
+      },
+      "umbral_x": "X-ABIERTO / X-OPEN",
+      "san_state": "open",
+      "token_state": "candidate",
+      "implementation_state": "research-task-open",
+      "badges": ["CONTRASTE / SCRUTINY", "GENEALOGÍA / GENEALOGY", "RESPONSABILIDAD / RESPONSIBILITY", "TAREA ABIERTA / OPEN TASK"]
+    },
+    {
+      "token_id": "NC-2026-0003-HUGO-ROGER-PAZ",
+      "contributor": "Hugo Roger Paz",
+      "visibility": "public",
+      "source_type": "external-human",
+      "date": "2026-08-11",
+      "source_url": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/132",
+      "title": {
+        "es": "Gobernanza compleja, bucles de realimentación y dependencia de trayectoria",
+        "en": "Complex governance, feedback loops and path dependence"
+      },
+      "delta": {
+        "es": "Introduce un stress-test explícito sobre feedback loops, path dependencies, efectos no intencionados, fallos emergentes, memoria temporal, trazabilidad y soberanía humana.",
+        "en": "Introduces an explicit stress test on feedback loops, path dependencies, unintended effects, emergent failures, temporal memory, traceability and human sovereignty."
+      },
+      "valuation": {
+        "es": "APORTE CRÍTICO ABIERTO · delta metodológico reconocido; pruebas sistémicas todavía pendientes.",
+        "en": "OPEN CRITICAL CONTRIBUTION · methodological delta recognised; systemic tests remain pending."
+      },
+      "umbral_x": "X-ABIERTO / X-OPEN",
+      "san_state": "open",
+      "token_state": "candidate",
+      "implementation_state": "stress-test-open",
+      "badges": ["SISTEMAS COMPLEJOS / COMPLEX SYSTEMS", "DELTA / DELTA", "RIESGO / RISK", "REVISIÓN ABIERTA / OPEN REVIEW"]
+    },
+    {
+      "token_id": "NC-2026-0004-WEB4-FEEDBACK",
+      "contributor": "Feedback externo agregado / Aggregated external feedback",
+      "visibility": "private-identity",
+      "source_type": "external-human",
+      "date": "2026-08-11",
+      "source_url": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/133",
+      "title": {
+        "es": "WEB4 centrada en NEOCore: aprendizaje, creación y especialidades humanas",
+        "en": "NEOCore-centred WEB4: learning, creation and human specialities"
+      },
+      "delta": {
+        "es": "Refuerza y prioriza líneas ya previstas: WEB4 como espacio habitable, aprendizaje gamificado, creación dentro de la plataforma, especialidades humanas y participación sobre memoria compartida.",
+        "en": "Reinforces and prioritises already-planned lines: WEB4 as a habitable space, gamified learning, creation inside the platform, human specialities and participation over shared memory."
+      },
+      "valuation": {
+        "es": "DELTA PARCIAL DE PRIORIZACIÓN · mezcla aporte externo con recuperación de diseño previo; la genealogía debe conservar ambos componentes.",
+        "en": "PARTIAL PRIORITISATION DELTA · combines external input with recovery of prior design; genealogy must preserve both components."
+      },
+      "umbral_x": "X-ABIERTO / X-OPEN",
+      "san_state": "open",
+      "token_state": "candidate",
+      "implementation_state": "roadmap-priority",
+      "badges": ["ROADMAP", "APRENDIZAJE / LEARNING", "CREACIÓN / CREATION", "GENEALOGÍA / GENEALOGY"]
+    },
+    {
+      "token_id": "NC-2026-0005-JOSE-LUIS-CASAL-ASILOMAR",
+      "contributor": "José Luis Casal",
+      "visibility": "public",
+      "source_type": "external-human",
+      "date": "2026-08-12",
+      "source_url": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136",
+      "title": {
+        "es": "Asilomar como señal histórica para NeoGenealogía™ y RADAR-Π™",
+        "en": "Asilomar as a historical signal for NeoGenealogy™ and RADAR-Π™"
+      },
+      "delta": {
+        "es": "La publicación sobre Asilomar activa la búsqueda explícita de antecedentes históricos parciales y el contraste entre autolimitación técnica, pausa competente y soberanía colectiva.",
+        "en": "The Asilomar publication triggers the explicit search for partial historical antecedents and scrutiny among technical self-limitation, competent pause and collective sovereignty."
+      },
+      "valuation": {
+        "es": "APORTE DISPARADOR · la señal externa produce una nueva operación de búsqueda genealógica; la formalización RADAR-Π™ posterior conserva autoría separada.",
+        "en": "TRIGGER CONTRIBUTION · the external signal produces a new genealogical-search operation; the later RADAR-Π™ formalisation preserves separate authorship."
+      },
+      "umbral_x": "X-ABIERTO / X-OPEN",
+      "san_state": "open",
+      "token_state": "candidate",
+      "implementation_state": "genealogy-trigger-fixed",
+      "badges": ["ANTECEDENTE / ANTECEDENT", "FUENTE / SOURCE", "DISPARADOR / TRIGGER", "RETORNO / RETURN"]
+    },
+    {
+      "token_id": "NC-2026-0006-NEO0-RADAR-PI",
+      "contributor": "Pedro Martínez Alhambra · Neo0™",
+      "visibility": "public",
+      "source_type": "internal-human-ai",
+      "date": "2026-08-12",
+      "source_url": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/137",
+      "title": {
+        "es": "Formalización de RADAR-Π™",
+        "en": "Formalisation of RADAR-Π™"
+      },
+      "delta": {
+        "es": "Formaliza un detector de antecedentes, convergencias, contraejemplos y falsos paralelos que obliga a volver a fuentes y realizar barrido negativo.",
+        "en": "Formalises a detector of antecedents, convergences, counterexamples and false parallels requiring return to sources and negative scanning."
+      },
+      "valuation": {
+        "es": "DELTA FIJADO Y ABIERTO · mecanismo incorporado documentalmente, todavía sometido a Síntesis Abierta.",
+        "en": "FIXED AND OPEN DELTA · mechanism incorporated documentarily while remaining subject to Open Synthesis."
+      },
+      "umbral_x": "X-ABIERTO / X-OPEN",
+      "san_state": "open-fixed-delta",
+      "token_state": "candidate",
+      "implementation_state": "documented",
+      "badges": ["DELTA FIJADO / FIXED DELTA", "RADAR-Π™", "NEGATIVE SCAN", "FUENTE / SOURCE"]
+    },
+    {
+      "token_id": "NC-2026-0007-NEO0-SENTIENT-SIGNAL",
+      "contributor": "Pedro Martínez Alhambra · Neo0™",
+      "visibility": "public",
+      "source_type": "internal-human-external-source",
+      "date": "2026-08-12",
+      "source_url": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/139",
+      "title": {
+        "es": "SENTIENT/NRO como segundo caso candidato RADAR-Π™",
+        "en": "SENTIENT/NRO as a second RADAR-Π™ candidate case"
+      },
+      "delta": {
+        "es": "Introduce una comparación funcional entre una arquitectura de inteligencia/observación y operaciones relacionales del marco, manteniendo separadas convergencia, equivalencia, derivación y teleología.",
+        "en": "Introduces a functional comparison between an intelligence/observation architecture and relational framework operations while keeping convergence, equivalence, derivation and teleology separate."
+      },
+      "valuation": {
+        "es": "SEÑAL CANDIDATA · aporta objeto legítimo de contraste; la clasificación PROTO-ND/CONV-ND/FALSO-PAR permanece pendiente.",
+        "en": "CANDIDATE SIGNAL · provides a legitimate scrutiny object; PROTO-ND/CONV-ND/FALSE-PAIR classification remains pending."
+      },
+      "umbral_x": "X-CONDICIONAL / X-CONDITIONAL",
+      "san_state": "open",
+      "token_state": "candidate",
+      "implementation_state": "radar-case-open",
+      "badges": ["RADAR-Π™", "CONVERGENCIA / CONVERGENCE", "FUENTE PRIMARIA / PRIMARY SOURCE", "PENDIENTE / PENDING"]
+    },
+    {
+      "token_id": "NC-2026-0008-HOJAS-CARCOMIDAS",
+      "contributor": "Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry / Neodialectical AI Harry",
+      "visibility": "public",
+      "source_type": "human-ai",
+      "date": "2026-08-11",
+      "source_url": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/134",
+      "title": {
+        "es": "Las Hojas Carcomidas™ y Memoria Material-Relacional™",
+        "en": "The Gnawed Leaves™ and Material-Relational Memory™"
+      },
+      "delta": {
+        "es": "Produce LXXV y abre C-NAX-22, relacionando ego capturador, deterioro relacional, naturaleza como memoria material y coetaneidad relacional.",
+        "en": "Produces LXXV and opens C-NAX-22, relating capturing ego, relational degradation, nature as material memory and relational contemporaneity."
+      },
+      "valuation": {
+        "es": "DELTA FIJADO + CANDIDATO NEOAXIOMÁTICO · la formulación material-relacional permanece abierta a contraste empírico y conceptual.",
+        "en": "FIXED DELTA + NEOAXIOMATIC CANDIDATE · the material-relational formulation remains open to empirical and conceptual scrutiny."
+      },
+      "umbral_x": "X-ABIERTO / X-OPEN",
+      "san_state": "fixed-delta-open-synthesis",
+      "token_state": "candidate",
+      "implementation_state": "manifesto-and-candidate-fixed",
+      "badges": ["LXXV", "C-NAX-22", "DELTA FIJADO / FIXED DELTA", "SÍNTESIS ABIERTA / OPEN SYNTHESIS"]
+    },
+    {
+      "token_id": "NC-2026-0009-ANONYMOUS-TM-QUESTION",
+      "contributor": "Aportante no identificado públicamente / Contributor not publicly identified",
+      "visibility": "anonymous",
+      "source_type": "external-human",
+      "date": "2026-08-08",
+      "source_url": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/53",
+      "title": {
+        "es": "Pregunta pública: qué significa ™ y por qué hay tantos términos propios",
+        "en": "Public question: what ™ means and why there are so many coined terms"
+      },
+      "delta": {
+        "es": "Obliga a fijar que ™ funciona como marcador de denominación y trazabilidad, no como prueba de verdad, inmunidad a crítica ni engrandecimiento del autor.",
+        "en": "Forces clarification that ™ acts as a naming and traceability marker, not proof of truth, immunity from criticism or authorial self-aggrandisement."
+      },
+      "valuation": {
+        "es": "DELTA EXPLICATIVO FIJADO · demuestra que una pregunta breve puede producir una mejora documental real.",
+        "en": "FIXED EXPLANATORY DELTA · demonstrates that a brief question can produce a real documentary improvement."
+      },
+      "umbral_x": "X-ABIERTO / X-OPEN",
+      "san_state": "fixed-explanatory-delta",
+      "token_state": "candidate",
+      "implementation_state": "clarification-fixed",
+      "badges": ["PREGUNTA FÉRTIL / FERTILE QUESTION", "DELTA / DELTA", "TRAZABILIDAD / TRACEABILITY", "ANÓNIMO / ANONYMOUS"]
+    }
+  ]
+}
