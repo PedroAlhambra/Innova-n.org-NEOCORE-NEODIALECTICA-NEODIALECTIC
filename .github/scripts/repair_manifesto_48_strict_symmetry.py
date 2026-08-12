@@ -8,10 +8,19 @@ def rep(heading, body):
     global text
     en=text.index('# EN · English')
     marker='## '+heading
-    s=text.index(marker,en)
-    rest=text[s+len(marker):]
+    try:
+        s=text.index(marker,en)
+        marker_len=len(marker)
+    except ValueError:
+        ordinal=heading.split('.',1)[0]
+        mm=re.search(r'^##\s+'+re.escape(ordinal)+r'\.\s+.*$',text[en:],re.M)
+        if not mm:
+            raise SystemExit(f'Cannot resolve EN heading: {heading}')
+        s=en+mm.start()
+        marker_len=len(mm.group(0))
+    rest=text[s+marker_len:]
     m=re.search(r'^##\s+',rest,re.M)
-    e=s+len(marker)+m.start() if m else text.index('<!-- NEO_RELATIONS_START -->',s)
+    e=s+marker_len+m.start() if m else text.index('<!-- NEO_RELATIONS_START -->',s)
     text=text[:s]+marker+'\n\n'+body.strip()+'\n\n'+text[e:]
 
 rep('I. Synthesis is not an eye: it is a relation',r'''
