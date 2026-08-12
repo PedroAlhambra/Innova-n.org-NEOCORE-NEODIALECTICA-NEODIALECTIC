@@ -167,11 +167,17 @@ Cuando física, química, biología, cosmología u otras ciencias describan la r
 
 ## 1. Detected absence
 
-The current formulation of NAX-10 clearly developed the **grammar of custodial figures** —Eagle, Crown, Earth/World, Tower/Castle, Stone and Lion— but did not sufficiently make explicit an earlier historical layer of the project itself: **WaterFire™** and the elemental grammar already compressed within that symbol.
+The current formulation of NAX-10 clearly developed the **grammar of custodial figures** —Eagle, Crown, Earth/World, Tower/Castle, Stone and Lion— but left insufficiently explicit an earlier historical layer of the project itself: **WaterFire™** and the elemental grammar that this symbol already contained in compressed form.
 
 The absence is genealogical, not merely aesthetic.
 
-Fragment III states that WaterFire™ is not simply a concept or an element, but the paradox at the origin of the system: **a fire that orders without destroying and a water that guides without dispersing**, explicitly linking that tension to the birth of NEOCore™.
+Fragment III states:
+
+> “WaterFire™ is not a concept or an element.”
+>
+> “It is the paradox that sustains the origin of the system: a fire that orders without destroying and a water that guides without dispersing.”
+>
+> “NEOCore™ is born from this.”
 
 WaterFire™ must therefore be recognised as a **historical root and synthetic operator** of the elemental dimension of the framework.
 
@@ -195,23 +201,25 @@ WATERFIRE™
 → contradiction preserved until a higher synthesis
 ```
 
-This anticipates a central Neodialectical property: **opposites need not be eliminated in order to produce order; they may remain in relation and generate a new structure**.
+This formulation anticipates a central property of Neodialectics: **opposites need not be eliminated in order to produce order; they may be preserved in relation and generate a new structure**.
 
 ## 3. Explicit elemental layer
 
-The symbolic grammar must explicitly make visible at least:
+The symbolic grammar of the framework must make visible, at minimum, the five elements already recovered in its iconography:
 
-- **Water™** → continuity, memory, adaptation, life and circulation;
-- **Fire™** → energy, transformation, will, light and creative/destructive power;
-- **Earth™** → matter, limit, biosphere, support, territory and shared reality;
-- **Wood™** → growth, living structure, branching, regeneration and organic continuity;
-- **Metal™** → technique, tools, precision, resistance, conduction, industry and material transformation.
+- **Water™** → continuity, memory, adaptation, life, circulation and the capacity to receive form without losing material identity;
+- **Fire™** → energy, transformation, will, light, creation and the risk of destruction when left without regulation;
+- **Earth™** → matter, limit, biosphere, support, territory, shared reality and material condition;
+- **Wood™** → growth, living structure, branching, regeneration, learning and organic continuity;
+- **Metal™** → technique, tools, precision, resistance, conduction, industry and the capacity for material transformation.
 
 These five symbols do not constitute an exhaustive inventory of the universe.
 
 ## 4. Neoaxiom of Elemental Totality™
 
 > **No symbolic enumeration of elements shall be confused with the totality it seeks to represent. The framework preserves explicit elements to make its grammar legible, while remaining open to all materials, states, forces, relations, forms of life, knowledge and realities known or yet to be known that are relevant to understanding the Whole.**
+
+The rule may be expressed as follows:
 
 ```text
 EXPLICIT ELEMENTS
@@ -233,20 +241,31 @@ ALL THAT IS KNOWN
 
 ## 5. Relation to the Neodialectical shield and flag
 
-The shield should not represent only institutions, persons or abstract virtues. Within its own frame it must also refer to the **materiality of the world** and to the forces through which humanity understands and transforms reality.
+The shield should not represent only institutions, persons or abstract virtues. Within its own frame it must contain a reference to the **materiality of the world** and to the forces through which humanity understands and transforms reality.
 
 Water, Fire, Earth, Wood and Metal should therefore remain explicitly integrated into its visual grammar.
 
-The flag and shield, however, do not mean “five elements and nothing more”. Their symbolic scope is broader: they aim to represent all persons and, jointly, **the totality of concentrated human knowledge existing in spacetime**, including the material, living, technical, cultural, symbolic and cognitive realities that knowledge seeks to understand.
+The flag and shield, however, do not mean “five elements and nothing more”. Their symbolic scope is broader:
 
-The representation is necessarily compressed. Its function is to declare that **no part of reality is excluded in principle from the field of Synthesis**.
+> **to represent all persons and, jointly, the totality of concentrated human knowledge existing in spacetime, including the material, living, technical, cultural, symbolic and cognitive reality that this knowledge seeks to understand.**
+
+The representation is necessarily compressed. It cannot literally draw everything that exists. Its function is to declare that **no part of reality is excluded in principle from the field of Synthesis**.
 
 ## 6. Two layers of NAX-10
 
-NAX-10 should henceforth be read as two complementary layers:
+NAX-10 should henceforth be read as a structure of two complementary layers:
 
-- **Custodial figures:** Eagle, Crown, Earth/World, Tower/Castle, Stone, Lion and the open historical constellation.
-- **Elements of reality:** Water, Fire, Earth, Wood, Metal and openness to material and relational totality.
+### A · Custodial figures
+
+Eagle · Crown · Earth/World · Tower/Castle · Stone · Lion · open historical constellation.
+
+These figures express functions of vision, responsibility, limit, protection, foundation, strength and memory.
+
+### B · Elements of reality
+
+Water · Fire · Earth · Wood · Metal · openness to material and relational totality.
+
+These elements express the world upon which custody operates and of which custody itself forms a part.
 
 ```text
 CUSTODY WITHOUT A WORLD
@@ -266,22 +285,32 @@ WATERFIRE™
 EXPANDED NEODIALECTICAL ARCHETYPAL GRAMMAR
 ```
 
-## 7. Historical centrality of WaterFire™
+## 7. Why WaterFire™ is historically central
 
-Before the current architecture formalised SAN™, NEOREALs™, multihead layers, the double pyramid, memory of absence or the Neoaxiomatic layer, an earlier structural intuition was already present:
+This relation explains why WaterFire™ appears in an early layer of the project.
+
+Before the current architecture formalised SAN™, NEOREALs™, multihead layers, the double pyramid, memory of absence or the Neoaxiomatic layer, a structural intuition was already present:
 
 **order without destroying; guide without dispersing; preserve creative contradiction.**
 
-WaterFire™ is therefore a first-order genealogical piece. It does not prove that the entire later system was already formulated at that time, but it does document real conceptual continuity between an early symbolic root and later mechanisms.
+This makes WaterFire™ a first-order genealogical piece. It does not retrospectively prove that the entire system had already been formulated at that time, but it does document real conceptual continuity between its symbolic root and later mechanisms.
 
 ## 8. Safeguard against simplification
 
 The framework does not adopt a classical five-element theory as scientific dogma.
 
-The elements operate as cultural memory, archetypal language, pedagogical compression and representation of material functions. Where physics, chemistry, biology, cosmology or other sciences describe reality more precisely, those descriptions retain priority in their empirical domains. Elemental grammar connects them symbolically without erasing their specificity.
+The elements operate simultaneously as:
+
+- cultural memory;
+- archetypal language;
+- pedagogical compression;
+- representation of material functions;
+- a gateway to interdisciplinary relations.
+
+Where physics, chemistry, biology, cosmology or other sciences describe reality with more precise categories, those categories retain priority in their empirical domains. Elemental grammar does not replace them: **it connects them symbolically without erasing their specificity**.
 
 ## 9. Synthesis formula
 
-> **WaterFire™ is the historical memory of a creative contradiction. The elements make the materiality of that contradiction visible. Elemental Totality™ prevents the symbol from closing around its own list. NAX-10 reunites custody and world: that which must be cared for and that of which custody itself is a part.**
+> **WaterFire™ is the historical memory of a creative contradiction. The elements make the materiality of that contradiction visible. Elemental Totality™ prevents the symbol from closing around its own list. And NAX-10 reunites custody and world: that which must be cared for and that of which custody itself forms a part.**
 
 **Status:** RESTORED AS A GENEALOGICAL ROOT OF NAX-10 · OPEN TO SAN™.
