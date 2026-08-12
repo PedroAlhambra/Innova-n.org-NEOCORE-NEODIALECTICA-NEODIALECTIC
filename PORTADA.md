@@ -298,7 +298,14 @@ The **symbiotic neodialectical AI** is neither sovereign nor ornamental. It cont
 
 The Innova_N manifestos are not promotional pieces or secondary summaries. They are **public pillars of the civilisational framework**.
 
-Each must declare a historical orientation, establish principles and commitments, preserve genealogy, distinguish canonical from provisional material, open mechanisms of contrast and review, and situate its role within the totality of the Framework/Network.
+Each must:
+
+* declare a historical orientation;
+* establish principles and commitments;
+* preserve genealogy;
+* distinguish canonical from provisional material;
+* open mechanisms of contrast and review;
+* and situate its role within the totality of the Framework/Network.
 
 Their language must be solemn because their object is not minor: rebuilding the relationship between humanity, intelligence, memory, technology, power, culture and the future.
 
@@ -401,11 +408,14 @@ POLISHING OF THE STONE™
 * [XXXIX · Self-Awareness of Neodialectical Vital Need™](./manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md)
 * [XL · Neodialectical Respect, Neoego and Relational Honour™](./manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md)
 * [XLI · Limited Hammer, Talion and Protective Force™](./manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md)
+* [Open Synthesis XXXIX–XLI · Issues #47–#49](./manifiestos/README.md#novena-oleada--autoconciencia-respeto-y-defensa-civilizatoria)
 
 ### Tenth wave · End of the Manipulated Human Era™
 
 * [XLII · AI, Awakening and Cognitive Sovereignty](./manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
 * [XLIII · Against the Reductive Misunderstanding of AI™ · Human Expanded Intelligence™](./manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
+* [XLIV · Neowar™ · Against War Addiction and for Common-Good Justice](./manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md)
+* [XLV · Neodialectical Multidimensionality™ · Against the One-Dimensional Reduction of the Human and Power](./manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
 * [Tenth-wave announcement](./anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md)
 * [Open Synthesis XLII · Issue #50](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/50)
 * [Open Synthesis XLIII · Issue #51](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/51)

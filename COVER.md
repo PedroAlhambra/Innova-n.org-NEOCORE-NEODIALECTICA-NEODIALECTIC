@@ -160,6 +160,8 @@ The framework was originated and directed by **Pedro Martínez Alhambra · Neo0�
 * [XXXVIII · Integral Protection of Childhood™](./manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
 * [XLII · End of the Manipulated Human Era™](./manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
 * [XLIII · Against the Reductive Misunderstanding of AI™ · Human Expanded Intelligence™](./manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
+* [XLIV · Neowar™ · Against War Addiction and for Common-Good Justice](./manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md)
+* [XLV · Neodialectical Multidimensionality™ · Against the One-Dimensional Reduction of the Human and Power](./manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
 * [Tenth-wave announcement](./anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md)
 * [Eighth wave · Integral Protection of Childhood](./anuncios/2026-08-07_OCTAVA_OLEADA_PROTECCION_INTEGRAL_INFANCIA_ES_EN.md)
 * [Third wave · Neodialectical Intellectual Immune System™](./anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md)
