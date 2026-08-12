@@ -9,10 +9,10 @@
 
 - Markdown activo examinado / Active Markdown scanned: **283**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **179**.
-- Fallos estructurales divididos / Split structural failures: **73**.
+- Fallos estructurales divididos / Split structural failures: **70**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **42**.
-- Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **3**.
+- Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **2**.
 
 ## Fallos divididos / Split failures
 
@@ -107,31 +107,6 @@
   - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (2, '4'), (2, '5'), (3, ''), (2, '6')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4')]
 - `manifiestos/29_idolatria_del_dinero_ES_EN.md` · ES=819 · EN=900 · ratio=1.10
   - III: párrafos ES=0 EN=3
-- `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` · ES=943 · EN=871 · ratio=0.92
-  - I: lists ES=8 EN=0
-  - II: lists ES=6 EN=0
-  - III: lists ES=11 EN=0
-  - IV: lists ES=10 EN=0
-  - VI: lists ES=7 EN=0
-  - VIII: lists ES=7 EN=0
-  - IX: lists ES=13 EN=0
-  - XI: lists ES=10 EN=0
-  - XII: lists ES=8 EN=0
-- `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` · ES=1251 · EN=1211 · ratio=0.97
-  - II: lists ES=8 EN=0
-  - III: lists ES=8 EN=0
-  - IV: lists ES=8 EN=0
-  - V: lists ES=5 EN=0
-  - VI: lists ES=7 EN=0
-  - VIII: lists ES=12 EN=0
-  - XI: lists ES=13 EN=0
-  - XII: lists ES=10 EN=0
-- `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` · ES=1679 · EN=1605 · ratio=0.96
-  - V: lists ES=9 EN=0
-  - VI: lists ES=7 EN=0
-  - VII: lists ES=9 EN=0
-  - XII: lists ES=10 EN=0
-  - XV: lists ES=16 EN=3
 - `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · ES=1606 · EN=1602 · ratio=1.00
   - esqueleto de encabezados distinto ES=[(2, ''), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (3, '1'), (3, '2'), (3, '3'), (3, '4'), (3, '5'), (3, '6'), (3, '7'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV')] EN=[(2, ''), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV')]
 - `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` · ES=1961 · EN=1956 · ratio=1.00
@@ -525,7 +500,6 @@
 ## Plantillas GitHub Issue / GitHub Issue templates
 
 - `.github/ISSUE_TEMPLATE/auditoria_publica_aporte.yml`: name=Auditoría Pública · aporte o nueva propuesta | description=Aporta pruebas a una auditoría existente o propone una nueva auditoría pública trazable. | label=Tipo de aporte | label=Auditoría o problema relacionado | description=Enlace al documento o Issue existente; si es una auditoría nueva o no sabes dónde encaja,  | label=¿Qué quieres aportar o contrastar? | description=Explícalo con tus palabras. No necesitas terminología técnica. | label=¿Qué observaste o qué sabes directamente? | description=Cuenta el hecho observable. Si algo es una interpretación o te lo dijo otra fuente, indíca | label=Evidencia disponible | description=Puedes incluir enlaces, capturas, imágenes, identificadores, comunicaciones, fechas, regis | label=Contexto mínimo de la prueba | description=Si lo sabes, indica fecha/hora aproximada, plataforma o lugar, qué hiciste y qué resultado | description=No es obligatorio tener una explicación. Puedes escribir simplemente NO SÉ. Si tienes vari | label=¿Conoces algo que pueda contradecir tu interpretación? | description=Si existe, inclúyelo. Si no lo conoces, escribe NO SÉ. | label=¿Qué resultado o reparación sería útil? | description=Puede ser una explicación, una comprobación, una corrección, una reparación o simplemente  | label=Privacidad y límites | description=Señala qué material no debería hacerse público o requiere anonimización. Si no aplica, esc
-- `.github/ISSUE_TEMPLATE/neoaxioma_sintesis.yml`: name=Síntesis Abierta · Neoaxioma™ | description=Contraste público de un Neoaxioma™ del NEOCore™ | label=Neoaxioma | description=Identificador y título, por ejemplo NAX-01. | label=Aporte | description=Expón el argumento completo. No sustituyas fuentes por resúmenes si son necesarias para ev | label=Evidencia, fuentes o contraejemplos | description=Enlaces, datos, casos, pruebas, implementación o referencias verificables. | label=Relaciones con otros Neoaxiomas, manifiestos o publicaciones | description=Indica vínculos relevantes si los conoces.
 - `.github/ISSUE_TEMPLATE/registro_entrada_derivacion.yml`: name=Registro de Entrada Trazable · lectura, seguimiento o derivación | description=Registra voluntariamente tu entrada, seguimiento, investigación, crítica, implementación o | label=Tipo de entrada | label=Objeto consultado | description=Enlace o nombre del manifiesto, IDEA, análisis, auditoría, protocolo o parte del marco. | label=Cómo llegaste a este nodo | label=Finalidad o interés | description=Explica brevemente qué quieres comprender, contrastar, investigar, implementar o seguir. | label=Institución, equipo o proyecto (opcional) | description=Sólo si deseas hacerlo público. | label=Derivación, implementación o reutilización material (si existe) | description=Describe qué parte utilizas, adaptas o implementas y qué diferencias introduces. Si no exi | label=Enlace al trabajo derivado (opcional) | description=Repositorio, artículo, producto, investigación, publicación u otra URL pública. | label=Aporte, objeción o pregunta inicial (opcional) | description=Si ya tienes una crítica, fuente, contraejemplo o pregunta, puedes dejarla aquí. Se podrá  | label=Privacidad y límites | description=Indica si hay información que no debe reproducirse fuera de este Issue. Recuerda que el Is | label=Declaraciones
 
 ## Inventario / Inventory
@@ -668,9 +642,9 @@
 | `manifiestos/28_los_tesla_ES_EN.md` | **OK** |  |
 | `manifiestos/29_idolatria_del_dinero_ES_EN.md` | **REVISAR** | III: párrafos ES=0 EN=3 |
 | `manifiestos/30_coherencia_fines_medios_ES_EN.md` | **OK** |  |
-| `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` | **REVISAR** | I: lists ES=8 EN=0; II: lists ES=6 EN=0; III: lists ES=11 EN=0; IV: lists ES=10 EN=0; VI: lists ES=7 EN=0; VIII: lists ES=7 EN=0; IX: lists ES=13 EN=0; XI: lists ES=10 EN=0; XII: lists ES=8 EN=0 |
-| `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` | **REVISAR** | II: lists ES=8 EN=0; III: lists ES=8 EN=0; IV: lists ES=8 EN=0; V: lists ES=5 EN=0; VI: lists ES=7 EN=0; VIII: lists ES=12 EN=0; XI: lists ES=13 EN=0; XII: lists ES=10 EN=0 |
-| `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` | **REVISAR** | V: lists ES=9 EN=0; VI: lists ES=7 EN=0; VII: lists ES=9 EN=0; XII: lists ES=10 EN=0; XV: lists ES=16 EN=3 |
+| `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` | **OK** |  |
+| `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` | **OK** |  |
+| `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` | **OK** |  |
 | `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, ''), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (3, '1'), (3, '2'), (3, '3'), (3, '4'), (3, '5'), (3, '6'), (3, '7'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV')] EN=[(2, ''), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV')] |
 | `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | **REVISAR** | I: lists ES=9 EN=0; II: párrafos ES=3 EN=5; IV: lists ES=6 EN=0; X: lists ES=10 EN=0; XI: lists ES=6 EN=0; XI: párrafos ES=4 EN=2; XII: lists ES=8 EN=0; XII: párrafos ES=5 EN=2; XIII: quotes ES=8 EN=0; XIII: párrafos ES=5 EN=2; XV: lists ES=21 EN=5 |
 | `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | **REVISAR** | III bis. El León: lists ES=6 EN=0; Bandera de España en Síntesis™ · propuesta abierta: lists ES=10 EN=0 |
