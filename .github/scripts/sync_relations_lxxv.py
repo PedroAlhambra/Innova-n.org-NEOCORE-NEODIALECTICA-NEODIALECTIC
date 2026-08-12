@@ -3,8 +3,14 @@ import re
 
 ROOT=Path('.').resolve()
 REL=ROOT/'manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md'
+SYN=ROOT/'propuestas/sintesis-abierta/README.md'
+FULL=ROOT/'propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md'
+ROOT_README=ROOT/'README.md'
+WIKI_MAP=ROOT/'wiki-source/Mapa_del_Marco.md'
 START='<!-- NEO_RELATIONS_LXXV_START -->'
 END='<!-- NEO_RELATIONS_LXXV_END -->'
+RADAR_START='<!-- NEO_GENEALOGY_RADAR_START -->'
+RADAR_END='<!-- NEO_GENEALOGY_RADAR_END -->'
 
 block=f'''{START}
 
@@ -20,11 +26,65 @@ block=f'''{START}
 
 {END}'''
 
+radar_synthesis=f'''{RADAR_START}
+
+## NeoGenealogía™ + RADAR-Π™ · antecedentes, convergencias y contraejemplos / antecedents, convergences and counterexamples
+
+**NeoGenealogía™** conserva la relación, atribución, clasificación y memoria genealógica de antecedentes, convergencias, derivaciones, contraejemplos y falsos paralelos. **RADAR-Π™** es su subsistema de detección activa: abre señales, obliga al retorno a fuente y exige barrido negativo antes de afirmar una relación material. / **NeoGenealogy™** preserves the relation, attribution, classification and genealogical memory of antecedents, convergences, derivations, counterexamples and false parallels. **RADAR-Π™** is its active detection subsystem: it opens signals, requires return to source and requires negative scanning before asserting a material relation.
+
+[NeoGenealogía™ / NeoGenealogy™](NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md) · [RADAR-Π™](RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md) · [Síntesis NeoGenealogía + RADAR-Π · #136 / NeoGenealogy + RADAR-Π synthesis · #136](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136) · [Protocolo RADAR-Π · #137 / RADAR-Π protocol · #137](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/137) · [Cola abierta · #138 / Open queue · #138](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/138) · [Candidato SENTIENT/NRO · #139 / SENTIENT/NRO candidate · #139](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/139)
+
+```text
+RADAR-Π™ DETECTA / DETECTS
+→ NEOGENEALOGÍA™ ATRIBUYE Y CLASIFICA / ATTRIBUTES AND CLASSIFIES
+→ MATRIZ DE CONTRASTE ANALIZA / CONTRAST MATRIX ANALYSES
+→ SAN™ CONTRASTA Y REVISA / CHALLENGES AND REVISES
+→ COMMIT CONSERVA LA TRAZA / PRESERVES THE TRACE
+```
+
+{RADAR_END}'''
+
+radar_root=radar_synthesis.replace('(NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md)', '(propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md)').replace('(RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md)', '(propuestas/sintesis-abierta/RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md)')
+
+radar_full=f'''{RADAR_START}
+
+## Sistemas transversales de genealogía y detección / Transversal genealogy and detection systems
+
+- **NeoGenealogía™ / NeoGenealogy™** — [documento / document](NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md) · [Síntesis / Synthesis #136](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136).
+- **RADAR-Π™ · Radar de Antecedentes Dialécticos y Arquetipos Recurrentes / Dialectical Antecedents and Recurring Archetypes Radar** — [protocolo / protocol](RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md) · [Issue #137](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/137).
+- **Cola abierta RADAR-Π™ / RADAR-Π™ open queue** — [Issue #138](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/138).
+- **SENTIENT / NRO · señal candidata / candidate signal** — [Issue #139](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/139). **Candidato ≠ clasificación / Candidate ≠ classification.**
+- **Primer caso / First case:** [PROTO-ND-001 · Asilomar 1974–1975 + Asilomar AI 2017](../../analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md).
+
+{RADAR_END}'''
+
+radar_wiki=f'''{RADAR_START}
+
+- [NeoGenealogía™ / NeoGenealogy™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md) — atribución, clasificación y memoria de antecedentes, convergencias y contraejemplos / attribution, classification and memory of antecedents, convergences and counterexamples.
+- [RADAR-Π™ / Dialectical Antecedents and Recurring Archetypes Radar](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md) — detector activo y cola de señales / active detector and signal intake · [#137](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/137) · [#138](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/138).
+
+{RADAR_END}'''
+
+
+def upsert(text, new_block, before=None):
+    if RADAR_START in text and RADAR_END in text:
+        return re.sub(re.escape(RADAR_START)+r'.*?'+re.escape(RADAR_END), new_block, text, count=1, flags=re.S)
+    if before and before in text:
+        return text.replace(before, new_block+'\n\n---\n\n'+before, 1)
+    return text.rstrip()+'\n\n'+new_block+'\n'
+
+changed=[]
+
+# Relational map: keep LXXV current and make older range labels explicitly non-current.
 text=REL.read_text(encoding='utf-8')
 old=text
 text=re.sub(r'^\*\*Cobertura / Coverage:\*\*.*$',
             '**Cobertura / Coverage:** I–LXXV · 75 manifiestos finitos + ∞ como continuidad abierta / 75 finite manifestos I–LXXV + ∞ as open continuity  ',
             text,count=1,flags=re.M)
+text=re.sub(r'^## Matriz completa I–[IVXLCDM]+ / Complete I–[IVXLCDM]+ matrix$',
+            '## Matriz completa I–LXXV / Complete I–LXXV matrix', text, count=1, flags=re.M)
+text=text.replace('## LXI–LXXIV · frontera relacional vigente / current relational frontier',
+                  '## LXI–LXXIV · bloque relacional previo / previous relational block')
 if START in text and END in text:
     text=re.sub(re.escape(START)+r'.*?'+re.escape(END),block,text,count=1,flags=re.S)
 else:
@@ -34,7 +94,39 @@ else:
     else:
         text=text.rstrip()+'\n\n'+block+'\n'
 if text!=old:
-    REL.write_text(text,encoding='utf-8')
-    print('RELATIONS_LXXV_SYNC changed=1')
-else:
-    print('RELATIONS_LXXV_SYNC changed=0')
+    REL.write_text(text,encoding='utf-8'); changed.append(REL)
+
+# Open Synthesis README: dynamic frontier label + visible genealogy/RADAR entry.
+text=SYN.read_text(encoding='utf-8')
+old=text
+text=re.sub(r'^## Índice canónico · I–[IVXLCDM]+ \+ ∞$', '## Índice canónico · I–LXXV + ∞', text, count=1, flags=re.M)
+text=re.sub(r'^## Canonical index · I–[IVXLCDM]+ \+ ∞$', '## Canonical index · I–LXXV + ∞', text, count=1, flags=re.M)
+text=upsert(text,radar_synthesis,'## WEB4™ · SistemaTrazable™')
+if text!=old:
+    SYN.write_text(text,encoding='utf-8'); changed.append(SYN)
+
+# Complete Synthesis index: expose transversal system nodes without mixing them with finite manifesto numbering.
+text=FULL.read_text(encoding='utf-8')
+old=text
+text=upsert(text,radar_full)
+if text!=old:
+    FULL.write_text(text,encoding='utf-8'); changed.append(FULL)
+
+# Root gateway: make the mechanism discoverable from the canonical public entrance.
+text=ROOT_README.read_text(encoding='utf-8')
+old=text
+text=upsert(text,radar_root,'<!-- NEO_RELATIONAL_MENU_END -->')
+if text!=old:
+    ROOT_README.write_text(text,encoding='utf-8'); changed.append(ROOT_README)
+
+# Wiki map: keep stable orientation surface aligned with the canonical repository.
+text=WIKI_MAP.read_text(encoding='utf-8')
+old=text
+text=upsert(text,radar_wiki,'## Análisis, evidencia y auditorías')
+if text!=old:
+    WIKI_MAP.write_text(text,encoding='utf-8'); changed.append(WIKI_MAP)
+
+for p in changed:
+    print('LXXV_CONSISTENCY_SYNC changed',p.relative_to(ROOT).as_posix())
+if not changed:
+    print('LXXV_CONSISTENCY_SYNC changed=0')
