@@ -40,7 +40,7 @@ Casos y análisis principales:
 
 ---
 
-## Matriz completa I–LII / Complete I–LII matrix
+## Matriz completa I–LXXV / Complete I–LXXV matrix
 
 <a id="manifiesto-i"></a>
 ### I · [Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica / Neo0™ Manifesto of Neodialectical Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md)
@@ -335,7 +335,7 @@ Casos y análisis principales:
 
 ---
 
-## LXI–LXXIV · frontera relacional vigente / current relational frontier
+## LXI–LXXIV · bloque relacional previo / previous relational block
 
 > Esta sección completa el mapa curado hasta el último manifiesto finito vigente. Las relaciones indican afinidad funcional, genealogía, aplicación o contraste documental; no prueban causalidad, identidad conceptual ni validación automática. / This section completes the curated map up to the current latest finite manifesto. Relations indicate functional affinity, genealogy, application or documentary scrutiny; they do not prove causation, conceptual identity or automatic validation.
 

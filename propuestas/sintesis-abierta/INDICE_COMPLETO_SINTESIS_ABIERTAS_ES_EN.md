@@ -217,3 +217,15 @@ ENTRAR EN UNA SÍNTESIS / ENTER A SYNTHESIS
 [Volver al portal de Síntesis Abierta / Back to Open Synthesis portal](README.md) · [Manifiestos / Manifestos](../../manifiestos/README.md) · [Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md) · [Auditorías Públicas / Public Audits](../../auditorias/publicas/README.md)
 
 **© 2026 Pedro Martínez Alhambra · Fundación Innova_N / Innova_N Foundation**
+
+<!-- NEO_GENEALOGY_RADAR_START -->
+
+## Sistemas transversales de genealogía y detección / Transversal genealogy and detection systems
+
+- **NeoGenealogía™ / NeoGenealogy™** — [documento / document](NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md) · [Síntesis / Synthesis #136](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136).
+- **RADAR-Π™ · Radar de Antecedentes Dialécticos y Arquetipos Recurrentes / Dialectical Antecedents and Recurring Archetypes Radar** — [protocolo / protocol](RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md) · [Issue #137](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/137).
+- **Cola abierta RADAR-Π™ / RADAR-Π™ open queue** — [Issue #138](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/138).
+- **SENTIENT / NRO · señal candidata / candidate signal** — [Issue #139](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/139). **Candidato ≠ clasificación / Candidate ≠ classification.**
+- **Primer caso / First case:** [PROTO-ND-001 · Asilomar 1974–1975 + Asilomar AI 2017](../../analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md).
+
+<!-- NEO_GENEALOGY_RADAR_END -->

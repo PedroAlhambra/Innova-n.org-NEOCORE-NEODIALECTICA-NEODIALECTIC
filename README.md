@@ -36,6 +36,26 @@ La Fundación custodiará propósito y Bien Común; la Corporación materializar
 
 [Manifiestos / Manifestos](manifiestos/README.md) · [Relaciones y trabajo aplicado / Relations and applied work](manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Neoaxiomas™](neoaxiomas/README.md) · [Síntesis Abierta / Open Synthesis](propuestas/sintesis-abierta/README.md) · [Síntesis relacional / Relational synthesis #98](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/98) · [Auditoría MAXPROC / MAXPROC audit](auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md)
 
+<!-- NEO_GENEALOGY_RADAR_START -->
+
+## NeoGenealogía™ + RADAR-Π™ · antecedentes, convergencias y contraejemplos / antecedents, convergences and counterexamples
+
+**NeoGenealogía™** conserva la relación, atribución, clasificación y memoria genealógica de antecedentes, convergencias, derivaciones, contraejemplos y falsos paralelos. **RADAR-Π™** es su subsistema de detección activa: abre señales, obliga al retorno a fuente y exige barrido negativo antes de afirmar una relación material. / **NeoGenealogy™** preserves the relation, attribution, classification and genealogical memory of antecedents, convergences, derivations, counterexamples and false parallels. **RADAR-Π™** is its active detection subsystem: it opens signals, requires return to source and requires negative scanning before asserting a material relation.
+
+[NeoGenealogía™ / NeoGenealogy™](propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md) · [RADAR-Π™](propuestas/sintesis-abierta/RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md) · [Síntesis NeoGenealogía + RADAR-Π · #136 / NeoGenealogy + RADAR-Π synthesis · #136](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136) · [Protocolo RADAR-Π · #137 / RADAR-Π protocol · #137](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/137) · [Cola abierta · #138 / Open queue · #138](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/138) · [Candidato SENTIENT/NRO · #139 / SENTIENT/NRO candidate · #139](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/139)
+
+```text
+RADAR-Π™ DETECTA / DETECTS
+→ NEOGENEALOGÍA™ ATRIBUYE Y CLASIFICA / ATTRIBUTES AND CLASSIFIES
+→ MATRIZ DE CONTRASTE ANALIZA / CONTRAST MATRIX ANALYSES
+→ SAN™ CONTRASTA Y REVISA / CHALLENGES AND REVISES
+→ COMMIT CONSERVA LA TRAZA / PRESERVES THE TRACE
+```
+
+<!-- NEO_GENEALOGY_RADAR_END -->
+
+---
+
 <!-- NEO_RELATIONAL_MENU_END -->
 > **Estado del marco / Framework status:** **Síntesis iniciada / Synthesis Initiated**. El corpus es vivo y continúa evolucionando. Cualquier número de manifiestos debe leerse como estado en la fecha de consulta, no como total final. / The corpus is live and continues to evolve. Any manifesto count is the state at the time of consultation, not a final total.
 

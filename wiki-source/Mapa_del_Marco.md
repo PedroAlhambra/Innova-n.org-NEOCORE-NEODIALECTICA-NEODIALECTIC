@@ -32,6 +32,15 @@ Esta página referencia las principales superficies públicas sin duplicar sus c
 - [Leónidas™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) — entrada de problemas y auditoría abierta sin confundir admisión con validación.
 - [Issues](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues) — superficie viva de contraste.
 
+<!-- NEO_GENEALOGY_RADAR_START -->
+
+- [NeoGenealogía™ / NeoGenealogy™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md) — atribución, clasificación y memoria de antecedentes, convergencias y contraejemplos / attribution, classification and memory of antecedents, convergences and counterexamples.
+- [RADAR-Π™ / Dialectical Antecedents and Recurring Archetypes Radar](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md) — detector activo y cola de señales / active detector and signal intake · [#137](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/137) · [#138](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/138).
+
+<!-- NEO_GENEALOGY_RADAR_END -->
+
+---
+
 ## Análisis, evidencia y auditorías
 
 - [Análisis](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/README.md)

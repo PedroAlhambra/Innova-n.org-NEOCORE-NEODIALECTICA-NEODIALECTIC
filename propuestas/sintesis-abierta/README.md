@@ -47,6 +47,26 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 <!-- NEO_RELATIONAL_MENU_END -->
 
+<!-- NEO_GENEALOGY_RADAR_START -->
+
+## NeoGenealogía™ + RADAR-Π™ · antecedentes, convergencias y contraejemplos / antecedents, convergences and counterexamples
+
+**NeoGenealogía™** conserva la relación, atribución, clasificación y memoria genealógica de antecedentes, convergencias, derivaciones, contraejemplos y falsos paralelos. **RADAR-Π™** es su subsistema de detección activa: abre señales, obliga al retorno a fuente y exige barrido negativo antes de afirmar una relación material. / **NeoGenealogy™** preserves the relation, attribution, classification and genealogical memory of antecedents, convergences, derivations, counterexamples and false parallels. **RADAR-Π™** is its active detection subsystem: it opens signals, requires return to source and requires negative scanning before asserting a material relation.
+
+[NeoGenealogía™ / NeoGenealogy™](NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md) · [RADAR-Π™](RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md) · [Síntesis NeoGenealogía + RADAR-Π · #136 / NeoGenealogy + RADAR-Π synthesis · #136](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136) · [Protocolo RADAR-Π · #137 / RADAR-Π protocol · #137](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/137) · [Cola abierta · #138 / Open queue · #138](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/138) · [Candidato SENTIENT/NRO · #139 / SENTIENT/NRO candidate · #139](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/139)
+
+```text
+RADAR-Π™ DETECTA / DETECTS
+→ NEOGENEALOGÍA™ ATRIBUYE Y CLASIFICA / ATTRIBUTES AND CLASSIFIES
+→ MATRIZ DE CONTRASTE ANALIZA / CONTRAST MATRIX ANALYSES
+→ SAN™ CONTRASTA Y REVISA / CHALLENGES AND REVISES
+→ COMMIT CONSERVA LA TRAZA / PRESERVES THE TRACE
+```
+
+<!-- NEO_GENEALOGY_RADAR_END -->
+
+---
+
 ## WEB4™ · SistemaTrazable™
 
 La denominación completa debe quedar visible: **WEB4™ · SistemaTrazable™**.
@@ -168,7 +188,7 @@ COMMIT = FIJACIÓN Y DELTA CANÓNICO / CANONICAL FIXATION AND DELTA
 
 # ES · Castellano
 
-## Índice canónico · I–LXV + ∞
+## Índice canónico · I–LXXV + ∞
 
 | Nº | Manifiesto | Síntesis Abierta |
 |---:|---|---|
