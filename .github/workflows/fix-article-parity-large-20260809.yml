@@ -1,5 +1,6 @@
 name: fix-article-parity-large-20260809
 
+# Reejecución 2026-08-12: simetría ES/EN estricta, sin compresiones.
 on:
   workflow_dispatch:
   push:
