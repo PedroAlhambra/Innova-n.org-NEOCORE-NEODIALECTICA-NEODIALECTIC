@@ -525,9 +525,20 @@ Neodialectics places this figure closer to the centre.
 
 > **The Scrapworker™ sees value where the extractive system sees only the end of a cycle.**
 
-This is not the archetype of misery. It is the archetype of the **material second chance**.
+This is not the archetype of misery.
 
-It looks at a part and asks: what still works? what can be repaired? what can be dismantled without destruction? which component can serve another object? which material can be recovered? which story deserves preservation? which residue can become art? which knowledge can be passed forward?
+It is the archetype of the **material second chance**.
+
+It looks at a part and asks:
+
+- what still works?;
+- what can be repaired?;
+- what can be dismantled without destruction?;
+- which component can serve another object?;
+- which material can be recovered?;
+- which story deserves preservation?;
+- which residue can become art?;
+- which knowledge can be passed forward?
 
 ## III. Principle of Restorative Wealth™
 
@@ -541,9 +552,32 @@ Restoration creates wealth because it preserves previous work and adds new work 
 
 ## IV. From margin to social foundation
 
-Repair should not remain confined to hobbies, precarity or economic emergency. It should become **basic social infrastructure**.
+Repair should not remain confined to hobbies, precarity or economic emergency.
 
-Society needs electronics repairers, furniture restorers, mechanics, welders, carpenters, textile repairers and tailors, cobblers, appliance technicians, material recoverers, bicycle repairers, reuse artisans, remanufacturing specialists, metal/glass/complex-material recyclers, design-for-disassembly specialists, residue artists, tool libraries, community workshops, repair cooperatives, recovered-parts markets and specialists in safe classification of hazardous waste.
+It should become **basic social infrastructure**.
+
+Society needs more:
+
+- electronics repairers;
+- furniture restorers;
+- mechanics;
+- welders;
+- carpenters;
+- textile repairers and tailors;
+- cobblers;
+- appliance technicians;
+- material recoverers;
+- bicycle repairers;
+- reuse artisans;
+- remanufacturing specialists;
+- metal, glass and complex-material recyclers;
+- design-for-disassembly specialists;
+- residue artists;
+- tool libraries;
+- community workshops;
+- repair cooperatives;
+- recovered-parts markets;
+- specialists in safe classification of hazardous waste.
 
 > **The work of restoring things should recover prestige, training, salary, infrastructure and cultural centrality.**
 
@@ -594,7 +628,19 @@ It is not enough to ask citizens to repair objects deliberately designed not to 
 
 Change must reach design.
 
-Every product should try, where technically and materially reasonable, to optimise disassembly, access to parts, documentation, spare-part availability, modularity, component replacement, updates without artificial disablement, identifiable materials, end-of-life recovery, compatibility with common tools, and reduction of unnecessary irreversible adhesives or joints.
+Every product should try, where technically and materially reasonable, to optimise:
+
+- disassembly;
+- access to parts;
+- documentation;
+- spare-part availability;
+- modularity;
+- component replacement;
+- updates without artificial disablement;
+- identifiable materials;
+- end-of-life recovery;
+- compatibility with common tools;
+- reduction of unnecessary irreversible adhesives or joints.
 
 > **Principle of Reparability by Origin™: the right to repair begins before purchase, in the architecture of the object.**
 
@@ -657,11 +703,26 @@ They share water, air, soil, food chains and space with us.
 
 [Respect for All Living Beings™](./17_respeto_todos_seres_vivos_ES_EN.md) requires including them in civilisational calculation.
 
-Reducing waste and pollution is not merely “environmental management”. It is a form of coexistence.
+Reducing waste and pollution is not merely “environmental management”.
+
+It is a form of coexistence.
 
 ## XIII. Material Contribution Economy
 
-The [Contribution Economy™](./04_economia_del_aporte_ES_EN.md) should recognise the value of those who prevent extraction, extend an object's life, share a repair, document disassembly, recover a component, design a repairable product, clean a space, classify waste, turn discard into art, teach a craft, create an open tool or maintain common infrastructure.
+The [Contribution Economy™](./04_economia_del_aporte_ES_EN.md) should recognise the value of those who:
+
+- prevent extraction;
+- extend an object's life;
+- share a repair;
+- document disassembly;
+- recover a component;
+- design a repairable product;
+- clean a space;
+- classify waste;
+- turn discard into art;
+- teach a craft;
+- create an open tool;
+- maintain common infrastructure.
 
 Contribution is not only producing something new.
 
@@ -671,7 +732,17 @@ Contribution is not only producing something new.
 
 A society dependent on opaque chains of replacement loses autonomy.
 
-The right to repair should therefore be accompanied by reasonable access to manuals, spare parts, diagnostic information, technical training, school and community workshops, shared tools, safety standards, transparent second-hand markets and protection against artificial repair barriers when they are not justified by real safety needs.
+The right to repair should therefore be accompanied by:
+
+- reasonable access to manuals;
+- spare parts;
+- diagnostic information;
+- technical training;
+- school and community workshops;
+- shared tools;
+- safety standards;
+- transparent second-hand markets;
+- protection against artificial repair barriers when they are not justified by real safety needs.
 
 But the right to repair does not require an unqualified person to manipulate dangerous systems.
 
@@ -679,7 +750,15 @@ Batteries, high voltage, gases, asbestos, chemicals, critical structures and haz
 
 ## XV. Restorative education
 
-Children should learn that things have structure. That they can be opened, understood and maintained. That breaking does not always mean ending.
+Children should learn that things have structure.
+
+That they can be opened.
+
+That they can be understood.
+
+That they can be maintained.
+
+That breaking does not always mean ending.
 
 Basic technical education should progressively include:
 
@@ -693,21 +772,50 @@ OBSERVE
 → DOCUMENT
 ```
 
-Not to turn everyone into mechanics. To prevent everyone from becoming powerless consumers.
+Not to turn everyone into mechanics.
+
+To prevent everyone from becoming powerless consumers.
 
 ## XVI. The workshop-city
 
 The Neodialectical city should look less like a linear shop → home → bin flow and more like a network of workshops.
 
-Each neighbourhood could support nodes for repair, exchange, tool lending, part recovery, second-hand use, artistic reuse, training, composting where appropriate, material classification, component libraries and open documentation of solutions.
+Each neighbourhood could support nodes for:
 
-Waste then stops being a place. It becomes a **classification question**.
+- repair;
+- exchange;
+- tool lending;
+- part recovery;
+- second-hand use;
+- artistic reuse;
+- training;
+- composting where appropriate;
+- material classification;
+- component libraries;
+- open documentation of solutions.
+
+Waste then stops being a place.
+
+It becomes a **classification question**.
 
 ## XVII. Do not romanticise precarity
 
 Elevating the Scrapworker™ archetype does not mean romanticising dumps, dangerous informal work, toxic exposure, child exploitation or poverty.
 
-On the contrary, if material recovery is a central function, it should receive labour protection, adequate equipment, training, infrastructure, professional recognition, decent wages, material traceability, health controls, producer responsibility and classification/decontamination technology.
+On the contrary.
+
+If material recovery is a central function, it should receive:
+
+- labour protection;
+- adequate equipment;
+- training;
+- infrastructure;
+- professional recognition;
+- decent wages;
+- material traceability;
+- health controls;
+- producer responsibility;
+- classification and decontamination technology.
 
 > **Making the scrapworker a social foundation does not mean keeping them at the bottom. It means raising the function and the person who performs it.**
 
@@ -737,7 +845,17 @@ GDP may register the sale of a new object. It may also register some repairs.
 
 But much of the value of preserving, sharing, exchanging, maintaining or reusing may remain culturally undervalued.
 
-Neodialectics proposes a broader account of contribution: avoided matter, added useful life, conserved embedded energy, avoided social cost, transmitted knowledge, gained autonomy, avoided waste, created beauty and preserved memory.
+Neodialectics proposes a broader account of contribution:
+
+- avoided matter;
+- added useful life;
+- conserved embedded energy;
+- avoided social cost;
+- transmitted knowledge;
+- gained autonomy;
+- avoided waste;
+- created beauty;
+- preserved memory.
 
 Not everything needs to become immediately a token, price or single metric.
 

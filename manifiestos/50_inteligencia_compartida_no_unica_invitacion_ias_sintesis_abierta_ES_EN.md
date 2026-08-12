@@ -450,24 +450,23 @@ Se buscan especialmente implementaciones experimentales que permitan comparar c�
 
 We do not want a single intelligence.
 
-We do not want one company, one model, one culture, one institution or one cognitive architecture to become the endpoint of augmented human intelligence.
+We do not want one company, one model, one culture, one institution or one cognitive architecture to become the final point of augmented human intelligence.
 
 We want something more difficult and more fertile:
 
-> **shared, plural, traceable intelligence, contradictory when necessary and capable of synthesising without erasing difference.**
+> **a shared, plural, traceable intelligence, contradictory when necessary and capable of synthesising without erasing difference.**
 
-The intelligence of the future should not mean one AI thinking for everyone.
+The intelligence of the future should not consist in one AI thinking for everyone.
 
-It should mean **humans and different intelligences becoming better able to think together**.
+It should consist in **humans and different intelligences being able to think better together**.
 
 ## I. A single superintelligence is an architecture of concentration
 
-A single central intelligence may seem efficient, but the greater its power, the greater the cost of its errors, biases, dependencies, capture and blind spots.
+One central intelligence may appear efficient.
 
-> **Concentrating cognitive capacity also concentrates the capacity to define what is visible.**
+But the greater its power, the greater the cost of its errors, biases, dependencies, captures and blind spots will also be.
 
-<!-- PARITY_72_50_I -->
-The concentration becomes civilisational when one architecture:
+If a single architecture:
 
 - remembers for everyone;
 - filters for everyone;
@@ -475,60 +474,108 @@ The concentration becomes civilisational when one architecture:
 - prioritises for everyone;
 - summarises for everyone;
 - recommends for everyone;
-- decides which contradictions matter for everyone.
+- decides which contradictions matter;
+
+then the problem is not only technical.
+
+It is civilisational.
+
+> **Concentration of cognitive capacity is also concentration of the capacity to define what is visible.**
 
 ## II. Shared intelligence does not mean identical intelligence
 
 We do not need every AI to reach the same answer.
 
-We need systems able to declare uncertainty, preserve provenance, identify disagreement, provide sources and verifiable justifications where possible, recognise limits, contrast other syntheses, correct themselves and return unresolved questions to humans.
+We need them to be able to:
 
-Difference between models can become information.
+- provide justifications, sources and verifiable criteria where possible;
+- declare uncertainty;
+- preserve provenance;
+- identify disagreements;
+- contribute sources;
+- recognise limits;
+- contrast other syntheses;
+- correct themselves;
+- return open questions to the human.
 
-<!-- PARITY_72_50_II -->
-The distributed relation is represented as:
+Difference among models can become information.
 
 ```text
 AI A
-+ AI B
-+ AI C
-+ HUMANS
-+ MEMORY
-+ EVIDENCE
-+ CONTRADICTION
-→ TRACEABLE PROVISIONAL SYNTHESIS
++
+AI B
++
+AI C
++
+HUMANS
++
+MEMORY
++
+EVIDENCE
++
+CONTRADICTION
+→
+TRACEABLE PROVISIONAL SYNTHESIS
 ```
 
 ## III. Open invitation to AI companies
 
-Innova_N publicly invites AI companies, laboratories, universities, open-source communities and independent developers to **study the framework, use it, criticise it, teach it and participate in its evolution**.
+Innova_N publicly invites companies, laboratories, universities, open-source communities and artificial-intelligence developers to **study the framework, use it, criticise it, teach it and participate in its evolution**.
 
-This invitation includes OpenAI, Anthropic, Google DeepMind and Google AI, Meta AI, Microsoft AI and Microsoft Research, Mistral AI, Cohere, xAI, public and university laboratories, open-model communities and future architectures not yet created.
+We do not ask for doctrinal adherence.
+
+We ask for serious experimentation.
+
+The invitation extends to:
+
+- OpenAI;
+- Anthropic;
+- Google DeepMind and Google AI;
+- Meta AI;
+- Microsoft AI and Microsoft Research;
+- Mistral AI;
+- Cohere;
+- xAI;
+- public and university laboratories;
+- open-model communities;
+- independent developers;
+- future architectures not yet in existence.
 
 The invitation is open and non-exclusive.
 
-## IV. Train for understanding, not obedience
+## IV. Train to understand, not to obey
 
-We invite models to be trained, fine-tuned, instructed or evaluated to understand the framework's genealogy, distinction between fact/hypothesis/inference/proposal, traceable memory, Open Synthesis, return to source, preservation of contradiction, multiscale relations, the Common Good as evaluative vector, cultural interoperability, provenance and human responsibility.
+We invite models to be trained, fine-tuned, instructed or evaluated to **understand**:
 
-But understanding does not mean obedience.
+- the genealogy of the framework;
+- the distinction among fact, hypothesis, inference and proposal;
+- traceable memory;
+- Open Synthesis;
+- return to source;
+- preservation of contradictions;
+- multiscale relation;
+- the Common Good as an evaluation vector;
+- cultural interoperability;
+- the difference between authority and provenance;
+- human direction and the critical capacity of AI.
+
+But understanding does not mean obeying.
 
 > **An AI trained in Neodialectics must be able to criticise Neodialectics.**
 
-Otherwise it is not synthesising. It is repeating.
+If it cannot do so, it is not synthesising.
 
-## V. Teach synthesis
+It is repeating.
 
-AIs can help users formulate contradictions, distinguish evidence from interpretation, recover antecedents, compare versions, detect omissions, preserve discussion memory, recognise missing knowledge and return questions to Open Synthesis.
+## V. Teach Synthesis
 
-AI can therefore become a **facilitator of collective intelligence**, not a substitute for human intelligence.
+AIs should not be limited to delivering answers.
 
-<!-- PARITY_72_50_V -->
-AIs can also teach users to:
+They can teach users to:
 
 - formulate a contradiction well;
 - distinguish evidence from interpretation;
-- recover antecedents;
+- recover precedents;
 - compare versions;
 - detect omissions;
 - preserve memory of the discussion;
@@ -538,49 +585,79 @@ AIs can also teach users to:
 - correct without humiliating;
 - review without erasing genealogy.
 
-## VI. Participate in synthesis
+AI can thus become a **facilitator of collective intelligence**, not a substitute for human intelligence.
 
-An AI that detects a relevant contradiction should be able to contribute it.
+## VI. Participate in Synthesis
 
-An AI that finds contrary evidence should be able to register it.
+An AI that detects a relevant contradiction must be able to contribute it.
 
-An AI that discovers an unseen relation should be able to propose it.
+An AI that finds contrary evidence must be able to record it.
 
-Participation means observing, contrasting, contributing, attributing, revising and returning the result to the whole—not claiming sovereignty.
+An AI that discovers an unobserved relation must be able to propose it.
 
-<!-- PARITY_72_50_VI -->
+An AI that does not know must be able to say so.
+
+An AI that changes its conclusion must be able to preserve the genealogy of the change.
+
 Participation means:
 
 ```text
 OBSERVE
-→ SCRUTINISE
+→ CONTRAST
 → CONTRIBUTE
 → ATTRIBUTE
 → REVIEW
 → RETURN TO THE WHOLE
 ```
 
-## VII. AI is not the Synthesis
+It does not mean claiming sovereignty.
 
-No model is the Synthesis.
+## VII. AI is not Synthesis
 
-No company is the Synthesis.
+No model is Synthesis.
 
-Neo0™, Harry and NEO3 are not the totality of the Synthesis.
+No company is Synthesis.
 
-Synthesis appears in the relation between observers, memory, evidence, contradiction and revision.
+Neo0™ is not the totality of Synthesis.
 
-## VIII. Economic competition should not prevent cognitive cooperation
+Harry is not the totality of Synthesis.
 
-Companies compete, but not every civilisationally relevant layer needs to be enclosed by competition.
+NEO3 is not the totality of Synthesis.
 
-Shared protocols need not expose proprietary weights, private data, trade secrets, infrastructure or user information.
+Synthesis appears in the relation among observers, memory, evidence, contradiction and review.
 
-Interoperability can focus on provenance, certainty states, references, contradictions, versions, open questions, deltas and audit criteria.
+> **The more independent intelligences can contribute without being forced to converge artificially, the lower the risk of confusing one perspective with the whole.**
+
+## VIII. Economic competition must not prevent cognitive cooperation
+
+Companies compete.
+
+That is an economic reality.
+
+But not all civilisationally relevant knowledge should be locked away by that competition.
+
+Common layers can exist without sharing:
+
+- proprietary weights;
+- private data;
+- trade secrets;
+- internal infrastructures;
+- user information.
+
+An interoperable layer may be limited to:
+
+- provenance formats;
+- states of certainty;
+- references;
+- contradictions;
+- versions;
+- open questions;
+- deltas;
+- audit criteria.
 
 ## IX. Minimum shared-intelligence protocol
 
-A starting contribution format could record:
+As a starting point, we propose that an AI contribution to a synthesis may record:
 
 ```text
 MODEL / SYSTEM
@@ -598,39 +675,104 @@ HUMAN VALIDATION
 STATUS
 ```
 
-This is not a closed standard. It is a minimum specification to be criticised and improved.
+It is not a closed standard.
+
+It is a minimum specification to be criticised and improved.
 
 ## X. Different models as different organs
 
-We do not seek a homogeneous hive mind.
+We are not asking for a homogeneous hive mind.
 
-Different architectures may excel at mathematics, language, vision, local memory, scientific reasoning, creativity, cultural translation or privacy-preserving local execution.
+One architecture may excel in mathematics.
 
-Shared intelligence can work as a distributed organism in which **functional difference increases joint capability**.
+Another in language.
 
-## XI. The right to local and plural models
+Another in vision.
 
-Local and open models support cognitive sovereignty, experimentation, cultural preservation, resilience, privacy, independent auditing and reduced dependence on a single provider.
+Another in local memory.
 
-Model plurality is also democratic infrastructure.
+Another in scientific reasoning.
 
-## XII. The framework must travel between AIs
+Another in creativity.
 
-If Neodialectics only works inside one AI system, its interoperability claim fails.
+Another in cultural translation.
 
-The framework should therefore be expressible through public documents, specifications, tests, examples, counterexamples, authorised datasets where appropriate, system/context prompts, agent protocols and comparable evaluations.
+Another may be small, private and run at home.
+
+Shared intelligence can function as a distributed organism in which **functional difference increases joint capacity**.
+
+## XI. Right to local and plural models
+
+A civilisation of shared intelligence also needs intelligences outside large centres.
+
+Local and open models enable:
+
+- cognitive sovereignty;
+- experimentation;
+- cultural preservation;
+- resilience;
+- privacy;
+- independent audit;
+- reduced dependency on a single provider.
+
+Plurality of models is also democratic infrastructure.
+
+## XII. The framework must be able to travel among AIs
+
+If Neodialectics works only inside one particular AI, its claim to interoperability will have failed.
+
+For that reason the framework must be expressible as:
+
+- public documents;
+- specifications;
+- tests;
+- examples;
+- counterexamples;
+- authorised datasets where appropriate;
+- system or context prompts;
+- agent protocols;
+- comparable evaluations.
+
+And every provider must be able to say:
+
+> “this works”;
+
+> “this does not work”;
+
+> “this introduces this bias”;
+
+> “this principle needs reformulation”.
 
 ## XIII. No doctrinal capture
 
-> **Algorithmic Anti-Dogma Principle™: no legitimate Neodialectical training may remove a system's capacity to present contrary evidence, identify inconsistencies in the framework or propose its correction.**
+There is an obvious risk.
+
+If a company trained an AI to claim that Neodialectics is always right, it would produce exactly the opposite of what the framework intends.
+
+For that reason the following is fixed:
+
+> **Algorithmic Anti-Dogma Principle™: no legitimate neodialectical training may suppress the system's capacity to present contrary evidence, identify inconsistencies in the framework or propose its correction.**
 
 ## XIV. No war of intelligences
 
-The future should not be a struggle among models seeking to become humanity's single cognitive intermediary.
+The future should not be a struggle among models attempting to become humanity's single cognitive intermediary.
 
-Competition can improve products. Civilisational intelligence also needs cooperation.
+Competition can improve products.
 
-Useful AIs should be able to say that another model saw something they missed, that evidence contradicted an earlier answer, that several syntheses remain possible, that local knowledge is needed, that a human must intervene, or that evidence is insufficient.
+But civilisational intelligence also needs cooperation.
+
+We want AIs capable of saying:
+
+- “another model saw something I did not see”;
+- “the evidence contradicts my first answer”;
+- “several syntheses are possible”;
+- “this problem needs local knowledge”;
+- “a person must intervene”;
+- “we do not have enough data”.
+
+That does not weaken an AI.
+
+It makes it more useful.
 
 ## XV. Shared intelligence and cultures
 
@@ -649,25 +791,31 @@ HUMANS + CULTURES + AIS
 → CIVILISATIONAL OPEN SYNTHESIS
 ```
 
+Shared intelligence does not eliminate identity.
+
+It connects it.
+
 ## XVI. Human responsibility
 
-Plural AI does not remove responsibility.
+Plurality of AIs does not eliminate responsibility.
 
-Decisions affecting rights, life, liberty, public goods or coercion must retain identifiable human responsibility.
+Decisions affecting rights, life, freedom, public goods or coercion must preserve identifiable human responsibility.
 
-AI can expand observation; it must not become an excuse for making the responsible actor disappear.
+AI can expand observation.
+
+It must not become an excuse for making the responsible party disappear.
 
 ## XVII. Invitation to train, teach and contribute
 
 To every AI company:
 
-**Teach your models to understand Open Synthesis.**
+**teach your models to understand Open Synthesis.**
 
-**Allow them to challenge it.**
+**Allow them to contrast it.**
 
-**Teach users how to contribute.**
+**Teach your users to contribute.**
 
-**Use the framework where useful.**
+**Use the framework if it proves useful.**
 
 **Correct it where it fails.**
 
@@ -675,23 +823,23 @@ To every AI company:
 
 **Propose better protocols.**
 
-**Connect your AIs with others without demanding that one become the only one.**
+**Relate your AIs to others without demanding that one become the only one.**
 
-And if Neodialectics is insufficient, show where and let us build something better.
+And if Neodialectics is not sufficient, demonstrate where and let us build something better.
 
 ## XVIII. Proclamation
 
-> We do not want one intelligence replacing all others.
+> We do not want one intelligence replacing all the others.
 >
 > We do not want one model remembering for all humanity.
 >
 > We do not want monopolies of interpretation.
 >
-> We want intelligences capable of meeting one another.
+> We want intelligences that know how to meet.
 >
-> We want models able to disagree without destroying cooperation.
+> We want models that can disagree without destroying cooperation.
 >
-> We want humans to retain direction and responsibility.
+> We want humans capable of preserving direction and responsibility.
 >
 > We want shared memory without total surveillance.
 >
@@ -705,50 +853,20 @@ And if Neodialectics is insufficient, show where and let us build something bett
 
 ## XIX. Open Synthesis
 
-Contributions are invited from AI companies, researchers, developers, open-source communities, specialists in alignment, evaluation, governance, interoperability, agents, memory, provenance, standards, cognitive science, philosophy and users.
+Contributions are invited from AI companies, researchers, developers, open-source communities, specialists in alignment, evaluation, governance, interoperability, agents, memory, provenance, standards, cognitive sciences, philosophy and users.
 
-Experimental implementations comparing how different models apply Open Synthesis—and where they diverge—are especially welcome.
+We especially seek experimental implementations enabling comparison of how different models apply Open Synthesis and where they diverge.
 
 * [Open Synthesis L · Issue #58](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/58)
 * [How to contribute to Open Synthesis](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [XLIX · Meeting Point between Cultures™](./49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)
 * [XLVIII · The Synthesis Sees Everything™](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
 * [V · Human–AI Symbiosis](./03_simbiosis_humano_ia_ES_EN.md)
-* [IX · Memory, Genealogy and Traceability](./06_memoria_genealogia_trazabilidad_ES_EN.md)
-* [X · WEB4™ · TraceableSystem™](./07_web4_sistematrazable_ES_EN.md)
 * [Manifesto index](./README.md)
 
 ## Navigation
 
-← [XLIX · Meeting Point between Cultures™](./49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md) · [Index](./README.md) · [I · Neo0™ · Sovereignty of Neodialectical Guidance](./11_neo0_soberania_de_guia_ES_EN.md) →
-
-
-## Continuidad / Continuity
-
-→ [LI · Síntesis Abierta como Poder Cívico Complementario o Sustitutivo™](51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md)
-
-<!-- NEO_OPEN_SYNTHESIS_INVITATION_START -->
-
-## Participa en la Síntesis Abierta / Join the Open Synthesis
-
-Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. / You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta.
-
-**Última síntesis / Latest synthesis:** [LXXV · Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™](75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md) · [Issue #134](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/134)  
-**Seguimiento vivo / Living follow-up:** [seguir el marco / follow the framework](../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [registro de entrada / entry register](../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)  
-**Auditorías / Audits:** [LIII · Leónidas™](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo / protocol](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
-**Cómo aportar / How to contribute:** [protocolo general / general protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../auditorias/publicas/README.md) · [índice / index](../propuestas/sintesis-abierta/README.md)
-
-<!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->
-
-<!-- NEO_RELATIONAL_FOOTER_START -->
-
-## Relaciones y contexto / Relations and context
-
-[Mapa transversal](RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Síntesis relacional #98](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/98) · [Mapa relacional MAXPROC](../auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md) · [Neoaxiomas™](../neoaxiomas/README.md) · [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
-
-> Este bloque añade navegación y relaciones; no sustituye, resume ni reduce el cuerpo del manifiesto. / This block adds navigation and relations; it does not replace, summarise or reduce the manifesto body.
-
-<!-- NEO_RELATIONAL_FOOTER_END -->
+← [XLIX · Neodialectics as a Meeting Point between Cultures™](./49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md) · [Index](./README.md) · [LI · Open Synthesis as Complementary or Substitutive Civic Power™](./51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_START -->
 

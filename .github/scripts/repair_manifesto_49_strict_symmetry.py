@@ -2,7 +2,8 @@ from pathlib import Path
 p=Path('manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md')
 text=p.read_text(encoding='utf-8')
 start=text.index('# EN · English')
-end=text.index('<!-- NEO_RELATIONS_START -->',start)
+tails=[text.find(x,start) for x in ('<!-- NEO_RELATIONS_START -->','<!-- NEO_CROSS_REFERENCES_START -->','<!-- NEO_MANIFESTO_NAV_START -->') if text.find(x,start)>=0]
+end=min(tails) if tails else len(text)
 en=r'''# EN · English
 
 ## Invocation
