@@ -7,9 +7,9 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **287**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **209**.
-- Fallos estructurales divididos / Split structural failures: **123**.
+- Markdown activo examinado / Active Markdown scanned: **288**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **210**.
+- Fallos estructurales divididos / Split structural failures: **124**.
 - Fallos de marcadores / Marker failures: **1**.
 - Superficies pareadas para revisión / Paired surfaces for review: **22**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -371,6 +371,18 @@
   - 8: párrafos ES=2 EN=1
   - 9: lists ES=8 EN=0
   - 9: párrafos ES=4 EN=2
+- `propuestas/sintesis-abierta/MEDICI_MOTOR_CALCULO_PLATAFORMAS_V0_1_ES_EN.md` · ES=315 · EN=280 · ratio=0.89
+  - 3: lists ES=5 EN=0
+  - 4: code ES=1 EN=0
+  - 4: párrafos ES=0 EN=1
+  - 5: code ES=1 EN=0
+  - 5: párrafos ES=2 EN=1
+  - 6: code ES=1 EN=0
+  - 6: párrafos ES=2 EN=1
+  - 7: párrafos ES=2 EN=1
+  - 8: párrafos ES=3 EN=2
+  - 9: code ES=1 EN=0
+  - 9: párrafos ES=2 EN=1
 - `propuestas/sintesis-abierta/NEOCRONOS_RETORNO_TEMPORAL_TOKENIZACION_ES_EN.md` · ES=504 · EN=460 · ratio=0.91
   - 3: lists ES=9 EN=0
   - 5: lists ES=12 EN=0
@@ -704,6 +716,7 @@
 | `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` | **REVISAR** | volumen EN/ES=0.78 (145/187); esqueleto de encabezados distinto ES=[(3, ''), (3, ''), (3, ''), (3, '')] EN=[] |
 | `propuestas/sintesis-abierta/MEDICI_CREDITOS_PLATAFORMAS_COMPENSACION_ES_EN.md` | **REVISAR** | volumen EN/ES=0.57 (361/630); 1: code ES=1 EN=0; 1: párrafos ES=3 EN=2; 2: párrafos ES=3 EN=2; 3: lists ES=3 EN=0; 3: párrafos ES=2 EN=1; 4: lists ES=5 EN=0; 4: code ES=1 EN=0; 4: párrafos ES=3 EN=1; 5: code ES=1 EN=0; 5: párrafos ES=3 EN=1; 6: lists ES=8 EN=0; 7: code ES=1 EN=0; 7: párrafos ES=2 EN=1; 8: code ES=1 EN=0; 8: párrafos ES=2 EN=1; 9: lists ES=8 EN=0; 9: párrafos ES=4 EN=2 |
+| `propuestas/sintesis-abierta/MEDICI_MOTOR_CALCULO_PLATAFORMAS_V0_1_ES_EN.md` | **REVISAR** | 3: lists ES=5 EN=0; 4: code ES=1 EN=0; 4: párrafos ES=0 EN=1; 5: code ES=1 EN=0; 5: párrafos ES=2 EN=1; 6: code ES=1 EN=0; 6: párrafos ES=2 EN=1; 7: párrafos ES=2 EN=1; 8: párrafos ES=3 EN=2; 9: code ES=1 EN=0; 9: párrafos ES=2 EN=1 |
 | `propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Neoaxiomas™ · Síntesis Abierta |
 | `propuestas/sintesis-abierta/NEOCRONOS_RETORNO_TEMPORAL_TOKENIZACION_ES_EN.md` | **REVISAR** | 3: lists ES=9 EN=0; 5: lists ES=12 EN=0; 6: lists ES=7 EN=0; 12: párrafos ES=2 EN=3 |
 | `propuestas/sintesis-abierta/NEOCRONOS_UPGRADE_ENTRADA_PANEL_TRAZA_ES_EN.md` | **REVISAR** | volumen EN/ES=0.29 (150/515); esqueleto de encabezados distinto ES=[(3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, '')] EN=[] |
