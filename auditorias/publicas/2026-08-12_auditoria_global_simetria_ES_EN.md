@@ -7,9 +7,9 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **288**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **210**.
-- Fallos estructurales divididos / Split structural failures: **124**.
+- Markdown activo examinado / Active Markdown scanned: **289**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **211**.
+- Fallos estructurales divididos / Split structural failures: **125**.
 - Fallos de marcadores / Marker failures: **1**.
 - Superficies pareadas para revisión / Paired surfaces for review: **22**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -427,6 +427,8 @@
   - esqueleto de encabezados distinto ES=[(3, '1'), (3, '2'), (3, '3'), (3, '4'), (3, '5'), (3, '6'), (3, '7'), (3, '8')] EN=[(3, ''), (3, '')]
 - `proyeccion/NEOCORE_7_2_DELTA_ES_EN.md` · ES=224 · EN=255 · ratio=1.14
   - 5: párrafos ES=1 EN=3
+- `proyeccion/NEOCORE_7_2_EXTERNAL_REVIEW_BRIEF_ES_EN.md` · ES=498 · EN=512 · ratio=1.03
+  - IDEA · contexto genealógico opcional: párrafos ES=3 EN=2
 - `proyeccion/POLITICA_SIMETRIA_BILINGUE_ES_EN.md` · ES=485 · EN=480 · ratio=0.99
   - VIII: párrafos ES=2 EN=3
 - `proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md` · ES=1013 · EN=963 · ratio=0.95
@@ -730,6 +732,7 @@
 | `proyeccion/2026-08-11_delta_web4_neocore_patrimonio_comun_aprendizaje_creacion_ES_EN.md` | **REVISAR** | 10: párrafos ES=3 EN=2 |
 | `proyeccion/2026-08-13_DIRECCION_WEB4_NEOCRONOS_AGUILA_ES_EN.md` | **REVISAR** | volumen EN/ES=0.27 (149/552); esqueleto de encabezados distinto ES=[(3, '1'), (3, '2'), (3, '3'), (3, '4'), (3, '5'), (3, '6'), (3, '7'), (3, '8')] EN=[(3, ''), (3, '')] |
 | `proyeccion/NEOCORE_7_2_DELTA_ES_EN.md` | **REVISAR** | 5: párrafos ES=1 EN=3 |
+| `proyeccion/NEOCORE_7_2_EXTERNAL_REVIEW_BRIEF_ES_EN.md` | **REVISAR** | IDEA · contexto genealógico opcional: párrafos ES=3 EN=2 |
 | `proyeccion/POLITICA_SIMETRIA_BILINGUE_ES_EN.md` | **REVISAR** | VIII: párrafos ES=2 EN=3 |
 | `proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md` | **REVISAR** | 11: lists ES=4 EN=0; 11: párrafos ES=4 EN=3; Principio de Proyección por Pertinencia™: párrafos ES=4 EN=5 |
 | `proyeccion/README.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Proyección y difusión trazable / Genealogía y salvaguarda |
