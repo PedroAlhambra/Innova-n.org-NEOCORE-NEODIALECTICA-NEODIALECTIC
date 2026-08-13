@@ -7,9 +7,9 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **286**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **208**.
-- Fallos estructurales divididos / Split structural failures: **122**.
+- Markdown activo examinado / Active Markdown scanned: **287**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **209**.
+- Fallos estructurales divididos / Split structural failures: **123**.
 - Fallos de marcadores / Marker failures: **1**.
 - Superficies pareadas para revisión / Paired surfaces for review: **22**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -352,6 +352,25 @@
 - `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · ES=187 · EN=145 · ratio=0.78
   - volumen EN/ES=0.78 (145/187)
   - esqueleto de encabezados distinto ES=[(3, ''), (3, ''), (3, ''), (3, '')] EN=[]
+- `propuestas/sintesis-abierta/MEDICI_CREDITOS_PLATAFORMAS_COMPENSACION_ES_EN.md` · ES=630 · EN=361 · ratio=0.57
+  - volumen EN/ES=0.57 (361/630)
+  - 1: code ES=1 EN=0
+  - 1: párrafos ES=3 EN=2
+  - 2: párrafos ES=3 EN=2
+  - 3: lists ES=3 EN=0
+  - 3: párrafos ES=2 EN=1
+  - 4: lists ES=5 EN=0
+  - 4: code ES=1 EN=0
+  - 4: párrafos ES=3 EN=1
+  - 5: code ES=1 EN=0
+  - 5: párrafos ES=3 EN=1
+  - 6: lists ES=8 EN=0
+  - 7: code ES=1 EN=0
+  - 7: párrafos ES=2 EN=1
+  - 8: code ES=1 EN=0
+  - 8: párrafos ES=2 EN=1
+  - 9: lists ES=8 EN=0
+  - 9: párrafos ES=4 EN=2
 - `propuestas/sintesis-abierta/NEOCRONOS_RETORNO_TEMPORAL_TOKENIZACION_ES_EN.md` · ES=504 · EN=460 · ratio=0.91
   - 3: lists ES=9 EN=0
   - 5: lists ES=12 EN=0
@@ -460,7 +479,7 @@
 - `difusion/2026-08-09_marco_tanda_02_ES_EN.md`: Difusión del marco · tanda 02 · 2026-08-09
 - `manifiestos/README.md`: WEB4™ · SistemaTrazable™
 - `propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md`: Neoaxiomas™ · Síntesis Abierta
-- `proyeccion/README.md`: Proyección y difusión trazable | Traceable projection and outreach
+- `proyeccion/README.md`: Proyección y difusión trazable | Genealogía y salvaguarda
 - `web4/2026-08-10_POSTCHECK_WEB4_7_2_IDEA_ES_EN.md`: Postcheck WEB4™ · NEOCore™ 7.2 + IDEA | Límite de verificación
 - `wiki-source/README.md`: Salvaguarda
 
@@ -684,6 +703,7 @@
 | `propuestas/sintesis-abierta/GUIA_RAPIDA_APORTAR_EVIDENCIA_ES_EN.md` | **REVISAR** | volumen EN/ES=0.75 (443/592); esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, ''), (3, ''), (2, ''), (3, '1'), (3, '2'), (2, ''), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] |
 | `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` | **REVISAR** | volumen EN/ES=0.78 (145/187); esqueleto de encabezados distinto ES=[(3, ''), (3, ''), (3, ''), (3, '')] EN=[] |
+| `propuestas/sintesis-abierta/MEDICI_CREDITOS_PLATAFORMAS_COMPENSACION_ES_EN.md` | **REVISAR** | volumen EN/ES=0.57 (361/630); 1: code ES=1 EN=0; 1: párrafos ES=3 EN=2; 2: párrafos ES=3 EN=2; 3: lists ES=3 EN=0; 3: párrafos ES=2 EN=1; 4: lists ES=5 EN=0; 4: code ES=1 EN=0; 4: párrafos ES=3 EN=1; 5: code ES=1 EN=0; 5: párrafos ES=3 EN=1; 6: lists ES=8 EN=0; 7: code ES=1 EN=0; 7: párrafos ES=2 EN=1; 8: code ES=1 EN=0; 8: párrafos ES=2 EN=1; 9: lists ES=8 EN=0; 9: párrafos ES=4 EN=2 |
 | `propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Neoaxiomas™ · Síntesis Abierta |
 | `propuestas/sintesis-abierta/NEOCRONOS_RETORNO_TEMPORAL_TOKENIZACION_ES_EN.md` | **REVISAR** | 3: lists ES=9 EN=0; 5: lists ES=12 EN=0; 6: lists ES=7 EN=0; 12: párrafos ES=2 EN=3 |
 | `propuestas/sintesis-abierta/NEOCRONOS_UPGRADE_ENTRADA_PANEL_TRAZA_ES_EN.md` | **REVISAR** | volumen EN/ES=0.29 (150/515); esqueleto de encabezados distinto ES=[(3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, '')] EN=[] |
@@ -699,7 +719,7 @@
 | `proyeccion/NEOCORE_7_2_DELTA_ES_EN.md` | **REVISAR** | 5: párrafos ES=1 EN=3 |
 | `proyeccion/POLITICA_SIMETRIA_BILINGUE_ES_EN.md` | **REVISAR** | VIII: párrafos ES=2 EN=3 |
 | `proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md` | **REVISAR** | 11: lists ES=4 EN=0; 11: párrafos ES=4 EN=3; Principio de Proyección por Pertinencia™: párrafos ES=4 EN=5 |
-| `proyeccion/README.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Proyección y difusión trazable / Traceable projection and outreach |
+| `proyeccion/README.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Proyección y difusión trazable / Genealogía y salvaguarda |
 | `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md` | **REVISAR** | 6: párrafos ES=2 EN=3 |
 | `web4/2026-08-10_POSTCHECK_WEB4_7_2_IDEA_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Postcheck WEB4™ · NEOCore™ 7.2 + IDEA / Límite de verificación |
 | `web4/README.md` | **MARCADORES** | — |
