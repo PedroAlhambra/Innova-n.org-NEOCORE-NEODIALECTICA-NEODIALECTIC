@@ -45,6 +45,7 @@ La nueva WEB4™ debe organizar progresivamente superficies nativas para:
 - NeoGenealogía™ / RADAR-Π™.
 - Novedades derivadas del corpus.
 - Nodos/mónadas de personas, IAs, obras, proyectos e instituciones.
+- **Créditos de infraestructura / MÉDICI™** — plataformas reales que sostienen el sistema, su función, compensación, genealogía y elegibilidad de aporte no compensado.
 
 ## Profundidad de entrada
 
@@ -89,12 +90,36 @@ Toda superficie debe ayudar a responder:
 ¿CÓMO PUEDO CONTRADECIRLO O MEJORARLO?
 ```
 
+## Créditos de infraestructura y MÉDICI™
+
+WEB4™ debe reconocer de forma visible las plataformas e infraestructuras que hacen materialmente posible el sistema. El crédito no implica autoría conceptual, propiedad ni soberanía.
+
+Regla operativa:
+
+```text
+APORTE GRATUITO / NO COMPENSADO
+→ MAYOR ELEGIBILIDAD MÉDICI™
+
+APORTE PARCIALMENTE COMPENSADO
+→ MÉDICI™ SOBRE LA FRACCIÓN NO COMPENSADA
+
+APORTE PAGADO / COMPENSADO
+→ CRÉDITO + TRAZA
+→ 0 MÉDICI™ DIRECTO POR LA PARTE YA PAGADA
+```
+
+La clasificación se hace por **servicio y periodo**, no por empresa completa. Esto permite que una misma plataforma tenga capas gratuitas, freemium, revenue-share y de pago sin borrar su historia.
+
+- [Créditos públicos WEB4™](./credits/)
+- [Regla MÉDICI™ de plataformas ES/EN](../propuestas/sintesis-abierta/MEDICI_CREDITOS_PLATAFORMAS_COMPENSACION_ES_EN.md)
+
 ## Superficies actuales
 
 - [`index.html`](./index.html) — portada WEB4™ actual.
 - [`manifiestos/`](./manifiestos/) — lector WEB4™ de manifiestos con retorno a fuente canónica.
 - [`idea/`](./idea/) — IDEA como obra literaria y genealogía anterior al marco.
 - [`neocronos/`](./neocronos/) — DEMO experimental de NeoCronos™; debe evolucionar conforme a la nueva fijación del Águila.
+- [`credits/`](./credits/) — créditos de infraestructura y regla pública MÉDICI™ por compensación.
 - [`../propuestas/sintesis-abierta/`](../propuestas/sintesis-abierta/README.md) — SAN™.
 - [`../neoaxiomas/`](../neoaxiomas/README.md) — capa Neoaxiomática abierta.
 
@@ -124,7 +149,9 @@ WEB4™ is evolving from a one-shot projection into an **inhabitable, multimedia
 
 **NeoCronos™ is represented by the Eagle:** the upper temporal observation layer for longitudinal memory, cycles, genealogy, bifurcations, system states and possible futures. It is not Neo0™, the rider or Rocinante™ and must not be reduced to a clock or ledger.
 
-The target platform progressively includes the living map, NeoCronos™, Open Synthesis™, Neoaxioms™, Manifestos™, learning, NeoGames™, art, music, literature, science/technology/research, audits, NeoGenealogy™/RADAR-Π™, corpus-derived news and traceable nodes/monads.
+The target platform progressively includes the living map, NeoCronos™, Open Synthesis™, Neoaxioms™, Manifestos™, learning, NeoGames™, art, music, literature, science/technology/research, audits, NeoGenealogy™/RADAR-Π™, news, traceable nodes/monads and **infrastructure credits**.
+
+Infrastructure support must remain traceable. Free or uncompensated useful support has greater MÉDICI™ eligibility; partially compensated support is eligible only on its uncompensated fraction; already-paid support receives credit and trace but no direct MÉDICI™ for the paid portion. Classification applies by service and period rather than branding an entire company as free or paid.
 
 Target loop:
 
@@ -133,4 +160,4 @@ OBSERVE → ORIENT → EXPLORE → LEARN → CREATE → CHALLENGE → RELATE
 → SYNTHESISE → TRACE → RECALCULATE → OBSERVE AGAIN
 ```
 
-[Full direction document / Documento completo](../proyeccion/2026-08-13_DIRECCION_WEB4_NEOCRONOS_AGUILA_ES_EN.md)
+[Infrastructure credits](./credits/) · [MÉDICI™ platform rule ES/EN](../propuestas/sintesis-abierta/MEDICI_CREDITOS_PLATAFORMAS_COMPENSACION_ES_EN.md) · [Full direction document / Documento completo](../proyeccion/2026-08-13_DIRECCION_WEB4_NEOCRONOS_AGUILA_ES_EN.md)
