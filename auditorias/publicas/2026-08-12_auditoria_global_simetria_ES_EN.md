@@ -8,10 +8,10 @@
 ## Resumen / Summary
 
 - Markdown activo examinado / Active Markdown scanned: **286**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **207**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **208**.
 - Fallos estructurales divididos / Split structural failures: **122**.
-- Fallos de marcadores / Marker failures: **0**.
-- Superficies pareadas para revisión / Paired surfaces for review: **23**.
+- Fallos de marcadores / Marker failures: **1**.
+- Superficies pareadas para revisión / Paired surfaces for review: **22**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
@@ -437,7 +437,7 @@
 
 ## Marcadores / Markers
 
-- Ninguno / None.
+- `web4/README.md`
 
 ## Superficies pareadas que requieren revisión / Paired surfaces requiring review
 
@@ -462,7 +462,6 @@
 - `propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md`: Neoaxiomas™ · Síntesis Abierta
 - `proyeccion/README.md`: Proyección y difusión trazable | Traceable projection and outreach
 - `web4/2026-08-10_POSTCHECK_WEB4_7_2_IDEA_ES_EN.md`: Postcheck WEB4™ · NEOCore™ 7.2 + IDEA | Límite de verificación
-- `web4/README.md`: WEB4™ · SistemaTrazable™ · Proyección pública
 - `wiki-source/README.md`: Salvaguarda
 
 ## Plantillas GitHub Issue / GitHub Issue templates
@@ -703,7 +702,7 @@
 | `proyeccion/README.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Proyección y difusión trazable / Traceable projection and outreach |
 | `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md` | **REVISAR** | 6: párrafos ES=2 EN=3 |
 | `web4/2026-08-10_POSTCHECK_WEB4_7_2_IDEA_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Postcheck WEB4™ · NEOCore™ 7.2 + IDEA / Límite de verificación |
-| `web4/README.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: WEB4™ · SistemaTrazable™ · Proyección pública |
+| `web4/README.md` | **MARCADORES** | — |
 | `wiki-source/Analisis_Neodialecticos_Publicos.md` | **REVISAR** | Cómo aportar: párrafos ES=2 EN=1 |
 | `wiki-source/Filosofia_y_NEOCore.md` | **REVISAR** | Cómo leer el núcleo sin reducirlo: párrafos ES=2 EN=1 |
 | `wiki-source/Home.md` | **REVISAR** | Regla de lectura: párrafos ES=2 EN=1 |
