@@ -7,7 +7,7 @@
 
 ## ES · Resultado
 
-- Archivos Markdown activos revisados: **362**.
+- Archivos Markdown activos revisados: **363**.
 - Archivos Markdown históricos excluidos del estado vivo: **55**.
 - README/LEEME activos revisados: **18**.
 - Enlaces internos de ruta comprobados: **11021**.
@@ -34,7 +34,7 @@
 
 ## EN · Result
 
-- Active Markdown files reviewed: **362**.
+- Active Markdown files reviewed: **363**.
 - Historical Markdown files excluded from living-state health: **55**.
 - Active README/LEEME files reviewed: **18**.
 - Internal path links checked: **11021**.
