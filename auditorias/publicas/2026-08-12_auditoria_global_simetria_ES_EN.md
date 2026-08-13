@@ -7,8 +7,8 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **284**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **205**.
+- Markdown activo examinado / Active Markdown scanned: **285**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **206**.
 - Fallos estructurales divididos / Split structural failures: **121**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **23**.
@@ -512,6 +512,7 @@
 | `analisis/publicos/2026-08-10_LXI_genetica_ADN_neopandora_placa_petri_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-10_addendum_tidal_yellow_quasar_perfil_duplicado_uno_playlists_ES_EN.md` | **REVISAR** | 5: párrafos ES=2 EN=1 |
 | `analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md` | **REVISAR** | 13: párrafos ES=1 EN=2 |
+| `analisis/publicos/2026-08-13_convergencia-neodialectica-meta-zuckerberg_ES_EN.md` | **OK** |  |
 | `analisis/publicos/README.md` | **OK** |  |
 | `analisis/publicos/evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: España, Marruecos, regularización y nacionalidad |
 | `analisis/publicos/evidencias/2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] |
