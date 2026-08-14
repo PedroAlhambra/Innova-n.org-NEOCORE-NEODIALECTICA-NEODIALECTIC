@@ -47,13 +47,7 @@
 - `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` · ES=1750 · EN=1286 · ratio=0.73
   - volumen EN/ES=0.73 (1286/1750)
   - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9'), (3, ''), (3, ''), (3, ''), (2, '10'), (2, '11'), (2, '12')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9'), (3, ''), (3, ''), (3, ''), (2, '10'), (2, '11'), (2, '12')]
-- `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` · ES=531 · EN=358 · ratio=0.67
-  - volumen EN/ES=0.67 (358/531)
-  - 1: lists ES=6 EN=0
-  - 2: párrafos ES=3 EN=2
-  - 3: lists ES=8 EN=0
-  - 4: lists ES=5 EN=0
-  - 5: lists ES=6 EN=0
+- `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` · ES=531 · EN=511 · ratio=0.96
   - 5: párrafos ES=3 EN=5
 - `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md` · ES=403 · EN=292 · ratio=0.72
   - volumen EN/ES=0.72 (292/403)
@@ -457,7 +451,7 @@
 | `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` | **REVISAR** | 2: párrafos ES=8 EN=7; 11: lists ES=10 EN=22; 11: párrafos ES=3 EN=6 |
 | `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` | **REVISAR** | volumen EN/ES=0.73 (1286/1750); esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9'), (3, ''), (3, ''), (3, ''), (2, '10'), (2, '11'), (2, '12')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9'), (3, ''), (3, ''), (3, ''), (2, '10'), (2, '11'), (2, '12')] |
-| `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` | **REVISAR** | volumen EN/ES=0.67 (358/531); 1: lists ES=6 EN=0; 2: párrafos ES=3 EN=2; 3: lists ES=8 EN=0; 4: lists ES=5 EN=0; 5: lists ES=6 EN=0; 5: párrafos ES=3 EN=5 |
+| `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` | **REVISAR** | 5: párrafos ES=3 EN=5 |
 | `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md` | **REVISAR** | volumen EN/ES=0.72 (292/403); 2: lists ES=9 EN=0; 3: párrafos ES=2 EN=0; 4: lists ES=10 EN=0; 5: párrafos ES=2 EN=1; 6: párrafos ES=1 EN=3 |
 | `analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md` | **REVISAR** | 8: párrafos ES=5 EN=4 |
 | `analisis/publicos/2026-08-08_addendum_autodemostracion_creacion_neodialectica_historia_olvidada_ES_EN.md` | **REVISAR** | 7: párrafos ES=2 EN=1 |
