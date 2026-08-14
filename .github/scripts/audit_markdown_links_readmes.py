@@ -5,19 +5,25 @@ import re
 root = Path('.').resolve()
 report = root / 'auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md'
 manifest_index = root / 'manifiestos/README.md'
-synth_index = root / 'propuestas/sintesis-abierta/README.md'
+synth_entry = root / 'propuestas/sintesis-abierta/README.md'
+synth_index = root / 'propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md'
 
 # Historical archives deliberately preserve old Wiki topology, including links
 # to pages that no longer exist in the living Wiki. They must remain untouched
 # and must not make the current documentary graph fail.
 EXCLUDED_TOP_LEVEL = {'wiki-legacy-archive'}
+LEGACY_ENTRY_FILES = {
+    root / 'LEEME.md',
+    root / 'PORTADA.md',
+    root / 'COVER.md',
+    root / 'PREFACIO.md',
+    root / 'FOREWORD.md',
+}
 all_markdown = sorted(p for p in root.rglob('*.md') if '.git' not in p.parts)
 archived_markdown = [p for p in all_markdown if p.relative_to(root).parts and p.relative_to(root).parts[0] in EXCLUDED_TOP_LEVEL]
-markdown_files = [p for p in all_markdown if p not in archived_markdown]
+legacy_entry_markdown = [p for p in all_markdown if p in LEGACY_ENTRY_FILES]
+markdown_files = [p for p in all_markdown if p not in archived_markdown and p not in legacy_entry_markdown]
 readmes = sorted(p for p in markdown_files if p.name.startswith('README'))
-leeme = root / 'LEEME.md'
-if leeme.exists() and leeme not in readmes:
-    readmes.append(leeme)
 
 link_re = re.compile(r'(?<!!)\[[^\]]*\]\(([^)]+)\)')
 internal_checked = 0
@@ -49,14 +55,14 @@ for f in markdown_files:
         internal_checked += 1
         p = (root / clean.lstrip('/')).resolve() if clean.startswith('/') else (f.parent / clean).resolve()
         try:
-            relp = p.relative_to(root)
+            p.relative_to(root)
         except ValueError:
             broken.append((f.relative_to(root).as_posix(), target, 'fuera del repositorio / outside repository'))
             continue
 
-        # A live document may explicitly link to a historical archive; that
-        # target is valid if it exists. Only the links *inside* archived files
-        # are excluded from current-health enforcement.
+        # A live document may explicitly link to a historical/legacy file; the
+        # target remains valid while migration is in progress. Its internal
+        # links are simply excluded from living-state enforcement.
         if p.exists():
             continue
 
@@ -90,14 +96,24 @@ if not canonical:
 if latest and not latest.exists():
     critical.append(f'Falta el último manifiesto {latest_roman}. / Latest manifesto {latest_roman} is missing.')
 
+# The complete synthesis index owns the dynamic inventory/frontier. The
+# operational README owns participation routes and must not be forced to repeat
+# the numerical corpus state.
 ss=synth_index.read_text(encoding='utf-8')
+se=synth_entry.read_text(encoding='utf-8')
 if canonical:
     if f'I–{latest_roman}' not in ss:
-        critical.append(f'El índice de Síntesis Abierta no declara I–{latest_roman}. / The Open Synthesis index does not declare I–{latest_roman}.')
+        critical.append(f'El índice completo de Síntesis Abierta no declara I–{latest_roman}. / The complete Open Synthesis index does not declare I–{latest_roman}.')
     if latest.name not in ss:
-        critical.append(f'La Síntesis Abierta no enlaza el último manifiesto {latest_roman}. / Open Synthesis does not link the latest manifesto {latest_roman}.')
+        critical.append(f'El índice completo de Síntesis no enlaza el último manifiesto {latest_roman}. / The complete Synthesis index does not link the latest manifesto {latest_roman}.')
     if issue_num and f'issues/{issue_num}' not in ss:
-        critical.append(f'La Síntesis Abierta no enlaza el Issue #{issue_num} del último manifiesto {latest_roman}. / Open Synthesis does not link Issue #{issue_num} for the latest manifesto {latest_roman}.')
+        critical.append(f'El índice completo de Síntesis no enlaza el Issue #{issue_num} del último manifiesto {latest_roman}. / The complete Synthesis index does not link Issue #{issue_num} for the latest manifesto {latest_roman}.')
+if 'INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md' not in se:
+    critical.append('El README operativo de Síntesis no enlaza el índice completo. / The operational Synthesis README does not link the complete index.')
+if 'REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md' not in se:
+    critical.append('El README operativo de Síntesis no enlaza el registro de entrada. / The operational Synthesis README does not link the entry register.')
+if '# ES · Castellano' not in se or '# EN · English' not in se:
+    critical.append('El README operativo de Síntesis no conserva división bilingüe ES/EN. / The operational Synthesis README does not preserve the ES/EN bilingual split.')
 
 latest_markers=0
 latest_bad=[]
@@ -120,18 +136,19 @@ lines = [
     '**Fecha / Date:** 2026-08-12  ',
     f'**Estado / Status:** **{status}**',
     '',
-    '> **Alcance / Scope:** el grafo vivo excluye `wiki-legacy-archive/` porque conserva deliberadamente la topología histórica anterior. Los archivos históricos permanecen versionados, pero sus enlaces obsoletos no se contabilizan como roturas del estado canónico vigente. / the living graph excludes `wiki-legacy-archive/`, which deliberately preserves the former Wiki topology. Historical files remain versioned, but their obsolete links do not count as breakage of the current canonical state.',
+    '> **Alcance / Scope:** el grafo vivo excluye `wiki-legacy-archive/` y las entradas raíz legacy `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` y `FOREWORD.md`. Esos archivos permanecen temporalmente versionados mientras se migran referencias, pero no constituyen superficies canónicas vivas. / the living graph excludes `wiki-legacy-archive/` and the root legacy entry files `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` and `FOREWORD.md`. Those files remain temporarily versioned while references are migrated, but they are not living canonical surfaces.',
     '',
     '## ES · Resultado',
     '',
     f'- Archivos Markdown activos revisados: **{len(markdown_files)}**.',
     f'- Archivos Markdown históricos excluidos del estado vivo: **{len(archived_markdown)}**.',
-    f'- README/LEEME activos revisados: **{len(readmes)}**.',
+    f'- Entradas legacy excluidas del estado vivo: **{len(legacy_entry_markdown)}**.',
+    f'- README activos revisados: **{len(readmes)}**.',
     f'- Enlaces internos de ruta comprobados: **{internal_checked}**.',
     f'- Alias internos de GitHub Wiki reconocidos: **{wiki_aliases}**.',
     f'- Enlaces externos inventariados sin comprobar disponibilidad remota: **{external_seen}**.',
     f'- Enlaces sólo a ancla detectados: **{anchor_only}**.',
-    f'- Bloques de último manifiesto encontrados en README/LEEME: **{latest_markers}**.',
+    f'- Bloques de último manifiesto encontrados en README: **{latest_markers}**.',
     f'- Manifiestos canónicos detectados: **{count} · I–{latest_roman or "?"}**.',
     f'- Último manifiesto / Síntesis: **{latest_desc}**.',
     f'- Enlaces internos rotos del grafo vivo: **{len(broken)}**.',
@@ -140,7 +157,8 @@ lines = [
     '### Comprobaciones canónicas',
     '',
     '- La colección se reconstruye dinámicamente desde `manifiestos/README.md`; no se fija un número histórico en el auditor.',
-    '- Síntesis Abierta debe enlazar el último manifiesto y su Issue específico.',
+    '- El índice completo de Síntesis Abierta debe enlazar el último manifiesto y su Issue específico.',
+    '- El README operativo de Síntesis debe conservar las rutas de participación sin duplicar el inventario dinámico.',
     '- Los README con bloque `NEO_LATEST_MANIFESTO` deben apuntar al último manifiesto y su Síntesis.',
     '- El archivo Wiki histórico se conserva como evidencia y no se reescribe para simular vigencia.',
     '- La auditoría de rutas no sustituye la comprobación remota de URLs externas ni la validación semántica de anclas renderizadas.',
@@ -161,12 +179,13 @@ lines += [
     '',
     f'- Active Markdown files reviewed: **{len(markdown_files)}**.',
     f'- Historical Markdown files excluded from living-state health: **{len(archived_markdown)}**.',
-    f'- Active README/LEEME files reviewed: **{len(readmes)}**.',
+    f'- Legacy entry files excluded from living-state health: **{len(legacy_entry_markdown)}**.',
+    f'- Active README files reviewed: **{len(readmes)}**.',
     f'- Internal path links checked: **{internal_checked}**.',
     f'- GitHub Wiki extensionless page aliases recognised: **{wiki_aliases}**.',
     f'- External links inventoried without checking remote availability: **{external_seen}**.',
     f'- Anchor-only links detected: **{anchor_only}**.',
-    f'- Latest-manifesto blocks found in README/LEEME files: **{latest_markers}**.',
+    f'- Latest-manifesto blocks found in README files: **{latest_markers}**.',
     f'- Canonical manifestos detected: **{count} · I–{latest_roman or "?"}**.',
     f'- Latest manifesto / synthesis: **{latest_desc}**.',
     f'- Broken internal links in the living graph: **{len(broken)}**.',
@@ -175,7 +194,8 @@ lines += [
     '### Canonical checks',
     '',
     '- The collection is reconstructed dynamically from `manifiestos/README.md`; the auditor does not hardcode a historical number.',
-    '- Open Synthesis must link the latest manifesto and its specific Issue.',
+    '- The complete Open Synthesis index must link the latest manifesto and its specific Issue.',
+    '- The operational Synthesis README must preserve participation routes without duplicating the dynamic inventory.',
     '- README files with a `NEO_LATEST_MANIFESTO` block must point to the latest manifesto and its Synthesis.',
     '- The historical Wiki archive is preserved as evidence and is not rewritten to simulate current validity.',
     '- The route audit does not replace remote checking of external URLs or semantic validation of rendered anchors.',
@@ -196,4 +216,4 @@ lines += [
 ]
 report.write_text('\n'.join(lines)+'\n',encoding='utf-8')
 print(f'POSTCHECK_STATUS={status}')
-print(f'MARKDOWN_ACTIVE={len(markdown_files)} ARCHIVED_EXCLUDED={len(archived_markdown)} README_LEEME={len(readmes)} CANONICAL={count} LATEST={latest_roman} ISSUE={issue_num} INTERNAL_LINKS={internal_checked} WIKI_ALIASES={wiki_aliases} BROKEN={len(broken)} CRITICAL={len(critical)}')
+print(f'MARKDOWN_ACTIVE={len(markdown_files)} ARCHIVED_EXCLUDED={len(archived_markdown)} LEGACY_ENTRY_EXCLUDED={len(legacy_entry_markdown)} README={len(readmes)} CANONICAL={count} LATEST={latest_roman} ISSUE={issue_num} INTERNAL_LINKS={internal_checked} WIKI_ALIASES={wiki_aliases} BROKEN={len(broken)} CRITICAL={len(critical)}')
