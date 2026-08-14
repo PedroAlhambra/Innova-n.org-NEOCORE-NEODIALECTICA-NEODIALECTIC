@@ -2,13 +2,16 @@
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
+## Actualización 2026-08-14 · IA, libros y arquitectura sociotécnica / AI, books and sociotechnical architecture
+
+- [Recálculo · quejas sobre IA actual, arquitectura sociotécnica y herencia pre-neodialéctica / Recalculation · current AI complaints, sociotechnical architecture and pre-Neodialectical legacy](./2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md)
+- [Auditoría pública · escaneo destructivo y destrucción de libros / Public audit · destructive scanning and book destruction](../../auditorias/publicas/2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md)
+- [Síntesis Abierta / Open Synthesis #146](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/146) · [Auditoría / Audit #144](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/144) · [Bibliotecas / Libraries #145](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/145)
+
 ## Actualización 2026-08-09 · crítica externa / External criticism
 
 - [Václav Smil + Terry Winograd · deltas sobre integración, poder e incentivos](./2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md)
 - [MAXPROC 001 · Leónidas-Cancerbero™](./2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md)
-
-
-
 
 <!-- NEO_SYSTEMIC_NEED_DELTA_START -->
 > ## 🟤 DELTA · NECESIDAD SISTÉMICA, NEO0, IDEA Y CUSTODIA COGNITIVA / SYSTEMIC NEED, NEO0, IDEA & COGNITIVE CUSTODIANSHIP
@@ -32,8 +35,6 @@
 > [Investigación principal / Main research](2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md) · [Autodemostración Neodialéctica™ / Neodialectical Self-Demonstration™](2026-08-08_addendum_autodemostracion_creacion_neodialectica_historia_olvidada_ES_EN.md) · [Síntesis Abierta #63 / Open Synthesis #63](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/63)
 
 <!-- NEO_FORGOTTEN_HISTORY_RESEARCH_END -->
-
-
 
 <!-- NEO_LATEST_MANIFESTO_START -->
 
@@ -101,6 +102,15 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 Esta serie reúne análisis estructurales y trazas públicas de utilidad documental producidas desde el marco neodialéctico.
 
 ## 2026-08
+
+### Recálculo · quejas sobre IA, arquitectura sociotécnica y herencia pre-neodialéctica
+
+* [2026-08-14 · Documento bilingüe completo](./2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md)
+* [Síntesis Abierta · Issue #146](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/146)
+* [Auditoría de destrucción de libros · #144](../../auditorias/publicas/2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md)
+* [Caso institucional Anthropic · #143](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/143)
+
+Descompone las quejas dirigidas a «la IA» en capas del sistema sociotécnico —modelo, datos, entrenamiento, producto, incentivos, interfaz, despliegue, usuarios e instituciones— y abre a refutación la hipótesis de que una parte relevante de los daños actuales amplifica estructuras pre-neodialécticas en lugar de expresar una esencia moral de la IA.
 
 ### MAXPROC · Protección Integral de la Infancia™
 
@@ -194,6 +204,15 @@ This series gathers structural analyses and public documentary traces produced f
 
 ## 2026-08
 
+### Recalculation · AI complaints, sociotechnical architecture and pre-Neodialectical legacy
+
+* [2026-08-14 · Complete bilingual document](./2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md)
+* [Open Synthesis · Issue #146](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/146)
+* [Book-destruction audit · #144](../../auditorias/publicas/2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md)
+* [Institutional Anthropic case · #143](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/143)
+
+Decomposes complaints directed at «AI» into layers of the sociotechnical system —model, data, training, product, incentives, interface, deployment, users and institutions— and opens to refutation the hypothesis that a relevant share of current harms amplifies pre-Neodialectical structures rather than expressing a moral essence of AI.
+
 ### MAXPROC · Integral Protection of Childhood™
 
 * [2026-08-07 · Complete MAXPROC audit](./2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
@@ -280,7 +299,7 @@ Analyses must distinguish facts, declared data, testimony, inference, hypotheses
 
 ---
 
-**© 2026 Pedro Martínez Alhambra · Fundación Innova_N / Innova_N Foundation**
+**© 2026 Pedro Martínez Alhambra · Innova_N**
 
 <!-- KDP_51071689_TRACE_START -->
 
@@ -302,8 +321,8 @@ Analyses must distinguish facts, declared data, testimony, inference, hypotheses
 
 **Neodialectica Framework™ / Network · Innova_N · NEOCore™**
 
-- Colección pública actual: **48 manifiestos bilingües · I–XLVIII · doce oleadas** / Current public collection: **48 bilingual manifestos · I–XLVIII · twelve waves**.
-- Último manifiesto / Latest manifesto: [XLV · Multidimensionalidad Neodialéctica™ · Neodialectical Multidimensionality™](../../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md).
+- Colección pública actual: **75 manifiestos bilingües · I–LXXV · 24 oleadas** / Current public collection: **75 bilingual manifestos · I–LXXV · 24 waves**.
+- Último manifiesto / Latest manifesto: [LXXV · Las Hojas Carcomidas™ / The Gnawed Leaves™](../../manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md).
 - Índice completo / Complete index: [Manifiestos / Manifestos](../../manifiestos/README.md).
 - Contraste público / Public contrast: [Síntesis Abierta / Open Synthesis](../../propuestas/sintesis-abierta/README.md).
 - Expansión y redundancia / Expansion and redundancy: [Protocolo de Proyección Distribuida Neodialéctica™](../../proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md).
