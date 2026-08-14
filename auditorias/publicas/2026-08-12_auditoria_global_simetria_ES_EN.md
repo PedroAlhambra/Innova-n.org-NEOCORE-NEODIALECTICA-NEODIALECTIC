@@ -211,10 +211,7 @@
   - 12: párrafos ES=3 EN=4
 - `propuestas/sintesis-abierta/PARTICIPACION_Y_ADHESIONES_ES_EN.md` · ES=271 · EN=270 · ratio=1.00
   - Resultado esperado: párrafos ES=1 EN=0
-- `propuestas/sintesis-abierta/PUENTE_PARTICIPACION_GUIADA_CORREO_GITHUB_ES_EN.md` · ES=522 · EN=426 · ratio=0.82
-  - volumen EN/ES=0.82 (426/522)
-  - 2: párrafos ES=3 EN=2
-  - 5: lists ES=8 EN=0
+- `propuestas/sintesis-abierta/PUENTE_PARTICIPACION_GUIADA_CORREO_GITHUB_ES_EN.md` · ES=522 · EN=501 · ratio=0.96
   - 8: párrafos ES=3 EN=4
 - `propuestas/sintesis-abierta/RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md` · ES=806 · EN=769 · ratio=0.95
   - 2: lists ES=12 EN=0
@@ -538,7 +535,7 @@
 | `propuestas/sintesis-abierta/NEOCRONOS_UPGRADE_ENTRADA_PANEL_TRAZA_ES_EN.md` | **REVISAR** | Fases de implementación: párrafos ES=6 EN=7 |
 | `propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md` | **REVISAR** | 12: párrafos ES=3 EN=4 |
 | `propuestas/sintesis-abierta/PARTICIPACION_Y_ADHESIONES_ES_EN.md` | **REVISAR** | Resultado esperado: párrafos ES=1 EN=0 |
-| `propuestas/sintesis-abierta/PUENTE_PARTICIPACION_GUIADA_CORREO_GITHUB_ES_EN.md` | **REVISAR** | volumen EN/ES=0.82 (426/522); 2: párrafos ES=3 EN=2; 5: lists ES=8 EN=0; 8: párrafos ES=3 EN=4 |
+| `propuestas/sintesis-abierta/PUENTE_PARTICIPACION_GUIADA_CORREO_GITHUB_ES_EN.md` | **REVISAR** | 8: párrafos ES=3 EN=4 |
 | `propuestas/sintesis-abierta/RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md` | **REVISAR** | 2: lists ES=12 EN=0; 7: code ES=1 EN=0; 7: párrafos ES=4 EN=3; 8: lists ES=6 EN=0; 10: code ES=1 EN=0; 10: párrafos ES=2 EN=1; 11: lists ES=8 EN=0; 14: párrafos ES=3 EN=4 |
 | `propuestas/sintesis-abierta/README.md` | **REVISAR** | 10: párrafos ES=2 EN=1 |
 | `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md` | **REVISAR** | Para qué sirve: lists ES=7 EN=0; Lo que NO significa: lists ES=7 EN=0; Genealogía de derivaciones: code ES=1 EN=0; Seguir la evolución: párrafos ES=1 EN=2 |
