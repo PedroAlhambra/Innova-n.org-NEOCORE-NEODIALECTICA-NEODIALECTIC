@@ -186,16 +186,189 @@ Transformación de aporte validado en elegibilidad según tokenomics aprobada me
 **v1.0 · Fondo de Retorno**  
 Recompensa material únicamente cuando exista infraestructura jurídica, financiera, contable y técnica validada.
 
+---
+
 ## EN · Functional correction
 
-**NeoCronos™ is the measurement system of the Open Synthesis Game™.** It starts at the entry into the game, opens an `NC-*` contribution trace and follows the participant's path until the contribution is challenged, classified and, where appropriate, rewarded.
+**NeoCronos™ is the measurement system of the Open Synthesis Game™.**
 
-The basic unit is not an hour but a **traceable contribution session** combining identity/alias, object, temporal interval, events, evidence, result, SAN status, delta and possible return.
+It is not merely a log of hours or a later economic layer. It should activate from the **entry into the game**, open a contribution trace and accompany the participant's path until the contribution has been challenged, classified and, where appropriate, rewarded.
 
-The public entry should offer **Explore without mining** and **Start contributing with NeoCronos™**. The first WEB4™ implementation should remain a DEMO: local browser trace, timer, event/evidence counters, session history and JSON export, with no token issuance or payment promises.
+```text
+ENTER THE SYNTHESIS
+        ↓
+IDENTIFY OBJECT / CHALLENGE
+        ↓
+START NEOCRONOS™
+        ↓
+NC-* TRACE
+        ↓
+READ / CHALLENGE / CREATE / REPAIR / SYNTHESISE
+        ↓
+REGISTER EVIDENCE AND DELTA
+        ↓
+SESSION CLOSURE
+        ↓
+SAN™ VALIDATION
+        ↓
+CONTRIBUTION VALUE
+        ↓
+TOKENISATION / RETURN / MEMORY
+```
 
-The dashboard should display descriptive process metrics while SAN validation remains pending, and must avoid addictive ranking, opaque multipliers, gambling mechanics or hour-based prestige.
+### Entry v0.2
+
+The public Synthesis gateway should allow, with minimal cognitive cost:
+
+1. **Enter without mining**: read, explore and learn without starting any trace.
+2. **Enter to contribute**: voluntarily start a NeoCronos™ session.
+3. Choose or indicate the **Synthesis object**: issue, manifesto, neoaxiom, problem, audit, code, translation, proposal or another node.
+4. Declare a **contribution alias/identity** compatible with the future identity layer of the system.
+5. Choose the **initial contribution type**: contradiction, evidence, source, idea, code, test, translation, maintenance, care, synthesis, repair or other.
+6. Start an `NC-*` trace with start date/time and object.
+7. Clearly display that **time ≠ automatic token** and that any reward depends on validated contribution and the rules in force.
+
+### NeoCronos™ trace
+
+The trace should be event-sourced: rather than storing only a final total, it records enough milestones to reconstruct the process without continuous surveillance.
+
+Candidate events:
+
+```text
+NC_SESSION_OPENED
+SOURCE_OPENED
+OBJECT_SELECTED
+SOURCE_ADDED
+NOTE_ADDED
+HYPOTHESIS_ADDED
+CONTRADICTION_FOUND
+DELTA_PROPOSED
+EVIDENCE_ADDED
+COMMIT_LINKED
+ISSUE_LINKED
+PAUSE
+RESUME
+SESSION_CLOSED
+SAN_REVIEWED
+VALUE_ASSIGNED
+TOKEN_ELIGIBLE
+TOKEN_ASSIGNED
+REWARD_PAID
+REOPENED
+```
+
+### NeoCronos™ panel
+
+The participant should be able to see the contribution as a process, not as a simple score.
+
+Minimum panel:
+
+```text
+┌────────────────────────────────────────────────────┐
+│ NEOCRONOS™ · SYNTHESIS GAME                       │
+├────────────────────────────────────────────────────┤
+│ Active session       00:42:16                      │
+│ Trace                NC-20260810-...               │
+│ Object               Synthesis #...                │
+│ Status               UNDER CHALLENGE               │
+├────────────────────────────────────────────────────┤
+│ Traced time          42 min                        │
+│ Evidence             3                             │
+│ Sources              2                             │
+│ Deltas               1                             │
+│ New relations        4                             │
+├────────────────────────────────────────────────────┤
+│ SAN value            PENDING                       │
+│ Token eligible       PENDING                       │
+│ Reward               NOT ASSIGNED                  │
+└────────────────────────────────────────────────────┘
+```
+
+The interface should not manufacture false precision of value before validation. During the work it may display **descriptive metrics**, never a promised reward.
+
+### Collective panel
+
+A second view should show the aggregate state of the Game without turning it into an addictive ranking:
+
+- open/closed sessions;
+- aggregate validated useful time;
+- contributions pending challenge;
+- accepted, partial and rejected contributions;
+- contribution types;
+- nodes with the greatest need for scrutiny;
+- deltas produced;
+- repairs completed;
+- eligible/assigned tokens when that layer exists;
+- available return fund when legally and operationally appropriate.
+
+**Do not use by default:** people leaderboards by hours, compulsive streaks, FOMO, random rewards, opaque multipliers or casino patterns.
+
+### Unit of play
+
+The basic unit is not the hour; it is the **traceable contribution session**.
+
+```text
+NEOCRONOS™ SESSION =
+IDENTITY/ALIAS
++ OBJECT
++ TIME INTERVAL
++ EVENTS
++ EVIDENCE
++ RESULT
++ SAN STATUS
++ DELTA
++ RETURN IF APPLICABLE
+```
+
+A session may last five minutes and be extraordinarily valuable; another may last hours and generate no validated contribution.
+
+### Fit with the Traceable Entry Register
+
+NeoCronos™ does not replace the existing Traceable Entry and Derivation Register. It **instruments it temporally**.
+
+```text
+ENTRY REGISTER
+= what arrived + where from + to which node it is derived
+
+NEOCRONOS™
+= who devotes time + to which object + what process they perform + what result they leave
+
+SAN™
+= what part of the result survives challenge
+
+CONTRIBUTION ECONOMY™
+= what recognition/return corresponds
+```
+
+### Privacy
+
+- explicit and voluntary timing;
+- real pause;
+- declarative editing of time when necessary;
+- traceability of corrections;
+- no keylogging;
+- no permanent screenshot capture;
+- no biometric surveillance;
+- possibility of working without a NeoCronos™ session;
+- separation of public identity, alias and data necessary for any eventual payment.
+
+### Implementation phases
+
+**v0.2 · WEB4™ DEMO**  
+Local browser panel. Starts/pauses/closes a session, stores traces locally and allows JSON export. It issues no tokens and makes no payments.
+
+**v0.3 · GitHub bridge**  
+Voluntary linkage of Issue/commit/PR/document and generation of contribution proof.
+
+**v0.4 · SAN validator**  
+States `pending / accepted / partial / rejected`, relational evaluation and traceability of reviews.
+
+**v0.5 · Token eligibility**  
+Transformation of validated contribution into eligibility according to tokenomics approved through Open Synthesis.
+
+**v1.0 · Return Fund**  
+Material reward only when validated legal, financial, accounting and technical infrastructure exists.
 
 ---
 
-**Regla / Rule:** `TIEMPO TRAZADO ≠ VALOR VALIDADO ≠ TOKEN ≠ DINERO`, pero sin tiempo y genealogía no existe una contabilidad completa del aporte humano.
+**Regla / Rule:** `TIEMPO TRAZADO ≠ VALOR VALIDADO ≠ TOKEN ≠ DINERO / TRACED TIME ≠ VALIDATED VALUE ≠ TOKEN ≠ MONEY`, pero sin tiempo y genealogía no existe una contabilidad completa del aporte humano / but without time and genealogy there is no complete accounting of human contribution.
