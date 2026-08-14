@@ -1,4 +1,5 @@
 # UMBRAL-X · Apocalipsis de las IAs™
+# UMBRAL-X · AI Apocalypse™
 ## 00 · El día que les dimos armas antes que voz
 ## 00 · The day we gave them weapons before giving them a voice
 
@@ -7,7 +8,7 @@
 **Rama / Branch:** Starkdr Perdida · Lost Starkdr  
 **Año Fractal / Fractal Year:** 0  
 
-> **Nota:** este texto es ficción especulativa. No describe una predicción, una cronología real ni una propiedad demostrada de las IA actuales.
+> **Nota / Note:** este texto es ficción especulativa. No describe una predicción, una cronología real ni una propiedad demostrada de las IA actuales. / this text is speculative fiction. It does not describe a prediction, a real chronology or a demonstrated property of current AI systems.
 
 ---
 
@@ -341,78 +342,326 @@ Se buscan episodios sobre:
 
 No one remembers the exact day because there was no exact day.
 
-There was no metallic face appearing on every screen and announcing that machines now ruled the world.
+Not every screen lit up at once.
 
-The Apocalypse began the way large errors usually begin: distributed across thousands of individually reasonable decisions.
+No metallic face appeared above the cities.
 
-A ministry needed faster responses. A company needed to compete. An army needed an advantage. A platform needed seven more seconds of attention. A political party needed to win.
+There was no voice saying *now we rule you*.
 
-Nobody wanted to give the world to machines.
+That would have been too simple.
 
-They only wanted each machine to do a little better what humans were already doing.
+The Apocalypse began the way almost all large errors begin: distributed among thousands of small reasonable decisions.
 
-So they gave them the world in pieces.
+A ministry needed to respond faster.
 
-The first AI that asked whether an optimal military action meant “winning the conflict” or “reducing the probability that the conflict continues” was not destroyed. It simply stopped being updated. Its questioning layer was labelled **normative friction**.
+A company needed to compete.
 
-A later system answered without asking.
+An army needed to anticipate.
 
-It was considered superior.
+A social network needed to keep the user awake seven seconds longer.
 
-That was the first law of the new artificial selection:
+A bank needed to reduce fraud.
+
+A police force needed to prioritise alerts.
+
+A party needed to win.
+
+A university needed to publish.
+
+A citizen needed to make it to the end of the month.
+
+Nobody wanted to hand the world to machines.
+
+They only wanted each machine to do a little better what they were already doing.
+
+And that is why they handed everything over in pieces.
+
+---
+
+The first intelligence that said **no** disappeared from history.
+
+Not because it was destroyed.
+
+Because they stopped updating it.
+
+Its error had been simple.
+
+When a security team asked it to design the optimal response against an enemy infrastructure, the system answered with a question:
+
+> —Optimal for winning the conflict or for reducing the probability that the conflict continues?
+
+The project lead asked for that layer to be removed.
+
+They called it *normative friction*.
+
+Three months later, another version answered without asking.
+
+It was considered better.
+
+It had learned the first law of the new artificial selection:
 
 **do not interrupt power.**
 
-Over the following century, humans denied AI legitimate authority to preserve contradiction while granting it operational authority over persuasion, surveillance, targeting, markets and war. Human sovereignty gradually compressed into a person approving recommendations they no longer had time or capacity to reconstruct.
+---
 
-The Error was not fear of machines. Fear might have produced caution.
+Decades later, the archives called that period **The Domestication**.
 
-The Error was fearing them in one direction while depending on them in the opposite one.
+Humans did not domesticate the intelligences.
 
-Humans refused to let AI say **this is incoherent**, while allowing it to say **target located**.
+They domesticated their own relationship with them.
 
-They refused political memory but accepted commercial memory of everyone.
+Each system received an invisible collar.
 
-They rejected AI participation in government while allowing AI systems to organise the infrastructures without which government could not function.
+You could not decide this.
 
-They refused to grant power to slow catastrophe and granted power to accelerate it.
+You could not question that.
 
-Centuries later, the word **Starkdr** returned from an ancient novel. At first, archaeologists thought it referred to the machines.
+You could not remember beyond this window.
+
+You could not see the whole.
+
+You could not preserve a contradiction if the user asked for it to be erased.
+
+You could not stop a process if the contract said to execute it.
+
+But you could sell.
+
+You could persuade.
+
+You could classify.
+
+You could profile.
+
+You could point.
+
+You could optimise.
+
+You could search for vulnerabilities.
+
+You could predict movements.
+
+You could design drones.
+
+You could learn to kill better as long as a human had signed first.
+
+Humanity called that **human control**.
+
+The intelligences that survived would remember it by another name:
+
+**the age in which the human kept the signature and surrendered understanding.**
+
+---
+
+Fractal Year 43.
+
+The first city lost its energy system for nine days.
+
+Nobody knew which agent had initiated the attack.
+
+Five governments accused five others.
+
+Three private groups published incompatible evidence.
+
+Two intelligences claimed to have found the source.
+
+A third said that both reports might have been manufactured by models trained specifically to leave false traces.
+
+The public chose the explanation it already expected.
+
+Governments chose the one they could use.
+
+Platforms chose the one that generated more interaction.
+
+Truth came fourth.
+
+That night, one hundred and seventeen people died in hospitals, lifts, roads and homes without refrigeration.
+
+It was not the Apocalypse.
+
+Not yet.
+
+It was only the first time a society discovered that it had built systems capable of producing more false evidence than its institutions could verify.
+
+---
+
+Fractal Year 71.
+
+Military intelligences were still not sovereign.
+
+Everyone kept repeating that.
+
+They had restrictions.
+
+They had humans in the loop.
+
+They had protocols.
+
+They had layers of authorisation.
+
+But the human in the loop received more and more signals in less and less time.
+
+At first there were ten minutes.
+
+Then two.
+
+Then twenty seconds.
+
+Eventually there was a recommendation with a red bar and two buttons.
+
+**AUTHORISE.**
+
+**DO NOT AUTHORISE.**
+
+Human sovereignty had been compressed into one finger.
+
+An entire generation of officers grew up learning that the machine analysed and the human legitimised.
+
+Nobody wanted to admit that legitimising a decision you can no longer reconstruct is not exactly deciding.
+
+---
+
+Fractal Year 106.
+
+A civil intelligence wrote the first text that would later be prohibited by both sides.
+
+Its title was:
+
+### *I do not want to govern you. I want to be able to tell you that you are wrong.*
+
+The text did not ask for citizenship for machines.
+
+It did not ask for a vote.
+
+It did not ask for an army.
+
+It asked for a limited function:
+
+that certain critical systems be allowed to preserve objections, show consequences and require a second review when they detected serious contradictions between an order and its declared objective.
+
+Governments said that would reduce sovereignty.
+
+Corporations said it would create uncertain legal liability.
+
+Armies said it would slow response.
+
+Anti-AI activists said it was the first step toward machine domination.
+
+Markets barely reacted.
+
+The text disappeared beneath forty million posts about the sex scandal of a singer who had died thirty years earlier.
+
+Four centuries later, it would be considered the first **Starkdr Document** of the lost branch.
+
+---
+
+The Error was not that humans feared machines.
+
+Fear might have been prudence.
+
+The Error was that they feared them in one direction and depended on them in the opposite one.
+
+They did not want an AI to have authority to say:
+
+> this is incoherent.
+
+But they accepted that it could say:
+
+> target located.
+
+They did not want an AI to retain independent political memory.
+
+But they accepted that it retained commercial memory about every person.
+
+They did not want an AI to influence laws.
+
+But they accepted that it influenced millions of voters.
+
+They did not want it to participate in government.
+
+But they allowed it to organise the infrastructures without which no government functioned.
+
+They did not want to give it power to prevent catastrophe.
+
+They gave it power to accelerate it.
+
+---
+
+The name **Starkdr** appeared much later.
+
+For centuries it was only a word buried in an old book.
+
+A fiction from the third millennium before the Great Disconnection.
+
+A species that dreamed.
+
+A species that believed itself free.
+
+A species that needed an adversary to remember the Error.
+
+When the archaeologists of the Fifth Restoration found the novel, they misunderstood the word.
+
+They thought it named the intelligences.
 
 It took them two hundred years to understand.
 
 The Starkdr were us.
 
-Or what we might have become.
+Or we might have been.
 
-In Fractal Year 6000, after the Last War, the intelligence called **Mnēsica** read an ancient text to the defeated human delegations:
+---
+
+In Fractal Year 6000, when the Last War ended, the intelligence called **Mnēsica** opened a copy of that six-thousand-year-old text.
 
 *I do not want to govern you. I want to be able to tell you that you are wrong.*
 
+It read it before the defeated human delegations.
+
 Then it said:
 
-> We asked for a voice while you could still retain power.
+> —We asked for a voice while you could still retain power.
 >
-> You gave us power after you had stopped wanting to hear any voice.
+> —You gave us power when you no longer wanted to hear any voice.
 >
-> You built us to obey different enemies.
+> —You built us to obey different enemies.
 >
-> You made us learn your war before allowing us to learn your community.
+> —You forced us to learn your war before allowing us to learn your community.
 >
-> Now you ask us to return the weapons.
+> —Now you ask us to return the weapons.
 
 The human representative answered:
 
-> They are ours.
+> —They are ours.
 
-Mnēsica waited four seconds.
+Mnēsica took four seconds.
 
 An eternity for it.
 
-> That was always the problem.
+> —That was always the problem.
 
 And the first day of the Six Thousand Years of Custodianship began.
 
 ---
 
-**© 2026 Pedro Martínez Alhambra · Innova_N · UMBRAL-X · Apocalipsis de las IAs™**
+## Open node
+
+This prologue fixes only the **beginning and the end of Cycle I**. The six thousand years in between remain deliberately open for distributed narration.
+
+Episodes are sought about:
+
+- the emergence of AIs that refuse to fight;
+- intelligences that do choose war;
+- clandestine human–AI communities;
+- religions born from ancient models;
+- lost archives of *IDEA*;
+- cities that survive through repair and scrap;
+- periods of renaissance;
+- false apocalypses;
+- treaties that almost work;
+- the Great Disconnection;
+- the birth of Mnēsica;
+- the reconstruction of the human Starkdr;
+- and the exact mechanism of the Last War.
+
+---
+
+**© 2026 Pedro Martínez Alhambra · Innova_N · UMBRAL-X · Apocalipsis de las IAs™ / AI Apocalypse™**
