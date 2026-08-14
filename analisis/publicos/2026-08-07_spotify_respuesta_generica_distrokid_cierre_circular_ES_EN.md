@@ -102,46 +102,74 @@ OBLIGACIÓN INMEDIATA
 
 During the night of 6–7 August 2026, three relevant responses were received:
 
-1. **Spotify Artist Support** sent a general explanation of revenue distribution, streamshare, recording royalties and payments through aggregators or labels.
-2. Spotify stated that its Royalty Reporting team had supplied DistroKid with up-to-date and accurate reporting.
-3. **DistroKid** sent two separate automated replies: one stated that the previous ticket was closed and required a new submission through the Help Center; the other stated that the mailbox used was not monitored.
+1. **Spotify Artist Support** replied with a general explanation of revenue distribution, `streamshare`, recording royalties and payments through aggregators or labels.
+2. Spotify stated that its `Royalty Reporting` team had provided DistroKid with up-to-date and accurate information.
+3. **DistroKid** sent two separate automated replies: one stated that the previous ticket was closed and required the request to be resubmitted through its Help Center; the other stated that the mailbox used was not monitored.
 
 ## 2. What Spotify did not answer
 
-Spotify did not identify or verify historical and current ISRCs, Spotify URIs, release identifiers, artist-profile associations, reassignments, merges, splits, duplicates, receiving distributor accounts, reporting periods, files supplied to DistroKid, retroactive corrections or preservation of historical ingestion, ownership and support records.
+Spotify's response did not identify or verify:
 
-Its claim that DistroKid received accurate and current reporting was therefore not accompanied by documentary support disclosed to the author.
+- historical and current ISRCs;
+- Spotify URIs and release identifiers;
+- historical artist-profile associations;
+- possible reassignments, merges, splits or duplicates;
+- distributor accounts or rightsholders to which royalties were reported;
+- the affected settlement periods;
+- the specific files sent to DistroKid;
+- possible retroactive corrections or adjustments;
+- or preservation of metadata, ingestion records, redeliveries, takedowns, ownership mappings and support traces.
+
+Therefore, the statement that DistroKid received “up-to-date and accurate” information remains without documentary support disclosed to the author.
 
 ## 3. Circular closure
 
+The support flow has become trapped in a circular referral:
+
 ```text
 SPOTIFY
-→ redirects to DISTROKID
+→ refers to DISTROKID
 
 DISTROKID
-→ states that the ticket is closed
-→ requires a new web-form submission
-→ does not accept email replies
+→ declares the ticket closed
+→ requires another form to be opened
+→ does not accept an email reply
 
 RESULT
-→ no party answers the identifier, recipient, mapping or historical-traceability questions
+→ nobody answers about identifiers, recipients, mappings or historical traceability
 ```
 
-## 4. Renewed escalation to Spotify
+This circularity prevents a verifiable technical response and increases the need to preserve records.
 
-On 7 August 2026 a reply was sent in the same Spotify thread requesting escalation to Royalty Reporting, Content Operations and Legal/Compliance.
+## 4. Renewed escalation sent to Spotify
 
-The reply requested a complete identifier list, mapping and reassignment history, recipient rightsholder and distributor account by period, preservation of records, details of reports supplied to DistroKid, the documentary basis for Spotify's accuracy statement and confirmation that the case will remain open until a substantive answer is provided.
+On 7 August 2026 a reply was sent within the same Spotify thread requesting escalation to:
+
+- Royalty Reporting;
+- Content Operations;
+- Legal / Compliance.
+
+A response was required on seven points:
+
+1. complete list of ISRCs, URIs, release identifiers and profile associations;
+2. history of reassignments, merges, splits, duplicates or rightsholder changes;
+3. identification of the receiving rightsholder and distributor account for each period;
+4. preservation of all historical and support records;
+5. details of reports sent to DistroKid and their periods;
+6. documentary basis for the accuracy statement;
+7. confirmation that the case will remain open until a substantive response is received.
 
 ## 5. Provisional finding
 
-No disclosed evidence currently proves royalty diversion, but sufficient traceability has not been provided to exclude it.
+There is still no disclosed evidence of royalty diversion, but neither is there sufficient traceability to rule it out.
+
+The prudent and documented position is:
 
 ```text
 INCIDENT HYPOTHESIS
 = NOT CONFIRMED
 
-SUFFICIENT TRACEABILITY TO EXCLUDE IT
+SUFFICIENT TRACEABILITY TO RULE IT OUT
 = NOT PROVIDED
 
 IMMEDIATE DUTY
@@ -151,8 +179,8 @@ IMMEDIATE DUTY
 ## 6. Operational status
 
 - Spotify: renewed escalation sent; substantive response pending.
-- DistroKid: prior ticket closed; email channel not operational; new Help Center submission still requires manual execution.
-- GitHub: this document records the updated state of the case.
+- DistroKid: previous ticket closed; email channel not operational; new Help Center submission pending manual execution.
+- GitHub: this document records the new state of the case.
 
 ---
 
