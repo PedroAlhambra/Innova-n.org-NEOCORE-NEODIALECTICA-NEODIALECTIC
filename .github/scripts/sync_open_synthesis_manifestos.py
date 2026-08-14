@@ -12,8 +12,9 @@ audits = root / 'auditorias/publicas/README.md'
 leonidas = root / 'propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md'
 entry_register = root / 'propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md'
 follow = root / 'proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md'
+complete_synth_index = root / 'propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md'
 
-for p in (index, protocol, synth_index, audits, leonidas, entry_register, follow):
+for p in (index, protocol, synth_index, complete_synth_index, audits, leonidas, entry_register, follow):
     if not p.exists():
         raise SystemExit(f'Missing canonical target: {p.relative_to(root)}')
 
@@ -45,7 +46,6 @@ CURRENT_START='<!-- MANIFESTOS_CURRENT_START -->'; CURRENT_END='<!-- MANIFESTOS_
 NETWORK_START='<!-- NEO_ALL_MANIFESTOS_START -->'; NETWORK_END='<!-- NEO_ALL_MANIFESTOS_END -->'
 INVITE_START='<!-- NEO_OPEN_SYNTHESIS_INVITATION_START -->'; INVITE_END='<!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->'
 NAV_START='<!-- NEO_MANIFESTO_NAV_START -->'; NAV_END='<!-- NEO_MANIFESTO_NAV_END -->'
-ENTRY_ROUTE_START='<!-- NEO_ENTRY_REGISTER_ROUTE_START -->'; ENTRY_ROUTE_END='<!-- NEO_ENTRY_REGISTER_ROUTE_END -->'
 
 def rel(frm,target):
     return os.path.relpath(target,start=frm.parent).replace(os.sep,'/')
@@ -100,18 +100,6 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 {INVITE_END}'''
 
-def entry_route_block(f):
-    form='https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/new?template=registro_entrada_derivacion.yml'
-    return f'''{ENTRY_ROUTE_START}
-
-### 1. Registrar entrada / Register entry
-
-La lectura pública no exige identificación. Si quieres dejar una relación trazable de lectura, investigación, crítica, implementación, contacto institucional o derivación, utiliza el **Registro de Entrada Trazable™**. / Public reading does not require identification. If you want a traceable relationship for reading, research, criticism, implementation, institutional contact or derivation, use the **Traceable Entry Register™**.
-
-[Protocolo / Protocol]({rel(f,entry_register)}) · [Abrir registro / Open register]({form}) · [Seguir el marco / Follow the framework]({rel(f,follow)})
-
-{ENTRY_ROUTE_END}'''
-
 def nav_block(i,f):
     prev=links[i-1] if i else None
     nxt=links[i+1] if i+1<len(links) else None
@@ -134,7 +122,9 @@ def current_latest_quote(f):
 >
 > **[Leer {roman} / Read {roman}]({rel(f,LATEST)}) · [Síntesis Abierta {roman} · #{issue_num} / Open Synthesis {roman} · #{issue_num}]({issue_url})**'''
 
-readmes=sorted(set(root.rglob('README.md'))|set(root.rglob('README_*.md'))|{root/'LEEME.md'})
+# README.md is the canonical entry surface. Legacy LEEME/PORTADA-style duplicates
+# are intentionally excluded from living synchronisation.
+readmes=sorted(set(root.rglob('README.md'))|set(root.rglob('README_*.md')))
 readmes=[p for p in readmes if p.exists() and '.git' not in p.parts]
 changed=[]
 for f in readmes:
@@ -157,19 +147,9 @@ for f in readmes:
 '''
         s=re.sub(r'## 🔴 Actualidad / Latest\n.*?(?=\n### Umbral-X™)',root_latest+'\n',s,count=1,flags=re.S)
 
-    if f.resolve()==synth_index.resolve():
-        s=re.sub(r'## (?:Tres|Cuatro) puertas públicas de participación / (?:Three|Four) public participation routes','## Cuatro puertas públicas de participación / Four public participation routes',s)
-        s=re.sub(r'### \d+\. Contrastar un manifiesto / Challenge a manifesto','### 2. Contrastar un manifiesto / Challenge a manifesto',s)
-        s=re.sub(r'### \d+\. Traer un problema o Auditoría Pública / Bring a problem or Public Audit','### 3. Traer un problema o Auditoría Pública / Bring a problem or Public Audit',s)
-        s=re.sub(r'### \d+\. Crear ficción abierta / Create open fiction','### 4. Crear ficción abierta / Create open fiction',s)
-        block=entry_route_block(f)
-        if ENTRY_ROUTE_START in s and ENTRY_ROUTE_END in s:
-            s=replace_block(s,ENTRY_ROUTE_START,ENTRY_ROUTE_END,block)
-        else:
-            heading='## Cuatro puertas públicas de participación / Four public participation routes'
-            s=s.replace(heading,heading+'\n\n'+block,1)
-        s=re.sub(r'\*\*Cobertura en este commit / Coverage at this commit:\*\* \*\*\d+ manifiestos · I–[IVXLCDM]+ / \d+ manifestos · I–[IVXLCDM]+\*\*',f'**Cobertura en este commit / Coverage at this commit:** **{count} manifiestos · I–{roman} / {count} manifestos · I–{roman}**',s)
-        s=re.sub(r'> ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS\n>.*?(?=\n> El número de manifiestos)',current_latest_quote(f)+'\n',s,count=1,flags=re.S)
+    # propuestas/sintesis-abierta/README.md is a stable operational guide.
+    # Dynamic manifesto counts and full inventories live in the canonical indexes,
+    # so this synchroniser must not inject a second numerical state source here.
 
     if f.resolve()==index.resolve():
         s=re.sub(r'> ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS\n>.*?(?=\n\*\*Estado en este commit)',current_latest_quote(f)+'\n',s,count=1,flags=re.S)
@@ -199,7 +179,8 @@ for i,(_,_,f) in enumerate(links):
         f.write_text(s,encoding='utf-8'); changed.append(f)
 
 fail=[]
-for p in (root/'README.md', index, synth_index):
+# Dynamic count is required only on true living inventory surfaces.
+for p in (root/'README.md', index):
     s=p.read_text(encoding='utf-8')
     if f'I–{roman}' not in s or str(count) not in s:
         fail.append(f'{p.relative_to(root)} stale count')
@@ -207,8 +188,14 @@ if LATEST.name not in (root/'README.md').read_text(encoding='utf-8'):
     fail.append('README.md stale latest manifesto')
 if 'REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md' not in (root/'README.md').read_text(encoding='utf-8'):
     fail.append('README.md missing entry register')
-if ENTRY_ROUTE_START not in synth_index.read_text(encoding='utf-8'):
-    fail.append('Open Synthesis index missing entry-register route')
+
+synth_text=synth_index.read_text(encoding='utf-8')
+if 'INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md' not in synth_text:
+    fail.append('Open Synthesis README missing canonical complete index')
+if 'REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md' not in synth_text:
+    fail.append('Open Synthesis README missing entry-register route')
+if '# ES · Castellano' not in synth_text or '# EN · English' not in synth_text:
+    fail.append('Open Synthesis README missing bilingual split')
 
 print(f'CANONICAL_MANIFESTOS={count}')
 print(f'LATEST={roman} ISSUE=#{issue_num}')
@@ -216,4 +203,4 @@ print(f'WAVES={waves}')
 print('FILES_CHANGED=',len(set(changed)))
 if fail:
     print('POSTCHECK FAIL'); print('\n'.join(fail)); sys.exit(1)
-print('POSTCHECK OK: dynamic Open Synthesis network retained')
+print('POSTCHECK OK: dynamic Open Synthesis network retained without duplicating state in operational README')
