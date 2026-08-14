@@ -1,0 +1,39 @@
+name: oneshot-symmetry-projection-protocol
+
+on:
+  push:
+    paths:
+      - '.github/workflows/oneshot-symmetry-projection-protocol.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  symmetry:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Restore EN priority list in section 11
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md')
+          s=p.read_text(encoding='utf-8')
+          old='''The repository homepage should not be the default destination when a more precise piece exists. Priority goes to the directly related manifesto, concrete analysis or audit, corresponding Open Synthesis when debate is the main objective, and only then the general index when the whole framework is genuinely the object.'''
+          new='''The repository homepage should not be the default destination when a more precise piece exists. Priority is given to:\n\n1. the directly related manifesto;\n2. the concrete analysis or audit when the comment refers to a case;\n3. the corresponding Open Synthesis when the main objective is to provoke debate;\n4. the general index only when the object is genuinely the framework as a whole.'''
+          if old not in s:
+              raise SystemExit('Projection protocol target not found')
+          p.write_text(s.replace(old,new,1),encoding='utf-8')
+          PY
+          python .github/scripts/audit_global_bilingual_symmetry.py
+      - name: Commit and remove one-shot
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git rm .github/workflows/oneshot-symmetry-projection-protocol.yml
+          git add -A
+          git commit -m 'docs: restaurar simetria del protocolo de proyeccion'
+          git pull --rebase origin main
+          git push origin main
