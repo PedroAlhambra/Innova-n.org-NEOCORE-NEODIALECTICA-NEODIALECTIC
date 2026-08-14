@@ -1,8 +1,8 @@
 # Auditoría global final · README, enlaces, XLIII y trazabilidad KDP 51071689
-## Final global audit · README, links, XLIII and KDP 51071689 traceability
+# Final global audit · README, links, XLIII and KDP 51071689 traceability
 
 **Fecha / Date:** 2026-08-08  
-**Estado / Status:** **OK · sin flecos internos detectados por esta auditoría**
+**Estado / Status:** **OK · sin flecos internos detectados por esta auditoría / OK · no internal loose ends detected by this audit**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -67,7 +67,7 @@ Ninguno.
 
 Ninguno.
 
-- Auditoría final indexada en `auditorias/publicas/README.md`: **sí**. / Final audit indexed in `auditorias/publicas/README.md`: **yes**.
+- Auditoría final indexada en `auditorias/publicas/README.md`: **sí**.
 
 ## Límite de la comprobación
 
@@ -82,19 +82,63 @@ Se han validado contra el árbol real del repositorio todas las rutas Markdown r
 - Markdown files reviewed: **148**.
 - README.md files reviewed: **12**.
 - Relative internal Markdown links checked: **2622**.
-- Extensionless Wiki links correctly resolved against versioned `.md` sources: **13**.
+- Extensionless Wiki links correctly resolved against their versioned `.md` source: **13**.
 - Genuine broken internal links: **0**.
 - Stale canonical markers in live hubs: **0**.
 - Collection hubs missing XLIII/current state: **0**.
 - KDP hubs missing the current traceability block: **0**.
-- README files lacking ES–EN bilingual structure: **0**.
+- README files lacking ES–EN bilingual selector/structure: **0**.
 - Markdown files with unbalanced code fences: **0**.
+- Collection hubs modified during this pass: **5**.
 
-The current KDP chain preserves the earlier operational correction while recording the later unpublished-changes state, KDP's confirmation that current availability is unaffected when that state is left untouched, and the still-unexplained technical cause.
+## KDP · current traceable chain
 
-The public manifesto collection is synchronised as **43 bilingual manifestos · I–XLIII · ten waves**.
+```text
+MASTER AUDIT
+→ OPERATIONAL MILESTONE 06-08
+→ PREMATURE HUMAN CLOSURE
+→ REOPENING 07-08
+→ KDP RESPONSE 08-08
+→ CURRENT AVAILABILITY UNAFFECTED
+→ TECHNICAL CAUSE STILL UNEXPLAINED
+→ FOLLOW-UP REQUESTED
+```
 
-Repository-local relative links have been checked against the actual tree. Permanent availability of third-party external URLs and full renderer-level validation of every Unicode-generated heading anchor are outside this check.
+The audit preserves as fact the earlier operational correction of languages/associations and, as a later fact, KDP's response that the “unpublished changes” state can be left untouched without affecting current availability. It does not elevate any causal hypothesis to fact.
+
+## XLIII status
+
+The current collection is synchronised as **43 bilingual manifestos · I–XLIII · ten waves**. The reviewed collection hubs link XLIII and no longer preserve a tenth wave frozen at XLII.
+
+## Broken links
+
+None.
+
+## Stale markers
+
+None.
+
+## Incomplete collection hubs
+
+None.
+
+## Incomplete KDP hubs
+
+None.
+
+## Bilingual README files
+
+None missing the required structure.
+
+## Markdown fences
+
+None unbalanced.
+
+- Final audit indexed in `auditorias/publicas/README.md`: **yes**.
+
+## Limit of the check
+
+All detected relative Markdown routes were validated against the actual repository tree. Permanent availability of third-party external URLs is not guaranteed by this audit, and GitHub's automatically generated anchors from Unicode headings are not subjected here to a complete renderer simulation.
 
 ---
 
@@ -104,7 +148,7 @@ Repository-local relative links have been checked against the actual tree. Perma
 - [Reapertura / Reopening · 2026-08-07](./2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md)
 - [Respuesta KDP / KDP response · 2026-08-08](./2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md)
 - [XLIII](../../manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
-- [Síntesis Abierta XLIII · Issue #51](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/51)
+- [Síntesis Abierta XLIII · Issue #51 / Open Synthesis XLIII · Issue #51](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/51)
 - [Repositorio / Repository](../../README.md)
 
 ---
