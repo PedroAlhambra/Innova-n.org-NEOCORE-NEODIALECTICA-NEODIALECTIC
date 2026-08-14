@@ -114,10 +114,7 @@
   - 11: párrafos ES=1 EN=3
 - `auditorias/publicas/2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md` · ES=888 · EN=832 · ratio=0.94
   - 8: párrafos ES=1 EN=2
-- `auditorias/publicas/2026-08-08_addendum_kdp_estrategia_keywords_ediciones_multilingues_51071689_ES_EN.md` · ES=385 · EN=325 · ratio=0.84
-  - 1: lists ES=6 EN=0
-  - 3: code ES=1 EN=0
-  - 4: párrafos ES=2 EN=1
+- `auditorias/publicas/2026-08-08_addendum_kdp_estrategia_keywords_ediciones_multilingues_51071689_ES_EN.md` · ES=385 · EN=367 · ratio=0.95
   - 6: párrafos ES=1 EN=2
 - `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · ES=903 · EN=849 · ratio=0.94
   - 10: párrafos ES=1 EN=3
@@ -485,7 +482,7 @@
 | `auditorias/publicas/2026-08-07_postcheck_global_superficies_y_simetria_I_XXXVI_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-07_postcheck_paridad_bilingue_enlaces_I_XXXVI_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-07_postcheck_sintesis_abierta_bilingue_y_cobertura_ES_EN.md` | **OK** |  |
-| `auditorias/publicas/2026-08-08_addendum_kdp_estrategia_keywords_ediciones_multilingues_51071689_ES_EN.md` | **REVISAR** | 1: lists ES=6 EN=0; 3: code ES=1 EN=0; 4: párrafos ES=2 EN=1; 6: párrafos ES=1 EN=2 |
+| `auditorias/publicas/2026-08-08_addendum_kdp_estrategia_keywords_ediciones_multilingues_51071689_ES_EN.md` | **REVISAR** | 6: párrafos ES=1 EN=2 |
 | `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` | **REVISAR** | 10: párrafos ES=1 EN=3 |
 | `auditorias/publicas/2026-08-08_auditoria_externa_streaming_distribuidores_metadatos_regalias_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-08_auditoria_formato_manifiestos_XXXVIII_XLIII_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
