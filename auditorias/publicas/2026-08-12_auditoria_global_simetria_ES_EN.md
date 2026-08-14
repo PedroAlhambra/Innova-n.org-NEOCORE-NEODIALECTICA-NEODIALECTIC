@@ -177,9 +177,8 @@
 - `auditorias/publicas/2026-08-08_auditoria_readmes_enlaces_estado_XLII_ES_EN.md` · ES=120 · EN=58 · ratio=0.48
   - volumen EN/ES=0.48 (58/120)
   - esqueleto de encabezados distinto ES=[(3, ''), (3, ''), (3, '')] EN=[]
-- `auditorias/publicas/2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md` · ES=794 · EN=300 · ratio=0.38
-  - volumen EN/ES=0.38 (300/794)
-  - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9'), (2, '10')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6')]
+- `auditorias/publicas/2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md` · ES=794 · EN=774 · ratio=0.97
+  - 10: párrafos ES=1 EN=2
 - `auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md` · ES=171 · EN=87 · ratio=0.51
   - volumen EN/ES=0.51 (87/171)
   - esqueleto de encabezados distinto ES=[(3, ''), (3, '')] EN=[]
@@ -587,7 +586,7 @@
 | `auditorias/publicas/2026-08-08_barrida_enlaces_manifiestos_articulos_XLVIII_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `auditorias/publicas/2026-08-08_postcheck_XLIV_neowar_enlaces_readmes_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Postcheck XLIV · Neowar™ · enlaces y READMEs / XLIV postcheck · Neowar™ · links and READMEs |
 | `auditorias/publicas/2026-08-08_postcheck_XLV_multidimensionalidad_enlaces_readmes_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Postcheck XLV · Multidimensionalidad Neodialéctica™ · enlaces y READMEs / XLV postcheck · Neodialectical Multidimensionality™ · links and READMEs |
-| `auditorias/publicas/2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md` | **REVISAR** | volumen EN/ES=0.38 (300/794); esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9'), (2, '10')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6')] |
+| `auditorias/publicas/2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md` | **REVISAR** | 10: párrafos ES=1 EN=2 |
 | `auditorias/publicas/2026-08-09_auditoria_paridad_ES_EN_manifiestos_articulos.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Auditoría de paridad ES/EN · manifiestos y artículos públicos |
 | `auditorias/publicas/2026-08-09_auditoria_paridad_bilingue_manifiestos_neoaxiomas_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Auditoría de paridad bilingüe no reductiva / Regla de conservación |
 | `auditorias/publicas/2026-08-09_auditoria_regresiones_historicas_manifiestos_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Auditoría histórica no reductiva de manifiestos |
