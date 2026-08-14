@@ -224,10 +224,10 @@ KDP replied confirming that the case would be closed.
 Later, without the author having modified those titles, multiple IDEA print editions simultaneously appeared in the KDP Bookshelf as:
 
 ```text
-Live · unpublished changes
+Live · Unpublished changes
 ```
 
-with an action equivalent to:
+and with the action:
 
 ```text
 Continue setup
@@ -235,14 +235,14 @@ Continue setup
 
 The author documented the situation with three screenshots and replied to the same thread requesting review before touching the titles.
 
-KDP was asked to clarify:
+KDP was expressly asked to clarify:
 
 - why unpublished changes appeared without author intervention;
-- whether the editions remained published and on sale;
-- whether “Continue setup” should be used or no action should be taken;
+- whether the editions remained effectively published and on sale;
+- whether “Continue setup” should be clicked or no action should be taken;
 - what concrete change was pending for each title;
-- which process generated those changes;
-- and whether this might be related to internal metadata and linking corrections made during case `51071689`.
+- which process had generated those changes;
+- and whether they could be related to internal metadata and linking corrections made during case `51071689`.
 
 The previous closure is therefore **documentarily corrected** and the file returns to open follow-up status.
 
@@ -264,6 +264,8 @@ This directly applies the framework's permanent-revision principle:
 > **traceability must preserve our own errors too, because hiding them would destroy the learning capacity the audit is intended to create.**
 
 ## 4. Current status
+
+As of this addendum:
 
 ```text
 PREVIOUSLY CORRECTED MULTILINGUAL ASSOCIATIONS
@@ -291,7 +293,13 @@ AUDIT STATUS
 
 ## 5. Hypotheses and prohibition on attributing intent without evidence
 
-The coordinated appearance of pending changes after internal support interventions allows several technical hypotheses, including delayed metadata propagation, KDP–Author Central synchronisation, revalidation after internal changes, processing queues or other internal operations not yet explained.
+The coordinated appearance of pending changes after internal support interventions allows several technical hypotheses, including:
+
+- delayed propagation of metadata changes;
+- synchronisation between KDP and Author Central;
+- regeneration or revalidation of configurations after internal changes;
+- processing queues or interface states appearing with delay;
+- other internal operations not yet explained.
 
 A further hypothesis raised during review is also recorded: **the behaviour might conceivably be part of some internal test, experiment or trial related to the changes or proposals**.
 
@@ -308,19 +316,34 @@ As of this document there is **insufficient evidence to state that Amazon is del
 
 ## 6. Applied traceability rule
 
+This episode reinforces an operational rule:
+
 ```text
 DO NOT CLOSE AN AUDIT
 FROM A SINGLE CORRECT-STATE SNAPSHOT
 WHEN METADATA CHANGES MAY STILL BE PROPAGATING
 ```
 
-Future similar cases should confirm the correction, preserve dated evidence, allow a sufficient stability window, recheck formats and markets, and only then declare operational closure while preserving the possibility of reopening on new evidence.
+For future similar incidents it is recommended to:
+
+1. confirm the correction;
+2. preserve the screenshot and date;
+3. wait for a sufficient stability window;
+4. recheck different formats and marketplaces;
+5. only then declare operational closure;
+6. always preserve the possibility of reopening when new evidence appears.
 
 ## 7. Relation to framework value
 
 The usefulness of the Neodialectica Framework™ does not consist in proving that its users never make mistakes.
 
-It consists in building an architecture in which an error can be recognised, the previous version remains visible, correction preserves genealogy, new evidence can reopen a conclusion, and the resulting learning becomes reusable.
+It consists in building an architecture in which:
+
+- the error can be recognised;
+- the previous version does not disappear;
+- the correction preserves genealogy;
+- new evidence can reopen a conclusion;
+- and the resulting learning becomes reusable.
 
 Case `51071689` therefore evolves from a simple “closed success case” into a more complete demonstration of **perpetual joint audit, traceability, revision and self-correction**.
 
