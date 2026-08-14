@@ -115,7 +115,14 @@ Main documents:
 
 **Issue:** [#71 · Documentary-system integrity](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/71)
 
-It groups technical audits and postchecks of repository links, READMEs, Wiki, manifesto formatting, manifesto ↔ applied-work correlations and automation regressions.
+It groups technical audits and postchecks of:
+
+- [link, README, manifesto and Wiki integrity](./2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md);
+- [global README, link and traceability audit](./2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md);
+- [README, link and XLII status](./2026-08-08_auditoria_readmes_enlaces_estado_XLII_ES_EN.md);
+- [manifesto XXXVIII–XLIII formatting](./2026-08-08_auditoria_formato_manifiestos_XXXVIII_XLIII_ES_EN.md);
+- [manifestos ↔ applied-work correlation](./2026-08-08_auditoria_integral_correlacion_manifiestos_trabajo_aplicado_ES_EN.md);
+- [one-shots, GitHub Actions, races/no-op and final state](./2026-08-08_auditoria_oneshots_github_actions_carreras_noop_y_estado_final_ES_EN.md).
 
 ### 4. Founder Audit™
 
