@@ -228,11 +228,11 @@ El commit conserva el cambio; el Issue conserva la contradicción; las fuentes c
 
 The framework needs an explicit way to look **backwards, sideways and against itself**.
 
-Whenever a historical, scientific, philosophical, institutional or technical idea resembles one component of Neodialectics™, the correct response is neither retrospective appropriation nor automatic defence of total priority. The correct response is to reconstruct genealogy and ask what the evidence actually establishes.
+Whenever a historical, scientific, philosophical, institutional or technical idea resembles a component of Neodialectics™, the correct response is neither to appropriate it nor automatically defend total priority. The correct response is to reconstruct its genealogy and ask what it actually demonstrates.
 
-**NeoGenealogy™** turns that operation into a method.
+**NeoGenealogy™** is opened to turn that operation into a method.
 
-Its function is not to protect the framework's ego. Its function is to increase precision.
+Its function is not to protect the framework's ego. It is to increase its precision.
 
 ```text
 FINDING AN ANTECEDENT
@@ -245,11 +245,23 @@ FINDING AN ANTECEDENT
 + UNDERSTANDING RECURRENCES
 ```
 
-## 2. Meaning of «proto-neodialectical»
+## 2. What «proto-neodialectical» means
 
-**PROTO-ND** denotes a **verifiable partial structural affinity that predates the public formulation of Neodialectics**.
+The **PROTO-ND** label designates a **verifiable partial structural affinity predating the public formulation of Neodialectics**.
 
-It does not mean that the historical actor was Neodialectical, used this vocabulary, knew the future framework, or belongs retrospectively to Innova_N.
+It does not mean that the historical author was Neodialectical, used this vocabulary, knew the future framework or that their work retrospectively belongs to Innova_N.
+
+It is a present classification of a present documentary relationship.
+
+```text
+PROTO-NEODIALECTICAL
+= PRIOR PARTIAL AFFINITY
+
+PROTO-NEODIALECTICAL
+≠ RETROACTIVE NEODIALECTICAL AUTHOR
+≠ DERIVATION
+≠ APPROPRIATION OF AUTHORSHIP
+```
 
 ## 3. Genealogical integrity rules
 
@@ -263,27 +275,71 @@ NOVELTY OF A PART ≠ NOVELTY OF THE SYSTEM
 NOVELTY OF THE SYSTEM ≠ NOVELTY OF EVERY PART
 ```
 
-Claims of influence, appropriation or derivation require additional documentary chains.
+Every claim of influence, appropriation or derivation requires an additional documentary chain. Mere similarity is not enough.
 
 ## 4. Initial classes
 
-- **PROTO-ND** · proto-neodialectical antecedent.
-- **CONV-ND** · independent convergence.
-- **DER-ND** · demonstrable derivation or influence.
-- **CTR-ND** · genealogical counterexample.
-- **FALSE-PAIR** · insufficient or merely superficial similarity.
+### PROTO-ND · Proto-neodialectical antecedent
+
+A pattern predating the public formulation of Neodialectics with verifiable functional affinity to part of the framework.
+
+### CONV-ND · Independent convergence
+
+A similar pattern developed independently where there is insufficient evidence of derivation between the compared nodes.
+
+### DER-ND · Demonstrable derivation
+
+A relationship for which sufficient traceability exists of access, reading, citation, adaptation, implementation or transmission.
+
+### CTR-ND · Genealogical counterexample
+
+A historical or contemporary case that tensions, limits or refutes a formulation of the framework. It has the same right of entry as a favourable convergence.
+
+### FALSE-PAIR · Insufficient similarity
+
+A verbal, aesthetic or superficial coincidence that does not preserve sufficient function, scope, teleology or architecture to declare a material convergence.
 
 ## 5. Genealogical Contrast Matrix™
 
-Each case should preserve, where evidence permits: primary source, date, authorship, domain, detected problem, mechanism, teleology, participation, reversibility, traceability, outcome, ND relation and effect on the framework.
+Each case should attempt to preserve, where sufficient information exists:
 
-No single «percentage of Neodialectics» is proposed. A scalar score would hide the differences that the mechanism exists to preserve.
+| Field | Question |
+|---|---|
+| Primary source | Where can it be verified? |
+| Date | When does it appear traceably? |
+| Actor / authorship | Who formulated, executed or documented it? |
+| Domain | Biology, AI, philosophy, politics, engineering, culture...? |
+| Detected problem | What tension does it attempt to resolve? |
+| Mechanism | What did it actually do? |
+| Teleology | For what explicit purpose? |
+| Participation | Who could intervene and who was left out? |
+| Reversibility | Could it be stopped, reviewed or reversed? |
+| Traceability | Were reasons, decisions and changes preserved? |
+| Outcome | What happened afterwards? |
+| ND relation | PROTO-ND / CONV-ND / DER-ND / CTR-ND / FALSE-PAIR |
+| Effect on framework | partially confirms / limits / requires qualification / refutes / opens new delta |
+
+No «percentage of Neodialectics» is proposed. A single score would hide precisely the differences that need to be preserved.
 
 ## 6. Relational novelty test
 
-For each apparent match, ask whether the current element is a renaming, recombination, extension, generalisation, new implementation, new relational architecture, or an already-existing idea without sufficient material delta.
+NeoGenealogy™ requires every novelty claim to be decomposed.
 
-Prior art for individual components does not automatically settle the novelty of a larger architecture. Conversely, novelty of an architecture does not make all its components novel.
+When a match appears, ask whether the current element is:
+
+```text
+RENAMING
+RECOMBINATION
+EXTENSION
+GENERALISATION
+NEW IMPLEMENTATION
+NEW RELATIONAL ARCHITECTURE
+OR AN ALREADY-EXISTING IDEA WITHOUT SUFFICIENT MATERIAL DELTA
+```
+
+The value of an architecture may lie in a new relationship among known components. Therefore, demonstrating antecedents for some parts does not by itself demonstrate that the whole is earlier or later.
+
+Conversely, novelty of the whole does not allow all of its parts to be claimed as novel.
 
 ## 7. Operational flow
 
@@ -297,40 +353,85 @@ SIGNAL / CASE
 → PROVISIONAL CLASSIFICATION
 → EFFECT ON NOVELTY CLAIMS
 → DELTA
-→ OPEN SYNTHESIS™
+→ SAN™
 → COMMIT / TRACE
-→ REVISION WHEN NEW EVIDENCE APPEARS
+→ REVISION IF NEW EVIDENCE APPEARS
 ```
 
 ## 8. Relation to Umbral-X™
 
-Umbral-X™ does not exclude uncomfortable antecedents. It requires sufficient signal before a material relation is asserted. Strong contradictions enter synthesis even when they reduce the framework's own originality claims.
+Umbral-X™ is not used here to exclude uncomfortable antecedents. It is used to require sufficient signal before asserting a material relationship.
+
+A weak coincidence may remain a lead. A strong coincidence must return to sources. A strong contradiction must enter synthesis even when it reduces a claim of originality by the framework itself.
 
 ## 9. First case: Asilomar
 
-The first registered case is **PROTO-ND-001 · Asilomar 1974–1975**, extended with the recurrence **Asilomar AI 2017**.
+The first registered case is **PROTO-ND-001 · Asilomar 1974–1975**, expanded with the recurrence **Asilomar AI 2017**.
 
-It documents historical precedents for informed self-limitation, pausing under uncertainty and deliberation before scaling. It does not turn the participants into authors of the later framework.
+The verifiable historical pattern includes:
 
-[Read case](../../analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md)
+```text
+NEW TECHNICAL CAPABILITY
++ UNCERTAINTY ABOUT RISK
+→ VOLUNTARY POSTPONEMENT OF CERTAIN EXPERIMENTS
+→ DELIBERATION
+→ CONDITIONS FOR CONTINUATION
+→ LATER GUIDELINES / OVERSIGHT
+```
+
+The case does not prove Neodialectics or turn its protagonists into precursors of the complete framework. It does document that **informed self-limitation, pausing under uncertainty and deliberation before scaling** have clear historical antecedents.
+
+[Leer caso / Read case](../../analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md)
 
 ## 10. Competent Pause™ · open operational hypothesis
 
-Asilomar makes visible a useful proposition, opened for scrutiny **without yet elevating it to a Neoaxiom**:
+Asilomar makes visible a useful formulation opened to scrutiny, **without yet elevating it to a Neoaxiom**:
 
-> **Technical capability ≠ automatic licence to deploy.**
+> **Technical capability ≠ automatic permission to deploy.**
 
-When intervention capability grows faster than the available ability to understand, attribute, contain or repair consequences, there may be a proportional duty of **Competent Pause™** before scaling.
+When the ability to intervene grows faster than the available ability to **understand, attribute, contain or repair** its consequences, there may be a proportional duty of **Competent Pause™** before scaling.
 
 Technical competence gives particular capacity to detect the signal and responsibility to warn. **It does not by itself grant sovereignty over collective consequences.**
 
+The proposed flow is therefore:
+
+```text
+COMPETENT SIGNAL
+→ RISK THRESHOLD
+→ PROPORTIONAL AND REVISABLE PAUSE
+→ TECHNICAL SCRUTINY + AFFECTED PARTIES + EVIDENCE + GOVERNANCE
+→ TRACEABLE DECISION
+→ RESUME / MODIFY / LIMIT / STOP
+→ REVIEW
+```
+
+A pause is not necessarily a prohibition. It can be an operation of civilizational quality control.
+
 ## 11. Epistemic effect
 
-A well-established antecedent is an input to Open Synthesis, not an attack that must be resisted. NeoGenealogy™ asks what existed, when, at what scope, with what outcomes, and what the current framework must correct.
+NeoGenealogy™ changes how the framework should respond to antecedents.
+
+```text
+«THAT ALREADY EXISTED»
+IS NOT ANSWERED WITH AUTOMATIC DEFENCE
+
+IT IS ANSWERED WITH:
+WHAT EXISTED?
+SINCE WHEN?
+WITH WHAT SCOPE?
+WITH WHAT RESULTS?
+WHAT IS MISSING?
+WHAT IS EXCESSIVE IN OUR FORMULATION?
+WHAT MUST WE CORRECT?
+```
+
+A well-found antecedent is a contribution to SAN™.
 
 ## 12. Living framework, not mandatory snapshot
 
-Opening NeoGenealogy™ advances the living framework without requiring a snapshot for every delta. Commits preserve change; Issues preserve contradiction; sources preserve genealogy. Snapshots remain optional tools for specific technical or documentary needs, not substitutes for continuous canonical evolution.
+Opening NeoGenealogy™ **advances the living organism of the framework without requiring a snapshot for every delta**.
+
+The commit preserves the change; the Issue preserves the contradiction; sources preserve genealogy. Snapshots may be used when there is a specific technical or documentary need, but they do not replace the continuous evolution of the canonical branch.
 
 ---
 
