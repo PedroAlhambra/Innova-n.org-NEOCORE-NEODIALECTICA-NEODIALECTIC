@@ -206,7 +206,22 @@ International governance of human genome editing itself recognises gaps in scien
 
 ## 2. DNA is not an isolated line
 
-DNA operates inside networks of gene regulation, epigenetics, development, metabolism, microbiome, immunity, environment, reproduction, populations, ecosystems, evolutionary time and relations that remain only partially understood.
+DNA operates inside networks of:
+
+- gene regulation;
+- epigenetics;
+- development;
+- metabolism;
+- microbiome;
+- immunity;
+- environment;
+- reproduction;
+- populations;
+- ecosystems;
+- evolutionary time;
+- and relations that remain only partially understood.
+
+Therefore:
 
 ```text
 GENE
@@ -250,7 +265,23 @@ The scientifically defensible principle is broader:
 
 NeoPandora™ represents regenerative opening of possibility. But opening without custodianship may become an **Uncontrolled NeoPandora Effect™**: releasing a chain of consequences whose propagation exceeds the original point of intervention.
 
-In genetics and synthetic biology, this concern grows when replication, heredity, propagation, ecological interaction, low reversibility and systemic uncertainty combine.
+In genetics and synthetic biology, this concern grows when the following coincide:
+
+```text
+REPLICATION CAPACITY
++
+HERITABILITY
++
+PROPAGATION
++
+ECOLOGICAL INTERACTION
++
+LOW REVERSIBILITY
++
+SYSTEMIC UNCERTAINTY
+=
+RISK OF UNCONTROLLED NEO-PANDORA
+```
 
 This does not mean every genome edit will produce catastrophe. It means that self-replicating, heritable or ecologically propagating interventions can amplify error in ways fundamentally different from confined and reversible experiments.
 
@@ -276,7 +307,16 @@ Irreversibility must therefore be measured not only in hours or years, but poten
 
 > **Every genetic intervention should be evaluated not only by its intended molecular effect, but by its possible cellular, organismal, population, ecological, evolutionary and intergenerational consequences.**
 
-The greater the heredity, propagation capacity, difficulty of reversal, systemic uncertainty, possibility of transfer beyond containment and breadth of affected populations, the stronger the requirements for precaution, independent review, traceability, containment and stopping capacity.
+The greater the following factors become:
+
+- heritability;
+- propagation capacity;
+- difficulty of reversal;
+- systemic uncertainty;
+- possibility of transfer beyond the controlled environment;
+- and breadth of affected populations;
+
+the stronger the requirements for precaution, independent review, traceability, containment and the capacity to stop the intervention must become.
 
 ## 8. Vectorise with precaution, do not conquer
 
@@ -330,4 +370,11 @@ The working principle fixed here is:
 
 ## 11. Relation to the corpus
 
-This delta links LXI with XLV · Neodialectical Multidimensionality™, XLVIII · The Synthesis Sees Everything™ / Universal Petri Dish™, LVI · NO-CONTROL™, XVII · Respect for All Living Beings™, XIII · NeoPandora™ and NAX-10 · Elemental Totality™.
+This delta links LXI with:
+
+- **XLV · Neodialectical Multidimensionality™**: no dimension is equivalent to the system;
+- **XLVIII · The Synthesis Sees Everything™ / Universal Petri Dish™**: the observer remains inside the observed system;
+- **LVI · NO-CONTROL™**: power requires prior synthesis and custodianship;
+- **XVII · Respect for All Living Beings™**: life is not merely available material;
+- **XIII · NeoPandora™**: opening possibilities requires distinguishing regeneration from uncontrolled release;
+- **NAX-10 · Elemental Totality™**: no list of components exhausts reality.
