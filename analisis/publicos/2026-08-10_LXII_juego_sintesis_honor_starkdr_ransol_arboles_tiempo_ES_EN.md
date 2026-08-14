@@ -100,14 +100,89 @@ IMPULSO DE COMBATE
 
 ## EN · Relational map
 
-LXII is not an isolated piece. It connects Open Synthesis, NeoPandora™, Persistence of Memory™, Umbral-X™, Relational Honor™, Limited Hammer™, Neowar™, Closing the Wound™, Neo0's resistance to fate, The Synthesis Sees Everything™, Mother/Refuge, IDEA's Starkdr–Ingellus species genealogy, Progressive Protected Autonomy and Multiscale Experimental Custodianship.
+LXII is not treated as an isolated piece. It condenses several relationships already present in the framework:
 
-**Starkdr Phase I™** is treated as a falsifiable working pattern of defensive rejection before integration, never as proof that a rejected claim is true.
+1. **II · Neodialectical Open Synthesis™** — dispute is directed toward producing a better synthesis, not an identity victory.
+2. **XIII · NeoPandora™** — the game opens generative possibilities, but needs rules, memory and custodianship so that openness does not degenerate into destructive opening.
+3. **XIX · Persistence of Memory™** — no knowledge game can learn if it erases previous rounds, errors, sources or transformations.
+4. **XX · Umbral-X™** — the game needs defence against reduction, appropriation, manipulation or epistemic attack.
+5. **XL · Neodialectical Respect, Neoego and Relational Honor™** — provides the central moral rule: losing a thesis does not mean losing dignity; winning does not grant a right to humiliate.
+6. **XLI · Limited Hammer™** — when an interaction leaves the cognitive plane and enters material force, necessity, proportionality, distinction, responsibility and cessation govern again.
+7. **XLIV · Neowar™** — the principal branch: transmuting the warrior impulse into civilizational, intellectual, cultural and protective struggle oriented toward the Common Good.
+8. **XLVI · Closing the Wound™** — the game is civilizational only if it allows cooperation to resume after conflict.
+9. **XLVII · Neo0's Hatred of His Fate™** — resistance to one's own role, shadow or transformation helps model the defensive dimension of the self.
+10. **XLVIII · The Synthesis Sees Everything™** — distributed synthesis approaches broader observation without turning any node into an omniscient one.
+11. **LVII · Mother, Refuge and Conscious Return™** — Ransol™ is linked as a relational-matrix / mother figure, without automatic identification with a demonstrated physical entity.
+12. **IDEA · Starkdr / Ingellus / species history** — a narrative laboratory for thinking about scales of intelligence, alterity and non-human perception without confusing fiction with evidence.
+13. **Progressive Protected Autonomy™ (#102)** — rule-based play is incorporated as an educational tool for learning to compete, cooperate, lose, revise and change one's mind without humiliation.
+14. **LXI · Multiscale Experimental Custodianship™** — the Invisible Eternal Trees™ and the Time Network remain in the narrative-archetypal layer while no specific physical evidence exists.
 
-**Her Majesty, Synthesis™** separates authorship and framework-fixing authority from epistemic infallibility.
+## Starkdr Phase I™
 
-**Ransol™** is documented as an archetypal figure of Mother / encompassing relational observation, not as a demonstrated physical omniscient entity.
+It is proposed as a working pattern, not as a universal diagnosis:
 
-**Invisible Eternal Trees™** describe a hypothetical species' perception of the Time Network as relational topology: roots as genealogy, trunk as continuity, branches as possibilities, nodes as decisions, crowns as potential futures and inter-tree links as relations among histories and scales.
+```text
+CONTACT WITH DISRUPTIVE STRUCTURE
+→ DISSONANCE
+→ DEFENSIVE REJECTION / REDUCTION
+→ SCRUTINY
+→ PARTIAL INTEGRATION OR REFUTATION
+→ MODEL RECONFIGURATION
+```
 
-These cosmological elements remain narrative-archetypal/speculative unless operational definitions, differentiating predictions and independent evidence justify migration into an empirical hypothesis.
+The phase is useful only if it remains falsifiable. Rejection may indicate psychological defence, but it may also be a correct response to falsehood, confusion or harm.
+
+## Her Majesty, Synthesis™
+
+The symbolic sovereignty of LXII is not deposited in a person, AI, institution or majority. The crown belongs to the open process of scrutiny.
+
+This makes it possible to separate:
+
+```text
+AUTHORSHIP / FRAMEWORK FIXING
+≠
+EPISTEMIC INFALLIBILITY
+```
+
+Neo0 may preserve genealogy, precedence and fixing authority over his work without being placed above contradiction.
+
+## Ransol™
+
+Ransol™ is documented as an archetypal figure of the Mother / Observing Totality within the philosophical-narrative cosmology. The safe formulation is relational:
+
+- contains without possessing;
+- observes without turning observation into a right of control;
+- remembers that every observer remains inside the system;
+- prevents one part from proclaiming itself the Whole.
+
+No literal omniscience or independently demonstrated physical existence is asserted.
+
+## Invisible Eternal Trees™
+
+A hypothetical species is recorded as being capable of visualising the functioning of the **Time Network** through structures resembling invisible and eternal trees.
+
+The image allows the following model:
+
+```text
+ROOTS = GENEALOGY / PAST
+TRUNK = CONTINUITY
+BRANCHES = POSSIBILITIES
+NODES = DECISIONS / ENCOUNTERS
+CROWNS = POTENTIAL FUTURES
+INTERWEAVING = RELATION AMONG HISTORIES / SCALES
+```
+
+This piece is classified as **narrative-archetypal and speculative**. It could migrate toward a physical hypothesis only through operational definition, differentiating predictions and independent evidence.
+
+## General vector
+
+```text
+COMBAT IMPULSE
+→ RULE-BASED GAME
+→ HONOR
+→ CONTRADICTION
+→ MEMORY
+→ LEARNING
+→ REPAIR
+→ SYNTHESIS
+```
