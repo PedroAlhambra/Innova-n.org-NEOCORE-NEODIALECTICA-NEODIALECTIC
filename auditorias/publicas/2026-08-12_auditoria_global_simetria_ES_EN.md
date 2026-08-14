@@ -9,7 +9,7 @@
 
 - Markdown activo examinado / Active Markdown scanned: **286**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **206**.
-- Fallos estructurales divididos / Split structural failures: **118**.
+- Fallos estructurales divididos / Split structural failures: **117**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **24**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -158,30 +158,8 @@
   - XIV: párrafos ES=2 EN=4
 - `manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md` · ES=1396 · EN=1351 · ratio=0.97
   - XVI: párrafos ES=3 EN=5
-- `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` · ES=1539 · EN=1442 · ratio=0.94
-  - I: lists ES=8 EN=0
-  - I: párrafos ES=3 EN=2
-  - II: lists ES=8 EN=0
-  - III: lists ES=6 EN=0
-  - V: lists ES=6 EN=0
-  - VII: lists ES=10 EN=0
-  - VIII: lists ES=10 EN=0
-  - XI: lists ES=9 EN=0
-  - XIII: lists ES=16 EN=0
+- `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` · ES=1539 · EN=1472 · ratio=0.96
   - XIV: párrafos ES=3 EN=2
-- `manifiestos/61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md` · ES=1067 · EN=982 · ratio=0.92
-  - 1: párrafos ES=5 EN=4
-  - 3: lists ES=6 EN=0
-  - 4: quotes ES=1 EN=0
-  - 4: párrafos ES=4 EN=3
-  - 5: lists ES=8 EN=0
-  - 5: párrafos ES=4 EN=3
-  - 6: párrafos ES=6 EN=4
-  - 8: lists ES=7 EN=0
-  - 8: párrafos ES=5 EN=4
-  - 9: párrafos ES=3 EN=1
-  - 10: párrafos ES=4 EN=3
-  - 12: párrafos ES=11 EN=6
 - `manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md` · ES=1194 · EN=1221 · ratio=1.02
   - 14: párrafos ES=5 EN=4
 - `manifiestos/63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md` · ES=1120 · EN=1141 · ratio=1.02
@@ -306,7 +284,7 @@
   - Principio de Proyección por Pertinencia™: párrafos ES=4 EN=5
 - `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md` · ES=197 · EN=197 · ratio=1.00
   - 6: párrafos ES=2 EN=3
-- `web4/README.md` · ES=463 · EN=464 · ratio=1.00
+- `web4/README.md` · ES=468 · EN=469 · ratio=1.00
   - Bucle de producto objetivo: párrafos ES=2 EN=1
 - `wiki-source/Analisis_Neodialecticos_Publicos.md` · ES=163 · EN=165 · ratio=1.01
   - Cómo aportar: párrafos ES=2 EN=1
@@ -542,8 +520,8 @@
 | `manifiestos/57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md` | **OK** |  |
 | `manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md` | **OK** |  |
 | `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md` | **OK** |  |
-| `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` | **REVISAR** | I: lists ES=8 EN=0; I: párrafos ES=3 EN=2; II: lists ES=8 EN=0; III: lists ES=6 EN=0; V: lists ES=6 EN=0; VII: lists ES=10 EN=0; VIII: lists ES=10 EN=0; XI: lists ES=9 EN=0; XIII: lists ES=16 EN=0; XIV: párrafos ES=3 EN=2 |
-| `manifiestos/61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md` | **REVISAR** | 1: párrafos ES=5 EN=4; 3: lists ES=6 EN=0; 4: quotes ES=1 EN=0; 4: párrafos ES=4 EN=3; 5: lists ES=8 EN=0; 5: párrafos ES=4 EN=3; 6: párrafos ES=6 EN=4; 8: lists ES=7 EN=0; 8: párrafos ES=5 EN=4; 9: párrafos ES=3 EN=1; 10: párrafos ES=4 EN=3; 12: párrafos ES=11 EN=6 |
+| `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` | **REVISAR** | XIV: párrafos ES=3 EN=2 |
+| `manifiestos/61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md` | **OK** |  |
 | `manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md` | **REVISAR** | 14: párrafos ES=5 EN=4 |
 | `manifiestos/63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md` | **REVISAR** | Vínculos internos: párrafos ES=1 EN=0 |
 | `manifiestos/64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md` | **REVISAR** | 14: párrafos ES=2 EN=1 |
