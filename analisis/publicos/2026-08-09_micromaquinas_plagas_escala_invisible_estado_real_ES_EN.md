@@ -41,11 +41,39 @@ PRUEBA DE MICROMÁQUINAS
 
 ## EN · Short assessment
 
-The strong hypothesis—that a coordinated clandestine artificial micromachine plague is already attacking the population—is **not established by the evidence reviewed**.
+The strong hypothesis—that a coordinated clandestine plague of artificial micromachines is already attacking the population—is **not demonstrated by the evidence reviewed**.
 
-What is established is that biomedical micro/nanorobotics is an active experimental field, while vector-borne and other microscopic-scale processes can already generate systemic public-health effects. These facts justify anticipatory governance and traceability, but they do not justify converting laboratory capability or biological outbreaks into evidence of a hidden artificial attack.
+What is documented is a set of phenomena that justify studying the invisible scale without trivialising it:
 
-The “biblical plagues” frame is therefore retained as an archetypal/narrative model of cumulative threshold-crossing crises, not as literal proof.
+1. Biomedical micro/nanorobotics is a real and active field. In 2025, experimental macrophage-based microrobot systems operating *in vitro* and *in vivo* were published. In 2026, reviews and experimental work address navigation, localised delivery, penetration of biological barriers, integration with AI, and deployment/clearance problems.
+2. Europe is observing expansion and greater intensity of some vector-borne diseases; ECDC relates this to climatic and environmental factors, travel and the establishment of invasive species. This is an example of how small agents and ecological networks can produce systemic effects without requiring an artificial “machine”.
+3. The analogy of “biblical plagues” may be useful as a narrative archetype for cumulative crises, but it does not constitute evidence of literal prophecy or supernatural causation.
+
+## Epistemic rule
+
+```text
+EXISTING EXPERIMENTAL TECHNOLOGY
+≠
+MASS DEPLOYMENT
+≠
+CLANDESTINE ATTACK
+```
+
+And:
+
+```text
+BIOLOGICAL OR ENVIRONMENTAL CRISIS
+≠
+EVIDENCE OF MICROMACHINES
+```
+
+## Primary / institutional sources consulted
+
+- PubMed · Liu et al. (2026), *Next-generation biomedical nanorobots: active design, intelligent control, and translational opportunities in regenerative and minimally invasive medicine*. DOI: 10.1186/s12951-026-04667-w
+- PubMed · Luer et al. (2026), *Micro-/nanorobots in nanomedicine - Guidance, imaging and the integration of AI and robotics*. DOI: 10.1016/j.bbrc.2026.153390
+- PubMed · Wang et al. (2026), *Deployment and clearance of microrobots for localized therapy: past, present and future*. DOI: 10.1093/nsr/nwag272
+- Light: Science & Applications (2025), *Light-powered phagocytic macrophage microrobot (phagobot): both in vitro and in vivo*.
+- ECDC (2025–2026), surveillance and guidance on mosquito-borne and other vector-borne diseases in Europe.
 
 ---
 
