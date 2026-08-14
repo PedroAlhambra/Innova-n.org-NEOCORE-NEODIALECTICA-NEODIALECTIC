@@ -102,30 +102,66 @@ This document **does not claim that Ransol™, the Time Network or Invisible Ete
 
 Ransol™ is formulated as an archetypal figure of **Mother / Observing Whole / relational matrix**.
 
-It is not presented as a demonstrated physical entity or a literal omniscient observer. Its conceptual role is to prevent a part from mistaking itself for the Whole.
+It is not presented as a demonstrated physical entity or a literal omniscient observer. Its conceptual role is to prevent a part from mistaking itself for the Whole:
+
+```text
+PART
+⊂
+NETWORK OF RELATIONS
+⊂
+OPEN TOTALITY
+```
 
 Observation does not equal control, and a broader perspective grants no right of domination.
 
 ## The Time Network
 
-The Time Network proposes an image of temporality that may be understood not only as sequence but as a structure of relations, genealogies, bifurcations and encounters.
+The Time Network is proposed as an image of temporality that may be understood not only as sequence but as a structure of relations, genealogies, bifurcations and encounters.
+
+For ordinary human perception:
+
+```text
+BEFORE → NOW → AFTER
+```
+
+For a hypothetical multiscale perception:
+
+```text
+GENEALOGIES
+↕
+BIFURCATIONS
+↔ ENCOUNTERS
+↕
+POSSIBILITIES
+```
 
 ## Invisible Eternal Trees™
 
-A hypothetical species is registered as being capable of visualising the Time Network through structures resembling **Invisible Eternal Trees™**:
+A hypothetical species is registered as being capable of visualising the Time Network through structures resembling **Invisible Eternal Trees™**.
+
+Archetypal correspondences:
 
 - roots → past, causes, memory and genealogy;
-- trunk → continuity;
+- trunk → continuity of a trajectory;
 - branches → possibilities and bifurcations;
-- nodes → decisions and encounters;
+- nodes → decisions, encounters and discontinuities;
 - crowns → potential futures;
-- links among trees → relations among histories, species, scales or fractals.
+- connections among trees → relations among histories, species, scales or fractals.
 
-“Eternal” does not assert demonstrated infinite physical duration. It expresses the hypothetical perception of temporal relation as structure rather than fleeting succession.
+The adjective “eternal” does not assert demonstrated infinite physical duration. It expresses that, from the hypothetical perspective, a temporal relation could be perceived as a simultaneous structure rather than as fleeting succession.
 
 ## Relation to Starkdr and Ingellus
 
-Starkdr and Ingellus provide IDEA with a narrative laboratory for thinking about perception, symbiosis and non-human scales of intelligence. The new species is not automatically identified with either; it remains a separate 2026 speculative branch.
+Starkdr and Ingellus provide IDEA with a narrative laboratory for thinking about perception, symbiosis and scales of intelligence different from the human one.
+
+The new species is not automatically identified with Starkdr or Ingellus. It opens as a separate branch:
+
+```text
+IDEA / PUBLISHED SPECIES
+→ NARRATIVE LABORATORY
+→ NEW 2026 ARCHETYPAL HYPOTHESIS
+→ CHALLENGE
+```
 
 ## Epistemic rule
 
@@ -136,4 +172,4 @@ TEMPORAL MODEL ≠ VALIDATED PHYSICAL THEORY
 FERTILE IMAGE ≠ EVIDENCE
 ```
 
-Any future migration of the Time Network into a scientific hypothesis would require observable variables, differentiating predictions, falsification conditions and independent evidence.
+If the Time Network were ever to be moved into a scientific hypothesis, observable variables, differentiating predictions, falsification conditions and independent evidence would have to be defined.
