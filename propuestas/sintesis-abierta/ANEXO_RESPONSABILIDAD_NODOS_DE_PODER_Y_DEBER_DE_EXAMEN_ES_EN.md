@@ -244,13 +244,30 @@ Se solicitan aportes sobre:
 
 The capacity to ignore may itself become a form of power when the actor controls attention, capital, legitimacy, infrastructure, distribution, public agenda or institutional access.
 
-This principle applies to public figures, political leaders, major companies, technology platforms, academic and cultural institutions, foundations, investors, publishers, agencies, journalists, media groups, public and private outlets, social networks and any other node materially able to amplify, block, invisibilise or legitimise a proposal of public relevance.
+This principle applies to:
+
+* public figures;
+* political leaders;
+* major companies;
+* technology platforms;
+* academic and cultural institutions;
+* foundations;
+* investors;
+* publishers;
+* agencies;
+* journalists;
+* media groups;
+* public and private outlets;
+* social networks;
+* and any other node materially able to amplify, block, invisibilise or legitimise a proposal of public relevance.
 
 None stands outside Synthesis by virtue of office, fame, capital or institutional scale.
 
 ## II. Ignoring does not automatically equal culpability
 
 Neodialectics cannot turn its own existence into an obligation of adherence.
+
+Therefore:
 
 ```text
 NOT KNOWING THE FRAMEWORK
@@ -266,7 +283,16 @@ IGNORING IT WITHOUT SUFFICIENT NOTICE
 ≠ PROOF OF CAPTURE
 ```
 
-Responsibility becomes auditable where there is power or agenda capacity, sufficient knowledge of the object, reasonably justified public relevance, a real possibility of examination, and blocking or invisibilisation without sufficient contrast.
+Responsibility becomes auditable when verifiable elements concur:
+
+```text
+POWER OR AGENDA CAPACITY
++ SUFFICIENT KNOWLEDGE OF THE OBJECT'S EXISTENCE
++ REASONABLY JUSTIFIED PUBLIC RELEVANCE
++ REAL POSSIBILITY OF EXAMINATION
++ BLOCKING, DISMISSAL OR INVISIBILISATION WITHOUT SUFFICIENT CONTRAST
+= AUDITABLE CONDUCT
+```
 
 The conclusion is not predetermined. It is tested.
 
@@ -289,13 +315,34 @@ EXAMINATION
 = READ + CONTRAST + QUESTION + VERIFY + RESPOND
 ```
 
-A reasoned rejection after examination is legitimate participation in Synthesis. Structural silence based solely on origin, lack of prior prestige, conflict of interest or defence of position becomes auditable.
+A reasoned rejection after examination is legitimate participation in Synthesis.
+
+Structural silence based solely on origin, lack of prior prestige, conflict of interest or defence of position becomes auditable.
 
 ## IV. Power denounced and object of correction
 
-When a powerful node uses position to prevent even the examination of a potentially relevant proposal, it may reproduce mechanisms already criticised by the manifestos: attention capture, intellectual reduction, systemic parasitism, egoic defence of position, idolatry of money or prestige, incoherence between ends and means, attention exploitation and resistance to alternatives.
+When a node with material capacity uses its position to prevent even the examination of a potentially relevant proposal, it may be reproducing precisely the mechanisms denounced by the manifestos:
 
-The conduct then becomes an **object of correction within joint audit**, not because the actor rejected Neodialectics, but because power may have been exercised without sufficient contrast, traceability or proportional responsibility.
+* attention capture;
+* intellectual reduction and blocking;
+* systemic parasitism;
+* egoic defence of position;
+* idolatry of money or prestige;
+* incoherence between declared ends and means used;
+* exploitation of attention;
+* and systemic resistance to alternatives that alter its architecture.
+
+In that case, the conduct becomes an **object of correction within joint audit**, not because the actor rejected Neodialectics, but because power may have been exercised without sufficient contrast, traceability or proportional responsibility.
+
+```text
+POWER WITHOUT CONTRAST
+→ OPACITY
+→ BLOCKED LEARNING
+→ OBJECT OF AUDIT
+
+POWER + CONTRAST + TRACEABLE RESPONSE
+→ PARTICIPATION IN SYNTHESIS
+```
 
 ## V. Press, media and disinformation
 
@@ -303,7 +350,17 @@ The critique includes contemporary press and media when they function as **syste
 
 It does not declare all press to be bought or every outlet to disinform. Those claims require case-specific evidence.
 
-Auditable functions include undisclosed economic dependence influencing editorial selection, conscious concealment of conflicts, materially false or misleading publication, disproportionate amplification of conflict, repetition without memory or correction, prestige filtering, persistent omission of relevant alternatives after reasonable notice, refusal to correct demonstrable errors and commodification of public attention without proportional responsibility for effects.
+What is auditable is the function:
+
+* economic dependence conditioning editorial selection;
+* conscious concealment of conflicts of interest;
+* publication of false or misleading claims;
+* disproportionate amplification of conflict;
+* repetition without memory or correction;
+* selection of voices by prestige or alignment rather than informational value;
+* persistent omission of relevant alternatives after they have been reasonably brought to the outlet's attention;
+* refusal to correct demonstrably erroneous information;
+* and conversion of public attention into a commodity without proportional responsibility for its effects.
 
 ```text
 CAPTURED PRESS
@@ -322,17 +379,27 @@ The label must follow evidence, not precede it.
 
 Fame, office and capital increase influence and therefore proportional responsibility.
 
-A public figure or company has no obligation to support Innova_N. Yet where it possesses a platform capable of shaping millions of decisions, its patterns of attention and silence can be audited like any other systemic function.
+A public figure or company has no obligation to support Innova_N.
 
-Relevant variables include prior knowledge, accessible documentation, public reason for examination, argumentative response versus silence or blocking, conflicts of interest, dependence on structures the framework proposes to modify and later correction or reconsideration.
+Yet where it possesses a platform capable of shaping millions of decisions, its patterns of attention and silence can be audited like any other systemic function.
 
-None creates automatic culpability. Together they permit traceable examination of power.
+The following will be evaluated:
+
+1. whether the actor sufficiently knew the proposal;
+2. whether accessible documentation was received;
+3. whether there was a public reason to examine it;
+4. whether the response consisted of arguments, silence, blocking or ad hominem dismissal;
+5. whether conflicts of interest existed;
+6. whether the actor's position depended on structures the framework proposes to modify;
+7. and whether the actor later corrected, acknowledged or revised its judgement.
+
+None of these variables creates automatic culpability. Together they permit a traceable audit of the exercise of power.
 
 ## VII. Against humanity: limit of the expression
 
 The framework may denounce **anti-human effects or effects contrary to the Common Good** when sufficiently documented.
 
-It should not declare a person or company 'against humanity' merely for ignoring a proposal.
+It should not declare a person or company “against humanity” merely for ignoring a proposal.
 
 The rigorous formulation is:
 
@@ -344,9 +411,19 @@ The severity of the label must remain proportional to demonstrated evidence and 
 
 Innova_N cannot demand examination while making itself impossible to examine.
 
-It must maintain sufficient public documentation, Open Synthesis, sources, versions, genealogy, corrections, application cases, comprehensible language and real possibility of refutation.
+It must maintain:
 
-If a media outlet, company, academic or public figure demonstrates exaggeration, error, insufficient evidence or an unworkable solution, that contribution must enter Synthesis with the same standing as any other grounded contribution.
+* sufficient public documentation;
+* Open Synthesis;
+* sources;
+* versions;
+* genealogy;
+* corrections;
+* application cases;
+* comprehensible language;
+* and a real possibility of refutation.
+
+If a media outlet, company, academic or public figure demonstrates that the framework exaggerates its relevance, contains an error, lacks evidence or formulates an unworkable solution, that contribution must enter Synthesis with the same standing as any other.
 
 ## IX. Formula of proportional responsibility
 
@@ -362,13 +439,26 @@ RESPONSIBILITY TO EXAMINE
 ≠ OBLIGATION TO ADHERE
 ```
 
-Neodialectics does not demand obedience. It demands that power no longer be able to hide behind silence when that silence has public consequences and a sufficiently documented alternative exists to merit contrast.
+Neodialectics does not demand obedience.
+
+It demands that power no longer be able to hide behind silence when that silence has public consequences and a sufficiently documented alternative exists to merit contrast.
 
 ## X. Open Synthesis
 
 This annex remains open within [Manifesto XXXV Open Synthesis · Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30).
 
-Contributions are invited on objective public-relevance thresholds, sufficient notice, editorial freedom versus structural omission, auditable definitions of disinformation, conflicts of interest, proportional responsibility of celebrities, companies, institutions and media, metrics of silence and blocking, safeguards against blacklists or guilt by association, rights of reply and mechanisms for auditing accusations made by Innova_N itself.
+Contributions are invited on:
+
+* objective thresholds of public relevance;
+* criteria for determining when a node has received sufficient information;
+* the difference between editorial freedom and structural omission;
+* an auditable definition of disinformation;
+* conflicts of interest;
+* proportional responsibility of celebrities, companies, institutions and media;
+* metrics of silence, blocking and coverage;
+* safeguards against blacklists, targeting campaigns or guilt by association;
+* rights of reply and correction;
+* and mechanisms for auditing accusations made by Innova_N itself.
 
 * [Manifesto XXXV](../../manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
 * [Contribution protocol](./APORTAR_A_LA_SINTESIS_ES_EN.md)
