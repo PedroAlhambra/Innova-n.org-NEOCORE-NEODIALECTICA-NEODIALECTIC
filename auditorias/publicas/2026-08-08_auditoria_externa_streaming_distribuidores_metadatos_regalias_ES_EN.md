@@ -5,7 +5,7 @@
 **Vinculada a / Linked to:** Umbral-X MAXPROC 001 · Leónidas-Cancerbero™  
 **Síntesis Abierta / Open Synthesis:** https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/61
 
-> **Nota epistemológica.** Esta auditoría reúne documentación oficial, artículos técnicos, periodismo y testimonios públicos. Las quejas de usuarios y foros son señales, no pruebas automáticas de fraude. No se atribuye conducta delictiva a Spotify, DistroKid, TIDAL, Apple, Amazon, YouTube, Deezer, SoundCloud, TuneCore, CD Baby, Ditto ni a artistas concretos sin evidencia verificable.
+> **Nota epistemológica / Epistemic note.** Esta auditoría reúne documentación oficial, artículos técnicos, periodismo y testimonios públicos. Las quejas de usuarios y foros son señales, no pruebas automáticas de fraude. No se atribuye conducta delictiva a Spotify, DistroKid, TIDAL, Apple, Amazon, YouTube, Deezer, SoundCloud, TuneCore, CD Baby, Ditto ni a artistas concretos sin evidencia verificable. / This audit brings together official documentation, technical articles, journalism and public testimony. User and forum complaints are signals, not automatic proof of fraud. No criminal conduct is attributed to Spotify, DistroKid, TIDAL, Apple, Amazon, YouTube, Deezer, SoundCloud, TuneCore, CD Baby, Ditto or specific artists without verifiable evidence.
 
 ---
 
@@ -215,10 +215,202 @@ sin colapsarlos prematuramente en una sola explicación.
 
 # EN · English
 
-## Provisional finding
+## 1. Provisional finding
 
-External evidence shows that wrong-artist mapping, duplicate profiles, split catalogues, missing/reappearing releases, metadata inconsistencies, distributor dependency, separate analytics/royalty layers, circular support, withheld-payment complaints and third-party impersonation are **cross-platform phenomena**.
+The external pattern **does exist** and is not limited to one platform or distributor. Official documentation and public cases describe:
 
-The strongest current structural explanation is fragmented DDEX/metadata and identity reconciliation across distributors and DSPs, combined with human/automated mapping and separate reporting/payment systems. Fraud and unauthorized uploads are documented as a real class of attack, but no evidence currently ties the Innova_N case to a specific artist, major label, criminal group or coordinated diversion scheme.
+- music assigned to the wrong artist;
+- duplicate or incorrectly merged profiles;
+- split catalogues;
+- releases that disappear or reappear;
+- inconsistent metadata;
+- dependence on distributor/label to correct data;
+- analytics and settlements operating in separate layers;
+- circular support between DSP and distributor;
+- complaints about withheld or unexplained royalties;
+- fraud, impersonation and unauthorised third-party uploads;
+- loss of social metrics when a correction moves content between profiles.
 
-All links and the Spanish causal matrix above are part of the same open audit. Contributions and contradictory evidence should be added to Open Synthesis #61.
+What is **not** generally demonstrated is one coordinated cause or a massive database loss. The explanation that currently best fits the whole set is a fragmented chain of DDEX/metadata + identity reconciliation + automation + human review + separate reporting and payment systems. That architecture also creates surface area for error, abuse and third-party fraud.
+
+## 2. Official evidence by platform
+
+### Spotify
+
+Spotify states that metadata controls how music appears and that it receives this metadata from the label or distributor. Metadata problems must be corrected through a distributor update:
+
+- https://support.spotify.com/ws/artists/article/metadata-formatting-guidelines/
+- https://support.spotify.com/es/artists/article/music-mixed-up-with-another-artist/
+- https://support.spotify.com/pw/article/faulty-inaccurate-metadata/
+
+Spotify's own official community documented a Release Radar failure caused by uploads initially being associated with the wrong same-name artist. Spotify explained that the problem was deeply linked to a combination of human error, metadata received from distributors and technical limitations, and acknowledged that there was no complete preventive solution at that time:
+
+- https://community.spotify.com/t5/Your-Library/Release-Radar-includes-wrong-artist-with-same-name-as-desired/td-p/4883304/page/10
+- https://community.spotify.com/t5/Content-Questions/My-music-listed-under-wrong-artist/td-p/1530282/page/2
+
+### Apple Music
+
+Cases in Apple Support Communities show music associated with the wrong same-name artist, merged profiles or incorrect links. Official responses refer users back to the distributor because publication and artist-information changes depend on Music Partners/distributors:
+
+- https://discussions.apple.com/thread/255994441
+- https://discussions.apple.com/thread/254162589
+- https://discussions.apple.com/thread/254860671
+- https://discussions.apple.com/thread/251614042
+- https://discussions.apple.com/thread/256193428
+- https://discussions.apple.com/thread/252522614
+
+### TIDAL
+
+TIDAL acknowledges duplicate profiles, merge processes and dependence on distributor data. In a merge, followers of the closed profile are not transferred, demonstrating that identity repair can carry continuity costs:
+
+- https://support.tidal.com/hc/en-us/articles/44170181437713-Claim-Your-Artist-Profile
+- https://support.tidal.com/hc/es/articles/44170181437713-C%C3%B3mo-reclamar-tu-perfil-de-artista
+- https://support.tidal.com/hc/en-us/articles/44745598330385-Delete-Your-Tidal-Account-or-Artist-Data
+- https://support.tidal.com/hc/en-us/articles/15724815813137-Artist-Resources
+
+### YouTube / YouTube Music
+
+YouTube explains that Art Tracks and artist pages are built from metadata submitted by partners/distributors through DDEX, and that association, primary-artist, visibility or discography errors require correction/redelivery:
+
+- https://support.google.com/youtube/answer/6082427?hl=en
+- https://support.google.com/youtube/answer/6082726?hl=en
+- https://support.google.com/youtubemusic/answer/13420518?hl=en
+- https://support.google.com/youtubemusic/answer/9105565?hl=en
+
+Recent public cases:
+
+- DistroKid + songs on the wrong channel for weeks: https://support.google.com/youtubemusic/thread/425763799/my-music-is-on-the-wrong-channel?hl=en
+- Amuse + approved OAC but releases merged with another artist for months: https://support.google.com/youtubemusic/thread/381267948/my-oac-official-artist-channel-is-approved-but-my-songs-are-merged-with-another-artist%E2%80%99s-channel-b?hl=en
+- other artists appearing on a channel and incomplete names: https://support.google.com/youtubemusic/thread/388623661/youtube-music-channel-issue-wrong-artist-names-extra-tracks?hl=en
+
+### Amazon Music
+
+Amazon provides a particularly clear admission: the DDEX feed is complex and, although highly reliable, profile-identification signals may not always be communicated correctly. It explicitly lists music by other artists appearing on a profile, missing content and incorrect names:
+
+- https://intercom.help/amazon-music-for-artists/en/articles/7231422-amazon-music-artist-profiles
+- https://intercom.help/amazon-music-for-artists/en/articles/10223779-artist-profile-issues-incorrect-or-missng-content
+- https://artists.amazonmusic.com/faqs
+
+### SoundCloud
+
+SoundCloud acknowledges that common names, symbols, multiple rightsholders or deleted profiles can cause incorrect mapping. If content is moved to the correct profile, **play counts, comments and likes are lost** because of current limitations:
+
+- https://help.soundcloud.com/hc/en-us/articles/41068594103195-Why-are-my-tracks-on-the-wrong-profile
+- https://help.soundcloud.com/hc/en-us/articles/41070281134235-I-ve-found-an-Auto-Generated-Profile-What-do-I-do
+
+### TikTok
+
+CD Baby documents that a track may be missing, muted or limited because of territorial restrictions, rights conflicts or platform decisions; monetisation and reporting also follow their own timetable:
+
+- https://support.cdbaby.com/hc/en-us/articles/360038700071-How-TikTok-Monetization-Works
+
+## 3. Distributors: pattern of external complaints
+
+### DistroKid
+
+Better Business Bureau contains multiple recent 2025–2026 complaints concerning:
+
+- allegedly missing or under-reported Spotify royalties;
+- dashboards dropping to zero;
+- catalogue removals;
+- blocked funds;
+- artificial-streaming allegations;
+- closed tickets or generic responses;
+- explicit requests for audits of royalty files without a concrete answer.
+
+Sources:
+
+- https://www.bbb.org/us/ny/new-york/profile/music-distribution-companies/distrokid-0121-87139284/complaints
+- https://www.bbb.org/us/ny/new-york/profile/music-distribution-companies/distrokid-0121-87139284/complaints?page=12
+- https://www.bbb.org/us/ny/new-york/profile/music-distribution-companies/distrokid-0121-87139284/complaints?page=1
+
+These are customer allegations. Some are listed as resolved, others answered and others unanswered. They do not by themselves prove appropriation of funds, but they show that the support/royalty pattern under investigation **is not isolated**.
+
+### TuneCore
+
+BBB records recent cases involving withdrawal holds, artificial streaming, withheld royalties, account closures and contradictory explanations about catalogue that remains active:
+
+- https://www.bbb.org/us/ny/brooklyn/profile/music-publishing-companies/tunecore-0121-100992/complaints
+- https://www.bbb.org/us/ny/brooklyn/profile/music-publishing-companies/tunecore-0121-100992/complaints?page=1
+- https://www.bbb.org/us/ny/brooklyn/profile/music-publishing-companies/tunecore-0121-100992/customer-reviews
+
+### CD Baby
+
+BBB shows recent complaints about incomplete distribution, blocked access, withheld royalties, content remaining active after closure and alleged incorrect rights assignments. BBB also marked a **Pattern of Complaints** and in April 2026 requested clarification regarding certain CD Baby advertising claims:
+
+- https://www.bbb.org/us/or/portland/profile/music-distribution-companies/cd-baby-1296-37002534/complaints
+- https://www.bbb.org/us/or/portland/profile/music-distribution-companies/cd-baby-1296-37002534/complaints?page=2
+- https://www.bbb.org/us/or/portland/profile/music-distribution-companies/cd-baby-1296-37002534/customer-reviews?page=1
+- https://www.bbb.org/us/or/portland/profile/music-distribution-companies/cd-baby-1296-37002534
+
+### Ditto Music
+
+BBB records complaints concerning suspension for artificial streaming, withheld royalties and requests for granular evidence. Ditto responses defending its decisions also exist in some cases:
+
+- https://www.bbb.org/us/tn/nashville/profile/music-distribution-companies/ditto-music-0573-37066042/complaints
+- https://www.bbb.org/us/tn/nashville/profile/music-distribution-companies/ditto-music-0573-37066042/customer-reviews
+
+## 4. Fraud, impersonation and unauthorised uploads
+
+Pitchfork documented in 2019 how impostors and leakers could upload other people's or unreleased music to Spotify and Apple Music through low-threshold distributors, generating royalties before the content was detected. The article includes examples involving major artists and explains that the absence of a universal metadata database worsens the problem:
+
+- https://pitchfork.com/features/article/how-artist-imposters-and-fake-songs-sneak-onto-streaming-services
+
+This establishes that **the class of attack exists**. It does not establish that it caused the Innova_N case or that a specific network sits behind it.
+
+## 5. Structural technical evidence
+
+The academic work `Towards an Open and Scalable Music Metadata Layer` describes a baseline problem: multiple participants in the chain create their own versions of metadata, with manual re-entry and difficult, error-prone synchronisation:
+
+- https://arxiv.org/abs/1911.08278
+
+This fits what Amazon, Spotify, YouTube, TIDAL and SoundCloud acknowledge from their respective layers.
+
+## 6. Major artists, majors and exposure bias
+
+No evidence has been found that would justify stating that **Bad Bunny**, another specific artist or a “mafia” is receiving royalties belonging to the case under analysis. That allegation remains outside the audit unless an identifier, royalty statement, ISRC, payment routing, rights claim or receiving account demonstrates it.
+
+Academic research does exist on **popularity bias** in music recommendation systems: algorithms may systematically overexpose popular providers/artists relative to others. That is a different problem from diverting royalties:
+
+- https://arxiv.org/abs/2003.11634
+
+Therefore:
+
+**exposure bias ≠ appropriation of royalties**  
+**commercial dominance ≠ proof of fraud**
+
+## 7. Updated MAXPROC causal matrix
+
+| Hypothesis | External evidence | Provisional status |
+|---|---|---|
+| H1 · cyber incident/database loss | technically possible, but no specific public evidence | weak/not demonstrated |
+| H2 · fragmented metadata and defective identity reconciliation | acknowledged by multiple DSPs and technical literature | strong |
+| H3 · human error/automation/mapping | acknowledged by Spotify, Amazon, SoundCloud, YouTube | strong |
+| H4 · support without access to accounting/routing layer | pattern compatible with numerous testimonies | medium; requires internal evidence |
+| H5 · third-party fraud/impersonation | documented journalistic cases | real as a class; not proven in our case |
+| H6 · statistics and royalties in different systems | acknowledged by distributors/DSPs and reporting architecture itself | strong |
+| H7 · anti-fraud/artificial-streaming holds | repeated complaints involving DistroKid, TuneCore, Ditto, CD Baby | strong as a phenomenon; legitimacy must be assessed case by case |
+| H8 · concentration/popularity bias | documented in recommender-system research | real for exposure; does not prove payment diversion |
+
+## 8. What we need from affected musicians
+
+To turn testimony into comparable evidence, contributors are asked to provide:
+
+1. distributor;
+2. DSP;
+3. artist and URL of the correct/incorrect profile;
+4. ISRC and UPC;
+5. artist ID / URI before and after;
+6. screenshots from Spotify for Artists / Apple / TIDAL / YouTube / Amazon;
+7. distributor royalty statement;
+8. exact month and territory;
+9. takedown/re-delivery/merge if one occurred;
+10. support ticket and response;
+11. resolution date;
+12. whether metrics or royalties changed after the mapping was repaired.
+
+The objective is to build a matrix that distinguishes:
+
+`IDENTITY ERROR` → `METADATA ERROR` → `CATALOGUE ERROR` → `REPORTING ERROR` → `SETTLEMENT ERROR` → `THIRD-PARTY FRAUD` → `ANTI-FRAUD HOLD`
+
+without prematurely collapsing them into one explanation.
