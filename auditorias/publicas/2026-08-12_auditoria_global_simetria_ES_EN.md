@@ -249,19 +249,7 @@
   - IX: párrafos ES=3 EN=2
   - XI: lists ES=14 EN=3
   - XI: párrafos ES=3 EN=4
-- `propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md` · ES=973 · EN=842 · ratio=0.87
-  - I: lists ES=14 EN=0
-  - II: code ES=2 EN=1
-  - II: párrafos ES=4 EN=3
-  - III: párrafos ES=5 EN=4
-  - IV: lists ES=8 EN=0
-  - IV: code ES=1 EN=0
-  - V: lists ES=9 EN=0
-  - VI: lists ES=7 EN=0
-  - VI: párrafos ES=5 EN=4
-  - VIII: lists ES=9 EN=0
-  - IX: párrafos ES=2 EN=1
-  - X: lists ES=12 EN=2
+- `propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md` · ES=973 · EN=935 · ratio=0.96
   - X: párrafos ES=3 EN=4
 - `propuestas/sintesis-abierta/GUIA_RAPIDA_APORTAR_EVIDENCIA_ES_EN.md` · ES=592 · EN=608 · ratio=1.03
   - ¿No sabes dónde poner tu aporte?: párrafos ES=4 EN=3
@@ -610,7 +598,7 @@
 | `propuestas/sintesis-abierta/2026-08-11_DELTA_HUMANIDAD_COMUN_MADURACION_INVERTIDA_TROL_BOT_MAL_SISTEMICO_ES_EN.md` | **REVISAR** | 22: párrafos ES=1 EN=2 |
 | `propuestas/sintesis-abierta/ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_v0.1_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` | **REVISAR** | I: code ES=1 EN=0; II: lists ES=7 EN=0; II: párrafos ES=3 EN=2; III: lists ES=7 EN=0; VI: lists ES=15 EN=0; VII: code ES=1 EN=0; VII: párrafos ES=3 EN=2; VIII: lists ES=8 EN=0; IX: párrafos ES=3 EN=2; XI: lists ES=14 EN=3; XI: párrafos ES=3 EN=4 |
-| `propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md` | **REVISAR** | I: lists ES=14 EN=0; II: code ES=2 EN=1; II: párrafos ES=4 EN=3; III: párrafos ES=5 EN=4; IV: lists ES=8 EN=0; IV: code ES=1 EN=0; V: lists ES=9 EN=0; VI: lists ES=7 EN=0; VI: párrafos ES=5 EN=4; VIII: lists ES=9 EN=0; IX: párrafos ES=2 EN=1; X: lists ES=12 EN=2; X: párrafos ES=3 EN=4 |
+| `propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md` | **REVISAR** | X: párrafos ES=3 EN=4 |
 | `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/GUIA_RAPIDA_APORTAR_EVIDENCIA_ES_EN.md` | **REVISAR** | ¿No sabes dónde poner tu aporte?: párrafos ES=4 EN=3 |
 | `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
