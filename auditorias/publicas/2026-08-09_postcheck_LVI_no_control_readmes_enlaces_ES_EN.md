@@ -3,18 +3,19 @@
 **Fecha / Date:** 2026-08-12  
 **Estado / Status:** **OK**
 
-> **Alcance / Scope:** el grafo vivo excluye `wiki-legacy-archive/` porque conserva deliberadamente la topología histórica anterior. Los archivos históricos permanecen versionados, pero sus enlaces obsoletos no se contabilizan como roturas del estado canónico vigente. / the living graph excludes `wiki-legacy-archive/`, which deliberately preserves the former Wiki topology. Historical files remain versioned, but their obsolete links do not count as breakage of the current canonical state.
+> **Alcance / Scope:** el grafo vivo excluye `wiki-legacy-archive/` y las entradas raíz legacy `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` y `FOREWORD.md`. Esos archivos permanecen temporalmente versionados mientras se migran referencias, pero no constituyen superficies canónicas vivas. / the living graph excludes `wiki-legacy-archive/` and the root legacy entry files `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` and `FOREWORD.md`. Those files remain temporarily versioned while references are migrated, but they are not living canonical surfaces.
 
 ## ES · Resultado
 
-- Archivos Markdown activos revisados: **367**.
+- Archivos Markdown activos revisados: **362**.
 - Archivos Markdown históricos excluidos del estado vivo: **55**.
-- README/LEEME activos revisados: **18**.
-- Enlaces internos de ruta comprobados: **11110**.
+- Entradas legacy excluidas del estado vivo: **5**.
+- README activos revisados: **17**.
+- Enlaces internos de ruta comprobados: **10478**.
 - Alias internos de GitHub Wiki reconocidos: **43**.
-- Enlaces externos inventariados sin comprobar disponibilidad remota: **2115**.
-- Enlaces sólo a ancla detectados: **424**.
-- Bloques de último manifiesto encontrados en README/LEEME: **9**.
+- Enlaces externos inventariados sin comprobar disponibilidad remota: **1860**.
+- Enlaces sólo a ancla detectados: **410**.
+- Bloques de último manifiesto encontrados en README: **8**.
 - Manifiestos canónicos detectados: **75 · I–LXXV**.
 - Último manifiesto / Síntesis: **LXXV / #134**.
 - Enlaces internos rotos del grafo vivo: **0**.
@@ -23,7 +24,8 @@
 ### Comprobaciones canónicas
 
 - La colección se reconstruye dinámicamente desde `manifiestos/README.md`; no se fija un número histórico en el auditor.
-- Síntesis Abierta debe enlazar el último manifiesto y su Issue específico.
+- El índice completo de Síntesis Abierta debe enlazar el último manifiesto y su Issue específico.
+- El README operativo de Síntesis debe conservar las rutas de participación sin duplicar el inventario dinámico.
 - Los README con bloque `NEO_LATEST_MANIFESTO` deben apuntar al último manifiesto y su Síntesis.
 - El archivo Wiki histórico se conserva como evidencia y no se reescribe para simular vigencia.
 - La auditoría de rutas no sustituye la comprobación remota de URLs externas ni la validación semántica de anclas renderizadas.
@@ -34,14 +36,15 @@
 
 ## EN · Result
 
-- Active Markdown files reviewed: **367**.
+- Active Markdown files reviewed: **362**.
 - Historical Markdown files excluded from living-state health: **55**.
-- Active README/LEEME files reviewed: **18**.
-- Internal path links checked: **11110**.
+- Legacy entry files excluded from living-state health: **5**.
+- Active README files reviewed: **17**.
+- Internal path links checked: **10478**.
 - GitHub Wiki extensionless page aliases recognised: **43**.
-- External links inventoried without checking remote availability: **2115**.
-- Anchor-only links detected: **424**.
-- Latest-manifesto blocks found in README/LEEME files: **9**.
+- External links inventoried without checking remote availability: **1860**.
+- Anchor-only links detected: **410**.
+- Latest-manifesto blocks found in README files: **8**.
 - Canonical manifestos detected: **75 · I–LXXV**.
 - Latest manifesto / synthesis: **LXXV / #134**.
 - Broken internal links in the living graph: **0**.
@@ -50,7 +53,8 @@
 ### Canonical checks
 
 - The collection is reconstructed dynamically from `manifiestos/README.md`; the auditor does not hardcode a historical number.
-- Open Synthesis must link the latest manifesto and its specific Issue.
+- The complete Open Synthesis index must link the latest manifesto and its specific Issue.
+- The operational Synthesis README must preserve participation routes without duplicating the dynamic inventory.
 - README files with a `NEO_LATEST_MANIFESTO` block must point to the latest manifesto and its Synthesis.
 - The historical Wiki archive is preserved as evidence and is not rewritten to simulate current validity.
 - The route audit does not replace remote checking of external URLs or semantic validation of rendered anchors.
