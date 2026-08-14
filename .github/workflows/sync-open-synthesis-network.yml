@@ -1,6 +1,7 @@
 name: sync-open-synthesis-network
 
 # Living frontier is derived dynamically from manifesto identities and canonical registries.
+# The operational Open Synthesis README remains stable; the complete index owns dynamic inventory state.
 on:
   workflow_dispatch:
   push:
