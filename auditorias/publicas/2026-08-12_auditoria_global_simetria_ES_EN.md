@@ -139,21 +139,7 @@
   - 10: párrafos ES=1 EN=3
 - `auditorias/publicas/2026-08-08_auditoria_integral_correlacion_manifiestos_trabajo_aplicado_ES_EN.md` · ES=880 · EN=839 · ratio=0.95
   - 10: párrafos ES=3 EN=4
-- `auditorias/publicas/2026-08-08_auditoria_oneshots_github_actions_carreras_noop_y_estado_final_ES_EN.md` · ES=642 · EN=474 · ratio=0.74
-  - volumen EN/ES=0.74 (474/642)
-  - 1: lists ES=5 EN=0
-  - 2: code ES=2 EN=1
-  - 3: lists ES=5 EN=0
-  - 3: code ES=2 EN=0
-  - 3: párrafos ES=3 EN=2
-  - 4: code ES=1 EN=0
-  - 4: párrafos ES=4 EN=2
-  - 5: párrafos ES=2 EN=1
-  - 6: párrafos ES=3 EN=2
-  - 7: párrafos ES=1 EN=0
-  - 8: lists ES=9 EN=0
-  - 8: code ES=2 EN=0
-  - 8: párrafos ES=3 EN=2
+- `auditorias/publicas/2026-08-08_auditoria_oneshots_github_actions_carreras_noop_y_estado_final_ES_EN.md` · ES=642 · EN=633 · ratio=0.99
   - 10: párrafos ES=3 EN=4
 - `auditorias/publicas/2026-08-08_auditoria_readmes_enlaces_estado_XLII_ES_EN.md` · ES=142 · EN=137 · ratio=0.96
   - Estado del índice de manifiestos: párrafos ES=2 EN=3
@@ -531,7 +517,7 @@
 | `auditorias/publicas/2026-08-08_auditoria_formato_manifiestos_XXXVIII_XLIII_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-08_auditoria_integral_correlacion_manifiestos_trabajo_aplicado_ES_EN.md` | **REVISAR** | 10: párrafos ES=3 EN=4 |
-| `auditorias/publicas/2026-08-08_auditoria_oneshots_github_actions_carreras_noop_y_estado_final_ES_EN.md` | **REVISAR** | volumen EN/ES=0.74 (474/642); 1: lists ES=5 EN=0; 2: code ES=2 EN=1; 3: lists ES=5 EN=0; 3: code ES=2 EN=0; 3: párrafos ES=3 EN=2; 4: code ES=1 EN=0; 4: párrafos ES=4 EN=2; 5: párrafos ES=2 EN=1; 6: párrafos ES=3 EN=2; 7: párrafos ES=1 EN=0; 8: lists ES=9 EN=0; 8: code ES=2 EN=0; 8: párrafos ES=3 EN=2; 10: párrafos ES=3 EN=4 |
+| `auditorias/publicas/2026-08-08_auditoria_oneshots_github_actions_carreras_noop_y_estado_final_ES_EN.md` | **REVISAR** | 10: párrafos ES=3 EN=4 |
 | `auditorias/publicas/2026-08-08_auditoria_readmes_enlaces_estado_XLII_ES_EN.md` | **REVISAR** | Estado del índice de manifiestos: párrafos ES=2 EN=3 |
 | `auditorias/publicas/2026-08-08_barrida_enlaces_manifiestos_articulos_XLVIII_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `auditorias/publicas/2026-08-08_postcheck_XLIV_neowar_enlaces_readmes_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Postcheck XLIV · Neowar™ · enlaces y READMEs / XLIV postcheck · Neowar™ · links and READMEs |
