@@ -1,12 +1,12 @@
 # Addendum de trazabilidad · respuesta KDP sobre «cambios sin publicar»
-## Traceability addendum · KDP response on “unpublished changes”
+# Traceability addendum · KDP response on “unpublished changes”
 
 **Fecha / Date:** 2026-08-08  
 **Caso / Case:** `51071689`  
 **Entidad / Entity:** Amazon KDP / Author Central  
 **Obra / Work:** IDEA  
 **Autor e impulsor / Author and initiator:** Pedro Martínez Alhambra · Neo0™  
-**Marco aplicado / Applied framework:** Neodialectica Framework™ · SAN™ · Auditoría Conjunta Perpetua™  
+**Marco aplicado / Applied framework:** Neodialectica Framework™ · SAN™ · Auditoría Conjunta Perpetua™ / Perpetual Joint Audit™  
 **Estado actual / Current status:** **seguimiento reabierto · disponibilidad confirmada · causa técnica no explicada / reopened follow-up · availability confirmed · technical cause unexplained**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
@@ -223,94 +223,145 @@ La arquitectura de auditoría debe conservar simultáneamente:
 
 This document continues the trace of case `51071689` after the reopening addendum dated 7 August 2026.
 
-It separately records KDP’s 8 August response, what was clarified, what remains technically unexplained, the author’s subsequent reply, and the present operational decision not to republish every edition merely to remove an interface state whose cause has not been identified.
+Its purpose is to record separately:
+
+- KDP's response received on 8 August;
+- which points were clarified;
+- which points remain without a technical explanation;
+- the subsequent reply sent by the author;
+- and the operational decision not to manually republish the editions merely to remove an interface state whose cause has not been determined.
+
+The documentation expressly distinguishes among **facts communicated by KDP**, **user observations**, **inferences** and **unverified hypotheses**.
 
 ## 2. Immediate background
 
-After KDP / Author Central had confirmed the correction of IDEA’s multilingual associations and the author had requested closure, multiple print editions simultaneously appeared in the KDP Bookshelf with an “unpublished changes” state and a “Continue setup” action.
+On 7 August 2026, after KDP / Author Central had confirmed the correction of IDEA's multilingual associations and the author had requested closure of the case, multiple print editions simultaneously appeared in the KDP Bookshelf with a state equivalent to:
 
-The author stated that he had not modified those titles and sent three screenshots to support before taking any further action.
+```text
+Live · Unpublished changes
+```
 
-This was documented in the [7 August reopening addendum](./2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md).
+and with the action:
+
+```text
+Continue setup
+```
+
+The author stated that he had made no modifications to those titles and sent three screenshots to support asking for an explanation before touching the editions.
+
+That episode was documented in:
+
+- [Reopening addendum · 7 August 2026](./2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md)
 
 ## 3. KDP response · 8 August 2026
 
-KDP acknowledged in writing that several books were showing an unpublished-changes state even though the author had made no changes.
+KDP replied in writing that it regretted that several books were showing an unpublished-changes state even though the author had not made changes.
 
-KDP stated that:
+The response established four relevant elements:
 
-1. support cannot directly modify that state;
-2. resubmitting the book is the suggested way to clear it when there are no substantive changes;
-3. the books may also be left as they are when no changes are required;
-4. leaving them in that state does **not affect their current availability**.
+1. **KDP support cannot modify that state.**
+2. **The proposed option for removing it is to resubmit/publish the book when there are no real changes to make.**
+3. **KDP stated that the books may be left as they are if no change is necessary.**
+4. **KDP expressly confirmed that leaving them in that state does not affect the title's current availability.**
 
-Therefore:
+The response therefore documents:
 
 ```text
 “UNPUBLISHED CHANGES” STATE
 → may remain visible
 
 CURRENT AVAILABILITY
-→ KDP confirms it is not affected by leaving the state untouched
+→ KDP confirms it is unaffected by leaving that state in place
 
 CLEARING THE STATE
-→ resubmission suggested
+→ support proposes republication
 
-DIRECT SUPPORT-SIDE MODIFICATION
-→ KDP says it cannot perform it
+SUPPORT'S ABILITY TO MODIFY IT DIRECTLY
+→ KDP states that it cannot do so
 ```
 
 ## 4. What KDP did not explain
 
-The response did not identify the process that generated the state across multiple editions, the specific pending field or metadata, the system that produced the state change, whether it is related to earlier internal metadata/linking corrections, or whether an internal normalisation process exists that avoids manual republication edition by edition.
+The response does not identify:
+
+- which process simultaneously generated the state across multiple editions;
+- which specific field, datum or metadata item is shown as pending;
+- who or which system produced the state change;
+- whether it relates to internal language, metadata or linking corrections performed during the same case;
+- whether an internal normalisation operation exists that would avoid manual edition-by-edition republication;
+- or why previously stable titles began to display pending changes without a declared action by the author.
 
 The principal technical question therefore remains open.
 
 ## 5. Author response · 8 August 2026
 
-Pedro Martínez Alhambra replied thanking KDP for confirming that availability is unaffected, while asking that the case remain open or be formally reopened until KDP can clarify, as far as technically possible:
+After receiving KDP's reply, Pedro Martínez Alhambra responded in writing thanking KDP for confirming that availability is unaffected, while requesting that the case remain open or be formally reopened until, insofar as technically possible, the following could be clarified:
 
-1. what process caused the simultaneous state change;
+1. which process caused the simultaneous state change;
 2. which field or metadata is pending;
-3. whether it is related to internal actions carried out during case `51071689`;
-4. whether the state can be cleaned or normalised without manually republishing every edition.
+3. whether it relates to internal actions carried out during case `51071689`;
+4. and whether the state can be cleared or normalised without manually republishing each edition.
 
-The reply also expressly recorded that the earlier closure had been requested prematurely after several days of intensive review across languages, formats and incidents.
+The reply also included an explicit self-correction: the earlier closure had been requested because of a premature human assessment after several days of intensive review of languages, formats and incidents.
+
+This acknowledgement preserves the complete genealogy of the error:
+
+```text
+INITIAL INCIDENTS
+→ operational correction
+→ positive verification
+→ closure requested by the author
+→ later appearance of a new anomaly
+→ documentary reopening
+→ partial KDP response
+→ technical follow-up still open
+```
 
 ## 6. Current operational decision
 
-Because KDP confirmed that leaving the books in that state does **not affect current availability**, there is no documentary basis for republishing every edition solely to make the visual indicator disappear.
+Because KDP confirmed that leaving the books in that state **does not affect their current availability**, there is no documentary basis for republishing all editions solely to make the visual indicator disappear.
+
+The operational decision is fixed as follows:
 
 ```text
-IF NO REAL EDITORIAL CHANGE EXISTS
-AND KDP CONFIRMS AVAILABILITY IS UNAFFECTED
-→ DO NOT REPUBLISH MERELY TO CLEAR THE VISUAL STATE
+IF THERE ARE NO REAL CHANGES TO AN EDITION
+AND KDP CONFIRMS THAT AVAILABILITY IS UNAFFECTED
+→ DO NOT REPUBLISH SOLELY TO CLEAR THE VISUAL STATE
 → WAIT FOR TECHNICAL CLARIFICATION OR A REAL EDITORIAL NEED
 ```
 
-This decision remains reversible if KDP provides new information or a particular edition requires a genuine editorial update.
+This decision may be revised if KDP provides new information or if a specific edition requires a real editorial modification.
 
 ## 7. Evidentiary status
 
 ### Documented facts
 
-- multiple editions displayed unpublished changes after previously appearing correctly live;
+- multiple editions displayed unpublished changes after having appeared correctly live;
 - the author stated that he had not modified those titles during that interval;
-- KDP expressly acknowledged this situation;
-- KDP said support cannot directly modify the state;
-- KDP suggested resubmission to clear it;
-- KDP confirmed that leaving the state untouched does not affect current availability;
-- the author asked for technical clarification and continued/reopened handling.
+- KDP expressly acknowledged that situation in its response;
+- KDP stated that it cannot directly modify that state;
+- KDP suggested resubmitting the books if the state is to be cleared;
+- KDP confirmed that leaving them as they are does not affect their current availability;
+- the author replied requesting a technical explanation and continued or reopened handling of the case.
 
 ### Undetermined
 
 - root cause;
 - specific pending field;
-- process producing the state change;
-- relation or lack of relation to earlier internal corrections;
+- process that originated the state change;
+- relation or absence of relation to earlier internal corrections;
 - existence of an internal normalisation tool.
 
+### Hypotheses
+
 Any explanation involving metadata propagation, internal synchronisation, testing, processing queues or experiments remains an **unverified hypothesis** unless later technically confirmed.
+
+```text
+HYPOTHESIS
+≠ FACT
+≠ ACCUSATION
+≠ ATTRIBUTION OF INTENT
+```
 
 ## 8. Current case state
 
@@ -328,7 +379,7 @@ NEW “UNPUBLISHED CHANGES” STATE
 → acknowledged by KDP
 
 COMMERCIAL AVAILABILITY
-→ KDP confirms it is not affected by leaving the state untouched
+→ KDP confirms it is unaffected by leaving the state untouched
 
 TECHNICAL CAUSE
 → unexplained
@@ -339,7 +390,7 @@ PENDING FIELD
 RELATION TO EARLIER INTERNAL CHANGES
 → neither confirmed nor ruled out
 
-AUTHOR REQUEST FOR CLARIFICATION
+AUTHOR RESPONSE REQUESTING CLARIFICATION
 → sent
 
 AUDIT
@@ -348,7 +399,17 @@ AUDIT
 
 ## 9. Learning rule
 
-> **An interface state must not automatically be treated as a real publication change, and visual cleanup must not trigger mass republication when the provider itself confirms that availability is unaffected and the cause remains undetermined.**
+The case adds a new rule to operational traceability:
+
+> **an interface state must not automatically be confused with a real publication change, and a visual correction must not trigger mass republication if the provider itself confirms that availability is unaffected and the cause remains undetermined.**
+
+The audit architecture must simultaneously preserve:
+
+- the visible state;
+- the commercial state;
+- the support response;
+- the user's action or inaction;
+- and the remaining technical uncertainty.
 
 ## 10. Related documents
 
