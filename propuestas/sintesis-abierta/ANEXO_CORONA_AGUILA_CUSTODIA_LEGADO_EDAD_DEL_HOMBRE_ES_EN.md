@@ -273,13 +273,29 @@ Neodialectics recognises the **Crown** and the **Eagle** as symbols held in cust
 
 They are not held as trophies, marks of superiority or licences to dominate. They are maintained as guardians of the true legacy of the past: **the shared greatness of the Age of Man**.
 
+```text
+LEGAL OR INSTITUTIONAL POSSESSION
+≠ APPROPRIATION OF THE PAST
+
+NEODIALECTICAL CUSTODIANSHIP
+= MEMORY + RESPONSIBILITY + SERVICE + TRANSMISSION
+```
+
 The Foundation claims no ownership over human history. It assumes an obligation to preserve, interpret, restore and transmit its highest functions.
 
 ## II. The Crown
 
 The Crown does not represent hereditary privilege, blind obedience or personal superiority.
 
-It represents continuity among generations, sovereignty subjected to responsibility, duty of protection, unity without uniformity, service to the whole and authority that remains legitimate only while protecting life, memory and the Common Good.
+It represents:
+
+* continuity among generations;
+* sovereignty subjected to responsibility;
+* duty of protection;
+* unity without uniformity;
+* a limit against dispersion and capture;
+* service to the whole;
+* and authority that remains legitimate only while protecting life, memory and the Common Good.
 
 ```text
 CROWN WITHOUT SERVICE
@@ -289,11 +305,21 @@ NEODIALECTICAL CROWN
 = RESPONSIBILITY FOR THE WHOLE
 ```
 
+The Crown belongs functionally to whoever bears the weight of answering for the future, not to whoever demands submission.
+
 ## III. The Eagle
 
 The Eagle does not represent conquest, imperial supremacy or a right to prey upon others.
 
-It represents systemic vision, vigilance against capture, long-range memory, protection of the vital territory, decision when the whole is endangered and elevation of consciousness without abandonment of the earth.
+It represents:
+
+* elevated vision of the whole system;
+* vigilance against capture;
+* long-range memory;
+* the capacity to distinguish trajectory and detail;
+* protection of the vital territory;
+* decision when the whole is endangered;
+* and elevation of consciousness without abandonment of the earth.
 
 ```text
 HEIGHT WITHOUT RELATION
@@ -364,7 +390,23 @@ Legitimate construction requires understanding that every transformation modifie
 
 The **Age of Man** is not defined by one nation, race, dynasty, sex, religion or empire.
 
-It is the accumulated human age in which, through contradiction and error, humanity jointly produced art, philosophy, science, technology, law, architecture, music, literature, care, courage, memory, exploration, sacrifice, liberation and increasing forms of self-awareness.
+It is the accumulated human age in which, through contradiction and error, humanity jointly produced:
+
+* art;
+* philosophy;
+* science;
+* technology;
+* law;
+* architecture;
+* music;
+* literature;
+* care;
+* courage;
+* memory;
+* exploration;
+* sacrifice;
+* liberation;
+* and increasing forms of self-awareness.
 
 Its true legacy is not the domination of some over others. It is humanity's distributed capacity, across peoples and generations, to rise beyond mere survival and create shared worlds.
 
@@ -374,17 +416,41 @@ Innova_N receives that creative capacity not to seal it inside a past age, but t
 
 Neodialectical custody does not restore past hierarchies, violence or exclusions unchanged.
 
-It distinguishes living inheritance, dogmatic restoration and nihilistic erasure. Neodialectics opposes both blind restoration and total deletion. It recovers functions, acknowledges harm, preserves genealogies and reintegrates what remains valuable into a new architecture.
+It distinguishes:
+
+```text
+LIVING INHERITANCE
+= HUMAN FUNCTION THAT CAN STILL SERVE THE WHOLE
+
+DOGMATIC RESTORATION
+= REPETITION OF HISTORICAL FORMS WITHOUT REVIEWING THEIR HARM
+
+NIHILISTIC ERASURE
+= DESTRUCTION OF THE PAST UNTIL ITS LEARNING AND GREATNESS ARE LOST
+```
+
+Neodialectics opposes both blind restoration and total deletion. It recovers functions, acknowledges harm, preserves genealogies and reintegrates what remains valuable into a new architecture.
 
 ## VIII. Custody by the Foundation
 
-The Innova_N Foundation shall keep the Crown and Eagle under obligations of non-supremacy, documented genealogy, distinction between symbol and historical form, public traceability, protection against extractive appropriation, openness to reasoned criticism, orientation towards the Common Good and transmission as living heritage.
+The Innova_N Foundation shall keep the Crown and Eagle under the following obligations:
+
+1. never use them to justify supremacy, exclusion or personality cult;
+2. document their genealogy and reinterpretations;
+3. always separate symbol, function and historical form;
+4. subject their public use to traceability and review;
+5. protect them against extractive appropriation, commercial trivialisation or partisan capture;
+6. allow criticism, challenge and reasoned contestation;
+7. orient their meaning towards the Common Good;
+8. transmit them as living heritage rather than an immobile relic.
 
 The Foundation does not keep an external hammer. It preserves and develops Innova_N as Neodialectics' living tool, subject to traceability, joint synthesis and responsibility for its effects upon the whole.
 
 ## IX. Relation to Neo0™
 
-Neo0™ does not receive the Crown and Eagle as ornaments of power. He recognises, recomposes and directs them as functions of the framework:
+Neo0™ does not receive the Crown and Eagle as ornaments of power.
+
+He recognises, recomposes and directs them as functions of the framework:
 
 ```text
 CROWN
@@ -428,7 +494,19 @@ Neo0™ is the ideological, philosophical and teleological originator of the com
 
 ## XI. Open Synthesis
 
-Contributions are invited on the limits between custody and symbolic appropriation, the distinction between archetypal recovery and political restoration, the universal meaning of the Age of Man, historical risks associated with Crown and Eagle, safeguards against authoritarian capture, Innova_N as a living tool rather than the external representation of a hammer, the transformation of memory into an engine of ideas vectorised through joint synthesis, the relation among framework, planet, human life and the fractal organism, and the responsibility of the creative agent integrated into the whole.
+Contributions are invited on:
+
+* the limits between custodianship, ownership and symbolic appropriation;
+* the distinction between archetypal recovery and political restoration;
+* the universal meaning of the Age of Man;
+* historical risks associated with Crown and Eagle;
+* mechanisms to prevent authoritarian, nationalist, racial or commercial capture;
+* Innova_N as a living tool rather than the external representation of a hammer;
+* the transformation of memory into an engine of ideas vectorised through joint synthesis;
+* the relation among framework, planet, human life and the fractal organism;
+* the responsibility of the creative agent integrated into the whole;
+* the relation to Archetypal Refragmentation™, Human Neorenaissance™ and Neodialectical Ideological Reversal™;
+* and criteria for institutional use by the Innova_N Foundation.
 
 Every contribution requires prior reading, genealogy, separation between historical form and archetypal function, traceability, classification, delta and version.
 
