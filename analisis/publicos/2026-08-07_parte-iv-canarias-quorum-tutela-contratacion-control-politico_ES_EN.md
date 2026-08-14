@@ -332,9 +332,11 @@ Si la investigación posterior demuestra conexiones adicionales, se incorporará
 
 ## 1. Why Part IV is a distinct front
 
-The first three parts mainly examine origin, transit, border pressure, state capacity, criminal networks, legal signals and Spain–Morocco relations.
+The first three parts of the series mainly examine origin, transit, border pressure, state capacity, criminal networks, legal signals and Spain–Morocco relations.
 
-Part IV changes the observation point. Once a minor reaches the Canary Islands, another architecture begins:
+Part IV changes the observation point.
+
+Once a minor crosses the border or reaches the Canary Islands, another architecture begins:
 
 ```text
 ORIGIN / ROUTE / BORDER
@@ -354,130 +356,271 @@ INSPECTION / COMPLAINT / JUSTICE
 ADMINISTRATIVE AND POLITICAL RESPONSIBILITY
 ```
 
-This downstream infrastructure is as relevant as the physical border.
+This infrastructure is as relevant as the physical border. The system does not end when a person arrives: the institution, budget and risk change.
 
 ## 2. Quórum Social 77 is not a recent entrant
 
-BOE procurement records document contracts with the Canary administration at least in 2012, 2013 and 2017, for amounts of approximately €1.65 million, €1.94 million and €1.83 million respectively.
+Quórum Social 77's contractual relationship with the Canary administration predates the current migration crisis.
 
-This prevents reducing the relationship to a single government, party or migration episode.
+Documentation published in Spain's Official State Gazette records awards to the association at least in:
 
-EFE reported on 25 July 2025 that Quórum Social 77 had capacity for **1,925 migrant minors**, around **35%** of the 5,484 minors then under Canary guardianship. It also reported that eleven new centres had been awarded to the organisation in 2024 for €6.97 million.
+- **2012**, for monitoring and intervention in foster care, €1,649,950;
+- **2013**, for care of minors with behavioural disorders, €1,935,259;
+- **2017**, for a regional service for minors with behavioural disorders, €1,830,366.
 
-Such concentration makes the organisation a structural node of the reception system.
+This prevents reducing the case to a relationship arising under one government, party or migration episode.
+
+Later expansion does coincide with reactivation of the Canary Route. EFE reported on 25 July 2025 that Quórum Social 77 managed places with capacity for **1,925 migrant minors**, approximately **35%** of the 5,484 minors under guardianship in the official count of 18 July. The same report stated that in 2024 the Canary Government awarded it management of eleven new centres for €6.97 million.
+
+This concentration makes the organisation a structural node of the reception system.
 
 ## 3. Public money and emergency procurement
 
-On 7 July 2025, the Canary Government agenda included authorisation of **€3,552,314** for services provided by Quórum Social 77 to unaccompanied migrant minors during **March 2025 alone**.
+On 7 July 2025, the Canary Government agenda included a proposal to authorise **€3,552,314** corresponding solely to care provided by Quórum Social 77 to unaccompanied migrant minors during **March 2025**.
 
-Cadena SER later reported at least 19 awards since 2020 and stated that most were processed through emergency or negotiated procedures without publicity, citing the State Procurement Platform.
+Cadena SER reported in March 2026 that there had been **at least 19 awards since 2020**, stating that the vast majority were processed through emergency procedures and negotiated procedures without publicity, according to the Public Sector Procurement Platform.
 
-Emergency procurement may be necessary. The systemic risk begins when emergency becomes a durable architecture producing concentration and dependency without proportionately stronger oversight.
+Emergency procurement may be legally necessary when an administration must open places quickly. The systemic problem arises when emergency stops being exceptional and becomes stable architecture.
+
+```text
+REAL EMERGENCY
+→ RAPID PROCUREMENT
+→ TEMPORARY SOLUTION
+
+PROLONGED EMERGENCY
+→ REPEATED AWARDS
+→ PROVIDER CONCENTRATION
+→ LESS COMPETITION
+→ GREATER DEPENDENCY
+→ NEED FOR REINFORCED OVERSIGHT
+```
+
+Contractual speed does not reduce the duty of inspection. It increases it.
 
 ## 4. Police and judicial chronology
 
-The investigation predates the viral image.
+The investigation did not begin with the Instagram capture.
 
-In May 2025, according to EFE, complaints and medical reports contributed to closure of the Fortaleza I centre in Santa Brígida and the arrest of nine workers.
+### May 2025
 
-On 24 July 2025, the Canary Police officially confirmed six searches linked to Quórum Social 77, including centres in Arinaga and Firgas, and two arrests. EFE reported that the judge ordered closure of the Arinaga centre, where 148 minors were housed, as part of an investigation into alleged conduct potentially including injuries, hate offences, failure to prevent offences, offences against moral integrity and threats.
+According to EFE, the Regional Ministry of Social Welfare sent testimony from minors and medical reports to prosecutors. The investigation led to closure of the Fortaleza I centre in Santa Brígida, which served 45 minors, and the arrest of nine employees.
 
-The official police note did not identify the two detainees by name. *El Español* identified them as association president Delia García and centre director Juan Enrique Quintana Ramos; that identification therefore remains a **press attribution**, not a fact originating in the official police note.
+### 24 July 2025
 
-EFE later reported another 2025 search in Puerto del Rosario, Fuerteventura, involving two arrests.
+The Canary Police carried out six entries and searches linked to Quórum Social 77, including centres in Arinaga and Firgas, and made two arrests. The Canary Government officially confirmed the operation and stated that proceedings were under secrecy.
 
-On 3 March 2026, the Canary Police searched a Quórum-managed centre in Puerto de la Cruz and officially confirmed three arrests of former workers. The investigation remained open and under secrecy.
+EFE reported the same day that the judge ordered closure of the Arinaga centre, where 148 minors were housed, in an extension of the investigation into alleged conduct that could include injuries, hate offences, failure to prevent offences, offences against moral integrity and threats.
 
-## 5. Concentration and oversight capacity
+The authorities did not officially publish the names of the two detainees in that note. Media including *El Español* identified association president Delia García and centre director Juan Enrique Quintana Ramos. That identification must therefore remain documented as a **press attribution**, not as information originating in the official Canary Police note.
 
-Where one provider manages a large share of the system, government becomes operationally dependent upon that provider.
+### November 2025
 
-This can create a substitution problem: detecting serious concerns may require closing capacity that an already saturated public network cannot easily replace.
+EFE later reported another search in Puerto del Rosario, Fuerteventura, with the arrest of a deputy director and a worker.
 
-Saturation explains operational pressure. It does not remove the duty of protection.
+### 3 March 2026
+
+The Canary Police searched a centre in Puerto de la Cruz managed by the same entity. The official note confirmed **three arrests of former workers**, indicated that further arrests could occur and expressly stated that **the investigation remained open**.
+
+The sequence demonstrates that the case cannot be treated as an isolated July 2025 story.
+
+## 5. The central problem: concentration and oversight capacity
+
+The institutional question is broader than the criminal responsibility of specific individuals.
+
+If one organisation can manage such a large share of the reception system, the Administration acquires significant operational dependence on it.
+
+That dependence can create a practical conflict:
+
+```text
+DETECT SERIOUS PROBLEMS
+        ↓
+NEED TO REPLACE PLACES
+        ↓
+PUBLIC NETWORK ALREADY SATURATED
+        ↓
+DIFFICULTY CLOSING OR REPLACING THE PROVIDER
+        ↓
+RISK OF STRUCTURAL DEPENDENCY
+```
+
+Canary Islands president Fernando Clavijo stated in July 2025 that with more than 5,000 minors under guardianship it was very difficult for controls to be sufficient. That statement explains an operational limitation, but it does not remove the duty of protection.
+
+Saturation must be recorded as a **design risk factor**, not as an automatic excuse for possible violations.
 
 ## 6. PSOE: proven link, prohibited inference
 
-The political link visible in the viral image is real but limited.
+The viral image introduces PSOE into the narrative.
 
-In April 2022, Juan Enrique Quintana Ramos appeared as **Secretary for Social Action** in the newly elected local PSOE executive in Gáldar. In July 2025, *El Español* described him as a Socialist member or affiliate and director of Quórum centres.
+The documentation located supports one concrete but limited political link:
 
-This does **not** establish that the PSOE controlled Quórum, influenced particular awards, knew of alleged abuses, received economic benefit or participated in a PSOE–Quórum network.
+- in April 2022, the new local PSOE executive in Gáldar included **Juan Enrique Quintana Ramos** as **Secretary for Social Action**;
+- in July 2025, *El Español* described him as a Socialist member or affiliate and as director of Quórum Social 77 centres.
 
-The organisation's documented contracting relationship spans multiple political periods. Any allegation of preferential treatment would require procurement files, evaluation records, conflict-of-interest declarations and evidence of intervention in specific awards.
+This documents an organisational or membership relationship at a particular point in time.
+
+It does not by itself establish:
+
+- that PSOE controlled Quórum Social 77;
+- that it ordered decisions inside the centres;
+- that it influenced specific awards;
+- that it received economic benefits;
+- that it knew of the alleged events under investigation;
+- or that a PSOE–Quórum network exists.
+
+In addition, Quórum's documented contracts with the Canary Islands span administrations and political periods before and after. Reducing the architecture to “a PSOE NGO” would therefore be documentarily incorrect.
+
+The legitimate question is different:
+
+> Did conflicts of interest, revolving doors, party influence or preferential treatment exist in any specific award?
+
+That question requires procurement files, contracting bodies, committees, technical reports, incompatibility declarations and corporate or associative relations. It cannot be answered through isolated political affiliation.
 
 ## 7. Morocco: systemic continuity, no demonstrated organisational link
 
-Parts II and III examine Morocco, routes, state control and Ceuta.
+Parts II and III examine routes, networks, Moroccan control capacity, Ceuta and the bilateral relationship.
 
-Part IV has located **no evidence connecting Quórum Social 77 to the Moroccan Government, Moroccan security services or the smuggling networks described in the previous parts**.
+Part IV **has located no evidence connecting Quórum Social 77 with the Moroccan Government, Moroccan services or the criminal networks described in Dakhla and Ceuta**.
 
-The current connection is systemic and downstream: routes and arrivals create guardianship demand in the Canary Islands, which is then translated into public procurement, placements and oversight.
+The current connection is systemic:
 
-System continuity must not be confused with coordination between actors.
+```text
+PRESSURE AND ROUTES IN THE MOROCCO–CANARY ISLANDS SPACE
+        ↓
+ARRIVALS
+        ↓
+CANARY GOVERNMENT GUARDIANSHIP
+        ↓
+PROCUREMENT OF PLACES
+        ↓
+SERVICE PROVIDERS
+        ↓
+OVERSIGHT AND PROTECTION
+```
 
-## 8. A minor is not a budgetary unit
+Confusing system continuity with coordination among actors would create an unproven allegation.
 
-A place is not protection. A contract is not verified care. A formal inspection is not automatically real safety.
+The new front extends the analysis downstream without manufacturing an organisational connection unsupported by the sources.
 
-The central indicator must include treatment, complaints, detection time, inspection capacity and the difficulty of replacing a provider that controls a critical share of capacity.
+## 8. A minor cannot become a budgetary unit
 
-## 9. Evidence layers
+Migrant minors are in a position of exceptional vulnerability:
+
+- family separation;
+- language barriers;
+- total dependence on the guardianship system;
+- limited ability to report abuse;
+- risk of stigmatisation;
+- and strong asymmetry relative to workers, organisations and administrations.
+
+When the system grows through emergency measures, each place may end up being treated administratively as a unit of capacity.
+
+But public guardianship is not the storage of places.
+
+```text
+PLACE
+≠ PROTECTION
+
+CONTRACT
+≠ VERIFIED CARE
+
+FORMAL INSPECTION
+≠ REAL SAFETY
+```
+
+The central indicator should not be only how many people can be housed, but how they are treated, what complaints arise, how long the system takes to detect them and what happens when a provider concentrates too much capacity to be replaced quickly.
+
+## 9. What is demonstrated and what is not
 
 ### Demonstrated through official or strong documentary sources
 
-- long-term public contracting with Quórum;
-- major participation in the migrant-minor reception network;
-- closures, searches and arrests connected with Quórum-managed centres;
-- continuation of Operation Cábila in March 2026;
-- Quintana's documented 2022 role in the local PSOE executive;
-- multi-million-euro public awards and expenditure authorisations.
+- Quórum Social 77 has maintained contractual relations with the Canary administration for more than a decade.
+- It managed a very significant share of the migrant-minor reception network.
+- Closures, searches and arrests occurred in connection with centres managed by the organisation.
+- Operation Cábila remained open in March 2026.
+- Juan Enrique Quintana Ramos appeared in 2022 as Secretary for Social Action of the local Socialist executive in Gáldar.
+- Multi-million-euro public awards and expenditure authorisations exist.
 
-### Reported by press and requiring fuller primary-file reconstruction
+### Documented by the press and pending completion with primary files
 
-- identities of particular July 2025 detainees;
-- aggregated count of at least 19 awards since 2020;
-- exact share of emergency procurement;
-- current capacity managed by Quórum after closures.
+- identity of certain detainees from July 2025;
+- aggregate figure of at least 19 awards since 2020;
+- exact proportion of emergency procurement;
+- complete evolution of capacity managed by Quórum after the closures.
 
 ### Not demonstrated
 
 - criminal responsibility of the organisation as a whole;
-- PSOE responsibility for alleged conduct;
-- politically manipulated procurement;
-- Quórum coordination with Morocco;
-- Quórum links to migrant-smuggling networks;
-- a PSOE–Morocco network through this organisation.
+- political responsibility of PSOE for the investigated conduct;
+- awards manipulated through party affiliation;
+- coordination between Quórum and the Moroccan State;
+- a connection between Quórum and migrant-smuggling networks;
+- existence of a PSOE–Morocco network through this organisation.
 
-## 10. The verified political problem
+## 10. The real political problem
 
-A conspiracy is not required for a serious structural problem to exist.
+The verifiable political dimension does not require a conspiracy.
+
+There is already a sufficient problem:
 
 ```text
 EXTRAORDINARY MIGRATION PRESSURE
 + OVERLOADED REGIONAL GUARDIANSHIP
 + REPEATED EMERGENCY PROCUREMENT
-+ PROVIDER CONCENTRATION
++ CONCENTRATION IN FEW PROVIDERS
 + LIMITED INSPECTION CAPACITY
 + MINORS WITH LOW DEFENSIVE POWER
 = SYSTEMIC PROTECTION RISK
 ```
 
-Public accountability requires reconstruction of who inspected what, when, how often, which incidents were detected, which complaints were received, which payments were authorised and how dependent the system had become upon the provider under investigation.
+Public responsibility consists in designing a system that continues protecting rights even when demand overwhelms ordinary infrastructure.
+
+The existence of a contract is not enough.
+
+It must be possible to answer:
+
+- who inspected;
+- when;
+- how often;
+- which incidents were detected;
+- which complaints were received;
+- which sanctions were applied;
+- which payments were authorised;
+- and what operational dependence existed on the provider under investigation.
 
 ## 11. Next documentary threshold
 
-The next phase should reconstruct all Quórum contracts, annual amounts, procedures, contracting bodies, places per centre, inspections before May 2025, prior complaints and medical reports, the complete Operation Cábila chronology, procedural status of detainees, conflicts of interest, total public funding, substitution mechanisms and any later documentary evidence of links to parties, intermediaries or Moroccan actors.
+The next phase should reconstruct:
 
-The purpose is not to confirm a predetermined theory. It is to reconstruct the architecture and let evidence determine the connections.
+1. all contracts and assignments to Quórum Social 77 since 2009;
+2. annual amount, procedure and awarding body;
+3. number of contracted places per centre;
+4. inspections and records before May 2025;
+5. complaints, grievances and medical reports prior to closure of Fortaleza I;
+6. complete chronology of Operation Cábila;
+7. procedural status of every detainee, avoiding conversion of investigation into conviction;
+8. composition of contracting bodies and possible incompatibilities;
+9. total public funding received by the organisation;
+10. mechanisms for replacing an operator when it concentrates a critical share of the network;
+11. relationship among arrival of minors, urgent opening of centres and procurement;
+12. any documented link —if one appears— with parties, intermediary networks or Moroccan actors.
+
+The priority is not to confirm a prior theory.
+
+It is to reconstruct the architecture and allow the evidence to determine which connections actually exist.
 
 ## 12. Provisional synthesis
 
-The viral capture does not document a new August 2026 arrest. It recycles a July 2025 story.
+The viral capture does not reveal in August 2026 a new arrest of Quórum's president and director: it recycles a July 2025 story.
 
-Yet it points to a case that remains relevant because the investigation continued in 2026 and because Quórum held an important position in a saturated public-protection network.
+But it leads to a case that remains documentarily relevant because the police investigation continued in 2026 and because Quórum occupied an important position within a public network under extraordinary saturation.
 
-The proper new front is therefore not yet “Morocco–PSOE”. It is the downstream architecture through which migration pressure becomes public guardianship, emergency procurement, provider concentration, oversight capacity, individual political connections and systemic protection risk.
+The front that should be opened is not yet “Morocco–PSOE”.
+
+It is more precise and verifiable:
+
+> **how migration pressure, once on Spanish territory, becomes public guardianship, emergency contracts, concentration of operators, inspection capacity, individual political connections and risk of capture or failure of the protection system.**
+
+If subsequent investigation demonstrates additional connections, they will be incorporated with their exact level of evidence.
 
 ---
 
