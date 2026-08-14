@@ -224,10 +224,7 @@
   - 9: párrafos ES=4 EN=3
 - `propuestas/sintesis-abierta/MEDICI_MOTOR_CALCULO_PLATAFORMAS_V0_1_ES_EN.md` · ES=315 · EN=282 · ratio=0.90
   - 9: párrafos ES=2 EN=1
-- `propuestas/sintesis-abierta/NEOCRONOS_RETORNO_TEMPORAL_TOKENIZACION_ES_EN.md` · ES=504 · EN=460 · ratio=0.91
-  - 3: lists ES=9 EN=0
-  - 5: lists ES=12 EN=0
-  - 6: lists ES=7 EN=0
+- `propuestas/sintesis-abierta/NEOCRONOS_RETORNO_TEMPORAL_TOKENIZACION_ES_EN.md` · ES=504 · EN=502 · ratio=1.00
   - 12: párrafos ES=2 EN=3
 - `propuestas/sintesis-abierta/NEOCRONOS_UPGRADE_ENTRADA_PANEL_TRAZA_ES_EN.md` · ES=515 · EN=555 · ratio=1.08
   - Fases de implementación: párrafos ES=6 EN=7
@@ -558,7 +555,7 @@
 | `propuestas/sintesis-abierta/MEDICI_CREDITOS_PLATAFORMAS_COMPENSACION_ES_EN.md` | **REVISAR** | 9: párrafos ES=4 EN=3 |
 | `propuestas/sintesis-abierta/MEDICI_MOTOR_CALCULO_PLATAFORMAS_V0_1_ES_EN.md` | **REVISAR** | 9: párrafos ES=2 EN=1 |
 | `propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Neoaxiomas™ · Síntesis Abierta |
-| `propuestas/sintesis-abierta/NEOCRONOS_RETORNO_TEMPORAL_TOKENIZACION_ES_EN.md` | **REVISAR** | 3: lists ES=9 EN=0; 5: lists ES=12 EN=0; 6: lists ES=7 EN=0; 12: párrafos ES=2 EN=3 |
+| `propuestas/sintesis-abierta/NEOCRONOS_RETORNO_TEMPORAL_TOKENIZACION_ES_EN.md` | **REVISAR** | 12: párrafos ES=2 EN=3 |
 | `propuestas/sintesis-abierta/NEOCRONOS_UPGRADE_ENTRADA_PANEL_TRAZA_ES_EN.md` | **REVISAR** | Fases de implementación: párrafos ES=6 EN=7 |
 | `propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md` | **REVISAR** | 12: párrafos ES=3 EN=4 |
 | `propuestas/sintesis-abierta/PARTICIPACION_Y_ADHESIONES_ES_EN.md` | **REVISAR** | Resultado esperado: párrafos ES=1 EN=0 |
