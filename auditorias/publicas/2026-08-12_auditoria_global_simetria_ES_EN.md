@@ -199,9 +199,8 @@
 - `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` · ES=598 · EN=493 · ratio=0.82
   - 3: lists ES=6 EN=0
   - Abrir una auditoría nueva: párrafos ES=3 EN=4
-- `auditorias/publicas/README.md` · ES=823 · EN=129 · ratio=0.16
-  - volumen EN/ES=0.16 (129/823)
-  - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, ''), (2, ''), (2, ''), (2, '')] EN=[]
+- `auditorias/publicas/README.md` · ES=493 · EN=565 · ratio=1.15
+  - 4 · Privacidad, límites y reapertura: párrafos ES=2 EN=3
 - `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · ES=1606 · EN=1537 · ratio=0.96
   - V: párrafos ES=4 EN=3
 - `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` · ES=1822 · EN=1789 · ratio=0.98
@@ -613,7 +612,7 @@
 | `auditorias/publicas/2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: ES / HECHO VERIFICADO / PrepFort, 2077AI y otros nombres / 11 · Protocolo de aportación / EN / VERIFIED FACT / PrepFort, 2077AI and other names / 11 · Contribution protocol |
 | `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: ES / EN |
 | `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **REVISAR** | 3: lists ES=6 EN=0; Abrir una auditoría nueva: párrafos ES=3 EN=4 |
-| `auditorias/publicas/README.md` | **REVISAR** | volumen EN/ES=0.16 (129/823); esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, ''), (2, ''), (2, ''), (2, '')] EN=[] |
+| `auditorias/publicas/README.md` | **REVISAR** | 4 · Privacidad, límites y reapertura: párrafos ES=2 EN=3 |
 | `difusion/2026-08-09_marco_tanda_01_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Difusión del marco · tanda 01 · 2026-08-09 |
 | `difusion/2026-08-09_marco_tanda_02_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Difusión del marco · tanda 02 · 2026-08-09 |
 | `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` | **OK** |  |
