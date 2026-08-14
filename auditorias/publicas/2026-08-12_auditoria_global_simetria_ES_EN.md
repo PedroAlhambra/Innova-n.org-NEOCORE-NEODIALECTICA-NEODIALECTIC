@@ -240,9 +240,7 @@
   - Relación con Starkdr e Ingellus: code ES=1 EN=0
   - Relación con Starkdr e Ingellus: párrafos ES=2 EN=1
   - Regla epistemológica: párrafos ES=2 EN=1
-- `obras/idea/STARKDR_GRITAX_HISTORIA_DE_LAS_ESPECIES_ES_EN.md` · ES=604 · EN=481 · ratio=0.80
-  - volumen EN/ES=0.80 (481/604)
-  - Rama especulativa posterior · UMBRAL-X: párrafos ES=3 EN=2
+- `obras/idea/STARKDR_GRITAX_HISTORIA_DE_LAS_ESPECIES_ES_EN.md` · ES=604 · EN=580 · ratio=0.96
   - Leer IDEA: párrafos ES=1 EN=0
 - `obras/umbral-x/00_el_dia_que_les_dimos_armas_antes_que_voz_ES_EN.md` · ES=1173 · EN=1279 · ratio=1.09
   - Nodo abierto: párrafos ES=3 EN=4
@@ -616,7 +614,7 @@
 | `obras/idea/PRESS_KIT_ES_EN.md` | **REVISAR** | Cita editorial recomendada: lists ES=0 EN=6; Cita editorial recomendada: párrafos ES=2 EN=5 |
 | `obras/idea/RANSOL_RED_DEL_TIEMPO_ARBOLES_INVISIBLES_ETERNOS_ES_EN.md` | **REVISAR** | Ransol™: code ES=1 EN=0; La Red del Tiempo: code ES=2 EN=0; La Red del Tiempo: párrafos ES=3 EN=1; Árboles Invisibles Eternos™: párrafos ES=3 EN=2; Relación con Starkdr e Ingellus: code ES=1 EN=0; Relación con Starkdr e Ingellus: párrafos ES=2 EN=1; Regla epistemológica: párrafos ES=2 EN=1 |
 | `obras/idea/README.md` | **OK** |  |
-| `obras/idea/STARKDR_GRITAX_HISTORIA_DE_LAS_ESPECIES_ES_EN.md` | **REVISAR** | volumen EN/ES=0.80 (481/604); Rama especulativa posterior · UMBRAL-X: párrafos ES=3 EN=2; Leer IDEA: párrafos ES=1 EN=0 |
+| `obras/idea/STARKDR_GRITAX_HISTORIA_DE_LAS_ESPECIES_ES_EN.md` | **REVISAR** | Leer IDEA: párrafos ES=1 EN=0 |
 | `obras/idea/assets/README.md` | **OK** |  |
 | `obras/umbral-x/00_el_dia_que_les_dimos_armas_antes_que_voz_ES_EN.md` | **REVISAR** | Nodo abierto: párrafos ES=3 EN=4 |
 | `obras/umbral-x/README.md` | **REVISAR** | Nodos relacionados: párrafos ES=1 EN=2 |
