@@ -9,7 +9,7 @@
 
 - Markdown activo examinado / Active Markdown scanned: **291**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **211**.
-- Fallos estructurales divididos / Split structural failures: **125**.
+- Fallos estructurales divididos / Split structural failures: **124**.
 - Fallos de marcadores / Marker failures: **1**.
 - Superficies pareadas para revisión / Paired surfaces for review: **24**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -87,9 +87,6 @@
   - 10: párrafos ES=4 EN=5
 - `analisis/publicos/2026-08-09_maxproc_registro_entrada_trazabilidad_derivacion_herosion_ES_EN.md` · ES=754 · EN=760 · ratio=1.01
   - 12: párrafos ES=4 EN=5
-- `analisis/publicos/2026-08-09_micromaquinas_plagas_escala_invisible_estado_real_ES_EN.md` · ES=171 · EN=97 · ratio=0.57
-  - volumen EN/ES=0.57 (97/171)
-  - esqueleto de encabezados distinto ES=[(2, '')] EN=[]
 - `analisis/publicos/2026-08-09_prueba_operativa_minima_revision_ia_escalable_ES_EN.md` · ES=555 · EN=541 · ratio=0.97
   - 8: párrafos ES=1 EN=2
 - `analisis/publicos/2026-08-10_LXII_juego_sintesis_honor_starkdr_ransol_arboles_tiempo_ES_EN.md` · ES=526 · EN=159 · ratio=0.30
@@ -541,7 +538,7 @@
 | `analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-09_guerra_fundador_contra_idiotez_devolucion_tiempo_bien_comun_ES_EN.md` | **REVISAR** | 10: párrafos ES=4 EN=5 |
 | `analisis/publicos/2026-08-09_maxproc_registro_entrada_trazabilidad_derivacion_herosion_ES_EN.md` | **REVISAR** | 12: párrafos ES=4 EN=5 |
-| `analisis/publicos/2026-08-09_micromaquinas_plagas_escala_invisible_estado_real_ES_EN.md` | **REVISAR** | volumen EN/ES=0.57 (97/171); esqueleto de encabezados distinto ES=[(2, '')] EN=[] |
+| `analisis/publicos/2026-08-09_micromaquinas_plagas_escala_invisible_estado_real_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-09_prueba_operativa_minima_revision_ia_escalable_ES_EN.md` | **REVISAR** | 8: párrafos ES=1 EN=2 |
 | `analisis/publicos/2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-10_LXII_juego_sintesis_honor_starkdr_ransol_arboles_tiempo_ES_EN.md` | **REVISAR** | volumen EN/ES=0.30 (159/526); esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, ''), (2, ''), (2, '')] EN=[] |
