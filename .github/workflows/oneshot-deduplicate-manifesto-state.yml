@@ -1,0 +1,135 @@
+name: oneshot-deduplicate-manifesto-state
+
+on:
+  push:
+    paths:
+      - '.github/workflows/oneshot-deduplicate-manifesto-state.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: oneshot-deduplicate-manifesto-state
+  cancel-in-progress: false
+
+jobs:
+  deduplicate:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Remove redundant MANIFESTOS_CURRENT blocks and patch synchroniser
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          ROOT = Path('.').resolve()
+          START = '<!-- MANIFESTOS_CURRENT_START -->'
+          END = '<!-- MANIFESTOS_CURRENT_END -->'
+
+          changed=[]
+          removed=0
+          for p in sorted(ROOT.rglob('README*.md')):
+              rel=p.relative_to(ROOT).as_posix()
+              if '.git' in p.parts or rel.startswith('wiki-legacy-archive/'):
+                  continue
+              text=p.read_text(encoding='utf-8', errors='replace')
+              old=text
+              text,n=re.subn(r'\n*'+re.escape(START)+r'.*?'+re.escape(END)+r'\n*','\n',text,flags=re.S)
+              if n:
+                  removed += n
+                  text=re.sub(r'\n{3,}','\n\n',text).rstrip()+'\n'
+              if text != old:
+                  p.write_text(text,encoding='utf-8')
+                  changed.append(rel)
+
+          if removed == 0:
+              raise SystemExit('No MANIFESTOS_CURRENT blocks found; refusing empty cleanup')
+
+          # Permanent synchroniser: latest manifesto + compact manifesto index are sufficient.
+          sync = ROOT/'.github/scripts/sync_open_synthesis_manifestos.py'
+          s=sync.read_text(encoding='utf-8')
+          s=s.replace("CURRENT_START='<!-- MANIFESTOS_CURRENT_START -->'; CURRENT_END='<!-- MANIFESTOS_CURRENT_END -->'\n",'')
+          s=re.sub(r"\ndef current_block\(f\):\n.*?\n\ndef compact_network_block\(f\):", "\n\ndef compact_network_block(f):", s, count=1, flags=re.S)
+          s=s.replace("    s=replace_block(s,CURRENT_START,CURRENT_END,current_block(f))\n",'')
+          if 'MANIFESTOS_CURRENT_START' in s or 'current_block(f)' in s:
+              raise SystemExit('sync_open_synthesis_manifestos.py still contains MANIFESTOS_CURRENT generation logic')
+          sync.write_text(s,encoding='utf-8')
+
+          # Permanent documentary guard: a living README may not reintroduce this redundant state surface.
+          audit=ROOT/'.github/scripts/audit_markdown_links_readmes.py'
+          a=audit.read_text(encoding='utf-8')
+          if 'redundant_manifestos_current=[]' not in a:
+              needle="stale_current_nav=[]\n"
+              block="redundant_manifestos_current=[]\nfor f in readmes:\n    text=f.read_text(encoding='utf-8',errors='replace')\n    if '<!-- MANIFESTOS_CURRENT_START -->' in text or '<!-- MANIFESTOS_CURRENT_END -->' in text:\n        redundant_manifestos_current.append(f.relative_to(root).as_posix())\nif redundant_manifestos_current:\n    critical.append('README con bloque redundante MANIFESTOS_CURRENT: '+', '.join(redundant_manifestos_current)+' / README with redundant MANIFESTOS_CURRENT block: '+', '.join(redundant_manifestos_current))\n\nstale_current_nav=[]\n"
+              if needle not in a:
+                  raise SystemExit('Cannot install MANIFESTOS_CURRENT guard')
+              a=a.replace(needle,block,1)
+          if "Bloques redundantes MANIFESTOS_CURRENT encontrados" not in a:
+              needle="    f'- Bloques legacy NEO_CURRENT_NAV encontrados en README: **{len(stale_current_nav)}**.',\n"
+              add=needle+"    f'- Bloques redundantes MANIFESTOS_CURRENT encontrados en README: **{len(redundant_manifestos_current)}**.',\n"
+              if needle not in a: raise SystemExit('Cannot add ES MANIFESTOS_CURRENT metric')
+              a=a.replace(needle,add,1)
+          if "Redundant MANIFESTOS_CURRENT blocks found" not in a:
+              needle="    f'- Legacy NEO_CURRENT_NAV blocks found in README files: **{len(stale_current_nav)}**.',\n"
+              add=needle+"    f'- Redundant MANIFESTOS_CURRENT blocks found in README files: **{len(redundant_manifestos_current)}**.',\n"
+              if needle not in a: raise SystemExit('Cannot add EN MANIFESTOS_CURRENT metric')
+              a=a.replace(needle,add,1)
+          if "Los README vivos no deben duplicar la frontera mediante `MANIFESTOS_CURRENT`" not in a:
+              needle="    '- Los README vivos no pueden conservar bloques `NEO_CURRENT_NAV`: la frontera numérica pertenece a los índices canónicos dinámicos.',\n"
+              add=needle+"    '- Los README vivos no deben duplicar la frontera mediante `MANIFESTOS_CURRENT`: el bloque de último manifiesto y el índice canónico compacto son suficientes.',\n"
+              if needle not in a: raise SystemExit('Cannot add ES dedup rule')
+              a=a.replace(needle,add,1)
+          if "Living README files must not duplicate the frontier through `MANIFESTOS_CURRENT`" not in a:
+              needle="    '- Living README files may not retain `NEO_CURRENT_NAV` blocks: the numerical frontier belongs to dynamic canonical indexes.',\n"
+              add=needle+"    '- Living README files must not duplicate the frontier through `MANIFESTOS_CURRENT`: the latest-manifesto block and compact canonical index are sufficient.',\n"
+              if needle not in a: raise SystemExit('Cannot add EN dedup rule')
+              a=a.replace(needle,add,1)
+          audit.write_text(a,encoding='utf-8')
+
+          leftovers=[]
+          for p in sorted(ROOT.rglob('README*.md')):
+              rel=p.relative_to(ROOT).as_posix()
+              if '.git' in p.parts or rel.startswith('wiki-legacy-archive/'):
+                  continue
+              t=p.read_text(encoding='utf-8', errors='replace')
+              if START in t or END in t:
+                  leftovers.append(rel)
+          if leftovers:
+              raise SystemExit('MANIFESTOS_CURRENT remains in living README: '+', '.join(leftovers))
+
+          print('MANIFESTOS_CURRENT_REMOVED',removed)
+          print('README_CHANGED',len(changed))
+          for x in changed: print('CHANGED',x)
+          print('POSTCHECK OK: latest-manifesto + compact manifesto index remain; redundant current-state surface retired')
+          PY
+
+      - name: Re-run documentary audits
+        shell: bash
+        run: |
+          set -euo pipefail
+          python .github/scripts/audit_markdown_links_readmes.py
+          python .github/scripts/audit_es_en_parity.py
+          python .github/scripts/audit_manifesto_bilingual_structure.py
+          python .github/scripts/audit_relations_neocore.py
+          python .github/scripts/audit_global_bilingual_symmetry.py
+          grep -F '**Estado / Status:** **OK**' auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md
+          grep -F '**Recortes/materialmente asimétricos para revisión:** 0' auditorias/publicas/2026-08-09_auditoria_paridad_ES_EN_manifiestos_articulos.md
+          grep -F '**REVISAR / REVIEW:** 0' auditorias/publicas/2026-08-12_auditoria_estructura_bilingue_manifiestos_ES_EN.md
+
+      - name: Commit cleanup and remove this one-shot
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git rm .github/workflows/oneshot-deduplicate-manifesto-state.yml
+          git add -A
+          git commit -m 'docs: deduplicar estado vivo de manifiestos en README'
+          git pull --rebase origin main
+          git push origin main
