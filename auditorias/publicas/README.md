@@ -1,4 +1,11 @@
 
+## Actualización 2026-08-14 · IA, libros y arquitectura sociotécnica
+
+- [Auditoría · escaneo destructivo y preservación cultural](./2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md)
+- [Issue #144 · aportes y evidencia](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/144)
+- [Síntesis positiva #145 · bibliotecas y entrenamiento desde cero](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/145)
+- [Recalculo #146 · quejas sobre IA y arquitectura sociotécnica](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/146)
+
 ## Actualización 2026-08-09 · DistroKid / Spotify
 
 - [Ticket 4499471 · auditoría de royalty routing y catálogo](./2026-08-09_distrokid_ticket_4499471_royalty_routing_ES_EN.md)
@@ -39,7 +46,7 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 # Public Audits · Leónidas™
 
 **Innova_N · NEOCore™ · Neodialectica Framework™ / Network**  
-**Estado / Status:** portal operativo público · 2026-08-09  
+**Estado / Status:** portal operativo público · 2026-08-14  
 **Genealogía del marco / Framework genealogy:** desde / since 2021
 
 > **Los manifiestos formulan arquitectura y principios. Las auditorías muestran qué ocurre cuando esa arquitectura entra en contacto con problemas reales. Ambas capas son principales.**  
@@ -129,6 +136,18 @@ Audita públicamente la dependencia del marco respecto de Neo0, la carga de crea
 
 La propia conducta del fundador permanece abierta a crítica y corrección.
 
+## 5. IA · escaneo destructivo · destrucción de libros · preservación cultural
+
+**Issue de aportación:** [#144 · IA, escaneo destructivo y destrucción de libros](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/144)
+
+- [Auditoría bilingüe principal](./2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md)
+- [#145 · Bibliotecas, preservación y entrenamiento desde cero](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/145)
+- [#146 · Quejas sobre IA actual, arquitectura sociotécnica y herencia pre-neodialéctica](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/146)
+- [Recalculo sociotécnico ES/EN](../../analisis/publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md)
+- [Caso Anthropic previo](../../analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
+
+**Estado documentado:** Anthropic es el caso de destrucción física verificado en esta versión. Otros laboratorios, intermediarios y compradores quedan clasificados según evidencia; uso de libros no se confunde con destrucción física. El caso incorpora además una auditoría de coherencia entre principios éticos declarados y prácticas documentadas, sin atribuir mala fe o intención de dominio sin evidencia.
+
 ---
 
 ## Abrir una Auditoría Pública nueva
@@ -188,6 +207,9 @@ Public Audits are a primary operational layer of the framework. Current contribu
 - **Amazon KDP / Author Central / IDEA:** [Issue #70](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)
 - **Repository / Wiki / README / automation integrity:** [Issue #71](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/71)
 - **Founder Audit™:** [Issue #68](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/68)
+- **AI / destructive book scanning / cultural preservation:** [Issue #144](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/144) · [main audit](./2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md)
+- **Libraries / preservation / training from scratch:** [Issue #145](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/145)
+- **AI complaints / sociotechnical architecture / pre-Neodialectical legacy:** [Issue #146](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/146) · [recalculation](../../analisis/publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md)
 - **Leónidas™ architecture:** [Issue #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)
 
 Any external contributor may propose a new audit through the GitHub Public Audit template. Admission creates an examinable object; it does not validate an allegation. Facts, testimony, inference, hypotheses, contradictory evidence and pending matters remain separated.
