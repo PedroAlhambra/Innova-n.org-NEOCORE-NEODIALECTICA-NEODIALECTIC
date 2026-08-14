@@ -31,15 +31,8 @@ Esta página referencia las principales superficies públicas sin duplicar sus c
 - [Registro de entrada trazable](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) — procedencia de aportes.
 - [Leónidas™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) — entrada de problemas y auditoría abierta sin confundir admisión con validación.
 - [Issues](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues) — superficie viva de contraste.
-
-<!-- NEO_GENEALOGY_RADAR_START -->
-
-- [NeoGenealogía™ / NeoGenealogy™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md) — atribución, clasificación y memoria de antecedentes, convergencias y contraejemplos / attribution, classification and memory of antecedents, convergences and counterexamples.
-- [RADAR-Π™ / Dialectical Antecedents and Recurring Archetypes Radar](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md) — detector activo y cola de señales / active detector and signal intake · [#137](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/137) · [#138](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/138).
-
-<!-- NEO_GENEALOGY_RADAR_END -->
-
----
+- [NeoGenealogía™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md) — atribución, clasificación y memoria de antecedentes, convergencias y contraejemplos.
+- [RADAR-Π™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md) — detector activo y cola de señales · [#137](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/137) · [#138](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/138).
 
 ## Análisis, evidencia y auditorías
 
@@ -84,7 +77,7 @@ This page references the principal public surfaces without duplicating their con
 ## Documentary core
 
 - [Root README](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/README.md) — main documentary gateway.
-- [LEEME](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/LEEME.md) — extensive Spanish entry.
+- [LEEME](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/LEEME.md) — extensive Spanish-language entry.
 - [PORTADA](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/PORTADA.md) / [COVER](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/COVER.md) — conceptual entry projection.
 - [PREFACIO](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/PREFACIO.md) / [FOREWORD](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/FOREWORD.md) — reading context.
 
@@ -92,7 +85,7 @@ This page references the principal public surfaces without duplicating their con
 
 - [Manifestos](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/README.md) — public pillars and canonical navigation.
 - [Neoaxioms™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/neoaxiomas/README.md) — open and revisable axiomatic layer.
-- [Historical fragments ES](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/tree/main/fragmentos) / [EN](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/tree/main/fragments) — genealogical memory and historical sources.
+- [Historical fragments ES](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/tree/main/fragmentos) / [EN](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/tree/main/fragments) — earlier genealogical memory and historical sources.
 - [Manifestos ↔ applied-work map](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) — relations among principles, cases, works, analyses and audits.
 
 ## Synthesis and participation
@@ -103,6 +96,8 @@ This page references the principal public surfaces without duplicating their con
 - [Traceable entry register](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) — contribution provenance.
 - [Leónidas™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) — problem intake and open audit without confusing admission with validation.
 - [Issues](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues) — living challenge surface.
+- [NeoGenealogy™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md) — attribution, classification and memory of antecedents, convergences and counterexamples.
+- [RADAR-Π™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md) — active detector and signal queue · [#137](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/137) · [#138](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/138).
 
 ## Analyses, evidence and audits
 
@@ -123,7 +118,7 @@ This page references the principal public surfaces without duplicating their con
 
 - [Projection](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/proyeccion/README.md)
 - [WEB4™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/web4/README.md)
-- [WEB4™ · HTML front page](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/web4/index.html)
+- [WEB4™ · HTML home](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/web4/index.html)
 - [Announcements and outreach](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/tree/main/anuncios)
 - [innova-n.org](https://innova-n.org)
 
@@ -136,4 +131,4 @@ This page references the principal public surfaces without duplicating their con
 
 ## Rule
 
-The Wiki references. Canonical indexes enumerate. Documents develop. Commits preserve change. Issues open contradiction. None of these surfaces alone substitutes for the whole organism.
+The Wiki references. Canonical indexes enumerate. Documents develop. Commits preserve change. Issues open contradiction. None of these surfaces alone replaces the complete organism.
