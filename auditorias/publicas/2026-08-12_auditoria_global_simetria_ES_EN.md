@@ -414,9 +414,8 @@
   - Regla de apertura permanente: párrafos ES=5 EN=6
 - `proyeccion/2026-08-11_delta_web4_neocore_patrimonio_comun_aprendizaje_creacion_ES_EN.md` · ES=682 · EN=663 · ratio=0.97
   - 10: párrafos ES=3 EN=2
-- `proyeccion/2026-08-13_DIRECCION_WEB4_NEOCRONOS_AGUILA_ES_EN.md` · ES=552 · EN=149 · ratio=0.27
-  - volumen EN/ES=0.27 (149/552)
-  - esqueleto de encabezados distinto ES=[(3, '1'), (3, '2'), (3, '3'), (3, '4'), (3, '5'), (3, '6'), (3, '7'), (3, '8')] EN=[(3, ''), (3, '')]
+- `proyeccion/2026-08-13_DIRECCION_WEB4_NEOCRONOS_AGUILA_ES_EN.md` · ES=552 · EN=561 · ratio=1.02
+  - 8: párrafos ES=5 EN=4
 - `proyeccion/NEOCORE_7_2_DELTA_ES_EN.md` · ES=224 · EN=255 · ratio=1.14
   - 5: párrafos ES=1 EN=3
 - `proyeccion/NEOCORE_7_2_EXTERNAL_REVIEW_BRIEF_ES_EN.md` · ES=498 · EN=512 · ratio=1.03
@@ -726,7 +725,7 @@
 | `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md` | **REVISAR** | Para qué sirve: lists ES=7 EN=0; Lo que NO significa: lists ES=7 EN=0; Genealogía de derivaciones: code ES=1 EN=0; Seguir la evolución: párrafos ES=1 EN=2 |
 | `propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_365_DIAS_ES_EN.md` | **REVISAR** | Regla de apertura permanente: párrafos ES=5 EN=6 |
 | `proyeccion/2026-08-11_delta_web4_neocore_patrimonio_comun_aprendizaje_creacion_ES_EN.md` | **REVISAR** | 10: párrafos ES=3 EN=2 |
-| `proyeccion/2026-08-13_DIRECCION_WEB4_NEOCRONOS_AGUILA_ES_EN.md` | **REVISAR** | volumen EN/ES=0.27 (149/552); esqueleto de encabezados distinto ES=[(3, '1'), (3, '2'), (3, '3'), (3, '4'), (3, '5'), (3, '6'), (3, '7'), (3, '8')] EN=[(3, ''), (3, '')] |
+| `proyeccion/2026-08-13_DIRECCION_WEB4_NEOCRONOS_AGUILA_ES_EN.md` | **REVISAR** | 8: párrafos ES=5 EN=4 |
 | `proyeccion/NEOCORE_7_2_DELTA_ES_EN.md` | **REVISAR** | 5: párrafos ES=1 EN=3 |
 | `proyeccion/NEOCORE_7_2_EXTERNAL_REVIEW_BRIEF_ES_EN.md` | **REVISAR** | IDEA · contexto genealógico opcional: párrafos ES=3 EN=2 |
 | `proyeccion/POLITICA_SIMETRIA_BILINGUE_ES_EN.md` | **REVISAR** | VIII: párrafos ES=2 EN=3 |
