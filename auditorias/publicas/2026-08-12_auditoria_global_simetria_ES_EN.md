@@ -121,9 +121,8 @@
   - 6: párrafos ES=2 EN=1
   - 7: lists ES=3 EN=0
   - 8: párrafos ES=2 EN=3
-- `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · ES=1175 · EN=685 · ratio=0.58
-  - volumen EN/ES=0.58 (685/1175)
-  - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (3, ''), (2, '7'), (2, '8'), (2, '9'), (2, '10'), (2, '11')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9'), (2, '10'), (2, '11')]
+- `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · ES=1175 · EN=1140 · ratio=0.97
+  - 11: párrafos ES=1 EN=3
 - `auditorias/publicas/2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md` · ES=888 · EN=791 · ratio=0.89
   - 4: párrafos ES=1 EN=0
   - 5: lists ES=5 EN=0
@@ -172,9 +171,8 @@
   - Estado del índice de manifiestos: párrafos ES=2 EN=3
 - `auditorias/publicas/2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md` · ES=794 · EN=774 · ratio=0.97
   - 10: párrafos ES=1 EN=2
-- `auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md` · ES=171 · EN=87 · ratio=0.51
-  - volumen EN/ES=0.51 (87/171)
-  - esqueleto de encabezados distinto ES=[(3, ''), (3, '')] EN=[]
+- `auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md` · ES=171 · EN=174 · ratio=1.02
+  - Enlaces internos rotos del grafo vivo: párrafos ES=0 EN=1
 - `auditorias/publicas/2026-08-10_auditoria_responsabilidad_historica_infraestructuras_publicas_espana_ES_EN.md` · ES=1146 · EN=1139 · ratio=0.99
   - 11: párrafos ES=1 EN=0
 - `auditorias/publicas/2026-08-11_postcheck_LXIX_LXXII_C_NAX_19_navegacion_paridad_ES_EN.md` · ES=1437 · EN=1362 · ratio=0.95
@@ -530,7 +528,7 @@
 | `anuncios/2026-08-08_XLVII_ODIO_SINO_GOAT_SOMBRA_DOBLE_CARA_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: The Goat, Sombra, Vínculo y Doble Cara de la Vida |
 | `anuncios/2026-08-08_XLVI_CERRAR_LA_HERIDA_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria |
 | `auditorias/publicas/2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md` | **REVISAR** | 3: code ES=1 EN=0; 4: lists ES=9 EN=0; 6: lists ES=12 EN=5; 6: párrafos ES=2 EN=1; 7: lists ES=3 EN=0; 8: párrafos ES=2 EN=3 |
-| `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` | **REVISAR** | volumen EN/ES=0.58 (685/1175); esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (3, ''), (2, '7'), (2, '8'), (2, '9'), (2, '10'), (2, '11')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9'), (2, '10'), (2, '11')] |
+| `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` | **REVISAR** | 11: párrafos ES=1 EN=3 |
 | `auditorias/publicas/2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md` | **REVISAR** | 4: párrafos ES=1 EN=0; 5: lists ES=5 EN=0; 6: lists ES=6 EN=0; 6: párrafos ES=2 EN=1; 7: lists ES=5 EN=0; 8: párrafos ES=1 EN=2 |
 | `auditorias/publicas/2026-08-07_plan_normalizacion_sintesis_abierta_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `auditorias/publicas/2026-08-07_postcheck_cierre_total_simetria_I_XXXVI_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
@@ -556,7 +554,7 @@
 | `auditorias/publicas/2026-08-09_auditoria_regresiones_historicas_manifiestos_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Auditoría histórica no reductiva de manifiestos |
 | `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Auditoría relacional MAXPROC · Manifiestos ↔ Neoaxiomas ↔ publicaciones ↔ Síntesis Abierta / Cocitación documental · candidatos de relación para revisión SAN |
 | `auditorias/publicas/2026-08-09_distrokid_ticket_4499471_royalty_routing_ES_EN.md` | **OK** |  |
-| `auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md` | **REVISAR** | volumen EN/ES=0.51 (87/171); esqueleto de encabezados distinto ES=[(3, ''), (3, '')] EN=[] |
+| `auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md` | **REVISAR** | Enlaces internos rotos del grafo vivo: párrafos ES=0 EN=1 |
 | `auditorias/publicas/2026-08-09_postcheck_neocore_7_1_integridad_relacional_no_reductiva_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Postcheck NEOCore™ 7.1 · integridad relacional y no reductiva |
 | `auditorias/publicas/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-10_auditoria_responsabilidad_historica_infraestructuras_publicas_espana_ES_EN.md` | **REVISAR** | 11: párrafos ES=1 EN=0 |
