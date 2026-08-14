@@ -1,7 +1,7 @@
 # Postcheck dinámico · README, índices y enlaces / Dynamic README, indices and links postcheck
 
 **Fecha / Date:** 2026-08-12  
-**Estado / Status:** **OK**
+**Estado / Status:** **REQUIERE CORRECCIÓN / NEEDS CORRECTION**
 
 > **Alcance / Scope:** el grafo vivo excluye `wiki-legacy-archive/` y las entradas raíz legacy `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` y `FOREWORD.md`. Esos nombres legacy no constituyen superficies canónicas vivas; tras su retirada de `main`, su contenido histórico permanece recuperable mediante Git. / the living graph excludes `wiki-legacy-archive/` and the root legacy entry files `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` and `FOREWORD.md`. Those legacy names are not living canonical surfaces; after retirement from `main`, their historical contents remain recoverable through Git.
 
@@ -20,7 +20,7 @@
 - Bloques redundantes MANIFESTOS_CURRENT encontrados en README: **0**.
 - Manifiestos canónicos detectados: **75 · I–LXXV**.
 - Último manifiesto / Síntesis: **LXXV / #134**.
-- Enlaces internos rotos del grafo vivo: **0**.
+- Enlaces internos rotos del grafo vivo: **51**.
 - Fallos canónicos críticos: **0**.
 
 ### Comprobaciones canónicas
@@ -36,7 +36,59 @@
 
 ### Enlaces internos rotos del grafo vivo
 
-- Ninguno detectado por el validador de rutas del repositorio.
+| Origen | Destino | Motivo |
+|---|---|---|
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./37_neofraternidad_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/README.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./37_neofraternidad_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/README.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./11_neo0_soberania_de_guia_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./11_neo0_soberania_de_guia_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/README.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./37_neofraternidad_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./RELACIONES_TRABAJO_APLICADO_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./11_neo0_soberania_de_guia_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../auditorias/publicas/README.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/README.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `RELACIONES_TRABAJO_APLICADO_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../neoaxiomas/README.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/README.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `37_neofraternidad_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./11_neo0_soberania_de_guia_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./08_neorrenacimiento_humano_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./16_refragmentacion_arquetipica_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./37_neofraternidad_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../neoaxiomas/README.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../neoaxiomas/README.md` | destino inexistente / missing target |
 
 ## EN · Result
 
@@ -53,7 +105,7 @@
 - Redundant MANIFESTOS_CURRENT blocks found in README files: **0**.
 - Canonical manifestos detected: **75 · I–LXXV**.
 - Latest manifesto / synthesis: **LXXV / #134**.
-- Broken internal links in the living graph: **0**.
+- Broken internal links in the living graph: **51**.
 - Canonical critical failures: **0**.
 
 ### Canonical checks
@@ -69,6 +121,58 @@
 
 ### Broken internal links in the living graph
 
-- None detected by the repository route validator.
+| Source | Target | Reason |
+|---|---|---|
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./37_neofraternidad_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/README.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./37_neofraternidad_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/README.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./11_neo0_soberania_de_guia_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./11_neo0_soberania_de_guia_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/README.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./37_neofraternidad_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./RELACIONES_TRABAJO_APLICADO_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./11_neo0_soberania_de_guia_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../auditorias/publicas/README.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/README.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `RELACIONES_TRABAJO_APLICADO_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../neoaxiomas/README.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../propuestas/sintesis-abierta/README.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `37_neofraternidad_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./11_neo0_soberania_de_guia_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./08_neorrenacimiento_humano_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./16_refragmentacion_arquetipica_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./37_neofraternidad_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `./75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../neoaxiomas/README.md` | destino inexistente / missing target |
+| `manifiestos/canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | `../neoaxiomas/README.md` | destino inexistente / missing target |
 
 **Innova_N · NEOCore™ · Neodialectica Framework™ / Network**
