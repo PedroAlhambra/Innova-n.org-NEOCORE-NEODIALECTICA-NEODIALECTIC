@@ -199,9 +199,9 @@
   - 14: párrafos ES=4 EN=3
 - `auditorias/publicas/2026-08-11_postcheck_LXXIII_LXXIV_C_NAX_20_21_ES_EN.md` · ES=938 · EN=875 · ratio=0.93
   - 15: párrafos ES=1 EN=0
-- `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` · ES=469 · EN=66 · ratio=0.14
-  - volumen EN/ES=0.14 (66/469)
-  - esqueleto de encabezados distinto ES=[(3, '1'), (3, '2'), (3, '3'), (3, '4'), (2, '')] EN=[]
+- `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` · ES=598 · EN=493 · ratio=0.82
+  - 3: lists ES=6 EN=0
+  - Abrir una auditoría nueva: párrafos ES=3 EN=4
 - `auditorias/publicas/README.md` · ES=691 · EN=79 · ratio=0.11
   - volumen EN/ES=0.11 (79/691)
   - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, ''), (2, ''), (2, ''), (2, '')] EN=[]
@@ -614,7 +614,7 @@
 | `auditorias/publicas/2026-08-12_auditoria_registro_canonico_manifiestos_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `auditorias/publicas/2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: ES / HECHO VERIFICADO / PrepFort, 2077AI y otros nombres / 11 · Protocolo de aportación / EN / VERIFIED FACT / PrepFort, 2077AI and other names / 11 · Contribution protocol |
 | `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: ES / EN |
-| `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **REVISAR** | volumen EN/ES=0.14 (66/469); esqueleto de encabezados distinto ES=[(3, '1'), (3, '2'), (3, '3'), (3, '4'), (2, '')] EN=[] |
+| `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **REVISAR** | 3: lists ES=6 EN=0; Abrir una auditoría nueva: párrafos ES=3 EN=4 |
 | `auditorias/publicas/README.md` | **REVISAR** | volumen EN/ES=0.11 (79/691); esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, ''), (2, ''), (2, ''), (2, '')] EN=[] |
 | `difusion/2026-08-09_marco_tanda_01_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Difusión del marco · tanda 01 · 2026-08-09 |
 | `difusion/2026-08-09_marco_tanda_02_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Difusión del marco · tanda 02 · 2026-08-09 |
