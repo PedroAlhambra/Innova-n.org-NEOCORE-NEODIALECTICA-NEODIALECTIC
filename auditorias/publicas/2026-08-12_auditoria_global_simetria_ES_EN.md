@@ -223,13 +223,7 @@
 - `obras/idea/PRESS_KIT_ES_EN.md` · ES=953 · EN=963 · ratio=1.01
   - Cita editorial recomendada: lists ES=0 EN=6
   - Cita editorial recomendada: párrafos ES=2 EN=5
-- `obras/idea/RANSOL_RED_DEL_TIEMPO_ARBOLES_INVISIBLES_ETERNOS_ES_EN.md` · ES=297 · EN=268 · ratio=0.90
-  - Ransol™: code ES=1 EN=0
-  - La Red del Tiempo: code ES=2 EN=0
-  - La Red del Tiempo: párrafos ES=3 EN=1
-  - Árboles Invisibles Eternos™: párrafos ES=3 EN=2
-  - Relación con Starkdr e Ingellus: code ES=1 EN=0
-  - Relación con Starkdr e Ingellus: párrafos ES=2 EN=1
+- `obras/idea/RANSOL_RED_DEL_TIEMPO_ARBOLES_INVISIBLES_ETERNOS_ES_EN.md` · ES=297 · EN=305 · ratio=1.03
   - Regla epistemológica: párrafos ES=2 EN=1
 - `obras/idea/STARKDR_GRITAX_HISTORIA_DE_LAS_ESPECIES_ES_EN.md` · ES=604 · EN=580 · ratio=0.96
   - Leer IDEA: párrafos ES=1 EN=0
@@ -603,7 +597,7 @@
 | `neoaxiomas/README.md` | **OK** |  |
 | `obras/README.md` | **OK** |  |
 | `obras/idea/PRESS_KIT_ES_EN.md` | **REVISAR** | Cita editorial recomendada: lists ES=0 EN=6; Cita editorial recomendada: párrafos ES=2 EN=5 |
-| `obras/idea/RANSOL_RED_DEL_TIEMPO_ARBOLES_INVISIBLES_ETERNOS_ES_EN.md` | **REVISAR** | Ransol™: code ES=1 EN=0; La Red del Tiempo: code ES=2 EN=0; La Red del Tiempo: párrafos ES=3 EN=1; Árboles Invisibles Eternos™: párrafos ES=3 EN=2; Relación con Starkdr e Ingellus: code ES=1 EN=0; Relación con Starkdr e Ingellus: párrafos ES=2 EN=1; Regla epistemológica: párrafos ES=2 EN=1 |
+| `obras/idea/RANSOL_RED_DEL_TIEMPO_ARBOLES_INVISIBLES_ETERNOS_ES_EN.md` | **REVISAR** | Regla epistemológica: párrafos ES=2 EN=1 |
 | `obras/idea/README.md` | **OK** |  |
 | `obras/idea/STARKDR_GRITAX_HISTORIA_DE_LAS_ESPECIES_ES_EN.md` | **REVISAR** | Leer IDEA: párrafos ES=1 EN=0 |
 | `obras/idea/assets/README.md` | **OK** |  |
