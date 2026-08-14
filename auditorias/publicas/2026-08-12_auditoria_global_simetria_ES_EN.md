@@ -307,9 +307,8 @@
 - `propuestas/sintesis-abierta/2026-08-08_LII_ciudadania_humana_neodialectica_debate_ES_EN.md` · ES=96 · EN=72 · ratio=0.75
   - volumen EN/ES=0.75 (72/96)
   - esqueleto de encabezados distinto ES=[(3, '')] EN=[]
-- `propuestas/sintesis-abierta/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` · ES=871 · EN=122 · ratio=0.14
-  - volumen EN/ES=0.14 (122/871)
-  - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (3, ''), (2, '7'), (2, '8'), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (2, '9'), (2, '10'), (2, '11')] EN=[(2, '')]
+- `propuestas/sintesis-abierta/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` · ES=871 · EN=844 · ratio=0.97
+  - 11: párrafos ES=4 EN=3
 - `propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md` · ES=1980 · EN=1931 · ratio=0.98
   - 15: párrafos ES=2 EN=1
 - `propuestas/sintesis-abierta/2026-08-11_DELTA_HUMANIDAD_COMUN_MADURACION_INVERTIDA_TROL_BOT_MAL_SISTEMICO_ES_EN.md` · ES=859 · EN=834 · ratio=0.97
@@ -705,7 +704,7 @@
 | `obras/umbral-x/README.md` | **REVISAR** | volumen EN/ES=0.26 (256/978); esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (2, ''), (2, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] EN=[] |
 | `propuestas/sintesis-abierta/2026-08-08_LII_ciudadania_humana_neodialectica_debate_ES_EN.md` | **REVISAR** | volumen EN/ES=0.75 (72/96); esqueleto de encabezados distinto ES=[(3, '')] EN=[] |
 | `propuestas/sintesis-abierta/2026-08-09_LV_micromaquinas_plagas_escala_invisible_debate_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
-| `propuestas/sintesis-abierta/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` | **REVISAR** | volumen EN/ES=0.14 (122/871); esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (3, ''), (2, '7'), (2, '8'), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (2, '9'), (2, '10'), (2, '11')] EN=[(2, '')] |
+| `propuestas/sintesis-abierta/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` | **REVISAR** | 11: párrafos ES=4 EN=3 |
 | `propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md` | **REVISAR** | 15: párrafos ES=2 EN=1 |
 | `propuestas/sintesis-abierta/2026-08-11_DELTA_HUMANIDAD_COMUN_MADURACION_INVERTIDA_TROL_BOT_MAL_SISTEMICO_ES_EN.md` | **REVISAR** | 22: párrafos ES=1 EN=2 |
 | `propuestas/sintesis-abierta/ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_v0.1_ES_EN.md` | **OK** |  |
