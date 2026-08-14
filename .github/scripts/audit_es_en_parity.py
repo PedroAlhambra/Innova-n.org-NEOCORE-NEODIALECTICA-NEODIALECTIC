@@ -11,6 +11,7 @@ EN_MARKERS = [r'^# EN · English\s*$', r'^## EN · English\s*$']
 SHARED_TRAILING_MARKERS = [
     '<!-- NEO_RELATIONS_START -->',
     '<!-- NEO_RELATED_WORK_START -->',
+    '<!-- NEO_RELATED_MANIFESTOS_START -->',
     '<!-- NEO_OPEN_SYNTHESIS_INVITATION_START -->',
     '<!-- NEO_MANIFESTO_NAV_START -->',
     '<!-- MANIFESTOS_CURRENT_START -->',
@@ -191,7 +192,7 @@ lines.append('')
 lines.append('- Se compara volumen global, encabezados y secuencia de secciones principales H2 numeradas.')
 lines.append('- Se compara sección por sección el volumen material y la conservación de fórmulas/bloques.')
 lines.append('- Las diferencias de listas o citas se marcan como **ADVERTENCIA estructural** si el volumen de la sección sigue siendo razonablemente equivalente; pasan a **REVISAR** cuando coinciden con compresión material.')
-lines.append('- Los bloques generados de navegación, referencias cruzadas y colas de navegación específicas de idioma no se contabilizan como traducción.')
+lines.append('- Los bloques generados de navegación, relaciones compartidas, referencias cruzadas y colas de navegación específicas de idioma no se contabilizan como traducción.')
 lines.append('- `REVISAR` bloquea la publicación automática de manifiestos; `ADVERTENCIA` exige inspección editorial pero no demuestra por sí sola recorte.')
 lines.append('')
 lines.append(f'**Documentos bilingües examinados:** {len(rows)}  ')
