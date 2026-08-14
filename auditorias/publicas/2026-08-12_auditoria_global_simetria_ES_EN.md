@@ -9,7 +9,7 @@
 
 - Markdown activo examinado / Active Markdown scanned: **291**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **211**.
-- Fallos estructurales divididos / Split structural failures: **122**.
+- Fallos estructurales divididos / Split structural failures: **121**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **24**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -292,9 +292,6 @@
   - Nodo abierto: párrafos ES=3 EN=4
 - `obras/umbral-x/README.md` · ES=978 · EN=998 · ratio=1.02
   - Nodos relacionados: párrafos ES=1 EN=2
-- `propuestas/sintesis-abierta/2026-08-08_LII_ciudadania_humana_neodialectica_debate_ES_EN.md` · ES=96 · EN=72 · ratio=0.75
-  - volumen EN/ES=0.75 (72/96)
-  - esqueleto de encabezados distinto ES=[(3, '')] EN=[]
 - `propuestas/sintesis-abierta/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` · ES=871 · EN=844 · ratio=0.97
   - 11: párrafos ES=4 EN=3
 - `propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md` · ES=1980 · EN=1931 · ratio=0.98
@@ -670,7 +667,7 @@
 | `obras/idea/assets/README.md` | **OK** |  |
 | `obras/umbral-x/00_el_dia_que_les_dimos_armas_antes_que_voz_ES_EN.md` | **REVISAR** | Nodo abierto: párrafos ES=3 EN=4 |
 | `obras/umbral-x/README.md` | **REVISAR** | Nodos relacionados: párrafos ES=1 EN=2 |
-| `propuestas/sintesis-abierta/2026-08-08_LII_ciudadania_humana_neodialectica_debate_ES_EN.md` | **REVISAR** | volumen EN/ES=0.75 (72/96); esqueleto de encabezados distinto ES=[(3, '')] EN=[] |
+| `propuestas/sintesis-abierta/2026-08-08_LII_ciudadania_humana_neodialectica_debate_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-09_LV_micromaquinas_plagas_escala_invisible_debate_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `propuestas/sintesis-abierta/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` | **REVISAR** | 11: párrafos ES=4 EN=3 |
 | `propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md` | **REVISAR** | 15: párrafos ES=2 EN=1 |
