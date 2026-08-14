@@ -1,12 +1,11 @@
-# WEB4™ · SistemaTrazable™ · DEMO documental pública
-# WEB4™ · SistemaTrazable™ · Public documentary DEMO
+# WEB4™ · SistemaTrazable™ · Especificación documental pública
+# WEB4™ · SistemaTrazable™ · Public Documentary Specification
 
-**Estado / Status:** DEMO / prototipo público, no implementación definitiva / DEMO / public prototype, not a definitive implementation.  
-**Marco actual / Current framework:** NEOCore™ 7.2.  
-**Actualización / Updated:** 2026-08-13.
-**Superficie WEB4™ pública viva / Living public WEB4™ surface:** [innova-n.org](https://innova-n.org).
+**Estado / Status:** especificación pública, corpus y genealogía de capacidades / public specification, corpus and capability genealogy  
+**Marco actual / Current framework:** NEOCore™ 7.2  
+**Superficie pública real / Actual public surface:** [innova-n.org](https://innova-n.org)
 
-> **Alcance / Scope:** este directorio `web4/` conserva una **DEMO / prototipo documental público versionado**. No es una copia exacta de la implementación actualmente desplegada en `innova-n.org` ni una segunda fuente de verdad del producto. / this `web4/` directory preserves a **versioned public documentary DEMO / prototype**. It is not an exact copy of the implementation currently deployed at `innova-n.org`, nor a second source of product truth.
+> **Regla / Rule:** este directorio `web4/` **no es una DEMO ni una segunda web pública**. Documenta qué debe contener WEB4™, conserva referencias históricas de capacidades y aporta fuentes/requisitos que alimentan el desarrollo privado. `innova-n.org` es la proyección pública pulida que ve el público. / this `web4/` directory is **not a DEMO and not a second public website**. It documents intended WEB4™ capabilities, preserves historical capability references and provides sources/requirements for private development. `innova-n.org` is the polished public projection seen by visitors.
 
 > **INNOVA_N · PATRIMONIO COMÚN DE LA HUMANIDAD / COMMON HERITAGE OF HUMANITY**
 
@@ -14,29 +13,45 @@
 
 ## ES · Castellano
 
-### Dirección actual
+### 1. Función de este directorio
 
-WEB4™ evoluciona de proyección one-shot hacia un **espacio habitable multimedia, multicabeza, monádico y trazable construido alrededor de NEOCore™**. La web debe demostrar memoria, relación, contraste, síntesis, aprendizaje y creación mediante comportamiento real, no sólo mediante explicación.
-
-**Documento interno de dirección:** [WEB4™ · NeoCronos™ = Águila · 2026-08-13](../proyeccion/2026-08-13_DIRECCION_WEB4_NEOCRONOS_AGUILA_ES_EN.md)
-
-### NeoCronos™ = Águila
-
-**Fijación semántica:** NeoCronos™ se representa mediante **el Águila**. No es Neo0™, el jinete ni Rocinante™.
+El GitHub público contiene el **corpus canónico público** del marco y es una fuente de datos, relaciones, genealogía y requisitos para WEB4™.
 
 ```text
-ÁGUILA / NEOCRONOS™ = observación temporal + memoria + despliegue + recálculo
-NEO0™ / JINETE       = agente humano situado + dirección + decisión
-ROCINANTE™           = nodo/vehículo coexistente + tránsito + conexión
-RED / NEOCORE™       = relaciones + contradicción + memoria + síntesis
-HORIZONTE / SOL      = futuro posible + dirección abierta
+GITHUB PÚBLICO CANÓNICO
+= manifiestos
++ neoaxiomas
++ Síntesis Abierta
++ análisis y auditorías
++ obras
++ genealogía
++ relaciones
++ estados y novedades derivables
++ especificación pública WEB4™
 ```
 
-La implementación siguiente debe ampliar la DEMO actual: NeoCronos™ no debe reducirse a reloj o libro mayor. Debe permitir observar estados, genealogías, ciclos, bifurcaciones, deltas y futuros posibles sin convertir ninguno en destino predeterminado.
+La implementación de trabajo no vive aquí. Se desarrolla en el repositorio privado `PedroAlhambra/innova-n` y se previsualiza allí/localmente antes de proyectarse manualmente en Hostalia.
 
-### Arquitectura pública objetivo
+```text
+NEO0™
++ CORPUS PÚBLICO CANÓNICO
++ IMPLEMENTACIÓN PRIVADA
+→ WEB4™ DE TRABAJO
+→ REVISIÓN
+→ PROYECCIÓN PÚBLICA EN innova-n.org
+```
 
-La nueva WEB4™ debe organizar progresivamente superficies nativas para:
+### 2. Dirección actual
+
+WEB4™ debe convertirse en un **espacio habitable, multimedia, multicabeza, monádico y trazable construido alrededor de NEOCore™**. Debe demostrar memoria, relación, contraste, síntesis, aprendizaje y creación mediante comportamiento real, no sólo mediante explicación.
+
+Documento de dirección relacionado:
+
+- [WEB4™ · NeoCronos™ = Águila · 2026-08-13](../proyeccion/2026-08-13_DIRECCION_WEB4_NEOCRONOS_AGUILA_ES_EN.md)
+
+### 3. Arquitectura pública objetivo
+
+WEB4™ debe organizar progresivamente superficies nativas para:
 
 - Inicio / mapa vivo.
 - NeoCronos™ / Águila.
@@ -52,10 +67,82 @@ La nueva WEB4™ debe organizar progresivamente superficies nativas para:
 - Auditorías / Leónidas™.
 - NeoGenealogía™ / RADAR-Π™.
 - Novedades derivadas del corpus.
-- Nodos/mónadas de personas, IAs, obras, proyectos e instituciones.
-- **Créditos de infraestructura / MÉDICI™** — plataformas reales que sostienen el sistema, su función, compensación, genealogía y elegibilidad de aporte no compensado.
+- Nodos/mónadas de personas, IAs, obras, proyectos, instituciones, eventos, documentos y conceptos.
+- Créditos de infraestructura / MÉDICI™.
 
-### Profundidad de entrada
+### 4. GitHub público como fuente de datos
+
+Siempre que sea técnicamente viable, WEB4™ debe **leer directamente o derivar datos estructurados desde este repositorio** en lugar de mantener copias manuales desactualizables.
+
+```text
+CORPUS CANÓNICO / GITHUB
+→ lector / adaptador WEB4™
+→ estados derivados
+→ navegación
+→ relaciones
+→ NeoCronos™
+→ proyección WEB4™
+```
+
+Recuentos, último manifiesto, novedades, relaciones, estados, genealogía y superficies de lectura deben tender a calcularse desde fuentes versionadas.
+
+Cuando una lectura directa no sea adecuada, puede generarse un índice estructurado o caché de desarrollo, pero la fuente canónica pública sigue siendo el origen del dato.
+
+### 5. Manifiestos y Neoaxiomas como lectores
+
+Manifiestos y Neoaxiomas™ no deben reducirse a tarjetas-resumen. WEB4™ debe ofrecer:
+
+- texto completo;
+- índice y búsqueda;
+- navegación anterior/siguiente y enlaces profundos;
+- fuente, versión, fecha y estado;
+- retorno al documento GitHub canónico;
+- Síntesis Abierta asociada;
+- relaciones explícitas;
+- nube de relaciones por documento;
+- topología general tipo red;
+- navegación bidireccional entre nodos relacionados.
+
+La topología debe distinguir **relación canónica trazable** de relación candidata/inferida. La similitud por sí sola no crea una arista canónica.
+
+### 6. Nube de relaciones y topología
+
+La red debe poder derivarse progresivamente de:
+
+- hipervínculos documentales explícitos;
+- referencias cruzadas canónicas;
+- `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`;
+- NeoGenealogía™ y RADAR-Π™ cuando exista clasificación trazable;
+- relaciones de Síntesis Abierta registradas;
+- relaciones entre obras, análisis, auditorías, conceptos y nodos.
+
+```text
+DOCUMENTO / NODO
+→ FUENTE
+→ RELACIONES
+→ NUBE LOCAL
+→ TOPOLOGÍA GLOBAL
+→ NODO RELACIONADO
+→ RETORNO A FUENTE
+```
+
+No se busca un ranking de popularidad. La relevancia depende de función, relación, estado y evidencia.
+
+### 7. NeoCronos™ = Águila
+
+**Fijación semántica:** NeoCronos™ se representa mediante **el Águila**. No es Neo0™, el jinete ni Rocinante™.
+
+```text
+ÁGUILA / NEOCRONOS™ = observación temporal + memoria + despliegue + recálculo
+NEO0™ / JINETE       = agente humano situado + dirección + decisión
+ROCINANTE™           = nodo/vehículo coexistente + tránsito + conexión
+RED / NEOCORE™       = relaciones + contradicción + memoria + síntesis
+HORIZONTE / SOL      = futuro posible + dirección abierta
+```
+
+NeoCronos™ debe permitir observar estados, genealogías, ciclos, bifurcaciones, deltas y futuros posibles sin convertir ninguno en destino predeterminado.
+
+### 8. Profundidad de entrada
 
 ```text
 30 segundos → comprender
@@ -67,26 +154,15 @@ acción      → aprender + crear + contrastar + aportar + sintetizar
 
 Simplificar la puerta no significa simplificar el territorio.
 
-### Regla de cálculo
-
-Siempre que sea viable, los estados públicos no deben mantenerse como números manuales:
-
-```text
-CORPUS CANÓNICO / GITHUB
-→ ESTADO DERIVADO
-→ NEOCRONOS™
-→ PROYECCIÓN WEB4™
-```
-
-Recuentos, último manifiesto, novedades, relaciones y estados deben tender a calcularse desde fuentes estructuradas/versionadas.
-
-### Regla visual
+### 9. Regla visual
 
 WEB4™ debe funcionar en claro y oscuro y evitar una estética futurista nocturna uniforme. Debe integrar humanidad cotidiana, diversidad real, naturaleza, cultura, arte, ciencia y tecnología.
 
-Para NeoCronos™, el Águila será el símbolo principal. Horizontes, amaneceres, atardeceres, estaciones y secuencias del mismo territorio pueden representar **continuidad + transformación**. Las imágenes con función pública deben publicarse como recursos web reales, cacheables e indexables, con metadatos y texto alternativo apropiados.
+Para NeoCronos™, el Águila es el símbolo principal. Horizontes, amaneceres, atardeceres, estaciones y secuencias del mismo territorio pueden representar **continuidad + transformación**.
 
-### Navegación relacional
+Las imágenes con función pública deben publicarse como recursos web reales, cacheables e indexables, con metadatos y texto alternativo apropiados.
+
+### 10. Navegación relacional
 
 Toda superficie debe ayudar a responder:
 
@@ -98,11 +174,9 @@ Toda superficie debe ayudar a responder:
 ¿CÓMO PUEDO CONTRADECIRLO O MEJORARLO?
 ```
 
-### Créditos de infraestructura y MÉDICI™
+### 11. Créditos de infraestructura y MÉDICI™
 
 WEB4™ debe reconocer de forma visible las plataformas e infraestructuras que hacen materialmente posible el sistema. El crédito no implica autoría conceptual, propiedad ni soberanía.
-
-Regla operativa:
 
 ```text
 APORTE GRATUITO / NO COMPENSADO
@@ -116,22 +190,24 @@ APORTE PAGADO / COMPENSADO
 → 0 MÉDICI™ DIRECTO POR LA PARTE YA PAGADA
 ```
 
-La clasificación se hace por **servicio y periodo**, no por empresa completa. Esto permite que una misma plataforma tenga capas gratuitas, freemium, revenue-share y de pago sin borrar su historia.
+La clasificación se hace por **servicio y periodo**, no por empresa completa.
 
-- [Créditos públicos WEB4™](./credits/)
+- [Créditos WEB4™](./credits/)
 - [Regla MÉDICI™ de plataformas ES/EN](../propuestas/sintesis-abierta/MEDICI_CREDITOS_PLATAFORMAS_COMPENSACION_ES_EN.md)
 
-### Superficies de esta DEMO pública
+### 12. Referencias documentales conservadas
 
-- [`index.html`](./index.html) — portada de esta DEMO pública.
-- [`manifiestos/`](./manifiestos/) — lector WEB4™ de manifiestos con retorno a fuente canónica.
-- [`idea/`](./idea/) — IDEA como obra literaria y genealogía anterior al marco.
-- [`neocronos/`](./neocronos/) — DEMO experimental de NeoCronos™; debe evolucionar conforme a la nueva fijación del Águila.
-- [`credits/`](./credits/) — créditos de infraestructura y regla pública MÉDICI™ por compensación.
-- [`../propuestas/sintesis-abierta/`](../propuestas/sintesis-abierta/README.md) — SAN™.
-- [`../neoaxiomas/`](../neoaxiomas/README.md) — capa Neoaxiomática abierta.
+Los HTML existentes bajo `web4/` se conservan como **referencias documentales/históricas de capacidades**, no como sitio público paralelo ni como candidata de producción:
 
-### Bucle de producto objetivo
+- [`index.html`](./index.html) — referencia histórica de portada y capacidades.
+- [`manifiestos/`](./manifiestos/) — referencia de lector navegable de manifiestos.
+- [`idea/`](./idea/) — referencia de integración de IDEA.
+- [`neocronos/`](./neocronos/) — referencia histórica de experimentación visual/temporal de NeoCronos™.
+- [`credits/`](./credits/) — referencia de créditos de infraestructura y MÉDICI™.
+
+La implementación privada puede preservar, mejorar o sustituir estas capacidades; no debe asumir que estos HTML son la web viva.
+
+### 13. Bucle de producto objetivo
 
 ```text
 OBSERVAR
@@ -153,15 +229,87 @@ OBSERVAR
 
 ## EN · English
 
-### Current direction
+### 1. Role of this directory
 
-WEB4™ is evolving from a one-shot projection into an **inhabitable, multimedia, multihead, monadic and traceable space built around NEOCore™**. The web should demonstrate memory, relation, challenge, synthesis, learning and creation through real behaviour, not only through explanation.
+The public GitHub repository contains the framework's **canonical public corpus** and is a source of data, relations, genealogy and requirements for WEB4™.
 
-**Internal direction document:** [WEB4™ · NeoCronos™ = Eagle · 2026-08-13](../proyeccion/2026-08-13_DIRECCION_WEB4_NEOCRONOS_AGUILA_ES_EN.md)
+```text
+CANONICAL PUBLIC GITHUB
+= manifestos
++ neoaxioms
++ Open Synthesis
++ analyses and audits
++ works
++ genealogy
++ relations
++ derivable states/news
++ public WEB4™ specification
+```
 
-### NeoCronos™ = Eagle
+Working implementation does not live here. It is developed in the private `PedroAlhambra/innova-n` repository, previewed privately/locally and later projected manually to Hostalia.
 
-**Semantic anchor:** NeoCronos™ is represented by **the Eagle**. It is not Neo0™, the rider or Rocinante™.
+```text
+NEO0™
++ CANONICAL PUBLIC CORPUS
++ PRIVATE IMPLEMENTATION
+→ WORKING WEB4™
+→ REVIEW
+→ PUBLIC PROJECTION AT innova-n.org
+```
+
+### 2. Current direction
+
+WEB4™ should become an **inhabitable, multimedia, multihead, monadic and traceable space built around NEOCore™**. It should demonstrate memory, relation, challenge, synthesis, learning and creation through real behaviour, not only explanation.
+
+Related direction document:
+
+- [WEB4™ · NeoCronos™ = Eagle · 2026-08-13](../proyeccion/2026-08-13_DIRECCION_WEB4_NEOCRONOS_AGUILA_ES_EN.md)
+
+### 3. Target public architecture
+
+WEB4™ should progressively provide native surfaces for Home/living map, NeoCronos™/Eagle, Open Synthesis™, Neoaxioms™, Manifestos™, Learning, NeoGames™, visual art, Music, Literature/IDEA, science/technology/research, Audits/Leónidas™, NeoGenealogy™/RADAR-Π™, corpus-derived news, nodes/monads and infrastructure credits/MÉDICI™.
+
+### 4. Public GitHub as data source
+
+Whenever technically viable, WEB4™ should **read directly or derive structured data from this repository** rather than maintain stale manual copies.
+
+```text
+CANONICAL CORPUS / GITHUB
+→ WEB4™ reader / adapter
+→ derived states
+→ navigation
+→ relations
+→ NeoCronos™
+→ WEB4™ projection
+```
+
+Counts, latest manifesto, news, relations, states, genealogy and reading surfaces should increasingly derive from versioned sources. Generated indexes or development caches may be used when direct reading is unsuitable, but the public canonical source remains authoritative.
+
+### 5. Manifestos and Neoaxioms as readers
+
+Manifestos and Neoaxioms™ must not be reduced to summary cards. WEB4™ should provide full text, search/index, previous/next/deep-link navigation, source/version/date/state, canonical GitHub return, associated Open Synthesis, explicit relations, per-document relation clouds and a global network topology.
+
+Canonical traceable relations must remain distinguishable from candidate/inferred relations.
+
+### 6. Relation cloud and topology
+
+The network should progressively derive from explicit document links, canonical cross-references, `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`, traceable NeoGenealogy™/RADAR-Π™ classifications, registered Open Synthesis relations and links among works, analyses, audits, concepts and nodes.
+
+```text
+DOCUMENT / NODE
+→ SOURCE
+→ RELATIONS
+→ LOCAL CLOUD
+→ GLOBAL TOPOLOGY
+→ RELATED NODE
+→ RETURN TO SOURCE
+```
+
+This is not a popularity ranking. Relevance comes from function, relation, state and evidence.
+
+### 7. NeoCronos™ = Eagle
+
+NeoCronos™ is represented by **the Eagle**. It is not Neo0™, the rider or Rocinante™.
 
 ```text
 EAGLE / NEOCRONOS™ = temporal observation + memory + unfolding + recalculation
@@ -171,30 +319,9 @@ NETWORK / NEOCORE™  = relations + contradiction + memory + synthesis
 HORIZON / SUN       = possible future + open direction
 ```
 
-The next implementation should expand the current DEMO: NeoCronos™ must not be reduced to a clock or ledger. It should allow states, genealogies, cycles, bifurcations, deltas and possible futures to be observed without turning any of them into a predetermined destiny.
+NeoCronos™ should expose states, genealogies, cycles, bifurcations, deltas and possible futures without turning them into predetermined destiny.
 
-### Target public architecture
-
-The new WEB4™ should progressively organise native surfaces for:
-
-- Home / living map.
-- NeoCronos™ / Eagle.
-- Open Synthesis™.
-- Neoaxioms™.
-- Manifestos™.
-- Learning.
-- NeoGames™.
-- Art, photography and visual creation.
-- Music.
-- Literature and IDEA.
-- Science, technology and research.
-- Audits / Leónidas™.
-- NeoGenealogy™ / RADAR-Π™.
-- News derived from the corpus.
-- Nodes/monads of people, AIs, works, projects and institutions.
-- **Infrastructure credits / MÉDICI™** — real platforms that sustain the system, their function, compensation, genealogy and eligibility for uncompensated contribution.
-
-### Entry depth
+### 8. Entry depth
 
 ```text
 30 seconds → understand
@@ -204,73 +331,31 @@ depth       → corpus and relations
 action      → learn + create + challenge + contribute + synthesise
 ```
 
-Simplifying the gateway does not mean simplifying the territory.
+### 9. Visual rule
 
-### Calculation rule
+WEB4™ should support light and dark modes and avoid a uniformly nocturnal-futuristic aesthetic. It should integrate everyday humanity, real diversity, nature, culture, art, science and technology.
 
-Whenever viable, public states should not be maintained as manual numbers:
+### 10. Relational navigation
 
-```text
-CANONICAL CORPUS / GITHUB
-→ DERIVED STATE
-→ NEOCRONOS™
-→ WEB4™ PROJECTION
-```
+Every surface should help answer where the visitor is, where the content comes from, what it relates to, what can be done there and how it can be challenged or improved.
 
-Counts, latest manifesto, news, relations and states should increasingly be calculated from structured/versioned sources.
+### 11. Infrastructure credits and MÉDICI™
 
-### Visual rule
+WEB4™ should visibly recognise the platforms and infrastructures that materially sustain the system. Credit does not imply conceptual authorship, ownership or sovereignty. Classification is performed by service and period, distinguishing uncompensated, partially compensated and paid contribution.
 
-WEB4™ should work in light and dark modes and avoid a uniform nocturnal-futuristic aesthetic. It should integrate everyday humanity, real diversity, nature, culture, art, science and technology.
+### 12. Preserved documentary references
 
-For NeoCronos™, the Eagle will be the main symbol. Horizons, sunrises, sunsets, seasons and sequences of the same territory may represent **continuity + transformation**. Images with a public function should be published as real, cacheable and indexable web assets with appropriate metadata and alternative text.
+Existing HTML under `web4/` is retained as **documentary/historical capability reference**, not as a parallel public site or production candidate:
 
-### Relational navigation
+- [`index.html`](./index.html) — historical home/capability reference.
+- [`manifiestos/`](./manifiestos/) — navigable-manifesto-reader reference.
+- [`idea/`](./idea/) — IDEA integration reference.
+- [`neocronos/`](./neocronos/) — historical NeoCronos™ visual/temporal reference.
+- [`credits/`](./credits/) — infrastructure/MÉDICI™ reference.
 
-Every surface should help answer:
+Private implementation may preserve, improve or replace these capabilities; it must not treat these HTML files as the live website.
 
-```text
-WHERE AM I?
-WHERE DOES THIS COME FROM?
-WHAT IS IT RELATED TO?
-WHAT CAN I DO HERE?
-HOW CAN I CONTRADICT OR IMPROVE IT?
-```
-
-### Infrastructure credits and MÉDICI™
-
-WEB4™ should visibly recognise the platforms and infrastructures that materially make the system possible. Credit does not imply conceptual authorship, ownership or sovereignty.
-
-Operational rule:
-
-```text
-FREE / UNCOMPENSATED CONTRIBUTION
-→ GREATER MÉDICI™ ELIGIBILITY
-
-PARTIALLY COMPENSATED CONTRIBUTION
-→ MÉDICI™ ON THE UNCOMPENSATED FRACTION
-
-PAID / COMPENSATED CONTRIBUTION
-→ CREDIT + TRACE
-→ 0 DIRECT MÉDICI™ FOR THE ALREADY-PAID PORTION
-```
-
-Classification is made by **service and period**, not by entire company. This allows the same platform to have free, freemium, revenue-share and paid layers without erasing its history.
-
-- [Public WEB4™ infrastructure credits](./credits/)
-- [MÉDICI™ platform rule ES/EN](../propuestas/sintesis-abierta/MEDICI_CREDITOS_PLATAFORMAS_COMPENSACION_ES_EN.md)
-
-### Surfaces of this public DEMO
-
-- [`index.html`](./index.html) — home page of this public DEMO.
-- [`manifiestos/`](./manifiestos/) — WEB4™ manifesto reader with return to canonical source.
-- [`idea/`](./idea/) — IDEA as literary work and genealogy prior to the framework.
-- [`neocronos/`](./neocronos/) — experimental NeoCronos™ DEMO; it should evolve according to the new Eagle semantic anchor.
-- [`credits/`](./credits/) — infrastructure credits and public MÉDICI™ compensation rule.
-- [`../propuestas/sintesis-abierta/`](../propuestas/sintesis-abierta/README.md) — SAN™.
-- [`../neoaxiomas/`](../neoaxiomas/README.md) — open Neoaxiomatic layer.
-
-### Target product loop
+### 13. Target product loop
 
 ```text
 OBSERVE
