@@ -1,9 +1,12 @@
-# WEB4™ · SistemaTrazable™ · Proyección pública
-# WEB4™ · SistemaTrazable™ · Public projection
+# WEB4™ · SistemaTrazable™ · DEMO documental pública
+# WEB4™ · SistemaTrazable™ · Public documentary DEMO
 
 **Estado / Status:** DEMO / prototipo público, no implementación definitiva / DEMO / public prototype, not a definitive implementation.  
 **Marco actual / Current framework:** NEOCore™ 7.2.  
 **Actualización / Updated:** 2026-08-13.
+**Superficie WEB4™ pública viva / Living public WEB4™ surface:** [innova-n.org](https://innova-n.org).
+
+> **Alcance / Scope:** este directorio `web4/` conserva una **DEMO / prototipo documental público versionado**. No es una copia exacta de la implementación actualmente desplegada en `innova-n.org` ni una segunda fuente de verdad del producto. / this `web4/` directory preserves a **versioned public documentary DEMO / prototype**. It is not an exact copy of the implementation currently deployed at `innova-n.org`, nor a second source of product truth.
 
 > **INNOVA_N · PATRIMONIO COMÚN DE LA HUMANIDAD / COMMON HERITAGE OF HUMANITY**
 
@@ -118,9 +121,9 @@ La clasificación se hace por **servicio y periodo**, no por empresa completa. E
 - [Créditos públicos WEB4™](./credits/)
 - [Regla MÉDICI™ de plataformas ES/EN](../propuestas/sintesis-abierta/MEDICI_CREDITOS_PLATAFORMAS_COMPENSACION_ES_EN.md)
 
-### Superficies actuales
+### Superficies de esta DEMO pública
 
-- [`index.html`](./index.html) — portada WEB4™ actual.
+- [`index.html`](./index.html) — portada de esta DEMO pública.
 - [`manifiestos/`](./manifiestos/) — lector WEB4™ de manifiestos con retorno a fuente canónica.
 - [`idea/`](./idea/) — IDEA como obra literaria y genealogía anterior al marco.
 - [`neocronos/`](./neocronos/) — DEMO experimental de NeoCronos™; debe evolucionar conforme a la nueva fijación del Águila.
@@ -257,9 +260,9 @@ Classification is made by **service and period**, not by entire company. This al
 - [Public WEB4™ infrastructure credits](./credits/)
 - [MÉDICI™ platform rule ES/EN](../propuestas/sintesis-abierta/MEDICI_CREDITOS_PLATAFORMAS_COMPENSACION_ES_EN.md)
 
-### Current surfaces
+### Surfaces of this public DEMO
 
-- [`index.html`](./index.html) — current WEB4™ home page.
+- [`index.html`](./index.html) — home page of this public DEMO.
 - [`manifiestos/`](./manifiestos/) — WEB4™ manifesto reader with return to canonical source.
 - [`idea/`](./idea/) — IDEA as literary work and genealogy prior to the framework.
 - [`neocronos/`](./neocronos/) — experimental NeoCronos™ DEMO; it should evolve according to the new Eagle semantic anchor.

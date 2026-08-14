@@ -91,6 +91,21 @@ if latest:
     ims=re.findall(r'https://github\.com/PedroAlhambra/Innova-n\.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/(\d+)',lt)
     issue_num=ims[0] if ims else None
 
+# WEB4 reference guard: innova-n.org is the living public product surface;
+# web4/ is only a versioned documentary DEMO and its manifesto reader must
+# still follow the canonical frontier while it remains published.
+if canonical:
+    web4_readme = root / 'web4/README.md'
+    web4_reader = root / 'web4/manifiestos/index.html'
+    if web4_readme.exists():
+        wr = web4_readme.read_text(encoding='utf-8', errors='replace')
+        if 'innova-n.org' not in wr or 'DEMO' not in wr:
+            critical.append('web4/README.md no distingue la DEMO documental de innova-n.org como superficie viva. / web4/README.md does not distinguish the documentary DEMO from innova-n.org as the living surface.')
+    if web4_reader.exists():
+        wh = web4_reader.read_text(encoding='utf-8', errors='replace')
+        if f'I–{latest_roman}' not in wh or latest.name not in wh:
+            critical.append(f'El lector WEB4 documental no sigue la frontera {latest_roman}. / The documentary WEB4 reader does not follow frontier {latest_roman}.')
+
 if not canonical:
     critical.append('No se pudo reconstruir la colección canónica desde el índice. / The canonical collection could not be reconstructed from the index.')
 if latest and not latest.exists():
