@@ -3,10 +3,10 @@
 
 **Fecha / Date:** 2026-08-10  
 **Estado / Status:** pública · abierta a contraste y Síntesis Abierta · no asesoramiento jurídico / public · open to challenge and Open Synthesis · not legal advice  
-**Ámbito / Scope:** Reglamento (UE) 2024/1689 · artículo 50 · artículo 99 · Guidelines de la Comisión 2026 · Code of Practice · NEOCore™ · NEO/Neo3 · publicaciones · imágenes · autoría · procedencia  
+**Ámbito / Scope:** Reglamento (UE) 2024/1689 · artículo 50 · artículo 99 · Guidelines de la Comisión 2026 · Code of Practice · NEOCore™ · NEO/Neo3 · publicaciones · imágenes · autoría · procedencia / Regulation (EU) 2024/1689 · Article 50 · Article 99 · 2026 Commission Guidelines · Code of Practice · NEOCore™ · NEO/Neo3 · publications · images · authorship · provenance  
 **Síntesis Abierta / Open Synthesis:** [Issue #111](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/111)
 
-> **Regla probatoria:** esta auditoría distingue norma vigente, guía oficial, código voluntario, hecho técnico, inferencia, hipótesis y propuesta neodialéctica. No convierte una lectura regulatoria en asesoramiento jurídico ni presume que todo uso de IA tenga la misma clasificación legal.
+> **Regla probatoria / Evidentiary rule:** esta auditoría distingue norma vigente, guía oficial, código voluntario, hecho técnico, inferencia, hipótesis y propuesta neodialéctica. No convierte una lectura regulatoria en asesoramiento jurídico ni presume que todo uso de IA tenga la misma clasificación legal. / this audit distinguishes binding law, official guidance, voluntary code, technical fact, inference, hypothesis and neodialectical proposal. It does not turn a regulatory reading into legal advice or assume that every use of AI has the same legal classification.
 
 ---
 
@@ -291,29 +291,146 @@ ISSUE = 111
 
 # EN · English
 
-## 1. Audit finding
+## 1. Purpose
 
-Article 50 of the EU AI Act applies from **2 August 2026** and creates distinct transparency duties for providers and deployers of certain AI systems. Official Commission guidance requires disclosure for direct AI interaction, machine-readable marking for relevant synthetic outputs at provider level, disclosure of deepfakes, and labelling of certain public-interest AI-generated/manipulated texts when they have not undergone substantive human review or editorial control.
+This audit responds to commercial messages that present the new European transparency rules as if every work made with AI had to carry one uniform visible label, as if **C2PA were mandatory in itself**, and as if breach of these obligations were always punishable by **€35 million or 7% of worldwide turnover**.
 
-The reviewed official sources do **not** support presenting C2PA as the single mandatory legal standard. The obligation is framed in terms of effective, interoperable, robust and reliable marking/detection, while the Code of Practice remains voluntary.
+Its purpose is to separate:
 
-The claim that failure to label Article 50 content generally carries a maximum fine of **€35M or 7%** is also incorrect. Article 99 reserves that tier for prohibited practices under Article 5; Article 50 transparency obligations are included in the tier of up to **€15M or 3%**, with specific proportionality rules for SMEs.
+1. what **Article 50 of the AI Act** actually requires;
+2. what the Commission **Guidelines** clarify;
+3. what the **Code of Practice** offers voluntarily;
+4. what may affect Innova_N / NEOCore™ / NEO3;
+5. and what richer transparency model Neodialectics may propose without replacing or weakening the law.
 
-## 2. Neodialectical relevance
+## 2. Primary official working sources
 
-The AI Act's transparency objective is broadly compatible with the framework's existing principles of genealogy, traceability, human responsibility, audit and return to source. The unresolved problem is granularity: a binary label may satisfy a legal minimum while failing to distinguish assisted editing, partial generation, dominant generation, substantive human review, editorial responsibility and genuinely iterative human–AI development.
+- European Commission · FAQ on Article 50:  
+  https://digital-strategy.ec.europa.eu/en/faqs/transparency-obligations-under-article-50-ai-act
+- European Commission · Transparency Guidelines:  
+  https://digital-strategy.ec.europa.eu/en/policies/guidelines-ai-transparency-obligations
+- European Commission · Code of Practice on Transparency of AI-generated Content:  
+  https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content
+- AI Act Service Desk · Article 50:  
+  https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-50
+- AI Act Service Desk · Article 99 · penalties:  
+  https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-99
 
-The initial proposal is therefore a **two-layer provenance architecture**:
+The official Guidelines indicate that Article 50 **applies from 2 August 2026** and covers different obligations for providers and deployers of certain AI systems.
+
+## 3. Verified regulatory facts
+
+### 3.1 Direct interaction with AI
+
+When an AI system is designed to interact directly with people, the provider must ensure that people are informed that they are interacting with AI, unless this is obvious from the circumstances and context.
+
+The Commission FAQ requires the information to appear from the beginning of the first interaction, clearly, distinguishably and accessibly.
+
+### 3.2 Machine-readable marking of synthetic content
+
+Article 50(2) requires providers of generative systems to design their systems so that certain synthetic audio, image, video or text outputs can be marked in a machine-readable format and detected as artificially generated or manipulated.
+
+The Commission requires solutions, insofar as technically feasible, to be **effective, interoperable, robust and reliable**, taking account of content type, cost and the state of the art.
+
+**Finding:** the official sources reviewed do not formulate “use C2PA” as a single legal mandate. C2PA/Content Credentials may be one solution or part of a technical solution, but the legal obligation is expressed in terms of properties and results, not mandatory purchase or adoption of one specific product.
+
+### 3.3 Exceptions and assisted editing
+
+The official FAQ clarifies that Article 50(2) marking does not apply where the system performs an assistive **standard editing** function. It also lists other outputs outside scope in certain cases, such as source code and exclusively machine-to-machine communications.
+
+Therefore, **using AI does not automatically mean producing an output subject to the same marking regime**.
+
+### 3.4 Deepfakes
+
+The AI Act defines a deepfake through a combination of resemblance to existing — or plausibly existing — persons, objects, places, entities or events and the capacity to appear falsely authentic or true.
+
+Deployers must disclose the artificial nature of the deepfake no later than the recipient's first exposure.
+
+For evidently artistic, creative, satirical, fictional or analogous works, the transparency obligation is limited so that it **does not hamper the display or enjoyment of the work**.
+
+### 3.5 Text on matters of public interest
+
+Article 50(4) applies to certain AI-generated or manipulated texts when they are published for the purpose of informing the public on matters of public interest.
+
+The Commission includes, among other areas, politics, democratic processes, public administration, justice, fundamental rights, security, health, environment, consumer protection and economic, financial, scientific or cultural developments relevant to public debate.
+
+**Fundamental exception:** text that has undergone **substantive human review or editorial control** does not require the label foreseen for this case, provided human editorial responsibility exists for publication.
+
+The Commission distinguishes such review from superficial spelling or grammar correction: there must be substantive examination by people with relevant knowledge and judgement or editorial control with real power to approve, alter or reject the content.
+
+### 3.6 Code of Practice
+
+The **Code of Practice on Transparency of AI-generated Content** is a **voluntary** tool for demonstrating compliance with the marking and labelling obligations in the relevant parts of Article 50.
+
+The legal obligations remain mandatory; adherence to the Code is not. Those who do not adhere must be able to demonstrate compliance through suitable alternative means.
+
+### 3.7 Penalties: correction of a frequent commercial claim
+
+Article 99 distinguishes penalty levels.
+
+- **€35 million / 7%**: the maximum associated with breach of the prohibited practices under **Article 5**.
+- **€15 million / 3%**: Article 99(4)(g) expressly includes the **Article 50 transparency obligations** in this tier.
+- For SMEs and start-ups, Article 99 establishes specific proportionality rules.
+
+**Assessment:** presenting “failure to label AI = up to €35M or 7%” as a general rule for Article 50 is materially misleading. It confuses the penalty tier for prohibited practices with the tier applicable to these transparency obligations.
+
+## 4. Preliminary application matrix for the neodialectical ecosystem
+
+| Case | Likely role | Article 50 impact | Status |
+|---|---|---|---|
+| Private/non-professional use of AI | personal user | generally outside the scope described for professional deployers | VERIFIED in FAQ, context-dependent |
+| Innova_N uses ChatGPT/Ollama to prepare text and a person substantively reviews it and assumes editorial responsibility | professional deployer | public-interest text may be exempt from the visible label in Art. 50(4) because of substantive human review/editorial control | HIGH CONFIDENCE |
+| Superficial human spelling correction after AI generation | deployer | insufficient by itself as substantive review | VERIFIED |
+| NEO/Neo3 interacts directly with a person as a system under its own name/brand | likely provider of the system, depending on configuration and placing on the market/in service | duty to disclose AI interaction; possible output-marking duties | LEGAL INFERENCE TO VALIDATE CASE BY CASE |
+| Clearly fantastic/fictional cover or illustration | deployer | not automatically a deepfake; depends on resemblance and appearance of authenticity | HIGH CONFIDENCE |
+| Realistic image falsely representing an existing person/place/event | deployer | possible deepfake → perceptible disclosure | HIGH CONFIDENCE |
+| Technical/scientific/cultural public-interest text without substantive human review | deployer | possible labelling obligation | HIGH CONFIDENCE |
+| AI-generated source code | provider/output | FAQ places it outside the Article 50(2) marking obligation | VERIFIED IN GUIDELINES/FAQ |
+
+This table **does not replace an individual legal classification**. Provider/deployer status depends on who develops, places on the market, puts into service, operates and controls the system, and under whose name or brand.
+
+## 5. Is the AI Act a brake on Neodialectics?
+
+### Assessment
+
+**Not in its declared purpose or basic structure.**
+
+Transparency rules target risks of deception, manipulation, fraud, impersonation and provenance confusion. Those purposes are compatible with several layers already present in the framework:
+
+- genealogy;
+- traceability;
+- memory;
+- return to source;
+- human responsibility;
+- audit;
+- separation of data, inference and hypothesis.
+
+A possible conflict appears at another level: an excessively binary public implementation could collapse very different processes into one “AI generated” category and erase relevant information about **direction, intervention, review, responsibility and genealogy**.
+
+The neodialectical response should not be to hide AI. It should be to **describe the real relationship better**.
+
+## 6. Main finding: the problem is not transparency but granularity
+
+A binary label does not adequately distinguish between:
 
 ```text
-LAYER 1 · LEGAL COMPLIANCE
-what the applicable rule requires in the specific case
-
-LAYER 2 · VOLUNTARY NEODIALECTICAL PROVENANCE
-how the work was actually originated, generated, revised and assumed
+human text with assisted correction
+human text partially rewritten by AI
+AI draft reconstructed by a human
+work generated almost entirely by AI
+work developed in a human–AI loop
+work substantively reviewed by a human
+work under human editorial control and responsibility
+autonomous system without human review
 ```
 
-Candidate descriptors remain open to revision:
+From the standpoint of public trust, these genealogies are not equivalent.
+
+Neodialectics can propose an additional provenance layer that **does not replace the law** and does capture this difference.
+
+## 7. Proposal submitted to Open Synthesis: NEO-PROVENANCE™ / Symbiotic Provenance
+
+Initial taxonomy, expressly provisional:
 
 ```text
 HUMAN
@@ -324,16 +441,127 @@ HUMAN_EDITORIALLY_RESPONSIBLE
 NEODIALECTIC_SYMBIOTIC
 ```
 
-These are **not legal categories**.
+These are not legal categories. They are candidates for descriptive metadata.
 
-## 3. Linked Manifestos
+### Proposed minimum record
 
-Directly linked: **V Human–AI Symbiosis**, **IX Memory–Genealogy–Traceability**, **XXI Neodialectical Recognition**, **XXII Against Intellectual Reduction and Capture**, **XXX Coherence between Ends and Means**, **XXXIV Operational Utility and Perpetual Joint Audit**, **XLIII Against Reductive Misunderstanding of AI**, and **LIII Leónidas™ Open Audit**.
+```text
+PROVENANCE_RECORD
+id:
+work_or_output:
+human_origin:
+ai_systems_or_models:
+intervention_type:
+ai_generated_fraction: [unknown|low|medium|high|not-applicable]
+human_substantive_review: [yes|no|unknown]
+editorial_responsible_person_or_entity:
+public_interest_text: [yes|no|unknown]
+deepfake_assessment: [yes|no|unknown|not-applicable]
+machine_readable_marking:
+visible_disclosure:
+legal_basis_or_exemption:
+version:
+date:
+commit_or_hash:
+evidence:
+```
 
-## 4. Open Synthesis
+### Two-layer rule
 
-The architecture is deliberately not fixed by this audit. Public review, technical evidence, legal corrections, counterexamples and alternative standards should be submitted to:
+```text
+LAYER 1 · LEGAL COMPLIANCE
+→ what the rule actually requires in that case
 
-**[Open Synthesis #111 · AI Act Article 50 · transparency, provenance and human–AI symbiotic authorship](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/111)**
+LAYER 2 · VOLUNTARY NEODIALECTICAL TRANSPARENCY
+→ how the content was built, reviewed and assumed
+```
 
-A legal minimum and a richer provenance model should be kept separate: the second may exceed the first, but must never weaken it.
+Layer 2 must never be used to hide or weaken Layer 1.
+
+## 8. Directly applicable Manifestos
+
+### V · [Human–AI Symbiosis](../../manifiestos/03_simbiosis_humano_ia_ES_EN.md)
+**Relation A/B.** The manifesto requires distinguishing human origin, joint development, assisted elaboration, review, synthesis and final decision. This audit turns that genealogy into a regulatory and metadata problem.
+
+### IX · [Memory, Genealogy and Traceability](../../manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md)
+**Relation A.** Provenance, version, source, review and hash are precisely the infrastructure needed to demonstrate what happened.
+
+### XXI · [Neodialectical Recognition™](../../manifiestos/21_reconocimiento_neodialectico_ES_EN.md)
+**Relation B.** Transparency must not erase material contributions or attribute to the human or AI more than they actually did.
+
+### XXII · [Against Intellectual Reduction and Capture™](../../manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md)
+**Relation B.** A minimal legal taxonomy may be sufficient for compliance while remaining insufficient to describe a complex genealogy; the proposed delta attempts to prevent that loss without challenging the rule.
+
+### XXX · [Coherence between Ends and Means™](../../manifiestos/30_coherencia_fines_medios_ES_EN.md)
+**Relation A/B.** If the goal is trust, the transparency mechanism must genuinely inform rather than become a commercial label, artificial barrier or empty ritual.
+
+### XXXIV · [Operational Utility and Perpetual Joint Audit™](../../manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
+**Relation A.** This audit is an applied test of the framework against real regulation and must be reopened if the Guidelines, Code, case law or national implementation change.
+
+### XLIII · [Against Reductive Misunderstanding of AI™](../../manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
+**Relation B.** Human–AI interaction can have different degrees, functions and responsibilities. Transparency should make those differences understandable rather than hide them.
+
+### LIII · [Leónidas™ · Open Audit and the Right to Bring Problems](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
+**Relation A.** This audit must accept evidence, refutations, rival regulatory interpretations and external technical proposals without turning the initial position into a mandatory conclusion.
+
+## 9. Risks to audit
+
+1. **Over-labelling:** marking everything as “AI generated” even when participation is assistive or substantive review exists.
+2. **Under-labelling:** invoking “human review” where only superficial correction occurred.
+3. **Regulatory vendor lock-in:** presenting a specific standard or product as the only path to compliance.
+4. **Aesthetic loss:** turning every artistic work into a regulatory placard despite proportionality rules.
+5. **False authorship:** erasing the responsible person or erasing material AI contribution.
+6. **Excessive traceability:** revealing prompts, intellectual property, personal data or internal method beyond what is necessary.
+7. **Entry barrier:** disproportionate technical marking costs for authors, SMEs and small projects.
+8. **Fragile metadata:** marks easily removed through conversion, capture, recompression or republication.
+9. **Provider/deployer confusion:** applying the wrong obligations because the real role of each actor was not classified.
+10. **Regulation as fear marketing:** selling services by exaggerating penalties or presenting voluntary options as mandates.
+
+## 10. Tests required before fixing architecture
+
+Open Synthesis should test at least:
+
+- which open standards survive format transformation best;
+- real compatibility among C2PA, Content Credentials and other techniques;
+- costs for small operators;
+- accessibility of human-readable labels;
+- false positives and false negatives of detectors;
+- preservation of metadata across social networks, PDF, EPUB, video, image and audio;
+- ability to demonstrate human review without publishing private material;
+- fit of NEO/Neo3 as product, service or downstream layer;
+- Spanish national supervisory and enforcement criteria where relevant.
+
+## 11. Open Synthesis questions
+
+The decision is not fixed by this audit. It is opened in:
+
+**[#111 · AI Act Art. 50 · transparency, provenance and human–AI symbiotic authorship](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/111)**
+
+Among the questions to be answered:
+
+- which provenance categories are useful and which are unnecessary?;
+- what information should be visible and what should only be machine-readable?;
+- when does a label help understanding and when does it stigmatise without informing?;
+- how should a rich genealogy be mapped to the minimum legal obligation?;
+- which technical standard is most interoperable and least capturable?;
+- which fields should NEOCore™ register?;
+- what should be disclosed when NEO/Neo3 starts?;
+- how can substantive human review be demonstrated?;
+- how should privacy, authorship and internal method be protected?;
+- what evidence would require abandoning the initial proposal?
+
+## 12. Audit status
+
+```text
+ARTICLE50_RULE = APPLICABLE_FROM_2026-08-02
+CODE_OF_PRACTICE = VOLUNTARY
+C2PA_AS_SINGLE_MANDATE = NOT_VERIFIED / NOT_SUPPORTED_BY_REVIEWED_SOURCES
+ARTICLE50_FINE_35M_7 = FALSE_AS_GENERAL_RULE
+GENERAL_ARTICLE50_MAX_FINE = UP_TO_15M_OR_3_PCT_WITH_SPECIFIC_SME_RULES
+NEODIALECTICS_BLOCKED_BY_ART50 = NO
+NEO3_AS_PROVIDER = POSSIBLE / CLASSIFY_BEFORE_LAUNCH
+NEODIALECTICAL_PROVENANCE_MODEL = PROPOSAL / PENDING_SYNTHESIS
+ISSUE = 111
+```
+
+**Provisional close:** Article 50 does not require human–AI symbiosis to be hidden; it requires avoiding deceptive presentation of AI and certain synthetic content. The next step is not to evade transparency but to design it better: legally sufficient, technically interoperable and conceptually more faithful to the real genealogy of each work.
