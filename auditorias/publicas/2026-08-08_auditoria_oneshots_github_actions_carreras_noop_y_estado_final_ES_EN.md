@@ -217,67 +217,128 @@ El sistema debe conservar el error histórico porque informa sobre fragilidad de
 
 ## 1. Reason for review
 
-Gmail received multiple GitHub Actions notifications marked `failed` or `No jobs were run` for one-shot workflows including `one-shot-readmes-v3`, `one-shot-readmes-v4`, `one-shot-homogenize-all-readmes-manifestos`, `one-shot-repair-spanish-index-xlix` and earlier postcheck/synchronisation one-shots.
+Email received multiple GitHub Actions notifications with `failed` or `No jobs were run` states for one-shot workflows related to:
 
-The volume of red notifications could falsely suggest that the repository remained broken. Commit inspection followed by direct workflow-log inspection shows otherwise.
+- `one-shot-readmes-v3`;
+- `one-shot-readmes-v4`;
+- `one-shot-homogenize-all-readmes-manifestos`;
+- `one-shot-repair-spanish-index-xlix`;
+- and earlier postcheck/synchronisation one-shots.
+
+The visual accumulation of notices could suggest that the repository's current state remained broken. Reviewing commits and then the **actual execution logs** shows that this is not the correct interpretation.
 
 ## 2. Confirmed failure in `one-shot-readmes-v4`
 
-The GitHub notification led to:
+The execution indicated by the GitHub email was opened:
 
 - **Workflow run:** `31258964815`
 - **Job:** `93106666045` · `homogenize`
 - **Source commit:** `f617f2f6f6f8bbdb7f8c499bd60e9cfd12cb652e`
 
-The actual job log shows that checkout succeeded, `Homogenize and validate` succeeded, all 13 target READMEs were changed, and the postcheck reported `50/50 manifestos linked`.
+The job shows:
 
-The workflow then created local commit `9ca9f44` but its push was rejected:
+```text
+checkout
+→ SUCCESS
+
+Homogenize and validate
+→ SUCCESS
+→ 13 READMEs modified
+→ POSTCHECK OK: 50/50 manifestos linked
+
+Commit changes
+→ LOCAL COMMIT CREATED: 9ca9f44
+→ PUSH REJECTED: non-fast-forward
+
+Cleanup one-shots
+→ SKIPPED because of the preceding failure
+```
+
+The material line in the log is:
 
 ```text
 ! [rejected] main -> main (non-fast-forward)
 Updates were rejected because the tip of your current branch is behind its remote counterpart.
 ```
 
-The confirmed cause of this run failure is therefore a **concurrent-write race**, not a failed documentary transformation.
+Therefore, for this specific run, the cause of the `failure` **was not an error in the documentary script or a failed postcheck**. It was a **write race**: while this runner was working from `f617f2f`, the `main` branch advanced through another operation and `git push` without a preceding `pull --rebase` was rejected.
 
-## 3. Design allowing the race
+## 3. Design that allowed the race
 
-The workflow used a broad `on: [push]` trigger, committed changes and attempted to push without first rebasing against concurrent remote updates. It then intended to remove several one-shot workflows with another push.
+Commit `f617f2f6f6f8bbdb7f8c499bd60e9cfd12cb652e` registered `one-shot-readmes-v4` with:
 
-With several temporary workflows active at once, two runners could produce valid local deltas from nearby but different repository states; the first push advances `main`, and the second is rejected as non-fast-forward.
+```yaml
+on: [push]
+```
+
+The workflow:
+
+1. ran the homogenisation script;
+2. ran `git add -A`;
+3. created a commit;
+4. ran `git push` **without first integrating concurrent remote changes**;
+5. and only afterwards intended to remove several one-shots and push again.
+
+With several one-shots active and successive pushes, the pattern could produce runners working from different bases.
+
+```text
+RUN A AND RUN B START FROM NEARBY STATES
+→ BOTH GENERATE A DELTA
+→ A PUBLISHES FIRST
+→ main ADVANCES
+→ B TRIES TO PUSH FROM AN OLD BASE
+→ NON-FAST-FORWARD
+→ FAILURE
+```
 
 ## 4. Secondary no-op risk
 
-The workflow also used an unguarded `git commit`. This was **not** the cause of run `31258964815`, because that run successfully created local commit `9ca9f44`.
+The workflow also contained a `git commit` without checking whether staged changes existed.
 
-It remained a separate design risk: another runner applying the identical delta first could leave a clean tree and make the later unguarded commit exit non-zero.
+That was not the cause of run `31258964815`, because that run did create local commit `9ca9f44`.
 
-## 5. `No jobs were run` notifications
+However, it was an additional risk: if another runner had already applied exactly the same delta, the script could finish correctly while `git commit` failed because the tree was clean.
 
-Temporary workflows were created, triggered, changed and deleted through additional pushes. Some queued events therefore referred to workflows whose files or conditions had already changed. This is consistent with the observed notification noise and does not by itself establish an incorrect final repository state.
+The distinction is therefore:
+
+```text
+CONFIRMED CAUSE OF THE ANALYSED RUN
+→ race + non-fast-forward push
+
+ADDITIONAL DESIGN RISK
+→ unguarded no-op commit
+```
+
+## 5. Why `No jobs were run` also appears
+
+Temporary workflows were created, executed, modified and deleted through new pushes. Some notifications correspond to events generated after the workflow file had already changed or disappeared, or when its conditions no longer allowed jobs to run.
+
+That execution noise is consistent with an architecture of multiple ephemeral one-shots chained through pushes. It does not by itself establish that the final content remained unsynchronised.
 
 ## 6. Evidence of later correction
 
-Later successful commits include:
+The red notices do not represent the latest documentary state.
 
-- `ba0fcece6a5ca478e3d2240bb5805624075779db` · complete I–L README homogenisation;
+Later commits with successful results exist:
+
+- `ba0fcece6a5ca478e3d2240bb5805624075779db` · `docs: homogenize all READMEs with complete I-L manifesto network`;
 - `0e8426fff85d90474c7c7f4a1340822b645e9436` · removal of completed homogenisation one-shots;
-- `493452f913e6ba2cef0fd4a25121041b637e81a4` · LI integration;
-- `2e40e055df26bd965764f5fe97f52d484a42674b` · README/link synchronisation through LI;
+- `493452f913e6ba2cef0fd4a25121041b637e81a4` · integration of LI into canonical navigation and README files;
+- `2e40e055df26bd965764f5fe97f52d484a42674b` · synchronisation of README files and links through LI;
 - `b1f78a8821a919af83ec26b2fca92b590eccb1fe` · removal of LI synchronisation one-shots.
 
-A current code search for `name: one-shot` returns no active workflow and `.github/workflows/one-shot-readmes-v4.yml` now returns `404`, consistent with cleanup.
+The current code search for `name: one-shot` returns no active workflows and the path `.github/workflows/one-shot-readmes-v4.yml` returns `404`, consistent with its later removal.
 
 ## 7. Finding
 
 ```text
-FAILED NOTIFICATIONS
-→ genuine historical failed runs
+FAILURE NOTIFICATIONS
+→ genuinely failed historical runs
 
-TRANSFORMATION SCRIPT IN RUN 31258964815
+HOMOGENISATION SCRIPT IN RUN 31258964815
 → successful
 
-POSTCHECK IN THAT RUN
+POSTCHECK IN THE SAME RUN
 → successful: 50/50
 
 FAILURE CAUSE
@@ -293,11 +354,40 @@ DEMONSTRATED CURRENT PERSISTENT FAILURE
 → none detected in this review
 ```
 
+The content should not be repaired again merely because Gmail preserves red notices from earlier runs.
+
 ## 8. Rule for future one-shots
 
-Future one-shots should use a path-limited trigger, idempotent transformation, a concurrency group, rebasing before push, guarded commits, only one active implementation per task, cleanup after successful postcheck and confirmed push, and validation of final repository state rather than the colour of an isolated historical run.
+Future one-shots should satisfy at least:
 
-Where the GitHub connector can perform the required write directly with sufficient traceability, direct writes should be preferred over temporary Actions workflows.
+1. **trigger limited to the workflow's own file**, not global `on: [push]`;
+2. **idempotence**: running twice should produce the same state;
+3. a **concurrency group** to prevent two simultaneous writers in the same family;
+4. **branch update before publishing**;
+5. a **guarded commit**;
+6. one active implementation per task, avoiding concurrent `v2`, `v3`, `v4` versions;
+7. cleanup only after a correct postcheck and confirmed push;
+8. validation of final state rather than interpretation of the colour of one isolated run;
+9. where the GitHub connector can directly perform the modification with sufficient traceability, prefer direct writing and reserve Actions for transformations that are genuinely massive or reproducible.
+
+Recommended minimum pattern:
+
+```bash
+git add -A
+if ! git diff --cached --quiet; then
+  git commit -m "..."
+  git pull --rebase origin main
+  git push origin main
+fi
+```
+
+And at workflow level:
+
+```yaml
+concurrency:
+  group: one-shot-<operation>
+  cancel-in-progress: false
+```
 
 ## 9. Recommended pattern
 
@@ -307,17 +397,17 @@ CREATE ONE UNIQUE ONE-SHOT
 → CHECKOUT
 → IDEMPOTENT TRANSFORMATION
 → VALIDATION
-→ COMMIT ONLY IF DELTA EXISTS
+→ COMMIT ONLY IF A DELTA EXISTS
 → PULL --REBASE
 → PUSH
 → POSTCHECK
-→ REMOVE ONE-SHOT
-→ NO CASCADING RUNS
+→ REMOVE THE ONE-SHOT
+→ NO NEW CASCADING RUNS
 ```
 
 ## 10. Relation to Perpetual Joint Audit™
 
-This incident demonstrates the distinction:
+This incident is a useful example of the difference between:
 
 ```text
 ERROR SIGNAL
@@ -325,7 +415,7 @@ ERROR SIGNAL
 ERRONEOUS FINAL STATE
 ```
 
-Historical failures should remain documented because they reveal process fragility, while the validated final state must be kept distinct to avoid infinite repair loops.
+The system must preserve the historical error because it provides information about process fragility, while distinguishing it from the validated final state so as not to enter infinite repair cycles.
 
 ---
 
