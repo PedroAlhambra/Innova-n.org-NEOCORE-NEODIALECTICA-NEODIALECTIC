@@ -225,12 +225,7 @@
   - 7: párrafos ES=3 EN=2
   - 11: lists ES=6 EN=0
   - 11: párrafos ES=2 EN=1
-- `manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md` · ES=447 · EN=338 · ratio=0.76
-  - volumen EN/ES=0.76 (338/447)
-  - 2: code ES=1 EN=0
-  - 2: párrafos ES=2 EN=1
-  - 6: lists ES=10 EN=0
-  - 6: párrafos ES=0 EN=1
+- `manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md` · ES=447 · EN=445 · ratio=1.00
   - 7: párrafos ES=1 EN=0
 - `neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md` · ES=791 · EN=769 · ratio=0.97
   - 9: párrafos ES=3 EN=2
@@ -364,10 +359,7 @@
   - Regla de lectura: párrafos ES=2 EN=1
 - `wiki-source/Manifiestos.md` · ES=184 · EN=187 · ratio=1.02
   - Regla documental: párrafos ES=1 EN=0
-- `wiki-source/Mapa_del_Marco.md` · ES=261 · EN=202 · ratio=0.77
-  - volumen EN/ES=0.77 (202/261)
-  - Síntesis y participación: lists ES=8 EN=6
-  - Síntesis y participación: párrafos ES=1 EN=0
+- `wiki-source/Mapa_del_Marco.md` · ES=240 · EN=219 · ratio=0.91
   - Regla: párrafos ES=2 EN=1
 - `wiki-source/NeoGenealogia.md` · ES=307 · EN=282 · ratio=0.92
   - Qué es: párrafos ES=3 EN=2
@@ -617,7 +609,7 @@
 | `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `manifiestos/anexos/2026-08-07_anexo_reversion_ideologica_I_VIII_XXII_XXX_XXXI_ES_EN.md` | **REVISAR** | Anexo al Manifiesto VIII · Ingeniería Social Abierta: lists ES=8 EN=0; Anexo al Manifiesto XXXI · Neuromarketing Antihumanista: lists ES=6 EN=0; Regla de integración futura: lists ES=6 EN=0; Regla de integración futura: párrafos ES=2 EN=3 |
 | `manifiestos/deltas/LXI_delta_genetica_adn_neopandora_custodia_multiescalar_ES_EN.md` | **REVISAR** | 2: lists ES=12 EN=0; 2: párrafos ES=3 EN=2; 5: code ES=1 EN=0; 7: lists ES=6 EN=0; 7: párrafos ES=3 EN=2; 11: lists ES=6 EN=0; 11: párrafos ES=2 EN=1 |
-| `manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md` | **REVISAR** | volumen EN/ES=0.76 (338/447); 2: code ES=1 EN=0; 2: párrafos ES=2 EN=1; 6: lists ES=10 EN=0; 6: párrafos ES=0 EN=1; 7: párrafos ES=1 EN=0 |
+| `manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md` | **REVISAR** | 7: párrafos ES=1 EN=0 |
 | `neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md` | **REVISAR** | 9: párrafos ES=3 EN=2 |
 | `neoaxiomas/README.md` | **OK** |  |
 | `obras/README.md` | **OK** |  |
@@ -666,7 +658,7 @@
 | `wiki-source/Filosofia_y_NEOCore.md` | **REVISAR** | Cómo leer el núcleo sin reducirlo: párrafos ES=2 EN=1 |
 | `wiki-source/Home.md` | **REVISAR** | Regla de lectura: párrafos ES=2 EN=1 |
 | `wiki-source/Manifiestos.md` | **REVISAR** | Regla documental: párrafos ES=1 EN=0 |
-| `wiki-source/Mapa_del_Marco.md` | **REVISAR** | volumen EN/ES=0.77 (202/261); Síntesis y participación: lists ES=8 EN=6; Síntesis y participación: párrafos ES=1 EN=0; Regla: párrafos ES=2 EN=1 |
+| `wiki-source/Mapa_del_Marco.md` | **REVISAR** | Regla: párrafos ES=2 EN=1 |
 | `wiki-source/NeoGenealogia.md` | **REVISAR** | Qué es: párrafos ES=3 EN=2; Fuentes canónicas: párrafos ES=1 EN=0 |
 | `wiki-source/Neoaxiomas.md` | **REVISAR** | Regla: párrafos ES=1 EN=0 |
 | `wiki-source/Obras_y_Cultura.md` | **REVISAR** | Hacia WEB4™: párrafos ES=2 EN=1 |
