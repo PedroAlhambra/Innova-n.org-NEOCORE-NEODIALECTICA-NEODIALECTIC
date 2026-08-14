@@ -172,8 +172,9 @@
   - Estado del índice de manifiestos: párrafos ES=2 EN=3
 - `auditorias/publicas/2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md` · ES=794 · EN=774 · ratio=0.97
   - 10: párrafos ES=1 EN=2
-- `auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md` · ES=171 · EN=174 · ratio=1.02
-  - Enlaces internos rotos del grafo vivo: párrafos ES=0 EN=1
+- `auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md` · ES=171 · EN=87 · ratio=0.51
+  - volumen EN/ES=0.51 (87/171)
+  - esqueleto de encabezados distinto ES=[(3, ''), (3, '')] EN=[]
 - `auditorias/publicas/2026-08-10_auditoria_responsabilidad_historica_infraestructuras_publicas_espana_ES_EN.md` · ES=1146 · EN=1139 · ratio=0.99
   - 11: párrafos ES=1 EN=0
 - `auditorias/publicas/2026-08-11_postcheck_LXIX_LXXII_C_NAX_19_navegacion_paridad_ES_EN.md` · ES=1437 · EN=1362 · ratio=0.95
@@ -326,9 +327,8 @@
   - IX: párrafos ES=2 EN=1
   - X: lists ES=12 EN=2
   - X: párrafos ES=3 EN=4
-- `propuestas/sintesis-abierta/GUIA_RAPIDA_APORTAR_EVIDENCIA_ES_EN.md` · ES=592 · EN=443 · ratio=0.75
-  - volumen EN/ES=0.75 (443/592)
-  - esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, ''), (3, ''), (2, ''), (3, '1'), (3, '2'), (2, ''), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')]
+- `propuestas/sintesis-abierta/GUIA_RAPIDA_APORTAR_EVIDENCIA_ES_EN.md` · ES=592 · EN=608 · ratio=1.03
+  - ¿No sabes dónde poner tu aporte?: párrafos ES=4 EN=3
 - `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · ES=187 · EN=193 · ratio=1.03
   - Auditoría musical DistroKid–Spotify–DSP: párrafos ES=2 EN=3
 - `propuestas/sintesis-abierta/MEDICI_CREDITOS_PLATAFORMAS_COMPENSACION_ES_EN.md` · ES=630 · EN=621 · ratio=0.99
@@ -559,7 +559,7 @@
 | `auditorias/publicas/2026-08-09_auditoria_regresiones_historicas_manifiestos_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Auditoría histórica no reductiva de manifiestos |
 | `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Auditoría relacional MAXPROC · Manifiestos ↔ Neoaxiomas ↔ publicaciones ↔ Síntesis Abierta / Cocitación documental · candidatos de relación para revisión SAN |
 | `auditorias/publicas/2026-08-09_distrokid_ticket_4499471_royalty_routing_ES_EN.md` | **OK** |  |
-| `auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md` | **REVISAR** | Enlaces internos rotos del grafo vivo: párrafos ES=0 EN=1 |
+| `auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md` | **REVISAR** | volumen EN/ES=0.51 (87/171); esqueleto de encabezados distinto ES=[(3, ''), (3, '')] EN=[] |
 | `auditorias/publicas/2026-08-09_postcheck_neocore_7_1_integridad_relacional_no_reductiva_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Postcheck NEOCore™ 7.1 · integridad relacional y no reductiva |
 | `auditorias/publicas/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-10_auditoria_responsabilidad_historica_infraestructuras_publicas_espana_ES_EN.md` | **REVISAR** | 11: párrafos ES=1 EN=0 |
@@ -679,7 +679,7 @@
 | `propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` | **REVISAR** | I: code ES=1 EN=0; II: lists ES=7 EN=0; II: párrafos ES=3 EN=2; III: lists ES=7 EN=0; VI: lists ES=15 EN=0; VII: code ES=1 EN=0; VII: párrafos ES=3 EN=2; VIII: lists ES=8 EN=0; IX: párrafos ES=3 EN=2; XI: lists ES=14 EN=3; XI: párrafos ES=3 EN=4 |
 | `propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md` | **REVISAR** | I: lists ES=14 EN=0; II: code ES=2 EN=1; II: párrafos ES=4 EN=3; III: párrafos ES=5 EN=4; IV: lists ES=8 EN=0; IV: code ES=1 EN=0; V: lists ES=9 EN=0; VI: lists ES=7 EN=0; VI: párrafos ES=5 EN=4; VIII: lists ES=9 EN=0; IX: párrafos ES=2 EN=1; X: lists ES=12 EN=2; X: párrafos ES=3 EN=4 |
 | `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` | **OK** |  |
-| `propuestas/sintesis-abierta/GUIA_RAPIDA_APORTAR_EVIDENCIA_ES_EN.md` | **REVISAR** | volumen EN/ES=0.75 (443/592); esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, ''), (3, ''), (2, ''), (3, '1'), (3, '2'), (2, ''), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] |
+| `propuestas/sintesis-abierta/GUIA_RAPIDA_APORTAR_EVIDENCIA_ES_EN.md` | **REVISAR** | ¿No sabes dónde poner tu aporte?: párrafos ES=4 EN=3 |
 | `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` | **REVISAR** | Auditoría musical DistroKid–Spotify–DSP: párrafos ES=2 EN=3 |
 | `propuestas/sintesis-abierta/MEDICI_CREDITOS_PLATAFORMAS_COMPENSACION_ES_EN.md` | **REVISAR** | 9: párrafos ES=4 EN=3 |
