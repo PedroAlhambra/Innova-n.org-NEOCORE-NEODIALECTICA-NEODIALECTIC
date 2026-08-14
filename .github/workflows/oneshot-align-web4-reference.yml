@@ -1,0 +1,109 @@
+name: oneshot-align-web4-reference
+
+on:
+  push:
+    paths:
+      - '.github/workflows/oneshot-align-web4-reference.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: oneshot-align-web4-reference
+  cancel-in-progress: false
+
+jobs:
+  align:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Align public WEB4 reference and install guard
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          root=Path('.').resolve()
+          readme=root/'web4/README.md'
+          reader=root/'web4/manifiestos/index.html'
+          audit=root/'.github/scripts/audit_markdown_links_readmes.py'
+
+          s=readme.read_text(encoding='utf-8')
+          s=s.replace(
+              '# WEB4™ · SistemaTrazable™ · Proyección pública\n# WEB4™ · SistemaTrazable™ · Public projection',
+              '# WEB4™ · SistemaTrazable™ · DEMO documental pública\n# WEB4™ · SistemaTrazable™ · Public documentary DEMO'
+          )
+          marker='**Actualización / Updated:** 2026-08-13.\n'
+          notice='''**Actualización / Updated:** 2026-08-13.\n**Superficie WEB4™ pública viva / Living public WEB4™ surface:** [innova-n.org](https://innova-n.org).\n\n> **Alcance / Scope:** este directorio `web4/` conserva una **DEMO / prototipo documental público versionado**. No es una copia exacta de la implementación actualmente desplegada en `innova-n.org` ni una segunda fuente de verdad del producto. / this `web4/` directory preserves a **versioned public documentary DEMO / prototype**. It is not an exact copy of the implementation currently deployed at `innova-n.org`, nor a second source of product truth.\n'''
+          if 'Superficie WEB4™ pública viva' not in s:
+              if marker not in s:
+                  raise SystemExit('Cannot locate WEB4 README status marker')
+              s=s.replace(marker,notice,1)
+          s=s.replace('### Superficies actuales','### Superficies de esta DEMO pública')
+          s=s.replace('### Current surfaces','### Surfaces of this public DEMO')
+          s=s.replace('`index.html`](./index.html) — portada WEB4™ actual.','`index.html`](./index.html) — portada de esta DEMO pública.')
+          s=s.replace('`index.html`](./index.html) — current WEB4™ home page.','`index.html`](./index.html) — home page of this public DEMO.')
+          readme.write_text(s,encoding='utf-8')
+
+          h=reader.read_text(encoding='utf-8')
+          h=h.replace('I–LXXIV + ∞','I–LXXV + ∞')
+          h=h.replace('Registro canónico integrado','DEMO documental · registro versionado')
+          h=h.replace('GitHub = fuente canónica · WEB4™ = lectura, relación y navegación.','GitHub = fuente canónica · esta DEMO = lectura de referencia · innova-n.org = WEB4™ viva.')
+          old='Esta página es una <strong>DEMO / proyección pública WEB4™ · SistemaTrazable™</strong>, no la implementación definitiva.'
+          new='Esta página es una <strong>DEMO documental pública WEB4™ · SistemaTrazable™</strong>, no la implementación desplegada en <a href="https://innova-n.org">innova-n.org</a>.'
+          h=h.replace(old,new)
+          if "['LXXV'" not in h:
+              pat=r"(\['LXXIV',[^\]]+\])"
+              entry="['LXXV','Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™','75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md']"
+              h,n=re.subn(pat,lambda m:m.group(1)+','+entry,h,count=1)
+              if n!=1:
+                  raise SystemExit('Could not insert LXXV in WEB4 manifesto reader')
+          reader.write_text(h,encoding='utf-8')
+
+          a=audit.read_text(encoding='utf-8')
+          if 'WEB4 reference guard' not in a:
+              needle="if not canonical:\n    critical.append('No se pudo reconstruir la colección canónica desde el índice. / The canonical collection could not be reconstructed from the index.')\n"
+              block="""# WEB4 reference guard: innova-n.org is the living public product surface;\n# web4/ is only a versioned documentary DEMO and its manifesto reader must\n# still follow the canonical frontier while it remains published.\nif canonical:\n    web4_readme = root / 'web4/README.md'\n    web4_reader = root / 'web4/manifiestos/index.html'\n    if web4_readme.exists():\n        wr = web4_readme.read_text(encoding='utf-8', errors='replace')\n        if 'innova-n.org' not in wr or 'DEMO' not in wr:\n            critical.append('web4/README.md no distingue la DEMO documental de innova-n.org como superficie viva. / web4/README.md does not distinguish the documentary DEMO from innova-n.org as the living surface.')\n    if web4_reader.exists():\n        wh = web4_reader.read_text(encoding='utf-8', errors='replace')\n        if f'I–{latest_roman}' not in wh or latest.name not in wh:\n            critical.append(f'El lector WEB4 documental no sigue la frontera {latest_roman}. / The documentary WEB4 reader does not follow frontier {latest_roman}.')\n\n"""+needle
+              if needle not in a:
+                  raise SystemExit('Cannot install WEB4 reference guard')
+              a=a.replace(needle,block,1)
+          audit.write_text(a,encoding='utf-8')
+
+          # Hard local checks
+          rr=readme.read_text(encoding='utf-8')
+          hh=reader.read_text(encoding='utf-8')
+          assert 'innova-n.org' in rr and 'DEMO' in rr
+          assert 'I–LXXV + ∞' in hh
+          assert "['LXXV'" in hh
+          assert '75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md' in hh
+          print('WEB4_REFERENCE_ALIGNMENT=OK')
+          PY
+
+      - name: Re-run documentary audits
+        shell: bash
+        run: |
+          set -euo pipefail
+          python .github/scripts/audit_markdown_links_readmes.py
+          python .github/scripts/audit_es_en_parity.py
+          python .github/scripts/audit_manifesto_bilingual_structure.py
+          python .github/scripts/audit_relations_neocore.py
+          grep -F '**Estado / Status:** **OK**' auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md
+          grep -F '**Recortes/materialmente asimétricos para revisión:** 0' auditorias/publicas/2026-08-09_auditoria_paridad_ES_EN_manifiestos_articulos.md
+          grep -F '**REVISAR / REVIEW:** 0' auditorias/publicas/2026-08-12_auditoria_estructura_bilingue_manifiestos_ES_EN.md
+
+      - name: Commit alignment and remove this one-shot
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git rm .github/workflows/oneshot-align-web4-reference.yml
+          git add -A
+          git commit -m 'docs: distinguir WEB4 viva de DEMO documental pública'
+          git pull --rebase origin main
+          git push origin main
