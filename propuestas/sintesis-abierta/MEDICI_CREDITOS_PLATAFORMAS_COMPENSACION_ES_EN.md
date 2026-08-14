@@ -96,7 +96,7 @@ Una misma empresa puede tener simultáneamente:
 ```text
 CAPA GRATUITA       → elegible MÉDICI™
 CAPA SUBVENCIONADA  → elegibilidad proporcional
-CAPA DE PAGO         → crédito, sin MÉDICI™ directo
+CAPA DE PAGO        → crédito, sin MÉDICI™ directo
 AYUDA EXTRAORDINARIA → nueva evaluación del valor no compensado
 ```
 
@@ -172,13 +172,27 @@ Cada plataforma debería poder mostrar progresivamente:
 
 ### 1. Universal infrastructure credit principle
 
-Innova_N should publicly recognise the platforms, tools, infrastructures and services that materially enable development, traceability, publication, communication, distribution or execution of the framework.
+Innova_N should publicly recognise the platforms, tools, infrastructures and services that materially enable the development, traceability, publication, communication, distribution or execution of the framework.
 
 **Credit does not mean conceptual authorship, ownership of the framework or sovereignty over Synthesis.**
 
-### 2. MÉDICI™ rule: the less compensated the useful contribution, the greater the eligibility
+```text
+INFRASTRUCTURE CONTRIBUTION
+→ CREDIT + TRACE
 
-Platforms may accrue MÉDICI™ recognition for the **net value they provide without already having been compensated for that same value**.
+CREDIT
+≠ CONCEPTUAL AUTHORSHIP
+≠ SOVEREIGNTY
+≠ OWNERSHIP
+```
+
+Recognition should appear in WEB4™ and preserve enough genealogy to establish which platform supported which function and during which period.
+
+### 2. MÉDICI™ rule: more uncompensated contribution, greater eligibility
+
+Platforms may generate MÉDICI™ recognition for the **net value they contribute without already having been compensated for that same value**.
+
+The fundamental rule is:
 
 ```text
 FREE / UNCOMPENSATED CONTRIBUTION
@@ -192,7 +206,7 @@ PAID / COMPENSATED CONTRIBUTION
 → 0 DIRECT MÉDICI™ FOR THE ALREADY-PAID FRACTION
 ```
 
-Charging for a service is not penalised. The rule simply prevents double compensation.
+A platform is not penalised for charging. The rule simply prevents the same contribution from being compensated twice: once through money or contractual consideration and again through a token.
 
 ### 3. Candidate conceptual formula
 
@@ -203,32 +217,111 @@ PLATFORM_MÉDICI
 × QUALITY / USEFULNESS / CONTINUITY / TRACEABILITY
 ```
 
-A fully paid baseline receives public credit and genealogy but no direct MÉDICI™ for the paid portion. Freemium, discounted, advertising/data-supported, revenue-share and extraordinary free support are evaluated by their actual uncompensated fraction.
+Where:
 
-### 4. No double compensation
+- `UNCOMPENSATED_FRACTION = 1` when useful value is contributed without payment or materially equivalent consideration;
+- `0 < UNCOMPENSATED_FRACTION < 1` when there is a freemium, discount, cross-subsidy, advertising, data, revenue-share or other partially compensated relationship;
+- `UNCOMPENSATED_FRACTION = 0` for the portion fully paid or compensated through a traditional relationship.
 
-The same value should not be fully compensated both contractually and through MÉDICI™. A paid platform still retains visible credit, genealogy, functional recognition and causal-contribution metrics where relevant.
+The exact value is not invented: it should be derived from NeoCronos™, evidence of use, avoided cost, availability, quality and open valuation rules.
 
-### 5. Mixed services
+### 4. Prohibition of double compensation
 
-Classification applies to the actual service layer used, not permanently to an entire company. One provider may simultaneously contribute free, partially compensated and paid layers.
+```text
+SAME VALUE
++ FULL CONTRACTUAL PAYMENT
++ FULL MÉDICI™
+= DOUBLE COMPENSATION
+= NO
+```
+
+A paid platform always retains:
+
+- visible credit;
+- genealogy;
+- recognition of function;
+- causal-contribution percentage where appropriate;
+- history of collaboration or support.
+
+But it **does not receive MÉDICI™ directly for the portion already remunerated**.
+
+If it also provides extraordinary, free assistance or support not included in the contract, that additional portion may become eligible again.
+
+### 5. Mixed and freemium services
+
+Classification is made by the **actual service used**, not by the brand as a whole.
+
+The same company may simultaneously have:
+
+```text
+FREE LAYER          → MÉDICI™ eligible
+SUBSIDISED LAYER    → proportional eligibility
+PAID LAYER          → credit, no direct MÉDICI™
+EXTRAORDINARY HELP  → new assessment of uncompensated value
+```
+
+There is therefore no permanent label of “free company” or “paid company”.
 
 ### 6. Initial support-platform registry
 
-WEB4™ should maintain a visible, recalculable registry including, according to actual use and relationship: **GitHub, OpenAI/ChatGPT, Amazon/KDP, Google services, LinkedIn, YouTube, DistroKid and streaming platforms**, plus future traceable infrastructures.
+WEB4™ should maintain a visible and recalculable register of platforms that materially support the ecosystem. Among those already used or documented, according to their specific function and relationship, are:
 
-Being credited does not imply blanket endorsement and does not cancel audits or disputes.
+- **GitHub** — repositories, commits, Issues, traceability, automation and possible WEB4/GitHub Pages projection;
+- **OpenAI / ChatGPT** — AI infrastructure used for symbiotic work, reading, relation, challenge, assisted generation and operation of the framework;
+- **Amazon / KDP** — editorial infrastructure, print on demand, publication and distribution of *IDEA*;
+- **Google** — email, tools and services used where applicable;
+- **LinkedIn** — outreach, contact and public opening of conversations where applicable;
+- **YouTube** — audiovisual and music publication/consultation where applicable;
+- **DistroKid and streaming platforms** — music distribution and related services, while keeping open audits of specific incidents separate;
+- any future infrastructure whose contribution can be demonstrated and traced.
 
-### 7. GitHub
+**Inclusion in credits does not amount to blanket endorsement of the company and does not cancel audits, disagreements or incidents.** Recognising contribution and auditing behaviour are compatible functions.
 
-If WEB4™ is projected through GitHub Pages or equivalent GitHub infrastructure without direct cost to Innova_N, the uncompensated portion should be especially visible because GitHub would be supporting documentary memory, versioning, genealogy, Issues-based Open Synthesis, automation and public projection.
+### 7. GitHub case
 
-### 8. Token-layer separation
+If WEB4™ ends up being projected directly through GitHub Pages or equivalent GitHub infrastructure at no direct cost to Innova_N, that contribution should be made especially visible because GitHub would simultaneously support:
 
-Platform MÉDICI™ recognition is distinct from foundational recognition and from causal-contribution percentages. A candidate balance does not by itself imply money, equity, legal participation, sovereign voting power or a financial right.
+```text
+DOCUMENTARY MEMORY
++ VERSIONING
++ GENEALOGY
++ OPEN SYNTHESIS THROUGH ISSUES
++ AUTOMATION
++ PUBLIC PROJECTION
+```
+
+The portion that is effectively uncompensated will be eligible for MÉDICI™ under the general rule.
+
+### 8. Token separation
+
+Platform MÉDICI™ recognition **must not be confused with other tokens or recognition layers of the framework**.
+
+```text
+PLATFORM MÉDICI™
+= RECOGNITION OF USEFUL UNCOMPENSATED CONTRIBUTION
+
+FOUNDATIONAL TOKEN / RECOGNITION
+= DISTINCT LAYER
+
+CAUSAL-CONTRIBUTION PERCENTAGE
+= DISTINCT METRIC
+```
+
+The existence of credit or a candidate balance does not by itself imply monetary value, equity, legal participation, sovereign voting power or a financial right until an explicit implementation and regime exist.
 
 ### 9. WEB4™ rule
 
-Infrastructure credits should be visible and useful. Each platform should progressively expose function, period, support type, compensation mode, MÉDICI™ eligibility, relevant traces, related audits and current status.
+WEB4™ should display infrastructure credits legibly rather than hiding them in a minimal legal note.
 
-> **If Innova_N demands traceability from human contribution, it should also recognise the infrastructure that makes its own operation possible.**
+Each platform should progressively be able to display:
+
+- function;
+- period;
+- nature of support;
+- compensation: free / partial / paid;
+- MÉDICI™ eligibility;
+- relevant traces or sources;
+- related open audits;
+- and current status.
+
+> **If Innova_N requires traceability of human contribution, it should also recognise the infrastructure that makes its own existence possible.**
