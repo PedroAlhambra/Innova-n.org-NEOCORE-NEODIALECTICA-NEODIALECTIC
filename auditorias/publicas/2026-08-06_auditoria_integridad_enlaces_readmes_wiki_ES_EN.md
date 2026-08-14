@@ -179,7 +179,29 @@ This audit checks the structural integrity of:
 
 ## 3. Manifestos and canonical targets
 
-The existence of all nineteen destinations used by the general indexes was checked.
+The existence of all nineteen destinations used by the general indexes was checked:
+
+```text
+I    manifiestos/11_neo0_soberania_de_guia_ES_EN.md
+II   manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md
+III  manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md
+IV   manifiestos/02_neodialectica_bien_comun_ES_EN.md
+V    manifiestos/03_simbiosis_humano_ia_ES_EN.md
+VI   manifiestos/09_parasitismo_sistemico_ES_EN.md
+VII  manifiestos/04_economia_del_aporte_ES_EN.md
+VIII manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md
+IX   manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md
+X    manifiestos/07_web4_sistematrazable_ES_EN.md
+XI   manifiestos/08_neorrenacimiento_humano_ES_EN.md
+XII  manifiestos/12_los_sin_ego_ES_EN.md
+XIII manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md
+XIV  manifiestos/14_contra_alienacion_humana_ES_EN.md
+XV   manifiestos/15_los_titanes_despertar_de_la_gente_ES_EN.md
+XVI  manifiestos/16_refragmentacion_arquetipica_ES_EN.md
+XVII manifiestos/17_respeto_todos_seres_vivos_ES_EN.md
+XVIII manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md
+XIX  manifiestos/19_persistencia_de_la_memoria_ES_EN.md
+```
 
 The canonical path for Manifesto XII is `12_los_sin_ego_ES_EN.md`. Historical path `10_los_sin_ego_ES_EN.md` remains solely as a documentary redirect so that previous external links are not broken.
 
@@ -193,7 +215,17 @@ The second wave and return to origin are linked in both Spanish and English as f
 XII → XIII → XIV → XV → XVI → XVII → XVIII → XIX → I → II
 ```
 
-Each manifesto from XIII to XIX contains the ES/EN selector, complete Spanish and English sections, Open Synthesis, contribution-protocol link, corresponding Issue, previous navigation, index link and next navigation.
+Each manifesto from XIII to XIX contains:
+
+* ES/EN selector;
+* complete Spanish section;
+* complete English section;
+* Open Synthesis;
+* contribution-protocol link;
+* corresponding Issue link;
+* previous navigation;
+* index link;
+* and next navigation.
 
 ## 5. General routes repaired or normalised
 
@@ -213,11 +245,25 @@ Traceable directory `wiki-source/` was created with:
 * `Analisis_Neodialecticos_Publicos.md` — updated analyses and audits;
 * `_Sidebar.md` — complete lateral navigation.
 
+The source fixes:
+
+* NEOCore™ 7.0;
+* the nineteen manifestos;
+* the two waves;
+* Open Syntheses #3–#10;
+* recent analyses and audits;
+* IDEA;
+* and canonical repository links.
+
 ## 7. Actual pending item
 
 GitHub Wiki uses a separate technical repository. The available connection can modify the main repository but cannot write directly to the Wiki repository.
 
-Therefore, the complete source is created and versioned, but `Home`, `Manifiestos`, `_Sidebar` and `Analisis_Neodialecticos_Publicos` still need to be copied into the public Wiki through its editing interface or an authorised Git connection for the Wiki.
+Therefore:
+
+* the complete source is created and versioned;
+* links from the main repository to the source are active;
+* but `Home`, `Manifiestos`, `_Sidebar` and `Analisis_Neodialecticos_Publicos` still need to be copied into the public Wiki through its editing interface or an authorised Git connection for the Wiki.
 
 The public Wiki is not declared updated until deployment and real render verification have been completed.
 
