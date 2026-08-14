@@ -14,6 +14,7 @@
 * [Neoaxiomas™ / Neoaxioms™](Neoaxiomas)
 * [Síntesis Abierta™ / Open Synthesis™](Sintesis_Abierta)
 * [Participar / Participate](Participar)
+* [Aportes, trazabilidad y reconocimiento / Contributions, traceability and recognition](Aportes_y_Reconocimiento)
 
 ## Investigar / Research
 
