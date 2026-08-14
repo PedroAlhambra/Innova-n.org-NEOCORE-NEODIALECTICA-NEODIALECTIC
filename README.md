@@ -21,12 +21,14 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 <!-- NEOCORE_72_DELTA_START -->
 
-## NEOCore™ 7.2 · Delta actual / Current delta
+## NEOCore™ 7.2 · Fijación documental / Documentary fixation
 
-**Soberanía de Síntesis™ + Innova_N Fundación/Corporación futuras + corpus I–LXXIV + ∞ + WEB4™ actualizado.**  
+**Fijación del 2026-08-10: Soberanía de Síntesis™ + Innova_N Fundación/Corporación futuras + corpus I–LXVIII + ∞ + WEB4™ actualizado a ese estado.**  
+Este bloque conserva el estado fijado por el delta 7.2. El corpus vivo continuó evolucionando después de esa fijación y actualmente alcanza **I–LXXV + ∞**; esa evolución no reescribe retrospectivamente el delta histórico. / This block preserves the state fixed by the 7.2 delta. The living corpus continued evolving after that fixation and currently reaches **I–LXXV + ∞**; that evolution does not retrospectively rewrite the historical delta.
+
 La Fundación custodiará propósito y Bien Común; la Corporación materializará infraestructura y sostenibilidad; ninguna sustituye a la Síntesis. NeoCronos™ permanece experimental y revisable. / The Foundation will guard purpose and the Common Good; the Corporation will materialise infrastructure and sustainability; neither replaces Synthesis. NeoCronos™ remains experimental and revisable.
 
-**[Leer delta 7.2 / Read 7.2 delta](proyeccion/NEOCORE_7_2_DELTA_ES_EN.md)** · **[WEB4™](web4/README.md)** · **[Neoaxiomas™](neoaxiomas/README.md)**
+**[Leer fijación 7.2 / Read 7.2 fixation](proyeccion/NEOCORE_7_2_DELTA_ES_EN.md)** · **[WEB4™](web4/README.md)** · **[Neoaxiomas™](neoaxiomas/README.md)**
 
 <!-- NEOCORE_72_DELTA_END -->
 
@@ -90,7 +92,7 @@ El marco integra filosofía, memoria, inteligencia artificial, trazabilidad, sí
 
 | Área | Acceso |
 |---|---|
-| **Filosofía y marco** | [Filosofía Neodialéctica · Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Philosophy_Neodialectic) · [Portada civilizatoria](./PORTADA.md) |
+| **Filosofía y marco** | [Filosofía Neodialéctica · Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Philosophy_Neodialectic) · [Mapa documental](./wiki-source/Mapa_del_Marco.md) |
 | **Manifiestos** | **[I–LXXV · 75 manifiestos bilingües](./manifiestos/README.md)** |
 | **Neoaxiomas™** | [Capa Axiomática Abierta](./neoaxiomas/README.md) · [Síntesis específicas](./propuestas/sintesis-abierta/README.md#neoaxiomas--síntesis-abierta-específica--neoaxioms--dedicated-open-synthesis) |
 | **Mapa relacional vivo** | [Manifiestos ↔ trabajo aplicado](./manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Auditoría MAXPROC](./auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md) |
@@ -134,10 +136,10 @@ Los manifiestos son los **pilares públicos de la Filosofía Arquetípica Neodia
 
 Últimos nodos:
 
-- [LVI · NO-CONTROL™ · Síntesis Previa a la Potencia](./manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md)
-- [LVII · Madre, Refugio y Retorno Consciente™](./manifiestos/57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md)
-- [LVIII · Inteligencia Civilizatoria™ · Democracia Cognitiva y Deber de Síntesis](./manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md)
-- [LIX · Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana](./manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md)
+- [LXXII · El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad](./manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md)
+- [LXXIII · Maduración Invertida™ · Humanidad Común y Degradación Arquetípica Reversible](./manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md)
+- [LXXIV · Asimetría de la Destrucción™ · Del Trol Humano al Bot](./manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md)
+- [LXXV · Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™](./manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md)
 
 ## Análisis, auditorías y evidencia
 
@@ -170,9 +172,9 @@ La capa pública no contiene la implementación completa de **NEOCore™, NAVE�
 
 ## Navegación
 
-[LEEME](./LEEME.md) · [PORTADA](./PORTADA.md) · [Manifiestos](./manifiestos/README.md) · [Síntesis Abierta](./propuestas/sintesis-abierta/README.md) · [Análisis](./analisis/README.md) · [Auditorías](./auditorias/publicas/README.md) · [Obras](./obras/README.md) · [Proyección](./proyeccion/README.md) · [Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki) · [Wiki-source](./wiki-source/README.md) · [LinkedIn Neo0](https://www.linkedin.com/in/pmalhambra/) · [LinkedIn Innova_N](https://www.linkedin.com/company/innova-n/) · [innova-n.org](https://innova-n.org)
+[README / Inicio](./README.md) · [Manifiestos](./manifiestos/README.md) · [Síntesis Abierta](./propuestas/sintesis-abierta/README.md) · [Análisis](./analisis/README.md) · [Auditorías](./auditorias/publicas/README.md) · [Obras](./obras/README.md) · [Proyección](./proyeccion/README.md) · [Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki) · [Wiki-source](./wiki-source/README.md) · [LinkedIn Neo0](https://www.linkedin.com/in/pmalhambra/) · [LinkedIn Innova_N](https://www.linkedin.com/company/innova-n/) · [innova-n.org](https://innova-n.org)
 
-[↑ Volver arriba](#innova_n--neocore-71--neodialéctica--neodialectics--neodialectica-framework)
+[↑ Volver arriba](#innova_n--neocore-72--neodialéctica--neodialectics--neodialectica-framework)
 
 ---
 
@@ -190,7 +192,7 @@ The framework integrates philosophy, memory, artificial intelligence, traceabili
 
 | Area | Access |
 |---|---|
-| **Philosophy and framework** | [Neodialectical Philosophy · Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Philosophy_Neodialectic) · [Civilisational cover](./PORTADA.md) |
+| **Philosophy and framework** | [Neodialectical Philosophy · Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Philosophy_Neodialectic) · [Documentary map](./wiki-source/Mapa_del_Marco.md) |
 | **Manifestos** | **[I–LXXV · 75 bilingual manifestos](./manifiestos/README.md)** |
 | **Neoaxioms™** | [Open Axiomatic Layer](./neoaxiomas/README.md) · [Dedicated syntheses](./propuestas/sintesis-abierta/README.md#neoaxiomas--síntesis-abierta-específica--neoaxioms--dedicated-open-synthesis) |
 | **Living relational map** | [Manifestos ↔ applied work](./manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [MAXPROC audit](./auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md) |
@@ -234,10 +236,10 @@ The manifestos are the **public pillars of Archetypal Neodialectical Philosophy�
 
 Latest nodes:
 
-- [LVI · NO-CONTROL™ · Synthesis Before Power](./manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md)
-- [LVII · Mother, Refuge and Conscious Return™](./manifiestos/57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md)
-- [LVIII · Civilisational Intelligence™ · Cognitive Democracy and Duty of Synthesis](./manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md)
-- [LIX · Distributed Cognitive Custodianship™ · AI, Repair and Human Responsibility](./manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md)
+- [LXXII · The Custodian Man™ · Strength, Desire, Power and Responsibility](./manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md)
+- [LXXIII · Inverted Maturation™ · Common Humanity and Reversible Archetypal Degradation](./manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md)
+- [LXXIV · Asymmetry of Destruction™ · From the Human Troll to the Bot](./manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md)
+- [LXXV · The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™](./manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md)
 
 ## Analyses, audits and evidence
 
@@ -270,6 +272,6 @@ The public layer does not contain the complete implementation of **NEOCore™, N
 
 ## Navigation
 
-[LEEME](./LEEME.md) · [PORTADA](./PORTADA.md) · [Manifestos](./manifiestos/README.md) · [Open Synthesis](./propuestas/sintesis-abierta/README.md) · [Analyses](./analisis/README.md) · [Audits](./auditorias/publicas/README.md) · [Works](./obras/README.md) · [Projection](./proyeccion/README.md) · [Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki) · [Wiki-source](./wiki-source/README.md) · [LinkedIn Neo0](https://www.linkedin.com/in/pmalhambra/) · [LinkedIn Innova_N](https://www.linkedin.com/company/innova-n/) · [innova-n.org](https://innova-n.org)
+[README / Home](./README.md) · [Manifestos](./manifiestos/README.md) · [Open Synthesis](./propuestas/sintesis-abierta/README.md) · [Analyses](./analisis/README.md) · [Audits](./auditorias/publicas/README.md) · [Works](./obras/README.md) · [Projection](./proyeccion/README.md) · [Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki) · [Wiki-source](./wiki-source/README.md) · [LinkedIn Neo0](https://www.linkedin.com/in/pmalhambra/) · [LinkedIn Innova_N](https://www.linkedin.com/company/innova-n/) · [innova-n.org](https://innova-n.org)
 
-[↑ Back to top](#innova_n--neocore-71--neodialéctica--neodialectics--neodialectica-framework)
+[↑ Back to top](#innova_n--neocore-72--neodialéctica--neodialectics--neodialectica-framework)
