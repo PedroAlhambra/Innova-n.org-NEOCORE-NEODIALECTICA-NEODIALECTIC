@@ -1,6 +1,6 @@
 # Innova_N
 
-**NEOCore™ · estado vivo / living state**
+**NEOCore™ 7.2 · estado vivo / living state**
 
 ## Entrar / Enter
 
