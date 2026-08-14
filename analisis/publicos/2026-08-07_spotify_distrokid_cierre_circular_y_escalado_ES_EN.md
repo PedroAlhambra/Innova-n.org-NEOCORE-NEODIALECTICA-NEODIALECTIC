@@ -103,55 +103,86 @@ Este paso no pudo ejecutarse por correo porque DistroKid exige el uso de su form
 
 On 6 August 2026 Spotify Artist Support replied to the formal royalty-routing audit and record-preservation request concerning **Yellow Quasar, Techno Bach and El Reino de las Maravillas**.
 
-The response did not address the requested catalogue-specific investigation. It provided a general explanation of Spotify's revenue distribution model, streamshare calculation and the distinction between recording and publishing royalties.
+The response did not address the specific object requested. It gave a general explanation of Spotify's revenue-distribution model, *streamshare* calculation and the distinction between recording and publishing royalties.
 
-Spotify made one material statement: its Royalty Reporting team had provided DistroKid with accurate and up-to-date reporting. It did not identify the relevant ISRCs, UPCs, releases, artist mappings, recipient accounts, historical changes, preserved records or responsible investigative team.
+Spotify added one material statement: its Royalty Reporting team had allegedly provided DistroKid with accurate and up-to-date information. However, it did not identify:
+
+1. the ISRCs, UPCs, releases and artist profiles associated with each work;
+2. the account, entity or rightsholder receiving each royalty report;
+3. historical changes to identifiers, metadata or recipients;
+4. possible attribution to accounts not controlled by the author;
+5. preserved records concerning routes, reports and payments;
+6. the internal team responsible for investigating a disputed metadata or payment chain.
 
 ## 2. DistroKid closure
 
-DistroKid replied that the relevant ticket had been closed and that further contact had to be submitted through its Help Center. A second automated reply stated that the inbox was not monitored and again redirected the request to the same contact form.
+After the second escalation sent to DistroKid, the system replied that an attempt had been made to respond to a closed ticket and required a new request through the Help Center.
 
-The resulting process is circular:
+Another automated message stated that the mailbox was not monitored and again redirected the request to the same form.
+
+The operational state is therefore:
 
 ```text
 SPOTIFY
-→ refers the author to DistroKid
+→ refers to DistroKid
 
 DISTROKID
 → closes the ticket
 → rejects continuation by email
-→ requires a new web-form submission
+→ requires another web-form submission
 
 RESULT
 → neither party performs the requested audit
-→ no materially responsible team is identified
+→ a referral loop remains without a materially responsible actor
 ```
 
-## 3. Renewed escalation to Spotify
+## 3. Renewed escalation sent to Spotify
 
-On 7 August 2026 a new formal escalation was sent to Spotify Artist Support.
+On 7 August 2026 a new formal email was sent to Spotify Artist Support.
 
-It rejected the generic explanation as insufficient, restated the six audit questions, documented DistroKid's closure, requested escalation to Royalty Reporting, metadata integrity and legal/compliance, demanded preservation of all relevant records and asked Spotify not to close the case while the audit remains unanswered.
+The message:
 
-The email was sent to `artistsupport@spotify.com`, copied to `pedro.m.alhambra@innova-n.org`, under the subject:
+- expressly rejected the generic explanation as a sufficient response;
+- restated the six audit questions;
+- reported that DistroKid had closed the ticket and rejected continuation;
+- characterised the situation as circular escalation;
+- requested escalation to Royalty Reporting, metadata integrity and legal/compliance;
+- required preservation of all relevant records;
+- asked for an internal case reference and responsible team;
+- requested that the case not be closed and that no satisfaction survey be sent while it remained unanswered.
+
+The message was sent to `artistsupport@spotify.com`, copied to `pedro.m.alhambra@innova-n.org`, under the subject:
 
 > Formal escalation: unanswered royalty-routing audit and record-preservation request
 
 ## 4. Provisional finding
 
-Spotify's response establishes only that Spotify considers the reporting delivered to DistroKid accurate and that DistroKid directly administers the catalogue royalties.
+Spotify's response confirms only that it attributes direct administration of royalties to DistroKid and considers the information delivered to that distributor to be correct.
 
-It does not establish who actually received the reports or payments, which identifiers were used, whether mappings changed, whether any misrouting occurred or whether the necessary records have been preserved.
+It does not establish:
 
-DistroKid's administrative closure does not answer the technical or financial request.
+- who actually received the reports or payments;
+- which identifiers were used;
+- whether changes occurred;
+- whether there was misrouting or incorrect attribution;
+- or whether the records needed to reconstruct the chain have been preserved.
+
+DistroKid's response also does not resolve the substance. Its administrative closure prevents continuation of the ticket but does not answer the technical or financial request.
 
 The case remains open.
 
 ## 5. Next operational step
 
-A new DistroKid Help Center submission must be opened, expressly linking tickets **2901165** and **2941949**, attaching Spotify's response and requiring a full identifier, metadata, reporting, recipient and payment-chain reconciliation.
+A new request must be opened through the DistroKid Help Center, expressly linking tickets **2901165** and **2941949**, attaching Spotify's response and requiring:
 
-This step could not be completed by email because DistroKid requires its web contact form.
+1. complete identification of releases, ISRCs and UPCs;
+2. history of metadata changes;
+3. the account or entity receiving the reports and royalties;
+4. reconciliation between the reports sent by Spotify and those shown by DistroKid;
+5. preservation of records;
+6. a written response from a responsible human representative.
+
+This step could not be carried out by email because DistroKid requires use of its web form.
 
 ---
 
