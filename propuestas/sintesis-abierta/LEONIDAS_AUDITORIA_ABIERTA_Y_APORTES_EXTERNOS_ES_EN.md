@@ -1,7 +1,7 @@
 # Leónidas™ · Auditoría Abierta y propuestas externas
 # Leónidas™ · Open Audit and external proposals
 
-**Estado / Status:** protocolo operativo inicial · 2026-08-09  
+**Estado / Status:** protocolo operativo inicial · 2026-08-09 / initial operational protocol · 2026-08-09  
 **Relación / Relation:** [LIII · Manifiesto Leónidas™](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
 
 ---
@@ -66,8 +66,10 @@ Para la investigación musical se solicitan especialmente casos comparables de a
 
 Leónidas™ opens two public routes:
 
-1. **Contribute to an existing audit** by adding evidence, refutations, comparable cases, timelines, sources or repair proposals to its associated Issue.
-2. **Propose a new audit** using the `Public Audit · contribution or new proposal` Issue template, defining the object, known facts, evidence, uncertainty, possible contradictions, desired outcome and privacy limits.
+1. **Contribute to an existing audit**: add evidence, refutations, comparable cases, timelines, sources or repair proposals in the associated Issue.
+2. **Propose a new audit**: open an Issue using the `Public Audit · contribution or new proposal` template, defining the object, known facts, evidence, uncertainties, possible contradictions, desired outcome and privacy limits.
+
+### Minimum rule
 
 ```text
 PROBLEM
@@ -78,12 +80,42 @@ PROBLEM
 = ADMISSIBLE PROPOSAL FOR EXAMINATION
 ```
 
-Admission does not validate an allegation or bind the audit to the contributor's interpretation.
+Admission does not validate an allegation or require adoption of the contributor's interpretation.
 
-The operational flow is: external contribution → Issue → classification → initial verification → right of response where appropriate → rival hypotheses → provisional synthesis → versioned document → delta/repair/closure → reopening when material new evidence appears.
+### Flow
 
-For the DistroKid–Spotify–DSP music investigation, comparable cases from artists and labels are particularly useful: disappearing/reappearing tracks, mixed profiles, mappings, identifiers, conflicting metadata, royalties, circular support or impersonation. The purpose is evidence comparison, not recruitment into a predetermined allegation.
+```text
+EXTERNAL CONTRIBUTION
+→ ISSUE
+→ CLASSIFICATION
+→ INITIAL VERIFICATION
+→ RIGHT OF RESPONSE WHERE APPROPRIATE
+→ RIVAL HYPOTHESES
+→ PROVISIONAL SYNTHESIS
+→ VERSIONED DOCUMENT
+→ DELTA / REPAIR / CLOSURE
+→ REOPENING IF MATERIAL NEW EVIDENCE APPEARS
+```
+
+### What to contribute
+
+Prioritise:
+
+- persistent URLs;
+- captures with date/context when necessary;
+- case, catalogue, work, ticket, order or transaction identifiers when they can legitimately be published;
+- complete communications or sufficient excerpts to preserve context;
+- chronology;
+- primary sources;
+- contradictory evidence;
+- precise description of the repair sought.
+
+Do not publish credentials, telephone numbers, home addresses, medical data, information about minors or other unnecessary personal data.
+
+### DistroKid–Spotify–DSP music audit
+
+For the music investigation, comparable cases from artists and labels are especially requested concerning disappearing/reappearing tracks, mixed profiles, mappings, ISRC/UPC or other identifiers, conflicting metadata, royalties, circular support or impersonation. The purpose is to compare evidence, not to recruit support for a prior allegation.
 
 ---
 
-**Innova_N · NEOCore™ · Síntesis Abierta™**
+**Innova_N · NEOCore™ · Síntesis Abierta™ / Open Synthesis™**
