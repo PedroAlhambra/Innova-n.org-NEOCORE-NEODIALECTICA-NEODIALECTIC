@@ -18,8 +18,8 @@ def write_if_changed(path: Path, text: str):
         path.write_text(text, encoding='utf-8')
         print('updated', path)
 
-# 1) Canonical naming across README/LEEME files.
-for path in [p for p in ROOT.rglob('*.md') if p.name.startswith('README') or p.name == 'LEEME.md']:
+# 1) Canonical naming across README files.
+for path in [p for p in ROOT.rglob('*.md') if p.name.startswith('README')]:
     text = path.read_text(encoding='utf-8')
     text = text.replace('## Red completa de manifiestos / Complete manifesto network',
                         '## Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™')

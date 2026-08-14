@@ -25,7 +25,7 @@ y con la lógica de entrada al ecosistema como acto de cuidado, autoría y decis
 **Volver al fragmento anterior →** [Fragmento IV](04_Fragmento-IV.md)
 
 **Volver al Índice →** [ÍNDICE](./INDICE.md)  
-**Volver a la Portada →** [PORTADA](../PORTADA.md)
+**Volver a la Portada →** [Inicio / Home](../README.md)
 
 ---
 

@@ -162,7 +162,7 @@ Links with an ASIN use the clean pattern `https://www.amazon.es/dp/ASIN`, withou
 * [Metadatos públicos / Public metadata](./METADATA.json)
 * [Registro de enlaces / Link register](./LINKS.json)
 * [Kit público ES/EN / Public kit ES/EN](./PRESS_KIT_ES_EN.md)
-* [Volver al LEEME principal](../../LEEME.md)
+* [Inicio / Home](../../README.md)
 * [Back to the main README](../../README.md)
 
 ---

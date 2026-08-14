@@ -25,7 +25,7 @@ and to the logic of entering the ecosystem as an act of care, authorship, and de
 **Next Fragment →** [Fragment VI](./06_Fragment-VI.md)
 
 **Go back to the Fragments Index →** [INDEX](./INDEX.md)  
-**Go back to the Cover →** [COVER](../COVER.md)
+**Go back to the Cover →** [Inicio / Home](../README.md)
 
 ---
 

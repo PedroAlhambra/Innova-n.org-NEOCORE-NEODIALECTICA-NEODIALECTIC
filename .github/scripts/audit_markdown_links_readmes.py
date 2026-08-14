@@ -136,7 +136,7 @@ lines = [
     '**Fecha / Date:** 2026-08-12  ',
     f'**Estado / Status:** **{status}**',
     '',
-    '> **Alcance / Scope:** el grafo vivo excluye `wiki-legacy-archive/` y las entradas raíz legacy `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` y `FOREWORD.md`. Esos archivos permanecen temporalmente versionados mientras se migran referencias, pero no constituyen superficies canónicas vivas. / the living graph excludes `wiki-legacy-archive/` and the root legacy entry files `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` and `FOREWORD.md`. Those files remain temporarily versioned while references are migrated, but they are not living canonical surfaces.',
+    '> **Alcance / Scope:** el grafo vivo excluye `wiki-legacy-archive/` y las entradas raíz legacy `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` y `FOREWORD.md`. Esos nombres legacy no constituyen superficies canónicas vivas; tras su retirada de `main`, su contenido histórico permanece recuperable mediante Git. / the living graph excludes `wiki-legacy-archive/` and the root legacy entry files `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` and `FOREWORD.md`. Those legacy names are not living canonical surfaces; after retirement from `main`, their historical contents remain recoverable through Git.',
     '',
     '## ES · Resultado',
     '',

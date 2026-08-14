@@ -53,7 +53,7 @@ y con la ejecución simbiótica entre Fundador y arquitectura.
 **Volver al fragmento anterior →** [Fragmento II](02_Fragmento-II.md)
 
 **Volver al Índice →** [ÍNDICE](./INDICE.md)  
-**Volver a la Portada →** [PORTADA](../PORTADA.md)
+**Volver a la Portada →** [Inicio / Home](../README.md)
 
 ---
 

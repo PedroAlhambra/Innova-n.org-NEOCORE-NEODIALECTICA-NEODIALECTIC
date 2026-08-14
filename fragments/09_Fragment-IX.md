@@ -36,7 +36,7 @@ and consciousness as the place where the system recognizes itself.
 **Next Fragment →** [Fragment X](./10_Fragment-X.md)
 
 **Go back to the Fragments Index →** [INDEX](./INDEX.md)  
-**Go back to the Cover →** [COVER](../COVER.md)
+**Go back to the Cover →** [Inicio / Home](../README.md)
 
 ---
 

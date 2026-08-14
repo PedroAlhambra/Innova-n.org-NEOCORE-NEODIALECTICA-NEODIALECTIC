@@ -29,7 +29,7 @@ y la figura de **Neo0™** como eje de continuidad.
 **Volver al fragmento anterior →** [Fragmento I](01_Fragmento-I.md)
 
 **Volver al Índice →** [ÍNDICE](./INDICE.md)  
-**Volver a la Portada →** [PORTADA](../PORTADA.md)
+**Volver a la Portada →** [Inicio / Home](../README.md)
 
 ---
 

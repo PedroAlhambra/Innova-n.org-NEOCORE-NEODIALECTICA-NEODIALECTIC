@@ -13,6 +13,7 @@ EXCLUDED_PREFIXES = (
     '.github/workflows/',
     'manifiestos/canonicos/',
 )
+LEGACY_ROOT_NAMES = {'LEEME.md', 'PORTADA.md', 'COVER.md', 'PREFACIO.md', 'FOREWORD.md'}
 
 # Recognise every explicit language gate, not only one house spelling.
 # Examples: ES · Castellano, ES · Versión española, EN · English version,
@@ -23,6 +24,7 @@ EN_PATTERNS = [r'^#{1,4}\s+EN\s+·\s+[^\n]+$']
 SHARED_TAIL_MARKERS = [
     '<!-- NEO_RELATIONS_START -->',
     '<!-- NEO_RELATED_WORK_START -->',
+    '<!-- NEO_RELATED_MANIFESTOS_START -->',
     '<!-- NEO_OPEN_SYNTHESIS_INVITATION_START -->',
     '<!-- NEO_MANIFESTO_NAV_START -->',
     '<!-- MANIFESTOS_CURRENT_START -->',
@@ -190,7 +192,7 @@ def audit_split(rel,es,en):
 
 
 def bilingual_filename(p):
-    return '_ES_EN' in p.name or p.name in {'README.md','LEEME.md','COVER.md','PORTADA.md'}
+    return '_ES_EN' in p.name or p.name == 'README.md'
 
 
 def paired_heading_issues(text):
@@ -215,6 +217,7 @@ rows=[]; split_fail=[]; marker_fail=[]; paired_review=[]
 active_md=[]
 for p in sorted(ROOT.rglob('*.md')):
     rel=p.relative_to(ROOT).as_posix()
+    if p.parent == ROOT and p.name in LEGACY_ROOT_NAMES: continue
     if any(part in EXCLUDED_PARTS for part in p.parts): continue
     if rel.startswith(EXCLUDED_PREFIXES): continue
     active_md.append(p)

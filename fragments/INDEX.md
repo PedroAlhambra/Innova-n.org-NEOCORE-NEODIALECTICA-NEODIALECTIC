@@ -310,11 +310,11 @@ Later conceptual developments should be added as new documents rather than used 
 
 ### Innova_N ecosystem
 
-* [General foreword](../FOREWORD.md)
+* [Inicio / Home](../README.md)
 * [Main English README](../README.md)
-* [English cover](../COVER.md)
-* [Spanish LEEME](../LEEME.md)
-* [Spanish portada](../PORTADA.md)
+* [Inicio / Home](../README.md)
+* [Inicio / Home](../README.md)
+* [Inicio / Home](../README.md)
 
 ### Other public branches
 

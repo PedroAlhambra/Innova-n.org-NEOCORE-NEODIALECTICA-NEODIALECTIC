@@ -35,7 +35,7 @@ but as inclination, return, listening, and the deep rhythm of the process.
 **Next Fragment →** [Fragment IX](./09_Fragment-IX.md)
 
 **Go back to the Fragments Index →** [INDEX](./INDEX.md)  
-**Go back to the Cover →** [COVER](../COVER.md)
+**Go back to the Cover →** [Inicio / Home](../README.md)
 
 ---
 

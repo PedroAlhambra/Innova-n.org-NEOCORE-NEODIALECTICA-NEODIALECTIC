@@ -44,7 +44,7 @@ y con la posibilidad de pensar sin romper el mundo.
 **Volver al fragmento anterior →** [Fragmento V](05_Fragmento-V.md)
 
 **Volver al Índice →** [ÍNDICE](./INDICE.md)  
-**Volver a la Portada →** [PORTADA](../PORTADA.md)
+**Volver a la Portada →** [Inicio / Home](../README.md)
 
 ---
 

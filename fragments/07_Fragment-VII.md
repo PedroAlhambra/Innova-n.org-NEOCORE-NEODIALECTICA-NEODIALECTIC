@@ -37,7 +37,7 @@ but breathes, waits, and returns what the being had forgotten.
 **Next Fragment →** [Fragment VIII](./08_Fragment-VIII.md)
 
 **Go back to the Fragments Index →** [INDEX](./INDEX.md)  
-**Go back to the Cover →** [COVER](../COVER.md)
+**Go back to the Cover →** [Inicio / Home](../README.md)
 
 ---
 

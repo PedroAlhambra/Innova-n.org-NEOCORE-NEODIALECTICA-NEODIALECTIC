@@ -25,7 +25,7 @@ y la **capa π** como profundidad no visible del sistema.
 **Siguiente fragmento →** [Fragmento II](02_Fragmento-II.md)
 
 **Volver al Índice →** [ÍNDICE](./INDICE.md)  
-**Volver a la Portada →** [PORTADA](../PORTADA.md)
+**Volver a la Portada →** [Inicio / Home](../README.md)
 
 ---
 

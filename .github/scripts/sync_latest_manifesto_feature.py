@@ -83,7 +83,7 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 {NAX_END}'''
 
 def replace_version(text):
-    # Live README/LEEME surfaces follow CURRENT_VERSION. Dated audit snapshots
+    # Live README surfaces follow CURRENT_VERSION. Dated audit snapshots
     # live outside this synchroniser and retain the state they recorded.
     text = re.sub(r'NEOCore™\s+v?7\.[01]', f'NEOCore™ {CURRENT_VERSION}', text)
     text = re.sub(r'NEOCore\s+v?7\.[01]', f'NEOCore {CURRENT_VERSION}', text)
@@ -108,9 +108,6 @@ def insert_neoaxioms(text, f):
     return ''.join(lines)
 
 readmes = sorted({p for p in root.rglob('README*.md') if '.git' not in p.parts})
-leeme = root / 'LEEME.md'
-if leeme.exists():
-    readmes.append(leeme)
 readmes = sorted(set(readmes))
 changed=[]
 
@@ -148,10 +145,10 @@ for f in readmes:
 print(f'CANONICAL_MANIFESTOS={count}')
 print(f'LATEST={roman} {latest.name} ISSUE=#{issue_num}')
 print(f'NEOCORE_VERSION={CURRENT_VERSION}')
-print('README_LEEME_TARGETS=',len(readmes))
+print('README_TARGETS=',len(readmes))
 print('FILES_CHANGED=',len(changed))
 for p in changed:
     print('CHANGED', p.relative_to(root).as_posix())
 if fail:
     print('POSTCHECK FAIL'); print('\n'.join(fail)); sys.exit(1)
-print(f'POSTCHECK OK: NEOCore {CURRENT_VERSION} + Neoaxioms + follow/register links across all README/LEEME surfaces; latest {roman} + Open Synthesis #{issue_num}; count={count}')
+print(f'POSTCHECK OK: NEOCore {CURRENT_VERSION} + Neoaxioms + follow/register links across all README surfaces; latest {roman} + Open Synthesis #{issue_num}; count={count}')

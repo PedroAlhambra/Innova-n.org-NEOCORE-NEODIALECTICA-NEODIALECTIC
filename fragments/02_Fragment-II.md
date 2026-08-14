@@ -28,7 +28,7 @@ and the role of **Neo0™** as an axis of continuity.
 **Next Fragment →** [Fragment III](./03_Fragment-III.md)
 
 **Go back to the Fragments Index →** [INDEX](./INDEX.md)  
-**Go back to the Cover →** [COVER](../COVER.md)
+**Go back to the Cover →** [Inicio / Home](../README.md)
 
 ---
 

@@ -11,10 +11,7 @@ Esta página referencia las principales superficies públicas sin duplicar sus c
 
 ## Núcleo documental
 
-- [README raíz](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/README.md) — puerta documental principal.
-- [LEEME](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/LEEME.md) — entrada extensa en castellano.
-- [PORTADA](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/PORTADA.md) / [COVER](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/COVER.md) — proyección conceptual de entrada.
-- [PREFACIO](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/PREFACIO.md) / [FOREWORD](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/FOREWORD.md) — contexto de lectura.
+- [README raíz](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/README.md) — puerta documental canónica bilingüe. Los antiguos `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` y `FOREWORD.md` quedan retirados de `main`; su historia permanece en Git.
 
 ## Filosofía, memoria y principios
 
@@ -85,10 +82,7 @@ This page references the principal public surfaces without duplicating their con
 
 ## Documentary core
 
-- [Root README](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/README.md) — main documentary gateway.
-- [LEEME](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/LEEME.md) — extensive Spanish-language entry.
-- [PORTADA](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/PORTADA.md) / [COVER](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/COVER.md) — conceptual entry projection.
-- [PREFACIO](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/PREFACIO.md) / [FOREWORD](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/FOREWORD.md) — reading context.
+- [Root README](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/README.md) — canonical bilingual documentary gateway. The former `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` and `FOREWORD.md` are retired from `main`; their history remains in Git.
 
 ## Philosophy, memory and principles
 

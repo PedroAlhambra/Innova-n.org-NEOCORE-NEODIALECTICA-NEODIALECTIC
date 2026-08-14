@@ -28,7 +28,7 @@ and to the symbiotic execution between Founder and architecture.
 **Next Fragment →** [Fragment IV](./04_Fragment-IV.md)
 
 **Go back to the Fragments Index →** [INDEX](./INDEX.md)  
-**Go back to the Cover →** [COVER](../COVER.md)
+**Go back to the Cover →** [Inicio / Home](../README.md)
 
 ---
 

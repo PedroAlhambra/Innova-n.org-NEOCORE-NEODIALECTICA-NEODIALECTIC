@@ -44,7 +44,7 @@ y los arquetipos salen convertidos en decisiones comprendidas.
 **Volver al fragmento anterior →** [Fragmento III](03_Fragmento-III.md)
 
 **Volver al Índice →** [ÍNDICE](./INDICE.md)  
-**Volver a la Portada →** [PORTADA](../PORTADA.md)
+**Volver a la Portada →** [Inicio / Home](../README.md)
 
 ---
 

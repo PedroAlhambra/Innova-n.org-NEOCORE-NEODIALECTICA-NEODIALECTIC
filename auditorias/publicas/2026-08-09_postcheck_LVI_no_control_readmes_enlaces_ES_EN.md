@@ -3,17 +3,17 @@
 **Fecha / Date:** 2026-08-12  
 **Estado / Status:** **OK**
 
-> **Alcance / Scope:** el grafo vivo excluye `wiki-legacy-archive/` y las entradas raíz legacy `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` y `FOREWORD.md`. Esos archivos permanecen temporalmente versionados mientras se migran referencias, pero no constituyen superficies canónicas vivas. / the living graph excludes `wiki-legacy-archive/` and the root legacy entry files `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` and `FOREWORD.md`. Those files remain temporarily versioned while references are migrated, but they are not living canonical surfaces.
+> **Alcance / Scope:** el grafo vivo excluye `wiki-legacy-archive/` y las entradas raíz legacy `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` y `FOREWORD.md`. Esos nombres legacy no constituyen superficies canónicas vivas; tras su retirada de `main`, su contenido histórico permanece recuperable mediante Git. / the living graph excludes `wiki-legacy-archive/` and the root legacy entry files `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` and `FOREWORD.md`. Those legacy names are not living canonical surfaces; after retirement from `main`, their historical contents remain recoverable through Git.
 
 ## ES · Resultado
 
 - Archivos Markdown activos revisados: **362**.
 - Archivos Markdown históricos excluidos del estado vivo: **55**.
-- Entradas legacy excluidas del estado vivo: **5**.
+- Entradas legacy excluidas del estado vivo: **0**.
 - README activos revisados: **17**.
-- Enlaces internos de ruta comprobados: **10388**.
+- Enlaces internos de ruta comprobados: **10390**.
 - Alias internos de GitHub Wiki reconocidos: **43**.
-- Enlaces externos inventariados sin comprobar disponibilidad remota: **1852**.
+- Enlaces externos inventariados sin comprobar disponibilidad remota: **1840**.
 - Enlaces sólo a ancla detectados: **410**.
 - Bloques de último manifiesto encontrados en README: **8**.
 - Manifiestos canónicos detectados: **75 · I–LXXV**.
@@ -38,11 +38,11 @@
 
 - Active Markdown files reviewed: **362**.
 - Historical Markdown files excluded from living-state health: **55**.
-- Legacy entry files excluded from living-state health: **5**.
+- Legacy entry files excluded from living-state health: **0**.
 - Active README files reviewed: **17**.
-- Internal path links checked: **10388**.
+- Internal path links checked: **10390**.
 - GitHub Wiki extensionless page aliases recognised: **43**.
-- External links inventoried without checking remote availability: **1852**.
+- External links inventoried without checking remote availability: **1840**.
 - Anchor-only links detected: **410**.
 - Latest-manifesto blocks found in README files: **8**.
 - Canonical manifestos detected: **75 · I–LXXV**.

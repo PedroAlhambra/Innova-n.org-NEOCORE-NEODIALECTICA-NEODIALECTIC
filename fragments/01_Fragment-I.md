@@ -25,7 +25,7 @@ and the **π-layer** as the non-visible depth of the system.
 **Next fragment →** [Fragment II](./02_Fragment-II.md)
 
 **Go back to the Fragments Index →** [INDEX](./INDEX.md)  
-**Go back to the Cover →** [COVER](../COVER.md)
+**Go back to the Cover →** [Inicio / Home](../README.md)
 
 ---
 

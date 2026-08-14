@@ -37,7 +37,7 @@ y con la función del marco como puente entre mundos que antes no se tocaban.
 **Volver al fragmento anterior →** [Fragmento IX](09_Fragmento-IX.md)
 
 **Volver al Índice →** [ÍNDICE](./INDICE.md)  
-**Volver a la Portada →** [PORTADA](../PORTADA.md)
+**Volver a la Portada →** [Inicio / Home](../README.md)
 
 ---
 

@@ -35,7 +35,7 @@ sino como inclinación, retorno, escucha y ritmo profundo del proceso.
 **Volver al fragmento anterior →** [Fragmento VII](07_Fragmento-VII.md)
 
 **Volver al Índice →** [ÍNDICE](./INDICE.md)  
-**Volver a la Portada →** [PORTADA](../PORTADA.md)
+**Volver a la Portada →** [Inicio / Home](../README.md)
 
 ---
 

@@ -36,7 +36,7 @@ def footer(f):
 
 {FOOT_B}'''
 
-readmes=sorted({p for p in ROOT.rglob('README*.md') if '.git' not in p.parts}|({ROOT/'LEEME.md'} if (ROOT/'LEEME.md').exists() else set()))
+readmes=sorted({p for p in ROOT.rglob('README*.md') if '.git' not in p.parts})
 idx=MIDX.read_text(encoding='utf-8'); mans=[];seen=set()
 for href in re.findall(r'^- \*\*[IVXLCDM]+\*\* · \[[^\]]+\]\(([^)]+\.md)\)',idx,re.M):
     p=(MIDX.parent/href).resolve()
@@ -62,6 +62,6 @@ for f in readmes:
 for f in mans:
     t=f.read_text(encoding='utf-8')
     if t.count(FOOT_A)!=1 or t.count(FOOT_B)!=1 or REL_ISSUE not in re.search(re.escape(FOOT_A)+r'.*?'+re.escape(FOOT_B),t,re.S).group(0):fail.append(f'{f}: footer')
-print('README_LEEME',len(readmes),'MANIFESTOS',len(mans),'CHANGED',len(set(changed)))
+print('README',len(readmes),'MANIFESTOS',len(mans),'CHANGED',len(set(changed)))
 if fail:print('POSTCHECK FAIL');print('\n'.join(fail));sys.exit(1)
 print('POSTCHECK OK: relational navigation exposes map, audit and Open Synthesis #98 without touching source bodies')

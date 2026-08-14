@@ -7,22 +7,15 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **291**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **211**.
-- Fallos estructurales divididos / Split structural failures: **121**.
+- Markdown activo examinado / Active Markdown scanned: **286**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **206**.
+- Fallos estructurales divididos / Split structural failures: **118**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **24**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
 
-- `COVER.md` · ES=1112 · EN=1099 · ratio=0.99
-  - Deltas transversales recientes: párrafos ES=1 EN=2
-- `LEEME.md` · ES=4254 · EN=3262 · ratio=0.77
-  - volumen EN/ES=0.77 (3262/4254)
-  - esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')]
-- `PORTADA.md` · ES=1520 · EN=1495 · ratio=0.98
-  - Límite de la capa pública: párrafos ES=2 EN=3
 - `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · ES=3046 · EN=2684 · ratio=0.88
   - **Patrón institucional observado**: párrafos ES=45 EN=47
 - `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · ES=699 · EN=644 · ratio=0.92
@@ -126,7 +119,7 @@
   - Estado del índice de manifiestos: párrafos ES=2 EN=3
 - `auditorias/publicas/2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md` · ES=794 · EN=774 · ratio=0.97
   - 10: párrafos ES=1 EN=2
-- `auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md` · ES=171 · EN=174 · ratio=1.02
+- `auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md` · ES=196 · EN=196 · ratio=1.00
   - Enlaces internos rotos del grafo vivo: párrafos ES=0 EN=1
 - `auditorias/publicas/2026-08-10_auditoria_responsabilidad_historica_infraestructuras_publicas_espana_ES_EN.md` · ES=1146 · EN=1139 · ratio=0.99
   - 11: párrafos ES=1 EN=0
@@ -214,7 +207,7 @@
   - 7: párrafos ES=1 EN=0
 - `neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md` · ES=791 · EN=769 · ratio=0.97
   - 9: párrafos ES=3 EN=2
-- `obras/idea/PRESS_KIT_ES_EN.md` · ES=953 · EN=963 · ratio=1.01
+- `obras/idea/PRESS_KIT_ES_EN.md` · ES=953 · EN=962 · ratio=1.01
   - Cita editorial recomendada: lists ES=0 EN=6
   - Cita editorial recomendada: párrafos ES=2 EN=5
 - `obras/idea/RANSOL_RED_DEL_TIEMPO_ARBOLES_INVISIBLES_ETERNOS_ES_EN.md` · ES=297 · EN=305 · ratio=1.03
@@ -317,13 +310,16 @@
   - Bucle de producto objetivo: párrafos ES=2 EN=1
 - `wiki-source/Analisis_Neodialecticos_Publicos.md` · ES=163 · EN=165 · ratio=1.01
   - Cómo aportar: párrafos ES=2 EN=1
-- `wiki-source/Filosofia_y_NEOCore.md` · ES=273 · EN=269 · ratio=0.99
+- `wiki-source/Filosofia_y_NEOCore.md` · ES=276 · EN=272 · ratio=0.99
   - Cómo leer el núcleo sin reducirlo: párrafos ES=2 EN=1
 - `wiki-source/Home.md` · ES=222 · EN=228 · ratio=1.03
   - Regla de lectura: párrafos ES=2 EN=1
 - `wiki-source/Manifiestos.md` · ES=184 · EN=187 · ratio=1.02
   - Regla documental: párrafos ES=1 EN=0
-- `wiki-source/Mapa_del_Marco.md` · ES=240 · EN=219 · ratio=0.91
+- `wiki-source/Mapa_del_Marco.md` · ES=287 · EN=229 · ratio=0.80
+  - volumen EN/ES=0.80 (229/287)
+  - Síntesis y participación: lists ES=10 EN=8
+  - Síntesis y participación: párrafos ES=1 EN=0
   - Regla: párrafos ES=2 EN=1
 - `wiki-source/NeoGenealogia.md` · ES=307 · EN=282 · ratio=0.92
   - Qué es: párrafos ES=3 EN=2
@@ -382,11 +378,6 @@
 
 | Archivo | Estado | Detalle |
 |---|---|---|
-| `COVER.md` | **REVISAR** | Deltas transversales recientes: párrafos ES=1 EN=2 |
-| `FOREWORD.md` | **OK** |  |
-| `LEEME.md` | **REVISAR** | volumen EN/ES=0.77 (3262/4254); esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] |
-| `PORTADA.md` | **REVISAR** | Límite de la capa pública: párrafos ES=2 EN=3 |
-| `PREFACIO.md` | **OK** |  |
 | `README.md` | **OK** |  |
 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` | **REVISAR** | **Patrón institucional observado**: párrafos ES=45 EN=47 |
 | `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, '')] |
@@ -622,7 +613,7 @@
 | `wiki-source/Filosofia_y_NEOCore.md` | **REVISAR** | Cómo leer el núcleo sin reducirlo: párrafos ES=2 EN=1 |
 | `wiki-source/Home.md` | **REVISAR** | Regla de lectura: párrafos ES=2 EN=1 |
 | `wiki-source/Manifiestos.md` | **REVISAR** | Regla documental: párrafos ES=1 EN=0 |
-| `wiki-source/Mapa_del_Marco.md` | **REVISAR** | Regla: párrafos ES=2 EN=1 |
+| `wiki-source/Mapa_del_Marco.md` | **REVISAR** | volumen EN/ES=0.80 (229/287); Síntesis y participación: lists ES=10 EN=8; Síntesis y participación: párrafos ES=1 EN=0; Regla: párrafos ES=2 EN=1 |
 | `wiki-source/NeoGenealogia.md` | **REVISAR** | Qué es: párrafos ES=3 EN=2; Fuentes canónicas: párrafos ES=1 EN=0 |
 | `wiki-source/Neoaxiomas.md` | **REVISAR** | Regla: párrafos ES=1 EN=0 |
 | `wiki-source/Obras_y_Cultura.md` | **REVISAR** | Hacia WEB4™: párrafos ES=2 EN=1 |

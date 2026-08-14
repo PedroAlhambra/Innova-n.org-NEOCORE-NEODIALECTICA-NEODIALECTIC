@@ -44,7 +44,7 @@ and archetypes leave the process as understood decisions.
 **Next Fragment →** [Fragment V](./05_Fragment-V.md)
 
 **Go back to the Fragments Index →** [INDEX](./INDEX.md)  
-**Go back to the Cover →** [COVER](../COVER.md)
+**Go back to the Cover →** [Inicio / Home](../README.md)
 
 ---
 

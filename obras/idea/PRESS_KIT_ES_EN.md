@@ -340,7 +340,7 @@ Pedro Martínez Alhambra
 * [Ediciones internacionales / International editions](./EDICIONES.md)
 * [Metadatos públicos / Public metadata](./METADATA.json)
 * [Registro de enlaces / Link register](./LINKS.json)
-* [Volver al LEEME](../../LEEME.md)
+* [Inicio / Home](../../README.md)
 * [Back to the main README](../../README.md)
 
 ---

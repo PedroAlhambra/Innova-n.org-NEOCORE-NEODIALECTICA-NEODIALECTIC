@@ -43,7 +43,7 @@ and to the possibility of thinking without breaking the world.
 **Next Fragment →** [Fragment VII](./07_Fragment-VII.md)
 
 **Go back to the Fragments Index →** [INDEX](./INDEX.md)  
-**Go back to the Cover →** [COVER](../COVER.md)
+**Go back to the Cover →** [Inicio / Home](../README.md)
 
 ---
 

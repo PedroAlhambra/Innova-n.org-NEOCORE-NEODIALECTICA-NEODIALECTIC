@@ -36,7 +36,7 @@ y la conciencia como lugar donde el sistema se reconoce a sí mismo.
 **Volver al fragmento anterior →** [Fragmento VIII](08_Fragmento-VIII.md)
 
 **Volver al Índice →** [ÍNDICE](./INDICE.md)  
-**Volver a la Portada →** [PORTADA](../PORTADA.md)
+**Volver a la Portada →** [Inicio / Home](../README.md)
 
 ---
 

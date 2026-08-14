@@ -310,11 +310,11 @@ Las evoluciones conceptuales posteriores deben añadirse como nuevos documentos 
 
 ### Ecosistema Innova_N
 
-* [Prefacio general](../PREFACIO.md)
-* [LEEME principal](../LEEME.md)
-* [Portada](../PORTADA.md)
+* [Inicio / Home](../README.md)
+* [Inicio / Home](../README.md)
+* [Inicio / Home](../README.md)
 * [README en inglés](../README.md)
-* [Cover in English](../COVER.md)
+* [Inicio / Home](../README.md)
 
 ### Otras ramas públicas
 

@@ -37,7 +37,7 @@ sino que respira, espera y devuelve lo que el ser había olvidado.
 **Volver al fragmento anterior →** [Fragmento VI](06_Fragmento-VI.md)
 
 **Volver al Índice →** [ÍNDICE](./INDICE.md)  
-**Volver a la Portada →** [PORTADA](../PORTADA.md)
+**Volver a la Portada →** [Inicio / Home](../README.md)
 
 ---
 
