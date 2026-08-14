@@ -13,7 +13,7 @@
 - `REVISAR` bloquea la publicación automática de manifiestos; `ADVERTENCIA` exige inspección editorial pero no demuestra por sí sola recorte.
 
 **Documentos bilingües examinados:** 104  
-**Recortes/materialmente asimétricos para revisión:** 0  
+**Recortes/materialmente asimétricos para revisión:** 1  
 **Advertencias estructurales sin prueba suficiente de recorte:** 3  
 **Con marcador incompleto/ausente:** 0
 
@@ -21,7 +21,7 @@
 
 | Archivo | Palabras ES | Palabras EN | Ratio EN/ES | H ES | H EN | Motivo |
 |---|---:|---:|---:|---:|---:|---|
-| — | — | — | — | — | — | Sin casos |
+| `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md` | 403 | 689 | 1.71 | 6 | 7 | EN/ES global=1.71 |
 
 ## Advertencias estructurales
 
@@ -119,7 +119,7 @@
 | `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` | 825 | 1094 | 1.33 | 8 | 9 | OK |
 | `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` | 2582 | 2799 | 1.08 | 40 | 42 | OK |
 | `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` | 531 | 823 | 1.55 | 5 | 6 | OK |
-| `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md` | 403 | 604 | 1.50 | 6 | 7 | OK |
+| `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md` | 403 | 689 | 1.71 | 6 | 7 | REVISAR |
 | `analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md` | 807 | 805 | 1.00 | 8 | 9 | OK |
 | `analisis/publicos/2026-08-08_addendum_autodemostracion_creacion_neodialectica_historia_olvidada_ES_EN.md` | 656 | 657 | 1.00 | 9 | 9 | OK |
 | `analisis/publicos/2026-08-08_addendum_distrokid_catalogo_album_removed_added_apple_music_ES_EN.md` | 803 | 772 | 0.96 | 14 | 14 | OK |
