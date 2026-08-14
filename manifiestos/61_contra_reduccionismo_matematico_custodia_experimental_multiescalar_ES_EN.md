@@ -259,6 +259,8 @@ MATHEMATICAL MAP
 COMPLETE TERRITORY
 ```
 
+Mathematics is one of humanity's most powerful cognitive tools. Precisely for that reason it must be protected from its own absolutisation.
+
 ## 2. Against one-dimensional epistemic superiority
 
 Scientific specialisation produces depth. It can also produce a dangerous illusion:
@@ -278,15 +280,22 @@ Excellence creates additional responsibility, not immunity.
 
 ## 3. Multidimensional and multiscale reality
 
-The Neodialectical working hypothesis treats reality as multidimensional, multiscale, relational, dynamic, partially unknown and composed of levels whose effects may propagate across scales.
+The Neodialectical working hypothesis treats reality as:
+
+- multidimensional;
+- multiscale;
+- relational;
+- dynamic;
+- partially unknown;
+- and composed of levels whose effects may propagate across scales.
 
 Unless supported by specific physical evidence, **fractal** is used here as a relational and multiscale model: patterns, dependencies and feedbacks that recur across levels.
 
 This manifesto does not claim that the physical universe is literally an exact mathematical fractal at every scale. Standard cosmology models the universe as approximately homogeneous and isotropic at sufficiently large scales, while filamentary cosmic-web structure exists at smaller scales.
 
-The thesis does not require turning a fractal metaphor into physical dogma.
+The strength of the thesis does not depend on turning a fractal metaphor into physical dogma.
 
-It rests on a more basic point:
+It depends on something more basic:
 
 > **a local intervention may have non-local, indirect, cumulative or emergent consequences that an isolated discipline has not modelled.**
 
@@ -294,15 +303,19 @@ It rests on a more basic point:
 
 Within Neodialectical language, **Matrix™** names the relational fabric of matter, energy, information, life, time, observation and causality within which we operate.
 
-Speaking of an “atomic matrix” does not by itself assert an additional undetected physical structure. It is an architectural warning: when we intervene at fundamental levels of matter, we intervene inside the system on which we also depend.
+Speaking of an “atomic matrix” does not by itself assert an additional undetected physical structure. It is an architectural warning:
 
-There is no experimental “outside” from which the human observer is completely separated from consequences.
+> **when we intervene at fundamental levels of matter, we intervene inside the system on which we also depend.**
+
+There is no experimental “outside” from which the human observer is separated from the consequences.
 
 ## 5. Experimental power and the duty of custodianship
 
 Science should not stop because of abstract fear.
 
 Nor should it advance under the premise that everything technically possible deserves to be done merely because it can be done.
+
+The proposed rule is:
 
 ```text
 EXPERIMENTAL POWER
@@ -316,7 +329,16 @@ MULTISCALE IMPACT
 PROPORTIONAL DUTY OF CUSTODIANSHIP
 ```
 
-The greater the power, the lower the reversibility and the wider the possible impact, the stronger the requirement for prior risk assessment, independent review, disciplinary diversity, uncertainty disclosure, comparison with equivalent natural phenomena, staged testing, stop mechanisms and—where risks may be civilisational—appropriate public and institutional participation.
+The greater the power, the lower the reversibility and the wider the possible impact, the stronger the requirement for:
+
+- prior risk assessment;
+- independent review;
+- disciplinary diversity;
+- transparency about uncertainties;
+- comparison with equivalent natural phenomena;
+- simulation and staged testing;
+- the capacity to stop the process;
+- and, when potential risk is civilisational, appropriate public and institutional participation.
 
 ## 6. Scientific safeguard: precaution is not accusation
 
@@ -324,13 +346,17 @@ This manifesto **does not claim as fact** that current particle accelerators are
 
 Specific LHC safety assessments conclude that its collisions pose no danger. A central empirical argument is that Earth and other astronomical bodies have experienced cosmic-ray collisions at equivalent or higher energies for billions of years without the hypothesised catastrophic effects.
 
+Therefore:
+
 ```text
 PRECAUTION
 ≠
 UNSUPPORTED ACCUSATION
 ```
 
-Evidence that robustly rules out a risk scenario must enter SAN™. But the safety conclusion of one experiment is not a universal licence for every future experiment of greater power or different nature.
+If an installation demonstrates with robust evidence that a risk scenario has been ruled out, that evidence must be incorporated into SAN™.
+
+But the safety conclusion of one specific experiment does not create a universal licence for every future experiment of greater power or different nature.
 
 Each new leap requires renewed assessment.
 
@@ -338,7 +364,7 @@ Each new leap requires renewed assessment.
 
 Dirac treated mathematical beauty as a fertile guide to physics.
 
-LXI accepts its usefulness but places a limit:
+LXI accepts that fertility but places a limit:
 
 > **the beauty of an equation has no authority over data that contradict it, nor over consequences the model failed to include.**
 
@@ -356,11 +382,25 @@ It is literature, not physical evidence.
 
 But it is a verifiable intellectual antecedent of the later concern: **scientific power without philosophical, moral and systemic integration**.
 
-Neodialectics does not propose subordinating science to dogmatic philosophy. It proposes restoring questions no equation answers on its own: should we do it, who bears the risk, which scale are we not observing, which rival hypothesis are we ignoring, what if the model is incomplete, how can we stop or reverse the intervention, and who can contradict the expert?
+Neodialectics does not propose subordinating science to dogmatic philosophy.
+
+It proposes restoring to science the questions that no equation answers on its own:
+
+- should we do it?;
+- who bears the risk?;
+- which scale are we not observing?;
+- which rival hypothesis are we ignoring?;
+- what would happen if the model were incomplete?;
+- how can we stop or reverse the intervention?;
+- who can contradict the expert?
 
 ## 9. Principle of Experimental Non-Exteriority™
 
 > **The experimenter is part of the reality being modified; no fundamental intervention should be evaluated as though its consequences belonged to a completely external system.**
+
+This does not eliminate the laboratory.
+
+It eliminates the fiction of automatic innocence through conceptual distance.
 
 ## 10. Principle of Multiscale Experimental Custodianship™
 
@@ -368,7 +408,9 @@ Neodialectics does not propose subordinating science to dogmatic philosophy. It 
 
 The burden of justification rises with the potential for irreversible harm.
 
-This does not require zero risk. It requires expected benefit to remain connected to the full map of known, plausible and materially relevant unknown consequences.
+This does not require zero risk, which would be impossible.
+
+It requires expected benefit to remain connected to the full map of known, plausible and materially relevant unknown consequences.
 
 ## 11. Science in Open Synthesis
 
@@ -409,9 +451,19 @@ We are not asking for less science.
 
 We are asking for **more science around every scientific act**.
 
-More scales. More disciplines. More memory. More humility before the unknown. More capacity to stop. More responsibility for what we touch.
+More scales.
 
-Understanding the structure of the world does not make us owners of the world.
+More disciplines.
+
+More memory.
+
+More humility before the unknown.
+
+More capacity to stop.
+
+More responsibility for what we touch.
+
+Because understanding the structure of the world does not make us owners of the world.
 
 It makes us its temporary custodians.
 
