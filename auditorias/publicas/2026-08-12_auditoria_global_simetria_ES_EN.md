@@ -109,7 +109,7 @@
   - Estado del índice de manifiestos: párrafos ES=2 EN=3
 - `auditorias/publicas/2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md` · ES=794 · EN=774 · ratio=0.97
   - 10: párrafos ES=1 EN=2
-- `auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md` · ES=1492 · EN=1492 · ratio=1.00
+- `auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md` · ES=1512 · EN=1512 · ratio=1.00
   - Enlaces internos rotos del grafo vivo: párrafos ES=0 EN=1
 - `auditorias/publicas/2026-08-10_auditoria_responsabilidad_historica_infraestructuras_publicas_espana_ES_EN.md` · ES=1146 · EN=1139 · ratio=0.99
   - 11: párrafos ES=1 EN=0
@@ -274,8 +274,7 @@
   - Fuentes: párrafos ES=1 EN=0
 - `wiki-source/Sintesis_Abierta.md` · ES=189 · EN=187 · ratio=0.99
   - Qué no ocurre automáticamente: párrafos ES=2 EN=1
-- `wiki-source/WEB4_y_Proyeccion.md` · ES=308 · EN=282 · ratio=0.92
-  - Lectura relacional objetivo: lists ES=6 EN=0
+- `wiki-source/WEB4_y_Proyeccion.md` · ES=399 · EN=369 · ratio=0.92
   - Principios de diseño ya públicos: párrafos ES=1 EN=0
 
 ## Marcadores / Markers
@@ -561,7 +560,7 @@
 | `wiki-source/RADAR_PI.md` | **REVISAR** | Fuentes: párrafos ES=1 EN=0 |
 | `wiki-source/README.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Salvaguarda |
 | `wiki-source/Sintesis_Abierta.md` | **REVISAR** | Qué no ocurre automáticamente: párrafos ES=2 EN=1 |
-| `wiki-source/WEB4_y_Proyeccion.md` | **REVISAR** | Lectura relacional objetivo: lists ES=6 EN=0; Principios de diseño ya públicos: párrafos ES=1 EN=0 |
+| `wiki-source/WEB4_y_Proyeccion.md` | **REVISAR** | Principios de diseño ya públicos: párrafos ES=1 EN=0 |
 
 ## Regla permanente / Permanent rule
 
