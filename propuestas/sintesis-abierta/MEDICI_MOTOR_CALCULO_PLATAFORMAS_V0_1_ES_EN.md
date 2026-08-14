@@ -182,7 +182,8 @@ SERVICE + PERIOD + EVIDENCE
 ### 2. Core rule
 
 ```text
-CREDIT → ALWAYS
+CREDIT
+→ ALWAYS
 
 FREE / UNCOMPENSATED SERVICE TO INNOVA_N
 → MÉDICI™ ELIGIBLE
@@ -200,7 +201,8 @@ The evaluation unit is **service + period**, not an entire company.
 ### 3. v0.1 formula
 
 ```text
-Q = mean(quality, utility, continuity, traceability)
+Q
+= mean(quality, utility, continuity, traceability)
 
 CANDIDATE_MÉDICI
 = VALIDATED_VALUE
@@ -209,47 +211,103 @@ CANDIDATE_MÉDICI
 × CONFIDENCE
 ```
 
-`VALIDATED_VALUE ≥ 0`; all other factors are normalised to `[0,1]`.
+With:
 
-A free but useless service should not receive meaningful value. A highly valuable but fully paid service retains credit and causal recognition while receiving zero direct MÉDICI™ for the already-compensated fraction.
+- `VALIDATED_VALUE ≥ 0` and backed by evidence;
+- `UNCOMPENSATED_FRACTION ∈ [0,1]`;
+- `quality, utility, continuity, traceability, confidence ∈ [0,1]`.
+
+The formula deliberately satisfies two conditions:
+
+1. a free but useless service does not generate meaningful value;
+2. an extraordinarily valuable but fully paid service retains credit and causal contribution, but generates `0` direct MÉDICI™ for the already-compensated part.
 
 ### 4. States
 
-`PENDING_EVIDENCE` → missing data; no invented number.  
-`CALCULATED_PENDING_APPROVAL` → reproducible calculation, not yet recognised.  
-`RECOGNISED_OFFCHAIN` → approved balance in the versioned ledger.  
-`CREDITED_NO_DIRECT_MEDICI_PAID` → value credited, fully compensated fraction.  
-`SUPERSEDED / RECALCULATED` → a later state preserves the genealogy of the previous one.
+```text
+PENDING_EVIDENCE
+→ data is missing: no number is invented
+
+CALCULATED_PENDING_APPROVAL
+→ reproducible calculation, not yet recognised
+
+RECOGNISED_OFFCHAIN
+→ approved balance in the versioned ledger
+
+CREDITED_NO_DIRECT_MEDICI_PAID
+→ value recognised, fully compensated fraction
+
+SUPERSEDED / RECALCULATED
+→ new state preserves the genealogy of the previous one
+```
 
 ### 5. NeoCronos™ and recalculation
 
-Balances are not permanent labels. Changes in plan, contract, service function, quality, continuity, compensation, evidence or impact can trigger recalculation while prior states remain reconstructible.
+The balance is not a permanent label.
+
+If the plan, contract, service function, quality, continuity, degree of free provision, evidence or impact changes, NeoCronos™ must allow the before and after to be reconstructed and the engine must recalculate.
+
+```text
+STATE(t0)
+→ DELTA
+→ RECALCULATION
+→ STATE(t1)
+
+STATE(t1)
+DOES NOT ERASE
+STATE(t0)
+```
 
 ### 6. Off-chain first
 
-v0.1 records recognition in a Git-based off-chain ledger. It does not claim blockchain issuance, market value, convertibility, equity, financial rights, sovereign voting or legal participation.
+v0.1 recognises units in a **Git-based off-chain ledger**. It does not claim that blockchain issuance, a market, convertibility, equity, financial rights, sovereign voting or legal participation already exist.
+
+```text
+MÉDICI™ OFF-CHAIN
+= TRACEABLE RECOGNITION ACCOUNTING
+
+MÉDICI™ ON-CHAIN / TRANSFERABLE
+= DISTINCT FUTURE LAYER
+```
+
+Transition to a transferable layer will require explicit technical, legal and governance rules.
 
 ### 7. Internal implementation
 
+The v0.1 implementation is structured through:
+
 ```text
 infrastructure-registry.json
-→ service-period inputs
+→ services, periods, compensation, evidence and variables
 
 medici-platform-engine.mjs
-→ deterministic validation and calculation
+→ deterministic calculation and validation
 
 medici-platform-ledger.generated.json
-→ off-chain ledger projection
+→ off-chain balance projection
 ```
 
-Private data can remain internal; WEB4™ should expose only public, verifiable fields.
+The private layer may preserve sensitive data. WEB4™ should expose only public and verifiable fields.
 
 ### 8. No-invention rule
 
-Creating the engine does not authorise intuitive token numbers. Missing data remains pending.
+Creating the engine **does not authorise filling percentages or token amounts by intuition**.
 
-> **Missing evidence produces `pending`, not an invented figure.**
+An incomplete record remains pending.
+
+> **Missing data produces `pending`, not an invented figure.**
 
 ### 9. Result
 
-Platform acknowledgements can now evolve from decorative credits into traceable infrastructure accounting: who supported what function, for what period, under what compensation model, with what validated value, and what recognition follows.
+With this layer, platform recognition ceases to be a decorative acknowledgement list and can become traceable infrastructure accounting:
+
+```text
+WHO SUPPORTED
++ WHAT FUNCTION
++ FOR WHAT PERIOD
++ UNDER WHAT COMPENSATION
++ WITH WHAT VALIDATED VALUE
+→ CREDIT
+→ MÉDICI™ WHERE APPLICABLE
+→ GENEALOGY
+```
