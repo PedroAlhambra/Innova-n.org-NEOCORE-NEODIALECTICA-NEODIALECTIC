@@ -1,8 +1,9 @@
 # Dirección de evolución WEB4™ · NeoCronos™ = Águila
+# WEB4™ Evolution Direction · NeoCronos™ = Eagle
 
-**Fecha:** 2026-08-13  
-**Estado:** dirección interna de desarrollo; síntesis abierta y revisable  
-**Ámbito:** WEB4™ / NEOCore™ / NeoCronos™ / experiencia pública
+**Fecha / Date:** 2026-08-13  
+**Estado / Status:** dirección interna de desarrollo; síntesis abierta y revisable / internal development direction; open and revisable synthesis  
+**Ámbito / Scope:** WEB4™ / NEOCore™ / NeoCronos™ / experiencia pública / public experience
 
 ## ES · Castellano
 
@@ -159,31 +160,151 @@ NeoCronos™ cierra y reabre ese ciclo desde la dimensión temporal.
 
 ## EN · English
 
-### Semantic anchor
+### 1. Semantic anchor
 
-**NeoCronos™ is represented by the Eagle.** The Eagle is the upper temporal observation layer: longitudinal memory, cycles, genealogy, bifurcations, system states and possible futures. It is not Neo0™, the rider or Rocinante™.
+**NeoCronos™ is represented by the Eagle.**
 
-```text
-EAGLE / NEOCRONOS™ = TEMPORAL OBSERVATION + MEMORY + UNFOLDING + RECALCULATION
-NEO0™ / RIDER       = SITUATED HUMAN AGENT + DIRECTION + DECISION
-ROCINANTE™          = COEXISTING NODE / VEHICLE + TRANSIT + CONNECTION
-NETWORK / NEOCORE™  = RELATIONS + CONTRADICTION + MEMORY + SYNTHESIS
-HORIZON / SUN       = POSSIBLE FUTURE + OPEN DIRECTION
-```
+It is not the rider, Rocinante or Neo0™. The Eagle represents the system's upper temporal observation layer: longitudinal memory, cycles, genealogies, bifurcations, states and possible futures.
 
-NeoCronos™ should not be reduced to a clock or ledger. Its public surface must make system evolution reconstructible across time while preserving human decision and open futures.
-
-### WEB4™ direction
-
-WEB4™ should evolve from prototype/portfolio into an inhabitable, multimedia, multihead, monadic and traceable space built around NEOCore™. Its native surfaces should progressively include the living map, NeoCronos™, Open Synthesis™, Neoaxioms™, Manifestos™, learning, NeoGames™, art, music, literature, science/technology/research, audits, NeoGenealogy™/RADAR-Π™, news and traceable nodes/monads.
-
-The interface must support progressive depth — 30 seconds, 3 minutes, 30 minutes, deep corpus and action — and demonstrate the framework through behaviour rather than slogans.
-
-Target product loop:
+Visual and conceptual rule:
 
 ```text
-OBSERVE → ORIENT → EXPLORE → LEARN → CREATE → CHALLENGE → RELATE
-→ SYNTHESISE → TRACE → RECALCULATE → OBSERVE AGAIN
+EAGLE / NEOCRONOS™
+= TEMPORAL OBSERVATION + MEMORY + UNFOLDING + RECALCULATION
+
+NEO0™ / RIDER
+= SITUATED HUMAN AGENT + DIRECTION + DECISION
+
+ROCINANTE™
+= COEXISTING NODE / VEHICLE + TRANSIT + CONNECTION
+
+NETWORK / NEODIALECTICS / NEOCORE™
+= RELATIONS + CONTRADICTION + MEMORY + SYNTHESIS
+
+HORIZON / SUN
+= POSSIBLE FUTURE + OPEN DIRECTION
 ```
 
-NeoCronos™ closes and reopens this loop from the temporal dimension.
+**NeoCronos™ should not be presented simply as “time”. It is the system that observes, preserves and makes its temporal unfolding reconstructible.**
+
+### 2. Correction of the current implementation
+
+The experimental NeoCronos™ page already contains a clock, genealogy, traceability, contributions, balance and mining genesis. The next iteration must avoid reducing NeoCronos™ to a clock or ledger.
+
+The interface should make visible that it:
+
+- observes processes across time;
+- compares system states;
+- preserves genealogy and provenance;
+- allows bifurcations and deltas to be reconstructed;
+- relates past, present state and possible futures;
+- does not predict a single destiny;
+- does not replace human decision;
+- can feed recalculation in NEOCore™ and SAN™.
+
+### 3. General WEB4™ direction
+
+WEB4™ should evolve from prototype/portfolio toward an **inhabitable, multimedia, multihead, monadic and traceable space** built around NEOCore™.
+
+The home page should not try to explain everything. It should work as a living map and allow progressive depths:
+
+```text
+30 SECONDS
+→ understand what Innova_N is
+
+3 MINUTES
+→ travel through the living map
+
+30 MINUTES
+→ enter thematic routes
+
+DEPTH
+→ corpus + works + analyses + manifestos + neoaxioms + audits
+
+ACTION
+→ learn + create + challenge + contribute + synthesise
+```
+
+### 4. Target public architecture
+
+The new WEB4™ should tend toward these native surfaces:
+
+1. **Home / Living map** — compact view of the ecosystem.
+2. **NeoCronos™ / Eagle** — time, states, genealogy, bifurcations and possible futures.
+3. **Open Synthesis™** — contributions, contradictions, evidence, responses and deltas.
+4. **Neoaxioms™** — navigable principles with direct access to scrutiny.
+5. **Manifestos™** — navigable corpus, not a dead list.
+6. **Learning** — routes organised by acquired capacity and understanding, not attention capture.
+7. **NeoGames™** — gamification oriented toward learning, cooperation, scrutiny and verifiable contribution.
+8. **Art / photography / visual** — creation and work genealogy.
+9. **Music** — works, relations, listening through verifiable sources and future creation inside the platform.
+10. **Literature** — IDEA, UMBRAL-X™ and future works with their own genealogy.
+11. **Science / technology / research** — analyses, experiments, convergences and projects.
+12. **Audits / Leónidas™** — problems, evidence, rival hypotheses, repair and status.
+13. **NeoGenealogy™ / RADAR-Π™** — antecedents, convergences, false parallels and attribution.
+14. **News** — real framework changes derived from the corpus and commits.
+15. **Nodes / monads** — people, AIs, works, projects and institutions with identity, relations and traceability.
+
+### 5. Visual language
+
+The new web should abandon dependence on a homogeneous dark/futuristic aesthetic. It should work in both light and dark modes and represent everyday humanity, real diversity, nature, culture, technology and the future without turning everything into nocturnal science fiction.
+
+Images should have a semantic function, not a decorative one.
+
+For NeoCronos™:
+
+- the Eagle is the main symbol;
+- horizons, sunrises, sunsets, seasons and repetition of the same territory can represent temporal states;
+- the visual sequence should show continuity + transformation;
+- when owned or cacheable images are used, they should be published as real web files with metadata and `alt`, rather than relying only on remote backgrounds or ephemeral compositions.
+
+### 6. Navigation principle
+
+Every page should be able to answer, to different degrees, five questions:
+
+```text
+WHERE AM I?
+WHERE DOES THIS COME FROM?
+WHAT IS IT RELATED TO?
+WHAT CAN I DO HERE?
+HOW CAN I CONTRADICT OR IMPROVE IT?
+```
+
+Navigation should be relational, not merely hierarchical.
+
+### 7. Calculation principle
+
+The web should not hardcode states that can be derived from the corpus. Where viable:
+
+```text
+CANONICAL CORPUS / GITHUB
+→ DERIVED STATE
+→ NEOCRONOS™
+→ WEB4™ PROJECTION
+```
+
+Counts, latest manifesto, news, relationships and states should increasingly be calculated from structured/versioned sources.
+
+### 8. Product rule
+
+**WEB4™ must demonstrate the framework through behaviour.**
+
+It is not enough to claim memory, traceability, synthesis, learning or cooperation. The interface must make them experienceable.
+
+The target product sequence is:
+
+```text
+OBSERVE
+→ ORIENT
+→ EXPLORE
+→ LEARN
+→ CREATE
+→ CHALLENGE
+→ RELATE
+→ SYNTHESISE
+→ TRACE
+→ RECALCULATE
+→ OBSERVE AGAIN
+```
+
+NeoCronos™ closes and reopens that cycle from the temporal dimension.
