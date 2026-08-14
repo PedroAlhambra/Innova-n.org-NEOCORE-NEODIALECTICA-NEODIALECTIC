@@ -8,7 +8,6 @@ INDEX_TARGETS = [
     ROOT / 'manifiestos' / 'README.md',
     ROOT / 'manifiestos' / 'RELACIONES_TRABAJO_APLICADO_ES_EN.md',
     ROOT / 'manifiestos' / 'RELACIONES_LVII_LIX_ES_EN.md',
-    ROOT / 'propuestas' / 'sintesis-abierta' / 'README.md',
     ROOT / 'propuestas' / 'sintesis-abierta' / 'INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md',
 ]
 TITLE_LINE = re.compile(r'^#\s+([IVXLCDM]+|∞)\s*·\s*(.+?)\s*$')
@@ -75,8 +74,9 @@ def normalize_source(path, roman):
 
 
 def replace_link_label(text, filename, label):
-    # Every link whose target is a manifesto source uses the same canonical
-    # bilingual visible name. This does not change body prose mentions.
+    # Every link on canonical inventory/index surfaces whose target is a
+    # manifesto source uses the same bilingual visible name. Operational
+    # language-specific prose in other READMEs is intentionally not rewritten.
     rx=re.compile(r'\[([^\]]+)\]\(([^)\n]*'+re.escape(filename)+r'(?:#[^)]*)?)\)')
     return rx.sub(lambda m: f'[{label}]({m.group(2)})', text)
 
