@@ -336,7 +336,7 @@
   - Fuentes: párrafos ES=1 EN=0
 - `wiki-source/Sintesis_Abierta.md` · ES=189 · EN=187 · ratio=0.99
   - Qué no ocurre automáticamente: párrafos ES=2 EN=1
-- `wiki-source/WEB4_y_Proyeccion.md` · ES=128 · EN=127 · ratio=0.99
+- `wiki-source/WEB4_y_Proyeccion.md` · ES=221 · EN=215 · ratio=0.97
   - Principios de diseño ya públicos: párrafos ES=2 EN=1
 
 ## Marcadores / Markers
