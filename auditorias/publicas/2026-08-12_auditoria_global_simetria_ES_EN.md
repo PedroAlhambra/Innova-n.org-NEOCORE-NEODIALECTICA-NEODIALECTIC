@@ -380,9 +380,8 @@
   - 5: lists ES=12 EN=0
   - 6: lists ES=7 EN=0
   - 12: párrafos ES=2 EN=3
-- `propuestas/sintesis-abierta/NEOCRONOS_UPGRADE_ENTRADA_PANEL_TRAZA_ES_EN.md` · ES=515 · EN=150 · ratio=0.29
-  - volumen EN/ES=0.29 (150/515)
-  - esqueleto de encabezados distinto ES=[(3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, '')] EN=[]
+- `propuestas/sintesis-abierta/NEOCRONOS_UPGRADE_ENTRADA_PANEL_TRAZA_ES_EN.md` · ES=515 · EN=555 · ratio=1.08
+  - Fases de implementación: párrafos ES=6 EN=7
 - `propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md` · ES=795 · EN=535 · ratio=0.67
   - volumen EN/ES=0.67 (535/795)
   - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9'), (2, '10'), (2, '11'), (2, '12')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9'), (2, '10'), (2, '11'), (2, '12')]
@@ -716,7 +715,7 @@
 | `propuestas/sintesis-abierta/MEDICI_MOTOR_CALCULO_PLATAFORMAS_V0_1_ES_EN.md` | **REVISAR** | 3: lists ES=5 EN=0; 4: code ES=1 EN=0; 4: párrafos ES=0 EN=1; 5: code ES=1 EN=0; 5: párrafos ES=2 EN=1; 6: code ES=1 EN=0; 6: párrafos ES=2 EN=1; 7: párrafos ES=2 EN=1; 8: párrafos ES=3 EN=2; 9: code ES=1 EN=0; 9: párrafos ES=2 EN=1 |
 | `propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Neoaxiomas™ · Síntesis Abierta |
 | `propuestas/sintesis-abierta/NEOCRONOS_RETORNO_TEMPORAL_TOKENIZACION_ES_EN.md` | **REVISAR** | 3: lists ES=9 EN=0; 5: lists ES=12 EN=0; 6: lists ES=7 EN=0; 12: párrafos ES=2 EN=3 |
-| `propuestas/sintesis-abierta/NEOCRONOS_UPGRADE_ENTRADA_PANEL_TRAZA_ES_EN.md` | **REVISAR** | volumen EN/ES=0.29 (150/515); esqueleto de encabezados distinto ES=[(3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, '')] EN=[] |
+| `propuestas/sintesis-abierta/NEOCRONOS_UPGRADE_ENTRADA_PANEL_TRAZA_ES_EN.md` | **REVISAR** | Fases de implementación: párrafos ES=6 EN=7 |
 | `propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md` | **REVISAR** | volumen EN/ES=0.67 (535/795); esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9'), (2, '10'), (2, '11'), (2, '12')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9'), (2, '10'), (2, '11'), (2, '12')] |
 | `propuestas/sintesis-abierta/PARTICIPACION_Y_ADHESIONES_ES_EN.md` | **REVISAR** | Resultado esperado: párrafos ES=1 EN=0 |
 | `propuestas/sintesis-abierta/PUENTE_PARTICIPACION_GUIADA_CORREO_GITHUB_ES_EN.md` | **REVISAR** | volumen EN/ES=0.82 (426/522); 2: párrafos ES=3 EN=2; 5: lists ES=8 EN=0; 8: párrafos ES=3 EN=4 |
