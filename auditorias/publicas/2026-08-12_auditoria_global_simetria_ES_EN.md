@@ -27,7 +27,7 @@
   - **Patrón institucional observado**: párrafos ES=45 EN=47
 - `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · ES=699 · EN=644 · ratio=0.92
   - esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, '')]
-- `analisis/INDEX.md` · ES=522 · EN=518 · ratio=0.99
+- `analisis/INDEX.md` · ES=586 · EN=576 · ratio=0.98
   - Criterio organizativo: párrafos ES=2 EN=4
 - `analisis/README.md` · ES=758 · EN=725 · ratio=0.96
   - Criterio documental: párrafos ES=2 EN=3
