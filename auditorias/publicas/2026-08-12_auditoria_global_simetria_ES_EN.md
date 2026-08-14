@@ -8,10 +8,10 @@
 ## Resumen / Summary
 
 - Markdown activo examinado / Active Markdown scanned: **291**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **212**.
-- Fallos estructurales divididos / Split structural failures: **126**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **211**.
+- Fallos estructurales divididos / Split structural failures: **125**.
 - Fallos de marcadores / Marker failures: **1**.
-- Superficies pareadas para revisión / Paired surfaces for review: **23**.
+- Superficies pareadas para revisión / Paired surfaces for review: **24**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
@@ -99,9 +99,6 @@
   - 5: párrafos ES=2 EN=1
 - `analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md` · ES=1080 · EN=1091 · ratio=1.01
   - 13: párrafos ES=1 EN=2
-- `analisis/publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md` · ES=1437 · EN=1381 · ratio=0.96
-  - ES · 2. Mapa de quejas y riesgos recurrentes: lists ES=2 EN=0
-  - ES · 8. Fuentes externas: párrafos ES=1 EN=2
 - `analisis/publicos/evidencias/2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md` · ES=644 · EN=604 · ratio=0.94
   - esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')]
 - `analisis/publicos/evidencias/2026-08-07_canarias-quorum-tutela-contratacion-control-politico-fuentes-y-matriz_ES_EN.md` · ES=77 · EN=1292 · ratio=16.78
@@ -478,6 +475,7 @@
 ## Superficies pareadas que requieren revisión / Paired surfaces requiring review
 
 - `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md`: Parte II — Dajla, mafias migratorias y control estatal | La infraestructura oculta de la presión fronteriza | Part II — Dakhla, migrant-smuggling networks and state control | Versión en español | Parte II — Dajla, mafias migratorias y control estatal | Utilización política del ecosistema | Acusación extraordinaria sin prueba suficiente | Conclusión | English version | Part II — Dakhla, migrant-smuggling networks and state control | Political use of the ecosystem | Extraordinary allegation without sufficient evidence
+- `analisis/publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md`: ES | EN
 - `analisis/publicos/evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md`: España, Marruecos, regularización y nacionalidad
 - `analisis/publicos/evidencias/README.md`: Evidencias de análisis públicos | Protección Integral de la Infancia™ | EN | Estado canónico actual · Current canonical state
 - `anuncios/2026-08-08_XLVII_ODIO_SINO_GOAT_SOMBRA_DOBLE_CARA_ES_EN.md`: The Goat, Sombra, Vínculo y Doble Cara de la Vida
@@ -552,7 +550,7 @@
 | `analisis/publicos/2026-08-10_addendum_tidal_yellow_quasar_perfil_duplicado_uno_playlists_ES_EN.md` | **REVISAR** | 5: párrafos ES=2 EN=1 |
 | `analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md` | **REVISAR** | 13: párrafos ES=1 EN=2 |
 | `analisis/publicos/2026-08-13_convergencia-neodialectica-meta-zuckerberg_ES_EN.md` | **OK** |  |
-| `analisis/publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md` | **REVISAR** | ES · 2. Mapa de quejas y riesgos recurrentes: lists ES=2 EN=0; ES · 8. Fuentes externas: párrafos ES=1 EN=2 |
+| `analisis/publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: ES / EN |
 | `analisis/publicos/README.md` | **OK** |  |
 | `analisis/publicos/evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: España, Marruecos, regularización y nacionalidad |
 | `analisis/publicos/evidencias/2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] |
