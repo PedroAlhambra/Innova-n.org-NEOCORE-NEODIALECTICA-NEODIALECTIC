@@ -13,39 +13,56 @@ WEB4™ · SistemaTrazable™ es la dimensión pública, relacional y proyectabl
 
 ## Superficie viva y fuentes
 
-La **superficie WEB4™ pública viva es [innova-n.org](https://innova-n.org)**. Su implementación evoluciona en un espacio de desarrollo privado y no se confunde con el repositorio documental canónico.
+La **superficie WEB4™ pública viva es [innova-n.org](https://innova-n.org)**. Es la proyección pública pulida que recibe el visitante.
 
-El directorio público `web4/` del repositorio canónico conserva una **DEMO / prototipo documental versionado** y referencias de diseño. No debe interpretarse como copia exacta de la implementación actualmente desplegada en `innova-n.org` ni como segunda fuente de verdad del producto.
+La implementación de trabajo evoluciona en el repositorio privado `PedroAlhambra/innova-n`, donde se desarrollan arquitectura, código, contratos, candidatas y pruebas.
 
-- [innova-n.org · superficie WEB4™ viva](https://innova-n.org)
-- [WEB4™ · documentación/prototipo público trazable](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/web4/README.md)
-- [WEB4™ · DEMO HTML pública de referencia](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/web4/index.html)
+El repositorio público canónico es simultáneamente corpus, genealogía, fuente de relaciones y **fuente de datos públicos para WEB4™**. Siempre que sea técnicamente razonable, la implementación debe leer o derivar desde él manifiestos, neoaxiomas, Síntesis Abierta, análisis, auditorías, obras, relaciones y estados públicos.
+
+El directorio público `web4/` es **especificación documental y genealogía de capacidades**, no una DEMO ni una segunda web pública.
+
+- [innova-n.org · proyección WEB4™ pública viva](https://innova-n.org)
+- [WEB4™ · especificación documental pública](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/web4/README.md)
+- [Referencia HTML histórica de capacidades](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/web4/index.html)
 - [Proyección distribuida](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/proyeccion/README.md)
 - [Wiki pública](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
 
 ## Capas complementarias
 
 ```text
+NEO0™
+→ dirección + decisión + deltas explícitos
+
 REPOSITORIO CANÓNICO PÚBLICO
-→ contenido + genealogía + trazabilidad
+→ contenido + datos + relaciones + genealogía + trazabilidad
+
+DESARROLLO PRIVADO
+→ arquitectura + implementación candidata + pruebas + evolución modular
+
+LOCAL / OPENCLAW
+→ clon privado + ejecución/preview cuando esté integrado
+
+INNOVA-N.ORG / HOSTALIA
+→ proyección pública pulida
 
 WIKI
 → orientación estable
-
-INNOVA-N.ORG / WEB4™
-→ interfaz relacional + experiencia pública viva
-
-DIRECTORIO PÚBLICO WEB4/
-→ DEMO + referencia documental versionada
-
-DESARROLLO PRIVADO
-→ implementación candidata + pruebas + evolución modular
-
-PROYECCIÓN
-→ distribución + seguimiento + superficies externas
 ```
 
-La web pública viva puede proyectar el corpus sin agotar la arquitectura futura de WEB4™. Las candidatas privadas, módulos en pruebas o prototipos no se consideran promovidos por el mero hecho de existir.
+La siguiente proyección se desarrolla en privado, se revisa/previsualiza y después se publica manualmente sustituyendo de una sola vez el artefacto anterior en Hostalia. La existencia de commits o candidatas privadas no modifica por sí misma `innova-n.org`.
+
+## Lectura relacional objetivo
+
+Manifiestos y Neoaxiomas™ deben funcionar como lectores del corpus real y evolucionar hacia:
+
+- texto completo y navegación profunda;
+- fuente y versión;
+- Síntesis asociada;
+- nube de relaciones;
+- topología tipo red;
+- enlaces bidireccionales entre nodos relacionados.
+
+La red debe derivarse de relaciones trazables; una inferencia no se convierte automáticamente en arista canónica.
 
 ## Principios de diseño ya públicos
 
@@ -55,9 +72,8 @@ La web pública viva puede proyectar el corpus sin agotar la arquitectura futura
 - capacidad de reconstruir transformaciones;
 - soberanía humana y responsabilidad;
 - apertura a Síntesis;
-- relación entre conocimiento, cultura, proyectos y acción.
-
-Los planes de producto aún no anunciados no deben adelantarse desde esta Wiki.
+- relación entre conocimiento, cultura, proyectos y acción;
+- lectura/derivación desde fuentes públicas canónicas cuando sea viable.
 
 ---
 
@@ -65,43 +81,53 @@ Los planes de producto aún no anunciados no deben adelantarse desde esta Wiki.
 
 ## What WEB4™ is in the public layer
 
-WEB4™ · SistemaTrazable™ is the public, relational and projectable dimension of the ecosystem. It is not equivalent to one page or to a merely aesthetic evolution of the web: it relates nodes, memory, provenance, identity, changes, works, analyses and syntheses while preserving traceability and limits.
+WEB4™ · SistemaTrazable™ is the public, relational and projectable dimension of the ecosystem. It is not one page or a merely aesthetic web evolution: it relates nodes, memory, provenance, identity, changes, works, analyses and syntheses while preserving traceability and limits.
 
 ## Living surface and sources
 
-The **living public WEB4™ surface is [innova-n.org](https://innova-n.org)**. Its implementation evolves in a private development space and is not confused with the canonical documentary repository.
+The **living public WEB4™ surface is [innova-n.org](https://innova-n.org)**. It is the polished public projection received by visitors.
 
-The public `web4/` directory in the canonical repository preserves a **versioned DEMO / documentary prototype** and design references. It must not be interpreted as an exact copy of the implementation currently deployed at `innova-n.org` or as a second source of product truth.
+Working implementation evolves in the private `PedroAlhambra/innova-n` repository, where architecture, code, contracts, candidates and tests are developed.
 
-- [innova-n.org · living WEB4™ surface](https://innova-n.org)
-- [WEB4™ · traceable public documentation/prototype](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/web4/README.md)
-- [WEB4™ · public HTML reference DEMO](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/web4/index.html)
+The canonical public repository is simultaneously corpus, genealogy, relation source and **public-data source for WEB4™**. Whenever technically reasonable, implementation should read or derive manifestos, neoaxioms, Open Synthesis, analyses, audits, works, relations and public states from it.
+
+The public `web4/` directory is **documentary specification and capability genealogy**, not a DEMO and not a second public website.
+
+- [innova-n.org · living public WEB4™ projection](https://innova-n.org)
+- [WEB4™ · public documentary specification](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/web4/README.md)
+- [Historical HTML capability reference](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/web4/index.html)
 - [Distributed projection](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/proyeccion/README.md)
 - [Public Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki)
 
 ## Complementary layers
 
 ```text
+NEO0™
+→ direction + decision + explicit deltas
+
 PUBLIC CANONICAL REPOSITORY
-→ content + genealogy + traceability
+→ content + data + relations + genealogy + traceability
+
+PRIVATE DEVELOPMENT
+→ architecture + candidate implementation + tests + modular evolution
+
+LOCAL / OPENCLAW
+→ private clone + execution/preview when integrated
+
+INNOVA-N.ORG / HOSTALIA
+→ polished public projection
 
 WIKI
 → stable orientation
-
-INNOVA-N.ORG / WEB4™
-→ relational interface + living public experience
-
-PUBLIC WEB4/ DIRECTORY
-→ DEMO + versioned documentary reference
-
-PRIVATE DEVELOPMENT
-→ candidate implementation + tests + modular evolution
-
-PROJECTION
-→ distribution + follow-up + external surfaces
 ```
 
-The living public website may project the corpus without exhausting the future WEB4™ architecture. Private candidates, modules under test or prototypes are not considered promoted merely because they exist.
+The next projection is developed privately, reviewed/previewed, then published manually by replacing the previous Hostalia artifact all at once. Private commits or candidates do not change `innova-n.org` by themselves.
+
+## Target relational reading
+
+Manifestos and Neoaxioms™ should operate as readers of the real corpus and evolve toward full text/deep navigation, source/version, associated Synthesis, relation clouds, network topology and bidirectional links between related nodes.
+
+The network must derive from traceable relations; inference does not automatically become a canonical edge.
 
 ## Already-public design principles
 
@@ -111,6 +137,5 @@ The living public website may project the corpus without exhausting the future W
 - ability to reconstruct transformations;
 - human sovereignty and responsibility;
 - openness to Synthesis;
-- relation among knowledge, culture, projects and action.
-
-Unannounced product plans must not be anticipated from this Wiki.
+- relation among knowledge, culture, projects and action;
+- reading/deriving from canonical public sources whenever viable.
