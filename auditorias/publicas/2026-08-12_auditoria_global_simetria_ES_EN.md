@@ -8,10 +8,10 @@
 ## Resumen / Summary
 
 - Markdown activo examinado / Active Markdown scanned: **291**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **213**.
-- Fallos estructurales divididos / Split structural failures: **127**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **212**.
+- Fallos estructurales divididos / Split structural failures: **126**.
 - Fallos de marcadores / Marker failures: **1**.
-- Superficies pareadas para revisión / Paired surfaces for review: **22**.
+- Superficies pareadas para revisión / Paired surfaces for review: **23**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
@@ -199,9 +199,6 @@
   - 14: párrafos ES=4 EN=3
 - `auditorias/publicas/2026-08-11_postcheck_LXXIII_LXXIV_C_NAX_20_21_ES_EN.md` · ES=938 · EN=875 · ratio=0.93
   - 15: párrafos ES=1 EN=0
-- `auditorias/publicas/2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md` · ES=1391 · EN=157 · ratio=0.11
-  - volumen EN/ES=0.11 (157/1391)
-  - esqueleto de encabezados distinto ES=[(2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (3, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] EN=[]
 - `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` · ES=469 · EN=66 · ratio=0.14
   - volumen EN/ES=0.14 (66/469)
   - esqueleto de encabezados distinto ES=[(3, '1'), (3, '2'), (3, '3'), (3, '4'), (2, '')] EN=[]
@@ -494,6 +491,7 @@
 - `auditorias/publicas/2026-08-09_postcheck_neocore_7_1_integridad_relacional_no_reductiva_ES_EN.md`: Postcheck NEOCore™ 7.1 · integridad relacional y no reductiva
 - `auditorias/publicas/2026-08-10_postcheck_neocore_7_2_final_indices_paridad_ES_EN.md`: Resultado
 - `auditorias/publicas/2026-08-10_postcheck_neocore_7_2_soberania_sintesis_web4_ES_EN.md`: WEB4™
+- `auditorias/publicas/2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md`: ES | HECHO VERIFICADO | PrepFort, 2077AI y otros nombres | 11 · Protocolo de aportación | EN | VERIFIED FACT | PrepFort, 2077AI and other names | 11 · Contribution protocol
 - `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md`: ES | EN
 - `difusion/2026-08-09_marco_tanda_01_ES_EN.md`: Difusión del marco · tanda 01 · 2026-08-09
 - `difusion/2026-08-09_marco_tanda_02_ES_EN.md`: Difusión del marco · tanda 02 · 2026-08-09
@@ -614,7 +612,7 @@
 | `auditorias/publicas/2026-08-12_auditoria_estructura_bilingue_manifiestos_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `auditorias/publicas/2026-08-12_auditoria_global_simetria_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `auditorias/publicas/2026-08-12_auditoria_registro_canonico_manifiestos_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
-| `auditorias/publicas/2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md` | **REVISAR** | volumen EN/ES=0.11 (157/1391); esqueleto de encabezados distinto ES=[(2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (3, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] EN=[] |
+| `auditorias/publicas/2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: ES / HECHO VERIFICADO / PrepFort, 2077AI y otros nombres / 11 · Protocolo de aportación / EN / VERIFIED FACT / PrepFort, 2077AI and other names / 11 · Contribution protocol |
 | `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: ES / EN |
 | `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **REVISAR** | volumen EN/ES=0.14 (66/469); esqueleto de encabezados distinto ES=[(3, '1'), (3, '2'), (3, '3'), (3, '4'), (2, '')] EN=[] |
 | `auditorias/publicas/README.md` | **REVISAR** | volumen EN/ES=0.11 (79/691); esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, ''), (2, ''), (2, ''), (2, '')] EN=[] |
