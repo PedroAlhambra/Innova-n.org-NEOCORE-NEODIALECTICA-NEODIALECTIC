@@ -1,6 +1,5 @@
 # Índice · análisis / Analysis index
 
-
 <!-- NEO_CITIZENSHIP_LII_START -->
 > ## 🟠 LII · CIUDADANÍA HUMANA NEODIALÉCTICA™ / NEODIALECTICAL HUMAN CITIZENSHIP™
 > Sangre = genealogía. Suelo = localización y vínculo. Dignidad humana = común. La propuesta abre una transición hacia pertenencia cívica funcional y multiescala sin confundir igualdad humana con ausencia de administración territorial.  
@@ -15,6 +14,9 @@
 
 ## Auditorías
 
+* [2026-08-14 · IA, escaneo destructivo, destrucción de libros y preservación cultural](../auditorias/publicas/2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md)
+  * [Auditoría / Síntesis #144](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/144)
+  * [Síntesis positiva #145 · bibliotecas y entrenamiento desde cero](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/145)
 * [2026-08-06 · Caso de éxito: auditoría gratuita a Amazon KDP y Author Central](../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
 * [2026-08-06 · Auditoría indirecta pública de KDP, Author Central e IDEA](./publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 * [2026-08-06 · Actualización del expediente DistroKid–Spotify: trazabilidad y regalías](./publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md)
@@ -24,6 +26,10 @@
 * [Guía Wiki de análisis y auditorías](../wiki-source/Analisis_Neodialecticos_Publicos.md)
 
 ## Análisis públicos
+
+* [2026-08-14 · Recálculo · quejas sobre IA actual, arquitectura sociotécnica y herencia pre-neodialéctica](./publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md)
+  * [Síntesis Abierta #146](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/146)
+  * [Caso Anthropic institucional #143](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/143)
 
 * [2026-08-09 · Delta · Manifestación sistémica de necesidad, Neo0, IDEA y custodia cognitiva humano–IA](./publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md)
   * [Síntesis Abierta XXXIX · #47](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/47)
@@ -71,6 +77,9 @@ Cada nuevo análisis o auditoría debe incorporarse, cuando corresponda, a su ar
 
 ## Audits
 
+* [2026-08-14 · AI, destructive scanning, book destruction and cultural preservation](../auditorias/publicas/2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md)
+  * [Audit / Synthesis #144](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/144)
+  * [Positive synthesis #145 · libraries and training from scratch](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/145)
 * [2026-08-06 · Success case: free audit for Amazon KDP and Author Central](../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
 * [2026-08-06 · Public indirect audit of KDP, Author Central and IDEA](./publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 * [2026-08-06 · DistroKid–Spotify case update: traceability and royalties](./publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md)
@@ -80,6 +89,10 @@ Cada nuevo análisis o auditoría debe incorporarse, cuando corresponda, a su ar
 * [Wiki guide to analyses and audits](../wiki-source/Analisis_Neodialecticos_Publicos.md)
 
 ## Public analyses
+
+* [2026-08-14 · Recalculation · current AI complaints, sociotechnical architecture and pre-Neodialectical legacy](./publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md)
+  * [Open Synthesis #146](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/146)
+  * [Institutional Anthropic case #143](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/143)
 
 * [2026-08-09 · Delta · Systemic manifestation of need, Neo0, IDEA and human–AI cognitive custodianship](./publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md)
   * [Open Synthesis XXXIX · #47](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/47)
@@ -123,6 +136,6 @@ Each new analysis or audit should be incorporated, where applicable, into its do
 
 ---
 
-**© 2026 Pedro Martínez Alhambra · Fundación Innova_N / Innova_N Foundation**
+**© 2026 Pedro Martínez Alhambra · Innova_N**
 
 ---
