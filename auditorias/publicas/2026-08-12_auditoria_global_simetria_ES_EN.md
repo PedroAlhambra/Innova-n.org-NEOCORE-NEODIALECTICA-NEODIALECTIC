@@ -9,7 +9,7 @@
 
 - Markdown activo examinado / Active Markdown scanned: **291**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **211**.
-- Fallos estructurales divididos / Split structural failures: **124**.
+- Fallos estructurales divididos / Split structural failures: **123**.
 - Fallos de marcadores / Marker failures: **1**.
 - Superficies pareadas para revisión / Paired surfaces for review: **24**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -182,9 +182,6 @@
 - `auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md` · ES=171 · EN=87 · ratio=0.51
   - volumen EN/ES=0.51 (87/171)
   - esqueleto de encabezados distinto ES=[(3, ''), (3, '')] EN=[]
-- `auditorias/publicas/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` · ES=1243 · EN=346 · ratio=0.28
-  - volumen EN/ES=0.28 (346/1243)
-  - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (2, '4'), (2, '5'), (3, ''), (2, '6')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4')]
 - `auditorias/publicas/2026-08-10_auditoria_responsabilidad_historica_infraestructuras_publicas_espana_ES_EN.md` · ES=1146 · EN=1139 · ratio=0.99
   - 11: párrafos ES=1 EN=0
 - `auditorias/publicas/2026-08-11_postcheck_LXIX_LXXII_C_NAX_19_navegacion_paridad_ES_EN.md` · ES=1437 · EN=1362 · ratio=0.95
@@ -589,7 +586,7 @@
 | `auditorias/publicas/2026-08-09_distrokid_ticket_4499471_royalty_routing_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md` | **REVISAR** | volumen EN/ES=0.51 (87/171); esqueleto de encabezados distinto ES=[(3, ''), (3, '')] EN=[] |
 | `auditorias/publicas/2026-08-09_postcheck_neocore_7_1_integridad_relacional_no_reductiva_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Postcheck NEOCore™ 7.1 · integridad relacional y no reductiva |
-| `auditorias/publicas/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` | **REVISAR** | volumen EN/ES=0.28 (346/1243); esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (2, '4'), (2, '5'), (3, ''), (2, '6')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4')] |
+| `auditorias/publicas/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-10_auditoria_responsabilidad_historica_infraestructuras_publicas_espana_ES_EN.md` | **REVISAR** | 11: párrafos ES=1 EN=0 |
 | `auditorias/publicas/2026-08-10_postcheck_neocore_7_2_final_indices_paridad_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Resultado |
 | `auditorias/publicas/2026-08-10_postcheck_neocore_7_2_soberania_sintesis_web4_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: WEB4™ |
