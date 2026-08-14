@@ -1,17 +1,12 @@
-
-## Actualización 2026-08-14 · IA, libros y arquitectura sociotécnica
-
-- [Auditoría · escaneo destructivo y preservación cultural](./2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md)
-- [Issue #144 · aportes y evidencia](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/144)
-- [Síntesis positiva #145 · bibliotecas y entrenamiento desde cero](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/145)
-- [Recalculo #146 · quejas sobre IA y arquitectura sociotécnica](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/146)
-
-## Actualización 2026-08-09 · DistroKid / Spotify
-
-- [Ticket 4499471 · auditoría de royalty routing y catálogo](./2026-08-09_distrokid_ticket_4499471_royalty_routing_ES_EN.md)
-- [MAXPROC 001 · Leónidas-Cancerbero™](../../analisis/publicos/2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md)
-
 # Auditorías Públicas · Leónidas™
+# Public Audits · Leónidas™
+
+**Innova_N · NEOCore™ · Neodialectica Framework™ / Network**  
+**Estado / Status:** portal operativo público / public operational portal · 2026-08-14  
+**Genealogía / Genealogy:** desde / since 2021
+
+> **Los manifiestos formulan arquitectura y principios. Las auditorías muestran qué ocurre cuando esa arquitectura entra en contacto con problemas reales.**  
+> **Manifestos state architecture and principles. Audits show what happens when that architecture meets real problems.**
 
 <!-- NEO_LATEST_MANIFESTO_START -->
 
@@ -20,18 +15,17 @@
 > **LXXV · Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™**
 >
 > **[Leer LXXV / Read LXXV](../../manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md) · [Síntesis Abierta LXXV · #134 / Open Synthesis LXXV · #134](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/134)**  
-> [Seguir marco / Follow framework](../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [Registrar entrada / Register entry](../../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Cómo aportar / How to contribute](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™](../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas / Public audits](README.md) · [75 manifiestos / manifestos · I–LXXV](../../manifiestos/README.md)
+> [Seguir marco / Follow framework](../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [Registrar entrada / Register entry](../../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Cómo aportar / How to contribute](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™](../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [75 manifiestos / 75 manifestos](../../manifiestos/README.md)
 
 <!-- NEO_LATEST_MANIFESTO_END -->
 
 <!-- NEOAXIOMAS_GLOBAL_LINK_START -->
 
-## NEOCore™ 7.2 · Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™ + Soberanía de Síntesis™
-## NEOCore™ 7.2 · First Fractal Multihead Layer™ + Neoaxiomatic Layer™ + Synthesis Sovereignty™
+## NEOCore™ 7.2 · Capa Neoaxiomática™ / Neoaxiomatic Layer™
 
-Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin convertirse en dogmas cerrados: permanecen abiertos a contraste, evidencia, crítica, refutación y revisión mediante **Síntesis Abierta Neodialéctica™ — SAN™**. / **Neoaxioms™** express high-stability principles of NEOCore™ without becoming closed dogma: they remain open to challenge, evidence, criticism, refutation and revision through **Neodialectical Open Synthesis™ — SAN™**.
+Los **Neoaxiomas™** permanecen abiertos a contraste, evidencia, crítica, refutación y revisión mediante SAN™. / **Neoaxioms™** remain open to challenge, evidence, criticism, refutation and revision through SAN™.
 
-**[Abrir Neoaxiomas™ / Open Neoaxioms™](../../neoaxiomas/README.md)** · **[Síntesis Abierta Neoaxiomas™ / Neoaxioms Open Synthesis](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)** · **[Protocolo / Protocol](../../propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md)**
+**[Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md)** · **[Síntesis Abierta / Open Synthesis #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)** · **[Protocolo / Protocol](../../propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md)**
 
 <!-- NEOAXIOMAS_GLOBAL_LINK_END -->
 
@@ -39,28 +33,17 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 ### Mapa relacional vivo / Living relational map
 
-[Manifiestos / Manifestos](../../manifiestos/README.md) · [Relaciones y trabajo aplicado / Relations and applied work](../../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Neoaxiomas™](../../neoaxiomas/README.md) · [Síntesis Abierta / Open Synthesis](../../propuestas/sintesis-abierta/README.md) · [Síntesis relacional / Relational synthesis #98](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/98) · [Auditoría MAXPROC / MAXPROC audit](2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md)
+[Manifiestos / Manifestos](../../manifiestos/README.md) · [Relaciones y trabajo aplicado / Relations and applied work](../../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Neoaxiomas™](../../neoaxiomas/README.md) · [Síntesis Abierta / Open Synthesis](../../propuestas/sintesis-abierta/README.md) · [Síntesis relacional / Relational synthesis #98](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/98)
 
 <!-- NEO_RELATIONAL_MENU_END -->
 
-# Public Audits · Leónidas™
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
-**Innova_N · NEOCore™ · Neodialectica Framework™ / Network**  
-**Estado / Status:** portal operativo público · 2026-08-14  
-**Genealogía del marco / Framework genealogy:** desde / since 2021
+---
 
-> **Los manifiestos formulan arquitectura y principios. Las auditorías muestran qué ocurre cuando esa arquitectura entra en contacto con problemas reales. Ambas capas son principales.**  
-> **Manifestos state architecture and principles. Audits show what happens when that architecture meets real problems. Both are primary layers.**
+# ES · Castellano
 
-## Entrada inmediata / Immediate entry
-
-- **[LIII · Manifiesto Leónidas™](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)** · defensor de la Síntesis, la Auditoría Abierta y el derecho a traer problemas.
-- **[Síntesis Abierta LIII · Issue #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)** · debate sobre la arquitectura Leónidas™.
-- **[Aportar pruebas o abrir una nueva auditoría](./APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md)**.
-- **[Registro de Issues de Auditorías Públicas](./ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md)**.
-- **Plantilla GitHub:** `Auditoría Pública · aporte o nueva propuesta`.
-
-## Principio Leónidas™
+## 1 · Principio Leónidas™
 
 ```text
 PROBLEMA
@@ -75,166 +58,157 @@ PROBLEMA
 → REAPERTURA SI APARECE EVIDENCIA MATERIAL NUEVA
 ```
 
-Una propuesta de auditoría externa **no se valida por ser admitida**. Entra como objeto examinable. Se separan hechos verificables, testimonios, inferencias, hipótesis, contradicciones y pendientes.
+**Admisión ≠ validación.** Una auditoría separa hechos verificables, documentos, testimonios, inferencias, hipótesis, contradicciones, pendientes y correcciones del propio auditor. No atribuye intenciones sin evidencia suficiente.
 
----
+## 2 · Auditorías activas
 
-# ES · Auditorías activas
+### 2.1 · IA · escaneo destructivo · destrucción de libros · preservación cultural
 
-## 1. Música digital · DistroKid · Spotify · DSPs
+- [Auditoría principal ES/EN](./2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md)
+- [#144 · evidencia y aportes](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/144)
+- [#145 · bibliotecas, preservación y entrenamiento desde cero](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/145)
+- [#146 · quejas sobre IA y arquitectura sociotécnica](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/146)
+- [Recálculo sociotécnico ES/EN](../../analisis/publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md)
 
-**Issue de aportación:** [#61 · Umbral-X MAXPROC 001 · Leónidas-Cancerbero™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/61)
+**Estado:** Anthropic es el caso de destrucción física verificado en la versión actual. Otros actores se clasifican según el nivel de evidencia. Uso de libros en entrenamiento no se equipara automáticamente a destrucción física.
 
-**Auditoría principal:**
-- [2026-08-08 · Auditoría externa de streaming, distribuidores, metadatos y regalías](./2026-08-08_auditoria_externa_streaming_distribuidores_metadatos_regalias_ES_EN.md)
+### 2.2 · Música digital · DistroKid · Spotify · DSPs
 
-**Cadena relacionada:**
-- [2025-12 · Evento-Reflejo · Auditoría DistroKid](../../analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md)
-- [2026-08-04 · Actualización Auditoría DistroKid–Spotify](../../analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md)
-- [2026-08-06 · Actualización de trazabilidad y regalías](../../analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md)
-- [2026-08-07 · Spotify–DistroKid · cierre circular y escalado](../../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md)
-- [2026-08-08 · Ticket 4499471 · respuesta no resolutiva](../../analisis/publicos/2026-08-08_distrokid_ticket_4499471_respuesta_no_resolutiva_y_reiteracion_auditoria_ES_EN.md)
-- [2026-08-08 · Addendum Apple Music · catálogo removed/added](../../analisis/publicos/2026-08-08_addendum_distrokid_catalogo_album_removed_added_apple_music_ES_EN.md)
+- [Auditoría externa de streaming, distribuidores, metadatos y regalías](./2026-08-08_auditoria_externa_streaming_distribuidores_metadatos_regalias_ES_EN.md)
+- [#61 · Umbral-X MAXPROC 001 · Leónidas-Cancerbero™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/61)
+- [Ticket 4499471 · royalty routing y catálogo](./2026-08-09_distrokid_ticket_4499471_royalty_routing_ES_EN.md)
 
-**Aportes buscados:** casos comparables de músicos, sellos, productores, técnicos de metadata, distribuidores y DSPs: canciones que desaparecen o reaparecen, perfiles mezclados, mappings, ISRC/UPC, cambios de identificadores, regalías incoherentes, soporte circular, suplantación y evidencia que confirme o refute las hipótesis actuales.
+**Aportes buscados:** cronologías y pruebas sobre mappings, ISRC/UPC, perfiles mezclados, desapariciones/reapariciones, regalías y soporte. No se solicita adhesión a una acusación.
 
-La difusión en grupos de música debe solicitar **pruebas y cronologías**, no adhesión a una acusación.
+### 2.3 · Amazon KDP · Author Central · IDEA · caso 51071689
 
-## 2. Amazon KDP · Author Central · IDEA · caso 51071689
+- [Auditoría indirecta pública](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
+- [Caso de éxito operativo provisional](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+- [#70 · aportes y pruebas](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)
 
-**Issue de aportación:** [#70 · KDP / Author Central / IDEA · aportes y pruebas](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)
+**Estado:** conserva correcciones verificadas, reaperturas y cuestiones técnicas no explicadas. Ninguna hipótesis sobre intención se trata como hecho.
 
-- [2026-08-06 · Auditoría indirecta pública de KDP, Author Central e IDEA](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
-- [2026-08-06 · Hito de éxito operativo provisional](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
-- [2026-08-07 · Reapertura del caso 51071689](./2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md)
-- [2026-08-08 · Respuesta KDP sobre «cambios sin publicar»](./2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md)
-- [2026-08-08 · Estrategia de keywords y ediciones multilingües](./2026-08-08_addendum_kdp_estrategia_keywords_ediciones_multilingues_51071689_ES_EN.md)
+### 2.4 · Integridad del repositorio · Wiki · READMEs · automatizaciones
 
-**Estado documentado:** el caso conserva correcciones verificadas, reapertura posterior y cuestiones técnicas sin explicación completa. Ninguna hipótesis sobre intención se trata como hecho sin evidencia.
+- [#71 · integridad documental del sistema](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/71)
+- [Auditoría global de simetría ES/EN](./2026-08-12_auditoria_global_simetria_ES_EN.md)
+- [Auditoría relacional de manifiestos, neoaxiomas y publicaciones](./2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md)
 
-## 3. Integridad del repositorio · Wiki · READMEs · automatizaciones
+Se aceptan pruebas de enlaces rotos, archivos huérfanos, estados obsoletos, navegación asimétrica, divergencias Wiki↔repo y errores reproducibles.
 
-**Issue de aportación:** [#71 · Integridad documental del sistema](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/71)
+### 2.5 · Auditoría del Fundador™
 
-- [2026-08-06 · Integridad de enlaces, READMEs, manifiestos y Wiki](./2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md)
-- [2026-08-07 · Postcheck de enlaces y sincronización documental tras XXXV](./2026-08-07_postcheck_enlaces_y_sincronizacion_XXXV_ES_EN.md)
-- [2026-08-08 · Auditoría global de README, enlaces y trazabilidad KDP](./2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md)
-- [2026-08-08 · Estado de READMEs, enlaces y XLII](./2026-08-08_auditoria_readmes_enlaces_estado_XLII_ES_EN.md)
-- [2026-08-08 · Formato de manifiestos XXXVIII–XLIII](./2026-08-08_auditoria_formato_manifiestos_XXXVIII_XLIII_ES_EN.md)
-- [2026-08-08 · Correlación manifiestos ↔ trabajo aplicado](./2026-08-08_auditoria_integral_correlacion_manifiestos_trabajo_aplicado_ES_EN.md)
-- [2026-08-08 · One-shots, GitHub Actions, carreras/no-op y estado final](./2026-08-08_auditoria_oneshots_github_actions_carreras_noop_y_estado_final_ES_EN.md)
+- [Auditoría del Fundador™](./2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md)
+- [#68 · Síntesis Abierta](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/68)
 
-Se aceptan pruebas de enlaces rotos, archivos huérfanos, estados canónicos obsoletos, navegación asimétrica, automatizaciones reversoras, divergencias Wiki↔repo y cualquier error reproducible.
+La dependencia del marco respecto de Neo0™, la carga de creación y mantenimiento y la conducta del fundador permanecen abiertas a crítica y corrección.
 
-## 4. Auditoría del Fundador™
+## 3 · Abrir una Auditoría Pública
 
-**Issue de aportación:** [#68 · Auditoría del Fundador™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/68)
+No es necesario que Innova_N haya detectado primero el problema. Puede proponerse una auditoría mediante la plantilla GitHub **`Auditoría Pública · aporte o nueva propuesta`**.
 
-- [2026-08-09 · Auditoría del Fundador™ · tiempo, carga solitaria y retorno al Bien Común](./2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md)
+La propuesta debe indicar, cuando sea posible: objeto, qué ocurrió, qué se sabe, qué no se sabe, pruebas existentes, evidencia que podría contradecir la hipótesis, reparación buscada y datos que no deben publicarse.
 
-Audita públicamente la dependencia del marco respecto de Neo0, la carga de creación, mantenimiento, defensa, difusión y acompañamiento, y la necesidad de devolución de capacidad y tiempo conforme el sistema se distribuya.
+- [Aportar pruebas o abrir auditoría](./APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md)
+- [Registro de Issues](./ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md)
+- [LIII · Manifiesto Leónidas™](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
+- [Síntesis Abierta LIII · #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)
 
-La propia conducta del fundador permanece abierta a crítica y corrección.
+## 4 · Privacidad, límites y reapertura
 
-## 5. IA · escaneo destructivo · destrucción de libros · preservación cultural
-
-**Issue de aportación:** [#144 · IA, escaneo destructivo y destrucción de libros](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/144)
-
-- [Auditoría bilingüe principal](./2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md)
-- [#145 · Bibliotecas, preservación y entrenamiento desde cero](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/145)
-- [#146 · Quejas sobre IA actual, arquitectura sociotécnica y herencia pre-neodialéctica](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/146)
-- [Recalculo sociotécnico ES/EN](../../analisis/publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md)
-- [Caso Anthropic previo](../../analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
-
-**Estado documentado:** Anthropic es el caso de destrucción física verificado en esta versión. Otros laboratorios, intermediarios y compradores quedan clasificados según evidencia; uso de libros no se confunde con destrucción física. El caso incorpora además una auditoría de coherencia entre principios éticos declarados y prácticas documentadas, sin atribuir mala fe o intención de dominio sin evidencia.
-
----
-
-## Abrir una Auditoría Pública nueva
-
-No es necesario que Innova_N haya detectado primero el problema.
-
-Cualquier persona puede proponer una Auditoría Pública mediante la plantilla GitHub **`Auditoría Pública · aporte o nueva propuesta`**.
-
-La propuesta debe incluir como mínimo:
+No publicar credenciales, domicilios, teléfonos, información médica, datos de menores ni material privado innecesario. La Auditoría Pública no sustituye a tribunales, reguladores, policía ni asesoramiento profesional competente.
 
 ```text
-OBJETO
-QUÉ OCURRIÓ
-QUÉ SE SABE
-QUÉ NO SE SABE
-QUÉ PRUEBAS EXISTEN
-QUÉ PODRÍA CONTRADECIR LA HIPÓTESIS
-QUÉ RESULTADO O REPARACIÓN SE BUSCA
-QUÉ DATOS NO DEBEN PUBLICARSE
+CIERRE + EVIDENCIA MATERIAL NUEVA
+→ REAPERTURA TRAZABLE
+→ NUEVA VERSIÓN
 ```
 
-La admisión abre examen; no valida la conclusión inicial.
+---
 
-## Criterio probatorio
+# EN · English
 
-Las auditorías públicas deben distinguir:
+## 1 · Leónidas™ principle
 
-- hecho verificable;
-- comunicación o documento;
-- testimonio;
-- inferencia;
-- hipótesis;
-- interpretación;
-- evidencia contradictoria;
-- pendiente;
-- corrección del propio auditor.
+```text
+PROBLEM
+→ EVIDENCE / EXPERIENCE / SOURCE
+→ CLASSIFICATION
+→ PUBLIC ISSUE
+→ CHALLENGE
+→ RIVAL HYPOTHESES
+→ PROVISIONAL SYNTHESIS
+→ VERSIONED DOCUMENT
+→ DELTA / REPAIR / CLOSURE
+→ REOPENING IF MATERIAL NEW EVIDENCE APPEARS
+```
 
-No deben atribuir intenciones sin evidencia ni publicar datos personales innecesarios.
+**Admission ≠ validation.** An audit separates verifiable facts, documents, testimony, inference, hypotheses, contradictions, pending matters and corrections by the auditor itself. It does not attribute intentions without sufficient evidence.
 
-## Privacidad y límites
+## 2 · Active audits
 
-No publicar credenciales, domicilios, teléfonos, información médica, datos de menores ni material privado innecesario. La auditoría pública no sustituye a policía, tribunales, reguladores ni asesoramiento profesional competente.
+### 2.1 · AI · destructive scanning · book destruction · cultural preservation
 
-## Reapertura
+- [Main ES/EN audit](./2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md)
+- [#144 · evidence and contributions](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/144)
+- [#145 · libraries, preservation and training from scratch](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/145)
+- [#146 · AI complaints and sociotechnical architecture](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/146)
+- [ES/EN sociotechnical recalculation](../../analisis/publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md)
 
-> **CIERRE + EVIDENCIA MATERIAL NUEVA → REAPERTURA TRAZABLE → NUEVA VERSIÓN**
+**Status:** Anthropic is the verified physical-destruction case in the current version. Other actors are classified according to evidence level. Use of books in training is not automatically equated with physical destruction.
 
-Un cierre fija el estado conocido en una fecha; no impide aprendizaje posterior.
+### 2.2 · Digital music · DistroKid · Spotify · DSPs
+
+- [External audit of streaming, distributors, metadata and royalties](./2026-08-08_auditoria_externa_streaming_distribuidores_metadatos_regalias_ES_EN.md)
+- [#61 · Umbral-X MAXPROC 001 · Leónidas-Cancerbero™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/61)
+- [Ticket 4499471 · royalty routing and catalogue](./2026-08-09_distrokid_ticket_4499471_royalty_routing_ES_EN.md)
+
+**Contributions sought:** timelines and evidence concerning mappings, ISRC/UPC, mixed profiles, disappearances/reappearances, royalties and support. Endorsement of an allegation is not requested.
+
+### 2.3 · Amazon KDP · Author Central · IDEA · case 51071689
+
+- [Public indirect audit](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
+- [Provisional operational success case](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+- [#70 · contributions and evidence](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)
+
+**Status:** preserves verified corrections, reopenings and unexplained technical questions. No hypothesis about intent is treated as fact.
+
+### 2.4 · Repository · Wiki · README · automation integrity
+
+- [#71 · documentary-system integrity](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/71)
+- [Global ES/EN symmetry audit](./2026-08-12_auditoria_global_simetria_ES_EN.md)
+- [Relational audit of manifestos, neoaxioms and publications](./2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md)
+
+Evidence is accepted for broken links, orphan files, obsolete states, asymmetric navigation, Wiki↔repo divergence and reproducible errors.
+
+### 2.5 · Founder Audit™
+
+- [Founder Audit™](./2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md)
+- [#68 · Open Synthesis](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/68)
+
+The framework's dependence on Neo0™, the burden of creation and maintenance and the founder's conduct remain open to criticism and correction.
+
+## 3 · Open a Public Audit
+
+The problem does not need to have been detected first by Innova_N. An audit may be proposed through the GitHub template **`Public Audit · contribution or new proposal`**.
+
+Where possible, the proposal should state: object, what occurred, what is known, what is unknown, existing evidence, evidence that could contradict the hypothesis, intended repair and data that must not be published.
+
+- [Contribute evidence or open an audit](./APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md)
+- [Issue register](./ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md)
+- [LIII · Leónidas™ Manifesto](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
+- [Open Synthesis LIII · #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)
+
+## 4 · Privacy, limits and reopening
+
+Do not publish credentials, home addresses, phone numbers, medical information, minors' data or unnecessary private material. Public Audit does not replace courts, regulators, police or competent professional advice.
+
+```text
+CLOSURE + MATERIAL NEW EVIDENCE
+→ TRACEABLE REOPENING
+→ NEW VERSION
+```
 
 ---
 
-# EN · Public Audit layer
-
-Public Audits are a primary operational layer of the framework. Current contribution threads are:
-
-- **Digital music / DistroKid / Spotify / DSPs:** [Issue #61](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/61)
-- **Amazon KDP / Author Central / IDEA:** [Issue #70](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)
-- **Repository / Wiki / README / automation integrity:** [Issue #71](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/71)
-- **Founder Audit™:** [Issue #68](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/68)
-- **AI / destructive book scanning / cultural preservation:** [Issue #144](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/144) · [main audit](./2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md)
-- **Libraries / preservation / training from scratch:** [Issue #145](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/145)
-- **AI complaints / sociotechnical architecture / pre-Neodialectical legacy:** [Issue #146](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/146) · [recalculation](../../analisis/publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md)
-- **Leónidas™ architecture:** [Issue #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)
-
-Any external contributor may propose a new audit through the GitHub Public Audit template. Admission creates an examinable object; it does not validate an allegation. Facts, testimony, inference, hypotheses, contradictory evidence and pending matters remain separated.
-
-## Navegación / Navigation
-
-- [Manifiestos / Manifestos](../../manifiestos/README.md)
-- [Síntesis Abierta / Open Synthesis](../../propuestas/sintesis-abierta/README.md)
-- [Análisis / Analyses](../../analisis/README.md)
-- [Repositorio principal / Main repository](../../README.md)
-- [LIII · Leónidas™](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
-
----
-
-**Principio de procedencia / Provenance principle:** la fuente intelectual y genealógica es **Innova_N**, dentro de **NEOCore™ / Neodialectica Framework™ / Network**, bajo dirección humana de **Pedro Martínez Alhambra · Neo0™**. GitHub es la primera proyección WEB4™ pública, versionada y trazable; no es el origen intelectual del sistema. / The intellectual and genealogical source is **Innova_N**, within **NEOCore™ / Neodialectica Framework™ / Network**, under the human direction of **Pedro Martínez Alhambra · Neo0™**. GitHub is the first public, versioned and traceable WEB4™ projection; it is not the intellectual origin of the system.
-
-<!-- NEO_OPEN_SYNTHESIS_INVITATION_START -->
-
-## Participa en la Síntesis Abierta / Join the Open Synthesis
-
-Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. / You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta.
-
-**Última síntesis / Latest synthesis:** [LXXV · Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™](../../manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md) · [Issue #134](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/134)  
-**Seguimiento vivo / Living follow-up:** [seguir el marco / follow the framework](../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [registro de entrada / entry register](../../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)  
-**Auditorías / Audits:** [LIII · Leónidas™](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo / protocol](../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
-**Cómo aportar / How to contribute:** [protocolo general / general protocol](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](README.md) · [índice / index](../../propuestas/sintesis-abierta/README.md)
-
-<!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->
+**Principio de procedencia / Provenance principle:** la fuente intelectual y genealógica es **Innova_N**, dentro de **NEOCore™ / Neodialectica Framework™ / Network**, bajo dirección humana de **Pedro Martínez Alhambra · Neo0™**. GitHub es una proyección pública, versionada y trazable; no es el origen intelectual del sistema. / The intellectual and genealogical source is **Innova_N**, within **NEOCore™ / Neodialectica Framework™ / Network**, under the human direction of **Pedro Martínez Alhambra · Neo0™**. GitHub is a public, versioned and traceable projection; it is not the intellectual origin of the system.
