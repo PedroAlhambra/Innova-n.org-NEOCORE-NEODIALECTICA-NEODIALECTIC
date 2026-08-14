@@ -3,7 +3,6 @@ import re
 
 ROOT=Path('.').resolve()
 REL=ROOT/'manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md'
-SYN=ROOT/'propuestas/sintesis-abierta/README.md'
 FULL=ROOT/'propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md'
 ROOT_README=ROOT/'README.md'
 WIKI_MAP=ROOT/'wiki-source/Mapa_del_Marco.md'
@@ -26,26 +25,6 @@ block=f'''{START}
 
 {END}'''
 
-radar_synthesis=f'''{RADAR_START}
-
-## NeoGenealogía™ + RADAR-Π™ · antecedentes, convergencias y contraejemplos / antecedents, convergences and counterexamples
-
-**NeoGenealogía™** conserva la relación, atribución, clasificación y memoria genealógica de antecedentes, convergencias, derivaciones, contraejemplos y falsos paralelos. **RADAR-Π™** es su subsistema de detección activa: abre señales, obliga al retorno a fuente y exige barrido negativo antes de afirmar una relación material. / **NeoGenealogy™** preserves the relation, attribution, classification and genealogical memory of antecedents, convergences, derivations, counterexamples and false parallels. **RADAR-Π™** is its active detection subsystem: it opens signals, requires return to source and requires negative scanning before asserting a material relation.
-
-[NeoGenealogía™ / NeoGenealogy™](NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md) · [RADAR-Π™](RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md) · [Síntesis NeoGenealogía + RADAR-Π · #136 / NeoGenealogy + RADAR-Π synthesis · #136](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136) · [Protocolo RADAR-Π · #137 / RADAR-Π protocol · #137](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/137) · [Cola abierta · #138 / Open queue · #138](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/138) · [Candidato SENTIENT/NRO · #139 / SENTIENT/NRO candidate · #139](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/139)
-
-```text
-RADAR-Π™ DETECTA / DETECTS
-→ NEOGENEALOGÍA™ ATRIBUYE Y CLASIFICA / ATTRIBUTES AND CLASSIFIES
-→ MATRIZ DE CONTRASTE ANALIZA / CONTRAST MATRIX ANALYSES
-→ SAN™ CONTRASTA Y REVISA / CHALLENGES AND REVISES
-→ COMMIT CONSERVA LA TRAZA / PRESERVES THE TRACE
-```
-
-{RADAR_END}'''
-
-radar_root=radar_synthesis.replace('(NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md)', '(propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md)').replace('(RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md)', '(propuestas/sintesis-abierta/RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md)')
-
 radar_full=f'''{RADAR_START}
 
 ## Sistemas transversales de genealogía y detección / Transversal genealogy and detection systems
@@ -55,6 +34,24 @@ radar_full=f'''{RADAR_START}
 - **Cola abierta RADAR-Π™ / RADAR-Π™ open queue** — [Issue #138](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/138).
 - **SENTIENT / NRO · señal candidata / candidate signal** — [Issue #139](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/139). **Candidato ≠ clasificación / Candidate ≠ classification.**
 - **Primer caso / First case:** [PROTO-ND-001 · Asilomar 1974–1975 + Asilomar AI 2017](../../analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md).
+
+{RADAR_END}'''
+
+radar_root=f'''{RADAR_START}
+
+## NeoGenealogía™ + RADAR-Π™ · antecedentes, convergencias y contraejemplos / antecedents, convergences and counterexamples
+
+**NeoGenealogía™** conserva la relación, atribución, clasificación y memoria genealógica de antecedentes, convergencias, derivaciones, contraejemplos y falsos paralelos. **RADAR-Π™** es su subsistema de detección activa: abre señales, obliga al retorno a fuente y exige barrido negativo antes de afirmar una relación material. / **NeoGenealogy™** preserves the relation, attribution, classification and genealogical memory of antecedents, convergences, derivations, counterexamples and false parallels. **RADAR-Π™** is its active detection subsystem: it opens signals, requires return to source and requires negative scanning before asserting a material relation.
+
+[NeoGenealogía™ / NeoGenealogy™](propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md) · [RADAR-Π™](propuestas/sintesis-abierta/RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md) · [Síntesis NeoGenealogía + RADAR-Π · #136 / NeoGenealogy + RADAR-Π synthesis · #136](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136) · [Protocolo RADAR-Π · #137 / RADAR-Π protocol · #137](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/137) · [Cola abierta · #138 / Open queue · #138](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/138) · [Candidato SENTIENT/NRO · #139 / SENTIENT/NRO candidate · #139](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/139)
+
+```text
+RADAR-Π™ DETECTA / DETECTS
+→ NEOGENEALOGÍA™ ATRIBUYE Y CLASIFICA / ATTRIBUTES AND CLASSIFIES
+→ MATRIZ DE CONTRASTE ANALIZA / CONTRAST MATRIX ANALYSES
+→ SAN™ CONTRASTA Y REVISA / CHALLENGES AND REVISES
+→ COMMIT CONSERVA LA TRAZA / PRESERVES THE TRACE
+```
 
 {RADAR_END}'''
 
@@ -96,21 +93,16 @@ else:
 if text!=old:
     REL.write_text(text,encoding='utf-8'); changed.append(REL)
 
-# Open Synthesis README: dynamic frontier label + visible genealogy/RADAR entry.
-text=SYN.read_text(encoding='utf-8')
-old=text
-text=re.sub(r'^## Índice canónico · I–[IVXLCDM]+ \+ ∞$', '## Índice canónico · I–LXXV + ∞', text, count=1, flags=re.M)
-text=re.sub(r'^## Canonical index · I–[IVXLCDM]+ \+ ∞$', '## Canonical index · I–LXXV + ∞', text, count=1, flags=re.M)
-text=upsert(text,radar_synthesis,'## WEB4™ · SistemaTrazable™')
-if text!=old:
-    SYN.write_text(text,encoding='utf-8'); changed.append(SYN)
-
 # Complete Synthesis index: expose transversal system nodes without mixing them with finite manifesto numbering.
 text=FULL.read_text(encoding='utf-8')
 old=text
 text=upsert(text,radar_full)
 if text!=old:
     FULL.write_text(text,encoding='utf-8'); changed.append(FULL)
+
+# The operational Open Synthesis README is deliberately not rewritten here.
+# It is a stable ES/EN participation guide; current frontier and full inventory
+# live in the canonical manifesto and complete synthesis indexes.
 
 # Root gateway: make the mechanism discoverable from the canonical public entrance.
 text=ROOT_README.read_text(encoding='utf-8')
