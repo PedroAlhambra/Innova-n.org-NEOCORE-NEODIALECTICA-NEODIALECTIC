@@ -14,7 +14,7 @@
 
 **Documentos bilingües examinados:** 104  
 **Recortes/materialmente asimétricos para revisión:** 0  
-**Advertencias estructurales sin prueba suficiente de recorte:** 3  
+**Advertencias estructurales sin prueba suficiente de recorte:** 2  
 **Con marcador incompleto/ausente:** 0
 
 ## Casos marcados
@@ -28,7 +28,6 @@
 | Archivo | Estado | Advertencia |
 |---|---|---|
 | `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | ADVERTENCIA | sección XII listas ES=17, EN=4 |
-| `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` | ADVERTENCIA | sección I listas ES=8, EN=0; sección II listas ES=8, EN=0; sección III listas ES=6, EN=0; sección V listas ES=6, EN=0; sección VII listas ES=10, EN=0; sección VIII listas ES=10, EN=0; sección XI listas ES=9, EN=0; sección XIII listas ES=16, EN=0 |
 | `manifiestos/61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md` | ADVERTENCIA | sección 3 listas ES=6, EN=0; sección 5 listas ES=11, EN=3; sección 8 listas ES=7, EN=0 |
 
 ## Inventario completo
@@ -95,7 +94,7 @@
 | `manifiestos/57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md` | 556 | 546 | 0.98 | 9 | 9 | OK |
 | `manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md` | 676 | 655 | 0.97 | 12 | 12 | OK |
 | `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md` | 607 | 616 | 1.01 | 12 | 12 | OK |
-| `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` | 1539 | 1524 | 0.99 | 15 | 16 | ADVERTENCIA |
+| `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` | 1539 | 1554 | 1.01 | 15 | 16 | OK |
 | `manifiestos/61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md` | 1067 | 1072 | 1.00 | 12 | 14 | ADVERTENCIA |
 | `manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md` | 1194 | 1221 | 1.02 | 14 | 14 | OK |
 | `manifiestos/63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md` | 1120 | 1141 | 1.02 | 16 | 16 | OK |

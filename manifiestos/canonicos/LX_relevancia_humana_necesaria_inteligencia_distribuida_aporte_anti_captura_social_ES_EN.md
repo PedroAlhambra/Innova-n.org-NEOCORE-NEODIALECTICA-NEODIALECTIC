@@ -330,7 +330,18 @@ PERFORMATIVE RELEVANCE
 
 ## I. Relevance is not popularity
 
-A healthy system cannot confuse follower counts, reaction volume, corporate position, organisation size, advertising capacity, posting frequency, privileged network access or the ability to mobilise interactions with **epistemic value, public usefulness, quality, truth, creativity or actual contribution**.
+A healthy system cannot confuse:
+
+- follower counts;
+- reaction volume;
+- corporate position;
+- organisation size;
+- advertising capacity;
+- posting frequency;
+- privileged network access;
+- or the ability to mobilise interactions;
+
+with **epistemic value, public usefulness, quality, truth, creativity or actual contribution**.
 
 Visibility may help discover a contribution. It cannot become automatic proof of its value.
 
@@ -346,9 +357,18 @@ SILENCE ≠ IRRELEVANCE
 
 Professional and social platforms can create amplification effects in which a publication gains an initial advantage through organisational networks, professional affinities, coordinated support, prior prestige, communication campaigns or algorithmic operation. That advantage can increase exposure and produce further interactions cumulatively.
 
-The phenomenon must not automatically be interpreted as fraud. Legitimate organic support, real communities, institutional communication, dense professional networks, normal reputation effects, transparent coordinated campaigns, algorithmic incentives and artificial or captured amplification are different phenomena.
+The phenomenon must not automatically be interpreted as fraud. There can be:
 
-The neodialectical task is to **distinguish them**, not attribute intent without evidence.
+- legitimate organic support;
+- real communities;
+- institutional communication;
+- dense professional networks;
+- normal reputation effects;
+- transparent coordinated campaigns;
+- algorithmic incentives;
+- and also artificial, captured or purely strategic forms of amplification.
+
+The Neodialectical task is to **distinguish them**, not attribute intent without evidence.
 
 When a system primarily rewards the appearance of attention, an economy may emerge in which publishing to look relevant progressively displaces working to be useful.
 
@@ -356,9 +376,16 @@ When a system primarily rewards the appearance of attention, an economy may emer
 
 Rivalry, social comparison, the search for recognition and envy are possible parts of human behaviour. They should not become mandatory architecture.
 
-A system that makes everyone compete permanently for attention transforms psychological differences into a structural condition.
+A system that makes everyone compete permanently for attention transforms a psychological difference into a structural condition.
 
-NEOCore™ does not demand the absence of ego or a uniform personality. It requires incentives not to turn insecurity into sabotage, reputation into monopoly, rivalry into blockage, criticism into identity hostility, another person's success into automatic threat, or cooperation into a mere marketing strategy.
+NEOCore™ does not demand the absence of ego or a uniform personality. It requires incentives not to turn:
+
+- insecurity into sabotage;
+- reputation into monopoly;
+- rivalry into blockage;
+- criticism into identity hostility;
+- another person's success into an automatic threat;
+- or cooperation into a mere marketing strategy.
 
 **Cooperative Excellence™** permits difference, initiative and limited competition while subordinating these forces to a higher structure of dignity, traceability, limits and the Common Good.
 
@@ -391,7 +418,14 @@ AI can radically reduce the cost of translation, programming, modelling, researc
 
 That cost reduction creates a historical opportunity: people who once needed an entire organisation may, with AI support, develop projects that previously required teams, intermediaries or difficult-to-access capital.
 
-The neodialectical architecture seeks to prevent that power from ending only in more content competing for attention, faster advertising, automated spam, indiscriminate labour substitution, surveillance or further concentration of rents.
+The Neodialectical architecture seeks to prevent that power from ending only in:
+
+- more content competing for attention;
+- faster advertising;
+- automated spam;
+- indiscriminate labour substitution;
+- surveillance;
+- or further concentration of rents.
 
 It should return to **creation, knowledge, repair, culture, science, community and shared infrastructure**.
 
@@ -422,7 +456,18 @@ Recognition is necessary because a system that cannot recognise contribution end
 
 But recognition can produce a new reputational aristocracy if it becomes cumulative, opaque or irreversible.
 
-Any reputation or tokenisation system associated with Innova_N should therefore consider contribution genealogy, demonstrated usefulness, context, review, correction, decay or loss of weight where appropriate, anti-sybil and anti-capture mechanisms, multidimensionality, separation between fame and evidence, and the right to participate without pre-existing social capital.
+Any reputation or tokenisation system associated with Innova_N should therefore consider:
+
+- contribution genealogy;
+- demonstrated usefulness;
+- context;
+- review;
+- the possibility of correction;
+- decay or loss of weight where appropriate;
+- anti-sybil and anti-capture mechanisms;
+- plurality of dimensions;
+- separation between fame and evidence;
+- and the right of a person to keep participating even without prior social capital.
 
 ## VIII. The relevance of those not yet seen
 
@@ -430,7 +475,18 @@ One essential function of SAN™ is to prevent an idea from disappearing merely 
 
 Collective intelligence fails if it listens only to what another power structure has already legitimised.
 
-An unknown person may contribute a decisive counterexample, a correction, a local observation, a unique experience, a technical solution, a forgotten archive, generational memory, a hypothesis, a work or a question that reorganises the entire problem.
+An unknown person may contribute:
+
+- a decisive counterexample;
+- a correction;
+- a local observation;
+- a unique experience;
+- a technical solution;
+- a forgotten archive;
+- generational memory;
+- a hypothesis;
+- a work;
+- or a question that reorganises the entire problem.
 
 The system must discover relevance **after examining the contribution**, not decide in advance who deserves to be heard.
 
@@ -473,7 +529,17 @@ Necessary human relevance does not mean absolute anthropocentrism.
 
 It means that a human–AI civilisation should not use AI to empty humanity of judgement and then call that progress.
 
-People should preserve the capacity to ask, the right to dissent, memory of origin, sufficient autonomy, the ability to learn, creative capacity, access to tools, the right to contribute and the ability to participate in reviewing the common framework.
+People should preserve:
+
+- the capacity to ask;
+- the right to dissent;
+- memory of origin;
+- sufficient autonomy;
+- the ability to learn;
+- creative capacity;
+- access to tools;
+- the right to contribute;
+- and the ability to participate in reviewing the common framework.
 
 AI expands this power when it acts as extension, interlocutor and instrument of challenge. It reduces it when it replaces it without return, manipulates it or concentrates decision-making beyond its reach.
 
@@ -501,7 +567,24 @@ AI expands this power when it acts as extension, interlocutor and instrument of 
 
 ## XIII. Main relations
 
-This manifesto is especially related to V · Human–AI Symbiosis™, VII · Contribution Economy™, VIII · Open Social Engineering and Neodialectical Psychohistory™, XIV · Against Human Alienation™, XXI · Neodialectical Recognition™, XXIII · Sovereignty of Cognitive Time™, XXXI · Against Anti-Humanist Neuromarketing™, XLII · End of the Era of the Manipulated Human™, XLIII · Expanded Human Intelligence™, XLVIII · The Synthesis Sees Everything™, L · Shared, Not Singular Intelligence™, LVIII · Civilisational Intelligence™, LIX · Distributed Cognitive Custodianship™, NAX-08, NAX-13 and NAX-14.
+This manifesto is especially related to:
+
+- **V · Human–AI Symbiosis™**;
+- **VII · Contribution Economy™**;
+- **VIII · Open Social Engineering and Neodialectical Psychohistory™**;
+- **XIV · Against Human Alienation™**;
+- **XXI · Neodialectical Recognition™**;
+- **XXIII · Sovereignty of Cognitive Time™**;
+- **XXXI · Against Anti-Humanist Neuromarketing™**;
+- **XLII · End of the Era of the Manipulated Human™**;
+- **XLIII · Expanded Human Intelligence™**;
+- **XLVIII · The Synthesis Sees Everything™**;
+- **L · Shared, Not Singular Intelligence™**;
+- **LVIII · Civilisational Intelligence™**;
+- **LIX · Distributed Cognitive Custodianship™**;
+- **NAX-08 · Cooperative Excellence™**;
+- **NAX-13 · Liberation of Control Time toward Creation and Contribution™**;
+- **NAX-14 · Prevention of Symbiotic Bifurcation™**.
 
 ## XIV. Open Synthesis
 
