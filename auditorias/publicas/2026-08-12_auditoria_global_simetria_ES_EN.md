@@ -288,9 +288,8 @@
   - 10: párrafos ES=2 EN=1
   - 11: lists ES=8 EN=0
   - 14: párrafos ES=3 EN=4
-- `propuestas/sintesis-abierta/README.md` · ES=2010 · EN=180 · ratio=0.09
-  - volumen EN/ES=0.09 (180/2010)
-  - esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, '')] EN=[]
+- `propuestas/sintesis-abierta/README.md` · ES=839 · EN=832 · ratio=0.99
+  - 10: párrafos ES=2 EN=1
 - `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md` · ES=282 · EN=285 · ratio=1.01
   - Para qué sirve: lists ES=7 EN=0
   - Lo que NO significa: lists ES=7 EN=0
@@ -606,7 +605,7 @@
 | `propuestas/sintesis-abierta/PARTICIPACION_Y_ADHESIONES_ES_EN.md` | **REVISAR** | Resultado esperado: párrafos ES=1 EN=0 |
 | `propuestas/sintesis-abierta/PUENTE_PARTICIPACION_GUIADA_CORREO_GITHUB_ES_EN.md` | **REVISAR** | volumen EN/ES=0.82 (426/522); 2: párrafos ES=3 EN=2; 5: lists ES=8 EN=0; 8: párrafos ES=3 EN=4 |
 | `propuestas/sintesis-abierta/RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md` | **REVISAR** | 2: lists ES=12 EN=0; 7: code ES=1 EN=0; 7: párrafos ES=4 EN=3; 8: lists ES=6 EN=0; 10: code ES=1 EN=0; 10: párrafos ES=2 EN=1; 11: lists ES=8 EN=0; 14: párrafos ES=3 EN=4 |
-| `propuestas/sintesis-abierta/README.md` | **REVISAR** | volumen EN/ES=0.09 (180/2010); esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, '')] EN=[] |
+| `propuestas/sintesis-abierta/README.md` | **REVISAR** | 10: párrafos ES=2 EN=1 |
 | `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md` | **REVISAR** | Para qué sirve: lists ES=7 EN=0; Lo que NO significa: lists ES=7 EN=0; Genealogía de derivaciones: code ES=1 EN=0; Seguir la evolución: párrafos ES=1 EN=2 |
 | `propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_365_DIAS_ES_EN.md` | **REVISAR** | Regla de apertura permanente: párrafos ES=5 EN=6 |
 | `proyeccion/2026-08-11_delta_web4_neocore_patrimonio_comun_aprendizaje_creacion_ES_EN.md` | **REVISAR** | 10: párrafos ES=3 EN=2 |
