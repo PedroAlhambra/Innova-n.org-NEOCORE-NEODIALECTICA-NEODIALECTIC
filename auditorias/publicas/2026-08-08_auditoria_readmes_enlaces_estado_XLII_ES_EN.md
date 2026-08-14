@@ -33,6 +33,8 @@
 
 `manifiestos/README.md` contiene XLII, el fichero XLII, la Síntesis Abierta #50, el índice I–XLII y el Protocolo de Proyección Distribuida.
 
+Esta auditoría valida rutas relativas locales del repositorio. La disponibilidad de URLs externas y la semántica de anclas renderizadas requieren comprobaciones separadas.
+
 ## EN · Result
 
 - README.md files detected and reviewed: **12**.
@@ -40,6 +42,29 @@
 - README files synchronised with canonical navigation and provenance block: **12**.
 - Broken internal links detected after synchronisation: **0**.
 - Missing requirements in `manifiestos/README.md`: **0**.
+
+### README files reviewed
+
+- `README.md`
+- `analisis/README.md`
+- `analisis/auditorias/README.md`
+- `analisis/publicos/README.md`
+- `analisis/publicos/evidencias/README.md`
+- `auditorias/publicas/README.md`
+- `manifiestos/README.md`
+- `obras/README.md`
+- `obras/idea/README.md`
+- `obras/idea/assets/README.md`
+- `propuestas/sintesis-abierta/README.md`
+- `wiki-source/README.md`
+
+### Broken internal links
+
+- None detected by the relative-path validator.
+
+### Manifesto index status
+
+`manifiestos/README.md` contains XLII, the XLII file, Open Synthesis #50, the I–XLII index and the Distributed Projection Protocol.
 
 This audit validates repository-local relative paths. External URL availability and rendered anchor semantics require separate checks.
 
