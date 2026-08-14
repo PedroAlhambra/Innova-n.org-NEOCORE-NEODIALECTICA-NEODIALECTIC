@@ -238,12 +238,226 @@ Se valoran especialmente:
 
 # EN · English
 
-## Central question
+## 1. Central question
 
-> **How should a neodialectical system disclose AI participation so that transparency maximises truth, traceability, understanding and responsibility, while complying with applicable law and avoiding the reduction of every human–AI genealogy to a single binary label?**
+> **How should a neodialectical system disclose AI participation so that transparency maximises truth, traceability, understanding and responsibility, while complying with applicable law and avoiding the reduction of every human–AI genealogy to a binary label?**
 
-The initial hypothesis separates legal compliance from a richer voluntary provenance layer. Candidate descriptors such as `AI_ASSISTED`, `AI_GENERATED`, `HUMAN_REVIEWED`, `HUMAN_EDITORIALLY_RESPONSIBLE` and `NEODIALECTIC_SYMBIOTIC` are deliberately provisional and have no legal status.
+The synthesis does not assume that Innova_N's proposal is correct. It starts from an open problem: we need to distinguish legal compliance, technical transparency and a faithful description of the creation process.
 
-The synthesis must compare technical standards and architectures, test privacy and accessibility, distinguish genuine substantive human review from ceremonial approval, and define a specific policy for NEO/Neo3 before public deployment.
+## 2. Starting facts that must not be confused with proposals
 
-Contributions, counterexamples and corrections belong in **[Issue #111](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/111)**. Evidence that disproves the initial architecture is explicitly requested.
+As of 2026-08-10, the official European Commission sources used by the audit state that:
+
+- Article 50 applies from 2 August 2026;
+- providers of systems that interact directly with people must disclose that AI interaction is taking place when this is not obvious;
+- certain generative outputs require machine-readable marking at provider level;
+- deployers must disclose deepfakes in the applicable cases;
+- certain public-interest texts require labelling when they have not undergone substantive human review or editorial control;
+- substantive human review or real editorial control can exclude that specific text-labelling obligation;
+- the Code of Practice is voluntary although the legal obligations are not;
+- Article 50 obligations fall within the sanction tier of up to €15 million or 3%, not the €35 million or 7% tier reserved by Article 99 for prohibited practices under Article 5.
+
+Corrections to these points should be accompanied by an updated official source.
+
+## 3. Initial neodialectical hypothesis
+
+Transparency could operate in two separate layers:
+
+```text
+LAYER A · LEGAL COMPLIANCE
+→ minimum obligation applicable to the specific case
+
+LAYER B · VOLUNTARY NEODIALECTICAL PROVENANCE
+→ real genealogy of creation, assistance, generation, review and responsibility
+```
+
+Layer B must never weaken Layer A.
+
+## 4. Provisional taxonomy for discussion
+
+```text
+HUMAN
+AI_ASSISTED
+AI_GENERATED
+HUMAN_REVIEWED
+HUMAN_EDITORIALLY_RESPONSIBLE
+NEODIALECTIC_SYMBIOTIC
+```
+
+Questions:
+
+- are there too many categories?;
+- are categories missing?;
+- are any categories misleading?;
+- should provenance be expressed as percentages, provenance events or a temporal chain rather than labels?;
+- what exactly should `NEODIALECTIC_SYMBIOTIC` mean so that it does not become an empty self-attributed badge?;
+- should it be reserved only for processes with traceable evidence of human–AI iteration, review and responsibility?
+
+## 5. Case matrix to be resolved
+
+The synthesis should produce distinct rules, where appropriate, for:
+
+1. assisted spelling correction;
+2. assisted translation;
+3. AI summary reviewed by a human;
+4. AI draft deeply rewritten;
+5. human text partially rewritten by AI;
+6. iterative human–AI process with multiple cycles;
+7. text generated mainly by AI and approved without substantive review;
+8. manifesto, essay or public-interest analysis;
+9. AI-retouched photograph;
+10. fantastic illustration;
+11. synthetic portrait of a real person;
+12. plausible historical reconstruction;
+13. synthetic video or voice;
+14. book cover;
+15. EPUB/PDF with AI images;
+16. music with generative elements;
+17. source code;
+18. NEO/Neo3 chatbot;
+19. AI agent interacting with third parties;
+20. internal outputs that are never published.
+
+## 6. Open technical architecture
+
+At minimum, the following options should be compared:
+
+- C2PA;
+- Content Credentials;
+- XMP/IPTC/EXIF metadata where appropriate;
+- external signatures/hashes;
+- separate provenance manifests;
+- Git/commit records;
+- JSON sidecars;
+- provenance URIs;
+- robust watermarking;
+- hybrid combinations.
+
+### Comparison criteria
+
+```text
+INTEROPERABILITY
+ROBUSTNESS
+PORTABILITY
+COST
+ACCESSIBILITY
+PRIVACY
+SOVEREIGNTY
+RESISTANCE_TO_REMOVAL
+EASE_OF_VERIFICATION
+VENDOR_DEPENDENCE
+FORMAT_COMPATIBILITY
+AUDITABILITY
+```
+
+## 7. Candidate minimum record
+
+```yaml
+provenance_record:
+  id:
+  object:
+  human_origin:
+  ai_systems_or_models: []
+  contribution_events: []
+  human_substantive_review:
+  editorial_responsibility:
+  public_interest_text:
+  deepfake_assessment:
+  machine_readable_marking:
+  visible_disclosure:
+  legal_basis_or_exemption:
+  version:
+  date:
+  commit_or_hash:
+  evidence:
+```
+
+Not all of these fields are necessarily proposed for publication. The synthesis must decide what remains private, what remains auditable and what is shown publicly.
+
+## 8. Risks and contradictions that must remain live
+
+### Transparency vs. privacy
+
+Exhaustive provenance can protect trust while also revealing prompts, internal methods, personal data or intellectual property.
+
+### Transparency vs. stigma
+
+Labelling can inform, or it can become a social mechanism for devaluing any AI-assisted work without regard to its actual process.
+
+### Transparency vs. artistic experience
+
+The information should exist without unnecessarily damaging the work it is intended to contextualise.
+
+### Common standard vs. sovereignty
+
+An interoperable standard facilitates verification; turning one private entity into the sole gateway to compliance can create structural dependence.
+
+### Real human review vs. ceremonial review
+
+Checking a `human reviewed` box should not be enough. Reasonable evidence of substantive review should exist whenever that condition is invoked.
+
+### Traceability vs. ease of copying
+
+Metadata can be lost. The system should consider external verification, hashes or complementary provenance records.
+
+## 9. Manifestos tested by this synthesis
+
+- [V · Human–AI Symbiosis](../../manifiestos/03_simbiosis_humano_ia_ES_EN.md)
+- [IX · Memory, Genealogy and Traceability](../../manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md)
+- [XXI · Neodialectical Recognition™](../../manifiestos/21_reconocimiento_neodialectico_ES_EN.md)
+- [XXII · Against Intellectual Reduction and Capture™](../../manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md)
+- [XXX · Coherence between Ends and Means™](../../manifiestos/30_coherencia_fines_medios_ES_EN.md)
+- [XXXIV · Operational Utility and Perpetual Joint Audit™](../../manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
+- [XLIII · Against Reductive Misunderstanding of AI™](../../manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md)
+- [LIII · Leónidas™](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
+
+It may also generate deltas on other manifestos if scrutiny demonstrates a sufficiently material relationship.
+
+## 10. Conditions for a provisional synthesis
+
+Do not close by simple majority.
+
+A provisional synthesis should require at minimum:
+
+```text
+1. updated legal map
+2. case matrix
+3. technical comparison of standards
+4. cost and barrier analysis for small operators
+5. privacy test
+6. interoperability test
+7. human accessibility test
+8. human-review policy
+9. NEO/Neo3-specific policy
+10. main contradictions documented
+11. reversible implementation proposal
+12. traceable evidence and sources
+```
+
+## 11. How to contribute
+
+Contribute in [Issue #111](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/111).
+
+Each contribution should distinguish:
+
+```text
+SOURCE
+FACT
+INTERPRETATION
+COUNTERARGUMENT
+PROPOSAL
+RISK
+EVIDENCE
+PROPOSED_DELTA
+```
+
+Especially welcome:
+
+- lawyers and AI-regulation specialists;
+- C2PA/Content Credentials developers and developers of alternatives;
+- authors, journalists, researchers and artists;
+- small publishers and SMEs;
+- publishing platforms;
+- accessibility specialists;
+- watermarking and detection researchers;
+- people able to refute the proposed taxonomy.
