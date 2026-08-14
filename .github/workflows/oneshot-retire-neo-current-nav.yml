@@ -1,0 +1,139 @@
+name: oneshot-retire-neo-current-nav
+
+on:
+  push:
+    paths:
+      - '.github/workflows/oneshot-retire-neo-current-nav.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: oneshot-retire-neo-current-nav-main
+  cancel-in-progress: false
+
+jobs:
+  retire:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Remove stale current-state blocks and install permanent guard
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          ROOT = Path('.').resolve()
+          START = '<!-- NEO_CURRENT_NAV_START -->'
+          END = '<!-- NEO_CURRENT_NAV_END -->'
+
+          changed=[]
+          removed=0
+          for p in sorted(ROOT.rglob('README*.md')):
+              rel=p.relative_to(ROOT).as_posix()
+              if '.git' in p.parts or rel.startswith('wiki-legacy-archive/'):
+                  continue
+              text=p.read_text(encoding='utf-8', errors='replace')
+              old=text
+              pattern = re.compile(r'\n*' + re.escape(START) + r'.*?' + re.escape(END) + r'\n*', re.S)
+              text, n = pattern.subn('\n', text)
+              if n:
+                  removed += n
+                  text = re.sub(r'\n{3,}', '\n\n', text).rstrip() + '\n'
+              if text != old:
+                  p.write_text(text, encoding='utf-8')
+                  changed.append(rel)
+
+          if removed == 0:
+              raise SystemExit('No active README contained NEO_CURRENT_NAV; refusing empty retirement')
+
+          # Permanent invariant: living README surfaces may never carry a second,
+          # hard-coded corpus frontier. Dynamic state belongs to canonical indices
+          # and generated current/latest blocks only.
+          audit = ROOT / '.github/scripts/audit_markdown_links_readmes.py'
+          s = audit.read_text(encoding='utf-8')
+          if 'stale_current_nav=[]' not in s:
+              needle = "latest_markers=0\nlatest_bad=[]\n"
+              replacement = "stale_current_nav=[]\nfor f in readmes:\n    text=f.read_text(encoding='utf-8',errors='replace')\n    if '<!-- NEO_CURRENT_NAV_START -->' in text or '<!-- NEO_CURRENT_NAV_END -->' in text:\n        stale_current_nav.append(f.relative_to(root).as_posix())\nif stale_current_nav:\n    critical.append('README con bloque legacy NEO_CURRENT_NAV: '+', '.join(stale_current_nav)+' / README with legacy NEO_CURRENT_NAV block: '+', '.join(stale_current_nav))\n\nlatest_markers=0\nlatest_bad=[]\n"
+              if needle not in s:
+                  raise SystemExit('Cannot install NEO_CURRENT_NAV guard in audit script')
+              s = s.replace(needle, replacement, 1)
+
+          if "Bloques legacy NEO_CURRENT_NAV encontrados" not in s:
+              needle = "    f'- Bloques de último manifiesto encontrados en README: **{latest_markers}**.',\n"
+              replacement = needle + "    f'- Bloques legacy NEO_CURRENT_NAV encontrados en README: **{len(stale_current_nav)}**.',\n"
+              if needle not in s:
+                  raise SystemExit('Cannot add ES NEO_CURRENT_NAV metric')
+              s = s.replace(needle, replacement, 1)
+
+          if "Legacy NEO_CURRENT_NAV blocks found" not in s:
+              needle = "    f'- Latest-manifesto blocks found in README files: **{latest_markers}**.',\n"
+              replacement = needle + "    f'- Legacy NEO_CURRENT_NAV blocks found in README files: **{len(stale_current_nav)}**.',\n"
+              if needle not in s:
+                  raise SystemExit('Cannot add EN NEO_CURRENT_NAV metric')
+              s = s.replace(needle, replacement, 1)
+
+          if "Los README vivos no pueden conservar bloques `NEO_CURRENT_NAV`" not in s:
+              needle = "    '- Los README con bloque `NEO_LATEST_MANIFESTO` deben apuntar al último manifiesto y su Síntesis.',\n"
+              replacement = needle + "    '- Los README vivos no pueden conservar bloques `NEO_CURRENT_NAV`: la frontera numérica pertenece a los índices canónicos dinámicos.',\n"
+              if needle not in s:
+                  raise SystemExit('Cannot add ES canonical rule')
+              s = s.replace(needle, replacement, 1)
+
+          if "Living README files may not retain `NEO_CURRENT_NAV`" not in s:
+              needle = "    '- README files with a `NEO_LATEST_MANIFESTO` block must point to the latest manifesto and its Synthesis.',\n"
+              replacement = needle + "    '- Living README files may not retain `NEO_CURRENT_NAV` blocks: the numerical frontier belongs to dynamic canonical indexes.',\n"
+              if needle not in s:
+                  raise SystemExit('Cannot add EN canonical rule')
+              s = s.replace(needle, replacement, 1)
+
+          audit.write_text(s, encoding='utf-8')
+
+          # Hard postcheck over living README surfaces.
+          leftovers=[]
+          for p in sorted(ROOT.rglob('README*.md')):
+              rel=p.relative_to(ROOT).as_posix()
+              if '.git' in p.parts or rel.startswith('wiki-legacy-archive/'):
+                  continue
+              t=p.read_text(encoding='utf-8', errors='replace')
+              if START in t or END in t:
+                  leftovers.append(rel)
+          if leftovers:
+              raise SystemExit('NEO_CURRENT_NAV remains in living README: ' + ', '.join(leftovers))
+
+          print('NEO_CURRENT_NAV_REMOVED', removed)
+          print('README_CHANGED', len(changed))
+          for x in changed:
+              print('CHANGED', x)
+          print('POSTCHECK OK: no living README duplicates the hard-coded corpus frontier')
+          PY
+
+      - name: Re-run documentary audits
+        shell: bash
+        run: |
+          set -euo pipefail
+          python .github/scripts/audit_markdown_links_readmes.py
+          python .github/scripts/audit_es_en_parity.py
+          python .github/scripts/audit_manifesto_bilingual_structure.py
+          python .github/scripts/audit_relations_neocore.py
+          grep -F '**Estado / Status:** **OK**' auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md
+          grep -F '**Recortes/materialmente asimétricos para revisión:** 0' auditorias/publicas/2026-08-09_auditoria_paridad_ES_EN_manifiestos_articulos.md
+          grep -F '**REVISAR / REVIEW:** 0' auditorias/publicas/2026-08-12_auditoria_estructura_bilingue_manifiestos_ES_EN.md
+
+      - name: Commit cleanup and remove this one-shot
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git rm .github/workflows/oneshot-retire-neo-current-nav.yml
+          git add -A
+          git commit -m 'docs: retirar estado duplicado NEO_CURRENT_NAV de README vivos'
+          git pull --rebase origin main
+          git push origin main
