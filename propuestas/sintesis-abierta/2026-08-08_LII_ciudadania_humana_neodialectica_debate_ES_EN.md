@@ -29,4 +29,14 @@ Should political belonging continue to depend primarily on ancestry or birthplac
 
 The proposal distinguishes **universal human dignity** from **territorial and legal administration**. It does not propose immediate abolition of borders or nationalities.
 
-Contributions are invited on constitutional limits, migration, public services, multiple citizenship, vulnerability, territorial capacity, cultural continuity, jurisdictional conflict, democratic transition and counterexamples.
+### Contributions sought
+
+- constitutional and legal objections;
+- effects on migration, residence and public services;
+- multiple-citizenship models;
+- protection of stateless people, refugees, minors and dependent people;
+- material capacity and territorial planning;
+- cultural preservation;
+- jurisdictional conflicts;
+- democratic transition mechanisms;
+- counterexamples that invalidate or limit the proposal.
