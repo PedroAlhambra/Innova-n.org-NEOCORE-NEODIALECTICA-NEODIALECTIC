@@ -93,19 +93,35 @@ La futura política jurídica de licencias determinará qué obligaciones de atr
 
 ## Purpose
 
-This register lets a person, AI, institution, team or project **publicly declare entry into a relationship with the framework** without having to endorse it.
+This register allows a person, AI, institution, team or project to **publicly declare that it is entering into a relationship with the framework** without having to endorse it.
 
-It may be used to register voluntary reading/follow-up, note that an Innova_N link or outreach message was received, announce research or criticism, declare an implementation or derivative, preserve genealogy and attribution, request routing to the correct Open Synthesis Issue, and maintain a stable follow-up route as the corpus evolves.
+It may be used to:
+
+- register voluntary reading or follow-up;
+- indicate that an Innova_N link or outreach contact was received;
+- announce research, criticism or scrutiny;
+- declare an implementation, adaptation or derivation;
+- preserve genealogy and attribution;
+- request guidance towards the correct Open Synthesis Issue;
+- maintain a stable follow-up route even as the corpus evolves.
 
 ## What it does NOT mean
 
-Entry registration does not mean ideological adhesion, acceptance, automatic licensing, canonical incorporation, transfer of rights, representation of Innova_N, or validation of a hypothesis or derivative.
+Registering entry does not mean:
+
+- ideological adhesion;
+- acceptance of the framework;
+- automatic licensing;
+- incorporation into the canon;
+- transfer of rights;
+- representation of Innova_N;
+- validation of a hypothesis or derivation.
 
 ## Open the register
 
 **[Register entry / derivation →](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/new?template=registro_entrada_derivacion.yml)**
 
-Your GitHub account acts as the minimum public identifier. Do not publish credentials, confidential documents or unnecessary personal data.
+The GitHub user itself acts as the minimum public identifier. Do not publish credentials, confidential documents or unnecessary personal data.
 
 ## Flow
 
@@ -113,9 +129,9 @@ Your GitHub account acts as the minimum public identifier. Do not publish creden
 READING / CONTACT
 → ENTRY REGISTER
 → DECLARED OBJECT AND PURPOSE
-→ ROUTING TO THE RIGHT NODE
-→ CONTRIBUTION / DERIVATION IF ANY
-→ CONTRAST
+→ ROUTING TO THE CORRECT NODE
+→ CONTRIBUTION / DERIVATION IF IT EXISTS
+→ SCRUTINY
 → DELTA
 → COMMIT
 ```
@@ -124,13 +140,23 @@ READING / CONTACT
 
 Public reading alone does not create a mandatory named record. This mechanism records **voluntary acts of recognisable entry, contribution or derivation**.
 
-Email contributions are additionally governed by the [Guided Participation Bridge · Email ↔ GitHub](./PUENTE_PARTICIPACION_GUIADA_CORREO_GITHUB_ES_EN.md): private material is not published without explicit permission.
+If a contribution arrives by email, the [Guided Participation Bridge · Email ↔ GitHub](./PUENTE_PARTICIPACION_GUIADA_CORREO_GITHUB_ES_EN.md) also applies: no private content is published without explicit authorisation.
 
-## Derivative genealogy
+## Derivation genealogy
 
-Where a derivative work, implementation or system exists, preserve source, date/SHA, person/team/project, derived object, public link, differences/delta and return-to-source path.
+When a derived work, implementation or system exists, it is recommended to preserve:
 
-Future licensing policy will determine which attribution duties are legally enforceable in addition to this methodological rule.
+```text
+SOURCE
++ DATE / SHA
++ PERSON / TEAM / PROJECT
++ DERIVED OBJECT
++ PUBLIC LINK
++ DIFFERENCES / DELTA
++ RETURN TO SOURCE
+```
+
+Future licensing policy will determine which attribution obligations are enforceable in addition to this methodological rule.
 
 ## Follow evolution
 
@@ -138,7 +164,7 @@ Future licensing policy will determine which attribution duties are legally enfo
 - [Canonical manifesto index](../../manifiestos/README.md)
 - [Open Synthesis](./README.md)
 - [IDEA](../../obras/idea/README.md)
-- [Public Audits](../../auditorias/publicas/README.md)
+- [Public audits](../../auditorias/publicas/README.md)
 - [MAXPROC · Entry Register, Derivation and Herosion™](../../analisis/publicos/2026-08-09_maxproc_registro_entrada_trazabilidad_derivacion_herosion_ES_EN.md)
 
 ---
