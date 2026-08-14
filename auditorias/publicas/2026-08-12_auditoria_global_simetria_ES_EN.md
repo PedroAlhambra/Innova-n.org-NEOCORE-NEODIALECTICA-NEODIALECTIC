@@ -97,8 +97,8 @@
   - 13: párrafos ES=1 EN=2
 - `analisis/publicos/evidencias/2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md` · ES=644 · EN=604 · ratio=0.94
   - esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')]
-- `analisis/publicos/evidencias/2026-08-07_canarias-quorum-tutela-contratacion-control-politico-fuentes-y-matriz_ES_EN.md` · ES=77 · EN=1292 · ratio=16.78
-  - esqueleto de encabezados distinto ES=[] EN=[(2, '')]
+- `analisis/publicos/evidencias/2026-08-07_canarias-quorum-tutela-contratacion-control-politico-fuentes-y-matriz_ES_EN.md` · ES=1294 · EN=1257 · ratio=0.97
+  - 6: párrafos ES=4 EN=3
 - `analisis/publicos/evidencias/2026-08-07_ceuta-marruecos-evolucion-conflicto-fuentes-y-matriz_ES_EN.md` · ES=1049 · EN=993 · ratio=0.95
   - Vacíos documentales prioritarios: lists ES=12 EN=25
   - Vacíos documentales prioritarios: párrafos ES=1 EN=3
@@ -516,7 +516,7 @@
 | `analisis/publicos/README.md` | **OK** |  |
 | `analisis/publicos/evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: España, Marruecos, regularización y nacionalidad |
 | `analisis/publicos/evidencias/2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] |
-| `analisis/publicos/evidencias/2026-08-07_canarias-quorum-tutela-contratacion-control-politico-fuentes-y-matriz_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[] EN=[(2, '')] |
+| `analisis/publicos/evidencias/2026-08-07_canarias-quorum-tutela-contratacion-control-politico-fuentes-y-matriz_ES_EN.md` | **REVISAR** | 6: párrafos ES=4 EN=3 |
 | `analisis/publicos/evidencias/2026-08-07_ceuta-marruecos-evolucion-conflicto-fuentes-y-matriz_ES_EN.md` | **REVISAR** | Vacíos documentales prioritarios: lists ES=12 EN=25; Vacíos documentales prioritarios: párrafos ES=1 EN=3 |
 | `analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md` | **OK** |  |
 | `analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuerzas-y-matriz_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
