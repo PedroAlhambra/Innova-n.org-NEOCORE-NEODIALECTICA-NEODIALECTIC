@@ -78,37 +78,58 @@ La estrategia recomendada pasa de una hipótesis de «malla distribuida de keywo
 
 ## 1. Question submitted
 
-Within case `51071689`, KDP was asked how keyword strategy should be handled across multiple language and format editions of the same work, including repetition versus distribution of keyword fields, author-name variants, diacritics, plausible misspellings, automatic normalisation and possible complementarity among editions.
+Within case `51071689`, KDP was asked how keyword strategy should be handled across multiple language and format editions of the same work, including:
+
+- repetition or distribution of the seven keyword fields;
+- variants of the author's name;
+- forms with and without diacritics;
+- plausible misspellings;
+- automatic normalisation;
+- and possible complementarity among editions linked to the same author.
 
 ## 2. KDP response
 
 On 8 August 2026 a KDP supervisor identified in the email as **Lekita** stated that:
 
-1. search position depends on several factors including sales history, availability, time on site and popularity;
+1. a book's position depends on multiple factors, including sales history, availability, age and popularity;
 2. relevant keywords can improve discoverability;
-3. all **seven keyword fields should be used for each book**;
+3. it is important to use **all seven keyword fields for each book**;
 4. each edition is **indexed independently**;
-5. keywords should accurately reflect content and natural search terms;
-6. Amazon may automatically apply spelling corrections in search;
+5. keywords should accurately represent the content and natural searches of the target audience;
+6. Amazon may automatically apply spelling corrections in certain searches;
 7. those corrections are automated and cannot be manually changed by support.
 
 ## 3. Strategic consequence
 
-The answer does not support assuming that keywords distributed across editions form one aggregated SEO index.
+The answer does not support assuming that keywords distributed across several editions form one aggregated SEO index.
 
-Each edition should therefore remain independently discoverable, preserve a sufficient author/work/topic core and use language-, market- and format-specific variants where genuinely relevant.
+The strategy is therefore corrected as follows:
 
-Misspellings or alternative forms should not be used merely to fill fields when Amazon already handles some normalisation automatically.
+```text
+EACH EDITION
+→ should be discoverable on its own
+→ should use its seven fields with relevant terms
+→ should preserve a sufficient author + work + topic core
+→ may incorporate variants specific to language, market and format
+
+NOT ASSUMED
+→ that a keyword present only in another edition automatically complements this edition
+→ that fields should be spent duplicating every misspelling
+```
+
+Variants without diacritics, transliterations or alternative forms may still make sense when they correspond to natural usage in the relevant market or language, but they should not become artificial filler or terms unrelated to the work.
 
 ## 4. Publication status received the same day
 
-Further automated KDP messages confirmed availability of print editions of **IDEA** and a Kindle edition. The Kindle notification also confirms that the edition is **enrolled in KDP Select**, which must be considered before distributing complete digital copies through external channels.
+On the same 8 August, additional automated KDP confirmations were received regarding the availability of print editions of **IDEA** and a Kindle edition already available.
+
+The Kindle notification also confirms that this edition is **enrolled in KDP Select**. This circumstance must remain in view before delivering or distributing complete digital copies through external channels.
 
 ## 5. Finding
 
-This is a materially useful response and closes the keyword-strategy subquestion without requiring another reply to support.
+The response is materially useful and allows this SEO subquestion to be closed without another reply to support.
 
-The working model changes from a presumed distributed keyword mesh to a **mesh of independently discoverable but semantically interlinked editions**.
+The recommended strategy changes from a hypothesis of a “distributed keyword mesh across editions” to a **mesh of editions that are independently discoverable but semantically interlinked**.
 
 ## 6. Documentary relation
 
