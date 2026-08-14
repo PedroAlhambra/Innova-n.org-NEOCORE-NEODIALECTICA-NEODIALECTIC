@@ -208,13 +208,7 @@
   - Anexo al Manifiesto XXXI · Neuromarketing Antihumanista: lists ES=6 EN=0
   - Regla de integración futura: lists ES=6 EN=0
   - Regla de integración futura: párrafos ES=2 EN=3
-- `manifiestos/deltas/LXI_delta_genetica_adn_neopandora_custodia_multiescalar_ES_EN.md` · ES=844 · EN=767 · ratio=0.91
-  - 2: lists ES=12 EN=0
-  - 2: párrafos ES=3 EN=2
-  - 5: code ES=1 EN=0
-  - 7: lists ES=6 EN=0
-  - 7: párrafos ES=3 EN=2
-  - 11: lists ES=6 EN=0
+- `manifiestos/deltas/LXI_delta_genetica_adn_neopandora_custodia_multiescalar_ES_EN.md` · ES=844 · EN=810 · ratio=0.96
   - 11: párrafos ES=2 EN=1
 - `manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md` · ES=447 · EN=445 · ratio=1.00
   - 7: párrafos ES=1 EN=0
@@ -579,7 +573,7 @@
 | `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` | **REVISAR** | Secuencia transversal: párrafos ES=2 EN=1 |
 | `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `manifiestos/anexos/2026-08-07_anexo_reversion_ideologica_I_VIII_XXII_XXX_XXXI_ES_EN.md` | **REVISAR** | Anexo al Manifiesto VIII · Ingeniería Social Abierta: lists ES=8 EN=0; Anexo al Manifiesto XXXI · Neuromarketing Antihumanista: lists ES=6 EN=0; Regla de integración futura: lists ES=6 EN=0; Regla de integración futura: párrafos ES=2 EN=3 |
-| `manifiestos/deltas/LXI_delta_genetica_adn_neopandora_custodia_multiescalar_ES_EN.md` | **REVISAR** | 2: lists ES=12 EN=0; 2: párrafos ES=3 EN=2; 5: code ES=1 EN=0; 7: lists ES=6 EN=0; 7: párrafos ES=3 EN=2; 11: lists ES=6 EN=0; 11: párrafos ES=2 EN=1 |
+| `manifiestos/deltas/LXI_delta_genetica_adn_neopandora_custodia_multiescalar_ES_EN.md` | **REVISAR** | 11: párrafos ES=2 EN=1 |
 | `manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md` | **REVISAR** | 7: párrafos ES=1 EN=0 |
 | `neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md` | **REVISAR** | 9: párrafos ES=3 EN=2 |
 | `neoaxiomas/README.md` | **OK** |  |
