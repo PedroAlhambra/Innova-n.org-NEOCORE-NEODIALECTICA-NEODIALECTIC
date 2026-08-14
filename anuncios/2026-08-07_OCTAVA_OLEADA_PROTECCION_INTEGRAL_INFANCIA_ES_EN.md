@@ -61,9 +61,32 @@ Its first manifesto is:
 - [Sources and evidence matrix](../analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md)
 - [Open Synthesis · Issue #45](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45)
 
+## Core
+
 Childhood is not treated as an immature market segment or a homogeneous audience. It is treated as the first responsibility of a civilisation seeking to transmit freedom, judgement, culture, technology and creative capacity to the next generation.
 
-The manifesto establishes the **Child Point of No Return™** as a measurable hypothesis rather than a current fact: a warning threshold in which adult discretionary consumption collapses, remaining non-essential household spending becomes increasingly concentrated on children, and commercial pressure targets precisely their attention, identity and desire.
+The manifesto establishes the **Child Point of No Return™** as a measurable hypothesis: a warning threshold in which adult discretionary consumption collapses, remaining non-essential household spending becomes increasingly concentrated on children, and commercial pressure targets precisely their attention, identity and desire.
+
+It does not claim that this threshold has already been reached. It requires that it be measured.
+
+## Proposed architecture
+
+```text
+MATERIAL SECURITY
++ FAMILY
++ SCHOOL
++ GUARANTEED DEVICES WHEN NEEDED
++ TEACHERS
++ BOOKS
++ PROGRAMMING AND DIGITAL CREATION
++ GUIDED EDUCATIONAL AI
++ AGE-DIFFERENTIATED AUDIOVISUAL PROGRAMMING
++ COMMERCIAL PROTECTION
++ PRIVACY
++ NON-COMMERCIALISED TIME
++ CHILD PARTICIPATION
+= INTEGRAL PROTECTION OF CHILDHOOD™
+```
 
 Public audiovisual oversight is defined as **independent, plural, transparent and appealable**, not as ideological censorship by the government of the day.
 

@@ -258,7 +258,16 @@ Future **Proof of Usefulness (PoU)** should measure validated utility, not volum
 
 This does not mean replacing one manipulation system with another.
 
-Reconfiguration must be public in its essential rules, reviewable, plural, compatible with rights, capture-resistant, multiscale, non-hereditary and subject to Open Synthesis.
+Reconfiguration must be:
+
+- public in its essential rules;
+- reviewable;
+- plural;
+- compatible with rights;
+- resistant to capture;
+- multiscale;
+- non-hereditary;
+- and subject to Open Synthesis.
 
 ## 5. Transition power
 

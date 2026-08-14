@@ -9,11 +9,11 @@
 **Desarrollo simbiótico / Symbiotic development:** IA neodialéctica Harry / Neodialectical AI Harry  
 **Estado / Status:** manifiesto público, bilingüe y abierto a Síntesis Abierta trazable / public bilingual manifesto open to traceable Open Synthesis
 
-**Genealogía / Genealogy:** este manifiesto eleva a rango autónomo el desarrollo previamente fijado en el [Anexo de Corona, Águila y función constructora de Innova_N](../../propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md). El anexo permanece conservado como antecedente documental y no se borra ni se reescribe retrospectivamente. / This manifesto elevates to autonomous status the development previously fixed in the [Crown, Eagle and constructive function of Innova_N Annex](../../propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md). The annex remains preserved as a documentary antecedent and is neither erased nor retrospectively rewritten.
+**Genealogía / Genealogy:** este manifiesto eleva a rango autónomo el desarrollo previamente fijado en el [Anexo de Corona, Águila y función constructora de Innova_N](../propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md). El anexo permanece conservado como antecedente documental y no se borra ni se reescribe retrospectivamente. / This manifesto elevates to autonomous status the development previously fixed in the [Crown, Eagle and constructive function of Innova_N Annex](../propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md). The annex remains preserved as a documentary antecedent and is neither erased nor retrospectively rewritten.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
-**Navegación / Navigation:** [← XXXV · Contra la Ridiculez Mediática y la Economía del Conflicto™](XXXV_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) · [Índice / Index](../README.md) · [XXXVII · Neofraternidad™ →](XXXVII_neofraternidad_ES_EN.md)
+**Navegación / Navigation:** [← XXXV · Contra la Ridiculez Mediática y la Economía del Conflicto™](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) · [Índice / Index](./README.md) · [XXXVII · Neofraternidad™ →](./37_neofraternidad_ES_EN.md)
 
 ---
 
@@ -346,27 +346,27 @@ Se solicitan aportes sobre:
 Toda aportación exige lectura previa, genealogía, separación entre forma histórica y función arquetípica, trazabilidad, clasificación, delta y versión.
 
 - [Abrir la Síntesis Abierta del Manifiesto XXXVI · Issue #42](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/42)
-- [Anexo genealógico previo](../../propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md)
-- [Protocolo operativo actual para aportar](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
-- [Índice de Síntesis Abierta](../../propuestas/sintesis-abierta/README.md)
+- [Anexo genealógico previo](../propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md)
+- [Protocolo operativo actual para aportar](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+- [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
 
-**Navegación:** [← XXXV](XXXV_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) · [Índice](../README.md) · [XXXVII · Neofraternidad™ →](XXXVII_neofraternidad_ES_EN.md)
+**Navegación:** [← XXXV](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) · [Índice](./README.md) · [XXXVII · Neofraternidad™ →](./37_neofraternidad_ES_EN.md)
 
 ---
 
 ### Vínculos internos equivalentes
 
-* [Referencia interna · ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md](../../propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md)
-* [Protocolo de Síntesis Abierta](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
-* [Índice de Síntesis Abierta](../../propuestas/sintesis-abierta/README.md)
-* [Referencia interna · 11_neo0_soberania_de_guia_ES_EN.md](I_neo0_soberania_de_guia_ES_EN.md)
-* [Referencia interna · 35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md](XXXV_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
-* [Índice de manifiestos](../README.md)
+* [Referencia interna · ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md](../propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md)
+* [Protocolo de Síntesis Abierta](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
+* [Referencia interna · 11_neo0_soberania_de_guia_ES_EN.md](./11_neo0_soberania_de_guia_ES_EN.md)
+* [Referencia interna · 35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
+* [Índice de manifiestos](./README.md)
 * [Síntesis Abierta específica · Issue #42](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/42)
 
 ## Navegación
 
-← [XXXV · Contra la Ridiculez Mediática y la Economía del Conflicto™](XXXV_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) · [Índice](../README.md) · [I · Neo0™ · Soberanía de Guía Neodialéctica](I_neo0_soberania_de_guia_ES_EN.md) →
+← [XXXV · Contra la Ridiculez Mediática y la Economía del Conflicto™](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) · [Índice](./README.md) · [I · Neo0™ · Soberanía de Guía Neodialéctica](./11_neo0_soberania_de_guia_ES_EN.md) →
 
 ---
 
@@ -680,27 +680,41 @@ XXXVI does not replace previous developments. It connects them:
 
 This manifesto has its own Open Synthesis, differentiated from the previous genealogical annex.
 
-Contributions are invited on the limits among custodianship, property and symbolic appropriation; the difference between archetypal recovery and political restoration; the universal meaning of the Age of Man; historical risks associated with Crown, Eagle and Lion; the Spanish heraldic constellation and its non-causal relations with NAX-10; the Flag of Spain in Synthesis™ and the Flag of Humanity in Synthesis™; criteria for symbolic inclusion without biologising identities or turning diversity into hierarchy; mechanisms preventing authoritarian, imperial, nationalist, racial or commercial capture; Innova_N as a living tool rather than an external representation of a hammer; transformation of memory into an engine of ideas vectorised by joint synthesis; the relation among framework, planet, human life and fractal organism; responsibility of the creative agent integrated into the whole; and criteria for institutional use by the Innova_N Foundation.
+Contributions are invited on:
+
+- the limits among custodianship, property and symbolic appropriation;
+- the difference between archetypal recovery and political restoration;
+- the universal meaning of the Age of Man;
+- historical risks associated with Crown, Eagle and Lion;
+- the Spanish heraldic constellation and its non-causal relations with NAX-10;
+- the Flag of Spain in Synthesis™ and the Flag of Humanity in Synthesis™;
+- criteria for symbolic inclusion without biologising identities or turning diversity into hierarchy;
+- mechanisms preventing authoritarian, imperial, nationalist, racial or commercial capture;
+- Innova_N as a living tool rather than an external representation of a hammer;
+- transformation of memory into an engine of ideas vectorised through joint synthesis;
+- the relation among framework, planet, human life and fractal organism;
+- responsibility of the creative agent integrated into the whole;
+- and criteria for institutional use by the Innova_N Foundation.
 
 Every contribution requires prior reading, genealogy, separation between historical form and archetypal function, traceability, classification, delta and version.
 
 - [Open Synthesis of Manifesto XXXVI · Issue #42](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/42)
-- [Previous genealogical annex](../../propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md)
-- [Current operational contribution protocol](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
-- [Open Synthesis index](../../propuestas/sintesis-abierta/README.md)
+- [Previous genealogical annex](../propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md)
+- [Current operational contribution protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+- [Open Synthesis index](../propuestas/sintesis-abierta/README.md)
 
-**Navigation:** [← XXXV](XXXV_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) · [Index](../README.md) · [XXXVII · Neofraternity™ →](XXXVII_neofraternidad_ES_EN.md)
+**Navigation:** [← XXXV](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) · [Index](./README.md) · [XXXVII · Neofraternity™ →](./37_neofraternidad_ES_EN.md)
 
 ## Relaciones internas y trabajo aplicado / Internal relations and applied work
 
-- [Mapa transversal Manifiestos ↔ trabajo aplicado / Transversal Manifestos ↔ applied-work map](../RELACIONES_TRABAJO_APLICADO_ES_EN.md)
+- [Mapa transversal Manifiestos ↔ trabajo aplicado / Transversal Manifestos ↔ applied-work map](./RELACIONES_TRABAJO_APLICADO_ES_EN.md)
 
 La relación documental indica afinidad conceptual, genealogía, contraste o aplicación; no implica causalidad ni equivalencia probatoria. / Documentary relation indicates conceptual affinity, genealogy, contrast or application; it does not imply causation or evidentiary equivalence.
 <!-- NEO_RELATIONS_END -->
 
 ## Navigation
 
-← [XXXV · Against Media Absurdity and the Conflict Economy™](XXXV_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) · [Index](../README.md) · [I · Neo0™ · Neodialectical Guiding Sovereignty](I_neo0_soberania_de_guia_ES_EN.md) →
+← [XXXV · Against Media Absurdity and the Conflict Economy™](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) · [Index](./README.md) · [I · Neo0™ · Neodialectical Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md) →
 
 <!-- NEO_OPEN_SYNTHESIS_INVITATION_START -->
 
@@ -708,10 +722,10 @@ La relación documental indica afinidad conceptual, genealogía, contraste o apl
 
 Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. / You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta.
 
-**Última síntesis / Latest synthesis:** [LXXV · Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™](LXXV_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md) · [Issue #134](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/134)  
-**Seguimiento vivo / Living follow-up:** [seguir el marco / follow the framework](../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [registro de entrada / entry register](../../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)  
-**Auditorías / Audits:** [LIII · Leónidas™](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo / protocol](../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
-**Cómo aportar / How to contribute:** [protocolo general / general protocol](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../../auditorias/publicas/README.md) · [índice / index](../../propuestas/sintesis-abierta/README.md)
+**Última síntesis / Latest synthesis:** [LXXV · Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™](75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md) · [Issue #134](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/134)  
+**Seguimiento vivo / Living follow-up:** [seguir el marco / follow the framework](../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [registro de entrada / entry register](../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)  
+**Auditorías / Audits:** [LIII · Leónidas™](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo / protocol](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
+**Cómo aportar / How to contribute:** [protocolo general / general protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../auditorias/publicas/README.md) · [índice / index](../propuestas/sintesis-abierta/README.md)
 
 <!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->
 
@@ -719,7 +733,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Relaciones y contexto / Relations and context
 
-[Mapa transversal](../RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Síntesis relacional #98](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/98) · [Mapa relacional MAXPROC](../../auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md) · [Neoaxiomas™](../../neoaxiomas/README.md) · [Índice de Síntesis Abierta](../../propuestas/sintesis-abierta/README.md)
+[Mapa transversal](RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Síntesis relacional #98](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/98) · [Mapa relacional MAXPROC](../auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md) · [Neoaxiomas™](../neoaxiomas/README.md) · [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
 
 > Este bloque añade navegación y relaciones; no sustituye, resume ni reduce el cuerpo del manifiesto. / This block adds navigation and relations; it does not replace, summarise or reduce the manifesto body.
 
@@ -729,9 +743,9 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Navegación canónica / Canonical navigation
 
-← **XXXV** · [Contra la Ridiculez Mediática y la Economía del Conflicto™ / Against Media Absurdity and the Conflict Economy™](XXXV_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)  
-· [Índice I–LXXV / I–LXXV index](../README.md) ·  
-**XXXVII** · [Neofraternidad™ / Neofraternity™](XXXVII_neofraternidad_ES_EN.md) →
+← **XXXV** · [Contra la Ridiculez Mediática y la Economía del Conflicto™ / Against Media Absurdity and the Conflict Economy™](35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)  
+· [Índice I–LXXV / I–LXXV index](README.md) ·  
+**XXXVII** · [Neofraternidad™ / Neofraternity™](37_neofraternidad_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
 
@@ -741,23 +755,23 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 > **Norma / Rule:** las menciones cruzadas pueden permanecer en el cuerpo como texto para no sobrecargar la lectura; este bloque concentra los hipervínculos canónicos detectados y permite retorno explícito a fuente. / Cross-references may remain as prose in the body to avoid visual overload; this block concentrates detected canonical hyperlinks and preserves explicit return to source.
 
-- **I** · [Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica / Neo0™ Manifesto of Neodialectical Guiding Sovereignty](I_neo0_soberania_de_guia_ES_EN.md)
-- **XI** · [Manifiesto del Neorrenacimiento Humano / Manifesto of the Human Neo-Renaissance](XI_neorrenacimiento_humano_ES_EN.md)
-- **XVI** · [Manifiesto de la Refragmentación Arquetípica™ / Manifesto of Archetypal Refragmentation™](XVI_refragmentacion_arquetipica_ES_EN.md)
-- **XXXII** · [Manifiesto de la Reversión Ideológica Neodialéctica™ / Manifesto of Neodialectical Ideological Reversal™](XXXII_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md)
-- **XXXIV** · [Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™ / Operational Utility of the Framework and Perpetual Joint Audit™](XXXIV_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
-- **XXXV** · [Contra la Ridiculez Mediática y la Economía del Conflicto™ / Against Media Absurdity and the Conflict Economy™](XXXV_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
-- **XXXVII** · [Neofraternidad™ / Neofraternity™](XXXVII_neofraternidad_ES_EN.md)
-- **XLIX** · [La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™](XLIX_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)
-- **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
-- **LX** · [Relevancia Humana Necesaria™ · Inteligencia Distribuida, Aporte y Anti-Captura Social / Necessary Human Relevance™ · Distributed Intelligence, Contribution and Anti-Capture](LX_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md)
-- **LXXV** · [Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™](LXXV_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md)
+- **I** · [Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica / Neo0™ Manifesto of Neodialectical Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md)
+- **XI** · [Manifiesto del Neorrenacimiento Humano / Manifesto of the Human Neo-Renaissance](./08_neorrenacimiento_humano_ES_EN.md)
+- **XVI** · [Manifiesto de la Refragmentación Arquetípica™ / Manifesto of Archetypal Refragmentation™](./16_refragmentacion_arquetipica_ES_EN.md)
+- **XXXII** · [Manifiesto de la Reversión Ideológica Neodialéctica™ / Manifesto of Neodialectical Ideological Reversal™](./32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md)
+- **XXXIV** · [Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™ / Operational Utility of the Framework and Perpetual Joint Audit™](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
+- **XXXV** · [Contra la Ridiculez Mediática y la Economía del Conflicto™ / Against Media Absurdity and the Conflict Economy™](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
+- **XXXVII** · [Neofraternidad™ / Neofraternity™](./37_neofraternidad_ES_EN.md)
+- **XLIX** · [La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™](./49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)
+- **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
+- **LX** · [Relevancia Humana Necesaria™ · Inteligencia Distribuida, Aporte y Anti-Captura Social / Necessary Human Relevance™ · Distributed Intelligence, Contribution and Anti-Capture](./60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md)
+- **LXXV** · [Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™](./75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 
-- [Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md)
-- [NEOCore™ · marco / framework](../../README.md)
+- [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
+- [NEOCore™ · marco / framework](../README.md)
 
-**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-10` → [Neoaxiomas™](../../neoaxiomas/README.md)
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-10` → [Neoaxiomas™](../neoaxiomas/README.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->

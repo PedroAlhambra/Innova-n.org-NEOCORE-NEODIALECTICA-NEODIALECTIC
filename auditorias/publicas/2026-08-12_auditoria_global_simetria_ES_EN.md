@@ -9,7 +9,7 @@
 
 - Markdown activo examinado / Active Markdown scanned: **286**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **206**.
-- Fallos estructurales divididos / Split structural failures: **117**.
+- Fallos estructurales divididos / Split structural failures: **115**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **24**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -28,9 +28,6 @@
   - Regla de continuidad: párrafos ES=2 EN=1
 - `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` · ES=621 · EN=600 · ratio=0.97
   - 6: párrafos ES=3 EN=5
-- `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` · ES=1285 · EN=1181 · ratio=0.92
-  - 8: lists ES=12 EN=0
-  - 8: párrafos ES=3 EN=4
 - `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` · ES=825 · EN=782 · ratio=0.95
   - 8: párrafos ES=3 EN=5
 - `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` · ES=1625 · EN=1668 · ratio=1.03
@@ -52,8 +49,6 @@
   - 8: párrafos ES=3 EN=4
 - `analisis/publicos/2026-08-08_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_funcional_ES_EN.md` · ES=419 · EN=417 · ratio=1.00
   - Debate para Síntesis Abierta: párrafos ES=4 EN=3
-- `analisis/publicos/2026-08-08_delta_poder_incentivos_tokenizacion_y_transicion_neodialectica_ES_EN.md` · ES=908 · EN=854 · ratio=0.94
-  - 4: lists ES=8 EN=0
 - `analisis/publicos/2026-08-08_distrokid_ticket_4499471_respuesta_no_resolutiva_y_reiteracion_auditoria_ES_EN.md` · ES=754 · EN=713 · ratio=0.95
   - 8: párrafos ES=1 EN=2
 - `analisis/publicos/2026-08-08_estado_correo_difusion_idea_y_adhesiones_sintesis_ES_EN.md` · ES=404 · EN=373 · ratio=0.92
@@ -92,8 +87,8 @@
   - Secuencia: párrafos ES=2 EN=1
 - `anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md` · ES=365 · EN=355 · ratio=0.97
   - Manifiestos: párrafos ES=2 EN=3
-- `anuncios/2026-08-07_OCTAVA_OLEADA_PROTECCION_INTEGRAL_INFANCIA_ES_EN.md` · ES=212 · EN=195 · ratio=0.92
-  - esqueleto de encabezados distinto ES=[(2, ''), (2, '')] EN=[]
+- `anuncios/2026-08-07_OCTAVA_OLEADA_PROTECCION_INTEGRAL_INFANCIA_ES_EN.md` · ES=212 · EN=210 · ratio=0.99
+  - Arquitectura propuesta: párrafos ES=2 EN=3
 - `anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md` · ES=274 · EN=272 · ratio=0.99
   - XLII · Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva: párrafos ES=8 EN=9
 - `auditorias/publicas/2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md` · ES=632 · EN=600 · ratio=0.95
@@ -129,7 +124,6 @@
 - `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · ES=1606 · EN=1537 · ratio=0.96
   - V: párrafos ES=4 EN=3
 - `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` · ES=1822 · EN=1789 · ratio=0.98
-  - XII: lists ES=17 EN=4
   - XII: párrafos ES=5 EN=4
 - `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · ES=1545 · EN=1523 · ratio=0.99
   - VIII: párrafos ES=8 EN=6
@@ -338,7 +332,7 @@
 | `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Parte II — Dajla, mafias migratorias y control estatal / La infraestructura oculta de la presión fronteriza / Part II — Dakhla, migrant-smuggling networks and state control / Versión en español / Parte II — Dajla, mafias migratorias y control estatal / Utilización política del ecosistema / Acusación extraordinaria sin prueba suficiente / Conclusión / English version / Part II — Dakhla, migrant-smuggling networks and state control / Political use of the ecosystem / Extraordinary allegation without sufficient evidence |
 | `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` | **REVISAR** | 6: párrafos ES=3 EN=5 |
-| `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` | **REVISAR** | 8: lists ES=12 EN=0; 8: párrafos ES=3 EN=4 |
+| `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` | **REVISAR** | 8: párrafos ES=3 EN=5 |
 | `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` | **REVISAR** | 2: párrafos ES=8 EN=7; 11: lists ES=10 EN=22; 11: párrafos ES=3 EN=6 |
@@ -349,7 +343,7 @@
 | `analisis/publicos/2026-08-08_addendum_autodemostracion_creacion_neodialectica_historia_olvidada_ES_EN.md` | **REVISAR** | 7: párrafos ES=2 EN=1 |
 | `analisis/publicos/2026-08-08_addendum_distrokid_catalogo_album_removed_added_apple_music_ES_EN.md` | **REVISAR** | 8: párrafos ES=3 EN=4 |
 | `analisis/publicos/2026-08-08_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_funcional_ES_EN.md` | **REVISAR** | Debate para Síntesis Abierta: párrafos ES=4 EN=3 |
-| `analisis/publicos/2026-08-08_delta_poder_incentivos_tokenizacion_y_transicion_neodialectica_ES_EN.md` | **REVISAR** | 4: lists ES=8 EN=0 |
+| `analisis/publicos/2026-08-08_delta_poder_incentivos_tokenizacion_y_transicion_neodialectica_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-08_distrokid_ticket_4499471_respuesta_no_resolutiva_y_reiteracion_auditoria_ES_EN.md` | **REVISAR** | 8: párrafos ES=1 EN=2 |
 | `analisis/publicos/2026-08-08_estado_correo_difusion_idea_y_adhesiones_sintesis_ES_EN.md` | **REVISAR** | Novum: párrafos ES=3 EN=2; 5: párrafos ES=1 EN=2 |
 | `analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (2, '4'), (3, ''), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (3, ''), (3, ''), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17')] EN=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (2, '4'), (3, ''), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (3, ''), (3, ''), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17'), (2, '')] |
@@ -380,7 +374,7 @@
 | `anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md` | **REVISAR** | Secuencia: párrafos ES=2 EN=1 |
 | `anuncios/2026-08-07_ANUNCIO_CINCO_OLEADAS_MANIFIESTOS_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md` | **REVISAR** | Manifiestos: párrafos ES=2 EN=3 |
-| `anuncios/2026-08-07_OCTAVA_OLEADA_PROTECCION_INTEGRAL_INFANCIA_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, ''), (2, '')] EN=[] |
+| `anuncios/2026-08-07_OCTAVA_OLEADA_PROTECCION_INTEGRAL_INFANCIA_ES_EN.md` | **REVISAR** | Arquitectura propuesta: párrafos ES=2 EN=3 |
 | `anuncios/2026-08-07_QUINTA_OLEADA_TRANSICION_AUDITORIA_ATENCION_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md` | **OK** |  |
 | `anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md` | **REVISAR** | XLII · Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva: párrafos ES=8 EN=9 |
@@ -468,7 +462,7 @@
 | `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` | **OK** |  |
 | `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` | **REVISAR** | V: párrafos ES=4 EN=3 |
 | `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | **OK** |  |
-| `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | **REVISAR** | XII: lists ES=17 EN=4; XII: párrafos ES=5 EN=4 |
+| `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | **REVISAR** | XII: párrafos ES=5 EN=4 |
 | `manifiestos/37_neofraternidad_ES_EN.md` | **OK** |  |
 | `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` | **OK** |  |
 | `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` | **OK** |  |

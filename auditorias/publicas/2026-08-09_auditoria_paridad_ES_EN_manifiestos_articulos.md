@@ -14,7 +14,7 @@
 
 **Documentos bilingües examinados:** 104  
 **Recortes/materialmente asimétricos para revisión:** 0  
-**Advertencias estructurales sin prueba suficiente de recorte:** 1  
+**Advertencias estructurales sin prueba suficiente de recorte:** 0  
 **Con marcador incompleto/ausente:** 0
 
 ## Casos marcados
@@ -27,7 +27,7 @@
 
 | Archivo | Estado | Advertencia |
 |---|---|---|
-| `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | ADVERTENCIA | sección XII listas ES=17, EN=4 |
+| — | — | Sin advertencias |
 
 ## Inventario completo
 
@@ -69,7 +69,7 @@
 | `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` | 1679 | 1621 | 0.97 | 17 | 17 | OK |
 | `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` | 1606 | 1975 | 1.23 | 23 | 24 | OK |
 | `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | 1961 | 1967 | 1.00 | 17 | 17 | OK |
-| `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | 1822 | 1850 | 1.02 | 16 | 17 | ADVERTENCIA |
+| `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | 1822 | 1850 | 1.02 | 16 | 17 | OK |
 | `manifiestos/37_neofraternidad_ES_EN.md` | 1047 | 1060 | 1.01 | 15 | 15 | OK |
 | `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` | 2431 | 2386 | 0.98 | 28 | 28 | OK |
 | `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` | 1207 | 1230 | 1.02 | 14 | 14 | OK |
@@ -113,7 +113,7 @@
 | `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` | 611 | 611 | 1.00 | 1 | 1 | OK |
 | `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` | 3237 | 3128 | 0.97 | 29 | 29 | OK |
 | `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` | 621 | 600 | 0.97 | 6 | 6 | OK |
-| `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` | 1285 | 1284 | 1.00 | 12 | 13 | OK |
+| `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` | 1285 | 1295 | 1.01 | 12 | 13 | OK |
 | `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` | 825 | 782 | 0.95 | 8 | 8 | OK |
 | `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` | 2582 | 2580 | 1.00 | 40 | 41 | OK |
 | `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` | 531 | 511 | 0.96 | 5 | 5 | OK |
@@ -122,7 +122,7 @@
 | `analisis/publicos/2026-08-08_addendum_autodemostracion_creacion_neodialectica_historia_olvidada_ES_EN.md` | 656 | 657 | 1.00 | 9 | 9 | OK |
 | `analisis/publicos/2026-08-08_addendum_distrokid_catalogo_album_removed_added_apple_music_ES_EN.md` | 803 | 772 | 0.96 | 14 | 14 | OK |
 | `analisis/publicos/2026-08-08_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_funcional_ES_EN.md` | 419 | 417 | 1.00 | 4 | 4 | OK |
-| `analisis/publicos/2026-08-08_delta_poder_incentivos_tokenizacion_y_transicion_neodialectica_ES_EN.md` | 908 | 952 | 1.05 | 12 | 13 | OK |
+| `analisis/publicos/2026-08-08_delta_poder_incentivos_tokenizacion_y_transicion_neodialectica_ES_EN.md` | 908 | 954 | 1.05 | 12 | 13 | OK |
 | `analisis/publicos/2026-08-08_distrokid_ticket_4499471_respuesta_no_resolutiva_y_reiteracion_auditoria_ES_EN.md` | 754 | 713 | 0.95 | 8 | 8 | OK |
 | `analisis/publicos/2026-08-08_estado_correo_difusion_idea_y_adhesiones_sintesis_ES_EN.md` | 404 | 373 | 0.92 | 12 | 12 | OK |
 | `analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md` | 1721 | 1706 | 0.99 | 21 | 22 | OK |

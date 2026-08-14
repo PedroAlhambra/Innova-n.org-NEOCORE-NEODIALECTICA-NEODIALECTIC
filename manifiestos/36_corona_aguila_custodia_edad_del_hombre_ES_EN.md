@@ -680,7 +680,21 @@ XXXVI does not replace previous developments. It connects them:
 
 This manifesto has its own Open Synthesis, differentiated from the previous genealogical annex.
 
-Contributions are invited on the limits among custodianship, property and symbolic appropriation; the difference between archetypal recovery and political restoration; the universal meaning of the Age of Man; historical risks associated with Crown, Eagle and Lion; the Spanish heraldic constellation and its non-causal relations with NAX-10; the Flag of Spain in Synthesis™ and the Flag of Humanity in Synthesis™; criteria for symbolic inclusion without biologising identities or turning diversity into hierarchy; mechanisms preventing authoritarian, imperial, nationalist, racial or commercial capture; Innova_N as a living tool rather than an external representation of a hammer; transformation of memory into an engine of ideas vectorised by joint synthesis; the relation among framework, planet, human life and fractal organism; responsibility of the creative agent integrated into the whole; and criteria for institutional use by the Innova_N Foundation.
+Contributions are invited on:
+
+- the limits among custodianship, property and symbolic appropriation;
+- the difference between archetypal recovery and political restoration;
+- the universal meaning of the Age of Man;
+- historical risks associated with Crown, Eagle and Lion;
+- the Spanish heraldic constellation and its non-causal relations with NAX-10;
+- the Flag of Spain in Synthesis™ and the Flag of Humanity in Synthesis™;
+- criteria for symbolic inclusion without biologising identities or turning diversity into hierarchy;
+- mechanisms preventing authoritarian, imperial, nationalist, racial or commercial capture;
+- Innova_N as a living tool rather than an external representation of a hammer;
+- transformation of memory into an engine of ideas vectorised through joint synthesis;
+- the relation among framework, planet, human life and fractal organism;
+- responsibility of the creative agent integrated into the whole;
+- and criteria for institutional use by the Innova_N Foundation.
 
 Every contribution requires prior reading, genealogy, separation between historical form and archetypal function, traceability, classification, delta and version.
 

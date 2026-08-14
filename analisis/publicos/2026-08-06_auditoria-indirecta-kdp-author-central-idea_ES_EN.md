@@ -336,7 +336,18 @@ An automatic availability email was recorded as relevant evidence, but did not b
 
 In a later communication on 6 August 2026, KDP and Author Central confirmed in writing that published IDEA formats in twelve languages had been correctly assigned to the Author Page:
 
-Finnish, Norwegian, Danish, Swedish, Polish, Dutch, German, Italian, English, Portuguese, French and Spanish.
+1. Finnish;
+2. Norwegian;
+3. Danish;
+4. Swedish;
+5. Polish;
+6. Dutch;
+7. German;
+8. Italian;
+9. English;
+10. Portuguese;
+11. French;
+12. Spanish.
 
 The author subsequently verified the corrected associations and displayed languages. The absence of a Japanese edition was explained by the fact that it was still being prepared and did not constitute a system incident.
 
