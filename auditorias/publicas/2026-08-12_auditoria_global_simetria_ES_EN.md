@@ -298,9 +298,8 @@
   - volumen EN/ES=0.80 (481/604)
   - Rama especulativa posterior · UMBRAL-X: párrafos ES=3 EN=2
   - Leer IDEA: párrafos ES=1 EN=0
-- `obras/umbral-x/00_el_dia_que_les_dimos_armas_antes_que_voz_ES_EN.md` · ES=1173 · EN=471 · ratio=0.40
-  - volumen EN/ES=0.40 (471/1173)
-  - esqueleto de encabezados distinto ES=[(3, ''), (2, '')] EN=[]
+- `obras/umbral-x/00_el_dia_que_les_dimos_armas_antes_que_voz_ES_EN.md` · ES=1173 · EN=1279 · ratio=1.09
+  - Nodo abierto: párrafos ES=3 EN=4
 - `obras/umbral-x/README.md` · ES=978 · EN=998 · ratio=1.02
   - Nodos relacionados: párrafos ES=1 EN=2
 - `propuestas/sintesis-abierta/2026-08-08_LII_ciudadania_humana_neodialectica_debate_ES_EN.md` · ES=96 · EN=72 · ratio=0.75
@@ -697,7 +696,7 @@
 | `obras/idea/README.md` | **OK** |  |
 | `obras/idea/STARKDR_GRITAX_HISTORIA_DE_LAS_ESPECIES_ES_EN.md` | **REVISAR** | volumen EN/ES=0.80 (481/604); Rama especulativa posterior · UMBRAL-X: párrafos ES=3 EN=2; Leer IDEA: párrafos ES=1 EN=0 |
 | `obras/idea/assets/README.md` | **OK** |  |
-| `obras/umbral-x/00_el_dia_que_les_dimos_armas_antes_que_voz_ES_EN.md` | **REVISAR** | volumen EN/ES=0.40 (471/1173); esqueleto de encabezados distinto ES=[(3, ''), (2, '')] EN=[] |
+| `obras/umbral-x/00_el_dia_que_les_dimos_armas_antes_que_voz_ES_EN.md` | **REVISAR** | Nodo abierto: párrafos ES=3 EN=4 |
 | `obras/umbral-x/README.md` | **REVISAR** | Nodos relacionados: párrafos ES=1 EN=2 |
 | `propuestas/sintesis-abierta/2026-08-08_LII_ciudadania_humana_neodialectica_debate_ES_EN.md` | **REVISAR** | volumen EN/ES=0.75 (72/96); esqueleto de encabezados distinto ES=[(3, '')] EN=[] |
 | `propuestas/sintesis-abierta/2026-08-09_LV_micromaquinas_plagas_escala_invisible_debate_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
