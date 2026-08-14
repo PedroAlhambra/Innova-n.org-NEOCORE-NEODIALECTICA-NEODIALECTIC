@@ -4,7 +4,7 @@
 **Fecha / Date:** 2026-08-09  
 **Estado / Status:** auditoría interna pública, abierta a contradicción / public internal audit, open to contradiction  
 **Periodo genealógico reconocido / Recognised genealogical period:** desde / since **2021**  
-**Alcance cuantitativo:** no se atribuyen horas exactas retrospectivas sin evidencia suficiente.
+**Alcance cuantitativo / Quantitative scope:** no se atribuyen horas exactas retrospectivas sin evidencia suficiente / no exact retrospective hours are attributed without sufficient evidence.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -151,42 +151,132 @@ En la revisión de la mañana del 9 de agosto de 2026:
 
 Can a Common-Good framework be considered sustainable if, for a prolonged phase, its creation, documentation, defence, outreach, maintenance, review and opening to scrutiny depend disproportionately on its founder?
 
-Provisional answer: **no**.
+The provisional answer is **no**.
 
-Archetypal Neodialectical Philosophy™ recognises a development genealogy since **2021**. Recent public activity and commits document current phases but do not mark the beginning of the work.
+Archetypal Neodialectical Philosophy™ recognises a development genealogy since **2021**. Intensive public activity and recent commits document current phases, but they do not constitute the beginning of the work.
 
-## 2. Main finding
+## 2. Types of work audited
 
-There is a **foundational load asymmetry**: the framework aspires to distributed operation while a very high share of origin, correction, maintenance, projection and coordination still depends on one person.
+The following are recognised as material work of the framework:
 
-This is not a refutation of the framework; it is an organisational architecture debt.
+- philosophical and conceptual creation;
+- writing and editing;
+- technical design and human–AI architecture;
+- memory, genealogy and traceability;
+- contradiction, review and correction;
+- development of manifestos, analyses, audits and protocols;
+- maintenance of the repository and documentary network;
+- creation and editorial restoration of *IDEA* when its function relates to the framework's genealogy;
+- academic, institutional, technological, cultural and editorial outreach;
+- search for interlocutors capable of refuting or improving proposals;
+- reading and classification of responses;
+- manual guidance of participants toward GitHub;
+- authorised transformation of email contributions into traceable contributions;
+- defence against appropriation, genealogical erasure, reduction or manipulation;
+- research and materialisation of prototypes, products or future structures.
 
-## 3. Return of Foundational Time™
+## 3. Main finding
 
-> **The system should progressively return time to the creator through released capacity, support, funding, task distribution, recognition and proportional return as new nodes assume functions currently concentrated on the founder.**
+There is a **foundational load asymmetry**: the framework aspires to distributed operation while, at its current stage, a very high share of origin, correction, maintenance, projection and coordination still depends on one person.
 
-Sacrifice does not create privilege. The purpose is to prevent Common-Good infrastructure from depending indefinitely on invisible, unreturned labour.
+This does not invalidate the framework; it identifies an organisational architecture debt.
 
-## 4. Founder’s War Against Cognitive Stupidity™
+```text
+DISTRIBUTED FRAMEWORK IN THESIS
++
+CENTRALISED LOAD IN EXECUTION
+=
+RISK OF EXHAUSTION AND FOUNDATIONAL BOTTLENECK
+```
 
-The expression is integrated under **Neowar™** as a non-violent intellectual struggle against manipulation, organised falsehood, prestige replacing argument, genealogical erasure, cognitive-time extraction, repetitive harm despite evidence and conflict rewarded over truth.
+## 4. Return of Foundational Time™
 
-The target is the pattern, not the person. The founder remains subject to the same audit and correction rules.
+The following is adopted as an audit criterion:
 
-## 5. Safeguards
+> **The system should progressively return time to the creator through equivalent released capacity, support, funding, task distribution, recognition and proportional return as new nodes assume functions currently concentrated on the founder.**
+
+The purpose is not to turn sacrifice into privilege. It is to prevent Common-Good infrastructure from depending indefinitely on invisible, unreturned labour.
+
+## 5. What can be returned
+
+Return can take the form of:
+
+- teams that absorb maintenance and outreach;
+- collaborators who moderate or synthesise Issues;
+- transparent funding;
+- remuneration for functions actually performed;
+- legitimate income from products and publications;
+- institutional support;
+- automation of repetitive tasks;
+- verifiable recognition and attribution;
+- a future Contribution Economy™ / PoU once valid mechanisms exist;
+- recovered time for creation, rest, family and research.
+
+## 6. What does NOT follow from this audit
 
 ```text
 MORE SACRIFICE ≠ MORE TRUTH
-MORE YEARS ≠ UNIVERSAL AUTHORITY
+MORE YEARS ≠ MORE UNIVERSAL AUTHORITY
 FOUNDER ≠ INFALLIBLE
 LACK OF SUPPORT ≠ CONSPIRACY
 UNPAID WORK ≠ AUTOMATIC THIRD-PARTY FINANCIAL DEBT
 RECOGNITION ≠ RIGHT TO COERCE
 ```
 
-## 6. Current state
+## 7. Founder's War Against Cognitive Stupidity™ as an auditable object
 
-As of the morning review of 9 August 2026, Open Synthesis has a broad public Issue surface but no recent direct external contribution in those Issues. At least one substantive external email critique—Terry Winograd’s challenge on incentives and transition power—has already been returned to the framework as a traceable delta. Administrative acknowledgements are not counted as intellectual participation. A guided email↔GitHub bridge has now been opened to reduce participation friction.
+The expression itself is integrated within **Neowar™** as a non-violent intellectual struggle against patterns of cognitive degradation.
+
+The object of struggle is not people. It is behaviours and structures such as:
+
+- organised falsehood;
+- manipulation;
+- repetition of harm despite evidence;
+- prestige, fame or money replacing argument;
+- genealogical erasure;
+- reduction of complex systems without study;
+- capture of attention;
+- exploitation of cognitive time;
+- conflict turned into a product;
+- automatic refusal to examine something because of provenance or lack of status.
+
+The audit also requires that the founder himself remain open to contradiction when he engages in reduction, attributes intentions without evidence, uses excessive rhetoric or lacks proportionality.
+
+## 8. Future indicators
+
+From this stage onward it is useful to measure:
+
+| Indicator | Objective |
+|---|---|
+| recorded hours or work blocks | make real effort visible without fabricating retrospective figures |
+| tasks assumed by third parties | measure effective decentralisation |
+| external contributions to Issues | measure real participation |
+| substantive replies versus emails sent | measure outreach quality |
+| deltas generated by third parties | measure external learning |
+| transparent income / funding | measure material sustainability |
+| automated tasks | measure recovered time |
+| days without founder operational load | measure system resilience |
+
+## 9. Current state
+
+In the morning review of 9 August 2026:
+
+- Open Synthesis has numerous public Issues, but still records no recent direct external contributions in them;
+- outreach has already produced at least one substantive intellectual critique by email — Terry Winograd's challenge on incentives and transition capacity — which was returned to the framework through a traceable delta;
+- several current responses are administrative or automatic and must not be inflated into intellectual participation;
+- an explicit email ↔ GitHub bridge has been opened to reduce entry friction;
+- the guidance and outreach load remains real framework work and is now recorded as such.
+
+## 10. Relations
+
+- [XLIV · Neowar™](../../manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md)
+- [Neowar Open Synthesis · #52](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/52)
+- [XXI · Neodialectical Recognition™](../../manifiestos/21_reconocimiento_neodialectico_ES_EN.md)
+- [XXIII · Sovereignty of Cognitive Time™](../../manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md)
+- [XXXV · Against Media Ridicule and the Economy of Conflict™](../../manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
+- [Delta · Founder's War Against Cognitive Stupidity™ and Return of Foundational Time™](../../analisis/publicos/2026-08-09_guerra_fundador_contra_idiotez_devolucion_tiempo_bien_comun_ES_EN.md)
+- [Framework outreach register · 2026-08-09](../../proyeccion/DIFUSION_MARCO_2026-08-09.md)
+- [Guided Participation Bridge · Email ↔ GitHub](../../propuestas/sintesis-abierta/PUENTE_PARTICIPACION_GUIADA_CORREO_GITHUB_ES_EN.md)
 
 ---
 
