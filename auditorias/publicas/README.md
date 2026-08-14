@@ -15,7 +15,7 @@
 > **LXXV · Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™**
 >
 > **[Leer LXXV / Read LXXV](../../manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md) · [Síntesis Abierta LXXV · #134 / Open Synthesis LXXV · #134](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/134)**  
-> [Seguir marco / Follow framework](../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [Registrar entrada / Register entry](../../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Cómo aportar / How to contribute](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™](../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [75 manifiestos / 75 manifestos](../../manifiestos/README.md)
+> [Seguir marco / Follow framework](../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [Registrar entrada / Register entry](../../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Cómo aportar / How to contribute](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™](../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas / Public audits](README.md) · [75 manifiestos / manifestos · I–LXXV](../../manifiestos/README.md)
 
 <!-- NEO_LATEST_MANIFESTO_END -->
 

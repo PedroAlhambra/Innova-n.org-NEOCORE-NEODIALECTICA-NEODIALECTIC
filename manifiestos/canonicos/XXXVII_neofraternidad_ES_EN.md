@@ -582,7 +582,9 @@ XXXVII connects especially with:
 
 This manifesto opens its own Open Synthesis to contrast fraternity, identity updating, rivalry, recognition, autonomy, contributions, boundaries, repair and the civilisational extension of the principle.
 
-Every contribution must distinguish personal experience, general principle, verifiable harm, interpretation and proposal; avoid unnecessarily exposing private data about third parties; and preserve dignity, genealogy, traceability, delta and version.
+Every contribution must distinguish personal experience, general principle, verifiable harm, interpretation and proposal; and avoid unnecessarily exposing private data about third parties.
+
+It must also preserve dignity, genealogy, traceability, delta and version.
 
 - [Open the Open Synthesis for Manifesto XXXVII · Issue #43](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/43)
 - [XXVI · Universal Reciprocal Mercy™](XXVI_misericordia_universal_reciproca_ES_EN.md)

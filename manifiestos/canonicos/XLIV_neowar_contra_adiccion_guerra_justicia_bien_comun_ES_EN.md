@@ -368,7 +368,7 @@ Se solicitan aportes sobre:
 
 ## Invocation
 
-We have been taught for too long to look at war as spectacle.
+For too long we have been taught to look at war as spectacle.
 
 Kill to advance.  
 Destroy to win.  
@@ -376,21 +376,21 @@ Humiliate to dominate.
 Shoot before understanding.  
 Turn the other into a target.
 
-Cinema, television, video games, networks, advertising and parts of contemporary news culture have repeatedly reproduced a grammar in which conflict becomes excitement, violence becomes resolution and victory becomes elimination of the other.
+Cinema, television, video games, networks, advertising and part of contemporary news treatment have reproduced a grammar in which conflict easily becomes excitement, violence becomes resolution and victory becomes elimination of the other.
 
-This manifesto does not claim that every video game causes violence, that every representation of war is harmful, or that a national culture can be reduced to its audiovisual industry.
+This manifesto does not claim that every video game produces violence, that every war fiction is harmful or that a national culture can be reduced to its audiovisual industry.
 
-Its thesis is narrower:
+The thesis is more precise:
 
-> **when a civilisation repeatedly consumes destruction as entertainment and reward, it should examine which conflict imaginaries it is normalising and how those imaginaries later enter language, politics, identity and behaviour.**
+> **when a civilisation repeatedly consumes destruction as entertainment and reward, it must examine which imaginaries of conflict it is normalising and how those imaginaries later penetrate language, politics, identity and conduct.**
 
-American cultural influence has been extraordinarily powerful in the global diffusion of particular forms of visual violence and spectacularised war. Recognising that influence does not justify reducing the United States, its population, its culture or all of its artistic production to that pattern.
+American cultural influence has been extraordinarily powerful in the global diffusion of particular forms of visual violence and spectacularised war. Pointing out that influence does not authorise reducing the United States, its population, its culture or all of its artistic production to that pattern.
 
 The criticism is directed at a transnational cultural architecture that too easily turns war into a product.
 
 ## I. Cultural addiction to war
 
-A society can formally reject war while consuming it daily as image, narrative, game and reward structure.
+A society may formally reject war and, at the same time, consume it daily as image, narrative, game and reward structure.
 
 ```text
 CONFLICT
@@ -400,9 +400,9 @@ CONFLICT
 → REPETITION
 ```
 
-When this sequence dominates imagination, a dangerous simplification appears:
+When this sequence dominates the imaginary, a dangerous simplification appears:
 
-**to solve becomes to defeat; to defeat becomes to eliminate.**
+**to solve equals to defeat; to defeat equals to eliminate.**
 
 Neodialectics rejects that equivalence.
 
@@ -412,29 +412,54 @@ Neodialectics rejects that equivalence.
 
 It means transforming warrior energy.
 
-No war for territory. No war for oil. No war for religion. No war for flags. No war to sustain industries. No war to manufacture enemies for disoriented societies.
+No war for territory.  
+No war for oil.  
+No war for religion.  
+No war for a flag.  
+No war to sustain industries.  
+No war to manufacture enemies that hold disoriented societies together.
 
-Neowar™ is struggle against what turns human beings, other living beings and the Earth into expendable instruments of domination.
+Neowar™ is the struggle against what turns human beings, other living beings and the Earth into expendable instruments of domination.
 
-Against tyranny, exploitation, organised falsehood, capture of consciousness, deliberate destruction of life, impunity and systemic parasitism.
+Against tyranny.
 
-But that struggle is subject to an irrevocable boundary:
+Against exploitation.
+
+Against organised lies.
+
+Against capture of consciousness.
+
+Against deliberate destruction of life.
+
+Against impunity.
+
+Against systemic parasitism.
+
+But that struggle is subjected to an irrevocable boundary:
 
 > **Neowar™ does not authorise threats against persons, private revenge, extermination, dehumanisation or autonomous violence.**
 
 Its primary field is civilisational: knowledge, culture, law, education, technology, organisation, memory, democratic resistance and institutional transformation.
 
-Where legitimate physical defence exists, it must remain subordinate to necessity, proportionality, protection of third parties, human responsibility and legal and ethical limits.
+Where legitimate physical defence exists, it must remain subordinated to necessity, proportionality, protection of third parties, human responsibility and legal and ethical limits.
 
-## III. Good is more complicated than evil
+## III. Good is more complicated than Evil
 
-Destroying is simple. Building requires understanding.
+Destroying is simple.
 
-A city can be broken in hours. Building it can require generations.
+Building requires understanding.
 
-Killing can take seconds. Understanding a life requires years.
+Breaking a city may take hours.
 
-Creating fear is simple. Building trust is difficult.
+Building it may require generations.
+
+Killing may take seconds.
+
+Understanding a life takes years.
+
+Causing fear is simple.
+
+Building trust is difficult.
 
 Evil, understood here as a vector of destruction, domination and reduction of the other, can operate through a minimal architecture:
 
@@ -445,7 +470,7 @@ ENEMY
 → DESTRUCTION
 ```
 
-The Common Good requires a more complex architecture:
+The Common Good needs a much more complex architecture:
 
 ```text
 MEMORY
@@ -459,7 +484,7 @@ MEMORY
 → FUTURE
 ```
 
-That is why **Good is more complicated than evil**.
+That is why **Good is more complicated than Evil**.
 
 Because it needs to understand the framework.
 
@@ -467,21 +492,27 @@ Because it needs to understand the framework.
 
 Universal Neodialectics does not propose a childish morality of good people against bad people.
 
-It proposes understanding the system sufficiently to change its direction without destroying the organism of which we are part.
+It proposes understanding the system sufficiently to modify its direction without destroying the organism of which we are part.
 
-Justice without memory can degenerate into revenge. Mercy without justice can degenerate into impunity. Force without limits degenerates into tyranny. Peace without defence can become permission for abuse.
+Justice without memory may degenerate into revenge.
 
-Neowar™ therefore continues the principle of the **Limited Hammer™**:
+Mercy without justice may degenerate into impunity.
 
-> **force remains legitimate only when it protects, limits harm, responds proportionally and stays subordinate to human responsibility and the Common Good.**
+Force without limits degenerates into tyranny.
 
-## V. Each of us sovereign over ourselves
+Peace without defence may become permission for abuse.
 
-Neodialectical sovereignty needs no caudillo above everyone else.
+For that reason Neowar™ continues the principle of the **Limited Hammer™**:
 
-It can even reclaim the word **caudillo** only after reversing its authoritarian meaning:
+> **force preserves legitimacy only when it protects, limits harm, responds proportionately and remains subordinated to human responsibility and the Common Good.**
 
-> **each person may be caudillo of their own sovereignty; nobody should be caudillo of another person's conscience.**
+## V. All caudillos of our own sovereignty
+
+Neodialectical sovereignty does not need a caudillo over others.
+
+It may even assume the word **caudillo** only after reversing its authoritarian meaning:
+
+> **each person may be caudillo of their own sovereignty; no one should be caudillo of another person's consciousness.**
 
 Not isolated sovereignty.
 
@@ -494,41 +525,59 @@ I GOVERN MYSELF
 +
 YOU GOVERN YOURSELF
 +
-WE CONTRAST ONE ANOTHER
+WE SCRUTINISE ONE ANOTHER
 +
 WE LIMIT ONE ANOTHER RECIPROCALLY
 +
-WE COORDINATE THE COMMON
+WE COORDINATE WHAT IS COMMON
 → SHARED SOVEREIGNTY
 ```
 
-Individual freedom does not disappear inside the Common Good.
+Individual freedom does not disappear within the Common Good.
 
-It becomes capable of coexisting with other freedoms without demanding their domination.
+It becomes capable of coexisting with other freedoms without demanding to dominate them.
 
-Let each of us become responsible for our own direction: able to say no, able to review, able to defend, able to correct ourselves, and required to recognise that shared sovereignty also means accepting limits when our actions destroy the sovereignty of others.
+Let each and every one of us be responsible for our direction.
+
+All capable of saying no.
+
+All capable of reviewing.
+
+All capable of defending.
+
+All capable of correcting ourselves.
+
+And all obliged to recognise that sharing sovereignty also means accepting limits when our action destroys the sovereignty of others.
 
 ## VI. We are also the Earth
 
-Humanity has never been alone.
+The human was never alone.
 
-We are the hawk looking from the sky.
+We are the hawk observing from the sky.
 
-We are the earth carrying our cities.
+We are the earth that supports our cities.
 
-We are the tiger, the lion, the elephant, the orca and the whale.
+We are the tiger.
 
-We are forests, oceans, rivers and species that could not vote when humans decided to destroy their habitats.
+The lion.
+
+The elephant.
+
+The orca.
+
+The whale.
+
+We are also forests, oceans, rivers and species that could not vote when we decided to destroy their territories.
 
 We are future generations, still unable to defend what they will inherit.
 
-A justice limited exclusively to humans remains incomplete when human action transforms the conditions of existence of the whole.
+A justice that is exclusively human remains incomplete when human action transforms the conditions of existence of the whole.
 
 ## VII. The voices of the dead
 
 Every civilisation walks upon its memory.
 
-We carry wars, genocides, slavery, persecution, dictatorships, terrorism, bombardment, manufactured famine, repression and lives crushed by systems that later continued as if nothing had happened.
+We carry on our backs absurd wars, genocides, slavery, persecutions, dictatorships, terrorism, bombings, induced famines, repression and lives crushed by structures that later continued functioning as though nothing had happened.
 
 The dead cannot return.
 
@@ -536,31 +585,31 @@ But their memory can prevent us from repeating their fate.
 
 We do not speak in their name in order to use their suffering as a political weapon.
 
-We speak so that their suffering does not disappear from collective memory.
+We speak in order to prevent it from disappearing from collective memory.
 
-> **We also become the voices of the unjustly dead when we preserve their memory and demand that the injustice that destroyed them not be reproduced.**
+> **We are also the voices of those who died unjustly when we preserve their memory and demand that the injustice that destroyed them not be reproduced again.**
 
-## VIII. “We will end you” can only mean one thing
+## VIII. “We are going to end you” can mean only one thing
 
-Within the Neodialectical framework, that phrase cannot be directed at peoples, human groups or individuals.
+Within the neodialectical framework, that phrase cannot be directed at peoples, human groups or individuals.
 
-It can only mean:
+It must be understood exclusively as follows:
 
-> **we will work to extinguish architectures of domination, exploitation, propaganda, permanent war, impunity and destruction that make this denunciation necessary.**
+> **we are going to work to extinguish the architectures of domination, exploitation, propaganda, permanent war, impunity and destruction that make this denunciation necessary.**
 
-Ending a structure means transforming it, replacing it, disabling its incentives, making it legally impossible or culturally unacceptable.
+Ending a structure means transforming it, replacing it, deactivating its incentives, making it legally impossible or making it culturally unacceptable.
 
 It does not mean ending human beings.
 
-Coherence between ends and means requires that boundary.
+Coherence between ends and means itself requires preserving that boundary.
 
-## IX. This is not a warning: it is a direction
+## IX. It is not a warning: it is a direction
 
-We are not issuing a threat.
+We are not formulating a threat.
 
-We are defining a vector.
+We are formulating a vector.
 
-Military, technological, ecological, economic, informational and cognitive forces are making it increasingly dangerous to preserve institutions and cultures unable to learn from their own damage.
+Military, technological, ecological, economic, informational and cognitive forces are making it increasingly dangerous to preserve institutions and cultures incapable of learning from their own harms.
 
 We can respond by multiplying violence.
 
@@ -577,23 +626,23 @@ JUSTICE AGAINST IMPUNITY
 LIFE AGAINST REDUCTION TO RESOURCE
 ```
 
-## X. Warrior spirit must return to custodianship
+## X. The warrior spirit must return to custodianship
 
-We do not want a humanity unable to defend itself.
+We do not want a humanity incapable of defending itself.
 
-We want a humanity that has learned **what deserves defence, against what, by which means and up to what limit**.
+We want a humanity that has learned **what deserves to be defended, against what, by which means and up to what limit**.
 
 We do not want to teach cowardice.
 
-We want courage without cruelty.
+We want to teach courage without cruelty.
 
-We do not want to destroy warrior spirit.
+We do not want to destroy the warrior spirit.
 
 We want to free it from those who use it to manufacture soldiers, consumers, fanatics and enemies.
 
 Let the warrior protect again.
 
-Let strength become custodianship again.
+Let the strong return to custodianship.
 
 Let intelligence understand again.
 
@@ -639,7 +688,20 @@ Let justice reach those who never had a voice.
 
 ## XII. Open Synthesis
 
-Contributions are invited on effects of visual violence and war imaginaries without simplistic causal claims; video games, cinema, television, networks and reward structures; media and emotional literacy; propaganda, cultural militarisation and war economies; legitimate defence and limits on force; prevention of dehumanisation; transformation of warrior impulse into custodianship; individual and shared sovereignty; justice for victims and historical memory; ecological and intergenerational justice; philosophical, legal and cultural precedents; and evidence that contradicts, limits or improves the theses of Neowar™.
+Contributions are invited on:
+
+- effects of visual violence and war imaginaries without simplistic causal claims;
+- video games, cinema, television, networks and reward structures;
+- media and emotional literacy;
+- propaganda, cultural militarisation and war economy;
+- legitimate defence and limits on force;
+- prevention of dehumanisation;
+- transformation of the warrior impulse into custodianship;
+- individual sovereignty and shared sovereignty;
+- justice for victims and historical memory;
+- ecological and intergenerational justice;
+- philosophical, legal and cultural precedents;
+- and evidence that contradicts, limits or improves the theses of Neowar™.
 
 * [Open Synthesis XLIV · Issue #52](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/52)
 * [How to contribute to Open Synthesis](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)

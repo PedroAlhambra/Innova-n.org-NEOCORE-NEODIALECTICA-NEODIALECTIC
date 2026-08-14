@@ -258,33 +258,33 @@ When the tool occupies the centre, life must justify profitability, care becomes
 
 ## III. Monetary dogmas
 
-High price does not prove value. Profitability does not prove usefulness. Wealth does not prove merit. Poverty does not prove guilt. Growth does not prove progress. Property does not prove authorship. The market does not prove truth.
-
-Each may contain relevant information. None may become a complete moral verdict.
-
-<!-- PARITY_72_29_III -->
-The Spanish source separates several substitutions that must not be confused:
-
 ### Price as value
-A high price can indicate scarcity, demand, market power or positioning. It does not by itself demonstrate human, ecological, cultural or civilisational value.
+
+A high price may express scarcity, monopoly, advertising, speculation or control of access. It does not by itself demonstrate utility, truth or beauty.
 
 ### Profitability as utility
-Something can be profitable while externalising damage, and something socially useful can be difficult to monetise. Profitability is therefore information, not a universal measure of usefulness.
+
+Care, child-rearing, memory, basic research, art, community and ecological regeneration may sustain life without producing immediate profit.
 
 ### Wealth as merit
-Wealth can arise from work, creation and contribution, but also from inheritance, position, monopoly, extraction, luck or accumulated advantage. Possession alone does not prove moral merit.
+
+Accumulation may arise from contribution, but also from inheritance, appropriation, monopoly, regulatory capture or the blocking of alternatives.
 
 ### Poverty as guilt
-Lack of money does not prove lack of effort, intelligence, dignity or contribution. Material circumstances, illness, care work, exclusion, geography and inherited conditions also shape outcomes.
+
+Lack of money does not demonstrate lack of effort or reduce dignity. It may express inequality of origin, illness, unpaid care, violence, territory or chance.
 
 ### Growth as progress
-Economic growth may accompany genuine improvement, but growth in extraction, waste, addiction or repair of avoidable damage cannot automatically be called progress.
+
+An economy may grow by destroying soil, manufacturing dependency or repairing damage that it itself produced.
 
 ### Property as authorship
-Legal or economic ownership and intellectual origin are different relations. A system that can acquire an asset must still preserve genealogy and recognise who created, discovered or contributed what.
+
+Financing or purchasing delimited rights does not turn the owner into the intellectual originator.
 
 ### Market as truth
-Markets aggregate preferences and constraints under particular rules. They do not automatically answer what is true, just, sustainable or desirable for the Common Good.
+
+The market records capacity to pay, desire, scarcity and distribution power. It does not automatically recognise justice, need, truth or the Common Good.
 
 ## IV. Technical language and concealed dogma
 
@@ -305,7 +305,16 @@ Technique does not remove moral direction. It conceals it when refusing to decla
 
 ## V. Sacrifices to the idol
 
-Monetary idolatry normalises destroyed health, families without time, abandoned vocations, degraded territories, industrialised animals, wasted food, dispossessed creators and indebted future generations.
+Monetary idolatry normalises:
+
+* health destroyed to preserve employment;
+* families without time;
+* vocations abandoned for lack of profitability;
+* degraded territories;
+* industrialised animals;
+* wasted food;
+* dispossessed creators;
+* and indebted future generations.
 
 A civilisation continuously sacrificing people to money has not overcome idolatry. It has only renamed the altar.
 

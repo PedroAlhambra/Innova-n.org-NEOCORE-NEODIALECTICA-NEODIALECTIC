@@ -490,7 +490,22 @@ COMMON HUMAN DIGNITY
 
 ## III. Functional civic belonging
 
-Future political belonging may progressively rely on real and traceable relations with a community, including effective residence, family and affective bonds, community participation, legal responsibility, taxation where applicable, care, work, study, cooperation, rootedness, stable willingness to belong and acceptance of reciprocal responsibilities.
+Future political belonging may progressively rely on real and traceable relations with a community.
+
+Among them:
+
+- effective residence;
+- family and affective bonds;
+- community participation;
+- legal responsibility;
+- taxation where applicable;
+- care;
+- work;
+- study;
+- cooperation;
+- rootedness;
+- stable willingness to belong;
+- and acceptance of reciprocal responsibilities.
 
 None of these elements may become by itself a test of human worth.
 
@@ -502,7 +517,21 @@ A sick person, a child, a dependant, an unemployed person, a refugee or someone 
 
 Human equality does not require pretending that territories have no material limits.
 
-Communities still need to administer housing, healthcare, education, infrastructure, security, mobility, environment, taxation, institutional capacity, demographic planning and common resources.
+Communities still need to administer:
+
+- housing;
+- healthcare;
+- education;
+- infrastructure;
+- security;
+- mobility;
+- environment;
+- taxation;
+- institutional capacity;
+- demographic planning;
+- and common resources.
+
+Therefore:
 
 ```text
 HUMAN EQUALITY
@@ -518,7 +547,16 @@ Administrative restrictions should be justified by real, proportionate and revie
 
 In a mature Neodialectical architecture, nationality may evolve from an exclusionary political identity toward **administrative and genealogical metadata of relation**.
 
-It may inform origin, family history, applicable legal frameworks, institutional bonds, residence, active political rights, concrete obligations and routes of protection.
+It may inform:
+
+- origin;
+- family history;
+- applicable legal frameworks;
+- institutional bonds;
+- residence;
+- active political rights;
+- concrete obligations;
+- and routes of protection.
 
 But it should not determine a person's value.
 
@@ -542,7 +580,9 @@ SUPRASTATE UNION
 HUMAN COMMUNITY
 ```
 
-Each level may preserve different competences, responsibilities and forms of participation. Belonging to one scale should not require denying the others.
+Each level may preserve different competences, responsibilities and forms of participation.
+
+Belonging to one scale should not require denying the others.
 
 > **Principle of Multiscale Belonging™: a civic identity can be simultaneously local, regional, State-level, supranational and human without one dimension having to destroy the others.**
 
@@ -550,9 +590,22 @@ Each level may preserve different competences, responsibilities and forms of par
 
 The framework's node architecture allows us to imagine communities not defined only by a closed sovereign centre.
 
-A person may maintain traceable relations with territorial, cultural, professional, scientific, educational, family, cooperative and civilisational nodes.
+A person may maintain traceable relations with different nodes:
 
-The question ceases to be only “what country are you from?” and incorporates:
+- territorial;
+- cultural;
+- professional;
+- scientific;
+- educational;
+- family;
+- cooperative;
+- and civilisational.
+
+The question ceases to be exclusively:
+
+> “what country are you from?”
+
+and also incorporates:
 
 > **“with which communities do you maintain real relations, what responsibilities exist between you, and how is that belonging reciprocally protected?”**
 
@@ -594,7 +647,18 @@ Moving beyond citizenship based exclusively on blood or soil does not require er
 
 On the contrary, [Cultural Interoperability™](XLIX_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md) makes it possible to preserve memory without turning it into an absolute border.
 
-A culture may transmit language, symbols, history, customs, memory, forms of care, art and knowledge without turning someone born elsewhere into a second-class human being.
+A culture may transmit:
+
+- language;
+- symbols;
+- history;
+- customs;
+- memory;
+- forms of care;
+- art;
+- knowledge;
+
+without turning someone born elsewhere into a second-class human being.
 
 Identity can be deep without being exclusionary.
 
@@ -602,7 +666,22 @@ Identity can be deep without being exclusionary.
 
 The [Contribution Economy](VII_economia_del_aporte_ES_EN.md) must not become a commercial condition of citizenship.
 
-Contribution has many forms: creating, caring, learning, teaching, maintaining, correcting, protecting, paying taxes, raising children, researching, producing, mediating, participating—or simply passing through a stage of life in which the common organism sustains the person.
+Contribution has many forms:
+
+- creating;
+- caring;
+- learning;
+- teaching;
+- maintaining;
+- correcting;
+- protecting;
+- paying taxes;
+- raising children;
+- researching;
+- producing;
+- mediating;
+- participating;
+- or simply passing through a stage of life in which the common organism sustains the person.
 
 A community that accepts only those who generate economic surplus reproduces another form of exclusion.
 
@@ -610,7 +689,16 @@ A community that accepts only those who generate economic surplus reproduces ano
 
 [Open Synthesis as Civic Power](LI_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md) separates citizenship from passive obedience.
 
-Belonging also means being able to ask, contribute, contradict, propose, access public memory, understand decisions, verify answers and participate in the evolution of common rules.
+Belonging also means being able to:
+
+- ask;
+- contribute;
+- contradict;
+- propose;
+- access public memory;
+- understand decisions;
+- verify answers;
+- and participate in the evolution of common rules.
 
 Neodialectical citizenship is relational, not merely registrational.
 
@@ -650,7 +738,9 @@ Neodialectics asks a prior question:
 
 > **why should that key decide a different category of human dignity?**
 
-Blood and soil may preserve information. They must not become hierarchy.
+Blood and soil may preserve information.
+
+They must not become hierarchy.
 
 ## XV. Proclamation
 

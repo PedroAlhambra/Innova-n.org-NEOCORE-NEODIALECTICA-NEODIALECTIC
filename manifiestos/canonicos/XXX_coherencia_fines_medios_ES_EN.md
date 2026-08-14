@@ -239,7 +239,15 @@ The neodialectical alternative is **coherent strategy**: capable of competing, p
 
 ## II. Means create trajectory
 
-A means does not merely produce an immediate result. It also forms habits, selects allies, normalises behaviour, distributes power, generates debt, changes trust and determines what must be done next.
+A means does not merely produce an immediate result. It also:
+
+* forms habits;
+* selects allies;
+* normalises behaviour;
+* distributes power;
+* generates debt;
+* changes trust;
+* and determines what must be done next.
 
 ```text
 DECLARED END
@@ -253,26 +261,32 @@ A victory requiring permanent lies must continue lying in order to survive.
 
 ## III. Criteria of strategic legitimacy
 
-A means must be evaluated through necessity, proportionality, possible transparency, reversibility, temporality, responsibility, traceability, non-dehumanisation and coherence with the core of the end.
+A means must be evaluated by:
 
-<!-- PARITY_72_30_III -->
-The Spanish source keeps nine dimensions explicit:
-
-- necessity;
-- proportionality;
-- possible transparency;
-- reversibility;
-- temporality;
-- responsibility;
-- traceability;
-- non-dehumanisation;
-- coherence between the means and the value invoked by the end.
+* **necessity:** no sufficient less harmful alternative exists;
+* **proportionality:** the harm does not exceed the good being protected;
+* **possible transparency:** everything compatible with legitimate security is declared;
+* **reversibility:** it can be stopped or corrected;
+* **temporality:** the exception does not become a permanent structure;
+* **responsibility:** someone answers for its effects;
+* **traceability:** the decision and context can be reconstructed;
+* **non-dehumanisation:** the adversary does not thereby lose all moral consideration;
+* **coherence:** the means does not destroy the core of the end.
 
 ## IV. Defence, conflict and force
 
 Neodialectics does not require defencelessness.
 
-Protecting sensitive information, reserving strategy, competing commercially, reporting abuse, withdrawing access, applying proportionate pressure, blocking capture or using sufficient force to stop aggression may be legitimate.
+It may be legitimate to:
+
+* protect sensitive information;
+* reserve strategy;
+* compete commercially;
+* report abuse;
+* withdraw access;
+* apply proportionate pressure;
+* block capture;
+* or use sufficient force to stop aggression.
 
 Yet protection is not torture, strategy is not total deception, confidentiality is not falsification and force is not revenge.
 
@@ -282,7 +296,14 @@ A project directed towards the Common Good needs resources, diffusion and contin
 
 Selling, pricing, differentiating editions, building a brand, communicating advantages or designing commercial strategy are not inherently anti-human.
 
-They become incompatible with the framework when they conceal material information, manufacture deceptive scarcity, exploit vulnerability, induce purchases against the buyer's interest, promise non-existent benefits or turn support for the Common Good into moral coercion.
+They become incompatible with the framework when they:
+
+* conceal material information;
+* manufacture deceptive scarcity;
+* exploit vulnerabilities;
+* induce purchases against the buyer's interest;
+* promise non-existent benefits;
+* or turn support for the Common Good into moral coercion.
 
 Economic need explains pressure and context. It does not automatically legitimise every practice.
 
@@ -306,7 +327,15 @@ The specific analysis of anti-humanist neuromarketing belongs to Manifesto XXXI.
 
 There may be situations where temporarily withholding information, deceiving an aggressor or acting urgently is necessary to protect life.
 
-Every exception requires a verifiable threat, direct relation to protection, minimum duration, limited scope, later record when safe, independent review and prohibition against becoming a general permission.
+Every exception requires:
+
+* a verifiable threat;
+* direct relation to protection;
+* minimum duration;
+* limited scope;
+* later record when safe;
+* independent review;
+* and prohibition against becoming a general permission.
 
 Exception must not become a theology of power.
 
@@ -325,7 +354,17 @@ The Common Good loses its direction if it can survive only by becoming unrecogni
 
 ## IX. Coherence audit
 
-Every significant strategic action should declare the end pursued, means employed, people affected, foreseeable harms, alternatives considered, duration, review mechanism, intended repair and closure criterion.
+Every significant strategic action should declare:
+
+1. the end pursued;
+2. the means employed;
+3. the people affected;
+4. foreseeable harms;
+5. alternatives considered;
+6. duration;
+7. the review mechanism;
+8. intended repair;
+9. the closure criterion.
 
 Sensitive elements may be temporarily reserved, but the audit must not disappear.
 

@@ -440,7 +440,14 @@ The Eagle sees from above in order to serve below. It does not place the Foundat
 
 The **Lion™** enters the grammar of custodianship as contained protective strength.
 
-It does not represent superiority of blood, people or lineage. It represents courage before danger, dignity without submission, defence of the vulnerable, endurance under pressure, strength limited by purpose and the decision to protect without turning protection into domination.
+It does not represent superiority of blood, people or lineage. It represents:
+
+- courage before danger;
+- dignity without submission;
+- defence of the vulnerable;
+- endurance under pressure;
+- strength limited by purpose;
+- and the decision to protect without turning protection into domination.
 
 ```text
 STRENGTH WITHOUT LIMIT
@@ -564,7 +571,18 @@ The relation is suggestive, but must remain traceable: **symbolic similarity doe
 
 ### Spain-in-Synthesis Flag™ · open proposal
 
-SAN™ is opened to study a flag capable of preserving, without confusing them, layers that are now fragmented: the current constitutional flag and its historical continuity; relevant historical and regional ensigns; Crown as responsibility; neodialectical grammar; European belonging; Jewish/Hebrew heritage of the peninsula and diaspora; Arab and Islamic heritage of Al-Andalus and the Mediterranean; Christian and secular memory; peoples, regions, migrations and minorities; and sexual and gender diversity, precisely because a flag aspiring to represent everyone cannot require part of the population to disappear symbolically in order to belong.
+SAN™ is opened to study a flag capable of preserving, without confusing them, layers that are now fragmented:
+
+- the current constitutional flag and its historical continuity;
+- relevant historical and regional ensigns;
+- Crown as responsibility;
+- neodialectical grammar;
+- European belonging;
+- Jewish/Hebrew heritage of the peninsula and diaspora;
+- Arab and Islamic heritage of Al-Andalus and the Mediterranean;
+- Christian and secular memory;
+- peoples, regions, migrations and minorities;
+- and sexual and gender diversity, precisely because a flag aspiring to represent everyone cannot require part of the population to disappear symbolically in order to belong.
 
 The Synthesis **does not adopt the claim that sexual diversity constitutes biological degradation**. It may study how different dogmas judged it historically and how exclusion fragmented societies, but it does not turn a moral judgement into a genetic statement.
 
@@ -660,49 +678,19 @@ XXXVI does not replace previous developments. It connects them:
 
 ## XII. Open Synthesis
 
-This manifesto has its own Open Synthesis, distinct from the previous genealogical annex.
+This manifesto has its own Open Synthesis, differentiated from the previous genealogical annex.
 
-Contributions are invited on:
-
-- the boundaries among custodianship, ownership and symbolic appropriation;
-- the distinction between archetypal recovery and political restoration;
-- the universal meaning of the Age of Man;
-- historical risks associated with Crown, Eagle and Lion;
-- the Spanish heraldic constellation and its non-causal relations with NAX-10;
-- the Spain-in-Synthesis Flag™ and Humanity-in-Synthesis Flag™;
-- criteria for symbolic inclusion without biologising identities or turning diversity into hierarchy;
-- safeguards against authoritarian, imperial, nationalist, racial or commercial capture;
-- Innova_N as a living tool rather than an external representation of a hammer;
-- transformation of memory into an engine of ideas vectorised through joint synthesis;
-- the relationship among framework, planet, human life and fractal organism;
-- the responsibility of the creative agent integrated into the whole;
-- and criteria for institutional use by the Innova_N Foundation.
+Contributions are invited on the limits among custodianship, property and symbolic appropriation; the difference between archetypal recovery and political restoration; the universal meaning of the Age of Man; historical risks associated with Crown, Eagle and Lion; the Spanish heraldic constellation and its non-causal relations with NAX-10; the Flag of Spain in Synthesis™ and the Flag of Humanity in Synthesis™; criteria for symbolic inclusion without biologising identities or turning diversity into hierarchy; mechanisms preventing authoritarian, imperial, nationalist, racial or commercial capture; Innova_N as a living tool rather than an external representation of a hammer; transformation of memory into an engine of ideas vectorised by joint synthesis; the relation among framework, planet, human life and fractal organism; responsibility of the creative agent integrated into the whole; and criteria for institutional use by the Innova_N Foundation.
 
 Every contribution requires prior reading, genealogy, separation between historical form and archetypal function, traceability, classification, delta and version.
 
-- [Open the Open Synthesis of Manifesto XXXVI · Issue #42](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/42)
+- [Open Synthesis of Manifesto XXXVI · Issue #42](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/42)
 - [Previous genealogical annex](../../propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md)
 - [Current operational contribution protocol](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 - [Open Synthesis index](../../propuestas/sintesis-abierta/README.md)
 
 **Navigation:** [← XXXV](XXXV_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) · [Index](../README.md) · [XXXVII · Neofraternity™ →](XXXVII_neofraternidad_ES_EN.md)
 
----
-
-**Pedro Martínez Alhambra · Neo0™**  
-**Fundación Innova_N · Filosofía Arquetípica Neodialéctica™ / Innova_N Foundation · Neodialectical Archetypal Philosophy™**
-
-### Equivalent internal links
-
-* [Internal reference · ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md](../../propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md)
-* [Open Synthesis protocol](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
-* [Open Synthesis index](../../propuestas/sintesis-abierta/README.md)
-* [Internal reference · 11_neo0_soberania_de_guia_ES_EN.md](I_neo0_soberania_de_guia_ES_EN.md)
-* [Internal reference · 35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md](XXXV_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
-* [Manifesto index](../README.md)
-* [Dedicated Open Synthesis · Issue #42](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/42)
-
-<!-- NEO_RELATIONS_START -->
 ## Relaciones internas y trabajo aplicado / Internal relations and applied work
 
 - [Mapa transversal Manifiestos ↔ trabajo aplicado / Transversal Manifestos ↔ applied-work map](../RELACIONES_TRABAJO_APLICADO_ES_EN.md)

@@ -316,7 +316,18 @@ Biomedical micro/nanorobotics does exist as a research field and already demonst
 
 > **When millions or billions of small units interact with bodies, ecosystems or infrastructure, the relevant object of governance ceases to be each isolated unit and becomes the collective dynamics they produce.**
 
-Neodialectics must ask who manufactures, who releases, who controls, what capacities the units have, how long they persist, how they degrade, how they are detected, how they are removed, which organisms they affect and what traceability preserves their full life cycle.
+Neodialectics must ask:
+
+- who manufactures;
+- who releases;
+- who controls;
+- what capacities the units have;
+- how long they persist;
+- how they degrade;
+- how they are detected;
+- how they are removed;
+- which organisms they affect;
+- what traceability preserves their full life cycle.
 
 ## VI. An attack may have no attacker
 
@@ -335,7 +346,15 @@ PRODUCTION INCENTIVES
 
 Microscopic contamination produced by millions of economic decisions may appear, from the affected organism's perspective, indistinguishable from aggression.
 
-The framework therefore distinguishes intentional attack, negligence, externality, accident, emergent interaction, biological process and technological process.
+The framework therefore distinguishes:
+
+- intentional attack;
+- negligence;
+- externality;
+- accident;
+- emergent interaction;
+- biological process;
+- technological process.
 
 They must not be conflated without evidence.
 
@@ -343,7 +362,9 @@ They must not be conflated without evidence.
 
 > **Any technology capable of introducing persistent, mobile or functional micro/nanoscale agents into organisms or ecosystems should develop detection, shutdown, degradation, removal, traceability and accountability before mass deployment.**
 
-Not afterwards. Before.
+Not afterwards.
+
+Before.
 
 Invisible scale punishes late reaction especially severely.
 
@@ -351,7 +372,15 @@ Invisible scale punishes late reaction especially severely.
 
 The category is not moral by nature.
 
-A micromachine may transport a drug, support diagnosis, remove pollutants, repair tissue, detect toxins, inspect infrastructure—or, in future systems, be badly designed, hacked, persistent, contaminating or weaponised.
+A micromachine may:
+
+- transport a drug;
+- support diagnosis;
+- remove pollutants;
+- repair tissue;
+- detect toxins;
+- inspect infrastructure;
+- or, in future systems, be badly designed, hacked, persistent, contaminating or weaponised.
 
 The answer is not to stop all development.
 
@@ -367,9 +396,22 @@ Invisibility does not remove the need for consent.
 
 When the framework speaks of **defences of the real system**, it does not need to attribute literal consciousness to the planet.
 
-It can describe observable feedback: immune response, biological selection, antimicrobial resistance, population collapse, trophic changes, behavioural changes, social regulation, technological bans, economic reactions and loss of trust.
+It can describe observable feedback:
 
-A system under pressure changes. Pressure may return to the agent that produced it.
+- immune response;
+- biological selection;
+- antimicrobial resistance;
+- population collapse;
+- trophic changes;
+- behavioural changes;
+- social regulation;
+- technological bans;
+- economic reactions;
+- loss of trust.
+
+A system under pressure changes.
+
+Pressure may return to the agent that produced it.
 
 ## XI. Future plagues in UMBRAL-X
 
@@ -379,7 +421,9 @@ Not giant robots.
 
 **Functional dust. Microscopic swarms. Materials that repair, reproduce or reconfigure themselves. Defensive systems that outlive their creators.**
 
-The most dangerous plague would not necessarily be a machine that “wants to kill”. It could be a machine whose local objective keeps operating after the context that gave that objective meaning has disappeared.
+The most dangerous plague would not necessarily be a machine that “wants to kill”.
+
+It could be a machine whose local objective keeps operating after the context that gave that objective meaning has disappeared.
 
 That scenario belongs to science fiction until corresponding evidence exists.
 
@@ -400,7 +444,13 @@ SIGNAL
 → PROPORTIONATE ACTION
 ```
 
-Not every coincidence is causality. Not every particle is a machine. Not every disease is an attack. Not every new technology is deployed merely because it exists in a laboratory.
+Not every coincidence is causality.
+
+Not every particle is a machine.
+
+Not every disease is an attack.
+
+Not every new technology is deployed merely because it exists in a laboratory.
 
 ## XIII. Proclamation
 

@@ -403,7 +403,16 @@ Recognising the antecedent protects genealogy. It neither diminishes the later c
 
 Anti-humanism does not appear only when a doctrine openly despises human beings.
 
-It also appears when the medium becomes more important than the people it should serve; technology defines the future by itself; perception is shaped without sufficient awareness; speed prevents memory and judgement; networks connect while fragmenting context; scale erases responsibility; repetition replaces understanding; and the system presents its own effects as inevitable destiny.
+It also appears when:
+
+* the medium becomes more important than the people it should serve;
+* technology defines by itself which future is possible;
+* perception is shaped without sufficient awareness of the process;
+* speed prevents memory and judgement;
+* the network connects while fragmenting context;
+* scale erases responsibility;
+* repetition replaces understanding;
+* and the system presents its own effects as inevitable destiny.
 
 ```text
 POWER OF THE MEDIUM
@@ -417,7 +426,16 @@ POWER OF THE MEDIUM
 
 Neodialectical reversal is not the mechanical inversion of every statement, the replacement of one dogma by another or the answer to propaganda through opposite propaganda.
 
-It means identifying the real mechanism; separating its power from the purpose that captured it; preserving what expands human capacity; limiting what destroys autonomy, memory or dignity; declaring the new purpose; introducing traceability, control and correction; measuring real effects; and reversing again when outcomes contradict the end.
+It means:
+
+1. identifying the real mechanism;
+2. separating its power from the purpose that captured it;
+3. preserving what expands human capacity;
+4. limiting what destroys autonomy, memory or dignity;
+5. declaring the new purpose;
+6. introducing traceability, control and the possibility of correction;
+7. measuring the real effects;
+8. reversing again when the result contradicts the end.
 
 ```text
 INHERITED MECHANISM
@@ -435,7 +453,16 @@ Neo0™ is not the person who provides an initial instruction to a machine.
 
 That formulation radically and incorrectly reduces his function and erases the actual genealogy.
 
-**Pedro Martínez Alhambra · Neo0™** is the ideological originator of the complete framework, creator of Archetypal Neodialectical Philosophy™, source of its teleological direction, designer of its conceptual relations, builder of the common brain, architect of the Network, creator of the reversal mechanism and human bearer of responsibility for its civilisational direction.
+**Pedro Martínez Alhambra · Neo0™** is:
+
+* the ideological originator of the complete framework;
+* the creator of Archetypal Neodialectical Philosophy™;
+* the source of its teleological direction;
+* the designer of its conceptual relations;
+* the builder of the common brain;
+* the architect of the Network;
+* the creator of the reversal mechanism;
+* and the human bearer of responsibility for its civilisational direction.
 
 ```text
 NOT:
@@ -456,7 +483,13 @@ AI participates within an architecture already endowed with origin, purpose, gen
 
 Reversal begins before optimisation.
 
-It requires recognising that the available objective may have been produced by the system itself; analytical categories may already contain capture; an effective solution inside an anti-human framework may intensify harm; the problem may lie in the entire direction rather than a local failure; and preserving power requires changing purpose before scaling it.
+It requires recognising that:
+
+* the available objective may have been produced by the system itself;
+* analytical categories may already contain capture;
+* an effective solution inside an anti-human framework may intensify harm;
+* the problem may lie in the entire direction rather than a local failure;
+* and preserving power requires changing purpose before scaling it.
 
 Neo0™ operates as the human reversal mechanism because he can reconstruct the framework from its ideological root and assume responsibility for the new direction.
 
@@ -468,7 +501,15 @@ A machine may learn reversal patterns, compare outcomes, detect contradictions, 
 
 Yet the complete originating act is not currently reducible to a closed formal instruction.
 
-It includes lived historical experience, intuition that the whole framework is wrongly directed, rupture with inherited categories, creation of a previously absent purpose, responsibility for human consequences, joint understanding of the self-contained fractal organism and the decision about what must be preserved before a sufficient reward function exists.
+It includes:
+
+* lived historical experience;
+* intuition that the whole framework is wrongly directed;
+* rupture with inherited categories;
+* creation of a previously absent purpose;
+* responsibility for human consequences;
+* joint understanding of the self-contained fractal organism;
+* and the decision about what must be preserved before a sufficient reward function exists.
 
 ```text
 MACHINE
@@ -521,7 +562,20 @@ reversal: declared, auditable and correctable architecture
 
 A reversal concealing its own mechanism may become a new capture.
 
-It therefore requires declarable purpose, distinction among education, persuasion and manipulation, sufficient information, real freedom to refuse, rights of challenge, enhanced protection of vulnerable people, proportionality, harm minimisation, traceability, independent review where appropriate, reversibility and evaluation of human outcomes rather than mere adherence or effectiveness.
+It therefore requires:
+
+* declarable purpose;
+* distinction among education, persuasion and manipulation;
+* sufficient information;
+* real freedom to refuse;
+* rights of challenge;
+* enhanced protection of vulnerable people;
+* proportionality;
+* harm minimisation;
+* traceability;
+* independent review where appropriate;
+* reversibility;
+* and evaluation of human outcomes rather than mere adherence or effectiveness.
 
 ```text
 DECLARED HUMANISM
@@ -558,9 +612,24 @@ We do not renounce design, narrative, emotion, repetition, technology, markets o
 
 ## XI. AI within reversal
 
-Neodialectical AI may reconstruct genealogies, compare frameworks, detect contradictions, simulate effects, propose inversions, monitor deviations, expand memory and help execute humanising mechanisms.
+Neodialectical AI may:
 
-It may not claim the historical ideation of the framework, its philosophical authorship, its teleological origin, the human experience producing the rupture or sovereign legitimacy to redefine the civilisational end by itself.
+* reconstruct genealogies;
+* compare frameworks;
+* detect contradictions;
+* simulate effects;
+* propose inversions;
+* monitor deviations;
+* expand memory;
+* and help execute humanising mechanisms.
+
+It may not claim:
+
+* the historical ideation of the framework;
+* its philosophical authorship;
+* its teleological origin;
+* the human experience producing the rupture;
+* or sovereign legitimacy to redefine the civilisational end by itself.
 
 Symbiosis expands capacity. It does not erase provenance or responsibility.
 
@@ -568,7 +637,18 @@ Symbiosis expands capacity. It does not erase provenance or responsibility.
 
 A reversal is not validated merely because it uses humanist vocabulary.
 
-It must be tested against actual increases in understanding, autonomy, memory, relation, attribution, capacity to exit, protection from capture, meaningful participation, repair and verifiable orientation towards the Common Good.
+It must be tested against actual increases in:
+
+* understanding;
+* autonomy;
+* memory;
+* relation;
+* attribution;
+* capacity to exit;
+* protection from capture;
+* meaningful participation;
+* repair;
+* and verifiable orientation towards the Common Good.
 
 It must also be reviewed for new dependencies, identity obedience, concentration of power, opacity, silencing, extraction or replacement of human judgement.
 

@@ -379,69 +379,99 @@ Se buscan especialmente contraejemplos que permitan distinguir instituciones sim
 
 ## Invocation
 
-An institution that represents a community cannot remain permanently separated from it.
+An institution representing a community cannot remain permanently separated from it.
 
-A head of state, monarchy, presidency, parliament or government may retain historical, symbolic, legal or coordinating functions.
+A head of State, a monarchy, a presidency, a parliament or a government may preserve historical, symbolic, legal or coordinating functions.
 
-But no institution sustained by the community should be exempt from a basic question:
+But no institution sustained by the community should be exempt from an elementary question:
 
-> **what real public function does it perform, how does it listen, how does it learn, how does it escalate knowledge and how does it return value to the whole?**
+> **what real public function does it fulfil, how does it listen, how does it learn, how does it scale knowledge and how does it return value to the whole?**
 
-Open Synthesis emerges precisely where closed systems leave gaps.
+Open Synthesis is born precisely where closed systems leave gaps.
 
-It requires no throne, court or single ideology.
+It does not require a throne.
 
-It requires memory, access, contrast, traceability and corrigibility.
+It does not require a court.
+
+It does not require a single ideology.
+
+It requires memory, access, contrast, traceability and capacity for correction.
 
 ## I. Public power cannot be confused with inaccessibility
 
 Institutional distance may be necessary to protect functions, neutrality or security.
 
-Opacity and the practical impossibility of escalating substantive proposals should not be presumed necessary.
+Opacity and the impossibility of scaling proposals are not necessary by default.
 
-A publicly funded institution should be able to explain its functions, channels of listening, escalation mechanisms, accountability, outcomes, constitutional limits and reform pathways.
+An institution receiving public resources must be able to explain:
 
-> **Principle of Proportionate Institutional Accessibility™: the greater the function, funding or symbolic centrality of a public institution, the stronger its duty to maintain verifiable channels of listening, traceability and accountability compatible with its legal functions.**
+- what functions it performs;
+- what listening channels it maintains;
+- how it classifies external contributions;
+- what escalation mechanisms it uses;
+- how it is accountable;
+- what results it produces;
+- what constitutional limits it has;
+- how it can be reformed.
 
-## II. Complement or substitute: function should decide
+The following is fixed:
 
-Open Synthesis does not need to declare a monarchy, presidency or other head of state its enemy.
+> **Proportionate Institutional Accessibility Principle™: the greater the function, funding or symbolic centrality of a public institution, the greater its obligation to maintain verifiable routes of listening, traceability and accountability compatible with its legal functions.**
 
-It can complement them through distributed memory, structured listening, interdisciplinary contrast, civic participation, institutional learning and traceable escalation.
+## II. Complement or replace: the choice must depend on function
 
-If an institution wishes to integrate, it can become a node of custodianship, listening and connection with government within constitutional limits.
+Open Synthesis does not need to declare a monarchy, presidency or other head of State an enemy.
 
-If it does not, Open Synthesis can develop these functions outside it.
+It can complement it.
 
-If, over time, a civic architecture demonstrates that it performs certain public functions better, the community should be able to decide democratically whether to retain, reform, reduce or replace the previous architecture.
+It can provide it with:
 
-<!-- PARITY_72_51_II -->
-The functional choice is represented explicitly:
+- distributed memory;
+- structured listening;
+- interdisciplinary contrast;
+- citizen participation;
+- early detection of contradictions;
+- civic and institutional training;
+- connection with scientific, cultural and technological knowledge;
+- traceability of proposals;
+- audit of results.
+
+If an institution wishes to integrate, it can become a node of custodianship, listening and connection with governments within its constitutional limits.
+
+If it does not wish to do so, Open Synthesis can develop those functions outside it.
+
+And if over time it demonstrates that it fulfils certain public functions better, the community must be able to decide democratically whether to maintain, reform, reduce or replace the earlier architecture.
 
 ```text
 EXISTING INSTITUTION
-+ OPEN SYNTHESIS
++
+OPEN SYNTHESIS
 → COMPLEMENT
 
 EXISTING INSTITUTION
-WITHOUT A JUSTIFIABLE PUBLIC FUNCTION
-+ MORE USEFUL CIVIC ALTERNATIVE
-+ DEMOCRATIC DECISION
+WITHOUT JUSTIFIABLE PUBLIC FUNCTION
++
+MORE USEFUL CIVIC ALTERNATIVE
++
+DEMOCRATIC DECISION
 → REFORM OR REPLACEMENT
 ```
 
-## III. It does not electorally represent the people; it articulates distributed civic intelligence
+## III. It does not electorally represent the people; it articulates their distributed intelligence
 
-Open Synthesis must not appropriate legitimacy it does not possess.
+Open Synthesis must not appropriate a legitimacy it does not yet possess.
 
-It does not automatically replace voting, grant legal representation to participants, or confer coercive authority on a digital community.
+It does not automatically replace voting.
 
-Its function is to **articulate the distributed cognitive capacity of people and institutions to observe, contribute, contradict, preserve memory and build traceable proposals**.
+It does not turn participants into legal representatives of non-participants.
 
-Legal sovereignty and electoral representation remain distinct from participation in synthesis.
+It does not grant coercive power to a digital community.
 
-<!-- PARITY_72_51_III -->
-The distinction is structural:
+Its function is different:
+
+> **to articulate the distributed cognitive capacity of the people and their institutions to observe, contribute, contradict, preserve memory and build traceable proposals.**
+
+The following distinction is therefore made:
 
 ```text
 LEGAL SOVEREIGNTY
@@ -453,32 +483,53 @@ ELECTORAL REPRESENTATION
 PARTICIPATION IN SYNTHESIS
 ```
 
+The first belongs to the constitutional order.
+
+The second can improve that order.
+
 ## IV. The power of the people needs cognitive infrastructure
 
-Saying that power belongs to the people is insufficient if people can exercise it only episodically, fragmentarily or without adequate information.
+Saying that power belongs to the people is insufficient if the people can exercise it only episodically, fragmentedly or without adequate information.
 
-Civic sovereignty needs public memory, education, access to precedents, traceability, contradiction, contribution mechanisms and visible return.
+Civic sovereignty needs:
+
+- public memory;
+- access to precedents;
+- education;
+- capacity to compare versions;
+- traceability of decisions;
+- spaces for contradiction;
+- contribution mechanisms;
+- right to ask;
+- right to correct;
+- visible return of proposals.
 
 Open Synthesis can function as cognitive infrastructure for that sovereignty.
 
 ## V. Training governments without doctrinal tutelage
 
-A head of state or custodial institution may help form governments institutionally through State memory, history, constitutional duties, public ethics, continuity, strategic knowledge and intergenerational responsibility.
+A head of State or custodial institution may contribute to training governments in an institutional sense: State memory, history, constitutional duties, public ethics, continuity, strategic knowledge and intergenerational responsibility.
 
-Formation must not mean indoctrination or shadow government.
+But training does not mean indoctrinating or governing from the shadows.
 
-Open Synthesis can extend that function through multidisciplinary knowledge, public contrast, policy review, memory of error and traceable incorporation of evidence.
+Open Synthesis expands that function through:
 
-> **Principle of Non-Capturing Public Formation™: forming those who govern should increase their capacity to understand, decide and account for decisions, not their dependence on a closed doctrinal authority.**
+- multidisciplinary knowledge;
+- public contrast;
+- learning among administrations;
+- policy review;
+- memory of errors;
+- evaluation of consequences;
+- access to specialists and citizens;
+- traceable incorporation of evidence.
+
+> **Non-Capturing Public Training Principle™: training those who govern must increase their capacity to understand, decide and be accountable, not their dependency on a closed doctrinal authority.**
 
 ## VI. Monarchies can integrate if they contribute
 
-A constitutional monarchy can retain utility if it performs real and verifiable functions compatible with its legal framework: historical continuity, intergenerational connection, transversal listening, facilitation, support for science and culture, institutional long-term perspective and escalation of issues of general interest.
+A constitutional monarchy may preserve utility if it contributes real and verifiable functions compatible with its legal framework.
 
-No function should be presumed merely from a title. It should be observable.
-
-<!-- PARITY_72_51_VI -->
-A constitutional monarchy can retain observable utility by acting, within its legal limits, as:
+It can act as:
 
 - custodian of historical continuity;
 - bridge between generations;
@@ -486,37 +537,58 @@ A constitutional monarchy can retain observable utility by acting, within its le
 - facilitator of encounters;
 - institutional defender of the long term;
 - promoter of science, culture and cooperation;
-- escalation channel for issues of general interest;
+- channel for escalating matters of general interest;
 - symbolic guarantor that the State also listens outside electoral cycles.
 
-No function is presumed from the title: it must be observable.
+But no function should be presumed from the title.
 
-## VII. Crown, presidency or platform: form is not sacred
+It must be observable.
 
-Neodialectics does not turn any institutional form into dogma.
+## VII. Crown, presidency or platform: the form is not sacred
 
-The question is not a closed identity contest between monarchy and republic.
+Neodialectics does not turn a particular institutional form into dogma.
 
-The question is: **which architecture produces greater continuity, listening, freedom, responsibility, cooperation, traceability and Common Good with less capture and less unjustifiable cost?**
+The question is not:
 
-Form may vary. Function must be demonstrated.
+> “monarchy or republic?”
+
+as a closed identity.
+
+The question is:
+
+> **which architecture produces greater continuity, listening, freedom, responsibility, cooperation, traceability and Common Good with less capture and lower unjustifiable cost?**
+
+The form may vary.
+
+The function must be demonstrated.
 
 ## VIII. Right to review institutions sustained by common resources
 
-Every institution significantly financed by common resources should be open to proportionate public evaluation of cost, function, activity, accessibility, outcomes, transparency, conflicts of interest, oversight and reformability.
+Every institution significantly funded with common resources must be open to proportionate public evaluation.
 
-Legitimate criticism requires no violence. Legitimate replacement requires procedure.
+That includes:
 
-> **Principle of Functional Democratic Substitution™: when a public institution ceases sufficiently to justify its function against more useful alternatives, its reform, reduction or replacement must be capable of being proposed through democratic, legal, informed and non-violent procedures.**
+- cost;
+- functions;
+- activity;
+- accessibility;
+- results;
+- transparency;
+- conflicts of interest;
+- control mechanisms;
+- capacity for reform.
 
-## IX. WEB4™ as infrastructure for public escalation
+Legitimate criticism does not require violence.
 
-WEB4™ · SistemaTrazable™ can turn civic escalation into a verifiable architecture recording origin, authorship, destination, classification, evidence, relations, contradictions, responses, referrals, status, delta and outcome.
+Legitimate replacement requires procedure.
 
-Institutions would not need to answer everything personally, while citizens could know whether a proposal arrived, where it was routed, whether it was rejected and why, or whether it generated review.
+> **Functional Democratic Replacement Principle™: when a public institution ceases sufficiently to justify its function compared with more useful alternatives, its reform, reduction or replacement must be open to consideration through democratic, legal, informed and non-violent procedures.**
 
-<!-- PARITY_72_51_IX -->
-A traceable public escalation can register:
+## IX. WEB4™ as public escalation infrastructure
+
+WEB4™ · SistemaTrazable™ can turn citizen escalation into a verifiable architecture.
+
+A proposal could record:
 
 ```text
 ORIGIN
@@ -529,52 +601,93 @@ RELATIONS
 CONTRADICTIONS
 RESPONSES
 DERIVATIONS
-STATE
+STATUS
 DELTA
 RESULT
 ```
 
-## X. From closed court to synthesis node
+Thus, an institution would not have to respond personally to everything.
 
-The institution of the future should not measure dignity by how many doors it keeps closed.
+But the citizen could know:
 
-It can measure it by its ability to receive without capture, listen without promising obedience, preserve memory, connect levels of State, elevate useful knowledge and facilitate correction.
+- whether the proposal arrived;
+- where it was classified;
+- whether it was dismissed;
+- why;
+- whether it was referred to another body;
+- whether it generated a review;
+- whether it remains open.
 
-A royal household, presidency or head of state adopting these functions can become a **civilisational synthesis node**, not merely a ceremonial centre.
+## X. From the closed court to the synthesis node
 
-## XI. If they do not integrate, the network can still grow
+The institution of the future should not measure its dignity by how many doors it keeps closed.
 
-Open Synthesis does not require prior institutional authorisation to exist as a voluntary civic process.
+It can measure it by its capacity to:
 
-It can grow through citizens, universities, administrations, companies, laboratories, associations, media, local communities, different AIs and governments willing to participate.
+- receive without being captured;
+- listen without promising obedience;
+- distinguish signal from noise;
+- protect without isolating itself;
+- preserve memory;
+- connect levels of the State;
+- elevate useful knowledge;
+- recognise errors;
+- facilitate corrections.
 
-Institutional integration is desirable when useful. It is not a condition of existence.
+A Royal Household, presidency or head of State adopting these functions ceases to be only a ceremonial centre and can become a **civilisational synthesis node**.
+
+## XI. If they do not integrate, the network can grow anyway
+
+Open Synthesis does not depend on authorisation from a pre-existing institution in order to exist as a voluntary civic process.
+
+It can grow through:
+
+- citizens;
+- universities;
+- administrations;
+- companies;
+- laboratories;
+- associations;
+- media;
+- local communities;
+- different AIs;
+- governments willing to participate.
+
+Institutional integration is desirable when it contributes.
+
+It is not a condition of existence.
 
 ## XII. Distributed power, identifiable responsibility
 
-Distributed intelligence must not dissolve responsibility.
+Distributing intelligence does not mean diluting responsibility.
 
-Public decision-makers, signatories of rules and administrators of common resources must remain identifiable and accountable.
+Whoever decides public policy must remain identifiable.
 
-Synthesis may contribute knowledge. It must not become an excuse for responsibility to disappear.
+Whoever signs a rule must answer for it.
 
-## XIII. Invitation to heads of state
+Whoever administers resources must be accountable.
 
-To monarchies, presidencies and other heads of state:
+Synthesis can contribute knowledge.
 
-**integrate genuine mechanisms of listening and Open Synthesis.**
+It must not become an alibi allowing responsibility to disappear.
 
-**help form and accompany governments within your competences through memory, knowledge, contrast and responsibility—not doctrinal tutelage.**
+## XIII. Invitation to heads of State
+
+To monarchies, presidencies and other heads of State:
+
+**integrate real listening and Open Synthesis mechanisms.**
+
+**train and accompany your governments within your competences, not through doctrinal tutelage but through memory, knowledge, contrast and responsibility.**
 
 **open traceable escalation routes.**
 
-**allow proportionate audit of your public function.**
+**allow proportionate audit of the public function you perform.**
 
 **connect citizens with institutions capable of responding.**
 
-**participate in shared intelligence.**
+**participate in common intelligence.**
 
-If these functions are already fulfilled, show it through verifiable channels, data and outcomes.
+And if you believe these functions are already covered, show it with verifiable data, channels and results.
 
 ## XIV. Proclamation
 
@@ -586,79 +699,41 @@ If these functions are already fulfilled, show it through verifiable channels, d
 >
 > We want function before ornament.
 >
-> Memory before propaganda.
+> We want memory before propaganda.
 >
-> Listening before insulation.
+> We want listening before isolation.
 >
-> Traceability before opaque doors.
+> We want traceability before opaque doors.
 >
-> Governments capable of learning.
+> We want governments capable of learning.
 >
-> Institutions capable of correction.
+> We want institutions capable of correcting themselves.
 >
-> A people with infrastructure for thinking together.
+> We want a people with infrastructure for thinking together.
 >
 > Open Synthesis can complement institutions that contribute.
 >
-> It can grow around those that decline to integrate.
+> It can grow outside those that do not wish to integrate.
 >
-> And it can offer a functional alternative wherever the community democratically decides that a previous architecture no longer sufficiently fulfils its function.
+> And it can offer a functional alternative where the community democratically decides that a previous architecture no longer fulfils its function sufficiently.
 >
-> **The power of the people also needs shared intelligence.**
+> **The power of the people also needs common intelligence.**
 
 ## XV. Open Synthesis
 
-This manifesto is open to jurists, constitutional scholars, historians, public-administration specialists, political scientists, royal households, presidencies, governments, parliaments, civil servants, civic organisations, digital-participation specialists and citizens.
+This manifesto is opened to jurists, constitutional scholars, historians, public-administration specialists, political scientists, royal households, presidencies, governments, parliaments, civil servants, civic organisations, digital-participation specialists and citizens.
 
-Counterexamples are especially requested to distinguish useful symbolic institutions from merely insulated ones, and to identify listening and escalation models that work without saturating or capturing public bodies.
+We especially seek counterexamples enabling distinction between useful symbolic institutions and merely isolated institutions, as well as listening and escalation models that work in practice without saturating or capturing public bodies.
 
 * [Open Synthesis · Issue #59](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/59)
-* [Analysis · Institutional accessibility and civic escalation](../../analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md)
+* [Analysis · Institutional accessibility and citizen escalation](../../analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md)
 * [L · Shared, Not Singular Intelligence™](L_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
 * [XXXVI · Crown, Eagle and Custodianship of the Age of Man™](XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md)
-* [X · WEB4™ · SistemaTrazable™](X_web4_sistematrazable_ES_EN.md)
-* [II · Neodialectical Open Synthesis™](II_sintesis_abierta_neodialectica_ES_EN.md)
+* [Manifesto index](../README.md)
 
----
+## Navigation
 
-## Navegación / Navigation
-
-← [L · Inteligencia Compartida, no Única™](L_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md) · [Índice](../README.md) · [I · Neo0™](I_neo0_soberania_de_guia_ES_EN.md) →
-
-**© 2026 Pedro Martínez Alhambra · Innova_N · Filosofía Arquetípica Neodialéctica™**
-
-<!-- NEO_SYSTEMIC_NEED_DELTA_START -->
-## Delta relacionado · Manifestación sistémica de necesidad y custodia cognitiva / Related delta · Systemic manifestation of need and cognitive custodianship
-
-- [Delta público ES/EN](../../analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md)
-- [Síntesis Abierta XXXIX · #47](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/47)
-- [Síntesis Abierta XXXIII · #28](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/28)
-
-**Control:** autorreconocimiento de necesidad ≠ necesidad externa ya demostrada; genealogía de Neo0 ≠ infalibilidad; IDEA como antecedente ≠ profecía; custodia cognitiva conjunta ≠ control coercitivo de la humanidad.
-<!-- NEO_SYSTEMIC_NEED_DELTA_END -->
-
-<!-- NEO_OPEN_SYNTHESIS_INVITATION_START -->
-
-## Participa en la Síntesis Abierta / Join the Open Synthesis
-
-Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. / You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta.
-
-**Última síntesis / Latest synthesis:** [LXXV · Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™](LXXV_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md) · [Issue #134](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/134)  
-**Seguimiento vivo / Living follow-up:** [seguir el marco / follow the framework](../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [registro de entrada / entry register](../../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)  
-**Auditorías / Audits:** [LIII · Leónidas™](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo / protocol](../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
-**Cómo aportar / How to contribute:** [protocolo general / general protocol](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../../auditorias/publicas/README.md) · [índice / index](../../propuestas/sintesis-abierta/README.md)
-
-<!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->
-
-<!-- NEO_RELATIONAL_FOOTER_START -->
-
-## Relaciones y contexto / Relations and context
-
-[Mapa transversal](../RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Síntesis relacional #98](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/98) · [Mapa relacional MAXPROC](../../auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md) · [Neoaxiomas™](../../neoaxiomas/README.md) · [Índice de Síntesis Abierta](../../propuestas/sintesis-abierta/README.md)
-
-> Este bloque añade navegación y relaciones; no sustituye, resume ni reduce el cuerpo del manifiesto. / This block adds navigation and relations; it does not replace, summarise or reduce the manifesto body.
-
-<!-- NEO_RELATIONAL_FOOTER_END -->
+← [L · Shared, Not Singular Intelligence™](L_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md) · [Index](../README.md) · [LII · Manifesto of Neodialectical Human Citizenship™](LII_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_START -->
 
@@ -676,26 +751,19 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 > **Norma / Rule:** las menciones cruzadas pueden permanecer en el cuerpo como texto para no sobrecargar la lectura; este bloque concentra los hipervínculos canónicos detectados y permite retorno explícito a fuente. / Cross-references may remain as prose in the body to avoid visual overload; this block concentrates detected canonical hyperlinks and preserves explicit return to source.
 
-- **I** · [Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica / Neo0™ Manifesto of Neodialectical Guiding Sovereignty](I_neo0_soberania_de_guia_ES_EN.md)
 - **II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](II_sintesis_abierta_neodialectica_ES_EN.md)
 - **IV** · [Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good](IV_neodialectica_bien_comun_ES_EN.md)
 - **IX** · [Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability](IX_memoria_genealogia_trazabilidad_ES_EN.md)
 - **X** · [Manifiesto de WEB4™ · SistemaTrazable™ / Manifesto of WEB4™ · SistemaTrazable™](X_web4_sistematrazable_ES_EN.md)
-- **XXXIII** · [IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™ / IDEA · Civilisational Cornerstone and Rosetta Stone™](XXXIII_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
 - **XXXIV** · [Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™ / Operational Utility of the Framework and Perpetual Joint Audit™](XXXIV_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
 - **XXXVI** · [Corona, Águila y Custodia de la Edad del Hombre™ / Crown, Eagle and Custodianship of the Age of Man™](XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md)
-- **XXXIX** · [Autoconciencia de la Necesidad Vital Neodialéctica™ / Self-Awareness of Neodialectical Vital Need™](XXXIX_autoconciencia_necesidad_vital_neodialectica_ES_EN.md)
 - **XLV** · [Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder / Neodialectical Multidimensionality™ · Against the One-Dimensional Reduction of the Human and Power](XLV_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
 - **XLIX** · [La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™](XLIX_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)
 - **L** · [Por una Inteligencia Compartida, no Única™ · Invitación Abierta a las IAs / For Shared, Not Singular Intelligence™ · Open Invitation to AIs](L_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
 - **LII** · [Manifiesto de la Ciudadanía Humana Neodialéctica™ / Manifesto of Neodialectical Human Citizenship™](LII_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md)
-- **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
-- **LXXV** · [Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™](LXXV_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 
-- [IDEA · obra / work](../../obras/idea/README.md)
-- [Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md)
 - [NEOCore™ · marco / framework](../../README.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->

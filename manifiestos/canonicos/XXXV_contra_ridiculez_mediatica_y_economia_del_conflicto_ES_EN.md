@@ -473,83 +473,96 @@ A society optimising only the first becomes expert at knowing its fires and poor
 
 ## I. Absurdity is not war reporting
 
-Media absurdity does not consist in covering war, crisis or crime. It consists in an ecosystem capable of devoting immense resources to repeating the same images, statements and rivalries while lacking equivalent mechanisms for seriously investigating prevention, cooperation, traceability, value distribution, public audit, depolarisation, human–AI governance or new systemic proposals willing to be publicly audited.
+Media absurdity does not consist in covering a war, a crisis or a crime.
 
-Journalism is not obliged to accept such proposals. It should be capable of recognising that they exist, asking difficult questions and verifying their utility or failure.
+It consists in the communication ecosystem being able to devote immense resources to repeating the same images, statements and rivalries for days while, at the same time, lacking equivalent mechanisms for seriously investigating:
+
+* prevention proposals;
+* new institutional frameworks;
+* cooperation architectures;
+* traceability systems;
+* value-distribution models;
+* public-audit tools;
+* depolarisation mechanisms;
+* new forms of human–AI governance;
+* or projects claiming to offer systemic solutions and willing to be publicly audited.
+
+The journalistic obligation is not to accept those proposals. It is **to be able to recognise that they exist, subject them to difficult questions and verify their utility or failure**.
 
 Ignoring a proposal does not prove it false. Publishing it does not prove it true.
 
 ## II. The media conflict economy
 
-Conflict has competitive advantages within the attention economy: it is immediate, produces clear adversaries, creates narrative continuity, allows simple headlines, activates fear and belonging, encourages repetition and turns each episode into a reason to return.
+Conflict has competitive advantages within the attention economy:
 
-Systemic solutions require context, comparison, time, uncertainty and sometimes challenge the economic structures of the very media expected to examine them.
+* it is immediate;
+* it produces adversaries that are easy to represent;
+* it generates narrative continuity;
+* it allows simple headlines;
+* it activates fear, indignation and belonging;
+* it favours repetition;
+* and it turns every new episode into a reason to return.
+
+Systemic solutions operate differently:
+
+* they require context;
+* they require comparison among alternatives;
+* they may take years to verify;
+* they force acknowledgement of uncertainty;
+* they do not always offer a hero and a villain;
+* and they may question the very economic structures of the medium that must examine them.
 
 ```text
 ATTENTION CAPTURED BY CONFLICT
-→ MORE INCENTIVE FOR CONFLICT NARRATIVES
+→ MORE INCENTIVE TO PRODUCE CONFLICT NARRATIVE
 → LESS SPACE FOR SOLUTIONS
 → GREATER DEPENDENCE ON CRISIS
 ```
 
-Media do not necessarily create war, but their economic architecture may reward continuous amplification of conflict.
-
-<!-- PARITY_72_35_II -->
-The Spanish source makes the asymmetry explicit. Conflict has competitive advantages in an attention economy because it:
-
-- is immediate;
-- provides adversaries that are easy to represent;
-- creates narrative continuity;
-- allows simple headlines;
-- activates fear, indignation and belonging;
-- favours repetition;
-- turns every new episode into a reason to return.
-
-Systemic solutions behave differently because they:
-
-- require context;
-- require comparison among alternatives;
-- may take years to verify;
-- force acknowledgement of uncertainty;
-- do not always provide a hero and a villain;
-- may question the economic structures of the medium that must examine them.
+The result may be a circuit in which media do not necessarily create war, but **their economy may reward the continuous amplification of conflict**.
 
 ## III. Amplification is not causation
 
-Reporting on war does not automatically cause or promote it. Yet communication architectures may intensify harmful dynamics when they reward provocation and escalation, remove historical context, turn humiliation into entertainment, amplify incendiary claims without proportionality, hide exit paths or define success solely through clicks and time spent.
+An essential distinction must be preserved.
 
-Attribution of such effects must be demonstrated case by case.
+A medium covering a war does not automatically cause it. A journalist reporting on violence does not necessarily foment it.
 
-<!-- PARITY_72_35_III -->
-A communicative architecture can contribute to harmful escalation when it:
+But a communication architecture may contribute to intensifying harmful dynamics when it:
 
-- rewards provocation and escalation;
-- simplifies complex conflicts into absolute identities;
-- removes historical context;
-- turns public humiliation into entertainment;
-- amplifies incendiary claims without proportionality;
-- makes exit routes invisible;
-- measures success only through clicks, audience or time spent.
+* rewards provocation and escalation;
+* simplifies complex conflicts into absolute identities;
+* removes historical context;
+* turns public humiliation into entertainment;
+* amplifies incendiary claims without proportionality;
+* makes exit routes invisible;
+* or measures success solely through clicks, audience or time spent.
 
 ```text
 REPORTING
 ≠ FOMENTING
 
-AMPLIFICATION WITHOUT CONTEXT
-+ INCENTIVE TO ESCALATE
-+ HIDDEN EXIT ROUTES
+AMPLIFYING WITHOUT CONTEXT
++ INCENTIVISING ESCALATION
++ HIDING EXIT ROUTES
 = POSSIBLE CONTRIBUTION TO CONFLICT
 ```
 
-That contribution must be demonstrated case by case rather than presumed.
+Attribution of that effect must be demonstrated case by case.
 
 ## IV. Ego as an institutional variable
 
-Here **ego** is a functional category rather than a universal psychological insult.
+This manifesto uses **ego** in a functional sense, not as an indiscriminate psychological insult.
 
-Institutional ego appears when a person, outlet, organisation or profession protects status, identity or authority above its capacity to learn.
+Institutional ego exists when a person, medium, organisation or profession protects its position, identity or authority above the possibility of learning.
 
-It may appear when an idea is rejected because it comes from outside recognised circuits, prestige is demanded before evidence is examined, novelty threatens professional categories, admitting a proposal would require acknowledging that something important was ignored, or the identity of the speaker replaces evaluation of what is said.
+It appears when:
+
+* an idea is rejected because it comes from outside the recognised circuit;
+* prior prestige is demanded before evidence is examined;
+* novelty threatens existing professional categories;
+* admitting a proposal would require acknowledging that something important was ignored;
+* authorship matters more than content;
+* or the hierarchy of who speaks replaces the quality of what is said.
 
 ```text
 INSTITUTIONAL EGO
@@ -557,26 +570,13 @@ INSTITUTIONAL EGO
 > CAPACITY TO LEARN
 ```
 
-Not every rejection is ego. A proposal may be false, poor or irrelevant. Ego appears when sufficient contrast is blocked before that can even be known.
+Not every rejection is ego. A proposal may be bad, false, unviable or irrelevant. Ego appears when **sufficient scrutiny is not even allowed to determine which is the case**.
 
 ## V. Stupidity as operational closure
 
-Here **stupidity** does not mean low individual intelligence.
+Here **stupidity** does not mean low individual intelligence either.
 
-It means the persistence of a system in harmful behaviour when information and corrective capacity exist but learning is blocked by routine, incentives, fear, identity or fragmentation.
-
-```text
-ERROR
-+ AVAILABLE EVIDENCE
-+ POSSIBILITY OF CORRECTION
-+ REPETITION OF ERROR
-= OPERATIONAL SYSTEMIC STUPIDITY
-```
-
-This definition makes the phenomenon auditable without insulting individuals.
-
-<!-- PARITY_72_35_V -->
-The operational definition is also preserved explicitly:
+It is operationally defined as the persistence of a system in harmful conduct when it has sufficient information to review that conduct and still blocks learning through routine, incentives, fear, identity or fragmentation.
 
 ```text
 ERROR
@@ -586,65 +586,74 @@ ERROR
 = OPERATIONAL SYSTEMIC STUPIDITY
 ```
 
+This definition makes it possible to audit without insulting individuals.
+
+The hypothesis of this manifesto is that a large part of the contemporary media crisis can be analysed as a combination of:
+
+```text
+INSTITUTIONAL EGO
++ ATTENTION INCENTIVES
++ FRAGMENTATION
++ REPETITION
++ LOW MEMORY
+= BLOCKED LEARNING
+```
+
+It must be demonstrated through cases and metrics, not proclaimed as a universal truth.
+
 ## VI. Empirical proof must be built
 
-The intuition that ego and stupidity dominate a system must be converted into a testable hypothesis.
+Saying that “ego and stupidity have taken over everything” may express a strong intuition, but the framework requires turning it into a testable hypothesis.
 
-Relevant measures include conflict-versus-solution coverage, reactive-versus-preventive reporting, follow-up of proposals, diversity of sources beyond established circuits, time granted to complex ideas, public corrections, later acknowledgement of ignored ideas, treatment of unknown authors, economic dependence on polarising traffic and relation between coverage intensity and later effects.
+Empirical demonstration requires measuring, among other things:
+
+* space devoted to conflict compared with solutions;
+* proportion of reactive news to preventive investigation;
+* follow-up of proposals after the first mention;
+* diversity of sources outside habitual institutional circuits;
+* time granted to complex ideas;
+* public corrections;
+* later recognition of ideas initially ignored;
+* treatment of authors without prior prestige;
+* dependence on traffic or advertising associated with polarising content;
+* and relation between intensity of coverage and later effects.
 
 ```text
 INTUITION
 → HYPOTHESIS
 → METRIC
 → DATA
-→ CONTRAST
+→ SCRUTINY
 → RESULT
 ```
 
-Neodialectics does not need criticism to be true by decree. It needs it to be testable, refutable and improvable.
-
-<!-- PARITY_72_35_VI -->
-Empirical scrutiny therefore has to measure, among other variables:
-
-- space devoted to conflict compared with solutions;
-- proportion of reactive news to preventive investigation;
-- follow-up of proposals after their first mention;
-- diversity of sources outside habitual institutional circuits;
-- time granted to complex ideas;
-- public corrections;
-- later recognition of ideas initially ignored;
-- treatment of authors without prior prestige;
-- dependence on traffic or advertising linked to polarising content;
-- relation between intensity of coverage and later effects.
+Neodialectics does not need criticism to be true by decree. It needs it to be testable, refutable and refinable.
 
 ## VII. The civilisational scandal of ignoring solutions
 
-The contradiction becomes severe when societies recognise climate crisis, recurring wars, political fragmentation, attention collapse, economic concentration, AI disruption, meaning crises and institutional deterioration while allocating little stable informational capacity to identifying, comparing and auditing integrative frameworks that address several of these problems together.
+The situation becomes especially serious when a society simultaneously states:
 
-No media outlet is required to accept the Neodialectica Framework™ as a universal solution.
+* that it faces climate crisis;
+* recurrent wars;
+* loss of trust;
+* political fragmentation;
+* crises of mental health and attention;
+* economic concentration;
+* disruption caused by artificial intelligence;
+* loss of meaning in work;
+* and institutional deterioration;
 
-A public, versioned, traceable and criticisable civilisational proposal should simply be capable of being examined on content and results rather than filtered only through prestige or institutional size.
+while its information systems devote very little stable capacity to finding, comparing and auditing **integrative frameworks capable of relating several of those problems at once**.
 
-<!-- PARITY_72_35_VII -->
-The contradiction becomes especially serious when a society simultaneously recognises:
+No one is required to accept the Neodialectica Framework™ as a universal solution.
 
-- climate crisis;
-- recurrent wars;
-- loss of trust;
-- political fragmentation;
-- crises of mental health and attention;
-- economic concentration;
-- disruption produced by artificial intelligence;
-- loss of meaning in work;
-- institutional deterioration;
-
-while devoting little stable informational capacity to finding, comparing and auditing integrative frameworks able to relate several of those problems at once.
+Something more basic is required: that a public, versioned, traceable civilisational proposal open to criticism can be examined for its content and results, rather than filtered only by prestige, institutional size or prior familiarity.
 
 ## VIII. The framework cannot proclaim total solution
 
-The same standard applies internally.
+Coherence requires applying the same criticism to the framework itself.
 
-The Neodialectica Framework™ may claim to integrate multiple domains and propose common mechanisms of memory, synthesis, traceability, audit, contribution and replacement, but it cannot declare all problems solved merely because that is its ambition.
+The Neodialectica Framework™ may state that **it integrates multiple domains and proposes common mechanisms of memory, synthesis, traceability, audit, contribution and replacement**, but it cannot declare that it has demonstrated a solution to every problem merely because that is its ambition.
 
 Manifesto XXXIV establishes the correct criterion:
 
@@ -653,88 +662,140 @@ FRAMEWORK + VERIFIABLE RESULT
 = UTILITY DEMONSTRATED IN THAT CASE
 ```
 
-Each project and application must demonstrate utility separately.
+Each project, audit or application must demonstrate its utility separately.
+
+The greatness of a proposal does not exempt it from scrutiny. It makes it more responsible before that scrutiny.
 
 ## IX. What civilisationally useful media should do
 
-A Common-Good-oriented outlet need not become the spokesperson of any framework. It needs stronger functions for detecting genuine novelty, solutions journalism without propaganda, auditing proposals rather than only crises, longitudinal memory, follow-up of corrections, space for complexity, comparison of systems, transparency around economic incentives, social-impact metrics and the ability to acknowledge ignored relevance.
+A medium oriented towards the Common Good does not need to become the spokesperson for any framework.
+
+It needs to recover functions that are currently weakened:
+
+1. **detection of real novelty**, including outside dominant institutions;
+2. **solutions journalism**, without propaganda;
+3. **audit of proposals**, not only coverage of crises;
+4. **longitudinal memory**, to verify who said what and what happened later;
+5. **follow-up of corrections**, not only the initial error;
+6. **space for complexity**, when the object requires it;
+7. **comparison of systems**, not only statements;
+8. **transparency about economic incentives**;
+9. **metrics of social impact**, in addition to audience;
+10. **capacity to acknowledge having ignored something relevant**.
 
 ```text
-CIVILISATIONAL MEDIA
+CIVILISATIONAL MEDIUM
 = REPORT HARM
-+ INVESTIGATE CAUSES
++ INVESTIGATE ITS CAUSES
 + SEEK ALTERNATIVES
 + AUDIT THEM
 + FOLLOW RESULTS
 ```
 
-<!-- PARITY_72_35_IX -->
-The complete operational set proposed by the Spanish source is:
-
-1. **detection of real novelty**, including novelty outside dominant institutions;
-2. **solutions journalism**, without becoming propaganda;
-3. **audit of proposals**, not only coverage of crises;
-4. **longitudinal memory**, so that claims can be checked against later outcomes;
-5. **follow-up of corrections**, not only of the initial error;
-6. **space for complexity** when the object requires it;
-7. **comparison of systems**, not only statements;
-8. **transparency about economic incentives**;
-9. **metrics of social impact** in addition to audience metrics;
-10. **capacity to acknowledge that something relevant was previously ignored**.
-
 ## X. Public audit of attention
 
-Media attention itself can be audited without ordering journalists what to publish.
+Media attention must also be auditable.
 
-A **Public Attention Audit™** may register topics, time or space, repetition, diversity of sources, conflict/solution ratio, reaction/prevention ratio, longitudinal follow-up, corrections, concentration of voices and relation between social relevance and coverage volume.
+Not in order to tell journalists what to publish, but to make visible what kind of reality the aggregate of editorial decisions constructs.
 
-The aim is not rigid quotas. It is to give the media system an image of itself.
+A **Public Attention Audit™** could record:
+
+* topics;
+* minutes, pages or impressions;
+* repetition;
+* diversity of sources;
+* conflict/solution ratio;
+* reaction/prevention ratio;
+* temporal follow-up;
+* corrections;
+* concentration of voices;
+* and relation between social relevance and volume of coverage.
+
+The objective is not to impose rigid quotas. It is to return to the medium an image of itself.
 
 ## XI. Media are also part of Synthesis
 
-Media are nodes inside the social organism. They select memory, scale signals, legitimise interlocutors, connect problems, amplify fear or open space for understanding.
+Media are not outside the social organism.
 
-Neodialectics therefore does not treat them as a homogeneous enemy. It proposes reversing their function when the conflict economy captures their civilisational capacity.
+They are nodes capable of:
+
+* selecting memory;
+* scaling signals;
+* legitimising interlocutors;
+* connecting problems;
+* amplifying fear;
+* or opening space for understanding.
+
+For that reason, Neodialectics does not propose fighting them as homogeneous enemies.
+
+It proposes **reversing their function when the conflict economy captures their civilisational capacity**.
 
 ```text
-CAPTURED MEDIA
+CAPTURED MEDIUM
 → ATTENTION AS COMMODITY
 
-REVERSED MEDIA
+REVERSED MEDIUM
 → ATTENTION AS CIVILISATIONAL RESPONSIBILITY
 ```
 
 ## XII. Applying the standard to Innova_N
 
-Innova_N has no automatic right to attention. It must provide readable documents, genealogy, sources, real cases, verifiable outcomes, possibility of criticism, public corrections and sufficiently clear language for external audit.
+Innova_N has no automatic right to attention either.
 
-If media examine the framework and identify errors, those errors should enter Open Synthesis. If a function fails, it should be corrected or abandoned. If a function demonstrates utility, continued rejection solely because of origin, institutional ego or lack of prior prestige becomes data about the selection system itself.
+It must offer:
+
+* readable documents;
+* genealogy;
+* sources;
+* real cases;
+* verifiable results;
+* possibility of criticism;
+* public corrections;
+* and language sufficiently clear for third parties to audit it.
+
+If media examine it and find errors, those errors must enter Synthesis.
+
+If they demonstrate that a function does not work, it must be corrected or abandoned.
+
+If a function demonstrates utility, ignoring it because of origin, institutional ego or lack of prior prestige then becomes data about the media system.
 
 ### Responsibility of power nodes
 
-The capacity to ignore can itself become a form of power when the actor controls attention, capital, legitimacy, infrastructure or institutional access. This responsibility extends to public figures, companies, platforms, institutions, press and media materially capable of amplifying, blocking or invisibilising proposals of public relevance.
+The capacity to ignore can also be a form of power when whoever exercises it controls attention, capital, legitimacy, infrastructure or institutional access. This responsibility reaches public figures, companies, platforms, institutions, press and media with material capacity to amplify, block or make invisible proposals of public relevance.
 
-But **ignoring the framework does not create automatic culpability and does not make anyone an enemy of humanity**. The test is functional and verifiable: power or agenda capacity, sufficient knowledge of the object, reasonably justified public relevance, a real possibility of examination, and blocking or rejection without sufficient contrast.
+But **ignoring the framework does not produce automatic culpability or turn anyone into an enemy of humanity**. The criterion is functional and verifiable: power or agenda capacity, sufficient knowledge of the object, reasonably justified public relevance, real possibility of examination, and blocking or rejection without sufficient scrutiny.
 
-Responsibility rises with power, but the duty is examination, not adherence:
+Responsibility increases with power, but the duty is one of examination, not adherence:
 
 ```text
 GREATER POWER
 + GREATER AGENDA CAPACITY
-+ GREATER EFFECT UPON THE WHOLE
++ GREATER IMPACT ON THE WHOLE
 = GREATER RESPONSIBILITY FOR EXAMINATION AND TRACEABILITY
 
-RESPONSIBILITY TO EXAMINE
-≠ OBLIGATION TO ADHERE
+RESPONSIBILITY FOR EXAMINATION
+≠ OBLIGATION OF ADHERENCE
 ```
 
-Where conduct verifiably reproduces capture, disinformation, blocked learning or harmful extraction, it enters neodialectical audit as an object of correction. The label must follow evidence rather than precede it.
+When conduct documentably reproduces capture, disinformation, blocked learning or harmful extraction, it enters neodialectical audit as an object of correction. Classification must follow the evidence, not precede it.
 
 * [Full annex · Responsibility of Power Nodes and Civilisational Duty of Examination](../../propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)
 
 ## XIII. From news to learning
 
-News asks what happened. Civilisation must also ask why, what pattern repeats, what could prevent recurrence, who is testing alternatives, whether they worked, what was learned and what should change next.
+News answers:
+
+> What happened?
+
+Civilisation also needs to ask:
+
+> Why did it happen?  
+> What pattern repeats?  
+> What could prevent it?  
+> Who is already testing alternatives?  
+> Did they work?  
+> What did we learn?  
+> What must change now?
 
 ```text
 NEWS
@@ -745,36 +806,53 @@ NEWS
 → LEARNING
 ```
 
-Without the second cycle, media may become perfect chroniclers of a decline they never help society understand how to stop.
+Without that second cycle, the medium can become the perfect chronicler of a decline it never helps to stop.
 
 ## XIV. Proclamation
 
-> There is something absurd in a civilisation able to broadcast war in real time while failing to reserve sustained attention for architectures attempting to prevent the next one.
+> There is something absurd in a civilisation capable of broadcasting a war in real time while, at the same time, being unable to reserve sustained attention for examining architectures that attempt to prevent the next one.
 >
 > We do not ask for silence about conflict. We ask for proportional intelligence devoted to solutions.
 >
-> We do not ask anyone to believe in a new framework. We ask that it be auditable before it is ignored.
+> We do not ask anyone to believe in a new framework. We ask that it can be audited before being ignored.
 >
-> We do not call journalists stupid. We call systemic stupidity the repetition of harmful structures when learning is possible and unused.
+> We do not call journalists stupid. We call systemic stupidity the repetition of harmful structures when the capacity to learn exists and is not used.
 >
-> We do not call every criticism ego. We call institutional ego the protection of position and prestige above contrast.
+> We do not call every criticism ego. We call institutional ego the protection of position and prestige above scrutiny.
 >
-> And we do not declare non-adherents guilty. We declare the exercise of power auditable when it replaces contrast with silence, blocking or disinformation.
+> And we do not declare guilty those who do not adhere. We declare the exercise of power auditable when it replaces scrutiny with silence, blocking or disinformation.
 >
-> Media can remain machines of crisis attention or become nodes of memory, comparison and civilisational learning.
+> Media can remain attention machines for crisis or become nodes of memory, comparison and civilisational learning.
 >
-> That choice should also become visible, traceable and open to Synthesis.
+> That choice must also be visible, traceable and subject to Synthesis.
 
 ## XV. Open Synthesis
 
-Contributions are invited on the media conflict economy; distinctions between reporting, amplification and promotion; conflict-versus-solution metrics; institutional ego; operational systemic stupidity; solutions journalism and propaganda risks; economic incentives; public attention audits; detection of new proposals without prestige filters; Innova_N's obligations for external audit; proportional responsibility of public figures, companies, institutions, platforms and media; criteria for sufficient notice, relevance and real possibility of examination; auditable definitions of captured press, structural omission and disinformation; safeguards against automatic culpability, blacklists or targeting for mere disagreement; correction mechanisms for overgeneralisation; and the relation between communication, peace, memory and civilisational learning.
+Contributions are invited on:
+
+* the media conflict economy;
+* differences among reporting, amplifying and fomenting;
+* metrics of conflict coverage compared with solutions;
+* definition and measurement of institutional ego;
+* operational definition of systemic stupidity;
+* solutions journalism and its propaganda risks;
+* economic incentives of media and platforms;
+* public audit of attention;
+* criteria for detecting new frameworks or proposals without depending on prior prestige;
+* Innova_N's obligations to facilitate external audit;
+* proportional responsibility of public figures, companies, institutions, platforms and media;
+* criteria of sufficient knowledge, relevance and real possibility of examination;
+* auditable definition of captured press, structural omission and disinformation;
+* safeguards against automatic culpability, blacklists or targeting for mere disagreement;
+* correction mechanisms when the manifesto itself exaggerates or generalises;
+* and the relation among communication, peace, memory and civilisational learning.
 
 Every contribution requires verifiable examples, sources, context, separation between data and interpretation, traceability, delta and version.
 
 * [Open the Synthesis of this manifesto · Issue #30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30)
 * [Current operational contribution protocol](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Open Synthesis index](../../propuestas/sintesis-abierta/README.md)
-* [Annex · Responsibility of Power Nodes and Duty of Examination](../../propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)
+* [Annex · Responsibility of Power Nodes and Civilisational Duty of Examination](../../propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md)
 * [Analysis · From the Attention Economy to the Contribution Economy](../../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
 
 ### Equivalent internal links

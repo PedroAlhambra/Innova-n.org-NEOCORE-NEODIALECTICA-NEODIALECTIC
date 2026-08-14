@@ -448,7 +448,14 @@ FRAMEWORK
 
 The repository already contains public applications of the framework to concrete objects.
 
-These include documentary auditing of the repository itself; public tracking of IDEA publishing and metadata incidents in Amazon KDP and Author Central; a documented verifiable correction and improvement proposals; the DistroKid–Spotify trace concerning identifiers and royalties; public structural analyses; and continuous review of the manifestos themselves through commits, genealogy and Open Synthesis.
+These include:
+
+* documentary auditing of links, READMEs, manifestos and sources in the repository itself;
+* public tracking of publishing, metadata and edition-association incidents involving IDEA in Amazon KDP and Author Central;
+* the record of a verifiable correction derived from that process and of improvement proposals sent to KDP;
+* the public DistroKid–Spotify case concerning traceability of identifiers and royalties, responses received, insufficient reconciliation and later escalations;
+* public analyses concerning the attention economy, Contribution Economy™, AI governance, professional networks, identity, territory and other systems;
+* and permanent review of the manifestos themselves through commits, navigation, genealogy and Open Synthesis.
 
 Access points:
 
@@ -460,13 +467,28 @@ Access points:
 * [Second DistroKid escalation](../../analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md)
 * [Circular closure and new Spotify–DistroKid escalation](../../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md)
 
-This does not mean that every system has already been audited. It means the architecture has moved from formulation to **verifiable public cases**, with a vocation to extend this capacity gradually, traceably and correctably.
+This does not mean that “the whole world” or “every system” has already been audited. It means the architecture has moved from formulation to **verifiable public cases**, with a vocation to extend this capacity gradually, traceably and correctably.
 
 ## II. What audit means within the framework
 
-Unless explicitly stated otherwise, **audit** is used here in a functional and documentary sense. It does not automatically claim the legal meaning of a financial audit, regulatory certification, administrative inspection or expert examination requiring specific accreditation.
+Unless explicitly stated otherwise, the word **audit** is used here in a functional and documentary sense.
 
-A public neodialectical audit seeks to define the object, preserve sources and dates, reconstruct genealogy, distinguish fact from inference, locate contradictions and asymmetries, formulate testable questions, propose corrections, transmit them to capable nodes, register responses or non-responses, verify outcomes and correct the audit itself when better evidence appears.
+It does not automatically claim the legal meaning of a financial audit, regulatory certification, administrative inspection or expert examination requiring specific accreditation.
+
+A public neodialectical audit seeks to:
+
+1. define the object precisely;
+2. preserve the source and its date;
+3. reconstruct genealogy and context;
+4. distinguish facts, statements, inferences, hypotheses and pending matters;
+5. locate contradictions and asymmetries;
+6. identify who bears costs and who captures returns;
+7. formulate testable questions;
+8. propose a delta or correction;
+9. transmit it to the node capable of acting where one exists;
+10. record the response or absence of response;
+11. verify the result;
+12. publicly correct the audit itself when superior evidence appears.
 
 ```text
 AUDIT
@@ -481,43 +503,34 @@ AUDIT
 + CORRECT
 ```
 
-<!-- PARITY_72_34_II -->
-The audit function is explicitly decomposed in the Spanish source so that it can:
-
-1. reconstruct what was claimed;
-2. identify who made the claim and in what context;
-3. recover the available sources and evidence;
-4. separate fact, testimony, inference, hypothesis and proposal;
-5. identify contradictions and missing information;
-6. compare alternative explanations;
-7. preserve dissent instead of erasing it;
-8. record corrections and changes of criterion;
-9. connect the case with related cases and systemic patterns;
-10. verify whether a proposed repair was actually applied;
-11. measure the result after implementation;
-12. reopen the case if materially new evidence appears.
-
-The objective is not an omniscient tribunal, but persistent memory of claims, corrections, responsibilities and outcomes.
-
 ## III. Audit begins with ourselves
 
 The framework loses legitimacy if it demands external traceability while declaring itself immune from it.
 
-Its own documents must therefore expose authorship, dates, versions, commits, deltas, genealogy, links, contradictions, corrections and public spaces for challenge and contribution.
+Its own documents must therefore be auditable:
+
+* visible authorship;
+* dates;
+* versions;
+* commits;
+* deltas;
+* genealogical relations;
+* verifiable links;
+* contradictions preserved where historically relevant;
+* explicit corrections;
+* and public spaces for challenge and contribution.
 
 Manifestos are not tablets delivered outside history. They are **living objects under joint audit**.
 
-Each version should answer what changed, why, who contributed, what source justified the change, what was preserved and what effect the delta has upon the whole.
-
-<!-- PARITY_72_34_III -->
-The question that must remain visible is:
+Each new version should be able to answer:
 
 ```text
-WHAT DO WE KNOW?
-+ HOW DO WE KNOW IT?
-+ WHAT CONTRADICTS IT?
-+ WHAT IS STILL MISSING?
-+ WHAT WOULD CHANGE THE CONCLUSION?
+WHAT CHANGED?
+WHY DID IT CHANGE?
+WHO CONTRIBUTED?
+WHAT SOURCE JUSTIFIES IT?
+WHAT WAS PRESERVED?
+WHAT EFFECT DOES IT HAVE ON THE WHOLE?
 ```
 
 ## IV. Manifestos as part of perpetual audit
@@ -542,7 +555,17 @@ FRAMEWORK + VERIFIABLE RESULT
 
 Open Synthesis distributes review among people with expert knowledge, pertinent experience, sufficient study or ideas capable of producing a material delta.
 
-Its function is not to manufacture unanimity. It preserves and relates endorsements, objections, evidence, counterexamples, experience, alternatives, minority positions, changes of mind and later results.
+Its function is not to manufacture unanimity. It is to preserve and relate:
+
+* endorsements;
+* objections;
+* evidence;
+* counterexamples;
+* experiences;
+* alternative proposals;
+* minority positions;
+* changes of criterion;
+* and later results.
 
 ```text
 INDIVIDUAL AUDIT
@@ -568,24 +591,43 @@ OPEN
 → REOPENED IF NEW EVIDENCE APPEARS
 ```
 
-Operationally closing a case does not destroy its memory. It preserves it for learning and recurrence detection.
+Operationally closing a case does not destroy its memory.
+
+It preserves it for learning and recurrence detection.
 
 A system that forgets every incident forces society to pay the same cost repeatedly.
 
 ## VII. Concrete utility of the Neodialectica Framework™
 
-The framework should create utility at multiple scales: helping persons distinguish experience and conditioning; reconstructing organisational processes and failure points; revealing market separation between price and contributed value; auditing whether technology expands capacity or captures autonomy; preserving institutional responses and corrections; maintaining cultural genealogy; and comparing whether the direction of multiple systems increases life, understanding, creative capacity and the Common Good or accumulates fragmentation and extraction.
+The framework must be capable of producing concrete utility at several scales.
 
-<!-- PARITY_72_34_VII -->
-The Spanish source specifies the same utility test across seven scales:
+### 1. Person
 
-- **Person:** help distinguish experience, conditioning, interest, fear, evidence and one's own direction.
-- **Organisation:** reconstruct processes, responsibilities, dependencies, failure points, hidden costs and repair routes.
-- **Market:** show when price, attention or bargaining power separate from the real value contributed.
-- **Technology:** audit whether a tool expands human capacity or captures autonomy, memory, identity or decision.
-- **Institutions:** preserve responses, commitments, inconsistencies, improvements and absence of response in traceable public memory.
-- **Culture:** relate works, symbols, genealogies and transformations without erasing provenance.
-- **Civilisation:** compare the combined direction of multiple systems and ask whether their sum increases life, understanding, sufficient freedom, creative capacity and the Common Good, or instead produces fragmentation, extraction and accumulated harm.
+Help distinguish lived experience, conditioning, interest, fear, evidence and one's own direction.
+
+### 2. Organisation
+
+Reconstruct processes, responsibilities, dependencies, failure points, hidden costs and repair routes.
+
+### 3. Market
+
+Reveal when price, attention or bargaining power separate from the real value contributed.
+
+### 4. Technology
+
+Audit whether a tool expands human capacity or captures autonomy, memory, identity or decision-making.
+
+### 5. Institutions
+
+Preserve responses, commitments, inconsistencies, improvements and absence of response within traceable public memory.
+
+### 6. Culture
+
+Relate works, symbols, genealogies and transformations without erasing provenance.
+
+### 7. Civilisation
+
+Compare the combined direction of multiple systems and ask whether their sum increases life, understanding, sufficient freedom, creative capacity and the Common Good, or instead produces fragmentation, extraction and accumulated harm.
 
 ## VIII. From error to contribution
 
@@ -600,15 +642,28 @@ DETECTED ERROR
 → BETTER DESIGN
 ```
 
-When a company, institution, person or system corrects a problem, that correction must also enter memory. Improvement deserves the same traceability as failure.
+When a company, institution, person or system corrects a problem, that correction must also enter memory.
+
+The framework must recognise improvement with the same traceability with which it documents failure.
 
 Without that symmetry, audit becomes permanent reputational punishment and loses its regenerative function.
 
 ## IX. Auditing the auditors
 
-An auditor may be wrong, exaggerate, select evidence poorly or misinterpret a response. Every neodialectical audit must therefore be auditable.
+An auditor may be wrong, exaggerate, select evidence in a biased way or misinterpret a response.
 
-It must distinguish documented fact, a party's statement, inference, hypothesis, interpretation, contradiction, pending evidence and later correction.
+Every neodialectical audit must therefore be auditable.
+
+It must distinguish:
+
+* documented fact;
+* a party's statement;
+* inference;
+* hypothesis;
+* interpretation;
+* contradiction;
+* pending evidence;
+* and later correction.
 
 Intentions must not be attributed without sufficient evidence. Unnecessary personal data must not be published. Non-response must not be presented as a confession of guilt.
 
@@ -643,7 +698,14 @@ A complaint can then become more than a conflict between two parties. Where evid
 
 WEB4™ · SistemaTrazable™ provides the public layer where relationships among sources, works, manifestos, analyses, audits, cases and corrections can remain navigable.
 
-It should be possible to reconstruct where a claim came from, which document developed it, which criticism it received, which version changed, which case tested it and what result followed.
+Publishing separate documents is not enough. It must be possible to reconstruct:
+
+* where a claim came from;
+* which document developed it;
+* which criticism it received;
+* which version changed;
+* which case tested it;
+* and what result followed.
 
 Traceability turns dispersed memory into learning infrastructure.
 
@@ -663,13 +725,28 @@ AUDIT
 → MIGRATE
 ```
 
-Without audit, replacement risks destroying useful functions. Without replacement capacity, audit risks describing harm forever. Both functions must remain connected.
+Without audit, replacement risks destroying useful functions.
+
+Without replacement capacity, audit risks describing harm forever.
+
+Both functions must remain connected.
 
 ## XIII. Criterion of success
 
 The framework does not demonstrate utility by accumulating vocabulary, documents or followers.
 
-It must demonstrate utility through verifiable effects: detected and corrected errors, preserved memory, faster resolution, improved processes, better recognition of creators and affected parties, clarified contradictions, better-informed decisions, avoided harm, new capabilities and reusable learning.
+It must demonstrate utility through verifiable effects:
+
+* detected and corrected errors;
+* preserved memory;
+* reduced resolution times;
+* improved processes;
+* better recognition of creators and affected parties;
+* clarified contradictions;
+* better-informed decisions;
+* avoided harm;
+* new capabilities created;
+* and learning reusable by third parties.
 
 ```text
 THEORY WITHOUT EFFECT
@@ -701,7 +778,21 @@ One successful case does not universally prove the whole framework. It proves th
 
 ## XV. Open Synthesis
 
-Contributions are invited on neodialectical audit criteria; legal and terminological limits of the word audit; distinction among facts, statements, inference and hypothesis; later verification; auditing auditors; utility metrics; relation with the Contribution Economy™; accumulation of public learning from incidents; privacy and data minimisation; human–AI participation in joint audits; relation among manifestos, commits, Issues and perpetual review; case closure and reopening; and the relation among audit, correction and systemic replacement.
+Contributions are invited on:
+
+* neodialectical audit criteria;
+* legal and terminological limits of the word audit;
+* distinction among facts, statements, inferences and hypotheses;
+* later verification mechanisms;
+* auditing the auditors themselves;
+* framework-utility metrics;
+* relation between audit and the Contribution Economy™;
+* public accumulation of learning derived from incidents;
+* data protection and minimisation of unnecessary exposure;
+* human–AI participation in joint audits;
+* relation among manifestos, commits, Issues and perpetual review;
+* criteria for closing and reopening cases;
+* and the relation among audit, correction and systemic replacement.
 
 Every contribution requires source, context, genealogy, separation between fact and interpretation, traceability, classification, delta and version.
 
@@ -711,23 +802,6 @@ Every contribution requires source, context, genealogy, separation between fact 
 * [Public audits](../../auditorias/publicas/README.md)
 * [Public analyses](../../analisis/publicos/README.md)
 
-### Equivalent internal links
-
-* [Internal reference · 2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md](../../analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md)
-* [Internal reference · 2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
-* [Internal reference · 2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md](../../analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md)
-* [Internal reference · 2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md](../../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md)
-* [Internal reference · README.md](../../analisis/publicos/README.md)
-* [Internal reference · 2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md](../../auditorias/publicas/2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md)
-* [Internal reference · README.md](../../auditorias/publicas/README.md)
-* [Open Synthesis protocol](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
-* [Open Synthesis index](../../propuestas/sintesis-abierta/README.md)
-* [Internal reference · 33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md](XXXIII_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md)
-* [Internal reference · 35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md](XXXV_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
-* [Manifesto index](../README.md)
-* [Dedicated Open Synthesis · Issue #29](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/29)
-
-<!-- NEO_RELATIONS_START -->
 ## Relaciones internas y trabajo aplicado / Internal relations and applied work
 
 - [Mapa transversal Manifiestos ↔ trabajo aplicado / Transversal Manifestos ↔ applied-work map](../RELACIONES_TRABAJO_APLICADO_ES_EN.md)

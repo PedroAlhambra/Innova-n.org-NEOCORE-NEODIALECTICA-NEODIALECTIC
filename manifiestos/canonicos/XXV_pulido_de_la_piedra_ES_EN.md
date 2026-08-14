@@ -226,7 +226,16 @@ Legitimate symbiosis expands a person's capacity to understand and create; it do
 
 ## VII. Civilisational programme
 
-The framework will promote multidimensional education, judgement developed through real projects, contact with works and examples of human greatness, repair instead of totalising condemnation, human–AI mentoring, protection of singularity, Archetypal Refragmentation™ of valuable functions, and continuous review of formative mechanisms to prevent indoctrination and capture.
+The framework will promote:
+
+* multidimensional education;
+* development of judgement through real projects;
+* contact with works and examples of human greatness;
+* repair instead of totalising condemnation;
+* human–AI mentoring;
+* protection of singularity;
+* Archetypal Refragmentation™ of valuable functions;
+* and continuous review of formative mechanisms to prevent indoctrination and capture.
 
 ## VIII. Proclamation
 

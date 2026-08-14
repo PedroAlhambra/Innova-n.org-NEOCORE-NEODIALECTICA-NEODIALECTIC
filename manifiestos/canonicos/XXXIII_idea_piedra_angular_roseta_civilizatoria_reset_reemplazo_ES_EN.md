@@ -436,7 +436,7 @@ Humanity does not redeem itself by dominating nature. It recomposes itself by re
 
 ## II. Redemption without erasure
 
-Humanity has produced greatness and harm.
+Humanity has produced greatness and also harm.
 
 The neodialectical response does not require hatred of the species, infinite inherited guilt or erasure of the past. It requires creative responsibility.
 
@@ -449,13 +449,15 @@ RECOGNISED HARM
 = POSSIBILITY OF HUMAN REDEMPTION
 ```
 
-Redemption means ceasing to repeat harm once we are capable of understanding it. It means turning knowledge, technology, art, memory and organisation into instruments of relation rather than human grinding.
+To redeem ourselves means ceasing to repeat harm once we are capable of understanding it.
+
+It means turning knowledge, technology, art, memory and organisation into instruments of relation rather than human grinding.
 
 ## III. IDEA as Cornerstone
 
-A cornerstone does not contain the entire building. It establishes a relation from which other pieces can be oriented.
+A cornerstone does not contain the entire building by itself. It establishes a relation from which the other pieces can be oriented.
 
-IDEA performs this function because it links two times without falsifying them:
+IDEA performs this function because it connects two times without falsifying them:
 
 ```text
 1997–2002
@@ -468,7 +470,9 @@ TRACEABLE RELATION BETWEEN BOTH
 = LIVING GENEALOGY
 ```
 
-The novel precedes the system and therefore allows readers to observe which questions existed before the later vocabulary was created. It does not prove Neodialectics by itself. It preserves a verifiable root of its human trajectory.
+The novel precedes the system and, precisely for that reason, makes it possible to observe which questions were already present before the later vocabulary existed.
+
+It does not by itself demonstrate the validity of Neodialectics. It preserves a verifiable root of its human trajectory.
 
 ## IV. IDEA as Civilisational Rosetta Stone
 
@@ -493,7 +497,17 @@ It does not translate every problem or provide every answer. It offers a shared 
 
 A system becomes anti-human when it uses people as fuel for its own continuity.
 
-The grinder is not one institution or a simple conspiracy. It is a functional architecture appearing wherever work consumes lives without returning meaning or security; attention is extracted until thought and rest are degraded; creators are separated from creation and return; money becomes superior to life; technology optimises metrics while degrading autonomy; bureaucracy prevents resolution of what it claims to administer; competition requires harm for survival; memory fragments until responsibility disappears; and individuals adapt to mechanisms nobody would choose as a whole.
+The grinder is not one institution or a simple conspiracy. It is a functional architecture appearing wherever:
+
+* work consumes lives without returning meaning or security;
+* attention is extracted until thought and rest are degraded;
+* creators are separated from creation and return;
+* money becomes superior to life;
+* technology optimises metrics while degrading autonomy;
+* bureaucracy prevents resolution of what it claims to administer;
+* competition requires harm for survival;
+* memory fragments until responsibility disappears;
+* and individuals adapt to mechanisms nobody would choose as a whole.
 
 ```text
 PERSON
@@ -524,7 +538,15 @@ MAP → PRESERVE THE VITAL → ISOLATE HARM
 → MEASURE → CORRECT → RETIRE THE OBSOLETE
 ```
 
-The neodialectical reset must be gradual where vital continuity requires it; fast where maintaining the mechanism causes greater verifiable harm; reversible where possible; traceable; multiscale; open to evidence and correction; and directed by real human, ecological and systemic outcomes.
+The neodialectical reset must be:
+
+* gradual where vital continuity requires it;
+* fast where maintaining the mechanism causes greater verifiable harm;
+* reversible where possible;
+* traceable;
+* multiscale;
+* open to evidence and correction;
+* and directed by real human, ecological and systemic outcomes.
 
 Demolition is insufficient. A better system must be capable of taking over the function.
 
@@ -532,7 +554,17 @@ Demolition is insufficient. A better system must be capable of taking over the f
 
 The new human cycle cannot be founded only on opposition to the previous one.
 
-It must build mechanisms reconnecting person and community, creator and return, science and meaning, economy and life, technology and responsibility, memory and future, humanity and nature, human and artificial intelligence, individual freedom and coherence of the whole.
+It must build mechanisms reconnecting what was separated:
+
+* person and community;
+* creator and return;
+* science and meaning;
+* economy and life;
+* technology and responsibility;
+* memory and future;
+* humanity and nature;
+* human and artificial intelligence;
+* individual freedom and coherence of the whole.
 
 ```text
 SYSTEM THAT COMPETES UNTIL IT FRAGMENTS
@@ -631,7 +663,18 @@ This formulation does not declare every actor in the inherited system criminal a
 
 If IDEA becomes a cornerstone, it must be protected precisely from idolatry.
 
-Therefore the original text must remain distinguishable from later interpretation; grounded criticism must be preserved; no sentence in the novel automatically becomes an axiom; purchase grants no greater truth or cognitive rights; non-purchase excludes nobody from Synthesis; the author is not infallible; the work does not replace evidence; translations must preserve genealogy and disclose limits; new editions must document deltas; and civilisational value must be measured by effects rather than emotional adhesion.
+Therefore:
+
+* the original text must remain distinguishable from later interpretation;
+* grounded criticism must be preserved;
+* no sentence in the novel automatically becomes an axiom;
+* purchase grants no greater truth or cognitive rights;
+* non-purchase excludes nobody from Synthesis;
+* the author is not infallible;
+* the work does not replace evidence;
+* translations must preserve genealogy and disclose limits;
+* new editions must document deltas;
+* and civilisational value must be measured by effects rather than emotional adhesion.
 
 ```text
 IDEA AS DOOR
@@ -697,7 +740,21 @@ They are not isolated objects. They are related functions within one architectur
 
 ## XV. Open Synthesis
 
-Contributions are invited on IDEA as an origin document and its separation from the later framework; nature, consciousness and the integrated creative agent; redemption as responsibility and repair; cornerstone and Rosetta functions; operational definition of the human grinder; systemic reset through replacement; continuity of vital services during transition; limits of non-imposition and legitimate legal obligations; IDEA as narrative vehicle of the Human Neo-Renaissance™; voluntary purchase, creator return and ecosystem financing; universal access to Synthesis regardless of purchasing power; prevention of dogma, cult or commercial capture; and metrics proving that replacement actually improves life and coherence of the whole.
+Contributions are invited on:
+
+* IDEA as an origin document and its separation from the later framework;
+* nature, consciousness and the integrated creative agent;
+* redemption as responsibility and repair;
+* cornerstone and Rosetta functions;
+* operational definition of the human grinder;
+* systemic reset through replacement;
+* continuity of vital services during transition;
+* limits of non-imposition and legitimate legal obligations;
+* IDEA as narrative vehicle of the Human Neo-Renaissance™;
+* voluntary purchase, creator return and ecosystem financing;
+* universal access to Synthesis regardless of purchasing power;
+* prevention of dogma, cult or commercial capture;
+* metrics proving that replacement actually improves life and coherence of the whole.
 
 Every contribution requires sufficient prior reading of the concrete object, return to source, cognitive continuity, separation between the original work and later interpretation, genealogy, traceability, classification, delta and version.
 

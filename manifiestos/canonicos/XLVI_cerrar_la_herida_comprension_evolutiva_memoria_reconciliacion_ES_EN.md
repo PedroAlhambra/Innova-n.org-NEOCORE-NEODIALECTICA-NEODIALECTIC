@@ -497,7 +497,20 @@ Closing a wound is not pretending it never existed.
 
 Humanity did not appear equipped with universal human rights, modern science, democratic institutions, psychology, global historical memory or technological capacity for self-observation.
 
-For much of history it survived through structures that could be adaptive in some environments and devastating in others: tribalism, extreme group obedience, fear of strangers, rigid hierarchy, territorial domination, preventive violence, accumulation, coercive social orders, exemplary punishment, purity myths, absolute loyalties and enemy construction.
+For much of history it survived through structures that could be adaptive in some environments and devastating in others:
+
+- tribalism;
+- extreme group obedience;
+- fear of strangers;
+- rigid hierarchies;
+- territorial domination;
+- preventive violence;
+- accumulation;
+- patriarchies and coercive orders;
+- exemplary punishment;
+- purity mythologies;
+- absolute loyalties;
+- and enemy construction.
 
 Explaining that some of these behaviours have evolutionary, ecological, material or historical roots **does not make them good or inevitable**.
 
@@ -523,7 +536,9 @@ HEREDITARY CONDEMNATION
 
 A historical wound can become permanent identity.
 
-Pain then ceases to be only memory of what happened and begins to organise who we are, who deserves trust, who must pay, who may speak and who must carry inherited guilt.
+Pain then ceases to be only memory of what happened.
+
+It begins to organise who we are, who deserves trust, who must pay, who may speak and who must carry inherited guilt.
 
 That mechanism can reproduce itself across generations.
 
@@ -544,9 +559,13 @@ Nobody chooses their ancestors.
 
 Nobody is born personally responsible for crimes committed before they existed.
 
-A society can inherit advantages, harms, institutions, inequalities, silences, symbols and material consequences. Those consequences may require recognition and repair.
+A society can inherit advantages, harms, institutions, inequalities, silences, symbols and material consequences.
+
+Those consequences may require recognition and repair.
 
 But historical responsibility and personal guilt are not the same.
+
+Neodialectics distinguishes:
 
 ```text
 PERSONAL GUILT
@@ -566,7 +585,15 @@ Closing a wound does not erase the scar.
 
 A society without memory can repeat what it chose to forget.
 
-Memory recognises victims, preserves facts, resists denial, clarifies causes, detects repeated patterns, preserves institutional responsibility and transmits limits to later generations.
+Memory fulfils essential functions:
+
+- recognise victims;
+- preserve facts;
+- prevent denial;
+- understand causes;
+- detect repeated patterns;
+- preserve institutional responsibility;
+- and transmit limits to later generations.
 
 But memory ceases to repair when it is used to manufacture perpetual enemies.
 
@@ -576,7 +603,17 @@ Remembering should **reduce the probability of repetition**, not guarantee the c
 
 Humans carry dispositions shaped through biological and cultural histories much older than current institutions.
 
-Cooperation and competition. Care and aggression. Empathy and tribalism. Curiosity and fear. Altruism and status seeking. Protection and domination.
+Cooperation and competition.
+
+Care and aggression.
+
+Empathy and tribalism.
+
+Curiosity and fear.
+
+Altruism and status seeking.
+
+Protection and domination.
 
 There is no one-directional human essence.
 
@@ -596,7 +633,17 @@ Biology changes slowly.
 
 Culture can transform in decades what seemed normal for centuries.
 
-Slavery can cease to be regarded as legitimate. Torture can cease to be accepted as spectacle. The domination of women can cease to be understood as natural order. Childhood can cease to be subjected to invasive state guardianship: its protection and upbringing belong primarily to responsible parents or guardians, while institutions should guarantee rights, safety and support without improperly replacing that bond. War can cease to be glory. Difference can cease to be threat.
+Slavery can cease to be regarded as legitimate.
+
+Torture can cease to be accepted as spectacle.
+
+The domination of women can cease to be understood as natural order.
+
+Childhood can cease to be subjected to invasive state guardianship: its protection and upbringing belong primarily to responsible parents or guardians, while institutions should guarantee rights, safety and support without improperly replacing that bond.
+
+War can cease to be glory.
+
+Difference can cease to be threat.
 
 Civilisational evolution consists precisely in **recognising inherited mechanisms and consciously deciding which should no longer govern us**.
 
@@ -604,7 +651,9 @@ Civilisational evolution consists precisely in **recognising inherited mechanism
 
 It would be another error to look at the past from effortless superiority.
 
-We possess information, institutions and possibilities they did not have, and yet we continue to reproduce violence, humiliation, propaganda, exploitation, fanaticism and capture.
+We possess information, institutions and possibilities they did not have.
+
+And yet we continue to reproduce violence, humiliation, propaganda, exploitation, fanaticism and capture.
 
 The right question is not only:
 
@@ -653,13 +702,39 @@ Not every repair can restore what was lost.
 
 Neodialectics does not turn forgiveness into a moral obligation of those who suffered.
 
-Institutional reconciliation can exist without intimate forgiveness. Coexistence can exist without forgetting. Boundaries can exist without revenge. Justice can exist without requiring a victim to stop feeling pain.
+Institutional reconciliation can exist without intimate forgiveness.
+
+Coexistence can exist without forgetting.
+
+A boundary can exist without revenge.
+
+Justice can exist without requiring a victim to stop feeling pain.
 
 Closing the wound means that **harm no longer has to govern the future**, not that it disappears from memory.
 
 ## X. The intergenerational wound
 
-Conflicts can be transmitted after those who started them have died: through stories, silences, education, borders, inequalities, symbols, humiliations, fears, surnames and places.
+Conflicts can be transmitted even when those who started them have already died.
+
+Through stories.
+
+Silences.
+
+Education.
+
+Borders.
+
+Inequalities.
+
+Symbols.
+
+Humiliations.
+
+Fears.
+
+Surnames.
+
+Places.
 
 The next generation receives an emotional map before it can judge that map.
 
@@ -686,7 +761,9 @@ WOUND
 → MEMORY WITHOUT DOMINATION
 ```
 
-The scar preserves information without remaining permanently open and consuming the organism.
+The scar preserves information.
+
+But it no longer remains permanently open and consuming the organism.
 
 ## XII. Nothing is “against” persons
 
@@ -732,7 +809,16 @@ Reconciliation with the possibility of future.
 
 ## XIV. The function of the framework
 
-Neodialectics should serve precisely what fragmented memory cannot do by itself: preserve incompatible historical accounts, distinguish fact from interpretation, recognise different harms, relate material, psychological, cultural and political causes, prevent capture of memory, preserve traceability of responsibility, allow contradiction and build syntheses that reduce recurrence of conflict.
+Neodialectics should serve precisely what fragmented memory cannot do by itself:
+
+- preserve incompatible historical accounts;
+- distinguish fact from interpretation;
+- recognise different harms;
+- relate material, psychological, cultural and political causes;
+- prevent capture of memory;
+- preserve traceability of responsibility;
+- allow contradiction;
+- and build syntheses that reduce recurrence of conflict.
 
 Multidimensionality is essential because no historical wound has only one cause.
 
@@ -788,7 +874,20 @@ PAIN
 
 ## XVII. Open Synthesis
 
-Contributions are invited on historical memory and reconciliation; individual, collective and intergenerational trauma; restorative and transitional justice; limits of analogies between biological and cultural evolution; tribalism, cooperation and cultural plasticity; personal responsibility versus inherited consequences; material and symbolic repair; forgiveness, boundaries and coexistence; prevention of identities organised solely around wounds; preservation of memory without mandatory transmission of enmity; educational mechanisms for understanding the origins of historical behaviour; and evidence that contradicts, limits or improves this manifesto.
+Contributions are invited on:
+
+- historical memory and reconciliation;
+- individual, collective and intergenerational trauma;
+- restorative and transitional justice;
+- limits of analogies between biological and cultural evolution;
+- tribalism, cooperation and cultural plasticity;
+- personal responsibility versus inherited consequences;
+- material and symbolic repair;
+- forgiveness, boundaries and coexistence;
+- prevention of identities organised solely around wounds;
+- preservation of memory without mandatory transmission of enmity;
+- educational mechanisms for understanding the origins of historical behaviour;
+- and evidence that contradicts, limits or improves this manifesto.
 
 * [Open Synthesis XLVI · Issue #54](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/54)
 * [How to contribute to Open Synthesis](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)

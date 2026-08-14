@@ -279,7 +279,16 @@ The problem does not begin when communication is effective. It begins when knowl
 
 ## I. Functional definition
 
-Anti-humanist neuromarketing exists when an organisation uses psychological, behavioural, neurocognitive, biometric, psychometric or algorithmic knowledge to detect vulnerabilities, reduce reflection, manufacture urgency, induce dependency, exploit fear or loneliness, obstruct conscious refusal, personalise pressure opaquely or increase conversion against the person's sufficiently understood interest.
+Anti-humanist neuromarketing exists when an organisation uses psychological, behavioural, neurocognitive, biometric, psychometric or algorithmic knowledge to:
+
+* detect vulnerabilities;
+* reduce reflection;
+* manufacture urgency;
+* induce dependency;
+* exploit fear, loneliness, guilt or insecurity;
+* make conscious refusal more difficult;
+* personalise pressure opaquely;
+* or increase conversion against the person's sufficiently understood interest.
 
 ```text
 KNOWLEDGE OF THE MIND
@@ -293,7 +302,14 @@ KNOWLEDGE OF THE MIND
 
 Legitimate communication may be attractive, emotional, memorable and strategic.
 
-It must preserve sufficient material information, declarable intent, real freedom to refuse, absence of relevant deception, proportionality and possibility of review.
+It must preserve:
+
+* sufficient material information;
+* declarable intent;
+* real freedom to refuse;
+* absence of relevant deception;
+* proportionality;
+* and possibility of review.
 
 ```text
 PERSUASION
@@ -307,13 +323,36 @@ Emotion itself is not manipulation. It becomes capture when deliberately replaci
 
 ## III. Vulnerabilities that must not become markets
 
-Childhood, cognitive impairment, addiction, grief, illness, precarity, loneliness, economic urgency, political fear, need for belonging and dependency upon essential platforms or services must not be deliberately exploited.
+The following must not be deliberately exploited:
+
+* childhood;
+* cognitive impairment;
+* addiction;
+* grief;
+* illness;
+* precarity;
+* loneliness;
+* economic urgency;
+* political fear;
+* need for belonging;
+* or dependency upon an essential platform or service.
 
 The lower the real capacity to refuse, the greater the obligation of restraint.
 
 ## IV. Architectures of capture
 
-Anti-humanist neuromarketing may use fictitious scarcity, dark interface patterns, difficult cancellation, variable rewards, artificial social pressure, vulnerability-based pricing, secret emotional segmentation, invasive repetition, confusion between content and advertising, or AI-generated messages designed around intimate profiles.
+Anti-humanist neuromarketing may appear through:
+
+* fictitious scarcity or countdowns;
+* dark interface patterns;
+* subscriptions that are difficult to cancel;
+* variable rewards designed to prolong permanence;
+* artificial social pressure;
+* prices personalised according to vulnerability;
+* secret emotional segmentation;
+* invasive repetition;
+* confusion between content and advertising;
+* or AI-generated messages designed to exploit individual profiles.
 
 Personalisation is not inherently illegitimate. It becomes so when asymmetry prevents a person from knowing what is known, how it is used and why a particular pressure is being applied.
 
@@ -335,7 +374,15 @@ GREATER VULNERABILITY
 
 Data concerning face, voice, gaze, pulse, reaction, emotional state, personality or decision patterns may reveal intimate dimensions.
 
-Their use requires delimited purpose, understandable consent, minimisation, security, prohibition of concealed reuse, rights of access and deletion, and independent audit where risk is high.
+Their use requires:
+
+* delimited purpose;
+* understandable consent;
+* minimisation;
+* security;
+* prohibition of concealed reuse;
+* rights of access and deletion;
+* and independent audit where risk is high.
 
 Consent obtained through pressure, darkness or dependency is not sufficient.
 
@@ -353,7 +400,15 @@ Commercial AI must not optimise only purchase, permanence or adherence. It must 
 
 ## VIII. The right to know that influence is being attempted
 
-Every person has a proportionate right to know that they face advertising or persuasion, who finances it, what it seeks, why they receive it, which data were used, whether AI intervened and how to reject, silence or challenge the practice.
+Every person has a proportionate right to know:
+
+* that they face advertising or persuasion;
+* who finances it;
+* what objective it pursues;
+* why they receive that message;
+* which data were used;
+* whether AI intervened;
+* and how to reject, silence or challenge the practice.
 
 Transparency does not require disclosing every legitimate trade secret. It requires not concealing the nature of the intervention.
 
@@ -361,9 +416,24 @@ Transparency does not require disclosing every legitimate trade secret. It requi
 
 The framework does not renounce communication, diffusion, selling or competition.
 
-A neodialectical strategy may powerfully present a work, differentiate editions, use design and narrative, segment through declared interests, remind people of a real opportunity, offer transparent promotions and directly request support.
+A neodialectical strategy may:
 
-It must not manufacture false need, exploit intimate wounds, hide costs, simulate non-existent approval, harass through repetition or turn the Common Good into moral pressure to purchase.
+* powerfully present a work;
+* differentiate editions;
+* use design and narrative;
+* segment through declared interests;
+* remind people of a real opportunity;
+* offer transparent promotions;
+* and directly request support.
+
+It must not:
+
+* manufacture a false need;
+* exploit an intimate wound;
+* hide costs;
+* simulate non-existent approval;
+* harass through repetition;
+* or turn the Common Good into moral pressure to purchase.
 
 ```text
 ETHICAL DIFFUSION
@@ -380,11 +450,31 @@ Open social engineering educates while declaring its purpose. Anti-humanist neur
 
 ## XI. Neodialectical audit of campaigns
 
-Every campaign of significant impact should be able to declare the product, cause or conduct promoted; public and foreseeable vulnerabilities; data used; persuasion techniques; AI intervention; verifiable claims; frequency and duration; rejection mechanisms; risks and mitigations; and the person responsible for review and repair.
+Every campaign of significant impact should be able to declare:
+
+1. the product, cause or conduct promoted;
+2. the public and foreseeable vulnerabilities;
+3. data used;
+4. persuasion techniques;
+5. AI intervention;
+6. verifiable claims;
+7. frequency and duration;
+8. rejection mechanisms;
+9. risks and mitigations;
+10. the person responsible for review and repair.
 
 ## XII. Civilisational programme
 
-The framework will promote literacy concerning persuasion and dark patterns, enhanced protection for minors and vulnerable people, transparency of segmentation and political advertising, limits upon emotional and biometric data, rights to pause, refuse and appeal, audits of persuasive AI, prohibition of extreme capture techniques and marketing compatible with autonomy, truth and the Common Good.
+The framework will promote:
+
+* literacy concerning persuasion and dark patterns;
+* enhanced protection for minors and vulnerable people;
+* transparency of segmentation and political advertising;
+* limits upon the use of emotional and biometric data;
+* rights to pause, refuse and challenge;
+* audits of persuasive AI;
+* prohibition of extreme capture techniques;
+* and development of marketing compatible with autonomy, truth and the Common Good.
 
 ## XIII. Proclamation
 

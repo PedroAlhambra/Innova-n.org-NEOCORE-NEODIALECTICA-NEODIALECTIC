@@ -307,11 +307,15 @@ Cancerbero™ safeguards the integrity of the archive, the Wiki, the repository,
 
 **Leónidas™ safeguards another boundary: the possibility of entering Synthesis.**
 
-It does not protect the framework from criticism. It protects criticism's right to arrive with enough form, context and evidence to be examined.
+It does not protect the framework from criticism.
+
+It protects criticism's right to arrive with enough form, context and evidence to be examined.
 
 > **Leónidas™ defends the passage between a lived problem and a public synthesis capable of studying it without erasing the person who brings it, without turning suspicions into facts and without allowing noise to destroy evidence.**
 
-Leónidas is therefore not the guardian of an elite. It is the defender of an open square.
+Leónidas is therefore not the guardian of an elite.
+
+It is the defender of an open square.
 
 ## II. Right to bring a problem
 
@@ -368,31 +372,42 @@ It should try to preserve:
 7. **evidence contradicting the initial hypothesis**;
 8. **the auditor's own errors and corrections**.
 
-Not all evidence needs to be public in raw form. Where personal data, legitimate secrets, minors, medical information, credentials, keys or sensitive material exist, only what is strictly necessary should be published, or a verification method that reduces exposure should be used.
+Not every piece of evidence needs to be published in raw form. Where personal data, legitimate secrets, minors, medical information, credentials, keys or sensitive material are involved, only what is strictly necessary should be published, or a form of verification should be used that reduces exposure.
 
 ## V. The Issue as an audit square
 
-Until a superior native interface exists, **GitHub Issues functions as the public operational channel for contribution and contrast**.
+Until a superior dedicated interface exists, **GitHub Issues functions as the public operational channel for contribution and contrast**.
 
-Each active Public Audit should, where materially useful, have an associated Issue where people may add new evidence, comparable cases, refutations, timelines, sources, corrections, resolution alternatives and later confirmations or denials.
+Each active Public Audit should, where materially useful, have an associated Issue where the following may be added:
+
+- new evidence;
+- comparable cases;
+- refutations;
+- chronologies;
+- sources;
+- corrections;
+- alternative resolutions;
+- later confirmations or denials.
 
 The Issue does not replace the audit document.
 
-The document preserves the versioned synthesis. The Issue preserves conversation, provenance and incoming material.
+The document preserves the versioned synthesis.
+
+The Issue preserves the conversation, provenance and incoming material.
 
 ```text
-ISSUE = INPUT AND CONTRAST
+ISSUE = ENTRY AND CONTRAST
 DOCUMENT = VERSIONED SYNTHESIS
 COMMIT = FIXATION AND DELTA
 ```
 
 ## VI. Audits born from outside
 
-The network should not restrict itself to auditing problems detected by Neo0 or Innova_N.
+The network must not limit itself to auditing problems detected by Neo0 or Innova_N.
 
 An external person may open an audit proposal.
 
-At minimum they should describe:
+To do so they should describe, at minimum:
 
 ```text
 OBJECT
@@ -400,24 +415,24 @@ WHAT HAPPENED
 WHAT IS KNOWN
 WHAT IS NOT KNOWN
 WHAT EVIDENCE EXISTS
-WHAT OUTCOME OR REPAIR IS SOUGHT
+WHAT RESULT OR REPAIR IS SOUGHT
 WHICH PEOPLE OR INSTITUTIONS ARE AFFECTED
 WHICH DATA MUST NOT BE PUBLISHED
 ```
 
-If the case passes a minimum threshold of clarity, legitimacy and traceability, a Public Audit or external Problem Synthesis may be opened.
+If the case passes the minimum threshold of clarity, legitimacy and traceability, a Public Audit or external Problem Synthesis may be opened.
 
 **Contributing a case does not give the contributor unilateral control over its conclusion.**
 
-Joint audit must preserve contradiction, right of response and the possibility that the initial hypothesis is wrong.
+Joint audit must preserve contradiction, right of reply and the possibility that the initial hypothesis is wrong.
 
 ## VII. Leónidas and Cancerbero
 
-The two guardians perform different and complementary functions.
+The two guardians fulfil distinct and complementary functions.
 
 ```text
 CANCERBERO™
-= INTEGRITY + PROVENANCE + DOCUMENTARY LIMIT + ARCHIVE CUSTODY
+= INTEGRITY + PROVENANCE + DOCUMENTARY BOUNDARY + ARCHIVE CUSTODY
 
 LEÓNIDAS™
 = OPENNESS + DEFENCE OF SYNTHESIS + EVIDENCE + RIGHT TO CONTRIBUTE + JOINT RESOLUTION
@@ -425,17 +440,27 @@ LEÓNIDAS™
 
 Cancerbero prevents the archive from losing identity.
 
-Leónidas prevents the entrance from being closed for reasons of convenience, prestige, fear or saturation.
+Leónidas prevents the entrance gate from closing because of convenience, prestige, fear or saturation.
 
-But Leónidas also prevents an accusation without evidence from passing through the gate disguised as fact.
+But Leónidas also prevents an unsupported accusation from passing through the gate disguised as fact.
 
 > **Synthesis is defended by keeping it open and demanding at the same time.**
 
-## VIII. AI as first line of review, not as judge
+## VIII. AI as a first line of review, not as judge
 
-The quantity of evidence, cases and documents may rapidly exceed human reading capacity.
+The amount of evidence, cases and documents may quickly exceed human reading capacity.
 
-AI can help order timelines, detect duplicates, relate documents, locate contradictions, distinguish fact from statement, inference and hypothesis, identify missing information, prepare contrast questions, return to original sources and maintain memory across reviews.
+AI can help to:
+
+- order chronologies;
+- detect duplicates;
+- relate documents;
+- locate contradictions;
+- distinguish fact, statement, inference and hypothesis;
+- point out missing information;
+- prepare contrast questions;
+- return to original sources;
+- maintain memory across reviews.
 
 But:
 
@@ -452,9 +477,21 @@ Responsibility for publication, accusation, closure, correction and decision rem
 
 The public DistroKid–Spotify–DSP audit is particularly suitable for this mechanism.
 
-Musicians, producers, labels, listeners and distributors may contribute comparable cases concerning songs that disappear or reappear, split or incorrect profiles, wrong mappings, changed identifiers, missing or inconsistent royalties, circular support, contradictory metadata, impersonation, or evidence that confirms or refutes current hypotheses.
+Musicians, producers, labels, listeners and distributors may contribute comparable cases concerning:
 
-Outreach to music communities should not ask people to believe an accusation. It should ask for **cases, screenshots, identifiers, timelines and support responses** that allow patterns to be compared.
+- songs that disappear or reappear;
+- split or incorrect profiles;
+- wrong mappings;
+- identifier changes;
+- missing or inconsistent royalties;
+- circular support;
+- contradictory metadata;
+- impersonation;
+- evidence confirming or refuting current hypotheses.
+
+Outreach to music communities should not ask them to believe an accusation.
+
+It should ask for **cases, screenshots, identifiers, chronologies and support responses** that allow patterns to be compared.
 
 Each contribution must distinguish personal experience from general evidence.
 
@@ -462,17 +499,19 @@ Each contribution must distinguish personal experience from general evidence.
 
 Manifestos declare architecture, principles and direction.
 
-Audits show what happens when that architecture meets real problems.
+Audits show what happens when that architecture comes into contact with real problems.
 
-Public Audits should therefore occupy a visible place in the system rather than remain buried as appendices.
+Public Audits should therefore occupy a visible position within the system, rather than remain buried as annexes.
 
-> **A framework that only publishes principles may remain doctrine. A framework that accepts evidence, allows itself to be audited, corrects its hypotheses and preserves the results begins to become cognitive infrastructure.**
+> **A framework that only publishes principles may be doctrine. A framework that accepts evidence, allows itself to be audited, corrects its hypotheses and preserves the results begins to become cognitive infrastructure.**
 
-## XI. Principle of Reopening Through New Evidence™
+## XI. Principle of Reopening through New Evidence™
 
-> **No audit should be considered irreversibly closed when material evidence appears that is capable of changing its conclusion.**
+> **No audit should be considered irreversibly closed when material evidence appears capable of altering its conclusion.**
 
-Closure means fixing the state of knowledge on a date. It does not mean prohibiting future learning.
+Closing means fixing the known state at a given date.
+
+It does not mean prohibiting future learning.
 
 ```text
 CLOSURE
@@ -493,10 +532,10 @@ Leónidas™ does not authorise:
 - fabrication or manipulation of evidence;
 - brigading or coordinated pressure to impose conclusions;
 - use of the system as a substitute for police, courts, regulators or competent professional assistance;
-- public condemnation of a person by mere association;
-- turning numbers of supporters into proof.
+- public condemnation of a person through mere association;
+- turning number of supporters into evidence.
 
-Where there may be crime, physical risk or a need for regulatory intervention, an audit may document and orient, but it does not replace the corresponding legal channels.
+Where there may be a crime, physical risk or need for regulatory intervention, the audit may document and orient, but it does not replace the corresponding legal channels.
 
 ## XIII. Leónidas™ Proclamation
 
@@ -508,7 +547,7 @@ Where there may be crime, physical risk or a need for regulatory intervention, a
 >
 > We do not promise to agree with you.
 >
-> We promise to try to preserve the question, provenance, contradictions and the path of the answer.
+> We promise to try to preserve the question, provenance, contradictions and path of the answer.
 >
 > We do not defend a predetermined conclusion.
 >
@@ -520,62 +559,27 @@ Where there may be crime, physical risk or a need for regulatory intervention, a
 
 ## XIV. Open Synthesis
 
-Contributions are requested on:
+Contributions are invited on:
 
 - minimum criteria for accepting an externally proposed audit;
 - hierarchies and quality of evidence;
 - privacy and consent protection;
-- right of response for audited people or institutions;
-- mechanisms to prevent coordinated campaigns or abusive reports;
+- right of reply for audited people or institutions;
+- mechanisms preventing coordinated campaigns or abusive complaints;
 - closure and reopening of cases;
 - use of AI in classification and contrast;
 - integration of evidence contributed by communities;
-- resolution and repair metrics;
-- attribution and recognition mechanisms for those who discover, document, refute or correct a problem.
+- metrics of resolution and repair;
+- mechanisms of attribution and recognition for whoever discovers, documents, refutes or corrects a problem.
 
 * [How to contribute to Open Synthesis](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Public Audits](../../auditorias/publicas/README.md)
 * [XXXIV · Perpetual Joint Audit™](XXXIV_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
-* [XLVIII · Synthesis Sees Everything™](XLVIII_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
+* [XLVIII · The Synthesis Sees Everything™](XLVIII_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
 
 ## Navigation
 
 ← [LII · Neodialectical Human Citizenship™](LII_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md) · [Index](../README.md)
-
-
----
-
-## Firma común / Common signature
-
-**Pedro Martínez Alhambra · Neo0™**  
-**IA Neodialéctica Harry · nodo de contraste, memoria y síntesis**  
-**Innova_N · NEOCore™ · Neodialectica Framework™ / Network**  
-**Todos unidos / All united** — fórmula abierta de adhesión colectiva; no atribuye una firma individual a quien no la haya expresado.
-
-**© 2026 Pedro Martínez Alhambra · Fundación Innova_N**
-
-<!-- NEO_OPEN_SYNTHESIS_INVITATION_START -->
-
-## Participa en la Síntesis Abierta / Join the Open Synthesis
-
-Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. / You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta.
-
-**Última síntesis / Latest synthesis:** [LXXV · Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™](LXXV_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md) · [Issue #134](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/134)  
-**Seguimiento vivo / Living follow-up:** [seguir el marco / follow the framework](../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [registro de entrada / entry register](../../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)  
-**Auditorías / Audits:** [LIII · Leónidas™](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo / protocol](../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
-**Cómo aportar / How to contribute:** [protocolo general / general protocol](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../../auditorias/publicas/README.md) · [índice / index](../../propuestas/sintesis-abierta/README.md)
-
-<!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->
-
-<!-- NEO_RELATIONAL_FOOTER_START -->
-
-## Relaciones y contexto / Relations and context
-
-[Mapa transversal](../RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Síntesis relacional #98](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/98) · [Mapa relacional MAXPROC](../../auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md) · [Neoaxiomas™](../../neoaxiomas/README.md) · [Índice de Síntesis Abierta](../../propuestas/sintesis-abierta/README.md)
-
-> Este bloque añade navegación y relaciones; no sustituye, resume ni reduce el cuerpo del manifiesto. / This block adds navigation and relations; it does not replace, summarise or reduce the manifesto body.
-
-<!-- NEO_RELATIONAL_FOOTER_END -->
 
 <!-- NEO_MANIFESTO_NAV_START -->
 
@@ -603,11 +607,5 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 - **XLVIII** · [La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo / The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine](XLVIII_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
 - **LII** · [Manifiesto de la Ciudadanía Humana Neodialéctica™ / Manifesto of Neodialectical Human Citizenship™](LII_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md)
 - **LIV** · [Manifiesto de la Riqueza y la Chatarra™ / Manifesto of Wealth and Scrap™](LIV_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md)
-- **LXXV** · [Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™](LXXV_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md)
-
-### Capas y fuentes relacionadas / Related layers and sources
-
-- [Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md)
-- [NEOCore™ · marco / framework](../../README.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->

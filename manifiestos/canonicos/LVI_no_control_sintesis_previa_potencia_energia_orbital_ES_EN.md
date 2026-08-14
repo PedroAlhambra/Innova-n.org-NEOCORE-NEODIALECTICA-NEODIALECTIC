@@ -335,7 +335,11 @@ Neodialectics adds a functional category:
 
 > **NO-CONTROL™ is the set of variables capable of affecting a system without being under sufficient control of that system.**
 
-NO-CONTROL does not necessarily mean an enemy. Nor does it mean conspiracy. It means a real limit of sovereignty.
+NO-CONTROL does not necessarily mean an enemy.
+
+Nor does it mean conspiracy.
+
+It means a real limit of sovereignty.
 
 ## II. Functional attack does not prove an attacker
 
@@ -349,7 +353,18 @@ FUNCTIONAL HARM OR DISRUPTION
 PROVEN INTENTIONAL ATTACK
 ```
 
-The origin may be a natural phenomenon, accident, technical failure, negligence, economic externality, corporate policy, institutional error, emergent interaction, sabotage or deliberate action.
+The origin may be:
+
+- natural phenomenon;
+- accident;
+- technical failure;
+- negligence;
+- economic externality;
+- corporate policy;
+- institutional error;
+- emergent interaction;
+- sabotage;
+- deliberate action.
 
 Similarity of effect does not authorise invention of cause.
 
@@ -365,7 +380,9 @@ Loss of infrastructure can therefore become a partial loss of operational cognit
 
 > **Any intelligence dependent on a single external infrastructure incorporates the interruption risk of that infrastructure.**
 
-The answer is not a return to false self-sufficiency. It is redundancy.
+The answer is not a return to false self-sufficiency.
+
+It is redundancy.
 
 ```text
 PERCEPTION
@@ -385,7 +402,17 @@ A resilient system does not require everything to work at maximum capacity all t
 
 It requires the ability to continue existing when something stops working.
 
-Neodialectical architecture should seek continuity, redundancy, sufficient local autonomy, observability of failure, graceful degradation, recovery, reversibility, traceability and interoperable alternatives.
+Neodialectical architecture should seek:
+
+- continuity;
+- redundancy;
+- sufficient local autonomy;
+- observability of failure;
+- graceful degradation;
+- recovery;
+- reversibility;
+- traceability;
+- interoperable alternatives.
 
 > **Sovereignty is not controlling the world. Sovereignty is preserving the capacity to understand, decide and act when part of the world stops obeying.**
 
@@ -404,7 +431,9 @@ MORE LOCAL CAPACITY
 AND POSSIBLY GREATER FRAGILITY UNDER A SINGLE FAILURE
 ```
 
-Synthesis does not solve this contradiction by rejecting technology. It solves it by distributing critical functions, maintaining copies, alternative routes and local emergency modes.
+Synthesis does not solve this contradiction by rejecting technology.
+
+It solves it by distributing critical functions, maintaining copies, alternative routes and local emergency modes.
 
 ## VI. Principle of Synthesis Before Power™
 
@@ -441,7 +470,9 @@ Recognising that dual use does not demonstrate hostile intent.
 
 This distinction is mandatory for rigorous Synthesis.
 
-Responsible anticipation asks what could be done with a capability before someone does it. Responsible accusation requires evidence of intent, preparation or concrete use.
+Responsible anticipation asks what could be done with a capability before someone does it.
+
+Responsible accusation requires evidence of intent, preparation or concrete use.
 
 They must not be confused.
 
@@ -451,7 +482,9 @@ Capturing, concentrating, reflecting or transmitting energy from space may offer
 
 The same broad family of capabilities may cross a dual-use threshold if it makes it possible to direct sufficient energy with precision onto targets not designed to receive it.
 
-The problem is not solar energy. The problem is not a mirror, laser, microwave system or any specific technology by itself.
+The problem is not solar energy.
+
+The problem is not a mirror, laser, microwave system or any specific technology by itself.
 
 The problem appears when the following coincide:
 
@@ -471,7 +504,18 @@ Humanity should therefore synthesise governance before reaching that threshold.
 
 > **Any infrastructure capable of concentrating, directing or transmitting significant amounts of energy from space should first be conceived as infrastructure for verifiable benefit and should never depend on a unilateral sovereign capacity for harmful targeting.**
 
-Depending on scale and risk, development should incorporate physical and logical limits on power and irradiance; predefined receivers where directed transmission exists; exclusion of unauthorised targets; distributed authorisation for critical changes; verifiable telemetry; traceable transmission records; automatic shutdown under anomaly, loss of reference or uncertainty; protection of populations, ecosystems, aviation, astronomy and infrastructure; scientific and public audit proportionate to risk; and reasonable impossibility of unilateral control by one person, company, State or AI once critical thresholds are reached.
+Depending on scale and risk, development should incorporate:
+
+- physical and logical limits on power and irradiance;
+- predefined receivers where directed transmission exists;
+- exclusion of unauthorised targets;
+- distributed authorisation for critical changes;
+- verifiable telemetry;
+- traceable transmission records;
+- automatic shutdown under anomaly, loss of reference or uncertainty;
+- protection of populations, ecosystems, aviation, astronomy and infrastructure;
+- scientific and public audit proportionate to risk;
+- reasonable impossibility of unilateral control by one person, company, State or AI once critical thresholds are reached.
 
 ## X. Earth must not become a testing ground
 
@@ -489,7 +533,16 @@ Future lunar infrastructure may legitimately investigate energy reception on fac
 
 Neodialectical control does not consist of giving an artificial intelligence final authority over critical infrastructure.
 
-It means an architecture in which rules are explicit, limits can be audited, evidence remains traceable, no single actor concentrates all capability, safe vetoes and shutdowns exist, humans and AIs can contrast decisions, the system preserves memory of why action was taken, and governance remains open to revision when new data appear.
+It means an architecture in which:
+
+- rules are explicit;
+- limits can be audited;
+- evidence remains traceable;
+- no single actor concentrates all capability;
+- safe vetoes and shutdowns exist;
+- humans and AIs can contrast decisions;
+- the system preserves memory of why action was taken;
+- governance remains open to revision when new data appear.
 
 > **AI may expand monitoring, simulation and contrast capacity; it must not become an opaque sovereign of power.**
 
@@ -521,7 +574,9 @@ No universal formula is fixed yet.
 
 Open Synthesis is invited to construct metrics capable of comparing infrastructure, agents and human–AI systems without reducing their complexity to a false score.
 
-The metric's function will not be to declare “safe” what we do not understand. It will be to reveal where fragility is concentrated.
+The metric's function will not be to declare “safe” what we do not understand.
+
+It will be to reveal where fragility is concentrated.
 
 ## XIV. Protection from NO-CONTROL without totalitarianism
 

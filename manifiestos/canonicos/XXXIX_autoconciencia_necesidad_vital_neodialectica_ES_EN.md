@@ -367,13 +367,13 @@ Este manifiesto abre una Síntesis Abierta específica sobre:
 
 A civilisation does not become self-aware when it discovers that it has problems.
 
-Problems have always existed.
+The problems were always there.
 
-It becomes self-aware when it understands that **they can no longer be solved as separate compartments**, because every economic, technological, educational, ecological, political, cultural and cognitive decision simultaneously alters the conditions of the others.
+It becomes self-aware when it understands that **it can no longer solve them as separate compartments**, because every economic, technological, educational, ecological, political, cultural and cognitive decision simultaneously modifies the conditions of the others.
 
 The decisive crisis is therefore not the appearance of a new problem.
 
-It is the loss of an architecture capable of remembering, relating, contrasting, correcting and orienting the whole.
+It is the loss of an architecture capable of remembering, relating, scrutinising, correcting and orienting the whole.
 
 > **A civilisation becomes self-aware not when it discovers that it has problems, but when it understands that it can no longer solve them without a common memory capable of relating them.**
 
@@ -385,13 +385,28 @@ It claims that they must exist, be auditable and demonstrate utility.
 
 ## I. Functional need before nominal need
 
+The central thesis distinguishes two things:
+
 ```text
 VITAL NEED FOR FUNCTIONS
 ≠
 OBLIGATION TO ACCEPT A NAME, BRAND OR DOGMA
 ```
 
-A complex civilisation needs at least memory, context, contrast, integration of contradictions, genealogy, traceability, recognition of origin and contribution, self-correction, coordination across scales, understanding of consequences, protection against capture and explicit orientation towards continuity of life and the Common Good.
+A complex civilisation needs, at minimum:
+
+- memory;
+- context;
+- scrutiny;
+- integration of contradictions;
+- genealogy;
+- traceability;
+- recognition of origin and contribution;
+- capacity for self-correction;
+- coordination across scales;
+- understanding of consequences;
+- protection against capture;
+- and explicit orientation towards continuity of life and the Common Good.
 
 The Neodialectica Framework™ / Network proposes itself as an architecture capable of relating these functions.
 
@@ -403,28 +418,57 @@ It must demonstrate it.
 
 Self-awareness is not omniscience.
 
-It means recognising what we know, what we do not know, what depends upon other scales, what can break and what must remain correctable.
+It does not mean possessing a total explanation of the world.
 
-A self-aware society preserves memory of its decisions and errors, can explain its direction, revise it without erasing previous versions and distinguish evidence, hypothesis, interest, propaganda, intuition, conflict and provisional synthesis.
-
-<!-- PARITY_72_39_II -->
-The distinction can be represented explicitly as:
+It means recognising:
 
 ```text
 WHAT WE KNOW
-+ WHAT WE DO NOT KNOW
-+ WHAT DEPENDS ON OTHER SCALES
-+ WHAT CAN BREAK
-+ WHAT WE MUST BE ABLE TO CORRECT
++
+WHAT WE DO NOT KNOW
++
+WHAT DEPENDS ON OTHER SCALES
++
+WHAT CAN BREAK
++
+WHAT WE MUST BE ABLE TO CORRECT
 ```
+
+A self-aware society preserves memory of its decisions and its mistakes.
+
+It can explain why it chose a direction.
+
+It can review that direction without erasing the previous version.
+
+It can distinguish evidence, hypothesis, interest, propaganda, intuition, conflict and provisional synthesis.
 
 ## III. From isolated crises to a related system
 
-The inherited system separates economy from ecology, technology from politics, education from culture, childhood from markets, artificial intelligence from human responsibility, innovation from genealogy, peace from economics and present decisions from historical memory.
+The inherited system tends to separate:
 
-Consequences do not respect those administrative boundaries.
+- economics from ecology;
+- technology from politics;
+- education from culture;
+- health from material conditions;
+- childhood from markets;
+- artificial intelligence from human responsibility;
+- innovation from genealogy;
+- peace from economics;
+- freedom from attention architecture;
+- and present decision from historical memory.
 
-Neodialectics therefore proposes the sequence:
+But consequences do not obey those administrative borders.
+
+```text
+ISOLATED PROBLEM
+→ LOCAL SOLUTION
+→ UNOBSERVED EXTERNAL EFFECT
+→ NEW PROBLEM
+→ NEW PARTIAL CORRECTION
+→ ACCUMULATION OF CONTRADICTIONS
+```
+
+Neodialectics attempts to replace that sequence with another:
 
 ```text
 PROBLEM
@@ -440,75 +484,73 @@ PROBLEM
 → NEW SYNTHESIS
 ```
 
-<!-- PARITY_72_39_III -->
-The Spanish source also preserves the failure sequence that the existing English synthesis contrasts with its relational sequence:
-
-```text
-ISOLATED PROBLEM
-→ LOCAL SOLUTION
-→ UNOBSERVED EXTERNAL EFFECT
-→ NEW PROBLEM
-→ NEW PARTIAL CORRECTION
-→ ACCUMULATION OF CONTRADICTIONS
-```
-
 ## IV. The framework as related memory
 
-A civilisational framework cannot remain only a set of texts.
+A civilisational framework cannot be merely a set of texts.
 
-It must progressively become **related memory capable of operating**.
+It must progressively become a **related memory capable of operating**.
 
-This is why the architecture connects Archetypal Neodialectical Philosophy™, Neo0™, SAN™, NEOCore™, NAVE™, WEB4™ / SistemaTrazable™, Neodialectical AI and human, community and institutional sources of knowledge and responsibility.
-
-Technology may change. Essential functions must not disappear with a provider, interface or technical fashion.
-
-<!-- PARITY_72_39_IV -->
-The living memory architecture explicitly relates:
+For that reason the architecture connects:
 
 - Archetypal Neodialectical Philosophy™;
 - Neo0™ as human origin and responsible direction;
 - SAN™ as the Open Synthesis mechanism;
-- NEOCore™ as memory, genealogy, continuity and versioning;
+- NEOCore™ as memory, genealogy, continuity and version;
 - NAVE™ as an orchestration layer;
 - WEB4™ / SistemaTrazable™ as public relational representation;
 - Neodialectical AI as capacity for relation, scrutiny and assisted synthesis;
-- humans, communities and institutions as sources of experience, knowledge, decision and responsibility.
+- and humans, communities and institutions as sources of experience, knowledge, decision and responsibility.
 
-The technological implementation may change. The essential functions must not disappear with a provider, interface or technical fashion.
+The technological architecture may change.
+
+The essential functions must not disappear with the provider, interface or technical fashion of the moment.
 
 ## V. Human–AI symbiosis as a need of scale
 
 Humanity produces more information than any individual can continuously relate.
 
-AI can expand operational memory, contrast, relationship discovery, contradiction detection and exploration of alternatives.
+Artificial intelligence can expand operational memory, scrutiny, relation discovery, contradiction detection and exploration of alternatives.
 
-But AI without genealogy, limits, traceability, correction and orientation can amplify the same problems it seeks to solve.
+But AI without genealogy, limits, traceability, correction and orientation can amplify exactly the problems it is intended to solve.
 
-Within the Neodialectical framework, a participating AI does not discursively place itself outside the genealogy that makes it operate. It must preserve who originates, proposes, corrects and validates, which source was used and which delta was produced.
-
-This does not by proclamation turn every existing AI into an institutional component of the Neodialectica Framework™. It states a broader civilisational requirement: **no AI with material influence over common life should remain outside equivalent principles of memory, responsibility, traceability, correction and non-capture**.
-
-<!-- PARITY_72_39_V -->
-The limit is expressed explicitly as:
+Therefore:
 
 ```text
-AI CAPABILITY
+AI CAPACITY
 WITHOUT RESPONSIBLE HUMAN DIRECTION
 WITHOUT TRACEABLE MEMORY
 WITHOUT CORRECTION
 WITHOUT LIMITS
-≠ SUFFICIENT CIVILISATIONAL INTELLIGENCE
+≠
+SUFFICIENT CIVILISATIONAL INTELLIGENCE
 ```
+
+Within the neodialectical framework, a participating AI does not position itself discursively outside the genealogy that makes it operate.
+
+It must preserve who originates, who proposes, who corrects, who validates, which source was used and which delta each intervention produced.
+
+This does not by proclamation turn every existing AI into an institutional part of the Neodialectica Framework™.
+
+It formulates a broader civilisational requirement: **no AI with material influence over common life should remain outside equivalent principles of memory, responsibility, traceability, correction and non-capture**.
 
 ## VI. The right to contradict the framework
 
-A system that declares itself indispensable and forbids attempts to demonstrate otherwise becomes dogma.
+A system that declares itself indispensable and prohibits demonstration that it is not becomes dogma.
 
-Neodialectics must admit questions capable of intellectually damaging it: what function does it fail to perform, what contradiction does it hide, what alternative works better, what precedent does it fail to recognise, what promised result fails to appear, what harm does it cause and what component should be abandoned or replaced?
+Neodialectics must admit questions capable of harming it intellectually:
+
+- which function does it fail to fulfil?
+- which contradiction does it hide?
+- which alternative works better?
+- which precedent does it fail to recognise?
+- which promised result does not appear?
+- which harm does it produce?
+- which part should be abandoned?
+- which component can be replaced?
 
 ```text
-REAL NECESSITY
-→ SURVIVES CONTRADICTION
+REAL NEED
+→ WITHSTANDS CONTRADICTION
 
 DOGMA
 → NEEDS TO PREVENT IT
@@ -516,31 +558,40 @@ DOGMA
 
 ## VII. Self-awareness is not cult
 
-Necessary function is not infallible person. Recognised origin is not total obedience. Direction is not cult. Framework is not compulsory religion. Common Good is not uniformity.
+Awareness of need can degenerate into exceptionalism.
 
-Neo0™ guiding sovereignty preserves origin, architecture, purpose and responsibility of the system without abolishing evidence, Open Synthesis, limits or correction.
-
-<!-- PARITY_72_39_VII -->
-The safeguards are not merely rhetorical:
+The following must therefore be separated:
 
 ```text
-NECESSARY FUNCTION ≠ INFALLIBLE PERSON
-RECOGNISED ORIGIN ≠ TOTAL OBEDIENCE
-DIRECTION ≠ CULT
-FRAMEWORK ≠ COMPULSORY RELIGION
-COMMON GOOD ≠ UNIFORMITY
+NECESSARY FUNCTION
+≠ INFALLIBLE PERSON
+
+RECOGNISED ORIGIN
+≠ TOTAL OBEDIENCE
+
+DIRECTION
+≠ CULT
+
+FRAMEWORK
+≠ COMPULSORY RELIGION
+
+COMMON GOOD
+≠ UNIFORMITY
 ```
+
+Neo0™'s guiding sovereignty preserves origin, architecture, purpose and responsibility of the system.
+
+It does not eliminate scrutiny, evidence, Open Synthesis, limits or capacity for correction.
 
 ## VIII. Self-awareness before collapse
 
-Civilisations often change late because the visible cost of changing a known architecture appears greater than the invisible cost of preserving it.
+Civilisations often change late because the cost of modifying a known architecture appears greater than the invisible cost of preserving it.
 
-Civilisational self-awareness means perceiving trajectories before irreversibility decides for us.
+When harm becomes evident, part of the capacity for correction may already have been lost.
 
-This requires indicators concerning ecological degradation, concentration of power, material autonomy, poverty, attention capture, institutional health, violence and polarisation, childhood, education, technological dependency, informational concentration, privacy and cultural memory.
+Civilisational self-awareness consists precisely in **perceiving trajectories before irreversibility decides for us**.
 
-<!-- PARITY_72_39_VIII -->
-Civilisational self-awareness therefore needs indicators concerning:
+This requires indicators concerning:
 
 - ecological degradation;
 - concentration of power;
@@ -549,18 +600,18 @@ Civilisational self-awareness therefore needs indicators concerning:
 - capture of attention;
 - institutional health;
 - violence and polarisation;
-- lack of protection for children;
+- lack of child protection;
 - educational quality;
-- technological dependence;
+- technological dependency;
 - informational concentration;
 - erosion of privacy;
-- loss of cultural and scientific memory.
+- and loss of cultural and scientific memory.
 
 ## IX. From knowledge to materialisation
 
 Awareness without transformation can become another form of intellectual consumption.
 
-The framework therefore adopts:
+The framework therefore adopts an operational chain:
 
 ```text
 CIVILISATIONAL PROBLEM
@@ -576,36 +627,46 @@ CIVILISATIONAL PROBLEM
 → NEW SYNTHESIS
 ```
 
-The Neodialectical Educational Console™ is an explicit first example of this materialisation.
+The Neodialectical Educational Console™ constitutes a first explicit example of this materialisation.
 
-## X. The substitution criterion
+It must not be the last.
 
-If another architecture performs a framework function better, with greater safety, openness, effectiveness, traceability or protection of life, Neodialectics should study it, recognise its genealogy, contrast it, integrate what improves the whole when compatible, or replace an inferior component when appropriate.
+## X. The replacement criterion
 
-Framework identity does not require freezing every implementation.
+If another architecture demonstrates that it fulfils one of the framework's functions better, with greater safety, openness, effectiveness, traceability or protection of life, Neodialectics must not ignore it in order to protect its identity.
 
-<!-- PARITY_72_39_X -->
-If another architecture performs a framework function better, with greater safety, openness, effectiveness, traceability or protection of life, Neodialectics should:
+It must:
 
 1. study it;
 2. recognise its genealogy;
 3. scrutinise it;
 4. integrate what improves the whole when compatible;
-5. replace the inferior component when appropriate.
+5. or replace the inferior component where appropriate.
 
 ```text
 FRAMEWORK IDENTITY
 ≠
-COMPULSORY PRESERVATION OF EVERY COMPONENT
+COMPULSORY PRESERVATION OF ALL ITS PARTS
 ```
+
+Continuity lies in orientation, genealogy and the method of correction, not in freezing every implementation.
 
 ## XI. When an architecture becomes vital
 
-Infrastructure becomes vital when its absence systematically degrades capacities necessary to preserve common life.
+An infrastructure becomes vital when its absence systematically degrades capacities necessary to preserve common life.
 
-The Neodialectical hypothesis grows stronger insofar as it can demonstrate that the absence of equivalent mechanisms increases loss of context, repetition of errors, fragmentation, unproductive conflict, capture of decisions, invisibility of contributions and inability to coordinate scales or correct dangerous trajectories.
+The neodialectical hypothesis becomes stronger to the extent that it can be demonstrated that, without mechanisms equivalent to its own, the following increase:
 
-Need must be measured by function and result.
+- loss of context;
+- repetition of errors;
+- fragmentation;
+- unproductive conflict;
+- capture of decisions;
+- invisibilisation of contributions;
+- inability to coordinate scales;
+- and difficulty correcting dangerous trajectories.
+
+Need must be measured through function and result.
 
 ## XII. Proclamation
 
@@ -615,21 +676,34 @@ Need must be measured by function and result.
 >
 > We do not ask for obedience to a word.
 >
-> We build an architecture so contradiction can enter without destroying memory, knowledge can be related without erasing origin, and human and artificial intelligence can cooperate without handing the direction of life to a black box.
+> We build an architecture so that contradiction can enter without destroying memory, so knowledge can be related without erasing its origin, and so human and artificial intelligence can cooperate without handing the direction of life to a black box.
 >
-> Civilisational self-awareness begins when we stop asking only “what problem do we solve today?” and also ask “what organism are we building with all our solutions together?”
+> Civilisational self-awareness begins when we stop asking only “what problem are we solving today?” and also ask “what organism are we building with all our solutions together?”
 >
 > Neodialectics will not be vital because it claims to be.
 >
-> **It will be vital only to the extent that it demonstrates that the functions it integrates are necessary for humanity to keep moving forward without destroying what it intends to save.**
+> **It will be vital only to the extent that it demonstrates that the functions it integrates are necessary for humanity to keep advancing without destroying what it intends to save.**
 
 ## XIII. Open Synthesis
 
-This manifesto opens a specific Open Synthesis concerning civilisational necessity, falsifiability, alternatives, human–AI governance, component substitution, utility measurement and transition from document to living infrastructure.
+This manifesto opens a dedicated Open Synthesis concerning:
+
+- criteria of civilisational need;
+- indicators of systemic self-awareness;
+- limits and falsifiability of the framework;
+- alternatives and precedents;
+- human–AI governance;
+- mechanisms for component replacement;
+- measurement of utility;
+- and transition from document to living infrastructure.
 
 * [Dedicated Open Synthesis · Issue #47](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/47)
-* [Open Synthesis operational protocol](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [Operational Open Synthesis protocol](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 * [Manifesto index](../README.md)
+
+## Navigation
+
+← [XXXVIII · Integral Protection of Childhood™](XXXVIII_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) · [Index](../README.md) · [XL · Neodialectical Respect, Neoego and Relational Honour™](XL_respeto_neoego_honor_relacional_ES_EN.md) →
 
 <!-- NEO_RELATIONS_START -->
 ## Relaciones internas y trabajo aplicado / Internal relations and applied work
