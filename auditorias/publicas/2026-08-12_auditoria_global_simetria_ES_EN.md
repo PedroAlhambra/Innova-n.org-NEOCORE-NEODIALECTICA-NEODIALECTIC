@@ -217,10 +217,7 @@
   - 14: párrafos ES=3 EN=4
 - `propuestas/sintesis-abierta/README.md` · ES=839 · EN=832 · ratio=0.99
   - 10: párrafos ES=2 EN=1
-- `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md` · ES=282 · EN=285 · ratio=1.01
-  - Para qué sirve: lists ES=7 EN=0
-  - Lo que NO significa: lists ES=7 EN=0
-  - Genealogía de derivaciones: code ES=1 EN=0
+- `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md` · ES=282 · EN=287 · ratio=1.02
   - Seguir la evolución: párrafos ES=1 EN=2
 - `propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_365_DIAS_ES_EN.md` · ES=380 · EN=413 · ratio=1.09
   - Regla de apertura permanente: párrafos ES=5 EN=6
@@ -529,7 +526,7 @@
 | `propuestas/sintesis-abierta/PUENTE_PARTICIPACION_GUIADA_CORREO_GITHUB_ES_EN.md` | **REVISAR** | 8: párrafos ES=3 EN=4 |
 | `propuestas/sintesis-abierta/RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md` | **REVISAR** | 14: párrafos ES=3 EN=4 |
 | `propuestas/sintesis-abierta/README.md` | **REVISAR** | 10: párrafos ES=2 EN=1 |
-| `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md` | **REVISAR** | Para qué sirve: lists ES=7 EN=0; Lo que NO significa: lists ES=7 EN=0; Genealogía de derivaciones: code ES=1 EN=0; Seguir la evolución: párrafos ES=1 EN=2 |
+| `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md` | **REVISAR** | Seguir la evolución: párrafos ES=1 EN=2 |
 | `propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_365_DIAS_ES_EN.md` | **REVISAR** | Regla de apertura permanente: párrafos ES=5 EN=6 |
 | `proyeccion/2026-08-11_delta_web4_neocore_patrimonio_comun_aprendizaje_creacion_ES_EN.md` | **REVISAR** | 10: párrafos ES=3 EN=2 |
 | `proyeccion/2026-08-13_DIRECCION_WEB4_NEOCRONOS_AGUILA_ES_EN.md` | **REVISAR** | 8: párrafos ES=5 EN=4 |
