@@ -275,8 +275,9 @@
   - Fuentes: párrafos ES=1 EN=0
 - `wiki-source/Sintesis_Abierta.md` · ES=189 · EN=187 · ratio=0.99
   - Qué no ocurre automáticamente: párrafos ES=2 EN=1
-- `wiki-source/WEB4_y_Proyeccion.md` · ES=221 · EN=215 · ratio=0.97
-  - Principios de diseño ya públicos: párrafos ES=2 EN=1
+- `wiki-source/WEB4_y_Proyeccion.md` · ES=308 · EN=282 · ratio=0.92
+  - Lectura relacional objetivo: lists ES=6 EN=0
+  - Principios de diseño ya públicos: párrafos ES=1 EN=0
 
 ## Marcadores / Markers
 
@@ -561,7 +562,7 @@
 | `wiki-source/RADAR_PI.md` | **REVISAR** | Fuentes: párrafos ES=1 EN=0 |
 | `wiki-source/README.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Salvaguarda |
 | `wiki-source/Sintesis_Abierta.md` | **REVISAR** | Qué no ocurre automáticamente: párrafos ES=2 EN=1 |
-| `wiki-source/WEB4_y_Proyeccion.md` | **REVISAR** | Principios de diseño ya públicos: párrafos ES=2 EN=1 |
+| `wiki-source/WEB4_y_Proyeccion.md` | **REVISAR** | Lectura relacional objetivo: lists ES=6 EN=0; Principios de diseño ya públicos: párrafos ES=1 EN=0 |
 
 ## Regla permanente / Permanent rule
 
