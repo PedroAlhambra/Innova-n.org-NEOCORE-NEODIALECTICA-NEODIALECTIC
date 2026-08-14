@@ -225,9 +225,19 @@ Time is a variable of **living cost and dedication**. Valuation may additionally
 
 ### 3. Returnability
 
-To «return time» does not mean literally returning the past. It means **returning future life capacity** to those who gave useful time to the common system.
+To “return time” does not mean literally returning the past. It means **returning future life capacity** to those who gave useful time to the common system.
 
-Return may take forms validated by future rules, including economic compensation, contribution tokens, reduced future burdens, access to resources, tool/infrastructure priority, funded rest or creation, traceable reputation/genealogy, community reciprocity, or other SAN™-approved mechanisms.
+According to future validated rules, return may take the form of:
+
+- economic compensation;
+- contribution tokens;
+- reduction of future burdens;
+- access to resources;
+- priority in tools or infrastructure;
+- funded rest or creation;
+- traceable reputation and genealogy;
+- community reciprocity;
+- other mechanisms approved through SAN™.
 
 ### 4. Tokenisation fit
 
@@ -253,13 +263,34 @@ EQUITY / OWNERSHIP
 
 ### 5. Contribution mining
 
-The Framework Game™ and Open Synthesis™ may operate as a contribution-mining interface. Useful contradictions, decisive sources, grounded refutations, superior syntheses, code, testing, faithful translation, genealogy, infrastructure repair, context maintenance, applied solutions and necessary care may become eligible.
+The Framework Game™ and Open Synthesis™ may operate as a contribution-mining interface. Potentially mineable activities include:
+
+- useful contradiction;
+- a decisive source;
+- grounded refutation;
+- superior synthesis;
+- code or algorithm;
+- review and testing;
+- faithful translation;
+- genealogy documentation;
+- infrastructure repair;
+- maintenance of memory and context;
+- an applied solution;
+- care for necessary processes.
 
 **Volume of interventions ≠ value.**
 
 ### 6. Anti-farming
 
-NeoCronos™ must not reward repetition, artificial fragmentation, inflated time, already-resolved objections without delta, unrevised automatic volume, sabotage followed by repair claims, or unnecessary complexity created to justify hours.
+NeoCronos™ must not reward:
+
+- repetition;
+- artificial fragmentation of contribution;
+- inflated time;
+- already-resolved objections without a delta;
+- massive automatic generation without review;
+- sabotage followed by a repair claim;
+- unnecessary complexity created to justify hours.
 
 > **NeoCronos™ recognises useful time, not consumed time.**
 
@@ -307,7 +338,7 @@ VALIDATED CONTRIBUTION
 → REAL REWARD
 ```
 
-Tokenisation must never simulate nonexistent liquidity.
+Tokenisation must never simulate nonexistent liquidity. If the fund is insufficient, that state must remain traceable and must not be presented as an available payment.
 
 ### 10. VII ↔ XXIII ↔ NeoCronos™
 
