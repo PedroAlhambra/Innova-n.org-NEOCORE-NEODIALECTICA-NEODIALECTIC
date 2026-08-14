@@ -127,6 +127,8 @@ The aim is not to force every interlocutor to learn GitHub before contributing. 
 
 Before contributing, any reader, institution, AI, team or project may voluntarily declare a traceable relationship through the [Traceable Entry Register™ and Derivation](./REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md).
 
+This makes it possible to distinguish:
+
 ```text
 UNREGISTERED PUBLIC READING
 ≠
@@ -143,7 +145,7 @@ A contact who received an Innova_N email can explicitly select that origin in th
 
 ## 3. Direct participation
 
-Preferred route:
+The preferred route is:
 
 ```text
 READ DELIMITED OBJECT
@@ -165,28 +167,37 @@ Where GitHub is a practical barrier, email may temporarily act as an **entry bri
 EMAIL RECEIVED
 → CONTRIBUTION CLASSIFICATION
 → PROPOSED TRANSCRIPTION OR SUMMARY
-→ AUTHOR REVIEW
+→ SEND TO AUTHOR FOR APPROVAL
 → EXPLICIT AUTHORISATION
 → ISSUE PUBLICATION
 → SOURCE AND GENEALOGY LINKS
 → POSSIBLE DELTA
 ```
 
-**Receiving an email does not grant publication permission.**
+**Email received ≠ permission to publish.**
 
-Private material is not published or attributed without explicit permission.
+Material received by email will not be published or attributed without the sender's explicit authorisation. If the person prefers anonymity or an alias, it should be preserved when compatible with the content and required traceability.
 
 ## 5. Guided onboarding
 
-Innova_N may help participants locate the relevant node, register entry if desired, classify contributions, separate fact/inference/hypothesis, preserve sources and authorship, and transform an email reply into a proposed GitHub contribution subject to approval.
+During this phase, Innova_N may help new participants to:
 
-This accompaniment reduces entry friction; it does not filter contributions by ideological agreement.
+- locate the relevant manifesto or analysis;
+- register their entry if they want to leave a traceable relationship;
+- identify the correct Issue;
+- delimit whether the contribution is criticism, evidence, an alternative, experience, review or implementation;
+- separate facts, inferences and hypotheses;
+- turn an email reply into a proposed GitHub comment;
+- preserve sources, authorship and publication limits;
+- explain which delta a contribution produced.
+
+This accompaniment seeks to **reduce entry friction**, not filter opinions by affinity.
 
 ## 6. Return-to-repository rule
 
 Conversation may begin outside GitHub, but when it produces material knowledge it should return to the traceable system.
 
-> **Social networks and email may be doors. The Entry Register preserves arrival; public Open Synthesis consolidates contribution.**
+> **A social network or email may be the door. The Entry Register preserves arrival; public Open Synthesis consolidates contribution.**
 
 ## 7. Living follow-up
 
@@ -194,11 +205,11 @@ External contacts should preferably receive a stable follow-up link:
 
 - [Follow the Framework and Synthesis](../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md)
 
-This prevents an old message from becoming obsolete merely because the corpus has evolved.
+That way they do not depend on the number of manifestos or the latest node remaining the same as when the email was sent.
 
 ## 8. Mediation cost
 
-Human time spent reading replies, classifying contributions, requesting permission, preparing transcriptions, linking sources and updating Issues is real civic-infrastructure maintenance work and should be recorded within the future Contribution Economy™ and Return of Foundational Time™.
+Human time spent reading replies, classifying contributions, requesting permissions, preparing transcriptions, linking sources and updating Issues constitutes real civic-infrastructure maintenance work and should be recorded within the future Contribution Economy™ and Return of Foundational Time™.
 
 Related:
 
