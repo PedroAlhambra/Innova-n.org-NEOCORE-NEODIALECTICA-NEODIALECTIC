@@ -112,12 +112,7 @@
   - 8: párrafos ES=2 EN=3
 - `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · ES=1175 · EN=1140 · ratio=0.97
   - 11: párrafos ES=1 EN=3
-- `auditorias/publicas/2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md` · ES=888 · EN=791 · ratio=0.89
-  - 4: párrafos ES=1 EN=0
-  - 5: lists ES=5 EN=0
-  - 6: lists ES=6 EN=0
-  - 6: párrafos ES=2 EN=1
-  - 7: lists ES=5 EN=0
+- `auditorias/publicas/2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md` · ES=888 · EN=832 · ratio=0.94
   - 8: párrafos ES=1 EN=2
 - `auditorias/publicas/2026-08-08_addendum_kdp_estrategia_keywords_ediciones_multilingues_51071689_ES_EN.md` · ES=385 · EN=325 · ratio=0.84
   - 1: lists ES=6 EN=0
@@ -482,7 +477,7 @@
 | `anuncios/2026-08-08_XLVI_CERRAR_LA_HERIDA_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria |
 | `auditorias/publicas/2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md` | **REVISAR** | 3: code ES=1 EN=0; 4: lists ES=9 EN=0; 6: lists ES=12 EN=5; 6: párrafos ES=2 EN=1; 7: lists ES=3 EN=0; 8: párrafos ES=2 EN=3 |
 | `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` | **REVISAR** | 11: párrafos ES=1 EN=3 |
-| `auditorias/publicas/2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md` | **REVISAR** | 4: párrafos ES=1 EN=0; 5: lists ES=5 EN=0; 6: lists ES=6 EN=0; 6: párrafos ES=2 EN=1; 7: lists ES=5 EN=0; 8: párrafos ES=1 EN=2 |
+| `auditorias/publicas/2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md` | **REVISAR** | 8: párrafos ES=1 EN=2 |
 | `auditorias/publicas/2026-08-07_plan_normalizacion_sintesis_abierta_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `auditorias/publicas/2026-08-07_postcheck_cierre_total_simetria_I_XXXVI_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `auditorias/publicas/2026-08-07_postcheck_enlaces_y_sincronizacion_XXXV_ES_EN.md` | **OK** |  |
