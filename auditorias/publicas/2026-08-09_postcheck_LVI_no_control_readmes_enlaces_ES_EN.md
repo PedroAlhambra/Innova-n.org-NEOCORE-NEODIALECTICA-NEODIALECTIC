@@ -11,9 +11,9 @@
 - Archivos Markdown históricos excluidos del estado vivo: **55**.
 - Entradas legacy excluidas del estado vivo: **0**.
 - README activos revisados: **17**.
-- Enlaces internos de ruta comprobados: **10335**.
+- Enlaces internos de ruta comprobados: **10336**.
 - Alias internos de GitHub Wiki reconocidos: **43**.
-- Enlaces externos inventariados sin comprobar disponibilidad remota: **1839**.
+- Enlaces externos inventariados sin comprobar disponibilidad remota: **1842**.
 - Enlaces sólo a ancla detectados: **410**.
 - Bloques de último manifiesto encontrados en README: **8**.
 - Bloques legacy NEO_CURRENT_NAV encontrados en README: **0**.
@@ -21,7 +21,7 @@
 - Manifiestos canónicos detectados: **75 · I–LXXV**.
 - Último manifiesto / Síntesis: **LXXV / #134**.
 - Enlaces internos rotos del grafo vivo: **51**.
-- Fallos canónicos críticos: **0**.
+- Fallos canónicos críticos: **1**.
 
 ### Comprobaciones canónicas
 
@@ -33,6 +33,10 @@
 - Los README vivos no deben duplicar la frontera mediante `MANIFESTOS_CURRENT`: el bloque de último manifiesto y el índice canónico compacto son suficientes.
 - El archivo Wiki histórico se conserva como evidencia y no se reescribe para simular vigencia.
 - La auditoría de rutas no sustituye la comprobación remota de URLs externas ni la validación semántica de anclas renderizadas.
+
+### Fallos canónicos
+
+- El lector WEB4 documental no sigue la frontera LXXV. / The documentary WEB4 reader does not follow frontier LXXV.
 
 ### Enlaces internos rotos del grafo vivo
 
@@ -96,9 +100,9 @@
 - Historical Markdown files excluded from living-state health: **55**.
 - Legacy entry files excluded from living-state health: **0**.
 - Active README files reviewed: **17**.
-- Internal path links checked: **10335**.
+- Internal path links checked: **10336**.
 - GitHub Wiki extensionless page aliases recognised: **43**.
-- External links inventoried without checking remote availability: **1839**.
+- External links inventoried without checking remote availability: **1842**.
 - Anchor-only links detected: **410**.
 - Latest-manifesto blocks found in README files: **8**.
 - Legacy NEO_CURRENT_NAV blocks found in README files: **0**.
@@ -106,7 +110,7 @@
 - Canonical manifestos detected: **75 · I–LXXV**.
 - Latest manifesto / synthesis: **LXXV / #134**.
 - Broken internal links in the living graph: **51**.
-- Canonical critical failures: **0**.
+- Canonical critical failures: **1**.
 
 ### Canonical checks
 
@@ -118,6 +122,10 @@
 - Living README files must not duplicate the frontier through `MANIFESTOS_CURRENT`: the latest-manifesto block and compact canonical index are sufficient.
 - The historical Wiki archive is preserved as evidence and is not rewritten to simulate current validity.
 - The route audit does not replace remote checking of external URLs or semantic validation of rendered anchors.
+
+### Canonical failures
+
+- El lector WEB4 documental no sigue la frontera LXXV. / The documentary WEB4 reader does not follow frontier LXXV.
 
 ### Broken internal links in the living graph
 
