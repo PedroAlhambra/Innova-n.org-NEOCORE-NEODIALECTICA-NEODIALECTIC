@@ -1,5 +1,5 @@
 # Guía rápida · Cómo aportar a una Síntesis Abierta™
-## Quick guide · How to contribute to an Open Synthesis™
+# Quick guide · How to contribute to an Open Synthesis™
 
 **Objetivo / Goal:** que cualquier persona pueda aportar una idea, crítica, corrección, fuente, experiencia o prueba **sin saber Git, sin hacer commits y sin comprender todo el marco**. / Allow anyone to contribute an idea, criticism, correction, source, experience or evidence **without knowing Git, making commits, or understanding the whole framework**.
 
@@ -172,23 +172,36 @@ Si no sabes dónde encaja, usa la **Puerta Abierta ∞** y describe el asunto co
 
 1. Open the **Open Synthesis Issue** related to the topic.
 2. Click **Add a comment**.
-3. In your own words, explain what you observed, what you object to, or what you propose.
-4. If you have a screenshot, photo, PDF or another supported file, **drag or paste it directly into the GitHub comment**. You do not need to upload it into the repository or know Git.
+3. In your own words, explain what you observed, what objection you have or what you propose.
+4. If you have a screenshot, photograph, PDF or another supported file, **drag or paste it directly into the GitHub comment**. You do not need to upload it to the repository or know how to use Git.
 5. Click **Comment**.
 
-That is already an **admitted contribution for scrutiny**.
+That already constitutes an **admitted contribution for scrutiny**.
 
-You do not need to prepare a perfect technical report. Missing context can be requested later.
+You do not need to prepare a perfect technical report. If context is missing, other people or the synthesis itself can request it later.
 
 ## What you may contribute
 
-A contribution may be a question, criticism, objection, counterexample, source, direct experience, screenshot, photo, video, PDF, record, reproduction, factual correction, alternative hypothesis, repair proposal, implementation, delta or improvement.
+You may contribute any of the following:
 
-**You do not need to be right in order to contribute.** Whenever possible, distinguish between what you observed, what a source claims, and what you infer.
+- a relevant question;
+- a criticism or objection;
+- a counterexample;
+- a source;
+- direct experience;
+- a screenshot, photograph, video, PDF or record;
+- a reproduction of a problem;
+- a factual or chronological correction;
+- an alternative hypothesis;
+- a repair proposal;
+- an implementation;
+- a delta or improvement to the framework.
 
-## Visual or documentary evidence
+**You do not need to be right in order to contribute.** You should, as far as possible, distinguish between what you observed, what another source claims and what you infer.
 
-When possible, provide only what you know:
+## If you contribute visual or documentary evidence
+
+Where possible, add only what you know:
 
 ```text
 WHAT IT IS
@@ -201,33 +214,87 @@ WHERE
 → platform, website, application or context
 
 WHAT YOU DID
-→ query, action or reproduction steps
+→ query, action or steps performed
 
 WHAT HAPPENED
 → observable result
 ```
 
-Do not withhold a useful contribution merely because some metadata is missing. State that it is unknown.
+If you do not know one of these details, **do not refrain from contributing because of it**. Simply state that you do not know.
 
-A screenshot may establish what appeared in one concrete test. By itself it normally does not establish cause, intent, responsibility, universality or persistence. Open Synthesis separates those epistemic levels during scrutiny.
+### Very important
 
-## Contributed evidence vs preserved evidence
+A screenshot can demonstrate that **something appeared that way in a specific test**. By itself it normally does not demonstrate:
 
-**Contributed evidence** is material attached directly to an Issue or comment. This is the normal low-friction entry path.
+- the cause;
+- the intention;
+- who is responsible;
+- that the behaviour is universal;
+- that it continued afterwards;
+- that an explanatory hypothesis is correct.
 
-**Preserved evidence** is material that, after becoming materially relevant, may later be copied into a canonical repository path with identifiers, stable path, context, cryptographic hash, Issue relation and provenance.
+Open Synthesis will separate these levels during scrutiny.
 
-**The contributor does not have to perform that preservation step.** Infrastructure or synthesis maintainers may do it later.
+## Contributed evidence and preserved evidence
+
+The architecture distinguishes two states:
+
+### 1. Contributed evidence
+
+The participant attaches the material directly to an Issue or comment.
+
+```text
+PERSON
+→ ISSUE
+→ TEXT / SCREENSHOT / FILE / LINK
+→ ADMISSION FOR SCRUTINY
+```
+
+This should be the normal entry route because it minimises friction.
+
+### 2. Preserved evidence
+
+If the material becomes evidentially relevant, it may later be preserved in a canonical repository path, keeping the original where possible and adding, as appropriate:
+
+- evidence identifier;
+- stable path;
+- date;
+- context;
+- SHA-256 or another cryptographic fingerprint;
+- relation to the Issue;
+- epistemic status;
+- genealogy of changes.
+
+```text
+CONTRIBUTED EVIDENCE
+→ SCRUTINY
+→ MATERIAL RELEVANCE
+→ CANONICAL PRESERVATION
+→ FINGERPRINT / METADATA / TRACEABILITY
+```
+
+**The contributor does not have to perform this second step.** Infrastructure or the people maintaining the synthesis may do it later.
 
 ## Minimum-Friction Evidence Admission Principle™
 
-> A person must be able to contribute primary evidence to an Open Synthesis through ordinary Issue mechanisms —text, screenshot, file or link— without technical Git knowledge. Admission does not imply validation. When evidence becomes materially relevant, the system may subsequently preserve it in the canonical repository, record its cryptographic fingerprint and document its provenance.
+> A person must be able to contribute primary evidence to an Open Synthesis through ordinary Issue mechanisms —text, screenshot, file or link— without technical Git knowledge. Admission of evidence does not imply validation. When evidence becomes materially relevant, the system may subsequently preserve it in the canonical repository, record its cryptographic fingerprint and document its genealogy.
 
-The principle minimizes entry friction **without lowering subsequent evidentiary rigor**.
+This principle prioritises ease of use **without lowering subsequent rigour**.
 
-## You do NOT need
+## You do not need to do this
 
-For an ordinary contribution you do **NOT** need to clone the repository, create a branch, know Markdown, make a commit, open a Pull Request, calculate hashes, understand the full Neodialectical framework, or formulate a final conclusion.
+To make an ordinary contribution you **DO NOT need** to:
+
+- clone the repository;
+- create a branch;
+- know Markdown;
+- make a commit;
+- open a Pull Request;
+- calculate hashes;
+- know all of Neodialectics™;
+- formulate a definitive conclusion.
+
+If you want to do any of these things because your contribution is technical, you may, but **they are not entry barriers**.
 
 ## Golden rule
 
@@ -235,13 +302,19 @@ For an ordinary contribution you do **NOT** need to clone the repository, create
 LOW ENTRY FRICTION
 + HIGH SUBSEQUENT TRACEABILITY
 + OPEN SCRUTINY
-+ CORRECTABILITY
++ POSSIBILITY OF CORRECTION
 = SYNTHESIS USABLE BY REAL PEOPLE
 ```
 
-If you do not know where your contribution belongs, use the **∞ Open Gate** and describe the matter in normal language. Classification can happen afterwards.
+## Do you not know where to place your contribution?
+
+If a related Issue already exists, comment there.
+
+If the problem is external to the framework or you want to propose an audit, use **Leónidas™ / Public Audits**.
+
+If you do not know where it fits, use the **∞ Open Gate** and describe the matter in normal language. Classification can happen afterwards.
 
 - [Open Synthesis index](README.md)
-- [Leónidas™ protocol](LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)
+- [Leónidas™ · protocol](LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)
 - [Public Audits](../../auditorias/publicas/README.md)
 - [∞ Open Gate · Issue #106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106)
