@@ -109,7 +109,7 @@
   - Estado del índice de manifiestos: párrafos ES=2 EN=3
 - `auditorias/publicas/2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md` · ES=794 · EN=774 · ratio=0.97
   - 10: párrafos ES=1 EN=2
-- `auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md` · ES=255 · EN=253 · ratio=0.99
+- `auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md` · ES=1492 · EN=1492 · ratio=1.00
   - Enlaces internos rotos del grafo vivo: párrafos ES=0 EN=1
 - `auditorias/publicas/2026-08-10_auditoria_responsabilidad_historica_infraestructuras_publicas_espana_ES_EN.md` · ES=1146 · EN=1139 · ratio=0.99
   - 11: párrafos ES=1 EN=0
@@ -213,14 +213,7 @@
   - Resultado esperado: párrafos ES=1 EN=0
 - `propuestas/sintesis-abierta/PUENTE_PARTICIPACION_GUIADA_CORREO_GITHUB_ES_EN.md` · ES=522 · EN=501 · ratio=0.96
   - 8: párrafos ES=3 EN=4
-- `propuestas/sintesis-abierta/RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md` · ES=806 · EN=769 · ratio=0.95
-  - 2: lists ES=12 EN=0
-  - 7: code ES=1 EN=0
-  - 7: párrafos ES=4 EN=3
-  - 8: lists ES=6 EN=0
-  - 10: code ES=1 EN=0
-  - 10: párrafos ES=2 EN=1
-  - 11: lists ES=8 EN=0
+- `propuestas/sintesis-abierta/RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md` · ES=806 · EN=795 · ratio=0.99
   - 14: párrafos ES=3 EN=4
 - `propuestas/sintesis-abierta/README.md` · ES=839 · EN=832 · ratio=0.99
   - 10: párrafos ES=2 EN=1
@@ -257,9 +250,7 @@
   - Regla de lectura: párrafos ES=2 EN=1
 - `wiki-source/Manifiestos.md` · ES=184 · EN=187 · ratio=1.02
   - Regla documental: párrafos ES=1 EN=0
-- `wiki-source/Mapa_del_Marco.md` · ES=287 · EN=229 · ratio=0.80
-  - volumen EN/ES=0.80 (229/287)
-  - Síntesis y participación: lists ES=10 EN=8
+- `wiki-source/Mapa_del_Marco.md` · ES=247 · EN=229 · ratio=0.93
   - Síntesis y participación: párrafos ES=1 EN=0
   - Regla: párrafos ES=2 EN=1
 - `wiki-source/NeoGenealogia.md` · ES=307 · EN=282 · ratio=0.92
@@ -536,7 +527,7 @@
 | `propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md` | **REVISAR** | 12: párrafos ES=3 EN=4 |
 | `propuestas/sintesis-abierta/PARTICIPACION_Y_ADHESIONES_ES_EN.md` | **REVISAR** | Resultado esperado: párrafos ES=1 EN=0 |
 | `propuestas/sintesis-abierta/PUENTE_PARTICIPACION_GUIADA_CORREO_GITHUB_ES_EN.md` | **REVISAR** | 8: párrafos ES=3 EN=4 |
-| `propuestas/sintesis-abierta/RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md` | **REVISAR** | 2: lists ES=12 EN=0; 7: code ES=1 EN=0; 7: párrafos ES=4 EN=3; 8: lists ES=6 EN=0; 10: code ES=1 EN=0; 10: párrafos ES=2 EN=1; 11: lists ES=8 EN=0; 14: párrafos ES=3 EN=4 |
+| `propuestas/sintesis-abierta/RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md` | **REVISAR** | 14: párrafos ES=3 EN=4 |
 | `propuestas/sintesis-abierta/README.md` | **REVISAR** | 10: párrafos ES=2 EN=1 |
 | `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md` | **REVISAR** | Para qué sirve: lists ES=7 EN=0; Lo que NO significa: lists ES=7 EN=0; Genealogía de derivaciones: code ES=1 EN=0; Seguir la evolución: párrafos ES=1 EN=2 |
 | `propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_365_DIAS_ES_EN.md` | **REVISAR** | Regla de apertura permanente: párrafos ES=5 EN=6 |
@@ -554,7 +545,7 @@
 | `wiki-source/Filosofia_y_NEOCore.md` | **REVISAR** | Cómo leer el núcleo sin reducirlo: párrafos ES=2 EN=1 |
 | `wiki-source/Home.md` | **REVISAR** | Regla de lectura: párrafos ES=2 EN=1 |
 | `wiki-source/Manifiestos.md` | **REVISAR** | Regla documental: párrafos ES=1 EN=0 |
-| `wiki-source/Mapa_del_Marco.md` | **REVISAR** | volumen EN/ES=0.80 (229/287); Síntesis y participación: lists ES=10 EN=8; Síntesis y participación: párrafos ES=1 EN=0; Regla: párrafos ES=2 EN=1 |
+| `wiki-source/Mapa_del_Marco.md` | **REVISAR** | Síntesis y participación: párrafos ES=1 EN=0; Regla: párrafos ES=2 EN=1 |
 | `wiki-source/NeoGenealogia.md` | **REVISAR** | Qué es: párrafos ES=3 EN=2; Fuentes canónicas: párrafos ES=1 EN=0 |
 | `wiki-source/Neoaxiomas.md` | **REVISAR** | Regla: párrafos ES=1 EN=0 |
 | `wiki-source/Obras_y_Cultura.md` | **REVISAR** | Hacia WEB4™: párrafos ES=2 EN=1 |

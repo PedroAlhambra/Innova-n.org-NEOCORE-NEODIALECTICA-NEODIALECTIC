@@ -275,7 +275,20 @@ OPEN SYNTHESIS™
 
 ## 2. What it may detect
 
-RADAR-Π™ may open signals concerning decision mechanisms, patterns of self-limitation or scaling, technical architectures, human–machine coordination, institutional structures, memory/traceability/revision mechanisms, conflict/cooperation/custodianship patterns, functional archetypal recurrences, philosophical or scientific antecedents, earlier partial implementations, independent contemporary convergences, and counterexamples that challenge or refute parts of the framework.
+RADAR-Π™ may open a signal concerning:
+
+- decision mechanisms;
+- patterns of self-limitation or scaling;
+- technical architectures;
+- forms of human–machine coordination;
+- institutional structures;
+- memory, traceability or review mechanisms;
+- patterns of conflict, cooperation or custodianship;
+- functional archetypal recurrences;
+- philosophical or scientific antecedents;
+- earlier partial implementations;
+- independent contemporary convergences;
+- counterexamples that challenge or refute a component of the framework.
 
 Aesthetic, verbal or symbolic similarity is insufficient. The comparison must try to preserve **function, context, scope and difference**.
 
@@ -342,13 +355,29 @@ Claims of influence, appropriation, copying or derivation require an additional 
 
 RADAR-Π™ should register archetypal recurrence only when a **recognisable relational function** can be described as recurring under different contexts.
 
+Examples of useful questions:
+
+```text
+DOES THE CUSTODIANSHIP FUNCTION REAPPEAR?
+DOES THE PATTERN OF CROWNING ONE PART REAPPEAR?
+DOES A PAUSE BEFORE POORLY UNDERSTOOD POWER REAPPEAR?
+DOES A MEMORY + CONTRADICTION + REVIEW MECHANISM REAPPEAR?
+```
+
 Archetypal language guides the search; evidence determines classification.
 
 ## 8. Mandatory negative scan
 
 RADAR-Π™ must not search only for cases favourable to the framework.
 
-For every strong match it should also seek older antecedents, more complete earlier implementations, failures of apparently similar mechanisms, cases with opposite outcomes, simpler alternative explanations, and sources that weaken the proposed interpretation.
+For every strong match it should also try to locate:
+
+- still older antecedents;
+- more complete implementations of the same component;
+- failures of apparently similar mechanisms;
+- cases where the pattern produced opposite consequences;
+- simpler alternative explanations;
+- sources that weaken the proposed interpretation.
 
 ```text
 CONFIRMATION WITHOUT NEGATIVE SCANNING
@@ -377,11 +406,33 @@ SIGNAL / CASE
 
 ## 10. Relation to Umbral-X™
 
-**Umbral-X™** provides the sufficient-signal criterion before elevating a resemblance into a material relation. It is not used to shield the framework from uncomfortable antecedents; it reduces noise and demands evidence proportional to the claim.
+**Umbral-X™** provides the sufficient-signal criterion before elevating a resemblance into a material relation.
+
+```text
+WEAK CLUE
+→ MAY REMAIN IN THE QUEUE
+
+SUFFICIENT SIGNAL
+→ RETURN TO SOURCE
+
+STRONG CONTRADICTION
+→ MUST ENTER SAN™
+```
+
+Umbral-X™ is not used to shield the framework from uncomfortable antecedents. It is used to reduce noise and demand evidence proportional to the claim.
 
 ## 11. Possible effects on the framework
 
-A RADAR-Π™ case may result in no delta, attribution correction, narrowing of a novelty claim, conceptual reformulation, a new genealogical relation, a new delta, a counterexample requiring limitation or withdrawal of a formulation, or local refutation.
+A RADAR-Π™ case may result in:
+
+- **no delta**: the comparison changes no material claim;
+- **attribution correction**;
+- **narrowing of a novelty claim**;
+- **conceptual reformulation**;
+- **a new genealogical relation**;
+- **a new delta**;
+- **a counterexample requiring limitation or withdrawal of a formulation**;
+- **local refutation**.
 
 Finding an antecedent is not a defeat. Neither is finding a counterexample. Both increase system resolution when their provenance is preserved.
 
