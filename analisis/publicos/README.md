@@ -65,12 +65,6 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 [Manifiestos / Manifestos](../../manifiestos/README.md) · [Relaciones y trabajo aplicado / Relations and applied work](../../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Neoaxiomas™](../../neoaxiomas/README.md) · [Síntesis Abierta / Open Synthesis](../../propuestas/sintesis-abierta/README.md) · [Síntesis relacional / Relational synthesis #98](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/98) · [Auditoría MAXPROC / MAXPROC audit](../../auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md)
 
 <!-- NEO_RELATIONAL_MENU_END -->
-<!-- MANIFESTOS_CURRENT_START -->
-
-**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LXXV · 75 manifiestos bilingües / 75 bilingual manifestos** · [índice canónico / canonical index](../../manifiestos/README.md)
-
-<!-- MANIFESTOS_CURRENT_END -->
-
 <!-- NEO_ALL_MANIFESTOS_START -->
 
 ## Manifiestos / Manifestos

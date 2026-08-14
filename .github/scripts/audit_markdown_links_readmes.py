@@ -115,6 +115,14 @@ if 'REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md' not in se:
 if '# ES · Castellano' not in se or '# EN · English' not in se:
     critical.append('El README operativo de Síntesis no conserva división bilingüe ES/EN. / The operational Synthesis README does not preserve the ES/EN bilingual split.')
 
+redundant_manifestos_current=[]
+for f in readmes:
+    text=f.read_text(encoding='utf-8',errors='replace')
+    if '<!-- MANIFESTOS_CURRENT_START -->' in text or '<!-- MANIFESTOS_CURRENT_END -->' in text:
+        redundant_manifestos_current.append(f.relative_to(root).as_posix())
+if redundant_manifestos_current:
+    critical.append('README con bloque redundante MANIFESTOS_CURRENT: '+', '.join(redundant_manifestos_current)+' / README with redundant MANIFESTOS_CURRENT block: '+', '.join(redundant_manifestos_current))
+
 stale_current_nav=[]
 for f in readmes:
     text=f.read_text(encoding='utf-8',errors='replace')
@@ -158,6 +166,7 @@ lines = [
     f'- Enlaces sólo a ancla detectados: **{anchor_only}**.',
     f'- Bloques de último manifiesto encontrados en README: **{latest_markers}**.',
     f'- Bloques legacy NEO_CURRENT_NAV encontrados en README: **{len(stale_current_nav)}**.',
+    f'- Bloques redundantes MANIFESTOS_CURRENT encontrados en README: **{len(redundant_manifestos_current)}**.',
     f'- Manifiestos canónicos detectados: **{count} · I–{latest_roman or "?"}**.',
     f'- Último manifiesto / Síntesis: **{latest_desc}**.',
     f'- Enlaces internos rotos del grafo vivo: **{len(broken)}**.',
@@ -170,6 +179,7 @@ lines = [
     '- El README operativo de Síntesis debe conservar las rutas de participación sin duplicar el inventario dinámico.',
     '- Los README con bloque `NEO_LATEST_MANIFESTO` deben apuntar al último manifiesto y su Síntesis.',
     '- Los README vivos no pueden conservar bloques `NEO_CURRENT_NAV`: la frontera numérica pertenece a los índices canónicos dinámicos.',
+    '- Los README vivos no deben duplicar la frontera mediante `MANIFESTOS_CURRENT`: el bloque de último manifiesto y el índice canónico compacto son suficientes.',
     '- El archivo Wiki histórico se conserva como evidencia y no se reescribe para simular vigencia.',
     '- La auditoría de rutas no sustituye la comprobación remota de URLs externas ni la validación semántica de anclas renderizadas.',
     '',
@@ -197,6 +207,7 @@ lines += [
     f'- Anchor-only links detected: **{anchor_only}**.',
     f'- Latest-manifesto blocks found in README files: **{latest_markers}**.',
     f'- Legacy NEO_CURRENT_NAV blocks found in README files: **{len(stale_current_nav)}**.',
+    f'- Redundant MANIFESTOS_CURRENT blocks found in README files: **{len(redundant_manifestos_current)}**.',
     f'- Canonical manifestos detected: **{count} · I–{latest_roman or "?"}**.',
     f'- Latest manifesto / synthesis: **{latest_desc}**.',
     f'- Broken internal links in the living graph: **{len(broken)}**.',
@@ -209,6 +220,7 @@ lines += [
     '- The operational Synthesis README must preserve participation routes without duplicating the dynamic inventory.',
     '- README files with a `NEO_LATEST_MANIFESTO` block must point to the latest manifesto and its Synthesis.',
     '- Living README files may not retain `NEO_CURRENT_NAV` blocks: the numerical frontier belongs to dynamic canonical indexes.',
+    '- Living README files must not duplicate the frontier through `MANIFESTOS_CURRENT`: the latest-manifesto block and compact canonical index are sufficient.',
     '- The historical Wiki archive is preserved as evidence and is not rewritten to simulate current validity.',
     '- The route audit does not replace remote checking of external URLs or semantic validation of rendered anchors.',
     '',

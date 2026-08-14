@@ -43,13 +43,6 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 > «Las ideas más simples pueden contener universos.»  
 > “The simplest ideas may contain universes.”
-
-<!-- MANIFESTOS_CURRENT_START -->
-
-**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LXXV · 75 manifiestos bilingües / 75 bilingual manifestos** · [índice canónico / canonical index](../../manifiestos/README.md)
-
-<!-- MANIFESTOS_CURRENT_END -->
-
 <!-- NEO_ALL_MANIFESTOS_START -->
 
 ## Manifiestos / Manifestos

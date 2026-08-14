@@ -119,7 +119,7 @@
   - Estado del índice de manifiestos: párrafos ES=2 EN=3
 - `auditorias/publicas/2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md` · ES=794 · EN=774 · ratio=0.97
   - 10: párrafos ES=1 EN=2
-- `auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md` · ES=196 · EN=196 · ratio=1.00
+- `auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md` · ES=255 · EN=253 · ratio=0.99
   - Enlaces internos rotos del grafo vivo: párrafos ES=0 EN=1
 - `auditorias/publicas/2026-08-10_auditoria_responsabilidad_historica_infraestructuras_publicas_espana_ES_EN.md` · ES=1146 · EN=1139 · ratio=0.99
   - 11: párrafos ES=1 EN=0
@@ -348,7 +348,7 @@
 - `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md`: Parte II — Dajla, mafias migratorias y control estatal | La infraestructura oculta de la presión fronteriza | Part II — Dakhla, migrant-smuggling networks and state control | Versión en español | Parte II — Dajla, mafias migratorias y control estatal | Utilización política del ecosistema | Acusación extraordinaria sin prueba suficiente | Conclusión | English version | Part II — Dakhla, migrant-smuggling networks and state control | Political use of the ecosystem | Extraordinary allegation without sufficient evidence
 - `analisis/publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md`: ES | EN
 - `analisis/publicos/evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md`: España, Marruecos, regularización y nacionalidad
-- `analisis/publicos/evidencias/README.md`: Evidencias de análisis públicos | Protección Integral de la Infancia™ | EN | Estado canónico actual · Current canonical state
+- `analisis/publicos/evidencias/README.md`: Evidencias de análisis públicos | Protección Integral de la Infancia™ | EN
 - `anuncios/2026-08-08_XLVII_ODIO_SINO_GOAT_SOMBRA_DOBLE_CARA_ES_EN.md`: The Goat, Sombra, Vínculo y Doble Cara de la Vida
 - `anuncios/2026-08-08_XLVI_CERRAR_LA_HERIDA_ES_EN.md`: Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria
 - `auditorias/publicas/2026-08-08_postcheck_XLIV_neowar_enlaces_readmes_ES_EN.md`: Postcheck XLIV · Neowar™ · enlaces y READMEs | XLIV postcheck · Neowar™ · links and READMEs
@@ -424,7 +424,7 @@
 | `analisis/publicos/evidencias/2026-08-07_ceuta-marruecos-evolucion-conflicto-fuentes-y-matriz_ES_EN.md` | **REVISAR** | Vacíos documentales prioritarios: lists ES=12 EN=25; Vacíos documentales prioritarios: párrafos ES=1 EN=3 |
 | `analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md` | **OK** |  |
 | `analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuerzas-y-matriz_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
-| `analisis/publicos/evidencias/README.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Evidencias de análisis públicos / Protección Integral de la Infancia™ / EN / Estado canónico actual · Current canonical state |
+| `analisis/publicos/evidencias/README.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Evidencias de análisis públicos / Protección Integral de la Infancia™ / EN |
 | `anuncios/2026-08-06_ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_SINTESIS_ABIERTA_ES_EN.md` | **REVISAR** | Participa: párrafos ES=2 EN=1 |
 | `anuncios/2026-08-06_SEGUNDA_OLEADA_MANIFIESTOS_NEOPANDORA_ES_EN.md` | **REVISAR** | Leer y participar: párrafos ES=2 EN=1 |
 | `anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md` | **REVISAR** | Secuencia: párrafos ES=2 EN=1 |

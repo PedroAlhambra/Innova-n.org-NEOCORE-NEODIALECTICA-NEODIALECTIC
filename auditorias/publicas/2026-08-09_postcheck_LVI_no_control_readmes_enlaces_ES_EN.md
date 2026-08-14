@@ -11,12 +11,13 @@
 - Archivos Markdown históricos excluidos del estado vivo: **55**.
 - Entradas legacy excluidas del estado vivo: **0**.
 - README activos revisados: **17**.
-- Enlaces internos de ruta comprobados: **10347**.
+- Enlaces internos de ruta comprobados: **10341**.
 - Alias internos de GitHub Wiki reconocidos: **43**.
 - Enlaces externos inventariados sin comprobar disponibilidad remota: **1840**.
 - Enlaces sólo a ancla detectados: **410**.
 - Bloques de último manifiesto encontrados en README: **8**.
 - Bloques legacy NEO_CURRENT_NAV encontrados en README: **0**.
+- Bloques redundantes MANIFESTOS_CURRENT encontrados en README: **0**.
 - Manifiestos canónicos detectados: **75 · I–LXXV**.
 - Último manifiesto / Síntesis: **LXXV / #134**.
 - Enlaces internos rotos del grafo vivo: **0**.
@@ -29,6 +30,7 @@
 - El README operativo de Síntesis debe conservar las rutas de participación sin duplicar el inventario dinámico.
 - Los README con bloque `NEO_LATEST_MANIFESTO` deben apuntar al último manifiesto y su Síntesis.
 - Los README vivos no pueden conservar bloques `NEO_CURRENT_NAV`: la frontera numérica pertenece a los índices canónicos dinámicos.
+- Los README vivos no deben duplicar la frontera mediante `MANIFESTOS_CURRENT`: el bloque de último manifiesto y el índice canónico compacto son suficientes.
 - El archivo Wiki histórico se conserva como evidencia y no se reescribe para simular vigencia.
 - La auditoría de rutas no sustituye la comprobación remota de URLs externas ni la validación semántica de anclas renderizadas.
 
@@ -42,12 +44,13 @@
 - Historical Markdown files excluded from living-state health: **55**.
 - Legacy entry files excluded from living-state health: **0**.
 - Active README files reviewed: **17**.
-- Internal path links checked: **10347**.
+- Internal path links checked: **10341**.
 - GitHub Wiki extensionless page aliases recognised: **43**.
 - External links inventoried without checking remote availability: **1840**.
 - Anchor-only links detected: **410**.
 - Latest-manifesto blocks found in README files: **8**.
 - Legacy NEO_CURRENT_NAV blocks found in README files: **0**.
+- Redundant MANIFESTOS_CURRENT blocks found in README files: **0**.
 - Canonical manifestos detected: **75 · I–LXXV**.
 - Latest manifesto / synthesis: **LXXV / #134**.
 - Broken internal links in the living graph: **0**.
@@ -60,6 +63,7 @@
 - The operational Synthesis README must preserve participation routes without duplicating the dynamic inventory.
 - README files with a `NEO_LATEST_MANIFESTO` block must point to the latest manifesto and its Synthesis.
 - Living README files may not retain `NEO_CURRENT_NAV` blocks: the numerical frontier belongs to dynamic canonical indexes.
+- Living README files must not duplicate the frontier through `MANIFESTOS_CURRENT`: the latest-manifesto block and compact canonical index are sufficient.
 - The historical Wiki archive is preserved as evidence and is not rewritten to simulate current validity.
 - The route audit does not replace remote checking of external URLs or semantic validation of rendered anchors.
 

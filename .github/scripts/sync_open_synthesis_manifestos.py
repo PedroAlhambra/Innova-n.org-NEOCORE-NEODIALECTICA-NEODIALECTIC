@@ -42,7 +42,6 @@ if not issue_num:
 issue_url=f'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/{issue_num}'
 
 LATEST_START='<!-- NEO_LATEST_MANIFESTO_START -->'; LATEST_END='<!-- NEO_LATEST_MANIFESTO_END -->'
-CURRENT_START='<!-- MANIFESTOS_CURRENT_START -->'; CURRENT_END='<!-- MANIFESTOS_CURRENT_END -->'
 NETWORK_START='<!-- NEO_ALL_MANIFESTOS_START -->'; NETWORK_END='<!-- NEO_ALL_MANIFESTOS_END -->'
 INVITE_START='<!-- NEO_OPEN_SYNTHESIS_INVITATION_START -->'; INVITE_END='<!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->'
 NAV_START='<!-- NEO_MANIFESTO_NAV_START -->'; NAV_END='<!-- NEO_MANIFESTO_NAV_END -->'
@@ -67,12 +66,6 @@ def latest_block(f):
 
 {LATEST_END}'''
 
-def current_block(f):
-    return f'''{CURRENT_START}
-
-**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–{roman} · {count} manifiestos bilingües / {count} bilingual manifestos** · [índice canónico / canonical index]({rel(f,index)})
-
-{CURRENT_END}'''
 
 def compact_network_block(f):
     return f'''{NETWORK_START}
@@ -130,7 +123,6 @@ changed=[]
 for f in readmes:
     s=f.read_text(encoding='utf-8'); old=s
     s=replace_block(s,LATEST_START,LATEST_END,latest_block(f))
-    s=replace_block(s,CURRENT_START,CURRENT_END,current_block(f))
     if NETWORK_START in s and NETWORK_END in s and f.resolve()!=index.resolve():
         s=replace_block(s,NETWORK_START,NETWORK_END,compact_network_block(f))
     if INVITE_START in s and INVITE_END in s:
