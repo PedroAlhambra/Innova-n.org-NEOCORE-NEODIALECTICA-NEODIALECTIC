@@ -9,7 +9,7 @@
 
 - Markdown activo examinado / Active Markdown scanned: **291**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **211**.
-- Fallos estructurales divididos / Split structural failures: **123**.
+- Fallos estructurales divididos / Split structural failures: **122**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **24**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -139,9 +139,6 @@
 - `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · ES=903 · EN=678 · ratio=0.75
   - volumen EN/ES=0.75 (678/903)
   - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (3, ''), (3, ''), (3, ''), (2, '8'), (2, '9'), (2, '10')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (3, ''), (3, ''), (2, '8'), (2, '9'), (2, '10')]
-- `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md` · ES=246 · EN=144 · ratio=0.59
-  - volumen EN/ES=0.59 (144/246)
-  - esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] EN=[(2, '')]
 - `auditorias/publicas/2026-08-08_auditoria_integral_correlacion_manifiestos_trabajo_aplicado_ES_EN.md` · ES=880 · EN=533 · ratio=0.61
   - volumen EN/ES=0.61 (533/880)
   - 2: lists ES=12 EN=0
@@ -550,7 +547,7 @@
 | `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` | **REVISAR** | volumen EN/ES=0.75 (678/903); esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (3, ''), (3, ''), (3, ''), (2, '8'), (2, '9'), (2, '10')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (3, ''), (3, ''), (2, '8'), (2, '9'), (2, '10')] |
 | `auditorias/publicas/2026-08-08_auditoria_externa_streaming_distribuidores_metadatos_regalias_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-08_auditoria_formato_manifiestos_XXXVIII_XLIII_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
-| `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md` | **REVISAR** | volumen EN/ES=0.59 (144/246); esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] EN=[(2, '')] |
+| `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-08_auditoria_integral_correlacion_manifiestos_trabajo_aplicado_ES_EN.md` | **REVISAR** | volumen EN/ES=0.61 (533/880); 2: lists ES=12 EN=0; 3: lists ES=6 EN=2; 4: lists ES=4 EN=0; 4: párrafos ES=3 EN=1; 5: lists ES=13 EN=0; 5: párrafos ES=3 EN=1; 6: lists ES=5 EN=0; 6: párrafos ES=2 EN=1; 7: lists ES=10 EN=0; 9: lists ES=6 EN=0; 10: párrafos ES=3 EN=4 |
 | `auditorias/publicas/2026-08-08_auditoria_oneshots_github_actions_carreras_noop_y_estado_final_ES_EN.md` | **REVISAR** | volumen EN/ES=0.74 (474/642); 1: lists ES=5 EN=0; 2: code ES=2 EN=1; 3: lists ES=5 EN=0; 3: code ES=2 EN=0; 3: párrafos ES=3 EN=2; 4: code ES=1 EN=0; 4: párrafos ES=4 EN=2; 5: párrafos ES=2 EN=1; 6: párrafos ES=3 EN=2; 7: párrafos ES=1 EN=0; 8: lists ES=9 EN=0; 8: code ES=2 EN=0; 8: párrafos ES=3 EN=2; 10: párrafos ES=3 EN=4 |
 | `auditorias/publicas/2026-08-08_auditoria_readmes_enlaces_estado_XLII_ES_EN.md` | **REVISAR** | Estado del índice de manifiestos: párrafos ES=2 EN=3 |
