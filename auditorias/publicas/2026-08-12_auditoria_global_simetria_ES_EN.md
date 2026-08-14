@@ -9,8 +9,8 @@
 
 - Markdown activo examinado / Active Markdown scanned: **291**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **211**.
-- Fallos estructurales divididos / Split structural failures: **122**.
-- Fallos de marcadores / Marker failures: **1**.
+- Fallos estructurales divididos / Split structural failures: **123**.
+- Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **24**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
@@ -420,6 +420,8 @@
   - Principio de Proyección por Pertinencia™: párrafos ES=4 EN=5
 - `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md` · ES=197 · EN=197 · ratio=1.00
   - 6: párrafos ES=2 EN=3
+- `web4/README.md` · ES=463 · EN=464 · ratio=1.00
+  - Bucle de producto objetivo: párrafos ES=2 EN=1
 - `wiki-source/Analisis_Neodialecticos_Publicos.md` · ES=163 · EN=165 · ratio=1.01
   - Cómo aportar: párrafos ES=2 EN=1
 - `wiki-source/Filosofia_y_NEOCore.md` · ES=273 · EN=269 · ratio=0.99
@@ -453,7 +455,7 @@
 
 ## Marcadores / Markers
 
-- `web4/README.md`
+- Ninguno / None.
 
 ## Superficies pareadas que requieren revisión / Paired surfaces requiring review
 
@@ -725,7 +727,7 @@
 | `proyeccion/README.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Proyección y difusión trazable / Genealogía y salvaguarda |
 | `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md` | **REVISAR** | 6: párrafos ES=2 EN=3 |
 | `web4/2026-08-10_POSTCHECK_WEB4_7_2_IDEA_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Postcheck WEB4™ · NEOCore™ 7.2 + IDEA / Límite de verificación |
-| `web4/README.md` | **MARCADORES** | — |
+| `web4/README.md` | **REVISAR** | Bucle de producto objetivo: párrafos ES=2 EN=1 |
 | `wiki-source/Analisis_Neodialecticos_Publicos.md` | **REVISAR** | Cómo aportar: párrafos ES=2 EN=1 |
 | `wiki-source/Filosofia_y_NEOCore.md` | **REVISAR** | Cómo leer el núcleo sin reducirlo: párrafos ES=2 EN=1 |
 | `wiki-source/Home.md` | **REVISAR** | Regla de lectura: párrafos ES=2 EN=1 |
