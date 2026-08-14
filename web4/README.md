@@ -3,7 +3,8 @@
 
 **Estado / Status:** especificación pública, corpus y genealogía de capacidades / public specification, corpus and capability genealogy  
 **Marco actual / Current framework:** NEOCore™ 7.2  
-**Superficie pública real / Actual public surface:** [innova-n.org](https://innova-n.org)
+**Superficie pública real / Actual public surface:** [innova-n.org](https://innova-n.org)  
+**Ampliación abierta / Open expansion:** [Issue #147 · aportes trazables y tokenización de reconocimiento](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/147)
 
 > **Regla / Rule:** este directorio `web4/` **no es una DEMO ni una segunda web pública**. Documenta qué debe contener WEB4™, conserva referencias históricas de capacidades y aporta fuentes/requisitos que alimentan el desarrollo privado. `innova-n.org` es la proyección pública pulida que ve el público. / this `web4/` directory is **not a DEMO and not a second public website**. It documents intended WEB4™ capabilities, preserves historical capability references and provides sources/requirements for private development. `innova-n.org` is the polished public projection seen by visitors.
 
@@ -35,6 +36,7 @@ La implementación de trabajo no vive aquí. Se desarrolla en el repositorio pri
 ```text
 NEO0™
 + CORPUS PÚBLICO CANÓNICO
++ SÍNTESIS ABIERTA ACTUAL
 + IMPLEMENTACIÓN PRIVADA
 → WEB4™ DE TRABAJO
 → REVISIÓN
@@ -43,7 +45,7 @@ NEO0™
 
 ### 2. Dirección actual
 
-WEB4™ debe convertirse en un **espacio habitable, multimedia, multicabeza, monádico y trazable construido alrededor de NEOCore™**. Debe demostrar memoria, relación, contraste, síntesis, aprendizaje y creación mediante comportamiento real, no sólo mediante explicación.
+WEB4™ debe convertirse en un **espacio habitable, multimedia, multicabeza, monádico y trazable construido alrededor de NEOCore™**. Debe demostrar memoria, relación, contraste, síntesis, aprendizaje, creación y reconocimiento del aporte mediante comportamiento real, no sólo mediante explicación.
 
 Documento de dirección relacionado:
 
@@ -55,6 +57,7 @@ WEB4™ debe organizar progresivamente superficies nativas para:
 
 - Inicio / mapa vivo.
 - NeoCronos™ / Águila.
+- Aportes trazables / créditos de función.
 - Síntesis Abierta™.
 - Neoaxiomas™.
 - Manifiestos™.
@@ -69,6 +72,8 @@ WEB4™ debe organizar progresivamente superficies nativas para:
 - Novedades derivadas del corpus.
 - Nodos/mónadas de personas, IAs, obras, proyectos, instituciones, eventos, documentos y conceptos.
 - Créditos de infraestructura / MÉDICI™.
+
+La implementación es modular para que las superficies puedan evolucionar y revisarse de forma independiente sin perder sus relaciones con el corpus común.
 
 ### 4. GitHub público como fuente de datos
 
@@ -87,6 +92,8 @@ CORPUS CANÓNICO / GITHUB
 Recuentos, último manifiesto, novedades, relaciones, estados, genealogía y superficies de lectura deben tender a calcularse desde fuentes versionadas.
 
 Cuando una lectura directa no sea adecuada, puede generarse un índice estructurado o caché de desarrollo, pero la fuente canónica pública sigue siendo el origen del dato.
+
+Una ampliación material debe conservar relación visible con los manifiestos, Neoaxiomas y Síntesis Abiertas que la sustentan, incluidas correcciones posteriores que hayan sustituido estados provisionales anteriores.
 
 ### 5. Manifiestos y Neoaxiomas como lectores
 
@@ -133,16 +140,87 @@ No se busca un ranking de popularidad. La relevancia depende de función, relaci
 **Fijación semántica:** NeoCronos™ se representa mediante **el Águila**. No es Neo0™, el jinete ni Rocinante™.
 
 ```text
-ÁGUILA / NEOCRONOS™ = observación temporal + memoria + despliegue + recálculo
+ÁGUILA / NEOCRONOS™ = observación temporal + memoria + medición + despliegue + recálculo
 NEO0™ / JINETE       = agente humano situado + dirección + decisión
 ROCINANTE™           = nodo/vehículo coexistente + tránsito + conexión
 RED / NEOCORE™       = relaciones + contradicción + memoria + síntesis
 HORIZONTE / SOL      = futuro posible + dirección abierta
 ```
 
-NeoCronos™ debe permitir observar estados, genealogías, ciclos, bifurcaciones, deltas y futuros posibles sin convertir ninguno en destino predeterminado.
+NeoCronos™ debe permitir observar estados, genealogías, ciclos, bifurcaciones, aportes, deltas y futuros posibles sin convertir ninguno en destino predeterminado.
 
-### 8. Profundidad de entrada
+La separación funcional vigente es:
+
+```text
+NEOCRONOS™ = MEDICIÓN / TRAZA
+SAN™       = CONTRASTE
+ECONOMÍA DEL APORTE™ = VALORACIÓN / RETORNO
+TOKENIZACIÓN = REPRESENTACIÓN DEL VALOR RECONOCIDO SEGÚN REGLAS
+```
+
+### 8. Aportes trazables y tokenización de reconocimiento vNext
+
+La próxima proyección pública inicia una capa visible de trazabilidad del aporte vinculada a [Issue #147](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/147), preservando la corrección abierta en #141 y #142:
+
+```text
+NC-EVT-* = EVENTO DE APORTE
+NC-CR-*  = CRÉDITO DE FUNCIÓN ATRIBUIBLE DENTRO DEL EVENTO
+```
+
+La procedencia de una señal no determina por sí sola la autoría del delta. Un evento puede distinguir, cuando exista evidencia pública suficiente, origen de fuente, descubrimiento/recepción, contradicción, relación, síntesis, implementación y fijación.
+
+El primer nivel de tokenización visible es **reconocimiento off-chain y no financiero**:
+
+```text
+NC-CR
+= CRÉDITO GENEALÓGICO / FUNCIONAL TRAZABLE
+≠ DINERO
+≠ EQUITY
+≠ VOTO SOBERANO
+≠ VERDAD
+≠ RANGO HUMANO
+≠ RECOMPENSA ECONÓMICA AUTOMÁTICA
+```
+
+La antigua propuesta de «1 unidad génesis» no se considera una asignación activa: permanece como estado histórico **REQUIERE_RECÁLCULO / PENDIENTE-SAN**.
+
+Esta fase tampoco activa por sí misma suministro de token fundacional, ONes™ como moneda de recompensa, SAN™ como unidad financiera, PoU™, DAO-SAN™, blockchain, smart contracts, transferibilidad, mercado, precio, convertibilidad, equity, rentabilidad o voto derivado de saldo.
+
+La trazabilidad no convierte tiempo en precio:
+
+```text
+1 HORA ≠ 1 TOKEN
+ACTIVIDAD ≠ APORTE
+POPULARIDAD ≠ VALOR
+MEDIDO ≠ VALIDADO
+VALIDADO ≠ TOKEN ECONÓMICO AUTOMÁTICO
+```
+
+### 9. Créditos de infraestructura y MÉDICI™
+
+WEB4™ debe reconocer de forma visible las plataformas e infraestructuras que hacen materialmente posible el sistema. El crédito no implica autoría conceptual, propiedad ni soberanía.
+
+MÉDICI™ constituye una capa **separada** de reconocimiento off-chain para infraestructura evaluada por `servicio + periodo`:
+
+```text
+APORTE GRATUITO / NO COMPENSADO
+→ ELEGIBILIDAD MÉDICI™
+
+APORTE PARCIALMENTE COMPENSADO
+→ MÉDICI™ SOBRE LA FRACCIÓN NO COMPENSADA
+
+APORTE PAGADO / COMPENSADO
+→ CRÉDITO + TRAZA
+→ 0 MÉDICI™ DIRECTO POR LA PARTE YA PAGADA
+```
+
+MÉDICI™ no es el token genérico de aportes humanos ni el token fundacional.
+
+- [Créditos WEB4™](./credits/)
+- [Regla MÉDICI™ de plataformas ES/EN](../propuestas/sintesis-abierta/MEDICI_CREDITOS_PLATAFORMAS_COMPENSACION_ES_EN.md)
+- [Motor de cálculo MÉDICI™ v0.1](../propuestas/sintesis-abierta/MEDICI_MOTOR_CALCULO_PLATAFORMAS_V0_1_ES_EN.md)
+
+### 10. Profundidad de entrada
 
 ```text
 30 segundos → comprender
@@ -154,7 +232,7 @@ acción      → aprender + crear + contrastar + aportar + sintetizar
 
 Simplificar la puerta no significa simplificar el territorio.
 
-### 9. Regla visual
+### 11. Regla visual
 
 WEB4™ debe funcionar en claro y oscuro y evitar una estética futurista nocturna uniforme. Debe integrar humanidad cotidiana, diversidad real, naturaleza, cultura, arte, ciencia y tecnología.
 
@@ -162,7 +240,7 @@ Para NeoCronos™, el Águila es el símbolo principal. Horizontes, amaneceres, 
 
 Las imágenes con función pública deben publicarse como recursos web reales, cacheables e indexables, con metadatos y texto alternativo apropiados.
 
-### 10. Navegación relacional
+### 12. Navegación relacional
 
 Toda superficie debe ayudar a responder:
 
@@ -172,30 +250,10 @@ Toda superficie debe ayudar a responder:
 ¿CON QUÉ SE RELACIONA?
 ¿QUÉ PUEDO HACER AQUÍ?
 ¿CÓMO PUEDO CONTRADECIRLO O MEJORARLO?
+¿QUÉ APORTE PRODUJO ESTE CAMBIO Y CÓMO ESTÁ TRAZADO?
 ```
 
-### 11. Créditos de infraestructura y MÉDICI™
-
-WEB4™ debe reconocer de forma visible las plataformas e infraestructuras que hacen materialmente posible el sistema. El crédito no implica autoría conceptual, propiedad ni soberanía.
-
-```text
-APORTE GRATUITO / NO COMPENSADO
-→ MAYOR ELEGIBILIDAD MÉDICI™
-
-APORTE PARCIALMENTE COMPENSADO
-→ MÉDICI™ SOBRE LA FRACCIÓN NO COMPENSADA
-
-APORTE PAGADO / COMPENSADO
-→ CRÉDITO + TRAZA
-→ 0 MÉDICI™ DIRECTO POR LA PARTE YA PAGADA
-```
-
-La clasificación se hace por **servicio y periodo**, no por empresa completa.
-
-- [Créditos WEB4™](./credits/)
-- [Regla MÉDICI™ de plataformas ES/EN](../propuestas/sintesis-abierta/MEDICI_CREDITOS_PLATAFORMAS_COMPENSACION_ES_EN.md)
-
-### 12. Referencias documentales conservadas
+### 13. Referencias documentales conservadas
 
 Los HTML existentes bajo `web4/` se conservan como **referencias documentales/históricas de capacidades**, no como sitio público paralelo ni como candidata de producción:
 
@@ -207,23 +265,24 @@ Los HTML existentes bajo `web4/` se conservan como **referencias documentales/hi
 
 La implementación privada puede preservar, mejorar o sustituir estas capacidades; no debe asumir que estos HTML son la web viva.
 
-### 13. Bucle de producto objetivo
+### 14. Bucle de producto objetivo
 
 ```text
 OBSERVAR
 → ORIENTARSE
 → EXPLORAR
 → APRENDER
-→ CREAR
+→ CREAR / APORTAR
+→ TRAZAR
 → CONTRASTAR
 → RELACIONAR
 → SINTETIZAR
-→ TRAZAR
+→ RECONOCER
 → RECALCULAR
 → VOLVER A OBSERVAR
 ```
 
-**NeoCronos™ cierra y reabre el ciclo desde la dimensión temporal.**
+**NeoCronos™ conserva la dimensión temporal y genealógica del ciclo.**
 
 ---
 
@@ -251,6 +310,7 @@ Working implementation does not live here. It is developed in the private `Pedro
 ```text
 NEO0™
 + CANONICAL PUBLIC CORPUS
++ CURRENT OPEN SYNTHESIS
 + PRIVATE IMPLEMENTATION
 → WORKING WEB4™
 → REVIEW
@@ -259,7 +319,7 @@ NEO0™
 
 ### 2. Current direction
 
-WEB4™ should become an **inhabitable, multimedia, multihead, monadic and traceable space built around NEOCore™**. It should demonstrate memory, relation, challenge, synthesis, learning and creation through real behaviour, not only explanation.
+WEB4™ should become an **inhabitable, multimedia, multihead, monadic and traceable space built around NEOCore™**. It should demonstrate memory, relation, challenge, synthesis, learning, creation and contribution recognition through real behaviour, not only explanation.
 
 Related direction document:
 
@@ -267,7 +327,9 @@ Related direction document:
 
 ### 3. Target public architecture
 
-WEB4™ should progressively provide native surfaces for Home/living map, NeoCronos™/Eagle, Open Synthesis™, Neoaxioms™, Manifestos™, Learning, NeoGames™, visual art, Music, Literature/IDEA, science/technology/research, Audits/Leónidas™, NeoGenealogy™/RADAR-Π™, corpus-derived news, nodes/monads and infrastructure credits/MÉDICI™.
+WEB4™ should progressively provide native surfaces for Home/living map, NeoCronos™/Eagle, traceable contributions/role credits, Open Synthesis™, Neoaxioms™, Manifestos™, Learning, NeoGames™, visual art, Music, Literature/IDEA, science/technology/research, Audits/Leónidas™, NeoGenealogy™/RADAR-Π™, corpus-derived news, nodes/monads and infrastructure credits/MÉDICI™.
+
+Implementation remains modular so surfaces can evolve and be reviewed independently without losing their relations to the common corpus.
 
 ### 4. Public GitHub as data source
 
@@ -284,6 +346,8 @@ CANONICAL CORPUS / GITHUB
 ```
 
 Counts, latest manifesto, news, relations, states, genealogy and reading surfaces should increasingly derive from versioned sources. Generated indexes or development caches may be used when direct reading is unsuitable, but the public canonical source remains authoritative.
+
+A material expansion should retain a visible relation to the current Manifestos, Neoaxioms and Open Synthesis paths supporting it, including later corrections that superseded provisional states.
 
 ### 5. Manifestos and Neoaxioms as readers
 
@@ -312,16 +376,69 @@ This is not a popularity ranking. Relevance comes from function, relation, state
 NeoCronos™ is represented by **the Eagle**. It is not Neo0™, the rider or Rocinante™.
 
 ```text
-EAGLE / NEOCRONOS™ = temporal observation + memory + unfolding + recalculation
+EAGLE / NEOCRONOS™ = temporal observation + memory + measurement + unfolding + recalculation
 NEO0™ / RIDER       = situated human agent + direction + decision
 ROCINANTE™          = coexisting node/vehicle + transit + connection
 NETWORK / NEOCORE™  = relations + contradiction + memory + synthesis
 HORIZON / SUN       = possible future + open direction
 ```
 
-NeoCronos™ should expose states, genealogies, cycles, bifurcations, deltas and possible futures without turning them into predetermined destiny.
+Functional separation remains:
 
-### 8. Entry depth
+```text
+NEOCRONOS™ = MEASUREMENT / TRACE
+SAN™       = SCRUTINY
+CONTRIBUTION ECONOMY™ = VALUATION / RETURN
+TOKENISATION = REPRESENTATION OF RECOGNISED VALUE UNDER RULES
+```
+
+### 8. Traceable contributions and vNext recognition tokenisation
+
+The next public projection starts a visible contribution-trace layer linked to [Issue #147](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/147), preserving the corrections developed in #141 and #142:
+
+```text
+NC-EVT-* = CONTRIBUTION EVENT
+NC-CR-*  = ATTRIBUTABLE ROLE CREDIT WITHIN THE EVENT
+```
+
+Signal provenance does not by itself determine authorship of a delta. When sufficient public evidence exists, an event may distinguish source origination, discovery/reception, contradiction, relation, synthesis, implementation and fixation.
+
+The first visible tokenisation layer is **off-chain, non-financial recognition**:
+
+```text
+NC-CR
+= TRACEABLE GENEALOGICAL / FUNCTIONAL CREDIT
+≠ MONEY
+≠ EQUITY
+≠ SOVEREIGN VOTE
+≠ TRUTH
+≠ HUMAN RANK
+≠ AUTOMATIC ECONOMIC REWARD
+```
+
+The former proposal of “1 genesis unit” is not an active allocation; it remains a historical **REQUIRES_RECALCULATION / PENDING-SAN** state.
+
+This phase does not by itself activate a foundational-token supply, ONes™ as reward currency, SAN™ as a financial unit, PoU™, DAO-SAN™, blockchain, smart contracts, transferability, markets, price, convertibility, equity, yield or balance-derived voting.
+
+Time is not price:
+
+```text
+1 HOUR ≠ 1 TOKEN
+ACTIVITY ≠ CONTRIBUTION
+POPULARITY ≠ VALUE
+MEASURED ≠ VALIDATED
+VALIDATED ≠ AUTOMATIC ECONOMIC TOKEN
+```
+
+### 9. Infrastructure credits and MÉDICI™
+
+WEB4™ should visibly recognise platforms and infrastructures that materially sustain the system. Credit does not imply conceptual authorship, ownership or sovereignty.
+
+MÉDICI™ remains a **separate** off-chain infrastructure-recognition layer evaluated by `service + period`. Uncompensated useful value may be eligible; partially compensated value is eligible only for the uncompensated fraction; a fully paid fraction receives credit and trace but zero direct MÉDICI™ for that paid part.
+
+MÉDICI™ is not the generic human-contribution token and not the foundational token.
+
+### 10. Entry depth
 
 ```text
 30 seconds → understand
@@ -331,19 +448,15 @@ depth       → corpus and relations
 action      → learn + create + challenge + contribute + synthesise
 ```
 
-### 9. Visual rule
+### 11. Visual rule
 
 WEB4™ should support light and dark modes and avoid a uniformly nocturnal-futuristic aesthetic. It should integrate everyday humanity, real diversity, nature, culture, art, science and technology.
 
-### 10. Relational navigation
+### 12. Relational navigation
 
-Every surface should help answer where the visitor is, where the content comes from, what it relates to, what can be done there and how it can be challenged or improved.
+Every surface should help answer where the visitor is, where the content comes from, what it relates to, what can be done there, how it can be challenged or improved, and which traceable contribution produced a material change.
 
-### 11. Infrastructure credits and MÉDICI™
-
-WEB4™ should visibly recognise the platforms and infrastructures that materially sustain the system. Credit does not imply conceptual authorship, ownership or sovereignty. Classification is performed by service and period, distinguishing uncompensated, partially compensated and paid contribution.
-
-### 12. Preserved documentary references
+### 13. Preserved documentary references
 
 Existing HTML under `web4/` is retained as **documentary/historical capability reference**, not as a parallel public site or production candidate:
 
@@ -355,20 +468,21 @@ Existing HTML under `web4/` is retained as **documentary/historical capability r
 
 Private implementation may preserve, improve or replace these capabilities; it must not treat these HTML files as the live website.
 
-### 13. Target product loop
+### 14. Target product loop
 
 ```text
 OBSERVE
 → ORIENT
 → EXPLORE
 → LEARN
-→ CREATE
+→ CREATE / CONTRIBUTE
+→ TRACE
 → CHALLENGE
 → RELATE
 → SYNTHESISE
-→ TRACE
+→ RECOGNISE
 → RECALCULATE
 → OBSERVE AGAIN
 ```
 
-**NeoCronos™ closes and reopens the cycle from the temporal dimension.**
+**NeoCronos™ preserves the temporal and genealogical dimension of the cycle.**
