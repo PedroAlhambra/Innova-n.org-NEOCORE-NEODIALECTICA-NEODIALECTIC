@@ -115,6 +115,14 @@ if 'REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md' not in se:
 if '# ES · Castellano' not in se or '# EN · English' not in se:
     critical.append('El README operativo de Síntesis no conserva división bilingüe ES/EN. / The operational Synthesis README does not preserve the ES/EN bilingual split.')
 
+stale_current_nav=[]
+for f in readmes:
+    text=f.read_text(encoding='utf-8',errors='replace')
+    if '<!-- NEO_CURRENT_NAV_START -->' in text or '<!-- NEO_CURRENT_NAV_END -->' in text:
+        stale_current_nav.append(f.relative_to(root).as_posix())
+if stale_current_nav:
+    critical.append('README con bloque legacy NEO_CURRENT_NAV: '+', '.join(stale_current_nav)+' / README with legacy NEO_CURRENT_NAV block: '+', '.join(stale_current_nav))
+
 latest_markers=0
 latest_bad=[]
 for f in readmes:
@@ -149,6 +157,7 @@ lines = [
     f'- Enlaces externos inventariados sin comprobar disponibilidad remota: **{external_seen}**.',
     f'- Enlaces sólo a ancla detectados: **{anchor_only}**.',
     f'- Bloques de último manifiesto encontrados en README: **{latest_markers}**.',
+    f'- Bloques legacy NEO_CURRENT_NAV encontrados en README: **{len(stale_current_nav)}**.',
     f'- Manifiestos canónicos detectados: **{count} · I–{latest_roman or "?"}**.',
     f'- Último manifiesto / Síntesis: **{latest_desc}**.',
     f'- Enlaces internos rotos del grafo vivo: **{len(broken)}**.',
@@ -160,6 +169,7 @@ lines = [
     '- El índice completo de Síntesis Abierta debe enlazar el último manifiesto y su Issue específico.',
     '- El README operativo de Síntesis debe conservar las rutas de participación sin duplicar el inventario dinámico.',
     '- Los README con bloque `NEO_LATEST_MANIFESTO` deben apuntar al último manifiesto y su Síntesis.',
+    '- Los README vivos no pueden conservar bloques `NEO_CURRENT_NAV`: la frontera numérica pertenece a los índices canónicos dinámicos.',
     '- El archivo Wiki histórico se conserva como evidencia y no se reescribe para simular vigencia.',
     '- La auditoría de rutas no sustituye la comprobación remota de URLs externas ni la validación semántica de anclas renderizadas.',
     '',
@@ -186,6 +196,7 @@ lines += [
     f'- External links inventoried without checking remote availability: **{external_seen}**.',
     f'- Anchor-only links detected: **{anchor_only}**.',
     f'- Latest-manifesto blocks found in README files: **{latest_markers}**.',
+    f'- Legacy NEO_CURRENT_NAV blocks found in README files: **{len(stale_current_nav)}**.',
     f'- Canonical manifestos detected: **{count} · I–{latest_roman or "?"}**.',
     f'- Latest manifesto / synthesis: **{latest_desc}**.',
     f'- Broken internal links in the living graph: **{len(broken)}**.',
@@ -197,6 +208,7 @@ lines += [
     '- The complete Open Synthesis index must link the latest manifesto and its specific Issue.',
     '- The operational Synthesis README must preserve participation routes without duplicating the dynamic inventory.',
     '- README files with a `NEO_LATEST_MANIFESTO` block must point to the latest manifesto and its Synthesis.',
+    '- Living README files may not retain `NEO_CURRENT_NAV` blocks: the numerical frontier belongs to dynamic canonical indexes.',
     '- The historical Wiki archive is preserved as evidence and is not rewritten to simulate current validity.',
     '- The route audit does not replace remote checking of external URLs or semantic validation of rendered anchors.',
     '',

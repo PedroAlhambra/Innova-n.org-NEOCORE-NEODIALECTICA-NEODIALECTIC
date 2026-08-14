@@ -2140,34 +2140,6 @@
       ]
     },
     {
-      "a": "LIII",
-      "b": "XLV",
-      "sources": 7,
-      "examples": [
-        "analisis/README.md",
-        "analisis/auditorias/README.md",
-        "analisis/publicos/evidencias/README.md",
-        "obras/README.md",
-        "obras/idea/README.md",
-        "obras/idea/assets/README.md",
-        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
-      ]
-    },
-    {
-      "a": "LXXV",
-      "b": "XLV",
-      "sources": 7,
-      "examples": [
-        "analisis/README.md",
-        "analisis/auditorias/README.md",
-        "analisis/publicos/evidencias/README.md",
-        "obras/README.md",
-        "obras/idea/README.md",
-        "obras/idea/assets/README.md",
-        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
-      ]
-    },
-    {
       "a": "V",
       "b": "XXXIV",
       "sources": 7,
@@ -4833,15 +4805,6 @@
       ]
     },
     {
-      "a": "LII",
-      "b": "XLV",
-      "sources": 2,
-      "examples": [
-        "analisis/README.md",
-        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
-      ]
-    },
-    {
       "a": "LIII",
       "b": "LXIV",
       "sources": 2,
@@ -5679,15 +5642,6 @@
       ]
     },
     {
-      "a": "XLV",
-      "b": "XXXVIII",
-      "sources": 2,
-      "examples": [
-        "analisis/README.md",
-        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
-      ]
-    },
-    {
       "a": "XLVI",
       "b": "XLVIII",
       "sources": 2,
@@ -6143,8 +6097,7 @@
       "path": "obras/README.md",
       "manifestos": [
         "LIII",
-        "LXXV",
-        "XLV"
+        "LXXV"
       ]
     },
     {
@@ -6200,7 +6153,6 @@
         "LII",
         "LIII",
         "LXXV",
-        "XLV",
         "XXXVIII"
       ]
     },
@@ -6587,8 +6539,7 @@
       "path": "obras/idea/README.md",
       "manifestos": [
         "LIII",
-        "LXXV",
-        "XLV"
+        "LXXV"
       ]
     },
     {
@@ -6607,16 +6558,14 @@
       "path": "obras/idea/assets/README.md",
       "manifestos": [
         "LIII",
-        "LXXV",
-        "XLV"
+        "LXXV"
       ]
     },
     {
       "path": "analisis/auditorias/README.md",
       "manifestos": [
         "LIII",
-        "LXXV",
-        "XLV"
+        "LXXV"
       ]
     },
     {
@@ -7019,8 +6968,7 @@
       "path": "analisis/publicos/evidencias/README.md",
       "manifestos": [
         "LIII",
-        "LXXV",
-        "XLV"
+        "LXXV"
       ]
     }
   ],
@@ -7087,13 +7035,6 @@
           "auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md",
           "auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md"
         ],
-        "otros": [
-          "COVER.md",
-          "LEEME.md",
-          "manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md",
-          "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
-        ],
         "manifiestos": [
           "manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md",
           "manifiestos/02_neodialectica_bien_comun_ES_EN.md",
@@ -7113,6 +7054,11 @@
           "manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md",
           "manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md",
           "manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md"
+        ],
+        "otros": [
+          "manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md",
+          "manifiestos/README.md",
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
@@ -7172,15 +7118,6 @@
           "analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md",
           "analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md"
         ],
-        "otros": [
-          "COVER.md",
-          "LEEME.md",
-          "manifiestos/10_los_sin_ego_ES_EN.md",
-          "manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md",
-          "manifiestos/README.md",
-          "manifiestos/RELACIONES_LVII_LIX_ES_EN.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
-        ],
         "manifiestos": [
           "manifiestos/02_neodialectica_bien_comun_ES_EN.md",
           "manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md",
@@ -7218,6 +7155,13 @@
           "manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md",
           "manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md",
           "manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md"
+        ],
+        "otros": [
+          "manifiestos/10_los_sin_ego_ES_EN.md",
+          "manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md",
+          "manifiestos/README.md",
+          "manifiestos/RELACIONES_LVII_LIX_ES_EN.md",
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
@@ -7288,13 +7232,6 @@
           "auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md",
           "auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md"
         ],
-        "otros": [
-          "COVER.md",
-          "LEEME.md",
-          "manifiestos/README.md",
-          "manifiestos/RELACIONES_LVII_LIX_ES_EN.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
-        ],
         "manifiestos": [
           "manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md",
           "manifiestos/02_neodialectica_bien_comun_ES_EN.md",
@@ -7311,6 +7248,11 @@
           "manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md",
           "manifiestos/64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md",
           "manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md"
+        ],
+        "otros": [
+          "manifiestos/README.md",
+          "manifiestos/RELACIONES_LVII_LIX_ES_EN.md",
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md",
@@ -7373,12 +7315,6 @@
           "analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md",
           "analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md"
         ],
-        "otros": [
-          "COVER.md",
-          "LEEME.md",
-          "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
-        ],
         "manifiestos": [
           "manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md",
           "manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md",
@@ -7398,6 +7334,10 @@
           "manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md",
           "manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md",
           "manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md"
+        ],
+        "otros": [
+          "manifiestos/README.md",
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
@@ -7460,13 +7400,10 @@
         ],
         "otros": [
           "anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md",
-          "COVER.md",
           "difusion/2026-08-09_marco_tanda_01_ES_EN.md",
-          "LEEME.md",
           "manifiestos/README.md",
           "manifiestos/RELACIONES_LVII_LIX_ES_EN.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "auditorias/publicas": [
           "auditorias/publicas/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md"
@@ -7551,8 +7488,6 @@
         "otros": [
           "analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md",
           "analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md",
-          "COVER.md",
-          "LEEME.md",
           "manifiestos/README.md",
           "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
@@ -7644,8 +7579,6 @@
         "otros": [
           "analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md",
           "analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md",
-          "COVER.md",
-          "LEEME.md",
           "manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md",
           "manifiestos/README.md",
           "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
@@ -7766,12 +7699,6 @@
         "auditorias/publicas": [
           "auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md"
         ],
-        "otros": [
-          "COVER.md",
-          "LEEME.md",
-          "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
-        ],
         "manifiestos": [
           "manifiestos/02_neodialectica_bien_comun_ES_EN.md",
           "manifiestos/04_economia_del_aporte_ES_EN.md",
@@ -7787,6 +7714,10 @@
           "manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md",
           "manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md",
           "manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md"
+        ],
+        "otros": [
+          "manifiestos/README.md",
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
@@ -7859,8 +7790,6 @@
         "otros": [
           "analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md",
           "analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md",
-          "COVER.md",
-          "LEEME.md",
           "manifiestos/README.md",
           "manifiestos/RELACIONES_LVII_LIX_ES_EN.md",
           "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
@@ -7973,13 +7902,6 @@
           "analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md",
           "analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md"
         ],
-        "otros": [
-          "COVER.md",
-          "LEEME.md",
-          "manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md",
-          "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
-        ],
         "manifiestos": [
           "manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md",
           "manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md",
@@ -7998,6 +7920,11 @@
           "manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md",
           "manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md",
           "manifiestos/63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md"
+        ],
+        "otros": [
+          "manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md",
+          "manifiestos/README.md",
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md",
@@ -8043,13 +7970,10 @@
       "inbound": {
         "otros": [
           "anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md",
-          "COVER.md",
-          "LEEME.md",
           "manifiestos/10_los_sin_ego_ES_EN.md",
           "manifiestos/README.md",
           "manifiestos/RELACIONES_LVII_LIX_ES_EN.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "manifiestos": [
           "manifiestos/07_web4_sistematrazable_ES_EN.md",
@@ -8100,19 +8024,17 @@
         ]
       },
       "inbound": {
-        "otros": [
-          "COVER.md",
-          "LEEME.md",
-          "manifiestos/10_los_sin_ego_ES_EN.md",
-          "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
-        ],
         "manifiestos": [
           "manifiestos/08_neorrenacimiento_humano_ES_EN.md",
           "manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md",
           "manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md",
           "manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md",
           "manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md"
+        ],
+        "otros": [
+          "manifiestos/10_los_sin_ego_ES_EN.md",
+          "manifiestos/README.md",
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
@@ -8172,13 +8094,10 @@
         ],
         "otros": [
           "anuncios/2026-08-06_SEGUNDA_OLEADA_MANIFIESTOS_NEOPANDORA_ES_EN.md",
-          "COVER.md",
-          "LEEME.md",
           "manifiestos/10_los_sin_ego_ES_EN.md",
           "manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md",
           "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "manifiestos": [
           "manifiestos/02_neodialectica_bien_comun_ES_EN.md",
@@ -8253,14 +8172,6 @@
           "analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md",
           "analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md"
         ],
-        "otros": [
-          "COVER.md",
-          "LEEME.md",
-          "manifiestos/README.md",
-          "manifiestos/RELACIONES_LVII_LIX_ES_EN.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
-        ],
         "manifiestos": [
           "manifiestos/02_neodialectica_bien_comun_ES_EN.md",
           "manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md",
@@ -8278,6 +8189,11 @@
           "manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md",
           "manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md",
           "manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md"
+        ],
+        "otros": [
+          "manifiestos/README.md",
+          "manifiestos/RELACIONES_LVII_LIX_ES_EN.md",
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
@@ -8324,19 +8240,16 @@
         ]
       },
       "inbound": {
-        "otros": [
-          "COVER.md",
-          "LEEME.md",
-          "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
-        ],
         "manifiestos": [
           "manifiestos/14_contra_alienacion_humana_ES_EN.md",
           "manifiestos/16_refragmentacion_arquetipica_ES_EN.md",
           "manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md",
           "manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md",
           "manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md"
+        ],
+        "otros": [
+          "manifiestos/README.md",
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
@@ -8396,15 +8309,6 @@
           "analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md",
           "analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md"
         ],
-        "otros": [
-          "COVER.md",
-          "LEEME.md",
-          "manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md",
-          "manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md",
-          "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
-        ],
         "manifiestos": [
           "manifiestos/02_neodialectica_bien_comun_ES_EN.md",
           "manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md",
@@ -8423,6 +8327,12 @@
           "manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md",
           "manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md",
           "manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md"
+        ],
+        "otros": [
+          "manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md",
+          "manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md",
+          "manifiestos/README.md",
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
@@ -8473,14 +8383,6 @@
         ]
       },
       "inbound": {
-        "otros": [
-          "COVER.md",
-          "LEEME.md",
-          "manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md",
-          "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
-        ],
         "manifiestos": [
           "manifiestos/02_neodialectica_bien_comun_ES_EN.md",
           "manifiestos/03_simbiosis_humano_ia_ES_EN.md",
@@ -8491,6 +8393,11 @@
           "manifiestos/29_idolatria_del_dinero_ES_EN.md",
           "manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md",
           "manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md"
+        ],
+        "otros": [
+          "manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md",
+          "manifiestos/README.md",
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
@@ -8551,15 +8458,6 @@
           "analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md",
           "analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md"
         ],
-        "otros": [
-          "COVER.md",
-          "LEEME.md",
-          "manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md",
-          "manifiestos/README.md",
-          "manifiestos/RELACIONES_LVII_LIX_ES_EN.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
-        ],
         "manifiestos": [
           "manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md",
           "manifiestos/03_simbiosis_humano_ia_ES_EN.md",
@@ -8571,6 +8469,12 @@
           "manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md",
           "manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md",
           "manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md"
+        ],
+        "otros": [
+          "manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md",
+          "manifiestos/README.md",
+          "manifiestos/RELACIONES_LVII_LIX_ES_EN.md",
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
@@ -8625,14 +8529,6 @@
         "analisis/publicos": [
           "analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md"
         ],
-        "otros": [
-          "COVER.md",
-          "LEEME.md",
-          "manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md",
-          "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
-        ],
         "manifiestos": [
           "manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md",
           "manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md",
@@ -8647,6 +8543,11 @@
           "manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md",
           "manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md",
           "manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md"
+        ],
+        "otros": [
+          "manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md",
+          "manifiestos/README.md",
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
@@ -8722,13 +8623,10 @@
         ],
         "otros": [
           "anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md",
-          "COVER.md",
-          "LEEME.md",
           "manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md",
           "manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md",
           "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "auditorias/publicas": [
           "auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md"
@@ -8827,11 +8725,8 @@
           "analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md",
           "analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md",
           "anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md",
-          "COVER.md",
-          "LEEME.md",
           "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "analisis/publicos": [
           "analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md",
@@ -8941,11 +8836,8 @@
           "analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md",
           "analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md",
           "anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md",
-          "COVER.md",
-          "LEEME.md",
           "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "analisis/publicos": [
           "analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md",
@@ -9065,12 +8957,9 @@
           "analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md",
           "analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md",
           "anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md",
-          "COVER.md",
-          "LEEME.md",
           "manifiestos/README.md",
           "manifiestos/RELACIONES_LVII_LIX_ES_EN.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "analisis/publicos": [
           "analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md",
@@ -9158,11 +9047,8 @@
       "inbound": {
         "otros": [
           "anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md",
-          "COVER.md",
-          "LEEME.md",
           "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "manifiestos": [
           "manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md",
@@ -9226,11 +9112,8 @@
         ],
         "otros": [
           "anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md",
-          "COVER.md",
-          "LEEME.md",
           "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "manifiestos": [
           "manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md",
@@ -9290,12 +9173,9 @@
         "otros": [
           "anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md",
           "anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md",
-          "COVER.md",
-          "LEEME.md",
           "manifiestos/README.md",
           "manifiestos/RELACIONES_LVII_LIX_ES_EN.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "manifiestos": [
           "manifiestos/25_pulido_de_la_piedra_ES_EN.md",
@@ -9362,11 +9242,8 @@
         ],
         "otros": [
           "anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md",
-          "COVER.md",
-          "LEEME.md",
           "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "manifiestos": [
           "manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md",
@@ -9453,11 +9330,8 @@
           "analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md",
           "analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md",
           "anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md",
-          "COVER.md",
-          "LEEME.md",
           "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "analisis/publicos": [
           "analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md",
@@ -9558,11 +9432,8 @@
           "analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md",
           "analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md",
           "anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md",
-          "COVER.md",
-          "LEEME.md",
           "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "analisis/publicos": [
           "analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md",
@@ -9660,11 +9531,8 @@
         ],
         "otros": [
           "anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md",
-          "COVER.md",
-          "LEEME.md",
           "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "auditorias/publicas": [
           "auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md",
@@ -9759,11 +9627,8 @@
           "analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md",
           "analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md",
           "anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md",
-          "COVER.md",
-          "LEEME.md",
           "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "analisis/publicos": [
           "analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md",
@@ -9861,12 +9726,9 @@
         ],
         "otros": [
           "anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md",
-          "COVER.md",
-          "LEEME.md",
           "manifiestos/anexos/2026-08-07_anexo_reversion_ideologica_I_VIII_XXII_XXX_XXXI_ES_EN.md",
           "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "manifiestos": [
           "manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md",
@@ -9948,11 +9810,8 @@
         ],
         "otros": [
           "anuncios/2026-08-07_QUINTA_OLEADA_TRANSICION_AUDITORIA_ATENCION_ES_EN.md",
-          "COVER.md",
-          "LEEME.md",
           "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "auditorias/publicas": [
           "auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md",
@@ -10048,13 +9907,10 @@
           "analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md",
           "analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md",
           "anuncios/2026-08-07_QUINTA_OLEADA_TRANSICION_AUDITORIA_ATENCION_ES_EN.md",
-          "COVER.md",
           "difusion/2026-08-09_marco_tanda_01_ES_EN.md",
-          "LEEME.md",
           "manifiestos/README.md",
           "manifiestos/RELACIONES_LVII_LIX_ES_EN.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "analisis/publicos": [
           "analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md",
@@ -10183,11 +10039,8 @@
           "analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md",
           "analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md",
           "anuncios/2026-08-07_QUINTA_OLEADA_TRANSICION_AUDITORIA_ATENCION_ES_EN.md",
-          "COVER.md",
-          "LEEME.md",
           "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "analisis/publicos": [
           "analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md",
@@ -10270,11 +10123,8 @@
       "inbound": {
         "otros": [
           "anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md",
-          "COVER.md",
-          "LEEME.md",
           "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "manifiestos": [
           "manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md",
@@ -10352,15 +10202,6 @@
           "auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md",
           "auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md"
         ],
-        "otros": [
-          "COVER.md",
-          "LEEME.md",
-          "manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md",
-          "manifiestos/README.md",
-          "manifiestos/RELACIONES_LVII_LIX_ES_EN.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
-        ],
         "manifiestos": [
           "manifiestos/11_neo0_soberania_de_guia_ES_EN.md",
           "manifiestos/28_los_tesla_ES_EN.md",
@@ -10373,6 +10214,12 @@
           "manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md",
           "manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md",
           "manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md"
+        ],
+        "otros": [
+          "manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md",
+          "manifiestos/README.md",
+          "manifiestos/RELACIONES_LVII_LIX_ES_EN.md",
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
@@ -10445,12 +10292,9 @@
         "otros": [
           "analisis/README.md",
           "anuncios/2026-08-07_OCTAVA_OLEADA_PROTECCION_INTEGRAL_INFANCIA_ES_EN.md",
-          "COVER.md",
-          "LEEME.md",
           "manifiestos/README.md",
           "manifiestos/RELACIONES_LVII_LIX_ES_EN.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "auditorias/publicas": [
           "auditorias/publicas/2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md"
@@ -10540,13 +10384,6 @@
           "analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md",
           "analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md"
         ],
-        "otros": [
-          "COVER.md",
-          "LEEME.md",
-          "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
-        ],
         "manifiestos": [
           "manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md",
           "manifiestos/19_persistencia_de_la_memoria_ES_EN.md",
@@ -10558,6 +10395,10 @@
           "manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md",
           "manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md",
           "manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md"
+        ],
+        "otros": [
+          "manifiestos/README.md",
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
@@ -10630,14 +10471,6 @@
           "auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md",
           "auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md"
         ],
-        "otros": [
-          "COVER.md",
-          "LEEME.md",
-          "manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md",
-          "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
-        ],
         "manifiestos": [
           "manifiestos/16_refragmentacion_arquetipica_ES_EN.md",
           "manifiestos/25_pulido_de_la_piedra_ES_EN.md",
@@ -10661,6 +10494,11 @@
           "manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md",
           "manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md",
           "manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md"
+        ],
+        "otros": [
+          "manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md",
+          "manifiestos/README.md",
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
@@ -10727,14 +10565,6 @@
         "auditorias/publicas": [
           "auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md"
         ],
-        "otros": [
-          "COVER.md",
-          "LEEME.md",
-          "manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md",
-          "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
-        ],
         "manifiestos": [
           "manifiestos/30_coherencia_fines_medios_ES_EN.md",
           "manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md",
@@ -10749,6 +10579,11 @@
           "manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md",
           "manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md",
           "manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md"
+        ],
+        "otros": [
+          "manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md",
+          "manifiestos/README.md",
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
@@ -10824,13 +10659,10 @@
           "analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md",
           "analisis/DIFUSION_MARCO_2026-08-09.md",
           "anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md",
-          "COVER.md",
           "difusion/2026-08-09_marco_tanda_01_ES_EN.md",
-          "LEEME.md",
           "manifiestos/README.md",
           "manifiestos/RELACIONES_LVII_LIX_ES_EN.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "analisis/publicos": [
           "analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md",
@@ -10940,14 +10772,6 @@
           "auditorias/publicas/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md",
           "auditorias/publicas/2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md"
         ],
-        "otros": [
-          "COVER.md",
-          "LEEME.md",
-          "manifiestos/README.md",
-          "manifiestos/RELACIONES_LVII_LIX_ES_EN.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
-        ],
         "manifiestos": [
           "manifiestos/19_persistencia_de_la_memoria_ES_EN.md",
           "manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md",
@@ -10957,6 +10781,11 @@
           "manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md",
           "manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md",
           "manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md"
+        ],
+        "otros": [
+          "manifiestos/README.md",
+          "manifiestos/RELACIONES_LVII_LIX_ES_EN.md",
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md",
@@ -11024,14 +10853,6 @@
           "auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md",
           "auditorias/publicas/2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md"
         ],
-        "otros": [
-          "COVER.md",
-          "LEEME.md",
-          "manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md",
-          "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
-        ],
         "manifiestos": [
           "manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md",
           "manifiestos/17_respeto_todos_seres_vivos_ES_EN.md",
@@ -11056,6 +10877,11 @@
           "manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md",
           "manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md",
           "manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md"
+        ],
+        "otros": [
+          "manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md",
+          "manifiestos/README.md",
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "obras": [
           "obras/umbral-x/README.md"
@@ -11120,16 +10946,6 @@
         ]
       },
       "inbound": {
-        "otros": [
-          "analisis/auditorias/README.md",
-          "analisis/README.md",
-          "COVER.md",
-          "LEEME.md",
-          "manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md",
-          "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "PORTADA.md"
-        ],
         "analisis/publicos": [
           "analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md",
           "analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md",
@@ -11139,8 +10955,7 @@
           "analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md",
           "analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md",
           "analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md",
-          "analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md",
-          "analisis/publicos/evidencias/README.md"
+          "analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md"
         ],
         "auditorias/publicas": [
           "auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md"
@@ -11172,13 +10987,13 @@
           "manifiestos/61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md",
           "manifiestos/63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md"
         ],
+        "otros": [
+          "manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md",
+          "manifiestos/README.md",
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
+        ],
         "neoaxiomas": [
           "neoaxiomas/README.md"
-        ],
-        "obras": [
-          "obras/idea/assets/README.md",
-          "obras/idea/README.md",
-          "obras/README.md"
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md",
@@ -11250,7 +11065,6 @@
         ],
         "otros": [
           "anuncios/2026-08-08_XLVI_CERRAR_LA_HERIDA_ES_EN.md",
-          "LEEME.md",
           "manifiestos/README.md",
           "manifiestos/RELACIONES_LVII_LIX_ES_EN.md",
           "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
@@ -11324,7 +11138,6 @@
       "inbound": {
         "otros": [
           "anuncios/2026-08-08_XLVII_ODIO_SINO_GOAT_SOMBRA_DOBLE_CARA_ES_EN.md",
-          "LEEME.md",
           "manifiestos/README.md",
           "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
@@ -11404,13 +11217,6 @@
           "analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md",
           "analisis/publicos/2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md"
         ],
-        "otros": [
-          "LEEME.md",
-          "manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md",
-          "manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md",
-          "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
-        ],
         "manifiestos": [
           "manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md",
           "manifiestos/17_respeto_todos_seres_vivos_ES_EN.md",
@@ -11432,6 +11238,12 @@
           "manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md",
           "manifiestos/63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md",
           "manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md"
+        ],
+        "otros": [
+          "manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md",
+          "manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md",
+          "manifiestos/README.md",
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
@@ -11468,17 +11280,16 @@
           "analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md",
           "analisis/publicos/2026-08-08_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_funcional_ES_EN.md"
         ],
-        "otros": [
-          "LEEME.md",
-          "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
-        ],
         "manifiestos": [
           "manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md",
           "manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md",
           "manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md",
           "manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md",
           "manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md"
+        ],
+        "otros": [
+          "manifiestos/README.md",
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
@@ -11514,7 +11325,6 @@
         "otros": [
           "analisis/DIFUSION_MARCO_2026-08-09.md",
           "difusion/2026-08-09_marco_tanda_01_ES_EN.md",
-          "LEEME.md",
           "manifiestos/README.md",
           "manifiestos/RELACIONES_LVII_LIX_ES_EN.md",
           "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
@@ -11686,7 +11496,6 @@
           "analisis/auditorias/README.md",
           "analisis/README.md",
           "AUDITORIAS_PUBLICAS.md",
-          "LEEME.md",
           "manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md",
           "manifiestos/README.md",
           "manifiestos/RELACIONES_LVII_LIX_ES_EN.md",
@@ -12899,7 +12708,6 @@
         "otros": [
           "analisis/auditorias/README.md",
           "analisis/README.md",
-          "LEEME.md",
           "manifiestos/README.md",
           "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
           "README.md"

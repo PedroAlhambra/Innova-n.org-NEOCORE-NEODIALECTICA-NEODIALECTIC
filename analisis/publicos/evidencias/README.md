@@ -30,7 +30,6 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 <!-- NEO_RELATIONAL_MENU_END -->
 
-
 <!-- NEO_ALL_MANIFESTOS_START -->
 
 ## Manifiestos / Manifestos
@@ -54,7 +53,6 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 **Cómo aportar / How to contribute:** [protocolo general / general protocol](../../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../../../auditorias/publicas/README.md) · [índice / index](../../../propuestas/sintesis-abierta/README.md)
 
 <!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->
-
 
 ## Public-analysis evidence
 
@@ -108,29 +106,3 @@ This directory preserves visual evidence, audiovisual material and supporting do
 
 - [MAXPROC sources and evidence matrix](./2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md)
 - [MAXPROC analysis](../2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
-
-<!-- NEO_CURRENT_NAV_START -->
-
-
-<!-- MANIFESTOS_CURRENT_START -->
-
-**Manifiestos de la Filosofía Arquetípica Neodialéctica™ / Manifestos of Archetypal Neodialectical Philosophy™:** **I–LXXV · 75 manifiestos bilingües / 75 bilingual manifestos** · [índice canónico / canonical index](../../../manifiestos/README.md)
-
-<!-- MANIFESTOS_CURRENT_END -->
----
-
-## Estado canónico actual · Current canonical state
-
-**Neodialectica Framework™ / Network · Innova_N · NEOCore™**
-
-- Colección pública actual: **48 manifiestos bilingües · I–XLVIII · doce oleadas** / Current public collection: **48 bilingual manifestos · I–XLVIII · twelve waves**.
-- Último manifiesto / Latest manifesto: [XLV · Multidimensionalidad Neodialéctica™ · Neodialectical Multidimensionality™](../../../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md).
-- Índice completo / Complete index: [Manifiestos / Manifestos](../../../manifiestos/README.md).
-- Contraste público / Public contrast: [Síntesis Abierta / Open Synthesis](../../../propuestas/sintesis-abierta/README.md).
-- Expansión y redundancia / Expansion and redundancy: [Protocolo de Proyección Distribuida Neodialéctica™](../../../proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md).
-- Fuente Wiki versionada / Versioned Wiki source: [Manifiestos](../../../wiki-source/Manifiestos.md).
-- Nodo raíz / Root node: [README principal](../../../README.md).
-
-**Principio de procedencia / Provenance principle:** la fuente intelectual y genealógica es **Innova_N**, dentro de **NEOCore™ / Neodialectica Framework™ / Network**, bajo dirección humana de **Pedro Martínez Alhambra · Neo0™**. GitHub es la primera proyección WEB4™ pública, versionada y trazable; no es el origen intelectual del sistema. / The intellectual and genealogical source is **Innova_N**, within **NEOCore™ / Neodialectica Framework™ / Network**, under the human direction of **Pedro Martínez Alhambra · Neo0™**. GitHub is the first public, versioned and traceable WEB4™ projection; it is not the intellectual origin of the system.
-
-<!-- NEO_CURRENT_NAV_END -->
