@@ -329,9 +329,8 @@
 - `propuestas/sintesis-abierta/GUIA_RAPIDA_APORTAR_EVIDENCIA_ES_EN.md` · ES=592 · EN=443 · ratio=0.75
   - volumen EN/ES=0.75 (443/592)
   - esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, ''), (3, ''), (2, ''), (3, '1'), (3, '2'), (2, ''), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')]
-- `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · ES=187 · EN=145 · ratio=0.78
-  - volumen EN/ES=0.78 (145/187)
-  - esqueleto de encabezados distinto ES=[(3, ''), (3, ''), (3, ''), (3, '')] EN=[]
+- `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · ES=187 · EN=193 · ratio=1.03
+  - Auditoría musical DistroKid–Spotify–DSP: párrafos ES=2 EN=3
 - `propuestas/sintesis-abierta/MEDICI_CREDITOS_PLATAFORMAS_COMPENSACION_ES_EN.md` · ES=630 · EN=621 · ratio=0.99
   - 9: párrafos ES=4 EN=3
 - `propuestas/sintesis-abierta/MEDICI_MOTOR_CALCULO_PLATAFORMAS_V0_1_ES_EN.md` · ES=315 · EN=280 · ratio=0.89
@@ -682,7 +681,7 @@
 | `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/GUIA_RAPIDA_APORTAR_EVIDENCIA_ES_EN.md` | **REVISAR** | volumen EN/ES=0.75 (443/592); esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, ''), (3, ''), (2, ''), (3, '1'), (3, '2'), (2, ''), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] |
 | `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
-| `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` | **REVISAR** | volumen EN/ES=0.78 (145/187); esqueleto de encabezados distinto ES=[(3, ''), (3, ''), (3, ''), (3, '')] EN=[] |
+| `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` | **REVISAR** | Auditoría musical DistroKid–Spotify–DSP: párrafos ES=2 EN=3 |
 | `propuestas/sintesis-abierta/MEDICI_CREDITOS_PLATAFORMAS_COMPENSACION_ES_EN.md` | **REVISAR** | 9: párrafos ES=4 EN=3 |
 | `propuestas/sintesis-abierta/MEDICI_MOTOR_CALCULO_PLATAFORMAS_V0_1_ES_EN.md` | **REVISAR** | 3: lists ES=5 EN=0; 4: code ES=1 EN=0; 4: párrafos ES=0 EN=1; 5: code ES=1 EN=0; 5: párrafos ES=2 EN=1; 6: code ES=1 EN=0; 6: párrafos ES=2 EN=1; 7: párrafos ES=2 EN=1; 8: párrafos ES=3 EN=2; 9: code ES=1 EN=0; 9: párrafos ES=2 EN=1 |
 | `propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Neoaxiomas™ · Síntesis Abierta |
