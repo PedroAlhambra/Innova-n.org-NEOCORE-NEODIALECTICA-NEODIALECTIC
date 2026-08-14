@@ -309,7 +309,12 @@ MANIFESTO / ANALYSIS / AUDIT / OPEN SYNTHESIS
 POSSIBLE CONTRAST AND RETURN TO THE FRAMEWORK
 ```
 
-The repository homepage should not be the default destination when a more precise piece exists. Priority goes to the directly related manifesto, concrete analysis or audit, corresponding Open Synthesis when debate is the main objective, and only then the general index when the whole framework is genuinely the object.
+The repository homepage should not be the default destination when a more precise piece exists. Priority is given to:
+
+1. the directly related manifesto;
+2. the concrete analysis or audit when the comment refers to a case;
+3. the corresponding Open Synthesis when the main objective is to provoke debate;
+4. the general index only when the object is genuinely the framework as a whole.
 
 The comment must **provide context before the link**. It should not consist of a bare URL or an indiscriminately repeated message.
 

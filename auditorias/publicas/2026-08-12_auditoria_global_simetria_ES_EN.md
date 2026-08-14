@@ -231,8 +231,7 @@
   - IDEA · contexto genealógico opcional: párrafos ES=3 EN=2
 - `proyeccion/POLITICA_SIMETRIA_BILINGUE_ES_EN.md` · ES=485 · EN=480 · ratio=0.99
   - VIII: párrafos ES=2 EN=3
-- `proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md` · ES=1013 · EN=963 · ratio=0.95
-  - 11: lists ES=4 EN=0
+- `proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md` · ES=1013 · EN=979 · ratio=0.97
   - 11: párrafos ES=4 EN=3
   - Principio de Proyección por Pertinencia™: párrafos ES=4 EN=5
 - `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md` · ES=197 · EN=197 · ratio=1.00
@@ -533,7 +532,7 @@
 | `proyeccion/NEOCORE_7_2_DELTA_ES_EN.md` | **REVISAR** | 5: párrafos ES=1 EN=3 |
 | `proyeccion/NEOCORE_7_2_EXTERNAL_REVIEW_BRIEF_ES_EN.md` | **REVISAR** | IDEA · contexto genealógico opcional: párrafos ES=3 EN=2 |
 | `proyeccion/POLITICA_SIMETRIA_BILINGUE_ES_EN.md` | **REVISAR** | VIII: párrafos ES=2 EN=3 |
-| `proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md` | **REVISAR** | 11: lists ES=4 EN=0; 11: párrafos ES=4 EN=3; Principio de Proyección por Pertinencia™: párrafos ES=4 EN=5 |
+| `proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md` | **REVISAR** | 11: párrafos ES=4 EN=3; Principio de Proyección por Pertinencia™: párrafos ES=4 EN=5 |
 | `proyeccion/README.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Proyección y difusión trazable / Genealogía y salvaguarda |
 | `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md` | **REVISAR** | 6: párrafos ES=2 EN=3 |
 | `web4/2026-08-10_POSTCHECK_WEB4_7_2_IDEA_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Postcheck WEB4™ · NEOCore™ 7.2 + IDEA / Límite de verificación |
