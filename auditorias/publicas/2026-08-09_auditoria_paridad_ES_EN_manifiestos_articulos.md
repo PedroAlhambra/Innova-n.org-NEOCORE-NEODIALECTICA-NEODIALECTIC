@@ -9,11 +9,11 @@
 - Se compara volumen global, encabezados y secuencia de secciones principales H2 numeradas.
 - Se compara sección por sección el volumen material y la conservación de fórmulas/bloques.
 - Las diferencias de listas o citas se marcan como **ADVERTENCIA estructural** si el volumen de la sección sigue siendo razonablemente equivalente; pasan a **REVISAR** cuando coinciden con compresión material.
-- Los bloques generados de navegación, referencias cruzadas y colas de navegación específicas de idioma no se contabilizan como traducción.
+- Los bloques generados de navegación, relaciones compartidas, referencias cruzadas y colas de navegación específicas de idioma no se contabilizan como traducción.
 - `REVISAR` bloquea la publicación automática de manifiestos; `ADVERTENCIA` exige inspección editorial pero no demuestra por sí sola recorte.
 
 **Documentos bilingües examinados:** 104  
-**Recortes/materialmente asimétricos para revisión:** 1  
+**Recortes/materialmente asimétricos para revisión:** 0  
 **Advertencias estructurales sin prueba suficiente de recorte:** 3  
 **Con marcador incompleto/ausente:** 0
 
@@ -21,7 +21,7 @@
 
 | Archivo | Palabras ES | Palabras EN | Ratio EN/ES | H ES | H EN | Motivo |
 |---|---:|---:|---:|---:|---:|---|
-| `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md` | 403 | 689 | 1.71 | 6 | 7 | EN/ES global=1.71 |
+| — | — | — | — | — | — | Sin casos |
 
 ## Advertencias estructurales
 
@@ -113,13 +113,13 @@
 | `manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md` | 1370 | 1398 | 1.02 | 15 | 16 | OK |
 | `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | 2112 | 2116 | 1.00 | 13 | 13 | OK |
 | `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` | 611 | 611 | 1.00 | 1 | 1 | OK |
-| `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` | 3237 | 3440 | 1.06 | 29 | 30 | OK |
-| `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` | 621 | 912 | 1.47 | 6 | 7 | OK |
-| `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` | 1285 | 1569 | 1.22 | 12 | 14 | OK |
-| `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` | 825 | 1094 | 1.33 | 8 | 9 | OK |
-| `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` | 2582 | 2799 | 1.08 | 40 | 42 | OK |
-| `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` | 531 | 823 | 1.55 | 5 | 6 | OK |
-| `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md` | 403 | 689 | 1.71 | 6 | 7 | REVISAR |
+| `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` | 3237 | 3128 | 0.97 | 29 | 29 | OK |
+| `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` | 621 | 600 | 0.97 | 6 | 6 | OK |
+| `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` | 1285 | 1284 | 1.00 | 12 | 13 | OK |
+| `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` | 825 | 782 | 0.95 | 8 | 8 | OK |
+| `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` | 2582 | 2580 | 1.00 | 40 | 41 | OK |
+| `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` | 531 | 511 | 0.96 | 5 | 5 | OK |
+| `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md` | 403 | 377 | 0.94 | 6 | 6 | OK |
 | `analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md` | 807 | 805 | 1.00 | 8 | 9 | OK |
 | `analisis/publicos/2026-08-08_addendum_autodemostracion_creacion_neodialectica_historia_olvidada_ES_EN.md` | 656 | 657 | 1.00 | 9 | 9 | OK |
 | `analisis/publicos/2026-08-08_addendum_distrokid_catalogo_album_removed_added_apple_music_ES_EN.md` | 803 | 772 | 0.96 | 14 | 14 | OK |
