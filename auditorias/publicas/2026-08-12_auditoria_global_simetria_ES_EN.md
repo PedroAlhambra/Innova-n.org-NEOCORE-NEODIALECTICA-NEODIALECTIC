@@ -8,26 +8,40 @@
 ## Resumen / Summary
 
 - Markdown activo examinado / Active Markdown scanned: **291**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **209**.
-- Fallos estructurales divididos / Split structural failures: **0**.
-- Fallos de marcadores / Marker failures: **0**.
-- Superficies pareadas para revisión / Paired surfaces for review: **24**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **228**.
+- Fallos estructurales divididos / Split structural failures: **6**.
+- Fallos de marcadores / Marker failures: **3**.
+- Superficies pareadas para revisión / Paired surfaces for review: **19**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
 
-- Ninguno / None.
+- `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · ES=724 · EN=426 · ratio=0.59
+  - volumen EN/ES=0.59 (426/724)
+  - 2: párrafos ES=7 EN=5
+  - 4: quotes ES=8 EN=0
+- `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · ES=6000 · EN=5912 · ratio=0.99
+  - esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')]
+- `analisis/publicos/evidencias/README.md` · ES=18 · EN=128 · ratio=7.11
+  - esqueleto de encabezados distinto ES=[] EN=[(3, ''), (3, '')]
+- `anuncios/2026-08-08_LII_CIUDADANIA_HUMANA_NEODIALECTICA_ES_EN.md` · ES=137 · EN=104 · ratio=0.76
+  - volumen EN/ES=0.76 (104/137)
+- `auditorias/publicas/2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md` · ES=1759 · EN=1689 · ratio=0.96
+  - 7 · Contraprincipio operativo Innova_N: párrafos ES=2 EN=3
+  - 11 · Protocolo de aportación: párrafos ES=2 EN=3
+- `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` · ES=149 · EN=121 · ratio=0.81
+  - volumen EN/ES=0.81 (121/149)
+  - esqueleto de encabezados distinto ES=[(3, ''), (3, '')] EN=[]
 
 ## Marcadores / Markers
 
-- Ninguno / None.
+- `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md`
+- `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md`
+- `fragmentos/03_Fragmento-III.md`
 
 ## Superficies pareadas que requieren revisión / Paired surfaces requiring review
 
-- `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md`: Parte II — Dajla, mafias migratorias y control estatal | La infraestructura oculta de la presión fronteriza | Part II — Dakhla, migrant-smuggling networks and state control | Versión en español | Parte II — Dajla, mafias migratorias y control estatal | Utilización política del ecosistema | Acusación extraordinaria sin prueba suficiente | Conclusión | English version | Part II — Dakhla, migrant-smuggling networks and state control | Political use of the ecosystem | Extraordinary allegation without sufficient evidence
-- `analisis/publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md`: ES | EN
 - `analisis/publicos/evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md`: España, Marruecos, regularización y nacionalidad
-- `analisis/publicos/evidencias/README.md`: Evidencias de análisis públicos | Protección Integral de la Infancia™ | EN
 - `anuncios/2026-08-08_XLVII_ODIO_SINO_GOAT_SOMBRA_DOBLE_CARA_ES_EN.md`: The Goat, Sombra, Vínculo y Doble Cara de la Vida
 - `anuncios/2026-08-08_XLVI_CERRAR_LA_HERIDA_ES_EN.md`: Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria
 - `auditorias/publicas/2026-08-08_postcheck_XLIV_neowar_enlaces_readmes_ES_EN.md`: Postcheck XLIV · Neowar™ · enlaces y READMEs | XLIV postcheck · Neowar™ · links and READMEs
@@ -39,8 +53,6 @@
 - `auditorias/publicas/2026-08-09_postcheck_neocore_7_1_integridad_relacional_no_reductiva_ES_EN.md`: Postcheck NEOCore™ 7.1 · integridad relacional y no reductiva
 - `auditorias/publicas/2026-08-10_postcheck_neocore_7_2_final_indices_paridad_ES_EN.md`: Resultado
 - `auditorias/publicas/2026-08-10_postcheck_neocore_7_2_soberania_sintesis_web4_ES_EN.md`: WEB4™
-- `auditorias/publicas/2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md`: ES | HECHO VERIFICADO | PrepFort, 2077AI y otros nombres | 11 · Protocolo de aportación | EN | VERIFIED FACT | PrepFort, 2077AI and other names | 11 · Contribution protocol
-- `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md`: ES | EN
 - `difusion/2026-08-09_marco_tanda_01_ES_EN.md`: Difusión del marco · tanda 01 · 2026-08-09
 - `difusion/2026-08-09_marco_tanda_02_ES_EN.md`: Difusión del marco · tanda 02 · 2026-08-09
 - `manifiestos/README.md`: WEB4™ · SistemaTrazable™
@@ -63,8 +75,13 @@
 | `analisis/INDEX.md` | **OK** |  |
 | `analisis/README.md` | **OK** |  |
 | `analisis/auditorias/README.md` | **OK** |  |
-| `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
-| `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Parte II — Dajla, mafias migratorias y control estatal / La infraestructura oculta de la presión fronteriza / Part II — Dakhla, migrant-smuggling networks and state control / Versión en español / Parte II — Dajla, mafias migratorias y control estatal / Utilización política del ecosistema / Acusación extraordinaria sin prueba suficiente / Conclusión / English version / Part II — Dakhla, migrant-smuggling networks and state control / Political use of the ecosystem / Extraordinary allegation without sufficient evidence |
+| `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` | **REVISAR** | volumen EN/ES=0.59 (426/724); 2: párrafos ES=7 EN=5; 4: quotes ES=8 EN=0 |
+| `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` | **OK** |  |
+| `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` | **OK** |  |
+| `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` | **OK** |  |
+| `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] |
+| `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` | **MARCADORES** | — |
+| `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` | **MARCADORES** | — |
 | `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` | **OK** |  |
@@ -95,7 +112,7 @@
 | `analisis/publicos/2026-08-10_addendum_tidal_yellow_quasar_perfil_duplicado_uno_playlists_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-13_convergencia-neodialectica-meta-zuckerberg_ES_EN.md` | **OK** |  |
-| `analisis/publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: ES / EN |
+| `analisis/publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md` | **OK** |  |
 | `analisis/publicos/README.md` | **OK** |  |
 | `analisis/publicos/evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: España, Marruecos, regularización y nacionalidad |
 | `analisis/publicos/evidencias/2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md` | **OK** |  |
@@ -103,23 +120,23 @@
 | `analisis/publicos/evidencias/2026-08-07_ceuta-marruecos-evolucion-conflicto-fuentes-y-matriz_ES_EN.md` | **OK** |  |
 | `analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md` | **OK** |  |
 | `analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuerzas-y-matriz_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
-| `analisis/publicos/evidencias/README.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Evidencias de análisis públicos / Protección Integral de la Infancia™ / EN |
+| `analisis/publicos/evidencias/README.md` | **REVISAR** | esqueleto de encabezados distinto ES=[] EN=[(3, ''), (3, '')] |
 | `anuncios/2026-08-06_ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_SINTESIS_ABIERTA_ES_EN.md` | **OK** |  |
 | `anuncios/2026-08-06_SEGUNDA_OLEADA_MANIFIESTOS_NEOPANDORA_ES_EN.md` | **OK** |  |
 | `anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md` | **OK** |  |
-| `anuncios/2026-08-07_ANUNCIO_CINCO_OLEADAS_MANIFIESTOS_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
+| `anuncios/2026-08-07_ANUNCIO_CINCO_OLEADAS_MANIFIESTOS_ES_EN.md` | **OK** |  |
 | `anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md` | **OK** |  |
 | `anuncios/2026-08-07_OCTAVA_OLEADA_PROTECCION_INTEGRAL_INFANCIA_ES_EN.md` | **OK** |  |
-| `anuncios/2026-08-07_QUINTA_OLEADA_TRANSICION_AUDITORIA_ATENCION_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
+| `anuncios/2026-08-07_QUINTA_OLEADA_TRANSICION_AUDITORIA_ATENCION_ES_EN.md` | **OK** |  |
 | `anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md` | **OK** |  |
 | `anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md` | **OK** |  |
-| `anuncios/2026-08-08_LII_CIUDADANIA_HUMANA_NEODIALECTICA_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
+| `anuncios/2026-08-08_LII_CIUDADANIA_HUMANA_NEODIALECTICA_ES_EN.md` | **REVISAR** | volumen EN/ES=0.76 (104/137) |
 | `anuncios/2026-08-08_XLVII_ODIO_SINO_GOAT_SOMBRA_DOBLE_CARA_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: The Goat, Sombra, Vínculo y Doble Cara de la Vida |
 | `anuncios/2026-08-08_XLVI_CERRAR_LA_HERIDA_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria |
 | `auditorias/publicas/2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md` | **OK** |  |
-| `auditorias/publicas/2026-08-07_plan_normalizacion_sintesis_abierta_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
+| `auditorias/publicas/2026-08-07_plan_normalizacion_sintesis_abierta_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-07_postcheck_cierre_total_simetria_I_XXXVI_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `auditorias/publicas/2026-08-07_postcheck_enlaces_y_sincronizacion_XXXV_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-07_postcheck_final_simetria_limpia_I_XXXVI_ES_EN.md` | **OK** |  |
@@ -155,12 +172,13 @@
 | `auditorias/publicas/2026-08-12_auditoria_estructura_bilingue_manifiestos_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `auditorias/publicas/2026-08-12_auditoria_global_simetria_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `auditorias/publicas/2026-08-12_auditoria_registro_canonico_manifiestos_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
-| `auditorias/publicas/2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: ES / HECHO VERIFICADO / PrepFort, 2077AI y otros nombres / 11 · Protocolo de aportación / EN / VERIFIED FACT / PrepFort, 2077AI and other names / 11 · Contribution protocol |
-| `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: ES / EN |
+| `auditorias/publicas/2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md` | **REVISAR** | 7 · Contraprincipio operativo Innova_N: párrafos ES=2 EN=3; 11 · Protocolo de aportación: párrafos ES=2 EN=3 |
+| `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **REVISAR** | volumen EN/ES=0.81 (121/149); esqueleto de encabezados distinto ES=[(3, ''), (3, '')] EN=[] |
 | `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/README.md` | **OK** |  |
 | `difusion/2026-08-09_marco_tanda_01_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Difusión del marco · tanda 01 · 2026-08-09 |
 | `difusion/2026-08-09_marco_tanda_02_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Difusión del marco · tanda 02 · 2026-08-09 |
+| `fragmentos/03_Fragmento-III.md` | **MARCADORES** | — |
 | `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` | **OK** |  |
 | `manifiestos/02_neodialectica_bien_comun_ES_EN.md` | **OK** |  |
 | `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` | **OK** |  |
@@ -260,8 +278,8 @@
 | `propuestas/sintesis-abierta/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-11_DELTA_HUMANIDAD_COMUN_MADURACION_INVERTIDA_TROL_BOT_MAL_SISTEMICO_ES_EN.md` | **OK** |  |
-| `propuestas/sintesis-abierta/2026-08-15_C_NAX_23_CONSERVACION_FRACTAL_COMUN_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
-| `propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
+| `propuestas/sintesis-abierta/2026-08-15_C_NAX_23_CONSERVACION_FRACTAL_COMUN_ES_EN.md` | **OK** |  |
+| `propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-15_DELTA_NEOMANTIS_ASIMETRIA_INVERTIDA_DIGNIDAD_RECIPROCA_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_v0.1_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` | **OK** |  |
@@ -290,6 +308,7 @@
 | `proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md` | **OK** |  |
 | `proyeccion/README.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Proyección y difusión trazable / Genealogía y salvaguarda |
 | `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md` | **OK** |  |
+| `snapshots/2026-08-11_NEOCORE_7_CURRENT_SNAPSHOT.md` | **OK** |  |
 | `web4/2026-08-10_POSTCHECK_WEB4_7_2_IDEA_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Postcheck WEB4™ · NEOCore™ 7.2 + IDEA / Límite de verificación |
 | `web4/README.md` | **OK** |  |
 | `wiki-source/Analisis_Neodialecticos_Publicos.md` | **OK** |  |
