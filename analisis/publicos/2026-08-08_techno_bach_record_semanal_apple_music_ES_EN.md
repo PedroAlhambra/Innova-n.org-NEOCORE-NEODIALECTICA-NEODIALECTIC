@@ -4,7 +4,8 @@
 **Fecha / Date:** 2026-08-08  
 **Proyecto musical / Music project:** Techno Bach  
 **Fuente / Source:** correos semanales de Apple Music for Artists conservados en Gmail  
-**Estado / Status:** registro descriptivo · no extrapolación comercial / descriptive record · no commercial extrapolation
+**Estado / Status:** registro descriptivo · no extrapolación comercial / descriptive record · no commercial extrapolation  
+**Pedro Martínez Alhambra · Innova_N**
 
 ---
 
@@ -103,5 +104,3 @@ It does provide an independent reference showing that the catalogue continues to
 - [Spotify–DistroKid · circular closure and escalation](./2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md)
 
 ---
-
-**Pedro Martínez Alhambra · Innova_N**
