@@ -1,13 +1,15 @@
-# Actualización pública · 4 de agosto de 2026
-## Solicitud formal de auditoría sobre regalías, metadatos e identificación del receptor económico
+# Actualización pública · 4 de agosto de 2026 / Public update · 4 August 2026
+## Solicitud formal de auditoría sobre regalías, metadatos e identificación del receptor económico / Formal request for an audit of royalties, metadata and the economic recipient
 
-> **Estado:** auditoría formal solicitada a DistroKid y Spotify.  
-> **Proyectos afectados:** Yellow Quasar, Techno Bach y El Reino de las Maravillas.  
-> **Expedientes DistroKid relacionados:** #2901165, #2941949 y #3093561.
+> **Estado / Status:** auditoría formal solicitada a DistroKid y Spotify / formal audit requested from DistroKid and Spotify.  
+> **Proyectos afectados / Affected projects:** Yellow Quasar, Techno Bach y / and El Reino de las Maravillas.  
+> **Expedientes DistroKid relacionados / Related DistroKid tickets:** #2901165, #2941949 y / and #3093561.
 
 ---
 
-## ES · Nueva fase del expediente
+# ES · Castellano
+
+## Nueva fase del expediente
 
 El 4 de agosto de 2026 se enviaron requerimientos formales a **DistroKid** y **Spotify AB** para que preserven los registros y realicen una auditoría técnica y contable completa sobre las reproducciones y regalías de mis catálogos.
 
@@ -22,9 +24,7 @@ No basta con afirmar que las estadísticas y los informes de regalías proceden 
 
 > **¿Qué grabación, identificada por qué ISRC y Spotify Track ID, generó cada reproducción, a qué licenciante fue atribuida y en qué cuenta terminó la liquidación correspondiente?**
 
----
-
-## ES · Datos cuya entrega se ha solicitado
+## Datos cuya entrega se ha solicitado
 
 Para cada grabación, perfil y periodo afectado se ha requerido:
 
@@ -43,9 +43,7 @@ Para cada grabación, perfil y periodo afectado se ha requerido:
 
 También se ha solicitado la **conservación inmediata de pruebas desde el 1 de diciembre de 2024**, incluidos registros DDEX, versiones históricas de metadatos, cambios de ISRC o UPC, URIs de Spotify, informes de uso, liquidaciones, retenciones, avisos de reproducciones artificiales y logs internos de soporte.
 
----
-
-## ES · Proyectos e identificadores públicos afectados
+## Proyectos e identificadores públicos afectados
 
 - **Yellow Quasar**  
   Spotify Artist ID: `5PZIDBs633dHr4hcvg8oqq`
@@ -71,9 +69,7 @@ MASTER
 → RECEPTOR ECONÓMICO
 ```
 
----
-
-## ES · Petición pública de responsabilidad
+## Petición pública de responsabilidad
 
 Se solicita públicamente que los responsables de las siguientes áreas de DistroKid y Spotify asuman el expediente:
 
@@ -101,9 +97,7 @@ La diferencia solo puede resolverse mostrando los registros.
 
 Si Spotify confirma que generó y remitió una liquidación vinculada a estas grabaciones, y DistroKid no puede demostrar su asignación correcta a la cuenta del titular, el caso será trasladado a las autoridades competentes con la documentación completa.
 
----
-
-## ES · Solicitud de transparencia sectorial
+## Solicitud de transparencia sectorial
 
 Este expediente no debe analizarse únicamente como una incidencia individual. El sistema de distribución musical digital permite que el creador vea títulos, perfiles y cifras agregadas, pero no siempre puede verificar directamente:
 
@@ -128,16 +122,9 @@ Sin esa cadena, el creador depende de sistemas cerrados y respuestas de soporte 
 
 ---
 
-# Public update · 4 August 2026
-## Formal request for an audit of royalties, metadata and the economic recipient
+# EN · English
 
-> **Status:** formal audit requested from DistroKid and Spotify.  
-> **Affected projects:** Yellow Quasar, Techno Bach and El Reino de las Maravillas.  
-> **Related DistroKid tickets:** #2901165, #2941949 and #3093561.
-
----
-
-## EN · New stage of the case
+## New stage of the case
 
 On 4 August 2026, formal notices were sent to **DistroKid** and **Spotify AB**, requiring preservation of records and a complete technical and accounting audit of the streams and royalties connected to my catalogues.
 
@@ -152,9 +139,7 @@ It is not sufficient to state that trend statistics and royalty statements come 
 
 > **Which recording, identified by which ISRC and Spotify Track ID, generated each stream, which licensor was credited, and which account received the resulting settlement?**
 
----
-
-## EN · Information formally requested
+## Information formally requested
 
 For every affected recording, profile and reporting period, the companies have been asked to provide:
 
@@ -173,9 +158,7 @@ For every affected recording, profile and reporting period, the companies have b
 
 Immediate **preservation of all relevant records from 1 December 2024 onward** has also been requested, including DDEX records, historical metadata versions, ISRC and UPC changes, Spotify URIs, usage reports, settlements, withholding records, artificial-streaming notices and internal support logs.
 
----
-
-## EN · Affected projects and public identifiers
+## Affected projects and public identifiers
 
 - **Yellow Quasar**  
   Spotify Artist ID: `5PZIDBs633dHr4hcvg8oqq`
@@ -201,9 +184,7 @@ MASTER
 → ECONOMIC RECIPIENT
 ```
 
----
-
-## EN · Public accountability request
+## Public accountability request
 
 The heads of the following functions at DistroKid and Spotify are publicly requested to assume responsibility for the case:
 
@@ -231,9 +212,7 @@ Only the underlying records can distinguish among these possibilities.
 
 If Spotify confirms that a settlement was generated and remitted for these recordings, and DistroKid cannot demonstrate its correct allocation to the rights holder’s account, the full file will be submitted to the competent authorities.
 
----
-
-## EN · Request for industry transparency
+## Request for industry transparency
 
 This case should not be treated solely as an individual support incident. Digital music distribution systems may allow creators to see titles, profiles and aggregated statistics without enabling them to verify directly:
 
