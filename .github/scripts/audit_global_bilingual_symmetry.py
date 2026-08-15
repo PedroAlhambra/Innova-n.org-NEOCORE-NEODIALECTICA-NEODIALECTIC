@@ -147,7 +147,7 @@ def count_paragraphs(s):
         plain=re.sub(r'[`*_]+','',p).strip()
         # Editorial signatures/copyright epilogues are shared metadata, not language prose.
         if re.match(r'^(?:©\s*\d{4}\s+)?Pedro Martínez Alhambra\b',plain,re.I): continue
-        if re.match(r'^Innova_N\b',plain,re.I): continue
+        if re.match(r'^Innova_?N\b',plain,re.I): continue
         blocks.append(p)
     return len(blocks)
 
