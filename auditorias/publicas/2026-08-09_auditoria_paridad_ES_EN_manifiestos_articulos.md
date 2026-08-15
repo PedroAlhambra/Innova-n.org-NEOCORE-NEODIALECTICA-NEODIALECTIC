@@ -13,7 +13,7 @@
 - `REVISAR` bloquea la publicación automática de manifiestos; `ADVERTENCIA` exige inspección editorial pero no demuestra por sí sola recorte.
 
 **Documentos bilingües examinados:** 105  
-**Recortes/materialmente asimétricos para revisión:** 1  
+**Recortes/materialmente asimétricos para revisión:** 0  
 **Advertencias estructurales sin prueba suficiente de recorte:** 0  
 **Con marcador incompleto/ausente:** 0
 
@@ -21,7 +21,7 @@
 
 | Archivo | Palabras ES | Palabras EN | Ratio EN/ES | H ES | H EN | Motivo |
 |---|---:|---:|---:|---:|---:|---|
-| `manifiestos/76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md` | 1551 | 1660 | 1.07 | 15 | 17 | sección X listas ES=6, EN=0; sección XI fórmulas/bloques ES=1, EN=0 |
+| — | — | — | — | — | — | Sin casos |
 
 ## Advertencias estructurales
 
@@ -109,7 +109,7 @@
 | `manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md` | 1660 | 1790 | 1.08 | 22 | 23 | OK |
 | `manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md` | 1119 | 1199 | 1.07 | 19 | 20 | OK |
 | `manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md` | 1370 | 1398 | 1.02 | 15 | 16 | OK |
-| `manifiestos/76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md` | 1551 | 1660 | 1.07 | 15 | 17 | REVISAR |
+| `manifiestos/76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md` | 1630 | 1664 | 1.02 | 14 | 15 | OK |
 | `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | 2112 | 2116 | 1.00 | 13 | 13 | OK |
 | `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` | 611 | 611 | 1.00 | 1 | 1 | OK |
 | `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` | 3237 | 3128 | 0.97 | 29 | 29 | OK |
