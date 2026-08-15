@@ -148,6 +148,9 @@ def count_paragraphs(s):
         # Editorial signatures/copyright epilogues are shared metadata, not language prose.
         if re.match(r'^(?:©\s*\d{4}\s+)?Pedro Martínez Alhambra\b',plain,re.I): continue
         if re.match(r'^Innova_?N\b',plain,re.I): continue
+        # Short bilingual metadata footers remain outside the semantic ES/EN halves even when
+        # they appear after the final EN section. Do not charge them to English paragraph count.
+        if re.match(r'^(?:Clasificación provisional / Provisional classification|Síntesis / Synthesis|Regla / Rule|Estado / Status|Puertas / Gates):',plain,re.I): continue
         blocks.append(p)
     return len(blocks)
 
