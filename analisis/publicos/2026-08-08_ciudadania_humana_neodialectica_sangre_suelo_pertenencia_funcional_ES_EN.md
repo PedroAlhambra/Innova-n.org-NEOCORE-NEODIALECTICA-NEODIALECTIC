@@ -136,4 +136,6 @@ Central questions:
 7. Can multiscale citizenship exist without irresolvable jurisdictional conflicts?
 8. What democratic and legal transition would be required?
 
-The proposal does not ask for adherence. It asks for **edge cases, contradictions, alternative models and improvements**.
+The proposal does not ask for adherence.
+
+It asks for **edge cases, contradictions, alternative models and improvements**.
