@@ -64,6 +64,7 @@ The review registers Intellectual Sovereignty of the Species™, Non-Crowning of
 
 The public WEB4™ projection is updated to read I–LXVIII + ∞ and display state 7.2. NeoCronos™ remains explicitly experimental, multidimensional and revisable contribution tracing, not an absolute score or automatic assignment of tokens or money.
 
+<!-- NEO_RELATIONAL_FOOTER_START -->
 ---
 
 **Principio de continuidad / Continuity principle:** 7.2 añade relaciones y corrige desincronizaciones; no reescribe como actuales los documentos históricos que fijaron 7.1 en su fecha. / 7.2 adds relations and repairs desynchronisation; it does not rewrite historical documents that recorded 7.1 as their then-current state.
