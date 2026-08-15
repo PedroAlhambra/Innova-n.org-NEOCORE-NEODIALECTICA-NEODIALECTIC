@@ -9,71 +9,14 @@
 
 - Markdown activo examinado / Active Markdown scanned: **284**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **222**.
-- Fallos estructurales divididos / Split structural failures: **1**.
+- Fallos estructurales divididos / Split structural failures: **0**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
 
-- `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · ES=5290 · EN=5290 · ratio=1.00
-  - Una Síntesis Abierta™ desde el marco neodialéctico sobre una transformación estructural que la ciudadanía no ha podido ratificar: lists ES=0 EN=16
-  - Una Síntesis Abierta™ desde el marco neodialéctico sobre una transformación estructural que la ciudadanía no ha podido ratificar: quotes ES=0 EN=1
-  - Una Síntesis Abierta™ desde el marco neodialéctico sobre una transformación estructural que la ciudadanía no ha podido ratificar: párrafos ES=9 EN=7
-  - 1: lists ES=0 EN=8
-  - 1: quotes ES=0 EN=1
-  - 1: párrafos ES=9 EN=8
-  - 2: lists ES=0 EN=9
-  - 2: párrafos ES=19 EN=18
-  - 3: lists ES=0 EN=20
-  - 3: párrafos ES=13 EN=11
-  - 4: lists ES=0 EN=11
-  - 4: quotes ES=0 EN=2
-  - 4: párrafos ES=19 EN=17
-  - 5: lists ES=0 EN=7
-  - 5: párrafos ES=16 EN=15
-  - 6: quotes ES=0 EN=2
-  - 7: lists ES=0 EN=6
-  - 7: quotes ES=0 EN=1
-  - 7: párrafos ES=9 EN=8
-  - 8: quotes ES=0 EN=2
-  - 9: lists ES=0 EN=6
-  - 9: quotes ES=0 EN=1
-  - 9: párrafos ES=15 EN=14
-  - 10: lists ES=0 EN=12
-  - 10: quotes ES=0 EN=1
-  - 10: párrafos ES=14 EN=12
-  - 11: lists ES=0 EN=14
-  - 11: párrafos ES=14 EN=12
-  - 12: lists ES=0 EN=12
-  - 12: quotes ES=0 EN=1
-  - 12: párrafos ES=17 EN=15
-  - 13: lists ES=0 EN=21
-  - 13: quotes ES=0 EN=1
-  - 13: párrafos ES=16 EN=13
-  - 14: lists ES=0 EN=17
-  - 14: quotes ES=0 EN=1
-  - 14: párrafos ES=12 EN=10
-  - 15: lists ES=0 EN=37
-  - 15: párrafos ES=14 EN=9
-  - 16: lists ES=0 EN=14
-  - 16: quotes ES=0 EN=1
-  - 16: párrafos ES=11 EN=9
-  - 17: lists ES=0 EN=15
-  - 17: quotes ES=0 EN=2
-  - 17: párrafos ES=18 EN=16
-  - Hechos verificados: lists ES=1 EN=13
-  - Relaciones estructurales: lists ES=0 EN=6
-  - Relaciones estructurales: párrafos ES=1 EN=0
-  - Inferencias razonables: lists ES=0 EN=7
-  - Inferencias razonables: párrafos ES=1 EN=0
-  - Hipótesis abiertas: lists ES=0 EN=8
-  - Hipótesis abiertas: párrafos ES=3 EN=2
-  - 19: lists ES=0 EN=21
-  - 19: párrafos ES=25 EN=23
-  - 20: lists ES=1 EN=20
-  - Conclusión: lists ES=0 EN=22
-  - Conclusión: párrafos ES=40 EN=35
+- Ninguno / None.
 
 ## Marcadores / Markers
 
@@ -102,7 +45,7 @@
 | `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` | **OK** |  |
 | `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` | **OK** |  |
 | `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` | **OK** |  |
-| `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` | **REVISAR** | Una Síntesis Abierta™ desde el marco neodialéctico sobre una transformación estructural que la ciudadanía no ha podido ratificar: lists ES=0 EN=16; Una Síntesis Abierta™ desde el marco neodialéctico sobre una transformación estructural que la ciudadanía no ha podido ratificar: quotes ES=0 EN=1; Una Síntesis Abierta™ desde el marco neodialéctico sobre una transformación estructural que la ciudadanía no ha podido ratificar: párrafos ES=9 EN=7; 1: lists ES=0 EN=8; 1: quotes ES=0 EN=1; 1: párrafos ES=9 EN=8; 2: lists ES=0 EN=9; 2: párrafos ES=19 EN=18; 3: lists ES=0 EN=20; 3: párrafos ES=13 EN=11; 4: lists ES=0 EN=11; 4: quotes ES=0 EN=2; 4: párrafos ES=19 EN=17; 5: lists ES=0 EN=7; 5: párrafos ES=16 EN=15; 6: quotes ES=0 EN=2; 7: lists ES=0 EN=6; 7: quotes ES=0 EN=1; 7: párrafos ES=9 EN=8; 8: quotes ES=0 EN=2; 9: lists ES=0 EN=6; 9: quotes ES=0 EN=1; 9: párrafos ES=15 EN=14; 10: lists ES=0 EN=12; 10: quotes ES=0 EN=1; 10: párrafos ES=14 EN=12; 11: lists ES=0 EN=14; 11: párrafos ES=14 EN=12; 12: lists ES=0 EN=12; 12: quotes ES=0 EN=1; 12: párrafos ES=17 EN=15; 13: lists ES=0 EN=21; 13: quotes ES=0 EN=1; 13: párrafos ES=16 EN=13; 14: lists ES=0 EN=17; 14: quotes ES=0 EN=1; 14: párrafos ES=12 EN=10; 15: lists ES=0 EN=37; 15: párrafos ES=14 EN=9; 16: lists ES=0 EN=14; 16: quotes ES=0 EN=1; 16: párrafos ES=11 EN=9; 17: lists ES=0 EN=15; 17: quotes ES=0 EN=2; 17: párrafos ES=18 EN=16; Hechos verificados: lists ES=1 EN=13; Relaciones estructurales: lists ES=0 EN=6; Relaciones estructurales: párrafos ES=1 EN=0; Inferencias razonables: lists ES=0 EN=7; Inferencias razonables: párrafos ES=1 EN=0; Hipótesis abiertas: lists ES=0 EN=8; Hipótesis abiertas: párrafos ES=3 EN=2; 19: lists ES=0 EN=21; 19: párrafos ES=25 EN=23; 20: lists ES=1 EN=20; Conclusión: lists ES=0 EN=22; Conclusión: párrafos ES=40 EN=35 |
+| `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` | **OK** |  |
 | `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` | **OK** |  |

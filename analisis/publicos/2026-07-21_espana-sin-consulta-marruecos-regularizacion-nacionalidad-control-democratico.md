@@ -820,7 +820,7 @@ y lo que el poder todavía no permite comprobar.
 ### Hechos verificados
 
 
-- Marruecos ha utilizado el control fronterizo y la migración como presión política. España modificó su posición sobre el Sáhara Occidental. Se aprobó una regularización extraordinaria mediante real decreto. Se recibieron 1.174.978 solicitudes. La residencia no concede voto inmediato. La residencia legal puede conducir posteriormente a nacionalidad. La Ley de Nietos permite adquirir directamente nacionalidad española. Más de 1,2 millones de expedientes habían sido recibidos presencialmente por los consulados hasta marzo de 2026. Marruecos concede periódicamente miles de indultos, reducciones y conmutaciones. Algunos beneficiarios habían sido condenados por extremismo. No existe trazabilidad pública entre indultados, entradas en España y solicitudes de regularización. No se ha celebrado un referéndum sobre el efecto acumulado. El Gobierno fue investido mediante una mayoría dependiente de fuerzas nacionalistas y separatistas.
+Marruecos ha utilizado el control fronterizo y la migración como presión política. España modificó su posición sobre el Sáhara Occidental. Se aprobó una regularización extraordinaria mediante real decreto. Se recibieron 1.174.978 solicitudes. La residencia no concede voto inmediato. La residencia legal puede conducir posteriormente a nacionalidad. La Ley de Nietos permite adquirir directamente nacionalidad española. Más de 1,2 millones de expedientes habían sido recibidos presencialmente por los consulados hasta marzo de 2026. Marruecos concede periódicamente miles de indultos, reducciones y conmutaciones. Algunos beneficiarios habían sido condenados por extremismo. No existe trazabilidad pública entre indultados, entradas en España y solicitudes de regularización. No se ha celebrado un referéndum sobre el efecto acumulado. El Gobierno fue investido mediante una mayoría dependiente de fuerzas nacionalistas y separatistas.
 
 
 ### Relaciones estructurales
@@ -939,7 +939,7 @@ WEB4™ convierte todo ello en memoria viva, colectiva y corregible.
 ## 20. Preguntas que el Gobierno debe responder
 
 
-- ¿Por qué no se sometió a referéndum consultivo una transformación de esta magnitud? ¿Qué proyección demográfica se realizó antes de aprobar la regularización? ¿Cuántos solicitantes obtendrán previsiblemente la nacionalidad dentro de dos, cinco y diez años? ¿Qué proyección electoral existe? ¿Cuál es la distribución por nacionalidad de las solicitudes? ¿Cuántos expedientes contienen antecedentes penales, anotaciones policiales o dudas sobre la identidad? ¿Cuántas solicitudes han sido aprobadas pese a la existencia de información policial? ¿Qué fiabilidad poseen los certificados expedidos por Marruecos? ¿Dispone España de las listas nominales de indultados marroquíes? ¿Se han cruzado esas listas con entradas, detenciones, solicitudes de asilo o expedientes de regularización? ¿Qué acuerdos completos existen entre España y Marruecos sobre migración, seguridad, financiación y fronteras? ¿Qué contraprestaciones acompañaron el cambio sobre el Sáhara? ¿Cuántas nacionalidades se han concedido mediante la Ley de Nietos? ¿Cuántos nuevos nacionales se han incorporado ya al censo exterior? ¿En qué circunscripciones están inscritos? ¿Cuántos nunca han residido en España? ¿Qué asociaciones reciben financiación directa o indirectamente vinculada a gobiernos extranjeros? ¿Qué medidas impiden que autoridades religiosas o comunitarias condicionen el voto? ¿Qué concesiones territoriales se han pactado para mantener la mayoría parlamentaria? ¿Por qué no existe una auditoría integrada de migración, nacionalidad, censo, seguridad e influencia extranjera?
+¿Por qué no se sometió a referéndum consultivo una transformación de esta magnitud? ¿Qué proyección demográfica se realizó antes de aprobar la regularización? ¿Cuántos solicitantes obtendrán previsiblemente la nacionalidad dentro de dos, cinco y diez años? ¿Qué proyección electoral existe? ¿Cuál es la distribución por nacionalidad de las solicitudes? ¿Cuántos expedientes contienen antecedentes penales, anotaciones policiales o dudas sobre la identidad? ¿Cuántas solicitudes han sido aprobadas pese a la existencia de información policial? ¿Qué fiabilidad poseen los certificados expedidos por Marruecos? ¿Dispone España de las listas nominales de indultados marroquíes? ¿Se han cruzado esas listas con entradas, detenciones, solicitudes de asilo o expedientes de regularización? ¿Qué acuerdos completos existen entre España y Marruecos sobre migración, seguridad, financiación y fronteras? ¿Qué contraprestaciones acompañaron el cambio sobre el Sáhara? ¿Cuántas nacionalidades se han concedido mediante la Ley de Nietos? ¿Cuántos nuevos nacionales se han incorporado ya al censo exterior? ¿En qué circunscripciones están inscritos? ¿Cuántos nunca han residido en España? ¿Qué asociaciones reciben financiación directa o indirectamente vinculada a gobiernos extranjeros? ¿Qué medidas impiden que autoridades religiosas o comunitarias condicionen el voto? ¿Qué concesiones territoriales se han pactado para mantener la mayoría parlamentaria? ¿Por qué no existe una auditoría integrada de migración, nacionalidad, censo, seguridad e influencia extranjera?
 
 
 ## Conclusión
@@ -1047,7 +1047,7 @@ Pedro Martínez Alhambra - Innova_N · Neodialéctica · Síntesis Abierta™
 ## Evidencias y fuentes
 
 
-- [[Fuentes primarias, matriz de evidencias y vacíos documentales](./evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md)](./evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md)
+[[Fuentes primarias, matriz de evidencias y vacíos documentales](./evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md)](./evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md)
 
 
 ---
@@ -1060,13 +1060,13 @@ Este análisis continúa en una segunda parte dedicada a la capa operativa del s
 
 La Parte II examina:
 
-- las redes de tráfico entre Marruecos y España;
-- el caso de Dajla;
-- la vigilancia territorial;
-- la diferencia entre incapacidad, corrupción, tolerancia e instrumentalización;
-- el precedente de Ceuta;
-- la financiación europea;
-- y la interacción entre regularización y mercado criminal.
+las redes de tráfico entre Marruecos y España;
+el caso de Dajla;
+la vigilancia territorial;
+la diferencia entre incapacidad, corrupción, tolerancia e instrumentalización;
+el precedente de Ceuta;
+la financiación europea;
+y la interacción entre regularización y mercado criminal.
 
 # English version
 
@@ -1080,31 +1080,31 @@ Not through a single reform openly submitted to the population, but through an a
 
 When the complete system is reconstructed, something much deeper appears:
 
-- an extraordinary regularisation process involving more than one million applications;
-- new routes to social integration permits and residence;
-- large-scale acquisition of nationality through the so-called Descendants Law;
-- accelerated growth in the number of Spanish citizens living abroad;
-- strategic dependence on Morocco for border control;
-- Moroccan pardons whose possible connection with Spain cannot be publicly verified;
-- a Government whose continuity depends on nationalist and separatist forces;
-- and a citizenry without direct instruments to halt or ratify the process while it is unfolding.
+an extraordinary regularisation process involving more than one million applications;
+new routes to social integration permits and residence;
+large-scale acquisition of nationality through the so-called Descendants Law;
+accelerated growth in the number of Spanish citizens living abroad;
+strategic dependence on Morocco for border control;
+Moroccan pardons whose possible connection with Spain cannot be publicly verified;
+a Government whose continuity depends on nationalist and separatist forces;
+and a citizenry without direct instruments to halt or ratify the process while it is unfolding.
 
 This article does not attribute collective responsibility to Moroccan citizens or to any foreign population.
 
 The object of the analysis is power:
 
-- the Spanish Government;
-- the Moroccan State;
-- the rules that have been approved;
-- political agreements;
-- structures of dependence;
-- electoral incentives;
-- informational fragmentation;
-- and the progressive loss of citizens’ capacity to understand and control the transformation of the country.
+the Spanish Government;
+the Moroccan State;
+the rules that have been approved;
+political agreements;
+structures of dependence;
+electoral incentives;
+informational fragmentation;
+and the progressive loss of citizens’ capacity to understand and control the transformation of the country.
 
 The central question is simple:
 
-> **Who authorised a change of this magnitude in Spain’s legal, demographic, territorial and future composition without submitting the process as a whole to direct ratification by the population?**
+**Who authorised a change of this magnitude in Spain’s legal, demographic, territorial and future composition without submitting the process as a whole to direct ratification by the population?**
 
 
 ## 1. Spain has not voted on this transformation as a whole
@@ -1112,20 +1112,20 @@ The central question is simple:
 
 No referendum has been held on:
 
-- the extraordinary regularisation process;
-- the future migration model;
-- the consequences for housing, healthcare, education and public services;
-- the large-scale extension of nationality from abroad;
-- the growth of the electorate;
-- border dependence on Morocco;
-- the change of position on Western Sahara;
-- or the territorial concessions negotiated to sustain the Government.
+the extraordinary regularisation process;
+the future migration model;
+the consequences for housing, healthcare, education and public services;
+the large-scale extension of nationality from abroad;
+the growth of the electorate;
+border dependence on Morocco;
+the change of position on Western Sahara;
+or the territorial concessions negotiated to sustain the Government.
 
 Article 92 of the Constitution establishes that political decisions of special importance may be submitted to a consultative referendum of all citizens. Calling such a referendum requires a proposal from the Prime Minister and prior authorisation from Congress. There is therefore no automatic constitutional obligation to consult the public on these policies, but the mechanism exists. The Government has chosen not to activate it.
 
 The distinction matters:
 
-> **The absence of a referendum does not automatically make these measures illegal, but it does allow their accumulated democratic legitimacy to be questioned.**
+**The absence of a referendum does not automatically make these measures illegal, but it does allow their accumulated democratic legitimacy to be questioned.**
 
 Legality and consent are not the same thing.
 
@@ -1174,15 +1174,15 @@ There has been administrative participation, consultation with organisations and
 
 But a collection of signatures in favour of regularising people already resident in Spain is not equivalent to a national consultation on:
 
-- the final text;
-- the final number of applications;
-- the exact requirements;
-- the territorial impact;
-- subsequent naturalisations;
-- family reunification;
-- security;
-- integration;
-- or the future alteration of the electorate.
+the final text;
+the final number of applications;
+the exact requirements;
+the territorial impact;
+subsequent naturalisations;
+family reunification;
+security;
+integration;
+or the future alteration of the electorate.
 
 
 ## 3. More than 1.17 million applications do not constitute a minor administrative measure
@@ -1202,31 +1202,31 @@ Access to the procedure required presence in Spain before 1 January 2026, proof 
 
 Regularisation may produce legitimate effects:
 
-- bringing workers out of the underground economy;
-- reducing exploitation;
-- facilitating contracts;
-- increasing social-security contributions;
-- improving administrative identification;
-- and recognising rights and obligations.
+bringing workers out of the underground economy;
+reducing exploitation;
+facilitating contracts;
+increasing social-security contributions;
+improving administrative identification;
+and recognising rights and obligations.
 
 But the official account cannot end there.
 
 A decision of this scale also requires publication of:
 
-- nationality of origin;
-- age and sex;
-- territorial distribution;
-- approved and rejected files;
-- detected criminal records;
-- identity doubts;
-- rejected foreign certificates;
-- foreseeable family reunifications;
-- impact on housing;
-- required school places;
-- healthcare costs;
-- integration policies;
-- future naturalisation rates;
-- and accumulated effects on the electoral register.
+nationality of origin;
+age and sex;
+territorial distribution;
+approved and rejected files;
+detected criminal records;
+identity doubts;
+rejected foreign certificates;
+foreseeable family reunifications;
+impact on housing;
+required school places;
+healthcare costs;
+integration policies;
+future naturalisation rates;
+and accumulated effects on the electoral register.
 
 The public knows the number of applications.
 
@@ -1241,7 +1241,7 @@ Only Spanish citizens of legal age who are registered on the electoral roll may 
 
 Therefore:
 
-> **Regularised today does not mean voting tomorrow.**
+**Regularised today does not mean voting tomorrow.**
 
 But neither does it mean that there is no future political effect.
 
@@ -1257,16 +1257,16 @@ The serious thesis is not that more than one million applicants will vote for th
 
 It is to ask:
 
-> **What demographic and electoral projections has the Government made for the next two, five and ten years?**
+**What demographic and electoral projections has the Government made for the next two, five and ten years?**
 
 A Government that changes the legal status of more than one million people must have studied:
 
-- how many will obtain permanent residence;
-- how many will apply for nationality;
-- how many will reunite family members;
-- where they will settle;
-- what political communities will emerge;
-- and what future effect the process will have on the electorate.
+how many will obtain permanent residence;
+how many will apply for nationality;
+how many will reunite family members;
+where they will settle;
+what political communities will emerge;
+and what future effect the process will have on the electorate.
 
 There is not enough public evidence to claim that creating new voters is the primary purpose of regularisation.
 
@@ -1274,11 +1274,11 @@ But it is also not credible that its electoral consequences have not been calcul
 
 A policy may simultaneously pursue:
 
-- labour-market integration;
-- an increase in contributors;
-- an administrative reduction in irregularity;
-- the building of relationships with new communities;
-- and the acquisition of future political capital.
+labour-market integration;
+an increase in contributors;
+an administrative reduction in irregularity;
+the building of relationships with new communities;
+and the acquisition of future political capital.
 
 Humanitarian aims and electoral incentives are not necessarily mutually exclusive.
 
@@ -1307,13 +1307,13 @@ There are also births, emigration, recoveries of nationality and other procedure
 
 But the figures require a specific audit of:
 
-- new adult nationals;
-- additions to the overseas electoral register;
-- countries of residence;
-- assigned provinces;
-- electoral participation;
-- files still pending;
-- and citizens who may vote in Spain without ever having lived in the country.
+new adult nationals;
+additions to the overseas electoral register;
+countries of residence;
+assigned provinces;
+electoral participation;
+files still pending;
+and citizens who may vote in Spain without ever having lived in the country.
 
 Historical reparation may be legitimate.
 
@@ -1336,7 +1336,7 @@ The European Parliament explicitly rejected Morocco’s use of border control, m
 
 This point has already moved beyond suspicion:
 
-> **Morocco has used the border and human flows as instruments of diplomatic coercion.**
+**Morocco has used the border and human flows as instruments of diplomatic coercion.**
 
 In March 2022, Spain changed its historic position on Western Sahara and began to regard Morocco’s autonomy plan as the most serious basis for resolving the conflict.
 
@@ -1348,7 +1348,7 @@ diplomatic crisis → migration pressure → Spanish change on Western Sahara �
 
 The question still lacks a complete answer:
 
-> **What exactly did Morocco receive, and what did Spain commit to, in order for Rabat to resume containing the flows?**
+**What exactly did Morocco receive, and what did Spain commit to, in order for Rabat to resume containing the flows?**
 
 
 ## 7. An architecture of conditional protection
@@ -1362,16 +1362,16 @@ The word “mafia” should not be presented as a criminal accusation without a 
 
 But it can describe a functional form of power:
 
-- an actor controls a threat;
-- allows the threat to materialise;
-- offers protection against it;
-- demands compensation;
-- punishes deviations;
-- and keeps the conditions of the relationship opaque.
+an actor controls a threat;
+allows the threat to materialise;
+offers protection against it;
+demands compensation;
+punishes deviations;
+and keeps the conditions of the relationship opaque.
 
 The structure smells like a protection racket because the administrator of the threat and the provider of the solution may be the same actor.
 
-> **“I can help you contain the problem, but I can also allow it to reappear.”**
+**“I can help you contain the problem, but I can also allow it to reappear.”**
 
 That is not balanced cooperation.
 
@@ -1422,11 +1422,11 @@ The statement included detainees and people already at liberty, again distinguis
 
 Therefore, this equivalence is false:
 
-> **1,500 pardoned people = 1,500 prisoners immediately released.**
+**1,500 pardoned people = 1,500 prisoners immediately released.**
 
 But correcting the figure does not remove the central question:
 
-> **How many people were actually released, what records did they have, and how many subsequently entered Spain?**
+**How many people were actually released, what records did they have, and how many subsequently entered Spain?**
 
 
 ## 9. Temporal coincidences that do not prove causality
@@ -1446,12 +1446,12 @@ It does not prove that pardoned people were among those who entered Spain.
 
 The public data are aggregated and do not include:
 
-- names;
-- fingerprints;
-- criminal records;
-- individual nationality;
-- previous prison status;
-- or later regularisation applications.
+names;
+fingerprints;
+criminal records;
+individual nationality;
+previous prison status;
+or later regularisation applications.
 
 I have not found public evidence that would allow this chain to be completed:
 
@@ -1461,7 +1461,7 @@ But the absence of evidence does not solve the problem.
 
 It reveals another problem:
 
-> **Spain does not publish the traceability needed to prove or rule out that connection.**
+**Spain does not publish the traceability needed to prove or rule out that connection.**
 
 We do not know that there is no relationship.
 
@@ -1478,12 +1478,12 @@ But it also has a political dimension.
 
 An administratively vulnerable population can, after regularisation, become:
 
-- a labour community;
-- an associative community;
-- a recipient of public policies;
-- a base of representation;
-- an electoral interlocutor;
-- and, over time, naturalised citizens.
+a labour community;
+an associative community;
+a recipient of public policies;
+a base of representation;
+an electoral interlocutor;
+and, over time, naturalised citizens.
 
 This does not mean that every regularised person owes loyalty to the Government that approved the measure.
 
@@ -1491,18 +1491,18 @@ Nor does it allow their vote to be predicted automatically.
 
 But political parties understand the value of establishing a relationship between:
 
-- recognition;
-- rights;
-- identity;
-- protection;
-- representation;
-- and electoral loyalty.
+recognition;
+rights;
+identity;
+protection;
+representation;
+and electoral loyalty.
 
 The hypothesis to investigate is not the caricature that the Government instantly manufactured one million votes.
 
 It is deeper:
 
-> **The Government may have converted an administrative problem into a long-term demographic, labour and electoral opportunity.**
+**The Government may have converted an administrative problem into a long-term demographic, labour and electoral opportunity.**
 
 Social harm, lack of integration or certain security risks would not need to be the objective.
 
@@ -1523,12 +1523,12 @@ The Government of Spain has a duty to preserve the common framework.
 
 But its continuity depends on organisations that seek, to differing degrees:
 
-- to expand territorial sovereignty;
-- to reduce State powers;
-- to obtain special fiscal systems;
-- to secure exceptions;
-- to consolidate separate political identities;
-- or eventually to achieve independence.
+to expand territorial sovereignty;
+to reduce State powers;
+to obtain special fiscal systems;
+to secure exceptions;
+to consolidate separate political identities;
+or eventually to achieve independence.
 
 The system becomes trapped:
 
@@ -1538,14 +1538,14 @@ There need not be a unified order to destroy Spain.
 
 Erosion may occur through the accumulation of:
 
-- amnesties;
-- exceptions;
-- transfers;
-- privileges;
-- devolved powers;
-- territorial inequalities;
-- institutional weakening;
-- and successive reinterpretations of sovereignty.
+amnesties;
+exceptions;
+transfers;
+privileges;
+devolved powers;
+territorial inequalities;
+institutional weakening;
+and successive reinterpretations of sovereignty.
 
 Destruction from within does not always appear as a visible coup.
 
@@ -1568,12 +1568,12 @@ Morocco conditions part of Spain’s border and diplomatic stability.
 
 In between, the Government transforms:
 
-- residence;
-- nationality;
-- the electoral register;
-- territorial relations;
-- foreign policy;
-- and social composition.
+residence;
+nationality;
+the electoral register;
+territorial relations;
+foreign policy;
+and social composition.
 
 Citizens can vote every four years, appeal to the courts, demonstrate or influence their representatives.
 
@@ -1583,12 +1583,12 @@ But the direct capacity to halt the process between elections is minimal.
 
 The population cannot, on its own initiative:
 
-- call a binding national referendum;
-- recall the Prime Minister;
-- suspend a royal decree;
-- compel publication of electoral projections;
-- block diplomatic agreements;
-- or prevent parliamentary concessions that did not appear in electoral programmes.
+call a binding national referendum;
+recall the Prime Minister;
+suspend a royal decree;
+compel publication of electoral projections;
+block diplomatic agreements;
+or prevent parliamentary concessions that did not appear in electoral programmes.
 
 Sovereignty formally remains with the people.
 
@@ -1596,7 +1596,7 @@ Its material exercise is delegated for years.
 
 That is why the process is perceived as unstoppable:
 
-> **Citizens retain theoretical sovereignty but lack immediate operational mechanisms for exercising it while the country changes.**
+**Citizens retain theoretical sovereignty but lack immediate operational mechanisms for exercising it while the country changes.**
 
 
 ## 13. The future risk of organised dogmas
@@ -1606,14 +1606,14 @@ Immigration does not move only labour, population or consumption.
 
 It also transports:
 
-- memories;
-- conflicts;
-- religions;
-- family codes;
-- conceptions of authority;
-- community models;
-- relationships between religion and State;
-- and different ways of interpreting individual freedom.
+memories;
+conflicts;
+religions;
+family codes;
+conceptions of authority;
+community models;
+relationships between religion and State;
+and different ways of interpreting individual freedom.
 
 The political participation of Muslim, Christian, Jewish, atheist citizens, or citizens belonging to any other tradition, is fully legitimate.
 
@@ -1627,22 +1627,22 @@ This risk does not belong exclusively to Islam.
 
 It also exists in:
 
-- nationalisms;
-- closed ideologies;
-- identity movements;
-- political sects;
-- economic groups;
-- patronage networks;
-- and religious organisations of any kind.
+nationalisms;
+closed ideologies;
+identity movements;
+political sects;
+economic groups;
+patronage networks;
+and religious organisations of any kind.
 
 The problem begins when the citizen stops voting according to individual conscience and instead does so under the authority of:
 
-- a religious leader;
-- a territorial party;
-- a community organisation;
-- a foreign government;
-- a patronage network;
-- or an intermediary who administers identity and dependence.
+a religious leader;
+a territorial party;
+a community organisation;
+a foreign government;
+a patronage network;
+or an intermediary who administers identity and dependence.
 
 Spain already experiences political fragmentation based on territories.
 
@@ -1650,7 +1650,7 @@ The future emergence of electoral blocs linked to religious, community or foreig
 
 The democratic principle must be unequivocal:
 
-> **No religious, nationalist, political or identity-based dogma may be placed above individual conscience, equality before the law and the common civic framework.**
+**No religious, nationalist, political or identity-based dogma may be placed above individual conscience, equality before the law and the common civic framework.**
 
 
 ## 14. Informational fragmentation protects the system
@@ -1658,15 +1658,15 @@ The democratic principle must be unequivocal:
 
 The data exist, but they appear separately.
 
-- Pardons are published in Moroccan statements.
-- Irregular entries appear in fortnightly Interior Ministry reports.
-- Regularisation is contained in the Official State Gazette.
-- Application numbers are announced by La Moncloa.
-- Nationalities are processed through consulates.
-- The electoral register and population records are held by the National Statistics Institute.
-- Agreements with Morocco belong to the diplomatic sphere.
-- Territorial concessions appear in parliamentary agreements.
-- Social effects are distributed across ministries and autonomous communities.
+Pardons are published in Moroccan statements.
+Irregular entries appear in fortnightly Interior Ministry reports.
+Regularisation is contained in the Official State Gazette.
+Application numbers are announced by La Moncloa.
+Nationalities are processed through consulates.
+The electoral register and population records are held by the National Statistics Institute.
+Agreements with Morocco belong to the diplomatic sphere.
+Territorial concessions appear in parliamentary agreements.
+Social effects are distributed across ministries and autonomous communities.
 
 Citizens receive fragments.
 
@@ -1676,20 +1676,20 @@ This mechanism does not require a central censorship order.
 
 It operates through the filters described by Chomsky:
 
-- agenda selection;
-- dependence on official sources;
-- privileged access;
-- funding;
-- institutional advertising;
-- self-censorship;
-- delimitation of what is acceptable;
-- and moral punishment of those who leave the authorised frame.
+agenda selection;
+dependence on official sources;
+privileged access;
+funding;
+institutional advertising;
+self-censorship;
+delimitation of what is acceptable;
+and moral punishment of those who leave the authorised frame.
 
 Contemporary manipulation does not always consist of publishing a lie.
 
 It may also consist of:
 
-> **Publishing enough data to claim that transparency exists, but never relating those data in a way that allows citizens to understand the complete system.**
+**Publishing enough data to claim that transparency exists, but never relating those data in a way that allows citizens to understand the complete system.**
 
 Each isolated fact may be correct.
 
@@ -1700,62 +1700,60 @@ The resulting image may still be false through fragmentation.
 
 There is currently no public proof of a comprehensive criminal collusion between the two governments to:
 
-- send pardoned prisoners;
-- manufacture voters;
-- destabilise Spain;
-- manipulate the electoral register;
-- or deliberately introduce dogmatic structures into politics.
+send pardoned prisoners;
+manufacture voters;
+destabilise Spain;
+manipulate the electoral register;
+or deliberately introduce dogmatic structures into politics.
 
 To present this as an established fact would go beyond the available evidence.
 
-But there is an objective convergence of interests.
+But there is an objective convergence of interests. Morocco obtains:
 
-Morocco obtains:
-
-- influence over Spain;
-- funding;
-- investment;
-- increasing support over Western Sahara;
-- border-pressure capacity;
-- social depth through its diaspora;
-- and greater negotiating power.
+influence over Spain;
+funding;
+investment;
+increasing support over Western Sahara;
+border-pressure capacity;
+social depth through its diaspora;
+and greater negotiating power.
 
 The Spanish Government obtains:
 
-- temporary migration containment;
-- an appearance of border control;
-- regularised workers;
-- new contributors;
-- a statistical reduction in irregularity;
-- humanitarian legitimacy;
-- relationships with new communities;
-- and a possible future expansion of its electoral space.
+temporary migration containment;
+an appearance of border control;
+regularised workers;
+new contributors;
+a statistical reduction in irregularity;
+humanitarian legitimacy;
+relationships with new communities;
+and a possible future expansion of its electoral space.
 
 Nationalist parties obtain:
 
-- concessions;
-- resources;
-- powers;
-- exceptions;
-- territorial recognition;
-- and weakening of the common framework.
+concessions;
+resources;
+powers;
+exceptions;
+territorial recognition;
+and weakening of the common framework.
 
 Media close to power obtain:
 
-- access;
-- institutional advertising;
-- political protection;
-- and preservation of their narrative position.
+access;
+institutional advertising;
+political protection;
+and preservation of their narrative position.
 
 Citizens assume:
 
-- pressure on housing and services;
-- integration costs;
-- uncertainty about security;
-- cultural transformation;
-- territorial inequality;
-- external dependence;
-- and loss of control over the whole.
+pressure on housing and services;
+integration costs;
+uncertainty about security;
+cultural transformation;
+territorial inequality;
+external dependence;
+and loss of control over the whole.
 
 A perfectly centralised conspiracy is not necessary when a stable convergence of benefits produces the same result.
 
@@ -1768,29 +1766,29 @@ It cannot yet be presented as an established criminal-law conclusion.
 
 To prove organised institutional criminality, it would be necessary to establish conduct such as:
 
-- knowing misuse of public office;
-- concealment;
-- falsification of statistics;
-- unlawful manipulation of the electoral register;
-- deliberate entry of dangerous persons;
-- collaboration with foreign destabilisation operations;
-- unlawful financing;
-- secret exchanges of favours;
-- or criminal partisan use of institutions.
+knowing misuse of public office;
+concealment;
+falsification of statistics;
+unlawful manipulation of the electoral register;
+deliberate entry of dangerous persons;
+collaboration with foreign destabilisation operations;
+unlawful financing;
+secret exchanges of favours;
+or criminal partisan use of institutions.
 
 The currently available public information does not permit the legal claim that the Spanish Government is a criminal organisation.
 
 It does permit a political accusation of enormous gravity:
 
-> **The Government is transforming essential layers of the country without direct citizen ratification, maintains an opaque and dependent relationship with Morocco, survives through concessions to centrifugal forces and does not provide the traceability required to rule out electoral calculations, conflicts of interest or forms of institutional disloyalty.**
+**The Government is transforming essential layers of the country without direct citizen ratification, maintains an opaque and dependent relationship with Morocco, survives through concessions to centrifugal forces and does not provide the traceability required to rule out electoral calculations, conflicts of interest or forms of institutional disloyalty.**
 
 When power:
 
-- knows the risks;
-- hides the complete map;
-- prevents effective auditing;
-- obtains political benefits;
-- and transfers the costs to the population,
+knows the risks;
+hides the complete map;
+prevents effective auditing;
+obtains political benefits;
+and transfers the costs to the population,
 
 the boundary between bad policy, abuse of power and possible institutional criminality begins to narrow.
 
@@ -1813,14 +1811,14 @@ It does not close the investigation when it finds a plausible explanation.
 
 It simultaneously preserves:
 
-- confirmed facts;
-- detected relationships;
-- contradictions;
-- interests;
-- hypotheses;
-- refutations;
-- pending evidence;
-- and the possibility of correcting the whole.
+confirmed facts;
+detected relationships;
+contradictions;
+interests;
+hypotheses;
+refutations;
+pending evidence;
+and the possibility of correcting the whole.
 
 Its operation is dynamic:
 
@@ -1830,23 +1828,23 @@ This makes it possible to escape two dogmatic closures.
 
 The first says:
 
-> **“Everything is legal, therefore there is nothing to investigate.”**
+**“Everything is legal, therefore there is nothing to investigate.”**
 
 The second says:
 
-> **“Everything coincides, therefore the conspiracy has been proved.”**
+**“Everything coincides, therefore the conspiracy has been proved.”**
 
 Open Synthesis™ accepts neither.
 
 It keeps visible the space between:
 
-- what is proved;
-- what is officially declared;
-- what is correlated;
-- what is plausible;
-- what is contradicted;
-- what has not been ruled out;
-- and what power still does not allow to be verified.
+what is proved;
+what is officially declared;
+what is correlated;
+what is plausible;
+what is contradicted;
+what has not been ruled out;
+and what power still does not allow to be verified.
 
 
 ## 18. Current state of the Open Synthesis™
@@ -1855,55 +1853,55 @@ It keeps visible the space between:
 ### Verified facts
 
 
-- Morocco has used border control and migration as political pressure.
-- Spain changed its position on Western Sahara.
-- An extraordinary regularisation was approved by royal decree.
-- 1,174,978 applications were received.
-- Residence does not grant an immediate vote.
-- Legal residence may subsequently lead to nationality.
-- The Descendants Law allows direct acquisition of Spanish nationality.
-- More than 1.2 million files had been received in person by consulates by March 2026.
-- Morocco regularly grants thousands of pardons, reductions and commutations.
-- Some beneficiaries had been convicted of extremism.
-- There is no public traceability linking pardoned people, entries into Spain and regularisation applications.
-- No referendum has been held on the accumulated effect.
-- The Government was invested through a majority dependent on nationalist and separatist forces.
+Morocco has used border control and migration as political pressure.
+Spain changed its position on Western Sahara.
+An extraordinary regularisation was approved by royal decree.
+1,174,978 applications were received.
+Residence does not grant an immediate vote.
+Legal residence may subsequently lead to nationality.
+The Descendants Law allows direct acquisition of Spanish nationality.
+More than 1.2 million files had been received in person by consulates by March 2026.
+Morocco regularly grants thousands of pardons, reductions and commutations.
+Some beneficiaries had been convicted of extremism.
+There is no public traceability linking pardoned people, entries into Spain and regularisation applications.
+No referendum has been held on the accumulated effect.
+The Government was invested through a majority dependent on nationalist and separatist forces.
 
 
 ### Structural relationships
 
 
-- Morocco controls part of the pressure that Spain needs it to contain.
-- The Government is parliamentarily dependent on forces that seek to reduce or overcome the common State framework.
-- Regularisation begins legal paths towards nationality.
-- The Descendants Law directly expands citizenship.
-- Information is fragmented across institutions.
-- Citizens lack direct instruments to stop the process between elections.
+Morocco controls part of the pressure that Spain needs it to contain.
+The Government is parliamentarily dependent on forces that seek to reduce or overcome the common State framework.
+Regularisation begins legal paths towards nationality.
+The Descendants Law directly expands citizenship.
+Information is fragmented across institutions.
+Citizens lack direct instruments to stop the process between elections.
 
 
 ### Reasonable inferences
 
 
-- Morocco has material coercive capacity over Spain.
-- The Government must know the future demographic and electoral effects.
-- Regularisation may generate long-term political capital.
-- Nationalists possess negotiating power greater than their national electoral weight.
-- Informational fragmentation reduces public scrutiny.
-- Communities organised through closed dogmas can become political blocs.
-- A stable convergence can produce effects similar to formal coordination.
+Morocco has material coercive capacity over Spain.
+The Government must know the future demographic and electoral effects.
+Regularisation may generate long-term political capital.
+Nationalists possess negotiating power greater than their national electoral weight.
+Informational fragmentation reduces public scrutiny.
+Communities organised through closed dogmas can become political blocs.
+A stable convergence can produce effects similar to formal coordination.
 
 
 ### Open hypotheses
 
 
-- deliberate transfer of certain pardoned people towards Spain;
-- conscious electoral use of regularisation;
-- construction of dependent voting communities;
-- coordinated media concealment;
-- a comprehensive pact between Rabat and the Spanish Government;
-- political penetration financed from abroad;
-- conscious manipulation of the electoral register;
-- and possible organised institutional criminality.
+deliberate transfer of certain pardoned people towards Spain;
+conscious electoral use of regularisation;
+construction of dependent voting communities;
+coordinated media concealment;
+a comprehensive pact between Rabat and the Spanish Government;
+political penetration financed from abroad;
+conscious manipulation of the electoral register;
+and possible organised institutional criminality.
 
 Open Synthesis™ does not claim that all the hypotheses are true.
 
@@ -1924,21 +1922,21 @@ It must operate as shared public intelligence.
 
 For this case it should connect:
 
-- the date of each pardon;
-- the actual type of clemency measure;
-- effective releases;
-- criminal records;
-- subsequent entries into Spain;
-- legislation;
-- residence applications;
-- naturalisations;
-- evolution of the electoral register;
-- diplomatic agreements;
-- funding;
-- parliamentary decisions;
-- benefiting actors;
-- contradictions;
-- and documentary gaps.
+the date of each pardon;
+the actual type of clemency measure;
+effective releases;
+criminal records;
+subsequent entries into Spain;
+legislation;
+residence applications;
+naturalisations;
+evolution of the electoral register;
+diplomatic agreements;
+funding;
+parliamentary decisions;
+benefiting actors;
+contradictions;
+and documentary gaps.
 
 Each claim should retain a dynamic status:
 
@@ -1966,12 +1964,12 @@ REVISED SYNTHESIS
 
 Citizens could observe:
 
-- where each item of data comes from;
-- which evidence supports it;
-- which elements contradict it;
-- which actors benefit;
-- which documents are missing;
-- and how the synthesis changes when new evidence appears.
+where each item of data comes from;
+which evidence supports it;
+which elements contradict it;
+which actors benefit;
+which documents are missing;
+and how the synthesis changes when new evidence appears.
 
 LinkedIn opens the debate.
 
@@ -1984,26 +1982,26 @@ WEB4™ turns all of this into living, collective and correctable memory.
 ## 20. Questions the Government must answer
 
 
-- Why was a transformation of this magnitude not submitted to a consultative referendum?
-- What demographic projection was made before the regularisation was approved?
-- How many applicants are expected to obtain nationality within two, five and ten years?
-- What electoral projection exists?
-- What is the distribution of applications by nationality?
-- How many files contain criminal records, police annotations or doubts about identity?
-- How many applications have been approved despite the existence of police information?
-- How reliable are certificates issued by Morocco?
-- Does Spain possess nominal lists of people pardoned in Morocco?
-- Have those lists been cross-checked against entries, arrests, asylum applications or regularisation files?
-- What complete agreements exist between Spain and Morocco regarding migration, security, funding and borders?
-- What considerations accompanied the change on Western Sahara?
-- How many nationalities have been granted through the Descendants Law?
-- How many new nationals have already been added to the overseas electoral register?
-- In which constituencies are they registered?
-- How many have never lived in Spain?
-- Which associations receive funding directly or indirectly linked to foreign governments?
-- What measures prevent religious or community authorities from conditioning votes?
-- What territorial concessions have been agreed in order to maintain the parliamentary majority?
-- Why is there no integrated audit of migration, nationality, the electoral register, security and foreign influence?
+Why was a transformation of this magnitude not submitted to a consultative referendum?
+What demographic projection was made before the regularisation was approved?
+How many applicants are expected to obtain nationality within two, five and ten years?
+What electoral projection exists?
+What is the distribution of applications by nationality?
+How many files contain criminal records, police annotations or doubts about identity?
+How many applications have been approved despite the existence of police information?
+How reliable are certificates issued by Morocco?
+Does Spain possess nominal lists of people pardoned in Morocco?
+Have those lists been cross-checked against entries, arrests, asylum applications or regularisation files?
+What complete agreements exist between Spain and Morocco regarding migration, security, funding and borders?
+What considerations accompanied the change on Western Sahara?
+How many nationalities have been granted through the Descendants Law?
+How many new nationals have already been added to the overseas electoral register?
+In which constituencies are they registered?
+How many have never lived in Spain?
+Which associations receive funding directly or indirectly linked to foreign governments?
+What measures prevent religious or community authorities from conditioning votes?
+What territorial concessions have been agreed in order to maintain the parliamentary majority?
+Why is there no integrated audit of migration, nationality, the electoral register, security and foreign influence?
 
 ## Conclusion
 
@@ -2013,12 +2011,12 @@ It voted for parties and representatives.
 
 A minority Government then used:
 
-- regulations;
-- broadly framed laws;
-- parliamentary agreements;
-- territorial pacts;
-- diplomatic decisions;
-- and administrative procedures
+regulations;
+broadly framed laws;
+parliamentary agreements;
+territorial pacts;
+diplomatic decisions;
+and administrative procedures
 
 to alter deep layers of the country without requesting direct ratification by citizens.
 
@@ -2030,17 +2028,17 @@ That does not remove the democratic problem.
 
 When the Government depends internally on forces seeking to reduce the common State and Spain depends externally on Morocco to contain pressure that Morocco itself can modulate, the system becomes trapped between two vectors:
 
-- fragmentation from within and coercion from outside.
+fragmentation from within and coercion from outside.
 
 In between, the following change:
 
-- residence;
-- nationality;
-- the electoral register;
-- the territorial structure;
-- foreign policy;
-- integration;
-- and the future meaning of belonging to Spain.
+residence;
+nationality;
+the electoral register;
+the territorial structure;
+foreign policy;
+integration;
+and the future meaning of belonging to Spain.
 
 Without a referendum.
 
@@ -2052,7 +2050,7 @@ It cannot yet be claimed that there is a single collusive scheme.
 
 There may be something more difficult to contain:
 
-- A convergence of interests in which each actor weakens one part of the common framework and benefits from the result.
+A convergence of interests in which each actor weakens one part of the common framework and benefits from the result.
 
 The Government retains power.
 
@@ -2076,13 +2074,13 @@ Not to replace the official version with another closed truth.
 
 To keep simultaneously visible:
 
-- the facts;
-- the contradictions;
-- the correlations;
-- the interests;
-- the hypotheses;
-- the pending evidence;
-- and future corrections.
+the facts;
+the contradictions;
+the correlations;
+the interests;
+the hypotheses;
+the pending evidence;
+and future corrections.
 
 A democracy cannot depend on each citizen separately investigating hundreds of scattered documents.
 
@@ -2109,7 +2107,7 @@ A democracy that does not allow its citizens to understand, ratify or halt its o
 
 ## Evidence and sources
 
-- [[Primary sources, evidence matrix and documentary gaps](./evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md)](./evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md)
+[[Primary sources, evidence matrix and documentary gaps](./evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md)](./evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md)
 
 ---
 
@@ -2121,13 +2119,13 @@ This analysis continues in a second part devoted to the operational layer of the
 
 Part II examines:
 
-- smuggling networks between Morocco and Spain;
-- the Dakhla case;
-- territorial surveillance;
-- the distinction between incapacity, corruption, tolerance and instrumentalisation;
-- the Ceuta precedent;
-- European funding;
-- and the interaction between regularisation and the criminal market.
+smuggling networks between Morocco and Spain;
+the Dakhla case;
+territorial surveillance;
+the distinction between incapacity, corruption, tolerance and instrumentalisation;
+the Ceuta precedent;
+European funding;
+and the interaction between regularisation and the criminal market.
 
 ## Documentary status / Estado documental
 
