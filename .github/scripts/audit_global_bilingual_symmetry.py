@@ -54,7 +54,7 @@ def strip_generated_tail(s):
         if m: positions.append(m.start())
     # Only known editorial bilingual tail headings are shared boundaries. A slash alone
     # is not sufficient: content headings such as "Stanford / ACE" are part of the document.
-    m=re.search(r'^#{1,6}\s+(?:Fuentes[^\n]* / [^\n]*(?:Sources|sources)|Historial de versiones / Version history|Firma común / Common signature|Principio de procedencia / Provenance principle)\s*$',s,re.M)
+    m=re.search(r'^#{1,6}\s+(?:Fuentes[^\n]* / [^\n]*(?:Sources|sources)|Historial de versiones / Version history|Firma común / Common signature|Principio de procedencia / Provenance principle|Relaciones internas y trabajo aplicado / Internal relations and applied work|Relación con los manifiestos / Relation to the manifestos|Candidatos neoaxiomáticos / Neoaxiomatic candidates)\s*$',s,re.M)
     if m: positions.append(m.start())
     return s[:min(positions)] if positions else s
 
@@ -150,7 +150,7 @@ def count_paragraphs(s):
         if re.match(r'^Innova_?N\b',plain,re.I): continue
         # Short bilingual metadata footers remain outside the semantic ES/EN halves even when
         # they appear after the final EN section. Do not charge them to English paragraph count.
-        if re.match(r'^(?:Clasificación provisional / Provisional classification|Síntesis / Synthesis|Regla / Rule|Estado / Status|Puertas / Gates|Principio de procedencia / Provenance principle):',plain,re.I): continue
+        if re.match(r'^(?:Clasificación provisional / Provisional classification|Síntesis / Synthesis|Regla / Rule|Estado / Status|Puertas / Gates|Principio de procedencia / Provenance principle|Auditoría viva / Living audit):',plain,re.I): continue
         blocks.append(p)
     return len(blocks)
 
