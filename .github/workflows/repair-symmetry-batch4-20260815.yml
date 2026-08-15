@@ -17,46 +17,32 @@ jobs:
         with:
           ref: main
           fetch-depth: 0
-      - name: Repair religion parity and auditor tails
+      - name: Refine shared-tail and signature detection
         shell: python
         run: |
           from pathlib import Path
-
-          # 1) Religion article: restore the XLIX genealogical relation in EN.
-          p=Path('analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md')
-          s=p.read_text(encoding='utf-8')
-          old='''> **Force cannot belong to dogma. Identity cannot occupy the place of individuality. Unity does not require uniformity. Before predicting history, we must learn to see it whole. Neodialectics is the tool directing that vector of advancement.**\n\n\n## Cited documents'''
-          new='''> **Force cannot belong to dogma. Identity cannot occupy the place of individuality. Unity does not require uniformity. Before predicting history, we must learn to see it whole. Neodialectics is the tool directing that vector of advancement.**\n\n\n## Relation to XLIX · Meeting Point Between Cultures™\n\nThis article's formulation of Neodialectics as a real meeting point between cultures is later developed as an autonomous manifesto:\n\n- [XLIX · Neodialectics as a Meeting Point Between Cultures™](../../manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)\n- [Open Synthesis XLIX · Issue #57](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/57)\n- [XLVIII · Synthesis Sees Everything™](../../manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) — multiscale relation and antecedent of the Universal Petri Dish.\n\nThe relation is genealogical and conceptual; by itself it does not turn the framework's analogies into empirically demonstrated claims.\n\n## Cited documents'''
-          if old not in s:
-              raise SystemExit('religion insertion point not found')
-          p.write_text(s.replace(old,new,1),encoding='utf-8')
-
-          # 2) Auditor: recognise only explicit shared bilingual tails and metadata.
           p=Path('.github/scripts/audit_global_bilingual_symmetry.py')
           s=p.read_text(encoding='utf-8')
-          old='|Candidatos neoaxiomáticos / Neoaxiomatic candidates)\\s*$'
-          new='|Candidatos neoaxiomáticos / Neoaxiomatic candidates|Relaciones / Relations)\\s*$'
+          old='|Relaciones / Relations)\\s*$'
+          new='|Relaciones / Relations|Referencias cruzadas canónicas / Canonical cross-references)\\s*$'
           if old not in s:
-              raise SystemExit('shared-tail regex insertion point not found')
+              raise SystemExit('shared-tail insertion point not found')
           s=s.replace(old,new,1)
-          old='|Auditoría viva / Living audit):'
-          new='|Auditoría viva / Living audit|Regla de lectura / Reading rule):'
+          old="if re.match(r'^Innova_?N\\b',plain,re.I): continue"
+          new="if re.match(r'^Innova_?N(?:\\s*·\\s*[^.]+)*$',plain,re.I): continue"
           if old not in s:
-              raise SystemExit('metadata regex insertion point not found')
+              raise SystemExit('signature rule insertion point not found')
           p.write_text(s.replace(old,new,1),encoding='utf-8')
       - name: Recalculate audit
         run: python .github/scripts/audit_global_bilingual_symmetry.py
       - name: Validate
         run: git diff --check
-      - name: Commit repairs and audit
+      - name: Commit audit refinement
         shell: bash
         run: |
           set -euo pipefail
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add \
-            analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md \
-            .github/scripts/audit_global_bilingual_symmetry.py \
-            auditorias/publicas/2026-08-12_auditoria_global_simetria_ES_EN.md
-          git commit -m 'fix: restore religion XLIX parity and classify shared tails'
+          git add .github/scripts/audit_global_bilingual_symmetry.py auditorias/publicas/2026-08-12_auditoria_global_simetria_ES_EN.md
+          git commit -m 'audit: refine shared tails and Innova_N signature detection'
           git push origin HEAD:main
