@@ -9,7 +9,7 @@
 
 - Markdown activo examinado / Active Markdown scanned: **291**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **209**.
-- Fallos estructurales divididos / Split structural failures: **13**.
+- Fallos estructurales divididos / Split structural failures: **12**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **24**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -47,8 +47,6 @@
   - XIX: párrafos ES=6 EN=5
 - `propuestas/sintesis-abierta/2026-08-11_DELTA_HUMANIDAD_COMUN_MADURACION_INVERTIDA_TROL_BOT_MAL_SISTEMICO_ES_EN.md` · ES=859 · EN=834 · ratio=0.97
   - 22: párrafos ES=0 EN=1
-- `proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md` · ES=1013 · EN=979 · ratio=0.97
-  - 11: párrafos ES=4 EN=3
 
 ## Marcadores / Markers
 
@@ -319,7 +317,7 @@
 | `proyeccion/NEOCORE_7_2_DELTA_ES_EN.md` | **OK** |  |
 | `proyeccion/NEOCORE_7_2_EXTERNAL_REVIEW_BRIEF_ES_EN.md` | **OK** |  |
 | `proyeccion/POLITICA_SIMETRIA_BILINGUE_ES_EN.md` | **OK** |  |
-| `proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md` | **REVISAR** | 11: párrafos ES=4 EN=3 |
+| `proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md` | **OK** |  |
 | `proyeccion/README.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Proyección y difusión trazable / Genealogía y salvaguarda |
 | `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md` | **OK** |  |
 | `web4/2026-08-10_POSTCHECK_WEB4_7_2_IDEA_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Postcheck WEB4™ · NEOCore™ 7.2 + IDEA / Límite de verificación |
