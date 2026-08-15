@@ -690,7 +690,11 @@ BOUNDARIES
 → POSSIBILITY OF CLOSURE
 ```
 
-Without truth, closure is denial. Without responsibility, it can become impunity. Without a possibility of future, justice can become a permanent prison of the past.
+Without truth, closure is denial.
+
+Without responsibility, it can become impunity.
+
+Without a possibility of future, justice can become a permanent prison of the past.
 
 ## IX. Forgiveness cannot be imposed
 

@@ -313,7 +313,9 @@ RUMOUR OR MESSAGE
 → AMPLIFICATION
 ```
 
-This does not remove the role of smuggling networks. It changes it.
+This does not remove the role of smuggling networks.
+
+It changes it.
 
 A criminal network may recruit, finance, transport or charge. Yet a digital cascade may also mobilise thousands without a single central organisation directing every participant.
 

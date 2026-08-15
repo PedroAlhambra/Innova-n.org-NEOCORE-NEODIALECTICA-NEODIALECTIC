@@ -553,7 +553,9 @@ FRAMEWORK + VERIFIABLE RESULT
 
 ## V. Open Synthesis as the engine of joint audit
 
-Open Synthesis distributes review among people with expert knowledge, pertinent experience, sufficient study or ideas capable of producing a material delta.
+Open Synthesis turns review into a distributed function.
+
+People with expert knowledge, pertinent experience, sufficient study or ideas capable of producing a material delta may participate.
 
 Its function is not to manufacture unanimity. It is to preserve and relate:
 

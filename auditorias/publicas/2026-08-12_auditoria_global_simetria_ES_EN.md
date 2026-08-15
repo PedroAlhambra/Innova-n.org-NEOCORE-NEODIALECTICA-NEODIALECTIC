@@ -9,40 +9,14 @@
 
 - Markdown activo examinado / Active Markdown scanned: **291**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **209**.
-- Fallos estructurales divididos / Split structural failures: **10**.
+- Fallos estructurales divididos / Split structural failures: **0**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **24**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
 
-- `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` · ES=1625 · EN=1503 · ratio=0.92
-  - 2: párrafos ES=8 EN=7
-- `analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md` · ES=1721 · EN=1706 · ratio=0.99
-  - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (2, '4'), (3, ''), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (3, ''), (3, ''), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17')] EN=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (2, '4'), (3, ''), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (3, ''), (3, ''), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17'), (2, '')]
-- `auditorias/publicas/README.md` · ES=493 · EN=565 · ratio=1.15
-  - 4 · Privacidad, límites y reapertura: párrafos ES=1 EN=2
-- `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · ES=1606 · EN=1537 · ratio=0.96
-  - V: párrafos ES=4 EN=3
-- `manifiestos/37_neofraternidad_ES_EN.md` · ES=1047 · EN=1060 · ratio=1.01
-  - XV: párrafos ES=3 EN=4
-- `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` · ES=1545 · EN=1523 · ratio=0.99
-  - VIII: párrafos ES=8 EN=6
-- `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` · ES=1427 · EN=1414 · ratio=0.99
-  - XIX: lists ES=8 EN=6
-- `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md` · ES=1443 · EN=1452 · ratio=1.01
-  - XV: lists ES=6 EN=5
-- `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` · ES=1449 · EN=1432 · ratio=0.99
-  - Invocación: párrafos ES=8 EN=6
-  - I: párrafos ES=4 EN=3
-  - II: lists ES=6 EN=0
-  - Derechos derivados de contribuciones concretas: lists ES=2 EN=0
-  - IX: párrafos ES=6 EN=3
-- `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md` · ES=1992 · EN=1935 · ratio=0.97
-  - I: párrafos ES=12 EN=7
-  - VII: párrafos ES=6 EN=4
-  - XVIII: párrafos ES=3 EN=2
-  - XIX: párrafos ES=6 EN=5
+- Ninguno / None.
 
 ## Marcadores / Markers
 
@@ -96,7 +70,7 @@
 | `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` | **OK** |  |
-| `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` | **REVISAR** | 2: párrafos ES=8 EN=7 |
+| `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md` | **OK** |  |
@@ -107,7 +81,7 @@
 | `analisis/publicos/2026-08-08_delta_poder_incentivos_tokenizacion_y_transicion_neodialectica_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-08_distrokid_ticket_4499471_respuesta_no_resolutiva_y_reiteracion_auditoria_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-08_estado_correo_difusion_idea_y_adhesiones_sintesis_ES_EN.md` | **OK** |  |
-| `analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (2, '4'), (3, ''), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (3, ''), (3, ''), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17')] EN=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (2, '4'), (3, ''), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (3, ''), (3, ''), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17'), (2, '')] |
+| `analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-08_techno_bach_record_semanal_apple_music_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md` | **OK** |  |
@@ -184,7 +158,7 @@
 | `auditorias/publicas/2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: ES / HECHO VERIFICADO / PrepFort, 2077AI y otros nombres / 11 · Protocolo de aportación / EN / VERIFIED FACT / PrepFort, 2077AI and other names / 11 · Contribution protocol |
 | `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: ES / EN |
 | `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **OK** |  |
-| `auditorias/publicas/README.md` | **REVISAR** | 4 · Privacidad, límites y reapertura: párrafos ES=1 EN=2 |
+| `auditorias/publicas/README.md` | **OK** |  |
 | `difusion/2026-08-09_marco_tanda_01_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Difusión del marco · tanda 01 · 2026-08-09 |
 | `difusion/2026-08-09_marco_tanda_02_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Difusión del marco · tanda 02 · 2026-08-09 |
 | `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` | **OK** |  |
@@ -221,10 +195,10 @@
 | `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` | **OK** |  |
 | `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` | **OK** |  |
 | `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` | **OK** |  |
-| `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` | **REVISAR** | V: párrafos ES=4 EN=3 |
+| `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` | **OK** |  |
 | `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | **OK** |  |
 | `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | **OK** |  |
-| `manifiestos/37_neofraternidad_ES_EN.md` | **REVISAR** | XV: párrafos ES=3 EN=4 |
+| `manifiestos/37_neofraternidad_ES_EN.md` | **OK** |  |
 | `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` | **OK** |  |
 | `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` | **OK** |  |
 | `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` | **OK** |  |
@@ -233,15 +207,15 @@
 | `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md` | **OK** |  |
 | `manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md` | **OK** |  |
 | `manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md` | **OK** |  |
-| `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` | **REVISAR** | VIII: párrafos ES=8 EN=6 |
+| `manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md` | **OK** |  |
 | `manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md` | **OK** |  |
 | `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` | **OK** |  |
 | `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md` | **OK** |  |
-| `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` | **REVISAR** | XIX: lists ES=8 EN=6 |
-| `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md` | **REVISAR** | XV: lists ES=6 EN=5 |
-| `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` | **REVISAR** | Invocación: párrafos ES=8 EN=6; I: párrafos ES=4 EN=3; II: lists ES=6 EN=0; Derechos derivados de contribuciones concretas: lists ES=2 EN=0; IX: párrafos ES=6 EN=3 |
+| `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` | **OK** |  |
+| `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md` | **OK** |  |
+| `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` | **OK** |  |
 | `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` | **OK** |  |
-| `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md` | **REVISAR** | I: párrafos ES=12 EN=7; VII: párrafos ES=6 EN=4; XVIII: párrafos ES=3 EN=2; XIX: párrafos ES=6 EN=5 |
+| `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md` | **OK** |  |
 | `manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md` | **OK** |  |
 | `manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md` | **OK** |  |
 | `manifiestos/57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md` | **OK** |  |

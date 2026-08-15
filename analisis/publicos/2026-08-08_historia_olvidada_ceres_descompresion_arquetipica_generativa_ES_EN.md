@@ -355,6 +355,10 @@ La Síntesis Abierta #63 solicita especialmente trabajo sobre:
 **DESCOMPRESIÓN GENERATIVA ≠ RECONSTRUCCIÓN EXACTA DEL PASADO**  
 **PERO UNA RELACIÓN QUE PRODUCE PREDICCIONES Y SOBREVIVE A CONTRADICCIÓN = OBJETO LEGÍTIMO DE INVESTIGACIÓN**
 
+## Síntesis Abierta
+
+Se solicitan pruebas, objeciones, explicaciones alternativas, criterios de falsación y modelos superiores en [Issue #63](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/63).
+
 ---
 
 # EN · English
