@@ -199,4 +199,6 @@ Therefore:
 
 ---
 
+<!-- NEO_RELATIONS_START -->
+
 **Relaciones / Relations:** [Neoaxiomas™](../../neoaxiomas/README.md) · [Protocolo de Síntesis Abierta / Open Synthesis protocol](NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md) · [Issue matriz / Matrix Issue #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) · [NAX-11](../../neoaxiomas/README.md#nax-11--autoridad-de-fijación-humana-y-síntesis-revisable)
