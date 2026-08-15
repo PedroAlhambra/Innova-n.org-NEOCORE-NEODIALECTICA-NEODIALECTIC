@@ -1,253 +1,298 @@
-# Delta relacional · NeoMantis™ · Asimetría Invertida, Dignidad Recíproca y Vulnerabilidad Masculina
-# Relational Delta · NeoMantis™ · Inverted Asymmetry, Reciprocal Dignity and Male Vulnerability
+# Delta relacional · NeoMantis™ · Desequilibrio Sistémico, Asimetría Destructiva y Fractal Común
+# Relational Delta · NeoMantis™ · Systemic Imbalance, Destructive Asymmetry and the Common Fractal
 
 **Fecha / Date:** 2026-08-15  
 **Estado / Status:** propuesta estructurada para Síntesis Abierta; no validación empírica automática / structured proposal for Open Synthesis; not automatic empirical validation  
 **Marco / Framework:** NEOCore™ 7.2 · Síntesis Abierta Neodialéctica™ · SAN™  
 **Síntesis Abierta / Open Synthesis:** [Issue #148 · NeoMantis™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/148)  
-**Relaciones principales / Main relations:** [LII · Ciudadanía Humana™](../../manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md) · [LXIX · Defensa de la Inocencia Humana™](../../manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md) · [LXX · Fauno™](../../manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md) · [LXXI · Separación de Planos™](../../manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md) · [LXXII · Hombre Custodio™](../../manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) · XXXI · Contra el Neuromarketing Antihumanista™ · XLII · Fin de la Era del Hombre Manipulado™
+**Relaciones principales / Main relations:** [LXXIV · Asimetría de la Destrucción™](../../manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md) · [XLV · Multidimensionalidad Neodialéctica™](../../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) · [LXXIII · Maduración Invertida™](../../manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md) · [LXIX · Defensa de la Inocencia Humana™](../../manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md) · [LXX · Fauno™](../../manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md) · [LXXII · Hombre Custodio™](../../manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) · [LII · Ciudadanía Humana™](../../manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md) · [C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123) · [C-NAX-20 · Humanidad Común sin Supresión de la Diferencia™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/126)
 
-> **Regla epistemológica / Epistemic rule:** la intuición de una degradación o inferiorización normativa del varón se registra aquí como **hipótesis a auditar**, no como hecho universal demostrado. La Síntesis debe distinguir norma jurídica, práctica institucional, incentivo económico, discurso cultural, experiencia individual, patrón estadístico, inferencia y generalización. / the intuition of a normative degradation or inferiorisation of men is recorded here as a **hypothesis to be audited**, not as a universally proven fact. Synthesis must distinguish legal rule, institutional practice, economic incentive, cultural discourse, individual experience, statistical pattern, inference and generalisation.
+> **Corrección conceptual / Conceptual correction:** NeoMantis™ **no representa a la mujer**. Representa un **desequilibrio de fuerzas sistémico**: reglas de poder ilógicamente desbalanceadas que conceden a un polo capacidad desproporcionada de degradar, excluir, neutralizar o destruir al otro y que, al hacerlo, terminan dañando el **fractal común** del que ambos forman parte. El conflicto hombre–mujer es una aplicación posible del patrón, no su definición. / NeoMantis™ **does not represent women**. It represents a **systemic imbalance of forces**: illogically unbalanced rules of power that grant one pole disproportionate capacity to degrade, exclude, neutralise or destroy the other and, in doing so, ultimately damage the **common fractal** of which both are parts. Male–female conflict is one possible application of the pattern, not its definition.
 
 ---
 
 # ES · Castellano
 
-## 1. Por qué este contenido encaja mejor como delta
+## 1. Revisión de la formulación inicial
 
-El corpus ya posee una arquitectura suficiente para estudiar poder, vulnerabilidad, masculinidad, depredación relacional e igualdad humana. Crear inmediatamente un nuevo manifiesto correría el riesgo de duplicar piezas existentes antes de demostrar que el nuevo arquetipo aporta una función irreductible.
+La primera formulación de NeoMantis™ estaba demasiado cerca de un problema sexual concreto: la posibilidad de que mecanismos creados para proteger a la mujer terminen, en determinados contextos, inferiorizando al varón.
 
-Por eso **NeoMantis™ entra primero como delta relacional**.
+Ese caso sigue siendo legítimo como **hipótesis aplicada a auditar**, pero no contiene el arquetipo completo.
 
-Su función es completar una tensión todavía insuficientemente explícita:
-
-```text
-CORREGIR UNA ASIMETRÍA HISTÓRICA
-≠ INVERTIR LA JERARQUÍA
-
-PROTEGER A QUIEN AFRONTA UN RIESGO ESPECÍFICO
-≠ DECLARAR INFERIOR, SOSPECHOSO O PRESCINDIBLE AL OTRO SEXO
-```
-
-Si la Síntesis demuestra un patrón propio, estable y no absorbible por LXIX, LXX o LXXII, podrá madurar más adelante hacia manifiesto autónomo.
-
-## 2. Qué significa NeoMantis™
-
-La mantis funciona aquí como **interfaz arquetípica**, no como descripción naturalista de las mujeres humanas.
-
-NeoMantis™ representa el momento en que una relación que debía recuperar equilibrio termina organizándose como una asimetría capaz de **consumir funcionalmente al otro polo**: su dignidad, voz, presunción de humanidad, vínculos, reputación, recursos, capacidad de defensa o derecho a ser reconocido también como vulnerable.
+NeoMantis™ aparece antes que el sexo. Aparece cuando la arquitectura de una relación pierde reciprocidad y entrega a una parte una palanca de destrucción que el sistema deja de compensar, limitar, revisar o reparar.
 
 ```text
-MUJER ≠ NEOMANTIS™
-HEMBRA BIOLÓGICA ≠ NEOMANTIS™
-FEMINISMO ≠ NEOMANTIS™
-PROTECCIÓN DE LA MUJER ≠ NEOMANTIS™
+NEOMANTIS™
+≠ MUJER
+≠ HOMBRE
+≠ FEMINISMO
+≠ MASCULINIDAD
+≠ MINORÍA
+≠ MAYORÍA
+≠ INSTITUCIÓN CONCRETA
 
 NEOMANTIS™
-= ASIMETRÍA INVERTIDA
-+ INSTRUMENTALIZACIÓN
-+ DESCARTABILIDAD DEL OTRO
-+ NEGACIÓN DE SU VULNERABILIDAD
-+ IMPUNIDAD O JUSTIFICACIÓN POR IDENTIDAD
+= PATRÓN SISTÉMICO DE PODER DESBALANCEADO
 ```
 
-El patrón puede ser reproducido por una mujer, un hombre, una institución, un algoritmo, un medio, una organización, un mercado o una norma cultural. No requiere una autora femenina.
+La identidad del polo dominante puede cambiar. Lo que permanece es la estructura.
 
-## 3. El problema central: igualdad que deja de ser igualdad
+## 2. Definición operativa candidata
 
-Una política de igualdad pierde coherencia si corrige una injusticia haciendo que otra categoría humana pase a disponer de menos protección por principio.
-
-La Neodialéctica ya fija en LXIX:
+NeoMantis™ designa una configuración en la que convergen varias condiciones:
 
 ```text
-IGUALDAD DE DIGNIDAD
-≠ IGUALDAD DE VULNERABILIDAD
+DIFERENCIA O CONFLICTO LEGÍTIMO
++ REGLA DE PODER ASIMÉTRICA
++ PALANCA DE DESTRUCCIÓN DESPROPORCIONADA
++ BAJO COSTE DE DAÑAR
++ ALTO COSTE DE DEFENDERSE O REPARAR
++ RESPONSABILIDAD DESACOPLADA DEL PODER
++ PÉRDIDA DE RECIPROCIDAD
+→ NEOMANTIS™
 ```
 
-NeoMantis™ añade la dirección recíproca:
+No basta con que exista una diferencia de fuerza. Toda sociedad contiene asimetrías funcionales, protectoras, temporales o legítimas.
+
+El salto NeoMantis™ aparece cuando la asimetría deja de servir al conjunto y permite que una parte consuma capacidad vital de la otra sin contrapeso suficiente.
+
+## 3. El núcleo: destrucción del fractal común
+
+El error del sistema consiste en confundir una victoria local con una mejora del todo.
 
 ```text
-VULNERABILIDAD
-→ DEBE MEDIRSE EN EL CASO
-→ NO PRESUPONERSE COMO MONOPOLIO PERMANENTE DE UN SEXO
+GANANCIA LOCAL DE UN POLO
+≠ GANANCIA DEL SISTEMA
 
-RESPONSABILIDAD
-→ CONDUCTA + PODER + EVIDENCIA
-→ NO CULPABILIDAD POR SEXO
+DEBILITAR AL OTRO
+≠ FORTALECER LA RELACIÓN
+
+ELIMINAR EL CONTRAPESO
+≠ ALCANZAR EQUILIBRIO
 ```
 
-La protección específica puede ser legítima cuando existe riesgo específico. Se vuelve antihumanista cuando convierte una categoría protegida en categoría moralmente superior y a la otra en sujeto degradado por defecto.
+Cuando dos polos forman parte de una relación común —persona y comunidad, ciudadano e institución, trabajador y organización, mujer y hombre, mayoría y minoría, usuario y plataforma, centro y periferia— destruir funcionalmente uno de ellos puede empobrecer la información, la diversidad, la cooperación, la reproducción, la corrección o la capacidad de adaptación del conjunto.
 
-## 4. El varón degradado como hipótesis de aniquilación funcional
+NeoMantis™ nombra precisamente ese fallo: **el poder local obtiene capacidad de consumir aquello que el sistema completo necesita conservar para seguir siendo sistema**.
 
-«Aniquilación del macho» no se fija aquí como extinción física ni como hecho social total.
+```text
+ANIQUILACIÓN DEL POLO
+→ RUPTURA DE RELACIÓN
+→ PÉRDIDA DE CONTRASTE
+→ PÉRDIDA DE RECIPROCIDAD
+→ DEGRADACIÓN DEL FRACTAL COMÚN
+```
 
-Se propone una categoría más precisa: **aniquilación funcional del varón** cuando distintos mecanismos convergen para reducir su condición de sujeto.
+## 4. Relación con LXXIV · Asimetría de la Destrucción™
 
-Puede incluir, si la evidencia lo demuestra en casos concretos:
+LXXIV identifica una ley general: destruir, bloquear, degradar o confundir puede costar mucho menos que construir, conservar o reparar.
 
-- presunción cultural de peligrosidad o culpabilidad por sexo;
+NeoMantis™ añade una capa relacional:
+
+```text
+LXXIV
+→ ASIMETRÍA ENTRE COSTE DE CREAR Y COSTE DE DESTRUIR
+
+NEOMANTIS™
+→ UN POLO RECIBE O ACUMULA LA PALANCA DE DESTRUCCIÓN
+→ EL OTRO SOPORTA EL COSTE PRINCIPAL
+→ LAS REGLAS DEJAN DE PROTEGER EL EQUILIBRIO DEL CONJUNTO
+```
+
+Por eso NeoMantis™ no necesita convertirse todavía en un manifiesto autónomo. Puede funcionar como **delta transversal de LXXIV** y, a la vez, relacionar igualdad, vulnerabilidad, identidad, poder y preservación del organismo común.
+
+## 5. Aplicación sexual: degradación funcional del varón como hipótesis
+
+El caso que originó esta revisión no se elimina. Se recoloca dentro de una arquitectura mayor.
+
+Puede existir una instancia NeoMantis™ si, en un ámbito concreto y con evidencia suficiente, reglas jurídicas, institucionales, culturales, económicas o algorítmicas conceden a una parte capacidad desproporcionada de dañar a la otra por razón de sexo, mientras reducen sus mecanismos de defensa, reconocimiento o reparación.
+
+En el caso masculino, la hipótesis a auditar incluye posibles procesos como:
+
+- presunción de peligrosidad, culpabilidad o menor valor por sexo;
 - invisibilización del hombre víctima de violencia, coerción o abuso;
-- trivialización del sufrimiento psicológico masculino;
-- normalización de la descartabilidad física o laboral del varón;
-- pérdida injustificada de vínculos familiares o capacidad de cuidado;
-- destrucción reputacional sin mecanismos suficientes de contradicción;
-- explotación económica o relacional presentada como obligación masculina natural;
-- exigencia unilateral de sacrificio, provisión, protección o riesgo;
-- ridiculización de vulnerabilidad, afectividad, soledad o necesidad de ayuda;
-- negación de protección institucional por no encajar en el patrón esperado de víctima.
+- trivialización del sufrimiento psicológico, la soledad o la vulnerabilidad masculina;
+- normalización de la descartabilidad física, laboral o bélica del varón;
+- pérdida injustificada de vínculo familiar, parental o capacidad de cuidado;
+- daño reputacional con contradicción o reparación insuficientes;
+- obligación unilateral de provisión, protección, sacrificio o riesgo;
+- negación práctica de protección por no coincidir con el patrón cultural esperado de víctima.
 
-Ninguno de estos puntos se da por universal ni se atribuye automáticamente a una política, movimiento o sexo. Cada uno exige fuentes, incidencia, comparación y contraejemplos.
+«Aniquilación del macho» se precisa así como **aniquilación funcional del varón**: pérdida acumulativa de condición de sujeto, capacidad de vínculo, defensa, cuidado, voz o reconocimiento. No se fija aquí como extinción física ni como diagnóstico universal de la sociedad contemporánea.
 
-## 5. Fauno™ y NeoMantis™ no forman una guerra de sexos
+## 6. La regla es recíproca: el sexo del polo no define NeoMantis™
 
-El Fauno™ estudia especialmente una degradación masculina: potencia sin custodia que instrumentaliza a otras personas.
+La misma estructura existe si el poder destructivo corre en dirección contraria.
 
-NeoMantis™ no debe ser su espejo simplista de «mujer depredadora».
+Un sistema que permita a hombres degradar, coaccionar, explotar, silenciar o destruir a mujeres con impunidad suficiente también puede realizar el patrón NeoMantis™.
 
-La relación útil es otra:
+La prueba no pregunta primero **quién es hombre o mujer**, sino:
 
 ```text
-FAUNO™
-= POTENCIA SIN CUSTODIA
-→ EL OTRO SE CONVIERTE EN RECURSO
-
-NEOMANTIS™
-= PROTECCIÓN / PODER / LEGITIMIDAD SIN RECIPROCIDAD
-→ EL OTRO SE CONVIERTE EN PRESCINDIBLE
+¿QUIÉN TIENE LA PALANCA?
+¿QUÉ PUEDE DESTRUIR?
+¿CUÁNTO LE CUESTA HACERLO?
+¿CUÁNTO CUESTA DEFENDERSE?
+¿QUIÉN DEBE PROBAR QUÉ?
+¿EXISTE CONTRADICCIÓN?
+¿EXISTE REPARACIÓN?
+¿LA RESPONSABILIDAD CRECE CON EL PODER?
+¿QUÉ PIERDE EL FRACTAL COMÚN?
 ```
 
-Ambos son **patrones funcionales de deshumanización**, no esencias sexuales.
+Esto impide convertir el arquetipo en una nueva guerra identitaria.
 
-Una misma sociedad puede proteger correctamente a mujeres frente a patrones Fauno™ y, al mismo tiempo, corregir contextos donde el varón sea tratado como sujeto menos protegible.
+## 7. Protección legítima no equivale a desequilibrio destructivo
 
-## 6. Hombre Custodio™: custodia también de sí mismo
+La existencia de protección específica no constituye por sí misma NeoMantis™.
 
-LXXII no debe leerse como obligación del hombre de sacrificarse indefinidamente por los demás.
-
-La custodia necesita incluir **autocustodia**.
+LXIX ya distingue igualdad de dignidad e igualdad de vulnerabilidad. Una parte puede requerir más protección en una situación concreta por fuerza física, dependencia, edad, información, capacidad económica, riesgo estadístico o capacidad real de salida.
 
 ```text
-CUSTODIAR A OTROS
-+ CUSTODIAR LOS PROPIOS LÍMITES
-+ PODER DECIR NO
-+ PODER SALIR
-+ PODER PEDIR PROTECCIÓN
-+ PODER SER VULNERABLE
-= CUSTODIA HUMANA COMPLETA
-```
+PROTECCIÓN PROPORCIONAL
+≠ PRIVILEGIO DE DESTRUCCIÓN
 
-Un hombre reducido a herramienta de provisión, defensa, trabajo, riesgo o responsabilidad sin reciprocidad no ha alcanzado una forma superior de masculinidad: ha perdido parte de su condición de sujeto.
-
-## 7. Relación con Ciudadanía Humana™ e igualdad
-
-LII establece que ninguna diferencia de origen debe convertirse en jerarquía humana. El mismo principio puede proyectarse sobre el sexo:
-
-```text
-SEXO
+ASIMETRÍA PROTECTORA
 ≠ JERARQUÍA DE DIGNIDAD
 
-SEXO
-≠ CULPABILIDAD HEREDADA
-
-SEXO
-≠ DERECHO A DAÑAR
-
-SEXO
-≠ DERECHO A SER IGNORADO CUANDO SE SUFRE DAÑO
+REPARAR UNA DESIGUALDAD
+≠ FABRICAR UNA INFERIORIDAD INVERSA
 ```
 
-La igualdad neodialéctica no exige negar patrones estadísticos ni diferencias materiales. Exige impedir que una estadística sustituya a la persona concreta.
+La cuestión es si la protección conserva evidencia, proporcionalidad, contradicción, revisión, límites y retorno hacia autonomía o si se transforma en poder unilateral sin control suficiente.
 
-## 8. Intereses antihumanistas: hipótesis, no atribución automática
+## 8. Intereses antihumanistas: incentivo sistémico antes que conspiración
 
-La intuición de «intereses antihumanistas» debe descomponerse antes de atribuir intención.
+NeoMantis™ también permite estudiar por qué un sistema puede producir polarización destructiva sin exigir un centro único que la haya diseñado.
 
-Puede haber sistemas que obtengan valor de la confrontación entre hombres y mujeres sin que exista un centro único que la diseñe:
+Pueden existir incentivos que obtengan valor de dividir polos que deberían cooperar:
 
-- economía de la atención;
-- contenido polarizante;
-- mercados basados en inseguridad y comparación;
-- industrias de seducción, pornificación o resentimiento;
+- economía de la atención y contenido polarizante;
 - política identitaria de suma cero;
-- algoritmos que premian conflicto;
-- organizaciones que necesitan enemigos permanentes;
-- modelos comerciales que convierten soledad, miedo o agravio en retención.
+- industrias basadas en inseguridad, resentimiento o miedo;
+- mercados que monetizan soledad, comparación o conflicto;
+- algoritmos que recompensan reacción y enfrentamiento;
+- organizaciones cuya continuidad depende de enemigos permanentes;
+- burocracias que conservan poder porque el problema nunca se resuelve.
 
 ```text
-INCENTIVO ANTIHUMANO
-≠ CONSPIRACIÓN DEMOSTRADA
+EFECTO ANTIHUMANO
+≠ INTENCIÓN ANTIHUMANA DEMOSTRADA
 
-EFECTO SISTÉMICO
-≠ INTENCIÓN ÚNICA
+INCENTIVO DESTRUCTIVO
+≠ CONSPIRACIÓN COORDINADA DEMOSTRADA
 ```
 
-Debe buscarse quién obtiene qué beneficio, mediante qué mecanismo y con qué evidencia.
+La auditoría debe preguntar quién obtiene beneficio, mediante qué mecanismo, qué alternativas existen y qué evidencia permite atribuir intención cuando proceda.
 
-## 9. Prueba de simetría neodialéctica
+## 9. NeoMantis™ e identidad: la parte no puede convertirse en el Todo
 
-Toda norma, discurso o práctica relacionada con sexo puede someterse a una prueba mínima:
+LII y XLV ofrecen una relación directa. Igual dignidad no implica borrar diferencias, pero ninguna diferencia debe convertirse automáticamente en jerarquía de valor humano.
+
+NeoMantis™ añade una prueba sobre las reglas de poder:
 
 ```text
-1. ¿PROTEGE UNA VULNERABILIDAD REAL?
-2. ¿ATRIBUYE RESPONSABILIDAD POR CONDUCTA O POR CATEGORÍA?
-3. ¿PERMITE CONTRADICCIÓN Y PRUEBA?
-4. ¿RECONOCE VÍCTIMAS FUERA DEL PATRÓN MAYORITARIO?
-5. ¿PRESERVA IGUAL DIGNIDAD?
-6. ¿TIENE CAPACIDAD DE REVISIÓN?
-7. ¿PRODUCE UNA NUEVA ASIMETRÍA INJUSTIFICADA?
+IDENTIDAD
+≠ CULPABILIDAD
+≠ INOCENCIA AUTOMÁTICA
+≠ DERECHO A DESTRUIR
+≠ DERECHO A SER DESTRUIDO
+
+PARTE PROTEGIDA
+≠ PARTE SOBERANA SOBRE EL TODO
+
+PARTE HISTÓRICAMENTE DAÑADA
+≠ PARTE AUTORIZADA A REPRODUCIR EL DAÑO
 ```
 
-Si una intervención supera las seis primeras y evita la séptima, es compatible en principio con igualdad recíproca.
+La reparación deja de ser reparación cuando necesita degradar estructuralmente a otro componente humano para mantenerse.
 
-## 10. Candidato de principio: Reciprocidad de Vulnerabilidad™
+## 10. Candidato: Principio de Conservación del Fractal Común™
 
-Se propone a Síntesis, sin elevarlo a Neoaxioma canónico:
+Se propone a Síntesis, sin elevarlo todavía a Neoaxioma canónico:
 
-> **La dignidad no cambia por sexo. La vulnerabilidad debe medirse en la situación concreta y la protección debe responder al riesgo real. Ninguna reparación de una asimetría legitima fabricar una inferioridad inversa.**
+> **Ningún equilibrio legítimo puede construirse concediendo a una parte capacidad estable de destruir impunemente a otra parte necesaria del mismo sistema. La corrección de una asimetría debe aumentar la integridad del fractal común, no trasladar la licencia de degradación de un polo al otro.**
 
-Forma operacional:
+Forma operacional candidata:
 
 ```text
 IGUAL DIGNIDAD
++ DIFERENCIA REAL RECONOCIDA
 + VULNERABILIDAD CONTEXTUAL
-+ RESPONSABILIDAD POR CONDUCTA
-+ PROTECCIÓN PROPORCIONAL
-+ DERECHO A CONTRADICCIÓN
++ PODER LIMITADO
++ RESPONSABILIDAD PROPORCIONAL A POTENCIA
++ CONTRADICCIÓN
++ REPARACIÓN
 + RECIPROCIDAD
-= IGUALDAD HUMANA OPERATIVA
+→ CONSERVACIÓN DEL FRACTAL COMÚN
 ```
 
-## 11. Auditoría necesaria antes de cualquier manifiesto autónomo
+## 11. Prueba NeoMantis™
 
-Antes de convertir NeoMantis™ en manifiesto deben reunirse evidencias comparables en al menos estos planos:
-
-- legislación y jurisprudencia;
-- protección frente a violencia y acceso a recursos;
-- custodia, familia y vínculo parental;
-- educación y socialización;
-- salud física y mental;
-- suicidio, soledad y acceso a ayuda;
-- trabajo, riesgo laboral y descartabilidad;
-- representación mediática;
-- reputación, acusación y derecho de contradicción;
-- victimización sexual y relacional;
-- algoritmos, publicidad y economía de la atención.
-
-La auditoría debe incluir evidencia de desigualdad que siga afectando específicamente a mujeres, porque cualquier teoría que sólo busque confirmación de daño masculino reproduciría el mismo sesgo que pretende corregir.
-
-## 12. Estado del delta
+Una regla, institución, plataforma, relación o práctica puede someterse a una prueba mínima:
 
 ```text
-NEOMANTIS™ = ARQUETIPO CANDIDATO
+1. ¿QUÉ POLOS FORMAN EL SISTEMA?
+2. ¿QUÉ ASIMETRÍA EXISTE Y POR QUÉ?
+3. ¿QUÉ PARTE DISPONE DE CAPACIDAD DE DESTRUCCIÓN?
+4. ¿EL COSTE DE DAÑAR ES MENOR QUE EL DE DEFENDER O REPARAR?
+5. ¿LA RESPONSABILIDAD ES PROPORCIONAL AL PODER REAL?
+6. ¿EXISTEN PRUEBA, CONTRADICCIÓN, APELACIÓN Y REPARACIÓN?
+7. ¿LA PROTECCIÓN ES CONTEXTUAL O SE HA CONVERTIDO EN PRIVILEGIO PERMANENTE?
+8. ¿LA IDENTIDAD SUSTITUYE A LA CONDUCTA COMO CRITERIO?
+9. ¿LA GANANCIA LOCAL DE UN POLO PRODUCE PÉRDIDA SISTÉMICA?
+10. ¿QUÉ CONTRAEJEMPLO REFUTA EL DIAGNÓSTICO?
+```
+
+Sin esa secuencia, NeoMantis™ correría el riesgo de convertirse en una etiqueta retórica aplicable a cualquier conflicto.
+
+## 12. Auditoría necesaria
+
+La hipótesis debe probarse en dominios distintos antes de reclamar autonomía conceptual plena:
+
+- sexo, pareja, familia, custodia y vínculo parental;
+- violencia, victimización, denuncia, defensa y reparación;
+- educación, salud mental, soledad y socialización;
+- trabajo, riesgo, provisión y descartabilidad;
+- instituciones públicas y ciudadanía;
+- empresa, trabajador y poder contractual;
+- plataformas, moderación, reputación y apelación;
+- mayoría, minoría e identidades colectivas;
+- centro, periferia y distribución territorial del poder;
+- algoritmos, automatización y economía de la atención.
+
+En cada dominio deben buscarse también casos donde la asimetría protectora sea necesaria y funcione correctamente. Una teoría que sólo coleccione ejemplos favorables no supera Síntesis Abierta.
+
+## 13. Delta o manifiesto
+
+**Estado recomendado: DELTA TRANSVERSAL.**
+
+La razón no es falta de potencia conceptual, sino solapamiento todavía alto con LXXIV · Asimetría de la Destrucción™, LXIX · Defensa de la Inocencia Humana™, XLV · Multidimensionalidad y los candidatos relacionales C-NAX-19/C-NAX-20.
+
+NeoMantis™ justificaría un manifiesto autónomo si el contraste demuestra que su función irreductible es estable en dominios distintos:
+
+```text
+ASIMETRÍA DE DESTRUCCIÓN
++ CONCENTRACIÓN DE PALANCA EN UN POLO
++ DEGRADACIÓN DEL CONTRAPESO
++ PÉRDIDA DEL FRACTAL COMÚN
+= PATRÓN PROPIO REPLICABLE
+```
+
+Hasta entonces:
+
+```text
+NEOMANTIS™ = ARQUETIPO SISTÉMICO CANDIDATO
 MUJER =/= NEOMANTIS™
+HOMBRE =/= NEOMANTIS™
 HOMBRE =/= VÍCTIMA POR ESENCIA
-ANIQUILACIÓN FUNCIONAL DEL VARÓN = HIPÓTESIS AUDITABLE
-INFERIORIZACIÓN NORMATIVA GENERAL DEL VARÓN = NO DEMOSTRADA AQUÍ
-INTERESES ANTIHUMANISTAS COORDINADOS = NO DEMOSTRADOS
-ASIMETRÍA INVERTIDA = OBJETO LEGÍTIMO DE AUDITORÍA
-RECIPROCIDAD DE VULNERABILIDAD™ = PRINCIPIO CANDIDATO
-PROMOCIÓN A MANIFIESTO = PENDIENTE DE SÍNTESIS Y EVIDENCIA
+DEGRADACIÓN FUNCIONAL DEL VARÓN = HIPÓTESIS APLICADA AUDITABLE
+DEGRADACIÓN FUNCIONAL DE LA MUJER = MISMA PRUEBA ESTRUCTURAL
+INTERESES ANTIHUMANISTAS COORDINADOS = NO DEMOSTRADOS AQUÍ
+DESEQUILIBRIO SISTÉMICO DE FUERZAS = NÚCLEO DEL DELTA
+DESTRUCCIÓN DEL FRACTAL COMÚN = CONSECUENCIA CENTRAL
+PRINCIPIO DE CONSERVACIÓN DEL FRACTAL COMÚN™ = CANDIDATO
+PROMOCIÓN A MANIFIESTO = PENDIENTE DE SÍNTESIS MULTIDOMINIO
 ISSUE = 148
 ```
 
@@ -255,240 +300,285 @@ ISSUE = 148
 
 # EN · English
 
-## 1. Why this content fits better as a delta
+## 1. Revision of the initial formulation
 
-The corpus already has sufficient architecture to study power, vulnerability, masculinity, relational predation and human equality. Immediately creating a new manifesto would risk duplicating existing pieces before demonstrating that the new archetype contributes an irreducible function.
+The first formulation of NeoMantis™ was too close to one specific sexual problem: the possibility that mechanisms created to protect women may, in certain contexts, end up inferiorising men.
 
-For that reason **NeoMantis™ enters first as a relational delta**.
+That case remains legitimate as an **applied hypothesis to be audited**, but it does not contain the complete archetype.
 
-Its function is to complete a tension that is still insufficiently explicit:
-
-```text
-CORRECTING A HISTORICAL ASYMMETRY
-≠ REVERSING THE HIERARCHY
-
-PROTECTING SOMEONE FACING A SPECIFIC RISK
-≠ DECLARING THE OTHER SEX INFERIOR, SUSPECT OR DISPENSABLE
-```
-
-If Synthesis demonstrates a distinct, stable pattern that cannot be absorbed by LXIX, LXX or LXXII, it may later mature into an autonomous manifesto.
-
-## 2. What NeoMantis™ means
-
-The mantis functions here as an **archetypal interface**, not as a naturalistic description of human women.
-
-NeoMantis™ represents the moment when a relationship that was meant to recover balance becomes organised as an asymmetry capable of **functionally consuming the other pole**: its dignity, voice, presumption of humanity, bonds, reputation, resources, capacity for defence or right to be recognised as vulnerable too.
+NeoMantis™ appears before sex. It appears when the architecture of a relation loses reciprocity and gives one part a destructive lever that the system ceases to counterbalance, limit, review or repair.
 
 ```text
-WOMAN ≠ NEOMANTIS™
-BIOLOGICAL FEMALE ≠ NEOMANTIS™
-FEMINISM ≠ NEOMANTIS™
-PROTECTION OF WOMEN ≠ NEOMANTIS™
+NEOMANTIS™
+≠ WOMAN
+≠ MAN
+≠ FEMINISM
+≠ MASCULINITY
+≠ MINORITY
+≠ MAJORITY
+≠ SPECIFIC INSTITUTION
 
 NEOMANTIS™
-= INVERTED ASYMMETRY
-+ INSTRUMENTALISATION
-+ DISPOSABILITY OF THE OTHER
-+ DENIAL OF THE OTHER'S VULNERABILITY
-+ IMPUNITY OR JUSTIFICATION BY IDENTITY
+= SYSTEMIC PATTERN OF UNBALANCED POWER
 ```
 
-The pattern may be reproduced by a woman, a man, an institution, an algorithm, a media organisation, an organisation, a market or a cultural norm. It does not require a female author.
+The identity of the dominant pole may change. The structure is what remains.
 
-## 3. The central problem: equality that stops being equality
+## 2. Candidate operational definition
 
-An equality policy loses coherence if it corrects one injustice by making another human category less protected in principle.
-
-Neodialectics already states in LXIX:
+NeoMantis™ designates a configuration in which several conditions converge:
 
 ```text
-EQUALITY OF DIGNITY
-≠ EQUALITY OF VULNERABILITY
+LEGITIMATE DIFFERENCE OR CONFLICT
++ ASYMMETRIC POWER RULE
++ DISPROPORTIONATE DESTRUCTIVE LEVER
++ LOW COST OF HARMING
++ HIGH COST OF DEFENCE OR REPAIR
++ RESPONSIBILITY DECOUPLED FROM POWER
++ LOSS OF RECIPROCITY
+→ NEOMANTIS™
 ```
 
-NeoMantis™ adds the reciprocal direction:
+A difference in strength is not enough. Every society contains functional, protective, temporary or legitimate asymmetries.
+
+The NeoMantis™ threshold appears when the asymmetry ceases to serve the whole and allows one part to consume vital capacity from the other without sufficient counterweight.
+
+## 3. The core: destruction of the common fractal
+
+The system's error is to confuse a local victory with an improvement of the whole.
 
 ```text
-VULNERABILITY
-→ MUST BE MEASURED IN THE CASE
-→ NOT ASSUMED AS THE PERMANENT MONOPOLY OF ONE SEX
+LOCAL GAIN OF ONE POLE
+≠ GAIN OF THE SYSTEM
 
-RESPONSIBILITY
-→ CONDUCT + POWER + EVIDENCE
-→ NOT GUILT BY SEX
+WEAKENING THE OTHER
+≠ STRENGTHENING THE RELATION
+
+ELIMINATING THE COUNTERWEIGHT
+≠ ACHIEVING BALANCE
 ```
 
-Specific protection may be legitimate where a specific risk exists. It becomes anti-human when it turns a protected category into a morally superior category and the other into a subject degraded by default.
+When two poles are parts of a common relation —person and community, citizen and institution, worker and organisation, woman and man, majority and minority, user and platform, centre and periphery— functionally destroying one of them may impoverish the information, diversity, cooperation, reproduction, correction or adaptive capacity of the whole.
 
-## 4. The degraded male as a hypothesis of functional annihilation
+NeoMantis™ names precisely that failure: **local power acquires the capacity to consume what the complete system needs to preserve in order to remain a system**.
 
-“Annihilation of the male” is not fixed here as physical extinction or as a total social fact.
+```text
+ANNIHILATION OF THE POLE
+→ RUPTURE OF RELATION
+→ LOSS OF CONTRAST
+→ LOSS OF RECIPROCITY
+→ DEGRADATION OF THE COMMON FRACTAL
+```
 
-A more precise category is proposed: **functional annihilation of the male** when different mechanisms converge to reduce his condition as a subject.
+## 4. Relation to LXXIV · Asymmetry of Destruction™
 
-It may include, where evidence demonstrates it in concrete cases:
+LXXIV identifies a general law: destroying, blocking, degrading or confusing may cost far less than building, preserving or repairing.
 
-- cultural presumption of dangerousness or guilt by sex;
+NeoMantis™ adds a relational layer:
+
+```text
+LXXIV
+→ ASYMMETRY BETWEEN THE COST OF CREATING AND THE COST OF DESTROYING
+
+NEOMANTIS™
+→ ONE POLE RECEIVES OR ACCUMULATES THE DESTRUCTIVE LEVER
+→ THE OTHER BEARS THE MAIN COST
+→ THE RULES CEASE TO PROTECT THE BALANCE OF THE WHOLE
+```
+
+For that reason NeoMantis™ does not yet need to become an autonomous manifesto. It can function as a **cross-cutting delta of LXXIV** while also relating equality, vulnerability, identity, power and preservation of the common organism.
+
+## 5. Sexual application: functional degradation of men as a hypothesis
+
+The case that originated this revision is not removed. It is repositioned within a larger architecture.
+
+A NeoMantis™ instance may exist if, in a concrete domain and with sufficient evidence, legal, institutional, cultural, economic or algorithmic rules give one part disproportionate capacity to harm the other by sex while reducing the latter's mechanisms of defence, recognition or repair.
+
+In the male case, the hypothesis to be audited includes possible processes such as:
+
+- presumption of dangerousness, guilt or lesser value by sex;
 - invisibility of male victims of violence, coercion or abuse;
-- trivialisation of male psychological suffering;
-- normalisation of male physical or occupational disposability;
-- unjustified loss of family bonds or capacity to provide care;
-- reputational destruction without sufficient mechanisms for challenge;
-- economic or relational exploitation presented as a natural male duty;
-- unilateral expectation of sacrifice, provision, protection or risk;
-- ridicule of vulnerability, affection, loneliness or need for help;
-- denial of institutional protection because a man does not fit the expected victim pattern.
+- trivialisation of male psychological suffering, loneliness or vulnerability;
+- normalisation of male physical, occupational or military disposability;
+- unjustified loss of family or parental bonds or capacity to provide care;
+- reputational harm with insufficient challenge or repair;
+- unilateral obligation of provision, protection, sacrifice or risk;
+- practical denial of protection for failing to match the culturally expected victim pattern.
 
-None of these points is treated as universal or automatically attributed to a policy, movement or sex. Each requires sources, incidence, comparison and counterexamples.
+“Annihilation of the male” is thus made more precise as **functional annihilation of men**: accumulated loss of condition as subjects, capacity for bonds, defence, care, voice or recognition. It is not fixed here as physical extinction or as a universal diagnosis of contemporary society.
 
-## 5. Faun™ and NeoMantis™ do not form a war of the sexes
+## 6. The rule is reciprocal: the sex of the pole does not define NeoMantis™
 
-The Faun™ studies especially a masculine degradation: power without custodianship that instrumentalises other people.
+The same structure exists if destructive power runs in the opposite direction.
 
-NeoMantis™ must not become its simplistic mirror of the “predatory woman”.
+A system that allows men to degrade, coerce, exploit, silence or destroy women with sufficient impunity may also instantiate the NeoMantis™ pattern.
 
-The useful relation is different:
+The test does not first ask **who is male or female**, but:
 
 ```text
-FAUN™
-= POWER WITHOUT CUSTODIANSHIP
-→ THE OTHER BECOMES A RESOURCE
-
-NEOMANTIS™
-= PROTECTION / POWER / LEGITIMACY WITHOUT RECIPROCITY
-→ THE OTHER BECOMES DISPENSABLE
+WHO HOLDS THE LEVER?
+WHAT CAN IT DESTROY?
+HOW MUCH DOES HARMING COST?
+HOW MUCH DOES DEFENCE COST?
+WHO MUST PROVE WHAT?
+IS CHALLENGE POSSIBLE?
+IS REPAIR POSSIBLE?
+DOES RESPONSIBILITY GROW WITH POWER?
+WHAT DOES THE COMMON FRACTAL LOSE?
 ```
 
-Both are **functional patterns of dehumanisation**, not sexual essences.
+This prevents the archetype from becoming another identity war.
 
-The same society can correctly protect women from Faun™ patterns while also correcting contexts in which men are treated as less protectable subjects.
+## 7. Legitimate protection does not equal destructive imbalance
 
-## 6. Custodian Man™: custodianship also of oneself
+The existence of specific protection does not by itself constitute NeoMantis™.
 
-LXXII must not be read as an obligation for men to sacrifice themselves indefinitely for others.
-
-Custodianship needs to include **self-custodianship**.
+LXIX already distinguishes equality of dignity from equality of vulnerability. One part may require greater protection in a concrete situation because of physical strength, dependency, age, information, economic capacity, statistical risk or real capacity to exit.
 
 ```text
-CARE FOR OTHERS
-+ CARE FOR ONE'S OWN LIMITS
-+ ABILITY TO SAY NO
-+ ABILITY TO LEAVE
-+ ABILITY TO ASK FOR PROTECTION
-+ ABILITY TO BE VULNERABLE
-= COMPLETE HUMAN CUSTODIANSHIP
-```
+PROPORTIONAL PROTECTION
+≠ PRIVILEGE TO DESTROY
 
-A man reduced to a tool for provision, defence, work, risk or responsibility without reciprocity has not reached a higher form of masculinity: he has lost part of his condition as a subject.
-
-## 7. Relation to Human Citizenship™ and equality
-
-LII establishes that no difference of origin should become a human hierarchy. The same principle can be projected onto sex:
-
-```text
-SEX
+PROTECTIVE ASYMMETRY
 ≠ HIERARCHY OF DIGNITY
 
-SEX
-≠ INHERITED GUILT
-
-SEX
-≠ RIGHT TO HARM
-
-SEX
-≠ RIGHT TO BE IGNORED WHEN SUFFERING HARM
+REPAIRING AN INEQUALITY
+≠ MANUFACTURING AN INVERSE INFERIORITY
 ```
 
-Neodialectical equality does not require denying statistical patterns or material differences. It requires preventing a statistic from replacing the concrete person.
+The question is whether protection preserves evidence, proportionality, challenge, review, limits and a return toward autonomy, or whether it turns into unilateral power without sufficient control.
 
-## 8. Anti-human interests: hypothesis, not automatic attribution
+## 8. Anti-human interests: systemic incentive before conspiracy
 
-The intuition of “anti-human interests” must be decomposed before intent is attributed.
+NeoMantis™ also makes it possible to study why a system may produce destructive polarisation without requiring a single centre that designed it.
 
-Systems may obtain value from confrontation between men and women without a single centre designing it:
+Incentives may exist that extract value from dividing poles that should cooperate:
 
-- attention economy;
-- polarising content;
-- markets based on insecurity and comparison;
-- industries of seduction, pornification or resentment;
+- attention economy and polarising content;
 - zero-sum identity politics;
-- algorithms that reward conflict;
-- organisations that need permanent enemies;
-- business models that turn loneliness, fear or grievance into retention.
+- industries based on insecurity, resentment or fear;
+- markets that monetise loneliness, comparison or conflict;
+- algorithms that reward reaction and confrontation;
+- organisations whose continuity depends on permanent enemies;
+- bureaucracies that preserve power because the problem is never resolved.
 
 ```text
-ANTI-HUMAN INCENTIVE
-≠ PROVEN CONSPIRACY
+ANTI-HUMAN EFFECT
+≠ PROVEN ANTI-HUMAN INTENTION
 
-SYSTEMIC EFFECT
-≠ SINGLE INTENTION
+DESTRUCTIVE INCENTIVE
+≠ PROVEN COORDINATED CONSPIRACY
 ```
 
-Synthesis should ask who gains what benefit, through which mechanism and with what evidence.
+The audit must ask who benefits, through which mechanism, what alternatives exist, and what evidence allows intention to be attributed where appropriate.
 
-## 9. Neodialectical symmetry test
+## 9. NeoMantis™ and identity: the part cannot become the Whole
 
-Every rule, discourse or practice related to sex can be subjected to a minimum test:
+LII and XLV provide a direct relation. Equal dignity does not imply erasing differences, but no difference should automatically become a hierarchy of human worth.
+
+NeoMantis™ adds a test for rules of power:
 
 ```text
-1. DOES IT PROTECT A REAL VULNERABILITY?
-2. DOES IT ATTRIBUTE RESPONSIBILITY BY CONDUCT OR BY CATEGORY?
-3. DOES IT ALLOW CHALLENGE AND EVIDENCE?
-4. DOES IT RECOGNISE VICTIMS OUTSIDE THE MAJORITY PATTERN?
-5. DOES IT PRESERVE EQUAL DIGNITY?
-6. DOES IT HAVE CAPACITY FOR REVISION?
-7. DOES IT PRODUCE A NEW UNJUSTIFIED ASYMMETRY?
+IDENTITY
+≠ GUILT
+≠ AUTOMATIC INNOCENCE
+≠ RIGHT TO DESTROY
+≠ RIGHT TO BE DESTROYED
+
+PROTECTED PART
+≠ SOVEREIGN PART OVER THE WHOLE
+
+HISTORICALLY HARMED PART
+≠ PART AUTHORISED TO REPRODUCE THE HARM
 ```
 
-If an intervention passes the first six and avoids the seventh, it is in principle compatible with reciprocal equality.
+Repair ceases to be repair when it needs to structurally degrade another human component in order to sustain itself.
 
-## 10. Candidate principle: Reciprocity of Vulnerability™
+## 10. Candidate: Principle of Preservation of the Common Fractal™
 
-The following is proposed for Synthesis without elevating it to a canonical Neoaxiom:
+The following is proposed for Synthesis without yet elevating it to a canonical Neoaxiom:
 
-> **Dignity does not change by sex. Vulnerability must be measured in the concrete situation and protection must respond to real risk. No repair of one asymmetry legitimises manufacturing an inverse inferiority.**
+> **No legitimate balance can be built by granting one part a stable capacity to destroy another necessary part of the same system with impunity. Correcting an asymmetry must increase the integrity of the common fractal, not transfer the licence to degrade from one pole to the other.**
 
-Operational form:
+Candidate operational form:
 
 ```text
 EQUAL DIGNITY
++ RECOGNISED REAL DIFFERENCE
 + CONTEXTUAL VULNERABILITY
-+ RESPONSIBILITY BY CONDUCT
-+ PROPORTIONAL PROTECTION
-+ RIGHT TO CHALLENGE
++ LIMITED POWER
++ RESPONSIBILITY PROPORTIONAL TO POWER
++ CHALLENGE
++ REPAIR
 + RECIPROCITY
-= OPERATIONAL HUMAN EQUALITY
+→ PRESERVATION OF THE COMMON FRACTAL
 ```
 
-## 11. Audit required before any autonomous manifesto
+## 11. NeoMantis™ test
 
-Before turning NeoMantis™ into a manifesto, comparable evidence should be assembled across at least these planes:
-
-- legislation and case law;
-- protection from violence and access to resources;
-- custody, family and parental bonds;
-- education and socialisation;
-- physical and mental health;
-- suicide, loneliness and access to help;
-- work, occupational risk and disposability;
-- media representation;
-- reputation, accusation and right to challenge;
-- sexual and relational victimisation;
-- algorithms, advertising and attention economy.
-
-The audit must also include evidence of inequality that continues to affect women specifically, because any theory that only seeks confirmation of male harm would reproduce the same bias it seeks to correct.
-
-## 12. Delta status
+A rule, institution, platform, relation or practice can be subjected to a minimum test:
 
 ```text
-NEOMANTIS™ = CANDIDATE ARCHETYPE
+1. WHAT POLES FORM THE SYSTEM?
+2. WHAT ASYMMETRY EXISTS AND WHY?
+3. WHICH PART HOLDS DESTRUCTIVE CAPACITY?
+4. IS THE COST OF HARMING LOWER THAN THE COST OF DEFENDING OR REPAIRING?
+5. IS RESPONSIBILITY PROPORTIONAL TO REAL POWER?
+6. DO EVIDENCE, CHALLENGE, APPEAL AND REPAIR EXIST?
+7. IS PROTECTION CONTEXTUAL OR HAS IT BECOME A PERMANENT PRIVILEGE?
+8. DOES IDENTITY REPLACE CONDUCT AS THE CRITERION?
+9. DOES THE LOCAL GAIN OF ONE POLE PRODUCE SYSTEMIC LOSS?
+10. WHAT COUNTEREXAMPLE REFUTES THE DIAGNOSIS?
+```
+
+Without this sequence, NeoMantis™ would risk becoming a rhetorical label applicable to any conflict.
+
+## 12. Required audit
+
+The hypothesis must be tested across different domains before claiming full conceptual autonomy:
+
+- sex, partnership, family, custody and parental bonds;
+- violence, victimisation, reporting, defence and repair;
+- education, mental health, loneliness and socialisation;
+- work, risk, provision and disposability;
+- public institutions and citizenship;
+- company, worker and contractual power;
+- platforms, moderation, reputation and appeal;
+- majority, minority and collective identities;
+- centre, periphery and territorial distribution of power;
+- algorithms, automation and attention economy.
+
+In every domain, cases where protective asymmetry is necessary and works correctly must also be sought. A theory that only collects favourable examples does not pass Open Synthesis.
+
+## 13. Delta or manifesto
+
+**Recommended status: CROSS-CUTTING DELTA.**
+
+The reason is not lack of conceptual strength, but still-high overlap with LXXIV · Asymmetry of Destruction™, LXIX · Defence of Human Innocence™, XLV · Multidimensionality and the relational candidates C-NAX-19/C-NAX-20.
+
+NeoMantis™ would justify an autonomous manifesto if scrutiny demonstrates that its irreducible function is stable across different domains:
+
+```text
+ASYMMETRY OF DESTRUCTION
++ CONCENTRATION OF THE LEVER IN ONE POLE
++ DEGRADATION OF THE COUNTERWEIGHT
++ LOSS OF THE COMMON FRACTAL
+= DISTINCT REPLICABLE PATTERN
+```
+
+Until then:
+
+```text
+NEOMANTIS™ = CANDIDATE SYSTEMIC ARCHETYPE
 WOMAN =/= NEOMANTIS™
+MAN =/= NEOMANTIS™
 MAN =/= VICTIM BY ESSENCE
-FUNCTIONAL ANNIHILATION OF THE MALE = AUDITABLE HYPOTHESIS
-GENERAL NORMATIVE INFERIORISATION OF MEN = NOT PROVEN HERE
-COORDINATED ANTI-HUMAN INTERESTS = NOT PROVEN
-INVERTED ASYMMETRY = LEGITIMATE OBJECT OF AUDIT
-RECIPROCITY OF VULNERABILITY™ = CANDIDATE PRINCIPLE
-PROMOTION TO MANIFESTO = PENDING SYNTHESIS AND EVIDENCE
+FUNCTIONAL DEGRADATION OF MEN = AUDITABLE APPLIED HYPOTHESIS
+FUNCTIONAL DEGRADATION OF WOMEN = SAME STRUCTURAL TEST
+COORDINATED ANTI-HUMAN INTERESTS = NOT PROVEN HERE
+SYSTEMIC IMBALANCE OF FORCES = CORE OF THE DELTA
+DESTRUCTION OF THE COMMON FRACTAL = CENTRAL CONSEQUENCE
+PRINCIPLE OF PRESERVATION OF THE COMMON FRACTAL™ = CANDIDATE
+PROMOTION TO MANIFESTO = PENDING MULTI-DOMAIN SYNTHESIS
 ISSUE = 148
 ```
