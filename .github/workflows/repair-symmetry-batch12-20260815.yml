@@ -30,20 +30,8 @@ jobs:
           path.write_text(text[:start]+body+text[end:],encoding='utf-8')
       - name: Recalculate audit
         run: python .github/scripts/audit_global_bilingual_symmetry.py
+      - name: Print residual failure
+        shell: bash
+        run: sed -n '/## Fallos divididos \/ Split failures/,/## Marcadores \/ Markers/p' auditorias/publicas/2026-08-12_auditoria_global_simetria_ES_EN.md
       - name: Validate
         run: git diff --check
-      - name: Commit if clean
-        shell: bash
-        run: |
-          set -euo pipefail
-          python - <<'PY'
-          from pathlib import Path
-          r=Path('auditorias/publicas/2026-08-12_auditoria_global_simetria_ES_EN.md').read_text(encoding='utf-8')
-          if 'Split structural failures: **0**' not in r or 'Paired surfaces for review: **0**' not in r or 'Marker failures: **0**' not in r:
-              raise SystemExit('global audit not clean after formatting alignment')
-          PY
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md auditorias/publicas/2026-08-12_auditoria_global_simetria_ES_EN.md
-          git commit -m 'fix: align legacy English formatting and close bilingual audit'
-          git push origin HEAD:main
