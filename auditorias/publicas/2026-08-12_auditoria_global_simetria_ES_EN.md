@@ -25,7 +25,7 @@
 - `analisis/README.md` · ES=758 · EN=725 · ratio=0.96
   - Criterio documental: párrafos ES=2 EN=3
 - `analisis/auditorias/README.md` · ES=172 · EN=163 · ratio=0.95
-  - Regla de continuidad: párrafos ES=2 EN=1
+  - Regla de continuidad: párrafos ES=3 EN=2
 - `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` · ES=621 · EN=600 · ratio=0.97
   - 6: párrafos ES=3 EN=5
 - `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` · ES=825 · EN=782 · ratio=0.95
@@ -315,7 +315,7 @@
 | `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, '')] |
 | `analisis/INDEX.md` | **REVISAR** | Criterio organizativo: párrafos ES=2 EN=4 |
 | `analisis/README.md` | **REVISAR** | Criterio documental: párrafos ES=2 EN=3 |
-| `analisis/auditorias/README.md` | **REVISAR** | Regla de continuidad: párrafos ES=2 EN=1 |
+| `analisis/auditorias/README.md` | **REVISAR** | Regla de continuidad: párrafos ES=3 EN=2 |
 | `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Parte II — Dajla, mafias migratorias y control estatal / La infraestructura oculta de la presión fronteriza / Part II — Dakhla, migrant-smuggling networks and state control / Versión en español / Parte II — Dajla, mafias migratorias y control estatal / Utilización política del ecosistema / Acusación extraordinaria sin prueba suficiente / Conclusión / English version / Part II — Dakhla, migrant-smuggling networks and state control / Political use of the ecosystem / Extraordinary allegation without sufficient evidence |
 | `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` | **OK** |  |
