@@ -9,7 +9,7 @@
 
 - Markdown activo examinado / Active Markdown scanned: **291**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **209**.
-- Fallos estructurales divididos / Split structural failures: **34**.
+- Fallos estructurales divididos / Split structural failures: **18**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **24**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -22,26 +22,8 @@
   - Debate para Síntesis Abierta: párrafos ES=3 EN=4
 - `analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md` · ES=1721 · EN=1706 · ratio=0.99
   - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (2, '4'), (3, ''), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (3, ''), (3, ''), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17')] EN=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (2, '4'), (3, ''), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (3, ''), (3, ''), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17'), (2, '')]
-- `analisis/publicos/2026-08-09_guerra_fundador_contra_idiotez_devolucion_tiempo_bien_comun_ES_EN.md` · ES=1144 · EN=1110 · ratio=0.97
-  - 10: párrafos ES=3 EN=4
-- `analisis/publicos/2026-08-09_maxproc_registro_entrada_trazabilidad_derivacion_herosion_ES_EN.md` · ES=754 · EN=760 · ratio=1.01
-  - 12: párrafos ES=3 EN=4
 - `analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md` · ES=1080 · EN=1091 · ratio=1.01
   - 13: párrafos ES=0 EN=1
-- `anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md` · ES=365 · EN=355 · ratio=0.97
-  - Manifiestos: párrafos ES=1 EN=2
-- `anuncios/2026-08-07_OCTAVA_OLEADA_PROTECCION_INTEGRAL_INFANCIA_ES_EN.md` · ES=212 · EN=210 · ratio=0.99
-  - Arquitectura propuesta: párrafos ES=1 EN=2
-- `anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md` · ES=274 · EN=272 · ratio=0.99
-  - XLII · Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva: párrafos ES=7 EN=8
-- `auditorias/publicas/2026-08-08_auditoria_readmes_enlaces_estado_XLII_ES_EN.md` · ES=142 · EN=137 · ratio=0.96
-  - Estado del índice de manifiestos: párrafos ES=2 EN=3
-- `auditorias/publicas/2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md` · ES=794 · EN=774 · ratio=0.97
-  - 10: párrafos ES=0 EN=1
-- `auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md` · ES=1512 · EN=1512 · ratio=1.00
-  - Enlaces internos rotos del grafo vivo: párrafos ES=0 EN=1
-- `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` · ES=598 · EN=574 · ratio=0.96
-  - Abrir una auditoría nueva: párrafos ES=2 EN=3
 - `auditorias/publicas/README.md` · ES=493 · EN=565 · ratio=1.15
   - 4 · Privacidad, límites y reapertura: párrafos ES=1 EN=2
 - `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · ES=1606 · EN=1537 · ratio=0.96
@@ -67,29 +49,14 @@
   - XIX: párrafos ES=6 EN=5
 - `propuestas/sintesis-abierta/2026-08-11_DELTA_HUMANIDAD_COMUN_MADURACION_INVERTIDA_TROL_BOT_MAL_SISTEMICO_ES_EN.md` · ES=859 · EN=834 · ratio=0.97
   - 22: párrafos ES=0 EN=1
-- `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · ES=187 · EN=193 · ratio=1.03
-  - Auditoría musical DistroKid–Spotify–DSP: párrafos ES=1 EN=2
 - `propuestas/sintesis-abierta/NEOCRONOS_RETORNO_TEMPORAL_TOKENIZACION_ES_EN.md` · ES=504 · EN=502 · ratio=1.00
   - 12: párrafos ES=1 EN=2
 - `propuestas/sintesis-abierta/NEOCRONOS_UPGRADE_ENTRADA_PANEL_TRAZA_ES_EN.md` · ES=515 · EN=555 · ratio=1.08
   - Fases de implementación: párrafos ES=5 EN=6
-- `propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md` · ES=795 · EN=801 · ratio=1.01
-  - 12: párrafos ES=2 EN=3
-- `propuestas/sintesis-abierta/PUENTE_PARTICIPACION_GUIADA_CORREO_GITHUB_ES_EN.md` · ES=522 · EN=501 · ratio=0.96
-  - 8: párrafos ES=2 EN=3
-- `propuestas/sintesis-abierta/RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md` · ES=806 · EN=795 · ratio=0.99
-  - 14: párrafos ES=2 EN=3
-- `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md` · ES=282 · EN=287 · ratio=1.02
-  - Seguir la evolución: párrafos ES=0 EN=1
 - `propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_365_DIAS_ES_EN.md` · ES=380 · EN=413 · ratio=1.09
   - Regla de apertura permanente: párrafos ES=4 EN=5
-- `proyeccion/POLITICA_SIMETRIA_BILINGUE_ES_EN.md` · ES=485 · EN=480 · ratio=0.99
-  - VIII: párrafos ES=1 EN=2
 - `proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md` · ES=1013 · EN=979 · ratio=0.97
   - 11: párrafos ES=4 EN=3
-  - Principio de Proyección por Pertinencia™: párrafos ES=3 EN=4
-- `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md` · ES=197 · EN=197 · ratio=1.00
-  - 6: párrafos ES=1 EN=2
 - `wiki-source/NeoGenealogia.md` · ES=307 · EN=282 · ratio=0.92
   - Qué es: párrafos ES=3 EN=2
 
@@ -160,8 +127,8 @@
 | `analisis/publicos/2026-08-08_techno_bach_record_semanal_apple_music_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md` | **OK** |  |
-| `analisis/publicos/2026-08-09_guerra_fundador_contra_idiotez_devolucion_tiempo_bien_comun_ES_EN.md` | **REVISAR** | 10: párrafos ES=3 EN=4 |
-| `analisis/publicos/2026-08-09_maxproc_registro_entrada_trazabilidad_derivacion_herosion_ES_EN.md` | **REVISAR** | 12: párrafos ES=3 EN=4 |
+| `analisis/publicos/2026-08-09_guerra_fundador_contra_idiotez_devolucion_tiempo_bien_comun_ES_EN.md` | **OK** |  |
+| `analisis/publicos/2026-08-09_maxproc_registro_entrada_trazabilidad_derivacion_herosion_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-09_micromaquinas_plagas_escala_invisible_estado_real_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-09_prueba_operativa_minima_revision_ia_escalable_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md` | **OK** |  |
@@ -183,11 +150,11 @@
 | `anuncios/2026-08-06_SEGUNDA_OLEADA_MANIFIESTOS_NEOPANDORA_ES_EN.md` | **OK** |  |
 | `anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md` | **OK** |  |
 | `anuncios/2026-08-07_ANUNCIO_CINCO_OLEADAS_MANIFIESTOS_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
-| `anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md` | **REVISAR** | Manifiestos: párrafos ES=1 EN=2 |
-| `anuncios/2026-08-07_OCTAVA_OLEADA_PROTECCION_INTEGRAL_INFANCIA_ES_EN.md` | **REVISAR** | Arquitectura propuesta: párrafos ES=1 EN=2 |
+| `anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md` | **OK** |  |
+| `anuncios/2026-08-07_OCTAVA_OLEADA_PROTECCION_INTEGRAL_INFANCIA_ES_EN.md` | **OK** |  |
 | `anuncios/2026-08-07_QUINTA_OLEADA_TRANSICION_AUDITORIA_ATENCION_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md` | **OK** |  |
-| `anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md` | **REVISAR** | XLII · Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva: párrafos ES=7 EN=8 |
+| `anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md` | **OK** |  |
 | `anuncios/2026-08-08_LII_CIUDADANIA_HUMANA_NEODIALECTICA_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `anuncios/2026-08-08_XLVII_ODIO_SINO_GOAT_SOMBRA_DOBLE_CARA_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: The Goat, Sombra, Vínculo y Doble Cara de la Vida |
 | `anuncios/2026-08-08_XLVI_CERRAR_LA_HERIDA_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria |
@@ -208,17 +175,17 @@
 | `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-08_auditoria_integral_correlacion_manifiestos_trabajo_aplicado_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-08_auditoria_oneshots_github_actions_carreras_noop_y_estado_final_ES_EN.md` | **OK** |  |
-| `auditorias/publicas/2026-08-08_auditoria_readmes_enlaces_estado_XLII_ES_EN.md` | **REVISAR** | Estado del índice de manifiestos: párrafos ES=2 EN=3 |
+| `auditorias/publicas/2026-08-08_auditoria_readmes_enlaces_estado_XLII_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-08_barrida_enlaces_manifiestos_articulos_XLVIII_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `auditorias/publicas/2026-08-08_postcheck_XLIV_neowar_enlaces_readmes_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Postcheck XLIV · Neowar™ · enlaces y READMEs / XLIV postcheck · Neowar™ · links and READMEs |
 | `auditorias/publicas/2026-08-08_postcheck_XLV_multidimensionalidad_enlaces_readmes_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Postcheck XLV · Multidimensionalidad Neodialéctica™ · enlaces y READMEs / XLV postcheck · Neodialectical Multidimensionality™ · links and READMEs |
-| `auditorias/publicas/2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md` | **REVISAR** | 10: párrafos ES=0 EN=1 |
+| `auditorias/publicas/2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-09_auditoria_paridad_ES_EN_manifiestos_articulos.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Auditoría de paridad ES/EN · manifiestos y artículos públicos |
 | `auditorias/publicas/2026-08-09_auditoria_paridad_bilingue_manifiestos_neoaxiomas_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Auditoría de paridad bilingüe no reductiva / Regla de conservación |
 | `auditorias/publicas/2026-08-09_auditoria_regresiones_historicas_manifiestos_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Auditoría histórica no reductiva de manifiestos |
 | `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Auditoría relacional MAXPROC · Manifiestos ↔ Neoaxiomas ↔ publicaciones ↔ Síntesis Abierta / Cocitación documental · candidatos de relación para revisión SAN |
 | `auditorias/publicas/2026-08-09_distrokid_ticket_4499471_royalty_routing_ES_EN.md` | **OK** |  |
-| `auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md` | **REVISAR** | Enlaces internos rotos del grafo vivo: párrafos ES=0 EN=1 |
+| `auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-09_postcheck_neocore_7_1_integridad_relacional_no_reductiva_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Postcheck NEOCore™ 7.1 · integridad relacional y no reductiva |
 | `auditorias/publicas/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-10_auditoria_responsabilidad_historica_infraestructuras_publicas_espana_ES_EN.md` | **OK** |  |
@@ -232,7 +199,7 @@
 | `auditorias/publicas/2026-08-12_auditoria_registro_canonico_manifiestos_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `auditorias/publicas/2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: ES / HECHO VERIFICADO / PrepFort, 2077AI y otros nombres / 11 · Protocolo de aportación / EN / VERIFIED FACT / PrepFort, 2077AI and other names / 11 · Contribution protocol |
 | `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: ES / EN |
-| `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **REVISAR** | Abrir una auditoría nueva: párrafos ES=2 EN=3 |
+| `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/README.md` | **REVISAR** | 4 · Privacidad, límites y reapertura: párrafos ES=1 EN=2 |
 | `difusion/2026-08-09_marco_tanda_01_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Difusión del marco · tanda 01 · 2026-08-09 |
 | `difusion/2026-08-09_marco_tanda_02_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Difusión del marco · tanda 02 · 2026-08-09 |
@@ -344,27 +311,27 @@
 | `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/GUIA_RAPIDA_APORTAR_EVIDENCIA_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
-| `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` | **REVISAR** | Auditoría musical DistroKid–Spotify–DSP: párrafos ES=1 EN=2 |
+| `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/MEDICI_CREDITOS_PLATAFORMAS_COMPENSACION_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/MEDICI_MOTOR_CALCULO_PLATAFORMAS_V0_1_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Neoaxiomas™ · Síntesis Abierta |
 | `propuestas/sintesis-abierta/NEOCRONOS_RETORNO_TEMPORAL_TOKENIZACION_ES_EN.md` | **REVISAR** | 12: párrafos ES=1 EN=2 |
 | `propuestas/sintesis-abierta/NEOCRONOS_UPGRADE_ENTRADA_PANEL_TRAZA_ES_EN.md` | **REVISAR** | Fases de implementación: párrafos ES=5 EN=6 |
-| `propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md` | **REVISAR** | 12: párrafos ES=2 EN=3 |
+| `propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/PARTICIPACION_Y_ADHESIONES_ES_EN.md` | **OK** |  |
-| `propuestas/sintesis-abierta/PUENTE_PARTICIPACION_GUIADA_CORREO_GITHUB_ES_EN.md` | **REVISAR** | 8: párrafos ES=2 EN=3 |
-| `propuestas/sintesis-abierta/RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md` | **REVISAR** | 14: párrafos ES=2 EN=3 |
+| `propuestas/sintesis-abierta/PUENTE_PARTICIPACION_GUIADA_CORREO_GITHUB_ES_EN.md` | **OK** |  |
+| `propuestas/sintesis-abierta/RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/README.md` | **OK** |  |
-| `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md` | **REVISAR** | Seguir la evolución: párrafos ES=0 EN=1 |
+| `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_365_DIAS_ES_EN.md` | **REVISAR** | Regla de apertura permanente: párrafos ES=4 EN=5 |
 | `proyeccion/2026-08-11_delta_web4_neocore_patrimonio_comun_aprendizaje_creacion_ES_EN.md` | **OK** |  |
 | `proyeccion/2026-08-13_DIRECCION_WEB4_NEOCRONOS_AGUILA_ES_EN.md` | **OK** |  |
 | `proyeccion/NEOCORE_7_2_DELTA_ES_EN.md` | **OK** |  |
 | `proyeccion/NEOCORE_7_2_EXTERNAL_REVIEW_BRIEF_ES_EN.md` | **OK** |  |
-| `proyeccion/POLITICA_SIMETRIA_BILINGUE_ES_EN.md` | **REVISAR** | VIII: párrafos ES=1 EN=2 |
-| `proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md` | **REVISAR** | 11: párrafos ES=4 EN=3; Principio de Proyección por Pertinencia™: párrafos ES=3 EN=4 |
+| `proyeccion/POLITICA_SIMETRIA_BILINGUE_ES_EN.md` | **OK** |  |
+| `proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md` | **REVISAR** | 11: párrafos ES=4 EN=3 |
 | `proyeccion/README.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Proyección y difusión trazable / Genealogía y salvaguarda |
-| `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md` | **REVISAR** | 6: párrafos ES=1 EN=2 |
+| `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md` | **OK** |  |
 | `web4/2026-08-10_POSTCHECK_WEB4_7_2_IDEA_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Postcheck WEB4™ · NEOCore™ 7.2 + IDEA / Límite de verificación |
 | `web4/README.md` | **OK** |  |
 | `wiki-source/Analisis_Neodialecticos_Publicos.md` | **OK** |  |
