@@ -67,10 +67,10 @@
 | `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` | 943 | 912 | 0.97 | 15 | 15 | OK |
 | `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` | 1251 | 1236 | 0.99 | 15 | 15 | OK |
 | `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` | 1679 | 1621 | 0.97 | 17 | 17 | OK |
-| `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` | 1606 | 1975 | 1.23 | 23 | 24 | OK |
+| `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` | 1606 | 1980 | 1.23 | 23 | 24 | OK |
 | `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | 1961 | 1967 | 1.00 | 17 | 17 | OK |
 | `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | 1822 | 1850 | 1.02 | 16 | 17 | OK |
-| `manifiestos/37_neofraternidad_ES_EN.md` | 1047 | 1060 | 1.01 | 15 | 15 | OK |
+| `manifiestos/37_neofraternidad_ES_EN.md` | 1047 | 1057 | 1.01 | 15 | 15 | OK |
 | `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` | 2431 | 2386 | 0.98 | 28 | 28 | OK |
 | `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` | 1207 | 1230 | 1.02 | 14 | 14 | OK |
 | `manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md` | 1177 | 1190 | 1.01 | 15 | 15 | OK |
@@ -83,11 +83,11 @@
 | `manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md` | 1687 | 1738 | 1.03 | 18 | 18 | OK |
 | `manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md` | 2677 | 2670 | 1.00 | 29 | 29 | OK |
 | `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md` | 1252 | 1288 | 1.03 | 20 | 20 | OK |
-| `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` | 1427 | 1414 | 0.99 | 20 | 20 | OK |
-| `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md` | 1443 | 1452 | 1.01 | 16 | 16 | OK |
-| `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` | 1449 | 1477 | 1.02 | 21 | 22 | OK |
+| `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` | 1427 | 1435 | 1.01 | 20 | 20 | OK |
+| `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md` | 1443 | 1468 | 1.02 | 16 | 16 | OK |
+| `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` | 1449 | 1475 | 1.02 | 21 | 22 | OK |
 | `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` | 1161 | 1161 | 1.00 | 14 | 14 | OK |
-| `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md` | 1992 | 1985 | 1.00 | 21 | 22 | OK |
+| `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md` | 1992 | 1994 | 1.00 | 21 | 22 | OK |
 | `manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md` | 906 | 923 | 1.02 | 14 | 14 | OK |
 | `manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md` | 1396 | 1351 | 0.97 | 16 | 16 | OK |
 | `manifiestos/57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md` | 556 | 546 | 0.98 | 9 | 9 | OK |
@@ -126,7 +126,7 @@
 | `analisis/publicos/2026-08-08_delta_poder_incentivos_tokenizacion_y_transicion_neodialectica_ES_EN.md` | 908 | 954 | 1.05 | 12 | 13 | OK |
 | `analisis/publicos/2026-08-08_distrokid_ticket_4499471_respuesta_no_resolutiva_y_reiteracion_auditoria_ES_EN.md` | 754 | 713 | 0.95 | 8 | 8 | OK |
 | `analisis/publicos/2026-08-08_estado_correo_difusion_idea_y_adhesiones_sintesis_ES_EN.md` | 409 | 373 | 0.91 | 12 | 12 | OK |
-| `analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md` | 1721 | 1706 | 0.99 | 21 | 22 | OK |
+| `analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md` | 1738 | 1706 | 0.98 | 22 | 22 | OK |
 | `analisis/publicos/2026-08-08_techno_bach_record_semanal_apple_music_ES_EN.md` | 335 | 343 | 1.02 | 5 | 5 | OK |
 | `analisis/publicos/2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md` | 1245 | 1208 | 0.97 | 14 | 14 | OK |
 | `analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md` | 1070 | 1202 | 1.12 | 11 | 12 | OK |
