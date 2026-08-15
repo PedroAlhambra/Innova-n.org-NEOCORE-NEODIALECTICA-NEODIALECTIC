@@ -9,7 +9,7 @@
 
 - Markdown activo examinado / Active Markdown scanned: **291**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **209**.
-- Fallos estructurales divididos / Split structural failures: **12**.
+- Fallos estructurales divididos / Split structural failures: **10**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **24**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -20,8 +20,6 @@
   - 2: párrafos ES=8 EN=7
 - `analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md` · ES=1721 · EN=1706 · ratio=0.99
   - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (2, '4'), (3, ''), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (3, ''), (3, ''), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17')] EN=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (2, '4'), (3, ''), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (3, ''), (3, ''), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17'), (2, '')]
-- `analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md` · ES=1080 · EN=1091 · ratio=1.01
-  - 13: párrafos ES=0 EN=1
 - `auditorias/publicas/README.md` · ES=493 · EN=565 · ratio=1.15
   - 4 · Privacidad, límites y reapertura: párrafos ES=1 EN=2
 - `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · ES=1606 · EN=1537 · ratio=0.96
@@ -45,8 +43,6 @@
   - VII: párrafos ES=6 EN=4
   - XVIII: párrafos ES=3 EN=2
   - XIX: párrafos ES=6 EN=5
-- `propuestas/sintesis-abierta/2026-08-11_DELTA_HUMANIDAD_COMUN_MADURACION_INVERTIDA_TROL_BOT_MAL_SISTEMICO_ES_EN.md` · ES=859 · EN=834 · ratio=0.97
-  - 22: párrafos ES=0 EN=1
 
 ## Marcadores / Markers
 
@@ -123,7 +119,7 @@
 | `analisis/publicos/2026-08-10_LXII_juego_sintesis_honor_starkdr_ransol_arboles_tiempo_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-10_LXI_genetica_ADN_neopandora_placa_petri_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-10_addendum_tidal_yellow_quasar_perfil_duplicado_uno_playlists_ES_EN.md` | **OK** |  |
-| `analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md` | **REVISAR** | 13: párrafos ES=0 EN=1 |
+| `analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-13_convergencia-neodialectica-meta-zuckerberg_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: ES / EN |
 | `analisis/publicos/README.md` | **OK** |  |
@@ -289,7 +285,7 @@
 | `propuestas/sintesis-abierta/2026-08-09_LV_micromaquinas_plagas_escala_invisible_debate_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `propuestas/sintesis-abierta/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md` | **OK** |  |
-| `propuestas/sintesis-abierta/2026-08-11_DELTA_HUMANIDAD_COMUN_MADURACION_INVERTIDA_TROL_BOT_MAL_SISTEMICO_ES_EN.md` | **REVISAR** | 22: párrafos ES=0 EN=1 |
+| `propuestas/sintesis-abierta/2026-08-11_DELTA_HUMANIDAD_COMUN_MADURACION_INVERTIDA_TROL_BOT_MAL_SISTEMICO_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-15_C_NAX_23_CONSERVACION_FRACTAL_COMUN_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `propuestas/sintesis-abierta/2026-08-15_DELTA_NEOMANTIS_ASIMETRIA_INVERTIDA_DIGNIDAD_RECIPROCA_ES_EN.md` | **OK** |  |
