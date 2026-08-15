@@ -25,11 +25,18 @@ La propuesta queda abierta a contradicción jurídica, política, económica y s
 
 ## EN
 
-**Manifesto LII · Neodialectical Human Citizenship™ · From blood and soil to functional civic belonging** is now public.
+The **Manifesto LII · Neodialectical Human Citizenship™ · From blood and soil to functional civic belonging** is now public.
 
-The proposal separates universal human dignity from ancestry, birthplace and administrative nationality while preserving the need for territorial administration, residence rules, taxation, security, public services and concrete responsibilities.
+The proposal questions whether a person's basic political dignity should derive from blood, ancestry or place of birth. It does not eliminate the need for territorial administration, residence, taxation, security, public services or concrete responsibilities. It separates those functions from common human dignity.
 
-It introduces the **Principle of Equality of Human Belonging™**, **Principle of Non-Commodification of Belonging™**, **Principle of Multiscale Belonging™** and **Principle of Continuity of Human Protection™**.
+New principles:
+
+- **Principle of Equality of Human Belonging™**;
+- **Principle of Non-Commodification of Belonging™**;
+- **Principle of Multiscale Belonging™**;
+- **Principle of Continuity of Human Protection™**.
+
+The proposal remains open to legal, political, economic and social contradiction through Open Synthesis.
 
 - [Read Manifesto LII](../manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md)
 - [Foundational analysis](../analisis/publicos/2026-08-08_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_funcional_ES_EN.md)
