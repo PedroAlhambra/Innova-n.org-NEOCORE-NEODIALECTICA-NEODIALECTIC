@@ -6,10 +6,10 @@
 
 > ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LXXV · Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™**
+> **LXXVI · El Altavoz sin Síntesis™ · Diagnóstico, Ruido, Ego y Responsabilidad de Construcción / The Loudspeaker without Synthesis™ · Diagnosis, Noise, Ego and the Responsibility to Build**
 >
-> **[Leer LXXV / Read LXXV](../manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md) · [Síntesis Abierta LXXV · #134 / Open Synthesis LXXV · #134](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/134)**  
-> [Seguir marco / Follow framework](../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [Registrar entrada / Register entry](../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Cómo aportar / How to contribute](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas / Public audits](../auditorias/publicas/README.md) · [75 manifiestos / manifestos · I–LXXV](../manifiestos/README.md)
+> **[Leer LXXVI / Read LXXVI](../manifiestos/76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md) · [Síntesis Abierta LXXVI · #149 / Open Synthesis LXXVI · #149](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/149)**  
+> [Seguir marco / Follow framework](../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [Registrar entrada / Register entry](../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Cómo aportar / How to contribute](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas / Public audits](../auditorias/publicas/README.md) · [76 manifiestos / manifestos · I–LXXVI](../manifiestos/README.md)
 
 <!-- NEO_LATEST_MANIFESTO_END -->
 
@@ -35,7 +35,7 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 ## Manifiestos / Manifestos
 
-**I–LXXV · 75 manifiestos bilingües · 24 oleadas / 75 bilingual manifestos · 24 waves.**  
+**I–LXXVI · 76 manifiestos bilingües · 24 oleadas / 76 bilingual manifestos · 24 waves.**  
 Los manifiestos son pilares públicos del marco, no equivalentes al marco completo. / The manifestos are public pillars of the framework, not equivalents of the complete framework.
 
 **[Abrir índice canónico y navegable / Open canonical navigable index →](../manifiestos/README.md)**
@@ -48,7 +48,7 @@ Los manifiestos son pilares públicos del marco, no equivalentes al marco comple
 
 Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. / You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta.
 
-**Última síntesis / Latest synthesis:** [LXXV · Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™](../manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md) · [Issue #134](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/134)  
+**Última síntesis / Latest synthesis:** [LXXVI · El Altavoz sin Síntesis™ · Diagnóstico, Ruido, Ego y Responsabilidad de Construcción / The Loudspeaker without Synthesis™ · Diagnosis, Noise, Ego and the Responsibility to Build](../manifiestos/76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md) · [Issue #149](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/149)  
 **Seguimiento vivo / Living follow-up:** [seguir el marco / follow the framework](../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [registro de entrada / entry register](../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)  
 **Auditorías / Audits:** [LIII · Leónidas™](../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo / protocol](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
 **Cómo aportar / How to contribute:** [protocolo general / general protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../auditorias/publicas/README.md) · [índice / index](../propuestas/sintesis-abierta/README.md)

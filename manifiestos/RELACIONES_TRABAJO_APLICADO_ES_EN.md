@@ -2,7 +2,7 @@
 # Transversal map · Manifestos ↔ applied work
 
 **Estado / Status:** público · relacional · vivo / public · relational · living  
-**Cobertura / Coverage:** I–LXXV · 75 manifiestos finitos + ∞ como continuidad abierta / 75 finite manifestos I–LXXV + ∞ as open continuity  
+**Cobertura / Coverage:** I–LXXVI · 76 manifiestos finitos + ∞ como continuidad abierta / 76 finite manifestos I–LXXVI + ∞ as open continuity  
 **Función / Function:** relacionar principios, análisis, auditorías, obras, protocolos, evidencias y casos mediante enlaces internos, sin convertir correlación documental en prueba causal. / Relate principles, analyses, audits, works, protocols, evidence and cases through internal links without turning documentary correlation into causal proof.
 
 ---
@@ -40,7 +40,7 @@ Casos y análisis principales:
 
 ---
 
-## Matriz completa I–LXXV / Complete I–LXXV matrix
+## Matriz completa I–LXXVI / Complete I–LXXVI matrix
 
 <a id="manifiesto-i"></a>
 ### I · [Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica / Neo0™ Manifesto of Neodialectical Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md)
@@ -436,6 +436,17 @@ Casos y análisis principales:
 - **Interconexiones / Interconnections:** [VI · Manifiesto sobre el Parasitismo Sistémico / Manifesto on Systemic Parasitism](./09_parasitismo_sistemico_ES_EN.md) · [XVI · Manifiesto de la Refragmentación Arquetípica™ / Manifesto of Archetypal Refragmentation™](./16_refragmentacion_arquetipica_ES_EN.md) · [XVII · Manifiesto del Respeto a Todos los Seres Vivos™ / Manifesto of Respect for All Living Beings™](./17_respeto_todos_seres_vivos_ES_EN.md) · [XL · Respeto Neodialéctico, Neoego y Honor Relacional™ / Neodialectical Respect, Neoego and Relational Honour™](./40_respeto_neoego_honor_relacional_ES_EN.md) · [LXXIV · Asimetría de la Destrucción™ · Del Trol Humano al Bot / Asymmetry of Destruction™ · From the Human Troll to the Bot](./74_asimetria_destruccion_trol_humano_bot_ES_EN.md).
 
 **Regla probatoria / Evidentiary rule:** Memoria Material-Relacional™ no equivale a consciencia, intención ni almacenamiento deliberado; las categorías empíricas de biología, ecología, geología, genética, climatología, química o física conservan prioridad dentro de sus dominios. / Material-Relational Memory™ is not equivalent to consciousness, intention or deliberate storage; empirical categories from biology, ecology, geology, genetics, climatology, chemistry or physics retain priority within their domains.
+
+## LXXVI · El Altavoz sin Síntesis™ · Diagnóstico, Ruido, Ego y Responsabilidad de Construcción / The Loudspeaker without Synthesis™ · Diagnosis, Noise, Ego and Responsibility to Build
+
+- **Manifiesto / Manifesto:** [LXXVI · El Altavoz sin Síntesis™ / The Loudspeaker without Synthesis™](./76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md).
+- **Relación / Relation:** B–C · diagnóstico sin integración, amplificación mediática, autoridad epistemológica, ego, ruido informado y responsabilidad de construir una Síntesis común / diagnosis without integration, media amplification, epistemic authority, ego, informed noise and responsibility to build a common Synthesis.
+- **Síntesis Abierta / Open Synthesis:** [#149](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/149).
+- **Candidatos neoaxiomáticos / Neoaxiomatic candidates:** [C-NAX-23 · Conservación del Fractal Común™ / Conservation of the Common Fractal™](../propuestas/sintesis-abierta/2026-08-15_C_NAX_23_CONSERVACION_FRACTAL_COMUN_ES_EN.md) · [C-NAX-24 · Diagnóstico ≠ Síntesis™ / Diagnosis ≠ Synthesis™](../propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md).
+- **Interconexiones / Interconnections:** [XII · Los sin ego / The Egoless](./12_los_sin_ego_ES_EN.md) · [XXII · Contra la Reducción y la Captura Intelectual™ / Against Intellectual Reduction and Capture™](./22_contra_reduccion_captura_intelectual_ES_EN.md) · [XXXV · Contra la Ridiculez Mediática y la Economía del Conflicto™ / Against Media Absurdity and the Conflict Economy™](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) · [LXXIV · Asimetría de la Destrucción™ / Asymmetry of Destruction™](./74_asimetria_destruccion_trol_humano_bot_ES_EN.md).
+
+**Regla probatoria / Evidentiary rule:** visibilidad, prestigio o capacidad de detectar problemas no equivalen por sí solos a una síntesis superior; toda alternativa que iguale o mejore las funciones trazables de Síntesis Abierta™ debe poder entrar en contraste y ser integrada sin apropiación genealógica. / visibility, prestige or problem-detection ability do not by themselves amount to a superior synthesis; any alternative that equals or improves the traceable functions of Open Synthesis™ must be open to scrutiny and integration without genealogical appropriation.
+
 
 <!-- NEO_RELATIONS_LXXV_END -->
 

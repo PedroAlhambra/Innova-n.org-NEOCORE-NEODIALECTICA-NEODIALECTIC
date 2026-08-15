@@ -490,7 +490,7 @@ Neodialectics is peace because it does not require erasing memory or differences
 ## Navegación canónica / Canonical navigation
 
 ← **LXVI** · [NeoSinergia™ · Necesidad de Cooperación en Neowar™ Activa · Sistema MÉDICI™ · Leónidas–Cancerbero™ / NeoSynergy™ · Necessary Cooperation under Active Neowar™ · MÉDICI™ System · Leónidas–Cerberus™](LXVI_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)  
-· [Índice I–LXXV / I–LXXV index](../README.md) ·  
+· [Índice I–LXXVI / I–LXXVI index](../README.md) ·  
 **LXVIII** · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species](LXVIII_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->

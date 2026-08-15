@@ -489,7 +489,17 @@ Archetypal Neodialectical Philosophy™ proposes reversing that reading.
 
 > **Wealth does not belong only to those who can replace. It also belongs to those who know how to preserve, transform, restore and return function to what the system had declared waste.**
 
-A broken object preserves matter, already invested energy, design, human work, memory and sometimes beauty.
+A broken object preserves matter.
+
+It preserves already invested energy.
+
+It preserves design.
+
+It preserves human work.
+
+It preserves memory.
+
+Sometimes it preserves beauty.
 
 Discarding it without trying to understand it can be both a material and cognitive loss.
 
@@ -614,13 +624,17 @@ The art of residue reveals a truth of the framework:
 
 ## VII. Against cultural obsolescence
 
-Obsolescence is not only technical. It can also be cultural.
+Obsolescence is not only technical.
+
+It can also be cultural.
 
 When a society learns that repair is shameful, that using something old means failure and that buying new equals progress, consumption stops answering only to need and begins organising identity.
 
 This connects with the [Manifesto Against Anti-Humanist Neuromarketing™](XXXI_contra_neuromarketing_antihumanista_ES_EN.md).
 
-A permanent-replacement system needs to manufacture the desire to discard. Neodialectics proposes manufacturing **pride in preservation**.
+A permanent-replacement system needs to manufacture the desire to discard.
+
+Neodialectics proposes manufacturing **pride in preservation**.
 
 ## VIII. Design for repair
 
@@ -823,7 +837,9 @@ If material recovery is a central function, it should receive:
 
 > **Before extracting new matter for a function that can reasonably be met through maintenance, repair, reuse, remanufacturing or safe recovery, the system should evaluate second life first.**
 
-This is not an absolute prohibition on manufacturing. It is a reversal of decision order.
+This is not an absolute prohibition on manufacturing.
+
+It is a reversal of decision order.
 
 ```text
 CAN WE MAINTAIN?
@@ -841,7 +857,9 @@ ONLY THEN: WHAT DO WE NEED TO MANUFACTURE NEW?
 
 ## XIX. Visible and invisible wealth
 
-GDP may register the sale of a new object. It may also register some repairs.
+GDP may register the sale of a new object.
+
+It may also register some repairs.
 
 But much of the value of preserving, sharing, exchanging, maintaining or reusing may remain culturally undervalued.
 
@@ -936,7 +954,7 @@ Open questions:
 
 Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. / You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta.
 
-**Última síntesis / Latest synthesis:** [LXXV · Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™](LXXV_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md) · [Issue #134](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/134)  
+**Última síntesis / Latest synthesis:** [LXXVI · El Altavoz sin Síntesis™ · Diagnóstico, Ruido, Ego y Responsabilidad de Construcción / The Loudspeaker without Synthesis™ · Diagnosis, Noise, Ego and the Responsibility to Build](LXXVI_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md) · [Issue #149](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/149)  
 **Seguimiento vivo / Living follow-up:** [seguir el marco / follow the framework](../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [registro de entrada / entry register](../../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)  
 **Auditorías / Audits:** [LIII · Leónidas™](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo / protocol](../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
 **Cómo aportar / How to contribute:** [protocolo general / general protocol](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../../auditorias/publicas/README.md) · [índice / index](../../propuestas/sintesis-abierta/README.md)
@@ -958,7 +976,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 ## Navegación canónica / Canonical navigation
 
 ← **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)  
-· [Índice I–LXXV / I–LXXV index](../README.md) ·  
+· [Índice I–LXXVI / I–LXXVI index](../README.md) ·  
 **LV** · [Manifiesto del Ataque de las Micromáquinas™ · Las Plagas de la Escala Invisible / Manifesto of the Attack of the Micromachines™ · The Plagues of the Invisible Scale](LV_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
@@ -982,7 +1000,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 - **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
 - **LV** · [Manifiesto del Ataque de las Micromáquinas™ · Las Plagas de la Escala Invisible / Manifesto of the Attack of the Micromachines™ · The Plagues of the Invisible Scale](LV_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md)
 - **LXVI** · [NeoSinergia™ · Necesidad de Cooperación en Neowar™ Activa · Sistema MÉDICI™ · Leónidas–Cancerbero™ / NeoSynergy™ · Necessary Cooperation under Active Neowar™ · MÉDICI™ System · Leónidas–Cerberus™](LXVI_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
-- **LXXV** · [Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™](LXXV_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md)
+- **LXXVI** · [El Altavoz sin Síntesis™ · Diagnóstico, Ruido, Ego y Responsabilidad de Construcción / The Loudspeaker without Synthesis™ · Diagnosis, Noise, Ego and the Responsibility to Build](LXXVI_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 

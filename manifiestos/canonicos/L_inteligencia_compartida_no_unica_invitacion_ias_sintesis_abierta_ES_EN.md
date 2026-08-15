@@ -862,6 +862,8 @@ We especially seek experimental implementations enabling comparison of how diffe
 * [XLIX · Meeting Point between Cultures™](XLIX_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)
 * [XLVIII · The Synthesis Sees Everything™](XLVIII_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
 * [V · Human–AI Symbiosis](V_simbiosis_humano_ia_ES_EN.md)
+* [IX · Memory, Genealogy and Traceability](IX_memoria_genealogia_trazabilidad_ES_EN.md)
+* [X · WEB4™ · SistemaTrazable™](X_web4_sistematrazable_ES_EN.md)
 * [Manifesto index](../README.md)
 
 ## Navigation
@@ -873,7 +875,7 @@ We especially seek experimental implementations enabling comparison of how diffe
 ## Navegación canónica / Canonical navigation
 
 ← **XLIX** · [La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™](XLIX_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)  
-· [Índice I–LXXV / I–LXXV index](../README.md) ·  
+· [Índice I–LXXVI / I–LXXVI index](../README.md) ·  
 **LI** · [Síntesis Abierta como Poder Cívico Complementario o Sustitutivo™ / Open Synthesis as Complementary or Substitutive Civic Power™](LI_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->

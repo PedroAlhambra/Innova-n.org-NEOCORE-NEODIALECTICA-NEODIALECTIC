@@ -785,7 +785,7 @@ Contributions are invited on cultural interoperability, translation of meaning, 
 ## Navegación canónica / Canonical navigation
 
 ← **XLVIII** · [La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo / The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine](48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)  
-· [Índice I–LXXV / I–LXXV index](README.md) ·  
+· [Índice I–LXXVI / I–LXXVI index](README.md) ·  
 **L** · [Por una Inteligencia Compartida, no Única™ · Invitación Abierta a las IAs / For Shared, Not Singular Intelligence™ · Open Invitation to AIs](50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->

@@ -702,7 +702,7 @@ La relación documental indica afinidad conceptual, genealogía, contraste o apl
 
 Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. / You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta.
 
-**Última síntesis / Latest synthesis:** [LXXV · Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™](LXXV_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md) · [Issue #134](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/134)  
+**Última síntesis / Latest synthesis:** [LXXVI · El Altavoz sin Síntesis™ · Diagnóstico, Ruido, Ego y Responsabilidad de Construcción / The Loudspeaker without Synthesis™ · Diagnosis, Noise, Ego and the Responsibility to Build](LXXVI_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md) · [Issue #149](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/149)  
 **Seguimiento vivo / Living follow-up:** [seguir el marco / follow the framework](../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [registro de entrada / entry register](../../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)  
 **Auditorías / Audits:** [LIII · Leónidas™](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo / protocol](../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
 **Cómo aportar / How to contribute:** [protocolo general / general protocol](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../../auditorias/publicas/README.md) · [índice / index](../../propuestas/sintesis-abierta/README.md)
@@ -724,7 +724,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 ## Navegación canónica / Canonical navigation
 
 ← **XIII** · [Manifiesto NeoPandora™ de la Apertura Regenerativa y el Gobierno de la Vida / NeoPandora™ Manifesto of Regenerative Opening and the Governance of Life](XIII_neopandora_apertura_regenerativa_ES_EN.md)  
-· [Índice I–LXXV / I–LXXV index](../README.md) ·  
+· [Índice I–LXXVI / I–LXXVI index](../README.md) ·  
 **XV** · [Manifiesto de los Titanes™ · El despertar de la gente / Manifesto of the Titans™ · The Awakening of the People](XV_los_titanes_despertar_de_la_gente_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
@@ -752,7 +752,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 - **XXXI** · [Manifiesto contra el Neuromarketing Antihumanista™ / Manifesto against Anti-Humanist Neuromarketing™](XXXI_contra_neuromarketing_antihumanista_ES_EN.md)
 - **XXXII** · [Manifiesto de la Reversión Ideológica Neodialéctica™ / Manifesto of Neodialectical Ideological Reversal™](XXXII_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md)
 - **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
-- **LXXV** · [Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™](LXXV_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md)
+- **LXXVI** · [El Altavoz sin Síntesis™ · Diagnóstico, Ruido, Ego y Responsabilidad de Construcción / The Loudspeaker without Synthesis™ · Diagnosis, Noise, Ego and the Responsibility to Build](LXXVI_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 

@@ -303,6 +303,10 @@
     "LXXV": {
       "legacy": "manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md",
       "canonical": "manifiestos/canonicos/LXXV_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md"
+    },
+    "LXXVI": {
+      "legacy": "manifiestos/76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md",
+      "canonical": "manifiestos/canonicos/LXXVI_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md"
     }
   }
 }

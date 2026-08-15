@@ -729,7 +729,8 @@ We especially seek counterexamples enabling distinction between useful symbolic 
 * [Analysis · Institutional accessibility and citizen escalation](../../analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md)
 * [L · Shared, Not Singular Intelligence™](L_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
 * [XXXVI · Crown, Eagle and Custodianship of the Age of Man™](XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md)
-* [Manifesto index](../README.md)
+* [X · WEB4™ · SistemaTrazable™](X_web4_sistematrazable_ES_EN.md)
+* [II · Neodialectical Open Synthesis™](II_sintesis_abierta_neodialectica_ES_EN.md)
 
 ## Navigation
 
@@ -740,7 +741,7 @@ We especially seek counterexamples enabling distinction between useful symbolic 
 ## Navegación canónica / Canonical navigation
 
 ← **L** · [Por una Inteligencia Compartida, no Única™ · Invitación Abierta a las IAs / For Shared, Not Singular Intelligence™ · Open Invitation to AIs](L_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)  
-· [Índice I–LXXV / I–LXXV index](../README.md) ·  
+· [Índice I–LXXVI / I–LXXVI index](../README.md) ·  
 **LII** · [Manifiesto de la Ciudadanía Humana Neodialéctica™ / Manifesto of Neodialectical Human Citizenship™](LII_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->

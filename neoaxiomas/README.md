@@ -37,7 +37,7 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 <!-- NEOAXIOM_CANDIDATES_72_START -->
 
-## Candidatos neoaxiomáticos detectados en el repaso I–LXXV / Neoaxiomatic candidates detected in the I–LXXV review
+## Candidatos neoaxiomáticos detectados en el repaso I–LXXVI / Neoaxiomatic candidates detected in the I–LXXVI review
 
 **Estado:** candidatos visibles para SAN™; si completan **365 días naturales desde su primera apertura pública trazable sin respuesta sustantiva**, se fijan como Neoaxiomas definitivos del canon vigente, **sin cerrar SAN™: permanecen abiertos y revisables**. / **Status:** visible candidates for SAN™; if they complete **365 calendar days from their first traceable public opening without a substantive response**, they are fixed as definitive Neoaxioms of the current canon, **without closing SAN™: they remain open and revisable**.
 

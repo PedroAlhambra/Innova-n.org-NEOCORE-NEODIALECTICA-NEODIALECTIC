@@ -636,8 +636,8 @@ The door remains open.
 
 ## Navegación canónica / Canonical navigation
 
-← **LXXV** · [Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™](75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md)  
-· [Índice I–LXXVI / I–LXXVI index](README.md) ·  
+← **LXXV** · [Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™](LXXV_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md)  
+· [Índice I–LXXVI / I–LXXVI index](../README.md) ·  
 **Fin provisional de la colección / Provisional end of collection** →
 
 <!-- NEO_MANIFESTO_NAV_END -->
@@ -648,20 +648,20 @@ The door remains open.
 
 > **Norma / Rule:** las menciones cruzadas pueden permanecer en el cuerpo como texto para no sobrecargar la lectura; este bloque concentra los hipervínculos canónicos detectados y permite retorno explícito a fuente. / Cross-references may remain as prose in the body to avoid visual overload; this block concentrates detected canonical hyperlinks and preserves explicit return to source.
 
-- **II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md)
-- **XII** · [Los sin ego / The Egoless](./12_los_sin_ego_ES_EN.md)
-- **XXII** · [Manifiesto contra la Reducción y la Captura Intelectual™ / Manifesto against Intellectual Reduction and Capture™](./22_contra_reduccion_captura_intelectual_ES_EN.md)
-- **XXXV** · [Contra la Ridiculez Mediática y la Economía del Conflicto™ / Against Media Absurdity and the Conflict Economy™](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
-- **XLV** · [Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder / Neodialectical Multidimensionality™ · Against the One-Dimensional Reduction of the Human and Power](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
-- **LXVIII** · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species](./68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
-- **LXXIV** · [Asimetría de la Destrucción™ · Del Trol Humano al Bot / Asymmetry of Destruction™ · From the Human Troll to the Bot](./74_asimetria_destruccion_trol_humano_bot_ES_EN.md)
-- **LXXV** · [Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™](./75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md)
+- **II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](II_sintesis_abierta_neodialectica_ES_EN.md)
+- **XII** · [Los sin ego / The Egoless](XII_los_sin_ego_ES_EN.md)
+- **XXII** · [Manifiesto contra la Reducción y la Captura Intelectual™ / Manifesto against Intellectual Reduction and Capture™](XXII_contra_reduccion_captura_intelectual_ES_EN.md)
+- **XXXV** · [Contra la Ridiculez Mediática y la Economía del Conflicto™ / Against Media Absurdity and the Conflict Economy™](XXXV_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
+- **XLV** · [Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder / Neodialectical Multidimensionality™ · Against the One-Dimensional Reduction of the Human and Power](XLV_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
+- **LXVIII** · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species](LXVIII_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
+- **LXXIV** · [Asimetría de la Destrucción™ · Del Trol Humano al Bot / Asymmetry of Destruction™ · From the Human Troll to the Bot](LXXIV_asimetria_destruccion_trol_humano_bot_ES_EN.md)
+- **LXXV** · [Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™](LXXV_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 
-- [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
-- [NEOCore™ · marco / framework](../README.md)
+- [Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md)
+- [NEOCore™ · marco / framework](../../README.md)
 
-**Neoaxiomas mencionados / Mentioned Neoaxioms:** `C-NAX-16` · `C-NAX-23` · `C-NAX-24` → [Neoaxiomas™](../neoaxiomas/README.md)
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `C-NAX-16` · `C-NAX-23` · `C-NAX-24` → [Neoaxiomas™](../../neoaxiomas/README.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->

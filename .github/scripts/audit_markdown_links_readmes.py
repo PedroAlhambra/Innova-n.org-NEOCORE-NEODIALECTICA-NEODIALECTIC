@@ -102,7 +102,7 @@ if canonical:
     if web4_readme.exists():
         wr = web4_readme.read_text(encoding='utf-8', errors='replace')
         low_wr = wr.lower()
-        if 'innova-n.org' not in wr or 'no es demo' not in low_wr or 'segunda web' not in low_wr:
+        if 'innova-n.org' not in wr or ('no es demo' not in low_wr and 'no es una demo' not in low_wr) or 'segunda web' not in low_wr:
             critical.append('web4/README.md debe fijar web4/ como documentación/fuente y innova-n.org como WEB4 viva, sin presentarlo como DEMO ni segunda web. / web4/README.md must define web4/ as documentation/source and innova-n.org as the living WEB4, not as a DEMO or second site.')
     if web4_reader.exists():
         wh = web4_reader.read_text(encoding='utf-8', errors='replace')
