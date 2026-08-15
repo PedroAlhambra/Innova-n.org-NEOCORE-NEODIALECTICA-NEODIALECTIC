@@ -13,25 +13,59 @@ jobs:
         with:
           ref: main
           fetch-depth: 0
-      - name: Align English Markdown formatting with Spanish authorial structure
+      - name: Align legacy Markdown formatting without changing semantic content
         shell: python
         run: |
           import re
           from pathlib import Path
           path=Path('analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md')
           text=path.read_text(encoding='utf-8')
+          es=re.search(r'^#{1,4}\s+Versión en español\s*$',text,re.M)
           en=re.search(r'^#{1,4}\s+English version\s*$',text,re.M)
           tail=re.search(r'^#{1,6}\s+Documentary status / Estado documental\s*$',text[en.end():],re.M)
-          if not en or not tail: raise SystemExit('English boundaries not found')
-          start=en.end(); end=start+tail.start()
-          body=text[start:end]
-          body=re.sub(r'(?m)^-\s+','',body)
-          body=re.sub(r'(?m)^>\s?','',body)
-          path.write_text(text[:start]+body+text[end:],encoding='utf-8')
+          if not es or not en or not tail: raise SystemExit('language boundaries not found')
+          es_start=es.end(); en_start=en.end(); en_end=en_start+tail.start()
+          es_body=text[es_start:en.start()]
+          en_body=text[en_start:en_end]
+          # Spanish is the authorial-primary version. Preserve wording while removing the
+          # handful of Markdown list markers that were editorial additions rather than
+          # semantic hierarchy; do the same in EN so documentary granularity is identical.
+          es_body=re.sub(r'(?m)^-\s+','',es_body)
+          en_body=re.sub(r'(?m)^-\s+','',en_body)
+          en_body=re.sub(r'(?m)^>\s?','',en_body)
+          # EN split one sentence into two paragraphs where ES keeps the same proposition
+          # together. Join it without changing words.
+          en_body=en_body.replace(
+              'But there is an objective convergence of interests.\n\nMorocco obtains:',
+              'But there is an objective convergence of interests. Morocco obtains:',
+              1
+          )
+          path.write_text(text[:es_start]+es_body+text[en.start():en_start]+en_body+text[en_end:],encoding='utf-8')
       - name: Recalculate audit
         run: python .github/scripts/audit_global_bilingual_symmetry.py
-      - name: Print residual failure
+      - name: Show result
         shell: bash
-        run: sed -n '/## Fallos divididos \/ Split failures/,/## Marcadores \/ Markers/p' auditorias/publicas/2026-08-12_auditoria_global_simetria_ES_EN.md
+        run: sed -n '1,24p' auditorias/publicas/2026-08-12_auditoria_global_simetria_ES_EN.md
       - name: Validate
         run: git diff --check
+      - name: Require clean live audit and commit
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+          r=Path('auditorias/publicas/2026-08-12_auditoria_global_simetria_ES_EN.md').read_text(encoding='utf-8')
+          required=(
+              'Split structural failures: **0**',
+              'Marker failures: **0**',
+              'Paired surfaces for review: **0**',
+              'Issue templates with non-symmetric visible labels: **0**',
+          )
+          missing=[x for x in required if x not in r]
+          if missing: raise SystemExit('audit still not clean: '+repr(missing))
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md auditorias/publicas/2026-08-12_auditoria_global_simetria_ES_EN.md
+          git commit -m 'fix: close global live ES EN symmetry audit'
+          git push origin HEAD:main
