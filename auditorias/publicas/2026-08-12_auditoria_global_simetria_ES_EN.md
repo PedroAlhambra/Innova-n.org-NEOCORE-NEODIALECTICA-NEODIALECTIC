@@ -8,39 +8,109 @@
 ## Resumen / Summary
 
 - Markdown activo examinado / Active Markdown scanned: **291**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **228**.
-- Fallos estructurales divididos / Split structural failures: **6**.
-- Fallos de marcadores / Marker failures: **3**.
-- Superficies pareadas para revisión / Paired surfaces for review: **19**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **226**.
+- Fallos estructurales divididos / Split structural failures: **40**.
+- Fallos de marcadores / Marker failures: **1**.
+- Superficies pareadas para revisión / Paired surfaces for review: **20**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
 
-- `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · ES=724 · EN=426 · ratio=0.59
-  - volumen EN/ES=0.59 (426/724)
-  - 2: párrafos ES=7 EN=5
-  - 4: quotes ES=8 EN=0
+- `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · ES=3046 · EN=2684 · ratio=0.88
+  - **Patrón institucional observado**: párrafos ES=34 EN=35
+- `analisis/README.md` · ES=758 · EN=866 · ratio=1.14
+  - esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (3, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (3, ''), (2, ''), (2, ''), (2, '')]
+- `analisis/auditorias/README.md` · ES=172 · EN=304 · ratio=1.77
+  - volumen EN/ES=1.77 (304/172)
+  - esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, '')]
+- `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · ES=1099 · EN=680 · ratio=0.62
+  - volumen EN/ES=0.62 (680/1099)
+  - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, ''), (2, '4'), (2, '5'), (3, ''), (3, ''), (2, '6'), (2, '7'), (2, '8')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, ''), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8')]
 - `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · ES=6000 · EN=5912 · ratio=0.99
   - esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')]
-- `analisis/publicos/evidencias/README.md` · ES=18 · EN=128 · ratio=7.11
-  - esqueleto de encabezados distinto ES=[] EN=[(3, ''), (3, '')]
+- `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` · ES=1285 · EN=1295 · ratio=1.01
+  - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (3, ''), (2, '9'), (3, ''), (2, '10')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (3, ''), (2, '9'), (3, ''), (2, '10'), (2, '')]
+- `analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md` · ES=807 · EN=805 · ratio=1.00
+  - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '')]
+- `analisis/publicos/2026-08-08_delta_poder_incentivos_tokenizacion_y_transicion_neodialectica_ES_EN.md` · ES=908 · EN=954 · ratio=1.05
+  - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (3, ''), (3, ''), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9')] EN=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (3, ''), (3, ''), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9'), (2, '')]
+- `analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md` · ES=1070 · EN=1202 · ratio=1.12
+  - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9'), (2, '10'), (2, '11')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9'), (2, '10'), (2, '11'), (2, '')]
+- `analisis/publicos/2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md` · ES=433 · EN=482 · ratio=1.11
+  - esqueleto de encabezados distinto ES=[(2, '1'), (3, ''), (3, ''), (2, '2'), (3, ''), (2, '3')] EN=[(2, '1'), (3, ''), (3, ''), (2, '2'), (3, ''), (2, '3'), (2, '')]
+- `analisis/publicos/2026-08-13_convergencia-neodialectica-meta-zuckerberg_ES_EN.md` · ES=785 · EN=762 · ratio=0.97
+  - 9: párrafos ES=0 EN=1
+- `analisis/publicos/evidencias/README.md` · ES=204 · EN=128 · ratio=0.63
+  - volumen EN/ES=0.63 (128/204)
+  - esqueleto de encabezados distinto ES=[(2, ''), (3, ''), (3, ''), (3, '')] EN=[(3, ''), (3, '')]
 - `anuncios/2026-08-08_LII_CIUDADANIA_HUMANA_NEODIALECTICA_ES_EN.md` · ES=137 · EN=104 · ratio=0.76
   - volumen EN/ES=0.76 (104/137)
+- `auditorias/publicas/2026-08-07_postcheck_enlaces_y_sincronizacion_XXXV_ES_EN.md` · ES=61 · EN=96 · ratio=1.57
+  - esqueleto de encabezados distinto ES=[] EN=[(2, '')]
+- `auditorias/publicas/2026-08-07_postcheck_final_simetria_limpia_I_XXXVI_ES_EN.md` · ES=36 · EN=103 · ratio=2.86
+  - esqueleto de encabezados distinto ES=[] EN=[(2, ''), (2, ''), (2, ''), (3, '')]
+- `auditorias/publicas/2026-08-07_postcheck_global_superficies_y_simetria_I_XXXVI_ES_EN.md` · ES=94 · EN=108 · ratio=1.15
+  - esqueleto de encabezados distinto ES=[] EN=[(2, ''), (2, '')]
+- `auditorias/publicas/2026-08-07_postcheck_paridad_bilingue_enlaces_I_XXXVI_ES_EN.md` · ES=46 · EN=148 · ratio=3.22
+  - esqueleto de encabezados distinto ES=[] EN=[(2, ''), (2, '')]
+- `auditorias/publicas/2026-08-07_postcheck_sintesis_abierta_bilingue_y_cobertura_ES_EN.md` · ES=249 · EN=279 · ratio=1.12
+  - esqueleto de encabezados distinto ES=[(3, '')] EN=[(3, ''), (2, '')]
+- `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md` · ES=237 · EN=301 · ratio=1.27
+  - esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')]
+- `auditorias/publicas/2026-08-09_distrokid_ticket_4499471_royalty_routing_ES_EN.md` · ES=458 · EN=448 · ratio=0.98
+  - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '')]
 - `auditorias/publicas/2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md` · ES=1759 · EN=1689 · ratio=0.96
   - 7 · Contraprincipio operativo Innova_N: párrafos ES=2 EN=3
   - 11 · Protocolo de aportación: párrafos ES=2 EN=3
 - `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` · ES=149 · EN=121 · ratio=0.81
   - volumen EN/ES=0.81 (121/149)
   - esqueleto de encabezados distinto ES=[(3, ''), (3, '')] EN=[]
+- `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · ES=1606 · EN=1973 · ratio=1.23
+  - esqueleto de encabezados distinto ES=[(2, ''), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (3, '1'), (3, '2'), (3, '3'), (3, '4'), (3, '5'), (3, '6'), (3, '7'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV')] EN=[(2, ''), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (3, '1'), (3, '2'), (3, '3'), (3, '4'), (3, '5'), (3, '6'), (3, '7'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, '')]
+- `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` · ES=1822 · EN=1847 · ratio=1.01
+  - esqueleto de encabezados distinto ES=[(2, 'I'), (2, 'II'), (2, 'III'), (2, ''), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, ''), (3, ''), (3, ''), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII')] EN=[(2, 'I'), (2, 'II'), (2, 'III'), (2, ''), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, ''), (3, ''), (3, ''), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, '')]
+- `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` · ES=1449 · EN=1475 · ratio=1.02
+  - esqueleto de encabezados distinto ES=[(2, ''), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (3, ''), (3, ''), (3, ''), (3, ''), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI')] EN=[(2, ''), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (3, ''), (3, ''), (3, ''), (3, ''), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI'), (2, '')]
+- `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md` · ES=1435 · EN=1764 · ratio=1.23
+  - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '')]
+- `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` · ES=1453 · EN=1552 · ratio=1.07
+  - esqueleto de encabezados distinto ES=[(2, '0'), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI')] EN=[(2, '0'), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI'), (2, '')]
+- `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · ES=1487 · EN=1585 · ratio=1.07
+  - esqueleto de encabezados distinto ES=[(2, '0'), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI'), (2, 'XVII')] EN=[(2, '0'), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI'), (2, 'XVII'), (2, '')]
+- `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md` · ES=1545 · EN=1614 · ratio=1.04
+  - esqueleto de encabezados distinto ES=[(2, '0'), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI'), (2, 'XVII'), (2, 'XVIII'), (2, 'XIX')] EN=[(2, '0'), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI'), (2, 'XVII'), (2, 'XVIII'), (2, 'XIX'), (2, '')]
+- `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md` · ES=1466 · EN=1602 · ratio=1.09
+  - esqueleto de encabezados distinto ES=[(2, '0'), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI'), (2, 'XVII'), (2, 'XVIII'), (2, 'XIX'), (2, 'XX'), (2, 'XXI'), (2, 'XXII')] EN=[(2, '0'), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI'), (2, 'XVII'), (2, 'XVIII'), (2, 'XIX'), (2, 'XX'), (2, 'XXI'), (2, 'XXII'), (2, '')]
+- `manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md` · ES=1660 · EN=1790 · ratio=1.08
+  - esqueleto de encabezados distinto ES=[(2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI'), (2, 'XVII'), (2, 'XVIII'), (2, 'XIX'), (2, 'XX'), (2, 'XXI'), (2, 'XXII')] EN=[(2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI'), (2, 'XVII'), (2, 'XVIII'), (2, 'XIX'), (2, 'XX'), (2, 'XXI'), (2, 'XXII'), (2, '')]
+- `manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md` · ES=1119 · EN=1199 · ratio=1.07
+  - esqueleto de encabezados distinto ES=[(2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI'), (2, 'XVII'), (2, 'XVIII'), (2, 'XIX')] EN=[(2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI'), (2, 'XVII'), (2, 'XVIII'), (2, 'XIX'), (2, '')]
+- `manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md` · ES=1370 · EN=1398 · ratio=1.02
+  - esqueleto de encabezados distinto ES=[(2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV')] EN=[(2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, '')]
+- `manifiestos/76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md` · ES=1630 · EN=1664 · ratio=1.02
+  - esqueleto de encabezados distinto ES=[(2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV')] EN=[(2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, '')]
+- `neoaxiomas/README.md` · ES=2335 · EN=2272 · ratio=0.97
+  - esqueleto de encabezados distinto ES=[(2, '0'), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '1'), (3, ''), (2, '2')] EN=[(2, '0'), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '1'), (3, ''), (2, '2'), (2, '')]
+- `obras/idea/PRESS_KIT_ES_EN.md` · ES=953 · EN=962 · ratio=1.01
+  - Cita editorial recomendada: lists ES=0 EN=6
+  - Cita editorial recomendada: párrafos ES=1 EN=2
+- `obras/idea/README.md` · ES=835 · EN=1011 · ratio=1.21
+  - esqueleto de encabezados distinto ES=[(3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, '')] EN=[(3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (2, '')]
+- `propuestas/sintesis-abierta/2026-08-15_C_NAX_23_CONSERVACION_FRACTAL_COMUN_ES_EN.md` · ES=87 · EN=147 · ratio=1.69
+  - volumen EN/ES=1.69 (147/87)
+  - esqueleto de encabezados distinto ES=[] EN=[(2, '')]
+- `propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md` · ES=49 · EN=145 · ratio=2.96
+  - esqueleto de encabezados distinto ES=[] EN=[(2, '')]
+- `propuestas/sintesis-abierta/ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_v0.1_ES_EN.md` · ES=1025 · EN=1070 · ratio=1.04
+  - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (3, ''), (2, '4'), (3, ''), (3, ''), (2, '5'), (2, '6'), (2, '7'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '8'), (2, '9'), (2, '10')] EN=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (3, ''), (2, '4'), (3, ''), (3, ''), (2, '5'), (2, '6'), (2, '7'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '8'), (2, '9'), (2, '10'), (2, '')]
 
 ## Marcadores / Markers
 
-- `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md`
-- `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md`
 - `fragmentos/03_Fragmento-III.md`
 
 ## Superficies pareadas que requieren revisión / Paired surfaces requiring review
 
+- `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md`: Parte II — Dajla, mafias migratorias y control estatal | La infraestructura oculta de la presión fronteriza | Part II — Dakhla, migrant-smuggling networks and state control | Versión en español | Parte II — Dajla, mafias migratorias y control estatal | Utilización política del ecosistema | Acusación extraordinaria sin prueba suficiente | Conclusión | English version | Part II — Dakhla, migrant-smuggling networks and state control | Political use of the ecosystem | Extraordinary allegation without sufficient evidence
 - `analisis/publicos/evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md`: España, Marruecos, regularización y nacionalidad
 - `anuncios/2026-08-08_XLVII_ODIO_SINO_GOAT_SOMBRA_DOBLE_CARA_ES_EN.md`: The Goat, Sombra, Vínculo y Doble Cara de la Vida
 - `anuncios/2026-08-08_XLVI_CERRAR_LA_HERIDA_ES_EN.md`: Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria
@@ -70,48 +140,47 @@
 | Archivo | Estado | Detalle |
 |---|---|---|
 | `README.md` | **OK** |  |
-| `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` | **OK** |  |
+| `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` | **REVISAR** | **Patrón institucional observado**: párrafos ES=34 EN=35 |
 | `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` | **OK** |  |
 | `analisis/INDEX.md` | **OK** |  |
-| `analisis/README.md` | **OK** |  |
-| `analisis/auditorias/README.md` | **OK** |  |
-| `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` | **REVISAR** | volumen EN/ES=0.59 (426/724); 2: párrafos ES=7 EN=5; 4: quotes ES=8 EN=0 |
+| `analisis/README.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (3, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (3, ''), (2, ''), (2, ''), (2, '')] |
+| `analisis/auditorias/README.md` | **REVISAR** | volumen EN/ES=1.77 (304/172); esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, '')] |
+| `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` | **REVISAR** | volumen EN/ES=0.62 (680/1099); esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, ''), (2, '4'), (2, '5'), (3, ''), (3, ''), (2, '6'), (2, '7'), (2, '8')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, ''), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8')] |
 | `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` | **OK** |  |
 | `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` | **OK** |  |
 | `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` | **OK** |  |
 | `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] |
-| `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` | **MARCADORES** | — |
-| `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` | **MARCADORES** | — |
+| `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Parte II — Dajla, mafias migratorias y control estatal / La infraestructura oculta de la presión fronteriza / Part II — Dakhla, migrant-smuggling networks and state control / Versión en español / Parte II — Dajla, mafias migratorias y control estatal / Utilización política del ecosistema / Acusación extraordinaria sin prueba suficiente / Conclusión / English version / Part II — Dakhla, migrant-smuggling networks and state control / Political use of the ecosystem / Extraordinary allegation without sufficient evidence |
 | `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` | **OK** |  |
-| `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` | **OK** |  |
+| `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (3, ''), (2, '9'), (3, ''), (2, '10')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (3, ''), (2, '9'), (3, ''), (2, '10'), (2, '')] |
 | `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md` | **OK** |  |
-| `analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md` | **OK** |  |
+| `analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '')] |
 | `analisis/publicos/2026-08-08_addendum_autodemostracion_creacion_neodialectica_historia_olvidada_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-08_addendum_distrokid_catalogo_album_removed_added_apple_music_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-08_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_funcional_ES_EN.md` | **OK** |  |
-| `analisis/publicos/2026-08-08_delta_poder_incentivos_tokenizacion_y_transicion_neodialectica_ES_EN.md` | **OK** |  |
+| `analisis/publicos/2026-08-08_delta_poder_incentivos_tokenizacion_y_transicion_neodialectica_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (3, ''), (3, ''), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9')] EN=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (3, ''), (3, ''), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9'), (2, '')] |
 | `analisis/publicos/2026-08-08_distrokid_ticket_4499471_respuesta_no_resolutiva_y_reiteracion_auditoria_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-08_estado_correo_difusion_idea_y_adhesiones_sintesis_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-08_techno_bach_record_semanal_apple_music_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md` | **OK** |  |
-| `analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md` | **OK** |  |
+| `analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9'), (2, '10'), (2, '11')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9'), (2, '10'), (2, '11'), (2, '')] |
 | `analisis/publicos/2026-08-09_guerra_fundador_contra_idiotez_devolucion_tiempo_bien_comun_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-09_maxproc_registro_entrada_trazabilidad_derivacion_herosion_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-09_micromaquinas_plagas_escala_invisible_estado_real_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-09_prueba_operativa_minima_revision_ia_escalable_ES_EN.md` | **OK** |  |
-| `analisis/publicos/2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md` | **OK** |  |
+| `analisis/publicos/2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, '1'), (3, ''), (3, ''), (2, '2'), (3, ''), (2, '3')] EN=[(2, '1'), (3, ''), (3, ''), (2, '2'), (3, ''), (2, '3'), (2, '')] |
 | `analisis/publicos/2026-08-10_LXII_juego_sintesis_honor_starkdr_ransol_arboles_tiempo_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-10_LXI_genetica_ADN_neopandora_placa_petri_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-10_addendum_tidal_yellow_quasar_perfil_duplicado_uno_playlists_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md` | **OK** |  |
-| `analisis/publicos/2026-08-13_convergencia-neodialectica-meta-zuckerberg_ES_EN.md` | **OK** |  |
+| `analisis/publicos/2026-08-13_convergencia-neodialectica-meta-zuckerberg_ES_EN.md` | **REVISAR** | 9: párrafos ES=0 EN=1 |
 | `analisis/publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md` | **OK** |  |
 | `analisis/publicos/README.md` | **OK** |  |
 | `analisis/publicos/evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: España, Marruecos, regularización y nacionalidad |
@@ -120,7 +189,7 @@
 | `analisis/publicos/evidencias/2026-08-07_ceuta-marruecos-evolucion-conflicto-fuentes-y-matriz_ES_EN.md` | **OK** |  |
 | `analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md` | **OK** |  |
 | `analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuerzas-y-matriz_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
-| `analisis/publicos/evidencias/README.md` | **REVISAR** | esqueleto de encabezados distinto ES=[] EN=[(3, ''), (3, '')] |
+| `analisis/publicos/evidencias/README.md` | **REVISAR** | volumen EN/ES=0.63 (128/204); esqueleto de encabezados distinto ES=[(2, ''), (3, ''), (3, ''), (3, '')] EN=[(3, ''), (3, '')] |
 | `anuncios/2026-08-06_ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_SINTESIS_ABIERTA_ES_EN.md` | **OK** |  |
 | `anuncios/2026-08-06_SEGUNDA_OLEADA_MANIFIESTOS_NEOPANDORA_ES_EN.md` | **OK** |  |
 | `anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md` | **OK** |  |
@@ -138,16 +207,16 @@
 | `auditorias/publicas/2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-07_plan_normalizacion_sintesis_abierta_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-07_postcheck_cierre_total_simetria_I_XXXVI_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
-| `auditorias/publicas/2026-08-07_postcheck_enlaces_y_sincronizacion_XXXV_ES_EN.md` | **OK** |  |
-| `auditorias/publicas/2026-08-07_postcheck_final_simetria_limpia_I_XXXVI_ES_EN.md` | **OK** |  |
-| `auditorias/publicas/2026-08-07_postcheck_global_superficies_y_simetria_I_XXXVI_ES_EN.md` | **OK** |  |
-| `auditorias/publicas/2026-08-07_postcheck_paridad_bilingue_enlaces_I_XXXVI_ES_EN.md` | **OK** |  |
-| `auditorias/publicas/2026-08-07_postcheck_sintesis_abierta_bilingue_y_cobertura_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-08-07_postcheck_enlaces_y_sincronizacion_XXXV_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[] EN=[(2, '')] |
+| `auditorias/publicas/2026-08-07_postcheck_final_simetria_limpia_I_XXXVI_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[] EN=[(2, ''), (2, ''), (2, ''), (3, '')] |
+| `auditorias/publicas/2026-08-07_postcheck_global_superficies_y_simetria_I_XXXVI_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[] EN=[(2, ''), (2, '')] |
+| `auditorias/publicas/2026-08-07_postcheck_paridad_bilingue_enlaces_I_XXXVI_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[] EN=[(2, ''), (2, '')] |
+| `auditorias/publicas/2026-08-07_postcheck_sintesis_abierta_bilingue_y_cobertura_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(3, '')] EN=[(3, ''), (2, '')] |
 | `auditorias/publicas/2026-08-08_addendum_kdp_estrategia_keywords_ediciones_multilingues_51071689_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-08_auditoria_externa_streaming_distribuidores_metadatos_regalias_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-08_auditoria_formato_manifiestos_XXXVIII_XLIII_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
-| `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] |
 | `auditorias/publicas/2026-08-08_auditoria_integral_correlacion_manifiestos_trabajo_aplicado_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-08_auditoria_oneshots_github_actions_carreras_noop_y_estado_final_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-08_auditoria_readmes_enlaces_estado_XLII_ES_EN.md` | **OK** |  |
@@ -159,7 +228,7 @@
 | `auditorias/publicas/2026-08-09_auditoria_paridad_bilingue_manifiestos_neoaxiomas_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Auditoría de paridad bilingüe no reductiva / Regla de conservación |
 | `auditorias/publicas/2026-08-09_auditoria_regresiones_historicas_manifiestos_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Auditoría histórica no reductiva de manifiestos |
 | `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Auditoría relacional MAXPROC · Manifiestos ↔ Neoaxiomas ↔ publicaciones ↔ Síntesis Abierta / Cocitación documental · candidatos de relación para revisión SAN |
-| `auditorias/publicas/2026-08-09_distrokid_ticket_4499471_royalty_routing_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-08-09_distrokid_ticket_4499471_royalty_routing_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '')] |
 | `auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-09_postcheck_neocore_7_1_integridad_relacional_no_reductiva_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Postcheck NEOCore™ 7.1 · integridad relacional y no reductiva |
 | `auditorias/publicas/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` | **OK** |  |
@@ -213,9 +282,9 @@
 | `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` | **OK** |  |
 | `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` | **OK** |  |
 | `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` | **OK** |  |
-| `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` | **OK** |  |
+| `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, ''), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (3, '1'), (3, '2'), (3, '3'), (3, '4'), (3, '5'), (3, '6'), (3, '7'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV')] EN=[(2, ''), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (3, '1'), (3, '2'), (3, '3'), (3, '4'), (3, '5'), (3, '6'), (3, '7'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, '')] |
 | `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | **OK** |  |
-| `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | **OK** |  |
+| `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, 'I'), (2, 'II'), (2, 'III'), (2, ''), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, ''), (3, ''), (3, ''), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII')] EN=[(2, 'I'), (2, 'II'), (2, 'III'), (2, ''), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, ''), (3, ''), (3, ''), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, '')] |
 | `manifiestos/37_neofraternidad_ES_EN.md` | **OK** |  |
 | `manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` | **OK** |  |
 | `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` | **OK** |  |
@@ -231,7 +300,7 @@
 | `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md` | **OK** |  |
 | `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` | **OK** |  |
 | `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md` | **OK** |  |
-| `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` | **OK** |  |
+| `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, ''), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (3, ''), (3, ''), (3, ''), (3, ''), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI')] EN=[(2, ''), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (3, ''), (3, ''), (3, ''), (3, ''), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI'), (2, '')] |
 | `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` | **OK** |  |
 | `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md` | **OK** |  |
 | `manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md` | **OK** |  |
@@ -247,15 +316,15 @@
 | `manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md` | **OK** |  |
 | `manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md` | **OK** |  |
 | `manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md` | **OK** |  |
-| `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md` | **OK** |  |
-| `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` | **OK** |  |
-| `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` | **OK** |  |
-| `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md` | **OK** |  |
-| `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md` | **OK** |  |
-| `manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md` | **OK** |  |
-| `manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md` | **OK** |  |
-| `manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md` | **OK** |  |
-| `manifiestos/76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md` | **OK** |  |
+| `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '')] |
+| `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, '0'), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI')] EN=[(2, '0'), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI'), (2, '')] |
+| `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, '0'), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI'), (2, 'XVII')] EN=[(2, '0'), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI'), (2, 'XVII'), (2, '')] |
+| `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, '0'), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI'), (2, 'XVII'), (2, 'XVIII'), (2, 'XIX')] EN=[(2, '0'), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI'), (2, 'XVII'), (2, 'XVIII'), (2, 'XIX'), (2, '')] |
+| `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, '0'), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI'), (2, 'XVII'), (2, 'XVIII'), (2, 'XIX'), (2, 'XX'), (2, 'XXI'), (2, 'XXII')] EN=[(2, '0'), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI'), (2, 'XVII'), (2, 'XVIII'), (2, 'XIX'), (2, 'XX'), (2, 'XXI'), (2, 'XXII'), (2, '')] |
+| `manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI'), (2, 'XVII'), (2, 'XVIII'), (2, 'XIX'), (2, 'XX'), (2, 'XXI'), (2, 'XXII')] EN=[(2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI'), (2, 'XVII'), (2, 'XVIII'), (2, 'XIX'), (2, 'XX'), (2, 'XXI'), (2, 'XXII'), (2, '')] |
+| `manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI'), (2, 'XVII'), (2, 'XVIII'), (2, 'XIX')] EN=[(2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI'), (2, 'XVII'), (2, 'XVIII'), (2, 'XIX'), (2, '')] |
+| `manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV')] EN=[(2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, '')] |
+| `manifiestos/76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV')] EN=[(2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, '')] |
 | `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | **OK** |  |
 | `manifiestos/README.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: WEB4™ · SistemaTrazable™ |
 | `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` | **OK** |  |
@@ -264,11 +333,11 @@
 | `manifiestos/deltas/LXI_delta_genetica_adn_neopandora_custodia_multiescalar_ES_EN.md` | **OK** |  |
 | `manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md` | **OK** |  |
 | `neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md` | **OK** |  |
-| `neoaxiomas/README.md` | **OK** |  |
+| `neoaxiomas/README.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, '0'), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '1'), (3, ''), (2, '2')] EN=[(2, '0'), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '1'), (3, ''), (2, '2'), (2, '')] |
 | `obras/README.md` | **OK** |  |
-| `obras/idea/PRESS_KIT_ES_EN.md` | **OK** |  |
+| `obras/idea/PRESS_KIT_ES_EN.md` | **REVISAR** | Cita editorial recomendada: lists ES=0 EN=6; Cita editorial recomendada: párrafos ES=1 EN=2 |
 | `obras/idea/RANSOL_RED_DEL_TIEMPO_ARBOLES_INVISIBLES_ETERNOS_ES_EN.md` | **OK** |  |
-| `obras/idea/README.md` | **OK** |  |
+| `obras/idea/README.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, '')] EN=[(3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (2, '')] |
 | `obras/idea/STARKDR_GRITAX_HISTORIA_DE_LAS_ESPECIES_ES_EN.md` | **OK** |  |
 | `obras/idea/assets/README.md` | **OK** |  |
 | `obras/umbral-x/00_el_dia_que_les_dimos_armas_antes_que_voz_ES_EN.md` | **OK** |  |
@@ -278,10 +347,10 @@
 | `propuestas/sintesis-abierta/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-11_DELTA_HUMANIDAD_COMUN_MADURACION_INVERTIDA_TROL_BOT_MAL_SISTEMICO_ES_EN.md` | **OK** |  |
-| `propuestas/sintesis-abierta/2026-08-15_C_NAX_23_CONSERVACION_FRACTAL_COMUN_ES_EN.md` | **OK** |  |
-| `propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md` | **OK** |  |
+| `propuestas/sintesis-abierta/2026-08-15_C_NAX_23_CONSERVACION_FRACTAL_COMUN_ES_EN.md` | **REVISAR** | volumen EN/ES=1.69 (147/87); esqueleto de encabezados distinto ES=[] EN=[(2, '')] |
+| `propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[] EN=[(2, '')] |
 | `propuestas/sintesis-abierta/2026-08-15_DELTA_NEOMANTIS_ASIMETRIA_INVERTIDA_DIGNIDAD_RECIPROCA_ES_EN.md` | **OK** |  |
-| `propuestas/sintesis-abierta/ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_v0.1_ES_EN.md` | **OK** |  |
+| `propuestas/sintesis-abierta/ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_v0.1_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (3, ''), (2, '4'), (3, ''), (3, ''), (2, '5'), (2, '6'), (2, '7'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '8'), (2, '9'), (2, '10')] EN=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (3, ''), (2, '4'), (3, ''), (3, ''), (2, '5'), (2, '6'), (2, '7'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '8'), (2, '9'), (2, '10'), (2, '')] |
 | `propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` | **OK** |  |

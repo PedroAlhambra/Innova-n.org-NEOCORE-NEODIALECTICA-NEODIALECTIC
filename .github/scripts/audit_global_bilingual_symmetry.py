@@ -18,8 +18,8 @@ LEGACY_ROOT_NAMES = {'LEEME.md', 'PORTADA.md', 'COVER.md', 'PREFACIO.md', 'FOREW
 # Recognise every explicit language gate, not only one house spelling.
 # Examples: ES · Castellano, ES · Versión española, EN · English version,
 # EN · Short assessment. A gate must begin with ES/EN; bilingual headings are not gates.
-ES_PATTERNS = [r'^#{1,4}\s+(?:ES(?:\s+·\s+[^\n]+)?|Versión(?: en)? española)\s*$']
-EN_PATTERNS = [r'^#{1,4}\s+(?:EN(?:\s+·\s+[^\n]+)?|English version)\s*$']
+ES_PATTERNS = [r'^#{1,4}\s+ES(?:\s+·\s+[^\n]+)?\s*$']
+EN_PATTERNS = [r'^#{1,4}\s+EN(?:\s+·\s+[^\n]+)?\s*$']
 
 SHARED_TAIL_MARKERS = [
     '<!-- NEO_RELATIONS_START -->',
@@ -52,9 +52,9 @@ def strip_generated_tail(s):
     for pat in LANG_TAIL_HEADINGS:
         m=re.search(pat,s,re.M)
         if m: positions.append(m.start())
-    # A bilingual heading after the EN body normally begins a shared tail, e.g.
-    # "# Fuentes / Sources" or "## Trazabilidad / Traceability". It belongs to neither language half.
-    m=re.search(r'^#{1,6}\s+[^\n]+\s+/\s+[^\n]+\s*$',s,re.M)
+    # Only known editorial bilingual tail headings are shared boundaries. A slash alone
+    # is not sufficient: content headings such as "Stanford / ACE" are part of the document.
+    m=re.search(r'^#{1,6}\s+(?:Fuentes[^\n]* / [^\n]*(?:Sources|sources)|Historial de versiones / Version history|Firma común / Common signature|Principio de procedencia / Provenance principle)\s*$',s,re.M)
     if m: positions.append(m.start())
     return s[:min(positions)] if positions else s
 
