@@ -17,8 +17,6 @@ jobs:
         shell: python
         run: |
           from pathlib import Path
-
-          # Final real structural mismatch: EN conclusion lacked Markdown heading level.
           p=Path('analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md')
           s=p.read_text(encoding='utf-8')
           old='\nConclusion\n\nSpain has not voted on this transformation as a whole.'
@@ -26,28 +24,25 @@ jobs:
           if old not in s: raise SystemExit('English conclusion block not found')
           p.write_text(s.replace(old,new,1),encoding='utf-8')
 
-          # Audit: historical audit/postcheck snapshots remain immutable evidence, not live editorial surfaces.
           p=Path('.github/scripts/audit_global_bilingual_symmetry.py')
           s=p.read_text(encoding='utf-8')
           old="    elif bilingual_filename(p):\n        bad=paired_heading_issues(text)"
-          new="""    elif bilingual_filename(p):
-        historical_paired = (
-            rel.startswith('auditorias/publicas/2026-08-08_postcheck_') or
-            rel.startswith('auditorias/publicas/2026-08-09_auditoria_paridad') or
-            rel.startswith('auditorias/publicas/2026-08-09_auditoria_regresiones_historicas_') or
-            rel.startswith('auditorias/publicas/2026-08-09_auditoria_relacional_') or
-            rel.startswith('auditorias/publicas/2026-08-09_postcheck_') or
-            rel.startswith('auditorias/publicas/2026-08-10_postcheck_') or
-            rel.startswith('web4/2026-08-10_POSTCHECK_')
-        )
-        if historical_paired:
-            rows.append((rel,'HISTÓRICO-PRESERVADO','registro histórico inerte; fuera de la superficie bilingüe viva / immutable historical record; outside the live bilingual surface'))
-            continue
-        bad=paired_heading_issues(text)"""
+          new=("    elif bilingual_filename(p):\n"
+               "        historical_paired = (\n"
+               "            rel.startswith('auditorias/publicas/2026-08-08_postcheck_') or\n"
+               "            rel.startswith('auditorias/publicas/2026-08-09_auditoria_paridad') or\n"
+               "            rel.startswith('auditorias/publicas/2026-08-09_auditoria_regresiones_historicas_') or\n"
+               "            rel.startswith('auditorias/publicas/2026-08-09_auditoria_relacional_') or\n"
+               "            rel.startswith('auditorias/publicas/2026-08-09_postcheck_') or\n"
+               "            rel.startswith('auditorias/publicas/2026-08-10_postcheck_') or\n"
+               "            rel.startswith('web4/2026-08-10_POSTCHECK_')\n"
+               "        )\n"
+               "        if historical_paired:\n"
+               "            rows.append((rel,'HISTÓRICO-PRESERVADO','registro histórico inerte; fuera de la superficie bilingüe viva / immutable historical record; outside the live bilingual surface'))\n"
+               "            continue\n"
+               "        bad=paired_heading_issues(text)")
           if old not in s: raise SystemExit('paired loop insertion point not found')
           s=s.replace(old,new,1)
-
-          # Canonical trademarks/product names can be language-neutral headings.
           old="        if ' / ' in title:\n            i+=1; continue"
           new="        if ' / ' in title:\n            i+=1; continue\n        if title in {'WEB4™ · SistemaTrazable™'}:\n            i+=1; continue"
           if old not in s: raise SystemExit('paired heading exception point not found')
