@@ -729,7 +729,8 @@ We especially seek counterexamples enabling distinction between useful symbolic 
 * [Analysis · Institutional accessibility and citizen escalation](../analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md)
 * [L · Shared, Not Singular Intelligence™](./50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
 * [XXXVI · Crown, Eagle and Custodianship of the Age of Man™](./36_corona_aguila_custodia_edad_del_hombre_ES_EN.md)
-* [Manifesto index](./README.md)
+* [X · WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md)
+* [II · Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md)
 
 ## Navigation
 

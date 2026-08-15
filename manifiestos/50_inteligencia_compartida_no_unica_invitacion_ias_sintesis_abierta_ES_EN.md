@@ -862,6 +862,8 @@ We especially seek experimental implementations enabling comparison of how diffe
 * [XLIX · Meeting Point between Cultures™](./49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)
 * [XLVIII · The Synthesis Sees Everything™](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
 * [V · Human–AI Symbiosis](./03_simbiosis_humano_ia_ES_EN.md)
+* [IX · Memory, Genealogy and Traceability](./06_memoria_genealogia_trazabilidad_ES_EN.md)
+* [X · WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md)
 * [Manifesto index](./README.md)
 
 ## Navigation

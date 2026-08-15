@@ -449,7 +449,11 @@ ADMINISTRATIVE NATIONALITY
 ≠ HUMAN DIGNITY
 ```
 
-Blood preserves memory. Soil preserves location and bond. Neither makes one person more human than another.
+Blood preserves memory.
+
+Soil preserves location and bond.
+
+Neither makes one person more human than another.
 
 ## I. Principle of Equality of Human Belonging™
 
@@ -457,13 +461,22 @@ Blood preserves memory. Soil preserves location and bond. Neither makes one pers
 
 Every person belongs first to the human community.
 
-This basic equality does not erase identities, families, languages, cultures, peoples or territories. It prevents them from becoming scales of human value.
+This basic equality does not erase identities, families, languages, cultures, peoples or territories.
+
+It prevents them from becoming scales of human value.
 
 ## II. Ius sanguinis and ius soli as historical administrative technologies
 
 Neodialectics does not need to declare every previous legal mechanism absurd in order to move beyond it.
 
-They answered concrete needs: determining legal membership, assigning responsibilities, ordering transmission of rights, registering populations, organising diplomatic protection and structuring taxation, residence and political participation.
+They answered concrete needs:
+
+- determining legal membership;
+- assigning responsibilities;
+- ordering transmission of rights;
+- registering populations;
+- organising diplomatic protection;
+- structuring taxation, residence and political participation.
 
 But an administrative tool must not become an ontology.
 
@@ -631,13 +644,22 @@ They may require verifiable bonds, residence, sufficient knowledge of the instit
 
 They may depend on contracts, work, contributions, creation, care or other specific legal relations.
 
-The distinction must prevent two symmetrical errors: turning nationality into the key to all dignity, and turning human equality into denial of all concrete responsibility.
+The distinction must prevent two symmetrical errors:
+
+- turning nationality into the key to all dignity;
+- turning human equality into denial of all concrete responsibility.
 
 ## IX. Childhood, statelessness, refuge and vulnerability
 
 An architecture of belonging is tested especially where a person has less capacity to defend themselves.
 
-Children should not lose protection because of their parents' decisions. Statelessness cannot mean loss of legal humanity. A refugee does not cease to be a subject of dignity because their relationship with a State has broken. Disability, dependence or poverty cannot reduce belonging.
+Children should not lose protection because of their parents' decisions.
+
+Statelessness cannot mean loss of legal humanity.
+
+A refugee does not cease to be a subject of dignity because their relationship with a State has broken.
+
+Disability, dependence or poverty cannot reduce belonging.
 
 > **Principle of Continuity of Human Protection™: when a political, territorial or documentary relationship breaks, basic human dignity and protection must survive the rupture.**
 
