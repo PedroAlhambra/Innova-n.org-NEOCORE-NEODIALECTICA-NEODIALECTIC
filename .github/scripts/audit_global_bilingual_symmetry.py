@@ -18,8 +18,8 @@ LEGACY_ROOT_NAMES = {'LEEME.md', 'PORTADA.md', 'COVER.md', 'PREFACIO.md', 'FOREW
 # Recognise every explicit language gate, not only one house spelling.
 # Examples: ES · Castellano, ES · Versión española, EN · English version,
 # EN · Short assessment. A gate must begin with ES/EN; bilingual headings are not gates.
-ES_PATTERNS = [r'^#{1,4}\s+ES(?:\s+·\s+[^\n]+)?\s*$']
-EN_PATTERNS = [r'^#{1,4}\s+EN(?:\s+·\s+[^\n]+)?\s*$']
+ES_PATTERNS = [r'^#{1,4}\s+ES(?:\s+·\s+[^\n]+)?\s*$', r'^#{1,4}\s+Versión en español\s*$']
+EN_PATTERNS = [r'^#{1,4}\s+EN(?:\s+·\s+[^\n]+)?\s*$', r'^#{1,4}\s+English version\s*$']
 
 SHARED_TAIL_MARKERS = [
     '<!-- NEO_RELATIONS_START -->',

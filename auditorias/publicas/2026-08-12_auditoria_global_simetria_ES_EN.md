@@ -8,15 +8,16 @@
 ## Resumen / Summary
 
 - Markdown activo examinado / Active Markdown scanned: **284**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **220**.
-- Fallos estructurales divididos / Split structural failures: **0**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **222**.
+- Fallos estructurales divididos / Split structural failures: **1**.
 - Fallos de marcadores / Marker failures: **0**.
-- Superficies pareadas para revisión / Paired surfaces for review: **20**.
+- Superficies pareadas para revisión / Paired surfaces for review: **19**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
 
-- Ninguno / None.
+- `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · ES=5290 · EN=5585 · ratio=1.06
+  - esqueleto de encabezados distinto ES=[(2, ''), (2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (3, ''), (2, '8'), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17'), (2, '18'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '19'), (2, '20'), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (3, ''), (2, '8'), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17'), (2, '18'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '19'), (2, '20'), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')]
 
 ## Marcadores / Markers
 
@@ -24,7 +25,6 @@
 
 ## Superficies pareadas que requieren revisión / Paired surfaces requiring review
 
-- `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md`: Parte II — Dajla, mafias migratorias y control estatal | La infraestructura oculta de la presión fronteriza | Part II — Dakhla, migrant-smuggling networks and state control | Versión en español | Parte II — Dajla, mafias migratorias y control estatal | Utilización política del ecosistema | Acusación extraordinaria sin prueba suficiente | Conclusión | English version | Part II — Dakhla, migrant-smuggling networks and state control | Political use of the ecosystem | Extraordinary allegation without sufficient evidence
 - `analisis/publicos/evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md`: España, Marruecos, regularización y nacionalidad
 - `anuncios/2026-08-08_XLVII_ODIO_SINO_GOAT_SOMBRA_DOBLE_CARA_ES_EN.md`: The Goat, Sombra, Vínculo y Doble Cara de la Vida
 - `anuncios/2026-08-08_XLVI_CERRAR_LA_HERIDA_ES_EN.md`: Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria
@@ -64,7 +64,8 @@
 | `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` | **OK** |  |
 | `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` | **OK** |  |
 | `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` | **OK** |  |
-| `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Parte II — Dajla, mafias migratorias y control estatal / La infraestructura oculta de la presión fronteriza / Part II — Dakhla, migrant-smuggling networks and state control / Versión en español / Parte II — Dajla, mafias migratorias y control estatal / Utilización política del ecosistema / Acusación extraordinaria sin prueba suficiente / Conclusión / English version / Part II — Dakhla, migrant-smuggling networks and state control / Political use of the ecosystem / Extraordinary allegation without sufficient evidence |
+| `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, ''), (2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (3, ''), (2, '8'), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17'), (2, '18'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '19'), (2, '20'), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (3, ''), (2, '8'), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17'), (2, '18'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '19'), (2, '20'), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] |
+| `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` | **OK** |  |
