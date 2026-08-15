@@ -1,4 +1,4 @@
-name: One-shot documentary graph WEB4 guard repair 2026-08-15
+name: One-shot full public documentary graph reconciliation 2026-08-15
 on:
   push:
     branches: [main]
@@ -6,40 +6,75 @@ on:
 permissions:
   contents: write
 jobs:
-  repair:
+  reconcile:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           ref: main
           fetch-depth: 0
-      - name: Repair obsolete WEB4 documentary guard and canonical README wording
+      - name: Rebuild living manifesto, synthesis and canonical graph
+        run: |
+          python .github/scripts/register_manifesto_frontier.py
+          python .github/scripts/normalize_manifesto_bilingual_names.py
+          python .github/scripts/normalize_internal_link_aliases.py
+          python .github/scripts/register_manifestos_LXIII_LXVI.py
+          python .github/scripts/sync_neoaxiom_candidates.py
+          python .github/scripts/sync_manifesto_frontier_headers.py
+          python .github/scripts/sync_open_synthesis_manifestos.py
+          python .github/scripts/normalize_manifesto_indices.py
+          python .github/scripts/sync_root_navigation.py
+          python .github/scripts/sync_relations_frontier.py
+          python .github/scripts/sync_relations_lxxv.py
+          python .github/scripts/sync_canonical_manifestos.py
+          python .github/scripts/sync_manifesto_crossrefs.py
+          python .github/scripts/sync_canonical_manifestos.py
+      - name: Run canonical, relation, links and bilingual audits
+        run: |
+          python .github/scripts/audit_manifesto_registry_completeness.py
+          python .github/scripts/audit_es_en_parity.py
+          python .github/scripts/audit_manifesto_bilingual_structure.py
+          python .github/scripts/audit_relations_neocore.py
+          python .github/scripts/audit_markdown_links_readmes.py
+          python .github/scripts/audit_global_bilingual_symmetry.py
+      - name: Enforce clean living state
         shell: python
         run: |
           from pathlib import Path
-          p=Path('.github/scripts/audit_markdown_links_readmes.py')
-          t=p.read_text(encoding='utf-8')
-          old="""# WEB4 reference guard: innova-n.org is the living public product surface;\n# web4/ is only a versioned documentary DEMO and its manifesto reader must\n# still follow the canonical frontier while it remains published.\nif canonical:\n    web4_readme = root / 'web4/README.md'\n    web4_reader = root / 'web4/manifiestos/index.html'\n    if web4_readme.exists():\n        wr = web4_readme.read_text(encoding='utf-8', errors='replace')\n        if 'innova-n.org' not in wr or 'DEMO' not in wr:\n            critical.append('web4/README.md no distingue la DEMO documental de innova-n.org como superficie viva. / web4/README.md does not distinguish the documentary DEMO from innova-n.org as the living surface.')\n    if web4_reader.exists():\n        wh = web4_reader.read_text(encoding='utf-8', errors='replace')\n        if f'I–{latest_roman}' not in wh or latest.name not in wh:\n            critical.append(f'El lector WEB4 documental no sigue la frontera {latest_roman}. / The documentary WEB4 reader does not follow frontier {latest_roman}.')\n"""
-          new="""# WEB4 reference guard: innova-n.org is the living WEB4 product surface.\n# The public repository web4/ tree is documentary specification/capability genealogy,\n# not a DEMO, a second public site, or a parallel manifesto reader. It must return\n# readers to the canonical corpus and to the living WEB4 projection without\n# hardcoding a finite manifesto frontier.\nif canonical:\n    web4_readme = root / 'web4/README.md'\n    web4_reader = root / 'web4/manifiestos/index.html'\n    if web4_readme.exists():\n        wr = web4_readme.read_text(encoding='utf-8', errors='replace')\n        low_wr = wr.lower()\n        if 'innova-n.org' not in wr or 'no es demo' not in low_wr or 'segunda web' not in low_wr:\n            critical.append('web4/README.md debe fijar web4/ como documentación/fuente y innova-n.org como WEB4 viva, sin presentarlo como DEMO ni segunda web. / web4/README.md must define web4/ as documentation/source and innova-n.org as the living WEB4, not as a DEMO or second site.')\n    if web4_reader.exists():\n        wh = web4_reader.read_text(encoding='utf-8', errors='replace')\n        if '../../manifiestos/README.md' not in wh or 'innova-n.org' not in wh:\n            critical.append('La referencia documental web4/manifiestos debe devolver al corpus canónico y a innova-n.org. / The documentary web4/manifiestos reference must return to the canonical corpus and innova-n.org.')\n"""
-          if old not in t:
-              raise SystemExit('obsolete WEB4 guard block not found')
-          p.write_text(t.replace(old,new,1),encoding='utf-8')
-
-          r=Path('manifiestos/canonicos/README.md')
-          x=r.read_text(encoding='utf-8')
-          x=x.replace('La correspondencia completa **I–LXXIV** está registrada en `../CANONICAL_FILENAMES.json`.', 'La correspondencia vigente está registrada dinámicamente en `../CANONICAL_FILENAMES.json`; no se fija aquí una frontera numérica que pueda quedar obsoleta.')
-          r.write_text(x,encoding='utf-8')
-      - name: Validate patch
-        run: |
-          python -m py_compile .github/scripts/audit_markdown_links_readmes.py
-          git diff --check
-      - name: Commit repair
+          import json
+          registry=json.loads(Path('manifiestos/CANONICAL_FILENAMES.json').read_text(encoding='utf-8'))['entries']
+          n=len(registry)
+          if n < 76 or 'LXXVI' not in registry:
+              raise SystemExit(f'LXXVI not registered in canonical frontier: {n}')
+          links=Path('auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md').read_text(encoding='utf-8')
+          if '**Estado / Status:** **OK**' not in links:
+              raise SystemExit('documentary graph still not healthy')
+          reg=Path('auditorias/publicas/2026-08-12_auditoria_registro_canonico_manifiestos_ES_EN.md').read_text(encoding='utf-8')
+          if f'**Entradas canónicas / Canonical entries:** {n}' not in reg or '**Problemas / Problems:** 0' not in reg:
+              raise SystemExit('canonical registry audit not clean')
+          parity=Path('auditorias/publicas/2026-08-09_auditoria_paridad_ES_EN_manifiestos_articulos.md').read_text(encoding='utf-8')
+          if '**Recortes/materialmente asimétricos para revisión:** 0' not in parity or '**Con marcador incompleto/ausente:** 0' not in parity:
+              raise SystemExit('manifesto ES/EN parity not clean')
+          structure=Path('auditorias/publicas/2026-08-12_auditoria_estructura_bilingue_manifiestos_ES_EN.md').read_text(encoding='utf-8')
+          if '**REVISAR / REVIEW:** 0' not in structure:
+              raise SystemExit('manifesto bilingual structure not clean')
+          global_sym=Path('auditorias/publicas/2026-08-12_auditoria_global_simetria_ES_EN.md').read_text(encoding='utf-8')
+          required=('Split structural failures: **0**','Marker failures: **0**','Paired surfaces for review: **0**','Issue templates with non-symmetric visible labels: **0**')
+          if any(x not in global_sym for x in required):
+              raise SystemExit('global bilingual symmetry regressed')
+          print(f'CANONICAL_FRONTIER=I-LXXVI ({n})')
+          print('DOCUMENTARY_GRAPH=OK')
+          print('BILINGUAL_GLOBAL=OK')
+      - name: Validate repository diff
+        run: git diff --check
+      - name: Commit reconciled public graph
         shell: bash
         run: |
           set -euo pipefail
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add .github/scripts/audit_markdown_links_readmes.py manifiestos/canonicos/README.md
-          git commit -m 'fix: align documentary graph guard with current WEB4 topology'
+          git add -A
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'docs: reconcile LXXVI canonical graph links and synthesis frontier'
           git pull --rebase origin main
           git push origin HEAD:main
