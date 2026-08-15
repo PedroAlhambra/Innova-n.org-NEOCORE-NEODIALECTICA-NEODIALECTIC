@@ -305,7 +305,7 @@ CANONICAL PUBLIC GITHUB
 + public WEB4™ specification
 ```
 
-Working implementation does not live here. It is developed in the private `PedroAlhambra/innova-n` repository, previewed privately/locally and later projected manually to Hostalia.
+Working implementation does not live here. It is developed in the private `PedroAlhambra/innova-n` repository and previewed there/locally before being projected manually to Hostalia.
 
 ```text
 NEO0™
@@ -327,9 +327,27 @@ Related direction document:
 
 ### 3. Target public architecture
 
-WEB4™ should progressively provide native surfaces for Home/living map, NeoCronos™/Eagle, traceable contributions/role credits, Open Synthesis™, Neoaxioms™, Manifestos™, Learning, NeoGames™, visual art, Music, Literature/IDEA, science/technology/research, Audits/Leónidas™, NeoGenealogy™/RADAR-Π™, corpus-derived news, nodes/monads and infrastructure credits/MÉDICI™.
+WEB4™ should progressively organise native surfaces for:
 
-Implementation remains modular so surfaces can evolve and be reviewed independently without losing their relations to the common corpus.
+- Home / living map.
+- NeoCronos™ / Eagle.
+- Traceable contributions / role credits.
+- Open Synthesis™.
+- Neoaxioms™.
+- Manifestos™.
+- Learning.
+- NeoGames™.
+- Art, photography and visual work.
+- Music.
+- Literature and IDEA.
+- Science, technology and research.
+- Audits / Leónidas™.
+- NeoGenealogy™ / RADAR-Π™.
+- News derived from the corpus.
+- Nodes/monads of people, AIs, works, projects, institutions, events, documents and concepts.
+- Infrastructure credits / MÉDICI™.
+
+Implementation is modular so that surfaces can evolve and be reviewed independently without losing their relations to the common corpus.
 
 ### 4. Public GitHub as data source
 
@@ -345,19 +363,39 @@ CANONICAL CORPUS / GITHUB
 → WEB4™ projection
 ```
 
-Counts, latest manifesto, news, relations, states, genealogy and reading surfaces should increasingly derive from versioned sources. Generated indexes or development caches may be used when direct reading is unsuitable, but the public canonical source remains authoritative.
+Counts, latest manifesto, news, relations, states, genealogy and reading surfaces should increasingly be calculated from versioned sources.
 
-A material expansion should retain a visible relation to the current Manifestos, Neoaxioms and Open Synthesis paths supporting it, including later corrections that superseded provisional states.
+When direct reading is not suitable, a structured index or development cache may be generated, but the public canonical source remains the origin of the data.
+
+A material expansion must preserve a visible relation to the Manifestos, Neoaxioms and Open Synthesis paths supporting it, including later corrections that have replaced earlier provisional states.
 
 ### 5. Manifestos and Neoaxioms as readers
 
-Manifestos and Neoaxioms™ must not be reduced to summary cards. WEB4™ should provide full text, search/index, previous/next/deep-link navigation, source/version/date/state, canonical GitHub return, associated Open Synthesis, explicit relations, per-document relation clouds and a global network topology.
+Manifestos and Neoaxioms™ must not be reduced to summary cards. WEB4™ should provide:
 
-Canonical traceable relations must remain distinguishable from candidate/inferred relations.
+- full text;
+- index and search;
+- previous/next navigation and deep links;
+- source, version, date and state;
+- return to the canonical GitHub document;
+- associated Open Synthesis;
+- explicit relations;
+- a relation cloud for each document;
+- a general network-style topology;
+- bidirectional navigation between related nodes.
+
+The topology must distinguish a **traceable canonical relation** from a candidate/inferred relation. Similarity alone does not create a canonical edge.
 
 ### 6. Relation cloud and topology
 
-The network should progressively derive from explicit document links, canonical cross-references, `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`, traceable NeoGenealogy™/RADAR-Π™ classifications, registered Open Synthesis relations and links among works, analyses, audits, concepts and nodes.
+The network should progressively be derivable from:
+
+- explicit documentary hyperlinks;
+- canonical cross-references;
+- `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`;
+- NeoGenealogy™ and RADAR-Π™ where a traceable classification exists;
+- registered Open Synthesis relations;
+- relations among works, analyses, audits, concepts and nodes.
 
 ```text
 DOCUMENT / NODE
@@ -369,11 +407,11 @@ DOCUMENT / NODE
 → RETURN TO SOURCE
 ```
 
-This is not a popularity ranking. Relevance comes from function, relation, state and evidence.
+This is not intended as a popularity ranking. Relevance depends on function, relation, state and evidence.
 
 ### 7. NeoCronos™ = Eagle
 
-NeoCronos™ is represented by **the Eagle**. It is not Neo0™, the rider or Rocinante™.
+**Semantic fixation:** NeoCronos™ is represented by **the Eagle**. It is not Neo0™, the rider or Rocinante™.
 
 ```text
 EAGLE / NEOCRONOS™ = temporal observation + memory + measurement + unfolding + recalculation
@@ -383,7 +421,9 @@ NETWORK / NEOCORE™  = relations + contradiction + memory + synthesis
 HORIZON / SUN       = possible future + open direction
 ```
 
-Functional separation remains:
+NeoCronos™ should make it possible to observe states, genealogies, cycles, bifurcations, contributions, deltas and possible futures without turning any of them into a predetermined destination.
+
+The current functional separation is:
 
 ```text
 NEOCRONOS™ = MEASUREMENT / TRACE
@@ -394,7 +434,7 @@ TOKENISATION = REPRESENTATION OF RECOGNISED VALUE UNDER RULES
 
 ### 8. Traceable contributions and vNext recognition tokenisation
 
-The next public projection starts a visible contribution-trace layer linked to [Issue #147](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/147), preserving the corrections developed in #141 and #142:
+The next public projection starts a visible contribution-trace layer linked to [Issue #147](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/147), preserving the open corrections in #141 and #142:
 
 ```text
 NC-EVT-* = CONTRIBUTION EVENT
@@ -416,11 +456,11 @@ NC-CR
 ≠ AUTOMATIC ECONOMIC REWARD
 ```
 
-The former proposal of “1 genesis unit” is not an active allocation; it remains a historical **REQUIRES_RECALCULATION / PENDING-SAN** state.
+The former proposal of “1 genesis unit” is not considered an active allocation: it remains a historical **REQUIRES_RECALCULATION / PENDING-SAN** state.
 
-This phase does not by itself activate a foundational-token supply, ONes™ as reward currency, SAN™ as a financial unit, PoU™, DAO-SAN™, blockchain, smart contracts, transferability, markets, price, convertibility, equity, yield or balance-derived voting.
+This phase does not by itself activate foundational-token supply, ONes™ as a reward currency, SAN™ as a financial unit, PoU™, DAO-SAN™, blockchain, smart contracts, transferability, markets, price, convertibility, equity, yield or balance-derived voting.
 
-Time is not price:
+Traceability does not turn time into price:
 
 ```text
 1 HOUR ≠ 1 TOKEN
@@ -432,11 +472,27 @@ VALIDATED ≠ AUTOMATIC ECONOMIC TOKEN
 
 ### 9. Infrastructure credits and MÉDICI™
 
-WEB4™ should visibly recognise platforms and infrastructures that materially sustain the system. Credit does not imply conceptual authorship, ownership or sovereignty.
+WEB4™ should visibly recognise platforms and infrastructures that materially make the system possible. Credit does not imply conceptual authorship, ownership or sovereignty.
 
-MÉDICI™ remains a **separate** off-chain infrastructure-recognition layer evaluated by `service + period`. Uncompensated useful value may be eligible; partially compensated value is eligible only for the uncompensated fraction; a fully paid fraction receives credit and trace but zero direct MÉDICI™ for that paid part.
+MÉDICI™ is a **separate** off-chain recognition layer for infrastructure evaluated by `service + period`:
 
-MÉDICI™ is not the generic human-contribution token and not the foundational token.
+```text
+FREE / UNCOMPENSATED CONTRIBUTION
+→ MÉDICI™ ELIGIBILITY
+
+PARTIALLY COMPENSATED CONTRIBUTION
+→ MÉDICI™ ON THE UNCOMPENSATED FRACTION
+
+PAID / COMPENSATED CONTRIBUTION
+→ CREDIT + TRACE
+→ 0 DIRECT MÉDICI™ FOR THE PART ALREADY PAID
+```
+
+MÉDICI™ is not the generic token for human contributions and is not the foundational token.
+
+- [WEB4™ credits](./credits/)
+- [MÉDICI™ platform rule ES/EN](../propuestas/sintesis-abierta/MEDICI_CREDITOS_PLATAFORMAS_COMPENSACION_ES_EN.md)
+- [MÉDICI™ calculation engine v0.1](../propuestas/sintesis-abierta/MEDICI_MOTOR_CALCULO_PLATAFORMAS_V0_1_ES_EN.md)
 
 ### 10. Entry depth
 
@@ -448,25 +504,40 @@ depth       → corpus and relations
 action      → learn + create + challenge + contribute + synthesise
 ```
 
+Simplifying the doorway does not mean simplifying the territory.
+
 ### 11. Visual rule
 
 WEB4™ should support light and dark modes and avoid a uniformly nocturnal-futuristic aesthetic. It should integrate everyday humanity, real diversity, nature, culture, art, science and technology.
 
+For NeoCronos™, the Eagle is the primary symbol. Horizons, dawns, sunsets, seasons and sequences of the same territory can represent **continuity + transformation**.
+
+Images with a public function should be published as real web resources, cacheable and indexable, with appropriate metadata and alternative text.
+
 ### 12. Relational navigation
 
-Every surface should help answer where the visitor is, where the content comes from, what it relates to, what can be done there, how it can be challenged or improved, and which traceable contribution produced a material change.
+Every surface should help answer:
+
+```text
+WHERE AM I?
+WHERE DOES THIS COME FROM?
+WHAT DOES IT RELATE TO?
+WHAT CAN I DO HERE?
+HOW CAN I CHALLENGE OR IMPROVE IT?
+WHAT CONTRIBUTION PRODUCED THIS CHANGE AND HOW IS IT TRACED?
+```
 
 ### 13. Preserved documentary references
 
 Existing HTML under `web4/` is retained as **documentary/historical capability reference**, not as a parallel public site or production candidate:
 
-- [`index.html`](./index.html) — historical home/capability reference.
-- [`manifiestos/`](./manifiestos/) — navigable-manifesto-reader reference.
+- [`index.html`](./index.html) — historical home and capability reference.
+- [`manifiestos/`](./manifiestos/) — navigable manifesto reader reference.
 - [`idea/`](./idea/) — IDEA integration reference.
-- [`neocronos/`](./neocronos/) — historical NeoCronos™ visual/temporal reference.
-- [`credits/`](./credits/) — infrastructure/MÉDICI™ reference.
+- [`neocronos/`](./neocronos/) — historical NeoCronos™ visual/temporal experimentation reference.
+- [`credits/`](./credits/) — infrastructure credits and MÉDICI™ reference.
 
-Private implementation may preserve, improve or replace these capabilities; it must not treat these HTML files as the live website.
+Private implementation may preserve, improve or replace these capabilities; it must not assume that these HTML files are the live website.
 
 ### 14. Target product loop
 
