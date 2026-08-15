@@ -9,7 +9,7 @@
 
 - Markdown activo examinado / Active Markdown scanned: **291**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **209**.
-- Fallos estructurales divididos / Split structural failures: **114**.
+- Fallos estructurales divididos / Split structural failures: **113**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **24**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -45,8 +45,6 @@
   - 7: párrafos ES=2 EN=1
 - `analisis/publicos/2026-08-08_addendum_distrokid_catalogo_album_removed_added_apple_music_ES_EN.md` · ES=803 · EN=772 · ratio=0.96
   - 8: párrafos ES=3 EN=4
-- `analisis/publicos/2026-08-08_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_funcional_ES_EN.md` · ES=419 · EN=417 · ratio=1.00
-  - Debate para Síntesis Abierta: párrafos ES=4 EN=3
 - `analisis/publicos/2026-08-08_distrokid_ticket_4499471_respuesta_no_resolutiva_y_reiteracion_auditoria_ES_EN.md` · ES=754 · EN=713 · ratio=0.95
   - 8: párrafos ES=1 EN=2
 - `analisis/publicos/2026-08-08_estado_correo_difusion_idea_y_adhesiones_sintesis_ES_EN.md` · ES=404 · EN=373 · ratio=0.92
@@ -324,7 +322,7 @@
 | `analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md` | **REVISAR** | 8: párrafos ES=5 EN=4 |
 | `analisis/publicos/2026-08-08_addendum_autodemostracion_creacion_neodialectica_historia_olvidada_ES_EN.md` | **REVISAR** | 7: párrafos ES=2 EN=1 |
 | `analisis/publicos/2026-08-08_addendum_distrokid_catalogo_album_removed_added_apple_music_ES_EN.md` | **REVISAR** | 8: párrafos ES=3 EN=4 |
-| `analisis/publicos/2026-08-08_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_funcional_ES_EN.md` | **REVISAR** | Debate para Síntesis Abierta: párrafos ES=4 EN=3 |
+| `analisis/publicos/2026-08-08_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_funcional_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-08_delta_poder_incentivos_tokenizacion_y_transicion_neodialectica_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-08_distrokid_ticket_4499471_respuesta_no_resolutiva_y_reiteracion_auditoria_ES_EN.md` | **REVISAR** | 8: párrafos ES=1 EN=2 |
 | `analisis/publicos/2026-08-08_estado_correo_difusion_idea_y_adhesiones_sintesis_ES_EN.md` | **REVISAR** | Novum: párrafos ES=3 EN=2; 5: párrafos ES=1 EN=2 |
