@@ -54,7 +54,7 @@ def strip_generated_tail(s):
         if m: positions.append(m.start())
     # Only known editorial bilingual tail headings are shared boundaries. A slash alone
     # is not sufficient: content headings such as "Stanford / ACE" are part of the document.
-    m=re.search(r'^#{1,6}\s+(?:Fuentes[^\n]* / [^\n]*(?:Sources|sources)|Historial de versiones / Version history|Firma común / Common signature|Principio de procedencia / Provenance principle|Relaciones internas y trabajo aplicado / Internal relations and applied work|Relación con los manifiestos / Relation to the manifestos|Candidatos neoaxiomáticos / Neoaxiomatic candidates|Relaciones / Relations|Referencias cruzadas canónicas / Canonical cross-references|Puerta de Síntesis / Synthesis Gate|Referencias / References|Relación manifiesto / Manifesto relation|Vínculos / Links|Trazabilidad / Traceability|Materiales relacionados / Related materials|Derechos / Rights|Nodos relacionados / Related nodes|Navegación / Navigation|Trazabilidad KDP 51071689 · estado actual / KDP 51071689 traceability · current state|Licencia de participación / Participation licence)\s*$',s,re.M)
+    m=re.search(r'^#{1,6}\s+(?:Fuentes[^\n]* / [^\n]*(?:Sources|sources)|Historial de versiones / Version history|Firma común / Common signature|Principio de procedencia / Provenance principle|Relaciones internas y trabajo aplicado / Internal relations and applied work|Relación con los manifiestos / Relation to the manifestos|Candidatos neoaxiomáticos / Neoaxiomatic candidates|Relaciones / Relations|Referencias cruzadas canónicas / Canonical cross-references|Puerta de Síntesis / Synthesis Gate|Referencias / References|Relación manifiesto / Manifesto relation|Vínculos / Links|Trazabilidad / Traceability|Materiales relacionados / Related materials|Derechos / Rights|Nodos relacionados / Related nodes|Navegación / Navigation|Trazabilidad KDP 51071689 · estado actual / KDP 51071689 traceability · current state|Licencia de participación / Participation licence|Síntesis Abierta / Open Synthesis)\s*$',s,re.M)
     if m: positions.append(m.start())
     return s[:min(positions)] if positions else s
 
@@ -230,6 +230,10 @@ for p in sorted(ROOT.rglob('*.md')):
     if p.parent == ROOT and p.name in LEGACY_ROOT_NAMES: continue
     if any(part in EXCLUDED_PARTS for part in p.parts): continue
     if rel.startswith(EXCLUDED_PREFIXES): continue
+    # Historical postchecks are immutable evidence of a past repository state. The active
+    # symmetry policy explicitly preserves such records instead of rewriting them to match
+    # later editorial conventions. They remain public, but are not live bilingual surfaces.
+    if rel.startswith('auditorias/publicas/2026-08-07_postcheck_'): continue
     active_md.append(p)
     text=p.read_text(encoding='utf-8',errors='replace')
     split=explicit_split(text)

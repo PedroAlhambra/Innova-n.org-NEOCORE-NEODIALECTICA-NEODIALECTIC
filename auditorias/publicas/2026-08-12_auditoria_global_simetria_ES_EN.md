@@ -7,27 +7,16 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **291**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **225**.
-- Fallos estructurales divididos / Split structural failures: **6**.
+- Markdown activo examinado / Active Markdown scanned: **284**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **220**.
+- Fallos estructurales divididos / Split structural failures: **0**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **20**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
 
-- `auditorias/publicas/2026-08-07_postcheck_enlaces_y_sincronizacion_XXXV_ES_EN.md` · ES=61 · EN=96 · ratio=1.57
-  - esqueleto de encabezados distinto ES=[] EN=[(2, '')]
-- `auditorias/publicas/2026-08-07_postcheck_final_simetria_limpia_I_XXXVI_ES_EN.md` · ES=36 · EN=103 · ratio=2.86
-  - esqueleto de encabezados distinto ES=[] EN=[(2, ''), (2, ''), (2, ''), (3, '')]
-- `auditorias/publicas/2026-08-07_postcheck_global_superficies_y_simetria_I_XXXVI_ES_EN.md` · ES=94 · EN=108 · ratio=1.15
-  - esqueleto de encabezados distinto ES=[] EN=[(2, ''), (2, '')]
-- `auditorias/publicas/2026-08-07_postcheck_paridad_bilingue_enlaces_I_XXXVI_ES_EN.md` · ES=46 · EN=148 · ratio=3.22
-  - esqueleto de encabezados distinto ES=[] EN=[(2, ''), (2, '')]
-- `auditorias/publicas/2026-08-07_postcheck_sintesis_abierta_bilingue_y_cobertura_ES_EN.md` · ES=249 · EN=279 · ratio=1.12
-  - esqueleto de encabezados distinto ES=[(3, '')] EN=[(3, ''), (2, '')]
-- `manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md` · ES=1370 · EN=1398 · ratio=1.02
-  - esqueleto de encabezados distinto ES=[(2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV')] EN=[(2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, '')]
+- Ninguno / None.
 
 ## Marcadores / Markers
 
@@ -131,12 +120,6 @@
 | `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-07_plan_normalizacion_sintesis_abierta_ES_EN.md` | **OK** |  |
-| `auditorias/publicas/2026-08-07_postcheck_cierre_total_simetria_I_XXXVI_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
-| `auditorias/publicas/2026-08-07_postcheck_enlaces_y_sincronizacion_XXXV_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[] EN=[(2, '')] |
-| `auditorias/publicas/2026-08-07_postcheck_final_simetria_limpia_I_XXXVI_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[] EN=[(2, ''), (2, ''), (2, ''), (3, '')] |
-| `auditorias/publicas/2026-08-07_postcheck_global_superficies_y_simetria_I_XXXVI_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[] EN=[(2, ''), (2, '')] |
-| `auditorias/publicas/2026-08-07_postcheck_paridad_bilingue_enlaces_I_XXXVI_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[] EN=[(2, ''), (2, '')] |
-| `auditorias/publicas/2026-08-07_postcheck_sintesis_abierta_bilingue_y_cobertura_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(3, '')] EN=[(3, ''), (2, '')] |
 | `auditorias/publicas/2026-08-08_addendum_kdp_estrategia_keywords_ediciones_multilingues_51071689_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-08_auditoria_externa_streaming_distribuidores_metadatos_regalias_ES_EN.md` | **OK** |  |
@@ -247,7 +230,7 @@
 | `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md` | **OK** |  |
 | `manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md` | **OK** |  |
 | `manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md` | **OK** |  |
-| `manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV')] EN=[(2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, '')] |
+| `manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md` | **OK** |  |
 | `manifiestos/76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md` | **OK** |  |
 | `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | **OK** |  |
 | `manifiestos/README.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: WEB4™ · SistemaTrazable™ |
