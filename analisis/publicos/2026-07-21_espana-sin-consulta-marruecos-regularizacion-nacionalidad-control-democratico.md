@@ -2107,6 +2107,12 @@ A democracy that does not allow its citizens to understand, ratify or halt its o
 
 ---
 
+## Evidence and sources
+
+- [[Primary sources, evidence matrix and documentary gaps](./evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md)](./evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md)
+
+---
+
 ## Documentary continuation
 
 This analysis continues in a second part devoted to the operational layer of the system:

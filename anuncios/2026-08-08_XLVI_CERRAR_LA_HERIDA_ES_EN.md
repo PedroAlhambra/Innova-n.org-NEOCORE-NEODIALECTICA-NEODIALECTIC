@@ -1,5 +1,5 @@
-# XLVI · Cerrar la Herida™
-## Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria
+# XLVI · Cerrar la Herida™ / Closing the Wound™
+## Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria / Evolutionary Understanding, Memory and Civilisational Reconciliation
 
 **ES**
 

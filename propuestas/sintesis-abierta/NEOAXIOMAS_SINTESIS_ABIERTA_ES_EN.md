@@ -1,5 +1,4 @@
-# Neoaxiomas™ · Síntesis Abierta
-## Neoaxioms™ · Open Synthesis
+# Neoaxiomas™ · Síntesis Abierta / Neoaxioms™ · Open Synthesis
 
 **Estado / Status:** ABIERTO / OPEN  
 **Issue canónico de contraste / Canonical discussion issue:** **[#80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)**

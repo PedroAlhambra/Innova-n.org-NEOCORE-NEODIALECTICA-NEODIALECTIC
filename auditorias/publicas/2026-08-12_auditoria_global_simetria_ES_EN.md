@@ -11,13 +11,13 @@
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **222**.
 - Fallos estructurales divididos / Split structural failures: **1**.
 - Fallos de marcadores / Marker failures: **0**.
-- Superficies pareadas para revisión / Paired surfaces for review: **19**.
+- Superficies pareadas para revisión / Paired surfaces for review: **12**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
 
-- `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · ES=5290 · EN=5268 · ratio=1.00
-  - esqueleto de encabezados distinto ES=[(2, ''), (2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (3, ''), (2, '8'), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17'), (2, '18'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '19'), (2, '20'), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (3, ''), (2, '8'), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17'), (2, '18'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '19'), (2, '20'), (2, '')]
+- `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · ES=5290 · EN=5290 · ratio=1.00
+  - esqueleto de encabezados distinto ES=[(2, ''), (2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (3, ''), (2, '8'), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17'), (2, '18'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '19'), (2, '20'), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (3, ''), (2, '8'), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17'), (2, '18'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '19'), (2, '20'), (2, ''), (2, '')]
 
 ## Marcadores / Markers
 
@@ -25,9 +25,6 @@
 
 ## Superficies pareadas que requieren revisión / Paired surfaces requiring review
 
-- `analisis/publicos/evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md`: España, Marruecos, regularización y nacionalidad
-- `anuncios/2026-08-08_XLVII_ODIO_SINO_GOAT_SOMBRA_DOBLE_CARA_ES_EN.md`: The Goat, Sombra, Vínculo y Doble Cara de la Vida
-- `anuncios/2026-08-08_XLVI_CERRAR_LA_HERIDA_ES_EN.md`: Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria
 - `auditorias/publicas/2026-08-08_postcheck_XLIV_neowar_enlaces_readmes_ES_EN.md`: Postcheck XLIV · Neowar™ · enlaces y READMEs | XLIV postcheck · Neowar™ · links and READMEs
 - `auditorias/publicas/2026-08-08_postcheck_XLV_multidimensionalidad_enlaces_readmes_ES_EN.md`: Postcheck XLV · Multidimensionalidad Neodialéctica™ · enlaces y READMEs | XLV postcheck · Neodialectical Multidimensionality™ · links and READMEs
 - `auditorias/publicas/2026-08-09_auditoria_paridad_ES_EN_manifiestos_articulos.md`: Auditoría de paridad ES/EN · manifiestos y artículos públicos
@@ -37,13 +34,9 @@
 - `auditorias/publicas/2026-08-09_postcheck_neocore_7_1_integridad_relacional_no_reductiva_ES_EN.md`: Postcheck NEOCore™ 7.1 · integridad relacional y no reductiva
 - `auditorias/publicas/2026-08-10_postcheck_neocore_7_2_final_indices_paridad_ES_EN.md`: Resultado
 - `auditorias/publicas/2026-08-10_postcheck_neocore_7_2_soberania_sintesis_web4_ES_EN.md`: WEB4™
-- `difusion/2026-08-09_marco_tanda_01_ES_EN.md`: Difusión del marco · tanda 01 · 2026-08-09
-- `difusion/2026-08-09_marco_tanda_02_ES_EN.md`: Difusión del marco · tanda 02 · 2026-08-09
 - `manifiestos/README.md`: WEB4™ · SistemaTrazable™
-- `propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md`: Neoaxiomas™ · Síntesis Abierta
 - `proyeccion/README.md`: Proyección y difusión trazable | Genealogía y salvaguarda
 - `web4/2026-08-10_POSTCHECK_WEB4_7_2_IDEA_ES_EN.md`: Postcheck WEB4™ · NEOCore™ 7.2 + IDEA | Límite de verificación
-- `wiki-source/README.md`: Salvaguarda
 
 ## Plantillas GitHub Issue / GitHub Issue templates
 
@@ -64,7 +57,7 @@
 | `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` | **OK** |  |
 | `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` | **OK** |  |
 | `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` | **OK** |  |
-| `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, ''), (2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (3, ''), (2, '8'), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17'), (2, '18'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '19'), (2, '20'), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (3, ''), (2, '8'), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17'), (2, '18'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '19'), (2, '20'), (2, '')] |
+| `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, ''), (2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (3, ''), (2, '8'), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17'), (2, '18'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '19'), (2, '20'), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (3, ''), (2, '8'), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17'), (2, '18'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '19'), (2, '20'), (2, ''), (2, '')] |
 | `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` | **OK** |  |
@@ -98,7 +91,7 @@
 | `analisis/publicos/2026-08-13_convergencia-neodialectica-meta-zuckerberg_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md` | **OK** |  |
 | `analisis/publicos/README.md` | **OK** |  |
-| `analisis/publicos/evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: España, Marruecos, regularización y nacionalidad |
+| `analisis/publicos/evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `analisis/publicos/evidencias/2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md` | **OK** |  |
 | `analisis/publicos/evidencias/2026-08-07_canarias-quorum-tutela-contratacion-control-politico-fuentes-y-matriz_ES_EN.md` | **OK** |  |
 | `analisis/publicos/evidencias/2026-08-07_ceuta-marruecos-evolucion-conflicto-fuentes-y-matriz_ES_EN.md` | **OK** |  |
@@ -115,8 +108,8 @@
 | `anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md` | **OK** |  |
 | `anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md` | **OK** |  |
 | `anuncios/2026-08-08_LII_CIUDADANIA_HUMANA_NEODIALECTICA_ES_EN.md` | **OK** |  |
-| `anuncios/2026-08-08_XLVII_ODIO_SINO_GOAT_SOMBRA_DOBLE_CARA_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: The Goat, Sombra, Vínculo y Doble Cara de la Vida |
-| `anuncios/2026-08-08_XLVI_CERRAR_LA_HERIDA_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria |
+| `anuncios/2026-08-08_XLVII_ODIO_SINO_GOAT_SOMBRA_DOBLE_CARA_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
+| `anuncios/2026-08-08_XLVI_CERRAR_LA_HERIDA_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `auditorias/publicas/2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md` | **OK** |  |
@@ -154,8 +147,8 @@
 | `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/README.md` | **OK** |  |
-| `difusion/2026-08-09_marco_tanda_01_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Difusión del marco · tanda 01 · 2026-08-09 |
-| `difusion/2026-08-09_marco_tanda_02_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Difusión del marco · tanda 02 · 2026-08-09 |
+| `difusion/2026-08-09_marco_tanda_01_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
+| `difusion/2026-08-09_marco_tanda_02_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` | **OK** |  |
 | `manifiestos/02_neodialectica_bien_comun_ES_EN.md` | **OK** |  |
 | `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` | **OK** |  |
@@ -267,7 +260,7 @@
 | `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/MEDICI_CREDITOS_PLATAFORMAS_COMPENSACION_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/MEDICI_MOTOR_CALCULO_PLATAFORMAS_V0_1_ES_EN.md` | **OK** |  |
-| `propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Neoaxiomas™ · Síntesis Abierta |
+| `propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `propuestas/sintesis-abierta/NEOCRONOS_RETORNO_TEMPORAL_TOKENIZACION_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/NEOCRONOS_UPGRADE_ENTRADA_PANEL_TRAZA_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md` | **OK** |  |
@@ -300,7 +293,7 @@
 | `wiki-source/Participar.md` | **OK** |  |
 | `wiki-source/Procedencia_Trazabilidad_y_Legal.md` | **OK** |  |
 | `wiki-source/RADAR_PI.md` | **OK** |  |
-| `wiki-source/README.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Salvaguarda |
+| `wiki-source/README.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `wiki-source/Sintesis_Abierta.md` | **OK** |  |
 | `wiki-source/WEB4_y_Proyeccion.md` | **OK** |  |
 

@@ -1,5 +1,5 @@
-# XLVII · El Odio de Neo0 hacia su Sino™
-## The Goat, Sombra, Vínculo y Doble Cara de la Vida
+# XLVII · El Odio de Neo0 hacia su Sino™ / Neo0’s Hatred of His Fate™
+## La Cabra, Sombra, Vínculo y Doble Cara de la Vida / The Goat, Shadow, Bond and Two Faces of Life
 
 **ES**
 

@@ -5,7 +5,7 @@ Este directorio contiene la fuente estable de navegación de la Wiki pública de
 
 This directory contains the stable navigation source for the public Innova_N Wiki.
 
-## Principio
+## Principio / Principle
 
 > **Repositorio = contenido, genealogía y trazabilidad. Wiki = orientación estable y mapa de acceso.**
 >
@@ -31,20 +31,20 @@ The Wiki avoids duplicating living inventories, numerical states, candidate list
 - [Sidebar](./_Sidebar.md)
 - [Despliegue / Deployment](./DEPLOY_MINIMO.md)
 
-## Regla de mantenimiento
+## Regla de mantenimiento / Maintenance rule
 
 La Wiki cambia cuando cambia la **arquitectura de entrada, lectura, participación o navegación**. Los nuevos manifiestos, Neoaxiomas™, análisis, auditorías, obras y síntesis se incorporan a sus índices canónicos del repositorio y quedan automáticamente alcanzables desde esta estructura estable.
 
 The Wiki changes when the **entry, reading, participation or navigation architecture** changes. New manifestos, Neoaxioms™, analyses, audits, works and syntheses are added to their canonical repository indexes and automatically remain reachable through this stable structure.
 
-## Fuente de verdad
+## Fuente de verdad / Source of truth
 
 - [Repositorio canónico](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC)
 - [Mapa documental de la Wiki](./Mapa_del_Marco.md)
 - [Historial de commits](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commits/main)
 - [Snapshot de referencia](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/tree/snapshot/neocore-7-current-2026-08-11)
 
-## Salvaguarda
+## Salvaguarda / Safeguard
 
 La Wiki no debe convertirse en un segundo canon. Si una explicación de la Wiki contradice la fuente enlazada, prevalece el documento canónico del repositorio y la Wiki debe corregirse.
 

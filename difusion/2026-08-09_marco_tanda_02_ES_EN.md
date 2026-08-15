@@ -1,5 +1,4 @@
-# Difusión del marco · tanda 02 · 2026-08-09
-## Framework outreach · batch 02 · 2026-08-09
+# Difusión del marco · tanda 02 · 2026-08-09 / Framework outreach · batch 02 · 2026-08-09
 
 **Estado / Status:** enviada / sent
 
