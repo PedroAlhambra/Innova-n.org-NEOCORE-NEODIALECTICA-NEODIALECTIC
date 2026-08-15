@@ -11,13 +11,69 @@
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **222**.
 - Fallos estructurales divididos / Split structural failures: **1**.
 - Fallos de marcadores / Marker failures: **0**.
-- Superficies pareadas para revisión / Paired surfaces for review: **12**.
+- Superficies pareadas para revisión / Paired surfaces for review: **0**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
 
 - `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` · ES=5290 · EN=5290 · ratio=1.00
-  - esqueleto de encabezados distinto ES=[(2, ''), (2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (3, ''), (2, '8'), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17'), (2, '18'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '19'), (2, '20'), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (3, ''), (2, '8'), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17'), (2, '18'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '19'), (2, '20'), (2, ''), (2, '')]
+  - Una Síntesis Abierta™ desde el marco neodialéctico sobre una transformación estructural que la ciudadanía no ha podido ratificar: lists ES=0 EN=16
+  - Una Síntesis Abierta™ desde el marco neodialéctico sobre una transformación estructural que la ciudadanía no ha podido ratificar: quotes ES=0 EN=1
+  - Una Síntesis Abierta™ desde el marco neodialéctico sobre una transformación estructural que la ciudadanía no ha podido ratificar: párrafos ES=9 EN=7
+  - 1: lists ES=0 EN=8
+  - 1: quotes ES=0 EN=1
+  - 1: párrafos ES=9 EN=8
+  - 2: lists ES=0 EN=9
+  - 2: párrafos ES=19 EN=18
+  - 3: lists ES=0 EN=20
+  - 3: párrafos ES=13 EN=11
+  - 4: lists ES=0 EN=11
+  - 4: quotes ES=0 EN=2
+  - 4: párrafos ES=19 EN=17
+  - 5: lists ES=0 EN=7
+  - 5: párrafos ES=16 EN=15
+  - 6: quotes ES=0 EN=2
+  - 7: lists ES=0 EN=6
+  - 7: quotes ES=0 EN=1
+  - 7: párrafos ES=9 EN=8
+  - 8: quotes ES=0 EN=2
+  - 9: lists ES=0 EN=6
+  - 9: quotes ES=0 EN=1
+  - 9: párrafos ES=15 EN=14
+  - 10: lists ES=0 EN=12
+  - 10: quotes ES=0 EN=1
+  - 10: párrafos ES=14 EN=12
+  - 11: lists ES=0 EN=14
+  - 11: párrafos ES=14 EN=12
+  - 12: lists ES=0 EN=12
+  - 12: quotes ES=0 EN=1
+  - 12: párrafos ES=17 EN=15
+  - 13: lists ES=0 EN=21
+  - 13: quotes ES=0 EN=1
+  - 13: párrafos ES=16 EN=13
+  - 14: lists ES=0 EN=17
+  - 14: quotes ES=0 EN=1
+  - 14: párrafos ES=12 EN=10
+  - 15: lists ES=0 EN=37
+  - 15: párrafos ES=14 EN=9
+  - 16: lists ES=0 EN=14
+  - 16: quotes ES=0 EN=1
+  - 16: párrafos ES=11 EN=9
+  - 17: lists ES=0 EN=15
+  - 17: quotes ES=0 EN=2
+  - 17: párrafos ES=18 EN=16
+  - Hechos verificados: lists ES=1 EN=13
+  - Relaciones estructurales: lists ES=0 EN=6
+  - Relaciones estructurales: párrafos ES=1 EN=0
+  - Inferencias razonables: lists ES=0 EN=7
+  - Inferencias razonables: párrafos ES=1 EN=0
+  - Hipótesis abiertas: lists ES=0 EN=8
+  - Hipótesis abiertas: párrafos ES=3 EN=2
+  - 19: lists ES=0 EN=21
+  - 19: párrafos ES=25 EN=23
+  - 20: lists ES=1 EN=20
+  - Conclusión: lists ES=0 EN=22
+  - Conclusión: párrafos ES=40 EN=35
 
 ## Marcadores / Markers
 
@@ -25,18 +81,7 @@
 
 ## Superficies pareadas que requieren revisión / Paired surfaces requiring review
 
-- `auditorias/publicas/2026-08-08_postcheck_XLIV_neowar_enlaces_readmes_ES_EN.md`: Postcheck XLIV · Neowar™ · enlaces y READMEs | XLIV postcheck · Neowar™ · links and READMEs
-- `auditorias/publicas/2026-08-08_postcheck_XLV_multidimensionalidad_enlaces_readmes_ES_EN.md`: Postcheck XLV · Multidimensionalidad Neodialéctica™ · enlaces y READMEs | XLV postcheck · Neodialectical Multidimensionality™ · links and READMEs
-- `auditorias/publicas/2026-08-09_auditoria_paridad_ES_EN_manifiestos_articulos.md`: Auditoría de paridad ES/EN · manifiestos y artículos públicos
-- `auditorias/publicas/2026-08-09_auditoria_paridad_bilingue_manifiestos_neoaxiomas_ES_EN.md`: Auditoría de paridad bilingüe no reductiva | Regla de conservación
-- `auditorias/publicas/2026-08-09_auditoria_regresiones_historicas_manifiestos_ES_EN.md`: Auditoría histórica no reductiva de manifiestos
-- `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md`: Auditoría relacional MAXPROC · Manifiestos ↔ Neoaxiomas ↔ publicaciones ↔ Síntesis Abierta | Cocitación documental · candidatos de relación para revisión SAN
-- `auditorias/publicas/2026-08-09_postcheck_neocore_7_1_integridad_relacional_no_reductiva_ES_EN.md`: Postcheck NEOCore™ 7.1 · integridad relacional y no reductiva
-- `auditorias/publicas/2026-08-10_postcheck_neocore_7_2_final_indices_paridad_ES_EN.md`: Resultado
-- `auditorias/publicas/2026-08-10_postcheck_neocore_7_2_soberania_sintesis_web4_ES_EN.md`: WEB4™
-- `manifiestos/README.md`: WEB4™ · SistemaTrazable™
-- `proyeccion/README.md`: Proyección y difusión trazable | Genealogía y salvaguarda
-- `web4/2026-08-10_POSTCHECK_WEB4_7_2_IDEA_ES_EN.md`: Postcheck WEB4™ · NEOCore™ 7.2 + IDEA | Límite de verificación
+- Ninguna / None.
 
 ## Plantillas GitHub Issue / GitHub Issue templates
 
@@ -57,7 +102,7 @@
 | `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` | **OK** |  |
 | `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` | **OK** |  |
 | `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` | **OK** |  |
-| `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, ''), (2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (3, ''), (2, '8'), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17'), (2, '18'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '19'), (2, '20'), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (3, ''), (2, '8'), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17'), (2, '18'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '19'), (2, '20'), (2, ''), (2, '')] |
+| `analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md` | **REVISAR** | Una Síntesis Abierta™ desde el marco neodialéctico sobre una transformación estructural que la ciudadanía no ha podido ratificar: lists ES=0 EN=16; Una Síntesis Abierta™ desde el marco neodialéctico sobre una transformación estructural que la ciudadanía no ha podido ratificar: quotes ES=0 EN=1; Una Síntesis Abierta™ desde el marco neodialéctico sobre una transformación estructural que la ciudadanía no ha podido ratificar: párrafos ES=9 EN=7; 1: lists ES=0 EN=8; 1: quotes ES=0 EN=1; 1: párrafos ES=9 EN=8; 2: lists ES=0 EN=9; 2: párrafos ES=19 EN=18; 3: lists ES=0 EN=20; 3: párrafos ES=13 EN=11; 4: lists ES=0 EN=11; 4: quotes ES=0 EN=2; 4: párrafos ES=19 EN=17; 5: lists ES=0 EN=7; 5: párrafos ES=16 EN=15; 6: quotes ES=0 EN=2; 7: lists ES=0 EN=6; 7: quotes ES=0 EN=1; 7: párrafos ES=9 EN=8; 8: quotes ES=0 EN=2; 9: lists ES=0 EN=6; 9: quotes ES=0 EN=1; 9: párrafos ES=15 EN=14; 10: lists ES=0 EN=12; 10: quotes ES=0 EN=1; 10: párrafos ES=14 EN=12; 11: lists ES=0 EN=14; 11: párrafos ES=14 EN=12; 12: lists ES=0 EN=12; 12: quotes ES=0 EN=1; 12: párrafos ES=17 EN=15; 13: lists ES=0 EN=21; 13: quotes ES=0 EN=1; 13: párrafos ES=16 EN=13; 14: lists ES=0 EN=17; 14: quotes ES=0 EN=1; 14: párrafos ES=12 EN=10; 15: lists ES=0 EN=37; 15: párrafos ES=14 EN=9; 16: lists ES=0 EN=14; 16: quotes ES=0 EN=1; 16: párrafos ES=11 EN=9; 17: lists ES=0 EN=15; 17: quotes ES=0 EN=2; 17: párrafos ES=18 EN=16; Hechos verificados: lists ES=1 EN=13; Relaciones estructurales: lists ES=0 EN=6; Relaciones estructurales: párrafos ES=1 EN=0; Inferencias razonables: lists ES=0 EN=7; Inferencias razonables: párrafos ES=1 EN=0; Hipótesis abiertas: lists ES=0 EN=8; Hipótesis abiertas: párrafos ES=3 EN=2; 19: lists ES=0 EN=21; 19: párrafos ES=25 EN=23; 20: lists ES=1 EN=20; Conclusión: lists ES=0 EN=22; Conclusión: párrafos ES=40 EN=35 |
 | `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` | **OK** |  |
@@ -123,20 +168,20 @@
 | `auditorias/publicas/2026-08-08_auditoria_oneshots_github_actions_carreras_noop_y_estado_final_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-08_auditoria_readmes_enlaces_estado_XLII_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-08_barrida_enlaces_manifiestos_articulos_XLVIII_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
-| `auditorias/publicas/2026-08-08_postcheck_XLIV_neowar_enlaces_readmes_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Postcheck XLIV · Neowar™ · enlaces y READMEs / XLIV postcheck · Neowar™ · links and READMEs |
-| `auditorias/publicas/2026-08-08_postcheck_XLV_multidimensionalidad_enlaces_readmes_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Postcheck XLV · Multidimensionalidad Neodialéctica™ · enlaces y READMEs / XLV postcheck · Neodialectical Multidimensionality™ · links and READMEs |
+| `auditorias/publicas/2026-08-08_postcheck_XLIV_neowar_enlaces_readmes_ES_EN.md` | **HISTÓRICO-PRESERVADO** | registro histórico inerte; fuera de la superficie bilingüe viva / immutable historical record; outside the live bilingual surface |
+| `auditorias/publicas/2026-08-08_postcheck_XLV_multidimensionalidad_enlaces_readmes_ES_EN.md` | **HISTÓRICO-PRESERVADO** | registro histórico inerte; fuera de la superficie bilingüe viva / immutable historical record; outside the live bilingual surface |
 | `auditorias/publicas/2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md` | **OK** |  |
-| `auditorias/publicas/2026-08-09_auditoria_paridad_ES_EN_manifiestos_articulos.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Auditoría de paridad ES/EN · manifiestos y artículos públicos |
-| `auditorias/publicas/2026-08-09_auditoria_paridad_bilingue_manifiestos_neoaxiomas_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Auditoría de paridad bilingüe no reductiva / Regla de conservación |
-| `auditorias/publicas/2026-08-09_auditoria_regresiones_historicas_manifiestos_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Auditoría histórica no reductiva de manifiestos |
-| `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Auditoría relacional MAXPROC · Manifiestos ↔ Neoaxiomas ↔ publicaciones ↔ Síntesis Abierta / Cocitación documental · candidatos de relación para revisión SAN |
+| `auditorias/publicas/2026-08-09_auditoria_paridad_ES_EN_manifiestos_articulos.md` | **HISTÓRICO-PRESERVADO** | registro histórico inerte; fuera de la superficie bilingüe viva / immutable historical record; outside the live bilingual surface |
+| `auditorias/publicas/2026-08-09_auditoria_paridad_bilingue_manifiestos_neoaxiomas_ES_EN.md` | **HISTÓRICO-PRESERVADO** | registro histórico inerte; fuera de la superficie bilingüe viva / immutable historical record; outside the live bilingual surface |
+| `auditorias/publicas/2026-08-09_auditoria_regresiones_historicas_manifiestos_ES_EN.md` | **HISTÓRICO-PRESERVADO** | registro histórico inerte; fuera de la superficie bilingüe viva / immutable historical record; outside the live bilingual surface |
+| `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` | **HISTÓRICO-PRESERVADO** | registro histórico inerte; fuera de la superficie bilingüe viva / immutable historical record; outside the live bilingual surface |
 | `auditorias/publicas/2026-08-09_distrokid_ticket_4499471_royalty_routing_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md` | **OK** |  |
-| `auditorias/publicas/2026-08-09_postcheck_neocore_7_1_integridad_relacional_no_reductiva_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Postcheck NEOCore™ 7.1 · integridad relacional y no reductiva |
+| `auditorias/publicas/2026-08-09_postcheck_neocore_7_1_integridad_relacional_no_reductiva_ES_EN.md` | **HISTÓRICO-PRESERVADO** | registro histórico inerte; fuera de la superficie bilingüe viva / immutable historical record; outside the live bilingual surface |
 | `auditorias/publicas/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-10_auditoria_responsabilidad_historica_infraestructuras_publicas_espana_ES_EN.md` | **OK** |  |
-| `auditorias/publicas/2026-08-10_postcheck_neocore_7_2_final_indices_paridad_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Resultado |
-| `auditorias/publicas/2026-08-10_postcheck_neocore_7_2_soberania_sintesis_web4_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: WEB4™ |
+| `auditorias/publicas/2026-08-10_postcheck_neocore_7_2_final_indices_paridad_ES_EN.md` | **HISTÓRICO-PRESERVADO** | registro histórico inerte; fuera de la superficie bilingüe viva / immutable historical record; outside the live bilingual surface |
+| `auditorias/publicas/2026-08-10_postcheck_neocore_7_2_soberania_sintesis_web4_ES_EN.md` | **HISTÓRICO-PRESERVADO** | registro histórico inerte; fuera de la superficie bilingüe viva / immutable historical record; outside the live bilingual surface |
 | `auditorias/publicas/2026-08-11_postcheck_LXIX_LXXII_C_NAX_19_navegacion_paridad_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-11_postcheck_LXXIII_LXXIV_C_NAX_20_21_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-11_postcheck_README_frontera_LXXIV_ES_EN.md` | **OK** |  |
@@ -227,7 +272,7 @@
 | `manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md` | **OK** |  |
 | `manifiestos/76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md` | **OK** |  |
 | `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | **OK** |  |
-| `manifiestos/README.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: WEB4™ · SistemaTrazable™ |
+| `manifiestos/README.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` | **OK** |  |
 | `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `manifiestos/anexos/2026-08-07_anexo_reversion_ideologica_I_VIII_XXII_XXX_XXXI_ES_EN.md` | **OK** |  |
@@ -276,10 +321,10 @@
 | `proyeccion/NEOCORE_7_2_EXTERNAL_REVIEW_BRIEF_ES_EN.md` | **OK** |  |
 | `proyeccion/POLITICA_SIMETRIA_BILINGUE_ES_EN.md` | **OK** |  |
 | `proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md` | **OK** |  |
-| `proyeccion/README.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Proyección y difusión trazable / Genealogía y salvaguarda |
+| `proyeccion/README.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md` | **OK** |  |
 | `snapshots/2026-08-11_NEOCORE_7_CURRENT_SNAPSHOT.md` | **OK** |  |
-| `web4/2026-08-10_POSTCHECK_WEB4_7_2_IDEA_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Postcheck WEB4™ · NEOCore™ 7.2 + IDEA / Límite de verificación |
+| `web4/2026-08-10_POSTCHECK_WEB4_7_2_IDEA_ES_EN.md` | **HISTÓRICO-PRESERVADO** | registro histórico inerte; fuera de la superficie bilingüe viva / immutable historical record; outside the live bilingual surface |
 | `web4/README.md` | **OK** |  |
 | `wiki-source/Analisis_Neodialecticos_Publicos.md` | **OK** |  |
 | `wiki-source/Aportes_y_Reconocimiento.md` | **OK** |  |

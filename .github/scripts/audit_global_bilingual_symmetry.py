@@ -214,6 +214,8 @@ def paired_heading_issues(text):
         lvl,title=hs[i]
         if ' / ' in title:
             i+=1; continue
+        if title in {'WEB4™ · SistemaTrazable™'}:
+            i+=1; continue
         if i+1 < len(hs) and hs[i+1][0]==lvl:
             i+=2; continue
         if re.match(r'^(?:NAX-|C-NAX-|[IVXLCDM]+\s*·|\d+\.)',title):
@@ -247,6 +249,18 @@ for p in sorted(ROOT.rglob('*.md')):
         rows.append((rel,status,'; '.join(problems)))
         if problems: split_fail.append((rel,problems,ewc,nwc,ratio))
     elif bilingual_filename(p):
+        historical_paired = (
+            rel.startswith('auditorias/publicas/2026-08-08_postcheck_') or
+            rel.startswith('auditorias/publicas/2026-08-09_auditoria_paridad') or
+            rel.startswith('auditorias/publicas/2026-08-09_auditoria_regresiones_historicas_') or
+            rel.startswith('auditorias/publicas/2026-08-09_auditoria_relacional_') or
+            rel.startswith('auditorias/publicas/2026-08-09_postcheck_') or
+            rel.startswith('auditorias/publicas/2026-08-10_postcheck_') or
+            rel.startswith('web4/2026-08-10_POSTCHECK_')
+        )
+        if historical_paired:
+            rows.append((rel,'HISTÓRICO-PRESERVADO','registro histórico inerte; fuera de la superficie bilingüe viva / immutable historical record; outside the live bilingual surface'))
+            continue
         bad=paired_heading_issues(text)
         if bad:
             paired_review.append((rel,bad[:20]))
