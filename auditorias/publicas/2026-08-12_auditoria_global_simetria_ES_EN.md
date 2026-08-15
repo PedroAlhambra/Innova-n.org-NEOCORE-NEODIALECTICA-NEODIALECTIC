@@ -9,7 +9,7 @@
 
 - Markdown activo examinado / Active Markdown scanned: **291**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **209**.
-- Fallos estructurales divididos / Split structural failures: **35**.
+- Fallos estructurales divididos / Split structural failures: **34**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **24**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -83,8 +83,6 @@
   - Seguir la evolución: párrafos ES=0 EN=1
 - `propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_365_DIAS_ES_EN.md` · ES=380 · EN=413 · ratio=1.09
   - Regla de apertura permanente: párrafos ES=4 EN=5
-- `proyeccion/NEOCORE_7_2_DELTA_ES_EN.md` · ES=224 · EN=255 · ratio=1.14
-  - 5: párrafos ES=1 EN=2
 - `proyeccion/POLITICA_SIMETRIA_BILINGUE_ES_EN.md` · ES=485 · EN=480 · ratio=0.99
   - VIII: párrafos ES=1 EN=2
 - `proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md` · ES=1013 · EN=979 · ratio=0.97
@@ -361,7 +359,7 @@
 | `propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_365_DIAS_ES_EN.md` | **REVISAR** | Regla de apertura permanente: párrafos ES=4 EN=5 |
 | `proyeccion/2026-08-11_delta_web4_neocore_patrimonio_comun_aprendizaje_creacion_ES_EN.md` | **OK** |  |
 | `proyeccion/2026-08-13_DIRECCION_WEB4_NEOCRONOS_AGUILA_ES_EN.md` | **OK** |  |
-| `proyeccion/NEOCORE_7_2_DELTA_ES_EN.md` | **REVISAR** | 5: párrafos ES=1 EN=2 |
+| `proyeccion/NEOCORE_7_2_DELTA_ES_EN.md` | **OK** |  |
 | `proyeccion/NEOCORE_7_2_EXTERNAL_REVIEW_BRIEF_ES_EN.md` | **OK** |  |
 | `proyeccion/POLITICA_SIMETRIA_BILINGUE_ES_EN.md` | **REVISAR** | VIII: párrafos ES=1 EN=2 |
 | `proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md` | **REVISAR** | 11: párrafos ES=4 EN=3; Principio de Proyección por Pertinencia™: párrafos ES=3 EN=4 |
