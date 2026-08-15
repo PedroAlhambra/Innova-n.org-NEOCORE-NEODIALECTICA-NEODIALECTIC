@@ -79,6 +79,8 @@ La incorporación del vídeo no valida automáticamente todas sus declaraciones.
 | **OPEN HYPOTHESIS** | A possible explanation requiring additional documentation. |
 | **NOT DEMONSTRATED** | An allegation or relationship for which there is insufficient public evidence. |
 
+Including the video does not automatically validate all of its statements. The testimony is preserved as a direct source and each claim is assessed separately.
+
 ## Evidence matrix
 
 | ID | Claim | Status | Available evidence | Limit or caution |
