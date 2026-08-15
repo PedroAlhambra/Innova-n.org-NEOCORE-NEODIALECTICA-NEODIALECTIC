@@ -1,4 +1,4 @@
-# Evidencias de análisis públicos
+# Evidencias de análisis públicos / Public-analysis evidence
 
 <!-- NEO_LATEST_MANIFESTO_START -->
 
@@ -54,21 +54,17 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 <!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->
 
-## Public-analysis evidence
-
 ## ES
 
 Este directorio conserva pruebas visuales, materiales audiovisuales y documentos auxiliares relacionados con los análisis públicos de Innova_N.
 
-## Evidencia visual conservada / Preserved visual evidence
+### Evidencia visual conservada
 
-### `1774972895305.jpeg`
+#### `1774972895305.jpeg`
 
-**ES:** Captura conservada de la imagen perdida o no recuperable en la publicación de LinkedIn. Se mantiene con su nombre original para preservar la trazabilidad del archivo.
+Captura conservada de la imagen perdida o no recuperable en la publicación de LinkedIn. Se mantiene con su nombre original para preservar la trazabilidad del archivo.
 
-**EN:** Preserved screenshot of the image lost or no longer recoverable from the LinkedIn publication. Its original filename is retained to preserve file traceability.
-
-- [Ver captura / View screenshot](./1774972895305.jpeg)
+- [Ver captura](./1774972895305.jpeg)
 
 ### Serie España–Marruecos
 
@@ -91,6 +87,14 @@ Este directorio conserva pruebas visuales, materiales audiovisuales y documentos
 
 This directory preserves visual evidence, audiovisual material and supporting documents related to Innova_N public analyses.
 
+### Preserved visual evidence
+
+#### `1774972895305.jpeg`
+
+Preserved screenshot of the image lost or no longer recoverable from the LinkedIn publication. Its original filename is retained to preserve file traceability.
+
+- [View screenshot](./1774972895305.jpeg)
+
 ### Spain–Morocco series
 
 - [Part I evidence matrix](./2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md)
@@ -102,6 +106,7 @@ This directory preserves visual evidence, audiovisual material and supporting do
 - [Part II](../2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md)
 - [Part III](../2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md)
 - [Part IV](../2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md)
+
 ### Integral Protection of Childhood™
 
 - [MAXPROC sources and evidence matrix](./2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md)
