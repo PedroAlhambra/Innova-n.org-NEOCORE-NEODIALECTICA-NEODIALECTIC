@@ -37,6 +37,15 @@ jobs:
           python .github/scripts/audit_relations_neocore.py
           python .github/scripts/audit_markdown_links_readmes.py
           python .github/scripts/audit_global_bilingual_symmetry.py
+      - name: Show residual diagnostics
+        shell: bash
+        run: |
+          echo '=== LINK CRITICAL ==='
+          sed -n '/### Fallos canónicos/,/### Enlaces internos rotos/p' auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md || true
+          echo '=== GLOBAL SYMMETRY RESIDUAL ==='
+          sed -n '/## Fallos divididos \/ Split failures/,/## Marcadores \/ Markers/p' auditorias/publicas/2026-08-12_auditoria_global_simetria_ES_EN.md || true
+          echo '=== RELATIONS HEAD ==='
+          head -n 35 auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md || true
       - name: Enforce clean living state
         shell: python
         run: |
