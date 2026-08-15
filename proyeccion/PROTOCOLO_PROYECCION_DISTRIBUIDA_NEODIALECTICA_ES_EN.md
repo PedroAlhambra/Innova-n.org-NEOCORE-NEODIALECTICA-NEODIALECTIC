@@ -293,6 +293,8 @@ Expansion must increase **understanding, verifiability and access**, not blind v
 
 The next projection layer does not need to depend on constantly publishing new standalone pieces. When a public conversation, news item, professional post, technical debate or institutional intervention materially touches a question already developed by Innova_N, Innova_N may intervene through a **brief contextual comment directly linked to the most specific canonical node**.
 
+The rule is:
+
 ```text
 EXTERNAL EVENT / POST / DEBATE
         ↓
