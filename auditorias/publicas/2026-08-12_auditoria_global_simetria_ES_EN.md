@@ -236,17 +236,7 @@
   - Principio de Proyección por Pertinencia™: párrafos ES=4 EN=5
 - `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md` · ES=197 · EN=197 · ratio=1.00
   - 6: párrafos ES=2 EN=3
-- `web4/README.md` · ES=907 · EN=751 · ratio=0.83
-  - 3: lists ES=17 EN=0
-  - 4: párrafos ES=4 EN=3
-  - 5: lists ES=10 EN=0
-  - 6: lists ES=6 EN=0
-  - 7: párrafos ES=3 EN=2
-  - 9: lists ES=3 EN=0
-  - 9: code ES=1 EN=0
-  - 10: párrafos ES=1 EN=0
-  - 11: párrafos ES=3 EN=1
-  - 12: code ES=1 EN=0
+- `web4/README.md` · ES=907 · EN=875 · ratio=0.96
   - 14: párrafos ES=2 EN=1
 - `wiki-source/Analisis_Neodialecticos_Publicos.md` · ES=163 · EN=165 · ratio=1.01
   - Cómo aportar: párrafos ES=2 EN=1
@@ -548,7 +538,7 @@
 | `proyeccion/README.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Proyección y difusión trazable / Genealogía y salvaguarda |
 | `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md` | **REVISAR** | 6: párrafos ES=2 EN=3 |
 | `web4/2026-08-10_POSTCHECK_WEB4_7_2_IDEA_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Postcheck WEB4™ · NEOCore™ 7.2 + IDEA / Límite de verificación |
-| `web4/README.md` | **REVISAR** | 3: lists ES=17 EN=0; 4: párrafos ES=4 EN=3; 5: lists ES=10 EN=0; 6: lists ES=6 EN=0; 7: párrafos ES=3 EN=2; 9: lists ES=3 EN=0; 9: code ES=1 EN=0; 10: párrafos ES=1 EN=0; 11: párrafos ES=3 EN=1; 12: code ES=1 EN=0; 14: párrafos ES=2 EN=1 |
+| `web4/README.md` | **REVISAR** | 14: párrafos ES=2 EN=1 |
 | `wiki-source/Analisis_Neodialecticos_Publicos.md` | **REVISAR** | Cómo aportar: párrafos ES=2 EN=1 |
 | `wiki-source/Aportes_y_Reconocimiento.md` | **REVISAR** | Fuentes públicas relacionadas: párrafos ES=1 EN=0 |
 | `wiki-source/Filosofia_y_NEOCore.md` | **REVISAR** | Cómo leer el núcleo sin reducirlo: párrafos ES=2 EN=1 |
