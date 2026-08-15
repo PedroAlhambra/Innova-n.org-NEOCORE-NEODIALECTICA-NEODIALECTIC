@@ -25,6 +25,9 @@ jobs:
       - name: Repair Neoaxiom registry and live indexes
         run: python .github/scripts/repair_neoaxiom_registry_integrity.py
 
+      - name: Keep workflow mutation outside the Actions token
+        run: git checkout -- .github/workflows/audit-global-bilingual-symmetry.yml
+
       - name: Correct dedicated audit compatibility with legacy candidate block styles
         run: |
           python - <<'PY'
@@ -64,7 +67,6 @@ jobs:
           set -euo pipefail
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git rm .github/workflows/repair-neoaxiom-registry-integrity.yml
           git rm .github/scripts/repair_neoaxiom_registry_integrity.py
           git add \
             neoaxiomas/README.md \
@@ -72,7 +74,6 @@ jobs:
             propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md \
             .github/scripts/audit_global_bilingual_symmetry.py \
             .github/scripts/audit_neoaxiom_registry_integrity.py \
-            .github/workflows/audit-global-bilingual-symmetry.yml \
             auditorias/publicas/2026-08-12_auditoria_global_simetria_ES_EN.md \
             auditorias/publicas/2026-08-16_auditoria_neoaxiomas_simetria_frontera_ES_EN.md
           if git diff --cached --quiet; then
