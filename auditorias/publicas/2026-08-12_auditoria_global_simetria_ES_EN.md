@@ -9,7 +9,7 @@
 
 - Markdown activo examinado / Active Markdown scanned: **291**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **226**.
-- Fallos estructurales divididos / Split structural failures: **39**.
+- Fallos estructurales divididos / Split structural failures: **38**.
 - Fallos de marcadores / Marker failures: **1**.
 - Superficies pareadas para revisión / Paired surfaces for review: **20**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -60,9 +60,6 @@
 - `auditorias/publicas/2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md` · ES=1759 · EN=1689 · ratio=0.96
   - 7 · Contraprincipio operativo Innova_N: párrafos ES=2 EN=3
   - 11 · Protocolo de aportación: párrafos ES=2 EN=3
-- `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` · ES=149 · EN=121 · ratio=0.81
-  - volumen EN/ES=0.81 (121/149)
-  - esqueleto de encabezados distinto ES=[(3, ''), (3, '')] EN=[]
 - `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · ES=1606 · EN=1973 · ratio=1.23
   - esqueleto de encabezados distinto ES=[(2, ''), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (3, '1'), (3, '2'), (3, '3'), (3, '4'), (3, '5'), (3, '6'), (3, '7'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV')] EN=[(2, ''), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (3, '1'), (3, '2'), (3, '3'), (3, '4'), (3, '5'), (3, '6'), (3, '7'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, '')]
 - `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` · ES=1822 · EN=1847 · ratio=1.01
@@ -240,7 +237,7 @@
 | `auditorias/publicas/2026-08-12_auditoria_global_simetria_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `auditorias/publicas/2026-08-12_auditoria_registro_canonico_manifiestos_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `auditorias/publicas/2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md` | **REVISAR** | 7 · Contraprincipio operativo Innova_N: párrafos ES=2 EN=3; 11 · Protocolo de aportación: párrafos ES=2 EN=3 |
-| `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **REVISAR** | volumen EN/ES=0.81 (121/149); esqueleto de encabezados distinto ES=[(3, ''), (3, '')] EN=[] |
+| `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/README.md` | **OK** |  |
 | `difusion/2026-08-09_marco_tanda_01_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Difusión del marco · tanda 01 · 2026-08-09 |
