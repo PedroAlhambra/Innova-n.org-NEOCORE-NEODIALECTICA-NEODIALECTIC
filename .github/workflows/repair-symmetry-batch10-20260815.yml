@@ -1,0 +1,71 @@
+name: One-shot symmetry repair 10 2026-08-15
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/repair-symmetry-batch10-20260815.yml']
+permissions:
+  contents: write
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Repair live paired headings and missing English evidence heading
+        shell: python
+        run: |
+          from pathlib import Path
+          def rep(path, old, new):
+              p=Path(path); s=p.read_text(encoding='utf-8')
+              if old not in s: raise SystemExit(f'block not found: {path}: {old!r}')
+              p.write_text(s.replace(old,new,1),encoding='utf-8')
+
+          rep('analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md',
+              '## Documentary continuation\n\nThis analysis continues in a second part devoted to the operational layer of the system:',
+              '## Evidence and sources\n\n- [[Primary sources, evidence matrix and documentary gaps](./evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md)](./evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md)\n\n---\n\n## Documentary continuation\n\nThis analysis continues in a second part devoted to the operational layer of the system:')
+
+          rep('analisis/publicos/evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md',
+              '# España, Marruecos, regularización y nacionalidad  ',
+              '# España, Marruecos, regularización y nacionalidad / Spain, Morocco, regularisation and nationality  ')
+
+          rep('anuncios/2026-08-08_XLVII_ODIO_SINO_GOAT_SOMBRA_DOBLE_CARA_ES_EN.md',
+              '# XLVII · El Odio de Neo0 hacia su Sino™\n## The Goat, Sombra, Vínculo y Doble Cara de la Vida',
+              '# XLVII · El Odio de Neo0 hacia su Sino™ / Neo0’s Hatred of His Fate™\n## La Cabra, Sombra, Vínculo y Doble Cara de la Vida / The Goat, Shadow, Bond and Two Faces of Life')
+
+          rep('anuncios/2026-08-08_XLVI_CERRAR_LA_HERIDA_ES_EN.md',
+              '# XLVI · Cerrar la Herida™\n## Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria',
+              '# XLVI · Cerrar la Herida™ / Closing the Wound™\n## Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria / Evolutionary Understanding, Memory and Civilisational Reconciliation')
+
+          for path,batch in [('difusion/2026-08-09_marco_tanda_01_ES_EN.md','01'),('difusion/2026-08-09_marco_tanda_02_ES_EN.md','02')]:
+              rep(path,
+                  f'# Difusión del marco · tanda {batch} · 2026-08-09\n## Framework outreach · batch {batch} · 2026-08-09',
+                  f'# Difusión del marco · tanda {batch} · 2026-08-09 / Framework outreach · batch {batch} · 2026-08-09')
+
+          rep('propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md',
+              '# Neoaxiomas™ · Síntesis Abierta\n## Neoaxioms™ · Open Synthesis',
+              '# Neoaxiomas™ · Síntesis Abierta / Neoaxioms™ · Open Synthesis')
+
+          p=Path('wiki-source/README.md'); s=p.read_text(encoding='utf-8')
+          for old,new in [
+              ('## Principio','## Principio / Principle'),
+              ('## Regla de mantenimiento','## Regla de mantenimiento / Maintenance rule'),
+              ('## Fuente de verdad','## Fuente de verdad / Source of truth'),
+              ('## Salvaguarda','## Salvaguarda / Safeguard')]:
+              if old not in s: raise SystemExit(f'wiki heading missing: {old}')
+              s=s.replace(old,new,1)
+          p.write_text(s,encoding='utf-8')
+      - name: Recalculate audit
+        run: python .github/scripts/audit_global_bilingual_symmetry.py
+      - name: Validate
+        run: git diff --check
+      - name: Commit
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md analisis/publicos/evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md anuncios/2026-08-08_XLVII_ODIO_SINO_GOAT_SOMBRA_DOBLE_CARA_ES_EN.md anuncios/2026-08-08_XLVI_CERRAR_LA_HERIDA_ES_EN.md difusion/2026-08-09_marco_tanda_01_ES_EN.md difusion/2026-08-09_marco_tanda_02_ES_EN.md propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md wiki-source/README.md auditorias/publicas/2026-08-12_auditoria_global_simetria_ES_EN.md
+          git commit -m 'fix: restore remaining live bilingual headings and evidence parity'
+          git push origin HEAD:main
