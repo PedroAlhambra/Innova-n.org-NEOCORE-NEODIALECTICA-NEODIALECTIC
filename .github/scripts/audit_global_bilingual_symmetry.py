@@ -53,8 +53,8 @@ def strip_generated_tail(s):
         m=re.search(pat,s,re.M)
         if m: positions.append(m.start())
     # A bilingual heading after the EN body normally begins a shared tail, e.g.
-    # "## Trazabilidad / Traceability". It belongs to neither language half.
-    m=re.search(r'^#{2,6}\s+[^\n]+\s+/\s+[^\n]+\s*$',s,re.M)
+    # "# Fuentes / Sources" or "## Trazabilidad / Traceability". It belongs to neither language half.
+    m=re.search(r'^#{1,6}\s+[^\n]+\s+/\s+[^\n]+\s*$',s,re.M)
     if m: positions.append(m.start())
     return s[:min(positions)] if positions else s
 
