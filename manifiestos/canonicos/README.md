@@ -23,7 +23,7 @@ Ejemplo:
 
 `I_neo0_soberania_de_guia_ES_EN.md`
 
-Los nombres históricos se mantienen temporalmente como rutas **legacy** para no romper enlaces, citas, navegación, auditorías ni referencias externas. La correspondencia completa **I–LXXIV** está registrada en `../CANONICAL_FILENAMES.json`.
+Los nombres históricos se mantienen temporalmente como rutas **legacy** para no romper enlaces, citas, navegación, auditorías ni referencias externas. La correspondencia vigente está registrada dinámicamente en `../CANONICAL_FILENAMES.json`; no se fija aquí una frontera numérica que pueda quedar obsoleta.
 
 **No se debe inferir jamás el número canónico a partir del prefijo decimal histórico.**
 

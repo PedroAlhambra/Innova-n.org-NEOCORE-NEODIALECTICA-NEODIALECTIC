@@ -91,20 +91,23 @@ if latest:
     ims=re.findall(r'https://github\.com/PedroAlhambra/Innova-n\.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/(\d+)',lt)
     issue_num=ims[0] if ims else None
 
-# WEB4 reference guard: innova-n.org is the living public product surface;
-# web4/ is only a versioned documentary DEMO and its manifesto reader must
-# still follow the canonical frontier while it remains published.
+# WEB4 reference guard: innova-n.org is the living WEB4 product surface.
+# The public repository web4/ tree is documentary specification/capability genealogy,
+# not a DEMO, a second public site, or a parallel manifesto reader. It must return
+# readers to the canonical corpus and to the living WEB4 projection without
+# hardcoding a finite manifesto frontier.
 if canonical:
     web4_readme = root / 'web4/README.md'
     web4_reader = root / 'web4/manifiestos/index.html'
     if web4_readme.exists():
         wr = web4_readme.read_text(encoding='utf-8', errors='replace')
-        if 'innova-n.org' not in wr or 'DEMO' not in wr:
-            critical.append('web4/README.md no distingue la DEMO documental de innova-n.org como superficie viva. / web4/README.md does not distinguish the documentary DEMO from innova-n.org as the living surface.')
+        low_wr = wr.lower()
+        if 'innova-n.org' not in wr or 'no es demo' not in low_wr or 'segunda web' not in low_wr:
+            critical.append('web4/README.md debe fijar web4/ como documentación/fuente y innova-n.org como WEB4 viva, sin presentarlo como DEMO ni segunda web. / web4/README.md must define web4/ as documentation/source and innova-n.org as the living WEB4, not as a DEMO or second site.')
     if web4_reader.exists():
         wh = web4_reader.read_text(encoding='utf-8', errors='replace')
-        if f'I–{latest_roman}' not in wh or latest.name not in wh:
-            critical.append(f'El lector WEB4 documental no sigue la frontera {latest_roman}. / The documentary WEB4 reader does not follow frontier {latest_roman}.')
+        if '../../manifiestos/README.md' not in wh or 'innova-n.org' not in wh:
+            critical.append('La referencia documental web4/manifiestos debe devolver al corpus canónico y a innova-n.org. / The documentary web4/manifiestos reference must return to the canonical corpus and innova-n.org.')
 
 if not canonical:
     critical.append('No se pudo reconstruir la colección canónica desde el índice. / The canonical collection could not be reconstructed from the index.')
