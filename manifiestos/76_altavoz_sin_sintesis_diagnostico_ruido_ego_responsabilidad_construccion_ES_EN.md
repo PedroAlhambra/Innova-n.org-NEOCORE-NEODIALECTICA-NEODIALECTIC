@@ -630,25 +630,6 @@ The door remains open.
 
 ---
 
-<!-- NEO_CANONICAL_CROSSREFS_START -->
-## Referencias cruzadas canónicas / Canonical cross-references
-
-- [II · Síntesis Abierta Neodialéctica™ / Neodialectical Open Synthesis™](01_sintesis_abierta_neodialectica_ES_EN.md)
-- [XII · Los sin ego / The Egoless](12_los_sin_ego_ES_EN.md)
-- [XXII · Contra la Reducción y la Captura Intelectual™ / Against Intellectual Reduction and Capture™](22_contra_reduccion_captura_intelectual_ES_EN.md)
-- [XXXV · Contra la Ridiculez Mediática y la Economía del Conflicto™ / Against Media Absurdity and the Conflict Economy™](35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
-- [XLV · Multidimensionalidad Neodialéctica™ / Neodialectical Multidimensionality™](45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
-- [LXVIII · Conflictos que no son nuestros™ / Conflicts That Are Not Ours™](68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
-- [LXXIV · Asimetría de la Destrucción™ / Asymmetry of Destruction™](74_asimetria_destruccion_trol_humano_bot_ES_EN.md)
-- [LXXV · Las Hojas Carcomidas™ / The Gnawed Leaves™](75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md)
-- [NeoMantis™ · Desequilibrio Sistémico, Asimetría Destructiva y Fractal Común](../propuestas/sintesis-abierta/2026-08-15_DELTA_NEOMANTIS_ASIMETRIA_INVERTIDA_DIGNIDAD_RECIPROCA_ES_EN.md)
-- [C-NAX-23 · Conservación del Fractal Común™](../propuestas/sintesis-abierta/2026-08-15_C_NAX_23_CONSERVACION_FRACTAL_COMUN_ES_EN.md)
-- [C-NAX-24 · Diagnóstico ≠ Síntesis™](../propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md)
-- [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
-- [Síntesis Abierta LXXVI · #149 / Open Synthesis LXXVI · #149](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/149)
-
-<!-- NEO_CANONICAL_CROSSREFS_END -->
-
 ---
 
 <!-- NEO_MANIFESTO_NAV_START -->
@@ -656,3 +637,27 @@ The door remains open.
 **Índice / Index:** [Manifiestos](README.md)  
 **Siguiente / Next:** fin provisional / provisional end
 <!-- NEO_MANIFESTO_NAV_END -->
+
+<!-- NEO_CROSS_REFERENCES_START -->
+
+## Referencias cruzadas canónicas / Canonical cross-references
+
+> **Norma / Rule:** las menciones cruzadas pueden permanecer en el cuerpo como texto para no sobrecargar la lectura; este bloque concentra los hipervínculos canónicos detectados y permite retorno explícito a fuente. / Cross-references may remain as prose in the body to avoid visual overload; this block concentrates detected canonical hyperlinks and preserves explicit return to source.
+
+- **II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md)
+- **XII** · [Los sin ego / The Egoless](./12_los_sin_ego_ES_EN.md)
+- **XXII** · [Manifiesto contra la Reducción y la Captura Intelectual™ / Manifesto against Intellectual Reduction and Capture™](./22_contra_reduccion_captura_intelectual_ES_EN.md)
+- **XXXV** · [Contra la Ridiculez Mediática y la Economía del Conflicto™ / Against Media Absurdity and the Conflict Economy™](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
+- **XLV** · [Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder / Neodialectical Multidimensionality™ · Against the One-Dimensional Reduction of the Human and Power](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
+- **LXVIII** · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species](./68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
+- **LXXIV** · [Asimetría de la Destrucción™ · Del Trol Humano al Bot / Asymmetry of Destruction™ · From the Human Troll to the Bot](./74_asimetria_destruccion_trol_humano_bot_ES_EN.md)
+- **LXXV** · [Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™](./75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md)
+
+### Capas y fuentes relacionadas / Related layers and sources
+
+- [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
+- [NEOCore™ · marco / framework](../README.md)
+
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `C-NAX-16` · `C-NAX-23` · `C-NAX-24` → [Neoaxiomas™](../neoaxiomas/README.md)
+
+<!-- NEO_CROSS_REFERENCES_END -->
