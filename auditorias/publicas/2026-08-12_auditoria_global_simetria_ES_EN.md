@@ -9,7 +9,7 @@
 
 - Markdown activo examinado / Active Markdown scanned: **291**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **209**.
-- Fallos estructurales divididos / Split structural failures: **41**.
+- Fallos estructurales divididos / Split structural failures: **40**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **24**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -34,7 +34,7 @@
   - 12: párrafos ES=3 EN=4
 - `analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md` · ES=1080 · EN=1091 · ratio=1.01
   - 13: párrafos ES=0 EN=1
-- `analisis/publicos/evidencias/2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md` · ES=644 · EN=604 · ratio=0.94
+- `analisis/publicos/evidencias/2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md` · ES=644 · EN=629 · ratio=0.98
   - esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')]
 - `analisis/publicos/evidencias/2026-08-07_ceuta-marruecos-evolucion-conflicto-fuentes-y-matriz_ES_EN.md` · ES=1049 · EN=993 · ratio=0.95
   - Vacíos documentales prioritarios: lists ES=12 EN=25
@@ -75,10 +75,6 @@
   - VII: párrafos ES=6 EN=4
   - XVIII: párrafos ES=3 EN=2
   - XIX: párrafos ES=6 EN=5
-- `manifiestos/anexos/2026-08-07_anexo_reversion_ideologica_I_VIII_XXII_XXX_XXXI_ES_EN.md` · ES=427 · EN=419 · ratio=0.98
-  - Anexo al Manifiesto VIII · Ingeniería Social Abierta: lists ES=8 EN=0
-  - Anexo al Manifiesto XXXI · Neuromarketing Antihumanista: lists ES=6 EN=0
-  - Regla de integración futura: lists ES=6 EN=0
 - `obras/idea/PRESS_KIT_ES_EN.md` · ES=953 · EN=962 · ratio=1.01
   - Cita editorial recomendada: lists ES=0 EN=6
   - Cita editorial recomendada: párrafos ES=1 EN=2
@@ -336,7 +332,7 @@
 | `manifiestos/README.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: WEB4™ · SistemaTrazable™ |
 | `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` | **OK** |  |
 | `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
-| `manifiestos/anexos/2026-08-07_anexo_reversion_ideologica_I_VIII_XXII_XXX_XXXI_ES_EN.md` | **REVISAR** | Anexo al Manifiesto VIII · Ingeniería Social Abierta: lists ES=8 EN=0; Anexo al Manifiesto XXXI · Neuromarketing Antihumanista: lists ES=6 EN=0; Regla de integración futura: lists ES=6 EN=0 |
+| `manifiestos/anexos/2026-08-07_anexo_reversion_ideologica_I_VIII_XXII_XXX_XXXI_ES_EN.md` | **OK** |  |
 | `manifiestos/deltas/LXI_delta_genetica_adn_neopandora_custodia_multiescalar_ES_EN.md` | **OK** |  |
 | `manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md` | **OK** |  |
 | `neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md` | **OK** |  |
