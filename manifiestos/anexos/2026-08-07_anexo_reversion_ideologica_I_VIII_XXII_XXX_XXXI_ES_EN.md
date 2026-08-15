@@ -130,7 +130,16 @@ Open Social Engineering is a public application of Neodialectical Ideological Re
 
 It recovers mechanisms already shaping behaviour, makes them visible, limits their capacity for capture and directs them towards autonomy and the Common Good.
 
-It does not replace extractive manipulation with humanist manipulation. It requires declarable purpose, sufficient information, real freedom to refuse, rights of challenge, protection of vulnerable people, traceability, evaluation and reversibility.
+It does not replace extractive manipulation with humanist manipulation. It requires:
+
+* declarable purpose;
+* sufficient information;
+* real freedom to refuse;
+* right of challenge;
+* protection of vulnerable people;
+* traceability;
+* evaluation;
+* and reversibility.
 
 ## Annex to Manifesto XXII · Genealogy and non-reduction
 
@@ -175,11 +184,25 @@ Neodialectical Ideological Reversal™ does not condemn emotion, design, narrati
 
 It preserves communicative power while prohibiting the conversion of vulnerability, intimacy, fear, loneliness or dependency into opaque mechanisms of capture.
 
-The difference lies not only in the technique used, but in purpose, transparency, sufficient consent, possibility of refusal, limits and actual human effects.
+The difference lies not only in the technique used, but in:
+
+* purpose;
+* transparency;
+* sufficient consent;
+* possibility of refusal;
+* limits;
+* and actual human effects.
 
 ## Future integration rule
 
-When these annexes are incorporated into new versions of the affected manifestos, the previous text, this annex, the integration diff, date, justification and relation to Manifesto XXXII and its Open Synthesis must be preserved.
+When these annexes are incorporated into new versions of the affected manifestos, the following must be preserved:
+
+1. the previous text;
+2. this annex;
+3. the integration diff;
+4. the date;
+5. the justification;
+6. and the relation to Manifesto XXXII and its Open Synthesis.
 
 ---
 
