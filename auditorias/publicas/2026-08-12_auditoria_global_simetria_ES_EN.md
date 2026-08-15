@@ -9,7 +9,7 @@
 
 - Markdown activo examinado / Active Markdown scanned: **291**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **226**.
-- Fallos estructurales divididos / Split structural failures: **38**.
+- Fallos estructurales divididos / Split structural failures: **37**.
 - Fallos de marcadores / Marker failures: **1**.
 - Superficies pareadas para revisión / Paired surfaces for review: **20**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -40,9 +40,6 @@
   - esqueleto de encabezados distinto ES=[(2, '1'), (3, ''), (3, ''), (2, '2'), (3, ''), (2, '3')] EN=[(2, '1'), (3, ''), (3, ''), (2, '2'), (3, ''), (2, '3'), (2, '')]
 - `analisis/publicos/2026-08-13_convergencia-neodialectica-meta-zuckerberg_ES_EN.md` · ES=785 · EN=762 · ratio=0.97
   - 9: párrafos ES=0 EN=1
-- `analisis/publicos/evidencias/README.md` · ES=204 · EN=128 · ratio=0.63
-  - volumen EN/ES=0.63 (128/204)
-  - esqueleto de encabezados distinto ES=[(2, ''), (3, ''), (3, ''), (3, '')] EN=[(3, ''), (3, '')]
 - `auditorias/publicas/2026-08-07_postcheck_enlaces_y_sincronizacion_XXXV_ES_EN.md` · ES=61 · EN=96 · ratio=1.57
   - esqueleto de encabezados distinto ES=[] EN=[(2, '')]
 - `auditorias/publicas/2026-08-07_postcheck_final_simetria_limpia_I_XXXVI_ES_EN.md` · ES=36 · EN=103 · ratio=2.86
@@ -184,7 +181,7 @@
 | `analisis/publicos/evidencias/2026-08-07_ceuta-marruecos-evolucion-conflicto-fuentes-y-matriz_ES_EN.md` | **OK** |  |
 | `analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md` | **OK** |  |
 | `analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuerzas-y-matriz_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
-| `analisis/publicos/evidencias/README.md` | **REVISAR** | volumen EN/ES=0.63 (128/204); esqueleto de encabezados distinto ES=[(2, ''), (3, ''), (3, ''), (3, '')] EN=[(3, ''), (3, '')] |
+| `analisis/publicos/evidencias/README.md` | **OK** |  |
 | `anuncios/2026-08-06_ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_SINTESIS_ABIERTA_ES_EN.md` | **OK** |  |
 | `anuncios/2026-08-06_SEGUNDA_OLEADA_MANIFIESTOS_NEOPANDORA_ES_EN.md` | **OK** |  |
 | `anuncios/2026-08-06_TERCERA_OLEADA_SISTEMA_INMUNITARIO_INTELECTUAL_ES_EN.md` | **OK** |  |
