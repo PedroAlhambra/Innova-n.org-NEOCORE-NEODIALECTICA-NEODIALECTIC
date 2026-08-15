@@ -54,7 +54,7 @@ def strip_generated_tail(s):
         if m: positions.append(m.start())
     # Only known editorial bilingual tail headings are shared boundaries. A slash alone
     # is not sufficient: content headings such as "Stanford / ACE" are part of the document.
-    m=re.search(r'^#{1,6}\s+(?:Fuentes[^\n]* / [^\n]*(?:Sources|sources)|Historial de versiones / Version history|Firma común / Common signature|Principio de procedencia / Provenance principle|Relaciones internas y trabajo aplicado / Internal relations and applied work|Relación con los manifiestos / Relation to the manifestos|Candidatos neoaxiomáticos / Neoaxiomatic candidates|Relaciones / Relations|Referencias cruzadas canónicas / Canonical cross-references|Puerta de Síntesis / Synthesis Gate)\s*$',s,re.M)
+    m=re.search(r'^#{1,6}\s+(?:Fuentes[^\n]* / [^\n]*(?:Sources|sources)|Historial de versiones / Version history|Firma común / Common signature|Principio de procedencia / Provenance principle|Relaciones internas y trabajo aplicado / Internal relations and applied work|Relación con los manifiestos / Relation to the manifestos|Candidatos neoaxiomáticos / Neoaxiomatic candidates|Relaciones / Relations|Referencias cruzadas canónicas / Canonical cross-references|Puerta de Síntesis / Synthesis Gate|Referencias / References|Relación manifiesto / Manifesto relation|Vínculos / Links|Trazabilidad / Traceability|Materiales relacionados / Related materials|Derechos / Rights)\s*$',s,re.M)
     if m: positions.append(m.start())
     return s[:min(positions)] if positions else s
 
@@ -147,6 +147,7 @@ def count_paragraphs(s):
         plain=re.sub(r'[`*_]+','',p).strip()
         # Editorial signatures/copyright epilogues are shared metadata, not language prose.
         if re.match(r'^(?:©\s*\d{4}\s+)?Pedro Martínez Alhambra\b',plain,re.I): continue
+        if p.startswith('**Innova_N') and len(p) <= 400: continue
         if re.match(r'^Innova_?N(?:\s*·\s*[^.]+)*$',plain,re.I): continue
         # Short bilingual metadata footers remain outside the semantic ES/EN halves even when
         # they appear after the final EN section. Do not charge them to English paragraph count.

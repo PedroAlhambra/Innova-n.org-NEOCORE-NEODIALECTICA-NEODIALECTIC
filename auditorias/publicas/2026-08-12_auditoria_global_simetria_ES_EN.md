@@ -9,7 +9,7 @@
 
 - Markdown activo examinado / Active Markdown scanned: **291**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **225**.
-- Fallos estructurales divididos / Split structural failures: **23**.
+- Fallos estructurales divididos / Split structural failures: **13**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **20**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -23,14 +23,6 @@
 - `analisis/auditorias/README.md` · ES=172 · EN=304 · ratio=1.77
   - volumen EN/ES=1.77 (304/172)
   - esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, '')]
-- `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` · ES=1285 · EN=1295 · ratio=1.01
-  - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (3, ''), (2, '9'), (3, ''), (2, '10')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (3, ''), (2, '9'), (3, ''), (2, '10'), (2, '')]
-- `analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md` · ES=807 · EN=805 · ratio=1.00
-  - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '')]
-- `analisis/publicos/2026-08-08_delta_poder_incentivos_tokenizacion_y_transicion_neodialectica_ES_EN.md` · ES=908 · EN=954 · ratio=1.05
-  - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (3, ''), (3, ''), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9')] EN=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (3, ''), (3, ''), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9'), (2, '')]
-- `analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md` · ES=1070 · EN=1202 · ratio=1.12
-  - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9'), (2, '10'), (2, '11')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9'), (2, '10'), (2, '11'), (2, '')]
 - `analisis/publicos/2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md` · ES=433 · EN=482 · ratio=1.11
   - esqueleto de encabezados distinto ES=[(2, '1'), (3, ''), (3, ''), (2, '2'), (3, ''), (2, '3')] EN=[(2, '1'), (3, ''), (3, ''), (2, '2'), (3, ''), (2, '3'), (2, '')]
 - `auditorias/publicas/2026-08-07_postcheck_enlaces_y_sincronizacion_XXXV_ES_EN.md` · ES=61 · EN=96 · ratio=1.57
@@ -43,27 +35,14 @@
   - esqueleto de encabezados distinto ES=[] EN=[(2, ''), (2, '')]
 - `auditorias/publicas/2026-08-07_postcheck_sintesis_abierta_bilingue_y_cobertura_ES_EN.md` · ES=249 · EN=279 · ratio=1.12
   - esqueleto de encabezados distinto ES=[(3, '')] EN=[(3, ''), (2, '')]
-- `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md` · ES=237 · EN=301 · ratio=1.27
-  - esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')]
 - `auditorias/publicas/2026-08-09_distrokid_ticket_4499471_royalty_routing_ES_EN.md` · ES=458 · EN=448 · ratio=0.98
   - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '')]
 - `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` · ES=1449 · EN=1475 · ratio=1.02
   - esqueleto de encabezados distinto ES=[(2, ''), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (3, ''), (3, ''), (3, ''), (3, ''), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI')] EN=[(2, ''), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (3, ''), (3, ''), (3, ''), (3, ''), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI'), (2, '')]
 - `manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md` · ES=1370 · EN=1398 · ratio=1.02
   - esqueleto de encabezados distinto ES=[(2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV')] EN=[(2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, '')]
-- `neoaxiomas/README.md` · ES=2335 · EN=2272 · ratio=0.97
-  - esqueleto de encabezados distinto ES=[(2, '0'), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '1'), (3, ''), (2, '2')] EN=[(2, '0'), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '1'), (3, ''), (2, '2'), (2, '')]
-- `obras/idea/PRESS_KIT_ES_EN.md` · ES=953 · EN=962 · ratio=1.01
-  - Cita editorial recomendada: lists ES=0 EN=6
-  - Cita editorial recomendada: párrafos ES=1 EN=2
-- `obras/idea/README.md` · ES=835 · EN=1011 · ratio=1.21
-  - esqueleto de encabezados distinto ES=[(3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, '')] EN=[(3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (2, '')]
 - `propuestas/sintesis-abierta/ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_v0.1_ES_EN.md` · ES=1025 · EN=1070 · ratio=1.04
   - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (3, ''), (2, '4'), (3, ''), (3, ''), (2, '5'), (2, '6'), (2, '7'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '8'), (2, '9'), (2, '10')] EN=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (3, ''), (2, '4'), (3, ''), (3, ''), (2, '5'), (2, '6'), (2, '7'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '8'), (2, '9'), (2, '10'), (2, '')]
-- `proyeccion/POLITICA_SIMETRIA_BILINGUE_ES_EN.md` · ES=485 · EN=480 · ratio=0.99
-  - VIII: párrafos ES=1 EN=2
-- `proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md` · ES=1013 · EN=982 · ratio=0.97
-  - Principio de Proyección por Pertinencia™: párrafos ES=3 EN=4
 
 ## Marcadores / Markers
 
@@ -114,24 +93,24 @@
 | `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Parte II — Dajla, mafias migratorias y control estatal / La infraestructura oculta de la presión fronteriza / Part II — Dakhla, migrant-smuggling networks and state control / Versión en español / Parte II — Dajla, mafias migratorias y control estatal / Utilización política del ecosistema / Acusación extraordinaria sin prueba suficiente / Conclusión / English version / Part II — Dakhla, migrant-smuggling networks and state control / Political use of the ecosystem / Extraordinary allegation without sufficient evidence |
 | `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` | **OK** |  |
-| `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (3, ''), (2, '9'), (3, ''), (2, '10')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (3, ''), (2, '9'), (3, ''), (2, '10'), (2, '')] |
+| `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md` | **OK** |  |
-| `analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '')] |
+| `analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-08_addendum_autodemostracion_creacion_neodialectica_historia_olvidada_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-08_addendum_distrokid_catalogo_album_removed_added_apple_music_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-08_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_funcional_ES_EN.md` | **OK** |  |
-| `analisis/publicos/2026-08-08_delta_poder_incentivos_tokenizacion_y_transicion_neodialectica_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (3, ''), (3, ''), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9')] EN=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (3, ''), (3, ''), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9'), (2, '')] |
+| `analisis/publicos/2026-08-08_delta_poder_incentivos_tokenizacion_y_transicion_neodialectica_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-08_distrokid_ticket_4499471_respuesta_no_resolutiva_y_reiteracion_auditoria_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-08_estado_correo_difusion_idea_y_adhesiones_sintesis_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-08_techno_bach_record_semanal_apple_music_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md` | **OK** |  |
-| `analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9'), (2, '10'), (2, '11')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9'), (2, '10'), (2, '11'), (2, '')] |
+| `analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-09_guerra_fundador_contra_idiotez_devolucion_tiempo_bien_comun_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-09_maxproc_registro_entrada_trazabilidad_derivacion_herosion_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-09_micromaquinas_plagas_escala_invisible_estado_real_ES_EN.md` | **OK** |  |
@@ -177,7 +156,7 @@
 | `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-08_auditoria_externa_streaming_distribuidores_metadatos_regalias_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-08_auditoria_formato_manifiestos_XXXVIII_XLIII_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
-| `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] |
+| `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-08_auditoria_integral_correlacion_manifiestos_trabajo_aplicado_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-08_auditoria_oneshots_github_actions_carreras_noop_y_estado_final_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-08_auditoria_readmes_enlaces_estado_XLII_ES_EN.md` | **OK** |  |
@@ -293,11 +272,11 @@
 | `manifiestos/deltas/LXI_delta_genetica_adn_neopandora_custodia_multiescalar_ES_EN.md` | **OK** |  |
 | `manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md` | **OK** |  |
 | `neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md` | **OK** |  |
-| `neoaxiomas/README.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, '0'), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '1'), (3, ''), (2, '2')] EN=[(2, '0'), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '1'), (3, ''), (2, '2'), (2, '')] |
+| `neoaxiomas/README.md` | **OK** |  |
 | `obras/README.md` | **OK** |  |
-| `obras/idea/PRESS_KIT_ES_EN.md` | **REVISAR** | Cita editorial recomendada: lists ES=0 EN=6; Cita editorial recomendada: párrafos ES=1 EN=2 |
+| `obras/idea/PRESS_KIT_ES_EN.md` | **OK** |  |
 | `obras/idea/RANSOL_RED_DEL_TIEMPO_ARBOLES_INVISIBLES_ETERNOS_ES_EN.md` | **OK** |  |
-| `obras/idea/README.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, '')] EN=[(3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (2, '')] |
+| `obras/idea/README.md` | **OK** |  |
 | `obras/idea/STARKDR_GRITAX_HISTORIA_DE_LAS_ESPECIES_ES_EN.md` | **OK** |  |
 | `obras/idea/assets/README.md` | **OK** |  |
 | `obras/umbral-x/00_el_dia_que_les_dimos_armas_antes_que_voz_ES_EN.md` | **OK** |  |
@@ -333,8 +312,8 @@
 | `proyeccion/2026-08-13_DIRECCION_WEB4_NEOCRONOS_AGUILA_ES_EN.md` | **OK** |  |
 | `proyeccion/NEOCORE_7_2_DELTA_ES_EN.md` | **OK** |  |
 | `proyeccion/NEOCORE_7_2_EXTERNAL_REVIEW_BRIEF_ES_EN.md` | **OK** |  |
-| `proyeccion/POLITICA_SIMETRIA_BILINGUE_ES_EN.md` | **REVISAR** | VIII: párrafos ES=1 EN=2 |
-| `proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md` | **REVISAR** | Principio de Proyección por Pertinencia™: párrafos ES=3 EN=4 |
+| `proyeccion/POLITICA_SIMETRIA_BILINGUE_ES_EN.md` | **OK** |  |
+| `proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md` | **OK** |  |
 | `proyeccion/README.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Proyección y difusión trazable / Genealogía y salvaguarda |
 | `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md` | **OK** |  |
 | `snapshots/2026-08-11_NEOCORE_7_CURRENT_SNAPSHOT.md` | **OK** |  |
