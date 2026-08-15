@@ -9,7 +9,7 @@
 
 - Markdown activo examinado / Active Markdown scanned: **291**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **209**.
-- Fallos estructurales divididos / Split structural failures: **17**.
+- Fallos estructurales divididos / Split structural failures: **16**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **24**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -55,8 +55,6 @@
   - Fases de implementación: párrafos ES=5 EN=6
 - `proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md` · ES=1013 · EN=979 · ratio=0.97
   - 11: párrafos ES=4 EN=3
-- `wiki-source/NeoGenealogia.md` · ES=307 · EN=282 · ratio=0.92
-  - Qué es: párrafos ES=3 EN=2
 
 ## Marcadores / Markers
 
@@ -338,7 +336,7 @@
 | `wiki-source/Home.md` | **OK** |  |
 | `wiki-source/Manifiestos.md` | **OK** |  |
 | `wiki-source/Mapa_del_Marco.md` | **OK** |  |
-| `wiki-source/NeoGenealogia.md` | **REVISAR** | Qué es: párrafos ES=3 EN=2 |
+| `wiki-source/NeoGenealogia.md` | **OK** |  |
 | `wiki-source/Neoaxiomas.md` | **OK** |  |
 | `wiki-source/Obras_y_Cultura.md` | **OK** |  |
 | `wiki-source/Participar.md` | **OK** |  |
