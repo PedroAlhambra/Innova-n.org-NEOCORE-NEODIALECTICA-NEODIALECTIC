@@ -40,17 +40,11 @@ Esta ampliación no reescribe retrospectivamente el fragmento original. Conserva
 - [Síntesis Abierta específica · Issue #100](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/100)
 
 ---
-## Relación con la wiki
+## Relación con la wiki / Relation to the wiki
 
-### ES
-Este fragmento se relaciona con el **Fuego de Agua™** como símbolo de origen,
-con la paradoja creadora del sistema
-y con la ejecución simbiótica entre Fundador y arquitectura.
+**ES:** Este fragmento se relaciona con el **Fuego de Agua™** como símbolo de origen, con la paradoja creadora del sistema y con la ejecución simbiótica entre Fundador y arquitectura.
 
-### EN
-This fragment relates to **WaterFire™** as a symbol of origin,
-to the creative paradox of the system,
-and to the symbiotic execution between Founder and architecture.
+**EN:** This fragment relates to **WaterFire™** as a symbol of origin, to the creative paradox of the system and to the symbiotic execution between Founder and architecture.
 
 ---
 
