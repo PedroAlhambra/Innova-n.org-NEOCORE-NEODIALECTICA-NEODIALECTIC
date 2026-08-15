@@ -18,8 +18,8 @@
 
 - `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · ES=3046 · EN=2684 · ratio=0.88
   - **Patrón institucional observado**: párrafos ES=45 EN=47
-- `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · ES=699 · EN=644 · ratio=0.92
-  - esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, '')]
+- `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · ES=655 · EN=645 · ratio=0.98
+  - Solicitud de transparencia sectorial: párrafos ES=4 EN=6
 - `analisis/INDEX.md` · ES=586 · EN=576 · ratio=0.98
   - Criterio organizativo: párrafos ES=2 EN=4
 - `analisis/README.md` · ES=758 · EN=725 · ratio=0.96
@@ -306,7 +306,7 @@
 |---|---|---|
 | `README.md` | **OK** |  |
 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` | **REVISAR** | **Patrón institucional observado**: párrafos ES=45 EN=47 |
-| `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, '')] |
+| `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` | **REVISAR** | Solicitud de transparencia sectorial: párrafos ES=4 EN=6 |
 | `analisis/INDEX.md` | **REVISAR** | Criterio organizativo: párrafos ES=2 EN=4 |
 | `analisis/README.md` | **REVISAR** | Criterio documental: párrafos ES=2 EN=3 |
 | `analisis/auditorias/README.md` | **OK** |  |
