@@ -9,7 +9,7 @@
 
 - Markdown activo examinado / Active Markdown scanned: **291**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **226**.
-- Fallos estructurales divididos / Split structural failures: **34**.
+- Fallos estructurales divididos / Split structural failures: **30**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **20**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -23,8 +23,6 @@
 - `analisis/auditorias/README.md` · ES=172 · EN=304 · ratio=1.77
   - volumen EN/ES=1.77 (304/172)
   - esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, '')]
-- `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · ES=6000 · EN=5912 · ratio=0.99
-  - esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')]
 - `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` · ES=1285 · EN=1295 · ratio=1.01
   - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (3, ''), (2, '9'), (3, ''), (2, '10')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (3, ''), (2, '9'), (3, ''), (2, '10'), (2, '')]
 - `analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md` · ES=807 · EN=805 · ratio=1.00
@@ -35,8 +33,6 @@
   - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9'), (2, '10'), (2, '11')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (2, '9'), (2, '10'), (2, '11'), (2, '')]
 - `analisis/publicos/2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md` · ES=433 · EN=482 · ratio=1.11
   - esqueleto de encabezados distinto ES=[(2, '1'), (3, ''), (3, ''), (2, '2'), (3, ''), (2, '3')] EN=[(2, '1'), (3, ''), (3, ''), (2, '2'), (3, ''), (2, '3'), (2, '')]
-- `analisis/publicos/2026-08-13_convergencia-neodialectica-meta-zuckerberg_ES_EN.md` · ES=785 · EN=762 · ratio=0.97
-  - 9: párrafos ES=0 EN=1
 - `auditorias/publicas/2026-08-07_postcheck_enlaces_y_sincronizacion_XXXV_ES_EN.md` · ES=61 · EN=96 · ratio=1.57
   - esqueleto de encabezados distinto ES=[] EN=[(2, '')]
 - `auditorias/publicas/2026-08-07_postcheck_final_simetria_limpia_I_XXXVI_ES_EN.md` · ES=36 · EN=103 · ratio=2.86
@@ -80,11 +76,6 @@
   - Cita editorial recomendada: párrafos ES=1 EN=2
 - `obras/idea/README.md` · ES=835 · EN=1011 · ratio=1.21
   - esqueleto de encabezados distinto ES=[(3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, '')] EN=[(3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (2, '')]
-- `propuestas/sintesis-abierta/2026-08-15_C_NAX_23_CONSERVACION_FRACTAL_COMUN_ES_EN.md` · ES=87 · EN=147 · ratio=1.69
-  - volumen EN/ES=1.69 (147/87)
-  - esqueleto de encabezados distinto ES=[] EN=[(2, '')]
-- `propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md` · ES=49 · EN=145 · ratio=2.96
-  - esqueleto de encabezados distinto ES=[] EN=[(2, '')]
 - `propuestas/sintesis-abierta/ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_v0.1_ES_EN.md` · ES=1025 · EN=1070 · ratio=1.04
   - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (3, ''), (2, '4'), (3, ''), (3, ''), (2, '5'), (2, '6'), (2, '7'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '8'), (2, '9'), (2, '10')] EN=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (3, ''), (2, '4'), (3, ''), (3, ''), (2, '5'), (2, '6'), (2, '7'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '8'), (2, '9'), (2, '10'), (2, '')]
 
@@ -133,7 +124,7 @@
 | `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` | **OK** |  |
 | `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` | **OK** |  |
 | `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` | **OK** |  |
-| `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] |
+| `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Parte II — Dajla, mafias migratorias y control estatal / La infraestructura oculta de la presión fronteriza / Part II — Dakhla, migrant-smuggling networks and state control / Versión en español / Parte II — Dajla, mafias migratorias y control estatal / Utilización política del ecosistema / Acusación extraordinaria sin prueba suficiente / Conclusión / English version / Part II — Dakhla, migrant-smuggling networks and state control / Political use of the ecosystem / Extraordinary allegation without sufficient evidence |
 | `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` | **OK** |  |
@@ -164,7 +155,7 @@
 | `analisis/publicos/2026-08-10_LXI_genetica_ADN_neopandora_placa_petri_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-10_addendum_tidal_yellow_quasar_perfil_duplicado_uno_playlists_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md` | **OK** |  |
-| `analisis/publicos/2026-08-13_convergencia-neodialectica-meta-zuckerberg_ES_EN.md` | **REVISAR** | 9: párrafos ES=0 EN=1 |
+| `analisis/publicos/2026-08-13_convergencia-neodialectica-meta-zuckerberg_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md` | **OK** |  |
 | `analisis/publicos/README.md` | **OK** |  |
 | `analisis/publicos/evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: España, Marruecos, regularización y nacionalidad |
@@ -331,8 +322,8 @@
 | `propuestas/sintesis-abierta/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-11_DELTA_HUMANIDAD_COMUN_MADURACION_INVERTIDA_TROL_BOT_MAL_SISTEMICO_ES_EN.md` | **OK** |  |
-| `propuestas/sintesis-abierta/2026-08-15_C_NAX_23_CONSERVACION_FRACTAL_COMUN_ES_EN.md` | **REVISAR** | volumen EN/ES=1.69 (147/87); esqueleto de encabezados distinto ES=[] EN=[(2, '')] |
-| `propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[] EN=[(2, '')] |
+| `propuestas/sintesis-abierta/2026-08-15_C_NAX_23_CONSERVACION_FRACTAL_COMUN_ES_EN.md` | **OK** |  |
+| `propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-15_DELTA_NEOMANTIS_ASIMETRIA_INVERTIDA_DIGNIDAD_RECIPROCA_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_v0.1_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (3, ''), (2, '4'), (3, ''), (3, ''), (2, '5'), (2, '6'), (2, '7'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '8'), (2, '9'), (2, '10')] EN=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (3, ''), (2, '4'), (3, ''), (3, ''), (2, '5'), (2, '6'), (2, '7'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '8'), (2, '9'), (2, '10'), (2, '')] |
 | `propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` | **OK** |  |

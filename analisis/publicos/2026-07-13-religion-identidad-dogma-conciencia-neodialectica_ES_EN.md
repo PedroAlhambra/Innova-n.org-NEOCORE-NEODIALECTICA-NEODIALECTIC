@@ -3491,6 +3491,16 @@ And within it, part of the architecture of the larger problem can already be see
 > **Force cannot belong to dogma. Identity cannot occupy the place of individuality. Unity does not require uniformity. Before predicting history, we must learn to see it whole. Neodialectics is the tool directing that vector of advancement.**
 
 
+## Relation to XLIX · Meeting Point Between Cultures™
+
+This article's formulation of Neodialectics as a real meeting point between cultures is later developed as an autonomous manifesto:
+
+- [XLIX · Neodialectics as a Meeting Point Between Cultures™](../../manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)
+- [Open Synthesis XLIX · Issue #57](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/57)
+- [XLVIII · Synthesis Sees Everything™](../../manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md) — multiscale relation and antecedent of the Universal Petri Dish.
+
+The relation is genealogical and conceptual; by itself it does not turn the framework's analogies into empirically demonstrated claims.
+
 ## Cited documents
 
 1. [PSOE · Electoral Programme. 2023 General Election](https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf)
