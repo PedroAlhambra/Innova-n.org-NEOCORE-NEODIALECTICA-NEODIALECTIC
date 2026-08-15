@@ -54,7 +54,7 @@ def strip_generated_tail(s):
         if m: positions.append(m.start())
     # Only known editorial bilingual tail headings are shared boundaries. A slash alone
     # is not sufficient: content headings such as "Stanford / ACE" are part of the document.
-    m=re.search(r'^#{1,6}\s+(?:Fuentes[^\n]* / [^\n]*(?:Sources|sources)|Historial de versiones / Version history|Firma común / Common signature|Principio de procedencia / Provenance principle|Relaciones internas y trabajo aplicado / Internal relations and applied work|Relación con los manifiestos / Relation to the manifestos|Candidatos neoaxiomáticos / Neoaxiomatic candidates|Relaciones / Relations|Referencias cruzadas canónicas / Canonical cross-references)\s*$',s,re.M)
+    m=re.search(r'^#{1,6}\s+(?:Fuentes[^\n]* / [^\n]*(?:Sources|sources)|Historial de versiones / Version history|Firma común / Common signature|Principio de procedencia / Provenance principle|Relaciones internas y trabajo aplicado / Internal relations and applied work|Relación con los manifiestos / Relation to the manifestos|Candidatos neoaxiomáticos / Neoaxiomatic candidates|Relaciones / Relations|Referencias cruzadas canónicas / Canonical cross-references|Puerta de Síntesis / Synthesis Gate)\s*$',s,re.M)
     if m: positions.append(m.start())
     return s[:min(positions)] if positions else s
 
