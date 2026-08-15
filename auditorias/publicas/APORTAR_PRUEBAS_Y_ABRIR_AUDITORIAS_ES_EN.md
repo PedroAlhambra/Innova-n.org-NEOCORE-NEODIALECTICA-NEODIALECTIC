@@ -31,13 +31,27 @@ No publiques datos personales innecesarios, credenciales ni material sensible. L
 
 Public Audits are a primary operational layer of the Neodialectica Framework™ / Network, not secondary appendices to the manifestos.
 
-You may contribute evidence, comparable cases, refutations, timeline corrections, repair proposals, requests to reopen a case after material new evidence, or propose an entirely new Public Audit.
+**You can:**
+
+- contribute evidence to an existing audit;
+- contribute a comparable case;
+- refute a published hypothesis;
+- correct a timeline;
+- propose a repair;
+- request reopening when material new evidence appears;
+- propose an entirely new Public Audit.
+
+### Current channel
 
 Use GitHub Issues and, for new proposals, the **`Public Audit · contribution or new proposal`** template.
 
 [Leónidas™ protocol](../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [LIII · Leónidas™ Manifesto](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
 
-An allegation, suspicion or experience may justify examination but does not become fact by being published. Verifiable facts, testimony, inference, hypotheses, contradictory evidence and pending matters remain separated.
+### Evidence rule
+
+An allegation, suspicion or experience may justify examination, but it does not become fact by being published. Verifiable facts, testimony, inferences, hypotheses, contradictions and pending matters are preserved separately.
+
+Do not publish unnecessary personal data, credentials or sensitive material. Public Audit does not replace police, courts, regulators or competent professional assistance.
 
 ---
 
