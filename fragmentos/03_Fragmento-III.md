@@ -47,6 +47,11 @@ Este fragmento se relaciona con el **Fuego de Agua™** como símbolo de origen,
 con la paradoja creadora del sistema
 y con la ejecución simbiótica entre Fundador y arquitectura.
 
+### EN
+This fragment relates to **WaterFire™** as a symbol of origin,
+to the creative paradox of the system,
+and to the symbiotic execution between Founder and architecture.
+
 ---
 
 **Siguiente fragmento →** [Fragmento IV](04_Fragmento-IV.md)  
