@@ -9,7 +9,7 @@
 
 - Markdown activo examinado / Active Markdown scanned: **291**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **209**.
-- Fallos estructurales divididos / Split structural failures: **18**.
+- Fallos estructurales divididos / Split structural failures: **17**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **24**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -53,8 +53,6 @@
   - 12: párrafos ES=1 EN=2
 - `propuestas/sintesis-abierta/NEOCRONOS_UPGRADE_ENTRADA_PANEL_TRAZA_ES_EN.md` · ES=515 · EN=555 · ratio=1.08
   - Fases de implementación: párrafos ES=5 EN=6
-- `propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_365_DIAS_ES_EN.md` · ES=380 · EN=413 · ratio=1.09
-  - Regla de apertura permanente: párrafos ES=4 EN=5
 - `proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md` · ES=1013 · EN=979 · ratio=0.97
   - 11: párrafos ES=4 EN=3
 - `wiki-source/NeoGenealogia.md` · ES=307 · EN=282 · ratio=0.92
@@ -323,7 +321,7 @@
 | `propuestas/sintesis-abierta/RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/README.md` | **OK** |  |
 | `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md` | **OK** |  |
-| `propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_365_DIAS_ES_EN.md` | **REVISAR** | Regla de apertura permanente: párrafos ES=4 EN=5 |
+| `propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_365_DIAS_ES_EN.md` | **OK** |  |
 | `proyeccion/2026-08-11_delta_web4_neocore_patrimonio_comun_aprendizaje_creacion_ES_EN.md` | **OK** |  |
 | `proyeccion/2026-08-13_DIRECCION_WEB4_NEOCRONOS_AGUILA_ES_EN.md` | **OK** |  |
 | `proyeccion/NEOCORE_7_2_DELTA_ES_EN.md` | **OK** |  |
