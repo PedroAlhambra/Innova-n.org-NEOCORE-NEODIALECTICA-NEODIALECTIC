@@ -60,14 +60,14 @@ Sí aporta una referencia independiente de que el catálogo continúa registrand
 
 ## 1. New data point
 
-The Apple Music for Artists weekly summary covering **31 July – 6 August 2026** reports:
+The Apple Music for Artists weekly summary corresponding to the period **31 July – 6 August 2026** reports:
 
 - **20 plays**;
 - **1 Shazam**.
 
-## 2. Comparison with available weekly summaries
+## 2. Comparison with the available weekly summaries
 
-The weekly Techno Bach summaries currently preserved in Gmail provide this unique period series:
+The search across all Apple Music for Artists weekly-summary emails currently preserved in Gmail for **Techno Bach** returns the following unique series by period:
 
 | Period | Plays | Shazam |
 |---|---:|---:|
@@ -77,27 +77,27 @@ The weekly Techno Bach summaries currently preserved in Gmail provide this uniqu
 | 24–30 July | 14 | 0 |
 | 31 July–6 August | **20** | 1 |
 
-The 24–30 July summary appears several times with the same values and is counted once.
+The 24–30 July period appears several times in Gmail with the same value; it is counted only once so that the weekly figure is not duplicated.
 
 ## 3. Finding
 
-**20 plays is the highest weekly total observed in the Apple Music for Artists weekly-summary history currently available in Gmail for Techno Bach**, exceeding the previous observed high of 19 plays during 17–23 July.
+**20 plays is the highest weekly total observed in the history of weekly summaries currently available in Gmail for Techno Bach**, exceeding the previous high of 19 plays from 17–23 July.
 
-It is therefore a documented **observed weekly record** for this available series.
+This allows it to be described as an **observed weekly record** within this documentary series.
 
-It should not be described as an absolute lifetime record if earlier periods may exist outside the currently preserved email summaries.
+It does not yet allow us to state that it is the project's absolute all-time high if earlier periods exist that were not preserved or were not sent by email.
 
 ## 4. Proportional reading
 
-The available series rises from 3 weekly plays to an observed high of 20 in roughly one month, with intermediate variation.
+The available progression shows that Techno Bach went from 3 weekly plays to an observed high of 20 in approximately one month, although with intermediate fluctuations.
 
-The absolute scale remains small and should not be overstated, but the result is a positive, verifiable signal of activity on Apple Music without establishing a specific causal campaign.
+The figure is small in absolute scale and should not be exaggerated, but it does constitute a positive, verifiable signal of organic activity on Apple Music, without this record allowing causality to be attributed to any specific campaign.
 
 ## 5. Relation to the royalty audit
 
-This is **Apple Music** data, not Spotify data. It neither proves nor quantifies the Spotify–DistroKid royalty dispute.
+This data belongs to **Apple Music**, not Spotify, and therefore **does not prove** the Spotify–DistroKid royalty problem or allow figures to be transferred between platforms.
 
-It does provide an independent reference showing continuing listener activity for the catalogue on another platform.
+It does provide an independent reference showing that the catalogue continues to register real listening activity on another platform.
 
 - [DistroKid ticket 4499471 update · 2026-08-08](./2026-08-08_distrokid_ticket_4499471_respuesta_no_resolutiva_y_reiteracion_auditoria_ES_EN.md)
 - [Spotify–DistroKid · circular closure and escalation](./2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md)
