@@ -125,7 +125,7 @@
 | `analisis/publicos/2026-08-08_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_funcional_ES_EN.md` | 419 | 417 | 1.00 | 4 | 4 | OK |
 | `analisis/publicos/2026-08-08_delta_poder_incentivos_tokenizacion_y_transicion_neodialectica_ES_EN.md` | 908 | 954 | 1.05 | 12 | 13 | OK |
 | `analisis/publicos/2026-08-08_distrokid_ticket_4499471_respuesta_no_resolutiva_y_reiteracion_auditoria_ES_EN.md` | 754 | 713 | 0.95 | 8 | 8 | OK |
-| `analisis/publicos/2026-08-08_estado_correo_difusion_idea_y_adhesiones_sintesis_ES_EN.md` | 404 | 373 | 0.92 | 12 | 12 | OK |
+| `analisis/publicos/2026-08-08_estado_correo_difusion_idea_y_adhesiones_sintesis_ES_EN.md` | 409 | 373 | 0.91 | 12 | 12 | OK |
 | `analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md` | 1721 | 1706 | 0.99 | 21 | 22 | OK |
 | `analisis/publicos/2026-08-08_techno_bach_record_semanal_apple_music_ES_EN.md` | 335 | 343 | 1.02 | 5 | 5 | OK |
 | `analisis/publicos/2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md` | 1245 | 1208 | 0.97 | 14 | 14 | OK |
