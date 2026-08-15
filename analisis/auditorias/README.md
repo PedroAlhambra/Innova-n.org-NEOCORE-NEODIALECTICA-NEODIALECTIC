@@ -79,7 +79,9 @@ El archivo de DistroKid sigue por ahora en:
 
 ## Regla de continuidad
 
-Las nuevas auditorías públicas deben registrarse en `auditorias/publicas/` y enlazarse desde los índices generales de `analisis/`. La Wiki sólo debe actualizarse cuando cambie la forma de localizar, interpretar o utilizar las auditorías.
+Las nuevas auditorías públicas deben registrarse en `auditorias/publicas/` y enlazarse desde los índices generales de `analisis/`.
+
+La Wiki sólo debe actualizarse cuando cambie la forma de localizar, interpretar o utilizar las auditorías.
 
 ---
 
@@ -104,7 +106,9 @@ The DistroKid file remains for now at:
 
 ## Continuity rule
 
-New public audits should be recorded in `auditorias/publicas/` and linked from the general `analisis/` indexes. The Wiki should be updated only when the way of locating, interpreting or using audits changes.
+New public audits should be recorded in `auditorias/publicas/` and linked from the general `analisis/` indexes.
+
+The Wiki should be updated only when the way of locating, interpreting or using audits changes.
 
 <!-- KDP_51071689_TRACE_START -->
 
