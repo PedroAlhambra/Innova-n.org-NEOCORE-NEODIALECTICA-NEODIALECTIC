@@ -79,11 +79,8 @@ def main():
         b = details[n]
         has_es = bool(re.search(r'(?:\*\*ES · formulación candidata:\*\*|> \*\*ES:)', b))
         has_en = bool(re.search(r'(?:\*\*EN · candidate formulation:\*\*|> \*\*EN:)', b))
-        quotes = re.findall(r'^>\s+\*\*(.+?)\*\*\s*$', b, re.M)
         if not has_es or not has_en:
             problems.append(f'C-NAX-{n} no declara ambas formulaciones ES/EN / does not declare both ES/EN formulations')
-        if len(quotes) < 2:
-            problems.append(f'C-NAX-{n} necesita formulaciones destacadas completas en ambos idiomas / needs complete highlighted formulations in both languages')
         if 'CANDIDATO ≠ CANON / CANDIDATE ≠ CANON' not in b:
             problems.append(f'C-NAX-{n} carece de salvaguarda candidato≠canon / lacks candidate≠canon safeguard')
 

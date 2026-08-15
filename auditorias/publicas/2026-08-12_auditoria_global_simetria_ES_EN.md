@@ -7,7 +7,7 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **284**.
+- Markdown activo examinado / Active Markdown scanned: **285**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **222**.
 - Fallos estructurales divididos / Split structural failures: **0**.
 - Fallos de marcadores / Marker failures: **0**.
@@ -132,6 +132,7 @@
 | `auditorias/publicas/2026-08-12_auditoria_global_simetria_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `auditorias/publicas/2026-08-12_auditoria_registro_canonico_manifiestos_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `auditorias/publicas/2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-08-16_auditoria_neoaxiomas_simetria_frontera_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/README.md` | **OK** |  |

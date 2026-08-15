@@ -47,15 +47,164 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 | Candidato / Candidate | Procedencia / Provenance | Estado / Status |
 |---|---|---|
-| **C-NAX-15 · Soberanía Intelectual de la Especie™ / Intellectual Sovereignty of the Species™** | [LXVIII](../manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md) | **Candidato explícito** en LXVIII; pendiente de contraste suficiente / **Explicit candidate** in LXVIII; pending sufficient scrutiny |
-| **C-NAX-16 · No Coronación de la Parte™ / Non-Crowning of the Part™** | [LXII](../manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md) + [∞](../manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) | Candidato 7.2: persona, IA, Fundación, Corporación, mayoría o subsistema no equivalen al Todo / 7.2 candidate: person, AI, Foundation, Corporation, majority or subsystem do not equal the Whole |
-| **C-NAX-17 · Reconstrucción Sistémica™ / Systemic Reconstruction™** | [LXVII](../manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md) | Principio manifiesto; candidato a evaluación, no canonizado / Manifest principle; candidate for evaluation, not canonicalised |
-| **C-NAX-18 · Motor del Bien Común + NeoSinergia™ / Common-Good Engine + NeoSynergy™** | [LXVI](../manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md) + [LXVII](../manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md) | Candidato relacional a síntesis; no convierte cooperación en coerción / Relational synthesis candidate; does not turn cooperation into coercion |
+| **C-NAX-15 · Soberanía Intelectual de la Especie™ / Intellectual Sovereignty of the Species™** | [LXVIII](../manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md) | **Candidato explícito · SAN #150**; no canonizado / **Explicit candidate · SAN #150**; not canonicalised |
+| **C-NAX-16 · No Coronación de la Parte™ / Non-Crowning of the Part™** | [LXII](../manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md) + [∞](../manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) | **Candidato explícito · SAN #151**; no canonizado / **Explicit candidate · SAN #151**; not canonicalised |
+| **C-NAX-17 · Reconstrucción Sistémica™ / Systemic Reconstruction™** | [LXVII](../manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md) | **Candidato explícito · SAN #152**; no canonizado / **Explicit candidate · SAN #152**; not canonicalised |
+| **C-NAX-18 · Motor del Bien Común + NeoSinergia™ / Common-Good Engine + NeoSynergy™** | [LXVI](../manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md) + [LXVII](../manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md) | **Candidato explícito · SAN #153**; no canonizado / **Explicit candidate · SAN #153**; not canonicalised |
 | **C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™** | [LXIX](../manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md) + [LXX](../manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md) + [LXXI](../manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md) + [LXXII](../manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) | **Candidato explícito · SAN #123**; no canonizado / **Explicit candidate · SAN #123**; not canonicalised |
 | **C-NAX-20 · Humanidad Común sin Supresión de la Diferencia™ / Common Humanity without Suppression of Difference™** | [LXXIII](../manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md) | **Candidato explícito · SAN #126**; no canonizado / **Explicit candidate · SAN #126**; not canonicalised |
 | **C-NAX-21 · Ignorancia Sistémica del Mal y No Superioridad de la Destrucción™ / Systemic Ignorance of Evil and Non-Superiority of Destruction™** | [VI](../manifiestos/09_parasitismo_sistemico_ES_EN.md) + [LXXIII](../manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md) + [LXXIV](../manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md) | **Candidato explícito · SAN #127**; no canonizado / **Explicit candidate · SAN #127**; not canonicalised |
-
 | **C-NAX-22 · Memoria Material-Relacional™ / Material-Relational Memory™** | [LXXV](../manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md) | **Candidato explícito · SAN #135**; no canonizado / **Explicit candidate · SAN #135**; not canonicalised |
+| **C-NAX-23 · Conservación del Fractal Común™ / Conservation of the Common Fractal™** | [NeoMantis™ + documento C-NAX-23](../propuestas/sintesis-abierta/2026-08-15_C_NAX_23_CONSERVACION_FRACTAL_COMUN_ES_EN.md) | **Candidato explícito · SAN #148**; no canonizado / **Explicit candidate · SAN #148**; not canonicalised |
+| **C-NAX-24 · Diagnóstico ≠ Síntesis™ / Diagnosis ≠ Synthesis™** | [LXXVI + documento C-NAX-24](../propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md) | **Candidato explícito · SAN #149**; no canonizado / **Explicit candidate · SAN #149**; not canonicalised |
+
+### C-NAX-15 · Soberanía Intelectual de la Especie™ / Intellectual Sovereignty of the Species™
+
+**ES · formulación candidata:**
+
+> **Ningún nodo humano, institucional o artificial debe adquirir capacidad suficiente para sustituir de forma opaca, irreversible o incontestable la formación distribuida del juicio de la especie. Toda arquitectura de gran poder cognitivo debe preservar pluralidad, trazabilidad, crítica, salida, memoria y posibilidad real de corrección.**
+
+```text
+PLURALIDAD + MEMORIA + CONTRASTE + EDUCACIÓN
++ DERECHO A DISENTIR + DERECHO A SALIR
++ IA NO SOBERANA + RESPONSABILIDAD HUMANA
+= SOBERANÍA INTELECTUAL DE LA ESPECIE™
+```
+
+**EN · candidate formulation:**
+
+> **No human, institutional or artificial node should acquire enough power to opaquely, irreversibly or incontestably replace the distributed formation of the species' judgement. Every architecture of major cognitive power must preserve plurality, traceability, criticism, exit, memory and a real possibility of correction.**
+
+```text
+PLURALITY + MEMORY + SCRUTINY + EDUCATION
++ RIGHT TO DISSENT + RIGHT TO EXIT
++ NON-SOVEREIGN AI + HUMAN RESPONSIBILITY
+= INTELLECTUAL SOVEREIGNTY OF THE SPECIES™
+```
+
+**Procedencia / Provenance:** [LXVIII](../manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md).  
+**Síntesis / Synthesis:** [#150](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/150) · **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
+
+**Genealogía / Genealogy:** la formulación ya estaba explícita en la fuente de 2026-08-10; este bloque repara el registro central sin reiniciar su apertura pública. / the formulation was already explicit in the 2026-08-10 source; this block repairs the central registry without restarting its public opening.
+
+### C-NAX-16 · No Coronación de la Parte™ / Non-Crowning of the Part™
+
+**ES · formulación candidata:**
+
+> **Ninguna persona, IA, fundación, corporación, mayoría o subsistema puede reclamar equivalencia con el Todo. Toda autoridad dentro del marco es funcional, limitada, trazable, impugnable y revisable.**
+
+```text
+AUTORÍA ≠ VERDAD
+AUTORIDAD ≠ TOTALIDAD
+INSTITUCIÓN ≠ TOTALIDAD
+CAPITAL ≠ TOTALIDAD
+MAYORÍA ≠ TOTALIDAD
+IA ≠ TOTALIDAD
+NEO0 ≠ TOTALIDAD
+```
+
+**EN · candidate formulation:**
+
+> **No person, AI, foundation, corporation, majority or subsystem may claim equivalence with the Whole. Every authority within the framework is functional, limited, traceable, challengeable and revisable.**
+
+```text
+AUTHORSHIP ≠ TRUTH
+AUTHORITY ≠ TOTALITY
+INSTITUTION ≠ TOTALITY
+CAPITAL ≠ TOTALITY
+MAJORITY ≠ TOTALITY
+AI ≠ TOTALITY
+NEO0 ≠ TOTALITY
+```
+
+**Procedencia / Provenance:** [LXII](../manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md) + [∞](../manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md).  
+**Síntesis / Synthesis:** [#151](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/151) · **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
+
+**Genealogía / Genealogy:** la formulación ya estaba explícita en la fuente de 2026-08-10; este bloque repara el registro central sin reiniciar su apertura pública. / the formulation was already explicit in the 2026-08-10 source; this block repairs the central registry without restarting its public opening.
+
+### C-NAX-17 · Reconstrucción Sistémica™ / Systemic Reconstruction™
+
+**ES · formulación candidata:**
+
+> **Una función sistémica no se vuelve innecesaria porque se haya perdido la comprensión de su papel. Antes de desmontar, sustituir o restaurar una estructura, deben reconstruirse sus funciones y dependencias, separar el valor del error histórico, reparar sus enlaces y reintegrar lo útil en una arquitectura superior sin copiar ni borrar el pasado.**
+
+```text
+RECONSTRUIR
+≠ COPIAR EL PASADO
+≠ BORRAR EL PASADO
+≠ DESTRUIR PARA EMPEZAR DE CERO
+
+RECONSTRUIR
+= RECUPERAR FUNCIÓN
++ COMPRENDER DEPENDENCIAS
++ SEPARAR VALOR DE ERROR HISTÓRICO
++ REPARAR ENLACES
++ REINTEGRAR EN ARQUITECTURA SUPERIOR
+```
+
+**EN · candidate formulation:**
+
+> **A systemic function does not become unnecessary because understanding of its role has been lost. Before dismantling, replacing or restoring a structure, its functions and dependencies must be reconstructed, value separated from historical error, links repaired, and what remains useful reintegrated into a higher architecture without copying or erasing the past.**
+
+```text
+RECONSTRUCT
+≠ COPY THE PAST
+≠ ERASE THE PAST
+≠ DESTROY EVERYTHING TO START AGAIN
+
+RECONSTRUCT
+= RECOVER FUNCTION
++ UNDERSTAND DEPENDENCIES
++ SEPARATE VALUE FROM HISTORICAL ERROR
++ REPAIR LINKS
++ REINTEGRATE INTO A HIGHER ARCHITECTURE
+```
+
+**Procedencia / Provenance:** [LXVII](../manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md).  
+**Síntesis / Synthesis:** [#152](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/152) · **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
+
+**Genealogía / Genealogy:** formulación autónoma consolidada fielmente desde el principio ya publicado en la fuente; no altera su procedencia ni convierte el candidato en canon. / standalone formulation faithfully consolidated from the principle already published in the source; it neither changes provenance nor turns the candidate into canon.
+
+### C-NAX-18 · Motor del Bien Común + NeoSinergia™ / Common-Good Engine + NeoSynergy™
+
+**ES · formulación candidata:**
+
+> **El Bien Común actúa como core-motor cuando capacidades diferentes interoperan sin perder singularidad y producen potencia común. Si una necesidad trazable activa una función aceptada y existe capacidad pertinente para contribuir de forma proporcional sin vulnerar derechos ni límites superiores, la cooperación puede pasar de opción a deber funcional justificable, siempre discutible, recusable, limitado y auditable.**
+
+```text
+CAPACIDADES DIFERENTES
++ NECESIDAD TRAZABLE
++ COORDINACIÓN
++ DERECHOS Y LÍMITES
++ SAN™
+→ NEOSINERGIA™
+→ POTENCIA COMÚN
+
+DEBER DE COOPERAR + DERECHOS Y LÍMITES
+= RESPONSABILIDAD, NO SERVIDUMBRE
+```
+
+**EN · candidate formulation:**
+
+> **The Common Good acts as a core engine when different capabilities interoperate without losing their singularity and produce common power. When a traceable need activates an accepted function and relevant capacity exists to contribute proportionally without violating rights or higher limits, cooperation may shift from an option to a justifiable functional duty, always open to discussion, challenge, limitation and audit.**
+
+```text
+DIFFERENT CAPABILITIES
++ TRACEABLE NEED
++ COORDINATION
++ RIGHTS AND LIMITS
++ SAN™
+→ NEOSYNERGY™
+→ COMMON POWER
+
+DUTY TO COOPERATE + RIGHTS AND LIMITS
+= RESPONSIBILITY, NOT SERVITUDE
+```
+
+**Procedencia / Provenance:** [LXVI](../manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md) + [LXVII](../manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md).  
+**Síntesis / Synthesis:** [#153](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/153) · **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
+
+**Genealogía / Genealogy:** formulación autónoma consolidada fielmente desde el principio ya publicado en la fuente; no altera su procedencia ni convierte el candidato en canon. / standalone formulation faithfully consolidated from the principle already published in the source; it neither changes provenance nor turns the candidate into canon.
 
 ### C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™
 
@@ -126,6 +275,69 @@ CONSTRUIR ≠ BIEN AUTOMÁTICO / BUILDING ≠ AUTOMATIC GOOD
 **Procedencia / Provenance:** [LXXV](../manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md).  
 **Síntesis / Synthesis:** [#135](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/135) · **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
 
+### C-NAX-23 · Conservación del Fractal Común™ / Conservation of the Common Fractal™
+
+**ES · formulación candidata:**
+
+> **Ningún equilibrio legítimo puede construirse concediendo a una parte capacidad estable de destruir impunemente a otra parte necesaria del mismo sistema. La corrección de una asimetría debe aumentar la integridad del fractal común, no trasladar la licencia de degradación de un polo al otro.**
+
+```text
+IGUAL DIGNIDAD
++ DIFERENCIA REAL RECONOCIDA
++ VULNERABILIDAD CONTEXTUAL
++ PODER LIMITADO
++ RESPONSABILIDAD PROPORCIONAL A POTENCIA
++ CONTRADICCIÓN
++ REPARACIÓN
++ RECIPROCIDAD
+→ CONSERVACIÓN DEL FRACTAL COMÚN™
+```
+
+**EN · candidate formulation:**
+
+> **No legitimate equilibrium can be built by granting one part a stable capacity to destroy with impunity another part required by the same system. Correcting an asymmetry must increase the integrity of the common fractal, not transfer the licence to degrade from one pole to the other.**
+
+```text
+EQUAL DIGNITY
++ RECOGNISED REAL DIFFERENCE
++ CONTEXTUAL VULNERABILITY
++ LIMITED POWER
++ RESPONSIBILITY PROPORTIONAL TO CAPACITY
++ CONTRADICTION
++ REPAIR
++ RECIPROCITY
+→ CONSERVATION OF THE COMMON FRACTAL™
+```
+
+**Procedencia / Provenance:** [NeoMantis™ + documento C-NAX-23](../propuestas/sintesis-abierta/2026-08-15_C_NAX_23_CONSERVACION_FRACTAL_COMUN_ES_EN.md).  
+**Síntesis / Synthesis:** [#148](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/148) · **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
+
+### C-NAX-24 · Diagnóstico ≠ Síntesis™ / Diagnosis ≠ Synthesis™
+
+**ES · formulación candidata:**
+
+> **Detectar, describir, predecir o amplificar un problema no equivale a sintetizarlo. La autoridad de una propuesta no deriva de su visibilidad, prestigio o capacidad de alarma, sino de su capacidad para entrar en contraste, relacionarse con otras perspectivas, conservar genealogía, admitir corrección y contribuir a una respuesta común revisable.**
+
+```text
+DIAGNÓSTICO ≠ SÍNTESIS
+VISIBILIDAD ≠ VERDAD
+PRESTIGIO ≠ SOBERANÍA
+ALTAVOZ ≠ SOLUCIÓN
+```
+
+**EN · candidate formulation:**
+
+> **Detecting, describing, predicting or amplifying a problem is not the same as synthesising it. The authority of a proposal does not derive from visibility, prestige or capacity for alarm, but from its capacity to enter scrutiny, relate to other perspectives, preserve genealogy, admit correction and contribute to a revisable common response.**
+
+```text
+DIAGNOSIS ≠ SYNTHESIS
+VISIBILITY ≠ TRUTH
+PRESTIGE ≠ SOVEREIGNTY
+LOUDSPEAKER ≠ SOLUTION
+```
+
+**Procedencia / Provenance:** [LXXVI + documento C-NAX-24](../propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md).  
+**Síntesis / Synthesis:** [#149](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/149) · **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
 <!-- NEOAXIOM_CANDIDATES_72_END -->
 
 # ES · Castellano

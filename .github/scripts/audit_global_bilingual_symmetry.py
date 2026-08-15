@@ -333,3 +333,11 @@ lines += ['', '## Regla permanente / Permanent rule','',
 REPORT.parent.mkdir(parents=True,exist_ok=True)
 REPORT.write_text('\n'.join(lines)+'\n',encoding='utf-8')
 print(f'GLOBAL_BILINGUAL_SYMMETRY split_fail={len(split_fail)} marker_fail={len(marker_fail)} paired_review={len(paired_review)} yaml_review={len(yaml_review)} report={REPORT}')
+
+# NEOAXIOM_REGISTRY_INTEGRITY_GATE
+# The global ES/EN audit previously did not inspect the candidate registry placed before
+# the main # ES / # EN split in neoaxiomas/README.md. Keep a dedicated hard gate so a
+# C-NAX row can never again exist without a bilingual formulation block.
+import subprocess as _neo_subprocess
+import sys as _neo_sys
+_neo_subprocess.run([_neo_sys.executable, str(ROOT/'.github/scripts/audit_neoaxiom_registry_integrity.py')], check=True)

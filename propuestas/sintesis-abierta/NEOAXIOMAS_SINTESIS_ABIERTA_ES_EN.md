@@ -32,6 +32,19 @@ La primera activación pública contiene once formulaciones: / The first public 
 10. **NAX-10 · Gramática Arquetípica de Custodia™ / Archetypal Grammar of Custodianship™**
 11. **NAX-11 · Autoridad de Fijación Humana y Síntesis Revisable™ / Human Fixation Authority and Revisable Synthesis™**
 
+## Estado vigente / Current state
+
+La lista anterior conserva la **primera activación pública de once formulaciones** como genealogía. El estado operativo vigente de la capa es: / The list above preserves the **first public activation of eleven formulations** as genealogy. The current operational state of the layer is:
+
+- **14 Neoaxiomas™ canónicos / canonical Neoaxioms™:** NAX-01–NAX-14.
+- **10 candidatos neoaxiomáticos / neoaxiomatic candidates:** C-NAX-15–C-NAX-24.
+- **Registro canónico de formulaciones / Canonical formulation registry:** [neoaxiomas/README.md](../../neoaxiomas/README.md).
+- **Índice completo de contraste / Complete scrutiny index:** [INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md](./INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md).
+- **Matriz general / General matrix:** [#80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80).
+
+C-NAX-15–C-NAX-18 disponen desde esta reparación de formulación autónoma y Síntesis dedicada, recuperadas o consolidadas desde sus fuentes públicas originales; C-NAX-19–C-NAX-24 conservan sus formulaciones y rutas de contraste vigentes. Ningún C-NAX se convierte por ello en canon. / From this repair onward C-NAX-15–C-NAX-18 have standalone formulations and dedicated Synthesis nodes, recovered or consolidated from their original public sources; C-NAX-19–C-NAX-24 preserve their current formulations and scrutiny routes. No C-NAX becomes canonical by this repair.
+
+
 ## Regla de trabajo / Working rule
 
 ```text
