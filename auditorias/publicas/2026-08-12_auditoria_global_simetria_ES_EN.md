@@ -7,8 +7,8 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **288**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **208**.
+- Markdown activo examinado / Active Markdown scanned: **289**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **209**.
 - Fallos estructurales divididos / Split structural failures: **116**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **24**.
@@ -24,8 +24,6 @@
   - Criterio organizativo: párrafos ES=2 EN=4
 - `analisis/README.md` · ES=758 · EN=725 · ratio=0.96
   - Criterio documental: párrafos ES=2 EN=3
-- `analisis/auditorias/README.md` · ES=172 · EN=163 · ratio=0.95
-  - Regla de continuidad: párrafos ES=3 EN=2
 - `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` · ES=621 · EN=600 · ratio=0.97
   - 6: párrafos ES=3 EN=5
 - `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` · ES=825 · EN=782 · ratio=0.95
@@ -157,6 +155,18 @@
   - 14: párrafos ES=2 EN=1
 - `manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md` · ES=1651 · EN=1636 · ratio=0.99
   - 14: párrafos ES=2 EN=1
+- `manifiestos/76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md` · ES=1551 · EN=1439 · ratio=0.93
+  - II: lists ES=14 EN=0
+  - III: lists ES=20 EN=0
+  - IV: lists ES=10 EN=0
+  - IV: párrafos ES=11 EN=10
+  - VI: párrafos ES=7 EN=5
+  - VII: párrafos ES=6 EN=4
+  - VIII: párrafos ES=7 EN=6
+  - X: lists ES=6 EN=0
+  - X: párrafos ES=4 EN=3
+  - XI: code ES=1 EN=0
+  - XIII: párrafos ES=3 EN=2
 - `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · ES=2092 · EN=2096 · ratio=1.00
   - XIII: párrafos ES=5 EN=4
 - `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` · ES=611 · EN=611 · ratio=1.00
@@ -313,7 +323,7 @@
 | `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, '')] |
 | `analisis/INDEX.md` | **REVISAR** | Criterio organizativo: párrafos ES=2 EN=4 |
 | `analisis/README.md` | **REVISAR** | Criterio documental: párrafos ES=2 EN=3 |
-| `analisis/auditorias/README.md` | **REVISAR** | Regla de continuidad: párrafos ES=3 EN=2 |
+| `analisis/auditorias/README.md` | **OK** |  |
 | `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Parte II — Dajla, mafias migratorias y control estatal / La infraestructura oculta de la presión fronteriza / Part II — Dakhla, migrant-smuggling networks and state control / Versión en español / Parte II — Dajla, mafias migratorias y control estatal / Utilización política del ecosistema / Acusación extraordinaria sin prueba suficiente / Conclusión / English version / Part II — Dakhla, migrant-smuggling networks and state control / Political use of the ecosystem / Extraordinary allegation without sufficient evidence |
 | `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` | **OK** |  |
@@ -488,6 +498,7 @@
 | `manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md` | **OK** |  |
 | `manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md` | **OK** |  |
 | `manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md` | **OK** |  |
+| `manifiestos/76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md` | **REVISAR** | II: lists ES=14 EN=0; III: lists ES=20 EN=0; IV: lists ES=10 EN=0; IV: párrafos ES=11 EN=10; VI: párrafos ES=7 EN=5; VII: párrafos ES=6 EN=4; VIII: párrafos ES=7 EN=6; X: lists ES=6 EN=0; X: párrafos ES=4 EN=3; XI: code ES=1 EN=0; XIII: párrafos ES=3 EN=2 |
 | `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | **REVISAR** | XIII: párrafos ES=5 EN=4 |
 | `manifiestos/README.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: WEB4™ · SistemaTrazable™ |
 | `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` | **REVISAR** | Secuencia transversal: párrafos ES=2 EN=1 |
