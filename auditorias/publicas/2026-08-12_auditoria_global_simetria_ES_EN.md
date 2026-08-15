@@ -47,9 +47,8 @@
   - 8: párrafos ES=3 EN=4
 - `analisis/publicos/2026-08-08_distrokid_ticket_4499471_respuesta_no_resolutiva_y_reiteracion_auditoria_ES_EN.md` · ES=754 · EN=713 · ratio=0.95
   - 8: párrafos ES=1 EN=2
-- `analisis/publicos/2026-08-08_estado_correo_difusion_idea_y_adhesiones_sintesis_ES_EN.md` · ES=404 · EN=373 · ratio=0.92
-  - Novum: párrafos ES=3 EN=2
-  - 5: párrafos ES=1 EN=2
+- `analisis/publicos/2026-08-08_estado_correo_difusion_idea_y_adhesiones_sintesis_ES_EN.md` · ES=409 · EN=373 · ratio=0.91
+  - 5: párrafos ES=2 EN=1
 - `analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md` · ES=1721 · EN=1706 · ratio=0.99
   - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (2, '4'), (3, ''), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (3, ''), (3, ''), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17')] EN=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (2, '4'), (3, ''), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (3, ''), (3, ''), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17'), (2, '')]
 - `analisis/publicos/2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md` · ES=1245 · EN=1208 · ratio=0.97
@@ -325,7 +324,7 @@
 | `analisis/publicos/2026-08-08_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_funcional_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-08_delta_poder_incentivos_tokenizacion_y_transicion_neodialectica_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-08_distrokid_ticket_4499471_respuesta_no_resolutiva_y_reiteracion_auditoria_ES_EN.md` | **REVISAR** | 8: párrafos ES=1 EN=2 |
-| `analisis/publicos/2026-08-08_estado_correo_difusion_idea_y_adhesiones_sintesis_ES_EN.md` | **REVISAR** | Novum: párrafos ES=3 EN=2; 5: párrafos ES=1 EN=2 |
+| `analisis/publicos/2026-08-08_estado_correo_difusion_idea_y_adhesiones_sintesis_ES_EN.md` | **REVISAR** | 5: párrafos ES=2 EN=1 |
 | `analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (2, '4'), (3, ''), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (3, ''), (3, ''), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17')] EN=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (2, '4'), (3, ''), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (3, ''), (3, ''), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17'), (2, '')] |
 | `analisis/publicos/2026-08-08_techno_bach_record_semanal_apple_music_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md` | **REVISAR** | 7: párrafos ES=3 EN=4 |
