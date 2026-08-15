@@ -13,6 +13,48 @@ jobs:
         with:
           ref: main
           fetch-depth: 0
+      - name: Patch persistent generators and guards
+        shell: python
+        run: |
+          from pathlib import Path
+
+          # Current WEB4 topology: public web4/ is documentary source, not DEMO/parallel site.
+          p=Path('.github/scripts/audit_markdown_links_readmes.py')
+          t=p.read_text(encoding='utf-8')
+          old="if 'innova-n.org' not in wr or 'no es demo' not in low_wr or 'segunda web' not in low_wr:"
+          new="if 'innova-n.org' not in wr or ('no es demo' not in low_wr and 'no es una demo' not in low_wr) or 'segunda web' not in low_wr:"
+          if old not in t:
+              raise SystemExit('WEB4 guard condition not found')
+          p.write_text(t.replace(old,new,1),encoding='utf-8')
+
+          # Extend the living curated relation block from LXXV to LXXVI and stop
+          # the legacy LXXV helper from injecting a bilingual mixed block into only
+          # one half of wiki-source/Mapa_del_Marco.md.
+          p=Path('.github/scripts/sync_relations_lxxv.py')
+          t=p.read_text(encoding='utf-8')
+          marker="\n\n{END}'''"
+          if marker not in t:
+              raise SystemExit('relation block end marker not found')
+          addition="""
+
+## LXXVI · El Altavoz sin Síntesis™ · Diagnóstico, Ruido, Ego y Responsabilidad de Construcción / The Loudspeaker without Synthesis™ · Diagnosis, Noise, Ego and Responsibility to Build
+
+- **Manifiesto / Manifesto:** [LXXVI · El Altavoz sin Síntesis™ / The Loudspeaker without Synthesis™](./76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md).
+- **Relación / Relation:** B–C · diagnóstico sin integración, amplificación mediática, autoridad epistemológica, ego, ruido informado y responsabilidad de construir una Síntesis común / diagnosis without integration, media amplification, epistemic authority, ego, informed noise and responsibility to build a common Synthesis.
+- **Síntesis Abierta / Open Synthesis:** [#149](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/149).
+- **Candidatos neoaxiomáticos / Neoaxiomatic candidates:** [C-NAX-23 · Conservación del Fractal Común™ / Conservation of the Common Fractal™](../propuestas/sintesis-abierta/2026-08-15_C_NAX_23_CONSERVACION_FRACTAL_COMUN_ES_EN.md) · [C-NAX-24 · Diagnóstico ≠ Síntesis™ / Diagnosis ≠ Synthesis™](../propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md).
+- **Interconexiones / Interconnections:** [XII · Los sin ego / The Egoless](./12_los_sin_ego_ES_EN.md) · [XXII · Contra la Reducción y la Captura Intelectual™ / Against Intellectual Reduction and Capture™](./22_contra_reduccion_captura_intelectual_ES_EN.md) · [XXXV · Contra la Ridiculez Mediática y la Economía del Conflicto™ / Against Media Absurdity and the Conflict Economy™](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) · [LXXIV · Asimetría de la Destrucción™ / Asymmetry of Destruction™](./74_asimetria_destruccion_trol_humano_bot_ES_EN.md).
+
+**Regla probatoria / Evidentiary rule:** visibilidad, prestigio o capacidad de detectar problemas no equivalen por sí solos a una síntesis superior; toda alternativa que iguale o mejore las funciones trazables de Síntesis Abierta™ debe poder entrar en contraste y ser integrada sin apropiación genealógica. / visibility, prestige or problem-detection ability do not by themselves amount to a superior synthesis; any alternative that equals or improves the traceable functions of Open Synthesis™ must be open to scrutiny and integration without genealogical appropriation.
+"""
+          t=t.replace(marker,addition+marker,1)
+          t=t.replace('**Cobertura / Coverage:** I–LXXV · 75 manifiestos finitos + ∞ como continuidad abierta / 75 finite manifestos I–LXXV + ∞ as open continuity  ',
+                      '**Cobertura / Coverage:** I–LXXVI · 76 manifiestos finitos + ∞ como continuidad abierta / 76 finite manifestos I–LXXVI + ∞ as open continuity  ')
+          t=t.replace("'## Matriz completa I–LXXV / Complete I–LXXV matrix'",
+                      "'## Matriz completa I–LXXVI / Complete I–LXXVI matrix'")
+          t=t.replace("text=upsert(text,radar_wiki,'## Análisis, evidencia y auditorías')",
+                      "# The wiki map has its own ES/EN structure; do not inject a mixed block into one language half here.\ntext=old")
+          p.write_text(t,encoding='utf-8')
       - name: Rebuild living manifesto, synthesis and canonical graph
         run: |
           python .github/scripts/register_manifesto_frontier.py
@@ -45,7 +87,7 @@ jobs:
           echo '=== GLOBAL SYMMETRY RESIDUAL ==='
           sed -n '/## Fallos divididos \/ Split failures/,/## Marcadores \/ Markers/p' auditorias/publicas/2026-08-12_auditoria_global_simetria_ES_EN.md || true
           echo '=== RELATIONS HEAD ==='
-          head -n 35 auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md || true
+          head -n 22 auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md || true
       - name: Enforce clean living state
         shell: python
         run: |
@@ -53,13 +95,16 @@ jobs:
           import json
           registry=json.loads(Path('manifiestos/CANONICAL_FILENAMES.json').read_text(encoding='utf-8'))['entries']
           n=len(registry)
-          if n < 76 or 'LXXVI' not in registry:
-              raise SystemExit(f'LXXVI not registered in canonical frontier: {n}')
+          if n != 76 or 'LXXVI' not in registry:
+              raise SystemExit(f'unexpected canonical frontier: {n}')
           links=Path('auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md').read_text(encoding='utf-8')
           if '**Estado / Status:** **OK**' not in links:
               raise SystemExit('documentary graph still not healthy')
+          rel=Path('auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md').read_text(encoding='utf-8')
+          if '- Cobertura del mapa curado: **76/76**.' not in rel or '- Ausentes del mapa curado: **ninguno / none**.' not in rel:
+              raise SystemExit('relational curated map does not cover LXXVI')
           reg=Path('auditorias/publicas/2026-08-12_auditoria_registro_canonico_manifiestos_ES_EN.md').read_text(encoding='utf-8')
-          if f'**Entradas canónicas / Canonical entries:** {n}' not in reg or '**Problemas / Problems:** 0' not in reg:
+          if '**Entradas canónicas / Canonical entries:** 76' not in reg or '**Problemas / Problems:** 0' not in reg:
               raise SystemExit('canonical registry audit not clean')
           parity=Path('auditorias/publicas/2026-08-09_auditoria_paridad_ES_EN_manifiestos_articulos.md').read_text(encoding='utf-8')
           if '**Recortes/materialmente asimétricos para revisión:** 0' not in parity or '**Con marcador incompleto/ausente:** 0' not in parity:
@@ -71,8 +116,9 @@ jobs:
           required=('Split structural failures: **0**','Marker failures: **0**','Paired surfaces for review: **0**','Issue templates with non-symmetric visible labels: **0**')
           if any(x not in global_sym for x in required):
               raise SystemExit('global bilingual symmetry regressed')
-          print(f'CANONICAL_FRONTIER=I-LXXVI ({n})')
+          print('CANONICAL_FRONTIER=I-LXXVI (76)')
           print('DOCUMENTARY_GRAPH=OK')
+          print('RELATIONAL_GRAPH=76/76')
           print('BILINGUAL_GLOBAL=OK')
       - name: Validate repository diff
         run: git diff --check
@@ -84,6 +130,6 @@ jobs:
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add -A
           if git diff --cached --quiet; then exit 0; fi
-          git commit -m 'docs: reconcile LXXVI canonical graph links and synthesis frontier'
+          git commit -m 'docs: reconcile LXXVI canonical graph links relations and synthesis frontier'
           git pull --rebase origin main
           git push origin HEAD:main
