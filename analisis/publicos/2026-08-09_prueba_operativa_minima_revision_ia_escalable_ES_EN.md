@@ -114,6 +114,8 @@ La tesis se fortalece si aumenta de forma verificable:
 - [Síntesis Abierta XXXIV · #29](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/29)
 - [Síntesis Abierta L · #58](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/58)
 
+**Innova_N · NEOCore™ · Neodialectica Framework™ / Network**
+
 ---
 
 # EN · English
@@ -222,8 +224,5 @@ The thesis becomes stronger if the following increase in a verifiable way:
 - [Founder Audit™](../../auditorias/publicas/2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md)
 - [Open Synthesis XXXIV · #29](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/29)
 - [Open Synthesis L · #58](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/58)
-
-
----
 
 **Innova_N · NEOCore™ · Neodialectica Framework™ / Network**
