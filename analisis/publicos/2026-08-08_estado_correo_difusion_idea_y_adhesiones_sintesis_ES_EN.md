@@ -85,6 +85,8 @@ PETICIÓN DE EPUB DURANTE KDP SELECT
 - [Manifiesto XLVIII · La Síntesis Todo lo Ve™](../../manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
 - [Síntesis Abierta](../../propuestas/sintesis-abierta/README.md)
 
+**Pedro Martínez Alhambra · Innova_N**
+
 ---
 
 # EN · English
@@ -93,7 +95,9 @@ PETICIÓN DE EPUB DURANTE KDP SELECT
 
 ### Novum
 
-Thomas Winther responded positively and offered publication of an author-written presentation of up to 1,500 words. The proposal was accepted and the completed IDEA presentation was subsequently sent, including the historical relation between the novel and the later Neodialectical framework.
+Thomas Winther responded positively and offered publication of an author-written presentation of up to 1,500 words.
+
+The proposal was accepted and the completed **IDEA** presentation was subsequently sent, including the historical relation between the novel and the later Neodialectical framework.
 
 **Sent message:** `19fe13c1aeb4e1c8`
 
@@ -161,7 +165,5 @@ EPUB REQUEST DURING KDP SELECT
 - [IDEA · documentary node](../../obras/idea/README.md)
 - [Manifesto XLVIII · The Synthesis Sees Everything™](../../manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
 - [Open Synthesis](../../propuestas/sintesis-abierta/README.md)
-
----
 
 **Pedro Martínez Alhambra · Innova_N**
