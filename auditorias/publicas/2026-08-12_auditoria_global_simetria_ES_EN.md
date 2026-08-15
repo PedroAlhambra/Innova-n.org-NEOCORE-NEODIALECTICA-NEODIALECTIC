@@ -9,7 +9,7 @@
 
 - Markdown activo examinado / Active Markdown scanned: **291**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **209**.
-- Fallos estructurales divididos / Split structural failures: **64**.
+- Fallos estructurales divididos / Split structural failures: **41**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **24**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -18,37 +18,16 @@
 
 - `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · ES=3046 · EN=2684 · ratio=0.88
   - **Patrón institucional observado**: párrafos ES=35 EN=36
-- `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · ES=655 · EN=645 · ratio=0.98
-  - Solicitud de transparencia sectorial: párrafos ES=3 EN=4
-- `analisis/INDEX.md` · ES=586 · EN=576 · ratio=0.98
-  - Criterio organizativo: párrafos ES=1 EN=2
-- `analisis/README.md` · ES=758 · EN=725 · ratio=0.96
-  - Criterio documental: párrafos ES=1 EN=2
-- `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` · ES=621 · EN=600 · ratio=0.97
-  - 6: párrafos ES=2 EN=3
-- `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` · ES=825 · EN=782 · ratio=0.95
-  - 8: párrafos ES=2 EN=3
 - `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` · ES=1625 · EN=1668 · ratio=1.03
   - 2: párrafos ES=8 EN=7
   - 11: lists ES=10 EN=22
-  - 11: párrafos ES=2 EN=3
 - `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` · ES=1750 · EN=1865 · ratio=1.07
   - 12: lists ES=0 EN=12
   - 12: párrafos ES=6 EN=7
-- `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` · ES=531 · EN=511 · ratio=0.96
-  - 5: párrafos ES=2 EN=3
-- `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md` · ES=403 · EN=377 · ratio=0.94
-  - 6: párrafos ES=0 EN=1
-- `analisis/publicos/2026-08-08_addendum_distrokid_catalogo_album_removed_added_apple_music_ES_EN.md` · ES=803 · EN=772 · ratio=0.96
-  - 8: párrafos ES=2 EN=3
 - `analisis/publicos/2026-08-08_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_funcional_ES_EN.md` · ES=419 · EN=417 · ratio=1.00
   - Debate para Síntesis Abierta: párrafos ES=3 EN=4
-- `analisis/publicos/2026-08-08_distrokid_ticket_4499471_respuesta_no_resolutiva_y_reiteracion_auditoria_ES_EN.md` · ES=754 · EN=713 · ratio=0.95
-  - 8: párrafos ES=0 EN=1
 - `analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md` · ES=1721 · EN=1706 · ratio=0.99
   - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (2, '4'), (3, ''), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (3, ''), (3, ''), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17')] EN=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (2, '4'), (3, ''), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (3, ''), (3, ''), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17'), (2, '')]
-- `analisis/publicos/2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md` · ES=1245 · EN=1208 · ratio=0.97
-  - 7: párrafos ES=2 EN=3
 - `analisis/publicos/2026-08-09_guerra_fundador_contra_idiotez_devolucion_tiempo_bien_comun_ES_EN.md` · ES=1144 · EN=1110 · ratio=0.97
   - 10: párrafos ES=3 EN=4
 - `analisis/publicos/2026-08-09_maxproc_registro_entrada_trazabilidad_derivacion_herosion_ES_EN.md` · ES=754 · EN=760 · ratio=1.01
@@ -59,27 +38,12 @@
   - esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')]
 - `analisis/publicos/evidencias/2026-08-07_ceuta-marruecos-evolucion-conflicto-fuentes-y-matriz_ES_EN.md` · ES=1049 · EN=993 · ratio=0.95
   - Vacíos documentales prioritarios: lists ES=12 EN=25
-  - Vacíos documentales prioritarios: párrafos ES=0 EN=1
 - `anuncios/2026-08-07_CUARTA_OLEADA_REHUMANIZACION_COHERENCIA_ES_EN.md` · ES=365 · EN=355 · ratio=0.97
   - Manifiestos: párrafos ES=1 EN=2
 - `anuncios/2026-08-07_OCTAVA_OLEADA_PROTECCION_INTEGRAL_INFANCIA_ES_EN.md` · ES=212 · EN=210 · ratio=0.99
   - Arquitectura propuesta: párrafos ES=1 EN=2
 - `anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md` · ES=274 · EN=272 · ratio=0.99
   - XLII · Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva: párrafos ES=7 EN=8
-- `auditorias/publicas/2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md` · ES=632 · EN=600 · ratio=0.95
-  - 8: párrafos ES=1 EN=2
-- `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` · ES=1175 · EN=1140 · ratio=0.97
-  - 11: párrafos ES=0 EN=1
-- `auditorias/publicas/2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md` · ES=888 · EN=832 · ratio=0.94
-  - 8: párrafos ES=0 EN=1
-- `auditorias/publicas/2026-08-08_addendum_kdp_estrategia_keywords_ediciones_multilingues_51071689_ES_EN.md` · ES=385 · EN=367 · ratio=0.95
-  - 6: párrafos ES=0 EN=1
-- `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` · ES=903 · EN=849 · ratio=0.94
-  - 10: párrafos ES=0 EN=1
-- `auditorias/publicas/2026-08-08_auditoria_integral_correlacion_manifiestos_trabajo_aplicado_ES_EN.md` · ES=880 · EN=839 · ratio=0.95
-  - 10: párrafos ES=2 EN=3
-- `auditorias/publicas/2026-08-08_auditoria_oneshots_github_actions_carreras_noop_y_estado_final_ES_EN.md` · ES=642 · EN=633 · ratio=0.99
-  - 10: párrafos ES=2 EN=3
 - `auditorias/publicas/2026-08-08_auditoria_readmes_enlaces_estado_XLII_ES_EN.md` · ES=142 · EN=137 · ratio=0.96
   - Estado del índice de manifiestos: párrafos ES=2 EN=3
 - `auditorias/publicas/2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md` · ES=794 · EN=774 · ratio=0.97
@@ -111,28 +75,15 @@
   - VII: párrafos ES=6 EN=4
   - XVIII: párrafos ES=3 EN=2
   - XIX: párrafos ES=6 EN=5
-- `manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md` · ES=906 · EN=923 · ratio=1.02
-  - XIV: párrafos ES=1 EN=3
-- `manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md` · ES=1396 · EN=1351 · ratio=0.97
-  - XVI: párrafos ES=2 EN=4
 - `manifiestos/anexos/2026-08-07_anexo_reversion_ideologica_I_VIII_XXII_XXX_XXXI_ES_EN.md` · ES=427 · EN=419 · ratio=0.98
   - Anexo al Manifiesto VIII · Ingeniería Social Abierta: lists ES=8 EN=0
   - Anexo al Manifiesto XXXI · Neuromarketing Antihumanista: lists ES=6 EN=0
   - Regla de integración futura: lists ES=6 EN=0
-  - Regla de integración futura: párrafos ES=1 EN=2
 - `obras/idea/PRESS_KIT_ES_EN.md` · ES=953 · EN=962 · ratio=1.01
   - Cita editorial recomendada: lists ES=0 EN=6
-  - Cita editorial recomendada: párrafos ES=1 EN=3
-- `obras/umbral-x/00_el_dia_que_les_dimos_armas_antes_que_voz_ES_EN.md` · ES=1173 · EN=1279 · ratio=1.09
-  - Nodo abierto: párrafos ES=2 EN=3
-- `obras/umbral-x/README.md` · ES=978 · EN=998 · ratio=1.02
-  - Nodos relacionados: párrafos ES=0 EN=1
+  - Cita editorial recomendada: párrafos ES=1 EN=2
 - `propuestas/sintesis-abierta/2026-08-11_DELTA_HUMANIDAD_COMUN_MADURACION_INVERTIDA_TROL_BOT_MAL_SISTEMICO_ES_EN.md` · ES=859 · EN=834 · ratio=0.97
   - 22: párrafos ES=0 EN=1
-- `propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` · ES=1170 · EN=1176 · ratio=1.01
-  - XI: párrafos ES=2 EN=3
-- `propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md` · ES=973 · EN=935 · ratio=0.96
-  - X: párrafos ES=2 EN=3
 - `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` · ES=187 · EN=193 · ratio=1.03
   - Auditoría musical DistroKid–Spotify–DSP: párrafos ES=1 EN=2
 - `propuestas/sintesis-abierta/NEOCRONOS_RETORNO_TEMPORAL_TOKENIZACION_ES_EN.md` · ES=504 · EN=502 · ratio=1.00
@@ -202,31 +153,31 @@
 |---|---|---|
 | `README.md` | **OK** |  |
 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` | **REVISAR** | **Patrón institucional observado**: párrafos ES=35 EN=36 |
-| `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` | **REVISAR** | Solicitud de transparencia sectorial: párrafos ES=3 EN=4 |
-| `analisis/INDEX.md` | **REVISAR** | Criterio organizativo: párrafos ES=1 EN=2 |
-| `analisis/README.md` | **REVISAR** | Criterio documental: párrafos ES=1 EN=2 |
+| `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` | **OK** |  |
+| `analisis/INDEX.md` | **OK** |  |
+| `analisis/README.md` | **OK** |  |
 | `analisis/auditorias/README.md` | **OK** |  |
 | `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `analisis/publicos/2026-07-22_anexo-dajla-mafias-migratorias-control-estatal_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Parte II — Dajla, mafias migratorias y control estatal / La infraestructura oculta de la presión fronteriza / Part II — Dakhla, migrant-smuggling networks and state control / Versión en español / Parte II — Dajla, mafias migratorias y control estatal / Utilización política del ecosistema / Acusación extraordinaria sin prueba suficiente / Conclusión / English version / Part II — Dakhla, migrant-smuggling networks and state control / Political use of the ecosystem / Extraordinary allegation without sufficient evidence |
 | `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` | **OK** |  |
-| `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` | **REVISAR** | 6: párrafos ES=2 EN=3 |
+| `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md` | **OK** |  |
-| `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` | **REVISAR** | 8: párrafos ES=2 EN=3 |
+| `analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` | **OK** |  |
-| `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` | **REVISAR** | 2: párrafos ES=8 EN=7; 11: lists ES=10 EN=22; 11: párrafos ES=2 EN=3 |
+| `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` | **REVISAR** | 2: párrafos ES=8 EN=7; 11: lists ES=10 EN=22 |
 | `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` | **REVISAR** | 12: lists ES=0 EN=12; 12: párrafos ES=6 EN=7 |
-| `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` | **REVISAR** | 5: párrafos ES=2 EN=3 |
-| `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md` | **REVISAR** | 6: párrafos ES=0 EN=1 |
+| `analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md` | **OK** |  |
+| `analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-08_addendum_autodemostracion_creacion_neodialectica_historia_olvidada_ES_EN.md` | **OK** |  |
-| `analisis/publicos/2026-08-08_addendum_distrokid_catalogo_album_removed_added_apple_music_ES_EN.md` | **REVISAR** | 8: párrafos ES=2 EN=3 |
+| `analisis/publicos/2026-08-08_addendum_distrokid_catalogo_album_removed_added_apple_music_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-08_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_funcional_ES_EN.md` | **REVISAR** | Debate para Síntesis Abierta: párrafos ES=3 EN=4 |
 | `analisis/publicos/2026-08-08_delta_poder_incentivos_tokenizacion_y_transicion_neodialectica_ES_EN.md` | **OK** |  |
-| `analisis/publicos/2026-08-08_distrokid_ticket_4499471_respuesta_no_resolutiva_y_reiteracion_auditoria_ES_EN.md` | **REVISAR** | 8: párrafos ES=0 EN=1 |
+| `analisis/publicos/2026-08-08_distrokid_ticket_4499471_respuesta_no_resolutiva_y_reiteracion_auditoria_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-08_estado_correo_difusion_idea_y_adhesiones_sintesis_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (2, '4'), (3, ''), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (3, ''), (3, ''), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17')] EN=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (2, '4'), (3, ''), (2, '5'), (2, '6'), (2, '7'), (2, '8'), (3, ''), (3, ''), (2, '9'), (2, '10'), (2, '11'), (2, '12'), (2, '13'), (2, '14'), (2, '15'), (2, '16'), (2, '17'), (2, '')] |
 | `analisis/publicos/2026-08-08_techno_bach_record_semanal_apple_music_ES_EN.md` | **OK** |  |
-| `analisis/publicos/2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md` | **REVISAR** | 7: párrafos ES=2 EN=3 |
+| `analisis/publicos/2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-09_delta_manifestacion_sistemica_necesidad_neo0_idea_custodia_cognitiva_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-09_guerra_fundador_contra_idiotez_devolucion_tiempo_bien_comun_ES_EN.md` | **REVISAR** | 10: párrafos ES=3 EN=4 |
 | `analisis/publicos/2026-08-09_maxproc_registro_entrada_trazabilidad_derivacion_herosion_ES_EN.md` | **REVISAR** | 12: párrafos ES=3 EN=4 |
@@ -243,7 +194,7 @@
 | `analisis/publicos/evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: España, Marruecos, regularización y nacionalidad |
 | `analisis/publicos/evidencias/2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, ''), (2, '')] |
 | `analisis/publicos/evidencias/2026-08-07_canarias-quorum-tutela-contratacion-control-politico-fuentes-y-matriz_ES_EN.md` | **OK** |  |
-| `analisis/publicos/evidencias/2026-08-07_ceuta-marruecos-evolucion-conflicto-fuentes-y-matriz_ES_EN.md` | **REVISAR** | Vacíos documentales prioritarios: lists ES=12 EN=25; Vacíos documentales prioritarios: párrafos ES=0 EN=1 |
+| `analisis/publicos/evidencias/2026-08-07_ceuta-marruecos-evolucion-conflicto-fuentes-y-matriz_ES_EN.md` | **REVISAR** | Vacíos documentales prioritarios: lists ES=12 EN=25 |
 | `analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md` | **OK** |  |
 | `analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuerzas-y-matriz_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `analisis/publicos/evidencias/README.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Evidencias de análisis públicos / Protección Integral de la Infancia™ / EN |
@@ -259,9 +210,9 @@
 | `anuncios/2026-08-08_LII_CIUDADANIA_HUMANA_NEODIALECTICA_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `anuncios/2026-08-08_XLVII_ODIO_SINO_GOAT_SOMBRA_DOBLE_CARA_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: The Goat, Sombra, Vínculo y Doble Cara de la Vida |
 | `anuncios/2026-08-08_XLVI_CERRAR_LA_HERIDA_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria |
-| `auditorias/publicas/2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md` | **REVISAR** | 8: párrafos ES=1 EN=2 |
-| `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` | **REVISAR** | 11: párrafos ES=0 EN=1 |
-| `auditorias/publicas/2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md` | **REVISAR** | 8: párrafos ES=0 EN=1 |
+| `auditorias/publicas/2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-07_plan_normalizacion_sintesis_abierta_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `auditorias/publicas/2026-08-07_postcheck_cierre_total_simetria_I_XXXVI_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `auditorias/publicas/2026-08-07_postcheck_enlaces_y_sincronizacion_XXXV_ES_EN.md` | **OK** |  |
@@ -269,13 +220,13 @@
 | `auditorias/publicas/2026-08-07_postcheck_global_superficies_y_simetria_I_XXXVI_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-07_postcheck_paridad_bilingue_enlaces_I_XXXVI_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-07_postcheck_sintesis_abierta_bilingue_y_cobertura_ES_EN.md` | **OK** |  |
-| `auditorias/publicas/2026-08-08_addendum_kdp_estrategia_keywords_ediciones_multilingues_51071689_ES_EN.md` | **REVISAR** | 6: párrafos ES=0 EN=1 |
-| `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` | **REVISAR** | 10: párrafos ES=0 EN=1 |
+| `auditorias/publicas/2026-08-08_addendum_kdp_estrategia_keywords_ediciones_multilingues_51071689_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-08_auditoria_externa_streaming_distribuidores_metadatos_regalias_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-08_auditoria_formato_manifiestos_XXXVIII_XLIII_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md` | **OK** |  |
-| `auditorias/publicas/2026-08-08_auditoria_integral_correlacion_manifiestos_trabajo_aplicado_ES_EN.md` | **REVISAR** | 10: párrafos ES=2 EN=3 |
-| `auditorias/publicas/2026-08-08_auditoria_oneshots_github_actions_carreras_noop_y_estado_final_ES_EN.md` | **REVISAR** | 10: párrafos ES=2 EN=3 |
+| `auditorias/publicas/2026-08-08_auditoria_integral_correlacion_manifiestos_trabajo_aplicado_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-08-08_auditoria_oneshots_github_actions_carreras_noop_y_estado_final_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-08_auditoria_readmes_enlaces_estado_XLII_ES_EN.md` | **REVISAR** | Estado del índice de manifiestos: párrafos ES=2 EN=3 |
 | `auditorias/publicas/2026-08-08_barrida_enlaces_manifiestos_articulos_XLVIII_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `auditorias/publicas/2026-08-08_postcheck_XLIV_neowar_enlaces_readmes_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Postcheck XLIV · Neowar™ · enlaces y READMEs / XLIV postcheck · Neowar™ · links and READMEs |
@@ -359,8 +310,8 @@
 | `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` | **REVISAR** | Invocación: párrafos ES=8 EN=6; I: párrafos ES=4 EN=3; II: lists ES=6 EN=0; Derechos derivados de contribuciones concretas: lists ES=2 EN=0; IX: párrafos ES=6 EN=3 |
 | `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` | **OK** |  |
 | `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md` | **REVISAR** | I: párrafos ES=12 EN=7; VII: párrafos ES=6 EN=4; XVIII: párrafos ES=3 EN=2; XIX: párrafos ES=6 EN=5 |
-| `manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md` | **REVISAR** | XIV: párrafos ES=1 EN=3 |
-| `manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md` | **REVISAR** | XVI: párrafos ES=2 EN=4 |
+| `manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md` | **OK** |  |
+| `manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md` | **OK** |  |
 | `manifiestos/57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md` | **OK** |  |
 | `manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md` | **OK** |  |
 | `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md` | **OK** |  |
@@ -385,19 +336,19 @@
 | `manifiestos/README.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: WEB4™ · SistemaTrazable™ |
 | `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` | **OK** |  |
 | `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
-| `manifiestos/anexos/2026-08-07_anexo_reversion_ideologica_I_VIII_XXII_XXX_XXXI_ES_EN.md` | **REVISAR** | Anexo al Manifiesto VIII · Ingeniería Social Abierta: lists ES=8 EN=0; Anexo al Manifiesto XXXI · Neuromarketing Antihumanista: lists ES=6 EN=0; Regla de integración futura: lists ES=6 EN=0; Regla de integración futura: párrafos ES=1 EN=2 |
+| `manifiestos/anexos/2026-08-07_anexo_reversion_ideologica_I_VIII_XXII_XXX_XXXI_ES_EN.md` | **REVISAR** | Anexo al Manifiesto VIII · Ingeniería Social Abierta: lists ES=8 EN=0; Anexo al Manifiesto XXXI · Neuromarketing Antihumanista: lists ES=6 EN=0; Regla de integración futura: lists ES=6 EN=0 |
 | `manifiestos/deltas/LXI_delta_genetica_adn_neopandora_custodia_multiescalar_ES_EN.md` | **OK** |  |
 | `manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md` | **OK** |  |
 | `neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md` | **OK** |  |
 | `neoaxiomas/README.md` | **OK** |  |
 | `obras/README.md` | **OK** |  |
-| `obras/idea/PRESS_KIT_ES_EN.md` | **REVISAR** | Cita editorial recomendada: lists ES=0 EN=6; Cita editorial recomendada: párrafos ES=1 EN=3 |
+| `obras/idea/PRESS_KIT_ES_EN.md` | **REVISAR** | Cita editorial recomendada: lists ES=0 EN=6; Cita editorial recomendada: párrafos ES=1 EN=2 |
 | `obras/idea/RANSOL_RED_DEL_TIEMPO_ARBOLES_INVISIBLES_ETERNOS_ES_EN.md` | **OK** |  |
 | `obras/idea/README.md` | **OK** |  |
 | `obras/idea/STARKDR_GRITAX_HISTORIA_DE_LAS_ESPECIES_ES_EN.md` | **OK** |  |
 | `obras/idea/assets/README.md` | **OK** |  |
-| `obras/umbral-x/00_el_dia_que_les_dimos_armas_antes_que_voz_ES_EN.md` | **REVISAR** | Nodo abierto: párrafos ES=2 EN=3 |
-| `obras/umbral-x/README.md` | **REVISAR** | Nodos relacionados: párrafos ES=0 EN=1 |
+| `obras/umbral-x/00_el_dia_que_les_dimos_armas_antes_que_voz_ES_EN.md` | **OK** |  |
+| `obras/umbral-x/README.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-08_LII_ciudadania_humana_neodialectica_debate_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-09_LV_micromaquinas_plagas_escala_invisible_debate_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `propuestas/sintesis-abierta/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` | **OK** |  |
@@ -407,8 +358,8 @@
 | `propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `propuestas/sintesis-abierta/2026-08-15_DELTA_NEOMANTIS_ASIMETRIA_INVERTIDA_DIGNIDAD_RECIPROCA_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_v0.1_ES_EN.md` | **OK** |  |
-| `propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` | **REVISAR** | XI: párrafos ES=2 EN=3 |
-| `propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md` | **REVISAR** | X: párrafos ES=2 EN=3 |
+| `propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` | **OK** |  |
+| `propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/GUIA_RAPIDA_APORTAR_EVIDENCIA_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
