@@ -83,8 +83,6 @@ Las nuevas auditorías públicas deben registrarse en `auditorias/publicas/` y e
 
 La Wiki sólo debe actualizarse cuando cambie la forma de localizar, interpretar o utilizar las auditorías.
 
----
-
 # EN · English
 
 This subfolder groups audits and documentary-contrast pieces whose main object is to review, establish or evaluate a specific case.
