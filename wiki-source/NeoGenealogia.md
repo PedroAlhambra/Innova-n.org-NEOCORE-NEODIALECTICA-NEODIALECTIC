@@ -82,6 +82,8 @@ La señal experta tiene valor especial, pero no concede por sí sola soberanía 
 
 It does not retrospectively turn historical authors into «Neodialecticians», nor does it treat similarity as evidence of copying.
 
+Its basic rule is:
+
 ```text
 ANTECEDENT ≠ DERIVATION
 CONVERGENCE ≠ COPYING
