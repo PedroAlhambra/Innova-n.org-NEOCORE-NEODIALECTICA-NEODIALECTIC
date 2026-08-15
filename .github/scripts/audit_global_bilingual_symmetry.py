@@ -135,9 +135,11 @@ def count_table_rows(s):
 
 def count_paragraphs(s):
     s=without_fenced_code(without_comments(s))
-    # Remove list/table blocks: those are compared independently and should not inflate prose.
+    # Remove list/table blocks and pure Markdown separators: these are structural syntax,
+    # not semantic prose, and must not create false ES/EN paragraph asymmetries.
     s=re.sub(r'(?m)^\s*(?:[-*+]\s+|\d+\.\s+).*$','',s)
     s=re.sub(r'(?m)^\s*\|.*\|\s*$','',s)
+    s=re.sub(r'(?m)^\s*(?:-{3,}|_{3,}|\*{3,})\s*$','',s)
     blocks=[]
     for part in re.split(r'\n\s*\n',s):
         p=part.strip()
