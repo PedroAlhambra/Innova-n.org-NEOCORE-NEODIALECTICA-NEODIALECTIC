@@ -9,7 +9,7 @@
 
 - Markdown activo examinado / Active Markdown scanned: **291**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **226**.
-- Fallos estructurales divididos / Split structural failures: **40**.
+- Fallos estructurales divididos / Split structural failures: **39**.
 - Fallos de marcadores / Marker failures: **1**.
 - Superficies pareadas para revisión / Paired surfaces for review: **20**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -43,8 +43,6 @@
 - `analisis/publicos/evidencias/README.md` · ES=204 · EN=128 · ratio=0.63
   - volumen EN/ES=0.63 (128/204)
   - esqueleto de encabezados distinto ES=[(2, ''), (3, ''), (3, ''), (3, '')] EN=[(3, ''), (3, '')]
-- `anuncios/2026-08-08_LII_CIUDADANIA_HUMANA_NEODIALECTICA_ES_EN.md` · ES=137 · EN=104 · ratio=0.76
-  - volumen EN/ES=0.76 (104/137)
 - `auditorias/publicas/2026-08-07_postcheck_enlaces_y_sincronizacion_XXXV_ES_EN.md` · ES=61 · EN=96 · ratio=1.57
   - esqueleto de encabezados distinto ES=[] EN=[(2, '')]
 - `auditorias/publicas/2026-08-07_postcheck_final_simetria_limpia_I_XXXVI_ES_EN.md` · ES=36 · EN=103 · ratio=2.86
@@ -199,7 +197,7 @@
 | `anuncios/2026-08-07_QUINTA_OLEADA_TRANSICION_AUDITORIA_ATENCION_ES_EN.md` | **OK** |  |
 | `anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md` | **OK** |  |
 | `anuncios/2026-08-08_DECIMA_OLEADA_FIN_ERA_HOMBRE_MANIPULADO_ES_EN.md` | **OK** |  |
-| `anuncios/2026-08-08_LII_CIUDADANIA_HUMANA_NEODIALECTICA_ES_EN.md` | **REVISAR** | volumen EN/ES=0.76 (104/137) |
+| `anuncios/2026-08-08_LII_CIUDADANIA_HUMANA_NEODIALECTICA_ES_EN.md` | **OK** |  |
 | `anuncios/2026-08-08_XLVII_ODIO_SINO_GOAT_SOMBRA_DOBLE_CARA_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: The Goat, Sombra, Vínculo y Doble Cara de la Vida |
 | `anuncios/2026-08-08_XLVI_CERRAR_LA_HERIDA_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria |
 | `auditorias/publicas/2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md` | **OK** |  |
