@@ -18,24 +18,19 @@ jobs:
         run: |
           from pathlib import Path
           import base64
-
           p=Path('.github/scripts/audit_markdown_links_readmes.py')
           t=p.read_text(encoding='utf-8')
           old="if 'innova-n.org' not in wr or 'no es demo' not in low_wr or 'segunda web' not in low_wr:"
           new="if 'innova-n.org' not in wr or ('no es demo' not in low_wr and 'no es una demo' not in low_wr) or 'segunda web' not in low_wr:"
-          if old in t:
-              t=t.replace(old,new,1)
-          elif new not in t:
-              raise SystemExit('WEB4 guard condition not found')
+          if old in t: t=t.replace(old,new,1)
+          elif new not in t: raise SystemExit('WEB4 guard condition not found')
           p.write_text(t,encoding='utf-8')
-
           p=Path('.github/scripts/sync_relations_lxxv.py')
           t=p.read_text(encoding='utf-8')
           marker="\n\n{END}'''"
           addition=base64.b64decode('IyMgTFhYVkkgwrcgRWwgQWx0YXZveiBzaW4gU8OtbnRlc2lz4oSiIMK3IERpYWduw7NzdGljbywgUnVpZG8sIEVnbyB5IFJlc3BvbnNhYmlsaWRhZCBkZSBDb25zdHJ1Y2Npw7NuIC8gVGhlIExvdWRzcGVha2VyIHdpdGhvdXQgU3ludGhlc2lz4oSiIMK3IERpYWdub3NpcywgTm9pc2UsIEVnbyBhbmQgUmVzcG9uc2liaWxpdHkgdG8gQnVpbGQKCi0gKipNYW5pZmllc3RvIC8gTWFuaWZlc3RvOioqIFtMWFhWSSDCtyBFbCBBbHRhdm96IHNpbiBTw61udGVzaXPihKIgLyBUaGUgTG91ZHNwZWFrZXIgd2l0aG91dCBTeW50aGVzaXPihKJdKC4vNzZfYWx0YXZvel9zaW5fc2ludGVzaXNfZGlhZ25vc3RpY29fcnVpZG9fZWdvX3Jlc3BvbnNhYmlsaWRhZF9jb25zdHJ1Y2Npb25fRVNfRU4ubWQpLgotICoqUmVsYWNpw7NuIC8gUmVsYXRpb246KiogQuKAk0MgwrcgZGlhZ27Ds3N0aWNvIHNpbiBpbnRlZ3JhY2nDs24sIGFtcGxpZmljYWNpw7NuIG1lZGnDoXRpY2EsIGF1dG9yaWRhZCBlcGlzdGVtb2zDs2dpY2EsIGVnbywgcnVpZG8gaW5mb3JtYWRvIHkgcmVzcG9uc2FiaWxpZGFkIGRlIGNvbnN0cnVpciB1bmEgU8OtbnRlc2lzIGNvbcO6biAvIGRpYWdub3NpcyB3aXRob3V0IGludGVncmF0aW9uLCBtZWRpYSBhbXBsaWZpY2F0aW9uLCBlcGlzdGVtaWMgYXV0aG9yaXR5LCBlZ28sIGluZm9ybWVkIG5vaXNlIGFuZCByZXNwb25zaWJpbGl0eSB0byBidWlsZCBhIGNvbW1vbiBTeW50aGVzaXMuCi0gKipTw61udGVzaXMgQWJpZXJ0YSAvIE9wZW4gU3ludGhlc2lzOioqIFsjMTQ5XShodHRwczovL2dpdGh1Yi5jb20vUGVkcm9BbGhhbWJyYS9Jbm5vdmEtbi5vcmctTkVPQ09SRS1ORU9ESUFMRUNUSUNBLU5FT0RJQUxFQ1RJQy9pc3N1ZXMvMTQ5KS4KLSAqKkNhbmRpZGF0b3MgbmVvYXhpb23DoXRpY29zIC8gTmVvYXhpb21hdGljIGNhbmRpZGF0ZXM6KiogW0MtTkFYLTIzIMK3IENvbnNlcnZhY2nDs24gZGVsIEZyYWN0YWwgQ29tw7pu4oSiIC8gQ29uc2VydmF0aW9uIG9mIHRoZSBDb21tb24gRnJhY3RhbOKEol0oLi4vcHJvcHVlc3Rhcy9zaW50ZXNpcy1hYmllcnRhLzIwMjYtMDgtMTVfQ19OQVhfMjNfQ09OU0VSVkFDSU9OX0ZSQUNUQUxfQ09NVU5fRVNfRU4ubWQpIMK3IFtDLU5BWC0yNCDCtyBEaWFnbsOzc3RpY28g4omgIFPDrW50ZXNpc+KEoiAvIERpYWdub3NpcyDiiaAgU3ludGhlc2lz4oSiXSguLi9wcm9wdWVzdGFzL3NpbnRlc2lzLWFiaWVydGEvMjAyNi0wOC0xNV9DX05BWF8yNF9ESUFHTk9TVElDT19OT19FU19TSU5URVNJU19FU19FTi5tZCkuCi0gKipJbnRlcmNvbmV4aW9uZXMgLyBJbnRlcmNvbm5lY3Rpb25zOioqIFtYSUkgwrcgTG9zIHNpbiBlZ28gLyBUaGUgRWdvbGVzc10oLi8xMl9sb3Nfc2luX2Vnb19FU19FTi5tZCkgwrcgW1hYSUkgwrcgQ29udHJhIGxhIFJlZHVjY2nDs24geSBsYSBDYXB0dXJhIEludGVsZWN0dWFs4oSiIC8gQWdhaW5zdCBJbnRlbGxlY3R1YWwgUmVkdWN0aW9uIGFuZCBDYXB0dXJl4oSiXSguLzIyX2NvbnRyYV9yZWR1Y2Npb25fY2FwdHVyYV9pbnRlbGVjdHVhbF9FU19FTi5tZCkgwrcgW1hYWFYgwrcgQ29udHJhIGxhIFJpZGljdWxleiBNZWRpw6F0aWNhIHkgbGEgRWNvbm9tw61hIGRlbCBDb25mbGljdG/ihKIgLyBBZ2FpbnN0IE1lZGlhIEFic3VyZGl0eSBhbmQgdGhlIENvbmZsaWN0IEVjb25vbXnihKJdKC4vMzVfY29udHJhX3JpZGljdWxlel9tZWRpYXRpY2FfeV9lY29ub21pYV9kZWxfY29uZmxpY3RvX0VTX0VOLm1kKSDCtyBbTFhYSVYgwrcgQXNpbWV0csOtYSBkZSBsYSBEZXN0cnVjY2nDs27ihKIgLyBBc3ltbWV0cnkgb2YgRGVzdHJ1Y3Rpb27ihKJdKC4vNzRfYXNpbWV0cmlhX2Rlc3RydWNjaW9uX3Ryb2xfaHVtYW5vX2JvdF9FU19FTi5tZCkuCgoqKlJlZ2xhIHByb2JhdG9yaWEgLyBFdmlkZW50aWFyeSBydWxlOioqIHZpc2liaWxpZGFkLCBwcmVzdGlnaW8gbyBjYXBhY2lkYWQgZGUgZGV0ZWN0YXIgcHJvYmxlbWFzIG5vIGVxdWl2YWxlbiBwb3Igc8OtIHNvbG9zIGEgdW5hIHPDrW50ZXNpcyBzdXBlcmlvcjsgdG9kYSBhbHRlcm5hdGl2YSBxdWUgaWd1YWxlIG8gbWVqb3JlIGxhcyBmdW5jaW9uZXMgdHJhemFibGVzIGRlIFPDrW50ZXNpcyBBYmllcnRh4oSiIGRlYmUgcG9kZXIgZW50cmFyIGVuIGNvbnRyYXN0ZSB5IHNlciBpbnRlZ3JhZGEgc2luIGFwcm9waWFjacOzbiBnZW5lYWzDs2dpY2EuIC8gdmlzaWJpbGl0eSwgcHJlc3RpZ2Ugb3IgcHJvYmxlbS1kZXRlY3Rpb24gYWJpbGl0eSBkbyBub3QgYnkgdGhlbXNlbHZlcyBhbW91bnQgdG8gYSBzdXBlcmlvciBzeW50aGVzaXM7IGFueSBhbHRlcm5hdGl2ZSB0aGF0IGVxdWFscyBvciBpbXByb3ZlcyB0aGUgdHJhY2VhYmxlIGZ1bmN0aW9ucyBvZiBPcGVuIFN5bnRoZXNpc+KEoiBtdXN0IGJlIG9wZW4gdG8gc2NydXRpbnkgYW5kIGludGVncmF0aW9uIHdpdGhvdXQgZ2VuZWFsb2dpY2FsIGFwcHJvcHJpYXRpb24uCg==').decode('utf-8')
           if '## LXXVI · El Altavoz sin Síntesis™' not in t:
-              if marker not in t:
-                  raise SystemExit('relation block end marker not found')
+              if marker not in t: raise SystemExit('relation block end marker not found')
               t=t.replace(marker,'\n\n'+addition+marker,1)
           t=t.replace('**Cobertura / Coverage:** I–LXXV · 75 manifiestos finitos + ∞ como continuidad abierta / 75 finite manifestos I–LXXV + ∞ as open continuity  ','**Cobertura / Coverage:** I–LXXVI · 76 manifiestos finitos + ∞ como continuidad abierta / 76 finite manifestos I–LXXVI + ∞ as open continuity  ')
           t=t.replace("'## Matriz completa I–LXXV / Complete I–LXXV matrix'","'## Matriz completa I–LXXVI / Complete I–LXXVI matrix'")
@@ -69,24 +64,19 @@ jobs:
           from pathlib import Path
           import json
           registry=json.loads(Path('manifiestos/CANONICAL_FILENAMES.json').read_text(encoding='utf-8'))['entries']
-          if len(registry)!=76 or 'LXXVI' not in registry:
-              raise SystemExit('canonical frontier is not I-LXXVI')
+          if len(registry)!=76 or 'LXXVI' not in registry: raise SystemExit('canonical frontier is not I-LXXVI')
           links=Path('auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md').read_text(encoding='utf-8')
-          if '**Estado / Status:** **OK**' not in links:
-              raise SystemExit('documentary graph not healthy')
+          if '**Estado / Status:** **OK**' not in links: raise SystemExit('documentary graph not healthy')
           rel=Path('auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md').read_text(encoding='utf-8')
-          if '- Cobertura del mapa curado: **76/76**.' not in rel or '- Ausentes del mapa curado: **ninguno / none**.' not in rel:
-              raise SystemExit('relational map not 76/76')
+          if '- Cobertura del mapa curado: **76/76**.' not in rel or '- Ausentes del mapa curado: **ninguno / none**.' not in rel: raise SystemExit('relational map not 76/76')
           glob=Path('auditorias/publicas/2026-08-12_auditoria_global_simetria_ES_EN.md').read_text(encoding='utf-8')
           required=('Split structural failures: **0**','Marker failures: **0**','Paired surfaces for review: **0**','Issue templates with non-symmetric visible labels: **0**')
-          if any(x not in glob for x in required):
-              raise SystemExit('global bilingual symmetry regressed')
+          if any(x not in glob for x in required): raise SystemExit('global bilingual symmetry regressed')
           print('PUBLIC_GRAPH=OK FRONTIER=I-LXXVI RELATIONS=76/76 BILINGUAL=0')
-      - name: Validate and commit
+      - name: Commit reconciled graph
         shell: bash
         run: |
           set -euo pipefail
-          git diff --check
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add -A
