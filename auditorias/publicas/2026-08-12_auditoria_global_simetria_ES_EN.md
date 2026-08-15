@@ -7,9 +7,9 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **289**.
+- Markdown activo examinado / Active Markdown scanned: **291**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **209**.
-- Fallos estructurales divididos / Split structural failures: **116**.
+- Fallos estructurales divididos / Split structural failures: **114**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **24**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -62,8 +62,6 @@
   - 12: párrafos ES=4 EN=5
 - `analisis/publicos/2026-08-09_prueba_operativa_minima_revision_ia_escalable_ES_EN.md` · ES=555 · EN=541 · ratio=0.97
   - 8: párrafos ES=1 EN=2
-- `analisis/publicos/2026-08-10_LXII_juego_sintesis_honor_starkdr_ransol_arboles_tiempo_ES_EN.md` · ES=526 · EN=530 · ratio=1.01
-  - Vector general: párrafos ES=1 EN=0
 - `analisis/publicos/2026-08-10_addendum_tidal_yellow_quasar_perfil_duplicado_uno_playlists_ES_EN.md` · ES=362 · EN=335 · ratio=0.93
   - 5: párrafos ES=2 EN=1
 - `analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md` · ES=1080 · EN=1091 · ratio=1.01
@@ -155,18 +153,6 @@
   - 14: párrafos ES=2 EN=1
 - `manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md` · ES=1651 · EN=1636 · ratio=0.99
   - 14: párrafos ES=2 EN=1
-- `manifiestos/76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md` · ES=1551 · EN=1439 · ratio=0.93
-  - II: lists ES=14 EN=0
-  - III: lists ES=20 EN=0
-  - IV: lists ES=10 EN=0
-  - IV: párrafos ES=11 EN=10
-  - VI: párrafos ES=7 EN=5
-  - VII: párrafos ES=6 EN=4
-  - VIII: párrafos ES=7 EN=6
-  - X: lists ES=6 EN=0
-  - X: párrafos ES=4 EN=3
-  - XI: code ES=1 EN=0
-  - XIII: párrafos ES=3 EN=2
 - `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · ES=2092 · EN=2096 · ratio=1.00
   - XIII: párrafos ES=5 EN=4
 - `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` · ES=611 · EN=611 · ratio=1.00
@@ -351,7 +337,7 @@
 | `analisis/publicos/2026-08-09_micromaquinas_plagas_escala_invisible_estado_real_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-09_prueba_operativa_minima_revision_ia_escalable_ES_EN.md` | **REVISAR** | 8: párrafos ES=1 EN=2 |
 | `analisis/publicos/2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md` | **OK** |  |
-| `analisis/publicos/2026-08-10_LXII_juego_sintesis_honor_starkdr_ransol_arboles_tiempo_ES_EN.md` | **REVISAR** | Vector general: párrafos ES=1 EN=0 |
+| `analisis/publicos/2026-08-10_LXII_juego_sintesis_honor_starkdr_ransol_arboles_tiempo_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-10_LXI_genetica_ADN_neopandora_placa_petri_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-10_addendum_tidal_yellow_quasar_perfil_duplicado_uno_playlists_ES_EN.md` | **REVISAR** | 5: párrafos ES=2 EN=1 |
 | `analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md` | **REVISAR** | 13: párrafos ES=1 EN=2 |
@@ -498,7 +484,7 @@
 | `manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md` | **OK** |  |
 | `manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md` | **OK** |  |
 | `manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md` | **OK** |  |
-| `manifiestos/76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md` | **REVISAR** | II: lists ES=14 EN=0; III: lists ES=20 EN=0; IV: lists ES=10 EN=0; IV: párrafos ES=11 EN=10; VI: párrafos ES=7 EN=5; VII: párrafos ES=6 EN=4; VIII: párrafos ES=7 EN=6; X: lists ES=6 EN=0; X: párrafos ES=4 EN=3; XI: code ES=1 EN=0; XIII: párrafos ES=3 EN=2 |
+| `manifiestos/76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md` | **OK** |  |
 | `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | **REVISAR** | XIII: párrafos ES=5 EN=4 |
 | `manifiestos/README.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: WEB4™ · SistemaTrazable™ |
 | `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` | **REVISAR** | Secuencia transversal: párrafos ES=2 EN=1 |
@@ -521,6 +507,8 @@
 | `propuestas/sintesis-abierta/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` | **REVISAR** | 11: párrafos ES=4 EN=3 |
 | `propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md` | **REVISAR** | 15: párrafos ES=2 EN=1 |
 | `propuestas/sintesis-abierta/2026-08-11_DELTA_HUMANIDAD_COMUN_MADURACION_INVERTIDA_TROL_BOT_MAL_SISTEMICO_ES_EN.md` | **REVISAR** | 22: párrafos ES=1 EN=2 |
+| `propuestas/sintesis-abierta/2026-08-15_C_NAX_23_CONSERVACION_FRACTAL_COMUN_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
+| `propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `propuestas/sintesis-abierta/2026-08-15_DELTA_NEOMANTIS_ASIMETRIA_INVERTIDA_DIGNIDAD_RECIPROCA_ES_EN.md` | **REVISAR** | 13: párrafos ES=5 EN=4 |
 | `propuestas/sintesis-abierta/ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_v0.1_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` | **REVISAR** | XI: párrafos ES=3 EN=4 |
