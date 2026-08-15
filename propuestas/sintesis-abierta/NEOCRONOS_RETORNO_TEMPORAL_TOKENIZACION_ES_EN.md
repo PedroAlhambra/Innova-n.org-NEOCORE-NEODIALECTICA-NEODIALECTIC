@@ -373,6 +373,10 @@ This is not a canonical formula and fixes no weights. It is an object of Synthes
 
 > **Living time devoted to the Common Good is not residue. When it creates verifiable value, the system should be able to remember it, attribute it and return part of the value created without reducing life to a stopwatch.**
 
+<!-- NEO_RELATIONS_START -->
+
 ---
 
 **Síntesis / Synthesis:** [#107 · NeoCronos™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/107)
+
+<!-- NEO_RELATIONS_END -->
