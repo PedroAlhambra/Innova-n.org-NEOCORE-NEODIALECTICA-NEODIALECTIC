@@ -17,21 +17,16 @@ jobs:
         with:
           ref: main
           fetch-depth: 0
-      - name: Refine shared-tail and signature detection
+      - name: Classify shared synthesis gates
         shell: python
         run: |
           from pathlib import Path
           p=Path('.github/scripts/audit_global_bilingual_symmetry.py')
           s=p.read_text(encoding='utf-8')
-          old='|Relaciones / Relations)\\s*$'
-          new='|Relaciones / Relations|Referencias cruzadas canónicas / Canonical cross-references)\\s*$'
+          old='|Referencias cruzadas canónicas / Canonical cross-references)\\s*$'
+          new='|Referencias cruzadas canónicas / Canonical cross-references|Puerta de Síntesis / Synthesis Gate)\\s*$'
           if old not in s:
               raise SystemExit('shared-tail insertion point not found')
-          s=s.replace(old,new,1)
-          old="if re.match(r'^Innova_?N\\b',plain,re.I): continue"
-          new="if re.match(r'^Innova_?N(?:\\s*·\\s*[^.]+)*$',plain,re.I): continue"
-          if old not in s:
-              raise SystemExit('signature rule insertion point not found')
           p.write_text(s.replace(old,new,1),encoding='utf-8')
       - name: Recalculate audit
         run: python .github/scripts/audit_global_bilingual_symmetry.py
@@ -44,5 +39,5 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add .github/scripts/audit_global_bilingual_symmetry.py auditorias/publicas/2026-08-12_auditoria_global_simetria_ES_EN.md
-          git commit -m 'audit: refine shared tails and Innova_N signature detection'
+          git commit -m 'audit: classify shared synthesis gates'
           git push origin HEAD:main
