@@ -369,6 +369,10 @@ Transformation of validated contribution into eligibility according to tokenomic
 **v1.0 · Return Fund**  
 Material reward only when validated legal, financial, accounting and technical infrastructure exists.
 
+<!-- NEO_RELATIONS_START -->
+
 ---
 
 **Regla / Rule:** `TIEMPO TRAZADO ≠ VALOR VALIDADO ≠ TOKEN ≠ DINERO / TRACED TIME ≠ VALIDATED VALUE ≠ TOKEN ≠ MONEY`, pero sin tiempo y genealogía no existe una contabilidad completa del aporte humano / but without time and genealogy there is no complete accounting of human contribution.
+
+<!-- NEO_RELATIONS_END -->
