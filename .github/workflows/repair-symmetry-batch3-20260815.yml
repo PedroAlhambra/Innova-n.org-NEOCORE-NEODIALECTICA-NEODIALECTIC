@@ -20,6 +20,9 @@ jobs:
           fetch-depth: 0
       - name: Apply exact repairs
         run: python .github/scripts/repair_symmetry_batch3_20260815.py
+      - name: Normalize repaired Markdown whitespace
+        shell: bash
+        run: sed -i 's/[[:space:]]\+$//' analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md
       - name: Recalculate audit
         run: python .github/scripts/audit_global_bilingual_symmetry.py
       - name: Validate
