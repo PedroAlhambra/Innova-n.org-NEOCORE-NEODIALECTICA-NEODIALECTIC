@@ -9,8 +9,8 @@
 
 - Markdown activo examinado / Active Markdown scanned: **291**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **226**.
-- Fallos estructurales divididos / Split structural failures: **33**.
-- Fallos de marcadores / Marker failures: **1**.
+- Fallos estructurales divididos / Split structural failures: **34**.
+- Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **20**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
@@ -53,6 +53,8 @@
   - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '')]
 - `auditorias/publicas/2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md` · ES=1759 · EN=1689 · ratio=0.96
   - 7 · Contraprincipio operativo Innova_N: párrafos ES=2 EN=3
+- `fragmentos/03_Fragmento-III.md` · ES=28 · EN=118 · ratio=4.21
+  - esqueleto de encabezados distinto ES=[] EN=[(3, '')]
 - `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` · ES=1449 · EN=1475 · ratio=1.02
   - esqueleto de encabezados distinto ES=[(2, ''), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (3, ''), (3, ''), (3, ''), (3, ''), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI')] EN=[(2, ''), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (3, ''), (3, ''), (3, ''), (3, ''), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI'), (2, '')]
 - `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md` · ES=1435 · EN=1764 · ratio=1.23
@@ -88,7 +90,7 @@
 
 ## Marcadores / Markers
 
-- `fragmentos/03_Fragmento-III.md`
+- Ninguno / None.
 
 ## Superficies pareadas que requieren revisión / Paired surfaces requiring review
 
@@ -229,7 +231,7 @@
 | `auditorias/publicas/README.md` | **OK** |  |
 | `difusion/2026-08-09_marco_tanda_01_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Difusión del marco · tanda 01 · 2026-08-09 |
 | `difusion/2026-08-09_marco_tanda_02_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Difusión del marco · tanda 02 · 2026-08-09 |
-| `fragmentos/03_Fragmento-III.md` | **MARCADORES** | — |
+| `fragmentos/03_Fragmento-III.md` | **REVISAR** | esqueleto de encabezados distinto ES=[] EN=[(3, '')] |
 | `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` | **OK** |  |
 | `manifiestos/02_neodialectica_bien_comun_ES_EN.md` | **OK** |  |
 | `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` | **OK** |  |
