@@ -9,22 +9,13 @@
 
 - Markdown activo examinado / Active Markdown scanned: **291**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **225**.
-- Fallos estructurales divididos / Split structural failures: **13**.
+- Fallos estructurales divididos / Split structural failures: **6**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **20**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
 
-- `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` · ES=3046 · EN=2684 · ratio=0.88
-  - **Patrón institucional observado**: párrafos ES=35 EN=36
-- `analisis/README.md` · ES=758 · EN=866 · ratio=1.14
-  - esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (3, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (3, ''), (2, ''), (2, ''), (2, '')]
-- `analisis/auditorias/README.md` · ES=172 · EN=304 · ratio=1.77
-  - volumen EN/ES=1.77 (304/172)
-  - esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, '')]
-- `analisis/publicos/2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md` · ES=433 · EN=482 · ratio=1.11
-  - esqueleto de encabezados distinto ES=[(2, '1'), (3, ''), (3, ''), (2, '2'), (3, ''), (2, '3')] EN=[(2, '1'), (3, ''), (3, ''), (2, '2'), (3, ''), (2, '3'), (2, '')]
 - `auditorias/publicas/2026-08-07_postcheck_enlaces_y_sincronizacion_XXXV_ES_EN.md` · ES=61 · EN=96 · ratio=1.57
   - esqueleto de encabezados distinto ES=[] EN=[(2, '')]
 - `auditorias/publicas/2026-08-07_postcheck_final_simetria_limpia_I_XXXVI_ES_EN.md` · ES=36 · EN=103 · ratio=2.86
@@ -35,14 +26,8 @@
   - esqueleto de encabezados distinto ES=[] EN=[(2, ''), (2, '')]
 - `auditorias/publicas/2026-08-07_postcheck_sintesis_abierta_bilingue_y_cobertura_ES_EN.md` · ES=249 · EN=279 · ratio=1.12
   - esqueleto de encabezados distinto ES=[(3, '')] EN=[(3, ''), (2, '')]
-- `auditorias/publicas/2026-08-09_distrokid_ticket_4499471_royalty_routing_ES_EN.md` · ES=458 · EN=448 · ratio=0.98
-  - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '')]
-- `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` · ES=1449 · EN=1475 · ratio=1.02
-  - esqueleto de encabezados distinto ES=[(2, ''), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (3, ''), (3, ''), (3, ''), (3, ''), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI')] EN=[(2, ''), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (3, ''), (3, ''), (3, ''), (3, ''), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI'), (2, '')]
 - `manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md` · ES=1370 · EN=1398 · ratio=1.02
   - esqueleto de encabezados distinto ES=[(2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV')] EN=[(2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, '')]
-- `propuestas/sintesis-abierta/ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_v0.1_ES_EN.md` · ES=1025 · EN=1070 · ratio=1.04
-  - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (3, ''), (2, '4'), (3, ''), (3, ''), (2, '5'), (2, '6'), (2, '7'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '8'), (2, '9'), (2, '10')] EN=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (3, ''), (2, '4'), (3, ''), (3, ''), (2, '5'), (2, '6'), (2, '7'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '8'), (2, '9'), (2, '10'), (2, '')]
 
 ## Marcadores / Markers
 
@@ -80,11 +65,11 @@
 | Archivo | Estado | Detalle |
 |---|---|---|
 | `README.md` | **OK** |  |
-| `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` | **REVISAR** | **Patrón institucional observado**: párrafos ES=35 EN=36 |
+| `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` | **OK** |  |
 | `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` | **OK** |  |
 | `analisis/INDEX.md` | **OK** |  |
-| `analisis/README.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (3, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (3, ''), (2, ''), (2, ''), (2, '')] |
-| `analisis/auditorias/README.md` | **REVISAR** | volumen EN/ES=1.77 (304/172); esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, '')] |
+| `analisis/README.md` | **OK** |  |
+| `analisis/auditorias/README.md` | **OK** |  |
 | `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` | **OK** |  |
 | `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` | **OK** |  |
 | `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` | **OK** |  |
@@ -115,7 +100,7 @@
 | `analisis/publicos/2026-08-09_maxproc_registro_entrada_trazabilidad_derivacion_herosion_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-09_micromaquinas_plagas_escala_invisible_estado_real_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-09_prueba_operativa_minima_revision_ia_escalable_ES_EN.md` | **OK** |  |
-| `analisis/publicos/2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, '1'), (3, ''), (3, ''), (2, '2'), (3, ''), (2, '3')] EN=[(2, '1'), (3, ''), (3, ''), (2, '2'), (3, ''), (2, '3'), (2, '')] |
+| `analisis/publicos/2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-10_LXII_juego_sintesis_honor_starkdr_ransol_arboles_tiempo_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-10_LXI_genetica_ADN_neopandora_placa_petri_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-10_addendum_tidal_yellow_quasar_perfil_duplicado_uno_playlists_ES_EN.md` | **OK** |  |
@@ -168,7 +153,7 @@
 | `auditorias/publicas/2026-08-09_auditoria_paridad_bilingue_manifiestos_neoaxiomas_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Auditoría de paridad bilingüe no reductiva / Regla de conservación |
 | `auditorias/publicas/2026-08-09_auditoria_regresiones_historicas_manifiestos_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Auditoría histórica no reductiva de manifiestos |
 | `auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Auditoría relacional MAXPROC · Manifiestos ↔ Neoaxiomas ↔ publicaciones ↔ Síntesis Abierta / Cocitación documental · candidatos de relación para revisión SAN |
-| `auditorias/publicas/2026-08-09_distrokid_ticket_4499471_royalty_routing_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '')] |
+| `auditorias/publicas/2026-08-09_distrokid_ticket_4499471_royalty_routing_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-09_postcheck_neocore_7_1_integridad_relacional_no_reductiva_ES_EN.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Postcheck NEOCore™ 7.1 · integridad relacional y no reductiva |
 | `auditorias/publicas/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` | **OK** |  |
@@ -239,7 +224,7 @@
 | `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md` | **OK** |  |
 | `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` | **OK** |  |
 | `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md` | **OK** |  |
-| `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, ''), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (3, ''), (3, ''), (3, ''), (3, ''), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI')] EN=[(2, ''), (2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (2, 'VII'), (2, 'VIII'), (3, ''), (3, ''), (3, ''), (3, ''), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, 'XVI'), (2, '')] |
+| `manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md` | **OK** |  |
 | `manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md` | **OK** |  |
 | `manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md` | **OK** |  |
 | `manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md` | **OK** |  |
@@ -289,7 +274,7 @@
 | `propuestas/sintesis-abierta/2026-08-15_C_NAX_23_CONSERVACION_FRACTAL_COMUN_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-15_DELTA_NEOMANTIS_ASIMETRIA_INVERTIDA_DIGNIDAD_RECIPROCA_ES_EN.md` | **OK** |  |
-| `propuestas/sintesis-abierta/ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_v0.1_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (3, ''), (2, '4'), (3, ''), (3, ''), (2, '5'), (2, '6'), (2, '7'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '8'), (2, '9'), (2, '10')] EN=[(2, '1'), (2, '2'), (2, '3'), (3, ''), (3, ''), (2, '4'), (3, ''), (3, ''), (2, '5'), (2, '6'), (2, '7'), (3, ''), (3, ''), (3, ''), (3, ''), (2, '8'), (2, '9'), (2, '10'), (2, '')] |
+| `propuestas/sintesis-abierta/ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_v0.1_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` | **OK** |  |
