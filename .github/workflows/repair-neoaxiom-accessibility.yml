@@ -73,11 +73,12 @@ jobs:
             propuestas/sintesis-abierta/2026-08-16_C_NAX_25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md \
             propuestas/sintesis-abierta/2026-08-16_C_NAX_26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md \
             .github/scripts/audit_neoaxiom_registry_integrity.py \
-            auditorias/publicas/2026-08-16_auditoria_neoaxiomas_simetria_frontera_ES_EN.md
+            auditorias/publicas/2026-08-16_auditoria_neoaxiomas_simetria_frontera_ES_EN.md \
+            auditorias/publicas/2026-08-12_auditoria_global_simetria_ES_EN.md
           if git diff --cached --quiet; then
             echo 'No accessibility delta found.'
             exit 0
           fi
           git commit -m 'docs: make Neoaxiom candidates readable with symmetric examples'
-          git pull --rebase origin main
+          git pull --rebase --autostash origin main
           git push origin main
