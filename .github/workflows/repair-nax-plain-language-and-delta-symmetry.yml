@@ -1,0 +1,94 @@
+name: repair-nax-plain-language-and-delta-symmetry
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/repair-nax-plain-language-and-delta-symmetry.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: neocore-nax-access-symmetry-main
+  cancel-in-progress: false
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Add canonical NAX pedagogical layer and pair delta relations
+        run: python .github/scripts/repair_nax_plain_language_and_delta_symmetry.py
+
+      - name: Keep global accessibility rule outside ES EN split
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('neoaxiomas/README.md')
+          s=p.read_text(encoding='utf-8')
+          rule='> **Regla de accesibilidad canónica / Canonical accessibility rule:** la formulación y desarrollo formal de NAX-01–NAX-14 conservan autoridad documental; cada NAX incorpora además una lectura sencilla y un ejemplo simétricos ES/EN que no pueden ampliar ni reducir el canon. / the formal formulation and development of NAX-01–NAX-14 retain documentary authority; each NAX also includes a symmetric ES/EN plain-language reading and example that may neither expand nor narrow the canon.\n\n'
+          es='# ES · Castellano'
+          s=s.replace(es+'\n\n'+rule, rule+es+'\n\n')
+          p.write_text(s,encoding='utf-8')
+          PY
+
+      - name: Check textual integrity
+        run: git diff --check
+
+      - name: Audit Neoaxiom registry and pedagogical gates
+        run: python .github/scripts/audit_neoaxiom_registry_integrity.py
+
+      - name: Audit global ES EN symmetry
+        run: python .github/scripts/audit_global_bilingual_symmetry.py
+
+      - name: Verify zero symmetry failures and all NAX access layers
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          neo=Path('neoaxiomas/README.md').read_text(encoding='utf-8')
+          es=neo.split('# ES · Castellano',1)[1].split('# EN · English',1)[0]
+          en=neo.split('# EN · English',1)[1]
+          for n in range(1,15):
+              assert f'<!-- NAX-{n:02d}_ACCESS_ES_START -->' in es, n
+              assert f'<!-- NAX-{n:02d}_ACCESS_EN_START -->' in en, n
+          cand=neo.split('<!-- NEOAXIOM_CANDIDATES_72_START -->',1)[1].split('<!-- NEOAXIOM_CANDIDATES_72_END -->',1)[0]
+          ids=sorted(set(int(x) for x in re.findall(r'^### C-NAX-(\d+) ·',cand,re.M)))
+          assert ids == list(range(15,27)), ids
+          for n in ids:
+              part=cand.split(f'### C-NAX-{n} ·',1)[1]
+              if n < 26:
+                  part=part.split(f'### C-NAX-{n+1} ·',1)[0]
+              for marker in ['**ES · en sencillo:**','**ES · ejemplo:**','**EN · in plain language:**','**EN · example:**']:
+                  assert marker in part,(n,marker)
+          report=Path('auditorias/publicas/2026-08-12_auditoria_global_simetria_ES_EN.md').read_text(encoding='utf-8')
+          assert 'Fallos estructurales divididos / Split structural failures: **0**.' in report
+          delta=Path('propuestas/sintesis-abierta/2026-08-16_DELTA_PODER_TRAZABILIDAD_ESCRUTINIO_EVIDENCIA_ES_EN.md').read_text(encoding='utf-8')
+          assert '## XVI. Relaciones canónicas' in delta
+          assert '## XVI. Canonical relations' in delta
+          print('NAX_CLARITY_SYMMETRY_OK canonical=14 candidates=12 split_fail=0')
+          PY
+
+      - name: Commit repaired public state
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add \
+            neoaxiomas/README.md \
+            propuestas/sintesis-abierta/2026-08-16_DELTA_PODER_TRAZABILIDAD_ESCRUTINIO_EVIDENCIA_ES_EN.md \
+            .github/scripts/audit_neoaxiom_registry_integrity.py \
+            auditorias/publicas/2026-08-16_auditoria_neoaxiomas_simetria_frontera_ES_EN.md \
+            auditorias/publicas/2026-08-12_auditoria_global_simetria_ES_EN.md
+          if git diff --cached --quiet; then
+            echo 'No NAX clarity delta found.'
+            exit 0
+          fi
+          git commit -m 'docs: clarify all NAX and close bilingual symmetry gap'
+          git pull --rebase --autostash origin main
+          git push origin main
