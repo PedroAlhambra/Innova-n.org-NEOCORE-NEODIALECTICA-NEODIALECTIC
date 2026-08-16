@@ -37,13 +37,12 @@ La primera activación pública contiene once formulaciones: / The first public 
 La lista anterior conserva la **primera activación pública de once formulaciones** como genealogía. El estado operativo vigente de la capa es: / The list above preserves the **first public activation of eleven formulations** as genealogy. The current operational state of the layer is:
 
 - **14 Neoaxiomas™ canónicos / canonical Neoaxioms™:** NAX-01–NAX-14.
-- **10 candidatos neoaxiomáticos / neoaxiomatic candidates:** C-NAX-15–C-NAX-24.
+- **12 candidatos neoaxiomáticos / neoaxiomatic candidates:** C-NAX-15–C-NAX-26.
 - **Registro canónico de formulaciones / Canonical formulation registry:** [neoaxiomas/README.md](../../neoaxiomas/README.md).
 - **Índice completo de contraste / Complete scrutiny index:** [INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md](./INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md).
 - **Matriz general / General matrix:** [#80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80).
 
-C-NAX-15–C-NAX-18 disponen desde esta reparación de formulación autónoma y Síntesis dedicada, recuperadas o consolidadas desde sus fuentes públicas originales; C-NAX-19–C-NAX-24 conservan sus formulaciones y rutas de contraste vigentes. Ningún C-NAX se convierte por ello en canon. / From this repair onward C-NAX-15–C-NAX-18 have standalone formulations and dedicated Synthesis nodes, recovered or consolidated from their original public sources; C-NAX-19–C-NAX-24 preserve their current formulations and scrutiny routes. No C-NAX becomes canonical by this repair.
-
+C-NAX-15–C-NAX-18 disponen desde esta reparación de formulación autónoma y Síntesis dedicada, recuperadas o consolidadas desde sus fuentes públicas originales; C-NAX-19–C-NAX-26 conservan o incorporan sus formulaciones y rutas de contraste vigentes. C-NAX-25 · Fenómeno ≠ Narrativa™ y C-NAX-26 · Poder ↑ → Trazabilidad ↑ · Acusación ↑ → Evidencia ↑ disponen de documentos bilingües dedicados y Síntesis #155/#156. Ningún C-NAX se convierte por ello en canon. / From this repair onward C-NAX-15–C-NAX-18 have standalone formulations and dedicated Synthesis nodes, recovered or consolidated from their original public sources; C-NAX-19–C-NAX-26 preserve or incorporate their current formulations and scrutiny routes. C-NAX-25 · Phenomenon ≠ Narrative™ and C-NAX-26 · Power ↑ → Traceability ↑ · Accusation ↑ → Evidence ↑ have dedicated bilingual documents and Syntheses #155/#156. No C-NAX becomes canonical as a result.
 
 ## Regla de trabajo / Working rule
 
