@@ -205,6 +205,8 @@ DUTY TO COOPERATE + RIGHTS AND LIMITS
 **Síntesis / Synthesis:** [#153](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/153) · **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
 
 **Genealogía / Genealogy:** formulación autónoma consolidada fielmente desde el principio ya publicado en la fuente; no altera su procedencia ni convierte el candidato en canon. / standalone formulation faithfully consolidated from the principle already published in the source; it neither changes provenance nor turns the candidate into canon.
+| **C-NAX-25 · Fenómeno ≠ Narrativa™ / Phenomenon ≠ Narrative™** | [documento / document](../propuestas/sintesis-abierta/2026-08-16_C_NAX_25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md) | **Candidato explícito · SAN #155**; no canonizado / **Explicit candidate · SAN #155**; not canonicalised |
+| **C-NAX-26 · Poder ↑ → Trazabilidad ↑ · Acusación ↑ → Evidencia ↑ / Power ↑ → Traceability ↑ · Accusation ↑ → Evidence ↑** | [documento / document](../propuestas/sintesis-abierta/2026-08-16_C_NAX_26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md) | **Candidato explícito · SAN #156**; no canonizado / **Explicit candidate · SAN #156**; not canonicalised |
 
 ### C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™
 
@@ -338,6 +340,26 @@ LOUDSPEAKER ≠ SOLUTION
 
 **Procedencia / Provenance:** [LXXVI + documento C-NAX-24](../propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md).  
 **Síntesis / Synthesis:** [#149](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/149) · **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
+
+### C-NAX-25 · Fenómeno ≠ Narrativa™ / Phenomenon ≠ Narrative™
+
+> **ES:** La refutación de una explicación no implica la inexistencia del fenómeno que pretendía explicar; el reconocimiento de un fenómeno no implica aceptar la narrativa, causalidad o identidad política construida alrededor de él.
+
+> **EN:** Refuting an explanation does not imply the non-existence of the phenomenon it attempted to explain; recognising a phenomenon does not imply accepting the narrative, causality or political identity constructed around it.
+
+**Procedencia / Provenance:** [documento / document](../propuestas/sintesis-abierta/2026-08-16_C_NAX_25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md).  
+**Síntesis / Synthesis:** [#155](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/155) · **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
+
+
+### C-NAX-26 · Poder ↑ → Trazabilidad ↑ · Acusación ↑ → Evidencia ↑ / Power ↑ → Traceability ↑ · Accusation ↑ → Evidence ↑
+
+> **ES:** A mayor capacidad efectiva de un nodo para alterar el espacio común, mayor debe ser la exigencia proporcional de trazabilidad, auditabilidad y responsabilidad sobre el ejercicio de ese poder. A mayor gravedad de una acusación contra una persona u organización, mayor debe ser la exigencia proporcional de evidencia antes de tratarla como conclusión. El poder no implica culpabilidad, pero tampoco debe comprar opacidad; la sospecha no implica verdad, pero tampoco debe quedar prohibida de investigación.
+
+> **EN:** The greater a node's effective capacity to alter the common space, the greater the proportional requirement for traceability, auditability and responsibility over the exercise of that power. The greater the seriousness of an accusation against a person or organisation, the greater the proportional evidentiary requirement before treating it as a conclusion. Power does not imply guilt, but neither should it buy opacity; suspicion does not imply truth, but neither should it be barred from investigation.
+
+**Procedencia / Provenance:** [documento / document](../propuestas/sintesis-abierta/2026-08-16_C_NAX_26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md).  
+**Síntesis / Synthesis:** [#156](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/156) · **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
+
 <!-- NEOAXIOM_CANDIDATES_72_END -->
 
 # ES · Castellano

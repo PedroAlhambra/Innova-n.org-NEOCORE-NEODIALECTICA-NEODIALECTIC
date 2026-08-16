@@ -3,7 +3,7 @@
 
 **Fecha / Date:** 2026-08-11  
 **Estado / Status:** vivo, versionado y revisable / living, versioned and revisable  
-**Cobertura / Coverage:** **77 manifiestos finitos I–LXXVII + Manifiesto ∞ · 14 Neoaxiomas™ canónicos + 10 candidatos C-NAX-15–C-NAX-24 · síntesis transversales, auditorías y proyectos de sistema / 77 finite manifestos I–LXXVII + Manifesto ∞ · 14 canonical Neoaxioms™ + 10 candidates C-NAX-15–C-NAX-24 · cross-cutting syntheses, audits and system projects**.
+**Cobertura / Coverage:** **77 manifiestos finitos I–LXXVII + Manifiesto ∞ · 14 Neoaxiomas™ canónicos + 12 candidatos C-NAX-15–C-NAX-26 · síntesis transversales, auditorías y proyectos de sistema / 77 finite manifestos I–LXXVII + Manifesto ∞ · 14 canonical Neoaxioms™ + 12 candidates C-NAX-15–C-NAX-26 · cross-cutting syntheses, audits and system projects**.
 
 > **ABIERTO A SÍNTESIS ≠ VALIDADO.**  
 > **OPEN TO SYNTHESIS ≠ VALIDATED.**
@@ -137,8 +137,10 @@ Faithful global understanding of the complete framework is a different task: bec
 | **C-NAX-22 · Memoria Material-Relacional™ / Material-Relational Memory™ · candidato / candidate** | [#135](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/135) · [LXXV #134](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/134) |
 | **C-NAX-23 · Conservación del Fractal Común™ / Conservation of the Common Fractal™ · candidato / candidate** | [#148](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/148) · [documento / document](2026-08-15_C_NAX_23_CONSERVACION_FRACTAL_COMUN_ES_EN.md) |
 | **C-NAX-24 · Diagnóstico ≠ Síntesis™ / Diagnosis ≠ Synthesis™ · candidato / candidate** | [#149](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/149) · [documento / document](2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md) |
+| **C-NAX-25 · Fenómeno ≠ Narrativa™ / Phenomenon ≠ Narrative™ · candidato / candidate** | [#155](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/155) |
+| **C-NAX-26 · Poder ↑ → Trazabilidad ↑ · Acusación ↑ → Evidencia ↑ / Power ↑ → Traceability ↑ · Accusation ↑ → Evidence ↑ · candidato / candidate** | [#156](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/156) |
 
-**Regla de estado / State rule:** NAX-01–NAX-14 son canónicos y revisables; C-NAX-15–C-NAX-24 son candidatos visibles y trazables, no canónicos hasta fijación explícita posterior. / NAX-01–NAX-14 are canonical and revisable; C-NAX-15–C-NAX-24 are visible, traceable candidates and remain non-canonical until a later explicit fixation.
+**Regla de estado / State rule:** NAX-01–NAX-14 son canónicos y revisables; C-NAX-15–C-NAX-26 son candidatos visibles y trazables, no canónicos hasta fijación explícita posterior. / NAX-01–NAX-14 are canonical and revisable; C-NAX-15–C-NAX-26 are visible, traceable candidates and remain non-canonical until a later explicit fixation.
 
 ---
 
@@ -209,7 +211,7 @@ ENTRAR EN UNA SÍNTESIS / ENTER A SYNTHESIS
 - Todo manifiesto finito I–LXXVII dispone de una Síntesis Abierta dedicada. / Every finite manifesto I–LXXVII has a dedicated Open Synthesis issue.
 - El Manifiesto ∞ permanece abierto permanentemente detrás del último manifiesto finito. / Manifesto ∞ remains permanently open after the latest finite manifesto.
 - Todo Neoaxioma canónico NAX-01–NAX-14 dispone de síntesis dedicada y de la matriz general #80. / Every canonical Neoaxiom NAX-01–NAX-14 has a dedicated synthesis plus general matrix #80.
-- C-NAX-15–C-NAX-24 permanecen candidatos: se muestran con matriz/ruta de síntesis y no se elevan automáticamente a canon. / C-NAX-15–C-NAX-24 remain candidates: they are shown with a synthesis matrix/route and are not automatically elevated to canon.
+- C-NAX-15–C-NAX-26 permanecen candidatos: se muestran con matriz/ruta de síntesis y no se elevan automáticamente a canon. / C-NAX-15–C-NAX-26 remain candidates: they are shown with a synthesis matrix/route and are not automatically elevated to canon.
 - Los deltas, auditorías, casos aplicados y proyectos del sistema disponen de espacios trazables de síntesis. / System-wide deltas, audits, applied cases and projects have traceable synthesis spaces.
 - Cualquier persona puede aportar localmente con comprensión suficiente del nodo concreto. / Anyone may contribute locally with sufficient understanding of the specific node.
 - La evaluación del marco completo requiere lectura proporcionalmente más profunda y actualmente se beneficia fuertemente de memoria relacional asistida por IA con retorno a fuente. / Full-framework evaluation requires proportionally deeper reading and currently benefits strongly from AI-assisted relational memory with return to source.

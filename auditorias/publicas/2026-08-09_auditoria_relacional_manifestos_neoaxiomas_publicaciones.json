@@ -1365,6 +1365,21 @@
       ]
     },
     {
+      "a": "LIII",
+      "b": "LXXVII",
+      "sources": 11,
+      "examples": [
+        "analisis/README.md",
+        "analisis/auditorias/README.md",
+        "analisis/publicos/README.md",
+        "analisis/publicos/evidencias/README.md",
+        "auditorias/publicas/README.md",
+        "obras/README.md",
+        "obras/idea/README.md",
+        "obras/idea/assets/README.md"
+      ]
+    },
+    {
       "a": "XX",
       "b": "XXII",
       "sources": 11,
@@ -1737,21 +1752,6 @@
         "analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md",
         "analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md",
         "analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md"
-      ]
-    },
-    {
-      "a": "LIII",
-      "b": "LXXVII",
-      "sources": 9,
-      "examples": [
-        "analisis/README.md",
-        "analisis/auditorias/README.md",
-        "analisis/publicos/README.md",
-        "analisis/publicos/evidencias/README.md",
-        "auditorias/publicas/README.md",
-        "obras/README.md",
-        "obras/idea/README.md",
-        "obras/idea/assets/README.md"
       ]
     },
     {
@@ -3755,6 +3755,17 @@
       ]
     },
     {
+      "a": "LXXII",
+      "b": "LXXIV",
+      "sources": 4,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-15_DELTA_NEOMANTIS_ASIMETRIA_INVERTIDA_DIGNIDAD_RECIPROCA_ES_EN.md",
+        "propuestas/sintesis-abierta/2026-08-16_C_NAX_26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md",
+        "propuestas/sintesis-abierta/2026-08-16_DELTA_PODER_TRAZABILIDAD_ESCRUTINIO_EVIDENCIA_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
       "a": "V",
       "b": "XLV",
       "sources": 4,
@@ -4216,6 +4227,26 @@
     },
     {
       "a": "LIII",
+      "b": "LXXII",
+      "sources": 3,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-16_C_NAX_26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md",
+        "propuestas/sintesis-abierta/2026-08-16_DELTA_PODER_TRAZABILIDAD_ESCRUTINIO_EVIDENCIA_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "LIII",
+      "b": "LXXIV",
+      "sources": 3,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-16_C_NAX_26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md",
+        "propuestas/sintesis-abierta/2026-08-16_DELTA_PODER_TRAZABILIDAD_ESCRUTINIO_EVIDENCIA_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "LIII",
       "b": "V",
       "sources": 3,
       "examples": [
@@ -4285,12 +4316,32 @@
       ]
     },
     {
+      "a": "LXXII",
+      "b": "LXXVII",
+      "sources": 3,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-16_C_NAX_26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md",
+        "propuestas/sintesis-abierta/2026-08-16_DELTA_PODER_TRAZABILIDAD_ESCRUTINIO_EVIDENCIA_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
       "a": "LXXIII",
       "b": "LXXIV",
       "sources": 3,
       "examples": [
         "propuestas/sintesis-abierta/2026-08-15_C_NAX_23_CONSERVACION_FRACTAL_COMUN_ES_EN.md",
         "propuestas/sintesis-abierta/2026-08-15_DELTA_NEOMANTIS_ASIMETRIA_INVERTIDA_DIGNIDAD_RECIPROCA_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "LXXIV",
+      "b": "LXXVII",
+      "sources": 3,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-16_C_NAX_26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md",
+        "propuestas/sintesis-abierta/2026-08-16_DELTA_PODER_TRAZABILIDAD_ESCRUTINIO_EVIDENCIA_ES_EN.md",
         "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
       ]
     },
@@ -5234,15 +5285,6 @@
     {
       "a": "LXXII",
       "b": "LXXIII",
-      "sources": 2,
-      "examples": [
-        "propuestas/sintesis-abierta/2026-08-15_DELTA_NEOMANTIS_ASIMETRIA_INVERTIDA_DIGNIDAD_RECIPROCA_ES_EN.md",
-        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
-      ]
-    },
-    {
-      "a": "LXXII",
-      "b": "LXXIV",
       "sources": 2,
       "examples": [
         "propuestas/sintesis-abierta/2026-08-15_DELTA_NEOMANTIS_ASIMETRIA_INVERTIDA_DIGNIDAD_RECIPROCA_ES_EN.md",
@@ -6765,6 +6807,15 @@
       ]
     },
     {
+      "path": "propuestas/sintesis-abierta/2026-08-16_C_NAX_26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md",
+      "manifestos": [
+        "LIII",
+        "LXXII",
+        "LXXIV",
+        "LXXVII"
+      ]
+    },
+    {
       "path": "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md",
       "manifestos": [
         "I",
@@ -6958,6 +7009,15 @@
         "XXII",
         "XXX",
         "XXXIV"
+      ]
+    },
+    {
+      "path": "propuestas/sintesis-abierta/2026-08-16_DELTA_PODER_TRAZABILIDAD_ESCRUTINIO_EVIDENCIA_ES_EN.md",
+      "manifestos": [
+        "LIII",
+        "LXXII",
+        "LXXIV",
+        "LXXVII"
       ]
     },
     {
@@ -12035,6 +12095,8 @@
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md",
+          "propuestas/sintesis-abierta/2026-08-16_C_NAX_26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md",
+          "propuestas/sintesis-abierta/2026-08-16_DELTA_PODER_TRAZABILIDAD_ESCRUTINIO_EVIDENCIA_ES_EN.md",
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md",
           "propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md",
           "propuestas/sintesis-abierta/README.md"
@@ -13048,6 +13110,8 @@
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/2026-08-15_DELTA_NEOMANTIS_ASIMETRIA_INVERTIDA_DIGNIDAD_RECIPROCA_ES_EN.md",
+          "propuestas/sintesis-abierta/2026-08-16_C_NAX_26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md",
+          "propuestas/sintesis-abierta/2026-08-16_DELTA_PODER_TRAZABILIDAD_ESCRUTINIO_EVIDENCIA_ES_EN.md",
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
         ]
       }
@@ -13132,6 +13196,8 @@
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/2026-08-15_C_NAX_23_CONSERVACION_FRACTAL_COMUN_ES_EN.md",
           "propuestas/sintesis-abierta/2026-08-15_DELTA_NEOMANTIS_ASIMETRIA_INVERTIDA_DIGNIDAD_RECIPROCA_ES_EN.md",
+          "propuestas/sintesis-abierta/2026-08-16_C_NAX_26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md",
+          "propuestas/sintesis-abierta/2026-08-16_DELTA_PODER_TRAZABILIDAD_ESCRUTINIO_EVIDENCIA_ES_EN.md",
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
         ]
       }
@@ -13334,6 +13400,8 @@
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/2026-08-16_C_NAX_25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md",
+          "propuestas/sintesis-abierta/2026-08-16_C_NAX_26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md",
+          "propuestas/sintesis-abierta/2026-08-16_DELTA_PODER_TRAZABILIDAD_ESCRUTINIO_EVIDENCIA_ES_EN.md",
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
         ]
       }
