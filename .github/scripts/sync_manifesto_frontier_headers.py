@@ -4,8 +4,10 @@ import re
 ROOT=Path('.').resolve()
 MIDX=ROOT/'manifiestos/README.md'
 SYN=ROOT/'propuestas/sintesis-abierta/README.md'
+FULL=ROOT/'propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md'
 ROW=re.compile(r'^- \*\*([IVXLCDM]+)\*\* · \[([^\]]+)\]\(([^)]+\.md)\)(.*)$',re.M)
 ISSUE=re.compile(r'https://github\.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/(\d+)')
+DATE=re.compile(r'^\*\*Fecha / Date:\*\*\s*(\d{4}-\d{2}-\d{2})\s*$',re.M)
 
 idx=MIDX.read_text(encoding='utf-8')
 rows=ROW.findall(idx)
@@ -19,6 +21,10 @@ issues=ISSUE.findall(front)
 if not issues:
     raise SystemExit(f'No manifesto synthesis issue found for {roman}')
 issue=issues[0]
+dates=DATE.findall(front)
+if not dates:
+    raise SystemExit(f'No manifesto date found for {roman}')
+latest_date=dates[0]
 issue_url=f'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/{issue}'
 
 latest=(f'> ## 🔴 ÚLTIMO MANIFIESTO FINITO ABIERTO A SÍNTESIS / LATEST FINITE MANIFESTO OPEN FOR SYNTHESIS\n>\n'
@@ -33,6 +39,7 @@ idx=re.sub(r'Complete index I–[IVXLCDM]+ \+ ∞',f'Complete index I–{roman} 
 idx=re.sub(r'^\*\*Última síntesis finita / Latest finite synthesis:\*\*.*$',
            f'**Última síntesis finita / Latest finite synthesis:** [{label}]({href}) · [Issue #{issue}]({issue_url})  ',
            idx,count=1,flags=re.M)
+idx=re.sub(r'^\*\*Fecha / Date:\*\*.*$',f'**Fecha / Date:** {latest_date}',idx,count=1,flags=re.M)
 MIDX.write_text(idx,encoding='utf-8')
 
 syn=SYN.read_text(encoding='utf-8')
@@ -43,4 +50,9 @@ slatest=(f'> ## 🔴 ÚLTIMO MANIFIESTO FINITO ABIERTO A SÍNTESIS / LATEST FINI
          f'> **[Leer {roman} / Read {roman}](../../manifiestos/{href}) · [Síntesis {roman} · #{issue} / Synthesis {roman} · #{issue}]({issue_url})**')
 syn=re.sub(r'> ## 🔴 ÚLTIMO MANIFIESTO FINITO ABIERTO A SÍNTESIS / LATEST FINITE MANIFESTO OPEN FOR SYNTHESIS\n>.*?(?=\n> ## ∞)',slatest+'\n',syn,count=1,flags=re.S)
 SYN.write_text(syn,encoding='utf-8')
-print(f'MANIFESTO_FRONTIER_HEADERS count={count} latest={roman} issue=#{issue}')
+
+full=FULL.read_text(encoding='utf-8')
+full=re.sub(r'^\*\*Fecha / Date:\*\*.*$',f'**Fecha / Date:** {latest_date}',full,count=1,flags=re.M)
+FULL.write_text(full,encoding='utf-8')
+
+print(f'MANIFESTO_FRONTIER_HEADERS count={count} latest={roman} issue=#{issue} date={latest_date}')
