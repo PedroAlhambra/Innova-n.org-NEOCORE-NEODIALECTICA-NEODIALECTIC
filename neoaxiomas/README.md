@@ -55,8 +55,11 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 | **C-NAX-20 · Humanidad Común sin Supresión de la Diferencia™ / Common Humanity without Suppression of Difference™** | [LXXIII](../manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md) | **Candidato explícito · SAN #126**; no canonizado / **Explicit candidate · SAN #126**; not canonicalised |
 | **C-NAX-21 · Ignorancia Sistémica del Mal y No Superioridad de la Destrucción™ / Systemic Ignorance of Evil and Non-Superiority of Destruction™** | [VI](../manifiestos/09_parasitismo_sistemico_ES_EN.md) + [LXXIII](../manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md) + [LXXIV](../manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md) | **Candidato explícito · SAN #127**; no canonizado / **Explicit candidate · SAN #127**; not canonicalised |
 | **C-NAX-22 · Memoria Material-Relacional™ / Material-Relational Memory™** | [LXXV](../manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md) | **Candidato explícito · SAN #135**; no canonizado / **Explicit candidate · SAN #135**; not canonicalised |
-| **C-NAX-23 · Conservación del Fractal Común™ / Conservation of the Common Fractal™** | [NeoMantis™ + documento C-NAX-23](../propuestas/sintesis-abierta/2026-08-15_C_NAX_23_CONSERVACION_FRACTAL_COMUN_ES_EN.md) | **Candidato explícito · SAN #148**; no canonizado / **Explicit candidate · SAN #148**; not canonicalised |
-| **C-NAX-24 · Diagnóstico ≠ Síntesis™ / Diagnosis ≠ Synthesis™** | [LXXVI + documento C-NAX-24](../propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md) | **Candidato explícito · SAN #149**; no canonizado / **Explicit candidate · SAN #149**; not canonicalised |
+| **C-NAX-23 · Conservación del Fractal Común™ / Conservation of the Common Fractal™** | [documento / document](../propuestas/sintesis-abierta/2026-08-15_C_NAX_23_CONSERVACION_FRACTAL_COMUN_ES_EN.md) | **Candidato explícito · SAN #148**; no canonizado / **Explicit candidate · SAN #148**; not canonicalised |
+| **C-NAX-24 · Diagnóstico ≠ Síntesis™ / Diagnosis ≠ Synthesis™** | [documento / document](../propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md) | **Candidato explícito · SAN #149**; no canonizado / **Explicit candidate · SAN #149**; not canonicalised |
+| **C-NAX-25 · Fenómeno ≠ Narrativa™ / Phenomenon ≠ Narrative™** | [documento / document](../propuestas/sintesis-abierta/2026-08-16_C_NAX_25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md) | **Candidato explícito · SAN #155**; no canonizado / **Explicit candidate · SAN #155**; not canonicalised |
+| **C-NAX-26 · Poder ↑ → Trazabilidad ↑ · Acusación ↑ → Evidencia ↑ / Power ↑ → Traceability ↑ · Accusation ↑ → Evidence ↑** | [documento / document](../propuestas/sintesis-abierta/2026-08-16_C_NAX_26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md) | **Candidato explícito · SAN #156**; no canonizado / **Explicit candidate · SAN #156**; not canonicalised |
+
 
 ### C-NAX-15 · Soberanía Intelectual de la Especie™ / Intellectual Sovereignty of the Species™
 
@@ -205,9 +208,6 @@ DUTY TO COOPERATE + RIGHTS AND LIMITS
 **Síntesis / Synthesis:** [#153](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/153) · **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
 
 **Genealogía / Genealogy:** formulación autónoma consolidada fielmente desde el principio ya publicado en la fuente; no altera su procedencia ni convierte el candidato en canon. / standalone formulation faithfully consolidated from the principle already published in the source; it neither changes provenance nor turns the candidate into canon.
-| **C-NAX-25 · Fenómeno ≠ Narrativa™ / Phenomenon ≠ Narrative™** | [documento / document](../propuestas/sintesis-abierta/2026-08-16_C_NAX_25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md) | **Candidato explícito · SAN #155**; no canonizado / **Explicit candidate · SAN #155**; not canonicalised |
-| **C-NAX-26 · Poder ↑ → Trazabilidad ↑ · Acusación ↑ → Evidencia ↑ / Power ↑ → Traceability ↑ · Accusation ↑ → Evidence ↑** | [documento / document](../propuestas/sintesis-abierta/2026-08-16_C_NAX_26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md) | **Candidato explícito · SAN #156**; no canonizado / **Explicit candidate · SAN #156**; not canonicalised |
-
 ### C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™
 
 **ES · formulación candidata:**
