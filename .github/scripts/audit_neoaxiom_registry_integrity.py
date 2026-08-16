@@ -10,15 +10,6 @@ START = '<!-- NEOAXIOM_CANDIDATES_72_START -->'
 END = '<!-- NEOAXIOM_CANDIDATES_72_END -->'
 
 
-def extract_section(text, heading_pattern):
-    m = re.search(heading_pattern, text, re.M)
-    if not m:
-        return None
-    rest = text[m.end():]
-    nxt = re.search(r'^#{1,3}\s+', rest, re.M)
-    return rest[:nxt.start()] if nxt else rest
-
-
 def candidate_blocks(block):
     matches = list(re.finditer(r'^###\s+C-NAX-(\d+)\s+·\s+(.+?)\s*$', block, re.M))
     out = {}
@@ -58,7 +49,7 @@ def main():
         if es_ids != en_ids:
             problems.append(f'IDs NAX ES/EN no coinciden / ES/EN NAX IDs differ: ES={es_ids} EN={en_ids}')
 
-    # Candidate rows and detail blocks must be one-to-one and contiguous.
+    # Candidate rows and detail blocks must be one-to-one, unique, ordered and contiguous.
     row_ids = [int(x) for x in re.findall(r'^\| \*\*C-NAX-(\d+) ·', block, re.M)]
     details = candidate_blocks(block)
     detail_ids = sorted(details)
@@ -95,26 +86,33 @@ def main():
     if missing_dedicated:
         problems.append(f'Documentos C-NAX dedicados ausentes del registro central / dedicated C-NAX docs missing from central registry: {missing_dedicated}')
 
-    # Current expected frontier after the 2026-08-16 repair.
-    if unique_rows != list(range(15, 25)):
-        problems.append(f'Frontera vigente esperada C-NAX-15–24 / expected current frontier C-NAX-15–24, found {unique_rows}')
+    # The current frontier is derived from the registry itself, never hard-coded.
+    candidate_count = len(unique_rows)
+    max_candidate = max(unique_rows) if unique_rows else None
+    if unique_rows and unique_rows[0] != 15:
+        problems.append(f'La frontera C-NAX debe comenzar en 15 / C-NAX frontier must begin at 15, found {unique_rows[0]}')
 
     # The live synthesis index must mirror count/range and carry each candidate row.
-    if '10 candidatos C-NAX-15–C-NAX-24' not in syn:
-        problems.append('Índice de Síntesis no declara 10 candidatos C-NAX-15–24 / synthesis index does not declare 10 candidates C-NAX-15–24')
-    if '10 candidates C-NAX-15–C-NAX-24' not in syn:
-        problems.append('Synthesis index English coverage does not declare 10 candidates C-NAX-15–24')
+    if max_candidate is not None:
+        es_coverage = f'{candidate_count} candidatos C-NAX-15–C-NAX-{max_candidate}'
+        en_coverage = f'{candidate_count} candidates C-NAX-15–C-NAX-{max_candidate}'
+        if es_coverage not in syn:
+            problems.append(f'Índice de Síntesis no declara {es_coverage} / synthesis index missing Spanish dynamic coverage')
+        if en_coverage not in syn:
+            problems.append(f'Synthesis index English coverage does not declare {en_coverage}')
     syn_ids = sorted(set(int(x) for x in re.findall(r'^\| \*\*C-NAX-(\d+) ·', syn, re.M)))
     if syn_ids != unique_rows:
         problems.append(f'Índice C-NAX no refleja registro central / C-NAX synthesis index does not mirror central registry: index={syn_ids} registry={unique_rows}')
 
     status = 'OK' if not problems else 'FAIL'
+    frontier_label = f'C-NAX-15–C-NAX-{max_candidate}' if max_candidate is not None else 'C-NAX-∅'
     lines = [
         '# Auditoría de integridad neoaxiomática ES/EN y frontera C-NAX',
         '# Neoaxiomatic ES/EN integrity and C-NAX frontier audit',
         '',
         '**Fecha / Date:** 2026-08-16  ',
         f'**Estado / Status:** **{status}**  ',
+        f'**Frontera dinámica / Dynamic frontier:** **{frontier_label}**  ',
         '**Objeto / Scope:** NAX-01–NAX-14, registro C-NAX, formulaciones ES/EN, documentos dedicados e índice vivo de Síntesis. / NAX-01–NAX-14, C-NAX registry, ES/EN formulations, dedicated documents and the live Synthesis index.',
         '',
         '## Resultado / Result',
@@ -128,7 +126,8 @@ def main():
         '## Regla endurecida / Hardened rule',
         '',
         '- **Una fila C-NAX sin formulación desarrollada ES/EN es fallo de integridad. / A C-NAX row without a developed ES/EN formulation is an integrity failure.**',
-        '- **Un documento C-NAX dedicado ausente del registro central es fallo de frontera. / A dedicated C-NAX document missing from the central registry is a frontier failure.**',
+        '- **Un documento C-NAX dedicado ausente del registro central es fallo de frontera. / A dedicated C-NAX document missing from the central registry is an integrity failure.**',
+        '- **La frontera C-NAX se deriva dinámicamente del registro; ningún máximo queda codificado a mano. / The C-NAX frontier is derived dynamically from the registry; no maximum is hard-coded.**',
         '- **NAX/C-NAX quedan fuera de cualquier excepción genérica de encabezados: esta auditoría los comprueba por identificador. / NAX/C-NAX are outside any generic heading exception: this audit checks them by identifier.**',
         '',
         '## Incidencias / Findings',
@@ -143,13 +142,13 @@ def main():
         '## Genealogía de la reparación / Repair genealogy',
         '',
         '- La auditoría global anterior podía omitir el bloque C-NAX porque se encontraba antes del split principal `# ES / # EN` y porque el chequeo genérico toleraba encabezados `NAX-`/`C-NAX-`. / The previous global audit could miss the C-NAX block because it sat before the main `# ES / # EN` split and because the generic checker tolerated `NAX-`/`C-NAX-` headings.',
-        '- C-NAX-15 y C-NAX-16 recuperan formulaciones ya explícitas en sus fuentes públicas. / C-NAX-15 and C-NAX-16 recover formulations already explicit in their public sources.',
-        '- C-NAX-17 y C-NAX-18 reciben formulación autónoma consolidada fielmente desde los principios publicados en LXVII y LXVI+LXVII, conservando la genealogía. / C-NAX-17 and C-NAX-18 receive standalone formulations faithfully consolidated from the principles published in LXVII and LXVI+LXVII, preserving genealogy.',
-        '- C-NAX-23 y C-NAX-24 se incorporan al registro central sin cambiar su condición de candidatos. / C-NAX-23 and C-NAX-24 are incorporated into the central registry without changing their candidate status.',
+        '- C-NAX-15–18 quedaron desarrollados y reconciliados conservando su genealogía. / C-NAX-15–18 were developed and reconciled while preserving their genealogy.',
+        '- C-NAX-23 y C-NAX-24 se incorporaron mediante documentos dedicados y registro central. / C-NAX-23 and C-NAX-24 were incorporated through dedicated documents and the central registry.',
+        '- C-NAX-25 y C-NAX-26 amplían la frontera mediante documentos bilingües dedicados y Síntesis #155/#156; la auditoría deja de fijar un máximo manual para que futuras ampliaciones no queden silenciosamente fuera. / C-NAX-25 and C-NAX-26 extend the frontier through dedicated bilingual documents and Syntheses #155/#156; the audit no longer hard-codes a maximum so future extensions cannot silently fall outside it.',
     ]
     REPORT.parent.mkdir(parents=True, exist_ok=True)
     REPORT.write_text('\n'.join(lines) + '\n', encoding='utf-8')
-    print(f'NEOAXIOM_INTEGRITY status={status} canonical={len(es_ids)}/{len(en_ids)} candidates={len(unique_rows)} details={len(detail_ids)} dedicated={sorted(dedicated)}')
+    print(f'NEOAXIOM_INTEGRITY status={status} canonical={len(es_ids)}/{len(en_ids)} candidates={len(unique_rows)} details={len(detail_ids)} dedicated={sorted(dedicated)} frontier={frontier_label}')
     if problems:
         for p in problems:
             print('FAIL:', p)
