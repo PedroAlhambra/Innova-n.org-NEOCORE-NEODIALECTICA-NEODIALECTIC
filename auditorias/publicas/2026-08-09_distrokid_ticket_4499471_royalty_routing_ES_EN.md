@@ -4,7 +4,7 @@
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
 **Estado:** abierto / open  
-**Fecha de actualización:** 2026-08-09  
+**Fecha de actualización:** 2026-08-16  
 **Casos relacionados:** 2901165 · 2941949 · 4499471  
 **Ámbito:** Spotify · DistroKid · regalías · catálogo · perfiles · ISRC · routing
 
@@ -55,13 +55,45 @@ Las listas de títulos retirados y añadidos en días consecutivos no coinciden 
 
 ## 5. Seguimiento del 9 de agosto de 2026
 
-Se ha enviado un nuevo seguimiento solicitando:
+Se envió un seguimiento solicitando:
 
-1. confirmación de que el ticket 4499471 ha sido asignado a revisión humana de registros subyacentes;
+1. confirmación de que el ticket 4499471 había sido asignado a revisión humana de registros subyacentes;
 2. mantenimiento del ticket abierto hasta contestación punto por punto;
 3. resultado de auditoría o, en su defecto, estado de escalado y equipo responsable.
 
-## 6. Criterio de cierre
+## 6. Nuevo escalado del 16 de agosto de 2026
+
+Tras revisar de nuevo la respuesta del 8 de agosto, se ha contestado en el propio ticket **4499471** dejando explícito que la incidencia **no es una fluctuación temporal de Estimated Daily Stats ni una caída de estadísticas de 24 horas**.
+
+El objeto pendiente continúa siendo la ausencia histórica de pagos de regalías Spotify desde finales de 2024 pese a las más de 9.000 reproducciones observadas en los datos disponibles para el titular.
+
+Se ha solicitado mantener abierto el ticket y escalarlo al equipo capaz de inspeccionar los registros subyacentes de **royalties/accounting y routing**, pidiendo una reconciliación por lanzamiento/pista y, cuando sea posible, por ISRC que cubra:
+
+1. informes de regalías Spotify recibidos por DistroKid desde finales de 2024 para el catálogo afectado;
+2. importes atribuidos a la cuenta desde dichos informes;
+3. datos concretos de reporting Spotify que sustentarían un importe cero, si ese fuese el resultado;
+4. asociación correcta de artist IDs, releases, UPC, ISRC, cuenta y objetos de regalías;
+5. existencia de objetos sin casar, reasignados, duplicados o enrutados de forma distinta;
+6. posible efecto de retiradas/reapariciones, redelivery, relinking o cambios de identificadores/mapping sobre la reconciliación;
+7. reconstrucción verificable de la cadena:
+
+```text
+SPOTIFY STREAMS
+→ SPOTIFY REPORTING
+→ DISTROKID ROYALTY OBJECT
+→ RELEASE / ISRC
+→ ARTIST / ACCOUNT
+→ AMOUNT
+→ PAYMENT / NON-PAYMENT
+```
+
+También se ha reiterado que las alertas históricas relativas a proyectos como **Yellow Quasar** y **Techno Bach** no se presentan como prueba de desvío, sino como incidencias documentales que deben contrastarse con los registros de regalías.
+
+Se ha pedido confirmación expresa de asignación a revisión humana de royalties/accounting o technical routing, junto con el resultado de auditoría o el estado del escalado y equipo responsable.
+
+**Estado a 2026-08-16:** pendiente de respuesta de DistroKid al escalado técnico específico. No se considera resuelto por la explicación general sobre Estimated Daily Stats.
+
+## 7. Criterio de cierre
 
 La auditoría podrá cerrarse o reclasificarse cuando exista documentación suficiente para reconciliar:
 
@@ -124,11 +156,43 @@ In several instances, the titles listed as removed and added on consecutive days
 
 A further message requested:
 
-1. confirmation that ticket 4499471 has been assigned for human review of the underlying records;
-2. that the ticket remain open until the questions are answered point by point;
+1. confirmation that ticket 4499471 had been assigned for human review of the underlying records;
+2. that the ticket remain open until the questions were answered point by point;
 3. the audit result or, failing that, the escalation status and responsible team.
 
-## 6. Closure criterion
+## 6. Further escalation on 16 August 2026
+
+After reviewing the 8 August response again, a reply was sent within ticket **4499471** explicitly clarifying that the issue is **not a temporary Estimated Daily Stats fluctuation or a 24-hour statistics drop**.
+
+The unresolved subject remains the historical absence of Spotify royalty payments since late 2024 despite more than 9,000 streams in the account-side data available to the rightsholder.
+
+DistroKid has been asked to keep the ticket open and escalate it to a team able to inspect the underlying **royalty/accounting and routing records**, with reconciliation by release/track and, where possible, by ISRC covering:
+
+1. Spotify royalty reports received by DistroKid since late 2024 for the affected catalogue;
+2. amounts attributed to the account from those reports;
+3. the specific Spotify reporting data supporting a zero amount, if that is the result;
+4. correct association of artist IDs, releases, UPCs, ISRCs, account and royalty objects;
+5. any unmatched, reassigned, duplicated or differently routed objects;
+6. whether removals/re-additions, redelivery, relinking or identifier/mapping changes affected reconciliation;
+7. a verifiable reconstruction of:
+
+```text
+SPOTIFY STREAMS
+→ SPOTIFY REPORTING
+→ DISTROKID ROYALTY OBJECT
+→ RELEASE / ISRC
+→ ARTIST / ACCOUNT
+→ AMOUNT
+→ PAYMENT / NON-PAYMENT
+```
+
+The message reiterates that historical alerts involving projects such as **Yellow Quasar** and **Techno Bach** are not presented as proof of misrouting, but as documentary anomalies to be reconciled against royalty records.
+
+Explicit confirmation has been requested that the matter is assigned to a human royalties/accounting or technical-routing review, together with the audit result or the escalation status and responsible team.
+
+**Status as of 2026-08-16:** awaiting DistroKid's response to the specific technical escalation. The general Estimated Daily Stats explanation is not considered resolution of the reported issue.
+
+## 7. Closure criterion
 
 The audit can be closed or reclassified when sufficient documentation reconciles:
 
