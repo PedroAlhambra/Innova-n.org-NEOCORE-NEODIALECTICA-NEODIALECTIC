@@ -1,26 +1,26 @@
 # Postcheck dinámico · README, índices y enlaces / Dynamic README, indices and links postcheck
 
 **Fecha / Date:** 2026-08-12  
-**Estado / Status:** **REQUIERE CORRECCIÓN / NEEDS CORRECTION**
+**Estado / Status:** **OK**
 
 > **Alcance / Scope:** el grafo vivo excluye `wiki-legacy-archive/` y las entradas raíz legacy `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` y `FOREWORD.md`. Esos nombres legacy no constituyen superficies canónicas vivas; tras su retirada de `main`, su contenido histórico permanece recuperable mediante Git. / the living graph excludes `wiki-legacy-archive/` and the root legacy entry files `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` and `FOREWORD.md`. Those legacy names are not living canonical surfaces; after retirement from `main`, their historical contents remain recoverable through Git.
 
 ## ES · Resultado
 
-- Archivos Markdown activos revisados: **373**.
+- Archivos Markdown activos revisados: **374**.
 - Archivos Markdown históricos excluidos del estado vivo: **55**.
 - Entradas legacy excluidas del estado vivo: **0**.
 - README activos revisados: **17**.
-- Enlaces internos de ruta comprobados: **10526**.
+- Enlaces internos de ruta comprobados: **10534**.
 - Alias internos de GitHub Wiki reconocidos: **44**.
-- Enlaces externos inventariados sin comprobar disponibilidad remota: **1891**.
+- Enlaces externos inventariados sin comprobar disponibilidad remota: **1893**.
 - Enlaces sólo a ancla detectados: **420**.
 - Bloques de último manifiesto encontrados en README: **8**.
 - Bloques legacy NEO_CURRENT_NAV encontrados en README: **0**.
 - Bloques redundantes MANIFESTOS_CURRENT encontrados en README: **0**.
 - Manifiestos canónicos detectados: **77 · I–LXXVII**.
 - Último manifiesto / Síntesis: **LXXVII / #154**.
-- Enlaces internos rotos del grafo vivo: **2**.
+- Enlaces internos rotos del grafo vivo: **0**.
 - Fallos canónicos críticos: **0**.
 
 ### Comprobaciones canónicas
@@ -36,27 +36,24 @@
 
 ### Enlaces internos rotos del grafo vivo
 
-| Origen | Destino | Motivo |
-|---|---|---|
-| `propuestas/sintesis-abierta/2026-08-16_DELTA_PODER_TRAZABILIDAD_ESCRUTINIO_EVIDENCIA_ES_EN.md` | `./2026-08-16_C_NAX_26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md` | destino inexistente / missing target |
-| `propuestas/sintesis-abierta/2026-08-16_DELTA_PODER_TRAZABILIDAD_ESCRUTINIO_EVIDENCIA_ES_EN.md` | `./2026-08-16_C_NAX_26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md` | destino inexistente / missing target |
+- Ninguno detectado por el validador de rutas del repositorio.
 
 ## EN · Result
 
-- Active Markdown files reviewed: **373**.
+- Active Markdown files reviewed: **374**.
 - Historical Markdown files excluded from living-state health: **55**.
 - Legacy entry files excluded from living-state health: **0**.
 - Active README files reviewed: **17**.
-- Internal path links checked: **10526**.
+- Internal path links checked: **10534**.
 - GitHub Wiki extensionless page aliases recognised: **44**.
-- External links inventoried without checking remote availability: **1891**.
+- External links inventoried without checking remote availability: **1893**.
 - Anchor-only links detected: **420**.
 - Latest-manifesto blocks found in README files: **8**.
 - Legacy NEO_CURRENT_NAV blocks found in README files: **0**.
 - Redundant MANIFESTOS_CURRENT blocks found in README files: **0**.
 - Canonical manifestos detected: **77 · I–LXXVII**.
 - Latest manifesto / synthesis: **LXXVII / #154**.
-- Broken internal links in the living graph: **2**.
+- Broken internal links in the living graph: **0**.
 - Canonical critical failures: **0**.
 
 ### Canonical checks
@@ -72,9 +69,6 @@
 
 ### Broken internal links in the living graph
 
-| Source | Target | Reason |
-|---|---|---|
-| `propuestas/sintesis-abierta/2026-08-16_DELTA_PODER_TRAZABILIDAD_ESCRUTINIO_EVIDENCIA_ES_EN.md` | `./2026-08-16_C_NAX_26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md` | destino inexistente / missing target |
-| `propuestas/sintesis-abierta/2026-08-16_DELTA_PODER_TRAZABILIDAD_ESCRUTINIO_EVIDENCIA_ES_EN.md` | `./2026-08-16_C_NAX_26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md` | destino inexistente / missing target |
+- None detected by the repository route validator.
 
 **Innova_N · NEOCore™ · Neodialectica Framework™ / Network**
