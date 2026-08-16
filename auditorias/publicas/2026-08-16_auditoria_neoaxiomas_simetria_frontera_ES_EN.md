@@ -17,6 +17,7 @@
 
 ## Regla endurecida / Hardened rule
 
+- **Todo NAX canónico debe conservar formulación completa y añadir una capa pedagógica ES/EN simétrica sin sustituir el canon. / Every canonical NAX must preserve its complete formulation and add a symmetric ES/EN pedagogical layer without replacing the canon.**
 - **Una fila C-NAX sin formulación desarrollada ES/EN es fallo de integridad. / A C-NAX row without a developed ES/EN formulation is an integrity failure.**
 - **Todo C-NAX debe incluir lectura sencilla y ejemplo simétricos ES/EN, subordinados a la formulación formal. / Every C-NAX must include symmetric ES/EN plain-language reading and an example, subordinate to the formal formulation.**
 - **Un documento C-NAX dedicado ausente del registro central es fallo de frontera. / A dedicated C-NAX document missing from the central registry is an integrity failure.**

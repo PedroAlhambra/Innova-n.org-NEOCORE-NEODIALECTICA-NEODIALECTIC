@@ -414,6 +414,19 @@ SOSPECHA → CONDENA
 
 La Síntesis debe impedir ambas.
 
+## XVI. Relaciones canónicas
+
+- [LIII · Leónidas™](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
+- [LXXII · El Hombre Custodio™ / The Custodian Man™](../../manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md)
+- [LXXIV · Asimetría de la Destrucción™ / Asymmetry of Destruction™](../../manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md)
+- [LXXVII · Contra la Polarización Binaria y la Radicalización Recíproca™ / Against Binary Polarisation and Reciprocal Radicalisation™](../../manifiestos/77_polarizacion_binaria_radicalizacion_reciproca_fenomeno_narrativa_ES_EN.md)
+- [C-NAX-25 · Fenómeno ≠ Narrativa™ / Phenomenon ≠ Narrative™](./2026-08-16_C_NAX_25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md)
+- [C-NAX-26 · Poder ↑ → Trazabilidad ↑ · Acusación ↑ → Evidencia ↑ / Power ↑ → Traceability ↑ · Accusation ↑ → Evidence ↑](./2026-08-16_C_NAX_26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md)
+- [Síntesis C-NAX-26 · #156](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/156)
+- [Auditorías públicas / Public audits](../../auditorias/publicas/README.md)
+
+**PROPUESTA ABIERTA ≠ CANON / OPEN PROPOSAL ≠ CANON.**
+
 ---
 
 # EN · English
@@ -823,7 +836,7 @@ Synthesis must prevent both.
 
 ---
 
-## Relaciones canónicas / Canonical relations
+## XVI. Canonical relations
 
 - [LIII · Leónidas™](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
 - [LXXII · El Hombre Custodio™ / The Custodian Man™](../../manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md)

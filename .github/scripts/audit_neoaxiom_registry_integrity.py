@@ -49,6 +49,11 @@ def main():
             problems.append(f'NAX canónicos EN inesperados / unexpected canonical EN NAX: {en_ids}')
         if es_ids != en_ids:
             problems.append(f'IDs NAX ES/EN no coinciden / ES/EN NAX IDs differ: ES={es_ids} EN={en_ids}')
+        for n in range(1, 15):
+            es_mark = f'<!-- NAX-{n:02d}_ACCESS_ES_START -->'
+            en_mark = f'<!-- NAX-{n:02d}_ACCESS_EN_START -->'
+            if es_mark not in es_body or en_mark not in en_body:
+                problems.append(f'NAX-{n:02d} carece de capa pedagógica simétrica ES/EN / lacks symmetric ES/EN pedagogical layer')
 
     row_ids = [int(x) for x in re.findall(r'^\| \*\*C-NAX-(\d+) ·', block, re.M)]
     details = candidate_blocks(block)
@@ -138,6 +143,7 @@ def main():
         '',
         '## Regla endurecida / Hardened rule',
         '',
+        '- **Todo NAX canónico debe conservar formulación completa y añadir una capa pedagógica ES/EN simétrica sin sustituir el canon. / Every canonical NAX must preserve its complete formulation and add a symmetric ES/EN pedagogical layer without replacing the canon.**',
         '- **Una fila C-NAX sin formulación desarrollada ES/EN es fallo de integridad. / A C-NAX row without a developed ES/EN formulation is an integrity failure.**',
         '- **Todo C-NAX debe incluir lectura sencilla y ejemplo simétricos ES/EN, subordinados a la formulación formal. / Every C-NAX must include symmetric ES/EN plain-language reading and an example, subordinate to the formal formulation.**',
         '- **Un documento C-NAX dedicado ausente del registro central es fallo de frontera. / A dedicated C-NAX document missing from the central registry is an integrity failure.**',

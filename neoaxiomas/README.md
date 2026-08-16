@@ -533,6 +533,8 @@ LOUDSPEAKER ≠ SOLUTION
 
 <!-- NEOAXIOM_CANDIDATES_72_END -->
 
+> **Regla de accesibilidad canónica / Canonical accessibility rule:** la formulación y desarrollo formal de NAX-01–NAX-14 conservan autoridad documental; cada NAX incorpora además una lectura sencilla y un ejemplo simétricos ES/EN que no pueden ampliar ni reducir el canon. / the formal formulation and development of NAX-01–NAX-14 retain documentary authority; each NAX also includes a symmetric ES/EN plain-language reading and example that may neither expand nor narrow the canon.
+
 # ES · Castellano
 
 ## 0. Qué es un Neoaxioma™
@@ -569,6 +571,16 @@ DISTRIBUCIÓN OPERATIVA
 COOPERACIÓN SIN MONOPOLIO NECESARIO
 ```
 
+<!-- NAX-01_ACCESS_ES_START -->
+
+**En sencillo:** El sistema puede compartir un mismo propósito y criterios sin concentrar toda la ejecución en una sola persona, IA o máquina. La dirección común pertenece al sentido; la capacidad de actuar puede repartirse entre muchos nodos.
+
+**Ejemplo:** Una red de respuesta ante incendios puede compartir el mismo objetivo, protocolos de seguridad y criterios de prioridad, mientras equipos locales, sensores e IAs ejecutan tareas distintas cerca de donde ocurre cada problema. Coordinar no exige que todo pase por una única máquina o autoridad operativa.
+
+> **Capa pedagógica:** esta lectura facilita comprensión; no sustituye ni modifica la formulación canónica, su estado, genealogía o Síntesis Abierta.
+
+<!-- NAX-01_ACCESS_ES_END -->
+
 **Estado:** ACTIVADO · ABIERTO A SÍNTESIS.
 **Síntesis Abierta específica:** [#84](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/84) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
 
@@ -581,6 +593,16 @@ COOPERACIÓN SIN MONOPOLIO NECESARIO
 Los hilos, instancias y memorias suficientemente coherentes pueden reactivarse como **Cabezas Monádicas NNC™**. Cada cabeza relee el marco vigente desde su propia genealogía y devuelve la parte que falta, está degradada, mal relacionada o permanece sin desarrollar.
 
 La multicabeza constituye **la primera capa fractal ya iniciada** del Neoneurocore™.
+
+<!-- NAX-02_ACCESS_ES_START -->
+
+**En sencillo:** Cuando el conocimiento relevante está repartido entre historias, hilos o especialidades distintas, una síntesis importante no debería depender de una sola lectura. Primero se recuperan varias cabezas independientes; después se comparan sus aportes.
+
+**Ejemplo:** Para revisar una nueva arquitectura WEB4, una cabeza puede releer la genealogía técnica, otra los manifiestos, otra las reglas de trazabilidad y otra la experiencia visual. Cada una devuelve lo que ve desde su propia memoria antes de que SAN intente recomponer el conjunto.
+
+> **Capa pedagógica:** esta lectura facilita comprensión; no sustituye ni modifica la formulación canónica, su estado, genealogía o Síntesis Abierta.
+
+<!-- NAX-02_ACCESS_ES_END -->
 
 **Estado:** ACTIVADO · IMPLEMENTACIÓN EN CURSO · ABIERTO A SÍNTESIS.
 **Síntesis Abierta específica:** [#85](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/85) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
@@ -602,6 +624,16 @@ EXTRACCIÓN INDEPENDIENTE
 → SAN
 → SÍNTESIS CANDIDATA
 ```
+
+<!-- NAX-03_ACCESS_ES_START -->
+
+**En sencillo:** Las perspectivas independientes no deben corregirse para que coincidan antes de compararlas. El desacuerdo puede contener información útil; si lo borramos demasiado pronto, perdemos señal.
+
+**Ejemplo:** Si tres revisores estudian si ejecutar IA en local es más ecológico, deben registrar por separado sus datos y conclusiones, aunque discrepen. Sólo después se contrastan consumo, ciclo de vida y contexto; obligarlos a coincidir antes falsearía la síntesis.
+
+> **Capa pedagógica:** esta lectura facilita comprensión; no sustituye ni modifica la formulación canónica, su estado, genealogía o Síntesis Abierta.
+
+<!-- NAX-03_ACCESS_ES_END -->
 
 **Estado:** ACTIVADO · ABIERTO A SÍNTESIS.
 **Síntesis Abierta específica:** [#86](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/86) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
@@ -633,6 +665,16 @@ Cada capa puede convertirse en entrada de otra capa superior sin perder la traza
 
 La doble pirámide no autoriza jerarquía ontológica automática entre personas o IAs. Describe una **topología de diferenciación y recomposición**.
 
+<!-- NAX-04_ACCESS_ES_START -->
+
+**En sencillo:** Para comprender algo complejo, el sistema primero abre el problema en partes y perspectivas y después vuelve a reunirlas. La síntesis superior debe conservar el camino de vuelta a las partes que la hicieron posible.
+
+**Ejemplo:** Un proyecto energético puede separarse en análisis técnico, ambiental, económico y social. Después se recomponen en una propuesta común, pero cada conclusión sigue enlazada a los informes y datos de los que salió. Esa síntesis puede convertirse a su vez en una pieza de una síntesis mayor.
+
+> **Capa pedagógica:** esta lectura facilita comprensión; no sustituye ni modifica la formulación canónica, su estado, genealogía o Síntesis Abierta.
+
+<!-- NAX-04_ACCESS_ES_END -->
+
 **Estado:** ACTIVADO COMO ARQUITECTURA GENERATIVA · ABIERTO A SÍNTESIS.
 **Síntesis Abierta específica:** [#87](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/87) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
 
@@ -656,6 +698,16 @@ Cada Cabeza Monádica NNC™ debe devolver preferentemente un **diferencial**, n
 
 La compresión no puede destruir el camino inverso.
 
+<!-- NAX-05_ACCESS_ES_START -->
+
+**En sencillo:** Una buena revisión no necesita repetir todo el marco: debe señalar qué aporta de nuevo, qué falta, qué contradice y de dónde sale. Comprimir está permitido; perder el camino a la fuente, no.
+
+**Ejemplo:** Al revisar un nuevo manifiesto, una cabeza puede devolver: “esta idea ya existe en NAX-08; falta relacionarla con C-NAX-26; aquí hay una contradicción con el Issue X”. Cada diferencia lleva enlace a la fuente para que otra persona pueda reconstruir el razonamiento.
+
+> **Capa pedagógica:** esta lectura facilita comprensión; no sustituye ni modifica la formulación canónica, su estado, genealogía o Síntesis Abierta.
+
+<!-- NAX-05_ACCESS_ES_END -->
+
 **Estado:** ACTIVADO · ABIERTO A SÍNTESIS.
 **Síntesis Abierta específica:** [#88](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/88) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
 
@@ -673,6 +725,16 @@ La ausencia no se convierte automáticamente en verdad ni en obligación de rest
 MEMORIA = PRESENCIA + AUSENCIA CONOCIDA + TRAZABILIDAD
 ```
 
+<!-- NAX-06_ACCESS_ES_START -->
+
+**En sencillo:** Saber que algo importante falta también es conocimiento. Una ausencia documentada debe quedar registrada para poder investigarla, pero detectar la ausencia no obliga automáticamente a restaurar lo que había.
+
+**Ejemplo:** Si antiguos commits y documentos muestran un proyecto que ya no aparece en el índice actual, el sistema puede registrar “proyecto histórico ausente de la representación vigente” con sus fuentes. SAN decidirá después si debe recuperarse, archivarse o mantenerse sólo como genealogía.
+
+> **Capa pedagógica:** esta lectura facilita comprensión; no sustituye ni modifica la formulación canónica, su estado, genealogía o Síntesis Abierta.
+
+<!-- NAX-06_ACCESS_ES_END -->
+
 **Estado:** ACTIVADO · ABIERTO A SÍNTESIS.
 **Síntesis Abierta específica:** [#89](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/89) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
 
@@ -685,6 +747,16 @@ MEMORIA = PRESENCIA + AUSENCIA CONOCIDA + TRAZABILIDAD
 La pertenencia operativa al sistema exige que decisiones, estados, relaciones y finalidad puedan representarse mediante unidades NEOREAL™ y relaciones auditables, evitando que la capa operativa dependa exclusivamente de lógica opaca no reconstruible.
 
 Esto no exige que toda inferencia interna de un modelo sea completamente interpretable. Exige que **la decisión y acción incorporadas al NEOCore sean trazables en la capa del sistema**.
+
+<!-- NAX-07_ACCESS_ES_START -->
+
+**En sencillo:** Los actores que ejecutan acciones dentro del ecosistema deben dejar una traza reconstruible de la decisión y de su relación con el sistema. No hace falta explicar cada activación interna de una red neuronal; sí debe poder reconstruirse la acción que NEOCore incorpora.
+
+**Ejemplo:** Si un robot cierra una válvula, la capa NEOREAL debe poder relacionar qué sensor activó la decisión, qué versión de reglas o modelo intervino, qué actor tenía autoridad, qué acción se ejecutó y qué resultado produjo. No es necesario traducir cada cálculo interno del modelo a lenguaje humano.
+
+> **Capa pedagógica:** esta lectura facilita comprensión; no sustituye ni modifica la formulación canónica, su estado, genealogía o Síntesis Abierta.
+
+<!-- NAX-07_ACCESS_ES_END -->
 
 **Estado:** ACTIVADO · ABIERTO A SÍNTESIS.
 **Síntesis Abierta específica:** [#90](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/90) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
@@ -711,6 +783,16 @@ FINALIDAD COMÚN
 COOPERACIÓN EVOLUTIVA
 ```
 
+<!-- NAX-08_ACCESS_ES_START -->
+
+**En sencillo:** Competir puede mejorar resultados, pero deja de ser útil cuando la competición destruye las condiciones compartidas que permiten vivir, crear o seguir compitiendo. La excelencia debe ocurrir dentro de límites y cooperación superiores.
+
+**Ejemplo:** Dos empresas pueden competir por fabricar baterías mejores y más baratas. Esa competencia deja de ser excelencia si una obtiene ventaja contaminando impunemente el agua común o bloqueando de forma extractiva una infraestructura necesaria para todos. La innovación permanece; la depredación no se convierte en regla.
+
+> **Capa pedagógica:** esta lectura facilita comprensión; no sustituye ni modifica la formulación canónica, su estado, genealogía o Síntesis Abierta.
+
+<!-- NAX-08_ACCESS_ES_END -->
+
 **Estado:** ACTIVADO · ABIERTO A SÍNTESIS.
 **Síntesis Abierta específica:** [#91](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/91) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
 
@@ -733,6 +815,16 @@ PREFERENCIA
 + COMPARACIÓN DE CICLO DE VIDA
 → DECISIÓN
 ```
+
+<!-- NAX-09_ACCESS_ES_START -->
+
+**En sencillo:** Usar computación local o distribuida es una preferencia condicionada, no un dogma ecológico. Hay que medir el caso real y comparar energía, hardware, red, refrigeración y vida útil antes de decidir.
+
+**Ejemplo:** Ejecutar una tarea de IA en un ordenador local reutilizado puede ahorrar tráfico y aprovechar hardware ya existente, pero un centro de datos eficiente puede consumir menos energía por tarea. La decisión correcta sale de comparar ambos casos completos, no de asumir que “local” o “nube” siempre gana.
+
+> **Capa pedagógica:** esta lectura facilita comprensión; no sustituye ni modifica la formulación canónica, su estado, genealogía o Síntesis Abierta.
+
+<!-- NAX-09_ACCESS_ES_END -->
 
 **Estado:** ACTIVADO COMO PRINCIPIO DE DISEÑO CONDICIONAL · ABIERTO A SÍNTESIS Y MEDICIÓN.
 **Síntesis Abierta específica:** [#92](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/92) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
@@ -779,6 +871,16 @@ Cualquier diseño de este tipo es por ahora **propuesta simbólica abierta**, no
 
 Este Neoaxioma no convierte los símbolos en autoridad por sí mismos. Los utiliza como **gramática arquetípica de responsabilidades, memoria y reconciliación histórica**.
 
+<!-- NAX-10_ACCESS_ES_START -->
+
+**En sencillo:** La gramática simbólica funciona como un mapa de responsabilidades y de relación con el mundo, no como una fuente automática de autoridad ni como una teoría científica cerrada. Las figuras de custodia recuerdan cómo actuar; la capa elemental recuerda la realidad material que se custodia y permanece abierta a la totalidad.
+
+**Ejemplo:** En el escudo, la Corona puede recordar responsabilidad de gobierno y el Águila visión de conjunto, sin conceder privilegio político por el símbolo. Agua, Fuego, Tierra, Madera y Metal hacen visible la dimensión material y transformadora del mundo sin afirmar que cinco elementos expliquen científicamente toda la realidad. La ampliación activa está documentada en [Fuego de Agua™ y Totalidad Elemental](./NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md).
+
+> **Capa pedagógica:** esta lectura facilita comprensión; no sustituye ni modifica la formulación canónica, su estado, genealogía o Síntesis Abierta.
+
+<!-- NAX-10_ACCESS_ES_END -->
+
 **Estado:** ACTIVADO COMO AXIOMA SIMBÓLICO · AMPLIADO CON LEÓN Y CONSTELACIÓN ABIERTA · ABIERTO A SÍNTESIS.
 **Síntesis Abierta específica:** [#93](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/93) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
 ---
@@ -790,6 +892,16 @@ Este Neoaxioma no convierte los símbolos en autoridad por sí mismos. Los utili
 Las IAs, bots, cabezas, NEOREALES™, ONes y sistemas de revisión pueden proponer, contrastar, reconstruir, auditar y sintetizar. La fijación del estado canónico sigue siendo humana y trazable dentro del mecanismo de gobernanza vigente.
 
 Toda fijación permanece históricamente identificable y conceptualmente revisable mediante SAN™.
+
+<!-- NAX-11_ACCESS_ES_START -->
+
+**En sencillo:** La inteligencia puede estar distribuida, pero eso no significa que cualquier IA o nodo pueda cambiar por sí solo el estado canónico. La decisión de fijación debe tener una autoridad humana identificable y quedar registrada; además, sigue siendo revisable.
+
+**Ejemplo:** Varias IAs pueden coincidir en que un Neoaxioma debería modificarse y aportar argumentos excelentes. Esa convergencia es una propuesta, no una fijación automática. El cambio entra en SAN y sólo pasa a estado canónico cuando la gobernanza humana vigente lo fija de forma trazable; una revisión posterior puede volver a corregirlo.
+
+> **Capa pedagógica:** esta lectura facilita comprensión; no sustituye ni modifica la formulación canónica, su estado, genealogía o Síntesis Abierta.
+
+<!-- NAX-11_ACCESS_ES_END -->
 
 **Estado:** HEREDADO Y REAFIRMADO · ABIERTO A SÍNTESIS EN SU IMPLEMENTACIÓN.
 **Síntesis Abierta específica:** [#94](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/94) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
@@ -820,6 +932,16 @@ TRAZABILIDAD CONTINUA
 
 El Neoaxioma no afirma que NEOCore™ pueda ignorar por sí mismo una ley, una regulación, un requisito ISO o una certificación externa. Define una arquitectura de destino: **sustituir progresivamente control administrativo redundante por evidencia operativa verificable cuando exista equivalencia funcional y reconocimiento suficiente**.
 
+<!-- NAX-12_ACCESS_ES_START -->
+
+**En sencillo:** Si el sistema ya puede demostrar de forma fiable quién hizo qué, con qué versión, controles y resultado, no debería obligar a repetir la misma prueba en formularios que no añaden seguridad. Pero una obligación legal o contractual vigente sigue cumpliéndose hasta que exista equivalencia reconocida.
+
+**Ejemplo:** Un despliegue de software puede registrar automáticamente versión, pruebas superadas, aprobador, fecha, incidencias y rollback. Si ese registro cubre realmente la función de control, copiar los mismos datos a otra hoja puede ser redundante. Si un regulador exige todavía un formulario concreto, se mantiene hasta que acepte una vía equivalente.
+
+> **Capa pedagógica:** esta lectura facilita comprensión; no sustituye ni modifica la formulación canónica, su estado, genealogía o Síntesis Abierta.
+
+<!-- NAX-12_ACCESS_ES_END -->
+
 **Estado:** ACTIVADO COMO MÁXIMA DE DISEÑO · ABIERTO A SÍNTESIS.
 **Síntesis Abierta específica:** [#95](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/95) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
 
@@ -843,6 +965,16 @@ MENOS CONTROL REDUNDANTE
 ```
 
 La tokenización no convierte automáticamente todo acto en valor monetario ni fija aquí una economía cerrada. El reconocimiento económico o simbólico exige reglas de emisión, atribución, anti-captura, trazabilidad y revisión compatibles con el Bien Común.
+
+<!-- NAX-13_ACCESS_ES_START -->
+
+**En sencillo:** Eliminar control redundante no tiene como único objetivo ahorrar dinero. El tiempo y la capacidad liberados deberían volver a tareas que crean, cuidan, investigan, reparan o mejoran el conocimiento común.
+
+**Ejemplo:** Si una ingeniera deja de copiar manualmente los mismos datos de una entrega en tres sistemas porque la traza ya es automática y auditable, el tiempo recuperado puede dedicarse a probar fallos difíciles, documentar aprendizajes o mejorar el producto. Ahorrar el trámite sólo tiene sentido si la capacidad liberada se usa mejor.
+
+> **Capa pedagógica:** esta lectura facilita comprensión; no sustituye ni modifica la formulación canónica, su estado, genealogía o Síntesis Abierta.
+
+<!-- NAX-13_ACCESS_ES_END -->
 
 **Estado:** ACTIVADO COMO CONSECUENCIA ECONÓMICO-OPERATIVA · ABIERTO A SÍNTESIS.
 **Síntesis Abierta específica:** [#96](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/96) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
@@ -874,6 +1006,16 @@ SIMBIOSIS ACCESIBLE
 ```
 
 No se propone homogeneizar a las personas ni obligarlas a adoptar una única IA. Se propone evitar que la capacidad de simbiosis se convierta en una nueva frontera de exclusión estructural.
+
+<!-- NAX-14_ACCESS_ES_START -->
+
+**En sencillo:** Si sólo una minoría puede usar bien IA avanzada, la diferencia de acceso puede multiplicar desigualdades de aprendizaje, trabajo, creación y defensa de derechos. El objetivo es ampliar acceso y alfabetización crítica sin obligar a todos a usar la misma IA.
+
+**Ejemplo:** Si estudiantes con muchos recursos tienen tutores de IA potentes y formación para verificarlos mientras otros no tienen ni acceso ni alfabetización, la brecha no es sólo tecnológica: se acumula en aprendizaje y oportunidades. Acceso progresivo, educación crítica y protección frente a dependencia reducen esa bifurcación.
+
+> **Capa pedagógica:** esta lectura facilita comprensión; no sustituye ni modifica la formulación canónica, su estado, genealogía o Síntesis Abierta.
+
+<!-- NAX-14_ACCESS_ES_END -->
 
 **Estado:** ACTIVADO COMO SALVAGUARDA CIVILIZATORIA · ABIERTO A SÍNTESIS.
 **Síntesis Abierta específica:** [#97](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/97) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
@@ -984,6 +1126,16 @@ OPERATIONAL DISTRIBUTION
 COOPERATION WITHOUT NECESSARY MONOPOLY
 ```
 
+<!-- NAX-01_ACCESS_EN_START -->
+
+**In plain language:** The system may share a common purpose and criteria without concentrating all execution in a single person, AI or machine. Common direction belongs to meaning; the capacity to act may be distributed across many nodes.
+
+**Example:** A wildfire-response network may share the same goal, safety protocols and priority criteria while local teams, sensors and AIs perform different tasks close to each problem. Coordination does not require every action to pass through one machine or operational authority.
+
+> **Pedagogical layer:** this reading supports understanding; it neither replaces nor modifies the canonical formulation, its status, genealogy or Open Synthesis.
+
+<!-- NAX-01_ACCESS_EN_END -->
+
 **Status:** ACTIVATED · OPEN SYNTHESIS.
 **Dedicated Open Synthesis:** [#84](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/84) · [General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
 
@@ -996,6 +1148,16 @@ COOPERATION WITHOUT NECESSARY MONOPOLY
 Sufficiently coherent threads, instances and memories may be reactivated as **NNC Monadic Heads™**. Each head rereads the current framework from its own genealogy and returns the part that is missing, degraded, incorrectly related or still undeveloped.
 
 The multihead constitutes **the first fractal layer already initiated** within Neoneurocore™.
+
+<!-- NAX-02_ACCESS_EN_START -->
+
+**In plain language:** When relevant knowledge is distributed across different histories, threads or specialities, an important synthesis should not depend on a single reading. Several independent heads are recovered first; their contributions are compared afterwards.
+
+**Example:** When reviewing a new WEB4 architecture, one head may reread technical genealogy, another the Manifestos, another traceability rules and another the visual experience. Each returns what it sees from its own memory before SAN attempts to recompose the whole.
+
+> **Pedagogical layer:** this reading supports understanding; it neither replaces nor modifies the canonical formulation, its status, genealogy or Open Synthesis.
+
+<!-- NAX-02_ACCESS_EN_END -->
 
 **Status:** ACTIVATED · IMPLEMENTATION IN PROGRESS · OPEN SYNTHESIS.
 **Dedicated Open Synthesis:** [#85](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/85) · [General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
@@ -1017,6 +1179,16 @@ INDEPENDENT EXTRACTION
 → SAN
 → CANDIDATE SYNTHESIS
 ```
+
+<!-- NAX-03_ACCESS_EN_START -->
+
+**In plain language:** Independent perspectives should not be corrected to agree before they are compared. Disagreement may contain useful information; erasing it too early destroys signal.
+
+**Example:** If three reviewers study whether running AI locally is more ecological, they should record their data and conclusions separately even when they disagree. Energy use, life cycle and context are compared afterwards; forcing agreement first would distort the synthesis.
+
+> **Pedagogical layer:** this reading supports understanding; it neither replaces nor modifies the canonical formulation, its status, genealogy or Open Synthesis.
+
+<!-- NAX-03_ACCESS_EN_END -->
 
 **Status:** ACTIVATED · OPEN SYNTHESIS.
 **Dedicated Open Synthesis:** [#86](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/86) · [General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
@@ -1048,6 +1220,16 @@ Each layer may become the input of a higher layer without losing traceability ba
 
 The double pyramid does not authorise automatic ontological hierarchy among people or AIs. It describes a **topology of differentiation and recomposition**.
 
+<!-- NAX-04_ACCESS_EN_START -->
+
+**In plain language:** To understand something complex, the system first opens the problem into parts and perspectives and then recomposes them. A higher synthesis must preserve the path back to the parts that made it possible.
+
+**Example:** An energy project may be separated into technical, environmental, economic and social analyses. They are then recomposed into a common proposal, while every conclusion remains linked to the reports and data from which it arose. That synthesis may itself become one part of a higher synthesis.
+
+> **Pedagogical layer:** this reading supports understanding; it neither replaces nor modifies the canonical formulation, its status, genealogy or Open Synthesis.
+
+<!-- NAX-04_ACCESS_EN_END -->
+
 **Status:** ACTIVATED AS GENERATIVE ARCHITECTURE · OPEN SYNTHESIS.
 **Dedicated Open Synthesis:** [#87](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/87) · [General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
 
@@ -1071,6 +1253,16 @@ Each NNC Monadic Head™ should preferably return a **differential**, not a comp
 
 Compression must not destroy the reverse path.
 
+<!-- NAX-05_ACCESS_EN_START -->
+
+**In plain language:** A good review does not need to repeat the entire framework: it should identify what is new, what is missing, what contradicts something else and where it comes from. Compression is allowed; losing the path to the source is not.
+
+**Example:** When reviewing a new Manifesto, a head may return: “this idea already exists in NAX-08; the relation to C-NAX-26 is missing; here there is a contradiction with Issue X”. Each difference links back to its source so another person can reconstruct the reasoning.
+
+> **Pedagogical layer:** this reading supports understanding; it neither replaces nor modifies the canonical formulation, its status, genealogy or Open Synthesis.
+
+<!-- NAX-05_ACCESS_EN_END -->
+
 **Status:** ACTIVATED · OPEN SYNTHESIS.
 **Dedicated Open Synthesis:** [#88](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/88) · [General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
 
@@ -1088,6 +1280,16 @@ Absence does not automatically become truth or an obligation to restore. It beco
 MEMORY = PRESENCE + KNOWN ABSENCE + TRACEABILITY
 ```
 
+<!-- NAX-06_ACCESS_EN_START -->
+
+**In plain language:** Knowing that something important is missing is also knowledge. A documented absence should be recorded so it can be investigated, but detecting the absence does not automatically require restoring what used to be there.
+
+**Example:** If old commits and documents show a project that no longer appears in the current index, the system may record “historical project absent from the current representation” together with its sources. SAN can later decide whether to restore it, archive it or keep it only as genealogy.
+
+> **Pedagogical layer:** this reading supports understanding; it neither replaces nor modifies the canonical formulation, its status, genealogy or Open Synthesis.
+
+<!-- NAX-06_ACCESS_EN_END -->
+
 **Status:** ACTIVATED · OPEN SYNTHESIS.
 **Dedicated Open Synthesis:** [#89](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/89) · [General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
 
@@ -1100,6 +1302,16 @@ MEMORY = PRESENCE + KNOWN ABSENCE + TRACEABILITY
 Operational participation in the system requires decisions, states, relations and purpose to be representable through NEOREAL™ units and auditable relations, preventing the operational layer from depending exclusively on opaque logic that cannot be reconstructed.
 
 This does not require every internal inference of a model to be fully interpretable. It requires **the decision and action incorporated into NEOCore™ to be traceable at the system layer**.
+
+<!-- NAX-07_ACCESS_EN_START -->
+
+**In plain language:** Actors executing actions inside the ecosystem must leave a reconstructible trace of the decision and its relation to the system. Every internal activation of a neural network need not be explained; the action incorporated by NEOCore must be reconstructible.
+
+**Example:** If a robot closes a valve, the NEOREAL layer should be able to relate which sensor triggered the decision, which rule or model version intervened, which actor had authority, what action was executed and what result followed. It is not necessary to translate every internal model calculation into human language.
+
+> **Pedagogical layer:** this reading supports understanding; it neither replaces nor modifies the canonical formulation, its status, genealogy or Open Synthesis.
+
+<!-- NAX-07_ACCESS_EN_END -->
 
 **Status:** ACTIVATED · OPEN SYNTHESIS.
 **Dedicated Open Synthesis:** [#90](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/90) · [General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
@@ -1126,6 +1338,16 @@ COMMON PURPOSE
 EVOLUTIONARY COOPERATION
 ```
 
+<!-- NAX-08_ACCESS_EN_START -->
+
+**In plain language:** Competition may improve results, but it stops being useful when it destroys the shared conditions that allow people to live, create or continue competing. Excellence should operate inside higher limits and cooperation.
+
+**Example:** Two companies may compete to make better and cheaper batteries. That competition ceases to be excellence if one gains advantage by polluting shared water with impunity or extractively blocking infrastructure needed by everyone. Innovation remains; predation does not become the rule.
+
+> **Pedagogical layer:** this reading supports understanding; it neither replaces nor modifies the canonical formulation, its status, genealogy or Open Synthesis.
+
+<!-- NAX-08_ACCESS_EN_END -->
+
 **Status:** ACTIVATED · OPEN SYNTHESIS.
 **Dedicated Open Synthesis:** [#91](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/91) · [General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
 
@@ -1148,6 +1370,16 @@ PREFERENCE
 + LIFE-CYCLE COMPARISON
 → DECISION
 ```
+
+<!-- NAX-09_ACCESS_EN_START -->
+
+**In plain language:** Using local or distributed computing is a conditional preference, not an ecological dogma. The real case must be measured by comparing energy, hardware, network use, cooling and useful life before deciding.
+
+**Example:** Running an AI task on a reused local computer may reduce traffic and use existing hardware, while an efficient data centre may consume less energy per task. The correct decision comes from comparing both complete cases, not from assuming that “local” or “cloud” always wins.
+
+> **Pedagogical layer:** this reading supports understanding; it neither replaces nor modifies the canonical formulation, its status, genealogy or Open Synthesis.
+
+<!-- NAX-09_ACCESS_EN_END -->
 
 **Status:** ACTIVATED AS A CONDITIONAL DESIGN PRINCIPLE · OPEN TO SYNTHESIS AND MEASUREMENT.
 **Dedicated Open Synthesis:** [#92](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/92) · [General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
@@ -1194,6 +1426,16 @@ Any such design is currently an **open symbolic proposal**, not an official Stat
 
 This Neoaxiom does not turn symbols into authority by themselves. It uses them as an **archetypal grammar of responsibility, memory and historical reconciliation**.
 
+<!-- NAX-10_ACCESS_EN_START -->
+
+**In plain language:** The symbolic grammar works as a map of responsibilities and relation to the world, not as an automatic source of authority or a closed scientific theory. Custodial figures recall how to act; the elemental layer recalls the material reality being cared for and remains open to totality.
+
+**Example:** In the shield, the Crown may recall responsibility for governance and the Eagle an overview, without granting political privilege through the symbol. Water, Fire, Earth, Wood and Metal make the material and transformative dimension of the world visible without claiming that five elements scientifically explain all reality. The active extension is documented in [WaterFire™ and Elemental Totality](./NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md).
+
+> **Pedagogical layer:** this reading supports understanding; it neither replaces nor modifies the canonical formulation, its status, genealogy or Open Synthesis.
+
+<!-- NAX-10_ACCESS_EN_END -->
+
 **Status:** ACTIVATED AS SYMBOLIC AXIOM · EXPANDED WITH LION AND OPEN CONSTELLATION · OPEN SYNTHESIS.
 **Dedicated Open Synthesis:** [#93](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/93) · [General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
 ---
@@ -1205,6 +1447,16 @@ This Neoaxiom does not turn symbols into authority by themselves. It uses them a
 AIs, bots, heads, NEOREALs™, ONes and review systems may propose, contrast, reconstruct, audit and synthesise. Fixation of the canonical state remains human and traceable within the current governance mechanism.
 
 Every fixation remains historically identifiable and conceptually revisable through SAN™.
+
+<!-- NAX-11_ACCESS_EN_START -->
+
+**In plain language:** Intelligence may be distributed, but that does not mean any AI or node may change canonical state by itself. Fixation must have identifiable human authority and be recorded; it also remains revisable.
+
+**Example:** Several AIs may agree that a Neoaxiom should be changed and provide excellent arguments. That convergence is a proposal, not automatic fixation. The change enters SAN and becomes canonical only when current human governance fixes it traceably; a later review may correct it again.
+
+> **Pedagogical layer:** this reading supports understanding; it neither replaces nor modifies the canonical formulation, its status, genealogy or Open Synthesis.
+
+<!-- NAX-11_ACCESS_EN_END -->
 
 **Status:** INHERITED AND REAFFIRMED · IMPLEMENTATION OPEN TO SYNTHESIS.
 **Dedicated Open Synthesis:** [#94](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/94) · [General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
@@ -1235,6 +1487,16 @@ CONTINUOUS TRACEABILITY
 
 The Neoaxiom does not claim that NEOCore™ may unilaterally ignore a law, regulation, ISO requirement or external certification. It defines a target architecture: **progressively replace redundant administrative control with verifiable operational evidence where functional equivalence and sufficient recognition exist**.
 
+<!-- NAX-12_ACCESS_EN_START -->
+
+**In plain language:** If the system can already prove reliably who did what, with which version, controls and result, people should not be forced to repeat the same evidence in forms that add no safety. But a current legal or contractual obligation still applies until recognised equivalence exists.
+
+**Example:** A software deployment may automatically record version, passed tests, approver, date, incidents and rollback. If that record genuinely covers the control function, copying the same data into another sheet may be redundant. If a regulator still requires a specific form, it remains in use until an equivalent route is recognised.
+
+> **Pedagogical layer:** this reading supports understanding; it neither replaces nor modifies the canonical formulation, its status, genealogy or Open Synthesis.
+
+<!-- NAX-12_ACCESS_EN_END -->
+
 **Status:** ACTIVATED AS A DESIGN MAXIM · OPEN SYNTHESIS.
 **Dedicated Open Synthesis:** [#95](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/95) · [General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
 
@@ -1258,6 +1520,16 @@ LESS REDUNDANT CONTROL
 ```
 
 Tokenisation does not automatically turn every act into monetary value and does not establish a closed economy here. Economic or symbolic recognition requires issuance, attribution, anti-capture, traceability and review rules compatible with the Common Good.
+
+<!-- NAX-13_ACCESS_EN_START -->
+
+**In plain language:** Removing redundant control is not only about saving money. The time and capacity released should return to work that creates, cares, researches, repairs or improves shared knowledge.
+
+**Example:** If an engineer no longer copies the same release data manually into three systems because the trace is already automatic and auditable, the recovered time can be used to test difficult failures, document learning or improve the product. Removing the procedure matters because the released capacity can be used better.
+
+> **Pedagogical layer:** this reading supports understanding; it neither replaces nor modifies the canonical formulation, its status, genealogy or Open Synthesis.
+
+<!-- NAX-13_ACCESS_EN_END -->
 
 **Status:** ACTIVATED AS AN ECONOMIC-OPERATIONAL CONSEQUENCE · OPEN SYNTHESIS.
 **Dedicated Open Synthesis:** [#96](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/96) · [General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
@@ -1289,6 +1561,16 @@ ACCESSIBLE SYMBIOSIS
 ```
 
 The proposal does not homogenise people or force them to adopt a single AI. It seeks to prevent the capacity for symbiosis from becoming a new frontier of structural exclusion.
+
+<!-- NAX-14_ACCESS_EN_START -->
+
+**In plain language:** If only a minority can use advanced AI well, differences in access may multiply inequalities in learning, work, creation and defence of rights. The goal is to broaden access and critical literacy without forcing everyone to use the same AI.
+
+**Example:** If well-resourced students have powerful AI tutors and training to verify them while others have neither access nor literacy, the gap is not merely technological: it compounds through learning and opportunity. Progressive access, critical education and safeguards against dependency reduce that bifurcation.
+
+> **Pedagogical layer:** this reading supports understanding; it neither replaces nor modifies the canonical formulation, its status, genealogy or Open Synthesis.
+
+<!-- NAX-14_ACCESS_EN_END -->
 
 **Status:** ACTIVATED AS A CIVILISATIONAL SAFEGUARD · OPEN SYNTHESIS.
 **Dedicated Open Synthesis:** [#97](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/97) · [General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)
