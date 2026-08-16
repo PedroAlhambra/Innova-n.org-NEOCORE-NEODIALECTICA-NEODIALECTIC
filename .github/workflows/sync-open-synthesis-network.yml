@@ -28,6 +28,7 @@ on:
       - '.github/scripts/sync_manifesto_crossrefs.py'
       - '.github/scripts/sync_relations_frontier.py'
       - '.github/scripts/sync_relations_lxxv.py'
+      - '.github/scripts/sync_relations_latest_frontier.py'
       - '.github/scripts/audit_es_en_parity.py'
       - '.github/scripts/audit_markdown_links_readmes.py'
       - '.github/scripts/audit_manifesto_bilingual_structure.py'
@@ -71,6 +72,7 @@ jobs:
         run: |
           python .github/scripts/sync_relations_frontier.py
           python .github/scripts/sync_relations_lxxv.py
+          python .github/scripts/sync_relations_latest_frontier.py
       - name: Generate canonical manifesto representations
         run: python .github/scripts/sync_canonical_manifestos.py
       - name: Synchronize manifesto cross-references
@@ -108,6 +110,7 @@ jobs:
           import json
           registry=json.loads(Path('manifiestos/CANONICAL_FILENAMES.json').read_text(encoding='utf-8'))['entries']
           n=len(registry)
+          latest=max(registry, key=lambda r: sum({'I':1,'V':5,'X':10,'L':50,'C':100,'D':500,'M':1000}.get(ch,0) for ch in r))
           reg=Path('auditorias/publicas/2026-08-12_auditoria_registro_canonico_manifiestos_ES_EN.md').read_text(encoding='utf-8')
           if f'**Entradas canónicas / Canonical entries:** {n}' not in reg or '**Problemas / Problems:** 0' not in reg:
               raise SystemExit('Manifesto registry is incomplete or inconsistent; publish aborted.')
@@ -136,12 +139,16 @@ jobs:
           missing=[x for x in required if x not in rel]
           if missing:
               raise SystemExit('Relational audit is incomplete: '+repr(missing))
+          applied=Path('manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md').read_text(encoding='utf-8')
+          if f'{n} manifiestos finitos' not in applied or f'{n} finite manifestos' not in applied:
+              raise SystemExit('Applied-work relational map inventory is stale; publish aborted.')
           print(f'MANIFESTO_REGISTRY=OK ({n})')
           print('NEOAXIOM_REGISTRY=OK')
           print('DOCUMENTARY_GRAPH=OK')
           print('MATERIAL_PARITY=OK')
           print('BILINGUAL_STRUCTURE=OK')
           print('RELATIONAL_GRAPH=OK')
+          print('APPLIED_RELATIONAL_FRONTIER=OK')
           PY
       - name: Commit synchronized network if needed
         run: |
