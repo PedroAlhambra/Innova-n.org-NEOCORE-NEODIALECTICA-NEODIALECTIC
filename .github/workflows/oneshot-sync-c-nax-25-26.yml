@@ -1,0 +1,61 @@
+name: one-shot-sync-c-nax-25-26
+
+on:
+  push:
+    paths:
+      - '.github/workflows/oneshot-sync-c-nax-25-26.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: neocore-document-sync-main
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Synchronize neoaxiomatic candidates
+        run: |
+          python .github/scripts/sync_neoaxiom_candidates.py
+          python .github/scripts/sync_root_navigation.py
+          python .github/scripts/audit_es_en_parity.py
+          python .github/scripts/audit_manifesto_bilingual_structure.py
+          python .github/scripts/audit_relations_neocore.py
+          python .github/scripts/audit_markdown_links_readmes.py
+
+      - name: Enforce candidate and documentary health
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          neo=Path('neoaxiomas/README.md').read_text(encoding='utf-8')
+          for token in ['C-NAX-25', 'C-NAX-26', '#155', '#156']:
+              if token not in neo:
+                  raise SystemExit(f'missing neoaxiom registry token: {token}')
+          parity=Path('auditorias/publicas/2026-08-09_auditoria_paridad_ES_EN_manifiestos_articulos.md').read_text(encoding='utf-8')
+          if '**Recortes/materialmente asimétricos para revisión:** 0' not in parity or '**Con marcador incompleto/ausente:** 0' not in parity:
+              raise SystemExit('material ES/EN parity failed')
+          links=Path('auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md').read_text(encoding='utf-8')
+          if '**Estado / Status:** **OK**' not in links:
+              raise SystemExit('documentary links failed')
+          print('C_NAX_25_26_REGISTRY=OK')
+          print('MATERIAL_PARITY=OK')
+          print('DOCUMENTARY_GRAPH=OK')
+          PY
+
+      - name: Commit synchronized registry and remove one-shot
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git rm .github/workflows/oneshot-sync-c-nax-25-26.yml
+          git add -A
+          git commit -m 'docs: synchronize C-NAX-25 and C-NAX-26 registry'
+          git pull --rebase origin main
+          git push origin main
