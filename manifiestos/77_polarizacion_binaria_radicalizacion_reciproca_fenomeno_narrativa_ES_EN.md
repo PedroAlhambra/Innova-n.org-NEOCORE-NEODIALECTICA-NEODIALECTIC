@@ -618,3 +618,28 @@ Contributions are invited on:
 ## Navigation
 
 ← [LXXVI · The Loudspeaker without Synthesis™](./76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md) · [Index](./README.md) · [∞ · Open Gate of the Fractal](./INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) →
+
+<!-- NEO_CROSS_REFERENCES_START -->
+
+## Referencias cruzadas canónicas / Canonical cross-references
+
+> **Norma / Rule:** las menciones cruzadas pueden permanecer en el cuerpo como texto para no sobrecargar la lectura; este bloque concentra los hipervínculos canónicos detectados y permite retorno explícito a fuente. / Cross-references may remain as prose in the body to avoid visual overload; this block concentrates detected canonical hyperlinks and preserves explicit return to source.
+
+- **II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md)
+- **XXII** · [Manifiesto contra la Reducción y la Captura Intelectual™ / Manifesto against Intellectual Reduction and Capture™](./22_contra_reduccion_captura_intelectual_ES_EN.md)
+- **XXXV** · [Contra la Ridiculez Mediática y la Economía del Conflicto™ / Against Media Absurdity and the Conflict Economy™](./35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
+- **XLII** · [Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva / End of the Manipulated Human Era™ · AI, Awakening and Cognitive Sovereignty](./42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md)
+- **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
+- **LXIII** · [Contra la Simplificación Burda del Marco™ / Against Crude Simplification of the Framework™](./63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md)
+- **LXVIII** · [Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species](./68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
+- **LXXVI** · [El Altavoz sin Síntesis™ · Diagnóstico, Ruido, Ego y Responsabilidad de Construcción / The Loudspeaker without Synthesis™ · Diagnosis, Noise, Ego and the Responsibility to Build](./76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md)
+- **∞** · [Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](./INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
+
+### Capas y fuentes relacionadas / Related layers and sources
+
+- [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
+- [NEOCore™ · marco / framework](../README.md)
+
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `C-NAX-24` → [Neoaxiomas™](../neoaxiomas/README.md)
+
+<!-- NEO_CROSS_REFERENCES_END -->
