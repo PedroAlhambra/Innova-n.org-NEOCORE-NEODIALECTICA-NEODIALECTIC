@@ -12,6 +12,7 @@ on:
       - 'neoaxiomas/README.md'
       - 'propuestas/sintesis-abierta/README.md'
       - 'propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md'
+      - 'propuestas/sintesis-abierta/*C_NAX_*_ES_EN.md'
       - '.github/workflows/sync-open-synthesis-network.yml'
       - '.github/scripts/register_manifesto_frontier.py'
       - '.github/scripts/register_manifestos_LXIII_LXVI.py'
@@ -31,6 +32,7 @@ on:
       - '.github/scripts/audit_manifesto_bilingual_structure.py'
       - '.github/scripts/audit_manifesto_registry_completeness.py'
       - '.github/scripts/audit_relations_neocore.py'
+      - '.github/scripts/audit_neoaxiom_registry_integrity.py'
 
 permissions:
   contents: write
@@ -80,6 +82,8 @@ jobs:
         run: python .github/scripts/audit_es_en_parity.py
       - name: Audit bilingual manifesto structure
         run: python .github/scripts/audit_manifesto_bilingual_structure.py
+      - name: Audit Neoaxiom registry integrity
+        run: python .github/scripts/audit_neoaxiom_registry_integrity.py
       - name: Audit relational graph and Neoaxiom synthesis coverage
         run: python .github/scripts/audit_relations_neocore.py
       - name: Audit generated documentary graph
@@ -88,6 +92,8 @@ jobs:
         run: |
           echo '--- REGISTRY AUDIT ---'
           cat auditorias/publicas/2026-08-12_auditoria_registro_canonico_manifiestos_ES_EN.md
+          echo '--- NEOAXIOM AUDIT ---'
+          cat auditorias/publicas/2026-08-16_auditoria_neoaxiomas_simetria_frontera_ES_EN.md
           echo '--- LINK AUDIT ---'
           head -n 45 auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md
           echo '--- STRUCTURE AUDIT ---'
@@ -104,6 +110,9 @@ jobs:
           reg=Path('auditorias/publicas/2026-08-12_auditoria_registro_canonico_manifiestos_ES_EN.md').read_text(encoding='utf-8')
           if f'**Entradas canónicas / Canonical entries:** {n}' not in reg or '**Problemas / Problems:** 0' not in reg:
               raise SystemExit('Manifesto registry is incomplete or inconsistent; publish aborted.')
+          neo=Path('auditorias/publicas/2026-08-16_auditoria_neoaxiomas_simetria_frontera_ES_EN.md').read_text(encoding='utf-8')
+          if '**Estado / Status:** **OK**' not in neo:
+              raise SystemExit('Neoaxiom registry integrity is not healthy; publish aborted.')
           links=Path('auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md').read_text(encoding='utf-8')
           if '**Estado / Status:** **OK**' not in links:
               raise SystemExit('Generated documentary graph is not healthy; publish aborted.')
@@ -127,6 +136,7 @@ jobs:
           if missing:
               raise SystemExit('Relational audit is incomplete: '+repr(missing))
           print(f'MANIFESTO_REGISTRY=OK ({n})')
+          print('NEOAXIOM_REGISTRY=OK')
           print('DOCUMENTARY_GRAPH=OK')
           print('MATERIAL_PARITY=OK')
           print('BILINGUAL_STRUCTURE=OK')
