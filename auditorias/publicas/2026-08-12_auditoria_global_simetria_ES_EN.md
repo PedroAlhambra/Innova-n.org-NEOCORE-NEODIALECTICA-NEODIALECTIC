@@ -9,16 +9,13 @@
 
 - Markdown activo examinado / Active Markdown scanned: **289**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **226**.
-- Fallos estructurales divididos / Split structural failures: **5**.
+- Fallos estructurales divididos / Split structural failures: **4**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
 
-- `propuestas/sintesis-abierta/2026-08-15_C_NAX_23_CONSERVACION_FRACTAL_COMUN_ES_EN.md` · ES=87 · EN=324 · ratio=3.72
-  - volumen EN/ES=3.72 (324/87)
-  - esqueleto de encabezados distinto ES=[] EN=[(2, ''), (3, ''), (3, ''), (3, ''), (3, '')]
 - `propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md` · ES=49 · EN=269 · ratio=5.49
   - esqueleto de encabezados distinto ES=[] EN=[(2, ''), (3, ''), (3, ''), (3, ''), (3, '')]
 - `propuestas/sintesis-abierta/2026-08-16_C_NAX_25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md` · ES=125 · EN=403 · ratio=3.22
@@ -250,7 +247,7 @@
 | `propuestas/sintesis-abierta/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-11_DELTA_HUMANIDAD_COMUN_MADURACION_INVERTIDA_TROL_BOT_MAL_SISTEMICO_ES_EN.md` | **OK** |  |
-| `propuestas/sintesis-abierta/2026-08-15_C_NAX_23_CONSERVACION_FRACTAL_COMUN_ES_EN.md` | **REVISAR** | volumen EN/ES=3.72 (324/87); esqueleto de encabezados distinto ES=[] EN=[(2, ''), (3, ''), (3, ''), (3, ''), (3, '')] |
+| `propuestas/sintesis-abierta/2026-08-15_C_NAX_23_CONSERVACION_FRACTAL_COMUN_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[] EN=[(2, ''), (3, ''), (3, ''), (3, ''), (3, '')] |
 | `propuestas/sintesis-abierta/2026-08-15_DELTA_NEOMANTIS_ASIMETRIA_INVERTIDA_DIGNIDAD_RECIPROCA_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-16_C_NAX_25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md` | **REVISAR** | volumen EN/ES=3.22 (403/125); esqueleto de encabezados distinto ES=[(3, '')] EN=[(3, ''), (2, ''), (3, ''), (3, ''), (3, ''), (3, '')] |
