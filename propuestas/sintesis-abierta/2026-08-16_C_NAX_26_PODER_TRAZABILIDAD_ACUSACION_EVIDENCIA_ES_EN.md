@@ -62,6 +62,33 @@ Este candidato no autoriza persecución por riqueza, cargo, ideología, origen o
 
 Tampoco permite convertir privacidad legítima en sospecha automática. La trazabilidad exigible debe referirse a la dimensión funcional del poder que afecta al espacio común y conservar límites proporcionales de privacidad, seguridad y derechos.
 
+<!-- C-NAX-26_ACCESS_ES_START -->
+### En sencillo
+
+Cuanto más poder tiene una persona, empresa, institución o sistema para afectar a los demás, más fácil debería ser reconstruir **qué hizo con ese poder, por qué y con qué consecuencias**. Pero eso no convierte a quien tiene poder en culpable por anticipado. Del otro lado, una sospecha puede justificar una pregunta o una investigación; no basta para presentar una acusación grave como un hecho probado.
+
+Las dos proporcionalidades deben crecer a la vez: **más poder exige más trazabilidad; más gravedad en la acusación exige más evidencia**.
+
+### Ejemplo
+
+Si una empresa controla una infraestructura crítica —por ejemplo, una red de comunicaciones de la que dependen millones de personas—, sus decisiones que afectan al servicio común deben ser especialmente auditables: cambios, responsables, conflictos de interés y consecuencias deberían poder reconstruirse de forma proporcionada.
+
+Ahora bien, si alguien afirma que esa empresa manipuló deliberadamente la red para perjudicar a un grupo, la existencia de mucho poder o de una relación de interés no demuestra por sí sola esa acusación. Puede justificar escrutinio; para afirmar coordinación o responsabilidad hacen falta pruebas adicionales.
+
+```text
+CONTROL DE INFRAESTRUCTURA CRÍTICA
+→ ALTA EXIGENCIA DE TRAZABILIDAD
+≠ CULPABILIDAD AUTOMÁTICA
+
+ACUSACIÓN DE MANIPULACIÓN DELIBERADA
+→ ALTA EXIGENCIA DE EVIDENCIA
+
+INVESTIGAR ≠ CONDENAR
+```
+
+> **Capa pedagógica:** esta explicación y el ejemplo facilitan la lectura; no sustituyen ni modifican la formulación candidata, su procedencia o su Síntesis Abierta.
+<!-- C-NAX-26_ACCESS_ES_END -->
+
 ## EN
 
 > **The greater a node's effective capacity to alter the common space, the greater the proportional requirement for traceability, auditability and responsibility over the exercise of that power. The greater the seriousness of an accusation against a person or organisation, the greater the proportional evidentiary requirement before treating it as a conclusion. Power does not imply guilt, but neither should it buy opacity; suspicion does not imply truth, but neither should it be barred from investigation.**
@@ -118,29 +145,32 @@ This candidate does not authorise persecution based on wealth, office, ideology,
 
 Nor does it allow legitimate privacy to be turned into automatic suspicion. Required traceability should refer to the functional dimension of power affecting the common space and preserve proportional limits of privacy, security and rights.
 
-<!-- C-NAX-26_ACCESS_START -->
+<!-- C-NAX-26_ACCESS_EN_START -->
+### In plain language
 
-## Lectura sencilla y ejemplo / Plain-language reading and example
+The more power a person, company, institution or system has to affect others, the easier it should be to reconstruct **what it did with that power, why, and with what consequences**. But holding power does not make someone guilty in advance. On the other side, a suspicion may justify a question or investigation; it is not enough to present a serious accusation as established fact.
 
-### ES · En sencillo
+Both proportionalities must increase together: **more power requires more traceability; a more serious accusation requires more evidence**.
 
-Cuanto más poder tiene alguien para afectar a los demás, más trazable debería ser el uso de ese poder. Y cuanto más grave es una acusación, más evidencia hace falta antes de tratarla como un hecho. Las dos reglas protegen a la vez al espacio común y a quien es investigado.
+### Example
 
-### ES · Ejemplo
+If a company controls critical infrastructure —for example, a communications network on which millions of people depend— its decisions affecting the shared service should be especially auditable: changes, responsible actors, conflicts of interest and consequences should be reconstructible in a proportionate way.
 
-Si una empresa controla una infraestructura crítica, las decisiones que afectan al servicio común deben ser especialmente auditables. Si después se la acusa de manipular deliberadamente el sistema, esa acusación necesita evidencia mucho más fuerte que la necesaria para abrir una pregunta o una investigación. Poder no es culpa; investigar no es condenar.
+However, if someone claims that the company deliberately manipulated the network to harm a group, the existence of great power or a relationship of interest does not by itself prove that accusation. It may justify scrutiny; claims of coordination or responsibility require additional evidence.
 
-### EN · In plain language
+```text
+CONTROL OF CRITICAL INFRASTRUCTURE
+→ HIGH TRACEABILITY REQUIREMENT
+≠ AUTOMATIC GUILT
 
-The more power someone has to affect others, the more traceable the exercise of that power should be. And the more serious an accusation is, the more evidence is required before treating it as fact. Both rules protect the common space and the person or organisation being investigated at the same time.
+ACCUSATION OF DELIBERATE MANIPULATION
+→ HIGH EVIDENTIARY REQUIREMENT
 
-### EN · Example
+INVESTIGATING ≠ CONDEMNING
+```
 
-If a company controls critical infrastructure, decisions affecting the shared service should be especially auditable. If it is then accused of deliberately manipulating the system, that accusation requires much stronger evidence than is needed to open a question or investigation. Power is not guilt; investigating is not condemning.
-
-> **Regla / Rule:** esta capa pedagógica no sustituye ni modifica la formulación candidata; sirve para hacerla comprensible y debe permanecer semánticamente subordinada a la formulación, procedencia y Síntesis Abierta. / this pedagogical layer neither replaces nor modifies the candidate formulation; it exists to make it understandable and remains semantically subordinate to the formulation, provenance and Open Synthesis.
-
-<!-- C-NAX-26_ACCESS_END -->
+> **Pedagogical layer:** this explanation and example support readability; they neither replace nor modify the candidate formulation, its provenance or its Open Synthesis.
+<!-- C-NAX-26_ACCESS_EN_END -->
 
 ## Relaciones / Relations
 
