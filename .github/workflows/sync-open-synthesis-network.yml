@@ -12,6 +12,7 @@ on:
       - 'neoaxiomas/README.md'
       - 'propuestas/sintesis-abierta/README.md'
       - 'propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md'
+      - 'propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md'
       - 'propuestas/sintesis-abierta/*C_NAX_*_ES_EN.md'
       - '.github/workflows/sync-open-synthesis-network.yml'
       - '.github/scripts/register_manifesto_frontier.py'
