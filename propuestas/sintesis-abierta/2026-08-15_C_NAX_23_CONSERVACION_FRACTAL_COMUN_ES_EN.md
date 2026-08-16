@@ -24,6 +24,18 @@ IGUAL DIGNIDAD
 
 No toda asimetría es injusta: pueden existir asimetrías protectoras, funcionales o temporales. El candidato se activa cuando el poder deja de servir a la continuidad del conjunto y convierte la protección, la ventaja o la posición en palanca de degradación sin control proporcional.
 
+<!-- C-NAX-23_ACCESS_ES_START -->
+### En sencillo
+
+Corregir una injusticia no debería consistir en invertirla y conceder al otro lado permiso permanente para degradar. Puede haber protecciones asimétricas legítimas, pero deben reparar el sistema común y limitar el daño, no crear una nueva impunidad.
+
+### Ejemplo
+
+Si una persona ha sufrido acoso, protegerla puede exigir separar al agresor, imponer límites y reparar el daño. Esa protección no convierte en legítima una humillación permanente del otro: la finalidad es restaurar seguridad, responsabilidad y convivencia, no cambiar quién tiene licencia para destruir.
+
+> **Capa pedagógica:** esta explicación y el ejemplo facilitan la lectura; no sustituyen ni modifican la formulación candidata, su procedencia o su Síntesis Abierta.
+<!-- C-NAX-23_ACCESS_ES_END -->
+
 ## EN
 
 > **No legitimate equilibrium can be built by granting one part a stable capacity to destroy with impunity another part required by the same system. Correcting an asymmetry must increase the integrity of the common fractal, not transfer the licence to degrade from one pole to the other.**
@@ -42,29 +54,17 @@ EQUAL DIGNITY
 
 Not every asymmetry is unjust: protective, functional or temporary asymmetries may exist. The candidate activates when power ceases to serve continuity of the whole and turns protection, advantage or position into an unchecked lever of degradation.
 
-<!-- C-NAX-23_ACCESS_START -->
-
-## Lectura sencilla y ejemplo / Plain-language reading and example
-
-### ES · En sencillo
-
-Corregir una injusticia no debería consistir en invertirla y conceder al otro lado permiso permanente para degradar. Puede haber protecciones asimétricas legítimas, pero deben reparar el sistema común y limitar el daño, no crear una nueva impunidad.
-
-### ES · Ejemplo
-
-Si una persona ha sufrido acoso, protegerla puede exigir separar al agresor, imponer límites y reparar el daño. Esa protección no convierte en legítima una humillación permanente del otro: la finalidad es restaurar seguridad, responsabilidad y convivencia, no cambiar quién tiene licencia para destruir.
-
-### EN · In plain language
+<!-- C-NAX-23_ACCESS_EN_START -->
+### In plain language
 
 Correcting an injustice should not mean reversing it and granting the other side permanent permission to degrade. Legitimate asymmetric protections may be necessary, but they should repair the common system and limit harm rather than create a new impunity.
 
-### EN · Example
+### Example
 
 If a person has suffered harassment, protection may require separating the aggressor, imposing limits and repairing harm. That protection does not make permanent humiliation of the other person legitimate: the aim is to restore safety, accountability and coexistence, not to change who holds a licence to destroy.
 
-> **Regla / Rule:** esta capa pedagógica no sustituye ni modifica la formulación candidata; sirve para hacerla comprensible y debe permanecer semánticamente subordinada a la formulación, procedencia y Síntesis Abierta. / this pedagogical layer neither replaces nor modifies the candidate formulation; it exists to make it understandable and remains semantically subordinate to the formulation, provenance and Open Synthesis.
-
-<!-- C-NAX-23_ACCESS_END -->
+> **Pedagogical layer:** this explanation and example support readability; they neither replace nor modify the candidate formulation, its provenance or its Open Synthesis.
+<!-- C-NAX-23_ACCESS_EN_END -->
 
 ## Relaciones / Relations
 
