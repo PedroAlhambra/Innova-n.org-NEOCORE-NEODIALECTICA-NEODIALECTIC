@@ -6,12 +6,16 @@ ROOT=Path('.').resolve()
 REG=ROOT/'manifiestos/CANONICAL_FILENAMES.json'
 NEO=ROOT/'neoaxiomas/README.md'
 SYN=ROOT/'propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md'
+CAND_DIR=ROOT/'propuestas/sintesis-abierta'
 
 ES_MARK=re.compile(r'^# ES · (?:Castellano|Español)\s*$',re.M)
 EN_MARK=re.compile(r'^# EN · English\s*$',re.M)
 CHEAD=re.compile(r'^##\s+(?:[IVXLCDM]+|\d+)\.\s+(C-NAX-(\d+)) · (.+?)\s*$',re.M)
 ISSUE=re.compile(r'https://github\.com/PedroAlhambra/Innova-n\.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/(\d+)')
 QUOTE=re.compile(r'^> \*\*(.+?)\*\*\s*$',re.M)
+STANDALONE_HEAD_ES=re.compile(r'^# (C-NAX-(\d+)) · (.+?)\s*$',re.M)
+STANDALONE_ES=re.compile(r'^## ES(?: · Castellano)?\s*$',re.M)
+STANDALONE_EN=re.compile(r'^## EN(?: · English)?\s*$',re.M)
 
 
 def roman_to_int(s):
@@ -31,6 +35,8 @@ def subsection(body,m):
 entries=json.loads(REG.read_text(encoding='utf-8')).get('entries',{})
 latest=max(entries,key=roman_to_int)
 found={}
+
+# 1) Candidates explicitly embedded in canonical manifestos.
 for roman,entry in sorted(entries.items(),key=lambda kv:roman_to_int(kv[0])):
     p=ROOT/entry['legacy']
     text=p.read_text(encoding='utf-8',errors='replace')
@@ -53,17 +59,51 @@ for roman,entry in sorted(entries.items(),key=lambda kv:roman_to_int(kv[0])):
         manifesto_issues=ISSUE.findall(front)
         found[ident]={
             'num':int(em.group(2)),'roman':roman,'path':p.relative_to(ROOT).as_posix(),
+            'source_kind':'manifesto',
             'es_title':em.group(3).strip(),'en_title':nm.group(3).strip(),
             'es_formula':eq.group(1).strip(),'en_formula':nq.group(1).strip(),
             'issue':issue_candidates[0],
             'manifesto_issue':manifesto_issues[0] if manifesto_issues else None,
         }
 
+# 2) Standalone C-NAX documents are first-class candidate sources too.
+#    Existing manifesto-derived entries keep precedence to preserve genealogy.
+for p in sorted(CAND_DIR.glob('*C_NAX_*_ES_EN.md')):
+    text=p.read_text(encoding='utf-8',errors='replace')
+    heads=list(STANDALONE_HEAD_ES.finditer(text))
+    if len(heads)<2:
+        continue
+    first=heads[0]
+    ident=first.group(1)
+    if ident in found:
+        continue
+    second=next((h for h in heads[1:] if h.group(1)==ident),None)
+    if not second:
+        continue
+    es=STANDALONE_ES.search(text); en=STANDALONE_EN.search(text)
+    if not es or not en or en.start()<es.start():
+        continue
+    esbody=text[es.end():en.start()]; enbody=text[en.end():]
+    eq=QUOTE.search(esbody); nq=QUOTE.search(enbody)
+    issue_candidates=ISSUE.findall(text)
+    if not eq or not nq or not issue_candidates:
+        continue
+    found[ident]={
+        'num':int(first.group(2)),'roman':None,'path':p.relative_to(ROOT).as_posix(),
+        'source_kind':'standalone',
+        'es_title':first.group(3).strip(),'en_title':second.group(3).strip(),
+        'es_formula':eq.group(1).strip(),'en_formula':nq.group(1).strip(),
+        'issue':issue_candidates[0],
+        'manifesto_issue':None,
+    }
+
 neo=NEO.read_text(encoding='utf-8')
 for ident,c in sorted(found.items(),key=lambda kv:kv[1]['num']):
+    source_link=(f'[{c["roman"]}](../{c["path"]})' if c['roman']
+                 else f'[documento / document](../{c["path"]})')
     if not re.search(r'^\| \*\*'+re.escape(ident)+r' · ',neo,re.M):
         row=(f'| **{ident} · {c["es_title"]} / {c["en_title"]}** | '
-             f'[{c["roman"]}](../{c["path"]}) | '
+             f'{source_link} | '
              f'**Candidato explícito · SAN #{c["issue"]}**; no canonizado / '
              f'**Explicit candidate · SAN #{c["issue"]}**; not canonicalised |')
         boundary='\n\n### C-NAX-19 ·'
@@ -73,10 +113,12 @@ for ident,c in sorted(found.items(),key=lambda kv:kv[1]['num']):
         print(f'NEOAXIOM_CANDIDATE_ROW_ADDED {ident}')
 
     if not re.search(r'^### '+re.escape(ident)+r' · ',neo,re.M):
+        provenance=(f'[{c["roman"]}](../{c["path"]})' if c['roman']
+                    else f'[documento / document](../{c["path"]})')
         detail=(f'\n\n### {ident} · {c["es_title"]} / {c["en_title"]}\n\n'
                 f'> **ES:** {c["es_formula"]}\n\n'
                 f'> **EN:** {c["en_formula"]}\n\n'
-                f'**Procedencia / Provenance:** [{c["roman"]}](../{c["path"]}).  \n'
+                f'**Procedencia / Provenance:** {provenance}.  \n'
                 f'**Síntesis / Synthesis:** [#{c["issue"]}](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/{c["issue"]}) · '
                 f'**CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**\n')
         marker='\n<!-- NEOAXIOM_CANDIDATES_72_END -->'
@@ -87,7 +129,6 @@ for ident,c in sorted(found.items(),key=lambda kv:kv[1]['num']):
 
 all_nums=sorted(set(int(x) for x in re.findall(r'C-NAX-(\d+)',neo)))
 if all_nums:
-    min_c=min(all_nums); max_c=max(all_nums); count=len([x for x in all_nums if x>=15])
     neo=re.sub(r'## Candidatos neoaxiomáticos detectados en el repaso I–[IVXLCDM]+ / Neoaxiomatic candidates detected in the I–[IVXLCDM]+ review',
                f'## Candidatos neoaxiomáticos detectados en el repaso I–{latest} / Neoaxiomatic candidates detected in the I–{latest} review',neo,count=1)
 NEO.write_text(neo,encoding='utf-8')
