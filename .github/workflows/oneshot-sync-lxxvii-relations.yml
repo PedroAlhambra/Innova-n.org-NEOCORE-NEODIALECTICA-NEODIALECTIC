@@ -1,0 +1,81 @@
+name: one-shot-sync-lxxvii-relations
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/oneshot-sync-lxxvii-relations.yml'
+permissions:
+  contents: write
+concurrency:
+  group: neocore-document-sync-main
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Synchronize full LXXVII network
+        run: |
+          python .github/scripts/register_manifesto_frontier.py
+          python .github/scripts/normalize_manifesto_bilingual_names.py
+          python .github/scripts/normalize_internal_link_aliases.py
+          python .github/scripts/register_manifestos_LXIII_LXVI.py
+          python .github/scripts/sync_neoaxiom_candidates.py
+          python .github/scripts/sync_manifesto_frontier_headers.py
+          python .github/scripts/sync_open_synthesis_manifestos.py
+          python .github/scripts/normalize_manifesto_indices.py
+          python .github/scripts/sync_root_navigation.py
+          python .github/scripts/sync_relations_frontier.py
+          python .github/scripts/sync_relations_lxxv.py
+          python .github/scripts/sync_relations_lxxvii.py
+          python .github/scripts/sync_canonical_manifestos.py
+          python .github/scripts/sync_manifesto_crossrefs.py
+          python .github/scripts/sync_canonical_manifestos.py
+          python .github/scripts/audit_manifesto_registry_completeness.py
+          python .github/scripts/audit_es_en_parity.py
+          python .github/scripts/audit_manifesto_bilingual_structure.py
+          python .github/scripts/audit_relations_neocore.py
+          python .github/scripts/audit_markdown_links_readmes.py
+      - name: Enforce documentary health
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import json
+          registry=json.loads(Path('manifiestos/CANONICAL_FILENAMES.json').read_text(encoding='utf-8'))['entries']
+          n=len(registry)
+          reg=Path('auditorias/publicas/2026-08-12_auditoria_registro_canonico_manifiestos_ES_EN.md').read_text(encoding='utf-8')
+          rel=Path('auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md').read_text(encoding='utf-8')
+          links=Path('auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md').read_text(encoding='utf-8')
+          parity=Path('auditorias/publicas/2026-08-09_auditoria_paridad_ES_EN_manifiestos_articulos.md').read_text(encoding='utf-8')
+          structure=Path('auditorias/publicas/2026-08-12_auditoria_estructura_bilingue_manifiestos_ES_EN.md').read_text(encoding='utf-8')
+          required=[
+              f'**Entradas canónicas / Canonical entries:** {n}',
+              '**Problemas / Problems:** 0',
+              f'- Cobertura del mapa curado: **{n}/{n}**.',
+              '- Ausentes del mapa curado: **ninguno / none**.',
+              '- Neoaxiomas sin Síntesis específica: **ninguno / none**.',
+              '- Enlaces locales realmente no resueltos: **0**.',
+              '- Manifiestos sin enlace entrante desde publicaciones/documentos aplicados: **0**.',
+              '**Estado / Status:** **OK**',
+              '**Recortes/materialmente asimétricos para revisión:** 0',
+              '**Con marcador incompleto/ausente:** 0',
+              '**REVISAR / REVIEW:** 0',
+          ]
+          corpus='\n'.join([reg,rel,links,parity,structure])
+          missing=[x for x in required if x not in corpus]
+          if missing:
+              raise SystemExit('LXXVII documentary graph incomplete: '+repr(missing))
+          print(f'LXXVII_DOCUMENTARY_GRAPH=OK manifests={n}')
+          PY
+      - name: Commit synchronized network
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'docs: synchronize LXXVII and C-NAX-25 network'
+          git pull --rebase origin main
+          git push origin main
