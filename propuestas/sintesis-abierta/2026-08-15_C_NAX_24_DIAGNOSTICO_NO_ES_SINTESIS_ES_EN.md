@@ -26,6 +26,18 @@ APORTE
 → SÍNTESIS ABIERTA™
 ```
 
+<!-- C-NAX-24_ACCESS_ES_START -->
+### En sencillo
+
+Detectar un problema es sólo el comienzo. Una síntesis necesita además contrastar causas, escuchar objeciones, conservar fuentes, comparar alternativas, admitir correcciones y construir una respuesta que pueda revisarse.
+
+### Ejemplo
+
+Que una persona muy conocida diga “la vivienda es inaccesible” puede señalar un problema real. Pero tener millones de oyentes no decide por sí mismo por qué ocurre ni qué solución es mejor: hacen falta datos, causas competidoras, efectos secundarios y propuestas contrastables.
+
+> **Capa pedagógica:** esta explicación y el ejemplo facilitan la lectura; no sustituyen ni modifican la formulación candidata, su procedencia o su Síntesis Abierta.
+<!-- C-NAX-24_ACCESS_ES_END -->
+
 ## EN
 
 > **Detecting, describing, predicting or amplifying a problem is not the same as synthesising it. The authority of a proposal does not derive from visibility, prestige or capacity for alarm, but from its capacity to enter scrutiny, relate to other perspectives, preserve genealogy, admit correction and contribute to a revisable common response.**
@@ -46,29 +58,17 @@ CONTRIBUTION
 → OPEN SYNTHESIS™
 ```
 
-<!-- C-NAX-24_ACCESS_START -->
-
-## Lectura sencilla y ejemplo / Plain-language reading and example
-
-### ES · En sencillo
-
-Detectar un problema es sólo el comienzo. Una síntesis necesita además contrastar causas, escuchar objeciones, conservar fuentes, comparar alternativas, admitir correcciones y construir una respuesta que pueda revisarse.
-
-### ES · Ejemplo
-
-Que una persona muy conocida diga “la vivienda es inaccesible” puede señalar un problema real. Pero tener millones de oyentes no decide por sí mismo por qué ocurre ni qué solución es mejor: hacen falta datos, causas competidoras, efectos secundarios y propuestas contrastables.
-
-### EN · In plain language
+<!-- C-NAX-24_ACCESS_EN_START -->
+### In plain language
 
 Detecting a problem is only the beginning. A synthesis also needs to test causes, hear objections, preserve sources, compare alternatives, admit corrections and build a response that can be revised.
 
-### EN · Example
+### Example
 
 A very well-known person saying “housing is unaffordable” may identify a real problem. But having millions of listeners does not by itself establish why it is happening or which solution is best: data, competing causes, side effects and testable proposals are still required.
 
-> **Regla / Rule:** esta capa pedagógica no sustituye ni modifica la formulación candidata; sirve para hacerla comprensible y debe permanecer semánticamente subordinada a la formulación, procedencia y Síntesis Abierta. / this pedagogical layer neither replaces nor modifies the candidate formulation; it exists to make it understandable and remains semantically subordinate to the formulation, provenance and Open Synthesis.
-
-<!-- C-NAX-24_ACCESS_END -->
+> **Pedagogical layer:** this explanation and example support readability; they neither replace nor modify the candidate formulation, its provenance or its Open Synthesis.
+<!-- C-NAX-24_ACCESS_EN_END -->
 
 ## Relaciones / Relations
 
