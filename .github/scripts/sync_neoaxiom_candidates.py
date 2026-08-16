@@ -32,6 +32,29 @@ def subsection(body,m):
     nxt=re.search(r'^##\s+',rest,re.M)
     return rest[:nxt.start()] if nxt else rest
 
+
+def candidate_row(c):
+    source_link=(f'[{c["roman"]}](../{c["path"]})' if c['roman']
+                 else f'[documento / document](../{c["path"]})')
+    ident=f'C-NAX-{c["num"]}'
+    return (f'| **{ident} · {c["es_title"]} / {c["en_title"]}** | '
+            f'{source_link} | '
+            f'**Candidato explícito · SAN #{c["issue"]}**; no canonizado / '
+            f'**Explicit candidate · SAN #{c["issue"]}**; not canonicalised |')
+
+
+def normalize_row_inside_candidate_table(text, ident, row):
+    # Remove any existing row for this candidate wherever a previous synchroniser
+    # may have misplaced it, then reinsert it inside the canonical table.
+    text=re.sub(r'^\| \*\*'+re.escape(ident)+r' · .*\|\s*\n?', '', text, flags=re.M)
+    table_header='| Candidato / Candidate | Procedencia / Provenance | Estado / Status |\n|---|---|---|'
+    details_boundary='\n\n### C-NAX-15 ·'
+    start=text.find(table_header)
+    end=text.find(details_boundary)
+    if start<0 or end<0 or end<start:
+        raise SystemExit('Cannot locate canonical Neoaxiom candidate table')
+    return text[:end].rstrip()+f'\n{row}\n'+text[end:]
+
 entries=json.loads(REG.read_text(encoding='utf-8')).get('entries',{})
 latest=max(entries,key=roman_to_int)
 found={}
@@ -67,7 +90,7 @@ for roman,entry in sorted(entries.items(),key=lambda kv:roman_to_int(kv[0])):
         }
 
 # 2) Standalone C-NAX documents are first-class candidate sources too.
-#    Existing manifesto-derived entries keep precedence to preserve genealogy.
+# Existing manifesto-derived entries keep precedence to preserve genealogy.
 for p in sorted(CAND_DIR.glob('*C_NAX_*_ES_EN.md')):
     text=p.read_text(encoding='utf-8',errors='replace')
     heads=list(STANDALONE_HEAD_ES.finditer(text))
@@ -99,18 +122,9 @@ for p in sorted(CAND_DIR.glob('*C_NAX_*_ES_EN.md')):
 
 neo=NEO.read_text(encoding='utf-8')
 for ident,c in sorted(found.items(),key=lambda kv:kv[1]['num']):
-    source_link=(f'[{c["roman"]}](../{c["path"]})' if c['roman']
-                 else f'[documento / document](../{c["path"]})')
-    if not re.search(r'^\| \*\*'+re.escape(ident)+r' · ',neo,re.M):
-        row=(f'| **{ident} · {c["es_title"]} / {c["en_title"]}** | '
-             f'{source_link} | '
-             f'**Candidato explícito · SAN #{c["issue"]}**; no canonizado / '
-             f'**Explicit candidate · SAN #{c["issue"]}**; not canonicalised |')
-        boundary='\n\n### C-NAX-19 ·'
-        if boundary not in neo:
-            raise SystemExit('Cannot locate Neoaxiom candidate table boundary')
-        neo=neo.replace(boundary,'\n'+row+boundary,1)
-        print(f'NEOAXIOM_CANDIDATE_ROW_ADDED {ident}')
+    # Always normalise the row location. This repairs earlier misplaced standalone rows
+    # and makes future standalone candidates deterministic.
+    neo=normalize_row_inside_candidate_table(neo,ident,candidate_row(c))
 
     if not re.search(r'^### '+re.escape(ident)+r' · ',neo,re.M):
         provenance=(f'[{c["roman"]}](../{c["path"]})' if c['roman']
