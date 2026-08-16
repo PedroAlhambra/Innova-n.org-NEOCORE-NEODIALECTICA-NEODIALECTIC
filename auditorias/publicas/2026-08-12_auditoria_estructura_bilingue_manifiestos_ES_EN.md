@@ -3,7 +3,7 @@
 **Fecha / Date:** 2026-08-12  
 **Objeto / Scope:** títulos ES/EN, metadatos mínimos, marcadores de idioma, simetría de secciones principales, índices, espejo canónico y bloque normativo de referencias cruzadas.
 
-**Manifiestos revisados / Manifestos reviewed:** 77  
+**Manifiestos revisados / Manifestos reviewed:** 78  
 **REVISAR / REVIEW:** 0  
 **ADVERTENCIAS / WARNINGS:** 0
 
@@ -87,6 +87,7 @@
 | LXXIV | `manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md` | Asimetría de la Destrucción™ · Del Trol Humano al Bot | Asymmetry of Destruction™ · From the Human Troll to the Bot | **OK** |  |
 | LXXV | `manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md` | Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ | The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™ | **OK** |  |
 | LXXVI | `manifiestos/76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md` | El Altavoz sin Síntesis™ · Diagnóstico, Ruido, Ego y Responsabilidad de Construcción | The Loudspeaker without Synthesis™ · Diagnosis, Noise, Ego and the Responsibility to Build | **OK** |  |
+| LXXVII | `manifiestos/77_polarizacion_binaria_radicalizacion_reciproca_fenomeno_narrativa_ES_EN.md` | Contra la Polarización Binaria y la Radicalización Recíproca™ · Derecho a Reconocer el Problema sin Heredar su Narrativa | Against Binary Polarisation and Reciprocal Radicalisation™ · The Right to Recognise a Problem without Inheriting its Narrative | **OK** |  |
 | ∞ | `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | Manifiesto de Neo0™ · Puerta Abierta del Fractal | Neo0™ Manifesto · Open Gate of the Fractal | **OK** |  |
 
 ## Regla permanente / Permanent rule

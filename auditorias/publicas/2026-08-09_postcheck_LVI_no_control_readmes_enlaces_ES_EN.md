@@ -11,15 +11,15 @@
 - Archivos Markdown históricos excluidos del estado vivo: **55**.
 - Entradas legacy excluidas del estado vivo: **0**.
 - README activos revisados: **17**.
-- Enlaces internos de ruta comprobados: **10472**.
+- Enlaces internos de ruta comprobados: **10518**.
 - Alias internos de GitHub Wiki reconocidos: **44**.
-- Enlaces externos inventariados sin comprobar disponibilidad remota: **1885**.
-- Enlaces sólo a ancla detectados: **418**.
+- Enlaces externos inventariados sin comprobar disponibilidad remota: **1889**.
+- Enlaces sólo a ancla detectados: **420**.
 - Bloques de último manifiesto encontrados en README: **8**.
 - Bloques legacy NEO_CURRENT_NAV encontrados en README: **0**.
 - Bloques redundantes MANIFESTOS_CURRENT encontrados en README: **0**.
-- Manifiestos canónicos detectados: **76 · I–LXXVI**.
-- Último manifiesto / Síntesis: **LXXVI / #149**.
+- Manifiestos canónicos detectados: **77 · I–LXXVII**.
+- Último manifiesto / Síntesis: **LXXVII / #154**.
 - Enlaces internos rotos del grafo vivo: **0**.
 - Fallos canónicos críticos: **0**.
 
@@ -44,15 +44,15 @@
 - Historical Markdown files excluded from living-state health: **55**.
 - Legacy entry files excluded from living-state health: **0**.
 - Active README files reviewed: **17**.
-- Internal path links checked: **10472**.
+- Internal path links checked: **10518**.
 - GitHub Wiki extensionless page aliases recognised: **44**.
-- External links inventoried without checking remote availability: **1885**.
-- Anchor-only links detected: **418**.
+- External links inventoried without checking remote availability: **1889**.
+- Anchor-only links detected: **420**.
 - Latest-manifesto blocks found in README files: **8**.
 - Legacy NEO_CURRENT_NAV blocks found in README files: **0**.
 - Redundant MANIFESTOS_CURRENT blocks found in README files: **0**.
-- Canonical manifestos detected: **76 · I–LXXVI**.
-- Latest manifesto / synthesis: **LXXVI / #149**.
+- Canonical manifestos detected: **77 · I–LXXVII**.
+- Latest manifesto / synthesis: **LXXVII / #154**.
 - Broken internal links in the living graph: **0**.
 - Canonical critical failures: **0**.
 

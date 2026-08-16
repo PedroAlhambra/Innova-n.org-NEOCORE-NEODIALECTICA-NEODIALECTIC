@@ -3,7 +3,7 @@
 
 **Fecha / Date:** 2026-08-11  
 **Estado / Status:** vivo, versionado y revisable / living, versioned and revisable  
-**Cobertura / Coverage:** **76 manifiestos finitos I–LXXVI + Manifiesto ∞ · 14 Neoaxiomas™ canónicos + 10 candidatos C-NAX-15–C-NAX-24 · síntesis transversales, auditorías y proyectos de sistema / 76 finite manifestos I–LXXVI + Manifesto ∞ · 14 canonical Neoaxioms™ + 10 candidates C-NAX-15–C-NAX-24 · cross-cutting syntheses, audits and system projects**.
+**Cobertura / Coverage:** **77 manifiestos finitos I–LXXVII + Manifiesto ∞ · 14 Neoaxiomas™ canónicos + 10 candidatos C-NAX-15–C-NAX-24 · síntesis transversales, auditorías y proyectos de sistema / 77 finite manifestos I–LXXVII + Manifesto ∞ · 14 canonical Neoaxioms™ + 10 candidates C-NAX-15–C-NAX-24 · cross-cutting syntheses, audits and system projects**.
 
 > **ABIERTO A SÍNTESIS ≠ VALIDADO.**  
 > **OPEN TO SYNTHESIS ≠ VALIDATED.**
@@ -100,6 +100,7 @@ Faithful global understanding of the complete framework is a different task: bec
 | LXXIV | [Asimetría de la Destrucción™ · Del Trol Humano al Bot / Asymmetry of Destruction™ · From the Human Troll to the Bot](../../manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md) | [#125](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/125) |
 | LXXV | [Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™](../../manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md) | [#134](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/134) |
 | LXXVI | [El Altavoz sin Síntesis™ · Diagnóstico, Ruido, Ego y Responsabilidad de Construcción / The Loudspeaker without Synthesis™ · Diagnosis, Noise, Ego and the Responsibility to Build](../../manifiestos/76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md) | [#149](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/149) |
+| LXXVII | [Contra la Polarización Binaria y la Radicalización Recíproca™ · Derecho a Reconocer el Problema sin Heredar su Narrativa / Against Binary Polarisation and Reciprocal Radicalisation™ · The Right to Recognise a Problem without Inheriting its Narrative](../../manifiestos/77_polarizacion_binaria_radicalizacion_reciproca_fenomeno_narrativa_ES_EN.md) | [#154](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/154) |
 | ∞ | [Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](../../manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) | [#106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106) |
 
 **Regla ∞ / ∞ rule:** el manifiesto ∞ no cuenta como número finito; permanece siempre después del último manifiesto numerado y conserva abierta la continuidad del fractal. / Manifesto ∞ does not count as a finite number; it always remains after the latest numbered manifesto and keeps fractal continuity open.
@@ -205,7 +206,7 @@ ENTRAR EN UNA SÍNTESIS / ENTER A SYNTHESIS
 
 # 6 · Resumen operativo ES / EN · Operational summary ES / EN
 
-- Todo manifiesto finito I–LXXVI dispone de una Síntesis Abierta dedicada. / Every finite manifesto I–LXXVI has a dedicated Open Synthesis issue.
+- Todo manifiesto finito I–LXXVII dispone de una Síntesis Abierta dedicada. / Every finite manifesto I–LXXVII has a dedicated Open Synthesis issue.
 - El Manifiesto ∞ permanece abierto permanentemente detrás del último manifiesto finito. / Manifesto ∞ remains permanently open after the latest finite manifesto.
 - Todo Neoaxioma canónico NAX-01–NAX-14 dispone de síntesis dedicada y de la matriz general #80. / Every canonical Neoaxiom NAX-01–NAX-14 has a dedicated synthesis plus general matrix #80.
 - C-NAX-15–C-NAX-24 permanecen candidatos: se muestran con matriz/ruta de síntesis y no se elevan automáticamente a canon. / C-NAX-15–C-NAX-24 remain candidates: they are shown with a synthesis matrix/route and are not automatically elevated to canon.
