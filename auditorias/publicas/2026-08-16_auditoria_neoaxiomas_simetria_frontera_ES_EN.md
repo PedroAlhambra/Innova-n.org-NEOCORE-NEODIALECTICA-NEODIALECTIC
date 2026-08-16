@@ -4,7 +4,7 @@
 **Fecha / Date:** 2026-08-16  
 **Estado / Status:** **OK**  
 **Frontera dinámica / Dynamic frontier:** **C-NAX-15–C-NAX-26**  
-**Objeto / Scope:** NAX-01–NAX-14, registro C-NAX, formulaciones ES/EN, documentos dedicados, índice vivo y portal público de Síntesis Neoaxiomática. / NAX-01–NAX-14, C-NAX registry, ES/EN formulations, dedicated documents, the live index and the public Neoaxiom Synthesis portal.
+**Objeto / Scope:** NAX-01–NAX-14, registro C-NAX, formulaciones ES/EN, capa de claridad ES/EN, documentos dedicados, índice vivo y portal público de Síntesis Neoaxiomática. / NAX-01–NAX-14, C-NAX registry, ES/EN formulations, ES/EN clarity layer, dedicated documents, the live index and the public Neoaxiom Synthesis portal.
 
 ## Resultado / Result
 
@@ -18,6 +18,7 @@
 ## Regla endurecida / Hardened rule
 
 - **Una fila C-NAX sin formulación desarrollada ES/EN es fallo de integridad. / A C-NAX row without a developed ES/EN formulation is an integrity failure.**
+- **Todo C-NAX debe incluir lectura sencilla y ejemplo simétricos ES/EN, subordinados a la formulación formal. / Every C-NAX must include symmetric ES/EN plain-language reading and an example, subordinate to the formal formulation.**
 - **Un documento C-NAX dedicado ausente del registro central es fallo de frontera. / A dedicated C-NAX document missing from the central registry is an integrity failure.**
 - **El portal público de Síntesis Neoaxiomática debe reflejar la misma frontera dinámica que el registro central y el índice vivo. / The public Neoaxiom Synthesis portal must mirror the same dynamic frontier as the central registry and live index.**
 - **Las subfronteras genealógicas legítimas no se confunden con la declaración operativa vigente. / Legitimate genealogical subranges are not confused with the current operational declaration.**

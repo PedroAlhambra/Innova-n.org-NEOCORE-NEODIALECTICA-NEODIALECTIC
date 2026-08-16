@@ -44,6 +44,9 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 > **Regla de Maduración Neoaxiomática™ · 365 días / Neoaxiomatic Maturation Rule™ · 365 days:** el silencio no queda indefinido. Un candidato que complete el plazo sin respuesta sustantiva adquiere **fijación definitiva** en la primera revisión documental posterior y recibe el ordinal NAX correspondiente, pero **la fijación no cierra la Síntesis ni el Issue: el Neoaxioma permanece abierto y revisable mediante SAN™**. Una respuesta posterior se procesa como revisión del Neoaxioma ya fijado y no borra retroactivamente el periodo de maduración. / silence is not indefinite. A candidate completing the period without substantive response acquires **definitive fixation** at the first subsequent documentary review and receives the corresponding NAX ordinal, but **fixation does not close the Synthesis or the Issue: the Neoaxiom remains open and revisable through SAN™**. A later response is processed as a review of the already fixed Neoaxiom and does not retroactively erase the maturation period.
 >
 > **[Regla completa / Full rule](../propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_365_DIAS_ES_EN.md)**
+> <!-- NEOAXIOM_PLAIN_LANGUAGE_RULE -->
+> **Regla de claridad / Clarity rule:** la formulación formal conserva autoridad documental, pero cada C-NAX debe incorporar una lectura sencilla y un ejemplo ES/EN simétricos. La capa pedagógica no puede introducir una obligación, excepción o causalidad que no exista en la formulación y sus fuentes. / the formal formulation retains documentary authority, but every C-NAX must include a symmetric ES/EN plain-language reading and example. The pedagogical layer may not introduce an obligation, exception or causality absent from the formulation and its sources.
+
 
 | Candidato / Candidate | Procedencia / Provenance | Estado / Status |
 |---|---|---|
@@ -85,6 +88,20 @@ PLURALITY + MEMORY + SCRUTINY + EDUCATION
 = INTELLECTUAL SOVEREIGNTY OF THE SPECIES™
 ```
 
+<!-- C-NAX-15_ACCESS_START -->
+
+**ES · en sencillo:** Ninguna persona, institución o IA debe poder convertirse en la única puerta para decidir qué puede conocer, pensar o discutir la sociedad. Cuanto mayor sea su poder cognitivo, más importantes son las fuentes visibles, las alternativas, la crítica, la posibilidad de disentir y la capacidad de salir o corregir.
+
+**ES · ejemplo:** Si una IA pasa a orientar decisiones públicas importantes, no basta con que sea muy eficaz. Sus recomendaciones deben poder contrastarse, recurrirse y compararse con otras fuentes o criterios; que la use mucha gente no la convierte en soberana del juicio colectivo.
+
+**EN · in plain language:** No person, institution or AI should become the only gateway deciding what society may know, think or discuss. The greater its cognitive power, the more important visible sources, alternatives, criticism, the ability to dissent and the real possibility of exit or correction become.
+
+**EN · example:** If an AI begins to guide important public decisions, high performance is not enough. Its recommendations must remain open to scrutiny, appeal and comparison with other sources or criteria; widespread use does not make it sovereign over collective judgement.
+
+> **Capa pedagógica / Pedagogical layer:** esta explicación y el ejemplo facilitan la lectura; no sustituyen la formulación candidata, su procedencia ni su Síntesis Abierta. / this explanation and example support readability; they do not replace the candidate formulation, its provenance or its Open Synthesis.
+
+<!-- C-NAX-15_ACCESS_END -->
+
 **Procedencia / Provenance:** [LXVIII](../manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md).  
 **Síntesis / Synthesis:** [#150](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/150) · **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
 
@@ -119,6 +136,20 @@ MAJORITY ≠ TOTALITY
 AI ≠ TOTALITY
 NEO0 ≠ TOTALITY
 ```
+
+<!-- C-NAX-16_ACCESS_START -->
+
+**ES · en sencillo:** Una parte puede ser muy importante sin convertirse en el Todo. Autor, fundador, mayoría, empresa, institución o IA pueden cumplir funciones decisivas, pero ninguna de esas posiciones convierte por sí sola su criterio en verdad final.
+
+**ES · ejemplo:** Si quien creó una teoría propone una interpretación y después aparece evidencia mejor que la contradice, la autoría obliga a conservar la genealogía de la idea, no a blindarla frente a revisión. La fuente importa; no sustituye a la Síntesis.
+
+**EN · in plain language:** A part may be very important without becoming the Whole. An author, founder, majority, company, institution or AI may perform decisive functions, but none of those positions automatically turns its judgement into final truth.
+
+**EN · example:** If the creator of a theory proposes an interpretation and better evidence later contradicts it, authorship requires preserving the idea’s genealogy, not shielding it from revision. The source matters; it does not replace Synthesis.
+
+> **Capa pedagógica / Pedagogical layer:** esta explicación y el ejemplo facilitan la lectura; no sustituyen la formulación candidata, su procedencia ni su Síntesis Abierta. / this explanation and example support readability; they do not replace the candidate formulation, its provenance or its Open Synthesis.
+
+<!-- C-NAX-16_ACCESS_END -->
 
 **Procedencia / Provenance:** [LXII](../manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md) + [∞](../manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md).  
 **Síntesis / Synthesis:** [#151](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/151) · **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
@@ -163,6 +194,20 @@ RECONSTRUCT
 + REINTEGRATE INTO A HIGHER ARCHITECTURE
 ```
 
+<!-- C-NAX-17_ACCESS_START -->
+
+**ES · en sencillo:** Antes de destruir, restaurar o sustituir una estructura hay que entender qué funciones útiles cumple realmente, incluso si hoy funciona mal. La reconstrucción conserva lo necesario, corrige lo dañino y evita repetir el pasado o borrarlo sin comprenderlo.
+
+**ES · ejemplo:** Un trámite administrativo puede ser lento y redundante, pero quizá también deja constancia de quién decidió, permite recurrir y protege frente a abusos. Digitalizarlo bien significa eliminar la repetición innecesaria conservando esas funciones de prueba, responsabilidad y recurso.
+
+**EN · in plain language:** Before destroying, restoring or replacing a structure, we must understand which useful functions it actually performs, even if it currently works badly. Reconstruction preserves what is needed, corrects what is harmful and avoids either copying or erasing the past without understanding it.
+
+**EN · example:** An administrative procedure may be slow and repetitive, yet it may also record who decided, allow appeals and protect against abuse. Good digital replacement removes unnecessary repetition while preserving evidence, accountability and appeal.
+
+> **Capa pedagógica / Pedagogical layer:** esta explicación y el ejemplo facilitan la lectura; no sustituyen la formulación candidata, su procedencia ni su Síntesis Abierta. / this explanation and example support readability; they do not replace the candidate formulation, its provenance or its Open Synthesis.
+
+<!-- C-NAX-17_ACCESS_END -->
+
 **Procedencia / Provenance:** [LXVII](../manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md).  
 **Síntesis / Synthesis:** [#152](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/152) · **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
 
@@ -204,6 +249,20 @@ DUTY TO COOPERATE + RIGHTS AND LIMITS
 = RESPONSIBILITY, NOT SERVITUDE
 ```
 
+<!-- C-NAX-18_ACCESS_START -->
+
+**ES · en sencillo:** El Bien Común no exige que todos hagan lo mismo. Exige que capacidades distintas puedan coordinarse ante una necesidad real sin perder autonomía, derechos ni límites. Cuando alguien ha aceptado una función y puede ayudar de forma proporcionada, puede existir una responsabilidad concreta de cooperación, no una obediencia ilimitada.
+
+**ES · ejemplo:** Ante un apagón local, técnicos, administración, vecinos y sistemas de IA pueden aportar capacidades distintas bajo funciones claras. Cooperar para restaurar un servicio común no autoriza a ninguno a apropiarse de las decisiones ajenas ni a ampliar indefinidamente su poder.
+
+**EN · in plain language:** The Common Good does not require everyone to do the same thing. It requires different capabilities to coordinate around a real need without losing autonomy, rights or limits. When someone has accepted a function and can help proportionally, a concrete responsibility to cooperate may arise, not unlimited obedience.
+
+**EN · example:** During a local blackout, technicians, public authorities, residents and AI systems may contribute different capabilities under clear roles. Cooperating to restore a shared service does not authorise any participant to appropriate others’ decisions or expand its power indefinitely.
+
+> **Capa pedagógica / Pedagogical layer:** esta explicación y el ejemplo facilitan la lectura; no sustituyen la formulación candidata, su procedencia ni su Síntesis Abierta. / this explanation and example support readability; they do not replace the candidate formulation, its provenance or its Open Synthesis.
+
+<!-- C-NAX-18_ACCESS_END -->
+
 **Procedencia / Provenance:** [LXVI](../manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md) + [LXVII](../manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md).  
 **Síntesis / Synthesis:** [#153](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/153) · **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
 
@@ -240,6 +299,20 @@ COMMON DIGNITY
 
 **Separación de Planos / Separation of Planes:** `FANTASÍA/FANTASY ≠ REALIDAD/REALITY · DESEO/DESIRE ≠ DERECHO/RIGHT · ROL/ROLE ≠ IDENTIDAD TOTAL/TOTAL IDENTITY · EXCITACIÓN/AROUSAL ≠ CONSENTIMIENTO/CONSENT · PODER/POWER ≠ PERMISO/PERMISSION · ACCESO/ACCESS ≠ DISPONIBILIDAD/AVAILABILITY · RELACIÓN/RELATIONSHIP ≠ PROPIEDAD/OWNERSHIP`.
 
+<!-- C-NAX-19_ACCESS_START -->
+
+**ES · en sencillo:** Tener deseo, afecto, autoridad, acceso o una relación con otra persona no crea un derecho sobre ella. La legitimidad de la relación depende de dignidad, consentimiento válido, posibilidad real de negarse o salir y mayor responsabilidad cuando existe más poder.
+
+**ES · ejemplo:** La dependencia laboral de una persona respecto de su responsable no convierte esa dependencia en consentimiento para una relación personal. Si existe una asimetría de poder, debe aumentar el cuidado para que un sí sea realmente libre y un no no produzca represalias.
+
+**EN · in plain language:** Desire, affection, authority, access or an existing relationship with another person does not create a right over that person. A legitimate relationship depends on dignity, valid consent, a real ability to refuse or leave, and greater responsibility where greater power exists.
+
+**EN · example:** An employee’s dependence on a manager does not turn that dependence into consent to a personal relationship. Where a power asymmetry exists, safeguards must increase so that yes is genuinely free and no does not lead to retaliation.
+
+> **Capa pedagógica / Pedagogical layer:** esta explicación y el ejemplo facilitan la lectura; no sustituyen la formulación candidata, su procedencia ni su Síntesis Abierta. / this explanation and example support readability; they do not replace the candidate formulation, its provenance or its Open Synthesis.
+
+<!-- C-NAX-19_ACCESS_END -->
+
 **Síntesis específica / Dedicated synthesis:** [#123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123). **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
 
 
@@ -248,6 +321,20 @@ COMMON DIGNITY
 > **ES:** La condición humana común constituye el suelo relacional compartido de toda identidad particular. Ninguna diferencia legítima debe ser borrada, patologizada o forzada a la invisibilidad; ninguna identidad parcial debe coronarse como totalidad de la persona, justificar la deshumanización de otros ni exigir centralidad social permanente como condición de respeto.
 
 > **EN:** Common humanity constitutes the shared relational ground of every particular identity. No legitimate difference should be erased, pathologised or forced into invisibility; no partial identity should be crowned as the totality of the person, justify the dehumanisation of others or demand permanent social centrality as a condition of respect.
+
+<!-- C-NAX-20_ACCESS_START -->
+
+**ES · en sencillo:** Compartimos una dignidad humana común y, al mismo tiempo, tenemos diferencias reales que no deben borrarse. Reconocer una identidad o necesidad concreta no significa reducir a la persona entera a esa etiqueta ni convertir una diferencia en razón para degradar a otros.
+
+**ES · ejemplo:** Adaptar un espacio para una persona con discapacidad reconoce una diferencia real sin definir a esa persona únicamente por su discapacidad. Del mismo modo, esa adaptación no requiere negar la dignidad o las necesidades legítimas de quienes no comparten esa condición.
+
+**EN · in plain language:** We share common human dignity while also having real differences that should not be erased. Recognising a specific identity or need does not mean reducing the whole person to that label or turning a difference into a reason to degrade others.
+
+**EN · example:** Adapting a space for a person with a disability recognises a real difference without defining that person only by the disability. Likewise, the accommodation does not require denying the dignity or legitimate needs of people who do not share that condition.
+
+> **Capa pedagógica / Pedagogical layer:** esta explicación y el ejemplo facilitan la lectura; no sustituyen la formulación candidata, su procedencia ni su Síntesis Abierta. / this explanation and example support readability; they do not replace the candidate formulation, its provenance or its Open Synthesis.
+
+<!-- C-NAX-20_ACCESS_END -->
 
 **Síntesis / Synthesis:** [#126](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/126) · **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
 
@@ -263,6 +350,20 @@ DESTRUIR ≠ SUPERIORIDAD / DESTROYING ≠ SUPERIORITY
 CONSTRUIR ≠ BIEN AUTOMÁTICO / BUILDING ≠ AUTOMATIC GOOD
 ```
 
+<!-- C-NAX-21_ACCESS_START -->
+
+**ES · en sencillo:** Ser capaz de ganar, dominar, extraer o destruir no demuestra comprender mejor el sistema. Una acción puede ser eficaz a corto plazo y, sin embargo, ser torpe sistémicamente si destruye las condiciones de las que depende el conjunto.
+
+**ES · ejemplo:** Una empresa puede aumentar beneficios agotando un acuífero del que dependen la comunidad y su propia producción futura. El beneficio inmediato demuestra capacidad de extracción; no demuestra sabiduría sistémica.
+
+**EN · in plain language:** Being able to win, dominate, extract or destroy does not demonstrate better understanding of the system. An action may be effective in the short term yet systemically foolish if it destroys the conditions on which the whole depends.
+
+**EN · example:** A company may increase profits by exhausting an aquifer on which both the community and its own future production depend. Immediate profit demonstrates extraction capacity; it does not demonstrate systemic wisdom.
+
+> **Capa pedagógica / Pedagogical layer:** esta explicación y el ejemplo facilitan la lectura; no sustituyen la formulación candidata, su procedencia ni su Síntesis Abierta. / this explanation and example support readability; they do not replace the candidate formulation, its provenance or its Open Synthesis.
+
+<!-- C-NAX-21_ACCESS_END -->
+
 **Síntesis / Synthesis:** [#127](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/127) · **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
 
 **Regla 7.2 / 7.2 rule:** la futura **Innova_N Fundación** puede custodiar propósito, memoria y Bien Común; la futura **Innova_N Corporación** puede materializar infraestructura y sostenibilidad. Ninguna adquiere soberanía epistemológica por su forma jurídica. Ambas quedan subordinadas a gobernanza humana, legalidad, trazabilidad, auditoría y SAN™. / the future **Innova_N Foundation** may guard purpose, memory and the Common Good; the future **Innova_N Corporation** may materialise infrastructure and sustainability. Neither acquires epistemic sovereignty through legal form. Both remain subject to human governance, law, traceability, audit and SAN™.
@@ -273,6 +374,20 @@ CONSTRUIR ≠ BIEN AUTOMÁTICO / BUILDING ≠ AUTOMATIC GOOD
 > **ES:** Todo sistema material o vivo conserva, en su estado presente, huellas de relaciones anteriores. Esas huellas no equivalen necesariamente a memoria consciente ni a almacenamiento intencional, pero forman parte de la memoria material-relacional del sistema. Transformar o destruir sus soportes modifica también las posibilidades de reconstruir su historia, continuidad y relaciones.
 
 > **EN:** Every material or living system preserves, in its present state, traces of previous relations. Those traces do not necessarily amount to conscious memory or intentional storage, but they form part of the system’s material-relational memory. Transforming or destroying its supports also changes the possibilities of reconstructing its history, continuity and relations.
+
+<!-- C-NAX-22_ACCESS_START -->
+
+**ES · en sencillo:** La historia deja huellas físicas y relacionales. Un objeto, organismo, lugar o sistema puede conservar señales de lo que le ocurrió aunque no tenga memoria consciente. Esas huellas permiten reconstruir parte de su historia y pueden perderse si destruimos el soporte.
+
+**ES · ejemplo:** Los anillos y cicatrices de un árbol pueden mostrar sequías, incendios o daños anteriores. El árbol no “recuerda” como una persona, pero su materia conserva información relacional que ayuda a reconstruir su historia.
+
+**EN · in plain language:** History leaves physical and relational traces. An object, organism, place or system may preserve signs of what happened to it without having conscious memory. Those traces help reconstruct part of its history and may be lost when the supporting material is destroyed.
+
+**EN · example:** Tree rings and scars may reveal previous droughts, fires or damage. The tree does not “remember” like a person, but its material state preserves relational information that helps reconstruct its history.
+
+> **Capa pedagógica / Pedagogical layer:** esta explicación y el ejemplo facilitan la lectura; no sustituyen la formulación candidata, su procedencia ni su Síntesis Abierta. / this explanation and example support readability; they do not replace the candidate formulation, its provenance or its Open Synthesis.
+
+<!-- C-NAX-22_ACCESS_END -->
 
 **Procedencia / Provenance:** [LXXV](../manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md).  
 **Síntesis / Synthesis:** [#135](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/135) · **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
@@ -311,6 +426,20 @@ EQUAL DIGNITY
 → CONSERVATION OF THE COMMON FRACTAL™
 ```
 
+<!-- C-NAX-23_ACCESS_START -->
+
+**ES · en sencillo:** Corregir una injusticia no debería consistir en invertirla y conceder al otro lado permiso permanente para degradar. Puede haber protecciones asimétricas legítimas, pero deben reparar el sistema común y limitar el daño, no crear una nueva impunidad.
+
+**ES · ejemplo:** Si una persona ha sufrido acoso, protegerla puede exigir separar al agresor, imponer límites y reparar el daño. Esa protección no convierte en legítima una humillación permanente del otro: la finalidad es restaurar seguridad, responsabilidad y convivencia, no cambiar quién tiene licencia para destruir.
+
+**EN · in plain language:** Correcting an injustice should not mean reversing it and granting the other side permanent permission to degrade. Legitimate asymmetric protections may be necessary, but they should repair the common system and limit harm rather than create a new impunity.
+
+**EN · example:** If a person has suffered harassment, protection may require separating the aggressor, imposing limits and repairing harm. That protection does not make permanent humiliation of the other person legitimate: the aim is to restore safety, accountability and coexistence, not to change who holds a licence to destroy.
+
+> **Capa pedagógica / Pedagogical layer:** esta explicación y el ejemplo facilitan la lectura; no sustituyen la formulación candidata, su procedencia ni su Síntesis Abierta. / this explanation and example support readability; they do not replace the candidate formulation, its provenance or its Open Synthesis.
+
+<!-- C-NAX-23_ACCESS_END -->
+
 **Procedencia / Provenance:** [NeoMantis™ + documento C-NAX-23](../propuestas/sintesis-abierta/2026-08-15_C_NAX_23_CONSERVACION_FRACTAL_COMUN_ES_EN.md).  
 **Síntesis / Synthesis:** [#148](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/148) · **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
 
@@ -338,6 +467,20 @@ PRESTIGE ≠ SOVEREIGNTY
 LOUDSPEAKER ≠ SOLUTION
 ```
 
+<!-- C-NAX-24_ACCESS_START -->
+
+**ES · en sencillo:** Detectar un problema es sólo el comienzo. Una síntesis necesita además contrastar causas, escuchar objeciones, conservar fuentes, comparar alternativas, admitir correcciones y construir una respuesta que pueda revisarse.
+
+**ES · ejemplo:** Que una persona muy conocida diga “la vivienda es inaccesible” puede señalar un problema real. Pero tener millones de oyentes no decide por sí mismo por qué ocurre ni qué solución es mejor: hacen falta datos, causas competidoras, efectos secundarios y propuestas contrastables.
+
+**EN · in plain language:** Detecting a problem is only the beginning. A synthesis also needs to test causes, hear objections, preserve sources, compare alternatives, admit corrections and build a response that can be revised.
+
+**EN · example:** A very well-known person saying “housing is unaffordable” may identify a real problem. But having millions of listeners does not by itself establish why it is happening or which solution is best: data, competing causes, side effects and testable proposals are still required.
+
+> **Capa pedagógica / Pedagogical layer:** esta explicación y el ejemplo facilitan la lectura; no sustituyen la formulación candidata, su procedencia ni su Síntesis Abierta. / this explanation and example support readability; they do not replace the candidate formulation, its provenance or its Open Synthesis.
+
+<!-- C-NAX-24_ACCESS_END -->
+
 **Procedencia / Provenance:** [LXXVI + documento C-NAX-24](../propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md).  
 **Síntesis / Synthesis:** [#149](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/149) · **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
 
@@ -346,6 +489,20 @@ LOUDSPEAKER ≠ SOLUTION
 > **ES:** La refutación de una explicación no implica la inexistencia del fenómeno que pretendía explicar; el reconocimiento de un fenómeno no implica aceptar la narrativa, causalidad o identidad política construida alrededor de él.
 
 > **EN:** Refuting an explanation does not imply the non-existence of the phenomenon it attempted to explain; recognising a phenomenon does not imply accepting the narrative, causality or political identity constructed around it.
+
+<!-- C-NAX-25_ACCESS_START -->
+
+**ES · en sencillo:** Primero hay que separar lo que está ocurriendo de la historia que usamos para explicarlo. Podemos comprobar que algo sucede y seguir discutiendo por qué sucede; también podemos demostrar que una explicación es falsa sin hacer desaparecer el hecho que todavía necesita explicación.
+
+**ES · ejemplo:** Si los alquileres de una ciudad han subido un 30 %, esa subida es el fenómeno medible. Una narrativa puede atribuirla principalmente al turismo, otra a la falta de vivienda y otra a factores financieros. Refutar que el turismo sea la causa principal no hace desaparecer la subida; reconocer la subida tampoco demuestra cuál de esas causas es correcta.
+
+**EN · in plain language:** We must first separate what is happening from the story used to explain it. We may establish that something is occurring while still disputing why; we may also show that one explanation is false without making the underlying fact disappear.
+
+**EN · example:** If rents in a city have risen by 30%, that increase is the measurable phenomenon. One narrative may attribute it mainly to tourism, another to housing shortage and another to financial factors. Refuting tourism as the main cause does not make the rent increase disappear; recognising the increase does not prove which explanation is correct.
+
+> **Capa pedagógica / Pedagogical layer:** esta explicación y el ejemplo facilitan la lectura; no sustituyen la formulación candidata, su procedencia ni su Síntesis Abierta. / this explanation and example support readability; they do not replace the candidate formulation, its provenance or its Open Synthesis.
+
+<!-- C-NAX-25_ACCESS_END -->
 
 **Procedencia / Provenance:** [documento / document](../propuestas/sintesis-abierta/2026-08-16_C_NAX_25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md).  
 **Síntesis / Synthesis:** [#155](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/155) · **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
@@ -356,6 +513,20 @@ LOUDSPEAKER ≠ SOLUTION
 > **ES:** A mayor capacidad efectiva de un nodo para alterar el espacio común, mayor debe ser la exigencia proporcional de trazabilidad, auditabilidad y responsabilidad sobre el ejercicio de ese poder. A mayor gravedad de una acusación contra una persona u organización, mayor debe ser la exigencia proporcional de evidencia antes de tratarla como conclusión. El poder no implica culpabilidad, pero tampoco debe comprar opacidad; la sospecha no implica verdad, pero tampoco debe quedar prohibida de investigación.
 
 > **EN:** The greater a node's effective capacity to alter the common space, the greater the proportional requirement for traceability, auditability and responsibility over the exercise of that power. The greater the seriousness of an accusation against a person or organisation, the greater the proportional evidentiary requirement before treating it as a conclusion. Power does not imply guilt, but neither should it buy opacity; suspicion does not imply truth, but neither should it be barred from investigation.
+
+<!-- C-NAX-26_ACCESS_START -->
+
+**ES · en sencillo:** Cuanto más poder tiene alguien para afectar a los demás, más trazable debería ser el uso de ese poder. Y cuanto más grave es una acusación, más evidencia hace falta antes de tratarla como un hecho. Las dos reglas protegen a la vez al espacio común y a quien es investigado.
+
+**ES · ejemplo:** Si una empresa controla una infraestructura crítica, las decisiones que afectan al servicio común deben ser especialmente auditables. Si después se la acusa de manipular deliberadamente el sistema, esa acusación necesita evidencia mucho más fuerte que la necesaria para abrir una pregunta o una investigación. Poder no es culpa; investigar no es condenar.
+
+**EN · in plain language:** The more power someone has to affect others, the more traceable the exercise of that power should be. And the more serious an accusation is, the more evidence is required before treating it as fact. Both rules protect the common space and the person or organisation being investigated at the same time.
+
+**EN · example:** If a company controls critical infrastructure, decisions affecting the shared service should be especially auditable. If it is then accused of deliberately manipulating the system, that accusation requires much stronger evidence than is needed to open a question or investigation. Power is not guilt; investigating is not condemning.
+
+> **Capa pedagógica / Pedagogical layer:** esta explicación y el ejemplo facilitan la lectura; no sustituyen la formulación candidata, su procedencia ni su Síntesis Abierta. / this explanation and example support readability; they do not replace the candidate formulation, its provenance or its Open Synthesis.
+
+<!-- C-NAX-26_ACCESS_END -->
 
 **Procedencia / Provenance:** [documento / document](../propuestas/sintesis-abierta/2026-08-16_C_NAX_26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md).  
 **Síntesis / Synthesis:** [#156](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/156) · **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**

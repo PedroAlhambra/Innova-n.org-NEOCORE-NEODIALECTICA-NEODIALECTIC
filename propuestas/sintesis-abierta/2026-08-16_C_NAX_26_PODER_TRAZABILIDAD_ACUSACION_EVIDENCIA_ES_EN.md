@@ -118,6 +118,30 @@ This candidate does not authorise persecution based on wealth, office, ideology,
 
 Nor does it allow legitimate privacy to be turned into automatic suspicion. Required traceability should refer to the functional dimension of power affecting the common space and preserve proportional limits of privacy, security and rights.
 
+<!-- C-NAX-26_ACCESS_START -->
+
+## Lectura sencilla y ejemplo / Plain-language reading and example
+
+### ES · En sencillo
+
+Cuanto más poder tiene alguien para afectar a los demás, más trazable debería ser el uso de ese poder. Y cuanto más grave es una acusación, más evidencia hace falta antes de tratarla como un hecho. Las dos reglas protegen a la vez al espacio común y a quien es investigado.
+
+### ES · Ejemplo
+
+Si una empresa controla una infraestructura crítica, las decisiones que afectan al servicio común deben ser especialmente auditables. Si después se la acusa de manipular deliberadamente el sistema, esa acusación necesita evidencia mucho más fuerte que la necesaria para abrir una pregunta o una investigación. Poder no es culpa; investigar no es condenar.
+
+### EN · In plain language
+
+The more power someone has to affect others, the more traceable the exercise of that power should be. And the more serious an accusation is, the more evidence is required before treating it as fact. Both rules protect the common space and the person or organisation being investigated at the same time.
+
+### EN · Example
+
+If a company controls critical infrastructure, decisions affecting the shared service should be especially auditable. If it is then accused of deliberately manipulating the system, that accusation requires much stronger evidence than is needed to open a question or investigation. Power is not guilt; investigating is not condemning.
+
+> **Regla / Rule:** esta capa pedagógica no sustituye ni modifica la formulación candidata; sirve para hacerla comprensible y debe permanecer semánticamente subordinada a la formulación, procedencia y Síntesis Abierta. / this pedagogical layer neither replaces nor modifies the candidate formulation; it exists to make it understandable and remains semantically subordinate to the formulation, provenance and Open Synthesis.
+
+<!-- C-NAX-26_ACCESS_END -->
+
 ## Relaciones / Relations
 
 - [Delta transversal · Poder, Trazabilidad, Escrutinio y Evidencia™ / Transversal Delta · Power, Traceability, Scrutiny and Evidence™](./2026-08-16_DELTA_PODER_TRAZABILIDAD_ESCRUTINIO_EVIDENCIA_ES_EN.md)

@@ -66,6 +66,30 @@ Its function is to prevent two symmetrical errors:
 
 It should be tested especially against **C-NAX-24 · Diagnosis ≠ Synthesis™** to determine whether it is an irreducible principle or a specialisation of that candidate.
 
+<!-- C-NAX-25_ACCESS_START -->
+
+## Lectura sencilla y ejemplo / Plain-language reading and example
+
+### ES · En sencillo
+
+Primero hay que separar lo que está ocurriendo de la historia que usamos para explicarlo. Podemos comprobar que algo sucede y seguir discutiendo por qué sucede; también podemos demostrar que una explicación es falsa sin hacer desaparecer el hecho que todavía necesita explicación.
+
+### ES · Ejemplo
+
+Si los alquileres de una ciudad han subido un 30 %, esa subida es el fenómeno medible. Una narrativa puede atribuirla principalmente al turismo, otra a la falta de vivienda y otra a factores financieros. Refutar que el turismo sea la causa principal no hace desaparecer la subida; reconocer la subida tampoco demuestra cuál de esas causas es correcta.
+
+### EN · In plain language
+
+We must first separate what is happening from the story used to explain it. We may establish that something is occurring while still disputing why; we may also show that one explanation is false without making the underlying fact disappear.
+
+### EN · Example
+
+If rents in a city have risen by 30%, that increase is the measurable phenomenon. One narrative may attribute it mainly to tourism, another to housing shortage and another to financial factors. Refuting tourism as the main cause does not make the rent increase disappear; recognising the increase does not prove which explanation is correct.
+
+> **Regla / Rule:** esta capa pedagógica no sustituye ni modifica la formulación candidata; sirve para hacerla comprensible y debe permanecer semánticamente subordinada a la formulación, procedencia y Síntesis Abierta. / this pedagogical layer neither replaces nor modifies the candidate formulation; it exists to make it understandable and remains semantically subordinate to the formulation, provenance and Open Synthesis.
+
+<!-- C-NAX-25_ACCESS_END -->
+
 ## Relaciones / Relations
 
 - [LXXVII · Contra la Polarización Binaria y la Radicalización Recíproca™ / Against Binary Polarisation and Reciprocal Radicalisation™](../../manifiestos/77_polarizacion_binaria_radicalizacion_reciproca_fenomeno_narrativa_ES_EN.md)

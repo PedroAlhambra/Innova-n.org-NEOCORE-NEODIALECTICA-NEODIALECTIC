@@ -73,6 +73,9 @@ def main():
             problems.append(f'C-NAX-{n} no declara ambas formulaciones ES/EN / does not declare both ES/EN formulations')
         if 'CANDIDATO ≠ CANON / CANDIDATE ≠ CANON' not in b:
             problems.append(f'C-NAX-{n} carece de salvaguarda candidato≠canon / lacks candidate≠canon safeguard')
+        required_access = [r'\*\*ES · en sencillo:\*\*', r'\*\*ES · ejemplo:\*\*', r'\*\*EN · in plain language:\*\*', r'\*\*EN · example:\*\*']
+        if any(not re.search(pattern, b) for pattern in required_access):
+            problems.append(f'C-NAX-{n} carece de lectura sencilla y ejemplo simétricos ES/EN / lacks symmetric ES/EN plain-language reading and example')
 
     dedicated = set()
     for p in (ROOT / 'propuestas/sintesis-abierta').glob('*C_NAX_*_ES_EN.md'):
@@ -122,7 +125,7 @@ def main():
         '**Fecha / Date:** 2026-08-16  ',
         f'**Estado / Status:** **{status}**  ',
         f'**Frontera dinámica / Dynamic frontier:** **{frontier_label}**  ',
-        '**Objeto / Scope:** NAX-01–NAX-14, registro C-NAX, formulaciones ES/EN, documentos dedicados, índice vivo y portal público de Síntesis Neoaxiomática. / NAX-01–NAX-14, C-NAX registry, ES/EN formulations, dedicated documents, the live index and the public Neoaxiom Synthesis portal.',
+        '**Objeto / Scope:** NAX-01–NAX-14, registro C-NAX, formulaciones ES/EN, capa de claridad ES/EN, documentos dedicados, índice vivo y portal público de Síntesis Neoaxiomática. / NAX-01–NAX-14, C-NAX registry, ES/EN formulations, ES/EN clarity layer, dedicated documents, the live index and the public Neoaxiom Synthesis portal.',
         '',
         '## Resultado / Result',
         '',
@@ -136,6 +139,7 @@ def main():
         '## Regla endurecida / Hardened rule',
         '',
         '- **Una fila C-NAX sin formulación desarrollada ES/EN es fallo de integridad. / A C-NAX row without a developed ES/EN formulation is an integrity failure.**',
+        '- **Todo C-NAX debe incluir lectura sencilla y ejemplo simétricos ES/EN, subordinados a la formulación formal. / Every C-NAX must include symmetric ES/EN plain-language reading and an example, subordinate to the formal formulation.**',
         '- **Un documento C-NAX dedicado ausente del registro central es fallo de frontera. / A dedicated C-NAX document missing from the central registry is an integrity failure.**',
         '- **El portal público de Síntesis Neoaxiomática debe reflejar la misma frontera dinámica que el registro central y el índice vivo. / The public Neoaxiom Synthesis portal must mirror the same dynamic frontier as the central registry and live index.**',
         '- **Las subfronteras genealógicas legítimas no se confunden con la declaración operativa vigente. / Legitimate genealogical subranges are not confused with the current operational declaration.**',
