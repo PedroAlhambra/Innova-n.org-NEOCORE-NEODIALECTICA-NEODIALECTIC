@@ -4,6 +4,7 @@ import re
 ROOT = Path('.').resolve()
 NEO = ROOT / 'neoaxiomas/README.md'
 SYN = ROOT / 'propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md'
+PORTAL = ROOT / 'propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md'
 REPORT = ROOT / 'auditorias/publicas/2026-08-16_auditoria_neoaxiomas_simetria_frontera_ES_EN.md'
 
 START = '<!-- NEOAXIOM_CANDIDATES_72_START -->'
@@ -23,6 +24,7 @@ def main():
     problems = []
     neo = NEO.read_text(encoding='utf-8')
     syn = SYN.read_text(encoding='utf-8')
+    portal = PORTAL.read_text(encoding='utf-8')
 
     if START not in neo or END not in neo:
         problems.append('Faltan marcadores del registro C-NAX / C-NAX registry markers missing')
@@ -104,6 +106,19 @@ def main():
     if syn_ids != unique_rows:
         problems.append(f'Índice C-NAX no refleja registro central / C-NAX synthesis index does not mirror central registry: index={syn_ids} registry={unique_rows}')
 
+    # The public Neoaxiom synthesis portal must mirror the same living frontier.
+    if max_candidate is not None:
+        portal_state = f'**{candidate_count} candidatos neoaxiomáticos / neoaxiomatic candidates:** C-NAX-15–C-NAX-{max_candidate}.'
+        if portal_state not in portal:
+            problems.append(f'Portal de Síntesis Neoaxiomática desactualizado / Neoaxiom Synthesis portal frontier mismatch: expected {portal_state}')
+        stale_ranges = []
+        for a, b in re.findall(r'C-NAX-(\d+)[–-]C-NAX-(\d+)', portal):
+            a, b = int(a), int(b)
+            if a == 15 and b < max_candidate:
+                stale_ranges.append((a, b))
+        if stale_ranges:
+            problems.append(f'Portal de Síntesis Neoaxiomática conserva fronteras antiguas / Neoaxiom Synthesis portal contains stale frontiers: {stale_ranges}')
+
     status = 'OK' if not problems else 'FAIL'
     frontier_label = f'C-NAX-15–C-NAX-{max_candidate}' if max_candidate is not None else 'C-NAX-∅'
     lines = [
@@ -113,7 +128,7 @@ def main():
         '**Fecha / Date:** 2026-08-16  ',
         f'**Estado / Status:** **{status}**  ',
         f'**Frontera dinámica / Dynamic frontier:** **{frontier_label}**  ',
-        '**Objeto / Scope:** NAX-01–NAX-14, registro C-NAX, formulaciones ES/EN, documentos dedicados e índice vivo de Síntesis. / NAX-01–NAX-14, C-NAX registry, ES/EN formulations, dedicated documents and the live Synthesis index.',
+        '**Objeto / Scope:** NAX-01–NAX-14, registro C-NAX, formulaciones ES/EN, documentos dedicados, índice vivo y portal público de Síntesis Neoaxiomática. / NAX-01–NAX-14, C-NAX registry, ES/EN formulations, dedicated documents, the live index and the public Neoaxiom Synthesis portal.',
         '',
         '## Resultado / Result',
         '',
@@ -122,11 +137,13 @@ def main():
         f'- C-NAX registrados / registered C-NAX: **{len(unique_rows)}** · `{unique_rows}`.',
         f'- C-NAX con bloque desarrollado / C-NAX with developed block: **{len(detail_ids)}** · `{detail_ids}`.',
         f'- Documentos C-NAX dedicados detectados / dedicated C-NAX documents detected: `{sorted(dedicated)}`.',
+        f'- Portal público de Síntesis Neoaxiomática / public Neoaxiom Synthesis portal: **{"OK" if max_candidate is not None and portal_state in portal and not stale_ranges else "REVISAR / REVIEW"}**.',
         '',
         '## Regla endurecida / Hardened rule',
         '',
         '- **Una fila C-NAX sin formulación desarrollada ES/EN es fallo de integridad. / A C-NAX row without a developed ES/EN formulation is an integrity failure.**',
         '- **Un documento C-NAX dedicado ausente del registro central es fallo de frontera. / A dedicated C-NAX document missing from the central registry is an integrity failure.**',
+        '- **El portal público de Síntesis Neoaxiomática debe reflejar la misma frontera dinámica que el registro central y el índice vivo. / The public Neoaxiom Synthesis portal must mirror the same dynamic frontier as the central registry and live index.**',
         '- **La frontera C-NAX se deriva dinámicamente del registro; ningún máximo queda codificado a mano. / The C-NAX frontier is derived dynamically from the registry; no maximum is hard-coded.**',
         '- **NAX/C-NAX quedan fuera de cualquier excepción genérica de encabezados: esta auditoría los comprueba por identificador. / NAX/C-NAX are outside any generic heading exception: this audit checks them by identifier.**',
         '',
@@ -145,6 +162,7 @@ def main():
         '- C-NAX-15–18 quedaron desarrollados y reconciliados conservando su genealogía. / C-NAX-15–18 were developed and reconciled while preserving their genealogy.',
         '- C-NAX-23 y C-NAX-24 se incorporaron mediante documentos dedicados y registro central. / C-NAX-23 and C-NAX-24 were incorporated through dedicated documents and the central registry.',
         '- C-NAX-25 y C-NAX-26 amplían la frontera mediante documentos bilingües dedicados y Síntesis #155/#156; la auditoría deja de fijar un máximo manual para que futuras ampliaciones no queden silenciosamente fuera. / C-NAX-25 and C-NAX-26 extend the frontier through dedicated bilingual documents and Syntheses #155/#156; the audit no longer hard-codes a maximum so future extensions cannot silently fall outside it.',
+        '- El portal `NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md` queda incluido en el gate para impedir que un portal secundario conserve un recuento o frontera obsoletos. / The `NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md` portal is now included in the gate so a secondary portal cannot retain a stale count or frontier.',
     ]
     REPORT.parent.mkdir(parents=True, exist_ok=True)
     REPORT.write_text('\n'.join(lines) + '\n', encoding='utf-8')
