@@ -9,16 +9,13 @@
 
 - Markdown activo examinado / Active Markdown scanned: **289**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **226**.
-- Fallos estructurales divididos / Split structural failures: **2**.
+- Fallos estructurales divididos / Split structural failures: **1**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
 
-- `propuestas/sintesis-abierta/2026-08-16_C_NAX_26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md` · ES=250 · EN=535 · ratio=2.14
-  - volumen EN/ES=2.14 (535/250)
-  - esqueleto de encabezados distinto ES=[(3, ''), (3, ''), (3, '')] EN=[(3, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (3, ''), (3, '')]
 - `propuestas/sintesis-abierta/2026-08-16_DELTA_PODER_TRAZABILIDAD_ESCRUTINIO_EVIDENCIA_ES_EN.md` · ES=1298 · EN=1428 · ratio=1.10
   - esqueleto de encabezados distinto ES=[(2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV')] EN=[(2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, '')]
 
@@ -246,7 +243,7 @@
 | `propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-15_DELTA_NEOMANTIS_ASIMETRIA_INVERTIDA_DIGNIDAD_RECIPROCA_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-16_C_NAX_25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md` | **OK** |  |
-| `propuestas/sintesis-abierta/2026-08-16_C_NAX_26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md` | **REVISAR** | volumen EN/ES=2.14 (535/250); esqueleto de encabezados distinto ES=[(3, ''), (3, ''), (3, '')] EN=[(3, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (3, ''), (3, '')] |
+| `propuestas/sintesis-abierta/2026-08-16_C_NAX_26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-16_DELTA_PODER_TRAZABILIDAD_ESCRUTINIO_EVIDENCIA_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV')] EN=[(2, 'I'), (2, 'II'), (2, 'III'), (2, 'IV'), (2, 'V'), (2, 'VI'), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (2, 'VII'), (2, 'VIII'), (2, 'IX'), (2, 'X'), (2, 'XI'), (2, 'XII'), (2, 'XIII'), (2, 'XIV'), (2, 'XV'), (2, '')] |
 | `propuestas/sintesis-abierta/ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_v0.1_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` | **OK** |  |
