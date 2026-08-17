@@ -102,6 +102,9 @@ ALIASES = {
     'Separación de Planos': 'LXXI', 'Separation of Planes': 'LXXI',
     'Hipersexualización Industrial': 'LXXI', 'Industrial Hypersexualisation': 'LXXI',
     'Hombre Custodio': 'LXXII', 'Custodian Man': 'LXXII',
+    'Incontrolabilidad Intrínseca': 'LXXVIII', 'Intrinsic Uncontrollability': 'LXXVIII',
+    'Necesidad del Neorrenacimiento Humano': 'LXXVIII', 'Necessity of the Human Neo-Renaissance': 'LXXVIII',
+    'Alarmismo sin Síntesis': 'LXXIX', 'Alarmism without Synthesis': 'LXXIX',
 }
 
 SPECIAL_DOCS = [
@@ -115,6 +118,8 @@ DEDICATED_SYNTHESIS = {
     'LXX': 120,
     'LXXI': 121,
     'LXXII': 122,
+    'LXXVIII': 157,
+    'LXXIX': 158,
 }
 
 
@@ -186,9 +191,12 @@ def block_for(text, own_ord):
         lines += [
             '', '### Síntesis y delta / Synthesis and delta', '',
             f'- [Síntesis Abierta {own_ord} / Open Synthesis {own_ord} · #{issue}](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/{issue})',
-            '- [C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™ · #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123)',
-            '- [Delta relacional íntegro / Full relational delta](../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md)',
         ]
+        if own_ord in {'LXIX', 'LXX', 'LXXI', 'LXXII'}:
+            lines += [
+                '- [C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™ · #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123)',
+                '- [Delta relacional íntegro / Full relational delta](../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md)',
+            ]
 
     lines += ['', END, '']
     return '\n'.join(lines)
