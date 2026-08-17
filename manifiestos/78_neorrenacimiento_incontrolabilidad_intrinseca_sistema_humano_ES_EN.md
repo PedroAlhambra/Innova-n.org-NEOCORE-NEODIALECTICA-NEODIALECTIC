@@ -312,4 +312,8 @@ This manifesto remains open to contradiction, evidence, earlier genealogy, docum
 
 - [NEOCore™ · marco / framework](../README.md)
 
+### Síntesis y delta / Synthesis and delta
+
+- [Síntesis Abierta LXXVIII / Open Synthesis LXXVIII · #157](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/157)
+
 <!-- NEO_CROSS_REFERENCES_END -->

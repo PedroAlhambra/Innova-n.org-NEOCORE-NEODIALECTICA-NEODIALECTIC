@@ -260,4 +260,8 @@ Contributions are invited on risk communication, AI, uncertainty, media incentiv
 - **LXXVI** · [El Altavoz sin Síntesis™ · Diagnóstico, Ruido, Ego y Responsabilidad de Construcción / The Loudspeaker without Synthesis™ · Diagnosis, Noise, Ego and the Responsibility to Build](./76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md)
 - **LXXVIII** · [Manifiesto de la Incontrolabilidad Intrínseca y la Necesidad del Neorrenacimiento Humano™ / Manifesto of Intrinsic Uncontrollability and the Necessity of the Human Neo-Renaissance™](./78_neorrenacimiento_incontrolabilidad_intrinseca_sistema_humano_ES_EN.md)
 
+### Síntesis y delta / Synthesis and delta
+
+- [Síntesis Abierta LXXIX / Open Synthesis LXXIX · #158](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/158)
+
 <!-- NEO_CROSS_REFERENCES_END -->
