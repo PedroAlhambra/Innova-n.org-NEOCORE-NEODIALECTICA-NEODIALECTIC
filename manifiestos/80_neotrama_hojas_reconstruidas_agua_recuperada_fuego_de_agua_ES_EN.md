@@ -847,3 +847,26 @@ Metaphor does not replace evidence. Evidence does not eliminate the need for rel
 - [NAX-10 · WaterFire™ and Elemental Totality](../neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md)
 - [Open Synthesis LXXX · #159](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/159)
 - [Manifesto index](./README.md)
+
+<!-- NEO_CROSS_REFERENCES_START -->
+
+## Referencias cruzadas canónicas / Canonical cross-references
+
+> **Norma / Rule:** las menciones cruzadas pueden permanecer en el cuerpo como texto para no sobrecargar la lectura; este bloque concentra los hipervínculos canónicos detectados y permite retorno explícito a fuente. / Cross-references may remain as prose in the body to avoid visual overload; this block concentrates detected canonical hyperlinks and preserves explicit return to source.
+
+- **II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md)
+- **X** · [Manifiesto de WEB4™ · SistemaTrazable™ / Manifesto of WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md)
+- **XI** · [Manifiesto del Neorrenacimiento Humano / Manifesto of the Human Neo-Renaissance](./08_neorrenacimiento_humano_ES_EN.md)
+- **XVII** · [Manifiesto del Respeto a Todos los Seres Vivos™ / Manifesto of Respect for All Living Beings™](./17_respeto_todos_seres_vivos_ES_EN.md)
+- **XXVII** · [Manifiesto del Valor de los Alimentos y la Vida™ / Manifesto of the Value of Food and Life™](./27_valor_alimentos_vida_ES_EN.md)
+- **LXXV** · [Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™](./75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md)
+- **LXXVIII** · [Manifiesto de la Incontrolabilidad Intrínseca y la Necesidad del Neorrenacimiento Humano™ / Manifesto of Intrinsic Uncontrollability and the Necessity of the Human Neo-Renaissance™](./78_neorrenacimiento_incontrolabilidad_intrinseca_sistema_humano_ES_EN.md)
+
+### Capas y fuentes relacionadas / Related layers and sources
+
+- [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
+- [NEOCore™ · marco / framework](../README.md)
+
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-10` → [Neoaxiomas™](../neoaxiomas/README.md)
+
+<!-- NEO_CROSS_REFERENCES_END -->
