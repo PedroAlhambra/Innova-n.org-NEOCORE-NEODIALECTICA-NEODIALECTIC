@@ -24,7 +24,7 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 ## NEOCore™ 7.2 · Fijación documental / Documentary fixation
 
 **Fijación del 2026-08-10: Soberanía de Síntesis™ + Innova_N Fundación/Corporación futuras + corpus I–LXVIII + ∞ + WEB4™ actualizado a ese estado.**  
-Este bloque conserva el estado fijado por el delta 7.2. El corpus vivo continuó evolucionando después de esa fijación y actualmente alcanza **I–LXXV + ∞**; esa evolución no reescribe retrospectivamente el delta histórico. / This block preserves the state fixed by the 7.2 delta. The living corpus continued evolving after that fixation and currently reaches **I–LXXV + ∞**; that evolution does not retrospectively rewrite the historical delta.
+Este bloque conserva el estado fijado por el delta 7.2. El corpus vivo continuó evolucionando después de esa fijación; la frontera vigente se deriva del índice canónico y del bloque «Actualidad / Latest» de este README, sin reescribir retrospectivamente el delta histórico. / This block preserves the state fixed by the 7.2 delta. The living corpus continued evolving after that fixation; the current frontier is derived from the canonical index and the «Actualidad / Latest» block of this README, without retrospectively rewriting the historical delta.
 
 La Fundación custodiará propósito y Bien Común; la Corporación materializará infraestructura y sostenibilidad; ninguna sustituye a la Síntesis. NeoCronos™ permanece experimental y revisable. / The Foundation will guard purpose and the Common Good; the Corporation will materialise infrastructure and sustainability; neither replaces Synthesis. NeoCronos™ remains experimental and revisable.
 
@@ -136,10 +136,10 @@ Los manifiestos son los **pilares públicos de la Filosofía Arquetípica Neodia
 
 Últimos nodos:
 
-- [LXXII · El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad](./manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md)
-- [LXXIII · Maduración Invertida™ · Humanidad Común y Degradación Arquetípica Reversible](./manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md)
-- [LXXIV · Asimetría de la Destrucción™ · Del Trol Humano al Bot](./manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md)
-- [LXXV · Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™](./manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md)
+- [LXXVIII · Manifiesto de la Incontrolabilidad Intrínseca y la Necesidad del Neorrenacimiento Humano™](./manifiestos/78_neorrenacimiento_incontrolabilidad_intrinseca_sistema_humano_ES_EN.md)
+- [LXXIX · Manifiesto contra el Alarmismo sin Síntesis™ · Advertir obliga a construir](./manifiestos/79_contra_alarmismo_sin_sintesis_responsabilidad_alternativa_ES_EN.md)
+- [LXXX · Manifiesto de la Neotrama™ · Las Hojas Reconstruidas, el Agua Recuperada y el Fuego de Agua™](./manifiestos/80_neotrama_hojas_reconstruidas_agua_recuperada_fuego_de_agua_ES_EN.md)
+- [LXXXI · Manifiesto del Ultralujo como Bien Común™ · La élite del aporte](./manifiestos/81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md)
 
 ## Análisis, auditorías y evidencia
 
@@ -236,10 +236,10 @@ The manifestos are the **public pillars of Archetypal Neodialectical Philosophy�
 
 Latest nodes:
 
-- [LXXII · The Custodian Man™ · Strength, Desire, Power and Responsibility](./manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md)
-- [LXXIII · Inverted Maturation™ · Common Humanity and Reversible Archetypal Degradation](./manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md)
-- [LXXIV · Asymmetry of Destruction™ · From the Human Troll to the Bot](./manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md)
-- [LXXV · The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™](./manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md)
+- [LXXVIII · Manifesto of Intrinsic Uncontrollability and the Necessity of the Human Neo-Renaissance™](./manifiestos/78_neorrenacimiento_incontrolabilidad_intrinseca_sistema_humano_ES_EN.md)
+- [LXXIX · Manifesto against Alarmism without Synthesis™ · Warning Creates a Duty to Build](./manifiestos/79_contra_alarmismo_sin_sintesis_responsabilidad_alternativa_ES_EN.md)
+- [LXXX · Manifesto of Neotrama™ · Reconstructed Leaves, Restored Water and WaterFire™](./manifiestos/80_neotrama_hojas_reconstruidas_agua_recuperada_fuego_de_agua_ES_EN.md)
+- [LXXXI · Manifesto of Ultraluxury as Common Good™ · The elite of contribution](./manifiestos/81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md)
 
 ## Analyses, audits and evidence
 
