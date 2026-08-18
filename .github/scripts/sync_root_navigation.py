@@ -1,4 +1,37 @@
 from pathlib import Path
+import json
+import re
+
+ROOT = Path('.').resolve()
+
+
+def roman_to_int(s):
+    vals={'I':1,'V':5,'X':10,'L':50,'C':100,'D':500,'M':1000}
+    total=prev=0
+    for ch in reversed(s):
+        v=vals[ch]
+        if v < prev:
+            total -= v
+        else:
+            total += v; prev=v
+    return total
+
+
+def manifesto_latest_rows(limit=4):
+    reg=json.loads((ROOT/'manifiestos/CANONICAL_FILENAMES.json').read_text(encoding='utf-8'))['entries']
+    items=sorted(reg.items(),key=lambda kv:roman_to_int(kv[0]))[-limit:]
+    es=[]; en=[]
+    for roman,entry in items:
+        rel=entry['legacy']
+        p=ROOT/rel
+        text=p.read_text(encoding='utf-8',errors='replace')
+        titles=re.findall(r'^#\s+'+re.escape(roman)+r'\s*·\s*(.+?)\s*$',text,re.M)
+        if len(titles)<2:
+            raise SystemExit(f'Cannot derive bilingual latest-node titles for {roman}: {rel}')
+        href='./'+rel
+        es.append(f'- [{roman} · {titles[0].strip()}]({href})')
+        en.append(f'- [{roman} · {titles[1].strip()}]({href})')
+    return '\n'.join(es), '\n'.join(en)
 
 
 def save_if_changed(path, transform):
@@ -32,6 +65,25 @@ def root_transform(s):
     en_nav_new = en_nav + '\n- [Projection and outreach](./proyeccion/README.md)\n- [UMBRAL-X · Apocalypse of the AIs™](./obras/umbral-x/README.md)'
     if en_nav in s and '- [Projection and outreach](./proyeccion/README.md)' not in s:
         s = s.replace(en_nav, en_nav_new, 1)
+
+    # A historical fixation may preserve its historical frontier, but it must
+    # never embed a second hard-coded claim about the *current* living frontier.
+    s=re.sub(
+        r'Este bloque conserva el estado fijado por el delta 7\.2\. El corpus vivo continuó evolucionando después de esa fijación y actualmente alcanza \*\*I–[IVXLCDM]+ \+ ∞\*\*; esa evolución no reescribe retrospectivamente el delta histórico\. / This block preserves the state fixed by the 7\.2 delta\. The living corpus continued evolving after that fixation and currently reaches \*\*I–[IVXLCDM]+ \+ ∞\*\*; that evolution does not retrospectively rewrite the historical delta\.',
+        'Este bloque conserva el estado fijado por el delta 7.2. El corpus vivo continuó evolucionando después de esa fijación; la frontera vigente se deriva del índice canónico y del bloque «Actualidad / Latest» de este README, sin reescribir retrospectivamente el delta histórico. / This block preserves the state fixed by the 7.2 delta. The living corpus continued evolving after that fixation; the current frontier is derived from the canonical index and the «Actualidad / Latest» block of this README, without retrospectively rewriting the historical delta.',
+        s,
+        count=1,
+    )
+
+    es_latest,en_latest=manifesto_latest_rows(4)
+    s=re.sub(
+        r'(Últimos nodos:\n\n).*?(\n\n## Análisis, auditorías y evidencia)',
+        r'\1'+es_latest+r'\2',s,count=1,flags=re.S,
+    )
+    s=re.sub(
+        r'(Latest nodes:\n\n).*?(\n\n## Analyses, audits and evidence)',
+        r'\1'+en_latest+r'\2',s,count=1,flags=re.S,
+    )
     return s
 
 
