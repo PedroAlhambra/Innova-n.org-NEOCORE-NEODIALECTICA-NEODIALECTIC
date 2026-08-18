@@ -17,7 +17,9 @@ roman,label,href,suffix=rows[-1]
 count=len(rows)
 p=ROOT/'manifiestos'/href
 front=p.read_text(encoding='utf-8').split('# ES ·',1)[0]
-issues=ISSUE.findall(front)
+# Prefer the canonical issue already registered in the manifesto index row.
+# Fall back to the manifesto front matter for compatibility with older files.
+issues=ISSUE.findall(suffix) or ISSUE.findall(front)
 if not issues:
     raise SystemExit(f'No manifesto synthesis issue found for {roman}')
 issue=issues[0]
