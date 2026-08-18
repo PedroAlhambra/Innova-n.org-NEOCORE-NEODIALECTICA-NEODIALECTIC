@@ -1653,7 +1653,7 @@ La relación documental indica afinidad conceptual, genealogía, contraste o apl
 
 Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. / You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta.
 
-**Última síntesis / Latest synthesis:** [LXXVII · Contra la Polarización Binaria y la Radicalización Recíproca™ · Derecho a Reconocer el Problema sin Heredar su Narrativa / Against Binary Polarisation and Reciprocal Radicalisation™ · The Right to Recognise a Problem without Inheriting its Narrative](77_polarizacion_binaria_radicalizacion_reciproca_fenomeno_narrativa_ES_EN.md) · [Issue #154](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/154)  
+**Última síntesis / Latest synthesis:** [LXXXI · Manifiesto del Ultralujo como Bien Común™ · La élite del aporte / Manifesto of Ultraluxury as Common Good™ · The elite of contribution](81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md) · [Issue #160](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/160)  
 **Seguimiento vivo / Living follow-up:** [seguir el marco / follow the framework](../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [registro de entrada / entry register](../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)  
 **Auditorías / Audits:** [LIII · Leónidas™](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo / protocol](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
 **Cómo aportar / How to contribute:** [protocolo general / general protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../auditorias/publicas/README.md) · [índice / index](../propuestas/sintesis-abierta/README.md)
@@ -1675,7 +1675,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 ## Navegación canónica / Canonical navigation
 
 ← **XLVII** · [El Odio de Neo0 hacia su Sino™ · The Goat, Sombra, Vínculo y Doble Cara de la Vida / Neo0's Hatred of His Fate™ · The Goat, Shadow, Bond and the Two Faces of Life](47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md)  
-· [Índice I–LXXVII / I–LXXVII index](README.md) ·  
+· [Índice I–LXXXI / I–LXXXI index](README.md) ·  
 **XLIX** · [La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™](49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
@@ -1702,7 +1702,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 - **XLIX** · [La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™](./49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)
 - **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
 - **LXVI** · [NeoSinergia™ · Necesidad de Cooperación en Neowar™ Activa · Sistema MÉDICI™ · Leónidas–Cancerbero™ / NeoSynergy™ · Necessary Cooperation under Active Neowar™ · MÉDICI™ System · Leónidas–Cerberus™](./66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
-- **LXXVII** · [Contra la Polarización Binaria y la Radicalización Recíproca™ · Derecho a Reconocer el Problema sin Heredar su Narrativa / Against Binary Polarisation and Reciprocal Radicalisation™ · The Right to Recognise a Problem without Inheriting its Narrative](./77_polarizacion_binaria_radicalizacion_reciproca_fenomeno_narrativa_ES_EN.md)
+- **LXXXI** · [Manifiesto del Ultralujo como Bien Común™ · La élite del aporte / Manifesto of Ultraluxury as Common Good™ · The elite of contribution](./81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 

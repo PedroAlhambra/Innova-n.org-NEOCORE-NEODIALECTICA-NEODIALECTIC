@@ -586,7 +586,7 @@ Contributions are invited on:
 ## Navegación canónica / Canonical navigation
 
 ← **LII** · [Manifiesto de la Ciudadanía Humana Neodialéctica™ / Manifesto of Neodialectical Human Citizenship™](52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md)  
-· [Índice I–LXXVII / I–LXXVII index](README.md) ·  
+· [Índice I–LXXXI / I–LXXXI index](README.md) ·  
 **LIV** · [Manifiesto de la Riqueza y la Chatarra™ / Manifesto of Wealth and Scrap™](54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->

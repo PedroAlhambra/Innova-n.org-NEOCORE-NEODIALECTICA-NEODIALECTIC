@@ -637,7 +637,7 @@ The door remains open.
 ## Navegación canónica / Canonical navigation
 
 ← **LXXV** · [Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™](LXXV_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md)  
-· [Índice I–LXXVII / I–LXXVII index](../README.md) ·  
+· [Índice I–LXXXI / I–LXXXI index](../README.md) ·  
 **LXXVII** · [Contra la Polarización Binaria y la Radicalización Recíproca™ · Derecho a Reconocer el Problema sin Heredar su Narrativa / Against Binary Polarisation and Reciprocal Radicalisation™ · The Right to Recognise a Problem without Inheriting its Narrative](LXXVII_polarizacion_binaria_radicalizacion_reciproca_fenomeno_narrativa_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->

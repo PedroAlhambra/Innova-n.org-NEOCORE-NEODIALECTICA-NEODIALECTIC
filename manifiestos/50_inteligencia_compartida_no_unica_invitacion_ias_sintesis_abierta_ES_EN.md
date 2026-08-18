@@ -875,7 +875,7 @@ We especially seek experimental implementations enabling comparison of how diffe
 ## Navegación canónica / Canonical navigation
 
 ← **XLIX** · [La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™](49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md)  
-· [Índice I–LXXVII / I–LXXVII index](README.md) ·  
+· [Índice I–LXXXI / I–LXXXI index](README.md) ·  
 **LI** · [Síntesis Abierta como Poder Cívico Complementario o Sustitutivo™ / Open Synthesis as Complementary or Substitutive Civic Power™](51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->

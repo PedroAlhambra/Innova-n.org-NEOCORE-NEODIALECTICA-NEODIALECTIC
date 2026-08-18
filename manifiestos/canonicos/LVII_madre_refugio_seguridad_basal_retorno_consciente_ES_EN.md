@@ -220,7 +220,7 @@ Contributions are requested on basal security, care, autonomy, motherhood as arc
 ## Navegación canónica / Canonical navigation
 
 ← **LVI** · [Manifiesto del NO-CONTROL™ · Síntesis Previa a la Potencia / Manifesto of NO-CONTROL™ · Synthesis Before Power](LVI_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md)  
-· [Índice I–LXXVII / I–LXXVII index](../README.md) ·  
+· [Índice I–LXXXI / I–LXXXI index](../README.md) ·  
 **LVIII** · [Inteligencia Civilizatoria™ · Democracia Cognitiva y Deber de Síntesis / Civilisational Intelligence™ · Cognitive Democracy and Duty of Synthesis](LVIII_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->

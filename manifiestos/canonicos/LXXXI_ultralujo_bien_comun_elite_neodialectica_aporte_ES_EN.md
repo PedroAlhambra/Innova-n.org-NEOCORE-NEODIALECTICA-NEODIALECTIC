@@ -328,6 +328,6 @@ This manifesto remains open to contradiction concerning merit, privilege, capita
 
 ### Capas y fuentes relacionadas / Related layers and sources
 
-- [NEOCore™ · marco / framework](../README.md)
+- [NEOCore™ · marco / framework](../../README.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->

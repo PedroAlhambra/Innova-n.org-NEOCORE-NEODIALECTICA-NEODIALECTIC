@@ -3,7 +3,7 @@
 **Fecha / Date:** 2026-08-12  
 **Objeto / Scope:** títulos ES/EN, metadatos mínimos, marcadores de idioma, simetría de secciones principales, índices, espejo canónico y bloque normativo de referencias cruzadas.
 
-**Manifiestos revisados / Manifestos reviewed:** 78  
+**Manifiestos revisados / Manifestos reviewed:** 82  
 **REVISAR / REVIEW:** 0  
 **ADVERTENCIAS / WARNINGS:** 0
 
@@ -88,6 +88,10 @@
 | LXXV | `manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md` | Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ | The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™ | **OK** |  |
 | LXXVI | `manifiestos/76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md` | El Altavoz sin Síntesis™ · Diagnóstico, Ruido, Ego y Responsabilidad de Construcción | The Loudspeaker without Synthesis™ · Diagnosis, Noise, Ego and the Responsibility to Build | **OK** |  |
 | LXXVII | `manifiestos/77_polarizacion_binaria_radicalizacion_reciproca_fenomeno_narrativa_ES_EN.md` | Contra la Polarización Binaria y la Radicalización Recíproca™ · Derecho a Reconocer el Problema sin Heredar su Narrativa | Against Binary Polarisation and Reciprocal Radicalisation™ · The Right to Recognise a Problem without Inheriting its Narrative | **OK** |  |
+| LXXVIII | `manifiestos/78_neorrenacimiento_incontrolabilidad_intrinseca_sistema_humano_ES_EN.md` | Manifiesto de la Incontrolabilidad Intrínseca y la Necesidad del Neorrenacimiento Humano™ | Manifesto of Intrinsic Uncontrollability and the Necessity of the Human Neo-Renaissance™ | **OK** |  |
+| LXXIX | `manifiestos/79_contra_alarmismo_sin_sintesis_responsabilidad_alternativa_ES_EN.md` | Manifiesto contra el Alarmismo sin Síntesis™ · Advertir obliga a construir | Manifesto against Alarmism without Synthesis™ · Warning Creates a Duty to Build | **OK** |  |
+| LXXX | `manifiestos/80_neotrama_hojas_reconstruidas_agua_recuperada_fuego_de_agua_ES_EN.md` | Manifiesto de la Neotrama™ · Las Hojas Reconstruidas, el Agua Recuperada y el Fuego de Agua™ | Manifesto of Neotrama™ · Reconstructed Leaves, Restored Water and WaterFire™ | **OK** |  |
+| LXXXI | `manifiestos/81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md` | Manifiesto del Ultralujo como Bien Común™ · La élite del aporte | Manifesto of Ultraluxury as Common Good™ · The elite of contribution | **OK** |  |
 | ∞ | `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | Manifiesto de Neo0™ · Puerta Abierta del Fractal | Neo0™ Manifesto · Open Gate of the Fractal | **OK** |  |
 
 ## Regla permanente / Permanent rule

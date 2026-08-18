@@ -741,7 +741,7 @@ We especially seek counterexamples enabling distinction between useful symbolic 
 ## Navegación canónica / Canonical navigation
 
 ← **L** · [Por una Inteligencia Compartida, no Única™ · Invitación Abierta a las IAs / For Shared, Not Singular Intelligence™ · Open Invitation to AIs](50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)  
-· [Índice I–LXXVII / I–LXXVII index](README.md) ·  
+· [Índice I–LXXXI / I–LXXXI index](README.md) ·  
 **LII** · [Manifiesto de la Ciudadanía Humana Neodialéctica™ / Manifesto of Neodialectical Human Citizenship™](52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->

@@ -28,9 +28,9 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 > ## 🔴 ÚLTIMO MANIFIESTO FINITO ABIERTO A SÍNTESIS / LATEST FINITE MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LXXIX · Contra el Alarmismo sin Síntesis™ · Advertir obliga a construir / Against Alarmism without Synthesis™ · Warning Creates a Duty to Build**
+> **LXXXI · Manifiesto del Ultralujo como Bien Común™ · La élite del aporte / Manifesto of Ultraluxury as Common Good™ · The elite of contribution**
 >
-> **[Contra el Alarmismo sin Síntesis™ · Advertir obliga a construir / Against Alarmism without Synthesis™ · Warning Creates a Duty to Build](79_contra_alarmismo_sin_sintesis_responsabilidad_alternativa_ES_EN.md) · [Síntesis Abierta LXXIX · #158 / Open Synthesis LXXIX · #158](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/158)**
+> **[Manifiesto del Ultralujo como Bien Común™ · La élite del aporte / Manifesto of Ultraluxury as Common Good™ · The elite of contribution](81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md) · [Síntesis Abierta LXXXI · #160 / Open Synthesis LXXXI · #160](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/160)**
 
 > ## ∞ · PUERTA ABIERTA PERMANENTE / PERMANENT OPEN DOOR
 >
@@ -38,8 +38,8 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 >
 > ∞ no cuenta como número finito: permanece siempre después del último manifiesto numerado. / ∞ is not a finite manifesto number: it always remains after the latest numbered manifesto.
 
-**Estado en este commit / State at this commit:** **79 manifiestos finitos bilingües · I–LXXIX + Manifiesto ∞ / 79 finite bilingual manifestos · I–LXXIX + Manifesto ∞**  
-**Fecha / Date:** 2026-08-17
+**Estado en este commit / State at this commit:** **81 manifiestos finitos bilingües · I–LXXXI + Manifiesto ∞ / 81 finite bilingual manifestos · I–LXXXI + Manifesto ∞**  
+**Fecha / Date:** 2026-08-18
 
 <!-- NEO_CROSS_REFERENCE_POLICY_START -->
 
@@ -62,7 +62,7 @@ La sincronización se automatiza mediante `.github/scripts/sync_manifesto_crossr
 ### Síntesis de principios / Synthesis of principles
 
 Cada manifiesto dispone de un espacio público de contraste. / Each manifesto has a public space for scrutiny.  
-[Portal de Síntesis Abierta / Open Synthesis portal](../propuestas/sintesis-abierta/README.md) · [Índice completo I–LXXIX + ∞ + Neoaxiomas + sistema / Complete index](../propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md)
+[Portal de Síntesis Abierta / Open Synthesis portal](../propuestas/sintesis-abierta/README.md) · [Índice completo I–LXXXI + ∞ + Neoaxiomas + sistema / Complete index](../propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md)
 
 ### Problemas, evidencia y auditorías / Problems, evidence and audits
 
@@ -149,8 +149,10 @@ Cada manifiesto dispone de un espacio público de contraste. / Each manifesto ha
 - **LXXV** · [Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™](75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md) · [SAN #134](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/134)
 - **LXXVI** · [El Altavoz sin Síntesis™ · Diagnóstico, Ruido, Ego y Responsabilidad de Construcción / The Loudspeaker without Synthesis™ · Diagnosis, Noise, Ego and the Responsibility to Build](76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md) · [SAN #149](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/149)
 - **LXXVII** · [Contra la Polarización Binaria y la Radicalización Recíproca™ · Derecho a Reconocer el Problema sin Heredar su Narrativa / Against Binary Polarisation and Reciprocal Radicalisation™ · The Right to Recognise a Problem without Inheriting its Narrative](77_polarizacion_binaria_radicalizacion_reciproca_fenomeno_narrativa_ES_EN.md) · [SAN #154](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/154)
-- **LXXVIII** · [Incontrolabilidad Intrínseca y Necesidad del Neorrenacimiento Humano™ / Intrinsic Uncontrollability and the Necessity of the Human Neo-Renaissance™](78_neorrenacimiento_incontrolabilidad_intrinseca_sistema_humano_ES_EN.md) · [SAN #157](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/157)
-- **LXXIX** · [Contra el Alarmismo sin Síntesis™ · Advertir obliga a construir / Against Alarmism without Synthesis™ · Warning Creates a Duty to Build](79_contra_alarmismo_sin_sintesis_responsabilidad_alternativa_ES_EN.md) · [SAN #158](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/158)
+- **LXXVIII** · [Manifiesto de la Incontrolabilidad Intrínseca y la Necesidad del Neorrenacimiento Humano™ / Manifesto of Intrinsic Uncontrollability and the Necessity of the Human Neo-Renaissance™](78_neorrenacimiento_incontrolabilidad_intrinseca_sistema_humano_ES_EN.md) · [SAN #157](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/157)
+- **LXXIX** · [Manifiesto contra el Alarmismo sin Síntesis™ · Advertir obliga a construir / Manifesto against Alarmism without Synthesis™ · Warning Creates a Duty to Build](79_contra_alarmismo_sin_sintesis_responsabilidad_alternativa_ES_EN.md) · [SAN #158](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/158)
+- **LXXX** · [Manifiesto de la Neotrama™ · Las Hojas Reconstruidas, el Agua Recuperada y el Fuego de Agua™ / Manifesto of Neotrama™ · Reconstructed Leaves, Restored Water and WaterFire™](80_neotrama_hojas_reconstruidas_agua_recuperada_fuego_de_agua_ES_EN.md) · [SAN #159](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/159)
+- **LXXXI** · [Manifiesto del Ultralujo como Bien Común™ · La élite del aporte / Manifesto of Ultraluxury as Common Good™ · The elite of contribution](81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md) · [SAN #160](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/160)
 - **∞** · [Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
 
 > Ningún manifiesto equivale por sí solo al marco completo. / No single manifesto equals the complete framework.
@@ -159,7 +161,7 @@ Cada manifiesto dispone de un espacio público de contraste. / Each manifesto ha
 
 **Cualquier persona puede aportar a un nodo concreto con comprensión local suficiente.** No es necesario dominar el marco entero para preguntar, aportar experiencia, fuentes, evidencia, objeciones, contraejemplos, pruebas o mejoras. Para juzgar el marco completo se exige una profundidad proporcional de lectura y relación; por su complejidad actual, la ayuda de IA puede ser necesaria o altamente recomendable como memoria relacional, siempre con retorno a fuente.
 
-**Última síntesis finita / Latest finite synthesis:** [Contra el Alarmismo sin Síntesis™ · Advertir obliga a construir / Against Alarmism without Synthesis™ · Warning Creates a Duty to Build](79_contra_alarmismo_sin_sintesis_responsabilidad_alternativa_ES_EN.md) · [Issue #158](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/158)  
+**Última síntesis finita / Latest finite synthesis:** [Manifiesto del Ultralujo como Bien Común™ · La élite del aporte / Manifesto of Ultraluxury as Common Good™ · The elite of contribution](81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md) · [Issue #160](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/160)  
 **Puerta permanente / Permanent door:** [Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) · [Issue #106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106)  
 **Cómo aportar / How to contribute:** [protocolo general / general protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../auditorias/publicas/README.md) · [portal SAN™](../propuestas/sintesis-abierta/README.md) · [índice completo / complete index](../propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md)
 
