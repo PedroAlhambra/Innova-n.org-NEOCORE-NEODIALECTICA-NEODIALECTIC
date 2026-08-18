@@ -19,6 +19,7 @@ p=ROOT/'manifiestos'/href
 front=p.read_text(encoding='utf-8').split('# ES ·',1)[0]
 # Prefer the canonical issue already registered in the manifesto index row.
 # Fall back to the manifesto front matter for compatibility with older files.
+# 2026-08-18: retrigger marker after canonical-index issue fix.
 issues=ISSUE.findall(suffix) or ISSUE.findall(front)
 if not issues:
     raise SystemExit(f'No manifesto synthesis issue found for {roman}')
