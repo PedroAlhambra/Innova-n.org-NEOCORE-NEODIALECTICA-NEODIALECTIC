@@ -13,14 +13,6 @@ META = re.compile(r'^\*\*Manifiesto / Manifesto:\*\*\s*([IVXLCDM]+)\s*$', re.M)
 ISSUE = re.compile(r'https://github\.com/PedroAlhambra/Innova-n\.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/(\d+)')
 ROW = re.compile(r'^- \*\*([IVXLCDM]+)\*\* · \[([^\]]+)\]\(([^)]+\.md)\)(?:.*)$', re.M)
 
-# One-shot migration recovery for a manifesto that was published together with
-# its Open Synthesis issue but without the reciprocal backlink in the source.
-# The workflow writes the backlink into the manifesto itself, so this fallback
-# can be removed after the first healthy synchronization.
-BOOTSTRAP_ISSUES = {
-    'LXXXI': '160',
-}
-
 
 def roman_to_int(s):
     vals={'I':1,'V':5,'X':10,'L':50,'C':100,'D':500,'M':1000}
@@ -55,24 +47,6 @@ def parse_source(p):
     issues=ISSUE.findall(front)
     if not issues:
         issues=ISSUE.findall(text)
-    if not issues and roman in BOOTSTRAP_ISSUES:
-        issue=BOOTSTRAP_ISSUES[roman]
-        issue_url=f'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/{issue}'
-        marker=f'**Síntesis Abierta / Open Synthesis:** [#{issue}]({issue_url})  '
-        anchor='**Autoría / Authorship:**'
-        lines=text.splitlines()
-        insert_at=None
-        for i,line in enumerate(lines):
-            if line.startswith(anchor):
-                insert_at=i+1
-                break
-        if insert_at is None:
-            raise SystemExit(f'Cannot bootstrap synthesis backlink for {roman}: authorship anchor missing')
-        lines.insert(insert_at, marker)
-        text='\n'.join(lines)+'\n'
-        p.write_text(text,encoding='utf-8')
-        print(f'BOOTSTRAP_SYNTHESIS_BACKLINK {roman} issue=#{issue} source={p.relative_to(ROOT)}')
-        issues=[issue]
     if not issues:
         return None
     return {'roman':roman,'es':same[0],'en':same[1],'issue':issues[0],'path':p,'text':text}
