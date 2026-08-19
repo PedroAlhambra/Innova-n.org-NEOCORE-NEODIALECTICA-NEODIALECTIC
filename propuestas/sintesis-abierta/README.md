@@ -30,7 +30,7 @@ La evolución 7.3-CANDIDATE añade una fase recursiva a SAN™: pregunta abierta
 
 > **AUTORRESPONDER ≠ AUTOVALIDAR / SELF-ANSWERING ≠ SELF-VALIDATION.**
 
-[Documento / Document](NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md) · [Matriz / Matrix #161](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/161) · [Primer lote I–XII / First batch I–XII #162](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/162) · [Registro documental / Documentary registry #163](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/163)
+[Documento / Document](NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md) · [Matriz / Matrix #161](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/161) · [Lote 01 · I–XII / Batch 01 · I–XII #162](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/162) · [Lote 02 · XIII–XXXII / Batch 02 · XIII–XXXII #168](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/168) · [Documento Lote 02 / Batch 02 document](2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_02_XIII_XXXII_ES_EN.md) · [Registro documental / Documentary registry #163](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/163)
 
 <!-- NEOCORE_73_CANDIDATE_END -->
 

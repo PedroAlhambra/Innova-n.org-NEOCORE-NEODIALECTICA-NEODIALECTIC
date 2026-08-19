@@ -70,7 +70,7 @@ RADAR-Π™ DETECTA / DETECTS
 
 NEOCore™ desarrolla públicamente **7.3-CANDIDATE** como frontera evolutiva activa. La nueva capa recorre las preguntas abiertas del corpus, genera una respuesta interna provisional, construye su antítesis, clasifica el estado epistemológico y conserva la necesidad de contraste externo. **Autorresponder ≠ autovalidar.** / NEOCore™ publicly develops **7.3-CANDIDATE** as its active evolutionary frontier. The new layer traverses open questions in the corpus, generates a provisional internal answer, constructs its antithesis, classifies epistemic status and preserves the need for external scrutiny. **Self-answering ≠ self-validation.**
 
-**[Documento versionado / Versioned document](./propuestas/sintesis-abierta/NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md)** · **[Matriz #161 / Matrix #161](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/161)** · **[Lote I–XII #162 / Batch I–XII #162](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/162)**
+**[Documento versionado / Versioned document](./propuestas/sintesis-abierta/NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md)** · **[Matriz #161 / Matrix #161](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/161)** · **[Lote I–XII #162 / Batch I–XII #162](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/162)** · **[Lote XIII–XXXII #168 / Batch XIII–XXXII #168](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/168)** · **[Documento Lote 02 / Batch 02 document](./propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_02_XIII_XXXII_ES_EN.md)**
 
 <!-- NEOCORE_73_CANDIDATE_END -->
 

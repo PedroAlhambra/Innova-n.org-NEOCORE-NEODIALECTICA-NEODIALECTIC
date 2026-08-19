@@ -15,7 +15,9 @@
 - **Documento versionado / Versioned document:** [NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md](NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md)
 - **Matriz conceptual / Conceptual matrix:** [#161](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/161)
 - **Lote 01 · I–XII / Batch 01 · I–XII:** [#162](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/162)
+- **Lote 02 · XIII–XXXII / Batch 02 · XIII–XXXII:** [#168](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/168) · [documento / document](2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_02_XIII_XXXII_ES_EN.md)
 - **Registro documental / Documentary registry:** [#163](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/163)
+- **Cobertura actual / Current coverage:** **I–XXXII**; siguiente lote / next batch **XXXIII–LII**.
 - **Estado / Status:** `7.3-CANDIDATE`; promoción a canon sólo tras superar el gate de cobertura, evidencia, simetría y auditoría. / promotion to canon only after passing the coverage, evidence, symmetry and audit gate.
 
 <!-- NEOCORE_73_CANDIDATE_END -->
