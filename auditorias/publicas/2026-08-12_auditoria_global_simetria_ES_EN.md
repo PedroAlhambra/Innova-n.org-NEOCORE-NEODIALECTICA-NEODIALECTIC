@@ -7,15 +7,18 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **294**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **231**.
-- Fallos estructurales divididos / Split structural failures: **1**.
+- Markdown activo examinado / Active Markdown scanned: **295**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **232**.
+- Fallos estructurales divididos / Split structural failures: **2**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **1**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
 
+- `propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_02_XIII_XXXII_ES_EN.md` · ES=184 · EN=5290 · ratio=28.75
+  - volumen EN/ES=28.75 (5290/184)
+  - esqueleto de encabezados distinto ES=[] EN=[(2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, '')]
 - `propuestas/sintesis-abierta/NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md` · ES=245 · EN=215 · ratio=0.88
   - Gate para 7.3 canónico: lists ES=6 EN=0
   - Estado de ejecución: párrafos ES=1 EN=2
@@ -250,6 +253,7 @@
 | `propuestas/sintesis-abierta/2026-08-16_C_NAX_25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-16_C_NAX_26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-16_DELTA_PODER_TRAZABILIDAD_ESCRUTINIO_EVIDENCIA_ES_EN.md` | **OK** |  |
+| `propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_02_XIII_XXXII_ES_EN.md` | **REVISAR** | volumen EN/ES=28.75 (5290/184); esqueleto de encabezados distinto ES=[] EN=[(2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, '')] |
 | `propuestas/sintesis-abierta/ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_v0.1_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md` | **OK** |  |
