@@ -1,7 +1,7 @@
 # Postcheck dinámico · README, índices y enlaces / Dynamic README, indices and links postcheck
 
 **Fecha / Date:** 2026-08-12  
-**Estado / Status:** **REQUIERE CORRECCIÓN / NEEDS CORRECTION**
+**Estado / Status:** **OK**
 
 > **Alcance / Scope:** el grafo vivo excluye `wiki-legacy-archive/` y las entradas raíz legacy `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` y `FOREWORD.md`. Esos nombres legacy no constituyen superficies canónicas vivas; tras su retirada de `main`, su contenido histórico permanece recuperable mediante Git. / the living graph excludes `wiki-legacy-archive/` and the root legacy entry files `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` and `FOREWORD.md`. Those legacy names are not living canonical surfaces; after retirement from `main`, their historical contents remain recoverable through Git.
 
@@ -11,16 +11,16 @@
 - Archivos Markdown históricos excluidos del estado vivo: **55**.
 - Entradas legacy excluidas del estado vivo: **0**.
 - README activos revisados: **17**.
-- Enlaces internos de ruta comprobados: **10740**.
+- Enlaces internos de ruta comprobados: **10748**.
 - Alias internos de GitHub Wiki reconocidos: **44**.
-- Enlaces externos inventariados sin comprobar disponibilidad remota: **1938**.
+- Enlaces externos inventariados sin comprobar disponibilidad remota: **1942**.
 - Enlaces sólo a ancla detectados: **420**.
 - Bloques de último manifiesto encontrados en README: **8**.
 - Bloques legacy NEO_CURRENT_NAV encontrados en README: **0**.
 - Bloques redundantes MANIFESTOS_CURRENT encontrados en README: **0**.
 - Manifiestos canónicos detectados: **81 · I–LXXXI**.
 - Último manifiesto / Síntesis: **LXXXI / #160**.
-- Enlaces internos rotos del grafo vivo: **1**.
+- Enlaces internos rotos del grafo vivo: **0**.
 - Fallos canónicos críticos: **0**.
 
 ### Comprobaciones canónicas
@@ -36,9 +36,7 @@
 
 ### Enlaces internos rotos del grafo vivo
 
-| Origen | Destino | Motivo |
-|---|---|---|
-| `README.md` | `proyeccion/NEOCORE_PRE_7_3_DELTA_ES_EN.md` | destino inexistente / missing target |
+- Ninguno detectado por el validador de rutas del repositorio.
 
 ## EN · Result
 
@@ -46,16 +44,16 @@
 - Historical Markdown files excluded from living-state health: **55**.
 - Legacy entry files excluded from living-state health: **0**.
 - Active README files reviewed: **17**.
-- Internal path links checked: **10740**.
+- Internal path links checked: **10748**.
 - GitHub Wiki extensionless page aliases recognised: **44**.
-- External links inventoried without checking remote availability: **1938**.
+- External links inventoried without checking remote availability: **1942**.
 - Anchor-only links detected: **420**.
 - Latest-manifesto blocks found in README files: **8**.
 - Legacy NEO_CURRENT_NAV blocks found in README files: **0**.
 - Redundant MANIFESTOS_CURRENT blocks found in README files: **0**.
 - Canonical manifestos detected: **81 · I–LXXXI**.
 - Latest manifesto / synthesis: **LXXXI / #160**.
-- Broken internal links in the living graph: **1**.
+- Broken internal links in the living graph: **0**.
 - Canonical critical failures: **0**.
 
 ### Canonical checks
@@ -71,8 +69,6 @@
 
 ### Broken internal links in the living graph
 
-| Source | Target | Reason |
-|---|---|---|
-| `README.md` | `proyeccion/NEOCORE_PRE_7_3_DELTA_ES_EN.md` | destino inexistente / missing target |
+- None detected by the repository route validator.
 
 **Innova_N · NEOCore™ · Neodialectica Framework™ / Network**
