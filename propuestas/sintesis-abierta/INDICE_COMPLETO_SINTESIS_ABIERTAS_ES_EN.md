@@ -14,12 +14,13 @@
 
 - **Documento matriz / Matrix document:** [NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md](NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md)
 - **Matriz conceptual / Conceptual matrix:** [#161](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/161)
-- **Delta arquitectónico · Continuidad Creadora, Neo0 y toroide / Architectural delta · Creative Continuity, Neo0 and toroid:** [#169](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/169) · [documento / document](2026-08-19_NEOCore_7_3_DELTA_CONTINUIDAD_CREADORA_NEO0_TOROIDE_ES_EN.md)
+- **Delta arquitectónico · Continuidad Creadora, Neo0 y toroide / Architectural delta:** [#169](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/169) · [documento](2026-08-19_NEOCore_7_3_DELTA_CONTINUIDAD_CREADORA_NEO0_TOROIDE_ES_EN.md)
 - **Lote 01 · I–XII / Batch 01:** [#162](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/162)
-- **Lote 02 · XIII–XXXII / Batch 02:** [#168](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/168) · [documento / document](2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_02_XIII_XXXII_ES_EN.md)
-- **Lote 03A · XXXIII–XLII / Batch 03A:** [#170](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/170) · [documento / document](2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_03A_XXXIII_XLII_ES_EN.md)
+- **Lote 02 · XIII–XXXII / Batch 02:** [#168](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/168) · [documento](2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_02_XIII_XXXII_ES_EN.md)
+- **Lote 03A · XXXIII–XLII / Batch 03A:** [#170](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/170) · [documento](2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_03A_XXXIII_XLII_ES_EN.md)
+- **Lote 03B · XLIII–LII / Batch 03B:** [#171](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/171) · [documento](2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_03B_XLIII_LII_ES_EN.md)
 - **Registro documental / Documentary registry:** [#163](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/163)
-- **Cobertura actual / Current coverage:** **I–XLII**; siguiente tanda / next batch **XLIII–LII**.
+- **Cobertura actual / Current coverage:** **I–LII**; siguiente tanda / next batch **LIII–LXVIII**.
 - **Estado / Status:** `7.3-CANDIDATE`; promoción a canon sólo tras completar cobertura, clasificación de fuentes/evidencia, simetría, Neoaxiomas y auditoría relacional final. / promotion to canon only after completing coverage, source/evidence classification, symmetry, Neoaxioms and final relational audit.
 
 <!-- NEOCORE_73_CANDIDATE_END -->
