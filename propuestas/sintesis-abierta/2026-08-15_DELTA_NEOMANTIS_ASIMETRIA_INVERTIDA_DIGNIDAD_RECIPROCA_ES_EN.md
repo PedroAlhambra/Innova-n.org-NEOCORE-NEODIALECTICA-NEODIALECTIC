@@ -3,7 +3,7 @@
 
 **Fecha / Date:** 2026-08-15  
 **Estado / Status:** propuesta estructurada para Síntesis Abierta; no validación empírica automática / structured proposal for Open Synthesis; not automatic empirical validation  
-**Marco / Framework:** NEOCore™ 7.2 · Síntesis Abierta Neodialéctica™ · SAN™  
+**Marco / Framework:** NEOCore™ PRE-7.3 · Síntesis Abierta Neodialéctica™ · SAN™  
 **Síntesis Abierta / Open Synthesis:** [Issue #148 · NeoMantis™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/148)  
 **Relaciones principales / Main relations:** [LXXIV · Asimetría de la Destrucción™](../../manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md) · [XLV · Multidimensionalidad Neodialéctica™](../../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) · [LXXIII · Maduración Invertida™](../../manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md) · [LXIX · Defensa de la Inocencia Humana™](../../manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md) · [LXX · Fauno™](../../manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md) · [LXXII · Hombre Custodio™](../../manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) · [LII · Ciudadanía Humana™](../../manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md) · [C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123) · [C-NAX-20 · Humanidad Común sin Supresión de la Diferencia™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/126)
 

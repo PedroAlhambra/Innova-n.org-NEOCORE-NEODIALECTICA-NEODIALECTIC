@@ -3,7 +3,7 @@
 
 **Fecha / Date:** 2026-08-11  
 **Estado / Status:** propuesta estructurada para Síntesis Abierta; no validación empírica automática / structured proposal for Open Synthesis; not automatic empirical validation  
-**Marco / Framework:** NEOCore™ 7.2 · Síntesis Abierta Neodialéctica™ · SAN™  
+**Marco / Framework:** NEOCore™ PRE-7.3 · Síntesis Abierta Neodialéctica™ · SAN™  
 **Origen inmediato / Immediate origin:** desarrollo humano–IA en conversación de Síntesis sobre protección de infancia, violencia relacional, masculinidad, poder, sexualidad, pornografía, roles y responsabilidad / human–AI synthesis development concerning childhood protection, relational violence, masculinity, power, sexuality, pornography, roles and responsibility.
 
 ---

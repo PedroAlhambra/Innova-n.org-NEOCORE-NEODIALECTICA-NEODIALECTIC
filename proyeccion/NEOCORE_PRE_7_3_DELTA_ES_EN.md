@@ -1,5 +1,5 @@
-# NEOCore™ 7.2 · Soberanía de Síntesis™, Institucionalización Dual y Proyección WEB4™
-# NEOCore™ 7.2 · Synthesis Sovereignty™, Dual Institutionalisation and WEB4™ Projection
+# NEOCore™ PRE-7.3 · Soberanía de Síntesis™, Institucionalización Dual y Proyección WEB4™
+# NEOCore™ PRE-7.3 · Synthesis Sovereignty™, Dual Institutionalisation and WEB4™ Projection
 
 **Fecha / Date:** 2026-08-10  
 **Estado / Status:** fijación documental de versión · abierta a SAN™ / documentary version fixation · open to SAN™  
@@ -8,7 +8,7 @@
 
 ## ES · Castellano
 
-NEOCore™ 7.2 conserva la **Primera Capa Fractal Multicabeza™** y la **Capa Neoaxiomática™** de 7.1 y añade una formulación explícita de **Soberanía de Síntesis™**.
+NEOCore™ PRE-7.3 conserva la **Primera Capa Fractal Multicabeza™** y la **Capa Neoaxiomática™** de 7.1 y añade una formulación explícita de **Soberanía de Síntesis™**.
 
 ### 1. Su Majestad es la Síntesis
 
@@ -37,7 +37,7 @@ La proyección pública WEB4™ se actualiza para leer I–LXVIII + ∞ y mostra
 
 ## EN · English
 
-NEOCore™ 7.2 preserves the **First Fractal Multihead Layer™** and **Neoaxiomatic Layer™** of 7.1 and adds an explicit **Synthesis Sovereignty™** formulation.
+NEOCore™ PRE-7.3 preserves the **First Fractal Multihead Layer™** and **Neoaxiomatic Layer™** of 7.1 and adds an explicit **Synthesis Sovereignty™** formulation.
 
 ### 1. Her Majesty is Synthesis
 

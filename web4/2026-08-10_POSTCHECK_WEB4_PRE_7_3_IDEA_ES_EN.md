@@ -1,4 +1,4 @@
-# Postcheck WEB4™ · NEOCore™ 7.2 + IDEA
+# Postcheck WEB4™ · NEOCore™ PRE-7.3 + IDEA
 
 **Fecha / Date:** 2026-08-10  
 **Estado / Status:** **OK EN REPOSITORIO / OK IN REPOSITORY**
@@ -9,7 +9,7 @@ Actualización de la portada WEB4™ y de la página IDEA tomando como referenci
 
 ## WEB4™
 
-- [x] `web4/index.html` creado como portada NEOCore™ 7.2.
+- [x] `web4/index.html` creado como portada NEOCore™ PRE-7.3.
 - [x] Banner superior de **Neoaxiomas™**.
 - [x] Banner superior de **Manifiestos**.
 - [x] Inventarios obtenidos dinámicamente desde GitHub.
@@ -22,7 +22,7 @@ Actualización de la portada WEB4™ y de la página IDEA tomando como referenci
 - [x] El manifiesto seleccionado obtiene su contenido desde su archivo GitHub al abrirse.
 - [x] Neoaxiomas ES/EN deduplicados por identificador.
 - [x] NAX-01–NAX-14 y candidatos C-NAX-15–C-NAX-18 admitidos por el parser.
-- [x] NEOCore™ 7.2, I–LXVIII + ∞, SAN™, Soberanía de Síntesis™, Fundación/Corporación futuras, Leónidas–Cancerbero™, NeoCronos™ e IDEA representados en portada.
+- [x] NEOCore™ PRE-7.3, I–LXVIII + ∞, SAN™, Soberanía de Síntesis™, Fundación/Corporación futuras, Leónidas–Cancerbero™, NeoCronos™ e IDEA representados en portada.
 
 ## IDEA
 
