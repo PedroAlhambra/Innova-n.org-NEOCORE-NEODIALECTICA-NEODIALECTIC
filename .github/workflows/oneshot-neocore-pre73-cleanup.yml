@@ -1,0 +1,108 @@
+name: oneshot-neocore-pre73-cleanup
+
+on:
+  push:
+    paths:
+      - '.github/workflows/oneshot-neocore-pre73-cleanup.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Migrate superseded version references and paths
+        run: |
+          python .github/scripts/migrate_neocore_pre_73_refs.py
+          python .github/scripts/sync_neocore_73_candidate.py
+
+      - name: Harden remaining version references
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re, subprocess
+
+          raw=subprocess.check_output(['git','ls-files','-z'])
+          files=[Path(x.decode()) for x in raw.split(b'\0') if x]
+          pats=[
+              (re.compile(r'NEOCore™\s+(?:v)?7\.2',re.I),'NEOCore™ PRE-7.3'),
+              (re.compile(r'NEOCore\s+(?:v)?7\.2',re.I),'NEOCore PRE-7.3'),
+              (re.compile(r'NEOCORE\s+(?:v)?7\.2',re.I),'NEOCORE PRE-7.3'),
+              (re.compile(r'\b7\.2\s+CANON\b',re.I),'PRE-7.3'),
+              (re.compile(r'\b7\.2\s+can[oó]nic[oa]\b',re.I),'PRE-7.3'),
+              (re.compile(r'\bfijaci[oó]n\s+7\.2\b',re.I),'fijación PRE-7.3'),
+              (re.compile(r'\bfixation\s+7\.2\b',re.I),'fixation PRE-7.3'),
+              (re.compile(r'\bdelta\s+7\.2\b',re.I),'delta PRE-7.3'),
+              (re.compile(r'\bversi[oó]n\s+7\.2\b',re.I),'versión PRE-7.3'),
+              (re.compile(r'\bversion\s+7\.2\b',re.I),'version PRE-7.3'),
+          ]
+          changed=[]
+          for p in files:
+              if not p.exists(): continue
+              try: text=p.read_text(encoding='utf-8')
+              except Exception: continue
+              old=text
+              text=text.replace('NEOCORE_7_2','NEOCORE_PRE_7_3').replace('neocore_7_2','neocore_PRE_7_3')
+              text=text.replace('NEOCORE_72','NEOCORE_PRE_73').replace('neocore-72','neocore-pre-73')
+              for pat,repl in pats:
+                  text=pat.sub(repl,text)
+              if text!=old:
+                  p.write_text(text,encoding='utf-8'); changed.append(str(p))
+          print('HARDENED_FILES',len(changed))
+          PY
+
+      - name: Retire one-shot migration machinery
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('.github/scripts/sync_neocore_73_candidate.py')
+          s=p.read_text(encoding='utf-8')
+          s=s.replace('import runpy\n','')
+          s=s.replace("# Remove superseded numeric version labels before rebuilding the active 7.3-CANDIDATE surfaces.\nrunpy.run_path('.github/scripts/migrate_neocore_pre_73_refs.py', run_name='__main__')\n\n",'')
+          p.write_text(s,encoding='utf-8')
+          PY
+          git rm .github/scripts/migrate_neocore_pre_73_refs.py
+          git rm .github/workflows/oneshot-neocore-pre73-cleanup.yml
+
+      - name: Verify no living NEOCore pre-candidate numeric labels remain
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re, subprocess
+          raw=subprocess.check_output(['git','ls-files','-z'])
+          files=[Path(x.decode()) for x in raw.split(b'\0') if x]
+          patterns=[
+              re.compile(r'NEOCore™?[^\n]{0,60}\b7\.2\b',re.I),
+              re.compile(r'\b7\.2\b[^\n]{0,60}NEOCore™?',re.I),
+              re.compile(r'NEOCORE_7_2|neocore_7_2|NEOCORE_72|neocore-72',re.I),
+              re.compile(r'\b(?:fijaci[oó]n|fixation|delta|versi[oó]n|version)\s+7\.2\b',re.I),
+          ]
+          bad=[]
+          for p in files:
+              if not p.exists(): continue
+              try: text=p.read_text(encoding='utf-8')
+              except Exception: continue
+              for n,line in enumerate(text.splitlines(),1):
+                  if any(rx.search(line) for rx in patterns):
+                      bad.append((str(p),n,line[:220]))
+          if bad:
+              print('\n'.join(f'{p}:{n}: {line}' for p,n,line in bad[:200]))
+              raise SystemExit(f'RESIDUAL_VERSION_REFS={len(bad)}')
+          print('NEOCORE_PRE73_NUMERIC_REFERENCES=0')
+          PY
+
+      - name: Commit cleanup
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m 'docs: migrate living NEOCore surfaces to 7.3-CANDIDATE'
+          git pull --rebase origin main
+          git push origin main
