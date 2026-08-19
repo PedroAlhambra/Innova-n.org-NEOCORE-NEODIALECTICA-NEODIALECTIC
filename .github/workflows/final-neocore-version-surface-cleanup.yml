@@ -1,6 +1,5 @@
 name: final-neocore-version-surface-cleanup
 
-# retrigger 2026-08-19T17:35+02:00
 on:
   push:
     paths:
@@ -91,9 +90,9 @@ jobs:
           PY
       - name: Run core audits
         run: |
-          python .github/scripts/audit_markdown_readmes_and_links.py
-          python .github/scripts/audit_bilingual_structure.py
-          python .github/scripts/audit_neoaxiomas.py
+          python .github/scripts/audit_markdown_links_readmes.py
+          python .github/scripts/audit_global_bilingual_symmetry.py
+          python .github/scripts/audit_neoaxiom_registry_integrity.py
       - name: Commit final cleanup
         run: |
           git config user.name 'github-actions[bot]'
