@@ -74,9 +74,11 @@ NEOCore™ desarrolla públicamente **7.3-CANDIDATE** como frontera evolutiva ac
 
 <!-- NEOCORE_73_CANDIDATE_END -->
 
+
 ### LXXXI · Manifiesto del Ultralujo como Bien Común™ · La élite del aporte / Manifesto of Ultraluxury as Common Good™ · The elite of contribution
 
 **[Leer LXXXI / Read LXXXI](./manifiestos/81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md)** · **[Síntesis Abierta #160 / Open Synthesis #160](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/160)**
+
 
 ### Umbral-X™ · MAXPROC 001 · Leónidas-Cancerbero™
 
