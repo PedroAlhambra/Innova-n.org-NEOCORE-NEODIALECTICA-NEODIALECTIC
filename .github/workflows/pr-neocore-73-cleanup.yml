@@ -22,7 +22,7 @@ jobs:
           python .github/scripts/migrate_neocore_pre_73_refs.py
           python .github/scripts/sync_neocore_73_candidate.py
 
-      - name: Remove transient migration scripts and workflow hooks
+      - name: Retire transient migration script and keep workflow files untouched
         run: |
           python - <<'PY'
           from pathlib import Path
@@ -33,16 +33,15 @@ jobs:
           p.write_text(s,encoding='utf-8')
           PY
           git rm -f .github/scripts/migrate_neocore_pre_73_refs.py
-          git rm -f .github/workflows/oneshot-neocore-pre73-cleanup.yml
-          git rm -f .github/workflows/pr-neocore-73-cleanup.yml
+          git checkout -- .github/workflows
 
-      - name: Verify live tree has no obsolete NEOCore numeric version references
+      - name: Verify non-workflow live tree has no obsolete NEOCore numeric version references
         run: |
           python - <<'PY'
           from pathlib import Path
           import re, subprocess
           raw=subprocess.check_output(['git','ls-files','-z'])
-          files=[Path(x.decode()) for x in raw.split(b'\0') if x]
+          files=[Path(x.decode()) for x in raw.split(b'\0') if x and not x.decode().startswith('.github/workflows/')]
           patterns=[
             re.compile(r'NEOCore™?[^\n]{0,80}\b7\.2\b',re.I),
             re.compile(r'\b7\.2\b[^\n]{0,80}NEOCore™?',re.I),
@@ -59,7 +58,7 @@ jobs:
           if bad:
             print('\n'.join(f'{p}:{n}: {line}' for p,n,line in bad[:200]))
             raise SystemExit(f'RESIDUAL_VERSION_REFS={len(bad)}')
-          print('OBSOLETE_NEOCORE_NUMERIC_VERSION_REFS=0')
+          print('NON_WORKFLOW_OBSOLETE_NEOCORE_NUMERIC_VERSION_REFS=0')
           PY
 
       - name: Commit generated migration back to PR branch
