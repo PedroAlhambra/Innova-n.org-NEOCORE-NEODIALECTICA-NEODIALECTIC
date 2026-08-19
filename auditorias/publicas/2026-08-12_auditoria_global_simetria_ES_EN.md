@@ -32,9 +32,10 @@
   - ES · 4. Principio de Continuidad Creadora™: code ES=1 EN=0
   - ES · 5. Evidencia proporcional a la naturaleza de la afirmación: code ES=1 EN=0
   - ES · 6. Corrección de la genealogía Finkelstein–McLuhan–Neo0™: code ES=1 EN=0
-- `propuestas/sintesis-abierta/NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md` · ES=476 · EN=391 · ratio=0.82
-  - Gate para 7.3 canónico: lists ES=8 EN=0
-  - Estado de ejecución: párrafos ES=1 EN=2
+- `propuestas/sintesis-abierta/NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md` · ES=417 · EN=348 · ratio=0.83
+  - Gate para 7.3 canónico: lists ES=9 EN=0
+  - Síntesis acumulada hasta LII: code ES=1 EN=0
+  - Síntesis acumulada hasta LII: párrafos ES=2 EN=3
 
 ## Marcadores / Markers
 
@@ -280,7 +281,7 @@
 | `propuestas/sintesis-abierta/MEDICI_CREDITOS_PLATAFORMAS_COMPENSACION_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/MEDICI_MOTOR_CALCULO_PLATAFORMAS_V0_1_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
-| `propuestas/sintesis-abierta/NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md` | **REVISAR** | Gate para 7.3 canónico: lists ES=8 EN=0; Estado de ejecución: párrafos ES=1 EN=2 |
+| `propuestas/sintesis-abierta/NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md` | **REVISAR** | Gate para 7.3 canónico: lists ES=9 EN=0; Síntesis acumulada hasta LII: code ES=1 EN=0; Síntesis acumulada hasta LII: párrafos ES=2 EN=3 |
 | `propuestas/sintesis-abierta/NEOCRONOS_RETORNO_TEMPORAL_TOKENIZACION_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/NEOCRONOS_UPGRADE_ENTRADA_PANEL_TRAZA_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md` | **OK** |  |
