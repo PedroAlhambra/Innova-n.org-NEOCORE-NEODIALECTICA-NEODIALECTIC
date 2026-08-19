@@ -1,6 +1,6 @@
 # Innova_N
 
-**NEOCore™ 7.2 · estado actual / current state**
+**NEOCore™ PRE-7.3 · estado actual / current state**
 
 ## Entrar / Enter
 
