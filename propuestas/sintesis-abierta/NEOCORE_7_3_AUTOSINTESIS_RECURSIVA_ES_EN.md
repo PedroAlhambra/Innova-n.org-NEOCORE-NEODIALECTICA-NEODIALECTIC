@@ -5,106 +5,176 @@
 **Estado / Status:** CANDIDATA · SÍNTESIS ABIERTA / CANDIDATE · OPEN SYNTHESIS  
 **Base canónica / Canonical base:** NEOCore™ PRE-7.3  
 **Matriz pública / Public matrix:** [Issue #161](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/161)  
-**Lote 01 / Batch 01:** [I–XII · Issue #162](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/162)  
-**Lote 02 / Batch 02:** [XIII–XXXII · Issue #168](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/168) · [documento / document](2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_02_XIII_XXXII_ES_EN.md)  
-**Registro documental / Documentary registry:** [Issue #163](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/163)
+**Delta arquitectónico vigente / Current architectural delta:** [#169 · Continuidad Creadora, Función Neo0™ y Toroide Multicabeza/Multiescala](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/169) · [documento / document](2026-08-19_NEOCore_7_3_DELTA_CONTINUIDAD_CREADORA_NEO0_TOROIDE_ES_EN.md)  
+**Lote 01 / Batch 01:** [I–XII · #162](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/162)  
+**Lote 02 / Batch 02:** [XIII–XXXII · #168](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/168) · [documento](2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_02_XIII_XXXII_ES_EN.md)  
+**Lote 03A / Batch 03A:** [XXXIII–XLII · #170](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/170) · [documento](2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_03A_XXXIII_XLII_ES_EN.md)  
+**Registro documental / Documentary registry:** [#163](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/163)
 
 > **AUTORRESPONDER ≠ AUTOVALIDAR.**  
-> **SELF-ANSWERING ≠ SELF-VALIDATION.**
+> **CREAR ≠ JUZGAR EN EL MISMO INSTANTE.**  
+> **SELF-ANSWERING ≠ SELF-VALIDATION.**  
+> **CREATING ≠ JUDGING AT THE SAME INSTANT.**
 
 ## ES · Objeto
 
-NEOCore™ 7.3-CANDIDATE añade una fase recursiva a SAN™: el sistema vuelve activamente a las preguntas abiertas de su propio corpus, intenta producir la mejor respuesta interna provisional disponible, construye la antítesis más fuerte que pueda formular contra ella, clasifica su estado epistemológico y declara qué evidencia externa, falsadores o casos límite siguen siendo necesarios.
+NEOCore™ 7.3-CANDIDATE añade una fase recursiva a SAN™ dentro de una topología **toroidal, multicabeza y multiescala**. La Síntesis Abierta™ no es una conclusión cerrada que posteriormente se reabre: nace abierta y permanece capaz de cambiar de función según cabeza y escala.
+
+Una síntesis puede ser, simultáneamente o en momentos distintos, síntesis respecto de una contradicción, tesis respecto de una escala superior, antítesis frente a otra cabeza, fragmento de una arquitectura mayor u origen de una nueva síntesis.
+
+### Dos tiempos cognitivos
 
 ```text
-PREGUNTA ABIERTA
-→ RETORNO AL CORPUS
-→ RESPUESTA INTERNA PROVISIONAL
-→ ANTÍTESIS / RED TEAM INTERNO
-→ CLASIFICACIÓN EPISTÉMICA
-→ EVIDENCIA / FALSADORES / CASOS LÍMITE
-→ SÍNTESIS PROVISIONAL VERSIONADA
-→ CONTRASTE EXTERNO
-→ DELTA / REAPERTURA
+MODO CREADOR
+→ señal / relación / salto
+→ captura
+→ memoria
+→ continuidad asociativa
+→ nueva síntesis posible
+
+FIJACIÓN TRAZABLE
+
+MODO CONTRASTE
+→ retorno al corpus
+→ antítesis / red team
+→ clasificación epistemológica
+→ fuente / evidencia / falsadores / casos límite
+→ contraste externo cuando corresponda
+→ delta
+→ retorno al toroide
 ```
 
-Una pregunta puede quedar respondida internamente y continuar abierta. En esta capa, `OPEN` significa **revisable**, no necesariamente «sin respuesta».
+El juicio no desaparece: se desplaza al momento cognitivo adecuado cuando puede diferirse sin riesgo. Durante una emergencia creadora el sistema debe evitar que su propia asistencia destruya el hilo que pretende ampliar.
 
-### Estados operativos
+### Función Neo0™
+
+Neo0™ es **función de origen sintético**, no casta, rango permanente ni identidad exclusiva. Cualquier nodo es Neo0 respecto de una síntesis genuinamente nueva que origine. La genealogía de una síntesis concreta conserva a su nodo originador sin convertir esa procedencia en autoridad perpetua sobre las síntesis futuras.
+
+Pedro Martínez Alhambra · Neo0™ conserva la genealogía originaria del Neodialectica Framework™ por haber originado esa síntesis histórica concreta. La función Neo0™ permanece distribuible en el toroide.
+
+### Estados de síntesis
 
 - `RESPUESTA_PROVISIONAL_INTERNA`
 - `RESPUESTA_CONDICIONADA`
 - `BIFURCACIÓN_IRREDUCIBLE`
-- `REQUIERE_EVIDENCIA_EXTERNA`
 - `ABIERTA_POR_DISEÑO`
 - `REFUTADA_SUPERADA`
 
+### Tipos de fuente, evidencia y contraste
+
+La antigua categoría genérica `REQUIERE_EVIDENCIA_EXTERNA` debe descomponerse, siempre que sea posible, según la naturaleza de la afirmación:
+
+- `FUENTE_PRIMARIA_AUTOBIOGRÁFICA`
+- `TRAZABILIDAD_DOCUMENTAL_INTERNA`
+- `REQUIERE_CONTRASTE_BIBLIOGRÁFICO`
+- `REQUIERE_EVIDENCIA_EMPÍRICA_EXTERNA`
+- `REQUIERE_VALIDACIÓN_INDEPENDIENTE`
+
+La fuente exigible debe ser proporcional al tipo y alcance de la afirmación. Experiencia propia, autoría, hecho exterior, causalidad empírica y prioridad universal no tienen la misma carga probatoria.
+
 ### Gate para 7.3 canónico
 
-La etiqueta `7.3-CANDIDATE` no debe promocionarse a `7.3 CANON` hasta completar:
+`7.3-CANDIDATE` no debe promocionarse a `7.3 CANON` hasta completar:
 
-1. recorrido de las preguntas abiertas de I–LXXXI + ∞ que admitan respuesta interna;
-2. clasificación explícita de las preguntas que requieren evidencia externa;
+1. recorrido de preguntas abiertas de I–LXXXI + ∞ que admitan respuesta interna;
+2. clasificación explícita del tipo de fuente/evidencia necesario para aquello que no pueda resolverse desde el corpus;
 3. simetría ES/EN;
-4. auditoría relacional con manifiestos, Neoaxiomas™, candidatos, Issues y auditorías;
-5. delta de versión que diferencie respuesta interna de validación externa;
-6. navegación reversible pregunta ↔ respuesta ↔ manifiesto ↔ Issue ↔ versión.
+4. auditoría relacional con manifiestos, Neoaxiomas™, candidatos, Issues, análisis y auditorías;
+5. delta de versión que diferencie origen sintético, traza, contraste y validación independiente;
+6. navegación reversible pregunta ↔ respuesta ↔ manifiesto ↔ Issue ↔ versión ↔ delta;
+7. preservación de Continuidad Creadora™ para impedir que el mecanismo de contraste se convierta en steering por interrupción;
+8. tratamiento de Neo0™ como función emergente distribuible sin borrar genealogía.
 
 ### Estado de ejecución
 
-- **Lote 01 · I–XII:** ejecutado en [#162](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/162).
-- **Lote 02 · XIII–XXXII:** ejecutado en [#168](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/168) y [documento versionado](2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_02_XIII_XXXII_ES_EN.md).
-- **XXXIII–LII:** pendiente.
+- **I–XII:** ejecutado · [#162](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/162).
+- **XIII–XXXII:** ejecutado · [#168](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/168).
+- **Delta Continuidad Creadora / Neo0 / toroide:** fijado · [#169](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/169).
+- **XXXIII–XLII:** ejecutado · [#170](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/170).
+- **XLIII–LII:** siguiente tanda.
 - **LIII–LXVIII:** pendiente.
 - **LXIX–LXXXI + ∞:** pendiente.
 - **Neoaxiomas™ canónicos y candidatos:** pendiente.
 - **Auditoría cruzada y propuesta de promoción 7.3:** pendiente.
 
-La revisión externa conserva función independiente. El objetivo del contraste externo no es pedir a terceros que resuelvan desde cero preguntas para las que el marco ya dispone de una respuesta, sino exponer esa respuesta a ataques, contraejemplos, literatura omitida y condiciones de fallo.
+El contraste externo conserva función propia, pero no como permiso para que una síntesis exista. Cuando el marco ya posee una respuesta, el valor externo prioritario es localizar dónde falla, qué antecedente falta, qué supuesto permanece oculto o qué evidencia empírica requiere contraste independiente.
+
+---
 
 ## EN · Purpose
 
-NEOCore™ 7.3-CANDIDATE adds a recursive phase to SAN™: the system actively returns to the open questions in its own corpus, attempts to produce the best provisional internal answer currently available, constructs the strongest antithesis it can formulate against that answer, classifies its epistemic status, and declares which external evidence, falsifiers or edge cases are still required.
+NEOCore™ 7.3-CANDIDATE adds a recursive phase to SAN™ within a **toroidal, multihead and multiscale** topology. Open Synthesis™ is not a closed conclusion later reopened: it is born open and may change function across heads and scales.
+
+A synthesis may act as synthesis relative to one contradiction, thesis at a higher scale, antithesis relative to another head, fragment within a larger architecture, or origin of a new synthesis.
+
+### Two cognitive times
 
 ```text
-OPEN QUESTION
-→ RETURN TO CORPUS
-→ PROVISIONAL INTERNAL ANSWER
-→ INTERNAL ANTITHESIS / RED TEAM
-→ EPISTEMIC CLASSIFICATION
-→ EVIDENCE / FALSIFIERS / EDGE CASES
-→ VERSIONED PROVISIONAL SYNTHESIS
-→ EXTERNAL SCRUTINY
-→ DELTA / REOPENING
+CREATIVE MODE
+→ signal / relation / leap
+→ capture
+→ memory
+→ associative continuity
+→ possible new synthesis
+
+TRACEABLE FIXATION
+
+SCRUTINY MODE
+→ return to corpus
+→ antithesis / red team
+→ epistemic classification
+→ source / evidence / falsifiers / edge cases
+→ external scrutiny where appropriate
+→ delta
+→ return to toroid
 ```
 
-A question may receive an internal answer and remain open. In this layer, `OPEN` means **revisable**, not necessarily “unanswered”.
+Judgement is not removed; it is moved to the appropriate cognitive moment whenever safe deferral is possible. During creative emergence, the system must avoid allowing its own assistance to destroy the thread it aims to augment.
 
-### Operational states
+### Neo0™ function
+
+Neo0™ is a **synthetic-origin function**, not a caste, permanent rank or exclusive identity. Any node is Neo0 relative to a genuinely new synthesis it originates. Genealogy preserves the origin node of a concrete synthesis without turning provenance into perpetual authority over future syntheses.
+
+Pedro Martínez Alhambra · Neo0™ preserves the origin genealogy of the Neodialectica Framework™ because he originated that particular historical synthesis. The Neo0™ function remains distributable throughout the toroid.
+
+### Synthesis states
 
 - `PROVISIONAL_INTERNAL_ANSWER`
 - `CONDITIONAL_ANSWER`
 - `IRREDUCIBLE_BIFURCATION`
-- `REQUIRES_EXTERNAL_EVIDENCE`
 - `OPEN_BY_DESIGN`
 - `REFUTED_SUPERSEDED`
 
+### Source, evidence and scrutiny types
+
+Where possible the former generic `REQUIRES_EXTERNAL_EVIDENCE` state is decomposed into:
+
+- `PRIMARY_AUTOBIOGRAPHICAL_SOURCE`
+- `INTERNAL_DOCUMENTARY_TRACEABILITY`
+- `REQUIRES_BIBLIOGRAPHICAL_CONTRAST`
+- `REQUIRES_EXTERNAL_EMPIRICAL_EVIDENCE`
+- `REQUIRES_INDEPENDENT_VALIDATION`
+
+Required evidence must be proportional to claim type and scope. Personal experience, authorship, external fact, empirical causality and universal priority do not carry the same evidentiary burden.
+
 ### Gate for canonical 7.3
 
-The `7.3-CANDIDATE` label must not be promoted to `7.3 CANON` until the equivalent corpus-wide processing, external-evidence classification, ES/EN symmetry, relational audit, version delta and reversible navigation have been completed.
+`7.3-CANDIDATE` must not be promoted to `7.3 CANON` until corpus-wide question processing, source/evidence classification, ES/EN symmetry, relational audit, origin/trace/scrutiny distinction, reversible navigation, Creative Continuity™ safeguards and distributed Neo0™ treatment are complete.
 
 ### Execution status
 
-- **Batch 01 · I–XII:** executed in [#162](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/162).
-- **Batch 02 · XIII–XXXII:** executed in [#168](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/168) and its [versioned document](2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_02_XIII_XXXII_ES_EN.md).
-- **XXXIII–LII:** pending.
+- **I–XII:** executed · [#162](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/162).
+- **XIII–XXXII:** executed · [#168](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/168).
+- **Creative Continuity / Neo0 / toroid delta:** fixed · [#169](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/169).
+- **XXXIII–XLII:** executed · [#170](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/170).
+- **XLIII–LII:** next batch.
 - **LIII–LXVIII:** pending.
 - **LXIX–LXXXI + ∞:** pending.
 - **Canonical and candidate Neoaxioms™:** pending.
 - **Cross-audit and 7.3 promotion proposal:** pending.
 
-External review retains an independent role. Its purpose is not to ask outsiders to solve from scratch questions for which the framework already has an answer, but to expose that answer to attacks, counterexamples, omitted literature and failure conditions.
+External scrutiny retains its own role, but not as permission for a synthesis to exist. Where the framework already has an answer, the highest external value is to locate failure conditions, omitted antecedents, hidden assumptions or empirical claims needing independent scrutiny.
 
 ---
 
-**7.3-CANDIDATE ≠ 7.3 CANON · RESPUESTA INTERNA ≠ VALIDACIÓN INDEPENDIENTE / INTERNAL ANSWER ≠ INDEPENDENT VALIDATION.**
+**7.3-CANDIDATE ≠ 7.3 CANON · OPEN ≠ UNANSWERED · ORIGIN ≠ INFALLIBILITY · CREATION ≠ IMMEDIATE JUDGEMENT.**
