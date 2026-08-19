@@ -1,13 +1,10 @@
 from pathlib import Path
+import re
 import subprocess
 
-# One-shot/idempotent migration: remove living references to the superseded 7.2 label
-# while preserving genealogy as PRE-7.3 instead of rewriting unrelated numeric values.
-
-VERSION_MARKERS = (
-    'neocore', 'neo core', 'versión', 'version', 'canon', 'fijación', 'fixation',
-    'delta', 'review brief', 'postcheck', 'web4', 'candidate', 'candidata'
-)
+# One-shot/idempotent migration: remove living references to the superseded
+# NEOCore numeric version label while preserving genealogy as PRE-7.3.
+# IMPORTANT: strings such as IDEA_1997_2002 are dates/ranges, not version tokens.
 
 DIRECT = {
     'NEOCore™ 7.2 CANON · 7.3-CANDIDATE EN DESARROLLO / IN DEVELOPMENT':
@@ -21,8 +18,15 @@ DIRECT = {
     'NEOCORE_7_2': 'NEOCORE_PRE_7_3',
     'neocore_7_2': 'neocore_PRE_7_3',
     'NEOCORE_72': 'NEOCORE_PRE_73',
-    'neocore-72': 'neocore-73-candidate',
+    'neocore-72': 'neocore-pre-73',
+    'web4_neocore_72': 'web4_neocore_pre73',
 }
+
+PATH_VERSION_RE = re.compile(r'(?i)(?:neocore[^/]*7_2|web4[^/]*7_2)')
+LINE_CONTEXT_RE = re.compile(
+    r'(?i)(neocore|neo core|fijaci[oó]n\s+7\.2|fixation\s+7\.2|'
+    r'delta\s+7\.2|versi[oó]n\s+7\.2|version\s+7\.2|7\.2\s+canon)'
+)
 
 
 def tracked_files():
@@ -42,7 +46,7 @@ def rename_versioned_paths(files):
     renames = {}
     for path in files:
         s = str(path)
-        if '7_2' not in s:
+        if '7_2' not in s or not PATH_VERSION_RE.search(s):
             continue
         new = s.replace('7_2', 'PRE_7_3')
         if new == s:
@@ -59,23 +63,21 @@ def migrate_text(path: Path, renames):
     text = path.read_text(encoding='utf-8')
     old = text
 
-    # First update renamed paths everywhere.
+    # Update only paths that were positively identified as NEOCore/WEB4 versioned paths.
     for src, dst in renames.items():
         text = text.replace(src, dst)
-        text = text.replace('./' + src, './' + dst)
 
-    # Then update explicit NEOCore/version tokens.
     for src, dst in DIRECT.items():
         text = text.replace(src, dst)
 
-    # Contextual replacement only: avoid touching unrelated decimal values such as measurements.
     out = []
     for line in text.splitlines(keepends=True):
-        low = line.lower()
-        if '7.2' in line and any(marker in low for marker in VERSION_MARKERS):
-            line = line.replace('7.2', 'PRE-7.3')
-        if '7_2' in line and any(marker in low for marker in VERSION_MARKERS):
-            line = line.replace('7_2', 'PRE_7_3')
+        if '7.2' in line and LINE_CONTEXT_RE.search(line):
+            # The explicit NEOCore token replacements above handle most cases.
+            line = re.sub(r'(?i)(fijaci[oó]n|fixation|delta|versi[oó]n|version)\s+7\.2',
+                          lambda m: m.group(1) + ' PRE-7.3', line)
+            line = re.sub(r'(?i)7\.2\s+CANON', 'PRE-7.3', line)
+            line = re.sub(r'(?i)(NEOCore™?|NEOCORE)\s+(?:v)?7\.2', r'\1 PRE-7.3', line)
         out.append(line)
     text = ''.join(out)
 
