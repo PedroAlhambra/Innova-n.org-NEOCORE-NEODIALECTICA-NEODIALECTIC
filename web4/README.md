@@ -2,7 +2,7 @@
 # WEB4™ · SistemaTrazable™ · Public Documentary Specification
 
 **Estado / Status:** especificación pública, corpus y genealogía de capacidades / public specification, corpus and capability genealogy  
-**Marco actual / Current framework:** NEOCore™ 7.2  
+**Marco actual / Current framework:** NEOCore™ PRE-7.3  
 **Superficie pública real / Actual public surface:** [innova-n.org](https://innova-n.org)  
 **Ampliación abierta / Open expansion:** [Issue #147 · aportes trazables y tokenización de reconocimiento](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/147)
 

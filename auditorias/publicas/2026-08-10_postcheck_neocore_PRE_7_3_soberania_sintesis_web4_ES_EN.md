@@ -1,4 +1,4 @@
-# Postcheck · NEOCore™ 7.2 · Soberanía de Síntesis y WEB4™ / Postcheck
+# Postcheck · NEOCore™ PRE-7.3 · Soberanía de Síntesis y WEB4™ / Postcheck
 
 **Fecha / Date:** 2026-08-10  
 **Estado / Status:** **OK**  
@@ -17,7 +17,7 @@
 - [x] `infinity_has_non_crowning_candidate`
 - [x] `neoaxiom_candidates_visible`
 - [x] `web4_manifest_LXVIII_infinity`
-- [x] `web4_neocore_72`
+- [x] `web4_neocore_pre73`
 - [x] `neocronos_experimental`
 - [x] `root_current_72`
 

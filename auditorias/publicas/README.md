@@ -21,7 +21,7 @@
 
 <!-- NEOAXIOMAS_GLOBAL_LINK_START -->
 
-## NEOCore™ 7.2 · Capa Neoaxiomática™ / Neoaxiomatic Layer™
+## NEOCore™ PRE-7.3 · Capa Neoaxiomática™ / Neoaxiomatic Layer™
 
 Los **Neoaxiomas™** permanecen abiertos a contraste, evidencia, crítica, refutación y revisión mediante SAN™. / **Neoaxioms™** remain open to challenge, evidence, criticism, refutation and revision through SAN™.
 

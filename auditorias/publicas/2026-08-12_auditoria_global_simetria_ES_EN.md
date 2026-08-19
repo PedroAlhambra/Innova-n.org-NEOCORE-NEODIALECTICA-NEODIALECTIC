@@ -125,8 +125,8 @@
 | `auditorias/publicas/2026-08-09_postcheck_neocore_7_1_integridad_relacional_no_reductiva_ES_EN.md` | **HISTÓRICO-PRESERVADO** | registro histórico inerte; fuera de la superficie bilingüe viva / immutable historical record; outside the live bilingual surface |
 | `auditorias/publicas/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-10_auditoria_responsabilidad_historica_infraestructuras_publicas_espana_ES_EN.md` | **OK** |  |
-| `auditorias/publicas/2026-08-10_postcheck_neocore_7_2_final_indices_paridad_ES_EN.md` | **HISTÓRICO-PRESERVADO** | registro histórico inerte; fuera de la superficie bilingüe viva / immutable historical record; outside the live bilingual surface |
-| `auditorias/publicas/2026-08-10_postcheck_neocore_7_2_soberania_sintesis_web4_ES_EN.md` | **HISTÓRICO-PRESERVADO** | registro histórico inerte; fuera de la superficie bilingüe viva / immutable historical record; outside the live bilingual surface |
+| `auditorias/publicas/2026-08-10_postcheck_neocore_PRE_7_3_final_indices_paridad_ES_EN.md` | **HISTÓRICO-PRESERVADO** | registro histórico inerte; fuera de la superficie bilingüe viva / immutable historical record; outside the live bilingual surface |
+| `auditorias/publicas/2026-08-10_postcheck_neocore_PRE_7_3_soberania_sintesis_web4_ES_EN.md` | **HISTÓRICO-PRESERVADO** | registro histórico inerte; fuera de la superficie bilingüe viva / immutable historical record; outside the live bilingual surface |
 | `auditorias/publicas/2026-08-11_postcheck_LXIX_LXXII_C_NAX_19_navegacion_paridad_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-11_postcheck_LXXIII_LXXIV_C_NAX_20_21_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-11_postcheck_README_frontera_LXXIV_ES_EN.md` | **OK** |  |
@@ -272,14 +272,14 @@
 | `propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_365_DIAS_ES_EN.md` | **OK** |  |
 | `proyeccion/2026-08-11_delta_web4_neocore_patrimonio_comun_aprendizaje_creacion_ES_EN.md` | **OK** |  |
 | `proyeccion/2026-08-13_DIRECCION_WEB4_NEOCRONOS_AGUILA_ES_EN.md` | **OK** |  |
-| `proyeccion/NEOCORE_7_2_DELTA_ES_EN.md` | **OK** |  |
-| `proyeccion/NEOCORE_7_2_EXTERNAL_REVIEW_BRIEF_ES_EN.md` | **OK** |  |
+| `proyeccion/NEOCORE_PRE_7_3_DELTA_ES_EN.md` | **OK** |  |
+| `proyeccion/NEOCORE_PRE_7_3_EXTERNAL_REVIEW_BRIEF_ES_EN.md` | **OK** |  |
 | `proyeccion/POLITICA_SIMETRIA_BILINGUE_ES_EN.md` | **OK** |  |
 | `proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md` | **OK** |  |
 | `proyeccion/README.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md` | **OK** |  |
 | `snapshots/2026-08-11_NEOCORE_7_CURRENT_SNAPSHOT.md` | **OK** |  |
-| `web4/2026-08-10_POSTCHECK_WEB4_7_2_IDEA_ES_EN.md` | **HISTÓRICO-PRESERVADO** | registro histórico inerte; fuera de la superficie bilingüe viva / immutable historical record; outside the live bilingual surface |
+| `web4/2026-08-10_POSTCHECK_WEB4_PRE_7_3_IDEA_ES_EN.md` | **HISTÓRICO-PRESERVADO** | registro histórico inerte; fuera de la superficie bilingüe viva / immutable historical record; outside the live bilingual surface |
 | `web4/README.md` | **OK** |  |
 | `wiki-source/Analisis_Neodialecticos_Publicos.md` | **OK** |  |
 | `wiki-source/Aportes_y_Reconocimiento.md` | **OK** |  |

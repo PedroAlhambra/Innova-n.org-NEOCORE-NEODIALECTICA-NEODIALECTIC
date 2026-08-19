@@ -3,7 +3,7 @@
 
 **Fecha / Date:** 2026-08-11  
 **Estado / Status:** **OK**  
-**Marco vivo / Living framework:** **NEOCore™ 7.2**  
+**Marco vivo / Living framework:** **NEOCore™ PRE-7.3**  
 **Corpus vivo / Living corpus:** **74 manifiestos finitos bilingües · I–LXXIV + ∞ / 74 finite bilingual manifestos · I–LXXIV + ∞**  
 **Neoaxiomas / Neoaxioms:** **NAX-01–NAX-14 canónicos y revisables / canonical and revisable · C-NAX-15–C-NAX-21 candidatos / candidates**
 
@@ -186,7 +186,7 @@ El lector de `web4/manifiestos/index.html` expone ya **I–LXXIV + ∞** y conti
 ## 15. Estado final
 
 ```text
-NEOCore™ 7.2
+NEOCore™ PRE-7.3
 74 MANIFIESTOS FINITOS · I–LXXIV
 + ∞
 NAX-01–NAX-14 CANÓNICOS Y REVISABLES
@@ -376,7 +376,7 @@ The `web4/manifiestos/index.html` reader now exposes **I–LXXIV + ∞** and con
 ## 15. Final state
 
 ```text
-NEOCore™ 7.2
+NEOCore™ PRE-7.3
 74 FINITE MANIFESTOS · I–LXXIV
 + ∞
 NAX-01–NAX-14 CANONICAL AND REVISABLE

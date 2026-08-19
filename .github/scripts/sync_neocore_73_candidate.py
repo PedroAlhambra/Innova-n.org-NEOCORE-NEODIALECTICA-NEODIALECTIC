@@ -1,8 +1,4 @@
 from pathlib import Path
-import runpy
-
-# Remove superseded numeric version labels before rebuilding the active 7.3-CANDIDATE surfaces.
-runpy.run_path('.github/scripts/migrate_neocore_pre_73_refs.py', run_name='__main__')
 
 START='<!-- NEOCORE_73_CANDIDATE_START -->'
 END='<!-- NEOCORE_73_CANDIDATE_END -->'

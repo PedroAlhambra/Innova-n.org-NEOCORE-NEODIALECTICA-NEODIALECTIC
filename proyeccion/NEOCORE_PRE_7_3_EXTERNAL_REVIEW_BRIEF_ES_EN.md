@@ -1,8 +1,8 @@
-# NEOCore™ 7.2 · Guía breve para revisión externa
-# NEOCore™ 7.2 · External Review Brief
+# NEOCore™ PRE-7.3 · Guía breve para revisión externa
+# NEOCore™ PRE-7.3 · External Review Brief
 
 **Estado / Status:** documento de entrada para crítica externa · no sustituye al corpus / entry document for external critique · does not replace the corpus  
-**Marco / Framework:** Neodialectica Framework™ / NEOCore™ 7.2  
+**Marco / Framework:** Neodialectica Framework™ / NEOCore™ PRE-7.3  
 **Método de revisión / Review method:** Síntesis Abierta Neodialéctica™ — SAN™ / Neodialectical Open Synthesis™ — SAN™
 
 ---
@@ -15,7 +15,7 @@ No buscamos adhesión ni una lectura completa del corpus antes de poder criticar
 
 Una crítica externa puede modificar, matizar, ampliar o dejar intacta la síntesis actual. En todos los casos debe quedar trazado qué se planteó y por qué produjo —o no— un cambio.
 
-### Qué significa NEOCore™ 7.2, en cinco puntos
+### Qué significa NEOCore™ PRE-7.3, en cinco puntos
 
 1. **Soberanía de Síntesis™**: ninguna persona, IA, institución, documento o subsistema debe convertirse por sí solo en equivalente del conjunto. La dirección humana permanece explícita, pero también está sujeta a contraste y trazabilidad.
 2. **Primera Capa Fractal Multicabeza™**: distintas personas, IAs y subsistemas pueden observar y procesar partes diferentes del problema sin confundirse con el Todo. La arquitectura busca conservar identidad, procedencia y función de cada parte antes de recomponer.
@@ -28,7 +28,7 @@ Una crítica externa puede modificar, matizar, ampliar o dejar intacta la sínte
 - La capa pública del repositorio **no reproduce todavía toda la arquitectura operativa interna** de NEOCore™ ni su memoria integral.
 - Un término propio o una formulación nueva **no implica automáticamente novedad histórica**. NeoGenealogía™ + RADAR-Π™ buscan antecedentes, convergencias, derivaciones, contraejemplos y falsos paralelos.
 - Una crítica no se considera validada por el mero hecho de entrar en SAN™. **Admisión ≠ validación.**
-- La versión 7.2 no congela el sistema: el marco sigue vivo y puede incorporar deltas sin reescribir retrospectivamente su genealogía.
+- La versión PRE-7.3 no congela el sistema: el marco sigue vivo y puede incorporar deltas sin reescribir retrospectivamente su genealogía.
 
 ### Cinco preguntas útiles para una revisión externa
 
@@ -67,7 +67,7 @@ We are not asking for endorsement, nor for a complete reading of the corpus befo
 
 An external critique may modify, qualify, extend, or leave the current synthesis unchanged. In every case, the system should preserve what was raised and why it did —or did not— produce a change.
 
-### What NEOCore™ 7.2 means, in five points
+### What NEOCore™ PRE-7.3 means, in five points
 
 1. **Synthesis Sovereignty™**: no person, AI, institution, document, or subsystem should become equivalent to the whole by itself. Human direction remains explicit, while also remaining subject to challenge and traceability.
 2. **First Fractal Multihead Layer™**: different people, AIs, and subsystems can observe and process different parts of a problem without being confused with the Whole. The architecture aims to preserve identity, provenance, and function before recomposition.
@@ -80,7 +80,7 @@ An external critique may modify, qualify, extend, or leave the current synthesis
 - The public repository layer **does not yet expose the complete internal operational architecture** of NEOCore™ or its integral memory.
 - A proprietary term or new formulation **does not automatically imply historical novelty**. NeoGenealogy™ + RADAR-Π™ actively search for antecedents, convergences, derivations, counterexamples, and false parallels.
 - A critique is not considered validated merely because it enters SAN™. **Admission ≠ validation.**
-- Version 7.2 does not freeze the system: the framework remains live and may incorporate deltas without retrospectively rewriting its genealogy.
+- Version PRE-7.3 does not freeze the system: the framework remains live and may incorporate deltas without retrospectively rewriting its genealogy.
 
 ### Five useful questions for external review
 
