@@ -15,7 +15,7 @@ follow = root / 'proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md'
 neoaxioms = root / 'neoaxiomas/README.md'
 neoaxioms_protocol = root / 'propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md'
 neoaxioms_issue = 'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80'
-CURRENT_VERSION = '7.2'
+CURRENT_VERSION = '7.3-CANDIDATE'
 
 for p in (index, protocol, synth_index, audits, leonidas, entry_register, follow, neoaxioms, neoaxioms_protocol):
     if not p.exists():

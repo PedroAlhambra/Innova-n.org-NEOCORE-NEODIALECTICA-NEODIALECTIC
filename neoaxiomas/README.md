@@ -366,7 +366,7 @@ CONSTRUIR ≠ BIEN AUTOMÁTICO / BUILDING ≠ AUTOMATIC GOOD
 
 **Síntesis / Synthesis:** [#127](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/127) · **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
 
-**Regla 7.2 / 7.2 rule:** la futura **Innova_N Fundación** puede custodiar propósito, memoria y Bien Común; la futura **Innova_N Corporación** puede materializar infraestructura y sostenibilidad. Ninguna adquiere soberanía epistemológica por su forma jurídica. Ambas quedan subordinadas a gobernanza humana, legalidad, trazabilidad, auditoría y SAN™. / the future **Innova_N Foundation** may guard purpose, memory and the Common Good; the future **Innova_N Corporation** may materialise infrastructure and sustainability. Neither acquires epistemic sovereignty through legal form. Both remain subject to human governance, law, traceability, audit and SAN™.
+**Regla PRE-7.3 / PRE-7.3 rule:** la futura **Innova_N Fundación** puede custodiar propósito, memoria y Bien Común; la futura **Innova_N Corporación** puede materializar infraestructura y sostenibilidad. Ninguna adquiere soberanía epistemológica por su forma jurídica. Ambas quedan subordinadas a gobernanza humana, legalidad, trazabilidad, auditoría y SAN™. / the future **Innova_N Foundation** may guard purpose, memory and the Common Good; the future **Innova_N Corporation** may materialise infrastructure and sustainability. Neither acquires epistemic sovereignty through legal form. Both remain subject to human governance, law, traceability, audit and SAN™.
 
 
 ### C-NAX-22 · Memoria Material-Relacional™ / Material-Relational Memory™

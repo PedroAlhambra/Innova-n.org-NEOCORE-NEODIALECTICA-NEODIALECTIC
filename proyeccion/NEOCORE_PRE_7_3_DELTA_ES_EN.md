@@ -33,7 +33,7 @@ El repaso registra como candidatos —no como NAX canónicos nuevos— Soberaní
 
 ### 5. WEB4™
 
-La proyección pública WEB4™ se actualiza para leer I–LXVIII + ∞ y mostrar el estado 7.2. NeoCronos™ queda expresamente descrito como mecanismo experimental, multidimensional y revisable de traza del aporte, no como puntuación absoluta ni asignación automática de tokens o dinero.
+La proyección pública WEB4™ se actualiza para leer I–LXVIII + ∞ y mostrar el estado PRE-7.3. NeoCronos™ queda expresamente descrito como mecanismo experimental, multidimensional y revisable de traza del aporte, no como puntuación absoluta ni asignación automática de tokens o dinero.
 
 ## EN · English
 
@@ -62,9 +62,9 @@ The review registers Intellectual Sovereignty of the Species™, Non-Crowning of
 
 ### 5. WEB4™
 
-The public WEB4™ projection is updated to read I–LXVIII + ∞ and display state 7.2. NeoCronos™ remains explicitly experimental, multidimensional and revisable contribution tracing, not an absolute score or automatic assignment of tokens or money.
+The public WEB4™ projection is updated to read I–LXVIII + ∞ and display state PRE-7.3. NeoCronos™ remains explicitly experimental, multidimensional and revisable contribution tracing, not an absolute score or automatic assignment of tokens or money.
 
 <!-- NEO_RELATIONAL_FOOTER_START -->
 ---
 
-**Principio de continuidad / Continuity principle:** 7.2 añade relaciones y corrige desincronizaciones; no reescribe como actuales los documentos históricos que fijaron 7.1 en su fecha. / 7.2 adds relations and repairs desynchronisation; it does not rewrite historical documents that recorded 7.1 as their then-current state.
+**Principio de continuidad / Continuity principle:** PRE-7.3 añade relaciones y corrige desincronizaciones; no reescribe como actuales los documentos históricos que fijaron 7.1 en su fecha. / PRE-7.3 adds relations and repairs desynchronisation; it does not rewrite historical documents that recorded 7.1 as their then-current state.

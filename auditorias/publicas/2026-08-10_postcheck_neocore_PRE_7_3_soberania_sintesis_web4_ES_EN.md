@@ -32,7 +32,7 @@
 - `68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md`
 - `INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md`
 
-La revisión 7.2 registra además como candidatos visibles —sin promoción automática— No Coronación de la Parte™, Reconstrucción Sistémica™ y Motor del Bien Común + NeoSinergia™. / The 7.2 review also registers Non-Crowning of the Part™, Systemic Reconstruction™, and Common-Good Engine + NeoSynergy™ as visible candidates without automatic promotion.
+La revisión PRE-7.3 registra además como candidatos visibles —sin promoción automática— No Coronación de la Parte™, Reconstrucción Sistémica™ y Motor del Bien Común + NeoSinergia™. / The PRE-7.3 review also registers Non-Crowning of the Part™, Systemic Reconstruction™, and Common-Good Engine + NeoSynergy™ as visible candidates without automatic promotion.
 
 ## Criterio institucional / Institutional criterion
 
