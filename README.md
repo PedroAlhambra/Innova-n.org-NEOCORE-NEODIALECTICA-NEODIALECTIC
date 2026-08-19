@@ -65,6 +65,17 @@ RADAR-Π™ DETECTA / DETECTS
 
 ## 🔴 Actualidad / Latest
 
+<!-- NEOCORE_73_CANDIDATE_START -->
+
+### NEOCore™ 7.3-CANDIDATE · Capa de Autosíntesis Recursiva™ / Recursive Self-Synthesis Layer™
+
+NEOCore™ mantiene **7.2 como versión canónica vigente** mientras desarrolla **7.3-CANDIDATE**. La nueva capa recorre las preguntas abiertas del corpus, genera una respuesta interna provisional, construye su antítesis, clasifica el estado epistemológico y conserva la necesidad de contraste externo. **Autorresponder ≠ autovalidar.** / NEOCore™ keeps **7.2 as the current canonical version** while developing **7.3-CANDIDATE**. The new layer traverses open questions in the corpus, generates a provisional internal answer, constructs its antithesis, classifies epistemic status and preserves the need for external scrutiny. **Self-answering ≠ self-validation.**
+
+**[Documento versionado / Versioned document](./propuestas/sintesis-abierta/NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md)** · **[Matriz #161 / Matrix #161](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/161)** · **[Lote I–XII #162 / Batch I–XII #162](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/162)**
+
+<!-- NEOCORE_73_CANDIDATE_END -->
+
+
 ### LXXXI · Manifiesto del Ultralujo como Bien Común™ · La élite del aporte / Manifesto of Ultraluxury as Common Good™ · The elite of contribution
 
 **[Leer LXXXI / Read LXXXI](./manifiestos/81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md)** · **[Síntesis Abierta #160 / Open Synthesis #160](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/160)**

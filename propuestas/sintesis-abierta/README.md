@@ -9,6 +9,20 @@
 > **ABIERTO A SÍNTESIS ≠ VALIDADO.**  
 > **OPEN TO SYNTHESIS ≠ VALIDATED.**
 
+<!-- NEOCORE_73_CANDIDATE_START -->
+
+## NEOCore™ 7.3-CANDIDATE · Capa de Autosíntesis Recursiva™
+## NEOCore™ 7.3-CANDIDATE · Recursive Self-Synthesis Layer™
+
+La evolución 7.3-CANDIDATE añade una fase recursiva a SAN™: pregunta abierta → retorno al corpus → respuesta interna provisional → antítesis/red-team → estado epistemológico → evidencia/falsadores → síntesis versionada → contraste externo → delta/reapertura. Una pregunta puede estar respondida internamente y seguir abierta porque `OPEN` significa **revisable**, no necesariamente «sin respuesta». / The 7.3-CANDIDATE evolution adds a recursive phase to SAN™: open question → return to corpus → provisional internal answer → antithesis/red-team → epistemic status → evidence/falsifiers → versioned synthesis → external scrutiny → delta/reopening. A question may be internally answered and remain open because `OPEN` means **revisable**, not necessarily “unanswered”.
+
+> **AUTORRESPONDER ≠ AUTOVALIDAR / SELF-ANSWERING ≠ SELF-VALIDATION.**
+
+[Documento / Document](NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md) · [Matriz / Matrix #161](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/161) · [Primer lote I–XII / First batch I–XII #162](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/162) · [Registro documental / Documentary registry #163](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/163)
+
+<!-- NEOCORE_73_CANDIDATE_END -->
+
+
 ## Fuente de verdad / Source of truth
 
 Este `README.md` explica **cómo entrar, participar y navegar** la Síntesis Abierta. No duplica el inventario completo de manifiestos, Neoaxiomas™, candidatos, auditorías y síntesis transversales.

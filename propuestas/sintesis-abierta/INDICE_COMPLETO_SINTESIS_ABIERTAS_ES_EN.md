@@ -1,12 +1,25 @@
 # Índice Completo de Síntesis Abiertas™
 # Complete Open Synthesis™ Index
 
-**Fecha / Date:** 2026-08-18
+**Fecha / Date:** 2026-08-19
 **Estado / Status:** vivo, versionado y revisable / living, versioned and revisable  
 **Cobertura / Coverage:** **81 manifiestos finitos I–LXXXI + Manifiesto ∞ · 14 Neoaxiomas™ canónicos + 12 candidatos C-NAX-15–C-NAX-26 · síntesis transversales, auditorías y proyectos de sistema / 81 finite manifestos I–LXXXI + Manifesto ∞ · 14 canonical Neoaxioms™ + 12 candidates C-NAX-15–C-NAX-26 · cross-cutting syntheses, audits and system projects**.
 
 > **ABIERTO A SÍNTESIS ≠ VALIDADO.**  
 > **OPEN TO SYNTHESIS ≠ VALIDATED.**
+
+<!-- NEOCORE_73_CANDIDATE_START -->
+
+## 0 · NEOCore™ 7.3-CANDIDATE · Autosíntesis Recursiva™ / Recursive Self-Synthesis™
+
+- **Documento versionado / Versioned document:** [NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md](NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md)
+- **Matriz conceptual / Conceptual matrix:** [#161](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/161)
+- **Lote 01 · I–XII / Batch 01 · I–XII:** [#162](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/162)
+- **Registro documental / Documentary registry:** [#163](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/163)
+- **Estado / Status:** `7.3-CANDIDATE`; NEOCore™ 7.2 continúa siendo la versión canónica hasta superar el gate de cobertura, evidencia, simetría y auditoría. / NEOCore™ 7.2 remains canonical until the coverage, evidence, symmetry and audit gate is passed.
+
+<!-- NEOCORE_73_CANDIDATE_END -->
+
 
 ## Regla de acceso / Access rule
 
