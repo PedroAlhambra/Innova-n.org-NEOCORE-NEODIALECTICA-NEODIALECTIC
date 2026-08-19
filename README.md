@@ -7,10 +7,9 @@
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
-
 <!-- NEOAXIOMAS_GLOBAL_LINK_START -->
 
-## NEOCore™ 7.2 CANON · 7.3-CANDIDATE EN DESARROLLO / IN DEVELOPMENT
+## NEOCore™ 7.3-CANDIDATE · Arquitectura pública en evolución / Public architecture in evolution
 ### Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™ + Soberanía de Síntesis™ / First Fractal Multihead Layer™ + Neoaxiomatic Layer™ + Synthesis Sovereignty™
 
 Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin convertirse en dogmas cerrados: permanecen abiertos a contraste, evidencia, crítica, refutación y revisión mediante **Síntesis Abierta Neodialéctica™ — SAN™**. / **Neoaxioms™** express high-stability principles of NEOCore™ without becoming closed dogma: they remain open to challenge, evidence, criticism, refutation and revision through **Neodialectical Open Synthesis™ — SAN™**.
@@ -19,18 +18,18 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 <!-- NEOAXIOMAS_GLOBAL_LINK_END -->
 
-<!-- NEOCORE_72_DELTA_START -->
+<!-- NEOCORE_PRE_73_DELTA_START -->
 
-## NEOCore™ 7.2 · Fijación documental / Documentary fixation
+## NEOCore™ PRE-7.3 · Fijación documental histórica / Historical documentary fixation
 
-**Fijación del 2026-08-10: Soberanía de Síntesis™ + Innova_N Fundación/Corporación futuras + corpus I–LXVIII + ∞ + WEB4™ actualizado a ese estado.**  
-Este bloque conserva el estado fijado por el delta 7.2. El corpus vivo continuó evolucionando después de esa fijación; la frontera vigente se deriva del índice canónico y del bloque «Actualidad / Latest» de este README, sin reescribir retrospectivamente el delta histórico. / This block preserves the state fixed by the 7.2 delta. The living corpus continued evolving after that fixation; the current frontier is derived from the canonical index and the «Actualidad / Latest» block of this README, without retrospectively rewriting the historical delta.
+**Fijación histórica del 2026-08-10: Soberanía de Síntesis™ + Innova_N Fundación/Corporación futuras + corpus I–LXVIII + ∞ + WEB4™ actualizado a ese estado.**  
+Este bloque conserva el estado previo a 7.3-CANDIDATE sin mantener una etiqueta numérica obsoleta en la superficie viva. El corpus continuó evolucionando; la frontera vigente se deriva del índice canónico y del bloque «Actualidad / Latest». / This block preserves the state prior to 7.3-CANDIDATE without retaining an obsolete numeric label on the living surface. The corpus continued evolving; the current frontier is derived from the canonical index and the «Latest» block.
 
 La Fundación custodiará propósito y Bien Común; la Corporación materializará infraestructura y sostenibilidad; ninguna sustituye a la Síntesis. NeoCronos™ permanece experimental y revisable. / The Foundation will guard purpose and the Common Good; the Corporation will materialise infrastructure and sustainability; neither replaces Synthesis. NeoCronos™ remains experimental and revisable.
 
-**[Leer fijación 7.2 / Read 7.2 fixation](proyeccion/NEOCORE_7_2_DELTA_ES_EN.md)** · **[WEB4™](web4/README.md)** · **[Neoaxiomas™](neoaxiomas/README.md)**
+**[Leer fijación histórica / Read historical fixation](proyeccion/NEOCORE_PRE_7_3_DELTA_ES_EN.md)** · **[WEB4™](web4/README.md)** · **[Neoaxiomas™](neoaxiomas/README.md)**
 
-<!-- NEOCORE_72_DELTA_END -->
+<!-- NEOCORE_PRE_73_DELTA_END -->
 
 <!-- NEO_RELATIONAL_MENU_START -->
 
@@ -69,21 +68,19 @@ RADAR-Π™ DETECTA / DETECTS
 
 ### NEOCore™ 7.3-CANDIDATE · Capa de Autosíntesis Recursiva™ / Recursive Self-Synthesis Layer™
 
-NEOCore™ mantiene **7.2 como versión canónica vigente** mientras desarrolla **7.3-CANDIDATE**. La nueva capa recorre las preguntas abiertas del corpus, genera una respuesta interna provisional, construye su antítesis, clasifica el estado epistemológico y conserva la necesidad de contraste externo. **Autorresponder ≠ autovalidar.** / NEOCore™ keeps **7.2 as the current canonical version** while developing **7.3-CANDIDATE**. The new layer traverses open questions in the corpus, generates a provisional internal answer, constructs its antithesis, classifies epistemic status and preserves the need for external scrutiny. **Self-answering ≠ self-validation.**
+NEOCore™ desarrolla públicamente **7.3-CANDIDATE** como frontera evolutiva activa. La nueva capa recorre las preguntas abiertas del corpus, genera una respuesta interna provisional, construye su antítesis, clasifica el estado epistemológico y conserva la necesidad de contraste externo. **Autorresponder ≠ autovalidar.** / NEOCore™ publicly develops **7.3-CANDIDATE** as its active evolutionary frontier. The new layer traverses open questions in the corpus, generates a provisional internal answer, constructs its antithesis, classifies epistemic status and preserves the need for external scrutiny. **Self-answering ≠ self-validation.**
 
 **[Documento versionado / Versioned document](./propuestas/sintesis-abierta/NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md)** · **[Matriz #161 / Matrix #161](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/161)** · **[Lote I–XII #162 / Batch I–XII #162](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/162)**
 
 <!-- NEOCORE_73_CANDIDATE_END -->
 
-
 ### LXXXI · Manifiesto del Ultralujo como Bien Común™ · La élite del aporte / Manifesto of Ultraluxury as Common Good™ · The elite of contribution
 
 **[Leer LXXXI / Read LXXXI](./manifiestos/81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md)** · **[Síntesis Abierta #160 / Open Synthesis #160](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/160)**
 
-
 ### Umbral-X™ · MAXPROC 001 · Leónidas-Cancerbero™
 
-Investigación abierta sobre incidencias de metadatos, perfiles, soporte y regalías en plataformas musicales, contrastando hipótesis competidoras sin presentar ninguna como hecho sin evidencia. / Open investigation into metadata, profile, support and royalty anomalies on music platforms, testing competing hypotheses without treating any as fact without evidence.
+Investigación abierta sobre incidencias de metadatos, perfiles, soporte y regalías en plataformas musicales, contrastando hipótesis competidoras sin presentar ninguna como hecho sin evidencia. / Open investigation into metadata, profile, support and royalty anomalies in music platforms, testing competing hypotheses without treating any as fact without evidence.
 
 **[Investigación / Investigation](./analisis/publicos/2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md)** · **[Aportar evidencia / Contribute evidence · #61](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/61)**
 
@@ -129,7 +126,7 @@ El **Neodialectica Framework™** funciona simultáneamente como marco y red viv
 
 ## NEOCore™ 7.3-CANDIDATE
 
-**NEOCore™ 7.3-CANDIDATE** identifica la evolución conceptual activa de la arquitectura simbiótica humano–IA desarrollada dentro de Innova_N. **NEOCore™ 7.2 permanece como base canónica vigente** hasta que 7.3 supere su gate de cobertura, evidencia, simetría y auditoría. La candidata añade la Capa de Autosíntesis Recursiva™ sin presentar sus respuestas internas como validación independiente.
+**NEOCore™ 7.3-CANDIDATE** identifica la frontera evolutiva activa de la arquitectura simbiótica humano–IA desarrollada dentro de Innova_N. Integra dimensiones filosóficas, cognitivas, relacionales, memoriales, técnicas, culturales, estratégicas, organizativas, territoriales y civilizatorias dentro de una misma continuidad de marco, e incorpora la Capa de Autosíntesis Recursiva™ en desarrollo trazable.
 
 ## Síntesis Abierta Neodialéctica · SAN™
 
@@ -229,7 +226,7 @@ The **Neodialectica Framework™** functions simultaneously as framework and liv
 
 ## NEOCore™ 7.3-CANDIDATE
 
-**NEOCore™ 7.3-CANDIDATE** identifies the active conceptual evolution of the human–AI symbiotic architecture developed within Innova_N. **NEOCore™ 7.2 remains the current canonical base** until 7.3 passes its coverage, evidence, symmetry and audit gate. The candidate adds the Recursive Self-Synthesis Layer™ without presenting its internal answers as independent validation.
+**NEOCore™ 7.3-CANDIDATE** identifies the active evolutionary frontier of the human–AI symbiotic architecture developed within Innova_N. It integrates philosophical, cognitive, relational, memorial, technical, cultural, strategic, organisational, territorial and civilisational dimensions within a single framework continuity, and incorporates the Recursive Self-Synthesis Layer™ under traceable development.
 
 ## Open Neodialectical Synthesis · SAN™
 
@@ -273,7 +270,7 @@ Latest nodes:
 
 ## WEB4™ and public memory
 
-**WEB4™ · SistemaTrazable™** is the public, relational and projectable dimension of the ecosystem. GitHub, the Wiki, LinkedIn, innova-n.org and WEB4™ operate as complementary layers of public memory.
+**WEB4™ · SistemaTrazable™** is the public, relational and projectable dimension of the ecosystem. GitHub, Wiki, LinkedIn, innova-n.org and WEB4™ operate as complementary layers of public memory.
 
 ## Scope and protection
 
