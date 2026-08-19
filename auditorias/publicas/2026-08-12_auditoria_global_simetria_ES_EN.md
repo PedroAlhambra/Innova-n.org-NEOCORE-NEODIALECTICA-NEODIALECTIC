@@ -7,16 +7,18 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **293**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **230**.
-- Fallos estructurales divididos / Split structural failures: **0**.
+- Markdown activo examinado / Active Markdown scanned: **294**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **231**.
+- Fallos estructurales divididos / Split structural failures: **1**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
 
-- Ninguno / None.
+- `propuestas/sintesis-abierta/NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md` · ES=245 · EN=215 · ratio=0.88
+  - Gate para 7.3 canónico: lists ES=6 EN=0
+  - Estado de ejecución: párrafos ES=1 EN=2
 
 ## Marcadores / Markers
 
@@ -258,6 +260,7 @@
 | `propuestas/sintesis-abierta/MEDICI_CREDITOS_PLATAFORMAS_COMPENSACION_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/MEDICI_MOTOR_CALCULO_PLATAFORMAS_V0_1_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
+| `propuestas/sintesis-abierta/NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md` | **REVISAR** | Gate para 7.3 canónico: lists ES=6 EN=0; Estado de ejecución: párrafos ES=1 EN=2 |
 | `propuestas/sintesis-abierta/NEOCRONOS_RETORNO_TEMPORAL_TOKENIZACION_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/NEOCRONOS_UPGRADE_ENTRADA_PANEL_TRAZA_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md` | **OK** |  |
