@@ -264,4 +264,4 @@ A symmetry migration may be declared closed only when:
 
 ---
 
-**Innova_N · NEOCore™ 7.2 · Neodialectica Framework™ / Network**
+**Innova_N · NEOCore™ PRE-7.3 · Neodialectica Framework™ / Network**

@@ -2,7 +2,7 @@
 ## Neoaxioms™ · Open Axiomatic Layer of NEOCore™
 
 **Estado / Status:** **SÍNTESIS ABIERTA · OPEN SYNTHESIS**  
-**Marco / Framework:** **NEOCore™ 7.2 · Filosofía Arquetípica Neodialéctica™**  
+**Marco / Framework:** **NEOCore™ PRE-7.3 · Filosofía Arquetípica Neodialéctica™**  
 **Fecha de apertura / Opening date:** **2026-08-09**  
 **Origen humano / Human origin:** **Pedro Martínez Alhambra · Neo0™**  
 **Función / Function:** hacer explícita la capa axiomática evolutiva del marco sin convertirla en dogma cerrado. / to make the framework's evolving axiomatic layer explicit without turning it into closed dogma.
@@ -12,8 +12,8 @@
 
 <!-- NEOAXIOMAS_GLOBAL_LINK_START -->
 
-## NEOCore™ 7.2 · Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™ + Soberanía de Síntesis™
-## NEOCore™ 7.2 · First Fractal Multihead Layer™ + Neoaxiomatic Layer™ + Synthesis Sovereignty™
+## NEOCore™ PRE-7.3 · Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™ + Soberanía de Síntesis™
+## NEOCore™ PRE-7.3 · First Fractal Multihead Layer™ + Neoaxiomatic Layer™ + Synthesis Sovereignty™
 
 Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin convertirse en dogmas cerrados: permanecen abiertos a contraste, evidencia, crítica, refutación y revisión mediante **Síntesis Abierta Neodialéctica™ — SAN™**. / **Neoaxioms™** express high-stability principles of NEOCore™ without becoming closed dogma: they remain open to challenge, evidence, criticism, refutation and revision through **Neodialectical Open Synthesis™ — SAN™**.
 

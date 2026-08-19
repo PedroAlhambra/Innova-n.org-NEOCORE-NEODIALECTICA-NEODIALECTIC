@@ -3,7 +3,7 @@
 
 **Fecha / Date:** 2026-08-19  
 **Estado / Status:** CANDIDATA · SÍNTESIS ABIERTA / CANDIDATE · OPEN SYNTHESIS  
-**Base canónica / Canonical base:** NEOCore™ 7.2  
+**Base canónica / Canonical base:** NEOCore™ PRE-7.3  
 **Matriz pública / Public matrix:** [Issue #161](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/161)  
 **Primer lote / First batch:** [I–XII · Issue #162](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/162)  
 **Registro documental / Documentary registry:** [Issue #163](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/163)

@@ -6,7 +6,7 @@
 **Versión / Version:** 1.0  
 **Fecha / Date:** 2026-08-11  
 **Estado / Status:** manifiesto público abierto a Síntesis / public manifesto open to Synthesis  
-**Marco / Framework:** NEOCore™ 7.2 · Síntesis Abierta Neodialéctica™ · SAN™  
+**Marco / Framework:** NEOCore™ PRE-7.3 · Síntesis Abierta Neodialéctica™ · SAN™  
 **Relaciones principales / Main relations:** XII, XIV, XV, XVI, XXV, XXVI, XXIX, XXX, XXXI, XXXVI, XXXVII, XXXVIII, XL, XLI, XLII, XLIV, XLVI, XLVII, LII, LVIII, LX, LXVI, LXVII, LXVIII, LXIX, LXXI, LXXII, ∞ · NAX-10 · C-NAX-19
 
 **Navegación / Navigation:** [← LXIX](./69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md) · [Índice / Index](./README.md) · [Delta relacional / Relational delta](../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md) · [LXXI →](./71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md) · [∞](./INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)

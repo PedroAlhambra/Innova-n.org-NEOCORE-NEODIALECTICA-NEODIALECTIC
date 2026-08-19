@@ -3,7 +3,7 @@
 
 **Fecha / Date:** 2026-08-11  
 **Estado / Status:** **OK con distinción explícita entre corpus vivo y snapshots históricos / OK with explicit distinction between living corpus and historical snapshots**  
-**Marco vivo / Living framework:** NEOCore™ 7.2  
+**Marco vivo / Living framework:** NEOCore™ PRE-7.3  
 **Corpus vivo / Living corpus:** **72 manifiestos finitos bilingües · I–LXXII + ∞ / 72 finite bilingual manifestos · I–LXXII + ∞**  
 **Neoaxiomas / Neoaxioms:** **NAX-01–NAX-14 canónicos / canonical + C-NAX-15–C-NAX-19 candidatos / candidates**  
 
@@ -197,7 +197,7 @@ I → … → LXVIII → LXIX → LXX → LXXI → LXXII → ∞
 
 `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` enlaza LXIX–LXXII con #119–#122, ∞ con #106 y la capa neoaxiomática con sus Síntesis.
 
-`README.md` y `LEEME.md` fueron resincronizados: muestran **NEOCore™ 7.2**, LXXII/#122 y **72 · I–LXXII** en sus bloques vivos. Se corrigió el generador `.github/scripts/sync_latest_manifesto_feature.py` y su workflow permanente para que las superficies vivas no regresen a 7.1 ni a un último manifiesto antiguo.
+`README.md` y `LEEME.md` fueron resincronizados: muestran **NEOCore™ PRE-7.3**, LXXII/#122 y **72 · I–LXXII** en sus bloques vivos. Se corrigió el generador `.github/scripts/sync_latest_manifesto_feature.py` y su workflow permanente para que las superficies vivas no regresen a 7.1 ni a un último manifiesto antiguo.
 
 ## 10. Defecto heredado encontrado y corregido
 
@@ -453,7 +453,7 @@ I → … → LXVIII → LXIX → LXX → LXXI → LXXII → ∞
 
 `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` links LXIX–LXXII to #119–#122, ∞ to #106 and the neoaxiomatic layer to its Syntheses.
 
-`README.md` and `LEEME.md` were re-synchronised: they show **NEOCore™ 7.2**, LXXII/#122 and **72 · I–LXXII** in their living blocks. The `.github/scripts/sync_latest_manifesto_feature.py` generator and its permanent workflow were corrected so living surfaces do not regress to 7.1 or an old latest manifesto.
+`README.md` and `LEEME.md` were re-synchronised: they show **NEOCore™ PRE-7.3**, LXXII/#122 and **72 · I–LXXII** in their living blocks. The `.github/scripts/sync_latest_manifesto_feature.py` generator and its permanent workflow were corrected so living surfaces do not regress to 7.1 or an old latest manifesto.
 
 ## 10. Inherited defect found and corrected
 
