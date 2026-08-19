@@ -1,0 +1,42 @@
+name: pr-issue-version-cleanup
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  cleanup:
+    if: github.head_ref == 'maintenance/issue-version-cleanup-20260819'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Migrate obsolete version labels in affected Issues
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          python - <<'PY'
+          import json, os, subprocess
+          repo=os.environ['GH_REPO']
+          issue_numbers=[71,80,98,103,131,132,161,163]
+          for n in issue_numbers:
+              obj=json.loads(subprocess.check_output(['gh','api',f'repos/{repo}/issues/{n}'], text=True))
+              title=obj['title']; body=obj.get('body') or ''
+              nt=title.replace('7.2','PRE-7.3')
+              nb=body.replace('7.2','PRE-7.3').replace('7_2','PRE_7_3')
+              if nt!=title or nb!=body:
+                  payload=json.dumps({'title':nt,'body':nb},ensure_ascii=False)
+                  subprocess.run(['gh','api','--method','PATCH',f'repos/{repo}/issues/{n}','--input','-'],input=payload,text=True,check=True)
+                  print('UPDATED',n)
+          PY
+      - name: Verify
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          out=$(gh api --paginate "search/issues?q=%227.2%22+repo:${GH_REPO}" --jq '.items[] | "#\(.number) \(.title)"' || true)
+          if [ -n "$out" ]; then echo "$out"; exit 1; fi
+          echo ISSUE_7_2_REFERENCES=0
