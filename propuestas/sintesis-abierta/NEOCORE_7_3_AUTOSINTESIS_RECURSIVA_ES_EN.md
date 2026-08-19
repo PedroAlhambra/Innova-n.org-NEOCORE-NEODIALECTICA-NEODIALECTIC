@@ -5,7 +5,8 @@
 **Estado / Status:** CANDIDATA · SÍNTESIS ABIERTA / CANDIDATE · OPEN SYNTHESIS  
 **Base canónica / Canonical base:** NEOCore™ PRE-7.3  
 **Matriz pública / Public matrix:** [Issue #161](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/161)  
-**Primer lote / First batch:** [I–XII · Issue #162](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/162)  
+**Lote 01 / Batch 01:** [I–XII · Issue #162](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/162)  
+**Lote 02 / Batch 02:** [XIII–XXXII · Issue #168](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/168) · [documento / document](2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_02_XIII_XXXII_ES_EN.md)  
 **Registro documental / Documentary registry:** [Issue #163](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/163)
 
 > **AUTORRESPONDER ≠ AUTOVALIDAR.**  
@@ -52,7 +53,7 @@ La etiqueta `7.3-CANDIDATE` no debe promocionarse a `7.3 CANON` hasta completar:
 ### Estado de ejecución
 
 - **Lote 01 · I–XII:** ejecutado en [#162](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/162).
-- **XIII–XXXII:** pendiente.
+- **Lote 02 · XIII–XXXII:** ejecutado en [#168](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/168) y [documento versionado](2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_02_XIII_XXXII_ES_EN.md).
 - **XXXIII–LII:** pendiente.
 - **LIII–LXVIII:** pendiente.
 - **LXIX–LXXXI + ∞:** pendiente.
@@ -95,7 +96,7 @@ The `7.3-CANDIDATE` label must not be promoted to `7.3 CANON` until the equivale
 ### Execution status
 
 - **Batch 01 · I–XII:** executed in [#162](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/162).
-- **XIII–XXXII:** pending.
+- **Batch 02 · XIII–XXXII:** executed in [#168](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/168) and its [versioned document](2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_02_XIII_XXXII_ES_EN.md).
 - **XXXIII–LII:** pending.
 - **LIII–LXVIII:** pending.
 - **LXIX–LXXXI + ∞:** pending.
