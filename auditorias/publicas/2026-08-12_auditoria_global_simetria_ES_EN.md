@@ -8,7 +8,7 @@
 ## Resumen / Summary
 
 - Markdown activo examinado / Active Markdown scanned: **294**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **231**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **230**.
 - Fallos estructurales divididos / Split structural failures: **1**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **1**.
@@ -36,7 +36,7 @@
 
 | Archivo | Estado | Detalle |
 |---|---|---|
-| `README.md` | **OK** |  |
+| `README.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` | **OK** |  |
 | `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` | **OK** |  |
 | `analisis/INDEX.md` | **OK** |  |
