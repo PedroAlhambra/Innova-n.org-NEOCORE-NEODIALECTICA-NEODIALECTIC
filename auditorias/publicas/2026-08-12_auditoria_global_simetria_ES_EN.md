@@ -25,13 +25,17 @@
 - `propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_03B_XLIII_LII_ES_EN.md` · ES=288 · EN=3808 · ratio=13.22
   - volumen EN/ES=13.22 (3808/288)
   - esqueleto de encabezados distinto ES=[] EN=[(2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (2, ''), (3, ''), (2, '')]
-- `propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_DELTA_CONTINUIDAD_CREADORA_NEO0_TOROIDE_ES_EN.md` · ES=662 · EN=664 · ratio=1.00
-  - ES · 2. Neo0™ como función de origen sintético: code ES=1 EN=0
-  - ES · 3. Neo0 no requiere validación de autoridad: code ES=1 EN=0
-  - ES · 4. Principio de Continuidad Creadora™: lists ES=6 EN=0
-  - ES · 4. Principio de Continuidad Creadora™: code ES=1 EN=0
-  - ES · 5. Evidencia proporcional a la naturaleza de la afirmación: code ES=1 EN=0
-  - ES · 6. Corrección de la genealogía Finkelstein–McLuhan–Neo0™: code ES=1 EN=0
+- `propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_DELTA_CONTINUIDAD_CREADORA_NEO0_TOROIDE_ES_EN.md` · ES=563 · EN=455 · ratio=0.81
+  - volumen EN/ES=0.81 (455/563)
+  - ES · 2. Neo0™ y ONe Starkdr™: code ES=2 EN=1
+  - ES · 3. Retorno a concepto preexistente: code ES=1 EN=0
+  - ES · 3. Retorno a concepto preexistente: párrafos ES=2 EN=1
+  - ES · 4. Una síntesis nueva no requiere validación de autoridad: párrafos ES=2 EN=1
+  - ES · 5. Principio de Continuidad Creadora™: code ES=1 EN=0
+  - ES · 5. Principio de Continuidad Creadora™: párrafos ES=2 EN=1
+  - ES · 6. Evidencia proporcional a la naturaleza de la afirmación: lists ES=6 EN=0
+  - ES · 6. Evidencia proporcional a la naturaleza de la afirmación: code ES=1 EN=0
+  - ES · 8. Regla para las próximas tandas: lists ES=7 EN=0
 - `propuestas/sintesis-abierta/NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md` · ES=417 · EN=348 · ratio=0.83
   - Gate para 7.3 canónico: lists ES=9 EN=0
   - Síntesis acumulada hasta LII: code ES=1 EN=0
@@ -270,7 +274,7 @@
 | `propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_02_XIII_XXXII_ES_EN.md` | **REVISAR** | volumen EN/ES=28.75 (5290/184); esqueleto de encabezados distinto ES=[] EN=[(2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, '')] |
 | `propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_03A_XXXIII_XLII_ES_EN.md` | **REVISAR** | volumen EN/ES=11.07 (3134/283); esqueleto de encabezados distinto ES=[] EN=[(2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (2, '')] |
 | `propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_03B_XLIII_LII_ES_EN.md` | **REVISAR** | volumen EN/ES=13.22 (3808/288); esqueleto de encabezados distinto ES=[] EN=[(2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (2, ''), (3, ''), (2, '')] |
-| `propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_DELTA_CONTINUIDAD_CREADORA_NEO0_TOROIDE_ES_EN.md` | **REVISAR** | ES · 2. Neo0™ como función de origen sintético: code ES=1 EN=0; ES · 3. Neo0 no requiere validación de autoridad: code ES=1 EN=0; ES · 4. Principio de Continuidad Creadora™: lists ES=6 EN=0; ES · 4. Principio de Continuidad Creadora™: code ES=1 EN=0; ES · 5. Evidencia proporcional a la naturaleza de la afirmación: code ES=1 EN=0; ES · 6. Corrección de la genealogía Finkelstein–McLuhan–Neo0™: code ES=1 EN=0 |
+| `propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_DELTA_CONTINUIDAD_CREADORA_NEO0_TOROIDE_ES_EN.md` | **REVISAR** | volumen EN/ES=0.81 (455/563); ES · 2. Neo0™ y ONe Starkdr™: code ES=2 EN=1; ES · 3. Retorno a concepto preexistente: code ES=1 EN=0; ES · 3. Retorno a concepto preexistente: párrafos ES=2 EN=1; ES · 4. Una síntesis nueva no requiere validación de autoridad: párrafos ES=2 EN=1; ES · 5. Principio de Continuidad Creadora™: code ES=1 EN=0; ES · 5. Principio de Continuidad Creadora™: párrafos ES=2 EN=1; ES · 6. Evidencia proporcional a la naturaleza de la afirmación: lists ES=6 EN=0; ES · 6. Evidencia proporcional a la naturaleza de la afirmación: code ES=1 EN=0; ES · 8. Regla para las próximas tandas: lists ES=7 EN=0 |
 | `propuestas/sintesis-abierta/ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_v0.1_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md` | **OK** |  |
