@@ -11,7 +11,7 @@
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **231**.
 - Fallos estructurales divididos / Split structural failures: **1**.
 - Fallos de marcadores / Marker failures: **0**.
-- Superficies pareadas para revisión / Paired surfaces for review: **0**.
+- Superficies pareadas para revisión / Paired surfaces for review: **1**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
@@ -26,7 +26,7 @@
 
 ## Superficies pareadas que requieren revisión / Paired surfaces requiring review
 
-- Ninguna / None.
+- `wiki-source/README.md`: Fuente versionada de la Wiki | Versioned Wiki source
 
 ## Plantillas GitHub Issue / GitHub Issue templates
 
@@ -293,7 +293,7 @@
 | `wiki-source/Participar.md` | **OK** |  |
 | `wiki-source/Procedencia_Trazabilidad_y_Legal.md` | **OK** |  |
 | `wiki-source/RADAR_PI.md` | **OK** |  |
-| `wiki-source/README.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
+| `wiki-source/README.md` | **REVISAR-PAREADO** | encabezados potencialmente monolingües: Fuente versionada de la Wiki / Versioned Wiki source |
 | `wiki-source/Sintesis_Abierta.md` | **OK** |  |
 | `wiki-source/WEB4_y_Proyeccion.md` | **OK** |  |
 
