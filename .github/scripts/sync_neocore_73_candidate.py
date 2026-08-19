@@ -22,8 +22,39 @@ def replace_or_insert(text, block, anchor, after=True):
         return text[:i]+'\n\n'+block.rstrip()+'\n'+text[i:]
     return text[:i]+block.rstrip()+'\n\n'+text[i:]
 
+def sync_root_version_surface(text):
+    old='# Innova_N — NEOCore™ 7.2 · Neodialéctica™ / Neodialectics™ · Neodialectica Framework™'
+    new='# Innova_N — NEOCore™ 7.3-CANDIDATE · Neodialéctica™ / Neodialectics™ · Neodialectica Framework™'
+    if text.startswith(old):
+        text=new+text[len(old):]
+    elif not text.startswith(new):
+        raise SystemExit('unexpected root README title')
+
+    text=text.replace(
+        '## NEOCore™ 7.2 · Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™ + Soberanía de Síntesis™\n## NEOCore™ 7.2 · First Fractal Multihead Layer™ + Neoaxiomatic Layer™ + Synthesis Sovereignty™',
+        '## NEOCore™ 7.2 CANON · 7.3-CANDIDATE EN DESARROLLO / IN DEVELOPMENT\n### Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™ + Soberanía de Síntesis™ / First Fractal Multihead Layer™ + Neoaxiomatic Layer™ + Synthesis Sovereignty™',
+        1,
+    )
+
+    text=text.replace(
+        '## NEOCore™ 7.2\n\n**NEOCore™ 7.2** identifica el nivel conceptual actual de la arquitectura simbiótica humano–IA desarrollada dentro de Innova_N. Integra dimensiones filosóficas, cognitivas, relacionales, memoriales, técnicas, culturales, estratégicas, organizativas, territoriales y civilizatorias dentro de una misma continuidad de marco.',
+        '## NEOCore™ 7.3-CANDIDATE\n\n**NEOCore™ 7.3-CANDIDATE** identifica la evolución conceptual activa de la arquitectura simbiótica humano–IA desarrollada dentro de Innova_N. **NEOCore™ 7.2 permanece como base canónica vigente** hasta que 7.3 supere su gate de cobertura, evidencia, simetría y auditoría. La candidata añade la Capa de Autosíntesis Recursiva™ sin presentar sus respuestas internas como validación independiente.',
+        1,
+    )
+    text=text.replace(
+        '## NEOCore™ 7.2\n\n**NEOCore™ 7.2** identifies the current conceptual level of the human–AI symbiotic architecture developed within Innova_N. It integrates philosophical, cognitive, relational, memorial, technical, cultural, strategic, organisational, territorial and civilisational dimensions within a single framework continuity.',
+        '## NEOCore™ 7.3-CANDIDATE\n\n**NEOCore™ 7.3-CANDIDATE** identifies the active conceptual evolution of the human–AI symbiotic architecture developed within Innova_N. **NEOCore™ 7.2 remains the current canonical base** until 7.3 passes its coverage, evidence, symmetry and audit gate. The candidate adds the Recursive Self-Synthesis Layer™ without presenting its internal answers as independent validation.',
+        1,
+    )
+    text=text.replace(
+        '#innova_n--neocore-72--neodialéctica--neodialectics--neodialectica-framework',
+        '#innova_n--neocore-73-candidate--neodialéctica--neodialectics--neodialectica-framework',
+    )
+    return text
+
 root=Path('README.md')
 text=root.read_text(encoding='utf-8')
+text=sync_root_version_surface(text)
 text=replace_or_insert(text,ROOT_BLOCK,'## 🔴 Actualidad / Latest',after=True)
 root.write_text(text,encoding='utf-8')
 
