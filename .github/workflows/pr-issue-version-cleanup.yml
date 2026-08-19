@@ -7,13 +7,14 @@ on:
 permissions:
   contents: read
   issues: write
+  pull-requests: write
 
 jobs:
   cleanup:
     if: github.head_ref == 'maintenance/issue-version-cleanup-20260819'
     runs-on: ubuntu-latest
     steps:
-      - name: Migrate obsolete version labels in affected Issues
+      - name: Migrate obsolete version labels in all Issues, PR metadata and comments
         env:
           GH_TOKEN: ${{ github.token }}
           GH_REPO: ${{ github.repository }}
@@ -21,22 +22,77 @@ jobs:
           python - <<'PY'
           import json, os, subprocess
           repo=os.environ['GH_REPO']
-          issue_numbers=[71,80,98,103,131,132,161,163]
-          for n in issue_numbers:
-              obj=json.loads(subprocess.check_output(['gh','api',f'repos/{repo}/issues/{n}'], text=True))
-              title=obj['title']; body=obj.get('body') or ''
-              nt=title.replace('7.2','PRE-7.3')
-              nb=body.replace('7.2','PRE-7.3').replace('7_2','PRE_7_3')
+
+          def api(args, payload=None):
+              cmd=['gh','api']+args
+              return subprocess.check_output(cmd, input=payload, text=True)
+
+          def repl(s):
+              if not s: return s
+              return s.replace('7.2','PRE-7.3').replace('7_2','PRE_7_3')
+
+          page=1
+          issues=[]
+          while True:
+              batch=json.loads(api([f'repos/{repo}/issues?state=all&per_page=100&page={page}']))
+              if not batch: break
+              issues.extend(batch); page+=1
+
+          changed_issues=0; changed_comments=0
+          for obj in issues:
+              n=obj['number']; title=obj.get('title') or ''; body=obj.get('body') or ''
+              nt=repl(title); nb=repl(body)
               if nt!=title or nb!=body:
                   payload=json.dumps({'title':nt,'body':nb},ensure_ascii=False)
-                  subprocess.run(['gh','api','--method','PATCH',f'repos/{repo}/issues/{n}','--input','-'],input=payload,text=True,check=True)
-                  print('UPDATED',n)
+                  api(['--method','PATCH',f'repos/{repo}/issues/{n}','--input','-'],payload)
+                  changed_issues+=1
+                  print('UPDATED_ISSUE_OR_PR',n)
+
+              cp=1
+              while True:
+                  comments=json.loads(api([f'repos/{repo}/issues/{n}/comments?per_page=100&page={cp}']))
+                  if not comments: break
+                  for c in comments:
+                      body=c.get('body') or ''; nb=repl(body)
+                      if nb!=body:
+                          payload=json.dumps({'body':nb},ensure_ascii=False)
+                          api(['--method','PATCH',f'repos/{repo}/issues/comments/{c["id"]}','--input','-'],payload)
+                          changed_comments+=1
+                          print('UPDATED_COMMENT',c['id'],'ISSUE',n)
+                  cp+=1
+          print('CHANGED_ISSUES_OR_PRS',changed_issues)
+          print('CHANGED_COMMENTS',changed_comments)
           PY
-      - name: Verify
+
+      - name: Verify directly against every Issue, PR metadata and comment
         env:
           GH_TOKEN: ${{ github.token }}
           GH_REPO: ${{ github.repository }}
         run: |
-          out=$(gh api --paginate "search/issues?q=%227.2%22+repo:${GH_REPO}" --jq '.items[] | "#\(.number) \(.title)"' || true)
-          if [ -n "$out" ]; then echo "$out"; exit 1; fi
-          echo ISSUE_7_2_REFERENCES=0
+          python - <<'PY'
+          import json, os, subprocess
+          repo=os.environ['GH_REPO']; bad=[]
+          def api(path): return json.loads(subprocess.check_output(['gh','api',path],text=True))
+          page=1
+          while True:
+              batch=api(f'repos/{repo}/issues?state=all&per_page=100&page={page}')
+              if not batch: break
+              for obj in batch:
+                  n=obj['number']
+                  for field in ('title','body'):
+                      s=obj.get(field) or ''
+                      if '7.2' in s or '7_2' in s: bad.append((n,field))
+                  cp=1
+                  while True:
+                      comments=api(f'repos/{repo}/issues/{n}/comments?per_page=100&page={cp}')
+                      if not comments: break
+                      for c in comments:
+                          s=c.get('body') or ''
+                          if '7.2' in s or '7_2' in s: bad.append((n,f'comment:{c["id"]}'))
+                      cp+=1
+              page+=1
+          if bad:
+              print('RESIDUALS',bad)
+              raise SystemExit(1)
+          print('ISSUE_PR_COMMENT_7_2_REFERENCES=0')
+          PY
