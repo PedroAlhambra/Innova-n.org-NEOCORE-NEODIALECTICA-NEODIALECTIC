@@ -1,9 +1,11 @@
 name: final-neocore-version-surface-cleanup
 
+# retrigger 2026-08-19T17:35+02:00
 on:
   push:
     paths:
       - '.github/workflows/final-neocore-version-surface-cleanup.yml'
+  workflow_dispatch:
 
 permissions:
   contents: write
