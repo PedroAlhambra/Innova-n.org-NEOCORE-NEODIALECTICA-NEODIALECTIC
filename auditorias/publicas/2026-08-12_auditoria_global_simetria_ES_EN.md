@@ -9,15 +9,13 @@
 
 - Markdown activo examinado / Active Markdown scanned: **301**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **237**.
-- Fallos estructurales divididos / Split structural failures: **4**.
+- Fallos estructurales divididos / Split structural failures: **3**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **1**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
 
-- `auditorias/publicas/2026-08-22_web4_public_loop_run02_ES_EN.md` · ES=428 · EN=398 · ratio=0.93
-  - ES · Pruebas y resultado: lists ES=8 EN=0
 - `propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_02_XIII_XXXII_ES_EN.md` · ES=184 · EN=5290 · ratio=28.75
   - volumen EN/ES=28.75 (5290/184)
   - esqueleto de encabezados distinto ES=[] EN=[(2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, '')]
@@ -144,7 +142,7 @@
 | `auditorias/publicas/2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-16_auditoria_neoaxiomas_simetria_frontera_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `auditorias/publicas/2026-08-22_web4_public_loop_run01_ES_EN.md` | **OK** |  |
-| `auditorias/publicas/2026-08-22_web4_public_loop_run02_ES_EN.md` | **REVISAR** | ES · Pruebas y resultado: lists ES=8 EN=0 |
+| `auditorias/publicas/2026-08-22_web4_public_loop_run02_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-22_web4_public_loop_run03_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **OK** |  |
