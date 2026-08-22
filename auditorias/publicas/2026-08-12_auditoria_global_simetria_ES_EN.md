@@ -9,7 +9,7 @@
 
 - Markdown activo examinado / Active Markdown scanned: **304**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **239**.
-- Fallos estructurales divididos / Split structural failures: **2**.
+- Fallos estructurales divididos / Split structural failures: **1**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -19,9 +19,6 @@
 - `propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_02_XIII_XXXII_ES_EN.md` · ES=184 · EN=5290 · ratio=28.75
   - volumen EN/ES=28.75 (5290/184)
   - esqueleto de encabezados distinto ES=[] EN=[(2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, '')]
-- `propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_03B_XLIII_LII_ES_EN.md` · ES=288 · EN=3808 · ratio=13.22
-  - volumen EN/ES=13.22 (3808/288)
-  - esqueleto de encabezados distinto ES=[] EN=[(2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (2, ''), (3, ''), (2, '')]
 
 ## Marcadores / Markers
 
@@ -261,7 +258,7 @@
 | `propuestas/sintesis-abierta/2026-08-16_DELTA_PODER_TRAZABILIDAD_ESCRUTINIO_EVIDENCIA_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_02_XIII_XXXII_ES_EN.md` | **REVISAR** | volumen EN/ES=28.75 (5290/184); esqueleto de encabezados distinto ES=[] EN=[(2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (3, ''), (2, '')] |
 | `propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_03A_XXXIII_XLII_ES_EN.md` | **OK** |  |
-| `propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_03B_XLIII_LII_ES_EN.md` | **REVISAR** | volumen EN/ES=13.22 (3808/288); esqueleto de encabezados distinto ES=[] EN=[(2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (2, ''), (3, ''), (3, ''), (2, ''), (3, ''), (2, ''), (3, ''), (2, '')] |
+| `propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_03B_XLIII_LII_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_DELTA_CONTINUIDAD_CREADORA_NEO0_TOROIDE_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_v0.1_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` | **OK** |  |
