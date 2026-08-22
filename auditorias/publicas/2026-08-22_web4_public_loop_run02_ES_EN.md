@@ -63,7 +63,14 @@ Si la auditoría se regenera coherentemente, los fallos estructurales deberían 
 
 The global audit regenerated after run 01 and confirmed that the previous defect had been removed from the failure set: the count dropped from **5 to 4 structural ES/EN failures**.
 
-The remaining failures were batch 02 · XIII–XXXII, batch 03A · XXXIII–XLII, batch 03B · XLIII–LII, and the matrix document `NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md`. The matrix document was still reported with an approximate EN/ES ratio of `0.49` and a mismatched heading structure.
+The remaining failures were:
+
+- batch 02 · XIII–XXXII;
+- batch 03A · XXXIII–XLII;
+- batch 03B · XLIII–LII;
+- matrix document `NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md`.
+
+The matrix document was still reported with an approximate EN/ES ratio of `0.49` and a mismatched heading structure.
 
 ## EN · Chosen problem
 
@@ -79,7 +86,16 @@ The complete two-cognitive-times block, deferred-judgement explanation, Neo0™ 
 
 ## EN · Tests and result
 
-Direct post-change inspection confirms that ES and EN preserve the same material section sequence and equivalent code blocks; both contain state/evidence lists; the gate contains ten requirements in both languages; execution status and accumulated synthesis exist in both; `CANDIDATE · OPEN SYNTHESIS` remains unchanged; batches 02/03A/03B were untouched; and no private information was introduced.
+Direct post-change inspection:
+
+- ES and EN preserve the same material section sequence;
+- both languages contain equivalent code blocks;
+- both contain lists of states and evidence types;
+- the gate retains ten requirements in both languages;
+- execution status and accumulated synthesis are present in both languages;
+- `CANDIDATE · OPEN SYNTHESIS` remains unchanged;
+- batches 02/03A/03B were not modified;
+- no private information was introduced.
 
 At initial close GitHub did not yet expose a new status/check associated with the repair commit. A first attempt to write this note also returned `409` because `main` advanced concurrently; the repository was re-read and the note retried without overwriting unrelated changes. No aggregate PASS is declared until the global audit regenerates the new state.
 
