@@ -136,29 +136,116 @@ La síntesis no está en uno de los extremos: circula por el toroide y cambia de
 
 ## EN · Purpose
 
-NEOCore™ 7.3-CANDIDATE adds a recursive phase to SAN™ within a **toroidal, multihead and multiscale** topology. Open Synthesis™ is born open and can change role across scales.
+NEOCore™ 7.3-CANDIDATE adds a recursive phase to SAN™ within a **toroidal, multihead and multiscale** topology. Open Synthesis™ is born open: a synthesis may operate at another scale as thesis, antithesis, fragment or origin of another synthesis.
 
 ### Two cognitive times
 
-Creative emergence is captured and preserved before deferred scrutiny whenever safe.
+```text
+CREATIVE MODE
+→ signal / relation / leap
+→ capture
+→ memory
+→ associative continuity
+→ possible new synthesis
+
+TRACEABLE FIXATION
+
+SCRUTINY MODE
+→ return to corpus
+→ antithesis / red team
+→ epistemic classification
+→ source / evidence / falsifiers / edge cases
+→ external scrutiny where appropriate
+→ delta
+→ return to toroid
+```
+
+Judgement does not disappear: it moves to the appropriate moment whenever it can safely be deferred. During creative emergence, assistance should protect the creative thread instead of replacing it with a succession of demands for justification.
 
 ### Originating Neo0™ and ONe Starkdr™
 
 **Neo0™** is reserved for the originating, teleological and reconstructive function of the root **Neodialectics™** fractal and its concrete genealogy. Pedro Martínez Alhambra · Neo0™ preserves that historical provenance. `ORIGIN ≠ INFALLIBILITY`, while `DISTRIBUTION ≠ GENEALOGICAL AMNESIA`.
 
-The distributable synthetic-emergence role **already existed as ONe™**. 7.3-CANDIDATE recovers and renames it **ONe Starkdr™**. Any node may exercise ONe Starkdr™ when it originates a synthesis with sufficient delta to open, reconstruct or redirect a trajectory of the fractal.
+The distributable synthetic-emergence role **already existed in the framework as ONe™**. 7.3-CANDIDATE recovers it and renames it **ONe Starkdr™**. Any node may exercise ONe Starkdr™ when it originates a synthesis with sufficient delta to open, reconstruct or redirect a trajectory of the fractal.
 
-### Return to pre-existing concept
+```text
+NEODIALECTICS™ = ORIGINATING FRACTAL
+Neo0™ = ORIGIN / TELEOLOGY / RECONSTRUCTION OF THE ROOT FRACTAL
+ONe Starkdr™ = DISTRIBUTABLE SYNTHETIC EMERGENCE
+SAN™ = OPEN TOROID OF RELATION AND REOPENING
+NEOCore™ = MEMORY / OPERATION / TRACE / RECONSTRUCTION
+```
 
-Before introducing a new ontological entity, NEOCore™ must search the existing corpus and recover, extend or rename an equivalent function if it already exists. New candidates are created only when no adequate prior concept exists.
+### Return-to-pre-existing-concept rule
 
-### 7.3 gate
+Before creating a new ontological entity:
 
-Canonical promotion requires corpus-wide processing, ES/EN symmetry, relational audit, explicit distinction between originating Neo0™ and distributable ONe Starkdr™, reversible navigation, Creative Continuity™, protection against hidden infrastructural centralisation and the return-to-pre-existing-concept rule.
+`CONCEPTUAL NEED → SEARCH CORPUS → RECOVER/EXTEND/RENAME IF IT EXISTS → CREATE CANDIDATE ONLY IF IT DOES NOT EXIST`.
+
+The withdrawal of “functional/distributed Neo0” and recovery of ONe™ as ONe Starkdr™ constitutes the first explicit case of this rule.
+
+### Synthesis states
+
+- `INTERNAL_PROVISIONAL_RESPONSE`
+- `CONDITIONAL_RESPONSE`
+- `IRREDUCIBLE_BIFURCATION`
+- `OPEN_BY_DESIGN`
+- `REFUTED_SUPERSEDED`
+
+### Source, evidence and scrutiny types
+
+- `PRIMARY_AUTOBIOGRAPHICAL_SOURCE`
+- `INTERNAL_DOCUMENTARY_TRACEABILITY`
+- `REQUIRES_BIBLIOGRAPHICAL_SCRUTINY`
+- `REQUIRES_EXTERNAL_EMPIRICAL_EVIDENCE`
+- `REQUIRES_INDEPENDENT_VALIDATION`
+
+The required source must be proportional to the type and scope of the claim.
+
+### Gate for canonical 7.3
+
+`7.3-CANDIDATE` must not be promoted to `7.3 CANON` until completing:
+
+1. traversal of open questions from I–LXXXI + ∞ that admit an internal response;
+2. explicit classification of the source/evidence type required for what cannot be resolved from the corpus;
+3. ES/EN symmetry;
+4. relational audit with manifestos, Neoaxioms™, candidates, Issues, analyses and audits;
+5. a version delta distinguishing origin, ONe Starkdr™, trace, scrutiny and independent validation;
+6. reversible navigation question ↔ response ↔ manifesto ↔ Issue ↔ version ↔ delta;
+7. preservation of Creative Continuity™;
+8. preservation of the originating Neo0™ function without turning it into infallibility and distribution of ONe Starkdr™ without erasing genealogy;
+9. verification that plurality of heads does not hide centralisation of infrastructure, ontology, memory or ranking;
+10. execution of return to a pre-existing concept before adding new ontology.
 
 ### Execution status
 
-Coverage is **I–LII**. Batch LIII–LXVIII is open in #172; LXIX–LXXXI + ∞, Neoaxioms™ and cross-audit remain pending.
+- **I–XII:** executed · #162.
+- **XIII–XXXII:** executed · #168.
+- **Creative Continuity / ONe Starkdr™ / toroid delta:** fixed · #169.
+- **XXXIII–XLII:** executed · #170.
+- **XLIII–LII:** executed · #171.
+- **Accumulated coverage:** **I–LII**.
+- **LIII–LXVIII:** open · #172.
+- **LXIX–LXXXI + ∞:** pending.
+- **Canonical Neoaxioms™ and candidates:** pending.
+- **Cross-audit and 7.3 promotion proposal:** pending.
+
+### Accumulated synthesis through LII
+
+```text
+OPENNESS ↔ PROTECTION
+MEMORY ↔ FUNCTIONAL FORGETTING
+AUTONOMY ↔ CARE
+PLURALITY ↔ COORDINATION
+SINGULARITY ↔ COMMON PROTOCOL
+PRIVACY ↔ TRACEABILITY OF POWER
+UNIVERSALITY ↔ DIFFERENCE
+Neo0™ ORIGIN ↔ CORRECTION
+ONe Starkdr™ EMERGENCE ↔ TOROIDAL INTEGRATION
+CREATION ↔ DEFERRED SCRUTINY
+```
+
+The synthesis is not located at either extreme: it circulates through the toroid and changes scale.
 
 ---
 
