@@ -3,7 +3,7 @@
 
 **Fecha / Date:** 2026-08-12  
 **Manifiestos canónicos / Canonical manifestos:** 81 · I–LXXXI  
-**Markdown activo examinado / Active Markdown scanned:** 388  
+**Markdown activo examinado / Active Markdown scanned:** 389  
 **Archivo histórico excluido del estado vivo / Historical archive excluded from living state:** 55 archivos / files  
 **Regla de integridad:** esta auditoría no resume, acorta ni reescribe cuerpos fuente. Detecta relaciones documentales y candidatos a revisión; las relaciones semánticas o causales siguen requiriendo SAN/revisión humana. / **Integrity rule:** this audit never summarises, shortens or rewrites source bodies. It detects documentary relations and review candidates; semantic or causal relations still require SAN/human review.
 
