@@ -7,8 +7,8 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **298**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **235**.
+- Markdown activo examinado / Active Markdown scanned: **299**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **236**.
 - Fallos estructurales divididos / Split structural failures: **4**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **1**.
@@ -144,6 +144,7 @@
 | `auditorias/publicas/2026-08-12_auditoria_registro_canonico_manifiestos_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `auditorias/publicas/2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-16_auditoria_neoaxiomas_simetria_frontera_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
+| `auditorias/publicas/2026-08-22_web4_public_loop_run01_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/README.md` | **OK** |  |
