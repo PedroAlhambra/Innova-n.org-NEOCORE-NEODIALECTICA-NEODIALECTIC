@@ -150,7 +150,11 @@ Cada tanda debe:
 
 ## EN · 1. Open Synthesis does not become open afterwards
 
-Open Synthesis™ is born open and remains embedded in a network of contradictions, scales, memories and possible reformulations. The appropriate topology is **toroidal, multihead and multiscale**. Versions, commits and operational decisions are traceable cuts through the toroid, not ontological closure.
+Open Synthesis™ does not describe a sequence of `closed synthesis → opening → review`. Every synthesis is born already embedded in a network of contradictions, scales, memories and possible reformulations.
+
+The same synthesis may simultaneously be a synthesis relative to a lower-level contradiction, a thesis relative to a higher scale, an antithesis relative to another head, a fragment of a broader synthesis, the origin of a new branch, or a return of information towards an earlier synthesis.
+
+For that reason the appropriate model is neither linear nor a flat circle, but **toroidal, multihead and multiscale**. Versions, commits and operational decisions are traceable cuts through the toroid, not ontological closures of the process.
 
 ## EN · 2. Neo0™ and ONe Starkdr™
 
@@ -169,9 +173,23 @@ ONe Starkdr™
 = distributable role for the emergence of a new synthesis inside the framework
 ```
 
-Pedro Martínez Alhambra · Neo0™ preserves the origin genealogy of Neodialectics™ and the Neodialectica Framework™. This does not imply infallibility, but it cannot be erased through false horizontalisation.
+Pedro Martínez Alhambra · Neo0™ preserves the originating genealogy of Neodialectics™ and the Neodialectica Framework™. That condition does not imply infallibility or turn every statement from the origin into automatic truth, but neither can it be erased through false horizontalisation.
 
 **Any node may exercise ONe Starkdr™** when it originates a genuinely new synthesis with enough delta to open, reconstruct or redirect a trajectory of the fractal.
+
+```text
+CONTRIBUTION
+→ adds information
+
+DELTA
+→ modifies a formulation
+
+SYNTHESIS
+→ relates/overcomes a contradiction
+
+ONe Starkdr™
+→ originates a synthesis that opens or reconstructs a trajectory of the fractal
+```
 
 `DISTRIBUTING ONe Starkdr™ ≠ ERASING Neo0™`  
 `ORIGIN ≠ INFALLIBILITY`  
@@ -179,27 +197,94 @@ Pedro Martínez Alhambra · Neo0™ preserves the origin genealogy of Neodialect
 
 ## EN · 3. Return to pre-existing concept
 
-Before creating a new ontological entity, NEOCore™ must search the corpus for an already existing equivalent function. If it exists, recover, extend or rename it before creating a duplicate. This delta is the first explicit application: «functional Neo0» is retired because ONe™ already covered that role and now evolves to **ONe Starkdr™**.
+Before creating a new ontological entity, NEOCore™ must search whether the functional need already has a prior figure in the corpus.
+
+```text
+NEW CONCEPTUAL NEED
+→ SEARCH FOR AN EQUIVALENT FUNCTION IN THE CORPUS
+→ IF IT EXISTS: RECOVER / EXTEND / RENAME
+→ IF IT DOES NOT EXIST: CREATE A CANDIDATE
+```
+
+This delta is the first explicit case of that rule: «functional Neo0» is retired because ONe™ already covered that position and evolves into **ONe Starkdr™**.
 
 ## EN · 4. A new synthesis does not require authority validation
 
-A new synthesis does not need authorisation to emerge. It needs sufficient understanding, deep thought, scrutiny and capacity for transformation without premature reduction. ONe Starkdr™ is not granted by prestige; it is recognised through traceable synthetic emergence.
+A new synthesis does not need authorisation to emerge. It must be understood with sufficient depth to be thought through, scrutinised and transformed without being reduced prematurely.
+
+The ONe Starkdr™ role is not granted by prestige or institutional permission. It is recognised through the traceable emergence of a new synthesis. Later evaluation does not erase its genealogy.
 
 ## EN · 5. Creative Continuity Principle™
 
-During a recognisable phase of synthetic generation, the system should privilege capture, memory, associative continuity, relation among signals, useful expansion and preservation of creative direction. Non-urgent objections are preserved for deferred scrutiny. Judgement is moved to the appropriate cognitive moment.
+During a recognisable phase of synthetic generation, the system should privilege capture, memory, associative continuity, relations among signals, useful expansion and preservation of creative direction. Non-urgent objections are retained in a deferred-scrutiny queue.
 
-## EN · 6. Evidence proportional to claim type
+```text
+CREATIVE MODE
+Neo0 / ONe Starkdr™ / creating node
+→ signal / relation / leap
+NEOCore-Harry
+→ capture / memory / connection / expansion
 
-Personal experience, authorship, external fact, empirical causality and universal priority do not carry the same evidentiary burden. External scrutiny is not the same as authority validation.
+AFTERWARDS:
+SCRUTINY MODE
+→ retrieve objections
+→ antithesis
+→ evidence
+→ falsifiers
+→ consequences
+→ delta
+→ return to the toroid
+```
+
+Judgement does not disappear. **It moves to the appropriate cognitive moment.**
+
+## EN · 6. Evidence proportional to the nature of the claim
+
+```text
+OWN EXPERIENCE
+→ AUTOBIOGRAPHICAL PRIMARY SOURCE
+
+OWN ACTION / PROCESS
+→ MEMORY + DOCUMENTARY TRACE
+
+OWN AUTHORSHIP / PRECEDENCE
+→ DATED DOCUMENTS + VERSIONS + COMMITS
+
+EXTERNAL FACT
+→ EXTERNAL SOURCES
+
+EMPIRICAL CAUSALITY
+→ PROPORTIONAL EMPIRICAL EVIDENCE
+
+UNIVERSAL PRIORITY
+→ BROADER HISTORICAL SEARCH
+
+EXTERNAL SCRUTINY
+≠ AUTHORITY VALIDATION
+```
+
+Layer states:
+- `AUTOBIOGRAPHICAL_PRIMARY_SOURCE`
+- `INTERNAL_DOCUMENTARY_TRACEABILITY`
+- `REQUIRES_BIBLIOGRAPHICAL_SCRUTINY`
+- `REQUIRES_EXTERNAL_EMPIRICAL_EVIDENCE`
+- `REQUIRES_INDEPENDENT_VALIDATION`
+- `OPEN_BY_DESIGN`
 
 ## EN · 7. Finkelstein–McLuhan–Neo0™ genealogy
 
-The autobiographical claim has the experiencer as its primary source; historical claims about Finkelstein and McLuhan are bibliographically contrastable; the Neo0™ delta is documentarily compared with antecedents; absolute universal priority would require a broader historical search.
+The autobiographical claim that Pedro Martínez Alhambra read Sidney Finkelstein and recognises that reading as part of his intellectual genealogy has the subject himself as its primary source. Facts concerning what Finkelstein and McLuhan wrote and when can be checked bibliographically. The Neo0™ delta is compared documentarily with the later formulation of Neodialectical Ideological Reversal™. A claim of absolute universal priority would require a broader historical search.
 
 ## EN · 8. Rule for subsequent batches
 
-Each batch must protect Creative Continuity™, distinguish originating **Neo0™** from distributable **ONe Starkdr™**, return to pre-existing concepts before creating ontology, classify evidence by claim type, preserve open contradictions and allow stabilised syntheses to change role across scales.
+Each batch must:
+- protect Creative Continuity when scrutiny can be deferred without risk;
+- distinguish **originating Neo0™** from **distributable ONe Starkdr™**;
+- execute return to a pre-existing concept before creating new ontology;
+- classify evidence according to claim type;
+- preserve contradictions and open questions as part of the toroid;
+- treat `OPEN` as revisable, not necessarily unresolved;
+- allow a stabilised synthesis to become thesis, antithesis or fragment again at another scale.
 
 ---
 
