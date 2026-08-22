@@ -132,6 +132,8 @@ CREACIÓN ↔ CONTRASTE DIFERIDO
 
 La síntesis no está en uno de los extremos: circula por el toroide y cambia de escala.
 
+**7.3-CANDIDATE ≠ 7.3 CANON · ABIERTO ≠ SIN RESPUESTA · Neo0™ ≠ ONe Starkdr™ · ORIGEN ≠ INFALIBILIDAD · CREACIÓN ≠ JUICIO INMEDIATO.**
+
 ---
 
 ## EN · Purpose
@@ -247,6 +249,6 @@ CREATION ↔ DEFERRED SCRUTINY
 
 The synthesis is not located at either extreme: it circulates through the toroid and changes scale.
 
----
-
 **7.3-CANDIDATE ≠ 7.3 CANON · OPEN ≠ UNANSWERED · Neo0™ ≠ ONe Starkdr™ · ORIGIN ≠ INFALLIBILITY · CREATION ≠ IMMEDIATE JUDGEMENT.**
+
+---
