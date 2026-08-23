@@ -2,7 +2,7 @@
 # Public Audits · Leónidas™
 
 **Innova_N · NEOCore™ · Neodialectica Framework™ / Network**  
-**Estado / Status:** portal operativo público / public operational portal · 2026-08-14  
+**Estado / Status:** portal operativo público / public operational portal  
 **Genealogía / Genealogy:** desde / since 2021
 
 > **Los manifiestos formulan arquitectura y principios. Las auditorías muestran qué ocurre cuando esa arquitectura entra en contacto con problemas reales.**  
