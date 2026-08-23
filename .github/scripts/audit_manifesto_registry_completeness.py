@@ -1,4 +1,5 @@
 from pathlib import Path
+from datetime import datetime, timezone
 import json
 import re
 
@@ -67,7 +68,7 @@ for p in sorted(CDIR.iterdir() if CDIR.exists() else []):
 
 lines=[
 '# Auditoría de completitud del registro canónico de manifiestos / Canonical manifesto registry completeness audit','',
-'**Fecha / Date:** 2026-08-12  ',
+f'**Fecha / Date:** {datetime.now(timezone.utc).date().isoformat()}  ',
 f'**Entradas canónicas / Canonical entries:** {len(entries)}  ',
 f'**Problemas / Problems:** {len(problems)}','',
 '## Regla / Rule','',
