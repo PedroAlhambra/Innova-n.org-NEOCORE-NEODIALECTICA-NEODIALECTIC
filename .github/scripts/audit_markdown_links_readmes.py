@@ -1,5 +1,6 @@
 from pathlib import Path
 from urllib.parse import unquote
+from datetime import datetime, timezone
 import re
 
 root = Path('.').resolve()
@@ -7,6 +8,7 @@ report = root / 'auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes
 manifest_index = root / 'manifiestos/README.md'
 synth_entry = root / 'propuestas/sintesis-abierta/README.md'
 synth_index = root / 'propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md'
+run_date = datetime.now(timezone.utc).date().isoformat()
 
 # Historical archives deliberately preserve old Wiki topology, including links
 # to pages that no longer exist in the living Wiki. They must remain untouched
@@ -167,7 +169,7 @@ latest_desc=f'{latest_roman} / #{issue_num}' if latest_roman and issue_num else 
 lines = [
     '# Postcheck dinámico · README, índices y enlaces / Dynamic README, indices and links postcheck',
     '',
-    '**Fecha / Date:** 2026-08-12  ',
+    f'**Fecha / Date:** {run_date}  ',
     f'**Estado / Status:** **{status}**',
     '',
     '> **Alcance / Scope:** el grafo vivo excluye `wiki-legacy-archive/` y las entradas raíz legacy `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` y `FOREWORD.md`. Esos nombres legacy no constituyen superficies canónicas vivas; tras su retirada de `main`, su contenido histórico permanece recuperable mediante Git. / the living graph excludes `wiki-legacy-archive/` and the root legacy entry files `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` and `FOREWORD.md`. Those legacy names are not living canonical surfaces; after retirement from `main`, their historical contents remain recoverable through Git.',
