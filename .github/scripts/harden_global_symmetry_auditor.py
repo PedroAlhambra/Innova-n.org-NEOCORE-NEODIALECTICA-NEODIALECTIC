@@ -52,6 +52,12 @@ text=text.replace("""    for m in re.finditer(r'^\\s*(name|description|label):\\
             misses.append(f'option={val[:90]}')
 """)
 
+# Keep the report filename as historical identity, but make the report header state when the
+# live audit was actually regenerated. Metrics from a later run must never retain the old 12/08 date.
+if 'from datetime import datetime, timezone' not in text:
+    text=text.replace('from pathlib import Path\nimport re\n', 'from pathlib import Path\nfrom datetime import datetime, timezone\nimport re\n')
+text=text.replace("'**Fecha / Date:** 2026-08-12  ',", "f'**Fecha / Date:** {datetime.now(timezone.utc).date().isoformat()}  ',")
+
 if text==old:
     raise SystemExit('No auditor hardening changes found; inspect source drift.')
 p.write_text(text,encoding='utf-8')
