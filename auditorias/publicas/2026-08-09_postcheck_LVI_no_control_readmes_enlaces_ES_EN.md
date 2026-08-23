@@ -7,7 +7,7 @@
 
 ## ES · Resultado
 
-- Archivos Markdown activos revisados: **393**.
+- Archivos Markdown activos revisados: **396**.
 - Archivos Markdown históricos excluidos del estado vivo: **55**.
 - Entradas legacy excluidas del estado vivo: **0**.
 - README activos revisados: **17**.
@@ -40,7 +40,7 @@
 
 ## EN · Result
 
-- Active Markdown files reviewed: **393**.
+- Active Markdown files reviewed: **396**.
 - Historical Markdown files excluded from living-state health: **55**.
 - Legacy entry files excluded from living-state health: **0**.
 - Active README files reviewed: **17**.
