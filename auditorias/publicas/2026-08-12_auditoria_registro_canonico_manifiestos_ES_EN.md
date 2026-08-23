@@ -1,6 +1,6 @@
 # Auditoría de completitud del registro canónico de manifiestos / Canonical manifesto registry completeness audit
 
-**Fecha / Date:** 2026-08-12  
+**Fecha / Date:** 2026-08-23  
 **Entradas canónicas / Canonical entries:** 81  
 **Problemas / Problems:** 0
 
