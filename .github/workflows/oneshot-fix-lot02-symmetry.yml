@@ -1,0 +1,119 @@
+name: one-shot-fix-lot02-symmetry
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/oneshot-fix-lot02-symmetry.yml'
+permissions:
+  contents: write
+concurrency:
+  group: neocore-document-sync-main
+  cancel-in-progress: false
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Rebuild Batch 02 as auditable full ES and EN halves
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          p=Path('propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_02_XIII_XXXII_ES_EN.md')
+          text=p.read_text(encoding='utf-8')
+          first=text.index('\n## XIII ·')
+          preamble=text[:first].rstrip()
+
+          synth_marker='\n## Síntesis transversal del lote / Cross-batch synthesis\n'
+          main, tail=text[first:].split(synth_marker,1)
+          synth_body, _gate=tail.split('\n## Gate del Lote 02 / Batch 02 gate\n',1)
+          ses, sen=synth_body.split('\n### EN\n',1)
+          ses=ses.replace('### ES\n','',1).strip()
+          sen=sen.strip()
+
+          matches=list(re.finditer(r'(?m)^## ([IVXLCDM]+) · (.+?)\s*$',main))
+          sections=[]
+          for i,m in enumerate(matches):
+              block=main[m.end():matches[i+1].start() if i+1<len(matches) else len(main)]
+              if '\n### ES\n' not in block or '\n### EN\n' not in block:
+                  raise SystemExit(f'missing language gates in {m.group(1)}')
+              before_en, enpart=block.split('\n### EN\n',1)
+              _prefix, espart=before_en.split('\n### ES\n',1)
+              title=m.group(2).strip()
+              if ' / ' not in title:
+                  raise SystemExit(f'non-bilingual section title: {title}')
+              es_title,en_title=title.split(' / ',1)
+              sections.append((m.group(1),es_title.strip(),en_title.strip(),espart.strip().strip('-').strip(),enpart.strip().strip('-').strip()))
+
+          if len(sections)!=20 or sections[0][0]!='XIII' or sections[-1][0]!='XXXII':
+              raise SystemExit(f'unexpected section coverage: {[x[0] for x in sections]}')
+
+          es=[]
+          en=[]
+          for num,est,ent,esb,enb in sections:
+              es.append(f'## {num} · {est}\n\n{esb}')
+              en.append(f'## {num} · {ent}\n\n{enb}')
+
+          es_gate='''## Gate del Lote 02
+
+- [x] Cobertura XIII–XXXII.
+- [x] Simetría ES/EN a nivel de tesis, antítesis y estado.
+- [x] Separación entre respuesta normativa/arquitectónica y evidencia empírica externa.
+- [x] Antítesis explícita en los puntos de mayor riesgo de captura.
+- [ ] Contraste externo independiente.
+- [ ] Integración de deltas externos posteriores.
+
+**Siguiente lote:** XXXIII–LII.'''
+          en_gate='''## Batch 02 gate
+
+- [x] Coverage XIII–XXXII.
+- [x] ES/EN symmetry at thesis, antithesis and status level.
+- [x] Separation between normative/architectural answer and external empirical evidence.
+- [x] Explicit antithesis at major capture-risk points.
+- [ ] Independent external scrutiny.
+- [ ] Integration of later external deltas.
+
+**Next batch:** XXXIII–LII.'''
+
+          out=(preamble+'\n\n---\n\n# ES · Castellano\n\n'+
+               '\n\n---\n\n'.join(es)+'\n\n---\n\n## Síntesis transversal del lote\n\n'+ses+
+               '\n\n---\n\n'+es_gate+
+               '\n\n---\n\n# EN · English\n\n'+
+               '\n\n---\n\n'.join(en)+'\n\n---\n\n## Cross-batch synthesis\n\n'+sen+
+               '\n\n---\n\n'+en_gate+'\n')
+          p.write_text(out,encoding='utf-8')
+          print('LOT02_RESTRUCTURED=OK sections=20')
+          PY
+      - name: Run public gates
+        run: |
+          set -euo pipefail
+          python .github/scripts/audit_global_bilingual_symmetry.py
+          python .github/scripts/audit_markdown_links_readmes.py
+          python - <<'PY'
+          from pathlib import Path
+          report=Path('auditorias/publicas/2026-08-12_auditoria_global_simetria_ES_EN.md').read_text(encoding='utf-8')
+          required=[
+              'Fallos estructurales divididos / Split structural failures: **0**',
+              'Fallos de marcadores / Marker failures: **0**',
+              'Superficies pareadas para revisión / Paired surfaces for review: **0**',
+          ]
+          missing=[x for x in required if x not in report]
+          if missing:
+              raise SystemExit('GLOBAL_ES_EN_GATE_FAILED: '+repr(missing))
+          print('GLOBAL_ES_EN_GATE=PASS')
+          PY
+      - name: Commit verified repair and remove one-shot workflow
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git rm .github/workflows/oneshot-fix-lot02-symmetry.yml
+          git add -A
+          git diff --cached --check
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'docs: close final 7.3 batch 02 ES EN structural gap'
+          git pull --rebase origin main
+          git push origin main
