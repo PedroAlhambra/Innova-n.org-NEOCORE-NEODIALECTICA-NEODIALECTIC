@@ -7,8 +7,8 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **327**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **261**.
+- Markdown activo examinado / Active Markdown scanned: **329**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **263**.
 - Fallos estructurales divididos / Split structural failures: **0**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
@@ -147,6 +147,7 @@
 | `auditorias/publicas/2026-08-23_public_maxproc_run07_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-23_public_maxproc_run08_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-23_public_maxproc_run09_FINAL_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-08-24_auditoria_global_selectores_idioma_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-24_public_maxproc_run01_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-24_public_maxproc_run02_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-24_public_maxproc_run03_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
@@ -162,6 +163,7 @@
 | `auditorias/publicas/2026-08-24_public_maxproc_run13_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-24_public_maxproc_run14_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-24_public_maxproc_run15_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-08-24_public_maxproc_run16_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/README.md` | **OK** |  |
