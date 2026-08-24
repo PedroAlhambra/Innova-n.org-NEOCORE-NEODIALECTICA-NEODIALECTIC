@@ -8,6 +8,8 @@
 **Idioma:** ES / EN
 **Clasificación:** análisis público · trazabilidad · marco previo · Stanford / ACE
 
+[ES](#es) · [EN](#en)
+
 ---
 
 ## ES
