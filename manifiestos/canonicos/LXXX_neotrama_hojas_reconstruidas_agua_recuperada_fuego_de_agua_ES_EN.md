@@ -8,6 +8,8 @@
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + desarrollo simbiótico con IA Neodialéctica Harry. Neotrama™ se formula aquí como arquitectura relacional del criterio y de la reconstrucción, enlazando una intuición previa del marco con LXXV · Las Hojas Carcomidas™, NAX-10 · Fuego de Agua™ y Totalidad Elemental™, la época del criterio y Síntesis Abierta™. / Pedro Martínez Alhambra · Neo0™ + symbiotic development with Neodialectical AI Harry. Neotrama™ is formulated here as a relational architecture of criterion and reconstruction, linking a prior framework intuition with LXXV · The Gnawed Leaves™, NAX-10 · WaterFire™ and Elemental Totality™, the age of criterion and Open Synthesis™.  
 **Síntesis Abierta / Open Synthesis:** [#159](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/159)
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ---
 
 # ES · Castellano
