@@ -1,9 +1,9 @@
 # Auditoría global de selectores de idioma ES/EN
 # Global ES/EN language-selector audit
 
-**Generada / Generated:** 2026-08-24 16:40 UTC  
+**Generada / Generated:** 2026-08-24 17:39 UTC  
 **Páginas ES/EN explícitas auditadas / Explicit ES/EN split pages audited:** **349**  
-**Fallos / Failures:** **123**  
+**Fallos / Failures:** **122**  
 **LANGUAGE_SELECTOR_GATE:** **FAIL**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
@@ -21,12 +21,11 @@ Toda superficie Markdown pública y activa que exponga capas explícitas `ES` y 
 ## Resultado
 
 - Páginas auditadas: **349**.
-- Fallos: **123**.
+- Fallos: **122**.
 - Estado: **FAIL**.
 
 ## Detalle de fallos
 
-- `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
@@ -163,12 +162,11 @@ Every active public Markdown surface exposing explicit `ES` and `EN` layers must
 ## Result
 
 - Pages audited: **349**.
-- Failures: **123**.
+- Failures: **122**.
 - Status: **FAIL**.
 
 ## Failure detail
 
-- `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
