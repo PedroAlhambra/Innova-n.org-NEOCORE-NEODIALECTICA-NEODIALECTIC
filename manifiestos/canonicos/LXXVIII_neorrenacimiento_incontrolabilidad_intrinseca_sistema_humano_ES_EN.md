@@ -7,6 +7,8 @@
 **Fecha / Date:** 2026-08-17  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™. El Neorrenacimiento Humano es conceptualmente anterior a la Filosofía Arquetípica Neodialéctica™, a la Neodialéctica™ y al framework posterior. Este manifiesto no atribuye su origen a 2026: recupera y explicita una fundamentación anterior que el desarrollo posterior de NO-CONTROL™, Síntesis Abierta™ y NEOCore™ permite expresar con mayor precisión. La conversación de 2026-08-17 en la que Pedro explicaba a su hija qué hace actuó como recordatorio de esta pieza pendiente, no como origen de la idea. / Pedro Martínez Alhambra · Neo0™. The Human Neo-Renaissance conceptually predates Archetypal Neodialectical Philosophy™, Neodialectics™ and the later framework. This manifesto does not attribute its origin to 2026: it recovers and makes explicit an earlier foundation that the later development of NO-CONTROL™, Open Synthesis™ and NEOCore™ allows to be expressed more precisely. A 2026-08-17 conversation in which Pedro was explaining to his daughter what he does acted as a reminder of this pending piece, not as the origin of the idea.
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ---
 
 # ES · Castellano
