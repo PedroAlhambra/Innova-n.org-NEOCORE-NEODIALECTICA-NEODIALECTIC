@@ -7,8 +7,8 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **319**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **253**.
+- Markdown activo examinado / Active Markdown scanned: **320**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **254**.
 - Fallos estructurales divididos / Split structural failures: **1**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
@@ -155,6 +155,7 @@
 | `auditorias/publicas/2026-08-24_public_maxproc_run05_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-24_public_maxproc_run06_ES_EN.md` | **REVISAR** | Verificación: párrafos ES=3 EN=4 |
 | `auditorias/publicas/2026-08-24_public_maxproc_run07_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-08-24_public_maxproc_run08_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/README.md` | **OK** |  |
