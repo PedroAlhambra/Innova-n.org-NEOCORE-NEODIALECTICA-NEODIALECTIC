@@ -8,6 +8,8 @@
 **Autoría / Authorship:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry  
 **Síntesis Abierta / Open Synthesis:** [#160](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/160)  
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ---
 
 # ES · Castellano
