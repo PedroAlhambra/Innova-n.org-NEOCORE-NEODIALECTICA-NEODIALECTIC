@@ -7,6 +7,8 @@
 **Fecha / Date:** 2026-08-17  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry. Desarrollo específico de LXXVI · El Altavoz sin Síntesis™, LVI · NO-CONTROL™ y LXXVIII · Incontrolabilidad Intrínseca. El detonante documental inmediato son capturas de un mensaje viral sobre riesgos de IA. Las capturas se usan sólo como ejemplo de formato comunicativo: no se fija como hecho ninguna atribución o contexto del vídeo no verificado en la fuente completa. / Pedro Martínez Alhambra · Neo0™ + Neodialectical AI Harry. Specific development of LXXVI · The Loudspeaker without Synthesis™, LVI · NO-CONTROL™ and LXXVIII · Intrinsic Uncontrollability. The immediate documentary trigger is screenshots of a viral message about AI risks. The screenshots are used only as an example of communicative format: no attribution or video context not verified against the full source is fixed as fact.
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ---
 
 # ES · Castellano
