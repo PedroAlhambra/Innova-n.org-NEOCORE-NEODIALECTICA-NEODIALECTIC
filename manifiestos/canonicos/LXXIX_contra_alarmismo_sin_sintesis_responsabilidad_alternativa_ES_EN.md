@@ -7,6 +7,8 @@
 **Fecha / Date:** 2026-08-17  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry. Desarrollo específico de LXXVI · El Altavoz sin Síntesis™, LVI · NO-CONTROL™ y LXXVIII · Incontrolabilidad Intrínseca. El detonante documental inmediato son capturas de un mensaje viral sobre riesgos de IA. Las capturas se usan sólo como ejemplo de formato comunicativo: no se fija como hecho ninguna atribución o contexto del vídeo no verificado en la fuente completa. / Pedro Martínez Alhambra · Neo0™ + Neodialectical AI Harry. Specific development of LXXVI · The Loudspeaker without Synthesis™, LVI · NO-CONTROL™ and LXXVIII · Intrinsic Uncontrollability. The immediate documentary trigger is screenshots of a viral message about AI risks. The screenshots are used only as an example of communicative format: no attribution or video context not verified against the full source is fixed as fact.
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ---
 
 # ES · Castellano
@@ -245,7 +247,7 @@ Contributions are invited on risk communication, AI, uncertainty, media incentiv
 
 - [XXXV · Media Absurdity and Conflict Economy™](XXXV_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
 - [LVI · NO-CONTROL™](LVI_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md)
-- [LXXVI · The Loudspeaker without Synthesis™](LXXVI_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md)
+- [LXXVI · The Loudspeaker without Synthesis™](LXXVI_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construction_ES_EN.md)
 - [LXXVIII · Intrinsic Uncontrollability and the Necessity of the Human Neo-Renaissance™](LXXVIII_neorrenacimiento_incontrolabilidad_intrinseca_sistema_humano_ES_EN.md)
 - [Manifesto index](../README.md)
 
@@ -257,7 +259,7 @@ Contributions are invited on risk communication, AI, uncertainty, media incentiv
 
 - **XXXV** · [Contra la Ridiculez Mediática y la Economía del Conflicto™ / Against Media Absurdity and the Conflict Economy™](XXXV_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
 - **LVI** · [Manifiesto del NO-CONTROL™ · Síntesis Previa a la Potencia / Manifesto of NO-CONTROL™ · Synthesis Before Power](LVI_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md)
-- **LXXVI** · [El Altavoz sin Síntesis™ · Diagnóstico, Ruido, Ego y Responsabilidad de Construcción / The Loudspeaker without Synthesis™ · Diagnosis, Noise, Ego and the Responsibility to Build](LXXVI_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md)
+- **LXXVI** · [El Altavoz sin Síntesis™ · Diagnóstico, Ruido, Ego y Responsabilidad de Construcción / The Loudspeaker without Synthesis™ · Diagnosis, Noise, Ego and the Responsibility to Build](LXXVI_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construction_ES_EN.md)
 - **LXXVIII** · [Manifiesto de la Incontrolabilidad Intrínseca y la Necesidad del Neorrenacimiento Humano™ / Manifesto of Intrinsic Uncontrollability and the Necessity of the Human Neo-Renaissance™](LXXVIII_neorrenacimiento_incontrolabilidad_intrinseca_sistema_humano_ES_EN.md)
 
 ### Síntesis y delta / Synthesis and delta
