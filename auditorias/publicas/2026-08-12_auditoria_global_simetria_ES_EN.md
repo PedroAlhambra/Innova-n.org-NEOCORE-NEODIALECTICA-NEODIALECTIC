@@ -7,16 +7,17 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **335**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **269**.
-- Fallos estructurales divididos / Split structural failures: **0**.
+- Markdown activo examinado / Active Markdown scanned: **336**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **270**.
+- Fallos estructurales divididos / Split structural failures: **1**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
 
-- Ninguno / None.
+- `auditorias/publicas/2026-08-24_public_maxproc_run23_ES_EN.md` · ES=506 · EN=490 · ratio=0.97
+  - Acción: párrafos ES=2 EN=1
 
 ## Marcadores / Markers
 
@@ -170,6 +171,7 @@
 | `auditorias/publicas/2026-08-24_public_maxproc_run20_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-24_public_maxproc_run21_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-24_public_maxproc_run22_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-08-24_public_maxproc_run23_ES_EN.md` | **REVISAR** | Acción: párrafos ES=2 EN=1 |
 | `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/README.md` | **OK** |  |
