@@ -1,0 +1,38 @@
+name: Temporary fix language selector run23
+
+on:
+  push:
+    paths:
+      - '.github/workflows/tmp_fix_language_selector_run23.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Add selector and remove temporary workflow
+        shell: python
+        run: |
+          from pathlib import Path
+          p = Path('analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md')
+          s = p.read_text(encoding='utf-8')
+          marker = '---\n\n# ES · Castellano'
+          replacement = '---\n\n[ES · Castellano](#es--castellano) · [EN · English](#en--english)\n\n# ES · Castellano'
+          if replacement not in s:
+              if marker not in s:
+                  raise SystemExit('Expected ES heading marker not found')
+              s = s.replace(marker, replacement, 1)
+              p.write_text(s, encoding='utf-8')
+          Path('.github/workflows/tmp_fix_language_selector_run23.yml').unlink()
+      - name: Commit repair
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md .github/workflows/tmp_fix_language_selector_run23.yml
+          git commit -m 'fix: add bilingual selector to childhood MAXPROC analysis'
+          git push
