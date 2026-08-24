@@ -4,7 +4,8 @@
 **Fecha / Date:** 2026-08-24 17:42 CEST  
 **Estado observado / Observed state:** `7.3-CANDIDATE = ACTIVE_PUBLIC_FRONTIER / NOT_CANON`  
 **Delta material / Material delta:** restauración del selector ES/EN en `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` / restoration of the ES/EN selector in `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`  
-**Commit material / Material commit:** `ab11d0807d17e7ebb0df53e35a6376e6da91c66b`
+**Commit material / Material commit:** `ab11d0807d17e7ebb0df53e35a6376e6da91c66b`  
+**Commit automático de auditoría / Automated audit commit:** `dd00b68359386e0e80ed234ea163ee03e33cb870`
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -20,7 +21,7 @@ La frontera pública continúa como **NEOCore™ 7.3-CANDIDATE**, activa y no ca
 
 La auditoría estructural ES/EN versionada informa **329 Markdown activos**, **263 documentos ES/EN divididos**, **0 fallos estructurales**, **0 fallos de marcadores**, **0 superficies pareadas pendientes** y **0 plantillas Issue asimétricas**. Por tanto `CONTENT_SYMMETRY = PASS` para ese corte documentado.
 
-La auditoría global de navegación lingüística, generada a las 14:44 UTC, informa **347 páginas ES/EN explícitas auditadas** y **125 fallos**, con `LANGUAGE_SELECTOR_GATE = FAIL`. El primer fallo listado era `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`, sin selector ES ni EN.
+La auditoría global de navegación lingüística previa a la reparación informaba **347 páginas ES/EN explícitas auditadas** y **125 fallos**, con `LANGUAGE_SELECTOR_GATE = FAIL`. El primer fallo listado era `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`, sin selector ES ni EN.
 
 Las PR públicas #165 y #167 permanecen `OPEN / NOT_MERGED / NOT_MERGEABLE` y no se han utilizado en esta iteración.
 
@@ -52,25 +53,27 @@ La lectura posterior de la superficie confirma:
 4. presencia real de ambos encabezados de idioma;
 5. conservación del resto del documento.
 
+Después de la reparación, el workflow global regeneró la auditoría en `dd00b68359386e0e80ed234ea163ee03e33cb870`. La nueva auditoría demuestra **347 páginas auditadas**, **124 fallos** y `LANGUAGE_SELECTOR_GATE = FAIL`: el contador baja exactamente en una unidad y el documento reparado desaparece de la lista.
+
 **Resultado del objetivo local:** `PASS`.
 
-No se declara PASS global de navegación. La última auditoría versionada continúa registrando **125 fallos** porque todavía no existe una regeneración posterior recuperable para el commit material de esta iteración. La ausencia de workflow run o status recuperable no se interpreta como PASS ni como contador actualizado.
+**Resultado global de navegación:** `FAIL · 124/347`.
 
 ## Estado de gates
 
 - `CONTENT_SYMMETRY = PASS` en la auditoría estructural versionada vigente.
-- `LANGUAGE_NAVIGATION = FAIL` en la última auditoría global versionada: **125/347**.
+- `LANGUAGE_NAVIGATION = FAIL` en la auditoría global regenerada: **124/347**.
 - `LINK_INTEGRITY = NOT_REVERIFIED_IN_THIS_DELTA`; no se declara PASS fresco.
 - `RELATIONAL_NAVIGATION = NOT_REVERIFIED_IN_THIS_DELTA`; no se declara PASS fresco.
 - `CANONICAL_STATE = 7.3-CANDIDATE / NOT_CANON`.
 
 ## Residuos
 
-El primer fallo de la lista versionada ha sido reparado localmente. El siguiente fallo listado por la auditoría vigente es `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md`, también por ausencia de selector ES/EN. Quedan además otros fallos de navegación lingüística distribuidos por análisis, auditorías, anuncios, manifiestos y otras superficies activas; se mantienen como deuda bloqueante hasta nueva auditoría exhaustiva.
+El primer fallo anterior ha quedado cerrado y eliminado del inventario vivo. El nuevo primer fallo listado es `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md`, también por ausencia de selector ES/EN. Permanecen otros **123** fallos adicionales de navegación lingüística distribuidos por análisis, auditorías, anuncios, manifiestos y otras superficies activas.
 
 ## PASO_SIGUIENTE
 
-Reparar **exclusivamente** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md`, añadiendo un selector ES/EN con anchors reales antes del cuerpo español, sin alterar contenido sustantivo, y después volver a observar la auditoría global sin rebajar el gate.
+Reparar **exclusivamente** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md`, añadiendo un selector ES/EN con anchors reales antes del cuerpo español, sin alterar contenido sustantivo, y después volver a ejecutar/verificar la auditoría global sin rebajar el gate.
 
 ---
 
@@ -84,7 +87,7 @@ The public frontier remains **NEOCore™ 7.3-CANDIDATE**, active and non-canonic
 
 The versioned structural ES/EN audit reports **329 active Markdown files**, **263 split ES/EN documents**, **0 structural failures**, **0 marker failures**, **0 paired surfaces pending review** and **0 asymmetric Issue templates**. Therefore `CONTENT_SYMMETRY = PASS` for that documented cut.
 
-The global language-navigation audit, generated at 14:44 UTC, reports **347 explicit ES/EN pages audited** and **125 failures**, with `LANGUAGE_SELECTOR_GATE = FAIL`. The first listed failure was `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`, missing both ES and EN selector links.
+The global language-navigation audit before the repair reported **347 explicit ES/EN pages audited** and **125 failures**, with `LANGUAGE_SELECTOR_GATE = FAIL`. The first listed failure was `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`, missing both ES and EN selector links.
 
 Public PRs #165 and #167 remain `OPEN / NOT_MERGED / NOT_MERGEABLE` and were not used in this iteration.
 
@@ -116,22 +119,24 @@ Post-change inspection confirms:
 4. actual presence of both language headings;
 5. preservation of the rest of the document.
 
+After the repair, the global workflow regenerated the audit in `dd00b68359386e0e80ed234ea163ee03e33cb870`. The new audit demonstrates **347 pages audited**, **124 failures** and `LANGUAGE_SELECTOR_GATE = FAIL`: the counter drops by exactly one and the repaired document disappears from the list.
+
 **Local target result:** `PASS`.
 
-No global language-navigation PASS is declared. The latest versioned audit still records **125 failures** because no recoverable post-change regeneration exists yet for this iteration's material commit. Missing workflow runs or statuses are not interpreted as PASS or as an updated counter.
+**Global navigation result:** `FAIL · 124/347`.
 
 ## Gate state
 
 - `CONTENT_SYMMETRY = PASS` in the current versioned structural audit.
-- `LANGUAGE_NAVIGATION = FAIL` in the latest versioned global audit: **125/347**.
+- `LANGUAGE_NAVIGATION = FAIL` in the regenerated global audit: **124/347**.
 - `LINK_INTEGRITY = NOT_REVERIFIED_IN_THIS_DELTA`; no fresh PASS is declared.
 - `RELATIONAL_NAVIGATION = NOT_REVERIFIED_IN_THIS_DELTA`; no fresh PASS is declared.
 - `CANONICAL_STATE = 7.3-CANDIDATE / NOT_CANON`.
 
 ## Residues
 
-The first failure in the versioned list has been locally repaired. The next failure listed by the current audit is `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md`, also due to missing ES/EN selector links. Additional language-navigation failures remain distributed across analyses, audits, announcements, manifestos and other active surfaces; they remain blocking debt until a new exhaustive audit demonstrates otherwise.
+The previous first failure has been closed and removed from the live inventory. The new first listed failure is `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md`, also due to missing ES/EN selector links. Another **123** language-navigation failures remain across analyses, audits, announcements, manifestos and other active surfaces.
 
 ## NEXT_STEP
 
-Repair **only** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` by adding an ES/EN selector with real anchors before the Spanish body, without altering substantive content, then observe the global audit again without weakening the gate.
+Repair **only** `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` by adding an ES/EN selector with real anchors before the Spanish body, without altering substantive content, then rerun/verify the global audit without weakening the gate.
