@@ -1,9 +1,9 @@
 # Auditoría global de selectores de idioma ES/EN
 # Global ES/EN language-selector audit
 
-**Generada / Generated:** 2026-08-24 17:41 UTC  
+**Generada / Generated:** 2026-08-24 18:37 UTC  
 **Páginas ES/EN explícitas auditadas / Explicit ES/EN split pages audited:** **350**  
-**Fallos / Failures:** **122**  
+**Fallos / Failures:** **121**  
 **LANGUAGE_SELECTOR_GATE:** **FAIL**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
@@ -21,12 +21,11 @@ Toda superficie Markdown pública y activa que exponga capas explícitas `ES` y 
 ## Resultado
 
 - Páginas auditadas: **350**.
-- Fallos: **122**.
+- Fallos: **121**.
 - Estado: **FAIL**.
 
 ## Detalle de fallos
 
-- `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
@@ -162,12 +161,11 @@ Every active public Markdown surface exposing explicit `ES` and `EN` layers must
 ## Result
 
 - Pages audited: **350**.
-- Failures: **122**.
+- Failures: **121**.
 - Status: **FAIL**.
 
 ## Failure detail
 
-- `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
