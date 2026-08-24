@@ -1,0 +1,131 @@
+name: Temporary bulk repair language navigation
+
+on:
+  push:
+    paths:
+      - '.github/workflows/tmp_bulk_fix_language_navigation.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Repair all active ES EN language selectors
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+
+          ROOT = Path('.')
+          EXCLUDED_PARTS = {'.git', 'wiki-legacy-archive'}
+          EXCLUDED_PREFIXES = ('.github/',)
+          ES_GATE = re.compile(r'^#{1,4}\s+ES(?:\s+·\s+[^\n]+)?\s*$', re.M)
+          EN_GATE = re.compile(r'^#{1,4}\s+EN(?:\s+·\s+[^\n]+)?\s*$', re.M)
+          ES_LINK = re.compile(r'\[\s*ES(?:\s+·\s+[^\]]+)?\s*\]\(\s*(#[^)\s]+)\s*\)', re.I)
+          EN_LINK = re.compile(r'\[\s*EN(?:\s+·\s+[^\]]+)?\s*\]\(\s*(#[^)\s]+)\s*\)', re.I)
+
+          def active(path):
+              rel = path.as_posix()
+              return not any(part in EXCLUDED_PARTS for part in path.parts) and not rel.startswith(EXCLUDED_PREFIXES)
+
+          def anchor(line):
+              title = re.sub(r'^#{1,6}\s+', '', line.strip()).strip().lower()
+              title = re.sub(r'[^\w\s-]', '', title, flags=re.UNICODE)
+              title = re.sub(r'\s', '-', title)
+              return '#' + title
+
+          changed = []
+          skipped_broken = []
+          for p in sorted(ROOT.rglob('*.md')):
+              if not active(p):
+                  continue
+              s = p.read_text(encoding='utf-8', errors='replace')
+              es = ES_GATE.search(s)
+              en = EN_GATE.search(s)
+              if not es and not en:
+                  continue
+              if not es or not en or en.start() < es.start():
+                  skipped_broken.append(p.as_posix())
+                  continue
+
+              expected_es = anchor(es.group(0))
+              expected_en = anchor(en.group(0))
+              prefix = s[:es.start()]
+              suffix = s[es.start():]
+              em = ES_LINK.search(prefix)
+              nm = EN_LINK.search(prefix)
+
+              if em and nm:
+                  new_prefix = ES_LINK.sub(lambda m: m.group(0).replace(m.group(1), expected_es), prefix, count=1)
+                  new_prefix = EN_LINK.sub(lambda m: m.group(0).replace(m.group(1), expected_en), new_prefix, count=1)
+                  new_s = new_prefix + suffix
+              else:
+                  lines = prefix.splitlines(keepends=True)
+                  candidate = None
+                  for i in range(max(0, len(lines)-12), len(lines)):
+                      if ES_LINK.search(lines[i]) or EN_LINK.search(lines[i]):
+                          candidate = i
+                  selector = f'[ES · Castellano]({expected_es}) · [EN · English]({expected_en})\n\n'
+                  if candidate is not None:
+                      newline = '\r\n' if lines[candidate].endswith('\r\n') else '\n'
+                      lines[candidate] = selector.replace('\n', newline)
+                      new_prefix = ''.join(lines)
+                  else:
+                      sep = '' if prefix.endswith('\n\n') else ('\n' if prefix.endswith('\n') else '\n\n')
+                      new_prefix = prefix + sep + selector
+                  new_s = new_prefix + suffix
+
+              if new_s != s:
+                  p.write_text(new_s, encoding='utf-8')
+                  changed.append(p.as_posix())
+
+          print(f'Repaired files: {len(changed)}')
+          for x in changed:
+              print('REPAIRED', x)
+          if skipped_broken:
+              print(f'Broken ES/EN gate ordering not auto-edited: {len(skipped_broken)}')
+              for x in skipped_broken:
+                  print('BROKEN', x)
+
+          Path('.github/workflows/tmp_bulk_fix_language_navigation.yml').unlink()
+
+      - name: Verify selector audit locally
+        shell: bash
+        run: |
+          set +e
+          python .github/scripts/audit_language_selectors.py
+          rc=$?
+          echo "selector_rc=$rc" >> "$GITHUB_ENV"
+          exit 0
+
+      - name: Verify structural bilingual audit locally
+        shell: bash
+        run: |
+          set +e
+          python .github/scripts/audit_global_bilingual_symmetry.py
+          rc=$?
+          echo "symmetry_rc=$rc" >> "$GITHUB_ENV"
+          exit 0
+
+      - name: Commit bulk repair and regenerated audits
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m 'fix: normalize ES EN navigation across active bilingual corpus'
+          git push
+
+      - name: Enforce verification results
+        shell: bash
+        run: |
+          echo "selector audit rc: $selector_rc"
+          echo "symmetry audit rc: $symmetry_rc"
+          test "$selector_rc" = "0"
+          test "$symmetry_rc" = "0"
