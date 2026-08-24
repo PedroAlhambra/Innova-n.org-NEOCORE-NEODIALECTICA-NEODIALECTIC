@@ -9,6 +9,8 @@
 **Marco:** Neodialéctica™ · SAN™ · Neodialectica Framework™  
 **Clasificación:** Análisis público estructural / IA / gobernanza / instituciones / convergencia de marco
 
+[ES](#es) · [EN](#en)
+
 ---
 
 ## ES
