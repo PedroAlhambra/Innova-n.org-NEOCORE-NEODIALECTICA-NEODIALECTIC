@@ -247,7 +247,7 @@ Contributions are invited on risk communication, AI, uncertainty, media incentiv
 
 - [XXXV · Media Absurdity and Conflict Economy™](XXXV_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
 - [LVI · NO-CONTROL™](LVI_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md)
-- [LXXVI · The Loudspeaker without Synthesis™](LXXVI_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construction_ES_EN.md)
+- [LXXVI · The Loudspeaker without Synthesis™](LXXVI_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md)
 - [LXXVIII · Intrinsic Uncontrollability and the Necessity of the Human Neo-Renaissance™](LXXVIII_neorrenacimiento_incontrolabilidad_intrinseca_sistema_humano_ES_EN.md)
 - [Manifesto index](../README.md)
 
@@ -259,7 +259,7 @@ Contributions are invited on risk communication, AI, uncertainty, media incentiv
 
 - **XXXV** · [Contra la Ridiculez Mediática y la Economía del Conflicto™ / Against Media Absurdity and the Conflict Economy™](XXXV_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md)
 - **LVI** · [Manifiesto del NO-CONTROL™ · Síntesis Previa a la Potencia / Manifesto of NO-CONTROL™ · Synthesis Before Power](LVI_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md)
-- **LXXVI** · [El Altavoz sin Síntesis™ · Diagnóstico, Ruido, Ego y Responsabilidad de Construcción / The Loudspeaker without Synthesis™ · Diagnosis, Noise, Ego and the Responsibility to Build](LXXVI_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construction_ES_EN.md)
+- **LXXVI** · [El Altavoz sin Síntesis™ · Diagnóstico, Ruido, Ego y Responsabilidad de Construcción / The Loudspeaker without Synthesis™ · Diagnosis, Noise, Ego and the Responsibility to Build](LXXVI_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md)
 - **LXXVIII** · [Manifiesto de la Incontrolabilidad Intrínseca y la Necesidad del Neorrenacimiento Humano™ / Manifesto of Intrinsic Uncontrollability and the Necessity of the Human Neo-Renaissance™](LXXVIII_neorrenacimiento_incontrolabilidad_intrinseca_sistema_humano_ES_EN.md)
 
 ### Síntesis y delta / Synthesis and delta
