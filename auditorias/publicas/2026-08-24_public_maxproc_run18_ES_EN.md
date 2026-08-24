@@ -4,7 +4,8 @@
 **Fecha / Date:** 2026-08-24 18:39 CEST  
 **Estado observado / Observed state:** `7.3-CANDIDATE = ACTIVE_PUBLIC_FRONTIER / NOT_CANON`  
 **Delta material / Material delta:** restauración del selector ES/EN en `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` / restoration of the ES/EN selector in `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md`  
-**Commit material / Material commit:** `041986b0b2e52b650f30781b4add211b62c3cf33`
+**Commit material / Material commit:** `041986b0b2e52b650f30781b4add211b62c3cf33`  
+**Commit automático de auditoría / Automated audit commit:** `b937acdf446bec4ae580fb4ab7ee50f056fbadaa`
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -20,7 +21,7 @@ La frontera pública continúa siendo **NEOCore™ 7.3-CANDIDATE**, activa y no 
 
 La auditoría estructural vigente informa **330 Markdown activos**, **264 documentos ES/EN divididos**, **0 fallos estructurales**, **0 fallos de marcadores**, **0 superficies pareadas pendientes** y **0 plantillas Issue asimétricas**. Por tanto `CONTENT_SYMMETRY = PASS` para ese corte versionado.
 
-La auditoría global de selectores inmediatamente anterior a este delta informa **348 páginas ES/EN explícitas auditadas** y **124 fallos**, por lo que `LANGUAGE_NAVIGATION = FAIL`. Su primer residuo era `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md`.
+La auditoría global de selectores anterior al delta informaba **348 páginas ES/EN explícitas auditadas** y **124 fallos**. Su primer residuo era `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md`.
 
 ## Problema elegido
 
@@ -47,21 +48,29 @@ La lectura posterior del archivo confirma:
 3. destino EN `#en`, correspondiente al encabezado real `## EN`;
 4. preservación del contenido sustantivo y de las relaciones documentales.
 
-**Resultado del objetivo local:** `PASS`.
+El workflow global se ejecutó después del commit material y versionó una nueva auditoría en `b937acdf446bec4ae580fb4ab7ee50f056fbadaa`.
 
-No se declara PASS global de navegación lingüística hasta que el workflow regenere la auditoría global sobre el nuevo head. La ausencia de workflow run recuperable inmediatamente después del commit no se interpreta como éxito.
+La auditoría regenerada demuestra:
+
+- páginas ES/EN explícitas auditadas: **348**;
+- fallos de navegación lingüística: **123**;
+- `LANGUAGE_SELECTOR_GATE = FAIL`.
+
+El contador desciende de **124 a 123** y Stanford/ACE deja de ser el primer residuo. **Resultado del objetivo local:** `PASS`.
+
+No existe PASS global: quedan **123** defectos de navegación lingüística.
 
 ## Estado de gates
 
 - `CONTENT_SYMMETRY = PASS` en la auditoría estructural versionada vigente.
-- `LANGUAGE_NAVIGATION = FAIL` en la última auditoría global disponible, pendiente de regeneración posterior al delta.
+- `LANGUAGE_NAVIGATION = FAIL · 123/348`.
 - `LINK_INTEGRITY = NOT_REVERIFIED_IN_THIS_DELTA`.
 - `RELATIONAL_NAVIGATION = NOT_REVERIFIED_IN_THIS_DELTA`.
 - `CANONICAL_STATE = 7.3-CANDIDATE / NOT_CANON`.
 
 ## Residuos
 
-La última auditoría global disponible conserva **124 fallos de navegación lingüística** antes de esta reparación. El archivo Stanford/ACE ya no presenta el defecto local, pero el contador global sólo se actualizará cuando el gate vuelva a ejecutarse y versione el informe.
+La nueva auditoría global conserva **123 fallos de navegación lingüística**. El siguiente fallo listado es `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`.
 
 ## PASO_SIGUIENTE
 
@@ -79,7 +88,7 @@ The public frontier remains **NEOCore™ 7.3-CANDIDATE**, active and non-canonic
 
 The current structural audit reports **330 active Markdown files**, **264 split ES/EN documents**, **0 structural failures**, **0 marker failures**, **0 paired surfaces pending review** and **0 asymmetric Issue templates**. Therefore `CONTENT_SYMMETRY = PASS` for that versioned cut.
 
-The global selector audit immediately preceding this delta reports **348 explicit ES/EN pages audited** and **124 failures**, so `LANGUAGE_NAVIGATION = FAIL`. Its first residue was `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md`.
+The global selector audit preceding the delta reported **348 explicit ES/EN pages audited** and **124 failures**. Its first residue was `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md`.
 
 ## Selected problem
 
@@ -106,21 +115,29 @@ Post-change inspection confirms:
 3. EN target `#en`, matching the real `## EN` heading;
 4. preservation of substantive content and documentary relations.
 
-**Local target result:** `PASS`.
+The global workflow ran after the material commit and versioned a new audit in `b937acdf446bec4ae580fb4ab7ee50f056fbadaa`.
 
-No global language-navigation PASS is declared until the workflow regenerates the global audit on the new head. The absence of an immediately recoverable workflow run after the commit is not treated as success.
+The regenerated audit demonstrates:
+
+- explicit ES/EN pages audited: **348**;
+- language-navigation failures: **123**;
+- `LANGUAGE_SELECTOR_GATE = FAIL`.
+
+The count falls from **124 to 123**, and Stanford/ACE is no longer the first residue. **Local target result:** `PASS`.
+
+There is no global PASS: **123** language-navigation defects remain.
 
 ## Gate state
 
 - `CONTENT_SYMMETRY = PASS` in the current versioned structural audit.
-- `LANGUAGE_NAVIGATION = FAIL` in the latest available global audit, pending post-delta regeneration.
+- `LANGUAGE_NAVIGATION = FAIL · 123/348`.
 - `LINK_INTEGRITY = NOT_REVERIFIED_IN_THIS_DELTA`.
 - `RELATIONAL_NAVIGATION = NOT_REVERIFIED_IN_THIS_DELTA`.
 - `CANONICAL_STATE = 7.3-CANDIDATE / NOT_CANON`.
 
 ## Residues
 
-The latest available global audit retains **124 language-navigation failures** before this repair. The Stanford/ACE file no longer has the local defect, but the global counter will only update after the gate runs again and versions its report.
+The regenerated global audit retains **123 language-navigation failures**. The next listed failure is `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md`.
 
 ## NEXT_STEP
 
