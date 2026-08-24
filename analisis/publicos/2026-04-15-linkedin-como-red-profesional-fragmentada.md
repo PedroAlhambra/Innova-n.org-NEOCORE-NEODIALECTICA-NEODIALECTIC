@@ -8,6 +8,8 @@
 **Estado:** Público  
 **Proyección paralela:** LinkedIn / GitHub
 
+[ES](#es) · [EN](#en)
+
 ## ES
 
 ### 1. Objeto de análisis
