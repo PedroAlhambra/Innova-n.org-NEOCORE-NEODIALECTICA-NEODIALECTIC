@@ -17,7 +17,7 @@
 ## Fallos divididos / Split failures
 
 - `auditorias/publicas/2026-08-24_public_maxproc_run06_ES_EN.md` · ES=273 · EN=310 · ratio=1.14
-  - esqueleto de encabezados distinto ES=[(3, ''), (3, ''), (3, ''), (3, '')] EN=[(3, ''), (3, ''), (3, ''), (3, ''), (2, '')]
+  - Verificación: párrafos ES=3 EN=4
 
 ## Marcadores / Markers
 
@@ -153,7 +153,7 @@
 | `auditorias/publicas/2026-08-24_public_maxproc_run03_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `auditorias/publicas/2026-08-24_public_maxproc_run04_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-24_public_maxproc_run05_ES_EN.md` | **OK** |  |
-| `auditorias/publicas/2026-08-24_public_maxproc_run06_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(3, ''), (3, ''), (3, ''), (3, '')] EN=[(3, ''), (3, ''), (3, ''), (3, ''), (2, '')] |
+| `auditorias/publicas/2026-08-24_public_maxproc_run06_ES_EN.md` | **REVISAR** | Verificación: párrafos ES=3 EN=4 |
 | `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/README.md` | **OK** |  |
