@@ -32,6 +32,8 @@ La captura se conserva, por tanto, como **señal de entrada** a una investigaci�
 
 ---
 
+[ES · Castellano](#es--versión-española) · [EN · English](#en--english-version)
+
 # ES · Versión española
 
 ## 1. Por qué esta Parte IV es un frente distinto

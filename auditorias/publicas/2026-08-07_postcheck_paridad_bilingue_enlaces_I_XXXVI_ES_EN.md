@@ -4,6 +4,8 @@
 **Fecha / Date:** 2026-08-07  
 **Ámbito / Scope:** 36 manifiestos canónicos / 36 canonical manifestos
 
+[ES · Castellano](#es--criterio) · [EN · English](#en--criterion)
+
 ## ES · Criterio
 
 Cada manifiesto debe ofrecer en ES y EN el mismo conjunto de destinos internos: anterior, índice, siguiente, Issue específica, protocolo común, índice de Síntesis Abierta y cualquier referencia interna presente en una de las dos ediciones. La traducción de etiquetas puede variar; el destino documental no.

@@ -4,6 +4,8 @@
 **Estado / Status:** `REPAIR_TRIGGERED / VERIFICATION_PENDING`  
 **Frontera / Boundary:** `NEOCore™ 7.3-CANDIDATE ≠ CANON`
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ## ES · Castellano
 
 ### Estado observado

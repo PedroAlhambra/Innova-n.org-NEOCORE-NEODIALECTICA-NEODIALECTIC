@@ -8,6 +8,8 @@
 
 ---
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 # ES · Castellano
 
 Innova_N abre la **octava oleada del Neodialectica Framework™ / Network**, dedicada a **infancia, educación y transmisión civilizatoria**.

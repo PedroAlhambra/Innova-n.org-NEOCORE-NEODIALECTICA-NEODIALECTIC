@@ -8,6 +8,8 @@
 
 ---
 
+[ES · Castellano](#es--1-la-síntesis-abierta-no-se-abre-después) · [EN · English](#en--1-open-synthesis-does-not-become-open-afterwards)
+
 ## ES · 1. La Síntesis Abierta no se abre después
 
 La Síntesis Abierta™ no describe una secuencia `síntesis cerrada → apertura → revisión`. Toda síntesis nace ya inserta en una red de contradicciones, escalas, memorias y posibles reformulaciones.

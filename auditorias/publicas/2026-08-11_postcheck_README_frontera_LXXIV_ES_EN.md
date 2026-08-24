@@ -4,6 +4,8 @@
 **README/LEEME revisados / README/LEEME reviewed:** 18  
 **Estado / Status:** **OK**
 
+[ES · Castellano](#es--resultado) · [EN · English](#en--result)
+
 ## ES · Resultado
 
 - Frontera viva esperada: **74 manifiestos finitos · I–LXXIV + ∞**.

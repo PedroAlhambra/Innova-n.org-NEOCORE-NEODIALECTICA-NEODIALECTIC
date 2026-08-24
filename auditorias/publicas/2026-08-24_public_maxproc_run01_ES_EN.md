@@ -1,6 +1,8 @@
 # MAXPROC público · ejecución 01 · 2026-08-24
 # Public MAXPROC · run 01 · 2026-08-24
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ## ES · Castellano
 
 ### Estado observado

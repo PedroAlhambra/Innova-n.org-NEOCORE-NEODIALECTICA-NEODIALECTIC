@@ -4,6 +4,8 @@
 **Estado / Status:** PASS DEL OBJETIVO / TARGET PASS  
 **Ámbito / Scope:** sólo repositorio e Issue públicos; sin información privada / public repository and Issue only; no private information
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ## ES · Castellano
 
 ### Estado observado

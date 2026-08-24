@@ -4,6 +4,8 @@
 **Fecha / Date:** 2026-08-07  
 **Estado / Status:** 36 manifiestos · seis oleadas / 36 manifestos · six waves
 
+[ES · Castellano](#es--criterio) · [EN · English](#en--criterion)
+
 ## ES · Criterio
 
 La simetría no se resuelve mediante listados mecánicos gigantes añadidos a las portadas. Debe existir en la arquitectura real: mismas referencias internas disponibles en ES y EN, navegación equivalente, misma cobertura documental y traducción sustantivamente completa.

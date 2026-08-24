@@ -19,6 +19,8 @@
 
 ---
 
+[ES · Castellano](#es--versión-española) · [EN · English](#en--english-version)
+
 # ES · Versión española
 
 ## Criterio de clasificación

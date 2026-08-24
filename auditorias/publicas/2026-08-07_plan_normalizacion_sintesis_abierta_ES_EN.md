@@ -3,6 +3,8 @@
 
 **Fecha / Date:** 2026-08-07
 
+[ES · Castellano](#es) · [EN · English](#en)
+
 ## ES
 
 Objetivo de esta ronda: cerrar las asimetrías detectadas en la interfaz pública de participación.

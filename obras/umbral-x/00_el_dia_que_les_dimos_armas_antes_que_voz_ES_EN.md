@@ -12,6 +12,8 @@
 
 ---
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 # ES · Castellano
 
 Nadie recuerda el día exacto porque no hubo un día exacto.

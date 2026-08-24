@@ -7,6 +7,8 @@
 
 ---
 
+[ES · Castellano](#es--estado-de-entrada) · [EN · English](#en--entry-state)
+
 ## ES · Estado de entrada
 
 La auditoría global se regeneró después de la ejecución 01 y confirmó que el defecto anterior fue eliminado del conjunto de fallos: el contador pasó de **5 a 4 fallos estructurales ES/EN**.

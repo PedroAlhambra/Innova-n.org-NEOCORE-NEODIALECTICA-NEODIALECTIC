@@ -3,6 +3,8 @@
 **Fecha / Date:** 2026-08-23 00:35 CEST  
 **Estado / Status:** `7.3-CANDIDATE · NOT CANON`
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ## ES · Castellano
 
 La auditoría global vigente mantiene 2 fallos estructurales ES/EN: lote 02 · XIII–XXXII y lote 03B · XLIII–LII. También señalaba `wiki-source/README.md` como única superficie pareada pendiente de revisión.

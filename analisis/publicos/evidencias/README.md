@@ -54,6 +54,8 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 <!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->
 
+[ES · Castellano](#es) · [EN · English](#en)
+
 ## ES
 
 Este directorio conserva pruebas visuales, materiales audiovisuales y documentos auxiliares relacionados con los análisis públicos de Innova_N.

@@ -6,6 +6,8 @@
 
 ---
 
+[ES · Castellano](#es--canal-operativo) · [EN · English](#en--operational-channel)
+
 ## ES · Canal operativo
 
 Leónidas™ abre dos vías públicas:

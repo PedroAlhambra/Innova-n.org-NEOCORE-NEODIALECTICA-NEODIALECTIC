@@ -7,6 +7,8 @@
 
 ---
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 # ES · Castellano
 
 ## 1. La genética como segunda frontera del mismo error

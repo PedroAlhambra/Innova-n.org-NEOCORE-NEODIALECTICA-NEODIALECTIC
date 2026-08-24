@@ -11,6 +11,8 @@
 
 ---
 
+[ES · Castellano](#es) · [EN · English](#en)
+
 # ES
 
 ## 1 · Resumen ejecutivo

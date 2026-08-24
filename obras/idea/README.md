@@ -69,6 +69,8 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ---
 
+[ES · Castellano](#es--la-obra) · [EN · English](#en--the-work)
+
 ## ES · La obra
 
 **IDEA** fue escrita por Pedro Martínez Alhambra entre 1997 y 2002. En 2002 fue presentada, con leves cambios, al Premio UPC de Ciencia Ficción.

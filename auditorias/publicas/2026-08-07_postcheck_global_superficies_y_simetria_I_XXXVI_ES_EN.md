@@ -4,6 +4,8 @@
 **Fecha / Date:** 2026-08-07  
 **Estado esperado / Expected state:** 36 manifiestos · seis oleadas / 36 manifestos · six waves
 
+[ES · Castellano](#es--verificaciones) · [EN · English](#en--checks)
+
 ## ES · Verificaciones
 
 * PORTADA y COVER distinguen quinta oleada XXXIII–XXXV y sexta oleada XXXVI.

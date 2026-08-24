@@ -5,6 +5,8 @@
 **Estado / Status:** SÍNTESIS ABIERTA · especificación funcional v0.2 / OPEN SYNTHESIS · functional specification v0.2  
 **Síntesis específica / Dedicated synthesis:** [Issue #107](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/107)
 
+[ES · Castellano](#es--corrección-funcional) · [EN · English](#en--functional-correction)
+
 ## ES · Corrección funcional
 
 **NeoCronos™ es el sistema de medición del Juego de la Síntesis Abierta™.**

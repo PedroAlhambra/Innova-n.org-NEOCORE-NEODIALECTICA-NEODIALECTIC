@@ -6,6 +6,8 @@
 
 ---
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 # ES · Castellano
 
 ## 1. Nueva formulación pública

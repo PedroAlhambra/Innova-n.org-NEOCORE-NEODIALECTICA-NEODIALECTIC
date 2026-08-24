@@ -6,6 +6,8 @@
 **Head observado al iniciar / Head observed at start:** `191d43fe9f4f37d39ff32c1cade3d9bd9dae4eb2`  
 **Commit del delta / Delta commit:** `318ab287bb2703aee7512e61ff7ef19207408eae`
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ## ES · Castellano
 
 ### Estado observado

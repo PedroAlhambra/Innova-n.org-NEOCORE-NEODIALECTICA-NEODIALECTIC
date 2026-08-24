@@ -10,6 +10,8 @@
 
 ---
 
+[ES · Castellano](#es--kit-público) · [EN · English](#en--public-kit)
+
 # ES · Kit público
 
 ## Portada

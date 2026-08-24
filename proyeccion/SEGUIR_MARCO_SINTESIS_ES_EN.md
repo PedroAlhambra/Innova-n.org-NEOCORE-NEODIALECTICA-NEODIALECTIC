@@ -8,6 +8,8 @@ Este documento existe para que un enlace enviado hoy siga siendo útil cuando el
 
 ---
 
+[ES · Castellano](#es--entrada-rápida) · [EN · English](#en--quick-entry)
+
 ## ES · Entrada rápida
 
 ### 1. Marco actual

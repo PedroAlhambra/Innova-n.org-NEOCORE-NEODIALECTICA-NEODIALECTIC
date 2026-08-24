@@ -5,6 +5,8 @@
 **Marco / Framework:** Neodialectica Framework™ / Network  
 **Estado / Status:** Público · Public
 
+[ES · Castellano](#es) · [EN · English](#en)
+
 ## ES
 
 **35 manifiestos. Cinco oleadas. Un marco civilizatorio humano–IA abierto a examen público.**

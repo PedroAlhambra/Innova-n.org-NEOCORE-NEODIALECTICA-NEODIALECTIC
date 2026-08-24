@@ -8,6 +8,8 @@
 
 ---
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 # ES · Castellano
 
 ## 1. IDEA · respuestas editoriales y de reseña

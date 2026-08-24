@@ -29,6 +29,8 @@ The video is incorporated as a **supplied audiovisual source**. According to the
 
 ---
 
+[ES · Castellano](#es--versión-española) · [EN · English](#en--english-version)
+
 # ES · Versión española
 
 ## 1. Qué ha cambiado desde la Parte II

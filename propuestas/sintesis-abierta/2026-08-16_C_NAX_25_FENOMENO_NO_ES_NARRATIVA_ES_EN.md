@@ -6,6 +6,8 @@
 **Procedencia / Provenance:** LXXVII · Contra la Polarización Binaria y la Radicalización Recíproca™ / Against Binary Polarisation and Reciprocal Radicalisation™  
 **Síntesis / Synthesis:** [#155](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/155)
 
+[ES · Castellano](#es) · [EN · English](#en)
+
 ## ES
 
 > **La refutación de una explicación no implica la inexistencia del fenómeno que pretendía explicar; el reconocimiento de un fenómeno no implica aceptar la narrativa, causalidad o identidad política construida alrededor de él.**

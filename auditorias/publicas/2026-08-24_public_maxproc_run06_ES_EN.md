@@ -5,6 +5,8 @@
 **Estado observado / Observed state:** `7.3-CANDIDATE = ACTIVE_PUBLIC_FRONTIER / NOT_CANON`  
 **Head público previo a esta traza / Public head before this trace:** `31ea6a603607383648e18608d8fad2365cbcbef4`
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ## ES · Castellano
 
 ### Gate verificado

@@ -7,6 +7,8 @@
 
 ---
 
+[ES · Castellano](#es--problema-elegido) · [EN · English](#en--chosen-problem)
+
 ## ES · Problema elegido
 
 La auditoría global de simetría vigente registraba **5 fallos estructurales ES/EN**, todos concentrados en la capa 7.3-CANDIDATE. Para esta iteración se eligió el defecto de menor superficie y mayor verificabilidad inmediata:

@@ -7,6 +7,8 @@
 
 ---
 
+[ES · Castellano](#es--mapa-relacional) · [EN · English](#en--relational-map)
+
 ## ES · Mapa relacional
 
 LXII no se trata como pieza aislada. Condensa varias relaciones ya presentes en el marco:

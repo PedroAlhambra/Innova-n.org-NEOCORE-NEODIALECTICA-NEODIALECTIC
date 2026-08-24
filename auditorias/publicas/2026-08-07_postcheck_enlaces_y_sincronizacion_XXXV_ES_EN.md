@@ -5,6 +5,8 @@
 **Estado canónico / Canonical state:** I–XXXV · cinco oleadas / five waves  
 **Ciclo / Cycle:** XXXV → I → II
 
+[ES · Castellano](#es--dictamen) · [EN · English](#en--verdict)
+
 ## ES · Dictamen
 
 * Manifiestos canónicos esperados: **35**.

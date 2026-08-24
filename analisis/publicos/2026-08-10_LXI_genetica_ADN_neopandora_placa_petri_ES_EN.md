@@ -1,6 +1,8 @@
 # LXI · Genética, ADN, Placa de Petri Universal™ y Efecto NeoPandora Descontrolado™
 # LXI · Genetics, DNA, Universal Petri Dish™ and Uncontrolled NeoPandora Effect™
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ## ES · Castellano
 
 La rama genética de LXI parte de una cautela sencilla: **poder modificar un sistema no implica comprenderlo por completo**.

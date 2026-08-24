@@ -4,6 +4,8 @@
 **Estado / Status:** `PARTIAL_REPAIR / GLOBAL_ES_EN_STILL_1`  
 **Frontera / Boundary:** `NEOCore™ 7.3-CANDIDATE ≠ CANON`
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ## ES · Castellano
 
 ### Estado observado

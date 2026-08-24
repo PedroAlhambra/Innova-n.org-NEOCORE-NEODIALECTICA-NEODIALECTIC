@@ -11,6 +11,8 @@
 
 ---
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 # ES · Castellano
 
 ## 1. Revisión de la formulación inicial

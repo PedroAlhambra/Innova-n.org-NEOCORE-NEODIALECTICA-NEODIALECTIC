@@ -4,6 +4,8 @@
 **Fecha / Date:** 2026-08-07  
 **Estado / Status:** Público · abierto a Síntesis Abierta / Public · open to Open Synthesis
 
+[ES · Castellano](#es) · [EN · English](#en)
+
 ## ES
 
 La quinta oleada del Neodialectica Framework™ / Network reúne los manifiestos **XXXIII–XXXV**:

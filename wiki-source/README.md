@@ -12,6 +12,8 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 ---
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 # ES · Castellano
 
 Este directorio contiene la fuente estable de navegación de la Wiki pública de Innova_N.

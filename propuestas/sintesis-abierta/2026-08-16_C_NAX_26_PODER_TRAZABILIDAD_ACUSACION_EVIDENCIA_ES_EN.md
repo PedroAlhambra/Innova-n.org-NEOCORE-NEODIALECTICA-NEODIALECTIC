@@ -6,6 +6,8 @@
 **Procedencia / Provenance:** [Delta transversal · Poder, Trazabilidad, Escrutinio y Evidencia™ / Transversal Delta · Power, Traceability, Scrutiny and Evidence™](./2026-08-16_DELTA_PODER_TRAZABILIDAD_ESCRUTINIO_EVIDENCIA_ES_EN.md)  
 **Síntesis / Synthesis:** [#156](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/156)
 
+[ES · Castellano](#es) · [EN · English](#en)
+
 ## ES
 
 > **A mayor capacidad efectiva de un nodo para alterar el espacio común, mayor debe ser la exigencia proporcional de trazabilidad, auditabilidad y responsabilidad sobre el ejercicio de ese poder. A mayor gravedad de una acusación contra una persona u organización, mayor debe ser la exigencia proporcional de evidencia antes de tratarla como conclusión. El poder no implica culpabilidad, pero tampoco debe comprar opacidad; la sospecha no implica verdad, pero tampoco debe quedar prohibida de investigación.**

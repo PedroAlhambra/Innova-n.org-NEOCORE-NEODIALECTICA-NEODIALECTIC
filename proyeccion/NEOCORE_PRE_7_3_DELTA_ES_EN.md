@@ -6,6 +6,8 @@
 **Versión anterior / Previous version:** NEOCore™ 7.1  
 **Naturaleza / Nature:** delta acumulativo; no borra la genealogía 7.1 / cumulative delta; it does not erase 7.1 genealogy.
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ## ES · Castellano
 
 NEOCore™ PRE-7.3 conserva la **Primera Capa Fractal Multicabeza™** y la **Capa Neoaxiomática™** de 7.1 y añade una formulación explícita de **Soberanía de Síntesis™**.

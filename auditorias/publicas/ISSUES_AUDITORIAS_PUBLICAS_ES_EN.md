@@ -4,6 +4,8 @@
 **Fecha / Date:** 2026-08-14  
 **Función / Function:** asegurar que cada familia de Auditoría Pública tenga un espacio visible para añadir pruebas, refutaciones, casos comparables y propuestas de reparación. / Ensure that each Public Audit family has a visible space for adding evidence, refutations, comparable cases and repair proposals.
 
+[ES · Castellano](#es--registro-operativo) · [EN · English](#en--operational-register)
+
 ## ES · Registro operativo
 
 ### 1. DistroKid · Spotify · DSP · metadatos · regalías

@@ -6,6 +6,8 @@
 **Procedencia / Provenance:** NeoMantis™ · LXXIV · LXXIII · LXIX–LXXII  
 **Síntesis / Synthesis:** [#148](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/148)
 
+[ES · Castellano](#es) · [EN · English](#en)
+
 ## ES
 
 > **Ningún equilibrio legítimo puede construirse concediendo a una parte capacidad estable de destruir impunemente a otra parte necesaria del mismo sistema. La corrección de una asimetría debe aumentar la integridad del fractal común, no trasladar la licencia de degradación de un polo al otro.**

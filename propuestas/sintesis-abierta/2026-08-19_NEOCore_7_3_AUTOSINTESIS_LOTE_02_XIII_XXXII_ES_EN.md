@@ -10,6 +10,8 @@
 
 ---
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 # ES · Castellano
 
 ## XIII · NeoPandora™ · Apertura Regenerativa

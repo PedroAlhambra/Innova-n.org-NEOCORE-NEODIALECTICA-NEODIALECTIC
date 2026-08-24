@@ -6,6 +6,8 @@
 **Procedencia / Provenance:** LXXVI · El Altavoz sin Síntesis™  
 **Síntesis / Synthesis:** [#149](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/149)
 
+[ES · Castellano](#es) · [EN · English](#en)
+
 ## ES
 
 > **Detectar, describir, predecir o amplificar un problema no equivale a sintetizarlo. La autoridad de una propuesta no deriva de su visibilidad, prestigio o capacidad de alarma, sino de su capacidad para entrar en contraste, relacionarse con otras perspectivas, conservar genealogía, admitir corrección y contribuir a una respuesta común revisable.**

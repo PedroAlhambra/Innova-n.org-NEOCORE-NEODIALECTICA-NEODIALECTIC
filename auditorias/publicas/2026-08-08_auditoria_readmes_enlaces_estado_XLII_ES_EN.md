@@ -2,6 +2,8 @@
 
 **Fecha / Date:** 2026-08-08
 
+[ES · Castellano](#es--resultado) · [EN · English](#en--result)
+
 ## ES · Resultado
 
 - README.md detectados y revisados: **12**.

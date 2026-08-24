@@ -3,6 +3,8 @@
 **Fecha / Date:** 2026-08-23 01:40 CEST  
 **Estado / Status:** `7.3-CANDIDATE · NOT CANON`
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ## ES · Castellano
 
 ### Estado observado

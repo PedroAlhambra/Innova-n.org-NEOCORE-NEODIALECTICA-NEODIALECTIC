@@ -6,6 +6,8 @@
 **Commit fijado / Pinned commit:** `54c67c5aaa2a1616e5d7ab35f8c5634ae9a6e2fe`  
 **Rama snapshot / Snapshot branch:** `snapshot/neocore-7-current-2026-08-11`
 
+[ES · Castellano](#es) · [EN · English](#en)
+
 ## ES
 
 Este snapshot fija el estado completo del repositorio público en el punto indicado antes de la reconstrucción integral de la Wiki y del desarrollo de una nueva capa de aplicación alrededor del núcleo existente.

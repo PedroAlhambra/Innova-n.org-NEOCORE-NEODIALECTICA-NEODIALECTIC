@@ -4,6 +4,8 @@
 **Fecha / Date:** 2026-08-07  
 **Estado / Status:** público, bilingüe y abierto a Síntesis Abierta / public, bilingual and open to Open Synthesis
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ## ES · Castellano
 
 La colección pública alcanza **36 manifiestos**. La sexta oleada comienza con **XXXVI · Corona, Águila y Custodia de la Edad del Hombre™**, que eleva a rango de manifiesto la custodia del legado humano compartido y fija Innova_N como herramienta neodialéctica de memoria, recomposición y creación responsable dentro del fractal común.

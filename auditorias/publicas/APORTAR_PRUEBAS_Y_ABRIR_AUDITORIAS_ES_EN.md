@@ -1,6 +1,8 @@
 # Aportar pruebas y abrir Auditorías Públicas · Leónidas™
 # Contribute evidence and open Public Audits · Leónidas™
 
+[ES · Castellano](#es) · [EN · English](#en)
+
 ## ES
 
 Las Auditorías Públicas son una capa principal del Neodialectica Framework™ / Network, no anexos secundarios de los manifiestos.

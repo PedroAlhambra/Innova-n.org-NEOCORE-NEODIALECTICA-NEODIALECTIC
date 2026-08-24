@@ -9,6 +9,8 @@
 
 ---
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 # ES · Castellano
 
 ## I. El problema que queda entre conspiracionismo e ingenuidad

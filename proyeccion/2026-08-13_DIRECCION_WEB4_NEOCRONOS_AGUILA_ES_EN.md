@@ -5,6 +5,8 @@
 **Estado / Status:** dirección interna de desarrollo; síntesis abierta y revisable / internal development direction; open and revisable synthesis  
 **Ámbito / Scope:** WEB4™ / NEOCore™ / NeoCronos™ / experiencia pública / public experience
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ## ES · Castellano
 
 ### 1. Fijación semántica

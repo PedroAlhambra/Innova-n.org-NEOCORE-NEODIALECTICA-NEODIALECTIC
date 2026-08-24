@@ -3,6 +3,8 @@
 
 **Relación / Relation:** [LV · Ataque de las Micromáquinas™](../../manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md)
 
+[ES · Castellano](#es--dictamen-breve) · [EN · English](#en--short-assessment)
+
 ## ES · Dictamen breve
 
 La hipótesis fuerte —que ya exista una plaga clandestina y coordinada de micromáquinas artificiales atacando a la población— **no queda demostrada por la evidencia revisada**.

@@ -10,6 +10,8 @@
 
 ---
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 # ES · Castellano
 
 ## XXXIII · IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™

@@ -5,6 +5,8 @@
 **Análisis / Analysis:** [Ciudadanía humana · sangre, suelo y pertenencia funcional](../../analisis/publicos/2026-08-08_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_funcional_ES_EN.md)  
 **Issue:** [#64](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/64)
 
+[ES · Castellano](#es--objeto-de-contraste) · [EN · English](#en--object-of-scrutiny)
+
 ## ES · Objeto de contraste
 
 ¿Debe la pertenencia política seguir dependiendo principalmente de ascendencia o lugar de nacimiento, o puede evolucionar hacia una ciudadanía multiescala basada en dignidad común, vínculos reales, residencia, responsabilidad, reciprocidad y protección?

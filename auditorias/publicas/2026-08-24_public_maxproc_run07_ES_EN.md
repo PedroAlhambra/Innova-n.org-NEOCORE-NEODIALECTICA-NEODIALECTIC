@@ -6,6 +6,8 @@
 **Head previo a la reparación / Head before repair:** `9eac86e0...`  
 **Commit de reparación / Repair commit:** `e177fc36b794b4d3b4fb0d26c53b8c5fb5c34fe6`
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ## ES · Castellano
 
 ### Gate observado

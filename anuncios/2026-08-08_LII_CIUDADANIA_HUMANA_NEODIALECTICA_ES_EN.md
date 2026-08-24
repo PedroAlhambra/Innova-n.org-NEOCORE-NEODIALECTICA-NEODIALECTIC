@@ -4,6 +4,8 @@
 **Publicación / Publication:** 2026-08-08  
 **Colección / Collection:** Manifiestos de la Filosofía Arquetípica Neodialéctica™  
 
+[ES · Castellano](#es) · [EN · English](#en)
+
 ## ES
 
 Se publica el **Manifiesto LII · Ciudadanía Humana Neodialéctica™ · De la sangre y el suelo a la pertenencia cívica funcional**.

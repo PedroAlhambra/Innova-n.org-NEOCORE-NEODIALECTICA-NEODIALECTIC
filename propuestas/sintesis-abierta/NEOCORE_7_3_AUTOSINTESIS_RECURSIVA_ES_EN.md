@@ -19,6 +19,8 @@
 > **SELF-ANSWERING ≠ SELF-VALIDATION.**  
 > **CREATING ≠ JUDGING AT THE SAME INSTANT.**
 
+[ES · Castellano](#es--objeto) · [EN · English](#en--purpose)
+
 ## ES · Objeto
 
 NEOCore™ 7.3-CANDIDATE añade una fase recursiva a SAN™ dentro de una topología **toroidal, multicabeza y multiescala**. La Síntesis Abierta™ nace abierta: una síntesis puede funcionar en otra escala como tesis, antítesis, fragmento u origen de otra síntesis.

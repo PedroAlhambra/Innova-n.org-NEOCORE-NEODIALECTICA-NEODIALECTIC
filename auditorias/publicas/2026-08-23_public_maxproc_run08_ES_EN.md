@@ -5,6 +5,8 @@
 **Estado / Status:** `TARGET_FIX_COMMITTED / WORKFLOW_VERIFICATION_PENDING`  
 **Frontera / Frontier:** `NEOCore™ 7.3-CANDIDATE ≠ CANON`
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ## ES · Castellano
 
 ### Estado observado

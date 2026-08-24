@@ -10,6 +10,8 @@
 
 ---
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 # ES · Castellano
 
 ## XLIII · Contra la Incomprensión Reductiva de la IA™ · Inteligencia Humana Expandida™

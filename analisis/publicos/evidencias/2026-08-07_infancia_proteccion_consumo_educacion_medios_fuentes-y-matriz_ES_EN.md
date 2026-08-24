@@ -7,6 +7,8 @@
 
 ---
 
+[ES · Castellano](#es--criterio) · [EN · English](#en--criterion)
+
 ## ES · Criterio
 
 - **A · Confirmado por fuente primaria/oficial.**

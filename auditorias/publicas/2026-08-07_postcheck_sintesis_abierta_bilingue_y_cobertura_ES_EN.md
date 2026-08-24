@@ -4,6 +4,8 @@
 **Fecha / Date:** 2026-08-07  
 **Estado / Status:** cerrado estructuralmente / structurally closed
 
+[ES · Castellano](#es--dictamen) · [EN · English](#en--verdict)
+
 ## ES · Dictamen
 
 La revisión posterior a la normalización confirma:
