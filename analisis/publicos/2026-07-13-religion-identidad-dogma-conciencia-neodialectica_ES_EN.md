@@ -10,7 +10,7 @@
 **Clasificación:** análisis público · religión · identidad · dogma · individualidad · instituciones · Lupa Neodialéctica™ · civilización
 
 ---
-[🇬🇧 Go to English version / Ir a la versión en inglés ↓ ](#en)
+[ES](#es) · [EN](#en)
 
 ## ES
 

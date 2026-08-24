@@ -1,9 +1,9 @@
 # Auditoría global de selectores de idioma ES/EN
 # Global ES/EN language-selector audit
 
-**Generada / Generated:** 2026-08-24 19:41 UTC  
+**Generada / Generated:** 2026-08-24 20:38 UTC  
 **Páginas ES/EN explícitas auditadas / Explicit ES/EN split pages audited:** **352**  
-**Fallos / Failures:** **120**  
+**Fallos / Failures:** **119**  
 **LANGUAGE_SELECTOR_GATE:** **FAIL**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
@@ -21,12 +21,11 @@ Toda superficie Markdown pública y activa que exponga capas explícitas `ES` y 
 ## Resultado
 
 - Páginas auditadas: **352**.
-- Fallos: **120**.
+- Fallos: **119**.
 - Estado: **FAIL**.
 
 ## Detalle de fallos
 
-- `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
@@ -160,12 +159,11 @@ Every active public Markdown surface exposing explicit `ES` and `EN` layers must
 ## Result
 
 - Pages audited: **352**.
-- Failures: **120**.
+- Failures: **119**.
 - Status: **FAIL**.
 
 ## Failure detail
 
-- `analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `analisis/publicos/2026-08-07_parte-iv-canarias-quorum-tutela-contratacion-control-politico_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
