@@ -29,10 +29,15 @@ jobs:
         with:
           fetch-depth: 0
       - name: Audit global ES EN symmetry
+        id: content_symmetry
+        continue-on-error: true
         run: python .github/scripts/audit_global_bilingual_symmetry.py
       - name: Audit ES EN language navigation
+        id: language_navigation
+        continue-on-error: true
         run: python .github/scripts/audit_language_selectors.py
       - name: Commit audit reports
+        if: always()
         run: |
           set -euo pipefail
           git config user.name 'github-actions[bot]'
@@ -48,3 +53,15 @@ jobs:
           git commit -m 'audit: simetría global ES EN, navegación y gate neoaxiomático'
           git pull --rebase origin main
           git push origin main
+      - name: Enforce blocking audit result
+        if: always()
+        run: |
+          set -euo pipefail
+          echo "CONTENT_SYMMETRY=${{ steps.content_symmetry.outcome }}"
+          echo "LANGUAGE_NAVIGATION=${{ steps.language_navigation.outcome }}"
+          if [ "${{ steps.content_symmetry.outcome }}" != "success" ] || [ "${{ steps.language_navigation.outcome }}" != "success" ]; then
+            echo 'One or more bilingual gates failed. Evidence was preserved; global PASS is blocked.'
+            exit 1
+          fi
+          echo 'CONTENT_SYMMETRY = PASS'
+          echo 'LANGUAGE_NAVIGATION = PASS'
