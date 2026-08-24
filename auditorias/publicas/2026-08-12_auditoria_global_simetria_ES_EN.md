@@ -1,14 +1,14 @@
 # Auditoría global de simetría ES/EN / Global ES/EN symmetry audit
 
-**Fecha / Date:** 2026-08-23  
+**Fecha / Date:** 2026-08-24  
 **Regla / Rule:** **NO COMPRESIÓN / NO COMPRESSION.** Toda superficie editorial bilingüe debe conservar contenido y estructura: títulos, secciones, listas, citas, fórmulas, tablas, cautelas, ejemplos, navegación y llamadas a Síntesis. / Every bilingual editorial surface must preserve content and structure: titles, sections, lists, quotations, formulas, tables, safeguards, examples, navigation and Synthesis calls.
 
 > Los espejos `manifiestos/canonicos/` no se duplican en este recuento: su igualdad con la fuente se valida mediante la auditoría estructural canónica. / `manifiestos/canonicos/` mirrors are not double-counted here: equality with their source is validated by the canonical structural audit.
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **313**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **248**.
+- Markdown activo examinado / Active Markdown scanned: **314**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **249**.
 - Fallos estructurales divididos / Split structural failures: **0**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
@@ -148,6 +148,7 @@
 | `auditorias/publicas/2026-08-23_public_maxproc_run08_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-23_public_maxproc_run09_FINAL_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-24_public_maxproc_run01_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-08-24_public_maxproc_run02_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/README.md` | **OK** |  |
