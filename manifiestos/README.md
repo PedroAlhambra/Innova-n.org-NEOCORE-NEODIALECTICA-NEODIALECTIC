@@ -38,8 +38,8 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 >
 > ∞ no cuenta como número finito: permanece siempre después del último manifiesto numerado. / ∞ is not a finite manifesto number: it always remains after the latest numbered manifesto.
 
-**Estado en este commit / State at this commit:** **81 manifiestos finitos bilingües · I–LXXXI + Manifiesto ∞ / 81 finite bilingual manifestos · I–LXXXI + Manifesto ∞**  
-**Fecha / Date:** 2026-08-18
+**Frontera canónica vigente / Current canonical frontier:** **81 manifiestos finitos bilingües · I–LXXXI + Manifiesto ∞ / 81 finite bilingual manifestos · I–LXXXI + Manifesto ∞**  
+**Fecha de fijación de esta frontera / Frontier fixation date:** 2026-08-18
 
 <!-- NEO_CROSS_REFERENCE_POLICY_START -->
 
