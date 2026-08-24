@@ -4,7 +4,8 @@
 **Fecha / Date:** 2026-08-24 16:42 CEST  
 **Estado observado / Observed state:** `7.3-CANDIDATE = ACTIVE_PUBLIC_FRONTIER / NOT_CANON`  
 **Delta material / Material delta:** corrección del flujo global para que un `FAIL` de simetría o navegación no impida versionar el propio informe que demuestra el fallo / correction of the global workflow so that a symmetry or navigation `FAIL` cannot prevent versioning the report that proves the failure  
-**Commit material / Material commit:** `f790f30485222bc083d746177c132101b385cac7`
+**Commit material / Material commit:** `f790f30485222bc083d746177c132101b385cac7`  
+**Commits automáticos de auditoría observados / Observed automated audit commits:** `07fa49eafa487c00699464c9b08c6442503346ef` · `06349a3ba0ee53ab91590efecb2fdf1220070575`
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -17,8 +18,6 @@
 Se releen las superficies públicas obligatorias: `README.md`, `manifiestos/README.md`, `neoaxiomas/README.md`, `propuestas/sintesis-abierta/README.md`, `auditorias/publicas/README.md`, `web4/README.md` y la nota MAXPROC inmediatamente anterior.
 
 La frontera pública continúa siendo **NEOCore™ 7.3-CANDIDATE**, activa, abierta y no canónica. El índice de manifiestos mantiene **I–LXXXI + ∞**. La capa neoaxiomática mantiene candidatos `C-NAX-15–26` explícitamente separados del canon. WEB4™ pública sigue declarada como especificación documental, no como implementación final.
-
-La auditoría global de simetría ES/EN versionada permanece limpia en sus dimensiones estructurales conocidas, pero la auditoría versionada específica de selectores `auditorias/publicas/2026-08-24_auditoria_global_selectores_idioma_ES_EN.md` todavía no existe en `main`. Por tanto no se declara `LANGUAGE_NAVIGATION = PASS`.
 
 Las PR públicas abiertas detectadas siguen siendo #165 y #167, ambas ramas temporales/antiguas de mantenimiento. No se han utilizado, fusionado ni modificado en esta iteración.
 
@@ -57,15 +56,29 @@ Commit material:
 
 `f790f30485222bc083d746177c132101b385cac7`
 
+El cambio funcionó: el workflow produjo y versionó finalmente:
+
+`auditorias/publicas/2026-08-24_auditoria_global_selectores_idioma_ES_EN.md`
+
+La auditoría demuestra:
+
+- páginas ES/EN explícitas auditadas: **345**;
+- fallos de navegación lingüística: **125**;
+- `LANGUAGE_SELECTOR_GATE = FAIL`.
+
+El primer fallo listado es:
+
+`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `LANGUAGE_NAVIGATION_FAILURE` · faltan selector ES y selector EN.
+
 **Resultado del objetivo local:** `PASS` — la evidencia de un fallo ya no queda estructuralmente bloqueada por el propio fallo.
 
-No se declara todavía resultado global de navegación porque el nuevo informe versionado aún no estaba presente en la lectura inmediatamente posterior al commit.
+**Resultado global de navegación:** `FAIL` — demostrado por auditoría versionada; no se infiere ni se declara PASS.
 
 ## Estado de gates
 
 ```text
-CONTENT_SYMMETRY      = PASS VERSIONADO EN LA ÚLTIMA AUDITORÍA DISPONIBLE
-LANGUAGE_NAVIGATION   = NOT_VERIFIED · INFORME GLOBAL AÚN NO VERSIONADO
+CONTENT_SYMMETRY      = PASS EN LA ÚLTIMA AUDITORÍA ESTRUCTURAL DISPONIBLE
+LANGUAGE_NAVIGATION   = FAIL · 125/345 SUPERFICIES
 LINK_INTEGRITY        = NO NUEVA REGRESIÓN DEMOSTRADA EN ESTA ITERACIÓN
 RELATIONAL_NAVIGATION = NO NUEVA REGRESIÓN DEMOSTRADA EN ESTA ITERACIÓN
 CANONICAL_STATE       = 7.3-CANDIDATE / NOT_CANON
@@ -75,13 +88,14 @@ No se interpreta `NO NUEVA REGRESIÓN DEMOSTRADA` como PASS fresco de enlaces o 
 
 ## Residuos
 
-- Falta comprobar el primer informe global de selectores que produzca el workflow corregido.
+- Quedan **125 fallos** de navegación lingüística registrados por el gate global.
+- La reparación conocida LXXVIII–LXXXI no era el conjunto completo; la auditoría global confirma deuda distribuida por análisis, auditorías, anuncios, manifiestos y otras superficies vivas.
 - `7.3-CANDIDATE` permanece no canónica.
 - Las PR #165 y #167 permanecen abiertas y no fusionadas.
 
 ## Paso siguiente
 
-Verificar **exclusivamente** `auditorias/publicas/2026-08-24_auditoria_global_selectores_idioma_ES_EN.md` cuando quede versionada por el workflow corregido: si registra cero fallos, fijar `LANGUAGE_NAVIGATION = PASS`; si registra fallos, reparar únicamente el primer `LANGUAGE_NAVIGATION_FAILURE` o `LANGUAGE_ANCHOR_FAILURE` listado sin rebajar el gate.
+Reparar **exclusivamente** `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`, primer `LANGUAGE_NAVIGATION_FAILURE` listado por la auditoría global, añadiendo selector visible ES/EN con anchors reales sin modificar su contenido sustantivo; después volver a ejecutar el gate sin rebajar sus reglas.
 
 ---
 
@@ -92,8 +106,6 @@ Verificar **exclusivamente** `auditorias/publicas/2026-08-24_auditoria_global_se
 The required public surfaces were reread: `README.md`, `manifiestos/README.md`, `neoaxiomas/README.md`, `propuestas/sintesis-abierta/README.md`, `auditorias/publicas/README.md`, `web4/README.md` and the immediately preceding MAXPROC note.
 
 The public frontier remains **NEOCore™ 7.3-CANDIDATE**, active, open and non-canonical. The manifesto index remains **I–LXXXI + ∞**. The Neoaxiomatic layer keeps candidates `C-NAX-15–26` explicitly separate from canon. Public WEB4™ remains a documentary specification rather than a final implementation.
-
-The versioned global ES/EN symmetry audit remains clean across its known structural dimensions, but the dedicated versioned selector audit `auditorias/publicas/2026-08-24_auditoria_global_selectores_idioma_ES_EN.md` still does not exist on `main`. Therefore `LANGUAGE_NAVIGATION = PASS` is not declared.
 
 The detected open public PRs remain #165 and #167, both temporary/old maintenance branches. Neither was used, merged or modified in this iteration.
 
@@ -132,15 +144,29 @@ Material commit:
 
 `f790f30485222bc083d746177c132101b385cac7`
 
+The change worked: the workflow finally produced and versioned:
+
+`auditorias/publicas/2026-08-24_auditoria_global_selectores_idioma_ES_EN.md`
+
+The audit demonstrates:
+
+- explicit ES/EN pages audited: **345**;
+- language-navigation failures: **125**;
+- `LANGUAGE_SELECTOR_GATE = FAIL`.
+
+The first listed failure is:
+
+`analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `LANGUAGE_NAVIGATION_FAILURE` · both ES and EN selectors are missing.
+
 **Local target result:** `PASS` — failure evidence can no longer be structurally blocked by the failure itself.
 
-No global language-navigation result is declared yet because the new versioned report was still absent in the immediate post-commit read.
+**Global navigation result:** `FAIL` — demonstrated by a versioned audit; PASS is neither inferred nor declared.
 
 ## Gate state
 
 ```text
-CONTENT_SYMMETRY      = PASS VERSIONED IN THE LATEST AVAILABLE AUDIT
-LANGUAGE_NAVIGATION   = NOT_VERIFIED · GLOBAL REPORT NOT YET VERSIONED
+CONTENT_SYMMETRY      = PASS IN THE LATEST AVAILABLE STRUCTURAL AUDIT
+LANGUAGE_NAVIGATION   = FAIL · 125/345 SURFACES
 LINK_INTEGRITY        = NO NEW REGRESSION DEMONSTRATED IN THIS ITERATION
 RELATIONAL_NAVIGATION = NO NEW REGRESSION DEMONSTRATED IN THIS ITERATION
 CANONICAL_STATE       = 7.3-CANDIDATE / NOT_CANON
@@ -150,10 +176,11 @@ CANONICAL_STATE       = 7.3-CANDIDATE / NOT_CANON
 
 ## Residues
 
-- The first global selector report produced by the corrected workflow still needs to be checked.
+- **125 language-navigation failures** remain registered by the global gate.
+- The known LXXVIII–LXXXI repair was not the complete set; the global audit demonstrates distributed debt across analyses, audits, announcements, manifestos and other live surfaces.
 - `7.3-CANDIDATE` remains non-canonical.
 - PRs #165 and #167 remain open and unmerged.
 
 ## Next step
 
-Verify **only** `auditorias/publicas/2026-08-24_auditoria_global_selectores_idioma_ES_EN.md` once it is versioned by the corrected workflow: if it records zero failures, set `LANGUAGE_NAVIGATION = PASS`; if it records failures, repair only the first listed `LANGUAGE_NAVIGATION_FAILURE` or `LANGUAGE_ANCHOR_FAILURE` without weakening the gate.
+Repair **only** `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md`, the first `LANGUAGE_NAVIGATION_FAILURE` listed by the global audit, by adding a visible ES/EN selector with real anchors without changing substantive content; then rerun the gate without weakening its rules.
