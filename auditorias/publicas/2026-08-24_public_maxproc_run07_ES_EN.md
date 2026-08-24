@@ -34,6 +34,10 @@ La auditoría global versionada todavía no se había regenerado al cierre de es
 
 **Resultado del objetivo / Target result:** `REPAIRED / GLOBAL_REAUDIT_PENDING`.
 
+### Paso siguiente
+
+Regenerar o verificar la auditoría global ES/EN sobre el head posterior a `e177fc36...`; sólo si devuelve `0 structural / 0 marker / 0 paired / 0 Issue-template failures`, cerrar este residuo y retomar la auditoría de la Issue #132 sin promover `7.3-CANDIDATE`.
+
 ## EN · English
 
 ### Observed gate
@@ -62,6 +66,6 @@ The versioned global audit had not yet regenerated at the close of this iteratio
 
 **Target result:** `REPAIRED / GLOBAL_REAUDIT_PENDING`.
 
----
+### Next step
 
-**PASO_SIGUIENTE / NEXT_STEP:** Regenerar o verificar la auditoría global ES/EN sobre el head posterior a `e177fc36...`; sólo si devuelve `0 structural / 0 marker / 0 paired / 0 Issue-template failures`, cerrar este residuo y retomar la auditoría de la Issue #132 sin promover `7.3-CANDIDATE`.
+Regenerate or verify the global ES/EN audit on the head after `e177fc36...`; only if it returns `0 structural / 0 marker / 0 paired / 0 Issue-template failures`, close this residue and resume the audit of Issue #132 without promoting `7.3-CANDIDATE`.
