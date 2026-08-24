@@ -8,6 +8,8 @@
 **Idioma:** ES / EN  
 **Clasificación:** análisis público · gobernanza IA · marco · Anthropic
 
+[ES](#es) · [EN](#en)
+
 ---
 
 ## ES
