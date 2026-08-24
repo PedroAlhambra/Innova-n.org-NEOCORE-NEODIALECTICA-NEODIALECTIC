@@ -5,6 +5,8 @@
 > **Proyectos afectados / Affected projects:** Yellow Quasar, Techno Bach y / and El Reino de las Maravillas.  
 > **Expedientes DistroKid relacionados / Related DistroKid tickets:** #2901165, #2941949 y / and #3093561.
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ---
 
 # ES · Castellano
