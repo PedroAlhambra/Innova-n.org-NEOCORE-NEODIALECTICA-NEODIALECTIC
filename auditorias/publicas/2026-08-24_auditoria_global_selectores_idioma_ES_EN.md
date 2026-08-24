@@ -1,9 +1,9 @@
 # Auditoría global de selectores de idioma ES/EN
 # Global ES/EN language-selector audit
 
-**Generada / Generated:** 2026-08-24 15:46 UTC  
+**Generada / Generated:** 2026-08-24 16:39 UTC  
 **Páginas ES/EN explícitas auditadas / Explicit ES/EN split pages audited:** **348**  
-**Fallos / Failures:** **124**  
+**Fallos / Failures:** **123**  
 **LANGUAGE_SELECTOR_GATE:** **FAIL**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
@@ -21,12 +21,11 @@ Toda superficie Markdown pública y activa que exponga capas explícitas `ES` y 
 ## Resultado
 
 - Páginas auditadas: **348**.
-- Fallos: **124**.
+- Fallos: **123**.
 - Estado: **FAIL**.
 
 ## Detalle de fallos
 
-- `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
@@ -164,12 +163,11 @@ Every active public Markdown surface exposing explicit `ES` and `EN` layers must
 ## Result
 
 - Pages audited: **348**.
-- Failures: **124**.
+- Failures: **123**.
 - Status: **FAIL**.
 
 ## Failure detail
 
-- `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
