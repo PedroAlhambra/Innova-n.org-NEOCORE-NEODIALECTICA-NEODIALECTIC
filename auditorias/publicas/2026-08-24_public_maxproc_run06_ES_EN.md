@@ -97,6 +97,4 @@ Issue #131 was reread after mutation and now explicitly distinguishes:
 
 ---
 
-## PASO_SIGUIENTE / NEXT_STEP
-
-Auditar la **Issue #132** para separar con la misma precisión las referencias históricas a `NEOCore PRE-7.3` de cualquier formulación que todavía pueda leerse como estado vivo actual, preservando íntegramente la atribución externa de Gunkel y Paz y sin convertir su aporte en endorsement.
+**PASO_SIGUIENTE / NEXT_STEP:** Auditar la **Issue #132** para separar con la misma precisión las referencias históricas a `NEOCore PRE-7.3` de cualquier formulación que todavía pueda leerse como estado vivo actual, preservando íntegramente la atribución externa de Gunkel y Paz y sin convertir su aporte en endorsement.
