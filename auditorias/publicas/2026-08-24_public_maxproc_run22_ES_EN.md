@@ -74,7 +74,7 @@ El primer fallo restante de la auditoría versionada es:
 
 con ausencia de selector ES y EN.
 
-## PASO_SIGUIENTE / NEXT_STEP
+## Paso siguiente
 
 Reparar exclusivamente `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md`, añadiendo un selector visible cuyos destinos coincidan con sus encabezados ES/EN reales, sin alterar contenido sustantivo, y volver a verificar que el gate global reduce el contador de fallos.
 
@@ -142,5 +142,7 @@ The first remaining failure in the versioned audit is:
 `analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md`
 
 with both ES and EN selectors missing.
+
+## Next step
 
 The single next action is the bilingual `PASO_SIGUIENTE / NEXT_STEP` stated above; no second next step is opened in this run.

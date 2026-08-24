@@ -1,7 +1,7 @@
 # Auditoría global de selectores de idioma ES/EN
 # Global ES/EN language-selector audit
 
-**Generada / Generated:** 2026-08-24 21:00 UTC  
+**Generada / Generated:** 2026-08-24 21:01 UTC  
 **Páginas ES/EN explícitas auditadas / Explicit ES/EN split pages audited:** **353**  
 **Fallos / Failures:** **0**  
 **LANGUAGE_SELECTOR_GATE:** **PASS**
