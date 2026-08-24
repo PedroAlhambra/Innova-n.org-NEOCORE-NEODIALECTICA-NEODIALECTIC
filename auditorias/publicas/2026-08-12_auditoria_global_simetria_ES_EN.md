@@ -9,15 +9,14 @@
 
 - Markdown activo examinado / Active Markdown scanned: **324**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **258**.
-- Fallos estructurales divididos / Split structural failures: **1**.
+- Fallos estructurales divididos / Split structural failures: **0**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
 
-- `auditorias/publicas/2026-08-24_public_maxproc_run06_ES_EN.md` · ES=273 · EN=310 · ratio=1.14
-  - Verificación: párrafos ES=3 EN=4
+- Ninguno / None.
 
 ## Marcadores / Markers
 
@@ -153,7 +152,7 @@
 | `auditorias/publicas/2026-08-24_public_maxproc_run03_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `auditorias/publicas/2026-08-24_public_maxproc_run04_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-24_public_maxproc_run05_ES_EN.md` | **OK** |  |
-| `auditorias/publicas/2026-08-24_public_maxproc_run06_ES_EN.md` | **REVISAR** | Verificación: párrafos ES=3 EN=4 |
+| `auditorias/publicas/2026-08-24_public_maxproc_run06_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-24_public_maxproc_run07_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-24_public_maxproc_run08_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-24_public_maxproc_run09_ES_EN.md` | **OK** |  |
