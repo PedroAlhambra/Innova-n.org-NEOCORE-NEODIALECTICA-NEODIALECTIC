@@ -1,9 +1,9 @@
 # Auditoría global de selectores de idioma ES/EN
 # Global ES/EN language-selector audit
 
-**Generada / Generated:** 2026-08-24 14:44 UTC  
+**Generada / Generated:** 2026-08-24 15:44 UTC  
 **Páginas ES/EN explícitas auditadas / Explicit ES/EN split pages audited:** **347**  
-**Fallos / Failures:** **125**  
+**Fallos / Failures:** **124**  
 **LANGUAGE_SELECTOR_GATE:** **FAIL**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
@@ -21,12 +21,11 @@ Toda superficie Markdown pública y activa que exponga capas explícitas `ES` y 
 ## Resultado
 
 - Páginas auditadas: **347**.
-- Fallos: **125**.
+- Fallos: **124**.
 - Estado: **FAIL**.
 
 ## Detalle de fallos
 
-- `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
@@ -165,12 +164,11 @@ Every active public Markdown surface exposing explicit `ES` and `EN` layers must
 ## Result
 
 - Pages audited: **347**.
-- Failures: **125**.
+- Failures: **124**.
 - Status: **FAIL**.
 
 ## Failure detail
 
-- `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
