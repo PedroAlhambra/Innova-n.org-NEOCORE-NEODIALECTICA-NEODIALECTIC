@@ -12,7 +12,7 @@
 - Cobertura del mapa curado: **81/81**.
 - Ausentes del mapa curado: **ninguno / none**.
 - Neoaxiomas sin Síntesis específica: **ninguno / none**.
-- Enlaces locales realmente no resueltos: **1**.
+- Enlaces locales realmente no resueltos: **0**.
 - Manifiestos sin enlace entrante desde publicaciones/documentos aplicados: **0**.
 - Pares de manifiestos cocitados por ≥2 publicaciones: **509**.
 
@@ -170,7 +170,7 @@
 
 ## 6. Enlaces locales no resueltos
 
-- `manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md` → `../issues/174`
+- Ninguno / None.
 
 ## 7. Grafo directo completo por manifiesto
 

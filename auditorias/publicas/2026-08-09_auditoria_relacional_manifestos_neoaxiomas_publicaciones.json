@@ -977,12 +977,7 @@
     }
   ],
   "neoaxioms_missing_dedicated": [],
-  "broken": [
-    {
-      "source": "manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md",
-      "href": "../issues/174"
-    }
-  ],
+  "broken": [],
   "weak_publication_relations": [],
   "co_citation": [
     {
