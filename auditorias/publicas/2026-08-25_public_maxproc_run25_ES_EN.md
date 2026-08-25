@@ -4,7 +4,8 @@
 **Fecha / Date:** 2026-08-25  
 **Estado observado / Observed state:** `7.3-CANDIDATE = ACTIVE_PUBLIC_FRONTIER / NOT_CANON`  
 **Delta material / Material delta:** corrección de la fecha hardcodeada del generador de auditoría relacional / correction of the hardcoded date in the relational-audit generator  
-**Commit material / Material commit:** `b1edf719b772ba15eb873e1df4af78a58065dd83`
+**Commit material / Material commit:** `b1edf719b772ba15eb873e1df4af78a58065dd83`  
+**Resultado global / Global result:** `FAIL · LANGUAGE_NAVIGATION_FAILURE = 1`
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -14,57 +15,44 @@
 
 ## Estado observado
 
-Se releyeron las superficies públicas de entrada y continuidad: `README.md`, `manifiestos/README.md`, `neoaxiomas/README.md`, `propuestas/sintesis-abierta/README.md`, `web4/README.md`, las auditorías públicas vigentes y Run 24. La frontera continúa siendo **NEOCore™ 7.3-CANDIDATE**, activa, abierta a síntesis y no canónica. La Issue #161 continúa abierta como `CANDIDATE · OPEN SYNTHESIS` y conserva condiciones explícitas de promoción que no se consideran satisfechas por esta iteración.
+Se releyeron `README.md`, `manifiestos/README.md`, `neoaxiomas/README.md`, `propuestas/sintesis-abierta/README.md`, `web4/README.md`, las auditorías públicas vigentes y Run 24. La frontera continúa siendo **NEOCore™ 7.3-CANDIDATE**, activa, abierta a síntesis y no canónica. La Issue #161 continúa abierta como `CANDIDATE · OPEN SYNTHESIS`; esta iteración no satisface ni altera su gate de promoción.
 
 ## Problema elegido
 
-Run 24 dejó `LINK_INTEGRITY` y `RELATIONAL_NAVIGATION` pendientes de reverificación fresca. La auditoría de rutas se regeneró sobre `main` actual y quedó limpia. Después se regeneró la auditoría relacional; sus métricas también quedaron limpias, pero reveló un defecto real del propio generador: el informe seguía escribiendo `Fecha / Date: 2026-08-12` aunque acababa de ejecutarse el 25 de agosto, porque la fecha estaba fijada literalmente en `.github/scripts/audit_relations_neocore.py`.
-
-Ese defecto de procedencia impedía usar la fecha del informe como evidencia fiable de frescura aunque sus métricas hubieran sido recalculadas.
+Run 24 dejó `LINK_INTEGRITY` y `RELATIONAL_NAVIGATION` pendientes de reverificación fresca. La auditoría de rutas se regeneró sobre `main` actual y quedó limpia. Al regenerar después la auditoría relacional, las métricas también quedaron limpias, pero apareció un defecto real de procedencia: el informe seguía escribiendo `Fecha / Date: 2026-08-12` porque esa fecha estaba fijada literalmente en `.github/scripts/audit_relations_neocore.py`.
 
 ## Acción
 
-Se modificó exclusivamente el generador relacional para calcular la fecha de ejecución en UTC mediante `datetime.now(timezone.utc).date().isoformat()` y usarla al renderizar `Fecha / Date`. No se modificaron manifiestos, neoaxiomas, relaciones curadas, Issues, cuerpos de Síntesis Abierta ni estados CANON/CANDIDATE.
-
-Se regeneró después la auditoría relacional. El workflow temporal usado para ejecutar el delta fue eliminado por la propia ejecución.
+Se corrigió exclusivamente esa causa raíz: el generador relacional calcula ahora la fecha de ejecución UTC mediante `datetime.now(timezone.utc).date().isoformat()` y la usa al renderizar el informe. No se modificaron manifiestos, neoaxiomas, relaciones curadas, Issues, cuerpos de Síntesis Abierta ni estados CANON/CANDIDATE. La auditoría relacional se regeneró y el mecanismo temporal de esa reparación fue eliminado.
 
 ## Pruebas y resultado
 
-La auditoría fresca de rutas registra:
+La auditoría fresca de rutas registra **426 Markdown activos**, **10.778 rutas internas comprobadas**, **0 enlaces internos rotos** y **0 fallos canónicos críticos**. Su alcance no comprueba disponibilidad remota de URLs externas ni la semántica general de todos los enlaces sólo a ancla.
 
-- Markdown activos revisados: **426**;
-- rutas internas comprobadas: **10.778**;
-- enlaces internos rotos: **0**;
-- fallos canónicos críticos: **0**.
-
-Su alcance no incluye disponibilidad remota de URLs externas ni validación semántica general de los **763** enlaces sólo a ancla; por tanto, ese límite se conserva explícito y no se transforma en un PASS más amplio de lo demostrado.
-
-La auditoría relacional regenerada registra:
-
-- fecha correcta: **2026-08-25**;
-- cobertura del mapa curado: **81/81**;
-- ausentes del mapa curado: **0**;
-- neoaxiomas sin Síntesis específica: **0**;
-- enlaces locales no resueltos: **0**;
-- manifiestos sin relación entrante desde publicaciones/documentos aplicados: **0**.
+La auditoría relacional regenerada registra fecha correcta **2026-08-25**, cobertura **81/81**, **0** ausentes del mapa curado, **0** neoaxiomas sin Síntesis específica, **0** enlaces locales no resueltos y **0** manifiestos sin relación entrante desde publicaciones/documentos aplicados.
 
 **Resultado del defecto elegido:** `PASS`.
 
-## Estado de gates
+El postcheck bloqueante posterior comprobó primero `CONTENT_SYMMETRY` y obtuvo **0 fallos**. A continuación `audit_language_selectors.py` auditó **356** superficies ES/EN y detectó **1** `LANGUAGE_NAVIGATION_FAILURE`: `auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md` carece de selector ES y EN. El fallo procede del generador `.github/scripts/audit_markdown_links_readmes.py`, que regenera una superficie bilingüe con gates `## ES · Resultado` y `## EN · Result` sin insertar selector visible en cabecera.
 
-- `CONTENT_SYMMETRY = PASS` según el último gate global vigente, pendiente sólo de postcheck de esta nueva nota antes del cierre de Run 25.
-- `LANGUAGE_NAVIGATION = PASS` según el último gate global vigente, pendiente sólo de postcheck de esta nueva nota antes del cierre de Run 25.
-- `LINK_INTEGRITY = PASS_PATHS` · 0/10.778 rutas internas rotas; disponibilidad externa y semántica general de anchors quedan fuera de ese PASS.
-- `RELATIONAL_NAVIGATION = PASS_DOCUMENTARY` · 81/81, sin huecos estructurales detectados por el auditor relacional; relación semántica/causal sigue requiriendo SAN/revisión humana.
+Conforme a la regla de una sola reparación material por iteración, este segundo defecto demostrado **no se repara en Run 25**. El workflow temporal de postcheck que quedó tras el fallo fue retirado sin alterar el corpus sustantivo.
+
+## Estado de gates al cierre
+
+- `CONTENT_SYMMETRY = PASS` · postcheck: 0 fallos.
+- `LANGUAGE_NAVIGATION = FAIL` · **1/356** superficies falla.
+- `LINK_INTEGRITY = PASS_PATHS` · **0/10.778** rutas internas rotas; no se amplía el PASS fuera del alcance del auditor.
+- `RELATIONAL_NAVIGATION = PASS_DOCUMENTARY` · **81/81**, sin huecos estructurales documentales detectados.
 - `CANONICAL_STATE = 7.3-CANDIDATE / NOT_CANON`.
+- `GLOBAL_CORPUS_PASS = NO`.
 
-## Residuos
+## Residuo único
 
-No queda residuo del defecto corregido. El límite verificable más inmediato es que la auditoría de enlaces inventaría **763 enlaces sólo a ancla** pero no comprueba de forma general que cada destino corresponda a un anchor Markdown renderizado existente.
+El generador `.github/scripts/audit_markdown_links_readmes.py` crea su propio informe ES/EN sin selector visible de idioma, por lo que cada regeneración puede reintroducir `LANGUAGE_NAVIGATION_FAILURE`.
 
 ## PASO_SIGUIENTE / NEXT_STEP
 
-Construir o ejecutar un gate público específico de integridad de anchors Markdown internos sobre las superficies activas y, si detecta algún destino inexistente, reparar exclusivamente el primer anchor roto demostrado.
+Corregir exclusivamente `.github/scripts/audit_markdown_links_readmes.py` para que su informe incluya un selector visible con anchors reales `#es--resultado` y `#en--result`, regenerar el informe y volver a ejecutar `audit_language_selectors.py` hasta demostrar `1 → 0`, sin abordar ningún segundo delta en esa iteración.
 
 ---
 
@@ -72,54 +60,41 @@ Construir o ejecutar un gate público específico de integridad de anchors Markd
 
 ## Observed state
 
-The public entry and continuity surfaces were reread: `README.md`, `manifiestos/README.md`, `neoaxiomas/README.md`, `propuestas/sintesis-abierta/README.md`, `web4/README.md`, the current public audits and Run 24. The frontier remains **NEOCore™ 7.3-CANDIDATE**, active, open to synthesis and non-canonical. Issue #161 remains open as `CANDIDATE · OPEN SYNTHESIS` and retains explicit promotion conditions that are not considered satisfied by this iteration.
+`README.md`, `manifiestos/README.md`, `neoaxiomas/README.md`, `propuestas/sintesis-abierta/README.md`, `web4/README.md`, the current public audits and Run 24 were reread. The frontier remains **NEOCore™ 7.3-CANDIDATE**, active, open to synthesis and non-canonical. Issue #161 remains open as `CANDIDATE · OPEN SYNTHESIS`; this iteration neither satisfies nor changes its promotion gate.
 
 ## Selected problem
 
-Run 24 left `LINK_INTEGRITY` and `RELATIONAL_NAVIGATION` pending fresh reverification. The route audit was regenerated against current `main` and remained clean. The relational audit was then regenerated; its metrics also remained clean, but it exposed a real defect in the generator itself: the report still wrote `Fecha / Date: 2026-08-12` even though it had just run on 25 August, because the date was literally hardcoded in `.github/scripts/audit_relations_neocore.py`.
-
-That provenance defect made the report date unreliable as freshness evidence even though its metrics had actually been recalculated.
+Run 24 left `LINK_INTEGRITY` and `RELATIONAL_NAVIGATION` pending fresh reverification. The route audit was regenerated against current `main` and remained clean. When the relational audit was then regenerated, its metrics also remained clean, but a real provenance defect appeared: the report still wrote `Fecha / Date: 2026-08-12` because that date was literally hardcoded in `.github/scripts/audit_relations_neocore.py`.
 
 ## Action
 
-Only the relational generator was changed so that it calculates the execution date in UTC through `datetime.now(timezone.utc).date().isoformat()` and uses it when rendering `Fecha / Date`. No manifesto, Neoaxiom, curated relation, Issue, Open Synthesis body or CANON/CANDIDATE state was changed.
-
-The relational audit was then regenerated. The temporary workflow used to execute the delta was removed by the execution itself.
+Only that root cause was corrected: the relational generator now calculates the UTC execution date through `datetime.now(timezone.utc).date().isoformat()` and uses it when rendering the report. No manifesto, Neoaxiom, curated relation, Issue, Open Synthesis body or CANON/CANDIDATE state was changed. The relational audit was regenerated and the temporary repair mechanism was removed.
 
 ## Tests and result
 
-The fresh route audit reports:
+The fresh route audit reports **426 active Markdown files**, **10,778 internal routes checked**, **0 broken internal links** and **0 critical canonical failures**. Its scope does not check remote availability of external URLs or the general semantics of every anchor-only link.
 
-- active Markdown reviewed: **426**;
-- internal routes checked: **10,778**;
-- broken internal links: **0**;
-- critical canonical failures: **0**.
-
-Its scope does not include remote availability of external URLs or general semantic validation of the **763** anchor-only links; that limitation is therefore preserved explicitly and is not converted into a broader PASS than the evidence supports.
-
-The regenerated relational audit reports:
-
-- correct date: **2026-08-25**;
-- curated-map coverage: **81/81**;
-- missing from curated map: **0**;
-- Neoaxioms without dedicated Synthesis: **0**;
-- unresolved local links: **0**;
-- manifestos without inbound relation from applied publications/documents: **0**.
+The regenerated relational audit reports the correct date **2026-08-25**, coverage **81/81**, **0** missing from the curated map, **0** Neoaxioms without dedicated Synthesis, **0** unresolved local links and **0** manifestos without inbound relation from applied publications/documents.
 
 **Selected-defect result:** `PASS`.
 
-## Gate state
+The subsequent blocking postcheck first checked `CONTENT_SYMMETRY` and obtained **0 failures**. `audit_language_selectors.py` then audited **356** ES/EN surfaces and detected **1** `LANGUAGE_NAVIGATION_FAILURE`: `auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md` lacks both ES and EN selectors. The failure originates in `.github/scripts/audit_markdown_links_readmes.py`, which regenerates a bilingual surface with `## ES · Resultado` and `## EN · Result` gates without inserting a visible header selector.
 
-- `CONTENT_SYMMETRY = PASS` according to the latest current global gate, pending only the postcheck of this new note before Run 25 closes.
-- `LANGUAGE_NAVIGATION = PASS` according to the latest current global gate, pending only the postcheck of this new note before Run 25 closes.
-- `LINK_INTEGRITY = PASS_PATHS` · 0/10,778 broken internal routes; external availability and general anchor semantics remain outside that PASS.
-- `RELATIONAL_NAVIGATION = PASS_DOCUMENTARY` · 81/81, with no structural gaps detected by the relational auditor; semantic/causal relations still require SAN/human review.
+Under the one-material-repair-per-iteration rule, this second demonstrated defect **is not repaired in Run 25**. The temporary postcheck workflow left by the failure was removed without changing the substantive corpus.
+
+## Gate state at close
+
+- `CONTENT_SYMMETRY = PASS` · postcheck: 0 failures.
+- `LANGUAGE_NAVIGATION = FAIL` · **1/356** surfaces fails.
+- `LINK_INTEGRITY = PASS_PATHS` · **0/10,778** broken internal routes; the PASS is not broadened beyond the auditor's scope.
+- `RELATIONAL_NAVIGATION = PASS_DOCUMENTARY` · **81/81**, with no documentary structural gaps detected.
 - `CANONICAL_STATE = 7.3-CANDIDATE / NOT_CANON`.
+- `GLOBAL_CORPUS_PASS = NO`.
 
-## Residues
+## Single residue
 
-No residue remains from the corrected defect. The nearest verifiable boundary is that the link audit inventories **763 anchor-only links** but does not generally verify that every target corresponds to an existing rendered Markdown anchor.
+The `.github/scripts/audit_markdown_links_readmes.py` generator creates its own ES/EN report without a visible language selector, so every regeneration can reintroduce `LANGUAGE_NAVIGATION_FAILURE`.
 
 ## PASO_SIGUIENTE / NEXT_STEP
 
-Build or execute a dedicated public internal-Markdown-anchor integrity gate over active surfaces and, if it detects a missing destination, repair exclusively the first demonstrated broken anchor.
+Correct only `.github/scripts/audit_markdown_links_readmes.py` so that its report includes a visible selector targeting the real `#es--resultado` and `#en--result` anchors, regenerate the report and rerun `audit_language_selectors.py` until `1 → 0` is demonstrated, without addressing any second delta in that iteration.
