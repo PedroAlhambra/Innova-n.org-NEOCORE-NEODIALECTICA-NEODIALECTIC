@@ -7124,6 +7124,12 @@
       ]
     },
     {
+      "path": "analisis/publicos/2026-08-25_neorrenacimiento_constituyente_inercia_IA_altman_ES_EN.md",
+      "manifestos": [
+        "XI"
+      ]
+    },
+    {
       "path": "analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md",
       "manifestos": [
         "IV",
@@ -8518,6 +8524,9 @@
         ]
       },
       "inbound": {
+        "analisis/publicos": [
+          "analisis/publicos/2026-08-25_neorrenacimiento_constituyente_inercia_IA_altman_ES_EN.md"
+        ],
         "otros": [
           "anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md",
           "manifiestos/10_los_sin_ego_ES_EN.md",
