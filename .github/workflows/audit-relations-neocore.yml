@@ -1,4 +1,4 @@
-# trigger: 2026-08-09T22:43+02:00
+# trigger: 2026-08-25 · relational coverage aligned with audited corpus
 name: audit-relations-neocore
 
 on:
@@ -6,6 +6,7 @@ on:
   push:
     branches: [main]
     paths:
+      - '**/*.md'
       - '.github/scripts/audit_relations_neocore.py'
       - '.github/workflows/audit-relations-neocore.yml'
 
