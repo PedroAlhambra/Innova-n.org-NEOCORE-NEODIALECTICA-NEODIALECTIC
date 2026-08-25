@@ -31,7 +31,7 @@ No se modificó `PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md`, no se toc
 
 ### 3. Verificación
 
-La ejecución `audit-global-bilingual-symmetry` sobre el commit material devolvió:
+La auditoría regenerada sobre el estado posterior confirma ahora **352 Markdown activos**, **286 documentos ES/EN divididos**, **1 único fallo estructural**, **0 fallos de marcadores** y **0 superficies pareadas pendientes**. El caso Gritax™ ya figura fuera del inventario de fallos; sólo permanece `PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md`.
 
 ```text
 GLOBAL_BILINGUAL_SYMMETRY
@@ -41,11 +41,11 @@ paired_review = 0
 yaml_review = 0
 ```
 
-Por tanto, el caso Gritax™ salió del inventario de fallos estructurales y el único fallo estructural restante pertenece a `PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md`.
+El gate independiente `LANGUAGE_NAVIGATION` permanece en **FAIL**: se auditan **370 superficies ES/EN explícitas** y hay **3 fallos**, correspondientes al caso Gritax™, la extensión C-NAX-20 y CMN-0.1, todos por ausencia de selector visible ES/EN. Este estado no se rebaja ni se transforma en PASS.
 
-La misma ejecución confirmó que el gate independiente `LANGUAGE_NAVIGATION` permanece en **FAIL** con **3 superficies** sin selector ES/EN visible: el caso Gritax™, la extensión C-NAX-20 y CMN-0.1. Este estado no se rebaja ni se transforma en PASS.
+El postcheck documental vigente mantiene además `LINK_INTEGRITY` abierto con **2 enlaces internos rotos**, ambos preexistentes en `auditorias/publicas/2026-08-25_public_maxproc_run32_ES_EN.md`, donde `../issues/174` se interpreta como ruta local inexistente. No se han corregido en esta iteración para respetar la regla de una sola reparación material.
 
-El intento automático de persistir los informes regenerados sufrió una carrera de escritura con los postchecks relacionales/documentales sobre `main`; la evidencia del runner se conserva. Los postchecks posteriores sí completaron sin introducir roturas documentales atribuibles a esta reparación.
+Durante la primera regeneración hubo una carrera de escritura entre Actions y los postchecks concurrentes. Una ejecución posterior consiguió persistir los informes frescos; la auditoría de simetría vigente ya refleja el descenso de 2 a 1 fallo.
 
 ### 4. Estado de cierre
 
@@ -53,13 +53,14 @@ El intento automático de persistir los informes regenerados sufrió una carrera
 GRITAX_CONTENT_SYMMETRY = REPAIRED
 GLOBAL_CONTENT_SYMMETRY = FAIL_1_REMAINING
 LANGUAGE_NAVIGATION = FAIL_3
+LINK_INTEGRITY = FAIL_2
 7.3-CANDIDATE = NOT_CANON
 GLOBAL_PASS = NO
 ```
 
 ### 5. Único siguiente paso
 
-Corregir **exclusivamente** el primer fallo vigente de `LANGUAGE_NAVIGATION`: añadir al caso Gritax™ el selector visible y correcto `ES · Castellano / EN · English`, sin tocar todavía las otras dos superficies ni el cuerpo conceptual.
+Corregir **exclusivamente** el primer fallo de integridad documental vigente: sustituir en la traza pública del run32 las dos apariciones bilingües de `../issues/174` por la URL pública real de la Issue #174, sin tocar ninguna otra superficie ni contenido conceptual.
 
 ---
 
@@ -84,7 +85,7 @@ The conceptual body, genealogy `XLV → LXI → LXXXII → CMN-0.1 → C-NAX-20 
 
 ### 3. Verification
 
-The `audit-global-bilingual-symmetry` execution over the material commit returned:
+The regenerated audit over the resulting state now confirms **352 active Markdown files**, **286 split ES/EN documents**, **1 sole structural failure**, **0 marker failures** and **0 paired surfaces pending**. The Gritax™ case has left the failure inventory; only `PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md` remains.
 
 ```text
 GLOBAL_BILINGUAL_SYMMETRY
@@ -94,11 +95,11 @@ paired_review = 0
 yaml_review = 0
 ```
 
-Therefore, the Gritax™ case left the structural-failure inventory and the sole remaining structural failure belongs to `PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md`.
+The independent `LANGUAGE_NAVIGATION` gate remains **FAIL**: **370 explicit ES/EN surfaces** are audited and there are **3 failures**, corresponding to the Gritax™ case, the C-NAX-20 extension and CMN-0.1, all due to a missing visible ES/EN selector. This state is neither lowered nor converted into PASS.
 
-The same execution confirmed that the independent `LANGUAGE_NAVIGATION` gate remains **FAIL** with **3 surfaces** lacking a visible ES/EN selector: the Gritax™ case, the C-NAX-20 extension and CMN-0.1. This state is neither lowered nor converted into PASS.
+The current documentary postcheck also keeps `LINK_INTEGRITY` open with **2 broken internal links**, both pre-existing in `auditorias/publicas/2026-08-25_public_maxproc_run32_ES_EN.md`, where `../issues/174` is interpreted as a missing local path. They were not repaired in this iteration in order to respect the single-material-fix rule.
 
-The automatic attempt to persist the regenerated reports encountered a concurrent-write race with relational/documentary postchecks on `main`; the runner evidence remains preserved. Later postchecks completed without introducing documentary breakage attributable to this repair.
+During the first regeneration there was a concurrent-write race between Actions and parallel postchecks. A later execution successfully persisted the fresh reports; the current symmetry audit now records the reduction from 2 failures to 1.
 
 ### 4. Closing state
 
@@ -106,10 +107,11 @@ The automatic attempt to persist the regenerated reports encountered a concurren
 GRITAX_CONTENT_SYMMETRY = REPAIRED
 GLOBAL_CONTENT_SYMMETRY = FAIL_1_REMAINING
 LANGUAGE_NAVIGATION = FAIL_3
+LINK_INTEGRITY = FAIL_2
 7.3-CANDIDATE = NOT_CANON
 GLOBAL_PASS = NO
 ```
 
 ### 5. Single next step
 
-Fix **only** the first current `LANGUAGE_NAVIGATION` failure: add the visible and correct `ES · Castellano / EN · English` selector to the Gritax™ case, without yet touching the other two surfaces or the conceptual body.
+Fix **only** the first current documentary-integrity failure: replace the two bilingual occurrences of `../issues/174` in the public run32 trace with the real public URL for Issue #174, without touching any other surface or conceptual content.
