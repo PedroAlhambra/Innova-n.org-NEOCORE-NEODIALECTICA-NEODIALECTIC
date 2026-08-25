@@ -977,7 +977,16 @@
     }
   ],
   "neoaxioms_missing_dedicated": [],
-  "broken": [],
+  "broken": [
+    {
+      "source": "auditorias/publicas/2026-08-25_public_maxproc_run32_ES_EN.md",
+      "href": "../issues/174"
+    },
+    {
+      "source": "auditorias/publicas/2026-08-25_public_maxproc_run32_ES_EN.md",
+      "href": "../issues/174"
+    }
+  ],
   "weak_publication_relations": [],
   "co_citation": [
     {
