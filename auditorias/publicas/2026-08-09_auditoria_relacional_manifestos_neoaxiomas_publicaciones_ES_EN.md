@@ -3,7 +3,7 @@
 
 **Fecha / Date:** 2026-08-25  
 **Manifiestos canónicos / Canonical manifestos:** 81 · I–LXXXI  
-**Markdown activo examinado / Active Markdown scanned:** 437  
+**Markdown activo examinado / Active Markdown scanned:** 439  
 **Archivo histórico excluido del estado vivo / Historical archive excluded from living state:** 55 archivos / files  
 **Regla de integridad:** esta auditoría no resume, acorta ni reescribe cuerpos fuente. Detecta relaciones documentales y candidatos a revisión; las relaciones semánticas o causales siguen requiriendo SAN/revisión humana. / **Integrity rule:** this audit never summarises, shortens or rewrites source bodies. It detects documentary relations and review candidates; semantic or causal relations still require SAN/human review.
 
@@ -12,7 +12,7 @@
 - Cobertura del mapa curado: **81/81**.
 - Ausentes del mapa curado: **ninguno / none**.
 - Neoaxiomas sin Síntesis específica: **ninguno / none**.
-- Enlaces locales realmente no resueltos: **3**.
+- Enlaces locales realmente no resueltos: **1**.
 - Manifiestos sin enlace entrante desde publicaciones/documentos aplicados: **0**.
 - Pares de manifiestos cocitados por ≥2 publicaciones: **508**.
 
@@ -171,8 +171,6 @@
 ## 6. Enlaces locales no resueltos
 
 - `manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md` → `../issues/174`
-- `manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md` → `../propuestas/sintesis-abierta/PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md`
-- `manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md` → `../propuestas/sintesis-abierta/PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md`
 
 ## 7. Grafo directo completo por manifiesto
 
