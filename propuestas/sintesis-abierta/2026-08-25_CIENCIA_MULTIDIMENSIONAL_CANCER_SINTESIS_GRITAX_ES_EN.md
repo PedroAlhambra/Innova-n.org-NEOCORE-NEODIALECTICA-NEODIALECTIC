@@ -49,6 +49,10 @@ OBSERVACIÓN
 
 Aplicación reproducible: [CMN-0.1](PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md).
 
+### Red documental
+
+[XLV](../../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) · [LXI](../../manifiestos/61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md) · [LXXXII](../../manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md) · [CMN-0.1](PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md) · [C-NAX-20 / Unidad diferenciada](2026-08-25_EXTENSION_C_NAX_20_UNIDAD_DIFERENCIADA_ES_EN.md) · [NEOCore 7.3-CANDIDATE](NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md) · [SAN #174](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/174)
+
 ## EN · Case 001 synthesis
 
 **Neodialectical Multidimensional Science™** is formalised as a candidate methodological programme for studying complex phenomena without prematurely reducing them to one variable, discipline, scale or metric. Each dimension must justify its relevance and remain removable when it does not improve explanation, prediction, understanding or intervention.
@@ -87,6 +91,6 @@ OBSERVATION
 
 Reproducible application: [NMS-0.1](PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md).
 
-## Red documental / Documentary network
+### Documentary network
 
-[XLV](../../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) · [LXI](../../manifiestos/61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md) · [LXXXII](../../manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md) · [CMN-0.1](PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md) · [C-NAX-20 / Unidad diferenciada](2026-08-25_EXTENSION_C_NAX_20_UNIDAD_DIFERENCIADA_ES_EN.md) · [NEOCore 7.3-CANDIDATE](NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md) · [SAN #174](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/174)
+[XLV](../../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) · [LXI](../../manifiestos/61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md) · [LXXXII](../../manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md) · [CMN-0.1](PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md) · [C-NAX-20 / Differentiated unity](2026-08-25_EXTENSION_C_NAX_20_UNIDAD_DIFERENCIADA_ES_EN.md) · [NEOCore 7.3-CANDIDATE](NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md) · [SAN #174](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/174)
