@@ -5,9 +5,11 @@
 
 > **Alcance / Scope:** el grafo vivo excluye `wiki-legacy-archive/` y las entradas raíz legacy `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` y `FOREWORD.md`. Esos nombres legacy no constituyen superficies canónicas vivas; tras su retirada de `main`, su contenido histórico permanece recuperable mediante Git. / the living graph excludes `wiki-legacy-archive/` and the root legacy entry files `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` and `FOREWORD.md`. Those legacy names are not living canonical surfaces; after retirement from `main`, their historical contents remain recoverable through Git.
 
+[ES · Castellano](#es--resultado) · [EN · English](#en--result)
+
 ## ES · Resultado
 
-- Archivos Markdown activos revisados: **426**.
+- Archivos Markdown activos revisados: **427**.
 - Archivos Markdown históricos excluidos del estado vivo: **55**.
 - Entradas legacy excluidas del estado vivo: **0**.
 - README activos revisados: **17**.
@@ -40,7 +42,7 @@
 
 ## EN · Result
 
-- Active Markdown files reviewed: **426**.
+- Active Markdown files reviewed: **427**.
 - Historical Markdown files excluded from living-state health: **55**.
 - Legacy entry files excluded from living-state health: **0**.
 - Active README files reviewed: **17**.
