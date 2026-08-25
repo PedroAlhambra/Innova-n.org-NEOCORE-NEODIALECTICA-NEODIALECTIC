@@ -5154,6 +5154,15 @@
       ]
     },
     {
+      "a": "LXI",
+      "b": "XLV",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
       "a": "LXIII",
       "b": "LXXVI",
       "sources": 2,
@@ -7001,6 +7010,13 @@
       "path": "propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md",
       "manifestos": [
         "LIII"
+      ]
+    },
+    {
+      "path": "propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md",
+      "manifestos": [
+        "LXI",
+        "XLV"
       ]
     },
     {
@@ -11589,6 +11605,7 @@
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/2026-08-15_DELTA_NEOMANTIS_ASIMETRIA_INVERTIDA_DIGNIDAD_RECIPROCA_ES_EN.md",
+          "propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md",
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md",
           "propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md"
         ]
@@ -12600,6 +12617,7 @@
           "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
+          "propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md",
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
         ]
       }
