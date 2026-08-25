@@ -1,10 +1,10 @@
 # Auditoría global de selectores de idioma ES/EN
 # Global ES/EN language-selector audit
 
-**Generada / Generated:** 2026-08-25 12:16 UTC  
+**Generada / Generated:** 2026-08-25 12:34 UTC  
 **Páginas ES/EN explícitas auditadas / Explicit ES/EN split pages audited:** **356**  
-**Fallos / Failures:** **1**  
-**LANGUAGE_SELECTOR_GATE:** **FAIL**
+**Fallos / Failures:** **0**  
+**LANGUAGE_SELECTOR_GATE:** **PASS**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -21,12 +21,12 @@ Toda superficie Markdown pública y activa que exponga capas explícitas `ES` y 
 ## Resultado
 
 - Páginas auditadas: **356**.
-- Fallos: **1**.
-- Estado: **FAIL**.
+- Fallos: **0**.
+- Estado: **PASS**.
 
 ## Detalle de fallos
 
-- `auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
+- Ningún fallo detectado. / No failures detected.
 
 ---
 
@@ -41,9 +41,9 @@ Every active public Markdown surface exposing explicit `ES` and `EN` layers must
 ## Result
 
 - Pages audited: **356**.
-- Failures: **1**.
-- Status: **FAIL**.
+- Failures: **0**.
+- Status: **PASS**.
 
 ## Failure detail
 
-- `auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
+- No failures detected. / Ningún fallo detectado.
