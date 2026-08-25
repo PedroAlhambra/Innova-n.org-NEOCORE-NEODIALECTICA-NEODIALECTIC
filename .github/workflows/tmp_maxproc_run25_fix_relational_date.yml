@@ -1,0 +1,44 @@
+name: Temporary MAXPROC Run25 fix relational audit date
+
+on:
+  push:
+    paths:
+      - '.github/workflows/tmp_maxproc_run25_fix_relational_date.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Fix relational audit generator date and regenerate
+        shell: python
+        run: |
+          from pathlib import Path
+          p = Path('.github/scripts/audit_relations_neocore.py')
+          s = p.read_text(encoding='utf-8')
+          if 'from datetime import datetime, timezone' not in s:
+              s = s.replace('from itertools import combinations\n', 'from itertools import combinations\nfrom datetime import datetime, timezone\n', 1)
+          if "RUN_DATE = datetime.now(timezone.utc).date().isoformat()" not in s:
+              s = s.replace("ROOT = Path('.').resolve()\n", "ROOT = Path('.').resolve()\nRUN_DATE = datetime.now(timezone.utc).date().isoformat()\n", 1)
+          old = "'**Fecha / Date:** 2026-08-12  ',"
+          new = "f'**Fecha / Date:** {RUN_DATE}  ',"
+          if old not in s and new not in s:
+              raise SystemExit('Expected hardcoded date line not found')
+          s = s.replace(old, new, 1)
+          p.write_text(s, encoding='utf-8')
+      - name: Regenerate relational audit
+        run: python .github/scripts/audit_relations_neocore.py
+      - name: Remove temporary workflow and commit repair
+        shell: bash
+        run: |
+          rm .github/workflows/tmp_maxproc_run25_fix_relational_date.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add .github/scripts/audit_relations_neocore.py auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones.json .github/workflows/tmp_maxproc_run25_fix_relational_date.yml
+          git commit -m 'fix(audit): make relational audit date dynamic'
+          git push
