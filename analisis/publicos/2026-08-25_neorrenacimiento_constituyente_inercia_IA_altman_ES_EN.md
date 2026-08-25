@@ -93,6 +93,13 @@ No se afirma que toda ralentización económica sea positiva ni que la inercia s
 - [Neoaxiomas](../../neoaxiomas/README.md)
 - [WEB4](../../web4/README.md)
 
+## 8. Estado de integración
+
+`CONSTITUYENTE = REGISTRADA`  
+`GENEALOGÍA = CONSTRUCCIÓN_ARQUETÍPICA_PREVIA → NEODIALÉCTICA → MARCO_ACTUAL`  
+`7.3-CANDIDATE = OPEN / NOT_CANON`  
+`CONVERGENCIA_EXTERNA ≠ ORIGEN ≠ PRUEBA`
+
 ---
 
 # EN · English
@@ -178,9 +185,7 @@ It is not claimed that every economic slowdown is positive or that social inerti
 - [Neoaxioms](../../neoaxiomas/README.md)
 - [WEB4](../../web4/README.md)
 
----
-
-## Estado de integración / Integration status
+## 8. Integration status
 
 `CONSTITUENT = RECORDED`  
 `GENEALOGY = PRIOR_ARCHETYPAL_CONSTRUCTION → NEODIALECTICS → CURRENT_FRAMEWORK`  
