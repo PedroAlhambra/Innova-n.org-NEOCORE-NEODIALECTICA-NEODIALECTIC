@@ -12,6 +12,7 @@ on:
       - '.github/scripts/audit_global_bilingual_symmetry.py'
       - '.github/scripts/audit_neoaxiom_registry_integrity.py'
       - '.github/scripts/audit_language_selectors.py'
+      - '.github/scripts/audit_markdown_links_readmes.py'
       - '.github/workflows/audit-global-bilingual-symmetry.yml'
 
 permissions:
