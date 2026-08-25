@@ -7017,6 +7017,12 @@
       ]
     },
     {
+      "path": "propuestas/sintesis-abierta/2026-08-25_DELTA_NEORRENACIMIENTO_GENEALOGIA_CONSTITUYENTES_ES_EN.md",
+      "manifestos": [
+        "XI"
+      ]
+    },
+    {
       "path": "propuestas/sintesis-abierta/2026-08-09_LV_micromaquinas_plagas_escala_invisible_debate_ES_EN.md",
       "manifestos": [
         "LV"
@@ -8544,6 +8550,7 @@
           "manifiestos/80_neotrama_hojas_reconstruidas_agua_recuperada_fuego_de_agua_ES_EN.md"
         ],
         "sintesis-abierta": [
+          "propuestas/sintesis-abierta/2026-08-25_DELTA_NEORRENACIMIENTO_GENEALOGIA_CONSTITUYENTES_ES_EN.md",
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
         ]
       }

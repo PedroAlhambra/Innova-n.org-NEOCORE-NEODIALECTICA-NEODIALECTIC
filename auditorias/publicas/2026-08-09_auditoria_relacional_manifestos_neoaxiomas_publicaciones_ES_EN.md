@@ -3,7 +3,7 @@
 
 **Fecha / Date:** 2026-08-25  
 **Manifiestos canónicos / Canonical manifestos:** 81 · I–LXXXI  
-**Markdown activo examinado / Active Markdown scanned:** 433  
+**Markdown activo examinado / Active Markdown scanned:** 434  
 **Archivo histórico excluido del estado vivo / Historical archive excluded from living state:** 55 archivos / files  
 **Regla de integridad:** esta auditoría no resume, acorta ni reescribe cuerpos fuente. Detecta relaciones documentales y candidatos a revisión; las relaciones semánticas o causales siguen requiriendo SAN/revisión humana. / **Integrity rule:** this audit never summarises, shortens or rewrites source bodies. It detects documentary relations and review candidates; semantic or causal relations still require SAN/human review.
 
@@ -358,7 +358,7 @@
 - **analisis/publicos:** `analisis/publicos/2026-08-25_neorrenacimiento_constituyente_inercia_IA_altman_ES_EN.md`
 - **otros:** `anuncios/2026-08-07_SEXTA_OLEADA_CUSTODIA_CIVILIZATORIA_Y_DELTAS_TRANSVERSALES_ES_EN.md` · `manifiestos/10_los_sin_ego_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **manifiestos:** `manifiestos/07_web4_sistematrazable_ES_EN.md` · `manifiestos/12_los_sin_ego_ES_EN.md` · `manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md` · `manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md` · `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md` · `manifiestos/78_neorrenacimiento_incontrolabilidad_intrinseca_sistema_humano_ES_EN.md` · `manifiestos/80_neotrama_hojas_reconstruidas_agua_recuperada_fuego_de_agua_ES_EN.md`
-- **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md`
+- **sintesis-abierta:** `propuestas/sintesis-abierta/2026-08-25_DELTA_NEORRENACIMIENTO_GENEALOGIA_CONSTITUYENTES_ES_EN.md` · `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md`
 
 ### XII · Los sin ego / The Egoless
 `manifiestos/12_los_sin_ego_ES_EN.md`
