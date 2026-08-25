@@ -98,7 +98,7 @@ Keeping them open added an ambiguous public signal about pending work and a risk
 
 ## Action
 
-#165 and #167 were closed **without merge** and without modifying their branches or rewriting their history. Closure is reversible and preserves their commits, discussion and full genealogy.
+PRs #165 and #167 were closed **without merge** and without modifying their branches or rewriting their history. Closure is reversible and preserves their commits, discussion and full genealogy.
 
 No manifesto, Neoaxiom™, Open Synthesis, WEB4™, analysis, work, canonical state or substantive content was modified.
 
@@ -126,4 +126,4 @@ No #165/#167 public maintenance PRs remain open. The highest-priority gate witho
 
 ## NEXT_STEP / PASO_SIGUIENTE
 
-Run a fresh `LINK_INTEGRITY` audit over the entire active public corpus —including README files, live and canonical manifestos, Neoaxioms™, Open Synthesis, audits, analyses, works, WEB4™ and wiki-source— and, if any broken internal link or nonexistent target is found, repair only the first demonstrable defect without weakening any gate.
+Run a fresh `LINK_INTEGRITY` audit over the entire active public corpus —including README files, live and canonical manifestos, Neoaxioms™, Open Synthesis, audits, analyses, works, WEB4™ and wiki-source—and, if any broken internal link or nonexistent target is found, repair only the first demonstrable defect without weakening any gate.
