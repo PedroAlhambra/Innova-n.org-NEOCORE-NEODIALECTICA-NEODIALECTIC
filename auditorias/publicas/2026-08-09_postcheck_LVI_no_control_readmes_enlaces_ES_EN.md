@@ -1,7 +1,7 @@
 # Postcheck dinámico · README, índices y enlaces / Dynamic README, indices and links postcheck
 
 **Fecha / Date:** 2026-08-25  
-**Estado / Status:** **REQUIERE CORRECCIÓN / NEEDS CORRECTION**
+**Estado / Status:** **OK**
 
 > **Alcance / Scope:** el grafo vivo excluye `wiki-legacy-archive/` y las entradas raíz legacy `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` y `FOREWORD.md`. Esos nombres legacy no constituyen superficies canónicas vivas; tras su retirada de `main`, su contenido histórico permanece recuperable mediante Git. / the living graph excludes `wiki-legacy-archive/` and the root legacy entry files `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` and `FOREWORD.md`. Those legacy names are not living canonical surfaces; after retirement from `main`, their historical contents remain recoverable through Git.
 
@@ -13,16 +13,16 @@
 - Archivos Markdown históricos excluidos del estado vivo: **55**.
 - Entradas legacy excluidas del estado vivo: **0**.
 - README activos revisados: **17**.
-- Enlaces internos de ruta comprobados: **10822**.
+- Enlaces internos de ruta comprobados: **10827**.
 - Alias internos de GitHub Wiki reconocidos: **44**.
-- Enlaces externos inventariados sin comprobar disponibilidad remota: **1972**.
+- Enlaces externos inventariados sin comprobar disponibilidad remota: **1973**.
 - Enlaces sólo a ancla detectados: **781**.
 - Bloques de último manifiesto encontrados en README: **8**.
 - Bloques legacy NEO_CURRENT_NAV encontrados en README: **0**.
 - Bloques redundantes MANIFESTOS_CURRENT encontrados en README: **0**.
 - Manifiestos canónicos detectados: **81 · I–LXXXI**.
 - Último manifiesto / Síntesis: **LXXXI / #160**.
-- Enlaces internos rotos del grafo vivo: **1**.
+- Enlaces internos rotos del grafo vivo: **0**.
 - Fallos canónicos críticos: **0**.
 
 ### Comprobaciones canónicas
@@ -38,9 +38,7 @@
 
 ### Enlaces internos rotos del grafo vivo
 
-| Origen | Destino | Motivo |
-|---|---|---|
-| `manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md` | `../issues/174` | destino inexistente / missing target |
+- Ninguno detectado por el validador de rutas del repositorio.
 
 ## EN · Result
 
@@ -48,16 +46,16 @@
 - Historical Markdown files excluded from living-state health: **55**.
 - Legacy entry files excluded from living-state health: **0**.
 - Active README files reviewed: **17**.
-- Internal path links checked: **10822**.
+- Internal path links checked: **10827**.
 - GitHub Wiki extensionless page aliases recognised: **44**.
-- External links inventoried without checking remote availability: **1972**.
+- External links inventoried without checking remote availability: **1973**.
 - Anchor-only links detected: **781**.
 - Latest-manifesto blocks found in README files: **8**.
 - Legacy NEO_CURRENT_NAV blocks found in README files: **0**.
 - Redundant MANIFESTOS_CURRENT blocks found in README files: **0**.
 - Canonical manifestos detected: **81 · I–LXXXI**.
 - Latest manifesto / synthesis: **LXXXI / #160**.
-- Broken internal links in the living graph: **1**.
+- Broken internal links in the living graph: **0**.
 - Canonical critical failures: **0**.
 
 ### Canonical checks
@@ -73,8 +71,6 @@
 
 ### Broken internal links in the living graph
 
-| Source | Target | Reason |
-|---|---|---|
-| `manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md` | `../issues/174` | destino inexistente / missing target |
+- None detected by the repository route validator.
 
 **Innova_N · NEOCore™ · Neodialectica Framework™ / Network**
