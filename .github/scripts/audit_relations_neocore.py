@@ -2,8 +2,10 @@ from pathlib import Path
 import re, json
 from collections import defaultdict
 from itertools import combinations
+from datetime import datetime, timezone
 
 ROOT = Path('.').resolve()
+RUN_DATE = datetime.now(timezone.utc).date().isoformat()
 EXCLUDED_TOP_LEVEL = {'wiki-legacy-archive'}
 MD = [
     p for p in ROOT.rglob('*.md')
@@ -204,7 +206,7 @@ for p in entry:
 lines=[
 '# Auditoría relacional MAXPROC · Manifiestos ↔ Neoaxiomas ↔ publicaciones ↔ Síntesis Abierta',
 '## MAXPROC relational audit · Manifestos ↔ Neoaxioms ↔ publications ↔ Open Synthesis','',
-'**Fecha / Date:** 2026-08-12  ',
+f'**Fecha / Date:** {RUN_DATE}  ',
 f'**Manifiestos canónicos / Canonical manifestos:** {len(manifestos)} · I–{manifestos[-1][0]}  ',
 f'**Markdown activo examinado / Active Markdown scanned:** {len(MD)}  ',
 f'**Archivo histórico excluido del estado vivo / Historical archive excluded from living state:** {len(ARCHIVED_MD)} archivos / files  ',

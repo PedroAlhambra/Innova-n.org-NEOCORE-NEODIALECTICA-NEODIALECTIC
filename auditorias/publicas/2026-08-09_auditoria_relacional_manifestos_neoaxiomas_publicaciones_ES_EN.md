@@ -1,7 +1,7 @@
 # Auditoría relacional MAXPROC · Manifiestos ↔ Neoaxiomas ↔ publicaciones ↔ Síntesis Abierta
 ## MAXPROC relational audit · Manifestos ↔ Neoaxioms ↔ publications ↔ Open Synthesis
 
-**Fecha / Date:** 2026-08-12  
+**Fecha / Date:** 2026-08-25  
 **Manifiestos canónicos / Canonical manifestos:** 81 · I–LXXXI  
 **Markdown activo examinado / Active Markdown scanned:** 426  
 **Archivo histórico excluido del estado vivo / Historical archive excluded from living state:** 55 archivos / files  
