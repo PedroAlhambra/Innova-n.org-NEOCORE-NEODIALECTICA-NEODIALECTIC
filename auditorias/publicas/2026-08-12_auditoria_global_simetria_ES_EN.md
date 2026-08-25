@@ -7,16 +7,17 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **343**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **277**.
-- Fallos estructurales divididos / Split structural failures: **0**.
+- Markdown activo examinado / Active Markdown scanned: **345**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **279**.
+- Fallos estructurales divididos / Split structural failures: **1**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
 
-- Ninguno / None.
+- `analisis/publicos/2026-08-25_neorrenacimiento_constituyente_inercia_IA_altman_ES_EN.md` · ES=517 · EN=513 · ratio=0.99
+  - esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '')]
 
 ## Marcadores / Markers
 
@@ -78,6 +79,7 @@
 | `analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-13_convergencia-neodialectica-meta-zuckerberg_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md` | **OK** |  |
+| `analisis/publicos/2026-08-25_neorrenacimiento_constituyente_inercia_IA_altman_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7')] EN=[(2, '1'), (2, '2'), (2, '3'), (2, '4'), (2, '5'), (2, '6'), (2, '7'), (2, '')] |
 | `analisis/publicos/README.md` | **OK** |  |
 | `analisis/publicos/evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `analisis/publicos/evidencias/2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md` | **OK** |  |
@@ -297,6 +299,7 @@
 | `propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_03A_XXXIII_XLII_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_03B_XLIII_LII_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_DELTA_CONTINUIDAD_CREADORA_NEO0_TOROIDE_ES_EN.md` | **OK** |  |
+| `propuestas/sintesis-abierta/2026-08-25_DELTA_NEORRENACIMIENTO_GENEALOGIA_CONSTITUYENTES_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_v0.1_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md` | **OK** |  |
