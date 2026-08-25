@@ -1,0 +1,30 @@
+name: Temporary MAXPROC Run25 relational audit
+
+on:
+  push:
+    paths:
+      - '.github/workflows/tmp_maxproc_run25_relational_audit.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Run fresh relational audit
+        shell: bash
+        run: |
+          python .github/scripts/audit_relations_neocore.py
+      - name: Remove temporary workflow and commit audit result
+        shell: bash
+        run: |
+          rm .github/workflows/tmp_maxproc_run25_relational_audit.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones.json .github/workflows/tmp_maxproc_run25_relational_audit.yml
+          git commit -m 'audit: refresh public relational integrity for MAXPROC run25'
+          git push
