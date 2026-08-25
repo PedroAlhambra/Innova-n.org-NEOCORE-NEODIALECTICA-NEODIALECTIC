@@ -7,18 +7,15 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **351**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **285**.
-- Fallos estructurales divididos / Split structural failures: **2**.
+- Markdown activo examinado / Active Markdown scanned: **352**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **286**.
+- Fallos estructurales divididos / Split structural failures: **1**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
 
-- `propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md` · ES=135 · EN=209 · ratio=1.55
-  - volumen EN/ES=1.55 (209/135)
-  - esqueleto de encabezados distinto ES=[(3, '')] EN=[(3, ''), (2, '')]
 - `propuestas/sintesis-abierta/PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md` · ES=248 · EN=257 · ratio=1.04
   - esqueleto de encabezados distinto ES=[(3, ''), (3, '')] EN=[(3, ''), (3, ''), (2, '')]
 
@@ -185,6 +182,7 @@
 | `auditorias/publicas/2026-08-25_public_maxproc_run30_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-25_public_maxproc_run31_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-25_public_maxproc_run32_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-08-25_public_maxproc_run33_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/README.md` | **OK** |  |
@@ -305,7 +303,7 @@
 | `propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_03A_XXXIII_XLII_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_03B_XLIII_LII_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_DELTA_CONTINUIDAD_CREADORA_NEO0_TOROIDE_ES_EN.md` | **OK** |  |
-| `propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md` | **REVISAR** | volumen EN/ES=1.55 (209/135); esqueleto de encabezados distinto ES=[(3, '')] EN=[(3, ''), (2, '')] |
+| `propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-25_DELTA_NEORRENACIMIENTO_GENEALOGIA_CONSTITUYENTES_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-25_EXTENSION_C_NAX_20_UNIDAD_DIFERENCIADA_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_v0.1_ES_EN.md` | **OK** |  |
