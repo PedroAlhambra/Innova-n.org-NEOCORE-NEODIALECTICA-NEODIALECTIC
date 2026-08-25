@@ -174,6 +174,8 @@ lines = [
     '',
     '> **Alcance / Scope:** el grafo vivo excluye `wiki-legacy-archive/` y las entradas raíz legacy `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` y `FOREWORD.md`. Esos nombres legacy no constituyen superficies canónicas vivas; tras su retirada de `main`, su contenido histórico permanece recuperable mediante Git. / the living graph excludes `wiki-legacy-archive/` and the root legacy entry files `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` and `FOREWORD.md`. Those legacy names are not living canonical surfaces; after retirement from `main`, their historical contents remain recoverable through Git.',
     '',
+    '[ES · Castellano](#es--resultado) · [EN · English](#en--result)',
+    '',
     '## ES · Resultado',
     '',
     f'- Archivos Markdown activos revisados: **{len(markdown_files)}**.',
