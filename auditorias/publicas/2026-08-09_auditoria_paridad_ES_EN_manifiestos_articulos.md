@@ -12,7 +12,7 @@
 - Los bloques generados de navegación, relaciones compartidas, referencias cruzadas y colas de navegación específicas de idioma no se contabilizan como traducción.
 - `REVISAR` bloquea la publicación automática de manifiestos; `ADVERTENCIA` exige inspección editorial pero no demuestra por sí sola recorte.
 
-**Documentos bilingües examinados:** 110  
+**Documentos bilingües examinados:** 111  
 **Recortes/materialmente asimétricos para revisión:** 0  
 **Advertencias estructurales sin prueba suficiente de recorte:** 0  
 **Con marcador incompleto/ausente:** 0
@@ -143,5 +143,6 @@
 | `analisis/publicos/2026-08-10_addendum_tidal_yellow_quasar_perfil_duplicado_uno_playlists_ES_EN.md` | 362 | 335 | 0.93 | 5 | 5 | OK |
 | `analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md` | 1080 | 1091 | 1.01 | 16 | 16 | OK |
 | `analisis/publicos/2026-08-13_convergencia-neodialectica-meta-zuckerberg_ES_EN.md` | 785 | 762 | 0.97 | 9 | 9 | OK |
+| `analisis/publicos/2026-08-25_neorrenacimiento_constituyente_inercia_IA_altman_ES_EN.md` | 539 | 511 | 0.95 | 8 | 8 | OK |
 
 > La paridad editorial exigida no significa traducción palabra por palabra ni idéntica maquetación, pero sí conservación íntegra de tesis, secciones, matices, cautelas epistemológicas, ejemplos, fórmulas, relaciones y conclusión.
