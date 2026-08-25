@@ -23,21 +23,17 @@ El corte previo mostraba:
 
 ## 2. Primer fallo real prioritario
 
-El primer defecto real y verificable era el enlace de cabecera de `manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md`:
+El primer defecto real y verificable era el enlace de cabecera de `manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md`. La traza histórica contenía originalmente la ruta relativa `../issues/174`, que el postcheck interpretaba como una ruta interna inexistente. La Issue **#174** sí existe y corresponde a la Síntesis Abierta de Ciencia Multidimensional Neodialéctica™ y «Cáncer de la Síntesis»; el mismo manifiesto ya contenía más abajo el enlace absoluto correcto.
 
-```text
-[#174](../issues/174)
-```
-
-El postcheck lo interpretaba como una ruta interna inexistente. La Issue **#174** sí existe y corresponde a la Síntesis Abierta de Ciencia Multidimensional Neodialéctica™ y «Cáncer de la Síntesis»; el mismo manifiesto ya contenía más abajo el enlace absoluto correcto.
-
-## 3. Corrección aplicada
-
-Se sustituyó exclusivamente el enlace roto de cabecera por la URL GitHub real de la Síntesis Abierta #174:
+Enlace correcto:
 
 ```text
 https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/174
 ```
+
+## 3. Corrección aplicada
+
+Se sustituyó exclusivamente el enlace roto de cabecera por la URL GitHub real de la Síntesis Abierta #174.
 
 **Commit material:** `c7941b54e632a794a7ca32f9d6b68c4eac591956`.
 
@@ -94,21 +90,17 @@ The previous cut showed:
 
 ## 2. First real priority defect
 
-The first real and verifiable defect was the header link in `manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md`:
+The first real and verifiable defect was the header link in `manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md`. The historical trace originally contained the relative path `../issues/174`, which the postcheck interpreted as a nonexistent internal path. Issue **#174** does exist and is the Open Synthesis for Neodialectical Multidimensional Science™ and the “Cancer of Synthesis”; the same manifesto already contained the correct absolute link further down.
 
-```text
-[#174](../issues/174)
-```
-
-The postcheck interpreted it as a nonexistent internal path. Issue **#174** does exist and is the Open Synthesis for Neodialectical Multidimensional Science™ and the “Cancer of Synthesis”; the same manifesto already contained the correct absolute link further down.
-
-## 3. Applied correction
-
-Only the broken header link was replaced with the real GitHub URL for Open Synthesis #174:
+Correct link:
 
 ```text
 https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/174
 ```
+
+## 3. Applied correction
+
+Only the broken header link was replaced with the real GitHub URL for Open Synthesis #174.
 
 **Material commit:** `c7941b54e632a794a7ca32f9d6b68c4eac591956`.
 
