@@ -6,6 +6,7 @@ on:
   workflow_dispatch:
   push:
     paths:
+      - 'README.md'
       - 'manifiestos/*.md'
       - 'manifiestos/README.md'
       - 'manifiestos/CANONICAL_FILENAMES.json'
@@ -107,7 +108,7 @@ jobs:
           head -n 16 auditorias/publicas/2026-08-12_auditoria_estructura_bilingue_manifiestos_ES_EN.md
           echo '--- RELATIONAL AUDIT ---'
           head -n 28 auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md
-      - name: Enforce healthy documentary graph, bilingual parity and relations
+      - name: Enforce healthy documentary graph, bilingual parity, relations and candidate boundary
         run: |
           python - <<'PY'
           from pathlib import Path
@@ -146,6 +147,20 @@ jobs:
           applied=Path('manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md').read_text(encoding='utf-8')
           if f'{n} manifiestos finitos' not in applied or f'{n} finite manifestos' not in applied:
               raise SystemExit('Applied-work relational map inventory is stale; publish aborted.')
+
+          # Canonical-state gate: the living root must remain explicitly candidate,
+          # and the canonical Open Synthesis index must preserve an explicit promotion gate.
+          root=Path('README.md').read_text(encoding='utf-8')
+          first=root.splitlines()[0] if root.splitlines() else ''
+          if 'NEOCore™ 7.3-CANDIDATE' not in first:
+              raise SystemExit('CANONICAL_STATE violation: living root is not 7.3-CANDIDATE; publish aborted.')
+          if 'NEOCore™ 7.3 ·' in first or 'NEOCore™ 7.3 CANON' in root:
+              raise SystemExit('CANONICAL_STATE violation: 7.3 appears promoted to canon; publish aborted.')
+          synth_index=Path('propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md').read_text(encoding='utf-8')
+          candidate_rule='promoción a canon sólo tras completar cobertura, clasificación de fuentes/evidencia, simetría, Neoaxiomas y auditoría relacional final. / promotion to canon only after completing coverage, source/evidence classification, symmetry, Neoaxioms and final relational audit.'
+          if '`7.3-CANDIDATE`' not in synth_index or candidate_rule not in synth_index:
+              raise SystemExit('CANONICAL_STATE promotion gate missing from Open Synthesis index; publish aborted.')
+
           print(f'MANIFESTO_REGISTRY=OK ({n})')
           print('NEOAXIOM_REGISTRY=OK')
           print('DOCUMENTARY_GRAPH=OK')
@@ -153,6 +168,7 @@ jobs:
           print('BILINGUAL_STRUCTURE=OK')
           print('RELATIONAL_GRAPH=OK')
           print('APPLIED_RELATIONAL_FRONTIER=OK')
+          print('CANONICAL_STATE=7.3-CANDIDATE/NOT_CANON')
           PY
       - name: Commit synchronized network if needed
         run: |
