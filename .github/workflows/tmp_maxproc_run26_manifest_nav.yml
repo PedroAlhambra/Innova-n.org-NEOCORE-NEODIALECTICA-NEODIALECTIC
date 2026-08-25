@@ -16,7 +16,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: Repair false language navigation and verify gates
-        shell: python
+        shell: python {0}
         run: |
           from pathlib import Path
           p = Path('manifiestos/README.md')
