@@ -4,15 +4,10 @@ on:
   workflow_dispatch:
   push:
     paths:
+      - '**/*.md'
       - '.github/workflows/audit-markdown-readmes-links.yml'
       - '.github/scripts/audit_markdown_links_readmes.py'
-      - 'README.md'
-      - 'LEEME.md'
-      - '**/README.md'
-      - 'manifiestos/*.md'
-      - 'manifiestos/canonicos/*.md'
       - 'manifiestos/CANONICAL_FILENAMES.json'
-      - 'propuestas/sintesis-abierta/**/*.md'
 
 permissions:
   contents: write
