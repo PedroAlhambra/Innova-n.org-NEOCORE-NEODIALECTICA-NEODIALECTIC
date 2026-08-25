@@ -4,7 +4,7 @@
 **Fecha / Date:** 2026-08-25  
 **Estado / Status:** Público · Síntesis Abierta · NEOCore™ 7.3-CANDIDATE / Public · Open Synthesis · NEOCore™ 7.3-CANDIDATE  
 **Autoría / Authorship:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico  
-**Síntesis Abierta / Open Synthesis:** [#174](../issues/174)  
+**Síntesis Abierta / Open Synthesis:** [#174](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/174)  
 **Genealogía / Genealogy:** [XLV · Multidimensionalidad Neodialéctica™](45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) → [LXI · Custodia Experimental Multiescalar™](61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md) → [NEOCore™ 7.3-CANDIDATE](../propuestas/sintesis-abierta/NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md) → LXXXII.  
 **Protocolo operativo / Operational protocol:** [CMN-0.1](../propuestas/sintesis-abierta/PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md)  
 **Caso 001 / Case 001:** [Cáncer de la Síntesis™ / Gritax™](../propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md)
