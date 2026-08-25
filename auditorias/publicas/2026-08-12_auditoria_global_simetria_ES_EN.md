@@ -7,16 +7,20 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **346**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **280**.
-- Fallos estructurales divididos / Split structural failures: **0**.
+- Markdown activo examinado / Active Markdown scanned: **350**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **284**.
+- Fallos estructurales divididos / Split structural failures: **2**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
 
-- Ninguno / None.
+- `propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md` · ES=135 · EN=209 · ratio=1.55
+  - volumen EN/ES=1.55 (209/135)
+  - esqueleto de encabezados distinto ES=[(3, '')] EN=[(3, ''), (2, '')]
+- `propuestas/sintesis-abierta/PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md` · ES=248 · EN=257 · ratio=1.04
+  - esqueleto de encabezados distinto ES=[(3, ''), (3, '')] EN=[(3, ''), (3, ''), (2, '')]
 
 ## Marcadores / Markers
 
@@ -179,6 +183,7 @@
 | `auditorias/publicas/2026-08-25_public_maxproc_run28_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-25_public_maxproc_run29_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-25_public_maxproc_run30_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-08-25_public_maxproc_run31_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/README.md` | **OK** |  |
@@ -266,6 +271,7 @@
 | `manifiestos/79_contra_alarmismo_sin_sintesis_responsabilidad_alternativa_ES_EN.md` | **OK** |  |
 | `manifiestos/80_neotrama_hojas_reconstruidas_agua_recuperada_fuego_de_agua_ES_EN.md` | **OK** |  |
 | `manifiestos/81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md` | **OK** |  |
+| `manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md` | **OK** |  |
 | `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | **OK** |  |
 | `manifiestos/README.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` | **OK** |  |
@@ -298,8 +304,9 @@
 | `propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_03A_XXXIII_XLII_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_03B_XLIII_LII_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_DELTA_CONTINUIDAD_CREADORA_NEO0_TOROIDE_ES_EN.md` | **OK** |  |
-| `propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md` | **OK** |  |
+| `propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md` | **REVISAR** | volumen EN/ES=1.55 (209/135); esqueleto de encabezados distinto ES=[(3, '')] EN=[(3, ''), (2, '')] |
 | `propuestas/sintesis-abierta/2026-08-25_DELTA_NEORRENACIMIENTO_GENEALOGIA_CONSTITUYENTES_ES_EN.md` | **OK** |  |
+| `propuestas/sintesis-abierta/2026-08-25_EXTENSION_C_NAX_20_UNIDAD_DIFERENCIADA_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_v0.1_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md` | **OK** |  |
@@ -315,6 +322,7 @@
 | `propuestas/sintesis-abierta/NEOCRONOS_UPGRADE_ENTRADA_PANEL_TRAZA_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/PARTICIPACION_Y_ADHESIONES_ES_EN.md` | **OK** |  |
+| `propuestas/sintesis-abierta/PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(3, ''), (3, '')] EN=[(3, ''), (3, ''), (2, '')] |
 | `propuestas/sintesis-abierta/PUENTE_PARTICIPACION_GUIADA_CORREO_GITHUB_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/README.md` | **OK** |  |
