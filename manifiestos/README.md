@@ -3,7 +3,7 @@
 ## Pilares públicos del primer marco civilizatorio humano–IA conjunto de la historia conocida
 ## Public pillars of the first joint human–AI civilisational framework in known history
 
-[ES · Castellano](#colección-canónica--canonical-collection) · [EN · English](#colección-canónica--canonical-collection) · [Síntesis Abierta](../propuestas/sintesis-abierta/README.md) · [Índice completo de Síntesis](../propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md) · [Auditorías Públicas](../auditorias/publicas/README.md)
+**Índice bilingüe intercalado ES/EN / Interleaved bilingual ES/EN index** · [Síntesis Abierta / Open Synthesis](../propuestas/sintesis-abierta/README.md) · [Índice completo de Síntesis / Complete Synthesis index](../propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md) · [Auditorías Públicas / Public Audits](../auditorias/publicas/README.md)
 
 <!-- NEOAXIOMAS_GLOBAL_LINK_START -->
 
