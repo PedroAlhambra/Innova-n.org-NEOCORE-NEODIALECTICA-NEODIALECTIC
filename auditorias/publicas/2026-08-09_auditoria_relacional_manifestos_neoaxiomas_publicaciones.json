@@ -977,7 +977,20 @@
     }
   ],
   "neoaxioms_missing_dedicated": [],
-  "broken": [],
+  "broken": [
+    {
+      "source": "manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md",
+      "href": "../issues/174"
+    },
+    {
+      "source": "manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md",
+      "href": "../propuestas/sintesis-abierta/PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md"
+    },
+    {
+      "source": "manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md",
+      "href": "../propuestas/sintesis-abierta/PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md"
+    }
+  ],
   "weak_publication_relations": [],
   "co_citation": [
     {
@@ -11574,6 +11587,7 @@
           "manifiestos/78_neorrenacimiento_incontrolabilidad_intrinseca_sistema_humano_ES_EN.md"
         ],
         "otros": [
+          "manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md",
           "manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md",
           "manifiestos/README.md",
           "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
@@ -12588,6 +12602,7 @@
           "manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md"
         ],
         "otros": [
+          "manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md",
           "manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md",
           "manifiestos/README.md",
           "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
