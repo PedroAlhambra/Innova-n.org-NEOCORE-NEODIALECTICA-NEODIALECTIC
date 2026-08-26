@@ -15,7 +15,8 @@ follow = root / 'proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md'
 neoaxioms = root / 'neoaxiomas/README.md'
 neoaxioms_protocol = root / 'propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md'
 neoaxioms_issue = 'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80'
-CURRENT_VERSION = '7.3-CANDIDATE'
+CURRENT_VERSION = '7.3 CANON ABIERTO'
+CURRENT_VERSION_EN = '7.3 OPEN CANON'
 
 for p in (index, protocol, synth_index, audits, leonidas, entry_register, follow, neoaxioms, neoaxioms_protocol):
     if not p.exists():
@@ -74,7 +75,7 @@ def neoaxioms_block(f):
     return f'''{NAX_START}
 
 ## NEOCore™ {CURRENT_VERSION} · Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™ + Soberanía de Síntesis™
-## NEOCore™ {CURRENT_VERSION} · First Fractal Multihead Layer™ + Neoaxiomatic Layer™ + Synthesis Sovereignty™
+## NEOCore™ {CURRENT_VERSION_EN} · First Fractal Multihead Layer™ + Neoaxiomatic Layer™ + Synthesis Sovereignty™
 
 Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin convertirse en dogmas cerrados: permanecen abiertos a contraste, evidencia, crítica, refutación y revisión mediante **Síntesis Abierta Neodialéctica™ — SAN™**. / **Neoaxioms™** express high-stability principles of NEOCore™ without becoming closed dogma: they remain open to challenge, evidence, criticism, refutation and revision through **Neodialectical Open Synthesis™ — SAN™**.
 
@@ -83,12 +84,11 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 {NAX_END}'''
 
 def replace_version(text):
-    # Live README surfaces follow CURRENT_VERSION. Dated audit snapshots
-    # live outside this synchroniser and retain the state they recorded.
-    text = re.sub(r'NEOCore™\s+v?7\.[01]', f'NEOCore™ {CURRENT_VERSION}', text)
-    text = re.sub(r'NEOCore\s+v?7\.[01]', f'NEOCore {CURRENT_VERSION}', text)
-    text = re.sub(r'NEOCore™\s+7\.x', f'NEOCore™ {CURRENT_VERSION}', text)
-    text = re.sub(r'NEOCore\s+7\.x', f'NEOCore {CURRENT_VERSION}', text)
+    # Living README surfaces follow the current canonical state. Dated audit
+    # snapshots may preserve the state they recorded, but must not be used as
+    # the live version surface.
+    text = re.sub(r'NEOCore™\s+(?:v?7\.[01]|7\.x|7\.3-CANDIDATE)', f'NEOCore™ {CURRENT_VERSION}', text)
+    text = re.sub(r'NEOCore\s+(?:v?7\.[01]|7\.x|7\.3-CANDIDATE)', f'NEOCore {CURRENT_VERSION}', text)
     return text
 
 def insert_neoaxioms(text, f):
@@ -121,16 +121,16 @@ for f in readmes:
         f.write_text(text,encoding='utf-8'); changed.append(f)
 
 fail=[]
-old_version_re = re.compile(r'NEOCore(?:™)?\s+(?:v?7\.[01]|7\.x)')
+old_version_re = re.compile(r'NEOCore(?:™)?\s+(?:v?7\.[01]|7\.x|7\.3-CANDIDATE)')
 for f in readmes:
     text=f.read_text(encoding='utf-8')
     if START in text:
-        m=re.search(re.escape(START)+r'(.*?)'+re.escape(END),text,re.S)
-        if not m or latest.name not in m.group(1):
+        m=re.search(re.escape(START)+r'.*?'+re.escape(END),text,re.S)
+        if not m or latest.name not in m.group(0):
             fail.append(f'{f.relative_to(root)} latest path')
-        if not m or f'#{issue_num}' not in m.group(1):
+        if not m or f'#{issue_num}' not in m.group(0):
             fail.append(f'{f.relative_to(root)} latest issue')
-        if not m or 'SEGUIR_MARCO_SINTESIS_ES_EN.md' not in m.group(1) or 'REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md' not in m.group(1):
+        if not m or 'SEGUIR_MARCO_SINTESIS_ES_EN.md' not in m.group(0) or 'REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md' not in m.group(0):
             fail.append(f'{f.relative_to(root)} follow/register links missing')
     if text.count(NAX_START) != 1 or text.count(NAX_END) != 1:
         fail.append(f'{f.relative_to(root)} Neoaxioms block count')
