@@ -7,15 +7,17 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **355**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **289**.
-- Fallos estructurales divididos / Split structural failures: **3**.
+- Markdown activo examinado / Active Markdown scanned: **356**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **290**.
+- Fallos estructurales divididos / Split structural failures: **4**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
 
+- `auditorias/publicas/2026-08-26_addendum_kdp_vinculacion_cruzada_es_en_formatos_51071689_ES_EN.md` · ES=625 · EN=535 · ratio=0.86
+  - ES · Evidencia y acción: párrafos ES=4 EN=3
 - `manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md` · ES=743 · EN=726 · ratio=0.98
   - 10: párrafos ES=4 EN=5
 - `propuestas/sintesis-abierta/NEOCORE_7_3_CANON_ES_EN.md` · ES=215 · EN=168 · ratio=0.78
@@ -189,6 +191,7 @@
 | `auditorias/publicas/2026-08-25_public_maxproc_run32_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-25_public_maxproc_run33_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-25_public_maxproc_run34_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-08-26_addendum_kdp_vinculacion_cruzada_es_en_formatos_51071689_ES_EN.md` | **REVISAR** | ES · Evidencia y acción: párrafos ES=4 EN=3 |
 | `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/README.md` | **OK** |  |

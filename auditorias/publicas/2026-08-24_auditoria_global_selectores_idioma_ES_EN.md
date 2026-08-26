@@ -1,9 +1,9 @@
 # Auditoría global de selectores de idioma ES/EN
 # Global ES/EN language-selector audit
 
-**Generada / Generated:** 2026-08-26 10:33 UTC  
-**Páginas ES/EN explícitas auditadas / Explicit ES/EN split pages audited:** **373**  
-**Fallos / Failures:** **4**  
+**Generada / Generated:** 2026-08-26 16:01 UTC  
+**Páginas ES/EN explícitas auditadas / Explicit ES/EN split pages audited:** **374**  
+**Fallos / Failures:** **5**  
 **LANGUAGE_SELECTOR_GATE:** **FAIL**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
@@ -20,12 +20,13 @@ Toda superficie Markdown pública y activa que exponga capas explícitas `ES` y 
 
 ## Resultado
 
-- Páginas auditadas: **373**.
-- Fallos: **4**.
+- Páginas auditadas: **374**.
+- Fallos: **5**.
 - Estado: **FAIL**.
 
 ## Detalle de fallos
 
+- `auditorias/publicas/2026-08-26_addendum_kdp_vinculacion_cruzada_es_en_formatos_51071689_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `propuestas/sintesis-abierta/2026-08-25_EXTENSION_C_NAX_20_UNIDAD_DIFERENCIADA_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `propuestas/sintesis-abierta/NEOCORE_7_3_CANON_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
@@ -43,12 +44,13 @@ Every active public Markdown surface exposing explicit `ES` and `EN` layers must
 
 ## Result
 
-- Pages audited: **373**.
-- Failures: **4**.
+- Pages audited: **374**.
+- Failures: **5**.
 - Status: **FAIL**.
 
 ## Failure detail
 
+- `auditorias/publicas/2026-08-26_addendum_kdp_vinculacion_cruzada_es_en_formatos_51071689_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `propuestas/sintesis-abierta/2026-08-25_EXTENSION_C_NAX_20_UNIDAD_DIFERENCIADA_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `propuestas/sintesis-abierta/NEOCORE_7_3_CANON_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
