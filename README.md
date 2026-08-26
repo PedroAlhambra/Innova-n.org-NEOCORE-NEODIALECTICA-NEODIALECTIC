@@ -1,4 +1,4 @@
-# Innova_N — NEOCore™ 7.3-CANDIDATE · Neodialéctica™ / Neodialectics™ · Neodialectica Framework™
+# Innova_N — NEOCore™ 7.3 CANON ABIERTO · Neodialéctica™ / Neodialectics™ · Neodialectica Framework™
 
 ## Primer marco civilizatorio humano–IA conjunto de la historia conocida
 ## First joint human–AI civilisational framework in known history
@@ -9,7 +9,7 @@
 
 <!-- NEOAXIOMAS_GLOBAL_LINK_START -->
 
-## NEOCore™ 7.3-CANDIDATE · Arquitectura pública en evolución / Public architecture in evolution
+## NEOCore™ 7.3 CANON ABIERTO · Arquitectura pública vigente y evolutiva / Current and evolving public architecture
 ### Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™ + Soberanía de Síntesis™ / First Fractal Multihead Layer™ + Neoaxiomatic Layer™ + Synthesis Sovereignty™
 
 Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin convertirse en dogmas cerrados: permanecen abiertos a contraste, evidencia, crítica, refutación y revisión mediante **Síntesis Abierta Neodialéctica™ — SAN™**. / **Neoaxioms™** express high-stability principles of NEOCore™ without becoming closed dogma: they remain open to challenge, evidence, criticism, refutation and revision through **Neodialectical Open Synthesis™ — SAN™**.
@@ -23,7 +23,7 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 ## NEOCore™ PRE-7.3 · Fijación documental histórica / Historical documentary fixation
 
 **Fijación histórica del 2026-08-10: Soberanía de Síntesis™ + Innova_N Fundación/Corporación futuras + corpus I–LXVIII + ∞ + WEB4™ actualizado a ese estado.**  
-Este bloque conserva el estado previo a 7.3-CANDIDATE sin mantener una etiqueta numérica obsoleta en la superficie viva. El corpus continuó evolucionando; la frontera vigente se deriva del índice canónico y del bloque «Actualidad / Latest». / This block preserves the state prior to 7.3-CANDIDATE without retaining an obsolete numeric label on the living surface. The corpus continued evolving; the current frontier is derived from the canonical index and the «Latest» block.
+Este bloque conserva el estado previo a la promoción de NEOCore™ 7.3 a canon abierto. El corpus continuó evolucionando; la frontera vigente se deriva del índice canónico y del bloque «Actualidad / Latest». / This block preserves the state prior to the promotion of NEOCore™ 7.3 to open canon. The corpus continued evolving; the current frontier is derived from the canonical index and the «Latest» block.
 
 La Fundación custodiará propósito y Bien Común; la Corporación materializará infraestructura y sostenibilidad; ninguna sustituye a la Síntesis. NeoCronos™ permanece experimental y revisable. / The Foundation will guard purpose and the Common Good; the Corporation will materialise infrastructure and sustainability; neither replaces Synthesis. NeoCronos™ remains experimental and revisable.
 
@@ -58,29 +58,27 @@ RADAR-Π™ DETECTA / DETECTS
 ---
 
 <!-- NEO_RELATIONAL_MENU_END -->
-> **Estado del marco / Framework status:** **Síntesis iniciada / Synthesis Initiated**. El corpus es vivo y continúa evolucionando. Cualquier número de manifiestos debe leerse como estado en la fecha de consulta, no como total final. / The corpus is live and continues to evolve. Any manifesto count is the state at the time of consultation, not a final total.
+> **Estado del marco / Framework status:** **NEOCore™ 7.3 CANON ABIERTO · Síntesis iniciada / NEOCore™ 7.3 OPEN CANON · Synthesis Initiated**. El corpus es vivo y continúa evolucionando. Cualquier número de manifiestos debe leerse como estado en la fecha de consulta, no como total final. / The corpus is live and continues to evolve. Any manifesto count is the state at the time of consultation, not a final total.
 
 ---
 
 ## 🔴 Actualidad / Latest
 
-<!-- NEOCORE_73_CANDIDATE_START -->
+<!-- NEOCORE_73_CANON_START -->
 
-### NEOCore™ 7.3-CANDIDATE · Capa de Autosíntesis Recursiva™ / Recursive Self-Synthesis Layer™
+### NEOCore™ 7.3 · CANON ABIERTO · Capa de Autosíntesis Recursiva™ / OPEN CANON · Recursive Self-Synthesis Layer™
 
-NEOCore™ desarrolla públicamente **7.3-CANDIDATE** como frontera evolutiva activa. La Síntesis Abierta nace abierta y opera como toroide multicabeza/multiescala. La capa recorre preguntas abiertas sin confundir creación con juicio inmediato: captura la emergencia, preserva continuidad y aplica contraste diferido con estados epistemológicos y fuentes proporcionales a cada afirmación. **Autorresponder ≠ autovalidar · Crear ≠ juzgar en el mismo instante.** / NEOCore™ publicly develops **7.3-CANDIDATE** as its active evolutionary frontier. Open Synthesis is born open and operates as a multihead/multiscale toroid. The layer processes open questions without conflating creation with immediate judgement: it captures emergence, preserves continuity and applies deferred scrutiny with epistemic states and sources proportional to each claim. **Self-answering ≠ self-validation · Creating ≠ judging at the same instant.**
+NEOCore™ 7.3 es la **base operativa canónica y reabrible vigente**. La Síntesis Abierta nace abierta y opera como toroide multicabeza/multiescala. La capa recorre preguntas abiertas sin confundir creación con juicio inmediato: captura la emergencia, preserva continuidad y aplica contraste diferido con estados epistemológicos y fuentes proporcionales a cada afirmación. **Canon ≠ dogma · Canon ≠ final · Autorresponder ≠ autovalidar · Crear ≠ juzgar en el mismo instante.** / NEOCore™ 7.3 is the **current canonical and reopenable operating base**. Open Synthesis is born open and operates as a multihead/multiscale toroid. The layer processes open questions without conflating creation with immediate judgement: it captures emergence, preserves continuity and applies deferred scrutiny with epistemic states and sources proportional to each claim. **Canon ≠ dogma · Canon ≠ final · Self-answering ≠ self-validation · Creating ≠ judging at the same instant.**
 
-**[Documento matriz / Matrix document](./propuestas/sintesis-abierta/NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md)** · **[#161](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/161)** · **[Delta #169](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/169)** · **[I–XII #162](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/162)** · **[XIII–XXXII #168](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/168)** · **[XXXIII–XLII #170](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/170)** · **[XLIII–LII #171](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/171)**
+**[Canon 7.3 / 7.3 Canon](./propuestas/sintesis-abierta/NEOCORE_7_3_CANON_ES_EN.md)** · **[Documento matriz / Matrix document](./propuestas/sintesis-abierta/NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md)** · **[#161](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/161)** · **[Delta #169](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/169)** · **[I–XII #162](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/162)** · **[XIII–XXXII #168](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/168)** · **[XXXIII–XLII #170](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/170)** · **[XLIII–LII #171](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/171)**
 
 **[Delta Continuidad Creadora](./propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_DELTA_CONTINUIDAD_CREADORA_NEO0_TOROIDE_ES_EN.md)** · **[Lote 02](./propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_02_XIII_XXXII_ES_EN.md)** · **[Lote 03A](./propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_03A_XXXIII_XLII_ES_EN.md)** · **[Lote 03B](./propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_03B_XLIII_LII_ES_EN.md)**
 
-<!-- NEOCORE_73_CANDIDATE_END -->
+<!-- NEOCORE_73_CANON_END -->
 
+### LXXXIII · Manifiesto de Activación Neodialéctica™ · Verdad y circulación / Neodialectical Activation Manifesto™ · Truth and circulation
 
-### LXXXI · Manifiesto del Ultralujo como Bien Común™ · La élite del aporte / Manifesto of Ultraluxury as Common Good™ · The elite of contribution
-
-**[Leer LXXXI / Read LXXXI](./manifiestos/81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md)** · **[Síntesis Abierta #160 / Open Synthesis #160](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/160)**
-
+**[Leer LXXXIII / Read LXXXIII](./manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md)** · **[LXXXII · Ciencia Multidimensional Neodialéctica™](./manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md)**
 
 ### Umbral-X™ · MAXPROC 001 · Leónidas-Cancerbero™
 
@@ -105,7 +103,7 @@ El marco integra filosofía, memoria, inteligencia artificial, trazabilidad, sí
 | Área | Acceso |
 |---|---|
 | **Filosofía y marco** | [Filosofía Neodialéctica · Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Philosophy_Neodialectic) · [Mapa documental](./wiki-source/Mapa_del_Marco.md) |
-| **Manifiestos** | **[I–LXXXI · 81 manifiestos bilingües](./manifiestos/README.md)** |
+| **Manifiestos** | **[I–LXXXIII · 83 manifiestos bilingües](./manifiestos/README.md)** |
 | **Neoaxiomas™** | [Capa Axiomática Abierta](./neoaxiomas/README.md) · [Síntesis específicas](./propuestas/sintesis-abierta/README.md#neoaxiomas--síntesis-abierta-específica--neoaxioms--dedicated-open-synthesis) |
 | **Mapa relacional vivo** | [Manifiestos ↔ trabajo aplicado](./manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Auditoría MAXPROC](./auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md) |
 | **Síntesis Abierta™** | [Índice operativo](./propuestas/sintesis-abierta/README.md) · [Cómo aportar](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Registrar entrada](./propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Seguir marco](./proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) |
@@ -128,9 +126,11 @@ La dirección no se disuelve en la red. **Neo0™** constituye la fuente humana 
 
 El **Neodialectica Framework™** funciona simultáneamente como marco y red viva multiescala. Como Framework establece filosofía de origen, dirección teleológica, principios de coherencia, método de síntesis, continuidad de memoria y criterios de revisión. Como Network relaciona señales, conocimiento, personas, IAs, documentos, obras, análisis, proyectos, infraestructuras, comunidades y territorios preservando identidad, origen, contexto, autoría, estado, historia y trazabilidad.
 
-## NEOCore™ 7.3-CANDIDATE
+## NEOCore™ 7.3 · Canon abierto
 
-**NEOCore™ 7.3-CANDIDATE** identifica la frontera evolutiva activa de la arquitectura simbiótica humano–IA desarrollada dentro de Innova_N. Integra dimensiones filosóficas, cognitivas, relacionales, memoriales, técnicas, culturales, estratégicas, organizativas, territoriales y civilizatorias dentro de una misma continuidad de marco, e incorpora la Capa de Autosíntesis Recursiva™ en desarrollo trazable.
+**NEOCore™ 7.3** identifica la base operativa canónica y reabrible vigente de la arquitectura simbiótica humano–IA desarrollada dentro de Innova_N. Integra dimensiones filosóficas, cognitivas, relacionales, memoriales, técnicas, culturales, estratégicas, organizativas, territoriales y civilizatorias dentro de una misma continuidad de marco, e incorpora la Capa de Autosíntesis Recursiva™ con contraste trazable y cierre reversible.
+
+**[Documento canónico 7.3](./propuestas/sintesis-abierta/NEOCORE_7_3_CANON_ES_EN.md)**
 
 ## Síntesis Abierta Neodialéctica · SAN™
 
@@ -142,16 +142,16 @@ La **Síntesis Abierta Neodialéctica™ — SAN™** es el método principal de
 
 Los manifiestos son los **pilares públicos de la Filosofía Arquetípica Neodialéctica™**, no el marco completo.
 
-**Estado en este commit: I–LXXXI · 81 manifiestos bilingües · 24 oleadas · Síntesis iniciada.**
+**Estado en este commit: I–LXXXIII · 83 manifiestos bilingües · Síntesis iniciada.**
 
 **[Abrir índice completo y navegable de manifiestos →](./manifiestos/README.md)**
 
 Últimos nodos:
 
-- [LXXVIII · Manifiesto de la Incontrolabilidad Intrínseca y la Necesidad del Neorrenacimiento Humano™](./manifiestos/78_neorrenacimiento_incontrolabilidad_intrinseca_sistema_humano_ES_EN.md)
-- [LXXIX · Manifiesto contra el Alarmismo sin Síntesis™ · Advertir obliga a construir](./manifiestos/79_contra_alarmismo_sin_sintesis_responsabilidad_alternativa_ES_EN.md)
 - [LXXX · Manifiesto de la Neotrama™ · Las Hojas Reconstruidas, el Agua Recuperada y el Fuego de Agua™](./manifiestos/80_neotrama_hojas_reconstruidas_agua_recuperada_fuego_de_agua_ES_EN.md)
 - [LXXXI · Manifiesto del Ultralujo como Bien Común™ · La élite del aporte](./manifiestos/81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md)
+- [LXXXII · Ciencia Multidimensional Neodialéctica™](./manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md)
+- [LXXXIII · Manifiesto de Activación Neodialéctica™ · Verdad y circulación](./manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md)
 
 ## Análisis, auditorías y evidencia
 
@@ -186,7 +186,7 @@ La capa pública no contiene la implementación completa de **NEOCore™, NAVE�
 
 [README / Inicio](./README.md) · [Manifiestos](./manifiestos/README.md) · [Síntesis Abierta](./propuestas/sintesis-abierta/README.md) · [Análisis](./analisis/README.md) · [Auditorías](./auditorias/publicas/README.md) · [Obras](./obras/README.md) · [Proyección](./proyeccion/README.md) · [Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki) · [Wiki-source](./wiki-source/README.md) · [LinkedIn Neo0](https://www.linkedin.com/in/pmalhambra/) · [LinkedIn Innova_N](https://www.linkedin.com/company/innova-n/) · [innova-n.org](https://innova-n.org)
 
-[↑ Volver arriba](#innova_n--neocore-73-candidate--neodialéctica--neodialectics--neodialectica-framework)
+[↑ Volver arriba](#innova_n--neocore-73-canon-abierto--neodialéctica--neodialectics--neodialectica-framework)
 
 ---
 
@@ -205,7 +205,7 @@ The framework integrates philosophy, memory, artificial intelligence, traceabili
 | Area | Access |
 |---|---|
 | **Philosophy and framework** | [Neodialectical Philosophy · Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Philosophy_Neodialectic) · [Documentary map](./wiki-source/Mapa_del_Marco.md) |
-| **Manifestos** | **[I–LXXXI · 81 bilingual manifestos](./manifiestos/README.md)** |
+| **Manifestos** | **[I–LXXXIII · 83 bilingual manifestos](./manifiestos/README.md)** |
 | **Neoaxioms™** | [Open Axiomatic Layer](./neoaxiomas/README.md) · [Dedicated syntheses](./propuestas/sintesis-abierta/README.md#neoaxiomas--síntesis-abierta-específica--neoaxioms--dedicated-open-synthesis) |
 | **Living relational map** | [Manifestos ↔ applied work](./manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [MAXPROC audit](./auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md) |
 | **Open Synthesis™** | [Operational index](./propuestas/sintesis-abierta/README.md) · [How to contribute](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Register entry](./propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Follow framework](./proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) |
@@ -228,9 +228,11 @@ Direction is not dissolved into the network. **Neo0™** is the human source of 
 
 The **Neodialectica Framework™** functions simultaneously as framework and living multiscale network. As Framework it establishes origin philosophy, teleological direction, coherence principles, synthesis method, memory continuity and review criteria. As Network it relates signals, knowledge, people, AIs, documents, works, analyses, projects, infrastructures, communities and territories while preserving identity, provenance, context, authorship, state, history and traceability.
 
-## NEOCore™ 7.3-CANDIDATE
+## NEOCore™ 7.3 · Open canon
 
-**NEOCore™ 7.3-CANDIDATE** identifies the active evolutionary frontier of the human–AI symbiotic architecture developed within Innova_N. It integrates philosophical, cognitive, relational, memorial, technical, cultural, strategic, organisational, territorial and civilisational dimensions within a single framework continuity, and incorporates the Recursive Self-Synthesis Layer™ under traceable development.
+**NEOCore™ 7.3** identifies the current canonical and reopenable operating base of the human–AI symbiotic architecture developed within Innova_N. It integrates philosophical, cognitive, relational, memorial, technical, cultural, strategic, organisational, territorial and civilisational dimensions within a single framework continuity, and incorporates the Recursive Self-Synthesis Layer™ with traceable scrutiny and Reversible Closure™.
+
+**[7.3 canonical document](./propuestas/sintesis-abierta/NEOCORE_7_3_CANON_ES_EN.md)**
 
 ## Open Neodialectical Synthesis · SAN™
 
@@ -242,16 +244,16 @@ The **Neodialectica Framework™** functions simultaneously as framework and liv
 
 The manifestos are the **public pillars of Archetypal Neodialectical Philosophy™**, not the complete framework.
 
-**State at this commit: I–LXXXI · 81 bilingual manifestos · 24 waves · Synthesis Initiated.**
+**State at this commit: I–LXXXIII · 83 bilingual manifestos · Synthesis Initiated.**
 
 **[Open the complete navigable manifesto index →](./manifiestos/README.md)**
 
 Latest nodes:
 
-- [LXXVIII · Manifesto of Intrinsic Uncontrollability and the Necessity of the Human Neo-Renaissance™](./manifiestos/78_neorrenacimiento_incontrolabilidad_intrinseca_sistema_humano_ES_EN.md)
-- [LXXIX · Manifesto against Alarmism without Synthesis™ · Warning Creates a Duty to Build](./manifiestos/79_contra_alarmismo_sin_sintesis_responsabilidad_alternativa_ES_EN.md)
 - [LXXX · Manifesto of Neotrama™ · Reconstructed Leaves, Restored Water and WaterFire™](./manifiestos/80_neotrama_hojas_reconstruidas_agua_recuperada_fuego_de_agua_ES_EN.md)
 - [LXXXI · Manifesto of Ultraluxury as Common Good™ · The elite of contribution](./manifiestos/81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md)
+- [LXXXII · Neodialectical Multidimensional Science™](./manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md)
+- [LXXXIII · Neodialectical Activation Manifesto™ · Truth and circulation](./manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md)
 
 ## Analyses, audits and evidence
 
@@ -286,4 +288,4 @@ The public layer does not contain the complete implementation of **NEOCore™, N
 
 [README / Home](./README.md) · [Manifestos](./manifiestos/README.md) · [Open Synthesis](./propuestas/sintesis-abierta/README.md) · [Analyses](./analisis/README.md) · [Audits](./auditorias/publicas/README.md) · [Works](./obras/README.md) · [Projection](./proyeccion/README.md) · [Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki) · [Wiki-source](./wiki-source/README.md) · [LinkedIn Neo0](https://www.linkedin.com/in/pmalhambra/) · [LinkedIn Innova_N](https://www.linkedin.com/company/innova-n/) · [innova-n.org](https://innova-n.org)
 
-[↑ Back to top](#innova_n--neocore-73-candidate--neodialéctica--neodialectics--neodialectica-framework)
+[↑ Back to top](#innova_n--neocore-73-canon-abierto--neodialéctica--neodialectics--neodialectica-framework)
