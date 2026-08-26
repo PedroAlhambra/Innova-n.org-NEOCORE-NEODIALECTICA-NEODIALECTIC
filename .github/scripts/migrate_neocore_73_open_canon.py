@@ -1,6 +1,7 @@
 from pathlib import Path
 
 ROOT = Path('.').resolve()
+MIGRATION_REVISION = 2
 # Build the obsolete token without storing it literally in the repository.
 OBSOLETE = '7.3-' + 'CANDIDATE'
 OLD_MARKER = 'NEOCORE_73_' + 'CANDIDATE'
@@ -82,6 +83,7 @@ for path in sorted(ROOT.rglob('*')):
 if residue:
     raise SystemExit('STALE_7_3_PRECANON_LABELS=' + repr(residue))
 
+print(f'MIGRATION_REVISION={MIGRATION_REVISION}')
 print(f'REPLACED_OCCURRENCES={occurrences}')
 print(f'CHANGED_FILES={len(changed)}')
 for item in changed:
