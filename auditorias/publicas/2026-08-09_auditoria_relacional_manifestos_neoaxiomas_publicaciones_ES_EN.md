@@ -3,7 +3,7 @@
 
 **Fecha / Date:** 2026-08-26  
 **Manifiestos canónicos / Canonical manifestos:** 81 · I–LXXXI  
-**Markdown activo examinado / Active Markdown scanned:** 443  
+**Markdown activo examinado / Active Markdown scanned:** 444  
 **Archivo histórico excluido del estado vivo / Historical archive excluded from living state:** 55 archivos / files  
 **Regla de integridad:** esta auditoría no resume, acorta ni reescribe cuerpos fuente. Detecta relaciones documentales y candidatos a revisión; las relaciones semánticas o causales siguen requiriendo SAN/revisión humana. / **Integrity rule:** this audit never summarises, shortens or rewrites source bodies. It detects documentary relations and review candidates; semantic or causal relations still require SAN/human review.
 
@@ -342,7 +342,7 @@
 **Entrantes / Inbound:**
 - **analisis/publicos:** `analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md` · `analisis/publicos/2026-08-08_historia_olvidada_ceres_descompresion_arquetipica_generativa_ES_EN.md`
 - **manifiestos:** `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` · `manifiestos/08_neorrenacimiento_humano_ES_EN.md` · `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` · `manifiestos/14_contra_alienacion_humana_ES_EN.md` · `manifiestos/15_los_titanes_despertar_de_la_gente_ES_EN.md` · `manifiestos/19_persistencia_de_la_memoria_ES_EN.md` · `manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md` · `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` · `manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md` · `manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md` · `manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md` · `manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md` · `manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md` · `manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md` · `manifiestos/63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md` · `manifiestos/78_neorrenacimiento_incontrolabilidad_intrinseca_sistema_humano_ES_EN.md` · `manifiestos/80_neotrama_hojas_reconstruidas_agua_recuperada_fuego_de_agua_ES_EN.md`
-- **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **otros:** `manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md` · `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/README.md`
 
 ### XI · Manifiesto del Neorrenacimiento Humano / Manifesto of the Human Neo-Renaissance
