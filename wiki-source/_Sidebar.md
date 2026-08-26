@@ -1,6 +1,6 @@
 # Innova_N
 
-**NEOCore™ PRE-7.3 · estado vivo / living state**
+**NEOCore™ 7.3 · CANON ABIERTO · CANÓNICO Y REABRIBLE / OPEN CANON · CANONICAL AND REOPENABLE**
 
 ## Entrar / Enter
 
@@ -32,10 +32,11 @@
 
 * [Repositorio canónico vivo / Living canonical repository](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC)
 * [README raíz / Root README](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/README.md)
+* [Canon 7.3 / 7.3 Canon](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/NEOCORE_7_3_CANON_ES_EN.md)
 * [Snapshot histórico de referencia · 2026-08-11 / Historical reference snapshot · 2026-08-11](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/tree/snapshot/neocore-7-current-2026-08-11)
 
-**El estado vigente evoluciona en la rama canónica; el snapshot conserva una referencia histórica y no limita deltas posteriores.**  
-**The current state evolves on the canonical branch; the snapshot preserves a historical reference and does not limit later deltas.**
+**El estado vigente evoluciona desde el canon abierto 7.3; el snapshot conserva una referencia histórica y no limita deltas posteriores.**  
+**The current state evolves from the 7.3 open canon; the snapshot preserves a historical reference and does not limit later deltas.**
 
 **Repositorio = fuente documental trazable. Wiki = mapa estable de orientación.**  
 **Repository = traceable documentary source. Wiki = stable orientation map.**
