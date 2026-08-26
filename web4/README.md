@@ -15,11 +15,11 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 **Estado / Status:** especificación pública, corpus y genealogía de capacidades / public specification, corpus and capability genealogy  
 **Baseline documental estabilizada / Stabilised documentary baseline:** NEOCore™ PRE-7.3  
-**Frontera evolutiva pública activa / Active public evolutionary frontier:** NEOCore™ 7.3 CANON ABIERTO · candidata abierta, no canónica / open candidate, non-canonical  
+**Frontera evolutiva pública activa / Active public evolutionary frontier:** NEOCore™ 7.3 CANON ABIERTO · canónico y reabrible / open canon, canonical and reopenable  
 **Superficie pública real / Actual public surface:** [innova-n.org](https://innova-n.org)  
 **Ampliación abierta / Open expansion:** [Issue #147 · aportes trazables y tokenización de reconocimiento](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/147)
 
-> **Regla de versión / Version rule:** `PRE-7.3` identifica aquí la baseline documental estabilizada de WEB4™; no niega ni sustituye la frontera pública `7.3-CANDIDATE`. `7.3-CANDIDATE` permanece en Síntesis/evolución y **no equivale a 7.3 canónica ni a una implementación WEB4 final**. / `PRE-7.3` identifies the stabilised WEB4™ documentary baseline here; it does not deny or replace the public `7.3-CANDIDATE` frontier. `7.3-CANDIDATE` remains under Synthesis/evolution and **does not equal canonical 7.3 or a final WEB4 implementation**.
+> **Regla de versión / Version rule:** `PRE-7.3` identifica una baseline documental histórica de WEB4™. La base operativa vigente del marco es `NEOCore™ 7.3 CANON ABIERTO`, canónica y reabrible; esto no equivale a que la implementación WEB4 privada esté aprobada o desplegada. / `PRE-7.3` identifies a historical WEB4™ documentary baseline. The current operating framework base is `NEOCore™ 7.3 OPEN CANON`, canonical and reopenable; this does not mean the private WEB4 implementation is approved or deployed.
 
 > **Regla / Rule:** este directorio `web4/` **no es una DEMO ni una segunda web pública**. Documenta qué debe contener WEB4™, conserva referencias históricas de capacidades y aporta fuentes/requisitos que alimentan el desarrollo privado. `innova-n.org` es la proyección pública pulida que ve el público. / this `web4/` directory is **not a DEMO and not a second public website**. It documents intended WEB4™ capabilities, preserves historical capability references and provides sources/requirements for private development. `innova-n.org` is the polished public projection seen by visitors.
 
