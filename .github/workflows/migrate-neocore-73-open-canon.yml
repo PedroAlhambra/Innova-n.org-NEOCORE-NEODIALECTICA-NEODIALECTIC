@@ -1,0 +1,38 @@
+name: migrate-neocore-73-open-canon
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/scripts/migrate_neocore_73_open_canon.py'
+      - '.github/workflows/migrate-neocore-73-open-canon.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: migrate-neocore-73-open-canon
+  cancel-in-progress: false
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Migrate obsolete NEOCore 7.3 pre-canon labels
+        run: python .github/scripts/migrate_neocore_73_open_canon.py
+      - name: Commit migration if needed
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          if git diff --cached --quiet; then
+            echo 'NO_CHANGES=1'
+            exit 0
+          fi
+          git commit -m 'docs: migrate all NEOCore 7.3 labels to open canon'
+          git pull --rebase origin main
+          git push origin main
