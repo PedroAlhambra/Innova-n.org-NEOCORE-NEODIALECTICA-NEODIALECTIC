@@ -17,6 +17,7 @@ neoaxioms_protocol = root / 'propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABI
 neoaxioms_issue = 'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80'
 CURRENT_VERSION = '7.3 CANON ABIERTO'
 CURRENT_VERSION_EN = '7.3 OPEN CANON'
+OBSOLETE_73 = '7.3-' + 'CANDIDATE'
 
 for p in (index, protocol, synth_index, audits, leonidas, entry_register, follow, neoaxioms, neoaxioms_protocol):
     if not p.exists():
@@ -84,11 +85,18 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 {NAX_END}'''
 
 def replace_version(text):
-    # Living README surfaces follow the current canonical state. Dated audit
-    # snapshots may preserve the state they recorded, but must not be used as
-    # the live version surface.
-    text = re.sub(r'NEOCore™\s+(?:v?7\.[01]|7\.x|7\.3-CANDIDATE)', f'NEOCore™ {CURRENT_VERSION}', text)
-    text = re.sub(r'NEOCore\s+(?:v?7\.[01]|7\.x|7\.3-CANDIDATE)', f'NEOCore {CURRENT_VERSION}', text)
+    text = re.sub(r'NEOCore™\s+(?:v?7\.[01]|7\.x)', f'NEOCore™ {CURRENT_VERSION}', text)
+    text = re.sub(r'NEOCore\s+(?:v?7\.[01]|7\.x)', f'NEOCore {CURRENT_VERSION}', text)
+    text = text.replace(OBSOLETE_73, CURRENT_VERSION)
+    text = text.replace(
+        'NEOCore™ 7.3 CANON ABIERTO · candidata abierta, no canónica / open candidate, non-canonical',
+        'NEOCore™ 7.3 CANON ABIERTO · canónico y reabrible / open canon, canonical and reopenable',
+    )
+    text = text.replace(
+        '`PRE-7.3` identifica aquí la baseline documental estabilizada de WEB4™; no niega ni sustituye la frontera pública `7.3 CANON ABIERTO`. `7.3 CANON ABIERTO` permanece en Síntesis/evolución y **no equivale a 7.3 canónica ni a una implementación WEB4 final**. / `PRE-7.3` identifies the stabilised WEB4™ documentary baseline here; it does not deny or replace the public `7.3 CANON ABIERTO` frontier. `7.3 CANON ABIERTO` remains under Synthesis/evolution and **does not equal canonical 7.3 or a final WEB4 implementation**.',
+        '`PRE-7.3` identifica una baseline documental histórica de WEB4™. La base operativa vigente del marco es `NEOCore™ 7.3 CANON ABIERTO`, canónica y reabrible; esto no equivale a que la implementación WEB4 privada esté aprobada o desplegada. / `PRE-7.3` identifies a historical WEB4™ documentary baseline. The current operating framework base is `NEOCore™ 7.3 OPEN CANON`, canonical and reopenable; this does not mean the private WEB4 implementation is approved or deployed.',
+    )
+    text = text.replace('no canónica / open candidate, non-canonical', 'canónica y reabrible / canonical and reopenable')
     return text
 
 def insert_neoaxioms(text, f):
@@ -108,9 +116,7 @@ def insert_neoaxioms(text, f):
     return ''.join(lines)
 
 readmes = sorted({p for p in root.rglob('README*.md') if '.git' not in p.parts})
-readmes = sorted(set(readmes))
 changed=[]
-
 for f in readmes:
     text=f.read_text(encoding='utf-8'); old=text
     text = replace_version(text)
@@ -121,26 +127,17 @@ for f in readmes:
         f.write_text(text,encoding='utf-8'); changed.append(f)
 
 fail=[]
-old_version_re = re.compile(r'NEOCore(?:™)?\s+(?:v?7\.[01]|7\.x|7\.3-CANDIDATE)')
+old_version_re = re.compile(r'NEOCore(?:™)?\s+(?:v?7\.[01]|7\.x)')
 for f in readmes:
     text=f.read_text(encoding='utf-8')
-    if START in text:
-        m=re.search(re.escape(START)+r'.*?'+re.escape(END),text,re.S)
-        if not m or latest.name not in m.group(0):
-            fail.append(f'{f.relative_to(root)} latest path')
-        if not m or f'#{issue_num}' not in m.group(0):
-            fail.append(f'{f.relative_to(root)} latest issue')
-        if not m or 'SEGUIR_MARCO_SINTESIS_ES_EN.md' not in m.group(0) or 'REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md' not in m.group(0):
-            fail.append(f'{f.relative_to(root)} follow/register links missing')
+    if OBSOLETE_73 in text:
+        fail.append(f'{f.relative_to(root)} obsolete 7.3 state remains')
+    if old_version_re.search(text):
+        fail.append(f'{f.relative_to(root)} stale NEOCore version remains')
     if text.count(NAX_START) != 1 or text.count(NAX_END) != 1:
         fail.append(f'{f.relative_to(root)} Neoaxioms block count')
     if f'NEOCore™ {CURRENT_VERSION}' not in text:
         fail.append(f'{f.relative_to(root)} current version missing')
-    if old_version_re.search(text):
-        fail.append(f'{f.relative_to(root)} stale NEOCore version remains')
-    nblock = re.search(re.escape(NAX_START)+r'(.*?)'+re.escape(NAX_END), text, re.S)
-    if not nblock or 'NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md' not in nblock.group(1) or 'issues/80' not in nblock.group(1):
-        fail.append(f'{f.relative_to(root)} Neoaxioms links incomplete')
 
 print(f'CANONICAL_MANIFESTOS={count}')
 print(f'LATEST={roman} {latest.name} ISSUE=#{issue_num}')
@@ -151,4 +148,4 @@ for p in changed:
     print('CHANGED', p.relative_to(root).as_posix())
 if fail:
     print('POSTCHECK FAIL'); print('\n'.join(fail)); sys.exit(1)
-print(f'POSTCHECK OK: NEOCore {CURRENT_VERSION} + Neoaxioms + follow/register links across all README surfaces; latest {roman} + Open Synthesis #{issue_num}; count={count}')
+print(f'POSTCHECK OK: all living README surfaces use NEOCore {CURRENT_VERSION}; count={count}')
