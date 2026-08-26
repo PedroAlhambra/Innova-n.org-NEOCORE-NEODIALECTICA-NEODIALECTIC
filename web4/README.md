@@ -2,8 +2,8 @@
 
 <!-- NEOAXIOMAS_GLOBAL_LINK_START -->
 
-## NEOCore™ PRE-7.3 · Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™ + Soberanía de Síntesis™
-## NEOCore™ PRE-7.3 · First Fractal Multihead Layer™ + Neoaxiomatic Layer™ + Synthesis Sovereignty™
+## NEOCore™ 7.3 CANON ABIERTO · Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™ + Soberanía de Síntesis™
+## NEOCore™ 7.3 OPEN CANON · First Fractal Multihead Layer™ + Neoaxiomatic Layer™ + Synthesis Sovereignty™
 
 Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin convertirse en dogmas cerrados: permanecen abiertos a contraste, evidencia, crítica, refutación y revisión mediante **Síntesis Abierta Neodialéctica™ — SAN™**. / **Neoaxioms™** express high-stability principles of NEOCore™ without becoming closed dogma: they remain open to challenge, evidence, criticism, refutation and revision through **Neodialectical Open Synthesis™ — SAN™**.
 
@@ -15,7 +15,7 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 **Estado / Status:** especificación pública, corpus y genealogía de capacidades / public specification, corpus and capability genealogy  
 **Baseline documental estabilizada / Stabilised documentary baseline:** NEOCore™ PRE-7.3  
-**Frontera evolutiva pública activa / Active public evolutionary frontier:** NEOCore™ 7.3-CANDIDATE · candidata abierta, no canónica / open candidate, non-canonical  
+**Frontera evolutiva pública activa / Active public evolutionary frontier:** NEOCore™ 7.3 CANON ABIERTO · candidata abierta, no canónica / open candidate, non-canonical  
 **Superficie pública real / Actual public surface:** [innova-n.org](https://innova-n.org)  
 **Ampliación abierta / Open expansion:** [Issue #147 · aportes trazables y tokenización de reconocimiento](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/147)
 

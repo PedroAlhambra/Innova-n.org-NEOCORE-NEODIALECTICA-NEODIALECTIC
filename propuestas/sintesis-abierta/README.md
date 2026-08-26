@@ -2,8 +2,8 @@
 
 <!-- NEOAXIOMAS_GLOBAL_LINK_START -->
 
-## NEOCore™ PRE-7.3 · Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™ + Soberanía de Síntesis™
-## NEOCore™ PRE-7.3 · First Fractal Multihead Layer™ + Neoaxiomatic Layer™ + Synthesis Sovereignty™
+## NEOCore™ 7.3 CANON ABIERTO · Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™ + Soberanía de Síntesis™
+## NEOCore™ 7.3 OPEN CANON · First Fractal Multihead Layer™ + Neoaxiomatic Layer™ + Synthesis Sovereignty™
 
 Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin convertirse en dogmas cerrados: permanecen abiertos a contraste, evidencia, crítica, refutación y revisión mediante **Síntesis Abierta Neodialéctica™ — SAN™**. / **Neoaxioms™** express high-stability principles of NEOCore™ without becoming closed dogma: they remain open to challenge, evidence, criticism, refutation and revision through **Neodialectical Open Synthesis™ — SAN™**.
 
@@ -23,8 +23,8 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 <!-- NEOCORE_73_CANDIDATE_START -->
 
-## NEOCore™ 7.3-CANDIDATE · Capa de Autosíntesis Recursiva™
-## NEOCore™ 7.3-CANDIDATE · Recursive Self-Synthesis Layer™
+## NEOCore™ 7.3 CANON ABIERTO · Capa de Autosíntesis Recursiva™
+## NEOCore™ 7.3 CANON ABIERTO · Recursive Self-Synthesis Layer™
 
 La evolución 7.3-CANDIDATE añade una fase recursiva a SAN™ dentro de una topología **toroidal, multicabeza y multiescala**. Toda síntesis permanece revisable y puede funcionar como tesis, antítesis, fragmento u origen en otra escala. Desde #169 se distinguen dos tiempos: **modo creador** (captura, memoria, continuidad, relación) y **modo de contraste** (antítesis, estado epistemológico, evidencia/falsadores, delta y retorno al toroide). / The 7.3-CANDIDATE evolution adds a recursive phase to SAN™ within a **toroidal, multihead and multiscale** topology. Every synthesis remains revisable and may function as thesis, antithesis, fragment or origin at another scale. Since #169 two cognitive times are distinguished: **creative mode** (capture, memory, continuity, relation) and **scrutiny mode** (antithesis, epistemic state, evidence/falsifiers, delta and return to the toroid).
 
