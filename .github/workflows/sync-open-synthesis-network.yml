@@ -14,6 +14,7 @@ on:
       - 'propuestas/sintesis-abierta/README.md'
       - 'propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md'
       - 'propuestas/sintesis-abierta/NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md'
+      - 'propuestas/sintesis-abierta/NEOCORE_7_3_CANON_ES_EN.md'
       - 'propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md'
       - 'propuestas/sintesis-abierta/*C_NAX_*_ES_EN.md'
       - '.github/workflows/sync-open-synthesis-network.yml'
@@ -27,7 +28,7 @@ on:
       - '.github/scripts/sync_canonical_manifestos.py'
       - '.github/scripts/normalize_manifesto_indices.py'
       - '.github/scripts/sync_root_navigation.py'
-      - '.github/scripts/sync_neocore_73_candidate.py'
+      - '.github/scripts/sync_neocore_73_canon.py'
       - '.github/scripts/sync_manifesto_crossrefs.py'
       - '.github/scripts/sync_relations_frontier.py'
       - '.github/scripts/sync_relations_lxxv.py'
@@ -71,8 +72,8 @@ jobs:
         run: python .github/scripts/normalize_manifesto_indices.py
       - name: Synchronize root navigation
         run: python .github/scripts/sync_root_navigation.py
-      - name: Synchronize NEOCore 7.3 candidate navigation
-        run: python .github/scripts/sync_neocore_73_candidate.py
+      - name: Synchronize NEOCore 7.3 canonical navigation
+        run: python .github/scripts/sync_neocore_73_canon.py
       - name: Synchronize relational frontier
         run: |
           python .github/scripts/sync_relations_frontier.py
@@ -108,14 +109,13 @@ jobs:
           head -n 16 auditorias/publicas/2026-08-12_auditoria_estructura_bilingue_manifiestos_ES_EN.md
           echo '--- RELATIONAL AUDIT ---'
           head -n 28 auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md
-      - name: Enforce healthy documentary graph, bilingual parity, relations and candidate boundary
+      - name: Enforce healthy documentary graph, bilingual parity, relations and canonical 7.3 boundary
         run: |
           python - <<'PY'
           from pathlib import Path
           import json
           registry=json.loads(Path('manifiestos/CANONICAL_FILENAMES.json').read_text(encoding='utf-8'))['entries']
           n=len(registry)
-          latest=max(registry, key=lambda r: sum({'I':1,'V':5,'X':10,'L':50,'C':100,'D':500,'M':1000}.get(ch,0) for ch in r))
           reg=Path('auditorias/publicas/2026-08-12_auditoria_registro_canonico_manifiestos_ES_EN.md').read_text(encoding='utf-8')
           if f'**Entradas canónicas / Canonical entries:** {n}' not in reg or '**Problemas / Problems:** 0' not in reg:
               raise SystemExit('Manifesto registry is incomplete or inconsistent; publish aborted.')
@@ -148,18 +148,20 @@ jobs:
           if f'{n} manifiestos finitos' not in applied or f'{n} finite manifestos' not in applied:
               raise SystemExit('Applied-work relational map inventory is stale; publish aborted.')
 
-          # Canonical-state gate: the living root must remain explicitly candidate,
-          # and the canonical Open Synthesis index must preserve an explicit promotion gate.
           root=Path('README.md').read_text(encoding='utf-8')
           first=root.splitlines()[0] if root.splitlines() else ''
-          if 'NEOCore™ 7.3-CANDIDATE' not in first:
-              raise SystemExit('CANONICAL_STATE violation: living root is not 7.3-CANDIDATE; publish aborted.')
-          if 'NEOCore™ 7.3 ·' in first or 'NEOCore™ 7.3 CANON' in root:
-              raise SystemExit('CANONICAL_STATE violation: 7.3 appears promoted to canon; publish aborted.')
+          if 'NEOCore™ 7.3 CANON ABIERTO' not in first:
+              raise SystemExit('CANONICAL_STATE violation: living root is not NEOCore 7.3 open canon; publish aborted.')
+          if '7.3-CANDIDATE' in root:
+              raise SystemExit('CANONICAL_STATE violation: stale 7.3 candidate label remains in living root; publish aborted.')
+          canon=Path('propuestas/sintesis-abierta/NEOCORE_7_3_CANON_ES_EN.md').read_text(encoding='utf-8')
+          if 'CANÓNICO Y REABRIBLE / CANONICAL AND REOPENABLE' not in canon:
+              raise SystemExit('CANONICAL_STATE canonical 7.3 document missing or invalid; publish aborted.')
           synth_index=Path('propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md').read_text(encoding='utf-8')
-          candidate_rule='promoción a canon sólo tras completar cobertura, clasificación de fuentes/evidencia, simetría, Neoaxiomas y auditoría relacional final. / promotion to canon only after completing coverage, source/evidence classification, symmetry, Neoaxioms and final relational audit.'
-          if '`7.3-CANDIDATE`' not in synth_index or candidate_rule not in synth_index:
-              raise SystemExit('CANONICAL_STATE promotion gate missing from Open Synthesis index; publish aborted.')
+          if '7.3-CANDIDATE' in synth_index:
+              raise SystemExit('CANONICAL_STATE violation: stale 7.3 candidate label remains in Open Synthesis index; publish aborted.')
+          if 'CANÓNICO Y REABRIBLE / CANONICAL AND REOPENABLE' not in synth_index:
+              raise SystemExit('CANONICAL_STATE canonical status missing from Open Synthesis index; publish aborted.')
 
           print(f'MANIFESTO_REGISTRY=OK ({n})')
           print('NEOAXIOM_REGISTRY=OK')
@@ -168,7 +170,7 @@ jobs:
           print('BILINGUAL_STRUCTURE=OK')
           print('RELATIONAL_GRAPH=OK')
           print('APPLIED_RELATIONAL_FRONTIER=OK')
-          print('CANONICAL_STATE=7.3-CANDIDATE/NOT_CANON')
+          print('CANONICAL_STATE=7.3_CANON_OPEN')
           PY
       - name: Commit synchronized network if needed
         run: |
