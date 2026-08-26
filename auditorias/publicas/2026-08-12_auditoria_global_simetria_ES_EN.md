@@ -9,7 +9,7 @@
 
 - Markdown activo examinado / Active Markdown scanned: **356**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **290**.
-- Fallos estructurales divididos / Split structural failures: **4**.
+- Fallos estructurales divididos / Split structural failures: **3**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -20,9 +20,6 @@
   - ES · Evidencia y acción: párrafos ES=4 EN=3
 - `manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md` · ES=743 · EN=726 · ratio=0.98
   - 10: párrafos ES=4 EN=5
-- `propuestas/sintesis-abierta/NEOCORE_7_3_CANON_ES_EN.md` · ES=215 · EN=168 · ratio=0.78
-  - volumen EN/ES=0.78 (168/215)
-  - esqueleto de encabezados distinto ES=[(3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, '')] EN=[(3, ''), (3, ''), (3, ''), (3, ''), (3, '')]
 - `propuestas/sintesis-abierta/PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md` · ES=248 · EN=257 · ratio=1.04
   - esqueleto de encabezados distinto ES=[(3, ''), (3, '')] EN=[(3, ''), (3, ''), (2, '')]
 
@@ -327,7 +324,7 @@
 | `propuestas/sintesis-abierta/MEDICI_MOTOR_CALCULO_PLATAFORMAS_V0_1_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `propuestas/sintesis-abierta/NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md` | **OK** |  |
-| `propuestas/sintesis-abierta/NEOCORE_7_3_CANON_ES_EN.md` | **REVISAR** | volumen EN/ES=0.78 (168/215); esqueleto de encabezados distinto ES=[(3, ''), (3, ''), (3, ''), (3, ''), (3, ''), (3, '')] EN=[(3, ''), (3, ''), (3, ''), (3, ''), (3, '')] |
+| `propuestas/sintesis-abierta/NEOCORE_7_3_CANON_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/NEOCRONOS_RETORNO_TEMPORAL_TOKENIZACION_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/NEOCRONOS_UPGRADE_ENTRADA_PANEL_TRAZA_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md` | **OK** |  |
