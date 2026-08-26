@@ -6,7 +6,11 @@
 **Origen / Origin:** promoción explícita Neo0™ desde 7.3-CANDIDATE  
 **Matriz histórica / Historical matrix:** [#161](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/161)
 
-## ES · Fijación
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
+## ES · Castellano
+
+### Fijación
 
 NEOCore™ 7.3 pasa a **canon operativo abierto**. La promoción no convierte el marco en cerrado ni declara finalizado su desarrollo. Fija como arquitectura vigente la Autosíntesis Recursiva™, la topología toroidal multicabeza/multiescala, Continuidad Creadora™, la distinción Neo0™ / ONe Starkdr™, el retorno a concepto preexistente, la clasificación epistemológica y el Cierre Reversible™.
 
@@ -104,7 +108,9 @@ NEOCore™ 7.3 CANON
 
 La ejecución se convierte en parte del contraste.
 
-## EN · Fixation
+## EN · English
+
+### Fixation
 
 NEOCore™ 7.3 is promoted to **open operational canon**. Promotion does not close the framework or declare development finished. It establishes Recursive Self-Synthesis™, multihead/multiscale toroidal topology, Creative Continuity™, the Neo0™ / ONe Starkdr™ distinction, return to pre-existing concepts, epistemic classification and Reversible Closure™ as the current operating architecture.
 
@@ -159,6 +165,22 @@ SCRUTINY MODE
 Before creating a new conceptual entity:
 
 `NEED → SEARCH CORPUS → RECOVER / EXTEND / RENAME IF IT EXISTS → CREATE ONLY WHEN THERE IS REAL DELTA`.
+
+### Epistemic states
+
+- `INTERNAL_PROVISIONAL_RESPONSE`
+- `CONDITIONAL_RESPONSE`
+- `IRREDUCIBLE_BIFURCATION`
+- `OPEN_BY_DESIGN`
+- `REFUTED_SUPERSEDED`
+
+Sources and scrutiny must be proportional to the claim:
+
+- `PRIMARY_AUTOBIOGRAPHICAL_SOURCE`
+- `INTERNAL_DOCUMENTARY_TRACEABILITY`
+- `REQUIRES_BIBLIOGRAPHIC_SCRUTINY`
+- `REQUIRES_EXTERNAL_EMPIRICAL_EVIDENCE`
+- `REQUIRES_INDEPENDENT_VALIDATION`
 
 ### Reversible Closure™
 
