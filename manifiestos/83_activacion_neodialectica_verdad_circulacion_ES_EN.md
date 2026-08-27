@@ -3,7 +3,7 @@
 
 **Fecha / Date:** 2026-08-26  
 **Estado / Status:** PUBLICADO · SÍNTESIS ABIERTA / PUBLISHED · OPEN SYNTHESIS  
-**Marco / Framework:** Neodialéctica™ · NEOCore™ 7.3  
+**Marco / Framework:** Neodialéctica™ · NEOCore™  
 **Síntesis Abierta / Open Synthesis:** [#175](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/175)
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
