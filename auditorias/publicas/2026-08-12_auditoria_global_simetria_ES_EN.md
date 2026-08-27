@@ -16,19 +16,12 @@
 
 ## Fallos divididos / Split failures
 
-- `auditorias/publicas/2026-08-26_addendum_kdp_vinculacion_cruzada_es_en_formatos_51071689_ES_EN.md` · ES=625 · EN=535 · ratio=0.86
-  - ES · Evidencia y acción: párrafos ES=4 EN=3
+- `auditorias/publicas/2026-08-26_addendum_kdp_vinculacion_cruzada_es_en_formatos_51071689_ES_EN.md` · ES=834 · EN=722 · ratio=0.87
+  - ES · Ampliación 2026-08-27 · idiomas disponibles incompletos: párrafos ES=7 EN=6
 - `manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md` · ES=743 · EN=726 · ratio=0.98
   - 10: párrafos ES=4 EN=5
-- `propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` · ES=779 · EN=708 · ratio=0.91
-  - 3: quotes ES=1 EN=0
-  - 3: párrafos ES=3 EN=2
-  - 5: code ES=1 EN=0
-  - 5: párrafos ES=3 EN=2
-  - 6: code ES=1 EN=0
-  - 7: code ES=1 EN=0
-  - 7: párrafos ES=4 EN=5
-  - En sencillo: párrafos ES=1 EN=2
+- `propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` · ES=674 · EN=626 · ratio=0.93
+  - 9: párrafos ES=1 EN=2
 - `propuestas/sintesis-abierta/PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md` · ES=248 · EN=257 · ratio=1.04
   - esqueleto de encabezados distinto ES=[(3, ''), (3, '')] EN=[(3, ''), (3, ''), (2, '')]
 
@@ -197,7 +190,7 @@
 | `auditorias/publicas/2026-08-25_public_maxproc_run32_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-25_public_maxproc_run33_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-25_public_maxproc_run34_ES_EN.md` | **OK** |  |
-| `auditorias/publicas/2026-08-26_addendum_kdp_vinculacion_cruzada_es_en_formatos_51071689_ES_EN.md` | **REVISAR** | ES · Evidencia y acción: párrafos ES=4 EN=3 |
+| `auditorias/publicas/2026-08-26_addendum_kdp_vinculacion_cruzada_es_en_formatos_51071689_ES_EN.md` | **REVISAR** | ES · Ampliación 2026-08-27 · idiomas disponibles incompletos: párrafos ES=7 EN=6 |
 | `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/README.md` | **OK** |  |
@@ -322,7 +315,7 @@
 | `propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-25_DELTA_NEORRENACIMIENTO_GENEALOGIA_CONSTITUYENTES_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-25_EXTENSION_C_NAX_20_UNIDAD_DIFERENCIADA_ES_EN.md` | **OK** |  |
-| `propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` | **REVISAR** | 3: quotes ES=1 EN=0; 3: párrafos ES=3 EN=2; 5: code ES=1 EN=0; 5: párrafos ES=3 EN=2; 6: code ES=1 EN=0; 7: code ES=1 EN=0; 7: párrafos ES=4 EN=5; En sencillo: párrafos ES=1 EN=2 |
+| `propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` | **REVISAR** | 9: párrafos ES=1 EN=2 |
 | `propuestas/sintesis-abierta/ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_v0.1_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md` | **OK** |  |
