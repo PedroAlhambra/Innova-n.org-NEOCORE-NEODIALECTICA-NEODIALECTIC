@@ -115,7 +115,7 @@
 | `manifiestos/79_contra_alarmismo_sin_sintesis_responsabilidad_alternativa_ES_EN.md` | 690 | 667 | 0.97 | 13 | 13 | OK |
 | `manifiestos/80_neotrama_hojas_reconstruidas_agua_recuperada_fuego_de_agua_ES_EN.md` | 1394 | 1410 | 1.01 | 17 | 17 | OK |
 | `manifiestos/81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md` | 746 | 726 | 0.97 | 12 | 12 | OK |
-| `manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md` | 398 | 471 | 1.18 | 8 | 9 | OK |
+| `manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md` | 398 | 473 | 1.19 | 8 | 9 | OK |
 | `manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md` | 743 | 726 | 0.98 | 10 | 10 | OK |
 | `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | 2112 | 2116 | 1.00 | 13 | 13 | OK |
 | `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` | 611 | 611 | 1.00 | 1 | 1 | OK |
