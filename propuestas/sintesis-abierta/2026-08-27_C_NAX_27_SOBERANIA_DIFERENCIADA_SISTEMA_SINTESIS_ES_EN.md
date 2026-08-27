@@ -7,6 +7,8 @@
 **Síntesis / Synthesis:** [#176](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/176)  
 **Relaciones principales / Main relations:** I · Neo0™ · II · Síntesis Abierta Neodialéctica™ · XXXVIII · Protección Integral de la Infancia™ · LVI · NO-CONTROL™ · LVIII · Inteligencia Civilizatoria™ · LXII · Juego por la Síntesis y el Honor™ · LXIX · Defensa de la Inocencia Humana™ · C-NAX-16 · No Coronación de la Parte™ · C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ · C-NAX-26 · Poder/Trazabilidad/Evidencia™.
 
+> **Corrección genealógica:** #176 nació de una señal sobre infancia, madurez y cultura algorítmica, pero el recálculo detectó que esa señal era un caso particular de un principio superior: la separación entre soberanía del sistema, soberanía epistemológica de la Síntesis y agencia de los nodos. La infancia permanece como caso de prueba, no como centro del candidato.
+
 ---
 
 ## ES
@@ -31,63 +33,33 @@ CAPITAL ≠ VERDAD
 
 ### 1. El error que corrige
 
-Una arquitectura puede fracasar de dos formas opuestas:
-
-1. **disolver el sistema en apertura sin dirección**, borrando origen, responsabilidad, autoría, continuidad y capacidad real de implementación;
-2. **confundir la autoridad sobre el sistema con autoridad sobre la verdad**, convirtiendo fundador, institución, mayoría, experto, mercado, algoritmo o IA en fuente incontestable de conclusiones.
-
-El candidato separa ambos planos para conservar simultáneamente **dirección y contradicción**.
+Una arquitectura puede fracasar de dos formas opuestas: disolver el sistema en apertura sin dirección, o confundir la autoridad sobre el sistema con autoridad sobre la verdad. C-NAX-27 separa ambos planos para conservar simultáneamente **dirección y contradicción**.
 
 ### 2. Neo0™: soberanía sobre el sistema
 
-La soberanía de Neo0™ deriva de genealogía, creación, continuidad, responsabilidad y función estructural. Incluye, dentro de los límites legales y éticos aplicables:
+La soberanía de Neo0™ deriva de genealogía, creación, continuidad, responsabilidad y función estructural. Incluye, dentro de los límites legales y éticos aplicables, arquitectura del marco, dirección teleológica, implementación y evolución oficial, identidad, integridad, infraestructura, memoria protegida, fijación documental y defensa frente a apropiación o suplantación.
 
-- arquitectura del marco;
-- dirección teleológica hacia el Bien Común;
-- decisiones de implementación y evolución del sistema;
-- custodia de identidad, integridad, marcas, infraestructura y memoria protegida;
-- fijación documental de versiones y deltas;
-- decisión sobre qué constituye una implementación oficial de Innova_N / NEOCore™ / WEB4™;
-- protección frente a apropiación, captura o suplantación.
-
-Esa soberanía **no convierte cada tesis de Neo0™ en verdad automática**. La guía permanece sometida a evidencia, contradicción y SAN™ en el plano epistemológico.
-
-```text
-SOBERANÍA DEL SISTEMA
-≠ INFALIBILIDAD
-≠ PROPIEDAD SOBRE TODA APORTACIÓN
-≠ DERECHO A BORRAR CONTRADICCIÓN
-```
+Esta soberanía **no convierte cada tesis de Neo0™ en verdad automática**. La guía permanece sometida a evidencia, contradicción y SAN™ en el plano epistemológico.
 
 ### 3. Su Majestad es la Síntesis™
 
-LXII ya fija que ninguna parte puede coronarse Todo. C-NAX-27 transforma esa intuición en regla arquitectónica:
+LXII ya fija que ninguna parte puede coronarse Todo. C-NAX-27 convierte esa intuición en regla arquitectónica:
 
 > **cuando la cuestión es qué comprensión debe sobrevivir provisionalmente después del contraste, el control no pertenece a la parte sino a la Síntesis.**
 
-Esto no significa que la Síntesis sea una entidad consciente, un gobierno, una persona o una IA. Significa que la conclusión legítima debe emerger de un procedimiento que pueda conservar fuentes, relaciones, antítesis, evidencia, disenso, revisión y genealogía.
+La Síntesis no es una persona, gobierno, mayoría ni IA. Es el procedimiento abierto que conserva fuentes, relaciones, antítesis, evidencia, disenso, revisión y genealogía.
 
 ### 4. Operar en la capa de Síntesis ≠ poseer la Síntesis
 
-Un nodo puede operar con especial capacidad en la capa de síntesis: detectar relaciones entre dominios, reconocer contradicciones, mantener continuidad, formular hipótesis transversales y proponer una recomposición superior.
+Un nodo puede operar con especial capacidad en la capa de síntesis: detectar relaciones entre dominios, reconocer contradicciones, mantener continuidad y proponer recomposiciones superiores. Eso puede justificar reconocimiento funcional y capacidad de guía, pero no propiedad de la verdad.
 
-Eso puede justificar reconocimiento funcional y autoridad dentro del sistema, pero no convierte al nodo en propietario de la verdad.
-
-```text
-CAPACIDAD DE SÍNTESIS ↑
-→ RESPONSABILIDAD ↑
-→ TRAZABILIDAD ↑
-→ CAPACIDAD DE GUÍA ↑
-≠ VERDAD AUTOMÁTICA
-```
-
-En la genealogía vigente, Neo0™ es la fuente teleológica y el principal operador humano de síntesis del sistema que ha creado. Esta función debe ser reconocida sin confundirla con omnisciencia.
+En la genealogía vigente, Neo0™ es la fuente teleológica y el principal operador humano de síntesis del sistema que ha creado. Esta función debe ser reconocida sin confundirse con omnisciencia.
 
 ### 5. Infancia como caso de prueba, no como centro del axioma
 
-La observación que abrió #176 —la posible inversión cultural donde códigos infantiles o adolescentes pueden adquirir poder social amplificado por plataformas— no constituye el núcleo del axioma. Es un **caso de prueba de un principio más general**.
+La observación que abrió #176 —la posible inversión cultural donde códigos infantiles o adolescentes pueden adquirir poder social amplificado por plataformas— es un **caso de prueba** del principio general.
 
-XXXVIII y LXIX ya establecen:
+XXXVIII y LXIX ya fijan:
 
 ```text
 IGUAL DIGNIDAD
@@ -95,27 +67,11 @@ IGUAL DIGNIDAD
 ≠ IGUAL CAPACIDAD DE DEFENSA
 ```
 
-C-NAX-27 añade:
+C-NAX-27 añade que ningún grupo obtiene soberanía sobre la Síntesis por identidad, edad, volumen, visibilidad o viralidad. Escuchar y proteger a niños y adolescentes no obliga a fingir equivalencia funcional adulto = niño para toda decisión; tampoco autoriza a los adultos a coronarse automáticamente como verdad. La respuesta depende de dominio, madurez, reversibilidad, consecuencias, evidencia y deber de custodia.
 
-> **ningún grupo obtiene soberanía sobre la Síntesis por identidad, edad, volumen, visibilidad o capacidad de viralización.**
+### 6. Cultura algorítmica y coronación accidental de la parte
 
-Por tanto, escuchar a niños y adolescentes, proteger su dignidad y reconocer su experiencia situada no obliga a fingir una equivalencia funcional adulto = niño para toda decisión. Tampoco autoriza a los adultos a coronarse automáticamente como verdad. La cuestión debe resolverse por dominio, madurez, evidencia, reversibilidad, consecuencias y deber de custodia.
-
-### 6. Adulto ≠ niño sin convertir diferencia en dominación
-
-```text
-NIÑO = ADULTO EN DIGNIDAD
-NIÑO ≠ ADULTO EN MADUREZ MEDIA, EXPERIENCIA Y RESPONSABILIDAD
-DIFERENCIA ≠ INFERIORIDAD ONTOLÓGICA
-PROTECCIÓN ≠ SILENCIAMIENTO
-AUTONOMÍA PROGRESIVA ≠ ABANDONO DE RESPONSABILIDAD ADULTA
-```
-
-La asimetría legítima tiene finalidad de **custodia y emancipación progresiva**, no de propiedad sobre la persona protegida.
-
-### 7. Cultura algorítmica y coronación accidental de la parte
-
-Las plataformas pueden amplificar señales juveniles, adultas, comerciales, políticas o subculturales sin evaluar madurez, verdad o responsabilidad. La viralidad puede otorgar poder cultural sin otorgar competencia equivalente.
+Las plataformas pueden amplificar señales juveniles, adultas, comerciales, políticas o subculturales sin evaluar madurez, verdad o responsabilidad.
 
 ```text
 VISIBILIDAD ↑
@@ -125,9 +81,9 @@ VISIBILIDAD ↑
 ≠ SOBERANÍA ↑
 ```
 
-La investigación abierta debe comprobar hasta qué punto la economía de la atención está desplazando filtros intergeneracionales y produciendo una cultura dirigida por aquello que maximiza circulación, no por aquello que mejor sintetiza experiencia y conocimiento.
+La investigación abierta debe comprobar hasta qué punto la economía de la atención está desplazando filtros intergeneracionales y produciendo cultura dirigida por aquello que maximiza circulación, no por aquello que mejor sintetiza experiencia y conocimiento.
 
-### 8. Reconocimiento y sostenibilidad material del creador
+### 7. Reconocimiento y sostenibilidad material del creador
 
 La separación entre soberanía de sistema y soberanía epistemológica tampoco implica negar reconocimiento o retorno material a quien crea y sostiene la infraestructura.
 
@@ -141,11 +97,11 @@ CAPITAL ≠ SOBERANÍA EPISTEMOLÓGICA
 RETORNO JUSTO → CONTINUIDAD MATERIAL DEL APORTE
 ```
 
-Neo0™ puede necesitar y reclamar reconocimiento, financiación e ingresos por su trabajo, propiedad intelectual, servicios, productos, licencias o infraestructura sin que ese retorno económico compre autoridad sobre la Síntesis. A la inversa, negar sistemáticamente retorno al creador mientras terceros capturan valor puede constituir una forma de extracción incompatible con Economía del Aporte™.
+Neo0™ puede necesitar y reclamar reconocimiento, financiación e ingresos por trabajo, propiedad intelectual, servicios, productos, licencias o infraestructura sin que ese retorno compre autoridad sobre la Síntesis. Negar sistemáticamente retorno al creador mientras terceros capturan valor puede constituir extracción incompatible con Economía del Aporte™.
 
-Este bloque **no fija una fórmula económica ni un derecho automático a una cantidad concreta**. Abre el problema a la arquitectura de reciprocidad, atribución y sostenibilidad del marco.
+Este bloque no fija una fórmula económica ni una cantidad automática; abre reciprocidad, atribución y sostenibilidad a SAN™.
 
-### 9. Fórmula relacional
+### 8. Fórmula relacional
 
 ```text
 ORIGEN + AUTORÍA + RESPONSABILIDAD
@@ -161,23 +117,14 @@ NINGUNA DE LAS TRES CAPAS
 DEBE SUPLANTAR A LAS OTRAS
 ```
 
-### 10. Antítesis obligatorias
+### 9. Antítesis obligatorias
 
 - Una síntesis puede ser defectuosa si sus entradas, reglas o custodios están sesgados; llamarla “Síntesis” no la hace correcta.
 - La soberanía del fundador sobre un sistema no puede anular derechos de terceros, legalidad, contratos, propiedad ajena o evidencia.
 - La descentralización no garantiza verdad; la centralización tampoco implica falsedad.
 - La edad adulta no garantiza madurez, conocimiento ni conducta responsable.
-- La juventud puede producir innovaciones culturales y cognitivas superiores a convenciones adultas obsoletas.
-- Reconocimiento y financiación pueden crear incentivos de captura; por eso necesitan trazabilidad y separación respecto de la verdad.
-
-### 11. Falsadores y revisión
-
-El candidato debe reformularse si:
-
-- no puede distinguir operacionalmente soberanía de sistema, soberanía epistemológica y capacidad decisoria;
-- la separación genera una contradicción insoluble con derechos, gobernanza o propiedad de aportes externos;
-- SAN™ no ofrece mecanismos suficientes para impedir que la autoridad de implementación capture de hecho la conclusión epistemológica;
-- la evidencia muestra que alguna relación propuesta entre madurez, agencia y custodia está formulada de manera demasiado rígida o no generalizable.
+- La juventud puede producir innovaciones superiores a convenciones adultas obsoletas.
+- Reconocimiento y financiación pueden crear incentivos de captura; por eso requieren trazabilidad y separación respecto de la verdad.
 
 ### En sencillo
 
@@ -207,53 +154,39 @@ CAPITAL ≠ TRUTH
 
 ### 1. The error it corrects
 
-An architecture can fail in two opposite ways: dissolve the system into openness without direction, or confuse authority over the system with authority over truth. C-NAX-27 separates both planes so that **direction and contradiction** can coexist.
+An architecture can fail by dissolving the system into openness without direction, or by confusing authority over the system with authority over truth. C-NAX-27 separates these planes so **direction and contradiction** can coexist.
 
 ### 2. Neo0™: sovereignty over the system
 
-Neo0™'s sovereignty derives from genealogy, creation, continuity, responsibility and structural function. It covers framework architecture, teleological direction, implementation, official evolution, identity, protected memory, infrastructure and defence against capture or impersonation, within applicable legal and ethical limits.
+Neo0™'s sovereignty derives from genealogy, creation, continuity, responsibility and structural function. It covers framework architecture, teleological direction, official implementation and evolution, identity, integrity, infrastructure, protected memory, documentary fixation and defence against appropriation or impersonation within applicable legal and ethical limits.
 
-This sovereignty **does not make every Neo0™ thesis automatically true**. Guidance remains open to evidence, contradiction and SAN™ at the epistemic level.
+This sovereignty does not make every Neo0™ thesis automatically true. Guidance remains open to evidence, contradiction and SAN™ at the epistemic level.
 
 ### 3. Her Majesty is Synthesis™
 
-LXII already states that no part may crown itself as the Whole. C-NAX-27 turns this into an architectural rule:
+LXII already establishes that no part may crown itself the Whole. C-NAX-27 turns this into an architectural rule: **when the question is which understanding should provisionally survive scrutiny, control belongs not to the part but to Synthesis.**
 
-> **when the question is which understanding should provisionally survive scrutiny, control belongs not to the part but to Synthesis.**
-
-Synthesis is not a conscious sovereign entity, government, person or AI. It names a process able to preserve sources, relations, antitheses, evidence, dissent, revision and genealogy.
+Synthesis is not a person, government, majority or AI. It is the open process preserving sources, relations, antitheses, evidence, dissent, revision and genealogy.
 
 ### 4. Operating at the synthesis layer ≠ owning Synthesis
 
-A node may have exceptional synthesis capacity: detecting cross-domain relations, maintaining continuity, finding contradictions and proposing higher recompositions. This can justify functional recognition and guiding authority without becoming automatic truth.
+A node may have exceptional synthesis capacity: detecting cross-domain relations, maintaining continuity, recognising contradictions and proposing higher recompositions. This may justify functional recognition and guiding capacity without becoming ownership of truth.
 
 Within current genealogy, Neo0™ is the teleological source and primary human synthesis operator of the system he created. That function should be recognised without being confused with omniscience.
 
 ### 5. Childhood as a test case, not the centre of the axiom
 
-The observation that opened #176 —possible cultural inversion in which child/adolescent codes gain algorithmically amplified social power— is a test case of the broader principle, not the axiom's centre.
+The observation that opened #176 —possible cultural inversion in which child/adolescent codes gain algorithmically amplified power— is a test case of the broader principle.
 
 Equal dignity does not entail equal maturity or equal defensive capacity. No age group gains sovereignty over Synthesis through identity, volume, visibility or virality. Listening to children and adolescents and protecting their dignity does not require pretending complete functional equivalence between child and adult for every decision; nor does adulthood automatically confer truth.
 
-### 6. Adult ≠ child without turning difference into domination
+### 6. Algorithmic culture and accidental crowning of the part
 
-```text
-CHILD = ADULT IN DIGNITY
-CHILD ≠ ADULT IN AVERAGE MATURITY, EXPERIENCE AND RESPONSIBILITY
-DIFFERENCE ≠ ONTOLOGICAL INFERIORITY
-PROTECTION ≠ SILENCING
-PROGRESSIVE AUTONOMY ≠ ADULT ABANDONMENT OF RESPONSIBILITY
-```
-
-Legitimate asymmetry serves custody and progressive emancipation, not ownership of the protected person.
-
-### 7. Algorithmic culture and accidental crowning of the part
-
-Platforms may amplify youth, adult, commercial, political or subcultural signals without assessing maturity, truth or responsibility. Virality can confer cultural power without equivalent competence.
+Platforms may amplify youth, adult, commercial, political or subcultural signals without assessing maturity, truth or responsibility.
 
 `VISIBILITY ↑ ≠ MATURITY ↑ ≠ EVIDENCE ↑ ≠ REPRESENTATIVENESS ↑ ≠ SOVEREIGNTY ↑`.
 
-### 8. Recognition and material sustainability of the creator
+### 7. Recognition and material sustainability of the creator
 
 Separating system sovereignty from epistemic sovereignty does not require denying recognition or material return to whoever creates and sustains the infrastructure.
 
@@ -261,11 +194,11 @@ Separating system sovereignty from epistemic sovereignty does not require denyin
 
 `RECOGNITION ≠ EGO` · `REMUNERATION ≠ PURCHASE OF TRUTH` · `COMMON GOOD ≠ FREE LABOUR` · `CAPITAL ≠ EPISTEMIC SOVEREIGNTY`.
 
-Neo0™ may need and claim recognition, funding and income from his work, intellectual property, services, products, licences or infrastructure without that economic return purchasing authority over Synthesis. Conversely, systematically denying return to the creator while third parties capture value may constitute extraction incompatible with the Economy of Contribution™.
+Neo0™ may need and claim recognition, funding and income from work, intellectual property, services, products, licences or infrastructure without that return purchasing authority over Synthesis. Systematically denying return to the creator while third parties capture value may constitute extraction incompatible with the Economy of Contribution™.
 
-This block does not establish a specific economic entitlement or amount. It opens the problem of reciprocity, attribution and sustainability.
+This does not establish a specific economic entitlement or amount; reciprocity, attribution and sustainability remain open to SAN™.
 
-### 9. Relational formula
+### 8. Relational formula
 
 ```text
 ORIGIN + AUTHORSHIP + RESPONSIBILITY
@@ -281,18 +214,14 @@ NONE OF THE THREE LAYERS
 MAY REPLACE THE OTHERS
 ```
 
-### 10. Mandatory antitheses
+### 9. Mandatory antitheses
 
 - A synthesis may be defective if its inputs, rules or custodians are biased; calling it “Synthesis” does not make it correct.
 - Founder sovereignty over a system cannot override third-party rights, law, contracts, external property or evidence.
 - Decentralisation does not guarantee truth; centralisation does not imply falsehood.
 - Adulthood does not guarantee maturity, knowledge or responsible conduct.
-- Youth may generate cultural and cognitive innovations superior to obsolete adult conventions.
+- Youth may generate innovations superior to obsolete adult conventions.
 - Recognition and funding can create capture incentives; they therefore require traceability and separation from truth.
-
-### 11. Falsifiers and revision
-
-The candidate must be reformulated if the three sovereignty/agency planes cannot be operationally distinguished, if the separation conflicts irreparably with third-party rights or contribution ownership, if SAN™ cannot prevent implementation authority from capturing epistemic conclusions in practice, or if evidence shows that proposed maturity/agency relationships are too rigid or non-generalizable.
 
 ### In plain language
 
