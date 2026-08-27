@@ -20,21 +20,14 @@
   - ES · Evidencia y acción: párrafos ES=4 EN=3
 - `manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md` · ES=743 · EN=726 · ratio=0.98
   - 10: párrafos ES=4 EN=5
-- `propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` · ES=1005 · EN=808 · ratio=0.80
-  - volumen EN/ES=0.80 (808/1005)
-  - 1: lists ES=2 EN=0
-  - 1: párrafos ES=2 EN=1
-  - 2: lists ES=7 EN=0
-  - 2: code ES=1 EN=0
-  - 4: code ES=1 EN=0
-  - 4: párrafos ES=3 EN=2
-  - 5: quotes ES=1 EN=0
+- `propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` · ES=779 · EN=708 · ratio=0.91
+  - 3: quotes ES=1 EN=0
+  - 3: párrafos ES=3 EN=2
   - 5: code ES=1 EN=0
-  - 5: párrafos ES=5 EN=2
+  - 5: párrafos ES=3 EN=2
+  - 6: code ES=1 EN=0
   - 7: code ES=1 EN=0
-  - 8: code ES=1 EN=0
-  - 8: párrafos ES=4 EN=5
-  - 11: lists ES=4 EN=0
+  - 7: párrafos ES=4 EN=5
   - En sencillo: párrafos ES=1 EN=2
 - `propuestas/sintesis-abierta/PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md` · ES=248 · EN=257 · ratio=1.04
   - esqueleto de encabezados distinto ES=[(3, ''), (3, '')] EN=[(3, ''), (3, ''), (2, '')]
@@ -329,7 +322,7 @@
 | `propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-25_DELTA_NEORRENACIMIENTO_GENEALOGIA_CONSTITUYENTES_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-25_EXTENSION_C_NAX_20_UNIDAD_DIFERENCIADA_ES_EN.md` | **OK** |  |
-| `propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` | **REVISAR** | volumen EN/ES=0.80 (808/1005); 1: lists ES=2 EN=0; 1: párrafos ES=2 EN=1; 2: lists ES=7 EN=0; 2: code ES=1 EN=0; 4: code ES=1 EN=0; 4: párrafos ES=3 EN=2; 5: quotes ES=1 EN=0; 5: code ES=1 EN=0; 5: párrafos ES=5 EN=2; 7: code ES=1 EN=0; 8: code ES=1 EN=0; 8: párrafos ES=4 EN=5; 11: lists ES=4 EN=0; En sencillo: párrafos ES=1 EN=2 |
+| `propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` | **REVISAR** | 3: quotes ES=1 EN=0; 3: párrafos ES=3 EN=2; 5: code ES=1 EN=0; 5: párrafos ES=3 EN=2; 6: code ES=1 EN=0; 7: code ES=1 EN=0; 7: párrafos ES=4 EN=5; En sencillo: párrafos ES=1 EN=2 |
 | `propuestas/sintesis-abierta/ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_v0.1_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md` | **OK** |  |
