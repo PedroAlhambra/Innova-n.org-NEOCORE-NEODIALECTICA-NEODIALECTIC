@@ -1,9 +1,9 @@
 # Auditoría global de selectores de idioma ES/EN
 # Global ES/EN language-selector audit
 
-**Generada / Generated:** 2026-08-26 16:57 UTC  
-**Páginas ES/EN explícitas auditadas / Explicit ES/EN split pages audited:** **374**  
-**Fallos / Failures:** **4**  
+**Generada / Generated:** 2026-08-27 09:54 UTC  
+**Páginas ES/EN explícitas auditadas / Explicit ES/EN split pages audited:** **375**  
+**Fallos / Failures:** **5**  
 **LANGUAGE_SELECTOR_GATE:** **FAIL**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
@@ -20,8 +20,8 @@ Toda superficie Markdown pública y activa que exponga capas explícitas `ES` y 
 
 ## Resultado
 
-- Páginas auditadas: **374**.
-- Fallos: **4**.
+- Páginas auditadas: **375**.
+- Fallos: **5**.
 - Estado: **FAIL**.
 
 ## Detalle de fallos
@@ -29,6 +29,7 @@ Toda superficie Markdown pública y activa que exponga capas explícitas `ES` y 
 - `auditorias/publicas/2026-08-26_addendum_kdp_vinculacion_cruzada_es_en_formatos_51071689_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `propuestas/sintesis-abierta/2026-08-25_EXTENSION_C_NAX_20_UNIDAD_DIFERENCIADA_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
+- `propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `propuestas/sintesis-abierta/PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 
 ---
@@ -43,8 +44,8 @@ Every active public Markdown surface exposing explicit `ES` and `EN` layers must
 
 ## Result
 
-- Pages audited: **374**.
-- Failures: **4**.
+- Pages audited: **375**.
+- Failures: **5**.
 - Status: **FAIL**.
 
 ## Failure detail
@@ -52,4 +53,5 @@ Every active public Markdown surface exposing explicit `ES` and `EN` layers must
 - `auditorias/publicas/2026-08-26_addendum_kdp_vinculacion_cruzada_es_en_formatos_51071689_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `propuestas/sintesis-abierta/2026-08-25_EXTENSION_C_NAX_20_UNIDAD_DIFERENCIADA_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
+- `propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `propuestas/sintesis-abierta/PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector

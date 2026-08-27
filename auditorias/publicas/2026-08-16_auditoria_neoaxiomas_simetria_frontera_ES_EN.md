@@ -2,7 +2,7 @@
 # Neoaxiomatic ES/EN integrity and C-NAX frontier audit
 
 **Fecha / Date:** 2026-08-16  
-**Estado / Status:** **OK**  
+**Estado / Status:** **FAIL**  
 **Frontera dinámica / Dynamic frontier:** **C-NAX-15–C-NAX-26**  
 **Objeto / Scope:** NAX-01–NAX-14, registro C-NAX, formulaciones ES/EN, capa de claridad ES/EN, documentos dedicados, índice vivo y portal público de Síntesis Neoaxiomática. / NAX-01–NAX-14, C-NAX registry, ES/EN formulations, ES/EN clarity layer, dedicated documents, the live index and the public Neoaxiom Synthesis portal.
 
@@ -12,7 +12,7 @@
 - NAX canónicos EN / canonical EN NAX: **14** · `[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]`.
 - C-NAX registrados / registered C-NAX: **12** · `[15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]`.
 - C-NAX con bloque desarrollado / C-NAX with developed block: **12** · `[15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]`.
-- Documentos C-NAX dedicados detectados / dedicated C-NAX documents detected: `[23, 24, 25, 26]`.
+- Documentos C-NAX dedicados detectados / dedicated C-NAX documents detected: `[23, 24, 25, 26, 27]`.
 - Portal público de Síntesis Neoaxiomática / public Neoaxiom Synthesis portal: **OK**.
 
 ## Regla endurecida / Hardened rule
@@ -28,7 +28,7 @@
 
 ## Incidencias / Findings
 
-- Ninguna / None.
+- Documentos C-NAX dedicados ausentes del registro central / dedicated C-NAX docs missing from central registry: [27]
 
 ## Genealogía de la reparación / Repair genealogy
 
