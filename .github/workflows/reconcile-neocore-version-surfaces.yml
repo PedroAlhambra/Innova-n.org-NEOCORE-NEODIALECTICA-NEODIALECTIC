@@ -33,6 +33,6 @@ jobs:
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add manifiestos/README.md neoaxiomas/README.md web4/README.md wiki-source/README.md propuestas/sintesis-abierta/README.md manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md
+          git add manifiestos/README.md neoaxiomas/README.md web4/README.md wiki-source/README.md propuestas/sintesis-abierta/README.md manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md
           git commit -m 'docs: reconcile living NEOCore version references'
           git push
