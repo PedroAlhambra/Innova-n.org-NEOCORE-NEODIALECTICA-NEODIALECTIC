@@ -13466,8 +13466,7 @@
         ],
         "otros": [
           "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "README.md"
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
@@ -13492,8 +13491,7 @@
       "inbound": {
         "otros": [
           "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "README.md"
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
@@ -13526,8 +13524,7 @@
       "inbound": {
         "otros": [
           "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "README.md"
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
@@ -13548,8 +13545,7 @@
           "analisis/auditorias/README.md",
           "analisis/README.md",
           "manifiestos/README.md",
-          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-          "README.md"
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "analisis/publicos": [
           "analisis/publicos/evidencias/README.md",
@@ -13631,7 +13627,7 @@
       "sintesis": true,
       "relations": true,
       "manifestos": true,
-      "audit": true
+      "audit": false
     },
     {
       "path": "manifiestos/README.md",
