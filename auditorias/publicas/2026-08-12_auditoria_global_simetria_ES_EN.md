@@ -7,8 +7,8 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **358**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **292**.
+- Markdown activo examinado / Active Markdown scanned: **359**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **293**.
 - Fallos estructurales divididos / Split structural failures: **4**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
@@ -347,6 +347,7 @@
 | `proyeccion/README.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md` | **OK** |  |
 | `snapshots/2026-08-11_NEOCORE_7_CURRENT_SNAPSHOT.md` | **OK** |  |
+| `versiones/NEOCORE_7_3_2_ES_EN.md` | **OK** |  |
 | `versiones/README.md` | **OK** |  |
 | `web4/2026-08-10_POSTCHECK_WEB4_PRE_7_3_IDEA_ES_EN.md` | **HISTÓRICO-PRESERVADO** | registro histórico inerte; fuera de la superficie bilingüe viva / immutable historical record; outside the live bilingual surface |
 | `web4/README.md` | **OK** |  |
