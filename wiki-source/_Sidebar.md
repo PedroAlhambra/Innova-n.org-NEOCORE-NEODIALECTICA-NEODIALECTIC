@@ -1,6 +1,7 @@
 # Innova_N
 
-**NEOCore™ 7.3 · CANON ABIERTO · CANÓNICO Y REABRIBLE / OPEN CANON · CANONICAL AND REOPENABLE**
+**NEOCore™ · CANON ABIERTO · CANÓNICO Y REABRIBLE / OPEN CANON · CANONICAL AND REOPENABLE**  
+[Versión vigente e histórico / Current version and history](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/versiones/README.md)
 
 ## Entrar / Enter
 
@@ -32,11 +33,11 @@
 
 * [Repositorio canónico vivo / Living canonical repository](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC)
 * [README raíz / Root README](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/README.md)
-* [Canon 7.3 / 7.3 Canon](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/NEOCORE_7_3_CANON_ES_EN.md)
+* [Versión vigente e histórico / Current version and history](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/versiones/README.md)
 * [Snapshot histórico de referencia · 2026-08-11 / Historical reference snapshot · 2026-08-11](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/tree/snapshot/neocore-7-current-2026-08-11)
 
-**El estado vigente evoluciona desde el canon abierto 7.3; el snapshot conserva una referencia histórica y no limita deltas posteriores.**  
-**The current state evolves from the 7.3 open canon; the snapshot preserves a historical reference and does not limit later deltas.**
+**La Wiki no replica el número vigente: lo resuelve desde la página de versiones. Las versiones escritas en páginas históricas se conservan cuando forman parte de su procedencia.**  
+**The Wiki does not duplicate the current number: it resolves it from the versions page. Versions written in historical pages remain when they are part of provenance.**
 
 **Repositorio = fuente documental trazable. Wiki = mapa estable de orientación.**  
 **Repository = traceable documentary source. Wiki = stable orientation map.**
