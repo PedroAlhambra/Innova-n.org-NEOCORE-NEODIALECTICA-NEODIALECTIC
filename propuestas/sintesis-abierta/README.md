@@ -2,8 +2,8 @@
 
 <!-- NEOAXIOMAS_GLOBAL_LINK_START -->
 
-## NEOCore™ 7.3 CANON ABIERTO · Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™ + Soberanía de Síntesis™
-## NEOCore™ 7.3 OPEN CANON · First Fractal Multihead Layer™ + Neoaxiomatic Layer™ + Synthesis Sovereignty™
+## NEOCore™ · CANON ABIERTO · Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™ + Soberanía de Síntesis™
+## NEOCore™ · OPEN CANON · First Fractal Multihead Layer™ + Neoaxiomatic Layer™ + Synthesis Sovereignty™
 
 Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin convertirse en dogmas cerrados: permanecen abiertos a contraste, evidencia, crítica, refutación y revisión mediante **Síntesis Abierta Neodialéctica™ — SAN™**. / **Neoaxioms™** express high-stability principles of NEOCore™ without becoming closed dogma: they remain open to challenge, evidence, criticism, refutation and revision through **Neodialectical Open Synthesis™ — SAN™**.
 
@@ -26,7 +26,7 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 ## NEOCore™ 7.3 · CANON ABIERTO · Capa de Autosíntesis Recursiva™
 ## NEOCore™ 7.3 · OPEN CANON · Recursive Self-Synthesis Layer™
 
-NEOCore™ 7.3 fija como base operativa vigente la evolución recursiva de SAN™ dentro de una topología **toroidal, multicabeza y multiescala**. Toda síntesis permanece revisable y puede funcionar como tesis, antítesis, fragmento u origen en otra escala. Se distinguen dos tiempos: **modo creador** (captura, memoria, continuidad, relación) y **modo de contraste** (antítesis, estado epistemológico, evidencia/falsadores, delta y retorno al toroide). / NEOCore™ 7.3 fixes the recursive evolution of SAN™ as the current operating base within a **toroidal, multihead and multiscale** topology. Every synthesis remains revisable and may function as thesis, antithesis, fragment or origin at another scale. Two cognitive times are distinguished: **creative mode** (capture, memory, continuity, relation) and **scrutiny mode** (antithesis, epistemic state, evidence/falsifiers, delta and return to the toroid).
+NEOCore™ 7.3 fijó la evolución recursiva de SAN™ como capa de origen trazable dentro de una topología **toroidal, multicabeza y multiescala**. Toda síntesis permanece revisable y puede funcionar como tesis, antítesis, fragmento u origen en otra escala. Se distinguen dos tiempos: **modo creador** (captura, memoria, continuidad, relación) y **modo de contraste** (antítesis, estado epistemológico, evidencia/falsadores, delta y retorno al toroide). / NEOCore™ 7.3 fixed the recursive evolution of SAN™ as a traceable originating layer within a **toroidal, multihead and multiscale** topology. Every synthesis remains revisable and may function as thesis, antithesis, fragment or origin at another scale. Two cognitive times are distinguished: **creative mode** (capture, memory, continuity, relation) and **scrutiny mode** (antithesis, epistemic state, evidence/falsifiers, delta and return to the toroid).
 
 > **CANON ≠ DOGMA · CANON ≠ FINAL · AUTORRESPONDER ≠ AUTOVALIDAR / CANON ≠ DOGMA · CANON ≠ FINAL · SELF-ANSWERING ≠ SELF-VALIDATION.**
 
