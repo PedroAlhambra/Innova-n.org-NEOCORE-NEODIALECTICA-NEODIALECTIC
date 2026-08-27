@@ -49,11 +49,23 @@ for path in TARGETS:
             "NEOCore™ 7.3 fixed the recursive evolution of SAN™ as a traceable originating layer",
         )
 
+    if path.as_posix().endswith("manifiestos/README.md"):
+        text = text.replace(
+            "> **LXXXI · Manifiesto del Ultralujo como Bien Común™ · La élite del aporte / Manifesto of Ultraluxury as Common Good™ · The elite of contribution**\n>\n> **[Manifiesto del Ultralujo como Bien Común™ · La élite del aporte / Manifesto of Ultraluxury as Common Good™ · The elite of contribution](81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md) · [Síntesis Abierta LXXXI · #160 / Open Synthesis LXXXI · #160](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/160)**",
+            "> **LXXXIII · Manifiesto de Activación Neodialéctica™ · La verdad también tiene derecho a circular / Neodialectical Activation Manifesto™ · Truth also has the right to circulate**\n>\n> **[Manifiesto LXXXIII / Manifesto LXXXIII](83_activacion_neodialectica_verdad_circulacion_ES_EN.md) · [Síntesis Abierta LXXXIII · #175 / Open Synthesis LXXXIII · #175](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/175)**",
+        )
+        text = text.replace(
+            "**Frontera canónica vigente / Current canonical frontier:** **81 manifiestos finitos bilingües · I–LXXXI + Manifiesto ∞ / 81 finite bilingual manifestos · I–LXXXI + Manifesto ∞**  \n**Fecha de fijación de esta frontera / Frontier fixation date:** 2026-08-18",
+            "**Frontera canónica vigente / Current canonical frontier:** **83 manifiestos finitos bilingües · I–LXXXIII + Manifiesto ∞ / 83 finite bilingual manifestos · I–LXXXIII + Manifesto ∞**  \n**Fecha de fijación de esta frontera / Frontier fixation date:** 2026-08-27",
+        )
+        text = text.replace("Índice completo I–LXXXI + ∞ + Neoaxiomas + sistema", "Índice completo I–LXXXIII + ∞ + Neoaxiomas + sistema")
+        text = text.replace("Complete index](../propuestas", "Complete index](../propuestas")
+
     if text != original:
         path.write_text(text, encoding="utf-8")
         changed.append(path.relative_to(ROOT).as_posix())
 
-# LXXXII: remove a redundant dynamic-current label while preserving its 7.3-CANDIDATE genealogy.
+# LXXXII: dynamic current-state label removed; historical origin restored explicitly.
 p82 = ROOT / "manifiestos" / "82_ciencia_multidimensional_neodialectica_ES_EN.md"
 if p82.exists():
     text = p82.read_text(encoding="utf-8")
@@ -62,9 +74,26 @@ if p82.exists():
         "**Estado / Status:** Público · Síntesis Abierta · NEOCore™ 7.3 CANON ABIERTO / Public · Open Synthesis · NEOCore™ 7.3 OPEN CANON  ",
         "**Estado / Status:** Público · Síntesis Abierta / Public · Open Synthesis  ",
     )
+    text = text.replace(
+        "[NEOCore™ 7.3 CANON ABIERTO](../propuestas/sintesis-abierta/NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md) → LXXXII",
+        "[NEOCore™ 7.3-CANDIDATE · fase pre-canónica histórica](../propuestas/sintesis-abierta/NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md) → LXXXII",
+    )
     if text != original:
         p82.write_text(text, encoding="utf-8")
         changed.append(p82.relative_to(ROOT).as_posix())
+
+# LXXXIII: framework metadata is generic, not a version-of-origin assertion.
+p83 = ROOT / "manifiestos" / "83_activacion_neodialectica_verdad_circulacion_ES_EN.md"
+if p83.exists():
+    text = p83.read_text(encoding="utf-8")
+    original = text
+    text = text.replace(
+        "**Marco / Framework:** Neodialéctica™ · NEOCore™ 7.3  ",
+        "**Marco / Framework:** Neodialéctica™ · NEOCore™  ",
+    )
+    if text != original:
+        p83.write_text(text, encoding="utf-8")
+        changed.append(p83.relative_to(ROOT).as_posix())
 
 print("changed_files=")
 for item in changed:
