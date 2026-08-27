@@ -1,0 +1,40 @@
+name: Audit NEOCore current-version references
+
+on:
+  push:
+    paths:
+      - '**/*.md'
+      - '**/*.json'
+      - '**/*.yml'
+      - '**/*.yaml'
+      - '**/*.js'
+      - '**/*.mjs'
+      - '**/*.html'
+      - '.github/scripts/audit_neocore_current_version_references.py'
+      - '.github/workflows/audit-neocore-current-version-references.yml'
+  pull_request:
+    paths:
+      - '**/*.md'
+      - '**/*.json'
+      - '**/*.yml'
+      - '**/*.yaml'
+      - '**/*.js'
+      - '**/*.mjs'
+      - '**/*.html'
+      - '.github/scripts/audit_neocore_current_version_references.py'
+      - '.github/workflows/audit-neocore-current-version-references.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  version-reference-policy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Audit current-version propagation
+        run: python .github/scripts/audit_neocore_current_version_references.py
