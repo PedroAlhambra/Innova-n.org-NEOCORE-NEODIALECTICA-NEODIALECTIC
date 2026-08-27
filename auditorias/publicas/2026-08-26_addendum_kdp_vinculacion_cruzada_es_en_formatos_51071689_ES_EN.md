@@ -50,7 +50,32 @@ El **26 de agosto de 2026** se envió a soporte KDP un correo dentro del hilo de
 - comprobación del resto de familias lingüísticas de IDEA;
 - preservación de la relación correcta entre formatos de un mismo idioma.
 
-**Estado de síntesis:** abierto. No atribuir todavía causa técnica concreta ni afirmar la retirada definitiva de la tapa blanda española hasta recibir respuesta o evidencia adicional de Amazon KDP.
+## ES · Ampliación 2026-08-27 · idiomas disponibles incompletos
+
+Se detecta una tercera incoherencia de catálogo. Desde la edición en castellano, al consultar las **ediciones/idiomas disponibles**, Amazon muestra únicamente **finlandés** como alternativa lingüística.
+
+Esto no representa la familia real de la obra: **IDEA está publicada en múltiples idiomas**, por lo que la ficha española debería permitir acceder a todas las ediciones lingüísticas correctamente relacionadas que Amazon tenga publicadas y activas, no únicamente a la finlandesa.
+
+La incidencia deja de ser sólo una vinculación incorrecta entre formatos ES/EN y pasa a afectar también a la **relación entre familias lingüísticas**:
+
+```text
+FORMATO DENTRO DEL MISMO IDIOMA → RELACIÓN CORRECTA
+IDIOMAS DE UNA MISMA OBRA → FAMILIA COMPLETA Y ACCESIBLE
+
+ESPAÑOL → SOLO FINLANDÉS VISIBLE
+≠ FAMILIA LINGÜÍSTICA REAL DE IDEA
+```
+
+El **27 de agosto de 2026** se añadió esta observación al mismo hilo de soporte del caso **51071689**, solicitando expresamente que KDP/Amazon revise:
+
+- por qué desde la edición española sólo aparece finlandés como idioma disponible;
+- que todas las ediciones lingüísticas publicadas de IDEA estén correctamente relacionadas y accesibles;
+- que las relaciones entre idiomas no sustituyan ni rompan las relaciones entre formatos de un mismo idioma;
+- que la corrección se compruebe en la interfaz pública de Amazon y no sólo en metadatos internos.
+
+La prioridad de resolución se mantiene alta porque la incidencia ya afecta simultáneamente a **idioma, formato y descubribilidad de ediciones**, con riesgo de confusión, compra errónea y pérdida de ventas.
+
+**Estado de síntesis:** abierto. No atribuir todavía causa técnica concreta ni afirmar la retirada definitiva de formatos o idiomas hasta recibir respuesta o evidencia adicional de Amazon KDP.
 
 ---
 
@@ -106,4 +131,29 @@ On **26 August 2026**, an email was sent to KDP Support in the thread for **case
 - verification of the remaining IDEA language families;
 - preservation of correct relationships among formats belonging to the same language.
 
-**Synthesis status:** open. No specific technical cause or definitive removal of the Spanish paperback should be asserted until Amazon KDP provides a response or further evidence is obtained.
+## EN · 2026-08-27 extension · incomplete available-language family
+
+A third catalogue inconsistency has now been detected. From the Spanish edition, when checking the **available editions/languages**, Amazon currently shows only **Finnish** as an alternative language.
+
+This does not represent the actual language family of the work: **IDEA has been published in multiple languages**, so the Spanish product page should provide access to all correctly linked published and active language editions, rather than only Finnish.
+
+The incident therefore extends beyond incorrect ES/EN format linking and now also affects the **relationship between language families**:
+
+```text
+FORMAT WITHIN SAME LANGUAGE → CORRECT RELATION
+LANGUAGES OF SAME WORK → COMPLETE ACCESSIBLE FAMILY
+
+SPANISH → ONLY FINNISH VISIBLE
+≠ ACTUAL IDEA LANGUAGE FAMILY
+```
+
+On **27 August 2026**, this observation was added to the same KDP Support thread for **case 51071689**, explicitly requesting review of:
+
+- why only Finnish appears as an available language from the Spanish edition;
+- whether all published IDEA language editions are correctly related and accessible;
+- whether language relationships are interfering with or replacing same-language format relationships;
+- whether the correction is verified in Amazon's public interface rather than only in internal metadata.
+
+Resolution remains high priority because the incident now simultaneously affects **language, format and edition discoverability**, creating risk of customer confusion, wrong-language purchases and lost sales.
+
+**Synthesis status:** open. No specific technical cause or definitive removal of any format or language should be asserted until Amazon KDP provides a response or further evidence is obtained.
