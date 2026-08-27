@@ -16,8 +16,8 @@
 
 ## Fallos divididos / Split failures
 
-- `auditorias/publicas/2026-08-26_addendum_kdp_vinculacion_cruzada_es_en_formatos_51071689_ES_EN.md` · ES=834 · EN=722 · ratio=0.87
-  - ES · Ampliación 2026-08-27 · idiomas disponibles incompletos: párrafos ES=7 EN=6
+- `auditorias/publicas/2026-08-26_addendum_kdp_vinculacion_cruzada_es_en_formatos_51071689_ES_EN.md` · ES=932 · EN=817 · ratio=0.88
+  - ES · Ampliación 2026-08-27 · idiomas disponibles incompletos y reciprocidad global: párrafos ES=9 EN=8
 - `manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md` · ES=743 · EN=726 · ratio=0.98
   - 10: párrafos ES=4 EN=5
 - `propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` · ES=674 · EN=626 · ratio=0.93
@@ -190,7 +190,7 @@
 | `auditorias/publicas/2026-08-25_public_maxproc_run32_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-25_public_maxproc_run33_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-25_public_maxproc_run34_ES_EN.md` | **OK** |  |
-| `auditorias/publicas/2026-08-26_addendum_kdp_vinculacion_cruzada_es_en_formatos_51071689_ES_EN.md` | **REVISAR** | ES · Ampliación 2026-08-27 · idiomas disponibles incompletos: párrafos ES=7 EN=6 |
+| `auditorias/publicas/2026-08-26_addendum_kdp_vinculacion_cruzada_es_en_formatos_51071689_ES_EN.md` | **REVISAR** | ES · Ampliación 2026-08-27 · idiomas disponibles incompletos y reciprocidad global: párrafos ES=9 EN=8 |
 | `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/README.md` | **OK** |  |
