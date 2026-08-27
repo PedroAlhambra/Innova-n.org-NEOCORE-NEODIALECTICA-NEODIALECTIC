@@ -1,29 +1,24 @@
 # Índice Completo de Síntesis Abiertas™
 # Complete Open Synthesis™ Index
 
-**Fecha / Date:** 2026-08-19
+**Fecha / Date:** 2026-08-18
 **Estado / Status:** vivo, versionado y revisable / living, versioned and revisable  
 **Cobertura / Coverage:** **81 manifiestos finitos I–LXXXI + Manifiesto ∞ · 14 Neoaxiomas™ canónicos + 12 candidatos C-NAX-15–C-NAX-26 · síntesis transversales, auditorías y proyectos de sistema / 81 finite manifestos I–LXXXI + Manifesto ∞ · 14 canonical Neoaxioms™ + 12 candidates C-NAX-15–C-NAX-26 · cross-cutting syntheses, audits and system projects**.
 
 > **ABIERTO A SÍNTESIS ≠ VALIDADO.**  
 > **OPEN TO SYNTHESIS ≠ VALIDATED.**
 
-<!-- NEOCORE_73_CANDIDATE_START -->
+<!-- NEOCORE_73_CANON_START -->
 
-## 0 · NEOCore™ 7.3-CANDIDATE · Autosíntesis Recursiva™ / Recursive Self-Synthesis™
+## 0 · NEOCore™ 7.3 · CANON ABIERTO / OPEN CANON · Autosíntesis Recursiva™ / Recursive Self-Synthesis™
 
+- **Documento canónico / Canonical document:** [NEOCORE_7_3_CANON_ES_EN.md](NEOCORE_7_3_CANON_ES_EN.md)
 - **Documento matriz / Matrix document:** [NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md](NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md)
 - **Matriz conceptual / Conceptual matrix:** [#161](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/161)
-- **Delta arquitectónico · Continuidad Creadora, Neo0 y toroide / Architectural delta:** [#169](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/169) · [documento](2026-08-19_NEOCore_7_3_DELTA_CONTINUIDAD_CREADORA_NEO0_TOROIDE_ES_EN.md)
-- **Lote 01 · I–XII / Batch 01:** [#162](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/162)
-- **Lote 02 · XIII–XXXII / Batch 02:** [#168](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/168) · [documento](2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_02_XIII_XXXII_ES_EN.md)
-- **Lote 03A · XXXIII–XLII / Batch 03A:** [#170](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/170) · [documento](2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_03A_XXXIII_XLII_ES_EN.md)
-- **Lote 03B · XLIII–LII / Batch 03B:** [#171](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/171) · [documento](2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_03B_XLIII_LII_ES_EN.md)
-- **Registro documental / Documentary registry:** [#163](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/163)
-- **Cobertura actual / Current coverage:** **I–LII**; siguiente tanda / next batch **LIII–LXVIII**.
-- **Estado / Status:** `7.3-CANDIDATE`; promoción a canon sólo tras completar cobertura, clasificación de fuentes/evidencia, simetría, Neoaxiomas y auditoría relacional final. / promotion to canon only after completing coverage, source/evidence classification, symmetry, Neoaxioms and final relational audit.
+- **Delta arquitectónico / Architectural delta:** [#169](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/169)
+- **Estado / Status:** `CANÓNICO Y REABRIBLE / CANONICAL AND REOPENABLE`. Las preguntas, auditorías y contrastes pendientes abren deltas posteriores; no revierten por sí solos el estado canónico. / Pending questions, audits and scrutiny open subsequent deltas; they do not by themselves revert canonical status.
 
-<!-- NEOCORE_73_CANDIDATE_END -->
+<!-- NEOCORE_73_CANON_END -->
 
 
 ## Regla de acceso / Access rule

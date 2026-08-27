@@ -21,18 +21,18 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 > **ABIERTO A SÍNTESIS ≠ VALIDADO.**  
 > **OPEN TO SYNTHESIS ≠ VALIDATED.**
 
-<!-- NEOCORE_73_CANDIDATE_START -->
+<!-- NEOCORE_73_CANON_START -->
 
-## NEOCore™ 7.3 CANON ABIERTO · Capa de Autosíntesis Recursiva™
-## NEOCore™ 7.3 CANON ABIERTO · Recursive Self-Synthesis Layer™
+## NEOCore™ 7.3 · CANON ABIERTO · Capa de Autosíntesis Recursiva™
+## NEOCore™ 7.3 · OPEN CANON · Recursive Self-Synthesis Layer™
 
-La evolución 7.3 CANON ABIERTO añade una fase recursiva a SAN™ dentro de una topología **toroidal, multicabeza y multiescala**. Toda síntesis permanece revisable y puede funcionar como tesis, antítesis, fragmento u origen en otra escala. Desde #169 se distinguen dos tiempos: **modo creador** (captura, memoria, continuidad, relación) y **modo de contraste** (antítesis, estado epistemológico, evidencia/falsadores, delta y retorno al toroide). / The 7.3 CANON ABIERTO evolution adds a recursive phase to SAN™ within a **toroidal, multihead and multiscale** topology. Every synthesis remains revisable and may function as thesis, antithesis, fragment or origin at another scale. Since #169 two cognitive times are distinguished: **creative mode** (capture, memory, continuity, relation) and **scrutiny mode** (antithesis, epistemic state, evidence/falsifiers, delta and return to the toroid).
+NEOCore™ 7.3 fija como base operativa vigente la evolución recursiva de SAN™ dentro de una topología **toroidal, multicabeza y multiescala**. Toda síntesis permanece revisable y puede funcionar como tesis, antítesis, fragmento u origen en otra escala. Se distinguen dos tiempos: **modo creador** (captura, memoria, continuidad, relación) y **modo de contraste** (antítesis, estado epistemológico, evidencia/falsadores, delta y retorno al toroide). / NEOCore™ 7.3 fixes the recursive evolution of SAN™ as the current operating base within a **toroidal, multihead and multiscale** topology. Every synthesis remains revisable and may function as thesis, antithesis, fragment or origin at another scale. Two cognitive times are distinguished: **creative mode** (capture, memory, continuity, relation) and **scrutiny mode** (antithesis, epistemic state, evidence/falsifiers, delta and return to the toroid).
 
-> **AUTORRESPONDER ≠ AUTOVALIDAR · CREAR ≠ JUZGAR EN EL MISMO INSTANTE / SELF-ANSWERING ≠ SELF-VALIDATION · CREATING ≠ JUDGING AT THE SAME INSTANT.**
+> **CANON ≠ DOGMA · CANON ≠ FINAL · AUTORRESPONDER ≠ AUTOVALIDAR / CANON ≠ DOGMA · CANON ≠ FINAL · SELF-ANSWERING ≠ SELF-VALIDATION.**
 
-[Documento / Document](NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md) · [Delta #169](2026-08-19_NEOCore_7_3_DELTA_CONTINUIDAD_CREADORA_NEO0_TOROIDE_ES_EN.md) · [Matriz #161](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/161) · [I–XII #162](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/162) · [XIII–XXXII #168](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/168) · [XXXIII–XLII #170](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/170) · [XLIII–LII #171](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/171) · [Documento 03A](2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_03A_XXXIII_XLII_ES_EN.md) · [Documento 03B](2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_03B_XLIII_LII_ES_EN.md) · [Registro #163](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/163)
+[Canon 7.3 / 7.3 Canon](NEOCORE_7_3_CANON_ES_EN.md) · [Documento matriz / Matrix document](NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md) · [Matriz #161](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/161)
 
-<!-- NEOCORE_73_CANDIDATE_END -->
+<!-- NEOCORE_73_CANON_END -->
 
 
 ## Fuente de verdad / Source of truth

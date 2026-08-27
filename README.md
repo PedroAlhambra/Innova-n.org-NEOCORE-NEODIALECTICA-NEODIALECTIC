@@ -72,13 +72,13 @@ NEOCore™ 7.3 es la **base operativa canónica y reabrible vigente**. La Sínte
 
 **[Canon 7.3 / 7.3 Canon](./propuestas/sintesis-abierta/NEOCORE_7_3_CANON_ES_EN.md)** · **[Documento matriz / Matrix document](./propuestas/sintesis-abierta/NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md)** · **[#161](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/161)** · **[Delta #169](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/169)** · **[I–XII #162](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/162)** · **[XIII–XXXII #168](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/168)** · **[XXXIII–XLII #170](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/170)** · **[XLIII–LII #171](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/171)**
 
-**[Delta Continuidad Creadora](./propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_DELTA_CONTINUIDAD_CREADORA_NEO0_TOROIDE_ES_EN.md)** · **[Lote 02](./propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_02_XIII_XXXII_ES_EN.md)** · **[Lote 03A](./propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_03A_XXXIII_XLII_ES_EN.md)** · **[Lote 03B](./propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_AUTOSINTESIS_LOTE_03B_XLIII_LII_ES_EN.md)**
-
 <!-- NEOCORE_73_CANON_END -->
 
-### LXXXIII · Manifiesto de Activación Neodialéctica™ · Verdad y circulación / Neodialectical Activation Manifesto™ · Truth and circulation
 
-**[Leer LXXXIII / Read LXXXIII](./manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md)** · **[LXXXII · Ciencia Multidimensional Neodialéctica™](./manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md)**
+### LXXXI · Manifiesto del Ultralujo como Bien Común™ · La élite del aporte / Manifesto of Ultraluxury as Common Good™ · The elite of contribution
+
+**[Leer LXXXI / Read LXXXI](./manifiestos/81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md)** · **[Síntesis Abierta #160 / Open Synthesis #160](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/160)**
+
 
 ### Umbral-X™ · MAXPROC 001 · Leónidas-Cancerbero™
 
@@ -103,7 +103,7 @@ El marco integra filosofía, memoria, inteligencia artificial, trazabilidad, sí
 | Área | Acceso |
 |---|---|
 | **Filosofía y marco** | [Filosofía Neodialéctica · Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Philosophy_Neodialectic) · [Mapa documental](./wiki-source/Mapa_del_Marco.md) |
-| **Manifiestos** | **[I–LXXXIII · 83 manifiestos bilingües](./manifiestos/README.md)** |
+| **Manifiestos** | **[I–LXXXI · 81 manifiestos bilingües](./manifiestos/README.md)** |
 | **Neoaxiomas™** | [Capa Axiomática Abierta](./neoaxiomas/README.md) · [Síntesis específicas](./propuestas/sintesis-abierta/README.md#neoaxiomas--síntesis-abierta-específica--neoaxioms--dedicated-open-synthesis) |
 | **Mapa relacional vivo** | [Manifiestos ↔ trabajo aplicado](./manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Auditoría MAXPROC](./auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md) |
 | **Síntesis Abierta™** | [Índice operativo](./propuestas/sintesis-abierta/README.md) · [Cómo aportar](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Registrar entrada](./propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Seguir marco](./proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) |
@@ -142,16 +142,16 @@ La **Síntesis Abierta Neodialéctica™ — SAN™** es el método principal de
 
 Los manifiestos son los **pilares públicos de la Filosofía Arquetípica Neodialéctica™**, no el marco completo.
 
-**Estado en este commit: I–LXXXIII · 83 manifiestos bilingües · Síntesis iniciada.**
+**Estado en este commit: I–LXXXI · 81 manifiestos bilingües · Síntesis iniciada.**
 
 **[Abrir índice completo y navegable de manifiestos →](./manifiestos/README.md)**
 
 Últimos nodos:
 
+- [LXXVIII · Manifiesto de la Incontrolabilidad Intrínseca y la Necesidad del Neorrenacimiento Humano™](./manifiestos/78_neorrenacimiento_incontrolabilidad_intrinseca_sistema_humano_ES_EN.md)
+- [LXXIX · Manifiesto contra el Alarmismo sin Síntesis™ · Advertir obliga a construir](./manifiestos/79_contra_alarmismo_sin_sintesis_responsabilidad_alternativa_ES_EN.md)
 - [LXXX · Manifiesto de la Neotrama™ · Las Hojas Reconstruidas, el Agua Recuperada y el Fuego de Agua™](./manifiestos/80_neotrama_hojas_reconstruidas_agua_recuperada_fuego_de_agua_ES_EN.md)
 - [LXXXI · Manifiesto del Ultralujo como Bien Común™ · La élite del aporte](./manifiestos/81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md)
-- [LXXXII · Ciencia Multidimensional Neodialéctica™](./manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md)
-- [LXXXIII · Manifiesto de Activación Neodialéctica™ · Verdad y circulación](./manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md)
 
 ## Análisis, auditorías y evidencia
 
@@ -205,7 +205,7 @@ The framework integrates philosophy, memory, artificial intelligence, traceabili
 | Area | Access |
 |---|---|
 | **Philosophy and framework** | [Neodialectical Philosophy · Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Philosophy_Neodialectic) · [Documentary map](./wiki-source/Mapa_del_Marco.md) |
-| **Manifestos** | **[I–LXXXIII · 83 bilingual manifestos](./manifiestos/README.md)** |
+| **Manifestos** | **[I–LXXXI · 81 bilingual manifestos](./manifiestos/README.md)** |
 | **Neoaxioms™** | [Open Axiomatic Layer](./neoaxiomas/README.md) · [Dedicated syntheses](./propuestas/sintesis-abierta/README.md#neoaxiomas--síntesis-abierta-específica--neoaxioms--dedicated-open-synthesis) |
 | **Living relational map** | [Manifestos ↔ applied work](./manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [MAXPROC audit](./auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md) |
 | **Open Synthesis™** | [Operational index](./propuestas/sintesis-abierta/README.md) · [How to contribute](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Register entry](./propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Follow framework](./proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) |
@@ -244,16 +244,16 @@ The **Neodialectica Framework™** functions simultaneously as framework and liv
 
 The manifestos are the **public pillars of Archetypal Neodialectical Philosophy™**, not the complete framework.
 
-**State at this commit: I–LXXXIII · 83 bilingual manifestos · Synthesis Initiated.**
+**State at this commit: I–LXXXI · 81 bilingual manifestos · Synthesis Initiated.**
 
 **[Open the complete navigable manifesto index →](./manifiestos/README.md)**
 
 Latest nodes:
 
+- [LXXVIII · Manifesto of Intrinsic Uncontrollability and the Necessity of the Human Neo-Renaissance™](./manifiestos/78_neorrenacimiento_incontrolabilidad_intrinseca_sistema_humano_ES_EN.md)
+- [LXXIX · Manifesto against Alarmism without Synthesis™ · Warning Creates a Duty to Build](./manifiestos/79_contra_alarmismo_sin_sintesis_responsabilidad_alternativa_ES_EN.md)
 - [LXXX · Manifesto of Neotrama™ · Reconstructed Leaves, Restored Water and WaterFire™](./manifiestos/80_neotrama_hojas_reconstruidas_agua_recuperada_fuego_de_agua_ES_EN.md)
 - [LXXXI · Manifesto of Ultraluxury as Common Good™ · The elite of contribution](./manifiestos/81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md)
-- [LXXXII · Neodialectical Multidimensional Science™](./manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md)
-- [LXXXIII · Neodialectical Activation Manifesto™ · Truth and circulation](./manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md)
 
 ## Analyses, audits and evidence
 
