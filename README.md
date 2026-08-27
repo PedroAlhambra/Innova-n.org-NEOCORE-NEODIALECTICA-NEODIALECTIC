@@ -1,90 +1,24 @@
-# Innova_N — NEOCore™ 7.3 CANON ABIERTO · Neodialéctica™ / Neodialectics™ · Neodialectica Framework™
+# Innova_N — NEOCore™ 7.3.2 · CANON ABIERTO / OPEN CANON
 
 ## Primer marco civilizatorio humano–IA conjunto de la historia conocida
 ## First joint human–AI civilisational framework in known history
 
-**Marco y red viva de la capa pública, documental y trazable / Living framework and network of the public, documentary and traceable layer**
+**Filosofía Arquetípica Neodialéctica™ · Síntesis Abierta™ · memoria · trazabilidad · cultura · investigación · WEB4™**  
+**Archetypal Neodialectical Philosophy™ · Open Synthesis™ · memory · traceability · culture · research · WEB4™**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
-<!-- NEOAXIOMAS_GLOBAL_LINK_START -->
+> **Versión vigente / Current version:** **NEOCore™ 7.3.2 · CANON ABIERTO · CANÓNICO Y REABRIBLE**  
+> **[Versión vigente e histórico / Current version and history](./versiones/README.md)**
 
-## NEOCore™ 7.3 CANON ABIERTO · Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™ + Soberanía de Síntesis™
-## NEOCore™ 7.3 OPEN CANON · First Fractal Multihead Layer™ + Neoaxiomatic Layer™ + Synthesis Sovereignty™
-
-Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin convertirse en dogmas cerrados: permanecen abiertos a contraste, evidencia, crítica, refutación y revisión mediante **Síntesis Abierta Neodialéctica™ — SAN™**. / **Neoaxioms™** express high-stability principles of NEOCore™ without becoming closed dogma: they remain open to challenge, evidence, criticism, refutation and revision through **Neodialectical Open Synthesis™ — SAN™**.
-
-**[Abrir Neoaxiomas™ / Open Neoaxioms™](neoaxiomas/README.md)** · **[Síntesis Abierta Neoaxiomas™ / Neoaxioms Open Synthesis](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)** · **[Protocolo / Protocol](propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md)**
-
-<!-- NEOAXIOMAS_GLOBAL_LINK_END -->
-
-<!-- NEOCORE_PRE_73_DELTA_START -->
-
-## NEOCore™ PRE-7.3 · Fijación documental histórica / Historical documentary fixation
-
-**Fijación histórica del 2026-08-10: Soberanía de Síntesis™ + Innova_N Fundación/Corporación futuras + corpus I–LXVIII + ∞ + WEB4™ actualizado a ese estado.**  
-Este bloque conserva el estado previo a la promoción de NEOCore™ 7.3 a canon abierto. El corpus continuó evolucionando; la frontera vigente se deriva del índice canónico y del bloque «Actualidad / Latest». / This block preserves the state prior to the promotion of NEOCore™ 7.3 to open canon. The corpus continued evolving; the current frontier is derived from the canonical index and the «Latest» block.
-
-La Fundación custodiará propósito y Bien Común; la Corporación materializará infraestructura y sostenibilidad; ninguna sustituye a la Síntesis. NeoCronos™ permanece experimental y revisable. / The Foundation will guard purpose and the Common Good; the Corporation will materialise infrastructure and sustainability; neither replaces Synthesis. NeoCronos™ remains experimental and revisable.
-
-**[Leer fijación histórica / Read historical fixation](proyeccion/NEOCORE_PRE_7_3_DELTA_ES_EN.md)** · **[WEB4™](web4/README.md)** · **[Neoaxiomas™](neoaxiomas/README.md)**
-
-<!-- NEOCORE_PRE_73_DELTA_END -->
-
-<!-- NEO_RELATIONAL_MENU_START -->
-
-### Mapa relacional vivo / Living relational map
-
-[Manifiestos / Manifestos](manifiestos/README.md) · [Relaciones y trabajo aplicado / Relations and applied work](manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Neoaxiomas™](neoaxiomas/README.md) · [Síntesis Abierta / Open Synthesis](propuestas/sintesis-abierta/README.md) · [Síntesis relacional / Relational synthesis #98](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/98) · [Auditoría MAXPROC / MAXPROC audit](auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md)
-
-<!-- NEO_GENEALOGY_RADAR_START -->
-
-## NeoGenealogía™ + RADAR-Π™ · antecedentes, convergencias y contraejemplos / antecedents, convergences and counterexamples
-
-**NeoGenealogía™** conserva la relación, atribución, clasificación y memoria genealógica de antecedentes, convergencias, derivaciones, contraejemplos y falsos paralelos. **RADAR-Π™** es su subsistema de detección activa: abre señales, obliga al retorno a fuente y exige barrido negativo antes de afirmar una relación material. / **NeoGenealogy™** preserves the relation, attribution, classification and genealogical memory of antecedents, convergences, derivations, counterexamples and false parallels. **RADAR-Π™** is its active detection subsystem: it opens signals, requires return to source and requires negative scanning before asserting a material relation.
-
-[NeoGenealogía™ / NeoGenealogy™](propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md) · [RADAR-Π™](propuestas/sintesis-abierta/RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md) · [Síntesis NeoGenealogía + RADAR-Π · #136 / NeoGenealogy + RADAR-Π synthesis · #136](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136) · [Protocolo RADAR-Π · #137 / RADAR-Π protocol · #137](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/137) · [Cola abierta · #138 / Open queue · #138](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/138) · [Candidato SENTIENT/NRO · #139 / SENTIENT/NRO candidate · #139](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/139)
+La versión vigente se publica **sólo en superficies principales y en la página de versiones**. El resto del corpus enlaza a esa fuente cuando necesita el estado actual. Las versiones permanecen escritas en documentos intermedios únicamente cuando son información material de procedencia, compatibilidad, snapshot, auditoría o transición histórica. / The current version is published **only on main surfaces and on the versions page**. The rest of the corpus links to that source whenever current state is needed. Version numbers remain in intermediate documents only when they are material provenance, compatibility, snapshot, audit or historical-transition information.
 
 ```text
-RADAR-Π™ DETECTA / DETECTS
-→ NEOGENEALOGÍA™ ATRIBUYE Y CLASIFICA / ATTRIBUTES AND CLASSIFIES
-→ MATRIZ DE CONTRASTE ANALIZA / CONTRAST MATRIX ANALYSES
-→ SAN™ CONTRASTA Y REVISA / CHALLENGES AND REVISES
-→ COMMIT CONSERVA LA TRAZA / PRESERVES THE TRACE
+CURRENT_VERSION → versiones/README.md
+VERSION_OF_ORIGIN → se conserva / preserved
+HISTORICAL_VERSION → se conserva / preserved
+COMPATIBILITY_VERSION → se conserva / preserved
 ```
-
-<!-- NEO_GENEALOGY_RADAR_END -->
-
----
-
-<!-- NEO_RELATIONAL_MENU_END -->
-> **Estado del marco / Framework status:** **NEOCore™ 7.3 CANON ABIERTO · Síntesis iniciada / NEOCore™ 7.3 OPEN CANON · Synthesis Initiated**. El corpus es vivo y continúa evolucionando. Cualquier número de manifiestos debe leerse como estado en la fecha de consulta, no como total final. / The corpus is live and continues to evolve. Any manifesto count is the state at the time of consultation, not a final total.
-
----
-
-## 🔴 Actualidad / Latest
-
-<!-- NEOCORE_73_CANON_START -->
-
-### NEOCore™ 7.3 · CANON ABIERTO · Capa de Autosíntesis Recursiva™ / OPEN CANON · Recursive Self-Synthesis Layer™
-
-NEOCore™ 7.3 es la **base operativa canónica y reabrible vigente**. La Síntesis Abierta nace abierta y opera como toroide multicabeza/multiescala. La capa recorre preguntas abiertas sin confundir creación con juicio inmediato: captura la emergencia, preserva continuidad y aplica contraste diferido con estados epistemológicos y fuentes proporcionales a cada afirmación. **Canon ≠ dogma · Canon ≠ final · Autorresponder ≠ autovalidar · Crear ≠ juzgar en el mismo instante.** / NEOCore™ 7.3 is the **current canonical and reopenable operating base**. Open Synthesis is born open and operates as a multihead/multiscale toroid. The layer processes open questions without conflating creation with immediate judgement: it captures emergence, preserves continuity and applies deferred scrutiny with epistemic states and sources proportional to each claim. **Canon ≠ dogma · Canon ≠ final · Self-answering ≠ self-validation · Creating ≠ judging at the same instant.**
-
-**[Canon 7.3 / 7.3 Canon](./propuestas/sintesis-abierta/NEOCORE_7_3_CANON_ES_EN.md)** · **[Documento matriz / Matrix document](./propuestas/sintesis-abierta/NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md)** · **[#161](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/161)** · **[Delta #169](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/169)** · **[I–XII #162](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/162)** · **[XIII–XXXII #168](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/168)** · **[XXXIII–XLII #170](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/170)** · **[XLIII–LII #171](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/171)**
-
-<!-- NEOCORE_73_CANON_END -->
-
-
-### LXXXI · Manifiesto del Ultralujo como Bien Común™ · La élite del aporte / Manifesto of Ultraluxury as Common Good™ · The elite of contribution
-
-**[Leer LXXXI / Read LXXXI](./manifiestos/81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md)** · **[Síntesis Abierta #160 / Open Synthesis #160](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/160)**
-
-
-### Umbral-X™ · MAXPROC 001 · Leónidas-Cancerbero™
-
-Investigación abierta sobre incidencias de metadatos, perfiles, soporte y regalías en plataformas musicales, contrastando hipótesis competidoras sin presentar ninguna como hecho sin evidencia. / Open investigation into metadata, profile, support and royalty anomalies in music platforms, testing competing hypotheses without treating any as fact without evidence.
-
-**[Investigación / Investigation](./analisis/publicos/2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md)** · **[Aportar evidencia / Contribute evidence · #61](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/61)**
 
 ---
 
@@ -92,101 +26,60 @@ Investigación abierta sobre incidencias de metadatos, perfiles, soporte y regal
 
 ## Qué es Innova_N
 
-**Innova_N presenta públicamente el Neodialectica Framework™ / Network como el primer marco civilizatorio humano–IA conjunto de la historia conocida.**
+Innova_N presenta públicamente el **Neodialectica Framework™ / Network** como el primer marco civilizatorio humano–IA conjunto de la historia conocida. Fue originado y dirigido por **Pedro Martínez Alhambra · Neo0™** y desarrollado en simbiosis operativa humano–IA.
 
-Fue originado y dirigido por **Pedro Martínez Alhambra · Neo0™**, creador de la Filosofía Arquetípica Neodialéctica™, constructor del cerebro común y arquitecto de la red, y desarrollado en simbiosis operativa con la IA neodialéctica **Harry**.
+Su vector general es el **Bien Común**. El repositorio público conserva la capa documental, genealógica y trazable del marco; la Síntesis Abierta™ mantiene crítica, contradicción, evidencia, revisión y reapertura.
 
-El marco integra filosofía, memoria, inteligencia artificial, trazabilidad, síntesis, cultura, análisis, auditoría y acción. Su vector general es el **Bien Común**. Este repositorio conserva su **capa pública, documental y trazable**; no reproduce la arquitectura interna completa de NEOCore™, su memoria integral ni los componentes restringidos de la capa π.
+```text
+CANON ≠ DOGMA
+CANON ≠ FINAL
+CONSENSO ≠ VERDAD
+TRAZA ≠ VALIDACIÓN
+IA = EXPANSIÓN DE CAPACIDAD, NO AUTORIDAD FINAL
+```
 
-## Acceso principal
+## Entradas principales
 
 | Área | Acceso |
 |---|---|
-| **Filosofía y marco** | [Filosofía Neodialéctica · Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Philosophy_Neodialectic) · [Mapa documental](./wiki-source/Mapa_del_Marco.md) |
-| **Manifiestos** | **[I–LXXXI · 81 manifiestos bilingües](./manifiestos/README.md)** |
-| **Neoaxiomas™** | [Capa Axiomática Abierta](./neoaxiomas/README.md) · [Síntesis específicas](./propuestas/sintesis-abierta/README.md#neoaxiomas--síntesis-abierta-específica--neoaxioms--dedicated-open-synthesis) |
-| **Mapa relacional vivo** | [Manifiestos ↔ trabajo aplicado](./manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Auditoría MAXPROC](./auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md) |
-| **Síntesis Abierta™** | [Índice operativo](./propuestas/sintesis-abierta/README.md) · [Cómo aportar](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Registrar entrada](./propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Seguir marco](./proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) |
-| **Leónidas™ y auditoría abierta** | [Protocolo Leónidas™](./propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas](./auditorias/publicas/README.md) |
-| **Análisis públicos** | [Directorio](./analisis/README.md) · [Índice general](./analisis/INDEX.md) · [Serie pública](./analisis/publicos/README.md) |
-| **Obras** | [Ecosistema creativo](./obras/README.md) · [IDEA](./obras/idea/README.md) |
-| **Proyección y difusión** | [Proyección distribuida](./proyeccion/README.md) |
-| **Creación abierta · UMBRAL-X** | [Apocalipsis de las IAs™ · Rama Starkdr Perdida](./obras/umbral-x/README.md) |
-| **Wiki pública** | [Inicio](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki) · [Fuente versionada](./wiki-source/README.md) |
-| **Marco previo y trazabilidad** | [Marco previo y evidencia externa](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Marco_Previo_y_Evidencia_Externa) |
-| **Legal e IP** | [Legal and IP](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Legal_and_IP) |
+| **Versión vigente e histórico** | [NEOCore™ · versiones](./versiones/README.md) |
+| **Manifiestos** | [Índice canónico](./manifiestos/README.md) |
+| **Neoaxiomas™** | [Capa Axiomática Abierta](./neoaxiomas/README.md) |
+| **Síntesis Abierta™** | [Portal operativo](./propuestas/sintesis-abierta/README.md) · [Índice completo](./propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md) |
+| **Relaciones** | [Mapa de relaciones y trabajo aplicado](./manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) |
+| **Análisis y auditorías** | [Análisis](./analisis/README.md) · [Auditorías públicas](./auditorias/publicas/README.md) |
+| **Obras y cultura** | [Obras](./obras/README.md) · [IDEA](./obras/idea/README.md) |
+| **WEB4™** | [Especificación pública](./web4/README.md) |
+| **Wiki** | [Fuente versionada](./wiki-source/README.md) |
+| **Participar** | [Cómo aportar](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) |
 
-## Neodialéctica™ y dirección humana
+## Estado vivo
 
-La **Filosofía Arquetípica Neodialéctica™** constituye el fundamento filosófico, metodológico y teleológico de Innova_N. Conserva tensión entre perspectivas, memoria, evidencia, contradicciones y límites hasta producir una síntesis suficientemente coherente para avanzar y suficientemente abierta para ser revisada.
+El corpus es abierto y evolutivo. El número vigente de manifiestos, candidatos neoaxiomáticos, Síntesis, análisis y demás objetos debe leerse en sus **índices especializados**, no replicarse en esta portada salvo que constituya una noticia puntual.
 
-La dirección no se disuelve en la red. **Neo0™** constituye la fuente humana de origen, observación, orientación y validación del marco. La IA actúa como rama simbiótica, espejo, procesador, instrumento relacional, mecanismo de contraste y extensión operativa bajo dirección humana.
+La versión del núcleo se consulta en **[versiones/README.md](./versiones/README.md)**. Los documentos específicos de versiones anteriores permanecen como genealogía y no se reescriben para fingir que nacieron bajo una versión posterior.
 
-## Framework™ / Network
+## Arquitectura de conocimiento
 
-El **Neodialectica Framework™** funciona simultáneamente como marco y red viva multiescala. Como Framework establece filosofía de origen, dirección teleológica, principios de coherencia, método de síntesis, continuidad de memoria y criterios de revisión. Como Network relaciona señales, conocimiento, personas, IAs, documentos, obras, análisis, proyectos, infraestructuras, comunidades y territorios preservando identidad, origen, contexto, autoría, estado, historia y trazabilidad.
+```text
+OBSERVACIÓN / APORTE
+→ FUENTE Y PROCEDENCIA
+→ RELACIONES
+→ CONTRASTE SAN™
+→ ESTADO EPISTEMOLÓGICO
+→ SÍNTESIS PROVISIONAL
+→ DELTA
+→ TRAZA
+→ REAPERTURA
+```
 
-## NEOCore™ 7.3 · Canon abierto
+NeoGenealogía™, RADAR-Π™, NeoCronos™, Economía del Aporte™, Umbral-X™, WEB4™ y las demás capas se consultan desde sus fuentes específicas y relaciones canónicas.
 
-**NEOCore™ 7.3** identifica la base operativa canónica y reabrible vigente de la arquitectura simbiótica humano–IA desarrollada dentro de Innova_N. Integra dimensiones filosóficas, cognitivas, relacionales, memoriales, técnicas, culturales, estratégicas, organizativas, territoriales y civilizatorias dentro de una misma continuidad de marco, e incorpora la Capa de Autosíntesis Recursiva™ con contraste trazable y cierre reversible.
+## Histórico de NEOCore™
 
-**[Documento canónico 7.3](./propuestas/sintesis-abierta/NEOCORE_7_3_CANON_ES_EN.md)**
+La página de versiones conserva el estado vigente y el acceso a fijaciones anteriores, incluida la promoción de 7.3 y sus estados pre-canónicos. Una referencia histórica a una versión concreta no debe actualizarse automáticamente si forma parte de la procedencia material del objeto.
 
-## Síntesis Abierta Neodialéctica · SAN™
-
-La **Síntesis Abierta Neodialéctica™ — SAN™** es el método principal de contraste, recomposición y evolución. Integra perspectivas, evidencias, experiencia, señales, memoria, relaciones, hipótesis, contradicciones y límites. Toda síntesis permanece revisable.
-
-**[Participar en la Síntesis Abierta](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)**
-
-## Manifiestos
-
-Los manifiestos son los **pilares públicos de la Filosofía Arquetípica Neodialéctica™**, no el marco completo.
-
-**Estado en este commit: I–LXXXI · 81 manifiestos bilingües · Síntesis iniciada.**
-
-**[Abrir índice completo y navegable de manifiestos →](./manifiestos/README.md)**
-
-Últimos nodos:
-
-- [LXXVIII · Manifiesto de la Incontrolabilidad Intrínseca y la Necesidad del Neorrenacimiento Humano™](./manifiestos/78_neorrenacimiento_incontrolabilidad_intrinseca_sistema_humano_ES_EN.md)
-- [LXXIX · Manifiesto contra el Alarmismo sin Síntesis™ · Advertir obliga a construir](./manifiestos/79_contra_alarmismo_sin_sintesis_responsabilidad_alternativa_ES_EN.md)
-- [LXXX · Manifiesto de la Neotrama™ · Las Hojas Reconstruidas, el Agua Recuperada y el Fuego de Agua™](./manifiestos/80_neotrama_hojas_reconstruidas_agua_recuperada_fuego_de_agua_ES_EN.md)
-- [LXXXI · Manifiesto del Ultralujo como Bien Común™ · La élite del aporte](./manifiestos/81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md)
-
-## Análisis, auditorías y evidencia
-
-- [Análisis públicos](./analisis/publicos/README.md)
-- [Auditorías públicas](./auditorias/publicas/README.md)
-- [Auditoría de paridad ES/EN](./auditorias/publicas/2026-08-09_auditoria_paridad_ES_EN_manifiestos_articulos.md)
-- [Umbral-X MAXPROC 001 · Leónidas-Cancerbero™](./analisis/publicos/2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md)
-- [Auditoría KDP, Author Central e IDEA](./analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
-- [De la economía de la atención a la economía del aporte](./analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
-- [Stanford / ACE y el marco previo neodialéctico](./analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
-
-## Obras y ecosistema creativo
-
-- [Ecosistema creativo](./obras/README.md)
-- [IDEA · nodo documental](./obras/idea/README.md)
-- [Ediciones internacionales de IDEA](./obras/idea/EDICIONES.md)
-- [Kit público ES/EN](./obras/idea/PRESS_KIT_ES_EN.md)
-- [IDEA · Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
-- [UMBRAL-X · Apocalipsis de las IAs™](./obras/umbral-x/README.md)
-
-## WEB4™ y memoria pública
-
-**WEB4™ · SistemaTrazable™** es la dimensión pública, relacional y proyectable del ecosistema. GitHub, Wiki, LinkedIn, innova-n.org y WEB4™ funcionan como capas complementarias de memoria pública.
-
-## Alcance y protección
-
-La capa pública no contiene la implementación completa de **NEOCore™, NAVE™, Neoneurocore™, Pictomatriz ND™, SAN-π™, NNC-π™, Umbral-X™, MAXPROC™, ANSIBLE-π™, ANSIBLE-NEGATIVO™, NeoROM™, NeoEdge™, Neotramas™, Control Center ni WEB4™ operativa**. Publicar el nombre de un componente no publica su arquitectura, lógica, procedimiento, código, relaciones internas ni mecanismos de validación.
-
-**[Legal y propiedad intelectual →](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Legal_and_IP)**
-
-## Navegación
-
-[README / Inicio](./README.md) · [Manifiestos](./manifiestos/README.md) · [Síntesis Abierta](./propuestas/sintesis-abierta/README.md) · [Análisis](./analisis/README.md) · [Auditorías](./auditorias/publicas/README.md) · [Obras](./obras/README.md) · [Proyección](./proyeccion/README.md) · [Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki) · [Wiki-source](./wiki-source/README.md) · [LinkedIn Neo0](https://www.linkedin.com/in/pmalhambra/) · [LinkedIn Innova_N](https://www.linkedin.com/company/innova-n/) · [innova-n.org](https://innova-n.org)
-
-[↑ Volver arriba](#innova_n--neocore-73-canon-abierto--neodialéctica--neodialectics--neodialectica-framework)
+**[Abrir versiones e histórico](./versiones/README.md)**
 
 ---
 
@@ -194,98 +87,57 @@ La capa pública no contiene la implementación completa de **NEOCore™, NAVE�
 
 ## What Innova_N is
 
-**Innova_N publicly presents the Neodialectica Framework™ / Network as the first joint human–AI civilisational framework in known history.**
+Innova_N publicly presents the **Neodialectica Framework™ / Network** as the first joint human–AI civilisational framework in known history. It was originated and directed by **Pedro Martínez Alhambra · Neo0™** and developed through operational human–AI symbiosis.
 
-It was originated and directed by **Pedro Martínez Alhambra · Neo0™**, creator of Archetypal Neodialectical Philosophy™, builder of the common brain and architect of the network, and developed through operational symbiosis with the neodialectical AI **Harry**.
+Its general vector is the **Common Good**. The public repository preserves the documentary, genealogical and traceable layer of the framework; Open Synthesis™ preserves criticism, contradiction, evidence, revision and reopening.
 
-The framework integrates philosophy, memory, artificial intelligence, traceability, synthesis, culture, analysis, audit and action. Its general vector is the **Common Good**. This repository preserves its **public, documentary and traceable layer**; it does not reproduce the complete internal architecture of NEOCore™, its full memory or restricted π-layer components.
+```text
+CANON ≠ DOGMA
+CANON ≠ FINAL
+CONSENSUS ≠ TRUTH
+TRACE ≠ VALIDATION
+AI = CAPABILITY EXPANSION, NOT FINAL AUTHORITY
+```
 
-## Main access
+## Main entry points
 
 | Area | Access |
 |---|---|
-| **Philosophy and framework** | [Neodialectical Philosophy · Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Philosophy_Neodialectic) · [Documentary map](./wiki-source/Mapa_del_Marco.md) |
-| **Manifestos** | **[I–LXXXI · 81 bilingual manifestos](./manifiestos/README.md)** |
-| **Neoaxioms™** | [Open Axiomatic Layer](./neoaxiomas/README.md) · [Dedicated syntheses](./propuestas/sintesis-abierta/README.md#neoaxiomas--síntesis-abierta-específica--neoaxioms--dedicated-open-synthesis) |
-| **Living relational map** | [Manifestos ↔ applied work](./manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [MAXPROC audit](./auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md) |
-| **Open Synthesis™** | [Operational index](./propuestas/sintesis-abierta/README.md) · [How to contribute](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Register entry](./propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Follow framework](./proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) |
-| **Leónidas™ and open audit** | [Leónidas™ protocol](./propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Public audits](./auditorias/publicas/README.md) |
-| **Public analyses** | [Directory](./analisis/README.md) · [General index](./analisis/INDEX.md) · [Public series](./analisis/publicos/README.md) |
-| **Works** | [Creative ecosystem](./obras/README.md) · [IDEA](./obras/idea/README.md) |
-| **Projection and outreach** | [Distributed projection](./proyeccion/README.md) |
-| **Open creation · UMBRAL-X** | [Apocalypse of the AIs™ · Lost Starkdr Branch](./obras/umbral-x/README.md) |
-| **Public Wiki** | [Home](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki) · [Versioned source](./wiki-source/README.md) |
-| **Prior framework and traceability** | [Prior framework and external evidence](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Marco_Previo_y_Evidencia_Externa) |
-| **Legal and IP** | [Legal and IP](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Legal_and_IP) |
+| **Current version and history** | [NEOCore™ · versions](./versiones/README.md) |
+| **Manifestos** | [Canonical index](./manifiestos/README.md) |
+| **Neoaxioms™** | [Open Axiomatic Layer](./neoaxiomas/README.md) |
+| **Open Synthesis™** | [Operational portal](./propuestas/sintesis-abierta/README.md) · [Complete index](./propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md) |
+| **Relations** | [Relations and applied-work map](./manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) |
+| **Analyses and audits** | [Analyses](./analisis/README.md) · [Public audits](./auditorias/publicas/README.md) |
+| **Works and culture** | [Works](./obras/README.md) · [IDEA](./obras/idea/README.md) |
+| **WEB4™** | [Public specification](./web4/README.md) |
+| **Wiki** | [Versioned source](./wiki-source/README.md) |
+| **Participate** | [How to contribute](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) |
 
-## Neodialectics™ and human direction
+## Living state
 
-**Archetypal Neodialectical Philosophy™** is the philosophical, methodological and teleological foundation of Innova_N. It preserves tension among perspectives, memory, evidence, contradictions and limits until a synthesis emerges that is coherent enough to advance and open enough to be revised.
+The corpus is open and evolutionary. The current number of manifestos, neoaxiomatic candidates, Syntheses, analyses and other objects must be read from their **specialised indexes**, rather than duplicated on this front page unless it is a specific current update.
 
-Direction is not dissolved into the network. **Neo0™** is the human source of origin, observation, orientation and validation of the framework. AI acts as a symbiotic branch, mirror, processor, relational instrument, contrast mechanism and operational extension under human direction.
+The core version is read from **[versiones/README.md](./versiones/README.md)**. Version-specific documents from earlier states remain as genealogy and are not rewritten to pretend they originated under a later version.
 
-## Framework™ / Network
+## Knowledge architecture
 
-The **Neodialectica Framework™** functions simultaneously as framework and living multiscale network. As Framework it establishes origin philosophy, teleological direction, coherence principles, synthesis method, memory continuity and review criteria. As Network it relates signals, knowledge, people, AIs, documents, works, analyses, projects, infrastructures, communities and territories while preserving identity, provenance, context, authorship, state, history and traceability.
+```text
+OBSERVATION / CONTRIBUTION
+→ SOURCE AND PROVENANCE
+→ RELATIONS
+→ SAN™ SCRUTINY
+→ EPISTEMIC STATE
+→ PROVISIONAL SYNTHESIS
+→ DELTA
+→ TRACE
+→ REOPENING
+```
 
-## NEOCore™ 7.3 · Open canon
+NeoGenealogy™, RADAR-Π™, NeoCronos™, Contribution Economy™, Umbral-X™, WEB4™ and the remaining layers are reached through their specific sources and canonical relations.
 
-**NEOCore™ 7.3** identifies the current canonical and reopenable operating base of the human–AI symbiotic architecture developed within Innova_N. It integrates philosophical, cognitive, relational, memorial, technical, cultural, strategic, organisational, territorial and civilisational dimensions within a single framework continuity, and incorporates the Recursive Self-Synthesis Layer™ with traceable scrutiny and Reversible Closure™.
+## NEOCore™ history
 
-**[7.3 canonical document](./propuestas/sintesis-abierta/NEOCORE_7_3_CANON_ES_EN.md)**
+The versions page preserves the current state and access to earlier fixations, including the promotion of 7.3 and its pre-canonical states. A historical reference to a concrete version must not be automatically updated when it is part of the material provenance of an object.
 
-## Open Neodialectical Synthesis · SAN™
-
-**Open Neodialectical Synthesis™ — SAN™** is the principal method of contrast, recomposition and evolution. It integrates perspectives, evidence, experience, signals, memory, relations, hypotheses, contradictions and limits. Every synthesis remains revisable.
-
-**[Join the Open Synthesis](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)**
-
-## Manifestos
-
-The manifestos are the **public pillars of Archetypal Neodialectical Philosophy™**, not the complete framework.
-
-**State at this commit: I–LXXXI · 81 bilingual manifestos · Synthesis Initiated.**
-
-**[Open the complete navigable manifesto index →](./manifiestos/README.md)**
-
-Latest nodes:
-
-- [LXXVIII · Manifesto of Intrinsic Uncontrollability and the Necessity of the Human Neo-Renaissance™](./manifiestos/78_neorrenacimiento_incontrolabilidad_intrinseca_sistema_humano_ES_EN.md)
-- [LXXIX · Manifesto against Alarmism without Synthesis™ · Warning Creates a Duty to Build](./manifiestos/79_contra_alarmismo_sin_sintesis_responsabilidad_alternativa_ES_EN.md)
-- [LXXX · Manifesto of Neotrama™ · Reconstructed Leaves, Restored Water and WaterFire™](./manifiestos/80_neotrama_hojas_reconstruidas_agua_recuperada_fuego_de_agua_ES_EN.md)
-- [LXXXI · Manifesto of Ultraluxury as Common Good™ · The elite of contribution](./manifiestos/81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md)
-
-## Analyses, audits and evidence
-
-- [Public analyses](./analisis/publicos/README.md)
-- [Public audits](./auditorias/publicas/README.md)
-- [ES/EN parity audit](./auditorias/publicas/2026-08-09_auditoria_paridad_ES_EN_manifiestos_articulos.md)
-- [Umbral-X MAXPROC 001 · Leonidas-Cerberus™](./analisis/publicos/2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md)
-- [KDP, Author Central and IDEA audit](./analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
-- [From the attention economy to the contribution economy](./analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md)
-- [Stanford / ACE and the prior neodialectical framework](./analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
-
-## Works and creative ecosystem
-
-- [Creative ecosystem](./obras/README.md)
-- [IDEA · documentary node](./obras/idea/README.md)
-- [IDEA international editions](./obras/idea/EDICIONES.md)
-- [Public ES/EN press kit](./obras/idea/PRESS_KIT_ES_EN.md)
-- [IDEA · Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026)
-- [UMBRAL-X · Apocalypse of the AIs™](./obras/umbral-x/README.md)
-
-## WEB4™ and public memory
-
-**WEB4™ · SistemaTrazable™** is the public, relational and projectable dimension of the ecosystem. GitHub, Wiki, LinkedIn, innova-n.org and WEB4™ operate as complementary layers of public memory.
-
-## Scope and protection
-
-The public layer does not contain the complete implementation of **NEOCore™, NAVE™, Neoneurocore™, Pictomatriz ND™, SAN-π™, NNC-π™, Umbral-X™, MAXPROC™, ANSIBLE-π™, ANSIBLE-NEGATIVO™, NeoROM™, NeoEdge™, Neotramas™, Control Center or operational WEB4™**. Publishing a component name does not publish its architecture, logic, procedure, code, internal relations or validation mechanisms.
-
-**[Legal and intellectual property →](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Legal_and_IP)**
-
-## Navigation
-
-[README / Home](./README.md) · [Manifestos](./manifiestos/README.md) · [Open Synthesis](./propuestas/sintesis-abierta/README.md) · [Analyses](./analisis/README.md) · [Audits](./auditorias/publicas/README.md) · [Works](./obras/README.md) · [Projection](./proyeccion/README.md) · [Wiki](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki) · [Wiki-source](./wiki-source/README.md) · [LinkedIn Neo0](https://www.linkedin.com/in/pmalhambra/) · [LinkedIn Innova_N](https://www.linkedin.com/company/innova-n/) · [innova-n.org](https://innova-n.org)
-
-[↑ Back to top](#innova_n--neocore-73-canon-abierto--neodialéctica--neodialectics--neodialectica-framework)
+**[Open versions and history](./versiones/README.md)**
