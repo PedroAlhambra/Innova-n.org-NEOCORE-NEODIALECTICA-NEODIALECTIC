@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Living-surface migration for the single-current-version policy.
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
