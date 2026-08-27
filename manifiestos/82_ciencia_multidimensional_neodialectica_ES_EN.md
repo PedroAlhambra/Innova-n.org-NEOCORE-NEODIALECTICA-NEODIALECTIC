@@ -9,7 +9,7 @@
 **Protocolo operativo / Operational protocol:** [CMN-0.1](../propuestas/sintesis-abierta/PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md)  
 **Caso 001 / Case 001:** [Cáncer de la Síntesis™ / Gritax™](../propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md)
 
-[ES](#es--castellano) · [EN](#en--english)
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
 ---
 
