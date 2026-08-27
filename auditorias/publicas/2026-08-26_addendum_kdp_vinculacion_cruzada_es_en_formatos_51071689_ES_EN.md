@@ -50,30 +50,45 @@ El **26 de agosto de 2026** se envió a soporte KDP un correo dentro del hilo de
 - comprobación del resto de familias lingüísticas de IDEA;
 - preservación de la relación correcta entre formatos de un mismo idioma.
 
-## ES · Ampliación 2026-08-27 · idiomas disponibles incompletos
+## ES · Ampliación 2026-08-27 · idiomas disponibles incompletos y reciprocidad global
 
 Se detecta una tercera incoherencia de catálogo. Desde la edición en castellano, al consultar las **ediciones/idiomas disponibles**, Amazon muestra únicamente **finlandés** como alternativa lingüística.
 
 Esto no representa la familia real de la obra: **IDEA está publicada en múltiples idiomas**, por lo que la ficha española debería permitir acceder a todas las ediciones lingüísticas correctamente relacionadas que Amazon tenga publicadas y activas, no únicamente a la finlandesa.
 
-La incidencia deja de ser sólo una vinculación incorrecta entre formatos ES/EN y pasa a afectar también a la **relación entre familias lingüísticas**:
+Además, esta relación debe ser **recíproca y global**. No basta con corregir la ficha española. Desde **cada edición lingüística publicada de IDEA** deberían aparecer correctamente enlazadas las demás ediciones lingüísticas disponibles de la misma obra. Ningún idioma debería quedar aislado, parcialmente relacionado o visible sólo desde determinadas ediciones.
+
+La matriz esperada es, conceptualmente:
 
 ```text
-FORMATO DENTRO DEL MISMO IDIOMA → RELACIÓN CORRECTA
-IDIOMAS DE UNA MISMA OBRA → FAMILIA COMPLETA Y ACCESIBLE
+CADA IDIOMA
+├─ Kindle (si publicado)
+├─ Tapa blanda (si publicada)
+└─ Tapa dura (si publicada)
 
-ESPAÑOL → SOLO FINLANDÉS VISIBLE
-≠ FAMILIA LINGÜÍSTICA REAL DE IDEA
+Y DESDE CADA IDIOMA:
+→ acceso coherente a TODOS LOS DEMÁS IDIOMAS publicados y activos
+
+FORMATO ≠ IDIOMA
+CAMBIO DE FORMATO → permanece en el mismo idioma
+CAMBIO DE IDIOMA → conduce expresamente a la edición de ese idioma
+RELACIÓN ENTRE IDIOMAS → recíproca, completa y no aislante
 ```
 
-El **27 de agosto de 2026** se añadió esta observación al mismo hilo de soporte del caso **51071689**, solicitando expresamente que KDP/Amazon revise:
+Por tanto, el problema ya no puede comprobarse únicamente como `ES → otros idiomas`, sino como una matriz completa **idioma × idioma × formato**. Una corrección satisfactoria requiere verificar las asociaciones desde todas las familias lingüísticas publicadas de IDEA.
+
+El **27 de agosto de 2026** se comunicó esta ampliación a soporte KDP solicitando expresamente:
 
 - por qué desde la edición española sólo aparece finlandés como idioma disponible;
 - que todas las ediciones lingüísticas publicadas de IDEA estén correctamente relacionadas y accesibles;
-- que las relaciones entre idiomas no sustituyan ni rompan las relaciones entre formatos de un mismo idioma;
-- que la corrección se compruebe en la interfaz pública de Amazon y no sólo en metadatos internos.
+- que esa vinculación sea recíproca desde cada edición lingüística hacia las demás;
+- que cada idioma mantenga correctamente agrupados sus propios formatos;
+- que cambiar de formato no cambie silenciosamente el idioma;
+- que cambiar de idioma conduzca explícitamente a la edición correspondiente;
+- que ninguna edición lingüística quede aislada u oculta respecto de la familia completa;
+- que KDP revise globalmente las asociaciones ASIN/ISBN ↔ idioma ↔ formato y valide el resultado en las páginas públicas de Amazon.
 
-La prioridad de resolución se mantiene alta porque la incidencia ya afecta simultáneamente a **idioma, formato y descubribilidad de ediciones**, con riesgo de confusión, compra errónea y pérdida de ventas.
+La prioridad de resolución se mantiene alta porque la incidencia afecta simultáneamente a **idioma, formato, reciprocidad y descubribilidad de ediciones**, con riesgo de confusión, compra errónea y pérdida de ventas.
 
 **Estado de síntesis:** abierto. No atribuir todavía causa técnica concreta ni afirmar la retirada definitiva de formatos o idiomas hasta recibir respuesta o evidencia adicional de Amazon KDP.
 
@@ -131,29 +146,44 @@ On **26 August 2026**, an email was sent to KDP Support in the thread for **case
 - verification of the remaining IDEA language families;
 - preservation of correct relationships among formats belonging to the same language.
 
-## EN · 2026-08-27 extension · incomplete available-language family
+## EN · 2026-08-27 extension · incomplete languages and global reciprocal linking
 
 A third catalogue inconsistency has now been detected. From the Spanish edition, when checking the **available editions/languages**, Amazon currently shows only **Finnish** as an alternative language.
 
 This does not represent the actual language family of the work: **IDEA has been published in multiple languages**, so the Spanish product page should provide access to all correctly linked published and active language editions, rather than only Finnish.
 
-The incident therefore extends beyond incorrect ES/EN format linking and now also affects the **relationship between language families**:
+This relationship must also be **global and reciprocal**. Correcting only the Spanish page is insufficient. From **every published language edition of IDEA**, the other available language editions of the same work should be correctly linked. No language should remain isolated, partially related, or discoverable only from selected editions.
+
+The expected conceptual matrix is:
 
 ```text
-FORMAT WITHIN SAME LANGUAGE → CORRECT RELATION
-LANGUAGES OF SAME WORK → COMPLETE ACCESSIBLE FAMILY
+EACH LANGUAGE
+├─ Kindle (if published)
+├─ Paperback (if published)
+└─ Hardcover (if published)
 
-SPANISH → ONLY FINNISH VISIBLE
-≠ ACTUAL IDEA LANGUAGE FAMILY
+AND FROM EACH LANGUAGE:
+→ coherent access to ALL OTHER published and active languages
+
+FORMAT ≠ LANGUAGE
+FORMAT CHANGE → remains within the same language
+LANGUAGE CHANGE → explicitly opens that language edition
+LANGUAGE RELATION → reciprocal, complete and non-isolating
 ```
 
-On **27 August 2026**, this observation was added to the same KDP Support thread for **case 51071689**, explicitly requesting review of:
+The issue therefore can no longer be tested merely as `ES → other languages`; it requires checking the complete **language × language × format** matrix across IDEA's published editions.
 
-- why only Finnish appears as an available language from the Spanish edition;
-- whether all published IDEA language editions are correctly related and accessible;
-- whether language relationships are interfering with or replacing same-language format relationships;
-- whether the correction is verified in Amazon's public interface rather than only in internal metadata.
+On **27 August 2026**, this extension was reported to KDP Support, explicitly requesting:
 
-Resolution remains high priority because the incident now simultaneously affects **language, format and edition discoverability**, creating risk of customer confusion, wrong-language purchases and lost sales.
+- investigation of why only Finnish appears as an available language from the Spanish edition;
+- correct linking and accessibility of all published IDEA language editions;
+- reciprocal linking from every language edition to the remaining language editions;
+- correct grouping of each language's own formats;
+- assurance that changing format does not silently change language;
+- assurance that changing language explicitly opens the corresponding language edition;
+- assurance that no language edition remains isolated or hidden from the complete family;
+- global review of ASIN/ISBN ↔ language ↔ format associations and validation in Amazon's public product pages.
+
+Resolution remains high priority because the incident simultaneously affects **language, format, reciprocity and edition discoverability**, creating risk of customer confusion, wrong-language purchases and lost sales.
 
 **Synthesis status:** open. No specific technical cause or definitive removal of any format or language should be asserted until Amazon KDP provides a response or further evidence is obtained.
