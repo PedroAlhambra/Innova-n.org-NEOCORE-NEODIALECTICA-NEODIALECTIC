@@ -36,10 +36,22 @@ def synthesis_issue(text):
     return int(m.group(1)) if m else None
 
 
+def declared_canonical_route(text):
+    m = re.search(r'ruta canónica actual es \[.*?\]\((?:\./)?([^)]+\.md)\)', text, re.I)
+    if not m:
+        m = re.search(r'current canonical path is \[.*?\]\((?:\./)?([^)]+\.md)\)', text, re.I)
+    return Path(m.group(1)).name if m else None
+
+
 catalog = {}
+legacy = []
 duplicates = []
 for p in sorted(MAN.glob('[0-9][0-9]_*.md')):
     text = p.read_text(encoding='utf-8')
+    canonical_target = declared_canonical_route(text)
+    if canonical_target and canonical_target != p.name:
+        legacy.append((p.name, canonical_target))
+        continue
     info = first_titles(text)
     if not info:
         continue
@@ -50,7 +62,7 @@ for p in sorted(MAN.glob('[0-9][0-9]_*.md')):
     catalog[ord_] = {'path': p, 'es': es, 'en': en, 'issue': synthesis_issue(text)}
 
 if duplicates:
-    print('MANIFESTO_INDEX=FAIL duplicate ordinals')
+    print('MANIFESTO_INDEX=FAIL duplicate canonical ordinals')
     for d in duplicates:
         print(d)
     sys.exit(1)
@@ -119,7 +131,6 @@ text, n = re.subn(
 if n != 1:
     raise SystemExit('MANIFESTO_INDEX=FAIL collection block not found')
 
-# Reconcile textual finite-range labels without touching historical prose elsewhere.
 text = re.sub(r'Índice completo I–[IVXLCDM]+ \+ ∞ \+ Neoaxiomas \+ sistema', f'Índice completo I–{latest_ord} + ∞ + Neoaxiomas + sistema', text)
 text = re.sub(r'Complete index I–[IVXLCDM]+ \+ ∞ \+ Neoaxioms \+ system', f'Complete index I–{latest_ord} + ∞ + Neoaxioms + system', text)
 
@@ -130,4 +141,6 @@ latest_synth += '  '
 text = re.sub(r'^\*\*Última síntesis finita / Latest finite synthesis:\*\*.*$', latest_synth, text, count=1, flags=re.M)
 
 README.write_text(text, encoding='utf-8')
-print(f'MANIFESTO_INDEX=PASS finite={count} latest={latest_ord} issue={latest["issue"]}')
+print(f'MANIFESTO_INDEX=PASS finite={count} latest={latest_ord} issue={latest["issue"]} legacy_skipped={len(legacy)}')
+for source, target in legacy:
+    print(f'LEGACY_ROUTE {source} -> {target}')
