@@ -1011,12 +1011,6 @@
   "broken": [],
   "weak_publication_relations": [
     {
-      "roman": "LXXXIII",
-      "title": "Manifiesto de Activación Neodialéctica™ · La verdad también tiene derecho a circular / Neodialectical Activation Manifesto™ · Truth also has the right to circulate",
-      "path": "manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md",
-      "publication_links": 0
-    },
-    {
       "roman": "LXXXIV",
       "title": "Manifiesto de la Permeabilidad Intelectual del Poder™ · Contra la captura opaca del acceso / Manifesto of the Intellectual Permeability of Power™ · Against opaque access capture",
       "path": "manifiestos/84_intermediacion_acceso_permeabilidad_poder_ES_EN.md",
@@ -1520,6 +1514,21 @@
       ]
     },
     {
+      "a": "VI",
+      "b": "VII",
+      "sources": 10,
+      "examples": [
+        "analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md",
+        "analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md",
+        "analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md",
+        "analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md",
+        "analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md",
+        "analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md",
+        "analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md",
+        "analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md"
+      ]
+    },
+    {
       "a": "VII",
       "b": "XLII",
       "sources": 10,
@@ -1832,21 +1841,6 @@
         "obras/README.md",
         "obras/idea/README.md",
         "obras/idea/assets/README.md"
-      ]
-    },
-    {
-      "a": "VI",
-      "b": "VII",
-      "sources": 9,
-      "examples": [
-        "analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md",
-        "analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md",
-        "analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md",
-        "analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md",
-        "analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md",
-        "analisis/publicos/2026-08-06_segundo_escalado_distrokid_sin_respuesta_ES_EN.md",
-        "analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md",
-        "analisis/publicos/2026-08-07_spotify_respuesta_generica_distrokid_cierre_circular_ES_EN.md"
       ]
     },
     {
@@ -5508,6 +5502,15 @@
       ]
     },
     {
+      "a": "VI",
+      "b": "XXX",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md",
+        "propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md"
+      ]
+    },
+    {
       "a": "VII",
       "b": "X",
       "sources": 2,
@@ -5532,6 +5535,15 @@
       "examples": [
         "analisis/publicos/2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md",
         "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "VII",
+      "b": "XXX",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md",
+        "propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md"
       ]
     },
     {
@@ -7084,6 +7096,15 @@
       ]
     },
     {
+      "path": "propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md",
+      "manifestos": [
+        "LXXXIII",
+        "VI",
+        "VII",
+        "XXX"
+      ]
+    },
+    {
       "path": "propuestas/sintesis-abierta/PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md",
       "manifestos": [
         "LXXXII"
@@ -8151,7 +8172,8 @@
           "neoaxiomas/README.md"
         ],
         "sintesis-abierta": [
-          "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+          "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md",
+          "propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md"
         ]
       }
     },
@@ -8273,6 +8295,7 @@
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md",
+          "propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md",
           "propuestas/sintesis-abierta/NEOCRONOS_RETORNO_TEMPORAL_TOKENIZACION_ES_EN.md"
         ]
       }
@@ -10220,7 +10243,8 @@
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md",
-          "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+          "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md",
+          "propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md"
         ]
       }
     },
@@ -13755,6 +13779,9 @@
         ],
         "otros": [
           "manifiestos/README.md"
+        ],
+        "sintesis-abierta": [
+          "propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md"
         ]
       }
     },
