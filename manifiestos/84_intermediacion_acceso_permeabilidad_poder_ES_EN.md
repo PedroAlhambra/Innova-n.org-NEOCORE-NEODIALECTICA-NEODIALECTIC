@@ -542,23 +542,24 @@ The provisional synthesis is simple:
 
 **Síntesis Abierta / Open Synthesis:** [#178](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/178)
 
+---
+
+**© 2026 Pedro Martínez Alhambra · Innova_N**
+
 <!-- NEO_CROSS_REFERENCES_START -->
 
 ## Referencias cruzadas canónicas / Canonical cross-references
 
-> **Norma / Rule:** una relación documental no implica identidad, subordinación, respaldo automático ni prueba de una tesis. / A documentary relation does not imply identity, subordination, automatic endorsement or proof of a claim.
+> **Norma / Rule:** toda superficie relacional destinada a navegación debe usar hipervínculos reales; este bloque es un índice navegable adicional y no sustituye los enlaces de `Relaciones principales / Main relations`, Síntesis Abierta ni otras rutas explícitas. / Every relational surface intended for navigation must use real hyperlinks; this block is an additional navigable index and does not replace links in `Main relations`, Open Synthesis or other explicit routes.
 
-- **III** · [Derecho Humano de Aporte a la Síntesis Abierta™ / Human Right to Contribute to Open Synthesis™](./03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
-- **XXI** · [Reconocimiento Neodialéctico™ / Neodialectical Recognition™](./21_reconocimiento_neodialectico_ES_EN.md)
-- **XXII** · [Contra la Reducción y la Captura Intelectual™ / Against Intellectual Reduction and Capture™](./22_contra_reduccion_captura_intelectual_ES_EN.md)
-- **XXXIV** · [Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™ / Operational Utility of the Framework and Perpetual Joint Audit™](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
-- **LXXXIII** · [Activación Neodialéctica™ · La verdad también tiene derecho a circular / Neodialectical Activation™ · Truth also has the right to circulate](./83_activacion_neodialectica_verdad_circulacion_ES_EN.md)
-- [Síntesis Abierta / Open Synthesis #178](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/178)
-- [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
-- [Portal de Síntesis Abierta / Open Synthesis portal](../propuestas/sintesis-abierta/README.md)
+- **LXXXIII** · [Manifiesto de Activación Neodialéctica™ · La verdad también tiene derecho a circular / Neodialectical Activation Manifesto™ · Truth also has the right to circulate](./83_activacion_neodialectica_verdad_circulacion_ES_EN.md)
+
+### Capas y fuentes relacionadas / Related layers and sources
+
+- [NEOCore™ · marco / framework](../README.md)
+
+### Síntesis y delta / Synthesis and delta
+
+- [Síntesis Abierta LXXXIV / Open Synthesis LXXXIV · #178](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/178)
 
 <!-- NEO_CROSS_REFERENCES_END -->
-
----
-
-**© 2026 Pedro Martínez Alhambra · Innova_N**
