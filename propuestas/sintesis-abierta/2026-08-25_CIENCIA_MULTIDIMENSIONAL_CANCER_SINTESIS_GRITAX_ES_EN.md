@@ -12,7 +12,7 @@
 **Estado vigente de NEOCore™ / Current NEOCore™ state:** [versiones/README.md](../../versiones/README.md)  
 **Naturaleza / Nature:** propuesta metodológica + metáfora crítica + lenguaje visual; no disciplina empíricamente validada por mera denominación / methodological proposal + critical metaphor + visual language; not an empirically validated discipline by naming alone.
 
-[ES · Castellano](#es--sintesis-del-caso-001) · [EN · English](#en--case-001-synthesis)
+[ES · Castellano](#es--síntesis-del-caso-001) · [EN · English](#en--case-001-synthesis)
 
 ---
 
