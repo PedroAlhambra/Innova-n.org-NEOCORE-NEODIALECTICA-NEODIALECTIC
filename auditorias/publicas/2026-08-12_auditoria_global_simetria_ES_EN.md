@@ -9,7 +9,7 @@
 
 - Markdown activo examinado / Active Markdown scanned: **361**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **295**.
-- Fallos estructurales divididos / Split structural failures: **5**.
+- Fallos estructurales divididos / Split structural failures: **4**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -22,8 +22,6 @@
   - 10: párrafos ES=4 EN=5
 - `manifiestos/84_intermediacion_acceso_permeabilidad_poder_ES_EN.md` · ES=1045 · EN=1024 · ratio=0.98
   - 12: párrafos ES=5 EN=6
-- `propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` · ES=674 · EN=626 · ratio=0.93
-  - 9: párrafos ES=1 EN=2
 - `propuestas/sintesis-abierta/PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md` · ES=248 · EN=257 · ratio=1.04
   - esqueleto de encabezados distinto ES=[(3, ''), (3, '')] EN=[(3, ''), (3, ''), (2, '')]
 
@@ -318,7 +316,7 @@
 | `propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-25_DELTA_NEORRENACIMIENTO_GENEALOGIA_CONSTITUYENTES_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-25_EXTENSION_C_NAX_20_UNIDAD_DIFERENCIADA_ES_EN.md` | **OK** |  |
-| `propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` | **REVISAR** | 9: párrafos ES=1 EN=2 |
+| `propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_v0.1_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md` | **OK** |  |
