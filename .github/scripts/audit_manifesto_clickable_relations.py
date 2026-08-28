@@ -13,8 +13,9 @@ relation_lines = 0
 synthesis_lines = 0
 
 
-def strip_md_links(s):
-    return re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', s)
+def remove_md_links(s):
+    # Remove already navigable relations entirely before looking for raw leftovers.
+    return re.sub(r'\[[^\]]+\]\([^)]+\)', '', s)
 
 
 for p in files:
@@ -23,16 +24,17 @@ for p in files:
         if line.startswith('**Relaciones principales / Main relations:**'):
             relation_lines += 1
             raw = line.split(':**', 1)[-1]
-            plain = strip_md_links(raw)
-            # Detect every standalone manifesto ordinal, whether modern `II · Title`
-            # or legacy comma-separated `XIV, XVI, ... ∞`.
-            ords = set(re.findall(r'(?<![A-Z])([IVXLCDM]+|∞)(?![A-Z])', plain))
-            # NAX/C-NAX identifiers can contain roman-looking characters; remove known false tokens.
-            ords = {o for o in ords if o not in {'C', 'D', 'M'}}
-            linked_ords = set(re.findall(r'\[([IVXLCDM]+|∞)(?:\s*·[^\]]*)?\]\([^)]+\.md(?:#[^)]*)?\)', raw))
-            missing = sorted(ords - linked_ords)
+            residual = remove_md_links(raw)
+            missing = set()
+
+            # Modern raw relation: `II · Title`.
+            missing.update(re.findall(r'(?<![A-Z])([IVXLCDM]+|∞)\s*·', residual))
+            # Legacy raw list: `XIV, XVI, ...` (only at list boundaries, not words such as MÉDICI).
+            missing.update(re.findall(r'(?:^|,)\s*([IVXLCDM]+|∞)\s*(?=,|·|$)', residual))
+
             if missing:
-                failures.append(f'{p}:{lineno}: MAIN_RELATIONS_NOT_CLICKABLE: {missing}')
+                failures.append(f'{p}:{lineno}: MAIN_RELATIONS_NOT_CLICKABLE: {sorted(missing)}')
+
         if line.startswith('**Síntesis Abierta / Open Synthesis:**'):
             synthesis_lines += 1
             issue_numbers = set(re.findall(r'#(\d+)\b', line))
