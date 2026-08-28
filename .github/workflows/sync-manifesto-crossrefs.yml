@@ -7,6 +7,7 @@ on:
       - '.github/workflows/sync-manifesto-crossrefs.yml'
       - '.github/scripts/sync_manifesto_crossrefs.py'
       - '.github/scripts/sync_manifesto_reference_policy.py'
+      - '.github/scripts/audit_manifesto_clickable_relations.py'
       - 'manifiestos/**.md'
       - 'neoaxiomas/README.md'
       - 'obras/idea/README.md'
@@ -25,10 +26,12 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Sync canonical cross-references
+      - name: Sync canonical cross-references and clickable relation surfaces
         run: python .github/scripts/sync_manifesto_crossrefs.py
       - name: Sync cross-reference policy
         run: python .github/scripts/sync_manifesto_reference_policy.py
+      - name: Audit clickable manifesto relations and Open Synthesis issues
+        run: python .github/scripts/audit_manifesto_clickable_relations.py
       - name: Commit synchronized cross-references
         run: |
           set -euo pipefail
@@ -39,6 +42,6 @@ jobs:
             echo 'Cross-references already synchronized.'
             exit 0
           fi
-          git commit -m 'docs: sincronizar referencias cruzadas canónicas de manifiestos'
+          git commit -m 'docs: sincronizar navegación relacional de manifiestos'
           git pull --rebase origin main
           git push origin main
