@@ -3,13 +3,18 @@
 
 **Fecha / Date:** 2026-08-25  
 **Estado / Status:** CANDIDATO · SÍNTESIS ABIERTA / CANDIDATE · OPEN SYNTHESIS  
-**Autoría / Authorship:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico  
+**Autoría / Authorship:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico / symbiotic development  
 **Síntesis Abierta / Open Synthesis:** [#174](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/174)  
-**Manifiesto / Manifesto:** [LXXXII · Ciencia Multidimensional Neodialéctica™](../../manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md)  
-**Protocolo / Protocol:** [CMN-0.1](PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md)  
-**Unidad diferenciada / Differentiated unity:** [extensión candidata de C-NAX-20](2026-08-25_EXTENSION_C_NAX_20_UNIDAD_DIFERENCIADA_ES_EN.md)  
-**Genealogía / Genealogy:** XLV · Multidimensionalidad Neodialéctica™ → LXI · Custodia Experimental Multiescalar™ → NEOCore™ 7.3-CANDIDATE · Autosíntesis Recursiva™ → este delta / this delta.  
+**Manifiesto / Manifesto:** [LXXXII · Ciencia Multidimensional Neodialéctica™ / Neodialectical Multidimensional Science™](../../manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md)  
+**Protocolo / Protocol:** [CMN-0.1 / NMS-0.1](PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md)  
+**Unidad diferenciada / Differentiated unity:** [extensión candidata de C-NAX-20 / candidate extension of C-NAX-20](2026-08-25_EXTENSION_C_NAX_20_UNIDAD_DIFERENCIADA_ES_EN.md)  
+**Genealogía / Genealogy:** XLV · Multidimensionalidad Neodialéctica™ → LXI · Custodia Experimental Multiescalar™ → fase histórica / historical phase `NEOCore™ 7.3-CANDIDATE` · Autosíntesis Recursiva™ → este delta / this delta.  
+**Estado vigente de NEOCore™ / Current NEOCore™ state:** [versiones/README.md](../../versiones/README.md)  
 **Naturaleza / Nature:** propuesta metodológica + metáfora crítica + lenguaje visual; no disciplina empíricamente validada por mera denominación / methodological proposal + critical metaphor + visual language; not an empirically validated discipline by naming alone.
+
+[ES · Castellano](#es--sintesis-del-caso-001) · [EN · English](#en--case-001-synthesis)
+
+---
 
 ## ES · Síntesis del caso 001
 
@@ -51,7 +56,9 @@ Aplicación reproducible: [CMN-0.1](PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_E
 
 ### Red documental
 
-[XLV](../../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) · [LXI](../../manifiestos/61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md) · [LXXXII](../../manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md) · [CMN-0.1](PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md) · [C-NAX-20 / Unidad diferenciada](2026-08-25_EXTENSION_C_NAX_20_UNIDAD_DIFERENCIADA_ES_EN.md) · [NEOCore 7.3-CANDIDATE](NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md) · [SAN #174](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/174)
+[XLV](../../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) · [LXI](../../manifiestos/61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md) · [LXXXII](../../manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md) · [CMN-0.1](PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md) · [C-NAX-20 / Unidad diferenciada](2026-08-25_EXTENSION_C_NAX_20_UNIDAD_DIFERENCIADA_ES_EN.md) · [NEOCore™ · estado vigente](../../versiones/README.md) · [matriz histórica 7.3 / historical 7.3 matrix](NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md) · [SAN #174](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/174)
+
+---
 
 ## EN · Case 001 synthesis
 
@@ -93,4 +100,4 @@ Reproducible application: [NMS-0.1](PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_E
 
 ### Documentary network
 
-[XLV](../../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) · [LXI](../../manifiestos/61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md) · [LXXXII](../../manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md) · [CMN-0.1](PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md) · [C-NAX-20 / Differentiated unity](2026-08-25_EXTENSION_C_NAX_20_UNIDAD_DIFERENCIADA_ES_EN.md) · [NEOCore 7.3-CANDIDATE](NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md) · [SAN #174](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/174)
+[XLV](../../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) · [LXI](../../manifiestos/61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md) · [LXXXII](../../manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md) · [NMS-0.1](PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md) · [C-NAX-20 / Differentiated unity](2026-08-25_EXTENSION_C_NAX_20_UNIDAD_DIFERENCIADA_ES_EN.md) · [NEOCore™ · current state](../../versiones/README.md) · [historical 7.3 matrix](NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md) · [SAN #174](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/174)
