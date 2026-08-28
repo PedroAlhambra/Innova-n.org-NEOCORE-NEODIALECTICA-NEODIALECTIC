@@ -1,0 +1,56 @@
+from pathlib import Path
+
+# 1) Repair the single broken relational target while preserving the real relation.
+rel = Path('manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md')
+s = rel.read_text(encoding='utf-8')
+old = '../analisis/publicos/2026-08-28_interaccion_negociacion_tecnologica_dependencia_reversibilidad_ES_EN.md'
+new = '../propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md'
+if old in s:
+    s = s.replace(old, new)
+elif new not in s:
+    raise SystemExit('expected relational negotiation target not found')
+rel.write_text(s, encoding='utf-8')
+
+# 2) Synchronise every living README latest-manifesto block from the canonical manifesto index.
+source = Path('manifiestos/README.md').read_text(encoding='utf-8')
+start = '<!-- NEO_LATEST_MANIFESTO_START -->'
+end = '<!-- NEO_LATEST_MANIFESTO_END -->'
+a = source.index(start)
+b = source.index(end, a) + len(end)
+block = source[a:b]
+for p in Path('.').rglob('README.md'):
+    if any(part in {'.git', 'node_modules'} for part in p.parts):
+        continue
+    text = p.read_text(encoding='utf-8')
+    if start in text and end in text:
+        x = text.index(start)
+        y = text.index(end, x) + len(end)
+        p.write_text(text[:x] + block + text[y:], encoding='utf-8')
+
+# 3) Reconcile the complete Open Synthesis index to the current finite frontier and C-NAX frontier.
+idx = Path('propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md')
+t = idx.read_text(encoding='utf-8')
+t = t.replace('**Fecha / Date:** 2026-08-18', '**Fecha / Date:** 2026-08-28')
+t = t.replace('**81 manifiestos finitos I–LXXXI + Manifiesto ∞ · 14 Neoaxiomas™ canónicos + 12 candidatos C-NAX-15–C-NAX-26', '**84 manifiestos finitos I–LXXXIV + Manifiesto ∞ · 14 Neoaxiomas™ canónicos + 13 candidatos C-NAX-15–C-NAX-27')
+t = t.replace('81 finite manifestos I–LXXXI + Manifesto ∞ · 14 canonical Neoaxioms™ + 12 candidates C-NAX-15–C-NAX-26', '84 finite manifestos I–LXXXIV + Manifesto ∞ · 14 canonical Neoaxioms™ + 13 candidates C-NAX-15–C-NAX-27')
+row81 = '| LXXXI | [Manifiesto del Ultralujo como Bien Común™ · La élite del aporte / Manifesto of Ultraluxury as Common Good™ · The elite of contribution](../../manifiestos/81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md) | [#160](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/160) |'
+rows_new = '\n'.join([
+    '| LXXXII | [Manifiesto de la Ciencia Multidimensional Neodialéctica™ / Manifesto of Neodialectical Multidimensional Science™](../../manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md) | [#174](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/174) |',
+    '| LXXXIII | [Manifiesto de Activación Neodialéctica™ · La verdad también tiene derecho a circular / Manifesto of Neodialectical Activation™ · Truth also has the right to circulate](../../manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md) | [#175](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/175) |',
+    '| LXXXIV | [Manifiesto de la Permeabilidad Intelectual del Poder™ · Contra la captura opaca del acceso / Manifesto of the Intellectual Permeability of Power™ · Against opaque access capture](../../manifiestos/84_intermediacion_acceso_permeabilidad_poder_ES_EN.md) | [#178](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/178) |',
+])
+if '| LXXXII |' not in t:
+    if row81 not in t:
+        raise SystemExit('LXXXI anchor row not found in complete synthesis index')
+    t = t.replace(row81, row81 + '\n' + rows_new)
+c26 = '| **C-NAX-26 · Poder ↑ → Trazabilidad ↑ · Acusación ↑ → Evidencia ↑ / Power ↑ → Traceability ↑ · Accusation ↑ → Evidence ↑ · candidato / candidate** | [#156](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/156) |'
+c27 = '| **C-NAX-27 · Soberanía Diferenciada de Sistema y Síntesis™ / Differentiated Sovereignty of System and Synthesis™ · candidato / candidate** | [#176](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/176) · [documento / document](2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md) |'
+if 'C-NAX-27 · Soberanía Diferenciada' not in t:
+    if c26 not in t:
+        raise SystemExit('C-NAX-26 anchor row not found')
+    t = t.replace(c26, c26 + '\n' + c27)
+t = t.replace('C-NAX-15–C-NAX-26 son candidatos visibles y trazables', 'C-NAX-15–C-NAX-27 son candidatos visibles y trazables')
+t = t.replace('C-NAX-15–C-NAX-26 are visible, traceable candidates', 'C-NAX-15–C-NAX-27 are visible, traceable candidates')
+idx.write_text(t, encoding='utf-8')
+
+print('one-shot public reconciliation applied')
