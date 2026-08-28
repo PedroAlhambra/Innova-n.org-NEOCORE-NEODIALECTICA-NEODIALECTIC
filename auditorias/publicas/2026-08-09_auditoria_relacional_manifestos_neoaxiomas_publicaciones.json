@@ -804,11 +804,7 @@
       "words_per_heading": 50.2
     }
   ],
-  "relation_missing": [
-    "LXXXII",
-    "LXXXIII",
-    "LXXXIV"
-  ],
+  "relation_missing": [],
   "neoaxioms": [
     {
       "id": "NAX-01",
@@ -1008,15 +1004,13 @@
     }
   ],
   "neoaxioms_missing_dedicated": [],
-  "broken": [],
-  "weak_publication_relations": [
+  "broken": [
     {
-      "roman": "LXXXIV",
-      "title": "Manifiesto de la Permeabilidad Intelectual del Poder™ · Contra la captura opaca del acceso / Manifesto of the Intellectual Permeability of Power™ · Against opaque access capture",
-      "path": "manifiestos/84_intermediacion_acceso_permeabilidad_poder_ES_EN.md",
-      "publication_links": 0
+      "source": "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
+      "href": "../analisis/publicos/2026-08-28_interaccion_negociacion_tecnologica_dependencia_reversibilidad_ES_EN.md"
     }
   ],
+  "weak_publication_relations": [],
   "co_citation": [
     {
       "a": "IX",
@@ -1829,21 +1823,6 @@
       ]
     },
     {
-      "a": "LIII",
-      "b": "LXXXI",
-      "sources": 9,
-      "examples": [
-        "analisis/README.md",
-        "analisis/auditorias/README.md",
-        "analisis/publicos/README.md",
-        "analisis/publicos/evidencias/README.md",
-        "auditorias/publicas/README.md",
-        "obras/README.md",
-        "obras/idea/README.md",
-        "obras/idea/assets/README.md"
-      ]
-    },
-    {
       "a": "VI",
       "b": "XLII",
       "sources": 9,
@@ -2185,6 +2164,21 @@
         "auditorias/publicas/2026-08-07_postcheck_vinculos_marruecos_y_limpieza_bloques_manifiestos.md",
         "auditorias/publicas/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md",
         "propuestas/sintesis-abierta/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "LIII",
+      "b": "LXXXI",
+      "sources": 8,
+      "examples": [
+        "analisis/README.md",
+        "analisis/auditorias/README.md",
+        "analisis/publicos/README.md",
+        "analisis/publicos/evidencias/README.md",
+        "obras/README.md",
+        "obras/idea/README.md",
+        "obras/idea/assets/README.md",
         "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
       ]
     },
@@ -7158,7 +7152,7 @@
       "path": "auditorias/publicas/README.md",
       "manifestos": [
         "LIII",
-        "LXXXI"
+        "LXXXIV"
       ]
     },
     {
@@ -13987,9 +13981,6 @@
           "analisis/publicos/evidencias/README.md",
           "analisis/publicos/README.md"
         ],
-        "auditorias/publicas": [
-          "auditorias/publicas/README.md"
-        ],
         "manifiestos": [
           "manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md",
           "manifiestos/02_neodialectica_bien_comun_ES_EN.md",
@@ -14080,7 +14071,8 @@
       },
       "inbound": {
         "otros": [
-          "manifiestos/README.md"
+          "manifiestos/README.md",
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md",
@@ -14109,7 +14101,8 @@
           "manifiestos/84_intermediacion_acceso_permeabilidad_poder_ES_EN.md"
         ],
         "otros": [
-          "manifiestos/README.md"
+          "manifiestos/README.md",
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md"
@@ -14134,8 +14127,12 @@
         ]
       },
       "inbound": {
+        "auditorias/publicas": [
+          "auditorias/publicas/README.md"
+        ],
         "otros": [
-          "manifiestos/README.md"
+          "manifiestos/README.md",
+          "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ]
       }
     }
