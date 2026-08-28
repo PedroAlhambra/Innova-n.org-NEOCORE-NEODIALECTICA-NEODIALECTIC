@@ -9,20 +9,20 @@
 
 ## ES · Resultado
 
-- Archivos Markdown activos revisados: **451**.
+- Archivos Markdown activos revisados: **452**.
 - Archivos Markdown históricos excluidos del estado vivo: **55**.
 - Entradas legacy excluidas del estado vivo: **0**.
 - README activos revisados: **18**.
-- Enlaces internos de ruta comprobados: **10892**.
+- Enlaces internos de ruta comprobados: **10910**.
 - Alias internos de GitHub Wiki reconocidos: **44**.
-- Enlaces externos inventariados sin comprobar disponibilidad remota: **1957**.
-- Enlaces sólo a ancla detectados: **809**.
+- Enlaces externos inventariados sin comprobar disponibilidad remota: **1960**.
+- Enlaces sólo a ancla detectados: **811**.
 - Bloques de último manifiesto encontrados en README: **8**.
 - Bloques legacy NEO_CURRENT_NAV encontrados en README: **0**.
 - Bloques redundantes MANIFESTOS_CURRENT encontrados en README: **0**.
 - Manifiestos canónicos detectados: **84 · I–LXXXIV**.
 - Último manifiesto / Síntesis: **LXXXIV / #178**.
-- Enlaces internos rotos del grafo vivo: **0**.
+- Enlaces internos rotos del grafo vivo: **1**.
 - Fallos canónicos críticos: **4**.
 
 ### Comprobaciones canónicas
@@ -41,28 +41,30 @@
 - El índice completo de Síntesis Abierta no declara I–LXXXIV. / The complete Open Synthesis index does not declare I–LXXXIV.
 - El índice completo de Síntesis no enlaza el último manifiesto LXXXIV. / The complete Synthesis index does not link the latest manifesto LXXXIV.
 - El índice completo de Síntesis no enlaza el Issue #178 del último manifiesto LXXXIV. / The complete Synthesis index does not link Issue #178 for the latest manifesto LXXXIV.
-- README con bloque latest desincronizado / README with unsynchronised latest block: analisis/README.md, analisis/auditorias/README.md, analisis/publicos/README.md, analisis/publicos/evidencias/README.md, auditorias/publicas/README.md, obras/README.md, obras/idea/README.md, obras/idea/assets/README.md
+- README con bloque latest desincronizado / README with unsynchronised latest block: analisis/README.md, analisis/auditorias/README.md, analisis/publicos/README.md, analisis/publicos/evidencias/README.md, obras/README.md, obras/idea/README.md, obras/idea/assets/README.md
 
 ### Enlaces internos rotos del grafo vivo
 
-- Ninguno detectado por el validador de rutas del repositorio.
+| Origen | Destino | Motivo |
+|---|---|---|
+| `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` | `../analisis/publicos/2026-08-28_interaccion_negociacion_tecnologica_dependencia_reversibilidad_ES_EN.md` | destino inexistente / missing target |
 
 ## EN · Result
 
-- Active Markdown files reviewed: **451**.
+- Active Markdown files reviewed: **452**.
 - Historical Markdown files excluded from living-state health: **55**.
 - Legacy entry files excluded from living-state health: **0**.
 - Active README files reviewed: **18**.
-- Internal path links checked: **10892**.
+- Internal path links checked: **10910**.
 - GitHub Wiki extensionless page aliases recognised: **44**.
-- External links inventoried without checking remote availability: **1957**.
-- Anchor-only links detected: **809**.
+- External links inventoried without checking remote availability: **1960**.
+- Anchor-only links detected: **811**.
 - Latest-manifesto blocks found in README files: **8**.
 - Legacy NEO_CURRENT_NAV blocks found in README files: **0**.
 - Redundant MANIFESTOS_CURRENT blocks found in README files: **0**.
 - Canonical manifestos detected: **84 · I–LXXXIV**.
 - Latest manifesto / synthesis: **LXXXIV / #178**.
-- Broken internal links in the living graph: **0**.
+- Broken internal links in the living graph: **1**.
 - Canonical critical failures: **4**.
 
 ### Canonical checks
@@ -81,10 +83,12 @@
 - El índice completo de Síntesis Abierta no declara I–LXXXIV. / The complete Open Synthesis index does not declare I–LXXXIV.
 - El índice completo de Síntesis no enlaza el último manifiesto LXXXIV. / The complete Synthesis index does not link the latest manifesto LXXXIV.
 - El índice completo de Síntesis no enlaza el Issue #178 del último manifiesto LXXXIV. / The complete Synthesis index does not link Issue #178 for the latest manifesto LXXXIV.
-- README con bloque latest desincronizado / README with unsynchronised latest block: analisis/README.md, analisis/auditorias/README.md, analisis/publicos/README.md, analisis/publicos/evidencias/README.md, auditorias/publicas/README.md, obras/README.md, obras/idea/README.md, obras/idea/assets/README.md
+- README con bloque latest desincronizado / README with unsynchronised latest block: analisis/README.md, analisis/auditorias/README.md, analisis/publicos/README.md, analisis/publicos/evidencias/README.md, obras/README.md, obras/idea/README.md, obras/idea/assets/README.md
 
 ### Broken internal links in the living graph
 
-- None detected by the repository route validator.
+| Source | Target | Reason |
+|---|---|---|
+| `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` | `../analisis/publicos/2026-08-28_interaccion_negociacion_tecnologica_dependencia_reversibilidad_ES_EN.md` | destino inexistente / missing target |
 
 **Innova_N · NEOCore™ · Neodialectica Framework™ / Network**
