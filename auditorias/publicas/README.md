@@ -12,10 +12,10 @@
 
 > ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LXXXI · Manifiesto del Ultralujo como Bien Común™ · La élite del aporte / Manifesto of Ultraluxury as Common Good™ · The elite of contribution**
+> **LXXXIV · Manifiesto de la Permeabilidad Intelectual del Poder™ · Contra la captura opaca del acceso / Manifesto of the Intellectual Permeability of Power™ · Against opaque access capture**
 >
-> **[Leer LXXXI / Read LXXXI](../../manifiestos/81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md) · [Síntesis Abierta LXXXI · #160 / Open Synthesis LXXXI · #160](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/160)**  
-> [Seguir marco / Follow framework](../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [Registrar entrada / Register entry](../../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Cómo aportar / How to contribute](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™](../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas / Public audits](README.md) · [81 manifiestos / manifestos · I–LXXXI](../../manifiestos/README.md)
+> **[Leer LXXXIV / Read LXXXIV](../../manifiestos/84_intermediacion_acceso_permeabilidad_poder_ES_EN.md) · [Síntesis Abierta LXXXIV · #178 / Open Synthesis LXXXIV · #178](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/178)**  
+> [Seguir marco / Follow framework](../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [Registrar entrada / Register entry](../../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Cómo aportar / How to contribute](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™](../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas / Public audits](README.md) · [84 manifiestos / manifestos · I–LXXXIV](../../manifiestos/README.md)
 
 <!-- NEO_LATEST_MANIFESTO_END -->
 
@@ -81,10 +81,11 @@ PROBLEMA
 
 **Aportes buscados:** cronologías y pruebas sobre mappings, ISRC/UPC, perfiles mezclados, desapariciones/reapariciones, regalías y soporte. No se solicita adhesión a una acusación.
 
-### 2.3 · Amazon KDP · Author Central · IDEA · caso 51071689
+### 2.3 · Amazon KDP · Author Central · IDEA · casos 51071689 / 51425302
 
 - [Auditoría indirecta pública](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 - [Caso de éxito operativo provisional](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+- [Addendum 28-08-2026 · vinculación idioma/formato · caso 51425302](./2026-08-28_addendum_kdp_vinculacion_idiomas_formatos_caso_51425302_ES_EN.md)
 - [#70 · aportes y pruebas](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)
 
 **Estado:** conserva correcciones verificadas, reaperturas y cuestiones técnicas no explicadas. Ninguna hipótesis sobre intención se trata como hecho.
@@ -166,10 +167,11 @@ PROBLEM
 
 **Contributions sought:** timelines and evidence concerning mappings, ISRC/UPC, mixed profiles, disappearances/reappearances, royalties and support. Endorsement of an allegation is not requested.
 
-### 2.3 · Amazon KDP · Author Central · IDEA · case 51071689
+### 2.3 · Amazon KDP · Author Central · IDEA · cases 51071689 / 51425302
 
 - [Public indirect audit](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 - [Provisional operational success case](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+- [28 Aug 2026 addendum · language/format linking · case 51425302](./2026-08-28_addendum_kdp_vinculacion_idiomas_formatos_caso_51425302_ES_EN.md)
 - [#70 · contributions and evidence](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)
 
 **Status:** preserves verified corrections, reopenings and unexplained technical questions. No hypothesis about intent is treated as fact.
