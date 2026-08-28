@@ -2,11 +2,9 @@ name: Reconcile public living surfaces
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
     paths:
       - .github/workflows/one-shot-reconcile-all-public-surfaces.yml
-      - .github/scripts/one_shot_reconcile_all_public_surfaces.py
 
 permissions:
   contents: write
@@ -19,13 +17,56 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Apply reconciliation
-        run: python .github/scripts/one_shot_reconcile_all_public_surfaces.py
+      - name: Repair relational target
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md')
+          s=p.read_text(encoding='utf-8')
+          s=s.replace('../analisis/publicos/2026-08-28_interaccion_negociacion_tecnologica_dependencia_reversibilidad_ES_EN.md','../propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md')
+          p.write_text(s,encoding='utf-8')
+          PY
+      - name: Synchronise latest-manifesto README blocks
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          start='<!-- NEO_LATEST_MANIFESTO_START -->'; end='<!-- NEO_LATEST_MANIFESTO_END -->'
+          src=Path('manifiestos/README.md').read_text(encoding='utf-8')
+          block=src[src.index(start):src.index(end,src.index(start))+len(end)]
+          for p in Path('.').rglob('README.md'):
+              if '.git' in p.parts: continue
+              s=p.read_text(encoding='utf-8')
+              if start in s and end in s:
+                  a=s.index(start); b=s.index(end,a)+len(end)
+                  p.write_text(s[:a]+block+s[b:],encoding='utf-8')
+          PY
+      - name: Reconcile Open Synthesis index
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          p=Path('propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md')
+          t=p.read_text(encoding='utf-8')
+          t=re.sub(r'\*\*Fecha / Date:\*\*\s*\d{4}-\d{2}-\d{2}','**Fecha / Date:** 2026-08-28',t,count=1)
+          t=t.replace('81 manifiestos finitos I–LXXXI','84 manifiestos finitos I–LXXXIV').replace('81 finite manifestos I–LXXXI','84 finite manifestos I–LXXXIV')
+          t=t.replace('12 candidatos C-NAX-15–C-NAX-26','13 candidatos C-NAX-15–C-NAX-27').replace('12 candidates C-NAX-15–C-NAX-26','13 candidates C-NAX-15–C-NAX-27')
+          if '| LXXXII |' not in t:
+              rows=[
+              '| LXXXII | [Manifiesto de la Ciencia Multidimensional Neodialéctica™ / Manifesto of Neodialectical Multidimensional Science™](../../manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md) | [#174](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/174) |',
+              '| LXXXIII | [Manifiesto de Activación Neodialéctica™ · La verdad también tiene derecho a circular / Manifesto of Neodialectical Activation™ · Truth also has the right to circulate](../../manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md) | [#175](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/175) |',
+              '| LXXXIV | [Manifiesto de la Permeabilidad Intelectual del Poder™ · Contra la captura opaca del acceso / Manifesto of the Intellectual Permeability of Power™ · Against opaque access capture](../../manifiestos/84_intermediacion_acceso_permeabilidad_poder_ES_EN.md) | [#178](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/178) |']
+              lines=t.splitlines(); i=next(i for i,x in enumerate(lines) if x.startswith('| LXXXI |'))+1; lines[i:i]=rows; t='\n'.join(lines)+'\n'
+          if 'C-NAX-27 · Soberanía Diferenciada' not in t:
+              row='| **C-NAX-27 · Soberanía Diferenciada de Sistema y Síntesis™ / Differentiated Sovereignty of System and Synthesis™ · candidato / candidate** | [#176](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/176) · [documento / document](2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md) |'
+              lines=t.splitlines(); i=next(i for i,x in enumerate(lines) if x.startswith('| **C-NAX-26 '))+1; lines.insert(i,row); t='\n'.join(lines)+'\n'
+          t=t.replace('C-NAX-15–C-NAX-26 son candidatos visibles y trazables','C-NAX-15–C-NAX-27 son candidatos visibles y trazables').replace('C-NAX-15–C-NAX-26 are visible, traceable candidates','C-NAX-15–C-NAX-27 are visible, traceable candidates')
+          p.write_text(t,encoding='utf-8')
+          PY
       - name: Commit reconciliation
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add -A
+          git add manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md '**/README.md'
           git diff --cached --quiet && exit 0
           git commit -m "fix: reconcile living public graph to LXXXIV and C-NAX-27"
           git pull --rebase origin main
