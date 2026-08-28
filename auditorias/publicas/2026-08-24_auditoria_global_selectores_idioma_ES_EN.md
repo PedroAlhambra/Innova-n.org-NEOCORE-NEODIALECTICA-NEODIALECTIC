@@ -3,7 +3,7 @@
 
 **Generada / Generated:** 2026-08-28 11:37 UTC  
 **Páginas ES/EN explícitas auditadas / Explicit ES/EN split pages audited:** **379**  
-**Fallos / Failures:** **2**  
+**Fallos / Failures:** **1**  
 **LANGUAGE_SELECTOR_GATE:** **FAIL**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
@@ -21,13 +21,12 @@ Toda superficie Markdown pública y activa que exponga capas explícitas `ES` y 
 ## Resultado
 
 - Páginas auditadas: **379**.
-- Fallos: **2**.
+- Fallos: **1**.
 - Estado: **FAIL**.
 
 ## Detalle de fallos
 
 - `propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
-- `propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md` · `LANGUAGE_ANCHOR_FAILURE` · ES anchor #es--senal-externa != #es--señal-externa
 
 ---
 
@@ -42,10 +41,9 @@ Every active public Markdown surface exposing explicit `ES` and `EN` layers must
 ## Result
 
 - Pages audited: **379**.
-- Failures: **2**.
+- Failures: **1**.
 - Status: **FAIL**.
 
 ## Failure detail
 
 - `propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
-- `propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md` · `LANGUAGE_ANCHOR_FAILURE` · ES anchor #es--senal-externa != #es--señal-externa
