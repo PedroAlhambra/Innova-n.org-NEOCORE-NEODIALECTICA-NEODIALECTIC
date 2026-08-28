@@ -1,4 +1,4 @@
-# activated after registration on main
+# activated after registration on main; hardened reconciliation pass
 name: Temporary public graph reconciliation
 
 on:
