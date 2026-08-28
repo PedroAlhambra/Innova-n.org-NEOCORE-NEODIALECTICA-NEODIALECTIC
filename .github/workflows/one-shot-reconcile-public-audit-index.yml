@@ -1,0 +1,47 @@
+name: one-shot-reconcile-public-audit-index
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/one-shot-reconcile-public-audit-index.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Reconcile public audit index
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('auditorias/publicas/README.md')
+          s=p.read_text(encoding='utf-8')
+          s=s.replace('**LXXXI · Manifiesto del Ultralujo como Bien Común™ · La élite del aporte / Manifesto of Ultraluxury as Common Good™ · The elite of contribution**', '**LXXXIV · Manifiesto de la Permeabilidad Intelectual del Poder™ · Contra la captura opaca del acceso / Manifesto of the Intellectual Permeability of Power™ · Against opaque access capture**')
+          s=s.replace('**[Leer LXXXI / Read LXXXI](../../manifiestos/81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md) · [Síntesis Abierta LXXXI · #160 / Open Synthesis LXXXI · #160](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/160)**', '**[Leer LXXXIV / Read LXXXIV](../../manifiestos/84_intermediacion_acceso_permeabilidad_poder_ES_EN.md) · [Síntesis Abierta LXXXIV · #178 / Open Synthesis LXXXIV · #178](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/178)**')
+          s=s.replace('[81 manifiestos / manifestos · I–LXXXI](../../manifiestos/README.md)', '[84 manifiestos / manifestos · I–LXXXIV](../../manifiestos/README.md)')
+          s=s.replace('### 2.3 · Amazon KDP · Author Central · IDEA · caso 51071689', '### 2.3 · Amazon KDP · Author Central · IDEA · casos 51071689 / 51425302')
+          s=s.replace('### 2.3 · Amazon KDP · Author Central · IDEA · case 51071689', '### 2.3 · Amazon KDP · Author Central · IDEA · cases 51071689 / 51425302')
+          es_anchor='- [Caso de éxito operativo provisional](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)\n- [#70 · aportes y pruebas]'
+          es_repl='- [Caso de éxito operativo provisional](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)\n- [Addendum 28-08-2026 · vinculación idioma/formato · caso 51425302](./2026-08-28_addendum_kdp_vinculacion_idiomas_formatos_caso_51425302_ES_EN.md)\n- [#70 · aportes y pruebas]'
+          s=s.replace(es_anchor,es_repl)
+          en_anchor='- [Provisional operational success case](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)\n- [#70 · contributions and evidence]'
+          en_repl='- [Provisional operational success case](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)\n- [28 Aug 2026 addendum · language/format linking · case 51425302](./2026-08-28_addendum_kdp_vinculacion_idiomas_formatos_caso_51425302_ES_EN.md)\n- [#70 · contributions and evidence]'
+          s=s.replace(en_anchor,en_repl)
+          p.write_text(s,encoding='utf-8')
+          Path('.github/workflows/one-shot-reconcile-public-audit-index.yml').unlink()
+          PY
+      - name: Commit reconciliation
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add auditorias/publicas/README.md .github/workflows/one-shot-reconcile-public-audit-index.yml
+          git commit -m 'fix: reconcile public audit index to LXXXIV and KDP 51425302'
+          git pull --rebase origin main
+          git push origin main
