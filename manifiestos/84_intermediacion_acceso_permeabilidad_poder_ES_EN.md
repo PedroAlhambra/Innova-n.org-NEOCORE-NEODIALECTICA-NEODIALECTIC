@@ -4,7 +4,8 @@
 **Fecha / Date:** 2026-08-28  
 **Estado / Status:** PUBLICADO · SÍNTESIS ABIERTA / PUBLISHED · OPEN SYNTHESIS  
 **Marco / Framework:** Neodialéctica™ · NEOCore™  
-**Síntesis Abierta / Open Synthesis:** [#178](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/178)
+**Síntesis Abierta / Open Synthesis:** [#178](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/178)  
+**Relaciones principales / Main relations:** [XXII · Contra la Reducción y la Captura Intelectual™](./22_contra_reduccion_captura_intelectual_ES_EN.md) · [LX · Relevancia Humana Necesaria™ · Inteligencia Distribuida, Aporte y Anti-Captura Social](./60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md) · [LXXXI · Ultralujo como Bien Común™ · La élite del aporte](./81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md) · [LXXXIII · Activación Neodialéctica™ · La verdad también tiene derecho a circular](./83_activacion_neodialectica_verdad_circulacion_ES_EN.md)
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -232,7 +233,7 @@ La capacidad de recibir objeciones, alternativas, señales débiles y propuestas
 
 ### 11. Relación con la activación neodialéctica
 
-El Manifiesto LXXXIII afirma que la verdad también necesita infraestructura de circulación.
+El [Manifiesto LXXXIII · Activación Neodialéctica™](./83_activacion_neodialectica_verdad_circulacion_ES_EN.md) afirma que la verdad también necesita infraestructura de circulación.
 
 Este manifiesto añade una precisión:
 
@@ -497,7 +498,7 @@ The ability to receive objections, alternatives, weak signals and not-yet-legiti
 
 ### 11. Relation to neodialectical activation
 
-Manifesto LXXXIII argues that truth also needs circulation infrastructure.
+[Manifesto LXXXIII · Neodialectical Activation™](./83_activacion_neodialectica_verdad_circulacion_ES_EN.md) argues that truth also needs circulation infrastructure.
 
 This manifesto adds a precision:
 
