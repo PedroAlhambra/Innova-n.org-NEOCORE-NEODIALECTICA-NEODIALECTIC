@@ -9,7 +9,7 @@
 **Regla / Rule:** ingesta ≠ apropiación · coincidencia ≠ derivación / ingestion ≠ appropriation · convergence ≠ derivation  
 **Síntesis / Synthesis:** [#179](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/179)
 
-[ES · Castellano](#es--senal-externa) · [EN · English](#en--external-signal)
+[ES · Castellano](#es--señal-externa) · [EN · English](#en--external-signal)
 
 ---
 
