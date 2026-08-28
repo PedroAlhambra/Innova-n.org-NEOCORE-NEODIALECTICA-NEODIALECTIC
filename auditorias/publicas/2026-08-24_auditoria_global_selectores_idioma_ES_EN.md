@@ -3,7 +3,7 @@
 
 **Generada / Generated:** 2026-08-28 11:35 UTC  
 **Páginas ES/EN explícitas auditadas / Explicit ES/EN split pages audited:** **379**  
-**Fallos / Failures:** **5**  
+**Fallos / Failures:** **4**  
 **LANGUAGE_SELECTOR_GATE:** **FAIL**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
@@ -21,12 +21,11 @@ Toda superficie Markdown pública y activa que exponga capas explícitas `ES` y 
 ## Resultado
 
 - Páginas auditadas: **379**.
-- Fallos: **5**.
+- Fallos: **4**.
 - Estado: **FAIL**.
 
 ## Detalle de fallos
 
-- `auditorias/publicas/2026-08-26_addendum_kdp_vinculacion_cruzada_es_en_formatos_51071689_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md` · `LANGUAGE_ANCHOR_FAILURE` · ES anchor #es--sintesis-del-caso-001 != #es--síntesis-del-caso-001
 - `propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md` · `LANGUAGE_ANCHOR_FAILURE` · ES anchor #es--senal-externa != #es--señal-externa
@@ -45,12 +44,11 @@ Every active public Markdown surface exposing explicit `ES` and `EN` layers must
 ## Result
 
 - Pages audited: **379**.
-- Failures: **5**.
+- Failures: **4**.
 - Status: **FAIL**.
 
 ## Failure detail
 
-- `auditorias/publicas/2026-08-26_addendum_kdp_vinculacion_cruzada_es_en_formatos_51071689_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md` · `LANGUAGE_ANCHOR_FAILURE` · ES anchor #es--sintesis-del-caso-001 != #es--síntesis-del-caso-001
 - `propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md` · `LANGUAGE_ANCHOR_FAILURE` · ES anchor #es--senal-externa != #es--señal-externa

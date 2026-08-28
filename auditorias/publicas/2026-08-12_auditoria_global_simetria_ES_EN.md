@@ -9,15 +9,13 @@
 
 - Markdown activo examinado / Active Markdown scanned: **361**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **295**.
-- Fallos estructurales divididos / Split structural failures: **3**.
+- Fallos estructurales divididos / Split structural failures: **2**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
 
-- `auditorias/publicas/2026-08-26_addendum_kdp_vinculacion_cruzada_es_en_formatos_51071689_ES_EN.md` · ES=932 · EN=817 · ratio=0.88
-  - ES · Ampliación 2026-08-27 · idiomas disponibles incompletos y reciprocidad global: párrafos ES=9 EN=8
 - `manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md` · ES=743 · EN=726 · ratio=0.98
   - 10: párrafos ES=4 EN=5
 - `manifiestos/84_intermediacion_acceso_permeabilidad_poder_ES_EN.md` · ES=1045 · EN=1024 · ratio=0.98
@@ -188,7 +186,7 @@
 | `auditorias/publicas/2026-08-25_public_maxproc_run32_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-25_public_maxproc_run33_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-25_public_maxproc_run34_ES_EN.md` | **OK** |  |
-| `auditorias/publicas/2026-08-26_addendum_kdp_vinculacion_cruzada_es_en_formatos_51071689_ES_EN.md` | **REVISAR** | ES · Ampliación 2026-08-27 · idiomas disponibles incompletos y reciprocidad global: párrafos ES=9 EN=8 |
+| `auditorias/publicas/2026-08-26_addendum_kdp_vinculacion_cruzada_es_en_formatos_51071689_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/README.md` | **OK** |  |
