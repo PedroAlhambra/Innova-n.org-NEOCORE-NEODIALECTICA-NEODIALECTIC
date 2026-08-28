@@ -5,11 +5,14 @@
 **Fecha / Date:** 2026-08-27  
 **Origen humano / Human origin:** Pedro Martínez Alhambra · Neo0™  
 **Síntesis / Synthesis:** [#176](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/176)  
-**Base operativa / Operating base:** [NEOCore™ 7.3 CANON ABIERTO / OPEN CANON](./NEOCORE_7_3_CANON_ES_EN.md)
+**Base operativa / Operating base:** [NEOCore™ 7.3 CANON ABIERTO / OPEN CANON](./NEOCORE_7_3_CANON_ES_EN.md)  
+**Estado vigente de NEOCore™ / Current NEOCore™ state:** [versiones/README.md](../../versiones/README.md)
 
 **Relaciones principales / Main relations:** [I · Neo0™](../../manifiestos/11_neo0_soberania_de_guia_ES_EN.md) · [II · Síntesis Abierta Neodialéctica™](../../manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md) · [VII · Economía del Aporte™](../../manifiestos/04_economia_del_aporte_ES_EN.md) · [X · WEB4™](../../manifiestos/07_web4_sistematrazable_ES_EN.md) · [XXXVIII · Protección Integral de la Infancia™](../../manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) · [LVI · NO-CONTROL™](../../manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md) · [LVIII · Inteligencia Civilizatoria™](../../manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md) · [LXII · Juego por la Síntesis y el Honor™](../../manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md) · [LXIX · Defensa de la Inocencia Humana™](../../manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md) · [C-NAX-16 · No Coronación de la Parte™ · #151](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/151) · [C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ · #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123) · [C-NAX-26 · Poder/Trazabilidad/Evidencia™ · #156](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/156)
 
 > **Corrección genealógica / Genealogical correction:** #176 nació de una señal sobre infancia, madurez y cultura algorítmica, pero el recálculo detectó que esa señal era un caso particular de un principio superior: la separación entre soberanía del sistema, soberanía epistemológica de la Síntesis y agencia de los nodos. La infancia permanece como caso de prueba, no como centro del candidato. / #176 began from a signal concerning childhood, maturity and algorithmic culture, but recalculation detected that this signal was a particular case of a higher principle: the separation between system sovereignty, epistemic sovereignty of Synthesis and node agency. Childhood remains a test case, not the centre of the candidate.
+
+[ES · Castellano](#es--formulación-candidata) · [EN · English](#en--candidate-formulation)
 
 ---
 
