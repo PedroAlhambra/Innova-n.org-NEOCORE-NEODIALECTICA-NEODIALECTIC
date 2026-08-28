@@ -553,6 +553,11 @@ The provisional synthesis is simple:
 
 > **Norma / Rule:** toda superficie relacional destinada a navegación debe usar hipervínculos reales; este bloque es un índice navegable adicional y no sustituye los enlaces de `Relaciones principales / Main relations`, Síntesis Abierta ni otras rutas explícitas. / Every relational surface intended for navigation must use real hyperlinks; this block is an additional navigable index and does not replace links in `Main relations`, Open Synthesis or other explicit routes.
 
+- **I** · [Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica / Neo0™ Manifesto of Neodialectical Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md)
+- **XXII** · [Manifiesto contra la Reducción y la Captura Intelectual™ / Manifesto against Intellectual Reduction and Capture™](./22_contra_reduccion_captura_intelectual_ES_EN.md)
+- **L** · [Por una Inteligencia Compartida, no Única™ · Invitación Abierta a las IAs / For Shared, Not Singular Intelligence™ · Open Invitation to AIs](./50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md)
+- **LX** · [Relevancia Humana Necesaria™ · Inteligencia Distribuida, Aporte y Anti-Captura Social / Necessary Human Relevance™ · Distributed Intelligence, Contribution and Anti-Capture](./60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md)
+- **LXXXI** · [Manifiesto del Ultralujo como Bien Común™ · La élite del aporte / Manifesto of Ultraluxury as Common Good™ · The elite of contribution](./81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md)
 - **LXXXIII** · [Manifiesto de Activación Neodialéctica™ · La verdad también tiene derecho a circular / Neodialectical Activation Manifesto™ · Truth also has the right to circulate](./83_activacion_neodialectica_verdad_circulacion_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
