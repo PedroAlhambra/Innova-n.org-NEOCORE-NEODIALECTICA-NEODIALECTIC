@@ -1,9 +1,14 @@
 # Addendum auditoría Amazon KDP · vinculación cruzada ES/EN en formatos de IDEA
+# Amazon KDP audit addendum · ES/EN cross-linking and missing paperback visibility in IDEA formats
 
-**Fecha:** 2026-08-26  
-**Caso KDP relacionado:** 51071689  
-**Estado:** incidencia reproducida · evidencia visual conservada por Neo0™ · comunicada a soporte KDP · pendiente de resolución  
-**Objeto:** IDEA — Pedro Martínez Alhambra
+**Fecha / Date:** 2026-08-26  
+**Caso KDP relacionado / Related KDP case:** 51071689  
+**Estado / Status:** incidencia reproducida · evidencia visual conservada por Neo0™ · comunicada a soporte KDP · pendiente de resolución / reproduced incident · visual evidence retained by Neo0™ · reported to KDP Support · resolution pending  
+**Objeto / Object:** IDEA — Pedro Martínez Alhambra
+
+[ES · Castellano](#es--hecho-observado) · [EN · English](#en--observed-fact)
+
+---
 
 ## ES · Hecho observado
 
@@ -93,13 +98,6 @@ La prioridad de resolución se mantiene alta porque la incidencia afecta simult�
 **Estado de síntesis:** abierto. No atribuir todavía causa técnica concreta ni afirmar la retirada definitiva de formatos o idiomas hasta recibir respuesta o evidencia adicional de Amazon KDP.
 
 ---
-
-# Amazon KDP audit addendum · ES/EN cross-linking and missing paperback visibility in IDEA formats
-
-**Date:** 2026-08-26  
-**Related KDP case:** 51071689  
-**Status:** reproduced incident · visual evidence retained by Neo0™ · reported to KDP Support · resolution pending  
-**Object:** IDEA — Pedro Martínez Alhambra
 
 ## EN · Observed fact
 
