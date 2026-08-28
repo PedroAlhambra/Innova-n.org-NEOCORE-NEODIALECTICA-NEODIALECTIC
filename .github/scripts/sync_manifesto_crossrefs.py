@@ -7,6 +7,7 @@ START = '<!-- NEO_CROSS_REFERENCES_START -->'
 END = '<!-- NEO_CROSS_REFERENCES_END -->'
 LEGACY_START = '<!-- NEO_CANONICAL_CROSSREFS_START -->'
 LEGACY_END = '<!-- NEO_CANONICAL_CROSSREFS_END -->'
+ISSUE_BASE = 'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/'
 
 
 def roman_to_int(s):
@@ -105,6 +106,7 @@ ALIASES = {
     'Incontrolabilidad Intrínseca': 'LXXVIII', 'Intrinsic Uncontrollability': 'LXXVIII',
     'Necesidad del Neorrenacimiento Humano': 'LXXVIII', 'Necessity of the Human Neo-Renaissance': 'LXXVIII',
     'Alarmismo sin Síntesis': 'LXXIX', 'Alarmism without Synthesis': 'LXXIX',
+    'Permeabilidad Intelectual del Poder': 'LXXXIV', 'Intellectual Permeability of Power': 'LXXXIV',
 }
 
 SPECIAL_DOCS = [
@@ -120,7 +122,66 @@ DEDICATED_SYNTHESIS = {
     'LXXII': 122,
     'LXXVIII': 157,
     'LXXIX': 158,
+    'LXXXIV': 178,
 }
+
+
+def normalize_relations_line(text, own_ord):
+    rx = re.compile(r'^(\*\*Relaciones principales / Main relations:\*\*)\s*(.+)$', re.M)
+
+    def repl(match):
+        prefix, raw = match.group(1), match.group(2).strip()
+        # Make regeneration idempotent even if some/all entries are already Markdown links.
+        plain = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', raw)
+        chunks = re.split(r'\s+·\s+(?=(?:[IVXLCDM]+|∞)\s*·)', plain)
+        out = []
+        seen = set()
+        for chunk in chunks:
+            chunk = chunk.strip()
+            m = re.match(r'^([IVXLCDM]+|∞)\s*·\s*(.+?)\s*$', chunk)
+            if not m:
+                # Preserve non-manifest relationship text rather than dropping it.
+                if chunk:
+                    out.append(chunk)
+                continue
+            ord_, label = m.group(1), m.group(2).strip()
+            if ord_ == own_ord or ord_ not in catalog:
+                out.append(chunk)
+                continue
+            if ord_ in seen:
+                continue
+            seen.add(ord_)
+            href = './' + catalog[ord_]['path'].name
+            out.append(f'[{ord_} · {label}]({href})')
+        return prefix + ' ' + ' · '.join(out)
+
+    return rx.sub(repl, text)
+
+
+def normalize_synthesis_metadata(text, own_ord):
+    rx = re.compile(r'^(\*\*Síntesis Abierta / Open Synthesis:\*\*)\s*(.+)$', re.M)
+
+    def repl(match):
+        prefix, raw = match.group(1), match.group(2).strip()
+        # Existing correct Markdown is retained.
+        if re.search(r'\[[^\]]+\]\(https://github\.com/[^)]+/issues/\d+\)', raw):
+            return match.group(0)
+        issue = None
+        url_m = re.search(r'https://github\.com/[^\s)]+/issues/(\d+)', raw)
+        if url_m:
+            issue = int(url_m.group(1))
+        else:
+            num_m = re.search(r'#(\d+)\b', raw)
+            if num_m:
+                issue = int(num_m.group(1))
+        if issue is None:
+            issue = DEDICATED_SYNTHESIS.get(own_ord)
+        if issue is None:
+            return match.group(0)
+        label = f'#{issue}'
+        return f'{prefix} [{label}]({ISSUE_BASE}{issue})'
+
+    return rx.sub(repl, text)
 
 
 def detect_refs(text, own_ord):
@@ -159,7 +220,7 @@ def block_for(text, own_ord):
     lines = [
         START, '',
         '## Referencias cruzadas canónicas / Canonical cross-references', '',
-        '> **Norma / Rule:** las menciones cruzadas pueden permanecer en el cuerpo como texto para no sobrecargar la lectura; este bloque concentra los hipervínculos canónicos detectados y permite retorno explícito a fuente. / Cross-references may remain as prose in the body to avoid visual overload; this block concentrates detected canonical hyperlinks and preserves explicit return to source.', ''
+        '> **Norma / Rule:** toda superficie relacional destinada a navegación debe usar hipervínculos reales; este bloque es un índice navegable adicional y no sustituye los enlaces de `Relaciones principales / Main relations`, Síntesis Abierta ni otras rutas explícitas. / Every relational surface intended for navigation must use real hyperlinks; this block is an additional navigable index and does not replace links in `Main relations`, Open Synthesis or other explicit routes.', ''
     ]
     if refs:
         for ord_ in sorted(refs, key=roman_to_int):
@@ -190,7 +251,7 @@ def block_for(text, own_ord):
     if issue:
         lines += [
             '', '### Síntesis y delta / Synthesis and delta', '',
-            f'- [Síntesis Abierta {own_ord} / Open Synthesis {own_ord} · #{issue}](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/{issue})',
+            f'- [Síntesis Abierta {own_ord} / Open Synthesis {own_ord} · #{issue}]({ISSUE_BASE}{issue})',
         ]
         if own_ord in {'LXIX', 'LXX', 'LXXI', 'LXXII'}:
             lines += [
@@ -204,11 +265,13 @@ def block_for(text, own_ord):
 changed = []
 for p in files:
     original = p.read_text(encoding='utf-8')
-    clean = strip_generated(original).rstrip() + '\n\n'
+    clean = strip_generated(original).rstrip() + '\n'
     info = first_titles(clean)
     if not info:
         continue
     own_ord = info[0]
+    clean = normalize_relations_line(clean, own_ord)
+    clean = normalize_synthesis_metadata(clean, own_ord).rstrip() + '\n\n'
     new = clean + block_for(clean, own_ord)
     if new != original:
         p.write_text(new, encoding='utf-8')
