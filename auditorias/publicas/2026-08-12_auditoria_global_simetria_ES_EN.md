@@ -1,15 +1,15 @@
 # Auditoría global de simetría ES/EN / Global ES/EN symmetry audit
 
-**Fecha / Date:** 2026-08-27  
+**Fecha / Date:** 2026-08-28  
 **Regla / Rule:** **NO COMPRESIÓN / NO COMPRESSION.** Toda superficie editorial bilingüe debe conservar contenido y estructura: títulos, secciones, listas, citas, fórmulas, tablas, cautelas, ejemplos, navegación y llamadas a Síntesis. / Every bilingual editorial surface must preserve content and structure: titles, sections, lists, quotations, formulas, tables, safeguards, examples, navigation and Synthesis calls.
 
 > Los espejos `manifiestos/canonicos/` no se duplican en este recuento: su igualdad con la fuente se valida mediante la auditoría estructural canónica. / `manifiestos/canonicos/` mirrors are not double-counted here: equality with their source is validated by the canonical structural audit.
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **359**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **293**.
-- Fallos estructurales divididos / Split structural failures: **4**.
+- Markdown activo examinado / Active Markdown scanned: **360**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **294**.
+- Fallos estructurales divididos / Split structural failures: **5**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -20,6 +20,8 @@
   - ES · Ampliación 2026-08-27 · idiomas disponibles incompletos y reciprocidad global: párrafos ES=9 EN=8
 - `manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md` · ES=743 · EN=726 · ratio=0.98
   - 10: párrafos ES=4 EN=5
+- `manifiestos/84_intermediacion_acceso_permeabilidad_poder_ES_EN.md` · ES=1035 · EN=1008 · ratio=0.97
+  - 12: párrafos ES=5 EN=6
 - `propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` · ES=674 · EN=626 · ratio=0.93
   - 9: párrafos ES=1 EN=2
 - `propuestas/sintesis-abierta/PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md` · ES=248 · EN=257 · ratio=1.04
@@ -280,6 +282,7 @@
 | `manifiestos/81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md` | **OK** |  |
 | `manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md` | **OK** |  |
 | `manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md` | **REVISAR** | 10: párrafos ES=4 EN=5 |
+| `manifiestos/84_intermediacion_acceso_permeabilidad_poder_ES_EN.md` | **REVISAR** | 12: párrafos ES=5 EN=6 |
 | `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | **OK** |  |
 | `manifiestos/README.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` | **OK** |  |
