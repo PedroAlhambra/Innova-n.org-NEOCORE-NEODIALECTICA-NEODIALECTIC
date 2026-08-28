@@ -4,7 +4,12 @@
 **Fecha / Date:** 2026-08-25  
 **Estado / Status:** v0.1 · experimental · abierto a falsación y revisión / experimental · open to falsification and revision  
 **Manifiesto / Manifesto:** [LXXXII](../../manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md)  
-**Síntesis / Synthesis:** [#174](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/174)
+**Síntesis / Synthesis:** [#174](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/174)  
+**Estado vigente de NEOCore™ / Current NEOCore™ state:** [versiones/README.md](../../versiones/README.md)
+
+[ES · Castellano](#es--plantilla-minima-reproducible) · [EN · English](#en--minimum-reproducible-template)
+
+---
 
 ## ES · Plantilla mínima reproducible
 
@@ -51,6 +56,12 @@ DIMENSIÓN | ESCALA | TIEMPO | VARIABLE | EVIDENCIA | RELACIÓN | CONFIANZA | FA
 
 Estados recomendados: `OBSERVADO`, `CORRELACIONADO`, `CAUSAL_CANDIDATO`, `HIPÓTESIS`, `REFUTADO`, `INDETERMINADO`, `REDUNDANTE`.
 
+### Caso piloto
+
+[001 · Cáncer de la Síntesis™ / Gritax™](2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md)
+
+---
+
 ## EN · Minimum reproducible template
 
 For each object of study record:
@@ -77,7 +88,16 @@ For each object of study record:
 
 ### Dimensional relevance gate
 
-A dimension is retained only when at least one condition is reasonably supported: it changes a prediction, improves explanation, detects a confounder, modifies an intervention, reveals a scale/time effect, or explains a relevant anomaly. Otherwise it is marked `REDUNDANT/UNJUSTIFIED` and removed from the active model.
+A dimension is retained only when at least one of these conditions is reasonably supported:
+
+- it changes a prediction;
+- it improves explanation;
+- it detects a confounder;
+- it modifies an intervention;
+- it reveals a scale or time effect;
+- it explains a relevant anomaly.
+
+If it meets none of them, it is marked `REDUNDANT/UNJUSTIFIED` and removed from the active model.
 
 ### Output matrix
 
@@ -87,6 +107,6 @@ DIMENSION | SCALE | TIME | VARIABLE | EVIDENCE | RELATION | CONFIDENCE | FALSIFI
 
 Recommended states: `OBSERVED`, `CORRELATED`, `CAUSAL_CANDIDATE`, `HYPOTHESIS`, `REFUTED`, `INDETERMINATE`, `REDUNDANT`.
 
-## Caso piloto / Pilot case
+### Pilot case
 
-[001 · Cáncer de la Síntesis™ / Gritax™](2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md)
+[001 · Cancer of Synthesis™ / Gritax™](2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md)
