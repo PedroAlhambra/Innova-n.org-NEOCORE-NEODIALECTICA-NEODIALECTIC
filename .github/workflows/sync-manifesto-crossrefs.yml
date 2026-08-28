@@ -7,6 +7,7 @@ on:
       - '.github/workflows/sync-manifesto-crossrefs.yml'
       - '.github/scripts/sync_manifesto_crossrefs.py'
       - '.github/scripts/sync_manifesto_reference_policy.py'
+      - '.github/scripts/sync_manifesto_index.py'
       - '.github/scripts/audit_manifesto_clickable_relations.py'
       - 'manifiestos/**.md'
       - 'neoaxiomas/README.md'
@@ -30,18 +31,20 @@ jobs:
         run: python .github/scripts/sync_manifesto_crossrefs.py
       - name: Sync cross-reference policy
         run: python .github/scripts/sync_manifesto_reference_policy.py
+      - name: Sync manifesto index and canonical frontier
+        run: python .github/scripts/sync_manifesto_index.py
       - name: Audit clickable manifesto relations and Open Synthesis issues
         run: python .github/scripts/audit_manifesto_clickable_relations.py
-      - name: Commit synchronized cross-references
+      - name: Commit synchronized manifesto navigation
         run: |
           set -euo pipefail
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add manifiestos/*.md
           if git diff --cached --quiet; then
-            echo 'Cross-references already synchronized.'
+            echo 'Manifesto navigation already synchronized.'
             exit 0
           fi
-          git commit -m 'docs: sincronizar navegación relacional de manifiestos'
+          git commit -m 'docs: sincronizar navegación e índice de manifiestos'
           git pull --rebase origin main
           git push origin main
