@@ -3,10 +3,13 @@
 
 **Fecha / Date:** 2026-08-28  
 **Estado / Status:** SEÑAL EXTERNA · ENTRADA A SAN™ / EXTERNAL SIGNAL · SAN™ INPUT  
-**Base / Base:** NEOCore™ 7.3 CANON ABIERTO / NEOCore™ 7.3 OPEN CANON  
+**Base / Base:** [NEOCore™ 7.3 CANON ABIERTO / OPEN CANON](./NEOCORE_7_3_CANON_ES_EN.md)  
+**Estado vigente / Current state:** [versiones/README.md](../../versiones/README.md)  
 **Origen / Origin:** publicación pública de Rafael Menchero Escudero en LinkedIn, aportada a Innova_N por Neo0™ / public LinkedIn post by Rafael Menchero Escudero, brought into Innova_N by Neo0™  
 **Regla / Rule:** ingesta ≠ apropiación · coincidencia ≠ derivación / ingestion ≠ appropriation · convergence ≠ derivation  
 **Síntesis / Synthesis:** [#179](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/179)
+
+[ES · Castellano](#es--senal-externa) · [EN · English](#en--external-signal)
 
 ---
 
@@ -53,7 +56,7 @@ Pero esta expresión queda abierta a contraste. No toda permanencia es captura; 
 
 La señal sugiere que la negociación tecnológica podría evaluarse no sólo por coste total de propiedad, sino también por una dimensión adicional: **soberanía tecnológica residual**, entendida provisionalmente como la capacidad que conserva una organización para salir, migrar, recuperar datos, interoperar, renegociar y corregir una decisión sin quedar subordinada de manera desproporcionada.
 
-Esta formulación **no se crea todavía como entidad canónica**. NEOCore™ 7.3 exige primero retornar al corpus y recuperar/extender una entidad previa si ya existe una equivalente. Sólo debe crearse un concepto nuevo si sobrevive un delta real.
+Esta formulación **no se crea todavía como entidad canónica**. NEOCore™ exige primero retornar al corpus y recuperar/extender una entidad previa si ya existe una equivalente. Sólo debe crearse un concepto nuevo si sobrevive un delta real.
 
 ## ES · Preguntas para SAN™
 
@@ -117,7 +120,7 @@ This expression remains open to scrutiny. Not every commitment period is capture
 
 The signal suggests that technology negotiation could be assessed not only through total cost of ownership, but also through an additional dimension: **residual technological sovereignty**, provisionally understood as the capacity an organisation retains to exit, migrate, recover data, interoperate, renegotiate and correct a decision without becoming disproportionately subordinated.
 
-This formulation is **not yet created as a canonical entity**. NEOCore™ 7.3 first requires returning to the corpus and recovering/extending an existing entity if an equivalent already exists. A new concept should be created only if a real delta survives scrutiny.
+This formulation is **not yet created as a canonical entity**. NEOCore™ first requires returning to the corpus and recovering/extending an existing entity if an equivalent already exists. A new concept should be created only if a real delta survives scrutiny.
 
 ## EN · Questions for SAN™
 
