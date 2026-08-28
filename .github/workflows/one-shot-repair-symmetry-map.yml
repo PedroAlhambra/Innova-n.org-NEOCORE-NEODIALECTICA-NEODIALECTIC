@@ -1,0 +1,61 @@
+name: one-shot-repair-symmetry-map
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/one-shot-repair-symmetry-map.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Repair auditor and living relational map
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          audit = Path('.github/scripts/audit_global_bilingual_symmetry.py')
+          s = audit.read_text(encoding='utf-8')
+          old = 'Clasificación provisional / Provisional classification|Síntesis / Synthesis|Regla / Rule|Estado / Status|Puertas / Gates'
+          new = 'Clasificación provisional / Provisional classification|Síntesis / Synthesis|Síntesis Abierta / Open Synthesis|Regla / Rule|Estado / Status|Puertas / Gates'
+          if old not in s and new not in s:
+              raise SystemExit('expected bilingual-footer regex not found')
+          s = s.replace(old, new)
+          gate = "_neo_subprocess.run([_neo_sys.executable, str(ROOT/'.github/scripts/audit_neoaxiom_registry_integrity.py')], check=True)"
+          gated = gate + "\nif split_fail or marker_fail or paired_review or yaml_review:\n    raise SystemExit(1)"
+          if gated not in s:
+              if gate not in s:
+                  raise SystemExit('expected neoaxiom gate not found')
+              s = s.replace(gate, gated)
+          audit.write_text(s, encoding='utf-8')
+
+          rel = Path('manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md')
+          r = rel.read_text(encoding='utf-8')
+          r = r.replace('**Cobertura / Coverage:** I–LXXXI · 81 manifiestos finitos + ∞ como continuidad abierta / 81 finite manifestos I–LXXXI + ∞ as open continuity', '**Cobertura / Coverage:** I–LXXXIV · 84 manifiestos finitos + ∞ como continuidad abierta / 84 finite manifestos I–LXXXIV + ∞ as open continuity')
+          r = r.replace('## Matriz completa I–LXXXI / Complete I–LXXXI matrix', '## Matriz completa I–LXXXIV / Complete I–LXXXIV matrix')
+          marker = '<!-- NEO_RELATIONS_LATEST_FRONTIER_END -->'
+          if '## LXXXII · Ciencia Multidimensional Neodialéctica™' not in r:
+              block = '''## LXXXII · Ciencia Multidimensional Neodialéctica™ / Neodialectical Multidimensional Science™\n\n- **Manifiesto / Manifesto:** [LXXXII · Ciencia Multidimensional Neodialéctica™ / Neodialectical Multidimensional Science™](./82_ciencia_multidimensional_neodialectica_ES_EN.md).\n- **Relación / Relation:** B–C · integración multiescalar y multidisciplinar, contraste entre modelos, límites de reducción y custodia experimental / multiscale and multidisciplinary integration, scrutiny across models, limits of reduction and experimental custodianship.\n- **Síntesis Abierta / Open Synthesis:** [#174](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/174).\n- **Interconexiones / Interconnections:** [XLV · Multidimensionalidad Neodialéctica™](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) · [LXI · Custodia Experimental Multiescalar™](./61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md) · [XLVIII · La Síntesis Todo lo Ve™](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md).\n\n## LXXXIII · Activación Neodialéctica™ · La verdad también tiene derecho a circular / Neodialectical Activation™ · Truth also has the right to circulate\n\n- **Manifiesto / Manifesto:** [LXXXIII · Activación Neodialéctica™ / Neodialectical Activation™](./83_activacion_neodialectica_verdad_circulacion_ES_EN.md).\n- **Relación / Relation:** A–B–C · comunicación verificable, acceso, adopción sin manipulación, comercialización trazable y activación de WEB4™ / verifiable communication, access, adoption without manipulation, traceable commercialisation and WEB4™ activation.\n- **Síntesis Abierta / Open Synthesis:** [#175](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/175).\n- **Interconexiones / Interconnections:** [VII · Economía del Aporte](./04_economia_del_aporte_ES_EN.md) · [X · WEB4™](./07_web4_sistematrazable_ES_EN.md) · [XXI · Reconocimiento Neodialéctico™](./21_reconocimiento_neodialectico_ES_EN.md) · [LXXXI · Ultralujo como Bien Común™](./81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md).\n\n## LXXXIV · Permeabilidad Intelectual del Poder™ · Contra la captura opaca del acceso / Intellectual Permeability of Power™ · Against opaque access capture\n\n- **Manifiesto / Manifesto:** [LXXXIV · Permeabilidad Intelectual del Poder™ / Intellectual Permeability of Power™](./84_intermediacion_acceso_permeabilidad_poder_ES_EN.md).\n- **Relación / Relation:** B–C · intermediación, acceso auditable, criterios de filtrado, contradicción y permeabilidad institucional / intermediation, auditable access, filtering criteria, contradiction and institutional permeability.\n- **Síntesis Abierta / Open Synthesis:** [#178](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/178).\n- **Trabajo aplicado / Applied work:** [Accesibilidad institucional y escalado ciudadano](../analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md) · [Interacción sobre negociación tecnológica, dependencia y reversibilidad](../analisis/publicos/2026-08-28_interaccion_negociacion_tecnologica_dependencia_reversibilidad_ES_EN.md).\n- **Interconexiones / Interconnections:** [XXII · Contra la Reducción y la Captura Intelectual™](./22_contra_reduccion_captura_intelectual_ES_EN.md) · [LI · Poder Cívico](./51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md) · [LX · Relevancia Humana Necesaria™](./60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md) · [LXXXIII · Activación Neodialéctica™](./83_activacion_neodialectica_verdad_circulacion_ES_EN.md).\n\n'''
+              if marker not in r:
+                  raise SystemExit('relational frontier marker not found')
+              r = r.replace(marker, block + marker, 1)
+          rel.write_text(r, encoding='utf-8')
+
+          Path('.github/workflows/one-shot-repair-symmetry-map.yml').unlink()
+          PY
+      - name: Commit repair
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add .github/scripts/audit_global_bilingual_symmetry.py manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md .github/workflows/one-shot-repair-symmetry-map.yml
+          git commit -m 'fix: close bilingual audit false positives and map I-LXXXIV'
+          git pull --rebase origin main
+          git push origin main
