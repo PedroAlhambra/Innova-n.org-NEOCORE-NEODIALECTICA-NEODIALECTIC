@@ -152,7 +152,7 @@ def count_paragraphs(s):
         if re.match(r'^Innova_?N(?:\s*·\s*[^.]+)*$',plain,re.I): continue
         # Short bilingual metadata footers remain outside the semantic ES/EN halves even when
         # they appear after the final EN section. Do not charge them to English paragraph count.
-        if re.match(r'^(?:Clasificación provisional / Provisional classification|Síntesis / Synthesis|Regla / Rule|Estado / Status|Puertas / Gates|Principio de procedencia / Provenance principle|Auditoría viva / Living audit|Regla de lectura / Reading rule):',plain,re.I): continue
+        if re.match(r'^(?:Clasificación provisional / Provisional classification|Síntesis / Synthesis|Síntesis Abierta / Open Synthesis|Regla / Rule|Estado / Status|Puertas / Gates|Principio de procedencia / Provenance principle|Auditoría viva / Living audit|Regla de lectura / Reading rule):',plain,re.I): continue
         blocks.append(p)
     return len(blocks)
 
@@ -342,3 +342,5 @@ print(f'GLOBAL_BILINGUAL_SYMMETRY split_fail={len(split_fail)} marker_fail={len(
 import subprocess as _neo_subprocess
 import sys as _neo_sys
 _neo_subprocess.run([_neo_sys.executable, str(ROOT/'.github/scripts/audit_neoaxiom_registry_integrity.py')], check=True)
+if split_fail or marker_fail or paired_review or yaml_review:
+    raise SystemExit(1)

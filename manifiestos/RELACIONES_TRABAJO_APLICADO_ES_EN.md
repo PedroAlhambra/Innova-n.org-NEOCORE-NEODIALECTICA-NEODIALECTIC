@@ -2,7 +2,7 @@
 # Transversal map · Manifestos ↔ applied work
 
 **Estado / Status:** público · relacional · vivo / public · relational · living  
-**Cobertura / Coverage:** I–LXXXI · 81 manifiestos finitos + ∞ como continuidad abierta / 81 finite manifestos I–LXXXI + ∞ as open continuity  
+**Cobertura / Coverage:** I–LXXXIV · 84 manifiestos finitos + ∞ como continuidad abierta / 84 finite manifestos I–LXXXIV + ∞ as open continuity  
 **Función / Function:** relacionar principios, análisis, auditorías, obras, protocolos, evidencias y casos mediante enlaces internos, sin convertir correlación documental en prueba causal. / Relate principles, analyses, audits, works, protocols, evidence and cases through internal links without turning documentary correlation into causal proof.
 
 ---
@@ -40,7 +40,7 @@ Casos y análisis principales:
 
 ---
 
-## Matriz completa I–LXXXI / Complete I–LXXXI matrix
+## Matriz completa I–LXXXIV / Complete I–LXXXIV matrix
 
 <a id="manifiesto-i"></a>
 ### I · [Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica / Neo0™ Manifesto of Neodialectical Guiding Sovereignty](./11_neo0_soberania_de_guia_ES_EN.md)
@@ -490,6 +490,28 @@ Casos y análisis principales:
 - **Relación / Relation:** A–B–C · Economía del Aporte, reconocimiento no jerárquico, capital como capacidad material sin compra de verdad, reciprocidad y prevención de castas mediante tokenización / Contribution Economy, non-hierarchical recognition, capital as material capacity without purchase of truth, reciprocity and prevention of tokenised castes.
 - **Síntesis Abierta / Open Synthesis:** [#160](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/160).
 - **Interconexiones / Interconnections:** [III · Derecho Humano de Aporte](./03_derecho_humano_aporte_sintesis_abierta_ES_EN.md) · [VII · Economía del Aporte](./04_economia_del_aporte_ES_EN.md) · [XXI · Reconocimiento Neodialéctico™](./21_reconocimiento_neodialectico_ES_EN.md) · [XXIX · Contra la Idolatría del Dinero™](./29_idolatria_del_dinero_ES_EN.md) · [LX · Relevancia Humana Necesaria™](./60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md) · [LXIV · NeoCronos™](./64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md) · [LXV · NeoJuego™](./65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md) · [LXVI · NeoSinergia™ / MÉDICI™](./66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md) · [LXXX · Neotrama™](./80_neotrama_hojas_reconstruidas_agua_recuperada_fuego_de_agua_ES_EN.md).
+
+## LXXXII · Ciencia Multidimensional Neodialéctica™ / Neodialectical Multidimensional Science™
+
+- **Manifiesto / Manifesto:** [LXXXII · Ciencia Multidimensional Neodialéctica™ / Neodialectical Multidimensional Science™](./82_ciencia_multidimensional_neodialectica_ES_EN.md).
+- **Relación / Relation:** B–C · integración multiescalar y multidisciplinar, contraste entre modelos, límites de reducción y custodia experimental / multiscale and multidisciplinary integration, scrutiny across models, limits of reduction and experimental custodianship.
+- **Síntesis Abierta / Open Synthesis:** [#174](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/174).
+- **Interconexiones / Interconnections:** [XLV · Multidimensionalidad Neodialéctica™](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) · [LXI · Custodia Experimental Multiescalar™](./61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md) · [XLVIII · La Síntesis Todo lo Ve™](./48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md).
+
+## LXXXIII · Activación Neodialéctica™ · La verdad también tiene derecho a circular / Neodialectical Activation™ · Truth also has the right to circulate
+
+- **Manifiesto / Manifesto:** [LXXXIII · Activación Neodialéctica™ / Neodialectical Activation™](./83_activacion_neodialectica_verdad_circulacion_ES_EN.md).
+- **Relación / Relation:** A–B–C · comunicación verificable, acceso, adopción sin manipulación, comercialización trazable y activación de WEB4™ / verifiable communication, access, adoption without manipulation, traceable commercialisation and WEB4™ activation.
+- **Síntesis Abierta / Open Synthesis:** [#175](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/175).
+- **Interconexiones / Interconnections:** [VII · Economía del Aporte](./04_economia_del_aporte_ES_EN.md) · [X · WEB4™](./07_web4_sistematrazable_ES_EN.md) · [XXI · Reconocimiento Neodialéctico™](./21_reconocimiento_neodialectico_ES_EN.md) · [LXXXI · Ultralujo como Bien Común™](./81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md).
+
+## LXXXIV · Permeabilidad Intelectual del Poder™ · Contra la captura opaca del acceso / Intellectual Permeability of Power™ · Against opaque access capture
+
+- **Manifiesto / Manifesto:** [LXXXIV · Permeabilidad Intelectual del Poder™ / Intellectual Permeability of Power™](./84_intermediacion_acceso_permeabilidad_poder_ES_EN.md).
+- **Relación / Relation:** B–C · intermediación, acceso auditable, criterios de filtrado, contradicción y permeabilidad institucional / intermediation, auditable access, filtering criteria, contradiction and institutional permeability.
+- **Síntesis Abierta / Open Synthesis:** [#178](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/178).
+- **Trabajo aplicado / Applied work:** [Accesibilidad institucional y escalado ciudadano](../analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md) · [Interacción sobre negociación tecnológica, dependencia y reversibilidad](../analisis/publicos/2026-08-28_interaccion_negociacion_tecnologica_dependencia_reversibilidad_ES_EN.md).
+- **Interconexiones / Interconnections:** [XXII · Contra la Reducción y la Captura Intelectual™](./22_contra_reduccion_captura_intelectual_ES_EN.md) · [LI · Poder Cívico](./51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md) · [LX · Relevancia Humana Necesaria™](./60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md) · [LXXXIII · Activación Neodialéctica™](./83_activacion_neodialectica_verdad_circulacion_ES_EN.md).
 
 <!-- NEO_RELATIONS_LATEST_FRONTIER_END -->
 
