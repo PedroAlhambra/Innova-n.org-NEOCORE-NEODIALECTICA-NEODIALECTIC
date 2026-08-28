@@ -9,7 +9,7 @@
 
 - Markdown activo examinado / Active Markdown scanned: **361**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **295**.
-- Fallos estructurales divididos / Split structural failures: **6**.
+- Fallos estructurales divididos / Split structural failures: **5**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -24,9 +24,6 @@
   - 12: párrafos ES=5 EN=6
 - `propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` · ES=674 · EN=626 · ratio=0.93
   - 9: párrafos ES=1 EN=2
-- `propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md` · ES=421 · EN=131 · ratio=0.31
-  - volumen EN/ES=0.31 (131/421)
-  - esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, '')] EN=[]
 - `propuestas/sintesis-abierta/PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md` · ES=248 · EN=257 · ratio=1.04
   - esqueleto de encabezados distinto ES=[(3, ''), (3, '')] EN=[(3, ''), (3, ''), (2, '')]
 
@@ -328,7 +325,7 @@
 | `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/GUIA_RAPIDA_APORTAR_EVIDENCIA_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
-| `propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md` | **REVISAR** | volumen EN/ES=0.31 (131/421); esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, '')] EN=[] |
+| `propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/MEDICI_CREDITOS_PLATAFORMAS_COMPENSACION_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/MEDICI_MOTOR_CALCULO_PLATAFORMAS_V0_1_ES_EN.md` | **OK** |  |
