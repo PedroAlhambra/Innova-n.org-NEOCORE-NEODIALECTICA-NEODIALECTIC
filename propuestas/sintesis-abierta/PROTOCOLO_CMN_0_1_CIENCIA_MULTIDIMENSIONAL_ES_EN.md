@@ -7,7 +7,7 @@
 **Síntesis / Synthesis:** [#174](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/174)  
 **Estado vigente de NEOCore™ / Current NEOCore™ state:** [versiones/README.md](../../versiones/README.md)
 
-[ES · Castellano](#es--plantilla-minima-reproducible) · [EN · English](#en--minimum-reproducible-template)
+[ES · Castellano](#es--plantilla-mínima-reproducible) · [EN · English](#en--minimum-reproducible-template)
 
 ---
 
