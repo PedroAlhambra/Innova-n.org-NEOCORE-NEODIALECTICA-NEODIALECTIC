@@ -2400,6 +2400,19 @@
       ]
     },
     {
+      "a": "I",
+      "b": "VII",
+      "sources": 6,
+      "examples": [
+        "analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md",
+        "auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md",
+        "auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md",
+        "auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md",
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
       "a": "III",
       "b": "XXI",
       "sources": 6,
@@ -2908,18 +2921,6 @@
     {
       "a": "I",
       "b": "IX",
-      "sources": 5,
-      "examples": [
-        "analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md",
-        "auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md",
-        "auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md",
-        "auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md",
-        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
-      ]
-    },
-    {
-      "a": "I",
-      "b": "VII",
       "sources": 5,
       "examples": [
         "analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md",
@@ -4481,6 +4482,16 @@
     },
     {
       "a": "VII",
+      "b": "X",
+      "sources": 3,
+      "examples": [
+        "analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md",
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "VII",
       "b": "XLIX",
       "sources": 3,
       "examples": [
@@ -4621,10 +4632,109 @@
     },
     {
       "a": "I",
+      "b": "II",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "I",
+      "b": "LVI",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "I",
+      "b": "LVIII",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "I",
+      "b": "LXII",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "I",
+      "b": "LXIX",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "I",
+      "b": "X",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "I",
       "b": "XLIII",
       "sources": 2,
       "examples": [
         "auditorias/publicas/2026-08-08_auditoria_global_readmes_enlaces_y_trazabilidad_kdp_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "I",
+      "b": "XXXVIII",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "II",
+      "b": "LVI",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "II",
+      "b": "LVIII",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "II",
+      "b": "LXII",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "II",
+      "b": "LXIX",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
         "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
       ]
     },
@@ -4648,10 +4758,37 @@
     },
     {
       "a": "II",
+      "b": "VII",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "II",
+      "b": "X",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "II",
       "b": "XXXV",
       "sources": 2,
       "examples": [
         "propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "II",
+      "b": "XXXVIII",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
         "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
       ]
     },
@@ -5160,6 +5297,96 @@
       ]
     },
     {
+      "a": "LVI",
+      "b": "LVIII",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "LVI",
+      "b": "LXII",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "LVI",
+      "b": "LXIX",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "LVI",
+      "b": "VII",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "LVI",
+      "b": "X",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "LVI",
+      "b": "XXXVIII",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "LVIII",
+      "b": "LXII",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "LVIII",
+      "b": "LXIX",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "LVIII",
+      "b": "VII",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "LVIII",
+      "b": "X",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
       "a": "LVIII",
       "b": "XLII",
       "sources": 2,
@@ -5187,11 +5414,56 @@
       ]
     },
     {
+      "a": "LVIII",
+      "b": "XXXVIII",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
       "a": "LXI",
       "b": "XLV",
       "sources": 2,
       "examples": [
         "propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "LXII",
+      "b": "LXIX",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "LXII",
+      "b": "VII",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "LXII",
+      "b": "X",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "LXII",
+      "b": "XXXVIII",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
         "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
       ]
     },
@@ -5296,10 +5568,37 @@
     },
     {
       "a": "LXIX",
+      "b": "VII",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "LXIX",
+      "b": "X",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "LXIX",
       "b": "XLV",
       "sources": 2,
       "examples": [
         "propuestas/sintesis-abierta/2026-08-15_DELTA_NEOMANTIS_ASIMETRIA_INVERTIDA_DIGNIDAD_RECIPROCA_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "LXIX",
+      "b": "XXXVIII",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
         "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
       ]
     },
@@ -5512,15 +5811,6 @@
     },
     {
       "a": "VII",
-      "b": "X",
-      "sources": 2,
-      "examples": [
-        "analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md",
-        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
-      ]
-    },
-    {
-      "a": "VII",
       "b": "XLIII",
       "sources": 2,
       "examples": [
@@ -5544,6 +5834,15 @@
       "examples": [
         "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md",
         "propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md"
+      ]
+    },
+    {
+      "a": "VII",
+      "b": "XXXVIII",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
       ]
     },
     {
@@ -5687,6 +5986,15 @@
       "sources": 2,
       "examples": [
         "analisis/publicos/2026-08-08_accesibilidad_institucional_escalado_ciudadano_jefaturas_estado_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "X",
+      "b": "XXXVIII",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
         "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
       ]
     },
@@ -7143,6 +7451,20 @@
       ]
     },
     {
+      "path": "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+      "manifestos": [
+        "I",
+        "II",
+        "LVI",
+        "LVIII",
+        "LXII",
+        "LXIX",
+        "VII",
+        "X",
+        "XXXVIII"
+      ]
+    },
+    {
       "path": "propuestas/sintesis-abierta/XLVII_ODIO_SINO_GOAT_SOMBRA_DOBLE_CARA.md",
       "manifestos": [
         "XLVII"
@@ -7716,6 +8038,7 @@
           "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
+          "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
         ]
       }
@@ -7823,6 +8146,7 @@
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md",
+          "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
         ]
       }
@@ -8294,6 +8618,7 @@
           "manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md"
         ],
         "sintesis-abierta": [
+          "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md",
           "propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md",
           "propuestas/sintesis-abierta/NEOCRONOS_RETORNO_TEMPORAL_TOKENIZACION_ES_EN.md"
@@ -8594,6 +8919,7 @@
           "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
+          "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md",
           "propuestas/sintesis-abierta/README.md"
         ]
@@ -11005,6 +11331,7 @@
           "manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md"
         ],
         "sintesis-abierta": [
+          "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
         ]
       }
@@ -12459,6 +12786,7 @@
           "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
+          "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
         ]
       }
@@ -12556,6 +12884,7 @@
           "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
+          "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
         ]
       }
@@ -12761,6 +13090,7 @@
           "obras/idea/RANSOL_RED_DEL_TIEMPO_ARBOLES_INVISIBLES_ETERNOS_ES_EN.md"
         ],
         "sintesis-abierta": [
+          "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
         ]
       }
@@ -13110,6 +13440,7 @@
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/2026-08-15_DELTA_NEOMANTIS_ASIMETRIA_INVERTIDA_DIGNIDAD_RECIPROCA_ES_EN.md",
+          "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
         ]
       }
