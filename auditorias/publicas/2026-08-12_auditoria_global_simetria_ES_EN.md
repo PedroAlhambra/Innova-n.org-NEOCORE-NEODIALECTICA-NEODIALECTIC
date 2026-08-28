@@ -7,19 +7,16 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **362**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **296**.
-- Fallos estructurales divididos / Split structural failures: **2**.
+- Markdown activo examinado / Active Markdown scanned: **363**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **297**.
+- Fallos estructurales divididos / Split structural failures: **0**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
 
-- `manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md` · ES=743 · EN=726 · ratio=0.98
-  - 10: párrafos ES=4 EN=5
-- `manifiestos/84_intermediacion_acceso_permeabilidad_poder_ES_EN.md` · ES=1045 · EN=1024 · ratio=0.98
-  - 12: párrafos ES=5 EN=6
+- Ninguno / None.
 
 ## Marcadores / Markers
 
@@ -188,6 +185,7 @@
 | `auditorias/publicas/2026-08-25_public_maxproc_run34_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-26_addendum_kdp_vinculacion_cruzada_es_en_formatos_51071689_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-28_addendum_kdp_vinculacion_idiomas_formatos_caso_51425302_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-08-28_reconciliacion_global_simetria_navegacion_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/README.md` | **OK** |  |
@@ -276,8 +274,8 @@
 | `manifiestos/80_neotrama_hojas_reconstruidas_agua_recuperada_fuego_de_agua_ES_EN.md` | **OK** |  |
 | `manifiestos/81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md` | **OK** |  |
 | `manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md` | **OK** |  |
-| `manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md` | **REVISAR** | 10: párrafos ES=4 EN=5 |
-| `manifiestos/84_intermediacion_acceso_permeabilidad_poder_ES_EN.md` | **REVISAR** | 12: párrafos ES=5 EN=6 |
+| `manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md` | **OK** |  |
+| `manifiestos/84_intermediacion_acceso_permeabilidad_poder_ES_EN.md` | **OK** |  |
 | `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | **OK** |  |
 | `manifiestos/README.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` | **OK** |  |
