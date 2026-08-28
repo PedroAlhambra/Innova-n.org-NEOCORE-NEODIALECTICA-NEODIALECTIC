@@ -126,13 +126,33 @@ DEDICATED_SYNTHESIS = {
 }
 
 
+def relation_link(ord_, label=None):
+    item = catalog.get(ord_)
+    if not item:
+        return ord_ if label is None else f'{ord_} · {label}'
+    href = './' + item['path'].name
+    if label is None:
+        label = display_title(item['es'], item['en'])
+    return f'[{ord_} · {label.strip()}]({href})'
+
+
 def normalize_relations_line(text, own_ord):
     rx = re.compile(r'^(\*\*Relaciones principales / Main relations:\*\*)\s*(.+)$', re.M)
 
     def repl(match):
         prefix, raw = match.group(1), match.group(2).strip()
-        # Make regeneration idempotent even if some/all entries are already Markdown links.
+        # Make regeneration idempotent even when links are already present.
         plain = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', raw)
+
+        # Legacy format: XIV, XVI, XXV, …, ∞ · NAX-xx …
+        legacy_m = re.match(r'^((?:[IVXLCDM]+|∞)(?:\s*,\s*(?:[IVXLCDM]+|∞))+)(.*)$', plain)
+        if legacy_m:
+            ords = [o.strip() for o in legacy_m.group(1).split(',')]
+            suffix = legacy_m.group(2)
+            linked = ', '.join(relation_link(o) for o in ords)
+            return prefix + ' ' + linked + suffix
+
+        # Modern format: II · Title · VIII · Title · …
         chunks = re.split(r'\s+·\s+(?=(?:[IVXLCDM]+|∞)\s*·)', plain)
         out = []
         seen = set()
@@ -140,19 +160,17 @@ def normalize_relations_line(text, own_ord):
             chunk = chunk.strip()
             m = re.match(r'^([IVXLCDM]+|∞)\s*·\s*(.+?)\s*$', chunk)
             if not m:
-                # Preserve non-manifest relationship text rather than dropping it.
                 if chunk:
                     out.append(chunk)
                 continue
             ord_, label = m.group(1), m.group(2).strip()
-            if ord_ == own_ord or ord_ not in catalog:
+            if ord_ not in catalog:
                 out.append(chunk)
                 continue
             if ord_ in seen:
                 continue
             seen.add(ord_)
-            href = './' + catalog[ord_]['path'].name
-            out.append(f'[{ord_} · {label}]({href})')
+            out.append(relation_link(ord_, label))
         return prefix + ' ' + ' · '.join(out)
 
     return rx.sub(repl, text)
@@ -163,7 +181,6 @@ def normalize_synthesis_metadata(text, own_ord):
 
     def repl(match):
         prefix, raw = match.group(1), match.group(2).strip()
-        # Existing correct Markdown is retained.
         if re.search(r'\[[^\]]+\]\(https://github\.com/[^)]+/issues/\d+\)', raw):
             return match.group(0)
         issue = None
@@ -178,8 +195,7 @@ def normalize_synthesis_metadata(text, own_ord):
             issue = DEDICATED_SYNTHESIS.get(own_ord)
         if issue is None:
             return match.group(0)
-        label = f'#{issue}'
-        return f'{prefix} [{label}]({ISSUE_BASE}{issue})'
+        return f'{prefix} [#{issue}]({ISSUE_BASE}{issue})'
 
     return rx.sub(repl, text)
 
