@@ -1,9 +1,9 @@
 # Auditoría global de selectores de idioma ES/EN
 # Global ES/EN language-selector audit
 
-**Generada / Generated:** 2026-08-28 08:28 UTC  
-**Páginas ES/EN explícitas auditadas / Explicit ES/EN split pages audited:** **378**  
-**Fallos / Failures:** **5**  
+**Generada / Generated:** 2026-08-28 10:41 UTC  
+**Páginas ES/EN explícitas auditadas / Explicit ES/EN split pages audited:** **379**  
+**Fallos / Failures:** **6**  
 **LANGUAGE_SELECTOR_GATE:** **FAIL**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
@@ -20,8 +20,8 @@ Toda superficie Markdown pública y activa que exponga capas explícitas `ES` y 
 
 ## Resultado
 
-- Páginas auditadas: **378**.
-- Fallos: **5**.
+- Páginas auditadas: **379**.
+- Fallos: **6**.
 - Estado: **FAIL**.
 
 ## Detalle de fallos
@@ -30,6 +30,7 @@ Toda superficie Markdown pública y activa que exponga capas explícitas `ES` y 
 - `propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `propuestas/sintesis-abierta/2026-08-25_EXTENSION_C_NAX_20_UNIDAD_DIFERENCIADA_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
+- `propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `propuestas/sintesis-abierta/PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 
 ---
@@ -44,8 +45,8 @@ Every active public Markdown surface exposing explicit `ES` and `EN` layers must
 
 ## Result
 
-- Pages audited: **378**.
-- Failures: **5**.
+- Pages audited: **379**.
+- Failures: **6**.
 - Status: **FAIL**.
 
 ## Failure detail
@@ -54,4 +55,5 @@ Every active public Markdown surface exposing explicit `ES` and `EN` layers must
 - `propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `propuestas/sintesis-abierta/2026-08-25_EXTENSION_C_NAX_20_UNIDAD_DIFERENCIADA_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
+- `propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `propuestas/sintesis-abierta/PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
