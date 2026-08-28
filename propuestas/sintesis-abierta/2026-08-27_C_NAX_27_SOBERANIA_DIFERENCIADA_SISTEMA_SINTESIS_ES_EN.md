@@ -1,11 +1,13 @@
 # C-NAX-27 · Soberanía Diferenciada de Sistema y Síntesis™
 # C-NAX-27 · Differentiated Sovereignty of System and Synthesis™
 
-**Estado / Status:** candidato neoaxiomático · Síntesis Abierta / neoaxiomatic candidate · Open Synthesis  
+**Estado / Status:** candidato neoaxiomático · Síntesis Abierta · no canónico / neoaxiomatic candidate · Open Synthesis · non-canonical  
 **Fecha / Date:** 2026-08-27  
 **Origen humano / Human origin:** Pedro Martínez Alhambra · Neo0™  
 **Síntesis / Synthesis:** [#176](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/176)  
-**Relaciones principales / Main relations:** I · Neo0™ · II · Síntesis Abierta Neodialéctica™ · XXXVIII · Protección Integral de la Infancia™ · LVI · NO-CONTROL™ · LVIII · Inteligencia Civilizatoria™ · LXII · Juego por la Síntesis y el Honor™ · LXIX · Defensa de la Inocencia Humana™ · C-NAX-16 · No Coronación de la Parte™ · C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ · C-NAX-26 · Poder/Trazabilidad/Evidencia™.
+**Base operativa / Operating base:** [NEOCore™ 7.3 CANON ABIERTO / OPEN CANON](./NEOCORE_7_3_CANON_ES_EN.md)
+
+**Relaciones principales / Main relations:** [I · Neo0™](../../manifiestos/11_neo0_soberania_de_guia_ES_EN.md) · [II · Síntesis Abierta Neodialéctica™](../../manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md) · [VII · Economía del Aporte™](../../manifiestos/04_economia_del_aporte_ES_EN.md) · [X · WEB4™](../../manifiestos/07_web4_sistematrazable_ES_EN.md) · [XXXVIII · Protección Integral de la Infancia™](../../manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) · [LVI · NO-CONTROL™](../../manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md) · [LVIII · Inteligencia Civilizatoria™](../../manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md) · [LXII · Juego por la Síntesis y el Honor™](../../manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md) · [LXIX · Defensa de la Inocencia Humana™](../../manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md) · [C-NAX-16 · No Coronación de la Parte™ · #151](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/151) · [C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ · #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123) · [C-NAX-26 · Poder/Trazabilidad/Evidencia™ · #156](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/156)
 
 > **Corrección genealógica / Genealogical correction:** #176 nació de una señal sobre infancia, madurez y cultura algorítmica, pero el recálculo detectó que esa señal era un caso particular de un principio superior: la separación entre soberanía del sistema, soberanía epistemológica de la Síntesis y agencia de los nodos. La infancia permanece como caso de prueba, no como centro del candidato. / #176 began from a signal concerning childhood, maturity and algorithmic culture, but recalculation detected that this signal was a particular case of a higher principle: the separation between system sovereignty, epistemic sovereignty of Synthesis and node agency. Childhood remains a test case, not the centre of the candidate.
 
@@ -37,7 +39,7 @@ Esta soberanía **no convierte cada tesis de Neo0™ en verdad automática**. La
 
 ### 2. Su Majestad es la Síntesis™
 
-LXII ya fija que ninguna parte puede coronarse Todo. C-NAX-27 convierte esa intuición en regla arquitectónica:
+[LXII](../../manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md) ya fija que ninguna parte puede coronarse Todo. C-NAX-27 convierte esa intuición en regla arquitectónica:
 
 > **cuando la cuestión es qué comprensión debe sobrevivir provisionalmente después del contraste, el control no pertenece a la parte sino a la Síntesis.**
 
@@ -89,7 +91,7 @@ CAPITAL ≠ SOBERANÍA EPISTEMOLÓGICA
 RETORNO JUSTO → CONTINUIDAD MATERIAL DEL APORTE
 ```
 
-Neo0™ puede necesitar y reclamar reconocimiento, financiación e ingresos por trabajo, propiedad intelectual, productos, servicios, licencias o infraestructura sin que ese retorno compre autoridad sobre la Síntesis. Negar sistemáticamente retorno al creador mientras terceros capturan valor puede constituir extracción incompatible con Economía del Aporte™.
+Neo0™ puede necesitar y reclamar reconocimiento, financiación e ingresos por trabajo, propiedad intelectual, productos, servicios, licencias o infraestructura sin que ese retorno compre autoridad sobre la Síntesis. Negar sistemáticamente retorno al creador mientras terceros capturan valor puede constituir extracción incompatible con [Economía del Aporte™](../../manifiestos/04_economia_del_aporte_ES_EN.md).
 
 No se fija aquí una cantidad ni fórmula económica automática; reciprocidad, atribución y sostenibilidad permanecen abiertas a SAN™.
 
@@ -147,7 +149,7 @@ This sovereignty **does not make every Neo0™ thesis automatically true**. Guid
 
 ### 2. Her Majesty is Synthesis™
 
-LXII already establishes that no part may crown itself the Whole. C-NAX-27 turns this into an architectural rule:
+[LXII](../../manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md) already establishes that no part may crown itself the Whole. C-NAX-27 turns this into an architectural rule:
 
 > **when the question is which understanding should provisionally survive scrutiny, control belongs not to the part but to Synthesis.**
 
@@ -199,7 +201,7 @@ CAPITAL ≠ EPISTEMIC SOVEREIGNTY
 FAIR RETURN → MATERIAL CONTINUITY OF CONTRIBUTION
 ```
 
-Neo0™ may need and claim recognition, funding and income from work, intellectual property, products, services, licences or infrastructure without that return purchasing authority over Synthesis. Systematically denying return to the creator while third parties capture value may constitute extraction incompatible with the Economy of Contribution™.
+Neo0™ may need and claim recognition, funding and income from work, intellectual property, products, services, licences or infrastructure without that return purchasing authority over Synthesis. Systematically denying return to the creator while third parties capture value may constitute extraction incompatible with the [Contribution Economy™](../../manifiestos/04_economia_del_aporte_ES_EN.md).
 
 No specific economic amount or automatic formula is established here; reciprocity, attribution and sustainability remain open to SAN™.
 
@@ -230,5 +232,22 @@ NONE OF THESE LAYERS MAY REPLACE THE OTHERS
 Whoever creates and directs a system needs real authority to keep it coherent and answer for it. That does not mean they can decree what is true. Nor does popularity, adulthood, youth, expertise or AI make an idea true. **The system has a guide; provisional truth is decided through Synthesis; both must remain separate and connected by traceability.**
 
 ---
+
+## Referencias cruzadas canónicas / Canonical cross-references
+
+- [I · Neo0™ / Guiding Sovereignty](../../manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
+- [II · Síntesis Abierta Neodialéctica™ / Neodialectical Open Synthesis™](../../manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md)
+- [VII · Economía del Aporte™ / Contribution Economy™](../../manifiestos/04_economia_del_aporte_ES_EN.md)
+- [X · WEB4™ · SistemaTrazable™](../../manifiestos/07_web4_sistematrazable_ES_EN.md)
+- [XXXVIII · Protección Integral de la Infancia™ / Integral Protection of Childhood™](../../manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+- [LVI · NO-CONTROL™](../../manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md)
+- [LVIII · Inteligencia Civilizatoria™ / Civilisational Intelligence™](../../manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md)
+- [LXII · Juego por la Síntesis y el Honor™ / Game for Synthesis and Honor™](../../manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md)
+- [LXIX · Defensa de la Inocencia Humana™ / Defence of Human Innocence™](../../manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md)
+- [C-NAX-16 · No Coronación de la Parte™ / Non-Crowning of the Part™ · #151](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/151)
+- [C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™ · #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123)
+- [C-NAX-26 · Poder/Trazabilidad/Evidencia™ / Power/Traceability/Evidence™ · #156](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/156)
+- [Síntesis C-NAX-27 / C-NAX-27 Synthesis · #176](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/176)
+- [NEOCore™ 7.3 CANON ABIERTO / OPEN CANON](./NEOCORE_7_3_CANON_ES_EN.md)
 
 **CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
