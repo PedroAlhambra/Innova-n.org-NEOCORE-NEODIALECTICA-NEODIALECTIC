@@ -1,7 +1,7 @@
 # Postcheck dinámico · README, índices y enlaces / Dynamic README, indices and links postcheck
 
-**Fecha / Date:** 2026-08-27  
-**Estado / Status:** **OK**
+**Fecha / Date:** 2026-08-28  
+**Estado / Status:** **REQUIERE CORRECCIÓN / NEEDS CORRECTION**
 
 > **Alcance / Scope:** el grafo vivo excluye `wiki-legacy-archive/` y las entradas raíz legacy `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` y `FOREWORD.md`. Esos nombres legacy no constituyen superficies canónicas vivas; tras su retirada de `main`, su contenido histórico permanece recuperable mediante Git. / the living graph excludes `wiki-legacy-archive/` and the root legacy entry files `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` and `FOREWORD.md`. Those legacy names are not living canonical surfaces; after retirement from `main`, their historical contents remain recoverable through Git.
 
@@ -9,21 +9,21 @@
 
 ## ES · Resultado
 
-- Archivos Markdown activos revisados: **448**.
+- Archivos Markdown activos revisados: **450**.
 - Archivos Markdown históricos excluidos del estado vivo: **55**.
 - Entradas legacy excluidas del estado vivo: **0**.
 - README activos revisados: **18**.
-- Enlaces internos de ruta comprobados: **10762**.
+- Enlaces internos de ruta comprobados: **10838**.
 - Alias internos de GitHub Wiki reconocidos: **44**.
-- Enlaces externos inventariados sin comprobar disponibilidad remota: **1937**.
-- Enlaces sólo a ancla detectados: **793**.
+- Enlaces externos inventariados sin comprobar disponibilidad remota: **1944**.
+- Enlaces sólo a ancla detectados: **795**.
 - Bloques de último manifiesto encontrados en README: **8**.
 - Bloques legacy NEO_CURRENT_NAV encontrados en README: **0**.
 - Bloques redundantes MANIFESTOS_CURRENT encontrados en README: **0**.
-- Manifiestos canónicos detectados: **81 · I–LXXXI**.
-- Último manifiesto / Síntesis: **LXXXI / #160**.
+- Manifiestos canónicos detectados: **84 · I–LXXXIV**.
+- Último manifiesto / Síntesis: **LXXXIV / #178**.
 - Enlaces internos rotos del grafo vivo: **0**.
-- Fallos canónicos críticos: **0**.
+- Fallos canónicos críticos: **4**.
 
 ### Comprobaciones canónicas
 
@@ -36,27 +36,34 @@
 - El archivo Wiki histórico se conserva como evidencia y no se reescribe para simular vigencia.
 - La auditoría de rutas no sustituye la comprobación remota de URLs externas ni la validación semántica de anclas renderizadas.
 
+### Fallos canónicos
+
+- El índice completo de Síntesis Abierta no declara I–LXXXIV. / The complete Open Synthesis index does not declare I–LXXXIV.
+- El índice completo de Síntesis no enlaza el último manifiesto LXXXIV. / The complete Synthesis index does not link the latest manifesto LXXXIV.
+- El índice completo de Síntesis no enlaza el Issue #178 del último manifiesto LXXXIV. / The complete Synthesis index does not link Issue #178 for the latest manifesto LXXXIV.
+- README con bloque latest desincronizado / README with unsynchronised latest block: analisis/README.md, analisis/auditorias/README.md, analisis/publicos/README.md, analisis/publicos/evidencias/README.md, auditorias/publicas/README.md, obras/README.md, obras/idea/README.md, obras/idea/assets/README.md
+
 ### Enlaces internos rotos del grafo vivo
 
 - Ninguno detectado por el validador de rutas del repositorio.
 
 ## EN · Result
 
-- Active Markdown files reviewed: **448**.
+- Active Markdown files reviewed: **450**.
 - Historical Markdown files excluded from living-state health: **55**.
 - Legacy entry files excluded from living-state health: **0**.
 - Active README files reviewed: **18**.
-- Internal path links checked: **10762**.
+- Internal path links checked: **10838**.
 - GitHub Wiki extensionless page aliases recognised: **44**.
-- External links inventoried without checking remote availability: **1937**.
-- Anchor-only links detected: **793**.
+- External links inventoried without checking remote availability: **1944**.
+- Anchor-only links detected: **795**.
 - Latest-manifesto blocks found in README files: **8**.
 - Legacy NEO_CURRENT_NAV blocks found in README files: **0**.
 - Redundant MANIFESTOS_CURRENT blocks found in README files: **0**.
-- Canonical manifestos detected: **81 · I–LXXXI**.
-- Latest manifesto / synthesis: **LXXXI / #160**.
+- Canonical manifestos detected: **84 · I–LXXXIV**.
+- Latest manifesto / synthesis: **LXXXIV / #178**.
 - Broken internal links in the living graph: **0**.
-- Canonical critical failures: **0**.
+- Canonical critical failures: **4**.
 
 ### Canonical checks
 
@@ -68,6 +75,13 @@
 - Living README files must not duplicate the frontier through `MANIFESTOS_CURRENT`: the latest-manifesto block and compact canonical index are sufficient.
 - The historical Wiki archive is preserved as evidence and is not rewritten to simulate current validity.
 - The route audit does not replace remote checking of external URLs or semantic validation of rendered anchors.
+
+### Canonical failures
+
+- El índice completo de Síntesis Abierta no declara I–LXXXIV. / The complete Open Synthesis index does not declare I–LXXXIV.
+- El índice completo de Síntesis no enlaza el último manifiesto LXXXIV. / The complete Synthesis index does not link the latest manifesto LXXXIV.
+- El índice completo de Síntesis no enlaza el Issue #178 del último manifiesto LXXXIV. / The complete Synthesis index does not link Issue #178 for the latest manifesto LXXXIV.
+- README con bloque latest desincronizado / README with unsynchronised latest block: analisis/README.md, analisis/auditorias/README.md, analisis/publicos/README.md, analisis/publicos/evidencias/README.md, auditorias/publicas/README.md, obras/README.md, obras/idea/README.md, obras/idea/assets/README.md
 
 ### Broken internal links in the living graph
 
