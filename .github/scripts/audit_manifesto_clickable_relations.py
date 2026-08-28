@@ -12,16 +12,25 @@ failures = []
 relation_lines = 0
 synthesis_lines = 0
 
+
+def strip_md_links(s):
+    return re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', s)
+
+
 for p in files:
     text = p.read_text(encoding='utf-8')
     for lineno, line in enumerate(text.splitlines(), 1):
         if line.startswith('**Relaciones principales / Main relations:**'):
             relation_lines += 1
-            raw = line.split('**', 2)[-1] if False else line.split(':**', 1)[-1]
-            # Every manifesto ordinal used by this navigation surface must be inside a Markdown link.
-            ords = re.findall(r'(?<![A-Z])([IVXLCDM]+|∞)\s*·', line)
-            linked_ords = set(re.findall(r'\[([IVXLCDM]+|∞)\s*·[^\]]*\]\([^)]+\.md(?:#[^)]*)?\)', line))
-            missing = [o for o in ords if o not in linked_ords]
+            raw = line.split(':**', 1)[-1]
+            plain = strip_md_links(raw)
+            # Detect every standalone manifesto ordinal, whether modern `II · Title`
+            # or legacy comma-separated `XIV, XVI, ... ∞`.
+            ords = set(re.findall(r'(?<![A-Z])([IVXLCDM]+|∞)(?![A-Z])', plain))
+            # NAX/C-NAX identifiers can contain roman-looking characters; remove known false tokens.
+            ords = {o for o in ords if o not in {'C', 'D', 'M'}}
+            linked_ords = set(re.findall(r'\[([IVXLCDM]+|∞)(?:\s*·[^\]]*)?\]\([^)]+\.md(?:#[^)]*)?\)', raw))
+            missing = sorted(ords - linked_ords)
             if missing:
                 failures.append(f'{p}:{lineno}: MAIN_RELATIONS_NOT_CLICKABLE: {missing}')
         if line.startswith('**Síntesis Abierta / Open Synthesis:**'):
@@ -34,7 +43,6 @@ for p in files:
                 if missing:
                     failures.append(f'{p}:{lineno}: OPEN_SYNTHESIS_ISSUE_NOT_CLICKABLE: {missing}')
 
-# Generated canonical relation blocks must themselves contain Markdown links whenever they list manifesto relations.
 for p in files:
     text = p.read_text(encoding='utf-8')
     if '<!-- NEO_CROSS_REFERENCES_START -->' not in text or '<!-- NEO_CROSS_REFERENCES_END -->' not in text:
