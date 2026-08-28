@@ -1,9 +1,9 @@
 # Auditoría global de selectores de idioma ES/EN
 # Global ES/EN language-selector audit
 
-**Generada / Generated:** 2026-08-28 11:35 UTC  
+**Generada / Generated:** 2026-08-28 11:36 UTC  
 **Páginas ES/EN explícitas auditadas / Explicit ES/EN split pages audited:** **379**  
-**Fallos / Failures:** **4**  
+**Fallos / Failures:** **3**  
 **LANGUAGE_SELECTOR_GATE:** **FAIL**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
@@ -21,12 +21,11 @@ Toda superficie Markdown pública y activa que exponga capas explícitas `ES` y 
 ## Resultado
 
 - Páginas auditadas: **379**.
-- Fallos: **4**.
+- Fallos: **3**.
 - Estado: **FAIL**.
 
 ## Detalle de fallos
 
-- `propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md` · `LANGUAGE_ANCHOR_FAILURE` · ES anchor #es--sintesis-del-caso-001 != #es--síntesis-del-caso-001
 - `propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md` · `LANGUAGE_ANCHOR_FAILURE` · ES anchor #es--senal-externa != #es--señal-externa
 - `propuestas/sintesis-abierta/PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md` · `LANGUAGE_ANCHOR_FAILURE` · ES anchor #es--plantilla-minima-reproducible != #es--plantilla-mínima-reproducible
@@ -44,12 +43,11 @@ Every active public Markdown surface exposing explicit `ES` and `EN` layers must
 ## Result
 
 - Pages audited: **379**.
-- Failures: **4**.
+- Failures: **3**.
 - Status: **FAIL**.
 
 ## Failure detail
 
-- `propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md` · `LANGUAGE_ANCHOR_FAILURE` · ES anchor #es--sintesis-del-caso-001 != #es--síntesis-del-caso-001
 - `propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md` · `LANGUAGE_ANCHOR_FAILURE` · ES anchor #es--senal-externa != #es--señal-externa
 - `propuestas/sintesis-abierta/PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md` · `LANGUAGE_ANCHOR_FAILURE` · ES anchor #es--plantilla-minima-reproducible != #es--plantilla-mínima-reproducible
