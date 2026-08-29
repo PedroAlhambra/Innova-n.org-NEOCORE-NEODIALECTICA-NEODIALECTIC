@@ -346,7 +346,7 @@
       "roman": "XXXIX",
       "title": "Autoconciencia de la Necesidad Vital Neodialéctica™ / Self-Awareness of Neodialectical Vital Need™",
       "path": "manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md",
-      "words": 3975,
+      "words": 3977,
       "headings": 41,
       "paragraphs": 133,
       "words_per_heading": 97.0
@@ -400,10 +400,10 @@
       "roman": "XLV",
       "title": "Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder / Neodialectical Multidimensionality™ · Against the One-Dimensional Reduction of the Human and Power",
       "path": "manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md",
-      "words": 5362,
+      "words": 5380,
       "headings": 56,
       "paragraphs": 225,
-      "words_per_heading": 95.8
+      "words_per_heading": 96.1
     },
     {
       "roman": "XLVI",
@@ -427,28 +427,28 @@
       "roman": "XLVIII",
       "title": "La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo / The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine",
       "path": "manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md",
-      "words": 7164,
+      "words": 7178,
       "headings": 70,
       "paragraphs": 264,
-      "words_per_heading": 102.3
+      "words_per_heading": 102.5
     },
     {
       "roman": "XLIX",
       "title": "La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™",
       "path": "manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md",
-      "words": 3253,
+      "words": 3261,
       "headings": 50,
       "paragraphs": 138,
-      "words_per_heading": 65.1
+      "words_per_heading": 65.2
     },
     {
       "roman": "L",
       "title": "Por una Inteligencia Compartida, no Única™ · Invitación Abierta a las IAs / For Shared, Not Singular Intelligence™ · Open Invitation to AIs",
       "path": "manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md",
-      "words": 3676,
+      "words": 3684,
       "headings": 50,
       "paragraphs": 121,
-      "words_per_heading": 73.5
+      "words_per_heading": 73.7
     },
     {
       "roman": "LI",
@@ -12228,9 +12228,11 @@
           "manifiestos/81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md"
         ],
         "otros": [
+          "manifiestos/canonicos/IV_neodialectica_bien_comun_ES_EN.md",
           "manifiestos/canonicos/XL_respeto_neoego_honor_relacional_ES_EN.md",
           "manifiestos/canonicos/XLIII_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md",
           "manifiestos/canonicos/XLIV_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md",
+          "manifiestos/canonicos/XX_defensa_intelectual_neodialectica_umbral_x_ES_EN.md",
           "manifiestos/canonicos/XXXVII_neofraternidad_ES_EN.md",
           "manifiestos/README.md",
           "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
@@ -12515,6 +12517,7 @@
         ],
         "otros": [
           "manifiestos/canonicos/II_sintesis_abierta_neodialectica_ES_EN.md",
+          "manifiestos/canonicos/V_simbiosis_humano_ia_ES_EN.md",
           "manifiestos/canonicos/XIX_persistencia_de_la_memoria_ES_EN.md",
           "manifiestos/canonicos/XLV_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md",
           "manifiestos/README.md",
@@ -12595,6 +12598,7 @@
         ],
         "otros": [
           "manifiestos/canonicos/II_sintesis_abierta_neodialectica_ES_EN.md",
+          "manifiestos/canonicos/IV_neodialectica_bien_comun_ES_EN.md",
           "manifiestos/canonicos/XLV_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md",
           "manifiestos/canonicos/XLVIII_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md",
           "manifiestos/canonicos/XVI_refragmentacion_arquetipica_ES_EN.md",
@@ -12648,6 +12652,7 @@
         ],
         "otros": [
           "manifiestos/canonicos/II_sintesis_abierta_neodialectica_ES_EN.md",
+          "manifiestos/canonicos/V_simbiosis_humano_ia_ES_EN.md",
           "manifiestos/canonicos/X_web4_sistematrazable_ES_EN.md",
           "manifiestos/canonicos/XLIX_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md",
           "manifiestos/canonicos/XLV_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md",
