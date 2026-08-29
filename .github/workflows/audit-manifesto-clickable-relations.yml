@@ -1,0 +1,27 @@
+name: Audit manifesto clickable relations
+
+on:
+  pull_request:
+    paths:
+      - 'manifiestos/**'
+      - '.github/scripts/audit_manifesto_clickable_relations.py'
+      - '.github/workflows/audit-manifesto-clickable-relations.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'manifiestos/**'
+      - '.github/scripts/audit_manifesto_clickable_relations.py'
+      - '.github/workflows/audit-manifesto-clickable-relations.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  relational-navigation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Audit manifesto relational navigation
+        run: python .github/scripts/audit_manifesto_clickable_relations.py
