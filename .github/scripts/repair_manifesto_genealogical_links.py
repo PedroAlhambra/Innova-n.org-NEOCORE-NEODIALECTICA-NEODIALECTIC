@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from pathlib import Path
 import json
+import os
 import re
 import sys
 
@@ -19,11 +20,13 @@ ALIASES = {
     'Cerrar la Herida™': 'XLVI',
     'Persistencia de la Memoria™': 'XIX',
     'Inteligencia Humana Expandida™': 'XLIII',
+    'Coherencia entre Fines y Medios™': 'XXX',
 }
 
 GENEALOGY_PREFIX = '**Relación genealógica / Genealogical relation:**'
 MD_LINK_RE = re.compile(r'\[([^\]]+)\]\(([^)]+)\)')
 TM_RE = re.compile(r'([A-ZÁÉÍÓÚÜÑa-záéíóúüñ0-9][^,;:.\n]*?™)')
+ROMAN_TARGET_RE = re.compile(r'(?<!\[)(?<![A-Z])([IVXLCDM]+)\s*·\s*([^,;.\n]*?™)')
 
 
 def load_entries() -> dict[str, dict[str, str]]:
@@ -33,41 +36,63 @@ def load_entries() -> dict[str, dict[str, str]]:
 
 def relative_target(source: Path, canonical_repo_path: str) -> str:
     target = ROOT / canonical_repo_path
-    return Path(__import__('os').path.relpath(target, start=source.parent)).as_posix()
+    return Path(os.path.relpath(target, start=source.parent)).as_posix()
+
+
+def verified_href(source: Path, roman: str, entries: dict[str, dict[str, str]]) -> str | None:
+    entry = entries.get(roman)
+    if not entry:
+        return None
+    canonical = entry.get('canonical')
+    if not canonical or not (ROOT / canonical).exists():
+        return None
+    return relative_target(source, canonical)
+
+
+def link_explicit_roman_targets(line: str, source: Path, entries: dict[str, dict[str, str]]) -> tuple[str, list[str]]:
+    unresolved: list[str] = []
+
+    def repl(match: re.Match[str]) -> str:
+        roman, title = match.group(1), match.group(2).strip()
+        label = f'{roman} · {title}'
+        href = verified_href(source, roman, entries)
+        if not href:
+            unresolved.append(label)
+            return match.group(0)
+        return f'[{label}]({href})'
+
+    return ROMAN_TARGET_RE.sub(repl, line), unresolved
 
 
 def link_aliases_in_line(line: str, source: Path, entries: dict[str, dict[str, str]]) -> tuple[str, list[str]]:
     if not line.startswith(GENEALOGY_PREFIX):
         return line, []
 
-    linked_spans = {m.group(1) for m in MD_LINK_RE.finditer(line)}
     unresolved: list[str] = []
-    new_line = line
+    new_line, roman_unresolved = link_explicit_roman_targets(line, source, entries)
+    unresolved.extend(roman_unresolved)
+    linked_spans = {m.group(1) for m in MD_LINK_RE.finditer(new_line)}
 
     # Longest aliases first, to avoid accidental partial overlap.
     for alias in sorted(ALIASES, key=len, reverse=True):
-        if alias in linked_spans:
-            continue
-        if alias not in new_line:
+        if alias in linked_spans or alias not in new_line:
             continue
         roman = ALIASES[alias]
-        entry = entries.get(roman)
-        if not entry:
+        href = verified_href(source, roman, entries)
+        if not href:
             unresolved.append(alias)
             continue
-        canonical = entry.get('canonical')
-        if not canonical or not (ROOT / canonical).exists():
-            unresolved.append(alias)
-            continue
-        href = relative_target(source, canonical)
         new_line = re.sub(rf'(?<!\[){re.escape(alias)}(?!\]\()', f'[{alias}]({href})', new_line)
 
-    # Anything trademarked and still raw is unresolved unless it is prose outside a named relation.
+    # Anything trademarked and still raw is unresolved. It is reported, never guessed.
     residual = MD_LINK_RE.sub('', new_line.split(':**', 1)[-1])
     for raw in TM_RE.findall(residual):
         candidate = raw.strip(' *`')
-        # Strip common connective/prose prefixes while preserving the named trademark.
-        for marker in ('profundiza ', 'deepens ', 'integra ', 'integrates ', 'y ', 'e ', 'and '):
+        for marker in (
+            'profundiza ', 'deepens ', 'integra ', 'integrates ', 'continúa ', 'continues ',
+            'desarrolla ', 'develops ', 'deriva del conjunto del ', 'formula ', 'Formula ',
+            'Se relaciona directamente con ', 'la ', 'y ', 'e ', 'and '
+        ):
             if candidate.startswith(marker):
                 candidate = candidate[len(marker):].strip()
         if candidate.endswith('™') and candidate not in unresolved:
@@ -77,7 +102,10 @@ def link_aliases_in_line(line: str, source: Path, entries: dict[str, dict[str, s
 
 
 def manifest_files(entries: dict[str, dict[str, str]]) -> list[Path]:
-    paths: set[Path] = set()
+    # Union the registry with on-disk surfaces so a newly added manifesto cannot escape the repair/audit
+    # merely because CANONICAL_FILENAMES.json has not yet been reconciled.
+    paths: set[Path] = set(MAN.glob('[0-9][0-9]_*.md'))
+    paths.update((MAN / 'canonicos').glob('*_ES_EN.md'))
     for entry in entries.values():
         for key in ('legacy', 'canonical'):
             value = entry.get(key)
