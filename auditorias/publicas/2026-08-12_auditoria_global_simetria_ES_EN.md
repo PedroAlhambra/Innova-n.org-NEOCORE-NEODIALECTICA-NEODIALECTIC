@@ -7,8 +7,8 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **370**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **304**.
+- Markdown activo examinado / Active Markdown scanned: **371**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **305**.
 - Fallos estructurales divididos / Split structural failures: **1**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
@@ -197,6 +197,7 @@
 | `auditorias/publicas/2026-08-29_reparacion_relacional_manifiestos_iteracion_01_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-29_reparacion_relacional_manifiestos_iteracion_02_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-29_reparacion_relacional_manifiestos_iteracion_04_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-08-29_reparacion_relacional_manifiestos_iteracion_05_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/README.md` | **OK** |  |
