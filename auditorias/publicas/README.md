@@ -81,14 +81,16 @@ PROBLEMA
 
 **Aportes buscados:** cronologías y pruebas sobre mappings, ISRC/UPC, perfiles mezclados, desapariciones/reapariciones, regalías y soporte. No se solicita adhesión a una acusación.
 
-### 2.3 · Amazon KDP · Author Central · IDEA · casos 51071689 / 51425302
+### 2.3 · Amazon KDP · Author Central · IDEA · genealogía 51071689 / 51425302 / 51454599 / 51454627 / 51454666
 
 - [Auditoría indirecta pública](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 - [Caso de éxito operativo provisional](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
 - [Addendum 28-08-2026 · vinculación idioma/formato · caso 51425302](./2026-08-28_addendum_kdp_vinculacion_idiomas_formatos_caso_51425302_ES_EN.md)
-- [#70 · aportes y pruebas](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)
+- [Addendum 29-08-2026 · asociación multilingüe pendiente](./2026-08-29_addendum_kdp_asociacion_multilingue_caso_51425302_ES_EN.md)
+- [Addendum 29-08-2026 · revisión global aplicada + vía de sinergias](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md)
+- [#70 · aportes, pruebas y contactos de sinergia](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)
 
-**Estado:** conserva correcciones verificadas, reaperturas y cuestiones técnicas no explicadas. Ninguna hipótesis sobre intención se trata como hecho.
+**Estado:** KDP declara haber ejecutado una revisión y vinculación global de formatos e idiomas. La propagación pública puede tardar hasta siete días y queda pendiente de verificación externa. KDP Support se declara no competente para evaluar la propuesta de colaboración; se solicitan canales profesionales públicos y verificables para posibles sinergias con equipos de negocio, innovación, producto, investigación o calidad.
 
 ### 2.4 · Integridad del repositorio · Wiki · READMEs · automatizaciones
 
@@ -167,14 +169,16 @@ PROBLEM
 
 **Contributions sought:** timelines and evidence concerning mappings, ISRC/UPC, mixed profiles, disappearances/reappearances, royalties and support. Endorsement of an allegation is not requested.
 
-### 2.3 · Amazon KDP · Author Central · IDEA · cases 51071689 / 51425302
+### 2.3 · Amazon KDP · Author Central · IDEA · genealogy 51071689 / 51425302 / 51454599 / 51454627 / 51454666
 
 - [Public indirect audit](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 - [Provisional operational success case](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
 - [28 Aug 2026 addendum · language/format linking · case 51425302](./2026-08-28_addendum_kdp_vinculacion_idiomas_formatos_caso_51425302_ES_EN.md)
-- [#70 · contributions and evidence](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)
+- [29 Aug 2026 addendum · multilingual association pending](./2026-08-29_addendum_kdp_asociacion_multilingue_caso_51425302_ES_EN.md)
+- [29 Aug 2026 addendum · global review applied + synergy route](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md)
+- [#70 · contributions, evidence and synergy contacts](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)
 
-**Status:** preserves verified corrections, reopenings and unexplained technical questions. No hypothesis about intent is treated as fact.
+**Status:** KDP states that it has executed a global review and linking action across formats and languages. Public propagation may take up to seven days and remains pending external verification. KDP Support states that it is not authorised to evaluate the collaboration proposal; public and verifiable professional routes are sought for potential synergies with business, innovation, product, research or quality teams.
 
 ### 2.4 · Repository · Wiki · README · automation integrity
 
@@ -211,7 +215,3 @@ CLOSURE + MATERIAL NEW EVIDENCE
 → TRACEABLE REOPENING
 → NEW VERSION
 ```
-
----
-
-**Principio de procedencia / Provenance principle:** la fuente intelectual y genealógica es **Innova_N**, dentro de **NEOCore™ / Neodialectica Framework™ / Network**, bajo dirección humana de **Pedro Martínez Alhambra · Neo0™**. GitHub es una proyección pública, versionada y trazable; no es el origen intelectual del sistema. / The intellectual and genealogical source is **Innova_N**, within **NEOCore™ / Neodialectica Framework™ / Network**, under the human direction of **Pedro Martínez Alhambra · Neo0™**. GitHub is a public, versioned and traceable projection; it is not the intellectual origin of the system.
