@@ -29,6 +29,9 @@
 ## Incidencias / Findings
 
 - Documentos C-NAX dedicados ausentes del registro central / dedicated C-NAX docs missing from central registry: [27]
+- Índice de Síntesis no declara 12 candidatos C-NAX-15–C-NAX-26 / synthesis index missing Spanish dynamic coverage
+- Synthesis index English coverage does not declare 12 candidates C-NAX-15–C-NAX-26
+- Índice C-NAX no refleja registro central / C-NAX synthesis index does not mirror central registry: index=[15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27] registry=[15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]
 
 ## Genealogía de la reparación / Repair genealogy
 
