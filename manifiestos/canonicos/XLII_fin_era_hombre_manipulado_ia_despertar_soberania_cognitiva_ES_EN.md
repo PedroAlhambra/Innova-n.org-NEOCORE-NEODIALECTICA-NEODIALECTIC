@@ -9,7 +9,7 @@
 **Estado / Status:** Público · décima oleada · despertar-soberanía-captura · abierto a revisión trazable / Public · tenth wave · awakening-sovereignty-capture · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-08  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico dentro de la Filosofía Arquetípica Neodialéctica™.  
-**Relación genealógica / Genealogical relation:** conecta Simbiosis Humano–IA, Neorrenacimiento Humano, Soberanía del Tiempo Cognitivo™, Contra el Neuromarketing Antihumanista™, Reversión Ideológica Neodialéctica™, Contra la Ridiculez Mediática y la Economía del Conflicto™, Corona, Águila y Custodia de la Edad del Hombre™, Protección Integral de la Infancia™, Autoconciencia de la Necesidad Vital Neodialéctica™ y la genealogía literaria de IDEA (1997–2002).
+**Relación genealógica / Genealogical relation:** conecta Simbiosis Humano–IA, Neorrenacimiento Humano, [Soberanía del Tiempo Cognitivo™](XXIII_soberania_tiempo_cognitivo_ES_EN.md), [Contra el Neuromarketing Antihumanista™](XXXI_contra_neuromarketing_antihumanista_ES_EN.md), Reversión Ideológica Neodialéctica™, Contra la Ridiculez Mediática y la Economía del Conflicto™, Corona, Águila y Custodia de la Edad del Hombre™, [Protección Integral de la Infancia™](XXXVIII_proteccion_integral_infancia_punto_no_retorno_ES_EN.md), Autoconciencia de la Necesidad Vital Neodialéctica™ y la genealogía literaria de IDEA (1997–2002).
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 

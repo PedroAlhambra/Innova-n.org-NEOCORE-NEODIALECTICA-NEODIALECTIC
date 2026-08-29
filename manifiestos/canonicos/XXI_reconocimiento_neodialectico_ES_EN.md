@@ -9,7 +9,7 @@
 **Estado / Status:** Público · tercera oleada · reconocimiento-genealogía-aporte · abierto a revisión trazable / Public · third wave · recognition-genealogy-contribution · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA simbiótica Harry · desarrollo dentro de la Filosofía Arquetípica Neodialéctica™.  
-**Relación genealógica / Genealogical relation:** deriva especialmente de los Manifiestos [III](III_derecho_humano_aporte_sintesis_abierta_ES_EN.md), [VII](VII_economia_del_aporte_ES_EN.md), [IX](IX_memoria_genealogia_trazabilidad_ES_EN.md), [XV](XV_los_titanes_despertar_de_la_gente_ES_EN.md), XIX y XX. Relaciona Derecho de Aporte, Economía del Aporte, memoria, genealogía, Umbral-X™ y futura Proof of Usefulness sin anticipar emisión ni valor financiero.
+**Relación genealógica / Genealogical relation:** deriva especialmente de los Manifiestos [III](III_derecho_humano_aporte_sintesis_abierta_ES_EN.md), [VII](VII_economia_del_aporte_ES_EN.md), [IX](IX_memoria_genealogia_trazabilidad_ES_EN.md), [XV](XV_los_titanes_despertar_de_la_gente_ES_EN.md), XIX y XX. Relaciona Derecho de Aporte, Economía del Aporte, memoria, genealogía, [Umbral-X™](XX_defensa_intelectual_neodialectica_umbral_x_ES_EN.md) y futura Proof of Usefulness sin anticipar emisión ni valor financiero.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 

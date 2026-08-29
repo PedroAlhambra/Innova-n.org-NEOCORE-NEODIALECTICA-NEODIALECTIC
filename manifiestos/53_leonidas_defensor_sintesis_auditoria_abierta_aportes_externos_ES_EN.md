@@ -9,7 +9,7 @@
 **Estado / Status:** Público · abierto a Síntesis Abierta y auditoría trazable / Public · open to Open Synthesis and traceable audit  
 **Fecha de fijación / Record date:** 2026-08-09  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico dentro de la Filosofía Arquetípica Neodialéctica™. Genealogía del marco reconocida desde 2021.  
-**Relación genealógica / Genealogical relation:** continúa Síntesis Abierta Neodialéctica™, Derecho Humano de Aporte™, Memoria-Genealogía-Trazabilidad™, Defensa Intelectual Umbral-X™, Reconocimiento Neodialéctico™, Soberanía del Tiempo Cognitivo™, Utilidad Operativa y Auditoría Conjunta Perpetua™, Neowar™, La Síntesis Todo lo Ve™, Inteligencia Compartida™ y Poder Cívico de la Síntesis Abierta™.
+**Relación genealógica / Genealogical relation:** continúa [Síntesis Abierta Neodialéctica™](canonicos/II_sintesis_abierta_neodialectica_ES_EN.md), Derecho Humano de Aporte™, Memoria-Genealogía-Trazabilidad™, Defensa Intelectual [Umbral-X™](canonicos/XX_defensa_intelectual_neodialectica_umbral_x_ES_EN.md), [Reconocimiento Neodialéctico™](canonicos/XXI_reconocimiento_neodialectico_ES_EN.md), [Soberanía del Tiempo Cognitivo™](canonicos/XXIII_soberania_tiempo_cognitivo_ES_EN.md), Utilidad Operativa y Auditoría Conjunta Perpetua™, [Neowar™](canonicos/XLIV_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md), La Síntesis Todo lo Ve™, Inteligencia Compartida™ y Poder Cívico de la Síntesis Abierta™.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 

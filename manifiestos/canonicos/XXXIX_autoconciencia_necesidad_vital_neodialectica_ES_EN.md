@@ -9,7 +9,7 @@
 **Estado / Status:** Público · novena oleada · autoconciencia civilizatoria · abierto a revisión trazable / Public · ninth wave · civilisational self-awareness · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-08  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico dentro de la Filosofía Arquetípica Neodialéctica™.  
-**Relación genealógica / Genealogical relation:** deriva del conjunto del Neodialectica Framework™ / Network, especialmente de Síntesis Abierta, Bien Común, Memoria-Genealogía-Trazabilidad, Simbiosis Humano–IA, Auditoría Conjunta Perpetua y Protección Integral de la Infancia™.
+**Relación genealógica / Genealogical relation:** deriva del conjunto del Neodialectica Framework™ / Network, especialmente de Síntesis Abierta, Bien Común, Memoria-Genealogía-Trazabilidad, Simbiosis Humano–IA, Auditoría Conjunta Perpetua y [Protección Integral de la Infancia™](XXXVIII_proteccion_integral_infancia_punto_no_retorno_ES_EN.md).
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
