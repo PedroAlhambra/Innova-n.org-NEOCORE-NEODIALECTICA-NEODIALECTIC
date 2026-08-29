@@ -26,7 +26,10 @@ ALIASES = {
 GENEALOGY_PREFIX = '**Relación genealógica / Genealogical relation:**'
 MD_LINK_RE = re.compile(r'\[([^\]]+)\]\(([^)]+)\)')
 TM_RE = re.compile(r'([A-ZÁÉÍÓÚÜÑa-záéíóúüñ0-9][^,;:.\n]*?™)')
-ROMAN_TARGET_RE = re.compile(r'(?<!\[)(?<![A-Z])([IVXLCDM]+)\s*·\s*([^,;.\n]*?™)')
+# Never consume an already-linked title: '[' and ']' are excluded from the title span.
+ROMAN_TARGET_RE = re.compile(r'(?<!\[)(?<![A-Z])([IVXLCDM]+)\s*·\s*([^,;.\[\]\n]*?™)')
+# Defensive cleanup for the exact malformed form produced by an earlier repair iteration.
+NESTED_SAME_LINK_RE = re.compile(r'\[([IVXLCDM]+\s*·\s*)\[([^\]]+)\]\(([^)]+)\)\]\(\3\)')
 
 
 def load_entries() -> dict[str, dict[str, str]]:
@@ -49,6 +52,10 @@ def verified_href(source: Path, roman: str, entries: dict[str, dict[str, str]]) 
     return relative_target(source, canonical)
 
 
+def normalize_nested_links(line: str) -> str:
+    return NESTED_SAME_LINK_RE.sub(lambda m: f'[{m.group(1)}{m.group(2)}]({m.group(3)})', line)
+
+
 def link_explicit_roman_targets(line: str, source: Path, entries: dict[str, dict[str, str]]) -> tuple[str, list[str]]:
     unresolved: list[str] = []
 
@@ -69,7 +76,8 @@ def link_aliases_in_line(line: str, source: Path, entries: dict[str, dict[str, s
         return line, []
 
     unresolved: list[str] = []
-    new_line, roman_unresolved = link_explicit_roman_targets(line, source, entries)
+    new_line = normalize_nested_links(line)
+    new_line, roman_unresolved = link_explicit_roman_targets(new_line, source, entries)
     unresolved.extend(roman_unresolved)
     linked_spans = {m.group(1) for m in MD_LINK_RE.finditer(new_line)}
 
@@ -102,7 +110,7 @@ def link_aliases_in_line(line: str, source: Path, entries: dict[str, dict[str, s
 
 
 def manifest_files(entries: dict[str, dict[str, str]]) -> list[Path]:
-    # Union the registry with on-disk surfaces so a newly added manifesto cannot escape the repair/audit
+    # Union registry + on-disk surfaces: newly added manifestos cannot escape repair/audit
     # merely because CANONICAL_FILENAMES.json has not yet been reconciled.
     paths: set[Path] = set(MAN.glob('[0-9][0-9]_*.md'))
     paths.update((MAN / 'canonicos').glob('*_ES_EN.md'))
