@@ -10,12 +10,28 @@ if inf.exists():
 
 failures = []
 relation_lines = 0
+genealogy_lines = 0
 synthesis_lines = 0
 
 
 def remove_md_links(s):
     # Remove already navigable relations entirely before looking for raw leftovers.
     return re.sub(r'\[[^\]]+\]\([^)]+\)', '', s)
+
+
+def raw_trademark_relations(s):
+    """Return named canonical-looking relations left outside Markdown links.
+
+    Genealogical relation headers are navigation surfaces. A trademarked framework
+    concept that remains after linked spans are removed is therefore a regression,
+    even when a canonical cross-reference block elsewhere in the manifesto links it.
+    """
+    residual = remove_md_links(s)
+    return sorted(set(
+        m.strip(' *`')
+        for m in re.findall(r'(?:(?<=^)|(?<=[,:;]))\s*([^,;:.\n]*?™)', residual)
+        if m.strip(' *`')
+    ))
 
 
 for p in files:
@@ -34,6 +50,13 @@ for p in files:
 
             if missing:
                 failures.append(f'{p}:{lineno}: MAIN_RELATIONS_NOT_CLICKABLE: {sorted(missing)}')
+
+        if line.startswith('**Relación genealógica / Genealogical relation:**'):
+            genealogy_lines += 1
+            raw = line.split(':**', 1)[-1]
+            missing = raw_trademark_relations(raw)
+            if missing:
+                failures.append(f'{p}:{lineno}: GENEALOGICAL_NAVIGATION_FAILURE: {missing}')
 
         if line.startswith('**Síntesis Abierta / Open Synthesis:**'):
             synthesis_lines += 1
@@ -56,4 +79,8 @@ if failures:
         print(item)
     sys.exit(1)
 
-print(f'CLICKABLE_RELATIONS=PASS manifests={len(files)} relation_lines={relation_lines} synthesis_lines={synthesis_lines}')
+print(
+    f'CLICKABLE_RELATIONS=PASS manifests={len(files)} '
+    f'relation_lines={relation_lines} genealogy_lines={genealogy_lines} '
+    f'synthesis_lines={synthesis_lines}'
+)
