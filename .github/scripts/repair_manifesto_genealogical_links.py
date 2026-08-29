@@ -11,10 +11,14 @@ MAN = ROOT / 'manifiestos'
 CANON = MAN / 'CANONICAL_FILENAMES.json'
 NEOAX = ROOT / 'neoaxiomas'
 
-# Explicit aliases only. Every Roman target is verified against CANONICAL_FILENAMES.json.
+# Explicit aliases only. Roman aliases are verified against CANONICAL_FILENAMES.json.
+# Direct aliases point only to an explicit public source whose existence is verified.
+# No fuzzy title inference is used.
 ALIASES = {
     'Síntesis Abierta Neodialéctica™': 'II', 'Neodialectical Open Synthesis™': 'II',
     'Derecho Humano de Aporte™': 'III', 'Neodialéctica y Bien Común™': 'IV',
+    'Neodialéctica™': 'IV',
+    'Inteligencia Fractal™': 'V',
     'Parasitismo Sistémico™': 'VI',
     'Memoria, Genealogía y Trazabilidad™': 'IX', 'Memoria-Genealogía-Trazabilidad™': 'IX',
     'Memory, Genealogy and Traceability™': 'IX',
@@ -22,7 +26,8 @@ ALIASES = {
     'Neorrenacimiento Humano™': 'XI', 'Human Neo-Renaissance™': 'XI',
     'Refragmentación Arquetípica™': 'XVI',
     'Persistencia de la Memoria™': 'XIX', 'Persistence of Memory™': 'XIX',
-    'Umbral-X™': 'XX', 'Reconocimiento Neodialéctico™': 'XXI', 'Neodialectical Recognition™': 'XXI',
+    'Umbral-X™': 'XX', 'Sistema Inmunitario Intelectual Neodialéctico™': 'XX',
+    'Reconocimiento Neodialéctico™': 'XXI', 'Neodialectical Recognition™': 'XXI',
     'Soberanía del Tiempo Cognitivo™': 'XXIII', 'Sovereignty of Cognitive Time™': 'XXIII',
     'Misericordia Universal Recíproca™': 'XXVI', 'Universal Reciprocal Mercy™': 'XXVI',
     'Coherencia entre Fines y Medios™': 'XXX', 'Coherence between Ends and Means™': 'XXX',
@@ -44,6 +49,11 @@ ALIASES = {
     'La Neodialéctica como Punto de Encuentro entre Culturas™': 'XLIX',
     'Inteligencia Compartida, no Única™': 'L', 'Inteligencia Compartida™': 'L',
     'Poder Cívico de la Síntesis Abierta™': 'LI',
+}
+
+DIRECT_ALIASES = {
+    'Neodialectica Framework™': Path('README.md'),
+    'Lupa Neodialéctica™': Path('analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md'),
 }
 
 GENEALOGY_PREFIX = '**Relación genealógica / Genealogical relation:**'
@@ -74,6 +84,10 @@ def verified_href(source: Path, roman: str, entries: dict[str, dict[str, str]]) 
     entry = entries.get(roman)
     canonical = entry.get('canonical') if entry else None
     return relative_target(source, canonical) if canonical and (ROOT / canonical).exists() else None
+
+
+def verified_direct_href(source: Path, repo_path: Path) -> str | None:
+    return relative_target(source, repo_path) if (ROOT / repo_path).exists() else None
 
 
 def verified_infinity_href(source: Path) -> str | None:
@@ -165,10 +179,14 @@ def link_neoaxioms(line: str, source: Path) -> tuple[str, list[str]]:
 def link_aliases(line: str, source: Path, entries: dict[str, dict[str, str]]) -> tuple[str, list[str]]:
     unresolved: list[str] = []
     protected, spans = protect_links(line)
-    aliases = sorted(ALIASES, key=len, reverse=True)
+    aliases = sorted(set(ALIASES) | set(DIRECT_ALIASES), key=len, reverse=True)
     pattern = re.compile('|'.join(re.escape(a) for a in aliases))
     def repl(m: re.Match[str]) -> str:
-        alias = m.group(0); href = verified_href(source, ALIASES[alias], entries)
+        alias = m.group(0)
+        if alias in ALIASES:
+            href = verified_href(source, ALIASES[alias], entries)
+        else:
+            href = verified_direct_href(source, DIRECT_ALIASES[alias])
         if not href: unresolved.append(alias); return alias
         return f'[{alias}]({href})'
     # One substitution pass prevents a shorter alias from matching inside a link
