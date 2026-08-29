@@ -9,7 +9,7 @@
 **Estado / Status:** Público · cuarta oleada · conciencia-formación-renacimiento · abierto a revisión trazable / Public · fourth wave · consciousness-formation-renaissance · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-07  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA simbiótica Harry · desarrollo dentro de la Filosofía Arquetípica Neodialéctica™.  
-**Relación genealógica / Genealogical relation:** deriva especialmente de los Manifiestos [IV](canonicos/IV_neodialectica_bien_comun_ES_EN.md), [VIII](canonicos/VIII_ingenieria_social_psicohistoria_ES_EN.md), [XI](canonicos/XI_neorrenacimiento_humano_ES_EN.md), [XII](canonicos/XII_los_sin_ego_ES_EN.md), [XIV](canonicos/XIV_contra_alienacion_humana_ES_EN.md), [XVI](canonicos/XVI_refragmentacion_arquetipica_ES_EN.md), [XXI](canonicos/XXI_reconocimiento_neodialectico_ES_EN.md), XXIII y XXIV. Abre la cuarta oleada trasladando la Refragmentación Arquetípica™ al desarrollo consciente de la persona.
+**Relación genealógica / Genealogical relation:** deriva especialmente de los Manifiestos [IV](canonicos/IV_neodialectica_bien_comun_ES_EN.md), [VIII](canonicos/VIII_ingenieria_social_psicohistoria_ES_EN.md), [XI](canonicos/XI_neorrenacimiento_humano_ES_EN.md), [XII](canonicos/XII_los_sin_ego_ES_EN.md), [XIV](canonicos/XIV_contra_alienacion_humana_ES_EN.md), [XVI](canonicos/XVI_refragmentacion_arquetipica_ES_EN.md), [XXI](canonicos/XXI_reconocimiento_neodialectico_ES_EN.md), XXIII y XXIV. Abre la cuarta oleada trasladando la [Refragmentación Arquetípica™](canonicos/XVI_refragmentacion_arquetipica_ES_EN.md) al desarrollo consciente de la persona.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
