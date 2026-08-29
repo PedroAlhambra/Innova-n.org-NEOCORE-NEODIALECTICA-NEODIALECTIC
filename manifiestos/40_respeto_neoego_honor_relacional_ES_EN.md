@@ -9,7 +9,7 @@
 **Estado / Status:** Público · novena oleada · respeto-límites-reconocimiento · abierto a revisión trazable / Public · ninth wave · respect-boundaries-recognition · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-08  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico dentro de la Filosofía Arquetípica Neodialéctica™.  
-**Relación genealógica / Genealogical relation:** codifica y sistematiza un vector ya presente en XII · Los sin ego, XXI · Reconocimiento Neodialéctico™, XXII · Contra la Reducción y la Captura Intelectual™, XXVIII · Los Tesla™, XXX · Coherencia entre Fines y Medios™ y XXXVII · Neofraternidad™. Integra la formulación canónica provisional de Neoego™: **trascenderse a uno mismo, no vencer al otro**.
+**Relación genealógica / Genealogical relation:** codifica y sistematiza un vector ya presente en XII · Los sin ego, XXI · Reconocimiento Neodialéctico™, XXII · Contra la Reducción y la Captura Intelectual™, XXVIII · Los Tesla™, XXX · Coherencia entre Fines y Medios™ y XXXVII · [Neofraternidad™](canonicos/XXXVII_neofraternidad_ES_EN.md). Integra la formulación canónica provisional de [Neoego™](canonicos/XL_respeto_neoego_honor_relacional_ES_EN.md): **trascenderse a uno mismo, no vencer al otro**.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 

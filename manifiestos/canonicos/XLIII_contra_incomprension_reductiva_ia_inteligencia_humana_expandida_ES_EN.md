@@ -9,7 +9,7 @@
 **Estado / Status:** Público · décima oleada · IA-humano-expansiva-soberanía-cognitiva · abierto a revisión trazable / Public · tenth wave · human-expansive-AI-cognitive-sovereignty · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-08  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico dentro de la Filosofía Arquetípica Neodialéctica™.  
-**Relación genealógica / Genealogical relation:** continúa Simbiosis Humano–IA, Neorrenacimiento Humano, Memoria-Genealogía-Trazabilidad, WEB4™, Soberanía del Tiempo Cognitivo™, Contra el Neuromarketing Antihumanista™, Autoconciencia de la Necesidad Vital Neodialéctica™ y XLII · Fin de la Era del Hombre Manipulado™. Abre la formulación de Inteligencia Humana Expandida™ y Revisión de Pares Aumentada™.
+**Relación genealógica / Genealogical relation:** continúa Simbiosis Humano–IA, Neorrenacimiento Humano, Memoria-Genealogía-Trazabilidad, WEB4™, Soberanía del Tiempo Cognitivo™, Contra el Neuromarketing Antihumanista™, Autoconciencia de la Necesidad Vital Neodialéctica™ y XLII · Fin de la Era del Hombre Manipulado™. Abre la formulación de [Inteligencia Humana Expandida™](XLIII_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md) y Revisión de Pares Aumentada™.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 

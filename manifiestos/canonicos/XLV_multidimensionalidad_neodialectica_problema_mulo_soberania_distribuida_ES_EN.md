@@ -10,7 +10,7 @@
 **Fecha de fijación / Record date:** 2026-08-08  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico dentro de la Filosofía Arquetípica Neodialéctica™.  
 **Delta v1.1:** incorpora dentro del propio manifiesto preguntas surgidas durante su difusión —«¿qué significa ™?», por qué se nombran conceptos y si esa práctica reproduce ego o centralización— y las somete a la misma regla multidimensional que el resto del marco. / Incorporates questions arising during dissemination —“what does ™ mean?”, why concepts are named, and whether that practice reproduces ego or centralisation— and subjects them to the same multidimensional rule as the rest of the framework.  
-**Relación genealógica / Genealogical relation:** profundiza Neodialéctica™ y Bien Común, Simbiosis Humano–IA, Memoria-Genealogía-Trazabilidad, Sistema Inmunitario Intelectual Neodialéctico™, Neofraternidad™, Neoego™, Soberanía Cognitiva, Inteligencia Humana Expandida™ y la soberanía compartida formulada en XLIV · Neowar™.
+**Relación genealógica / Genealogical relation:** profundiza Neodialéctica™ y Bien Común, Simbiosis Humano–IA, Memoria-Genealogía-Trazabilidad, Sistema Inmunitario Intelectual Neodialéctico™, [Neofraternidad™](XXXVII_neofraternidad_ES_EN.md), [Neoego™](XL_respeto_neoego_honor_relacional_ES_EN.md), Soberanía Cognitiva, [Inteligencia Humana Expandida™](XLIII_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md) y la soberanía compartida formulada en XLIV · Neowar™.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 

@@ -9,7 +9,7 @@
 **Estado / Status:** Público · undécima oleada · Neowar-justicia-defensa-limitada-soberanía-compartida · abierto a revisión trazable / Public · eleventh wave · Neowar-justice-bounded-defence-shared-sovereignty · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-08  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico dentro de la Filosofía Arquetípica Neodialéctica™.  
-**Relación genealógica / Genealogical relation:** continúa Parasitismo Sistémico™, Memoria-Genealogía-Trazabilidad™, Misericordia Universal Recíproca™, Coherencia entre Fines y Medios™, Martillo Limitado-Talión-Fuerza Protectora™, Fin de la Era del Hombre Manipulado™ e Inteligencia Humana Expandida™. Formula Neowar™ como transformación de la energía guerrera en defensa limitada de la vida, la justicia, la memoria y el Bien Común.
+**Relación genealógica / Genealogical relation:** continúa Parasitismo Sistémico™, Memoria-Genealogía-Trazabilidad™, [Misericordia Universal Recíproca™](canonicos/XXVI_misericordia_universal_reciproca_ES_EN.md), Coherencia entre Fines y Medios™, Martillo Limitado-Talión-Fuerza Protectora™, Fin de la Era del Hombre Manipulado™ e [Inteligencia Humana Expandida™](canonicos/XLIII_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md). Formula Neowar™ como transformación de la energía guerrera en defensa limitada de la vida, la justicia, la memoria y el Bien Común.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
