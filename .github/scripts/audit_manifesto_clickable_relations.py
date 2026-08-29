@@ -18,7 +18,11 @@ MD_LINK_RE = re.compile(r'\[([^\]]+)\]\(([^)]+)\)')
 
 
 def manifest_files() -> list[Path]:
-    paths: set[Path] = set()
+    # Audit the union of the canonical registry and the actual files on disk. A new
+    # manifesto must never escape the gate merely because CANONICAL_FILENAMES.json
+    # has not yet been reconciled.
+    paths: set[Path] = set(MAN.glob('[0-9][0-9]_*.md'))
+    paths.update((MAN / 'canonicos').glob('*_ES_EN.md'))
     if CANON.exists():
         data = json.loads(CANON.read_text(encoding='utf-8'))
         for entry in data.get('entries', {}).values():
@@ -28,9 +32,6 @@ def manifest_files() -> list[Path]:
                     p = ROOT / value
                     if p.exists():
                         paths.add(p)
-    else:
-        paths.update(MAN.glob('[0-9][0-9]_*.md'))
-        paths.update((MAN / 'canonicos').glob('*_ES_EN.md'))
 
     inf = MAN / 'INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md'
     if inf.exists():
@@ -53,7 +54,11 @@ def raw_trademark_relations(s: str) -> list[str]:
     found = []
     for m in re.finditer(r'(?:(?<=^)|(?<=[,:;]))\s*([^,;:.\n]*?™)', residual):
         value = m.group(1).strip(' *`')
-        for prefix in ('profundiza ', 'deepens ', 'integra ', 'integrates ', 'y ', 'e ', 'and '):
+        for prefix in (
+            'profundiza ', 'deepens ', 'integra ', 'integrates ', 'continúa ', 'continues ',
+            'desarrolla ', 'develops ', 'deriva del conjunto del ', 'formula ', 'Formula ',
+            'Se relaciona directamente con ', 'la ', 'y ', 'e ', 'and '
+        ):
             if value.startswith(prefix):
                 value = value[len(prefix):].strip()
         if value:
