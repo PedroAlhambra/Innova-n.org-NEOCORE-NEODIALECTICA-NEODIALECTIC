@@ -15,6 +15,11 @@ genealogy_lines = 0
 synthesis_lines = 0
 
 MD_LINK_RE = re.compile(r'\[([^\]]+)\]\(([^)]+)\)')
+RELATION_PREFIXES = (
+    '**Relaciones principales / Main relations:**',
+    '**Relaciones raíz / Root relations:**',
+)
+GENEALOGY_PREFIX = '**Relación genealógica / Genealogical relation:**'
 
 
 def manifest_files() -> list[Path]:
@@ -84,25 +89,29 @@ def has_crossref_block(text: str) -> bool:
     )
 
 
+def audit_declared_relations(path: Path, line: str, lineno: int) -> None:
+    raw = line.split(':**', 1)[-1]
+    residual = remove_md_links(raw)
+    missing = set()
+    missing.update(re.findall(r'(?<![A-Z])([IVXLCDM]+|∞)\s*·', residual))
+    missing.update(re.findall(r'(?:^|,)\s*([IVXLCDM]+|∞)\s*(?=,|·|$)', residual))
+    if missing:
+        failures.append(
+            f'{path}:{lineno}: MAIN_RELATIONS_NOT_CLICKABLE: {sorted(missing)}'
+        )
+    validate_local_links(path, line, lineno)
+
+
 files = manifest_files()
 
 for p in files:
     text = p.read_text(encoding='utf-8')
     for lineno, line in enumerate(text.splitlines(), 1):
-        if line.startswith('**Relaciones principales / Main relations:**'):
+        if line.startswith(RELATION_PREFIXES):
             relation_lines += 1
-            raw = line.split(':**', 1)[-1]
-            residual = remove_md_links(raw)
-            missing = set()
-            missing.update(re.findall(r'(?<![A-Z])([IVXLCDM]+|∞)\s*·', residual))
-            missing.update(re.findall(r'(?:^|,)\s*([IVXLCDM]+|∞)\s*(?=,|·|$)', residual))
-            if missing:
-                failures.append(
-                    f'{p}:{lineno}: MAIN_RELATIONS_NOT_CLICKABLE: {sorted(missing)}'
-                )
-            validate_local_links(p, line, lineno)
+            audit_declared_relations(p, line, lineno)
 
-        if line.startswith('**Relación genealógica / Genealogical relation:**'):
+        if line.startswith(GENEALOGY_PREFIX):
             genealogy_lines += 1
             raw = line.split(':**', 1)[-1]
             missing = raw_trademark_relations(raw)
@@ -110,7 +119,8 @@ for p in files:
                 failures.append(
                     f'{p}:{lineno}: GENEALOGICAL_NAVIGATION_FAILURE: {missing}'
                 )
-            validate_local_links(p, line, lineno)
+            # Genealogical headers may also contain explicit roman/infinity relations.
+            audit_declared_relations(p, line, lineno)
 
         if line.startswith('**Síntesis Abierta / Open Synthesis:**'):
             synthesis_lines += 1
