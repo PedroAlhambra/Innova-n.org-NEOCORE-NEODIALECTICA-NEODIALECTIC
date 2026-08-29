@@ -9,7 +9,7 @@
 **Estado / Status:** Público · novena oleada · fuerza-proporcionalidad-límite · abierto a revisión trazable / Public · ninth wave · force-proportionality-limit · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-08  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico dentro de la Filosofía Arquetípica Neodialéctica™.  
-**Relación genealógica / Genealogical relation:** conecta Bien Común, [Misericordia Universal Recíproca™](XXVI_misericordia_universal_reciproca_ES_EN.md), Coherencia entre Fines y Medios™, Parasitismo Sistémico, Protección Integral de la Infancia™, [Neofraternidad™](XXXVII_neofraternidad_ES_EN.md), respeto, límites y responsabilidad. Recupera la intuición histórica del talión como límite de proporcionalidad, no como licencia de venganza privada.
+**Relación genealógica / Genealogical relation:** conecta Bien Común, [Misericordia Universal Recíproca™](XXVI_misericordia_universal_reciproca_ES_EN.md), [Coherencia entre Fines y Medios™](XXX_coherencia_fines_medios_ES_EN.md), Parasitismo Sistémico, Protección Integral de la Infancia™, [Neofraternidad™](XXXVII_neofraternidad_ES_EN.md), respeto, límites y responsabilidad. Recupera la intuición histórica del talión como límite de proporcionalidad, no como licencia de venganza privada.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
