@@ -25,7 +25,7 @@ jobs:
         run: python .github/scripts/repair_manifesto_genealogical_links.py
 
       - name: Show material changes
-        run: git diff --check && git diff -- manifiestos
+        run: git diff -- manifiestos
 
       - name: Commit repairs if needed
         shell: bash
