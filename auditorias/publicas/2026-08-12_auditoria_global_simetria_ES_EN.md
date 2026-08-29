@@ -7,15 +7,17 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **369**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **303**.
-- Fallos estructurales divididos / Split structural failures: **1**.
+- Markdown activo examinado / Active Markdown scanned: **370**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **304**.
+- Fallos estructurales divididos / Split structural failures: **2**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
 
+- `auditorias/publicas/2026-08-29_reparacion_relacional_manifiestos_iteracion_04_ES_EN.md` · ES=507 · EN=462 · ratio=0.91
+  - 4: lists ES=6 EN=0
 - `manifiestos/85_memoria_capitan_grant_ES_EN.md` · ES=988 · EN=958 · ratio=0.97
   - II: párrafos ES=7 EN=6
   - III: párrafos ES=3 EN=2
@@ -196,6 +198,7 @@
 | `auditorias/publicas/2026-08-29_addendum_kdp_asociacion_multilingue_caso_51425302_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-29_reparacion_relacional_manifiestos_iteracion_01_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-29_reparacion_relacional_manifiestos_iteracion_02_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-08-29_reparacion_relacional_manifiestos_iteracion_04_ES_EN.md` | **REVISAR** | 4: lists ES=6 EN=0 |
 | `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/README.md` | **OK** |  |
