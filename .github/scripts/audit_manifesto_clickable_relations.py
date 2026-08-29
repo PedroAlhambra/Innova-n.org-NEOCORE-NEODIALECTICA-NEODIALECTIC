@@ -55,13 +55,16 @@ def validate_local_links(path: Path, line: str, lineno: int) -> None:
 
 
 def validate_relation_markdown(path: Path, line: str, lineno: int) -> None:
-    """Reject pseudo-links/nested-link debris that regex-only target checks can miss."""
+    """Reject pseudo-links and true nested-link debris in declared relation surfaces."""
     residual = remove_md_links(line)
     defects: set[str] = set()
     for token in re.findall(r'\[(?:[IVXLCDM]+|∞|(?:C-)?NAX-\d+)', residual): defects.add(token)
     for token in re.findall(r'(?:[IVXLCDM]+|∞|(?:C-)?NAX-\d+)\]\(', residual): defects.add(token)
-    # A valid relation line should not contain Markdown links nested inside another link label.
-    if re.search(r'\[[^\n]*\[[^\]]+\]\([^)]+\)[^\n]*\]\([^)]+\)', line): defects.add('NESTED_LINK')
+    # Keep this deliberately local: the outer label may not cross another complete
+    # Markdown link. The previous greedy pattern mistook any two links on one line
+    # for nesting, producing false positives across otherwise valid relation lists.
+    if re.search(r'\[[^\[\]\n]*\[[^\]\n]+\]\([^)\n]+\)[^\[\]\n]*\]\([^)\n]+\)', line):
+        defects.add('NESTED_LINK')
     if defects: failures.append(f'{path}:{lineno}: RELATIONAL_MARKDOWN_SYNTAX_FAILURE: {sorted(defects)}')
 
 
