@@ -7,8 +7,8 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **366**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **300**.
+- Markdown activo examinado / Active Markdown scanned: **368**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **302**.
 - Fallos estructurales divididos / Split structural failures: **1**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
@@ -194,6 +194,7 @@
 | `auditorias/publicas/2026-08-28_addendum_kdp_vinculacion_idiomas_formatos_caso_51425302_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-28_reconciliacion_global_simetria_navegacion_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-29_addendum_kdp_asociacion_multilingue_caso_51425302_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-08-29_reparacion_relacional_manifiestos_iteracion_01_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/README.md` | **OK** |  |
@@ -290,6 +291,7 @@
 | `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` | **OK** |  |
 | `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `manifiestos/anexos/2026-08-07_anexo_reversion_ideologica_I_VIII_XXII_XXX_XXXI_ES_EN.md` | **OK** |  |
+| `manifiestos/deltas/2026-08-29_relacion_genealogica_navegable_ES_EN.md` | **OK** |  |
 | `manifiestos/deltas/LXI_delta_genetica_adn_neopandora_custodia_multiescalar_ES_EN.md` | **OK** |  |
 | `manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md` | **OK** |  |
 | `neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md` | **OK** |  |
