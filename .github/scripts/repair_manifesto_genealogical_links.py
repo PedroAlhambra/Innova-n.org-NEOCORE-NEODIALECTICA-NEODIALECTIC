@@ -11,17 +11,41 @@ MAN = ROOT / 'manifiestos'
 CANON = MAN / 'CANONICAL_FILENAMES.json'
 NEOAX = ROOT / 'neoaxiomas'
 
-# Conservative, explicit alias registry. Add only aliases whose canonical target is verified.
-# The repairer never guesses a target from textual similarity.
+# Conservative, explicit alias registry. Add only aliases whose canonical target is verified
+# against CANONICAL_FILENAMES.json. Spanish and English names are kept separately so the
+# bilingual surface can be repaired without semantic guessing.
 ALIASES = {
-    'Neoego™': 'XL',
-    'Misericordia Universal Recíproca™': 'XXVI',
-    'Neofraternidad™': 'XXXVII',
-    'Multidimensionalidad Neodialéctica™': 'XLV',
-    'Cerrar la Herida™': 'XLVI',
+    'Síntesis Abierta Neodialéctica™': 'II',
+    'Neodialectical Open Synthesis™': 'II',
+    'Memoria, Genealogía y Trazabilidad™': 'IX',
+    'Memory, Genealogy and Traceability™': 'IX',
+    'Neorrenacimiento Humano™': 'XI',
+    'Human Neo-Renaissance™': 'XI',
     'Persistencia de la Memoria™': 'XIX',
-    'Inteligencia Humana Expandida™': 'XLIII',
+    'Persistence of Memory™': 'XIX',
+    'Umbral-X™': 'XX',
+    'Reconocimiento Neodialéctico™': 'XXI',
+    'Neodialectical Recognition™': 'XXI',
+    'Soberanía del Tiempo Cognitivo™': 'XXIII',
+    'Sovereignty of Cognitive Time™': 'XXIII',
+    'Misericordia Universal Recíproca™': 'XXVI',
+    'Universal Reciprocal Mercy™': 'XXVI',
     'Coherencia entre Fines y Medios™': 'XXX',
+    'Coherence between Ends and Means™': 'XXX',
+    'Contra el Neuromarketing Antihumanista™': 'XXXI',
+    'Against Anti-Humanist Neuromarketing™': 'XXXI',
+    'Neofraternidad™': 'XXXVII',
+    'Neofraternity™': 'XXXVII',
+    'Protección Integral de la Infancia™': 'XXXVIII',
+    'Integral Protection of Childhood™': 'XXXVIII',
+    'Neoego™': 'XL',
+    'Inteligencia Humana Expandida™': 'XLIII',
+    'Expanded Human Intelligence™': 'XLIII',
+    'Neowar™': 'XLIV',
+    'Multidimensionalidad Neodialéctica™': 'XLV',
+    'Neodialectical Multidimensionality™': 'XLV',
+    'Cerrar la Herida™': 'XLVI',
+    'Close the Wound™': 'XLVI',
 }
 
 GENEALOGY_PREFIX = '**Relación genealógica / Genealogical relation:**'
@@ -32,12 +56,10 @@ RELATION_PREFIXES = (
 )
 MD_LINK_RE = re.compile(r'\[([^\]]+)\]\(([^)]+)\)')
 TM_RE = re.compile(r'([A-ZÁÉÍÓÚÜÑa-záéíóúüñ0-9][^,;:.\n]*?™)')
-# Never consume an already-linked title: '[' and ']' are excluded from the title span.
 ROMAN_TARGET_RE = re.compile(r'(?<!\[)(?<![A-Z])([IVXLCDM]+)\s*·\s*([^,;.\[\]\n]*?™)')
 BARE_ROMAN_RE = re.compile(r'(?<!\[)(?<![A-Z])([IVXLCDM]+)(?![A-Z\]])(?=\s*(?:,|·|$))')
 RAW_INFINITY_RE = re.compile(r'(?<!\[)∞(?!\])')
 RAW_NEOAX_RE = re.compile(r'(?<!\[)(?<![A-Z0-9-])(C-NAX-\d+|NAX-\d+)(?![A-Z0-9-])(?!\])')
-# Defensive cleanup for the exact malformed form produced by an earlier repair iteration.
 NESTED_SAME_LINK_RE = re.compile(r'\[([IVXLCDM]+\s*·\s*)\[([^\]]+)\]\(([^)]+)\)\]\(\3\)')
 
 
@@ -69,9 +91,6 @@ def verified_infinity_href(source: Path) -> str | None:
 
 
 def verified_neoaxiom_href(source: Path, identifier: str) -> str | None:
-    # NAX-10 has its own canonical document. The canonical Neoaxiom registry README is
-    # the verified destination for all other NAX/C-NAX identifiers until/if they gain
-    # dedicated files. We deliberately do not invent per-heading anchors.
     if identifier == 'NAX-10':
         target = NEOAX / 'NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md'
     else:
@@ -87,7 +106,6 @@ def normalize_nested_links(line: str) -> str:
 
 def link_explicit_roman_targets(line: str, source: Path, entries: dict[str, dict[str, str]]) -> tuple[str, list[str]]:
     unresolved: list[str] = []
-
     def repl(match: re.Match[str]) -> str:
         roman, title = match.group(1), match.group(2).strip()
         label = f'{roman} · {title}'
@@ -96,13 +114,11 @@ def link_explicit_roman_targets(line: str, source: Path, entries: dict[str, dict
             unresolved.append(label)
             return match.group(0)
         return f'[{label}]({href})'
-
     return ROMAN_TARGET_RE.sub(repl, line), unresolved
 
 
 def link_bare_roman_targets(line: str, source: Path, entries: dict[str, dict[str, str]]) -> tuple[str, list[str]]:
     unresolved: list[str] = []
-
     def repl(match: re.Match[str]) -> str:
         roman = match.group(1)
         href = verified_href(source, roman, entries)
@@ -110,7 +126,6 @@ def link_bare_roman_targets(line: str, source: Path, entries: dict[str, dict[str
             unresolved.append(roman)
             return roman
         return f'[{roman}]({href})'
-
     return BARE_ROMAN_RE.sub(repl, line), unresolved
 
 
@@ -125,7 +140,6 @@ def link_infinity(line: str, source: Path) -> tuple[str, list[str]]:
 
 def link_neoaxioms(line: str, source: Path) -> tuple[str, list[str]]:
     unresolved: list[str] = []
-
     def repl(match: re.Match[str]) -> str:
         identifier = match.group(1)
         href = verified_neoaxiom_href(source, identifier)
@@ -133,26 +147,19 @@ def link_neoaxioms(line: str, source: Path) -> tuple[str, list[str]]:
             unresolved.append(identifier)
             return identifier
         return f'[{identifier}]({href})'
-
     return RAW_NEOAX_RE.sub(repl, line), unresolved
 
 
 def repair_declared_relation_line(line: str, source: Path, entries: dict[str, dict[str, str]]) -> tuple[str, list[str]]:
     if not line.startswith(RELATION_PREFIXES):
         return line, []
-
     unresolved: list[str] = []
     new_line = normalize_nested_links(line)
-    new_line, explicit_unresolved = link_explicit_roman_targets(new_line, source, entries)
-    unresolved.extend(explicit_unresolved)
-    new_line, bare_unresolved = link_bare_roman_targets(new_line, source, entries)
-    unresolved.extend(bare_unresolved)
-    new_line, infinity_unresolved = link_infinity(new_line, source)
-    unresolved.extend(infinity_unresolved)
-    new_line, neoax_unresolved = link_neoaxioms(new_line, source)
-    unresolved.extend(neoax_unresolved)
+    new_line, xs = link_explicit_roman_targets(new_line, source, entries); unresolved.extend(xs)
+    new_line, xs = link_bare_roman_targets(new_line, source, entries); unresolved.extend(xs)
+    new_line, xs = link_infinity(new_line, source); unresolved.extend(xs)
+    new_line, xs = link_neoaxioms(new_line, source); unresolved.extend(xs)
 
-    # Genealogical surfaces additionally resolve verified named aliases.
     if line.startswith(GENEALOGY_PREFIX):
         linked_spans = {m.group(1) for m in MD_LINK_RE.finditer(new_line)}
         for alias in sorted(ALIASES, key=len, reverse=True):
@@ -165,26 +172,18 @@ def repair_declared_relation_line(line: str, source: Path, entries: dict[str, di
                 continue
             new_line = re.sub(rf'(?<!\[){re.escape(alias)}(?!\]\()', f'[{alias}]({href})', new_line)
 
-        # Anything trademarked and still raw is unresolved. It is reported, never guessed.
         residual = MD_LINK_RE.sub('', new_line.split(':**', 1)[-1])
         for raw in TM_RE.findall(residual):
             candidate = raw.strip(' *`')
-            for marker in (
-                'profundiza ', 'deepens ', 'integra ', 'integrates ', 'continúa ', 'continues ',
-                'desarrolla ', 'develops ', 'deriva del conjunto del ', 'formula ', 'Formula ',
-                'Se relaciona directamente con ', 'la ', 'y ', 'e ', 'and '
-            ):
+            for marker in ('profundiza ', 'deepens ', 'integra ', 'integrates ', 'continúa ', 'continues ', 'desarrolla ', 'develops ', 'deriva del conjunto del ', 'formula ', 'Formula ', 'Se relaciona directamente con ', 'la ', 'y ', 'e ', 'and '):
                 if candidate.startswith(marker):
                     candidate = candidate[len(marker):].strip()
             if candidate.endswith('™') and candidate not in unresolved:
                 unresolved.append(candidate)
-
     return new_line, unresolved
 
 
 def manifest_files(entries: dict[str, dict[str, str]]) -> list[Path]:
-    # Union registry + on-disk surfaces: newly added manifestos cannot escape repair/audit
-    # merely because CANONICAL_FILENAMES.json has not yet been reconciled.
     paths: set[Path] = set(MAN.glob('[0-9][0-9]_*.md'))
     paths.update((MAN / 'canonicos').glob('*_ES_EN.md'))
     for entry in entries.values():
@@ -192,11 +191,9 @@ def manifest_files(entries: dict[str, dict[str, str]]) -> list[Path]:
             value = entry.get(key)
             if value:
                 p = ROOT / value
-                if p.exists():
-                    paths.add(p)
+                if p.exists(): paths.add(p)
     inf = MAN / 'INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md'
-    if inf.exists():
-        paths.add(inf)
+    if inf.exists(): paths.add(inf)
     return sorted(paths)
 
 
@@ -205,36 +202,27 @@ def main() -> int:
     entries = load_entries()
     changed: list[str] = []
     unresolved_rows: list[str] = []
-
     for path in manifest_files(entries):
         text = path.read_text(encoding='utf-8')
         out: list[str] = []
         touched = False
         for lineno, line in enumerate(text.splitlines(), 1):
             repaired, unresolved = repair_declared_relation_line(line, path, entries)
-            if repaired != line:
-                touched = True
+            if repaired != line: touched = True
             out.append(repaired)
             for item in unresolved:
                 code = 'UNRESOLVED_GENEALOGICAL_TARGET' if line.startswith(GENEALOGY_PREFIX) else 'UNRESOLVED_RELATIONAL_TARGET'
                 unresolved_rows.append(f'{path}:{lineno}: {code}: {item}')
-
         if touched:
             changed.append(str(path))
             if not check_only:
                 suffix = '\n' if text.endswith('\n') else ''
                 path.write_text('\n'.join(out) + suffix, encoding='utf-8')
-
     print(f'RELATIONAL_REPAIR_CHANGED={len(changed)}')
-    for item in changed:
-        print(f'REPAIRED: {item}')
-    for item in unresolved_rows:
-        print(item)
-
-    if check_only and changed:
-        return 1
+    for item in changed: print(f'REPAIRED: {item}')
+    for item in unresolved_rows: print(item)
+    if check_only and changed: return 1
     return 0
-
 
 if __name__ == '__main__':
     raise SystemExit(main())
