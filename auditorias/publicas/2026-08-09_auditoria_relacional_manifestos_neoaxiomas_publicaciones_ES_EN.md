@@ -1,9 +1,9 @@
 # Auditoría relacional MAXPROC · Manifiestos ↔ Neoaxiomas ↔ publicaciones ↔ Síntesis Abierta
 ## MAXPROC relational audit · Manifestos ↔ Neoaxioms ↔ publications ↔ Open Synthesis
 
-**Fecha / Date:** 2026-08-28  
+**Fecha / Date:** 2026-08-29  
 **Manifiestos canónicos / Canonical manifestos:** 84 · I–LXXXIV  
-**Markdown activo examinado / Active Markdown scanned:** 452  
+**Markdown activo examinado / Active Markdown scanned:** 453  
 **Archivo histórico excluido del estado vivo / Historical archive excluded from living state:** 55 archivos / files  
 **Regla de integridad:** esta auditoría no resume, acorta ni reescribe cuerpos fuente. Detecta relaciones documentales y candidatos a revisión; las relaciones semánticas o causales siguen requiriendo SAN/revisión humana. / **Integrity rule:** this audit never summarises, shortens or rewrites source bodies. It detects documentary relations and review candidates; semantic or causal relations still require SAN/human review.
 
@@ -12,9 +12,9 @@
 - Cobertura del mapa curado: **84/84**.
 - Ausentes del mapa curado: **ninguno / none**.
 - Neoaxiomas sin Síntesis específica: **ninguno / none**.
-- Enlaces locales realmente no resueltos: **1**.
+- Enlaces locales realmente no resueltos: **0**.
 - Manifiestos sin enlace entrante desde publicaciones/documentos aplicados: **0**.
-- Pares de manifiestos cocitados por ≥2 publicaciones: **545**.
+- Pares de manifiestos cocitados por ≥2 publicaciones: **551**.
 
 ## 2. Densidad documental · sólo alarma, nunca reducción
 
@@ -170,7 +170,7 @@
 
 ## 6. Enlaces locales no resueltos
 
-- `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md` → `../analisis/publicos/2026-08-28_interaccion_negociacion_tecnologica_dependencia_reversibilidad_ES_EN.md`
+- Ninguno / None.
 
 ## 7. Grafo directo completo por manifiesto
 
@@ -1394,7 +1394,7 @@
 - **otros:** `README.md`
 **Entrantes / Inbound:**
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
-- **sintesis-abierta:** `propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md` · `propuestas/sintesis-abierta/2026-08-25_EXTENSION_C_NAX_20_UNIDAD_DIFERENCIADA_ES_EN.md` · `propuestas/sintesis-abierta/PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md`
+- **sintesis-abierta:** `propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md` · `propuestas/sintesis-abierta/2026-08-25_EXTENSION_C_NAX_20_UNIDAD_DIFERENCIADA_ES_EN.md` · `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md`
 
 ### LXXXIII · Manifiesto de Activación Neodialéctica™ · La verdad también tiene derecho a circular / Neodialectical Activation Manifesto™ · Truth also has the right to circulate
 `manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md`
@@ -1405,7 +1405,7 @@
 **Entrantes / Inbound:**
 - **manifiestos:** `manifiestos/84_intermediacion_acceso_permeabilidad_poder_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
-- **sintesis-abierta:** `propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md`
+- **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` · `propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md`
 
 ### LXXXIV · Manifiesto de la Permeabilidad Intelectual del Poder™ · Contra la captura opaca del acceso / Manifesto of the Intellectual Permeability of Power™ · Against opaque access capture
 `manifiestos/84_intermediacion_acceso_permeabilidad_poder_ES_EN.md`
@@ -1415,6 +1415,7 @@
 **Entrantes / Inbound:**
 - **auditorias/publicas:** `auditorias/publicas/README.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
+- **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md`
 
 ## 8. Regla permanente de mantenimiento
 

@@ -1004,12 +1004,7 @@
     }
   ],
   "neoaxioms_missing_dedicated": [],
-  "broken": [
-    {
-      "source": "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md",
-      "href": "../analisis/publicos/2026-08-28_interaccion_negociacion_tecnologica_dependencia_reversibilidad_ES_EN.md"
-    }
-  ],
+  "broken": [],
   "weak_publication_relations": [],
   "co_citation": [
     {
@@ -5220,6 +5215,15 @@
     },
     {
       "a": "LIII",
+      "b": "LXXXIV",
+      "sources": 2,
+      "examples": [
+        "auditorias/publicas/README.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "LIII",
       "b": "X",
       "sources": 2,
       "examples": [
@@ -5413,6 +5417,15 @@
       "sources": 2,
       "examples": [
         "propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "LXI",
+      "b": "LXXXII",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md",
         "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
       ]
     },
@@ -5765,6 +5778,42 @@
       "examples": [
         "propuestas/sintesis-abierta/2026-08-16_C_NAX_25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md",
         "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "LXXXII",
+      "b": "XLV",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md",
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
+      ]
+    },
+    {
+      "a": "LXXXIII",
+      "b": "VI",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md",
+        "propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md"
+      ]
+    },
+    {
+      "a": "LXXXIII",
+      "b": "VII",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md",
+        "propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md"
+      ]
+    },
+    {
+      "a": "LXXXIII",
+      "b": "XXX",
+      "sources": 2,
+      "examples": [
+        "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md",
+        "propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md"
       ]
     },
     {
@@ -7268,6 +7317,9 @@
         "LXXVIII",
         "LXXX",
         "LXXXI",
+        "LXXXII",
+        "LXXXIII",
+        "LXXXIV",
         "V",
         "VI",
         "VII",
@@ -14077,6 +14129,7 @@
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md",
           "propuestas/sintesis-abierta/2026-08-25_EXTENSION_C_NAX_20_UNIDAD_DIFERENCIADA_ES_EN.md",
+          "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md",
           "propuestas/sintesis-abierta/PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md"
         ]
       }
@@ -14105,6 +14158,7 @@
           "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
         "sintesis-abierta": [
+          "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md",
           "propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md"
         ]
       }
@@ -14133,6 +14187,9 @@
         "otros": [
           "manifiestos/README.md",
           "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
+        ],
+        "sintesis-abierta": [
+          "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md"
         ]
       }
     }
