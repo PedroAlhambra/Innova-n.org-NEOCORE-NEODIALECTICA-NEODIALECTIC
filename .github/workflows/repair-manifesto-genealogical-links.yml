@@ -23,14 +23,20 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Sanitize malformed relational Markdown
+      - name: Sanitize malformed relational Markdown before repair
         run: python .github/scripts/sanitize_manifesto_relation_markdown.py
 
       - name: Repair verified genealogical targets
         run: python .github/scripts/repair_manifesto_genealogical_links.py
 
+      - name: Sanitize relational Markdown after repair
+        run: python .github/scripts/sanitize_manifesto_relation_markdown.py
+
       - name: Show material changes
         run: git diff -- manifiestos
+
+      - name: Audit clickable relations before commit
+        run: python .github/scripts/audit_manifesto_clickable_relations.py || true
 
       - name: Commit repairs if needed
         shell: bash
