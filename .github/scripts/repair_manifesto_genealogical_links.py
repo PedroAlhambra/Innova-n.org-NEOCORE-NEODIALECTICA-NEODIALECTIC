@@ -9,6 +9,7 @@ import sys
 ROOT = Path('.')
 MAN = ROOT / 'manifiestos'
 CANON = MAN / 'CANONICAL_FILENAMES.json'
+NEOAX = ROOT / 'neoaxiomas'
 
 # Conservative, explicit alias registry. Add only aliases whose canonical target is verified.
 # The repairer never guesses a target from textual similarity.
@@ -35,6 +36,7 @@ TM_RE = re.compile(r'([A-ZÁÉÍÓÚÜÑa-záéíóúüñ0-9][^,;:.\n]*?™)')
 ROMAN_TARGET_RE = re.compile(r'(?<!\[)(?<![A-Z])([IVXLCDM]+)\s*·\s*([^,;.\[\]\n]*?™)')
 BARE_ROMAN_RE = re.compile(r'(?<!\[)(?<![A-Z])([IVXLCDM]+)(?![A-Z\]])(?=\s*(?:,|·|$))')
 RAW_INFINITY_RE = re.compile(r'(?<!\[)∞(?!\])')
+RAW_NEOAX_RE = re.compile(r'(?<!\[)(?<![A-Z0-9-])(C-NAX-\d+|NAX-\d+)(?![A-Z0-9-])(?!\])')
 # Defensive cleanup for the exact malformed form produced by an earlier repair iteration.
 NESTED_SAME_LINK_RE = re.compile(r'\[([IVXLCDM]+\s*·\s*)\[([^\]]+)\]\(([^)]+)\)\]\(\3\)')
 
@@ -44,8 +46,8 @@ def load_entries() -> dict[str, dict[str, str]]:
     return data['entries']
 
 
-def relative_target(source: Path, canonical_repo_path: str) -> str:
-    target = ROOT / canonical_repo_path
+def relative_target(source: Path, repo_path: str | Path) -> str:
+    target = ROOT / repo_path
     return Path(os.path.relpath(target, start=source.parent)).as_posix()
 
 
@@ -63,7 +65,20 @@ def verified_infinity_href(source: Path) -> str | None:
     target = MAN / 'INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md'
     if not target.exists():
         return None
-    return Path(os.path.relpath(target, start=source.parent)).as_posix()
+    return relative_target(source, target)
+
+
+def verified_neoaxiom_href(source: Path, identifier: str) -> str | None:
+    # NAX-10 has its own canonical document. The canonical Neoaxiom registry README is
+    # the verified destination for all other NAX/C-NAX identifiers until/if they gain
+    # dedicated files. We deliberately do not invent per-heading anchors.
+    if identifier == 'NAX-10':
+        target = NEOAX / 'NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md'
+    else:
+        target = NEOAX / 'README.md'
+    if not target.exists():
+        return None
+    return relative_target(source, target)
 
 
 def normalize_nested_links(line: str) -> str:
@@ -108,6 +123,20 @@ def link_infinity(line: str, source: Path) -> tuple[str, list[str]]:
     return RAW_INFINITY_RE.sub(f'[∞]({href})', line), []
 
 
+def link_neoaxioms(line: str, source: Path) -> tuple[str, list[str]]:
+    unresolved: list[str] = []
+
+    def repl(match: re.Match[str]) -> str:
+        identifier = match.group(1)
+        href = verified_neoaxiom_href(source, identifier)
+        if not href:
+            unresolved.append(identifier)
+            return identifier
+        return f'[{identifier}]({href})'
+
+    return RAW_NEOAX_RE.sub(repl, line), unresolved
+
+
 def repair_declared_relation_line(line: str, source: Path, entries: dict[str, dict[str, str]]) -> tuple[str, list[str]]:
     if not line.startswith(RELATION_PREFIXES):
         return line, []
@@ -120,6 +149,8 @@ def repair_declared_relation_line(line: str, source: Path, entries: dict[str, di
     unresolved.extend(bare_unresolved)
     new_line, infinity_unresolved = link_infinity(new_line, source)
     unresolved.extend(infinity_unresolved)
+    new_line, neoax_unresolved = link_neoaxioms(new_line, source)
+    unresolved.extend(neoax_unresolved)
 
     # Genealogical surfaces additionally resolve verified named aliases.
     if line.startswith(GENEALOGY_PREFIX):
