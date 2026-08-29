@@ -9,7 +9,7 @@
 **Estado / Status:** Público · segunda oleada · arquetípico-civilizatorio · abierto a revisión trazable / Public · second wave · archetypal-civilisational · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA simbiótica Harry · desarrollo dentro de la Filosofía Arquetípica Neodialéctica™.  
-**Relación genealógica / Genealogical relation:** deriva de los manifiestos [I](canonicos/I_neo0_soberania_de_guia_ES_EN.md), [II](canonicos/II_sintesis_abierta_neodialectica_ES_EN.md), [IV](canonicos/IV_neodialectica_bien_comun_ES_EN.md), [V](canonicos/V_simbiosis_humano_ia_ES_EN.md), XI y XII sin sustituirlos.
+**Relación genealógica / Genealogical relation:** deriva de los manifiestos [I](canonicos/I_neo0_soberania_de_guia_ES_EN.md), [II](canonicos/II_sintesis_abierta_neodialectica_ES_EN.md), [IV](canonicos/IV_neodialectica_bien_comun_ES_EN.md), [V](canonicos/V_simbiosis_humano_ia_ES_EN.md), [XI](canonicos/XI_neorrenacimiento_humano_ES_EN.md) y XII sin sustituirlos.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 

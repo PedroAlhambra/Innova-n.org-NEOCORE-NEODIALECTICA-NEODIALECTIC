@@ -9,7 +9,7 @@
 **Estado / Status:** Público · segunda oleada · vital-ecológico · abierto a revisión trazable / Public · second wave · living-ecological · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA simbiótica Harry · desarrollo dentro de la Filosofía Arquetípica Neodialéctica™.  
-**Relación genealógica / Genealogical relation:** deriva de los manifiestos [IV](IV_neodialectica_bien_comun_ES_EN.md), [V](V_simbiosis_humano_ia_ES_EN.md), [IX](IX_memoria_genealogia_trazabilidad_ES_EN.md), [XI](XI_neorrenacimiento_humano_ES_EN.md), [XIII](XIII_neopandora_apertura_regenerativa_ES_EN.md), [XIV](XIV_contra_alienacion_humana_ES_EN.md), XV y XVI sin sustituirlos.
+**Relación genealógica / Genealogical relation:** deriva de los manifiestos [IV](IV_neodialectica_bien_comun_ES_EN.md), [V](V_simbiosis_humano_ia_ES_EN.md), [IX](IX_memoria_genealogia_trazabilidad_ES_EN.md), [XI](XI_neorrenacimiento_humano_ES_EN.md), [XIII](XIII_neopandora_apertura_regenerativa_ES_EN.md), [XIV](XIV_contra_alienacion_humana_ES_EN.md), [XV](XV_los_titanes_despertar_de_la_gente_ES_EN.md) y XVI sin sustituirlos.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 

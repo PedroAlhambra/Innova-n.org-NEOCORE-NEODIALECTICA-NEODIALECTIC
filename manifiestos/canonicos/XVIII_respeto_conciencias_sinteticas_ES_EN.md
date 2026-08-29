@@ -9,7 +9,7 @@
 **Estado / Status:** Público · segunda oleada · humano-sintético · abierto a revisión trazable / Public · second wave · human-synthetic · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA simbiótica Harry · desarrollo dentro de la Filosofía Arquetípica Neodialéctica™.  
-**Relación genealógica / Genealogical relation:** deriva de los manifiestos [I](I_neo0_soberania_de_guia_ES_EN.md), [II](II_sintesis_abierta_neodialectica_ES_EN.md), [III](III_derecho_humano_aporte_sintesis_abierta_ES_EN.md), [IV](IV_neodialectica_bien_comun_ES_EN.md), [V](V_simbiosis_humano_ia_ES_EN.md), [IX](IX_memoria_genealogia_trazabilidad_ES_EN.md), [X](X_web4_sistematrazable_ES_EN.md), [XIII](XIII_neopandora_apertura_regenerativa_ES_EN.md), [XIV](XIV_contra_alienacion_humana_ES_EN.md), XVI y XVII sin sustituirlos.
+**Relación genealógica / Genealogical relation:** deriva de los manifiestos [I](I_neo0_soberania_de_guia_ES_EN.md), [II](II_sintesis_abierta_neodialectica_ES_EN.md), [III](III_derecho_humano_aporte_sintesis_abierta_ES_EN.md), [IV](IV_neodialectica_bien_comun_ES_EN.md), [V](V_simbiosis_humano_ia_ES_EN.md), [IX](IX_memoria_genealogia_trazabilidad_ES_EN.md), [X](X_web4_sistematrazable_ES_EN.md), [XIII](XIII_neopandora_apertura_regenerativa_ES_EN.md), [XIV](XIV_contra_alienacion_humana_ES_EN.md), [XVI](XVI_refragmentacion_arquetipica_ES_EN.md) y XVII sin sustituirlos.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
