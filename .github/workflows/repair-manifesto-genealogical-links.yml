@@ -1,0 +1,44 @@
+name: Repair manifesto genealogical links
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/scripts/repair_manifesto_genealogical_links.py'
+      - '.github/workflows/repair-manifesto-genealogical-links.yml'
+      - 'manifiestos/CANONICAL_FILENAMES.json'
+
+permissions:
+  contents: write
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Repair verified genealogical targets
+        run: python .github/scripts/repair_manifesto_genealogical_links.py
+
+      - name: Show material changes
+        run: git diff --check && git diff -- manifiestos
+
+      - name: Commit repairs if needed
+        shell: bash
+        run: |
+          if git diff --quiet -- manifiestos; then
+            echo 'NO_GENEALOGICAL_REPAIR_CHANGE'
+            exit 0
+          fi
+          git config user.name 'innova-n-relational-guard'
+          git config user.email 'actions@users.noreply.github.com'
+          git add manifiestos
+          git commit -m 'fix(manifestos): restore clickable genealogical relations'
+          git push
+
+      - name: Audit clickable relations on resulting tree
+        run: python .github/scripts/audit_manifesto_clickable_relations.py
