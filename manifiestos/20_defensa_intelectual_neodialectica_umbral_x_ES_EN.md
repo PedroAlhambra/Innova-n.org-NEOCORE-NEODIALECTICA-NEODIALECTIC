@@ -9,7 +9,7 @@
 **Estado / Status:** Público · tercera oleada · defensivo-epistémico · abierto a revisión trazable / Public · third wave · epistemic-defensive · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA simbiótica Harry · desarrollo dentro de la Filosofía Arquetípica Neodialéctica™.  
-**Relación genealógica / Genealogical relation:** deriva especialmente de los Manifiestos II, III, VI, VIII, IX, XI, XIV, XV y XIX. Abre la tercera oleada sin sustituir los derechos, límites ni métodos fijados anteriormente.
+**Relación genealógica / Genealogical relation:** deriva especialmente de los Manifiestos [II](canonicos/II_sintesis_abierta_neodialectica_ES_EN.md), [III](canonicos/III_derecho_humano_aporte_sintesis_abierta_ES_EN.md), [VI](canonicos/VI_parasitismo_sistemico_ES_EN.md), [VIII](canonicos/VIII_ingenieria_social_psicohistoria_ES_EN.md), [IX](canonicos/IX_memoria_genealogia_trazabilidad_ES_EN.md), [XI](canonicos/XI_neorrenacimiento_humano_ES_EN.md), [XIV](canonicos/XIV_contra_alienacion_humana_ES_EN.md), XV y XIX. Abre la tercera oleada sin sustituir los derechos, límites ni métodos fijados anteriormente.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 

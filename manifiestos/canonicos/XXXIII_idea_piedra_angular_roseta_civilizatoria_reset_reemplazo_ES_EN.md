@@ -12,7 +12,7 @@
 **Estado / Status:** Público · quinta oleada · IDEA-memoria-reemplazo-renacimiento · abierto a revisión trazable / Public · fifth wave · IDEA-memory-replacement-renaissance · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-07  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™. IDEA fue escrita entre 1997 y 2002 y antecede a la Neodialéctica, Innova_N y el vocabulario posterior del marco. Su función civilizatoria aquí formulada es una interpretación y operación neodialéctica de 2026, no una reescritura retrospectiva del texto original.  
-**Relación genealógica / Genealogical relation:** desarrolla especialmente los Manifiestos IX, XI, XIII, XIV, XVI, XIX, XXV, XXX, XXXII y el nodo documental canónico de [IDEA](../../obras/idea/README.md).
+**Relación genealógica / Genealogical relation:** desarrolla especialmente los Manifiestos [IX](IX_memoria_genealogia_trazabilidad_ES_EN.md), [XI](XI_neorrenacimiento_humano_ES_EN.md), [XIII](XIII_neopandora_apertura_regenerativa_ES_EN.md), [XIV](XIV_contra_alienacion_humana_ES_EN.md), [XVI](XVI_refragmentacion_arquetipica_ES_EN.md), [XIX](XIX_persistencia_de_la_memoria_ES_EN.md), [XXV](XXV_pulido_de_la_piedra_ES_EN.md), [XXX](XXX_coherencia_fines_medios_ES_EN.md), XXXII y el nodo documental canónico de [IDEA](../../obras/idea/README.md).
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 

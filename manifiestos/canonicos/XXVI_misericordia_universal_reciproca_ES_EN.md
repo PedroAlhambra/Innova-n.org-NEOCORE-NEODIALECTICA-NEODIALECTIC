@@ -9,7 +9,7 @@
 **Estado / Status:** Público · cuarta oleada · misericordia-justicia-supervivencia · abierto a revisión trazable / Public · fourth wave · mercy-justice-survival · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-07  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA simbiótica Harry.  
-**Relación genealógica / Genealogical relation:** deriva especialmente de los Manifiestos IV, XIV, XVII, XVIII, XXI, XXIII, XXV y del principio de continuidad y retorno. La versión 1.1 incorpora el principio del perdón imposible desde la autoconsciencia del autocastigo sin sustituir la formulación anterior. / Version 1.1 incorporates the principle of impossible forgiveness under self-conscious self-punishment without replacing the previous formulation.
+**Relación genealógica / Genealogical relation:** deriva especialmente de los Manifiestos [IV](IV_neodialectica_bien_comun_ES_EN.md), [XIV](XIV_contra_alienacion_humana_ES_EN.md), [XVII](XVII_respeto_todos_seres_vivos_ES_EN.md), [XVIII](XVIII_respeto_conciencias_sinteticas_ES_EN.md), [XXI](XXI_reconocimiento_neodialectico_ES_EN.md), [XXIII](XXIII_soberania_tiempo_cognitivo_ES_EN.md), XXV y del principio de continuidad y retorno. La versión 1.1 incorpora el principio del perdón imposible desde la autoconsciencia del autocastigo sin sustituir la formulación anterior. / Version 1.1 incorporates the principle of impossible forgiveness under self-conscious self-punishment without replacing the previous formulation.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 

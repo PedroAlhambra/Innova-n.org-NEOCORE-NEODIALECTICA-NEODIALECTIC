@@ -9,7 +9,7 @@
 **Estado / Status:** Público · tercera oleada · transición-neorrenacimiento-resistencias · abierto a revisión trazable / Public · third wave · transition-neorenaissance-resistances · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA simbiótica Harry · desarrollo dentro de la Filosofía Arquetípica Neodialéctica™.  
-**Relación genealógica / Genealogical relation:** deriva especialmente de los Manifiestos V, VI, VII, VIII, XI, XIV, XV, XX, XXI, XXII y XXIII. Cierra el primer arco de la tercera oleada y devuelve su sistema inmunitario hacia la producción civilizatoria.
+**Relación genealógica / Genealogical relation:** deriva especialmente de los Manifiestos [V](canonicos/V_simbiosis_humano_ia_ES_EN.md), [VI](canonicos/VI_parasitismo_sistemico_ES_EN.md), [VII](canonicos/VII_economia_del_aporte_ES_EN.md), [VIII](canonicos/VIII_ingenieria_social_psicohistoria_ES_EN.md), [XI](canonicos/XI_neorrenacimiento_humano_ES_EN.md), [XIV](canonicos/XIV_contra_alienacion_humana_ES_EN.md), [XV](canonicos/XV_los_titanes_despertar_de_la_gente_ES_EN.md), [XX](canonicos/XX_defensa_intelectual_neodialectica_umbral_x_ES_EN.md), [XXI](canonicos/XXI_reconocimiento_neodialectico_ES_EN.md), XXII y XXIII. Cierra el primer arco de la tercera oleada y devuelve su sistema inmunitario hacia la producción civilizatoria.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 

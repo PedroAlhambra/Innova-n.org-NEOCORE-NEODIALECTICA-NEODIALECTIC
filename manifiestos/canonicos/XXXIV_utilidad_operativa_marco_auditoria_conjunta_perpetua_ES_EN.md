@@ -12,7 +12,7 @@
 **Estado / Status:** Público · quinta oleada · utilidad-auditoría-síntesis-acción · abierto a revisión trazable / Public · fifth wave · utility-audit-synthesis-action · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-07  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ como ideador ideológico, filosófico y teleológico del Neodialectica Framework™ / Network; desarrollo, contraste y operacionalización posteriores en simbiosis humano–IA.  
-**Relación genealógica / Genealogical relation:** desarrolla especialmente los Manifiestos II, III, VI, VII, IX, X, XX, XXI, XXII, XXX, XXXII y XXXIII; se conecta con los [análisis públicos](../../analisis/publicos/README.md), las [auditorías públicas](../../auditorias/publicas/README.md) y la [Síntesis Abierta](../../propuestas/sintesis-abierta/README.md).
+**Relación genealógica / Genealogical relation:** desarrolla especialmente los Manifiestos [II](II_sintesis_abierta_neodialectica_ES_EN.md), [III](III_derecho_humano_aporte_sintesis_abierta_ES_EN.md), [VI](VI_parasitismo_sistemico_ES_EN.md), [VII](VII_economia_del_aporte_ES_EN.md), [IX](IX_memoria_genealogia_trazabilidad_ES_EN.md), [X](X_web4_sistematrazable_ES_EN.md), [XX](XX_defensa_intelectual_neodialectica_umbral_x_ES_EN.md), [XXI](XXI_reconocimiento_neodialectico_ES_EN.md), [XXII](XXII_contra_reduccion_captura_intelectual_ES_EN.md), [XXX](XXX_coherencia_fines_medios_ES_EN.md), XXXII y XXXIII; se conecta con los [análisis públicos](../../analisis/publicos/README.md), las [auditorías públicas](../../auditorias/publicas/README.md) y la [Síntesis Abierta](../../propuestas/sintesis-abierta/README.md).
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 

@@ -7,7 +7,7 @@
 **Fecha / Date:** 2026-08-10  
 **Autoría / Authorship:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico.  
 **Síntesis Abierta / Open Synthesis:** [Issue #112](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/112)  
-**Relaciones principales / Main relations:** IV · Neodialéctica y Bien Común™ · IX · Memoria, Genealogía y Trazabilidad™ · XI · Neorrenacimiento Humano™ · XV · Los Titanes™ · XVI · Refragmentación Arquetípica™ · XXXIV · Auditoría Conjunta Perpetua™ · XLVI · Cerrar la Herida™ · LIII · Leónidas™ · LVIII · Inteligencia Civilizatoria™ · LXVI · NeoSinergia™.
+**Relaciones principales / Main relations:** [IV · Neodialéctica y Bien Común™](IV_neodialectica_bien_comun_ES_EN.md) · [IX](IX_memoria_genealogia_trazabilidad_ES_EN.md) · Memoria, Genealogía y Trazabilidad™ · [XI · Neorrenacimiento Humano™](XI_neorrenacimiento_humano_ES_EN.md) · [XV · Los Titanes™](XV_los_titanes_despertar_de_la_gente_ES_EN.md) · [XVI · Refragmentación Arquetípica™](XVI_refragmentacion_arquetipica_ES_EN.md) · [XXXIV · Auditoría Conjunta Perpetua™](XXXIV_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) · [XLVI · Cerrar la Herida™](XLVI_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md) · [LIII · Leónidas™](LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [LVIII · Inteligencia Civilizatoria™](LVIII_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md) · [LXVI · NeoSinergia™](LXVI_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md).
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 

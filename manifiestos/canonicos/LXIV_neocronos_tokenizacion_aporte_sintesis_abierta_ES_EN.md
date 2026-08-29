@@ -7,7 +7,7 @@
 **Fecha / Date:** 2026-08-10  
 **Autoría / Authorship:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico.  
 **Síntesis Abierta / Open Synthesis:** [Issue #107](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/107)  
-**Relaciones principales / Main relations:** II · Síntesis Abierta™ · III · Derecho Humano de Aporte™ · VII · Economía del Aporte™ · IX · Memoria, Genealogía y Trazabilidad™ · XXIII · Soberanía del Tiempo Cognitivo™ · XL · Honor Relacional™ · LXII · Juego por la Síntesis y el Honor™ · LXIII · Contra la Simplificación Burda™ · LXV · NeoJuego™.
+**Relaciones principales / Main relations:** [II · Síntesis Abierta™](II_sintesis_abierta_neodialectica_ES_EN.md) · [III · Derecho Humano de Aporte™](III_derecho_humano_aporte_sintesis_abierta_ES_EN.md) · [VII · Economía del Aporte™](VII_economia_del_aporte_ES_EN.md) · [IX](IX_memoria_genealogia_trazabilidad_ES_EN.md) · Memoria, Genealogía y Trazabilidad™ · [XXIII · Soberanía del Tiempo Cognitivo™](XXIII_soberania_tiempo_cognitivo_ES_EN.md) · [XL · Honor Relacional™](XL_respeto_neoego_honor_relacional_ES_EN.md) · [LXII · Juego por la Síntesis y el Honor™](LXII_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md) · [LXIII · Contra la Simplificación Burda™](LXIII_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md) · [LXV · NeoJuego™](LXV_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md).
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 

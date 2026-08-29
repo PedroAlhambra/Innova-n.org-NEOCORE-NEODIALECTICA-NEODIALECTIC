@@ -9,7 +9,7 @@
 **Estado / Status:** Público · tercera oleada · tiempo-atención-memoria · abierto a revisión trazable / Public · third wave · time-attention-memory · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA simbiótica Harry · desarrollo dentro de la Filosofía Arquetípica Neodialéctica™.  
-**Relación genealógica / Genealogical relation:** deriva especialmente de los Manifiestos II, III, VII, IX, XIV, XIX, XX y XXI. Se relaciona con el Principio de Continuidad Cognitiva y Retorno a Fuente y con la Economía del Aporte.
+**Relación genealógica / Genealogical relation:** deriva especialmente de los Manifiestos [II](II_sintesis_abierta_neodialectica_ES_EN.md), [III](III_derecho_humano_aporte_sintesis_abierta_ES_EN.md), [VII](VII_economia_del_aporte_ES_EN.md), [IX](IX_memoria_genealogia_trazabilidad_ES_EN.md), [XIV](XIV_contra_alienacion_humana_ES_EN.md), [XIX](XIX_persistencia_de_la_memoria_ES_EN.md), XX y XXI. Se relaciona con el Principio de Continuidad Cognitiva y Retorno a Fuente y con la Economía del Aporte.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 

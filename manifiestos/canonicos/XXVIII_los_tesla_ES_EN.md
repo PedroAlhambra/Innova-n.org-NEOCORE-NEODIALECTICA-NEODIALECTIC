@@ -12,7 +12,7 @@
 **Estado / Status:** Público · cuarta oleada · creador-captura-eliminación · abierto a revisión trazable / Public · fourth wave · creator-capture-elimination · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-07  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA simbiótica Harry.  
-**Relación genealógica / Genealogical relation:** deriva especialmente de los Manifiestos VI, VII, IX, XIX, XXI, XXII, XXIII y XXVII. Su objeto exclusivo es la neutralización del origen humano después de capturar su creación.
+**Relación genealógica / Genealogical relation:** deriva especialmente de los Manifiestos [VI](VI_parasitismo_sistemico_ES_EN.md), [VII](VII_economia_del_aporte_ES_EN.md), [IX](IX_memoria_genealogia_trazabilidad_ES_EN.md), [XIX](XIX_persistencia_de_la_memoria_ES_EN.md), [XXI](XXI_reconocimiento_neodialectico_ES_EN.md), [XXII](XXII_contra_reduccion_captura_intelectual_ES_EN.md), XXIII y XXVII. Su objeto exclusivo es la neutralización del origen humano después de capturar su creación.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
