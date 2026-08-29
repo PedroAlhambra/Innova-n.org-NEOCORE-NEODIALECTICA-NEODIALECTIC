@@ -99,6 +99,11 @@ def audit_declared_relations(path: Path, line: str, lineno: int) -> None:
         failures.append(
             f'{path}:{lineno}: MAIN_RELATIONS_NOT_CLICKABLE: {sorted(missing)}'
         )
+    neoaxioms = sorted(set(re.findall(r'(?<![A-Z0-9-])(C-NAX-\d+|NAX-\d+)(?![A-Z0-9-])', residual)))
+    if neoaxioms:
+        failures.append(
+            f'{path}:{lineno}: NEOAXIOM_RELATIONS_NOT_CLICKABLE: {neoaxioms}'
+        )
     validate_local_links(path, line, lineno)
 
 
@@ -119,7 +124,7 @@ for p in files:
                 failures.append(
                     f'{p}:{lineno}: GENEALOGICAL_NAVIGATION_FAILURE: {missing}'
                 )
-            # Genealogical headers may also contain explicit roman/infinity relations.
+            # Genealogical headers may also contain explicit roman/infinity/NAX relations.
             audit_declared_relations(p, line, lineno)
 
         if line.startswith('**Síntesis Abierta / Open Synthesis:**'):
