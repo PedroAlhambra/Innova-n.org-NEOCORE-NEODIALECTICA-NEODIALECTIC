@@ -1,38 +1,85 @@
+from __future__ import annotations
+
 from pathlib import Path
+import json
 import re
 import sys
 
-MAN = Path('manifiestos')
-files = sorted(MAN.glob('[0-9][0-9]_*.md'))
-inf = MAN / 'INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md'
-if inf.exists():
-    files.append(inf)
+ROOT = Path('.')
+MAN = ROOT / 'manifiestos'
+CANON = MAN / 'CANONICAL_FILENAMES.json'
 
-failures = []
+failures: list[str] = []
 relation_lines = 0
 genealogy_lines = 0
 synthesis_lines = 0
 
-
-def remove_md_links(s):
-    # Remove already navigable relations entirely before looking for raw leftovers.
-    return re.sub(r'\[[^\]]+\]\([^)]+\)', '', s)
+MD_LINK_RE = re.compile(r'\[([^\]]+)\]\(([^)]+)\)')
 
 
-def raw_trademark_relations(s):
-    """Return named canonical-looking relations left outside Markdown links.
+def manifest_files() -> list[Path]:
+    paths: set[Path] = set()
+    if CANON.exists():
+        data = json.loads(CANON.read_text(encoding='utf-8'))
+        for entry in data.get('entries', {}).values():
+            for key in ('legacy', 'canonical'):
+                value = entry.get(key)
+                if value:
+                    p = ROOT / value
+                    if p.exists():
+                        paths.add(p)
+    else:
+        paths.update(MAN.glob('[0-9][0-9]_*.md'))
+        paths.update((MAN / 'canonicos').glob('*_ES_EN.md'))
 
-    Genealogical relation headers are navigation surfaces. A trademarked framework
-    concept that remains after linked spans are removed is therefore a regression,
-    even when a canonical cross-reference block elsewhere in the manifesto links it.
+    inf = MAN / 'INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md'
+    if inf.exists():
+        paths.add(inf)
+    return sorted(paths)
+
+
+def remove_md_links(s: str) -> str:
+    return MD_LINK_RE.sub('', s)
+
+
+def raw_trademark_relations(s: str) -> list[str]:
+    """Return trademarked named relations left outside Markdown links.
+
+    Genealogical relation headers are navigation surfaces. A framework concept that
+    remains after linked spans are removed is a regression even if it is linked again
+    in a later cross-reference block.
     """
     residual = remove_md_links(s)
-    return sorted(set(
-        m.strip(' *`')
-        for m in re.findall(r'(?:(?<=^)|(?<=[,:;]))\s*([^,;:.\n]*?™)', residual)
-        if m.strip(' *`')
-    ))
+    found = []
+    for m in re.finditer(r'(?:(?<=^)|(?<=[,:;]))\s*([^,;:.\n]*?™)', residual):
+        value = m.group(1).strip(' *`')
+        for prefix in ('profundiza ', 'deepens ', 'integra ', 'integrates ', 'y ', 'e ', 'and '):
+            if value.startswith(prefix):
+                value = value[len(prefix):].strip()
+        if value:
+            found.append(value)
+    return sorted(set(found))
 
+
+def validate_local_links(path: Path, line: str, lineno: int) -> None:
+    for label, href in MD_LINK_RE.findall(line):
+        if href.startswith(('http://', 'https://', '#', 'mailto:')):
+            continue
+        target = (path.parent / href.split('#', 1)[0]).resolve()
+        if not target.exists():
+            failures.append(
+                f'{path}:{lineno}: BROKEN_RELATIONAL_TARGET: [{label}]({href})'
+            )
+
+
+def has_crossref_block(text: str) -> bool:
+    return (
+        '<!-- NEO_CROSS_REFERENCES_START -->' in text
+        and '<!-- NEO_CROSS_REFERENCES_END -->' in text
+    )
+
+
+files = manifest_files()
 
 for p in files:
     text = p.read_text(encoding='utf-8')
@@ -42,39 +89,48 @@ for p in files:
             raw = line.split(':**', 1)[-1]
             residual = remove_md_links(raw)
             missing = set()
-
-            # Modern raw relation: `II · Title`.
             missing.update(re.findall(r'(?<![A-Z])([IVXLCDM]+|∞)\s*·', residual))
-            # Legacy raw list: `XIV, XVI, ...` (only at list boundaries, not words such as MÉDICI).
             missing.update(re.findall(r'(?:^|,)\s*([IVXLCDM]+|∞)\s*(?=,|·|$)', residual))
-
             if missing:
-                failures.append(f'{p}:{lineno}: MAIN_RELATIONS_NOT_CLICKABLE: {sorted(missing)}')
+                failures.append(
+                    f'{p}:{lineno}: MAIN_RELATIONS_NOT_CLICKABLE: {sorted(missing)}'
+                )
+            validate_local_links(p, line, lineno)
 
         if line.startswith('**Relación genealógica / Genealogical relation:**'):
             genealogy_lines += 1
             raw = line.split(':**', 1)[-1]
             missing = raw_trademark_relations(raw)
             if missing:
-                failures.append(f'{p}:{lineno}: GENEALOGICAL_NAVIGATION_FAILURE: {missing}')
+                failures.append(
+                    f'{p}:{lineno}: GENEALOGICAL_NAVIGATION_FAILURE: {missing}'
+                )
+            validate_local_links(p, line, lineno)
 
         if line.startswith('**Síntesis Abierta / Open Synthesis:**'):
             synthesis_lines += 1
             issue_numbers = set(re.findall(r'#(\d+)\b', line))
             issue_numbers |= set(re.findall(r'/issues/(\d+)', line))
             if issue_numbers:
-                linked = set(re.findall(r'\[[^\]]*#(\d+)[^\]]*\]\(https://github\.com/[^)]+/issues/\1\)', line))
+                linked = set(
+                    re.findall(
+                        r'\[[^\]]*#(\d+)[^\]]*\]\(https://github\.com/[^)]+/issues/\1\)',
+                        line,
+                    )
+                )
                 missing = sorted(issue_numbers - linked, key=int)
                 if missing:
-                    failures.append(f'{p}:{lineno}: OPEN_SYNTHESIS_ISSUE_NOT_CLICKABLE: {missing}')
+                    failures.append(
+                        f'{p}:{lineno}: OPEN_SYNTHESIS_ISSUE_NOT_CLICKABLE: {missing}'
+                    )
+            validate_local_links(p, line, lineno)
 
-for p in files:
-    text = p.read_text(encoding='utf-8')
-    if '<!-- NEO_CROSS_REFERENCES_START -->' not in text or '<!-- NEO_CROSS_REFERENCES_END -->' not in text:
+    if not has_crossref_block(text):
         failures.append(f'{p}: CANONICAL_CROSSREF_BLOCK_MISSING')
 
 if failures:
     print('CLICKABLE_RELATIONS=FAIL')
+    print(f'MANIFEST_SURFACES_AUDITED={len(files)}')
     for item in failures:
         print(item)
     sys.exit(1)
