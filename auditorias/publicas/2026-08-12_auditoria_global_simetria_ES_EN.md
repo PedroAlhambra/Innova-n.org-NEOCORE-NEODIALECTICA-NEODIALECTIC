@@ -7,16 +7,22 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **364**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **298**.
-- Fallos estructurales divididos / Split structural failures: **0**.
+- Markdown activo examinado / Active Markdown scanned: **366**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **300**.
+- Fallos estructurales divididos / Split structural failures: **1**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
 
-- Ninguno / None.
+- `manifiestos/85_memoria_capitan_grant_ES_EN.md` · ES=988 · EN=958 · ratio=0.97
+  - II: párrafos ES=7 EN=6
+  - III: párrafos ES=3 EN=2
+  - V: code ES=1 EN=0
+  - VII: párrafos ES=7 EN=6
+  - IX: code ES=1 EN=0
+  - IX: párrafos ES=6 EN=4
 
 ## Marcadores / Markers
 
@@ -37,6 +43,7 @@
 | `README.md` | **OK** |  |
 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` | **OK** |  |
 | `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` | **OK** |  |
+| `analisis/2026-08-29_hipotesis_grant_verne_ulises_vector_arquetipico_ES_EN.md` | **OK** |  |
 | `analisis/INDEX.md` | **OK** |  |
 | `analisis/README.md` | **OK** |  |
 | `analisis/auditorias/README.md` | **OK** |  |
@@ -277,6 +284,7 @@
 | `manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md` | **OK** |  |
 | `manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md` | **OK** |  |
 | `manifiestos/84_intermediacion_acceso_permeabilidad_poder_ES_EN.md` | **OK** |  |
+| `manifiestos/85_memoria_capitan_grant_ES_EN.md` | **REVISAR** | II: párrafos ES=7 EN=6; III: párrafos ES=3 EN=2; V: code ES=1 EN=0; VII: párrafos ES=7 EN=6; IX: code ES=1 EN=0; IX: párrafos ES=6 EN=4 |
 | `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | **OK** |  |
 | `manifiestos/README.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` | **OK** |  |
