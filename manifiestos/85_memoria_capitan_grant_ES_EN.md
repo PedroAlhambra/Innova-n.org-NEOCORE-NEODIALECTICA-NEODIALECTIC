@@ -302,6 +302,8 @@ To learn from his resistance, contradictions, errors, mercy, strength and final 
 
 ---
 
+<!-- NEO_CROSS_REFERENCES_START -->
+
 ## Referencias cruzadas canónicas / Canonical cross-references
 
 - [Síntesis Abierta LXXXV · #180 / Open Synthesis LXXXV · #180](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/180)
@@ -312,6 +314,8 @@ To learn from his resistance, contradictions, errors, mercy, strength and final 
 - [LIII · Leónidas™ / Leonidas™](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
 - [Portal de Síntesis Abierta / Open Synthesis portal](../propuestas/sintesis-abierta/README.md)
 
+
+<!-- NEO_CROSS_REFERENCES_END -->
 ## Fuentes históricas de contraste / Historical scrutiny sources
 
 Este manifiesto distingue hechos históricos de interpretación neodialéctica. Para contraste histórico se han consultado materiales del U.S. National Park Service sobre Grant, Reconstrucción y la elaboración de sus memorias; la Ulysses S. Grant Presidential Library sobre la recepción de Grant por Walt Whitman; y el catálogo de la Bibliothèque nationale de France para verificar que *Les Enfants du capitaine Grant* de Jules Verne pertenece a la ficción de los *Voyages extraordinaires* y no constituye por sí mismo evidencia de una relación con Ulysses S. Grant.
