@@ -7,8 +7,8 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **395**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **329**.
+- Markdown activo examinado / Active Markdown scanned: **396**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **330**.
 - Fallos estructurales divididos / Split structural failures: **9**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
@@ -338,6 +338,7 @@
 | `neoaxiomas/NAX-06_MEMORIA_AUSENCIA_ES_EN.md` | **OK** |  |
 | `neoaxiomas/NAX-07_RED_NEOREAL_ACTORES_OPERATIVOS_ES_EN.md` | **OK** |  |
 | `neoaxiomas/NAX-08_COOPERACION_EXCELENCIA_COMPETENCIA_DEPREDADORA_ES_EN.md` | **OK** |  |
+| `neoaxiomas/NAX-09_COMPUTACION_DISTRIBUIDA_LOCAL_VERIFICACION_ECOLOGICA_ES_EN.md` | **OK** |  |
 | `neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md` | **OK** |  |
 | `neoaxiomas/README.md` | **OK** |  |
 | `obras/README.md` | **OK** |  |
