@@ -7,9 +7,9 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **376**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **310**.
-- Fallos estructurales divididos / Split structural failures: **4**.
+- Markdown activo examinado / Active Markdown scanned: **380**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **314**.
+- Fallos estructurales divididos / Split structural failures: **8**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -30,6 +30,14 @@
   - IX: párrafos ES=6 EN=4
 - `neoaxiomas/C-NAX-15_SOBERANIA_INTELECTUAL_ESPECIE_ES_EN.md` · ES=138 · EN=192 · ratio=1.39
   - volumen EN/ES=1.39 (192/138)
+- `neoaxiomas/C-NAX-16_NO_CORONACION_PARTE_ES_EN.md` · ES=105 · EN=174 · ratio=1.66
+  - volumen EN/ES=1.66 (174/105)
+- `neoaxiomas/C-NAX-17_RECONSTRUCCION_SISTEMICA_ES_EN.md` · ES=132 · EN=201 · ratio=1.52
+  - volumen EN/ES=1.52 (201/132)
+- `neoaxiomas/C-NAX-18_MOTOR_BIEN_COMUN_NEOSINERGIA_ES_EN.md` · ES=148 · EN=233 · ratio=1.57
+  - volumen EN/ES=1.57 (233/148)
+- `neoaxiomas/C-NAX-19_INVIOLABILIDAD_RELACIONAL_SEPARACION_PLANOS_ES_EN.md` · ES=144 · EN=199 · ratio=1.38
+  - volumen EN/ES=1.38 (199/144)
 
 ## Marcadores / Markers
 
@@ -309,6 +317,10 @@
 | `manifiestos/deltas/LXI_delta_genetica_adn_neopandora_custodia_multiescalar_ES_EN.md` | **OK** |  |
 | `manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md` | **OK** |  |
 | `neoaxiomas/C-NAX-15_SOBERANIA_INTELECTUAL_ESPECIE_ES_EN.md` | **REVISAR** | volumen EN/ES=1.39 (192/138) |
+| `neoaxiomas/C-NAX-16_NO_CORONACION_PARTE_ES_EN.md` | **REVISAR** | volumen EN/ES=1.66 (174/105) |
+| `neoaxiomas/C-NAX-17_RECONSTRUCCION_SISTEMICA_ES_EN.md` | **REVISAR** | volumen EN/ES=1.52 (201/132) |
+| `neoaxiomas/C-NAX-18_MOTOR_BIEN_COMUN_NEOSINERGIA_ES_EN.md` | **REVISAR** | volumen EN/ES=1.57 (233/148) |
+| `neoaxiomas/C-NAX-19_INVIOLABILIDAD_RELACIONAL_SEPARACION_PLANOS_ES_EN.md` | **REVISAR** | volumen EN/ES=1.38 (199/144) |
 | `neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md` | **OK** |  |
 | `neoaxiomas/README.md` | **OK** |  |
 | `obras/README.md` | **OK** |  |
