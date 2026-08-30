@@ -3,9 +3,11 @@ name: deploy-wiki-source
 on:
   workflow_dispatch:
   push:
+    branches: [main]
     paths:
       - 'wiki-source/**'
       - '.github/workflows/deploy-wiki-source.yml'
+      - '.github/scripts/audit_wiki_source_navigation.py'
 
 permissions:
   contents: write
@@ -18,8 +20,11 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout canonical repository
         uses: actions/checkout@v4
+
+      - name: Audit source Wiki before projection
+        run: python .github/scripts/audit_wiki_source_navigation.py
 
       - name: Clone public Wiki repository
         env:
@@ -28,34 +33,47 @@ jobs:
           set -euo pipefail
           git clone "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.wiki.git" /tmp/innova-wiki
 
-      - name: Project stable wiki-source pages
+      - name: Project exact stable wiki-source surface
         run: |
           set -euo pipefail
-          cp wiki-source/Home.md /tmp/innova-wiki/Home.md
-          cp wiki-source/Mapa_del_Marco.md /tmp/innova-wiki/Mapa_del_Marco.md
-          cp wiki-source/Filosofia_y_NEOCore.md /tmp/innova-wiki/Filosofia_y_NEOCore.md
-          cp wiki-source/Manifiestos.md /tmp/innova-wiki/Manifiestos.md
-          cp wiki-source/Neoaxiomas.md /tmp/innova-wiki/Neoaxiomas.md
-          cp wiki-source/Sintesis_Abierta.md /tmp/innova-wiki/Sintesis_Abierta.md
-          cp wiki-source/Participar.md /tmp/innova-wiki/Participar.md
-          cp wiki-source/Analisis_Neodialecticos_Publicos.md /tmp/innova-wiki/Analisis_Neodialecticos_Publicos.md
-          cp wiki-source/Obras_y_Cultura.md /tmp/innova-wiki/Obras_y_Cultura.md
-          cp wiki-source/WEB4_y_Proyeccion.md /tmp/innova-wiki/WEB4_y_Proyeccion.md
-          cp wiki-source/Procedencia_Trazabilidad_y_Legal.md /tmp/innova-wiki/Procedencia_Trazabilidad_y_Legal.md
-          cp wiki-source/_Sidebar.md /tmp/innova-wiki/_Sidebar.md
+          find /tmp/innova-wiki -maxdepth 1 -type f -name '*.md' -delete
+          for src in wiki-source/*.md; do
+            base=$(basename "$src")
+            case "$base" in
+              README.md|DEPLOY_MINIMO.md) continue ;;
+            esac
+            cp "$src" "/tmp/innova-wiki/$base"
+          done
+
+          expected=$(find wiki-source -maxdepth 1 -type f -name '*.md' \
+            ! -name 'README.md' ! -name 'DEPLOY_MINIMO.md' -printf '%f\n' | sort)
+          actual=$(find /tmp/innova-wiki -maxdepth 1 -type f -name '*.md' -printf '%f\n' | sort)
+          if [ "$actual" != "$expected" ]; then
+            echo 'WIKI_PROJECTION_SET_FAILURE'
+            diff -u <(printf '%s\n' "$expected") <(printf '%s\n' "$actual") || true
+            exit 1
+          fi
+          echo "WIKI_PROJECTED_PAGES=$(printf '%s\n' "$actual" | grep -c .)"
+
+      - name: Reject stale hardcoded current-version labels
+        run: |
+          set -euo pipefail
+          if grep -RInE 'NEOCore™?[[:space:]]+(v)?[0-9]+\.[0-9]+' /tmp/innova-wiki/*.md; then
+            echo 'WIKI_HARDCODED_CURRENT_VERSION_FAILURE'
+            exit 1
+          fi
+          echo 'WIKI_VERSION_SOURCE_POLICY=PASS'
 
       - name: Commit and push Wiki if changed
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -euo pipefail
           cd /tmp/innova-wiki
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add Home.md Mapa_del_Marco.md Filosofia_y_NEOCore.md Manifiestos.md Neoaxiomas.md Sintesis_Abierta.md Participar.md Analisis_Neodialecticos_Publicos.md Obras_y_Cultura.md WEB4_y_Proyeccion.md Procedencia_Trazabilidad_y_Legal.md _Sidebar.md
+          git add -A
           if git diff --cached --quiet; then
             echo 'WIKI_ALREADY_SYNCED=1'
             exit 0
           fi
-          git commit -m 'wiki: sync stable framework map from wiki-source'
+          git commit -m 'wiki: proyectar mapa estable completo desde wiki-source'
           git push origin master
