@@ -47,6 +47,24 @@ def raw_trademark_relations(s: str) -> list[str]:
     return sorted(set(found))
 
 
+def raw_named_manifesto_relations(s: str) -> list[str]:
+    """Find canonical manifesto references left as plain text after real links are removed.
+
+    A genealogy such as "Manifiesto XLVII" / "Manifesto XLVII" is itself a
+    navigation declaration.  It must therefore be clickable at the point where
+    it is named, even when the title has no trademark marker and even when the
+    same target is linked later in the cross-reference block.
+    """
+    residual = remove_md_links(s)
+    found = {
+        f'{label} {number}'
+        for label, number in re.findall(
+            r'\b(Manifiesto|Manifesto)\s+([IVXLCDM]+|∞)\b', residual, flags=re.IGNORECASE
+        )
+    }
+    return sorted(found)
+
+
 def validate_local_links(path: Path, line: str, lineno: int) -> None:
     for label, href in MD_LINK_RE.findall(line):
         if href.startswith(('http://', 'https://', '#', 'mailto:')): continue
@@ -93,6 +111,9 @@ for p in files:
             genealogy_lines += 1; raw = line.split(':**', 1)[-1]
             missing = raw_trademark_relations(raw)
             if missing: failures.append(f'{p}:{lineno}: GENEALOGICAL_NAVIGATION_FAILURE: {missing}')
+            bare_manifestos = raw_named_manifesto_relations(raw)
+            if bare_manifestos:
+                failures.append(f'{p}:{lineno}: GENEALOGICAL_NAMED_MANIFESTO_NOT_CLICKABLE: {bare_manifestos}')
             audit_declared_relations(p, line, lineno)
         if line.startswith('**Síntesis Abierta / Open Synthesis:**'):
             synthesis_lines += 1
