@@ -1,9 +1,9 @@
 # Auditoría global de selectores de idioma ES/EN
 # Global ES/EN language-selector audit
 
-**Generada / Generated:** 2026-08-29 22:46 UTC  
-**Páginas ES/EN explícitas auditadas / Explicit ES/EN split pages audited:** **390**  
-**Fallos / Failures:** **1**  
+**Generada / Generated:** 2026-08-30 08:34 UTC  
+**Páginas ES/EN explícitas auditadas / Explicit ES/EN split pages audited:** **391**  
+**Fallos / Failures:** **2**  
 **LANGUAGE_SELECTOR_GATE:** **FAIL**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
@@ -20,12 +20,13 @@ Toda superficie Markdown pública y activa que exponga capas explícitas `ES` y 
 
 ## Resultado
 
-- Páginas auditadas: **390**.
-- Fallos: **1**.
+- Páginas auditadas: **391**.
+- Fallos: **2**.
 - Estado: **FAIL**.
 
 ## Detalle de fallos
 
+- `auditorias/publicas/2026-08-30_reparacion_relacional_manifiestos_iteracion_06_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `manifiestos/deltas/2026-08-29_relacion_genealogica_navegable_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 
 ---
@@ -40,10 +41,11 @@ Every active public Markdown surface exposing explicit `ES` and `EN` layers must
 
 ## Result
 
-- Pages audited: **390**.
-- Failures: **1**.
+- Pages audited: **391**.
+- Failures: **2**.
 - Status: **FAIL**.
 
 ## Failure detail
 
+- `auditorias/publicas/2026-08-30_reparacion_relacional_manifiestos_iteracion_06_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `manifiestos/deltas/2026-08-29_relacion_genealogica_navegable_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector

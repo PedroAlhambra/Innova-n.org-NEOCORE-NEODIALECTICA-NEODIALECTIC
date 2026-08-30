@@ -1,21 +1,23 @@
 # Auditoría global de simetría ES/EN / Global ES/EN symmetry audit
 
-**Fecha / Date:** 2026-08-29  
+**Fecha / Date:** 2026-08-30  
 **Regla / Rule:** **NO COMPRESIÓN / NO COMPRESSION.** Toda superficie editorial bilingüe debe conservar contenido y estructura: títulos, secciones, listas, citas, fórmulas, tablas, cautelas, ejemplos, navegación y llamadas a Síntesis. / Every bilingual editorial surface must preserve content and structure: titles, sections, lists, quotations, formulas, tables, safeguards, examples, navigation and Synthesis calls.
 
 > Los espejos `manifiestos/canonicos/` no se duplican en este recuento: su igualdad con la fuente se valida mediante la auditoría estructural canónica. / `manifiestos/canonicos/` mirrors are not double-counted here: equality with their source is validated by the canonical structural audit.
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **372**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **306**.
-- Fallos estructurales divididos / Split structural failures: **1**.
+- Markdown activo examinado / Active Markdown scanned: **373**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **307**.
+- Fallos estructurales divididos / Split structural failures: **2**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
 
+- `auditorias/publicas/2026-08-30_reparacion_relacional_manifiestos_iteracion_06_ES_EN.md` · ES=401 · EN=424 · ratio=1.06
+  - esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, '')]
 - `manifiestos/85_memoria_capitan_grant_ES_EN.md` · ES=988 · EN=958 · ratio=0.97
   - II: párrafos ES=7 EN=6
   - III: párrafos ES=3 EN=2
@@ -199,6 +201,7 @@
 | `auditorias/publicas/2026-08-29_reparacion_relacional_manifiestos_iteracion_02_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-29_reparacion_relacional_manifiestos_iteracion_04_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-29_reparacion_relacional_manifiestos_iteracion_05_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-08-30_reparacion_relacional_manifiestos_iteracion_06_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, '')] |
 | `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/README.md` | **OK** |  |
