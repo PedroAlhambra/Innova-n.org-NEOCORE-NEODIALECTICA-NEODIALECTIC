@@ -7,9 +7,9 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **374**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **308**.
-- Fallos estructurales divididos / Split structural failures: **2**.
+- Markdown activo examinado / Active Markdown scanned: **375**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **309**.
+- Fallos estructurales divididos / Split structural failures: **3**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -18,6 +18,9 @@
 
 - `auditorias/publicas/2026-08-30_reparacion_relacional_manifiestos_iteracion_06_ES_EN.md` · ES=401 · EN=424 · ratio=1.06
   - esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, '')]
+- `auditorias/publicas/2026-08-30_reparacion_relacional_manifiestos_iteracion_08_ES_EN.md` · ES=339 · EN=242 · ratio=0.71
+  - volumen EN/ES=0.71 (242/339)
+  - esqueleto de encabezados distinto ES=[(3, ''), (3, ''), (3, ''), (3, ''), (3, '')] EN=[(3, ''), (3, ''), (3, ''), (3, '')]
 - `manifiestos/85_memoria_capitan_grant_ES_EN.md` · ES=988 · EN=958 · ratio=0.97
   - II: párrafos ES=7 EN=6
   - III: párrafos ES=3 EN=2
@@ -203,6 +206,7 @@
 | `auditorias/publicas/2026-08-29_reparacion_relacional_manifiestos_iteracion_05_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-30_reparacion_relacional_manifiestos_iteracion_06_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, '')] |
 | `auditorias/publicas/2026-08-30_reparacion_relacional_manifiestos_iteracion_07_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-08-30_reparacion_relacional_manifiestos_iteracion_08_ES_EN.md` | **REVISAR** | volumen EN/ES=0.71 (242/339); esqueleto de encabezados distinto ES=[(3, ''), (3, ''), (3, ''), (3, ''), (3, '')] EN=[(3, ''), (3, ''), (3, ''), (3, '')] |
 | `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/README.md` | **OK** |  |

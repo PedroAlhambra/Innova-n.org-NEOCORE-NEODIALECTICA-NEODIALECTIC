@@ -1,9 +1,9 @@
 # Auditoría global de selectores de idioma ES/EN
 # Global ES/EN language-selector audit
 
-**Generada / Generated:** 2026-08-30 10:08 UTC  
-**Páginas ES/EN explícitas auditadas / Explicit ES/EN split pages audited:** **396**  
-**Fallos / Failures:** **3**  
+**Generada / Generated:** 2026-08-30 10:20 UTC  
+**Páginas ES/EN explícitas auditadas / Explicit ES/EN split pages audited:** **397**  
+**Fallos / Failures:** **4**  
 **LANGUAGE_SELECTOR_GATE:** **FAIL**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
@@ -20,14 +20,15 @@ Toda superficie Markdown pública y activa que exponga capas explícitas `ES` y 
 
 ## Resultado
 
-- Páginas auditadas: **396**.
-- Fallos: **3**.
+- Páginas auditadas: **397**.
+- Fallos: **4**.
 - Estado: **FAIL**.
 
 ## Detalle de fallos
 
 - `auditorias/publicas/2026-08-30_reparacion_relacional_manifiestos_iteracion_06_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `auditorias/publicas/2026-08-30_reparacion_relacional_manifiestos_iteracion_07_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
+- `auditorias/publicas/2026-08-30_reparacion_relacional_manifiestos_iteracion_08_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `manifiestos/deltas/2026-08-29_relacion_genealogica_navegable_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 
 ---
@@ -42,12 +43,13 @@ Every active public Markdown surface exposing explicit `ES` and `EN` layers must
 
 ## Result
 
-- Pages audited: **396**.
-- Failures: **3**.
+- Pages audited: **397**.
+- Failures: **4**.
 - Status: **FAIL**.
 
 ## Failure detail
 
 - `auditorias/publicas/2026-08-30_reparacion_relacional_manifiestos_iteracion_06_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `auditorias/publicas/2026-08-30_reparacion_relacional_manifiestos_iteracion_07_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
+- `auditorias/publicas/2026-08-30_reparacion_relacional_manifiestos_iteracion_08_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 - `manifiestos/deltas/2026-08-29_relacion_genealogica_navegable_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
