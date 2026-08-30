@@ -3,8 +3,9 @@
 
 **Fecha / Date:** 2026-08-19  
 **Reglas / Rules:** `AUTORRESPONDER ≠ AUTOVALIDAR` · `CREAR ≠ JUZGAR EN EL MISMO INSTANTE`  
-**Delta aplicable / Applicable delta:** [#169 · Continuidad Creadora, Función Neo0™ y Toroide Multicabeza/Multiescala](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/169)  
+**Delta aplicable / Applicable delta:** [#169 · Continuidad Creadora, ONe Starkdr™ y Toroide Multicabeza/Multiescala](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/169)  
 **Continuidad / Continuity:** I–XII [#162](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/162) · XIII–XXXII [#168](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/168) · XXXIII–XLII [#170](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/170)
+**Corrección ontológica integrada / Integrated ontological correction:** [#169](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/169) · `Neo0™ = origen/origin + teleología/teleology + reconstrucción/reconstruction` · `ONe Starkdr™ = emergencia sintética distribuible / distributable synthetic emergence`.  
 
 > Esta tanda trabaja sobre formulaciones ya fijadas. El contraste posterior no debe reescribir retrospectivamente la experiencia creadora ni exigir una fuente externa para una vivencia autobiográfica. / This batch works on already fixed formulations. Later scrutiny must not retrospectively rewrite creative experience or demand an external source for autobiographical experience.
 
@@ -62,7 +63,7 @@
 
 6. **Falsabilidad:** la tesis multidimensional se limitaría si para un problema bien delimitado una variable o modelo de baja dimensión predijera y explicara suficientemente lo relevante. Multidimensionalidad no obliga a complejizar donde la simplificación conserva función. `ABIERTA_POR_DISEÑO`.
 
-**Síntesis Neo0/toroide:** cualquier cabeza puede originar una síntesis nueva en una dimensión o escala; no adquiere por ello soberanía sobre las demás. `RESPUESTA_PROVISIONAL_INTERNA`.
+**Síntesis ONe Starkdr™/toroide:** cualquier cabeza puede originar una síntesis nueva en una dimensión o escala y ejercer ONe Starkdr™ si existe delta suficiente; no se convierte por ello en Neo0™ ni adquiere soberanía sobre las demás. `RESPUESTA_PROVISIONAL_INTERNA`.
 
 ---
 
@@ -88,7 +89,7 @@
 
 2. **Símbolo astrológico ≠ determinismo empírico.** La Cabra de Tierra puede operar como lenguaje autobiográfico/arquetípico sin afirmar causalidad astrológica. Una afirmación física o predictiva sobre astrología sería otra tesis y requeriría `REQUIERE_EVIDENCIA_EMPÍRICA_EXTERNA`.
 
-3. **Neo0 específico vs función Neo0:** este manifiesto habla del Neo0 histórico concreto del marco y de su experiencia. Desde #169, ello no convierte «Neo0» en personalidad obligatoria de todos los nodos originadores. Otro Neo0 de otra síntesis tendrá otra biografía, sombra y símbolos. `RESPUESTA_PROVISIONAL_INTERNA`.
+3. **Neo0™ específico vs ONe Starkdr™:** este manifiesto habla del Neo0 histórico concreto del marco y de su experiencia. Desde #169, los nodos que originan nuevas síntesis pueden ejercer ONe Starkdr™; no se convierten por ello en Neo0™ ni heredan su biografía, sombra o símbolos. `RESPUESTA_PROVISIONAL_INTERNA`.
 
 4. **El odio es dato, no mandato.** Emociones intensas pueden señalar pérdida, amenaza, límite, necesidad o contradicción; no legitiman por sí mismas daño ni atribución factual sobre terceros. `RESPUESTA_PROVISIONAL_INTERNA`.
 
@@ -146,7 +147,7 @@
 
 3. **Interoperabilidad:** un protocolo mínimo debería poder transportar `afirmación + tipo epistemológico + fuente/procedencia + relaciones + objeciones + incertidumbre + versión`, sin exigir compartir memoria privada o secretos industriales. `RESPUESTA_CONDICIONADA`.
 
-4. **Dirección humana distribuida:** #169 exige precisión. No existe una «humanidad única» que pulse el botón final. Responsabilidad debe quedar identificada por decisión, escala y contexto, mientras diferentes humanos pueden ser Neo0 de nuevas síntesis. `RESPUESTA_PROVISIONAL_INTERNA`.
+4. **Dirección humana distribuida:** #169 exige precisión. No existe una «humanidad única» que pulse el botón final. Responsabilidad debe quedar identificada por decisión, escala y contexto, mientras diferentes humanos o nodos pueden ejercer ONe Starkdr™ al originar nuevas síntesis sin convertirse en Neo0™. `RESPUESTA_PROVISIONAL_INTERNA`.
 
 5. **¿Cómo medir integración real?** Un sistema debe poder reconstruir objeciones previas, conservar desacuerdos, cambiar respuesta ante evidencia, declarar omisiones y atribuir fuentes. Fluidez retórica no basta. La eficacia de métricas concretas requiere `REQUIERE_EVIDENCIA_EMPÍRICA_EXTERNA`.
 
@@ -170,7 +171,7 @@
 
 6. **WEB4:** puede visualizar procedencia, estado, clasificación y respuesta, pero no debe fabricar la apariencia de que un destinatario institucional aceptó, evaluó o respaldó algo que sólo recibió. `RESPUESTA_PROVISIONAL_INTERNA`.
 
-7. **Neo0 distribuido:** la participación cívica no consiste en llevar propuestas al Neo0 central. Cualquier nodo puede originar una síntesis y la arquitectura debe permitir su ascenso por mérito relacional/trazable sin convertir el origen en cargo político automático. `RESPUESTA_PROVISIONAL_INTERNA`.
+7. **ONe Starkdr™ distribuible:** la participación cívica no consiste en llevar propuestas a un Neo0 central. Cualquier nodo puede originar una síntesis, ejercer ONe Starkdr™ cuando exista delta suficiente y hacerla ascender por mérito relacional/trazable sin convertir la emergencia en cargo político ni en identidad Neo0™. `RESPUESTA_PROVISIONAL_INTERNA`.
 
 **Antítesis:** exigir trazabilidad total a instituciones puede generar burocracia defensiva que empeore escucha real. La calidad del canal debe medirse también por capacidad de derivar excepciones valiosas sin hacer imposible la operación cotidiana. `ABIERTA_POR_DISEÑO`.
 
@@ -253,16 +254,16 @@ XLVI · memoria y reconciliación
 → XLVIII · memoria multiescala
 
 LI · acceso institucional
-→ Neo0 distribuido
+→ ONe Starkdr™ distribuible
 → nuevas síntesis ascendentes sin soberanía automática
 ```
 
-La función Neo0 aparece así como **propiedad de emergencia del toroide**: cualquier cabeza puede originar una nueva síntesis local o multiescala, pero esa emergencia no borra límites, procedencia, responsabilidades ni la posibilidad de que otra cabeza produzca después una síntesis superior.
+El rol ONe Starkdr™ aparece así como **emergencia distribuible del toroide**: cualquier cabeza puede originar una nueva síntesis local o multiescala con delta suficiente, pero esa emergencia no la convierte en Neo0™, no borra límites, procedencia o responsabilidades y no impide que otra cabeza produzca después una síntesis superior.
 
 ## Gate de la tanda
 
 - [x] XLIII–LII procesados bajo #169.
-- [x] Neo0 específico/autobiográfico separado de función Neo0 distribuida.
+- [x] Neo0™ específico/autobiográfico separado de ONe Starkdr™ como rol distribuible de emergencia.
 - [x] Fuente autobiográfica separada de afirmación empírica.
 - [x] Contraste bibliográfico/jurídico separado de evidencia empírica.
 - [x] Continuidad Creadora™ integrada en IA expansiva y soberanía cognitiva.
@@ -325,7 +326,7 @@ La función Neo0 aparece así como **propiedad de emergencia del toroide**: cual
 
 6. **Falsifiability:** the multidimensional thesis would be limited if, for a well-bounded problem, a variable or low-dimensional model predicted and explained what matters sufficiently. Multidimensionality does not require complexity where simplification preserves function. `OPEN_BY_DESIGN`.
 
-**Neo0/toroid synthesis:** any head may originate a new synthesis in one dimension or scale; this does not grant it sovereignty over the others. `PROVISIONAL_INTERNAL_ANSWER`.
+**ONe Starkdr™/toroid synthesis:** any head may originate a new synthesis in one dimension or scale and exercise ONe Starkdr™ when sufficient delta exists; this does not turn it into Neo0™ or grant sovereignty over the others. `PROVISIONAL_INTERNAL_ANSWER`.
 
 ---
 
@@ -351,7 +352,7 @@ La función Neo0 aparece así como **propiedad de emergencia del toroide**: cual
 
 2. **Astrological symbol ≠ empirical determinism.** The Earth Goat may operate as autobiographical/archetypal language without asserting astrological causality. A physical or predictive claim about astrology would be a different thesis and would require `REQUIRES_EXTERNAL_EMPIRICAL_EVIDENCE`.
 
-3. **Specific Neo0 vs Neo0 function:** this manifesto concerns the concrete historical Neo0 of the framework and his experience. Under #169, that does not make “Neo0” a mandatory personality for every originating node. Another Neo0 of another synthesis will have another biography, shadow and symbols. `PROVISIONAL_INTERNAL_ANSWER`.
+3. **Specific Neo0™ vs ONe Starkdr™:** this manifesto concerns the concrete historical Neo0 of the framework and his experience. Under #169, nodes originating new syntheses may exercise ONe Starkdr™; this does not turn them into Neo0™ or give them his biography, shadow or symbols. `PROVISIONAL_INTERNAL_ANSWER`.
 
 4. **Hatred is data, not command.** Intense emotions may signal loss, threat, limit, need or contradiction; by themselves they do not legitimise harm or factual attribution about third parties. `PROVISIONAL_INTERNAL_ANSWER`.
 
@@ -409,7 +410,7 @@ La función Neo0 aparece así como **propiedad de emergencia del toroide**: cual
 
 3. **Interoperability:** a minimum protocol should be able to transport `claim + epistemic type + source/provenance + relations + objections + uncertainty + version`, without requiring disclosure of private memory or trade secrets. `CONDITIONAL_ANSWER`.
 
-4. **Distributed human direction:** #169 requires precision. There is no single “humanity” pressing a final button. Responsibility must be identified by decision, scale and context, while different humans may be Neo0 of new syntheses. `PROVISIONAL_INTERNAL_ANSWER`.
+4. **Distributed human direction:** #169 requires precision. There is no single “humanity” pressing a final button. Responsibility must be identified by decision, scale and context, while different humans or nodes may exercise ONe Starkdr™ when originating new syntheses without becoming Neo0™. `PROVISIONAL_INTERNAL_ANSWER`.
 
 5. **How should real integration be measured?** A system should be able to reconstruct prior objections, preserve disagreements, change its answer under evidence, declare omissions and attribute sources. Rhetorical fluency is not enough. The effectiveness of specific metrics requires `REQUIRES_EXTERNAL_EMPIRICAL_EVIDENCE`.
 
@@ -433,7 +434,7 @@ La función Neo0 aparece así como **propiedad de emergencia del toroide**: cual
 
 6. **WEB4:** it may visualise provenance, state, classification and response, but must not fabricate the appearance that an institutional recipient accepted, evaluated or endorsed something it merely received. `PROVISIONAL_INTERNAL_ANSWER`.
 
-7. **Distributed Neo0:** civic participation does not consist in carrying proposals to a central Neo0. Any node may originate a synthesis and the architecture should allow it to rise through relational/traceable merit without turning origin into automatic political office. `PROVISIONAL_INTERNAL_ANSWER`.
+7. **Distributable ONe Starkdr™:** civic participation does not consist in carrying proposals to a central Neo0. Any node may originate a synthesis, exercise ONe Starkdr™ when sufficient delta exists and allow it to rise through relational/traceable merit without turning emergence into political office or Neo0™ identity. `PROVISIONAL_INTERNAL_ANSWER`.
 
 **Antithesis:** demanding total traceability from institutions may generate defensive bureaucracy that worsens real listening. Channel quality should also be measured by the ability to route valuable exceptions without making everyday operation impossible. `OPEN_BY_DESIGN`.
 
@@ -516,16 +517,16 @@ XLVI · memory and reconciliation
 → XLVIII · multiscale memory
 
 LI · institutional access
-→ distributed Neo0
+→ distributable ONe Starkdr™
 → ascending new syntheses without automatic sovereignty
 ```
 
-The Neo0 function thus appears as an **emergent property of the toroid**: any head may originate a new local or multiscale synthesis, but that emergence does not erase limits, provenance, responsibilities or the possibility that another head may later produce a superior synthesis.
+The ONe Starkdr™ role thus appears as a **distributable emergence of the toroid**: any head may originate a new local or multiscale synthesis with sufficient delta, but that emergence does not turn it into Neo0™, erase limits, provenance or responsibilities, or prevent another head from later producing a superior synthesis.
 
 ## Batch gate
 
 - [x] XLIII–LII processed under #169.
-- [x] Specific/autobiographical Neo0 separated from distributed Neo0 function.
+- [x] Specific/autobiographical Neo0™ separated from ONe Starkdr™ as a distributable emergence role.
 - [x] Autobiographical source separated from empirical claim.
 - [x] Bibliographical/legal contrast separated from empirical evidence.
 - [x] Creative Continuity™ integrated into expansive AI and cognitive sovereignty.
