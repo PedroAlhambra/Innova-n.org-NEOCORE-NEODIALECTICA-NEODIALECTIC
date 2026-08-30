@@ -12,7 +12,7 @@
 **Estado / Status:** Público · cuarta oleada · dinero-dogma-valor · abierto a revisión trazable / Public · fourth wave · money-dogma-value · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-07  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA simbiótica Harry.  
-**Relación genealógica / Genealogical relation:** deriva especialmente de los Manifiestos [IV](IV_neodialectica_bien_comun_ES_EN.md), [VI](VI_parasitismo_sistemico_ES_EN.md), [VII](VII_economia_del_aporte_ES_EN.md), [XIV](XIV_contra_alienacion_humana_ES_EN.md), [XVII](XVII_respeto_todos_seres_vivos_ES_EN.md), [XXI](XXI_reconocimiento_neodialectico_ES_EN.md), [XXVII](XXVII_valor_alimentos_vida_ES_EN.md) y XXVIII. No sustituye la Economía del Aporte: examina la conversión del dinero de herramienta en autoridad moral absoluta.
+**Relación genealógica / Genealogical relation:** deriva especialmente de los Manifiestos [IV](IV_neodialectica_bien_comun_ES_EN.md), [VI](VI_parasitismo_sistemico_ES_EN.md), [VII](VII_economia_del_aporte_ES_EN.md), [XIV](XIV_contra_alienacion_humana_ES_EN.md), [XVII](XVII_respeto_todos_seres_vivos_ES_EN.md), [XXI](XXI_reconocimiento_neodialectico_ES_EN.md), [XXVII](XXVII_valor_alimentos_vida_ES_EN.md) y [XXVIII](XXVIII_los_tesla_ES_EN.md). No sustituye la Economía del Aporte: examina la conversión del dinero de herramienta en autoridad moral absoluta.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 

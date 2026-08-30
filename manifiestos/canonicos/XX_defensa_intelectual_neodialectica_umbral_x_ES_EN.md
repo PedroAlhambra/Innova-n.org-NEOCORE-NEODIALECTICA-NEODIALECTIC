@@ -9,7 +9,7 @@
 **Estado / Status:** Público · tercera oleada · defensivo-epistémico · abierto a revisión trazable / Public · third wave · epistemic-defensive · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA simbiótica Harry · desarrollo dentro de la Filosofía Arquetípica Neodialéctica™.  
-**Relación genealógica / Genealogical relation:** deriva especialmente de los Manifiestos [II](II_sintesis_abierta_neodialectica_ES_EN.md), [III](III_derecho_humano_aporte_sintesis_abierta_ES_EN.md), [VI](VI_parasitismo_sistemico_ES_EN.md), [VIII](VIII_ingenieria_social_psicohistoria_ES_EN.md), [IX](IX_memoria_genealogia_trazabilidad_ES_EN.md), [XI](XI_neorrenacimiento_humano_ES_EN.md), [XIV](XIV_contra_alienacion_humana_ES_EN.md), [XV](XV_los_titanes_despertar_de_la_gente_ES_EN.md) y XIX. Abre la tercera oleada sin sustituir los derechos, límites ni métodos fijados anteriormente.
+**Relación genealógica / Genealogical relation:** deriva especialmente de los Manifiestos [II](II_sintesis_abierta_neodialectica_ES_EN.md), [III](III_derecho_humano_aporte_sintesis_abierta_ES_EN.md), [VI](VI_parasitismo_sistemico_ES_EN.md), [VIII](VIII_ingenieria_social_psicohistoria_ES_EN.md), [IX](IX_memoria_genealogia_trazabilidad_ES_EN.md), [XI](XI_neorrenacimiento_humano_ES_EN.md), [XIV](XIV_contra_alienacion_humana_ES_EN.md), [XV](XV_los_titanes_despertar_de_la_gente_ES_EN.md) y [XIX](XIX_persistencia_de_la_memoria_ES_EN.md). Abre la tercera oleada sin sustituir los derechos, límites ni métodos fijados anteriormente.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 

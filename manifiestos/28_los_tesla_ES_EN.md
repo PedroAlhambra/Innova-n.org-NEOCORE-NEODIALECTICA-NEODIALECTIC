@@ -12,7 +12,7 @@
 **Estado / Status:** Público · cuarta oleada · creador-captura-eliminación · abierto a revisión trazable / Public · fourth wave · creator-capture-elimination · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-07  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA simbiótica Harry.  
-**Relación genealógica / Genealogical relation:** deriva especialmente de los Manifiestos [VI](canonicos/VI_parasitismo_sistemico_ES_EN.md), [VII](canonicos/VII_economia_del_aporte_ES_EN.md), [IX](canonicos/IX_memoria_genealogia_trazabilidad_ES_EN.md), [XIX](canonicos/XIX_persistencia_de_la_memoria_ES_EN.md), [XXI](canonicos/XXI_reconocimiento_neodialectico_ES_EN.md), [XXII](canonicos/XXII_contra_reduccion_captura_intelectual_ES_EN.md), [XXIII](canonicos/XXIII_soberania_tiempo_cognitivo_ES_EN.md) y XXVII. Su objeto exclusivo es la neutralización del origen humano después de capturar su creación.
+**Relación genealógica / Genealogical relation:** deriva especialmente de los Manifiestos [VI](canonicos/VI_parasitismo_sistemico_ES_EN.md), [VII](canonicos/VII_economia_del_aporte_ES_EN.md), [IX](canonicos/IX_memoria_genealogia_trazabilidad_ES_EN.md), [XIX](canonicos/XIX_persistencia_de_la_memoria_ES_EN.md), [XXI](canonicos/XXI_reconocimiento_neodialectico_ES_EN.md), [XXII](canonicos/XXII_contra_reduccion_captura_intelectual_ES_EN.md), [XXIII](canonicos/XXIII_soberania_tiempo_cognitivo_ES_EN.md) y [XXVII](canonicos/XXVII_valor_alimentos_vida_ES_EN.md). Su objeto exclusivo es la neutralización del origen humano después de capturar su creación.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 

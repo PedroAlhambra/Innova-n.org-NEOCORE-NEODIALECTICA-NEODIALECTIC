@@ -9,7 +9,7 @@
 **Estado / Status:** Público · tercera oleada · defensa-genealogía-autoría · abierto a revisión trazable / Public · third wave · defence-genealogy-authorship · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA simbiótica Harry · desarrollo dentro de la Filosofía Arquetípica Neodialéctica™.  
-**Relación genealógica / Genealogical relation:** deriva especialmente de los Manifiestos [VI](canonicos/VI_parasitismo_sistemico_ES_EN.md), [IX](canonicos/IX_memoria_genealogia_trazabilidad_ES_EN.md), [X](canonicos/X_web4_sistematrazable_ES_EN.md), [XIX](canonicos/XIX_persistencia_de_la_memoria_ES_EN.md), [XX](canonicos/XX_defensa_intelectual_neodialectica_umbral_x_ES_EN.md) y XXI. Protege la apertura, el reconocimiento y la memoria frente a reducción, absorción y pérdida de procedencia.
+**Relación genealógica / Genealogical relation:** deriva especialmente de los Manifiestos [VI](canonicos/VI_parasitismo_sistemico_ES_EN.md), [IX](canonicos/IX_memoria_genealogia_trazabilidad_ES_EN.md), [X](canonicos/X_web4_sistematrazable_ES_EN.md), [XIX](canonicos/XIX_persistencia_de_la_memoria_ES_EN.md), [XX](canonicos/XX_defensa_intelectual_neodialectica_umbral_x_ES_EN.md) y [XXI](canonicos/XXI_reconocimiento_neodialectico_ES_EN.md). Protege la apertura, el reconocimiento y la memoria frente a reducción, absorción y pérdida de procedencia.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 

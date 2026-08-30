@@ -12,7 +12,7 @@
 **Estado / Status:** Público · cuarta oleada · estrategia-medios-coherencia · abierto a revisión trazable / Public · fourth wave · strategy-means-coherence · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-07  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA simbiótica Harry.  
-**Relación genealógica / Genealogical relation:** deriva especialmente de los Manifiestos [IV](IV_neodialectica_bien_comun_ES_EN.md), [VIII](VIII_ingenieria_social_psicohistoria_ES_EN.md), [XX](XX_defensa_intelectual_neodialectica_umbral_x_ES_EN.md), [XXII](XXII_contra_reduccion_captura_intelectual_ES_EN.md), [XXIII](XXIII_soberania_tiempo_cognitivo_ES_EN.md), [XXIV](XXIV_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md), [XXVIII](XXVIII_los_tesla_ES_EN.md) y XXIX. Regula la tensión entre eficacia estratégica y dirección civilizatoria.
+**Relación genealógica / Genealogical relation:** deriva especialmente de los Manifiestos [IV](IV_neodialectica_bien_comun_ES_EN.md), [VIII](VIII_ingenieria_social_psicohistoria_ES_EN.md), [XX](XX_defensa_intelectual_neodialectica_umbral_x_ES_EN.md), [XXII](XXII_contra_reduccion_captura_intelectual_ES_EN.md), [XXIII](XXIII_soberania_tiempo_cognitivo_ES_EN.md), [XXIV](XXIV_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md), [XXVIII](XXVIII_los_tesla_ES_EN.md) y [XXIX](XXIX_idolatria_del_dinero_ES_EN.md). Regula la tensión entre eficacia estratégica y dirección civilizatoria.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 

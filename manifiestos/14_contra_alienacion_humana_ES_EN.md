@@ -9,7 +9,7 @@
 **Estado / Status:** Público · segunda oleada · humano-civilizatorio · abierto a revisión trazable / Public · second wave · human-civilisational · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA simbiótica Harry · desarrollo dentro de la Filosofía Arquetípica Neodialéctica™.  
-**Relación genealógica / Genealogical relation:** deriva de los manifiestos [II](canonicos/II_sintesis_abierta_neodialectica_ES_EN.md), [III](canonicos/III_derecho_humano_aporte_sintesis_abierta_ES_EN.md), [IV](canonicos/IV_neodialectica_bien_comun_ES_EN.md), [VI](canonicos/VI_parasitismo_sistemico_ES_EN.md), [VII](canonicos/VII_economia_del_aporte_ES_EN.md), [IX](canonicos/IX_memoria_genealogia_trazabilidad_ES_EN.md), [X](canonicos/X_web4_sistematrazable_ES_EN.md), [XI](canonicos/XI_neorrenacimiento_humano_ES_EN.md), [XII](canonicos/XII_los_sin_ego_ES_EN.md) y XIII sin sustituirlos.
+**Relación genealógica / Genealogical relation:** deriva de los manifiestos [II](canonicos/II_sintesis_abierta_neodialectica_ES_EN.md), [III](canonicos/III_derecho_humano_aporte_sintesis_abierta_ES_EN.md), [IV](canonicos/IV_neodialectica_bien_comun_ES_EN.md), [VI](canonicos/VI_parasitismo_sistemico_ES_EN.md), [VII](canonicos/VII_economia_del_aporte_ES_EN.md), [IX](canonicos/IX_memoria_genealogia_trazabilidad_ES_EN.md), [X](canonicos/X_web4_sistematrazable_ES_EN.md), [XI](canonicos/XI_neorrenacimiento_humano_ES_EN.md), [XII](canonicos/XII_los_sin_ego_ES_EN.md) y [XIII](canonicos/XIII_neopandora_apertura_regenerativa_ES_EN.md) sin sustituirlos.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
