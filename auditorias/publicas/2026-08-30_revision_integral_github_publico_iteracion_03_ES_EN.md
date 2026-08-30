@@ -1,10 +1,10 @@
 # Revisión integral GitHub público · Iteración 03
 # Integral public GitHub review · Iteration 03
 
-**Fecha / Date:** 2026-08-30  
-**Baseline:** `4bd998f8b386dca08287801dc2c55e1318fc7f3b`  
-**Rama de reparación / Repair branch:** `fix/maxproc-lxxxv-symmetry-20260830`  
-**Head material:** `26f130c3d720ea5c6eca6cdd56d146188ad3f32d`  
+**Fecha / Date:** 2026-08-30
+**Baseline:** `4bd998f8b386dca08287801dc2c55e1318fc7f3b`
+**Rama de reparación / Repair branch:** `fix/maxproc-lxxxv-symmetry-20260830`
+**Head material:** `26f130c3d720ea5c6eca6cdd56d146188ad3f32d`
 **Tipo / Type:** MAXPROC · reparación pública con revisión por PR; NO_WEB4 · NO_HOSTALIA · NO_PRIVATE / public repair under PR review; NO_WEB4 · NO_HOSTALIA · NO_PRIVATE
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
