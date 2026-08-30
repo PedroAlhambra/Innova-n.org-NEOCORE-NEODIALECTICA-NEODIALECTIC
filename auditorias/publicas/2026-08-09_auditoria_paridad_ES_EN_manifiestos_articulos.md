@@ -12,7 +12,7 @@
 - Los bloques generados de navegación, relaciones compartidas, referencias cruzadas y colas de navegación específicas de idioma no se contabilizan como traducción.
 - `REVISAR` bloquea la publicación automática de manifiestos; `ADVERTENCIA` exige inspección editorial pero no demuestra por sí sola recorte.
 
-**Documentos bilingües examinados:** 114  
+**Documentos bilingües examinados:** 115  
 **Recortes/materialmente asimétricos para revisión:** 0  
 **Advertencias estructurales sin prueba suficiente de recorte:** 0  
 **Con marcador incompleto/ausente:** 0
@@ -100,7 +100,7 @@
 | `manifiestos/64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md` | 838 | 813 | 0.97 | 14 | 14 | OK |
 | `manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md` | 912 | 910 | 1.00 | 14 | 14 | OK |
 | `manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md` | 1651 | 1636 | 0.99 | 14 | 14 | OK |
-| `manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md` | 1167 | 1195 | 1.02 | 13 | 13 | OK |
+| `manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md` | 1348 | 1369 | 1.02 | 14 | 14 | OK |
 | `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md` | 1435 | 1764 | 1.23 | 15 | 16 | OK |
 | `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` | 1453 | 1552 | 1.07 | 17 | 18 | OK |
 | `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` | 1487 | 1585 | 1.07 | 18 | 19 | OK |
@@ -118,6 +118,7 @@
 | `manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md` | 398 | 473 | 1.19 | 8 | 9 | OK |
 | `manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md` | 743 | 726 | 0.98 | 10 | 10 | OK |
 | `manifiestos/84_intermediacion_acceso_permeabilidad_poder_ES_EN.md` | 1045 | 1024 | 0.98 | 12 | 12 | OK |
+| `manifiestos/85_memoria_capitan_grant_ES_EN.md` | 988 | 1132 | 1.15 | 10 | 11 | OK |
 | `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | 2112 | 2116 | 1.00 | 13 | 13 | OK |
 | `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` | 611 | 611 | 1.00 | 1 | 1 | OK |
 | `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` | 3237 | 3128 | 0.97 | 29 | 29 | OK |
