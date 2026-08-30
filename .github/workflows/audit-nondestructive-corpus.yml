@@ -1,0 +1,78 @@
+name: Audit non-destructive corpus maintenance
+
+on:
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - 'manifiestos/**'
+      - 'neoaxiomas/**'
+      - 'propuestas/sintesis-abierta/**'
+      - 'versiones/**'
+      - 'auditorias/**'
+      - '.github/workflows/audit-nondestructive-corpus.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'manifiestos/**'
+      - 'neoaxiomas/**'
+      - 'propuestas/sintesis-abierta/**'
+      - 'versiones/**'
+      - 'auditorias/**'
+      - '.github/workflows/audit-nondestructive-corpus.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  nondestructive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Protect existing corpus from destructive maintenance
+        shell: bash
+        run: |
+          set -euo pipefail
+          base="$(git rev-parse HEAD^ 2>/dev/null || true)"
+          [ -n "$base" ] || exit 0
+
+          protected='^(manifiestos/|neoaxiomas/|propuestas/sintesis-abierta/|versiones/|auditorias/)'
+          while IFS=$'\t' read -r status path rest; do
+            [[ "$path" =~ $protected ]] || continue
+
+            if [[ "$status" == D* ]]; then
+              echo "NON_DESTRUCTIVE_FAILURE: protected corpus file deleted: $path" >&2
+              exit 1
+            fi
+
+            if [[ "$status" == M* ]] && git cat-file -e "$base:$path" 2>/dev/null && git cat-file -e "HEAD:$path" 2>/dev/null; then
+              old_size="$(git cat-file -s "$base:$path")"
+              new_size="$(git cat-file -s "HEAD:$path")"
+              if [ "$old_size" -ge 1024 ] && [ $((new_size * 100)) -lt $((old_size * 65)) ]; then
+                echo "NON_DESTRUCTIVE_FAILURE: suspicious shrinkage in $path ($old_size -> $new_size bytes)." >&2
+                echo "A maintenance loop may not replace a complete source from a truncated read or summary." >&2
+                exit 1
+              fi
+            fi
+          done < <(git diff --name-status "$base" HEAD)
+
+      - name: Protect Neoaxiom reading routes
+        shell: bash
+        run: |
+          set -euo pipefail
+          f=neoaxiomas/README.md
+          test -s "$f"
+          # Existing formal content is never replaceable by its relational index.
+          grep -Fq 'Regla heredada de integridad no reductiva' "$f"
+          grep -Fq 'Inherited non-reductive integrity rule' "$f"
+          for n in $(seq -w 1 14); do
+            grep -Eq "^## NAX-${n} ·" "$f"
+          done
+          for n in $(seq 15 26); do
+            grep -Eq "^### C-NAX-${n} ·" "$f"
+          done
+
+      - name: Diff integrity
+        run: git diff --check HEAD^
