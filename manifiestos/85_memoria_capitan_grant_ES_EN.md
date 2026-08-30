@@ -187,7 +187,9 @@ Grant did not defend a perfect world.
 
 The Union he defended contained inequality, racism, violence, economic interests, corruption, constitutional contradictions and a history of Indigenous dispossession. Yet the Confederacy's political rupture was inseparable from the preservation of slavery.
 
-The historical choice was not between perfection and imperfection. It was between possible worlds.
+The historical choice was not between perfection and imperfection.
+
+It was between possible worlds.
 
 Our open neodialectical reading is:
 
@@ -200,6 +202,8 @@ Preservation does not mean canonisation. A structure may need to be preserved pr
 Appomattox matters not only because a decisive campaign ended there, but because of what followed victory.
 
 Grant offered surrender terms that allowed Confederate soldiers to return home. War had to end without necessarily turning military defeat into permanent humiliation.
+
+From this emerges a rule:
 
 ```text
 VICTORY ≠ HUMILIATION
@@ -225,6 +229,17 @@ Grant had limits, errors and contradictions. His administration was marked by ma
 Erasing this to glorify him would defeat the purpose of the manifesto.
 
 Neodialectical memory manufactures no saints.
+
+```text
+MEMORY
+→ CONTEXT
+→ CONTRIBUTION
+→ CONTRADICTION
+→ ERROR
+→ CORRECTION
+→ RELATION
+→ OPEN_SYNTHESIS
+```
 
 ### VI. The custodian exposed to the system he preserved
 
@@ -252,7 +267,9 @@ His final campaign had no army.
 
 It had pages.
 
-He was no longer fighting to preserve the Union. He was fighting for his family, his memory and the possibility of leaving value behind.
+He was no longer fighting to preserve the Union.
+
+He was fighting for his family, his memory and the possibility of leaving value behind.
 
 ### VIII. Grant read by others
 
@@ -271,6 +288,20 @@ Socrates and Grant did not live the same history and must not be conflated.
 The proposed relation is archetypal.
 
 Socrates lets us question the tension between individual conscience and the polis. Grant lets us question the tension between a person who preserves a political order and the inadequacies of the order preserved.
+
+```text
+INDIVIDUAL
+→ SERVICE_TO_AN_ORDER
+→ PERSONAL_COST
+→ THE_ORDER_CONTINUES
+→ THE_INDIVIDUAL_REMAINS_EXPOSED_TO_ITS_DEFECTS
+→ MEMORY
+→ CORRECTION_OF_THE_ORDER
+```
+
+The question is not whether the two were the same.
+
+The question is:
 
 > **What legitimacy can a civilisation reach if it asks some human beings to sustain it but fails to learn from what later happens to them?**
 
