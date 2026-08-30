@@ -24,6 +24,7 @@ Cuatro superficies bilingües activas contenían capas ES y EN con encabezados v
 - La iteración 06 apunta a sus primeros encabezados reales `ES · Estado inicial` y `EN · Initial state`; no se inventaron anchors genéricos.
 - Los workflows de sincronización y reparación genealógica bloquean ahora el commit si falla `audit_language_selectors.py`.
 - El auditor de registro canónico deja de generar espacios finales en metadatos, evitando que su propia evidencia falle `git diff --check`.
+- El guard no destructivo conserva su protección contra borrado para toda auditoría, pero excluye del umbral de reducción únicamente el informe regenerable de selectores: pasar de cuatro fallos a cero ya no se confunde con truncar doctrina.
 
 ### Archivos materiales
 
@@ -34,6 +35,7 @@ Cuatro superficies bilingües activas contenían capas ES y EN con encabezados v
 - `.github/workflows/sync-manifesto-crossrefs.yml`
 - `.github/workflows/repair-manifesto-genealogical-links.yml`
 - `.github/scripts/audit_manifesto_registry_completeness.py`
+- `.github/workflows/audit-nondestructive-corpus.yml`
 
 ### Pruebas frescas
 
@@ -46,6 +48,7 @@ Cuatro superficies bilingües activas contenían capas ES y EN con encabezados v
 - `WIKI_PARITY`: PASS · 15 páginas de `wiki-source` alcanzables; la proyección mínima verificada conserva 12 páginas publicadas.
 - Guard ontológico: PASS · 529 superficies; Neo0™ y ONe Starkdr™ conservan funciones distintas.
 - `git diff --check`: PASS.
+- Postcheck de CI: el primer head reveló `NON_DESTRUCTIVE_FAILURE` por la reducción legítima del informe; la excepción cerrada preserva el bloqueo de borrados y el umbral de reducción para el resto del corpus.
 
 ### Residuos bloqueantes
 
@@ -71,6 +74,7 @@ Four active bilingual surfaces contained valid ES and EN layers, but lacked a vi
 - Iteration 06 targets its actual first headings, `ES · Estado inicial` and `EN · Initial state`; no generic anchors were invented.
 - Genealogical synchronisation and repair workflows now block their commit when `audit_language_selectors.py` fails.
 - The canonical-registry auditor no longer generates trailing spaces in metadata, preventing its own evidence from failing `git diff --check`.
+- The non-destructive guard retains deletion protection for every audit, while excluding only the regenerable selector report from the shrinkage threshold: moving from four failures to zero is no longer confused with doctrinal truncation.
 
 ### Material files
 
@@ -81,6 +85,7 @@ Four active bilingual surfaces contained valid ES and EN layers, but lacked a vi
 - `.github/workflows/sync-manifesto-crossrefs.yml`
 - `.github/workflows/repair-manifesto-genealogical-links.yml`
 - `.github/scripts/audit_manifesto_registry_completeness.py`
+- `.github/workflows/audit-nondestructive-corpus.yml`
 
 ### Fresh tests
 
@@ -93,6 +98,7 @@ Four active bilingual surfaces contained valid ES and EN layers, but lacked a vi
 - `WIKI_PARITY`: PASS · 15 `wiki-source` pages reachable; the verified minimum projection retains 12 published pages.
 - Ontological guard: PASS · 529 surfaces; Neo0™ and ONe Starkdr™ retain distinct roles.
 - `git diff --check`: PASS.
+- CI postcheck: the first head exposed `NON_DESTRUCTIVE_FAILURE` on the legitimate report reduction; the narrow exception preserves deletion blocking and the shrinkage threshold for the rest of the corpus.
 
 ### Blocking residue
 
