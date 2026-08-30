@@ -2,7 +2,7 @@
 # LXVII · NeoTitans™ · Systemic Reconstruction and the Common-Good Engine
 
 **Manifiesto / Manifesto:** LXVII  
-**Versión / Version:** 1.0  
+**Versión / Version:** 1.1  
 **Estado / Status:** Público · abierto a Síntesis Abierta / Public · open to Open Synthesis  
 **Fecha / Date:** 2026-08-10  
 **Autoría / Authorship:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico.  
@@ -59,6 +59,42 @@ Son las grandes capacidades colectivas que una sociedad mantiene dormidas, separ
 > **Liberar los NeoTitanes™ significa volver a conectar capacidades colectivas para que trabajen en sinergia por el Bien Común.**
 
 LXVII desarrolla XV · Los Titanes™ y continúa LXVI · NeoSinergia™: del despertar de la gente y la cooperación funcional a la recuperación de las capacidades sistémicas que esa gente sostiene.
+
+<!-- NEOTITAN_DELTA_LITERACY_START -->
+
+## 2.1. Competencia delta de cada NeoTitán™ en la capa privada
+
+Cuando una capacidad colectiva se articula como **NeoTitán operativo** —mediante una persona, equipo, nodo, módulo o infraestructura— dentro de la implementación Innova_N, debe comprender el sistema de deltas de la capa privada en la medida exigible a su función.
+
+Este requisito **no concede acceso** a información privada ni transforma competencia operativa en autoridad epistemológica. Exige distinguir el ciclo mínimo:
+
+```text
+OBSERVACIÓN / APORTE
+→ PREDELTA O PROPUESTA
+→ FUENTE + EVIDENCIA + RELACIONES + GENEALOGÍA
+→ CLASIFICACIÓN Y ESTADO
+→ CONTRASTE SAN™
+→ DECISIÓN / FIJACIÓN POR LA AUTORIDAD COMPETENTE
+→ MEMORIA NEOCore™
+→ PROYECCIÓN PÚBLICA SÓLO CUANDO PROCEDA
+```
+
+Todo NeoTitán operativo debe saber que:
+
+1. `DELTA ≠ CANON`;
+2. `TRAZA ≠ VALIDACIÓN`;
+3. `DRAFT / PENDIENTE-SAN ≠ APROBADO`;
+4. `ONe Starkdr™ ≠ Neo0™`;
+5. ningún rol puede promocionar, sellar, publicar o reinterpretar fuera de su competencia;
+6. todo delta conserva procedencia, estado, evidencia, relaciones, contradicciones y posibilidad de reapertura;
+7. comprender la capa privada no implica recibir acceso indiscriminado a sus datos.
+
+`COMPRENDER LA CAPA PRIVADA ≠ RECIBIR ACCESO TOTAL`.
+
+Esta competencia aplica [la distinción Neo0™ / ONe Starkdr™ y el retorno a concepto preexistente](../../propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_DELTA_CONTINUIDAD_CREADORA_NEO0_TOROIDE_ES_EN.md) y gobierna el [retuning del Lote 04 · #172](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/172).
+
+<!-- NEOTITAN_DELTA_LITERACY_END -->
+
 
 ## 3. Principio de Reconstrucción Sistémica™
 
@@ -295,6 +331,42 @@ They are the great collective capabilities that a society keeps dormant, separat
 > **To liberate the NeoTitans™ is to reconnect collective capabilities so that they work in synergy for the Common Good.**
 
 LXVII develops XV · The Titans™ and continues LXVI · NeoSynergy™: from the awakening of people and functional cooperation to recovery of the systemic capabilities those people sustain.
+
+<!-- NEOTITAN_DELTA_LITERACY_START_EN -->
+
+## 2.1. Private-layer delta literacy for every NeoTitan™
+
+When a collective capability is articulated as an **operational NeoTitan** —through a person, team, node, module or infrastructure— within Innova_N implementation, it must understand the private-layer delta system to the degree required by its function.
+
+This requirement **does not grant access** to private information or turn operational competence into epistemic authority. It requires understanding the minimum lifecycle:
+
+```text
+OBSERVATION / CONTRIBUTION
+→ PRE-DELTA OR PROPOSAL
+→ SOURCE + EVIDENCE + RELATIONS + GENEALOGY
+→ CLASSIFICATION AND STATE
+→ SAN™ SCRUTINY
+→ DECISION / FIXATION BY THE COMPETENT AUTHORITY
+→ NEOCore™ MEMORY
+→ PUBLIC PROJECTION ONLY WHEN APPROPRIATE
+```
+
+Every operational NeoTitan must know that:
+
+1. `DELTA ≠ CANON`;
+2. `TRACE ≠ VALIDATION`;
+3. `DRAFT / PENDING-SAN ≠ APPROVED`;
+4. `ONe Starkdr™ ≠ Neo0™`;
+5. no role may promote, seal, publish or reinterpret outside its competence;
+6. every delta preserves provenance, state, evidence, relations, contradictions and reopenability;
+7. understanding the private layer does not imply indiscriminate access to its data.
+
+`UNDERSTANDING THE PRIVATE LAYER ≠ RECEIVING FULL ACCESS`.
+
+This competence applies [the Neo0™ / ONe Starkdr™ distinction and return to a pre-existing concept](../../propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_DELTA_CONTINUIDAD_CREADORA_NEO0_TOROIDE_ES_EN.md) and governs the [Batch 04 retuning · #172](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/172).
+
+<!-- NEOTITAN_DELTA_LITERACY_END_EN -->
+
 
 ## 3. Principle of Systemic Reconstruction™
 
