@@ -7,9 +7,9 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **396**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **330**.
-- Fallos estructurales divididos / Split structural failures: **9**.
+- Markdown activo examinado / Active Markdown scanned: **398**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **332**.
+- Fallos estructurales divididos / Split structural failures: **10**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -40,6 +40,8 @@
   - volumen EN/ES=1.38 (199/144)
 - `neoaxiomas/C-NAX-21_IGNORANCIA_SISTEMICA_MAL_NO_SUPERIORIDAD_DESTRUCCION_ES_EN.md` · ES=128 · EN=214 · ratio=1.67
   - volumen EN/ES=1.67 (214/128)
+- `neoaxiomas/NAX-10_GRAMATICA_ARQUETIPICA_CUSTODIA_ES_EN.md` · ES=603 · EN=606 · ratio=1.00
+  - Principio de Bandera de Síntesis™: párrafos ES=6 EN=7
 
 ## Marcadores / Markers
 
@@ -340,6 +342,8 @@
 | `neoaxiomas/NAX-08_COOPERACION_EXCELENCIA_COMPETENCIA_DEPREDADORA_ES_EN.md` | **OK** |  |
 | `neoaxiomas/NAX-09_COMPUTACION_DISTRIBUIDA_LOCAL_VERIFICACION_ECOLOGICA_ES_EN.md` | **OK** |  |
 | `neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md` | **OK** |  |
+| `neoaxiomas/NAX-10_GRAMATICA_ARQUETIPICA_CUSTODIA_ES_EN.md` | **REVISAR** | Principio de Bandera de Síntesis™: párrafos ES=6 EN=7 |
+| `neoaxiomas/NAX-11_AUTORIDAD_FIJACION_HUMANA_SINTESIS_REVISABLE_ES_EN.md` | **OK** |  |
 | `neoaxiomas/README.md` | **OK** |  |
 | `obras/README.md` | **OK** |  |
 | `obras/idea/PRESS_KIT_ES_EN.md` | **OK** |  |
