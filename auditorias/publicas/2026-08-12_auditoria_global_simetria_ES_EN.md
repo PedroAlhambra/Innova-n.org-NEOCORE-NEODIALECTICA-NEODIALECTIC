@@ -7,9 +7,9 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **401**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **335**.
-- Fallos estructurales divididos / Split structural failures: **10**.
+- Markdown activo examinado / Active Markdown scanned: **404**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **338**.
+- Fallos estructurales divididos / Split structural failures: **24**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -40,8 +40,49 @@
   - volumen EN/ES=1.38 (199/144)
 - `neoaxiomas/C-NAX-21_IGNORANCIA_SISTEMICA_MAL_NO_SUPERIORIDAD_DESTRUCCION_ES_EN.md` · ES=128 · EN=214 · ratio=1.67
   - volumen EN/ES=1.67 (214/128)
-- `neoaxiomas/NAX-10_GRAMATICA_ARQUETIPICA_CUSTODIA_ES_EN.md` · ES=603 · EN=606 · ratio=1.00
-  - Principio de Bandera de Síntesis™: párrafos ES=6 EN=7
+- `neoaxiomas/NAX-01_UNIDAD_SENTIDO_DISTRIBUCION_POTENCIA_ES_EN.md` · ES=142 · EN=275 · ratio=1.94
+  - volumen EN/ES=1.94 (275/142)
+  - esqueleto de encabezados distinto ES=[] EN=[(2, '')]
+- `neoaxiomas/NAX-02_PRIMERA_CAPA_FRACTAL_MULTICABEZA_ES_EN.md` · ES=148 · EN=276 · ratio=1.86
+  - volumen EN/ES=1.86 (276/148)
+  - esqueleto de encabezados distinto ES=[] EN=[(2, '')]
+- `neoaxiomas/NAX-03_NO_HOMOGENEIZACION_PREVIA_ES_EN.md` · ES=111 · EN=220 · ratio=1.98
+  - volumen EN/ES=1.98 (220/111)
+  - esqueleto de encabezados distinto ES=[] EN=[(2, '')]
+- `neoaxiomas/NAX-04_DOBLE_PIRAMIDE_FRACTAL_ES_EN.md` · ES=162 · EN=280 · ratio=1.73
+  - volumen EN/ES=1.73 (280/162)
+  - esqueleto de encabezados distinto ES=[] EN=[(2, '')]
+- `neoaxiomas/NAX-05_DIFERENCIAL_MONADICO_RETORNO_FUENTE_ES_EN.md` · ES=136 · EN=261 · ratio=1.92
+  - volumen EN/ES=1.92 (261/136)
+  - esqueleto de encabezados distinto ES=[] EN=[(2, '')]
+- `neoaxiomas/NAX-06_MEMORIA_AUSENCIA_ES_EN.md` · ES=138 · EN=268 · ratio=1.94
+  - volumen EN/ES=1.94 (268/138)
+  - esqueleto de encabezados distinto ES=[] EN=[(2, '')]
+- `neoaxiomas/NAX-07_RED_NEOREAL_ACTORES_OPERATIVOS_ES_EN.md` · ES=174 · EN=307 · ratio=1.76
+  - volumen EN/ES=1.76 (307/174)
+  - esqueleto de encabezados distinto ES=[] EN=[(2, '')]
+- `neoaxiomas/NAX-08_COOPERACION_EXCELENCIA_COMPETENCIA_DEPREDADORA_ES_EN.md` · ES=141 · EN=254 · ratio=1.80
+  - volumen EN/ES=1.80 (254/141)
+  - esqueleto de encabezados distinto ES=[] EN=[(2, '')]
+- `neoaxiomas/NAX-09_COMPUTACION_DISTRIBUIDA_LOCAL_VERIFICACION_ECOLOGICA_ES_EN.md` · ES=144 · EN=257 · ratio=1.78
+  - volumen EN/ES=1.78 (257/144)
+  - esqueleto de encabezados distinto ES=[] EN=[(2, '')]
+- `neoaxiomas/NAX-10_GRAMATICA_ARQUETIPICA_CUSTODIA_ES_EN.md` · ES=603 · EN=707 · ratio=1.17
+  - esqueleto de encabezados distinto ES=[(3, ''), (3, '')] EN=[(3, ''), (3, ''), (2, '')]
+- `neoaxiomas/NAX-11_AUTORIDAD_FIJACION_HUMANA_SINTESIS_REVISABLE_ES_EN.md` · ES=151 · EN=266 · ratio=1.76
+  - volumen EN/ES=1.76 (266/151)
+  - esqueleto de encabezados distinto ES=[] EN=[(2, '')]
+- `neoaxiomas/NAX-12_TRAZABILIDAD_SUSTITUTIVA_BUROCRACIA_REDUNDANTE_ES_EN.md` · ES=316 · EN=425 · ratio=1.34
+  - esqueleto de encabezados distinto ES=[] EN=[(2, '')]
+- `neoaxiomas/NAX-13_LIBERACION_TIEMPO_CONTROL_CREACION_APORTE_ES_EN.md` · ES=250 · EN=350 · ratio=1.40
+  - volumen EN/ES=1.40 (350/250)
+  - esqueleto de encabezados distinto ES=[] EN=[(2, '')]
+- `neoaxiomas/NAX-14_PREVENCION_BIFURCACION_SIMBIOTICA_ES_EN.md` · ES=216 · EN=337 · ratio=1.56
+  - volumen EN/ES=1.56 (337/216)
+  - esqueleto de encabezados distinto ES=[] EN=[(2, '')]
+- `neoaxiomas/README.md` · ES=1409 · EN=148 · ratio=0.11
+  - volumen EN/ES=0.11 (148/1409)
+  - esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (3, ''), (2, ''), (2, ''), (2, '')] EN=[(2, '')]
 
 ## Marcadores / Markers
 
@@ -221,6 +262,8 @@
 | `auditorias/publicas/2026-08-30_reparacion_relacional_manifiestos_iteracion_06_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, '')] |
 | `auditorias/publicas/2026-08-30_reparacion_relacional_manifiestos_iteracion_07_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-30_reparacion_relacional_manifiestos_iteracion_08_ES_EN.md` | **REVISAR** | volumen EN/ES=0.71 (242/339); esqueleto de encabezados distinto ES=[(3, ''), (3, ''), (3, ''), (3, ''), (3, '')] EN=[(3, ''), (3, ''), (3, ''), (3, '')] |
+| `auditorias/publicas/2026-08-30_revision_integral_github_publico_iteracion_01_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-08-30_revision_integral_github_publico_iteracion_02_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/README.md` | **OK** |  |
@@ -332,22 +375,23 @@
 | `neoaxiomas/C-NAX-24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md` | **OK** |  |
 | `neoaxiomas/C-NAX-25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md` | **OK** |  |
 | `neoaxiomas/C-NAX-26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md` | **OK** |  |
-| `neoaxiomas/NAX-01_UNIDAD_SENTIDO_DISTRIBUCION_POTENCIA_ES_EN.md` | **OK** |  |
-| `neoaxiomas/NAX-02_PRIMERA_CAPA_FRACTAL_MULTICABEZA_ES_EN.md` | **OK** |  |
-| `neoaxiomas/NAX-03_NO_HOMOGENEIZACION_PREVIA_ES_EN.md` | **OK** |  |
-| `neoaxiomas/NAX-04_DOBLE_PIRAMIDE_FRACTAL_ES_EN.md` | **OK** |  |
-| `neoaxiomas/NAX-05_DIFERENCIAL_MONADICO_RETORNO_FUENTE_ES_EN.md` | **OK** |  |
-| `neoaxiomas/NAX-06_MEMORIA_AUSENCIA_ES_EN.md` | **OK** |  |
-| `neoaxiomas/NAX-07_RED_NEOREAL_ACTORES_OPERATIVOS_ES_EN.md` | **OK** |  |
-| `neoaxiomas/NAX-08_COOPERACION_EXCELENCIA_COMPETENCIA_DEPREDADORA_ES_EN.md` | **OK** |  |
-| `neoaxiomas/NAX-09_COMPUTACION_DISTRIBUIDA_LOCAL_VERIFICACION_ECOLOGICA_ES_EN.md` | **OK** |  |
+| `neoaxiomas/C-NAX-27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` | **OK** |  |
+| `neoaxiomas/NAX-01_UNIDAD_SENTIDO_DISTRIBUCION_POTENCIA_ES_EN.md` | **REVISAR** | volumen EN/ES=1.94 (275/142); esqueleto de encabezados distinto ES=[] EN=[(2, '')] |
+| `neoaxiomas/NAX-02_PRIMERA_CAPA_FRACTAL_MULTICABEZA_ES_EN.md` | **REVISAR** | volumen EN/ES=1.86 (276/148); esqueleto de encabezados distinto ES=[] EN=[(2, '')] |
+| `neoaxiomas/NAX-03_NO_HOMOGENEIZACION_PREVIA_ES_EN.md` | **REVISAR** | volumen EN/ES=1.98 (220/111); esqueleto de encabezados distinto ES=[] EN=[(2, '')] |
+| `neoaxiomas/NAX-04_DOBLE_PIRAMIDE_FRACTAL_ES_EN.md` | **REVISAR** | volumen EN/ES=1.73 (280/162); esqueleto de encabezados distinto ES=[] EN=[(2, '')] |
+| `neoaxiomas/NAX-05_DIFERENCIAL_MONADICO_RETORNO_FUENTE_ES_EN.md` | **REVISAR** | volumen EN/ES=1.92 (261/136); esqueleto de encabezados distinto ES=[] EN=[(2, '')] |
+| `neoaxiomas/NAX-06_MEMORIA_AUSENCIA_ES_EN.md` | **REVISAR** | volumen EN/ES=1.94 (268/138); esqueleto de encabezados distinto ES=[] EN=[(2, '')] |
+| `neoaxiomas/NAX-07_RED_NEOREAL_ACTORES_OPERATIVOS_ES_EN.md` | **REVISAR** | volumen EN/ES=1.76 (307/174); esqueleto de encabezados distinto ES=[] EN=[(2, '')] |
+| `neoaxiomas/NAX-08_COOPERACION_EXCELENCIA_COMPETENCIA_DEPREDADORA_ES_EN.md` | **REVISAR** | volumen EN/ES=1.80 (254/141); esqueleto de encabezados distinto ES=[] EN=[(2, '')] |
+| `neoaxiomas/NAX-09_COMPUTACION_DISTRIBUIDA_LOCAL_VERIFICACION_ECOLOGICA_ES_EN.md` | **REVISAR** | volumen EN/ES=1.78 (257/144); esqueleto de encabezados distinto ES=[] EN=[(2, '')] |
 | `neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md` | **OK** |  |
-| `neoaxiomas/NAX-10_GRAMATICA_ARQUETIPICA_CUSTODIA_ES_EN.md` | **REVISAR** | Principio de Bandera de Síntesis™: párrafos ES=6 EN=7 |
-| `neoaxiomas/NAX-11_AUTORIDAD_FIJACION_HUMANA_SINTESIS_REVISABLE_ES_EN.md` | **OK** |  |
-| `neoaxiomas/NAX-12_TRAZABILIDAD_SUSTITUTIVA_BUROCRACIA_REDUNDANTE_ES_EN.md` | **OK** |  |
-| `neoaxiomas/NAX-13_LIBERACION_TIEMPO_CONTROL_CREACION_APORTE_ES_EN.md` | **OK** |  |
-| `neoaxiomas/NAX-14_PREVENCION_BIFURCACION_SIMBIOTICA_ES_EN.md` | **OK** |  |
-| `neoaxiomas/README.md` | **OK** |  |
+| `neoaxiomas/NAX-10_GRAMATICA_ARQUETIPICA_CUSTODIA_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(3, ''), (3, '')] EN=[(3, ''), (3, ''), (2, '')] |
+| `neoaxiomas/NAX-11_AUTORIDAD_FIJACION_HUMANA_SINTESIS_REVISABLE_ES_EN.md` | **REVISAR** | volumen EN/ES=1.76 (266/151); esqueleto de encabezados distinto ES=[] EN=[(2, '')] |
+| `neoaxiomas/NAX-12_TRAZABILIDAD_SUSTITUTIVA_BUROCRACIA_REDUNDANTE_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[] EN=[(2, '')] |
+| `neoaxiomas/NAX-13_LIBERACION_TIEMPO_CONTROL_CREACION_APORTE_ES_EN.md` | **REVISAR** | volumen EN/ES=1.40 (350/250); esqueleto de encabezados distinto ES=[] EN=[(2, '')] |
+| `neoaxiomas/NAX-14_PREVENCION_BIFURCACION_SIMBIOTICA_ES_EN.md` | **REVISAR** | volumen EN/ES=1.56 (337/216); esqueleto de encabezados distinto ES=[] EN=[(2, '')] |
+| `neoaxiomas/README.md` | **REVISAR** | volumen EN/ES=0.11 (148/1409); esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (3, ''), (2, ''), (2, ''), (2, '')] EN=[(2, '')] |
 | `obras/README.md` | **OK** |  |
 | `obras/idea/PRESS_KIT_ES_EN.md` | **OK** |  |
 | `obras/idea/RANSOL_RED_DEL_TIEMPO_ARBOLES_INVISIBLES_ETERNOS_ES_EN.md` | **OK** |  |
