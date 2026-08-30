@@ -1,0 +1,44 @@
+name: Reconcile current framework frontiers
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'manifiestos/CANONICAL_FILENAMES.json'
+      - 'neoaxiomas/**'
+      - 'propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md'
+      - '.github/scripts/reconcile_current_frontiers.py'
+      - '.github/workflows/reconcile-current-frontiers.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: reconcile-current-framework-frontiers
+  cancel-in-progress: false
+
+jobs:
+  reconcile:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Reconcile live frontiers from canonical sources
+        run: python .github/scripts/reconcile_current_frontiers.py
+      - name: Commit only if reconciliation changed the index
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md
+          if git diff --cached --quiet; then
+            echo 'FRONTIER_RECONCILIATION_NO_CHANGE=1'
+            exit 0
+          fi
+          git commit -m 'fix: reconciliar frontera completa de Síntesis Abierta'
+          git pull --rebase origin main
+          git push origin main
+      - name: Re-run gate after reconciliation
+        run: python .github/scripts/reconcile_current_frontiers.py
