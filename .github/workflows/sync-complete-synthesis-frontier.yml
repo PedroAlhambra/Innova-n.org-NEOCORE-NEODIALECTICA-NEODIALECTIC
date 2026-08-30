@@ -1,0 +1,40 @@
+name: Sync complete Open Synthesis frontier
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'manifiestos/**.md'
+      - 'manifiestos/CANONICAL_FILENAMES.json'
+      - '.github/scripts/sync_complete_synthesis_frontier.py'
+      - '.github/workflows/sync-complete-synthesis-frontier.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Reconcile complete Open Synthesis index
+        run: python .github/scripts/sync_complete_synthesis_frontier.py
+      - name: Verify manifesto relational gate
+        run: python .github/scripts/audit_manifesto_clickable_relations.py
+      - name: Verify Markdown diff
+        run: git diff --check
+      - name: Commit reconciled synthesis frontier
+        shell: bash
+        run: |
+          if git diff --quiet; then
+            echo 'No synthesis-frontier changes required.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md
+          git commit -m 'sync: reconcile complete Open Synthesis frontier'
+          git push
