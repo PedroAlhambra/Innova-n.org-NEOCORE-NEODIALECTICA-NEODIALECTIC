@@ -7,8 +7,8 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **392**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **326**.
+- Markdown activo examinado / Active Markdown scanned: **393**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **327**.
 - Fallos estructurales divididos / Split structural failures: **9**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
@@ -335,6 +335,7 @@
 | `neoaxiomas/NAX-03_NO_HOMOGENEIZACION_PREVIA_ES_EN.md` | **OK** |  |
 | `neoaxiomas/NAX-04_DOBLE_PIRAMIDE_FRACTAL_ES_EN.md` | **OK** |  |
 | `neoaxiomas/NAX-05_DIFERENCIAL_MONADICO_RETORNO_FUENTE_ES_EN.md` | **OK** |  |
+| `neoaxiomas/NAX-06_MEMORIA_AUSENCIA_ES_EN.md` | **OK** |  |
 | `neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md` | **OK** |  |
 | `neoaxiomas/README.md` | **OK** |  |
 | `obras/README.md` | **OK** |  |
