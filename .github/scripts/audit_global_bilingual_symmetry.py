@@ -38,6 +38,7 @@ SHARED_TAIL_MARKERS = [
 LANG_TAIL_HEADINGS = [
     r'^##\s+Navegación\s*$', r'^##\s+Navigation\s*$',
     r'^###\s+Vínculos internos equivalentes\s*$', r'^###\s+Equivalent internal links\s*$',
+    r'^##\s+PASO_SIGUIENTE_RECOMENDADO / NEXT_RECOMMENDED_STEP\s*$',
 ]
 
 
