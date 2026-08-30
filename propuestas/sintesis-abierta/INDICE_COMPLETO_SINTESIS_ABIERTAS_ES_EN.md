@@ -230,10 +230,10 @@ ENTRAR EN UNA SÍNTESIS / ENTER A SYNTHESIS
 
 # 6 · Resumen operativo ES / EN · Operational summary ES / EN
 
-- Todo manifiesto finito I–LXXXI dispone de una Síntesis Abierta dedicada. / Every finite manifesto I–LXXXI has a dedicated Open Synthesis issue.
+- Todo manifiesto finito I–LXXXV dispone de una Síntesis Abierta dedicada. / Every finite manifesto I–LXXXV has a dedicated Open Synthesis issue.
 - El Manifiesto ∞ permanece abierto permanentemente detrás del último manifiesto finito. / Manifesto ∞ remains permanently open after the latest finite manifesto.
 - Todo Neoaxioma canónico NAX-01–NAX-14 dispone de síntesis dedicada y de la matriz general #80. / Every canonical Neoaxiom NAX-01–NAX-14 has a dedicated synthesis plus general matrix #80.
-- C-NAX-15–C-NAX-26 permanecen candidatos: se muestran con matriz/ruta de síntesis y no se elevan automáticamente a canon. / C-NAX-15–C-NAX-26 remain candidates: they are shown with a synthesis matrix/route and are not automatically elevated to canon.
+- C-NAX-15–C-NAX-27 permanecen candidatos: se muestran con matriz/ruta de síntesis y no se elevan automáticamente a canon. / C-NAX-15–C-NAX-27 remain candidates: they are shown with a synthesis matrix/route and are not automatically elevated to canon.
 - Los deltas, auditorías, casos aplicados y proyectos del sistema disponen de espacios trazables de síntesis. / System-wide deltas, audits, applied cases and projects have traceable synthesis spaces.
 - Cualquier persona puede aportar localmente con comprensión suficiente del nodo concreto. / Anyone may contribute locally with sufficient understanding of the specific node.
 - La evaluación del marco completo requiere lectura proporcionalmente más profunda y actualmente se beneficia fuertemente de memoria relacional asistida por IA con retorno a fuente. / Full-framework evaluation requires proportionally deeper reading and currently benefits strongly from AI-assisted relational memory with return to source.
