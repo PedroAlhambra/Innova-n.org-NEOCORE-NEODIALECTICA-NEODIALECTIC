@@ -12,11 +12,44 @@ SYNTHESIS_INDEX = ROOT / 'propuestas' / 'sintesis-abierta' / 'INDICE_COMPLETO_SI
 COLLECTION_START = '## Colección canónica / Canonical collection'
 COLLECTION_END = '> Ningún manifiesto equivale por sí solo al marco completo. / No single manifesto equals the complete framework.'
 ROW = re.compile(r'^- \*\*([IVXLCDM]+)\*\* · \[([^\]]+)\]\(([^)]+\.md)\)', re.M)
-ISSUE = re.compile(r'\*\*Síntesis Abierta / Open Synthesis:\*\*\s*\[#(\d+)\]\((https://github\.com/PedroAlhambra/Innova-n\.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/\1)\)')
+EXPLICIT_ISSUE = re.compile(
+    r'\*\*Síntesis Abierta / Open Synthesis:\*\*\s*'
+    r'\[#(\d+)\]\((https://github\.com/PedroAlhambra/Innova-n\.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/\1)\)'
+)
+GENERIC_ISSUE = re.compile(
+    r'https://github\.com/PedroAlhambra/Innova-n\.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/(\d+)'
+)
 TABLE = re.compile(
-    r'(\| Nº \| Manifiesto / Manifesto \| Síntesis / Synthesis \|\n\|---:\|---\|---\|\n).*?(\n\n\*\*Regla ∞ / ∞ rule:\*\*)',
+    r'(\| Nº \| Manifiesto / Manifesto \| Síntesis / Synthesis \|\r?\n\|---:\|---\|---\|\r?\n).*?'
+    r'(\r?\n\r?\n\*\*Regla ∞ / ∞ rule:\*\*)',
     re.S,
 )
+BASE_ISSUE_URL = 'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/'
+
+
+def resolve_open_synthesis(source: str, roman: str, path: Path) -> tuple[str, str]:
+    """Resolve SAN conservatively from manifesto-owned metadata.
+
+    Newer manifestos use the explicit bilingual metadata field. Historical
+    manifestos are accepted only when an Issue URL is present in their
+    pre-body metadata (before `# ES ·`), matching the pre-existing frontier
+    registration rule. We never infer an Issue from a related manifesto.
+    """
+    explicit = EXPLICIT_ISSUE.search(source)
+    if explicit:
+        return explicit.group(1), explicit.group(2)
+
+    front = source.split('# ES ·', 1)[0]
+    issue_numbers = GENERIC_ISSUE.findall(front)
+    unique = list(dict.fromkeys(issue_numbers))
+    if len(unique) == 1:
+        issue_num = unique[0]
+        return issue_num, BASE_ISSUE_URL + issue_num
+    if len(unique) > 1:
+        raise SystemExit(
+            f'OPEN_SYNTHESIS_ISSUE_AMBIGUOUS={roman}:{path.as_posix()}:' + ','.join(unique)
+        )
+    raise SystemExit(f'OPEN_SYNTHESIS_ISSUE_UNRESOLVED={roman}:{path.as_posix()}')
 
 
 def canonical_manifestos() -> list[tuple[str, str, Path, str, str]]:
@@ -34,10 +67,8 @@ def canonical_manifestos() -> list[tuple[str, str, Path, str, str]]:
         if not path.exists():
             raise SystemExit(f'CANONICAL_MANIFESTO_MISSING={path.as_posix()}')
         source = path.read_text(encoding='utf-8')
-        m = ISSUE.search(source)
-        if not m:
-            raise SystemExit(f'OPEN_SYNTHESIS_ISSUE_UNRESOLVED={roman}:{path.as_posix()}')
-        out.append((roman, label.strip(), path, m.group(1), m.group(2)))
+        issue_num, issue_url = resolve_open_synthesis(source, roman, path)
+        out.append((roman, label.strip(), path, issue_num, issue_url))
     if not out:
         raise SystemExit('NO_CANONICAL_MANIFESTOS')
     return out
@@ -91,7 +122,7 @@ def sync() -> bool:
         expected_path = f'../../manifiestos/{path.name}'
         row_re = re.compile(
             rf'^\|\s*{re.escape(roman)}\s*\|.*\]\({re.escape(expected_path)}\).*'
-            rf'\[#(?:{re.escape(issue_num)})\]\({re.escape(issue_url)}\)\s*\|$',
+            rf'\[#{re.escape(issue_num)}\]\({re.escape(issue_url)}\)\s*\|$',
             re.M,
         )
         if not row_re.search(text):
