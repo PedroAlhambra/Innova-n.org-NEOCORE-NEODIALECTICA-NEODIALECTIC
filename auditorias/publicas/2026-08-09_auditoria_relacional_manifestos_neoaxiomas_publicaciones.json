@@ -816,204 +816,7 @@
   "relation_missing": [
     "LXXXV"
   ],
-  "neoaxioms": [
-    {
-      "id": "NAX-01",
-      "titles": [
-        "Unidad de sentido y distribución de potencia™",
-        "Unity of Meaning and Distribution of Power™"
-      ],
-      "issues": [
-        "80",
-        "84"
-      ],
-      "dedicated": [
-        "84"
-      ]
-    },
-    {
-      "id": "NAX-02",
-      "titles": [
-        "First Fractal Multihead Layer™",
-        "Primera Capa Fractal Multicabeza™"
-      ],
-      "issues": [
-        "80",
-        "85"
-      ],
-      "dedicated": [
-        "85"
-      ]
-    },
-    {
-      "id": "NAX-03",
-      "titles": [
-        "No Homogeneización Previa™",
-        "No Prior Homogenisation™"
-      ],
-      "issues": [
-        "80",
-        "86"
-      ],
-      "dedicated": [
-        "86"
-      ]
-    },
-    {
-      "id": "NAX-04",
-      "titles": [
-        "Doble Pirámide Fractal™",
-        "Fractal Double Pyramid™"
-      ],
-      "issues": [
-        "80",
-        "87"
-      ],
-      "dedicated": [
-        "87"
-      ]
-    },
-    {
-      "id": "NAX-05",
-      "titles": [
-        "Diferencial Monádico y Retorno a Fuente™",
-        "Monadic Differential and Return to Source™"
-      ],
-      "issues": [
-        "80",
-        "88"
-      ],
-      "dedicated": [
-        "88"
-      ]
-    },
-    {
-      "id": "NAX-06",
-      "titles": [
-        "Memoria de Ausencia™",
-        "Memory of Absence™"
-      ],
-      "issues": [
-        "80",
-        "89"
-      ],
-      "dedicated": [
-        "89"
-      ]
-    },
-    {
-      "id": "NAX-07",
-      "titles": [
-        "Mandatory NEOREAL™ Network for Operational Actors",
-        "Red NEOREAL™ Obligatoria para Actores Operativos"
-      ],
-      "issues": [
-        "80",
-        "90"
-      ],
-      "dedicated": [
-        "90"
-      ]
-    },
-    {
-      "id": "NAX-08",
-      "titles": [
-        "Cooperación de Excelencia frente a Competencia Depredadora™",
-        "Cooperative Excellence against Predatory Competition™"
-      ],
-      "issues": [
-        "80",
-        "91"
-      ],
-      "dedicated": [
-        "91"
-      ]
-    },
-    {
-      "id": "NAX-09",
-      "titles": [
-        "Computación Distribuida Local con Verificación Ecológica™",
-        "Distributed Local Computing with Ecological Verification™"
-      ],
-      "issues": [
-        "80",
-        "92"
-      ],
-      "dedicated": [
-        "92"
-      ]
-    },
-    {
-      "id": "NAX-10",
-      "titles": [
-        "Archetypal Grammar of Custodianship™ — Eagle, Crown, Earth, Tower, Stone and Lion",
-        "Gramática Arquetípica de Custodia™ — Águila, Corona, Tierra, Torre, Piedra y León"
-      ],
-      "issues": [
-        "80",
-        "93"
-      ],
-      "dedicated": [
-        "93"
-      ]
-    },
-    {
-      "id": "NAX-11",
-      "titles": [
-        "Autoridad de Fijación Humana y Síntesis Revisable™",
-        "Human Fixation Authority and Revisable Synthesis™"
-      ],
-      "issues": [
-        "80",
-        "94"
-      ],
-      "dedicated": [
-        "94"
-      ]
-    },
-    {
-      "id": "NAX-12",
-      "titles": [
-        "Traceability Substitution for Redundant Bureaucracy™",
-        "Trazabilidad Sustitutiva de Burocracia Redundante™"
-      ],
-      "issues": [
-        "80",
-        "95"
-      ],
-      "dedicated": [
-        "95"
-      ]
-    },
-    {
-      "id": "NAX-13",
-      "titles": [
-        "Liberación del Tiempo de Control hacia Creación y Aporte™",
-        "Releasing Control Time into Creation and Contribution™"
-      ],
-      "issues": [
-        "80",
-        "96"
-      ],
-      "dedicated": [
-        "96"
-      ]
-    },
-    {
-      "id": "NAX-14",
-      "titles": [
-        "Prevención de la Bifurcación Simbiótica™",
-        "Prevention of Symbiotic Bifurcation™"
-      ],
-      "issues": [
-        "80",
-        "97"
-      ],
-      "dedicated": [
-        "97"
-      ]
-    }
-  ],
+  "neoaxioms": [],
   "neoaxioms_missing_dedicated": [],
   "broken": [],
   "weak_publication_relations": [],
@@ -8914,9 +8717,6 @@
           "manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md",
           "manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md"
         ],
-        "neoaxiomas": [
-          "neoaxiomas/README.md"
-        ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/2026-08-10_ai_act_art50_transparencia_procedencia_autoria_simbiotica_ES_EN.md",
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md",
@@ -12316,9 +12116,6 @@
           "manifiestos/README.md",
           "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
         ],
-        "neoaxiomas": [
-          "neoaxiomas/README.md"
-        ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/2026-08-15_DELTA_NEOMANTIS_ASIMETRIA_INVERTIDA_DIGNIDAD_RECIPROCA_ES_EN.md",
           "propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md",
@@ -13303,9 +13100,6 @@
           "manifiestos/README.md",
           "manifiestos/RELACIONES_LVII_LIX_ES_EN.md",
           "manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md"
-        ],
-        "neoaxiomas": [
-          "neoaxiomas/README.md"
         ],
         "sintesis-abierta": [
           "propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md",
