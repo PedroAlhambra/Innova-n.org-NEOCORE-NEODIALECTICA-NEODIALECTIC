@@ -65,6 +65,18 @@ The proposal does not homogenise people or force them to adopt a single AI. It s
 
 **Example:** If well-resourced students have powerful AI tutors and training to verify them while others have neither access nor literacy, the gap is not merely technological: it compounds through learning and opportunity. Progressive access, critical education and safeguards against dependency reduce that bifurcation.
 
+<!-- NEOAXIOM_MANIFEST_RELATIONS_START -->
+
+## Relaciones con manifiestos / Relations with Manifestos
+
+> **Relación documental/conceptual, no procedencia exclusiva.** Estos vínculos hacen explícita la red vigente del Neoaxioma con manifiestos que desarrollan, aplican, limitan o contextualizan su función. Un enlace no declara identidad, subordinación ni causalidad. / **Documentary/conceptual relation, not exclusive provenance.** These links make explicit the Neoaxiom's current network with Manifestos that develop, apply, limit or contextualise its function. A link does not assert identity, subordination or causality.
+
+- [V · Simbiosis Humano–IA / Human–AI Symbiosis](../manifiestos/03_simbiosis_humano_ia_ES_EN.md)
+- [XIV · Contra la Alienación Humana™ / Against Human Alienation™](../manifiestos/14_contra_alienacion_humana_ES_EN.md)
+- [LIX · Custodia Cognitiva Distribuida™ / Distributed Cognitive Custody™](../manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md)
+
+<!-- NEOAXIOM_MANIFEST_RELATIONS_END -->
+
 **Síntesis / Synthesis:** [#97](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/97) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80).
 
 [← Índice de Neoaxiomas™](README.md)

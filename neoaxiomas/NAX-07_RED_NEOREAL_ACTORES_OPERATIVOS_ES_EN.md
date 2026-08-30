@@ -29,6 +29,18 @@ This does not require every internal inference of a model to be fully interpreta
 
 **Example:** If a robot closes a valve, the NEOREAL layer should be able to relate which sensor triggered the decision, which rule or model version intervened, which actor had authority, what action was executed and what result followed. It is not necessary to translate every internal model calculation into human language.
 
+<!-- NEOAXIOM_MANIFEST_RELATIONS_START -->
+
+## Relaciones con manifiestos / Relations with Manifestos
+
+> **Relación documental/conceptual, no procedencia exclusiva.** Estos vínculos hacen explícita la red vigente del Neoaxioma con manifiestos que desarrollan, aplican, limitan o contextualizan su función. Un enlace no declara identidad, subordinación ni causalidad. / **Documentary/conceptual relation, not exclusive provenance.** These links make explicit the Neoaxiom's current network with Manifestos that develop, apply, limit or contextualise its function. A link does not assert identity, subordination or causality.
+
+- [IX · Memoria, Genealogía y Trazabilidad / Memory, Genealogy and Traceability](../manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md)
+- [X · WEB4™ · SistemaTrazable™ / WEB4™ · SistemaTrazable™](../manifiestos/07_web4_sistematrazable_ES_EN.md)
+- [LIX · Custodia Cognitiva Distribuida™ / Distributed Cognitive Custody™](../manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md)
+
+<!-- NEOAXIOM_MANIFEST_RELATIONS_END -->
+
 **Síntesis / Synthesis:** [#90](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/90) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80).
 
 [← Índice de Neoaxiomas™](README.md)

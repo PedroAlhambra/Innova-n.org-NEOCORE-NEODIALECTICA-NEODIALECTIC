@@ -49,6 +49,17 @@ Compression must not destroy the reverse path.
 
 **Example:** When reviewing a new Manifesto, a head may return: “this idea already exists in NAX-08; the relation to C-NAX-26 is missing; here there is a contradiction with Issue X”. Each difference links back to its source so another person can reconstruct the reasoning.
 
+<!-- NEOAXIOM_MANIFEST_RELATIONS_START -->
+
+## Relaciones con manifiestos / Relations with Manifestos
+
+> **Relación documental/conceptual, no procedencia exclusiva.** Estos vínculos hacen explícita la red vigente del Neoaxioma con manifiestos que desarrollan, aplican, limitan o contextualizan su función. Un enlace no declara identidad, subordinación ni causalidad. / **Documentary/conceptual relation, not exclusive provenance.** These links make explicit the Neoaxiom's current network with Manifestos that develop, apply, limit or contextualise its function. A link does not assert identity, subordination or causality.
+
+- [II · Síntesis Abierta Neodialéctica™ / Neodialectical Open Synthesis™](../manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md)
+- [IX · Memoria, Genealogía y Trazabilidad / Memory, Genealogy and Traceability](../manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md)
+
+<!-- NEOAXIOM_MANIFEST_RELATIONS_END -->
+
 **Síntesis / Synthesis:** [#88](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/88) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80).
 
 [← Índice de Neoaxiomas™](README.md)

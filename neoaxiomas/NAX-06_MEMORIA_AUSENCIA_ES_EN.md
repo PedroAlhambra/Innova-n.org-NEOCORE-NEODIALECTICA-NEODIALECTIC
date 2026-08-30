@@ -37,6 +37,17 @@ MEMORY = PRESENCE + KNOWN ABSENCE + TRACEABILITY
 
 **Example:** If old commits and documents show a project that no longer appears in the current index, the system may record “historical project absent from the current representation” together with its sources. SAN can later decide whether to restore it, archive it or keep it only as genealogy.
 
+<!-- NEOAXIOM_MANIFEST_RELATIONS_START -->
+
+## Relaciones con manifiestos / Relations with Manifestos
+
+> **Relación documental/conceptual, no procedencia exclusiva.** Estos vínculos hacen explícita la red vigente del Neoaxioma con manifiestos que desarrollan, aplican, limitan o contextualizan su función. Un enlace no declara identidad, subordinación ni causalidad. / **Documentary/conceptual relation, not exclusive provenance.** These links make explicit the Neoaxiom's current network with Manifestos that develop, apply, limit or contextualise its function. A link does not assert identity, subordination or causality.
+
+- [IX · Memoria, Genealogía y Trazabilidad / Memory, Genealogy and Traceability](../manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md)
+- [XIX · Persistencia de la Memoria™ / Persistence of Memory™](../manifiestos/19_persistencia_de_la_memoria_ES_EN.md)
+
+<!-- NEOAXIOM_MANIFEST_RELATIONS_END -->
+
 **Síntesis / Synthesis:** [#89](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/89) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80).
 
 [← Índice de Neoaxiomas™](README.md)

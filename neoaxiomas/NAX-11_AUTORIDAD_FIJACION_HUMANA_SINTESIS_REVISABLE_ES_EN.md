@@ -29,6 +29,18 @@ Every fixation remains historically identifiable and conceptually revisable thro
 
 **Example:** Several AIs may agree that a Neoaxiom should be changed and provide excellent arguments. That convergence is a proposal, not automatic fixation. The change enters SAN and becomes canonical only when current human governance fixes it traceably; a later review may correct it again.
 
+<!-- NEOAXIOM_MANIFEST_RELATIONS_START -->
+
+## Relaciones con manifiestos / Relations with Manifestos
+
+> **Relación documental/conceptual, no procedencia exclusiva.** Estos vínculos hacen explícita la red vigente del Neoaxioma con manifiestos que desarrollan, aplican, limitan o contextualizan su función. Un enlace no declara identidad, subordinación ni causalidad. / **Documentary/conceptual relation, not exclusive provenance.** These links make explicit the Neoaxiom's current network with Manifestos that develop, apply, limit or contextualise its function. A link does not assert identity, subordination or causality.
+
+- [I · Soberanía de Guía Neodialéctica / Neodialectical Guiding Sovereignty](../manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
+- [II · Síntesis Abierta Neodialéctica™ / Neodialectical Open Synthesis™](../manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md)
+- [IX · Memoria, Genealogía y Trazabilidad / Memory, Genealogy and Traceability](../manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md)
+
+<!-- NEOAXIOM_MANIFEST_RELATIONS_END -->
+
 **Síntesis / Synthesis:** [#94](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/94) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80).
 
 [← Índice de Neoaxiomas™](README.md)

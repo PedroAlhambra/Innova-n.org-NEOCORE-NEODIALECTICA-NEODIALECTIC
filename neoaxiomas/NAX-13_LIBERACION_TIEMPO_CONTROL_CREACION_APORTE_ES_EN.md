@@ -51,6 +51,17 @@ Tokenisation does not automatically turn every act into monetary value and does 
 
 **Example:** If an engineer no longer copies the same release data manually into three systems because the trace is already automatic and auditable, the recovered time can be used to test difficult failures, document learning or improve the product. Removing the procedure matters because the released capacity can be used better.
 
+<!-- NEOAXIOM_MANIFEST_RELATIONS_START -->
+
+## Relaciones con manifiestos / Relations with Manifestos
+
+> **Relación documental/conceptual, no procedencia exclusiva.** Estos vínculos hacen explícita la red vigente del Neoaxioma con manifiestos que desarrollan, aplican, limitan o contextualizan su función. Un enlace no declara identidad, subordinación ni causalidad. / **Documentary/conceptual relation, not exclusive provenance.** These links make explicit the Neoaxiom's current network with Manifestos that develop, apply, limit or contextualise its function. A link does not assert identity, subordination or causality.
+
+- [VII · Economía del Aporte / Contribution Economy](../manifiestos/04_economia_del_aporte_ES_EN.md)
+- [XXIII · Soberanía del Tiempo Cognitivo™ / Sovereignty of Cognitive Time™](../manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md)
+
+<!-- NEOAXIOM_MANIFEST_RELATIONS_END -->
+
 **Síntesis / Synthesis:** [#96](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/96) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80).
 
 [← Índice de Neoaxiomas™](README.md)

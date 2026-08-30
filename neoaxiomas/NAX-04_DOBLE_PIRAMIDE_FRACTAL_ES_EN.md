@@ -63,6 +63,17 @@ The double pyramid does not authorise automatic ontological hierarchy among peop
 
 **Example:** An energy project may be separated into technical, environmental, economic and social analyses. They are then recomposed into a common proposal, while every conclusion remains linked to the reports and data from which it arose. That synthesis may itself become one part of a higher synthesis.
 
+<!-- NEOAXIOM_MANIFEST_RELATIONS_START -->
+
+## Relaciones con manifiestos / Relations with Manifestos
+
+> **Relación documental/conceptual, no procedencia exclusiva.** Estos vínculos hacen explícita la red vigente del Neoaxioma con manifiestos que desarrollan, aplican, limitan o contextualizan su función. Un enlace no declara identidad, subordinación ni causalidad. / **Documentary/conceptual relation, not exclusive provenance.** These links make explicit the Neoaxiom's current network with Manifestos that develop, apply, limit or contextualise its function. A link does not assert identity, subordination or causality.
+
+- [II · Síntesis Abierta Neodialéctica™ / Neodialectical Open Synthesis™](../manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md)
+- [XLV · Multidimensionalidad Neodialéctica™ / Neodialectical Multidimensionality™](../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
+
+<!-- NEOAXIOM_MANIFEST_RELATIONS_END -->
+
 **Síntesis / Synthesis:** [#87](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/87) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80).
 
 [← Índice de Neoaxiomas™](README.md)

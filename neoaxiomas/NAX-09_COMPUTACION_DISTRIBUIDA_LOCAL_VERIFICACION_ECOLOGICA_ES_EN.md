@@ -45,6 +45,17 @@ PREFERENCE
 
 **Example:** Running an AI task on a reused local computer may reduce traffic and use existing hardware, while an efficient data centre may consume less energy per task. The correct decision comes from comparing both complete cases, not from assuming that “local” or “cloud” always wins.
 
+<!-- NEOAXIOM_MANIFEST_RELATIONS_START -->
+
+## Relaciones con manifiestos / Relations with Manifestos
+
+> **Relación documental/conceptual, no procedencia exclusiva.** Estos vínculos hacen explícita la red vigente del Neoaxioma con manifiestos que desarrollan, aplican, limitan o contextualizan su función. Un enlace no declara identidad, subordinación ni causalidad. / **Documentary/conceptual relation, not exclusive provenance.** These links make explicit the Neoaxiom's current network with Manifestos that develop, apply, limit or contextualise its function. A link does not assert identity, subordination or causality.
+
+- [XVII · Respeto a Todos los Seres Vivos™ / Respect for All Living Beings™](../manifiestos/17_respeto_todos_seres_vivos_ES_EN.md)
+- [XLV · Multidimensionalidad Neodialéctica™ / Neodialectical Multidimensionality™](../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
+
+<!-- NEOAXIOM_MANIFEST_RELATIONS_END -->
+
 **Síntesis / Synthesis:** [#92](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/92) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80).
 
 [← Índice de Neoaxiomas™](README.md)

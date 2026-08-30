@@ -89,6 +89,17 @@ This Neoaxiom does not turn symbols into authority by themselves. It uses them a
 
 **Example:** In the shield, the Crown may recall responsibility for governance and the Eagle an overview, without granting political privilege through the symbol. Water, Fire, Earth, Wood and Metal make the material and transformative dimension of the world visible without claiming that five elements scientifically explain all reality. The active extension is documented in [WaterFire™ and Elemental Totality](./NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md).
 
+<!-- NEOAXIOM_MANIFEST_RELATIONS_START -->
+
+## Relaciones con manifiestos / Relations with Manifestos
+
+> **Relación documental/conceptual, no procedencia exclusiva.** Estos vínculos hacen explícita la red vigente del Neoaxioma con manifiestos que desarrollan, aplican, limitan o contextualizan su función. Un enlace no declara identidad, subordinación ni causalidad. / **Documentary/conceptual relation, not exclusive provenance.** These links make explicit the Neoaxiom's current network with Manifestos that develop, apply, limit or contextualise its function. A link does not assert identity, subordination or causality.
+
+- [I · Soberanía de Guía Neodialéctica / Neodialectical Guiding Sovereignty](../manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
+- [XVI · Refragmentación Arquetípica™ / Archetypal Refragmentation™](../manifiestos/16_refragmentacion_arquetipica_ES_EN.md)
+
+<!-- NEOAXIOM_MANIFEST_RELATIONS_END -->
+
 **Síntesis / Synthesis:** [#93](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/93) · [Matriz general / General matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80).
 
 [← Índice de Neoaxiomas™](README.md)
