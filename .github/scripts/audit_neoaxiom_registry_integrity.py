@@ -70,6 +70,15 @@ def main():
     syn = SYN.read_text(encoding='utf-8')
     portal = PORTAL.read_text(encoding='utf-8')
 
+    es_gate = re.search(r'^#\s+ES\s+·\s+Castellano\s*$', readme, re.M)
+    en_gate = re.search(r'^#\s+EN\s+·\s+English\s*$', readme, re.M)
+    if not es_gate or not en_gate or en_gate.start() < es_gate.start():
+        problems.append('NEOAXIOM_READABILITY_FAILURE: README sin capas ES/EN ordenadas / ordered ES/EN layers missing')
+        readme_es = readme_en = ''
+    else:
+        readme_es = readme[es_gate.end():en_gate.start()]
+        readme_en = readme[en_gate.end():]
+
     canonical = primary_documents('NAX')
     candidates = primary_documents('C-NAX')
     canonical_ids = sorted(canonical)
@@ -114,6 +123,9 @@ def main():
         pattern = re.compile(r'\[\*\*' + re.escape(ident) + r'\s+·[^\]]+\*\*\]\(\./' + re.escape(paths[0].name) + r'\)')
         if not pattern.search(readme):
             problems.append(f'NEOAXIOM_READABILITY_FAILURE: {ident} no enlaza primero a su documento propio')
+        for language, layer in (('ES', readme_es), ('EN', readme_en)):
+            if len(pattern.findall(layer)) != 1:
+                problems.append(f'NEOAXIOM_LANGUAGE_INDEX_FAILURE: {ident} debe enlazar una vez en la capa {language}')
 
     for number, paths in sorted(candidates.items()):
         if len(paths) != 1:
@@ -122,6 +134,18 @@ def main():
         pattern = re.compile(r'\[\*\*' + re.escape(ident) + r'\s+·[^\]]+\*\*\]\(\./' + re.escape(paths[0].name) + r'\)')
         if not pattern.search(readme):
             problems.append(f'NEOAXIOM_READABILITY_FAILURE: {ident} no enlaza primero a su documento propio')
+        for language, layer in (('ES', readme_es), ('EN', readme_en)):
+            if len(pattern.findall(layer)) != 1:
+                problems.append(f'NEOAXIOM_LANGUAGE_INDEX_FAILURE: {ident} debe enlazar una vez en la capa {language}')
+
+    required_headings = {
+        'ES': ('Cómo leer esta capa', 'Neoaxiomas vigentes', 'Candidatos neoaxiomáticos', 'Relación estructural', 'Cómo participar'),
+        'EN': ('How to read this layer', 'Current Neoaxioms', 'Neoaxiomatic candidates', 'Structural relation', 'How to participate'),
+    }
+    for language, layer in (('ES', readme_es), ('EN', readme_en)):
+        for heading in required_headings[language]:
+            if not re.search(r'^#{2,3}\s+' + re.escape(heading), layer, re.M):
+                problems.append(f'NEOAXIOM_LANGUAGE_INDEX_FAILURE: falta «{heading}» en la capa {language}')
 
     candidate_count = len(expected_candidates)
     max_candidate = max(expected_candidates) if expected_candidates else None
@@ -157,6 +181,7 @@ def main():
         '## Regla endurecida / Hardened rule',
         '',
         '- **README = índice; NAX/C-NAX = documento doctrinal propio; procedencia y SAN = rutas secundarias. / README = index; NAX/C-NAX = own doctrinal document; provenance and SAN = secondary routes.**',
+        '- **Cada capa ES y EN del README debe enlazar exactamente una vez a cada documento NAX/C-NAX y conservar el mismo mapa estructural. / Each ES and EN README layer must link exactly once to every NAX/C-NAX document and preserve the same structural map.**',
         '- **La frontera se deriva de las fuentes públicas C-NAX y debe ser contigua en documentos, README, portal e índice SAN. / The frontier is derived from public C-NAX sources and must remain contiguous across documents, README, portal and SAN index.**',
         '- **El auditor valida la arquitectura documental vigente y no exige restaurar el antiguo README monolítico. / The auditor validates the current document architecture and never requires restoring the former monolithic README.**',
         '',
