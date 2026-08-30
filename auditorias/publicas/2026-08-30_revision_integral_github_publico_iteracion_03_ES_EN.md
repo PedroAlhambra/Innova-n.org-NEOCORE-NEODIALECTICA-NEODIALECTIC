@@ -31,7 +31,7 @@ El Manifiesto LXXXV conservaba en castellano dos fórmulas completas y varios bl
 - `LINK_INTEGRITY`: PASS · 498 Markdown activos · 11.946 enlaces internos · 0 rotos.
 - `RELATIONAL_NAVIGATION` y `GENEALOGICAL_NAVIGATION`: PASS · 172 superficies.
 - `CANONICAL_STATE`: PASS · 85 manifiestos finitos registrados.
-- `VERSION_STATE`: PASS · versión vigente 7.3.2 resuelta desde `versiones/README.md`.
+- `VERSION_STATE`: PASS · la versión vigente se resuelve exclusivamente desde `versiones/README.md`.
 - `SOURCE_MIRROR_INTEGRITY`: PASS · 85 espejos; LXXXV regenerado desde su fuente.
 - `WIKI_PARITY`: PASS verificable para las 12 páginas declaradas en `wiki-source/DEPLOY_MINIMO.md`; la Wiki viva coincide archivo por archivo.
 - Guard ontológico: PASS sobre 529 superficies; Neo0™ conserva origen, teleología y reconstrucción; ONe Starkdr™ conserva emergencia sintética distribuible.
@@ -70,7 +70,7 @@ Manifesto LXXXV retained two complete formulas and several transition blocks in 
 - `LINK_INTEGRITY`: PASS · 498 active Markdown files · 11,946 internal links · 0 broken.
 - `RELATIONAL_NAVIGATION` and `GENEALOGICAL_NAVIGATION`: PASS · 172 surfaces.
 - `CANONICAL_STATE`: PASS · 85 finite manifestos registered.
-- `VERSION_STATE`: PASS · current version 7.3.2 resolved from `versiones/README.md`.
+- `VERSION_STATE`: PASS · the current version is resolved exclusively from `versiones/README.md`.
 - `SOURCE_MIRROR_INTEGRITY`: PASS · 85 mirrors; LXXXV regenerated from its source.
 - `WIKI_PARITY`: verifiable PASS for the 12 pages declared in `wiki-source/DEPLOY_MINIMO.md`; the live Wiki matches file by file.
 - Ontological guard: PASS across 529 surfaces; Neo0™ retains origin, teleology and reconstruction; ONe Starkdr™ retains distributable synthetic emergence.
