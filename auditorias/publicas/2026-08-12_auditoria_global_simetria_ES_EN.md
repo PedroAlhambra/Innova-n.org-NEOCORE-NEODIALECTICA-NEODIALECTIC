@@ -7,9 +7,9 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **375**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **309**.
-- Fallos estructurales divididos / Split structural failures: **3**.
+- Markdown activo examinado / Active Markdown scanned: **376**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **310**.
+- Fallos estructurales divididos / Split structural failures: **4**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -28,6 +28,8 @@
   - VII: párrafos ES=7 EN=6
   - IX: code ES=1 EN=0
   - IX: párrafos ES=6 EN=4
+- `neoaxiomas/C-NAX-15_SOBERANIA_INTELECTUAL_ESPECIE_ES_EN.md` · ES=138 · EN=192 · ratio=1.39
+  - volumen EN/ES=1.39 (192/138)
 
 ## Marcadores / Markers
 
@@ -306,6 +308,7 @@
 | `manifiestos/deltas/2026-08-29_relacion_genealogica_navegable_ES_EN.md` | **OK** |  |
 | `manifiestos/deltas/LXI_delta_genetica_adn_neopandora_custodia_multiescalar_ES_EN.md` | **OK** |  |
 | `manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md` | **OK** |  |
+| `neoaxiomas/C-NAX-15_SOBERANIA_INTELECTUAL_ESPECIE_ES_EN.md` | **REVISAR** | volumen EN/ES=1.39 (192/138) |
 | `neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md` | **OK** |  |
 | `neoaxiomas/README.md` | **OK** |  |
 | `obras/README.md` | **OK** |  |
