@@ -28,7 +28,7 @@ El Manifiesto LXXXV conservaba en castellano dos fórmulas completas y varios bl
 ### Pruebas frescas
 
 - `CONTENT_SYMMETRY`: LXXXV desaparece del residuo; el total baja de 24 a 3 fallos reales.
-- `LINK_INTEGRITY`: PASS · 498 Markdown activos · 11.946 enlaces internos · 0 rotos.
+- `LINK_INTEGRITY`: PASS · 499 Markdown activos · 11.946 enlaces internos · 0 rotos.
 - `RELATIONAL_NAVIGATION` y `GENEALOGICAL_NAVIGATION`: PASS · 172 superficies.
 - `CANONICAL_STATE`: PASS · 85 manifiestos finitos registrados.
 - `VERSION_STATE`: PASS · la versión vigente se resuelve exclusivamente desde `versiones/README.md`.
@@ -67,7 +67,7 @@ Manifesto LXXXV retained two complete formulas and several transition blocks in 
 ### Fresh tests
 
 - `CONTENT_SYMMETRY`: LXXXV is absent from the residue; the total falls from 24 to 3 real failures.
-- `LINK_INTEGRITY`: PASS · 498 active Markdown files · 11,946 internal links · 0 broken.
+- `LINK_INTEGRITY`: PASS · 499 active Markdown files · 11,946 internal links · 0 broken.
 - `RELATIONAL_NAVIGATION` and `GENEALOGICAL_NAVIGATION`: PASS · 172 surfaces.
 - `CANONICAL_STATE`: PASS · 85 finite manifestos registered.
 - `VERSION_STATE`: PASS · the current version is resolved exclusively from `versiones/README.md`.
