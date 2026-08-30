@@ -7,8 +7,8 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **400**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **334**.
+- Markdown activo examinado / Active Markdown scanned: **401**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **335**.
 - Fallos estructurales divididos / Split structural failures: **10**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
@@ -346,6 +346,7 @@
 | `neoaxiomas/NAX-11_AUTORIDAD_FIJACION_HUMANA_SINTESIS_REVISABLE_ES_EN.md` | **OK** |  |
 | `neoaxiomas/NAX-12_TRAZABILIDAD_SUSTITUTIVA_BUROCRACIA_REDUNDANTE_ES_EN.md` | **OK** |  |
 | `neoaxiomas/NAX-13_LIBERACION_TIEMPO_CONTROL_CREACION_APORTE_ES_EN.md` | **OK** |  |
+| `neoaxiomas/NAX-14_PREVENCION_BIFURCACION_SIMBIOTICA_ES_EN.md` | **OK** |  |
 | `neoaxiomas/README.md` | **OK** |  |
 | `obras/README.md` | **OK** |  |
 | `obras/idea/PRESS_KIT_ES_EN.md` | **OK** |  |
