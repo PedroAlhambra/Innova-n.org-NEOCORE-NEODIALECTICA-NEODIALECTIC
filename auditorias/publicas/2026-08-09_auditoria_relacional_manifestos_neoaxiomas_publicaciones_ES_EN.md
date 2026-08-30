@@ -3,7 +3,7 @@
 
 **Fecha / Date:** 2026-08-30  
 **Manifiestos canónicos / Canonical manifestos:** 85 · I–LXXXV  
-**Markdown activo examinado / Active Markdown scanned:** 469  
+**Markdown activo examinado / Active Markdown scanned:** 470  
 **Archivo histórico excluido del estado vivo / Historical archive excluded from living state:** 55 archivos / files  
 **Regla de integridad:** esta auditoría no resume, acorta ni reescribe cuerpos fuente. Detecta relaciones documentales y candidatos a revisión; las relaciones semánticas o causales siguen requiriendo SAN/revisión humana. / **Integrity rule:** this audit never summarises, shortens or rewrites source bodies. It detects documentary relations and review candidates; semantic or causal relations still require SAN/human review.
 
@@ -1159,7 +1159,7 @@
 - **analisis/publicos:** `analisis/publicos/2026-08-10_LXII_juego_sintesis_honor_starkdr_ransol_arboles_tiempo_ES_EN.md`
 - **manifiestos:** `manifiestos/63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md` · `manifiestos/64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md` · `manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md` · `manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md`
 - **otros:** `manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md` · `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
-- **neoaxiomas:** `neoaxiomas/README.md`
+- **neoaxiomas:** `neoaxiomas/C-NAX-16_NO_CORONACION_PARTE_ES_EN.md` · `neoaxiomas/README.md`
 - **obras:** `obras/idea/RANSOL_RED_DEL_TIEMPO_ARBOLES_INVISIBLES_ETERNOS_ES_EN.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md`
 
