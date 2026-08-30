@@ -823,7 +823,6 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 > **Norma / Rule:** toda superficie relacional destinada a navegación debe usar hipervínculos reales; este bloque es un índice navegable adicional y no sustituye los enlaces de `Relaciones principales / Main relations`, Síntesis Abierta ni otras rutas explícitas. / Every relational surface intended for navigation must use real hyperlinks; this block is an additional navigable index and does not replace links in `Main relations`, Open Synthesis or other explicit routes.
 
-- **XII** · [Los sin ego / The Egoless](./12_los_sin_ego_ES_EN.md)
 - **XXI** · [Manifiesto por el Reconocimiento Neodialéctico™ / Manifesto for Neodialectical Recognition™](./21_reconocimiento_neodialectico_ES_EN.md)
 - **XXII** · [Manifiesto contra la Reducción y la Captura Intelectual™ / Manifesto against Intellectual Reduction and Capture™](./22_contra_reduccion_captura_intelectual_ES_EN.md)
 - **XXV** · [Manifiesto del Pulido de la Piedra™ / Manifesto of the Polishing of the Stone™](./25_pulido_de_la_piedra_ES_EN.md)

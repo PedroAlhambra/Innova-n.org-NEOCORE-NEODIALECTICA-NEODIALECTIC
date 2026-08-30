@@ -302,20 +302,6 @@ To learn from his resistance, contradictions, errors, mercy, strength and final 
 
 ---
 
-<!-- NEO_CROSS_REFERENCES_START -->
-
-## Referencias cruzadas canónicas / Canonical cross-references
-
-- [Síntesis Abierta LXXXV · #180 / Open Synthesis LXXXV · #180](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/180)
-- [IX · Memoria, Genealogía y Trazabilidad / Memory, Genealogy and Traceability](06_memoria_genealogia_trazabilidad_ES_EN.md)
-- [XXVI · Misericordia Universal Recíproca / Universal Reciprocal Mercy](26_misericordia_universal_reciproca_ES_EN.md)
-- [XXIX · Contra la Idolatría del Dinero / Against the Idolatry of Money](29_idolatria_del_dinero_ES_EN.md)
-- [XXX · Coherencia entre Fines y Medios / Coherence between Ends and Means](30_coherencia_fines_medios_ES_EN.md)
-- [LIII · Leónidas™ / Leonidas™](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
-- [Portal de Síntesis Abierta / Open Synthesis portal](../propuestas/sintesis-abierta/README.md)
-
-
-<!-- NEO_CROSS_REFERENCES_END -->
 ## Fuentes históricas de contraste / Historical scrutiny sources
 
 Este manifiesto distingue hechos históricos de interpretación neodialéctica. Para contraste histórico se han consultado materiales del U.S. National Park Service sobre Grant, Reconstrucción y la elaboración de sus memorias; la Ulysses S. Grant Presidential Library sobre la recepción de Grant por Walt Whitman; y el catálogo de la Bibliothèque nationale de France para verificar que *Les Enfants du capitaine Grant* de Jules Verne pertenece a la ficción de los *Voyages extraordinaires* y no constituye por sí mismo evidencia de una relación con Ulysses S. Grant.
@@ -323,3 +309,17 @@ Este manifiesto distingue hechos históricos de interpretación neodialéctica. 
 This manifesto distinguishes historical facts from neodialectical interpretation. Historical scrutiny used U.S. National Park Service materials on Grant, Reconstruction and the making of his memoirs; the Ulysses S. Grant Presidential Library concerning Walt Whitman's reception of Grant; and the Bibliothèque nationale de France catalogue to verify that Jules Verne's *Les Enfants du capitaine Grant* belongs to the fictional *Voyages extraordinaires* and does not by itself establish a relation to Ulysses S. Grant.
 
 **Estado / Status:** ABIERTO A SÍNTESIS / OPEN FOR SYNTHESIS
+
+<!-- NEO_CROSS_REFERENCES_START -->
+
+## Referencias cruzadas canónicas / Canonical cross-references
+
+> **Norma / Rule:** toda superficie relacional destinada a navegación debe usar hipervínculos reales; este bloque es un índice navegable adicional y no sustituye los enlaces de `Relaciones principales / Main relations`, Síntesis Abierta ni otras rutas explícitas. / Every relational surface intended for navigation must use real hyperlinks; this block is an additional navigable index and does not replace links in `Main relations`, Open Synthesis or other explicit routes.
+
+- Sin referencias cruzadas a otros manifiestos detectadas / No cross-references to other manifestos detected.
+
+### Capas y fuentes relacionadas / Related layers and sources
+
+- [NEOCore™ · marco / framework](../README.md)
+
+<!-- NEO_CROSS_REFERENCES_END -->

@@ -39,7 +39,7 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 > ∞ no cuenta como número finito: permanece siempre después del último manifiesto numerado. / ∞ is not a finite manifesto number: it always remains after the latest numbered manifesto.
 
 **Frontera canónica vigente / Current canonical frontier:** **85 manifiestos finitos bilingües · I–LXXXV + Manifiesto ∞ / 85 finite bilingual manifestos · I–LXXXV + Manifesto ∞**  
-**Fecha de fijación de esta frontera / Frontier fixation date:** 2026-08-29
+**Fecha de fijación de esta frontera / Frontier fixation date:** 2026-08-30
 
 <!-- NEO_CROSS_REFERENCE_POLICY_START -->
 
@@ -63,7 +63,7 @@ La sincronización se automatiza mediante `.github/scripts/sync_manifesto_crossr
 ### Síntesis de principios / Synthesis of principles
 
 Cada manifiesto dispone de un espacio público de contraste. / Each manifesto has a public space for scrutiny.  
-[Portal de Síntesis Abierta / Open Synthesis portal](../propuestas/sintesis-abierta/README.md) · [Índice completo I–LXXXIV + ∞ + Neoaxiomas + sistema / Complete index](../propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md)
+[Portal de Síntesis Abierta / Open Synthesis portal](../propuestas/sintesis-abierta/README.md) · [Índice completo I–LXXXV + ∞ + Neoaxiomas + sistema / Complete index](../propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md)
 
 ### Problemas, evidencia y auditorías / Problems, evidence and audits
 
@@ -157,6 +157,7 @@ Cada manifiesto dispone de un espacio público de contraste. / Each manifesto ha
 - **LXXXII** · [Manifiesto de la Ciencia Multidimensional Neodialéctica™ / Manifesto of Neodialectical Multidimensional Science™](82_ciencia_multidimensional_neodialectica_ES_EN.md) · [SAN #174](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/174)
 - **LXXXIII** · [Manifiesto de Activación Neodialéctica™ · La verdad también tiene derecho a circular / Neodialectical Activation Manifesto™ · Truth also has the right to circulate](83_activacion_neodialectica_verdad_circulacion_ES_EN.md) · [SAN #175](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/175)
 - **LXXXIV** · [Manifiesto de la Permeabilidad Intelectual del Poder™ · Contra la captura opaca del acceso / Manifesto of the Intellectual Permeability of Power™ · Against opaque access capture](84_intermediacion_acceso_permeabilidad_poder_ES_EN.md) · [SAN #178](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/178)
+- **LXXXV** · [Manifiesto por la Memoria del Capitán Grant™ / Manifesto in Memory of Captain Grant™](85_memoria_capitan_grant_ES_EN.md) · [SAN #180](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/180)
 - **∞** · [Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
 
 > Ningún manifiesto equivale por sí solo al marco completo. / No single manifesto equals the complete framework.
@@ -165,7 +166,7 @@ Cada manifiesto dispone de un espacio público de contraste. / Each manifesto ha
 
 **Cualquier persona puede aportar a un nodo concreto con comprensión local suficiente.** No es necesario dominar el marco entero para preguntar, aportar experiencia, fuentes, evidencia, objeciones, contraejemplos, pruebas o mejoras. Para juzgar el marco completo se exige una profundidad proporcional de lectura y relación; por su complejidad actual, la ayuda de IA puede ser necesaria o altamente recomendable como memoria relacional, siempre con retorno a fuente.
 
-**Última síntesis finita / Latest finite synthesis:** [Manifiesto de la Permeabilidad Intelectual del Poder™ · Contra la captura opaca del acceso / Manifesto of the Intellectual Permeability of Power™ · Against opaque access capture](84_intermediacion_acceso_permeabilidad_poder_ES_EN.md) · [Issue #178](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/178)  
+**Última síntesis finita / Latest finite synthesis:** [Manifiesto por la Memoria del Capitán Grant™ / Manifesto in Memory of Captain Grant™](85_memoria_capitan_grant_ES_EN.md) · [Issue #180](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/180)  
 **Puerta permanente / Permanent door:** [Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) · [Issue #106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106)  
 **Cómo aportar / How to contribute:** [protocolo general / general protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../auditorias/publicas/README.md) · [portal SAN™](../propuestas/sintesis-abierta/README.md) · [índice completo / complete index](../propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md)
 
