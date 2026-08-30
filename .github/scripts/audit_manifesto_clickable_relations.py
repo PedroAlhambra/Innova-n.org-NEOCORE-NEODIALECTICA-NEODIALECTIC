@@ -22,6 +22,7 @@ GENEALOGY_PREFIXES = (
 )
 
 REGISTRY = json.loads(CANON.read_text(encoding='utf-8')) if CANON.exists() else {'entries': {}}
+VALID_NUMERALS = set(REGISTRY.get('entries', {}))
 LEGACY_TO_CANONICAL = {
     (ROOT / entry['legacy']).resolve(): (ROOT / entry['canonical']).resolve()
     for entry in REGISTRY.get('entries', {}).values()
@@ -58,19 +59,21 @@ def raw_trademark_relations(s: str) -> list[str]:
 
 
 def raw_named_manifesto_relations(s: str) -> list[str]:
-    """Find canonical manifesto references left as plain text after real links are removed.
-
-    A genealogy such as "Manifiesto XLVII" / "Manifesto XLVII" is itself a
-    navigation declaration.  It must therefore be clickable at the point where
-    it is named, even when the title has no trademark marker and even when the
-    same target is linked later in the cross-reference block.
-    """
     residual = remove_md_links(s)
     found = {
         f'{label} {number}'
         for label, number in re.findall(
             r'\b(Manifiesto|Manifesto)\s+([IVXLCDM]+|∞)\b', residual, flags=re.IGNORECASE
         )
+    }
+    return sorted(found)
+
+
+def raw_canonical_numerals(s: str) -> list[str]:
+    residual = remove_md_links(s)
+    found = {
+        token for token in re.findall(r'(?<![A-Z0-9-])([IVXLCDM]+|∞)(?![A-Z0-9-])', residual)
+        if token in VALID_NUMERALS
     }
     return sorted(found)
 
@@ -91,14 +94,10 @@ def validate_local_links(path: Path, line: str, lineno: int) -> None:
 
 
 def validate_relation_markdown(path: Path, line: str, lineno: int) -> None:
-    """Reject pseudo-links and true nested-link debris in declared relation surfaces."""
     residual = remove_md_links(line)
     defects: set[str] = set()
     for token in re.findall(r'\[(?:[IVXLCDM]+|∞|(?:C-)?NAX-\d+)', residual): defects.add(token)
     for token in re.findall(r'(?:[IVXLCDM]+|∞|(?:C-)?NAX-\d+)\]\(', residual): defects.add(token)
-    # Keep this deliberately local: the outer label may not cross another complete
-    # Markdown link. The previous greedy pattern mistook any two links on one line
-    # for nesting, producing false positives across otherwise valid relation lists.
     if re.search(r'\[[^\[\]\n]*\[[^\]\n]+\]\([^)\n]+\)[^\[\]\n]*\]\([^)\n]+\)', line):
         defects.add('NESTED_LINK')
     if defects: failures.append(f'{path}:{lineno}: RELATIONAL_MARKDOWN_SYNTAX_FAILURE: {sorted(defects)}')
@@ -110,10 +109,10 @@ def has_crossref_block(text: str) -> bool:
 
 def audit_declared_relations(path: Path, line: str, lineno: int) -> None:
     validate_relation_markdown(path, line, lineno)
-    raw = line.split(':**', 1)[-1]; residual = remove_md_links(raw); missing = set()
-    missing.update(re.findall(r'(?<![A-Z])([IVXLCDM]+|∞)\s*·', residual))
-    missing.update(re.findall(r'(?:^|,)\s*([IVXLCDM]+|∞)\s*(?=,|·|$|\by\b|\be\b|\band\b)', residual))
-    if missing: failures.append(f'{path}:{lineno}: MAIN_RELATIONS_NOT_CLICKABLE: {sorted(missing)}')
+    raw = line.split(':**', 1)[-1]
+    missing = raw_canonical_numerals(raw)
+    if missing: failures.append(f'{path}:{lineno}: MAIN_RELATIONS_NOT_CLICKABLE: {missing}')
+    residual = remove_md_links(raw)
     neoaxioms = sorted(set(re.findall(r'(?<![A-Z0-9-])(C-NAX-\d+|NAX-\d+)(?![A-Z0-9-])', residual)))
     if neoaxioms: failures.append(f'{path}:{lineno}: NEOAXIOM_RELATIONS_NOT_CLICKABLE: {neoaxioms}')
     validate_local_links(path, line, lineno)
