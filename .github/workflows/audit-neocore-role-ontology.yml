@@ -1,0 +1,51 @@
+name: Audit NEOCore role ontology
+
+on:
+  pull_request:
+    paths:
+      - '**/*.md'
+      - '**/*.txt'
+      - '**/*.rst'
+      - '**/*.json'
+      - '**/*.yml'
+      - '**/*.yaml'
+      - '**/*.py'
+      - '**/*.html'
+      - '**/*.css'
+      - '**/*.js'
+      - '**/*.jsx'
+      - '**/*.ts'
+      - '**/*.tsx'
+      - '.github/scripts/audit_neocore_role_ontology.py'
+      - '.github/workflows/audit-neocore-role-ontology.yml'
+  push:
+    branches: [main]
+    paths:
+      - '**/*.md'
+      - '**/*.txt'
+      - '**/*.rst'
+      - '**/*.json'
+      - '**/*.yml'
+      - '**/*.yaml'
+      - '**/*.py'
+      - '**/*.html'
+      - '**/*.css'
+      - '**/*.js'
+      - '**/*.jsx'
+      - '**/*.ts'
+      - '**/*.tsx'
+      - '.github/scripts/audit_neocore_role_ontology.py'
+      - '.github/workflows/audit-neocore-role-ontology.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  role-ontology:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Audit role ontology and NeoTitan delta literacy
+        run: python .github/scripts/audit_neocore_role_ontology.py
