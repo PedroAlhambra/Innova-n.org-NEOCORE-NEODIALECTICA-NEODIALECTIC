@@ -1,0 +1,26 @@
+name: Audit Issue-document reciprocity
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'manifiestos/**'
+      - 'neoaxiomas/**'
+      - 'propuestas/sintesis-abierta/**'
+      - '.github/scripts/audit_issue_document_reciprocity.py'
+      - '.github/workflows/audit-issue-document-reciprocity.yml'
+
+permissions:
+  contents: read
+  issues: read
+
+jobs:
+  reciprocity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Audit dedicated Open Synthesis Issue ↔ document links
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/audit_issue_document_reciprocity.py
