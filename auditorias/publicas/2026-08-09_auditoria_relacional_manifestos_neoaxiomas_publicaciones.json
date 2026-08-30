@@ -598,10 +598,10 @@
       "roman": "LXVII",
       "title": "NeoTitanes™ · Reconstrucción Sistémica y Motor del Bien Común / NeoTitans™ · Systemic Reconstruction and the Common-Good Engine",
       "path": "manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md",
-      "words": 3227,
-      "headings": 32,
-      "paragraphs": 98,
-      "words_per_heading": 100.8
+      "words": 3654,
+      "headings": 34,
+      "paragraphs": 108,
+      "words_per_heading": 107.5
     },
     {
       "roman": "LXVIII",
@@ -13685,6 +13685,9 @@
         "otros": [
           "manifiestos/README.md",
           "README.md"
+        ],
+        "sintesis-abierta": [
+          "propuestas/sintesis-abierta/2026-08-19_NEOCore_7_3_DELTA_CONTINUIDAD_CREADORA_NEO0_TOROIDE_ES_EN.md"
         ]
       },
       "inbound": {
