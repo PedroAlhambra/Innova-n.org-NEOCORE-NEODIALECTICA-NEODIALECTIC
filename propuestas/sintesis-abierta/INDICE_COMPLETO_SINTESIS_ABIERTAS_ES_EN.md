@@ -1,9 +1,9 @@
 # Índice Completo de Síntesis Abiertas™
 # Complete Open Synthesis™ Index
 
-**Fecha / Date:** 2026-08-28
+**Fecha / Date:** 2026-08-30
 **Estado / Status:** vivo, versionado y revisable / living, versioned and revisable  
-**Cobertura / Coverage:** **84 manifiestos finitos I–LXXXIV + Manifiesto ∞ · 14 Neoaxiomas™ canónicos + 13 candidatos C-NAX-15–C-NAX-27 · síntesis transversales, auditorías y proyectos de sistema / 84 finite manifestos I–LXXXIV + Manifesto ∞ · 14 canonical Neoaxioms™ + 13 candidates C-NAX-15–C-NAX-27 · cross-cutting syntheses, audits and system projects**.
+**Cobertura / Coverage:** **85 manifiestos finitos I–LXXXV + Manifiesto ∞ · 14 Neoaxiomas™ canónicos + 13 candidatos C-NAX-15–C-NAX-27 · síntesis transversales, auditorías y proyectos de sistema / 85 finite manifestos I–LXXXV + Manifesto ∞ · 14 canonical Neoaxioms™ + 13 candidates C-NAX-15–C-NAX-27 · cross-cutting syntheses, audits and system projects**.
 
 > **ABIERTO A SÍNTESIS ≠ VALIDADO.**  
 > **OPEN TO SYNTHESIS ≠ VALIDATED.**
@@ -119,8 +119,9 @@ Faithful global understanding of the complete framework is a different task: bec
 | LXXX | [Manifiesto de la Neotrama™ · Las Hojas Reconstruidas, el Agua Recuperada y el Fuego de Agua™ / Manifesto of Neotrama™ · Reconstructed Leaves, Restored Water and WaterFire™](../../manifiestos/80_neotrama_hojas_reconstruidas_agua_recuperada_fuego_de_agua_ES_EN.md) | [#159](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/159) |
 | LXXXI | [Manifiesto del Ultralujo como Bien Común™ · La élite del aporte / Manifesto of Ultraluxury as Common Good™ · The elite of contribution](../../manifiestos/81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md) | [#160](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/160) |
 | LXXXII | [Manifiesto de la Ciencia Multidimensional Neodialéctica™ / Manifesto of Neodialectical Multidimensional Science™](../../manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md) | [#174](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/174) |
-| LXXXIII | [Manifiesto de Activación Neodialéctica™ · La verdad también tiene derecho a circular / Manifesto of Neodialectical Activation™ · Truth also has the right to circulate](../../manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md) | [#175](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/175) |
+| LXXXIII | [Manifiesto de Activación Neodialéctica™ · La verdad también tiene derecho a circular / Neodialectical Activation Manifesto™ · Truth also has the right to circulate](../../manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md) | [#175](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/175) |
 | LXXXIV | [Manifiesto de la Permeabilidad Intelectual del Poder™ · Contra la captura opaca del acceso / Manifesto of the Intellectual Permeability of Power™ · Against opaque access capture](../../manifiestos/84_intermediacion_acceso_permeabilidad_poder_ES_EN.md) | [#178](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/178) |
+| LXXXV | [Manifiesto por la Memoria del Capitán Grant™ / Manifesto in Memory of Captain Grant™](../../manifiestos/85_memoria_capitan_grant_ES_EN.md) | [#180](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/180) |
 | ∞ | [Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](../../manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) | [#106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106) |
 
 **Regla ∞ / ∞ rule:** el manifiesto ∞ no cuenta como número finito; permanece siempre después del último manifiesto numerado y conserva abierta la continuidad del fractal. / Manifesto ∞ does not count as a finite number; it always remains after the latest numbered manifesto and keeps fractal continuity open.
