@@ -1,179 +1,23 @@
+"""Validate the Neoaxiom candidate frontier without rewriting doctrine.
+
+Candidate extraction is deliberately fail-closed: a new public C-NAX source
+must be copied in full to its own neoaxiomas/C-NAX-*_ES_EN.md document and added
+to the README index. This synchroniser never rebuilds a monolithic README and
+never substitutes a source with a generated summary.
+"""
+
 from pathlib import Path
-import json
-import re
-
-ROOT=Path('.').resolve()
-REG=ROOT/'manifiestos/CANONICAL_FILENAMES.json'
-NEO=ROOT/'neoaxiomas/README.md'
-SYN=ROOT/'propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md'
-CAND_DIR=ROOT/'propuestas/sintesis-abierta'
-
-ES_MARK=re.compile(r'^# ES · (?:Castellano|Español)\s*$',re.M)
-EN_MARK=re.compile(r'^# EN · English\s*$',re.M)
-CHEAD=re.compile(r'^##\s+(?:[IVXLCDM]+|\d+)\.\s+(C-NAX-(\d+)) · (.+?)\s*$',re.M)
-ISSUE=re.compile(r'https://github\.com/PedroAlhambra/Innova-n\.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/(\d+)')
-QUOTE=re.compile(r'^> \*\*(.+?)\*\*\s*$',re.M)
-STANDALONE_HEAD_ES=re.compile(r'^# (C-NAX-(\d+)) · (.+?)\s*$',re.M)
-STANDALONE_ES=re.compile(r'^## ES(?: · Castellano)?\s*$',re.M)
-STANDALONE_EN=re.compile(r'^## EN(?: · English)?\s*$',re.M)
+import subprocess
+import sys
 
 
-def roman_to_int(s):
-    vals={'I':1,'V':5,'X':10,'L':50,'C':100,'D':500,'M':1000}; total=prev=0
-    for ch in reversed(s):
-        v=vals[ch]
-        if v<prev: total-=v
-        else: total+=v; prev=v
-    return total
+root = Path('.').resolve()
+readme = (root / 'neoaxiomas/README.md').read_text(encoding='utf-8')
+if 'README = ÍNDICE' not in readme or 'README = INDEX' not in readme:
+    raise SystemExit('NEOAXIOM_MONOLITH_FAILURE: README index contract missing; refusing legacy synchronisation')
 
-
-def subsection(body,m):
-    rest=body[m.end():]
-    nxt=re.search(r'^##\s+',rest,re.M)
-    return rest[:nxt.start()] if nxt else rest
-
-
-def candidate_row(c):
-    source_link=(f'[{c["roman"]}](../{c["path"]})' if c['roman']
-                 else f'[documento / document](../{c["path"]})')
-    ident=f'C-NAX-{c["num"]}'
-    return (f'| **{ident} · {c["es_title"]} / {c["en_title"]}** | '
-            f'{source_link} | '
-            f'**Candidato explícito · SAN #{c["issue"]}**; no canonizado / '
-            f'**Explicit candidate · SAN #{c["issue"]}**; not canonicalised |')
-
-
-def normalize_row_inside_candidate_table(text, ident, row):
-    # Remove any existing row for this candidate wherever a previous synchroniser
-    # may have misplaced it, then reinsert it inside the canonical table.
-    text=re.sub(r'^\| \*\*'+re.escape(ident)+r' · .*\|\s*\n?', '', text, flags=re.M)
-    table_header='| Candidato / Candidate | Procedencia / Provenance | Estado / Status |\n|---|---|---|'
-    details_boundary='\n\n### C-NAX-15 ·'
-    start=text.find(table_header)
-    end=text.find(details_boundary)
-    if start<0 or end<0 or end<start:
-        raise SystemExit('Cannot locate canonical Neoaxiom candidate table')
-    return text[:end].rstrip()+f'\n{row}\n'+text[end:]
-
-entries=json.loads(REG.read_text(encoding='utf-8')).get('entries',{})
-latest=max(entries,key=roman_to_int)
-found={}
-
-# 1) Candidates explicitly embedded in canonical manifestos.
-for roman,entry in sorted(entries.items(),key=lambda kv:roman_to_int(kv[0])):
-    p=ROOT/entry['legacy']
-    text=p.read_text(encoding='utf-8',errors='replace')
-    es=ES_MARK.search(text); en=EN_MARK.search(text)
-    if not es or not en or en.start()<es.start():
-        continue
-    esbody=text[es.end():en.start()]; enbody=text[en.end():]
-    eh={m.group(1):m for m in CHEAD.finditer(esbody)}
-    nh={m.group(1):m for m in CHEAD.finditer(enbody)}
-    for ident,em in eh.items():
-        nm=nh.get(ident)
-        if not nm:
-            continue
-        es_sec=subsection(esbody,em); en_sec=subsection(enbody,nm)
-        eq=QUOTE.search(es_sec); nq=QUOTE.search(en_sec)
-        issue_candidates=ISSUE.findall(es_sec)+ISSUE.findall(en_sec)
-        if not eq or not nq or not issue_candidates:
-            continue
-        front=text.split('# ES ·',1)[0]
-        manifesto_issues=ISSUE.findall(front)
-        found[ident]={
-            'num':int(em.group(2)),'roman':roman,'path':p.relative_to(ROOT).as_posix(),
-            'source_kind':'manifesto',
-            'es_title':em.group(3).strip(),'en_title':nm.group(3).strip(),
-            'es_formula':eq.group(1).strip(),'en_formula':nq.group(1).strip(),
-            'issue':issue_candidates[0],
-            'manifesto_issue':manifesto_issues[0] if manifesto_issues else None,
-        }
-
-# 2) Standalone C-NAX documents are first-class candidate sources too.
-# Existing manifesto-derived entries keep precedence to preserve genealogy.
-for p in sorted(CAND_DIR.glob('*C_NAX_*_ES_EN.md')):
-    text=p.read_text(encoding='utf-8',errors='replace')
-    heads=list(STANDALONE_HEAD_ES.finditer(text))
-    if len(heads)<2:
-        continue
-    first=heads[0]
-    ident=first.group(1)
-    if ident in found:
-        continue
-    second=next((h for h in heads[1:] if h.group(1)==ident),None)
-    if not second:
-        continue
-    es=STANDALONE_ES.search(text); en=STANDALONE_EN.search(text)
-    if not es or not en or en.start()<es.start():
-        continue
-    esbody=text[es.end():en.start()]; enbody=text[en.end():]
-    eq=QUOTE.search(esbody); nq=QUOTE.search(enbody)
-    issue_candidates=ISSUE.findall(text)
-    if not eq or not nq or not issue_candidates:
-        continue
-    found[ident]={
-        'num':int(first.group(2)),'roman':None,'path':p.relative_to(ROOT).as_posix(),
-        'source_kind':'standalone',
-        'es_title':first.group(3).strip(),'en_title':second.group(3).strip(),
-        'es_formula':eq.group(1).strip(),'en_formula':nq.group(1).strip(),
-        'issue':issue_candidates[0],
-        'manifesto_issue':None,
-    }
-
-neo=NEO.read_text(encoding='utf-8')
-for ident,c in sorted(found.items(),key=lambda kv:kv[1]['num']):
-    # Always normalise the row location. This repairs earlier misplaced standalone rows
-    # and makes future standalone candidates deterministic.
-    neo=normalize_row_inside_candidate_table(neo,ident,candidate_row(c))
-
-    if not re.search(r'^### '+re.escape(ident)+r' · ',neo,re.M):
-        provenance=(f'[{c["roman"]}](../{c["path"]})' if c['roman']
-                    else f'[documento / document](../{c["path"]})')
-        detail=(f'\n\n### {ident} · {c["es_title"]} / {c["en_title"]}\n\n'
-                f'> **ES:** {c["es_formula"]}\n\n'
-                f'> **EN:** {c["en_formula"]}\n\n'
-                f'**Procedencia / Provenance:** {provenance}.  \n'
-                f'**Síntesis / Synthesis:** [#{c["issue"]}](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/{c["issue"]}) · '
-                f'**CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**\n')
-        marker='\n<!-- NEOAXIOM_CANDIDATES_72_END -->'
-        if marker not in neo:
-            raise SystemExit('Cannot locate Neoaxiom candidate block end')
-        neo=neo.replace(marker,detail+marker,1)
-        print(f'NEOAXIOM_CANDIDATE_DETAIL_ADDED {ident}')
-
-all_nums=sorted(set(int(x) for x in re.findall(r'C-NAX-(\d+)',neo)))
-if all_nums:
-    neo=re.sub(r'## Candidatos neoaxiomáticos detectados en el repaso I–[IVXLCDM]+ / Neoaxiomatic candidates detected in the I–[IVXLCDM]+ review',
-               f'## Candidatos neoaxiomáticos detectados en el repaso I–{latest} / Neoaxiomatic candidates detected in the I–{latest} review',neo,count=1)
-NEO.write_text(neo,encoding='utf-8')
-
-syn=SYN.read_text(encoding='utf-8')
-for ident,c in sorted(found.items(),key=lambda kv:kv[1]['num']):
-    if re.search(r'^\| \*\*'+re.escape(ident)+r' · ',syn,re.M):
-        continue
-    extra=''
-    if c['manifesto_issue']:
-        extra=(f' · [{c["roman"]} #{c["manifesto_issue"]}]'
-               f'(https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/{c["manifesto_issue"]})')
-    row=(f'| **{ident} · {c["es_title"]} / {c["en_title"]} · candidato / candidate** | '
-         f'[#{c["issue"]}](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/{c["issue"]}){extra} |')
-    boundary='\n\n**Regla de estado / State rule:**'
-    if boundary not in syn:
-        raise SystemExit('Cannot locate candidate table boundary in complete synthesis index')
-    syn=syn.replace(boundary,'\n'+row+boundary,1)
-    print(f'SYNTHESIS_CANDIDATE_ROW_ADDED {ident}')
-
-if all_nums:
-    max_c=max(all_nums); candidate_nums=sorted(x for x in all_nums if x>=15); count=len(candidate_nums)
-    syn=re.sub(r'C-NAX-15–C-NAX-\d+',f'C-NAX-15–C-NAX-{max_c}',syn)
-    syn=re.sub(r'\b\d+ candidatos C-NAX-15–C-NAX-\d+',f'{count} candidatos C-NAX-15–C-NAX-{max_c}',syn)
-    syn=re.sub(r'\b\d+ candidates C-NAX-15–C-NAX-\d+',f'{count} candidates C-NAX-15–C-NAX-{max_c}',syn)
-finite=len(entries)
-syn=re.sub(r'\*\*Cobertura / Coverage:\*\* \*\*\d+ manifiestos finitos I–[IVXLCDM]+',
-           f'**Cobertura / Coverage:** **{finite} manifiestos finitos I–{latest}',syn,count=1)
-syn=re.sub(r'/ \d+ finite manifestos I–[IVXLCDM]+',f'/ {finite} finite manifestos I–{latest}',syn,count=1)
-syn=re.sub(r'Todo manifiesto finito I–[IVXLCDM]+ dispone',f'Todo manifiesto finito I–{latest} dispone',syn)
-syn=re.sub(r'Every finite manifesto I–[IVXLCDM]+ has',f'Every finite manifesto I–{latest} has',syn)
-SYN.write_text(syn,encoding='utf-8')
-
-print(f'NEOAXIOM_CANDIDATE_SYNC found={len(found)} latest_manifesto={latest}')
+subprocess.run(
+    [sys.executable, str(root / '.github/scripts/audit_neoaxiom_registry_integrity.py')],
+    check=True,
+)
+print('NEOAXIOM_CANDIDATE_SYNC mode=non_reductive_document_gate changed=0')

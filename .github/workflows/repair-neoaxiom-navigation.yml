@@ -1,141 +1,26 @@
-# One-shot safe repair. Re-running is fail-closed/idempotent.
-name: Repair Neoaxiom navigation safely
+name: Guard Neoaxiom document navigation
 
 on:
   workflow_dispatch:
   push:
     branches: [main]
     paths:
+      - 'neoaxiomas/**'
+      - 'propuestas/sintesis-abierta/*C_NAX_*_ES_EN.md'
+      - 'propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md'
+      - 'propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md'
+      - '.github/scripts/audit_neoaxiom_registry_integrity.py'
       - '.github/workflows/repair-neoaxiom-navigation.yml'
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  repair:
+  guard:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Patch only the Neoaxiom navigation surface
-        shell: bash
-        run: |
-          set -euo pipefail
-          python3 - <<'PY'
-          from pathlib import Path
-          import re
-
-          path = Path('neoaxiomas/README.md')
-          before = path.read_text(encoding='utf-8')
-          text = before
-
-          expected_ids = [f'C-NAX-{n}' for n in range(15, 27)]
-          issue_map = {
-              'C-NAX-15': 150,
-              'C-NAX-16': 151,
-              'C-NAX-17': 152,
-              'C-NAX-18': 153,
-              'C-NAX-19': 123,
-              'C-NAX-20': 126,
-              'C-NAX-21': 127,
-              'C-NAX-22': 135,
-              'C-NAX-23': 148,
-              'C-NAX-24': 149,
-              'C-NAX-25': 155,
-              'C-NAX-26': 156,
-          }
-
-          old_header = '| Candidato / Candidate | Procedencia / Provenance | Estado / Status |\n|---|---|---|'
-          if old_header not in text:
-              raise SystemExit('ABORT: expected 3-column candidate table not found; refusing broad rewrite.')
-
-          row_re = re.compile(r'^\|\s*\*\*(C-NAX-\d+)\s+·\s+(.+?)\*\*\s*\|\s*(.*?)\s*\|\s*(.*?)\s*\|$', re.M)
-          rows = {}
-          for m in row_re.finditer(text):
-              cid = m.group(1).upper()
-              if cid in expected_ids:
-                  rows[cid] = (m.group(2).strip(), m.group(3).strip(), m.group(4).strip())
-
-          if sorted(rows) != sorted(expected_ids):
-              raise SystemExit(f'ABORT: expected exactly {expected_ids}, found {sorted(rows)}; refusing partial rewrite.')
-
-          new_lines = [
-              '| Neoaxioma candidato / Candidate Neoaxiom | Leer / Read | Procedencia / Provenance | Síntesis / Synthesis | Estado / Status |',
-              '|---|---|---|---|---|',
-          ]
-          for cid in expected_ids:
-              title, provenance, status = rows[cid]
-              issue = issue_map[cid]
-              status = re.sub(r'\*\*Candidato explícito\s*·\s*SAN\s*#\d+\*\*', '**Candidato explícito**', status, flags=re.I)
-              status = re.sub(r'\*\*Explicit candidate\s*·\s*SAN\s*#\d+\*\*', '**Explicit candidate**', status, flags=re.I)
-              anchor = cid.lower()
-              synth = f'[SAN #{issue}](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/{issue})'
-              new_lines.append(f'| **{cid} · {title}** | [Leer / Read](README.md#{anchor}) | {provenance} | {synth} | {status} |')
-
-          table_re = re.compile(
-              re.escape(old_header) + r'\n' +
-              r'(?:\|\s*\*\*C-NAX-(?:1[5-9]|2[0-6])\b.*?\|\n?){12}',
-              re.M
-          )
-          match = table_re.search(text)
-          if not match:
-              raise SystemExit('ABORT: exact 12-row candidate table block not found; refusing rewrite.')
-          text = text[:match.start()] + '\n'.join(new_lines) + '\n' + text[match.end():]
-
-          for cid in expected_ids:
-              marker = f'<a id="{cid.lower()}"></a>'
-              heading_re = re.compile(rf'(?m)^###\s+{re.escape(cid)}\s+·')
-              matches = list(heading_re.finditer(text))
-              if len(matches) != 1:
-                  raise SystemExit(f'ABORT: expected exactly one detailed heading for {cid}; found {len(matches)}.')
-              if marker not in text:
-                  pos = matches[0].start()
-                  text = text[:pos] + marker + '\n\n' + text[pos:]
-
-          legacy = '**Marco / Framework:** **NEOCore™ PRE-7.3 · Filosofía Arquetípica Neodialéctica™**  '
-          current = '**Marco / Framework:** [**NEOCore™ · versión vigente / current version**](../versiones/README.md) · **Filosofía Arquetípica Neodialéctica™**  '
-          if legacy in text:
-              text = text.replace(legacy, current, 1)
-
-          if before.count('### C-NAX-') != text.count('### C-NAX-'):
-              raise SystemExit('ABORT: candidate heading count changed.')
-          if before.count('<!--') != text.count('<!--') or before.count('-->') != text.count('-->'):
-              raise SystemExit('ABORT: structural comment-marker count changed.')
-          if len(text) < len(before) - 512:
-              raise SystemExit('ABORT: suspicious content shrinkage detected.')
-          for cid in expected_ids:
-              if f'[Leer / Read](README.md#{cid.lower()})' not in text:
-                  raise SystemExit(f'ABORT: missing read link for {cid}.')
-              if f'<a id="{cid.lower()}"></a>' not in text:
-                  raise SystemExit(f'ABORT: missing read anchor for {cid}.')
-              issue = issue_map[cid]
-              if f'/issues/{issue})' not in text:
-                  raise SystemExit(f'ABORT: missing SAN link for {cid}.')
-
-          path.write_text(text, encoding='utf-8')
-          PY
-
-      - name: Verify no destructive regression
-        shell: bash
-        run: |
-          set -euo pipefail
-          git diff --check
-          git diff -- neoaxiomas/README.md
-          test -n "$(git diff --name-only)"
-          test "$(git diff --name-only | grep -v '^neoaxiomas/README.md$' | wc -l)" -eq 0
-
-      - name: Commit targeted repair
-        shell: bash
-        run: |
-          set -euo pipefail
-          if git diff --quiet -- neoaxiomas/README.md; then
-            echo 'Neoaxiom navigation already repaired.'
-            exit 0
-          fi
-          git config user.name 'innova-n-safe-maintenance'
-          git config user.email 'actions@users.noreply.github.com'
-          git add neoaxiomas/README.md
-          git commit -m 'fix(neoaxioms): separate read, provenance, synthesis and status navigation'
-          git push
+      - name: Verify document-first Neoaxiom navigation
+        run: python .github/scripts/audit_neoaxiom_registry_integrity.py
+      - name: Ensure the guard is non-mutating
+        run: git diff --exit-code

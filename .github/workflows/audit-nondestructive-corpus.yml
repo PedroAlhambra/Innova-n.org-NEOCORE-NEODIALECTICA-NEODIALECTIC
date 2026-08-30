@@ -64,15 +64,21 @@ jobs:
           set -euo pipefail
           f=neoaxiomas/README.md
           test -s "$f"
-          # Existing formal content is never replaceable by its relational index.
-          grep -Fq 'Regla heredada de integridad no reductiva' "$f"
-          grep -Fq 'Inherited non-reductive integrity rule' "$f"
+          grep -Fq 'README = ÍNDICE' "$f"
+          grep -Fq 'README = INDEX' "$f"
           for n in $(seq -w 1 14); do
-            grep -Eq "^## NAX-${n} ·" "$f"
+            doc="$(find neoaxiomas -maxdepth 1 -type f -name "NAX-${n}_*_ES_EN.md" ! -name 'NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md' -printf '%f\n')"
+            test "$(printf '%s\n' "$doc" | sed '/^$/d' | wc -l)" -eq 1
+            grep -Fq "(./${doc})" "$f"
           done
-          for n in $(seq 15 26); do
-            grep -Eq "^### C-NAX-${n} ·" "$f"
+          max="$(find propuestas/sintesis-abierta -maxdepth 1 -type f -name '*C_NAX_*_ES_EN.md' -printf '%f\n' | sed -n 's/.*C_NAX_\([0-9][0-9]*\)_.*/\1/p' | sort -n | tail -1)"
+          test -n "$max"
+          for n in $(seq 15 "$max"); do
+            doc="$(find neoaxiomas -maxdepth 1 -type f -name "C-NAX-${n}_*_ES_EN.md" -printf '%f\n')"
+            test "$(printf '%s\n' "$doc" | sed '/^$/d' | wc -l)" -eq 1
+            grep -Fq "(./${doc})" "$f"
           done
+          python .github/scripts/audit_neoaxiom_registry_integrity.py
 
       - name: Diff integrity
         run: git diff --check HEAD^

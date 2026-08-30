@@ -54,7 +54,7 @@ Los Neoaxiomas™ son principios de alta estabilidad del NEOCore™ sin converti
 
 - [**Fuego de Agua™ y Totalidad Elemental · Agua, Madera, Fuego, Tierra y Metal**](./NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md)
 
-## Candidatos neoaxiomáticos · C-NAX-15–C-NAX-26
+## Candidatos neoaxiomáticos · C-NAX-15–C-NAX-27
 
 > **CANDIDATO ≠ CANON.** La regla de maduración de 365 días no cierra SAN™: incluso una fijación posterior permanece reabrible y revisable.
 
@@ -72,6 +72,7 @@ Los Neoaxiomas™ son principios de alta estabilidad del NEOCore™ sin converti
 | [**C-NAX-24 · Diagnóstico ≠ Síntesis™**](./C-NAX-24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md) | Candidato · [#149](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/149) | [Documento fuente](../propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md) |
 | [**C-NAX-25 · Fenómeno ≠ Narrativa™**](./C-NAX-25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md) | Candidato · [#155](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/155) | [Documento fuente](../propuestas/sintesis-abierta/2026-08-16_C_NAX_25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md) |
 | [**C-NAX-26 · Poder ↑ → Trazabilidad ↑ · Acusación ↑ → Evidencia ↑**](./C-NAX-26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md) | Candidato · [#156](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/156) | [Documento fuente](../propuestas/sintesis-abierta/2026-08-16_C_NAX_26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md) |
+| [**C-NAX-27 · Soberanía Diferenciada de Sistema y Síntesis™**](./C-NAX-27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md) | Candidato · [#176](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/176) | [Documento fuente](../propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md) |
 
 ## Relación estructural
 
