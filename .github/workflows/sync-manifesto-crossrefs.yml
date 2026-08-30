@@ -10,6 +10,7 @@ on:
       - '.github/scripts/sync_manifesto_index.py'
       - '.github/scripts/audit_manifesto_clickable_relations.py'
       - '.github/scripts/audit_global_bilingual_symmetry.py'
+      - '.github/scripts/audit_language_selectors.py'
       - 'manifiestos/**.md'
       - 'neoaxiomas/README.md'
       - 'obras/idea/README.md'
@@ -44,6 +45,8 @@ jobs:
         run: python .github/scripts/audit_manifesto_clickable_relations.py
       - name: Block canonical sync on global ES/EN content asymmetry
         run: python .github/scripts/audit_global_bilingual_symmetry.py
+      - name: Block canonical sync on broken ES/EN language navigation
+        run: python .github/scripts/audit_language_selectors.py
       - name: Commit synchronized manifesto navigation
         run: |
           set -euo pipefail

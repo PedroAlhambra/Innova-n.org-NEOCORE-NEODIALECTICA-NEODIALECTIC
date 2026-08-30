@@ -4,6 +4,8 @@
 **Fecha / Date:** 2026-08-30  
 **Ámbito / Scope:** fuente material, registro canónico, espejos generados, navegación genealógica y guard ontológico / material source, canonical registry, generated mirrors, genealogical navigation and ontological guard
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ## ES · Castellano
 
 ### Hallazgo material

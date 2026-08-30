@@ -5,6 +5,8 @@
 **Estado / Status:** regla pública activa de integridad relacional / active public relational-integrity rule  
 **Ámbito / Scope:** todos los manifiestos finitos vigentes + Manifiesto ∞ / all current finite manifestos + Manifesto ∞
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ## ES · Castellano
 
 La cabecera **`Relación genealógica / Genealogical relation`** no es prosa decorativa. Declara relaciones internas del corpus y, por tanto, constituye una **superficie de navegación**.

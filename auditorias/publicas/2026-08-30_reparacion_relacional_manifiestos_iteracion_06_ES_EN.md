@@ -3,6 +3,8 @@
 **Fecha / Date:** 2026-08-30  
 **Ámbito / Scope:** corpus público de manifiestos y controles de navegación relacional / public manifesto corpus and relational-navigation controls
 
+[ES · Castellano](#es--estado-inicial) · [EN · English](#en--initial-state)
+
 ## ES · Estado inicial
 
 La iteración parte de una reparación relacional previamente verificada sobre los manifiestos finitos I–LXXXV y el Manifiesto ∞. La revisión de continuidad detectó, no obstante, una debilidad sistémica del auditor: una relación genealógica podía nombrar en texto plano una pieza como `Manifiesto XLVII` / `Manifesto XLVII` sin marca `™` y el control específico de referencias genealógicas podía no clasificar ese nombre canónico como navegación no clicable.
