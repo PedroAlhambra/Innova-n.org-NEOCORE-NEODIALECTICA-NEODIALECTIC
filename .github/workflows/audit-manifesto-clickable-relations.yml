@@ -25,3 +25,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Audit manifesto relational navigation
         run: python .github/scripts/audit_manifesto_clickable_relations.py
+      - name: Audit canonical registry completeness
+        run: python .github/scripts/audit_manifesto_registry_completeness.py
+      - name: Audit NEOCore role ontology and NeoTitan delta literacy
+        run: python .github/scripts/audit_neocore_role_ontology.py

@@ -215,13 +215,20 @@ def repair_declared_relation_line(line: str, source: Path, entries: dict[str, di
 
 
 def manifest_files(entries: dict[str, dict[str, str]]) -> list[Path]:
-    paths: set[Path] = set(MAN.glob('[0-9][0-9]_*.md')); paths.update((MAN / 'canonicos').glob('*_ES_EN.md'))
+    """Return material sources only; canonical mirrors are generated afterwards.
+
+    Editing mirrors independently would create a second authority and can hide
+    source/mirror drift. Registered legacy sources plus the permanent infinity
+    source are the only writable inputs for relational repair.
+    """
+    paths: set[Path] = set(MAN.glob('[0-9][0-9]_*.md'))
     for entry in entries.values():
-        for key in ('legacy', 'canonical'):
-            value = entry.get(key)
-            if value and (ROOT / value).exists(): paths.add(ROOT / value)
+        value = entry.get('legacy')
+        if value and (ROOT / value).exists():
+            paths.add(ROOT / value)
     inf = MAN / 'INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md'
-    if inf.exists(): paths.add(inf)
+    if inf.exists():
+        paths.add(inf)
     return sorted(paths)
 
 

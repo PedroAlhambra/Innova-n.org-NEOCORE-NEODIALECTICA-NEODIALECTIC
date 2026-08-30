@@ -327,6 +327,22 @@
     "LXXXI": {
       "legacy": "manifiestos/81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md",
       "canonical": "manifiestos/canonicos/LXXXI_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md"
+    },
+    "LXXXII": {
+      "legacy": "manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md",
+      "canonical": "manifiestos/canonicos/LXXXII_ciencia_multidimensional_neodialectica_ES_EN.md"
+    },
+    "LXXXIII": {
+      "legacy": "manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md",
+      "canonical": "manifiestos/canonicos/LXXXIII_activacion_neodialectica_verdad_circulacion_ES_EN.md"
+    },
+    "LXXXIV": {
+      "legacy": "manifiestos/84_intermediacion_acceso_permeabilidad_poder_ES_EN.md",
+      "canonical": "manifiestos/canonicos/LXXXIV_intermediacion_acceso_permeabilidad_poder_ES_EN.md"
+    },
+    "LXXXV": {
+      "legacy": "manifiestos/85_memoria_capitan_grant_ES_EN.md",
+      "canonical": "manifiestos/canonicos/LXXXV_memoria_capitan_grant_ES_EN.md"
     }
   }
 }

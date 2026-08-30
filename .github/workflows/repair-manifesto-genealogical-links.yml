@@ -32,6 +32,15 @@ jobs:
       - name: Sanitize relational Markdown after repair
         run: python .github/scripts/sanitize_manifesto_relation_markdown.py
 
+      - name: Generate canonical mirrors from material sources
+        run: python .github/scripts/sync_canonical_manifestos.py
+
+      - name: Audit canonical registry completeness
+        run: python .github/scripts/audit_manifesto_registry_completeness.py
+
+      - name: Audit NEOCore role ontology
+        run: python .github/scripts/audit_neocore_role_ontology.py
+
       - name: Show material changes
         run: git diff -- manifiestos
 
@@ -53,3 +62,7 @@ jobs:
 
       - name: Audit clickable relations on resulting tree
         run: python .github/scripts/audit_manifesto_clickable_relations.py
+      - name: Audit canonical registry on resulting tree
+        run: python .github/scripts/audit_manifesto_registry_completeness.py
+      - name: Audit role ontology on resulting tree
+        run: python .github/scripts/audit_neocore_role_ontology.py
