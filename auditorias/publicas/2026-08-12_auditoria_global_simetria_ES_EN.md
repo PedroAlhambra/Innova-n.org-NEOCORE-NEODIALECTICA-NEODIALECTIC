@@ -7,9 +7,9 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **380**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **314**.
-- Fallos estructurales divididos / Split structural failures: **8**.
+- Markdown activo examinado / Active Markdown scanned: **382**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **316**.
+- Fallos estructurales divididos / Split structural failures: **9**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
@@ -38,6 +38,8 @@
   - volumen EN/ES=1.57 (233/148)
 - `neoaxiomas/C-NAX-19_INVIOLABILIDAD_RELACIONAL_SEPARACION_PLANOS_ES_EN.md` · ES=144 · EN=199 · ratio=1.38
   - volumen EN/ES=1.38 (199/144)
+- `neoaxiomas/C-NAX-21_IGNORANCIA_SISTEMICA_MAL_NO_SUPERIORIDAD_DESTRUCCION_ES_EN.md` · ES=128 · EN=214 · ratio=1.67
+  - volumen EN/ES=1.67 (214/128)
 
 ## Marcadores / Markers
 
@@ -321,6 +323,8 @@
 | `neoaxiomas/C-NAX-17_RECONSTRUCCION_SISTEMICA_ES_EN.md` | **REVISAR** | volumen EN/ES=1.52 (201/132) |
 | `neoaxiomas/C-NAX-18_MOTOR_BIEN_COMUN_NEOSINERGIA_ES_EN.md` | **REVISAR** | volumen EN/ES=1.57 (233/148) |
 | `neoaxiomas/C-NAX-19_INVIOLABILIDAD_RELACIONAL_SEPARACION_PLANOS_ES_EN.md` | **REVISAR** | volumen EN/ES=1.38 (199/144) |
+| `neoaxiomas/C-NAX-20_HUMANIDAD_COMUN_DIFERENCIA_ES_EN.md` | **OK** |  |
+| `neoaxiomas/C-NAX-21_IGNORANCIA_SISTEMICA_MAL_NO_SUPERIORIDAD_DESTRUCCION_ES_EN.md` | **REVISAR** | volumen EN/ES=1.67 (214/128) |
 | `neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md` | **OK** |  |
 | `neoaxiomas/README.md` | **OK** |  |
 | `obras/README.md` | **OK** |  |
