@@ -3,7 +3,7 @@
 
 **Fecha / Date:** 2026-08-30  
 **Manifiestos canónicos / Canonical manifestos:** 85 · I–LXXXV  
-**Markdown activo examinado / Active Markdown scanned:** 472  
+**Markdown activo examinado / Active Markdown scanned:** 474  
 **Archivo histórico excluido del estado vivo / Historical archive excluded from living state:** 55 archivos / files  
 **Regla de integridad:** esta auditoría no resume, acorta ni reescribe cuerpos fuente. Detecta relaciones documentales y candidatos a revisión; las relaciones semánticas o causales siguen requiriendo SAN/revisión humana. / **Integrity rule:** this audit never summarises, shortens or rewrites source bodies. It detects documentary relations and review candidates; semantic or causal relations still require SAN/human review.
 
@@ -1242,7 +1242,7 @@
 **Entrantes / Inbound:**
 - **manifiestos:** `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md` · `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md`
 - **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
-- **neoaxiomas:** `neoaxiomas/README.md`
+- **neoaxiomas:** `neoaxiomas/C-NAX-19_INVIOLABILIDAD_RELACIONAL_SEPARACION_PLANOS_ES_EN.md` · `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/2026-08-15_DELTA_NEOMANTIS_ASIMETRIA_INVERTIDA_DIGNIDAD_RECIPROCA_ES_EN.md` · `propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` · `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md`
 
 ### LXX · El Fauno™ · Masculinidad Fragmentada, Depredación Relacional y Retorno al Hombre / The Faun™ · Fragmented Masculinity, Relational Predation and Return to Manhood
@@ -1255,7 +1255,7 @@
 **Entrantes / Inbound:**
 - **manifiestos:** `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` · `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md` · `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md` · `manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md` · `manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md`
 - **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
-- **neoaxiomas:** `neoaxiomas/README.md`
+- **neoaxiomas:** `neoaxiomas/C-NAX-19_INVIOLABILIDAD_RELACIONAL_SEPARACION_PLANOS_ES_EN.md` · `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/2026-08-15_DELTA_NEOMANTIS_ASIMETRIA_INVERTIDA_DIGNIDAD_RECIPROCA_ES_EN.md` · `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md`
 
 ### LXXI · Libertad Sexual, Hipersexualización Industrial y Separación de Planos™ / Sexual Freedom, Industrial Hypersexualisation and Separation of Planes™
@@ -1268,7 +1268,7 @@
 **Entrantes / Inbound:**
 - **manifiestos:** `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` · `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md` · `manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md`
 - **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
-- **neoaxiomas:** `neoaxiomas/README.md`
+- **neoaxiomas:** `neoaxiomas/C-NAX-19_INVIOLABILIDAD_RELACIONAL_SEPARACION_PLANOS_ES_EN.md` · `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md`
 
 ### LXXII · El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™ · Strength, Desire, Power and Responsibility
@@ -1281,7 +1281,7 @@
 **Entrantes / Inbound:**
 - **manifiestos:** `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` · `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md` · `manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md`
 - **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
-- **neoaxiomas:** `neoaxiomas/README.md`
+- **neoaxiomas:** `neoaxiomas/C-NAX-19_INVIOLABILIDAD_RELACIONAL_SEPARACION_PLANOS_ES_EN.md` · `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/2026-08-15_DELTA_NEOMANTIS_ASIMETRIA_INVERTIDA_DIGNIDAD_RECIPROCA_ES_EN.md` · `propuestas/sintesis-abierta/2026-08-16_C_NAX_26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md` · `propuestas/sintesis-abierta/2026-08-16_DELTA_PODER_TRAZABILIDAD_ESCRUTINIO_EVIDENCIA_ES_EN.md` · `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md`
 
 ### LXXIII · Maduración Invertida™ · Humanidad Común y Degradación Arquetípica Reversible / Inverted Maturation™ · Common Humanity and Reversible Archetypal Degradation
@@ -1293,7 +1293,7 @@
 **Entrantes / Inbound:**
 - **manifiestos:** `manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md`
 - **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
-- **neoaxiomas:** `neoaxiomas/README.md`
+- **neoaxiomas:** `neoaxiomas/C-NAX-20_HUMANIDAD_COMUN_DIFERENCIA_ES_EN.md` · `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/2026-08-15_C_NAX_23_CONSERVACION_FRACTAL_COMUN_ES_EN.md` · `propuestas/sintesis-abierta/2026-08-15_DELTA_NEOMANTIS_ASIMETRIA_INVERTIDA_DIGNIDAD_RECIPROCA_ES_EN.md` · `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md`
 
 ### LXXIV · Asimetría de la Destrucción™ · Del Trol Humano al Bot / Asymmetry of Destruction™ · From the Human Troll to the Bot
