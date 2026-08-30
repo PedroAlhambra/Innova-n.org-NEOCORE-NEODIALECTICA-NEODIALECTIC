@@ -9,13 +9,13 @@
 
 ## ES · Resultado
 
-- Archivos Markdown activos revisados: **462**.
+- Archivos Markdown activos revisados: **463**.
 - Archivos Markdown históricos excluidos del estado vivo: **55**.
 - Entradas legacy excluidas del estado vivo: **0**.
 - README activos revisados: **18**.
-- Enlaces internos de ruta comprobados: **11737**.
+- Enlaces internos de ruta comprobados: **11738**.
 - Alias internos de GitHub Wiki reconocidos: **44**.
-- Enlaces externos inventariados sin comprobar disponibilidad remota: **1971**.
+- Enlaces externos inventariados sin comprobar disponibilidad remota: **1972**.
 - Enlaces sólo a ancla detectados: **827**.
 - Bloques de último manifiesto encontrados en README: **8**.
 - Bloques legacy NEO_CURRENT_NAV encontrados en README: **0**.
@@ -23,7 +23,7 @@
 - Manifiestos canónicos detectados: **85 · I–LXXXV**.
 - Último manifiesto / Síntesis: **LXXXV / #180**.
 - Enlaces internos rotos del grafo vivo: **0**.
-- Fallos canónicos críticos: **4**.
+- Fallos canónicos críticos: **1**.
 
 ### Comprobaciones canónicas
 
@@ -38,9 +38,6 @@
 
 ### Fallos canónicos
 
-- El índice completo de Síntesis Abierta no declara I–LXXXV. / The complete Open Synthesis index does not declare I–LXXXV.
-- El índice completo de Síntesis no enlaza el último manifiesto LXXXV. / The complete Synthesis index does not link the latest manifesto LXXXV.
-- El índice completo de Síntesis no enlaza el Issue #180 del último manifiesto LXXXV. / The complete Synthesis index does not link Issue #180 for the latest manifesto LXXXV.
 - README con bloque latest desincronizado / README with unsynchronised latest block: analisis/README.md, analisis/auditorias/README.md, analisis/publicos/README.md, analisis/publicos/evidencias/README.md, auditorias/publicas/README.md, obras/README.md, obras/idea/README.md, obras/idea/assets/README.md
 
 ### Enlaces internos rotos del grafo vivo
@@ -49,13 +46,13 @@
 
 ## EN · Result
 
-- Active Markdown files reviewed: **462**.
+- Active Markdown files reviewed: **463**.
 - Historical Markdown files excluded from living-state health: **55**.
 - Legacy entry files excluded from living-state health: **0**.
 - Active README files reviewed: **18**.
-- Internal path links checked: **11737**.
+- Internal path links checked: **11738**.
 - GitHub Wiki extensionless page aliases recognised: **44**.
-- External links inventoried without checking remote availability: **1971**.
+- External links inventoried without checking remote availability: **1972**.
 - Anchor-only links detected: **827**.
 - Latest-manifesto blocks found in README files: **8**.
 - Legacy NEO_CURRENT_NAV blocks found in README files: **0**.
@@ -63,7 +60,7 @@
 - Canonical manifestos detected: **85 · I–LXXXV**.
 - Latest manifesto / synthesis: **LXXXV / #180**.
 - Broken internal links in the living graph: **0**.
-- Canonical critical failures: **4**.
+- Canonical critical failures: **1**.
 
 ### Canonical checks
 
@@ -78,9 +75,6 @@
 
 ### Canonical failures
 
-- El índice completo de Síntesis Abierta no declara I–LXXXV. / The complete Open Synthesis index does not declare I–LXXXV.
-- El índice completo de Síntesis no enlaza el último manifiesto LXXXV. / The complete Synthesis index does not link the latest manifesto LXXXV.
-- El índice completo de Síntesis no enlaza el Issue #180 del último manifiesto LXXXV. / The complete Synthesis index does not link Issue #180 for the latest manifesto LXXXV.
 - README con bloque latest desincronizado / README with unsynchronised latest block: analisis/README.md, analisis/auditorias/README.md, analisis/publicos/README.md, analisis/publicos/evidencias/README.md, auditorias/publicas/README.md, obras/README.md, obras/idea/README.md, obras/idea/assets/README.md
 
 ### Broken internal links in the living graph
