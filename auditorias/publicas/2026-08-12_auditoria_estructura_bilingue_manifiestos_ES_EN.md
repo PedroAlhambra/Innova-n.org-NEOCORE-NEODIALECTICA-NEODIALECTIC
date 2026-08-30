@@ -4,8 +4,8 @@
 **Objeto / Scope:** títulos ES/EN, metadatos mínimos, marcadores de idioma, simetría de secciones principales, índices, espejo canónico y bloque normativo de referencias cruzadas.
 
 **Manifiestos revisados / Manifestos reviewed:** 86  
-**REVISAR / REVIEW:** 4  
-**ADVERTENCIAS / WARNINGS:** 0
+**REVISAR / REVIEW:** 3  
+**ADVERTENCIAS / WARNINGS:** 1
 
 ## Resultado / Result
 
@@ -92,10 +92,10 @@
 | LXXIX | `manifiestos/79_contra_alarmismo_sin_sintesis_responsabilidad_alternativa_ES_EN.md` | Manifiesto contra el Alarmismo sin Síntesis™ · Advertir obliga a construir | Manifesto against Alarmism without Synthesis™ · Warning Creates a Duty to Build | **OK** |  |
 | LXXX | `manifiestos/80_neotrama_hojas_reconstruidas_agua_recuperada_fuego_de_agua_ES_EN.md` | Manifiesto de la Neotrama™ · Las Hojas Reconstruidas, el Agua Recuperada y el Fuego de Agua™ | Manifesto of Neotrama™ · Reconstructed Leaves, Restored Water and WaterFire™ | **OK** |  |
 | LXXXI | `manifiestos/81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md` | Manifiesto del Ultralujo como Bien Común™ · La élite del aporte | Manifesto of Ultraluxury as Common Good™ · The elite of contribution | **OK** |  |
-| LXXXII | `manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md` | Manifiesto de la Ciencia Multidimensional Neodialéctica™ | Manifesto of Neodialectical Multidimensional Science™ | **REVISAR** | metadato Manifiesto/Manifesto ausente o ordinal distinto; falta metadato Versión/Version |
-| LXXXIII | `manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md` | Manifiesto de Activación Neodialéctica™ · La verdad también tiene derecho a circular | Neodialectical Activation Manifesto™ · Truth also has the right to circulate | **REVISAR** | metadato Manifiesto/Manifesto ausente o ordinal distinto; marcadores ES/EN incompletos; falta metadato Versión/Version |
-| LXXXIV | `manifiestos/84_intermediacion_acceso_permeabilidad_poder_ES_EN.md` | Manifiesto de la Permeabilidad Intelectual del Poder™ · Contra la captura opaca del acceso | Manifesto of the Intellectual Permeability of Power™ · Against opaque access capture | **REVISAR** | metadato Manifiesto/Manifesto ausente o ordinal distinto; marcadores ES/EN incompletos; falta metadato Versión/Version |
-| LXXXV | `manifiestos/85_memoria_capitan_grant_ES_EN.md` | Manifiesto por la Memoria del Capitán Grant™ | Manifesto in Memory of Captain Grant™ | **REVISAR** | metadato Manifiesto/Manifesto ausente o ordinal distinto; marcadores ES/EN incompletos; falta metadato Versión/Version |
+| LXXXII | `manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md` | Manifiesto de la Ciencia Multidimensional Neodialéctica™ | Manifesto of Neodialectical Multidimensional Science™ | **ADVERTENCIA** | falta metadato Versión/Version |
+| LXXXIII | `manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md` | Manifiesto de Activación Neodialéctica™ · La verdad también tiene derecho a circular | Neodialectical Activation Manifesto™ · Truth also has the right to circulate | **REVISAR** | marcadores ES/EN incompletos; falta metadato Versión/Version |
+| LXXXIV | `manifiestos/84_intermediacion_acceso_permeabilidad_poder_ES_EN.md` | Manifiesto de la Permeabilidad Intelectual del Poder™ · Contra la captura opaca del acceso | Manifesto of the Intellectual Permeability of Power™ · Against opaque access capture | **REVISAR** | marcadores ES/EN incompletos; falta metadato Versión/Version |
+| LXXXV | `manifiestos/85_memoria_capitan_grant_ES_EN.md` | Manifiesto por la Memoria del Capitán Grant™ | Manifesto in Memory of Captain Grant™ | **REVISAR** | marcadores ES/EN incompletos; falta metadato Versión/Version |
 | ∞ | `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | Manifiesto de Neo0™ · Puerta Abierta del Fractal | Neo0™ Manifesto · Open Gate of the Fractal | **OK** |  |
 
 ## Regla permanente / Permanent rule
