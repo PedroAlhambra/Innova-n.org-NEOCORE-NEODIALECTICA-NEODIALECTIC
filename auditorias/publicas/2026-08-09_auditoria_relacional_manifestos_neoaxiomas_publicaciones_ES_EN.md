@@ -3,7 +3,7 @@
 
 **Fecha / Date:** 2026-08-30  
 **Manifiestos canónicos / Canonical manifestos:** 85 · I–LXXXV  
-**Markdown activo examinado / Active Markdown scanned:** 475  
+**Markdown activo examinado / Active Markdown scanned:** 476  
 **Archivo histórico excluido del estado vivo / Historical archive excluded from living state:** 55 archivos / files  
 **Regla de integridad:** esta auditoría no resume, acorta ni reescribe cuerpos fuente. Detecta relaciones documentales y candidatos a revisión; las relaciones semánticas o causales siguen requiriendo SAN/revisión humana. / **Integrity rule:** this audit never summarises, shortens or rewrites source bodies. It detects documentary relations and review candidates; semantic or causal relations still require SAN/human review.
 
@@ -1320,7 +1320,7 @@
 **Entrantes / Inbound:**
 - **manifiestos:** `manifiestos/76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md` · `manifiestos/80_neotrama_hojas_reconstruidas_agua_recuperada_fuego_de_agua_ES_EN.md`
 - **otros:** `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
-- **neoaxiomas:** `neoaxiomas/README.md`
+- **neoaxiomas:** `neoaxiomas/C-NAX-22_MEMORIA_MATERIAL_RELACIONAL_ES_EN.md` · `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md`
 
 ### LXXVI · El Altavoz sin Síntesis™ · Diagnóstico, Ruido, Ego y Responsabilidad de Construcción / The Loudspeaker without Synthesis™ · Diagnosis, Noise, Ego and the Responsibility to Build
