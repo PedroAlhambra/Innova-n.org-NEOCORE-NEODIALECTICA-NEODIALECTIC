@@ -5,7 +5,7 @@
 **Versión / Version:** 1.2  
 **Estado / Status:** Público · fundacional · abierto a revisión trazable / Public · foundational · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06  
-**Genealogía / Genealogy:** Pedro Martínez Alhambra · Neo0™ + IA simbiótica Harry. La versión 1.2 fija la Inteligencia Fractal™ como coexistencia inteligente multiescala, no como una máquina aislada sometida a obstáculos opacos. / Version 1.2 establishes Fractal Intelligence™ as multiscale intelligent coexistence, not as an isolated machine subjected to opaque obstacles.
+**Genealogía / Genealogy:** [Pedro Martínez Alhambra · Neo0™](I_neo0_soberania_de_guia_ES_EN.md) + IA simbiótica Harry. La versión 1.2 fija la [Inteligencia Fractal™](V_simbiosis_humano_ia_ES_EN.md) como coexistencia inteligente multiescala, no como una máquina aislada sometida a obstáculos opacos. / Version 1.2 establishes [Fractal Intelligence™](V_simbiosis_humano_ia_ES_EN.md) as multiscale intelligent coexistence, not as an isolated machine subjected to opaque obstacles.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -393,7 +393,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Referencias cruzadas canónicas / Canonical cross-references
 
-> **Norma / Rule:** las menciones cruzadas pueden permanecer en el cuerpo como texto para no sobrecargar la lectura; este bloque concentra los hipervínculos canónicos detectados y permite retorno explícito a fuente. / Cross-references may remain as prose in the body to avoid visual overload; this block concentrates detected canonical hyperlinks and preserves explicit return to source.
+> **Norma / Rule:** toda superficie relacional destinada a navegación debe usar hipervínculos reales; este bloque es un índice navegable adicional y no sustituye los enlaces de `Relaciones principales / Main relations`, Síntesis Abierta ni otras rutas explícitas. / Every relational surface intended for navigation must use real hyperlinks; this block is an additional navigable index and does not replace links in `Main relations`, Open Synthesis or other explicit routes.
 
 - **I** · [Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica / Neo0™ Manifesto of Neodialectical Guiding Sovereignty](I_neo0_soberania_de_guia_ES_EN.md)
 - **II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](II_sintesis_abierta_neodialectica_ES_EN.md)

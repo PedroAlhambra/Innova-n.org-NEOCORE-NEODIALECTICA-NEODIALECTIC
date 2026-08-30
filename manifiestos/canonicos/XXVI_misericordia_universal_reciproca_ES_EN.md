@@ -410,7 +410,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Referencias cruzadas canónicas / Canonical cross-references
 
-> **Norma / Rule:** las menciones cruzadas pueden permanecer en el cuerpo como texto para no sobrecargar la lectura; este bloque concentra los hipervínculos canónicos detectados y permite retorno explícito a fuente. / Cross-references may remain as prose in the body to avoid visual overload; this block concentrates detected canonical hyperlinks and preserves explicit return to source.
+> **Norma / Rule:** toda superficie relacional destinada a navegación debe usar hipervínculos reales; este bloque es un índice navegable adicional y no sustituye los enlaces de `Relaciones principales / Main relations`, Síntesis Abierta ni otras rutas explícitas. / Every relational surface intended for navigation must use real hyperlinks; this block is an additional navigable index and does not replace links in `Main relations`, Open Synthesis or other explicit routes.
 
 - **XXV** · [Manifiesto del Pulido de la Piedra™ / Manifesto of the Polishing of the Stone™](XXV_pulido_de_la_piedra_ES_EN.md)
 - **XXVII** · [Manifiesto del Valor de los Alimentos y la Vida™ / Manifesto of the Value of Food and Life™](XXVII_valor_alimentos_vida_ES_EN.md)

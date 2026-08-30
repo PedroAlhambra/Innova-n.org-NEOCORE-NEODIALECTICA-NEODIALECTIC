@@ -1,11 +1,12 @@
 # LXXXIV · Manifiesto de la Permeabilidad Intelectual del Poder™ · Contra la captura opaca del acceso
 # LXXXIV · Manifesto of the Intellectual Permeability of Power™ · Against opaque access capture
 
+**Manifiesto / Manifesto:** LXXXIV  
 **Fecha / Date:** 2026-08-28  
 **Estado / Status:** PUBLICADO · SÍNTESIS ABIERTA / PUBLISHED · OPEN SYNTHESIS  
 **Marco / Framework:** Neodialéctica™ · NEOCore™  
 **Síntesis Abierta / Open Synthesis:** [#178](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/178)  
-**Relaciones principales / Main relations:** [XXII · Contra la Reducción y la Captura Intelectual™](./22_contra_reduccion_captura_intelectual_ES_EN.md) · [LX · Relevancia Humana Necesaria™ · Inteligencia Distribuida, Aporte y Anti-Captura Social](./60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md) · [LXXXI · Ultralujo como Bien Común™ · La élite del aporte](./81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md) · [LXXXIII · Activación Neodialéctica™ · La verdad también tiene derecho a circular](./83_activacion_neodialectica_verdad_circulacion_ES_EN.md)
+**Relaciones principales / Main relations:** [XXII · Contra la Reducción y la Captura Intelectual™](canonicos/XXII_contra_reduccion_captura_intelectual_ES_EN.md) · [LX · Relevancia Humana Necesaria™ · Inteligencia Distribuida, Aporte y Anti-Captura Social](canonicos/LX_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md) · [LXXXI · Ultralujo como Bien Común™ · La élite del aporte](canonicos/LXXXI_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md) · [LXXXIII · Activación Neodialéctica™ · La verdad también tiene derecho a circular](canonicos/LXXXIII_activacion_neodialectica_verdad_circulacion_ES_EN.md)
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 

@@ -1,6 +1,7 @@
 # LXXXIII · Manifiesto de Activación Neodialéctica™ · La verdad también tiene derecho a circular
 # LXXXIII · Neodialectical Activation Manifesto™ · Truth also has the right to circulate
 
+**Manifiesto / Manifesto:** LXXXIII  
 **Fecha / Date:** 2026-08-26  
 **Estado / Status:** PUBLICADO · SÍNTESIS ABIERTA / PUBLISHED · OPEN SYNTHESIS  
 **Marco / Framework:** Neodialéctica™ · NEOCore™  

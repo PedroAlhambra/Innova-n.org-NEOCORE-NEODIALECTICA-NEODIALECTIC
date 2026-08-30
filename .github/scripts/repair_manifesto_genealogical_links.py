@@ -16,6 +16,7 @@ NEOAX = ROOT / 'neoaxiomas'
 # No fuzzy title inference is used.
 ALIASES = {
     'Síntesis Abierta Neodialéctica™': 'II', 'Neodialectical Open Synthesis™': 'II',
+    'Pedro Martínez Alhambra · Neo0™': 'I',
     'Derecho Humano de Aporte™': 'III', 'Neodialéctica y Bien Común™': 'IV',
     'Neodialéctica™': 'IV',
     'Inteligencia Fractal™': 'V',
@@ -56,8 +57,11 @@ DIRECT_ALIASES = {
     'Lupa Neodialéctica™': Path('analisis/publicos/2026-07-13-religion-identidad-dogma-conciencia-neodialectica_ES_EN.md'),
 }
 
-GENEALOGY_PREFIX = '**Relación genealógica / Genealogical relation:**'
-RELATION_PREFIXES = ('**Relaciones principales / Main relations:**', '**Relaciones raíz / Root relations:**', GENEALOGY_PREFIX)
+GENEALOGY_PREFIXES = (
+    '**Relación genealógica / Genealogical relation:**',
+    '**Genealogía / Genealogy:**',
+)
+RELATION_PREFIXES = ('**Relaciones principales / Main relations:**', '**Relaciones raíz / Root relations:**') + GENEALOGY_PREFIXES
 MD_LINK_RE = re.compile(r'\[([^\]]+)\]\(([^)]+)\)')
 TM_RE = re.compile(r'([A-ZÁÉÍÓÚÜÑa-záéíóúüñ0-9][^,;:.\n]*?™)')
 ROMAN_TARGET_RE = re.compile(r'(?<!\[)(?<![A-Z])([IVXLCDM]+)\s*·\s*([^,;.\[\]\n]*?™)')
@@ -90,6 +94,31 @@ def verified_direct_href(source: Path, repo_path: Path) -> str | None:
     return relative_target(source, repo_path) if (ROOT / repo_path).exists() else None
 
 
+def canonicalize_existing_manifest_links(line: str, source: Path, entries: dict[str, dict[str, str]]) -> str:
+    """Redirect declared relational links from legacy sources to canonical mirrors."""
+    legacy_to_canonical = {
+        (ROOT / entry['legacy']).resolve(): entry['canonical']
+        for entry in entries.values()
+        if entry.get('legacy') and entry.get('canonical')
+    }
+
+    def repl(match: re.Match[str]) -> str:
+        label, href = match.group(1), match.group(2)
+        if href.startswith(('http://', 'https://', '#', 'mailto:')):
+            return match.group(0)
+        path_part, marker, fragment = href.partition('#')
+        destination = (source.parent / path_part).resolve()
+        canonical = legacy_to_canonical.get(destination)
+        if not canonical:
+            return match.group(0)
+        rewritten = relative_target(source, canonical)
+        if marker:
+            rewritten += '#' + fragment
+        return f'[{label}]({rewritten})'
+
+    return MD_LINK_RE.sub(repl, line)
+
+
 def verified_infinity_href(source: Path) -> str | None:
     target = MAN / 'INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md'
     return relative_target(source, target) if target.exists() else None
@@ -118,10 +147,9 @@ def normalize_malformed_links(line: str, source: Path, entries: dict[str, dict[s
         new = NESTED_IDENTICAL_LINK_RE.sub(lambda m: f'[{m.group(1)}{m.group(2)}{m.group(4)}]({m.group(3)})', line)
         if new == line: break
         line = new
-    line = MALFORMED_NAX10_RE.sub(lambda m: f'[NAX-10]({m.group(1)})', line)
-    line = MALFORMED_TRAILING_NEOAX_RE.sub(lambda m: m.group(1), line)
-    # Remove orphan '[' left before a Neoaxiom id; valid [ID](href) spans do not match.
-    line = ORPHAN_OPEN_NEOAX_RE.sub(lambda m: m.group(1), line)
+    # Neoaxiom debris is normalised by sanitize_manifesto_relation_markdown.py.
+    # Reprocessing it here previously risked interpreting valid links and their
+    # target filenames as malformed nested syntax.
     # Historic lines may start a Roman pseudo-link but never provide ](href).
     def roman_repl(m: re.Match[str]) -> str:
         roman, label = m.group(1), m.group(2).strip()
@@ -199,11 +227,12 @@ def repair_declared_relation_line(line: str, source: Path, entries: dict[str, di
     if not line.startswith(RELATION_PREFIXES): return line, []
     unresolved: list[str] = []
     new_line = normalize_malformed_links(line, source, entries)
+    new_line = canonicalize_existing_manifest_links(new_line, source, entries)
     for fn in (link_explicit_roman_targets, link_bare_roman_targets):
         new_line, xs = fn(new_line, source, entries); unresolved.extend(xs)
     new_line, xs = link_infinity(new_line, source); unresolved.extend(xs)
     new_line, xs = link_neoaxioms(new_line, source); unresolved.extend(xs)
-    if line.startswith(GENEALOGY_PREFIX):
+    if line.startswith(GENEALOGY_PREFIXES):
         new_line, xs = link_aliases(new_line, source, entries); unresolved.extend(xs)
         residual = MD_LINK_RE.sub('', new_line.split(':**', 1)[-1])
         for raw in TM_RE.findall(residual):
@@ -240,7 +269,7 @@ def main() -> int:
             repaired, unresolved = repair_declared_relation_line(line, path, entries)
             touched |= repaired != line; out.append(repaired)
             for item in unresolved:
-                code = 'UNRESOLVED_GENEALOGICAL_TARGET' if line.startswith(GENEALOGY_PREFIX) else 'UNRESOLVED_RELATIONAL_TARGET'
+                code = 'UNRESOLVED_GENEALOGICAL_TARGET' if line.startswith(GENEALOGY_PREFIXES) else 'UNRESOLVED_RELATIONAL_TARGET'
                 unresolved_rows.append(f'{path}:{lineno}: {code}: {item}')
         if touched:
             changed.append(str(path))

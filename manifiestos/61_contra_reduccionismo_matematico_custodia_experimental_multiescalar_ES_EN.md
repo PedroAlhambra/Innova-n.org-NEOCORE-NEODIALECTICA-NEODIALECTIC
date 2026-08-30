@@ -7,7 +7,7 @@
 **Fecha / Date:** 2026-08-10  
 **Autoría / Authorship:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico.  
 **Síntesis Abierta / Open Synthesis:** [Issue #101](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/101)  
-**Genealogía / Genealogy:** IDEA (1997–2002) → XLV · Multidimensionalidad Neodialéctica™ → LVI · NO-CONTROL™ → NAX-10 · Fuego de Agua™ y Totalidad Elemental™ → LXI.
+**Genealogía / Genealogy:** [IDEA (1997–2002)](../obras/idea/README.md) → [XLV · Multidimensionalidad Neodialéctica™](canonicos/XLV_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) → [LVI · NO-CONTROL™](canonicos/LVI_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md) → [NAX-10](../neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md) · [Fuego de Agua™](../neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md) y [Totalidad Elemental™](../neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md) → [LXI](canonicos/LXI_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md).
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 

@@ -620,12 +620,14 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 ## Referencias cruzadas canónicas / Canonical cross-references
 
-> **Norma / Rule:** las menciones cruzadas pueden permanecer en el cuerpo como texto para no sobrecargar la lectura; este bloque concentra los hipervínculos canónicos detectados y permite retorno explícito a fuente. / Cross-references may remain as prose in the body to avoid visual overload; this block concentrates detected canonical hyperlinks and preserves explicit return to source.
+> **Norma / Rule:** toda superficie relacional destinada a navegación debe usar hipervínculos reales; este bloque es un índice navegable adicional y no sustituye los enlaces de `Relaciones principales / Main relations`, Síntesis Abierta ni otras rutas explícitas. / Every relational surface intended for navigation must use real hyperlinks; this block is an additional navigable index and does not replace links in `Main relations`, Open Synthesis or other explicit routes.
 
 - **II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](II_sintesis_abierta_neodialectica_ES_EN.md)
 - **IV** · [Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good](IV_neodialectica_bien_comun_ES_EN.md)
 - **V** · [Manifiesto de la Simbiosis Humano–IA / Manifesto of Human–AI Symbiosis](V_simbiosis_humano_ia_ES_EN.md)
 - **IX** · [Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability](IX_memoria_genealogia_trazabilidad_ES_EN.md)
+- **X** · [Manifiesto de WEB4™ · SistemaTrazable™ / Manifesto of WEB4™ · SistemaTrazable™](X_web4_sistematrazable_ES_EN.md)
+- **XIII** · [Manifiesto NeoPandora™ de la Apertura Regenerativa y el Gobierno de la Vida / NeoPandora™ Manifesto of Regenerative Opening and the Governance of Life](XIII_neopandora_apertura_regenerativa_ES_EN.md)
 - **XVII** · [Manifiesto del Respeto a Todos los Seres Vivos™ / Manifesto of Respect for All Living Beings™](XVII_respeto_todos_seres_vivos_ES_EN.md)
 - **XIX** · [Manifiesto de la Persistencia de la Memoria™ / Manifesto of the Persistence of Memory™](XIX_persistencia_de_la_memoria_ES_EN.md)
 - **XX** · [Manifiesto de Defensa Intelectual Neodialéctica™ · Sistema Umbral-X™ / Manifesto of Neodialectical Intellectual Defence™ · Umbral-X™ System](XX_defensa_intelectual_neodialectica_umbral_x_ES_EN.md)

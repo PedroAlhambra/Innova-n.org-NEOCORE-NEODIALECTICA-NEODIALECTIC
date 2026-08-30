@@ -1,6 +1,7 @@
 # LXXXIV · Manifiesto de la Permeabilidad Intelectual del Poder™ · Contra la captura opaca del acceso
 # LXXXIV · Manifesto of the Intellectual Permeability of Power™ · Against opaque access capture
 
+**Manifiesto / Manifesto:** LXXXIV  
 **Fecha / Date:** 2026-08-28  
 **Estado / Status:** PUBLICADO · SÍNTESIS ABIERTA / PUBLISHED · OPEN SYNTHESIS  
 **Marco / Framework:** Neodialéctica™ · NEOCore™  

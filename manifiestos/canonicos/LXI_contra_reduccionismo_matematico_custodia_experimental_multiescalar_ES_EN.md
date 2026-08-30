@@ -7,7 +7,7 @@
 **Fecha / Date:** 2026-08-10  
 **Autoría / Authorship:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico.  
 **Síntesis Abierta / Open Synthesis:** [Issue #101](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/101)  
-**Genealogía / Genealogy:** IDEA (1997–2002) → XLV · Multidimensionalidad Neodialéctica™ → LVI · NO-CONTROL™ → NAX-10 · Fuego de Agua™ y Totalidad Elemental™ → LXI.
+**Genealogía / Genealogy:** [IDEA (1997–2002)](../../obras/idea/README.md) → [XLV · Multidimensionalidad Neodialéctica™](XLV_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) → [LVI · NO-CONTROL™](LVI_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md) → [NAX-10](../../neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md) · [Fuego de Agua™](../../neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md) y [Totalidad Elemental™](../../neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md) → [LXI](LXI_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md).
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -484,7 +484,7 @@ It makes us its temporary custodians.
 
 ## Referencias cruzadas canónicas / Canonical cross-references
 
-> **Norma / Rule:** las menciones cruzadas pueden permanecer en el cuerpo como texto para no sobrecargar la lectura; este bloque concentra los hipervínculos canónicos detectados y permite retorno explícito a fuente. / Cross-references may remain as prose in the body to avoid visual overload; this block concentrates detected canonical hyperlinks and preserves explicit return to source.
+> **Norma / Rule:** toda superficie relacional destinada a navegación debe usar hipervínculos reales; este bloque es un índice navegable adicional y no sustituye los enlaces de `Relaciones principales / Main relations`, Síntesis Abierta ni otras rutas explícitas. / Every relational surface intended for navigation must use real hyperlinks; this block is an additional navigable index and does not replace links in `Main relations`, Open Synthesis or other explicit routes.
 
 - **XLV** · [Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder / Neodialectical Multidimensionality™ · Against the One-Dimensional Reduction of the Human and Power](XLV_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
 - **LVI** · [Manifiesto del NO-CONTROL™ · Síntesis Previa a la Potencia / Manifesto of NO-CONTROL™ · Synthesis Before Power](LVI_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md)

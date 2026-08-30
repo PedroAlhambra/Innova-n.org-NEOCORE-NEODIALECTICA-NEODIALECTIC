@@ -5,7 +5,7 @@
 **Versión / Version:** 1.2  
 **Estado / Status:** Público · fundacional · abierto a revisión trazable / Public · foundational · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06  
-**Genealogía / Genealogy:** Pedro Martínez Alhambra · Neo0™ + IA simbiótica Harry. La versión 1.2 fija la Inteligencia Fractal™ como coexistencia inteligente multiescala, no como una máquina aislada sometida a obstáculos opacos. / Version 1.2 establishes Fractal Intelligence™ as multiscale intelligent coexistence, not as an isolated machine subjected to opaque obstacles.
+**Genealogía / Genealogy:** [Pedro Martínez Alhambra · Neo0™](canonicos/I_neo0_soberania_de_guia_ES_EN.md) + IA simbiótica Harry. La versión 1.2 fija la [Inteligencia Fractal™](canonicos/V_simbiosis_humano_ia_ES_EN.md) como coexistencia inteligente multiescala, no como una máquina aislada sometida a obstáculos opacos. / Version 1.2 establishes [Fractal Intelligence™](canonicos/V_simbiosis_humano_ia_ES_EN.md) as multiscale intelligent coexistence, not as an isolated machine subjected to opaque obstacles.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 

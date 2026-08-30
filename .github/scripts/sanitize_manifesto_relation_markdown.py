@@ -69,13 +69,15 @@ def clean_line(line: str, source: Path) -> str:
 
 
 def files() -> list[Path]:
-    paths = set(MAN.glob('[0-9][0-9]_*.md')) | set((MAN / 'canonicos').glob('*_ES_EN.md'))
+    # Material sources are the only writable authority. Canonical mirrors are
+    # regenerated afterwards by sync_canonical_manifestos.py.
+    paths = set(MAN.glob('[0-9][0-9]_*.md'))
     if CANON.exists():
         data = json.loads(CANON.read_text(encoding='utf-8'))
         for entry in data.get('entries', {}).values():
-            for key in ('legacy', 'canonical'):
-                v = entry.get(key)
-                if v and (ROOT / v).exists(): paths.add(ROOT / v)
+            v = entry.get('legacy')
+            if v and (ROOT / v).exists():
+                paths.add(ROOT / v)
     inf = MAN / 'INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md'
     if inf.exists(): paths.add(inf)
     return sorted(paths)

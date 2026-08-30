@@ -16,7 +16,17 @@ synthesis_lines = 0
 
 MD_LINK_RE = re.compile(r'\[([^\]]+)\]\(([^)]+)\)')
 RELATION_PREFIXES = ('**Relaciones principales / Main relations:**', '**Relaciones raíz / Root relations:**')
-GENEALOGY_PREFIX = '**Relación genealógica / Genealogical relation:**'
+GENEALOGY_PREFIXES = (
+    '**Relación genealógica / Genealogical relation:**',
+    '**Genealogía / Genealogy:**',
+)
+
+REGISTRY = json.loads(CANON.read_text(encoding='utf-8')) if CANON.exists() else {'entries': {}}
+LEGACY_TO_CANONICAL = {
+    (ROOT / entry['legacy']).resolve(): (ROOT / entry['canonical']).resolve()
+    for entry in REGISTRY.get('entries', {}).values()
+    if entry.get('legacy') and entry.get('canonical')
+}
 
 
 def manifest_files() -> list[Path]:
@@ -69,7 +79,15 @@ def validate_local_links(path: Path, line: str, lineno: int) -> None:
     for label, href in MD_LINK_RE.findall(line):
         if href.startswith(('http://', 'https://', '#', 'mailto:')): continue
         target = (path.parent / href.split('#', 1)[0]).resolve()
-        if not target.exists(): failures.append(f'{path}:{lineno}: BROKEN_RELATIONAL_TARGET: [{label}]({href})')
+        if not target.exists():
+            failures.append(f'{path}:{lineno}: BROKEN_RELATIONAL_TARGET: [{label}]({href})')
+            continue
+        canonical = LEGACY_TO_CANONICAL.get(target)
+        if canonical and target != canonical:
+            failures.append(
+                f'{path}:{lineno}: NONCANONICAL_RELATIONAL_TARGET: '
+                f'[{label}]({href}) -> {canonical.relative_to(ROOT.resolve())}'
+            )
 
 
 def validate_relation_markdown(path: Path, line: str, lineno: int) -> None:
@@ -107,7 +125,7 @@ for p in files:
     for lineno, line in enumerate(text.splitlines(), 1):
         if line.startswith(RELATION_PREFIXES):
             relation_lines += 1; audit_declared_relations(p, line, lineno)
-        if line.startswith(GENEALOGY_PREFIX):
+        if line.startswith(GENEALOGY_PREFIXES):
             genealogy_lines += 1; raw = line.split(':**', 1)[-1]
             missing = raw_trademark_relations(raw)
             if missing: failures.append(f'{p}:{lineno}: GENEALOGICAL_NAVIGATION_FAILURE: {missing}')

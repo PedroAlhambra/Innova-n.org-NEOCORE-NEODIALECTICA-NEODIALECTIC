@@ -1,6 +1,7 @@
 # LXXXV · Manifiesto por la Memoria del Capitán Grant™
 # LXXXV · Manifesto in Memory of Captain Grant™
 
+**Manifiesto / Manifesto:** LXXXV  
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
 **Síntesis Abierta / Open Synthesis:** [#180](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/180)
