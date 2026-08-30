@@ -3,7 +3,7 @@
 
 **Fecha / Date:** 2026-08-30  
 **Manifiestos canónicos / Canonical manifestos:** 85 · I–LXXXV  
-**Markdown activo examinado / Active Markdown scanned:** 470  
+**Markdown activo examinado / Active Markdown scanned:** 471  
 **Archivo histórico excluido del estado vivo / Historical archive excluded from living state:** 55 archivos / files  
 **Regla de integridad:** esta auditoría no resume, acorta ni reescribe cuerpos fuente. Detecta relaciones documentales y candidatos a revisión; las relaciones semánticas o causales siguen requiriendo SAN/revisión humana. / **Integrity rule:** this audit never summarises, shortens or rewrites source bodies. It detects documentary relations and review candidates; semantic or causal relations still require SAN/human review.
 
@@ -1217,7 +1217,7 @@
 **Entrantes / Inbound:**
 - **manifiestos:** `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md` · `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` · `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md`
 - **otros:** `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` · `manifiestos/README.md` · `manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md`
-- **neoaxiomas:** `neoaxiomas/README.md`
+- **neoaxiomas:** `neoaxiomas/C-NAX-17_RECONSTRUCCION_SISTEMICA_ES_EN.md` · `neoaxiomas/README.md`
 - **sintesis-abierta:** `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md`
 
 ### LXVIII · Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species
