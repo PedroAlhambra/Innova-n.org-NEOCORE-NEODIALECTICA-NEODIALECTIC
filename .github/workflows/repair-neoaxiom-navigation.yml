@@ -1,3 +1,4 @@
+# One-shot safe repair. Re-running is fail-closed/idempotent.
 name: Repair Neoaxiom navigation safely
 
 on:
@@ -83,7 +84,6 @@ jobs:
               raise SystemExit('ABORT: exact 12-row candidate table block not found; refusing rewrite.')
           text = text[:match.start()] + '\n'.join(new_lines) + '\n' + text[match.end():]
 
-          # Stable explicit anchors: reading the Neoaxiom and following its provenance are different navigations.
           for cid in expected_ids:
               marker = f'<a id="{cid.lower()}"></a>'
               heading_re = re.compile(rf'(?m)^###\s+{re.escape(cid)}\s+·')
@@ -94,13 +94,11 @@ jobs:
                   pos = matches[0].start()
                   text = text[:pos] + marker + '\n\n' + text[pos:]
 
-          # Intermediate corpus pages must resolve current version from the unique version source.
           legacy = '**Marco / Framework:** **NEOCore™ PRE-7.3 · Filosofía Arquetípica Neodialéctica™**  '
           current = '**Marco / Framework:** [**NEOCore™ · versión vigente / current version**](../versiones/README.md) · **Filosofía Arquetípica Neodialéctica™**  '
           if legacy in text:
               text = text.replace(legacy, current, 1)
 
-          # Non-destructive invariants.
           if before.count('### C-NAX-') != text.count('### C-NAX-'):
               raise SystemExit('ABORT: candidate heading count changed.')
           if before.count('<!--') != text.count('<!--') or before.count('-->') != text.count('-->'):
