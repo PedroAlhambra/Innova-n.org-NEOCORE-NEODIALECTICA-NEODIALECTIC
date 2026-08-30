@@ -1,0 +1,81 @@
+name: Repair relational audit for index-based Neoaxioms
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/repair-audit-relations-neoaxiom-index.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Replace obsolete monolithic-README Neoaxiom parser
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          p=Path('.github/scripts/audit_relations_neocore.py')
+          s=p.read_text(encoding='utf-8')
+          start=s.index('# Canonical Neoaxioms NAX-01..NAX-14')
+          end=s.index('\ndef is_publication', start)
+          replacement=r'''# Canonical Neoaxioms NAX-01..NAX-14 are indexed by README and live in
+          # dedicated own documents. README is navigation, never the doctrinal body.
+          naxraw=NEO.read_text(encoding='utf-8',errors='replace')
+          neoaxioms=[]
+          seen_nax=set()
+          for line in naxraw.splitlines():
+              m=re.match(r'^\|\s*\[\*\*(NAX-(\d{2}))\s*·[^\]]+\*\*\]\((\./[^)]+\.md)\)', line)
+              if not m:
+                  continue
+              ident,num_s,href=m.groups()
+              num=int(num_s)
+              if num > 14 or ident in seen_nax:
+                  continue
+              seen_nax.add(ident)
+              doc=(NEO.parent / href).resolve()
+              row_issues=set(re.findall(r'https://github\.com/PedroAlhambra/Innova-n\.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/(\d+)', line))
+              doc_issues=set()
+              if doc.exists():
+                  body=doc.read_text(encoding='utf-8',errors='replace')
+                  doc_issues.update(re.findall(r'https://github\.com/PedroAlhambra/Innova-n\.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/(\d+)', body))
+              issues=sorted(row_issues | doc_issues,key=int)
+              dedicated=[x for x in issues if x!='80']
+              neoaxioms.append({
+                  'id':ident,
+                  'titles':[doc.stem if doc.exists() else href],
+                  'issues':issues,
+                  'dedicated':dedicated,
+                  'document':doc.relative_to(ROOT).as_posix() if doc.exists() else href,
+                  'document_exists':doc.exists(),
+              })
+          neoaxioms.sort(key=lambda x:int(x['id'].split('-')[1]))
+          expected={f'NAX-{i:02d}' for i in range(1,15)}
+          discovered={x['id'] for x in neoaxioms}
+          missing_registry=sorted(expected-discovered)
+          nax_missing=[x for x in neoaxioms if not x['dedicated'] or not x['document_exists']]
+          if missing_registry:
+              nax_missing.extend({'id':x,'titles':[],'issues':[],'dedicated':[],'document':'','document_exists':False} for x in missing_registry)
+          '''
+          replacement='\n'.join(line[10:] if line.startswith('          ') else line for line in replacement.splitlines())
+          p.write_text(s[:start]+replacement+s[end:],encoding='utf-8')
+          PY
+      - name: Syntax check
+        run: python -m py_compile .github/scripts/audit_relations_neocore.py
+      - name: Commit repair
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add .github/scripts/audit_relations_neocore.py
+          git diff --cached --quiet && exit 0
+          git commit -m 'fix(audit): adaptar auditor relacional a Neoaxiomas en documentos propios'
+          git pull --rebase origin main
+          git push origin main
