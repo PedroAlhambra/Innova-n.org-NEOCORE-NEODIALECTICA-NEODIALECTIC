@@ -7,8 +7,8 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **386**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **320**.
+- Markdown activo examinado / Active Markdown scanned: **388**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **322**.
 - Fallos estructurales divididos / Split structural failures: **9**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
@@ -329,6 +329,8 @@
 | `neoaxiomas/C-NAX-23_CONSERVACION_FRACTAL_COMUN_ES_EN.md` | **OK** |  |
 | `neoaxiomas/C-NAX-24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md` | **OK** |  |
 | `neoaxiomas/C-NAX-25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md` | **OK** |  |
+| `neoaxiomas/C-NAX-26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md` | **OK** |  |
+| `neoaxiomas/NAX-01_UNIDAD_SENTIDO_DISTRIBUCION_POTENCIA_ES_EN.md` | **OK** |  |
 | `neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md` | **OK** |  |
 | `neoaxiomas/README.md` | **OK** |  |
 | `obras/README.md` | **OK** |  |
