@@ -7,8 +7,8 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **382**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **316**.
+- Markdown activo examinado / Active Markdown scanned: **383**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **317**.
 - Fallos estructurales divididos / Split structural failures: **9**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
@@ -325,6 +325,7 @@
 | `neoaxiomas/C-NAX-19_INVIOLABILIDAD_RELACIONAL_SEPARACION_PLANOS_ES_EN.md` | **REVISAR** | volumen EN/ES=1.38 (199/144) |
 | `neoaxiomas/C-NAX-20_HUMANIDAD_COMUN_DIFERENCIA_ES_EN.md` | **OK** |  |
 | `neoaxiomas/C-NAX-21_IGNORANCIA_SISTEMICA_MAL_NO_SUPERIORIDAD_DESTRUCCION_ES_EN.md` | **REVISAR** | volumen EN/ES=1.67 (214/128) |
+| `neoaxiomas/C-NAX-22_MEMORIA_MATERIAL_RELACIONAL_ES_EN.md` | **OK** |  |
 | `neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md` | **OK** |  |
 | `neoaxiomas/README.md` | **OK** |  |
 | `obras/README.md` | **OK** |  |
