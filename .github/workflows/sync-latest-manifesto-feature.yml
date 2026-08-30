@@ -1,4 +1,4 @@
-name: sync-latest-manifesto-feature
+name: Sync latest manifesto README blocks
 
 on:
   workflow_dispatch:
@@ -6,15 +6,17 @@ on:
     branches: [main]
     paths:
       - 'manifiestos/README.md'
+      - 'manifiestos/CANONICAL_FILENAMES.json'
+      - '**/README.md'
       - '.github/scripts/sync_latest_manifesto_feature.py'
-      - '.github/scripts/migrate_neocore_73_open_canon.py'
+      - '.github/scripts/audit_markdown_links_readmes.py'
       - '.github/workflows/sync-latest-manifesto-feature.yml'
 
 permissions:
   contents: write
 
 concurrency:
-  group: neocore-document-sync-main
+  group: latest-manifesto-readme-sync-main
   cancel-in-progress: false
 
 jobs:
@@ -25,11 +27,18 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Migrate obsolete NEOCore 7.3 pre-canon labels across repository
-        run: python .github/scripts/migrate_neocore_73_open_canon.py
-      - name: Synchronize and validate latest manifesto feature
+      - name: Synchronise only marked latest-manifesto blocks
         run: python .github/scripts/sync_latest_manifesto_feature.py
-      - name: Commit if needed
+      - name: Verify README link and canonical-state integrity
+        run: python .github/scripts/audit_markdown_links_readmes.py
+      - name: Verify no unrelated version or doctrine rewrite
+        run: |
+          set -euo pipefail
+          allowed='(^|/)README\.md$|^auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN\.md$'
+          unexpected="$(git diff --name-only | grep -Ev "$allowed" || true)"
+          test -z "$unexpected" || { echo "$unexpected"; exit 1; }
+          git diff --check
+      - name: Commit synchronized blocks when needed
         run: |
           set -euo pipefail
           git config user.name 'github-actions[bot]'
@@ -39,6 +48,6 @@ jobs:
             echo 'No changes required.'
             exit 0
           fi
-          git commit -m 'docs: migrate NEOCore 7.3 to open canon across all public text surfaces'
+          git commit -m 'docs: synchronize latest manifesto README blocks'
           git pull --rebase origin main
           git push origin main
