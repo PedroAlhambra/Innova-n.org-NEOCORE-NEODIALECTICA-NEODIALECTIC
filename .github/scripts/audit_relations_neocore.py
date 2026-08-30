@@ -108,24 +108,43 @@ for roman,title,p in manifestos:
     else:
         missing.append((roman,title,p))
 
-# Canonical Neoaxioms NAX-01..NAX-14 must keep a dedicated synthesis in
-# addition to the general matrix #80. Candidates C-NAX are audited elsewhere
-# because candidate status is intentionally different from canon.
+# Canonical Neoaxioms NAX-01..NAX-14 are indexed by README and live in
+# dedicated own documents. README is navigation, never the doctrinal body.
 naxraw=NEO.read_text(encoding='utf-8',errors='replace')
-nd=defaultdict(lambda:{'titles':set(),'issues':set()})
-pat=re.compile(r'^## (NAX-\d{2}) · ([^\n]+)\n(.*?)(?=^## NAX-\d{2} ·|^## \d+\.|^## Open Synthesis|^# EN ·|\Z)',re.M|re.S)
-for ident,title,body in pat.findall(naxraw):
-    nd[ident]['titles'].add(title.strip())
-    nd[ident]['issues'].update(re.findall(r'https://github\.com/PedroAlhambra/Innova-n\.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/(\d+)',body))
 neoaxioms=[]
-for ident in sorted(nd,key=lambda x:int(x.split('-')[1])):
-    vals=nd[ident]
-    issues=sorted(vals['issues'],key=int)
+seen_nax=set()
+for line in naxraw.splitlines():
+    m=re.match(r'^\|\s*\[\*\*(NAX-(\d{2}))\s*·[^\]]+\*\*\]\((\./[^)]+\.md)\)', line)
+    if not m:
+        continue
+    ident,num_s,href=m.groups()
+    num=int(num_s)
+    if num > 14 or ident in seen_nax:
+        continue
+    seen_nax.add(ident)
+    doc=(NEO.parent / href).resolve()
+    row_issues=set(re.findall(r'https://github\.com/PedroAlhambra/Innova-n\.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/(\d+)', line))
+    doc_issues=set()
+    if doc.exists():
+        body=doc.read_text(encoding='utf-8',errors='replace')
+        doc_issues.update(re.findall(r'https://github\.com/PedroAlhambra/Innova-n\.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/(\d+)', body))
+    issues=sorted(row_issues | doc_issues,key=int)
     dedicated=[x for x in issues if x!='80']
-    neoaxioms.append({'id':ident,'titles':sorted(vals['titles']),'issues':issues,'dedicated':dedicated})
-nax_missing=[x for x in neoaxioms if not x['dedicated']]
-
-
+    neoaxioms.append({
+        'id':ident,
+        'titles':[doc.stem if doc.exists() else href],
+        'issues':issues,
+        'dedicated':dedicated,
+        'document':doc.relative_to(ROOT).as_posix() if doc.exists() else href,
+        'document_exists':doc.exists(),
+    })
+neoaxioms.sort(key=lambda x:int(x['id'].split('-')[1]))
+expected={f'NAX-{i:02d}' for i in range(1,15)}
+discovered={x['id'] for x in neoaxioms}
+missing_registry=sorted(expected-discovered)
+nax_missing=[x for x in neoaxioms if not x['dedicated'] or not x['document_exists']]
+if missing_registry:
+    nax_missing.extend({'id':x,'titles':[],'issues':[],'dedicated':[],'document':'','document_exists':False} for x in missing_registry)
 def is_publication(p):
     try:
         r=p.relative_to(ROOT)
