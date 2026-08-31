@@ -7,8 +7,8 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **412**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **345**.
+- Markdown activo examinado / Active Markdown scanned: **413**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **346**.
 - Fallos estructurales divididos / Split structural failures: **1**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
@@ -36,6 +36,7 @@
 | Archivo | Estado | Detalle |
 |---|---|---|
 | `README.md` | **OK** |  |
+| `actualizaciones/2026-08-31_NEO0_COMPOSITOR_ASCENSO_CAPA_README_ES_EN.md` | **OK** |  |
 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` | **OK** |  |
 | `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` | **OK** |  |
 | `analisis/2026-08-29_hipotesis_grant_verne_ulises_vector_arquetipico_ES_EN.md` | **OK** |  |

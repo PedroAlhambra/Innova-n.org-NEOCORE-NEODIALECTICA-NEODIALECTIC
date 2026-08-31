@@ -1,10 +1,10 @@
 # Auditoría global de selectores de idioma ES/EN
 # Global ES/EN language-selector audit
 
-**Generada / Generated:** 2026-08-31 16:40 UTC
-**Páginas ES/EN explícitas auditadas / Explicit ES/EN split pages audited:** **433**
-**Fallos / Failures:** **0**
-**LANGUAGE_SELECTOR_GATE:** **PASS**
+**Generada / Generated:** 2026-08-31 16:41 UTC
+**Páginas ES/EN explícitas auditadas / Explicit ES/EN split pages audited:** **434**
+**Fallos / Failures:** **1**
+**LANGUAGE_SELECTOR_GATE:** **FAIL**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -20,13 +20,13 @@ Toda superficie Markdown pública y activa que exponga capas explícitas `ES` y 
 
 ## Resultado
 
-- Páginas auditadas: **433**.
-- Fallos: **0**.
-- Estado: **PASS**.
+- Páginas auditadas: **434**.
+- Fallos: **1**.
+- Estado: **FAIL**.
 
 ## Detalle de fallos
 
-- Ningún fallo detectado. / No failures detected.
+- `actualizaciones/2026-08-31_NEO0_COMPOSITOR_ASCENSO_CAPA_README_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
 
 ---
 
@@ -40,10 +40,10 @@ Every active public Markdown surface exposing explicit `ES` and `EN` layers must
 
 ## Result
 
-- Pages audited: **433**.
-- Failures: **0**.
-- Status: **PASS**.
+- Pages audited: **434**.
+- Failures: **1**.
+- Status: **FAIL**.
 
 ## Failure detail
 
-- No failures detected. / Ningún fallo detectado.
+- `actualizaciones/2026-08-31_NEO0_COMPOSITOR_ASCENSO_CAPA_README_ES_EN.md` · `LANGUAGE_NAVIGATION_FAILURE` · ES selector, EN selector
