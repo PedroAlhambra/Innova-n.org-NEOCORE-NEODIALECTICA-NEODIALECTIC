@@ -1,0 +1,116 @@
+name: WEB4 · Grupo / colectivo / comunidad
+
+description: Propón públicamente un grupo, colectivo, comunidad, equipo, asociación o proyecto para aparecer como nodo trazable en WEB4. / Publicly propose a group, collective, community, team, association or project as a traceable WEB4 node.
+title: "WEB4 grupo / community · "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Este formulario abre una entrada pública para WEB4. No implica adhesión al marco, canonización, verificación automática ni creación automática de NC-EVT/NC-CR. La información debe poder contrastarse y conservar autoría, representación, procedencia y límites.
+
+        This form opens a public WEB4 entry. It does not imply adherence to the framework, canonisation, automatic verification or automatic creation of NC-EVT/NC-CR. Information must remain verifiable and preserve authorship, representation, provenance and limits.
+
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo de nodo / Node type
+      options:
+        - Grupo / Group
+        - Colectivo / Collective
+        - Comunidad / Community
+        - Equipo / Team
+        - Asociación / Association
+        - Institución / Institution
+        - Proyecto / Project
+        - Otro / Other
+    validations:
+      required: true
+
+  - type: input
+    id: nombre
+    attributes:
+      label: Nombre público / Public name
+      placeholder: Nombre del grupo, colectivo, comunidad o proyecto
+    validations:
+      required: true
+
+  - type: input
+    id: web
+    attributes:
+      label: Fuente pública principal / Main public source
+      description: Web, repositorio, perfil institucional u otra fuente pública verificable. / Website, repository, institutional profile or another verifiable public source.
+      placeholder: https://...
+    validations:
+      required: true
+
+  - type: textarea
+    id: descripcion
+    attributes:
+      label: Qué hace / What it does
+      description: Descripción breve y factual. Evita lenguaje promocional no verificable. / Brief factual description. Avoid unverifiable promotional language.
+    validations:
+      required: true
+
+  - type: textarea
+    id: representacion
+    attributes:
+      label: Relación de quien envía con el grupo / Submitter relationship to the group
+      description: Indica si eres representante, miembro, colaborador o tercero que propone el nodo. / State whether you are a representative, member, collaborator, or a third party proposing the node.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: seccion
+    attributes:
+      label: Sección WEB4 principal / Main WEB4 section
+      options:
+        - Arte / Art
+        - Música / Music
+        - Literatura / Literature
+        - Ciencia e investigación / Science and research
+        - Tecnología / Technology
+        - Educación / Learning
+        - Auditorías / Audits
+        - Proyectos / Projects
+        - Comunidad / Community
+        - Otra / Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: relaciones
+    attributes:
+      label: Relaciones iniciales propuestas / Proposed initial relations
+      description: Enlaces a obras, proyectos, personas, documentos, conceptos o nodos con los que exista una relación demostrable. / Links to works, projects, people, documents, concepts or nodes with a demonstrable relationship.
+      placeholder: Una relación por línea, con URL y motivo breve. / One relation per line, with URL and a short reason.
+
+  - type: textarea
+    id: contenido
+    attributes:
+      label: Información que debería aparecer en WEB4 / Information that should appear in WEB4
+      description: Resume qué datos públicos deberían formar el perfil inicial del nodo. / Summarise which public data should form the initial node profile.
+    validations:
+      required: true
+
+  - type: textarea
+    id: derechos
+    attributes:
+      label: Autoría, derechos y límites / Authorship, rights and limits
+      description: Indica autoría de textos/imágenes enlazados y cualquier límite de reutilización. No subas material sin permiso. / State authorship of linked texts/images and any reuse limits. Do not upload material without permission.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: declaracion
+    attributes:
+      label: Declaraciones / Declarations
+      options:
+        - label: Entiendo que el Issue es público y queda asociado a mi cuenta de GitHub. / I understand that the Issue is public and associated with my GitHub account.
+          required: true
+        - label: Entiendo que proponer un nodo no implica adhesión, verificación, canon, NC-EVT, NC-CR, MÉDICI, Aura ni rango. / I understand that proposing a node does not imply adherence, verification, canon, NC-EVT, NC-CR, MÉDICI, Aura or rank.
+          required: true
+        - label: La información enlazada es pública o tengo permiso para compartirla. / The linked information is public or I have permission to share it.
+          required: true
+        - label: Acepto que la entrada pueda quedar PENDING_REVIEW, ser corregida, relacionada o no proyectarse si faltan procedencia o evidencias. / I accept that the entry may remain PENDING_REVIEW, be corrected, related, or not projected if provenance or evidence is insufficient.
+          required: true
