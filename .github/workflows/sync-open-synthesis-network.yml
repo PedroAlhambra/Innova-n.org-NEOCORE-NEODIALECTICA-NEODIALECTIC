@@ -1,51 +1,16 @@
 name: sync-open-synthesis-network
 
-# Living frontier is derived dynamically from manifesto identities and canonical registries.
-# The operational Open Synthesis README remains stable; the complete index owns dynamic inventory state.
+# Explicit writer: manual only. The living frontier is derived dynamically from canonical registries.
+# Push/PR validation belongs to read-only audit workflows; this workflow may mutate corpus only when deliberately dispatched.
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - 'README.md'
-      - 'manifiestos/*.md'
-      - 'manifiestos/README.md'
-      - 'manifiestos/CANONICAL_FILENAMES.json'
-      - 'neoaxiomas/README.md'
-      - 'propuestas/sintesis-abierta/README.md'
-      - 'propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md'
-      - 'propuestas/sintesis-abierta/NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md'
-      - 'propuestas/sintesis-abierta/NEOCORE_7_3_CANON_ES_EN.md'
-      - 'propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md'
-      - 'propuestas/sintesis-abierta/*C_NAX_*_ES_EN.md'
-      - '.github/workflows/sync-open-synthesis-network.yml'
-      - '.github/scripts/register_manifesto_frontier.py'
-      - '.github/scripts/register_manifestos_LXIII_LXVI.py'
-      - '.github/scripts/normalize_manifesto_bilingual_names.py'
-      - '.github/scripts/normalize_internal_link_aliases.py'
-      - '.github/scripts/sync_neoaxiom_candidates.py'
-      - '.github/scripts/sync_manifesto_frontier_headers.py'
-      - '.github/scripts/sync_open_synthesis_manifestos.py'
-      - '.github/scripts/sync_canonical_manifestos.py'
-      - '.github/scripts/normalize_manifesto_indices.py'
-      - '.github/scripts/sync_root_navigation.py'
-      - '.github/scripts/sync_neocore_73_canon.py'
-      - '.github/scripts/sync_manifesto_crossrefs.py'
-      - '.github/scripts/sync_relations_frontier.py'
-      - '.github/scripts/sync_relations_lxxv.py'
-      - '.github/scripts/sync_relations_latest_frontier.py'
-      - '.github/scripts/audit_es_en_parity.py'
-      - '.github/scripts/audit_markdown_links_readmes.py'
-      - '.github/scripts/audit_manifesto_bilingual_structure.py'
-      - '.github/scripts/audit_manifesto_registry_completeness.py'
-      - '.github/scripts/audit_relations_neocore.py'
-      - '.github/scripts/audit_neoaxiom_registry_integrity.py'
 
 permissions:
   contents: write
 
 concurrency:
-  group: neocore-document-sync-main
-  cancel-in-progress: false
+  group: neocore-document-sync-manual
+  cancel-in-progress: true
 
 jobs:
   sync:
@@ -53,7 +18,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 1
       - name: Register new finite manifesto frontier
         run: python .github/scripts/register_manifesto_frontier.py
       - name: Normalize bilingual manifesto identities
@@ -97,88 +62,28 @@ jobs:
         run: python .github/scripts/audit_relations_neocore.py
       - name: Audit generated documentary graph
         run: python .github/scripts/audit_markdown_links_readmes.py
-      - name: Show audit summaries
+      - name: Enforce healthy documentary graph and canonical boundary
+        shell: bash
         run: |
-          echo '--- REGISTRY AUDIT ---'
-          cat auditorias/publicas/2026-08-12_auditoria_registro_canonico_manifiestos_ES_EN.md
-          echo '--- NEOAXIOM AUDIT ---'
-          cat auditorias/publicas/2026-08-16_auditoria_neoaxiomas_simetria_frontera_ES_EN.md
-          echo '--- LINK AUDIT ---'
-          head -n 45 auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md
-          echo '--- STRUCTURE AUDIT ---'
-          head -n 16 auditorias/publicas/2026-08-12_auditoria_estructura_bilingue_manifiestos_ES_EN.md
-          echo '--- RELATIONAL AUDIT ---'
-          head -n 28 auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md
-      - name: Enforce healthy documentary graph, bilingual parity, relations and canonical 7.3 boundary
-        run: |
-          python - <<'PY'
-          from pathlib import Path
-          import json
-          registry=json.loads(Path('manifiestos/CANONICAL_FILENAMES.json').read_text(encoding='utf-8'))['entries']
-          n=len(registry)
-          reg=Path('auditorias/publicas/2026-08-12_auditoria_registro_canonico_manifiestos_ES_EN.md').read_text(encoding='utf-8')
-          if f'**Entradas canónicas / Canonical entries:** {n}' not in reg or '**Problemas / Problems:** 0' not in reg:
-              raise SystemExit('Manifesto registry is incomplete or inconsistent; publish aborted.')
-          neo=Path('auditorias/publicas/2026-08-16_auditoria_neoaxiomas_simetria_frontera_ES_EN.md').read_text(encoding='utf-8')
-          if '**Estado / Status:** **OK**' not in neo:
-              raise SystemExit('Neoaxiom registry integrity is not healthy; publish aborted.')
-          links=Path('auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md').read_text(encoding='utf-8')
-          if '**Estado / Status:** **OK**' not in links:
-              raise SystemExit('Generated documentary graph is not healthy; publish aborted.')
-          parity=Path('auditorias/publicas/2026-08-09_auditoria_paridad_ES_EN_manifiestos_articulos.md').read_text(encoding='utf-8')
-          if '**Recortes/materialmente asimétricos para revisión:** 0' not in parity:
-              raise SystemExit('Material ES/EN asymmetry detected; publish aborted.')
-          if '**Con marcador incompleto/ausente:** 0' not in parity:
-              raise SystemExit('Incomplete ES/EN markers detected; publish aborted.')
-          structure=Path('auditorias/publicas/2026-08-12_auditoria_estructura_bilingue_manifiestos_ES_EN.md').read_text(encoding='utf-8')
-          if '**REVISAR / REVIEW:** 0' not in structure:
-              raise SystemExit('Bilingual manifesto identity/index asymmetry detected; publish aborted.')
-          rel=Path('auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md').read_text(encoding='utf-8')
-          required=[
-              f'- Cobertura del mapa curado: **{n}/{n}**.',
-              '- Ausentes del mapa curado: **ninguno / none**.',
-              '- Neoaxiomas sin Síntesis específica: **ninguno / none**.',
-              '- Enlaces locales realmente no resueltos: **0**.',
-              '- Manifiestos sin enlace entrante desde publicaciones/documentos aplicados: **0**.',
-          ]
-          missing=[x for x in required if x not in rel]
-          if missing:
-              raise SystemExit('Relational audit is incomplete: '+repr(missing))
-          applied=Path('manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md').read_text(encoding='utf-8')
-          if f'{n} manifiestos finitos' not in applied or f'{n} finite manifestos' not in applied:
-              raise SystemExit('Applied-work relational map inventory is stale; publish aborted.')
-
-          root=Path('README.md').read_text(encoding='utf-8')
-          first=root.splitlines()[0] if root.splitlines() else ''
-          if 'NEOCore™ 7.3 CANON ABIERTO' not in first:
-              raise SystemExit('CANONICAL_STATE violation: living root is not NEOCore 7.3 open canon; publish aborted.')
-          if '7.3-CANDIDATE' in root:
-              raise SystemExit('CANONICAL_STATE violation: stale 7.3 candidate label remains in living root; publish aborted.')
-          canon=Path('propuestas/sintesis-abierta/NEOCORE_7_3_CANON_ES_EN.md').read_text(encoding='utf-8')
-          if 'CANÓNICO Y REABRIBLE / CANONICAL AND REOPENABLE' not in canon:
-              raise SystemExit('CANONICAL_STATE canonical 7.3 document missing or invalid; publish aborted.')
-          synth_index=Path('propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md').read_text(encoding='utf-8')
-          if '7.3-CANDIDATE' in synth_index:
-              raise SystemExit('CANONICAL_STATE violation: stale 7.3 candidate label remains in Open Synthesis index; publish aborted.')
-          if 'CANÓNICO Y REABRIBLE / CANONICAL AND REOPENABLE' not in synth_index:
-              raise SystemExit('CANONICAL_STATE canonical status missing from Open Synthesis index; publish aborted.')
-
-          print(f'MANIFESTO_REGISTRY=OK ({n})')
-          print('NEOAXIOM_REGISTRY=OK')
-          print('DOCUMENTARY_GRAPH=OK')
-          print('MATERIAL_PARITY=OK')
-          print('BILINGUAL_STRUCTURE=OK')
-          print('RELATIONAL_GRAPH=OK')
-          print('APPLIED_RELATIONAL_FRONTIER=OK')
-          print('CANONICAL_STATE=7.3_CANON_OPEN')
-          PY
+          set -euo pipefail
+          grep -Fq '**Estado / Status:** **OK**' auditorias/publicas/2026-08-16_auditoria_neoaxiomas_simetria_frontera_ES_EN.md
+          grep -Fq '**Estado / Status:** **OK**' auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md
+          grep -Fq '**REVISAR / REVIEW:** 0' auditorias/publicas/2026-08-12_auditoria_estructura_bilingue_manifiestos_ES_EN.md
+          grep -Fq 'NEOCore™ 7.3 CANON ABIERTO' README.md
+          if grep -Fq '7.3-CANDIDATE' README.md; then
+            echo 'CANONICAL_STATE violation: stale 7.3 candidate label remains in living root.' >&2
+            exit 1
+          fi
       - name: Commit synchronized network if needed
         run: |
           set -euo pipefail
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add -A
-          if git diff --cached --quiet; then exit 0; fi
+          if git diff --cached --quiet; then
+            echo 'OPEN_SYNTHESIS_SYNC_NO_CHANGE=1'
+            exit 0
+          fi
           git commit -m 'docs: sync Open Synthesis and canonical manifesto network'
           git pull --rebase origin main
           git push origin main
