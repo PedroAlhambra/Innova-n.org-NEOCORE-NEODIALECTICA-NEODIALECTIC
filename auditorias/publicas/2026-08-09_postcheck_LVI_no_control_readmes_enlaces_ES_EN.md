@@ -9,13 +9,13 @@
 
 ## ES · Resultado
 
-- Archivos Markdown activos revisados: **505**.
+- Archivos Markdown activos revisados: **506**.
 - Archivos Markdown históricos excluidos del estado vivo: **55**.
 - Entradas legacy excluidas del estado vivo: **0**.
 - README activos revisados: **18**.
-- Enlaces internos de ruta comprobados: **11979**.
+- Enlaces internos de ruta comprobados: **11995**.
 - Alias internos de GitHub Wiki reconocidos: **44**.
-- Enlaces externos inventariados sin comprobar disponibilidad remota: **2007**.
+- Enlaces externos inventariados sin comprobar disponibilidad remota: **2009**.
 - Enlaces sólo a ancla detectados: **915**.
 - Bloques de último manifiesto encontrados en README: **8**.
 - Bloques legacy NEO_CURRENT_NAV encontrados en README: **0**.
@@ -42,13 +42,13 @@
 
 ## EN · Result
 
-- Active Markdown files reviewed: **505**.
+- Active Markdown files reviewed: **506**.
 - Historical Markdown files excluded from living-state health: **55**.
 - Legacy entry files excluded from living-state health: **0**.
 - Active README files reviewed: **18**.
-- Internal path links checked: **11979**.
+- Internal path links checked: **11995**.
 - GitHub Wiki extensionless page aliases recognised: **44**.
-- External links inventoried without checking remote availability: **2007**.
+- External links inventoried without checking remote availability: **2009**.
 - Anchor-only links detected: **915**.
 - Latest-manifesto blocks found in README files: **8**.
 - Legacy NEO_CURRENT_NAV blocks found in README files: **0**.
