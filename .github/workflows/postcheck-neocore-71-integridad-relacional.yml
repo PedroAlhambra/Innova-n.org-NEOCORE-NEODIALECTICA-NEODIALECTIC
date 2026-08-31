@@ -1,12 +1,12 @@
 # HISTORICAL / MANUAL-ONLY
 # Conservado como referencia histórica del antiguo postcheck de NEOCore 7.1.
-# No se ejecuta con push ni pull_request. Las validaciones vivas de NEOCore 7.3-CANDIDATE
-# se realizan mediante los workflows de auditoría y sincronización vigentes.
+# No se ejecuta con push ni pull_request. Las validaciones vivas del canon abierto de NEOCore 7.3
+# se realizan mediante los workflows de auditoría vigentes; los reconciliadores con escritura son manuales.
 #
 # HISTORICAL / MANUAL-ONLY
 # Retained as a historical reference for the former NEOCore 7.1 postcheck.
-# It does not run on push or pull_request. Live NEOCore 7.3-CANDIDATE validation is
-# performed by the current audit and synchronisation workflows.
+# It does not run on push or pull_request. Live NEOCore 7.3 open-canon validation is
+# performed by the current audit workflows; write-capable reconcilers are manual-only.
 name: archived-postcheck-neocore-71-integridad-relacional
 
 on:
@@ -23,5 +23,5 @@ jobs:
         run: |
           echo 'NEOCore 7.1 postcheck is archived and manual-only.'
           echo 'El postcheck de NEOCore 7.1 está archivado y sólo es manual.'
-          echo 'Use the current NEOCore 7.3-CANDIDATE audit and synchronisation workflows.'
-          echo 'Use los workflows vigentes de auditoría y sincronización de NEOCore 7.3-CANDIDATE.'
+          echo 'Use the current NEOCore 7.3 open-canon audit workflows.'
+          echo 'Use los workflows vigentes de auditoría del canon abierto de NEOCore 7.3.'
