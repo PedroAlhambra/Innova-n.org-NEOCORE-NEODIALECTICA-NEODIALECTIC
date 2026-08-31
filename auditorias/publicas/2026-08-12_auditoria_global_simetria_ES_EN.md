@@ -12,7 +12,7 @@
 - Fallos estructurales divididos / Split structural failures: **0**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
-- Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
+- Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **1**.
 
 ## Fallos divididos / Split failures
 
@@ -28,7 +28,7 @@
 
 ## Plantillas GitHub Issue / GitHub Issue templates
 
-- OK.
+- `.github/ISSUE_TEMPLATE/grupo_comunidad_web4.yml`: placeholder=Nombre del grupo, colectivo, comunidad o proyecto
 
 ## Inventario / Inventory
 
