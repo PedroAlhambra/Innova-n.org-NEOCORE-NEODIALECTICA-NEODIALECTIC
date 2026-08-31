@@ -7,8 +7,8 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **408**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **341**.
+- Markdown activo examinado / Active Markdown scanned: **409**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **342**.
 - Fallos estructurales divididos / Split structural failures: **0**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
@@ -201,6 +201,7 @@
 | `auditorias/publicas/2026-08-30_revision_integral_github_publico_iteracion_03_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-31_revision_integral_github_publico_iteracion_04_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-31_revision_integral_github_publico_iteracion_05_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-08-31_revision_integral_github_publico_iteracion_06_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/README.md` | **OK** |  |
@@ -414,3 +415,4 @@
 - Una diferencia estructural en listas, citas, fórmulas o tablas es fallo hasta ser revisada. / A structural difference in lists, quotations, formulas or tables is a failure until reviewed.
 - Títulos, índices, Neoaxiomas™, Manifiestos, Síntesis Abierta, respuestas públicas, plantillas y navegación deben mantener simetría visible. / Titles, indices, Neoaxioms™, Manifestos, Open Synthesis, public responses, templates and navigation must maintain visible symmetry.
 - Los archivos históricos inertes se conservan como evidencia y se auditan por separado para no reescribir el pasado. / Inert historical files are preserved as evidence and audited separately so the past is not rewritten.
+

@@ -169,7 +169,7 @@ latest_desc=f'{latest_roman} / #{issue_num}' if latest_roman and issue_num else 
 lines = [
     '# Postcheck dinámico · README, índices y enlaces / Dynamic README, indices and links postcheck',
     '',
-    f'**Fecha / Date:** {run_date}  ',
+    f'**Fecha / Date:** {run_date}',
     f'**Estado / Status:** **{status}**',
     '',
     '> **Alcance / Scope:** el grafo vivo excluye `wiki-legacy-archive/` y las entradas raíz legacy `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` y `FOREWORD.md`. Esos nombres legacy no constituyen superficies canónicas vivas; tras su retirada de `main`, su contenido histórico permanece recuperable mediante Git. / the living graph excludes `wiki-legacy-archive/` and the root legacy entry files `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` and `FOREWORD.md`. Those legacy names are not living canonical surfaces; after retirement from `main`, their historical contents remain recoverable through Git.',
