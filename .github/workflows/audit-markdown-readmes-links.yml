@@ -8,13 +8,19 @@ on:
       - '.github/workflows/audit-markdown-readmes-links.yml'
       - '.github/scripts/audit_markdown_links_readmes.py'
       - 'manifiestos/CANONICAL_FILENAMES.json'
+  pull_request:
+    paths:
+      - '**/*.md'
+      - '.github/workflows/audit-markdown-readmes-links.yml'
+      - '.github/scripts/audit_markdown_links_readmes.py'
+      - 'manifiestos/CANONICAL_FILENAMES.json'
 
 permissions:
-  contents: write
+  contents: read
 
 concurrency:
-  group: neocore-document-sync-${{ github.ref_name }}
-  cancel-in-progress: false
+  group: neocore-document-audit-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   audit:
@@ -22,19 +28,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 1
       - name: Audit Markdown, README, indices and repository-local links
         run: python .github/scripts/audit_markdown_links_readmes.py
-      - name: Commit audit report if needed
-        if: github.ref_type == 'branch'
-        run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md
-          if git diff --cached --quiet; then exit 0; fi
-          git commit -m 'audit: postcheck dinámico README índices enlaces'
-          git pull --rebase origin "${GITHUB_REF_NAME}"
-          git push origin "HEAD:${GITHUB_REF_NAME}"
       - name: Enforce healthy documentary graph
         run: |
           python - <<'PY'
@@ -42,6 +38,6 @@ jobs:
           p=Path('auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN.md')
           text=p.read_text(encoding='utf-8')
           if '**Estado / Status:** **OK**' not in text:
-              raise SystemExit('Documentary graph is not healthy; inspect the committed postcheck report.')
+              raise SystemExit('Documentary graph is not healthy; inspect the generated postcheck report in this run.')
           print('DOCUMENTARY_GRAPH=OK')
           PY
