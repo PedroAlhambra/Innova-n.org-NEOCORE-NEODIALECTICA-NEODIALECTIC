@@ -46,17 +46,19 @@ CURRENT_VERSION ≠ HISTORICAL_VERSION
 
 ## Versión vigente
 
-### 7.3.3 · Integración de evolución modular WEB4™
+### 7.3.3 · Evolución modular y arquitectura social WEB4™
 
-7.3.3 hereda íntegramente 7.3.2 y fija como delta material la evolución modular verificada de WEB4™ reflejada por promociones y cambios de versión del ensamblaje y de sus módulos.
+7.3.3 hereda íntegramente 7.3.2 y fija como delta material la evolución modular verificada de WEB4™ reflejada por promociones y cambios de versión del ensamblaje y de sus módulos, preservando además su arquitectura transversal como **red social de conocimiento, creación y aporte trazable**.
 
-La referencia operativa de la ventana 7.3.2 mostraba WEB4™ 0.1.7 VERIFIED; la línea modular posterior alcanzó WEB4™ 0.2.22 VERIFIED. `NEOCORE_VERSION ≠ WEB4_VERSION`: 7.3.3 no renumera WEB4 ni convierte una PR/preview/delta no versionado en canon.
+El ensamblaje vivo contiene 19 módulos relacionados. La referencia operativa de la ventana 7.3.2 mostraba WEB4™ 0.1.7 VERIFIED y la línea modular posterior alcanzó WEB4™ 0.2.22 VERIFIED. `NEOCORE_VERSION ≠ WEB4_VERSION`.
+
+La red se articula mediante nodos/perfiles, fuentes, relaciones y actividad material. Personas, grupos, colectivos, comunidades, IAs, obras, proyectos e instituciones pueden integrarse como nodos trazables. En la fase actual, GitHub actúa como puerta pública de aportación: Issue/PR y commit directo sólo cuando exista permiso de escritura; la posterior proyección en WEB4 conserva procedencia y no implica adhesión ni validación automática.
 
 [Detalle de 7.3.3](./NEOCORE_7_3_3_ES_EN.md)
 
 ## Histórico
 
-- **7.3.3** · actual · integración y trazabilidad de la evolución modular WEB4™ verificada.
+- **7.3.3** · actual · evolución modular WEB4™ verificada + arquitectura social de nodos y aportes trazables.
 - **7.3.2** · política de referencia única y simplificación documental; base inmediata de 7.3.3.
 - **7.3** · canon abierto promovido el 2026-08-26; conserva su documento específico como registro de esa fijación.
 - **7.3-CANDIDATE** · fase pre-canónica histórica; sólo debe conservarse donde describa realmente aquel estado u origen.
@@ -109,17 +111,19 @@ CURRENT_VERSION ≠ HISTORICAL_VERSION
 
 ## Current version
 
-### 7.3.3 · WEB4™ modular evolution integration
+### 7.3.3 · WEB4™ modular evolution and social architecture
 
-7.3.3 fully inherits 7.3.2 and fixes as a material delta the verified modular evolution of WEB4™ represented by promotions and version changes in the assembly and its modules.
+7.3.3 fully inherits 7.3.2 and fixes as a material delta the verified modular evolution of WEB4™ represented by promotions and version changes in the assembly and its modules, while preserving its transversal architecture as a **social network of knowledge, creation and traceable contribution**.
 
-The operational reference in the 7.3.2 window showed WEB4™ 0.1.7 VERIFIED; the subsequent modular line reached WEB4™ 0.2.22 VERIFIED. `NEOCORE_VERSION ≠ WEB4_VERSION`: 7.3.3 does not renumber WEB4 or turn a PR/preview/unversioned delta into canon.
+The live assembly contains 19 related modules. The operational reference in the 7.3.2 window showed WEB4™ 0.1.7 VERIFIED and the subsequent modular line reached WEB4™ 0.2.22 VERIFIED. `NEOCORE_VERSION ≠ WEB4_VERSION`.
+
+The network is structured through nodes/profiles, sources, relations and material activity. People, groups, collectives, communities, AIs, works, projects and institutions may enter as traceable nodes. At the current stage GitHub is the public contribution entry point: Issue/PR, and direct commit only when write permission exists; later WEB4 projection preserves provenance and does not imply adhesion or automatic validation.
 
 [7.3.3 detail](./NEOCORE_7_3_3_ES_EN.md)
 
 ## History
 
-- **7.3.3** · current · integration and traceability of verified WEB4™ modular evolution.
+- **7.3.3** · current · verified WEB4™ modular evolution + social architecture of traceable nodes and contributions.
 - **7.3.2** · single-reference policy and documentary simplification; immediate base of 7.3.3.
 - **7.3** · open canon promoted on 2026-08-26; its version-specific document remains as the record of that fixation.
 - **7.3-CANDIDATE** · historical pre-canonical phase; it should remain only where it genuinely describes that historical state or origin.
