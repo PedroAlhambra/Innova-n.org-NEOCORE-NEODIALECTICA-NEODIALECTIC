@@ -3,7 +3,7 @@
 
 **Fecha / Date:** 2026-08-31
 **Estado / Status:** vivo, versionado y revisable / living, versioned and revisable  
-**Cobertura / Coverage:** **85 manifiestos finitos I–LXXXV + Manifiesto ∞ · 14 Neoaxiomas™ canónicos + 13 candidatos C-NAX-15–C-NAX-27 · síntesis transversales, auditorías y proyectos de sistema / 85 finite manifestos I–LXXXV + Manifesto ∞ · 14 canonical Neoaxioms™ + 13 candidates C-NAX-15–C-NAX-27 · cross-cutting syntheses, audits and system projects**.
+**Cobertura / Coverage:** **85 manifiestos finitos I–LXXXV + Manifiesto ∞ · 14 Neoaxiomas™ canónicos + 14 candidatos C-NAX-15–C-NAX-28 · síntesis transversales, auditorías y proyectos de sistema / 85 finite manifestos I–LXXXV + Manifesto ∞ · 14 canonical Neoaxioms™ + 14 candidates C-NAX-15–C-NAX-28 · cross-cutting syntheses, audits and system projects**.
 
 > **ABIERTO A SÍNTESIS ≠ VALIDADO.**  
 > **OPEN TO SYNTHESIS ≠ VALIDATED.**
@@ -233,7 +233,7 @@ ENTRAR EN UNA SÍNTESIS / ENTER A SYNTHESIS
 - Todo manifiesto finito I–LXXXV dispone de una Síntesis Abierta dedicada. / Every finite manifesto I–LXXXV has a dedicated Open Synthesis issue.
 - El Manifiesto ∞ permanece abierto permanentemente detrás del último manifiesto finito. / Manifesto ∞ remains permanently open after the latest finite manifesto.
 - Todo Neoaxioma canónico NAX-01–NAX-14 dispone de síntesis dedicada y de la matriz general #80. / Every canonical Neoaxiom NAX-01–NAX-14 has a dedicated synthesis plus general matrix #80.
-- C-NAX-15–C-NAX-27 permanecen candidatos: se muestran con matriz/ruta de síntesis y no se elevan automáticamente a canon. / C-NAX-15–C-NAX-27 remain candidates: they are shown with a synthesis matrix/route and are not automatically elevated to canon.
+- C-NAX-15–C-NAX-28 permanecen candidatos: se muestran con matriz/ruta de síntesis y no se elevan automáticamente a canon. / C-NAX-15–C-NAX-28 remain candidates: they are shown with a synthesis matrix/route and are not automatically elevated to canon.
 - Los deltas, auditorías, casos aplicados y proyectos del sistema disponen de espacios trazables de síntesis. / System-wide deltas, audits, applied cases and projects have traceable synthesis spaces.
 - Cualquier persona puede aportar localmente con comprensión suficiente del nodo concreto. / Anyone may contribute locally with sufficient understanding of the specific node.
 - La evaluación del marco completo requiere lectura proporcionalmente más profunda y actualmente se beneficia fuertemente de memoria relacional asistida por IA con retorno a fuente. / Full-framework evaluation requires proportionally deeper reading and currently benefits strongly from AI-assisted relational memory with return to source.
