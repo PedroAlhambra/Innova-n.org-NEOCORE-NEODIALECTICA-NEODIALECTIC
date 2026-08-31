@@ -1,12 +1,39 @@
 name: audit-global-bilingual-symmetry
 
-# Revisión viva 2026-08-24 · simetría ES/EN + navegación lingüística + gate NAX/C-NAX.
+# Revisión viva 2026-08-31 · gate puro: valida, no muta el corpus ni genera commits recursivos.
 on:
   workflow_dispatch:
   push:
     branches: [main]
     paths:
-      - '**/*.md'
+      - 'README.md'
+      - 'versiones/**'
+      - 'manifiestos/**'
+      - 'neoaxiomas/**'
+      - 'propuestas/**'
+      - 'analisis/**'
+      - 'fragmentos/**'
+      - 'obras/**'
+      - 'web4/**'
+      - '.github/ISSUE_TEMPLATE/*.yml'
+      - '.github/ISSUE_TEMPLATE/*.yaml'
+      - '.github/scripts/audit_global_bilingual_symmetry.py'
+      - '.github/scripts/audit_neoaxiom_registry_integrity.py'
+      - '.github/scripts/audit_language_selectors.py'
+      - '.github/scripts/audit_markdown_links_readmes.py'
+      - '.github/workflows/audit-global-bilingual-symmetry.yml'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'README.md'
+      - 'versiones/**'
+      - 'manifiestos/**'
+      - 'neoaxiomas/**'
+      - 'propuestas/**'
+      - 'analisis/**'
+      - 'fragmentos/**'
+      - 'obras/**'
+      - 'web4/**'
       - '.github/ISSUE_TEMPLATE/*.yml'
       - '.github/ISSUE_TEMPLATE/*.yaml'
       - '.github/scripts/audit_global_bilingual_symmetry.py'
@@ -16,11 +43,11 @@ on:
       - '.github/workflows/audit-global-bilingual-symmetry.yml'
 
 permissions:
-  contents: write
+  contents: read
 
 concurrency:
-  group: neocore-document-sync-main
-  cancel-in-progress: false
+  group: audit-global-bilingual-symmetry-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   audit:
@@ -28,7 +55,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 1
       - name: Audit global ES EN symmetry
         id: content_symmetry
         continue-on-error: true
@@ -37,23 +64,6 @@ jobs:
         id: language_navigation
         continue-on-error: true
         run: python .github/scripts/audit_language_selectors.py
-      - name: Commit audit reports
-        if: always()
-        run: |
-          set -euo pipefail
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add \
-            auditorias/publicas/2026-08-12_auditoria_global_simetria_ES_EN.md \
-            auditorias/publicas/2026-08-16_auditoria_neoaxiomas_simetria_frontera_ES_EN.md \
-            auditorias/publicas/2026-08-24_auditoria_global_selectores_idioma_ES_EN.md
-          if git diff --cached --quiet; then
-            echo 'Global bilingual audit reports unchanged.'
-            exit 0
-          fi
-          git commit -m 'audit: simetría global ES EN, navegación y gate neoaxiomático'
-          git pull --rebase origin main
-          git push origin main
       - name: Enforce blocking audit result
         if: always()
         run: |
@@ -61,7 +71,7 @@ jobs:
           echo "CONTENT_SYMMETRY=${{ steps.content_symmetry.outcome }}"
           echo "LANGUAGE_NAVIGATION=${{ steps.language_navigation.outcome }}"
           if [ "${{ steps.content_symmetry.outcome }}" != "success" ] || [ "${{ steps.language_navigation.outcome }}" != "success" ]; then
-            echo 'One or more bilingual gates failed. Evidence was preserved; global PASS is blocked.'
+            echo 'One or more bilingual gates failed. No corpus mutation was performed by CI.'
             exit 1
           fi
           echo 'CONTENT_SYMMETRY = PASS'
