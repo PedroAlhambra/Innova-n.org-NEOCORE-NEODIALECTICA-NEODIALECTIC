@@ -1,7 +1,7 @@
 # Índice Completo de Síntesis Abiertas™
 # Complete Open Synthesis™ Index
 
-**Fecha / Date:** 2026-08-30
+**Fecha / Date:** 2026-08-31
 **Estado / Status:** vivo, versionado y revisable / living, versioned and revisable  
 **Cobertura / Coverage:** **85 manifiestos finitos I–LXXXV + Manifiesto ∞ · 14 Neoaxiomas™ canónicos + 13 candidatos C-NAX-15–C-NAX-27 · síntesis transversales, auditorías y proyectos de sistema / 85 finite manifestos I–LXXXV + Manifesto ∞ · 14 canonical Neoaxioms™ + 13 candidates C-NAX-15–C-NAX-27 · cross-cutting syntheses, audits and system projects**.
 
