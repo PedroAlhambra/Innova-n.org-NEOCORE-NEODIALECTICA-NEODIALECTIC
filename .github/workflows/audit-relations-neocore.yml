@@ -9,13 +9,18 @@ on:
       - '**/*.md'
       - '.github/scripts/audit_relations_neocore.py'
       - '.github/workflows/audit-relations-neocore.yml'
+  pull_request:
+    paths:
+      - '**/*.md'
+      - '.github/scripts/audit_relations_neocore.py'
+      - '.github/workflows/audit-relations-neocore.yml'
 
 permissions:
-  contents: write
+  contents: read
 
 concurrency:
-  group: neocore-relational-audit-main
-  cancel-in-progress: false
+  group: neocore-relational-audit-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   audit:
@@ -23,15 +28,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 1
       - name: Run non-reductive relational audit
         run: python .github/scripts/audit_relations_neocore.py
-      - name: Commit audit outputs
+      - name: Confirm audit outputs were generated
         run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones.json
-          if git diff --cached --quiet; then exit 0; fi
-          git commit -m 'audit: postcheck relacional final I-LX'
-          git pull --rebase origin main
-          git push origin main
+          test -s auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md
+          test -s auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones.json
+          echo 'RELATIONAL_AUDIT_OUTPUTS=GENERATED_EPHEMERALLY'
