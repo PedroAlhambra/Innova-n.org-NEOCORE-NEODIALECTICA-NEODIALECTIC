@@ -8,13 +8,19 @@ on:
       - '.github/scripts/audit_es_en_parity.py'
       - 'manifiestos/**.md'
       - 'analisis/publicos/**.md'
+  pull_request:
+    paths:
+      - '.github/workflows/audit-es-en-parity.yml'
+      - '.github/scripts/audit_es_en_parity.py'
+      - 'manifiestos/**.md'
+      - 'analisis/publicos/**.md'
 
 permissions:
-  contents: write
+  contents: read
 
 concurrency:
-  group: neocore-document-sync-main
-  cancel-in-progress: false
+  group: neocore-es-en-parity-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   audit:
@@ -22,22 +28,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 1
       - name: Audit ES EN parity
         run: python .github/scripts/audit_es_en_parity.py
-      - name: Commit parity report if needed
-        run: |
-          set -euo pipefail
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add auditorias/publicas/2026-08-09_auditoria_paridad_ES_EN_manifiestos_articulos.md
-          if git diff --cached --quiet; then
-            echo 'Parity report unchanged.'
-          else
-            git commit -m 'audit: informe de paridad ES EN en manifiestos y artículos'
-            git pull --rebase origin main
-            git push origin main
-          fi
       - name: Enforce full manifesto parity
         run: |
           python - <<'PY'
