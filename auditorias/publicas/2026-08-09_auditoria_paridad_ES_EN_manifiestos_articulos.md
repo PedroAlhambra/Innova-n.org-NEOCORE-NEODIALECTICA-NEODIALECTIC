@@ -44,7 +44,7 @@
 | `manifiestos/08_neorrenacimiento_humano_ES_EN.md` | 902 | 894 | 0.99 | 12 | 12 | OK |
 | `manifiestos/09_parasitismo_sistemico_ES_EN.md` | 885 | 880 | 0.99 | 11 | 11 | OK |
 | `manifiestos/10_los_sin_ego_ES_EN.md` | 687 | 685 | 1.00 | 10 | 10 | OK |
-| `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` | 853 | 856 | 1.00 | 12 | 12 | OK |
+| `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` | 1208 | 1122 | 0.93 | 13 | 13 | OK |
 | `manifiestos/12_los_sin_ego_ES_EN.md` | 687 | 685 | 1.00 | 10 | 10 | OK |
 | `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` | 1869 | 1868 | 1.00 | 15 | 15 | OK |
 | `manifiestos/14_contra_alienacion_humana_ES_EN.md` | 1643 | 1539 | 0.94 | 15 | 15 | OK |
@@ -118,7 +118,7 @@
 | `manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md` | 398 | 473 | 1.19 | 8 | 9 | OK |
 | `manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md` | 743 | 726 | 0.98 | 10 | 10 | OK |
 | `manifiestos/84_intermediacion_acceso_permeabilidad_poder_ES_EN.md` | 1045 | 1024 | 0.98 | 12 | 12 | OK |
-| `manifiestos/85_memoria_capitan_grant_ES_EN.md` | 988 | 1132 | 1.15 | 10 | 11 | OK |
+| `manifiestos/85_memoria_capitan_grant_ES_EN.md` | 988 | 1150 | 1.16 | 10 | 11 | OK |
 | `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | 2112 | 2116 | 1.00 | 13 | 13 | OK |
 | `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` | 611 | 611 | 1.00 | 1 | 1 | OK |
 | `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` | 3237 | 3128 | 0.97 | 29 | 29 | OK |
