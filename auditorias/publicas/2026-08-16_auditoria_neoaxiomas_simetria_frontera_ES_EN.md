@@ -2,13 +2,13 @@
 # Neoaxiomatic ES/EN document integrity audit
 
 **Fecha / Date:** 2026-08-30
-**Estado / Status:** **OK**
-**Frontera dinámica / Dynamic frontier:** **C-NAX-15–C-NAX-27**
+**Estado / Status:** **FAIL**
+**Frontera dinámica / Dynamic frontier:** **C-NAX-15–C-NAX-28**
 
 ## Resultado / Result
 
 - NAX canónicos con documento propio / canonical NAX with own document: **14** · `[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]`.
-- C-NAX con documento propio / C-NAX with own document: **13** · `[15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]`.
+- C-NAX con documento propio / C-NAX with own document: **14** · `[15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]`.
 - Fuentes C-NAX detectadas / detected C-NAX sources: **5** · `[23, 24, 25, 26, 27]`.
 
 ## Regla endurecida / Hardened rule
@@ -20,4 +20,8 @@
 
 ## Incidencias / Findings
 
-- Ninguna / None.
+- NEOAXIOM_READABILITY_FAILURE: C-NAX-28 no enlaza primero a su documento propio
+- NEOAXIOM_LANGUAGE_INDEX_FAILURE: C-NAX-28 debe enlazar una vez en la capa ES
+- NEOAXIOM_LANGUAGE_INDEX_FAILURE: C-NAX-28 debe enlazar una vez en la capa EN
+- Portal neoaxiomático conserva frontera obsoleta / Neoaxiom portal has stale frontier
+- Índice SAN C-NAX desalineado / C-NAX SAN index mismatch: [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]

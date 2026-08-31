@@ -7,16 +7,17 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **411**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **344**.
-- Fallos estructurales divididos / Split structural failures: **0**.
+- Markdown activo examinado / Active Markdown scanned: **412**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **345**.
+- Fallos estructurales divididos / Split structural failures: **1**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **1**.
 
 ## Fallos divididos / Split failures
 
-- Ninguno / None.
+- `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · ES=1208 · EN=1122 · ratio=0.93
+  - Invocación: párrafos ES=2 EN=1
 
 ## Marcadores / Markers
 
@@ -219,7 +220,7 @@
 | `manifiestos/08_neorrenacimiento_humano_ES_EN.md` | **OK** |  |
 | `manifiestos/09_parasitismo_sistemico_ES_EN.md` | **OK** |  |
 | `manifiestos/10_los_sin_ego_ES_EN.md` | **OK** |  |
-| `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` | **OK** |  |
+| `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` | **REVISAR** | Invocación: párrafos ES=2 EN=1 |
 | `manifiestos/12_los_sin_ego_ES_EN.md` | **OK** |  |
 | `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` | **OK** |  |
 | `manifiestos/14_contra_alienacion_humana_ES_EN.md` | **OK** |  |
@@ -315,6 +316,7 @@
 | `neoaxiomas/C-NAX-25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md` | **OK** |  |
 | `neoaxiomas/C-NAX-26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md` | **OK** |  |
 | `neoaxiomas/C-NAX-27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` | **OK** |  |
+| `neoaxiomas/C-NAX-28_ASCENSO_CAPA_NO_VIOLACION_REALIDAD_ES_EN.md` | **OK** |  |
 | `neoaxiomas/NAX-01_UNIDAD_SENTIDO_DISTRIBUCION_POTENCIA_ES_EN.md` | **OK** |  |
 | `neoaxiomas/NAX-02_PRIMERA_CAPA_FRACTAL_MULTICABEZA_ES_EN.md` | **OK** |  |
 | `neoaxiomas/NAX-03_NO_HOMOGENEIZACION_PREVIA_ES_EN.md` | **OK** |  |
