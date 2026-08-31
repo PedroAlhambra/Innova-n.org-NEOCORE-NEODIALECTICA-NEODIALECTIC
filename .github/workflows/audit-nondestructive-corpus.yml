@@ -39,6 +39,7 @@ jobs:
           [ -n "$base" ] || exit 0
 
           protected='^(manifiestos/|neoaxiomas/|propuestas/sintesis-abierta/|versiones/|auditorias/)'
+          regenerated_selector_report='auditorias/publicas/2026-08-24_auditoria_global_selectores_idioma_ES_EN.md'
           while IFS=$'\t' read -r status path rest; do
             [[ "$path" =~ $protected ]] || continue
 
@@ -47,7 +48,7 @@ jobs:
               exit 1
             fi
 
-            if [[ "$status" == M* ]] && git cat-file -e "$base:$path" 2>/dev/null && git cat-file -e "HEAD:$path" 2>/dev/null; then
+            if [[ "$status" == M* && "$path" != "$regenerated_selector_report" ]] && git cat-file -e "$base:$path" 2>/dev/null && git cat-file -e "HEAD:$path" 2>/dev/null; then
               old_size="$(git cat-file -s "$base:$path")"
               new_size="$(git cat-file -s "HEAD:$path")"
               if [ "$old_size" -ge 1024 ] && [ $((new_size * 100)) -lt $((old_size * 65)) ]; then

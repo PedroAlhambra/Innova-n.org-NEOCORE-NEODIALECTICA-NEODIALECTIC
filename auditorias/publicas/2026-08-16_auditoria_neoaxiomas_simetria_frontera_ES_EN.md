@@ -14,6 +14,7 @@
 ## Regla endurecida / Hardened rule
 
 - **README = índice; NAX/C-NAX = documento doctrinal propio; procedencia y SAN = rutas secundarias. / README = index; NAX/C-NAX = own doctrinal document; provenance and SAN = secondary routes.**
+- **Cada capa ES y EN del README debe enlazar exactamente una vez a cada documento NAX/C-NAX y conservar el mismo mapa estructural. / Each ES and EN README layer must link exactly once to every NAX/C-NAX document and preserve the same structural map.**
 - **La frontera se deriva de las fuentes públicas C-NAX y debe ser contigua en documentos, README, portal e índice SAN. / The frontier is derived from public C-NAX sources and must remain contiguous across documents, README, portal and SAN index.**
 - **El auditor valida la arquitectura documental vigente y no exige restaurar el antiguo README monolítico. / The auditor validates the current document architecture and never requires restoring the former monolithic README.**
 

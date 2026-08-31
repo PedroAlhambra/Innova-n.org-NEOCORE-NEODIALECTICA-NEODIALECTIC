@@ -32,11 +32,13 @@ SHARED_TAIL_MARKERS = [
     '<!-- NEO_LATEST_MANIFESTO_START -->',
     '<!-- NEO_CROSS_REFERENCES_START -->',
     '<!-- NEO_RELATIONAL_FOOTER_START -->',
+    '<!-- NEOAXIOM_MANIFEST_RELATIONS_START -->',
 ]
 
 LANG_TAIL_HEADINGS = [
     r'^##\s+Navegación\s*$', r'^##\s+Navigation\s*$',
     r'^###\s+Vínculos internos equivalentes\s*$', r'^###\s+Equivalent internal links\s*$',
+    r'^##\s+PASO_SIGUIENTE_RECOMENDADO / NEXT_RECOMMENDED_STEP\s*$',
 ]
 
 
@@ -53,6 +55,10 @@ def strip_generated_tail(s):
     for pat in LANG_TAIL_HEADINGS:
         m=re.search(pat,s,re.M)
         if m: positions.append(m.start())
+    # Neoaxiom own-documents place shared bilingual provenance/synthesis metadata after
+    # the EN formulation. It belongs to neither language half and must not inflate EN.
+    m=re.search(r'^\*\*(?:Procedencia / Provenance|Síntesis / Synthesis|Genealogía / Genealogy|Nota de estado histórico / Historical-state note):',s,re.M)
+    if m: positions.append(m.start())
     # Only known editorial bilingual tail headings are shared boundaries. A slash alone
     # is not sufficient: content headings such as "Stanford / ACE" are part of the document.
     m=re.search(r'^#{1,6}\s+(?:Fuentes[^\n]* / [^\n]*(?:Sources|sources)|Historial de versiones / Version history|Firma común / Common signature|Principio de procedencia / Provenance principle|Relaciones internas y trabajo aplicado / Internal relations and applied work|Relación con los manifiestos / Relation to the manifestos|Candidatos neoaxiomáticos / Neoaxiomatic candidates|Relaciones / Relations|Referencias cruzadas canónicas / Canonical cross-references|Puerta de Síntesis / Synthesis Gate|Referencias / References|Relación manifiesto / Manifesto relation|Vínculos / Links|Trazabilidad / Traceability|Materiales relacionados / Related materials|Derechos / Rights|Nodos relacionados / Related nodes|Navegación / Navigation|Trazabilidad KDP 51071689 · estado actual / KDP 51071689 traceability · current state|Licencia de participación / Participation licence|Síntesis Abierta / Open Synthesis|Documentary status / Estado documental)\s*$',s,re.M)
@@ -292,7 +298,7 @@ for p in sorted((ROOT/'.github'/'ISSUE_TEMPLATE').glob('*.y*ml')):
 
 lines=[
 '# Auditoría global de simetría ES/EN / Global ES/EN symmetry audit','',
-f'**Fecha / Date:** {datetime.now(timezone.utc).date().isoformat()}  ',
+f'**Fecha / Date:** {datetime.now(timezone.utc).date().isoformat()}',
 '**Regla / Rule:** **NO COMPRESIÓN / NO COMPRESSION.** Toda superficie editorial bilingüe debe conservar contenido y estructura: títulos, secciones, listas, citas, fórmulas, tablas, cautelas, ejemplos, navegación y llamadas a Síntesis. / Every bilingual editorial surface must preserve content and structure: titles, sections, lists, quotations, formulas, tables, safeguards, examples, navigation and Synthesis calls.','',
 '> Los espejos `manifiestos/canonicos/` no se duplican en este recuento: su igualdad con la fuente se valida mediante la auditoría estructural canónica. / `manifiestos/canonicos/` mirrors are not double-counted here: equality with their source is validated by the canonical structural audit.','',
 '## Resumen / Summary','',

@@ -4,6 +4,8 @@
 **Fecha / Date:** 2026-08-30  
 **Ámbito / Scope:** corpus público de manifiestos, frontera canónica y navegación de Síntesis Abierta / public manifesto corpus, canonical frontier and Open Synthesis navigation
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ## ES · Castellano
 
 ### Estado observado

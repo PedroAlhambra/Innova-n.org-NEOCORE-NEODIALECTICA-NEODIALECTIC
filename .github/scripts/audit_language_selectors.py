@@ -97,7 +97,7 @@ for path in sorted(ROOT.rglob('*.md')):
         failures.append(result)
 
 REPORT.parent.mkdir(parents=True, exist_ok=True)
-REPORT.write_text(render_report(checked, failures), encoding='utf-8')
+REPORT.write_text(render_report(checked, failures).replace('  \n', '\n'), encoding='utf-8')
 
 print(f'Explicit ES/EN split pages checked: {checked}')
 print(f'Language-navigation failures: {len(failures)}')

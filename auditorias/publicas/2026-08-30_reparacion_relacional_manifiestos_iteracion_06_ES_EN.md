@@ -3,6 +3,8 @@
 **Fecha / Date:** 2026-08-30  
 **Ámbito / Scope:** corpus público de manifiestos y controles de navegación relacional / public manifesto corpus and relational-navigation controls
 
+[ES · Castellano](#es--estado-inicial) · [EN · English](#en--initial-state)
+
 ## ES · Estado inicial
 
 La iteración parte de una reparación relacional previamente verificada sobre los manifiestos finitos I–LXXXV y el Manifiesto ∞. La revisión de continuidad detectó, no obstante, una debilidad sistémica del auditor: una relación genealógica podía nombrar en texto plano una pieza como `Manifiesto XLVII` / `Manifesto XLVII` sin marca `™` y el control específico de referencias genealógicas podía no clasificar ese nombre canónico como navegación no clicable.
@@ -79,6 +81,6 @@ A subsequent reread of `manifiestos/README.md` confirms the living frontier as *
 
 This PASS is not extrapolated to global cleanliness of every public format. Independent language-selector, global-symmetry, README-link and other gates must retain their own state and be repaired with fresh evidence; no control is weakened in order to declare the whole corpus clean.
 
-## PASO_SIGUIENTE_RECOMENDADO / NEXT_STEP
+## PASO_SIGUIENTE_RECOMENDADO / NEXT_RECOMMENDED_STEP
 
 Diagnosticar y reparar el primer fallo vigente de los gates públicos de simetría, selector de idioma o enlaces README, sin rebajar auditorías y preservando el gate relacional recién endurecido. / Diagnose and repair the first current failure in the public symmetry, language-selector or README-link gates without weakening audits and while preserving the newly hardened relational gate.

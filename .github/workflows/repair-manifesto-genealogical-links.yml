@@ -8,6 +8,8 @@ on:
       - '.github/scripts/sanitize_manifesto_relation_markdown.py'
       - '.github/scripts/repair_manifesto_genealogical_links.py'
       - '.github/scripts/audit_manifesto_clickable_relations.py'
+      - '.github/scripts/audit_global_bilingual_symmetry.py'
+      - '.github/scripts/audit_language_selectors.py'
       - '.github/workflows/repair-manifesto-genealogical-links.yml'
       - 'manifiestos/CANONICAL_FILENAMES.json'
 
@@ -45,7 +47,13 @@ jobs:
         run: git diff -- manifiestos
 
       - name: Audit clickable relations before commit
-        run: python .github/scripts/audit_manifesto_clickable_relations.py || true
+        run: python .github/scripts/audit_manifesto_clickable_relations.py
+
+      - name: Block repair commit on global ES/EN content asymmetry
+        run: python .github/scripts/audit_global_bilingual_symmetry.py
+
+      - name: Block repair commit on broken ES/EN language navigation
+        run: python .github/scripts/audit_language_selectors.py
 
       - name: Commit repairs if needed
         shell: bash
