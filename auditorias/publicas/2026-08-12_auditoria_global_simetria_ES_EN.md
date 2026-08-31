@@ -1,6 +1,6 @@
 # Auditoría global de simetría ES/EN / Global ES/EN symmetry audit
 
-**Fecha / Date:** 2026-08-30  
+**Fecha / Date:** 2026-08-31
 **Regla / Rule:** **NO COMPRESIÓN / NO COMPRESSION.** Toda superficie editorial bilingüe debe conservar contenido y estructura: títulos, secciones, listas, citas, fórmulas, tablas, cautelas, ejemplos, navegación y llamadas a Síntesis. / Every bilingual editorial surface must preserve content and structure: titles, sections, lists, quotations, formulas, tables, safeguards, examples, navigation and Synthesis calls.
 
 > Los espejos `manifiestos/canonicos/` no se duplican en este recuento: su igualdad con la fuente se valida mediante la auditoría estructural canónica. / `manifiestos/canonicos/` mirrors are not double-counted here: equality with their source is validated by the canonical structural audit.
@@ -9,18 +9,14 @@
 
 - Markdown activo examinado / Active Markdown scanned: **408**.
 - Documentos con secciones ES/EN divididas / Split ES/EN documents: **341**.
-- Fallos estructurales divididos / Split structural failures: **2**.
+- Fallos estructurales divididos / Split structural failures: **0**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
 - Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
 
-- `auditorias/publicas/2026-08-30_reparacion_relacional_manifiestos_iteracion_06_ES_EN.md` · ES=401 · EN=424 · ratio=1.06
-  - esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, '')]
-- `auditorias/publicas/2026-08-30_reparacion_relacional_manifiestos_iteracion_08_ES_EN.md` · ES=339 · EN=242 · ratio=0.71
-  - volumen EN/ES=0.71 (242/339)
-  - esqueleto de encabezados distinto ES=[(3, ''), (3, ''), (3, ''), (3, ''), (3, '')] EN=[(3, ''), (3, ''), (3, ''), (3, '')]
+- Ninguno / None.
 
 ## Marcadores / Markers
 
@@ -197,9 +193,9 @@
 | `auditorias/publicas/2026-08-29_reparacion_relacional_manifiestos_iteracion_02_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-29_reparacion_relacional_manifiestos_iteracion_04_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-29_reparacion_relacional_manifiestos_iteracion_05_ES_EN.md` | **OK** |  |
-| `auditorias/publicas/2026-08-30_reparacion_relacional_manifiestos_iteracion_06_ES_EN.md` | **REVISAR** | esqueleto de encabezados distinto ES=[(2, ''), (2, ''), (2, '')] EN=[(2, ''), (2, ''), (2, ''), (2, '')] |
+| `auditorias/publicas/2026-08-30_reparacion_relacional_manifiestos_iteracion_06_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-30_reparacion_relacional_manifiestos_iteracion_07_ES_EN.md` | **OK** |  |
-| `auditorias/publicas/2026-08-30_reparacion_relacional_manifiestos_iteracion_08_ES_EN.md` | **REVISAR** | volumen EN/ES=0.71 (242/339); esqueleto de encabezados distinto ES=[(3, ''), (3, ''), (3, ''), (3, ''), (3, '')] EN=[(3, ''), (3, ''), (3, ''), (3, '')] |
+| `auditorias/publicas/2026-08-30_reparacion_relacional_manifiestos_iteracion_08_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-30_revision_integral_github_publico_iteracion_01_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-30_revision_integral_github_publico_iteracion_02_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-30_revision_integral_github_publico_iteracion_03_ES_EN.md` | **OK** |  |
@@ -418,4 +414,3 @@
 - Una diferencia estructural en listas, citas, fórmulas o tablas es fallo hasta ser revisada. / A structural difference in lists, quotations, formulas or tables is a failure until reviewed.
 - Títulos, índices, Neoaxiomas™, Manifiestos, Síntesis Abierta, respuestas públicas, plantillas y navegación deben mantener simetría visible. / Titles, indices, Neoaxioms™, Manifestos, Open Synthesis, public responses, templates and navigation must maintain visible symmetry.
 - Los archivos históricos inertes se conservan como evidencia y se auditan por separado para no reescribir el pasado. / Inert historical files are preserved as evidence and audited separately so the past is not rewritten.
-

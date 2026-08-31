@@ -298,7 +298,7 @@ for p in sorted((ROOT/'.github'/'ISSUE_TEMPLATE').glob('*.y*ml')):
 
 lines=[
 '# Auditoría global de simetría ES/EN / Global ES/EN symmetry audit','',
-f'**Fecha / Date:** {datetime.now(timezone.utc).date().isoformat()}  ',
+f'**Fecha / Date:** {datetime.now(timezone.utc).date().isoformat()}',
 '**Regla / Rule:** **NO COMPRESIÓN / NO COMPRESSION.** Toda superficie editorial bilingüe debe conservar contenido y estructura: títulos, secciones, listas, citas, fórmulas, tablas, cautelas, ejemplos, navegación y llamadas a Síntesis. / Every bilingual editorial surface must preserve content and structure: titles, sections, lists, quotations, formulas, tables, safeguards, examples, navigation and Synthesis calls.','',
 '> Los espejos `manifiestos/canonicos/` no se duplican en este recuento: su igualdad con la fuente se valida mediante la auditoría estructural canónica. / `manifiestos/canonicos/` mirrors are not double-counted here: equality with their source is validated by the canonical structural audit.','',
 '## Resumen / Summary','',

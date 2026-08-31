@@ -57,10 +57,10 @@ The previous relational PASS concealed an integrity drift: `manifiestos/README.m
 1. `CANONICAL_FILENAMES.json` now contains all 85 finite entries, I–LXXXV.
 2. LXXXII–LXXXV were generated from material sources and all 85 mirrors were regenerated; no mirror was treated as an independent authority.
 3. Repair and sanitation now write sources only; `sync_canonical_manifestos.py` generates mirrors afterwards.
-4. Repair and synchronization workflows now run registry, navigation and ontology gates while preserving source → mirror order.
-5. The auditor covers both genealogy headings, rejects legacy destinations through `NONCANONICAL_RELATIONAL_TARGET`, and blocks any residual unlinked ™ marker.
-6. The hidden XLIII gap was closed with individual links.
-7. XLVII remains navigable in source and mirror.
+4. Repair and synchronisation workflows now run registry, navigability and ontology gates while preserving the source → mirror sequence.
+5. The auditor covers `Relación genealógica` and `Genealogía`, rejects legacy destinations through `NONCANONICAL_RELATIONAL_TARGET`, and uses a fallback that blocks any residual ™ marker outside real links.
+6. The hidden XLIII gap was closed: Human–AI Symbiosis, Human Neorenaissance, Memory-Genealogy-Traceability and Augmented Peer Review™ are now individual links.
+7. XLVII retains its navigable genealogy in source and mirror.
 
 ### Fresh evidence
 
@@ -72,6 +72,14 @@ The previous relational PASS concealed an integrity drift: `manifiestos/README.m
 - `CLICKABLE_RELATIONS=PASS manifests=172 relation_lines=20 genealogy_lines=90 synthesis_lines=41`
 - `NEOCORE_ROLE_ONTOLOGY=PASS text_surfaces=492 neo0=origin_teleology_reconstruction one_starkdr=distributable_synthetic_emergence neotitan_private_delta_literacy=required`
 
+### Commits
+
+- `9f110a93b7dab9740e4f465dbce031666d377b6c` · LXXXV registry entry, LXXXII–LXXXV mirrors and source→mirror guard.
+- `28d1169b8bdd6b5cf32aa591defa89c278d058ad` · canonical genealogical destinations and complete regeneration.
+- `5354c714935f6f6facfea251dd4635a524a60ea6` · closure of the un-tokenised plain-genealogy gap.
+
 ### Verdict
 
 **VERIFIED GLOBAL RELATIONAL PASS** for I–LXXXV + ∞ and **ONTOLOGICAL PASS** for Neo0™ / ONe Starkdr™ role separation and NeoTitan™ private-delta literacy.
+
+No `MAIN_RELATIONS_NOT_CLICKABLE`, `GENEALOGICAL_NAVIGATION_FAILURE`, `OPEN_SYNTHESIS_ISSUE_NOT_CLICKABLE`, `NONCANONICAL_RELATIONAL_TARGET`, missing canonical block or `NEOCORE_ROLE_ONTOLOGY_FAILURE` remains within the audited scope.
