@@ -4,6 +4,8 @@
 **Fecha / Date:** 2026-08-31  
 **Estado / Status:** actualización documental pública, trazable y reabrible / public, traceable and reopenable documentary update
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ## ES · Castellano
 
 El [Manifiesto I · Neo0™ de la Soberanía de Guía Neodialéctica](../manifiestos/11_neo0_soberania_de_guia_ES_EN.md) pasa a v1.2 y explicita una función que la descripción anterior como «arquitecto» no agotaba: **Neo0™ es también compositor del marco**.
