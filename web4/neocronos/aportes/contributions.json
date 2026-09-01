@@ -1,0 +1,140 @@
+{
+  "schema": "neocronos-contribution-ledger/v0.3",
+  "updated_at": "2026-08-12",
+  "recovery_state": "historical-recovered-not-current-runtime",
+  "recovered_at": "2026-09-01",
+  "recovered_from_branch": "sintesis-aportes-tokenizados",
+  "historical_blob": "3dfc13bab75ca6c5de1e41ae2d186996bae2aa23",
+  "current_governance_note": "Historical migration ledger. Current recognition must satisfy auditable-contribution, privacy and no-automatic-valuation gates.",
+  "canonical_rules": {
+    "es": "NeoCronos™ registra eventos de aporte y separa las funciones atribuibles dentro de cada evento. La procedencia de una señal no determina por sí sola la autoría del delta. Todo trabajo atribuible y demostrable —fuente, descubrimiento, ingesta, curación, relación, contraste, síntesis, implementación o fijación— puede recibir crédito de traza propio. El retorno económico permanece separado.",
+    "en": "NeoCronos™ records contribution events and separates attributable functions inside each event. The provenance of a signal does not by itself determine authorship of the delta. Every attributable and demonstrable piece of work —source, discovery, ingestion, curation, relation, scrutiny, synthesis, implementation or fixation— may receive its own trace credit. Economic return remains separate."
+  },
+  "phase_rule": {
+    "es": "Mientras WEB4™ no permita todavía la entrada directa de aportes, Neo0™ realiza manualmente trabajo de descubrimiento o recepción, selección, ingesta, contextualización, relación, contraste y fijación. Ese trabajo debe quedar trazado dentro de cada evento cuando realmente ocurra; no es un impuesto del fundador ni apropiación de la idea externa.",
+    "en": "While WEB4™ does not yet allow direct contribution entry, Neo0™ manually performs discovery or reception, selection, ingestion, contextualisation, relation, scrutiny and fixation work. That work must be traced inside each event when it actually occurs; it is neither a founder tax nor appropriation of the external idea."
+  },
+  "ingestion_modes": ["manual-neo0", "direct-web4", "api", "imported", "automated"],
+  "role_catalogue": [
+    "source_originator",
+    "discoverer",
+    "receiver",
+    "manual_ingestor",
+    "curator",
+    "relation_author",
+    "contradiction_author",
+    "synthesis_operator",
+    "delta_author",
+    "implementation_operator",
+    "fixation_operator"
+  ],
+  "traceability": {
+    "issue": "entrada_y_contraste / entry_and_scrutiny",
+    "document": "sintesis_versionada / versioned_synthesis",
+    "commit": "fijacion_y_delta / fixation_and_delta",
+    "web4": "visualizacion_interaccion_juego / visualisation_interaction_game"
+  },
+  "migration": [
+    {"legacy_token_id":"NC-2026-0001-ALFONSO-CALVO","status":"deprecated-flat-model","replaced_by_event_id":"NC-EVT-2026-0001","reason_es":"El modelo anterior atribuía el evento a una sola persona y borraba el trabajo manual de integración.","reason_en":"The previous model attributed the event to a single person and erased manual integration work."},
+    {"legacy_token_id":"NC-2026-0002-DAVID-GUNKEL","status":"deprecated-flat-model","replaced_by_event_id":"NC-EVT-2026-0002"},
+    {"legacy_token_id":"NC-2026-0003-HUGO-ROGER-PAZ","status":"deprecated-flat-model","replaced_by_event_id":"NC-EVT-2026-0003"},
+    {"legacy_token_id":"NC-2026-0004-WEB4-FEEDBACK","status":"deprecated-flat-model","replaced_by_event_id":"NC-EVT-2026-0004"},
+    {"legacy_token_id":"NC-2026-0005-JOSE-LUIS-CASAL-ASILOMAR","status":"deprecated-misattribution","replaced_by_event_id":"NC-EVT-2026-0005","reason_es":"José Luis Casal fue la procedencia de la publicación vista en LinkedIn; Neo0™ descubrió la señal, la introdujo manualmente, estableció la relación Asilomar↔marco y produjo el delta relacional.","reason_en":"José Luis Casal was the provenance of the LinkedIn publication; Neo0™ discovered the signal, manually introduced it, established the Asilomar↔framework relation and produced the relational delta."},
+    {"legacy_token_id":"NC-2026-0006-NEO0-RADAR-PI","status":"deprecated-flat-model","replaced_by_event_id":"NC-EVT-2026-0006"},
+    {"legacy_token_id":"NC-2026-0007-NEO0-SENTIENT-SIGNAL","status":"deprecated-flat-model","replaced_by_event_id":"NC-EVT-2026-0007"},
+    {"legacy_token_id":"NC-2026-0008-HOJAS-CARCOMIDAS","status":"deprecated-flat-model","replaced_by_event_id":"NC-EVT-2026-0008"},
+    {"legacy_token_id":"NC-2026-0009-ANONYMOUS-TM-QUESTION","status":"deprecated-flat-model","replaced_by_event_id":"NC-EVT-2026-0009"}
+  ],
+  "events": [
+    {
+      "event_id":"NC-EVT-2026-0001","date":"2026-08-12","ingestion_mode":"manual-neo0","source_url":"https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/140",
+      "title":{"es":"Crítica externa sobre accesibilidad, WEB4, SAN, Leónidas y Neo0","en":"External critique on accessibility, WEB4, SAN, Leónidas and Neo0"},
+      "event_delta":{"es":"Se conservan señales útiles sobre accesibilidad, onboarding, navegación, mediación conversacional y legibilidad externa, y el contraste obliga además a precisar SAN™, Leónidas™, Neo0™ y capa π.","en":"Useful signals on accessibility, onboarding, navigation, conversational mediation and external legibility are preserved, while scrutiny also forces clarification of SAN™, Leónidas™, Neo0™ and layer π."},
+      "umbral_x":"X-RETORNO-A-FUENTE + X-CONDICIONAL / X-RETURN-TO-SOURCE + X-CONDITIONAL","san_state":"open","economic_state":"not-issued",
+      "credits":[
+        {"credit_token_id":"NC-CR-2026-0001-A","actor":"Alfonso Calvo Orra","roles":["source_originator","contradiction_author"],"work_es":"Autor de la crítica externa y de las observaciones concretas que entran en contraste.","work_en":"Author of the external critique and the concrete observations entering scrutiny.","token_state":"assigned-trace"},
+        {"credit_token_id":"NC-CR-2026-0001-B","actor":"Pedro Martínez Alhambra · Neo0™","roles":["receiver","manual_ingestor","curator","relation_author","synthesis_operator","fixation_operator"],"work_es":"Recibe, selecciona e introduce manualmente el análisis, lo devuelve al corpus, separa señales útiles de reducciones y fija el contraste trazable.","work_en":"Receives, selects and manually ingests the analysis, returns it to the corpus, separates useful signals from reductions and fixes the traceable scrutiny.","token_state":"assigned-trace"}
+      ]
+    },
+    {
+      "event_id":"NC-EVT-2026-0002","date":"2026-08-11","ingestion_mode":"manual-neo0","source_url":"https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/132",
+      "title":{"es":"Agencia distribuida, control humano significativo y responsabilidad","en":"Distributed agency, meaningful human control and responsibility"},
+      "event_delta":{"es":"Se abre un contraste explícito con agencia distribuida/compartida, meaningful human control, supervisión y asignación de responsabilidad sociotécnica.","en":"An explicit scrutiny path is opened against distributed/shared agency, meaningful human control, oversight and sociotechnical responsibility allocation."},
+      "umbral_x":"X-ABIERTO / X-OPEN","san_state":"open","economic_state":"not-issued",
+      "credits":[
+        {"credit_token_id":"NC-CR-2026-0002-A","actor":"David J. Gunkel","roles":["source_originator","contradiction_author"],"work_es":"Aporta las líneas externas de contraste sobre coordinación humano–IA, agencia, control y responsabilidad.","work_en":"Contributes the external scrutiny lines on human–AI coordination, agency, control and responsibility.","token_state":"assigned-trace"},
+        {"credit_token_id":"NC-CR-2026-0002-B","actor":"Pedro Martínez Alhambra · Neo0™","roles":["receiver","manual_ingestor","curator","relation_author","synthesis_operator","fixation_operator"],"work_es":"Introduce manualmente el aporte en la Síntesis, lo relaciona con el corpus y abre la tarea de contraste genealógico y funcional.","work_en":"Manually ingests the contribution into Synthesis, relates it to the corpus and opens the genealogical and functional scrutiny task.","token_state":"assigned-trace"}
+      ]
+    },
+    {
+      "event_id":"NC-EVT-2026-0003","date":"2026-08-11","ingestion_mode":"manual-neo0","source_url":"https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/132",
+      "title":{"es":"Gobernanza compleja, realimentación y dependencia de trayectoria","en":"Complex governance, feedback and path dependence"},
+      "event_delta":{"es":"Se incorpora un stress-test explícito sobre feedback loops, path dependencies, efectos no intencionados, fallos emergentes, memoria temporal y soberanía humana.","en":"An explicit stress test is incorporated around feedback loops, path dependencies, unintended effects, emergent failures, temporal memory and human sovereignty."},
+      "umbral_x":"X-ABIERTO / X-OPEN","san_state":"open","economic_state":"not-issued",
+      "credits":[
+        {"credit_token_id":"NC-CR-2026-0003-A","actor":"Hugo Roger Paz","roles":["source_originator","contradiction_author"],"work_es":"Aporta la crítica sistémica externa sobre complejidad, realimentación, trayectorias y efectos emergentes.","work_en":"Contributes the external systemic critique on complexity, feedback, trajectories and emergent effects.","token_state":"assigned-trace"},
+        {"credit_token_id":"NC-CR-2026-0003-B","actor":"Pedro Martínez Alhambra · Neo0™","roles":["receiver","manual_ingestor","curator","relation_author","synthesis_operator","fixation_operator"],"work_es":"Introduce el aporte en el marco, lo relaciona con memoria, trazabilidad y soberanía humana y fija el stress-test como trabajo abierto.","work_en":"Introduces the contribution into the framework, relates it to memory, traceability and human sovereignty and fixes the stress test as open work.","token_state":"assigned-trace"}
+      ]
+    },
+    {
+      "event_id":"NC-EVT-2026-0004","date":"2026-08-11","ingestion_mode":"manual-neo0","source_url":"https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/133",
+      "title":{"es":"Feedback externo y recuperación de diseño previo para WEB4™","en":"External feedback and recovery of prior WEB4™ design"},
+      "event_delta":{"es":"El feedback prioriza WEB4™ como espacio habitable, educativo, creativo y por especialidades, pero se conserva que parte de esa dirección ya existía antes y fue recuperada, no originada externamente.","en":"The feedback prioritises WEB4™ as a habitable, educational, creative and speciality-based space, while preserving that part of this direction already existed and was recovered rather than externally originated."},
+      "umbral_x":"X-ABIERTO / X-OPEN","san_state":"open","economic_state":"not-issued",
+      "credits":[
+        {"credit_token_id":"NC-CR-2026-0004-A","actor":"Feedback externo agregado / Aggregated external feedback","visibility":"private-identity","roles":["source_originator"],"work_es":"Aporta señales de priorización y legibilidad externa sin apropiarse de líneas de diseño anteriores.","work_en":"Provides prioritisation and external-legibility signals without appropriating earlier design lines.","token_state":"assigned-trace"},
+        {"credit_token_id":"NC-CR-2026-0004-B","actor":"Pedro Martínez Alhambra · Neo0™","roles":["receiver","manual_ingestor","curator","relation_author","delta_author","fixation_operator"],"work_es":"Selecciona el feedback, lo contrasta contra el diseño previo, recupera las líneas ya existentes y fija qué cambia realmente en el roadmap.","work_en":"Selects the feedback, scrutinises it against prior design, recovers already-existing lines and fixes what actually changes in the roadmap.","token_state":"assigned-trace"}
+      ]
+    },
+    {
+      "event_id":"NC-EVT-2026-0005","date":"2026-08-12","ingestion_mode":"manual-neo0","source_url":"https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136",
+      "title":{"es":"Relación Asilomar ↔ marco neodialéctico","en":"Asilomar ↔ Neodialectical framework relation"},
+      "event_delta":{"es":"Neo0™ detecta en LinkedIn una publicación de José Luis Casal sobre Asilomar, introduce manualmente la información en el sistema y establece la relación con pausa competente, deliberación ampliada, trazabilidad y soberanía colectiva.","en":"Neo0™ discovers on LinkedIn a José Luis Casal publication about Asilomar, manually ingests the information into the system and establishes the relation with competent pause, expanded deliberation, traceability and collective sovereignty."},
+      "umbral_x":"X-ABIERTO / X-OPEN","san_state":"open-fixed-relation","economic_state":"not-issued",
+      "credits":[
+        {"credit_token_id":"NC-CR-2026-0005-A","actor":"José Luis Casal","roles":["source_originator"],"work_es":"Autor/procedencia de la publicación de LinkedIn que contenía la información sobre Asilomar. No se le atribuye la relación con el marco ni el delta resultante.","work_en":"Author/provenance of the LinkedIn publication containing information about Asilomar. The framework relation and resulting delta are not attributed to him.","token_state":"source-credit"},
+        {"credit_token_id":"NC-CR-2026-0005-B","actor":"Pedro Martínez Alhambra · Neo0™","roles":["discoverer","manual_ingestor","curator","relation_author","synthesis_operator","delta_author","fixation_operator"],"work_es":"Ve la publicación, reconoce su relevancia, introduce la señal manualmente, construye la relación Asilomar↔marco, abre el contraste y fija el delta genealógico.","work_en":"Sees the publication, recognises its relevance, manually ingests the signal, builds the Asilomar↔framework relation, opens scrutiny and fixes the genealogical delta.","token_state":"assigned-trace"}
+      ]
+    },
+    {
+      "event_id":"NC-EVT-2026-0006","date":"2026-08-12","ingestion_mode":"manual-neo0","source_url":"https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/137",
+      "title":{"es":"Formalización de RADAR-Π™","en":"Formalisation of RADAR-Π™"},
+      "event_delta":{"es":"La operación puntual de relacionar antecedentes se generaliza como detector sistemático de precedentes, convergencias, contraejemplos y falsos paralelos con retorno obligatorio a fuente y barrido negativo.","en":"The one-off operation of relating antecedents is generalised into a systematic detector of precedents, convergences, counterexamples and false parallels with mandatory return to source and negative scanning."},
+      "umbral_x":"X-ABIERTO / X-OPEN","san_state":"open-fixed-delta","economic_state":"not-issued",
+      "credits":[
+        {"credit_token_id":"NC-CR-2026-0006-A","actor":"Pedro Martínez Alhambra · Neo0™","roles":["relation_author","synthesis_operator","delta_author","implementation_operator","fixation_operator"],"work_es":"Generaliza la operación relacional y origina la formalización de RADAR-Π™ como mecanismo del marco.","work_en":"Generalises the relational operation and originates the formalisation of RADAR-Π™ as a framework mechanism.","token_state":"assigned-trace"},
+        {"credit_token_id":"NC-CR-2026-0006-B","actor":"IA Neodialéctica Harry / Neodialectical AI Harry","roles":["synthesis_operator","implementation_operator"],"work_es":"Asiste en la estructuración, contraste documental y fijación técnica de la formulación bajo guía de Neo0™.","work_en":"Assists with structuring, documentary scrutiny and technical fixation of the formulation under Neo0™ guidance.","token_state":"assigned-trace"}
+      ]
+    },
+    {
+      "event_id":"NC-EVT-2026-0007","date":"2026-08-12","ingestion_mode":"manual-neo0","source_url":"https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/139",
+      "title":{"es":"SENTIENT/NRO como caso RADAR-Π™","en":"SENTIENT/NRO as a RADAR-Π™ case"},
+      "event_delta":{"es":"Se abre un objeto legítimo de contraste funcional entre SENTIENT/NRO y determinadas operaciones relacionales del marco sin declarar equivalencia, copia ni derivación.","en":"A legitimate functional scrutiny object is opened between SENTIENT/NRO and certain relational framework operations without asserting equivalence, copying or derivation."},
+      "umbral_x":"X-CONDICIONAL / X-CONDITIONAL","san_state":"open","economic_state":"not-issued",
+      "credits":[
+        {"credit_token_id":"NC-CR-2026-0007-A","actor":"NRO / documentación SENTIENT","roles":["source_originator"],"work_es":"Fuente primaria del objeto externo estudiado; no se le atribuye la relación con el marco.","work_en":"Primary source of the external object under study; the relation with the framework is not attributed to it.","token_state":"source-credit"},
+        {"credit_token_id":"NC-CR-2026-0007-B","actor":"Pedro Martínez Alhambra · Neo0™","roles":["discoverer","manual_ingestor","curator","relation_author","synthesis_operator","delta_author","fixation_operator"],"work_es":"Introduce el caso, detecta la posible convergencia funcional, delimita la comparación y abre la segunda operación RADAR-Π™.","work_en":"Introduces the case, detects the possible functional convergence, delimits the comparison and opens the second RADAR-Π™ operation.","token_state":"assigned-trace"}
+      ]
+    },
+    {
+      "event_id":"NC-EVT-2026-0008","date":"2026-08-11","ingestion_mode":"manual-neo0","source_url":"https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/134",
+      "title":{"es":"Las Hojas Carcomidas™ y Memoria Material-Relacional™","en":"The Gnawed Leaves™ and Material-Relational Memory™"},
+      "event_delta":{"es":"Produce LXXV y abre C-NAX-22 relacionando ego capturador, deterioro relacional, memoria material de la naturaleza y coetaneidad relacional.","en":"Produces LXXV and opens C-NAX-22 by relating capturing ego, relational degradation, material memory of nature and relational contemporaneity."},
+      "umbral_x":"X-ABIERTO / X-OPEN","san_state":"fixed-delta-open-synthesis","economic_state":"not-issued",
+      "credits":[
+        {"credit_token_id":"NC-CR-2026-0008-A","actor":"Pedro Martínez Alhambra · Neo0™","roles":["source_originator","relation_author","synthesis_operator","delta_author","fixation_operator"],"work_es":"Origina la formulación y las relaciones que desembocan en LXXV y C-NAX-22.","work_en":"Originates the formulation and relations leading to LXXV and C-NAX-22.","token_state":"assigned-trace"},
+        {"credit_token_id":"NC-CR-2026-0008-B","actor":"IA Neodialéctica Harry / Neodialectical AI Harry","roles":["synthesis_operator","implementation_operator"],"work_es":"Asiste en contraste, precisión, simetría documental y fijación bajo guía de Neo0™.","work_en":"Assists with scrutiny, precision, documentary symmetry and fixation under Neo0™ guidance.","token_state":"assigned-trace"}
+      ]
+    },
+    {
+      "event_id":"NC-EVT-2026-0009","date":"2026-08-08","ingestion_mode":"manual-neo0","source_url":"https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/53",
+      "title":{"es":"Pregunta pública sobre ™ y términos propios","en":"Public question about ™ and coined terms"},
+      "event_delta":{"es":"La pregunta obliga a fijar que ™ funciona como marcador de denominación y trazabilidad, no como prueba de verdad, inmunidad crítica o engrandecimiento del autor.","en":"The question forces clarification that ™ functions as a naming and traceability marker, not proof of truth, immunity from criticism or authorial self-aggrandisement."},
+      "umbral_x":"X-ABIERTO / X-OPEN","san_state":"fixed-explanatory-delta","economic_state":"not-issued",
+      "credits":[
+        {"credit_token_id":"NC-CR-2026-0009-A","actor":"Aportante no identificado públicamente / Contributor not publicly identified","visibility":"anonymous","roles":["source_originator","contradiction_author"],"work_es":"Formula la pregunta que revela una necesidad explicativa real.","work_en":"Poses the question revealing a real explanatory need.","token_state":"assigned-trace"},
+        {"credit_token_id":"NC-CR-2026-0009-B","actor":"Pedro Martínez Alhambra · Neo0™","roles":["receiver","manual_ingestor","curator","synthesis_operator","delta_author","fixation_operator"],"work_es":"Introduce la pregunta en el sistema, determina que supera el umbral como problema explicativo y fija la aclaración resultante.","work_en":"Introduces the question into the system, determines that it survives the threshold as an explanatory problem and fixes the resulting clarification.","token_state":"assigned-trace"}
+      ]
+    }
+  ]
+}
