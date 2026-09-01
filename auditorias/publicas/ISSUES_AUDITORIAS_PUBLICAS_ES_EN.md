@@ -1,7 +1,7 @@
 # Issues de Auditorías Públicas · Leónidas™
 # Public Audit Issues · Leónidas™
 
-**Fecha / Date:** 2026-08-14  
+**Fecha / Date:** 2026-09-01  
 **Función / Function:** asegurar que cada familia de Auditoría Pública tenga un espacio visible para añadir pruebas, refutaciones, casos comparables y propuestas de reparación. / Ensure that each Public Audit family has a visible space for adding evidence, refutations, comparable cases and repair proposals.
 
 [ES · Castellano](#es--registro-operativo) · [EN · English](#en--operational-register)
@@ -24,17 +24,44 @@ Documentos principales:
 
 **Aportes prioritarios:** músicos, sellos, productores, técnicos de metadata, distribuidores y DSPs con casos comparables y evidencia verificable.
 
-### 2. Amazon KDP · Author Central · IDEA · caso 51071689
+### 2. Amazon KDP · Author Central · IDEA · genealogía 51071689 → 51425302 → 51454599 → 51454627
 
-**Issue:** [#70 · KDP / Author Central / IDEA · aportes y pruebas](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)
+**Issue vivo:** [#70 · KDP / Author Central / IDEA · aportes y pruebas](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)  
+**Mapa genealógico:** **[KDP · IDEA · casos → documentos → Issue → deltas/commits → verificación](./KDP_IDEA_GENEALOGIA_TRAZABLE_CASOS_ISSUES_DELTAS_ES_EN.md)**
 
-Documentos principales:
+Cadena principal:
+
+```text
+51071689
+→ 51425302
+→ 51454599
+→ 51454627
+→ VERIFICACIÓN AL DÍA 7 + RECONCILIACIÓN TÉCNICA
+
+RAMA PARALELA
+51454666
+→ PROPUESTA DE AUDITORÍA / COLABORACIÓN
+→ ROUTING FUERA DE KDP SUPPORT
+```
+
+Documentos principales, en orden genealógico:
 
 - [Auditoría indirecta pública KDP / Author Central / IDEA](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
-- [Caso de éxito operativo provisional](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+- [Hito de éxito operativo provisional · caso 51071689](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
 - [Reapertura del caso 51071689](./2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md)
-- [Respuesta KDP sobre cambios sin publicar](./2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md)
-- [Estrategia de keywords y ediciones multilingües](./2026-08-08_addendum_kdp_estrategia_keywords_ediciones_multilingues_51071689_ES_EN.md)
+- [Respuesta KDP sobre cambios sin publicar · caso 51071689](./2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md)
+- [Estrategia de keywords y ediciones multilingües · caso 51071689](./2026-08-08_addendum_kdp_estrategia_keywords_ediciones_multilingues_51071689_ES_EN.md)
+- [Regresión ES/EN + matriz idioma × formato · caso 51071689 · 26–27-08](./2026-08-26_addendum_kdp_vinculacion_cruzada_es_en_formatos_51071689_ES_EN.md)
+- [Vinculación idioma/formato · caso 51425302 · 28-08](./2026-08-28_addendum_kdp_vinculacion_idiomas_formatos_caso_51425302_ES_EN.md)
+- [Asociación multilingüe pendiente · caso 51425302 · 29-08](./2026-08-29_addendum_kdp_asociacion_multilingue_caso_51425302_ES_EN.md)
+- [Revisión global declarada aplicada · casos 51454627 / 51454666 · 29-08](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md)
+- [Regresión + contradicción de capacidad/proceso · caso 51454627 · 01-09](./2026-09-01_addendum_kdp_contradiccion_capacidad_vinculacion_multilingue_caso_51454627_ES_EN.md)
+
+**Nota sobre `51454599`:** forma parte de la genealogía y queda referenciado en el addendum del 29-08, pero actualmente no existe un addendum público autónomo dedicado exclusivamente a ese número. La ausencia se conserva explícitamente en el mapa en lugar de inventar un nodo documental.
+
+**Estado vivo:** KDP declaró el 29-08 una actuación multilingüe ya ejecutada y hasta siete días de propagación; después se observó mejora parcial y una regresión dentro de esa ventana. El 01-09 otro supervisor negó capacidad directa de KDP Support para gestionar/corregir esa capa. Permanecen abiertas la verificación al agotarse el plazo y la reconciliación del mecanismo/equipo/proceso que permitió la actuación declarada.
+
+**Regla:** `NUEVA_TRAZA != ESTADO_RECONCILIADO`. Cada nueva traza debe enlazar caso, documento, Issue, delta/commit y condición de cierre/reapertura.
 
 ### 3. Integridad del repositorio · Wiki · READMEs · automatizaciones
 
@@ -101,17 +128,44 @@ Main documents:
 
 **Priority contributions:** musicians, labels, producers, metadata technicians, distributors and DSPs with comparable cases and verifiable evidence.
 
-### 2. Amazon KDP · Author Central · IDEA · case 51071689
+### 2. Amazon KDP · Author Central · IDEA · genealogy 51071689 → 51425302 → 51454599 → 51454627
 
-**Issue:** [#70 · KDP / Author Central / IDEA · contributions and evidence](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)
+**Live Issue:** [#70 · KDP / Author Central / IDEA · contributions and evidence](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)  
+**Genealogy map:** **[KDP · IDEA · cases → documents → Issue → deltas/commits → verification](./KDP_IDEA_GENEALOGIA_TRAZABLE_CASOS_ISSUES_DELTAS_ES_EN.md)**
 
-Main documents:
+Main chain:
+
+```text
+51071689
+→ 51425302
+→ 51454599
+→ 51454627
+→ DAY-7 VERIFICATION + TECHNICAL RECONCILIATION
+
+PARALLEL BRANCH
+51454666
+→ AUDIT / COLLABORATION PROPOSAL
+→ ROUTING BEYOND KDP SUPPORT
+```
+
+Main documents in genealogical order:
 
 - [Public indirect KDP / Author Central / IDEA audit](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
-- [Provisional operational success case](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
+- [Provisional operational milestone · case 51071689](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
 - [Reopening case 51071689](./2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md)
-- [KDP response on unpublished changes](./2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md)
-- [Keywords and multilingual-edition strategy](./2026-08-08_addendum_kdp_estrategia_keywords_ediciones_multilingues_51071689_ES_EN.md)
+- [KDP response on unpublished changes · case 51071689](./2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md)
+- [Keywords and multilingual-edition strategy · case 51071689](./2026-08-08_addendum_kdp_estrategia_keywords_ediciones_multilingues_51071689_ES_EN.md)
+- [ES/EN regression + language × format matrix · case 51071689 · 26–27 Aug](./2026-08-26_addendum_kdp_vinculacion_cruzada_es_en_formatos_51071689_ES_EN.md)
+- [Language/format linking · case 51425302 · 28 Aug](./2026-08-28_addendum_kdp_vinculacion_idiomas_formatos_caso_51425302_ES_EN.md)
+- [Multilingual association pending · case 51425302 · 29 Aug](./2026-08-29_addendum_kdp_asociacion_multilingue_caso_51425302_ES_EN.md)
+- [Global review declared applied · cases 51454627 / 51454666 · 29 Aug](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md)
+- [Regression + capability/process contradiction · case 51454627 · 1 Sep](./2026-09-01_addendum_kdp_contradiccion_capacidad_vinculacion_multilingue_caso_51454627_ES_EN.md)
+
+**Note on `51454599`:** it is part of the genealogy and is referenced in the 29 Aug addendum, but there is currently no standalone public addendum devoted exclusively to that number. The absence is explicitly preserved in the map rather than inventing a documentary node.
+
+**Live state:** on 29 Aug KDP stated that a multilingual action had already been executed and allowed up to seven days for propagation; a partial improvement and then a regression were observed within that window. On 1 Sep another supervisor denied direct KDP Support capability to manage/correct that layer. End-of-window verification and reconciliation of the mechanism/team/process behind the 29 Aug action remain open.
+
+**Rule:** `NEW_TRACE != RECONCILED_STATE`. Each new trace should link case, document, Issue, delta/commit and closure/reopening condition.
 
 ### 3. Repository · Wiki · README · automation integrity
 
