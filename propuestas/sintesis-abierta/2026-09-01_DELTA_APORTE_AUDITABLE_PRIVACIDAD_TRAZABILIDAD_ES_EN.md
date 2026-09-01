@@ -4,7 +4,8 @@
 **Fecha / Date:** 2026-09-01  
 **Estado / Status:** **SÍNTESIS ABIERTA · PROPUESTA / OPEN SYNTHESIS · PROPOSAL**  
 **Ámbito / Scope:** Economía del Aporte™, NeoCronos™, Síntesis Abierta™, WEB4™, reconocimiento y trazabilidad.  
-**Canon / Canon:** **NO** — `DELTA != CANON` y `TRAZA != VALIDACIÓN`.
+**Canon / Canon:** **NO** — `DELTA != CANON` y `TRAZA != VALIDACIÓN`.  
+**Síntesis Abierta / Open Synthesis:** [Issue #183](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/183)
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
