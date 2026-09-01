@@ -1,1 +1,0 @@
-Temporal staging note: the dedicated Open Synthesis issue for `2026-09-01_DELTA_APORTE_AUDITABLE_PRIVACIDAD_TRAZABILIDAD_ES_EN.md` must be created and reciprocally linked. Remove this note once the issue/document reciprocity is complete.
