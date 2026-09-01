@@ -9,10 +9,10 @@
 
 ## ES · Resultado
 
-- Archivos Markdown activos revisados: **510**.
+- Archivos Markdown activos revisados: **512**.
 - Archivos Markdown históricos excluidos del estado vivo: **55**.
 - Entradas legacy excluidas del estado vivo: **0**.
-- README activos revisados: **19**.
+- README activos revisados: **20**.
 - Enlaces internos de ruta comprobados: **12015**.
 - Alias internos de GitHub Wiki reconocidos: **44**.
 - Enlaces externos inventariados sin comprobar disponibilidad remota: **2014**.
@@ -42,10 +42,10 @@
 
 ## EN · Result
 
-- Active Markdown files reviewed: **510**.
+- Active Markdown files reviewed: **512**.
 - Historical Markdown files excluded from living-state health: **55**.
 - Legacy entry files excluded from living-state health: **0**.
-- Active README files reviewed: **19**.
+- Active README files reviewed: **20**.
 - Internal path links checked: **12015**.
 - GitHub Wiki extensionless page aliases recognised: **44**.
 - External links inventoried without checking remote availability: **2014**.
