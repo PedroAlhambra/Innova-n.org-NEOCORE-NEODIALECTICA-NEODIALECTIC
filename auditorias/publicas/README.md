@@ -88,9 +88,10 @@ PROBLEMA
 - [Addendum 28-08-2026 · vinculación idioma/formato · caso 51425302](./2026-08-28_addendum_kdp_vinculacion_idiomas_formatos_caso_51425302_ES_EN.md)
 - [Addendum 29-08-2026 · asociación multilingüe pendiente](./2026-08-29_addendum_kdp_asociacion_multilingue_caso_51425302_ES_EN.md)
 - [Addendum 29-08-2026 · revisión global aplicada + vía de sinergias](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md)
+- **[Addendum 01-09-2026 · actuación multilingüe demostrada/declarada, ventana de 7 días y contradicción posterior de capacidad](./2026-09-01_addendum_kdp_contradiccion_capacidad_vinculacion_multilingue_caso_51454627_ES_EN.md)**
 - [#70 · aportes, pruebas y contactos de sinergia](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)
 
-**Estado:** KDP declara haber ejecutado una revisión y vinculación global de formatos e idiomas. La propagación pública puede tardar hasta siete días y queda pendiente de verificación externa. KDP Support se declara no competente para evaluar la propuesta de colaboración; se solicitan canales profesionales públicos y verificables para posibles sinergias con equipos de negocio, innovación, producto, investigación o calidad.
+**Estado:** el 29/08 KDP declaró que ya había revisado y enlazado las ediciones y formatos de IDEA, incluyendo expresamente los enlaces multilingües, y fijó hasta siete días para su propagación pública. Se observó mejora parcial y posteriormente una regresión dentro de esa ventana. El 01/09 otro supervisor afirmó que KDP Support no puede gestionar/corregir manualmente esa capa. Se mantienen abiertas dos verificaciones independientes: estado público al agotarse los siete días y reconciliación de qué herramienta, equipo o proceso permitió la actuación declarada del 29/08. KDP Support se declara además no competente para evaluar la propuesta de colaboración; se solicitan rutas profesionales legítimas hacia catálogo, producto, sistemas, investigación, innovación o calidad.
 
 ### 2.4 · Integridad del repositorio · Wiki · READMEs · automatizaciones
 
@@ -176,39 +177,40 @@ PROBLEM
 - [28 Aug 2026 addendum · language/format linking · case 51425302](./2026-08-28_addendum_kdp_vinculacion_idiomas_formatos_caso_51425302_ES_EN.md)
 - [29 Aug 2026 addendum · multilingual association pending](./2026-08-29_addendum_kdp_asociacion_multilingue_caso_51425302_ES_EN.md)
 - [29 Aug 2026 addendum · global review applied + synergy route](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md)
+- **[1 Sep 2026 addendum · demonstrated/declared multilingual action, seven-day window and later capability contradiction](./2026-09-01_addendum_kdp_contradiccion_capacidad_vinculacion_multilingue_caso_51454627_ES_EN.md)**
 - [#70 · contributions, evidence and synergy contacts](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)
 
-**Status:** KDP states that it has executed a global review and linking action across formats and languages. Public propagation may take up to seven days and remains pending external verification. KDP Support states that it is not authorised to evaluate the collaboration proposal; public and verifiable professional routes are sought for potential synergies with business, innovation, product, research or quality teams.
+**Status:** on 29 Aug KDP stated that it had already reviewed and linked IDEA editions and formats, expressly including multilingual links, and allowed up to seven days for public propagation. A partial improvement was observed, followed by regression within that window. On 1 Sep another supervisor stated that KDP Support cannot manually manage/correct that layer. Two independent checks remain open: the public state after the seven-day window and reconciliation of which tool, team or process enabled the 29 Aug declared action. KDP Support also states that it cannot evaluate the collaboration proposal; legitimate professional routes toward catalogue, product, systems, research, innovation or quality are sought.
 
-### 2.4 · Repository · Wiki · README · automation integrity
+### 2.4 · Repository integrity · Wiki · READMEs · automations
 
-- [#71 · documentary-system integrity](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/71)
+- [#71 · documentary system integrity](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/71)
 - [Global ES/EN symmetry audit](./2026-08-12_auditoria_global_simetria_ES_EN.md)
 - [Relational audit of manifestos, neoaxioms and publications](./2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md)
 
-Evidence is accepted for broken links, orphan files, obsolete states, asymmetric navigation, Wiki↔repo divergence and reproducible errors.
+Evidence of broken links, orphan files, stale states, asymmetric navigation, Wiki↔repo divergence and reproducible errors is welcome.
 
 ### 2.5 · Founder Audit™
 
 - [Founder Audit™](./2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md)
 - [#68 · Open Synthesis](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/68)
 
-The framework's dependence on Neo0™, the burden of creation and maintenance and the founder's conduct remain open to criticism and correction.
+The framework's dependency on Neo0™, the creation/maintenance burden and the founder's conduct remain open to criticism and correction.
 
-## 3 · Open a Public Audit
+## 3 · Opening a Public Audit
 
-The problem does not need to have been detected first by Innova_N. An audit may be proposed through the GitHub template **`Public Audit · contribution or new proposal`**.
+Innova_N does not need to detect a problem first. A public audit can be proposed through the GitHub template **`Public Audit · contribution or new proposal`**.
 
-Where possible, the proposal should state: object, what occurred, what is known, what is unknown, existing evidence, evidence that could contradict the hypothesis, intended repair and data that must not be published.
+Where possible, proposals should identify the object, what happened, what is known, what is unknown, existing evidence, evidence that could contradict the hypothesis, the requested repair and information that should not be published.
 
 - [Contribute evidence or open an audit](./APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md)
-- [Issue register](./ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md)
+- [Issues registry](./ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md)
 - [LIII · Leónidas™ Manifesto](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
 - [Open Synthesis LIII · #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)
 
 ## 4 · Privacy, limits and reopening
 
-Do not publish credentials, home addresses, phone numbers, medical information, minors' data or unnecessary private material. Public Audit does not replace courts, regulators, police or competent professional advice.
+Do not publish credentials, home addresses, telephone numbers, medical information, information about minors or unnecessary private material. Public Audit does not replace courts, regulators, police or competent professional advice.
 
 ```text
 CLOSURE + MATERIAL NEW EVIDENCE
