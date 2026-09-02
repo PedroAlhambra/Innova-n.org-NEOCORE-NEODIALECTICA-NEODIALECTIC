@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Si utilizas, analizas o citas este repositorio, cita esta fuente y conserva la procedencia. / If you use, analyse or cite this repository, cite this source and preserve provenance."
+title: "Innova_N · NEOCore™ · Neodialectica Framework™ / Network"
+type: software
+authors:
+  - family-names: "Martínez Alhambra"
+    given-names: "Pedro"
+    alias: "Neo0"
+repository-code: "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC"
+url: "https://innova-n.org/"
+version: "7.3.3"
+date-released: 2026-08-31
+abstract: >-
+  Public canonical, versioned and traceable corpus of Innova_N, NEOCore™, the Neodialectica Framework™ / Network, Archetypal Neodialectical Philosophy™, Open Synthesis™, cultural works, analyses, audits, genealogy and WEB4™ public specification. The corpus is open to scrutiny and reopening; traceability does not imply final validation.
+keywords:
+  - Innova_N
+  - NEOCore
+  - neodialectics
+  - archetypal philosophy
+  - open synthesis
+  - human-AI collaboration
+  - traceability
+  - knowledge network
+  - common good
+  - WEB4

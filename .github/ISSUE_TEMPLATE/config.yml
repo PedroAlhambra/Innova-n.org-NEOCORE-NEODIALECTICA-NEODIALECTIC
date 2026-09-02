@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "Síntesis Abierta™ / Open Synthesis™"
+    url: "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/README.md"
+    about: "Busca primero la Síntesis existente para conservar genealogía / Search the existing Synthesis first to preserve genealogy."
+  - name: "Cómo contribuir / How to contribute"
+    url: "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/CONTRIBUTING.md"
+    about: "Puertas, procedencia, deltas, PR y reconocimiento / Gateways, provenance, deltas, PRs and recognition."
+  - name: "WEB4™ · Innova_N"
+    url: "https://innova-n.org/"
+    about: "Experiencia pública principal / Main public experience."

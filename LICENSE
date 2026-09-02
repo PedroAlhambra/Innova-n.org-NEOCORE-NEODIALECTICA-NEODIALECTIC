@@ -1,0 +1,117 @@
+INNOVA_N PUBLIC REPOSITORY — RESERVED RIGHTS AND CONTRIBUTION NOTICE
+NOTICE OF RIGHTS / AVISO DE DERECHOS
+
+Copyright © Pedro Martínez Alhambra and, where applicable, the respective identified authors/contributors.
+Unless a specific file, directory or embedded work states a different licence, all rights are reserved.
+
+===============================================================================
+ES · CASTELLANO
+===============================================================================
+
+1. NATURALEZA DE ESTE REPOSITORIO
+
+Este repositorio es públicamente legible y participativo, pero su publicación en GitHub NO constituye por sí sola una licencia abierta general, una licencia de software libre, una licencia Creative Commons ni una renuncia de derechos.
+
+El corpus incluye, entre otras superficies, textos filosóficos, documentación, genealogía, análisis, auditorías, obras culturales, especificaciones, datos estructurados y código o prototipos. Distintas piezas pueden requerir regímenes distintos. Cuando un archivo o subdirectorio incluya una licencia específica, esa licencia gobierna esa pieza en el alcance que indique.
+
+2. PERMISO LIMITADO PARA LEER Y CONTRIBUIR
+
+Sin perjuicio de los derechos que ya conceda la ley aplicable y de las funciones normales autorizadas por GitHub, se concede permiso limitado, revocable respecto de usos futuros y no exclusivo para:
+
+- leer y estudiar el contenido;
+- enlazar al repositorio o a archivos públicos concretos;
+- citar fragmentos razonables con atribución y dentro de los límites legales aplicables;
+- clonar o bifurcar el repositorio únicamente en la medida necesaria para estudiar el proyecto, probar cambios y preparar una contribución de vuelta mediante Issue o Pull Request;
+- modificar una copia únicamente con ese fin de revisión/contribución o con autorización adicional del titular correspondiente.
+
+Este permiso limitado NO concede, salvo autorización específica o derecho legal independiente:
+
+- explotación comercial del corpus o de sus obras;
+- redistribución sustitutiva o republicación masiva;
+- creación y distribución independiente de obras derivadas del corpus protegido;
+- sublicencia;
+- uso de marcas o signos para sugerir patrocinio, afiliación o aprobación;
+- extracción de material protegido para construir un producto sustitutivo o una representación engañosa del marco;
+- derechos de patente, secreto empresarial o acceso a capas privadas.
+
+3. CONTRIBUCIONES
+
+Al enviar material mediante Pull Request, Issue u otro canal público del proyecto, la persona o entidad contribuyente declara, en la medida razonablemente exigible, que tiene derecho a enviarlo y que no está revelando deliberadamente secretos, credenciales, datos personales sensibles o material ajeno sin permiso suficiente.
+
+La persona contribuyente conserva los derechos que le correspondan sobre su aportación. Para permitir revisión, trazabilidad, conservación e integración, concede a Pedro Martínez Alhambra / Innova_N una autorización no exclusiva, mundial, gratuita y de duración suficiente para conservar la genealogía del proyecto, reproducir, almacenar, adaptar, integrar, mostrar y distribuir la contribución aceptada dentro del repositorio, NEOCore™, WEB4™, documentación y demás proyecciones oficiales de Innova_N, preservando atribución y procedencia cuando sean materialmente identificables.
+
+Esta autorización de integración NO implica transferencia automática de autoría, verdad, canonización, crédito `NC-CR-*`, remuneración, equity, soberanía ni voto.
+
+Si no puedes conceder estos permisos, indica claramente la restricción ANTES de enviar el material para que pueda evaluarse sin asumir derechos inexistentes.
+
+4. TERCEROS
+
+Los textos, citas, imágenes, datasets, código u otros materiales de terceros conservan sus propios derechos y licencias. Su presencia en el repositorio no amplía los permisos originales. La atribución y la procedencia deben conservarse.
+
+5. MARCAS Y DENOMINACIONES
+
+Las denominaciones Innova_N, NEOCore™, Síntesis Abierta™, Neodialectica Framework™ / Network, WEB4™ y otras denominaciones identificadas como marcas o signos del proyecto no quedan licenciadas por este aviso para usos que impliquen origen, patrocinio, certificación o afiliación. Los usos descriptivos o nominativos permitidos por la ley no quedan restringidos por esta cláusula.
+
+6. AUSENCIA DE GARANTÍA
+
+El contenido se ofrece para lectura, contraste y desarrollo del proyecto "tal cual", sin garantía general de adecuación a un propósito concreto, ausencia de errores o validación definitiva. El canon es abierto y reabrible; trazabilidad no equivale a validación.
+
+7. DUDA DE ALCANCE
+
+Si una traducción, archivo o contexto parece conceder más derechos que otro sin una licencia específica inequívoca, no debe inferirse automáticamente el permiso más amplio. Debe consultarse al titular correspondiente o abrirse una cuestión de licencia antes de reutilizar el material fuera del alcance anterior.
+
+===============================================================================
+EN · ENGLISH
+===============================================================================
+
+1. NATURE OF THIS REPOSITORY
+
+This repository is publicly readable and participatory, but publication on GitHub does NOT by itself constitute a general open licence, an open-source software licence, a Creative Commons licence or a waiver of rights.
+
+The corpus includes, among other surfaces, philosophical texts, documentation, genealogy, analyses, audits, cultural works, specifications, structured data and code or prototypes. Different pieces may require different legal regimes. Where a file or subdirectory contains a specific licence, that licence governs that piece within its stated scope.
+
+2. LIMITED PERMISSION TO READ AND CONTRIBUTE
+
+Without limiting rights already granted by applicable law or normal functions authorised by GitHub, a limited, non-exclusive permission is granted to:
+
+- read and study the content;
+- link to the repository or specific public files;
+- quote reasonable excerpts with attribution and within applicable legal limits;
+- clone or fork the repository only to the extent necessary to study the project, test changes and prepare a contribution back through an Issue or Pull Request;
+- modify a copy only for that review/contribution purpose or under additional permission from the relevant rights holder.
+
+Unless specifically authorised or independently permitted by law, this limited permission does NOT grant:
+
+- commercial exploitation of the corpus or its works;
+- substitute redistribution or mass republication;
+- independent creation and distribution of derivative works from protected corpus content;
+- sublicensing;
+- use of marks or signs to imply sponsorship, affiliation or endorsement;
+- extraction of protected material to build a substitute product or a misleading representation of the framework;
+- patent rights, trade-secret rights or access to private layers.
+
+3. CONTRIBUTIONS
+
+By submitting material through a Pull Request, Issue or another public project channel, the contributor represents, to the extent reasonably required, that they have the right to submit it and are not deliberately disclosing secrets, credentials, sensitive personal data or third-party material without sufficient permission.
+
+Contributors retain the rights they hold in their contributions. To enable review, traceability, preservation and integration, the contributor grants Pedro Martínez Alhambra / Innova_N a non-exclusive, worldwide, royalty-free permission of sufficient duration to preserve project genealogy and to reproduce, store, adapt, integrate, display and distribute an accepted contribution within the repository, NEOCore™, WEB4™, documentation and other official Innova_N projections, while preserving attribution and provenance where materially identifiable.
+
+This integration permission does NOT automatically transfer authorship or imply truth, canonisation, `NC-CR-*` credit, payment, equity, sovereignty or voting rights.
+
+If you cannot grant these permissions, state the restriction clearly BEFORE submitting the material so that it can be evaluated without assuming rights that do not exist.
+
+4. THIRD-PARTY MATERIAL
+
+Third-party text, quotations, images, datasets, code or other materials retain their own rights and licences. Their presence in the repository does not expand the original permissions. Attribution and provenance must be preserved.
+
+5. MARKS AND NAMES
+
+The names Innova_N, NEOCore™, Open Synthesis™, Neodialectica Framework™ / Network, WEB4™ and other names identified as project marks or signs are not licensed by this notice for uses implying origin, sponsorship, certification or affiliation. Descriptive or nominative uses permitted by law are not restricted by this clause.
+
+6. NO WARRANTY
+
+Content is provided for reading, scrutiny and project development "as is", without a general warranty of fitness for a particular purpose, freedom from error or final validation. The canon is open and reopenable; traceability is not validation.
+
+7. SCOPE DOUBTS
+
+If a translation, file or context appears to grant broader rights than another without an unambiguous specific licence, the broader permission must not be inferred automatically. Consult the relevant rights holder or raise a licensing question before reuse outside the scope above.

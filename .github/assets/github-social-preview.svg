@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">Innova_N · NEOCore · Síntesis Abierta · WEB4</title>
+  <desc id="desc">Social preview source for the public Innova_N repository.</desc>
+  <rect width="1280" height="640" fill="#f7f6f2"/>
+  <rect x="72" y="86" width="12" height="468" fill="#a68236"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="120" y="170" font-size="72" font-weight="700" fill="#18181a">INNOVA_N</text>
+    <text x="122" y="230" font-size="34" font-weight="700" fill="#a68236">NEOCore™ · Síntesis Abierta™ · WEB4™</text>
+    <text x="122" y="304" font-size="38" fill="#18181a">Filosofía Arquetípica Neodialéctica™</text>
+    <text x="122" y="356" font-size="28" fill="#525256">Red humana–IA de conocimiento trazable</text>
+    <text x="122" y="397" font-size="28" fill="#525256">orientada al Bien Común</text>
+    <text x="122" y="530" font-size="34" font-weight="700" fill="#18181a">innova-n.org</text>
+  </g>
+  <g stroke="#c4beb0" stroke-width="4" fill="none">
+    <path d="M950 108 L1084 148 L1170 252 L1030 302 L1160 392 L1130 536 L1010 506 L900 432 L1030 302 Z"/>
+    <path d="M950 108 L1030 302 L1010 506"/>
+    <path d="M1084 148 L1030 302"/>
+  </g>
+  <g fill="#18181a">
+    <circle cx="950" cy="108" r="11"/><circle cx="1084" cy="148" r="11"/><circle cx="1170" cy="252" r="11"/><circle cx="1160" cy="392" r="11"/><circle cx="1130" cy="536" r="11"/><circle cx="900" cy="432" r="11"/>
+  </g>
+  <g fill="#a68236">
+    <circle cx="1030" cy="302" r="17"/><circle cx="1010" cy="506" r="17"/>
+  </g>
+</svg>
