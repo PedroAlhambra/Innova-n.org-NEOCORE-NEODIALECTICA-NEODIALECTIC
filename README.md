@@ -50,7 +50,9 @@ LÍMITE DEL MODELO ≠ LÍMITE DEMOSTRADO DE LA REALIDAD
 | **Obras y cultura** | [Obras](./obras/README.md) · [IDEA](./obras/idea/README.md) |
 | **WEB4™** | [Especificación pública](./web4/README.md) |
 | **Wiki** | [Fuente versionada](./wiki-source/README.md) |
-| **Participar** | [Cómo aportar](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) |
+| **Participar / comunidad** | [Puerta de contribución](./CONTRIBUTING.md) · [Protocolo de Síntesis](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Soporte](./SUPPORT.md) |
+| **Conducta, seguridad y derechos** | [Código de conducta](./CODE_OF_CONDUCT.md) · [Seguridad](./SECURITY.md) · [Derechos / licencia](./LICENSE) |
+| **Citar el repositorio** | [`CITATION.cff`](./CITATION.cff) |
 
 ## Estado vivo
 
@@ -99,7 +101,9 @@ LIMIT OF THE MODEL ≠ DEMONSTRATED LIMIT OF REALITY
 | **Works and culture** | [Works](./obras/README.md) · [IDEA](./obras/idea/README.md) |
 | **WEB4™** | [Public specification](./web4/README.md) |
 | **Wiki** | [Versioned source](./wiki-source/README.md) |
-| **Participate** | [How to contribute](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) |
+| **Participate / community** | [Contribution gateway](./CONTRIBUTING.md) · [Synthesis protocol](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Support](./SUPPORT.md) |
+| **Conduct, security and rights** | [Code of Conduct](./CODE_OF_CONDUCT.md) · [Security](./SECURITY.md) · [Rights / licence](./LICENSE) |
+| **Cite this repository** | [`CITATION.cff`](./CITATION.cff) |
 
 ## Living state
 
