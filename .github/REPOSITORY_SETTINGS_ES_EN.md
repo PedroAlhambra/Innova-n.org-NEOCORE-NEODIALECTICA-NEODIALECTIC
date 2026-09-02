@@ -75,13 +75,18 @@ Superficies canónicas creadas:
 
 - [`CONTRIBUTING.md`](../CONTRIBUTING.md)
 - [`CODE_OF_CONDUCT.md`](../CODE_OF_CONDUCT.md)
-- [`SECURITY.md`](../SECURITY.md)
+- [`.github/SECURITY.md`](./SECURITY.md) — ubicación canónica preferente por GitHub / GitHub-preferred canonical location
+- [`SECURITY.md`](../SECURITY.md) — copia raíz histórica conservada durante la transición / root historical copy retained during transition
 - [`LICENSE`](../LICENSE)
 - [`SUPPORT.md`](../SUPPORT.md)
 - [`PULL_REQUEST_TEMPLATE.md`](./PULL_REQUEST_TEMPLATE.md)
 - [`ISSUE_TEMPLATE/`](./ISSUE_TEMPLATE/)
 - [`CODEOWNERS`](./CODEOWNERS)
 - [`CITATION.cff`](../CITATION.cff)
+
+GitHub admite archivos comunitarios en `.github/`, raíz o `docs/` y aplica precedencia `.github` → raíz → `docs`. Tras observar que Community Standards reconocía todas las superficies salvo Security policy pese a existir `SECURITY.md` en raíz, se añadió la política canónica a `.github/SECURITY.md`, con las secciones estándar **Supported Versions** y **Reporting a Vulnerability**, sin eliminar la política previa. El objetivo es maximizar compatibilidad con el reconocimiento de GitHub sin perder contenido ni genealogía.
+
+GitHub supports community-health files in `.github/`, the repository root or `docs/`, with precedence `.github` → root → `docs`. After Community Standards recognised every surface except Security policy despite a root `SECURITY.md`, the canonical policy was added at `.github/SECURITY.md` with the standard **Supported Versions** and **Reporting a Vulnerability** sections, while retaining the previous root policy. This maximises GitHub recognition compatibility without losing content or genealogy.
 
 La presencia de `LICENSE` documenta el régimen jurídico deliberadamente elegido. No debe sustituirse por una licencia abierta genérica sólo para obtener una marca verde en Community Standards; cualquier apertura adicional de derechos requiere decisión explícita y trazable.
 
