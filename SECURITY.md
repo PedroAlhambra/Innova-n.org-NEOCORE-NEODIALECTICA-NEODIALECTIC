@@ -1,5 +1,8 @@
-# Política de seguridad · Innova_N
 # Security Policy · Innova_N
+# Política de seguridad · Innova_N
+
+**Canonical GitHub location / Ubicación canónica para GitHub:** `.github/SECURITY.md`  
+**Scope / Ámbito:** public repository, official WEB4™ projections and related project infrastructure / repositorio público, proyecciones oficiales WEB4™ e infraestructura relacionada del proyecto
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -7,31 +10,42 @@
 
 # ES · Castellano
 
-## 1. Qué es un problema de seguridad
+## Supported Versions / Versiones admitidas
+
+Innova_N separa las versiones del marco conceptual NEOCore™ de las versiones de software y de las candidatas WEB4™. Para seguridad técnica, la referencia soportada es la superficie pública vigente y el estado activo de la rama principal, salvo indicación expresa en sentido contrario.
+
+| Superficie | Estado de soporte de seguridad |
+|---|---|
+| `main` del repositorio público canónico | ✅ Soportado |
+| WEB4™ pública actualmente proyectada | ✅ Soportada |
+| Candidata privada activa de WEB4™ | ✅ Se revisa dentro de su ciclo privado |
+| Ramas/snapshots históricos | ⚠️ Sólo si el riesgo sigue afectando a una superficie vigente |
+| Forks o copias de terceros | ❌ No mantenidos por Innova_N |
+
+Si una vulnerabilidad sólo afecta a una rama, candidata, snapshot o artefacto histórico, indícalo con precisión.
+
+## Reporting a Vulnerability / Notificar una vulnerabilidad
+
+**No publiques detalles explotables, secretos, credenciales, payloads ni pasos de explotación en un Issue público, una Discussion o un Pull Request.**
+
+Ruta preferida:
+
+1. abre la pestaña **Security and quality** del repositorio;
+2. entra en **Security policy** o, si GitHub ofrece la opción, en **Report a vulnerability / Informar de una vulnerabilidad**;
+3. utiliza el canal privado de vulnerabilidades de GitHub cuando esté habilitado;
+4. incluye componente afectado, commit/ref o URL, precondiciones, pasos mínimos de reproducción seguros, impacto, evidencia técnica mínima y mitigación conocida si existe.
+
+Si GitHub no ofrece todavía un canal privado de vulnerabilidades en este repositorio, **no publiques el exploit**. Contacta con el mantenedor mediante un canal privado disponible. Si necesitas dejar una traza pública, limita el Issue a solicitar un canal privado sin exponer información explotable.
+
+## Qué es un problema de seguridad
 
 Esta política cubre vulnerabilidades técnicas o configuraciones que puedan permitir acceso no autorizado, ejecución de código, exposición de secretos o datos, escalado de privilegios, manipulación de integridad, abuso de automatizaciones o compromiso de infraestructura relacionada con este repositorio o con una proyección oficial de Innova_N.
 
 Una objeción filosófica, factual, metodológica o de gobernanza **no es una vulnerabilidad de seguridad**: debe entrar por Síntesis Abierta™, Issues o Auditoría Pública según corresponda.
 
-## 2. Versiones y superficies
+## Información útil para el reporte
 
-- El estado público canónico del corpus se mantiene en la rama principal vigente del repositorio.
-- WEB4™ pública y sus implementaciones de trabajo tienen ciclos de versión distintos del NEOCore™; una versión del marco no equivale a una versión de software.
-- Si una vulnerabilidad sólo afecta a una rama, candidata, snapshot o artefacto histórico, indícalo con precisión.
-
-## 3. Cómo reportar una vulnerabilidad
-
-**No publiques detalles explotables en un Issue público.**
-
-Ruta preferida:
-
-1. abre la pestaña **Security** del repositorio;
-2. si GitHub muestra la opción de **reportar una vulnerabilidad de forma privada**, utilízala;
-3. incluye componente afectado, pasos mínimos de reproducción, impacto, condiciones necesarias, versión/ref/commit y cualquier mitigación conocida.
-
-Si el reporte privado de vulnerabilidades no está habilitado o no aparece, evita publicar el exploit. Contacta con la persona mantenedora del repositorio mediante un canal privado disponible en GitHub. Si necesitas dejar constancia pública, abre únicamente un Issue mínimo que solicite un canal privado **sin incluir secretos, payloads, credenciales ni pasos de explotación**.
-
-## 4. Qué información ayuda
+Siempre que sea posible, aporta:
 
 - ruta, módulo o servicio afectado;
 - commit/ref o URL pública afectada;
@@ -45,9 +59,9 @@ Si el reporte privado de vulnerabilidades no está habilitado o no aparece, evit
 
 No incluyas datos personales de terceros salvo que sean imprescindibles y exista base legítima para compartirlos.
 
-## 5. Divulgación responsable
+## Proceso de respuesta y divulgación responsable
 
-Se intentará:
+El proyecto intentará:
 
 1. confirmar recepción;
 2. reproducir y clasificar;
@@ -58,7 +72,7 @@ Se intentará:
 
 Una vulnerabilidad puede conservar traza y genealogía sin publicar material que facilite explotación.
 
-## 6. Fuera de alcance
+## Fuera de alcance
 
 Salvo que demuestren impacto técnico real, no se consideran vulnerabilidades:
 
@@ -71,39 +85,50 @@ Salvo que demuestren impacto técnico real, no se consideran vulnerabilidades:
 - ingeniería social dirigida a personas fuera de la infraestructura del proyecto;
 - hallazgos obtenidos mediante daño, acceso no autorizado o degradación deliberada innecesaria.
 
-## 7. Investigación de buena fe
+## Investigación de buena fe
 
-Se agradece la investigación orientada a reducir riesgo y que minimice daño, acceso a datos, persistencia y afectación a terceros. No se autoriza por esta política ninguna actividad que sea ilegal, destructiva o que exceda permisos legítimos.
+Se agradece la investigación orientada a reducir riesgo y que minimice daño, acceso a datos, persistencia y afectación a terceros. Esta política no autoriza ninguna actividad ilegal, destructiva o que exceda permisos legítimos.
 
 ---
 
 # EN · English
 
-## 1. What counts as a security issue
+## Supported Versions
+
+Innova_N separates conceptual NEOCore™ versions from software versions and WEB4™ candidates. For technical security, the supported reference is the current public surface and the active state of the default branch unless explicitly stated otherwise.
+
+| Surface | Security support status |
+|---|---|
+| Canonical public repository `main` | ✅ Supported |
+| Currently projected public WEB4™ | ✅ Supported |
+| Active private WEB4™ candidate | ✅ Reviewed within its private lifecycle |
+| Historical branches/snapshots | ⚠️ Only where the risk still affects a current surface |
+| Third-party forks or copies | ❌ Not maintained by Innova_N |
+
+If a vulnerability affects only a branch, candidate, snapshot or historical artefact, identify it precisely.
+
+## Reporting a Vulnerability
+
+**Do not publish exploitable details, secrets, credentials, payloads or exploitation steps in a public Issue, Discussion or Pull Request.**
+
+Preferred route:
+
+1. open the repository's **Security and quality** tab;
+2. open **Security policy** or, when GitHub exposes it, **Report a vulnerability**;
+3. use GitHub private vulnerability reporting when enabled;
+4. include the affected component, commit/ref or URL, preconditions, safe minimal reproduction steps, impact, minimal technical evidence and any known mitigation.
+
+If GitHub does not yet expose a private vulnerability-reporting channel for this repository, **do not publish the exploit**. Contact the maintainer through an available private channel. If a public trace is necessary, limit the Issue to requesting a private channel without exposing exploitable information.
+
+## What counts as a security issue
 
 This policy covers technical vulnerabilities or configurations that may enable unauthorised access, code execution, disclosure of secrets or data, privilege escalation, integrity manipulation, abuse of automation or compromise of infrastructure related to this repository or an official Innova_N projection.
 
 A philosophical, factual, methodological or governance objection **is not a security vulnerability**; it belongs in Open Synthesis™, Issues or Public Audit as appropriate.
 
-## 2. Versions and surfaces
+## Useful report information
 
-- The canonical public corpus state is maintained on the repository's current main branch.
-- Public WEB4™ and its working implementations have version cycles distinct from NEOCore™; a framework version is not a software version.
-- If a vulnerability affects only a branch, candidate, snapshot or historical artefact, identify it precisely.
-
-## 3. How to report a vulnerability
-
-**Do not publish exploitable details in a public Issue.**
-
-Preferred route:
-
-1. open the repository's **Security** tab;
-2. if GitHub offers **private vulnerability reporting**, use it;
-3. include the affected component, minimal reproduction steps, impact, required conditions, version/ref/commit and any known mitigation.
-
-If private vulnerability reporting is not enabled or not visible, do not publish the exploit. Contact the repository maintainer through an available private GitHub channel. If a public trace is necessary, open only a minimal Issue requesting a private channel **without secrets, payloads, credentials or exploitation steps**.
-
-## 4. Useful report information
+Whenever possible, include:
 
 - affected path, module or service;
 - affected commit/ref or public URL;
@@ -117,7 +142,7 @@ If private vulnerability reporting is not enabled or not visible, do not publish
 
 Do not include third-party personal data unless essential and legitimately shareable.
 
-## 5. Responsible disclosure
+## Response process and responsible disclosure
 
 The project will seek to:
 
@@ -130,7 +155,7 @@ The project will seek to:
 
 A vulnerability may retain trace and genealogy without publishing material that facilitates exploitation.
 
-## 6. Out of scope
+## Out of scope
 
 Unless they demonstrate real technical impact, the following are not security vulnerabilities:
 
@@ -143,6 +168,6 @@ Unless they demonstrate real technical impact, the following are not security vu
 - social engineering aimed at people outside project infrastructure;
 - findings obtained through unnecessary damage, unauthorised access or deliberate degradation.
 
-## 7. Good-faith research
+## Good-faith research
 
 Research intended to reduce risk and minimise damage, data access, persistence and third-party impact is appreciated. This policy does not authorise unlawful, destructive activity or activity beyond legitimate permission.
