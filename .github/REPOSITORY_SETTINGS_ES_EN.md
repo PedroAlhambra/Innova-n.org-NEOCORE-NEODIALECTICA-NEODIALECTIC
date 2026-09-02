@@ -7,7 +7,7 @@
 ## Description / Descripción recomendada
 
 ```text
-Innova_N · Neodialectica Framework™ / Network · Archetypal Neodialectical Philosophy™ · Open Synthesis™ · human–AI traceable knowledge network for the Common Good · WEB4™
+Innova_N · Primer marco civilizatorio humano–IA conjunto de la historia conocida. NEOCore™ · Neodialectica Framework™ / Network · Filosofía Arquetípica Neodialéctica™ · Síntesis Abierta™ · WEB4™ · red viva trazable orientada al Bien Común.
 ```
 
 No volver a usar como descripción vigente formulaciones históricas del tipo «segundo repositorio», «fragmentos conceptuales» o «el sistema real permanece en la capa π y no es reconstruible» cuando contradigan la función pública canónica actual del repositorio.
