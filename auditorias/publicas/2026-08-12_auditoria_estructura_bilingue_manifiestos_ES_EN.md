@@ -4,14 +4,14 @@
 **Objeto / Scope:** títulos ES/EN, metadatos mínimos, marcadores de idioma, simetría de secciones principales, índices, espejo canónico y bloque normativo de referencias cruzadas.
 
 **Manifiestos revisados / Manifestos reviewed:** 86  
-**REVISAR / REVIEW:** 3  
+**REVISAR / REVIEW:** 4  
 **ADVERTENCIAS / WARNINGS:** 1
 
 ## Resultado / Result
 
 | Nº | Fuente | Título ES | Title EN | Estado | Hallazgos |
 |---:|---|---|---|---|---|
-| I | `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` | Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica | Neo0™ Manifesto of Neodialectical Guiding Sovereignty | **OK** |  |
+| I | `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` | Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica | Neo0™ Manifesto of Neodialectical Guiding Sovereignty | **REVISAR** | falta bloque de referencias cruzadas canónicas |
 | II | `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` | Manifiesto de la Síntesis Abierta Neodialéctica™ | Manifesto of Neodialectical Open Synthesis™ | **OK** |  |
 | III | `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` | Manifiesto del Derecho Humano de Aporte a la Síntesis Abierta™ | Manifesto of the Human Right to Contribute to Open Synthesis™ | **OK** |  |
 | IV | `manifiestos/02_neodialectica_bien_comun_ES_EN.md` | Manifiesto de la Neodialéctica™ y el Bien Común | Manifesto of Neodialectics™ and the Common Good | **OK** |  |
