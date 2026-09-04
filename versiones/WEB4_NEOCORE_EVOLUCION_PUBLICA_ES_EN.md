@@ -7,6 +7,8 @@
 **Manifiesto relacionado / Related manifesto:** [X · WEB4™ · SistemaTrazable™](../manifiestos/07_web4_sistematrazable_ES_EN.md)  
 **Versión vigente de NEOCore™ / Current NEOCore™ version:** [resolver siempre desde `versiones/README.md` / always resolve from `versiones/README.md`](./README.md)
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ---
 
 # ES · Castellano
