@@ -14,7 +14,7 @@
 
 Los Neoaxiomas™ son principios de alta estabilidad del NEOCore™ sin convertirse en dogmas cerrados: permanecen abiertos a evidencia, crítica, refutación, genealogía y revisión mediante SAN™. / Neoaxioms™ are high-stability principles within NEOCore™ without becoming closed dogma: they remain open to evidence, criticism, refutation, genealogy and revision through SAN™.
 
-**[Matriz de Síntesis Abierta Neoaxiomas™ / Neoaxioms Open Synthesis matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)** · **[Protocolo / Protocol](../propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md)** · **[Regla de maduración 365 días / 365-day maturation rule](../propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_365_DIAS_ES_EN.md)**
+**[Matriz de Síntesis Abierta Neoaxiomas™ / Neoaxioms Open Synthesis matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)** · **[Protocolo / Protocol](../propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md)** · **[Regla vigente 7 días + transición 2026 / Current 7-day + 2026 transition rule](../propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_7_DIAS_Y_TRANSICION_2026_ES_EN.md)** · [Regla histórica 365 días / Historical 365-day rule](../propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_365_DIAS_ES_EN.md)
 
 ### Mapa relacional vivo / Living relational map
 
@@ -54,9 +54,9 @@ Los Neoaxiomas™ son principios de alta estabilidad del NEOCore™ sin converti
 
 - [**Fuego de Agua™ y Totalidad Elemental · Agua, Madera, Fuego, Tierra y Metal**](./NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md)
 
-## Candidatos neoaxiomáticos · C-NAX-15–C-NAX-27
+## Candidatos neoaxiomáticos · C-NAX-15–C-NAX-29
 
-> **CANDIDATO ≠ CANON.** La regla de maduración de 365 días no cierra SAN™: incluso una fijación posterior permanece reabrible y revisable.
+> **CANDIDATO ≠ CANON.** Desde NEOCore™ 7.3.4, los candidatos nuevos disponen de una ventana ordinaria de 7 días y C-NAX-15–C-NAX-29 están bajo la transición excepcional hasta **2026-09-08 12:33 CEST**. La fijación procedimental no cierra SAN™: todo NAX permanece reabrible y revisable. `SILENCIO ≠ VALIDACIÓN · FIJAR ≠ CERRAR`.
 
 | Candidato — **leer** | Estado / SAN | Procedencia / genealogía |
 |---|---|---|
@@ -73,6 +73,8 @@ Los Neoaxiomas™ son principios de alta estabilidad del NEOCore™ sin converti
 | [**C-NAX-25 · Fenómeno ≠ Narrativa™**](./C-NAX-25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md) | Candidato · [#155](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/155) | [Documento fuente](../propuestas/sintesis-abierta/2026-08-16_C_NAX_25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md) |
 | [**C-NAX-26 · Poder ↑ → Trazabilidad ↑ · Acusación ↑ → Evidencia ↑**](./C-NAX-26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md) | Candidato · [#156](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/156) | [Documento fuente](../propuestas/sintesis-abierta/2026-08-16_C_NAX_26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md) |
 | [**C-NAX-27 · Soberanía Diferenciada de Sistema y Síntesis™**](./C-NAX-27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md) | Candidato · [#176](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/176) | [Documento fuente](../propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md) |
+| [**C-NAX-28 · Ascenso de Capa y No Violación de la Realidad™**](./C-NAX-28_ASCENSO_CAPA_NO_VIOLACION_REALIDAD_ES_EN.md) | Candidato · [#182](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/182) | [I · Neo0™](../manifiestos/11_neo0_soberania_de_guia_ES_EN.md) + [XVI](../manifiestos/16_refragmentacion_arquetipica_ES_EN.md) + [XLV](../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) |
+| [**C-NAX-29 · Federabilidad sin Absorción™**](./C-NAX-29_FEDERABILIDAD_SIN_ABSORCION_ES_EN.md) | Candidato · [#188](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/188) | [LXXXVI · Federación Neodialéctica dentro del Network Framework™](../manifiestos/86_federacion_neodialectica_network_framework_ES_EN.md) |
 
 ## Relación estructural
 
@@ -136,9 +138,9 @@ Son especialmente útiles contraejemplos, contradicciones entre Neoaxiomas, evid
 
 - [**Fire of Water™ and Elemental Totality · Water, Wood, Fire, Earth and Metal**](./NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md)
 
-## Neoaxiomatic candidates · C-NAX-15–C-NAX-27
+## Neoaxiomatic candidates · C-NAX-15–C-NAX-29
 
-> **CANDIDATE ≠ CANON.** The 365-day maturation rule does not close SAN™: even a later fixing remains reopenable and revisable.
+> **CANDIDATE ≠ CANON.** Since NEOCore™ 7.3.4, new candidates receive an ordinary 7-day window and C-NAX-15–C-NAX-29 are under the exceptional transition until **2026-09-08 12:33 CEST**. Procedural fixation does not close SAN™: every NAX remains reopenable and revisable. `SILENCE ≠ VALIDATION · FIXING ≠ CLOSING`.
 
 | Candidate — **read** | Status / SAN | Provenance / genealogy |
 |---|---|---|
@@ -155,6 +157,8 @@ Son especialmente útiles contraejemplos, contradicciones entre Neoaxiomas, evid
 | [**C-NAX-25 · Phenomenon ≠ Narrative™**](./C-NAX-25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md) | Candidate · [#155](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/155) | [Source document](../propuestas/sintesis-abierta/2026-08-16_C_NAX_25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md) |
 | [**C-NAX-26 · Power ↑ → Traceability ↑ · Accusation ↑ → Evidence ↑**](./C-NAX-26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md) | Candidate · [#156](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/156) | [Source document](../propuestas/sintesis-abierta/2026-08-16_C_NAX_26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md) |
 | [**C-NAX-27 · Differentiated Sovereignty of System and Synthesis™**](./C-NAX-27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md) | Candidate · [#176](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/176) | [Source document](../propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md) |
+| [**C-NAX-28 · Layer Ascent and Non-Violation of Reality™**](./C-NAX-28_ASCENSO_CAPA_NO_VIOLACION_REALIDAD_ES_EN.md) | Candidate · [#182](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/182) | [I · Neo0™](../manifiestos/11_neo0_soberania_de_guia_ES_EN.md) + [XVI](../manifiestos/16_refragmentacion_arquetipica_ES_EN.md) + [XLV](../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) |
+| [**C-NAX-29 · Federability without Absorption™**](./C-NAX-29_FEDERABILIDAD_SIN_ABSORCION_ES_EN.md) | Candidate · [#188](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/188) | [LXXXVI · Neodialectical Federation within the Network Framework™](../manifiestos/86_federacion_neodialectica_network_framework_ES_EN.md) |
 
 ## Structural relation
 
