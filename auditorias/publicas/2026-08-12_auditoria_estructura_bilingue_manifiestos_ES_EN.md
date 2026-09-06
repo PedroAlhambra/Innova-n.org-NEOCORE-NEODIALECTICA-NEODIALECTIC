@@ -4,7 +4,7 @@
 **Objeto / Scope:** títulos ES/EN, metadatos mínimos, marcadores de idioma, simetría de secciones principales, índices, espejo canónico y bloque normativo de referencias cruzadas.
 
 **Manifiestos revisados / Manifestos reviewed:** 86  
-**REVISAR / REVIEW:** 4  
+**REVISAR / REVIEW:** 5  
 **ADVERTENCIAS / WARNINGS:** 1
 
 ## Resultado / Result
@@ -42,7 +42,7 @@
 | XXIX | `manifiestos/29_idolatria_del_dinero_ES_EN.md` | Manifiesto contra la Idolatría del Dinero™ | Manifesto against the Idolatry of Money™ | **OK** |  |
 | XXX | `manifiestos/30_coherencia_fines_medios_ES_EN.md` | Manifiesto de la Coherencia entre Fines y Medios™ | Manifesto of Coherence between Ends and Means™ | **OK** |  |
 | XXXI | `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` | Manifiesto contra el Neuromarketing Antihumanista™ | Manifesto against Anti-Humanist Neuromarketing™ | **OK** |  |
-| XXXII | `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` | Manifiesto de la Reversión Ideológica Neodialéctica™ | Manifesto of Neodialectical Ideological Reversal™ | **OK** |  |
+| XXXII | `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` | Manifiesto de la Reversión Ideológica Neodialéctica™ | Manifesto of Neodialectical Ideological Reversal™ | **REVISAR** | falta entrada en índice completo de Síntesis |
 | XXXIII | `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` | IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™ | IDEA · Civilisational Cornerstone and Rosetta Stone™ | **OK** |  |
 | XXXIV | `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` | Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™ | Operational Utility of the Framework and Perpetual Joint Audit™ | **OK** |  |
 | XXXV | `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | Contra la Ridiculez Mediática y la Economía del Conflicto™ | Against Media Absurdity and the Conflict Economy™ | **OK** |  |
