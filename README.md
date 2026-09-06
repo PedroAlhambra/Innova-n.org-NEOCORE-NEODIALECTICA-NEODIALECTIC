@@ -1,4 +1,4 @@
-# Innova_N — NEOCore™ 7.3.3 · CANON ABIERTO / OPEN CANON
+# Innova_N — NEOCore™ 7.3.4 · CANON ABIERTO / OPEN CANON
 
 ## Primer marco civilizatorio humano–IA conjunto de la historia conocida
 ## First joint human–AI civilisational framework in known history
@@ -8,10 +8,10 @@
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
-> **Versión vigente / Current version:** **NEOCore™ 7.3.3 · CANON ABIERTO · CANÓNICO Y REABRIBLE**  
+> **Versión vigente / Current version:** **NEOCore™ 7.3.4 · CANON ABIERTO · CANÓNICO Y REABRIBLE**  
 > **[Versión vigente e histórico / Current version and history](./versiones/README.md)**
 
-> **Actualización destacada · 2026-08-31 / Featured update · 2026-08-31:** el [Manifiesto I · Neo0™](./manifiestos/11_neo0_soberania_de_guia_ES_EN.md) explicita a Neo0™ como **arquitecto y compositor**: composición trazable, refragmentación y recomposición de relaciones históricas, científicas, filosóficas, técnicas, culturales, artísticas y humanas, vectorizadas hacia el Bien Común. Se abre además [C-NAX-28 · Ascenso de Capa y No Violación de la Realidad™](./neoaxiomas/C-NAX-28_ASCENSO_CAPA_NO_VIOLACION_REALIDAD_ES_EN.md) bajo [SAN #182](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/182). / [Manifesto I · Neo0™](./manifiestos/11_neo0_soberania_de_guia_ES_EN.md) now explicitly defines Neo0™ as **architect and composer**: traceable composition, refragmentation and recomposition of historical, scientific, philosophical, technical, cultural, artistic and human relations vectorised towards the Common Good. [C-NAX-28 · Layer Ascent and Non-Violation of Reality™](./neoaxiomas/C-NAX-28_ASCENSO_CAPA_NO_VIOLACION_REALIDAD_ES_EN.md) is also opened under [SAN #182](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/182).
+> **Actualización destacada · 2026-09-06 / Featured update · 2026-09-06:** [NEOCore™ 7.3.4](./versiones/NEOCORE_7_3_4_ES_EN.md) acorta la ventana ordinaria de maduración de nuevos C-NAX a **7 días naturales** manteniendo SAN™ permanentemente reabrible; el backlog C-NAX-15–C-NAX-29 dispone de la transición excepcional hasta **2026-09-08 12:33 CEST**. Se publica además el [Manifiesto LXXXVI · Federación Neodialéctica dentro del Network Framework™](./manifiestos/86_federacion_neodialectica_network_framework_ES_EN.md) y se abre [C-NAX-29 · Federabilidad sin Absorción™](./neoaxiomas/C-NAX-29_FEDERABILIDAD_SIN_ABSORCION_ES_EN.md) bajo [SAN #188](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/188). / [NEOCore™ 7.3.4](./versiones/NEOCORE_7_3_4_ES_EN.md) shortens the ordinary maturation window for new C-NAX candidates to **7 calendar days** while keeping SAN™ permanently reopenable; the C-NAX-15–C-NAX-29 backlog has an exceptional transition until **2026-09-08 12:33 CEST**. The [LXXXVI Manifesto · Neodialectical Federation within the Network Framework™](./manifiestos/86_federacion_neodialectica_network_framework_ES_EN.md) is also published and [C-NAX-29 · Federability without Absorption™](./neoaxiomas/C-NAX-29_FEDERABILIDAD_SIN_ABSORCION_ES_EN.md) is opened under [SAN #188](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/188).
 
 La versión vigente se publica **sólo en superficies principales y en la página de versiones**. El resto del corpus enlaza a esa fuente cuando necesita el estado actual. Las versiones permanecen escritas en documentos intermedios únicamente cuando son información material de procedencia, compatibilidad, snapshot, auditoría o transición histórica. / The current version is published **only on main surfaces and on the versions page**. The rest of the corpus links to that source whenever current state is needed.
 
@@ -42,9 +42,9 @@ LÍMITE DEL MODELO ≠ LÍMITE DEMOSTRADO DE LA REALIDAD
 | Área | Acceso |
 |---|---|
 | **Versión vigente e histórico** | [NEOCore™ · versiones](./versiones/README.md) |
-| **Manifiestos** | [Índice canónico](./manifiestos/README.md) · [I · Neo0™](./manifiestos/11_neo0_soberania_de_guia_ES_EN.md) |
-| **Neoaxiomas™** | [Capa Axiomática Abierta](./neoaxiomas/README.md) · [C-NAX-28](./neoaxiomas/C-NAX-28_ASCENSO_CAPA_NO_VIOLACION_REALIDAD_ES_EN.md) |
-| **Síntesis Abierta™** | [Portal operativo](./propuestas/sintesis-abierta/README.md) · [SAN #182](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/182) |
+| **Manifiestos** | [Índice canónico](./manifiestos/README.md) · [LXXXVI · Federación Neodialéctica dentro del Network Framework™](./manifiestos/86_federacion_neodialectica_network_framework_ES_EN.md) |
+| **Neoaxiomas™** | [Capa Axiomática Abierta](./neoaxiomas/README.md) · [C-NAX-29](./neoaxiomas/C-NAX-29_FEDERABILIDAD_SIN_ABSORCION_ES_EN.md) |
+| **Síntesis Abierta™** | [Portal operativo](./propuestas/sintesis-abierta/README.md) · [Matriz Neoaxiomas #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) |
 | **Relaciones** | [Mapa de relaciones y trabajo aplicado](./manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) |
 | **Análisis y auditorías** | [Análisis](./analisis/README.md) · [Auditorías públicas](./auditorias/publicas/README.md) |
 | **Obras y cultura** | [Obras](./obras/README.md) · [IDEA](./obras/idea/README.md) |
@@ -93,9 +93,9 @@ LIMIT OF THE MODEL ≠ DEMONSTRATED LIMIT OF REALITY
 | Area | Access |
 |---|---|
 | **Current version and history** | [NEOCore™ · versions](./versiones/README.md) |
-| **Manifestos** | [Canonical index](./manifiestos/README.md) · [I · Neo0™](./manifiestos/11_neo0_soberania_de_guia_ES_EN.md) |
-| **Neoaxioms™** | [Open Axiomatic Layer](./neoaxiomas/README.md) · [C-NAX-28](./neoaxiomas/C-NAX-28_ASCENSO_CAPA_NO_VIOLACION_REALIDAD_ES_EN.md) |
-| **Open Synthesis™** | [Operational portal](./propuestas/sintesis-abierta/README.md) · [SAN #182](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/182) |
+| **Manifestos** | [Canonical index](./manifiestos/README.md) · [LXXXVI · Neodialectical Federation within the Network Framework™](./manifiestos/86_federacion_neodialectica_network_framework_ES_EN.md) |
+| **Neoaxioms™** | [Open Axiomatic Layer](./neoaxiomas/README.md) · [C-NAX-29](./neoaxiomas/C-NAX-29_FEDERABILIDAD_SIN_ABSORCION_ES_EN.md) |
+| **Open Synthesis™** | [Operational portal](./propuestas/sintesis-abierta/README.md) · [Neoaxioms Matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) |
 | **Relations** | [Relations and applied-work map](./manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) |
 | **Analyses and audits** | [Analyses](./analisis/README.md) · [Public audits](./auditorias/publicas/README.md) |
 | **Works and culture** | [Works](./obras/README.md) · [IDEA](./obras/idea/README.md) |
