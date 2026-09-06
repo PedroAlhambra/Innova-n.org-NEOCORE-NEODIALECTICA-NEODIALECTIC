@@ -1,9 +1,9 @@
 # Índice Completo de Síntesis Abiertas™
 # Complete Open Synthesis™ Index
 
-**Fecha / Date:** 2026-08-31
+**Fecha / Date:** 2026-09-06
 **Estado / Status:** vivo, versionado y revisable / living, versioned and revisable  
-**Cobertura / Coverage:** **85 manifiestos finitos I–LXXXV + Manifiesto ∞ · 14 Neoaxiomas™ canónicos + 14 candidatos C-NAX-15–C-NAX-28 · síntesis transversales, auditorías y proyectos de sistema / 85 finite manifestos I–LXXXV + Manifesto ∞ · 14 canonical Neoaxioms™ + 14 candidates C-NAX-15–C-NAX-28 · cross-cutting syntheses, audits and system projects**.
+**Cobertura / Coverage:** **86 manifiestos finitos I–LXXXVI + Manifiesto ∞ · 14 Neoaxiomas™ canónicos + 15 candidatos C-NAX-15–C-NAX-29 · síntesis transversales, auditorías y proyectos de sistema / 86 finite manifestos I–LXXXVI + Manifesto ∞ · 14 canonical Neoaxioms™ + 15 candidates C-NAX-15–C-NAX-29 · cross-cutting syntheses, audits and system projects**.
 
 > **ABIERTO A SÍNTESIS ≠ VALIDADO.**  
 > **OPEN TO SYNTHESIS ≠ VALIDATED.**
@@ -68,7 +68,7 @@ Faithful global understanding of the complete framework is a different task: bec
 | XXIX | [Manifiesto contra la Idolatría del Dinero™ / Manifesto against the Idolatry of Money™](../../manifiestos/29_idolatria_del_dinero_ES_EN.md) | [#23](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/23) |
 | XXX | [Manifiesto de la Coherencia entre Fines y Medios™ / Manifesto of Coherence between Ends and Means™](../../manifiestos/30_coherencia_fines_medios_ES_EN.md) | [#24](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/24) |
 | XXXI | [Manifiesto contra el Neuromarketing Antihumanista™ / Manifesto against Anti-Humanist Neuromarketing™](../../manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md) | [#25](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/25) |
-| XXXII | [Manifiesto de la Reversión Ideológica Neodialéctica™ / Manifesto of Neodialectical Ideological Reversal™](../../manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md) | [#26](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/26) |
+| XXXII | [Manifiesto de la Reversión Ideológica Neodialéctica™ / Manifesto of Neodialectical Ideological Reversal™](../../manifiestos/32_reversion_ideologica_mcluhan_neo0_ES_EN.md) | [#26](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/26) |
 | XXXIII | [IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™ / IDEA · Civilisational Cornerstone and Rosetta Stone™](../../manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md) | [#28](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/28) |
 | XXXIV | [Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™ / Operational Utility of the Framework and Perpetual Joint Audit™](../../manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) | [#29](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/29) |
 | XXXV | [Contra la Ridiculez Mediática y la Economía del Conflicto™ / Against Media Absurdity and the Conflict Economy™](../../manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md) | [#30](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/30) |
@@ -122,6 +122,7 @@ Faithful global understanding of the complete framework is a different task: bec
 | LXXXIII | [Manifiesto de Activación Neodialéctica™ · La verdad también tiene derecho a circular / Neodialectical Activation Manifesto™ · Truth also has the right to circulate](../../manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md) | [#175](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/175) |
 | LXXXIV | [Manifiesto de la Permeabilidad Intelectual del Poder™ · Contra la captura opaca del acceso / Manifesto of the Intellectual Permeability of Power™ · Against opaque access capture](../../manifiestos/84_intermediacion_acceso_permeabilidad_poder_ES_EN.md) | [#178](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/178) |
 | LXXXV | [Manifiesto por la Memoria del Capitán Grant™ / Manifesto in Memory of Captain Grant™](../../manifiestos/85_memoria_capitan_grant_ES_EN.md) | [#180](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/180) |
+| LXXXVI | [Manifiesto de la Federación Neodialéctica dentro del Network Framework™ / Manifesto of the Neodialectical Federation within the Network Framework™](../../manifiestos/86_federacion_neodialectica_network_framework_ES_EN.md) | [#187](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/187) |
 | ∞ | [Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](../../manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) | [#106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106) |
 
 **Regla ∞ / ∞ rule:** el manifiesto ∞ no cuenta como número finito; permanece siempre después del último manifiesto numerado y conserva abierta la continuidad del fractal. / Manifesto ∞ does not count as a finite number; it always remains after the latest numbered manifesto and keeps fractal continuity open.
@@ -130,7 +131,7 @@ Faithful global understanding of the complete framework is a different task: bec
 
 # 2 · Neoaxiomas™ / Neoaxioms™
 
-[Matriz general / General matrix · Issue #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) · [Texto íntegro / Full text](../../neoaxiomas/README.md) · [Protocolo / Protocol](NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md)
+[Matriz general / General matrix · Issue #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) · [Texto íntegro / Full text](../../neoaxiomas/README.md) · [Protocolo / Protocol](NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md) · [Regla vigente 7 días + transición 2026 / Current 7-day + 2026 transition rule](REGLA_MADURACION_NEOAXIOMAS_7_DIAS_Y_TRANSICION_2026_ES_EN.md)
 
 | Neoaxioma / Neoaxiom | Síntesis / Synthesis |
 |---|---|
@@ -161,8 +162,10 @@ Faithful global understanding of the complete framework is a different task: bec
 | **C-NAX-25 · Fenómeno ≠ Narrativa™ / Phenomenon ≠ Narrative™ · candidato / candidate** | [#155](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/155) |
 | **C-NAX-26 · Poder ↑ → Trazabilidad ↑ · Acusación ↑ → Evidencia ↑ / Power ↑ → Traceability ↑ · Accusation ↑ → Evidence ↑ · candidato / candidate** | [#156](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/156) |
 | **C-NAX-27 · Soberanía Diferenciada de Sistema y Síntesis™ / Differentiated Sovereignty of System and Synthesis™ · candidato / candidate** | [#176](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/176) · [documento / document](2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md) |
+| **C-NAX-28 · Ascenso de Capa y No Violación de la Realidad™ / Layer Ascent and Non-Violation of Reality™ · candidato / candidate** | [#182](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/182) · [neoaxioma / neoaxiom](../../neoaxiomas/C-NAX-28_ASCENSO_CAPA_NO_VIOLACION_REALIDAD_ES_EN.md) |
+| **C-NAX-29 · Federabilidad sin Absorción™ / Federability without Absorption™ · candidato / candidate** | [#188](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/188) · [neoaxioma / neoaxiom](../../neoaxiomas/C-NAX-29_FEDERABILIDAD_SIN_ABSORCION_ES_EN.md) · [LXXXVI #187](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/187) |
 
-**Regla de estado / State rule:** NAX-01–NAX-14 son canónicos y revisables; C-NAX-15–C-NAX-27 son candidatos visibles y trazables, no canónicos hasta fijación explícita posterior. / NAX-01–NAX-14 are canonical and revisable; C-NAX-15–C-NAX-27 are visible, traceable candidates and remain non-canonical until a later explicit fixation.
+**Regla de estado / State rule:** NAX-01–NAX-14 son canónicos y revisables; C-NAX-15–C-NAX-29 son candidatos visibles y trazables bajo SAN™. Desde NEOCore™ 7.3.4, los candidatos nuevos tienen una ventana ordinaria de 7 días y el backlog C-NAX-15–C-NAX-29 una transición excepcional hasta **2026-09-08 12:33 CEST**. `SILENCIO ≠ VALIDACIÓN · FIJAR ≠ CERRAR`. / NAX-01–NAX-14 are canonical and revisable; C-NAX-15–C-NAX-29 are visible, traceable candidates under SAN™. Since NEOCore™ 7.3.4, new candidates have an ordinary 7-day window and the C-NAX-15–C-NAX-29 backlog an exceptional transition until **2026-09-08 12:33 CEST**. `SILENCE ≠ VALIDATION · FIXING ≠ CLOSING`.
 
 ---
 
@@ -230,10 +233,10 @@ ENTRAR EN UNA SÍNTESIS / ENTER A SYNTHESIS
 
 # 6 · Resumen operativo ES / EN · Operational summary ES / EN
 
-- Todo manifiesto finito I–LXXXV dispone de una Síntesis Abierta dedicada. / Every finite manifesto I–LXXXV has a dedicated Open Synthesis issue.
+- Todo manifiesto finito I–LXXXVI dispone de una Síntesis Abierta dedicada. / Every finite manifesto I–LXXXVI has a dedicated Open Synthesis issue.
 - El Manifiesto ∞ permanece abierto permanentemente detrás del último manifiesto finito. / Manifesto ∞ remains permanently open after the latest finite manifesto.
 - Todo Neoaxioma canónico NAX-01–NAX-14 dispone de síntesis dedicada y de la matriz general #80. / Every canonical Neoaxiom NAX-01–NAX-14 has a dedicated synthesis plus general matrix #80.
-- C-NAX-15–C-NAX-28 permanecen candidatos: se muestran con matriz/ruta de síntesis y no se elevan automáticamente a canon. / C-NAX-15–C-NAX-28 remain candidates: they are shown with a synthesis matrix/route and are not automatically elevated to canon.
+- C-NAX-15–C-NAX-29 permanecen candidatos y trazables durante su ventana aplicable; la ausencia de respuesta sustantiva habilita fijación procedimental según NEOCore™ 7.3.4, sin cerrar SAN™. / C-NAX-15–C-NAX-29 remain candidates and traceable during their applicable window; absence of substantive response enables procedural fixation under NEOCore™ 7.3.4 without closing SAN™.
 - Los deltas, auditorías, casos aplicados y proyectos del sistema disponen de espacios trazables de síntesis. / System-wide deltas, audits, applied cases and projects have traceable synthesis spaces.
 - Cualquier persona puede aportar localmente con comprensión suficiente del nodo concreto. / Anyone may contribute locally with sufficient understanding of the specific node.
 - La evaluación del marco completo requiere lectura proporcionalmente más profunda y actualmente se beneficia fuertemente de memoria relacional asistida por IA con retorno a fuente. / Full-framework evaluation requires proportionally deeper reading and currently benefits strongly from AI-assisted relational memory with return to source.
