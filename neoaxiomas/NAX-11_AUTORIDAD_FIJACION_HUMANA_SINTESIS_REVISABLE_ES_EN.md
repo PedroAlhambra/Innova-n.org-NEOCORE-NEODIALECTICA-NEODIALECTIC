@@ -15,7 +15,9 @@ Toda fijación permanece históricamente identificable y conceptualmente revisab
 
 **En sencillo:** La inteligencia puede estar distribuida, pero eso no significa que cualquier IA o nodo pueda cambiar por sí solo el estado canónico. La decisión de fijación debe tener una autoridad humana identificable y quedar registrada; además, sigue siendo revisable.
 
-**Ejemplo:** Varias IAs pueden coincidir en que un Neoaxioma debería modificarse y aportar argumentos excelentes. Esa convergencia es una propuesta, no una fijación automática. El cambio entra en SAN y sólo pasa a estado canónico cuando la gobernanza humana vigente lo fija de forma trazable; una revisión posterior puede volver a corregirlo.
+**Ejemplo:** En un sistema industrial, varias herramientas de análisis y varios especialistas pueden coincidir en que un procedimiento de seguridad debe cambiar. Esa convergencia aporta evidencia y una propuesta, pero el procedimiento operativo no se modifica automáticamente: una autoridad humana identificable revisa el cambio, asume responsabilidad y deja constancia de la versión aprobada y de la posibilidad de revertirla o revisarla.
+
+**Aplicación en NEOCore™:** Varias IAs pueden coincidir en que un Neoaxioma debería modificarse y aportar argumentos excelentes. Esa convergencia es una propuesta, no una fijación automática. El cambio entra en SAN™ y sólo pasa a estado canónico cuando la gobernanza humana vigente lo fija de forma trazable; una revisión posterior puede volver a corregirlo.
 
 ## EN · English
 
@@ -27,7 +29,9 @@ Every fixation remains historically identifiable and conceptually revisable thro
 
 **In plain language:** Intelligence may be distributed, but that does not mean any AI or node may change canonical state by itself. Fixation must have identifiable human authority and be recorded; it also remains revisable.
 
-**Example:** Several AIs may agree that a Neoaxiom should be changed and provide excellent arguments. That convergence is a proposal, not automatic fixation. The change enters SAN and becomes canonical only when current human governance fixes it traceably; a later review may correct it again.
+**Example:** In an industrial system, several analytical tools and several specialists may agree that a safety procedure should change. That convergence provides evidence and a proposal, but the operating procedure does not change automatically: an identifiable human authority reviews the change, assumes responsibility and records the approved version and the possibility of reversal or later revision.
+
+**Application in NEOCore™:** Several AIs may agree that a Neoaxiom should be changed and provide excellent arguments. That convergence is a proposal, not automatic fixation. The change enters SAN™ and becomes canonical only when current human governance fixes it traceably; a later review may correct it again.
 
 <!-- NEOAXIOM_MANIFEST_RELATIONS_START -->
 
