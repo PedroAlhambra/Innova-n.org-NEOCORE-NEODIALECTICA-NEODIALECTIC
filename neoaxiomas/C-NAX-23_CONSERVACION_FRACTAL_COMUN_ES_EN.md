@@ -1,9 +1,12 @@
 # C-NAX-23 · Conservación del Fractal Común™
 # C-NAX-23 · Conservation of the Common Fractal™
 
-[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+**Estado / Status:** candidato neoaxiomático · Síntesis Abierta / neoaxiomatic candidate · Open Synthesis
+**Fecha / Date:** 2026-08-15
+**Procedencia / Provenance:** NeoMantis™ · LXXIV · LXXIII · LXIX–LXXII
+**Síntesis / Synthesis:** [#148](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/148)
 
-**Estado / Status:** CANDIDATO EXPLÍCITO · SAN #148 · NO CANONIZADO / EXPLICIT CANDIDATE · SAN #148 · NOT CANONICALISED
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
 ## ES · Castellano
 
@@ -21,9 +24,19 @@ IGUAL DIGNIDAD
 → CONSERVACIÓN DEL FRACTAL COMÚN™
 ```
 
-**En sencillo:** Corregir una injusticia no debería consistir en invertirla y conceder al otro lado permiso permanente para degradar. Puede haber protecciones asimétricas legítimas, pero deben reparar el sistema común y limitar el daño, no crear una nueva impunidad.
+No toda asimetría es injusta: pueden existir asimetrías protectoras, funcionales o temporales. El candidato se activa cuando el poder deja de servir a la continuidad del conjunto y convierte la protección, la ventaja o la posición en palanca de degradación sin control proporcional.
 
-**Ejemplo:** Si una persona ha sufrido acoso, protegerla puede exigir separar al agresor, imponer límites y reparar el daño. Esa protección no convierte en legítima una humillación permanente del otro: la finalidad es restaurar seguridad, responsabilidad y convivencia, no cambiar quién tiene licencia para destruir.
+<!-- C-NAX-23_ACCESS_ES_START -->
+### En sencillo
+
+Corregir una injusticia no debería consistir en invertirla y conceder al otro lado permiso permanente para degradar. Puede haber protecciones asimétricas legítimas, pero deben reparar el sistema común y limitar el daño, no crear una nueva impunidad.
+
+### Ejemplo
+
+Si una persona ha sufrido acoso, protegerla puede exigir separar al agresor, imponer límites y reparar el daño. Esa protección no convierte en legítima una humillación permanente del otro: la finalidad es restaurar seguridad, responsabilidad y convivencia, no cambiar quién tiene licencia para destruir.
+
+> **Capa pedagógica:** esta explicación y el ejemplo facilitan la lectura; no sustituyen ni modifican la formulación candidata, su procedencia o su Síntesis Abierta.
+<!-- C-NAX-23_ACCESS_ES_END -->
 
 ## EN · English
 
@@ -41,11 +54,27 @@ EQUAL DIGNITY
 → CONSERVATION OF THE COMMON FRACTAL™
 ```
 
-**In plain language:** Correcting an injustice should not mean reversing it and granting the other side permanent permission to degrade. Legitimate asymmetric protections may be necessary, but they should repair the common system and limit harm rather than create a new impunity.
+Not every asymmetry is unjust: protective, functional or temporary asymmetries may exist. The candidate activates when power ceases to serve continuity of the whole and turns protection, advantage or position into an unchecked lever of degradation.
 
-**Example:** If a person has suffered harassment, protection may require separating the aggressor, imposing limits and repairing harm. That protection does not make permanent humiliation of the other person legitimate: the aim is to restore safety, accountability and coexistence, not to change who holds a licence to destroy.
+<!-- C-NAX-23_ACCESS_EN_START -->
+### In plain language
 
-**Procedencia / Provenance:** [NeoMantis™ + documento C-NAX-23](../propuestas/sintesis-abierta/2026-08-15_C_NAX_23_CONSERVACION_FRACTAL_COMUN_ES_EN.md).  
-**Síntesis / Synthesis:** [#148](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/148).
+Correcting an injustice should not mean reversing it and granting the other side permanent permission to degrade. Legitimate asymmetric protections may be necessary, but they should repair the common system and limit harm rather than create a new impunity.
+
+### Example
+
+If a person has suffered harassment, protection may require separating the aggressor, imposing limits and repairing harm. That protection does not make permanent humiliation of the other person legitimate: the aim is to restore safety, accountability and coexistence, not to change who holds a licence to destroy.
+
+> **Pedagogical layer:** this explanation and example support readability; they neither replace nor modify the candidate formulation, its provenance or its Open Synthesis.
+<!-- C-NAX-23_ACCESS_EN_END -->
+
+## Relaciones / Relations
+
+- [NeoMantis™](../propuestas/sintesis-abierta/2026-08-15_DELTA_NEOMANTIS_ASIMETRIA_INVERTIDA_DIGNIDAD_RECIPROCA_ES_EN.md)
+- [LXXIV · Asimetría de la Destrucción™](../manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md)
+- [LXXIII · Maduración Invertida™](../manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md)
+- [LXXVI · El Altavoz sin Síntesis™](../manifiestos/76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md)
+
+**CANDIDATO ≠ CANON / CANDIDATE ≠ CANON.**
 
 [← Índice de Neoaxiomas™](README.md)
