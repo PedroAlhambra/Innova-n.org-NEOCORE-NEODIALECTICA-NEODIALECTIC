@@ -25,7 +25,9 @@ La compresión no puede destruir el camino inverso.
 
 **En sencillo:** Una buena revisión no necesita repetir todo el marco: debe señalar qué aporta de nuevo, qué falta, qué contradice y de dónde sale. Comprimir está permitido; perder el camino a la fuente, no.
 
-**Ejemplo:** Al revisar un nuevo manifiesto, una cabeza puede devolver: “esta idea ya existe en NAX-08; falta relacionarla con C-NAX-26; aquí hay una contradicción con el Issue X”. Cada diferencia lleva enlace a la fuente para que otra persona pueda reconstruir el razonamiento.
+**Ejemplo:** En una investigación sobre el cierre de una fábrica, una revisión no necesita copiar todos los expedientes. Puede devolver: «esta causa ya está documentada en el informe técnico; falta la versión de los trabajadores; esta fecha contradice el registro administrativo». Cada afirmación conserva el enlace o referencia que permite volver al documento original.
+
+**Aplicación en NEOCore™:** Al revisar un nuevo manifiesto, una Cabeza Monádica NNC™ puede devolver: «esta idea ya existe en NAX-08; falta relacionarla con C-NAX-26; aquí hay una contradicción con el Issue X». Cada diferencial mantiene retorno a la fuente.
 
 ## EN · English
 
@@ -47,13 +49,15 @@ Compression must not destroy the reverse path.
 
 **In plain language:** A good review does not need to repeat the entire framework: it should identify what is new, what is missing, what contradicts something else and where it comes from. Compression is allowed; losing the path to the source is not.
 
-**Example:** When reviewing a new Manifesto, a head may return: “this idea already exists in NAX-08; the relation to C-NAX-26 is missing; here there is a contradiction with Issue X”. Each difference links back to its source so another person can reconstruct the reasoning.
+**Example:** In an investigation into the closure of a factory, a review need not copy every file. It may return: “this cause is already documented in the technical report; the workers' account is missing; this date contradicts the administrative record”. Each claim preserves the link or reference needed to return to the original document.
+
+**Application in NEOCore™:** When reviewing a new Manifesto, an NNC Monadic Head™ may return: “this idea already exists in NAX-08; the relation to C-NAX-26 is missing; here there is a contradiction with Issue X”. Each differential preserves return to source.
 
 <!-- NEOAXIOM_MANIFEST_RELATIONS_START -->
 
 ## Relaciones con manifiestos / Relations with Manifestos
 
-> **Relación documental/conceptual, no procedencia exclusiva.** Estos vínculos hacen explícita la red vigente del Neoaxioma con manifiestos que desarrollan, aplican, limitan o contextualizan su función. Un enlace no declara identidad, subordinación ni causalidad. / **Documentary/conceptual relation, not exclusive provenance.** These links make explicit the Neoaxiom's current network with Manifestos that develop, apply, limit or contextualise its function. A link does not assert identity, subordination or causality.
+> **Relación documental/conceptual, no procedencia exclusiva.** Estos vínculos hacen explícita la red vigente del Neoaxioma con manifiestos que desarrollan, aplican, limitan o contextualizan su función. Un enlace no declara identidad, subordinación ni causalidad. / **Documentary/conceptual relation, not exclusive provenance.** These links make explicit the Neoaxiom's current network with Manifestos that develop, apply, limit or contextualise its function. A link does not assert identity, subordination nor causality.
 
 - [II · Síntesis Abierta Neodialéctica™ / Neodialectical Open Synthesis™](../manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md)
 - [IX · Memoria, Genealogía y Trazabilidad / Memory, Genealogy and Traceability](../manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md)
