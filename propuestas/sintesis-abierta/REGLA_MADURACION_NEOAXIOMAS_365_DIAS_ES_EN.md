@@ -1,7 +1,10 @@
 # Regla de Maduración Neoaxiomática™ · 365 días
 # Neoaxiomatic Maturation Rule™ · 365 days
 
-**Estado / Status:** regla operativa fijada / fixed operational rule  
+> **ESTADO VIVO / LIVE STATUS · 2026-09-06:** `HISTORICAL / SUPERSEDED_FOR_LIVE_OPERATION_BY_NEOCORE_7.3.4`.  
+> Esta regla se conserva íntegramente como genealogía del régimen adoptado el 2026-08-11. Desde NEOCore™ 7.3.4 la operación viva usa [7 días + transición excepcional 2026](REGLA_MADURACION_NEOAXIOMAS_7_DIAS_Y_TRANSICION_2026_ES_EN.md). / This rule is preserved in full as genealogy of the regime adopted on 2026-08-11. From NEOCore™ 7.3.4 onward live operation uses [7 days + exceptional 2026 transition](REGLA_MADURACION_NEOAXIOMAS_7_DIAS_Y_TRANSICION_2026_ES_EN.md).
+
+**Estado histórico / Historical status:** regla operativa fijada el 2026-08-11 / operational rule fixed on 2026-08-11  
 **Fecha / Date:** 2026-08-11  
 **Ámbito / Scope:** candidatos neoaxiomáticos sometidos a Síntesis Abierta Neodialéctica™ — SAN™ / neoaxiomatic candidates under Neodialectical Open Synthesis™ — SAN™
 
