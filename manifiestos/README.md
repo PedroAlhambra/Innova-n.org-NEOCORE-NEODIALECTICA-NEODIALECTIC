@@ -28,9 +28,9 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 > ## 🔴 ÚLTIMO MANIFIESTO FINITO ABIERTO A SÍNTESIS / LATEST FINITE MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LXXXV · Manifiesto por la Memoria del Capitán Grant™ / Manifesto in Memory of Captain Grant™**
+> **LXXXVI · Manifiesto de la Federación Neodialéctica dentro del Network Framework™ / Manifesto of the Neodialectical Federation within the Network Framework™**
 >
-> **[Manifiesto LXXXV / Manifesto LXXXV](85_memoria_capitan_grant_ES_EN.md) · [Síntesis Abierta LXXXV · #180 / Open Synthesis LXXXV · #180](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/180)**
+> **[Manifiesto LXXXVI / Manifesto LXXXVI](86_federacion_neodialectica_network_framework_ES_EN.md) · [Síntesis Abierta LXXXVI · #187 / Open Synthesis LXXXVI · #187](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/187)**
 
 > ## ∞ · PUERTA ABIERTA PERMANENTE / PERMANENT OPEN DOOR
 >
@@ -38,8 +38,8 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 >
 > ∞ no cuenta como número finito: permanece siempre después del último manifiesto numerado. / ∞ is not a finite manifesto number: it always remains after the latest numbered manifesto.
 
-**Frontera canónica vigente / Current canonical frontier:** **85 manifiestos finitos bilingües · I–LXXXV + Manifiesto ∞ / 85 finite bilingual manifestos · I–LXXXV + Manifesto ∞**  
-**Fecha de fijación de esta frontera / Frontier fixation date:** 2026-08-30
+**Frontera canónica vigente / Current canonical frontier:** **86 manifiestos finitos bilingües · I–LXXXVI + Manifiesto ∞ / 86 finite bilingual manifestos · I–LXXXVI + Manifesto ∞**  
+**Fecha de fijación de esta frontera / Frontier fixation date:** 2026-09-06
 
 <!-- NEO_CROSS_REFERENCE_POLICY_START -->
 
