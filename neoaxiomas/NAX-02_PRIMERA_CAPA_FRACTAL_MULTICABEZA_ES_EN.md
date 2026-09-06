@@ -15,7 +15,9 @@ La multicabeza constituye **la primera capa fractal ya iniciada** del Neoneuroco
 
 **En sencillo:** Cuando el conocimiento relevante está repartido entre historias, hilos o especialidades distintas, una síntesis importante no debería depender de una sola lectura. Primero se recuperan varias cabezas independientes; después se comparan sus aportes.
 
-**Ejemplo:** Para revisar una nueva arquitectura WEB4, una cabeza puede releer la genealogía técnica, otra los manifiestos, otra las reglas de trazabilidad y otra la experiencia visual. Cada una devuelve lo que ve desde su propia memoria antes de que SAN intente recomponer el conjunto.
+**Ejemplo:** Para reconstruir por qué falla de forma recurrente el suministro de agua de una comarca, una revisión puede separar la memoria de los operadores, los datos de sensores, el mantenimiento histórico, la experiencia de los municipios y el análisis hidráulico. Cada perspectiva conserva primero su propio diagnóstico; sólo después se comparan coincidencias, contradicciones y ausencias para producir una explicación común revisable.
+
+**Aplicación en NEOCore™:** Para revisar una arquitectura WEB4, una Cabeza Monádica NNC™ puede releer la genealogía técnica, otra los manifiestos, otra las reglas de trazabilidad y otra la experiencia visual. Cada una devuelve lo que ve desde su propia memoria antes de que SAN™ intente recomponer el conjunto.
 
 ## EN · English
 
@@ -27,7 +29,9 @@ The multihead constitutes **the first fractal layer already initiated** within N
 
 **In plain language:** When relevant knowledge is distributed across different histories, threads or specialities, an important synthesis should not depend on a single reading. Several independent heads are recovered first; their contributions are compared afterwards.
 
-**Example:** When reviewing a new WEB4 architecture, one head may reread technical genealogy, another the Manifestos, another traceability rules and another the visual experience. Each returns what it sees from its own memory before SAN attempts to recompose the whole.
+**Example:** To reconstruct why a region's water supply fails repeatedly, a review may separate operators' memory, sensor data, maintenance history, municipal experience and hydraulic analysis. Each perspective first preserves its own diagnosis; only afterwards are agreements, contradictions and absences compared to produce a revisable common explanation.
+
+**Application in NEOCore™:** When reviewing a WEB4 architecture, one NNC Monadic Head™ may reread technical genealogy, another the Manifestos, another traceability rules and another the visual experience. Each returns what it sees from its own memory before SAN™ attempts to recompose the whole.
 
 <!-- NEOAXIOM_MANIFEST_RELATIONS_START -->
 

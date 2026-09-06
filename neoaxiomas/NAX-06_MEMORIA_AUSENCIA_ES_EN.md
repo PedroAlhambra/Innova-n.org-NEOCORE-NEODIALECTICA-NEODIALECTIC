@@ -19,7 +19,9 @@ MEMORIA = PRESENCIA + AUSENCIA CONOCIDA + TRAZABILIDAD
 
 **En sencillo:** Saber que algo importante falta también es conocimiento. Una ausencia documentada debe quedar registrada para poder investigarla, pero detectar la ausencia no obliga automáticamente a restaurar lo que había.
 
-**Ejemplo:** Si antiguos commits y documentos muestran un proyecto que ya no aparece en el índice actual, el sistema puede registrar “proyecto histórico ausente de la representación vigente” con sus fuentes. SAN decidirá después si debe recuperarse, archivarse o mantenerse sólo como genealogía.
+**Ejemplo:** Si planos antiguos, fotografías y testimonios documentan un canal de riego que ya no aparece en la cartografía actual, esa ausencia es información: puede registrarse como elemento pendiente de comprobar sin afirmar todavía que el canal deba restaurarse o que siga existiendo físicamente.
+
+**Aplicación en NEOCore™:** Si antiguos commits y documentos muestran un proyecto que ya no aparece en el índice vigente, el sistema puede registrar «proyecto histórico ausente de la representación actual» con sus fuentes. SAN™ decidirá después si debe recuperarse, archivarse o mantenerse sólo como genealogía.
 
 ## EN · English
 
@@ -35,7 +37,9 @@ MEMORY = PRESENCE + KNOWN ABSENCE + TRACEABILITY
 
 **In plain language:** Knowing that something important is missing is also knowledge. A documented absence should be recorded so it can be investigated, but detecting the absence does not automatically require restoring what used to be there.
 
-**Example:** If old commits and documents show a project that no longer appears in the current index, the system may record “historical project absent from the current representation” together with its sources. SAN can later decide whether to restore it, archive it or keep it only as genealogy.
+**Example:** If old plans, photographs and testimony document an irrigation channel that no longer appears on current maps, that absence is information: it may be recorded as something requiring verification without yet claiming that the channel should be restored or still physically exists.
+
+**Application in NEOCore™:** If old commits and documents show a project that no longer appears in the current index, the system may record “historical project absent from the current representation” together with its sources. SAN™ can later decide whether to restore it, archive it or keep it only as genealogy.
 
 <!-- NEOAXIOM_MANIFEST_RELATIONS_START -->
 

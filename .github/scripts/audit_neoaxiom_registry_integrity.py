@@ -92,7 +92,12 @@ def main():
 
     source_candidates = {}
     for path in sorted(SOURCE_DIR.glob('*C_NAX_*_ES_EN.md')):
-        match = re.search(r'^#\s+C-NAX-(\d+)\s+·', path.read_text(encoding='utf-8', errors='replace'), re.M)
+        source_text = path.read_text(encoding='utf-8', errors='replace')
+        match = re.search(r'^#\s+C-NAX-(\d+)\s+·', source_text, re.M)
+        if not match:
+            # Candidate extensions such as EXTENSION_C_NAX_20 are also depth-bearing
+            # source documents and must not disappear from the primary C-NAX page.
+            match = re.search(r'C_NAX_(\d+)', path.name)
         if match:
             source_candidates[int(match.group(1))] = path
     frontier_ids = set(candidate_ids) | set(source_candidates)
@@ -109,6 +114,42 @@ def main():
     for number, paths in sorted(candidates.items()):
         if len(paths) == 1:
             validate_document(paths[0], f'C-NAX-{number}', True, problems)
+
+    # Source-backed candidates must not be compressed when copied into neoaxiomas/.
+    # The target may adapt navigation and add material, but it must preserve at least
+    # the structural depth already published in its dedicated source document.
+    generic_source_headings = {
+        'en sencillo', 'ejemplo', 'in plain language', 'example',
+    }
+    for number, source in sorted(source_candidates.items()):
+        paths = candidates.get(number, [])
+        if len(paths) != 1:
+            continue
+        target = paths[0]
+        source_text = source.read_text(encoding='utf-8', errors='replace')
+        target_text = target.read_text(encoding='utf-8', errors='replace')
+        source_size = len(re.sub(r'\s+', '', source_text))
+        target_size = len(re.sub(r'\s+', '', target_text))
+        if source_size and target_size < int(source_size * 0.85):
+            problems.append(
+                f'NEOAXIOM_SOURCE_DEPTH_FAILURE: C-NAX-{number} conserva sólo '
+                f'{target_size/source_size:.0%} del volumen estructural de {source.name}'
+            )
+        source_fences = source_text.count('```')
+        target_fences = target_text.count('```')
+        if target_fences < source_fences:
+            problems.append(
+                f'NEOAXIOM_SOURCE_DEPTH_FAILURE: C-NAX-{number} pierde bloques estructurales/código '
+                f'frente a {source.name}: {target_fences} < {source_fences}'
+            )
+        for heading in re.findall(r'^###\s+(.+?)\s*$', source_text, re.M):
+            if heading.strip().lower() in generic_source_headings:
+                continue
+            if not re.search(r'^###\s+' + re.escape(heading.strip()) + r'\s*$', target_text, re.M):
+                problems.append(
+                    f'NEOAXIOM_SOURCE_DEPTH_FAILURE: C-NAX-{number} pierde la sección «{heading.strip()}» '
+                    f'de {source.name}'
+                )
 
     # README is a navigable index, never the monolithic doctrinal source.
     if 'README = ÍNDICE' not in readme or 'README = INDEX' not in readme:
@@ -168,7 +209,7 @@ def main():
         '# Auditoría de integridad documental neoaxiomática ES/EN',
         '# Neoaxiomatic ES/EN document integrity audit',
         '',
-        '**Fecha / Date:** 2026-08-30',
+        '**Fecha / Date:** 2026-09-06',
         f'**Estado / Status:** **{status}**',
         f'**Frontera dinámica / Dynamic frontier:** **{frontier}**',
         '',

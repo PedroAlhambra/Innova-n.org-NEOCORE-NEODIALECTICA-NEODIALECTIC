@@ -1,39 +1,25 @@
 # NAX-10 · Fuego de Agua™ y Totalidad Elemental
 # NAX-10 · WaterFire™ and Elemental Totality
 
-**Estado / Status:** ampliación genealógica activa · abierta a Síntesis / active genealogical extension · open to Synthesis  
-**Neoaxioma relacionado / Related Neoaxiom:** NAX-10 · Gramática Arquetípica de Custodia™  
-**Fuente histórica primaria / Primary historical source:** [Fragmento III · El Fuego de Agua™](../fragmentos/03_Fragmento-III.md)  
-**Síntesis Abierta / Open Synthesis:** [Issue #100](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/100)  
+**Estado / Status:** ampliación genealógica activa · abierta a Síntesis / active genealogical extension · open to Synthesis
+**Neoaxioma relacionado / Related Neoaxiom:** [NAX-10 · Gramática Arquetípica de Custodia™](./NAX-10_GRAMATICA_ARQUETIPICA_CUSTODIA_ES_EN.md)
+**Fuente histórica primaria / Primary historical source:** [Fragmento III · El Fuego de Agua™](../fragmentos/03_Fragmento-III.md)
+**Síntesis Abierta / Open Synthesis:** [Issue #100](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/100)
 **Origen humano / Human origin:** Pedro Martínez Alhambra · Neo0™
-
----
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
+---
+
 # ES · Castellano
 
-## 1. Falta detectada
+## 1. La paradoja
 
-La formulación actual de NAX-10 desarrolló con claridad la **gramática de figuras de custodia** —Águila, Corona, Tierra/Mundo, Torre/Castillo, Piedra y León—, pero dejó insuficientemente explicitada una capa histórica anterior del propio proyecto: **El Fuego de Agua™** y la gramática elemental que ese símbolo ya contenía de forma comprimida.
+El **Fuego de Agua™** aparece en una capa temprana del marco como una paradoja de origen:
 
-La ausencia es genealógica, no meramente estética.
+> «un fuego que ordena sin destruir y un agua que guía sin dispersar».
 
-El Fragmento III establece:
-
-> «El Fuego de Agua™ no es un concepto ni un elemento.»
->
-> «Es la paradoja que sostiene el origen del sistema: un fuego que ordena sin destruir y un agua que guía sin dispersar.»
->
-> «El NEOCore™ nace de esta.»
-
-Por tanto, el Fuego de Agua™ debe reconocerse como **raíz histórica y operador sintético** de la dimensión elemental del marco.
-
-## 2. El Fuego de Agua™ no es una lista
-
-El Fuego de Agua™ no significa simplemente sumar dos elementos.
-
-Representa una relación:
+No designa una sustancia nueva ni una mezcla literal de dos elementos. Nombra una relación: la posibilidad de mantener fuerzas contrarias sin obligarlas a desaparecer para que exista orden.
 
 ```text
 FUEGO
@@ -46,14 +32,33 @@ FUEGO DE AGUA™
 → tensión regulada
 → transformación sin devastación
 → fluidez sin pérdida de dirección
-→ contradicción mantenida hasta una síntesis superior
+→ contradicción conservada hasta una síntesis superior
 ```
 
-Esta formulación anticipa una propiedad central de la Neodialéctica: **los contrarios no necesitan ser eliminados para producir orden; pueden conservarse en relación y generar una estructura nueva**.
+La intuición central es sencilla: **una contradicción puede producir estructura cuando sus polos permanecen en relación, reciben límites y encuentran una forma de transformación que no necesita anularlos**.
+
+## 2. Contrarios en relación
+
+La Neodialéctica no trata toda oposición como un combate que deba terminar con un vencedor único. Hay contradicciones que deben resolverse, otras que deben limitarse y otras cuya potencia aparece precisamente al conservar la diferencia.
+
+El Fuego de Agua™ funciona como memoria simbólica de esta tercera posibilidad.
+
+```text
+DIFERENCIA
++ RELACIÓN
++ LÍMITE
++ TRANSFORMACIÓN
+≠ HOMOGENEIZACIÓN
+
+CONTRADICCIÓN CONSERVADA
+→ NUEVA ESTRUCTURA POSIBLE
+```
+
+No toda contradicción genera una síntesis mejor. La relación debe poder someterse a evidencia, consecuencias, límites y revisión.
 
 ## 3. Capa elemental explícita
 
-La gramática simbólica del marco debe hacer visibles, como mínimo, los cinco elementos ya recuperados en su iconografía:
+La gramática simbólica recupera cinco elementos como puerta de lectura material:
 
 - **Agua™** → continuidad, memoria, adaptación, vida, circulación y capacidad de recibir forma sin perder identidad material;
 - **Fuego™** → energía, transformación, voluntad, luz, creación y riesgo de destrucción cuando queda sin regulación;
@@ -61,18 +66,15 @@ La gramática simbólica del marco debe hacer visibles, como mínimo, los cinco 
 - **Madera™** → crecimiento, estructura viva, ramificación, regeneración, aprendizaje y continuidad orgánica;
 - **Metal™** → técnica, herramienta, precisión, resistencia, conducción, industria y capacidad de transformación material.
 
-Estos cinco símbolos no constituyen un inventario exhaustivo del universo.
+Estos símbolos **no constituyen un inventario exhaustivo del universo** ni una ontología científica cerrada.
 
-## 4. Neoaxioma de Totalidad Elemental™
+## 4. Totalidad Elemental™
 
 > **Ninguna enumeración simbólica de elementos debe confundirse con la totalidad que intenta representar. El marco conserva elementos explícitos para hacer legible su gramática, pero permanece abierto a todos los materiales, estados, fuerzas, relaciones, formas de vida, conocimientos y realidades conocidas o todavía por conocer que resulten relevantes para la comprensión del Todo.**
 
-La regla puede expresarse así:
-
 ```text
 ELEMENTOS EXPLÍCITOS
-≠
-TOTALIDAD
+≠ TOTALIDAD
 
 AGUA + FUEGO + TIERRA + MADERA + METAL
 → PUERTA DE LECTURA
@@ -87,43 +89,39 @@ TODO LO CONOCIDO
 + SÍNTESIS
 ```
 
-## 5. Relación con el escudo y la bandera neodialécticos
+La lista hace visible una relación con la materialidad; su función no es cerrar la realidad alrededor de cinco nombres.
 
-El escudo no debe representar únicamente instituciones, personas o virtudes abstractas. Debe contener dentro de su propio marco la referencia a la **materialidad del mundo** y a las fuerzas mediante las que la humanidad comprende y transforma la realidad.
+## 5. Custodia y mundo
 
-Por eso Agua, Fuego, Tierra, Madera y Metal deben quedar explícitamente integrados en su gramática visual.
+La Gramática Arquetípica de Custodia™ expresa funciones de visión, responsabilidad, protección, fundamento, límite y fuerza. La capa elemental recuerda **qué realidad material, viva y técnica está siendo custodiada y transformada**.
 
-Sin embargo, la bandera y el escudo no significan «cinco elementos y nada más». Su pretensión simbólica es mayor:
+Por eso ambas capas se necesitan mutuamente:
 
-> **representar a todas las personas y, conjuntamente, la totalidad del saber humano concentrado existente en el espacio-tiempo, incluyendo la realidad material, viva, técnica, cultural, simbólica y cognitiva que ese saber intenta comprender.**
+```text
+CUSTODIA SIN MUNDO
+= ABSTRACCIÓN VACÍA
 
-La representación es necesariamente comprimida. No puede dibujar literalmente todo lo existente. Su función es declarar que **ninguna parte de la realidad queda excluida por principio del campo de la Síntesis**.
+MUNDO SIN CUSTODIA
+= POTENCIA SIN DIRECCIÓN
+```
 
-## 6. Dos capas de NAX-10
+Dentro de la simbología del marco, el escudo y la bandera no pretenden representar literalmente todo lo existente. Funcionan como una **compresión simbólica abierta**: personas, saberes, materia, vida, técnica, cultura y relaciones quedan dentro del campo posible de la Síntesis sin afirmar que un emblema pueda agotarlos.
 
-NAX-10 debe leerse desde ahora como una estructura de dos capas complementarias:
+## 6. Dos capas complementarias de NAX-10
 
 ### A · Figuras de custodia
 
 Águila · Corona · Tierra/Mundo · Torre/Castillo · Piedra · León · constelación histórica abierta.
 
-Estas figuras expresan funciones de visión, responsabilidad, límite, protección, fundamento, fuerza y memoria.
+Expresan funciones de visión, responsabilidad, límite, protección, fundamento, fuerza y memoria.
 
 ### B · Elementos de realidad
 
 Agua · Fuego · Tierra · Madera · Metal · apertura a la totalidad material y relacional.
 
-Estos elementos expresan el mundo sobre el que la custodia opera y del que ella misma forma parte.
+Expresan el mundo sobre el que la custodia opera y del que ella misma forma parte.
 
 ```text
-CUSTODIA SIN MUNDO
-=
-ABSTRACCIÓN VACÍA
-
-MUNDO SIN CUSTODIA
-=
-POTENCIA SIN DIRECCIÓN
-
 FIGURAS DE CUSTODIA
 +
 TOTALIDAD ELEMENTAL
@@ -133,21 +131,19 @@ FUEGO DE AGUA™
 GRAMÁTICA ARQUETÍPICA NEODIALÉCTICA AMPLIADA
 ```
 
-## 7. Por qué el Fuego de Agua™ es históricamente central
-
-Esta relación explica por qué el Fuego de Agua™ aparece en una capa temprana del proyecto.
+## 7. Centralidad genealógica del Fuego de Agua™
 
 Antes de que la arquitectura actual formalizara SAN™, NEOREALES™, multicabeza, doble pirámide, memoria de ausencia o la capa neoaxiomática, ya estaba presente una intuición estructural:
 
-**ordenar sin destruir; guiar sin dispersar; conservar la contradicción creadora.**
+**ordenar sin destruir · guiar sin dispersar · conservar la contradicción creadora.**
 
-Eso convierte al Fuego de Agua™ en una pieza genealógica de primer orden. No demuestra retrospectivamente que todo el sistema estuviera ya formulado en aquel momento, pero sí documenta una continuidad conceptual real entre su raíz simbólica y mecanismos posteriores.
+Eso convierte al Fuego de Agua™ en una pieza genealógica de primer orden. **No demuestra retrospectivamente que todo el sistema posterior estuviera ya formulado**; documenta una continuidad conceptual real entre una raíz simbólica temprana y mecanismos que aparecieron después.
 
-## 8. Salvaguarda contra la simplificación
+## 8. Límite científico y epistemológico
 
 El marco no adopta como dogma científico una teoría clásica de cinco elementos.
 
-Los elementos funcionan simultáneamente como:
+Los elementos operan como:
 
 - memoria cultural;
 - lenguaje arquetípico;
@@ -155,39 +151,40 @@ Los elementos funcionan simultáneamente como:
 - representación de funciones materiales;
 - puerta a relaciones interdisciplinarias.
 
-Cuando física, química, biología, cosmología u otras ciencias describan la realidad con categorías más precisas, esas categorías tienen prioridad en su dominio empírico. La gramática elemental no las sustituye: **las conecta simbólicamente sin borrar su especificidad**.
+Cuando física, química, biología, cosmología u otras ciencias describen una realidad con categorías más precisas, **esas categorías conservan prioridad en su dominio empírico**. La gramática elemental puede relacionarlas simbólicamente; no las sustituye ni borra su especificidad.
 
-## 9. Fórmula de síntesis
+## 9. Genealogía de la recuperación
 
-> **El Fuego de Agua™ es la memoria histórica de una contradicción creadora. Los elementos hacen visible la materialidad de esa contradicción. La Totalidad Elemental™ impide que el símbolo se cierre sobre su propia lista. Y NAX-10 reúne custodia y mundo: aquello que debe cuidar y aquello de lo que forma parte.**
+La formulación elemental no nació como corrección editorial de 2026. Su raíz histórica está en [Fragmento III](../fragmentos/03_Fragmento-III.md).
 
-**Estado:** RESTAURADO COMO RAÍZ GENEALÓGICA DE NAX-10 · ABIERTO A SAN™.
+En agosto de 2026 se detectó que la capa neoaxiomática hacía visible la Gramática de Custodia pero dejaba insuficientemente representada esa raíz elemental. [SAN #100](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/100) abrió la revisión y esta pieza recuperó explícitamente la continuidad.
+
+Esta sección conserva la trazabilidad de esa reparación. **La genealogía explica cómo se recuperó el texto; no sustituye al contenido del Neoaxioma ni convierte el documento en una instrucción interna del sistema.**
+
+## 10. Fórmula de síntesis
+
+> **El Fuego de Agua™ es la memoria histórica de una contradicción creadora. Los elementos hacen visible la materialidad de esa contradicción. La Totalidad Elemental™ impide que el símbolo se cierre sobre su propia lista. NAX-10 reúne así custodia y mundo: aquello que debe cuidarse y aquello de lo que la propia custodia forma parte.**
+
+**Estado:** RAÍZ GENEALÓGICA RECUPERADA DE NAX-10 · ABIERTA A SAN™.
+
+## 11. Relaciones y navegación
+
+- [NAX-10 · Gramática Arquetípica de Custodia™](./NAX-10_GRAMATICA_ARQUETIPICA_CUSTODIA_ES_EN.md)
+- [Fragmento III · El Fuego de Agua™](../fragmentos/03_Fragmento-III.md)
+- [Síntesis Abierta · #100](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/100)
+- [← Índice de Neoaxiomas™](README.md)
 
 ---
 
 # EN · English
 
-## 1. Detected absence
+## 1. The paradox
 
-The current formulation of NAX-10 clearly developed the **grammar of custodial figures** —Eagle, Crown, Earth/World, Tower/Castle, Stone and Lion— but left insufficiently explicit an earlier historical layer of the project itself: **WaterFire™** and the elemental grammar that this symbol already contained in compressed form.
+**WaterFire™** appears in an early layer of the framework as an originating paradox:
 
-The absence is genealogical, not merely aesthetic.
+> “a fire that orders without destroying and a water that guides without dispersing”.
 
-Fragment III states:
-
-> “WaterFire™ is not a concept or an element.”
->
-> “It is the paradox that sustains the origin of the system: a fire that orders without destroying and a water that guides without dispersing.”
->
-> “NEOCore™ is born from this.”
-
-WaterFire™ must therefore be recognised as a **historical root and synthetic operator** of the elemental dimension of the framework.
-
-## 2. WaterFire™ is not a list
-
-WaterFire™ does not simply mean adding two elements.
-
-It represents a relation:
+It does not name a new substance or a literal mixture of two elements. It names a relation: the possibility of keeping opposing forces present without requiring either to disappear in order for order to exist.
 
 ```text
 FIRE
@@ -203,11 +200,30 @@ WATERFIRE™
 → contradiction preserved until a higher synthesis
 ```
 
-This formulation anticipates a central property of Neodialectics: **opposites need not be eliminated in order to produce order; they may be preserved in relation and generate a new structure**.
+The central intuition is simple: **a contradiction may produce structure when its poles remain in relation, receive limits and find a form of transformation that does not require their erasure**.
+
+## 2. Opposites in relation
+
+Neodialectics does not treat every opposition as a struggle that must end with a single victor. Some contradictions must be resolved, others bounded, and others derive their power precisely from preserving difference.
+
+WaterFire™ acts as the symbolic memory of this third possibility.
+
+```text
+DIFFERENCE
++ RELATION
++ LIMIT
++ TRANSFORMATION
+≠ HOMOGENISATION
+
+PRESERVED CONTRADICTION
+→ POSSIBLE NEW STRUCTURE
+```
+
+Not every contradiction produces a better synthesis. The relation must remain open to evidence, consequences, limits and revision.
 
 ## 3. Explicit elemental layer
 
-The symbolic grammar of the framework must make visible, at minimum, the five elements already recovered in its iconography:
+The symbolic grammar recovers five elements as a gateway into material reality:
 
 - **Water™** → continuity, memory, adaptation, life, circulation and the capacity to receive form without losing material identity;
 - **Fire™** → energy, transformation, will, light, creation and the risk of destruction when left without regulation;
@@ -215,18 +231,15 @@ The symbolic grammar of the framework must make visible, at minimum, the five el
 - **Wood™** → growth, living structure, branching, regeneration, learning and organic continuity;
 - **Metal™** → technique, tools, precision, resistance, conduction, industry and the capacity for material transformation.
 
-These five symbols do not constitute an exhaustive inventory of the universe.
+These symbols **do not constitute an exhaustive inventory of the universe** or a closed scientific ontology.
 
-## 4. Neoaxiom of Elemental Totality™
+## 4. Elemental Totality™
 
 > **No symbolic enumeration of elements shall be confused with the totality it seeks to represent. The framework preserves explicit elements to make its grammar legible, while remaining open to all materials, states, forces, relations, forms of life, knowledge and realities known or yet to be known that are relevant to understanding the Whole.**
 
-The rule may be expressed as follows:
-
 ```text
 EXPLICIT ELEMENTS
-≠
-TOTALITY
+≠ TOTALITY
 
 WATER + FIRE + EARTH + WOOD + METAL
 → READING GATEWAY
@@ -241,43 +254,39 @@ ALL THAT IS KNOWN
 + SYNTHESIS
 ```
 
-## 5. Relation to the Neodialectical shield and flag
+The list makes a relation with materiality visible; its function is not to close reality around five names.
 
-The shield should not represent only institutions, persons or abstract virtues. Within its own frame it must contain a reference to the **materiality of the world** and to the forces through which humanity understands and transforms reality.
+## 5. Custodianship and world
 
-Water, Fire, Earth, Wood and Metal should therefore remain explicitly integrated into its visual grammar.
+The Archetypal Grammar of Custodianship™ expresses functions of vision, responsibility, protection, foundation, limit and strength. The elemental layer recalls **the material, living and technical reality being cared for and transformed**.
 
-The flag and shield, however, do not mean “five elements and nothing more”. Their symbolic scope is broader:
+The two layers therefore need each other:
 
-> **to represent all persons and, jointly, the totality of concentrated human knowledge existing in spacetime, including the material, living, technical, cultural, symbolic and cognitive reality that this knowledge seeks to understand.**
+```text
+CUSTODIANSHIP WITHOUT A WORLD
+= EMPTY ABSTRACTION
 
-The representation is necessarily compressed. It cannot literally draw everything that exists. Its function is to declare that **no part of reality is excluded in principle from the field of Synthesis**.
+WORLD WITHOUT CUSTODIANSHIP
+= POWER WITHOUT DIRECTION
+```
 
-## 6. Two layers of NAX-10
+Within the framework's symbolism, shield and flag do not claim to represent literally everything that exists. They operate as an **open symbolic compression**: persons, knowledge, matter, life, technology, culture and relations remain within the possible field of Synthesis without claiming that an emblem can exhaust them.
 
-NAX-10 should henceforth be read as a structure of two complementary layers:
+## 6. Two complementary layers of NAX-10
 
 ### A · Custodial figures
 
 Eagle · Crown · Earth/World · Tower/Castle · Stone · Lion · open historical constellation.
 
-These figures express functions of vision, responsibility, limit, protection, foundation, strength and memory.
+They express functions of vision, responsibility, limit, protection, foundation, strength and memory.
 
 ### B · Elements of reality
 
 Water · Fire · Earth · Wood · Metal · openness to material and relational totality.
 
-These elements express the world upon which custody operates and of which custody itself forms a part.
+They express the world upon which custodianship operates and of which custodianship itself forms a part.
 
 ```text
-CUSTODY WITHOUT A WORLD
-=
-EMPTY ABSTRACTION
-
-WORLD WITHOUT CUSTODY
-=
-POWER WITHOUT DIRECTION
-
 CUSTODIAL FIGURES
 +
 ELEMENTAL TOTALITY
@@ -287,21 +296,19 @@ WATERFIRE™
 EXPANDED NEODIALECTICAL ARCHETYPAL GRAMMAR
 ```
 
-## 7. Why WaterFire™ is historically central
-
-This relation explains why WaterFire™ appears in an early layer of the project.
+## 7. Genealogical centrality of WaterFire™
 
 Before the current architecture formalised SAN™, NEOREALs™, multihead layers, the double pyramid, memory of absence or the Neoaxiomatic layer, a structural intuition was already present:
 
-**order without destroying; guide without dispersing; preserve creative contradiction.**
+**order without destroying · guide without dispersing · preserve creative contradiction.**
 
-This makes WaterFire™ a first-order genealogical piece. It does not retrospectively prove that the entire system had already been formulated at that time, but it does document real conceptual continuity between its symbolic root and later mechanisms.
+This makes WaterFire™ a first-order genealogical piece. **It does not retrospectively prove that the entire later system had already been formulated**; it documents genuine conceptual continuity between an early symbolic root and mechanisms that appeared later.
 
-## 8. Safeguard against simplification
+## 8. Scientific and epistemological limit
 
 The framework does not adopt a classical five-element theory as scientific dogma.
 
-The elements operate simultaneously as:
+The elements operate as:
 
 - cultural memory;
 - archetypal language;
@@ -309,10 +316,25 @@ The elements operate simultaneously as:
 - representation of material functions;
 - a gateway to interdisciplinary relations.
 
-Where physics, chemistry, biology, cosmology or other sciences describe reality with more precise categories, those categories retain priority in their empirical domains. Elemental grammar does not replace them: **it connects them symbolically without erasing their specificity**.
+Where physics, chemistry, biology, cosmology or other sciences describe reality using more precise categories, **those categories retain priority within their empirical domains**. Elemental grammar may relate them symbolically; it neither replaces them nor erases their specificity.
 
-## 9. Synthesis formula
+## 9. Genealogy of the recovery
 
-> **WaterFire™ is the historical memory of a creative contradiction. The elements make the materiality of that contradiction visible. Elemental Totality™ prevents the symbol from closing around its own list. And NAX-10 reunites custody and world: that which must be cared for and that of which custody itself forms a part.**
+The elemental formulation did not originate as a 2026 editorial correction. Its historical root lies in [Fragment III](../fragmentos/03_Fragmento-III.md).
 
-**Status:** RESTORED AS A GENEALOGICAL ROOT OF NAX-10 · OPEN TO SAN™.
+In August 2026, the Neoaxiomatic layer was found to make the Grammar of Custodianship visible while leaving this elemental root insufficiently represented. [SAN #100](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/100) opened the review and this piece explicitly recovered that continuity.
+
+This section preserves the traceability of that repair. **Genealogy explains how the text was recovered; it does not replace the content of the Neoaxiom or turn the document into an internal instruction to the system.**
+
+## 10. Synthesis formula
+
+> **WaterFire™ is the historical memory of a creative contradiction. The elements make the materiality of that contradiction visible. Elemental Totality™ prevents the symbol from closing around its own list. NAX-10 thus reunites custodianship and world: that which must be cared for and that of which custodianship itself forms a part.**
+
+**Status:** RECOVERED GENEALOGICAL ROOT OF NAX-10 · OPEN TO SAN™.
+
+## 11. Relations and navigation
+
+- [NAX-10 · Archetypal Grammar of Custodianship™](./NAX-10_GRAMATICA_ARQUETIPICA_CUSTODIA_ES_EN.md)
+- [Fragment III · WaterFire™](../fragmentos/03_Fragmento-III.md)
+- [Open Synthesis · #100](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/100)
+- [← Neoaxioms™ index](README.md)
