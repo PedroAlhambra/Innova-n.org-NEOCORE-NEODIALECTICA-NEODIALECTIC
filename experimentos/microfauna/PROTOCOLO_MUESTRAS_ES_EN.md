@@ -3,6 +3,8 @@
 
 **Origen histórico / Historical origin:** `investigacion/microfauna-muestras-2026-08-09` · integrado en `main` 2026-09-01.
 
+[ES · Castellano](#es--protocolo-mínimo) · [EN · English](#en--minimum-protocol)
+
 ## ES · Protocolo mínimo
 
 Para cada muestra:
@@ -31,22 +33,22 @@ Para cada muestra:
 
 For every sample:
 
-1. Assign a unique ID: `M###_YYYY-MM-DD`.
-2. Record discovery context: date, approximate time, location, indoors/outdoors and substrate.
-3. Preserve untouched original photographs.
-4. Repeat images with a millimetre scale or known reference.
-5. Under a stereomicroscope, record magnification, illumination and orientation; capture dorsal, ventral and lateral views when possible.
-6. If alive, record movement before preservation.
-7. Begin optical microscopy at low magnification and document objective/eyepiece; avoid destructive treatment of a unique specimen.
-8. Record observable structures without interpreting them prematurely.
-9. Preserve rival hypotheses: biological, environmental residue, ordinary artificial material and unidentified structure.
-10. Escalate to SEM/EDS, Raman, FTIR or equivalent only when optical observation cannot discriminate the sample and there is sufficient reason.
+1. **Unique ID:** `M###_YYYY-MM-DD`.
+2. **Discovery context:** date, approximate time, location, indoors/outdoors, substrate (clothing, hair, skin, animal, object, soil, air, water, etc.).
+3. **Original photograph:** preserve it without cropping or retouching.
+4. **Scale:** repeat the photograph beside a millimetre ruler or another known scale.
+5. **Stereomicroscope:** record magnification, illumination and orientation; obtain dorsal, ventral and lateral views when possible.
+6. **Movement:** if the specimen is alive, record video before immobilising or preserving it.
+7. **Optical microscopy:** begin at low magnification and document objective/eyepiece; do not use oil or destructive treatments on a unique specimen.
+8. **Features:** record legs, antennae, segmentation, wings, setae/hairs, eyes, mouthparts, symmetry, fibres, crystals, manufactured surfaces or other observable features.
+9. **Rival hypotheses:** retain at least biological, environmental residue, ordinary artificial material and unidentified while the data do not discriminate among them.
+10. **Instrumental escalation:** use SEM/EDS, Raman, FTIR or other techniques only when optical microscopy cannot resolve the nature of the sample and there is sufficient reason.
 
 ### Language rule
 
-- `OBSERVED`: directly visible or measured.
-- `INFERRED`: interpretation supported by observations.
-- `HYPOTHESIS`: explanation awaiting contrast.
-- `RULED OUT`: only after sufficient contradictory evidence.
+- `OBSERVED`: what is directly visible or measured.
+- `INFERRED`: interpretation supported by the data.
+- `HYPOTHESIS`: explanation awaiting scrutiny.
+- `RULED OUT`: only when an observation or measurement sufficiently contradicts the hypothesis.
 
-A visible object is not identified as a nanomachine from morphology alone. Any extraordinary artificial-technology hypothesis requires reproducible structural and material evidence.
+**Do not use “nanomachine” as a morphological identification of a visible object.** If a visible structure raised a hypothesis of artificial technology, it should first be described as an `unidentified structure`, and material and structural characterisation should be required before attributing function or manufacture.
