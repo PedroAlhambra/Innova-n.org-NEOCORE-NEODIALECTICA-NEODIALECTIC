@@ -4,6 +4,8 @@
 **Recuperación:** 2026-09-01 desde la rama `sintesis-aportes-tokenizados`.  
 **No es:** runtime vivo, token económico, ranking humano ni promoción automática de WEB4™.
 
+[ES · Castellano](#es) · [EN · English](#en)
+
 ## ES
 
 Esta carpeta recupera una implementación histórica que había quedado aislada en una rama: la transición desde el modelo plano `aporte → persona → token` hacia **eventos multirrol y créditos de función**.
