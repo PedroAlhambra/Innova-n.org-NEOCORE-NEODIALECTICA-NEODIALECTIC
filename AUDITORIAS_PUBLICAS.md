@@ -37,6 +37,7 @@ Las Auditorías Públicas son una **capa principal** del Neodialectica Framework
 
 ## Auditoría reciente / Latest audit
 
+- **[2026-09-08 · Delta de síntesis: CZUR ET24 Pro en Linux · UVC funcional y auditoría del software oficial / Synthesis delta: CZUR ET24 Pro on Linux](./actualizaciones/2026-09-08_DELTA_SINTESIS_CZUR_ET24_PRO_LINUX_AUDITORIA_ES_EN.md)** — hardware UVC/V4L2 reproducido en Debian 13; software Linux oficial de CZUR contrastado; instalador propietario abierto a auditoría y endurecimiento.
 - [2026-08-14 · IA, escaneo destructivo, destrucción de libros y preservación cultural / AI, destructive book scanning, book destruction and cultural preservation](./auditorias/publicas/2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md)
 - [Recalculo relacionado · quejas sobre IA y arquitectura sociotécnica / Related recalculation · AI complaints and sociotechnical architecture](./analisis/publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md)
 
