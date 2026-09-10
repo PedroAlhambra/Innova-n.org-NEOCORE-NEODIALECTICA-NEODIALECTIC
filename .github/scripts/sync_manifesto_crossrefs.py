@@ -1,4 +1,5 @@
 from pathlib import Path
+import json
 import re
 
 ROOT = Path('.')
@@ -126,14 +127,38 @@ DEDICATED_SYNTHESIS = {
 }
 
 
+REGISTRY = json.loads((MAN / 'CANONICAL_FILENAMES.json').read_text(encoding='utf-8')).get('entries', {})
+
 def relation_link(ord_, label=None):
     item = catalog.get(ord_)
     if not item:
         return ord_ if label is None else f'{ord_} · {label}'
-    href = './' + item['path'].name
+    if ord_ in REGISTRY and REGISTRY[ord_].get('canonical'):
+        href = './canonicos/' + Path(REGISTRY[ord_]['canonical']).name
+    else:
+        href = './' + item['path'].name
     if label is None:
         label = display_title(item['es'], item['en'])
     return f'[{ord_} · {label.strip()}]({href})'
+
+
+def neoaxiom_link(ident):
+    candidates = sorted((ROOT / 'neoaxiomas').glob(f'{ident}_*_ES_EN.md'))
+    if len(candidates) == 1:
+        return f'[{ident}](../neoaxiomas/{candidates[0].name})'
+    return f'[{ident}](../neoaxiomas/README.md)'
+
+
+def flatten_markdown_labels(raw):
+    plain = raw
+    # Repeatedly flatten both valid and historically nested links so malformed
+    # legacy relation lines can be reconstructed from their identifiers.
+    for _ in range(8):
+        updated = re.sub(r'\[([^\[\]]+)\]\([^)]+\)', r'\1', plain)
+        if updated == plain:
+            break
+        plain = updated
+    return plain
 
 
 def normalize_relations_line(text, own_ord):
@@ -141,36 +166,23 @@ def normalize_relations_line(text, own_ord):
 
     def repl(match):
         prefix, raw = match.group(1), match.group(2).strip()
-        # Make regeneration idempotent even when links are already present.
-        plain = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', raw)
-
-        # Legacy format: XIV, XVI, XXV, …, ∞ · NAX-xx …
-        legacy_m = re.match(r'^((?:[IVXLCDM]+|∞)(?:\s*,\s*(?:[IVXLCDM]+|∞))+)(.*)$', plain)
-        if legacy_m:
-            ords = [o.strip() for o in legacy_m.group(1).split(',')]
-            suffix = legacy_m.group(2)
-            linked = ', '.join(relation_link(o) for o in ords)
-            return prefix + ' ' + linked + suffix
-
-        # Modern format: II · Title · VIII · Title · …
-        chunks = re.split(r'\s+·\s+(?=(?:[IVXLCDM]+|∞)\s*·)', plain)
-        out = []
-        seen = set()
-        for chunk in chunks:
-            chunk = chunk.strip()
-            m = re.match(r'^([IVXLCDM]+|∞)\s*·\s*(.+?)\s*$', chunk)
-            if not m:
-                if chunk:
-                    out.append(chunk)
-                continue
-            ord_, label = m.group(1), m.group(2).strip()
-            if ord_ not in catalog:
-                out.append(chunk)
-                continue
-            if ord_ in seen:
-                continue
-            seen.add(ord_)
-            out.append(relation_link(ord_, label))
+        plain = flatten_markdown_labels(raw)
+        # Relation identifiers are authoritative. Rebuild a clean, deterministic
+        # clickable line from them instead of preserving malformed legacy Markdown.
+        ords=[]
+        for m in re.finditer(r'(?<![A-Z0-9-])([IVXLCDM]+|∞)(?=\s*·)', plain):
+            ident=m.group(1)
+            if ident != own_ord and ident in catalog and ident not in ords:
+                ords.append(ident)
+        naxes=[]
+        for ident in re.findall(r'(?<![A-Z0-9-])((?:C-)?NAX-\d{2})(?![A-Z0-9-])', plain, re.I):
+            ident=ident.upper()
+            if ident not in naxes:
+                naxes.append(ident)
+        out=[relation_link(o) for o in ords]
+        out.extend(neoaxiom_link(n) for n in naxes)
+        if not out:
+            return match.group(0)
         return prefix + ' ' + ' · '.join(out)
 
     return rx.sub(repl, text)
@@ -271,7 +283,7 @@ def block_for(text, own_ord):
         ]
         if own_ord in {'LXIX', 'LXX', 'LXXI', 'LXXII'}:
             lines += [
-                '- [C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™ · #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123)',
+                '- [NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™](../neoaxiomas/NAX-19_INVIOLABILIDAD_RELACIONAL_SEPARACION_PLANOS_ES_EN.md) · [SAN #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123)',
                 '- [Delta relacional íntegro / Full relational delta](../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md)',
             ]
 

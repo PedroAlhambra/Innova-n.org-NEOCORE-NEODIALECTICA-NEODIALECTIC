@@ -2,13 +2,14 @@
 # LXXXVI · Manifesto of the Neodialectical Federation within the Network Framework™
 
 **Manifiesto / Manifesto:** LXXXVI  
+**Versión / Version:** 1.0  
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
 **Síntesis Abierta / Open Synthesis:** [#187](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/187)
 
 ---
 
-## ES · Castellano
+# ES · Castellano
 
 ### I. La corrección topológica
 
@@ -125,7 +126,7 @@ Una federación que ocultara procedencia, relaciones o competencias sería incom
 
 ### VII. La federación no es una nueva soberanía epistemológica
 
-[C-NAX-27 · Soberanía Diferenciada de Sistema y Síntesis™](../neoaxiomas/C-NAX-27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md) ya separa planos que no deben confundirse.
+[NAX-27 · Soberanía Diferenciada de Sistema y Síntesis™](../neoaxiomas/NAX-27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md) ya separa planos que no deben confundirse.
 
 La Federación Neodialéctica™ puede coordinar instituciones y nodos. No puede convertir votos, capital, tamaño, autoridad jurídica o número de miembros en verdad automática.
 
@@ -191,7 +192,7 @@ Se prueba en arquitectura, contratos, relaciones, trazabilidad, reversibilidad, 
 
 ---
 
-## EN · English
+# EN · English
 
 ### I. The topological correction
 
@@ -308,7 +309,7 @@ A federation that concealed provenance, relations or competences would be incomp
 
 ### VII. Federation is not a new epistemic sovereignty
 
-[C-NAX-27 · Differentiated Sovereignty of System and Synthesis™](../neoaxiomas/C-NAX-27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md) already separates planes that must not be conflated.
+[NAX-27 · Differentiated Sovereignty of System and Synthesis™](../neoaxiomas/NAX-27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md) already separates planes that must not be conflated.
 
 The Neodialectical Federation™ may coordinate institutions and nodes. It cannot turn votes, capital, size, legal authority or membership count into automatic truth.
 
@@ -376,25 +377,30 @@ It must be tested through architecture, contracts, relations, traceability, reve
 
 **Estado / Status:** ABIERTO A SÍNTESIS / OPEN FOR SYNTHESIS
 
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_START -->
+
+## Relaciones neoaxiomáticas recíprocas / Reciprocal Neoaxiomatic relations
+
+> **Relación documental/conceptual, no identidad ni causalidad.** Este bloque es la inversa navegable de las relaciones NAX→Manifiesto y mantiene simetría de navegación. / **Documentary/conceptual relation, not identity or causality.** This block is the navigable inverse of NAX→Manifesto relations and preserves navigational symmetry.
+
+- [NAX-29 · Federabilidad sin Absorción™ / Federability without Absorption™](../neoaxiomas/NAX-29_FEDERABILIDAD_SIN_ABSORCION_ES_EN.md)
+
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_END -->
+
 <!-- NEO_CROSS_REFERENCES_START -->
 
 ## Referencias cruzadas canónicas / Canonical cross-references
 
 > **Norma / Rule:** toda superficie relacional destinada a navegación debe usar hipervínculos reales; este bloque es un índice navegable adicional y no sustituye los enlaces de `Relaciones principales / Main relations`, Síntesis Abierta ni otras rutas explícitas. / Every relational surface intended for navigation must use real hyperlinks; this block is an additional navigable index and does not replace links in `Main relations`, Open Synthesis or other explicit routes.
 
-- [II · Síntesis Abierta Neodialéctica™ / Neodialectical Open Synthesis™](01_sintesis_abierta_neodialectica_ES_EN.md)
-- [IV · Neodialéctica™ y Bien Común / Neodialectics™ and the Common Good](02_neodialectica_bien_comun_ES_EN.md)
-- [VII · Economía del Aporte / Contribution Economy](04_economia_del_aporte_ES_EN.md)
-- [IX · Memoria, Genealogía y Trazabilidad / Memory, Genealogy and Traceability](06_memoria_genealogia_trazabilidad_ES_EN.md)
-- [X · WEB4™ · SistemaTrazable™ / WEB4™ · SistemaTrazable™](07_web4_sistematrazable_ES_EN.md)
-- [XLV · Multidimensionalidad Neodialéctica™ / Neodialectical Multidimensionality™](45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
-- [LIX · Custodia Cognitiva Distribuida™ / Distributed Cognitive Custody™](59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md)
+- **II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md)
+- **X** · [Manifiesto de WEB4™ · SistemaTrazable™ / Manifesto of WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 
-- [C-NAX-27 · Soberanía Diferenciada de Sistema y Síntesis™](../neoaxiomas/C-NAX-27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md)
-- [C-NAX-29 · Federabilidad sin Absorción™](../neoaxiomas/C-NAX-29_FEDERABILIDAD_SIN_ABSORCION_ES_EN.md)
-- [Síntesis Abierta LXXXVI · #187 / Open Synthesis LXXXVI · #187](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/187)
+- [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
 - [NEOCore™ · marco / framework](../README.md)
+
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-27` · `NAX-29` → [Neoaxiomas™](../neoaxiomas/README.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->

@@ -240,64 +240,226 @@ La respuesta pública a “¿puedo usar este escáner en Linux?” es por tanto 
 
 ## EN · English
 
-### 1. Practical answer
+### 1. Practical question
 
-**Does the CZUR ET24 Pro require a proprietary Linux “driver”?**
+**Does the CZUR ET24 Pro need a proprietary “driver” to work on Linux?**
 
-For kernel-level image capture, **not on the tested system**. The scanner enumerates as a standard USB Video Class device and Debian 13 binds it directly to the mainline `uvcvideo` driver. CZUR's proprietary package is a separate application layer providing scanning workflow, image processing, page flattening/cropping, OCR and export.
+For **kernel-level image capture, not on the tested system**. The ET24 Pro enumerates as a standard **USB Video Class (UVC)** device and Debian 13 binds it directly to `uvcvideo`. CZUR's proprietary software is a separate layer: it adds scanning workflow, processing, page flattening, cropping, OCR and export, but it is not required for Linux to recognise the camera.
+
+The correct separation is:
 
 ```text
-ET24 Pro → USB/UVC → Linux uvcvideo → V4L2 /dev/video0 → standard capture
-CZUR .deb → proprietary application/runtime/processing layer
+ET24 Pro
+→ USB/UVC
+→ Linux kernel: uvcvideo
+→ V4L2: /dev/video0
+→ standard capture available
+
+CZUR Scanner .deb
+→ proprietary application + libraries + OCR/processing + its own installation/rules
 ```
 
-### 2. Reproduced Linux evidence
+`KERNEL_DRIVER != CZUR_APPLICATION`
 
-On Debian 13 (Trixie), x86_64, the device was observed as `04fc:6333`, exposed as `QHD CAMERA: CZUR`, with `/dev/video0`, `/dev/video1` and `/dev/media0`. Video interfaces were bound to `uvcvideo`; audio interfaces to `snd-usb-audio`. `/dev/video0` exposed MJPEG/YUYV modes including 5696×4272 and 3840×2160@30 fps. The nominal 5696×4272 mode is ~24.3 MP and matches CZUR's published ET24 Pro specification of 24 MP / 320 DPI.
+### 2. Evidence reproduced on Debian 13
 
-Higher UVC modes observed up to 7424×5568 must not be treated as additional optical resolution until a controlled detail target demonstrates added information rather than firmware scaling/interpolation.
+Test environment: Debian GNU/Linux 13 (Trixie), amd64, with an xHCI USB controller exposed to the guest system. The device was detected as:
 
-### 3. Vendor support and distribution boundary
+```text
+04fc:6333 Sunplus Technology Co., Ltd Siri A9 UVC chipset
+QHD CAMERA: CZUR
+/dev/video0
+/dev/video1
+/dev/media0
+```
 
-CZUR's official ET24 Pro / ET25 Pro support page currently publishes `CZUR Scanner 1.0.20250413 for Linux`, dated 2025-12-03, about 602.18 MB, and explicitly lists **Ubuntu 20.04–24.04 x86_64** as the supported Linux environment:
+The USB tree showed two video interfaces bound to `uvcvideo` and two audio interfaces bound to `snd-usb-audio`, at 480 Mbit/s. `/dev/video0` enumerated MJPEG and YUYV formats; `/dev/video1` did not enumerate capture formats in this test.
 
-https://www.czur.com/support/et24_25pro
+Observed MJPEG modes included:
 
-The official download currently resolves to:
+```text
+5696x4272 @ 4.5 fps
+4608x3456 @ 20 fps
+3840x2160 @ 30 fps
+3072x1728 @ 30 fps
+1920x1080 @ 30 fps
+...
+7424x5568 @ 4.5 fps
+```
+
+`5696×4272 = 24.33 MP`, consistent with the ET24 Pro nominal specification. CZUR publishes a 24 MP CMOS sensor, 5696×4272 resolution and 320 DPI for this model. UVC modes observed above 24 MP are **not classified here as additional optical resolution**: they must be checked against a resolution target or fixed micro-detail to rule out firmware interpolation/scaling.
+
+### 3. Public documentation confirms Linux, with an important limitation
+
+As of 2026-09-08, CZUR's official ET24 Pro / ET25 Pro support page publishes:
+
+- `CZUR Scanner 1.0.20250413 for Linux`
+- stated date: `2025-12-03`
+- stated size: `602.18 MB`
+- system requirement: **Ubuntu 20.04 to 24.04, x86_64**
+
+Official source: https://www.czur.com/support/et24_25pro
+
+The official download linked by CZUR currently resolves to:
 
 `https://resource.czur-files.com/software/linux/differ/scanner_1.0.20250413_amd64_en_2512021.deb`
 
-Debian 13 is therefore outside the vendor's published support matrix even though its kernel-level UVC compatibility is demonstrated.
+Therefore, **Linux is supported by CZUR**, but the published support is explicitly limited to Ubuntu 20.04–24.04. Debian 13 is not listed in that matrix. This does not prevent the UVC hardware from working —as already demonstrated—, but it requires separating “kernel compatibility” from “distribution officially supported by the application”.
 
-### 4. Independent/community corroboration
+### 4. This is not an isolated case: prior Linux evidence exists
 
-A 2023 Ubuntu 22.04 review recorded the same `04fc:6333` identifier and kernel UVC detection, confirming that this is not unique to the present test:
+A public 2023 test of the ET24 Pro on Ubuntu 22.04 observed the same identifier `04fc:6333`, `Product: CZUR`, `Manufacturer: Fic` and the kernel message `Found UVC 1.00 device CZUR (04fc:6333)`. That test concluded that the device could be opened as a UVC camera with generic software, while noting limitations in the nodes/modes accessible outside the CZUR application.
 
-https://www.cnx-software.com/2023/07/23/czur-et24-pro-book-scanner-review-with-ubuntu-22-04-linux/
+Source: https://www.cnx-software.com/2023/07/23/czur-et24-pro-book-scanner-review-with-ubuntu-22-04-linux/
 
-Recent community work also exists around CZUR on Linux, including an Ubuntu/Debian wrapper and an openSUSE Distrobox approach. These are community evidence, not vendor certification:
+There is also recent community work automating the CZUR workflow on Linux and reporting tests on Ubuntu/Debian, although it depends on official software for scanner-specific functions:
 
 https://github.com/thomasbutzbach/czur-scanner-wrapper
 
+In February 2026, a community proposal also appeared to run the official package inside an Ubuntu/Distrobox container on openSUSE, specifically to isolate its dependencies and avoid introducing old libraries into the host system. This is community evidence, not manufacturer certification:
+
 https://www.reddit.com/r/openSUSE/comments/1ragshj/question_anyone_using_a_czur_et24_book_scanner/
 
-### 5. Installer audit
+### 5. Audited official package
 
-The official downloaded `.deb` observed SHA-256 is:
+File downloaded from the official link:
 
-`0b7618a390a695af151f1aa9ba8d6a1e8dd9ce922ab103ccd52a0e0a86509a91`
+```text
+scanner / CZUR Scanner
+Version: 1.0.20250413
+Architecture: amd64
+Observed size: 631433740 bytes (~603 MiB shown by ls)
+SHA-256:
+0b7618a390a695af151f1aa9ba8d6a1e8dd9ce922ab103ccd52a0e0a86509a91
+```
 
-Static inspection found broad privilege/permission operations: restarting/reloading udev, recursively setting `/opt/apps/scanner` to mode `777`, executing `czur_create` as root, iterating across home directories, and shipping udev rules that set multiple USB vendor families and serial interfaces to `0666`.
+The Debian control declares an empty `Depends:` field and contains `preinst`, `postinst`, `prerm` and `postrm` scripts. The package bundles much of its runtime: Qt/PySide2, OpenCV, IRIS/iDRS OCR, Python libraries, `cryptography`, `certifi`, `lxml`, `python-docx`, `aliyunsdkcore` components, vision models and CZUR's own libraries.
 
-This is classified as **poor hardening / REPAIR**, not as evidence of malware.
+**The presence of a networking library or SDK, including `aliyunsdkcore`, demonstrates code capability, not traffic performed.** No exfiltration, unauthorised connection or malicious behaviour has been demonstrated at this stage.
 
-The package also bundles networking/crypto-related libraries, including Aliyun SDK components. Their presence demonstrates software capability only; outbound traffic has not yet been demonstrated.
+### 6. Installer findings
 
-### 6. Open questions and provisional state
+The `preinst` iterates over users under `/home`, removes previous `.desktop` shortcuts, deletes `/etc/ld.so.conf.d/CZURPlugin.conf` and runs `ldconfig`.
 
-`czur_create` and `CzurScanner` are stripped ELF binaries. The installer references `CZURPlugin.service`, but the initial static extraction did not find that unit in the package payload. Dynamic behaviour, generated services and network activity therefore remain `NO_VERIFICADO`.
+The `postinst` performs, among other things, the following operations:
 
-**Provisional synthesis:** hardware/UVC/V4L2 = `PASS`; vendor Linux software exists = verified; Debian 13 vendor support = not declared; installer hardening = `REPAIR`; malicious behaviour = not demonstrated.
+```text
+moves temporary content to /opt
+reloads and restarts udev
+udevadm control --reload-rules
+udevadm trigger
+chmod -R 777 /opt/apps/scanner
+runs iris/bin/linux_install_idrs.sh
+runs czur_authorized/setup.sh as root
+creates/manipulates ~/.czur/ScannerInfo/config.data
+iterates over /home/* and creates desktop shortcuts
+may modify, start and enable CZURPlugin.service
+writes traces to /home/1.txt
+```
+
+The conclusion is not “malware”. The reproducible conclusion is **poor installer hardening**. In particular, `chmod -R 777 /opt/apps/scanner` makes an entire application tree world-writable even though binaries/libraries from that tree are subsequently executed; this unnecessarily increases the local substitution/manipulation surface.
+
+### 7. Overly broad udev rules
+
+The package contains `etc/udev/rules.d/czurscanner.rules` with rules such as:
+
+```udev
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="04fc", ATTRS{idProduct}=="*", MODE:="0666"
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="1e4f", ATTRS{idProduct}=="*", MODE:="0666"
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="1e4e", ATTRS{idProduct}=="*", MODE:="0666"
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="5929", ATTRS{idProduct}=="*", MODE:="0666"
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="0400", ATTRS{idProduct}=="*", MODE:="0666"
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="23a4", ATTRS{idProduct}=="*", MODE:="0666"
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="2109", ATTRS{idProduct}=="*", MODE:="0666"
+KERNEL=="ttyUSB*", ATTRS{idVendor}=="1a86", MODE:="0666"
+KERNEL=="ttyS1", MODE:="0666"
+```
+
+This grants world read/write access to entire USB vendor families and serial ports beyond the tested ET24 Pro (`04fc:6333`). Technically, it is a much broader permission policy than necessary.
+
+If a manual rule were required on another installation, a lower-privilege alternative for **this specific VID:PID** would conceptually be:
+
+```udev
+SUBSYSTEM=="usb", ATTR{idVendor}=="04fc", ATTR{idProduct}=="6333", MODE="0660", GROUP="video", TAG+="uaccess"
+```
+
+It should not be added when the system already provides sufficient ACLs/permissions; in the current test the device was already accessible through V4L2 before installing the proprietary package.
+
+### 8. Relevant scripts and binaries
+
+In the static review, `iris/bin/linux_install_idrs.sh` is limited to creating symbolic links for IRIS/iDRS runtime libraries and resources.
+
+`czur_authorized/setup.sh` is much more relevant:
+
+```sh
+#!/bin/sh
+me=$(who)
+ORIGINAL_USER=${me%% *}
+sudo ./czur_create --logname=$ORIGINAL_USER
+```
+
+Therefore, the installer grants root privileges to `czur_create`, a stripped x86-64 ELF that still requires deeper static/dynamic analysis.
+
+Observed hashes:
+
+```text
+czur_authorized/czur_create
+SHA-256 cf16915e5948fe3128605db71d039d51bc36004716e82edd35905650b1c3b6e9
+
+CzurScanner
+SHA-256 233bd777f24051b5681857aa3a66d637f0c10ce3e5bb8ca80edd70e96203142c
+```
+
+Both ELF files show the same SHA-1 BuildID `3f71fafa6e2e915b9bed491dd97e1bab785158de` in `file`, despite different SHA-256 hashes. This is preserved as a packaging/compilation anomaly to explain; **by itself it is not evidence of malicious behaviour**.
+
+The desktop launcher uses:
+
+```text
+LD_PRELOAD=./libczurusb-1.0.so
+GDK_BACKEND=x11
+./CzurScanner
+```
+
+This confirms that the application adds its own layer over USB access and forces X11 for its GUI.
+
+### 9. Still unresolved: CZURPlugin.service
+
+`postinst` contains logic to edit, start and enable `/lib/systemd/system/CZURPlugin.service` if it exists. However, in the initial static extraction of the `.deb`, **that file was not found** in the payload. It remains to determine whether:
+
+1. `czur_create` or another binary creates it during installation;
+2. it appears only in certain variants/states;
+3. it is residual installer code.
+
+Until this is resolved, that part of the behaviour is classified `NOT_VERIFIED`.
+
+### 10. Provisional synthesis
+
+| Layer | State | Evidence |
+|---|---|---|
+| ET24 Pro USB detection | **PASS** | `04fc:6333` visible |
+| Kernel driver | **PASS** | `uvcvideo` bound automatically |
+| V4L2 capture | **PASS** | `/dev/video0`, MJPEG/YUYV |
+| Nominal 24 MP resolution | **PASS** | 5696×4272 observed and published by CZUR |
+| >24 MP modes | **NOT_VERIFIED** | require optical test to rule out interpolation |
+| Official Linux software | **FACT** | CZUR publishes 1.0.20250413 |
+| Official Debian 13 support | **NOT_VERIFIED / NOT DECLARED** | CZUR specifies Ubuntu 20.04–24.04 |
+| Installer permission quality | **REPAIR** | `777` + broad udev `0666` rules |
+| `czur_create` behaviour | **NOT_VERIFIED** | stripped binary executed as root |
+| Package network traffic | **NOT_VERIFIED** | library capability ≠ demonstrated traffic |
+| Malware | **NOT DEMONSTRATED** | insufficient evidence to assert it |
+
+The public answer to “can I use this scanner on Linux?” is therefore more precise than yes/no:
+
+> **The ET24 Pro works on Linux as a standard UVC device and does not need a proprietary kernel driver for basic capture. CZUR does publish an official Linux application, currently declared for Ubuntu 20.04–24.04. On Debian 13 the hardware works, but the proprietary installer makes permission and privilege choices that justify auditing/hardening before adopting it unchanged.**
+
+### 11. Next falsifiable tests
+
+- run the application in a controlled environment and record `strace`, processes, created files and sockets;
+- inspect imports/strings/calls of `czur_create`, `CzurScanner` and `libczurusb-1.0.so`;
+- determine whether `CZURPlugin.service` is generated dynamically and document its contents;
+- compare generic UVC capture with CZUR output at 5696×4272;
+- measure real detail between 5696×4272 and larger UVC modes using a fixed target/millimetre ruler/micro-detail;
+- determine which advanced functions (flattening, finger removal, laser, OCR, auto-scan) truly depend on the proprietary application.
 
 ---
 

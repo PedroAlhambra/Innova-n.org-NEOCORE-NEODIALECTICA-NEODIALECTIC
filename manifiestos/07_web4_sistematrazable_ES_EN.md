@@ -938,6 +938,18 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 <!-- NEO_MANIFESTO_NAV_END -->
 
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_START -->
+
+## Relaciones neoaxiomáticas recíprocas / Reciprocal Neoaxiomatic relations
+
+> **Relación documental/conceptual, no identidad ni causalidad.** Este bloque es la inversa navegable de las relaciones NAX→Manifiesto y mantiene simetría de navegación. / **Documentary/conceptual relation, not identity or causality.** This block is the navigable inverse of NAX→Manifesto relations and preserves navigational symmetry.
+
+- [NAX-07 · Red NEOREAL™ Obligatoria para Actores Operativos / Mandatory NEOREAL™ Network for Operational Actors](../neoaxiomas/NAX-07_RED_NEOREAL_ACTORES_OPERATIVOS_ES_EN.md)
+- [NAX-12 · Trazabilidad Sustitutiva de Burocracia Redundante™ / Traceability Substitution for Redundant Bureaucracy™](../neoaxiomas/NAX-12_TRAZABILIDAD_SUSTITUTIVA_BUROCRACIA_REDUNDANTE_ES_EN.md)
+- [NAX-27 · Soberanía Diferenciada de Sistema y Síntesis™ / Differentiated Sovereignty of System and Synthesis™](../neoaxiomas/NAX-27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md)
+
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_END -->
+
 <!-- NEO_CROSS_REFERENCES_START -->
 
 ## Referencias cruzadas canónicas / Canonical cross-references
@@ -946,20 +958,18 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 - **II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md)
 - **IX** · [Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability](./06_memoria_genealogia_trazabilidad_ES_EN.md)
-- **XXXIV** · [Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™ / Operational Utility of the Framework and Perpetual Joint Audit™](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
-- **LIII** · [Manifiesto Leónidas™ / Leónidas™ Manifesto](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
-- **LXIV** · [NeoCronos™](./64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md)
 - **XI** · [Manifiesto del Neorrenacimiento Humano / Manifesto of the Human Neo-Renaissance](./08_neorrenacimiento_humano_ES_EN.md)
+- **XXXIV** · [Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™ / Operational Utility of the Framework and Perpetual Joint Audit™](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
+- **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
+- **LXIV** · [NeoCronos™ · Medición y Tokenización del Aporte en Síntesis Abierta / NeoCronos™ · Measurement and Tokenisation of Contribution in Open Synthesis](./64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md)
+- **LXVI** · [NeoSinergia™ · Necesidad de Cooperación en Neowar™ Activa · Sistema MÉDICI™ · Leónidas–Cancerbero™ / NeoSynergy™ · Necessary Cooperation under Active Neowar™ · MÉDICI™ System · Leónidas–Cerberus™](./66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 
-- [NEOCore™ · versión vigente e histórico / current version and history](../versiones/README.md)
-- [WEB4™ · especificación documental pública / public documentary specification](../web4/README.md)
-- [WEB4™ ↔ NEOCore™ · evolución pública / public evolution](../versiones/WEB4_NEOCORE_EVOLUCION_PUBLICA_ES_EN.md)
-- [Mapa transversal de relaciones / Transversal relations map](./RELACIONES_TRABAJO_APLICADO_ES_EN.md)
+- [IDEA · obra / work](../obras/idea/README.md)
 - [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
 - [NEOCore™ · marco / framework](../README.md)
-- [Síntesis Abierta X · Issue #39 / Open Synthesis X · Issue #39](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/39)
-- [Revisión 1.2 · Issue #184 / Revision 1.2 · Issue #184](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/184)
+
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-07` · `NAX-12` · `NAX-27` → [Neoaxiomas™](../neoaxiomas/README.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->

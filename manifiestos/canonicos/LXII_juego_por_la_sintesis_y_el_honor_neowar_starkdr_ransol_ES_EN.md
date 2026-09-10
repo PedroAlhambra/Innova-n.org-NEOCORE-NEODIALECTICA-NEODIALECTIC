@@ -594,6 +594,17 @@ And above all players remains the only majesty compatible with a truly Open Synt
 
 > **Her Majesty, Synthesis.**
 
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_START -->
+
+## Relaciones neoaxiomáticas recíprocas / Reciprocal Neoaxiomatic relations
+
+> **Relación documental/conceptual, no identidad ni causalidad.** Este bloque es la inversa navegable de las relaciones NAX→Manifiesto y mantiene simetría de navegación. / **Documentary/conceptual relation, not identity or causality.** This block is the navigable inverse of NAX→Manifesto relations and preserves navigational symmetry.
+
+- [NAX-16 · No Coronación de la Parte™ / Non-Crowning of the Part™](../../neoaxiomas/NAX-16_NO_CORONACION_PARTE_ES_EN.md)
+- [NAX-27 · Soberanía Diferenciada de Sistema y Síntesis™ / Differentiated Sovereignty of System and Synthesis™](../../neoaxiomas/NAX-27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md)
+
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_END -->
+
 <!-- NEO_CROSS_REFERENCES_START -->
 
 ## Referencias cruzadas canónicas / Canonical cross-references
@@ -615,6 +626,9 @@ And above all players remains the only majesty compatible with a truly Open Synt
 ### Capas y fuentes relacionadas / Related layers and sources
 
 - [IDEA · obra / work](../../obras/idea/README.md)
+- [Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md)
 - [NEOCore™ · marco / framework](../../README.md)
+
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-16` · `NAX-27` → [Neoaxiomas™](../../neoaxiomas/README.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->

@@ -1,7 +1,9 @@
 # C-NAX-24 · Diagnóstico ≠ Síntesis™
 # C-NAX-24 · Diagnosis ≠ Synthesis™
 
-**Estado / Status:** candidato neoaxiomático · Síntesis Abierta / neoaxiomatic candidate · Open Synthesis
+**Estado / Status:** HISTÓRICO · FIJADO COMO NAX-24 CON EFECTO 2026-09-08 12:33 CEST · SAN #149 ABIERTA / HISTORICAL · FIXED AS NAX-24 EFFECTIVE 2026-09-08 12:33 CEST · SAN #149 OPEN
+
+> **Estado vigente / Current state:** [NAX-24](./NAX-24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md) quedó fijado por la transición excepcional de NEOCore™ 7.3.4 al no registrarse respuesta externa sustantiva antes del corte. Este archivo conserva la formulación en su etapa C-NAX para genealogía; no es el documento canónico vigente. / [NAX-24](./NAX-24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md) was fixed by the NEOCore™ 7.3.4 exceptional transition because no external substantive response was recorded before the cutoff. This file preserves the C-NAX stage for genealogy; it is not the current canonical document.
 **Fecha / Date:** 2026-08-15
 **Procedencia / Provenance:** LXXVI · El Altavoz sin Síntesis™
 **Síntesis / Synthesis:** [#149](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/149)

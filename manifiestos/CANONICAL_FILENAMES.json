@@ -343,6 +343,10 @@
     "LXXXV": {
       "legacy": "manifiestos/85_memoria_capitan_grant_ES_EN.md",
       "canonical": "manifiestos/canonicos/LXXXV_memoria_capitan_grant_ES_EN.md"
+    },
+    "LXXXVI": {
+      "legacy": "manifiestos/86_federacion_neodialectica_network_framework_ES_EN.md",
+      "canonical": "manifiestos/canonicos/LXXXVI_federacion_neodialectica_network_framework_ES_EN.md"
     }
   }
 }

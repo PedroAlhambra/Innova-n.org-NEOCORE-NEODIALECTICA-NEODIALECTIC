@@ -1,7 +1,9 @@
 # C-NAX-25 · Fenómeno ≠ Narrativa™
 # C-NAX-25 · Phenomenon ≠ Narrative™
 
-**Estado / Status:** candidato neoaxiomático · Síntesis Abierta / neoaxiomatic candidate · Open Synthesis
+**Estado / Status:** HISTÓRICO · FIJADO COMO NAX-25 CON EFECTO 2026-09-08 12:33 CEST · SAN #155 ABIERTA / HISTORICAL · FIXED AS NAX-25 EFFECTIVE 2026-09-08 12:33 CEST · SAN #155 OPEN
+
+> **Estado vigente / Current state:** [NAX-25](./NAX-25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md) quedó fijado por la transición excepcional de NEOCore™ 7.3.4 al no registrarse respuesta externa sustantiva antes del corte. Este archivo conserva la formulación en su etapa C-NAX para genealogía; no es el documento canónico vigente. / [NAX-25](./NAX-25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md) was fixed by the NEOCore™ 7.3.4 exceptional transition because no external substantive response was recorded before the cutoff. This file preserves the C-NAX stage for genealogy; it is not the current canonical document.
 **Fecha / Date:** 2026-08-16
 **Procedencia / Provenance:** LXXVII · Contra la Polarización Binaria y la Radicalización Recíproca™ / Against Binary Polarisation and Reciprocal Radicalisation™
 **Síntesis / Synthesis:** [#155](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/155)

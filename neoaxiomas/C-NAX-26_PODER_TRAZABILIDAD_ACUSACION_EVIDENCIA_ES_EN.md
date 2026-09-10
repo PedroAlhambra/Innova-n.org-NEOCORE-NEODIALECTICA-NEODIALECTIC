@@ -1,7 +1,9 @@
 # C-NAX-26 · Poder ↑ → Trazabilidad ↑ · Acusación ↑ → Evidencia ↑
 # C-NAX-26 · Power ↑ → Traceability ↑ · Accusation ↑ → Evidence ↑
 
-**Estado / Status:** candidato neoaxiomático · Síntesis Abierta / neoaxiomatic candidate · Open Synthesis
+**Estado / Status:** HISTÓRICO · FIJADO COMO NAX-26 CON EFECTO 2026-09-08 12:33 CEST · SAN #156 ABIERTA / HISTORICAL · FIXED AS NAX-26 EFFECTIVE 2026-09-08 12:33 CEST · SAN #156 OPEN
+
+> **Estado vigente / Current state:** [NAX-26](./NAX-26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md) quedó fijado por la transición excepcional de NEOCore™ 7.3.4 al no registrarse respuesta externa sustantiva antes del corte. Este archivo conserva la formulación en su etapa C-NAX para genealogía; no es el documento canónico vigente. / [NAX-26](./NAX-26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md) was fixed by the NEOCore™ 7.3.4 exceptional transition because no external substantive response was recorded before the cutoff. This file preserves the C-NAX stage for genealogy; it is not the current canonical document.
 **Fecha / Date:** 2026-08-16
 **Procedencia / Provenance:** [Delta transversal · Poder, Trazabilidad, Escrutinio y Evidencia™ / Transversal Delta · Power, Traceability, Scrutiny and Evidence™](../propuestas/sintesis-abierta/2026-08-16_DELTA_PODER_TRAZABILIDAD_ESCRUTINIO_EVIDENCIA_ES_EN.md)
 **Síntesis / Synthesis:** [#156](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/156)

@@ -167,3 +167,4 @@ lines += ['', '## Regla permanente / Permanent rule','',
 REPORT.parent.mkdir(parents=True,exist_ok=True)
 REPORT.write_text('\n'.join(lines)+'\n',encoding='utf-8')
 print(f'MANIFESTO_STRUCTURE_AUDIT reviewed={len(rows)} review={len(fail)} warnings={len(warn)} report={REPORT}')
+raise SystemExit(1 if fail else 0)

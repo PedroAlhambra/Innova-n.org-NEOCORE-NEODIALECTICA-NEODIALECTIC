@@ -33,6 +33,11 @@ for ident, filename in mod.DOC_NAMES.items():
             problems.append(f"NEOAXIOM_MANIFEST_RELATION_FAILURE: README missing {ident} -> {roman}")
         if not (ROOT / "manifiestos" / manifest).exists():
             problems.append(f"NEOAXIOM_MANIFEST_RELATION_FAILURE: missing target {manifest}")
+        else:
+            manifest_text = (ROOT / "manifiestos" / manifest).read_text(encoding="utf-8", errors="replace")
+            own_rel = f"../neoaxiomas/{filename}"
+            if own_rel not in manifest_text:
+                problems.append(f"NEOAXIOM_RECIPROCITY_FAILURE: {roman} missing reverse link to {ident}")
 
     row = next((line for line in readme.splitlines() if line.startswith(f"| [**{ident} ·")), None)
     if row is None:
@@ -46,4 +51,4 @@ if problems:
         print("FAIL:", p)
     raise SystemExit(1)
 
-print("NEOAXIOM_MANIFEST_RELATIONS PASS NAX-01..NAX-14 README+OWN_DOCUMENTS")
+print(f"NEOAXIOM_MANIFEST_RELATIONS PASS NAX-01..NAX-{max(int(x.split('-')[1]) for x in mod.DOC_NAMES)} README+OWN_DOCUMENTS+RECIPROCAL_MANIFESTS")

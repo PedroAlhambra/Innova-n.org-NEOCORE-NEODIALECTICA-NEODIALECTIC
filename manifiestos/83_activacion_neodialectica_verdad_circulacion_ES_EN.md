@@ -2,6 +2,7 @@
 # LXXXIII · Neodialectical Activation Manifesto™ · Truth also has the right to circulate
 
 **Manifiesto / Manifesto:** LXXXIII  
+**Versión / Version:** 1.0  
 **Fecha / Date:** 2026-08-26  
 **Estado / Status:** PUBLICADO · SÍNTESIS ABIERTA / PUBLISHED · OPEN SYNTHESIS  
 **Marco / Framework:** Neodialéctica™ · NEOCore™  
@@ -11,7 +12,7 @@
 
 ---
 
-## ES · Castellano
+# ES · Castellano
 
 ### 1. El problema
 
@@ -221,7 +222,7 @@ Es entrar en él con mejores reglas.
 
 ---
 
-## EN · English
+# EN · English
 
 ### 1. The problem
 

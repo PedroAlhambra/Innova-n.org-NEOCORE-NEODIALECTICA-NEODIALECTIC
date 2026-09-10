@@ -187,6 +187,8 @@ The number of heads is therefore secondary to their **relevant independence, cov
 
 The layer is fractal because a head may itself be a composition of subheads and because a synthesis obtained at one scale may become input to a higher synthesis. Repeated structure across scales does not authorise loss of detail: every ascent must preserve the path back to the pieces that support it.
 
+Scaling example:
+
 ```text
 DOCUMENTS / EXPERIENCES / DATA
 → SPECIALISED HEADS

@@ -150,7 +150,7 @@ El Orco puede querer aplastarlo.
 
 En ambos casos, el otro deja de ser plenamente alguien y empieza a funcionar como algo.
 
-Esto conecta con C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™.
+Esto conecta con NAX-19 · Inviolabilidad Relacional y Separación de Planos™.
 
 ## VII. Humanidad común
 
@@ -221,7 +221,7 @@ La Síntesis debe distinguir contexto, función y necesidad.
 
 ## X. Identidad y coronación de la parte
 
-C-NAX-16 · No Coronación de la Parte™ se aplica también a las identidades.
+NAX-16 · No Coronación de la Parte™ se aplica también a las identidades.
 
 Una identidad se vuelve peligrosa no por existir, sino cuando se transforma en una totalidad cerrada capaz de negar humanidad, legitimidad o escucha a quienes quedan fuera.
 
@@ -445,13 +445,13 @@ SABER
 → MADURACIÓN HUMANA
 ```
 
-## XXI. C-NAX-20 y C-NAX-21
+## XXI. NAX-20 y NAX-21 · fijación posterior
 
 De esta síntesis emergen dos candidatos neoaxiomáticos, no canonizados automáticamente:
 
-**C-NAX-20 · Humanidad Común sin Supresión de la Diferencia™**: la condición humana común como suelo relacional que protege diferencia sin coronar identidades parciales como totalidad.
+**NAX-20 · Humanidad Común sin Supresión de la Diferencia™**: la condición humana común como suelo relacional que protege diferencia sin coronar identidades parciales como totalidad.
 
-**C-NAX-21 · Ignorancia Sistémica del Mal y No Superioridad de la Destrucción™**: la capacidad de destruir, someter, extraer o dañar no demuestra comprensión del sistema; una optimización parcial que degrada injustificadamente las condiciones comunes puede ser inteligente localmente y, sin embargo, ignorante sistémicamente.
+**NAX-21 · Ignorancia Sistémica del Mal y No Superioridad de la Destrucción™**: la capacidad de destruir, someter, extraer o dañar no demuestra comprensión del sistema; una optimización parcial que degrada injustificadamente las condiciones comunes puede ser inteligente localmente y, sin embargo, ignorante sistémicamente.
 
 Ambos permanecen sometidos a SAN™.
 
@@ -615,7 +615,7 @@ The Orc may want to crush them.
 
 In both cases, the other stops being fully someone and begins to function as something.
 
-This connects with C-NAX-19 · Relational Inviolability and Separation of Planes™.
+This connects with NAX-19 · Relational Inviolability and Separation of Planes™.
 
 ## VII. Common humanity
 
@@ -686,7 +686,7 @@ Synthesis must distinguish context, function and need.
 
 ## X. Identity and coronation of the part
 
-C-NAX-16 · Non-Coronation of the Part™ also applies to identities.
+NAX-16 · Non-Coronation of the Part™ also applies to identities.
 
 An identity becomes dangerous not by existing, but when it becomes a closed totality capable of denying humanity, legitimacy or hearing to those outside it.
 
@@ -910,13 +910,13 @@ KNOWLEDGE
 → HUMAN MATURATION
 ```
 
-## XXI. C-NAX-20 and C-NAX-21
+## XXI. NAX-20 and NAX-21
 
-Two neoaxiomatic candidates emerge from this synthesis, without automatic canonisation:
+Two neoaxiomatic formulations emerged from this synthesis as candidates and were later fixed as NAX-20 and NAX-21 by the exceptional neoaxiomatic transition then in force, effective 2026-09-08 12:33 CEST:
 
-**C-NAX-20 · Common Humanity without Suppression of Difference™**: common humanity as relational ground protecting difference without crowning partial identities as totality.
+**NAX-20 · Common Humanity without Suppression of Difference™**: common humanity as relational ground protecting difference without crowning partial identities as totality.
 
-**C-NAX-21 · Systemic Ignorance of Evil and Non-Superiority of Destruction™**: the capacity to destroy, dominate, extract or harm does not demonstrate understanding of the system; a partial optimisation that unjustifiably degrades common conditions may be locally intelligent and yet systemically ignorant.
+**NAX-21 · Systemic Ignorance of Evil and Non-Superiority of Destruction™**: the capacity to destroy, dominate, extract or harm does not demonstrate understanding of the system; a partial optimisation that unjustifiably degrades common conditions may be locally intelligent and yet systemically ignorant.
 
 Both remain subject to SAN™.
 
@@ -950,6 +950,18 @@ Este manifiesto queda abierto a contraste histórico, psicológico, antropológi
 
 **Navegación / Navigation:** [← LXXII](LXXII_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) · [Índice / Index](../README.md) · [LXXIV →](LXXIV_asimetria_destruccion_trol_humano_bot_ES_EN.md)
 
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_START -->
+
+## Relaciones neoaxiomáticas recíprocas / Reciprocal Neoaxiomatic relations
+
+> **Relación documental/conceptual, no identidad ni causalidad.** Este bloque es la inversa navegable de las relaciones NAX→Manifiesto y mantiene simetría de navegación. / **Documentary/conceptual relation, not identity or causality.** This block is the navigable inverse of NAX→Manifesto relations and preserves navigational symmetry.
+
+- [NAX-20 · Humanidad Común sin Supresión de la Diferencia™ / Common Humanity without Suppression of Difference™](../../neoaxiomas/NAX-20_HUMANIDAD_COMUN_DIFERENCIA_ES_EN.md)
+- [NAX-21 · Ignorancia Sistémica del Mal y No Superioridad de la Destrucción™ / Systemic Ignorance of Evil and Non-Superiority of Destruction™](../../neoaxiomas/NAX-21_IGNORANCIA_SISTEMICA_MAL_NO_SUPERIORIDAD_DESTRUCCION_ES_EN.md)
+- [NAX-23 · Conservación del Fractal Común™ / Conservation of the Common Fractal™](../../neoaxiomas/NAX-23_CONSERVACION_FRACTAL_COMUN_ES_EN.md)
+
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_END -->
+
 <!-- NEO_CROSS_REFERENCES_START -->
 
 ## Referencias cruzadas canónicas / Canonical cross-references
@@ -968,6 +980,6 @@ Este manifiesto queda abierto a contraste histórico, psicológico, antropológi
 - [Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md)
 - [NEOCore™ · marco / framework](../../README.md)
 
-**Neoaxiomas mencionados / Mentioned Neoaxioms:** `C-NAX-16` · `C-NAX-19` · `C-NAX-20` · `C-NAX-21` → [Neoaxiomas™](../../neoaxiomas/README.md)
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-16` · `NAX-19` · `NAX-20` · `NAX-21` · `NAX-23` → [Neoaxiomas™](../../neoaxiomas/README.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->

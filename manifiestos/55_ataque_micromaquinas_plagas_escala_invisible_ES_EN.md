@@ -7,6 +7,7 @@
 **Manifiesto / Manifesto:** LV  
 **Versión / Version:** 1.0  
 **Estado / Status:** Público · abierto a Síntesis Abierta / Public · open to Open Synthesis  
+**Síntesis Abierta dedicada / Dedicated Open Synthesis:** [#74](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/74)  
 **Fecha / Date:** 2026-08-09  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico dentro de la Filosofía Arquetípica Neodialéctica™. Genealogía del marco desde 2021.  
 **Relaciones / Relations:** Respeto a Todos los Seres Vivos™, Protección Integral de la Infancia™, Fin de la Era del Hombre Manipulado™, Inteligencia Compartida™, Riqueza y Chatarra™, Leónidas™, Neowar™, UMBRAL-X™.

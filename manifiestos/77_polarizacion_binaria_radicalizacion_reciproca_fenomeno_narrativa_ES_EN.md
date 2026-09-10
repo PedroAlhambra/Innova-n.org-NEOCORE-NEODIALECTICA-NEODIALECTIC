@@ -7,7 +7,7 @@
 **Fecha / Date:** 2026-08-16  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico dentro de la Filosofía Arquetípica Neodialéctica™ / symbiotic development within Archetypal Neodialectical Philosophy™.  
 **Síntesis Abierta / Open Synthesis:** [#154](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/154)  
-**Relaciones / Relations:** XXII · Reducción y Captura Intelectual™ · XXXV · Ridiculez Mediática y Economía del Conflicto™ · XLII · Fin de la Era del Hombre Manipulado™ · LXIII · Simplificación Burda™ · LXVIII · Soberanía Intelectual de la Especie™ · LXXVI · Altavoz sin Síntesis™ · C-NAX-24 · Diagnóstico ≠ Síntesis™.
+**Relaciones / Relations:** XXII · Reducción y Captura Intelectual™ · XXXV · Ridiculez Mediática y Economía del Conflicto™ · XLII · Fin de la Era del Hombre Manipulado™ · LXIII · Simplificación Burda™ · LXVIII · Soberanía Intelectual de la Especie™ · LXXVI · Altavoz sin Síntesis™ · NAX-24 · Diagnóstico ≠ Síntesis™.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -251,7 +251,7 @@ El objetivo no es encontrar siempre un «centro». Algunas veces la evidencia es
 
 ## XII. Candidato neoaxiomático derivado
 
-Este manifiesto propone elevar a contraste un candidato neoaxiomático:
+Este manifiesto propuso originalmente a contraste una formulación neoaxiomática que posteriormente quedó fijada bajo la transición excepcional neoaxiomática vigente:
 
 > **La refutación de una explicación no implica la inexistencia del fenómeno que pretendía explicar; el reconocimiento de un fenómeno no implica aceptar la narrativa, causalidad o identidad política construida alrededor de él.**
 
@@ -307,7 +307,7 @@ Se solicitan aportes sobre:
 - [LXIII · Contra la Simplificación Burda del Marco™](./63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md)
 - [LXVIII · Soberanía Intelectual de la Especie™](./68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
 - [LXXVI · El Altavoz sin Síntesis™](./76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md)
-- [C-NAX-24 · Diagnóstico ≠ Síntesis™](../propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md)
+- [NAX-24 · Diagnóstico ≠ Síntesis™](../propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md)
 - [Índice de Manifiestos](./README.md)
 - [Portal de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
 
@@ -553,9 +553,9 @@ PHENOMENON
 
 The goal is not always to find a «centre». Sometimes the evidence will clearly be closer to one side. The goal is to prevent political geometry from replacing the process of knowing.
 
-## XII. Derived neoaxiomatic candidate
+## XII. Derived Neoaxiom · later fixation
 
-This manifesto proposes elevating the following neoaxiomatic candidate to scrutiny:
+This manifesto originally proposed the following neoaxiomatic formulation for scrutiny; it was later fixed under the exceptional neoaxiomatic transition then in force:
 
 > **Refuting an explanation does not imply the non-existence of the phenomenon it attempted to explain; recognising a phenomenon does not imply accepting the narrative, causality or political identity constructed around it.**
 
@@ -611,13 +611,24 @@ Contributions are invited on:
 - [LXIII · Against Crude Simplification of the Framework™](./63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md)
 - [LXVIII · Intellectual Sovereignty of the Species™](./68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md)
 - [LXXVI · The Loudspeaker without Synthesis™](./76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md)
-- [C-NAX-24 · Diagnosis ≠ Synthesis™](../propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md)
+- [NAX-24 · Diagnosis ≠ Synthesis™](../propuestas/sintesis-abierta/2026-08-15_C_NAX_24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md)
 - [Manifestos index](./README.md)
 - [Open Synthesis portal](../propuestas/sintesis-abierta/README.md)
 
 ## Navigation
 
 ← [LXXVI · The Loudspeaker without Synthesis™](./76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md) · [Index](./README.md) · [∞ · Open Gate of the Fractal](./INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) →
+
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_START -->
+
+## Relaciones neoaxiomáticas recíprocas / Reciprocal Neoaxiomatic relations
+
+> **Relación documental/conceptual, no identidad ni causalidad.** Este bloque es la inversa navegable de las relaciones NAX→Manifiesto y mantiene simetría de navegación. / **Documentary/conceptual relation, not identity or causality.** This block is the navigable inverse of NAX→Manifesto relations and preserves navigational symmetry.
+
+- [NAX-25 · Fenómeno ≠ Narrativa™ / Phenomenon ≠ Narrative™](../neoaxiomas/NAX-25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md)
+- [NAX-26 · Poder ↑ → Trazabilidad ↑ · Acusación ↑ → Evidencia ↑ / Power ↑ → Traceability ↑ · Accusation ↑ → Evidence ↑](../neoaxiomas/NAX-26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md)
+
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_END -->
 
 <!-- NEO_CROSS_REFERENCES_START -->
 
@@ -640,6 +651,6 @@ Contributions are invited on:
 - [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
 - [NEOCore™ · marco / framework](../README.md)
 
-**Neoaxiomas mencionados / Mentioned Neoaxioms:** `C-NAX-24` → [Neoaxiomas™](../neoaxiomas/README.md)
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-24` · `NAX-25` · `NAX-26` → [Neoaxiomas™](../neoaxiomas/README.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->

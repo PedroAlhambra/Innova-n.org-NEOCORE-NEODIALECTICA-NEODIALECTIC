@@ -323,6 +323,21 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 <!-- NEO_MANIFESTO_NAV_END -->
 
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_START -->
+
+## Relaciones neoaxiomáticas recíprocas / Reciprocal Neoaxiomatic relations
+
+> **Relación documental/conceptual, no identidad ni causalidad.** Este bloque es la inversa navegable de las relaciones NAX→Manifiesto y mantiene simetría de navegación. / **Documentary/conceptual relation, not identity or causality.** This block is the navigable inverse of NAX→Manifesto relations and preserves navigational symmetry.
+
+- [NAX-02 · Primera Capa Fractal Multicabeza™ / First Fractal Multihead Layer™](../neoaxiomas/NAX-02_PRIMERA_CAPA_FRACTAL_MULTICABEZA_ES_EN.md)
+- [NAX-05 · Diferencial Monádico y Retorno a Fuente™ / Monadic Differential and Return to Source™](../neoaxiomas/NAX-05_DIFERENCIAL_MONADICO_RETORNO_FUENTE_ES_EN.md)
+- [NAX-06 · Memoria de Ausencia™ / Memory of Absence™](../neoaxiomas/NAX-06_MEMORIA_AUSENCIA_ES_EN.md)
+- [NAX-07 · Red NEOREAL™ Obligatoria para Actores Operativos / Mandatory NEOREAL™ Network for Operational Actors](../neoaxiomas/NAX-07_RED_NEOREAL_ACTORES_OPERATIVOS_ES_EN.md)
+- [NAX-11 · Autoridad de Fijación Humana y Síntesis Revisable™ / Human Fixation Authority and Revisable Synthesis™](../neoaxiomas/NAX-11_AUTORIDAD_FIJACION_HUMANA_SINTESIS_REVISABLE_ES_EN.md)
+- [NAX-12 · Trazabilidad Sustitutiva de Burocracia Redundante™ / Traceability Substitution for Redundant Bureaucracy™](../neoaxiomas/NAX-12_TRAZABILIDAD_SUSTITUTIVA_BUROCRACIA_REDUNDANTE_ES_EN.md)
+
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_END -->
+
 <!-- NEO_CROSS_REFERENCES_START -->
 
 ## Referencias cruzadas canónicas / Canonical cross-references
@@ -348,5 +363,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 - [IDEA · obra / work](../obras/idea/README.md)
 - [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
 - [NEOCore™ · marco / framework](../README.md)
+
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-02` · `NAX-05` · `NAX-06` · `NAX-07` · `NAX-11` · `NAX-12` → [Neoaxiomas™](../neoaxiomas/README.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->

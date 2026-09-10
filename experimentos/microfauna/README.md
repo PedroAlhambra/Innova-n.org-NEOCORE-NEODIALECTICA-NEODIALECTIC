@@ -1,4 +1,4 @@
-# Microfauna y muestras observacionales · laboratorio abierto
+# Microfauna y muestras observacionales · laboratorio abierto / Microfauna and observational samples · open laboratory
 ## Microfauna and observational samples · open lab
 
 **Origen histórico / Historical origin:** `investigacion/microfauna-muestras-2026-08-09`  
@@ -62,7 +62,7 @@ Categorías iniciales de trabajo:
 - preservar hipótesis alternativas;
 - cualquier afirmación extraordinaria requerirá evidencia extraordinariamente trazable.
 
-## Relación con el marco
+## Relación con el marco / Relation to the framework
 
 Esta línea aplica los principios de **Síntesis Abierta**, **trazabilidad**, **hipótesis rivales**, **NO-CONTROL™** y **Defensa antes de Escala™**. Su función es permitir que una sospecha sea examinada sin convertirla prematuramente en una afirmación.
 

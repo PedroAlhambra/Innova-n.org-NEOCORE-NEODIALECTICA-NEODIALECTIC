@@ -108,8 +108,8 @@ for roman,title,p in manifestos:
     else:
         missing.append((roman,title,p))
 
-# Canonical Neoaxioms NAX-01..NAX-14 are indexed by README and live in
-# dedicated own documents. README is navigation, never the doctrinal body.
+# Canonical Neoaxioms are derived from the live README/document frontier.
+# Historical C-NAX snapshots are not counted as current NAX.
 naxraw=NEO.read_text(encoding='utf-8',errors='replace')
 neoaxioms=[]
 seen_nax=set()
@@ -119,7 +119,7 @@ for line in naxraw.splitlines():
         continue
     ident,num_s,href=m.groups()
     num=int(num_s)
-    if num > 14 or ident in seen_nax:
+    if ident in seen_nax:
         continue
     seen_nax.add(ident)
     doc=(NEO.parent / href).resolve()
@@ -139,7 +139,8 @@ for line in naxraw.splitlines():
         'document_exists':doc.exists(),
     })
 neoaxioms.sort(key=lambda x:int(x['id'].split('-')[1]))
-expected={f'NAX-{i:02d}' for i in range(1,15)}
+max_nax=max((int(x['id'].split('-')[1]) for x in neoaxioms), default=0)
+expected={f'NAX-{i:02d}' for i in range(1,max_nax+1)}
 discovered={x['id'] for x in neoaxioms}
 missing_registry=sorted(expected-discovered)
 nax_missing=[x for x in neoaxioms if not x['dedicated'] or not x['document_exists']]

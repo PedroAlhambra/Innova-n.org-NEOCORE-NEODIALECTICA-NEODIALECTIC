@@ -2,6 +2,7 @@
 # LXXXII · Manifesto of Neodialectical Multidimensional Science™
 
 **Manifiesto / Manifesto:** LXXXII  
+**Versión / Version:** 1.0  
 **Fecha / Date:** 2026-08-25  
 **Estado / Status:** Público · Síntesis Abierta / Public · Open Synthesis  
 **Autoría / Authorship:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico  
@@ -70,7 +71,7 @@ UNIDAD
 ≠ OBEDIENCIA
 ```
 
-Esta formulación se relaciona con **C-NAX-20 · Humanidad Común sin Supresión de la Diferencia™** y se presenta como extensión/aplicación, no como nuevo Neoaxioma independiente mientras no se demuestre una necesidad ontológica distinta.
+Esta formulación se relaciona con **NAX-20 · Humanidad Común sin Supresión de la Diferencia™** y se presenta como extensión/aplicación, no como nuevo Neoaxioma independiente mientras no se demuestre una necesidad ontológica distinta.
 
 ## 6. Primer caso: Cáncer de la Síntesis™ / Gritax™
 
@@ -151,7 +152,7 @@ UNITY
 ≠ OBEDIENCE
 ```
 
-This formulation relates to **C-NAX-20 · Common Humanity without Suppression of Difference™** and is presented as an extension/application, not as a separate new Neoaxiom unless a distinct ontological need is demonstrated.
+This formulation relates to **NAX-20 · Common Humanity without Suppression of Difference™** and is presented as an extension/application, not as a separate new Neoaxiom unless a distinct ontological need is demonstrated.
 
 ## 6. First case: Cancer of Synthesis™ / Gritax™
 
@@ -180,7 +181,7 @@ Counterexamples, precursor or equivalent disciplines, bibliography, experimental
 
 - [XLV · Multidimensionalidad Neodialéctica™](XLV_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
 - [LXI · Custodia Experimental Multiescalar™](LXI_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md)
-- [Neoaxiomas™ · C-NAX-20](../../neoaxiomas/README.md)
+- [Neoaxiomas™ · NAX-20](../../neoaxiomas/README.md)
 - [NEOCore™ 7.3 CANON ABIERTO](../../propuestas/sintesis-abierta/NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md)
 - [CMN-0.1](../../propuestas/sintesis-abierta/PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md)
 - [Caso 001 · Cáncer de la Síntesis™ / Gritax™](../../propuestas/sintesis-abierta/2026-08-25_CIENCIA_MULTIDIMENSIONAL_CANCER_SINTESIS_GRITAX_ES_EN.md)
@@ -201,6 +202,6 @@ Counterexamples, precursor or equivalent disciplines, bibliography, experimental
 - [Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md)
 - [NEOCore™ · marco / framework](../../README.md)
 
-**Neoaxiomas mencionados / Mentioned Neoaxioms:** `C-NAX-20` → [Neoaxiomas™](../../neoaxiomas/README.md)
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-20` → [Neoaxiomas™](../../neoaxiomas/README.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->

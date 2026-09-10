@@ -69,6 +69,14 @@ def main() -> int:
         if version not in text:
             continue
 
+        document_provenance = bool(re.search(
+            rf'^\*\*(?:VERSION_OF_ORIGIN / VERSIÓN DE ORIGEN|VERSIÓN DE ORIGEN / VERSION_OF_ORIGIN):\*\*[^\n]*\b{re.escape(version)}\b',
+            text,
+            re.M | re.I,
+        ))
+        if document_provenance:
+            continue
+
         for lineno, line in enumerate(text.splitlines(), start=1):
             if version not in line:
                 continue

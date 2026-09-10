@@ -1,7 +1,9 @@
 # C-NAX-27 · Soberanía Diferenciada de Sistema y Síntesis™
 # C-NAX-27 · Differentiated Sovereignty of System and Synthesis™
 
-**Estado / Status:** candidato neoaxiomático · Síntesis Abierta · no canónico / neoaxiomatic candidate · Open Synthesis · non-canonical
+**Estado / Status:** HISTÓRICO · FIJADO COMO NAX-27 CON EFECTO 2026-09-08 12:33 CEST · SAN #176 ABIERTA / HISTORICAL · FIXED AS NAX-27 EFFECTIVE 2026-09-08 12:33 CEST · SAN #176 OPEN
+
+> **Estado vigente / Current state:** [NAX-27](./NAX-27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md) quedó fijado por la transición excepcional de NEOCore™ 7.3.4 al no registrarse respuesta externa sustantiva antes del corte. Este archivo conserva la formulación en su etapa C-NAX para genealogía; no es el documento canónico vigente. / [NAX-27](./NAX-27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md) was fixed by the NEOCore™ 7.3.4 exceptional transition because no external substantive response was recorded before the cutoff. This file preserves the C-NAX stage for genealogy; it is not the current canonical document.
 **Fecha / Date:** 2026-08-27
 **Origen humano / Human origin:** Pedro Martínez Alhambra · Neo0™
 **Síntesis / Synthesis:** [#176](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/176)

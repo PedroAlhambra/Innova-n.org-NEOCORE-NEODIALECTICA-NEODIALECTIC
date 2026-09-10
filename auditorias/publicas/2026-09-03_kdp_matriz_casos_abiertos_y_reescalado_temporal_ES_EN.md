@@ -54,7 +54,7 @@ La ruta de colaboración sigue en paralelo:
 
 `51071689 (hallazgos y mejoras) → 51454666 (KDP sin competencia de routing) → AMAZON-RESEARCH-ROUTING-2026-08-29 → ruta competente pendiente`
 
-## Criterio de cierre
+## Criterio de cierre / Closure criterion
 
 Un caso técnico no debe marcarse como resuelto por una mera declaración interna cuando el problema relevante es público y reproducible. El cierre requiere, según el caso: corrección visible estable, comprobación de formatos dentro de cada idioma, aclaración de la relación entre traducciones, ausencia de regresión durante el periodo razonable de propagación, o identificación documentada del equipo competente cuando KDP carezca de control sobre esa capa.
 

@@ -598,6 +598,16 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 <!-- NEO_MANIFESTO_NAV_END -->
 
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_START -->
+
+## Relaciones neoaxiomáticas recíprocas / Reciprocal Neoaxiomatic relations
+
+> **Relación documental/conceptual, no identidad ni causalidad.** Este bloque es la inversa navegable de las relaciones NAX→Manifiesto y mantiene simetría de navegación. / **Documentary/conceptual relation, not identity or causality.** This block is the navigable inverse of NAX→Manifesto relations and preserves navigational symmetry.
+
+- [NAX-09 · Computación Distribuida Local con Verificación Ecológica™ / Distributed Local Computing with Ecological Verification™](../../neoaxiomas/NAX-09_COMPUTACION_DISTRIBUIDA_LOCAL_VERIFICACION_ECOLOGICA_ES_EN.md)
+
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_END -->
+
 <!-- NEO_CROSS_REFERENCES_START -->
 
 ## Referencias cruzadas canónicas / Canonical cross-references
@@ -623,5 +633,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 - [Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md)
 - [NEOCore™ · marco / framework](../../README.md)
+
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-09` → [Neoaxiomas™](../../neoaxiomas/README.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->

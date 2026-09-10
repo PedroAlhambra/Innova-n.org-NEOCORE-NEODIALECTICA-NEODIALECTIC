@@ -1,10 +1,12 @@
 from pathlib import Path
 import re
+import subprocess
 
 ROOT=Path('.').resolve()
 MIDX=ROOT/'manifiestos/README.md'
 SYN=ROOT/'propuestas/sintesis-abierta/README.md'
 FULL=ROOT/'propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md'
+nax_count=len({int(m.group(1)) for q in (ROOT/'neoaxiomas').glob('NAX-*.md') if (m:=re.match(r'NAX-(\d+)_',q.name))})
 ROW=re.compile(r'^- \*\*([IVXLCDM]+)\*\* · \[([^\]]+)\]\(([^)]+\.md)\)(.*)$',re.M)
 ISSUE=re.compile(r'https://github\.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/(\d+)')
 DATE=re.compile(r'^\*\*Fecha / Date:\*\*\s*(\d{4}-\d{2}-\d{2})\s*$',re.M)
@@ -25,9 +27,16 @@ if not issues:
     raise SystemExit(f'No manifesto synthesis issue found for {roman}')
 issue=issues[0]
 dates=DATE.findall(front)
-if not dates:
-    raise SystemExit(f'No manifesto date found for {roman}')
-latest_date=dates[0]
+if dates:
+    latest_date=dates[0]
+else:
+    # Some canonical manifestos intentionally omit a front-matter date. Use the
+    # first Git date for the tracked source as documentary fallback, never wall clock.
+    proc=subprocess.run(['git','log','--follow','--format=%as','--reverse','--',str(p.relative_to(ROOT))],capture_output=True,text=True,check=False)
+    git_dates=[x.strip() for x in proc.stdout.splitlines() if re.fullmatch(r'\d{4}-\d{2}-\d{2}',x.strip())]
+    if not git_dates:
+        raise SystemExit(f'No manifesto date or Git provenance date found for {roman}')
+    latest_date=git_dates[0]
 issue_url=f'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/{issue}'
 
 latest=(f'> ## 🔴 ÚLTIMO MANIFIESTO FINITO ABIERTO A SÍNTESIS / LATEST FINITE MANIFESTO OPEN FOR SYNTHESIS\n>\n'
@@ -48,7 +57,7 @@ MIDX.write_text(idx,encoding='utf-8')
 
 syn=SYN.read_text(encoding='utf-8')
 syn=re.sub(r'^\*\*Cobertura actual / Current coverage:\*\*.*$',
-           f'**Cobertura actual / Current coverage:** **{count} manifiestos finitos · I–{roman} + Manifiesto ∞ · 14 Neoaxiomas™ · síntesis transversales, auditorías y proyectos / {count} finite manifestos · I–{roman} + Manifesto ∞ · 14 Neoaxioms™ · transversal syntheses, audits and projects**',syn,count=1,flags=re.M)
+           f'**Cobertura actual / Current coverage:** **{count} manifiestos finitos · I–{roman} + Manifiesto ∞ · {nax_count} Neoaxiomas™ · síntesis transversales, auditorías y proyectos / {count} finite manifestos · I–{roman} + Manifesto ∞ · {nax_count} Neoaxioms™ · transversal syntheses, audits and projects**',syn,count=1,flags=re.M)
 slatest=(f'> ## 🔴 ÚLTIMO MANIFIESTO FINITO ABIERTO A SÍNTESIS / LATEST FINITE MANIFESTO OPEN FOR SYNTHESIS\n>\n'
          f'> **{roman} · {label}**\n>\n'
          f'> **[Leer {roman} / Read {roman}](../../manifiestos/{href}) · [Síntesis {roman} · #{issue} / Synthesis {roman} · #{issue}]({issue_url})**')

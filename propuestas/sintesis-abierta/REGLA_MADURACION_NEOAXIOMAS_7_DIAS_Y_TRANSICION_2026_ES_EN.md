@@ -3,6 +3,7 @@
 
 **Estado / Status:** VIGENTE DESDE NEOCore™ 7.3.4 / ACTIVE SINCE NEOCore™ 7.3.4  
 **Fecha de adopción / Adoption date:** 2026-09-06  
+**VERSION_OF_ORIGIN / VERSIÓN DE ORIGEN:** NEOCore™ 7.3.4  
 **Corte transitorio / Transitional cutoff:** **2026-09-08 · 12:33 · Europe/Madrid (CEST)**  
 **Ámbito / Scope:** candidatos neoaxiomáticos sometidos a Síntesis Abierta Neodialéctica™ — SAN™ / neoaxiomatic candidates under Neodialectical Open Synthesis™ — SAN™
 
@@ -263,5 +264,7 @@ The [Neoaxiomatic Maturation Rule™ · 365 days](REGLA_MADURACION_NEOAXIOMAS_36
 The period candidates spent under the previous regime is not retrospectively rewritten.
 
 ---
+
+## Relaciones / Relations
 
 **Relaciones / Relations:** [Neoaxiomas™](../../neoaxiomas/README.md) · [Protocolo SAN™](NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md) · [NAX-11](../../neoaxiomas/NAX-11_AUTORIDAD_FIJACION_HUMANA_SINTESIS_REVISABLE_ES_EN.md) · [NEOCore™ 7.3.4](../../versiones/NEOCORE_7_3_4_ES_EN.md) · [Issue matriz #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)

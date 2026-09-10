@@ -11,6 +11,8 @@
 
 ---
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ## ES · Castellano
 
 ### 1. Binario auditado
@@ -186,34 +188,167 @@ detectar/abrir CArchive, identificar entrypoints y módulos realmente empaquetad
 
 ### 1. Audited binary
 
-`czur_authorized/czur_create` is a stripped x86-64 dynamically linked ELF, 3,348,384 bytes, SHA-256 `cf16915e5948fe3128605db71d039d51bc36004716e82edd35905650b1c3b6e9`, with BuildID `3f71fafa6e2e915b9bed491dd97e1bab785158de`.
+Path inside the extracted package:
 
-Direct dynamic dependencies observed were limited to `libdl`, `libz`, `libpthread`, `libc` and the ELF loader. Relevant dynamic imports included `dlopen`, `execvp` and `fork`; direct `connect/socket/send/recv/curl/SSL` symbols were not observed.
+`/opt/apps/scanner/czur_authorized/czur_create`
 
-This does **not** establish that the program cannot use networking: it may dynamically load code, launch another process or embed a higher-level runtime.
+Observed characteristics:
 
-### 2. Embedded-module evidence
+```text
+ELF 64-bit LSB executable, x86-64
+SYSV
+dynamically linked
+interpreter /lib64/ld-linux-x86-64.so.2
+for GNU/Linux 2.6.32
+stripped
+size: 3,348,384 bytes
+payload mtime: 2025-03-31 14:03:49
+SHA-256: cf16915e5948fe3128605db71d039d51bc36004716e82edd35905650b1c3b6e9
+BuildID SHA-1: 3f71fafa6e2e915b9bed491dd97e1bab785158de
+```
 
-Strings include Python module names such as `requests.api`, `urllib3.connection`, `socket`, `socketserver`, `http.server`, `Crypto.Util._raw_api`, `cffi.api` and several `multiprocessing` modules.
+Direct dynamic dependencies observed through `ldd`:
 
-These strings demonstrate packaged capability/names, not executed network activity.
+```text
+libdl.so.2
+libz.so.1
+libpthread.so.0
+libc.so.6
+ld-linux-x86-64.so.2
+```
 
-The combination of a small ELF bootloader-like dependency set, Python module strings, process/dynamic-loading imports, and the previously observed identical ELF BuildID for `czur_create` and `CzurScanner` despite different whole-file SHA-256 values is strongly compatible with a PyInstaller-style bundle using a common bootloader plus different appended archives. This remains a **strong hypothesis pending direct CArchive/cookie detection**.
+### 2. Sensitive imports
 
-PyInstaller's own documentation states that its one-file executable can carry an appended `CArchive` and that `pyi-archive_viewer` can inspect ELF executables built in this form:
+The ELF dynamic table showed only these imports relevant to process creation/loading:
+
+```text
+dlopen
+execvp
+fork
+```
+
+No symbols such as `connect`, `socket`, `send`, `recv`, `curl`, `SSL_*` or `HTTP_*` appeared in that direct dynamic table.
+
+**Interpretation:** this does not demonstrate absence of networking. An executable may dynamically load libraries with `dlopen`, invoke another process with `execvp`, or contain/embed a runtime that resolves networking in another layer.
+
+### 3. Strings and strong indication of a packaged Python runtime
+
+Strings in the binary include module names such as:
+
+```text
+Crypto.Util._raw_api
+cffi.api
+charset_normalizer.api
+http.server
+multiprocessing.connection
+multiprocessing.forkserver
+multiprocessing.popen_forkserver
+packaging._tokenizer
+requests.api
+socket
+socketserver
+urllib3.connection
+urllib3.connectionpool
+urllib3.util.connection
+```
+
+This demonstrates that Python module names associated with HTTP/networking and multiprocessing are present in the artifact. **It does not demonstrate that they execute or that a connection is established.**
+
+The combination of:
+
+- a small ELF with few direct dependencies;
+- `dlopen`, `fork` and `execvp`;
+- abundant Python module names;
+- and the previously observed fact that `czur_create` and `CzurScanner` share the same ELF BuildID despite different SHA-256 hashes;
+
+is **compatible with —and constitutes a strong indication of— PyInstaller-style packaging using the same bootloader with different embedded/appended files**. This is not fixed as fact until the PyInstaller `CArchive`/cookie is detected or the executable is opened with a compatible inspection tool.
+
+PyInstaller's official documentation explains that a one-file executable may carry a `CArchive` concatenated to the executable, that the bootloader opens it by searching at the end of its own file, and that `pyi-archive_viewer` can directly inspect ELF executables packaged in this way.
+
+Reference sources:
 
 - https://pyinstaller.org/en/stable/installation.html
 - https://www.pyinstaller.org/en/stable/advanced-topics.html
 
-### 3. Current classification
+### 4. Relationship with `CzurScanner`
 
-| Question | State |
-|---|---|
-| `czur_create` executed as root by installer path | **FACT** |
-| direct process/dynamic loading capability | **FACT** |
-| Python HTTP/socket module names embedded | **FACT** |
-| actual outbound network traffic | **NOT VERIFIED** |
-| PyInstaller-style packaging | **STRONG HYPOTHESIS / PENDING VERIFICATION** |
-| malicious behaviour | **NOT DEMONSTRATED** |
+The previous review observed:
 
-Next step: inspect for PyInstaller markers/CArchive and enumerate embedded entrypoints **without executing the target**. Only after static extraction should dynamic execution be considered inside an isolated snapshot/container/VM with filesystem, process and network tracing.
+```text
+czur_create
+SHA-256 cf16915e5948fe3128605db71d039d51bc36004716e82edd35905650b1c3b6e9
+
+CzurScanner
+SHA-256 233bd777f24051b5681857aa3a66d637f0c10ce3e5bb8ca80edd70e96203142c
+
+BuildID in both:
+3f71fafa6e2e915b9bed491dd97e1bab785158de
+```
+
+If PyInstaller is confirmed, the identical BuildID would cease to be a particularly unusual anomaly: it would be consistent with two applications built with the same ELF bootloader but different appended Python/`CArchive` files, which do alter the SHA-256 of the complete file.
+
+**State:** `STRONG_HYPOTHESIS / VERIFICATION_PENDING`.
+
+### 5. Public search for the helper
+
+Web searches performed on 2026-09-08 did not find a useful indexed result for the exact name `czur_create` or its observed SHA-256. This **does not demonstrate that public documentation or analysis does not exist**; it only means the helper did not appear in the indexed results consulted.
+
+### 6. Next static test, without executing CZUR code
+
+The next phase should attempt to identify and list a possible PyInstaller archive without executing `czur_create`:
+
+```bash
+CREATE="$HOME/CZUR-package-audit/rootfs/tmp/opt/apps/scanner/czur_authorized/czur_create"
+SCANNER="$HOME/CZUR-package-audit/rootfs/tmp/opt/apps/scanner/CzurScanner"
+
+# PyInstaller indicators / appended archive
+strings -a "$CREATE" | grep -Ei '_MEIPASS|PYZ|pyi-|pyiboot|pyimod|CArchive|MEI' | head -200
+strings -a "$SCANNER" | grep -Ei '_MEIPASS|PYZ|pyi-|pyiboot|pyimod|CArchive|MEI' | head -200
+
+echo '===== TAIL CREATE ====='
+tail -c 512 "$CREATE" | xxd -g1
+
+echo '===== TAIL SCANNER ====='
+tail -c 512 "$SCANNER" | xxd -g1
+
+# Compare where both artifacts diverge
+cmp -l "$CREATE" "$SCANNER" | head -40 || true
+
+# Size and ELF/sections
+stat -c '%n %s bytes' "$CREATE" "$SCANNER"
+readelf -n "$CREATE" | sed -n '1,120p'
+readelf -S "$CREATE" | tail -40
+```
+
+For specialised inspection, PyInstaller can be installed in an **audit venv**, without installing or executing the CZUR package:
+
+```bash
+python3 -m venv "$HOME/CZUR-package-audit/venv-pyinstaller"
+. "$HOME/CZUR-package-audit/venv-pyinstaller/bin/activate"
+pip install --upgrade pip pyinstaller
+pyi-archive_viewer -l "$CREATE"
+```
+
+`pyi-archive_viewer -l` inspects the packaged archive; it is not equivalent to executing `czur_create`.
+
+### 7. Incremental synthesis
+
+```text
+FACT:
+czur_create is a stripped x86-64 ELF and the installer intends to run it as root.
+
+FACT:
+its dynamic table imports dlopen, fork and execvp.
+
+FACT:
+the file contains names for requests, urllib3, socket, http.server and other Python modules.
+
+NOT DEMONSTRATED:
+that czur_create opens sockets or performs network traffic.
+
+STRONG INFERENCE:
+the artifact appears to be a packaged Python runtime, possibly PyInstaller.
+
+NEXT FALSIFICATION:
+detect/open CArchive, identify entrypoints and actually packaged modules before any privileged execution.
+```

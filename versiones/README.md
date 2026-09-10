@@ -50,13 +50,13 @@ CURRENT_VERSION ≠ HISTORICAL_VERSION
 
 7.3.4 hereda íntegramente 7.3.3 y fija como delta material una evolución del régimen de maduración neoaxiomática: los C-NAX nuevos disponen de **7 días naturales** de ventana de contraste antes de poder fijarse por silencio procedimental, mientras SAN™ permanece permanentemente abierta.
 
-El backlog C-NAX-15–C-NAX-29, auditado sin respuestas externas sustantivas al adoptar esta versión, entra en una ventana transitoria excepcional hasta **2026-09-08 12:33 Europe/Madrid (CEST)**. Si aparece una respuesta sustantiva antes del corte, el candidato afectado continúa en SAN™ y no se fija automáticamente por silencio. `SILENCIO ≠ VALIDACIÓN · FIJAR ≠ CERRAR · CANON ≠ DOGMA`.
+El backlog histórico C-NAX-15–C-NAX-29 tuvo una ventana transitoria excepcional hasta **2026-09-08 12:33 Europe/Madrid (CEST)**. La revisión individual de sus SAN confirmó que al corte no constaba respuesta externa sustantiva; por efecto de la regla transitoria quedaron **fijados como NAX-15–NAX-29 con esa fecha normativa**, manteniendo abiertas sus SAN y preservando los C-NAX como genealogía. C-NAX-30, abierto el 2026-09-10, sigue la ventana ordinaria de 7 días. `SILENCIO ≠ VALIDACIÓN · FIJAR ≠ CERRAR · CANON ≠ DOGMA`.
 
 [Detalle de 7.3.4](./NEOCORE_7_3_4_ES_EN.md) · [Regla 7 días + transición](../propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_7_DIAS_Y_TRANSICION_2026_ES_EN.md)
 
 ## Histórico
 
-- **7.3.4** · actual · maduración neoaxiomática ágil de 7 días + transición excepcional del backlog + reapertura permanente SAN™.
+- **7.3.4** · actual · maduración neoaxiomática ágil de 7 días + transición del backlog ya resuelta en NAX-15–NAX-29 + reapertura permanente SAN™.
 - **7.3.3** · evolución modular WEB4™ verificada + arquitectura social de nodos y aportes trazables.
 - **7.3.2** · política de referencia única y simplificación documental; base inmediata de 7.3.3.
 - **7.3** · canon abierto promovido el 2026-08-26; conserva su documento específico como registro de esa fijación.
@@ -116,13 +116,13 @@ CURRENT_VERSION ≠ HISTORICAL_VERSION
 
 7.3.4 fully inherits 7.3.3 and fixes as a material delta an evolution of the neoaxiomatic maturation regime: new C-NAX candidates receive a **7-calendar-day** scrutiny window before procedural fixation by silence may occur, while SAN™ remains permanently open.
 
-The C-NAX-15–C-NAX-29 backlog, audited as having no external substantive responses when this version was adopted, enters an exceptional transition window ending **2026-09-08 12:33 Europe/Madrid (CEST)**. If a substantive response appears before the cutoff, the affected candidate remains under SAN™ and is not automatically fixed by silence. `SILENCE ≠ VALIDATION · FIXATION ≠ CLOSURE · CANON ≠ DOGMA`.
+The historical C-NAX-15–C-NAX-29 backlog had an exceptional transition window ending **2026-09-08 12:33 Europe/Madrid (CEST)**. Individual review of their SAN nodes confirmed that no external substantive response was recorded by the cutoff; under the transitional rule they were therefore **fixed as NAX-15–NAX-29 with that normative date**, while their SAN routes remain open and the C-NAX forms are preserved as genealogy. C-NAX-30, opened on 2026-09-10, follows the ordinary 7-day window. `SILENCE ≠ VALIDATION · FIXATION ≠ CLOSURE · CANON ≠ DOGMA`.
 
 [7.3.4 detail](./NEOCORE_7_3_4_ES_EN.md) · [7-day + transition rule](../propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_7_DIAS_Y_TRANSICION_2026_ES_EN.md)
 
 ## History
 
-- **7.3.4** · current · 7-day agile neoaxiomatic maturation + exceptional backlog transition + permanent SAN™ reopening.
+- **7.3.4** · current · 7-day agile neoaxiomatic maturation + backlog transition resolved as NAX-15–NAX-29 + permanent SAN™ reopening.
 - **7.3.3** · verified WEB4™ modular evolution + social architecture of traceable nodes and contributions.
 - **7.3.2** · single-reference policy and documentary simplification; immediate base of 7.3.3.
 - **7.3** · open canon promoted on 2026-08-26; its version-specific document remains as the record of that fixation.

@@ -1,7 +1,7 @@
 # Postcheck dinámico · README, índices y enlaces / Dynamic README, indices and links postcheck
 
 **Fecha / Date:** 2026-09-10
-**Estado / Status:** **REQUIERE CORRECCIÓN / NEEDS CORRECTION**
+**Estado / Status:** **OK**
 
 > **Alcance / Scope:** el grafo vivo excluye `wiki-legacy-archive/` y las entradas raíz legacy `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` y `FOREWORD.md`. Esos nombres legacy no constituyen superficies canónicas vivas; tras su retirada de `main`, su contenido histórico permanece recuperable mediante Git. / the living graph excludes `wiki-legacy-archive/` and the root legacy entry files `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` and `FOREWORD.md`. Those legacy names are not living canonical surfaces; after retirement from `main`, their historical contents remain recoverable through Git.
 
@@ -9,20 +9,20 @@
 
 ## ES · Resultado
 
-- Archivos Markdown activos revisados: **546**.
+- Archivos Markdown activos revisados: **563**.
 - Archivos Markdown históricos excluidos del estado vivo: **55**.
 - Entradas legacy excluidas del estado vivo: **0**.
 - README activos revisados: **25**.
-- Enlaces internos de ruta comprobados: **12471**.
+- Enlaces internos de ruta comprobados: **13264**.
 - Alias internos de GitHub Wiki reconocidos: **44**.
-- Enlaces externos inventariados sin comprobar disponibilidad remota: **2098**.
-- Enlaces sólo a ancla detectados: **965**.
+- Enlaces externos inventariados sin comprobar disponibilidad remota: **2159**.
+- Enlaces sólo a ancla detectados: **1019**.
 - Bloques de último manifiesto encontrados en README: **8**.
 - Bloques legacy NEO_CURRENT_NAV encontrados en README: **0**.
 - Bloques redundantes MANIFESTOS_CURRENT encontrados en README: **0**.
-- Manifiestos canónicos detectados: **85 · I–LXXXV**.
-- Último manifiesto / Síntesis: **LXXXV / #180**.
-- Enlaces internos rotos del grafo vivo: **1**.
+- Manifiestos canónicos detectados: **86 · I–LXXXVI**.
+- Último manifiesto / Síntesis: **LXXXVI / #187**.
+- Enlaces internos rotos del grafo vivo: **0**.
 - Fallos canónicos críticos: **0**.
 
 ### Comprobaciones canónicas
@@ -38,26 +38,24 @@
 
 ### Enlaces internos rotos del grafo vivo
 
-| Origen | Destino | Motivo |
-|---|---|---|
-| `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` | `../../manifiestos/32_reversion_ideologica_mcluhan_neo0_ES_EN.md` | destino inexistente / missing target |
+- Ninguno detectado por el validador de rutas del repositorio.
 
 ## EN · Result
 
-- Active Markdown files reviewed: **546**.
+- Active Markdown files reviewed: **563**.
 - Historical Markdown files excluded from living-state health: **55**.
 - Legacy entry files excluded from living-state health: **0**.
 - Active README files reviewed: **25**.
-- Internal path links checked: **12471**.
+- Internal path links checked: **13264**.
 - GitHub Wiki extensionless page aliases recognised: **44**.
-- External links inventoried without checking remote availability: **2098**.
-- Anchor-only links detected: **965**.
+- External links inventoried without checking remote availability: **2159**.
+- Anchor-only links detected: **1019**.
 - Latest-manifesto blocks found in README files: **8**.
 - Legacy NEO_CURRENT_NAV blocks found in README files: **0**.
 - Redundant MANIFESTOS_CURRENT blocks found in README files: **0**.
-- Canonical manifestos detected: **85 · I–LXXXV**.
-- Latest manifesto / synthesis: **LXXXV / #180**.
-- Broken internal links in the living graph: **1**.
+- Canonical manifestos detected: **86 · I–LXXXVI**.
+- Latest manifesto / synthesis: **LXXXVI / #187**.
+- Broken internal links in the living graph: **0**.
 - Canonical critical failures: **0**.
 
 ### Canonical checks
@@ -73,8 +71,6 @@
 
 ### Broken internal links in the living graph
 
-| Source | Target | Reason |
-|---|---|---|
-| `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` | `../../manifiestos/32_reversion_ideologica_mcluhan_neo0_ES_EN.md` | destino inexistente / missing target |
+- None detected by the repository route validator.
 
 **Innova_N · NEOCore™ · Neodialectica Framework™ / Network**

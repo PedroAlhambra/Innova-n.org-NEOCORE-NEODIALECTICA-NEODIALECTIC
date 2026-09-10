@@ -7,7 +7,7 @@
 **Fecha / Date:** 2026-08-10  
 **Autoría / Authorship:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico.  
 **Síntesis Abierta / Open Synthesis:** [Issue #112](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/112)  
-**Relaciones principales / Main relations:** [IV · Neodialéctica y Bien Común™](canonicos/IV_neodialectica_bien_comun_ES_EN.md) · [IX · Memoria, Genealogía y Trazabilidad™](canonicos/IX_memoria_genealogia_trazabilidad_ES_EN.md) · [XI · Neorrenacimiento Humano™](canonicos/XI_neorrenacimiento_humano_ES_EN.md) · [XV · Los Titanes™](canonicos/XV_los_titanes_despertar_de_la_gente_ES_EN.md) · [XVI · Refragmentación Arquetípica™](canonicos/XVI_refragmentacion_arquetipica_ES_EN.md) · [XXXIV · Auditoría Conjunta Perpetua™](canonicos/XXXIV_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) · [XLVI · Cerrar la Herida™](canonicos/XLVI_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md) · [LIII · Leónidas™](canonicos/LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [LVIII · Inteligencia Civilizatoria™](canonicos/LVIII_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md) · [LXVI · NeoSinergia™.](canonicos/LXVI_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
+**Relaciones principales / Main relations:** [IV · Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good](./canonicos/IV_neodialectica_bien_comun_ES_EN.md) · [IX · Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability](./canonicos/IX_memoria_genealogia_trazabilidad_ES_EN.md) · [XI · Manifiesto del Neorrenacimiento Humano / Manifesto of the Human Neo-Renaissance](./canonicos/XI_neorrenacimiento_humano_ES_EN.md) · [XV · Manifiesto de los Titanes™ · El despertar de la gente / Manifesto of the Titans™ · The Awakening of the People](./canonicos/XV_los_titanes_despertar_de_la_gente_ES_EN.md) · [XVI · Manifiesto de la Refragmentación Arquetípica™ / Manifesto of Archetypal Refragmentation™](./canonicos/XVI_refragmentacion_arquetipica_ES_EN.md) · [XXXIV · Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™ / Operational Utility of the Framework and Perpetual Joint Audit™](./canonicos/XXXIV_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) · [XLVI · Cerrar la Herida™ · Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria / Closing the Wound™ · Evolutionary Understanding, Memory and Civilisational Reconciliation](./canonicos/XLVI_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md) · [LIII · Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](./canonicos/LIII_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [LVIII · Inteligencia Civilizatoria™ · Democracia Cognitiva y Deber de Síntesis / Civilisational Intelligence™ · Cognitive Democracy and Duty of Synthesis](./canonicos/LVIII_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md) · [LXVI · NeoSinergia™ · Necesidad de Cooperación en Neowar™ Activa · Sistema MÉDICI™ · Leónidas–Cancerbero™ / NeoSynergy™ · Necessary Cooperation under Active Neowar™ · MÉDICI™ System · Leónidas–Cerberus™](./canonicos/LXVI_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -567,6 +567,17 @@ Neodialectics is peace because it does not require erasing memory or differences
 
 <!-- NEO_MANIFESTO_NAV_END -->
 
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_START -->
+
+## Relaciones neoaxiomáticas recíprocas / Reciprocal Neoaxiomatic relations
+
+> **Relación documental/conceptual, no identidad ni causalidad.** Este bloque es la inversa navegable de las relaciones NAX→Manifiesto y mantiene simetría de navegación. / **Documentary/conceptual relation, not identity or causality.** This block is the navigable inverse of NAX→Manifesto relations and preserves navigational symmetry.
+
+- [NAX-17 · Reconstrucción Sistémica™ / Systemic Reconstruction™](../neoaxiomas/NAX-17_RECONSTRUCCION_SISTEMICA_ES_EN.md)
+- [NAX-18 · Motor del Bien Común + NeoSinergia™ / Common-Good Engine + NeoSynergy™](../neoaxiomas/NAX-18_MOTOR_BIEN_COMUN_NEOSINERGIA_ES_EN.md)
+
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_END -->
+
 <!-- NEO_CROSS_REFERENCES_START -->
 
 ## Referencias cruzadas canónicas / Canonical cross-references
@@ -590,6 +601,9 @@ Neodialectics is peace because it does not require erasing memory or differences
 
 ### Capas y fuentes relacionadas / Related layers and sources
 
+- [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
 - [NEOCore™ · marco / framework](../README.md)
+
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-17` · `NAX-18` → [Neoaxiomas™](../neoaxiomas/README.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->

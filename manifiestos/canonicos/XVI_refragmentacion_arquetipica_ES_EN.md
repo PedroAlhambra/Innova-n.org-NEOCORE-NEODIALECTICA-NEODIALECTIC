@@ -720,6 +720,17 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 <!-- NEO_MANIFESTO_NAV_END -->
 
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_START -->
+
+## Relaciones neoaxiomáticas recíprocas / Reciprocal Neoaxiomatic relations
+
+> **Relación documental/conceptual, no identidad ni causalidad.** Este bloque es la inversa navegable de las relaciones NAX→Manifiesto y mantiene simetría de navegación. / **Documentary/conceptual relation, not identity or causality.** This block is the navigable inverse of NAX→Manifesto relations and preserves navigational symmetry.
+
+- [NAX-10 · Gramática Arquetípica de Custodia™ — Águila, Corona, Tierra, Torre, Piedra y León / Archetypal Grammar of Custodianship™ — Eagle, Crown, Earth, Tower, Stone and Lion](../../neoaxiomas/NAX-10_GRAMATICA_ARQUETIPICA_CUSTODIA_ES_EN.md)
+- [NAX-28 · Ascenso de Capa y No Violación de la Realidad™ / Layer Ascent and Non-Violation of Reality™](../../neoaxiomas/NAX-28_ASCENSO_CAPA_NO_VIOLACION_REALIDAD_ES_EN.md)
+
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_END -->
+
 <!-- NEO_CROSS_REFERENCES_START -->
 
 ## Referencias cruzadas canónicas / Canonical cross-references
@@ -747,5 +758,7 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 - [Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md)
 - [NEOCore™ · marco / framework](../../README.md)
+
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-10` · `NAX-28` → [Neoaxiomas™](../../neoaxiomas/README.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->

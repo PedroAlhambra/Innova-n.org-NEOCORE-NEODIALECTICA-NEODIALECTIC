@@ -1,23 +1,22 @@
 # Auditoría global de simetría ES/EN / Global ES/EN symmetry audit
 
-**Fecha / Date:** 2026-08-31
+**Fecha / Date:** 2026-09-10
 **Regla / Rule:** **NO COMPRESIÓN / NO COMPRESSION.** Toda superficie editorial bilingüe debe conservar contenido y estructura: títulos, secciones, listas, citas, fórmulas, tablas, cautelas, ejemplos, navegación y llamadas a Síntesis. / Every bilingual editorial surface must preserve content and structure: titles, sections, lists, quotations, formulas, tables, safeguards, examples, navigation and Synthesis calls.
 
 > Los espejos `manifiestos/canonicos/` no se duplican en este recuento: su igualdad con la fuente se valida mediante la auditoría estructural canónica. / `manifiestos/canonicos/` mirrors are not double-counted here: equality with their source is validated by the canonical structural audit.
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **413**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **346**.
-- Fallos estructurales divididos / Split structural failures: **1**.
+- Markdown activo examinado / Active Markdown scanned: **462**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **391**.
+- Fallos estructurales divididos / Split structural failures: **0**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
-- Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **1**.
+- Plantillas de Issue con etiquetas visibles no simétricas / Issue templates with non-symmetric visible labels: **0**.
 
 ## Fallos divididos / Split failures
 
-- `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` · ES=1208 · EN=1122 · ratio=0.93
-  - Invocación: párrafos ES=2 EN=1
+- Ninguno / None.
 
 ## Marcadores / Markers
 
@@ -29,14 +28,31 @@
 
 ## Plantillas GitHub Issue / GitHub Issue templates
 
-- `.github/ISSUE_TEMPLATE/grupo_comunidad_web4.yml`: placeholder=Nombre del grupo, colectivo, comunidad o proyecto
+- OK.
 
 ## Inventario / Inventory
 
 | Archivo | Estado | Detalle |
 |---|---|---|
+| `.github/PULL_REQUEST_TEMPLATE.md` | **OK** |  |
+| `.github/REPOSITORY_SETTINGS_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
+| `.github/SECURITY.md` | **OK** |  |
+| `CODE_OF_CONDUCT.md` | **OK** |  |
+| `CONTRIBUTING.md` | **OK** |  |
 | `README.md` | **OK** |  |
+| `SECURITY.md` | **OK** |  |
+| `SUPPORT.md` | **OK** |  |
 | `actualizaciones/2026-08-31_NEO0_COMPOSITOR_ASCENSO_CAPA_README_ES_EN.md` | **OK** |  |
+| `actualizaciones/2026-09-08_ADDENDUM2_DELTA_CZUR_ET24_PRO_PYINSTALLER_CONFIRMADO_ES_EN.md` | **OK** |  |
+| `actualizaciones/2026-09-08_ADDENDUM3_DELTA_CZUR_ET24_PRO_ALIBABA_CLOUD_CAPABILITIES_ES_EN.md` | **OK** |  |
+| `actualizaciones/2026-09-08_ADDENDUM_DELTA_CZUR_ET24_PRO_CZUR_CREATE_STATIC_ES_EN.md` | **OK** |  |
+| `actualizaciones/2026-09-08_DELTA_SINTESIS_CZUR_ET24_PRO_LINUX_AUDITORIA_ES_EN.md` | **OK** |  |
+| `actualizaciones/2026-09-09_ADDENDUM4_DELTA_CZUR_ET24_PRO_MODULE_AUTHORIZED_STATIC_ES_EN.md` | **OK** |  |
+| `actualizaciones/2026-09-09_ADDENDUM5_DELTA_CZUR_ET24_PRO_AUTORIZACION_LOCAL_Y_CZUR_CREATE_ENTRYPOINT_ES_EN.md` | **OK** |  |
+| `actualizaciones/2026-09-09_ADDENDUM6_DELTA_CZUR_ET24_PRO_RAW_MARSHAL_CODEOBJECT_ES_EN.md` | **OK** |  |
+| `actualizaciones/2026-09-09_ADDENDUM7_DELTA_CZUR_ET24_PRO_AUTH_WRAPPER_CZUR_CREATE_ES_EN.md` | **OK** |  |
+| `actualizaciones/2026-09-09_ADDENDUM8_DELTA_CZUR_ET24_PRO_USER_SUPPORT_STATIC_ES_EN.md` | **OK** |  |
+| `actualizaciones/2026-09-09_ADDENDUM9_DELTA_CZUR_ET24_PRO_DEFINE_NETWORK_TIME_PATH_ES_EN.md` | **OK** |  |
 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` | **OK** |  |
 | `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` | **OK** |  |
 | `analisis/2026-08-29_hipotesis_grant_verne_ulises_vector_arquetipico_ES_EN.md` | **OK** |  |
@@ -205,11 +221,17 @@
 | `auditorias/publicas/2026-08-31_revision_integral_github_publico_iteracion_05_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-31_revision_integral_github_publico_iteracion_06_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-31_revision_integral_github_publico_iteracion_07_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-09-01_addendum_kdp_contradiccion_capacidad_vinculacion_multilingue_caso_51454627_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-09-03_kdp_matriz_casos_abiertos_y_reescalado_temporal_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/KDP_IDEA_GENEALOGIA_TRAZABLE_CASOS_ISSUES_DELTAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/README.md` | **OK** |  |
 | `difusion/2026-08-09_marco_tanda_01_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `difusion/2026-08-09_marco_tanda_02_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
+| `experimentos/microfauna/PROTOCOLO_MUESTRAS_ES_EN.md` | **OK** |  |
+| `experimentos/microfauna/README.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
+| `experimentos/microfauna/muestras/M001_2026-08-09/README.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` | **OK** |  |
 | `manifiestos/02_neodialectica_bien_comun_ES_EN.md` | **OK** |  |
 | `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` | **OK** |  |
@@ -221,7 +243,7 @@
 | `manifiestos/08_neorrenacimiento_humano_ES_EN.md` | **OK** |  |
 | `manifiestos/09_parasitismo_sistemico_ES_EN.md` | **OK** |  |
 | `manifiestos/10_los_sin_ego_ES_EN.md` | **OK** |  |
-| `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` | **REVISAR** | Invocación: párrafos ES=2 EN=1 |
+| `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` | **OK** |  |
 | `manifiestos/12_los_sin_ego_ES_EN.md` | **OK** |  |
 | `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` | **OK** |  |
 | `manifiestos/14_contra_alienacion_humana_ES_EN.md` | **OK** |  |
@@ -296,6 +318,7 @@
 | `manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md` | **OK** |  |
 | `manifiestos/84_intermediacion_acceso_permeabilidad_poder_ES_EN.md` | **OK** |  |
 | `manifiestos/85_memoria_capitan_grant_ES_EN.md` | **OK** |  |
+| `manifiestos/86_federacion_neodialectica_network_framework_ES_EN.md` | **OK** |  |
 | `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | **OK** |  |
 | `manifiestos/README.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` | **OK** |  |
@@ -304,6 +327,7 @@
 | `manifiestos/deltas/2026-08-29_relacion_genealogica_navegable_ES_EN.md` | **OK** |  |
 | `manifiestos/deltas/LXI_delta_genetica_adn_neopandora_custodia_multiescalar_ES_EN.md` | **OK** |  |
 | `manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md` | **OK** |  |
+| `manifiestos/deltas/XXIII_delta_reciprocidad_operativa_acceso_neosinergia_ES_EN.md` | **OK** |  |
 | `neoaxiomas/C-NAX-15_SOBERANIA_INTELECTUAL_ESPECIE_ES_EN.md` | **OK** |  |
 | `neoaxiomas/C-NAX-16_NO_CORONACION_PARTE_ES_EN.md` | **OK** |  |
 | `neoaxiomas/C-NAX-17_RECONSTRUCCION_SISTEMICA_ES_EN.md` | **OK** |  |
@@ -318,6 +342,8 @@
 | `neoaxiomas/C-NAX-26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md` | **OK** |  |
 | `neoaxiomas/C-NAX-27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` | **OK** |  |
 | `neoaxiomas/C-NAX-28_ASCENSO_CAPA_NO_VIOLACION_REALIDAD_ES_EN.md` | **OK** |  |
+| `neoaxiomas/C-NAX-29_FEDERABILIDAD_SIN_ABSORCION_ES_EN.md` | **OK** |  |
+| `neoaxiomas/C-NAX-30_OPERADOR_VECTORIZADOR_ES_EN.md` | **OK** |  |
 | `neoaxiomas/NAX-01_UNIDAD_SENTIDO_DISTRIBUCION_POTENCIA_ES_EN.md` | **OK** |  |
 | `neoaxiomas/NAX-02_PRIMERA_CAPA_FRACTAL_MULTICABEZA_ES_EN.md` | **OK** |  |
 | `neoaxiomas/NAX-03_NO_HOMOGENEIZACION_PREVIA_ES_EN.md` | **OK** |  |
@@ -333,6 +359,21 @@
 | `neoaxiomas/NAX-12_TRAZABILIDAD_SUSTITUTIVA_BUROCRACIA_REDUNDANTE_ES_EN.md` | **OK** |  |
 | `neoaxiomas/NAX-13_LIBERACION_TIEMPO_CONTROL_CREACION_APORTE_ES_EN.md` | **OK** |  |
 | `neoaxiomas/NAX-14_PREVENCION_BIFURCACION_SIMBIOTICA_ES_EN.md` | **OK** |  |
+| `neoaxiomas/NAX-15_SOBERANIA_INTELECTUAL_ESPECIE_ES_EN.md` | **OK** |  |
+| `neoaxiomas/NAX-16_NO_CORONACION_PARTE_ES_EN.md` | **OK** |  |
+| `neoaxiomas/NAX-17_RECONSTRUCCION_SISTEMICA_ES_EN.md` | **OK** |  |
+| `neoaxiomas/NAX-18_MOTOR_BIEN_COMUN_NEOSINERGIA_ES_EN.md` | **OK** |  |
+| `neoaxiomas/NAX-19_INVIOLABILIDAD_RELACIONAL_SEPARACION_PLANOS_ES_EN.md` | **OK** |  |
+| `neoaxiomas/NAX-20_HUMANIDAD_COMUN_DIFERENCIA_ES_EN.md` | **OK** |  |
+| `neoaxiomas/NAX-21_IGNORANCIA_SISTEMICA_MAL_NO_SUPERIORIDAD_DESTRUCCION_ES_EN.md` | **OK** |  |
+| `neoaxiomas/NAX-22_MEMORIA_MATERIAL_RELACIONAL_ES_EN.md` | **OK** |  |
+| `neoaxiomas/NAX-23_CONSERVACION_FRACTAL_COMUN_ES_EN.md` | **OK** |  |
+| `neoaxiomas/NAX-24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md` | **OK** |  |
+| `neoaxiomas/NAX-25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md` | **OK** |  |
+| `neoaxiomas/NAX-26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md` | **OK** |  |
+| `neoaxiomas/NAX-27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` | **OK** |  |
+| `neoaxiomas/NAX-28_ASCENSO_CAPA_NO_VIOLACION_REALIDAD_ES_EN.md` | **OK** |  |
+| `neoaxiomas/NAX-29_FEDERABILIDAD_SIN_ABSORCION_ES_EN.md` | **OK** |  |
 | `neoaxiomas/README.md` | **OK** |  |
 | `obras/README.md` | **OK** |  |
 | `obras/idea/PRESS_KIT_ES_EN.md` | **OK** |  |
@@ -361,6 +402,7 @@
 | `propuestas/sintesis-abierta/2026-08-25_DELTA_NEORRENACIMIENTO_GENEALOGIA_CONSTITUYENTES_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-25_EXTENSION_C_NAX_20_UNIDAD_DIFERENCIADA_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` | **OK** |  |
+| `propuestas/sintesis-abierta/2026-09-01_DELTA_APORTE_AUDITABLE_PRIVACIDAD_TRAZABILIDAD_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_v0.1_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md` | **OK** |  |
@@ -374,8 +416,10 @@
 | `propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `propuestas/sintesis-abierta/NEOCORE_7_3_AUTOSINTESIS_RECURSIVA_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/NEOCORE_7_3_CANON_ES_EN.md` | **OK** |  |
+| `propuestas/sintesis-abierta/NEOCRONOS_REGISTRO_APORTES_WEB4_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/NEOCRONOS_RETORNO_TEMPORAL_TOKENIZACION_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/NEOCRONOS_UPGRADE_ENTRADA_PANEL_TRAZA_ES_EN.md` | **OK** |  |
+| `propuestas/sintesis-abierta/NEOCRONOS_V03_EVENTOS_CREDITOS_FUNCION_MIGRACION_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/PARTICIPACION_Y_ADHESIONES_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/PROTOCOLO_CMN_0_1_CIENCIA_MULTIDIMENSIONAL_ES_EN.md` | **OK** |  |
@@ -384,6 +428,7 @@
 | `propuestas/sintesis-abierta/README.md` | **OK** |  |
 | `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_365_DIAS_ES_EN.md` | **OK** |  |
+| `propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_7_DIAS_Y_TRANSICION_2026_ES_EN.md` | **OK** |  |
 | `proyeccion/2026-08-11_delta_web4_neocore_patrimonio_comun_aprendizaje_creacion_ES_EN.md` | **OK** |  |
 | `proyeccion/2026-08-13_DIRECCION_WEB4_NEOCRONOS_AGUILA_ES_EN.md` | **OK** |  |
 | `proyeccion/NEOCORE_PRE_7_3_DELTA_ES_EN.md` | **OK** |  |
@@ -395,9 +440,12 @@
 | `snapshots/2026-08-11_NEOCORE_7_CURRENT_SNAPSHOT.md` | **OK** |  |
 | `versiones/NEOCORE_7_3_2_ES_EN.md` | **OK** |  |
 | `versiones/NEOCORE_7_3_3_ES_EN.md` | **OK** |  |
+| `versiones/NEOCORE_7_3_4_ES_EN.md` | **OK** |  |
 | `versiones/README.md` | **OK** |  |
+| `versiones/WEB4_NEOCORE_EVOLUCION_PUBLICA_ES_EN.md` | **OK** |  |
 | `web4/2026-08-10_POSTCHECK_WEB4_PRE_7_3_IDEA_ES_EN.md` | **HISTÓRICO-PRESERVADO** | registro histórico inerte; fuera de la superficie bilingüe viva / immutable historical record; outside the live bilingual surface |
 | `web4/README.md` | **OK** |  |
+| `web4/neocronos/aportes/README.md` | **OK** |  |
 | `wiki-source/Analisis_Neodialecticos_Publicos.md` | **OK** |  |
 | `wiki-source/Aportes_y_Reconocimiento.md` | **OK** |  |
 | `wiki-source/Filosofia_y_NEOCore.md` | **OK** |  |

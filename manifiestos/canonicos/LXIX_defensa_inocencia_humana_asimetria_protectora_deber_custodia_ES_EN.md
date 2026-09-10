@@ -7,7 +7,7 @@
 **Fecha / Date:** 2026-08-11  
 **Estado / Status:** manifiesto público abierto a Síntesis / public manifesto open to Synthesis  
 **Marco / Framework:** NEOCore™ PRE-7.3 · Síntesis Abierta Neodialéctica™ · SAN™  
-**Relaciones principales / Main relations:** [XIV · Manifiesto contra la Alienación Humana™ / Manifesto Against Human Alienation™, XVI · Manifiesto de la Refragmentación Arquetípica™ / Manifesto of Archetypal Refragmentation™, XXV · Manifiesto del Pulido de la Piedra™ / Manifesto of the Polishing of the Stone™, XXVI · Manifiesto de la Misericordia Universal Recíproca™ / Manifesto of Universal Reciprocal Mercy™, XXX · Manifiesto de la Coherencia entre Fines y Medios™ / Manifesto of Coherence between Ends and Means™, XXXVI · Corona, Águila y Custodia de la Edad del Hombre™ / Crown, Eagle and Custodianship of the Age of Man™, XXXVII · Neofraternidad™ / Neofraternity™, XXXVIII · Manifiesto de Protección Integral de la Infancia™ / Manifesto for the Integral Protection of Childhood™, XL · Respeto Neodialéctico, Neoego y Honor Relacional™ / Neodialectical Respect, Neoego and Relational Honour™, XLI · Martillo Limitado, Talión y Fuerza Protectora™ / Limited Hammer, Talion and Protective Force™, XLII · Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva / End of the Manipulated Human Era™ · AI, Awakening and Cognitive Sovereignty, XLVI · Cerrar la Herida™ · Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria / Closing the Wound™ · Evolutionary Understanding, Memory and Civilisational Reconciliation, LII · Manifiesto de la Ciudadanía Humana Neodialéctica™ / Manifesto of Neodialectical Human Citizenship™, LVII · Madre, Refugio y Retorno Consciente™ / Mother, Refuge and Conscious Return™, LVIII · Inteligencia Civilizatoria™ · Democracia Cognitiva y Deber de Síntesis / Civilisational Intelligence™ · Cognitive Democracy and Duty of Synthesis, LXVIII · Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species, LXX · El Fauno™ · Masculinidad Fragmentada, Depredación Relacional y Retorno al Hombre / The Faun™ · Fragmented Masculinity, Relational Predation and Return to Manhood, LXXI · Libertad Sexual, Hipersexualización Industrial y Separación de Planos™ / Sexual Freedom, Industrial Hypersexualisation and Separation of Planes™, LXXII · El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™ · Strength, Desire, Power and Responsibility, ∞ · Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal · [NAX-10](../../neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md) · [C-NAX-15](../../neoaxiomas/README.md) · [C-NAX-16](../../neoaxiomas/README.md) · [C-NAX-19](../../neoaxiomas/README.md)
+**Relaciones principales / Main relations:** [XIV · Manifiesto contra la Alienación Humana™ / Manifesto Against Human Alienation™](XIV_contra_alienacion_humana_ES_EN.md) · [XVI · Manifiesto de la Refragmentación Arquetípica™ / Manifesto of Archetypal Refragmentation™](XVI_refragmentacion_arquetipica_ES_EN.md) · [XXV · Manifiesto del Pulido de la Piedra™ / Manifesto of the Polishing of the Stone™](XXV_pulido_de_la_piedra_ES_EN.md) · [XXVI · Manifiesto de la Misericordia Universal Recíproca™ / Manifesto of Universal Reciprocal Mercy™](XXVI_misericordia_universal_reciproca_ES_EN.md) · [XXX · Manifiesto de la Coherencia entre Fines y Medios™ / Manifesto of Coherence between Ends and Means™](XXX_coherencia_fines_medios_ES_EN.md) · [XXXVI · Corona, Águila y Custodia de la Edad del Hombre™ / Crown, Eagle and Custodianship of the Age of Man™](XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md) · [XXXVII · Neofraternidad™ / Neofraternity™](XXXVII_neofraternidad_ES_EN.md) · [XXXVIII · Manifiesto de Protección Integral de la Infancia™ / Manifesto for the Integral Protection of Childhood™](XXXVIII_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) · [XL · Respeto Neodialéctico, Neoego y Honor Relacional™ / Neodialectical Respect, Neoego and Relational Honour™](XL_respeto_neoego_honor_relacional_ES_EN.md) · [XLI · Martillo Limitado, Talión y Fuerza Protectora™ / Limited Hammer, Talion and Protective Force™](XLI_martillo_limitado_talion_fuerza_protectora_ES_EN.md) · [XLII · Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva / End of the Manipulated Human Era™ · AI, Awakening and Cognitive Sovereignty](XLII_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) · [XLVI · Cerrar la Herida™ · Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria / Closing the Wound™ · Evolutionary Understanding, Memory and Civilisational Reconciliation](XLVI_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md) · [LII · Manifiesto de la Ciudadanía Humana Neodialéctica™ / Manifesto of Neodialectical Human Citizenship™](LII_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md) · [LVII · Madre, Refugio y Retorno Consciente™ / Mother, Refuge and Conscious Return™](LVII_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md) · [LVIII · Inteligencia Civilizatoria™ · Democracia Cognitiva y Deber de Síntesis / Civilisational Intelligence™ · Cognitive Democracy and Duty of Synthesis](LVIII_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md) · [LXVIII · Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species](LXVIII_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md) · [LXX · El Fauno™ · Masculinidad Fragmentada, Depredación Relacional y Retorno al Hombre / The Faun™ · Fragmented Masculinity, Relational Predation and Return to Manhood](LXX_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md) · [LXXI · Libertad Sexual, Hipersexualización Industrial y Separación de Planos™ / Sexual Freedom, Industrial Hypersexualisation and Separation of Planes™](LXXI_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md) · [LXXII · El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™ · Strength, Desire, Power and Responsibility](LXXII_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) · [∞ · Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](../INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) · [NAX-10](../../neoaxiomas/README.md) · [NAX-15](../../neoaxiomas/NAX-15_SOBERANIA_INTELECTUAL_ESPECIE_ES_EN.md) · [NAX-16](../../neoaxiomas/NAX-16_NO_CORONACION_PARTE_ES_EN.md) · [NAX-19](../../neoaxiomas/NAX-19_INVIOLABILIDAD_RELACIONAL_SEPARACION_PLANOS_ES_EN.md)
 
 **Navegación / Navigation:** [← LXVIII](LXVIII_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md) · [Índice / Index](../README.md) · [Delta relacional / Relational delta](../../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md) · [LXX →](LXX_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md) · [∞](../INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
 
@@ -255,9 +255,9 @@ Tampoco puede prohibirse estudiar problemas reales por temor a que el dato sea i
 
 > **NO ESTIGMATIZAR ≠ NO INVESTIGAR.**
 
-## XV. Candidato C-NAX-19
+## XV. NAX-19 · fijación posterior
 
-Este manifiesto apoya la apertura de **C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™**:
+Este manifiesto abrió y desarrolló la formulación que posteriormente quedó fijada como **NAX-19 · Inviolabilidad Relacional y Separación de Planos™** con efecto 2026-09-08 12:33 CEST:
 
 > **Ningún deseo, fantasía, rol, vínculo, acceso, dependencia o posición de poder convierte a otra persona en disponible, poseída u obligada. Toda relación legítima debe preservar dignidad, consentimiento válido, capacidad real de salida y responsabilidad proporcional a la asimetría de poder.**
 
@@ -525,9 +525,9 @@ Nor can studying real problems be prohibited because the data may be uncomfortab
 
 > **NOT STIGMATISING ≠ NOT INVESTIGATING.**
 
-## XV. Candidate C-NAX-19
+## XV. NAX-19 · later fixation
 
-This manifesto supports opening **C-NAX-19 · Relational Inviolability and Separation of Planes™**:
+This manifesto opened and developed the formulation later fixed as **NAX-19 · Relational Inviolability and Separation of Planes™**, effective 2026-09-08 12:33 CEST:
 
 > **No desire, fantasy, role, bond, access, dependency or position of power turns another person into someone available, possessed or obliged. Every legitimate relationship must preserve dignity, valid consent, real capacity to exit and responsibility proportional to power asymmetry.**
 
@@ -562,6 +562,17 @@ Este manifiesto debe leerse junto con LXX–LXXII y el delta relacional. Su form
 **Síntesis Abierta específica / Specific Open Synthesis:** [#119](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/119)
 
 **Navegación / Navigation:** [← LXVIII](LXVIII_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md) · [Índice / Index](../README.md) · [Delta relacional / Relational delta](../../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md) · [LXX →](LXX_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md) · [∞](../INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
+
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_START -->
+
+## Relaciones neoaxiomáticas recíprocas / Reciprocal Neoaxiomatic relations
+
+> **Relación documental/conceptual, no identidad ni causalidad.** Este bloque es la inversa navegable de las relaciones NAX→Manifiesto y mantiene simetría de navegación. / **Documentary/conceptual relation, not identity or causality.** This block is the navigable inverse of NAX→Manifesto relations and preserves navigational symmetry.
+
+- [NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™](../../neoaxiomas/NAX-19_INVIOLABILIDAD_RELACIONAL_SEPARACION_PLANOS_ES_EN.md)
+- [NAX-27 · Soberanía Diferenciada de Sistema y Síntesis™ / Differentiated Sovereignty of System and Synthesis™](../../neoaxiomas/NAX-27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md)
+
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_END -->
 
 <!-- NEO_CROSS_REFERENCES_START -->
 
@@ -599,12 +610,12 @@ Este manifiesto debe leerse junto con LXX–LXXII y el delta relacional. Su form
 - [Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md)
 - [NEOCore™ · marco / framework](../../README.md)
 
-**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-10` · `C-NAX-15` · `C-NAX-16` · `C-NAX-19` → [Neoaxiomas™](../../neoaxiomas/README.md)
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-10` · `NAX-15` · `NAX-16` · `NAX-19` · `NAX-27` → [Neoaxiomas™](../../neoaxiomas/README.md)
 
 ### Síntesis y delta / Synthesis and delta
 
 - [Síntesis Abierta LXIX / Open Synthesis LXIX · #119](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/119)
-- [C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™ · #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123)
+- [NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™](../../neoaxiomas/NAX-19_INVIOLABILIDAD_RELACIONAL_SEPARACION_PLANOS_ES_EN.md) · [SAN #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123)
 - [Delta relacional íntegro / Full relational delta](../../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->
