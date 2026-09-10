@@ -1,0 +1,33 @@
+{
+  "id": "drosophila-malecns-connectome",
+  "title": "Connectoma completo de Drosophila · MaleCNS",
+  "status": "external-scientific-resource",
+  "added": "2026-09-10",
+  "domains": ["neuroscience", "connectomics", "simulation", "complex-systems"],
+  "canonical_sources": {
+    "project": "https://male-cns.janelia.org/",
+    "explorer": "https://male-cns.janelia.org/explore/",
+    "download": "https://male-cns.janelia.org/download/",
+    "paper": "https://doi.org/10.1016/j.cell.2026.08.015",
+    "google_research": "https://www.research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/"
+  },
+  "related_experiment": {
+    "name": "Fly Brain Minecraft",
+    "repository": "https://github.com/blendi-remade/fly-brain-minecraft",
+    "platform": "Minecraft 1.21.1 / Fabric",
+    "model": "leaky-integrate-and-fire",
+    "dataset": "neuPrint male-cns:v1.0",
+    "code_license": "MIT",
+    "data_license": "CC BY 4.0"
+  },
+  "dataset_counts": {
+    "paper_proofread_annotated_neurons": 166691,
+    "neuprint_neuron_nodes_reported_by_mod_provenance": 176422,
+    "dataset_synapses_approx": 125000000,
+    "mod_kept_connections_min_5_synapses": 6287749,
+    "mod_kept_synapses": 90296905
+  },
+  "epistemic_boundary": "connectome != complete biophysical brain != consciousness != general intelligence",
+  "neocore_experiment_state": "candidate",
+  "public_page": "./README.md"
+}
