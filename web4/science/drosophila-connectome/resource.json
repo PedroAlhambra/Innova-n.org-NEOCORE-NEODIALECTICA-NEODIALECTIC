@@ -1,6 +1,8 @@
 {
+  "schema_version": "0.2",
   "id": "drosophila-malecns-connectome",
-  "title": "Connectoma completo de Drosophila · MaleCNS",
+  "title_es": "Connectoma completo de Drosophila · MaleCNS",
+  "title_en": "Complete Drosophila Connectome · MaleCNS",
   "status": "external-scientific-resource",
   "added": "2026-09-10",
   "domains": ["neuroscience", "connectomics", "simulation", "complex-systems"],
@@ -20,21 +22,24 @@
       "platform": "Minecraft 1.21.1 / Fabric",
       "model": "leaky-integrate-and-fire",
       "dataset": "neuPrint male-cns:v1.0",
-      "status": "code-and-ci-verified-not-biological-equivalence"
+      "status": "code-and-ci-verified-not-biological-equivalence",
+      "media_reuse": "LINK_ONLY"
     },
     {
       "name": "DOOMFLY",
       "repository": "https://github.com/nftechie/doomfly",
       "platform": "ViZDoom",
       "dataset": "MaleCNS v1.0",
-      "status": "experimental-plasticity-current-learning-gates-not-passed"
+      "status": "experimental-plasticity-current-learning-gates-not-passed",
+      "media_reuse": "LINK_ONLY"
     },
     {
       "name": "Fly64",
       "repository": "https://github.com/ornata/fly",
       "platform": "Super Mario 64",
       "dataset": "MaleCNS",
-      "status": "experimental-demo-author-warns-not-reviewed-for-real-use"
+      "status": "experimental-demo-author-warns-not-reviewed-for-real-use",
+      "media_reuse": "LINK_ONLY"
     }
   ],
   "dataset_counts": {
@@ -46,9 +51,17 @@
   },
   "licenses": {
     "malecns_data": "CC BY 4.0",
-    "fly_brain_minecraft_code": "MIT"
+    "fly_brain_minecraft_code": "MIT",
+    "doomfly_code": "MIT",
+    "fly64_code": "UNVERIFIED"
   },
-  "epistemic_boundary": "connectome != complete biophysical brain != consciousness != general intelligence",
+  "rights_policy": {
+    "media_default": "LINK_ONLY",
+    "rule_es": "Código, datos, papers, screenshots, logos y marcas se verifican como capas de derechos separadas.",
+    "rule_en": "Code, data, papers, screenshots, logos and trademarks are verified as separate rights layers."
+  },
+  "epistemic_boundary_es": "connectoma != cerebro biofísico completo != conciencia != inteligencia general",
+  "epistemic_boundary_en": "connectome != complete biophysical brain != consciousness != general intelligence",
   "neocore_experiment_state": "candidate",
   "public_page": "./README.md"
 }
