@@ -9,20 +9,20 @@
 
 ## ES · Resultado
 
-- Archivos Markdown activos revisados: **544**.
+- Archivos Markdown activos revisados: **545**.
 - Archivos Markdown históricos excluidos del estado vivo: **55**.
 - Entradas legacy excluidas del estado vivo: **0**.
-- README activos revisados: **24**.
-- Enlaces internos de ruta comprobados: **12462**.
+- README activos revisados: **25**.
+- Enlaces internos de ruta comprobados: **12463**.
 - Alias internos de GitHub Wiki reconocidos: **44**.
 - Enlaces externos inventariados sin comprobar disponibilidad remota: **2098**.
-- Enlaces sólo a ancla detectados: **955**.
+- Enlaces sólo a ancla detectados: **957**.
 - Bloques de último manifiesto encontrados en README: **8**.
 - Bloques legacy NEO_CURRENT_NAV encontrados en README: **0**.
 - Bloques redundantes MANIFESTOS_CURRENT encontrados en README: **0**.
 - Manifiestos canónicos detectados: **85 · I–LXXXV**.
 - Último manifiesto / Síntesis: **LXXXV / #180**.
-- Enlaces internos rotos del grafo vivo: **5**.
+- Enlaces internos rotos del grafo vivo: **4**.
 - Fallos canónicos críticos: **0**.
 
 ### Comprobaciones canónicas
@@ -41,27 +41,26 @@
 | Origen | Destino | Motivo |
 |---|---|---|
 | `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` | `../../manifiestos/32_reversion_ideologica_mcluhan_neo0_ES_EN.md` | destino inexistente / missing target |
-| `web4/science/README.md` | `./open-projects/` | destino inexistente / missing target |
 | `web4/science/README.md` | `./open-projects/catalog.json` | destino inexistente / missing target |
-| `web4/science/README.md` | `./open-projects/` | destino inexistente / missing target |
 | `web4/science/README.md` | `./open-projects/catalog.json` | destino inexistente / missing target |
+| `web4/science/open-projects/README.md` | `./catalog.json` | destino inexistente / missing target |
 
 ## EN · Result
 
-- Active Markdown files reviewed: **544**.
+- Active Markdown files reviewed: **545**.
 - Historical Markdown files excluded from living-state health: **55**.
 - Legacy entry files excluded from living-state health: **0**.
-- Active README files reviewed: **24**.
-- Internal path links checked: **12462**.
+- Active README files reviewed: **25**.
+- Internal path links checked: **12463**.
 - GitHub Wiki extensionless page aliases recognised: **44**.
 - External links inventoried without checking remote availability: **2098**.
-- Anchor-only links detected: **955**.
+- Anchor-only links detected: **957**.
 - Latest-manifesto blocks found in README files: **8**.
 - Legacy NEO_CURRENT_NAV blocks found in README files: **0**.
 - Redundant MANIFESTOS_CURRENT blocks found in README files: **0**.
 - Canonical manifestos detected: **85 · I–LXXXV**.
 - Latest manifesto / synthesis: **LXXXV / #180**.
-- Broken internal links in the living graph: **5**.
+- Broken internal links in the living graph: **4**.
 - Canonical critical failures: **0**.
 
 ### Canonical checks
@@ -80,9 +79,8 @@
 | Source | Target | Reason |
 |---|---|---|
 | `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` | `../../manifiestos/32_reversion_ideologica_mcluhan_neo0_ES_EN.md` | destino inexistente / missing target |
-| `web4/science/README.md` | `./open-projects/` | destino inexistente / missing target |
 | `web4/science/README.md` | `./open-projects/catalog.json` | destino inexistente / missing target |
-| `web4/science/README.md` | `./open-projects/` | destino inexistente / missing target |
 | `web4/science/README.md` | `./open-projects/catalog.json` | destino inexistente / missing target |
+| `web4/science/open-projects/README.md` | `./catalog.json` | destino inexistente / missing target |
 
 **Innova_N · NEOCore™ · Neodialectica Framework™ / Network**
