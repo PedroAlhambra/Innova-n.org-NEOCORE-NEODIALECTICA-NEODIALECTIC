@@ -9,23 +9,44 @@
     "explorer": "https://male-cns.janelia.org/explore/",
     "download": "https://male-cns.janelia.org/download/",
     "paper": "https://doi.org/10.1016/j.cell.2026.08.015",
-    "google_research": "https://www.research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/"
+    "google_research": "https://www.research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
+    "r_access": "https://github.com/natverse/malecns"
   },
-  "related_experiment": {
-    "name": "Fly Brain Minecraft",
-    "repository": "https://github.com/blendi-remade/fly-brain-minecraft",
-    "platform": "Minecraft 1.21.1 / Fabric",
-    "model": "leaky-integrate-and-fire",
-    "dataset": "neuPrint male-cns:v1.0",
-    "code_license": "MIT",
-    "data_license": "CC BY 4.0"
-  },
+  "related_experiments": [
+    {
+      "name": "Fly Brain Minecraft",
+      "repository": "https://github.com/blendi-remade/fly-brain-minecraft",
+      "verified_upstream_commit": "6cfa30175003ef25da68a237d5eda958f8047b82",
+      "platform": "Minecraft 1.21.1 / Fabric",
+      "model": "leaky-integrate-and-fire",
+      "dataset": "neuPrint male-cns:v1.0",
+      "status": "code-and-ci-verified-not-biological-equivalence"
+    },
+    {
+      "name": "DOOMFLY",
+      "repository": "https://github.com/nftechie/doomfly",
+      "platform": "ViZDoom",
+      "dataset": "MaleCNS v1.0",
+      "status": "experimental-plasticity-current-learning-gates-not-passed"
+    },
+    {
+      "name": "Fly64",
+      "repository": "https://github.com/ornata/fly",
+      "platform": "Super Mario 64",
+      "dataset": "MaleCNS",
+      "status": "experimental-demo-author-warns-not-reviewed-for-real-use"
+    }
+  ],
   "dataset_counts": {
     "paper_proofread_annotated_neurons": 166691,
-    "neuprint_neuron_nodes_reported_by_mod_provenance": 176422,
+    "neuprint_neuron_nodes_reported_by_minecraft_provenance": 176422,
     "dataset_synapses_approx": 125000000,
-    "mod_kept_connections_min_5_synapses": 6287749,
-    "mod_kept_synapses": 90296905
+    "minecraft_kept_connections_min_5_synapses": 6287749,
+    "minecraft_kept_synapses": 90296905
+  },
+  "licenses": {
+    "malecns_data": "CC BY 4.0",
+    "fly_brain_minecraft_code": "MIT"
   },
   "epistemic_boundary": "connectome != complete biophysical brain != consciousness != general intelligence",
   "neocore_experiment_state": "candidate",
