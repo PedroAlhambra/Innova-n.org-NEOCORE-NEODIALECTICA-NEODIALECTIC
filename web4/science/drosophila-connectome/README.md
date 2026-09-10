@@ -15,6 +15,7 @@ Fuentes canónicas:
 - Descarga/programmatic access: https://male-cns.janelia.org/download/
 - Artículo: https://doi.org/10.1016/j.cell.2026.08.015
 - Google Research: https://www.research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/
+- Acceso/análisis R: https://github.com/natverse/malecns
 
 ## Experimento Minecraft
 
@@ -24,6 +25,13 @@ Repositorio externo: https://github.com/blendi-remade/fly-brain-minecraft
 
 La frase «meter el cerebro de una mosca en Minecraft» es divulgativamente útil pero incompleta. El proyecto conserva la conectividad biológica publicada y simula una red neuronal de punto, pero no reproduce toda la biofísica del animal. Además, su propia documentación diferencia comportamientos que emergen de la red de otros que emplean codificación sensorial, ganancias, reflejos o máquinas de estados construidas por el desarrollador.
 
+### Otros experimentos sobre MaleCNS
+
+- **DOOMFLY:** https://github.com/nftechie/doomfly — conecta MaleCNS con un entorno ViZDoom e investiga una regla experimental de plasticidad dopaminérgica. Su documentación conserva resultados negativos: el candidato de aprendizaje descrito no superó sus gates de validación visual, condicionamiento y supervivencia. Ese resultado negativo es científicamente útil.
+- **Fly64:** https://github.com/ornata/fly — conecta un modelo MaleCNS con Super Mario 64. El propio autor advierte que es una demostración realizada por diversión y que no ha revisado el código para uso científico serio.
+
+Estos proyectos son independientes del equipo que produjo MaleCNS y no deben presentarse como validación oficial del dataset ni como equivalencia funcional con una mosca viva.
+
 ## Trazabilidad de cifras
 
 La publicación describe 166.691 neuronas completamente revisadas y anotadas. El dataset neuPrint `male-cns:v1.0` contiene además 176.422 nodos `:Neuron`; el derivado del mod conserva esos 176.422 nodos y, por rendimiento, mantiene 6.287.749 conexiones con peso >=5 sinapsis, que representan aproximadamente 90,3 millones de sinapsis de las ~125 millones del dataset. Las cifras no deben intercambiarse sin indicar qué nivel del dataset se está contando.
@@ -32,7 +40,7 @@ La publicación describe 166.691 neuronas completamente revisadas y anotadas. El
 
 - Dataset MaleCNS: CC BY 4.0 según Janelia.
 - Código de `fly-brain-minecraft`: MIT según su repositorio.
-- Esta página enlaza y describe recursos externos; no reivindica autoría ni afiliación con Janelia, Google Research, Cambridge/MRC LMB, el autor del mod o Mojang/Microsoft.
+- Esta página enlaza y describe recursos externos; no reivindica autoría ni afiliación con Janelia, Google Research, Cambridge/MRC LMB, los autores de los experimentos o Mojang/Microsoft.
 
 ## Encaje experimental con NEOCore™
 
@@ -45,7 +53,8 @@ Líneas de prueba candidatas:
 3. introducir estímulos reproducibles y registrar propagación, bifurcaciones y estados de salida;
 4. conectar un adaptador NEOCore exclusivamente a canales sensoriales/motores, manteniendo separada la red biológica del marco interpretativo;
 5. contrastar predicciones con circuitos conocidos y conservar hipótesis rivales, incertidumbre y criterios de falsación;
-6. explorar aprendizaje/plasticidad sólo como capa experimental separada, porque el simulador Minecraft actual no reproduce de forma general la plasticidad sináptica biológica.
+6. explorar aprendizaje/plasticidad sólo como capa experimental separada, porque el simulador Minecraft actual no reproduce de forma general la plasticidad sináptica biológica;
+7. utilizar resultados negativos de experimentos externos como controles y no sólo demos exitosas.
 
 ## Regla epistemológica
 
