@@ -1,5 +1,5 @@
 {
-  "schema": "innova-n.web4.virtualized-gaming.v0.1",
+  "schema": "innova-n.web4.virtualized-gaming.v0.2",
   "updated": "2026-09-10",
   "reference_stack": {
     "name": "Rocinante-like",
@@ -11,23 +11,35 @@
     "reference_platform": "Rocinante"
   },
   "status_semantics": {
-    "R0": "Materially verified on Rocinante with reproducible evidence",
-    "R1": "Strong candidate: no known VM-specific blocker; suitable for local validation",
-    "R2": "Conditional: additional validation required due to freshness, anti-cheat, online dependency or DLSS path",
-    "BLOCKED": "Known VM or Proton/Linux blocker"
+    "R0": {
+      "es": "Verificado materialmente en Rocinante con evidencia reproducible",
+      "en": "Materially verified on Rocinante with reproducible evidence"
+    },
+    "R1": {
+      "es": "Candidato fuerte: sin bloqueo específico de VM conocido; apto para validación local",
+      "en": "Strong candidate: no known VM-specific blocker; suitable for local validation"
+    },
+    "R2": {
+      "es": "Condicional: requiere validación adicional por novedad, anticheat, dependencia online/offline o ruta DLSS",
+      "en": "Conditional: additional validation required due to freshness, anticheat, online/offline dependency or DLSS path"
+    },
+    "BLOCKED": {
+      "es": "Bloqueo conocido por VM o Proton/Linux",
+      "en": "Known VM or Proton/Linux blocker"
+    }
   },
   "games": [
-    {"game":"NBA 2K27","dlss":"DLSS 5 Neural Rendering + SR + FG/MFG + Reflex","status":"R2","reason":"SteamOS/Proton compatible; KVM + passthrough + DLSS 5 not yet locally verified"},
-    {"game":"Cyberpunk 2077","dlss":"DLSS 4; MFG; RR; Path Tracing","status":"R1"},
-    {"game":"DOOM: The Dark Ages","dlss":"DLSS 4/4.5-class; FG/MFG; RT/PT","status":"R1"},
-    {"game":"Indiana Jones and the Great Circle","dlss":"DLSS 4; MFG; RR; Path Tracing","status":"R1"},
+    {"game":"NBA 2K27","dlss":"DLSS 5 Neural Rendering + SR + FG/MFG + Reflex","status":"R2","risk":"HIGH_VM_RISK","reason_es":"DLSS 5 está publicado, pero KVM + passthrough no está verificado; EAC y el antecedente anti-VM de NBA 2K26 obligan a probar offline y online por separado","reason_en":"DLSS 5 is published, but KVM + passthrough is not verified; EAC and NBA 2K26's anti-VM precedent require separate offline and online testing"},
+    {"game":"Cyberpunk 2077","dlss":"DLSS 4/4.5; MFG; RR; Path Tracing","status":"R1"},
+    {"game":"DOOM: The Dark Ages","dlss":"DLSS 4/4.5; FG/MFG; RR; RT/PT","status":"R1"},
+    {"game":"Indiana Jones and the Great Circle","dlss":"DLSS 4/4.5; MFG; RR; Path Tracing","status":"R1"},
     {"game":"Black Myth: Wukong","dlss":"DLSS 4; MFG; Full Ray Tracing","status":"R1"},
     {"game":"Hogwarts Legacy","dlss":"DLSS 4-class; FG/MFG; RT","status":"R1"},
-    {"game":"Resident Evil Requiem","dlss":"DLSS 4/4.5-class; RT/PT","status":"R1"},
-    {"game":"PRAGMATA","dlss":"DLSS 4/4.5-class; RT/PT","status":"R1"},
+    {"game":"Resident Evil Requiem","dlss":"DLSS 4/4.5-class; MFG; RT/PT","status":"R1"},
+    {"game":"PRAGMATA","dlss":"DLSS 4/4.5-class; MFG; RT/PT","status":"R1"},
     {"game":"007 First Light","dlss":"DLSS 4.5-class; Dynamic MFG; RT/PT","status":"R1"},
     {"game":"Crimson Desert","dlss":"DLSS 4-class; MFG; RT","status":"R1"},
-    {"game":"Phantom Blade Zero","dlss":"DLSS 4; MFG; RT","status":"R2","reason":"Very recent release; local Proton/VM validation pending"},
+    {"game":"Phantom Blade Zero","dlss":"DLSS 4; MFG; RT","status":"R2","reason_es":"Lanzamiento reciente; validación Proton/VM local pendiente","reason_en":"Recent release; local Proton/VM validation pending"},
     {"game":"Marvel's Spider-Man 2","dlss":"DLSS 4-class; MFG; RT","status":"R1"},
     {"game":"God of War Ragnarök","dlss":"DLSS 4-class; MFG","status":"R1"},
     {"game":"S.T.A.L.K.E.R. 2: Heart of Chornobyl","dlss":"DLSS 4-class; MFG","status":"R1"},
@@ -35,7 +47,7 @@
     {"game":"Lost Soul Aside","dlss":"DLSS 4-class; MFG; RT","status":"R1"},
     {"game":"Dying Light: The Beast","dlss":"DLSS 4-class; MFG; RT","status":"R1"},
     {"game":"Cronos: The New Dawn","dlss":"DLSS 4-class; RT","status":"R1"},
-    {"game":"The Outer Worlds 2","dlss":"DLSS 4-class; MFG; RT","status":"R1"},
+    {"game":"The Outer Worlds 2","dlss":"DLSS 4/4.5-class; MFG; RT","status":"R1"},
     {"game":"WUCHANG: Fallen Feathers","dlss":"DLSS 4-class; MFG","status":"R1"},
     {"game":"NINJA GAIDEN 2 Black","dlss":"DLSS 4-class; MFG","status":"R1"},
     {"game":"Rise of the Ronin","dlss":"DLSS 4-class; MFG","status":"R1"},
@@ -43,7 +55,7 @@
     {"game":"SILENT HILL 2","dlss":"DLSS 4-class; MFG","status":"R1"},
     {"game":"Star Wars Jedi: Survivor","dlss":"DLSS 4-class; FG/MFG path","status":"R1"},
     {"game":"Remnant II","dlss":"DLSS 4-class; MFG","status":"R1"},
-    {"game":"Dragon Age: The Veilguard","dlss":"DLSS 4-class; MFG","status":"R1"},
+    {"game":"Dragon Age: The Veilguard","dlss":"DLSS 4/4.5-class; MFG","status":"R1"},
     {"game":"Avowed","dlss":"DLSS 4-class; MFG","status":"R1"},
     {"game":"Eternal Strands","dlss":"DLSS 4-class; MFG","status":"R1"},
     {"game":"Flintlock: The Siege of Dawn","dlss":"DLSS 4-class; MFG","status":"R1"},
@@ -59,22 +71,21 @@
     {"game":"ICARUS","dlss":"DLSS 4-class; MFG; RT","status":"R1"},
     {"game":"EVERSPACE 2","dlss":"DLSS 4/4.5-class SR path","status":"R1"},
     {"game":"Satisfactory","dlss":"DLSS 4-class; MFG","status":"R1"},
-    {"game":"Deep Rock Galactic","dlss":"DLSS 4-class path","status":"R1","reason":"NGX update may require Proton-specific overrides"},
+    {"game":"Deep Rock Galactic","dlss":"DLSS 4/4.5-class path","status":"R1","reason_es":"La actualización NGX puede requerir overrides específicos de Proton","reason_en":"NGX updating may require Proton-specific overrides"},
     {"game":"RoadCraft","dlss":"DLSS 4-class; MFG","status":"R1"},
     {"game":"inZOI","dlss":"DLSS 4-class; MFG","status":"R1"},
     {"game":"MindsEye","dlss":"DLSS 4-class; MFG","status":"R1"},
     {"game":"Frostpunk 2","dlss":"DLSS 4-class; MFG","status":"R1"},
     {"game":"HITMAN World of Assassination","dlss":"DLSS 4-class path","status":"R1"},
     {"game":"Witchfire","dlss":"DLSS 4-class path","status":"R1"},
-    {"game":"Marvel Rivals","dlss":"DLSS 4-class","status":"BLOCKED","reason":"Official policy prohibits KVM/VMware/VirtualBox while running the game"},
-    {"game":"Mecha BREAK","dlss":"DLSS/FrameGen-capable","status":"BLOCKED","reason":"ACE anti-cheat blocks virtual machines"},
-    {"game":"Fate Trigger","dlss":"DLSS-capable","status":"BLOCKED","reason":"Current Proton reports show launcher/anti-cheat kernel-function failure"},
-    {"game":"SCUM","dlss":"DLSS 4-class","status":"BLOCKED","reason":"Developer currently does not enable Linux/Proton support"}
+    {"game":"Marvel Rivals","dlss":"DLSS 4-class","status":"BLOCKED","block":"VM","reason_es":"La política oficial incluye KVM, VMware y VirtualBox entre los entornos prohibidos mientras se ejecuta el juego","reason_en":"Official policy includes KVM, VMware and VirtualBox among prohibited environments while the game is running"},
+    {"game":"Mecha BREAK","dlss":"DLSS/FrameGen-capable","status":"BLOCKED","block":"VM","reason_es":"ACE anticheat ha mostrado bloqueo explícito de máquinas virtuales","reason_en":"ACE anticheat has shown explicit virtual-machine blocking"},
+    {"game":"Fate Trigger","dlss":"DLSS-capable","status":"BLOCKED","block":"PROTON","reason_es":"Informes actuales de Proton muestran fallo del launcher/anticheat por funciones de kernel","reason_en":"Current Proton reports show launcher/anticheat failure involving kernel functions"},
+    {"game":"SCUM","dlss":"DLSS 4-class","status":"BLOCKED","block":"PROTON","reason_es":"El estado documentado no ofrece soporte Linux/Proton utilizable","reason_en":"The documented state does not provide usable Linux/Proton support"}
   ],
   "sources": [
     "https://www.nvidia.com/es-la/geforce/news/dlss-5-3d-guided-neural-rendering/",
     "https://www.nvidia.com/en-us/geforce/news/nvidia-rtx-games-engines-apps/",
-    "https://www.nvidia.com/es-la/geforce/news/dlss-4-rtx-path-tracing-game-announcements-ces-2026/",
     "https://docs.nvidia.com/datacenter/tesla/driver-installation-guide/gaming.html",
     "https://github.com/ValveSoftware/Proton/issues/8692",
     "https://github.com/ValveSoftware/Proton/issues/8690",
