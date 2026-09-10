@@ -7,15 +7,15 @@ from datetime import datetime, timezone
 ROOT = Path('.').resolve()
 RUN_DATE = datetime.now(timezone.utc).date().isoformat()
 EXCLUDED_TOP_LEVEL = {'wiki-legacy-archive'}
-MD = [
+MD = sorted([
     p for p in ROOT.rglob('*.md')
     if '.git' not in p.parts
     and not (p.relative_to(ROOT).parts and p.relative_to(ROOT).parts[0] in EXCLUDED_TOP_LEVEL)
-]
-ARCHIVED_MD = [
+], key=lambda p: p.relative_to(ROOT).as_posix().lower())
+ARCHIVED_MD = sorted([
     p for p in ROOT.rglob('*.md')
     if p.relative_to(ROOT).parts and p.relative_to(ROOT).parts[0] in EXCLUDED_TOP_LEVEL
-]
+], key=lambda p: p.relative_to(ROOT).as_posix().lower())
 
 MDIR = ROOT / 'manifiestos'
 MIDX = MDIR / 'README.md'
