@@ -16,7 +16,7 @@
 - Enlaces internos de ruta comprobados: **13264**.
 - Alias internos de GitHub Wiki reconocidos: **44**.
 - Enlaces externos inventariados sin comprobar disponibilidad remota: **2159**.
-- Enlaces sólo a ancla detectados: **1019**.
+- Enlaces sólo a ancla detectados: **1021**.
 - Bloques de último manifiesto encontrados en README: **8**.
 - Bloques legacy NEO_CURRENT_NAV encontrados en README: **0**.
 - Bloques redundantes MANIFESTOS_CURRENT encontrados en README: **0**.
@@ -49,7 +49,7 @@
 - Internal path links checked: **13264**.
 - GitHub Wiki extensionless page aliases recognised: **44**.
 - External links inventoried without checking remote availability: **2159**.
-- Anchor-only links detected: **1019**.
+- Anchor-only links detected: **1021**.
 - Latest-manifesto blocks found in README files: **8**.
 - Legacy NEO_CURRENT_NAV blocks found in README files: **0**.
 - Redundant MANIFESTOS_CURRENT blocks found in README files: **0**.

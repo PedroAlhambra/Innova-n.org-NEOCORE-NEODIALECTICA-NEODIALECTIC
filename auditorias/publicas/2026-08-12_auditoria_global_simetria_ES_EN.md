@@ -7,8 +7,8 @@
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **462**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **391**.
+- Markdown activo examinado / Active Markdown scanned: **469**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **398**.
 - Fallos estructurales divididos / Split structural failures: **0**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
@@ -53,6 +53,7 @@
 | `actualizaciones/2026-09-09_ADDENDUM7_DELTA_CZUR_ET24_PRO_AUTH_WRAPPER_CZUR_CREATE_ES_EN.md` | **OK** |  |
 | `actualizaciones/2026-09-09_ADDENDUM8_DELTA_CZUR_ET24_PRO_USER_SUPPORT_STATIC_ES_EN.md` | **OK** |  |
 | `actualizaciones/2026-09-09_ADDENDUM9_DELTA_CZUR_ET24_PRO_DEFINE_NETWORK_TIME_PATH_ES_EN.md` | **OK** |  |
+| `actualizaciones/2026-09-10_ADDENDUM10_DELTA_CZUR_ET24_PRO_HARDWARE_INSTALL_RUNTIME_ES_EN.md` | **OK** |  |
 | `analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md` | **OK** |  |
 | `analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md` | **OK** |  |
 | `analisis/2026-08-29_hipotesis_grant_verne_ulises_vector_arquetipico_ES_EN.md` | **OK** |  |
@@ -98,6 +99,7 @@
 | `analisis/publicos/2026-08-13_convergencia-neodialectica-meta-zuckerberg_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md` | **OK** |  |
 | `analisis/publicos/2026-08-25_neorrenacimiento_constituyente_inercia_IA_altman_ES_EN.md` | **OK** |  |
+| `analisis/publicos/2026-09-10_matriz_compatibilidad_gaming_vm_linux_dlss4_dlss5_ES_EN.md` | **OK** |  |
 | `analisis/publicos/README.md` | **OK** |  |
 | `analisis/publicos/evidencias/2026-07-21_espana-marruecos-regularizacion-fuentes-y-matriz_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `analisis/publicos/evidencias/2026-07-22_dajla-mafias-control-estatal-fuentes-y-matriz_ES_EN.md` | **OK** |  |
@@ -410,6 +412,7 @@
 | `propuestas/sintesis-abierta/GUIA_RAPIDA_APORTAR_EVIDENCIA_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md` | **OK** |  |
+| `propuestas/sintesis-abierta/INTEROPERABILIDAD_GAMING_VM_ANTICHEAT_PLATAFORMAS_ABIERTAS_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/MEDICI_CREDITOS_PLATAFORMAS_COMPENSACION_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/MEDICI_MOTOR_CALCULO_PLATAFORMAS_V0_1_ES_EN.md` | **OK** |  |
@@ -445,7 +448,11 @@
 | `versiones/WEB4_NEOCORE_EVOLUCION_PUBLICA_ES_EN.md` | **OK** |  |
 | `web4/2026-08-10_POSTCHECK_WEB4_PRE_7_3_IDEA_ES_EN.md` | **HISTÓRICO-PRESERVADO** | registro histórico inerte; fuera de la superficie bilingüe viva / immutable historical record; outside the live bilingual surface |
 | `web4/README.md` | **OK** |  |
+| `web4/gaming/README.md` | **OK** |  |
 | `web4/neocronos/aportes/README.md` | **OK** |  |
+| `web4/science/README.md` | **OK** |  |
+| `web4/science/drosophila-connectome/README.md` | **OK** |  |
+| `web4/science/open-projects/README.md` | **OK** |  |
 | `wiki-source/Analisis_Neodialecticos_Publicos.md` | **OK** |  |
 | `wiki-source/Aportes_y_Reconocimiento.md` | **OK** |  |
 | `wiki-source/Filosofia_y_NEOCore.md` | **OK** |  |
