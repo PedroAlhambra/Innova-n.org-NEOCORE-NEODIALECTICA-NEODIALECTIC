@@ -9,11 +9,11 @@
 
 ## ES · Resultado
 
-- Archivos Markdown activos revisados: **542**.
+- Archivos Markdown activos revisados: **544**.
 - Archivos Markdown históricos excluidos del estado vivo: **55**.
 - Entradas legacy excluidas del estado vivo: **0**.
-- README activos revisados: **22**.
-- Enlaces internos de ruta comprobados: **12456**.
+- README activos revisados: **24**.
+- Enlaces internos de ruta comprobados: **12457**.
 - Alias internos de GitHub Wiki reconocidos: **44**.
 - Enlaces externos inventariados sin comprobar disponibilidad remota: **2098**.
 - Enlaces sólo a ancla detectados: **953**.
@@ -22,7 +22,7 @@
 - Bloques redundantes MANIFESTOS_CURRENT encontrados en README: **0**.
 - Manifiestos canónicos detectados: **85 · I–LXXXV**.
 - Último manifiesto / Síntesis: **LXXXV / #180**.
-- Enlaces internos rotos del grafo vivo: **2**.
+- Enlaces internos rotos del grafo vivo: **1**.
 - Fallos canónicos críticos: **0**.
 
 ### Comprobaciones canónicas
@@ -41,15 +41,14 @@
 | Origen | Destino | Motivo |
 |---|---|---|
 | `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` | `../../manifiestos/32_reversion_ideologica_mcluhan_neo0_ES_EN.md` | destino inexistente / missing target |
-| `web4/gaming/README.md` | `./compatibility.json` | destino inexistente / missing target |
 
 ## EN · Result
 
-- Active Markdown files reviewed: **542**.
+- Active Markdown files reviewed: **544**.
 - Historical Markdown files excluded from living-state health: **55**.
 - Legacy entry files excluded from living-state health: **0**.
-- Active README files reviewed: **22**.
-- Internal path links checked: **12456**.
+- Active README files reviewed: **24**.
+- Internal path links checked: **12457**.
 - GitHub Wiki extensionless page aliases recognised: **44**.
 - External links inventoried without checking remote availability: **2098**.
 - Anchor-only links detected: **953**.
@@ -58,7 +57,7 @@
 - Redundant MANIFESTOS_CURRENT blocks found in README files: **0**.
 - Canonical manifestos detected: **85 · I–LXXXV**.
 - Latest manifesto / synthesis: **LXXXV / #180**.
-- Broken internal links in the living graph: **2**.
+- Broken internal links in the living graph: **1**.
 - Canonical critical failures: **0**.
 
 ### Canonical checks
@@ -77,6 +76,5 @@
 | Source | Target | Reason |
 |---|---|---|
 | `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` | `../../manifiestos/32_reversion_ideologica_mcluhan_neo0_ES_EN.md` | destino inexistente / missing target |
-| `web4/gaming/README.md` | `./compatibility.json` | destino inexistente / missing target |
 
 **Innova_N · NEOCore™ · Neodialectica Framework™ / Network**
