@@ -2,6 +2,7 @@
 
 **Estado / Status:** BORRADOR DE SÍNTESIS ABIERTA / OPEN SYNTHESIS DRAFT · PENDING_SAN  
 **Fecha / Date:** 2026-09-10  
+**Síntesis / Synthesis:** [Issue #193](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/193)  
 **Ámbito / Scope:** videojuegos · Linux · virtualización · anticheat · licencias · interoperabilidad / gaming · Linux · virtualization · anticheat · licensing · interoperability
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
@@ -74,6 +75,7 @@ La afirmación más fuerte —que una práctica concreta constituya abuso de pos
 
 - [Matriz WEB4™ de gaming virtualizado](../../analisis/publicos/2026-09-10_matriz_compatibilidad_gaming_vm_linux_dlss4_dlss5_ES_EN.md)
 - [Contrato público de Gaming WEB4™](../../web4/gaming/README.md)
+- [Síntesis Abierta #193](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/193)
 
 Los casos registrados —por ejemplo, títulos que bloquean KVM frente a títulos que funcionan con GPU passthrough y Proton— son **casos técnicos**, no por sí solos una conclusión antitrust.
 
@@ -152,6 +154,7 @@ The stronger claim —that a particular practice constitutes abuse of dominance,
 
 - [WEB4™ virtualized-gaming matrix](../../analisis/publicos/2026-09-10_matriz_compatibilidad_gaming_vm_linux_dlss4_dlss5_ES_EN.md)
 - [WEB4™ Gaming public contract](../../web4/gaming/README.md)
+- [Open Synthesis #193](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/193)
 
 Recorded cases —for example, titles that block KVM versus titles that run with GPU passthrough and Proton— are **technical cases**, not by themselves an antitrust conclusion.
 
