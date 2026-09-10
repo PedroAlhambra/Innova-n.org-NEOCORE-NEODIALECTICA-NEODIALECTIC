@@ -16,13 +16,13 @@
 - Enlaces internos de ruta comprobados: **12463**.
 - Alias internos de GitHub Wiki reconocidos: **44**.
 - Enlaces externos inventariados sin comprobar disponibilidad remota: **2098**.
-- Enlaces sólo a ancla detectados: **957**.
+- Enlaces sólo a ancla detectados: **959**.
 - Bloques de último manifiesto encontrados en README: **8**.
 - Bloques legacy NEO_CURRENT_NAV encontrados en README: **0**.
 - Bloques redundantes MANIFESTOS_CURRENT encontrados en README: **0**.
 - Manifiestos canónicos detectados: **85 · I–LXXXV**.
 - Último manifiesto / Síntesis: **LXXXV / #180**.
-- Enlaces internos rotos del grafo vivo: **4**.
+- Enlaces internos rotos del grafo vivo: **1**.
 - Fallos canónicos críticos: **0**.
 
 ### Comprobaciones canónicas
@@ -41,9 +41,6 @@
 | Origen | Destino | Motivo |
 |---|---|---|
 | `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` | `../../manifiestos/32_reversion_ideologica_mcluhan_neo0_ES_EN.md` | destino inexistente / missing target |
-| `web4/science/README.md` | `./open-projects/catalog.json` | destino inexistente / missing target |
-| `web4/science/README.md` | `./open-projects/catalog.json` | destino inexistente / missing target |
-| `web4/science/open-projects/README.md` | `./catalog.json` | destino inexistente / missing target |
 
 ## EN · Result
 
@@ -54,13 +51,13 @@
 - Internal path links checked: **12463**.
 - GitHub Wiki extensionless page aliases recognised: **44**.
 - External links inventoried without checking remote availability: **2098**.
-- Anchor-only links detected: **957**.
+- Anchor-only links detected: **959**.
 - Latest-manifesto blocks found in README files: **8**.
 - Legacy NEO_CURRENT_NAV blocks found in README files: **0**.
 - Redundant MANIFESTOS_CURRENT blocks found in README files: **0**.
 - Canonical manifestos detected: **85 · I–LXXXV**.
 - Latest manifesto / synthesis: **LXXXV / #180**.
-- Broken internal links in the living graph: **4**.
+- Broken internal links in the living graph: **1**.
 - Canonical critical failures: **0**.
 
 ### Canonical checks
@@ -79,8 +76,5 @@
 | Source | Target | Reason |
 |---|---|---|
 | `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` | `../../manifiestos/32_reversion_ideologica_mcluhan_neo0_ES_EN.md` | destino inexistente / missing target |
-| `web4/science/README.md` | `./open-projects/catalog.json` | destino inexistente / missing target |
-| `web4/science/README.md` | `./open-projects/catalog.json` | destino inexistente / missing target |
-| `web4/science/open-projects/README.md` | `./catalog.json` | destino inexistente / missing target |
 
 **Innova_N · NEOCore™ · Neodialectica Framework™ / Network**
