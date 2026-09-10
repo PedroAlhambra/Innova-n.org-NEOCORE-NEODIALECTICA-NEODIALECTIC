@@ -4,6 +4,8 @@
 **Fecha / Date:** 2026-09-09  
 **Estado / Status:** evidencia estática reproducible · `RAW_MARSHAL_CODE_OBJECT=CONFIRMADO` · `PYTHON_VERSION=PROBABLE_3.8` · `NETWORK_ACTIVITY=NO_VERIFICADA`
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ## ES · Castellano
 
 Se inspeccionaron los primeros 32 bytes de dos miembros extraídos con `pyi-archive_viewer`:
@@ -35,8 +37,29 @@ Siguiente paso: usar `xdis/pydisasm` o herramienta equivalente cross-version par
 
 ## EN · English
 
-The first 32 bytes of `module_authorized_pyz.bin` and `czur_create_main.bin` were inspected. Both start with `0xe3`, consistent with a CPython marshalled `code` object carrying the reference flag rather than a full `.pyc` header. This matches PyInstaller/PYZ member extraction and explains why `file(1)` reports generic `data`.
+The first 32 bytes of two members extracted with `pyi-archive_viewer` were inspected:
 
-Earlier bundled `cpython-38.pyc` artifacts make Python 3.8 a strong candidate for the bytecode version, but this remains to be confirmed with a cross-version disassembler.
+```text
+module_authorized_pyz.bin:
+e3 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 03 00 00 00 40 00 00 00 f3 5a 00 00 00 64 00
 
-Next step: cross-version static disassembly without executing CZUR code.
+czur_create_main.bin:
+e3 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 05 00 00 00 40 00 00 00 73 74 00 00 00 64 00
+```
+
+The initial byte `0xe3` is consistent with a `code` object serialized through `marshal` with CPython's reference flag, rather than a complete `.pyc` header. This fits extraction of internal PyInstaller/PYZ members and explains why `file(1)` classifies them simply as `data`.
+
+The earlier presence of `cpython-38.pyc` artifacts in the bundle makes Python 3.8 a likely bytecode version; this must be confirmed with a cross-version disassembler before assigning the version definitively.
+
+State:
+
+```text
+RAW_MARSHAL_CODE_OBJECT = CONFIRMED
+FULL_PYC_HEADER = ABSENT
+PYTHON_3_8 = PROBABLE / TO BE CONFIRMED
+DIRECT_NETWORK_CALLS_IN_THESE_TWO_MEMBERS = NOT YET DEMONSTRATED
+```
+
+Next step: use `xdis/pydisasm` or an equivalent cross-version tool to disassemble the extracted marshal without executing CZUR code, then follow the import/call chain from `module_authorized` and `czur_create:main`.

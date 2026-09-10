@@ -4,6 +4,8 @@
 **Estado:** auditoría estática incremental / síntesis abierta  
 **Ámbito:** paquete oficial CZUR Scanner Linux 1.0.20250413
 
+[ES · Castellano](#es) · [EN · English](#en)
+
 ## ES
 
 ### Hallazgo 1 · `define.py` sí contiene una función de red
@@ -73,37 +75,67 @@ Esto reduce la hipótesis de que el propio flujo `main.py -> user_support.py -> 
 
 ## EN
 
-### Finding 1 · `define.py` contains a concrete network function
+### Finding 1 · `define.py` does contain a network function
 
-The internal module `define.py`, imported by `user_support.py`, imports `requests` and defines `CommonMethods.get_network_time()`.
+The internal `define.py` module, imported by `user_support.py`, imports `requests` and defines `CommonMethods.get_network_time()`.
 
-It explicitly performs:
+The function explicitly executes:
 
 ```text
 requests.get("http://worldtimeapi.org/api/timezone/Asia/Shanghai.txt", timeout=5)
 ```
 
-and parses a `datetime:` value, retrying on failure.
+It then searches the response for a `datetime:` marker and retries up to 10 times, waiting 1 second after an exception.
 
-This confirms a concrete HTTP capability and endpoint inside `czur_create`.
+This demonstrates **concrete outbound HTTP capability** inside `czur_create` and an explicit endpoint related to Asia/Shanghai time synchronisation.
 
-### Finding 2 · the observed licensing path does not call it
+### Finding 2 · the observed licensing path does not call `get_network_time()`
 
-The disassembled `user_support.py` references to `CommonMethods` were traced. Observed calls are `is_in_enum(...)` and `get_first_ethernet_mac()`; no call to `get_network_time()` was observed.
+References to `CommonMethods` inside the disassembled `user_support.py` bytecode were traced.
 
-### Finding 3 · the UDP socket is used locally for `ioctl`
+Observed calls are:
 
-`get_first_ethernet_mac()` creates an `AF_INET/SOCK_DGRAM` socket and uses its file descriptor with `fcntl.ioctl(..., 35111, ...)` to retrieve interface MAC data. No associated `connect`, `send`, or `recv` call was observed in that body.
+- `CommonMethods.is_in_enum(...)`;
+- `CommonMethods.get_first_ethernet_mac()`.
 
-### Current classification
+No call to `CommonMethods.get_network_time()` appears in `user_support.py`.
+
+Therefore:
 
 ```text
-LICENSE / MACHINE DATA HANDLING      = CONFIRMED
-LOCAL MAC / UUID / SERIAL HANDLING   = CONFIRMED
-HTTP TIME FUNCTION IN define.py      = CONFIRMED
-CALL FROM LICENSING PATH             = NOT OBSERVED
-LICENSE DATA NETWORK EGRESS          = NOT DEMONSTRATED
-MALWARE                              = NOT DEMONSTRATED
+NETWORK_FUNCTION_PRESENT = CONFIRMED
+NETWORK_FUNCTION_CALLED_FROM_USER_SUPPORT = NOT OBSERVED
 ```
 
-Next static targets remain the proprietary application modules that may invoke Alibaba Cloud / OSS / KMS or reporting paths.
+The presence of the function does not demonstrate that it executes during licensing.
+
+### Finding 3 · the observed UDP socket is used for `ioctl`, not transmission
+
+`CommonMethods.get_first_ethernet_mac()` creates a socket:
+
+```text
+socket.socket(AF_INET, SOCK_DGRAM)
+```
+
+but the descriptor is immediately used with `fcntl.ioctl(..., 35111, ...)` to retrieve the MAC address of a network interface.
+
+No `connect`, `send` or `recv` calls associated with that socket appear in the audited body. Its observed function is local: retrieving interface information through `ioctl`.
+
+`user_support.get_udev_uuid()` does call `get_first_ethernet_mac()` together with local `df`/`udevadm` commands to construct machine/license identifiers.
+
+### Interpretation
+
+At this depth of the Python licensing path:
+
+```text
+LICENSE / MACHINE ID DATA            = CONFIRMED
+LOCAL MAC / UUID / SERIAL            = CONFIRMED
+HTTP TIME FUNCTION IN define.py      = CONFIRMED
+CALL TO THAT FUNCTION FROM LICENSE   = NOT OBSERVED
+SOCKET FOR MAC VIA IOCTL             = CONFIRMED LOCAL
+LICENSE DATA SENT TO NETWORK         = NOT DEMONSTRATED
+```
+
+This reduces the hypothesis that the `main.py -> user_support.py -> data_support.py` flow itself directly sends license data, while still not excluding other routes in the executable or the main application.
+
+`CAPABILITY != INVOCATION != TRAFFIC != IMPROPER TRANSMISSION`.

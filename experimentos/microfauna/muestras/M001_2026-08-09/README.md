@@ -1,4 +1,4 @@
-# M001 · 2026-08-09 · organismo/partícula diminuta sobre prenda
+# M001 · 2026-08-09 · organismo/partícula diminuta sobre prenda / tiny organism-particle on garment
 
 **Origen histórico / Historical origin:** `investigacion/microfauna-muestras-2026-08-09` · integrado en `main` 2026-09-01.  
 **Estado:** abierta · identificación pendiente  
@@ -7,7 +7,7 @@
 **Recogida:** se informa de varias muestras disponibles para observación posterior  
 **Escala exacta:** pendiente de fotografía con referencia milimetrada
 
-## Evidencia inicial
+## Evidencia inicial / Initial evidence
 
 Tres fotografías de móvil muestran pequeños puntos/organismos oscuros y verdosos sobre la tela. La resolución disponible no permite identificación taxonómica ni material concluyente.
 

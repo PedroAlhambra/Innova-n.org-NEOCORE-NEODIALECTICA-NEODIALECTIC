@@ -187,6 +187,8 @@ Not everything can always be measured with the same precision. Uncertainty shoul
 
 A potential advantage of local computing appears when underused existing hardware can perform useful work without requiring new manufacturing. That advantage disappears or shrinks if supposed distribution requires purchasing thousands of dedicated low-utilisation devices to replace more efficient shared infrastructure.
 
+Therefore:
+
 ```text
 EXISTING HARDWARE + EXTENDED USEFUL LIFE
 → POSSIBLE ADVANTAGE

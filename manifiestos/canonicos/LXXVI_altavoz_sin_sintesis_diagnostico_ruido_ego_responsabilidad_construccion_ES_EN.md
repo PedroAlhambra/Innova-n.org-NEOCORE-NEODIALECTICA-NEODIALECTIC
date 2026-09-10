@@ -7,7 +7,7 @@
 **Fecha / Date:** 2026-08-15  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico dentro de la Filosofía Arquetípica Neodialéctica™ / symbiotic development within Archetypal Neodialectical Philosophy™.  
 **Síntesis Abierta / Open Synthesis:** [#149](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/149)  
-**Relaciones / Relations:** II · Síntesis Abierta™ · XII · Los sin ego · XXII · Reducción y Captura Intelectual™ · XXXV · Ridiculez Mediática y Economía del Conflicto™ · XLV · Multidimensionalidad Neodialéctica™ · LXVIII · Soberanía Intelectual de la Especie™ · LXXIV · Asimetría de la Destrucción™ · LXXV · Memoria Material-Relacional™ · NeoMantis™ · C-NAX-16 · No Coronación de la Parte™.
+**Relaciones / Relations:** II · Síntesis Abierta™ · XII · Los sin ego · XXII · Reducción y Captura Intelectual™ · XXXV · Ridiculez Mediática y Economía del Conflicto™ · XLV · Multidimensionalidad Neodialéctica™ · LXVIII · Soberanía Intelectual de la Especie™ · LXXIV · Asimetría de la Destrucción™ · LXXV · Memoria Material-Relacional™ · NeoMantis™ · NAX-16 · No Coronación de la Parte™.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -153,7 +153,7 @@ Este principio se aplica también a la propia Neodialéctica: reconocer preceden
 
 ## VII. No coronar al intelectual
 
-C-NAX-16 · No Coronación de la Parte™ se aplica directamente.
+NAX-16 · No Coronación de la Parte™ se aplica directamente.
 
 ```text
 AUTOR ≠ TOTALIDAD
@@ -286,7 +286,7 @@ APORTE
 → SÍNTESIS ABIERTA™
 ```
 
-Este candidato se registra como **C-NAX-24**. El candidato anterior surgido del recálculo NeoMantis™ es **C-NAX-23 · Conservación del Fractal Común™**.
+Esta formulación se registró inicialmente como C-NAX-24 y posteriormente quedó fijada como **NAX-24**. La formulación anterior surgida del recálculo NeoMantis™ quedó fijada como **NAX-23 · Conservación del Fractal Común™**.
 
 ## XIII. Umbral de salida del ruido
 
@@ -457,7 +457,7 @@ This principle also applies to Neodialectics itself: recognising partial precede
 
 ## VII. Do not crown the intellectual
 
-C-NAX-16 · Non-Crowning of the Part™ applies directly.
+NAX-16 · Non-Crowning of the Part™ applies directly.
 
 ```text
 AUTHOR ≠ WHOLE
@@ -590,7 +590,7 @@ CONTRIBUTION
 → OPEN SYNTHESIS™
 ```
 
-This candidate is registered as **C-NAX-24**. The preceding candidate arising from the NeoMantis™ recalculation is **C-NAX-23 · Conservation of the Common Fractal™**.
+This formulation was initially registered as C-NAX-24 and was later fixed as **NAX-24**. The preceding formulation arising from the NeoMantis™ recalculation was fixed as **NAX-23 · Conservation of the Common Fractal™**.
 
 ## XIII. Threshold for leaving noise
 
@@ -623,8 +623,8 @@ The door remains open.
 
 ## Candidatos neoaxiomáticos / Neoaxiomatic candidates
 
-- **C-NAX-23 · Conservación del Fractal Común™ / Conservation of the Common Fractal™** — procedencia / provenance: NeoMantis™ · SAN #148.
-- **C-NAX-24 · Diagnóstico ≠ Síntesis™ / Diagnosis ≠ Synthesis™** — procedencia / provenance: LXXVI · SAN #149.
+- **NAX-23 · Conservación del Fractal Común™ / Conservation of the Common Fractal™** — procedencia / provenance: NeoMantis™ · SAN #148.
+- **NAX-24 · Diagnóstico ≠ Síntesis™ / Diagnosis ≠ Synthesis™** — procedencia / provenance: LXXVI · SAN #149.
 
 **CANDIDATOS ≠ CANON / CANDIDATES ≠ CANON.**
 
@@ -641,6 +641,18 @@ The door remains open.
 **LXXVII** · [Contra la Polarización Binaria y la Radicalización Recíproca™ · Derecho a Reconocer el Problema sin Heredar su Narrativa / Against Binary Polarisation and Reciprocal Radicalisation™ · The Right to Recognise a Problem without Inheriting its Narrative](LXXVII_polarizacion_binaria_radicalizacion_reciproca_fenomeno_narrativa_ES_EN.md) →
 
 <!-- NEO_MANIFESTO_NAV_END -->
+
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_START -->
+
+## Relaciones neoaxiomáticas recíprocas / Reciprocal Neoaxiomatic relations
+
+> **Relación documental/conceptual, no identidad ni causalidad.** Este bloque es la inversa navegable de las relaciones NAX→Manifiesto y mantiene simetría de navegación. / **Documentary/conceptual relation, not identity or causality.** This block is the navigable inverse of NAX→Manifesto relations and preserves navigational symmetry.
+
+- [NAX-23 · Conservación del Fractal Común™ / Conservation of the Common Fractal™](../../neoaxiomas/NAX-23_CONSERVACION_FRACTAL_COMUN_ES_EN.md)
+- [NAX-24 · Diagnóstico ≠ Síntesis™ / Diagnosis ≠ Synthesis™](../../neoaxiomas/NAX-24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md)
+- [NAX-25 · Fenómeno ≠ Narrativa™ / Phenomenon ≠ Narrative™](../../neoaxiomas/NAX-25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md)
+
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_END -->
 
 <!-- NEO_CROSS_REFERENCES_START -->
 
@@ -663,6 +675,6 @@ The door remains open.
 - [Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md)
 - [NEOCore™ · marco / framework](../../README.md)
 
-**Neoaxiomas mencionados / Mentioned Neoaxioms:** `C-NAX-16` · `C-NAX-23` · `C-NAX-24` → [Neoaxiomas™](../../neoaxiomas/README.md)
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-16` · `NAX-23` · `NAX-24` · `NAX-25` · `C-NAX-24` → [Neoaxiomas™](../../neoaxiomas/README.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->

@@ -3,7 +3,9 @@
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
-**Estado / Status:** CANDIDATO EXPLÍCITO · SAN #127 · NO CANONIZADO / EXPLICIT CANDIDATE · SAN #127 · NOT CANONICALISED
+**Estado / Status:** HISTÓRICO · FIJADO COMO NAX-21 CON EFECTO 2026-09-08 12:33 CEST · SAN #127 ABIERTA / HISTORICAL · FIXED AS NAX-21 EFFECTIVE 2026-09-08 12:33 CEST · SAN #127 OPEN
+
+> **Estado vigente / Current state:** [NAX-21](./NAX-21_IGNORANCIA_SISTEMICA_MAL_NO_SUPERIORIDAD_DESTRUCCION_ES_EN.md) quedó fijado por la transición excepcional de NEOCore™ 7.3.4 al no registrarse respuesta externa sustantiva antes del corte. Este archivo conserva la formulación en su etapa C-NAX para genealogía; no es el documento canónico vigente. / [NAX-21](./NAX-21_IGNORANCIA_SISTEMICA_MAL_NO_SUPERIORIDAD_DESTRUCCION_ES_EN.md) was fixed by the NEOCore™ 7.3.4 exceptional transition because no external substantive response was recorded before the cutoff. This file preserves the C-NAX stage for genealogy; it is not the current canonical document.
 
 ## ES · Castellano
 

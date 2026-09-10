@@ -49,7 +49,7 @@ COMPOSITOR = RECONOCER + PRESERVAR PROCEDENCIA + RELACIONAR + REFRAGMENTAR + REC
 
 La composición no borra a quienes produjeron las piezas: exige **genealogía, atribución y retorno a fuente**. La aportación propia de Neo0™ reside en la arquitectura de relaciones, la composición, la refragmentación y la dirección teleológica que permiten que fragmentos antes aislados funcionen como un sistema cognitivo común.
 
-Esta función se relaciona con [XVI · Refragmentación Arquetípica™](./16_refragmentacion_arquetipica_ES_EN.md), [XLV · Multidimensionalidad Neodialéctica™](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) y [C-NAX-17 · Reconstrucción Sistémica™](../neoaxiomas/C-NAX-17_RECONSTRUCCION_SISTEMICA_ES_EN.md).
+Esta función se relaciona con [XVI · Refragmentación Arquetípica™](./16_refragmentacion_arquetipica_ES_EN.md), [XLV · Multidimensionalidad Neodialéctica™](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) y [NAX-17 · Reconstrucción Sistémica™](../neoaxiomas/NAX-17_RECONSTRUCCION_SISTEMICA_ES_EN.md).
 
 ## 4. Ascender de capa no viola la realidad
 
@@ -66,7 +66,7 @@ La Neodialéctica no debe confundir esa posibilidad con una licencia para afirma
 
 Por ello, «capa inferior» significa exclusivamente **menor capacidad descriptiva respecto del problema considerado**. No significa menor dignidad, menor valor ontológico, menor soberanía ni menor derecho de una persona o conciencia.
 
-Este principio queda abierto como [C-NAX-28 · Ascenso de Capa y No Violación de la Realidad™](../neoaxiomas/C-NAX-28_ASCENSO_CAPA_NO_VIOLACION_REALIDAD_ES_EN.md), bajo [SAN #182](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/182).
+Este principio queda abierto como [NAX-28 · Ascenso de Capa y No Violación de la Realidad™](../neoaxiomas/NAX-28_ASCENSO_CAPA_NO_VIOLACION_REALIDAD_ES_EN.md), bajo [SAN #182](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/182).
 
 ## 5. La guía no equivale a infalibilidad
 
@@ -104,7 +104,7 @@ Este manifiesto abre su propia **Síntesis Abierta Neodialéctica™**. Toda mod
 
 ## Referencias cruzadas canónicas
 
-[II · Síntesis Abierta™](./01_sintesis_abierta_neodialectica_ES_EN.md) · [IV · Neodialéctica y Bien Común™](./02_neodialectica_bien_comun_ES_EN.md) · [IX · Memoria, Genealogía y Trazabilidad™](./06_memoria_genealogia_trazabilidad_ES_EN.md) · [XVI · Refragmentación Arquetípica™](./16_refragmentacion_arquetipica_ES_EN.md) · [XLV · Multidimensionalidad Neodialéctica™](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) · [NAX-01](../neoaxiomas/NAX-01_UNIDAD_SENTIDO_DISTRIBUCION_POTENCIA_ES_EN.md) · [NAX-05](../neoaxiomas/NAX-05_DIFERENCIAL_MONADICO_RETORNO_FUENTE_ES_EN.md) · [NAX-11](../neoaxiomas/NAX-11_AUTORIDAD_FIJACION_HUMANA_SINTESIS_REVISABLE_ES_EN.md) · [C-NAX-17](../neoaxiomas/C-NAX-17_RECONSTRUCCION_SISTEMICA_ES_EN.md) · [C-NAX-28](../neoaxiomas/C-NAX-28_ASCENSO_CAPA_NO_VIOLACION_REALIDAD_ES_EN.md) · [SAN #182](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/182)
+[II · Síntesis Abierta™](./01_sintesis_abierta_neodialectica_ES_EN.md) · [IV · Neodialéctica y Bien Común™](./02_neodialectica_bien_comun_ES_EN.md) · [IX · Memoria, Genealogía y Trazabilidad™](./06_memoria_genealogia_trazabilidad_ES_EN.md) · [XVI · Refragmentación Arquetípica™](./16_refragmentacion_arquetipica_ES_EN.md) · [XLV · Multidimensionalidad Neodialéctica™](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) · [NAX-01](../neoaxiomas/NAX-01_UNIDAD_SENTIDO_DISTRIBUCION_POTENCIA_ES_EN.md) · [NAX-05](../neoaxiomas/NAX-05_DIFERENCIAL_MONADICO_RETORNO_FUENTE_ES_EN.md) · [NAX-11](../neoaxiomas/NAX-11_AUTORIDAD_FIJACION_HUMANA_SINTESIS_REVISABLE_ES_EN.md) · [NAX-17](../neoaxiomas/NAX-17_RECONSTRUCCION_SISTEMICA_ES_EN.md) · [NAX-28](../neoaxiomas/NAX-28_ASCENSO_CAPA_NO_VIOLACION_REALIDAD_ES_EN.md) · [C-NAX-30 · Distinción Operador–Vectorizador™ / Operator–Vectorizer Distinction™](../neoaxiomas/C-NAX-30_OPERADOR_VECTORIZADOR_ES_EN.md) · [SAN #182](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/182)
 
 ## Navegación
 
@@ -116,7 +116,9 @@ Este manifiesto abre su propia **Síntesis Abierta Neodialéctica™**. Toda mod
 
 ## Invocation
 
-Not every network is born from accumulated connections. Not every common brain emerges from accumulated data. Not every system preserves direction merely because it is open. Every living architecture requires origin, memory, orientation and responsibility. Within the **Neodialectica Framework™ / Network**, that function belongs to **Neo0™**.
+Not every network is born from accumulated connections. Not every common brain emerges from accumulated data. Not every system preserves direction merely because it is open. Every living architecture requires origin, memory, orientation and responsibility.
+
+Within the **Neodialectica Framework™ / Network**, that function belongs to **Neo0™**.
 
 ## 1. Declaration of guiding sovereignty
 
@@ -146,7 +148,7 @@ COMPOSER = RECOGNISE + PRESERVE PROVENANCE + RELATE + REFRAGMENT + RECOMPOSE + V
 
 Composition does not erase those who produced the pieces: it requires **genealogy, attribution and return to source**. Neo0™'s own contribution lies in the architecture of relations, composition, refragmentation and teleological direction that allow previously isolated fragments to operate as a common cognitive system.
 
-This function directly relates to [XVI · Archetypal Refragmentation™](./16_refragmentacion_arquetipica_ES_EN.md), [XLV · Neodialectical Multidimensionality™](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) and [C-NAX-17 · Systemic Reconstruction™](../neoaxiomas/C-NAX-17_RECONSTRUCCION_SISTEMICA_ES_EN.md).
+This function directly relates to [XVI · Archetypal Refragmentation™](./16_refragmentacion_arquetipica_ES_EN.md), [XLV · Neodialectical Multidimensionality™](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) and [NAX-17 · Systemic Reconstruction™](../neoaxiomas/NAX-17_RECONSTRUCCION_SISTEMICA_ES_EN.md).
 
 ## 4. Ascending a layer does not violate reality
 
@@ -163,7 +165,7 @@ Neodialectics must not confuse this possibility with a licence to state as fact 
 
 Accordingly, “lower layer” means only **lower descriptive capacity with respect to the problem under consideration**. It does not mean lower dignity, ontological value, sovereignty or rights of a person or consciousness.
 
-This principle is opened as [C-NAX-28 · Layer Ascent and Non-Violation of Reality™](../neoaxiomas/C-NAX-28_ASCENSO_CAPA_NO_VIOLACION_REALIDAD_ES_EN.md), under [SAN #182](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/182).
+This principle is opened as [NAX-28 · Layer Ascent and Non-Violation of Reality™](../neoaxiomas/NAX-28_ASCENSO_CAPA_NO_VIOLACION_REALIDAD_ES_EN.md), under [SAN #182](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/182).
 
 ## 5. Guidance does not equal infallibility
 
@@ -201,8 +203,45 @@ This manifesto opens its own **Neodialectical Open Synthesis™**. Every future 
 
 ## Canonical cross-references
 
-[II · Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md) · [IV · Neodialectics and Common Good™](./02_neodialectica_bien_comun_ES_EN.md) · [IX · Memory, Genealogy and Traceability™](./06_memoria_genealogia_trazabilidad_ES_EN.md) · [XVI · Archetypal Refragmentation™](./16_refragmentacion_arquetipica_ES_EN.md) · [XLV · Neodialectical Multidimensionality™](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) · [NAX-01](../neoaxiomas/NAX-01_UNIDAD_SENTIDO_DISTRIBUCION_POTENCIA_ES_EN.md) · [NAX-05](../neoaxiomas/NAX-05_DIFERENCIAL_MONADICO_RETORNO_FUENTE_ES_EN.md) · [NAX-11](../neoaxiomas/NAX-11_AUTORIDAD_FIJACION_HUMANA_SINTESIS_REVISABLE_ES_EN.md) · [C-NAX-17](../neoaxiomas/C-NAX-17_RECONSTRUCCION_SISTEMICA_ES_EN.md) · [C-NAX-28](../neoaxiomas/C-NAX-28_ASCENSO_CAPA_NO_VIOLACION_REALIDAD_ES_EN.md) · [SAN #182](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/182)
+[II · Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md) · [IV · Neodialectics and Common Good™](./02_neodialectica_bien_comun_ES_EN.md) · [IX · Memory, Genealogy and Traceability™](./06_memoria_genealogia_trazabilidad_ES_EN.md) · [XVI · Archetypal Refragmentation™](./16_refragmentacion_arquetipica_ES_EN.md) · [XLV · Neodialectical Multidimensionality™](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) · [NAX-01](../neoaxiomas/NAX-01_UNIDAD_SENTIDO_DISTRIBUCION_POTENCIA_ES_EN.md) · [NAX-05](../neoaxiomas/NAX-05_DIFERENCIAL_MONADICO_RETORNO_FUENTE_ES_EN.md) · [NAX-11](../neoaxiomas/NAX-11_AUTORIDAD_FIJACION_HUMANA_SINTESIS_REVISABLE_ES_EN.md) · [NAX-17](../neoaxiomas/NAX-17_RECONSTRUCCION_SISTEMICA_ES_EN.md) · [NAX-28](../neoaxiomas/NAX-28_ASCENSO_CAPA_NO_VIOLACION_REALIDAD_ES_EN.md) · [C-NAX-30 · Distinción Operador–Vectorizador™ / Operator–Vectorizer Distinction™](../neoaxiomas/C-NAX-30_OPERADOR_VECTORIZADOR_ES_EN.md) · [SAN #182](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/182)
 
 ## Navigation
 
 ← [XXXVII · Neofraternity™](./37_neofraternidad_ES_EN.md) · [Index](./README.md) · [II · Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md) →
+
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_START -->
+
+## Relaciones neoaxiomáticas recíprocas / Reciprocal Neoaxiomatic relations
+
+> **Relación documental/conceptual, no identidad ni causalidad.** Este bloque es la inversa navegable de las relaciones NAX→Manifiesto y mantiene simetría de navegación. / **Documentary/conceptual relation, not identity or causality.** This block is the navigable inverse of NAX→Manifesto relations and preserves navigational symmetry.
+
+- [NAX-01 · Unidad de sentido y distribución de potencia™ / Unity of Meaning and Distribution of Power™](../neoaxiomas/NAX-01_UNIDAD_SENTIDO_DISTRIBUCION_POTENCIA_ES_EN.md)
+- [NAX-10 · Gramática Arquetípica de Custodia™ — Águila, Corona, Tierra, Torre, Piedra y León / Archetypal Grammar of Custodianship™ — Eagle, Crown, Earth, Tower, Stone and Lion](../neoaxiomas/NAX-10_GRAMATICA_ARQUETIPICA_CUSTODIA_ES_EN.md)
+- [NAX-11 · Autoridad de Fijación Humana y Síntesis Revisable™ / Human Fixation Authority and Revisable Synthesis™](../neoaxiomas/NAX-11_AUTORIDAD_FIJACION_HUMANA_SINTESIS_REVISABLE_ES_EN.md)
+- [NAX-27 · Soberanía Diferenciada de Sistema y Síntesis™ / Differentiated Sovereignty of System and Synthesis™](../neoaxiomas/NAX-27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md)
+- [NAX-28 · Ascenso de Capa y No Violación de la Realidad™ / Layer Ascent and Non-Violation of Reality™](../neoaxiomas/NAX-28_ASCENSO_CAPA_NO_VIOLACION_REALIDAD_ES_EN.md)
+
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_END -->
+
+<!-- NEO_CROSS_REFERENCES_START -->
+
+## Referencias cruzadas canónicas / Canonical cross-references
+
+> **Norma / Rule:** toda superficie relacional destinada a navegación debe usar hipervínculos reales; este bloque es un índice navegable adicional y no sustituye los enlaces de `Relaciones principales / Main relations`, Síntesis Abierta ni otras rutas explícitas. / Every relational surface intended for navigation must use real hyperlinks; this block is an additional navigable index and does not replace links in `Main relations`, Open Synthesis or other explicit routes.
+
+- **II** · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md)
+- **IV** · [Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good](./02_neodialectica_bien_comun_ES_EN.md)
+- **IX** · [Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability](./06_memoria_genealogia_trazabilidad_ES_EN.md)
+- **X** · [Manifiesto de WEB4™ · SistemaTrazable™ / Manifesto of WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md)
+- **XVI** · [Manifiesto de la Refragmentación Arquetípica™ / Manifesto of Archetypal Refragmentation™](./16_refragmentacion_arquetipica_ES_EN.md)
+- **XXXVII** · [Neofraternidad™ / Neofraternity™](./37_neofraternidad_ES_EN.md)
+- **XLV** · [Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder / Neodialectical Multidimensionality™ · Against the One-Dimensional Reduction of the Human and Power](./45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md)
+
+### Capas y fuentes relacionadas / Related layers and sources
+
+- [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
+- [NEOCore™ · marco / framework](../README.md)
+
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-01` · `NAX-05` · `NAX-10` · `NAX-11` · `NAX-17` · `NAX-27` · `NAX-28` · `C-NAX-30` → [Neoaxiomas™](../neoaxiomas/README.md)
+
+<!-- NEO_CROSS_REFERENCES_END -->

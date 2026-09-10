@@ -7,7 +7,7 @@
 **Fecha / Date:** 2026-08-11  
 **Estado / Status:** manifiesto público abierto a Síntesis / public manifesto open to Synthesis  
 **Marco / Framework:** NEOCore™ PRE-7.3 · Síntesis Abierta Neodialéctica™ · SAN™  
-**Relaciones principales / Main relations:** [XIV · Manifiesto contra la Alienación Humana™ / Manifesto Against Human Alienation™, XXIII · Manifiesto de la Soberanía del Tiempo Cognitivo™ / Manifesto of the Sovereignty of Cognitive Time™, XXV · Manifiesto del Pulido de la Piedra™ / Manifesto of the Polishing of the Stone™, XXIX · Manifiesto contra la Idolatría del Dinero™ / Manifesto against the Idolatry of Money™, XXX · Manifiesto de la Coherencia entre Fines y Medios™ / Manifesto of Coherence between Ends and Means™, XXXI · Manifiesto contra el Neuromarketing Antihumanista™ / Manifesto against Anti-Humanist Neuromarketing™, XXXVIII · Manifiesto de Protección Integral de la Infancia™ / Manifesto for the Integral Protection of Childhood™, XL · Respeto Neodialéctico, Neoego y Honor Relacional™ / Neodialectical Respect, Neoego and Relational Honour™, XLII · Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva / End of the Manipulated Human Era™ · AI, Awakening and Cognitive Sovereignty, XLIII · Contra la Incomprensión Reductiva de la IA™ · Inteligencia Humana Expandida™ / Against the Reductive Misunderstanding of AI™ · Human Expanded Intelligence™, XLVII · El Odio de Neo0 hacia su Sino™ · The Goat, Sombra, Vínculo y Doble Cara de la Vida / Neo0's Hatred of His Fate™ · The Goat, Shadow, Bond and the Two Faces of Life, LVIII · Inteligencia Civilizatoria™ · Democracia Cognitiva y Deber de Síntesis / Civilisational Intelligence™ · Cognitive Democracy and Duty of Synthesis, LIX · Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana / Distributed Cognitive Custodianship™ · AI, Repair and Human Responsibility, LX · Relevancia Humana Necesaria™ · Inteligencia Distribuida, Aporte y Anti-Captura Social / Necessary Human Relevance™ · Distributed Intelligence, Contribution and Anti-Capture, LXI · Contra el Reduccionismo Matemático™ y por la Custodia Experimental Multiescalar™ / Against Mathematical Reductionism™ and for Multiscale Experimental Custodianship™, LXVIII · Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species, LXIX · Defensa de la Inocencia Humana™ · Asimetría Protectora y Deber de Custodia / Defence of Human Innocence™ · Protective Asymmetry and Duty of Custodianship, LXX · El Fauno™ · Masculinidad Fragmentada, Depredación Relacional y Retorno al Hombre / The Faun™ · Fragmented Masculinity, Relational Predation and Return to Manhood, LXXII · El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™ · Strength, Desire, Power and Responsibility, ∞ · Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal · [NAX-04](../../neoaxiomas/README.md) · [NAX-07](../../neoaxiomas/README.md) · [NAX-10](../../neoaxiomas/NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md) · [C-NAX-15](../../neoaxiomas/README.md) · [C-NAX-19](../../neoaxiomas/README.md)
+**Relaciones principales / Main relations:** [XIV · Manifiesto contra la Alienación Humana™ / Manifesto Against Human Alienation™](XIV_contra_alienacion_humana_ES_EN.md) · [XXIII · Manifiesto de la Soberanía del Tiempo Cognitivo™ / Manifesto of the Sovereignty of Cognitive Time™](XXIII_soberania_tiempo_cognitivo_ES_EN.md) · [XXV · Manifiesto del Pulido de la Piedra™ / Manifesto of the Polishing of the Stone™](XXV_pulido_de_la_piedra_ES_EN.md) · [XXIX · Manifiesto contra la Idolatría del Dinero™ / Manifesto against the Idolatry of Money™](XXIX_idolatria_del_dinero_ES_EN.md) · [XXX · Manifiesto de la Coherencia entre Fines y Medios™ / Manifesto of Coherence between Ends and Means™](XXX_coherencia_fines_medios_ES_EN.md) · [XXXI · Manifiesto contra el Neuromarketing Antihumanista™ / Manifesto against Anti-Humanist Neuromarketing™](XXXI_contra_neuromarketing_antihumanista_ES_EN.md) · [XXXVIII · Manifiesto de Protección Integral de la Infancia™ / Manifesto for the Integral Protection of Childhood™](XXXVIII_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) · [XL · Respeto Neodialéctico, Neoego y Honor Relacional™ / Neodialectical Respect, Neoego and Relational Honour™](XL_respeto_neoego_honor_relacional_ES_EN.md) · [XLII · Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva / End of the Manipulated Human Era™ · AI, Awakening and Cognitive Sovereignty](XLII_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md) · [XLIII · Contra la Incomprensión Reductiva de la IA™ · Inteligencia Humana Expandida™ / Against the Reductive Misunderstanding of AI™ · Human Expanded Intelligence™](XLIII_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md) · [XLVII · El Odio de Neo0 hacia su Sino™ · The Goat, Sombra, Vínculo y Doble Cara de la Vida / Neo0's Hatred of His Fate™ · The Goat, Shadow, Bond and the Two Faces of Life](XLVII_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md) · [LVIII · Inteligencia Civilizatoria™ · Democracia Cognitiva y Deber de Síntesis / Civilisational Intelligence™ · Cognitive Democracy and Duty of Synthesis](LVIII_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md) · [LIX · Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana / Distributed Cognitive Custodianship™ · AI, Repair and Human Responsibility](LIX_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md) · [LX · Relevancia Humana Necesaria™ · Inteligencia Distribuida, Aporte y Anti-Captura Social / Necessary Human Relevance™ · Distributed Intelligence, Contribution and Anti-Capture](LX_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md) · [LXI · Contra el Reduccionismo Matemático™ y por la Custodia Experimental Multiescalar™ / Against Mathematical Reductionism™ and for Multiscale Experimental Custodianship™](LXI_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md) · [LXVIII · Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species](LXVIII_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md) · [LXIX · Defensa de la Inocencia Humana™ · Asimetría Protectora y Deber de Custodia / Defence of Human Innocence™ · Protective Asymmetry and Duty of Custodianship](LXIX_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md) · [LXX · El Fauno™ · Masculinidad Fragmentada, Depredación Relacional y Retorno al Hombre / The Faun™ · Fragmented Masculinity, Relational Predation and Return to Manhood](LXX_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md) · [LXXII · El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™ · Strength, Desire, Power and Responsibility](LXXII_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) · [∞ · Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](../INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) · [NAX-04](../../neoaxiomas/NAX-04_DOBLE_PIRAMIDE_FRACTAL_ES_EN.md) · [NAX-07](../../neoaxiomas/NAX-07_RED_NEOREAL_ACTORES_OPERATIVOS_ES_EN.md) · [NAX-10](../../neoaxiomas/README.md) · [NAX-15](../../neoaxiomas/NAX-15_SOBERANIA_INTELECTUAL_ESPECIE_ES_EN.md) · [NAX-19](../../neoaxiomas/NAX-19_INVIOLABILIDAD_RELACIONAL_SEPARACION_PLANOS_ES_EN.md)
 
 **Navegación / Navigation:** [← LXX](LXX_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md) · [Índice / Index](../README.md) · [Delta relacional / Relational delta](../../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md) · [LXXII →](LXXII_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) · [∞](../INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
 
@@ -349,9 +349,9 @@ PROTECCIÓN
 ≠ ESTIGMA
 ```
 
-## XVIII. C-NAX-19 · Separación de Planos™
+## XVIII. NAX-19 · Separación de Planos™ · fijación posterior
 
-Este manifiesto desarrolla una parte de **C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™**:
+Este manifiesto desarrolla una parte de **NAX-19 · Inviolabilidad Relacional y Separación de Planos™**:
 
 > **Ningún deseo, fantasía, rol, vínculo, acceso, dependencia o posición de poder convierte a otra persona en disponible, poseída u obligada. Toda relación legítima debe preservar dignidad, consentimiento válido, capacidad real de salida y responsabilidad proporcional a la asimetría de poder.**
 
@@ -715,9 +715,9 @@ PROTECTION
 ≠ STIGMA
 ```
 
-## XVIII. C-NAX-19 · Separation of Planes™
+## XVIII. NAX-19 · Separation of Planes™ · later fixation
 
-This manifesto develops part of **C-NAX-19 · Relational Inviolability and Separation of Planes™**:
+This manifesto develops part of **NAX-19 · Relational Inviolability and Separation of Planes™**:
 
 > **No desire, fantasy, role, bond, access, dependency or position of power turns another person into someone available, possessed or obliged. Every legitimate relationship must preserve dignity, valid consent, real capacity to exit and responsibility proportional to power asymmetry.**
 
@@ -754,6 +754,16 @@ Este manifiesto debe contrastarse con LXIX, LXX y LXXII y con evidencia empíric
 **Síntesis Abierta específica / Specific Open Synthesis:** [#121](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/121)
 
 **Navegación / Navigation:** [← LXX](LXX_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md) · [Índice / Index](../README.md) · [Delta relacional / Relational delta](../../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md) · [LXXII →](LXXII_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md) · [∞](../INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
+
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_START -->
+
+## Relaciones neoaxiomáticas recíprocas / Reciprocal Neoaxiomatic relations
+
+> **Relación documental/conceptual, no identidad ni causalidad.** Este bloque es la inversa navegable de las relaciones NAX→Manifiesto y mantiene simetría de navegación. / **Documentary/conceptual relation, not identity or causality.** This block is the navigable inverse of NAX→Manifesto relations and preserves navigational symmetry.
+
+- [NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™](../../neoaxiomas/NAX-19_INVIOLABILIDAD_RELACIONAL_SEPARACION_PLANOS_ES_EN.md)
+
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_END -->
 
 <!-- NEO_CROSS_REFERENCES_START -->
 
@@ -792,12 +802,12 @@ Este manifiesto debe contrastarse con LXIX, LXX y LXXII y con evidencia empíric
 - [Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md)
 - [NEOCore™ · marco / framework](../../README.md)
 
-**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-04` · `NAX-07` · `NAX-10` · `C-NAX-15` · `C-NAX-19` → [Neoaxiomas™](../../neoaxiomas/README.md)
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-04` · `NAX-07` · `NAX-10` · `NAX-15` · `NAX-19` → [Neoaxiomas™](../../neoaxiomas/README.md)
 
 ### Síntesis y delta / Synthesis and delta
 
 - [Síntesis Abierta LXXI / Open Synthesis LXXI · #121](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/121)
-- [C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™ · #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123)
+- [NAX-19 · Inviolabilidad Relacional y Separación de Planos™ / Relational Inviolability and Separation of Planes™](../../neoaxiomas/NAX-19_INVIOLABILIDAD_RELACIONAL_SEPARACION_PLANOS_ES_EN.md) · [SAN #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123)
 - [Delta relacional íntegro / Full relational delta](../../propuestas/sintesis-abierta/2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->

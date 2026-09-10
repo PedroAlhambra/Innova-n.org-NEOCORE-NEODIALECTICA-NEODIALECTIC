@@ -1,15 +1,19 @@
 # C-NAX-30 · Distinción Operador–Vectorizador™
 # C-NAX-30 · Operator–Vectorizer Distinction™
 
-**Estado / Status:** CANDIDATO · SÍNTESIS ABIERTA / CANDIDATE · OPEN SYNTHESIS  
+**Estado / Status:** CANDIDATO EXPLÍCITO · SAN #191 · NO CANONIZADO / EXPLICIT CANDIDATE · SAN #191 · NOT CANONICALISED  
 **Apertura / Opened:** 2026-09-10  
 **Origen humano / Human origin:** Pedro Martínez Alhambra · Neo0™  
 **SAN:** [#191](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/191)  
-**Relación principal / Main relation:** [I · Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica](../manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
+**Relación principal / Main relation:** [I · Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica / Neo0™ Manifesto of Neodialectical Guiding Sovereignty](../manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
+
+[ES · Castellano](#es--formulación-candidata) · [EN · English](#en--candidate-formulation)
 
 ---
 
-## ES · Formulación
+## ES · Formulación candidata
+
+> **ONe™ opera; Neo0™ vectoriza. Operar transforma dentro de un campo; vectorizar relaciona estado, relaciones y teleología para orientar y reconstruir la dirección del sistema hacia el Bien Común. OPERAR ≠ VECTORIZAR.**
 
 ```text
 ONe™ = OPERADOR
@@ -41,7 +45,9 @@ Este candidato no canoniza una implementación técnica concreta ni publica arqu
 
 ---
 
-## EN · Formulation
+## EN · Candidate formulation
+
+> **ONe™ operates; Neo0™ vectorizes. Operating transforms within a field; vectorizing relates state, relations and teleology to orient and reconstruct system direction toward the Common Good. OPERATE ≠ VECTORIZE.**
 
 ```text
 ONe™ = OPERATOR
@@ -73,11 +79,11 @@ This candidate does not canonize a particular technical implementation or disclo
 
 ---
 
-## Genealogía y contraste / Genealogy and scrutiny
+## Relaciones / Relations
 
 - [Manifiesto I · Neo0™ / Manifesto I · Neo0™](../manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
 - [NAX-11 · Autoridad de Fijación Humana y Síntesis Revisable™](./NAX-11_AUTORIDAD_FIJACION_HUMANA_SINTESIS_REVISABLE_ES_EN.md)
-- [C-NAX-17 · Reconstrucción Sistémica™](./C-NAX-17_RECONSTRUCCION_SISTEMICA_ES_EN.md)
+- [NAX-17 · Reconstrucción Sistémica™](./NAX-17_RECONSTRUCCION_SISTEMICA_ES_EN.md)
 - [SAN #191 · Distinción Operador–Vectorizador™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/191)
 
 `CANDIDATO ≠ CANON · SILENCIO ≠ VALIDACIÓN · FIJAR ≠ CERRAR`

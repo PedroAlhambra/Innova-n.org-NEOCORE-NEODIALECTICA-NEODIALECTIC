@@ -16,11 +16,21 @@ ISSUE_RE = re.compile(
 )
 
 
-def primary_documents(prefix):
+def is_historical_candidate(path):
+    if not path.name.startswith('C-NAX-'):
+        return False
+    text = path.read_text(encoding='utf-8', errors='replace')
+    status = next((line for line in text.splitlines() if line.startswith('**Estado / Status:**')), '')
+    return 'HISTÓRICO' in status and 'FIXED AS NAX-' in status
+
+
+def primary_documents(prefix, active_candidates_only=False):
     out = {}
     for path in sorted(NEO_DIR.glob(f'{prefix}-*_ES_EN.md')):
         match = DOC_RE.match(path.name)
         if not match:
+            continue
+        if active_candidates_only and is_historical_candidate(path):
             continue
         number = int(match.group(2))
         # This is an explicitly linked extension, not a second NAX-10 primary entry.
@@ -80,12 +90,14 @@ def main():
         readme_en = readme[en_gate.end():]
 
     canonical = primary_documents('NAX')
-    candidates = primary_documents('C-NAX')
+    candidates = primary_documents('C-NAX', active_candidates_only=True)
+    historical_candidates = {n: ps for n, ps in primary_documents('C-NAX').items() if n not in candidates}
     canonical_ids = sorted(canonical)
     candidate_ids = sorted(candidates)
 
-    if canonical_ids != list(range(1, 15)):
-        problems.append(f'Frontera NAX documental inesperada / unexpected documentary NAX frontier: {canonical_ids}')
+    expected_canonical = list(range(1, max(canonical_ids) + 1)) if canonical_ids else []
+    if canonical_ids != expected_canonical or not canonical_ids:
+        problems.append(f'Frontera NAX documental no contigua / non-contiguous documentary NAX frontier: {canonical_ids}')
     for number, paths in canonical.items():
         if len(paths) != 1:
             problems.append(f'NAX-{number:02d}: documentos primarios duplicados / duplicate primary documents: {[p.name for p in paths]}')
@@ -100,10 +112,16 @@ def main():
             match = re.search(r'C_NAX_(\d+)', path.name)
         if match:
             source_candidates[int(match.group(1))] = path
-    frontier_ids = set(candidate_ids) | set(source_candidates)
-    expected_candidates = list(range(15, max(frontier_ids) + 1)) if frontier_ids else []
+    expected_candidates = list(range(max(canonical_ids) + 1, max(candidate_ids) + 1)) if candidate_ids else []
     if candidate_ids != expected_candidates:
-        problems.append(f'NEOAXIOM_READABILITY_FAILURE: documentos C-NAX {candidate_ids}; esperados / expected {expected_candidates}')
+        problems.append(f'NEOAXIOM_READABILITY_FAILURE: active C-NAX documents {candidate_ids}; expected {expected_candidates}')
+    for number, paths in historical_candidates.items():
+        if number not in canonical:
+            problems.append(f'C-NAX-{number}: historical snapshot lacks promoted NAX-{number} / falta NAX promovido')
+        for path in paths:
+            text = path.read_text(encoding='utf-8', errors='replace')
+            if f'HISTÓRICO · FIJADO COMO NAX-{number}' not in text or f'./NAX-{number}_' not in text:
+                problems.append(f'C-NAX-{number}: historical fixation redirect incomplete / redirección genealógica incompleta')
     for number, paths in candidates.items():
         if len(paths) != 1:
             problems.append(f'C-NAX-{number}: documentos primarios duplicados / duplicate primary documents: {[p.name for p in paths]}')
@@ -122,8 +140,9 @@ def main():
         'en sencillo', 'ejemplo', 'in plain language', 'example',
     }
     for number, source in sorted(source_candidates.items()):
-        paths = candidates.get(number, [])
+        paths = candidates.get(number, []) or canonical.get(number, [])
         if len(paths) != 1:
+            problems.append(f'NEOAXIOM_SOURCE_DEPTH_FAILURE: source C-NAX-{number} has no unique current NAX/C-NAX target')
             continue
         target = paths[0]
         source_text = source.read_text(encoding='utf-8', errors='replace')
@@ -132,14 +151,14 @@ def main():
         target_size = len(re.sub(r'\s+', '', target_text))
         if source_size and target_size < int(source_size * 0.85):
             problems.append(
-                f'NEOAXIOM_SOURCE_DEPTH_FAILURE: C-NAX-{number} conserva sólo '
+                f'NEOAXIOM_SOURCE_DEPTH_FAILURE: NAX/C-NAX-{number} conserva sólo '
                 f'{target_size/source_size:.0%} del volumen estructural de {source.name}'
             )
         source_fences = source_text.count('```')
         target_fences = target_text.count('```')
         if target_fences < source_fences:
             problems.append(
-                f'NEOAXIOM_SOURCE_DEPTH_FAILURE: C-NAX-{number} pierde bloques estructurales/código '
+                f'NEOAXIOM_SOURCE_DEPTH_FAILURE: NAX/C-NAX-{number} pierde bloques estructurales/código '
                 f'frente a {source.name}: {target_fences} < {source_fences}'
             )
         for heading in re.findall(r'^###\s+(.+?)\s*$', source_text, re.M):
@@ -147,7 +166,7 @@ def main():
                 continue
             if not re.search(r'^###\s+' + re.escape(heading.strip()) + r'\s*$', target_text, re.M):
                 problems.append(
-                    f'NEOAXIOM_SOURCE_DEPTH_FAILURE: C-NAX-{number} pierde la sección «{heading.strip()}» '
+                    f'NEOAXIOM_SOURCE_DEPTH_FAILURE: NAX/C-NAX-{number} pierde la sección «{heading.strip()}» '
                     f'de {source.name}'
                 )
 
@@ -189,20 +208,32 @@ def main():
                 problems.append(f'NEOAXIOM_LANGUAGE_INDEX_FAILURE: falta «{heading}» en la capa {language}')
 
     candidate_count = len(expected_candidates)
-    max_candidate = max(expected_candidates) if expected_candidates else None
-    frontier = f'C-NAX-15–C-NAX-{max_candidate}' if max_candidate else 'C-NAX-∅'
-    if max_candidate:
-        coverage_es = f'{candidate_count} candidatos C-NAX-15–C-NAX-{max_candidate}'
-        coverage_en = f'{candidate_count} candidates C-NAX-15–C-NAX-{max_candidate}'
-        if coverage_es not in syn or coverage_en not in syn:
-            problems.append('Índice completo conserva cobertura C-NAX obsoleta / complete index has stale C-NAX coverage')
+    if candidate_count == 1:
+        frontier = f'C-NAX-{expected_candidates[0]}'
+        coverage_es = f'1 candidato C-NAX-{expected_candidates[0]}'
+        coverage_en = f'1 candidate C-NAX-{expected_candidates[0]}'
+        portal_state = f'**1 candidato neoaxiomático / neoaxiomatic candidate:** {frontier}.'
+    elif candidate_count > 1:
+        frontier = f'C-NAX-{expected_candidates[0]}–C-NAX-{expected_candidates[-1]}'
+        coverage_es = f'{candidate_count} candidatos {frontier}'
+        coverage_en = f'{candidate_count} candidates {frontier}'
         portal_state = f'**{candidate_count} candidatos neoaxiomáticos / neoaxiomatic candidates:** {frontier}.'
-        if portal_state not in portal:
-            problems.append('Portal neoaxiomático conserva frontera obsoleta / Neoaxiom portal has stale frontier')
+    else:
+        frontier = 'C-NAX-∅'
+        coverage_es = '0 candidatos C-NAX'
+        coverage_en = '0 candidates C-NAX'
+        portal_state = '**0 candidatos neoaxiomáticos / neoaxiomatic candidates:** C-NAX-∅.'
+    if coverage_es not in syn or coverage_en not in syn:
+        problems.append('Índice completo conserva cobertura C-NAX obsoleta / complete index has stale C-NAX coverage')
+    if portal_state not in portal:
+        problems.append('Portal neoaxiomático conserva frontera obsoleta / Neoaxiom portal has stale frontier')
 
-    syn_ids = sorted(set(int(x) for x in re.findall(r'^\| \*\*C-NAX-(\d+)\s+·', syn, re.M)))
+    syn_ids = sorted(set(int(x) for x in re.findall(r'^\| \*\*(?:\[)?C-NAX-(\d+)\s+·', syn, re.M)))
     if syn_ids != expected_candidates:
         problems.append(f'Índice SAN C-NAX desalineado / C-NAX SAN index mismatch: {syn_ids}')
+    syn_nax_ids = sorted(set(int(x) for x in re.findall(r'^\| (?:\*\*\[)?NAX-(\d+)\s+·', syn, re.M)))
+    if syn_nax_ids != canonical_ids:
+        problems.append(f'Índice SAN NAX desalineado / NAX SAN index mismatch: {syn_nax_ids}')
 
     status = 'OK' if not problems else 'FAIL'
     lines = [
@@ -216,14 +247,15 @@ def main():
         '## Resultado / Result',
         '',
         f'- NAX canónicos con documento propio / canonical NAX with own document: **{len(canonical_ids)}** · `{canonical_ids}`.',
-        f'- C-NAX con documento propio / C-NAX with own document: **{len(candidate_ids)}** · `{candidate_ids}`.',
+        f'- C-NAX activos con documento propio / active C-NAX with own document: **{len(candidate_ids)}** · `{candidate_ids}`.',
+        f'- C-NAX históricos fijados / historical fixed C-NAX snapshots: **{len(historical_candidates)}** · `{sorted(historical_candidates)}`.',
         f'- Fuentes C-NAX detectadas / detected C-NAX sources: **{len(source_candidates)}** · `{sorted(source_candidates)}`.',
         '',
         '## Regla endurecida / Hardened rule',
         '',
         '- **README = índice; NAX/C-NAX = documento doctrinal propio; procedencia y SAN = rutas secundarias. / README = index; NAX/C-NAX = own doctrinal document; provenance and SAN = secondary routes.**',
         '- **Cada capa ES y EN del README debe enlazar exactamente una vez a cada documento NAX/C-NAX y conservar el mismo mapa estructural. / Each ES and EN README layer must link exactly once to every NAX/C-NAX document and preserve the same structural map.**',
-        '- **La frontera se deriva de las fuentes públicas C-NAX y debe ser contigua en documentos, README, portal e índice SAN. / The frontier is derived from public C-NAX sources and must remain contiguous across documents, README, portal and SAN index.**',
+        '- **La frontera viva se deriva de los NAX canónicos y C-NAX activos; los C-NAX históricos fijados permanecen como genealogía y no cuentan como candidatos activos. / The live frontier derives from canonical NAX and active C-NAX; fixed historical C-NAX remain as genealogy and do not count as active candidates.**',
         '- **El auditor valida la arquitectura documental vigente y no exige restaurar el antiguo README monolítico. / The auditor validates the current document architecture and never requires restoring the former monolithic README.**',
         '',
         '## Incidencias / Findings',

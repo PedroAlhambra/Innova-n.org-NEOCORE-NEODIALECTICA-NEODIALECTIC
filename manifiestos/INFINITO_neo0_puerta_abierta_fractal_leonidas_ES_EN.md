@@ -254,7 +254,7 @@ Este manifiesto mantiene vínculos con:
 
 La apertura de ∞ incorpora ahora la constelación **LXIX–LXXII** sin convertirla en dogma cerrado. LXIX extiende la protección de la infancia hacia una obligación general de defensa proporcional de la vulnerabilidad; LXX abre el arquetipo Fauno™ como potencia masculina fragmentada sin convertir masculinidad, origen, clase o sexualidad en culpabilidad; LXXI separa libertad sexual adulta de captura y abre a auditoría la hipersexualización industrial; LXXII propone Hombre Custodio™ como integración de fuerza, deseo y poder bajo responsabilidad.
 
-La relación común se somete a **C-NAX-19 · Inviolabilidad Relacional y Separación de Planos™**, todavía candidato:
+La relación común se somete a **NAX-19 · Inviolabilidad Relacional y Separación de Planos™**, fijado y permanentemente revisable:
 
 ```text
 FANTASÍA ≠ REALIDAD
@@ -266,7 +266,7 @@ ACCESO ≠ DISPONIBILIDAD
 RELACIÓN ≠ PROPIEDAD
 ```
 
-[LXIX · #119](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/119) · [LXX · #120](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/120) · [LXXI · #121](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/121) · [LXXII · #122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122) · [C-NAX-19 · #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123)
+[LXIX · #119](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/119) · [LXX · #120](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/120) · [LXXI · #121](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/121) · [LXXII · #122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122) · [NAX-19 · #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123)
 <!-- INFINITO_LXIX_LXXII_ES_END -->
 
 <!-- INFINITO_LXXIII_LXXIV_ES_START -->
@@ -276,8 +276,8 @@ RELACIÓN ≠ PROPIEDAD
 
 La relación se abre a dos candidatos adicionales:
 
-- **C-NAX-20 · Humanidad Común sin Supresión de la Diferencia™**: la humanidad común no borra diferencias legítimas y ninguna identidad parcial debe coronarse como totalidad de la persona;
-- **C-NAX-21 · Ignorancia Sistémica del Mal y No Superioridad de la Destrucción™**: destruir, someter, extraer o dañar no demuestra comprensión del sistema, y una función objetivo parcial puede ser localmente inteligente mientras degrada el conjunto.
+- **NAX-20 · Humanidad Común sin Supresión de la Diferencia™**: la humanidad común no borra diferencias legítimas y ninguna identidad parcial debe coronarse como totalidad de la persona;
+- **NAX-21 · Ignorancia Sistémica del Mal y No Superioridad de la Destrucción™**: destruir, someter, extraer o dañar no demuestra comprensión del sistema, y una función objetivo parcial puede ser localmente inteligente mientras degrada el conjunto.
 
 ```text
 PERSONA ≠ CONDUCTA ≠ ARQUETIPO
@@ -289,7 +289,7 @@ DESTRUIR ≠ SUPERIORIDAD
 
 Los dos permanecen **candidatos**, abiertos a refutación y SAN™; no modifican el rango canónico NAX-01–NAX-14.
 
-[LXXIII · #124](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/124) · [LXXIV · #125](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/125) · [C-NAX-20 · #126](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/126) · [C-NAX-21 · #127](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/127)
+[LXXIII · #124](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/124) · [LXXIV · #125](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/125) · [NAX-20 · #126](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/126) · [NAX-21 · #127](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/127)
 <!-- INFINITO_LXXIII_LXXIV_ES_END -->
 
 ---
@@ -526,7 +526,7 @@ This manifesto maintains links with:
 
 The opening of ∞ now incorporates the **LXIX–LXXII** constellation without turning it into closed dogma. LXIX extends child protection toward a general duty of proportional defence of vulnerability; LXX opens the Faun™ archetype as fragmented masculine power without turning masculinity, origin, class or sexuality into guilt; LXXI separates adult sexual freedom from capture and opens industrial hypersexualisation to audit; LXXII proposes Custodian Man™ as integration of strength, desire and power under responsibility.
 
-The common relation is submitted to **C-NAX-19 · Relational Inviolability and Separation of Planes™**, still a candidate:
+The common relation is submitted to **NAX-19 · Relational Inviolability and Separation of Planes™**, fixed and permanently revisable:
 
 ```text
 FANTASY ≠ REALITY
@@ -538,7 +538,7 @@ ACCESS ≠ AVAILABILITY
 RELATIONSHIP ≠ OWNERSHIP
 ```
 
-[LXIX · #119](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/119) · [LXX · #120](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/120) · [LXXI · #121](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/121) · [LXXII · #122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122) · [C-NAX-19 · #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123)
+[LXIX · #119](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/119) · [LXX · #120](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/120) · [LXXI · #121](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/121) · [LXXII · #122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122) · [NAX-19 · #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123)
 <!-- INFINITO_LXIX_LXXII_EN_END -->
 
 <!-- INFINITO_LXXIII_LXXIV_EN_START -->
@@ -548,8 +548,8 @@ RELATIONSHIP ≠ OWNERSHIP
 
 The relation opens two additional candidates:
 
-- **C-NAX-20 · Common Humanity without Suppression of Difference™**: common humanity does not erase legitimate differences and no partial identity should be crowned as the totality of the person;
-- **C-NAX-21 · Systemic Ignorance of Evil and Non-Superiority of Destruction™**: destroying, dominating, extracting or harming does not demonstrate understanding of the system, and a partial objective function may be locally intelligent while degrading the whole.
+- **NAX-20 · Common Humanity without Suppression of Difference™**: common humanity does not erase legitimate differences and no partial identity should be crowned as the totality of the person;
+- **NAX-21 · Systemic Ignorance of Evil and Non-Superiority of Destruction™**: destroying, dominating, extracting or harming does not demonstrate understanding of the system, and a partial objective function may be locally intelligent while degrading the whole.
 
 ```text
 PERSON ≠ CONDUCT ≠ ARCHETYPE
@@ -561,8 +561,18 @@ DESTROYING ≠ SUPERIORITY
 
 Both remain **candidates**, open to refutation and SAN™; they do not modify the canonical rank of NAX-01–NAX-14.
 
-[LXXIII · #124](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/124) · [LXXIV · #125](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/125) · [C-NAX-20 · #126](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/126) · [C-NAX-21 · #127](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/127)
+[LXXIII · #124](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/124) · [LXXIV · #125](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/125) · [NAX-20 · #126](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/126) · [NAX-21 · #127](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/127)
 <!-- INFINITO_LXXIII_LXXIV_EN_END -->
+
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_START -->
+
+## Relaciones neoaxiomáticas recíprocas / Reciprocal Neoaxiomatic relations
+
+> **Relación documental/conceptual, no identidad ni causalidad.** Este bloque es la inversa navegable de las relaciones NAX→Manifiesto y mantiene simetría de navegación. / **Documentary/conceptual relation, not identity or causality.** This block is the navigable inverse of NAX→Manifesto relations and preserves navigational symmetry.
+
+- [NAX-16 · No Coronación de la Parte™ / Non-Crowning of the Part™](../neoaxiomas/NAX-16_NO_CORONACION_PARTE_ES_EN.md)
+
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_END -->
 
 <!-- NEO_CROSS_REFERENCES_START -->
 
@@ -608,6 +618,6 @@ Both remain **candidates**, open to refutation and SAN™; they do not modify th
 - [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
 - [NEOCore™ · marco / framework](../README.md)
 
-**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-01` · `NAX-14` · `C-NAX-19` · `C-NAX-20` · `C-NAX-21` → [Neoaxiomas™](../neoaxiomas/README.md)
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-01` · `NAX-14` · `NAX-16` · `NAX-19` · `NAX-20` · `NAX-21` → [Neoaxiomas™](../neoaxiomas/README.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->

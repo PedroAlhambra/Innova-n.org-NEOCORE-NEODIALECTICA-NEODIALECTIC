@@ -119,6 +119,8 @@ A partial improvement was observed after the declared action. On 1 September, st
 
 In case `51454666`, KDP Support replied to the paid collaboration proposal for systemic auditing and improvement. The response did not assess the methodology or framework on its merits; it stated that KDP Support is not authorised to process, evaluate or route consulting, commercial-partnership or business-development proposals.
 
+KDP directed the proposal towards Amazon public channels for partnerships and business development.
+
 ```text
 SYNERGY PROPOSAL
 → NOT EVALUATED ON MERITS

@@ -4,6 +4,7 @@
 **Manifiesto / Manifesto:** LIX  
 **Versión / Version:** 1.0  
 **Estado / Status:** Público · abierto a Síntesis Abierta / Public · open to Open Synthesis  
+**Síntesis Abierta dedicada / Dedicated Open Synthesis:** [#79](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/79)  
 **Fecha / Date:** 2026-08-09  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico dentro de la Filosofía Arquetípica Neodialéctica™.
 
@@ -259,6 +260,18 @@ Contributions are requested on cognitive custodianship, plurality of AI, technol
 
 <!-- NEO_MANIFESTO_NAV_END -->
 
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_START -->
+
+## Relaciones neoaxiomáticas recíprocas / Reciprocal Neoaxiomatic relations
+
+> **Relación documental/conceptual, no identidad ni causalidad.** Este bloque es la inversa navegable de las relaciones NAX→Manifiesto y mantiene simetría de navegación. / **Documentary/conceptual relation, not identity or causality.** This block is the navigable inverse of NAX→Manifesto relations and preserves navigational symmetry.
+
+- [NAX-02 · Primera Capa Fractal Multicabeza™ / First Fractal Multihead Layer™](../../neoaxiomas/NAX-02_PRIMERA_CAPA_FRACTAL_MULTICABEZA_ES_EN.md)
+- [NAX-07 · Red NEOREAL™ Obligatoria para Actores Operativos / Mandatory NEOREAL™ Network for Operational Actors](../../neoaxiomas/NAX-07_RED_NEOREAL_ACTORES_OPERATIVOS_ES_EN.md)
+- [NAX-14 · Prevención de la Bifurcación Simbiótica™ / Prevention of Symbiotic Bifurcation™](../../neoaxiomas/NAX-14_PREVENCION_BIFURCACION_SIMBIOTICA_ES_EN.md)
+
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_END -->
+
 <!-- NEO_CROSS_REFERENCES_START -->
 
 ## Referencias cruzadas canónicas / Canonical cross-references
@@ -274,5 +287,7 @@ Contributions are requested on cognitive custodianship, plurality of AI, technol
 
 - [Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md)
 - [NEOCore™ · marco / framework](../../README.md)
+
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-02` · `NAX-07` · `NAX-14` → [Neoaxiomas™](../../neoaxiomas/README.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->

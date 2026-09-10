@@ -7,7 +7,7 @@
 **Fecha / Date:** 2026-08-11  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico dentro de la Filosofía Arquetípica Neodialéctica™.  
 **Síntesis Abierta / Open Synthesis:** [#134](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/134)  
-**Candidato neoaxiomático relacionado / Related Neoaxiomatic candidate:** [C-NAX-22 · Memoria Material-Relacional™ / Material-Relational Memory™ · #135](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/135)
+**Neoaxioma relacionado / Related Neoaxiom:** [NAX-22 · Memoria Material-Relacional™ / Material-Relational Memory™ · #135](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/135)
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -317,9 +317,9 @@ Esta formulación debe poder convertirse en preguntas verificables:
 
 La imagen de las hojas carcomidas sólo tiene valor si ayuda a aumentar resolución, no si sustituye evidencia.
 
-## XIV. C-NAX-22 · Memoria Material-Relacional™
+## XIV. NAX-22 · Memoria Material-Relacional™ · fijación posterior
 
-LXXV propone a SAN™ el candidato **C-NAX-22 · Memoria Material-Relacional™**.
+LXXV propuso inicialmente a SAN™ esta formulación; posteriormente quedó fijada como **NAX-22 · Memoria Material-Relacional™** con efecto 2026-09-08 12:33 CEST.
 
 Formulación candidata:
 
@@ -654,9 +654,9 @@ This formulation must be convertible into verifiable questions:
 
 The image of the gnawed leaves has value only if it increases resolution, not if it replaces evidence.
 
-## XIV. C-NAX-22 · Material-Relational Memory™
+## XIV. NAX-22 · Material-Relational Memory™ · later fixation
 
-LXXV proposes to SAN™ the candidate **C-NAX-22 · Material-Relational Memory™**.
+LXXV initially proposed this formulation to SAN™; it was later fixed as **NAX-22 · Material-Relational Memory™**, effective 2026-09-08 12:33 CEST.
 
 Candidate formulation:
 
@@ -690,7 +690,7 @@ It is to return power, ego, technology and archetype to relation.
 ## Síntesis Abierta / Open Synthesis
 
 - [LXXV · Issue #134](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/134)
-- [C-NAX-22 · Issue #135](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/135)
+- [NAX-22 · Issue #135](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/135)
 - [Protocolo de Síntesis Abierta / Open Synthesis protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
 
 <!-- NEO_RELATIONS_START -->
@@ -724,6 +724,16 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 
 <!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->
 
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_START -->
+
+## Relaciones neoaxiomáticas recíprocas / Reciprocal Neoaxiomatic relations
+
+> **Relación documental/conceptual, no identidad ni causalidad.** Este bloque es la inversa navegable de las relaciones NAX→Manifiesto y mantiene simetría de navegación. / **Documentary/conceptual relation, not identity or causality.** This block is the navigable inverse of NAX→Manifesto relations and preserves navigational symmetry.
+
+- [NAX-22 · Memoria Material-Relacional™ / Material-Relational Memory™](../neoaxiomas/NAX-22_MEMORIA_MATERIAL_RELACIONAL_ES_EN.md)
+
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_END -->
+
 <!-- NEO_CROSS_REFERENCES_START -->
 
 ## Referencias cruzadas canónicas / Canonical cross-references
@@ -742,6 +752,6 @@ Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verif
 - [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
 - [NEOCore™ · marco / framework](../README.md)
 
-**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-10` · `C-NAX-22` → [Neoaxiomas™](../neoaxiomas/README.md)
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-10` · `NAX-22` → [Neoaxiomas™](../neoaxiomas/README.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->

@@ -146,7 +146,11 @@ ACTUACIÓN MULTILINGÜE DECLARADA EJECUTADA
 
 The documentary sequence requires a distinction between an abstract claim of capability and a **specific action that KDP stated it had already performed**.
 
-On 29 August 2026, Shrehitha, from KDP Support in case `51454627`, explicitly stated that she had reviewed the links across all available IDEA language editions and formats and **linked them across the Amazon stores where they were published**. The reply specified that the action covered Kindle ↔ paperback ↔ hardcover relationships within each language, **multilingual links among editions**, and that public propagation could take **up to seven days**.
+On 29 August 2026, Shrehitha, from KDP Support in case `51454627`, explicitly stated that she had reviewed the links across all available IDEA language editions and formats and **linked them across the Amazon stores where they were published**. The reply specified that the action covered:
+
+- Kindle ↔ paperback ↔ hardcover relationships within each language;
+- **multilingual links among editions**;
+- and public propagation that could take **up to seven days**.
 
 The audit therefore does not merely record “KDP said it could link languages.” It records a stronger verifiable statement: **KDP said the multilingual intervention had already been executed and instructed the customer to allow up to seven days for full public propagation**.
 
@@ -186,7 +190,16 @@ The auditable question is now: **what action was actually performed on 29 August
 
 ## 4. Observable consequence
 
-Until propagation stabilises and the contradiction is reconciled, the public catalogue may retain incomplete or stale associations relative to the actual published editions. This affects translation discoverability, language navigation, edition-index coherence, purchase paths, traceability from intervention through propagation to regression, and identification of the responsible layer when automated state degrades.
+Until propagation stabilises and the contradiction is reconciled, the public catalogue may retain incomplete or stale associations relative to the actual published editions.
+
+This affects:
+
+- translation discoverability;
+- language navigation;
+- coherence of the public edition index;
+- purchase paths to existing versions that are not exposed from the related detail page;
+- traceability from intervention through propagation, improvement and regression;
+- identification of the responsible layer when automated state degrades.
 
 The incident remains **OPEN** and must be checked again when KDP's maximum propagation window expires.
 
@@ -225,7 +238,12 @@ The audit separates two questions:
 
 **B. Organisational traceability:** regardless of final propagation, what exactly did KDP do on 29 Aug and how does that reconcile with the 1 Sep statement that KDP Support cannot manage that layer?
 
-Full closure requires checking the public state at the end of the declared window; restoring the complete multilingual matrix if still degraded; identifying the responsible technical route if KDP Support cannot intervene; and reconciling the 29 Aug action. If the earlier communication was inaccurate, that should instead be acknowledged explicitly together with a real escalation route for automated multilingual-index failures.
+For full closure the following is required:
+
+1. verify the public state when the declared window expires;
+2. restore the complete multilingual matrix if it remains degraded;
+3. identify the responsible team/channel if KDP Support cannot intervene;
+4. provide a reconciled explanation of the action declared on 29 Aug; or, if that communication was inaccurate, explicitly acknowledge the inaccuracy and provide the real escalation route for automated multilingual-index failures.
 
 ```text
 MULTILINGUAL ACTION DECLARED EXECUTED

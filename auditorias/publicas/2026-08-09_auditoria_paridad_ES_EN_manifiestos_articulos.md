@@ -12,7 +12,7 @@
 - Los bloques generados de navegación, relaciones compartidas, referencias cruzadas y colas de navegación específicas de idioma no se contabilizan como traducción.
 - `REVISAR` bloquea la publicación automática de manifiestos; `ADVERTENCIA` exige inspección editorial pero no demuestra por sí sola recorte.
 
-**Documentos bilingües examinados:** 115  
+**Documentos bilingües examinados:** 117  
 **Recortes/materialmente asimétricos para revisión:** 0  
 **Advertencias estructurales sin prueba suficiente de recorte:** 0  
 **Con marcador incompleto/ausente:** 0
@@ -40,11 +40,11 @@
 | `manifiestos/04_economia_del_aporte_ES_EN.md` | 526 | 516 | 0.98 | 9 | 9 | OK |
 | `manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md` | 464 | 480 | 1.03 | 9 | 9 | OK |
 | `manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md` | 430 | 430 | 1.00 | 9 | 9 | OK |
-| `manifiestos/07_web4_sistematrazable_ES_EN.md` | 437 | 447 | 1.02 | 9 | 9 | OK |
+| `manifiestos/07_web4_sistematrazable_ES_EN.md` | 1615 | 1587 | 0.98 | 15 | 15 | OK |
 | `manifiestos/08_neorrenacimiento_humano_ES_EN.md` | 902 | 894 | 0.99 | 12 | 12 | OK |
 | `manifiestos/09_parasitismo_sistemico_ES_EN.md` | 885 | 880 | 0.99 | 11 | 11 | OK |
 | `manifiestos/10_los_sin_ego_ES_EN.md` | 687 | 685 | 1.00 | 10 | 10 | OK |
-| `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` | 1208 | 1122 | 0.93 | 13 | 13 | OK |
+| `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` | 1222 | 1136 | 0.93 | 13 | 13 | OK |
 | `manifiestos/12_los_sin_ego_ES_EN.md` | 687 | 685 | 1.00 | 10 | 10 | OK |
 | `manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md` | 1869 | 1868 | 1.00 | 15 | 15 | OK |
 | `manifiestos/14_contra_alienacion_humana_ES_EN.md` | 1643 | 1539 | 0.94 | 15 | 15 | OK |
@@ -95,22 +95,22 @@
 | `manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md` | 607 | 616 | 1.01 | 12 | 12 | OK |
 | `manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md` | 1539 | 1554 | 1.01 | 15 | 16 | OK |
 | `manifiestos/61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md` | 1067 | 1147 | 1.07 | 12 | 14 | OK |
-| `manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md` | 1194 | 1221 | 1.02 | 14 | 14 | OK |
-| `manifiestos/63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md` | 1120 | 1141 | 1.02 | 16 | 16 | OK |
+| `manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md` | 1194 | 1321 | 1.11 | 14 | 15 | OK |
+| `manifiestos/63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md` | 1120 | 1215 | 1.08 | 16 | 17 | OK |
 | `manifiestos/64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md` | 838 | 813 | 0.97 | 14 | 14 | OK |
 | `manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md` | 912 | 910 | 1.00 | 14 | 14 | OK |
-| `manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md` | 1651 | 1636 | 0.99 | 14 | 14 | OK |
+| `manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md` | 1651 | 1714 | 1.04 | 14 | 15 | OK |
 | `manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md` | 1348 | 1369 | 1.02 | 14 | 14 | OK |
-| `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md` | 1435 | 1764 | 1.23 | 15 | 16 | OK |
-| `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` | 1453 | 1552 | 1.07 | 17 | 18 | OK |
-| `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` | 1487 | 1585 | 1.07 | 18 | 19 | OK |
-| `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md` | 1545 | 1614 | 1.04 | 20 | 21 | OK |
-| `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md` | 1466 | 1602 | 1.09 | 23 | 24 | OK |
-| `manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md` | 1660 | 1790 | 1.08 | 22 | 23 | OK |
-| `manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md` | 1119 | 1199 | 1.07 | 19 | 20 | OK |
-| `manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md` | 1370 | 1398 | 1.02 | 15 | 16 | OK |
-| `manifiestos/76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md` | 1630 | 1664 | 1.02 | 14 | 15 | OK |
-| `manifiestos/77_polarizacion_binaria_radicalizacion_reciproca_fenomeno_narrativa_ES_EN.md` | 1335 | 1327 | 0.99 | 15 | 15 | OK |
+| `manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md` | 1457 | 1872 | 1.28 | 15 | 17 | OK |
+| `manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md` | 1466 | 1668 | 1.14 | 17 | 19 | OK |
+| `manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md` | 1487 | 1667 | 1.12 | 18 | 20 | OK |
+| `manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md` | 1547 | 1698 | 1.10 | 20 | 22 | OK |
+| `manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md` | 1468 | 1704 | 1.16 | 23 | 25 | OK |
+| `manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md` | 1662 | 1940 | 1.17 | 22 | 24 | OK |
+| `manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md` | 1119 | 1325 | 1.18 | 19 | 21 | OK |
+| `manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md` | 1383 | 1411 | 1.02 | 15 | 16 | OK |
+| `manifiestos/76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md` | 1639 | 1673 | 1.02 | 14 | 15 | OK |
+| `manifiestos/77_polarizacion_binaria_radicalizacion_reciproca_fenomeno_narrativa_ES_EN.md` | 1345 | 1340 | 1.00 | 15 | 15 | OK |
 | `manifiestos/78_neorrenacimiento_incontrolabilidad_intrinseca_sistema_humano_ES_EN.md` | 884 | 895 | 1.01 | 12 | 12 | OK |
 | `manifiestos/79_contra_alarmismo_sin_sintesis_responsabilidad_alternativa_ES_EN.md` | 690 | 667 | 0.97 | 13 | 13 | OK |
 | `manifiestos/80_neotrama_hojas_reconstruidas_agua_recuperada_fuego_de_agua_ES_EN.md` | 1394 | 1410 | 1.01 | 17 | 17 | OK |
@@ -119,7 +119,8 @@
 | `manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md` | 743 | 726 | 0.98 | 10 | 10 | OK |
 | `manifiestos/84_intermediacion_acceso_permeabilidad_poder_ES_EN.md` | 1045 | 1024 | 0.98 | 12 | 12 | OK |
 | `manifiestos/85_memoria_capitan_grant_ES_EN.md` | 988 | 1150 | 1.16 | 10 | 11 | OK |
-| `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | 2112 | 2116 | 1.00 | 13 | 13 | OK |
+| `manifiestos/86_federacion_neodialectica_network_framework_ES_EN.md` | 808 | 889 | 1.10 | 10 | 11 | OK |
+| `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | 2114 | 2195 | 1.04 | 13 | 14 | OK |
 | `manifiestos/RELACIONES_LVII_LIX_ES_EN.md` | 611 | 611 | 1.00 | 1 | 1 | OK |
 | `analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md` | 3237 | 3128 | 0.97 | 29 | 29 | OK |
 | `analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md` | 621 | 600 | 0.97 | 6 | 6 | OK |
@@ -148,5 +149,6 @@
 | `analisis/publicos/2026-08-12_PROTO_ND_001_asilomar_pausa_competente_neogenealogia_ES_EN.md` | 1080 | 1091 | 1.01 | 16 | 16 | OK |
 | `analisis/publicos/2026-08-13_convergencia-neodialectica-meta-zuckerberg_ES_EN.md` | 785 | 762 | 0.97 | 9 | 9 | OK |
 | `analisis/publicos/2026-08-25_neorrenacimiento_constituyente_inercia_IA_altman_ES_EN.md` | 539 | 511 | 0.95 | 8 | 8 | OK |
+| `analisis/publicos/2026-09-10_matriz_compatibilidad_gaming_vm_linux_dlss4_dlss5_ES_EN.md` | 837 | 867 | 1.04 | 7 | 8 | OK |
 
 > La paridad editorial exigida no significa traducción palabra por palabra ni idéntica maquetación, pero sí conservación íntegra de tesis, secciones, matices, cautelas epistemológicas, ejemplos, fórmulas, relaciones y conclusión.

@@ -3,15 +3,15 @@
 **Fecha / Date:** 2026-08-12  
 **Objeto / Scope:** títulos ES/EN, metadatos mínimos, marcadores de idioma, simetría de secciones principales, índices, espejo canónico y bloque normativo de referencias cruzadas.
 
-**Manifiestos revisados / Manifestos reviewed:** 86  
-**REVISAR / REVIEW:** 5  
-**ADVERTENCIAS / WARNINGS:** 1
+**Manifiestos revisados / Manifestos reviewed:** 87  
+**REVISAR / REVIEW:** 0  
+**ADVERTENCIAS / WARNINGS:** 0
 
 ## Resultado / Result
 
 | Nº | Fuente | Título ES | Title EN | Estado | Hallazgos |
 |---:|---|---|---|---|---|
-| I | `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` | Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica | Neo0™ Manifesto of Neodialectical Guiding Sovereignty | **REVISAR** | falta bloque de referencias cruzadas canónicas |
+| I | `manifiestos/11_neo0_soberania_de_guia_ES_EN.md` | Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica | Neo0™ Manifesto of Neodialectical Guiding Sovereignty | **OK** |  |
 | II | `manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md` | Manifiesto de la Síntesis Abierta Neodialéctica™ | Manifesto of Neodialectical Open Synthesis™ | **OK** |  |
 | III | `manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md` | Manifiesto del Derecho Humano de Aporte a la Síntesis Abierta™ | Manifesto of the Human Right to Contribute to Open Synthesis™ | **OK** |  |
 | IV | `manifiestos/02_neodialectica_bien_comun_ES_EN.md` | Manifiesto de la Neodialéctica™ y el Bien Común | Manifesto of Neodialectics™ and the Common Good | **OK** |  |
@@ -42,7 +42,7 @@
 | XXIX | `manifiestos/29_idolatria_del_dinero_ES_EN.md` | Manifiesto contra la Idolatría del Dinero™ | Manifesto against the Idolatry of Money™ | **OK** |  |
 | XXX | `manifiestos/30_coherencia_fines_medios_ES_EN.md` | Manifiesto de la Coherencia entre Fines y Medios™ | Manifesto of Coherence between Ends and Means™ | **OK** |  |
 | XXXI | `manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md` | Manifiesto contra el Neuromarketing Antihumanista™ | Manifesto against Anti-Humanist Neuromarketing™ | **OK** |  |
-| XXXII | `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` | Manifiesto de la Reversión Ideológica Neodialéctica™ | Manifesto of Neodialectical Ideological Reversal™ | **REVISAR** | falta entrada en índice completo de Síntesis |
+| XXXII | `manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md` | Manifiesto de la Reversión Ideológica Neodialéctica™ | Manifesto of Neodialectical Ideological Reversal™ | **OK** |  |
 | XXXIII | `manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md` | IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™ | IDEA · Civilisational Cornerstone and Rosetta Stone™ | **OK** |  |
 | XXXIV | `manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md` | Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™ | Operational Utility of the Framework and Perpetual Joint Audit™ | **OK** |  |
 | XXXV | `manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md` | Contra la Ridiculez Mediática y la Economía del Conflicto™ | Against Media Absurdity and the Conflict Economy™ | **OK** |  |
@@ -92,10 +92,11 @@
 | LXXIX | `manifiestos/79_contra_alarmismo_sin_sintesis_responsabilidad_alternativa_ES_EN.md` | Manifiesto contra el Alarmismo sin Síntesis™ · Advertir obliga a construir | Manifesto against Alarmism without Synthesis™ · Warning Creates a Duty to Build | **OK** |  |
 | LXXX | `manifiestos/80_neotrama_hojas_reconstruidas_agua_recuperada_fuego_de_agua_ES_EN.md` | Manifiesto de la Neotrama™ · Las Hojas Reconstruidas, el Agua Recuperada y el Fuego de Agua™ | Manifesto of Neotrama™ · Reconstructed Leaves, Restored Water and WaterFire™ | **OK** |  |
 | LXXXI | `manifiestos/81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md` | Manifiesto del Ultralujo como Bien Común™ · La élite del aporte | Manifesto of Ultraluxury as Common Good™ · The elite of contribution | **OK** |  |
-| LXXXII | `manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md` | Manifiesto de la Ciencia Multidimensional Neodialéctica™ | Manifesto of Neodialectical Multidimensional Science™ | **ADVERTENCIA** | falta metadato Versión/Version |
-| LXXXIII | `manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md` | Manifiesto de Activación Neodialéctica™ · La verdad también tiene derecho a circular | Neodialectical Activation Manifesto™ · Truth also has the right to circulate | **REVISAR** | marcadores ES/EN incompletos; falta metadato Versión/Version |
-| LXXXIV | `manifiestos/84_intermediacion_acceso_permeabilidad_poder_ES_EN.md` | Manifiesto de la Permeabilidad Intelectual del Poder™ · Contra la captura opaca del acceso | Manifesto of the Intellectual Permeability of Power™ · Against opaque access capture | **REVISAR** | marcadores ES/EN incompletos; falta metadato Versión/Version |
-| LXXXV | `manifiestos/85_memoria_capitan_grant_ES_EN.md` | Manifiesto por la Memoria del Capitán Grant™ | Manifesto in Memory of Captain Grant™ | **REVISAR** | marcadores ES/EN incompletos; falta metadato Versión/Version |
+| LXXXII | `manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md` | Manifiesto de la Ciencia Multidimensional Neodialéctica™ | Manifesto of Neodialectical Multidimensional Science™ | **OK** |  |
+| LXXXIII | `manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md` | Manifiesto de Activación Neodialéctica™ · La verdad también tiene derecho a circular | Neodialectical Activation Manifesto™ · Truth also has the right to circulate | **OK** |  |
+| LXXXIV | `manifiestos/84_intermediacion_acceso_permeabilidad_poder_ES_EN.md` | Manifiesto de la Permeabilidad Intelectual del Poder™ · Contra la captura opaca del acceso | Manifesto of the Intellectual Permeability of Power™ · Against opaque access capture | **OK** |  |
+| LXXXV | `manifiestos/85_memoria_capitan_grant_ES_EN.md` | Manifiesto por la Memoria del Capitán Grant™ | Manifesto in Memory of Captain Grant™ | **OK** |  |
+| LXXXVI | `manifiestos/86_federacion_neodialectica_network_framework_ES_EN.md` | Manifiesto de la Federación Neodialéctica dentro del Network Framework™ | Manifesto of the Neodialectical Federation within the Network Framework™ | **OK** |  |
 | ∞ | `manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md` | Manifiesto de Neo0™ · Puerta Abierta del Fractal | Neo0™ Manifesto · Open Gate of the Fractal | **OK** |  |
 
 ## Regla permanente / Permanent rule

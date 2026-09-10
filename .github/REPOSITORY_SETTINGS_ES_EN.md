@@ -92,6 +92,6 @@ La presencia de `LICENSE` documenta el régimen jurídico deliberadamente elegid
 
 The presence of `LICENSE` documents the deliberately selected rights regime. It must not be replaced by a generic open licence merely to obtain a green Community Standards check; any broader rights grant requires an explicit, traceable decision.
 
-## Regla de actualización
+## Regla de actualización / Update rule
 
 Cuando se cambie Description, Topics, Homepage o Social Preview en la interfaz de GitHub, actualizar también este documento si cambia el valor canónico. Los ajustes visuales de GitHub son proyección de esta decisión, no una segunda fuente conceptual.

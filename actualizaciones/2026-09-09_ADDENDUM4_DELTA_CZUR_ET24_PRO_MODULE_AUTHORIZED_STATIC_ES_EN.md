@@ -6,6 +6,8 @@
 
 Relacionado: Delta principal y Addenda I–III de la auditoría CZUR ET24 Pro/Linux.
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ## ES · Castellano
 
 Se extrajo mediante `pyi-archive_viewer` el miembro superior `module_authorized` del `PKG/CArchive` de `CzurScanner`, sin ejecutar el software CZUR.
@@ -49,11 +51,35 @@ La siguiente prueba útil es distinguir el wrapper de nivel CArchive del módulo
 
 ## EN · English
 
-The top-level `module_authorized` member was extracted from the `CzurScanner` PyInstaller CArchive without executing CZUR code. A simple ASCII `strings` search for Alibaba/OSS/KMS/HTTP/auth-related terms returned no visible matches.
+The top-level `module_authorized` member was extracted from the `PKG/CArchive` of `CzurScanner` using `pyi-archive_viewer`, without executing CZUR software.
 
-This is **limited negative evidence only**. It does not demonstrate absence of cloud/network behaviour, because the extracted member may be a wrapper, may delegate to the homonymous module inside `PYZ-00.pyz`, or may resolve functionality indirectly. The recursive bundle inventory independently confirmed Alibaba Cloud SDKs and complete HTTP/TLS stacks elsewhere in the package.
+Artifact obtained:
 
-Current classification:
+```text
+~/CZUR-package-audit/key-modules/module_authorized.bin
+observed size: ~4.1 KiB
+```
+
+A simple ASCII search was applied with `strings -a` and a filter for:
+
+```text
+aliyun|aliyuncs|oss2|bucket|put_object|get_object|kms|encrypt|decrypt|key|token|endpoint|https?://|requests|upload|download|auth
+```
+
+The filter returned no visible matches.
+
+### Interpretation
+
+This result is **limited negative evidence**. It does not demonstrate that `module_authorized` lacks network, authorization or cloud logic. The extracted member is a PyInstaller packaged bytecode/object and may:
+
+- import other modules without retaining obvious ASCII strings;
+- delegate to another module inside `PYZ-00.pyz`;
+- resolve names indirectly;
+- contain a wrapper layer distinct from the internal implementation.
+
+In addition, the recursive bundle inventory independently confirmed the presence of `aliyunsdkcore`, `aliyunsdkkms`, `oss2`, `requests`, `urllib3`, `socket`, `ssl` and `cryptography` in the scanner.
+
+Therefore:
 
 ```text
 MODULE_AUTHORIZED_EXTRACTED = FACT
@@ -61,3 +87,5 @@ DIRECT_CLOUD_ASCII_MATCHES = NOT OBSERVED IN THIS FILTER
 ABSENCE_OF_CLOUD_CALLS = NOT DEMONSTRATED
 OUTBOUND_TRAFFIC = NOT VERIFIED
 ```
+
+The next useful test is to distinguish the CArchive-level wrapper from the homonymous module included inside `PYZ-00.pyz` and disassemble the bytecode without executing it.

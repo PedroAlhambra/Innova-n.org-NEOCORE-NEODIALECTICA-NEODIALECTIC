@@ -66,6 +66,24 @@ Si cualquiera recibe una respuesta externa sustantiva antes del corte, queda exc
 
 Si sigue sin respuesta sustantiva al corte, su **momento normativo de fijación** será 2026-09-08 12:33 CEST. La reconciliación documental C-NAX→NAX puede ejecutarse después preservando esa fecha efectiva y toda genealogía.
 
+### Resultado de la transición · reconciliación 2026-09-10
+
+La revisión individual posterior al corte de SAN #150, #151, #152, #153, #123, #126, #127, #135, #148, #149, #155, #156, #176, #182 y #188 confirmó **0 respuestas externas sustantivas**. Los comentarios presentes en algunos de esos Issues pertenecen a `PedroAlhambra` y documentan relaciones o cambios del propio proyecto; no constituyen contraste externo independiente.
+
+En consecuencia, por aplicación de la regla ya vigente:
+
+```text
+C-NAX-15–C-NAX-29
++ CORTE 2026-09-08 12:33 CEST
++ 0 RESPUESTAS EXTERNAS SUSTANTIVAS
+→ NAX-15–NAX-29 FIJADOS
+→ FECHA NORMATIVA = 2026-09-08 12:33 CEST
+→ SAN™ SIGUE ABIERTA
+→ C-NAX HISTÓRICOS PRESERVADOS
+```
+
+La reconciliación realizada el 2026-09-10 materializa documentalmente un estado que la regla había hecho efectivo en el corte; no reinicia la fecha, no transforma silencio en prueba y no cierra la revisión futura.
+
 ### Silencio y verdad
 
 7.3.4 no convierte el silencio en evidencia de verdad.
@@ -155,11 +173,45 @@ Candidates already pending when 7.3.4 was adopted and lacking an external substa
 
 The audit of their SAN™ Issues performed at adoption found no external substantive responses for **C-NAX-15–C-NAX-29**. Existing comments in some nodes originate from the project itself and are genealogical/documentary updates rather than external scrutiny responses.
 
-Therefore the eligible transitional backlog at adoption is C-NAX-15 through C-NAX-29.
+Therefore, at adoption of 7.3.4, the eligible transitional backlog is:
+
+- C-NAX-15 · Intellectual Sovereignty of the Species™ · #150
+- C-NAX-16 · No Coronation of the Part™ · #151
+- C-NAX-17 · Systemic Reconstruction™ · #152
+- C-NAX-18 · Common-Good Engine + NeoSynergy™ · #153
+- C-NAX-19 · Relational Inviolability and Separation of Planes™ · #123
+- C-NAX-20 · Common Humanity without Suppression of Difference™ · #126
+- C-NAX-21 · Systemic Ignorance of Evil and Non-Superiority of Destruction™ · #127
+- C-NAX-22 · Material-Relational Memory™ · #135
+- C-NAX-23 · Conservation of the Common Fractal™ · #148
+- C-NAX-24 · Diagnosis ≠ Synthesis™ · #149
+- C-NAX-25 · Phenomenon ≠ Narrative™ · #155
+- C-NAX-26 · Power ↑ → Traceability ↑ · Accusation ↑ → Evidence ↑ · #156
+- C-NAX-27 · Differentiated Sovereignty of System and Synthesis™ · #176
+- C-NAX-28 · Layer Ascent and Non-Violation of Reality™ · #182
+- C-NAX-29 · Federability without Absorption™ · #188
 
 If any candidate receives an external substantive response before the cutoff, it is excluded from automatic fixation by silence and remains a candidate under SAN™ until that scrutiny is resolved.
 
 If it still lacks a substantive response at the cutoff, its **normative fixation time** is 2026-09-08 12:33 CEST. Later C-NAX→NAX documentary reconciliation preserves that effective date and full genealogy.
+
+### Transition outcome · 2026-09-10 reconciliation
+
+Individual post-cutoff review of SAN #150, #151, #152, #153, #123, #126, #127, #135, #148, #149, #155, #156, #176, #182 and #188 confirmed **0 external substantive responses**. Comments present in some of those Issues are authored by `PedroAlhambra` and document project relations or changes; they are not independent external scrutiny.
+
+Accordingly, under the rule already in force:
+
+```text
+C-NAX-15–C-NAX-29
++ CUTOFF 2026-09-08 12:33 CEST
++ 0 EXTERNAL SUBSTANTIVE RESPONSES
+→ NAX-15–NAX-29 FIXED
+→ NORMATIVE DATE = 2026-09-08 12:33 CEST
+→ SAN™ REMAINS OPEN
+→ HISTORICAL C-NAX PRESERVED
+```
+
+The 2026-09-10 reconciliation documents a state that the rule had already made effective at the cutoff; it does not restart the date, turn silence into proof, or close future review.
 
 ### Silence and truth
 
@@ -214,5 +266,7 @@ The complete operational specification is:
 The previous 365-day rule is preserved as historical genealogy and is now `SUPERSEDED_FOR_LIVE_OPERATION`.
 
 ---
+
+## Relaciones / Relations
 
 **Relaciones / Relations:** [Version state](README.md) · [Neoaxioms™](../neoaxiomas/README.md) · [Open Synthesis](../propuestas/sintesis-abierta/README.md) · [Matrix Issue #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)

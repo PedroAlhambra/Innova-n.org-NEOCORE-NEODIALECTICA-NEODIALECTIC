@@ -382,7 +382,7 @@ CLIC
 
 puede descubrir que la hostilidad funciona.
 
-Esto conecta con C-NAX-21:
+Esto conecta con NAX-21:
 
 > una función objetivo localmente eficaz puede ser sistémicamente ignorante.
 
@@ -792,7 +792,7 @@ CLICK
 
 it may discover that hostility works.
 
-This connects with C-NAX-21:
+This connects with NAX-21:
 
 > a locally effective objective function may be systemically ignorant.
 
@@ -840,6 +840,18 @@ Este manifiesto queda abierto a informática, seguridad, sociología de redes, p
 
 **Navegación / Navigation:** [← LXXIII](LXXIII_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md) · [Índice / Index](../README.md) · [∞ →](../INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
 
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_START -->
+
+## Relaciones neoaxiomáticas recíprocas / Reciprocal Neoaxiomatic relations
+
+> **Relación documental/conceptual, no identidad ni causalidad.** Este bloque es la inversa navegable de las relaciones NAX→Manifiesto y mantiene simetría de navegación. / **Documentary/conceptual relation, not identity or causality.** This block is the navigable inverse of NAX→Manifesto relations and preserves navigational symmetry.
+
+- [NAX-21 · Ignorancia Sistémica del Mal y No Superioridad de la Destrucción™ / Systemic Ignorance of Evil and Non-Superiority of Destruction™](../../neoaxiomas/NAX-21_IGNORANCIA_SISTEMICA_MAL_NO_SUPERIORIDAD_DESTRUCCION_ES_EN.md)
+- [NAX-23 · Conservación del Fractal Común™ / Conservation of the Common Fractal™](../../neoaxiomas/NAX-23_CONSERVACION_FRACTAL_COMUN_ES_EN.md)
+- [NAX-26 · Poder ↑ → Trazabilidad ↑ · Acusación ↑ → Evidencia ↑ / Power ↑ → Traceability ↑ · Accusation ↑ → Evidence ↑](../../neoaxiomas/NAX-26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md)
+
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_END -->
+
 <!-- NEO_CROSS_REFERENCES_START -->
 
 ## Referencias cruzadas canónicas / Canonical cross-references
@@ -858,6 +870,6 @@ Este manifiesto queda abierto a informática, seguridad, sociología de redes, p
 - [Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md)
 - [NEOCore™ · marco / framework](../../README.md)
 
-**Neoaxiomas mencionados / Mentioned Neoaxioms:** `C-NAX-21` → [Neoaxiomas™](../../neoaxiomas/README.md)
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-21` · `NAX-23` · `NAX-26` → [Neoaxiomas™](../../neoaxiomas/README.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->

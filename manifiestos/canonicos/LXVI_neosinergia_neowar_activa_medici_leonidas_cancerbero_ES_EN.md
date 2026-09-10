@@ -811,6 +811,16 @@ Especially: **NAX-01** Unity of Meaning and Distribution of Power; **NAX-08** Co
 >
 > **Welcome, thought from Andromeda. Welcome every contribution capable of entering with respect, traceability and the right to contradict.**
 
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_START -->
+
+## Relaciones neoaxiomáticas recíprocas / Reciprocal Neoaxiomatic relations
+
+> **Relación documental/conceptual, no identidad ni causalidad.** Este bloque es la inversa navegable de las relaciones NAX→Manifiesto y mantiene simetría de navegación. / **Documentary/conceptual relation, not identity or causality.** This block is the navigable inverse of NAX→Manifesto relations and preserves navigational symmetry.
+
+- [NAX-18 · Motor del Bien Común + NeoSinergia™ / Common-Good Engine + NeoSynergy™](../../neoaxiomas/NAX-18_MOTOR_BIEN_COMUN_NEOSINERGIA_ES_EN.md)
+
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_END -->
+
 <!-- NEO_CROSS_REFERENCES_START -->
 
 ## Referencias cruzadas canónicas / Canonical cross-references
@@ -838,6 +848,6 @@ Especially: **NAX-01** Unity of Meaning and Distribution of Power; **NAX-08** Co
 - [Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md)
 - [NEOCore™ · marco / framework](../../README.md)
 
-**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-01` · `NAX-08` · `NAX-09` · `NAX-13` · `NAX-14` → [Neoaxiomas™](../../neoaxiomas/README.md)
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-01` · `NAX-08` · `NAX-09` · `NAX-13` · `NAX-14` · `NAX-18` → [Neoaxiomas™](../../neoaxiomas/README.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->

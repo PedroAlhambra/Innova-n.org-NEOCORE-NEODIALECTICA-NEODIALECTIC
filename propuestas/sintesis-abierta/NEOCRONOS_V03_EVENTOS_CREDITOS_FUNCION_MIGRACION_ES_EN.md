@@ -4,12 +4,11 @@
 **Estado actual / Current state:** `HISTORICAL_RECOVERED / OPEN_SYNTHESIS_INPUT / NOT_CURRENT_RUNTIME`.  
 **Regla vigente / Current rule:** conservar `NC-EVT-* ≠ NC-CR-*`; toda implementación actual debe aplicar además aporte auditable, privacidad proporcional, `MEDICIÓN ≠ VALORACIÓN`, `TRAZA ≠ VALIDACIÓN` y los deltas posteriores. La versión vigente de NEOCore™ se resuelve exclusivamente desde [`versiones/README.md`](../../versiones/README.md). / Preserve `NC-EVT-* ≠ NC-CR-*`; current implementations must additionally enforce auditable contribution, proportional privacy, `MEASUREMENT ≠ VALUATION`, `TRACE ≠ VALIDATION`, and later deltas. Current NEOCore™ version is resolved only from [`versiones/README.md`](../../versiones/README.md).
 
-[ES · Castellano](#es--neocronos-v03--migración-a-eventos-y-créditos-de-función) · [EN · English](#en--neocronos-v03--migration-to-events-and-role-credits)
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
 ---
 
-# ES · NeoCronos™ v0.3 · Migración a Eventos y Créditos de Función
-# EN · NeoCronos™ v0.3 · Migration to Events and Role Credits
+# NeoCronos™ v0.3 · Migración a Eventos y Créditos de Función / Migration to Events and Role Credits
 
 **Fecha / Date:** 2026-08-12  
 **Estado / Status:** DELTA DE IMPLEMENTACIÓN EN RAMA · BRANCH IMPLEMENTATION DELTA  

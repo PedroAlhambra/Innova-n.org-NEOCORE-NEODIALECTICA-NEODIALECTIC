@@ -2,6 +2,8 @@
 
 Fecha / Date: 2026-09-09
 
+[ES · Castellano](#es) · [EN · English](#en)
+
 ## ES
 
 ### Hechos confirmados
@@ -55,13 +57,30 @@ También aparecen nombres de carpetas ocultas `.osserver_config` y `.systemuserd
 
 ### Confirmed facts
 
-`user_support` was extracted from `czur_create`'s `PYZ-00.pyz`, reconstructed as CPython 3.8 bytecode (magic 3413), and statically disassembled with `xdis/pydisasm` without executing CZUR code.
+`user_support` was extracted from `czur_create`'s `PYZ-00.pyz`, reconstructed as CPython 3.8 `.pyc` bytecode (magic 3413), and statically disassembled with `xdis/pydisasm` without executing CZUR code.
 
-The module contains a substantial local licensing/authorization engine: local license file generation/validation, machine identifiers and keys, UUID/udev UUID retrieval, serial and invite-code handling, usage-time updates, encrypted local file I/O, argument processing, shell-command helper logic, and file ownership/path handling.
+The `user_support.py` module contains a much broader local licensing/authorization engine than `main.py` suggested. Its methods include, among others:
 
-Observed direct imports at module start include standard/local modules such as `subprocess`, `hashlib`, `argparse`, `pwd`, `getpass`, `data_support`, `pp_logger` and `define`. No direct `requests`, `urllib3`, `socket`, `http`, `ssl`, `aliyun`, `oss2` or KMS import was observed in that top-level import set.
+- license-file generation and validation;
+- construction of machine identifiers and keys;
+- UUID/udev UUID retrieval;
+- serial and invite-code management;
+- usage-time updates;
+- encrypted local-file reading and writing;
+- `process_argv()` and `my_run_command()`;
+- file path and ownership handling.
 
-`DataSupport.encrypt()` and `DataSupport.decrypt()` are used for local licensing data. Hidden-folder names `.osserver_config` and `.systemuserd` also appear and require targeted review; presence alone is not evidence of malware.
+Observed direct imports at the beginning of the module include `logging`, `random`, `shutil`, `time`, `datetime`, `json`, `platform`, `os`, `sys`, `hashlib`, `traceback`, `argparse`, `stat`, `pwd`, `getpass`, `subprocess`, `math`, `dateutil.relativedelta`, `data_support`, `pp_logger` and `define`.
+
+No `requests`, `urllib3`, `socket`, `http`, `ssl`, `aliyun`, `oss2` or KMS imports appear in those observed direct imports.
+
+### Confirmed functional chain
+
+`module_authorized.py` calls `czur_create`; `czur_create/main.py` delegates to `UserSupport.process_argv()`; `UserSupport` contains the substantive local licensing logic.
+
+Local encrypt/decrypt operations are observed through `DataSupport.encrypt()` / `DataSupport.decrypt()`, along with generation of `vip_<machine_key>.txt` files, combinations of UUID/license/time/serial values, and validation of pairs of local files.
+
+The hidden-folder names `.osserver_config` and `.systemuserd` also appear. Their mere presence does not demonstrate malicious behaviour; it does justify auditing their exact function and the permissions/ownership assigned by the code.
 
 ### Epistemic classification
 
@@ -71,8 +90,14 @@ Observed direct imports at module start include standard/local modules such as `
 - `DIRECT_NETWORK_CLOUD_IMPORTS_IN_OBSERVED_TOP_LEVEL_IMPORTS = NOT OBSERVED`
 - `NETWORK_BEHAVIOR_ANYWHERE_IN_USER_SUPPORT = NOT YET EXHAUSTIVELY EXCLUDED`
 - `DATA_SUPPORT_ROLE = PENDING_STATIC_AUDIT`
+- `ALIBABA_SDK_PRESENT_ELSEWHERE_IN_SCANNER_BUNDLE = CONFIRMED_FROM_PREVIOUS_ADDENDUM`
 - `ACTUAL_OUTBOUND_TRAFFIC = NOT VERIFIED`
 - `EXFILTRATION = NOT DEMONSTRATED`
 - `MALWARE = NOT DEMONSTRATED`
 
-Core rule remains: `CAPABILITY != OBSERVED_BEHAVIOR` and `PACKAGED_CLOUD_SDK != NETWORK_TRAFFIC`.
+### Next step
+
+1. Audit `data_support` from the same PYZ, especially `encrypt/decrypt`, imports and any network/cloud dependency.
+2. Review `my_run_command`, `get_udev_uuid`, `get_uuid`, `get_uuids` and creation/use of `.osserver_config` / `.systemuserd` in isolation.
+3. Run an uncontaminated network/cloud grep over the complete disassembly, without a limiting `head`.
+4. Only then move to a controlled dynamic test with a snapshot and blocked/monitored networking.

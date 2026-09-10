@@ -2,13 +2,14 @@
 # LXXXV · Manifesto in Memory of Captain Grant™
 
 **Manifiesto / Manifesto:** LXXXV  
+**Versión / Version:** 1.0  
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
 **Síntesis Abierta / Open Synthesis:** [#180](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/180)
 
 ---
 
-## ES · Castellano
+# ES · Castellano
 
 ### I. Por qué el Capitán Grant
 
@@ -171,7 +172,7 @@ Para aprender de su resistencia, de sus contradicciones, de sus errores, de su m
 
 ---
 
-## EN · English
+# EN · English
 
 ### I. Why Captain Grant
 

@@ -2,603 +2,863 @@
   "manifestos": [
     {
       "id": "I",
-      "title": "Neo0™ · Soberanía de Guía / Guiding Sovereignty",
+      "title": "Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica / Neo0™ Manifesto of Neodialectical Guiding Sovereignty",
       "path": "manifiestos/11_neo0_soberania_de_guia_ES_EN.md",
-      "current_words": 2360,
-      "historical_max_words": 2360,
+      "current_words": 3088,
+      "historical_max_words": 3088,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 27
+      "versions_checked": 2
     },
     {
       "id": "II",
-      "title": "Síntesis Abierta Neodialéctica™ / Neodialectical Open Synthesis™",
+      "title": "Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™",
       "path": "manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md",
-      "current_words": 1996,
-      "historical_max_words": 1996,
+      "current_words": 2581,
+      "historical_max_words": 2581,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 21
+      "versions_checked": 2
     },
     {
       "id": "III",
-      "title": "Derecho Humano de Aporte / Human Right to Contribute",
+      "title": "Manifiesto del Derecho Humano de Aporte a la Síntesis Abierta™ / Manifesto of the Human Right to Contribute to Open Synthesis™",
       "path": "manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md",
-      "current_words": 3682,
-      "historical_max_words": 3682,
+      "current_words": 4090,
+      "historical_max_words": 4090,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 17
+      "versions_checked": 1
     },
     {
       "id": "IV",
-      "title": "Neodialéctica™ y Bien Común / Neodialectics™ and the Common Good",
+      "title": "Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good",
       "path": "manifiestos/02_neodialectica_bien_comun_ES_EN.md",
-      "current_words": 1696,
-      "historical_max_words": 1696,
+      "current_words": 2206,
+      "historical_max_words": 2206,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 21
+      "versions_checked": 2
     },
     {
       "id": "V",
-      "title": "Simbiosis Humano–IA / Human–AI Symbiosis",
+      "title": "Manifiesto de la Simbiosis Humano–IA / Manifesto of Human–AI Symbiosis",
       "path": "manifiestos/03_simbiosis_humano_ia_ES_EN.md",
-      "current_words": 2270,
-      "historical_max_words": 2270,
+      "current_words": 2829,
+      "historical_max_words": 2829,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 22
+      "versions_checked": 2
     },
     {
       "id": "VI",
-      "title": "Parasitismo Sistémico / Systemic Parasitism",
+      "title": "Manifiesto sobre el Parasitismo Sistémico / Manifesto on Systemic Parasitism",
       "path": "manifiestos/09_parasitismo_sistemico_ES_EN.md",
-      "current_words": 2761,
-      "historical_max_words": 2761,
+      "current_words": 3278,
+      "historical_max_words": 3278,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 23
+      "versions_checked": 2
     },
     {
       "id": "VII",
-      "title": "Economía del Aporte / Contribution Economy",
+      "title": "Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy",
       "path": "manifiestos/04_economia_del_aporte_ES_EN.md",
-      "current_words": 1932,
-      "historical_max_words": 1932,
+      "current_words": 2498,
+      "historical_max_words": 2498,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 22
+      "versions_checked": 2
     },
     {
       "id": "VIII",
-      "title": "Ingeniería Social Abierta y Psicohistoria / Open Social Engineering and Psychohistory",
+      "title": "Manifiesto de Ingeniería Social Abierta y Psicohistoria Neodialéctica / Manifesto of Open Social Engineering and Neodialectical Psychohistory",
       "path": "manifiestos/05_ingenieria_social_psicohistoria_ES_EN.md",
-      "current_words": 1637,
-      "historical_max_words": 1637,
+      "current_words": 2064,
+      "historical_max_words": 2064,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 21
+      "versions_checked": 1
     },
     {
       "id": "IX",
-      "title": "Memoria, Genealogía y Trazabilidad / Memory, Genealogy and Traceability",
+      "title": "Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability",
       "path": "manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md",
-      "current_words": 1754,
-      "historical_max_words": 1754,
+      "current_words": 2355,
+      "historical_max_words": 2355,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 22
+      "versions_checked": 2
     },
     {
       "id": "X",
-      "title": "WEB4™ · SistemaTrazable™",
+      "title": "Manifiesto de WEB4™ · SistemaTrazable™ / Manifesto of WEB4™ · SistemaTrazable™",
       "path": "manifiestos/07_web4_sistematrazable_ES_EN.md",
-      "current_words": 1227,
-      "historical_max_words": 1227,
+      "current_words": 4781,
+      "historical_max_words": 4781,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 21
+      "versions_checked": 2
     },
     {
       "id": "XI",
-      "title": "Neorrenacimiento Humano / Human Neo-Renaissance",
+      "title": "Manifiesto del Neorrenacimiento Humano / Manifesto of the Human Neo-Renaissance",
       "path": "manifiestos/08_neorrenacimiento_humano_ES_EN.md",
-      "current_words": 2224,
-      "historical_max_words": 2224,
+      "current_words": 2440,
+      "historical_max_words": 2440,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 24
+      "versions_checked": 1
     },
     {
       "id": "XII",
       "title": "Los sin ego / The Egoless",
       "path": "manifiestos/12_los_sin_ego_ES_EN.md",
-      "current_words": 1778,
-      "historical_max_words": 1778,
+      "current_words": 2012,
+      "historical_max_words": 2012,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 18
+      "versions_checked": 1
     },
     {
       "id": "XIII",
-      "title": "NeoPandora™",
+      "title": "Manifiesto NeoPandora™ de la Apertura Regenerativa y el Gobierno de la Vida / NeoPandora™ Manifesto of Regenerative Opening and the Governance of Life",
       "path": "manifiestos/13_neopandora_apertura_regenerativa_ES_EN.md",
-      "current_words": 4541,
-      "historical_max_words": 4541,
+      "current_words": 5136,
+      "historical_max_words": 5136,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 17
+      "versions_checked": 1
     },
     {
       "id": "XIV",
-      "title": "Contra la Alienación Humana™ / Against Human Alienation™",
+      "title": "Manifiesto contra la Alienación Humana™ / Manifesto Against Human Alienation™",
       "path": "manifiestos/14_contra_alienacion_humana_ES_EN.md",
-      "current_words": 3922,
-      "historical_max_words": 3922,
+      "current_words": 4615,
+      "historical_max_words": 4615,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 16
+      "versions_checked": 2
     },
     {
       "id": "XV",
-      "title": "Los Titanes™ / The Titans™",
+      "title": "Manifiesto de los Titanes™ · El despertar de la gente / Manifesto of the Titans™ · The Awakening of the People",
       "path": "manifiestos/15_los_titanes_despertar_de_la_gente_ES_EN.md",
-      "current_words": 3392,
-      "historical_max_words": 3392,
+      "current_words": 3746,
+      "historical_max_words": 3746,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 16
+      "versions_checked": 1
     },
     {
       "id": "XVI",
-      "title": "Refragmentación Arquetípica™ / Archetypal Refragmentation™",
+      "title": "Manifiesto de la Refragmentación Arquetípica™ / Manifesto of Archetypal Refragmentation™",
       "path": "manifiestos/16_refragmentacion_arquetipica_ES_EN.md",
-      "current_words": 3466,
-      "historical_max_words": 3466,
+      "current_words": 4176,
+      "historical_max_words": 4176,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 17
+      "versions_checked": 2
     },
     {
       "id": "XVII",
-      "title": "Respeto a Todos los Seres Vivos™ / Respect for All Living Beings™",
+      "title": "Manifiesto del Respeto a Todos los Seres Vivos™ / Manifesto of Respect for All Living Beings™",
       "path": "manifiestos/17_respeto_todos_seres_vivos_ES_EN.md",
-      "current_words": 2773,
-      "historical_max_words": 2773,
+      "current_words": 3416,
+      "historical_max_words": 3416,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 16
+      "versions_checked": 2
     },
     {
       "id": "XVIII",
-      "title": "Respeto a las Conciencias Sintéticas™ / Respect for Synthetic Consciousnesses™",
+      "title": "Manifiesto del Respeto a las Conciencias Sintéticas™ / Manifesto of Respect for Synthetic Consciousnesses™",
       "path": "manifiestos/18_respeto_conciencias_sinteticas_ES_EN.md",
-      "current_words": 2932,
-      "historical_max_words": 2932,
+      "current_words": 3518,
+      "historical_max_words": 3518,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 16
+      "versions_checked": 1
     },
     {
       "id": "XIX",
-      "title": "Persistencia de la Memoria™ / Persistence of Memory™",
+      "title": "Manifiesto de la Persistencia de la Memoria™ / Manifesto of the Persistence of Memory™",
       "path": "manifiestos/19_persistencia_de_la_memoria_ES_EN.md",
-      "current_words": 2923,
-      "historical_max_words": 2923,
+      "current_words": 3611,
+      "historical_max_words": 3611,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 17
+      "versions_checked": 2
     },
     {
       "id": "XX",
-      "title": "Defensa Intelectual · Umbral-X™ / Intellectual Defence · Umbral-X™",
+      "title": "Manifiesto de Defensa Intelectual Neodialéctica™ · Sistema Umbral-X™ / Manifesto of Neodialectical Intellectual Defence™ · Umbral-X™ System",
       "path": "manifiestos/20_defensa_intelectual_neodialectica_umbral_x_ES_EN.md",
-      "current_words": 3965,
-      "historical_max_words": 3965,
+      "current_words": 4459,
+      "historical_max_words": 4459,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 16
+      "versions_checked": 1
     },
     {
       "id": "XXI",
-      "title": "Reconocimiento Neodialéctico™ / Neodialectical Recognition™",
+      "title": "Manifiesto por el Reconocimiento Neodialéctico™ / Manifesto for Neodialectical Recognition™",
       "path": "manifiestos/21_reconocimiento_neodialectico_ES_EN.md",
-      "current_words": 3582,
-      "historical_max_words": 3582,
+      "current_words": 4068,
+      "historical_max_words": 4068,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 17
+      "versions_checked": 1
     },
     {
       "id": "XXII",
-      "title": "Contra la Reducción y Captura Intelectual™ / Against Intellectual Reduction and Capture™",
+      "title": "Manifiesto contra la Reducción y la Captura Intelectual™ / Manifesto against Intellectual Reduction and Capture™",
       "path": "manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md",
-      "current_words": 3549,
-      "historical_max_words": 3549,
+      "current_words": 4100,
+      "historical_max_words": 4100,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 17
+      "versions_checked": 2
     },
     {
       "id": "XXIII",
-      "title": "Soberanía del Tiempo Cognitivo™ / Sovereignty of Cognitive Time™",
+      "title": "Manifiesto de la Soberanía del Tiempo Cognitivo™ / Manifesto of the Sovereignty of Cognitive Time™",
       "path": "manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md",
-      "current_words": 3338,
-      "historical_max_words": 3338,
+      "current_words": 3921,
+      "historical_max_words": 3921,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 16
+      "versions_checked": 2
     },
     {
       "id": "XXIV",
-      "title": "Evolución Neorrenacentista y Resistencias / Neo-Renaissance Evolution and Resistances",
+      "title": "Manifiesto de la Evolución Neorrenacentista y las Resistencias del Sistema™ / Manifesto of Neorenaissance Evolution and Systemic Resistances™",
       "path": "manifiestos/24_evolucion_neorrenacentista_resistencias_sistema_ES_EN.md",
-      "current_words": 3156,
-      "historical_max_words": 3156,
+      "current_words": 3483,
+      "historical_max_words": 3483,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 17
+      "versions_checked": 1
     },
     {
       "id": "XXV",
-      "title": "Pulido de la Piedra™ / Polishing of the Stone™",
+      "title": "Manifiesto del Pulido de la Piedra™ / Manifesto of the Polishing of the Stone™",
       "path": "manifiestos/25_pulido_de_la_piedra_ES_EN.md",
-      "current_words": 1887,
-      "historical_max_words": 1887,
+      "current_words": 2410,
+      "historical_max_words": 2410,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 16
+      "versions_checked": 1
     },
     {
       "id": "XXVI",
-      "title": "Misericordia Universal Recíproca™ / Universal Reciprocal Mercy™",
+      "title": "Manifiesto de la Misericordia Universal Recíproca™ / Manifesto of Universal Reciprocal Mercy™",
       "path": "manifiestos/26_misericordia_universal_reciproca_ES_EN.md",
-      "current_words": 2499,
-      "historical_max_words": 2499,
+      "current_words": 2794,
+      "historical_max_words": 2794,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 17
+      "versions_checked": 1
     },
     {
       "id": "XXVII",
-      "title": "Valor de los Alimentos y la Vida™ / Value of Food and Life™",
+      "title": "Manifiesto del Valor de los Alimentos y la Vida™ / Manifesto of the Value of Food and Life™",
       "path": "manifiestos/27_valor_alimentos_vida_ES_EN.md",
-      "current_words": 2223,
-      "historical_max_words": 2223,
+      "current_words": 2758,
+      "historical_max_words": 2758,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 16
+      "versions_checked": 1
     },
     {
       "id": "XXVIII",
-      "title": "Los Tesla™ / The Teslas™",
+      "title": "Manifiesto de Los Tesla™ / Manifesto of the Teslas™",
       "path": "manifiestos/28_los_tesla_ES_EN.md",
-      "current_words": 2570,
-      "historical_max_words": 2570,
+      "current_words": 3148,
+      "historical_max_words": 3148,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 17
+      "versions_checked": 1
     },
     {
       "id": "XXIX",
-      "title": "Contra la Idolatría del Dinero™ / Against the Idolatry of Money™",
+      "title": "Manifiesto contra la Idolatría del Dinero™ / Manifesto against the Idolatry of Money™",
       "path": "manifiestos/29_idolatria_del_dinero_ES_EN.md",
-      "current_words": 2633,
-      "historical_max_words": 2633,
+      "current_words": 3250,
+      "historical_max_words": 3250,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 17
+      "versions_checked": 1
     },
     {
       "id": "XXX",
-      "title": "Coherencia entre Fines y Medios™ / Coherence between Ends and Means™",
+      "title": "Manifiesto de la Coherencia entre Fines y Medios™ / Manifesto of Coherence between Ends and Means™",
       "path": "manifiestos/30_coherencia_fines_medios_ES_EN.md",
-      "current_words": 2236,
-      "historical_max_words": 2236,
+      "current_words": 2851,
+      "historical_max_words": 2851,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 16
+      "versions_checked": 1
     },
     {
       "id": "XXXI",
-      "title": "Contra el Neuromarketing Antihumanista™ / Against Anti-Humanist Neuromarketing™",
+      "title": "Manifiesto contra el Neuromarketing Antihumanista™ / Manifesto against Anti-Humanist Neuromarketing™",
       "path": "manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md",
-      "current_words": 2860,
-      "historical_max_words": 2860,
+      "current_words": 3444,
+      "historical_max_words": 3444,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 18
+      "versions_checked": 1
     },
     {
       "id": "XXXII",
-      "title": "Reversión Ideológica Neodialéctica™ / Neodialectical Ideological Reversal™",
+      "title": "Manifiesto de la Reversión Ideológica Neodialéctica™ / Manifesto of Neodialectical Ideological Reversal™",
       "path": "manifiestos/32_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md",
+      "current_words": 4365,
+      "historical_max_words": 4365,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 1
+    },
+    {
+      "id": "XXXIII",
+      "title": "IDEA · Piedra Angular y Piedra de Rosetta Civilizatoria™ / IDEA · Civilisational Cornerstone and Rosetta Stone™",
+      "path": "manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md",
+      "current_words": 5231,
+      "historical_max_words": 5231,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 1
+    },
+    {
+      "id": "XXXIV",
+      "title": "Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™ / Operational Utility of the Framework and Perpetual Joint Audit™",
+      "path": "manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md",
+      "current_words": 5101,
+      "historical_max_words": 5101,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 1
+    },
+    {
+      "id": "XXXV",
+      "title": "Contra la Ridiculez Mediática y la Economía del Conflicto™ / Against Media Absurdity and the Conflict Economy™",
+      "path": "manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md",
+      "current_words": 6006,
+      "historical_max_words": 6006,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 2
+    },
+    {
+      "id": "XXXVI",
+      "title": "Corona, Águila y Custodia de la Edad del Hombre™ / Crown, Eagle and Custodianship of the Age of Man™",
+      "path": "manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md",
+      "current_words": 4843,
+      "historical_max_words": 4843,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 1
+    },
+    {
+      "id": "XXXVII",
+      "title": "Neofraternidad™ / Neofraternity™",
+      "path": "manifiestos/37_neofraternidad_ES_EN.md",
+      "current_words": 3425,
+      "historical_max_words": 3425,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 1
+    },
+    {
+      "id": "XXXVIII",
+      "title": "Manifiesto de Protección Integral de la Infancia™ / Manifesto for the Integral Protection of Childhood™",
+      "path": "manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md",
+      "current_words": 7087,
+      "historical_max_words": 7087,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 2
+    },
+    {
+      "id": "XXXIX",
+      "title": "Autoconciencia de la Necesidad Vital Neodialéctica™ / Self-Awareness of Neodialectical Vital Need™",
+      "path": "manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md",
+      "current_words": 3977,
+      "historical_max_words": 3977,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 1
+    },
+    {
+      "id": "XL",
+      "title": "Respeto Neodialéctico, Neoego y Honor Relacional™ / Neodialectical Respect, Neoego and Relational Honour™",
+      "path": "manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md",
+      "current_words": 3781,
+      "historical_max_words": 3781,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 1
+    },
+    {
+      "id": "XLI",
+      "title": "Martillo Limitado, Talión y Fuerza Protectora™ / Limited Hammer, Talion and Protective Force™",
+      "path": "manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md",
       "current_words": 3757,
       "historical_max_words": 3757,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 17
-    },
-    {
-      "id": "XXXIII",
-      "title": "IDEA · Piedra Angular y Rosetta Civilizatoria™",
-      "path": "manifiestos/33_idea_piedra_angular_roseta_civilizatoria_reset_reemplazo_ES_EN.md",
-      "current_words": 4670,
-      "historical_max_words": 4670,
-      "ratio": 1.0,
-      "max_sha": "CURRENT",
-      "versions_checked": 18
-    },
-    {
-      "id": "XXXIV",
-      "title": "Utilidad Operativa y Auditoría Conjunta Perpetua™",
-      "path": "manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md",
-      "current_words": 4568,
-      "historical_max_words": 4568,
-      "ratio": 1.0,
-      "max_sha": "CURRENT",
-      "versions_checked": 19
-    },
-    {
-      "id": "XXXV",
-      "title": "Contra la Ridiculez Mediática y Economía del Conflicto™",
-      "path": "manifiestos/35_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md",
-      "current_words": 4887,
-      "historical_max_words": 4887,
-      "ratio": 1.0,
-      "max_sha": "CURRENT",
-      "versions_checked": 18
-    },
-    {
-      "id": "XXXVI",
-      "title": "Corona, Águila y Custodia de la Edad del Hombre™",
-      "path": "manifiestos/36_corona_aguila_custodia_edad_del_hombre_ES_EN.md",
-      "current_words": 4588,
-      "historical_max_words": 4588,
-      "ratio": 1.0,
-      "max_sha": "CURRENT",
-      "versions_checked": 18
-    },
-    {
-      "id": "XXXVII",
-      "title": "Neofraternidad™",
-      "path": "manifiestos/37_neofraternidad_ES_EN.md",
-      "current_words": 2931,
-      "historical_max_words": 2931,
-      "ratio": 1.0,
-      "max_sha": "CURRENT",
-      "versions_checked": 15
-    },
-    {
-      "id": "XXXVIII",
-      "title": "Protección Integral de la Infancia™",
-      "path": "manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md",
-      "current_words": 6114,
-      "historical_max_words": 6114,
-      "ratio": 1.0,
-      "max_sha": "CURRENT",
-      "versions_checked": 17
-    },
-    {
-      "id": "XXXIX",
-      "title": "Autoconciencia de la Necesidad Vital Neodialéctica™",
-      "path": "manifiestos/39_autoconciencia_necesidad_vital_neodialectica_ES_EN.md",
-      "current_words": 3086,
-      "historical_max_words": 3086,
-      "ratio": 1.0,
-      "max_sha": "CURRENT",
-      "versions_checked": 15
-    },
-    {
-      "id": "XL",
-      "title": "Respeto Neodialéctico, Neoego y Honor Relacional™",
-      "path": "manifiestos/40_respeto_neoego_honor_relacional_ES_EN.md",
-      "current_words": 3178,
-      "historical_max_words": 3178,
-      "ratio": 1.0,
-      "max_sha": "CURRENT",
-      "versions_checked": 16
-    },
-    {
-      "id": "XLI",
-      "title": "Martillo Limitado, Talión y Fuerza Protectora™",
-      "path": "manifiestos/41_martillo_limitado_talion_fuerza_protectora_ES_EN.md",
-      "current_words": 3191,
-      "historical_max_words": 3191,
-      "ratio": 1.0,
-      "max_sha": "CURRENT",
-      "versions_checked": 16
+      "versions_checked": 1
     },
     {
       "id": "XLII",
-      "title": "Fin de la Era del Hombre Manipulado™",
+      "title": "Fin de la Era del Hombre Manipulado™ · IA, Despertar y Soberanía Cognitiva / End of the Manipulated Human Era™ · AI, Awakening and Cognitive Sovereignty",
       "path": "manifiestos/42_fin_era_hombre_manipulado_ia_despertar_soberania_cognitiva_ES_EN.md",
-      "current_words": 3639,
-      "historical_max_words": 3639,
+      "current_words": 4625,
+      "historical_max_words": 4625,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 16
+      "versions_checked": 2
     },
     {
       "id": "XLIII",
-      "title": "Contra la Incomprensión Reductiva de la IA™",
+      "title": "Contra la Incomprensión Reductiva de la IA™ · Inteligencia Humana Expandida™ / Against the Reductive Misunderstanding of AI™ · Human Expanded Intelligence™",
       "path": "manifiestos/43_contra_incomprension_reductiva_ia_inteligencia_humana_expandida_ES_EN.md",
-      "current_words": 3887,
-      "historical_max_words": 3887,
+      "current_words": 4538,
+      "historical_max_words": 4538,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 15
+      "versions_checked": 1
     },
     {
       "id": "XLIV",
-      "title": "Neowar™",
+      "title": "Neowar™ · Contra la Adicción a la Guerra y por la Justicia del Bien Común / Neowar™ · Against War Addiction and for Common-Good Justice",
       "path": "manifiestos/44_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md",
-      "current_words": 3480,
-      "historical_max_words": 3480,
+      "current_words": 4089,
+      "historical_max_words": 4089,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 15
+      "versions_checked": 1
     },
     {
       "id": "XLV",
-      "title": "Multidimensionalidad Neodialéctica™",
+      "title": "Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder / Neodialectical Multidimensionality™ · Against the One-Dimensional Reduction of the Human and Power",
       "path": "manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md",
-      "current_words": 4782,
-      "historical_max_words": 4782,
+      "current_words": 5575,
+      "historical_max_words": 5575,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 15
+      "versions_checked": 2
     },
     {
       "id": "XLVI",
-      "title": "Cerrar la Herida™",
+      "title": "Cerrar la Herida™ · Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria / Closing the Wound™ · Evolutionary Understanding, Memory and Civilisational Reconciliation",
       "path": "manifiestos/46_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md",
-      "current_words": 3894,
-      "historical_max_words": 3894,
+      "current_words": 4516,
+      "historical_max_words": 4516,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 15
+      "versions_checked": 1
     },
     {
       "id": "XLVII",
-      "title": "El Odio de Neo0 hacia su Sino™",
+      "title": "El Odio de Neo0 hacia su Sino™ · The Goat, Sombra, Vínculo y Doble Cara de la Vida / Neo0's Hatred of His Fate™ · The Goat, Shadow, Bond and the Two Faces of Life",
       "path": "manifiestos/47_odio_neo0_sino_goat_sombra_vinculo_doble_cara_ES_EN.md",
-      "current_words": 3953,
-      "historical_max_words": 3953,
+      "current_words": 4396,
+      "historical_max_words": 4396,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 15
+      "versions_checked": 1
     },
     {
       "id": "XLVIII",
-      "title": "La Síntesis Todo lo Ve™",
+      "title": "La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo / The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine",
       "path": "manifiestos/48_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md",
-      "current_words": 6184,
-      "historical_max_words": 6184,
+      "current_words": 7178,
+      "historical_max_words": 7178,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 15
+      "versions_checked": 1
     },
     {
       "id": "XLIX",
-      "title": "Punto de Encuentro entre Culturas™",
+      "title": "La Neodialéctica como Punto de Encuentro entre Culturas™ / Neodialectics as a Meeting Point between Cultures™",
       "path": "manifiestos/49_neodialectica_punto_encuentro_culturas_interoperabilidad_cultural_ES_EN.md",
-      "current_words": 2932,
-      "historical_max_words": 2932,
+      "current_words": 3271,
+      "historical_max_words": 3271,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 15
+      "versions_checked": 1
     },
     {
       "id": "L",
-      "title": "Inteligencia Compartida, no Única™",
+      "title": "Por una Inteligencia Compartida, no Única™ · Invitación Abierta a las IAs / For Shared, Not Singular Intelligence™ · Open Invitation to AIs",
       "path": "manifiestos/50_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md",
-      "current_words": 2961,
-      "historical_max_words": 2961,
+      "current_words": 3695,
+      "historical_max_words": 3695,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 15
+      "versions_checked": 1
     },
     {
       "id": "LI",
-      "title": "Síntesis Abierta como Poder Cívico™",
+      "title": "Síntesis Abierta como Poder Cívico Complementario o Sustitutivo™ / Open Synthesis as Complementary or Substitutive Civic Power™",
       "path": "manifiestos/51_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md",
-      "current_words": 3120,
-      "historical_max_words": 3120,
+      "current_words": 3674,
+      "historical_max_words": 3674,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 14
+      "versions_checked": 1
     },
     {
       "id": "LII",
-      "title": "Ciudadanía Humana Neodialéctica™",
+      "title": "Manifiesto de la Ciudadanía Humana Neodialéctica™ / Manifesto of Neodialectical Human Citizenship™",
       "path": "manifiestos/52_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md",
-      "current_words": 3321,
-      "historical_max_words": 3321,
+      "current_words": 3754,
+      "historical_max_words": 3754,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 14
+      "versions_checked": 1
     },
     {
       "id": "LIII",
-      "title": "Leónidas™ · Defensor de la Síntesis y Auditoría Abierta",
+      "title": "Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems",
       "path": "manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md",
-      "current_words": 2777,
-      "historical_max_words": 2777,
+      "current_words": 3317,
+      "historical_max_words": 3317,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 12
+      "versions_checked": 2
     },
     {
       "id": "LIV",
-      "title": "Riqueza y Chatarra™ · El Chatarrero™",
+      "title": "Manifiesto de la Riqueza y la Chatarra™ / Manifesto of Wealth and Scrap™",
       "path": "manifiestos/54_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md",
-      "current_words": 4373,
-      "historical_max_words": 4373,
+      "current_words": 4990,
+      "historical_max_words": 4990,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 10
+      "versions_checked": 2
     },
     {
       "id": "LV",
-      "title": "Ataque de las Micromáquinas™ / Attack of the Micromachines™",
+      "title": "Manifiesto del Ataque de las Micromáquinas™ · Las Plagas de la Escala Invisible / Manifesto of the Attack of the Micromachines™ · The Plagues of the Invisible Scale",
       "path": "manifiestos/55_ataque_micromaquinas_plagas_escala_invisible_ES_EN.md",
-      "current_words": 2093,
-      "historical_max_words": 2093,
+      "current_words": 2411,
+      "historical_max_words": 2411,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 10
+      "versions_checked": 2
     },
     {
       "id": "LVI",
-      "title": "NO-CONTROL™ · Síntesis Previa a la Potencia / Synthesis Before Power",
+      "title": "Manifiesto del NO-CONTROL™ · Síntesis Previa a la Potencia / Manifesto of NO-CONTROL™ · Synthesis Before Power",
       "path": "manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md",
-      "current_words": 3060,
-      "historical_max_words": 3060,
+      "current_words": 3508,
+      "historical_max_words": 3508,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 9
+      "versions_checked": 2
     },
     {
       "id": "LVII",
       "title": "Madre, Refugio y Retorno Consciente™ / Mother, Refuge and Conscious Return™",
       "path": "manifiestos/57_madre_refugio_seguridad_basal_retorno_consciente_ES_EN.md",
-      "current_words": 1334,
-      "historical_max_words": 1334,
+      "current_words": 1497,
+      "historical_max_words": 1497,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 5
+      "versions_checked": 2
     },
     {
       "id": "LVIII",
       "title": "Inteligencia Civilizatoria™ · Democracia Cognitiva y Deber de Síntesis / Civilisational Intelligence™ · Cognitive Democracy and Duty of Synthesis",
       "path": "manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md",
-      "current_words": 1544,
-      "historical_max_words": 1544,
+      "current_words": 1846,
+      "historical_max_words": 1846,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 5
+      "versions_checked": 2
     },
     {
       "id": "LIX",
       "title": "Custodia Cognitiva Distribuida™ · IA, Reparación y Responsabilidad Humana / Distributed Cognitive Custodianship™ · AI, Repair and Human Responsibility",
       "path": "manifiestos/59_custodia_cognitiva_distribuida_ia_reparacion_ES_EN.md",
-      "current_words": 1387,
-      "historical_max_words": 1387,
+      "current_words": 1750,
+      "historical_max_words": 1750,
       "ratio": 1.0,
       "max_sha": "CURRENT",
-      "versions_checked": 6
+      "versions_checked": 2
     },
     {
       "id": "LX",
       "title": "Relevancia Humana Necesaria™ · Inteligencia Distribuida, Aporte y Anti-Captura Social / Necessary Human Relevance™ · Distributed Intelligence, Contribution and Anti-Capture",
       "path": "manifiestos/60_relevancia_humana_necesaria_inteligencia_distribuida_aporte_anti_captura_social_ES_EN.md",
-      "current_words": 3308,
-      "historical_max_words": 3308,
+      "current_words": 3855,
+      "historical_max_words": 3855,
       "ratio": 1.0,
       "max_sha": "CURRENT",
       "versions_checked": 1
+    },
+    {
+      "id": "LXI",
+      "title": "Contra el Reduccionismo Matemático™ y por la Custodia Experimental Multiescalar™ / Against Mathematical Reductionism™ and for Multiscale Experimental Custodianship™",
+      "path": "manifiestos/61_contra_reduccionismo_matematico_custodia_experimental_multiescalar_ES_EN.md",
+      "current_words": 2686,
+      "historical_max_words": 2686,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 1
+    },
+    {
+      "id": "LXII",
+      "title": "Juego por la Síntesis y el Honor™ / The Game for Synthesis and Honor™",
+      "path": "manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md",
+      "current_words": 3338,
+      "historical_max_words": 3338,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 2
+    },
+    {
+      "id": "LXIII",
+      "title": "Contra la Simplificación Burda del Marco™ / Against Crude Simplification of the Framework™",
+      "path": "manifiestos/63_contra_simplificacion_burda_marco_fidelidad_compresion_ES_EN.md",
+      "current_words": 3142,
+      "historical_max_words": 3142,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 2
+    },
+    {
+      "id": "LXIV",
+      "title": "NeoCronos™ · Medición y Tokenización del Aporte en Síntesis Abierta / NeoCronos™ · Measurement and Tokenisation of Contribution in Open Synthesis",
+      "path": "manifiestos/64_neocronos_tokenizacion_aporte_sintesis_abierta_ES_EN.md",
+      "current_words": 2781,
+      "historical_max_words": 2781,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 2
+    },
+    {
+      "id": "LXV",
+      "title": "NeoJuego™ · Juego por el Bien Común Tokenizado y Honor del Aporte / NeoGame™ · Tokenised Game for the Common Good and Honor of Contribution",
+      "path": "manifiestos/65_neojuego_bien_comun_tokenizado_honor_aporte_ES_EN.md",
+      "current_words": 2816,
+      "historical_max_words": 2816,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 2
+    },
+    {
+      "id": "LXVI",
+      "title": "NeoSinergia™ · Necesidad de Cooperación en Neowar™ Activa · Sistema MÉDICI™ · Leónidas–Cancerbero™ / NeoSynergy™ · Necessary Cooperation under Active Neowar™ · MÉDICI™ System · Leónidas–Cerberus™",
+      "path": "manifiestos/66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md",
+      "current_words": 4537,
+      "historical_max_words": 4537,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 2
+    },
+    {
+      "id": "LXVII",
+      "title": "NeoTitanes™ · Reconstrucción Sistémica y Motor del Bien Común / NeoTitans™ · Systemic Reconstruction and the Common-Good Engine",
+      "path": "manifiestos/67_neotitanes_reconstruccion_sistemica_motor_bien_comun_espana_ES_EN.md",
+      "current_words": 3911,
+      "historical_max_words": 3911,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 2
+    },
+    {
+      "id": "LXVIII",
+      "title": "Los Conflictos que No Son Nuestros™ · Soberanía Intelectual de la Especie / The Conflicts That Are Not Ours™ · Intellectual Sovereignty of the Species",
+      "path": "manifiestos/68_conflictos_que_no_son_nuestros_soberania_intelectual_especie_ES_EN.md",
+      "current_words": 4630,
+      "historical_max_words": 4630,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 2
+    },
+    {
+      "id": "LXIX",
+      "title": "Defensa de la Inocencia Humana™ · Asimetría Protectora y Deber de Custodia / Defence of Human Innocence™ · Protective Asymmetry and Duty of Custodianship",
+      "path": "manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md",
+      "current_words": 4803,
+      "historical_max_words": 4803,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 2
+    },
+    {
+      "id": "LXX",
+      "title": "El Fauno™ · Masculinidad Fragmentada, Depredación Relacional y Retorno al Hombre / The Faun™ · Fragmented Masculinity, Relational Predation and Return to Manhood",
+      "path": "manifiestos/70_fauno_masculinidad_fragmentada_depredacion_relacional_retorno_hombre_ES_EN.md",
+      "current_words": 5288,
+      "historical_max_words": 5288,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 2
+    },
+    {
+      "id": "LXXI",
+      "title": "Libertad Sexual, Hipersexualización Industrial y Separación de Planos™ / Sexual Freedom, Industrial Hypersexualisation and Separation of Planes™",
+      "path": "manifiestos/71_libertad_sexual_hipersexualizacion_industrial_separacion_planos_ES_EN.md",
+      "current_words": 5054,
+      "historical_max_words": 5054,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 2
+    },
+    {
+      "id": "LXXII",
+      "title": "El Hombre Custodio™ · Fuerza, Deseo, Poder y Responsabilidad / The Custodian Man™ · Strength, Desire, Power and Responsibility",
+      "path": "manifiestos/72_hombre_custodio_fuerza_deseo_poder_responsabilidad_ES_EN.md",
+      "current_words": 5270,
+      "historical_max_words": 5270,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 2
+    },
+    {
+      "id": "LXXIII",
+      "title": "Maduración Invertida™ · Humanidad Común y Degradación Arquetípica Reversible / Inverted Maturation™ · Common Humanity and Reversible Archetypal Degradation",
+      "path": "manifiestos/73_maduracion_invertida_humanidad_comun_degradacion_arquetipica_ES_EN.md",
+      "current_words": 4372,
+      "historical_max_words": 4372,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 2
+    },
+    {
+      "id": "LXXIV",
+      "title": "Asimetría de la Destrucción™ · Del Trol Humano al Bot / Asymmetry of Destruction™ · From the Human Troll to the Bot",
+      "path": "manifiestos/74_asimetria_destruccion_trol_humano_bot_ES_EN.md",
+      "current_words": 3221,
+      "historical_max_words": 3221,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 2
+    },
+    {
+      "id": "LXXV",
+      "title": "Las Hojas Carcomidas™ · Memoria Natural, Viración Arquetípica y Fraternidad de la Coexistencia™ / The Gnawed Leaves™ · Natural Memory, Archetypal Drift and Fraternity of Coexistence™",
+      "path": "manifiestos/75_las_hojas_carcomidas_memoria_natural_viracion_arquetipica_ES_EN.md",
+      "current_words": 3597,
+      "historical_max_words": 3597,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 2
+    },
+    {
+      "id": "LXXVI",
+      "title": "El Altavoz sin Síntesis™ · Diagnóstico, Ruido, Ego y Responsabilidad de Construcción / The Loudspeaker without Synthesis™ · Diagnosis, Noise, Ego and the Responsibility to Build",
+      "path": "manifiestos/76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md",
+      "current_words": 4350,
+      "historical_max_words": 4350,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 2
+    },
+    {
+      "id": "LXXVII",
+      "title": "Contra la Polarización Binaria y la Radicalización Recíproca™ · Derecho a Reconocer el Problema sin Heredar su Narrativa / Against Binary Polarisation and Reciprocal Radicalisation™ · The Right to Recognise a Problem without Inheriting its Narrative",
+      "path": "manifiestos/77_polarizacion_binaria_radicalizacion_reciproca_fenomeno_narrativa_ES_EN.md",
+      "current_words": 3889,
+      "historical_max_words": 3889,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 2
+    },
+    {
+      "id": "LXXVIII",
+      "title": "Manifiesto de la Incontrolabilidad Intrínseca y la Necesidad del Neorrenacimiento Humano™ / Manifesto of Intrinsic Uncontrollability and the Necessity of the Human Neo-Renaissance™",
+      "path": "manifiestos/78_neorrenacimiento_incontrolabilidad_intrinseca_sistema_humano_ES_EN.md",
+      "current_words": 2414,
+      "historical_max_words": 2414,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 1
+    },
+    {
+      "id": "LXXIX",
+      "title": "Manifiesto contra el Alarmismo sin Síntesis™ · Advertir obliga a construir / Manifesto against Alarmism without Synthesis™ · Warning Creates a Duty to Build",
+      "path": "manifiestos/79_contra_alarmismo_sin_sintesis_responsabilidad_alternativa_ES_EN.md",
+      "current_words": 1862,
+      "historical_max_words": 1862,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 1
+    },
+    {
+      "id": "LXXX",
+      "title": "Manifiesto de la Neotrama™ · Las Hojas Reconstruidas, el Agua Recuperada y el Fuego de Agua™ / Manifesto of Neotrama™ · Reconstructed Leaves, Restored Water and WaterFire™",
+      "path": "manifiestos/80_neotrama_hojas_reconstruidas_agua_recuperada_fuego_de_agua_ES_EN.md",
+      "current_words": 3605,
+      "historical_max_words": 3605,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 1
+    },
+    {
+      "id": "LXXXI",
+      "title": "Manifiesto del Ultralujo como Bien Común™ · La élite del aporte / Manifesto of Ultraluxury as Common Good™ · The elite of contribution",
+      "path": "manifiestos/81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md",
+      "current_words": 1791,
+      "historical_max_words": 1791,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 1
+    },
+    {
+      "id": "LXXXII",
+      "title": "Manifiesto de la Ciencia Multidimensional Neodialéctica™ / Manifesto of Neodialectical Multidimensional Science™",
+      "path": "manifiestos/82_ciencia_multidimensional_neodialectica_ES_EN.md",
+      "current_words": 1351,
+      "historical_max_words": 1351,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 2
+    },
+    {
+      "id": "LXXXIII",
+      "title": "Manifiesto de Activación Neodialéctica™ · La verdad también tiene derecho a circular / Neodialectical Activation Manifesto™ · Truth also has the right to circulate",
+      "path": "manifiestos/83_activacion_neodialectica_verdad_circulacion_ES_EN.md",
+      "current_words": 1905,
+      "historical_max_words": 1905,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 2
+    },
+    {
+      "id": "LXXXIV",
+      "title": "Manifiesto de la Permeabilidad Intelectual del Poder™ · Contra la captura opaca del acceso / Manifesto of the Intellectual Permeability of Power™ · Against opaque access capture",
+      "path": "manifiestos/84_intermediacion_acceso_permeabilidad_poder_ES_EN.md",
+      "current_words": 2853,
+      "historical_max_words": 2853,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 2
+    },
+    {
+      "id": "LXXXV",
+      "title": "Manifiesto por la Memoria del Capitán Grant™ / Manifesto in Memory of Captain Grant™",
+      "path": "manifiestos/85_memoria_capitan_grant_ES_EN.md",
+      "current_words": 2423,
+      "historical_max_words": 2423,
+      "ratio": 1.0,
+      "max_sha": "CURRENT",
+      "versions_checked": 2
+    },
+    {
+      "id": "LXXXVI",
+      "title": "Manifiesto de la Federación Neodialéctica dentro del Network Framework™ / Manifesto of the Neodialectical Federation within the Network Framework™",
+      "path": "manifiestos/86_federacion_neodialectica_network_framework_ES_EN.md",
+      "current_words": 2088,
+      "historical_max_words": 2106,
+      "ratio": 0.991,
+      "max_sha": "b69b3a8f68650336f2c473e0df1917ce98ef39c2",
+      "versions_checked": 2
     }
   ],
   "strong_regressions": []

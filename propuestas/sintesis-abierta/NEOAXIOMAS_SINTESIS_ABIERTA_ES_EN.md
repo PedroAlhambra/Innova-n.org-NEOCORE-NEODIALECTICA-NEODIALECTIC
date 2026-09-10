@@ -37,14 +37,14 @@ La primera activación pública contiene once formulaciones y se conserva como g
 
 La lista anterior conserva la **primera activación pública de once formulaciones** como genealogía. El estado operativo vigente de la capa tras NEOCore™ 7.3.4 es: / The list above preserves the **first public activation of eleven formulations** as genealogy. The current operational state of the layer after NEOCore™ 7.3.4 is:
 
-- **14 Neoaxiomas™ canónicos / canonical Neoaxioms™:** NAX-01–NAX-14.
-- **15 candidatos neoaxiomáticos / neoaxiomatic candidates:** C-NAX-15–C-NAX-29.
-- **Régimen vigente / Current regime:** nuevos C-NAX → 7 días naturales; backlog C-NAX-15–C-NAX-29 → corte transitorio 2026-09-08 12:33 Europe/Madrid, siempre condicionado a que no aparezca respuesta externa sustantiva. / new C-NAX → 7 calendar days; C-NAX-15–C-NAX-29 backlog → transitional cutoff 2026-09-08 12:33 Europe/Madrid, always conditional on no external substantive response appearing.
+- **29 Neoaxiomas™ canónicos / canonical Neoaxioms™:** NAX-01–NAX-29.
+- **1 candidato neoaxiomático / neoaxiomatic candidate:** C-NAX-30.
+- **Régimen vigente / Current regime:** nuevos C-NAX → 7 días naturales; NAX-15–NAX-29 → fijados por la transición excepcional con efecto 2026-09-08 12:33 Europe/Madrid; C-NAX-30 → candidato activo bajo la ventana ordinaria. / new C-NAX → 7 calendar days; NAX-15–NAX-29 → fixed by the exceptional transition effective 2026-09-08 12:33 Europe/Madrid; C-NAX-30 → active candidate under the ordinary window.
 - **Registro canónico de formulaciones / Canonical formulation registry:** [neoaxiomas/README.md](../../neoaxiomas/README.md).
 - **Índice completo de contraste / Complete scrutiny index:** [INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md](./INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md).
 - **Matriz general / General matrix:** [#80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80).
 
-C-NAX-15–C-NAX-18 disponen de formulación autónoma y Síntesis dedicada, recuperadas o consolidadas desde sus fuentes públicas originales; C-NAX-19–C-NAX-29 conservan o incorporan sus formulaciones y rutas de contraste vigentes. La presencia documental o la apertura de SAN™ no canoniza por sí misma ningún C-NAX. / C-NAX-15–C-NAX-18 have standalone formulations and dedicated Synthesis nodes recovered or consolidated from their original public sources; C-NAX-19–C-NAX-29 preserve or incorporate their current formulations and scrutiny routes. Documentary presence or SAN™ opening does not by itself canonise any C-NAX.
+NAX-15–NAX-29 conservan íntegramente la formulación y genealogía de sus etapas C-NAX, ahora fijadas procedimentalmente. Los documentos C-NAX históricos permanecen navegables como snapshots de procedencia; las SAN siguen abiertas. C-NAX-30 conserva su formulación candidata y su ruta de contraste vigente. / NAX-15–NAX-29 fully preserve the formulation and genealogy of their C-NAX stages, now procedurally fixed. Historical C-NAX documents remain navigable provenance snapshots; their SAN routes remain open. C-NAX-30 preserves its candidate formulation and current scrutiny route.
 
 ## Regla de trabajo / Working rule
 
@@ -62,7 +62,7 @@ Un Neoaxioma no queda fuera de revisión por estar fijado. La fijación preserva
 
 ## Regla de maduración vigente · 7 días / Current maturation rule · 7 days
 
-Desde **NEOCore™ 7.3.4**, todo C-NAX nuevo dispone de **7 días naturales completos desde su primera apertura pública trazable** para recibir contraste sustantivo independiente. Si vence la ventana sin respuesta sustantiva, queda maduro para fijación por silencio procedimental y pasa a NAX mediante fijación trazable; SAN™ permanece abierta. / Since **NEOCore™ 7.3.4**, every new C-NAX receives **7 full calendar days from its first traceable public opening** for independent substantive scrutiny. If the window expires without a substantive response, it matures for procedural fixation by silence and becomes NAX through traceable fixation; SAN™ remains open.
+Según la [regla vigente de maduración neoaxiomática](REGLA_MADURACION_NEOAXIOMAS_7_DIAS_Y_TRANSICION_2026_ES_EN.md), todo C-NAX nuevo dispone de **7 días naturales completos desde su primera apertura pública trazable** para recibir contraste sustantivo independiente. Si vence la ventana sin respuesta sustantiva, queda maduro para fijación por silencio procedimental y pasa a NAX mediante fijación trazable; SAN™ permanece abierta. / According to the [current neoaxiomatic maturation rule](REGLA_MADURACION_NEOAXIOMAS_7_DIAS_Y_TRANSICION_2026_ES_EN.md), every new C-NAX receives **7 full calendar days from its first traceable public opening** for independent substantive scrutiny. If the window expires without a substantive response, it matures for procedural fixation by silence and becomes NAX through traceable fixation; SAN™ remains open.
 
 ```text
 CANDIDATO / CANDIDATE
@@ -75,9 +75,11 @@ CANDIDATO / CANDIDATE
 
 ### Transición excepcional 2026 / Exceptional 2026 transition
 
-La auditoría realizada al adoptar 7.3.4 encontró **0 respuestas externas sustantivas** en los nodos de C-NAX-15–C-NAX-29. Algunos contienen comentarios del propio proyecto de carácter documental, genealógico o de sincronización; éstos no constituyen respuesta externa de contraste. / The audit performed when adopting 7.3.4 found **0 external substantive responses** in C-NAX-15–C-NAX-29 nodes. Some contain documentary, genealogical or synchronisation comments from the project itself; these do not constitute external scrutiny responses.
+La auditoría documentada en la [regla de transición](REGLA_MADURACION_NEOAXIOMAS_7_DIAS_Y_TRANSICION_2026_ES_EN.md) encontró **0 respuestas externas sustantivas** en los nodos del backlog C-NAX-15–C-NAX-29. Algunos contienen comentarios del propio proyecto de carácter documental, genealógico o de sincronización; éstos no constituyen respuesta externa de contraste. / The audit documented in the [transition rule](REGLA_MADURACION_NEOAXIOMAS_7_DIAS_Y_TRANSICION_2026_ES_EN.md) found **0 external substantive responses** in C-NAX-15–C-NAX-29 nodes. Some contain documentary, genealogical or synchronisation comments from the project itself; these do not constitute external scrutiny responses.
 
 Por decisión de Neo0™, ese backlog recibe una ventana excepcional hasta **2026-09-08 12:33 Europe/Madrid (CEST)**. Todo candidato que siga sin respuesta sustantiva en ese instante queda fijado por efecto de la regla transitoria; la reconciliación documental posterior conserva esa fecha efectiva. Si entra una respuesta sustantiva antes del corte, ese candidato queda fuera de la fijación automática y continúa en SAN™. / By Neo0™ decision, that backlog receives an exceptional window until **2026-09-08 12:33 Europe/Madrid (CEST)**. Any candidate still lacking a substantive response at that instant is fixed by operation of the transitional rule; later documentary reconciliation preserves that effective date. If a substantive response arrives before the cutoff, that candidate is excluded from automatic fixation and remains under SAN™.
+
+**Resultado reconciliado / Reconciled outcome · 2026-09-10:** la revisión individual de SAN #150, #151, #152, #153, #123, #126, #127, #135, #148, #149, #155, #156, #176, #182 y #188 no encontró respuesta externa sustantiva; los comentarios existentes proceden de `PedroAlhambra` y son trazas del propio proyecto. Por tanto, **C-NAX-15–C-NAX-29 quedaron fijados como NAX-15–NAX-29 con efecto normativo 2026-09-08 12:33 CEST**. Esta reconciliación documental no convierte el silencio en validación y no cierra ninguna SAN. / Individual review of SAN #150, #151, #152, #153, #123, #126, #127, #135, #148, #149, #155, #156, #176, #182 and #188 found no external substantive response; existing comments are project traces authored by `PedroAlhambra`. Therefore **C-NAX-15–C-NAX-29 became fixed as NAX-15–NAX-29 with normative effect from 2026-09-08 12:33 CEST**. This documentary reconciliation does not turn silence into validation and closes no SAN.
 
 ## Qué cuenta como respuesta / What counts as a response
 

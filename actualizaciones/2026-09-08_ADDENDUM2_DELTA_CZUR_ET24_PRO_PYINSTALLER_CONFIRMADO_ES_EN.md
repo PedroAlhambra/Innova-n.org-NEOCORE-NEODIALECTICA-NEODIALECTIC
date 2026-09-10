@@ -7,6 +7,8 @@
 
 ---
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ## ES · Castellano
 
 ### 1. PyInstaller queda confirmado
@@ -165,35 +167,161 @@ El visor pedirá un nombre de salida. La extracción no ejecuta el target.
 
 ## EN · English
 
-### 1. PyInstaller is now confirmed
+### 1. PyInstaller is confirmed
 
-Static inspection with `pyi-archive_viewer` confirms that both `czur_authorized/czur_create` and `CzurScanner` are PyInstaller executables containing a `PKG/CArchive` and an embedded `PYZ-00.pyz`.
+The hypothesis opened in Addendum I was confirmed through inspection with `pyi-archive_viewer` installed in a separate virtual environment. Both `czur_authorized/czur_create` and `CzurScanner` are PyInstaller executables with `PKG/CArchive` and an internal `PYZ-00.pyz` archive.
 
-The earlier strong hypothesis therefore becomes a confirmed fact.
+Markers observed in both artifacts:
 
-`czur_create` contains a very small `main` entrypoint (430 bytes uncompressed) plus a ~3.28 MB PYZ archive. `CzurScanner` contains a PySide2 runtime hook, many application-specific modules and a ~7.86 MB PYZ archive.
+```text
+_MEIPASS
+_MEIPASS2
+pyi-
+pyimod01_archive
+pyimod02_importers
+pyimod03_ctypes
+pyiboot01_bootstrap
+PYZ-00.pyz
+```
 
-Module names observed in the scanner bundle cover preview/resolution, laser assistance, advanced crop, OCR, PDF/TIFF, image processing, authorization/licensing, offline reports, purchase channel, suggestions, web-window, push-message and email-related UI.
+`pyi-archive_viewer -l` explicitly identified:
 
-These module names establish packaged functionality only. They do not prove that all features execute in a given session or that data is transmitted without user action.
+```text
+Contents of 'czur_create' (PKG/CArchive)
+Contents of 'CzurScanner' (PKG/CArchive)
+```
 
-### 2. Current classification
+Therefore:
+
+`PYINSTALLER_STYLE = STRONG_HYPOTHESIS` becomes `PYINSTALLER = CONFIRMED FACT`.
+
+### 2. `czur_create` is a very small Python wrapper over a large PYZ
+
+The `czur_create` CArchive mainly contains the PyInstaller bootloader/runtime, execution hooks and a very small `main` entrypoint:
+
+```text
+main: 315 bytes compressed / 430 bytes uncompressed
+PYZ-00.pyz: 3,275,881 bytes
+```
+
+The following hooks also appear:
+
+```text
+pyi_rth_subprocess
+pyi_rth_pkgutil
+pyi_rth_multiprocessing
+pyi_rth_inspect
+pyi_rth_pkgres
+pyi_rth_setuptools
+```
+
+This explains why the ELF showed few direct dependencies but strings from high-level Python modules: most logic is packaged inside the internal Python archive.
+
+### 3. `CzurScanner` confirms a Python/PySide2 application with multiple proprietary functions
+
+The `CzurScanner` CArchive contains a `main` entrypoint, a PySide2 runtime hook and numerous application-specific modules before the `PYZ-00.pyz`, which is 7,856,218 bytes.
+
+Observed names include:
+
+```text
+main_window_scan_preview
+item_scan_preview_select_resolution_combo
+item_laser_auxiliary_process
+item_advanced_crop
+main_window_batch_OCR
+module_czocr
+main_window_batch_PDF
+main_window_batch_TIFF
+main_window_batch_edge_clipping
+main_window_batch_fill_hole
+main_window_batch_hue_contrast
+main_window_batch_watermark
+main_window_auth_validate
+module_authorized
+main_window_serial_enter_dialog
+pop_authorization_dialog
+pop_offline_report_dialog
+pop_purchase_channel_dialog
+main_window_submit_wrong_data
+main_window_suggestion
+main_window_formula_web_window
+main_window_pushmessage_dialog
+email_input_dialog
+pop_email_input_dialog
+```
+
+These names are evidence that the proprietary software includes modules for preview, resolution, laser/auxiliary functions, advanced cropping, OCR, PDF/TIFF, batch processing, authorization/licensing, reports, purchase channel, suggestions, web functions, push and email.
+
+**The existence of those modules does not demonstrate that all of them execute in a specific session or that they transmit data without consent.**
+
+### 4. The shared BuildID is no longer a strong anomaly
+
+The earlier observation that `czur_create` and `CzurScanner` share the same ELF BuildID despite different SHA-256 hashes and sizes is consistent with use of the same PyInstaller bootloader with different appended CArchive/PYZ files.
+
+Observed sizes:
+
+```text
+czur_create: 3,348,384 bytes
+CzurScanner: 8,549,336 bytes
+```
+
+Therefore this point is no longer treated as an unexplained binary anomaly.
+
+### 5. Network and authorization state
+
+The separation remains in force:
+
+```text
+NETWORK MODULES/SDK/CAPABILITY PRESENT = FACT
+REAL OUTBOUND TRAFFIC = NOT VERIFIED
+EXFILTRATION = NOT DEMONSTRATED
+MALWARE = NOT DEMONSTRATED
+```
+
+The next test should remain static and target `PYZ-00.pyz` and the entrypoints before any privileged execution.
+
+### 6. Reproducible next phase
+
+PyInstaller documents that `pyi-archive_viewer` can open internal archives with `O name`, extract a member with `X name`, and recursively list with `-r`.
+
+Recommended tests:
+
+```bash
+CREATE="$HOME/CZUR-package-audit/rootfs/tmp/opt/apps/scanner/czur_authorized/czur_create"
+SCANNER="$HOME/CZUR-package-audit/rootfs/tmp/opt/apps/scanner/CzurScanner"
+
+pyi-archive_viewer -r -l "$CREATE" > "$HOME/CZUR-package-audit/czur_create_recursive.txt"
+pyi-archive_viewer -r -l "$SCANNER" > "$HOME/CZUR-package-audit/czurscanner_recursive.txt"
+
+grep -Ei 'aliyun|requests|urllib3|socket|http|ssl|cryptography|oauth|token|auth|upload|download|update|push|email|api|server|report' \
+  "$HOME/CZUR-package-audit/czur_create_recursive.txt" \
+  "$HOME/CZUR-package-audit/czurscanner_recursive.txt"
+```
+
+The `main` entrypoint of `czur_create` should also be extracted with the interactive viewer so its bytecode can be analysed without executing the program:
+
+```text
+pyi-archive_viewer "$CREATE"
+X main
+```
+
+The viewer will request an output filename. Extraction does not execute the target.
+
+### 7. Incremental synthesis
 
 | Finding | State |
 |---|---|
-| PyInstaller packaging for `czur_create` | **CONFIRMED** |
-| PyInstaller packaging for `CzurScanner` | **CONFIRMED** |
-| CArchive / embedded `PYZ-00.pyz` | **CONFIRMED** |
-| scanner PySide2/runtime GUI | **CONFIRMED** |
-| OCR/processing/auth/web/push/email modules present | **CONFIRMED BY INVENTORY** |
-| actual outbound network traffic | **NOT VERIFIED** |
+| `czur_create` packaged with PyInstaller | **CONFIRMED** |
+| `CzurScanner` packaged with PyInstaller | **CONFIRMED** |
+| CArchive / `PYZ-00.pyz` | **CONFIRMED** |
+| PySide2/runtime GUI in scanner | **CONFIRMED** |
+| OCR/processing/authorization/web/push/email modules | **CONFIRMED BY INVENTORY** |
+| effective network use | **NOT VERIFIED** |
 | malicious behaviour | **NOT DEMONSTRATED** |
-
-Next step: recursively enumerate the embedded PYZ contents and extract/disassemble the small `czur_create` entrypoint before any privileged execution.
 
 ---
 
-## Referencia técnica / Technical reference
+## Referencias / References
 
 PyInstaller official advanced topics / archive viewer documentation:
 

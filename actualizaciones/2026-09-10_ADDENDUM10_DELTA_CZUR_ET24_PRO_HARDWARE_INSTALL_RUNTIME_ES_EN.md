@@ -5,6 +5,8 @@
 **Ámbito:** CZUR ET24 Pro + paquete oficial CZUR Scanner Linux 1.0.20250413  
 **Continuidad:** amplía el [delta inicial](./2026-09-08_DELTA_SINTESIS_CZUR_ET24_PRO_LINUX_AUDITORIA_ES_EN.md) y los addenda estáticos previos, incluido [Addendum IX](./2026-09-09_ADDENDUM9_DELTA_CZUR_ET24_PRO_DEFINE_NETWORK_TIME_PATH_ES_EN.md).
 
+[ES · Castellano](#es) · [EN · English](#en)
+
 ## ES
 
 ### 1. Hardware real: UVC/V4L2 confirmado
@@ -186,17 +188,40 @@ Después del reinicio:
 
 No existe en este punto una razón de hardware para devolver el ET24 Pro. La decisión de conservarlo debe depender principalmente de estabilidad real del software, funcionalidad del flujo de libro y cierre de la prueba de red/hardening.
 
+`CAPACIDAD != INVOCACIÓN != TRÁFICO != TRANSMISIÓN INDEBIDA`.
+
 ---
 
 ## EN
 
-### Dynamic result summary
+### 1. Real hardware: UVC/V4L2 confirmed
 
-The CZUR ET24 Pro was dynamically tested on Debian 13 with direct USB-controller passthrough to the guest. The unit enumerates correctly as USB `04fc:6333`, uses the standard Linux `uvcvideo` driver, exposes `/dev/video0` as the real capture node and `/dev/video1` as UVC metadata, and supports MJPEG up to **7424x5568 at 4.5 fps**, plus 4K/30 and several intermediate modes.
+The dynamic phase was performed on Debian 13 in a VM with the complete USB controller passed directly to the guest. The connected scanner enumerated correctly as a UVC device:
 
-A native V4L2/FFmpeg capture at 7424x5568 succeeded before vendor-software installation. The user visually inspected the result and reported good image quality. Basic physical, optical and Linux/UVC operation therefore passes.
+```text
+USB VID:PID              04fc:6333
+USB descriptor           Sunplus Technology Co., Ltd Siri A9 UVC chipset
+Linux driver             uvcvideo
+/dev/video0              Video Capture + Streaming
+/dev/video1              UVC Metadata Capture
+V4L2 product             QHD CAMERA: CZUR
+```
 
-The exact package dynamically installed was:
+`/dev/video0` exposes, among others, these MJPEG modes:
+
+```text
+7424x5568 @ 4.5 fps
+4000x3000 @ 10 fps
+3840x2160 @ 30 fps
+3072x1728 @ 30 fps
+1920x1080 @ 30 fps
+```
+
+It also exposes YUYV modes at lower frame rates. The user has `rw` access through the video group/ACL.
+
+A local capture at **7424x5568** was performed through V4L2/FFmpeg before installing the vendor application. The image was opened and reviewed locally and the user confirmed correct visual quality. Therefore the basic physical chain —USB, passthrough, `uvcvideo`, capture and sensor/optics— is functionally confirmed.
+
+### 2. Exact identity of the installed package
 
 ```text
 Package:      scanner
@@ -205,36 +230,147 @@ Architecture: amd64
 SHA-256:      0b7618a390a695af151f1aa9ba8d6a1e8dd9ce922ab103ccd52a0e0a86509a91
 ```
 
-A VM snapshot/checkpoint was created before installation. `dpkg` completed with return code 0. `strace` was not installed, so syscall-level installer tracing is absent from this run.
+A VM snapshot/checkpoint was created before installation to allow the test to be reverted.
 
-Dynamic installation confirmed the static hardening concern: **3,061 world-writable entries** exist under `/opt/apps/scanner` after installation: 2,700 regular files, 233 symlinks and 128 directories. The application root itself is mode `0777`.
+### 3. Dynamic installation result
 
-The package also installs broad udev rules using `MODE="0666"`, including a wildcard product match for vendor `04fc`. `systemd-udevd` warned that the rules file itself was executable. These findings warrant **REPAIR/hardening**, but are not evidence of malware.
+The real installation through `dpkg` completed successfully:
 
-No CZUR systemd unit, active CZUR service or persistent CZUR process was observed after installation. This dynamically supports the prior static conclusion that the `CZURPlugin.service` branch is residual/inactive for the tested build.
+```text
+dpkg_rc = 0
+status  = install ok installed scanner 1.0.20250413
+```
 
-The first interactive application run was preliminarily functional according to the user, although an unspecified odd behaviour was noticed. A reboot was chosen before continuing. The anomaly is not yet attributed to the application or hardware.
+`strace` was not available, so this run **does not contain a syscall trace of the installer**. This limits that specific layer of evidence but does not invalidate the before/after record of files, permissions, services, processes and network state.
 
-A host-side VM traffic capture was also collected. Raw PCAP data is intentionally not published because it contains unrelated VM traffic. Exact byte-string searches did not find `internal.czur.cc`, `worldtimeapi.org`, `oss-cn-beijing.aliyuncs.com`, `aliyuncs.com` or `czur.cc`. This is only limited negative evidence and **does not prove absence of CZUR traffic**; encrypted/IP-only/cached-resolution paths remain possible.
+During `postinst`, privileged execution of the following was observed:
 
-### Current classification
+```text
+/usr/bin/sh ./setup.sh
+./czur_create --logname=<user>
+sed -i ... /lib/udev/uvcdynctrl
+```
+
+`czur_create` also returned:
+
+```text
+{"key": "", "res": true, "type": 7, "str_result": "create permission success"}
+```
+
+The installation created the local user directory `~/.czur` and a graphical launcher that runs `CzurScanner` from `/opt/apps/scanner`, preloading `libczurusb-1.0.so` and forcing the X11 backend.
+
+### 4. Confirmed finding: excessively open permissions
+
+The static hypothesis concerning `chmod -R 777` was confirmed dynamically. After installation, **3,061 world-writable entries** were counted, all under `/opt/apps/scanner`:
+
+```text
+2700  files       -rwxrwxrwx
+ 233  symlinks    lrwxrwxrwx
+ 128  directories drwxrwxrwx
+-----------------------------
+3061  entries
+```
+
+Observed ownership distribution:
+
+```text
+2832  user:user
+ 229  root:root
+```
+
+`/opt/apps/scanner` itself was left with mode `0777`. This is classified as a **real installer-hardening problem**, not as evidence of malware.
+
+### 5. Confirmed finding: overly broad udev rules
+
+The installation left `/etc/udev/rules.d/czurscanner.rules` with rules such as:
+
+```text
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="04fc", ATTRS{idProduct}=="*", MODE:="0666"
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="1e4f", ATTRS{idProduct}=="*", MODE:="0666"
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="1e4e", ATTRS{idProduct}=="*", MODE:="0666"
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="5929", ATTRS{idProduct}=="*", MODE:="0666"
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="0400", ATTRS{idProduct}=="*", MODE:="0666"
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="23a4", ATTRS{idProduct}=="*", MODE:="0666"
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="2109", ATTRS{idProduct}=="*", MODE:="0666"
+KERNEL=="ttyUSB*", ATTRS{idVendor}=="1a86", MODE:="0666"
+KERNEL=="ttyS1", MODE:="0666"
+```
+
+In addition, `systemd-udevd` recorded that the rules file was marked executable and recommended removing those bits, although it continued processing the file.
+
+The `04fc` rule matches the USB vendor of the tested device, but accepts any product from that vendor (`idProduct="*"`) and grants global `0666` access; the remaining rules broaden the surface further. The **REPAIR** classification is retained for later hardening, after functional compatibility is verified.
+
+### 6. Resident service: hypothesis negatively closed for this build
+
+After installation:
+
+```text
+CZUR systemd unit detected          NO
+active CZUR service                NO
+persistent CZUR process            NO
+```
+
+This strengthens the conclusion of the static addenda: the installation branch that suggested `CZURPlugin.service` does not materialise as a resident service in the tested package/build.
+
+### 7. First application run
+
+The official application was launched and tested interactively with non-sensitive material. The preliminary functional result reported by the user is:
+
+```text
+application opens / works           YES, preliminary
+scanner usable                       YES, preliminary
+minor anomalous behaviour            OBSERVED BY USER, NOT CHARACTERISED
+cause                                NOT DETERMINED
+reboot before continuing             DECIDED
+```
+
+No cause is assigned to the unusual behaviour observed: it may involve the application, USB/UVC state, graphical session, post-install state or another factor. It must be reproduced after reboot before it can be elevated to a product defect.
+
+### 8. Network: what is and is not demonstrated
+
+The previous static analysis already demonstrated **network capability**, including diagnostic/reporting mechanisms and Alibaba OSS components, but did not demonstrate automatic uploading of ordinary scans.
+
+For this first run, a network capture was also performed at host/VM level. Because that capture includes general VM traffic rather than direct per-process attribution, the raw PCAP **is not published or incorporated into the repository**. An exact-string search in that capture did not find:
+
+```text
+internal.czur.cc
+worldtimeapi.org
+oss-cn-beijing.aliyuncs.com
+aliyuncs.com
+czur.cc
+```
+
+This result is only limited negative evidence: **absence of those literal strings in a PCAP does not demonstrate total absence of CZUR traffic**, because prior DNS resolution, encryption, direct IP connections, QUIC or other mechanisms may exist. Attribution of normal-use egress to `CzurScanner` remains pending a more controlled dynamic test.
+
+### 9. Current classification
 
 ```text
 USB/UVC HARDWARE                    PASS
 7424x5568 NATIVE CAPTURE            PASS
 BASIC VISUAL QUALITY                PASS (local user review)
-FUNCTIONAL INSTALL                  PASS
+FUNCTIONAL INSTALLATION             PASS
+dpkg                                PASS
 RESIDENT CZUR SERVICE               NOT EVIDENCED
-INSTALLER PERMISSIONS               REPAIR
-UDEV RULES                          REPAIR
-NETWORK CAPABILITY                  STATICALLY CONFIRMED
-DIAGNOSTIC/LOG UPLOAD CAPABILITY    CONFIRMED
-AUTOMATIC NORMAL-SCAN UPLOAD        NOT DEMONSTRATED
+INSTALLER PERMISSIONS               REPAIR — 3061 world-writable entries
+UDEV RULES                          REPAIR — MODE 0666 and broad scope
+SOFTWARE NETWORK CAPABILITY         STATICALLY CONFIRMED
+DIAGNOSTIC/LOG UPLOAD               CONFIRMED AS CAPABILITY
+AUTOMATIC SCAN UPLOAD               NOT DEMONSTRATED
 NORMAL-USE CZUR EGRESS              PENDING DYNAMIC ATTRIBUTION
-FIRST-RUN STABILITY                 PROVISIONAL
+FIRST-RUN STABILITY                 PROVISIONAL — anomaly not characterised
 MALWARE                             NOT DEMONSTRATED
 ```
 
-The next controlled run after reboot should reproduce or dismiss the odd behaviour, validate the physical scan button / Auto Scan / book-processing workflow, obtain tighter process-attributed network evidence, and only then harden permissions and udev rules while preserving functionality.
+### 10. Next test
+
+After reboot:
+
+1. verify persistence of UVC detection and `CzurScanner` startup;
+2. repeat a non-sensitive scan operation and characterise any anomaly;
+3. capture egress with tighter attribution;
+4. verify physical button, Auto Scan/manual page turning, cropping, book treatment and export;
+5. only afterwards, harden `/opt/apps/scanner` permissions and narrow the udev rules, verifying that the product remains functional.
+
+At this point there is no hardware reason to return the ET24 Pro. The decision to keep it should depend mainly on real software stability, book-workflow functionality, and closure of the network/hardening test.
 
 `CAPABILITY != INVOCATION != TRAFFIC != IMPROPER TRANSMISSION`.

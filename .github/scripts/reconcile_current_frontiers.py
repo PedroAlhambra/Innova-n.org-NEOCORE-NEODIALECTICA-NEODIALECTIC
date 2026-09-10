@@ -26,21 +26,24 @@ finite_count = len(romans)
 last_roman = romans[-1]
 
 nax_ids = sorted({int(m.group(1)) for p in (ROOT / 'neoaxiomas').glob('NAX-*.md') if (m := re.match(r'NAX-(\d+)_', p.name))})
-cnax_ids = sorted({int(m.group(1)) for p in (ROOT / 'neoaxiomas').glob('C-NAX-*.md') if (m := re.match(r'C-NAX-(\d+)_', p.name))})
+cnax_ids = sorted({int(m.group(1)) for p in (ROOT / 'neoaxiomas').glob('C-NAX-*.md') if (m := re.match(r'C-NAX-(\d+)_', p.name)) and 'HISTÓRICO · FIJADO COMO NAX-' not in p.read_text(encoding='utf-8', errors='replace')})
 if not nax_ids or not cnax_ids:
     raise SystemExit('FRONTIER_DISCOVERY_FAILURE: missing NAX/C-NAX own documents')
-canon_nax_count = len([n for n in nax_ids if n <= 14])
+canon_nax_count = len(nax_ids)
 candidate_count = len(cnax_ids)
 candidate_first, candidate_last = min(cnax_ids), max(cnax_ids)
 
 text = SYN.read_text(encoding='utf-8')
 original = text
 
+candidate_span = f'C-NAX-{candidate_first}' if candidate_count == 1 else f'C-NAX-{candidate_first}–C-NAX-{candidate_last}'
+candidate_es = f'1 candidato {candidate_span}' if candidate_count == 1 else f'{candidate_count} candidatos {candidate_span}'
+candidate_en = f'1 candidate {candidate_span}' if candidate_count == 1 else f'{candidate_count} candidates {candidate_span}'
 coverage = (
     f'**Cobertura / Coverage:** **{finite_count} manifiestos finitos I–{last_roman} + Manifiesto ∞ · '
-    f'{canon_nax_count} Neoaxiomas™ canónicos + {candidate_count} candidatos C-NAX-{candidate_first}–C-NAX-{candidate_last} · '
+    f'{canon_nax_count} Neoaxiomas™ canónicos + {candidate_es} · '
     f'síntesis transversales, auditorías y proyectos de sistema / {finite_count} finite manifestos I–{last_roman} + Manifesto ∞ · '
-    f'{canon_nax_count} canonical Neoaxioms™ + {candidate_count} candidates C-NAX-{candidate_first}–C-NAX-{candidate_last} · '
+    f'{canon_nax_count} canonical Neoaxioms™ + {candidate_en} · '
     'cross-cutting syntheses, audits and system projects**.'
 )
 text = re.sub(r'^\*\*Cobertura / Coverage:\*\*.*$', coverage, text, count=1, flags=re.M)
@@ -52,7 +55,7 @@ text = re.sub(
 )
 text = re.sub(
     r'- C-NAX-\d+–C-NAX-\d+ permanecen candidatos: se muestran con matriz/ruta de síntesis y no se elevan automáticamente a canon\. / C-NAX-\d+–C-NAX-\d+ remain candidates: they are shown with a synthesis matrix/route and are not automatically elevated to canon\.',
-    f'- C-NAX-{candidate_first}–C-NAX-{candidate_last} permanecen candidatos: se muestran con matriz/ruta de síntesis y no se elevan automáticamente a canon. / C-NAX-{candidate_first}–C-NAX-{candidate_last} remain candidates: they are shown with a synthesis matrix/route and are not automatically elevated to canon.',
+    f'- {candidate_span} permanece como frontera candidata activa: se muestra con matriz/ruta de síntesis y no se eleva automáticamente a canon. / {candidate_span} remains the active candidate frontier: it is shown with a synthesis matrix/route and is not automatically elevated to canon.',
     text,
 )
 
@@ -64,6 +67,6 @@ if missing_manifestos or missing_candidates:
 
 if text != original:
     SYN.write_text(text, encoding='utf-8')
-    print(f'FRONTIER_RECONCILED finite={finite_count} last={last_roman} candidates={candidate_first}-{candidate_last}')
+    print(f'FRONTIER_RECONCILED finite={finite_count} last={last_roman} canonical_nax={canon_nax_count} candidates={candidate_span}')
 else:
-    print(f'FRONTIER_ALREADY_CURRENT finite={finite_count} last={last_roman} candidates={candidate_first}-{candidate_last}')
+    print(f'FRONTIER_ALREADY_CURRENT finite={finite_count} last={last_roman} canonical_nax={canon_nax_count} candidates={candidate_span}')

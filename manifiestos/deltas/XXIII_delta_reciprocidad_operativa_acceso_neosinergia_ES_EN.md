@@ -103,6 +103,8 @@ Esto amplía [C-NAX-29 · Federabilidad sin Absorción™](../../neoaxiomas/C-NA
 - [C-NAX-29 · Federabilidad sin Absorción™](../../neoaxiomas/C-NAX-29_FEDERABILIDAD_SIN_ABSORCION_ES_EN.md): autonomía material y relaciones entre nodos.
 - [VI · Parasitismo Sistémico](../09_parasitismo_sistemico_ES_EN.md): dependencia, intermediación y extracción.
 
+**DELTA ≠ CANON.** Esta extensión permanece abierta a contradicción, contraejemplos y revisión SAN™.
+
 ---
 
 ## EN · English

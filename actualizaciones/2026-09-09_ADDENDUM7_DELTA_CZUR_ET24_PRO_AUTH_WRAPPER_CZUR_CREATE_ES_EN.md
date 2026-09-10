@@ -6,6 +6,8 @@
 
 ---
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ## ES · Castellano
 
 ### 1. `module_authorized.py` queda caracterizado como wrapper local
@@ -116,14 +118,106 @@ MALWARE                              = NO DEMOSTRADO
 
 ## EN · English
 
-Static CPython 3.8 disassembly now characterises `module_authorized.py` as a local wrapper around the bundled `czur_create` helper. It resolves architecture-specific local paths, sets `LD_LIBRARY_PATH`/working directory, invokes the helper through `subprocess.Popen`, reads JSON from stdout and validates a fixed protocol key.
+### 1. `module_authorized.py` characterised as a local wrapper
 
-The wrapper exposes operations for machine ID, remaining licence time, licence-file/serial updates, invite-code decoding, software version and serial type. Invite-code decoding may return `member_id` and `phone_number`.
+The CPython 3.8 bytecode of `module_authorized.py` was reconstructed as `.pyc` and disassembled with `xdis/pydisasm` without executing CZUR software.
 
-No direct `requests`, `urllib3`, socket, Alibaba Cloud, OSS or KMS imports were observed in `module_authorized.py`. This does **not** prove that `czur_create` is offline: its extracted `main.py` delegates actual argument processing to `user_support.UserSupport.process_argv()`.
+Observed direct imports:
 
-Next static target: extract and disassemble `user_support` from the `czur_create` embedded PYZ, then trace its imports and any network/cloud calls before privileged execution.
+```text
+subprocess
+time
+os
+json
+traceback
+math
+loguru
+global_public_method
+```
 
-`CAPABILITY != OBSERVED_BEHAVIOUR`  
-`PACKAGED_SDK != NETWORK_TRAFFIC`  
-`WRAPPER_LOCAL != HELPER_OFFLINE`
+No direct imports of `requests`, `urllib3`, `socket`, `aliyun`, `oss2` or KMS were observed in this module.
+
+### 2. Local flow to `czur_create`
+
+The `Authorized` class resolves a local path according to system/architecture (`x86_64`, ARM, MIPS, LoongArch), builds `exe_path` to `./czur_create`, configures `LD_LIBRARY_PATH` and `cwd` to the authorization directory, and runs the helper through `subprocess.Popen`.
+
+The command line is built with:
+
+```text
+czur_create
+--logfile=<path>
+--license=<embedded value>
+--get_id=...
+--get_time_left=...
+--update_times_left=...
+--update_license_file=...
+--update_license_serial=...
+--decode_invite_code=...
+--soft_version=...
+--get_time_left_type=...
+```
+
+The embedded value passed through `--license` is not reproduced here as a precaution; only the presence of a long token/key-like constant in the bytecode is recorded.
+
+### 3. Response protocol
+
+`__validate_res` interprets the final text produced by `czur_create` as JSON and requires a fixed protocol key before accepting `res` and `str_result`.
+
+Therefore, the observed pattern is:
+
+```text
+CzurScanner/module_authorized
+    -> subprocess.Popen(local czur_create)
+    -> stdout JSON
+    -> local validation
+```
+
+This does not demonstrate network traffic.
+
+### 4. License/identity data handled
+
+The wrapper asks the helper to return or update:
+
+```text
+machine_id
+times_left
+invite_code
+serial_string
+times_server_until
+soft_version
+serial_type
+license serial
+license file
+```
+
+`decode_invite_code` accepts 12-character codes and may return `member_id` and `phone_number` fields.
+
+The presence of these fields demonstrates functional handling of license/account data in the authorization layer. It does not demonstrate that those data are transmitted off-device.
+
+### 5. `czur_create/main.py` does not contain the substantive logic
+
+The extracted `main.py` from `czur_create` imports:
+
+```python
+from user_support import UserSupport
+```
+
+It creates `UserSupport(sys.argv)`, calls `process_argv()` and serializes the result to JSON on stdout.
+
+Therefore, the substantive `czur_create` logic is displaced to `user_support` and its dependencies. That is the next static target.
+
+### 6. Current classification
+
+```text
+AUTH_WRAPPER_LOCAL                   = CONFIRMED
+SUBPROCESS TO CZUR_CREATE            = CONFIRMED
+LOCAL MULTI-ARCHITECTURE PATH        = CONFIRMED
+LICENSE/MACHINE/INVITE DATA          = CONFIRMED
+MEMBER_ID / PHONE_NUMBER IN DECODE   = CONFIRMED BY BYTECODE
+DIRECT NETWORK IN module_authorized  = NOT OBSERVED
+NETWORK INSIDE czur_create           = UNRESOLVED
+REAL LOGIC IN user_support           = STRONG / NEXT STEP
+REAL OUTBOUND TRAFFIC                = NOT VERIFIED
+EXFILTRATION                         = NOT DEMONSTRATED
+MALWARE                              = NOT DEMONSTRATED
+```

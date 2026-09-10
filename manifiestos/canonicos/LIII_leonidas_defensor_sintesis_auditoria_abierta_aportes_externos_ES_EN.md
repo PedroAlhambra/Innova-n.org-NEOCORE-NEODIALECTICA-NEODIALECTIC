@@ -7,6 +7,7 @@
 **Manifiesto / Manifesto:** LIII  
 **Versión / Version:** 1.0  
 **Estado / Status:** Público · abierto a Síntesis Abierta y auditoría trazable / Public · open to Open Synthesis and traceable audit  
+**Síntesis Abierta dedicada / Dedicated Open Synthesis:** [#69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)  
 **Fecha de fijación / Record date:** 2026-08-09  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico dentro de la Filosofía Arquetípica Neodialéctica™. Genealogía del marco reconocida desde 2021.  
 **Relación genealógica / Genealogical relation:** continúa [Síntesis Abierta Neodialéctica™](II_sintesis_abierta_neodialectica_ES_EN.md), [Derecho Humano de Aporte™](III_derecho_humano_aporte_sintesis_abierta_ES_EN.md), [Memoria-Genealogía-Trazabilidad™](IX_memoria_genealogia_trazabilidad_ES_EN.md), Defensa [I](I_neo0_soberania_de_guia_ES_EN.md)ntelectual [Umbral-X™](XX_defensa_intelectual_neodialectica_umbral_x_ES_EN.md), [Reconocimiento Neodialéctico™](XXI_reconocimiento_neodialectico_ES_EN.md), [Soberanía del Tiempo Cognitivo™](XXIII_soberania_tiempo_cognitivo_ES_EN.md), [Utilidad Operativa y Auditoría Conjunta Perpetua™](XXXIV_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md), [Neowar™](XLIV_neowar_contra_adiccion_guerra_justicia_bien_comun_ES_EN.md), [La Síntesis Todo lo Ve™](XLVIII_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md), [Inteligencia Compartida™](L_inteligencia_compartida_no_unica_invitacion_ias_sintesis_abierta_ES_EN.md) y [Poder Cívico de la Síntesis Abierta™](LI_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md).
@@ -591,6 +592,16 @@ Contributions are invited on:
 
 <!-- NEO_MANIFESTO_NAV_END -->
 
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_START -->
+
+## Relaciones neoaxiomáticas recíprocas / Reciprocal Neoaxiomatic relations
+
+> **Relación documental/conceptual, no identidad ni causalidad.** Este bloque es la inversa navegable de las relaciones NAX→Manifiesto y mantiene simetría de navegación. / **Documentary/conceptual relation, not identity or causality.** This block is the navigable inverse of NAX→Manifesto relations and preserves navigational symmetry.
+
+- [NAX-26 · Poder ↑ → Trazabilidad ↑ · Acusación ↑ → Evidencia ↑ / Power ↑ → Traceability ↑ · Accusation ↑ → Evidence ↑](../../neoaxiomas/NAX-26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md)
+
+<!-- NEO_MANIFEST_NEOAXIOM_RELATIONS_END -->
+
 <!-- NEO_CROSS_REFERENCES_START -->
 
 ## Referencias cruzadas canónicas / Canonical cross-references
@@ -607,5 +618,12 @@ Contributions are invited on:
 - **XLVIII** · [La Síntesis Todo lo Ve™ · Placa de Petri Universal y Máquina Fractal del Tiempo / The Synthesis Sees Everything™ · Universal Petri Dish and Fractal Time Machine](XLVIII_sintesis_todo_lo_ve_placa_petri_universal_maquina_fractal_tiempo_ES_EN.md)
 - **LII** · [Manifiesto de la Ciudadanía Humana Neodialéctica™ / Manifesto of Neodialectical Human Citizenship™](LII_ciudadania_humana_neodialectica_sangre_suelo_pertenencia_civica_funcional_ES_EN.md)
 - **LIV** · [Manifiesto de la Riqueza y la Chatarra™ / Manifesto of Wealth and Scrap™](LIV_riqueza_chatarra_chatarrero_restauracion_civilizatoria_ES_EN.md)
+
+### Capas y fuentes relacionadas / Related layers and sources
+
+- [Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md)
+- [NEOCore™ · marco / framework](../../README.md)
+
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-26` → [Neoaxiomas™](../../neoaxiomas/README.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->
