@@ -2,7 +2,7 @@
 
 **Estado / Status:** PUBLIC-BETA · LIVING-CATALOG  
 **Fecha / Date:** 2026-09-10  
-**Fuente estructurada / Structured source:** [`catalog.json`](./catalog.json)
+**Fuente estructurada / Structured source:** [`catalog.json`](./catalog.json) · **15 proyectos / projects**
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -20,6 +20,7 @@ La selección no implica que Innova_N, NEOCore™ o los autores externos estén 
 
 ### Neurociencia, connectómica y cerebro
 
+- **malecns · natverse** — paquete R para acceso programático a datasets recientes de Janelia FlyEM; licencia GPL ≥3 para el código del paquete.
 - **Fly Brain Minecraft** — MaleCNS convertido en una red LIF que controla una mosca en Minecraft.
 - **DOOMFLY** — experimentación MaleCNS en ViZDoom, incluida una línea de plasticidad con resultados negativos documentados.
 - **Fly64** — demostración experimental MaleCNS + Super Mario 64; su autor advierte que no debe asumirse como software científico revisado.
@@ -45,7 +46,7 @@ La selección no implica que Innova_N, NEOCore™ o los autores externos estén 
 
 ### IA para ciencia
 
-- **AlphaFold** — código abierto del método de predicción estructural de proteínas; su repositorio histórico está actualmente archivado y se conserva como referencia, no como proyecto activo.
+- **AlphaFold** — código abierto del método de predicción estructural de proteínas; su repositorio histórico está archivado y se conserva como referencia, no como proyecto activo.
 
 ## Cómo visualiza WEB4
 
@@ -90,6 +91,7 @@ Selection does not imply that Innova_N, NEOCore™ or the external authors are a
 
 ### Neuroscience, connectomics and brain
 
+- **malecns · natverse** — R package providing programmatic access to recent Janelia FlyEM datasets; GPL ≥3 licence for the package code.
 - **Fly Brain Minecraft** — MaleCNS converted into an LIF network controlling a fly inside Minecraft.
 - **DOOMFLY** — MaleCNS experimentation in ViZDoom, including a plasticity line with documented negative results.
 - **Fly64** — experimental MaleCNS + Super Mario 64 demonstration; its author warns that it should not be assumed to be reviewed scientific software.
@@ -115,7 +117,7 @@ Selection does not imply that Innova_N, NEOCore™ or the external authors are a
 
 ### AI for science
 
-- **AlphaFold** — open-source code for the protein-structure prediction method; its historical repository is currently archived and is retained as a reference rather than an active project.
+- **AlphaFold** — open-source code for the protein-structure prediction method; its historical repository is archived and retained as a reference rather than an active project.
 
 ## How WEB4 visualizes it
 
