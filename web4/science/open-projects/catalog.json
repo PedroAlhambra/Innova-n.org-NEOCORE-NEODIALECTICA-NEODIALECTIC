@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.1",
+  "schema_version": "0.2",
   "updated": "2026-09-10",
   "status": "PUBLIC_BETA_LIVING_CATALOG",
   "policy": {
@@ -11,6 +11,21 @@
     "epistemic_rule_en": "Inclusion does not imply scientific validation, affiliation or automatic integration into NEOCore™."
   },
   "projects": [
+    {
+      "id": "malecns-r",
+      "name": "malecns",
+      "github": "https://github.com/natverse/malecns",
+      "category": "neuroscience_connectomics",
+      "summary_es": "Paquete R de natverse que proporciona acceso a los datasets recientes de Janelia FlyEM y sirve de puerta programática para análisis del ecosistema MaleCNS.",
+      "summary_en": "natverse R package providing access to recent Janelia FlyEM datasets and a programmatic gateway for analysis of the MaleCNS ecosystem.",
+      "repo_status": "active",
+      "code_license": "GPL-3.0-or-later",
+      "data_license": "dataset-dependent",
+      "media_reuse": "LINK_ONLY",
+      "media_rights_source": null,
+      "evidence_state": "REPOSITORY_DESCRIPTION_AND_LICENSE_VERIFIED",
+      "last_verified": "2026-09-10"
+    },
     {
       "id": "fly-brain-minecraft",
       "name": "Fly Brain Minecraft",
