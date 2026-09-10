@@ -37,10 +37,19 @@ Las Auditorías Públicas son una **capa principal** del Neodialectica Framework
 
 ## Auditoría reciente / Latest audit
 
+- **[2026-09-10 · Addendum X CZUR ET24 Pro · hardware real, instalación dinámica y primera ejecución / real hardware, dynamic install and first runtime](./actualizaciones/2026-09-10_ADDENDUM10_DELTA_CZUR_ET24_PRO_HARDWARE_INSTALL_RUNTIME_ES_EN.md)** — confirma UVC/V4L2 y captura 7424×5568, instalación `dpkg` funcional, ausencia de servicio residente, y confirma como problemas reales de hardening 3.061 entradas world-writable y reglas udev `0666`; primera ejecución funcional provisional, con anomalía aún no caracterizada y egress normal pendiente de atribución.
 - **[2026-09-08 · Delta de síntesis: CZUR ET24 Pro en Linux · UVC funcional y auditoría del software oficial / Synthesis delta: CZUR ET24 Pro on Linux](./actualizaciones/2026-09-08_DELTA_SINTESIS_CZUR_ET24_PRO_LINUX_AUDITORIA_ES_EN.md)** — hardware UVC/V4L2 reproducido en Debian 13; software Linux oficial de CZUR contrastado; instalador propietario abierto a auditoría y endurecimiento.
-- **[2026-09-08 · Addendum CZUR `czur_create` · análisis estático / static analysis](./actualizaciones/2026-09-08_ADDENDUM_DELTA_CZUR_ET24_PRO_CZUR_CREATE_STATIC_ES_EN.md)** — ELF stripped ejecutado como root por la ruta de instalación; imports `dlopen`/`fork`/`execvp`; módulos Python HTTP/socket embebidos; empaquetado PyInstaller clasificado como hipótesis fuerte pendiente de verificación; tráfico de red no demostrado.
+- **[2026-09-08 · Addendum I CZUR `czur_create` · análisis estático / static analysis](./actualizaciones/2026-09-08_ADDENDUM_DELTA_CZUR_ET24_PRO_CZUR_CREATE_STATIC_ES_EN.md)** — ELF stripped ejecutado como root por la ruta de instalación; imports `dlopen`/`fork`/`execvp`; módulos Python HTTP/socket embebidos; empaquetado PyInstaller inicialmente clasificado como hipótesis fuerte pendiente de verificación; tráfico de red no demostrado.
+- [Addendum II · PyInstaller confirmado](./actualizaciones/2026-09-08_ADDENDUM2_DELTA_CZUR_ET24_PRO_PYINSTALLER_CONFIRMADO_ES_EN.md)
+- [Addendum III · capacidades Alibaba Cloud / OSS](./actualizaciones/2026-09-08_ADDENDUM3_DELTA_CZUR_ET24_PRO_ALIBABA_CLOUD_CAPABILITIES_ES_EN.md)
+- [Addendum IV · módulo de autorización](./actualizaciones/2026-09-09_ADDENDUM4_DELTA_CZUR_ET24_PRO_MODULE_AUTHORIZED_STATIC_ES_EN.md)
+- [Addendum V · autorización local y entrypoint `czur_create`](./actualizaciones/2026-09-09_ADDENDUM5_DELTA_CZUR_ET24_PRO_AUTORIZACION_LOCAL_Y_CZUR_CREATE_ENTRYPOINT_ES_EN.md)
+- [Addendum VI · reconstrucción raw/marshal/code object](./actualizaciones/2026-09-09_ADDENDUM6_DELTA_CZUR_ET24_PRO_RAW_MARSHAL_CODEOBJECT_ES_EN.md)
+- [Addendum VII · wrapper de autorización `czur_create`](./actualizaciones/2026-09-09_ADDENDUM7_DELTA_CZUR_ET24_PRO_AUTH_WRAPPER_CZUR_CREATE_ES_EN.md)
+- [Addendum VIII · `user_support.py` estático](./actualizaciones/2026-09-09_ADDENDUM8_DELTA_CZUR_ET24_PRO_USER_SUPPORT_STATIC_ES_EN.md)
+- [Addendum IX · `define.py`, hora de red y ruta de licencia](./actualizaciones/2026-09-09_ADDENDUM9_DELTA_CZUR_ET24_PRO_DEFINE_NETWORK_TIME_PATH_ES_EN.md)
 - [2026-08-14 · IA, escaneo destructivo, destrucción de libros y preservación cultural / AI, destructive book scanning, book destruction and cultural preservation](./auditorias/publicas/2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md)
-- [Recalculo relacionado · quejas sobre IA y arquitectura sociotécnica / Related recalculation · AI complaints and sociotechnical architecture](./analisis/publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md)
+- [Recalculo relacionado · quejas sobre IA y arquitectura sociotécnica / Related recalculation · AI complaints, sociotechnical architecture](./analisis/publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md)
 
 > **Trae el problema. Trae la prueba. Trae también la prueba que contradice tu propia hipótesis.**  
 > **Bring the problem. Bring the evidence. Bring the evidence that contradicts your own hypothesis too.**
