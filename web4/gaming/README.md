@@ -19,6 +19,7 @@ No se plantea como ranking de potencia ni como «juegos para Rocinante». **Roci
 
 - [Matriz pública completa ES/EN](../../analisis/publicos/2026-09-10_matriz_compatibilidad_gaming_vm_linux_dlss4_dlss5_ES_EN.md)
 - [Datos estructurados JSON](./compatibility.json)
+- [Síntesis Abierta · Interoperabilidad, VM y anticheat](../../propuestas/sintesis-abierta/INTEROPERABILIDAD_GAMING_VM_ANTICHEAT_PLATAFORMAS_ABIERTAS_ES_EN.md)
 
 ## 3. Estados
 
@@ -43,9 +44,9 @@ FUENTE PÚBLICA VERSIONADA
 
 La implementación viva se desarrolla en el workspace privado y esta carpeta actúa como fuente de datos, contrato de superficie y genealogía pública, no como baseline de implementación.
 
-## 5. Relación con interoperabilidad
+## 5. Interoperabilidad y proporcionalidad
 
-Los bloqueos por virtualización o sistema operativo deben registrarse como hechos técnicos por título y versión. La matriz no presupone mala fe ni declara por sí sola una infracción legal. Puede alimentar una Síntesis Abierta™ sobre interoperabilidad, anticheat y proporcionalidad de restricciones.
+Los bloqueos por virtualización o sistema operativo se registran como hechos técnicos por título y versión. La matriz no presupone mala fe ni declara por sí sola una infracción legal. La Síntesis Abierta relacionada propone contrastar alternativas en las que **VM ≠ trampa**, las restricciones sean proporcionales al riesgo demostrado y la responsabilidad se apoye preferentemente en conducta/evidencia de cuenta en lugar de exclusión automática de plataformas profesionales.
 
 ---
 
@@ -61,6 +62,7 @@ It is not framed as a performance ranking or as “games for Rocinante”. **Roc
 
 - [Complete public ES/EN matrix](../../analisis/publicos/2026-09-10_matriz_compatibilidad_gaming_vm_linux_dlss4_dlss5_ES_EN.md)
 - [Structured JSON data](./compatibility.json)
+- [Open Synthesis · Interoperability, VMs and anticheat](../../propuestas/sintesis-abierta/INTEROPERABILIDAD_GAMING_VM_ANTICHEAT_PLATAFORMAS_ABIERTAS_ES_EN.md)
 
 ## 3. States
 
@@ -85,6 +87,6 @@ VERSIONED PUBLIC SOURCE
 
 The living implementation is developed in the private workspace, while this folder acts as a public data source, surface contract and genealogy, not as the implementation baseline.
 
-## 5. Relationship with interoperability
+## 5. Interoperability and proportionality
 
-Virtualization or operating-system blocks must be recorded as technical facts per title and version. The matrix does not presume bad faith or by itself declare a legal violation. It may provide evidence for an Open Synthesis™ on interoperability, anticheat and proportionality of restrictions.
+Virtualization or operating-system blocks are recorded as technical facts per title and version. The matrix does not presume bad faith or by itself declare a legal violation. The related Open Synthesis proposes testing alternatives in which **VM ≠ cheat**, restrictions remain proportionate to demonstrated risk and accountability relies preferably on account behaviour/evidence instead of automatic exclusion of professional platforms.
