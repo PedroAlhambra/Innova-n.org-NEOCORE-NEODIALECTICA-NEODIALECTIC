@@ -175,7 +175,7 @@ El riesgo aumenta cuando el ejemplar es raro, descatalogado, de baja tirada, loc
 
 ## 7 · Contraprincipio operativo Innova_N
 
-Innova_N fija desde esta auditoría un criterio de diseño para cualquier futura **IA neodialéctica entrenada desde cero** que pueda desarrollar cuando existan recursos suficientes:
+Innova_N fija desde esta auditoría un criterio de diseño para **cualquier IA o componente de IA que desarrolle o integre dentro de la arquitectura neodialéctica**, incluidas implementaciones propias o nativas en desarrollo:
 
 1. **No destruir libros físicos como mecanismo de adquisición de datos.**
 2. Priorizar dominio público, licencias, acuerdos con autores y editoriales, repositorios legítimos y digitalizaciones ya existentes.
@@ -190,7 +190,7 @@ Innova_N fija desde esta auditoría un criterio de diseño para cualquier futura
 
 > **Una IA dedicada a ampliar conocimiento no debería necesitar disminuir el patrimonio material disponible para los humanos.**
 
-Este compromiso es una **dirección futura verificable**. No afirma que Innova_N disponga hoy de una fundación legalmente constituida, bibliotecas abiertas o capacidad propia de entrenamiento fundacional desde cero.
+Este compromiso es una **dirección de diseño verificable**. No afirma que Innova_N disponga hoy de una fundación legalmente constituida, bibliotecas abiertas o una capacidad completa de entrenamiento fundacional propio. El desarrollo de una IA nativa es una línea de implementación dentro del framework, no la definición del framework.
 
 ---
 
@@ -431,7 +431,7 @@ Risk increases when the copy is rare, out of print, low-run, local or difficult 
 
 ## 7 · Innova_N operational counter-principle
 
-From this audit, Innova_N fixes a design criterion for any future **Neodialectical AI trained from scratch** that it may develop once sufficient resources exist:
+From this audit, Innova_N fixes a design criterion for **any AI or AI component it develops or integrates within the Neodialectical architecture**, including proprietary or native implementations under development:
 
 1. **Do not destroy physical books as a data-acquisition method.**
 2. Prioritize public domain, licenses, agreements with authors and publishers, legitimate repositories and existing digitizations.
@@ -446,7 +446,7 @@ From this audit, Innova_N fixes a design criterion for any future **Neodialectic
 
 > **An AI intended to expand knowledge should not need to reduce the material cultural record available to humans.**
 
-This commitment is a **verifiable future direction**. It does not claim that Innova_N currently has a legally constituted foundation, open libraries or its own foundation-model training capability from scratch.
+This commitment is a **verifiable design direction**. It does not claim that Innova_N currently has a legally constituted foundation, open libraries or complete proprietary foundation-model training capability. Development of a native AI is one implementation line inside the framework, not the definition of the framework.
 
 ---
 
