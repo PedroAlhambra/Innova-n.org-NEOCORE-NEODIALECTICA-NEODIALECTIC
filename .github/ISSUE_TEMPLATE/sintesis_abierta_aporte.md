@@ -1,59 +1,78 @@
 ---
 name: "Síntesis Abierta · Aporte"
-about: "Presentar una adhesión, crítica, evidencia, experiencia, revisión o alternativa trazable"
+about: "Aporta una perspectiva, evidencia, ejemplo, corrección, pregunta, crítica o propuesta sin necesidad de dominar todo el marco"
 title: "[SAN] "
 labels: []
 assignees: []
 ---
 
-## Tipo / Type
+## Empieza por aquí / Start here
 
-ADHESIÓN / ADHESIÓN PARCIAL / CRÍTICA / ALTERNATIVA / EVIDENCIA / EXPERIENCIA / REVISIÓN / IMPLEMENTACIÓN
+**No necesitas comprender todo el marco ni formular un delta para aportar.** Basta con una pieza útil y comprensible sobre el objeto: una perspectiva, contexto, ejemplo, fuente, evidencia, prueba, contraejemplo, corrección, ambigüedad, relación que falta, pregunta o propuesta.
 
-ENDORSEMENT / PARTIAL ENDORSEMENT / CRITICISM / ALTERNATIVE / EVIDENCE / EXPERIENCE / REVIEW / IMPLEMENTATION
+**You do not need to understand the whole framework or formulate a delta in order to contribute.** One useful and understandable piece is enough: a perspective, context, example, source, evidence, test, counterexample, correction, ambiguity, missing relation, question or proposal.
 
-## Identidad / Identity
+`APORTAR ≠ SER VALIDADO` · `CONTRIBUTING ≠ BEING VALIDATED`
 
-**Nombre o alias / Name or alias:**  
-**País o contexto / Country or context:** opcional / optional
+## Qué quieres aportar / What do you want to contribute?
+
+PERSPECTIVA / CONTEXTO / EJEMPLO / FUENTE / EVIDENCIA / PRUEBA / CONTRAEJEMPLO / CORRECCIÓN / AMBIGÜEDAD / RELACIÓN / PREGUNTA / CRÍTICA / ALTERNATIVA / EXPERIENCIA / IMPLEMENTACIÓN / OTRO
+
+PERSPECTIVE / CONTEXT / EXAMPLE / SOURCE / EVIDENCE / TEST / COUNTEREXAMPLE / CORRECTION / AMBIGUITY / RELATION / QUESTION / CRITICISM / ALTERNATIVE / EXPERIENCE / IMPLEMENTATION / OTHER
 
 ## Objeto / Object
 
-**Síntesis o manifiesto / Synthesis or manifesto:**  
-**Objeto concreto / Specific object:**  
-**Alcance / Scope:** PARTE DEL SISTEMA / MARCO COMPLETO · PART OF THE SYSTEM / COMPLETE FRAMEWORK
+**Síntesis, manifiesto, neoaxioma, análisis o tema afectado / Affected synthesis, manifesto, neoaxiom, analysis or topic:**  
 
-## Tesis / Thesis
+## Tu aporte, con tus palabras / Your contribution, in your own words
 
 
-## Lectura y comprensión / Reading and understanding
+## Fuente, prueba o experiencia si existe / Source, evidence or experience if available
 
-**Qué he leído o estudiado / What I have read or studied:**
+No es obligatorio tener una prueba completa para abrir contraste. Si una afirmación depende de datos verificables, añade la fuente cuando la tengas o indica qué falta.
+
+A complete proof is not required to open scrutiny. If a claim depends on verifiable data, add the source when available or indicate what is missing.
+
+## Qué no sabes todavía / What remains uncertain
+
+Opcional. Separar incertidumbre de hecho ayuda, pero escribir `NO SÉ / I DON'T KNOW` es válido.
+
+Optional. Separating uncertainty from fact helps, but `NO SÉ / I DON'T KNOW` is a valid answer.
+
+---
+
+## Para profundizar · opcional / To go deeper · optional
+
+Esta parte **no es una barrera de entrada**. Úsala si puedes ayudar a llevar el aporte hacia una refutación, reparación o fijación más rigurosa.
+
+This section **is not an entry barrier**. Use it if you can help take the contribution toward stronger refutation, repair or fixation.
+
+### Lectura y relaciones / Reading and relations
+
+**Qué parte has leído o qué nodo relacionas / What have you read or which node do you relate:**
 
 
-## Competencia, experiencia o profundidad / Competence, experience or depth
+### Hipótesis alternativas o contraejemplos / Alternative hypotheses or counterexamples
 
 
-## Qué apoyo / What I support
+### Qué cambiaría si el aporte sobrevive al contraste / What would change if the contribution survives scrutiny
 
 
-## Qué cambiaría / What I would change
+### Delta propuesto / Proposed delta
 
+Opcional. El delta puede construirse durante la propia Síntesis Abierta.  
+Optional. The delta may be constructed during Open Synthesis itself.
 
-## Delta propuesto / Proposed delta
+### Genealogía o procedencia / Genealogy or provenance
 
+Si la conoces. / If known.
 
-## Riesgo principal / Main risk
+### Riesgos o límites / Risks or limits
 
-
-## Fuentes / Sources
-
-Obligatorias cuando la afirmación dependa de datos verificables.  
-Required when the claim depends on verifiable data.
 
 ## Uso material de IA / Material use of AI
 
-NO / SÍ, con explicación · NO / YES, with explanation
+NO / SÍ, con explicación cuando sea relevante · NO / YES, with explanation where relevant
 
 ## Permisos / Permissions
 
@@ -62,6 +81,18 @@ NO / SÍ, con explicación · NO / YES, with explanation
 
 ---
 
-Al enviar esta aportación declaro que comprendo su contenido y puedo explicar y defender el razonamiento presentado, incluido cualquier texto elaborado con asistencia de IA.
+## Qué ocurre después / What happens next
 
-By submitting this contribution, I declare that I understand its content and can explain and defend the reasoning presented, including any text produced with AI assistance.
+La aportación entra a contraste. Puede integrarse, integrarse parcialmente, conservarse como disenso/contexto, quedar pendiente de evidencia, producir `NO-DELTA` o justificar una resíntesis.
+
+**Cerrar la Issue no convierte la síntesis en definitiva.** Nueva evidencia, un contraejemplo, una corrección o una relación materialmente relevante pueden justificar reevaluación y nueva resíntesis.
+
+The contribution enters scrutiny. It may be integrated, partially integrated, preserved as dissent/context, remain pending evidence, produce `NO-DELTA`, or justify resynthesis.
+
+**Closing the Issue does not make the synthesis final.** New evidence, a counterexample, a correction or a materially relevant relation may justify reevaluation and a new resynthesis.
+
+Regla completa / Full rule: `propuestas/sintesis-abierta/CIERRE_REAPERTURA_RESINTESIS_ES_EN.md`
+
+Al enviar esta aportación declaro que comprendo el contenido que presento y puedo explicar qué parte procede de mi observación, de otras fuentes o de asistencia de IA cuando esa distinción sea material.
+
+By submitting this contribution, I declare that I understand the content I present and can explain which part comes from my observation, other sources or AI assistance when that distinction is material.
