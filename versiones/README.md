@@ -1,8 +1,8 @@
 # NEOCore™ · versiones / versions
 
-**Versión vigente / Current version:** **7.3.4**  
+**Versión vigente / Current version:** **7.3.5**  
 **Estado / Status:** **CANON ABIERTO · CANÓNICO Y REABRIBLE / OPEN CANON · CANONICAL AND REOPENABLE**  
-**Fecha / Date:** 2026-09-06
+**Fecha / Date:** 2026-09-11
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
@@ -46,17 +46,22 @@ CURRENT_VERSION ≠ HISTORICAL_VERSION
 
 ## Versión vigente
 
-### 7.3.4 · Maduración Neoaxiomática Ágil y Reapertura Permanente™
+### 7.3.5 · Entrada Progresiva a Síntesis y Resíntesis Trazable
 
-7.3.4 hereda íntegramente 7.3.3 y fija como delta material una evolución del régimen de maduración neoaxiomática: los C-NAX nuevos disponen de **7 días naturales** de ventana de contraste antes de poder fijarse por silencio procedimental, mientras SAN™ permanece permanentemente abierta.
+7.3.5 hereda íntegramente 7.3.4 y fija como delta material una normalización transversal de **Síntesis Abierta™ / SAN™** orientada al uso externo: separa el umbral de entrada de una aportación del umbral de integración/fijación, hace explícita la entrada simple por evidencia, caso, corrección, perspectiva, prueba, relación o pregunta, y conserva el rigor completo para el contraste y la fijación.
 
-El backlog histórico C-NAX-15–C-NAX-29 tuvo una ventana transitoria excepcional hasta **2026-09-08 12:33 Europe/Madrid (CEST)**. La revisión individual de sus SAN confirmó que al corte no constaba respuesta externa sustantiva; por efecto de la regla transitoria quedaron **fijados como NAX-15–NAX-29 con esa fecha normativa**, manteniendo abiertas sus SAN y preservando los C-NAX como genealogía. C-NAX-30, abierto el 2026-09-10, sigue la ventana ordinaria de 7 días. `SILENCIO ≠ VALIDACIÓN · FIJAR ≠ CERRAR · CANON ≠ DOGMA`.
+También fija que `ISSUE_CLOSED != SYNTHESIS_FINAL`: cerrar una Issue es un corte operativo versionado, no un cierre epistemológico definitivo. Una aportación material nueva puede justificar reevaluación y posible resíntesis sin implicar aceptación automática.
 
-[Detalle de 7.3.4](./NEOCORE_7_3_4_ES_EN.md) · [Regla 7 días + transición](../propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_7_DIAS_Y_TRANSICION_2026_ES_EN.md)
+La versión incorpora además como **delta abierto**, no como nuevo Neoaxioma canónico, el contraste `FORMA DE GÉNESIS ≠ VALIDEZ DEL APORTE`, relacionado con el Manifiesto XLV y NAX-03/NAX-16. La colaboración en equipo puede ser fértil o necesaria en muchos casos, pero no se adopta como condición universal de origen, creatividad, verdad o legitimidad.
+
+La futura proyección de estas mejoras en WEB4™ debe seguir su propio contrato, versionado y pruebas. Publicar 7.3.5 no declara por sí mismo actualizado `innova-n.org`.
+
+[Detalle de 7.3.5](./NEOCORE_7_3_5_ES_EN.md) · [Cierre, reapertura y resíntesis](../propuestas/sintesis-abierta/CIERRE_REAPERTURA_RESINTESIS_ES_EN.md) · [Delta Forma de Génesis ≠ Validez](../propuestas/sintesis-abierta/2026-09-11_DELTA_FORMA_GENESIS_VALIDEZ_ES_EN.md)
 
 ## Histórico
 
-- **7.3.4** · actual · maduración neoaxiomática ágil de 7 días + transición del backlog ya resuelta en NAX-15–NAX-29 + reapertura permanente SAN™.
+- **7.3.5** · actual · entrada progresiva a SAN™, separación entrada/integración, cierre operativo reabrible y delta abierto sobre forma de génesis y validez.
+- **7.3.4** · maduración neoaxiomática ágil de 7 días + transición del backlog resuelta en NAX-15–NAX-29 + reapertura permanente SAN™.
 - **7.3.3** · evolución modular WEB4™ verificada + arquitectura social de nodos y aportes trazables.
 - **7.3.2** · política de referencia única y simplificación documental; base inmediata de 7.3.3.
 - **7.3** · canon abierto promovido el 2026-08-26; conserva su documento específico como registro de esa fijación.
@@ -65,6 +70,7 @@ El backlog histórico C-NAX-15–C-NAX-29 tuvo una ventana transitoria excepcion
 
 Documentos históricos relevantes:
 
+- [Detalle de 7.3.4](./NEOCORE_7_3_4_ES_EN.md)
 - [Detalle de 7.3.3](./NEOCORE_7_3_3_ES_EN.md)
 - [Detalle de 7.3.2](./NEOCORE_7_3_2_ES_EN.md)
 - [Canon 7.3](../propuestas/sintesis-abierta/NEOCORE_7_3_CANON_ES_EN.md)
@@ -112,17 +118,22 @@ CURRENT_VERSION ≠ HISTORICAL_VERSION
 
 ## Current version
 
-### 7.3.4 · Agile Neoaxiomatic Maturation and Permanent Reopening™
+### 7.3.5 · Progressive Synthesis Entry and Traceable Resynthesis
 
-7.3.4 fully inherits 7.3.3 and fixes as a material delta an evolution of the neoaxiomatic maturation regime: new C-NAX candidates receive a **7-calendar-day** scrutiny window before procedural fixation by silence may occur, while SAN™ remains permanently open.
+7.3.5 fully inherits 7.3.4 and fixes as a material delta a cross-cutting normalisation of **Open Synthesis™ / SAN™** for external use: it separates the contribution-entry threshold from the integration/fixation threshold, makes simple entry through evidence, case, correction, perspective, test, relation or question explicit, and preserves full rigour for scrutiny and fixation.
 
-The historical C-NAX-15–C-NAX-29 backlog had an exceptional transition window ending **2026-09-08 12:33 Europe/Madrid (CEST)**. Individual review of their SAN nodes confirmed that no external substantive response was recorded by the cutoff; under the transitional rule they were therefore **fixed as NAX-15–NAX-29 with that normative date**, while their SAN routes remain open and the C-NAX forms are preserved as genealogy. C-NAX-30, opened on 2026-09-10, follows the ordinary 7-day window. `SILENCE ≠ VALIDATION · FIXATION ≠ CLOSURE · CANON ≠ DOGMA`.
+It also fixes `ISSUE_CLOSED != SYNTHESIS_FINAL`: closing an Issue is a versioned operational cut, not a definitive epistemic closure. A new material contribution may justify reevaluation and possible resynthesis without implying automatic acceptance.
 
-[7.3.4 detail](./NEOCORE_7_3_4_ES_EN.md) · [7-day + transition rule](../propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_7_DIAS_Y_TRANSICION_2026_ES_EN.md)
+The version additionally incorporates as an **open delta**, not as a new canonical Neoaxiom, the scrutiny `GENESIS FORM ≠ CONTRIBUTION VALIDITY`, related to Manifesto XLV and NAX-03/NAX-16. Team collaboration may be fertile or necessary in many cases, but it is not adopted as a universal condition of origin, creativity, truth or legitimacy.
+
+Future projection of these improvements into WEB4™ must follow its own contract, versioning and tests. Publishing 7.3.5 does not by itself declare `innova-n.org` updated.
+
+[7.3.5 detail](./NEOCORE_7_3_5_ES_EN.md) · [Closure, reopening and resynthesis](../propuestas/sintesis-abierta/CIERRE_REAPERTURA_RESINTESIS_ES_EN.md) · [Genesis Form ≠ Validity delta](../propuestas/sintesis-abierta/2026-09-11_DELTA_FORMA_GENESIS_VALIDEZ_ES_EN.md)
 
 ## History
 
-- **7.3.4** · current · 7-day agile neoaxiomatic maturation + backlog transition resolved as NAX-15–NAX-29 + permanent SAN™ reopening.
+- **7.3.5** · current · progressive SAN™ entry, entry/integration separation, reopenable operational closure and open delta on genesis form and validity.
+- **7.3.4** · 7-day agile neoaxiomatic maturation + backlog transition resolved as NAX-15–NAX-29 + permanent SAN™ reopening.
 - **7.3.3** · verified WEB4™ modular evolution + social architecture of traceable nodes and contributions.
 - **7.3.2** · single-reference policy and documentary simplification; immediate base of 7.3.3.
 - **7.3** · open canon promoted on 2026-08-26; its version-specific document remains as the record of that fixation.
@@ -131,6 +142,7 @@ The historical C-NAX-15–C-NAX-29 backlog had an exceptional transition window 
 
 Relevant historical documents:
 
+- [7.3.4 detail](./NEOCORE_7_3_4_ES_EN.md)
 - [7.3.3 detail](./NEOCORE_7_3_3_ES_EN.md)
 - [7.3.2 detail](./NEOCORE_7_3_2_ES_EN.md)
 - [7.3 Canon](../propuestas/sintesis-abierta/NEOCORE_7_3_CANON_ES_EN.md)
