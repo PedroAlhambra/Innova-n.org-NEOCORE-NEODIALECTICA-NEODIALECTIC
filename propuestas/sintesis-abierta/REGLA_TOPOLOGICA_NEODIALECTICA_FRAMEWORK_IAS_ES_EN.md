@@ -39,9 +39,9 @@ MEJORA_DE_UN_COMPONENTE => PUEDE_MEJORAR_EL_SISTEMA
 MEJORA_DE_UN_COMPONENTE != SOBERANÍA_DEL_SISTEMA
 ```
 
-## 3. El sistema ya opera
+## 3. El sistema opera en Síntesis Abierta desde NEOCore™ v3
 
-La operación neodialéctica no espera a que exista un modelo único que concentre todas las funciones. Ya puede producirse mediante humanos, IAs, memoria pública, documentos versionados, Issues, trazabilidad, contraste y Síntesis Abierta™.
+La operación neodialéctica no es una capacidad recién introducida por esta corrección ni espera a que exista un modelo único que concentre todas las funciones. **NEOCore™ opera mediante Síntesis Abierta desde la familia v3**; desde entonces su evolución, ampliación y formalización pueden seguirse públicamente mediante documentos, Issues, versiones y commits. La operación puede distribuirse entre humanos, IAs, memoria pública, trazabilidad y contraste.
 
 ```text
 NODOS HUMANOS + NODOS IA
@@ -105,9 +105,9 @@ COMPONENT_IMPROVEMENT => MAY_IMPROVE_THE_SYSTEM
 COMPONENT_IMPROVEMENT != SYSTEM_SOVEREIGNTY
 ```
 
-## 3. The system already operates
+## 3. The system has operated through Open Synthesis since NEOCore™ v3
 
-Neodialectical operation does not wait for a single model that concentrates every function. It can already occur through humans, AIs, public memory, versioned documents, Issues, traceability, scrutiny and Open Synthesis™.
+Neodialectical operation is not a capability newly introduced by this correction, nor does it wait for a single model concentrating every function. **NEOCore™ has operated through Open Synthesis since the v3 family**; its subsequent evolution, expansion and formalisation can be followed publicly through documents, Issues, versions and commits. Operation may be distributed across humans, AIs, public memory, traceability and scrutiny.
 
 ```text
 HUMAN_NODES + AI_NODES
