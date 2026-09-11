@@ -5,6 +5,8 @@
 **Fecha / Date:** 2026-09-11  
 **Ámbito / Scope:** Issues, manifiestos, neoaxiomas, análisis, auditorías y síntesis públicas / public Issues, manifestos, neoaxioms, analyses, audits and syntheses
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 > **APORTAR DEBE SER FÁCIL. VALIDAR E INTEGRAR PUEDE SER EXIGENTE.**  
 > **CONTRIBUTING SHOULD BE EASY. VALIDATION AND INTEGRATION MAY BE DEMANDING.**
 
