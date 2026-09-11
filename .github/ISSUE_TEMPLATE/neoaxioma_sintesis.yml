@@ -1,14 +1,16 @@
 name: Síntesis Abierta · Neoaxioma™ / Open Synthesis · Neoaxiom™
-description: Contraste público de un Neoaxioma™ del NEOCore™ / Public scrutiny of a NEOCore™ Neoaxiom™
+description: Aporta una perspectiva, evidencia, ejemplo, prueba, corrección o crítica sobre un Neoaxioma™. / Contribute a perspective, evidence, example, test, correction or criticism concerning a Neoaxiom™.
 title: "Síntesis Abierta / Open Synthesis · NAX-XX · "
 labels: []
 body:
   - type: markdown
     attributes:
       value: |
-        Utiliza esta plantilla para aportar crítica, contraejemplo, evidencia, riesgo, implementación o propuesta de delta sobre un Neoaxioma™. La apertura de una aportación no implica su aceptación.
+        **No necesitas dominar todo NEOCore™ ni proponer un delta para participar.** Una perspectiva, caso, fuente, prueba, contraejemplo, corrección, ambigüedad o pregunta relevante ya puede abrir contraste.
 
-        Use this template to contribute criticism, a counterexample, evidence, risk, implementation or a proposed delta concerning a Neoaxiom™. Opening a contribution does not imply its acceptance.
+        **You do not need to master all of NEOCore™ or propose a delta in order to participate.** A perspective, case, source, test, counterexample, correction, ambiguity or relevant question can already open scrutiny.
+
+        `APORTAR ≠ VALIDAR` · `CONTRIBUTING ≠ VALIDATING`
   - type: input
     id: neoaxioma
     attributes:
@@ -16,20 +18,62 @@ body:
       description: Identificador y título, por ejemplo NAX-01. / Identifier and title, for example NAX-01.
     validations:
       required: true
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: ¿Qué quieres aportar? / What do you want to contribute?
+      options:
+        - Punto de vista o contexto · Perspective or context
+        - Ejemplo o caso · Example or case
+        - Fuente o evidencia · Source or evidence
+        - Prueba o medición · Test or measurement
+        - Contraejemplo · Counterexample
+        - Corrección · Correction
+        - Ambigüedad o definición confusa · Ambiguity or unclear definition
+        - Relación con otra parte del corpus · Relation to another corpus node
+        - Pregunta · Question
+        - Crítica o alternativa · Criticism or alternative
+        - Implementación o reparación · Implementation or repair
+        - No sé cómo clasificarlo todavía · I do not yet know how to classify it
+    validations:
+      required: true
   - type: textarea
     id: aporte
     attributes:
-      label: Aporte / Contribution
-      description: Expón el argumento completo. No sustituyas fuentes por resúmenes si son necesarias para evaluar el punto. / State the full argument. Do not replace sources with summaries when the sources are necessary to evaluate the point.
+      label: Tu aporte, con tus palabras / Your contribution, in your own words
+      description: Explica qué añades, cuestionas o has observado. No necesitas terminología neodialéctica. / Explain what you add, question or observed. Neodialectical terminology is not required.
     validations:
       required: true
   - type: textarea
     id: evidencia
     attributes:
-      label: Evidencia, fuentes o contraejemplos / Evidence, sources or counterexamples
-      description: Enlaces, datos, casos, pruebas, implementación o referencias verificables. / Links, data, cases, tests, implementation or verifiable references.
+      label: Fuente, evidencia, prueba o experiencia si existe / Source, evidence, test or experience if available
+      description: Añádela si la tienes. Si falta, puedes indicar qué habría que comprobar. / Add it if you have it. If it is missing, you may state what would need to be checked.
+  - type: markdown
+    attributes:
+      value: |
+        ### Para profundizar · opcional / To go deeper · optional
+        Lo siguiente ayuda a refutar, reparar o fijar un delta, pero **no es una barrera de entrada**. / The following helps refute, repair or fix a delta, but **is not an entry barrier**.
   - type: textarea
     id: relacion
     attributes:
       label: Relaciones con otros Neoaxiomas, manifiestos o publicaciones / Relations with other Neoaxioms, manifestos or publications
       description: Indica vínculos relevantes si los conoces. / Indicate relevant links if you know them.
+  - type: textarea
+    id: alternativas
+    attributes:
+      label: Hipótesis alternativas, límites o falsadores / Alternative hypotheses, limits or falsifiers
+      description: Opcional. / Optional.
+  - type: textarea
+    id: delta
+    attributes:
+      label: Delta posible si el aporte sobrevive al contraste / Possible delta if the contribution survives scrutiny
+      description: Opcional; puede construirse durante la propia Síntesis Abierta. / Optional; it may be constructed during Open Synthesis itself.
+  - type: markdown
+    attributes:
+      value: |
+        **Cierre de Issue ≠ síntesis final.** Nueva evidencia, un contraejemplo, una corrección o una relación materialmente relevante pueden justificar reevaluación y resíntesis.
+
+        **Issue closure ≠ final synthesis.** New evidence, a counterexample, a correction or a materially relevant relation may justify reevaluation and resynthesis.
+
+        Regla completa / Full rule: `propuestas/sintesis-abierta/CIERRE_REAPERTURA_RESINTESIS_ES_EN.md`
