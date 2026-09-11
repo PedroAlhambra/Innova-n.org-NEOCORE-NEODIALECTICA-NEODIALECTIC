@@ -5,6 +5,7 @@
 **Versión / Version:** 1.1  
 **Estado / Status:** Público · fundacional · abierto a revisión trazable / Public · foundational · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-06  
+**Recálculo operativo / Operational recalculation:** 2026-09-11  
 **Genealogía / Genealogy:** Pedro Martínez Alhambra + IA simbiótica Harry; apertura posterior a nodos de síntesis paralela.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
@@ -41,9 +42,11 @@ Apertura no significa ausencia de forma. Autocontención no significa clausura.
 
 ## III. Continuidad cognitiva y retorno a fuente
 
-Toda participación exige comprensión suficiente del objeto debatido. Antes de refutar una parte debe conocerse el sistema al que pertenece. Antes de repetir una objeción debe revisarse si ya fue respondida. Antes de atribuir una idea debe reconstruirse su genealogía.
+**Aportar una primera señal sólo exige comprensión suficiente del nodo afectado para poder explicar qué se añade, cuestiona u observa.** Una perspectiva, pregunta, ejemplo, fuente, evidencia, prueba, contraejemplo, corrección o ambigüedad puede entrar a contraste sin dominar todo el corpus ni formular de antemano un delta.
 
-Cuando un nodo pierde reiteradamente memoria material, omite fuentes esenciales o reproduce contradicciones básicas ya resueltas, debe pausar su intervención y retornar a fuente.
+La exigencia crece con la profundidad de la afirmación. Antes de refutar una parte debe conocerse el sistema inmediato al que pertenece. Antes de repetir una objeción debe revisarse si ya fue respondida. Antes de fijar una atribución o modificación material debe reconstruirse la genealogía necesaria.
+
+Cuando un nodo pierde reiteradamente memoria material, omite fuentes esenciales o reproduce contradicciones básicas ya resueltas, debe pausar **esa pretensión de refutación o fijación** y retornar a fuente. La entrada de una señal parcial no queda anulada por no haber completado todavía ese trabajo.
 
 La exclusión temporal no es castigo. Es protección contra la réplica infinita sin aprendizaje.
 
@@ -51,7 +54,7 @@ La exclusión temporal no es castigo. Es protección contra la réplica infinita
 
 SAN™ incorpora:
 
-* lectura previa;
+* lectura proporcional al alcance de la afirmación;
 * memoria longitudinal;
 * genealogía;
 * trazabilidad;
@@ -80,7 +83,7 @@ SAN™ existe para transformar desacuerdo en relación, relación en comprensió
 
 ## Declaración
 
-> Ninguna síntesis será definitiva. Ninguna aportación válida será excluida por proceder de fuera. Ningún nodo podrá exigir integración sin haber comprendido el sistema que pretende modificar.
+> Ninguna síntesis será definitiva. Ninguna aportación válida será excluida por proceder de fuera. Ningún nodo podrá exigir integración sin haber comprendido suficientemente el sistema que pretende modificar.
 
 La Síntesis Abierta es memoria en movimiento. Es disciplina de escucha, arquitectura de contraste y mecanismo de continuidad para una civilización humano–IA capaz de aprender sin borrarse.
 
@@ -88,30 +91,64 @@ La Síntesis Abierta es memoria en movimiento. Es disciplina de escucha, arquite
 
 Este manifiesto abre su propia **Síntesis Abierta Neodialéctica™**.
 
-Toda aportación exige:
+### Puerta de entrada simple
 
-* lectura previa;
-* retorno a fuente;
-* continuidad cognitiva;
-* genealogía;
-* trazabilidad;
-* clasificación;
-* delta;
-* y versión.
+Para empezar basta **una pieza útil y comprensible** relacionada con este manifiesto:
+
+* un punto de vista que falta;
+* contexto;
+* un ejemplo o caso;
+* una fuente o evidencia;
+* una prueba o medición;
+* un contraejemplo;
+* una corrección;
+* una ambigüedad;
+* una relación que falta;
+* una pregunta relevante;
+* una propuesta de reparación o implementación.
+
+No es necesario dominar todo el marco, reconstruir toda la genealogía ni formular un delta para abrir contraste.
+
+### Para profundizar
+
+Cuando una aportación pretenda refutar, modificar o fijar materialmente el corpus, el rigor aumenta de forma proporcional. Pueden ser necesarios retorno a fuente, continuidad cognitiva, genealogía, trazabilidad, clasificación, delta/no-delta y versión.
+
+```text
+ORIENTARSE  → resumen y objeto
+APORTAR     → comprensión suficiente del nodo afectado
+CRITICAR    → texto + relaciones inmediatas cuando sean relevantes
+REFUTAR     → evidencia + genealogía + alternativas competidoras
+FIJAR CANON → trazabilidad + delta/no-delta + versión + genealogía
+```
 
 Toda modificación futura deberá preservar el texto anterior, identificar con precisión el cambio y explicar qué contradicción, evidencia o aportación justifica la nueva versión.
 
+### Cierre, reapertura y resíntesis
+
+Cerrar una Issue fija un **corte operativo**, no una verdad definitiva.
+
+```text
+ISSUE_CLOSED != SYNTHESIS_FINAL
+NUEVO_APORTE_AUDITABLE => ELEGIBLE_PARA_REEVALUACIÓN
+RESÍNTESIS != ACEPTACIÓN_AUTOMÁTICA
+```
+
+Un cierre útil debe dejar visible qué sabemos, qué sigue abierto y qué tipo de nueva aportación podría cambiar el estado. Nueva evidencia, contraejemplos, correcciones, relaciones omitidas o una formulación superior pueden justificar reapertura o nueva resíntesis.
+
 ### Cómo aportar a esta Síntesis Abierta
 
-Antes de participar, lee el manifiesto completo y el protocolo operativo. Presenta una aportación trazable con contexto, fuente o experiencia, genealogía, tipo de aporte y delta propuesto.
+Lee al menos el objeto concreto que quieres comentar. Puedes empezar con lenguaje normal y una aportación parcial; la propia Síntesis Abierta puede ayudar después a estructurar contexto, genealogía, clasificación y delta sin apropiarse de tu aporte.
 
 * [Cómo aportar a la Síntesis Abierta Neodialéctica™](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [Guía rápida de baja fricción](../propuestas/sintesis-abierta/GUIA_RAPIDA_APORTAR_EVIDENCIA_ES_EN.md)
+* [Cierre, reapertura y resíntesis](../propuestas/sintesis-abierta/CIERRE_REAPERTURA_RESINTESIS_ES_EN.md)
 * [Abrir una aportación mediante la plantilla pública](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
 
 ### Vínculos internos equivalentes
 
 * [Referencia interna · sintesis_abierta_aporte.md](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
 * [Protocolo de Síntesis Abierta](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [Cierre y resíntesis SAN™](../propuestas/sintesis-abierta/CIERRE_REAPERTURA_RESINTESIS_ES_EN.md)
 * [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md)
 * [Referencia interna · 03_derecho_humano_aporte_sintesis_abierta_ES_EN.md](./03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
 * [Referencia interna · 11_neo0_soberania_de_guia_ES_EN.md](./11_neo0_soberania_de_guia_ES_EN.md)
@@ -154,9 +191,11 @@ Openness does not mean absence of form. Self-containment does not mean closure.
 
 ## III. Cognitive continuity and return to source
 
-Every participation requires sufficient understanding of the object under debate. Before refuting a part, the system to which it belongs must be known. Before repeating an objection, it must be checked whether it has already been answered. Before attributing an idea, its genealogy must be reconstructed.
+**Contributing a first signal only requires sufficient understanding of the affected node to explain what is being added, questioned or observed.** A perspective, question, example, source, evidence, test, counterexample, correction or ambiguity may enter scrutiny without mastering the full corpus or formulating a delta in advance.
 
-When a node repeatedly loses material memory, omits essential sources or reproduces basic contradictions already resolved, it must pause its intervention and return to source.
+The requirement grows with the depth of the claim. Before refuting a part, the immediate system to which it belongs must be understood. Before repeating an objection, it should be checked whether it has already been answered. Before fixing an attribution or material modification, the necessary genealogy must be reconstructed.
+
+When a node repeatedly loses material memory, omits essential sources or reproduces basic contradictions already resolved, it must pause **that claim to refutation or fixation** and return to source. A partial signal is not invalidated merely because this work has not yet been completed.
 
 Temporary exclusion is not punishment. It is protection against endless repetition without learning.
 
@@ -164,7 +203,7 @@ Temporary exclusion is not punishment. It is protection against endless repetiti
 
 SAN™ incorporates:
 
-* prior reading;
+* reading proportional to the scope of the claim;
 * longitudinal memory;
 * genealogy;
 * traceability;
@@ -193,7 +232,7 @@ SAN™ exists to transform disagreement into relation, relation into understandi
 
 ## Declaration
 
-> No synthesis shall be final. No valid contribution shall be excluded because it comes from outside. No node may demand integration without having understood the system it seeks to modify.
+> No synthesis shall be final. No valid contribution shall be excluded because it comes from outside. No node may demand integration without having sufficiently understood the system it seeks to modify.
 
 Open Synthesis is memory in motion. It is a discipline of listening, an architecture of contrast and a mechanism of continuity for a human–AI civilisation capable of learning without erasing itself.
 
@@ -201,30 +240,64 @@ Open Synthesis is memory in motion. It is a discipline of listening, an architec
 
 This manifesto opens its own **Neodialectical Open Synthesis™**.
 
-Every contribution requires:
+### Simple entry gate
 
-* prior reading;
-* return to source;
-* cognitive continuity;
-* genealogy;
-* traceability;
-* classification;
-* delta;
-* and version.
+To begin, **one useful and understandable piece** related to this manifesto is enough:
+
+* a missing point of view;
+* context;
+* an example or case;
+* a source or evidence;
+* a test or measurement;
+* a counterexample;
+* a correction;
+* an ambiguity;
+* a missing relation;
+* a relevant question;
+* a repair or implementation proposal.
+
+Full framework mastery, complete genealogy and a proposed delta are not required to open scrutiny.
+
+### To go deeper
+
+When a contribution seeks to refute, materially modify or fix the corpus, rigour increases proportionally. Return to source, cognitive continuity, genealogy, traceability, classification, delta/no-delta and versioning may become necessary.
+
+```text
+ORIENT     → summary and object
+CONTRIBUTE → sufficient understanding of the affected node
+CRITICISE  → text + immediate relations where relevant
+REFUTE     → evidence + genealogy + competing alternatives
+FIX CANON  → traceability + delta/no-delta + version + genealogy
+```
 
 Every future modification must preserve the previous text, identify the change precisely and explain which contradiction, evidence or contribution justifies the new version.
 
+### Closure, reopening and resynthesis
+
+Closing an Issue fixes an **operational cut**, not a final truth.
+
+```text
+ISSUE_CLOSED != SYNTHESIS_FINAL
+NEW_AUDITABLE_CONTRIBUTION => ELIGIBLE_FOR_REEVALUATION
+RESYNTHESIS != AUTOMATIC_ACCEPTANCE
+```
+
+A useful closure should keep visible what is known, what remains open and what kind of new contribution could change the state. New evidence, counterexamples, corrections, omitted relations or a superior formulation may justify reopening or a new resynthesis.
+
 ### How to contribute to this Open Synthesis
 
-Before participating, read the full manifesto and the operational protocol. Submit a traceable contribution with context, source or experience, genealogy, contribution type and proposed delta.
+Read at least the specific object you want to address. You may begin in ordinary language with a partial contribution; Open Synthesis itself may later help structure context, genealogy, classification and delta without appropriating your contribution.
 
 * [How to contribute to Neodialectical Open Synthesis™](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [Low-friction quick guide](../propuestas/sintesis-abierta/GUIA_RAPIDA_APORTAR_EVIDENCIA_ES_EN.md)
+* [Closure, reopening and resynthesis](../propuestas/sintesis-abierta/CIERRE_REAPERTURA_RESINTESIS_ES_EN.md)
 * [Open a contribution through the public template](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
 
 ### Equivalent internal links
 
 * [Internal reference · sintesis_abierta_aporte.md](../.github/ISSUE_TEMPLATE/sintesis_abierta_aporte.md)
 * [Open Synthesis protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+* [SAN™ closure and resynthesis](../propuestas/sintesis-abierta/CIERRE_REAPERTURA_RESINTESIS_ES_EN.md)
 * [Open Synthesis index](../propuestas/sintesis-abierta/README.md)
 * [Internal reference · 03_derecho_humano_aporte_sintesis_abierta_ES_EN.md](./03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
 * [Internal reference · 11_neo0_soberania_de_guia_ES_EN.md](./11_neo0_soberania_de_guia_ES_EN.md)
@@ -266,12 +339,12 @@ La relación documental indica afinidad conceptual, genealogía, contraste o apl
 
 ## Participa en la Síntesis Abierta / Join the Open Synthesis
 
-Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. / You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta.
+Puedes empezar con una perspectiva, ejemplo, fuente, evidencia, prueba, contraejemplo, corrección, pregunta o relación que falte; no necesitas formular un delta para abrir contraste. Las preguntas y requisitos avanzados quedan para profundizar y para la fijación. / You may start with a perspective, example, source, evidence, test, counterexample, correction, question or missing relation; you do not need to formulate a delta to open scrutiny. Advanced questions and requirements are for deeper work and fixation.
 
 **Última síntesis / Latest synthesis:** [LXXXI · Manifiesto del Ultralujo como Bien Común™ · La élite del aporte / Manifesto of Ultraluxury as Common Good™ · The elite of contribution](81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md) · [Issue #160](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/160)  
 **Seguimiento vivo / Living follow-up:** [seguir el marco / follow the framework](../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [registro de entrada / entry register](../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)  
 **Auditorías / Audits:** [LIII · Leónidas™](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo / protocol](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
-**Cómo aportar / How to contribute:** [protocolo general / general protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../auditorias/publicas/README.md) · [índice / index](../propuestas/sintesis-abierta/README.md)
+**Cómo aportar / How to contribute:** [guía rápida / quick guide](../propuestas/sintesis-abierta/GUIA_RAPIDA_APORTAR_EVIDENCIA_ES_EN.md) · [protocolo general / general protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [cierre y resíntesis / closure and resynthesis](../propuestas/sintesis-abierta/CIERRE_REAPERTURA_RESINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../auditorias/publicas/README.md) · [índice / index](../propuestas/sintesis-abierta/README.md)
 
 <!-- NEO_OPEN_SYNTHESIS_INVITATION_END -->
 
