@@ -191,7 +191,16 @@ To begin, you **do not need** to master the corpus, propose a delta or reconstru
 
 ## 4. Optional deepening
 
-If you can and want to go further, it helps to add primary provenance, uncertainty, alternative hypotheses, case limits, falsifiers, relations to other nodes, expected impact or a proposed delta.
+If you can and want to go further, it helps to add:
+
+- primary source or provenance;
+- uncertainty;
+- alternative hypotheses;
+- case limits;
+- falsifiers;
+- relation to other nodes;
+- expected impact;
+- a proposed delta.
 
 These improve scrutiny but **must not become an artificial entry barrier**.
 
@@ -213,7 +222,17 @@ FIX CANON  → traceability + delta/no-delta + version + genealogy
 
 ## 6. When to reopen or resynthesise
 
-A closed Issue or fixed synthesis may return to scrutiny when a materially relevant contribution appears, including new evidence, an unaddressed counterexample, a reproducible contradictory test, factual error, omitted genealogy that changes attribution or interpretation, a new relation, an unforeseen consequence, changed context invalidating a premise, or a better formulation that resolves a contradiction while preserving more evidence.
+A closed Issue or fixed synthesis may return to scrutiny when a materially relevant contribution appears, for example:
+
+- new evidence;
+- an unaddressed counterexample;
+- a reproducible test contradicting the current state;
+- a factual error;
+- omitted antecedent/genealogy that changes attribution or interpretation;
+- a new relation that changes the meaning of two or more nodes;
+- an unforeseen practical consequence;
+- a context change that invalidates a premise;
+- a better formulation that resolves a contradiction while preserving more evidence.
 
 ```text
 NEW_AUDITABLE_CONTRIBUTION => ELIGIBLE_FOR_REEVALUATION
@@ -221,7 +240,7 @@ REEVALUATION => MAY_TRIGGER_RESYNTHESIS
 RESYNTHESIS != AUTOMATIC_ACCEPTANCE
 ```
 
-A contribution that produces no material delta may still be preserved as evidence, context, dissent, genealogy or `NO-DELTA`.
+If the new piece produces no material delta, it may still be preserved as evidence, context, dissent, genealogy or `NO-DELTA` without being erased.
 
 ## 7. What a useful closure should say
 
