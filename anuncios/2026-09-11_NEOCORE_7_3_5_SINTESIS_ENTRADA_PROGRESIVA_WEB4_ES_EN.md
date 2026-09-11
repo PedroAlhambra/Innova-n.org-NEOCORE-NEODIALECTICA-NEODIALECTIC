@@ -2,7 +2,8 @@
 # NEOCore™ 7.3.5 · Progressive-entry Open Synthesis
 
 **Fecha / Date:** 2026-09-11  
-**Estado / Status:** anuncio de versión / version announcement
+**Estado / Status:** anuncio de versión / version announcement  
+**VERSION_OF_ORIGIN / VERSIÓN DE ORIGEN:** 7.3.5
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
