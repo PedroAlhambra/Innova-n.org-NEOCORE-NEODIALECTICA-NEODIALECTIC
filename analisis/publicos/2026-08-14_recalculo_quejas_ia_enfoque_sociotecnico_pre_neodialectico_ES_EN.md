@@ -3,9 +3,11 @@
 
 **Innova_N · NEOCore™ · Filosofía Arquetípica Neodialéctica™ / Archetypal Neodialectical Philosophy™**  
 **Fecha / Date:** 2026-08-14  
+**Recálculo / Recalculation:** 2026-09-11  
 **Estado / Status:** SÍNTESIS ABIERTA / OPEN SYNTHESIS  
 **Issue / Open thread:** [#146](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/146)  
-**Auditoría relacionada / Related audit:** [#144](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/144)
+**Auditoría relacionada / Related audit:** [#144](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/144)  
+**Cierre y resíntesis / Closure and resynthesis:** [regla operativa](../../propuestas/sintesis-abierta/CIERRE_REAPERTURA_RESINTESIS_ES_EN.md)
 
 ---
 
@@ -84,9 +86,26 @@ La hipótesis es que muchas patologías no nacen con la IA. La IA entra en siste
 
 Si un daño persiste bajo sistemas con trazabilidad, pluralidad, reparto de valor, supervisión, preservación y soberanía humana, deberá atribuirse a otras causas y el marco tendrá que corregirse.
 
-## 5 · Qué exigiría una IA neodialéctica
+## 5 · Qué es neodialéctico aquí, hoy
 
-No significa una IA «buena por etiqueta». Exige propiedades auditables del sistema completo:
+El mecanismo neodialéctico de este análisis **no queda aplazado hasta que exista una IA neodialéctica específica**. Ya opera mediante Síntesis Abierta™: una tesis provisional se expone, recibe perspectivas y evidencia, conserva contradicciones, separa estados epistemológicos, compara alternativas y puede producir un nuevo estado versionado.
+
+```text
+APORTE
+→ CONTRASTE
+→ RELACIÓN CON EL CORPUS
+→ HECHO / TESTIMONIO / INFERENCIA / HIPÓTESIS
+→ CONTRADICCIÓN + ALTERNATIVAS
+→ DELTA / NO-DELTA
+→ SÍNTESIS PROVISIONAL
+→ REAPERTURA SI APARECE NUEVO APORTE MATERIAL
+```
+
+La IA actual puede ayudar a buscar, relacionar, recordar, traducir, comparar o someter a contradicción. La decisión de qué queda fijado requiere trazabilidad y revisión proporcional. **La Neodialéctica es aquí filosofía aplicada y sistema de decisión por Síntesis Abierta; no el nombre de una IA futura.**
+
+## 6 · Extensión futura: qué exigiría una IA neodialéctica
+
+Una IA neodialéctica futura no sería una IA «buena por etiqueta», sino una extensión técnica de este método con propiedades auditables del sistema completo:
 
 1. procedencia y memoria trazables;
 2. contradicción y revisión permanentes;
@@ -101,11 +120,25 @@ No significa una IA «buena por etiqueta». Exige propiedades auditables del sis
 11. límites reversibles para agencia y autonomía;
 12. auditoría de errores y capacidad de reparación.
 
-Una IA neodialéctica puede fallar. La diferencia buscada no es infalibilidad, sino **capacidad estructural de detectar, atribuir, contradecir, reparar y recordar el fallo**.
+Una IA neodialéctica puede fallar. La diferencia buscada no es infalibilidad, sino **capacidad estructural de detectar, atribuir, contradecir, reparar y recordar el fallo**. Su desarrollo puede aumentar la capacidad de SAN™, pero **no es requisito para participar, contrastar ni resintetizar ahora**.
 
-## 6 · Método de Síntesis Abierta para las quejas
+## 7 · Cómo aportar ahora a #146
 
-Cada caso de #146 debe reconstruirse así:
+No hace falta reconstruir de entrada toda la cadena causal. **Basta cualquiera de estas piezas**:
+
+- una queja o experiencia concreta, identificada como tal;
+- un punto de vista que falta;
+- contexto que cambia la interpretación;
+- una fuente, documento o dato;
+- una captura, prueba, medición o reproducción;
+- un contraejemplo;
+- una corrección factual;
+- una hipótesis alternativa;
+- una relación con otro caso o nodo del corpus;
+- una ambigüedad que deba aclararse;
+- una propuesta de prueba o reparación.
+
+Después, cuando el caso lo permita, la síntesis puede profundizar:
 
 ```text
 QUEJA → ACTOR AFECTADO → CAPA DEL SISTEMA
@@ -114,14 +147,41 @@ QUEJA → ACTOR AFECTADO → CAPA DEL SISTEMA
 → CONTRAEJEMPLO → REPARACIÓN → MÉTRICA → REEVALUACIÓN
 ```
 
-No se considera confirmada la hipótesis pre-neodialéctica hasta contrastar el caso.
+La cadena completa es **ruta de profundización**, no examen de entrada. No se considera confirmada la hipótesis pre-neodialéctica hasta contrastar el caso.
 
-## 7 · Referencias cruzadas
+### Preguntas avanzadas
+
+Para quien quiera trabajar a mayor profundidad:
+
+- ¿Qué parte del daño cambia realmente al modificar incentivos y gobernanza sin cambiar el modelo?
+- ¿Qué riesgos persisten incluso bajo trazabilidad, pluralidad y supervisión robustas?
+- ¿Cómo distinguir empíricamente una patología heredada del sistema sociotécnico de una propiedad emergente del modelo?
+- ¿Qué métrica permitiría comparar reparación neodialéctica frente al baseline institucional actual?
+- ¿Qué contraejemplo obligaría a reducir, dividir o abandonar la hipótesis central?
+
+## 8 · Cierre, reapertura y resíntesis
+
+Una Issue puede cerrarse cuando exista un estado suficientemente claro para fijar el ciclo actual. Ese cierre **no convierte la síntesis en definitiva**.
+
+```text
+ISSUE_CLOSED != SYNTHESIS_FINAL
+NUEVO_APORTE_AUDITABLE => ELEGIBLE_PARA_REEVALUACIÓN
+REEVALUACIÓN => PUEDE_HABER_RESÍNTESIS
+RESÍNTESIS != ACEPTACIÓN_AUTOMÁTICA
+```
+
+Un cierre útil debe decir qué sabemos, qué sigue abierto y **qué tipo de aporte podría cambiar el estado**. Nueva evidencia, un contraejemplo, un error factual, una relación omitida o una mejor explicación pueden justificar reapertura o nueva resíntesis. Un aporte que no cambie la tesis puede conservarse como contexto, genealogía, disenso o `NO-DELTA`.
+
+La trazabilidad, genealogía, clasificación, delta/no-delta y versión son requisitos proporcionales para **integrar y fijar** cambios materiales; no deben convertirse en barreras para que una persona pueda aportar la primera pieza.
+
+## 9 · Referencias cruzadas
 
 - [#144 · destrucción de libros](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/144)
 - [#145 · bibliotecas y entrenamiento desde cero](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/145)
 - [#146 · quejas IA](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/146)
 - [#143 · convergencia institucional](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/143)
+- [Cierre, reapertura y resíntesis SAN™](../../propuestas/sintesis-abierta/CIERRE_REAPERTURA_RESINTESIS_ES_EN.md)
+- [Guía rápida de aporte](../../propuestas/sintesis-abierta/GUIA_RAPIDA_APORTAR_EVIDENCIA_ES_EN.md)
 - [XXX · Coherencia entre fines y medios](../../manifiestos/30_coherencia_fines_medios_ES_EN.md)
 - [XXXI · Contra el Neuromarketing Antihumanista](../../manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md)
 - [XXXVIII · Protección Integral de la Infancia](../../manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
@@ -130,7 +190,7 @@ No se considera confirmada la hipótesis pre-neodialéctica hasta contrastar el 
 - [XXIII · Soberanía del Tiempo Cognitivo](../../manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md)
 - [XXXIV · Auditoría Conjunta Perpetua](../../manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
 
-## 8 · Fuentes externas
+## 10 · Fuentes externas
 
 - Anthropic · Company / Governance: https://www.anthropic.com/company
 - Anthropic · Claude's Constitution: https://www.anthropic.com/constitution
@@ -215,9 +275,26 @@ The hypothesis is that many pathologies did not originate with AI. AI enters sys
 
 If a harm persists under systems with traceability, plurality, value sharing, oversight, preservation and human sovereignty, it must be attributed to other causes and the framework must correct itself.
 
-## 5 · What a Neodialectical AI would require
+## 5 · What is Neodialectical here, today
 
-It does not mean an AI that is «good by label». It requires auditable properties of the complete system:
+The Neodialectical mechanism of this analysis **is not postponed until a specific future Neodialectical AI exists**. It already operates through Open Synthesis™: a provisional thesis is exposed, receives perspectives and evidence, preserves contradictions, separates epistemic states, compares alternatives and may produce a new versioned state.
+
+```text
+CONTRIBUTION
+→ SCRUTINY
+→ RELATION TO CORPUS
+→ FACT / TESTIMONY / INFERENCE / HYPOTHESIS
+→ CONTRADICTION + ALTERNATIVES
+→ DELTA / NO-DELTA
+→ PROVISIONAL_SYNTHESIS
+→ REOPENING IF A NEW MATERIAL CONTRIBUTION APPEARS
+```
+
+Current AI may assist with searching, relating, remembering, translating, comparing or adversarial scrutiny. What becomes fixed requires traceability and proportional review. **Here, Neodialectics is applied philosophy and a decision system through Open Synthesis; it is not the name of a future AI.**
+
+## 6 · Future extension: what a Neodialectical AI would require
+
+A future Neodialectical AI would not be an AI that is «good by label», but a technical extension of this method with auditable properties of the complete system:
 
 1. traceable provenance and memory;
 2. permanent contradiction and review;
@@ -232,11 +309,25 @@ It does not mean an AI that is «good by label». It requires auditable properti
 11. reversible limits on agency and autonomy;
 12. error auditing and capacity for repair.
 
-A Neodialectical AI can fail. The intended difference is not infallibility, but **structural capacity to detect, attribute, challenge, repair and remember the failure**.
+A Neodialectical AI can fail. The intended difference is not infallibility, but **structural capacity to detect, attribute, challenge, repair and remember failure**. Its development may expand SAN™ capacity, but **it is not required in order to participate, scrutinise or resynthesise now**.
 
-## 6 · Open Synthesis method for complaints
+## 7 · How to contribute now to #146
 
-Each #146 case should be reconstructed as follows:
+You do not need to reconstruct the complete causal chain at entry. **Any one of these pieces is enough to start**:
+
+- a specific complaint or experience, identified as such;
+- a missing point of view;
+- context that changes the interpretation;
+- a source, document or datum;
+- a screenshot, test, measurement or reproduction;
+- a counterexample;
+- a factual correction;
+- an alternative hypothesis;
+- a relation to another case or corpus node;
+- an ambiguity that should be clarified;
+- a proposed test or repair.
+
+Then, where the case allows, the synthesis may deepen:
 
 ```text
 COMPLAINT → AFFECTED ACTOR → SYSTEM LAYER
@@ -245,14 +336,41 @@ COMPLAINT → AFFECTED ACTOR → SYSTEM LAYER
 → COUNTEREXAMPLE → REPAIR → METRIC → REEVALUATION
 ```
 
-The pre-Neodialectical hypothesis is not considered confirmed until each case is scrutinized.
+The full chain is a **deepening route**, not an entrance examination. The pre-Neodialectical hypothesis is not considered confirmed until the case is scrutinised.
 
-## 7 · Cross-references
+### Advanced questions
+
+For contributors who want to work at greater depth:
+
+- Which part of the harm actually changes when incentives and governance change without changing the model?
+- Which risks persist even under robust traceability, plurality and oversight?
+- How can an inherited sociotechnical pathology be empirically distinguished from an emergent model property?
+- Which metric could compare Neodialectical repair with the current institutional baseline?
+- Which counterexample would force the central hypothesis to be reduced, split or abandoned?
+
+## 8 · Closure, reopening and resynthesis
+
+An Issue may be closed when there is a sufficiently clear state to fix the current cycle. That closure **does not make the synthesis final**.
+
+```text
+ISSUE_CLOSED != SYNTHESIS_FINAL
+NEW_AUDITABLE_CONTRIBUTION => ELIGIBLE_FOR_REEVALUATION
+REEVALUATION => MAY_TRIGGER_RESYNTHESIS
+RESYNTHESIS != AUTOMATIC_ACCEPTANCE
+```
+
+A useful closure should state what we know, what remains open and **what kind of contribution could change the state**. New evidence, a counterexample, factual error, omitted relation or better explanation may justify reopening or new resynthesis. A contribution that does not change the thesis may remain as context, genealogy, dissent or `NO-DELTA`.
+
+Traceability, genealogy, classification, delta/no-delta and versioning are proportional requirements for **integrating and fixing** material changes; they must not become barriers preventing a person from contributing the first useful piece.
+
+## 9 · Cross-references
 
 - [#144 · book destruction](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/144)
 - [#145 · libraries and training from scratch](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/145)
 - [#146 · AI complaints](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/146)
 - [#143 · institutional convergence](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/143)
+- [SAN™ closure, reopening and resynthesis](../../propuestas/sintesis-abierta/CIERRE_REAPERTURA_RESINTESIS_ES_EN.md)
+- [Quick contribution guide](../../propuestas/sintesis-abierta/GUIA_RAPIDA_APORTAR_EVIDENCIA_ES_EN.md)
 - [XXX · Coherence Between Ends and Means](../../manifiestos/30_coherencia_fines_medios_ES_EN.md)
 - [XXXI · Against Anti-humanist Neuromarketing](../../manifiestos/31_contra_neuromarketing_antihumanista_ES_EN.md)
 - [XXXVIII · Integral Protection of Childhood](../../manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
@@ -261,7 +379,7 @@ The pre-Neodialectical hypothesis is not considered confirmed until each case is
 - [XXIII · Sovereignty of Cognitive Time](../../manifiestos/23_soberania_tiempo_cognitivo_ES_EN.md)
 - [XXXIV · Perpetual Joint Audit](../../manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
 
-## 8 · External sources
+## 10 · External sources
 
 - Anthropic · Company / Governance: https://www.anthropic.com/company
 - Anthropic · Claude's Constitution: https://www.anthropic.com/constitution
@@ -273,5 +391,5 @@ The pre-Neodialectical hypothesis is not considered confirmed until each case is
 
 ---
 
-**Regla / Rule:** `QUEJA / COMPLAINT → CAPA / LAYER → EVIDENCIA / EVIDENCE → CAUSA / CAUSE → CONTRAEJEMPLO / COUNTEREXAMPLE → REPARACIÓN / REPAIR → REEVALUACIÓN / REEVALUATION`.  
-**Innova_N · SAN™ · NEOCore™ · 2026-08-14**
+**Regla / Rule:** `APORTE / CONTRIBUTION → CONTRASTE / SCRUTINY → DELTA / NO-DELTA → SÍNTESIS PROVISIONAL / PROVISIONAL SYNTHESIS → NUEVO APORTE MATERIAL / NEW MATERIAL CONTRIBUTION → POSIBLE RESÍNTESIS / POSSIBLE RESYNTHESIS`.  
+**Innova_N · SAN™ · NEOCore™ · 2026-08-14 → 2026-09-11**
