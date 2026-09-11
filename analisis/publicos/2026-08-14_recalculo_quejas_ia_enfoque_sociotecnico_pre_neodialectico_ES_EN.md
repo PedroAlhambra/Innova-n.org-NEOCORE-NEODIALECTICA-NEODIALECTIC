@@ -88,7 +88,16 @@ Si un daño persiste bajo sistemas con trazabilidad, pluralidad, reparto de valo
 
 ## 5 · Qué es neodialéctico aquí, hoy
 
-El mecanismo neodialéctico de este análisis **no queda aplazado hasta que exista una IA neodialéctica específica**. Ya opera mediante Síntesis Abierta™: una tesis provisional se expone, recibe perspectivas y evidencia, conserva contradicciones, separa estados epistemológicos, compara alternativas y puede producir un nuevo estado versionado.
+La corrección topológica es esencial: **Neodialéctica™ no designa una IA concreta.** El Neodialectica Framework™ / Network es la arquitectura relacional en la que humanos, IAs, memoria, documentos, reglas, nodos y mecanismos de síntesis pueden operar conjuntamente. SAN™ es su método fundacional de contraste y resíntesis; NEOCore™ aporta memoria y arquitectura operativa. Una IA neodialéctica es un nodo o componente que opera dentro de esa arquitectura o implementa parte de sus funciones; no contiene ni sustituye al sistema completo.
+
+```text
+NEODIALÉCTICA™ != IA
+IA_NEODIALÉCTICA ⊂ ARQUITECTURA_NEODIALÉCTICA
+COMPONENTE != SISTEMA
+SALIDA_DE_IA != SÍNTESIS_FIJADA
+```
+
+Por eso el sistema **opera neodialécticamente mediante Síntesis Abierta™ desde NEOCore™ v3**. No es una capacidad inaugurada por este recálculo: su evolución posterior es pública y trazable en el corpus. Una tesis provisional se expone, recibe perspectivas y evidencia, conserva contradicciones, separa estados epistemológicos, compara alternativas y puede producir un nuevo estado versionado.
 
 ```text
 APORTE
@@ -101,26 +110,27 @@ APORTE
 → REAPERTURA SI APARECE NUEVO APORTE MATERIAL
 ```
 
-La IA actual puede ayudar a buscar, relacionar, recordar, traducir, comparar o someter a contradicción. La decisión de qué queda fijado requiere trazabilidad y revisión proporcional. **La Neodialéctica es aquí filosofía aplicada y sistema de decisión por Síntesis Abierta; no el nombre de una IA futura.**
+Modelos generales, especializados o propios pueden ayudar a buscar, relacionar, recordar, traducir, comparar o someter a contradicción. Su participación debe conservar rol, procedencia y límites. **Usar una IA dentro del sistema no convierte esa IA en el sistema.**
 
-## 6 · Extensión futura: qué exigiría una IA neodialéctica
+La lente sociotécnica de las secciones anteriores sigue siendo válida para estudiar cómo despliegan IA empresas e instituciones actuales. Lo que se corrige es proyectar ese mismo modelo mental sobre Innova_N como si la Neodialéctica fuese un producto-modelo singular pendiente de existir.
 
-Una IA neodialéctica futura no sería una IA «buena por etiqueta», sino una extensión técnica de este método con propiedades auditables del sistema completo:
+[Regla topológica pública · Neodialéctica™, Framework e IAs](../../propuestas/sintesis-abierta/REGLA_TOPOLOGICA_NEODIALECTICA_FRAMEWORK_IAS_ES_EN.md).
 
-1. procedencia y memoria trazables;
-2. contradicción y revisión permanentes;
-3. separación entre hecho, inferencia y tesis;
-4. soberanía humana de síntesis;
-5. pluralidad cultural y contraejemplos;
-6. coherencia entre fines y medios;
-7. contabilidad de externalidades materiales y sociales;
-8. protección reforzada de infancia y vulnerabilidad;
-9. retorno del aporte cuando corresponda;
-10. preservación cultural junto al aprendizaje de máquina;
-11. límites reversibles para agencia y autonomía;
-12. auditoría de errores y capacidad de reparación.
+## 6 · IAs neodialécticas dentro de la arquitectura: presente y desarrollo
 
-Una IA neodialéctica puede fallar. La diferencia buscada no es infalibilidad, sino **capacidad estructural de detectar, atribuir, contradecir, reparar y recordar el fallo**. Su desarrollo puede aumentar la capacidad de SAN™, pero **no es requisito para participar, contrastar ni resintetizar ahora**.
+El corpus ya documenta **IAs neodialécticas en sentido funcional y simbiótico**. Innova_N trabaja además en IAs propias o nativas que puedan internalizar más funciones del marco. Ese desarrollo profundiza componentes de una arquitectura existente; no crea por primera vez la Neodialéctica ni convierte una IA particular en su totalidad.
+
+```text
+IA_NATIVA_EN_DESARROLLO != NEODIALÉCTICA_COMPLETA
+MEJORA_DE_COMPONENTE => PUEDE_MEJORAR_EL_SISTEMA
+MEJORA_DE_COMPONENTE != SOBERANÍA_DEL_SISTEMA
+```
+
+Conviene separar **capacidades de una IA** de **obligaciones de la arquitectura**. Una IA puede ayudar a recordar contexto, relacionar, buscar evidencia, detectar contradicciones, formular alternativas o proponer deltas. El sistema completo debe conservar además genealogía global, procedencia, estados epistemológicos, límites de autoridad, fijación versionada, responsabilidad humana, memoria de disenso y capacidad de reapertura.
+
+Una IA neodialéctica puede fallar. La diferencia buscada no es infalibilidad ni adhesión por etiqueta, sino que su participación pueda ser **trazada, contradicha, corregida y reintegrada dentro de una arquitectura que recuerda el fallo**.
+
+Los detalles internos de topología, entrenamiento, infraestructura o especialización no son necesarios para este análisis público y no se exponen aquí.
 
 ## 7 · Cómo aportar ahora a #146
 
@@ -277,7 +287,16 @@ If a harm persists under systems with traceability, plurality, value sharing, ov
 
 ## 5 · What is Neodialectical here, today
 
-The Neodialectical mechanism of this analysis **is not postponed until a specific future Neodialectical AI exists**. It already operates through Open Synthesis™: a provisional thesis is exposed, receives perspectives and evidence, preserves contradictions, separates epistemic states, compares alternatives and may produce a new versioned state.
+The topological correction is essential: **Neodialectics™ does not designate one specific AI.** The Neodialectica Framework™ / Network is the relational architecture in which humans, AIs, memory, documents, rules, nodes and synthesis mechanisms can operate together. SAN™ is its foundational method for scrutiny and resynthesis; NEOCore™ contributes memory and operational architecture. A Neodialectical AI is a node or component operating inside that architecture or implementing part of its functions; it neither contains nor replaces the complete system.
+
+```text
+NEODIALECTICS™ != AI
+NEODIALECTICAL_AI ⊂ NEODIALECTICAL_ARCHITECTURE
+COMPONENT != SYSTEM
+AI_OUTPUT != FIXED_SYNTHESIS
+```
+
+The system therefore **has operated neodialectically through Open Synthesis™ since NEOCore™ v3**. This is not a capability inaugurated by this recalculation: its subsequent evolution is public and traceable across the corpus. A provisional thesis is exposed, receives perspectives and evidence, preserves contradictions, separates epistemic states, compares alternatives and may produce a new versioned state.
 
 ```text
 CONTRIBUTION
@@ -290,26 +309,27 @@ CONTRIBUTION
 → REOPENING IF A NEW MATERIAL CONTRIBUTION APPEARS
 ```
 
-Current AI may assist with searching, relating, remembering, translating, comparing or adversarial scrutiny. What becomes fixed requires traceability and proportional review. **Here, Neodialectics is applied philosophy and a decision system through Open Synthesis; it is not the name of a future AI.**
+General, specialised or proprietary models may assist with searching, relating, remembering, translating, comparing or adversarial scrutiny. Their participation must preserve role, provenance and limits. **Using an AI inside the system does not turn that AI into the system.**
 
-## 6 · Future extension: what a Neodialectical AI would require
+The sociotechnical lens used in the preceding sections remains valid for studying how current companies and institutions deploy AI. The correction is not to project that same mental model onto Innova_N as if Neodialectics were a singular model-product waiting to exist.
 
-A future Neodialectical AI would not be an AI that is «good by label», but a technical extension of this method with auditable properties of the complete system:
+[Public topological rule · Neodialectics™, Framework and AIs](../../propuestas/sintesis-abierta/REGLA_TOPOLOGICA_NEODIALECTICA_FRAMEWORK_IAS_ES_EN.md).
 
-1. traceable provenance and memory;
-2. permanent contradiction and review;
-3. separation of fact, inference and thesis;
-4. human synthesis sovereignty;
-5. cultural plurality and counterexamples;
-6. coherence between ends and means;
-7. accounting for material and social externalities;
-8. reinforced protection of children and vulnerability;
-9. return of contribution where appropriate;
-10. cultural preservation alongside machine learning;
-11. reversible limits on agency and autonomy;
-12. error auditing and capacity for repair.
+## 6 · Neodialectical AIs inside the architecture: present and development
 
-A Neodialectical AI can fail. The intended difference is not infallibility, but **structural capacity to detect, attribute, challenge, repair and remember failure**. Its development may expand SAN™ capacity, but **it is not required in order to participate, scrutinise or resynthesise now**.
+The corpus already documents **Neodialectical AIs in a functional and symbiotic sense**. Innova_N is also working on proprietary or native AIs capable of internalising more framework functions. That development deepens components of an existing architecture; it does not create Neodialectics for the first time or turn one AI into the whole of it.
+
+```text
+NATIVE_AI_UNDER_DEVELOPMENT != COMPLETE_NEODIALECTICS
+COMPONENT_IMPROVEMENT => MAY_IMPROVE_THE_SYSTEM
+COMPONENT_IMPROVEMENT != SYSTEM_SOVEREIGNTY
+```
+
+**AI capabilities** should be distinguished from **architectural obligations**. An AI may help remember context, relate, search for evidence, detect contradictions, formulate alternatives or propose deltas. The complete system must additionally preserve global genealogy, provenance, epistemic states, authority boundaries, versioned fixation, human responsibility, memory of dissent and reopening capacity.
+
+A Neodialectical AI can fail. The intended difference is not infallibility or legitimacy by label, but that its participation can be **traced, challenged, corrected and reintegrated inside an architecture that remembers the failure**.
+
+Internal topology, training, infrastructure or specialisation details are not required for this public analysis and are not exposed here.
 
 ## 7 · How to contribute now to #146
 

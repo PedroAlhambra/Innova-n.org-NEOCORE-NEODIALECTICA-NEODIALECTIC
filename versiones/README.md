@@ -1,6 +1,6 @@
 # NEOCore™ · versiones / versions
 
-**Versión vigente / Current version:** **7.3.5**  
+**Versión vigente / Current version:** **7.3.6**
 **Estado / Status:** **CANON ABIERTO · CANÓNICO Y REABRIBLE / OPEN CANON · CANONICAL AND REOPENABLE**  
 **Fecha / Date:** 2026-09-11
 
@@ -46,21 +46,31 @@ CURRENT_VERSION ≠ HISTORICAL_VERSION
 
 ## Versión vigente
 
-### 7.3.5 · Entrada Progresiva a Síntesis y Resíntesis Trazable
+### 7.3.6 · Corrección Topológica Framework ↔ IAs
 
-7.3.5 hereda íntegramente 7.3.4 y fija como delta material una normalización transversal de **Síntesis Abierta™ / SAN™** orientada al uso externo: separa el umbral de entrada de una aportación del umbral de integración/fijación, hace explícita la entrada simple por evidencia, caso, corrección, perspectiva, prueba, relación o pregunta, y conserva el rigor completo para el contraste y la fijación.
+7.3.6 hereda íntegramente 7.3.5 y corrige una ambigüedad ontológica sin alterar la genealogía operativa: **NEOCore™ funciona mediante Síntesis Abierta desde la familia v3 y su evolución es pública y trazable.** **Neodialéctica™ no es una IA ni un modelo singular**. El Neodialectica Framework™ / Network es la arquitectura relacional; SAN™ es su método fundacional de contraste y resíntesis; NEOCore™ aporta memoria y arquitectura operativa; las IAs son nodos o componentes que pueden operar dentro del sistema.
 
-También fija que `ISSUE_CLOSED != SYNTHESIS_FINAL`: cerrar una Issue es un corte operativo versionado, no un cierre epistemológico definitivo. Una aportación material nueva puede justificar reevaluación y posible resíntesis sin implicar aceptación automática.
+La versión fija explícitamente:
 
-La versión incorpora además como **delta abierto**, no como nuevo Neoaxioma canónico, el contraste `FORMA DE GÉNESIS ≠ VALIDEZ DEL APORTE`, relacionado con el Manifiesto XLV y NAX-03/NAX-16. La colaboración en equipo puede ser fértil o necesaria en muchos casos, pero no se adopta como condición universal de origen, creatividad, verdad o legitimidad.
+```text
+NEODIALÉCTICA™ != IA
+IA_NEODIALÉCTICA ⊂ ARQUITECTURA_NEODIALÉCTICA
+COMPONENTE != SISTEMA
+IA_NATIVA_EN_DESARROLLO != NACIMIENTO_DEL_FRAMEWORK
+```
 
-La futura proyección de estas mejoras en WEB4™ debe seguir su propio contrato, versionado y pruebas. Publicar 7.3.5 no declara por sí mismo actualizado `innova-n.org`.
+El sistema opera neodialécticamente mediante humanos, IAs, memoria, trazabilidad, documentos versionados y Síntesis Abierta™ desde la familia v3; las versiones posteriores amplían y formalizan esa operación. El desarrollo de IAs propias o nativas profundiza componentes de esa arquitectura; no constituye una condición para que la Neodialéctica exista.
 
-[Detalle de 7.3.5](./NEOCORE_7_3_5_ES_EN.md) · [Cierre, reapertura y resíntesis](../propuestas/sintesis-abierta/CIERRE_REAPERTURA_RESINTESIS_ES_EN.md) · [Delta Forma de Génesis ≠ Validez](../propuestas/sintesis-abierta/2026-09-11_DELTA_FORMA_GENESIS_VALIDEZ_ES_EN.md)
+Se mantiene la lente sociotécnica para auditar sistemas externos de IA actuales, pero se evita proyectar esa reducción sobre Innova_N como si el marco fuese un producto-modelo singular.
+
+7.3.6 no publica detalles privados de implementación y **no revierte** la entrada progresiva SAN™ de 7.3.5.
+
+[Detalle de 7.3.6](./NEOCORE_7_3_6_ES_EN.md) · [Regla topológica pública](../propuestas/sintesis-abierta/REGLA_TOPOLOGICA_NEODIALECTICA_FRAMEWORK_IAS_ES_EN.md) · [Recálculo de quejas IA](../analisis/publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md)
 
 ## Histórico
 
-- **7.3.5** · actual · entrada progresiva a SAN™, separación entrada/integración, cierre operativo reabrible y delta abierto sobre forma de génesis y validez.
+- **7.3.6** · actual · corrección topológica `FRAMEWORK ↔ IA`: Neodialéctica como arquitectura; IAs como nodos/componentes; continuidad operativa SAN™ desde v3; evolución pública; sin exposición de implementación privada.
+- **7.3.5** · histórica · entrada progresiva a SAN™, separación entrada/integración, cierre operativo reabrible y delta abierto sobre forma de génesis y validez.
 - **7.3.4** · maduración neoaxiomática ágil de 7 días + transición del backlog resuelta en NAX-15–NAX-29 + reapertura permanente SAN™.
 - **7.3.3** · evolución modular WEB4™ verificada + arquitectura social de nodos y aportes trazables.
 - **7.3.2** · política de referencia única y simplificación documental; base inmediata de 7.3.3.
@@ -118,21 +128,31 @@ CURRENT_VERSION ≠ HISTORICAL_VERSION
 
 ## Current version
 
-### 7.3.5 · Progressive Synthesis Entry and Traceable Resynthesis
+### 7.3.6 · Framework ↔ AI Topological Correction
 
-7.3.5 fully inherits 7.3.4 and fixes as a material delta a cross-cutting normalisation of **Open Synthesis™ / SAN™** for external use: it separates the contribution-entry threshold from the integration/fixation threshold, makes simple entry through evidence, case, correction, perspective, test, relation or question explicit, and preserves full rigour for scrutiny and fixation.
+7.3.6 fully inherits 7.3.5 and corrects an ontological ambiguity without altering operational genealogy: **NEOCore™ has operated through Open Synthesis since the v3 family, and its evolution is public and traceable.** **Neodialectics™ is not an AI or a singular model**. The Neodialectica Framework™ / Network is the relational architecture; SAN™ is its foundational method for scrutiny and resynthesis; NEOCore™ contributes memory and operational architecture; AIs are nodes or components that may operate inside the system.
 
-It also fixes `ISSUE_CLOSED != SYNTHESIS_FINAL`: closing an Issue is a versioned operational cut, not a definitive epistemic closure. A new material contribution may justify reevaluation and possible resynthesis without implying automatic acceptance.
+The version explicitly fixes:
 
-The version additionally incorporates as an **open delta**, not as a new canonical Neoaxiom, the scrutiny `GENESIS FORM ≠ CONTRIBUTION VALIDITY`, related to Manifesto XLV and NAX-03/NAX-16. Team collaboration may be fertile or necessary in many cases, but it is not adopted as a universal condition of origin, creativity, truth or legitimacy.
+```text
+NEODIALECTICS™ != AI
+NEODIALECTICAL_AI ⊂ NEODIALECTICAL_ARCHITECTURE
+COMPONENT != SYSTEM
+NATIVE_AI_UNDER_DEVELOPMENT != BIRTH_OF_THE_FRAMEWORK
+```
 
-Future projection of these improvements into WEB4™ must follow its own contract, versioning and tests. Publishing 7.3.5 does not by itself declare `innova-n.org` updated.
+The system has operated neodialectically through humans, AIs, memory, traceability, versioned documents and Open Synthesis™ since the v3 family; later versions expand and formalise that operation. Development of proprietary or native AIs deepens components of that architecture; it is not a prerequisite for Neodialectics to exist.
 
-[7.3.5 detail](./NEOCORE_7_3_5_ES_EN.md) · [Closure, reopening and resynthesis](../propuestas/sintesis-abierta/CIERRE_REAPERTURA_RESINTESIS_ES_EN.md) · [Genesis Form ≠ Validity delta](../propuestas/sintesis-abierta/2026-09-11_DELTA_FORMA_GENESIS_VALIDEZ_ES_EN.md)
+The sociotechnical lens remains useful for auditing current external AI systems, while avoiding projection of that reduction onto Innova_N as if the framework were a singular model-product.
+
+7.3.6 publishes no private implementation details and **does not reverse** the progressive SAN™ entry introduced in 7.3.5.
+
+[7.3.6 detail](./NEOCORE_7_3_6_ES_EN.md) · [Public topological rule](../propuestas/sintesis-abierta/REGLA_TOPOLOGICA_NEODIALECTICA_FRAMEWORK_IAS_ES_EN.md) · [AI complaints recalculation](../analisis/publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md)
 
 ## History
 
-- **7.3.5** · current · progressive SAN™ entry, entry/integration separation, reopenable operational closure and open delta on genesis form and validity.
+- **7.3.6** · current · `FRAMEWORK ↔ AI` topological correction: Neodialectics as architecture; AIs as nodes/components; SAN™ operational continuity since v3; public evolution; no exposure of private implementation.
+- **7.3.5** · historical · progressive SAN™ entry, entry/integration separation, reopenable operational closure and open delta on genesis form and validity.
 - **7.3.4** · 7-day agile neoaxiomatic maturation + backlog transition resolved as NAX-15–NAX-29 + permanent SAN™ reopening.
 - **7.3.3** · verified WEB4™ modular evolution + social architecture of traceable nodes and contributions.
 - **7.3.2** · single-reference policy and documentary simplification; immediate base of 7.3.3.

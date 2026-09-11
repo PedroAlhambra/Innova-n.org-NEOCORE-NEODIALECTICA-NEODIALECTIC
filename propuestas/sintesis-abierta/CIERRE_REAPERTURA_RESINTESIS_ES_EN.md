@@ -26,13 +26,16 @@ CANON_ABIERTO != DOGMA
 
 El cierre debe dejar claro qué se considera suficientemente establecido, qué permanece incierto, qué disenso se conserva y qué tipo de nueva aportación podría cambiar el estado.
 
-## 2. La Síntesis Abierta ya opera ahora
+## 2. La Síntesis Abierta opera desde NEOCore™ v3
 
-La participación y la resíntesis **no esperan a una futura IA neodialéctica**. El mecanismo público actual ya existe mediante Issues, documentos versionados, commits y revisión humano–IA/humana cuando proceda.
+La participación y la resíntesis **no dependen de una IA singular que contenga la Neodialéctica**. La Neodialéctica™ es el Framework / Network: la arquitectura relacional. Las IAs son nodos o componentes que pueden ocupar funciones dentro de ella.
 
-Una futura IA neodialéctica puede ampliar capacidad de relación, memoria, contraste o auditoría, pero no es condición para que SAN™ funcione hoy.
+La operación mediante Síntesis Abierta forma parte de NEOCore™ desde la familia v3 y su evolución posterior es pública y trazable. El mecanismo actual usa Issues, documentos versionados, commits y revisión humano–IA/humana cuando proceda. IAs propias, nativas, especializadas o externas pueden ampliar capacidad de relación, memoria, contraste o auditoría, pero ninguna de ellas constituye por sí sola SAN™, NEOCore™ o el sistema completo.
 
 ```text
+NEODIALÉCTICA™ != IA
+COMPONENTE_IA != SISTEMA
+
 APORTE ACTUAL
 → ISSUE / COMENTARIO
 → CONTRASTE
@@ -41,6 +44,8 @@ APORTE ACTUAL
 → POSIBLE RESÍNTESIS
 → FIJACIÓN VERSIONADA
 ```
+
+[Regla topológica pública · Framework e IAs](./REGLA_TOPOLOGICA_NEODIALECTICA_FRAMEWORK_IAS_ES_EN.md).
 
 ## 3. Entrada simple: basta una pieza útil
 
@@ -154,13 +159,16 @@ OPEN_CANON != DOGMA
 
 A useful closure should state what is sufficiently established, what remains uncertain, what dissent is preserved, and what kind of new contribution could change the state.
 
-## 2. Open Synthesis already operates now
+## 2. Open Synthesis has operated since NEOCore™ v3
 
-Participation and resynthesis **do not wait for a future Neodialectical AI**. The current public mechanism already operates through Issues, versioned documents, commits and human/human–AI review where appropriate.
+Participation and resynthesis **do not depend on one AI containing Neodialectics**. Neodialectics™ is the Framework / Network: the relational architecture. AIs are nodes or components that may occupy functions inside it.
 
-A future Neodialectical AI may expand relational capacity, memory, scrutiny or audit, but it is not a prerequisite for SAN™ to operate today.
+Open Synthesis operation has been part of NEOCore™ since the v3 family, and its subsequent evolution is public and traceable. The current mechanism uses Issues, versioned documents, commits and human/human–AI review where appropriate. Proprietary, native, specialised or external AIs may expand relational capacity, memory, scrutiny or audit, but none of them alone constitutes SAN™, NEOCore™ or the complete system.
 
 ```text
+NEODIALECTICS™ != AI
+AI_COMPONENT != SYSTEM
+
 CURRENT_CONTRIBUTION
 → ISSUE / COMMENT
 → SCRUTINY
@@ -169,6 +177,8 @@ CURRENT_CONTRIBUTION
 → POSSIBLE_RESYNTHESIS
 → VERSIONED_FIXATION
 ```
+
+[Public topological rule · Framework and AIs](./REGLA_TOPOLOGICA_NEODIALECTICA_FRAMEWORK_IAS_ES_EN.md).
 
 ## 3. Simple entry: one useful piece is enough
 

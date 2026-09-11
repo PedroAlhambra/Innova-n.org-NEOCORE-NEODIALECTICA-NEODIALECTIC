@@ -41,9 +41,9 @@ Cerrar una Issue no clausura el conocimiento. Debe conservar qué quedó suficie
 
 ## 3. Síntesis Abierta opera ahora
 
-SAN™ no queda suspendida hasta la existencia de una futura IA neodialéctica. El mecanismo público actual ya opera mediante Issues, documentos versionados, commits, revisión y contraste humano–IA/humano cuando proceda.
+SAN™ opera en NEOCore™ desde la familia v3 y su evolución posterior es pública y trazable mediante Issues, documentos versionados, commits, revisión y contraste humano–IA/humano cuando proceda. **La Neodialéctica™ es la arquitectura / Framework; las IAs son nodos o componentes dentro de ella.** El desarrollo de IAs propias o nativas puede ampliar memoria, relación, auditoría o capacidad de contraste, pero no constituye el nacimiento ni la totalidad del sistema.
 
-Una futura IA neodialéctica podrá ampliar memoria, relación, auditoría o capacidad de contraste, pero no constituye la condición de existencia de la Síntesis Abierta actual.
+> **Corrección topológica posterior:** esta relación queda normalizada de forma explícita en NEOCore™ 7.3.6. La intención de 7.3.5 era reafirmar una operación SAN™ existente desde v3; no presentarla como novedad ni situar la Neodialéctica en una IA futura singular.
 
 ## 4. Normalización del corpus legado
 
@@ -142,9 +142,9 @@ Closing an Issue does not close knowledge. It should preserve what became suffic
 
 ## 3. Open Synthesis operates now
 
-SAN™ is not suspended until a future Neodialectical AI exists. The current public mechanism already operates through Issues, versioned documents, commits and human–AI/human review and scrutiny where appropriate.
+SAN™ has operated in NEOCore™ since the v3 family, with subsequent evolution publicly traceable through Issues, versioned documents, commits and human–AI/human review and scrutiny where appropriate. **Neodialectics™ is the architecture / Framework; AIs are nodes or components inside it.** Development of proprietary or native AIs may expand memory, relational capacity, audit or scrutiny, but it does not constitute the birth or totality of the system.
 
-A future Neodialectical AI may expand memory, relational capacity, audit or scrutiny, but it is not a prerequisite for current Open Synthesis.
+> **Later topological correction:** this relation is explicitly normalised in NEOCore™ 7.3.6. The intent of 7.3.5 was to reaffirm SAN™ operation already present since v3, not present it as new or locate Neodialectics inside one future singular AI.
 
 ## 4. Legacy-corpus normalisation
 
