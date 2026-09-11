@@ -1,39 +1,39 @@
 name: Auditoría Pública · aporte o nueva propuesta / Public Audit · contribution or new proposal
-description: Aporta pruebas a una auditoría existente o propone una nueva auditoría pública trazable. / Contribute evidence to an existing audit or propose a new traceable public audit.
+description: Aporta una observación, prueba, caso, corrección o propuesta sin necesidad de completar el análisis causal. / Contribute an observation, evidence, case, correction or proposal without having to complete the causal analysis.
 title: "Auditoría Pública / Public Audit · "
 labels: []
 body:
   - type: markdown
     attributes:
       value: |
-        Este canal sirve para aportar pruebas, refutaciones, casos comparables o proponer una nueva Auditoría Pública / Síntesis de Problema.
+        Este canal sirve para aportar observaciones, pruebas, refutaciones, casos comparables, correcciones o proponer una nueva Auditoría Pública / Síntesis de Problema.
 
-        This channel is for contributing evidence, refutations, comparable cases or proposing a new Public Audit / Problem Synthesis.
+        This channel is for contributing observations, evidence, refutations, comparable cases, corrections, or proposing a new Public Audit / Problem Synthesis.
 
-        **No necesitas saber Git, hacer commits ni preparar un informe técnico perfecto.** Puedes escribir con lenguaje normal y adjuntar capturas o archivos directamente en los campos de texto o comentarios de GitHub arrastrando o pegando el material cuando GitHub lo permita.
+        **No necesitas saber Git, preparar un informe técnico perfecto ni demostrar ya la causa.** Una pieza útil puede abrir contraste; el análisis causal, la trazabilidad completa y la propuesta de reparación pueden construirse después.
 
-        **You do not need to know Git, make commits or prepare a perfect technical report.** You may write in ordinary language and attach screenshots or files directly in GitHub text fields or comments by dragging or pasting the material when GitHub allows it.
+        **You do not need to know Git, prepare a perfect technical report, or already prove the cause.** One useful piece may open scrutiny; causal analysis, full traceability and repair proposals may be built afterwards.
 
-        **ADMISIÓN ≠ VALIDACIÓN.** Una captura o documento puede acreditar un resultado observable en una prueba concreta sin demostrar por sí solo causa, intención ni responsabilidad.
+        **ADMISIÓN ≠ VALIDACIÓN.** Una captura, testimonio o documento puede acreditar un resultado observable en un caso concreto sin demostrar por sí solo causa, intención ni responsabilidad.
 
-        **ADMISSION ≠ VALIDATION.** A screenshot or document may establish an observable result in a specific test without by itself proving cause, intent or responsibility.
+        **ADMISSION ≠ VALIDATION.** A screenshot, testimony or document may establish an observable result in a specific case without by itself proving cause, intent or responsibility.
 
-        Si una evidencia adquiere relevancia material, podrá preservarse después en el repositorio canónico con identificador, metadatos y huella criptográfica. **La persona que aporta no tiene que realizar esa preservación técnica.**
+        Si una evidencia adquiere relevancia material, podrá preservarse después en el repositorio canónico. **La persona que aporta no tiene que realizar esa preservación técnica.**
 
-        If evidence acquires material relevance, it may later be preserved in the canonical repository with an identifier, metadata and cryptographic fingerprint. **The contributor does not have to perform that technical preservation.**
+        If evidence becomes materially relevant, it may later be preserved in the canonical repository. **The contributor does not have to perform that technical preservation.**
 
         Guía rápida / Quick guide: https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/propuestas/sintesis-abierta/GUIA_RAPIDA_APORTAR_EVIDENCIA_ES_EN.md
-
-        No conviertas sospechas en hechos. Evita datos personales innecesarios. / Do not turn suspicions into facts. Avoid unnecessary personal data.
   - type: dropdown
     id: tipo
     attributes:
       label: Tipo de aporte / Contribution type
       options:
+        - Observación o testimonio · Observation or testimony
         - Prueba nueva para auditoría existente · New evidence for an existing audit
         - Caso comparable · Comparable case
         - Refutación o evidencia contradictoria · Refutation or contradictory evidence
-        - Corrección de cronología o metadatos · Chronology or metadata correction
+        - Corrección de cronología, hecho o metadatos · Chronology, fact or metadata correction
+        - Pregunta o ambigüedad · Question or ambiguity
         - Propuesta de nueva auditoría · New audit proposal
         - Propuesta de reparación o resolución · Repair or resolution proposal
         - No sé cómo clasificarlo todavía · I do not yet know how to classify it
@@ -43,7 +43,7 @@ body:
     id: auditoria
     attributes:
       label: Auditoría o problema relacionado / Related audit or problem
-      description: Enlace al documento o Issue existente; si es una auditoría nueva o no sabes dónde encaja, escribe NUEVA o NO SÉ. / Link to the existing document or Issue; if this is a new audit or you do not know where it fits, write NEW or I DO NOT KNOW.
+      description: Enlace al documento o Issue existente; si es nueva o no sabes dónde encaja, escribe NUEVA o NO SÉ. / Link to the existing document or Issue; if it is new or you do not know where it fits, write NEW or I DO NOT KNOW.
     validations:
       required: true
   - type: textarea
@@ -56,64 +56,59 @@ body:
   - type: textarea
     id: hechos
     attributes:
-      label: ¿Qué observaste o qué sabes directamente? / What did you observe or what do you know directly?
-      description: Cuenta el hecho observable. Si algo es una interpretación o te lo dijo otra fuente, indícalo si puedes. / State the observable fact. If something is an interpretation or was told to you by another source, indicate that if you can.
+      label: ¿Qué observaste, encontraste o quieres señalar? / What did you observe, find or want to flag?
+      description: Si puedes, separa lo observado de lo que interpretas. Si sólo tienes una pregunta o una fuente, indícalo. / If possible, separate observation from interpretation. If you only have a question or source, say so.
     validations:
       required: true
   - type: textarea
     id: evidencia
     attributes:
-      label: Evidencia disponible / Available evidence
-      description: Puedes incluir enlaces, capturas, imágenes, identificadores, comunicaciones, fechas, registros u otros elementos verificables. Arrastra o pega archivos directamente si GitHub lo permite. Si falta algún dato, indica simplemente que no lo sabes. No publiques credenciales ni datos personales innecesarios. / You may include links, screenshots, images, identifiers, communications, dates, records or other verifiable elements. Drag or paste files directly if GitHub allows it. If some data are missing, simply state that you do not know them. Do not publish credentials or unnecessary personal data.
+      label: Evidencia disponible, si existe / Available evidence, if any
+      description: Enlaces, capturas, imágenes, fechas, registros, comunicaciones u otros elementos. Si todavía no tienes evidencia, indica qué sería útil comprobar. / Links, screenshots, images, dates, records, communications or other elements. If you do not yet have evidence, state what would be useful to check.
     validations:
-      required: true
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        ### Para profundizar · opcional / To go deeper · optional
+        Los campos siguientes ayudan a elevar el rigor, pero **no son una barrera de entrada**. / The following fields help increase rigour but **are not an entry barrier**.
   - type: textarea
     id: contexto
     attributes:
-      label: Contexto mínimo de la prueba / Minimum context of the evidence
-      description: Si lo sabes, indica fecha/hora aproximada, plataforma o lugar, qué hiciste y qué resultado apareció. Si no conoces algún dato, escribe NO SÉ. / If known, indicate approximate date/time, platform or location, what you did and what result appeared. If you do not know a detail, write I DO NOT KNOW.
-    validations:
-      required: false
+      label: Contexto de la prueba / Context of the evidence
+      description: Fecha/hora aproximada, plataforma, pasos y resultado si los conoces. / Approximate date/time, platform, steps and result if known.
   - type: textarea
     id: incertidumbre
     attributes:
       label: ¿Qué no sabes todavía? / hipótesis alternativas / What do you not know yet? / alternative hypotheses
-      description: No es obligatorio tener una explicación. Puedes escribir simplemente NO SÉ. Si tienes varias posibles causas, sepáralas del hecho observado. / You are not required to have an explanation. You may simply write I DO NOT KNOW. If you have several possible causes, separate them from the observed fact.
-    validations:
-      required: true
+      description: No necesitas tener una explicación. `NO SÉ / I DON'T KNOW` es válido. / You do not need to have an explanation. `I DON'T KNOW` is valid.
   - type: textarea
     id: contradiccion
     attributes:
-      label: ¿Conoces algo que pueda contradecir tu interpretación? / Do you know anything that could contradict your interpretation?
-      description: Si existe, inclúyelo. Si no lo conoces, escribe NO SÉ. / If so, include it. If not, write I DO NOT KNOW.
-    validations:
-      required: true
+      label: ¿Qué podría contradecir tu interpretación? / What could contradict your interpretation?
+      description: Si no lo sabes, déjalo abierto. / If you do not know, leave it open.
   - type: textarea
     id: resultado
     attributes:
-      label: ¿Qué resultado o reparación sería útil? / What result or repair would be useful?
-      description: Puede ser una explicación, una comprobación, una corrección, una reparación o simplemente abrir contraste. / It may be an explanation, a check, a correction, a repair or simply opening scrutiny.
-    validations:
-      required: true
+      label: Resultado, prueba o reparación que sería útil / Useful result, test or repair
+      description: Puede ser una explicación, una comprobación, una corrección, una reparación o simplemente abrir contraste. / It may be an explanation, check, correction, repair, or simply opening scrutiny.
   - type: textarea
     id: privacidad
     attributes:
-      label: Privacidad y límites / Privacy and limits
-      description: Señala qué material no debería hacerse público o requiere anonimización. Si no aplica, escribe NO APLICA. / Indicate what material should not be made public or requires anonymisation. If not applicable, write NOT APPLICABLE.
-    validations:
-      required: true
+      label: Privacidad y límites, si aplica / Privacy and limits, if applicable
+      description: No publiques credenciales ni datos personales innecesarios. Indica si algo requiere anonimización. / Do not publish credentials or unnecessary personal data. State if something requires anonymisation.
   - type: checkboxes
     id: declaracion
     attributes:
       label: Declaraciones / Declarations
       options:
-        - label: He intentado distinguir entre lo observado, lo afirmado por otras fuentes y mis propias inferencias. / I have tried to distinguish what I observed, what other sources stated and my own inferences.
+        - label: He intentado no presentar como hecho lo que sé que es sólo interpretación o hipótesis. / I have tried not to present as fact what I know is only interpretation or hypothesis.
           required: true
-        - label: No he incluido deliberadamente datos personales innecesarios, credenciales ni material ilícito. / I have not deliberately included unnecessary personal data, credentials or unlawful material.
+        - label: No he incluido deliberadamente credenciales ni datos personales innecesarios. / I have not deliberately included credentials or unnecessary personal data.
           required: true
-        - label: Acepto que el contraste pueda corregir o contradecir mi interpretación inicial. / I accept that scrutiny may correct or contradict my initial interpretation.
+        - label: Entiendo que admitir este aporte no significa validarlo y que el contraste puede corregir mi interpretación. / I understand that admitting this contribution does not validate it and scrutiny may correct my interpretation.
           required: true
-        - label: Entiendo que admitir este aporte no significa que haya sido validado. / I understand that admitting this contribution does not mean that it has been validated.
-          required: true
-        - label: Entiendo que esta auditoría pública no sustituye a policía, tribunales, reguladores ni asesoramiento profesional. / I understand that this public audit does not replace police, courts, regulators or professional advice.
-          required: true
+  - type: markdown
+    attributes:
+      value: |
+        **Cierre de Issue ≠ cierre epistemológico.** Nueva evidencia, contraejemplos o correcciones materialmente relevantes pueden justificar reevaluación y resíntesis. / **Issue closure ≠ epistemic closure.** Materially relevant new evidence, counterexamples or corrections may justify reevaluation and resynthesis.
