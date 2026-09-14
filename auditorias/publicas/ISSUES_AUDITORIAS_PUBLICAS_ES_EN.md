@@ -165,7 +165,7 @@ Main documents in genealogical order:
 - [Interim propagation verification · case 51454627 · 30 Aug](../2026-08-30_KDP_IDEA_VINCULACION_IDIOMAS_FORMATOS.md)
 - [Global review declared applied · cases 51454627 / 51454666 · 29 Aug](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md)
 - [Regression + capability/process contradiction · case 51454627 · 1 Sep](./2026-09-01_addendum_kdp_contradiccion_capacidad_vinculacion_multilingue_caso_51454627_ES_EN.md)
-- [Correction acknowledgement + multilingual verification · case 51454599 · 14 Sep](./2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_caso_51454599_ES_EN.md)
+- [Correction acknowledgement + multilingual verification · case 51454599 · 14 Sep](./2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_ES_EN.md)
 
 **Note on `51454599`:** since 14 Sep a standalone public addendum exists. It preserves KDP’s positive acknowledgement of the format-link correction and, separately, the observation that the visible multilingual association still showed no material change in the ~14:27 CEST manual verification.
 
