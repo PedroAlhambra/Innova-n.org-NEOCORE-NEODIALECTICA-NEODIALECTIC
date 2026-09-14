@@ -212,38 +212,196 @@ La síntesis provisional queda abierta:
 
 This audit examines the public declaration **A Severe Misalignment of AI in Mathematics**, published on 11 September 2026 and described by Terence Tao as having **25 initial signatories, all Fields medallists**, together with the Leiden Declaration and the Caltech Mathathon controversy.
 
-The audit does not reduce the matter to an accusation against one company. It separates structural incentives, attribution and communication controversies, scientific-governance constraints and the capacity of existing human review systems to scale with automated cognitive production.
+The audit does not begin from an accusation against a single company. It distinguishes:
 
-## 2. Provisional synthesis
+- structural criticism of the use of mathematical problems as corporate benchmarks;
+- specific controversies involving attribution, communication and priority;
+- human-governance risks when cognitive-output scale grows faster than traditional review mechanisms;
+- possible fit, correction or extension of the neodialectical framework.
 
-The central distinction is:
+## 2. Primary and contextual sources
+
+- [Math and AI · A Severe Misalignment of AI in Mathematics](https://www.mathandai.org/)
+- [Terence Tao · A Severe Misalignment of AI in Mathematics · 11 Sep 2026](https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/)
+- [Leiden Declaration on Artificial Intelligence and Mathematics · 2 Jun 2026](https://leidendeclaration.ai/)
+- [Open Letter about the Mathathon · 10 Sep 2026](https://proofsandprompts.com/2026/09/10/open-letter-about-the-mathathon/)
+- [Response from the Mathathon organisers · 10 Sep 2026](https://proofsandprompts.com/2026/09/10/a-response-from-mathathon/)
+
+## 3. Verifiable facts separated from interpretation
+
+### 3.1 Input facts
+
+1. The September 2026 declaration states that the mathematical capabilities of LLMs have improved rapidly and that some systems can already solve relevant open problems.
+2. The signatories argue that **solving problems as a benchmark** can harm mathematical science when the objective becomes detached from conceptual understanding, attribution, rigorous writing, knowledge transmission and the generation of new questions.
+3. Terence Tao states that the 25 initial signatories are Fields medallists and acknowledges that the text was published with greater urgency and less consultation than the Leiden Declaration.
+4. The Leiden Declaration had already called for transparency in tool use, attribution, human responsibility, review, open science, protection of authors and stronger public oversight.
+5. The letter about the Caltech Mathathon specifically questions a competitive LLM-based problem-solving format sponsored by AI companies and calls for the event to be suspended.
+6. The organisers' response acknowledges that several of the concerns raised are valid and that the original public description did not adequately explain or address some of them; this acknowledgement enters as relevant rival evidence and prevents treating the controversy as a one-sided block.
+
+### 3.2 What these sources do not establish
+
+- That all AI-assisted mathematical research is harmful.
+- That all AI companies act with the same degree of risk or identical practices.
+- That an AI-produced proof lacks scientific value because of its origin.
+- That traditional human control is sufficient to resolve the identified problems.
+- That more manual human review necessarily produces more rigour, understanding or safety.
+- That there is a single correct institutional solution.
+
+## 4. Core of the criticism
+
+The declaration can be summarised as follows:
+
+```text
+OPEN PROBLEM
+→ becomes METRIC / PRIORITY RACE
+→ pressure for SPEED + PRESTIGE increases
+→ time for WRITE-UP + ATTRIBUTION + INTEGRATION decreases
+→ a solution may exist
+  without the knowledge having been absorbed by the community
+```
+
+The decisive distinction is:
 
 ```text
 SOLVING
-≠ UNDERSTANDING
-≠ TRANSMITTING
-≠ INTEGRATING INTO THE CORPUS
-≠ FORMING NEW HUMAN JUDGEMENT
+≠
+UNDERSTANDING
+≠
+TRANSMITTING
+≠
+INTEGRATING INTO THE CORPUS
+≠
+FORMING NEW HUMAN JUDGEMENT
 ```
 
-A correct solution may be scientifically valuable while still being insufficient as a knowledge process if its method, sources, attribution, reasoning and relation to the existing field cannot be reconstructed.
+A correct solution may be scientifically important and at the same time insufficient as a knowledge process if the method, sources, attribution, reasoning and relationships with the existing field cannot be reconstructed.
 
-The neodialectical extension is that **human control itself becomes an architectural object of scrutiny**.
+## 5. Neodialectical fit
+
+### 5.1 NAX-08 · Cooperation of Excellence versus Predatory Competition™
+
+The fit is direct: **benchmark ≠ Common Good**. Competition can produce excellence, but it ceases to be a healthy mechanism if the metric rewards speed, dominance or priority at the expense of traceability, energy, attribution, diversity or continuity of the common field.
+
+### 5.2 NAX-11 · Human Fixation Authority and Revisable Synthesis™
+
+Cognitive capacity may be distributed among humans, models and agents without turning AI into final authority. The new point from this audit is that **human authority does not equal constant manual human control**. Human fixation may rely on strong automation as long as evidence, responsibility and reversibility remain reconstructible.
+
+### 5.3 NAX-13 · Liberation of Control Time toward Creation and Contribution™
+
+The controversy reveals a paradox: if AI multiplies result generation, a system that requires one-by-one artisanal human review can turn the human into a bottleneck and a fatigued verifier. The framework's response should not be to restore bureaucracy, but to shift repetitive control toward **automatic traceability, formalisation, filters and audit**, returning human time to understanding, research, explanation and synthesis.
+
+### 5.4 NAX-15 · Intellectual Sovereignty of the Species™
+
+The risk does not lie only in an AI “becoming sovereign”. It also exists when a company, benchmark, platform or publication channel effectively concentrates the ability to decide which results receive compute, visibility, validation or continuity. Intellectual sovereignty requires plurality, memory, criticism, exit, return to source and correction.
+
+## 6. Conceptual delta: human control as a conscious bottleneck
+
+The phrase “human in the loop” is insufficient unless the nature of control is distinguished.
+
+### 6.1 Substantive human control
+
+It must remain where there is:
+
+- normative or canonical fixation;
+- assumption of responsibility;
+- decisions about ends and priorities;
+- resolution of value conflicts;
+- acceptance of irreversible risk;
+- attribution in ambiguous cases;
+- deep conceptual interpretation;
+- publication decisions when the impact exceeds mere formal correctness.
+
+### 6.2 Redundant human control
+
+It can and should be reduced when it consists of:
+
+- repeating checks that can already be formalised;
+- copying states between systems;
+- manually verifying evidence that can be chained cryptographically or documentarily;
+- reviewing thousands of outputs without risk prioritisation;
+- searching again for provenance that is already recorded;
+- redoing deterministic checks that an auditable system can perform better.
+
+### 6.3 Inefficient human control
+
+It appears when the system keeps the human nominally “in charge”, but without material capacity to understand the scale of outputs they must authorise.
 
 ```text
 HUMAN FORMALLY IN THE LOOP
 +
-OUTPUT VOLUME > HUMAN REVIEW CAPACITY
+VOLUME > HUMAN REVIEW CAPACITY
 =
 APPARENT CONTROL
 ```
 
-The goal is therefore not “more human control” in the abstract. It is **better human control**: human responsibility, purpose-setting, value conflict resolution and final fixation, supported by automated provenance, deterministic verification, risk triage, memory and reversible audit.
+This may be one of the most dangerous forms of loss of control: **responsibility remains human, but the real capacity for inspection no longer does**.
 
-## 3. Provisional conclusion
+### 6.4 Proposed synthesis
 
-The declaration materially converges with NAX-08, NAX-11, NAX-13 and NAX-15. The new delta proposed by this audit is to distinguish **substantive human control** from **redundant human control** and **apparent human control**.
+```text
+AI GENERATES / SEARCHES / FORMALISES / TRACES / PRIORITISES RISK
+→ AUTOMATIC SYSTEMS VERIFY THE DETERMINISTIC
+→ MULTIPLE HEADS CONTRAST THE NON-DETERMINISTIC
+→ HUMAN RECEIVES CONFLICTS, NOVELTY, RISK AND END-DECISIONS
+→ TRACEABLE HUMAN FIXATION
+→ SAN™ REOPENING
+```
 
-> **AI should not replace human judgement; human judgement should also not be trapped performing control work that traceable architecture can automate. Intellectual sovereignty requires humans to retain purpose, responsibility and fixation while machines absorb repetitive verification, memory, search and traceability.**
+The objective is not **more human control**. It is **better human control**, concentrated where human judgement contributes non-substitutable value and released where it merely repeats mechanical work.
+
+## 7. Rival hypotheses
+
+### H1 · Real structural misalignment
+
+The race for benchmarks and priority degrades the research ecosystem even if it increases the number of correct results.
+
+### H2 · Transitional adaptation crisis
+
+Mathematical institutions are adjusting publication, attribution and review norms; the tension will decrease as mechanisms mature.
+
+### H3 · Net scientific gain with institutional repair
+
+AI accelerates discovery positively; the main problem is governance of incentives, credit, communication and access.
+
+### H4 · Human-control bottleneck
+
+The existing scientific architecture does not scale against automated cognitive production. The central problem becomes designing a new relationship among automation, verification, understanding and human fixation.
+
+These hypotheses are not considered mutually exclusive.
+
+## 8. Contrast criteria
+
+The evolution of the case should observe:
+
+1. whether AI results produce reusable methods or only isolated solutions;
+2. whether attribution improves or worsens;
+3. whether the time between announcement, write-up and independent verification decreases or increases;
+4. whether human mathematicians retain the capacity to formulate relevant new questions;
+5. whether scalable public review mechanisms appear;
+6. whether formalisation reduces burden without hiding assumptions;
+7. whether concentration of compute effectively determines the scientific agenda;
+8. whether companies adjust incentives toward cooperation, reproducible publication and attribution;
+9. whether the energy and economic cost of brute force is justified by reusable knowledge;
+10. whether the “human in the loop” retains material control rather than nominal responsibility only.
+
+## 9. Impact on WEB4™ and audits
+
+This audit should feed, without automatic promotion:
+
+- **Audits and Leónidas™:** new domain `AI_MATHEMATICS_HUMAN_CONTROL`.
+- **Science, technology and research:** records containing solution, method, sources, verification state, attribution and conceptual value.
+- **Open Synthesis™:** Issue #199 as a contradiction gateway.
+- **NeoCronos™ / contribution ledger:** distinguish generation, verification, integration and synthesis time; do not equate volume with contribution.
+- **Node network:** mathematicians, institutions, models, companies, problems, proofs and methods as related nodes rather than a ranking.
+
+## 10. Provisional state
+
+**THERE IS MATERIAL FIT with the framework**, especially with NAX-08, NAX-11, NAX-13 and NAX-15.
+
+The new contribution of this audit is to clarify that the risk is not solved by “more human” in an undifferentiated way. AI scale turns the **inefficiency of current human control** into a conscious architectural problem: a system can preserve human responsibility while simultaneously losing real control through saturation, slowness, opacity or misaligned incentives.
+
+The provisional synthesis remains open:
+
+> **AI should not replace human judgement; human judgement should also not be trapped performing control work that traceable architecture can automate. Sovereignty requires humans to retain purpose, responsibility and fixation while machines absorb repetitive verification, memory, search and traceability.**
 
 This remains open to evidence, contradiction, counterexamples and revision through [Open Synthesis #199](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/199).
