@@ -65,7 +65,9 @@ Los números de caso pertenecen a KDP; los documentos, Issues y commits son la c
 ### Caso `51454599` · asociación incompleta → corrección entre formatos reconocida → verificación 14-09 sin cambio material multilingüe
 
 1. [29-08 · revisión global aplicada · casos 51454627 / 51454666](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md), que registra el reconocimiento de la agrupación español/inglés incorrecta y la asociación lingüística incompleta.
-2. [14-09 · reconocimiento de corrección y verificación multilingüe · caso 51454599](./2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_ES_EN.md): KDP reconoce la corrección entre formatos y agradece la documentación; la verificación manual de ~14:27 CEST mantiene la asociación multilingüe como `NO_MATERIAL_CHANGE`.
+2. [14-09 · reconocimiento de corrección y verificación multilingüe · caso 51454599](./2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_ES_EN.md): KDP reconoce la corrección entre formatos y agradece la documentación; la verificación manual de ~14:27 CEST mantiene la asociación multilingüe como `NO_MATERIAL_CHANGE`.  
+   Delta de creación del addendum: [`55327cdc`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/55327cdcc65180c36b6a06e09500b51b91449860).  
+   Delta de reconciliación genealógica: [`f6c93e43`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/f6c93e4363c9bfb662f438d41ecffab84b77c479).
 3. [Issue #70 · actualización pública 14-09](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70#issuecomment-5663821571) y [verificación manual 14-09](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70#issuecomment-5663928303).
 
 Estado reconciliado: `AUDIT_PHASE=CLOSED / FORMAT_LINK_CORRECTION_ACKNOWLEDGED / MULTILINGUAL_ASSOCIATION=OPEN / VERIFICATION_2026-09-14=NO_MATERIAL_CHANGE / INCIDENT_OPEN_UNTIL_MATERIAL_AND_PERSISTENT_CORRECTION`.
@@ -173,7 +175,7 @@ KDP case numbers belong to KDP; documents, Issues and commits form Innova_N's pu
 
 ### Case `51071689` · initial correction → premature closure → reopening
 
-1. [Provisional operational milestone · 6 Aug](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)  
+1. [Provisional operational milestone · 6 Aug](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author-central-idea_ES_EN.md)  
    Reclassification delta marking the milestone as provisional: [`7c5f687f`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/7c5f687f3e8082355fa8b84aaa33f5b164546638).
 2. [Traceable reopening · 7 Aug · case 51071689](./2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md)  
    Reopening/self-correction delta: [`69458cd2`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/69458cd27f00734899768e92991317db686f30d3).
@@ -197,7 +199,9 @@ KDP case numbers belong to KDP; documents, Issues and commits form Innova_N's pu
 ### Case `51454599` · incomplete association → format-link correction acknowledged → 14 Sep multilingual verification with no material change
 
 1. [29 Aug · global review applied · cases 51454627 / 51454666](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md), which records acknowledgement of the incorrect Spanish/English grouping and incomplete language association.
-2. [14 Sep · correction acknowledgement and multilingual verification · case 51454599](./2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_ES_EN.md): KDP acknowledges the format-link correction and thanks us for the documentation; the ~14:27 CEST manual verification keeps the multilingual association at `NO_MATERIAL_CHANGE`.
+2. [14 Sep · correction acknowledgement and multilingual verification · case 51454599](./2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_ES_EN.md): KDP acknowledges the format-link correction and thanks us for the documentation; the ~14:27 CEST manual verification keeps the multilingual association at `NO_MATERIAL_CHANGE`.  
+   Addendum creation delta: [`55327cdc`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/55327cdcc65180c36b6a06e09500b51b91449860).  
+   Genealogy reconciliation delta: [`f6c93e43`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/f6c93e4363c9bfb662f438d41ecffab84b77c479).
 3. [Issue #70 · 14 Sep public update](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70#issuecomment-5663821571) and [14 Sep manual verification](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70#issuecomment-5663928303).
 
 Reconciled state: `AUDIT_PHASE=CLOSED / FORMAT_LINK_CORRECTION_ACKNOWLEDGED / MULTILINGUAL_ASSOCIATION=OPEN / VERIFICATION_2026-09-14=NO_MATERIAL_CHANGE / INCIDENT_OPEN_UNTIL_MATERIAL_AND_PERSISTENT_CORRECTION`.
