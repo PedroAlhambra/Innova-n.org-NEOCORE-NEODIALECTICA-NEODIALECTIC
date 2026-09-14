@@ -81,13 +81,14 @@ PROBLEMA
 
 **Aportes buscados:** cronologías y pruebas sobre mappings, ISRC/UPC, perfiles mezclados, desapariciones/reapariciones, regalías y soporte. No se solicita adhesión a una acusación.
 
-### 2.3 · Amazon KDP · Author Central · IDEA · genealogía 51071689 / 51425302 / 51454599 / 51454627 / 51454666
+### 2.3 · Amazon KDP · Author Central · IDEA · genealogía 51071689 / 51425188 / 51425302 / 51454599 / 51454627 / 51454666
 
 - [Auditoría indirecta pública](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 - [Caso de éxito operativo provisional](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
 - [Addendum 28-08-2026 · vinculación idioma/formato · caso 51425302](./2026-08-28_addendum_kdp_vinculacion_idiomas_formatos_caso_51425302_ES_EN.md)
 - [Addendum 29-08-2026 · asociación multilingüe pendiente](./2026-08-29_addendum_kdp_asociacion_multilingue_caso_51425302_ES_EN.md)
 - [Addendum 29-08-2026 · revisión global aplicada + vía de sinergias](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md)
+- [Auditoría 30-08-2026 · verificación intermedia durante propagación · caso 51454627](../2026-08-30_KDP_IDEA_VINCULACION_IDIOMAS_FORMATOS.md)
 - **[Addendum 01-09-2026 · actuación multilingüe demostrada/declarada, ventana de 7 días y contradicción posterior de capacidad](./2026-09-01_addendum_kdp_contradiccion_capacidad_vinculacion_multilingue_caso_51454627_ES_EN.md)**
 - **[Addendum 14-09-2026 · caso 51454599 · reconocimiento de corrección y verificación multilingüe](./2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_ES_EN.md)**
 - [#70 · aportes, pruebas y contactos de sinergia](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)
@@ -178,13 +179,14 @@ PROBLEM
 
 **Contributions sought:** timelines and evidence concerning mappings, ISRC/UPC, mixed profiles, disappearances/reappearances, royalties and support. Endorsement of an allegation is not requested.
 
-### 2.3 · Amazon KDP · Author Central · IDEA · genealogy 51071689 / 51425302 / 51454599 / 51454627 / 51454666
+### 2.3 · Amazon KDP · Author Central · IDEA · genealogy 51071689 / 51425188 / 51425302 / 51454599 / 51454627 / 51454666
 
 - [Public indirect audit](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 - [Provisional operational success case](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
 - [28 Aug 2026 addendum · language/format linking · case 51425302](./2026-08-28_addendum_kdp_vinculacion_idiomas_formatos_caso_51425302_ES_EN.md)
 - [29 Aug 2026 addendum · multilingual association pending](./2026-08-29_addendum_kdp_asociacion_multilingue_caso_51425302_ES_EN.md)
 - [29 Aug 2026 addendum · global review applied + synergy route](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md)
+- [30 Aug 2026 audit · interim verification during propagation · case 51454627](../2026-08-30_KDP_IDEA_VINCULACION_IDIOMAS_FORMATOS.md)
 - **[1 Sep 2026 addendum · demonstrated/declared multilingual action, seven-day window and later capability contradiction](./2026-09-01_addendum_kdp_contradiccion_capacidad_vinculacion_multilingue_caso_51454627_ES_EN.md)**
 - **[14 Sep 2026 addendum · case 51454599 · correction acknowledgement and multilingual verification](./2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_ES_EN.md)**
 - [#70 · contributions, evidence and synergy contacts](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)
