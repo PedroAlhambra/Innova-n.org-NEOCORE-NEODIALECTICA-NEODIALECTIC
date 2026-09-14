@@ -54,6 +54,12 @@ Los números de caso pertenecen a KDP; los documentos, Issues y commits son la c
 6. [Regresión ES/EN, idioma × formato y extensión a reciprocidad global · 26–27-08](./2026-08-26_addendum_kdp_vinculacion_cruzada_es_en_formatos_51071689_ES_EN.md)  
    Deltas relevantes: [`ae8d9dd3`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/ae8d9dd3bdea7757fdd03f80168beb147210881f) → [`7e7928ed`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/7e7928edc426bbf5ac3b8ec3d2721d183b6fe8dd) → [`317c650c`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/317c650cde00e2ba94c7d572ce8d1f109029a7b5).
 
+### Caso `51425188` · corrección de cruce de tapa blanda EN → supersedido sin borrado genealógico
+
+No existe un addendum público autónomo dedicado exclusivamente al `51425188`. El caso queda conservado en la [matriz de casos abiertos y reescalado temporal del 03-09](./2026-09-03_kdp_matriz_casos_abiertos_y_reescalado_temporal_ES_EN.md), que documenta la corrección comunicada por KDP el 28-08, su carácter posteriormente supersedido y el recordatorio de conservación del 03-09.
+
+Su función genealógica es intermedia: `51071689 → 51425188 → 51425302 / 51454599 / 51454627`. No debe reabrirse por rutina; se conserva como antecedente de la incidencia de agrupación idioma/formato.
+
 ### Caso `51425302` · corrección de formatos → residuo multilingüe
 
 1. [28-08 · vinculación de idiomas y formatos · caso 51425302](./2026-08-28_addendum_kdp_vinculacion_idiomas_formatos_caso_51425302_ES_EN.md)  
@@ -77,11 +83,13 @@ Estado reconciliado: `AUDIT_PHASE=CLOSED / FORMAT_LINK_CORRECTION_ACKNOWLEDGED /
 1. [29-08 · revisión global declarada aplicada · casos 51454627 / 51454666](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md)  
    Delta original de fijación de la actuación: [`d59d85dc`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/d59d85dcc9d2d9a26247c8df4078e0893851f874).  
    Delta de conexión genealógica con la regresión posterior: [`755e8266`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/755e82661cf8b9d69f693462a7f98f65947ed062).
-2. [01-09 · contradicción sobre capacidad/proceso de vinculación multilingüe · caso 51454627](./2026-09-01_addendum_kdp_contradiccion_capacidad_vinculacion_multilingue_caso_51454627_ES_EN.md)  
+2. [30-08 · verificación intermedia durante propagación](../2026-08-30_KDP_IDEA_VINCULACION_IDIOMAS_FORMATOS.md): se observaron Español, Inglés, Finlandés e Italiano; avance real pero asociación todavía incompleta dentro de la ventana comunicada por KDP.
+3. [01-09 · contradicción sobre capacidad/proceso de vinculación multilingüe · caso 51454627](./2026-09-01_addendum_kdp_contradiccion_capacidad_vinculacion_multilingue_caso_51454627_ES_EN.md)  
    Delta de creación: [`a585fbb0`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/a585fbb0ffd7b35a835139ede21426f240bc000a).  
    Delta de precisión «actuación ya ejecutada + hasta 7 días»: [`edc08d1d`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/edc08d1dac287dba2fe31dfc664f86472334fa5d).
-3. [Issue #70 · comentario de reapertura y estado vivo](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70#issuecomment-5498981763).
-4. Condición siguiente: **verificación al agotarse la ventana de hasta siete días + reconciliación del mecanismo/equipo/proceso que permitió la actuación declarada el 29/08**.
+4. [Issue #70 · comentario de reapertura y estado vivo](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70#issuecomment-5498981763).
+5. [03-09 · matriz reconciliada de casos y reescalado temporal](./2026-09-03_kdp_matriz_casos_abiertos_y_reescalado_temporal_ES_EN.md), que conserva también `51425188` y los identificadores Gmail de los recordatorios ejecutados.
+6. Condición vigente: **esperar cambio material o respuesta técnica nueva, verificar la UI pública y cerrar únicamente tras asociación multilingüe correcta y persistente o mecanismo alternativo fiable**.
 
 ### Caso `51454666` · propuesta de auditoría / colaboración y problema de routing
 
@@ -102,23 +110,26 @@ AUDITORÍA MAESTRA
   ├─ subtraza keywords
   └─ regresión idioma × formato 26–27/08
         ↓
+51425188
+  └─ cruce erróneo de tapa blanda EN corregido / supersedido
+        ↓
 51425302
   ├─ formato ES corregido
   ├─ formato EN corregido
   └─ asociación multilingüe incompleta
-        ↓
-51454599
-  ├─ reconocimiento de agrupación/asociación incorrecta
-  ├─ 14/09 corrección entre formatos reconocida
-  └─ 14/09 asociación multilingüe sin cambio material
-        ↓
-51454627
+        ├──────────────→ 51454599
+        │                 ├─ reconocimiento de agrupación/asociación incorrecta
+        │                 ├─ 14/09 corrección entre formatos reconocida
+        │                 └─ 14/09 asociación multilingüe sin cambio material
+        └──────────────→ 51454627
   ├─ 29/08 actuación multilingüe declarada ejecutada
   ├─ hasta 7 días de propagación
   ├─ mejora parcial observada
   └─ 01/09 regresión + contradicción de capacidad/proceso
         ↓
-VERIFICACIÓN DÍA 7 + RECONCILIACIÓN TÉCNICA
+14/09 VERIFICACIÓN SIN CAMBIO MATERIAL
+        ↓
+INCIDENCIA ABIERTA HASTA CORRECCIÓN PERSISTENTE / ALTERNATIVA FIABLE
 
 RAMA PARALELA:
 51454666
@@ -175,7 +186,7 @@ KDP case numbers belong to KDP; documents, Issues and commits form Innova_N's pu
 
 ### Case `51071689` · initial correction → premature closure → reopening
 
-1. [Provisional operational milestone · 6 Aug](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author-central-idea_ES_EN.md)  
+1. [Provisional operational milestone · 6 Aug](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)  
    Reclassification delta marking the milestone as provisional: [`7c5f687f`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/7c5f687f3e8082355fa8b84aaa33f5b164546638).
 2. [Traceable reopening · 7 Aug · case 51071689](./2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md)  
    Reopening/self-correction delta: [`69458cd2`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/69458cd27f00734899768e92991317db686f30d3).
@@ -187,6 +198,12 @@ KDP case numbers belong to KDP; documents, Issues and commits form Innova_N's pu
    Documentary-audit delta: [`62419d8f`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/62419d8fb159e19b1ff8a7ca16199ab5957e2130).
 6. [ES/EN regression, language × format and extension to global reciprocity · 26–27 Aug](./2026-08-26_addendum_kdp_vinculacion_cruzada_es_en_formatos_51071689_ES_EN.md)  
    Relevant deltas: [`ae8d9dd3`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/ae8d9dd3bdea7757fdd03f80168beb147210881f) → [`7e7928ed`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/7e7928edc426bbf5ac3b8ec3d2721d183b6fe8dd) → [`317c650c`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/317c650cde00e2ba94c7d572ce8d1f109029a7b5).
+
+### Case `51425188` · EN paperback cross-link correction → superseded without genealogical erasure
+
+There is no standalone public addendum devoted exclusively to `51425188`. The case is preserved in the [3 Sep open-case and timed re-escalation matrix](./2026-09-03_kdp_matriz_casos_abiertos_y_reescalado_temporal_ES_EN.md), which records the correction communicated by KDP on 28 Aug, its later superseded status and the one-off preservation follow-up on 3 Sep.
+
+Its genealogical role is intermediate: `51071689 → 51425188 → 51425302 / 51454599 / 51454627`. It must not be routinely reopened; it remains as an antecedent of the language/format grouping incident.
 
 ### Case `51425302` · format repair → multilingual residual
 
@@ -211,17 +228,19 @@ Reconciled state: `AUDIT_PHASE=CLOSED / FORMAT_LINK_CORRECTION_ACKNOWLEDGED / MU
 1. [29 Aug · global review declared applied · cases 51454627 / 51454666](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md)  
    Original fixation delta for the declared action: [`d59d85dc`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/d59d85dcc9d2d9a26247c8df4078e0893851f874).  
    Genealogical-connection delta to the later regression: [`755e8266`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/755e82661cf8b9d69f693462a7f98f65947ed062).
-2. [1 Sep · contradiction about multilingual-linking capability/process · case 51454627](./2026-09-01_addendum_kdp_contradiccion_capacidad_vinculacion_multilingue_caso_51454627_ES_EN.md)  
+2. [30 Aug · interim verification during propagation](../2026-08-30_KDP_IDEA_VINCULACION_IDIOMAS_FORMATOS.md): Spanish, English, Finnish and Italian were visible; real progress but still incomplete association within KDP's stated window.
+3. [1 Sep · contradiction about multilingual-linking capability/process · case 51454627](./2026-09-01_addendum_kdp_contradiccion_capacidad_vinculacion_multilingue_caso_51454627_ES_EN.md)  
    Creation delta: [`a585fbb0`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/a585fbb0ffd7b35a835139ede21426f240bc000a).  
    Clarification delta “action already executed + up to 7 days”: [`edc08d1d`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/edc08d1dac287dba2fe31dfc664f86472334fa5d).
-3. [Issue #70 · reopening comment and living state](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70#issuecomment-5498981763).
-4. Next condition: **verification when the up-to-seven-day window expires + reconciliation of the mechanism/team/process that enabled the action declared on 29 Aug**.
+4. [Issue #70 · reopening comment and living state](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70#issuecomment-5498981763).
+5. [3 Sep · reconciled open-case and timed re-escalation matrix](./2026-09-03_kdp_matriz_casos_abiertos_y_reescalado_temporal_ES_EN.md), which also preserves `51425188` and the Gmail identifiers of the executed follow-ups.
+6. Current condition: **wait for a material change or new technical response, verify the public UI, and close only after correct and persistent multilingual association or a reliable alternative mechanism**.
 
 ### Case `51454666` · audit/collaboration proposal and routing problem
 
 - It is documented genealogically in [29 Aug · global review applied + synergy route](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md).
 - State: proposal not evaluated on its merits by KDP Support; search for a competent product, catalogue, systems, research, innovation or quality channel.
-- Its relation to `51454627` is **organisational**, not identity of incident: the former concerns collaboration routing/evaluation; the latter concerns technical integrity of the multilingual family.
+- Its relation with `51454627` is **organisational**, not identity of incident: the former concerns collaboration routing/evaluation; the latter concerns technical integrity of the multilingual family.
 
 ## 3. Compact graph
 
@@ -236,23 +255,26 @@ MASTER AUDIT
   ├─ keyword subtrace
   └─ language × format regression 26–27 Aug
         ↓
+51425188
+  └─ incorrect EN paperback cross-link corrected / superseded
+        ↓
 51425302
   ├─ ES format corrected
   ├─ EN format corrected
   └─ incomplete multilingual association
-        ↓
-51454599
-  ├─ acknowledgement of incorrect grouping/association
-  ├─ 14 Sep format-link correction acknowledged
-  └─ 14 Sep multilingual association with no material change
-        ↓
-51454627
+        ├──────────────→ 51454599
+        │                 ├─ acknowledgement of incorrect grouping/association
+        │                 ├─ 14 Sep format-link correction acknowledged
+        │                 └─ 14 Sep multilingual association with no material change
+        └──────────────→ 51454627
   ├─ 29 Aug multilingual action declared executed
   ├─ up to 7 days of propagation
   ├─ partial improvement observed
   └─ 1 Sep regression + capability/process contradiction
         ↓
-DAY-7 VERIFICATION + TECHNICAL RECONCILIATION
+14 SEP VERIFICATION WITH NO MATERIAL CHANGE
+        ↓
+INCIDENT OPEN UNTIL PERSISTENT CORRECTION / RELIABLE ALTERNATIVE
 
 PARALLEL BRANCH:
 51454666
