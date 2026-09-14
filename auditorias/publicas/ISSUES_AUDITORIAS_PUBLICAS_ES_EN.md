@@ -56,10 +56,11 @@ Documentos principales, en orden genealógico:
 - [Asociación multilingüe pendiente · caso 51425302 · 29-08](./2026-08-29_addendum_kdp_asociacion_multilingue_caso_51425302_ES_EN.md)
 - [Revisión global declarada aplicada · casos 51454627 / 51454666 · 29-08](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md)
 - [Regresión + contradicción de capacidad/proceso · caso 51454627 · 01-09](./2026-09-01_addendum_kdp_contradiccion_capacidad_vinculacion_multilingue_caso_51454627_ES_EN.md)
+- [Reconocimiento de corrección + verificación multilingüe · caso 51454599 · 14-09](./2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_ES_EN.md)
 
-**Nota sobre `51454599`:** forma parte de la genealogía y queda referenciado en el addendum del 29-08, pero actualmente no existe un addendum público autónomo dedicado exclusivamente a ese número. La ausencia se conserva explícitamente en el mapa en lugar de inventar un nodo documental.
+**Nota sobre `51454599`:** desde el 14-09 existe un addendum público autónomo. Conserva el reconocimiento positivo de KDP sobre la corrección entre formatos y, por separado, la observación de que la asociación multilingüe visible seguía sin cambio material en la verificación manual de ~14:27 CEST.
 
-**Estado vivo:** KDP declaró el 29-08 una actuación multilingüe ya ejecutada y hasta siete días de propagación; después se observó mejora parcial y una regresión dentro de esa ventana. El 01-09 otro supervisor negó capacidad directa de KDP Support para gestionar/corregir esa capa. Permanecen abiertas la verificación al agotarse el plazo y la reconciliación del mecanismo/equipo/proceso que permitió la actuación declarada.
+**Estado vivo:** `AUDIT_PHASE=CLOSED / FORMAT_LINK_CORRECTION_ACKNOWLEDGED / MULTILINGUAL_ASSOCIATION=OPEN / VERIFICATION_2026-09-14=NO_MATERIAL_CHANGE / INCIDENT_OPEN_UNTIL_MATERIAL_AND_PERSISTENT_CORRECTION`.
 
 **Regla:** `NUEVA_TRAZA != ESTADO_RECONCILIADO`. Cada nueva traza debe enlazar caso, documento, Issue, delta/commit y condición de cierre/reapertura.
 
@@ -160,10 +161,11 @@ Main documents in genealogical order:
 - [Multilingual association pending · case 51425302 · 29 Aug](./2026-08-29_addendum_kdp_asociacion_multilingue_caso_51425302_ES_EN.md)
 - [Global review declared applied · cases 51454627 / 51454666 · 29 Aug](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md)
 - [Regression + capability/process contradiction · case 51454627 · 1 Sep](./2026-09-01_addendum_kdp_contradiccion_capacidad_vinculacion_multilingue_caso_51454627_ES_EN.md)
+- [Correction acknowledgement + multilingual verification · case 51454599 · 14 Sep](./2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_ES_EN.md)
 
-**Note on `51454599`:** it is part of the genealogy and is referenced in the 29 Aug addendum, but there is currently no standalone public addendum devoted exclusively to that number. The absence is explicitly preserved in the map rather than inventing a documentary node.
+**Note on `51454599`:** since 14 Sep a standalone public addendum exists. It preserves KDP’s positive acknowledgement of the format-link correction and, separately, the observation that the visible multilingual association still showed no material change in the ~14:27 CEST manual verification.
 
-**Live state:** on 29 Aug KDP stated that a multilingual action had already been executed and allowed up to seven days for propagation; a partial improvement and then a regression were observed within that window. On 1 Sep another supervisor denied direct KDP Support capability to manage/correct that layer. End-of-window verification and reconciliation of the mechanism/team/process behind the 29 Aug action remain open.
+**Live state:** `AUDIT_PHASE=CLOSED / FORMAT_LINK_CORRECTION_ACKNOWLEDGED / MULTILINGUAL_ASSOCIATION=OPEN / VERIFICATION_2026-09-14=NO_MATERIAL_CHANGE / INCIDENT_OPEN_UNTIL_MATERIAL_AND_PERSISTENT_CORRECTION`.
 
 **Rule:** `NEW_TRACE != RECONCILED_STATE`. Each new trace should link case, document, Issue, delta/commit and closure/reopening condition.
 
