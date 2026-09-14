@@ -62,13 +62,13 @@ Los números de caso pertenecen a KDP; los documentos, Issues y commits son la c
    Delta: [`c08d3e4a`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/c08d3e4ade4f9882b494103befc72df4acedcd08).
 3. Continuación: el residuo multilingüe desemboca en los casos `51454599` y `51454627`, documentados en el siguiente nodo.
 
-### Caso `51454599` · reconocimiento de agrupación incorrecta / asociación incompleta
+### Caso `51454599` · asociación incompleta → corrección entre formatos reconocida → verificación 14-09 sin cambio material multilingüe
 
-No existe en esta genealogía un addendum público autónomo dedicado exclusivamente al `51454599`. Su papel se conserva **sin inventar un nodo documental inexistente** dentro de:
+1. [29-08 · revisión global aplicada · casos 51454627 / 51454666](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md), que registra el reconocimiento de la agrupación español/inglés incorrecta y la asociación lingüística incompleta.
+2. [14-09 · reconocimiento de corrección y verificación multilingüe · caso 51454599](./2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_ES_EN.md): KDP reconoce la corrección entre formatos y agradece la documentación; la verificación manual de ~14:27 CEST mantiene la asociación multilingüe como `NO_MATERIAL_CHANGE`.
+3. [Issue #70 · actualización pública 14-09](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70#issuecomment-5663821571) y [verificación manual 14-09](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70#issuecomment-5663928303).
 
-- [29-08 · revisión global aplicada · casos 51454627 / 51454666](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md), que registra que el `51454599` reconoció la agrupación español/inglés incorrecta y la asociación lingüística incompleta.
-
-Este estado debe mantenerse como `CASE_REFERENCED_IN_GENEALOGY / NO_STANDALONE_PUBLIC_ADDENDUM` hasta que exista un documento específico o nueva evidencia que justifique crearlo.
+Estado reconciliado: `AUDIT_PHASE=CLOSED / FORMAT_LINK_CORRECTION_ACKNOWLEDGED / MULTILINGUAL_ASSOCIATION=OPEN / VERIFICATION_2026-09-14=NO_MATERIAL_CHANGE / INCIDENT_OPEN_UNTIL_MATERIAL_AND_PERSISTENT_CORRECTION`.
 
 ### Caso `51454627` · actuación multilingüe declarada ejecutada → regresión → contradicción de proceso
 
@@ -106,7 +106,9 @@ AUDITORÍA MAESTRA
   └─ asociación multilingüe incompleta
         ↓
 51454599
-  └─ reconocimiento de agrupación/asociación incorrecta
+  ├─ reconocimiento de agrupación/asociación incorrecta
+  ├─ 14/09 corrección entre formatos reconocida
+  └─ 14/09 asociación multilingüe sin cambio material
         ↓
 51454627
   ├─ 29/08 actuación multilingüe declarada ejecutada
@@ -192,13 +194,13 @@ KDP case numbers belong to KDP; documents, Issues and commits form Innova_N's pu
    Delta: [`c08d3e4a`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/c08d3e4ade4f9882b494103befc72df4acedcd08).
 3. Continuation: the multilingual residual leads into cases `51454599` and `51454627`, documented in the next node.
 
-### Case `51454599` · acknowledgement of incorrect grouping / incomplete association
+### Case `51454599` · incomplete association → format-link correction acknowledged → 14 Sep multilingual verification with no material change
 
-There is no standalone public addendum dedicated exclusively to `51454599` in this genealogy. Its role is preserved **without inventing a non-existent documentary node** within:
+1. [29 Aug · global review applied · cases 51454627 / 51454666](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md), which records acknowledgement of the incorrect Spanish/English grouping and incomplete language association.
+2. [14 Sep · correction acknowledgement and multilingual verification · case 51454599](./2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_ES_EN.md): KDP acknowledges the format-link correction and thanks us for the documentation; the ~14:27 CEST manual verification keeps the multilingual association at `NO_MATERIAL_CHANGE`.
+3. [Issue #70 · 14 Sep public update](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70#issuecomment-5663821571) and [14 Sep manual verification](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70#issuecomment-5663928303).
 
-- [29 Aug · global review applied · cases 51454627 / 51454666](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md), which records that `51454599` acknowledged the incorrect Spanish/English grouping and incomplete language association.
-
-This state must remain `CASE_REFERENCED_IN_GENEALOGY / NO_STANDALONE_PUBLIC_ADDENDUM` until a specific document exists or new evidence justifies creating one.
+Reconciled state: `AUDIT_PHASE=CLOSED / FORMAT_LINK_CORRECTION_ACKNOWLEDGED / MULTILINGUAL_ASSOCIATION=OPEN / VERIFICATION_2026-09-14=NO_MATERIAL_CHANGE / INCIDENT_OPEN_UNTIL_MATERIAL_AND_PERSISTENT_CORRECTION`.
 
 ### Case `51454627` · declared multilingual action executed → regression → process contradiction
 
@@ -236,7 +238,9 @@ MASTER AUDIT
   └─ incomplete multilingual association
         ↓
 51454599
-  └─ acknowledgement of incorrect grouping/association
+  ├─ acknowledgement of incorrect grouping/association
+  ├─ 14 Sep format-link correction acknowledged
+  └─ 14 Sep multilingual association with no material change
         ↓
 51454627
   ├─ 29 Aug multilingual action declared executed
