@@ -25,6 +25,7 @@ La auditoría no parte de una acusación contra una única empresa. Distingue:
 - [Terence Tao · A Severe Misalignment of AI in Mathematics · 11-09-2026](https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/)
 - [Leiden Declaration on Artificial Intelligence and Mathematics · 02-06-2026](https://leidendeclaration.ai/)
 - [Open Letter about the Mathathon · 10-09-2026](https://proofsandprompts.com/2026/09/10/open-letter-about-the-mathathon/)
+- [Respuesta de los organizadores del Mathathon · 10-09-2026](https://proofsandprompts.com/2026/09/10/a-response-from-mathathon/)
 
 ## 3. Hechos verificables separados de interpretación
 
@@ -35,6 +36,7 @@ La auditoría no parte de una acusación contra una única empresa. Distingue:
 3. Terence Tao indica que los 25 firmantes iniciales son medallistas Fields y reconoce que el texto se publicó con más urgencia y menos proceso consultivo que la Leiden Declaration.
 4. La Leiden Declaration ya había reclamado transparencia en el uso de herramientas, atribución, responsabilidad humana, revisión, ciencia abierta, protección de autores y mayor supervisión pública.
 5. La carta sobre el Caltech Mathathon cuestiona específicamente un formato competitivo de resolución de problemas con LLMs patrocinado por empresas de IA y pide suspender el evento.
+6. La respuesta de los organizadores reconoce que varias de las preocupaciones planteadas son válidas y que la descripción pública original no explicó o abordó adecuadamente algunas de ellas; este reconocimiento entra como evidencia rival relevante y evita tratar la controversia como un bloque unilateral.
 
 ### 3.2 Lo que no queda demostrado por estas fuentes
 

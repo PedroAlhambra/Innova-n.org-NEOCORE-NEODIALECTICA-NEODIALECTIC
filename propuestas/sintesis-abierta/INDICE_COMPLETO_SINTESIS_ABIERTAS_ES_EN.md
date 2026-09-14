@@ -1,7 +1,7 @@
 # Índice Completo de Síntesis Abiertas™
 # Complete Open Synthesis™ Index
 
-**Fecha / Date:** 2026-09-11
+**Fecha / Date:** 2026-09-14
 **Estado / Status:** vivo, versionado y revisable / living, versioned and revisable  
 **Cobertura / Coverage:** **86 manifiestos finitos I–LXXXVI + Manifiesto ∞ · 29 Neoaxiomas™ canónicos + 1 candidato C-NAX-30 · síntesis transversales, auditorías y proyectos de sistema / 86 finite manifestos I–LXXXVI + Manifesto ∞ · 29 canonical Neoaxioms™ + 1 candidate C-NAX-30 · cross-cutting syntheses, audits and system projects**.
 
@@ -192,6 +192,7 @@ Estas entradas no sustituyen la síntesis de un manifiesto o Neoaxioma: abren ob
 | No Absolutización de Escala™, Residuo Fenomenológico y Cosmologías Monádicas | [#104](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/104) |
 | Delta · Defensa de la Inocencia Humana™ ↔ Fauno™ ↔ Separación de Planos™ ↔ Hombre Custodio™ | [documento / document](./2026-08-11_DELTA_DEFENSA_INOCENCIA_FAUNO_SEPARACION_PLANOS_HOMBRE_CUSTODIO_ES_EN.md) · [#119](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/119) · [#120](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/120) · [#121](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/121) · [#122](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/122) · [C-NAX-19 #123](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/123) |
 | LinkedIn · #neodialéctica y previsualización innova-n.org | [#108](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/108) |
+| IA · matemáticas · control humano · resolver ≠ comprender / AI · mathematics · human control · solving ≠ understanding | [Auditoría / Audit](../../auditorias/publicas/2026-09-13_auditoria_ia_matematicas_control_humano_sintesis_ES_EN.md) · [#199](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/199) |
 
 ---
 

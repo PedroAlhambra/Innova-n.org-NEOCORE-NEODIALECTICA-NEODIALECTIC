@@ -108,6 +108,13 @@ Se aceptan pruebas de enlaces rotos, archivos huérfanos, estados obsoletos, nav
 
 La dependencia del marco respecto de Neo0™, la carga de creación y mantenimiento y la conducta del fundador permanecen abiertas a crítica y corrección.
 
+### 2.6 · IA · matemáticas · control humano · resolver ≠ comprender
+
+- [Auditoría pública IA, matemáticas y control humano](./2026-09-13_auditoria_ia_matematicas_control_humano_sintesis_ES_EN.md)
+- [#199 · Síntesis Abierta](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/199)
+
+**Estado:** síntesis provisional y reabrible. Se contrastan la crítica al uso de problemas abiertos como benchmark, la respuesta de los organizadores del Mathathon y el riesgo de control humano aparente por saturación. `RESOLVER ≠ COMPRENDER` y `HUMANO EN EL BUCLE ≠ CONTROL MATERIAL` permanecen como hipótesis arquitectónicas sometidas a evidencia.
+
 ## 3 · Abrir una Auditoría Pública
 
 No es necesario que Innova_N haya detectado primero el problema. Puede proponerse una auditoría mediante la plantilla GitHub **`Auditoría Pública · aporte o nueva propuesta`**.
@@ -196,6 +203,13 @@ Evidence of broken links, orphan files, stale states, asymmetric navigation, Wik
 - [#68 · Open Synthesis](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/68)
 
 The framework's dependency on Neo0™, the creation/maintenance burden and the founder's conduct remain open to criticism and correction.
+
+### 2.6 · AI · mathematics · human control · solving ≠ understanding
+
+- [Public audit · AI, mathematics and human control](./2026-09-13_auditoria_ia_matematicas_control_humano_sintesis_ES_EN.md)
+- [#199 · Open Synthesis](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/199)
+
+**Status:** provisional and reopenable synthesis. It contrasts criticism of open problems as benchmarks, the Mathathon organisers' response and the risk of apparent human control under review saturation. `SOLVING ≠ UNDERSTANDING` and `HUMAN IN THE LOOP ≠ MATERIAL CONTROL` remain architectural hypotheses open to evidence.
 
 ## 3 · Opening a Public Audit
 
