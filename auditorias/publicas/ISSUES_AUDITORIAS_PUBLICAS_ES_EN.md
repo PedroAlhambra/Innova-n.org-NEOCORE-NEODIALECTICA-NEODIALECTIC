@@ -24,7 +24,7 @@ Documentos principales:
 
 **Aportes prioritarios:** músicos, sellos, productores, técnicos de metadata, distribuidores y DSPs con casos comparables y evidencia verificable.
 
-### 2. Amazon KDP · Author Central · IDEA · genealogía 51071689 → 51425302 → 51454599 → 51454627
+### 2. Amazon KDP · Author Central · IDEA · genealogía 51071689 → 51425188 → 51425302 → {51454599 ↔ 51454627}
 
 **Issue vivo:** [#70 · KDP / Author Central / IDEA · aportes y pruebas](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)  
 **Mapa genealógico:** **[KDP · IDEA · casos → documentos → Issue → deltas/commits → verificación](./KDP_IDEA_GENEALOGIA_TRAZABLE_CASOS_ISSUES_DELTAS_ES_EN.md)**
@@ -33,10 +33,11 @@ Cadena principal:
 
 ```text
 51071689
+→ 51425188
 → 51425302
-→ 51454599
-→ 51454627
-→ VERIFICACIÓN AL DÍA 7 + RECONCILIACIÓN TÉCNICA
+  ├→ 51454599
+  └→ 51454627
+→ VERIFICACIÓN MATERIAL + RECONCILIACIÓN TÉCNICA
 
 RAMA PARALELA
 51454666
@@ -54,6 +55,7 @@ Documentos principales, en orden genealógico:
 - [Regresión ES/EN + matriz idioma × formato · caso 51071689 · 26–27-08](./2026-08-26_addendum_kdp_vinculacion_cruzada_es_en_formatos_51071689_ES_EN.md)
 - [Vinculación idioma/formato · caso 51425302 · 28-08](./2026-08-28_addendum_kdp_vinculacion_idiomas_formatos_caso_51425302_ES_EN.md)
 - [Asociación multilingüe pendiente · caso 51425302 · 29-08](./2026-08-29_addendum_kdp_asociacion_multilingue_caso_51425302_ES_EN.md)
+- [Verificación intermedia de propagación · caso 51454627 · 30-08](../2026-08-30_KDP_IDEA_VINCULACION_IDIOMAS_FORMATOS.md)
 - [Revisión global declarada aplicada · casos 51454627 / 51454666 · 29-08](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md)
 - [Regresión + contradicción de capacidad/proceso · caso 51454627 · 01-09](./2026-09-01_addendum_kdp_contradiccion_capacidad_vinculacion_multilingue_caso_51454627_ES_EN.md)
 - [Reconocimiento de corrección + verificación multilingüe · caso 51454599 · 14-09](./2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_ES_EN.md)
@@ -129,7 +131,7 @@ Main documents:
 
 **Priority contributions:** musicians, labels, producers, metadata technicians, distributors and DSPs with comparable cases and verifiable evidence.
 
-### 2. Amazon KDP · Author Central · IDEA · genealogy 51071689 → 51425302 → 51454599 → 51454627
+### 2. Amazon KDP · Author Central · IDEA · genealogy 51071689 → 51425188 → 51425302 → {51454599 ↔ 51454627}
 
 **Live Issue:** [#70 · KDP / Author Central / IDEA · contributions and evidence](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)  
 **Genealogy map:** **[KDP · IDEA · cases → documents → Issue → deltas/commits → verification](./KDP_IDEA_GENEALOGIA_TRAZABLE_CASOS_ISSUES_DELTAS_ES_EN.md)**
@@ -138,10 +140,11 @@ Main chain:
 
 ```text
 51071689
+→ 51425188
 → 51425302
-→ 51454599
-→ 51454627
-→ DAY-7 VERIFICATION + TECHNICAL RECONCILIATION
+  ├→ 51454599
+  └→ 51454627
+→ MATERIAL VERIFICATION + TECHNICAL RECONCILIATION
 
 PARALLEL BRANCH
 51454666
@@ -159,9 +162,10 @@ Main documents in genealogical order:
 - [ES/EN regression + language × format matrix · case 51071689 · 26–27 Aug](./2026-08-26_addendum_kdp_vinculacion_cruzada_es_en_formatos_51071689_ES_EN.md)
 - [Language/format linking · case 51425302 · 28 Aug](./2026-08-28_addendum_kdp_vinculacion_idiomas_formatos_caso_51425302_ES_EN.md)
 - [Multilingual association pending · case 51425302 · 29 Aug](./2026-08-29_addendum_kdp_asociacion_multilingue_caso_51425302_ES_EN.md)
+- [Interim propagation verification · case 51454627 · 30 Aug](../2026-08-30_KDP_IDEA_VINCULACION_IDIOMAS_FORMATOS.md)
 - [Global review declared applied · cases 51454627 / 51454666 · 29 Aug](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md)
 - [Regression + capability/process contradiction · case 51454627 · 1 Sep](./2026-09-01_addendum_kdp_contradiccion_capacidad_vinculacion_multilingue_caso_51454627_ES_EN.md)
-- [Correction acknowledgement + multilingual verification · case 51454599 · 14 Sep](./2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_ES_EN.md)
+- [Correction acknowledgement + multilingual verification · case 51454599 · 14 Sep](./2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_caso_51454599_ES_EN.md)
 
 **Note on `51454599`:** since 14 Sep a standalone public addendum exists. It preserves KDP’s positive acknowledgement of the format-link correction and, separately, the observation that the visible multilingual association still showed no material change in the ~14:27 CEST manual verification.
 
