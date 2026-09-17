@@ -7,66 +7,27 @@
 
 # ES · Castellano
 
-## Estado público
+## Qué ocurre con un aporte
 
-La Economía del Aporte™, NeoCronos™, SAN™ y WEB4™ distinguen **aportar, medir, contrastar, valorar y reconocer**. No son la misma operación.
+WEB4™, SAN™, NeoCronos™ y la Economía del Aporte™ están pensados para que una contribución útil no desaparezca ni pierda autoría.
 
-```text
-APORTE
-→ NEOCRONOS™: MEDICIÓN + TRAZA
-→ SAN™: CONTRASTE
-→ ECONOMÍA DEL APORTE™: VALORACIÓN / RETORNO
-→ RECONOCIMIENTO SEGÚN REGLAS Y EVIDENCIA
-```
+APORTE → TRAZA → CONTRASTE → VALORACIÓN → RECONOCIMIENTO → MEMORIA → FUTURA TOKENIZACIÓN
 
-La ampliación pública en curso se contrasta en [Issue #147](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/147).
+El aporte queda vinculado a quien lo hizo, a sus fuentes y al resultado que produjo. Si después cambia la evidencia, puede cambiar la valoración, pero la genealogía anterior se conserva.
 
-## Evento y crédito de función
+## Estado actual de los tokens
 
-La siguiente WEB4™ pública prepara esta distinción:
+**Los tokens del marco todavía no están activos como saldos, monedas o activos transferibles.** Aportar hoy no entrega automáticamente tokens.
 
-```text
-NC-EVT-* = EVENTO DE APORTE
-NC-CR-*  = CRÉDITO DE FUNCIÓN TRAZABLE DENTRO DEL EVENTO
-```
+Lo que sí se registra es la base necesaria para el futuro: autoría, procedencia, contraste y valor reconocido.
 
-Un mismo evento puede incluir funciones diferentes: origen de una fuente, descubrimiento o recepción, crítica, relación, contradicción, Síntesis, implementación o fijación. La procedencia de una fuente no convierte automáticamente a su autor en autor del delta, y la integración no borra la autoría externa.
+## Cómo funcionarán cuando se activen
 
-## Qué se activa en la siguiente proyección
+Cuando exista una capa de tokens activa, podrá representar el valor previamente reconocido de los aportes según reglas públicas y revisables. No habrá una equivalencia automática entre número de mensajes, horas empleadas, popularidad y tokens.
 
-### Crédito NeoCronos™ de traza
+Podrán existir tipos distintos de reconocimiento según la función del aporte; no todo debe convertirse en una única unidad. Cualquier uso económico, transferible o de gobernanza deberá definirse y publicarse antes de activarse.
 
-`NC-CR-*` es un reconocimiento **off-chain, genealógico y funcional** cuando existe traza suficiente.
-
-```text
-NC-CR ≠ dinero
-NC-CR ≠ equity
-NC-CR ≠ voto soberano
-NC-CR ≠ verdad
-NC-CR ≠ rango humano
-NC-CR ≠ recompensa económica automática
-```
-
-### MÉDICI™
-
-MÉDICI™ permanece separado: reconoce valor útil no compensado de infraestructura por **servicio + periodo**, sujeto a evidencia, cálculo y revisión. No es el token general de las personas ni el token fundacional.
-
-## Qué no está activado
-
-Esta fase no implica por sí misma:
-
-- token fundacional con suministro fijado;
-- antigua «unidad génesis» como saldo vigente;
-- ONes™ como moneda de recompensa;
-- SAN™ como unidad financiera;
-- PoU™ operativo;
-- DAO-SAN™ desplegada;
-- blockchain o smart contracts;
-- transferencia, mercado, precio o convertibilidad;
-- equity, rentabilidad o derechos financieros;
-- voto soberano derivado de saldo.
-
-La antigua propuesta de «1 unidad génesis» permanece como estado histórico **REQUIERE_RECÁLCULO / PENDIENTE-SAN**.
+La ampliación pública se mantiene abierta en [Issue #147](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/147).
 
 ## Regla anti-farming
 
@@ -94,66 +55,27 @@ La trazabilidad debe reconocer contribuciones reales sin convertir volumen, tiem
 
 # EN · English
 
-## Public state
+## What happens to a contribution
 
-The Contribution Economy™, NeoCronos™, SAN™ and WEB4™ distinguish **contributing, measuring, scrutinising, valuing and recognising**. They are not the same operation.
+WEB4™, SAN™, NeoCronos™ and the Contribution Economy™ are designed so that a useful contribution does not disappear or lose authorship.
 
-```text
-CONTRIBUTION
-→ NEOCRONOS™: MEASUREMENT + TRACE
-→ SAN™: SCRUTINY
-→ CONTRIBUTION ECONOMY™: VALUATION / RETURN
-→ RECOGNITION UNDER RULES AND EVIDENCE
-```
+CONTRIBUTION → TRACE → SCRUTINY → VALUATION → RECOGNITION → MEMORY → FUTURE TOKENISATION
 
-The current public expansion is being challenged in [Issue #147](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/147).
+The contribution remains linked to the person who made it, its sources and the result it produced. If evidence later changes, valuation may change, while previous genealogy remains preserved.
 
-## Event and role credit
+## Current token status
 
-The next public WEB4™ prepares this distinction:
+**Framework tokens are not yet active as balances, currencies or transferable assets.** Contributing today does not automatically issue tokens.
 
-```text
-NC-EVT-* = CONTRIBUTION EVENT
-NC-CR-*  = TRACEABLE ROLE CREDIT WITHIN THE EVENT
-```
+What is recorded is the basis needed for the future: authorship, provenance, scrutiny and recognised value.
 
-A single event can contain different functions: source origination, discovery or reception, criticism, relation work, contradiction, Synthesis, implementation or fixation. Source provenance does not automatically make its author the author of a later delta, and integration does not erase external authorship.
+## How they will work when activated
 
-## What becomes active in the next projection
+When an active token layer exists, it may represent previously recognised contribution value under public and revisable rules. There will be no automatic equivalence between message count, time spent, popularity and tokens.
 
-### NeoCronos™ trace credit
+Different types of recognition may exist for different functions; not everything needs to become one single unit. Any economic, transferable or governance use must be defined and published before activation.
 
-`NC-CR-*` is **off-chain, genealogical and functional** recognition when sufficient trace exists.
-
-```text
-NC-CR ≠ money
-NC-CR ≠ equity
-NC-CR ≠ sovereign vote
-NC-CR ≠ truth
-NC-CR ≠ human rank
-NC-CR ≠ automatic economic reward
-```
-
-### MÉDICI™
-
-MÉDICI™ remains separate: it recognises useful uncompensated infrastructure value by **service + period**, subject to evidence, calculation and review. It is neither the general human-contribution token nor the foundational token.
-
-## What is not active
-
-This phase does not by itself imply:
-
-- a foundational token with fixed supply;
-- the former “genesis unit” as a current balance;
-- ONes™ as reward currency;
-- SAN™ as a financial unit;
-- operational PoU™;
-- deployed DAO-SAN™;
-- blockchain or smart contracts;
-- transferability, market, price or convertibility;
-- equity, yield or financial rights;
-- sovereign voting derived from balance.
-
-The former “1 genesis unit” proposal remains a historical **REQUIRES_RECALCULATION / PENDING-SAN** state.
+The public expansion remains open in [Issue #147](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/147).
 
 ## Anti-farming rule
 

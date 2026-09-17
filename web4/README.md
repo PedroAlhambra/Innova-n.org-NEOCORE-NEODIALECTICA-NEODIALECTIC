@@ -175,67 +175,29 @@ ECONOMÍA DEL APORTE™ = VALORACIÓN / RETORNO
 TOKENIZACIÓN = REPRESENTACIÓN DEL VALOR RECONOCIDO SEGÚN REGLAS
 ```
 
-### 8. Aportes trazables y tokenización de reconocimiento vNext
+### 8. Aportes trazables y futuros tokens
 
-La próxima proyección pública inicia una capa visible de trazabilidad del aporte vinculada a [Issue #147](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/147), preservando la corrección abierta en #141 y #142:
+WEB4™ debe permitir que un aporte público conserve autoría, procedencia, relación con las fuentes, contraste y resultado. La explicación pública debe poder entenderse sin conocer la implementación interna:
 
-```text
-NC-EVT-* = EVENTO DE APORTE
-NC-CR-*  = CRÉDITO DE FUNCIÓN ATRIBUIBLE DENTRO DEL EVENTO
-```
+APORTE → TRAZA → CONTRASTE → VALORACIÓN → RECONOCIMIENTO → FUTURA TOKENIZACIÓN
 
-La procedencia de una señal no determina por sí sola la autoría del delta. Un evento puede distinguir, cuando exista evidencia pública suficiente, origen de fuente, descubrimiento/recepción, contradicción, relación, síntesis, implementación y fijación.
+**Los tokens del marco no están actualmente activos como saldos, monedas o activos transferibles.** La fase actual prepara trazabilidad y reconocimiento para que, cuando la capa de tokens se active, pueda partir de valor ya reconocido y no de actividad bruta.
 
-El primer nivel de tokenización visible es **reconocimiento off-chain y no financiero**:
+La futura tokenización deberá:
 
-```text
-NC-CR
-= CRÉDITO GENEALÓGICO / FUNCIONAL TRAZABLE
-≠ DINERO
-≠ EQUITY
-≠ VOTO SOBERANO
-≠ VERDAD
-≠ RANGO HUMANO
-≠ RECOMPENSA ECONÓMICA AUTOMÁTICA
-```
+- representar valor reconocido después del contraste, no sustituirlo;
+- conservar genealogía y permitir recálculo;
+- distinguir funciones diferentes cuando sea necesario;
+- evitar equivalencias automáticas entre tiempo, volumen, popularidad y valor;
+- publicar sus reglas antes de activar cualquier dimensión económica, transferible o de gobernanza.
 
-La antigua propuesta de «1 unidad génesis» no se considera una asignación activa: permanece como estado histórico **REQUIERE_RECÁLCULO / PENDIENTE-SAN**.
+La discusión pública de esta ampliación permanece abierta en [Issue #147](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/147).
 
-Esta fase tampoco activa por sí misma suministro de token fundacional, ONes™ como moneda de recompensa, SAN™ como unidad financiera, PoU™, DAO-SAN™, blockchain, smart contracts, transferibilidad, mercado, precio, convertibilidad, equity, rentabilidad o voto derivado de saldo.
+### 9. Reconocimiento de infraestructura
 
-La trazabilidad no convierte tiempo en precio:
+La infraestructura que hace posible WEB4™ también puede recibir reconocimiento trazable cuando corresponda. **MÉDICI™** designa esta línea separada de reconocimiento de infraestructura/servicio; no debe confundirse con autoría conceptual ni con un token general de aportes humanos.
 
-```text
-1 HORA ≠ 1 TOKEN
-ACTIVIDAD ≠ APORTE
-POPULARIDAD ≠ VALOR
-MEDIDO ≠ VALIDADO
-VALIDADO ≠ TOKEN ECONÓMICO AUTOMÁTICO
-```
-
-### 9. Créditos de infraestructura y MÉDICI™
-
-WEB4™ debe reconocer de forma visible las plataformas e infraestructuras que hacen materialmente posible el sistema. El crédito no implica autoría conceptual, propiedad ni soberanía.
-
-MÉDICI™ constituye una capa **separada** de reconocimiento off-chain para infraestructura evaluada por `servicio + periodo`:
-
-```text
-APORTE GRATUITO / NO COMPENSADO
-→ ELEGIBILIDAD MÉDICI™
-
-APORTE PARCIALMENTE COMPENSADO
-→ MÉDICI™ SOBRE LA FRACCIÓN NO COMPENSADA
-
-APORTE PAGADO / COMPENSADO
-→ CRÉDITO + TRAZA
-→ 0 MÉDICI™ DIRECTO POR LA PARTE YA PAGADA
-```
-
-MÉDICI™ no es el token genérico de aportes humanos ni el token fundacional.
-
-- [Créditos WEB4™](./credits/)
-- [Regla MÉDICI™ de plataformas ES/EN](../propuestas/sintesis-abierta/MEDICI_CREDITOS_PLATAFORMAS_COMPENSACION_ES_EN.md)
-- [Motor de cálculo MÉDICI™ v0.1](../propuestas/sintesis-abierta/MEDICI_MOTOR_CALCULO_PLATAFORMAS_V0_1_ES_EN.md)
+Su metodología puede evolucionar mediante Síntesis Abierta. Cualquier activación como activo económico o transferible requerirá una fijación pública específica; no está implícita en la trazabilidad actual.
 
 ### 10. Profundidad de entrada
 
@@ -449,67 +411,29 @@ CONTRIBUTION ECONOMY™ = VALUATION / RETURN
 TOKENISATION = REPRESENTATION OF RECOGNISED VALUE UNDER RULES
 ```
 
-### 8. Traceable contributions and vNext recognition tokenisation
+### 8. Traceable contributions and future tokens
 
-The next public projection starts a visible contribution-trace layer linked to [Issue #147](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/147), preserving the open corrections in #141 and #142:
+WEB4™ should allow a public contribution to preserve authorship, provenance, source relations, scrutiny and result. The public explanation should be understandable without knowing the internal implementation:
 
-```text
-NC-EVT-* = CONTRIBUTION EVENT
-NC-CR-*  = ATTRIBUTABLE ROLE CREDIT WITHIN THE EVENT
-```
+CONTRIBUTION → TRACE → SCRUTINY → VALUATION → RECOGNITION → FUTURE TOKENISATION
 
-Signal provenance does not by itself determine authorship of a delta. When sufficient public evidence exists, an event may distinguish source origination, discovery/reception, contradiction, relation, synthesis, implementation and fixation.
+**Framework tokens are not currently active as balances, currencies or transferable assets.** The current phase prepares traceability and recognition so that, when a token layer is activated, it can start from already recognised value rather than raw activity.
 
-The first visible tokenisation layer is **off-chain, non-financial recognition**:
+Future tokenisation should:
 
-```text
-NC-CR
-= TRACEABLE GENEALOGICAL / FUNCTIONAL CREDIT
-≠ MONEY
-≠ EQUITY
-≠ SOVEREIGN VOTE
-≠ TRUTH
-≠ HUMAN RANK
-≠ AUTOMATIC ECONOMIC REWARD
-```
+- represent value recognised after scrutiny, not replace scrutiny;
+- preserve genealogy and allow recalculation;
+- distinguish different functions where needed;
+- avoid automatic equivalence between time, volume, popularity and value;
+- publish its rules before activating any economic, transferable or governance dimension.
 
-The former proposal of “1 genesis unit” is not considered an active allocation: it remains a historical **REQUIRES_RECALCULATION / PENDING-SAN** state.
+Public discussion of this expansion remains open in [Issue #147](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/147).
 
-This phase does not by itself activate foundational-token supply, ONes™ as a reward currency, SAN™ as a financial unit, PoU™, DAO-SAN™, blockchain, smart contracts, transferability, markets, price, convertibility, equity, yield or balance-derived voting.
+### 9. Infrastructure recognition
 
-Traceability does not turn time into price:
+Infrastructure that materially enables WEB4™ may also receive traceable recognition where appropriate. **MÉDICI™** names this separate infrastructure/service recognition line; it must not be confused with conceptual authorship or with a general token for human contributions.
 
-```text
-1 HOUR ≠ 1 TOKEN
-ACTIVITY ≠ CONTRIBUTION
-POPULARITY ≠ VALUE
-MEASURED ≠ VALIDATED
-VALIDATED ≠ AUTOMATIC ECONOMIC TOKEN
-```
-
-### 9. Infrastructure credits and MÉDICI™
-
-WEB4™ should visibly recognise platforms and infrastructures that materially make the system possible. Credit does not imply conceptual authorship, ownership or sovereignty.
-
-MÉDICI™ is a **separate** off-chain recognition layer for infrastructure evaluated by `service + period`:
-
-```text
-FREE / UNCOMPENSATED CONTRIBUTION
-→ MÉDICI™ ELIGIBILITY
-
-PARTIALLY COMPENSATED CONTRIBUTION
-→ MÉDICI™ ON THE UNCOMPENSATED FRACTION
-
-PAID / COMPENSATED CONTRIBUTION
-→ CREDIT + TRACE
-→ 0 DIRECT MÉDICI™ FOR THE PART ALREADY PAID
-```
-
-MÉDICI™ is not the generic token for human contributions and is not the foundational token.
-
-- [WEB4™ credits](./credits/)
-- [MÉDICI™ platform rule ES/EN](../propuestas/sintesis-abierta/MEDICI_CREDITOS_PLATAFORMAS_COMPENSACION_ES_EN.md)
-- [MÉDICI™ calculation engine v0.1](../propuestas/sintesis-abierta/MEDICI_MOTOR_CALCULO_PLATAFORMAS_V0_1_ES_EN.md)
+Its methodology may evolve through Open Synthesis. Any activation as an economic or transferable asset requires a separate public fixation and is not implied by current traceability.
 
 ### 10. Entry depth
 

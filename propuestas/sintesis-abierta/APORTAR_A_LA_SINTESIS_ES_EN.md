@@ -126,45 +126,39 @@ Un aporte puede quedar, entre otros estados:
 
 Un `NO-DELTA` no borra necesariamente el aporte: puede seguir teniendo valor genealógico, crítico o documental.
 
-## 7. Reconocimiento y tokenización off-chain
+## 7. Qué ocurre con el reconocimiento
 
-La tokenización de reconocimiento **ya se ha iniciado como arquitectura off-chain**, aunque no exista todavía una economía on-chain ni una interfaz WEB4 completa.
+Un aporte no debe desaparecer dentro de una conversación ni quedar absorbido por una síntesis sin procedencia. Cuando entra en SAN™, debe conservarse de forma comprensible:
 
-```text
-NC-EVT-* = EVENTO DE APORTE
-NC-CR-*  = CRÉDITO DE FUNCIÓN ATRIBUIBLE DENTRO DEL EVENTO
-```
+- quién aportó;
+- qué aportó y con qué fuentes;
+- qué contraste recibió;
+- qué resultado produjo;
+- y qué valor terminó siendo reconocido.
 
-Flujo de referencia:
+El flujo general es:
 
-```text
-APORTE
-→ NC-EVT
-→ PROCEDENCIA + GENEALOGÍA
-→ FUNCIONES ATRIBUIBLES / NC-CR cuando proceda
-→ SAN™
-→ RECÁLCULO OFF-CHAIN
-→ DELTA / NO-DELTA
-→ RECONOCIMIENTO TRAZABLE Y REVISABLE
-```
+APORTE → TRAZA Y AUTORÍA → CONTRASTE → DELTA / NO-DELTA → VALORACIÓN → RECONOCIMIENTO → MEMORIA GENEALÓGICA
 
-La procedencia de una señal no determina por sí sola autoría del delta. Deben distinguirse, cuando exista evidencia, origen, descubrimiento/recepción, contradicción, relación, síntesis, implementación y fijación.
+Ese reconocimiento es revisable: si aparece nueva evidencia, puede cambiar la valoración sin borrar quién hizo qué ni cuándo.
 
-## 8. Lo que la tokenización NO significa
+## 8. Tokens del marco: estado actual y funcionamiento futuro
 
-```text
-NC-CR ≠ DINERO
-TOKENIZACIÓN DE RECONOCIMIENTO ≠ FINANCIARIZACIÓN
-TOKEN ≠ VERDAD
-TOKEN ≠ SOBERANÍA
-TOKEN ≠ DIGNIDAD
-POPULARIDAD ≠ APORTE VALIDADO
-1 HORA ≠ 1 TOKEN
-```
+**Los tokens del marco no están activos actualmente como saldos, monedas o activos transferibles.** Participar hoy no emite automáticamente ningún token.
 
-No están activados por este protocolo: supply fundacional, activo negociable, precio, mercado, convertibilidad, equity, rentabilidad, voto comprado por saldo, blockchain/smart contracts, ONes™ como recompensa automática ni SAN™ como unidad financiera.
+Lo que sí queda preparado es la base que permitirá tokenizar con sentido en el futuro: la traza del aporte, su autoría, su contraste y el valor reconocido.
 
-MÉDICI™ permanece como capa separada de reconocimiento de infraestructura/servicio elegible según su propia metodología.
+Cuando la capa de tokens se active, el funcionamiento previsto es sencillo:
+
+1. el aporte ya estará trazado y atribuido;
+2. SAN™ habrá contrastado su contenido y su efecto;
+3. el sistema habrá reconocido, cuando corresponda, el valor realmente aportado;
+4. ese valor reconocido podrá representarse mediante los tokens que correspondan a su función, bajo reglas públicas y revisables;
+5. si cambia la evidencia o el estado de la síntesis, se conservará la genealogía y podrá recalcularse el reconocimiento.
+
+No funcionará como «un comentario = un token» ni «una hora = un token». El volumen, la popularidad o el tiempo empleado no sustituyen la utilidad, la evidencia, el delta, la profundidad ni la atribución.
+
+Antes de activar cualquier token con valor económico, transferencia, mercado o derechos de gobernanza deberán publicarse y fijarse expresamente sus reglas. Hasta entonces, el sistema conserva **traza, autoría y reconocimiento**, no una promesa económica.
 
 ## 9. Anti-farming
 
@@ -218,8 +212,9 @@ Investigar no equivale a condenar. La crítica y el derecho de respuesta deben p
 6. Mantén visible la incertidumbre.
 7. Acepta que el resultado pueda integrar, modificar, diferir o refutar tu propuesta.
 8. Si el estado cambia, debe conservarse la genealogía anterior.
+9. Tras su procesamiento, **el aporte queda trazado y atribuido en el sistema junto con su resultado**. Si genera valor reconocido, ese reconocimiento queda preparado para su futura tokenización cuando la capa de tokens correspondiente esté activa.
 
-**[Índice de Síntesis Abierta](./README.md)** · **[Registrar entrada trazable](./REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)** · **[Issue #147 · trazabilidad/tokenización WEB4](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/147)**
+**[Índice de Síntesis Abierta](./README.md)** · **[Registrar entrada trazable](./REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)** · **[Issue #147 · estado público de trazabilidad y futuros tokens](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/147)**
 
 ---
 
@@ -337,45 +332,39 @@ A contribution may become, among other states:
 
 A `NO-DELTA` does not necessarily erase the contribution: it may retain genealogical, critical or documentary value.
 
-## 7. Off-chain recognition and tokenisation
+## 7. What happens to recognition
 
-Recognition tokenisation **has already begun as an off-chain architecture**, even though there is not yet an on-chain economy or a complete WEB4 interface.
+A contribution should not disappear inside a conversation or be absorbed into a synthesis without provenance. When it enters SAN™, the system should preserve in an understandable way:
 
-```text
-NC-EVT-* = CONTRIBUTION EVENT
-NC-CR-*  = ATTRIBUTABLE FUNCTION CREDIT WITHIN THE EVENT
-```
+- who contributed;
+- what was contributed and with which sources;
+- how it was scrutinised;
+- what result it produced;
+- and what value was ultimately recognised.
 
-Reference flow:
+The general flow is:
 
-```text
-CONTRIBUTION
-→ NC-EVT
-→ PROVENANCE + GENEALOGY
-→ ATTRIBUTABLE FUNCTIONS / NC-CR where applicable
-→ SAN™
-→ OFF-CHAIN RECALCULATION
-→ DELTA / NO-DELTA
-→ TRACEABLE AND REVISABLE RECOGNITION
-```
+CONTRIBUTION → TRACE + AUTHORSHIP → SCRUTINY → DELTA / NO-DELTA → VALUATION → RECOGNITION → GENEALOGICAL MEMORY
 
-Signal provenance does not by itself determine authorship of a delta. Where evidence exists, origin, discovery/reception, contradiction, relation, synthesis, implementation and fixation should be distinguished.
+Recognition is revisable: if new evidence appears, valuation may change without erasing who did what or when.
 
-## 8. What tokenisation does NOT mean
+## 8. Framework tokens: current status and future operation
 
-```text
-NC-CR ≠ MONEY
-RECOGNITION TOKENISATION ≠ FINANCIALISATION
-TOKEN ≠ TRUTH
-TOKEN ≠ SOVEREIGNTY
-TOKEN ≠ DIGNITY
-POPULARITY ≠ VALIDATED CONTRIBUTION
-1 HOUR ≠ 1 TOKEN
-```
+**Framework tokens are not currently active as balances, currencies or transferable assets.** Participating today does not automatically issue any token.
 
-This protocol does not activate foundational supply, tradable assets, price, market, convertibility, equity, yield, balance-purchased voting, blockchain/smart contracts, ONes™ as automatic reward or SAN™ as a financial unit.
+What is being prepared is the basis that will allow meaningful tokenisation later: contribution trace, authorship, scrutiny and recognised value.
 
-MÉDICI™ remains a separate layer for eligible infrastructure/service recognition under its own methodology.
+When the token layer is activated, the intended operation is simple:
+
+1. the contribution will already be traced and attributed;
+2. SAN™ will have scrutinised its content and effect;
+3. the system will have recognised, where appropriate, the value actually contributed;
+4. that recognised value may then be represented through the tokens appropriate to its function, under public and revisable rules;
+5. if evidence or the synthesis state changes, genealogy will be preserved and recognition may be recalculated.
+
+It will not work as “one comment = one token” or “one hour = one token”. Volume, popularity and time do not replace utility, evidence, delta, depth or attribution.
+
+Before any token with economic value, transferability, market function or governance rights is activated, its rules must be explicitly published and fixed. Until then, the system preserves **trace, authorship and recognition**, not an economic promise.
 
 ## 9. Anti-farming
 
@@ -429,5 +418,6 @@ Investigation is not conviction. Criticism and right of reply must be able to co
 6. Keep uncertainty visible.
 7. Accept that the result may integrate, modify, defer or refute your proposal.
 8. If the state changes, previous genealogy must remain preserved.
+9. After processing, **the contribution remains traced and attributed in the system together with its result**. If it generates recognised value, that recognition is prepared for future tokenisation when the corresponding token layer becomes active.
 
-**[Open Synthesis index](./README.md)** · **[Register traceable input](./REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)** · **[Issue #147 · WEB4 traceability/tokenisation](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/147)**
+**[Open Synthesis index](./README.md)** · **[Register traceable input](./REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)** · **[Issue #147 · public status of traceability and future tokens](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/147)**
