@@ -260,13 +260,15 @@ HUMAN
 The proposed horizon is:
 
 ```text
-MANIPULATED HUMAN
+HUMAN
 → HUMAN WITH AUGMENTED UNDERSTANDING
 → HUMAN WITH MEMORY
 → HUMAN WITH JUDGEMENT
 → HUMAN IN RESPONSIBLE SYMBIOSIS
-→ NEOHUMAN™
+→ SELF-REALISED HUMAN™ · NEOHUMAN™
 ```
+
+**Self-Realised Human™** does not mean a finished, perfect or superior human. It names a direction: a person increasingly able to unfold human capacities through understanding, memory, judgement, relational autonomy and responsible symbiosis. In this formulation, **NEOHUMAN™** names that horizon of human self-realisation, not a different species or a hierarchy over other humans.
 
 Technology ceases to be exclusively a mechanism that knows the human in order to sell to, direct or predict them.
 
@@ -276,7 +278,7 @@ The human begins to use it to **know themselves and understand the systems that 
 
 > We do not announce the end of the human.
 >
-> We announce the possibility of the end of the manipulated human.
+> We announce the possibility of an era of the **Self-Realised Human™**.
 >
 > Not because artificial intelligence will automatically liberate us, but because it can help us see what was previously too large, too fast or too fragmented for one mind.
 >
@@ -284,9 +286,7 @@ The human begins to use it to **know themselves and understand the systems that 
 >
 > The difference will be memory, traceability, education, human direction, scrutiny, autonomy and Common Good.
 >
-> We do not want humans obedient to a machine.
->
-> We want humans capable of using machines to stop blindly obeying systems they do not understand.
+> The horizon is a human capable of using machines to expand understanding, preserve memory, exercise independent judgement and act with greater autonomy within complex systems.
 >
 > **The next human era begins when understanding ceases to be the privilege of whoever controls information.**
 

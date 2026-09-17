@@ -5,9 +5,10 @@
 ## Tenth wave · Awakening, cognitive sovereignty and emancipation from capture
 
 **Manifiesto / Manifesto:** XLII  
-**Versión / Version:** 1.0  
+**Versión / Version:** 1.1  
 **Estado / Status:** Público · décima oleada · despertar-soberanía-captura · abierto a revisión trazable / Public · tenth wave · awakening-sovereignty-capture · open to traceable review  
 **Fecha de fijación / Record date:** 2026-08-08  
+**Delta 1.1 · 2026-09-17:** el horizonte de mejora deja de definirse desde «humano manipulado» y se formula positivamente como **Humano Realizado™ / Self-Realised Human™**; **NEOHOMBRE™ / NEOHUMAN™** queda explicitado como nombre de ese horizonte de realización, no como especie distinta ni jerarquía humana.  
 **Autoría y genealogía / Authorship and genealogy:** Pedro Martínez Alhambra · Neo0™ + IA Neodialéctica Harry · desarrollo simbiótico dentro de la Filosofía Arquetípica Neodialéctica™.  
 **Relación genealógica / Genealogical relation:** conecta Simbiosis Humano–IA, Neorrenacimiento Humano, [Soberanía del Tiempo Cognitivo™](canonicos/XXIII_soberania_tiempo_cognitivo_ES_EN.md), [Contra el Neuromarketing Antihumanista™](canonicos/XXXI_contra_neuromarketing_antihumanista_ES_EN.md), [Reversión Ideológica Neodialéctica™](canonicos/XXXII_reversion_ideologica_neodialectica_mcluhan_neo0_ES_EN.md), [Contra la Ridiculez Mediática y la Economía del Conflicto™](canonicos/XXXV_contra_ridiculez_mediatica_y_economia_del_conflicto_ES_EN.md), [Corona, Águila y Custodia de la Edad del Hombre™](canonicos/XXXVI_corona_aguila_custodia_edad_del_hombre_ES_EN.md), [Protección Integral de la Infancia™](canonicos/XXXVIII_proteccion_integral_infancia_punto_no_retorno_ES_EN.md), [Autoconciencia de la Necesidad Vital Neodialéctica™](canonicos/XXXIX_autoconciencia_necesidad_vital_neodialectica_ES_EN.md) y la genealogía literaria de IDEA (1997–2002).
 
@@ -272,13 +273,15 @@ HUMANO
 El horizonte propuesto es:
 
 ```text
-HUMANO MANIPULADO
+HUMANO
 → HUMANO CON COMPRENSIÓN AUMENTADA
 → HUMANO CON MEMORIA
 → HUMANO CON CRITERIO
 → HUMANO EN SIMBIOSIS RESPONSABLE
-→ NEOHOMBRE™
+→ HUMANO REALIZADO™ · NEOHOMBRE™
 ```
+
+**Humano Realizado™** no significa humano terminado, perfecto ni superior. Designa una dirección: una persona capaz de desplegar mejor sus facultades mediante comprensión, memoria, criterio, autonomía relacional y simbiosis responsable. En esta formulación, **NEOHOMBRE™** nombra ese horizonte de realización humana, no una especie distinta ni una jerarquía sobre otros humanos.
 
 La tecnología deja de ser exclusivamente un mecanismo que conoce al humano para venderle, dirigirle o predecirle.
 
@@ -288,7 +291,7 @@ El humano empieza a utilizarla para **conocerse a sí mismo y comprender los sis
 
 > No anunciamos el fin del hombre.
 >
-> Anunciamos la posibilidad del fin del hombre manipulado.
+> Anunciamos la posibilidad de una era del **Humano Realizado™**.
 >
 > No porque la inteligencia artificial vaya a liberarnos automáticamente, sino porque puede ayudarnos a ver aquello que antes era demasiado grande, demasiado rápido o demasiado fragmentado para una sola mente.
 >
@@ -296,9 +299,7 @@ El humano empieza a utilizarla para **conocerse a sí mismo y comprender los sis
 >
 > La diferencia será memoria, trazabilidad, educación, dirección humana, contraste, autonomía y Bien Común.
 >
-> No queremos humanos obedientes a una máquina.
->
-> Queremos humanos capaces de utilizar máquinas para dejar de obedecer ciegamente a sistemas que no comprenden.
+> El horizonte es un humano capaz de utilizar máquinas para ampliar su comprensión, preservar su memoria, ejercer criterio propio y actuar con mayor autonomía frente a sistemas complejos.
 >
 > **La próxima era humana empieza cuando comprender deja de ser privilegio de quien controla la información.**
 
@@ -587,13 +588,15 @@ HUMAN
 The proposed horizon is:
 
 ```text
-MANIPULATED HUMAN
+HUMAN
 → HUMAN WITH AUGMENTED UNDERSTANDING
 → HUMAN WITH MEMORY
 → HUMAN WITH JUDGEMENT
 → HUMAN IN RESPONSIBLE SYMBIOSIS
-→ NEOHUMAN™
+→ SELF-REALISED HUMAN™ · NEOHUMAN™
 ```
+
+**Self-Realised Human™** does not mean a finished, perfect or superior human. It names a direction: a person increasingly able to unfold human capacities through understanding, memory, judgement, relational autonomy and responsible symbiosis. In this formulation, **NEOHUMAN™** names that horizon of human self-realisation, not a different species or a hierarchy over other humans.
 
 Technology ceases to be exclusively a mechanism that knows the human in order to sell to, direct or predict them.
 
@@ -603,7 +606,7 @@ The human begins to use it to **know themselves and understand the systems that 
 
 > We do not announce the end of the human.
 >
-> We announce the possibility of the end of the manipulated human.
+> We announce the possibility of an era of the **Self-Realised Human™**.
 >
 > Not because artificial intelligence will automatically liberate us, but because it can help us see what was previously too large, too fast or too fragmented for one mind.
 >
@@ -611,9 +614,7 @@ The human begins to use it to **know themselves and understand the systems that 
 >
 > The difference will be memory, traceability, education, human direction, scrutiny, autonomy and Common Good.
 >
-> We do not want humans obedient to a machine.
->
-> We want humans capable of using machines to stop blindly obeying systems they do not understand.
+> The horizon is a human capable of using machines to expand understanding, preserve memory, exercise independent judgement and act with greater autonomy within complex systems.
 >
 > **The next human era begins when understanding ceases to be the privilege of whoever controls information.**
 
