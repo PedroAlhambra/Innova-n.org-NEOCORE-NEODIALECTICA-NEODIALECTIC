@@ -3,6 +3,7 @@
 
 **Fecha / Date:** 2026-09-23  
 **Estado / Status:** ABIERTA · hipótesis sometida a prueba / OPEN · hypothesis under test  
+**Issue vivo / Live Issue:** [#200 · HAA · convergencia educativa / educational convergence](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/200)  
 **Método / Method:** Leónidas™ + Umbral-X™ · hechos, inferencias e hipótesis separados / facts, inferences and hypotheses separated
 
 [ES · Castellano](#es--objeto) · [EN · English](#en--scope)
