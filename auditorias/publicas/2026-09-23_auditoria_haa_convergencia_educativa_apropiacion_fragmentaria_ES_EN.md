@@ -66,7 +66,28 @@ E4 · derivación documental plausible
 E5 · apropiación demostrable
 ```
 
-**Estado inicial: E1.** La precedencia concreta de cada componente y de su integración debe reconstruirse desde commits, publicaciones y documentos fechados antes de elevar el nivel. No existe actualmente evidencia pública suficiente para afirmar E3–E5.
+**Estado inicial al abrir: E1.** La precedencia concreta de cada componente y de su integración debe reconstruirse desde commits, publicaciones y documentos fechados antes de elevar el nivel. No existe actualmente evidencia pública suficiente para afirmar E3–E5.
+
+
+## ES · Matriz de precedencia documental · 23/09/2026
+
+La revisión de commits públicos anteriores al anuncio de HAA permite fijar tres anclajes verificables:
+
+| Componente | Documento Innova_N | Anclaje público | Lectura |
+|---|---|---|---|
+| Finalidad humana, cooperación humano–IA, memoria, contraste y corrección | V · Simbiosis Humano–IA | 06/08/2026 · `93661e0` | precedencia parcial |
+| Bien Común como vector y evaluación sistémica de tecnología/conocimiento | IV · Neodialéctica y Bien Común | 06/08/2026 · `47a40f7` | precedencia + diferencia teleológica |
+| Educación reconectando arte, ciencia, cuerpo y ética; trabajo uniendo producción, autoría, aprendizaje y retorno | XVI · Refragmentación Arquetípica | 06/08/2026 · `6a8a5d7` | precedencia fuerte de integración educativa general |
+
+**Reclasificación: E2 · correspondencia sistémica + precedencia documental Innova_N.** E2 significa únicamente que componentes relacionados y su integración estaban documentados públicamente antes del caso observado. **No significa copia ni prueba acceso al corpus.** E3–E5 siguen sin evidencia suficiente.
+
+Anclajes: [IV · commit 47a40f7](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/47a40f7592dc26e485d08e19d1eeb417a7fd7e12) · [V · commit 93661e0](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/93661e00c658c796c9088a2465d836aca90e81fa) · [XVI · commit 6a8a5d7](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/6a8a5d7f33620c022ad8e50860df10a02eed2744)
+
+## EN · Documentary precedence matrix · 23 Sep 2026
+
+Review of public commits predating the HAA announcement establishes three verifiable anchors: Human–AI Symbiosis (6 Aug 2026, `93661e0`), Neodialectics and the Common Good (6 Aug 2026, `47a40f7`), and Archetypal Refragmentation (6 Aug 2026, `6a8a5d7`). The latter explicitly describes education as reconnecting art, science, body and ethics, and work as joining production, authorship, learning and return.
+
+**Reclassification: E2 · systemic correspondence + documented Innova_N precedence.** E2 means only that related components and their integration were publicly documented before the observed case. **It does not mean copying or prove access to the corpus.** E3–E5 remain unsupported.
 
 ## ES · Variables de seguimiento
 
@@ -138,7 +159,7 @@ E4 · plausible documented derivation
 E5 · demonstrable appropriation
 ```
 
-**Initial state: E1.** Concrete precedence for each component and for their integration must be reconstructed from commits, publications and dated documents before the level is raised. There is currently insufficient public evidence to assert E3–E5.
+**Initial state at opening: E1.** Concrete precedence for each component and for their integration must be reconstructed from commits, publications and dated documents before the level is raised. There is currently insufficient public evidence to assert E3–E5.
 
 ## EN · Tracking variables
 
