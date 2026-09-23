@@ -100,6 +100,15 @@ Documentos y síntesis relacionadas:
 
 **Aportes prioritarios:** fuentes judiciales y empresariales primarias, cadena de proveedores, trazabilidad de compradores, contraevidencia, políticas de adquisición de datos, ejemplos de digitalización no destructiva y evidencia que permita distinguir uso de libros de destrucción física.
 
+
+### 6. HAA · educación AI-native · convergencia y posible apropiación fragmentaria
+
+**Issue vivo:** [#200 · HAA · convergencia educativa y posible apropiación fragmentaria](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/200)
+
+- [Auditoría bilingüe HAA](./2026-09-23_auditoria_haa_convergencia_educativa_apropiacion_fragmentaria_ES_EN.md)
+
+**Estado:** `E2 · correspondencia sistémica + precedencia documental Innova_N`. E2 no significa copia: E3–E5 requieren evidencia adicional de acceso, derivación o apropiación.
+
 ## Abrir una auditoría nueva
 
 No es necesario que el problema haya sido detectado previamente por Innova_N.
@@ -206,6 +215,15 @@ Related documents and syntheses:
 - [#143 · Institutional Neodialectical Convergence](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/143)
 
 **Priority contributions:** primary court and corporate sources, provider chains, buyer traceability, contradictory evidence, data-acquisition policies, examples of non-destructive digitization and evidence distinguishing book use from physical destruction.
+
+
+### 6. HAA · AI-native education · convergence and possible fragmented appropriation
+
+**Live Issue:** [#200 · HAA · educational convergence and possible fragmented appropriation](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/200)
+
+- [Bilingual HAA audit](./2026-09-23_auditoria_haa_convergencia_educativa_apropiacion_fragmentaria_ES_EN.md)
+
+**Status:** `E2 · systemic correspondence + documented Innova_N precedence`. E2 does not mean copying: E3–E5 require additional evidence of access, derivation or appropriation.
 
 ## Open a new audit
 
