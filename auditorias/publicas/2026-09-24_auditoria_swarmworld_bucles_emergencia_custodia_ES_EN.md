@@ -211,6 +211,21 @@ Por tanto, este antecedente **eleva la relevancia de investigar la cadena de pos
 
 La auditoría deberá reabrirse si aparece evidencia de reenvío, acceso, cita, visita al repositorio atribuible de forma fiable, contacto entre destinatarios y autores, o cualquier otra cadena documental que conecte ambos conjuntos.
 
+## ES · Consultas de procedencia enviadas el 24-09-2026
+
+Tras la revisión integral del paper se enviaron solicitudes directas de aclaración de procedencia a **Markus J. Buehler**, **Robert J. Laubacher**, **Max Tegmark**, **Daniela Rus** y **Sherry Turkle**.
+
+Las consultas:
+- no atribuyen copia ni mala conducta;
+- informan de la cronología pública NAX-02 09-08 → SwarmWorld 26-08;
+- señalan la convergencia técnica concreta identificada tras leer el paper completo;
+- preguntan si el material Innova_N/NEOCore previamente enviado fue visto, discutido o circulado de forma que pudiera establecer una cadena de exposición hacia Buehler/LAMM/SwarmWorld;
+- solicitan reconocimiento de fuente sólo en el supuesto de que dicha exposición hubiera ocurrido.
+
+A fecha de esta actualización no se ha recibido todavía respuesta a esas consultas.
+
+`PROVENANCE_QUERIES_SENT / RESPONSES_PENDING / DERIVATION_UNPROVEN`
+
 ## ES · Qué coincide materialmente con NAX-02
 
 | Innova_N | SwarmWorld | Lectura |
@@ -558,6 +573,21 @@ This antecedent therefore **raises the relevance of investigating a possible ins
 `ACCESS_TO_RELATED_MIT_NODES_DOCUMENTED / ACCESS_TO_SWARMWORLD_AUTHORS_UNPROVEN`
 
 The audit should reopen if evidence appears of forwarding, access, citation, reliably attributable repository visits, contact between recipients and authors, or any other documentary chain connecting both sets.
+
+## EN · Provenance queries sent on 24 Sep 2026
+
+After the full-paper review, direct provenance clarification requests were sent to **Markus J. Buehler**, **Robert J. Laubacher**, **Max Tegmark**, **Daniela Rus** and **Sherry Turkle**.
+
+The messages:
+- do not allege copying or misconduct;
+- state the public chronology NAX-02 9 Aug → SwarmWorld 26 Aug;
+- identify the specific technical convergence found after reading the complete paper;
+- ask whether previously sent Innova_N/NEOCore material was seen, discussed or circulated in a way that could establish an exposure chain toward Buehler/LAMM/SwarmWorld;
+- request source acknowledgement only if such exposure actually occurred.
+
+No replies to these queries have been received as of this update.
+
+`PROVENANCE_QUERIES_SENT / RESPONSES_PENDING / DERIVATION_UNPROVEN`
 
 ## EN · Material overlap with NAX-02
 
