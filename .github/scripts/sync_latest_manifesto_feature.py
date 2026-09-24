@@ -22,6 +22,8 @@ ENTRY = ROOT / 'propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION
 CONTRIBUTE = ROOT / 'propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md'
 LEONIDAS = ROOT / 'propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md'
 AUDITS = ROOT / 'auditorias/publicas/README.md'
+INFINITY = ROOT / 'manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md'
+INFINITY_ISSUE = '106'
 
 
 def rel(source, target):
@@ -38,6 +40,8 @@ def main():
     latest = ROOT / 'manifiestos' / href
     if not latest.exists():
         raise SystemExit(f'CANONICAL_STATE_FAILURE: latest manifesto target missing: {latest}')
+    if not INFINITY.exists():
+        raise SystemExit(f'CANONICAL_STATE_FAILURE: permanent manifesto target missing: {INFINITY}')
     issues = ISSUE.findall(suffix)
     if len(issues) != 1:
         raise SystemExit(f'CANONICAL_STATE_FAILURE: expected one SAN issue for {roman}, found {issues}')
@@ -47,12 +51,15 @@ def main():
     def block(source):
         return f'''{START}
 
-> ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
+> ## 🔴 ÚLTIMO MANIFIESTO FINITO ABIERTO A SÍNTESIS / LATEST FINITE MANIFESTO OPEN FOR SYNTHESIS
 >
 > **{roman} · {title}**
 >
 > **[Leer {roman} / Read {roman}]({rel(source, latest)}) · [Síntesis Abierta {roman} · #{issue} / Open Synthesis {roman} · #{issue}]({issue_url})**
-> [Seguir marco / Follow framework]({rel(source, FOLLOW)}) · [Registrar entrada / Register entry]({rel(source, ENTRY)}) · [Cómo aportar / How to contribute]({rel(source, CONTRIBUTE)}) · [Leónidas™]({rel(source, LEONIDAS)}) · [Auditorías públicas / Public audits]({rel(source, AUDITS)}) · [{count} manifiestos / manifestos · I–{roman}]({rel(source, MIDX)})
+>
+> **Puerta permanente / Permanent door:** [Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal]({rel(source, INFINITY)}) · [Síntesis ∞ · #{INFINITY_ISSUE}](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/{INFINITY_ISSUE})
+>
+> [Seguir marco / Follow framework]({rel(source, FOLLOW)}) · [Registrar entrada / Register entry]({rel(source, ENTRY)}) · [Cómo aportar / How to contribute]({rel(source, CONTRIBUTE)}) · [Leónidas™]({rel(source, LEONIDAS)}) · [Auditorías públicas / Public audits]({rel(source, AUDITS)}) · [{count} manifiestos finitos + ∞ / {count} finite manifestos + ∞ · I–{roman}]({rel(source, MIDX)})
 
 {END}'''
 
@@ -78,7 +85,7 @@ def main():
         raise SystemExit('LINK_INTEGRITY_FAILURE: no NEO_LATEST_MANIFESTO blocks found')
     for path in targets:
         body = path.read_text(encoding='utf-8').split(START, 1)[1].split(END, 1)[0]
-        if roman not in body or f'issues/{issue}' not in body or rel(path, latest) not in body:
+        if roman not in body or f'issues/{issue}' not in body or rel(path, latest) not in body or rel(path, INFINITY) not in body or f'issues/{INFINITY_ISSUE}' not in body:
             raise SystemExit(f'LINK_INTEGRITY_FAILURE: unsynchronised latest block in {path.relative_to(ROOT)}')
 
     print(f'LATEST_MANIFESTO_SYNC latest={roman} issue=#{issue} count={count} targets={len(targets)} changed={len(changed)}')
