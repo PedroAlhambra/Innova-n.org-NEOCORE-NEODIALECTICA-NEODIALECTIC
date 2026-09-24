@@ -75,8 +75,10 @@ Su función genealógica es intermedia: `51071689 → 51425188 → 51425302 / 51
    Delta de creación del addendum: [`55327cdc`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/55327cdcc65180c36b6a06e09500b51b91449860).  
    Delta de reconciliación genealógica: [`f6c93e43`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/f6c93e4363c9bfb662f438d41ecffab84b77c479).
 3. [Issue #70 · actualización pública 14-09](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70#issuecomment-5663821571) y [verificación manual 14-09](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70#issuecomment-5663928303).
+4. [24-09 · matriz completa de 13 idiomas / 36 formatos y escalado de visibilidad interna · caso 51454599](./2026-09-24_addendum_kdp_caso_51454599_matriz_asin_y_escalado_visibilidad_interna_ES_EN.md): tras las solicitudes de KDP de 21 y 23 de septiembre, se entrega la matriz completa de ASIN para desbloquear la investigación y se pide escalar a catálogo/producto/desarrollo si soporte no puede recuperar internamente datos que ya residen en KDP.  
+   Delta documental: [`6440c03a`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/6440c03a90d33c061f74e3b4651d7425271dd48f).
 
-Estado reconciliado: `AUDIT_PHASE=CLOSED / FORMAT_LINK_CORRECTION_ACKNOWLEDGED / MULTILINGUAL_ASSOCIATION=OPEN / VERIFICATION_2026-09-14=NO_MATERIAL_CHANGE / INCIDENT_OPEN_UNTIL_MATERIAL_AND_PERSISTENT_CORRECTION`.
+Estado reconciliado: `AUDIT_PHASE=CLOSED / INCIDENT=OPEN / 13_LANGUAGES / 36_PUBLISHED_FORMATS / FULL_ASIN_MATRIX_SENT / INTERNAL_VISIBILITY_GAP_ESCALATION_REQUESTED / WAITING_TECHNICAL_ACTION_AND_PUBLIC_VERIFICATION`.
 
 ### Caso `51454627` · actuación multilingüe declarada ejecutada → regresión → contradicción de proceso
 
@@ -220,8 +222,10 @@ Its genealogical role is intermediate: `51071689 → 51425188 → 51425302 / 514
    Addendum creation delta: [`55327cdc`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/55327cdcc65180c36b6a06e09500b51b91449860).  
    Genealogy reconciliation delta: [`f6c93e43`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/f6c93e4363c9bfb662f438d41ecffab84b77c479).
 3. [Issue #70 · 14 Sep public update](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70#issuecomment-5663821571) and [14 Sep manual verification](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70#issuecomment-5663928303).
+4. [24 Sep · complete 13-language / 36-format matrix and internal-visibility escalation · case 51454599](./2026-09-24_addendum_kdp_caso_51454599_matriz_asin_y_escalado_visibilidad_interna_ES_EN.md): after KDP's requests of 21 and 23 September, the complete ASIN matrix was provided to unblock the investigation, together with a request to escalate to catalogue/product/development if support cannot internally retrieve data already held by KDP.  
+   Documentary delta: [`6440c03a`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/6440c03a90d33c061f74e3b4651d7425271dd48f).
 
-Reconciled state: `AUDIT_PHASE=CLOSED / FORMAT_LINK_CORRECTION_ACKNOWLEDGED / MULTILINGUAL_ASSOCIATION=OPEN / VERIFICATION_2026-09-14=NO_MATERIAL_CHANGE / INCIDENT_OPEN_UNTIL_MATERIAL_AND_PERSISTENT_CORRECTION`.
+Reconciled state: `AUDIT_PHASE=CLOSED / INCIDENT=OPEN / 13_LANGUAGES / 36_PUBLISHED_FORMATS / FULL_ASIN_MATRIX_SENT / INTERNAL_VISIBILITY_GAP_ESCALATION_REQUESTED / WAITING_TECHNICAL_ACTION_AND_PUBLIC_VERIFICATION`.
 
 ### Case `51454627` · declared multilingual action executed → regression → process contradiction
 
