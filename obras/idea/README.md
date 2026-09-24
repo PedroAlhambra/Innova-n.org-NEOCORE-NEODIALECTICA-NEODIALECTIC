@@ -124,47 +124,40 @@ La incorporación de IDEA al ecosistema actual no modifica su fecha, su contexto
 
 ---
 
-## Doce idiomas actuales
+## Trece idiomas actuales
 
-IDEA está disponible actualmente en doce idiomas, con ediciones digitales e impresas según disponibilidad.
+**IDEA está publicada actualmente en 13 idiomas y 36 ediciones/formato con ASIN propio**, según disponibilidad por idioma y formato.
 
-| Idioma                        | ASIN o enlace de referencia | Amazon                                               |
-| ----------------------------- | --------------------------: | ---------------------------------------------------- |
-| Castellano · Español          |              `B0HBRQGNQL` | [Abrir edición](https://www.amazon.es/dp/B0HBRQGNQL) |
-| Francés · Français            |              `B0HBRNFMN7` | [Abrir edición](https://www.amazon.es/dp/B0HBRNFMN7) |
-| Alemán · Deutsch              |              `B0H4HYBTGL` | [Abrir edición](https://www.amazon.es/dp/B0H4HYBTGL) |
-| Portugués · Português         |              `B0HBXD3P1D` | [Abrir edición](https://www.amazon.es/dp/B0HBXD3P1D) |
-| Inglés · English              |              `B0HBXLKC9W` | [Abrir edición](https://www.amazon.es/dp/B0HBXLKC9W) |
-| Italiano · Italiano           |              `B0HBZ1VCXP` | [Abrir edición](https://www.amazon.es/dp/B0HBZ1VCXP) |
-| Neerlandés · Nederlands       |              `B0HBZHLHJJ` | [Abrir edición](https://www.amazon.es/dp/B0HBZHLHJJ) |
-| Sueco · Svenska               |              `B0HC8N69BT` | [Abrir edición](https://www.amazon.es/dp/B0HC8N69BT) |
-| Danés · Dansk                 |              `B0HCC74TPK` | [Abrir edición](https://www.amazon.es/dp/B0HCC74TPK) |
-| Noruego bokmål · Norsk bokmål |              `B0HCCL44TZ` | [Abrir edición](https://www.amazon.es/dp/B0HCCL44TZ) |
-| Finlandés · Suomi             |              `B0HCRHFMRG` | [Abrir edición](https://www.amazon.es/dp/B0HCRHFMRG) |
-| Polaco · Polski               | Enlace confirmado | [Abrir edición](https://amzn.eu/d/0a10Qv5a) |
+### Matriz de compra directa
 
-### Formatos físicos y digitales confirmados
+| Nº | Idioma | Kindle | Tapa blanda | Tapa dura |
+|---:|---|---|---|---|
+| 01 | Noruego bokmål · Norsk bokmål | [B0HCCL44TZ](https://www.amazon.de/dp/B0HCCL44TZ) · 3,99 € | [B0HCV423YJ](https://www.amazon.de/dp/B0HCV423YJ) · 14,99 € | [B0HCCVF2BF](https://www.amazon.de/dp/B0HCCVF2BF) · 19,99 € |
+| 02 | Finés · Suomi | [B0HCRHFMRG](https://www.amazon.de/dp/B0HCRHFMRG) · 3,99 € | [B0HCVSX23V](https://www.amazon.de/dp/B0HCVSX23V) · 15,99 € | [B0HCRMCRPT](https://www.amazon.de/dp/B0HCRMCRPT) · 19,99 € |
+| 03 | Italiano · Italiano | [B0HBZ1VCXP](https://www.amazon.it/dp/B0HBZ1VCXP) · 3,99 € | [B0HC31M5C4](https://www.amazon.it/dp/B0HC31M5C4) · 12,99 € | [B0HBYQMDC1](https://www.amazon.it/dp/B0HBYQMDC1) · 16,99 € |
+| 04 | Sueco · Svenska | [B0HC8N69BT](https://www.amazon.se/dp/B0HC8N69BT) · 3,99 € | [B0HCC6HDLX](https://www.amazon.se/dp/B0HCC6HDLX) · 149,00 SEK | [B0HC88M28K](https://www.amazon.se/dp/B0HC88M28K) · 229,00 SEK |
+| 05 | Polaco · Polski | No disponible en KDP | [B0HCB8F63N](https://www.amazon.pl/dp/B0HCB8F63N) · 59,99 PLN | [B0HC4C1GWZ](https://www.amazon.pl/dp/B0HC4C1GWZ) · 69,99 PLN |
+| 06 | Portugués · Português | [B0HBXD3P1D](https://www.amazon.es/dp/B0HBXD3P1D) · 3,99 € | [B0HC2H7YJG](https://www.amazon.es/dp/B0HC2H7YJG) · 12,39 € | [B0HBXH99PW](https://www.amazon.es/dp/B0HBXH99PW) · 16,99 € |
+| 07 | Inglés · English | [B0HBXLKC9W](https://www.amazon.com/dp/B0HBXLKC9W) · $3.99 USD | [B0HBXQ9YJS](https://www.amazon.com/dp/B0HBXQ9YJS) · $12.99 USD | [B0HBXZX4C8](https://www.amazon.com/dp/B0HBXZX4C8) · $19.99 USD |
+| 08 | Francés · Français | [B0HBRNFMN7](https://www.amazon.fr/dp/B0HBRNFMN7) · 3,99 € | [B0HBRS7N9M](https://www.amazon.fr/dp/B0HBRS7N9M) · 12,31 € | [B0HBTKRD5Z](https://www.amazon.fr/dp/B0HBTKRD5Z) · 16,99 € |
+| 09 | Español · Español | [B0HBRQGNQL](https://www.amazon.es/dp/B0HBRQGNQL) · 3,99 € | [B0HBP261YZ](https://www.amazon.es/dp/B0HBP261YZ) · 9,99 € | [B0HBSNK5ZY](https://www.amazon.es/dp/B0HBSNK5ZY) · 16,99 € |
+| 10 | Neerlandés · Nederlands | [B0HBZHLHJJ](https://www.amazon.nl/dp/B0HBZHLHJJ) · 3,99 € | [B0HC1JZSJH](https://www.amazon.nl/dp/B0HC1JZSJH) · 13,54 € | [B0HBYXS7CP](https://www.amazon.nl/dp/B0HBYXS7CP) · 17,54 € |
+| 11 | Danés · Dansk | [B0HCC74TPK](https://www.amazon.de/dp/B0HCC74TPK) · 3,99 € | [B0HCH4DNVC](https://www.amazon.de/dp/B0HCH4DNVC) · 14,99 € | [B0HCCK6RBR](https://www.amazon.de/dp/B0HCCK6RBR) · 18,99 € |
+| 12 | Alemán · Deutsch | [B0H4HYBTGL](https://www.amazon.de/dp/B0H4HYBTGL) · 3,99 € | [B0HBV87WHQ](https://www.amazon.de/dp/B0HBV87WHQ) · 12,14 € | [B0HBZD937L](https://www.amazon.de/dp/B0HBZD937L) · 19,62 € |
+| 13 | Japonés · 日本語 | [B0HD9YDCN1](https://www.amazon.co.jp/dp/B0HD9YDCN1) · ¥699 JPY | No publicada | No publicada |
 
-* [Castellano · tapa blanda · `B0HBP261YZ`](https://www.amazon.es/dp/B0HBP261YZ)
-* **Noruego bokmål:** Kindle, tapa blanda y tapa dura publicados. El ASIN específico de tapa blanda queda pendiente de verificación.
-* [Finlandés · eBook · `B0HCRHFMRG`](https://www.amazon.es/dp/B0HCRHFMRG)
-* [Finlandés · tapa blanda · `B0HCVSX23V`](https://www.amazon.es/dp/B0HCVSX23V)
-* [Finlandés · tapa dura · `B0HCRMCRPT`](https://www.amazon.es/dp/B0HCRMCRPT)
+Los ASIN de cada formato enlazan directamente con su ficha de Amazon. Los precios indicados son los registrados el **24 de septiembre de 2026** y pueden variar por impuestos, marketplace o cambios posteriores de precio.
 
-### Estado actualizado · 6 de agosto de 2026
+En polaco, KDP no permite actualmente crear eBooks Kindle; por eso solo figuran las ediciones impresas. En japonés, por ahora está publicada únicamente la edición Kindle.
 
-* KDP y Author Central confirmaron por escrito la asociación correcta con la Página de Autor de los formatos publicados de IDEA en doce idiomas.
-* El autor verificó la corrección de las asociaciones e idiomas mostrados. La incidencia de idioma y asociación de la edición finlandesa se considera **operativamente resuelta**.
-* La disponibilidad de una edición concreta puede variar por formato y marketplace; los enlaces comerciales deben comprobarse en Amazon en el momento de la consulta.
-* **Noruego no bokmål:** todavía no publicado y no incluido en la cifra actual.
-* **Japonés:** edición en preparación; no se considera una incidencia de asociación.
+La agrupación automática de formatos que muestre Amazon puede variar por marketplace; esta matriz utiliza los **ASIN individuales** para que cada edición pueda abrirse de forma directa.
 
 ### Auditoría y aprendizaje derivados
 
 * [Caso de éxito · auditoría gratuita a Amazon KDP y Author Central](../../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
 * [Auditoría indirecta pública de origen](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 
-La publicación internacional de IDEA permitió detectar incoherencias, obtener una corrección verificable y trasladar propuestas de mejora recibidas positivamente por KDP.
+La matriz anterior es el registro público de acceso comercial por idioma y formato. No incorpora estados internos de edición de metadatos de KDP.
 
 ---
 
@@ -276,47 +269,40 @@ The integration of IDEA into the current ecosystem does not alter its date, orig
 
 ---
 
-## Twelve current editions
+## Thirteen current languages
 
-IDEA is currently available in twelve languages, in digital and print editions depending on availability.
+**IDEA is currently published in 13 languages across 36 format editions with their own ASINs**, subject to format and marketplace availability.
 
-| Language                        | Reference ASIN or link | Amazon                                              |
-| ------------------------------- | ---------------------: | --------------------------------------------------- |
-| Spanish · Español               |          `B0HBRQGNQL` | [Open edition](https://www.amazon.es/dp/B0HBRQGNQL) |
-| French · Français               |          `B0HBRNFMN7` | [Open edition](https://www.amazon.es/dp/B0HBRNFMN7) |
-| German · Deutsch                |          `B0H4HYBTGL` | [Open edition](https://www.amazon.es/dp/B0H4HYBTGL) |
-| Portuguese · Português          |          `B0HBXD3P1D` | [Open edition](https://www.amazon.es/dp/B0HBXD3P1D) |
-| English · English               |          `B0HBXLKC9W` | [Open edition](https://www.amazon.es/dp/B0HBXLKC9W) |
-| Italian · Italiano              |          `B0HBZ1VCXP` | [Open edition](https://www.amazon.es/dp/B0HBZ1VCXP) |
-| Dutch · Nederlands              |          `B0HBZHLHJJ` | [Open edition](https://www.amazon.es/dp/B0HBZHLHJJ) |
-| Swedish · Svenska               |          `B0HC8N69BT` | [Open edition](https://www.amazon.es/dp/B0HC8N69BT) |
-| Danish · Dansk                  |          `B0HCC74TPK` | [Open edition](https://www.amazon.es/dp/B0HCC74TPK) |
-| Norwegian Bokmål · Norsk bokmål |          `B0HCCL44TZ` | [Open edition](https://www.amazon.es/dp/B0HCCL44TZ) |
-| Finnish · Suomi                 |          `B0HCRHFMRG` | [Open edition](https://www.amazon.es/dp/B0HCRHFMRG) |
-| Polish · Polski                 | Confirmed link | [Open edition](https://amzn.eu/d/0a10Qv5a) |
+### Direct purchase matrix
 
-### Confirmed digital and print formats
+| No. | Language | Kindle | Paperback | Hardcover |
+|---:|---|---|---|---|
+| 01 | Norwegian Bokmål · Norsk bokmål | [B0HCCL44TZ](https://www.amazon.de/dp/B0HCCL44TZ) · 3,99 € | [B0HCV423YJ](https://www.amazon.de/dp/B0HCV423YJ) · 14,99 € | [B0HCCVF2BF](https://www.amazon.de/dp/B0HCCVF2BF) · 19,99 € |
+| 02 | Finnish · Suomi | [B0HCRHFMRG](https://www.amazon.de/dp/B0HCRHFMRG) · 3,99 € | [B0HCVSX23V](https://www.amazon.de/dp/B0HCVSX23V) · 15,99 € | [B0HCRMCRPT](https://www.amazon.de/dp/B0HCRMCRPT) · 19,99 € |
+| 03 | Italian · Italiano | [B0HBZ1VCXP](https://www.amazon.it/dp/B0HBZ1VCXP) · 3,99 € | [B0HC31M5C4](https://www.amazon.it/dp/B0HC31M5C4) · 12,99 € | [B0HBYQMDC1](https://www.amazon.it/dp/B0HBYQMDC1) · 16,99 € |
+| 04 | Swedish · Svenska | [B0HC8N69BT](https://www.amazon.se/dp/B0HC8N69BT) · 3,99 € | [B0HCC6HDLX](https://www.amazon.se/dp/B0HCC6HDLX) · 149,00 SEK | [B0HC88M28K](https://www.amazon.se/dp/B0HC88M28K) · 229,00 SEK |
+| 05 | Polish · Polski | Not available in KDP | [B0HCB8F63N](https://www.amazon.pl/dp/B0HCB8F63N) · 59,99 PLN | [B0HC4C1GWZ](https://www.amazon.pl/dp/B0HC4C1GWZ) · 69,99 PLN |
+| 06 | Portuguese · Português | [B0HBXD3P1D](https://www.amazon.es/dp/B0HBXD3P1D) · 3,99 € | [B0HC2H7YJG](https://www.amazon.es/dp/B0HC2H7YJG) · 12,39 € | [B0HBXH99PW](https://www.amazon.es/dp/B0HBXH99PW) · 16,99 € |
+| 07 | English · English | [B0HBXLKC9W](https://www.amazon.com/dp/B0HBXLKC9W) · $3.99 USD | [B0HBXQ9YJS](https://www.amazon.com/dp/B0HBXQ9YJS) · $12.99 USD | [B0HBXZX4C8](https://www.amazon.com/dp/B0HBXZX4C8) · $19.99 USD |
+| 08 | French · Français | [B0HBRNFMN7](https://www.amazon.fr/dp/B0HBRNFMN7) · 3,99 € | [B0HBRS7N9M](https://www.amazon.fr/dp/B0HBRS7N9M) · 12,31 € | [B0HBTKRD5Z](https://www.amazon.fr/dp/B0HBTKRD5Z) · 16,99 € |
+| 09 | Spanish · Español | [B0HBRQGNQL](https://www.amazon.es/dp/B0HBRQGNQL) · 3,99 € | [B0HBP261YZ](https://www.amazon.es/dp/B0HBP261YZ) · 9,99 € | [B0HBSNK5ZY](https://www.amazon.es/dp/B0HBSNK5ZY) · 16,99 € |
+| 10 | Dutch · Nederlands | [B0HBZHLHJJ](https://www.amazon.nl/dp/B0HBZHLHJJ) · 3,99 € | [B0HC1JZSJH](https://www.amazon.nl/dp/B0HC1JZSJH) · 13,54 € | [B0HBYXS7CP](https://www.amazon.nl/dp/B0HBYXS7CP) · 17,54 € |
+| 11 | Danish · Dansk | [B0HCC74TPK](https://www.amazon.de/dp/B0HCC74TPK) · 3,99 € | [B0HCH4DNVC](https://www.amazon.de/dp/B0HCH4DNVC) · 14,99 € | [B0HCCK6RBR](https://www.amazon.de/dp/B0HCCK6RBR) · 18,99 € |
+| 12 | German · Deutsch | [B0H4HYBTGL](https://www.amazon.de/dp/B0H4HYBTGL) · 3,99 € | [B0HBV87WHQ](https://www.amazon.de/dp/B0HBV87WHQ) · 12,14 € | [B0HBZD937L](https://www.amazon.de/dp/B0HBZD937L) · 19,62 € |
+| 13 | Japanese · 日本語 | [B0HD9YDCN1](https://www.amazon.co.jp/dp/B0HD9YDCN1) · ¥699 JPY | Not published | Not published |
 
-* [Spanish · paperback · `B0HBP261YZ`](https://www.amazon.es/dp/B0HBP261YZ)
-* **Norwegian Bokmål:** Kindle, paperback and hardcover published. The paperback-specific ASIN remains pending verification.
-* [Finnish · eBook · `B0HCRHFMRG`](https://www.amazon.es/dp/B0HCRHFMRG)
-* [Finnish · paperback · `B0HCVSX23V`](https://www.amazon.es/dp/B0HCVSX23V)
-* [Finnish · hardcover · `B0HCRMCRPT`](https://www.amazon.es/dp/B0HCRMCRPT)
+Each format ASIN links directly to its Amazon product page. Prices shown are those recorded on **24 September 2026** and may vary because of taxes, marketplace differences or later price changes.
 
-### Updated status · 6 August 2026
+KDP does not currently allow Polish-language Kindle eBooks, so only the print editions are listed for Polish. For Japanese, only the Kindle edition is currently published.
 
-* KDP and Author Central confirmed in writing the correct association with the Author Page of published IDEA formats in twelve languages.
-* The author verified the corrected associations and displayed languages. The Finnish language and association incident is considered **operationally resolved**.
-* Availability of a specific edition may vary by format and marketplace; commercial links should be checked on Amazon at the time of consultation.
-* **Non-Bokmål Norwegian:** not yet published and not included in the current total.
-* **Japanese:** edition in preparation; this is not treated as an association incident.
+Amazon's automatic grouping of formats may vary by marketplace; this matrix uses the **individual ASINs** so each edition can be opened directly.
 
 ### Derived audit and learning
 
 * [Success case · free audit for Amazon KDP and Author Central](../../auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
 * [Originating public indirect audit](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 
-The international publication of IDEA made it possible to detect inconsistencies, achieve a verifiable correction and submit improvement proposals positively received by KDP.
+The matrix above is the public commercial-access record by language and format. It does not include internal KDP metadata-editing states.
 
 ---
 
