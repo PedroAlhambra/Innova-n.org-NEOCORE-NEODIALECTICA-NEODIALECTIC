@@ -94,9 +94,10 @@ PROBLEMA
 - [Auditoría 30-08-2026 · verificación intermedia durante propagación · caso 51454627](../2026-08-30_KDP_IDEA_VINCULACION_IDIOMAS_FORMATOS.md)
 - **[Addendum 01-09-2026 · actuación multilingüe demostrada/declarada, ventana de 7 días y contradicción posterior de capacidad](./2026-09-01_addendum_kdp_contradiccion_capacidad_vinculacion_multilingue_caso_51454627_ES_EN.md)**
 - **[Addendum 14-09-2026 · caso 51454599 · reconocimiento de corrección y verificación multilingüe](./2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_ES_EN.md)**
+- **[Addendum 24-09-2026 · caso 51454599 · matriz ASIN completa y escalado de visibilidad interna](./2026-09-24_addendum_kdp_caso_51454599_matriz_asin_y_escalado_visibilidad_interna_ES_EN.md)**
 - [#70 · aportes, pruebas y contactos de sinergia](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)
 
-**Estado:** KDP ha reconocido la corrección del enlace incorrecto entre formatos y ha agradecido expresamente la documentación aportada. La fase de auditoría/documentación queda cerrada; la incidencia material multilingüe sigue abierta. En la comprobación manual del 14/09 (~14:27 CEST), la ficha principal continuaba mostrando «2 idiomas y 3 formatos» y varias traducciones seguían apareciendo separadas. El cierre definitivo exige verificación material, correcta y persistente de la asociación multilingüe, o un mecanismo alternativo fiable. La propuesta de colaboración sigue fuera de la competencia de KDP Support y requiere routing hacia catálogo, producto, sistemas, investigación, innovación o calidad.
+**Estado:** KDP ha reconocido la corrección del enlace incorrecto entre formatos y ha agradecido expresamente la documentación aportada. La fase de auditoría/documentación queda cerrada; la incidencia material multilingüe sigue abierta. Tras solicitudes de KDP de 21 y 23/09, el 24/09 se entregó la matriz completa de **13 idiomas y 36 formatos/ASIN** para desbloquear la investigación. Se pidió además escalar a catálogo/producto/desarrollo si soporte no dispone de visibilidad interna suficiente para recuperar datos ya existentes en KDP. El cierre definitivo exige verificación material, correcta y persistente de la asociación multilingüe, o un mecanismo alternativo fiable.
 
 ### 2.4 · Integridad del repositorio · Wiki · READMEs · automatizaciones
 
@@ -192,9 +193,10 @@ PROBLEM
 - [30 Aug 2026 audit · interim verification during propagation · case 51454627](../2026-08-30_KDP_IDEA_VINCULACION_IDIOMAS_FORMATOS.md)
 - **[1 Sep 2026 addendum · demonstrated/declared multilingual action, seven-day window and later capability contradiction](./2026-09-01_addendum_kdp_contradiccion_capacidad_vinculacion_multilingue_caso_51454627_ES_EN.md)**
 - **[14 Sep 2026 addendum · case 51454599 · correction acknowledgement and multilingual verification](./2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_ES_EN.md)**
+- **[24 Sep 2026 addendum · case 51454599 · complete ASIN matrix and internal-visibility escalation](./2026-09-24_addendum_kdp_caso_51454599_matriz_asin_y_escalado_visibilidad_interna_ES_EN.md)**
 - [#70 · contributions, evidence and synergy contacts](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)
 
-**Status:** KDP has acknowledged correction of the incorrect format link and expressly thanked us for the documentation contributed. The audit/documentation phase is closed; the material multilingual incident remains open. In the manual check on 14 Sep (~14:27 CEST), the main listing still showed “2 languages and 3 formats” and several translations continued to appear separately. Final closure requires material, correct and persistent verification of the multilingual association, or a reliable alternative mechanism. The collaboration proposal remains outside KDP Support competence and requires routing toward catalogue, product, systems, research, innovation or quality.
+**Status:** KDP has acknowledged correction of the incorrect format link and expressly thanked us for the documentation contributed. The audit/documentation phase is closed; the material multilingual incident remains open. After KDP requests on 21 and 23 Sep, the complete matrix of **13 languages and 36 formats/ASINs** was provided on 24 Sep to unblock the investigation. KDP was also asked to escalate to catalogue/product/development if support lacks sufficient internal visibility to retrieve data already held in KDP. Final closure requires material, correct and persistent verification of the multilingual association, or a reliable alternative mechanism.
 
 ### 2.4 · Repository integrity · Wiki · READMEs · automations
 
