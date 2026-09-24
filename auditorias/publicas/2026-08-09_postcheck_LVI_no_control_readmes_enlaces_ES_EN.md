@@ -9,14 +9,14 @@
 
 ## ES · Resultado
 
-- Archivos Markdown activos revisados: **572**.
+- Archivos Markdown activos revisados: **573**.
 - Archivos Markdown históricos excluidos del estado vivo: **55**.
 - Entradas legacy excluidas del estado vivo: **0**.
 - README activos revisados: **25**.
-- Enlaces internos de ruta comprobados: **13352**.
+- Enlaces internos de ruta comprobados: **13358**.
 - Alias internos de GitHub Wiki reconocidos: **44**.
-- Enlaces externos inventariados sin comprobar disponibilidad remota: **2295**.
-- Enlaces sólo a ancla detectados: **1037**.
+- Enlaces externos inventariados sin comprobar disponibilidad remota: **2298**.
+- Enlaces sólo a ancla detectados: **1041**.
 - Bloques de último manifiesto encontrados en README: **8**.
 - Bloques legacy NEO_CURRENT_NAV encontrados en README: **0**.
 - Bloques redundantes MANIFESTOS_CURRENT encontrados en README: **0**.
@@ -42,14 +42,14 @@
 
 ## EN · Result
 
-- Active Markdown files reviewed: **572**.
+- Active Markdown files reviewed: **573**.
 - Historical Markdown files excluded from living-state health: **55**.
 - Legacy entry files excluded from living-state health: **0**.
 - Active README files reviewed: **25**.
-- Internal path links checked: **13352**.
+- Internal path links checked: **13358**.
 - GitHub Wiki extensionless page aliases recognised: **44**.
-- External links inventoried without checking remote availability: **2295**.
-- Anchor-only links detected: **1037**.
+- External links inventoried without checking remote availability: **2298**.
+- Anchor-only links detected: **1041**.
 - Latest-manifesto blocks found in README files: **8**.
 - Legacy NEO_CURRENT_NAV blocks found in README files: **0**.
 - Redundant MANIFESTOS_CURRENT blocks found in README files: **0**.
