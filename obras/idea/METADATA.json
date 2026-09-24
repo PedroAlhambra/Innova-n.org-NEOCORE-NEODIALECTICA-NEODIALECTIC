@@ -1,6 +1,6 @@
 {
-  "schema": "innova_n.public_work.v2",
-  "recorded_at": "2026-08-07",
+  "schema": "innova_n.public_work.v3",
+  "recorded_at": "2026-09-24",
   "work": {
     "title": "IDEA",
     "author": "Pedro Martínez Alhambra",
@@ -21,7 +21,8 @@
       "es": "Restauración conservadora",
       "en": "Conservative restoration"
     },
-    "published_languages": 12
+    "published_languages": 13,
+    "published_format_editions": 36
   },
   "genealogy": {
     "predates": [
@@ -33,233 +34,257 @@
       "WEB4™"
     ],
     "current_role_es": "Puerta narrativa de entrada al marco.",
-    "current_role_en": "Narrative gateway into the framework.",
-    "es": "IDEA antecede históricamente a la Neodialéctica™, Innova_N, NEOCore™, SAN™, NAVE™ y WEB4™. Su función actual como puerta narrativa de entrada al marco no modifica su genealogía.",
-    "en": "IDEA historically predates Neodialectics™, Innova_N, NEOCore™, SAN™, NAVE™ and WEB4™. Its present function as a narrative gateway into the framework does not alter its genealogy."
+    "current_role_en": "Narrative gateway into the framework."
   },
   "public_position": {
     "ecosystem": "Innova_N",
     "canonical_repository_node": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/obras/idea/README.md",
-    "documentary_repository": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/tree/main/obras/idea",
-    "wiki_orientation_page": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/IDEA_1997_2002_Edicion_Internacional_2026",
-    "cultural_wiki": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Ecosistema_Creativo_y_Cultural",
-    "authorial_wiki": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/wiki/Creaciones_Originales_del_Autor",
-    "amazon_author": "https://www.amazon.es/stores/Pedro-Mart%C3%ADnez-Alhambra/author/B0HC3TWRZ7",
-    "success_case": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md",
-    "originating_audit": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md"
+    "editions_node": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/obras/idea/EDICIONES.md",
+    "links_node": "https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/main/obras/idea/LINKS.json",
+    "innova_n": "https://innova-n.org/idea",
+    "amazon_author": "https://www.amazon.es/stores/Pedro-Mart%C3%ADnez-Alhambra/author/B0HC3TWRZ7"
   },
   "editions": [
     {
-      "code": "es",
-      "name_es": "Castellano",
-      "name_en": "Spanish",
-      "native_name": "Español",
-      "reference_asin": "B0HBRQGNQL",
-      "reference_url": "https://www.amazon.es/dp/B0HBRQGNQL",
-      "status": "published"
+      "code": "nb",
+      "name_es": "Noruego bokmål",
+      "name_en": "Norwegian Bokmål",
+      "native_name": "Norsk bokmål",
+      "status": "published",
+      "published_formats": [
+        "kindle",
+        "paperback",
+        "hardcover"
+      ],
+      "unavailable_formats": [],
+      "format_asins": {
+        "kindle": "B0HCCL44TZ",
+        "paperback": "B0HCV423YJ",
+        "hardcover": "B0HCCVF2BF"
+      }
     },
     {
-      "code": "fr",
-      "name_es": "Francés",
-      "name_en": "French",
-      "native_name": "Français",
-      "reference_asin": "B0HBRNFMN7",
-      "reference_url": "https://www.amazon.es/dp/B0HBRNFMN7",
-      "status": "published"
-    },
-    {
-      "code": "de",
-      "name_es": "Alemán",
-      "name_en": "German",
-      "native_name": "Deutsch",
-      "reference_asin": "B0H4HYBTGL",
-      "reference_url": "https://www.amazon.es/dp/B0H4HYBTGL",
-      "status": "published"
-    },
-    {
-      "code": "pt",
-      "name_es": "Portugués",
-      "name_en": "Portuguese",
-      "native_name": "Português",
-      "reference_asin": "B0HBXD3P1D",
-      "reference_url": "https://www.amazon.es/dp/B0HBXD3P1D",
-      "status": "published"
-    },
-    {
-      "code": "en",
-      "name_es": "Inglés",
-      "name_en": "English",
-      "native_name": "English",
-      "reference_asin": "B0HBXLKC9W",
-      "reference_url": "https://www.amazon.es/dp/B0HBXLKC9W",
-      "status": "published"
+      "code": "fi",
+      "name_es": "Finés",
+      "name_en": "Finnish",
+      "native_name": "Suomi",
+      "status": "published",
+      "published_formats": [
+        "kindle",
+        "paperback",
+        "hardcover"
+      ],
+      "unavailable_formats": [],
+      "format_asins": {
+        "kindle": "B0HCRHFMRG",
+        "paperback": "B0HCVSX23V",
+        "hardcover": "B0HCRMCRPT"
+      }
     },
     {
       "code": "it",
       "name_es": "Italiano",
       "name_en": "Italian",
       "native_name": "Italiano",
-      "reference_asin": "B0HBZ1VCXP",
-      "reference_url": "https://www.amazon.es/dp/B0HBZ1VCXP",
-      "status": "published"
-    },
-    {
-      "code": "nl",
-      "name_es": "Neerlandés",
-      "name_en": "Dutch",
-      "native_name": "Nederlands",
-      "reference_asin": "B0HBZHLHJJ",
-      "reference_url": "https://www.amazon.es/dp/B0HBZHLHJJ",
-      "status": "published"
+      "status": "published",
+      "published_formats": [
+        "kindle",
+        "paperback",
+        "hardcover"
+      ],
+      "unavailable_formats": [],
+      "format_asins": {
+        "kindle": "B0HBZ1VCXP",
+        "paperback": "B0HC31M5C4",
+        "hardcover": "B0HBYQMDC1"
+      }
     },
     {
       "code": "sv",
       "name_es": "Sueco",
       "name_en": "Swedish",
       "native_name": "Svenska",
-      "reference_asin": "B0HC8N69BT",
-      "reference_url": "https://www.amazon.es/dp/B0HC8N69BT",
-      "status": "published"
-    },
-    {
-      "code": "da",
-      "name_es": "Danés",
-      "name_en": "Danish",
-      "native_name": "Dansk",
-      "reference_asin": "B0HCC74TPK",
-      "reference_url": "https://www.amazon.es/dp/B0HCC74TPK",
-      "status": "published"
-    },
-    {
-      "code": "nb",
-      "name_es": "Noruego bokmål",
-      "name_en": "Norwegian Bokmål",
-      "native_name": "Norsk bokmål",
-      "reference_asin": "B0HCCL44TZ",
-      "reference_url": "https://www.amazon.es/dp/B0HCCL44TZ",
-      "status": "published"
-    },
-    {
-      "code": "fi",
-      "name_es": "Finlandés",
-      "name_en": "Finnish",
-      "native_name": "Suomi",
-      "reference_asin": "B0HCRHFMRG",
-      "reference_url": "https://www.amazon.es/dp/B0HCRHFMRG",
-      "status": "published"
+      "status": "published",
+      "published_formats": [
+        "kindle",
+        "paperback",
+        "hardcover"
+      ],
+      "unavailable_formats": [],
+      "format_asins": {
+        "kindle": "B0HC8N69BT",
+        "paperback": "B0HCC6HDLX",
+        "hardcover": "B0HC88M28K"
+      }
     },
     {
       "code": "pl",
       "name_es": "Polaco",
       "name_en": "Polish",
       "native_name": "Polski",
-      "reference_asin": null,
-      "reference_url": "https://amzn.eu/d/0a10Qv5a",
-      "status": "published"
-    }
-  ],
-  "confirmed_formats": [
-    {
-      "language_code": "es",
-      "format": "paperback",
       "status": "published",
-      "asin": "B0HBP261YZ",
-      "url": "https://www.amazon.es/dp/B0HBP261YZ"
+      "published_formats": [
+        "paperback",
+        "hardcover"
+      ],
+      "unavailable_formats": [
+        "kindle"
+      ],
+      "format_asins": {
+        "kindle": null,
+        "paperback": "B0HCB8F63N",
+        "hardcover": "B0HC4C1GWZ"
+      }
     },
     {
-      "language_code": "nb",
-      "format": "kindle",
+      "code": "pt",
+      "name_es": "Portugués",
+      "name_en": "Portuguese",
+      "native_name": "Português",
       "status": "published",
-      "asin": "B0HCCL44TZ",
-      "url": "https://www.amazon.es/dp/B0HCCL44TZ"
+      "published_formats": [
+        "kindle",
+        "paperback",
+        "hardcover"
+      ],
+      "unavailable_formats": [],
+      "format_asins": {
+        "kindle": "B0HBXD3P1D",
+        "paperback": "B0HC2H7YJG",
+        "hardcover": "B0HBXH99PW"
+      }
     },
     {
-      "language_code": "nb",
-      "format": "paperback",
+      "code": "en",
+      "name_es": "Inglés",
+      "name_en": "English",
+      "native_name": "English",
       "status": "published",
-      "asin": null,
-      "url": null,
-      "verification": "paperback_specific_asin_unverified"
+      "published_formats": [
+        "kindle",
+        "paperback",
+        "hardcover"
+      ],
+      "unavailable_formats": [],
+      "format_asins": {
+        "kindle": "B0HBXLKC9W",
+        "paperback": "B0HBXQ9YJS",
+        "hardcover": "B0HBXZX4C8"
+      }
     },
     {
-      "language_code": "nb",
-      "format": "hardcover",
+      "code": "fr",
+      "name_es": "Francés",
+      "name_en": "French",
+      "native_name": "Français",
       "status": "published",
-      "asin": "B0HCCL44TZ",
-      "url": "https://www.amazon.es/dp/B0HCCL44TZ"
+      "published_formats": [
+        "kindle",
+        "paperback",
+        "hardcover"
+      ],
+      "unavailable_formats": [],
+      "format_asins": {
+        "kindle": "B0HBRNFMN7",
+        "paperback": "B0HBRS7N9M",
+        "hardcover": "B0HBTKRD5Z"
+      }
     },
     {
-      "language_code": "fi",
-      "format": "ebook",
+      "code": "es",
+      "name_es": "Español",
+      "name_en": "Spanish",
+      "native_name": "Español",
       "status": "published",
-      "asin": "B0HCRHFMRG",
-      "url": "https://www.amazon.es/dp/B0HCRHFMRG"
+      "published_formats": [
+        "kindle",
+        "paperback",
+        "hardcover"
+      ],
+      "unavailable_formats": [],
+      "format_asins": {
+        "kindle": "B0HBRQGNQL",
+        "paperback": "B0HBP261YZ",
+        "hardcover": "B0HBSNK5ZY"
+      }
     },
     {
-      "language_code": "fi",
-      "format": "paperback",
+      "code": "nl",
+      "name_es": "Neerlandés",
+      "name_en": "Dutch",
+      "native_name": "Nederlands",
       "status": "published",
-      "asin": "B0HCVSX23V",
-      "url": "https://www.amazon.es/dp/B0HCVSX23V",
-      "availability": "marketplace_dependent"
+      "published_formats": [
+        "kindle",
+        "paperback",
+        "hardcover"
+      ],
+      "unavailable_formats": [],
+      "format_asins": {
+        "kindle": "B0HBZHLHJJ",
+        "paperback": "B0HC1JZSJH",
+        "hardcover": "B0HBYXS7CP"
+      }
     },
     {
-      "language_code": "fi",
-      "format": "hardcover",
+      "code": "da",
+      "name_es": "Danés",
+      "name_en": "Danish",
+      "native_name": "Dansk",
       "status": "published",
-      "asin": "B0HCRMCRPT",
-      "url": "https://www.amazon.es/dp/B0HCRMCRPT",
-      "incident_status": "operationally_resolved_2026-08-06"
+      "published_formats": [
+        "kindle",
+        "paperback",
+        "hardcover"
+      ],
+      "unavailable_formats": [],
+      "format_asins": {
+        "kindle": "B0HCC74TPK",
+        "paperback": "B0HCH4DNVC",
+        "hardcover": "B0HCCK6RBR"
+      }
     },
     {
-      "language_code": "pl",
-      "format": null,
+      "code": "de",
+      "name_es": "Alemán",
+      "name_en": "German",
+      "native_name": "Deutsch",
       "status": "published",
-      "asin": null,
-      "url": "https://amzn.eu/d/0a10Qv5a",
-      "verification": "format_and_asin_unverified"
-    }
-  ],
-  "resolved": [
-    {
-      "scope": "fi_language_and_format_association",
-      "status": "operationally_resolved",
-      "confirmed_at": "2026-08-06"
+      "published_formats": [
+        "kindle",
+        "paperback",
+        "hardcover"
+      ],
+      "unavailable_formats": [],
+      "format_asins": {
+        "kindle": "B0H4HYBTGL",
+        "paperback": "B0HBV87WHQ",
+        "hardcover": "B0HBZD937L"
+      }
     },
     {
-      "scope": "author_central_association_12_languages",
-      "status": "confirmed_in_writing",
-      "confirmed_at": "2026-08-06"
-    }
-  ],
-  "pending": [
-    {
-      "language_code": "nb",
-      "format": "paperback_asin",
-      "status": "pending_verification",
-      "included_in_published_language_count": true
-    },
-    {
-      "language_code": "no",
-      "name_es": "Noruego no bokmål",
-      "name_en": "Non-Bokmål Norwegian",
-      "format": null,
-      "status": "not_published",
-      "included_in_published_language_count": false
-    },
-    {
-      "language_code": "ja",
+      "code": "ja",
       "name_es": "Japonés",
       "name_en": "Japanese",
-      "format": null,
-      "status": "in_preparation",
-      "included_in_published_language_count": false
+      "native_name": "日本語",
+      "status": "partially_published",
+      "published_formats": [
+        "kindle"
+      ],
+      "unavailable_formats": [
+        "paperback",
+        "hardcover"
+      ],
+      "format_asins": {
+        "kindle": "B0HD9YDCN1",
+        "paperback": null,
+        "hardcover": null
+      }
     }
   ],
-  "link_policy": {
-    "pattern": "https://www.amazon.es/dp/ASIN",
-    "tracking_parameters": false,
-    "session_parameters": false,
-    "verified_short_links_allowed": true
+  "public_notes": {
+    "polish_kindle": "KDP does not currently support Polish-language Kindle eBooks.",
+    "japanese_print": "Japanese paperback and hardcover are not currently published.",
+    "grouping": "Amazon format grouping may vary by marketplace; use format-specific ASIN links in LINKS.json."
   }
 }
