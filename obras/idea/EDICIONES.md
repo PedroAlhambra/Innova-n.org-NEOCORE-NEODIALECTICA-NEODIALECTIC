@@ -23,72 +23,54 @@ IDEA historically predates Neodialectics™, Innova_N, NEOCore™, SAN™, NAVE�
 
 # Ediciones publicadas / Published editions
 
-| Nº | Idioma / Language | ASIN de referencia / Reference ASIN | Amazon |
-| -: | --- | ---: | --- |
-| 1 | Castellano · Spanish | `B0HBRQGNQL` | [Abrir / Open](https://www.amazon.es/dp/B0HBRQGNQL) |
-| 2 | Francés · French | `B0HBRNFMN7` | [Abrir / Open](https://www.amazon.es/dp/B0HBRNFMN7) |
-| 3 | Alemán · German | `B0H4HYBTGL` | [Abrir / Open](https://www.amazon.es/dp/B0H4HYBTGL) |
-| 4 | Portugués · Portuguese | `B0HBXD3P1D` | [Abrir / Open](https://www.amazon.es/dp/B0HBXD3P1D) |
-| 5 | Inglés · English | `B0HBXLKC9W` | [Abrir / Open](https://www.amazon.es/dp/B0HBXLKC9W) |
-| 6 | Italiano · Italian | `B0HBZ1VCXP` | [Abrir / Open](https://www.amazon.es/dp/B0HBZ1VCXP) |
-| 7 | Neerlandés · Dutch | `B0HBZHLHJJ` | [Abrir / Open](https://www.amazon.es/dp/B0HBZHLHJJ) |
-| 8 | Sueco · Swedish | `B0HC8N69BT` | [Abrir / Open](https://www.amazon.es/dp/B0HC8N69BT) |
-| 9 | Danés · Danish | `B0HCC74TPK` | [Abrir / Open](https://www.amazon.es/dp/B0HCC74TPK) |
-| 10 | Noruego bokmål · Norwegian Bokmål | `B0HCCL44TZ` | [Abrir / Open](https://www.amazon.es/dp/B0HCCL44TZ) |
-| 11 | Finlandés · Finnish | `B0HCRHFMRG` | [Abrir / Open](https://www.amazon.es/dp/B0HCRHFMRG) |
-| 12 | Polaco · Polish | Enlace confirmado / Confirmed link | [Abrir / Open](https://amzn.eu/d/0a10Qv5a) |
+**13 idiomas · 36 ediciones/formato publicadas con ASIN propio / 13 languages · 36 published format editions with their own ASINs.**
 
-> **IDEA está publicada actualmente en doce idiomas.**  
-> **IDEA is currently published in twelve languages.**
+| Nº | Idioma / Language | Kindle | Tapa blanda / Paperback | Tapa dura / Hardcover |
+|---:|---|---|---|---|
+| 01 | Noruego bokmål · Norwegian Bokmål · Norsk bokmål | [B0HCCL44TZ](https://www.amazon.de/dp/B0HCCL44TZ) | [B0HCV423YJ](https://www.amazon.de/dp/B0HCV423YJ) | [B0HCCVF2BF](https://www.amazon.de/dp/B0HCCVF2BF) |
+| 02 | Finés · Finnish · Suomi | [B0HCRHFMRG](https://www.amazon.de/dp/B0HCRHFMRG) | [B0HCVSX23V](https://www.amazon.de/dp/B0HCVSX23V) | [B0HCRMCRPT](https://www.amazon.de/dp/B0HCRMCRPT) |
+| 03 | Italiano · Italian · Italiano | [B0HBZ1VCXP](https://www.amazon.it/dp/B0HBZ1VCXP) | [B0HC31M5C4](https://www.amazon.it/dp/B0HC31M5C4) | [B0HBYQMDC1](https://www.amazon.it/dp/B0HBYQMDC1) |
+| 04 | Sueco · Swedish · Svenska | [B0HC8N69BT](https://www.amazon.se/dp/B0HC8N69BT) | [B0HCC6HDLX](https://www.amazon.se/dp/B0HCC6HDLX) | [B0HC88M28K](https://www.amazon.se/dp/B0HC88M28K) |
+| 05 | Polaco · Polish · Polski | — | [B0HCB8F63N](https://www.amazon.pl/dp/B0HCB8F63N) | [B0HC4C1GWZ](https://www.amazon.pl/dp/B0HC4C1GWZ) |
+| 06 | Portugués · Portuguese · Português | [B0HBXD3P1D](https://www.amazon.es/dp/B0HBXD3P1D) | [B0HC2H7YJG](https://www.amazon.es/dp/B0HC2H7YJG) | [B0HBXH99PW](https://www.amazon.es/dp/B0HBXH99PW) |
+| 07 | Inglés · English · English | [B0HBXLKC9W](https://www.amazon.com/dp/B0HBXLKC9W) | [B0HBXQ9YJS](https://www.amazon.com/dp/B0HBXQ9YJS) | [B0HBXZX4C8](https://www.amazon.com/dp/B0HBXZX4C8) |
+| 08 | Francés · French · Français | [B0HBRNFMN7](https://www.amazon.fr/dp/B0HBRNFMN7) | [B0HBRS7N9M](https://www.amazon.fr/dp/B0HBRS7N9M) | [B0HBTKRD5Z](https://www.amazon.fr/dp/B0HBTKRD5Z) |
+| 09 | Español · Spanish · Español | [B0HBRQGNQL](https://www.amazon.es/dp/B0HBRQGNQL) | [B0HBP261YZ](https://www.amazon.es/dp/B0HBP261YZ) | [B0HBSNK5ZY](https://www.amazon.es/dp/B0HBSNK5ZY) |
+| 10 | Neerlandés · Dutch · Nederlands | [B0HBZHLHJJ](https://www.amazon.nl/dp/B0HBZHLHJJ) | [B0HC1JZSJH](https://www.amazon.nl/dp/B0HC1JZSJH) | [B0HBYXS7CP](https://www.amazon.nl/dp/B0HBYXS7CP) |
+| 11 | Danés · Danish · Dansk | [B0HCC74TPK](https://www.amazon.de/dp/B0HCC74TPK) | [B0HCH4DNVC](https://www.amazon.de/dp/B0HCH4DNVC) | [B0HCCK6RBR](https://www.amazon.de/dp/B0HCCK6RBR) |
+| 12 | Alemán · German · Deutsch | [B0H4HYBTGL](https://www.amazon.de/dp/B0H4HYBTGL) | [B0HBV87WHQ](https://www.amazon.de/dp/B0HBV87WHQ) | [B0HBZD937L](https://www.amazon.de/dp/B0HBZD937L) |
+| 13 | Japonés · Japanese · 日本語 | [B0HD9YDCN1](https://www.amazon.co.jp/dp/B0HD9YDCN1) | — | — |
 
-Los formatos disponibles pueden variar según el idioma y el mercado de Amazon.
-
-Available formats may vary by language and Amazon marketplace.
+> Los enlaces llevan al ASIN específico de cada formato. Los precios y la disponibilidad pueden variar por marketplace.  
+> Links point to the format-specific ASIN. Prices and availability may vary by marketplace.
 
 ---
 
-# Formatos confirmados / Confirmed formats
+# Matriz comercial / Commercial matrix
 
-## Castellano / Spanish
+| Nº | Idioma | Kindle | Tapa blanda | Tapa dura |
+|---:|---|---|---|---|
+| 01 | Noruego bokmål · Norsk bokmål | [B0HCCL44TZ](https://www.amazon.de/dp/B0HCCL44TZ) · 3,99 € | [B0HCV423YJ](https://www.amazon.de/dp/B0HCV423YJ) · 14,99 € | [B0HCCVF2BF](https://www.amazon.de/dp/B0HCCVF2BF) · 19,99 € |
+| 02 | Finés · Suomi | [B0HCRHFMRG](https://www.amazon.de/dp/B0HCRHFMRG) · 3,99 € | [B0HCVSX23V](https://www.amazon.de/dp/B0HCVSX23V) · 15,99 € | [B0HCRMCRPT](https://www.amazon.de/dp/B0HCRMCRPT) · 19,99 € |
+| 03 | Italiano · Italiano | [B0HBZ1VCXP](https://www.amazon.it/dp/B0HBZ1VCXP) · 3,99 € | [B0HC31M5C4](https://www.amazon.it/dp/B0HC31M5C4) · 12,99 € | [B0HBYQMDC1](https://www.amazon.it/dp/B0HBYQMDC1) · 16,99 € |
+| 04 | Sueco · Svenska | [B0HC8N69BT](https://www.amazon.se/dp/B0HC8N69BT) · 3,99 € | [B0HCC6HDLX](https://www.amazon.se/dp/B0HCC6HDLX) · 149,00 SEK | [B0HC88M28K](https://www.amazon.se/dp/B0HC88M28K) · 229,00 SEK |
+| 05 | Polaco · Polski | No disponible en KDP | [B0HCB8F63N](https://www.amazon.pl/dp/B0HCB8F63N) · 59,99 PLN | [B0HC4C1GWZ](https://www.amazon.pl/dp/B0HC4C1GWZ) · 69,99 PLN |
+| 06 | Portugués · Português | [B0HBXD3P1D](https://www.amazon.es/dp/B0HBXD3P1D) · 3,99 € | [B0HC2H7YJG](https://www.amazon.es/dp/B0HC2H7YJG) · 12,39 € | [B0HBXH99PW](https://www.amazon.es/dp/B0HBXH99PW) · 16,99 € |
+| 07 | Inglés · English | [B0HBXLKC9W](https://www.amazon.com/dp/B0HBXLKC9W) · $3.99 USD | [B0HBXQ9YJS](https://www.amazon.com/dp/B0HBXQ9YJS) · $12.99 USD | [B0HBXZX4C8](https://www.amazon.com/dp/B0HBXZX4C8) · $19.99 USD |
+| 08 | Francés · Français | [B0HBRNFMN7](https://www.amazon.fr/dp/B0HBRNFMN7) · 3,99 € | [B0HBRS7N9M](https://www.amazon.fr/dp/B0HBRS7N9M) · 12,31 € | [B0HBTKRD5Z](https://www.amazon.fr/dp/B0HBTKRD5Z) · 16,99 € |
+| 09 | Español · Español | [B0HBRQGNQL](https://www.amazon.es/dp/B0HBRQGNQL) · 3,99 € | [B0HBP261YZ](https://www.amazon.es/dp/B0HBP261YZ) · 9,99 € | [B0HBSNK5ZY](https://www.amazon.es/dp/B0HBSNK5ZY) · 16,99 € |
+| 10 | Neerlandés · Nederlands | [B0HBZHLHJJ](https://www.amazon.nl/dp/B0HBZHLHJJ) · 3,99 € | [B0HC1JZSJH](https://www.amazon.nl/dp/B0HC1JZSJH) · 13,54 € | [B0HBYXS7CP](https://www.amazon.nl/dp/B0HBYXS7CP) · 17,54 € |
+| 11 | Danés · Dansk | [B0HCC74TPK](https://www.amazon.de/dp/B0HCC74TPK) · 3,99 € | [B0HCH4DNVC](https://www.amazon.de/dp/B0HCH4DNVC) · 14,99 € | [B0HCCK6RBR](https://www.amazon.de/dp/B0HCCK6RBR) · 18,99 € |
+| 12 | Alemán · Deutsch | [B0H4HYBTGL](https://www.amazon.de/dp/B0H4HYBTGL) · 3,99 € | [B0HBV87WHQ](https://www.amazon.de/dp/B0HBV87WHQ) · 12,14 € | [B0HBZD937L](https://www.amazon.de/dp/B0HBZD937L) · 19,62 € |
+| 13 | Japonés · 日本語 | [B0HD9YDCN1](https://www.amazon.co.jp/dp/B0HD9YDCN1) · ¥699 JPY | No publicada | No publicada |
 
-| Formato / Format | ASIN | Estado / Status | Enlace / Link |
-| --- | --- | --- | --- |
-| Tapa blanda · Paperback | `B0HBP261YZ` | Publicado · Published | [Abrir / Open](https://www.amazon.es/dp/B0HBP261YZ) |
-| Edición de referencia · Reference edition | `B0HBRQGNQL` | Publicada · Published | [Abrir / Open](https://www.amazon.es/dp/B0HBRQGNQL) |
+### Notas públicas / Public notes
 
-## Noruego bokmål / Norwegian Bokmål
-
-| Formato / Format | ASIN | Estado / Status |
-| --- | --- | --- |
-| Kindle | `B0HCCL44TZ` como referencia lingüística / as language reference | Publicado · Published |
-| Tapa blanda · Paperback | No verificado / Unverified | Publicado · Published |
-| Tapa dura · Hardcover | `B0HCCL44TZ` como referencia lingüística / as language reference | Publicado · Published |
-
-El ASIN específico de la tapa blanda no se publica mientras siga sin verificarse.
-
-The paperback-specific ASIN is not published while it remains unverified.
-
-## Finlandés / Finnish
-
-| Formato / Format | ASIN | Estado / Status | Enlace / Link |
-| --- | --- | --- | --- |
-| eBook | `B0HCRHFMRG` | Publicado · Published | [Abrir / Open](https://www.amazon.es/dp/B0HCRHFMRG) |
-| Tapa dura · Hardcover | `B0HCRMCRPT` | Publicada tras republicación · Published after republication | [Abrir / Open](https://www.amazon.de/dp/B0HCRMCRPT) |
-| Tapa blanda · Paperback | `B0HCVSX23V` | Publicada · Published | [Comprobar disponibilidad / Check availability](https://www.amazon.es/dp/B0HCVSX23V) |
-
-KDP y Author Central confirmaron por escrito el 6 de agosto de 2026 la asociación correcta de los formatos publicados de IDEA con la Página de Autor en doce idiomas. El autor verificó la corrección de los idiomas y asociaciones mostrados. La incidencia finlandesa se considera **operativamente resuelta**. La disponibilidad comercial concreta puede variar por marketplace.
-
-KDP and Author Central confirmed in writing on 6 August 2026 that published IDEA formats in twelve languages were correctly associated with the Author Page. The author verified the corrected displayed languages and associations. The Finnish incident is considered **operationally resolved**. Specific commercial availability may vary by marketplace.
-
-## Polaco / Polish
-
-| Referencia / Reference | Estado / Status | Enlace / Link |
-| --- | --- | --- |
-| Enlace confirmado · Confirmed link | Publicado · Published | [Abrir / Open](https://amzn.eu/d/0a10Qv5a) |
-
-No se atribuyen formatos ni ASIN no verificados.
-
-No unverified format or ASIN is attributed.
+* **Polaco / Polish:** KDP no ofrece eBook Kindle en polaco; las ediciones impresas sí están publicadas.
+* **Japonés / Japanese:** por ahora está publicada únicamente la edición Kindle; los formatos impresos no están publicados.
+* La agrupación visual automática de Kindle, tapa blanda y tapa dura en Amazon puede variar; por eso el registro canónico usa cada ASIN individual.
+* Amazon's automatic visual grouping of Kindle, paperback and hardcover may vary; therefore the canonical record uses each individual ASIN.
+* Precios registrados / Prices recorded: **2026-09-24**.
 
 ---
 
@@ -96,41 +78,14 @@ No unverified format or ASIN is attributed.
 
 ## Publicado / Published
 
-* Castellano · Spanish
-* Francés · French
-* Alemán · German
-* Portugués · Portuguese
-* Inglés · English
-* Italiano · Italian
-* Neerlandés · Dutch
-* Sueco · Swedish
-* Danés · Danish
-* Noruego bokmål · Norwegian Bokmål
-* Finlandés · Finnish
-* Polaco · Polish
+* 13 idiomas / 13 languages.
+* 36 ediciones/formato con ASIN propio / 36 format editions with their own ASINs.
+* Matriz de acceso directo mantenida en este archivo y en `LINKS.json`.
 
-## Datos todavía pendientes / Remaining pending data
+## Disponibilidad especial / Special availability
 
-* ASIN específico de la tapa blanda en noruego bokmål: pendiente de verificación.
-* Norwegian Bokmål paperback-specific ASIN: pending verification.
-* La disponibilidad de formatos concretos puede variar por marketplace y debe comprobarse en Amazon.
-* Availability of specific formats may vary by marketplace and should be checked on Amazon.
-
-## Resuelto / Resolved
-
-* Asociación e idioma de los formatos finlandeses: corrección operativa confirmada el 6 de agosto de 2026.
-* Finnish format association and language: operational correction confirmed on 6 August 2026.
-* Asociación de los formatos publicados de IDEA en doce idiomas con Author Central: confirmada por escrito.
-* Association of published IDEA formats in twelve languages with Author Central: confirmed in writing.
-
-## No publicado / Not published
-
-* Noruego no bokmål · Non-Bokmål Norwegian
-* Japonés · Japanese: en preparación / in preparation
-
-La edición noruega no bokmål y la edición japonesa no se contabilizan entre los doce idiomas publicados.
-
-The non-Bokmål Norwegian and Japanese editions are not counted among the twelve published languages.
+* Polaco / Polish: sin eBook Kindle por limitación de KDP.
+* Japonés / Japanese: Kindle publicado; tapa blanda y tapa dura no publicadas todavía.
 
 ---
 
