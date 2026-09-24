@@ -2,7 +2,7 @@
 # Public Audit · SwarmWorld · multihead convergence, application and custodianship
 
 **Fecha / Date:** 2026-09-24  
-**Versión / Version:** 1.1 · recálculo de enfoque / framing recalculation  
+**Versión / Version:** 1.2 · recálculo de enfoque + antecedente de contacto MIT / framing recalculation + prior MIT contact evidence  
 **Estado / Status:** ABIERTA · SÍNTESIS PROVISIONAL · REABRIBLE / OPEN · PROVISIONAL SYNTHESIS · REOPENABLE  
 **Issue vivo / Live Issue:** [#201 · SwarmWorld · convergencia con NAX-02 multicabeza, aplicación y custodia](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/201)  
 **Método / Method:** Leónidas™ + NeoGenealogía™ · hechos, precedencia, convergencia, inferencias e hipótesis separados / facts, precedence, convergence, inferences and hypotheses separated
@@ -72,6 +72,41 @@ CONV-ND · CONVERGENCIA FUNCIONAL FUERTE
 + PRECEDENCIA PÚBLICA INNOVA_N DOCUMENTADA
 + DERIVACIÓN / ACCESO NO DEMOSTRADOS
 ```
+
+## ES · Antecedente de contacto con MIT previo al preprint
+
+La trazabilidad de correo de Innova_N añade un dato relevante que debe incorporarse al caso **sin convertirlo en prueba de derivación**.
+
+Antes de la aparición pública del preprint de SwarmWorld el 26-08-2026, Innova_N había enviado material del marco a varias personas de MIT. La evidencia conservada en la traza privada de correo es:
+
+| Fecha | Destinatario / ámbito MIT | Contenido relevante enviado | Estado probatorio |
+|---|---|---|---|
+| **07-08-2026** | Sherry Turkle · MIT | Invitación a examinar críticamente el marco humano–IA; se explicaban dirección humana, Síntesis Abierta, memoria versionada, genealogía, trazabilidad y mecanismos explícitos de corrección. | Envío confirmado; lectura no demostrada. |
+| **08-08-2026** | **Robert Laubacher · MIT Center for Collective Intelligence** | Mensaje centrado expresamente en **observadores distribuidos**, ausencia de un observador central que vea el todo, fuentes trazables, observaciones locales, contradicciones, memoria, procedencia, revisión y una IA que no se convierta en observador final. | **Recepción y lectura materialmente confirmadas por respuesta en el mismo hilo.** |
+| **13-08-2026** | Max Tegmark · MIT | Invitación a someter NEOCore 7.2 a crítica; se describía **dirección humana explícita + contribución distribuida de IA + síntesis trazable + gobernanza revisable**. | Envío confirmado; lectura no demostrada. |
+| **13-08-2026** | Daniela Rus · MIT CSAIL | Invitación a someter NEOCore 7.2 a crítica; se describía la inteligencia como **sistema coordinado de partes humanas y de máquina diferenciadas**, no como un componente soberano único. | Envío confirmado; lectura no demostrada. |
+| **19-08-2026** | Daniela Rus + Max Tegmark · MIT | Nota de transparencia sobre trazabilidad de correspondencia, procedencia y separación entre aportes humanos, IA y conclusiones posteriores. | Envío confirmado; lectura no demostrada. |
+
+El hilo de Robert Laubacher es especialmente relevante porque la respuesta de CCI confirma que el mensaje **llegó a una persona del MIT Center for Collective Intelligence antes de la fecha pública de SwarmWorld**. El contenido remitido no era una referencia genérica a IA: planteaba de forma explícita problemas de **cognición/observación distribuida, no-centralidad, contradicción, memoria, procedencia y revisión**.
+
+Aun así, la inferencia permitida termina ahí:
+
+```text
+CONTACTO PREVIO CON PERSONAS DE MIT
++ RECEPCIÓN CONFIRMADA EN MIT CCI
+≠ ACCESO DE BUEHLER / LAMM
+≠ TRANSMISIÓN INTERNA DEMOSTRADA
+≠ COPIA
+≠ DERIVACIÓN
+```
+
+Una búsqueda adicional en la correspondencia enviada **no localiza mensajes directos previos** a Markus J. Buehler, Subhadeep Pal, Fiona Y. Wang, SwarmWorld ni al grupo LAMM.
+
+Por tanto, este antecedente **eleva la relevancia de investigar la cadena de posible exposición institucional**, pero no modifica por sí solo la clasificación de derivación:
+
+`ACCESS_TO_RELATED_MIT_NODES_DOCUMENTED / ACCESS_TO_SWARMWORLD_AUTHORS_UNPROVEN`
+
+La auditoría deberá reabrirse si aparece evidencia de reenvío, acceso, cita, visita al repositorio atribuible de forma fiable, contacto entre destinatarios y autores, o cualquier otra cadena documental que conecte ambos conjuntos.
 
 ## ES · Qué coincide materialmente con NAX-02
 
@@ -238,7 +273,7 @@ PRINCIPIO PÚBLICO
 
 ## ES · Estado provisional
 
-`PRIMARY_SOURCES_VERIFIED / NAX02_PUBLIC_PRECEDENCE_2026-08-09 / SWARMWORLD_PREPRINT_2026-08-26 / CONV-ND_STRONG / DERIVATION_UNPROVEN / DIRECT_NAX02_EXPERIMENTAL_RELEVANCE / TECHNICAL_CONTROLS_PRESENT / FRAMEWORK_AND_CUSTODIANSHIP_GAP / TRANSFER_RISK_OPEN / ISSUE_201_OPEN`
+`PRIMARY_SOURCES_VERIFIED / NAX02_PUBLIC_PRECEDENCE_2026-08-09 / SWARMWORLD_PREPRINT_2026-08-26 / PRIOR_MIT_CONTACT_DOCUMENTED / MIT_CCI_RECEIPT_CONFIRMED_2026-08-08 / DIRECT_SWARMWORLD_AUTHOR_ACCESS_UNPROVEN / CONV-ND_STRONG / DERIVATION_UNPROVEN / DIRECT_NAX02_EXPERIMENTAL_RELEVANCE / TECHNICAL_CONTROLS_PRESENT / FRAMEWORK_AND_CUSTODIANSHIP_GAP / TRANSFER_RISK_OPEN / ISSUE_201_OPEN`
 
 No se atribuye copia, apropiación ni negligencia personal sin evidencia de acceso o derivación. Sí se fija la **precedencia pública documentada de la formulación multicabeza de Innova_N** y se abre el caso como convergencia técnica que puede reforzar, corregir o ampliar nuestra propia implementación.
 
@@ -305,6 +340,41 @@ CONV-ND · STRONG FUNCTIONAL CONVERGENCE
 + DOCUMENTED INNOVA_N PUBLIC PRECEDENCE
 + DERIVATION / ACCESS UNPROVEN
 ```
+
+## EN · Prior MIT contact before the preprint
+
+Innova_N's correspondence trace adds a relevant fact that belongs in this case **without turning it into evidence of derivation**.
+
+Before SwarmWorld's public preprint appeared on 26 Aug 2026, Innova_N had sent framework material to several people at MIT. Evidence preserved in the private correspondence trace includes:
+
+| Date | Recipient / MIT context | Relevant material sent | Evidentiary status |
+|---|---|---|---|
+| **7 Aug 2026** | Sherry Turkle · MIT | Invitation to critically examine the human–AI framework; it described human direction, Open Synthesis, versioned memory, genealogy, traceability and explicit correction mechanisms. | Sending confirmed; reading not established. |
+| **8 Aug 2026** | **Robert Laubacher · MIT Center for Collective Intelligence** | Message explicitly centred on **distributed observers**, the absence of a central all-seeing observer, traceable sources, local observations, contradictions, memory, provenance, revision and AI that does not become the final observer. | **Receipt and material reading confirmed by a reply in the same thread.** |
+| **13 Aug 2026** | Max Tegmark · MIT | Invitation to stress-test NEOCore 7.2 describing **explicit human direction + distributed AI contribution + traceable synthesis + revisable governance**. | Sending confirmed; reading not established. |
+| **13 Aug 2026** | Daniela Rus · MIT CSAIL | Invitation to stress-test NEOCore 7.2 describing intelligence as a **coordinated system of differentiated human and machine parts**, rather than one sovereign component. | Sending confirmed; reading not established. |
+| **19 Aug 2026** | Daniela Rus + Max Tegmark · MIT | Transparency note on correspondence traceability, provenance and separation between human contributions, AI assistance and later conclusions. | Sending confirmed; reading not established. |
+
+The Robert Laubacher thread is especially relevant because CCI's reply confirms that the message **reached a person at the MIT Center for Collective Intelligence before SwarmWorld's public date**. The material was not a generic AI introduction: it explicitly raised **distributed cognition/observation, non-centrality, contradiction, memory, provenance and revision**.
+
+The permissible inference still stops there:
+
+```text
+PRIOR CONTACT WITH MIT PEOPLE
++ CONFIRMED RECEIPT AT MIT CCI
+≠ ACCESS BY BUEHLER / LAMM
+≠ PROVEN INTERNAL TRANSMISSION
+≠ COPYING
+≠ DERIVATION
+```
+
+An additional search of sent correspondence found **no direct prior messages** to Markus J. Buehler, Subhadeep Pal, Fiona Y. Wang, SwarmWorld or the LAMM group.
+
+This antecedent therefore **raises the relevance of investigating a possible institutional exposure chain**, but does not by itself change the derivation classification:
+
+`ACCESS_TO_RELATED_MIT_NODES_DOCUMENTED / ACCESS_TO_SWARMWORLD_AUTHORS_UNPROVEN`
+
+The audit should reopen if evidence appears of forwarding, access, citation, reliably attributable repository visits, contact between recipients and authors, or any other documentary chain connecting both sets.
 
 ## EN · Material overlap with NAX-02
 
