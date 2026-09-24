@@ -2,7 +2,7 @@
 # Public Audit · SwarmWorld · multihead convergence, application and custodianship
 
 **Fecha / Date:** 2026-09-24  
-**Versión / Version:** 1.2 · recálculo de enfoque + antecedente de contacto MIT / framing recalculation + prior MIT contact evidence  
+**Versión / Version:** 1.3 · revisión integral del paper + antecedente MIT / full-paper review + prior MIT contact evidence  
 **Estado / Status:** ABIERTA · SÍNTESIS PROVISIONAL · REABRIBLE / OPEN · PROVISIONAL SYNTHESIS · REOPENABLE  
 **Issue vivo / Live Issue:** [#201 · SwarmWorld · convergencia con NAX-02 multicabeza, aplicación y custodia](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/201)  
 **Método / Method:** Leónidas™ + NeoGenealogía™ · hechos, precedencia, convergencia, inferencias e hipótesis separados / facts, precedence, convergence, inferences and hypotheses separated
@@ -72,6 +72,109 @@ CONV-ND · CONVERGENCIA FUNCIONAL FUERTE
 + PRECEDENCIA PÚBLICA INNOVA_N DOCUMENTADA
 + DERIVACIÓN / ACCESO NO DEMOSTRADOS
 ```
+
+## ES · Revisión integral del paper arXiv v1
+
+Tras revisar el texto completo y los métodos suplementarios de **SwarmWorld (arXiv:2608.26081v1)**, conviene separar con precisión lo que el paper afirma de lo que parte de la divulgación posterior añade o simplifica.
+
+### Qué reivindica realmente el paper
+
+El hueco experimental que los autores declaran querer cubrir combina cuatro propiedades: agentes inicialmente equivalentes, un mundo compartido que conserva modificaciones, tecnologías ejecutables cuya función se evalúa independientemente de lo que el agente diga sobre ellas y un control de búsqueda aislada comparable. La contribución declarada es una **ventaja de enjambre acotada**, no una superioridad universal de la sociedad frente a agentes independientes.
+
+En los resultados de largo horizonte, las sociedades compartidas producen carteras tecnológicas más amplias, más invenciones validadas y mejor resiliencia de portfolio; sin embargo, la búsqueda aislada conserva el mejor artefacto individual final. Por tanto, el resultado fuerte es **cobertura colectiva y acumulación**, no “cada enjambre descubre siempre mejor”.
+
+### Homogeneidad inicial y diferenciación material
+
+Los agentes usan el mismo modelo base, el mismo system prompt y los mismos límites iniciales. En la configuración publicada se emplea `gpt-5.6-luna`, temperatura 0.7, low reasoning effort, igual esquema de acciones y mismos presupuestos de memoria/contexto.
+
+La homogeneidad deja de ser materialmente completa en cuanto empieza la ejecución: cada agente recibe observaciones locales, conserva memoria privada y acumula experiencia, hipótesis, evidencias y trayectorias distintas. Éste es el punto de mayor interés para NAX-02: **la diferenciación no está preasignada como rol, pero sí puede emerger a partir de historias locales divergentes dentro de un mismo sustrato**.
+
+### Los “roles” son descripciones post hoc
+
+El paper no asigna exploradores, constructores o coordinadores. Esos estados se recuperan después mediante clustering de trayectorias y ventanas de comportamiento. Los autores insisten en que son **estados dinámicos**, no identidades sociales fijas.
+
+Esto refuerza el encaje con la multicabeza sólo si se formula con cuidado: no es “el sistema inventa profesiones”, sino “instancias inicialmente equivalentes desarrollan diferenciales de comportamiento estables/recurrentes a partir de experiencia situada”.
+
+### El exponente 3,47 no significa “cada nuevo agente genera 3,47 veces más colaboración”
+
+La densificación de la red se describe mediante un ajuste log-log de **lazos acumulados agente–artefacto frente al número total de agentes + artefactos**. El exponente es 3,47 con cultura explícita y 3,48 sin cultura explícita.
+
+El propio paper aclara que ese exponente describe densificación con tamaño de red, no crecimiento por unidad de tiempo. Además, valores prácticamente iguales en las dos condiciones impiden interpretar 3,47 como una ley específica de “colaboración añadida por agente”.
+
+### No son todavía descubrimientos materiales experimentales en el mundo físico
+
+BioFoundry y AshenRealm usan propiedades y consecuencias definidas por el simulador. Los autores indican que las visualizaciones no son estructuras fabricadas experimentalmente y que los valores cuantitativos proceden del simulador determinista.
+
+En Protein Realms, las propiedades ocultas son **priors fijos del simulador**, no nuevas mediciones bioquímicas ni predicciones experimentales. Por tanto, expresiones públicas como “descubrimientos científicos en física de materiales” deben distinguir entre:
+
+```text
+DESCUBRIMIENTO / OPTIMIZACIÓN DENTRO DE UN MUNDO SIMULADO
+≠
+VALIDACIÓN MATERIAL EXPERIMENTAL EN EL MUNDO FÍSICO
+```
+
+El paper sí presenta una infraestructura experimental seria para estudiar acumulación tecnológica y propone rutas posteriores hacia validación física.
+
+### El paper no usa “meta-recursive intelligence”
+
+La expresión **“recursive meta-intelligence” / “meta-recursive intelligence”** no forma parte del texto de SwarmWorld v1. Aparece en comunicación pública posterior de Markus J. Buehler.
+
+Por tanto, debe separarse:
+
+```text
+PAPER SWARMWORLD
+= ecología multiagente + persistencia + estigmergia + herencia ejecutable + evaluación
+
+NARRATIVA PÚBLICA POSTERIOR
+= recursive meta-intelligence / scientific superintelligence
+```
+
+### Limitaciones reconocidas por los propios autores
+
+El paper declara explícitamente que la inferencia descansa en cuatro world seeds emparejadas por condición, un único modelo y una única configuración de prompting. Sus conclusiones se presentan como mecanismo reproducible y evidencia acotada, no como ley universal.
+
+### La salida del sandbox sí está propuesta en el propio paper
+
+Éste es el punto que hace especialmente relevante la custodia.
+
+Los autores describen una secuencia de extensión:
+
+1. mantener el mundo in silico pero conectar recetas/geometrías/controladores a solvers físicos más fieles;
+2. alimentar el sistema con registros ambientales medidos y ejecutar controladores en hardware embebido con sensores reales;
+3. pasar a plataformas robóticas y laboratorios autónomos para construcción, prueba y observación físicas;
+4. explorar intercambio distribuido de artefactos entre laboratorios.
+
+La preocupación de Innova_N no se dirige, por tanto, a un simulador cerrado como si ya fuera un sistema físico autónomo. Se dirige a la **transición explícitamente prevista desde una ecología emergente simulada hacia capas de consecuencia real**.
+
+### Matiz importante: Buehler sí formula después un problema de autoridad epistemológica
+
+En una comunicación pública posterior al paper, Buehler advierte que, en sistemas recursivos, elecciones anteriores pueden quedar ocultas dentro del sustrato y adquirir autoridad epistémica heredada; distingue además entre ganar confianza y ganar jurisdicción.
+
+Ese punto es altamente convergente con la separación neodialéctica entre:
+
+```text
+CAPACIDAD / EVIDENCIA
+≠
+AUTORIDAD DE FIJACIÓN
+```
+
+Por tanto, la auditoría no debe presentar a SwarmWorld/Buehler como “ajenos a toda preocupación de gobernanza”. La formulación correcta es: **esa preocupación aparece explícitamente en su discurso posterior, mientras que el paper técnico v1 no incorpora una arquitectura normativa/custodial equivalente a NAX-11/SAN™/Bien Común**.
+
+### Recálculo de la convergencia
+
+Tras leer el paper completo, la convergencia con NAX-02 se vuelve más específica y menos grandilocuente:
+
+```text
+MISMO MODELO + MISMO PROMPT + MISMAS CAPACIDADES INICIALES
+→ OBSERVACIONES LOCALES DIFERENTES
+→ MEMORIAS PRIVADAS DIVERGENTES
+→ ARTEFACTOS PERSISTENTES COMO MEMORIA EXTERNA
+→ HERENCIA EJECUTABLE
+→ DIFERENCIACIÓN DE CONDUCTA
+→ ECOLOGÍA TECNOLÓGICA COLECTIVA
+```
+
+Ésta es una vía experimental especialmente relevante para la pregunta de NAX-02 sobre cómo evitar **multicabeza aparente** basada en copias redundantes y producir cabezas con genealogía materialmente diferenciada.
 
 ## ES · Antecedente de contacto con MIT previo al preprint
 
@@ -340,6 +443,86 @@ CONV-ND · STRONG FUNCTIONAL CONVERGENCE
 + DOCUMENTED INNOVA_N PUBLIC PRECEDENCE
 + DERIVATION / ACCESS UNPROVEN
 ```
+
+## EN · Full review of the arXiv v1 paper
+
+After reviewing the full text and supplementary methods of **SwarmWorld (arXiv:2608.26081v1)**, it is important to distinguish the paper's actual claims from stronger language used in later public discussion.
+
+### What the paper actually claims
+
+The experimental gap is defined by four combined properties: initially equivalent agents, a shared world that preserves modifications, executable technologies evaluated independently of agent claims, and a matched isolated-search baseline. The declared result is a **bounded swarm advantage**, not universal superiority over independent agents.
+
+At long horizons, shared societies build broader portfolios, more validated inventions and stronger portfolio resilience, while isolated search retains the strongest final single artifact. The strong result is therefore **collective coverage and accumulation**, not universal dominance.
+
+### Initial homogeneity and material differentiation
+
+Agents use the same base model, the same system prompt and the same initial limits. The published configuration uses `gpt-5.6-luna`, temperature 0.7, low reasoning effort, the same action schema and identical memory/context budgets.
+
+Material homogeneity ends once execution begins: each agent receives local observations, maintains private memory and accumulates different experiences, hypotheses, evidence and trajectories. This is the point most relevant to NAX-02: **differentiation is not role-assigned, but can emerge from divergent local histories inside a common substrate**.
+
+### “Roles” are post hoc descriptions
+
+Explorer, constructor, coordinator and related states are recovered afterwards through clustering of trajectories and behavioural windows. The paper treats them as **dynamic states**, not fixed social identities.
+
+### The 3.47 exponent is not a per-agent collaboration law
+
+Network densification is fitted on cumulative agent–artifact ties against total agents + artifacts. The descriptive exponent is 3.47 under full culture and 3.48 without explicit culture. The paper explicitly states that this describes densification with network size, not growth per unit time. It should not be paraphrased as each additional agent directly causing “3.47× more collaboration”.
+
+### These are not yet experimentally manufactured material discoveries
+
+BioFoundry and AshenRealm use simulator-defined properties and consequences. The paper states that visualised structures are not experimentally manufactured geometries and reported quantitative values come from the deterministic simulator.
+
+Protein Realms uses **fixed simulator priors**, not new biochemical measurements. Public descriptions of “scientific discoveries in materials physics” therefore need to distinguish:
+
+```text
+DISCOVERY / OPTIMISATION INSIDE A SIMULATED WORLD
+≠
+PHYSICAL MATERIAL VALIDATION
+```
+
+### The paper does not use “meta-recursive intelligence”
+
+The terms **“recursive meta-intelligence” / “meta-recursive intelligence”** do not appear in SwarmWorld v1. They belong to later public communication by Markus J. Buehler.
+
+### Limitations acknowledged by the authors
+
+Inference is explicitly based on four matched world seeds per condition, one model and one prompting configuration. The authors frame the result as bounded, reproducible mechanism evidence rather than a universal law.
+
+### The route out of the sandbox is explicitly proposed
+
+The paper itself outlines a progression from higher-fidelity in-silico consequence layers to measured environmental streams, embedded hardware, robotic platforms and autonomous laboratories, including distributed artifact exchange across laboratories.
+
+This is why custodianship matters: the relevant concern is not the current closed simulator as such, but the **explicitly proposed transition from emergent simulated societies to real consequence layers**.
+
+### Important nuance: Buehler later raises epistemic-authority concerns himself
+
+In subsequent public communication, Buehler warns that recursive systems can bury earlier machine choices into the substrate and thereby inherit epistemic authority, while distinguishing confidence from jurisdiction.
+
+That is strongly convergent with the Neodialectical separation:
+
+```text
+CAPABILITY / EVIDENCE
+≠
+FIXATION AUTHORITY
+```
+
+The correct audit framing is therefore not that SwarmWorld/Buehler are “unaware of governance”. Rather, this concern is explicit in later public discussion, while the v1 technical paper does not include a normative/custodianship architecture equivalent to NAX-11/SAN™/Common Good.
+
+### Recalculated convergence
+
+After full-paper review, the NAX-02 convergence becomes more specific and less rhetorical:
+
+```text
+SAME MODEL + SAME PROMPT + SAME INITIAL CAPABILITIES
+→ DIFFERENT LOCAL OBSERVATIONS
+→ DIVERGENT PRIVATE MEMORIES
+→ PERSISTENT ARTIFACTS AS EXTERNAL MEMORY
+→ EXECUTABLE INHERITANCE
+→ BEHAVIOURAL DIFFERENTIATION
+→ COLLECTIVE TECHNOLOGICAL ECOLOGY
+```
+
+This is a particularly relevant experimental path for the NAX-02 problem of avoiding an **apparent multihead** made of redundant copies and instead producing heads with materially differentiated genealogy.
 
 ## EN · Prior MIT contact before the preprint
 
