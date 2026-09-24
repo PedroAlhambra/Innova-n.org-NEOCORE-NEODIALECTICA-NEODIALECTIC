@@ -400,3 +400,9 @@ Este bloque conserva como **traza histórica** el estado documentado el 8 de ago
 - [Respuesta KDP y estado actual · 2026-08-08 / KDP response and current state · 2026-08-08](../../auditorias/publicas/2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md)
 
 <!-- KDP_51071689_TRACE_END -->
+
+### Seguimiento KDP vigente / Current KDP follow-up
+
+La incidencia multilingüe actual se sigue en el caso `51454599`. El 24-09-2026 se entregó a KDP la matriz completa de **13 idiomas y 36 ediciones/formato con ASIN propio** para continuar la investigación técnica. / The current multilingual incident is tracked under case `51454599`. On 24 Sep 2026, KDP received the complete matrix of **13 languages and 36 format editions with their own ASINs** so the technical investigation can continue.
+
+[Addendum 24-09-2026 / 24 Sep 2026 addendum](../../auditorias/publicas/2026-09-24_addendum_kdp_caso_51454599_matriz_asin_y_escalado_visibilidad_interna_ES_EN.md) · [Genealogía KDP / KDP genealogy](../../auditorias/publicas/KDP_IDEA_GENEALOGIA_TRAZABLE_CASOS_ISSUES_DELTAS_ES_EN.md) · [Issue #70](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)
