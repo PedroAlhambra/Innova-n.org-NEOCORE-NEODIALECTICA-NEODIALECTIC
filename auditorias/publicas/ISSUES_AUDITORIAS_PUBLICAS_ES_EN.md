@@ -59,8 +59,9 @@ Documentos principales, en orden genealógico:
 - [Revisión global declarada aplicada · casos 51454627 / 51454666 · 29-08](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md)
 - [Regresión + contradicción de capacidad/proceso · caso 51454627 · 01-09](./2026-09-01_addendum_kdp_contradiccion_capacidad_vinculacion_multilingue_caso_51454627_ES_EN.md)
 - [Reconocimiento de corrección + verificación multilingüe · caso 51454599 · 14-09](./2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_ES_EN.md)
+- [Matriz ASIN completa + escalado de visibilidad interna · caso 51454599 · 24-09](./2026-09-24_addendum_kdp_caso_51454599_matriz_asin_y_escalado_visibilidad_interna_ES_EN.md)
 
-**Nota sobre `51454599`:** desde el 14-09 existe un addendum público autónomo. Conserva el reconocimiento positivo de KDP sobre la corrección entre formatos y, por separado, la observación de que la asociación multilingüe visible seguía sin cambio material en la verificación manual de ~14:27 CEST.
+**Nota sobre `51454599`:** la incidencia material sigue abierta. El 24-09, tras peticiones reiteradas de KDP, se entregó la matriz completa de **13 idiomas y 36 ediciones/formato con ASIN propio** y se pidió escalar a catálogo/producto/desarrollo si soporte no puede recuperar internamente datos que ya constan en KDP.
 
 **Estado vivo:** `AUDIT_PHASE=CLOSED / FORMAT_LINK_CORRECTION_ACKNOWLEDGED / MULTILINGUAL_ASSOCIATION=OPEN / VERIFICATION_2026-09-14=NO_MATERIAL_CHANGE / INCIDENT_OPEN_UNTIL_MATERIAL_AND_PERSISTENT_CORRECTION`.
 
@@ -175,8 +176,9 @@ Main documents in genealogical order:
 - [Global review declared applied · cases 51454627 / 51454666 · 29 Aug](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md)
 - [Regression + capability/process contradiction · case 51454627 · 1 Sep](./2026-09-01_addendum_kdp_contradiccion_capacidad_vinculacion_multilingue_caso_51454627_ES_EN.md)
 - [Correction acknowledgement + multilingual verification · case 51454599 · 14 Sep](./2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_ES_EN.md)
+- [Complete ASIN matrix + internal-visibility escalation · case 51454599 · 24 Sep](./2026-09-24_addendum_kdp_caso_51454599_matriz_asin_y_escalado_visibilidad_interna_ES_EN.md)
 
-**Note on `51454599`:** since 14 Sep a standalone public addendum exists. It preserves KDP’s positive acknowledgement of the format-link correction and, separately, the observation that the visible multilingual association still showed no material change in the ~14:27 CEST manual verification.
+**Note on `51454599`:** the material incident remains open. On 24 Sep, after repeated KDP requests, the complete matrix of **13 languages and 36 format editions with their own ASINs** was provided, together with a request to escalate to catalogue/product/development if support cannot internally retrieve data already held in KDP.
 
 **Live state:** `AUDIT_PHASE=CLOSED / FORMAT_LINK_CORRECTION_ACKNOWLEDGED / MULTILINGUAL_ASSOCIATION=OPEN / VERIFICATION_2026-09-14=NO_MATERIAL_CHANGE / INCIDENT_OPEN_UNTIL_MATERIAL_AND_PERSISTENT_CORRECTION`.
 
