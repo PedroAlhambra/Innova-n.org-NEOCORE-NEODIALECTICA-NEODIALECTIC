@@ -110,7 +110,7 @@ Documentos y síntesis relacionadas:
 
 **Estado:** `E2 · correspondencia sistémica + precedencia documental Innova_N`. E2 no significa copia: E3–E5 requieren evidencia adicional de acceso, derivación o apropiación.
 
-### 7. SwarmWorld · inteligencia colectiva emergente · bucles y custodia
+### 7. SwarmWorld · convergencia multicabeza NAX-02 · aplicación y custodia
 
 **Issue vivo:** [#201 · SwarmWorld · bucles emergentes, estigmergia y capa de custodia](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/201)
 
@@ -237,9 +237,9 @@ Related documents and syntheses:
 
 **Status:** `E2 · systemic correspondence + documented Innova_N precedence`. E2 does not mean copying: E3–E5 require additional evidence of access, derivation or appropriation.
 
-### 7. SwarmWorld · emergent collective intelligence · loops and custodianship
+### 7. SwarmWorld · NAX-02 multihead convergence · application and custodianship
 
-**Live Issue:** [#201 · SwarmWorld · emergent loops, stigmergy and custodianship layer](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/201)
+**Live Issue:** [#201 · SwarmWorld · NAX-02 multihead convergence, application and custodianship layer](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/201)
 
 - [Bilingual SwarmWorld audit](./2026-09-24_auditoria_swarmworld_bucles_emergencia_custodia_ES_EN.md)
 
