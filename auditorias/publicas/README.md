@@ -121,12 +121,12 @@ La dependencia del marco respecto de Neo0™, la carga de creación y mantenimie
 
 **Estado:** síntesis provisional y reabrible. Se contrastan la crítica al uso de problemas abiertos como benchmark, la respuesta de los organizadores del Mathathon y el riesgo de control humano aparente por saturación. `RESOLVER ≠ COMPRENDER` y `HUMANO EN EL BUCLE ≠ CONTROL MATERIAL` permanecen como hipótesis arquitectónicas sometidas a evidencia.
 
-### 2.7 · SwarmWorld · bucles emergentes, estigmergia y custodia
+### 2.7 · SwarmWorld · convergencia NAX-02 multicabeza, aplicación y custodia
 
 - [Auditoría pública bilingüe](./2026-09-24_auditoria_swarmworld_bucles_emergencia_custodia_ES_EN.md)
 - [#201 · SwarmWorld · bucles emergentes, estigmergia y capa de custodia](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/201)
 
-**Estado:** síntesis provisional y reabrible. El paper documenta autoorganización multiagente sin planificador central de tareas, pero dentro de un contrato de acciones acotado y un simulador determinista con restricciones. El delta de auditoría distingue **control técnico** de **gobernanza de fines/custodia** y sigue el riesgo de transferencia desde simulación acotada hacia dominios de mayor impacto.
+**Estado:** síntesis provisional y reabrible. Se fija **precedencia documental pública de NAX-02 el 09-08-2026** frente a la aparición pública del preprint SwarmWorld el 26-08-2026, sin inferir copia o acceso. El caso se clasifica como **CONV-ND fuerte**, se incorpora como línea experimental directa para la multicabeza y se distingue control técnico de marco teleológico/custodia.
 
 ## 3 · Abrir una Auditoría Pública
 
@@ -227,12 +227,12 @@ The framework's dependency on Neo0™, the creation/maintenance burden and the f
 
 **Status:** provisional and reopenable synthesis. It contrasts criticism of open problems as benchmarks, the Mathathon organisers' response and the risk of apparent human control under review saturation. `SOLVING ≠ UNDERSTANDING` and `HUMAN IN THE LOOP ≠ MATERIAL CONTROL` remain architectural hypotheses open to evidence.
 
-### 2.7 · SwarmWorld · emergent loops, stigmergy and custodianship
+### 2.7 · SwarmWorld · NAX-02 multihead convergence, application and custodianship
 
 - [Bilingual public audit](./2026-09-24_auditoria_swarmworld_bucles_emergencia_custodia_ES_EN.md)
-- [#201 · SwarmWorld · emergent loops, stigmergy and custodianship layer](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/201)
+- [#201 · SwarmWorld · NAX-02 multihead convergence, application and custodianship layer](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/201)
 
-**Status:** provisional and reopenable synthesis. The paper documents multi-agent self-organisation without a central task planner, but within a bounded action contract and deterministic simulator constraints. The audit delta distinguishes **technical control** from **governance of ends/custodianship** and tracks transfer risk from bounded simulation toward higher-impact domains.
+**Status:** provisional and reopenable synthesis. **NAX-02 public documentary precedence is fixed at 9 Aug 2026**, before SwarmWorld's public preprint appearance on 26 Aug 2026, without inferring copying or access. The case is classified as **strong CONV-ND**, incorporated as a direct experimental line for multihead architecture, and distinguishes technical control from teleological framework/custodianship.
 
 ## 3 · Opening a Public Audit
 
