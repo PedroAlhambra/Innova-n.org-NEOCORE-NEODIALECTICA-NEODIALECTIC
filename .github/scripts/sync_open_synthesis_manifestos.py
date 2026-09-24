@@ -13,8 +13,11 @@ leonidas = root / 'propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APOR
 entry_register = root / 'propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md'
 follow = root / 'proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md'
 complete_synth_index = root / 'propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md'
+infinity = root / 'manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md'
+infinity_issue_num = '106'
+infinity_issue_url = f'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/{infinity_issue_num}'
 
-for p in (index, protocol, synth_index, complete_synth_index, audits, leonidas, entry_register, follow):
+for p in (index, protocol, synth_index, complete_synth_index, audits, leonidas, entry_register, follow, infinity):
     if not p.exists():
         raise SystemExit(f'Missing canonical target: {p.relative_to(root)}')
 
@@ -57,12 +60,15 @@ def replace_block(text,start,end,block):
 def latest_block(f):
     return f'''{LATEST_START}
 
-> ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
+> ## 🔴 ÚLTIMO MANIFIESTO FINITO ABIERTO A SÍNTESIS / LATEST FINITE MANIFESTO OPEN FOR SYNTHESIS
 >
 > **{roman} · {title}**
 >
 > **[Leer {roman} / Read {roman}]({rel(f,LATEST)}) · [Síntesis Abierta {roman} · #{issue_num} / Open Synthesis {roman} · #{issue_num}]({issue_url})**  
-> [Seguir marco / Follow framework]({rel(f,follow)}) · [Registrar entrada / Register entry]({rel(f,entry_register)}) · [Cómo aportar / How to contribute]({rel(f,protocol)}) · [Leónidas™]({rel(f,leonidas)}) · [Auditorías públicas / Public audits]({rel(f,audits)}) · [{count} manifiestos / manifestos · I–{roman}]({rel(f,index)})
+>
+> **Puerta permanente / Permanent door:** [Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal]({rel(f,infinity)}) · [Síntesis ∞ · #{infinity_issue_num}]({infinity_issue_url})  
+>
+> [Seguir marco / Follow framework]({rel(f,follow)}) · [Registrar entrada / Register entry]({rel(f,entry_register)}) · [Cómo aportar / How to contribute]({rel(f,protocol)}) · [Leónidas™]({rel(f,leonidas)}) · [Auditorías públicas / Public audits]({rel(f,audits)}) · [{count} manifiestos finitos + ∞ / {count} finite manifestos + ∞ · I–{roman}]({rel(f,index)})
 
 {LATEST_END}'''
 
@@ -72,7 +78,7 @@ def compact_network_block(f):
 
 ## Manifiestos / Manifestos
 
-**I–{roman} · {count} manifiestos bilingües · {waves} oleadas / {count} bilingual manifestos · {waves} waves.**  
+**I–{roman} · {count} manifiestos finitos bilingües + Manifiesto ∞ / {count} finite bilingual manifestos + Manifesto ∞.**  
 Los manifiestos son pilares públicos del marco, no equivalentes al marco completo. / The manifestos are public pillars of the framework, not equivalents of the complete framework.
 
 **[Abrir índice canónico y navegable / Open canonical navigable index →]({rel(f,index)})**
@@ -86,7 +92,8 @@ def invite_block(f):
 
 Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. / You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta.
 
-**Última síntesis / Latest synthesis:** [{roman} · {title}]({rel(f,LATEST)}) · [Issue #{issue_num}]({issue_url})  
+**Última síntesis finita / Latest finite synthesis:** [{roman} · {title}]({rel(f,LATEST)}) · [Issue #{issue_num}]({issue_url})  
+**Puerta permanente / Permanent door:** [Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal]({rel(f,infinity)}) · [Issue #{infinity_issue_num}]({infinity_issue_url})  
 **Seguimiento vivo / Living follow-up:** [seguir el marco / follow the framework]({rel(f,follow)}) · [registro de entrada / entry register]({rel(f,entry_register)})  
 **Auditorías / Audits:** [LIII · Leónidas™]({rel(f,links[52][2]) if len(links)>52 else rel(f,leonidas)}) · [protocolo / protocol]({rel(f,leonidas)})  
 **Cómo aportar / How to contribute:** [protocolo general / general protocol]({rel(f,protocol)}) · [portal de auditorías / audit portal]({rel(f,audits)}) · [índice / index]({rel(f,synth_index)})
@@ -109,7 +116,7 @@ def nav_block(i,f):
 {NAV_END}'''
 
 def current_latest_quote(f):
-    return f'''> ## 🔴 ÚLTIMO MANIFIESTO ABIERTO A SÍNTESIS / LATEST MANIFESTO OPEN FOR SYNTHESIS
+    return f'''> ## 🔴 ÚLTIMO MANIFIESTO FINITO ABIERTO A SÍNTESIS / LATEST FINITE MANIFESTO OPEN FOR SYNTHESIS
 >
 > **{roman} · {title}**
 >
