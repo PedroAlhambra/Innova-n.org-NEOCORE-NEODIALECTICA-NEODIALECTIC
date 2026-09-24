@@ -389,9 +389,11 @@ This node does not distribute:
 
 <!-- KDP_51071689_TRACE_START -->
 
-## Trazabilidad KDP 51071689 · estado actual / KDP 51071689 traceability · current state
+## Trazabilidad histórica KDP 51071689 · estado documentado 2026-08-08 / Historical KDP 51071689 traceability · documented state 2026-08-08
 
-**Estado 2026-08-08 / Status 2026-08-08:** KDP confirmó que mantener el estado «cambios sin publicar» sin tocar no afecta a la disponibilidad actual; la causa raíz, el campo pendiente y la relación con correcciones internas previas continúan sin explicación técnica. El seguimiento fue solicitado de nuevo por el autor. / KDP confirmed that leaving the “unpublished changes” state untouched does not affect current availability; the root cause, pending field and relation to earlier internal corrections remain technically unexplained. Continued follow-up was requested by the author.
+Este bloque conserva como **traza histórica** el estado documentado el 8 de agosto de 2026; no debe interpretarse como fotografía operativa vigente. El inventario comercial público actual se mantiene en [EDICIONES.md](./EDICIONES.md) y [LINKS.json](./LINKS.json). / This block preserves the state documented on 8 August 2026 as a **historical trace**; it should not be read as the current operational snapshot. The current public commercial inventory is maintained in [EDICIONES.md](./EDICIONES.md) and [LINKS.json](./LINKS.json).
+
+**Estado documentado 2026-08-08 / Documented status 2026-08-08:** KDP confirmó que mantener el estado «cambios sin publicar» sin tocar no afectaba a la disponibilidad entonces observada; la causa raíz, el campo pendiente y la relación con correcciones internas previas continuaban sin explicación técnica. El seguimiento fue solicitado de nuevo por el autor. / KDP confirmed that leaving the “unpublished changes” state untouched did not affect the availability observed at that time; the root cause, pending field and relation to earlier internal corrections remained technically unexplained. Continued follow-up was requested by the author.
 
 - [Auditoría maestra / Master audit](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 - [Reapertura · 2026-08-07 / Reopening · 2026-08-07](../../auditorias/publicas/2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md)
