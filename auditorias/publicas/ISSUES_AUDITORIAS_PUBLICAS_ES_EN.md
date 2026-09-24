@@ -110,6 +110,16 @@ Documentos y síntesis relacionadas:
 
 **Estado:** `E2 · correspondencia sistémica + precedencia documental Innova_N`. E2 no significa copia: E3–E5 requieren evidencia adicional de acceso, derivación o apropiación.
 
+### 7. SwarmWorld · inteligencia colectiva emergente · bucles y custodia
+
+**Issue vivo:** [#201 · SwarmWorld · bucles emergentes, estigmergia y capa de custodia](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/201)
+
+- [Auditoría bilingüe SwarmWorld](./2026-09-24_auditoria_swarmworld_bucles_emergencia_custodia_ES_EN.md)
+
+**Estado:** `PRIMARY_SOURCES_VERIFIED / PREPRINT_V1 / OPEN_CODE_AND_DATA / TECHNICAL_CONSTRAINTS_PRESENT / NORMATIVE_CUSTODIANSHIP_LAYER_NOT_IDENTIFIED_IN_REVIEWED_PUBLIC_DOCS / TRANSFER_RISK_OPEN`.
+
+La auditoría no afirma que los autores hayan liberado una «superinteligencia» ni que SwarmWorld carezca de controles. Distingue la autoorganización sin planificador central de los límites técnicos del simulador y pregunta qué capa externa de custodia debe acompañar una arquitectura transferible a dominios de mayor impacto.
+
 ## Abrir una auditoría nueva
 
 No es necesario que el problema haya sido detectado previamente por Innova_N.
@@ -226,6 +236,16 @@ Related documents and syntheses:
 - [Bilingual HAA audit](./2026-09-23_auditoria_haa_convergencia_educativa_apropiacion_fragmentaria_ES_EN.md)
 
 **Status:** `E2 · systemic correspondence + documented Innova_N precedence`. E2 does not mean copying: E3–E5 require additional evidence of access, derivation or appropriation.
+
+### 7. SwarmWorld · emergent collective intelligence · loops and custodianship
+
+**Live Issue:** [#201 · SwarmWorld · emergent loops, stigmergy and custodianship layer](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/201)
+
+- [Bilingual SwarmWorld audit](./2026-09-24_auditoria_swarmworld_bucles_emergencia_custodia_ES_EN.md)
+
+**Status:** `PRIMARY_SOURCES_VERIFIED / PREPRINT_V1 / OPEN_CODE_AND_DATA / TECHNICAL_CONSTRAINTS_PRESENT / NORMATIVE_CUSTODIANSHIP_LAYER_NOT_IDENTIFIED_IN_REVIEWED_PUBLIC_DOCS / TRANSFER_RISK_OPEN`.
+
+The audit does not claim that the authors released a “superintelligence” or that SwarmWorld lacks controls. It separates self-organisation without a central planner from the simulator's technical constraints and asks which external custodianship layer should accompany an architecture transferable to higher-impact domains.
 
 ## Open a new audit
 
