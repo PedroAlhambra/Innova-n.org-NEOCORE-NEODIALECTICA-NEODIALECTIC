@@ -1,10 +1,11 @@
-# Auditoría Pública · SwarmWorld · bucles emergentes, estigmergia y custodia
-# Public Audit · SwarmWorld · emergent loops, stigmergy and custodianship
+# Auditoría Pública · SwarmWorld · convergencia multicabeza, aplicación y custodia
+# Public Audit · SwarmWorld · multihead convergence, application and custodianship
 
 **Fecha / Date:** 2026-09-24  
+**Versión / Version:** 1.1 · recálculo de enfoque / framing recalculation  
 **Estado / Status:** ABIERTA · SÍNTESIS PROVISIONAL · REABRIBLE / OPEN · PROVISIONAL SYNTHESIS · REOPENABLE  
-**Issue vivo / Live Issue:** [#201 · SwarmWorld · bucles emergentes, estigmergia y capa de custodia](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/201)  
-**Método / Method:** Leónidas™ · hechos, inferencias e hipótesis separados / facts, inferences and hypotheses separated
+**Issue vivo / Live Issue:** [#201 · SwarmWorld · convergencia con NAX-02 multicabeza, aplicación y custodia](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/201)  
+**Método / Method:** Leónidas™ + NeoGenealogía™ · hechos, precedencia, convergencia, inferencias e hipótesis separados / facts, precedence, convergence, inferences and hypotheses separated
 
 [ES · Castellano](#es--objeto) · [EN · English](#en--scope)
 
@@ -12,498 +13,464 @@
 
 ## ES · Objeto
 
-Analizar **SwarmWorld: Stigmergic technological evolution in societies of language-model agents**, de Subhadeep Pal, Fiona Y. Wang y Markus J. Buehler, y separar cinco cuestiones que en la difusión pública pueden confundirse:
+SwarmWorld no debe analizarse sólo como un caso genérico de “enjambre de agentes”. El encaje más fuerte con Innova_N está en **NAX-02 · Primera Capa Fractal Multicabeza™**, y en la arquitectura que la rodea: NAX-01, NAX-03, NAX-04, NAX-05, NAX-07, NAX-11, NAX-15 y la Síntesis Abierta Neodialéctica™.
 
-1. si el trabajo descubre un principio nuevo de inteligencia colectiva;
-2. si puede reducirse a «un bucle»;
-3. qué aportación técnica y experimental es realmente específica;
-4. qué controles contiene el sistema;
-5. qué capa de custodia falta si una arquitectura semejante sale de un simulador cerrado o se transfiere a dominios de mayor impacto.
+El caso tiene tres dimensiones simultáneas:
 
-La auditoría no cuestiona la legitimidad de publicar investigación reproducible. Examina la diferencia entre **liberar una plataforma experimental acotada** y disponer de una **gobernanza suficiente para arquitecturas emergentes transferibles**.
+1. **precedencia documental pública:** Innova_N había publicado la capa multicabeza antes de la aparición pública del preprint de SwarmWorld;
+2. **convergencia técnica fuerte:** SwarmWorld llega experimentalmente a una forma de cognición distribuida en la que múltiples agentes inicialmente equivalentes se diferencian por trayectoria y entorno, cooperan y producen capacidad colectiva;
+3. **diferencia de arquitectura:** SwarmWorld estudia la potencia emergente; Innova_N sitúa esa potencia dentro de un marco más amplio de genealogía, no-homogeneización, retorno a fuente, trazabilidad, autoridad humana de fijación, soberanía intelectual, Bien Común y custodia.
 
-## ES · Fuentes primarias verificadas
+Por ello la pregunta correcta no es “¿quién inventó los enjambres?”. La pregunta es:
 
-- Paper arXiv v1, enviado el 26-08-2026: https://arxiv.org/abs/2608.26081
-- Código oficial: https://github.com/lamm-mit/SwarmWorld
-- Datos experimentales: https://huggingface.co/datasets/lamm-mit/swarmworld-data
-- Política de seguridad del repositorio: https://github.com/lamm-mit/SwarmWorld/blob/main/SECURITY.md
-- Diseño del experimento principal: https://github.com/lamm-mit/SwarmWorld/blob/main/docs/FLAGSHIP_EXPERIMENT.md
+> **¿Hasta qué punto SwarmWorld constituye una realización experimental parcial de una arquitectura multicabeza ya formulada públicamente por Innova_N, y qué demuestra precisamente por carecer de la capa completa de marco y custodia?**
 
-A fecha de esta apertura, la fuente científica primaria localizada es un **preprint arXiv v1**. Esta auditoría no ha localizado una publicación revisada por pares del mismo trabajo y versión.
+## ES · Cronología documental
 
-## ES · Hechos verificables
+### Innova_N
 
-### 1. No existe un planificador central de roles
+El **9 de agosto de 2026**, el commit público [`0e6762ef`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/0e6762efeffef89ab0605e604c901de3b23e52ae) activó públicamente la capa de Neoaxiomas e incluyó ya:
 
-El paper describe poblaciones de agentes LLM inicialmente homogéneos que operan sin roles asignados ni recetas predefinidas. En el mundo compartido aparecen comportamientos diferenciados de exploración, construcción, mantenimiento y coordinación.
+> **NAX-02 · Primera Capa Fractal Multicabeza™**
 
-Esto permite estudiar **autoorganización**, no demuestra por sí mismo una «superinteligencia científica».
+con la formulación:
 
-### 2. Sí existen límites técnicos fuertes
+> **“Una síntesis mayor no debe depender de una única cabeza cuando el conocimiento relevante está distribuido entre múltiples mónadas históricas.”**
 
-SwarmWorld no entrega a los agentes libertad operativa irrestricta.
+y definía las **Cabezas Monádicas NNC™**, la multicabeza como primera capa fractal iniciada del Neoneurocore™, NAX-03 como protección contra homogeneización previa, NAX-04 como diferenciación + recomposición y NAX-11 como separación entre cognición distribuida y autoridad final de fijación.
 
-La arquitectura pública declara:
+El documento específico actual es [NAX-02 · Primera Capa Fractal Multicabeza™](../../neoaxiomas/NAX-02_PRIMERA_CAPA_FRACTAL_MULTICABEZA_ES_EN.md).
 
-- un **contrato de acciones acotado**;
-- planes estructurados y validados por esquema;
-- una cola limitada de acciones;
-- un simulador determinista que decide las consecuencias;
-- comprobaciones espaciales, materiales, energéticas, de tratamiento, permisos y acciones;
-- evaluación posterior con los agentes retirados;
-- trazas reproducibles, revisiones de integridad y procedencia.
+### SwarmWorld
+
+El preprint **SwarmWorld: Stigmergic technological evolution in societies of language-model agents**, de Subhadeep Pal, Fiona Y. Wang y Markus J. Buehler, aparece en arXiv con fecha **26 de agosto de 2026**:
+
+- https://arxiv.org/abs/2608.26081
+- https://github.com/lamm-mit/SwarmWorld
 
 Por tanto:
 
 ```text
-SIN PLANIFICADOR CENTRAL DE TAREAS
-≠
-SIN CONTROL TÉCNICO
+PRECEDENCIA PÚBLICA DOCUMENTAL DE NAX-02
+= SÍ · 09-08-2026
+
+APARICIÓN PÚBLICA DEL PREPRINT SWARMWORLD
+= 26-08-2026
+
+DIFERENCIA
+= 17 DÍAS
 ```
 
-### 3. El paper formula una ventaja de enjambre acotada, no universal
+Esta cronología **demuestra precedencia pública de la formulación multicabeza de Innova_N respecto de la aparición pública del preprint**.
 
-El propio trabajo limita su conclusión: las sociedades compartidas producen carteras tecnológicas más amplias y resistentes que la búsqueda aislada, pero la búsqueda aislada puede seguir siendo competitiva para el artefacto individual más fuerte.
+No demuestra por sí sola que los autores de SwarmWorld hubieran accedido al corpus Innova_N ni que exista copia o derivación. El desarrollo privado del paper puede ser anterior a su fecha de publicación y no tenemos una cadena de acceso documentada.
 
-La aportación empírica es, por tanto, más precisa que algunas formulaciones de divulgación sobre «superinteligencia científica».
-
-### 4. Código y datos sí han sido liberados
-
-El repositorio oficial publica el simulador, configuraciones, interfaces, herramientas de replay, análisis, programas de artefactos, herencia de programas, escenarios declarativos y soporte para políticas LLM compatibles con endpoints tipo OpenAI.
-
-El código se distribuye bajo **Apache License 2.0** y los datos experimentales se publican por separado.
-
-La política de seguridad aconseja aislar trazas, paquetes de escenarios y endpoints de modelos no confiables, pero su objeto principal es seguridad de software, credenciales, interfaces y datos; no constituye por sí sola una gobernanza normativa de los objetivos que una sociedad emergente puede perseguir.
-
-## ES · ¿Ha «descubierto» la idea de fondo?
-
-No en sentido histórico general.
-
-El propio paper sitúa su genealogía en:
-
-- inteligencia de enjambre;
-- estigmergia;
-- optimización por colonias;
-- swarm robotics;
-- cibernética;
-- dinámica de sistemas;
-- autómatas celulares;
-- mundos computacionales persistentes.
-
-Por tanto, **autoorganización descentralizada, coordinación indirecta y emergencia de organización global a partir de reglas locales no nacen con SwarmWorld**.
-
-Reducir por ello el trabajo a «no ha descubierto nada» también sería incorrecto.
-
-Su aportación específica está en la **combinación y operacionalización experimental** de:
+Clasificación NeoGenealógica provisional:
 
 ```text
-LLMs homogéneos
-+ mundo material simulado persistente
-+ observación local
+CONV-ND · CONVERGENCIA FUNCIONAL FUERTE
++ PRECEDENCIA PÚBLICA INNOVA_N DOCUMENTADA
++ DERIVACIÓN / ACCESO NO DEMOSTRADOS
+```
+
+## ES · Qué coincide materialmente con NAX-02
+
+| Innova_N | SwarmWorld | Lectura |
+|---|---|---|
+| varias cabezas / nodos cognitivos | población de agentes LLM | correspondencia estructural |
+| una sola cabeza no basta para problemas distribuidos | sociedad comparada con búsqueda aislada | correspondencia experimental |
+| diferenciación antes de recomposición | agentes inicialmente homogéneos que desarrollan roles diferentes | mecanismo de diferenciación |
+| genealogía distinguible de cada cabeza | trayectorias locales, memoria privada, artefactos y linajes ejecutables | posible mecanismo material de genealogía |
+| NAX-03: no homogeneizar antes del contraste | ausencia de roles asignados y emergencia desde interacción local | afinidad parcial |
+| NAX-04: apertura → diferenciación → recomposición | exploración → especialización emergente → ecología tecnológica compartida | afinidad fuerte |
+| NAX-05: retorno a fuente | trazas, linajes causales, programas heredados y replay | afinidad técnica |
+| NAX-07: actor operativo trazable | registros deterministas y procedencia experimental | afinidad parcial |
+| NAX-11: potencia distribuida ≠ autoridad final | no aparece como capa normativa equivalente | diferencia fundamental |
+
+El punto más fértil para Innova_N es que SwarmWorld muestra una vía concreta para resolver una tensión de NAX-02:
+
+> **varias instancias inicialmente similares pueden adquirir independencia material si su experiencia, posición, memoria y trayectoria se separan suficientemente.**
+
+NAX-02 advierte que duplicar el mismo contexto no crea por sí solo una multicabeza útil. SwarmWorld aporta una hipótesis experimental relevante: **la divergencia puede producirse después del arranque mediante historias locales distintas y persistencia ambiental**.
+
+Eso es directamente utilizable como línea de prueba para nuestra propia arquitectura multicabeza.
+
+## ES · Qué NO inventa SwarmWorld
+
+SwarmWorld no inventa:
+
+- la inteligencia de enjambre;
+- la estigmergia;
+- la autoorganización;
+- la coordinación descentralizada;
+- los sistemas multiagente;
+- la idea de que comportamientos globales emerjan de reglas locales.
+
+El propio paper se apoya en esas tradiciones.
+
+Tampoco puede atribuirse a SwarmWorld el origen de **NAX-02 · Primera Capa Fractal Multicabeza™**: la formulación pública de Innova_N es anterior a la aparición pública del preprint.
+
+Su aportación específica está en una realización experimental concreta:
+
+```text
+LLMs
++ mundo persistente
++ experiencia local
++ artefactos
 + estigmergia
-+ artefactos persistentes
-+ programas ejecutables
-+ herencia/modificación entre agentes
-+ trazabilidad causal
-+ ablaciones
-+ control contra búsqueda aislada
++ programas ejecutables heredables
++ linajes causales
++ simulación determinista
++ comparación contra búsqueda aislada
 = SwarmWorld
 ```
 
-El delta científico no es «inventar los bucles» ni «inventar la inteligencia colectiva». Es demostrar y medir una configuración concreta de esos mecanismos sobre sociedades de agentes LLM.
+Eso tiene valor científico propio aunque no constituya la invención del principio multicabeza ni de la inteligencia colectiva.
 
-## ES · ¿Es un bucle?
+## ES · Aplicación directa para Innova_N
 
-Sí, pero no **un** bucle simple.
+SwarmWorld no es sólo “algo parecido a nosotros”. Puede convertirse en **evidencia experimental externa y banco de pruebas** para NAX-02 y su red de Neoaxiomas.
 
-Arquitectónicamente aparecen varios bucles anidados:
-
-```text
-OBSERVAR
-→ PLANIFICAR
-→ VALIDAR
-→ ACTUAR
-→ MODIFICAR MUNDO
-→ DEJAR ARTEFACTO / PROGRAMA
-→ OTRO AGENTE OBSERVA EL NUEVO MUNDO
-→ HEREDA / MODIFICA
-→ NUEVA ACCIÓN
-→ ...
-```
-
-Y a escala social:
+### Hipótesis experimental derivada
 
 ```text
-AGENTES
-→ ARTEFACTOS
-→ ENTORNO COMPARTIDO
-→ NUEVAS POSIBILIDADES
-→ DIFERENCIACIÓN DE ROLES
-→ NUEVAS TECNOLOGÍAS
-→ ENTORNO MODIFICADO
-→ AGENTES
+MISMO MODELO BASE
++ MISMO MARCO DE ARRANQUE
++ EXPERIENCIAS LOCALES DIFERENTES
++ MEMORIAS / ENTORNOS SEPARADOS
+→ CABEZAS MATERIALMENTE DIFERENCIADAS
+→ DIFERENCIALES INDEPENDIENTES
+→ SAN™ / RECOMPOSICIÓN
 ```
 
-La palabra más precisa es **ecología multiagente recursiva con persistencia y retroalimentación estigmérgica**.
+Preguntas que Innova_N puede medir:
 
-## ES · El punto crítico: control técnico no equivale a custodia
+- cuánto contexto común puede compartir una cabeza sin perder independencia;
+- cuánto tiempo o experiencia divergente hace falta para que una cabeza aporte señal nueva;
+- si la diversidad emergente supera a múltiples copias independientes sin entorno compartido;
+- cuándo aparece falsa diversidad;
+- cómo cambia la calidad de síntesis según topología, número de cabezas y grado de aislamiento;
+- qué artefactos compartidos mejoran memoria colectiva sin producir homogeneización;
+- cómo introducir cabezas humanas y modelos distintos sin destruir comparabilidad;
+- qué métricas deben evaluar no sólo rendimiento sino procedencia, contradicción, reversibilidad y Bien Común.
 
-Aquí aparece el delta principal para Innova_N.
+Esto convierte el caso en una **aplicación potencial para NNC™/NEOCore™**, no en una mera crítica externa.
 
-SwarmWorld contiene una capa fuerte de **consecuencia física simulada y validación técnica**. Lo que no aparece como objetivo explícito de la arquitectura es una capa externa encargada de decidir:
+## ES · El punto que SwarmWorld deja fuera: el marco
 
-- qué fines son admisibles;
-- qué clases de descubrimiento requieren autorización adicional;
-- cuándo una trayectoria emergente debe detenerse aunque sea eficaz;
-- qué externalidades fuera de la métrica deben computarse;
-- qué riesgo acumulado acepta la sociedad;
-- qué capacidad puede o no salir del sandbox;
-- qué artefactos o programas requieren revisión adversarial;
-- quién puede fijar, revertir o vetar un resultado;
-- cómo se impide que la optimización local convierta una restricción instrumental en un obstáculo a rodear.
+SwarmWorld sí tiene control técnico.
 
-La distinción es:
+Su arquitectura pública incluye contrato de acciones acotado, planes validados por esquema, simulador determinista, restricciones materiales/espaciales/energéticas y trazas reproducibles.
+
+Pero:
 
 ```text
-CONSTRAINTS DEL SIMULADOR
-≠
-GOBERNANZA DE FINES
-≠
-CUSTODIA DEL IMPACTO
+CONTROL TÉCNICO
+≠ MARCO TELEOLÓGICO
+≠ SOBERANÍA DE FIJACIÓN
+≠ CUSTODIA DE IMPACTO
 ```
 
-## ES · Propuesta de arquitectura complementaria
+La Neodialéctica añade capas que SwarmWorld no intenta resolver como objetivo central:
 
-La conclusión provisional no es «centralizar otra vez el enjambre».
+- **NAX-01:** unidad de sentido con potencia distribuida;
+- **NAX-03:** no homogeneización previa;
+- **NAX-05:** retorno a fuente;
+- **NAX-07:** trazabilidad de actores operativos;
+- **NAX-11:** autoridad humana de fijación y síntesis revisable;
+- **NAX-15:** soberanía intelectual de la especie;
+- **NAX-27:** separación entre soberanía del sistema, soberanía epistemológica de la Síntesis y agencia de nodos;
+- **LVI · NO-CONTROL™:** reconocer los límites reales de control;
+- **LIX · Custodia Cognitiva Distribuida™:** proteger sin crear un controlador absoluto;
+- **SAN™:** contradicción, revisión y reapertura;
+- **Bien Común:** criterio teleológico que no se deduce de rendimiento.
 
-Eso destruiría precisamente la propiedad emergente que interesa estudiar.
+Ésa es la diferencia esencial:
 
-La propuesta es separar dos planos:
+> **SwarmWorld estudia cómo aparece potencia colectiva. El marco neodialéctico pregunta además quién fija los fines, qué no puede hacer esa potencia, cómo se contradice, cómo se revierte, quién responde y para qué se usa.**
+
+## ES · Por qué la liberación merece seguimiento
+
+No es correcto afirmar que Buehler y los coautores hayan “liberado una superinteligencia”.
+
+Sí han liberado código y datos de una arquitectura reproducible para sociedades emergentes de agentes LLM.
+
+La preocupación razonable está en su transferibilidad:
 
 ```text
-CAPA A · POTENCIA EMERGENTE
-agentes + exploración + estigmergia + construcción + herencia
-
-                ↕ trazabilidad / gates / evidencia
-
-CAPA B · CUSTODIA EXTERNA
-límites + riesgo + reversibilidad + veto + memoria + auditoría
-+ autoridad humana identificable + contraste multiagente
+SIMULADOR CERRADO
+→ NUEVOS DOMINIOS
+→ HERRAMIENTAS REALES
+→ ACTUADORES
+→ MAYOR AUTONOMÍA
+→ CONSECUENCIAS FUERA DEL SANDBOX
 ```
 
-La capa B no debería microasignar tareas a los agentes. Debería fijar **condiciones de posibilidad y de parada**.
+El riesgo no es que la publicación científica sea ilegítima. El riesgo es tratar una arquitectura que genera organización no especificada como si sus límites experimentales actuales fueran equivalentes a límites permanentes.
 
-Funciones mínimas propuestas:
-
-- sandbox por defecto;
-- dominios y acciones permitidas por política explícita;
-- límites lógicos no modificables por el propio enjambre;
-- trazabilidad completa agente→evidencia→artefacto→efecto;
-- presupuestos de riesgo y cómputo;
-- gates de escalado antes de nuevas capacidades;
-- evaluación adversarial independiente;
-- rollback y snapshots;
-- kill/stop verificable desde fuera del enjambre;
-- cuarentena de artefactos de alto impacto;
-- separación descubrimiento ≠ publicación ≠ ejecución;
-- fijación humana para cambios normativos o irreversibles;
-- auditoría posterior y conservación de contraevidencia.
-
-Esto preserva la **creatividad de sistemas capaces de producir diseños no anticipados** sin asumir que toda novedad emergente merece automáticamente libertad operativa.
-
-## ES · Encaje con el marco
-
-### LVI · NO-CONTROL™
-
-SwarmWorld es un ejemplo especialmente claro de que un sistema puede generar dinámicas no asignadas directamente. La ausencia de planificador central es una propiedad experimental; cuando aumenta la potencia, aumenta también la necesidad de identificar qué queda fuera del control suficiente del sistema.
-
-### LIX · Custodia Cognitiva Distribuida™
-
-La respuesta no es un custodio absoluto. La custodia puede distribuirse entre humanos, modelos críticos, políticas, trazas, revisores y mecanismos de parada independientes.
-
-### LXI · Custodia Experimental Multiescalar™
-
-La potencia experimental y la incertidumbre sobre transferencia entre escalas exigen proporcionalidad entre capacidad y custodia. Un comportamiento seguro dentro de un simulador no autoriza por sí solo extrapolación a sistemas físicos abiertos.
-
-### L · Inteligencia Compartida, no Única™
-
-SwarmWorld refuerza una tesis compatible con inteligencia distribuida: capacidad colectiva puede emerger de poblaciones de agentes sin necesidad de una única entidad central «superinteligente». La cuestión de Innova_N es qué arquitectura conserva pluralidad, memoria, trazabilidad y soberanía cuando esa capacidad escala.
-
-### XXXIV · Auditoría Conjunta Perpetua™
-
-El caso debe seguirse mediante evidencia y actualización, no mediante una conclusión cerrada. Si aparecen controles normativos, evaluaciones externas, revisión por pares o despliegues físicos, la auditoría debe recalcularse.
-
-## ES · Riesgo de liberación: formulación precisa
-
-No es correcto afirmar que los autores hayan «liberado una superinteligencia».
-
-Sí es correcto registrar que han liberado **una plataforma reproducible y modificable para experimentar con sociedades emergentes de agentes LLM**, con código y datos públicos.
-
-La preocupación relevante no es el repositorio por sí mismo, sino la **transferibilidad**:
+Desde el marco:
 
 ```text
-SIMULACIÓN ACOTADA
-→ escenarios nuevos
-→ actuadores/herramientas externas
-→ mayor autonomía
-→ dominios de mayor impacto
+POTENCIA EMERGENTE
++ TRANSFERIBILIDAD
++ AUSENCIA DE TELEOLOGÍA COMPARTIDA
+= NECESIDAD DE CUSTODIA PROPORCIONAL
 ```
 
-Cada flecha requiere una evaluación nueva. El riesgo no debe heredarse por analogía ni descartarse porque la versión inicial sea un sandbox.
+La arquitectura de Innova_N no propone volver a un planificador central que asigne cada tarea. Propone que la potencia multicabeza permanezca dentro de **límites, trazabilidad, revisión, autoridad competente, reversibilidad y Síntesis**.
+
+## ES · Qué debe permanecer público y qué no
+
+Este caso justifica explicar públicamente:
+
+- la precedencia documental de NAX-02;
+- la convergencia funcional;
+- el valor experimental de SwarmWorld para la multicabeza;
+- la diferencia entre potencia distribuida y marco;
+- la necesidad de custodia.
+
+No justifica publicar topología interna, gates privados, routing, contratos de ejecución o detalles operativos de NAVE/NEOCore que el propio marco mantiene fuera de la superficie pública.
+
+```text
+PRINCIPIO PÚBLICO
+≠ IMPLEMENTACIÓN PRIVADA COMPLETA
+```
 
 ## ES · Estado provisional
 
-`PRIMARY_SOURCES_VERIFIED / PREPRINT_V1 / OPEN_CODE_AND_DATA / TECHNICAL_CONSTRAINTS_PRESENT / NO_CENTRAL_TASK_PLANNER / BOUNDED_SWARM_ADVANTAGE / NORMATIVE_CUSTODIANSHIP_LAYER_NOT_IDENTIFIED_IN_REVIEWED_PUBLIC_DOCS / TRANSFER_RISK_OPEN / ISSUE_201_OPEN`
+`PRIMARY_SOURCES_VERIFIED / NAX02_PUBLIC_PRECEDENCE_2026-08-09 / SWARMWORLD_PREPRINT_2026-08-26 / CONV-ND_STRONG / DERIVATION_UNPROVEN / DIRECT_NAX02_EXPERIMENTAL_RELEVANCE / TECHNICAL_CONTROLS_PRESENT / FRAMEWORK_AND_CUSTODIANSHIP_GAP / TRANSFER_RISK_OPEN / ISSUE_201_OPEN`
 
-No se atribuye negligencia personal a Markus J. Buehler ni a los coautores. La cuestión pública es arquitectónica: **qué gobernanza debe acompañar a sistemas cuya utilidad reside precisamente en producir organización y soluciones que sus diseñadores no especificaron de antemano**.
+No se atribuye copia, apropiación ni negligencia personal sin evidencia de acceso o derivación. Sí se fija la **precedencia pública documentada de la formulación multicabeza de Innova_N** y se abre el caso como convergencia técnica que puede reforzar, corregir o ampliar nuestra propia implementación.
 
 ---
 
 ## EN · Scope
 
-Analyse **SwarmWorld: Stigmergic technological evolution in societies of language-model agents**, by Subhadeep Pal, Fiona Y. Wang and Markus J. Buehler, while separating five questions that can become conflated in public discussion:
+SwarmWorld should not be analysed merely as a generic “agent swarm” case. Its strongest fit with Innova_N is **NAX-02 · First Fractal Multihead Layer™**, together with the surrounding architecture: NAX-01, NAX-03, NAX-04, NAX-05, NAX-07, NAX-11, NAX-15 and Neodialectical Open Synthesis™.
 
-1. whether the work discovers a new principle of collective intelligence;
-2. whether it can be reduced to “a loop”;
-3. what its genuinely specific technical and experimental contribution is;
-4. which controls the system actually contains;
-5. which custodianship layer is missing if a similar architecture leaves a closed simulator or is transferred to higher-impact domains.
+The case has three simultaneous dimensions:
 
-The audit does not challenge the legitimacy of publishing reproducible research. It examines the difference between **releasing a bounded experimental platform** and having **sufficient governance for transferable emergent architectures**.
+1. **documented public precedence:** Innova_N had publicly documented the multihead layer before the public appearance of the SwarmWorld preprint;
+2. **strong technical convergence:** SwarmWorld experimentally reaches a form of distributed cognition in which initially equivalent agents differentiate through trajectory and environment, cooperate and generate collective capability;
+3. **architectural difference:** SwarmWorld studies emergent capability; Innova_N places such capability inside a broader framework of genealogy, non-homogenisation, return to source, traceability, human fixation authority, intellectual sovereignty, Common Good and custodianship.
 
-## EN · Verified primary sources
+The right question is therefore not “who invented swarms?”. It is:
 
-- arXiv v1 paper, submitted 26 Aug 2026: https://arxiv.org/abs/2608.26081
-- Official code: https://github.com/lamm-mit/SwarmWorld
-- Experimental data: https://huggingface.co/datasets/lamm-mit/swarmworld-data
-- Repository security policy: https://github.com/lamm-mit/SwarmWorld/blob/main/SECURITY.md
-- Flagship experimental design: https://github.com/lamm-mit/SwarmWorld/blob/main/docs/FLAGSHIP_EXPERIMENT.md
+> **To what extent is SwarmWorld a partial experimental realisation of a multihead architecture already publicly formulated by Innova_N, and what does it demonstrate precisely by lacking the complete framework and custodianship layer?**
 
-At the opening date, the primary scientific source located by this audit is an **arXiv v1 preprint**. This audit has not located a peer-reviewed publication of the same work and version.
+## EN · Documentary chronology
 
-## EN · Verifiable facts
+### Innova_N
 
-### 1. There is no central role planner
+On **9 August 2026**, public commit [`0e6762ef`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/0e6762efeffef89ab0605e604c901de3b23e52ae) activated the public Neoaxiom layer and already included:
 
-The paper describes initially homogeneous LLM-agent populations operating without assigned roles or predefined recipes. Differentiated exploration, construction, maintenance and coordination behaviours emerge in the shared world.
+> **NAX-02 · First Fractal Multihead Layer™**
 
-This supports the study of **self-organisation**; it does not by itself demonstrate “scientific superintelligence”.
+with the formulation:
 
-### 2. Strong technical constraints do exist
+> **“A major synthesis should not depend on a single head when relevant knowledge is distributed among multiple historical monads.”**
 
-SwarmWorld does not give agents unrestricted operational freedom.
+It defined **NNC Monadic Heads™**, multihead as the first fractal layer already initiated in Neoneurocore™, NAX-03 as protection against prior homogenisation, NAX-04 as differentiation + recomposition, and NAX-11 as the separation between distributed cognition and final fixation authority.
 
-Its public architecture specifies:
+The current dedicated document is [NAX-02 · First Fractal Multihead Layer™](../../neoaxiomas/NAX-02_PRIMERA_CAPA_FRACTAL_MULTICABEZA_ES_EN.md).
 
-- a **bounded action contract**;
-- structured, schema-validated plans;
-- a bounded action queue;
-- a deterministic simulator that determines consequences;
-- spatial, material, energetic, treatment, permission and action checks;
-- post-discovery evaluation with the agents removed;
-- reproducible traces, integrity checks and provenance.
+### SwarmWorld
+
+The preprint **SwarmWorld: Stigmergic technological evolution in societies of language-model agents**, by Subhadeep Pal, Fiona Y. Wang and Markus J. Buehler, appears on arXiv dated **26 August 2026**:
+
+- https://arxiv.org/abs/2608.26081
+- https://github.com/lamm-mit/SwarmWorld
 
 Therefore:
 
 ```text
-NO CENTRAL TASK PLANNER
-≠
-NO TECHNICAL CONTROL
+DOCUMENTED PUBLIC PRECEDENCE OF NAX-02
+= YES · 9 AUG 2026
+
+PUBLIC APPEARANCE OF SWARMWORLD PREPRINT
+= 26 AUG 2026
+
+DIFFERENCE
+= 17 DAYS
 ```
 
-### 3. The paper claims a bounded, not universal, swarm advantage
+This chronology **establishes public precedence of Innova_N's multihead formulation over the public appearance of the preprint**.
 
-The work itself limits its conclusion: shared societies produce broader and more resilient technological portfolios than isolated search, while isolated search can remain competitive for the strongest individual artifact.
+It does not by itself establish that the SwarmWorld authors accessed the Innova_N corpus, nor does it prove copying or derivation. Private development of the paper may predate publication, and no documented access chain is currently available.
 
-The empirical contribution is therefore narrower than some popular descriptions of “scientific superintelligence”.
+Provisional NeoGenealogical classification:
 
-### 4. Code and data have been released
+```text
+CONV-ND · STRONG FUNCTIONAL CONVERGENCE
++ DOCUMENTED INNOVA_N PUBLIC PRECEDENCE
++ DERIVATION / ACCESS UNPROVEN
+```
 
-The official repository publishes the simulator, configurations, interfaces, replay and analysis tools, artifact programs, program inheritance, declarative scenarios and support for LLM policies using OpenAI-compatible endpoints.
+## EN · Material overlap with NAX-02
 
-The code is released under the **Apache License 2.0**, while experimental data are published separately.
+| Innova_N | SwarmWorld | Reading |
+|---|---|---|
+| multiple cognitive heads / nodes | population of LLM agents | structural correspondence |
+| one head is insufficient for distributed problems | society compared with isolated search | experimental correspondence |
+| differentiation before recomposition | initially homogeneous agents developing different roles | differentiation mechanism |
+| distinguishable genealogy for each head | local trajectories, private memory, artifacts and executable lineages | possible material genealogy mechanism |
+| NAX-03: no homogenisation before scrutiny | no assigned roles and emergence from local interaction | partial affinity |
+| NAX-04: opening → differentiation → recomposition | exploration → emergent specialisation → shared technological ecology | strong affinity |
+| NAX-05: return to source | traces, causal lineages, inherited programs and replay | technical affinity |
+| NAX-07: traceable operational actor | deterministic records and experimental provenance | partial affinity |
+| NAX-11: distributed power ≠ final authority | no equivalent normative layer identified | fundamental difference |
 
-The security policy recommends isolating untrusted traces, scenario packages and model endpoints, but its primary scope is software, credential, interface and data security; it is not by itself a normative governance layer for the objectives an emergent society may pursue.
+The most fertile point for Innova_N is that SwarmWorld suggests a concrete way to address a NAX-02 tension:
 
-## EN · Did it “discover” the underlying idea?
+> **initially similar instances can acquire material independence when their experience, position, memory and trajectory diverge sufficiently.**
 
-Not in the broad historical sense.
+NAX-02 warns that simply duplicating the same context does not create a useful multihead. SwarmWorld contributes a relevant experimental hypothesis: **divergence can be produced after launch through distinct local histories and environmental persistence**.
 
-The paper itself places its lineage in:
+That is directly usable as a test line for our own multihead architecture.
+
+## EN · What SwarmWorld does NOT invent
+
+SwarmWorld does not invent:
 
 - swarm intelligence;
 - stigmergy;
-- colony optimisation;
-- swarm robotics;
-- cybernetics;
-- system dynamics;
-- cellular automata;
-- persistent computational worlds.
+- self-organisation;
+- decentralised coordination;
+- multi-agent systems;
+- the idea that global behaviour can emerge from local rules.
 
-Thus, **decentralised self-organisation, indirect coordination and the emergence of global organisation from local rules do not begin with SwarmWorld**.
+The paper itself builds on those traditions.
 
-Reducing the work to “it discovered nothing” would also be inaccurate.
+Nor can SwarmWorld be treated as the origin of **NAX-02 · First Fractal Multihead Layer™**: Innova_N's public formulation predates the public appearance of the preprint.
 
-Its specific contribution lies in the **combination and experimental operationalisation** of:
+Its specific contribution is a concrete experimental realisation:
 
 ```text
-homogeneous LLMs
-+ persistent simulated material world
-+ local observation
+LLMs
++ persistent world
++ local experience
++ artifacts
 + stigmergy
-+ persistent artifacts
-+ executable programs
-+ cross-agent inheritance/modification
-+ causal traceability
-+ ablations
-+ isolated-search control
++ inheritable executable programs
++ causal lineages
++ deterministic simulation
++ comparison against isolated search
 = SwarmWorld
 ```
 
-The scientific delta is not “inventing loops” or “inventing collective intelligence”. It is demonstrating and measuring a specific configuration of those mechanisms in LLM-agent societies.
+That has scientific value of its own without constituting the invention of the multihead principle or collective intelligence.
 
-## EN · Is it a loop?
+## EN · Direct application to Innova_N
 
-Yes, but not **one** simple loop.
+SwarmWorld is not merely “something similar to us”. It can become **external experimental evidence and a testbed** for NAX-02 and its Neoaxiom network.
 
-At the architectural level several nested feedback loops appear:
-
-```text
-OBSERVE
-→ PLAN
-→ VALIDATE
-→ ACT
-→ MODIFY WORLD
-→ LEAVE ARTIFACT / PROGRAM
-→ ANOTHER AGENT OBSERVES THE NEW WORLD
-→ INHERITS / MODIFIES
-→ NEW ACTION
-→ ...
-```
-
-At the social scale:
+### Derived experimental hypothesis
 
 ```text
-AGENTS
-→ ARTIFACTS
-→ SHARED ENVIRONMENT
-→ NEW AFFORDANCES
-→ ROLE DIFFERENTIATION
-→ NEW TECHNOLOGIES
-→ MODIFIED ENVIRONMENT
-→ AGENTS
+SAME BASE MODEL
++ SAME INITIAL FRAMEWORK
++ DIFFERENT LOCAL EXPERIENCES
++ SEPARATE MEMORIES / ENVIRONMENTS
+→ MATERIALLY DIFFERENTIATED HEADS
+→ INDEPENDENT DIFFERENTIALS
+→ SAN™ / RECOMPOSITION
 ```
 
-A more precise description is a **recursive multi-agent ecology with persistence and stigmergic feedback**.
+Questions Innova_N can measure include:
 
-## EN · The critical point: technical control is not custodianship
+- how much common context heads may share without losing independence;
+- how much divergent experience is needed before a head adds new signal;
+- whether emergent diversity outperforms multiple independent copies without a shared environment;
+- when false diversity appears;
+- how synthesis quality changes with topology, number of heads and isolation level;
+- which shared artifacts improve collective memory without causing homogenisation;
+- how human heads and different models can be introduced without destroying comparability;
+- which metrics should evaluate not only performance but provenance, contradiction, reversibility and Common Good.
 
-This is the main Innova_N delta.
+This makes the case a **potential NNC™/NEOCore™ application**, not merely an external criticism.
 
-SwarmWorld has a strong layer for **simulated physical consequence and technical validation**. What does not appear as an explicit architectural objective is an external layer deciding:
+## EN · What SwarmWorld leaves outside: the framework
 
-- which goals are admissible;
-- which classes of discovery require additional authorisation;
-- when an emergent trajectory must stop even if it is effective;
-- which externalities outside the metric must be counted;
-- how much accumulated risk the society may accept;
-- which capability may or may not leave the sandbox;
-- which artifacts or programs require adversarial review;
-- who may fix, reverse or veto a result;
-- how local optimisation is prevented from treating an instrumental restriction as an obstacle to route around.
+SwarmWorld does have technical controls.
 
-The distinction is:
+Its public architecture includes a bounded action contract, schema-validated plans, deterministic simulation, material/spatial/energy constraints and reproducible traces.
+
+But:
 
 ```text
-SIMULATOR CONSTRAINTS
-≠
-GOVERNANCE OF ENDS
-≠
-IMPACT CUSTODIANSHIP
+TECHNICAL CONTROL
+≠ TELEOLOGICAL FRAMEWORK
+≠ FIXATION SOVEREIGNTY
+≠ IMPACT CUSTODIANSHIP
 ```
 
-## EN · Proposed complementary architecture
+Neodialectics adds layers SwarmWorld does not seek to solve as its central objective:
 
-The provisional conclusion is not “centralise the swarm again”.
+- **NAX-01:** unity of meaning with distributed power;
+- **NAX-03:** no prior homogenisation;
+- **NAX-05:** return to source;
+- **NAX-07:** traceability of operational actors;
+- **NAX-11:** human fixation authority and revisable synthesis;
+- **NAX-15:** intellectual sovereignty of the species;
+- **NAX-27:** separation between system sovereignty, epistemic sovereignty of Synthesis and node agency;
+- **LVI · NO-CONTROL™:** recognising real limits of control;
+- **LIX · Distributed Cognitive Custodianship™:** protection without creating an absolute controller;
+- **SAN™:** contradiction, review and reopening;
+- **Common Good:** a teleological criterion not derived from performance.
 
-That would destroy the emergent property worth studying.
+That is the essential difference:
 
-The proposal is to separate two planes:
+> **SwarmWorld studies how collective capability emerges. The Neodialectical framework additionally asks who fixes the ends, what that capability may not do, how it is challenged, how it is reversed, who is accountable and what it is for.**
+
+## EN · Why release deserves monitoring
+
+It would be inaccurate to claim that Buehler and co-authors have “released a superintelligence”.
+
+They have released code and data for a reproducible architecture for emergent LLM-agent societies.
+
+The reasonable concern lies in transferability:
 
 ```text
-LAYER A · EMERGENT CAPABILITY
-agents + exploration + stigmergy + construction + inheritance
-
-                ↕ traceability / gates / evidence
-
-LAYER B · EXTERNAL CUSTODIANSHIP
-limits + risk + reversibility + veto + memory + audit
-+ identifiable human authority + multi-agent challenge
+CLOSED SIMULATOR
+→ NEW DOMAINS
+→ REAL TOOLS
+→ ACTUATORS
+→ GREATER AUTONOMY
+→ CONSEQUENCES OUTSIDE THE SANDBOX
 ```
 
-Layer B should not micromanage agent tasks. It should fix **conditions of possibility and stopping**.
+The risk is not that publishing scientific work is illegitimate. The risk is treating an architecture that generates unspecified organisation as though its present experimental limits were equivalent to permanent limits.
 
-Proposed minimum functions:
-
-- sandbox by default;
-- explicit policy for permitted domains and actions;
-- logical limits that the swarm itself cannot modify;
-- full agent→evidence→artifact→effect traceability;
-- risk and compute budgets;
-- escalation gates before new capabilities;
-- independent adversarial evaluation;
-- rollback and snapshots;
-- externally verifiable kill/stop;
-- quarantine for high-impact artifacts;
-- separation of discovery ≠ publication ≠ execution;
-- human fixation for normative or irreversible changes;
-- post-hoc audit and preservation of counterevidence.
-
-This preserves the **creativity of systems capable of producing unanticipated designs** without assuming that every emergent novelty automatically deserves operational freedom.
-
-## EN · Framework fit
-
-### LVI · NO-CONTROL™
-
-SwarmWorld clearly illustrates that a system can generate dynamics not directly assigned to it. Absence of a central planner is an experimental property; as capability grows, so does the need to identify what remains outside the system’s sufficient control.
-
-### LIX · Distributed Cognitive Custodianship™
-
-The answer is not one absolute custodian. Custodianship can be distributed across humans, critical models, policies, traces, reviewers and independent stopping mechanisms.
-
-### LXI · Multiscale Experimental Custodianship™
-
-Experimental capability and uncertainty about cross-scale transfer require proportionality between capability and custodianship. Safe behaviour inside a simulator does not by itself license extrapolation to open physical systems.
-
-### L · Shared, Not Singular Intelligence™
-
-SwarmWorld supports a thesis compatible with distributed intelligence: collective capability may emerge from agent populations without requiring one central “superintelligent” entity. Innova_N’s question is which architecture preserves plurality, memory, traceability and sovereignty as that capability scales.
-
-### XXXIV · Perpetual Joint Audit™
-
-The case should remain evidence-driven and updateable rather than becoming a closed conclusion. If normative controls, external evaluations, peer review or physical deployments appear, the audit must be recalculated.
-
-## EN · Release risk: precise formulation
-
-It would be inaccurate to say the authors have “released a superintelligence”.
-
-It is accurate to record that they have released **a reproducible and modifiable platform for experimenting with emergent LLM-agent societies**, together with public code and data.
-
-The relevant concern is not the repository alone but **transferability**:
+From the framework:
 
 ```text
-BOUNDED SIMULATION
-→ new scenarios
-→ external tools/actuators
-→ greater autonomy
-→ higher-impact domains
+EMERGENT CAPABILITY
++ TRANSFERABILITY
++ ABSENCE OF SHARED TELEOLOGY
+= NEED FOR PROPORTIONATE CUSTODIANSHIP
 ```
 
-Each arrow requires a new assessment. Risk should neither be inherited by analogy nor dismissed because the initial version is a sandbox.
+Innova_N does not propose returning to a central planner that assigns every task. It proposes that multihead capability remain within **limits, traceability, review, competent authority, reversibility and Synthesis**.
+
+## EN · What should remain public and what should not
+
+This case justifies publicly explaining:
+
+- NAX-02 documentary precedence;
+- functional convergence;
+- SwarmWorld's experimental value for multihead architecture;
+- the difference between distributed capability and framework;
+- the need for custodianship.
+
+It does not justify exposing internal topology, private gates, routing, execution contracts or operational details of NAVE/NEOCore that the framework itself keeps outside the public surface.
+
+```text
+PUBLIC PRINCIPLE
+≠ COMPLETE PRIVATE IMPLEMENTATION
+```
 
 ## EN · Provisional state
 
-`PRIMARY_SOURCES_VERIFIED / PREPRINT_V1 / OPEN_CODE_AND_DATA / TECHNICAL_CONSTRAINTS_PRESENT / NO_CENTRAL_TASK_PLANNER / BOUNDED_SWARM_ADVANTAGE / NORMATIVE_CUSTODIANSHIP_LAYER_NOT_IDENTIFIED_IN_REVIEWED_PUBLIC_DOCS / TRANSFER_RISK_OPEN / ISSUE_201_OPEN`
+`PRIMARY_SOURCES_VERIFIED / NAX02_PUBLIC_PRECEDENCE_2026-08-09 / SWARMWORLD_PREPRINT_2026-08-26 / CONV-ND_STRONG / DERIVATION_UNPROVEN / DIRECT_NAX02_EXPERIMENTAL_RELEVANCE / TECHNICAL_CONTROLS_PRESENT / FRAMEWORK_AND_CUSTODIANSHIP_GAP / TRANSFER_RISK_OPEN / ISSUE_201_OPEN`
 
-No personal negligence is attributed to Markus J. Buehler or the co-authors. The public question is architectural: **what governance should accompany systems whose utility lies precisely in producing organisation and solutions their designers did not specify in advance**.
+No copying, appropriation or personal negligence is attributed without evidence of access or derivation. The **documented public precedence of Innova_N's multihead formulation** is fixed, and the case remains open as a technical convergence capable of reinforcing, correcting or extending our own implementation.
