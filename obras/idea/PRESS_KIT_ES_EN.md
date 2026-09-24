@@ -5,8 +5,8 @@
 **Escritura / Written:** 1997–2002  
 **Presentación al Premio UPC / UPC Award submission:** 2002  
 **Primera edición pública / First public edition:** 2026  
-**Idiomas publicados / Published languages:** 12  
-**Última actualización / Last updated:** 2026-08-07
+**Idiomas publicados / Published languages:** 13  
+**Última actualización / Last updated:** 2026-09-24
 
 ---
 
@@ -46,13 +46,13 @@ El descubrimiento de un error en el SensFusión abre una grieta en la arquitectu
 
 Una versión con leves modificaciones fue presentada al **Premio UPC de Ciencia Ficción en 2002**. Su primera edición pública apareció en 2026 mediante una **restauración conservadora** que preserva el núcleo narrativo y conceptual de la obra original.
 
-Actualmente está publicada en doce idiomas, con ediciones digitales e impresas según disponibilidad.
+Actualmente está publicada en trece idiomas, con ediciones digitales e impresas según disponibilidad.
 
 ---
 
 ## Texto breve para difusión
 
-**IDEA**, novela de ciencia ficción escrita por Pedro Martínez Alhambra entre 1997 y 2002 y presentada con leves cambios al Premio UPC en 2002, ha sido publicada por primera vez en 2026 mediante una restauración conservadora. La obra está disponible actualmente en doce idiomas.
+**IDEA**, novela de ciencia ficción escrita por Pedro Martínez Alhambra entre 1997 y 2002 y presentada con leves cambios al Premio UPC en 2002, ha sido publicada por primera vez en 2026 mediante una restauración conservadora. La obra está disponible actualmente en trece idiomas.
 
 ---
 
@@ -104,38 +104,40 @@ IDEA fue escrita durante su juventud, antes de la creación formal de esos conce
 * **Presentación al Premio UPC:** 2002, con leves cambios
 * **Primera publicación pública:** 2026
 * **Método editorial:** restauración conservadora
-* **Idiomas publicados:** 12
+* **Idiomas publicados:** 13
 * **Formatos:** digitales e impresos según idioma y disponibilidad
 
 ---
 
-## Doce idiomas publicados y compra
+## Trece idiomas publicados y compra
 
-| Idioma | ASIN o enlace de referencia | Compra |
+IDEA cuenta actualmente con **13 idiomas publicados y 36 ediciones/formato con ASIN propio**. La matriz completa por formato se mantiene en [EDICIONES.md](./EDICIONES.md).
+
+| Idioma | Edición de referencia | Compra |
 | --- | ---: | --- |
-| Español | `B0HBRQGNQL` | [Amazon](https://www.amazon.es/dp/B0HBRQGNQL) |
-| Francés | `B0HBRNFMN7` | [Amazon](https://www.amazon.es/dp/B0HBRNFMN7) |
-| Alemán | `B0H4HYBTGL` | [Amazon](https://www.amazon.es/dp/B0H4HYBTGL) |
-| Portugués | `B0HBXD3P1D` | [Amazon](https://www.amazon.es/dp/B0HBXD3P1D) |
-| Inglés | `B0HBXLKC9W` | [Amazon](https://www.amazon.es/dp/B0HBXLKC9W) |
-| Italiano | `B0HBZ1VCXP` | [Amazon](https://www.amazon.es/dp/B0HBZ1VCXP) |
-| Neerlandés | `B0HBZHLHJJ` | [Amazon](https://www.amazon.es/dp/B0HBZHLHJJ) |
-| Sueco | `B0HC8N69BT` | [Amazon](https://www.amazon.es/dp/B0HC8N69BT) |
-| Danés | `B0HCC74TPK` | [Amazon](https://www.amazon.es/dp/B0HCC74TPK) |
-| Noruego bokmål | `B0HCCL44TZ` | [Amazon](https://www.amazon.es/dp/B0HCCL44TZ) |
-| Finlandés | `B0HCRHFMRG` | [Amazon](https://www.amazon.es/dp/B0HCRHFMRG) |
-| Polaco | Enlace confirmado | [Amazon](https://amzn.eu/d/0a10Qv5a) |
+| Español | `B0HBRQGNQL` · Kindle | [Amazon](https://www.amazon.es/dp/B0HBRQGNQL) |
+| Francés | `B0HBRNFMN7` · Kindle | [Amazon](https://www.amazon.fr/dp/B0HBRNFMN7) |
+| Alemán | `B0H4HYBTGL` · Kindle | [Amazon](https://www.amazon.de/dp/B0H4HYBTGL) |
+| Portugués | `B0HBXD3P1D` · Kindle | [Amazon](https://www.amazon.es/dp/B0HBXD3P1D) |
+| Inglés | `B0HBXLKC9W` · Kindle | [Amazon](https://www.amazon.com/dp/B0HBXLKC9W) |
+| Italiano | `B0HBZ1VCXP` · Kindle | [Amazon](https://www.amazon.it/dp/B0HBZ1VCXP) |
+| Neerlandés | `B0HBZHLHJJ` · Kindle | [Amazon](https://www.amazon.nl/dp/B0HBZHLHJJ) |
+| Sueco | `B0HC8N69BT` · Kindle | [Amazon](https://www.amazon.se/dp/B0HC8N69BT) |
+| Danés | `B0HCC74TPK` · Kindle | [Amazon](https://www.amazon.de/dp/B0HCC74TPK) |
+| Noruego bokmål | `B0HCCL44TZ` · Kindle | [Amazon](https://www.amazon.de/dp/B0HCCL44TZ) |
+| Finlandés | `B0HCRHFMRG` · Kindle | [Amazon](https://www.amazon.de/dp/B0HCRHFMRG) |
+| Polaco | `B0HCB8F63N` · tapa blanda | [Amazon](https://www.amazon.pl/dp/B0HCB8F63N) |
+| Japonés | `B0HD9YDCN1` · Kindle | [Amazon](https://www.amazon.co.jp/dp/B0HD9YDCN1) |
 
 ### Formatos confirmados relevantes
 
-* **Noruego bokmål:** Kindle, tapa blanda y tapa dura publicados. El ASIN específico de tapa blanda permanece sin verificar.
-* **Finlandés:** eBook `B0HCRHFMRG`; tapa blanda `B0HCVSX23V`; tapa dura `B0HCRMCRPT`.
-* **Finlandés:** la incidencia de idioma y asociación quedó corregida y verificada operativamente el 6 de agosto de 2026.
-* **Polaco:** no se atribuyen formatos ni ASIN no verificados.
-* **Noruego no bokmål:** no publicado y excluido del recuento.
-* **Japonés:** en preparación y excluido del recuento.
+* **Noruego bokmål:** Kindle `B0HCCL44TZ`, tapa blanda `B0HCV423YJ` y tapa dura `B0HCCVF2BF`.
+* **Finlandés:** Kindle `B0HCRHFMRG`, tapa blanda `B0HCVSX23V` y tapa dura `B0HCRMCRPT`.
+* **Polaco:** KDP no ofrece actualmente eBook Kindle en polaco; tapa blanda `B0HCB8F63N` y tapa dura `B0HC4C1GWZ`.
+* **Japonés:** por ahora sólo está publicado Kindle `B0HD9YDCN1`; los formatos impresos no están publicados.
+* **Matriz completa:** los 36 formatos y sus enlaces directos se mantienen en [EDICIONES.md](./EDICIONES.md).
 
-La disponibilidad de un formato concreto puede variar por marketplace y debe comprobarse en Amazon.
+La disponibilidad y el precio de un formato concreto pueden variar por marketplace y con el tiempo.
 
 ---
 
@@ -208,13 +210,13 @@ The discovery of an error in SensFusion opens a breach in the architecture of co
 
 A slightly revised version was submitted to the **UPC Science Fiction Award in 2002**. Its first public edition appeared in 2026 through a **conservative restoration** preserving the narrative and conceptual core of the original work.
 
-It is currently published in twelve languages, with digital and print editions available depending on language and marketplace.
+It is currently published in thirteen languages, with digital and print editions available depending on language and marketplace.
 
 ---
 
 ## Short promotional text
 
-**IDEA**, a science-fiction novel written by Pedro Martínez Alhambra between 1997 and 2002 and submitted with minor changes to the UPC Award in 2002, was first published in 2026 through a conservative restoration. The work is currently available in twelve languages.
+**IDEA**, a science-fiction novel written by Pedro Martínez Alhambra between 1997 and 2002 and submitted with minor changes to the UPC Award in 2002, was first published in 2026 through a conservative restoration. The work is currently available in thirteen languages.
 
 ---
 
@@ -266,38 +268,40 @@ IDEA was written during his youth, before the formal creation of those concepts 
 * **UPC submission:** 2002, with minor changes
 * **First public publication:** 2026
 * **Editorial method:** conservative restoration
-* **Published languages:** 12
+* **Published languages:** 13
 * **Formats:** digital and print editions depending on language and availability
 
 ---
 
-## Twelve published languages and purchase
+## Thirteen published languages and purchase
 
-| Language | Reference ASIN or link | Purchase |
+IDEA currently has **13 published languages and 36 format editions with their own ASINs**. The complete format-by-format matrix is maintained in [EDICIONES.md](./EDICIONES.md).
+
+| Language | Reference edition | Purchase |
 | --- | ---: | --- |
-| Spanish | `B0HBRQGNQL` | [Amazon](https://www.amazon.es/dp/B0HBRQGNQL) |
-| French | `B0HBRNFMN7` | [Amazon](https://www.amazon.es/dp/B0HBRNFMN7) |
-| German | `B0H4HYBTGL` | [Amazon](https://www.amazon.es/dp/B0H4HYBTGL) |
-| Portuguese | `B0HBXD3P1D` | [Amazon](https://www.amazon.es/dp/B0HBXD3P1D) |
-| English | `B0HBXLKC9W` | [Amazon](https://www.amazon.es/dp/B0HBXLKC9W) |
-| Italian | `B0HBZ1VCXP` | [Amazon](https://www.amazon.es/dp/B0HBZ1VCXP) |
-| Dutch | `B0HBZHLHJJ` | [Amazon](https://www.amazon.es/dp/B0HBZHLHJJ) |
-| Swedish | `B0HC8N69BT` | [Amazon](https://www.amazon.es/dp/B0HC8N69BT) |
-| Danish | `B0HCC74TPK` | [Amazon](https://www.amazon.es/dp/B0HCC74TPK) |
-| Norwegian Bokmål | `B0HCCL44TZ` | [Amazon](https://www.amazon.es/dp/B0HCCL44TZ) |
-| Finnish | `B0HCRHFMRG` | [Amazon](https://www.amazon.es/dp/B0HCRHFMRG) |
-| Polish | Confirmed link | [Amazon](https://amzn.eu/d/0a10Qv5a) |
+| Spanish | `B0HBRQGNQL` · Kindle | [Amazon](https://www.amazon.es/dp/B0HBRQGNQL) |
+| French | `B0HBRNFMN7` · Kindle | [Amazon](https://www.amazon.fr/dp/B0HBRNFMN7) |
+| German | `B0H4HYBTGL` · Kindle | [Amazon](https://www.amazon.de/dp/B0H4HYBTGL) |
+| Portuguese | `B0HBXD3P1D` · Kindle | [Amazon](https://www.amazon.es/dp/B0HBXD3P1D) |
+| English | `B0HBXLKC9W` · Kindle | [Amazon](https://www.amazon.com/dp/B0HBXLKC9W) |
+| Italian | `B0HBZ1VCXP` · Kindle | [Amazon](https://www.amazon.it/dp/B0HBZ1VCXP) |
+| Dutch | `B0HBZHLHJJ` · Kindle | [Amazon](https://www.amazon.nl/dp/B0HBZHLHJJ) |
+| Swedish | `B0HC8N69BT` · Kindle | [Amazon](https://www.amazon.se/dp/B0HC8N69BT) |
+| Danish | `B0HCC74TPK` · Kindle | [Amazon](https://www.amazon.de/dp/B0HCC74TPK) |
+| Norwegian Bokmål | `B0HCCL44TZ` · Kindle | [Amazon](https://www.amazon.de/dp/B0HCCL44TZ) |
+| Finnish | `B0HCRHFMRG` · Kindle | [Amazon](https://www.amazon.de/dp/B0HCRHFMRG) |
+| Polish | `B0HCB8F63N` · paperback | [Amazon](https://www.amazon.pl/dp/B0HCB8F63N) |
+| Japanese | `B0HD9YDCN1` · Kindle | [Amazon](https://www.amazon.co.jp/dp/B0HD9YDCN1) |
 
 ### Relevant confirmed formats
 
-* **Norwegian Bokmål:** Kindle, paperback and hardcover published. The paperback-specific ASIN remains unverified.
-* **Finnish:** eBook `B0HCRHFMRG`; paperback `B0HCVSX23V`; hardcover `B0HCRMCRPT`.
-* **Finnish:** the language and association incident was operationally corrected and verified on 6 August 2026.
-* **Polish:** no unverified format or ASIN is attributed.
-* **Non-Bokmål Norwegian:** not published and excluded from the count.
-* **Japanese:** in preparation and excluded from the count.
+* **Norwegian Bokmål:** Kindle `B0HCCL44TZ`, paperback `B0HCV423YJ` and hardcover `B0HCCVF2BF`.
+* **Finnish:** Kindle `B0HCRHFMRG`, paperback `B0HCVSX23V` and hardcover `B0HCRMCRPT`.
+* **Polish:** KDP does not currently offer Polish-language Kindle eBooks; paperback `B0HCB8F63N` and hardcover `B0HC4C1GWZ`.
+* **Japanese:** only Kindle `B0HD9YDCN1` is currently published; print formats are not published.
+* **Complete matrix:** all 36 formats and their direct links are maintained in [EDICIONES.md](./EDICIONES.md).
 
-Availability of a specific format may vary by marketplace and should be checked on Amazon.
+Availability and pricing of a specific format may vary by marketplace and over time.
 
 ---
 
