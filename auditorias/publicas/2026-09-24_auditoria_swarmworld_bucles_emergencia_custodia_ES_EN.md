@@ -213,7 +213,7 @@ La auditoría deberá reabrirse si aparece evidencia de reenvío, acceso, cita, 
 
 ## ES · Consultas de procedencia enviadas el 24-09-2026
 
-Tras la revisión integral del paper se enviaron solicitudes directas de aclaración de procedencia a **Markus J. Buehler**, **Robert J. Laubacher**, **Max Tegmark**, **Daniela Rus** y **Sherry Turkle**.
+Tras la revisión integral del paper se enviaron solicitudes directas de aclaración de procedencia a **Markus J. Buehler**, **Robert J. Laubacher**, **Max Tegmark**, **Daniela Rus** y **Sherry Turkle**. Se envió además una consulta contextual a **Thomas W. Malone (MIT CCI)**, dejando expresamente indicado que nuestro primer contacto con él fue el 28-08, posterior al preprint, por lo que no se usa como evidencia de exposición previa.
 
 Las consultas:
 - no atribuyen copia ni mala conducta;
@@ -576,7 +576,7 @@ The audit should reopen if evidence appears of forwarding, access, citation, rel
 
 ## EN · Provenance queries sent on 24 Sep 2026
 
-After the full-paper review, direct provenance clarification requests were sent to **Markus J. Buehler**, **Robert J. Laubacher**, **Max Tegmark**, **Daniela Rus** and **Sherry Turkle**.
+After the full-paper review, direct provenance clarification requests were sent to **Markus J. Buehler**, **Robert J. Laubacher**, **Max Tegmark**, **Daniela Rus** and **Sherry Turkle**. A contextual query was also sent to **Thomas W. Malone (MIT CCI)**, explicitly noting that our first contact with him was on 28 Aug, after the preprint, so it is not used as evidence of prior exposure.
 
 The messages:
 - do not allege copying or misconduct;
