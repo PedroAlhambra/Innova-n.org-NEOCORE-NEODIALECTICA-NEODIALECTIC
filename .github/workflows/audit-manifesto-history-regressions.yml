@@ -3,12 +3,8 @@ name: audit-manifesto-history-regressions
 
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - '.github/scripts/audit_manifesto_history_regressions.py'
-      - '.github/workflows/audit-manifesto-history-regressions.yml'
 
+# Historical/one-shot writer: manual only. Living state is maintained by canonical reconcilers.
 permissions:
   contents: write
 
