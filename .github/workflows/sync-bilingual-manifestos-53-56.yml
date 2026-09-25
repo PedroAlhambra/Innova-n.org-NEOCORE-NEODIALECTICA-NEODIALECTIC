@@ -1,16 +1,9 @@
 name: sync-bilingual-manifestos-53-56
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - '.github/scripts/repair_manifesto_53_strict_symmetry.py'
-      - '.github/scripts/repair_manifesto_54_structure_only.py'
-      - '.github/scripts/repair_manifesto_55_structure_only.py'
-      - '.github/scripts/repair_manifesto_56_structure_only.py'
-      - '.github/workflows/sync-bilingual-manifestos-53-56.yml'
   workflow_dispatch:
 
+# Historical/one-shot writer: manual only. Living state is maintained by canonical reconcilers.
 permissions:
   contents: write
 
