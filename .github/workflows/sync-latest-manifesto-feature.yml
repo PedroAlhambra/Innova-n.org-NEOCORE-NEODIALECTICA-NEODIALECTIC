@@ -16,7 +16,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: latest-manifesto-readme-sync-main
+  group: neocore-document-sync-main
   cancel-in-progress: false
 
 jobs:
