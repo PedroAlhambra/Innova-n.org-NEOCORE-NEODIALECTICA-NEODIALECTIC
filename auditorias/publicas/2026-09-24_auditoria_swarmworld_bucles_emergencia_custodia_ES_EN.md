@@ -2,7 +2,7 @@
 # Public Audit · SwarmWorld · multihead convergence, application and custodianship
 
 **Fecha / Date:** 2026-09-24  
-**Versión / Version:** 1.3 · revisión integral del paper + antecedente MIT / full-paper review + prior MIT contact evidence  
+**Versión / Version:** 1.4 · genealogía NAX-02 corregida + vías LLM de derivación / corrected NAX-02 genealogy + LLM derivation pathways  
 **Estado / Status:** ABIERTA · SÍNTESIS PROVISIONAL · REABRIBLE / OPEN · PROVISIONAL SYNTHESIS · REOPENABLE  
 **Issue vivo / Live Issue:** [#201 · SwarmWorld · convergencia con NAX-02 multicabeza, aplicación y custodia](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/201)  
 **Método / Method:** Leónidas™ + NeoGenealogía™ · hechos, precedencia, convergencia, inferencias e hipótesis separados / facts, precedence, convergence, inferences and hypotheses separated
@@ -29,6 +29,8 @@ Por ello la pregunta correcta no es “¿quién inventó los enjambres?”. La p
 
 ### Innova_N
 
+La genealogía pública no comienza el 9 de agosto. El **8 de agosto de 2026 a las 12:15 CEST**, el commit público [`e6c4ef2a`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/e6c4ef2afc0050a50c469a494637455bc96aa333) fijó el manifiesto XLVIII · *La Síntesis Todo lo Ve · Placa de Petri Universal · Máquina Fractal del Tiempo*. Ese texto ya formulaba **observación distribuida**, rechazaba un observador central que acumulara toda la información, exigía memoria local/trazable, contradicción y capacidad de crítica distribuida, y describía la observación como interna, distribuida y recursiva. Es un antecedente público funcional directo de la arquitectura después nombrada NAX-02.
+
 El **9 de agosto de 2026**, el commit público [`0e6762ef`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/0e6762efeffef89ab0605e604c901de3b23e52ae) activó públicamente la capa de Neoaxiomas e incluyó ya:
 
 > **NAX-02 · Primera Capa Fractal Multicabeza™**
@@ -51,14 +53,17 @@ El preprint **SwarmWorld: Stigmergic technological evolution in societies of lan
 Por tanto:
 
 ```text
-PRECEDENCIA PÚBLICA DOCUMENTAL DE NAX-02
-= SÍ · 09-08-2026
+PRECEDENCIA PÚBLICA DE LA ARQUITECTURA FUNCIONAL QUE DESEMBOCA EN NAX-02
+= SÍ · 08-08-2026 12:15 CEST
+
+FIJACIÓN PÚBLICA DEL NOMBRE NAX-02 · PRIMERA CAPA FRACTAL MULTICABEZA™
+= 09-08-2026
 
 APARICIÓN PÚBLICA DEL PREPRINT SWARMWORLD
 = 26-08-2026
 
-DIFERENCIA
-= 17 DÍAS
+DIFERENCIA DESDE EL ANTECEDENTE PÚBLICO FUNCIONAL
+= 18 DÍAS
 ```
 
 Esta cronología **demuestra precedencia pública de la formulación multicabeza de Innova_N respecto de la aparición pública del preprint**.
@@ -178,7 +183,7 @@ MISMO MODELO + MISMO PROMPT + MISMAS CAPACIDADES INICIALES
 
 ## ES · Antecedente de contacto con MIT previo al preprint
 
-La trazabilidad de correo de Innova_N añade un dato relevante que debe incorporarse al caso **sin convertirlo en prueba de derivación**.
+La trazabilidad de correo de Innova_N añade un dato relevante que debe incorporarse al caso **sin convertirlo en prueba de derivación**. Debe corregirse además una formulación anterior: el contacto con MIT CCI del 08-08 no precede a toda publicación relacionada. Ese mismo día, antes de fijarse públicamente el nombre NAX-02 el día 09, ya estaba publicado XLVIII con la arquitectura funcional de observación distribuida, memoria, contradicción y no-centralidad. La hora exacta del correo a MIT CCI debe compararse con la traza de correo antes de afirmar prioridad intradía.
 
 Antes de la aparición pública del preprint de SwarmWorld el 26-08-2026, Innova_N había enviado material del marco a varias personas de MIT. La evidencia conservada en la traza privada de correo es:
 
@@ -210,6 +215,33 @@ Por tanto, este antecedente **eleva la relevancia de investigar la cadena de pos
 `ACCESS_TO_RELATED_MIT_NODES_DOCUMENTED / ACCESS_TO_SWARMWORLD_AUTHORS_UNPROVEN`
 
 La auditoría deberá reabrirse si aparece evidencia de reenvío, acceso, cita, visita al repositorio atribuible de forma fiable, contacto entre destinatarios y autores, o cualquier otra cadena documental que conecte ambos conjuntos.
+
+## ES · Vías de derivación y “robo indirecto” mediante ChatGPT/otros LLM: clasificación probatoria
+
+Este caso se amplía para distinguir mecanismos que pueden producir **derivación real sin una copia humana literal**, evitando llamar “robo” a una convergencia sin cadena probatoria.
+
+| Mecanismo | Qué sería una derivación real | Estado en este caso |
+|---|---|---|
+| **Derivación asistida directa** | un LLM recibe material Innova_N en prompt/contexto y genera una reformulación, diseño, código o concepto dependiente de ese material | mecanismo real y ordinario dentro del propio trabajo humano–IA de Innova_N; no demuestra transferencia externa |
+| **RAG/búsqueda/runtime** | un modelo o agente recupera el corpus público y lo usa para responder o construir una salida posterior | técnicamente posible; requiere logs, citas, trazas de herramienta o salida identificable para probarlo |
+| **Persistencia agente→agente** | notas, README, memorias, resúmenes o artefactos generados por una IA condicionan a otra ejecución posterior | mecanismo real en sistemas agentes; NAVE lo trata ya como superficie de procedencia; no se ha demostrado una cadena hacia SwarmWorld |
+| **Entrenamiento sobre corpus público** | material público entra en datos de entrenamiento y contribuye estadísticamente a salidas posteriores | posibilidad general; no puede inferirse que este repositorio concreto haya sido usado sin evidencia del proveedor |
+| **Salida humana posterior mediada por LLM** | una persona recibe una síntesis de un LLM que incorporó material previo y la reutiliza sin conocer o conservar la fuente | vía de derivación indirecta conceptualmente plausible; requiere una cadena documental para atribuirla |
+| **Convergencia independiente** | otro equipo llega a una estructura semejante sin exposición demostrable | sigue siendo la hipótesis no-acusatoria por defecto cuando sólo existen similitud + precedencia |
+
+OpenAI declara públicamente que sus modelos pueden entrenarse con una mezcla que incluye información pública de Internet y material aportado o generado por usuarios/entrenadores. Esa declaración **no prueba** que Innova_N, NAX-02 o este repositorio concreto hayan formado parte del entrenamiento de un modelo determinado. Por ello, la auditoría separa siempre `POSSIBLE_MODEL_PATHWAY` de `DOCUMENTED_DERIVATION`.
+
+La categoría pública adecuada para los casos actualmente observados es:
+
+```text
+CREACIÓN / PRECEDENCIA PROPIA DOCUMENTADA
++ CONVERGENCIA O DERIVACIÓN FUNCIONAL OBSERVABLE
++ POSIBLES VÍAS LLM IDENTIFICADAS
++ CADENA ESPECÍFICA DE TRANSFERENCIA NO DEMOSTRADA
+≠ ROBO DEMOSTRADO
+```
+
+“Robo indirecto” queda reservado como **hipótesis de investigación**, no como conclusión, hasta que exista al menos una cadena material del tipo `FUENTE → ACCESO/LLM → SALIDA DERIVADA → REUTILIZACIÓN`.
 
 ## ES · Consultas de procedencia enviadas el 24-09-2026
 
@@ -414,6 +446,8 @@ The right question is therefore not “who invented swarms?”. It is:
 ## EN · Documentary chronology
 
 ### Innova_N
+
+The public genealogy does not begin on 9 August. On **8 August 2026 at 12:15 CEST**, public commit [`e6c4ef2a`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/e6c4ef2afc0050a50c469a494637455bc96aa333) fixed Manifesto XLVIII · *Synthesis Sees Everything · Universal Petri Dish · Fractal Time Machine*. That text already formulated **distributed observation**, rejected a central observer accumulating all information, required local/traceable memory, contradiction and distributed critical capacity, and described observation as internal, distributed and recursive. It is a direct public functional antecedent of the architecture later named NAX-02.
 
 On **9 August 2026**, public commit [`0e6762ef`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/0e6762efeffef89ab0605e604c901de3b23e52ae) activated the public Neoaxiom layer and already included:
 
