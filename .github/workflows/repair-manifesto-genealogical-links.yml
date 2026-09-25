@@ -2,17 +2,8 @@ name: Repair manifesto genealogical links
 
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - '.github/scripts/sanitize_manifesto_relation_markdown.py'
-      - '.github/scripts/repair_manifesto_genealogical_links.py'
-      - '.github/scripts/audit_manifesto_clickable_relations.py'
-      - '.github/scripts/audit_global_bilingual_symmetry.py'
-      - '.github/scripts/audit_language_selectors.py'
-      - '.github/workflows/repair-manifesto-genealogical-links.yml'
-      - 'manifiestos/CANONICAL_FILENAMES.json'
 
+# Specialized repair/reconciler: manual only. Automatic living-state maintenance belongs to the canonical sync.
 permissions:
   contents: write
 
