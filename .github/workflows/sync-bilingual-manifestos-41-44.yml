@@ -1,16 +1,9 @@
 name: sync-bilingual-manifestos-41-44
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - '.github/scripts/repair_manifesto_41_strict_symmetry.py'
-      - '.github/scripts/repair_manifesto_42_strict_symmetry.py'
-      - '.github/scripts/repair_manifesto_43_strict_symmetry.py'
-      - '.github/scripts/repair_manifesto_44_strict_symmetry.py'
-      - '.github/workflows/sync-bilingual-manifestos-41-44.yml'
   workflow_dispatch:
 
+# Historical/one-shot writer: manual only. Living state is maintained by canonical reconcilers.
 permissions:
   contents: write
 
