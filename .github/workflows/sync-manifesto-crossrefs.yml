@@ -58,5 +58,7 @@ jobs:
             exit 0
           fi
           git commit -m 'docs: sincronizar navegación e índice de manifiestos'
+          # Auditors may refresh reports outside the intended write-set. They are evidence, not part of this sync commit.
+          git reset --hard HEAD
           git pull --rebase origin main
           git push origin main
