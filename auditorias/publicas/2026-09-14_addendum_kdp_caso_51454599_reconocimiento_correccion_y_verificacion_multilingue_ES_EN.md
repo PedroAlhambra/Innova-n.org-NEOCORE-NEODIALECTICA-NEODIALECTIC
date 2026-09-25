@@ -6,6 +6,8 @@
 **Issue público / Public Issue:** [#70](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)  
 **Mapa genealógico / Genealogy map:** [KDP · IDEA · casos, documentos, Issues y deltas](./KDP_IDEA_GENEALOGIA_TRAZABLE_CASOS_ISSUES_DELTAS_ES_EN.md)
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ---
 
 ## ES · Castellano
