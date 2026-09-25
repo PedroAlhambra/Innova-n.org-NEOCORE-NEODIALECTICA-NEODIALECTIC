@@ -2,12 +2,8 @@ name: repair-bilingual-symmetry-batch-31-33
 
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - '.github/scripts/repair_bilingual_symmetry_batch_31_33.py'
-      - '.github/workflows/repair-bilingual-symmetry-batch-31-33.yml'
 
+# Historical/one-shot writer: manual only. Living state is maintained by canonical reconcilers.
 permissions:
   contents: write
 
