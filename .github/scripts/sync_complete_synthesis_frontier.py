@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-from datetime import date
 from pathlib import Path
 import re
 
@@ -90,13 +89,7 @@ def sync() -> tuple[bool, list[tuple[str, str, Path, str, str]]]:
     count = len(resolved)
     latest_roman = resolved[-1][0]
 
-    text = re.sub(
-        r'^\*\*Fecha / Date:\*\* \d{4}-\d{2}-\d{2}$',
-        f'**Fecha / Date:** {date.today().isoformat()}',
-        text,
-        count=1,
-        flags=re.M,
-    )
+    # Do not manufacture freshness from runner wall-clock time. The date is documentary provenance, not execution time.
     text = re.sub(
         r'\d+ manifiestos finitos I–[IVXLCDM]+ \+ Manifiesto ∞',
         f'{count} manifiestos finitos I–{latest_roman} + Manifiesto ∞',
