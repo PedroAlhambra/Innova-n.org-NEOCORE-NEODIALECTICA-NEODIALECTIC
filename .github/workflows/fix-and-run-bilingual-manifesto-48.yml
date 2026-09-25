@@ -1,11 +1,8 @@
 name: fix-and-run-bilingual-manifesto-48
 on:
-  push:
-    branches: [main]
-    paths:
-      - '.github/scripts/harden_repair_48_heading_resolver.py'
-      - '.github/workflows/fix-and-run-bilingual-manifesto-48.yml'
   workflow_dispatch:
+
+# Historical/one-shot writer: manual only. Living state is maintained by canonical reconcilers.
 permissions:
   contents: write
 concurrency:
