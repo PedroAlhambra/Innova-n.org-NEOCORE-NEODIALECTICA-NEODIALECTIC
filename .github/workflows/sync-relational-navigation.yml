@@ -2,12 +2,8 @@ name: sync-relational-navigation
 
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - '.github/scripts/sync_relational_navigation.py'
-      - '.github/workflows/sync-relational-navigation.yml'
 
+# Specialized repair/reconciler: manual only. Automatic living-state maintenance belongs to the canonical sync.
 permissions:
   contents: write
 
