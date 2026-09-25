@@ -2,12 +2,8 @@ name: harden-global-symmetry-auditor
 
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - '.github/scripts/harden_global_symmetry_auditor.py'
-      - '.github/workflows/harden-global-symmetry-auditor.yml'
 
+# Historical/one-shot writer: manual only. Living state is maintained by canonical reconcilers.
 permissions:
   contents: write
 
