@@ -1,7 +1,7 @@
 from pathlib import Path
-from datetime import date
 import re
 import sys
+import json
 
 MAN = Path('manifiestos')
 README = MAN / 'README.md'
@@ -43,38 +43,26 @@ def declared_canonical_route(text):
     return Path(m.group(1)).name if m else None
 
 
+registry = json.loads((MAN / 'CANONICAL_FILENAMES.json').read_text(encoding='utf-8'))['entries']
 catalog = {}
-legacy = []
-duplicates = []
-for p in sorted(MAN.glob('[0-9][0-9]_*.md')):
-    text = p.read_text(encoding='utf-8')
-    canonical_target = declared_canonical_route(text)
-    if canonical_target and canonical_target != p.name:
-        legacy.append((p.name, canonical_target))
-        continue
-    info = first_titles(text)
-    if not info:
-        continue
-    ord_, es, en = info
-    if ord_ in catalog:
-        duplicates.append((ord_, catalog[ord_]['path'].name, p.name))
-        continue
-    catalog[ord_] = {'path': p, 'es': es, 'en': en, 'issue': synthesis_issue(text)}
-
-if duplicates:
-    print('MANIFESTO_INDEX=FAIL duplicate canonical ordinals')
-    for d in duplicates:
-        print(d)
-    sys.exit(1)
+for ord_, entry in registry.items():
+    p = Path(entry['legacy'])
+    if not p.exists():
+        raise SystemExit(f'MANIFESTO_INDEX=FAIL registered source missing: {p}')
+    text_source = p.read_text(encoding='utf-8')
+    info = first_titles(text_source)
+    if not info or info[0] != ord_:
+        raise SystemExit(f'MANIFESTO_INDEX=FAIL registry/source ordinal mismatch: {ord_} -> {p}')
+    _ord, es, en = info
+    catalog[ord_] = {'path': p, 'es': es, 'en': en, 'issue': synthesis_issue(text_source)}
 
 if not catalog:
-    raise SystemExit('MANIFESTO_INDEX=FAIL empty catalog')
+    raise SystemExit('MANIFESTO_INDEX=FAIL empty canonical registry')
 
 ordered = sorted(catalog, key=roman_to_int)
 latest_ord = ordered[-1]
 latest = catalog[latest_ord]
 count = len(ordered)
-today = date.today().isoformat()
 
 text = README.read_text(encoding='utf-8')
 
@@ -99,7 +87,7 @@ if n != 1:
 frontier = (
     f'**Frontera canónica vigente / Current canonical frontier:** **{count} manifiestos finitos bilingües · I–{latest_ord} + Manifiesto ∞ / '
     f'{count} finite bilingual manifestos · I–{latest_ord} + Manifesto ∞**  \n'
-    f'**Fecha de fijación de esta frontera / Frontier fixation date:** {today}'
+    '**Fecha de fijación de esta frontera / Frontier fixation date:** ' + (re.search(r'\*\*Fecha de fijación de esta frontera / Frontier fixation date:\*\*\s*(\d{4}-\d{2}-\d{2})', text).group(1) if re.search(r'\*\*Fecha de fijación de esta frontera / Frontier fixation date:\*\*\s*(\d{4}-\d{2}-\d{2})', text) else 'UNRESOLVED')
 )
 text, n = re.subn(
     r'\*\*Frontera canónica vigente / Current canonical frontier:\*\*.*?\n\*\*Fecha de fijación de esta frontera / Frontier fixation date:\*\*\s*\d{4}-\d{2}-\d{2}',
@@ -141,6 +129,4 @@ latest_synth += '  '
 text = re.sub(r'^\*\*Última síntesis finita / Latest finite synthesis:\*\*.*$', latest_synth, text, count=1, flags=re.M)
 
 README.write_text(text, encoding='utf-8')
-print(f'MANIFESTO_INDEX=PASS finite={count} latest={latest_ord} issue={latest["issue"]} legacy_skipped={len(legacy)}')
-for source, target in legacy:
-    print(f'LEGACY_ROUTE {source} -> {target}')
+print(f'MANIFESTO_INDEX=PASS finite={count} latest={latest_ord} issue={latest["issue"]} source=CANONICAL_FILENAMES.json')
