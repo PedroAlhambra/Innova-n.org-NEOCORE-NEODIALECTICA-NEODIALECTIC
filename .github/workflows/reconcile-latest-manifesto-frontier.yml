@@ -2,13 +2,8 @@ name: Reconcile latest manifesto frontier
 
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - '.github/scripts/reconcile_latest_manifesto_frontier.py'
-      - '.github/workflows/reconcile-latest-manifesto-frontier.yml'
-      - 'manifiestos/[0-9][0-9]_*.md'
 
+# Specialized repair/reconciler: manual only. Automatic living-state maintenance belongs to the canonical sync.
 permissions:
   contents: write
 
