@@ -13,9 +13,9 @@
 - Archivos Markdown históricos excluidos del estado vivo: **55**.
 - Entradas legacy excluidas del estado vivo: **0**.
 - README activos revisados: **25**.
-- Enlaces internos de ruta comprobados: **13357**.
+- Enlaces internos de ruta comprobados: **13367**.
 - Alias internos de GitHub Wiki reconocidos: **44**.
-- Enlaces externos inventariados sin comprobar disponibilidad remota: **2299**.
+- Enlaces externos inventariados sin comprobar disponibilidad remota: **2303**.
 - Enlaces sólo a ancla detectados: **1049**.
 - Bloques de último manifiesto encontrados en README: **8**.
 - Bloques legacy NEO_CURRENT_NAV encontrados en README: **0**.
@@ -46,9 +46,9 @@
 - Historical Markdown files excluded from living-state health: **55**.
 - Legacy entry files excluded from living-state health: **0**.
 - Active README files reviewed: **25**.
-- Internal path links checked: **13357**.
+- Internal path links checked: **13367**.
 - GitHub Wiki extensionless page aliases recognised: **44**.
-- External links inventoried without checking remote availability: **2299**.
+- External links inventoried without checking remote availability: **2303**.
 - Anchor-only links detected: **1049**.
 - Latest-manifesto blocks found in README files: **8**.
 - Legacy NEO_CURRENT_NAV blocks found in README files: **0**.
