@@ -6,6 +6,8 @@
 **Marco / Framework:** NEOCore™ · Neodialéctica™ · SAN™ · Leónidas™  
 **Síntesis Abierta / Open Synthesis:** [#199](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/199)
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ## ES · Castellano
 
 ## 1. Objeto
