@@ -2,11 +2,9 @@
 name: Temporary public graph reconciliation
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - '.github/workflows/reconcile-public-graph-temp.yml'
+  workflow_dispatch:
 
+# Historical/one-shot writer: manual only. Living state is maintained by canonical reconcilers.
 permissions:
   contents: write
 
