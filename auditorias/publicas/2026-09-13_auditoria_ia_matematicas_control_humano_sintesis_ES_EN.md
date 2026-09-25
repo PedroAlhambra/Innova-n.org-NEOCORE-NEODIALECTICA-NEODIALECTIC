@@ -206,6 +206,8 @@ La síntesis provisional queda abierta:
 
 > **La IA no debe sustituir el juicio humano; el juicio humano tampoco debe quedar atrapado realizando el trabajo de control que una arquitectura trazable puede automatizar. La soberanía exige reservar al humano la finalidad, la responsabilidad y la fijación, mientras la máquina absorbe verificación repetitiva, memoria, búsqueda y trazabilidad.**
 
+Esto permanece abierto a evidencia, contradicción, contraejemplos y revisión mediante [Síntesis Abierta #199](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/199).
+
 ---
 
 ## EN · English
