@@ -2,12 +2,8 @@ name: repair-nax10-elemental-symmetry
 
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - '.github/scripts/repair_nax10_elemental_symmetry.py'
-      - '.github/workflows/repair-nax10-elemental-symmetry.yml'
 
+# Historical/one-shot writer: manual only. Living state is maintained by canonical reconcilers.
 permissions:
   contents: write
 
