@@ -13,6 +13,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: neocore-document-sync-main
+  cancel-in-progress: false
+
 jobs:
   sync-and-audit:
     runs-on: ubuntu-latest
@@ -37,6 +41,8 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add neoaxiomas/ README.md .github/scripts/ 2>/dev/null || true
+          git add neoaxiomas/ README.md 2>/dev/null || true
           git commit -m "neoaxiomas: sync fixed NAX manifesto relations"
+          git reset --hard HEAD
+          git pull --rebase origin main
           git push
