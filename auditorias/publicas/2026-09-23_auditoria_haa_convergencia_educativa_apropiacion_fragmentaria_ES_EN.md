@@ -83,12 +83,6 @@ La revisión de commits públicos anteriores al anuncio de HAA permite fijar tre
 
 Anclajes: [IV · commit 47a40f7](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/47a40f7592dc26e485d08e19d1eeb417a7fd7e12) · [V · commit 93661e0](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/93661e00c658c796c9088a2465d836aca90e81fa) · [XVI · commit 6a8a5d7](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/6a8a5d7f33620c022ad8e50860df10a02eed2744)
 
-## EN · Documentary precedence matrix · 23 Sep 2026
-
-Review of public commits predating the HAA announcement establishes three verifiable anchors: Human–AI Symbiosis (6 Aug 2026, `93661e0`), Neodialectics and the Common Good (6 Aug 2026, `47a40f7`), and Archetypal Refragmentation (6 Aug 2026, `6a8a5d7`). The latter explicitly describes education as reconnecting art, science, body and ethics, and work as joining production, authorship, learning and return.
-
-**Reclassification: E2 · systemic correspondence + documented Innova_N precedence.** E2 means only that related components and their integration were publicly documented before the observed case. **It does not mean copying or prove access to the corpus.** E3–E5 remain unsupported.
-
 ## ES · Variables de seguimiento
 
 Se versionarán: currículo; definición de AI-native education; papel de IA/tutores; gobernanza del cómputo; socios y dependencia económica; selección; propiedad intelectual del trabajo estudiantil; relación con inversión, contratación y startups; autonomía curricular; humanidades y pensamiento crítico; ética/Bien Común; privacidad y datos; evaluación; gobernanza; resultados de cohortes; y cambios entre el piloto 2027 y desarrollos posteriores.
@@ -160,6 +154,12 @@ E5 · demonstrable appropriation
 ```
 
 **Initial state at opening: E1.** Concrete precedence for each component and for their integration must be reconstructed from commits, publications and dated documents before the level is raised. There is currently insufficient public evidence to assert E3–E5.
+
+## EN · Documentary precedence matrix · 23 Sep 2026
+
+Review of public commits predating the HAA announcement establishes three verifiable anchors: Human–AI Symbiosis (6 Aug 2026, `93661e0`), Neodialectics and the Common Good (6 Aug 2026, `47a40f7`), and Archetypal Refragmentation (6 Aug 2026, `6a8a5d7`). The latter explicitly describes education as reconnecting art, science, body and ethics, and work as joining production, authorship, learning and return.
+
+**Reclassification: E2 · systemic correspondence + documented Innova_N precedence.** E2 means only that related components and their integration were publicly documented before the observed case. **It does not mean copying or prove access to the corpus.** E3–E5 remain unsupported.
 
 ## EN · Tracking variables
 
