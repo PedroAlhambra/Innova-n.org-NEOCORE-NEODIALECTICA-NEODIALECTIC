@@ -3,11 +3,8 @@ name: fix-manifesto-parity-20260809
 # Reejecución 2026-08-12: la paridad estructural ES/EN pasa a ser requisito estricto, sin compresiones.
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - '.github/scripts/fix_manifesto_parity_40_41_52_56.py'
-      - '.github/workflows/fix-manifesto-parity-20260809.yml'
 
+# Historical/one-shot writer: manual only. Living state is maintained by canonical reconcilers.
 permissions:
   contents: write
 
