@@ -2,11 +2,8 @@ name: repair-known-doc-link-typos
 
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - '.github/workflows/repair-known-doc-link-typos.yml'
-      - '.github/scripts/repair_known_doc_link_typos.py'
 
+# Historical/one-shot writer: manual only. Living state is maintained by canonical reconcilers.
 permissions:
   contents: write
 
