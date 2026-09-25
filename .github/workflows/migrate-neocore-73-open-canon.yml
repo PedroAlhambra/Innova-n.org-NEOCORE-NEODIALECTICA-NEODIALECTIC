@@ -2,11 +2,8 @@ name: migrate-neocore-73-open-canon
 
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - '.github/scripts/migrate_neocore_73_open_canon.py'
-      - '.github/workflows/migrate-neocore-73-open-canon.yml'
 
+# Historical/one-shot writer: manual only. Living state is maintained by canonical reconcilers.
 permissions:
   contents: write
 
