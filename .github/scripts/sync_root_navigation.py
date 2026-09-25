@@ -101,17 +101,19 @@ def insert_after_language_nav(s, marker, block):
 
 
 def audits_transform(s):
-    block = '''## Actualización 2026-08-09 · DistroKid / Spotify\n\n- [Ticket 4499471 · auditoría de royalty routing y catálogo](./2026-08-09_distrokid_ticket_4499471_royalty_routing_ES_EN.md)\n- [MAXPROC 001 · Leónidas-Cancerbero™](../../analisis/publicos/2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md)'''
+    # Historical dated blocks may remain in their source documents, but this synchroniser
+    # must not inject them as the current/latest state of a living index.
+    block = '''## Archivo destacado 2026-08-09 · DistroKid / Spotify\n\n- [Ticket 4499471 · auditoría de royalty routing y catálogo](./2026-08-09_distrokid_ticket_4499471_royalty_routing_ES_EN.md)\n- [MAXPROC 001 · Leónidas-Cancerbero™](../../analisis/publicos/2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md)'''
     return insert_after_language_nav(s, '2026-08-09_distrokid_ticket_4499471_royalty_routing_ES_EN.md', block)
 
 
 def analysis_transform(s):
-    block = '''## Actualización 2026-08-09 · crítica externa / External criticism\n\n- [Václav Smil + Terry Winograd · deltas sobre integración, poder e incentivos](./2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md)\n- [MAXPROC 001 · Leónidas-Cancerbero™](./2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md)'''
+    block = '''## Archivo destacado 2026-08-09 · crítica externa / External criticism\n\n- [Václav Smil + Terry Winograd · deltas sobre integración, poder e incentivos](./2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md)\n- [MAXPROC 001 · Leónidas-Cancerbero™](./2026-08-08_umbral_x_maxproc_001_leonidas_cancerbero_streaming_trazabilidad_ES_EN.md)'''
     return insert_after_language_nav(s, '2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md', block)
 
 
 def projection_transform(s):
-    block = '''## Respuestas externas relevantes · 2026-08-09 / Relevant external responses\n\n- [Smil + Winograd · deltas incorporados a Síntesis Abierta](../analisis/publicos/2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md)\n- **Novum (Dinamarca):** presentación de IDEA enviada; actualización de estado canónico comunicada.\n- **Boekrecensiesblog (Países Bajos):** ejemplar físico acordado; envío directo por Amazon.\n- **deutsche-science-fiction.de:** EPUB acordado tras finalizar KDP Select.'''
+    block = '''## Archivo de respuestas externas · 2026-08-09 / External responses archive\n\n- [Smil + Winograd · deltas incorporados a Síntesis Abierta](../analisis/publicos/2026-08-09_respuestas_externas_smil_winograd_deltas_ES_EN.md)\n- **Novum (Dinamarca):** presentación de IDEA enviada; actualización de estado canónico comunicada.\n- **Boekrecensiesblog (Países Bajos):** ejemplar físico acordado; envío directo por Amazon.\n- **deutsche-science-fiction.de:** EPUB acordado tras finalizar KDP Select.'''
     return insert_after_language_nav(s, 'Smil + Winograd · deltas incorporados', block)
 
 
