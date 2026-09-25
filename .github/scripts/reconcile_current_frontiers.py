@@ -26,7 +26,12 @@ finite_count = len(romans)
 last_roman = romans[-1]
 
 nax_ids = sorted({int(m.group(1)) for p in (ROOT / 'neoaxiomas').glob('NAX-*.md') if (m := re.match(r'NAX-(\d+)_', p.name))})
-cnax_ids = sorted({int(m.group(1)) for p in (ROOT / 'neoaxiomas').glob('C-NAX-*.md') if (m := re.match(r'C-NAX-(\d+)_', p.name)) and 'HISTÓRICO · FIJADO COMO NAX-' not in p.read_text(encoding='utf-8', errors='replace')})
+def is_historical_candidate(path: Path) -> bool:
+    text = path.read_text(encoding='utf-8', errors='replace')
+    status = next((line for line in text.splitlines() if line.startswith('**Estado / Status:**')), '')
+    return 'HISTÓRICO' in status and 'FIXED AS NAX-' in status
+
+cnax_ids = sorted({int(m.group(1)) for p in (ROOT / 'neoaxiomas').glob('C-NAX-*.md') if (m := re.match(r'C-NAX-(\d+)_', p.name)) and not is_historical_candidate(p)})
 if not nax_ids or not cnax_ids:
     raise SystemExit('FRONTIER_DISCOVERY_FAILURE: missing NAX/C-NAX own documents')
 canon_nax_count = len(nax_ids)
