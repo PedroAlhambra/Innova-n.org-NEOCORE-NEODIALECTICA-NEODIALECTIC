@@ -2,12 +2,8 @@ name: repair-neoaxioms-strict-bilingual-symmetry
 
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - '.github/scripts/repair_neoaxioms_strict_bilingual_symmetry.py'
-      - '.github/workflows/repair-neoaxioms-strict-bilingual-symmetry.yml'
 
+# Historical/one-shot writer: manual only. Living state is maintained by canonical reconcilers.
 permissions:
   contents: write
 
