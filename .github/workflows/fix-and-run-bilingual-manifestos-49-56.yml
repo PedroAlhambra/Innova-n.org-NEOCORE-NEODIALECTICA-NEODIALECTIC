@@ -1,11 +1,8 @@
 name: fix-and-run-bilingual-manifestos-49-56
 on:
-  push:
-    branches: [main]
-    paths:
-      - '.github/scripts/harden_manifesto_repair_tail_markers.py'
-      - '.github/workflows/fix-and-run-bilingual-manifestos-49-56.yml'
   workflow_dispatch:
+
+# Historical/one-shot writer: manual only. Living state is maintained by canonical reconcilers.
 permissions:
   contents: write
 concurrency:
