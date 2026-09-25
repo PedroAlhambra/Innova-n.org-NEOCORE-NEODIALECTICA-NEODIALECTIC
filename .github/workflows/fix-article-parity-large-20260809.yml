@@ -3,11 +3,8 @@ name: fix-article-parity-large-20260809
 # Reejecución 2026-08-12: simetría ES/EN estricta, sin compresiones.
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - '.github/scripts/fix_article_parity_large_20260809.py'
-      - '.github/workflows/fix-article-parity-large-20260809.yml'
 
+# Historical/one-shot writer: manual only. Living state is maintained by canonical reconcilers.
 permissions:
   contents: write
 
