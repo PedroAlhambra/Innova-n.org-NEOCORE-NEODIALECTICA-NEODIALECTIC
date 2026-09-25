@@ -19,8 +19,8 @@
 
 <!-- NEOAXIOMAS_GLOBAL_LINK_START -->
 
-## NEOCore™ 7.3 CANON ABIERTO · Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™ + Soberanía de Síntesis™
-## NEOCore™ 7.3 OPEN CANON · First Fractal Multihead Layer™ + Neoaxiomatic Layer™ + Synthesis Sovereignty™
+## NEOCore™ · CANON ABIERTO · Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™ + Soberanía de Síntesis™
+## NEOCore™ · OPEN CANON · First Fractal Multihead Layer™ + Neoaxiomatic Layer™ + Synthesis Sovereignty™
 
 Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin convertirse en dogmas cerrados: permanecen abiertos a contraste, evidencia, crítica, refutación y revisión mediante **Síntesis Abierta Neodialéctica™ — SAN™**. / **Neoaxioms™** express high-stability principles of NEOCore™ without becoming closed dogma: they remain open to challenge, evidence, criticism, refutation and revision through **Neodialectical Open Synthesis™ — SAN™**.
 
@@ -39,7 +39,7 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 ## Manifiestos / Manifestos
 
-**I–LXXXI · 81 manifiestos bilingües · 24 oleadas / 81 bilingual manifestos · 24 waves.**  
+**El recuento y la frontera vigentes se consultan en el índice canónico / Current count and frontier are read from the canonical index.**  
 Los manifiestos son pilares públicos del marco, no equivalentes al marco completo. / The manifestos are public pillars of the framework, not equivalents of the complete framework.
 
 **[Abrir índice canónico y navegable / Open canonical navigable index →](../../../manifiestos/README.md)**
@@ -52,7 +52,7 @@ Los manifiestos son pilares públicos del marco, no equivalentes al marco comple
 
 Puedes aportar crítica, objeciones, contraejemplos, fuentes, experiencia, verificación, implementación o delta. / You may contribute criticism, objections, counterexamples, sources, experience, verification, implementation or a delta.
 
-**Última síntesis / Latest synthesis:** [LXXXI · Manifiesto del Ultralujo como Bien Común™ · La élite del aporte / Manifesto of Ultraluxury as Common Good™ · The elite of contribution](../../../manifiestos/81_ultralujo_bien_comun_elite_neodialectica_aporte_ES_EN.md) · [Issue #160](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/160)  
+**Síntesis vigente / Current synthesis frontier:** consultar el índice canónico de manifiestos y el índice completo de Síntesis / see the canonical manifesto index and complete Synthesis index.  
 **Seguimiento vivo / Living follow-up:** [seguir el marco / follow the framework](../../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [registro de entrada / entry register](../../../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md)  
 **Auditorías / Audits:** [LIII · Leónidas™](../../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [protocolo / protocol](../../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md)  
 **Cómo aportar / How to contribute:** [protocolo general / general protocol](../../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../../../auditorias/publicas/README.md) · [índice / index](../../../propuestas/sintesis-abierta/README.md)
