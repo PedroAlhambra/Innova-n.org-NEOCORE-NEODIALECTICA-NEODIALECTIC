@@ -2,12 +2,8 @@ name: repair-manifestos-strict-symmetry-28-37
 
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - '.github/scripts/repair_manifestos_strict_symmetry_28_37.py'
-      - '.github/workflows/repair-manifestos-strict-symmetry-28-37.yml'
 
+# Historical/one-shot writer: manual only. Living state is maintained by canonical reconcilers.
 permissions:
   contents: write
 
