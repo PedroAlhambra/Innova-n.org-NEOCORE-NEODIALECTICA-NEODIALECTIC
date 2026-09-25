@@ -4,6 +4,7 @@ import sys
 import json
 
 MAN = Path('manifiestos')
+# Authority: Roman canonical registry; decimal filenames are legacy routes, never ordinal truth.
 README = MAN / 'README.md'
 ISSUE_BASE = 'https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/'
 
