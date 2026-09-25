@@ -2,12 +2,8 @@ name: repair-root-cover-portada-symmetry
 
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - '.github/scripts/repair_root_cover_portada_symmetry.py'
-      - '.github/workflows/repair-root-cover-portada-symmetry.yml'
 
+# Historical/one-shot writer: manual only. Living state is maintained by canonical reconcilers.
 permissions:
   contents: write
 
