@@ -30,7 +30,7 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 >
 > **LXXXVI · Manifiesto de la Federación Neodialéctica dentro del Network Framework™ / Manifesto of the Neodialectical Federation within the Network Framework™**
 >
-> **[Manifiesto de la Federación Neodialéctica dentro del Network Framework™ / Manifesto of the Neodialectical Federation within the Network Framework™](86_federacion_neodialectica_network_framework_ES_EN.md) · [Síntesis Abierta LXXXVI · #187 / Open Synthesis LXXXVI · #187](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/187)**
+> **[Manifiesto LXXXVI / Manifesto LXXXVI](86_federacion_neodialectica_network_framework_ES_EN.md) · [Síntesis Abierta LXXXVI · #187 / Open Synthesis LXXXVI · #187](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/187)**
 
 > ## ∞ · PUERTA ABIERTA PERMANENTE / PERMANENT OPEN DOOR
 >
