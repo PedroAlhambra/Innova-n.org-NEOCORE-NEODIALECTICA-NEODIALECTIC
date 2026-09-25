@@ -5,6 +5,7 @@ name: sync-open-synthesis-network
 on:
   workflow_dispatch:
 
+# Historical/one-shot writer: manual only. Living state is maintained by canonical reconcilers.
 permissions:
   contents: write
 
