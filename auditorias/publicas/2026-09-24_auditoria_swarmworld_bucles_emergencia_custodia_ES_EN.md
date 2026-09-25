@@ -479,9 +479,13 @@ Material homogeneity ends once execution begins: each agent receives local obser
 
 Explorer, constructor, coordinator and related states are recovered afterwards through clustering of trajectories and behavioural windows. The paper treats them as **dynamic states**, not fixed social identities.
 
+This strengthens the multihead fit only with careful wording: not “the system invents professions”, but “initially equivalent instances develop stable/recurrent behavioural differentials from situated experience”.
+
 ### The 3.47 exponent is not a per-agent collaboration law
 
-Network densification is fitted on cumulative agent–artifact ties against total agents + artifacts. The descriptive exponent is 3.47 under full culture and 3.48 without explicit culture. The paper explicitly states that this describes densification with network size, not growth per unit time. It should not be paraphrased as each additional agent directly causing “3.47× more collaboration”.
+Network densification is fitted on cumulative agent–artifact ties against total agents + artifacts. The descriptive exponent is 3.47 under full culture and 3.48 without explicit culture.
+
+The paper explicitly states that this describes densification with network size, not growth per unit time. Nearly identical values in both conditions also prevent reading 3.47 as a specific law of “added collaboration per agent”.
 
 ### These are not yet experimentally manufactured material discoveries
 
@@ -495,9 +499,21 @@ DISCOVERY / OPTIMISATION INSIDE A SIMULATED WORLD
 PHYSICAL MATERIAL VALIDATION
 ```
 
+The paper does present a serious experimental infrastructure for studying technological accumulation and proposes later routes toward physical validation.
+
 ### The paper does not use “meta-recursive intelligence”
 
 The terms **“recursive meta-intelligence” / “meta-recursive intelligence”** do not appear in SwarmWorld v1. They belong to later public communication by Markus J. Buehler.
+
+They must therefore be separated:
+
+```text
+SWARMWORLD PAPER
+= multi-agent ecology + persistence + stigmergy + executable inheritance + evaluation
+
+LATER PUBLIC NARRATIVE
+= recursive meta-intelligence / scientific superintelligence
+```
 
 ### Limitations acknowledged by the authors
 
@@ -505,9 +521,16 @@ Inference is explicitly based on four matched world seeds per condition, one mod
 
 ### The route out of the sandbox is explicitly proposed
 
-The paper itself outlines a progression from higher-fidelity in-silico consequence layers to measured environmental streams, embedded hardware, robotic platforms and autonomous laboratories, including distributed artifact exchange across laboratories.
+This is the point that makes custodianship especially relevant.
 
-This is why custodianship matters: the relevant concern is not the current closed simulator as such, but the **explicitly proposed transition from emergent simulated societies to real consequence layers**.
+The authors describe an extension sequence:
+
+1. keep the world in silico while connecting recipes/geometries/controllers to higher-fidelity physical solvers;
+2. feed the system measured environmental streams and run controllers on embedded hardware with real sensors;
+3. move to robotic platforms and autonomous laboratories for physical construction, testing and observation;
+4. explore distributed artifact exchange across laboratories.
+
+The Innova_N concern is therefore not directed at a closed simulator as though it were already an autonomous physical system. It concerns the **explicitly proposed transition from an emergent simulated ecology toward layers of real consequence**.
 
 ### Important nuance: Buehler later raises epistemic-authority concerns himself
 
