@@ -1,6 +1,6 @@
 # Postcheck dinámico · README, índices y enlaces / Dynamic README, indices and links postcheck
 
-**Fecha / Date:** 2026-09-25
+**Fecha / Date:** 2026-09-27
 **Estado / Status:** **OK**
 
 > **Alcance / Scope:** el grafo vivo excluye `wiki-legacy-archive/` y las entradas raíz legacy `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` y `FOREWORD.md`. Esos nombres legacy no constituyen superficies canónicas vivas; tras su retirada de `main`, su contenido histórico permanece recuperable mediante Git. / the living graph excludes `wiki-legacy-archive/` and the root legacy entry files `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` and `FOREWORD.md`. Those legacy names are not living canonical surfaces; after retirement from `main`, their historical contents remain recoverable through Git.
@@ -9,14 +9,14 @@
 
 ## ES · Resultado
 
-- Archivos Markdown activos revisados: **574**.
+- Archivos Markdown activos revisados: **575**.
 - Archivos Markdown históricos excluidos del estado vivo: **55**.
 - Entradas legacy excluidas del estado vivo: **0**.
 - README activos revisados: **25**.
-- Enlaces internos de ruta comprobados: **13367**.
+- Enlaces internos de ruta comprobados: **13372**.
 - Alias internos de GitHub Wiki reconocidos: **44**.
-- Enlaces externos inventariados sin comprobar disponibilidad remota: **2303**.
-- Enlaces sólo a ancla detectados: **1049**.
+- Enlaces externos inventariados sin comprobar disponibilidad remota: **2310**.
+- Enlaces sólo a ancla detectados: **1051**.
 - Bloques de último manifiesto encontrados en README: **8**.
 - Bloques legacy NEO_CURRENT_NAV encontrados en README: **0**.
 - Bloques redundantes MANIFESTOS_CURRENT encontrados en README: **0**.
@@ -42,14 +42,14 @@
 
 ## EN · Result
 
-- Active Markdown files reviewed: **574**.
+- Active Markdown files reviewed: **575**.
 - Historical Markdown files excluded from living-state health: **55**.
 - Legacy entry files excluded from living-state health: **0**.
 - Active README files reviewed: **25**.
-- Internal path links checked: **13367**.
+- Internal path links checked: **13372**.
 - GitHub Wiki extensionless page aliases recognised: **44**.
-- External links inventoried without checking remote availability: **2303**.
-- Anchor-only links detected: **1049**.
+- External links inventoried without checking remote availability: **2310**.
+- Anchor-only links detected: **1051**.
 - Latest-manifesto blocks found in README files: **8**.
 - Legacy NEO_CURRENT_NAV blocks found in README files: **0**.
 - Redundant MANIFESTOS_CURRENT blocks found in README files: **0**.
