@@ -5,6 +5,8 @@
 **Estado / Status:** AUDITORÍA DOCUMENTAL CERRADA · INCIDENCIA MATERIAL ABIERTA · MATRIZ ENTREGADA / DOCUMENTARY AUDIT CLOSED · MATERIAL INCIDENT OPEN · MATRIX PROVIDED  
 **Issue público / Public Issue:** [#70](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)  
 **Mapa genealógico / Genealogy map:** [KDP · IDEA · casos, documentos, Issues y deltas](./KDP_IDEA_GENEALOGIA_TRAZABLE_CASOS_ISSUES_DELTAS_ES_EN.md)  
+**Traza anterior / Previous trace:** [14-09 · reconocimiento de corrección y verificación multilingüe](./2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_ES_EN.md)  
+**Traza siguiente / Next trace:** [27-09 · supervisión, reconciliación funcional y escalado de producto](./2026-09-27_addendum_kdp_caso_51454599_supervision_contradiccion_producto_y_escalado_ES_EN.md)  
 **Registro comercial vigente / Current commercial register:** [IDEA · Ediciones internacionales](../../obras/idea/EDICIONES.md)
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
