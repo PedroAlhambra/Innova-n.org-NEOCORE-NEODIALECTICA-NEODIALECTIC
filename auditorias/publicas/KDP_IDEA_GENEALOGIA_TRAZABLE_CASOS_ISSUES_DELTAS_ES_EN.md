@@ -124,16 +124,22 @@ AUDITORÍA MAESTRA
         ├──────────────→ 51454599
         │                 ├─ reconocimiento de agrupación/asociación incorrecta
         │                 ├─ 14/09 corrección entre formatos reconocida
-        │                 └─ 14/09 asociación multilingüe sin cambio material
+        │                 ├─ 14/09 asociación multilingüe sin cambio material
+        │                 ├─ 15/09 Sameer verifica traducciones independientes y reconsulta
+        │                 ├─ 18/09 nueva verificación: ES + FI visibles
+        │                 ├─ 21/09 + 23/09 misma matriz solicitada dos veces
+        │                 ├─ 24/09 matriz 13 idiomas / 36 ediciones-formato entregada
+        │                 ├─ 26/09 respuesta de supervisora pendiente de reconciliación
+        │                 └─ 27/09 respuesta: reconciliación técnica + escalado de producto
         └──────────────→ 51454627
   ├─ 29/08 actuación multilingüe declarada ejecutada
   ├─ hasta 7 días de propagación
   ├─ mejora parcial observada
   └─ 01/09 regresión + contradicción de capacidad/proceso
         ↓
-14/09 VERIFICACIÓN SIN CAMBIO MATERIAL
+27/09 RESPUESTA A SUPERVISIÓN ENVIADA
         ↓
-INCIDENCIA ABIERTA HASTA CORRECCIÓN PERSISTENTE / ALTERNATIVA FIABLE
+INCIDENCIA ABIERTA · ESPERANDO RECONCILIACIÓN TÉCNICA / CORRECCIÓN / ALTERNATIVA FIABLE
 
 RAMA PARALELA:
 51454666
@@ -273,16 +279,22 @@ MASTER AUDIT
         ├──────────────→ 51454599
         │                 ├─ acknowledgement of incorrect grouping/association
         │                 ├─ 14 Sep format-link correction acknowledged
-        │                 └─ 14 Sep multilingual association with no material change
+        │                 ├─ 14 Sep multilingual association with no material change
+        │                 ├─ 15 Sep Sameer verifies independent translations and reconsults
+        │                 ├─ 18 Sep further verification: ES + FI visible
+        │                 ├─ 21 Sep + 23 Sep same matrix requested twice
+        │                 ├─ 24 Sep 13-language / 36-format-edition matrix supplied
+        │                 ├─ 26 Sep supervisor response awaiting reconciliation
+        │                 └─ 27 Sep reply: technical reconciliation + product escalation
         └──────────────→ 51454627
   ├─ 29 Aug multilingual action declared executed
   ├─ up to 7 days of propagation
   ├─ partial improvement observed
   └─ 1 Sep regression + capability/process contradiction
         ↓
-14 SEP VERIFICATION WITH NO MATERIAL CHANGE
+27 SEP REPLY TO SUPERVISOR SENT
         ↓
-INCIDENT OPEN UNTIL PERSISTENT CORRECTION / RELIABLE ALTERNATIVE
+INCIDENT OPEN · AWAITING TECHNICAL RECONCILIATION / CORRECTION / RELIABLE ALTERNATIVE
 
 PARALLEL BRANCH:
 51454666
