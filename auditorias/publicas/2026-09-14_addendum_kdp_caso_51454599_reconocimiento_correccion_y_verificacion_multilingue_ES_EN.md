@@ -4,7 +4,8 @@
 **Fecha / Date:** 2026-09-14  
 **Estado / Status:** AUDITORÍA DOCUMENTAL CERRADA · INCIDENCIA MATERIAL ABIERTA / DOCUMENTARY AUDIT CLOSED · MATERIAL INCIDENT OPEN  
 **Issue público / Public Issue:** [#70](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)  
-**Mapa genealógico / Genealogy map:** [KDP · IDEA · casos, documentos, Issues y deltas](./KDP_IDEA_GENEALOGIA_TRAZABLE_CASOS_ISSUES_DELTAS_ES_EN.md)
+**Mapa genealógico / Genealogy map:** [KDP · IDEA · casos, documentos, Issues y deltas](./KDP_IDEA_GENEALOGIA_TRAZABLE_CASOS_ISSUES_DELTAS_ES_EN.md)  
+**Traza siguiente / Next trace:** [24-09 · matriz ASIN completa y escalado de visibilidad interna](./2026-09-24_addendum_kdp_caso_51454599_matriz_asin_y_escalado_visibilidad_interna_ES_EN.md)
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
