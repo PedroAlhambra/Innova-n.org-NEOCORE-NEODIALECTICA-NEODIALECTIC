@@ -68,7 +68,7 @@ Su función genealógica es intermedia: `51071689 → 51425188 → 51425302 / 51
    Delta: [`c08d3e4a`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/c08d3e4ade4f9882b494103befc72df4acedcd08).
 3. Continuación: el residuo multilingüe desemboca en los casos `51454599` y `51454627`, documentados en el siguiente nodo.
 
-### Caso `51454599` · asociación incompleta → corrección entre formatos reconocida → verificación 14-09 sin cambio material multilingüe
+### Caso `51454599` · asociación incompleta → corrección entre formatos reconocida → matriz completa → respuesta de supervisión pendiente de reconciliación
 
 1. [29-08 · revisión global aplicada · casos 51454627 / 51454666](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md), que registra el reconocimiento de la agrupación español/inglés incorrecta y la asociación lingüística incompleta.
 2. [14-09 · reconocimiento de corrección y verificación multilingüe · caso 51454599](./2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_ES_EN.md): KDP reconoce la corrección entre formatos y agradece la documentación; la verificación manual de ~14:27 CEST mantiene la asociación multilingüe como `NO_MATERIAL_CHANGE`.  
@@ -77,8 +77,10 @@ Su función genealógica es intermedia: `51071689 → 51425188 → 51425302 / 51
 3. [Issue #70 · actualización pública 14-09](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70#issuecomment-5663821571) y [verificación manual 14-09](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70#issuecomment-5663928303).
 4. [24-09 · matriz completa de 13 idiomas / 36 formatos y escalado de visibilidad interna · caso 51454599](./2026-09-24_addendum_kdp_caso_51454599_matriz_asin_y_escalado_visibilidad_interna_ES_EN.md): tras las solicitudes de KDP de 21 y 23 de septiembre, se entrega la matriz completa de ASIN para desbloquear la investigación y se pide escalar a catálogo/producto/desarrollo si soporte no puede recuperar internamente datos que ya residen en KDP.  
    Delta documental: [`6440c03a`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/6440c03a90d33c061f74e3b4651d7425271dd48f).
+5. [27-09 · supervisión, reconciliación funcional y escalado de producto · caso 51454599](./2026-09-27_addendum_kdp_caso_51454599_supervision_contradiccion_producto_y_escalado_ES_EN.md): se registra la respuesta de Haniefa, identificada como supervisora de KDP, la necesidad de reconciliar la afirmación «no podemos vincular los 13 idiomas en una misma página» con «el sistema los mantiene enlazados», las dos solicitudes consecutivas de la misma matriz y la respuesta del autor del 27-09 solicitando explicación técnica y escalado de producto si la limitación es estructural.  
+   Delta documental: [`5ec8989e`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/5ec8989ec794708f97569698c1b092ebf9a3a7f5).
 
-Estado reconciliado: `AUDIT_PHASE=CLOSED / INCIDENT=OPEN / 13_LANGUAGES / 36_PUBLISHED_FORMATS / FULL_ASIN_MATRIX_SENT / INTERNAL_VISIBILITY_GAP_ESCALATION_REQUESTED / WAITING_TECHNICAL_ACTION_AND_PUBLIC_VERIFICATION`.
+Estado reconciliado: `AUDIT_PHASE=CLOSED / INCIDENT=OPEN / 13_LANGUAGES / 36_PUBLISHED_FORMATS / FULL_ASIN_MATRIX_SENT / SUPERVISOR_RESPONSE_RECEIVED / FUNCTIONAL_DESCRIPTION_UNRECONCILED / DUPLICATE_METADATA_REQUESTS_DOCUMENTED / PRODUCT_LIMITATION_ESCALATION_REQUESTED / AUTHOR_REPLY_SENT_2026-09-27 / WAITING_SUPERVISOR_TECHNICAL_RECONCILIATION`.
 
 ### Caso `51454627` · actuación multilingüe declarada ejecutada → regresión → contradicción de proceso
 
@@ -215,7 +217,7 @@ Its genealogical role is intermediate: `51071689 → 51425188 → 51425302 / 514
    Delta: [`c08d3e4a`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/c08d3e4ade4f9882b494103befc72df4acedcd08).
 3. Continuation: the multilingual residual leads into cases `51454599` and `51454627`, documented in the next node.
 
-### Case `51454599` · incomplete association → format-link correction acknowledged → 14 Sep multilingual verification with no material change
+### Case `51454599` · incomplete association → format-link correction acknowledged → complete matrix → supervisor response awaiting reconciliation
 
 1. [29 Aug · global review applied · cases 51454627 / 51454666](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md), which records acknowledgement of the incorrect Spanish/English grouping and incomplete language association.
 2. [14 Sep · correction acknowledgement and multilingual verification · case 51454599](./2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_ES_EN.md): KDP acknowledges the format-link correction and thanks us for the documentation; the ~14:27 CEST manual verification keeps the multilingual association at `NO_MATERIAL_CHANGE`.  
@@ -224,8 +226,10 @@ Its genealogical role is intermediate: `51071689 → 51425188 → 51425302 / 514
 3. [Issue #70 · 14 Sep public update](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70#issuecomment-5663821571) and [14 Sep manual verification](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70#issuecomment-5663928303).
 4. [24 Sep · complete 13-language / 36-format matrix and internal-visibility escalation · case 51454599](./2026-09-24_addendum_kdp_caso_51454599_matriz_asin_y_escalado_visibilidad_interna_ES_EN.md): after KDP's requests of 21 and 23 September, the complete ASIN matrix was provided to unblock the investigation, together with a request to escalate to catalogue/product/development if support cannot internally retrieve data already held by KDP.  
    Documentary delta: [`6440c03a`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/6440c03a90d33c061f74e3b4651d7425271dd48f).
+5. [27 Sep · supervisor review, functional reconciliation and product escalation · case 51454599](./2026-09-27_addendum_kdp_caso_51454599_supervision_contradiccion_producto_y_escalado_ES_EN.md): records Haniefa's response identifying herself as a KDP supervisor, the need to reconcile “we cannot link the 13 languages on one detail page” with “the system keeps them linked”, the two consecutive requests for the same matrix, and the author's 27 Sep reply requesting technical reconciliation and product escalation if the limitation is structural.  
+   Documentary delta: [`5ec8989e`](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/5ec8989ec794708f97569698c1b092ebf9a3a7f5).
 
-Reconciled state: `AUDIT_PHASE=CLOSED / INCIDENT=OPEN / 13_LANGUAGES / 36_PUBLISHED_FORMATS / FULL_ASIN_MATRIX_SENT / INTERNAL_VISIBILITY_GAP_ESCALATION_REQUESTED / WAITING_TECHNICAL_ACTION_AND_PUBLIC_VERIFICATION`.
+Reconciled state: `AUDIT_PHASE=CLOSED / INCIDENT=OPEN / 13_LANGUAGES / 36_PUBLISHED_FORMATS / FULL_ASIN_MATRIX_SENT / SUPERVISOR_RESPONSE_RECEIVED / FUNCTIONAL_DESCRIPTION_UNRECONCILED / DUPLICATE_METADATA_REQUESTS_DOCUMENTED / PRODUCT_LIMITATION_ESCALATION_REQUESTED / AUTHOR_REPLY_SENT_2026-09-27 / WAITING_SUPERVISOR_TECHNICAL_RECONCILIATION`.
 
 ### Case `51454627` · declared multilingual action executed → regression → process contradiction
 
