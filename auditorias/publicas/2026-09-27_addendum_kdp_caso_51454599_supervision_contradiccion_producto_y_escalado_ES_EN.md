@@ -1,7 +1,7 @@
 # Addendum · KDP / IDEA · caso 51454599 · supervisión, reconciliación funcional y escalado de producto
 # Addendum · KDP / IDEA · case 51454599 · supervisor review, functional reconciliation and product escalation
 
-**Fecha / Date:** 2026-09-27  
+**Fecha / Date:** 2026-09-27 · actualización / update 2026-09-28  
 **Estado / Status:** AUDITORÍA DOCUMENTAL CERRADA · INCIDENCIA MATERIAL ABIERTA · RESPUESTA A SUPERVISIÓN ENVIADA / DOCUMENTARY AUDIT CLOSED · MATERIAL INCIDENT OPEN · REPLY TO SUPERVISOR SENT  
 **Issue público / Public Issue:** [#70](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)  
 **Antecedente inmediato / Immediate predecessor:** [24-09 · matriz ASIN completa y escalado de visibilidad interna](./2026-09-24_addendum_kdp_caso_51454599_matriz_asin_y_escalado_visibilidad_interna_ES_EN.md)  
@@ -87,7 +87,22 @@ La respuesta enviada solicita aclaración sobre:
 
 Estado reconciliado:
 
-`AUDIT_PHASE=CLOSED / INCIDENT=OPEN / SUPERVISOR_RESPONSE_RECEIVED / FUNCTIONAL_DESCRIPTION_UNRECONCILED / DUPLICATE_METADATA_REQUESTS_DOCUMENTED / FULL_ASIN_MATRIX_SENT / PRODUCT_LIMITATION_ESCALATION_REQUESTED / AUTHOR_REPLY_SENT_2026-09-27 / WAITING_SUPERVISOR_TECHNICAL_RECONCILIATION`
+`AUDIT_PHASE=CLOSED / INCIDENT=OPEN / SUPERVISOR_RESPONSE_RECEIVED / FUNCTIONAL_DESCRIPTION_UNRECONCILED / DUPLICATE_METADATA_REQUESTS_DOCUMENTED / FULL_ASIN_MATRIX_SENT / PRODUCT_LIMITATION_ESCALATION_REQUESTED / AUTHOR_REPLY_SENT_2026-09-27 / SUPERVISOR_REITERATION_RECEIVED_2026-09-27 / AUTHOR_FOLLOWUP_SENT_2026-09-28 / WAITING_FINAL_CLARIFICATION`
+
+### 7. Actualización 28-09 · reiteración de supervisión y respuesta final de aclaración
+
+El 27-09 se recibe una nueva comunicación de Haniefa, ya como continuación de la respuesta de supervisión. Su contenido sustantivo se limita a reiterar que **«No se pueden vincular libros en diferentes idiomas»**, sin responder individualmente a las preguntas técnicas remitidas anteriormente ni explicar el resultado de la investigación para la que se solicitó la matriz completa.
+
+El 28-09 el autor responde dejando constancia de que toma nota de esa posición, pero solicita dos aclaraciones finales y acotadas:
+
+1. si la imposibilidad indicada constituye la posición definitiva de KDP, que se confirme de forma inequívoca y se indique si la limitación ha sido registrada y trasladada a catálogo/producto/desarrollo;
+2. que se comunique el resultado de la investigación técnica para la que KDP solicitó la matriz completa de las 13 ediciones lingüísticas.
+
+La respuesta incluye un enlace directo a esta auditoría pública para que KDP pueda consultar la traza documental y su genealogía sin reproducir de nuevo todo el expediente en el correo.
+
+**Trazabilidad Gmail:** respuesta enviada el 28-09-2026; `message_id=1a0e66e5e2dd6c39`; `thread_id=1a0e50344a451f32`; estado verificado `SENT`.
+
+La nueva comunicación no se interpreta como resolución material del problema. El estado queda en espera de esas dos aclaraciones o, en su defecto, de una confirmación final inequívoca de la limitación del producto.
 
 La incidencia podrá cerrarse cuando exista una asociación multilingüe material, correcta y persistente; un mecanismo alternativo fiable; o una explicación técnica verificable que identifique con claridad la limitación de producto y su tratamiento.
 
@@ -169,6 +184,21 @@ The reply asks KDP to clarify:
 
 Reconciled state:
 
-`AUDIT_PHASE=CLOSED / INCIDENT=OPEN / SUPERVISOR_RESPONSE_RECEIVED / FUNCTIONAL_DESCRIPTION_UNRECONCILED / DUPLICATE_METADATA_REQUESTS_DOCUMENTED / FULL_ASIN_MATRIX_SENT / PRODUCT_LIMITATION_ESCALATION_REQUESTED / AUTHOR_REPLY_SENT_2026-09-27 / WAITING_SUPERVISOR_TECHNICAL_RECONCILIATION`
+`AUDIT_PHASE=CLOSED / INCIDENT=OPEN / SUPERVISOR_RESPONSE_RECEIVED / FUNCTIONAL_DESCRIPTION_UNRECONCILED / DUPLICATE_METADATA_REQUESTS_DOCUMENTED / FULL_ASIN_MATRIX_SENT / PRODUCT_LIMITATION_ESCALATION_REQUESTED / AUTHOR_REPLY_SENT_2026-09-27 / SUPERVISOR_REITERATION_RECEIVED_2026-09-27 / AUTHOR_FOLLOWUP_SENT_2026-09-28 / WAITING_FINAL_CLARIFICATION`
+
+### 7. 28 Sep update · supervisor reiteration and final clarification request
+
+On 27 Sep a further message is received from Haniefa as a continuation of the supervisor response. Its substantive content reiterates that **“books in different languages cannot be linked”**, without individually answering the technical questions previously submitted or explaining the result of the investigation for which the complete matrix had been requested.
+
+On 28 Sep the author replies, recording that this stated position has been noted while requesting two final, narrowly scoped clarifications:
+
+1. if this impossibility is KDP's definitive position, that it be confirmed unequivocally and that KDP state whether the limitation has been registered and escalated to catalogue/product/development;
+2. that KDP communicate the result of the technical investigation for which it requested the complete matrix of the 13 language editions.
+
+The reply includes a direct link to this public audit so KDP can inspect the documentary trace and genealogy without reproducing the entire case history again in the email.
+
+**Gmail traceability:** reply sent on 28 Sep 2026; `message_id=1a0e66e5e2dd6c39`; `thread_id=1a0e50344a451f32`; verified state `SENT`.
+
+The new communication is not treated as material resolution of the issue. The state remains pending those two clarifications or, failing that, an unequivocal final confirmation of the product limitation.
 
 The incident may close when there is materially correct and persistent multilingual association, a reliable alternative mechanism, or a technically verifiable explanation that clearly identifies the product limitation and how it will be handled.
