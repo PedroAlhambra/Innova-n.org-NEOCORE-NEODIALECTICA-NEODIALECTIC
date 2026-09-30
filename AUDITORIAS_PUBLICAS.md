@@ -37,6 +37,9 @@ Las Auditorías Públicas son una **capa principal** del Neodialectica Framework
 
 ## Auditoría reciente / Latest audit
 
+- **[2026-09-30 · LinkedIn · distribución, retorno del tiempo e incentivos / distribution, time return and incentives](./auditorias/publicas/2026-09-30_auditoria_linkedin_distribucion_retorno_tiempo_incentivos_ES_EN.md)** — baseline Metricool de 24 publicaciones, concentración extrema de alcance, hipótesis rivales y contraevidencia; Issue vivo [#203](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/203).
+
+
 - **[2026-09-10 · Addendum X CZUR ET24 Pro · hardware real, instalación dinámica y primera ejecución / real hardware, dynamic install and first runtime](./actualizaciones/2026-09-10_ADDENDUM10_DELTA_CZUR_ET24_PRO_HARDWARE_INSTALL_RUNTIME_ES_EN.md)** — confirma UVC/V4L2 y captura 7424×5568, instalación `dpkg` funcional, ausencia de servicio residente, y confirma como problemas reales de hardening 3.061 entradas world-writable y reglas udev `0666`; primera ejecución funcional provisional, con anomalía aún no caracterizada y egress normal pendiente de atribución.
 - **[2026-09-08 · Delta de síntesis: CZUR ET24 Pro en Linux · UVC funcional y auditoría del software oficial / Synthesis delta: CZUR ET24 Pro on Linux](./actualizaciones/2026-09-08_DELTA_SINTESIS_CZUR_ET24_PRO_LINUX_AUDITORIA_ES_EN.md)** — hardware UVC/V4L2 reproducido en Debian 13; software Linux oficial de CZUR contrastado; instalador propietario abierto a auditoría y endurecimiento.
 - **[2026-09-08 · Addendum I CZUR `czur_create` · análisis estático / static analysis](./actualizaciones/2026-09-08_ADDENDUM_DELTA_CZUR_ET24_PRO_CZUR_CREATE_STATIC_ES_EN.md)** — ELF stripped ejecutado como root por la ruta de instalación; imports `dlopen`/`fork`/`execvp`; módulos Python HTTP/socket embebidos; empaquetado PyInstaller inicialmente clasificado como hipótesis fuerte pendiente de verificación; tráfico de red no demostrado.
