@@ -8,6 +8,18 @@
 > **Los manifiestos formulan arquitectura y principios. Las auditorías muestran qué ocurre cuando esa arquitectura entra en contacto con problemas reales.**  
 > **Manifestos state architecture and principles. Audits show what happens when that architecture meets real problems.**
 
+<!-- NEO_LATEST_AUDIT_START -->
+
+> ## 🗞️ ÚLTIMA AUDITORÍA / LATEST AUDIT
+>
+> **LinkedIn · distribución, retorno del tiempo e incentivos de plataforma / distribution, time return and platform incentives**
+>
+> **30-09-2026 · [Leer auditoría / Read audit](./2026-09-30_auditoria_linkedin_distribucion_retorno_tiempo_incentivos_ES_EN.md) · [Issue vivo / Live issue #203](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/203)**
+>
+> Baseline inicial: 24 publicaciones, distribución altamente concentrada, retorno orgánico típico bajo y ausencia de evidencia actual de supresión coordinada. La auditoría queda abierta a datos que confirmen o contradigan cualquiera de las hipótesis. / Initial baseline: 24 posts, highly concentrated distribution, low typical organic return, and no current evidence of coordinated suppression. The audit remains open to confirming or contradicting evidence.
+
+<!-- NEO_LATEST_AUDIT_END -->
+
 <!-- NEO_LATEST_MANIFESTO_START -->
 
 > ## 🔴 ÚLTIMO MANIFIESTO FINITO ABIERTO A SÍNTESIS / LATEST FINITE MANIFESTO OPEN FOR SYNTHESIS
