@@ -121,6 +121,16 @@ Documentos y síntesis relacionadas:
 
 La auditoría no afirma que los autores hayan liberado una «superinteligencia» ni que SwarmWorld carezca de controles. Distingue la autoorganización sin planificador central de los límites técnicos del simulador y pregunta qué capa externa de custodia debe acompañar una arquitectura transferible a dominios de mayor impacto.
 
+### 8. LinkedIn · distribución · retorno del tiempo · incentivos de plataforma
+
+**Issue vivo:** [#203 · LinkedIn · distribución, retorno de tiempo e incentivos de plataforma](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/203)
+
+- [Auditoría bilingüe LinkedIn](./2026-09-30_auditoria_linkedin_distribucion_retorno_tiempo_incentivos_ES_EN.md)
+
+**Estado:** `BASELINE_METRICOOL_RECUPERADO / DISTRIBUCION_ALTAMENTE_CONCENTRADA / BAJO_RETORNO_TIPICO_PROVISIONAL / SUPRESION_COORDINADA_NO_DEMOSTRADA / AUDITORIA_ABIERTA`.
+
+**Aportes prioritarios:** datos comparables de alcance orgánico, in/out-of-network, exportaciones de campañas y conversiones, series históricas, evidencia de restricciones o reportes coordinados y evidencia que contradiga cualquier hipótesis.
+
 ## Abrir una auditoría nueva
 
 No es necesario que el problema haya sido detectado previamente por Innova_N.
@@ -248,6 +258,16 @@ Related documents and syntheses:
 **Status:** `PRIMARY_SOURCES_VERIFIED / PREPRINT_V1 / OPEN_CODE_AND_DATA / TECHNICAL_CONSTRAINTS_PRESENT / NORMATIVE_CUSTODIANSHIP_LAYER_NOT_IDENTIFIED_IN_REVIEWED_PUBLIC_DOCS / TRANSFER_RISK_OPEN`.
 
 The audit does not claim that the authors released a “superintelligence” or that SwarmWorld lacks controls. It separates self-organisation without a central planner from the simulator's technical constraints and asks which external custodianship layer should accompany an architecture transferable to higher-impact domains.
+
+### 8. LinkedIn · distribution · time return · platform incentives
+
+**Live Issue:** [#203 · LinkedIn · distribution, time return and platform incentives](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/203)
+
+- [Bilingual LinkedIn audit](./2026-09-30_auditoria_linkedin_distribucion_retorno_tiempo_incentivos_ES_EN.md)
+
+**Status:** `METRICOOL_BASELINE_RECOVERED / HIGHLY_CONCENTRATED_DISTRIBUTION / PROVISIONAL_LOW_TYPICAL_RETURN / COORDINATED_SUPPRESSION_NOT_DEMONSTRATED / AUDIT_OPEN`.
+
+**Priority contributions:** comparable organic-reach data, in/out-of-network analytics, campaign and conversion exports, historical series, evidence of restrictions or coordinated reporting, and evidence contradicting any hypothesis.
 
 ## Open a new audit
 
