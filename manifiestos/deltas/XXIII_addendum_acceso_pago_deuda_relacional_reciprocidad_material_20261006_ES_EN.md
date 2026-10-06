@@ -5,10 +5,14 @@
 **Estado / Status:** SÍNTESIS ABIERTA · OPEN SYNTHESIS  
 **Raíz / Root:** [Delta XXIII · Reciprocidad Operativa de Acceso™ y NeoSinergia™](./XXIII_delta_reciprocidad_operativa_acceso_neosinergia_ES_EN.md)  
 **Manifiestos relacionados / Related Manifestos:** [VII · Economía del Aporte](../04_economia_del_aporte_ES_EN.md) · [LXXXIV · Permeabilidad Intelectual del Poder™](../84_intermediacion_acceso_permeabilidad_poder_ES_EN.md)  
-**Neoaxioma relacionado / Related Neoaxiom:** [NAX-08 · Cooperación de Excelencia frente a Competencia Depredadora™](../../neoaxiomas/NAX-08_COOPERACION_EXCELENCIA_COMPETENCIA_DEPREDADORA_ES_EN.md)  
-**Origen humano / Human origin:** Pedro Martínez Alhambra · Neo0™  
+**Neoaxiomas relacionados / Related Neoaxioms:** [NAX-08 · Cooperación de Excelencia frente a Competencia Depredadora™ / Cooperative Excellence against Predatory Competition™](../../neoaxiomas/NAX-08_COOPERACION_EXCELENCIA_COMPETENCIA_DEPREDADORA_ES_EN.md) · [NAX-18 · Motor del Bien Común + NeoSinergia™ / Common-Good Engine + NeoSynergy™](../../neoaxiomas/NAX-18_MOTOR_BIEN_COMUN_NEOSINERGIA_ES_EN.md)  
+**Síntesis específica / Specific synthesis:** [#189 · Reciprocidad Operativa de Acceso™ / Operational Access Reciprocity™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/189)  
+**Síntesis relacionadas / Related syntheses:** [#36 · Economía del Aporte / Contribution Economy](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/36) · [#178 · Permeabilidad Intelectual del Poder / Intellectual Permeability of Power](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/178)  
+**Origen humano / Human origin:** Pedro Martínez Alhambra · Neo0™
 
 > Este addendum formula una estructura general. No constituye una acusación contra ninguna persona, plataforma o modelo empresarial concreto. / This addendum formulates a general structure. It is not an accusation against any specific person, platform or business model.
+
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
 ---
 
@@ -133,6 +137,17 @@ No se trata de abolir el precio. Se trata de impedir que el precio sustituya al 
 - [VII · Economía del Aporte](../04_economia_del_aporte_ES_EN.md): distingue aporte, atención, intermediación y extracción de renta.
 - [LXXXIV · Permeabilidad Intelectual del Poder™](../84_intermediacion_acceso_permeabilidad_poder_ES_EN.md): gatekeepers, pago por intermediación y captura del acceso.
 - [NAX-08 · Cooperación de Excelencia frente a Competencia Depredadora™](../../neoaxiomas/NAX-08_COOPERACION_EXCELENCIA_COMPETENCIA_DEPREDADORA_ES_EN.md): subordina ventaja local a cooperación estructural y Bien Común.
+- [NAX-18 · Motor del Bien Común + NeoSinergia™](../../neoaxiomas/NAX-18_MOTOR_BIEN_COMUN_NEOSINERGIA_ES_EN.md): sitúa la reciprocidad como condición de potencia común, no como contabilidad espejo.
+
+### 9. Síntesis Abierta y trazabilidad
+
+Este addendum continúa la Síntesis del Delta XXIII y conecta la contradicción con las superficies donde ya se estudian Economía del Aporte y permeabilidad del acceso:
+
+- [#189 · Reciprocidad Operativa de Acceso™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/189);
+- [#36 · Economía del Aporte](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/36);
+- [#178 · Permeabilidad Intelectual del Poder™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/178).
+
+Toda contradicción, contraejemplo o mejora debe conservar procedencia, distinguir hechos de inferencias y no convertir un caso particular en acusación general sin evidencia.
 
 **ADDENDUM ≠ CANON CERRADO.** Permanece abierto a contradicción, contraejemplos y revisión SAN™.
 
@@ -180,7 +195,16 @@ MATERIAL CONTRIBUTION ≠ PRAISE DEBT
 
 Reciprocity does not require both parties to spend exactly the same amount of money. It requires that one side not systematically build its position by making the other assume the cost, risk and burden of proving value in advance while retaining only options for itself.
 
-Reciprocity may take different forms depending on the case: real research time, sufficient prior reading, purchasing the work when reasonable, waiving or reducing the paid gate, agreed distribution, reciprocal access to a resource, verifiable editorial or technical work, or another relevant equivalent contribution.
+Reciprocity may take different forms depending on the case:
+
+- real research time;
+- sufficient prior reading;
+- purchasing the work when reasonable;
+- waiving or reducing the paid gate;
+- agreed distribution;
+- reciprocal access to a resource;
+- verifiable editorial or technical work;
+- or another relevant equivalent contribution.
 
 ### 4. Buying or reading never buys an opinion
 
@@ -250,5 +274,16 @@ The aim is not to abolish price. It is to prevent price from replacing mutual re
 - [VII · Contribution Economy](../04_economia_del_aporte_ES_EN.md): contribution, attention, intermediation and rent extraction.
 - [LXXXIV · Intellectual Permeability of Power™](../84_intermediacion_acceso_permeabilidad_poder_ES_EN.md): gatekeepers, paid intermediation and access capture.
 - [NAX-08 · Cooperative Excellence against Predatory Competition™](../../neoaxiomas/NAX-08_COOPERACION_EXCELENCIA_COMPETENCIA_DEPREDADORA_ES_EN.md): local advantage subordinated to structural cooperation and the Common Good.
+- [NAX-18 · Common-Good Engine + NeoSynergy™](../../neoaxiomas/NAX-18_MOTOR_BIEN_COMUN_NEOSINERGIA_ES_EN.md): places reciprocity as a condition of common power rather than mirror accounting.
+
+### 9. Open Synthesis and traceability
+
+This addendum continues the Delta XXIII Synthesis and connects the contradiction with the surfaces where Contribution Economy and permeability of access are already examined:
+
+- [#189 · Operational Access Reciprocity™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/189);
+- [#36 · Contribution Economy](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/36);
+- [#178 · Intellectual Permeability of Power™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/178).
+
+Every contradiction, counterexample or improvement must preserve provenance, distinguish facts from inferences, and avoid turning a particular case into a general accusation without evidence.
 
 **ADDENDUM ≠ CLOSED CANON.** It remains open to contradiction, counterexamples and SAN™ review.
