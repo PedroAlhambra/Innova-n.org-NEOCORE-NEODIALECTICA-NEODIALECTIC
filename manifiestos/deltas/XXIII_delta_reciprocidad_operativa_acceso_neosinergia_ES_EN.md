@@ -4,8 +4,10 @@
 **Fecha / Date:** 2026-09-06  
 **Estado / Status:** SÍNTESIS ABIERTA · OPEN SYNTHESIS  
 **Manifiesto raíz / Root manifesto:** [XXIII · Soberanía del Tiempo Cognitivo™](../23_soberania_tiempo_cognitivo_ES_EN.md)  
-**Neoaxioma relacionado / Related Neoaxiom:** [C-NAX-18 · Motor del Bien Común + NeoSinergia™](../../neoaxiomas/C-NAX-18_MOTOR_BIEN_COMUN_NEOSINERGIA_ES_EN.md)  
+**Neoaxioma vigente relacionado / Related current Neoaxiom:** [NAX-18 · Motor del Bien Común + NeoSinergia™ / Common-Good Engine + NeoSynergy™](../../neoaxiomas/NAX-18_MOTOR_BIEN_COMUN_NEOSINERGIA_ES_EN.md)  
+**Procedencia histórica / Historical provenance:** [C-NAX-18 · Motor del Bien Común + NeoSinergia™ / Common-Good Engine + NeoSynergy™](../../neoaxiomas/C-NAX-18_MOTOR_BIEN_COMUN_NEOSINERGIA_ES_EN.md)  
 **Síntesis específica / Specific synthesis:** [Issue #189](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/189)  
+**Ampliación 2026-10-06 / Expansion 2026-10-06:** [Acceso de Pago, Deuda Relacional y Reciprocidad Material™ / Paid Access, Relational Debt and Material Reciprocity™](./XXIII_addendum_acceso_pago_deuda_relacional_reciprocidad_material_20261006_ES_EN.md)  
 **Origen humano / Human origin:** Pedro Martínez Alhambra · Neo0™
 
 ---
@@ -102,6 +104,7 @@ Esto amplía [C-NAX-29 · Federabilidad sin Absorción™](../../neoaxiomas/C-NA
 - [C-NAX-19 · Inviolabilidad Relacional™](../../neoaxiomas/C-NAX-19_INVIOLABILIDAD_RELACIONAL_SEPARACION_PLANOS_ES_EN.md): `ACCESO ≠ DISPONIBILIDAD`.
 - [C-NAX-29 · Federabilidad sin Absorción™](../../neoaxiomas/C-NAX-29_FEDERABILIDAD_SIN_ABSORCION_ES_EN.md): autonomía material y relaciones entre nodos.
 - [VI · Parasitismo Sistémico](../09_parasitismo_sistemico_ES_EN.md): dependencia, intermediación y extracción.
+- [Addendum 2026-10-06 · Acceso de Pago, Deuda Relacional y Reciprocidad Material™](./XXIII_addendum_acceso_pago_deuda_relacional_reciprocidad_material_20261006_ES_EN.md): amplía la reciprocidad operativa a mercados de acceso de pago y precompromiso asimétrico.
 
 **DELTA ≠ CANON.** Esta extensión permanece abierta a contradicción, contraejemplos y revisión SAN™.
 
@@ -197,5 +200,6 @@ This extends [C-NAX-29 · Federability without Absorption™](../../neoaxiomas/C
 - [C-NAX-19 · Relational Inviolability™](../../neoaxiomas/C-NAX-19_INVIOLABILIDAD_RELACIONAL_SEPARACION_PLANOS_ES_EN.md): `ACCESS ≠ AVAILABILITY`.
 - [C-NAX-29 · Federability without Absorption™](../../neoaxiomas/C-NAX-29_FEDERABILIDAD_SIN_ABSORCION_ES_EN.md): material autonomy and node relations.
 - [VI · Systemic Parasitism](../09_parasitismo_sistemico_ES_EN.md): dependency, intermediation and extraction.
+- [Addendum 2026-10-06 · Paid Access, Relational Debt and Material Reciprocity™](./XXIII_addendum_acceso_pago_deuda_relacional_reciprocidad_material_20261006_ES_EN.md): extends operational reciprocity to paid-access markets and asymmetric pre-commitment.
 
 **DELTA ≠ CANON.** This extension remains open to contradiction, counterexamples and SAN™ review.
