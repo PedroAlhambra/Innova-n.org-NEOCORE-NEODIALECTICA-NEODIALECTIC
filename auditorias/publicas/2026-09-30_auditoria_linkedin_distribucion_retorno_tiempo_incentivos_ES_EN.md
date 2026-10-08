@@ -6,6 +6,8 @@
 **Issue vivo / Live issue:** [#203](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/203)  
 **Método / Method:** Leónidas™ + MAXPROC
 
+[ES · Castellano](#es--objeto) · [EN · English](#en--summary)
+
 ## ES · Objeto
 
 Auditar con datos propios qué alcance obtiene el perfil analizado, qué retorno observable produce LinkedIn frente al volumen de contenido y tiempo invertidos, qué conductas incentiva su arquitectura y qué hipótesis pueden explicar la difusión baja o irregular.
