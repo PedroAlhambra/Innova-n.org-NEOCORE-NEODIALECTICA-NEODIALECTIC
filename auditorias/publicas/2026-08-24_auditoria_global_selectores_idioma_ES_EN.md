@@ -1,8 +1,8 @@
 # Auditoría global de selectores de idioma ES/EN
 # Global ES/EN language-selector audit
 
-**Generada / Generated:** 2026-09-10 22:40 UTC
-**Páginas ES/EN explícitas auditadas / Explicit ES/EN split pages audited:** **485**
+**Generada / Generated:** 2026-10-08 23:29 UTC
+**Páginas ES/EN explícitas auditadas / Explicit ES/EN split pages audited:** **508**
 **Fallos / Failures:** **0**
 **LANGUAGE_SELECTOR_GATE:** **PASS**
 
@@ -20,7 +20,7 @@ Toda superficie Markdown pública y activa que exponga capas explícitas `ES` y 
 
 ## Resultado
 
-- Páginas auditadas: **485**.
+- Páginas auditadas: **508**.
 - Fallos: **0**.
 - Estado: **PASS**.
 
@@ -40,7 +40,7 @@ Every active public Markdown surface exposing explicit `ES` and `EN` layers must
 
 ## Result
 
-- Pages audited: **485**.
+- Pages audited: **508**.
 - Failures: **0**.
 - Status: **PASS**.
 
