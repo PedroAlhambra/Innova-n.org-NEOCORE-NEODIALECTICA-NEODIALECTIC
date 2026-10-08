@@ -86,7 +86,7 @@ PROBLEMA
 - [#146 · quejas sobre IA y arquitectura sociotécnica](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/146)
 - [Recálculo sociotécnico ES/EN](../../analisis/publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md)
 
-**Estado:** Anthropic es el caso de destrucción física verificado en la versión actual. Uso de libros en entrenamiento no se equipara automáticamente a destrucción física.
+**Estado:** Anthropic es el caso de destrucción física verificado en la versión actual. Otros actores se clasifican según el nivel de evidencia. Uso de libros en entrenamiento no se equipara automáticamente a destrucción física.
 
 ### 2.2 · Música digital · DistroKid · Spotify · DSPs
 
@@ -96,18 +96,21 @@ PROBLEMA
 
 **Aportes buscados:** cronologías y pruebas sobre mappings, ISRC/UPC, perfiles mezclados, desapariciones/reapariciones, regalías y soporte. No se solicita adhesión a una acusación.
 
-### 2.3 · Amazon KDP · Author Central · IDEA
+### 2.3 · Amazon KDP · Author Central · IDEA · genealogía 51071689 / 51425188 / 51425302 / 51454599 / 51454627 / 51454666
 
 - [Auditoría indirecta pública](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 - [Caso de éxito operativo provisional](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
-- [Addendum 28-08-2026 · vinculación idioma/formato](./2026-08-28_addendum_kdp_vinculacion_idiomas_formatos_caso_51425302_ES_EN.md)
-- [Addendum 01-09-2026 · contradicción de capacidad](./2026-09-01_addendum_kdp_contradiccion_capacidad_vinculacion_multilingue_caso_51454627_ES_EN.md)
-- [Addendum 14-09-2026 · reconocimiento de corrección](./2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_ES_EN.md)
-- [Addendum 24-09-2026 · matriz ASIN completa](./2026-09-24_addendum_kdp_caso_51454599_matriz_asin_y_escalado_visibilidad_interna_ES_EN.md)
-- [Addendum 27-09-2026 · supervisión y escalado](./2026-09-27_addendum_kdp_caso_51454599_supervision_contradiccion_producto_y_escalado_ES_EN.md)
+- [Addendum 28-08-2026 · vinculación idioma/formato · caso 51425302](./2026-08-28_addendum_kdp_vinculacion_idiomas_formatos_caso_51425302_ES_EN.md)
+- [Addendum 29-08-2026 · asociación multilingüe pendiente](./2026-08-29_addendum_kdp_asociacion_multilingue_caso_51425302_ES_EN.md)
+- [Addendum 29-08-2026 · revisión global aplicada + vía de sinergias](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md)
+- [Auditoría 30-08-2026 · verificación intermedia durante propagación · caso 51454627](../2026-08-30_KDP_IDEA_VINCULACION_IDIOMAS_FORMATOS.md)
+- **[Addendum 01-09-2026 · actuación multilingüe demostrada/declarada, ventana de 7 días y contradicción posterior de capacidad](./2026-09-01_addendum_kdp_contradiccion_capacidad_vinculacion_multilingue_caso_51454627_ES_EN.md)**
+- **[Addendum 14-09-2026 · caso 51454599 · reconocimiento de corrección y verificación multilingüe](./2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_ES_EN.md)**
+- **[Addendum 24-09-2026 · caso 51454599 · matriz ASIN completa y escalado de visibilidad interna](./2026-09-24_addendum_kdp_caso_51454599_matriz_asin_y_escalado_visibilidad_interna_ES_EN.md)**
+- **[Addendum 27-09-2026 · caso 51454599 · supervisión, reconciliación funcional y escalado de producto](./2026-09-27_addendum_kdp_caso_51454599_supervision_contradiccion_producto_y_escalado_ES_EN.md)**
 - [#70 · aportes, pruebas y contactos de sinergia](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)
 
-**Estado:** la fase de auditoría/documentación está cerrada; la incidencia material multilingüe permanece abierta. El 24-09 se entregó la matriz de **13 idiomas y 36 formatos/ASIN**; el 26-09 respondió una supervisora de KDP; el 27-09 se solicitó reconciliación técnica y escalado de producto; el 28-09 se pidió aclaración final. Ver [registro de Issues](./ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md) para el estado detallado.
+**Estado:** KDP ha reconocido la corrección del enlace incorrecto entre formatos y ha agradecido expresamente la documentación aportada. La fase de auditoría/documentación queda cerrada; la incidencia material multilingüe sigue abierta. Tras solicitudes de KDP de 21 y 23/09, el 24/09 se entregó la matriz completa de **13 idiomas y 36 formatos/ASIN**. El 26/09 Haniefa se identificó como supervisora de KDP y comunicó a la vez que no pueden vincular los 13 idiomas en una misma página y que el sistema los mantiene enlazados por coincidencia de autor/título. El 27/09 se respondió solicitando reconciliación técnica; posteriormente Haniefa reiteró únicamente que **«No se pueden vincular libros en diferentes idiomas»**. El 28/09 se envió un seguimiento final solicitando dos aclaraciones acotadas: confirmación inequívoca de la posición/limitación de producto y resultado de la investigación técnica para la que KDP pidió la matriz completa. Estado actual: `SUPERVISOR_RESPONSE_RECEIVED / SUPERVISOR_REITERATION_RECEIVED_2026-09-27 / AUTHOR_FOLLOWUP_SENT_2026-09-28 / FUNCTIONAL_DESCRIPTION_UNRECONCILED / PRODUCT_LIMITATION_ESCALATION_REQUESTED / WAITING_FINAL_CLARIFICATION / INCIDENT_OPEN`. El cierre definitivo exige verificación material, correcta y persistente, un mecanismo alternativo fiable o una explicación técnica verificable de la limitación y su tratamiento.
 
 ### 2.4 · Integridad del repositorio · Wiki · READMEs · automatizaciones
 
@@ -122,48 +125,48 @@ Se aceptan pruebas de enlaces rotos, archivos huérfanos, estados obsoletos, nav
 - [Auditoría del Fundador™](./2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md)
 - [#68 · Síntesis Abierta](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/68)
 
-La dependencia del marco respecto de Neo0™, la carga de creación/mantenimiento y la conducta del fundador permanecen abiertas a crítica y corrección.
+La dependencia del marco respecto de Neo0™, la carga de creación y mantenimiento y la conducta del fundador permanecen abiertas a crítica y corrección.
 
 ### 2.6 · IA · matemáticas · control humano · resolver ≠ comprender
 
 - [Auditoría pública IA, matemáticas y control humano](./2026-09-13_auditoria_ia_matematicas_control_humano_sintesis_ES_EN.md)
 - [#199 · Síntesis Abierta](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/199)
 
-**Estado:** síntesis provisional y reabrible. `RESOLVER ≠ COMPRENDER` y `HUMANO EN EL BUCLE ≠ CONTROL MATERIAL` permanecen como hipótesis sometidas a evidencia.
+**Estado:** síntesis provisional y reabrible. Se contrastan la crítica al uso de problemas abiertos como benchmark, la respuesta de los organizadores del Mathathon y el riesgo de control humano aparente por saturación. `RESOLVER ≠ COMPRENDER` y `HUMANO EN EL BUCLE ≠ CONTROL MATERIAL` permanecen como hipótesis arquitectónicas sometidas a evidencia.
 
 ### 2.7 · HAA · educación AI-native · convergencia y posible apropiación fragmentaria
 
 - [Auditoría pública bilingüe](./2026-09-23_auditoria_haa_convergencia_educativa_apropiacion_fragmentaria_ES_EN.md)
-- [#200 · HAA · convergencia educativa](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/200)
+- [#200 · HAA · convergencia educativa y posible apropiación fragmentaria](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/200)
 
-**Estado:** `E2 · correspondencia sistémica + precedencia documental Innova_N`. E2 no significa copia; E3–E5 requieren evidencia adicional.
+**Estado:** `E2 · correspondencia sistémica + precedencia documental Innova_N`. E2 no significa copia: E3–E5 requieren evidencia adicional de acceso, derivación o apropiación.
 
 ### 2.8 · SwarmWorld · convergencia NAX-02 multicabeza, aplicación y custodia
 
 - [Auditoría pública bilingüe](./2026-09-24_auditoria_swarmworld_bucles_emergencia_custodia_ES_EN.md)
-- [#201 · SwarmWorld · NAX-02 multicabeza](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/201)
+- [#201 · SwarmWorld · bucles emergentes, estigmergia y capa de custodia](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/201)
 
-**Estado:** síntesis provisional y reabrible. Precedencia pública de NAX-02 documentada antes de la aparición pública del preprint; acceso/copia/derivación no demostrados.
+**Estado:** síntesis provisional y reabrible. Se fija **precedencia documental pública de NAX-02 el 09-08-2026** frente a la aparición pública del preprint SwarmWorld el 26-08-2026, sin inferir copia o acceso. El caso se clasifica como **CONV-ND fuerte**, se incorpora como línea experimental directa para la multicabeza y se distingue control técnico de marco teleológico/custodia.
 
-### 2.9 · LinkedIn · distribución, retorno del tiempo e incentivos de plataforma
+### 2.9 · LinkedIn · distribución · retorno del tiempo · incentivos de plataforma
 
 - [Auditoría pública bilingüe](./2026-09-30_auditoria_linkedin_distribucion_retorno_tiempo_incentivos_ES_EN.md)
-- [#203 · LinkedIn · distribución y retorno](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/203)
+- [#203 · LinkedIn · distribución, retorno de tiempo e incentivos de plataforma](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/203)
 
-**Estado:** baseline Metricool recuperado, distribución altamente concentrada, retorno típico provisional bajo y supresión coordinada no demostrada.
+**Estado:** baseline inicial de 24 publicaciones entre 12-07-2026 y 25-09-2026 recuperado mediante Metricool; distribución altamente concentrada, retorno orgánico típico bajo y ausencia de evidencia actual de supresión coordinada. La auditoría permanece abierta a evidencia confirmatoria y contradictoria.
 
 ### 2.10 · Manifiesto de Madrid · IA responsable · convergencia y trazabilidad de contacto
 
 - **[Auditoría pública bilingüe](./2026-10-09_auditoria_manifiesto_madrid_ia_responsable_convergencia_trazabilidad_contacto_ES_EN.md)**
-- **[#206 · Manifiesto de Madrid 2026](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/206)**
+- **[#206 · Manifiesto de Madrid 2026 · convergencia y trazabilidad de contacto](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/206)**
 
 **Estado:** `E2 + TRAZA-DE-CONTACTO / CONV-ND_STRONG`. Existe correspondencia sistémica, precedencia pública respecto de la publicación y 4/11 firmantes con envío directo previo localizado. Lectura, acceso material, transmisión interna, influencia y derivación permanecen sin demostrar.
 
 ## 3 · Abrir una Auditoría Pública
 
-Innova_N no necesita detectar un problema primero. Una auditoría pública puede proponerse mediante la plantilla GitHub **`Auditoría Pública · aporte o nueva propuesta`**.
+No es necesario que Innova_N haya detectado primero el problema. Puede proponerse una auditoría mediante la plantilla GitHub **`Auditoría Pública · aporte o nueva propuesta`**.
 
-Cuando sea posible, la propuesta debe identificar objeto, qué ocurrió, qué se sabe, qué se desconoce, evidencia existente, evidencia que podría contradecir la hipótesis, reparación solicitada y datos que no deberían publicarse.
+La propuesta debe indicar, cuando sea posible: objeto, qué ocurrió, qué se sabe, qué no se sabe, pruebas existentes, evidencia que podría contradecir la hipótesis, reparación buscada y datos que no deben publicarse.
 
 - [Aportar pruebas o abrir auditoría](./APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md)
 - [Registro de Issues](./ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md)
@@ -211,7 +214,7 @@ PROBLEM
 - [#146 · AI complaints and sociotechnical architecture](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/146)
 - [ES/EN sociotechnical recalculation](../../analisis/publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md)
 
-**Status:** Anthropic is the verified physical-destruction case in the current version. Use of books in training is not automatically equated with physical destruction.
+**Status:** Anthropic is the verified physical-destruction case in the current version. Other actors are classified according to evidence level. Use of books in training is not automatically equated with physical destruction.
 
 ### 2.2 · Digital music · DistroKid · Spotify · DSPs
 
@@ -221,22 +224,25 @@ PROBLEM
 
 **Contributions sought:** timelines and evidence concerning mappings, ISRC/UPC, mixed profiles, disappearances/reappearances, royalties and support. Endorsement of an allegation is not requested.
 
-### 2.3 · Amazon KDP · Author Central · IDEA
+### 2.3 · Amazon KDP · Author Central · IDEA · genealogy 51071689 / 51425188 / 51425302 / 51454599 / 51454627 / 51454666
 
 - [Public indirect audit](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 - [Provisional operational success case](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
-- [28 Aug 2026 · language/format linking](./2026-08-28_addendum_kdp_vinculacion_idiomas_formatos_caso_51425302_ES_EN.md)
-- [1 Sep 2026 · capability contradiction](./2026-09-01_addendum_kdp_contradiccion_capacidad_vinculacion_multilingue_caso_51454627_ES_EN.md)
-- [14 Sep 2026 · correction acknowledgement](./2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_ES_EN.md)
-- [24 Sep 2026 · complete ASIN matrix](./2026-09-24_addendum_kdp_caso_51454599_matriz_asin_y_escalado_visibilidad_interna_ES_EN.md)
-- [27 Sep 2026 · supervisor review and escalation](./2026-09-27_addendum_kdp_caso_51454599_supervision_contradiccion_producto_y_escalado_ES_EN.md)
+- [28 Aug 2026 addendum · language/format linking · case 51425302](./2026-08-28_addendum_kdp_vinculacion_idiomas_formatos_caso_51425302_ES_EN.md)
+- [29 Aug 2026 addendum · multilingual association pending](./2026-08-29_addendum_kdp_asociacion_multilingue_caso_51425302_ES_EN.md)
+- [29 Aug 2026 addendum · global review applied + synergy route](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md)
+- [30 Aug 2026 audit · interim verification during propagation · case 51454627](../2026-08-30_KDP_IDEA_VINCULACION_IDIOMAS_FORMATOS.md)
+- **[1 Sep 2026 addendum · demonstrated/declared multilingual action, seven-day window and later capability contradiction](./2026-09-01_addendum_kdp_contradiccion_capacidad_vinculacion_multilingue_caso_51454627_ES_EN.md)**
+- **[14 Sep 2026 addendum · case 51454599 · correction acknowledgement and multilingual verification](./2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_ES_EN.md)**
+- **[24 Sep 2026 addendum · case 51454599 · complete ASIN matrix and internal-visibility escalation](./2026-09-24_addendum_kdp_caso_51454599_matriz_asin_y_escalado_visibilidad_interna_ES_EN.md)**
+- **[27 Sep 2026 addendum · case 51454599 · supervision, functional reconciliation and product escalation](./2026-09-27_addendum_kdp_caso_51454599_supervision_contradiccion_producto_y_escalado_ES_EN.md)**
 - [#70 · contributions, evidence and synergy contacts](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)
 
-**Status:** the audit/documentation phase is closed; the material multilingual incident remains open. On 24 Sep the **13-language / 36-format-ASIN** matrix was supplied; a KDP supervisor responded on 26 Sep; technical reconciliation/product escalation was requested on 27 Sep; final clarification was requested on 28 Sep. See the [Issues register](./ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md) for detailed state.
+**Status:** KDP acknowledged correction of the incorrect format link and expressly thanked the documentation supplied. The audit/documentation phase is closed; the material multilingual incident remains open. Following KDP requests on 21 and 23 Sep, the complete matrix of **13 languages and 36 formats/ASINs** was provided on 24 Sep. On 26 Sep Haniefa identified herself as a KDP supervisor and stated both that the 13 languages cannot be linked on one page and that the system keeps them linked through matching author/title metadata. On 27 Sep a reply requested technical reconciliation; Haniefa later reiterated only that **“Books in different languages cannot be linked.”** On 28 Sep a final follow-up requested two bounded clarifications: unequivocal confirmation of the product position/limitation and the result of the technical investigation for which KDP requested the complete matrix. Current state: `SUPERVISOR_RESPONSE_RECEIVED / SUPERVISOR_REITERATION_RECEIVED_2026-09-27 / AUTHOR_FOLLOWUP_SENT_2026-09-28 / FUNCTIONAL_DESCRIPTION_UNRECONCILED / PRODUCT_LIMITATION_ESCALATION_REQUESTED / WAITING_FINAL_CLARIFICATION / INCIDENT_OPEN`. Final closure requires material, correct and persistent verification, a reliable alternative mechanism or a technically verifiable explanation of the limitation and its treatment.
 
 ### 2.4 · Repository integrity · Wiki · READMEs · automations
 
-- [#71 · documentary-system integrity](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/71)
+- [#71 · documentary system integrity](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/71)
 - [Global ES/EN symmetry audit](./2026-08-12_auditoria_global_simetria_ES_EN.md)
 - [Relational audit of manifestos, neoaxioms and publications](./2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md)
 
@@ -247,40 +253,40 @@ Evidence of broken links, orphan files, stale states, asymmetric navigation, Wik
 - [Founder Audit™](./2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md)
 - [#68 · Open Synthesis](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/68)
 
-The framework's dependency on Neo0™, the creation/maintenance burden and founder conduct remain open to criticism and correction.
+The framework's dependency on Neo0™, the creation and maintenance burden and the founder's conduct remain open to criticism and correction.
 
 ### 2.6 · AI · mathematics · human control · solving ≠ understanding
 
 - [Public audit · AI, mathematics and human control](./2026-09-13_auditoria_ia_matematicas_control_humano_sintesis_ES_EN.md)
 - [#199 · Open Synthesis](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/199)
 
-**Status:** provisional and reopenable synthesis. `SOLVING ≠ UNDERSTANDING` and `HUMAN IN THE LOOP ≠ MATERIAL CONTROL` remain hypotheses open to evidence.
+**Status:** provisional and reopenable synthesis. It contrasts criticism of open problems as benchmarks, the Mathathon organisers' response and the risk of apparent human control under review saturation. `SOLVING ≠ UNDERSTANDING` and `HUMAN IN THE LOOP ≠ MATERIAL CONTROL` remain architectural hypotheses open to evidence.
 
 ### 2.7 · HAA · AI-native education · convergence and possible fragmented appropriation
 
 - [Bilingual public audit](./2026-09-23_auditoria_haa_convergencia_educativa_apropiacion_fragmentaria_ES_EN.md)
-- [#200 · HAA · educational convergence](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/200)
+- [#200 · HAA · educational convergence and possible fragmented appropriation](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/200)
 
-**Status:** `E2 · systemic correspondence + documented Innova_N precedence`. E2 does not mean copying; E3–E5 require additional evidence.
+**Status:** `E2 · systemic correspondence + documented Innova_N precedence`. E2 does not mean copying; E3–E5 require additional evidence of access, derivation or appropriation.
 
 ### 2.8 · SwarmWorld · NAX-02 multihead convergence, application and custodianship
 
 - [Bilingual public audit](./2026-09-24_auditoria_swarmworld_bucles_emergencia_custodia_ES_EN.md)
-- [#201 · SwarmWorld · NAX-02 multihead](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/201)
+- [#201 · SwarmWorld · emergent loops, stigmergy and custodianship layer](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/201)
 
-**Status:** provisional and reopenable synthesis. NAX-02 public precedence is documented before public appearance of the preprint; access/copying/derivation remain unproven.
+**Status:** provisional and reopenable synthesis. **NAX-02 public documentary precedence is fixed at 9 Aug 2026**, before SwarmWorld's public preprint appearance on 26 Aug 2026, without inferring copying or access. The case is classified as **strong CONV-ND**, incorporated as a direct experimental line for multihead architecture, and distinguishes technical control from teleological framework/custodianship.
 
-### 2.9 · LinkedIn · distribution, time return and platform incentives
+### 2.9 · LinkedIn · distribution · time return · platform incentives
 
 - [Bilingual public audit](./2026-09-30_auditoria_linkedin_distribucion_retorno_tiempo_incentivos_ES_EN.md)
-- [#203 · LinkedIn · distribution and return](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/203)
+- [#203 · LinkedIn · distribution, time return and platform incentives](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/203)
 
-**Status:** Metricool baseline recovered, highly concentrated distribution, provisional low typical return and coordinated suppression not demonstrated.
+**Status:** initial baseline of 24 posts from 12 Jul 2026 to 25 Sep 2026 recovered through Metricool; highly concentrated distribution, low typical organic return and no current evidence of coordinated suppression. The audit remains open to confirming and contradictory evidence.
 
 ### 2.10 · Madrid Manifesto · responsible AI · convergence and contact traceability
 
 - **[Bilingual public audit](./2026-10-09_auditoria_manifiesto_madrid_ia_responsable_convergencia_trazabilidad_contacto_ES_EN.md)**
-- **[#206 · Madrid Manifesto 2026](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/206)**
+- **[#206 · Madrid Manifesto 2026 · convergence and contact traceability](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/206)**
 
 **Status:** `E2 + CONTACT TRACE / CONV-ND_STRONG`. Systemic correspondence, public precedence relative to publication and prior direct sent contact to 4/11 signatories are documented. Reading, material access, internal transmission, influence and derivation remain unproven.
 
@@ -288,7 +294,7 @@ The framework's dependency on Neo0™, the creation/maintenance burden and found
 
 Innova_N does not need to detect a problem first. A public audit can be proposed through the GitHub template **`Public Audit · contribution or new proposal`**.
 
-Where possible, proposals should identify the object, what happened, what is known, what is unknown, existing evidence, evidence that could contradict the hypothesis, requested repair and information that should not be published.
+Where possible, proposals should identify the object, what happened, what is known, what is unknown, existing evidence, evidence that could contradict the hypothesis, the requested repair and information that should not be published.
 
 - [Contribute evidence or open an audit](./APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md)
 - [Issues register](./ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md)
