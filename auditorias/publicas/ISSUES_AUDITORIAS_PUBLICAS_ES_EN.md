@@ -1,7 +1,7 @@
 # Issues de Auditorías Públicas · Leónidas™
 # Public Audit Issues · Leónidas™
 
-**Fecha / Date:** 2026-09-01  
+**Fecha / Date:** 2026-10-09  
 **Función / Function:** asegurar que cada familia de Auditoría Pública tenga un espacio visible para añadir pruebas, refutaciones, casos comparables y propuestas de reparación. / Ensure that each Public Audit family has a visible space for adding evidence, refutations, comparable cases and repair proposals.
 
 [ES · Castellano](#es--registro-operativo) · [EN · English](#en--operational-register)
@@ -27,7 +27,7 @@ Documentos principales:
 ### 2. Amazon KDP · Author Central · IDEA · genealogía 51071689 → 51425188 → 51425302 → {51454599 ↔ 51454627}
 
 **Issue vivo:** [#70 · KDP / Author Central / IDEA · aportes y pruebas](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)  
-**Mapa genealógico:** **[KDP · IDEA · casos → documentos → Issue → deltas/commits → verificación](./KDP_IDEA_GENEALOGIA_TRAZABLE_CASOS_ISSUES_DELTAS_ES_EN.md)**
+**Mapa genealógico:** [KDP · IDEA · casos → documentos → Issue → deltas/commits → verificación](./KDP_IDEA_GENEALOGIA_TRAZABLE_CASOS_ISSUES_DELTAS_ES_EN.md)
 
 Cadena principal:
 
@@ -52,21 +52,19 @@ Documentos principales, en orden genealógico:
 - [Reapertura del caso 51071689](./2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md)
 - [Respuesta KDP sobre cambios sin publicar · caso 51071689](./2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md)
 - [Estrategia de keywords y ediciones multilingües · caso 51071689](./2026-08-08_addendum_kdp_estrategia_keywords_ediciones_multilingues_51071689_ES_EN.md)
-- [Regresión ES/EN + matriz idioma × formato · caso 51071689 · 26–27-08](./2026-08-26_addendum_kdp_vinculacion_cruzada_es_en_formatos_51071689_ES_EN.md)
-- [Vinculación idioma/formato · caso 51425302 · 28-08](./2026-08-28_addendum_kdp_vinculacion_idiomas_formatos_caso_51425302_ES_EN.md)
-- [Asociación multilingüe pendiente · caso 51425302 · 29-08](./2026-08-29_addendum_kdp_asociacion_multilingue_caso_51425302_ES_EN.md)
-- [Verificación intermedia de propagación · caso 51454627 · 30-08](../2026-08-30_KDP_IDEA_VINCULACION_IDIOMAS_FORMATOS.md)
-- [Revisión global declarada aplicada · casos 51454627 / 51454666 · 29-08](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md)
-- [Regresión + contradicción de capacidad/proceso · caso 51454627 · 01-09](./2026-09-01_addendum_kdp_contradiccion_capacidad_vinculacion_multilingue_caso_51454627_ES_EN.md)
-- [Reconocimiento de corrección + verificación multilingüe · caso 51454599 · 14-09](./2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_ES_EN.md)
-- [Matriz ASIN completa + escalado de visibilidad interna · caso 51454599 · 24-09](./2026-09-24_addendum_kdp_caso_51454599_matriz_asin_y_escalado_visibilidad_interna_ES_EN.md)
-- [Supervisión + reconciliación funcional + escalado de producto · caso 51454599 · 27-09](./2026-09-27_addendum_kdp_caso_51454599_supervision_contradiccion_producto_y_escalado_ES_EN.md)
+- [Regresión ES/EN + matriz idioma × formato · 26–27-08](./2026-08-26_addendum_kdp_vinculacion_cruzada_es_en_formatos_51071689_ES_EN.md)
+- [Vinculación idioma/formato · 28-08](./2026-08-28_addendum_kdp_vinculacion_idiomas_formatos_caso_51425302_ES_EN.md)
+- [Asociación multilingüe pendiente · 29-08](./2026-08-29_addendum_kdp_asociacion_multilingue_caso_51425302_ES_EN.md)
+- [Verificación intermedia de propagación · 30-08](../2026-08-30_KDP_IDEA_VINCULACION_IDIOMAS_FORMATOS.md)
+- [Revisión global declarada aplicada · 29-08](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md)
+- [Regresión + contradicción de capacidad/proceso · 01-09](./2026-09-01_addendum_kdp_contradiccion_capacidad_vinculacion_multilingue_caso_51454627_ES_EN.md)
+- [Reconocimiento de corrección + verificación multilingüe · 14-09](./2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_ES_EN.md)
+- [Matriz ASIN completa + escalado de visibilidad interna · 24-09](./2026-09-24_addendum_kdp_caso_51454599_matriz_asin_y_escalado_visibilidad_interna_ES_EN.md)
+- [Supervisión + reconciliación funcional + escalado de producto · 27-09](./2026-09-27_addendum_kdp_caso_51454599_supervision_contradiccion_producto_y_escalado_ES_EN.md)
 
-**Nota sobre `51454599`:** la incidencia material sigue abierta. El 24-09, tras peticiones reiteradas de KDP, se entregó la matriz completa de **13 idiomas y 36 ediciones/formato con ASIN propio**. El 26-09 Haniefa se identificó como supervisora de KDP y comunicó una descripción funcional que requiere reconciliarse con el estado público y con la verificación previa de Sameer. El 27-09 se respondió solicitando esa reconciliación, el resultado de la investigación para la que se pidió dos veces la matriz y escalado formal de producto si la limitación es estructural. Posteriormente Haniefa reiteró únicamente que **«No se pueden vincular libros en diferentes idiomas»**. El 28-09 se envió seguimiento final solicitando confirmación inequívoca de esa posición/limitación de producto y el resultado de la investigación técnica.
+**Nota sobre `51454599`:** la incidencia material sigue abierta. El 24-09 se entregó la matriz completa de **13 idiomas y 36 ediciones/formato con ASIN propio**. El 26-09 Haniefa se identificó como supervisora de KDP. El 27-09 se solicitó reconciliación, resultado de investigación y escalado formal de producto; posteriormente reiteró que no pueden vincular libros en distintos idiomas. El 28-09 se pidió una aclaración final inequívoca y el resultado de la investigación técnica.
 
-**Estado vivo:** `AUDIT_PHASE=CLOSED / INCIDENT=OPEN / FORMAT_LINK_CORRECTION_ACKNOWLEDGED / MULTILINGUAL_ASSOCIATION=OPEN / FULL_ASIN_MATRIX_SENT / SUPERVISOR_RESPONSE_RECEIVED / FUNCTIONAL_DESCRIPTION_UNRECONCILED / DUPLICATE_METADATA_REQUESTS_DOCUMENTED / PRODUCT_LIMITATION_ESCALATION_REQUESTED / AUTHOR_REPLY_SENT_2026-09-27 / SUPERVISOR_REITERATION_RECEIVED_2026-09-27 / AUTHOR_FOLLOWUP_SENT_2026-09-28 / WAITING_FINAL_CLARIFICATION`.
-
-**Regla:** `NUEVA_TRAZA != ESTADO_RECONCILIADO`. Cada nueva traza debe enlazar caso, documento, Issue, delta/commit y condición de cierre/reapertura.
+**Estado vivo:** `AUDIT_PHASE=CLOSED / INCIDENT=OPEN / FORMAT_LINK_CORRECTION_ACKNOWLEDGED / MULTILINGUAL_ASSOCIATION=OPEN / FULL_ASIN_MATRIX_SENT / SUPERVISOR_RESPONSE_RECEIVED / FUNCTIONAL_DESCRIPTION_UNRECONCILED / PRODUCT_LIMITATION_ESCALATION_REQUESTED / AUTHOR_FOLLOWUP_SENT_2026-09-28 / WAITING_FINAL_CLARIFICATION`.
 
 ### 3. Integridad del repositorio · Wiki · READMEs · automatizaciones
 
@@ -91,17 +89,11 @@ Agrupa auditorías técnicas y postchecks de:
 
 **Issue principal:** [#144 · Auditoría Pública · IA, escaneo destructivo y destrucción de libros](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/144)
 
-Documentos y síntesis relacionadas:
-
 - [Auditoría bilingüe principal](./2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md)
 - [#145 · Bibliotecas, preservación y entrenamiento de IA desde cero](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/145)
-- [#146 · Quejas sobre IA actual, arquitectura sociotécnica y herencia pre-neodialéctica](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/146)
-- [Recalculo sociotécnico ES/EN](../../analisis/publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md)
-- [Caso previo · Anthropic, gobernanza de IA y problema del marco](../../analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
+- [#146 · Quejas sobre IA actual y arquitectura sociotécnica](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/146)
+- [Recálculo sociotécnico ES/EN](../../analisis/publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md)
 - [#143 · Convergencia neodialéctica institucional](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/143)
-
-**Aportes prioritarios:** fuentes judiciales y empresariales primarias, cadena de proveedores, trazabilidad de compradores, contraevidencia, políticas de adquisición de datos, ejemplos de digitalización no destructiva y evidencia que permita distinguir uso de libros de destrucción física.
-
 
 ### 6. HAA · educación AI-native · convergencia y posible apropiación fragmentaria
 
@@ -109,17 +101,15 @@ Documentos y síntesis relacionadas:
 
 - [Auditoría bilingüe HAA](./2026-09-23_auditoria_haa_convergencia_educativa_apropiacion_fragmentaria_ES_EN.md)
 
-**Estado:** `E2 · correspondencia sistémica + precedencia documental Innova_N`. E2 no significa copia: E3–E5 requieren evidencia adicional de acceso, derivación o apropiación.
+**Estado:** `E2 · correspondencia sistémica + precedencia documental Innova_N`. E2 no significa copia: E3–E5 requieren evidencia adicional.
 
 ### 7. SwarmWorld · convergencia multicabeza NAX-02 · aplicación y custodia
 
-**Issue vivo:** [#201 · SwarmWorld · bucles emergentes, estigmergia y capa de custodia](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/201)
+**Issue vivo:** [#201 · SwarmWorld · NAX-02 multicabeza, aplicación y custodia](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/201)
 
 - [Auditoría bilingüe SwarmWorld](./2026-09-24_auditoria_swarmworld_bucles_emergencia_custodia_ES_EN.md)
 
-**Estado:** `PRIMARY_SOURCES_VERIFIED / PREPRINT_V1 / OPEN_CODE_AND_DATA / TECHNICAL_CONSTRAINTS_PRESENT / NORMATIVE_CUSTODIANSHIP_LAYER_NOT_IDENTIFIED_IN_REVIEWED_PUBLIC_DOCS / TRANSFER_RISK_OPEN`.
-
-La auditoría no afirma que los autores hayan liberado una «superinteligencia» ni que SwarmWorld carezca de controles. Distingue la autoorganización sin planificador central de los límites técnicos del simulador y pregunta qué capa externa de custodia debe acompañar una arquitectura transferible a dominios de mayor impacto.
+**Estado:** precedencia pública de NAX-02 documentada; controles técnicos del simulador reconocidos; acceso, copia y derivación no demostrados.
 
 ### 8. LinkedIn · distribución · retorno del tiempo · incentivos de plataforma
 
@@ -129,7 +119,15 @@ La auditoría no afirma que los autores hayan liberado una «superinteligencia»
 
 **Estado:** `BASELINE_METRICOOL_RECUPERADO / DISTRIBUCION_ALTAMENTE_CONCENTRADA / BAJO_RETORNO_TIPICO_PROVISIONAL / SUPRESION_COORDINADA_NO_DEMOSTRADA / AUDITORIA_ABIERTA`.
 
-**Aportes prioritarios:** datos comparables de alcance orgánico, in/out-of-network, exportaciones de campañas y conversiones, series históricas, evidencia de restricciones o reportes coordinados y evidencia que contradiga cualquier hipótesis.
+### 9. Manifiesto de Madrid · IA responsable · convergencia y trazabilidad de contacto
+
+**Issue vivo:** [#206 · Manifiesto de Madrid 2026 · convergencia y trazabilidad de contacto](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/206)
+
+- [Auditoría bilingüe Manifiesto de Madrid](./2026-10-09_auditoria_manifiesto_madrid_ia_responsable_convergencia_trazabilidad_contacto_ES_EN.md)
+
+**Estado:** `E2 + TRAZA-DE-CONTACTO / CONV-ND_STRONG / DIRECT_OUTREACH_TO_4_OF_11_SIGNATORIES_DOCUMENTED / READ_RECEIPT_UNPROVEN / INTERNAL_TRANSMISSION_UNPROVEN / DERIVATION_UNPROVEN`.
+
+**Aportes prioritarios:** borradores/minutas previos del Consejo, versiones intermedias, publicaciones anteriores de los firmantes, confirmaciones de acceso/lectura, referencias internas, evidencia de transmisión y contraevidencia que reduzca la hipótesis.
 
 ## Abrir una auditoría nueva
 
@@ -153,19 +151,19 @@ Usa la plantilla GitHub **`Auditoría Pública · aporte o nueva propuesta`** y 
 Main documents:
 
 - [External audit of streaming, distributors, metadata and royalties](./2026-08-08_auditoria_externa_streaming_distribuidores_metadatos_regalias_ES_EN.md)
-- [Event-Reflection · DistroKid Audit](../../analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md)
+- [Mirror Event · DistroKid Audit](../../analisis/2025-12_Evento-Reflejo_Auditoria-Distrokid.md)
 - [DistroKid–Spotify update](../../analisis/2026-08-04_Actualizacion_Auditoria-DistroKid-Spotify.md)
 - [Traceability and royalties update](../../analisis/publicos/2026-08-06_actualizacion_spotify_distrokid_trazabilidad_regalias_ES_EN.md)
 - [Circular closure and escalation](../../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md)
-- [Ticket 4499471 · non-resolutive response](../../analisis/publicos/2026-08-08_distrokid_ticket_4499471_respuesta_no_resolutiva_y_reiteracion_auditoria_ES_EN.md)
-- [Apple Music addendum · removed/added catalogue](../../analisis/publicos/2026-08-08_addendum_distrokid_catalogo_album_removed_added_apple_music_ES_EN.md)
+- [Ticket 4499471 · non-resolutive reply](../../analisis/publicos/2026-08-08_distrokid_ticket_4499471_respuesta_no_resolutiva_y_reiteracion_auditoria_ES_EN.md)
+- [Apple Music addendum · catalogue removed/added](../../analisis/publicos/2026-08-08_addendum_distrokid_catalogo_album_removed_added_apple_music_ES_EN.md)
 
 **Priority contributions:** musicians, labels, producers, metadata technicians, distributors and DSPs with comparable cases and verifiable evidence.
 
 ### 2. Amazon KDP · Author Central · IDEA · genealogy 51071689 → 51425188 → 51425302 → {51454599 ↔ 51454627}
 
 **Live Issue:** [#70 · KDP / Author Central / IDEA · contributions and evidence](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70)  
-**Genealogy map:** **[KDP · IDEA · cases → documents → Issue → deltas/commits → verification](./KDP_IDEA_GENEALOGIA_TRAZABLE_CASOS_ISSUES_DELTAS_ES_EN.md)**
+**Genealogical map:** [KDP · IDEA · cases → documents → Issue → deltas/commits → verification](./KDP_IDEA_GENEALOGIA_TRAZABLE_CASOS_ISSUES_DELTAS_ES_EN.md)
 
 Main chain:
 
@@ -189,22 +187,20 @@ Main documents in genealogical order:
 - [Provisional operational milestone · case 51071689](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
 - [Reopening case 51071689](./2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md)
 - [KDP response on unpublished changes · case 51071689](./2026-08-08_addendum_kdp_respuesta_cambios_sin_publicar_51071689_ES_EN.md)
-- [Keywords and multilingual-edition strategy · case 51071689](./2026-08-08_addendum_kdp_estrategia_keywords_ediciones_multilingues_51071689_ES_EN.md)
-- [ES/EN regression + language × format matrix · case 51071689 · 26–27 Aug](./2026-08-26_addendum_kdp_vinculacion_cruzada_es_en_formatos_51071689_ES_EN.md)
-- [Language/format linking · case 51425302 · 28 Aug](./2026-08-28_addendum_kdp_vinculacion_idiomas_formatos_caso_51425302_ES_EN.md)
-- [Multilingual association pending · case 51425302 · 29 Aug](./2026-08-29_addendum_kdp_asociacion_multilingue_caso_51425302_ES_EN.md)
-- [Interim propagation verification · case 51454627 · 30 Aug](../2026-08-30_KDP_IDEA_VINCULACION_IDIOMAS_FORMATOS.md)
-- [Global review declared applied · cases 51454627 / 51454666 · 29 Aug](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md)
-- [Regression + capability/process contradiction · case 51454627 · 1 Sep](./2026-09-01_addendum_kdp_contradiccion_capacidad_vinculacion_multilingue_caso_51454627_ES_EN.md)
-- [Correction acknowledgement + multilingual verification · case 51454599 · 14 Sep](./2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_ES_EN.md)
-- [Complete ASIN matrix + internal-visibility escalation · case 51454599 · 24 Sep](./2026-09-24_addendum_kdp_caso_51454599_matriz_asin_y_escalado_visibilidad_interna_ES_EN.md)
-- [Supervisor review + functional reconciliation + product escalation · case 51454599 · 27 Sep](./2026-09-27_addendum_kdp_caso_51454599_supervision_contradiccion_producto_y_escalado_ES_EN.md)
+- [Keywords and multilingual-edition strategy](./2026-08-08_addendum_kdp_estrategia_keywords_ediciones_multilingues_51071689_ES_EN.md)
+- [ES/EN regression + language × format matrix · 26–27 Aug](./2026-08-26_addendum_kdp_vinculacion_cruzada_es_en_formatos_51071689_ES_EN.md)
+- [Language/format linking · 28 Aug](./2026-08-28_addendum_kdp_vinculacion_idiomas_formatos_caso_51425302_ES_EN.md)
+- [Multilingual association pending · 29 Aug](./2026-08-29_addendum_kdp_asociacion_multilingue_caso_51425302_ES_EN.md)
+- [Interim propagation verification · 30 Aug](../2026-08-30_KDP_IDEA_VINCULACION_IDIOMAS_FORMATOS.md)
+- [Global review declared applied · 29 Aug](./2026-08-29_addendum_kdp_revision_global_aplicada_casos_51454627_51454666_ES_EN.md)
+- [Regression + capability/process contradiction · 1 Sep](./2026-09-01_addendum_kdp_contradiccion_capacidad_vinculacion_multilingue_caso_51454627_ES_EN.md)
+- [Correction acknowledgement + multilingual verification · 14 Sep](./2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_ES_EN.md)
+- [Complete ASIN matrix + internal-visibility escalation · 24 Sep](./2026-09-24_addendum_kdp_caso_51454599_matriz_asin_y_escalado_visibilidad_interna_ES_EN.md)
+- [Supervisor review + functional reconciliation + product escalation · 27 Sep](./2026-09-27_addendum_kdp_caso_51454599_supervision_contradiccion_producto_y_escalado_ES_EN.md)
 
-**Note on `51454599`:** the material incident remains open. On 24 Sep, after repeated KDP requests, the complete matrix of **13 languages and 36 format editions with their own ASINs** was provided. On 26 Sep Haniefa identified herself as a KDP supervisor and provided a functional description that must be reconciled with the public state and Sameer's prior verification. On 27 Sep a reply requested that reconciliation, the result of the investigation for which the matrix had been requested twice, and formal product escalation if the limitation is structural. Haniefa later reiterated only that **“Books in different languages cannot be linked.”** On 28 Sep a final follow-up requested an unequivocal statement of that position/product limitation and the outcome of the technical investigation.
+**Note on `51454599`:** the material incident remains open. On 24 Sep the complete **13-language / 36-format-edition ASIN** matrix was supplied. Haniefa identified herself as a KDP supervisor on 26 Sep. Reconciliation, investigation outcome and formal product escalation were requested on 27 Sep; she later reiterated that books in different languages cannot be linked. Final unequivocal clarification and the technical investigation outcome were requested on 28 Sep.
 
-**Live state:** `AUDIT_PHASE=CLOSED / INCIDENT=OPEN / FORMAT_LINK_CORRECTION_ACKNOWLEDGED / MULTILINGUAL_ASSOCIATION=OPEN / FULL_ASIN_MATRIX_SENT / SUPERVISOR_RESPONSE_RECEIVED / FUNCTIONAL_DESCRIPTION_UNRECONCILED / DUPLICATE_METADATA_REQUESTS_DOCUMENTED / PRODUCT_LIMITATION_ESCALATION_REQUESTED / AUTHOR_REPLY_SENT_2026-09-27 / SUPERVISOR_REITERATION_RECEIVED_2026-09-27 / AUTHOR_FOLLOWUP_SENT_2026-09-28 / WAITING_FINAL_CLARIFICATION`.
-
-**Rule:** `NEW_TRACE != RECONCILED_STATE`. Each new trace should link case, document, Issue, delta/commit and closure/reopening condition.
+**Live state:** `AUDIT_PHASE=CLOSED / INCIDENT=OPEN / FORMAT_LINK_CORRECTION_ACKNOWLEDGED / MULTILINGUAL_ASSOCIATION=OPEN / FULL_ASIN_MATRIX_SENT / SUPERVISOR_RESPONSE_RECEIVED / FUNCTIONAL_DESCRIPTION_UNRECONCILED / PRODUCT_LIMITATION_ESCALATION_REQUESTED / AUTHOR_FOLLOWUP_SENT_2026-09-28 / WAITING_FINAL_CLARIFICATION`.
 
 ### 3. Repository · Wiki · README · automation integrity
 
@@ -227,19 +223,13 @@ It groups technical audits and postchecks of:
 
 ### 5. AI · destructive scanning · book destruction · cultural preservation
 
-**Main issue:** [#144 · Public Audit · AI, destructive scanning and book destruction](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/144)
-
-Related documents and syntheses:
+**Main Issue:** [#144 · Public Audit · AI, destructive scanning and book destruction](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/144)
 
 - [Main bilingual audit](./2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md)
 - [#145 · Libraries, preservation and AI training from scratch](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/145)
-- [#146 · Current AI complaints, sociotechnical architecture and pre-Neodialectical legacy](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/146)
+- [#146 · Current AI complaints and sociotechnical architecture](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/146)
 - [Sociotechnical recalculation ES/EN](../../analisis/publicos/2026-08-14_recalculo_quejas_ia_enfoque_sociotecnico_pre_neodialectico_ES_EN.md)
-- [Prior case · Anthropic, AI governance and the framework problem](../../analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
 - [#143 · Institutional Neodialectical Convergence](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/143)
-
-**Priority contributions:** primary court and corporate sources, provider chains, buyer traceability, contradictory evidence, data-acquisition policies, examples of non-destructive digitization and evidence distinguishing book use from physical destruction.
-
 
 ### 6. HAA · AI-native education · convergence and possible fragmented appropriation
 
@@ -247,17 +237,15 @@ Related documents and syntheses:
 
 - [Bilingual HAA audit](./2026-09-23_auditoria_haa_convergencia_educativa_apropiacion_fragmentaria_ES_EN.md)
 
-**Status:** `E2 · systemic correspondence + documented Innova_N precedence`. E2 does not mean copying: E3–E5 require additional evidence of access, derivation or appropriation.
+**Status:** `E2 · systemic correspondence + documented Innova_N precedence`. E2 does not mean copying: E3–E5 require additional evidence.
 
 ### 7. SwarmWorld · NAX-02 multihead convergence · application and custodianship
 
-**Live Issue:** [#201 · SwarmWorld · NAX-02 multihead convergence, application and custodianship layer](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/201)
+**Live Issue:** [#201 · SwarmWorld · NAX-02 multihead, application and custodianship](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/201)
 
 - [Bilingual SwarmWorld audit](./2026-09-24_auditoria_swarmworld_bucles_emergencia_custodia_ES_EN.md)
 
-**Status:** `PRIMARY_SOURCES_VERIFIED / PREPRINT_V1 / OPEN_CODE_AND_DATA / TECHNICAL_CONSTRAINTS_PRESENT / NORMATIVE_CUSTODIANSHIP_LAYER_NOT_IDENTIFIED_IN_REVIEWED_PUBLIC_DOCS / TRANSFER_RISK_OPEN`.
-
-The audit does not claim that the authors released a “superintelligence” or that SwarmWorld lacks controls. It separates self-organisation without a central planner from the simulator's technical constraints and asks which external custodianship layer should accompany an architecture transferable to higher-impact domains.
+**Status:** NAX-02 public precedence documented; simulator technical controls recognised; access, copying and derivation unproven.
 
 ### 8. LinkedIn · distribution · time return · platform incentives
 
@@ -267,7 +255,15 @@ The audit does not claim that the authors released a “superintelligence” or 
 
 **Status:** `METRICOOL_BASELINE_RECOVERED / HIGHLY_CONCENTRATED_DISTRIBUTION / PROVISIONAL_LOW_TYPICAL_RETURN / COORDINATED_SUPPRESSION_NOT_DEMONSTRATED / AUDIT_OPEN`.
 
-**Priority contributions:** comparable organic-reach data, in/out-of-network analytics, campaign and conversion exports, historical series, evidence of restrictions or coordinated reporting, and evidence contradicting any hypothesis.
+### 9. Madrid Manifesto · responsible AI · convergence and contact traceability
+
+**Live Issue:** [#206 · Madrid Manifesto 2026 · convergence and contact traceability](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/206)
+
+- [Bilingual Madrid Manifesto audit](./2026-10-09_auditoria_manifiesto_madrid_ia_responsable_convergencia_trazabilidad_contacto_ES_EN.md)
+
+**Status:** `E2 + CONTACT TRACE / CONV-ND_STRONG / DIRECT_OUTREACH_TO_4_OF_11_SIGNATORIES_DOCUMENTED / READ_RECEIPT_UNPROVEN / INTERNAL_TRANSMISSION_UNPROVEN / DERIVATION_UNPROVEN`.
+
+**Priority contributions:** earlier Council drafts/minutes, intermediate versions, prior signatory publications, access/read confirmations, internal references, transmission evidence and counterevidence capable of lowering the hypothesis.
 
 ## Open a new audit
 
