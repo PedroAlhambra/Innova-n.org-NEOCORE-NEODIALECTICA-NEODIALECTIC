@@ -41,10 +41,40 @@ CAPACIDADES ESPECIALIZADAS + RELACIONES FRAGMENTADAS
 
 En la arquitectura social/cognitiva de Innova_N, el mismo patrón se había aplicado antes a visibilidad, incentivos y colaboración. La newsletter de Tata no origina esa línea dentro del marco; aporta un ejemplo externo posterior en otro dominio.
 
+**Estado:** `CONVERGENCE_DOCUMENTED / ACCESS_UNPROVEN / DERIVATION_UNPROVEN`.
+
 ## EN
 
-The Tata Communications article is recorded as cross-domain systemic convergence. Innova_N has a traceable private June 2025 genealogy on social-algorithm incentives and a public April 2026 analysis of LinkedIn as a fragmented professional network. Tata also has independent public prior art from January–April 2026 on fragmented visibility and unified edge architecture.
+On 30 Sep 2026, the Tata Communications article **“Is Your Digital Front Door Too Fragmented?”**, received through the ConnectED Dots newsletter subscription, was incorporated into the case.
 
-The useful relation is therefore the shared higher-level systems pattern: specialised capabilities do not automatically yield coherent outcomes when visibility, handoffs and coordination remain fragmented.
+The article describes an infrastructure pattern: specialised capabilities managed separately can produce different policies, fragmented visibility, more handoffs and inconsistencies. The proposed response is a more coordinated and integrated edge architecture.
+
+The relation to Innova_N is material, but its chronology must be preserved:
+
+- **6 Jun 2025 · traced private source:** the thread `PMA-66-M-Algoritmo Neodialéctico Redes Sociales` argues that social algorithms do not necessarily promote what has the greatest value, criticises a mutable and opaque reward architecture and develops an alternative oriented towards the Common Good.
+- **15 Apr 2026 · public source:** *LinkedIn as a fragmented professional network* describes fragmented circulation, incentive architecture and weak collaboration relative to exposure, and closes by asking whether LinkedIn raises collaborative intelligence or maintains “fragmented visibility”.
+- **30 Sep 2026 · Tata:** the article applies fragmentation/coordination to the technical domain of delivery, security, APIs, DDoS, analytics and edge compute.
+
+### Counterevidence and prior art
+
+Tata Communications publicly documented, before Innova_N's public analysis:
+
+- **30 Jan 2026:** “fragmented visibility” in logistics material and the transition towards connected ecosystems;
+- **4 Mar 2026:** an Edge Distribution Platform unifying Content Delivery, Edge Security and Intelligent Orchestration;
+- **1 Apr 2026:** delivery, security and intelligence brought together in a unified platform.
+
+Therefore, the expression “fragmented visibility” and the idea of integrated edge have Tata's own prior art. There is currently no documented route connecting Tata to Innova_N's private 2025 source.
+
+### Synthesis
+
+The value of this signal for the audit is as **cross-domain convergence of a systems principle**:
+
+```text
+SPECIALISED CAPABILITIES + FRAGMENTED RELATIONS
+→ GAPS / INCONSISTENCY / COORDINATION COST
+→ INTEGRATION / VISIBILITY / ORCHESTRATION
+```
+
+Within Innova_N's social/cognitive architecture, the same pattern had previously been applied to visibility, incentives and collaboration. Tata's newsletter does not originate that line within the framework; it contributes a later external example in another domain.
 
 **State:** `CONVERGENCE_DOCUMENTED / ACCESS_UNPROVEN / DERIVATION_UNPROVEN`.
