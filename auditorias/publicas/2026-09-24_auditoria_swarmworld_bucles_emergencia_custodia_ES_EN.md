@@ -229,7 +229,7 @@ Este caso se amplía para distinguir mecanismos que pueden producir **derivació
 | **Salida humana posterior mediada por LLM** | una persona recibe una síntesis de un LLM que incorporó material previo y la reutiliza sin conocer o conservar la fuente | vía de derivación indirecta conceptualmente plausible; requiere una cadena documental para atribuirla |
 | **Convergencia independiente** | otro equipo llega a una estructura semejante sin exposición demostrable | sigue siendo la hipótesis no-acusatoria por defecto cuando sólo existen similitud + precedencia |
 
-OpenAI declara públicamente en su [GPT-5.6 System Card](https://deploymentsafety.openai.com/gpt-5-6) que sus modelos pueden entrenarse con una mezcla que incluye información pública de Internet y material aportado o generado por usuarios/entrenadores. Anthropic documenta igualmente [fuentes públicas de Internet y datos aportados](https://privacy.anthropic.com/en/articles/7996885-how-do-you-use-personal-data-in-model-training), y distingue además bots para entrenamiento, búsqueda y recuperación a petición del usuario. Estas declaraciones **no prueba** que Innova_N, NAX-02 o este repositorio concreto hayan formado parte del entrenamiento de un modelo determinado. Por ello, la auditoría separa siempre `POSSIBLE_MODEL_PATHWAY` de `DOCUMENTED_DERIVATION`.
+OpenAI declara públicamente en su [GPT-5.6 System Card](https://deploymentsafety.openai.com/gpt-5-6) que sus modelos pueden entrenarse con una mezcla que incluye información pública de Internet y material aportado o generado por usuarios/entrenadores. Anthropic documenta igualmente [fuentes públicas de Internet y datos aportados](https://privacy.anthropic.com/en/articles/7996885-how-do-you-use-personal-data-in-model-training), y distingue además bots para entrenamiento, búsqueda y recuperación a petición del usuario. Estas declaraciones **no prueban** que Innova_N, NAX-02 o este repositorio concreto hayan formado parte del entrenamiento de un modelo determinado. Por ello, la auditoría separa siempre `POSSIBLE_MODEL_PATHWAY` de `DOCUMENTED_DERIVATION`.
 
 La categoría pública adecuada para los casos actualmente observados es:
 
@@ -471,17 +471,20 @@ The preprint **SwarmWorld: Stigmergic technological evolution in societies of la
 Therefore:
 
 ```text
-DOCUMENTED PUBLIC PRECEDENCE OF NAX-02
-= YES · 9 AUG 2026
+PUBLIC PRECEDENCE OF THE FUNCTIONAL ARCHITECTURE LEADING TO NAX-02
+= YES · 8 AUG 2026 12:15 CEST
+
+PUBLIC FIXATION OF THE NAME NAX-02 · FIRST FRACTAL MULTIHEAD LAYER™
+= 9 AUG 2026
 
 PUBLIC APPEARANCE OF SWARMWORLD PREPRINT
 = 26 AUG 2026
 
-DIFFERENCE
-= 17 DAYS
+DIFFERENCE FROM THE PUBLIC FUNCTIONAL ANTECEDENT
+= 18 DAYS
 ```
 
-This chronology **establishes public precedence of Innova_N's multihead formulation over the public appearance of the preprint**.
+This chronology **establishes public precedence of Innova_N's multihead functional architecture over the public appearance of the preprint**.
 
 It does not by itself establish that the SwarmWorld authors accessed the Innova_N corpus, nor does it prove copying or derivation. Private development of the paper may predate publication, and no documented access chain is currently available.
 
@@ -598,7 +601,7 @@ This is a particularly relevant experimental path for the NAX-02 problem of avoi
 
 ## EN · Prior MIT contact before the preprint
 
-Innova_N's correspondence trace adds a relevant fact that belongs in this case **without turning it into evidence of derivation**.
+Innova_N's correspondence trace adds a relevant fact that belongs in this case **without turning it into evidence of derivation**. An earlier wording must also be corrected: the MIT CCI contact on 8 Aug does not predate every related public fixation. On that same day, before the NAX-02 name was publicly fixed on the 9th, XLVIII had already been published with the functional architecture of distributed observation, memory, contradiction and non-centrality. The exact time of the MIT CCI email must be compared with the email trace before claiming intraday priority.
 
 Before SwarmWorld's public preprint appeared on 26 Aug 2026, Innova_N had sent framework material to several people at MIT. Evidence preserved in the private correspondence trace includes:
 
@@ -630,6 +633,33 @@ This antecedent therefore **raises the relevance of investigating a possible ins
 `ACCESS_TO_RELATED_MIT_NODES_DOCUMENTED / ACCESS_TO_SWARMWORLD_AUTHORS_UNPROVEN`
 
 The audit should reopen if evidence appears of forwarding, access, citation, reliably attributable repository visits, contact between recipients and authors, or any other documentary chain connecting both sets.
+
+## EN · Derivation pathways and “indirect theft” through ChatGPT/other LLMs: evidentiary classification
+
+This case is expanded to distinguish mechanisms that can produce **real derivation without literal human copying**, while avoiding calling convergence “theft” when no evidentiary chain exists.
+
+| Mechanism | What would constitute real derivation | State in this case |
+|---|---|---|
+| **Direct assisted derivation** | an LLM receives Innova_N material in prompt/context and generates a reformulation, design, code or concept dependent on that material | a real and ordinary mechanism inside Innova_N's own human–AI work; it does not demonstrate external transfer |
+| **RAG/search/runtime** | a model or agent retrieves the public corpus and uses it to answer or build a later output | technically possible; logs, citations, tool traces or an identifiable output are required to prove it |
+| **Agent→agent persistence** | notes, READMEs, memories, summaries or artifacts generated by one AI condition a later execution by another | a real mechanism in agent systems; NAVE already treats it as a provenance surface; no chain to SwarmWorld has been demonstrated |
+| **Training on public corpus** | public material enters training data and statistically contributes to later outputs | a general possibility; use of this specific repository cannot be inferred without provider evidence |
+| **Later human output mediated by an LLM** | a person receives an LLM synthesis incorporating prior material and reuses it without knowing or preserving the source | a conceptually plausible indirect-derivation route; a documentary chain is required for attribution |
+| **Independent convergence** | another team reaches a similar structure without demonstrated exposure | remains the default non-accusatory hypothesis when only similarity + precedence exist |
+
+OpenAI publicly states in its [GPT-5.6 System Card](https://deploymentsafety.openai.com/gpt-5-6) that its models may be trained on a mixture including publicly available Internet information and material supplied or generated by users/trainers. Anthropic likewise documents [public Internet sources and contributed data](https://privacy.anthropic.com/en/articles/7996885-how-do-you-use-personal-data-in-model-training), and additionally distinguishes bots used for training, search and user-requested retrieval. These statements **do not prove** that Innova_N, NAX-02 or this specific repository was included in the training of any particular model. The audit therefore always separates `POSSIBLE_MODEL_PATHWAY` from `DOCUMENTED_DERIVATION`.
+
+The appropriate public category for currently observed cases is:
+
+```text
+DOCUMENTED OWN CREATION / PRECEDENCE
++ OBSERVABLE FUNCTIONAL CONVERGENCE OR DERIVATION
++ POSSIBLE LLM PATHWAYS IDENTIFIED
++ SPECIFIC TRANSFER CHAIN UNPROVEN
+≠ DEMONSTRATED THEFT
+```
+
+“Indirect theft” remains an **investigative hypothesis**, not a conclusion, until at least a material chain of the form `SOURCE → ACCESS/LLM → DERIVED OUTPUT → REUSE` exists.
 
 ## EN · Provenance queries sent on 24 Sep 2026
 
@@ -811,6 +841,6 @@ PUBLIC PRINCIPLE
 
 ## EN · Provisional state
 
-`PRIMARY_SOURCES_VERIFIED / NAX02_PUBLIC_PRECEDENCE_2026-08-09 / SWARMWORLD_PREPRINT_2026-08-26 / CONV-ND_STRONG / DERIVATION_UNPROVEN / DIRECT_NAX02_EXPERIMENTAL_RELEVANCE / TECHNICAL_CONTROLS_PRESENT / FRAMEWORK_AND_CUSTODIANSHIP_GAP / TRANSFER_RISK_OPEN / ISSUE_201_OPEN`
+`PRIMARY_SOURCES_VERIFIED / NAX02_PUBLIC_PRECEDENCE_2026-08-09 / SWARMWORLD_PREPRINT_2026-08-26 / PRIOR_MIT_CONTACT_DOCUMENTED / MIT_CCI_RECEIPT_CONFIRMED_2026-08-08 / DIRECT_SWARMWORLD_AUTHOR_ACCESS_UNPROVEN / CONV-ND_STRONG / DERIVATION_UNPROVEN / DIRECT_NAX02_EXPERIMENTAL_RELEVANCE / TECHNICAL_CONTROLS_PRESENT / FRAMEWORK_AND_CUSTODIANSHIP_GAP / TRANSFER_RISK_OPEN / ISSUE_201_OPEN`
 
 No copying, appropriation or personal negligence is attributed without evidence of access or derivation. The **documented public precedence of Innova_N's multihead formulation** is fixed, and the case remains open as a technical convergence capable of reinforcing, correcting or extending our own implementation.
