@@ -4,7 +4,7 @@
 **Fecha / Date:** 2026-10-09  
 **Estado / Status:** PASS · comprobación pública reproducible / PASS · reproducible public check  
 **Ámbito / Scope:** `main` público · auditoría Manifiesto de Madrid · referencias cruzadas · índices · READMEs · WEB4™ · NeoRandomize™ · Lemonda · gates ES/EN / public `main` · Madrid Manifesto audit · cross-references · indexes · READMEs · WEB4™ · NeoRandomize™ · Lemonda · ES/EN gates  
-**Commit base comprobado / Verified base commit:** `18730828609c4f667c102c6872201231246853ae`
+**Commit base comprobado / Verified base commit:** `d9da62449f9e74ddfb56bbe65ac4892c2e8cbe33`
 
 [ES · Castellano](#es--objeto) · [EN · English](#en--scope)
 
@@ -104,13 +104,13 @@ También se añadió selector navegable ES/EN a [WEB4™ · superficies](../../w
 
 | Gate | Resultado |
 |---|---|
-| Selectores de idioma | `PASS` · 508 páginas explícitas ES/EN · 0 fallos |
+| Selectores de idioma | `PASS` · 509 páginas explícitas ES/EN · 0 fallos |
 | Simetría global ES/EN | `PASS` · `split_fail=0` · `marker_fail=0` · `paired_review=0` · `yaml_review=0` |
 | Relaciones clicables de manifiestos | `PASS` · 174 superficies · 20 líneas relacionales · 92 genealógicas · 45 de síntesis |
 | Integridad neoaxiomática | `PASS` · 29 canónicos · 1 candidato · frontera `C-NAX-30` |
-| Enlaces Markdown / READMEs | `PASS` · 583 Markdown activos · 28 README · 13.559 enlaces internos · 0 rotos · 0 críticos |
+| Enlaces Markdown / READMEs | `PASS` · 584 Markdown activos · 28 README · 13.583 enlaces internos · 0 rotos · 0 críticos |
 | Reciprocidad Issue ↔ documento | `PASS` · 105 mappings · 103 Issues |
-| Política de versión vigente | `PASS` · `CURRENT_VERSION=7.3.6` y referencia única preservada |
+| Política de versión vigente | `PASS` · referencia única a `versiones/README.md` preservada |
 | Registro de manifiestos | `PASS` · 86 canónicos · 0 problemas |
 | Paridad editorial ES/EN | `PASS` · 117 documentos · 0 recortes · 0 advertencias · 0 marcadores ausentes |
 | Paridad Manifiestos / Neoaxiomas | `PASS` · 86 manifiestos · 0 flags · 29 NAX · 0 flags |
@@ -226,13 +226,13 @@ A navigable ES/EN selector was also added to [WEB4™ · surfaces](../../web4/SU
 
 | Gate | Result |
 |---|---|
-| Language selectors | `PASS` · 508 explicit ES/EN pages · 0 failures |
+| Language selectors | `PASS` · 509 explicit ES/EN pages · 0 failures |
 | Global ES/EN symmetry | `PASS` · `split_fail=0` · `marker_fail=0` · `paired_review=0` · `yaml_review=0` |
 | Clickable Manifesto relations | `PASS` · 174 surfaces · 20 relation lines · 92 genealogy lines · 45 synthesis lines |
 | Neoaxiom integrity | `PASS` · 29 canonical · 1 candidate · frontier `C-NAX-30` |
-| Markdown / README links | `PASS` · 583 active Markdown · 28 README · 13,559 internal links · 0 broken · 0 critical |
+| Markdown / README links | `PASS` · 584 active Markdown · 28 README · 13,583 internal links · 0 broken · 0 critical |
 | Issue ↔ document reciprocity | `PASS` · 105 mappings · 103 Issues |
-| Current-version policy | `PASS` · `CURRENT_VERSION=7.3.6` with single-source reference preserved |
+| Current-version policy | `PASS` · single-source reference to `versiones/README.md` preserved |
 | Manifesto registry | `PASS` · 86 canonical · 0 problems |
 | Editorial ES/EN parity | `PASS` · 117 documents · 0 truncations · 0 warnings · 0 missing markers |
 | Manifesto / Neoaxiom parity | `PASS` · 86 Manifestos · 0 flags · 29 NAX · 0 flags |
