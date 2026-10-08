@@ -5,6 +5,8 @@
 **Issue:** [#203](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/203)  
 **Clasificación:** `CONV-ND / CROSS-DOMAIN SYSTEMIC CONVERGENCE / DERIVATION_UNPROVEN`
 
+[ES · Castellano](#es) · [EN · English](#en)
+
 ## ES
 
 El 30-09-2026 se incorporó al caso el artículo de Tata Communications **“Is Your Digital Front Door Too Fragmented?”**, recibido mediante una suscripción a la newsletter ConnectED Dots.
