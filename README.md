@@ -43,7 +43,7 @@ LÍMITE DEL MODELO ≠ LÍMITE DEMOSTRADO DE LA REALIDAD
 | **Neoaxiomas™** | [Capa Axiomática Abierta · frontera viva](./neoaxiomas/README.md) |
 | **Síntesis Abierta™** | [Portal operativo](./propuestas/sintesis-abierta/README.md) · [Matriz Neoaxiomas #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) |
 | **Relaciones** | [Mapa de relaciones y trabajo aplicado](./manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) |
-| **Análisis y auditorías** | [Análisis](./analisis/README.md) · [Auditorías públicas](./auditorias/publicas/README.md) |
+| **Análisis y auditorías** | [Análisis](./analisis/README.md) · [Auditorías públicas](./auditorias/publicas/README.md) · [Última auditoría: Manifiesto de Madrid 2026](./auditorias/publicas/2026-10-09_auditoria_manifiesto_madrid_ia_responsable_convergencia_trazabilidad_contacto_ES_EN.md) |
 | **Obras y cultura** | [Obras](./obras/README.md) · [IDEA](./obras/idea/README.md) |
 | **WEB4™** | [Especificación pública](./web4/README.md) |
 | **WEB4™ · mapa navegable** | [Superficies](./web4/SUPERFICIES_ES_EN.md) · [NeoRandomize™](./web4/neorandomize/README.md) · [Lemonda](./web4/neorandomize/lemonda/README.md) · [GuitarBend](./web4/neorandomize/guitarbend/README.md) |
@@ -54,7 +54,7 @@ LÍMITE DEL MODELO ≠ LÍMITE DEMOSTRADO DE LA REALIDAD
 
 ## Estado vivo
 
-El corpus es abierto y evolutivo. El número vigente de manifiestos, candidatos neoaxiomáticos, Síntesis, análisis y demás objetos debe leerse en sus **índices especializados**. La versión del núcleo se consulta en **[versiones/README.md](./versiones/README.md)**.
+El corpus es abierto y evolutivo. El número vigente de manifiestos, candidatos neoaxiomáticos, Síntesis, análisis, auditorías y demás objetos debe leerse en sus **índices especializados**. La versión del núcleo se consulta en **[versiones/README.md](./versiones/README.md)**.
 
 ## Arquitectura de conocimiento
 
@@ -62,7 +62,7 @@ El corpus es abierto y evolutivo. El número vigente de manifiestos, candidatos 
 OBSERVACIÓN / APORTE → FUENTE Y PROCEDENCIA → RELACIONES → CONTRASTE SAN™ → ESTADO EPISTEMOLÓGICO → SÍNTESIS PROVISIONAL → DELTA → TRAZA → REAPERTURA
 ```
 
-NeoGenealogía™, RADAR-Π™, NeoCronos™, Economía del Aporte™, Umbral-X™, WEB4™ y las demás capas se consultan desde sus fuentes específicas y relaciones canónicas.
+NeoGenealogía™, RADAR-Π™, NeoCronos™, Economía del Aporte™, Umbral-X™, WEB4™, NeoRandomize™, Lemonda y las demás capas/superficies se consultan desde sus fuentes específicas y relaciones canónicas.
 
 ---
 
@@ -95,7 +95,7 @@ LIMIT OF THE MODEL ≠ DEMONSTRATED LIMIT OF REALITY
 | **Neoaxioms™** | [Open Axiomatic Layer · live frontier](./neoaxiomas/README.md) |
 | **Open Synthesis™** | [Operational portal](./propuestas/sintesis-abierta/README.md) · [Neoaxioms Matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) |
 | **Relations** | [Relations and applied-work map](./manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) |
-| **Analyses and audits** | [Analyses](./analisis/README.md) · [Public audits](./auditorias/publicas/README.md) |
+| **Analyses and audits** | [Analyses](./analisis/README.md) · [Public audits](./auditorias/publicas/README.md) · [Latest audit: Madrid Manifesto 2026](./auditorias/publicas/2026-10-09_auditoria_manifiesto_madrid_ia_responsable_convergencia_trazabilidad_contacto_ES_EN.md) |
 | **Works and culture** | [Works](./obras/README.md) · [IDEA](./obras/idea/README.md) |
 | **WEB4™** | [Public specification](./web4/README.md) |
 | **WEB4™ · navigable map** | [Surfaces](./web4/SUPERFICIES_ES_EN.md) · [NeoRandomize™](./web4/neorandomize/README.md) · [Lemonda](./web4/neorandomize/lemonda/README.md) · [GuitarBend](./web4/neorandomize/guitarbend/README.md) |
@@ -106,7 +106,7 @@ LIMIT OF THE MODEL ≠ DEMONSTRATED LIMIT OF REALITY
 
 ## Living state
 
-The corpus is open and evolutionary. Current counts of manifestos, neoaxiomatic candidates, Syntheses, analyses and other objects are read from their **specialised indexes**. The core version is read from **[versiones/README.md](./versiones/README.md)**.
+The corpus is open and evolutionary. Current counts of manifestos, neoaxiomatic candidates, Syntheses, analyses, audits and other objects are read from their **specialised indexes**. The core version is read from **[versiones/README.md](./versiones/README.md)**.
 
 ## Knowledge architecture
 
@@ -114,4 +114,4 @@ The corpus is open and evolutionary. Current counts of manifestos, neoaxiomatic 
 OBSERVATION / CONTRIBUTION → SOURCE AND PROVENANCE → RELATIONS → SAN™ SCRUTINY → EPISTEMIC STATE → PROVISIONAL SYNTHESIS → DELTA → TRACE → REOPENING
 ```
 
-NeoGenealogy™, RADAR-Π™, NeoCronos™, Contribution Economy™, Umbral-X™, WEB4™ and the remaining layers are reached through their specific sources and canonical relations.
+NeoGenealogy™, RADAR-Π™, NeoCronos™, Contribution Economy™, Umbral-X™, WEB4™, NeoRandomize™, Lemonda and the remaining layers/surfaces are reached through their specific sources and canonical relations.
