@@ -4,6 +4,8 @@
 
 Este índice evita que una capacidad pública quede escondida sólo porque exista un archivo en el repositorio. Las rutas indican la arquitectura de producto WEB4™; **ruta documentada ≠ despliegue Hostalia confirmado**. / This index prevents a public capability from remaining hidden merely because a file exists in the repository. Routes describe the WEB4™ product architecture; **documented route ≠ confirmed Hostalia deployment**.
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ## ES · Castellano
 
 | Superficie | Ruta WEB4™ | Fuente pública / navegación |
