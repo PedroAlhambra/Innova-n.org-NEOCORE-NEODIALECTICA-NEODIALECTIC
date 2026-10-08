@@ -17,6 +17,8 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 **Baseline documental estabilizada / Stabilised documentary baseline:** NEOCore™ PRE-7.3  
 **Base del marco vigente / Current framework base:** [consultar versión vigente e histórico / read current version and history](../versiones/README.md)  
 **Superficie pública real / Actual public surface:** [innova-n.org](https://innova-n.org)  
+**Mapa de superficies / Surfaces map:** [SUPERFICIES_ES_EN.md](./SUPERFICIES_ES_EN.md)  
+**Magazine cultural / Cultural magazine:** [NeoRandomize™](./neorandomize/README.md) · [Lemonda](./neorandomize/lemonda/README.md) · [GuitarBend](./neorandomize/guitarbend/README.md)  
 **Ampliación abierta / Open expansion:** [Issue #147 · aportes trazables y tokenización de reconocimiento](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/147)
 
 > **Regla de versión / Version rule:** `PRE-7.3` identifica una baseline documental histórica de WEB4™. El estado vigente del núcleo se resuelve desde [`versiones/README.md`](../versiones/README.md); no se replica aquí. / `PRE-7.3` identifies a historical WEB4™ documentary baseline. Current core state is resolved from [`versiones/README.md`](../versiones/README.md) and is not duplicated here.
@@ -42,6 +44,7 @@ GITHUB PÚBLICO CANÓNICO
 + Síntesis Abierta
 + análisis y auditorías
 + obras
++ cultura / NeoRandomize™ / Lemonda / GuitarBend
 + genealogía
 + relaciones
 + estados y novedades derivables
@@ -87,10 +90,28 @@ WEB4™ debe organizar progresivamente superficies nativas para:
 - Auditorías / Leónidas™.
 - NeoGenealogía™ / RADAR-Π™.
 - Novedades derivadas del corpus.
+- **NeoRandomize™ · magazine cultural trazable.**
+- **Lemonda · sección de humor, ironía y cultura digital dentro de NeoRandomize™.**
+- **GuitarBend · legado/fuente editorial histórica vinculada primariamente a Música.**
 - Nodos/mónadas de personas, IAs, obras, proyectos, instituciones, eventos, documentos y conceptos.
 - Créditos de infraestructura / MÉDICI™.
 
 La implementación es modular para que las superficies puedan evolucionar y revisarse de forma independiente sin perder sus relaciones con el corpus común.
+
+La relación editorial queda fijada documentalmente como:
+
+```text
+WEB4™
+└── NeoRandomize™
+    ├── Sistemas / tecnología
+    ├── Cultura
+    ├── Investigación
+    ├── Música
+    │   └── GuitarBend · legado/fuente histórica
+    └── Lemonda · humor / ironía / cultura digital
+```
+
+La recuperación de la **identidad Lemonda** no equivale a declarar recuperada su BBDD histórica. El estado y los gates de recuperación se mantienen en [Lemonda · README](./neorandomize/lemonda/README.md).
 
 ### 4. GitHub público como fuente de datos
 
@@ -234,15 +255,18 @@ Toda superficie debe ayudar a responder:
 
 ### 13. Referencias documentales conservadas
 
-Los HTML existentes bajo `web4/` se conservan como **referencias documentales/históricas de capacidades**, no como sitio público paralelo ni como candidata de producción:
+Los HTML y directorios documentales existentes bajo `web4/` se conservan como **referencias documentales/históricas de capacidades**, no como sitio público paralelo ni como candidata de producción:
 
 - [`index.html`](./index.html) — referencia histórica de portada y capacidades.
 - [`manifiestos/`](./manifiestos/) — referencia de lector navegable de manifiestos.
 - [`idea/`](./idea/) — referencia de integración de IDEA.
 - [`neocronos/`](./neocronos/) — referencia histórica de experimentación visual/temporal de NeoCronos™.
 - [`credits/`](./credits/) — referencia de créditos de infraestructura y MÉDICI™.
+- [`neorandomize/`](./neorandomize/README.md) — superficie documental del magazine cultural trazable.
+- [`neorandomize/lemonda/`](./neorandomize/lemonda/README.md) — identidad editorial Lemonda y gates de recuperación histórica.
+- [`neorandomize/guitarbend/`](./neorandomize/guitarbend/README.md) — legado/fuente musical histórica.
 
-La implementación privada puede preservar, mejorar o sustituir estas capacidades; no debe asumir que estos HTML son la web viva.
+La implementación privada puede preservar, mejorar o sustituir estas capacidades; no debe asumir que estos HTML o directorios documentales son por sí solos la web viva.
 
 ### 14. Bucle de producto objetivo
 
@@ -278,6 +302,7 @@ CANONICAL PUBLIC GITHUB
 + Open Synthesis
 + analyses and audits
 + works
++ culture / NeoRandomize™ / Lemonda / GuitarBend
 + genealogy
 + relations
 + derivable states/news
@@ -323,10 +348,28 @@ WEB4™ should progressively organise native surfaces for:
 - Audits / Leónidas™.
 - NeoGenealogy™ / RADAR-Π™.
 - News derived from the corpus.
+- **NeoRandomize™ · traceable cultural magazine.**
+- **Lemonda · humour, irony and digital-culture section inside NeoRandomize™.**
+- **GuitarBend · historical legacy/editorial source primarily linked to Music.**
 - Nodes/monads of people, AIs, works, projects, institutions, events, documents and concepts.
 - Infrastructure credits / MÉDICI™.
 
 Implementation is modular so that surfaces can evolve and be reviewed independently without losing their relations to the common corpus.
+
+The editorial relationship is documented as:
+
+```text
+WEB4™
+└── NeoRandomize™
+    ├── Systems / technology
+    ├── Culture
+    ├── Research
+    ├── Music
+    │   └── GuitarBend · historical legacy/source
+    └── Lemonda · humour / irony / digital culture
+```
+
+Recovery of **Lemonda's identity** does not mean that its historical database has been recovered. Recovery state and gates are maintained in the [Lemonda README](./neorandomize/lemonda/README.md).
 
 ### 4. Public GitHub as data source
 
@@ -470,15 +513,18 @@ WHAT CONTRIBUTION PRODUCED THIS CHANGE AND HOW IS IT TRACED?
 
 ### 13. Preserved documentary references
 
-Existing HTML under `web4/` is retained as **documentary/historical capability reference**, not as a parallel public site or production candidate:
+Existing HTML and documentary directories under `web4/` are retained as **documentary/historical capability references**, not as a parallel public site or production candidate:
 
 - [`index.html`](./index.html) — historical home and capability reference.
 - [`manifiestos/`](./manifiestos/) — navigable manifesto reader reference.
 - [`idea/`](./idea/) — IDEA integration reference.
 - [`neocronos/`](./neocronos/) — historical NeoCronos™ visual/temporal experimentation reference.
 - [`credits/`](./credits/) — infrastructure credits and MÉDICI™ reference.
+- [`neorandomize/`](./neorandomize/README.md) — documentary surface for the traceable cultural magazine.
+- [`neorandomize/lemonda/`](./neorandomize/lemonda/README.md) — Lemonda editorial identity and historical-recovery gates.
+- [`neorandomize/guitarbend/`](./neorandomize/guitarbend/README.md) — historical musical legacy/source.
 
-Private implementation may preserve, improve or replace these capabilities; it must not assume that these HTML files are the live website.
+Private implementation may preserve, improve or replace these capabilities; it must not assume that these HTML files or documentary directories are themselves the live website.
 
 ### 14. Target product loop
 
