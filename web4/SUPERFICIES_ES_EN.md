@@ -29,7 +29,9 @@ Este índice evita que una capacidad pública quede escondida sólo porque exist
 | Aprender | `/aprender/` | [Especificación WEB4](./README.md) |
 | NeoJuegos / gaming | `/juegos/` | [Gaming virtualizado](./gaming/README.md) |
 | Arte y visión | `/arte/` | [Especificación WEB4](./README.md) |
-| Música | `/musica/` | [NeoRandomize / GuitarBend](./neorandomize/guitarbend/README.md) · [Especificación WEB4](./README.md) |
+| Música | `/musica/` | **[Ecosistema musical](./musica/README.md)** · [Especificación WEB4](./README.md) |
+| ↳ **Miracle Records** | `/musica/miracle-records/` | **[Sello / aporte musical](./musica/miracle-records/README.md)** · Yellow Quasar · Techno Bach · Reino de las Maravillas |
+| ↳ GuitarBend | `/magazine/` · rama editorial Música | [Legado editorial](./neorandomize/guitarbend/README.md) |
 | Investigación | `/investigacion/` | [Análisis públicos](../analisis/publicos/README.md) · [Especificación WEB4](./README.md) |
 | Auditorías / Leónidas™ | `/auditorias/` | [Auditorías públicas](../auditorias/publicas/README.md) |
 | NeoGenealogía™ / RADAR-Π™ | `/genealogia/` | [Relaciones](../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Especificación WEB4](./README.md) |
@@ -63,7 +65,9 @@ Toda nueva superficie pública material debe quedar enlazada desde este índice 
 | Learning | `/aprender/` | [WEB4 specification](./README.md) |
 | NeoGames / gaming | `/juegos/` | [Virtualized gaming](./gaming/README.md) |
 | Art and vision | `/arte/` | [WEB4 specification](./README.md) |
-| Music | `/musica/` | [NeoRandomize / GuitarBend](./neorandomize/guitarbend/README.md) · [WEB4 specification](./README.md) |
+| Music | `/musica/` | **[Music ecosystem](./musica/README.md)** · [WEB4 specification](./README.md) |
+| ↳ **Miracle Records** | `/musica/miracle-records/` | **[Record label / musical contribution](./musica/miracle-records/README.md)** · Yellow Quasar · Techno Bach · Reino de las Maravillas |
+| ↳ GuitarBend | `/magazine/` · editorial Music branch | [Editorial legacy](./neorandomize/guitarbend/README.md) |
 | Research | `/investigacion/` | [Public analyses](../analisis/publicos/README.md) · [WEB4 specification](./README.md) |
 | Audits / Leonidas™ | `/auditorias/` | [Public audits](../auditorias/publicas/README.md) |
 | NeoGenealogy™ / RADAR-Π™ | `/genealogia/` | [Relations](../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [WEB4 specification](./README.md) |
