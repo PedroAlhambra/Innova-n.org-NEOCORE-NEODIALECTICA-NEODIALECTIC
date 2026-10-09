@@ -19,6 +19,7 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 **Superficie pública real / Actual public surface:** [innova-n.org](https://innova-n.org)  
 **Mapa de superficies / Surfaces map:** [SUPERFICIES_ES_EN.md](./SUPERFICIES_ES_EN.md)  
 **Magazine cultural / Cultural magazine:** [NeoRandomize™](./neorandomize/README.md) · [Lemonda](./neorandomize/lemonda/README.md) · [GuitarBend](./neorandomize/guitarbend/README.md)  
+**Música / Music:** [ecosistema musical](./musica/README.md) · [Miracle Records](./musica/miracle-records/README.md) · Yellow Quasar · Techno Bach · Reino de las Maravillas  
 **Ampliación abierta / Open expansion:** [Issue #147 · aportes trazables y tokenización de reconocimiento](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/147)
 
 > **Regla de versión / Version rule:** `PRE-7.3` identifica una baseline documental histórica de WEB4™. El estado vigente del núcleo se resuelve desde [`versiones/README.md`](../versiones/README.md); no se replica aquí. / `PRE-7.3` identifies a historical WEB4™ documentary baseline. Current core state is resolved from [`versiones/README.md`](../versiones/README.md) and is not duplicated here.
@@ -45,6 +46,7 @@ GITHUB PÚBLICO CANÓNICO
 + análisis y auditorías
 + obras
 + cultura / NeoRandomize™ / Lemonda / GuitarBend
++ música / Miracle Records / Yellow Quasar / Techno Bach / Reino de las Maravillas
 + genealogía
 + relaciones
 + estados y novedades derivables
@@ -85,6 +87,8 @@ WEB4™ debe organizar progresivamente superficies nativas para:
 - NeoJuegos™.
 - Arte, fotografía y visual.
 - Música.
+- **Miracle Records · capa discográfica y de aporte musical de Innova_N.**
+- **Yellow Quasar, Techno Bach y Reino de las Maravillas · proyectos musicales relacionados mediante Miracle Records; no son secciones del magazine.**
 - Literatura e IDEA.
 - Ciencia, tecnología e investigación.
 - Auditorías / Leónidas™.
@@ -102,16 +106,23 @@ La relación editorial queda fijada documentalmente como:
 
 ```text
 WEB4™
-└── NeoRandomize™
-    ├── Sistemas / tecnología
-    ├── Cultura
-    ├── Investigación
-    ├── Música
-    │   └── GuitarBend · legado/fuente histórica
-    └── Lemonda · humor / ironía / cultura digital
+├── NeoRandomize™ · magazine
+│   ├── Sistemas / tecnología
+│   ├── Cultura
+│   ├── Investigación
+│   ├── Música editorial
+│   │   └── GuitarBend · legado/fuente histórica
+│   └── Lemonda · humor / ironía / cultura digital
+└── Música / aporte musical y discográfico
+    └── Miracle Records
+        ├── Yellow Quasar
+        ├── Techno Bach
+        └── Reino de las Maravillas
 ```
 
-La recuperación de la **identidad Lemonda** no equivale a declarar recuperada su BBDD histórica. El estado y los gates de recuperación se mantienen en [Lemonda · README](./neorandomize/lemonda/README.md).
+La recuperación de la **identidad Lemonda** no equivale a declarar recuperada su BBDD histórica. El estado y los gates de recuperación se mantienen en [Lemonda · README](./neorandomize/lemonda/README.md). **La BBDD histórica pendiente no bloquea la publicación de piezas nuevas creadas y revisadas en la etapa actual.**
+
+La capa musical queda separada del magazine: [Música / Music](./musica/README.md) documenta **Miracle Records** como superficie discográfica/de aporte musical y enlaza **Yellow Quasar, Techno Bach y Reino de las Maravillas**.
 
 ### 4. GitHub público como fuente de datos
 
@@ -265,6 +276,8 @@ Los HTML y directorios documentales existentes bajo `web4/` se conservan como **
 - [`neorandomize/`](./neorandomize/README.md) — superficie documental del magazine cultural trazable.
 - [`neorandomize/lemonda/`](./neorandomize/lemonda/README.md) — identidad editorial Lemonda y gates de recuperación histórica.
 - [`neorandomize/guitarbend/`](./neorandomize/guitarbend/README.md) — legado/fuente musical histórica.
+- [`musica/`](./musica/README.md) — superficie musical de WEB4™, separada del magazine.
+- [`musica/miracle-records/`](./musica/miracle-records/README.md) — Miracle Records y proyectos musicales relacionados.
 
 La implementación privada puede preservar, mejorar o sustituir estas capacidades; no debe asumir que estos HTML o directorios documentales son por sí solos la web viva.
 
@@ -303,6 +316,7 @@ CANONICAL PUBLIC GITHUB
 + analyses and audits
 + works
 + culture / NeoRandomize™ / Lemonda / GuitarBend
++ music / Miracle Records / Yellow Quasar / Techno Bach / Reino de las Maravillas
 + genealogy
 + relations
 + derivable states/news
@@ -343,6 +357,8 @@ WEB4™ should progressively organise native surfaces for:
 - NeoGames™.
 - Art, photography and visual work.
 - Music.
+- **Miracle Records · Innova_N record-label and musical-contribution layer.**
+- **Yellow Quasar, Techno Bach and Reino de las Maravillas · music projects related through Miracle Records; they are not magazine sections.**
 - Literature and IDEA.
 - Science, technology and research.
 - Audits / Leónidas™.
@@ -360,16 +376,23 @@ The editorial relationship is documented as:
 
 ```text
 WEB4™
-└── NeoRandomize™
-    ├── Systems / technology
-    ├── Culture
-    ├── Research
-    ├── Music
-    │   └── GuitarBend · historical legacy/source
-    └── Lemonda · humour / irony / digital culture
+├── NeoRandomize™ · magazine
+│   ├── Systems / technology
+│   ├── Culture
+│   ├── Research
+│   ├── Editorial music
+│   │   └── GuitarBend · historical legacy/source
+│   └── Lemonda · humour / irony / digital culture
+└── Music / musical and record-label contribution
+    └── Miracle Records
+        ├── Yellow Quasar
+        ├── Techno Bach
+        └── Reino de las Maravillas
 ```
 
-Recovery of **Lemonda's identity** does not mean that its historical database has been recovered. Recovery state and gates are maintained in the [Lemonda README](./neorandomize/lemonda/README.md).
+Recovery of **Lemonda's identity** does not mean that its historical database has been recovered. Recovery state and gates are maintained in the [Lemonda README](./neorandomize/lemonda/README.md). **The pending historical database does not block publication of newly created and reviewed current-stage pieces.**
+
+The music layer is separate from the magazine: [Music](./musica/README.md) documents **Miracle Records** as a record-label/musical-contribution surface and links **Yellow Quasar, Techno Bach and Reino de las Maravillas**.
 
 ### 4. Public GitHub as data source
 
@@ -523,6 +546,8 @@ Existing HTML and documentary directories under `web4/` are retained as **docume
 - [`neorandomize/`](./neorandomize/README.md) — documentary surface for the traceable cultural magazine.
 - [`neorandomize/lemonda/`](./neorandomize/lemonda/README.md) — Lemonda editorial identity and historical-recovery gates.
 - [`neorandomize/guitarbend/`](./neorandomize/guitarbend/README.md) — historical musical legacy/source.
+- [`musica/`](./musica/README.md) — WEB4™ music surface, separate from the magazine.
+- [`musica/miracle-records/`](./musica/miracle-records/README.md) — Miracle Records and related music projects.
 
 Private implementation may preserve, improve or replace these capabilities; it must not assume that these HTML files or documentary directories are themselves the live website.
 
