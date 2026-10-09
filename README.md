@@ -46,7 +46,7 @@ LÍMITE DEL MODELO ≠ LÍMITE DEMOSTRADO DE LA REALIDAD
 | **Análisis y auditorías** | [Análisis](./analisis/README.md) · [Auditorías públicas](./auditorias/publicas/README.md) · [Última auditoría: Manifiesto de Madrid 2026](./auditorias/publicas/2026-10-09_auditoria_manifiesto_madrid_ia_responsable_convergencia_trazabilidad_contacto_ES_EN.md) |
 | **Obras y cultura** | [Obras](./obras/README.md) · [IDEA](./obras/idea/README.md) |
 | **WEB4™** | [Especificación pública](./web4/README.md) |
-| **WEB4™ · mapa navegable** | [Superficies](./web4/SUPERFICIES_ES_EN.md) · [NeoRandomize™](./web4/neorandomize/README.md) · [Lemonda](./web4/neorandomize/lemonda/README.md) · [GuitarBend](./web4/neorandomize/guitarbend/README.md) |
+| **WEB4™ · mapa navegable** | [Superficies](./web4/SUPERFICIES_ES_EN.md) · [NeoRandomize™](./web4/neorandomize/README.md) · [Lemonda](./web4/neorandomize/lemonda/README.md) · [GuitarBend](./web4/neorandomize/guitarbend/README.md) · [Música](./web4/musica/README.md) · [Miracle Records](./web4/musica/miracle-records/README.md) |
 | **Wiki** | [Fuente versionada](./wiki-source/README.md) |
 | **Participar / comunidad** | [Puerta de contribución](./CONTRIBUTING.md) · [Protocolo de Síntesis](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Soporte](./SUPPORT.md) |
 | **Conducta, seguridad y derechos** | [Código de conducta](./CODE_OF_CONDUCT.md) · [Seguridad](./SECURITY.md) · [Derechos / licencia](./LICENSE) |
@@ -98,7 +98,7 @@ LIMIT OF THE MODEL ≠ DEMONSTRATED LIMIT OF REALITY
 | **Analyses and audits** | [Analyses](./analisis/README.md) · [Public audits](./auditorias/publicas/README.md) · [Latest audit: Madrid Manifesto 2026](./auditorias/publicas/2026-10-09_auditoria_manifiesto_madrid_ia_responsable_convergencia_trazabilidad_contacto_ES_EN.md) |
 | **Works and culture** | [Works](./obras/README.md) · [IDEA](./obras/idea/README.md) |
 | **WEB4™** | [Public specification](./web4/README.md) |
-| **WEB4™ · navigable map** | [Surfaces](./web4/SUPERFICIES_ES_EN.md) · [NeoRandomize™](./web4/neorandomize/README.md) · [Lemonda](./web4/neorandomize/lemonda/README.md) · [GuitarBend](./web4/neorandomize/guitarbend/README.md) |
+| **WEB4™ · navigable map** | [Surfaces](./web4/SUPERFICIES_ES_EN.md) · [NeoRandomize™](./web4/neorandomize/README.md) · [Lemonda](./web4/neorandomize/lemonda/README.md) · [GuitarBend](./web4/neorandomize/guitarbend/README.md) · [Music](./web4/musica/README.md) · [Miracle Records](./web4/musica/miracle-records/README.md) |
 | **Wiki** | [Versioned source](./wiki-source/README.md) |
 | **Participate / community** | [Contribution gateway](./CONTRIBUTING.md) · [Synthesis protocol](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Support](./SUPPORT.md) |
 | **Conduct, security and rights** | [Code of Conduct](./CODE_OF_CONDUCT.md) · [Security](./SECURITY.md) · [Rights / licence](./LICENSE) |
