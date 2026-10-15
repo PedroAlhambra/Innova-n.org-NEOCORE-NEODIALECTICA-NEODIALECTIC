@@ -307,6 +307,14 @@ PARALLEL BRANCH:
 
 All nodes converge on [Issue #70](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70), which serves as the public scrutiny space, and on this map, which serves as the versioned genealogical index.
 
+
+## Hito 15-10-2026 / Milestone 15 Oct 2026
+
+- **29-09:** Sameer declara concluida la revisión de soporte, describe la vinculación multilingüe estable como no soportada/experimental y reconoce respuestas inconsistentes. / Sameer declares the support review complete, describes stable multilingual linking as unsupported/experimental, and acknowledges inconsistent replies.
+- **15-10:** respuesta del autor enviada en el hilo 51454599, reiterando oferta de colaboración técnica y solicitando resultados concretos, escalado de producto y pruebas coordinadas. / Author's reply sent in case 51454599, renewing technical collaboration and requesting concrete investigation findings, product escalation and coordinated tests.
+- **Estado / Status:** `INCIDENT=OPEN` · `SUPPORT_REVIEW=COMPLETED_DECLARED` · `MATERIAL_FIX=NOT_VERIFIED` · `WAITING_KDP_RESPONSE`.
+- [Addendum bilingüe 15-10 / Bilingual addendum 15 Oct](./2026-10-15_addendum_kdp_51454599_supervision_limitacion_producto_y_colaboracion_ES_EN.md) · [Issue #70](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/70).
+
 ## 4. Rule for future cases and deltas
 
 Every new KDP trace related to IDEA must include, when available:
