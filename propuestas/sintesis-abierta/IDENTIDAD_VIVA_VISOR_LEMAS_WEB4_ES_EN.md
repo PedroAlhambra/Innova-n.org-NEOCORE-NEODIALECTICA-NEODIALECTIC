@@ -101,31 +101,51 @@ Cualquiera puede contribuir **una sola pieza**: lema, traducción, reformulació
 
 **Primera puerta de participación:** comentar [Issue #207](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/207) o contribuir siguiendo [CONTRIBUTING.md](../../CONTRIBUTING.md). Para WEB4 se requiere también una vía inclusiva que no obligue a disponer de una cuenta GitHub; diseño y protección de datos a definir.
 
-## 4. Cookies, privacidad y sostenibilidad: tensión no resuelta
+## 4. Contrato de acceso y uso WEB4™, consentimiento, newsletter y sostenibilidad — Síntesis Abierta
 
-**Propuesta inicial de Neo0:** estudiar la modalidad «quien no acepte cookies opcionales paga por acceso», como determinados periódicos. **Estado: DISCUSS / LEGAL REVIEW REQUIRED; NO BILLING AUTHORIZED.**
+### 4.1. Premisa empresarial y relacional del fundador
 
-El consentimiento para cookies no necesarias debe ser informado, granular, revocable y libre. La AEPD exige **Rechazar** al mismo nivel y visibilidad que **Aceptar**. El CEPD, en su Dictamen 08/2024 sobre grandes plataformas, advierte que el binario «aceptar tratamiento para publicidad comportamental o pagar» normalmente no garantiza consentimiento válido; recomienda estudiar alternativa equivalente gratuita y sin publicidad comportamental. La evaluación del caso concreto de WEB4 debe incluir LSSI, RGPD, ePrivacy, tipo de servicio, finalidad, proporcionalidad, presencia de menores, precio, equivalencia de acceso y riesgo de coerción. No presumir que imitar a la prensa sea jurídicamente suficiente.
+**Corrección de fuente 2026-10-18 / Neo0:** WEB4™ no propone un simple banner de cookies ni un peaje punitivo. La hipótesis es un **CONTRATO INTEGRAL DE ACCESO Y USO de una plataforma privado-pública**: dirección y operación privadas; marco, genealogía y Síntesis Abierta públicos; condiciones claras y opciones legítimas de acceso. Nadie está obligado a contratar el servicio y la persona puede decidir no incorporarse. **La facultad empresarial de establecer condiciones de acceso se ejerce dentro de la legislación aplicable, sin prometer una validez jurídica automática.**
 
-**Modos funcionales propuestos:**
+No se atribuyen intenciones negativas al fundador por explorar tarifas, condiciones, privacidad, comunidad o exclusividad. La propuesta debe maximizar a la vez sostenibilidad, adhesión voluntaria, protección de datos, claridad y valor de pertenencia, conservando hipótesis competidoras.
 
-| Opción | Almacenamiento y tratamiento | Acceso inicial |
-|---|---|---|
-| Solo necesarias / Rechazar opcionales | Ninguna cookie no necesaria; selector de perspectiva efímero en memoria | Visor y participación básica disponibles |
-| Preferencias opcionales | Recordar idioma/perspectivas tras aceptación específica | Igual; puede revocarse |
-| Analítica opcional | Métricas limitadas y agregadas con consentimiento separado | Igual |
-| Publicidad opcional | Solo si existe fin legítimo explícito, consentimiento válido y controles separados | No requerida para el visor |
-| Membresía / Premium | Oferta voluntaria por beneficios diferenciados, no por ejercer el derecho a rechazar | Nunca activada por mera denegación |
+`DIRECCIÓN PRIVADA + MARCO PÚBLICO` · `CONTRATO DE USO ≠ CONSENTIMIENTO DE COOKIES ≠ SUSCRIPCIÓN COMERCIAL` · `ACCESO CONDICIONADO ≠ ACCESO FORZOSO` · `NO ADHESIÓN ≠ SANCIONAR A UNA PERSONA`.
 
-Si se estudia una alternativa de pago por no usar cookies de seguimiento, se documentará como **hipótesis adicional**, con prueba jurídica específica de elección real, alternativa equivalente, transparencia, proporcionalidad, impacto y accesibilidad. **No se implementa una sanción económica automática por rechazo.**
+### 4.2. Alternativas de acceso a contrastar, sin prejuzgar ninguna
 
-**Interfaz de consentimiento:** «Aceptar opcionales» y «Rechazar opcionales» visualmente equivalentes, «Configurar» comprensible, sin casillas premarcadas; nada no esencial antes del opt-in; cambios y revocación accesibles desde cualquier página; no degradar la funcionalidad esencial por el rechazo. No confundir cookies técnicas con un permiso genérico de tratamiento publicitario. Sin dark patterns ni atribución de perfiles sensibles a partir de navegación.
+**Modelo A · Adherirse a WEB4:** aceptar los términos de servicio y, mediante controles específicos, escoger las finalidades de cookies/tratamientos no necesarios que realmente se desean. El conjunto de funcionalidades, retenciones y destinatarios debe exponerse antes de decidir. **La aceptación del contrato no convierte automáticamente en válido el consentimiento a todas las cookies.**
 
-**Fuentes jurídicas (orientativas, requieren revisión actualizada antes de despliegue):**
-- [AEPD · Guía de cookies](https://www.aepd.es/guias/guia-cookies.pdf).
-- [AEPD · Cookies y consentimiento](https://www.aepd.es/preguntas-frecuentes/17-internet-y-redes-sociales/FAQ-1707-importancia-de-las-cookies-en-la-proteccion-de-datos).
-- [AEPD · «Consentimiento o pago»](https://www.aepd.es/preguntas-frecuentes/17-internet-y-redes-sociales/FAQ-1708-sobre-como-garantizar-el-libre-consentimiento-al-uso-de-cookies-por-gran-red-social).
-- [CEPD · Dictamen 08/2024](https://www.edpb.europa.eu/documents/opinion-of-the-board-art-64/opinion-082024-on-valid-consent-in-the-context-of-consent-or_en).
+**Modelo B · Acceso equivalente sin cookies opcionales, posiblemente de pago:** estudiar una tarifa orientativa de **2 €**, especificando si es por sesión, mes o periodo y qué cubre, con información previa de impuestos y renovación. La AEPD contempla, bajo condiciones, una alternativa **no necesariamente gratuita** cuando la negativa a cookies impida el acceso. La alternativa debe ser genuinamente equivalente, ofrecida por el mismo editor y jurídicamente evaluada. El precio no debe anular la libertad real de elección. **2 € es hipótesis del fundador, no un precio vigente.**
+
+**Modelo C · No contratar / abandonar WEB4:** salida directa, clara y sin obstáculos de la zona contractual. El contenido público que exista en GitHub permanece diferenciado del servicio WEB4; no se oculta su genealogía ni se da por hecho que todo contenido del producto esté sujeto a acceso libre. El mero hecho de disponer de salida no prueba por sí solo la validez del consentimiento.
+
+**Variantes en estudio:** membresía voluntaria, acceso de invitación/comunidad, periodos promocionales, gratuidad del contenido público documental, acceso gratuito con anuncios contextuales no comportamentales y tarifas por funciones o infraestructura. Su presencia no descarta el Modelo B. **No fijar una alternativa como obligatoria sin Síntesis y decisión Neo0.**
+
+**Matiz jurídico:** la sección 3.2.10 de la [Guía de cookies AEPD](https://www.aepd.es/guias/guia-cookies.pdf) permite estudiar acceso alternativo no gratuito y exige equivalencia. El [Dictamen 08/2024 del CEPD](https://www.edpb.europa.eu/documents/opinion-of-the-board-art-64/opinion-082024-on-valid-consent-in-the-context-of-consent-or_en) tiene alcance específico para **grandes plataformas** con publicidad comportamental: advierte del consentimiento binario y aconseja examinar alternativas gratuitas. **No se debe convertir automáticamente esa recomendación específica en prohibición universal de pago a WEB4; tampoco se puede ignorar si WEB4 crece como red social.** Aplican RGPD, LSSI y normas de consumo según las finalidades reales.
+
+### 4.3. Newsletter y contrato integral
+
+La dirección de Neo0 contempla que quien entra en WEB4 se incorpore a una comunidad y reciba información. **Distinguiremos operativamente**:
+- notificaciones estrictamente necesarias para seguridad, facturación, acceso y funcionamiento del servicio, cuando correspondan al contrato;
+- boletines editoriales o de comunidad, cuya base jurídica, frecuencia y carácter se definirán;
+- comunicaciones comerciales y marketing, que **no se activarán por el mero hecho de aceptar cookies o términos**: consentimiento específico cuando sea exigible, o examen documentado de la excepción de relación contractual previa para servicios propios similares prevista en art. 21.2 LSSI, con oposición sencilla y gratuita.
+
+La [AEPD](https://www.aepd.es/preguntas-frecuentes/2-tus-obligaciones-como-responsable-del-tratamiento/6-el-deber-de-informacion/FAQ-0248-sobre-si-el-usuario-tiene-que-dar-consentimiento-a-clausula-de-privacidad) separa aceptar información contractual de consentir tratamientos. [LSSI · publicidad por email](https://lssi.digital.gob.es/lssi/la-ley/aspectos-basicos/publicidad-en-internet) fija el consentimiento previo y su excepción tasada. Valorar doble opt-in como prueba, lista de supresión, baja desde cada envío y separación de fuentes de datos. **No autoinscribir por cookie ni disparar emails mientras se decide.**
+
+### 4.4. Propuesta de interfaz contractual, sin deploy
+
+Una pantalla previa de **«Entrar en WEB4™ · Acuerdo de uso y participación»**, con acceso legible a contrato, privacidad, cookies, condiciones económicas, protección de menores, funcionamiento comunitario, moderación y bajas. Debe diferenciar:
+1. conocimiento y aceptación de las condiciones contractuales necesarias;
+2. elección explícita de cookies y tratamientos opcionales por finalidad;
+3. modalidad de acceso elegida y confirmación independiente de precio;
+4. elección legalmente válida del boletín/comunicaciones según categoría;
+5. **No deseo entrar ahora**, cierre sin registros opcionales ni cargo.
+
+La transparencia contractual no autoriza casillas premarcadas para consentimientos que requieran acción afirmativa. Si WEB4 es una red social, añadir diseño de seguridad, medidas antiabuso, información de perfiles, reportes, apelaciones, menores, RGPD/DSA aplicables, trazabilidad y reversibilidad.
+
+**Preguntas de prueba:** ¿precio 2 € por qué periodo?, ¿qué funciones equivalentes reciben A/B?, ¿hay coerción material por efectos de red?, ¿qué permisos son estrictamente necesarios?, ¿cómo se gestiona revocación?, ¿qué representa legalmente la newsletter?, ¿cómo se documentan atribución, menores, derechos, cancelación y fiscalidad?, ¿cómo trasladar *la exclusividad de lo abierto* a pertenencia y reconocimiento sin cerrar el marco público?
+
+**GATE:** `OPEN_SYNTHESIS != AGREEMENT`; `CONTRACT != CONSENT`; `2_EUR_HYPOTHESIS != INVOICE`; `PUBLIC_FRAMEWORK != FREE_PRIVATE_SERVICE`. Nada se cobra, activa, despliega o inscribe automáticamente por esta especificación.
 
 ## 5. Arquitectura y pruebas necesarias (sin fingir despliegue)
 
@@ -141,7 +161,7 @@ El corpus GitHub público **documenta** esta síntesis; la implementación priva
 **Criterios de aceptación P1:**
 1. Selector de cero, una o varias perspectivas, cambiado y reiniciado sin recarga ni cuenta obligatoria.
 2. Lema universal siempre accesible; traducciones con origen/estado visible; ninguna variante `CANDIDATE` se presenta falsamente como canon.
-3. Navegación por teclado, móvil, lector de pantalla; respeto a `prefers-reduced-motion`; sin desbordes ni bloqueo de acceso por rechazar cookies.
+3. Navegación por teclado, móvil, lector de pantalla; respeto a `prefers-reduced-motion`; sin desbordes; consentimiento y modalidad de acceso evaluados separadamente, incluida la alternativa equivalente bajo contrato si se aprueba.
 4. Sin llamadas analíticas/marketing ni almacenamiento persistente antes del consentimiento que corresponda; revocación verificable y ensayos de aceptación/rechazo equivalentes.
 5. Trazabilidad de selección, aportes y versiones sin exponer datos personales, RO/RW privado ni credenciales.
 6. Métricas de latencia, accesibilidad, tratamiento y fallos registradas durante pruebas; funcionamiento offline/errores con fallback seguro.
@@ -189,19 +209,45 @@ Contributions can include a single slogan, translation, objection, correction, a
 
 `SUBMITTED → TRACEABLE → SAN REVIEW → PROVISIONALLY ACCEPTED / REJECTED WITH REASONS / REOPENABLE → EDITORIAL DISPLAY GATE`.
 
-## 4. Cookies and optional payment: open, legally gated alternatives
+## 4. WEB4™ access and participation agreement, consent, newsletter and sustainability — Open Synthesis
 
-**Neo0's economic hypothesis:** examine the use of a pay alternative for visitors refusing optional cookies, as seen on some publisher sites. This is **not a deployed or approved paywall**. Consent for non-essential storage must be freely given, specific, informed and reversible. Spain's AEPD expects reject and accept options at equal prominence. The EDPB's Opinion 08/2024 cautions that the binary behavioural-advertising-consent-versus-payment option generally fails to ensure valid consent for large platforms and urges real, potentially free non-tracking alternatives.
+### 4.1 Founder's premise: a real public–private platform
 
-**Safe-by-default MVP:** basic viewer and participation function with no optional cookies. Offer equal-choice Accept / Reject / Configure controls, purpose-specific consent for optional preferences, analytics and advertising, easy withdrawal, no hidden profiling and no forced payment for refusing tracking. Optional **premium/membership** is a separate product hypothesis. An actual consent-or-pay alternative must pass case-specific legal, proportionality, access-equivalence and data-protection scrutiny before consideration.
+**Origin correction by Neo0, 18 October 2026:** WEB4™ is not proposing an ordinary cookie banner or a punitive charge. It is proposing an **integrated ACCESS, USE AND PARTICIPATION AGREEMENT** for a private–public enterprise: private direction and operation; public philosophical framework, genealogical records and Open Synthesis. The organisation may set lawful conditions for its service; individuals may decide whether to enter. The option to leave is meaningful, but does not alone guarantee legally valid consent.
 
-[Spanish AEPD guide](https://www.aepd.es/guias/guia-cookies.pdf) · [AEPD consent-or-pay FAQ](https://www.aepd.es/preguntas-frecuentes/17-internet-y-redes-sociales/FAQ-1708-sobre-como-garantizar-el-libre-consentimiento-al-uso-de-cookies-por-gran-red-social) · [EDPB Opinion 08/2024](https://www.edpb.europa.eu/documents/opinion-of-the-board-art-64/opinion-082024-on-valid-consent-in-the-context-of-consent-or_en).
+Exploring payment, membership, user choice and exclusivity is not evidence of malicious intent. The task is to optimise sustainability, genuine choice, legal compliance and participant value, not to prejudge the business model.
+
+`PRIVATE DIRECTION + PUBLIC FRAMEWORK` · `TERMS != COOKIE CONSENT != MARKETING SIGNUP` · `CONDITIONAL ACCESS != FORCED ACCESS`.
+
+### 4.2 Access routes under scrutiny
+
+**A · Join WEB4:** accept the applicable service agreement and independently choose specific, optional cookie/data-processing purposes. Agreeing to the contract must not be mistaken for blanket optional-cookie consent.
+
+**B · Equivalent access without optional cookies, potentially paid:** examine Neo0's proposed **€2** reference, with its billing period, tax, renewal, cancellation and scope still to be decided. Section 3.2.10 of Spain's [AEPD Cookie Guide](https://www.aepd.es/guias/guia-cookies.pdf) recognises certain cases where an alternative without optional cookies is **not necessarily free**, provided people are properly informed, the access is genuinely equivalent and the other conditions are met. The fee must not make consent effectively involuntary. This is not an approved live tariff.
+
+**C · Decline the agreement / leave WEB4:** make it straightforward to exit without optional tracking or charge. The public GitHub framework stays distinct from access to the privately operated WEB4 service. A simple possibility of leaving is not, by itself, sufficient proof of lawful consent.
+
+**Other competing models:** optional premium membership, invitation/community models, public-document access, contextual non-behavioural advertising, time-limited trials and paid advanced infrastructure. These do not invalidate B. None is selected automatically.
+
+**Legal distinction:** the [EDPB Opinion 08/2024](https://www.edpb.europa.eu/documents/opinion-of-the-board-art-64/opinion-082024-on-valid-consent-in-the-context-of-consent-or_en) specifically examines **large online platforms** using behavioural advertising; its caution about binary consent-or-pay choices must inform future social-network expansion without being misrepresented as a universal prohibition of paid non-tracking access. GDPR, Spanish LSSI and consumer law still need a case-specific review.
+
+### 4.3 Newsletter and communications
+
+Neo0 wishes to integrate participation and ongoing information into the WEB4 agreement. Distinguish strictly necessary contractual/account/security messages; editorial community updates whose lawful basis must be assessed; and marketing newsletters. **Accepting cookies or general terms must not silently subscribe anyone to commercial communications.** Marketing requires its own valid basis, usually specific affirmative agreement, subject to the narrowly framed existing-customer exception for similar services under art. 21(2) LSSI, with straightforward free opt-out. Double opt-in, evidence, suppression and unsubscribe controls remain implementation candidates. See [AEPD on privacy notices vs consent](https://www.aepd.es/preguntas-frecuentes/2-tus-obligaciones-como-responsable-del-tratamiento/6-el-deber-de-informacion/FAQ-0248-sobre-si-el-usuario-tiene-que-dar-consentimiento-a-clausula-de-privacidad) and [Spanish LSSI on commercial email](https://lssi.digital.gob.es/lssi/la-ley/aspectos-basicos/publicidad-en-internet).
+
+### 4.4 Contractual screen, governance and tests
+
+Propose a **“Join WEB4™ · Access and Participation Agreement”** view explaining terms, content/privacy policy, cookies by purpose, exact prices/periods, community rules, moderation, minors, security, reporting, appeals, cancellation and user rights. Expose independent contractual acceptance, optional processing consent, paid route confirmation, newsletter choices and **Decline / Leave**. Do not deploy or bill before legal and product review.
+
+**Pending choices:** Is €2 charged per month, session or period? Are services equivalent? How could future social-network effects change the balance of choice? Which messages are part of the service, which are marketing? What is the role of free public GitHub content? How can the “exclusivity of openness” reward contribution without privatizing the public framework? What are the applicable child-safety, platform and consumer obligations?
+
+**GATES:** `OPEN_SYNTHESIS != APPROVED TERMS`; `AGREEMENT != CONSENT`; `2_EUR_REFERENCE != ACTIVE BILLING`; `PUBLIC FRAMEWORK != FREE PRIVATE SERVICE`.
 
 ## 5. Implementation and release gates
 
 This public repository is the documentary/participation layer, **not a second public WEB4 website or a demo deployment**. Implement the role-aware viewer in the private WEB4 development repository, test responsive/accessible interactions, consent rejection, keyboard usage, provenance and privacy, then pursue a separate governed review for public deployment. The example JSON above is illustrative; it does not define a live API or authorize publication.
 
-**MVP passes only if:** multi-perspective selector + universal fallback work without tracking; contributors are attributed with rights/consent respected; unreviewed slogans are not labelled official; keyboard/mobile/reduced-motion interfaces work; no optional cookies/marketing load before valid consent; choosing “Reject” does not make the basic viewer unusable; tests are documented; no private materials leak.
+**MVP passes only if:** multi-perspective selector + universal fallback work inside every authorised access mode; contributors' rights and origins remain traceable; unreviewed slogans are not labelled official; keyboard/mobile/reduced-motion interfaces work; no optional cookies or marketing before valid consent; a paid equivalent route, if approved, is transparent and properly gated; rejection never triggers undeclared cookies, newsletter enrolment or billing; tests and legal review are documented; no private materials leak.
 
 **OPEN SYNTHESIS ≠ ACCEPTED CANON ≠ IMPLEMENTED WEB4 ≠ MONETISATION AUTHORIZATION.**
 
