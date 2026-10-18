@@ -8,6 +8,8 @@
 **Nuevo caso KDP / New KDP case:** `PENDIENTE_DE_CREACIÓN / PENDING_CREATION`  
 **Estado / Status:** `AUDIT_CLOSED_WITH_CATASTROPHIC_PROCESS_FAILURE / MATERIAL_INCIDENT_OPEN / NEW_CASE_REQUIRED_BY_KDP`
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ---
 
 ## ES · Castellano
@@ -156,21 +158,50 @@ KDP_INSTRUCTION = CREATE_NEW_CASE
 AUDIT_CLASSIFICATION = CATASTROPHIC_PROCESS_FAILURE
 ```
 
-This is classified as a **catastrophic process failure** because the support chain terminated administratively before closing the causal, technical and product chain that the case itself had opened. The issue is not merely that a feature may have a limitation; the process failure lies in ending the case while material questions remain unreconciled and forcing a new case to continue a problem that was already extensively documented.
+This is classified as a **catastrophic process failure** because the support chain ended administratively before closing the causal, technical and product chains opened by the case itself. The problem is not simply that a platform feature may have a limitation. It is that the file stopped accepting further clarification while essential technical questions remained unresolved, compelling the author to initiate another case for an already extensively documented issue.
+
+That breaks the expected continuity:
+
+```text
+EVIDENCE
+→ INVESTIGATION
+→ TECHNICAL RESULT
+→ ACCOUNTABLE TEAM
+→ FIX OR DOCUMENTED LIMITATION
+→ VERIFICATION
+→ CLOSURE
+```
+
+The actual observable sequence was instead:
+
+```text
+EVIDENCE
+→ INVESTIGATION
+→ COMPLETE ASIN MATRIX
+→ CONTRADICTORY SUPPORT ANSWERS
+→ ACKNOWLEDGEMENT OF INCONSISTENCIES
+→ DECLARED PRODUCT LIMITATION
+→ UNANSWERED TECHNICAL QUESTIONS
+→ ADMINISTRATIVE CLOSURE
+→ REPLY REJECTED
+→ INSTRUCTION TO OPEN ANOTHER CASE
+```
 
 ### 4. Genealogical reopening
 
-Case `51454599` is **not deleted or replaced**. It is preserved as an administratively closed but materially unresolved node.
+Case `51454599` **is neither deleted nor replaced**. It remains the original node, closed administratively but materially unresolved.
+
+The correct continuity is:
 
 ```text
 51454599
 [CLOSED_ADMIN / UNRESOLVED_MATERIAL]
 → NEW KDP CASE
 [PENDING_CREATION]
-→ explicit reference back to 51454599
+→ explicit reference to 51454599
 → reuse the 13-language / 36-format-edition matrix
-→ do not restart diagnosis from zero
-→ require technical/product continuity
+→ no repetition of the initial diagnosis
+→ require product/technical continuity
 ```
 
 `NEW_TRACE != ERASURE_OF_PREVIOUS_TRACE`  
@@ -181,7 +212,19 @@ Case `51454599` is **not deleted or replaced**. It is preserved as an administra
 **Suggested subject:**  
 `Reopening after unresolved closure of case 51454599 — IDEA · 13 languages / 36 format-editions`
 
-The Spanish text above is the operational submission text. Its requirements are: explicit continuity with `51454599`, no repeated collection of already supplied data, review of the full prior history, continuation from the technical/product stage already reached, and either a persistent correction or an unequivocal documented product limitation with a reliable alternative if one exists.
+**Suggested body:**
+
+> Please open this new case as an explicit continuation of KDP case 51454599, which was closed administratively although the underlying incident remains unresolved. This is not a new request and we are not asking for the diagnosis to restart.
+>
+> The previous case contains a lengthy investigation into the multilingual association of IDEA and the complete 13-language / 36-format-edition matrix supplied at KDP's request. Different agents provided inconsistent explanations concerning linking capability, automatic language selection, manual intervention and the experimental or limited nature of the functionality. On 29 September a supervisor expressly acknowledged the inconsistency and stated a current platform limitation.
+>
+> On 15 October we replied requesting only technical continuity: what exactly was investigated, whether a product or engineering issue exists, what behaviour is actually supported and what further evidence we can provide. The system rejected that continuation because case 51454599 was already closed and instructed us to open a new case.
+>
+> Please explicitly link this case to 51454599 and ensure the team reviews its complete history before requesting any information already supplied. The issue must resume at the technical/product stage reached, not begin again with first-line support.
+>
+> Innova_N remains available to help reproduce the problem in a controlled manner, provide screenshots or specific ASINs, compare marketplaces and verify changes before and after implementation.
+>
+> We require one of two verifiable outcomes: (a) a complete, persistent correction of the applicable associations, or (b) clear documentation of the actual product limitation, an accountable technical/product reference and a reliable alternative procedure if one exists.
 
 ### 6. Reopening status
 
