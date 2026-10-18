@@ -1,14 +1,14 @@
 # Auditoría global de simetría ES/EN / Global ES/EN symmetry audit
 
-**Fecha / Date:** 2026-09-10
+**Fecha / Date:** 2026-10-18
 **Regla / Rule:** **NO COMPRESIÓN / NO COMPRESSION.** Toda superficie editorial bilingüe debe conservar contenido y estructura: títulos, secciones, listas, citas, fórmulas, tablas, cautelas, ejemplos, navegación y llamadas a Síntesis. / Every bilingual editorial surface must preserve content and structure: titles, sections, lists, quotations, formulas, tables, safeguards, examples, navigation and Synthesis calls.
 
 > Los espejos `manifiestos/canonicos/` no se duplican en este recuento: su igualdad con la fuente se valida mediante la auditoría estructural canónica. / `manifiestos/canonicos/` mirrors are not double-counted here: equality with their source is validated by the canonical structural audit.
 
 ## Resumen / Summary
 
-- Markdown activo examinado / Active Markdown scanned: **469**.
-- Documentos con secciones ES/EN divididas / Split ES/EN documents: **398**.
+- Markdown activo examinado / Active Markdown scanned: **496**.
+- Documentos con secciones ES/EN divididas / Split ES/EN documents: **428**.
 - Fallos estructurales divididos / Split structural failures: **0**.
 - Fallos de marcadores / Marker failures: **0**.
 - Superficies pareadas para revisión / Paired surfaces for review: **0**.
@@ -120,6 +120,8 @@
 | `anuncios/2026-08-08_LII_CIUDADANIA_HUMANA_NEODIALECTICA_ES_EN.md` | **OK** |  |
 | `anuncios/2026-08-08_XLVII_ODIO_SINO_GOAT_SOMBRA_DOBLE_CARA_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `anuncios/2026-08-08_XLVI_CERRAR_LA_HERIDA_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
+| `anuncios/2026-09-11_NEOCORE_7_3_5_SINTESIS_ENTRADA_PROGRESIVA_WEB4_ES_EN.md` | **OK** |  |
+| `auditorias/2026-08-30_KDP_IDEA_VINCULACION_IDIOMAS_FORMATOS.md` | **OK** |  |
 | `auditorias/publicas/2026-08-06_auditoria_integridad_enlaces_readmes_wiki_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-08-07_addendum_reapertura_caso_51071689_ES_EN.md` | **OK** |  |
@@ -225,6 +227,18 @@
 | `auditorias/publicas/2026-08-31_revision_integral_github_publico_iteracion_07_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-09-01_addendum_kdp_contradiccion_capacidad_vinculacion_multilingue_caso_51454627_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/2026-09-03_kdp_matriz_casos_abiertos_y_reescalado_temporal_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
+| `auditorias/publicas/2026-09-13_auditoria_ia_matematicas_control_humano_sintesis_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-09-14_addendum_kdp_caso_51454599_reconocimiento_correccion_y_verificacion_multilingue_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-09-23_auditoria_haa_convergencia_educativa_apropiacion_fragmentaria_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-09-24_addendum_kdp_caso_51454599_matriz_asin_y_escalado_visibilidad_interna_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-09-24_auditoria_swarmworld_bucles_emergencia_custodia_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-09-27_addendum_kdp_caso_51454599_supervision_contradiccion_producto_y_escalado_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-09-30_addendum_linkedin_tata_convergencia_sistemica_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-09-30_auditoria_linkedin_distribucion_retorno_tiempo_incentivos_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-10-09_auditoria_manifiesto_madrid_ia_responsable_convergencia_trazabilidad_contacto_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-10-09_postcheck_integridad_bilingue_readmes_lemonda_madrid_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-10-15_addendum_kdp_51454599_supervision_limitacion_producto_y_colaboracion_ES_EN.md` | **OK** |  |
+| `auditorias/publicas/2026-10-15_addendum_kdp_caso_51454599_cierre_sin_resolucion_y_reapertura_nuevo_caso_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/APORTAR_PRUEBAS_Y_ABRIR_AUDITORIAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md` | **OK** |  |
 | `auditorias/publicas/KDP_IDEA_GENEALOGIA_TRAZABLE_CASOS_ISSUES_DELTAS_ES_EN.md` | **OK** |  |
@@ -329,6 +343,7 @@
 | `manifiestos/deltas/2026-08-29_relacion_genealogica_navegable_ES_EN.md` | **OK** |  |
 | `manifiestos/deltas/LXI_delta_genetica_adn_neopandora_custodia_multiescalar_ES_EN.md` | **OK** |  |
 | `manifiestos/deltas/XVI_delta_no_absolutizacion_escala_residuo_fenomenologico_umbral_x_ES_EN.md` | **OK** |  |
+| `manifiestos/deltas/XXIII_addendum_acceso_pago_deuda_relacional_reciprocidad_material_20261006_ES_EN.md` | **OK** |  |
 | `manifiestos/deltas/XXIII_delta_reciprocidad_operativa_acceso_neosinergia_ES_EN.md` | **OK** |  |
 | `neoaxiomas/C-NAX-15_SOBERANIA_INTELECTUAL_ESPECIE_ES_EN.md` | **OK** |  |
 | `neoaxiomas/C-NAX-16_NO_CORONACION_PARTE_ES_EN.md` | **OK** |  |
@@ -378,6 +393,8 @@
 | `neoaxiomas/NAX-29_FEDERABILIDAD_SIN_ABSORCION_ES_EN.md` | **OK** |  |
 | `neoaxiomas/README.md` | **OK** |  |
 | `obras/README.md` | **OK** |  |
+| `obras/idea/DIFUSION_2026-08-09.md` | **OK** |  |
+| `obras/idea/DIFUSION_PUENTE_IDEA_MARCO_2026-08-09.md` | **OK** |  |
 | `obras/idea/PRESS_KIT_ES_EN.md` | **OK** |  |
 | `obras/idea/RANSOL_RED_DEL_TIEMPO_ARBOLES_INVISIBLES_ETERNOS_ES_EN.md` | **OK** |  |
 | `obras/idea/README.md` | **OK** |  |
@@ -405,11 +422,14 @@
 | `propuestas/sintesis-abierta/2026-08-25_EXTENSION_C_NAX_20_UNIDAD_DIFERENCIADA_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-08-27_C_NAX_27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/2026-09-01_DELTA_APORTE_AUDITABLE_PRIVACIDAD_TRAZABILIDAD_ES_EN.md` | **OK** |  |
+| `propuestas/sintesis-abierta/2026-09-11_DELTA_FORMA_GENESIS_VALIDEZ_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ALGORITMO_EUROPEO_PENSAMIENTO_REFLEXIVO_v0.1_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ANEXO_CORONA_AGUILA_CUSTODIA_LEGADO_EDAD_DEL_HOMBRE_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/ANEXO_RESPONSABILIDAD_NODOS_DE_PODER_Y_DEBER_DE_EXAMEN_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md` | **OK** |  |
+| `propuestas/sintesis-abierta/CIERRE_REAPERTURA_RESINTESIS_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/GUIA_RAPIDA_APORTAR_EVIDENCIA_ES_EN.md` | **OK** |  |
+| `propuestas/sintesis-abierta/IDENTIDAD_VIVA_VISOR_LEMAS_WEB4_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md` | **PAREADO** | sin marcador dividido; estructura pareada aceptada |
 | `propuestas/sintesis-abierta/INTERACCION_NEGOCIACION_TECNOLOGICA_DEPENDENCIA_REVERSIBILIDAD_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/INTEROPERABILIDAD_GAMING_VM_ANTICHEAT_PLATAFORMAS_ABIERTAS_ES_EN.md` | **OK** |  |
@@ -432,6 +452,7 @@
 | `propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_365_DIAS_ES_EN.md` | **OK** |  |
 | `propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_7_DIAS_Y_TRANSICION_2026_ES_EN.md` | **OK** |  |
+| `propuestas/sintesis-abierta/REGLA_TOPOLOGICA_NEODIALECTICA_FRAMEWORK_IAS_ES_EN.md` | **OK** |  |
 | `proyeccion/2026-08-11_delta_web4_neocore_patrimonio_comun_aprendizaje_creacion_ES_EN.md` | **OK** |  |
 | `proyeccion/2026-08-13_DIRECCION_WEB4_NEOCRONOS_AGUILA_ES_EN.md` | **OK** |  |
 | `proyeccion/NEOCORE_PRE_7_3_DELTA_ES_EN.md` | **OK** |  |
@@ -444,12 +465,21 @@
 | `versiones/NEOCORE_7_3_2_ES_EN.md` | **OK** |  |
 | `versiones/NEOCORE_7_3_3_ES_EN.md` | **OK** |  |
 | `versiones/NEOCORE_7_3_4_ES_EN.md` | **OK** |  |
+| `versiones/NEOCORE_7_3_5_ES_EN.md` | **OK** |  |
+| `versiones/NEOCORE_7_3_6_ES_EN.md` | **OK** |  |
 | `versiones/README.md` | **OK** |  |
 | `versiones/WEB4_NEOCORE_EVOLUCION_PUBLICA_ES_EN.md` | **OK** |  |
 | `web4/2026-08-10_POSTCHECK_WEB4_PRE_7_3_IDEA_ES_EN.md` | **HISTÓRICO-PRESERVADO** | registro histórico inerte; fuera de la superficie bilingüe viva / immutable historical record; outside the live bilingual surface |
 | `web4/README.md` | **OK** |  |
+| `web4/SUPERFICIES_ES_EN.md` | **OK** |  |
 | `web4/gaming/README.md` | **OK** |  |
+| `web4/musica/README.md` | **OK** |  |
+| `web4/musica/miracle-records/README.md` | **OK** |  |
 | `web4/neocronos/aportes/README.md` | **OK** |  |
+| `web4/neorandomize/README.md` | **OK** |  |
+| `web4/neorandomize/guitarbend/README.md` | **OK** |  |
+| `web4/neorandomize/lemonda/2026-09-29_queremos_seguir_al_rayo_en_tinder_ES_EN.md` | **OK** |  |
+| `web4/neorandomize/lemonda/README.md` | **OK** |  |
 | `web4/science/README.md` | **OK** |  |
 | `web4/science/drosophila-connectome/README.md` | **OK** |  |
 | `web4/science/open-projects/README.md` | **OK** |  |
