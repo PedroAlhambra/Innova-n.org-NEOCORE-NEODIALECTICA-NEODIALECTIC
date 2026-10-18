@@ -15,6 +15,7 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 **Estado / Status:** **Síntesis iniciada / Synthesis Initiated · 2026-08-09**  
 **Naturaleza / Nature:** puerta operativa de participación, contraste y evolución del marco / operational gateway for participation, scrutiny and framework evolution
+**Nueva Síntesis pública de identidad WEB4™ / New WEB4™ brand identity Open Synthesis:** [#207 · Identidad viva participativa / Participatory living identity](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/207) · [Visor de lemas: especificación ES/EN / Slogan viewer: bilingual specification](./IDENTIDAD_VIVA_VISOR_LEMAS_WEB4_ES_EN.md) — **CANDIDATE, no desplegado / not deployed**.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english) · **[Índice completo / Complete index](INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md)**
 
