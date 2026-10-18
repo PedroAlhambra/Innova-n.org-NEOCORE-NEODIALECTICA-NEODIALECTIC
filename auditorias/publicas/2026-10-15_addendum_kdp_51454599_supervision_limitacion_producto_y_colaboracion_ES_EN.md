@@ -3,6 +3,8 @@
 
 **Estado / Status:** `AUDIT_DOCUMENTARY_PHASE=CLOSED` · `AUDIT_VERDICT=CATASTROPHIC_PROCESS_FAILURE` · `CASE_51454599=CLOSED_BY_KDP_UNRESOLVED` · `MATERIAL_INCIDENT=OPEN` · `KDP_SUPPORT_REVIEW=COMPLETED_DECLARED` · `PRODUCT_FIX=NOT_VERIFIED` · `PRODUCT_ESCALATION_REFERENCE=NOT_PROVIDED` · `AUTHOR_TECHNICAL_COLLABORATION_REOFFERED_2026-10-15` · `NEW_KDP_CASE_REQUIRED`.
 
+[ES · Dictamen de cierre](#es--dictamen-de-cierre) · [EN · Closure verdict](#en--closure-verdict)
+
 ## ES · Dictamen de cierre
 
 La auditoría documental del caso `51454599` queda **cerrada con fallo catastrófico de proceso por parte del circuito de soporte KDP**.
@@ -93,7 +95,7 @@ The audit does not allege bad faith. The observed failure may arise from platfor
 
 **Material status:** the latest documented public-catalogue verification showed partial grouping and separately listed translations. **No fresh visual catalogue verification was performed here on 15 Oct.** No new regression or subsequent fix is asserted. The incident remains open pending a verifiable correction, reliable alternative, or coherent technical/product explanation.
 
-## Referencias cruzadas / Cross-references
+## Referencias cruzadas canónicas / Canonical cross-references
 
 - [Genealogía trazable / Traceable genealogy](./KDP_IDEA_GENEALOGIA_TRAZABLE_CASOS_ISSUES_DELTAS_ES_EN.md)
 - [Addendum 24-09 · matriz / matrix](./2026-09-24_addendum_kdp_caso_51454599_matriz_asin_y_escalado_visibilidad_interna_ES_EN.md)

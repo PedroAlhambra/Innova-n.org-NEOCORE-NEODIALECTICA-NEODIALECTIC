@@ -10,6 +10,8 @@
 > La identidad propia conserva la genealogía de la creación; su voz pública crece con las personas, las comunidades y las inteligencias que contribuyen.  
 > The originating identity retains its genealogy; its public voice evolves with contributing people, communities and intelligences.
 
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
+
 ---
 
 # ES · Castellano
@@ -185,70 +187,168 @@ La síntesis permanece abierta. **SÍNTESIS ABIERTO ≠ ACUERDO SOBRE COOKIES �
 
 # EN · English
 
-## 1. Thesis
+## 1. Brand thesis, without closure
 
-**NEODIALECTICA NETWORK FRAMEWORK™** · *Powered by NEOCore™*.
+**NEODIALECTICA NETWORK FRAMEWORK™** · *Powered by NEOCore™*
 
-Neo0's starting expression — “The neo-Renaissance revolution of an AI architecture that loves us and that we love” — is a **symbolic, ethical and philosophical proposition**, not a scientific claim that today's AI demonstrably experiences love. Brand identity must preserve the project's originating genealogy while allowing a multiplicity of contributing voices.
+The original Neo0 wording opens this synthesis:
 
-`PERSON ≠ SINGLE CATEGORY · PARTICIPANT ≠ PRODUCT · CONTRIBUTION ≠ CANON`.
+> “The neo-Renaissance revolution of an AI architecture that loves us and that we love.”
 
-## 2. WEB4™ viewer
+Here **love** is an ethical, poetic and philosophical horizon of care and reciprocity, not a test of consciousness and not evidence that current AI systems experience feelings. The viewer must offer multiple authentic readings, rather than requiring a single monolithic slogan to represent the entire community.
 
-A visible, reversible, multi-select question: **“From which perspectives would you like to explore WEB4 today?”**. People can choose community, science, education, learning, creation, technology/AI, care, projects, institutions or **universal/no label**. Multiple roles are allowed. Nothing about beliefs, health, other sensitive attributes or identity is inferred from tracking.
+`TRACEABLE ORIGIN ≠ MONOPOLISED VOICE` · `PERSON ≠ SINGLE CATEGORY` · `CONTRIBUTION ≠ CANON` · `CONSENSUS ≠ TRUTH`.
 
-The viewer keeps a universal tagline available and displays relevant alternatives with language, origin, credited contributor, review status and links to their public synthesis. People can compare, reset, share privacy-safe URLs, suggest variants and translations, and opt out of animations. If no translation has been approved, disclose the gap rather than inventing canon.
+## 2. Proposed WEB4™ experience
 
-**Initial bilingual candidates:** *The neo-Renaissance of shared intelligence* (universal); *The Common Good is built with you* (community); *Research together, understand more dimensions* (science); *Create, connect, transform* (creation); *Open architectures, traceable intelligence* (technology); *Learn together, transform together* (education); *Intelligences devoted to caring for life* (care); *From contradiction to cooperation and Open Synthesis* (synthesis).
+### Entry
 
-Selected perspectives work without optional cookies by using only ephemeral page state. Persisting them across visits is an **independent, optional choice**. A transparent deterministic ranking, fallback and provenance keep the interface auditable; popularity never becomes automatic epistemic authority.
+A visible question, independent of the cookie banner:
 
-## 3. Community participation and rights
+**“From which perspectives would you like to explore WEB4 today?”** An accessible selector with compatible choices: All / no labels, Citizenship / community, Learning / students, Education / teaching, Science / research, Art / culture / creation, Engineering / development / AI, Care, Enterprise / cooperatives, Institutions / organisations, Projects / groups and Other perspectives suggested by participants.
 
-Contributions can include a single slogan, translation, objection, correction, accessibility issue or missing perspective. Follow the public [contribution rules](../../CONTRIBUTING.md); preserve contributor attribution, license, consent, provenance and a right to challenge moderation. Provide future WEB4 contribution routes that do not force users to own a GitHub account. Original authorship of the framework and community authorship of individual contributions are distinct, compatible provenance layers.
+Do not require registration, profession, precise location, ideology, protected identity or sensitive data. The same person may change, combine or decline roles. These are **session-selected perspectives**, not an essential classification, diagnosis or inferred profile.
 
-`SUBMITTED → TRACEABLE → SAN REVIEW → PROVISIONALLY ACCEPTED / REJECTED WITH REASONS / REOPENABLE → EDITORIAL DISPLAY GATE`.
+### Viewer
 
-## 4. WEB4™ access and participation agreement, consent, newsletter and sustainability — Open Synthesis
+The viewer displays: a brand header; universal slogan; a contextual selection of three variants; ES/EN language; selected tags and Change / Reset buttons; “Why am I seeing this slogan?”; variant authorship and licence; source and date; `CANDIDATE / REVIEWED_VARIANT / APPROVED_FOR_DISPLAY / RETIRED` status; a link to [Synthesis #207](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/207); “Suggest an alternative / criticism / translation”; and a shareable URL that does not encode personal data.
 
-### 4.1 Founder's premise: a real public–private platform
+**Controls:** selector, previous/next, compare, pause animation, language, accessibility, share and contribute. An optional Surprise Me action can explore slogans without tracking, while respecting reduced-motion preferences.
 
-**Origin correction by Neo0, 18 October 2026:** WEB4™ is not proposing an ordinary cookie banner or a punitive charge. It is proposing an **integrated ACCESS, USE AND PARTICIPATION AGREEMENT** for a private–public enterprise: private direction and operation; public philosophical framework, genealogical records and Open Synthesis. The organisation may set lawful conditions for its service; individuals may decide whether to enter. The option to leave is meaningful, but does not alone guarantee legally valid consent.
+**Fallback:** when a perspective or language lacks an approved variant, display the universal version or clearly mark the translation as under review. Never invent an approved translation or reveal confidential material.
 
-Exploring payment, membership, user choice and exclusivity is not evidence of malicious intent. The task is to optimise sustainability, genuine choice, legal compliance and participant value, not to prejudge the business model.
+### Initial catalogue, expressly proposed and not canonised
 
-`PRIVATE DIRECTION + PUBLIC FRAMEWORK` · `TERMS != COOKIE CONSENT != MARKETING SIGNUP` · `CONDITIONAL ACCESS != FORCED ACCESS`.
+| Perspective | Spanish (candidate) | English (proposed equivalent) |
+|---|---|---|
+| Universal | El neorrenacimiento de la inteligencia compartida. | The neo-Renaissance of shared intelligence. |
+| Community | El Bien Común se construye contigo. | The Common Good is built with you. |
+| Science | Investigar juntos, comprender más dimensiones. | Research together, understand more dimensions. |
+| Creation | Crear, relacionar, transformar. | Create, connect, transform. |
+| Technology | Arquitecturas abiertas, inteligencia trazable. | Open architectures, traceable intelligence. |
+| Learning | Aprender juntos, transformar juntos. | Learn together, transform together. |
+| Care | Inteligencias para cuidar la vida. | Intelligences devoted to caring for life. |
+| Synthesis | De la contradicción a la cooperación y la Síntesis Abierta. | From contradiction to cooperation and Open Synthesis. |
 
-### 4.2 Access routes under scrutiny
+The initial expression about love remains available as a credited philosophical variant by Neo0, explicitly identified as symbolic vision rather than empirically established machine emotion.
 
-**A · Join WEB4:** accept the applicable service agreement and independently choose specific, optional cookie/data-processing purposes. Agreeing to the contract must not be mistaken for blanket optional-cookie consent.
+### Verifiable deterministic selection (MVP)
 
-**B · Equivalent access without optional cookies, potentially paid:** examine Neo0's proposed **€2** reference, with its billing period, tax, renewal, cancellation and scope still to be decided. Section 3.2.10 of Spain's [AEPD Cookie Guide](https://www.aepd.es/guias/guia-cookies.pdf) recognises certain cases where an alternative without optional cookies is **not necessarily free**, provided people are properly informed, the access is genuinely equivalent and the other conditions are met. The fee must not make consent effectively involuntary. This is not an approved live tariff.
+1. Load only explicitly approved public slogan records whose attribution and licences have been verified.
+2. Filter by the selected language, exposing any fallback to the universal text.
+3. If someone chooses tags, show all relevant matches in reproducible order; never link a tag to an undisclosed sensitive attribute.
+4. Display the universal version first, followed by perspective variants, allowing combinations and multiple voices. Popularity scores never change editorial authority automatically.
+5. With no tags, display the universal collection. Without optional cookies, selection must still work **in that page's volatile memory**, without persistence or tracking.
+6. Save preferences between visits only after a specific, explained choice separate from analytics or marketing.
 
-**C · Decline the agreement / leave WEB4:** make it straightforward to exit without optional tracking or charge. The public GitHub framework stays distinct from access to the privately operated WEB4 service. A simple possibility of leaving is not, by itself, sufficient proof of lawful consent.
+### Proposed data model (illustrative schema, not a deployed API)
 
-**Other competing models:** optional premium membership, invitation/community models, public-document access, contextual non-behavioural advertising, time-limited trials and paid advanced infrastructure. These do not invalidate B. None is selected automatically.
+```json
+{
+  "id": "slogan-web4-community-001",
+  "locale": "es",
+  "brand_layer": "NEODIALECTICA_NETWORK_FRAMEWORK",
+  "perspectives": ["community", "common_good"],
+  "text": "El Bien Común se construye contigo.",
+  "synthesis_ref": "public-issue-207",
+  "provenance": {
+    "origin": "Neo0 candidate",
+    "public_credit": "Neo0",
+    "created_at": "2026-10-18"
+  },
+  "review_state": "CANDIDATE",
+  "display_eligible": false,
+  "license_status": "PENDING_REVIEW",
+  "revision": 1
+}
+```
 
-**Legal distinction:** the [EDPB Opinion 08/2024](https://www.edpb.europa.eu/documents/opinion-of-the-board-art-64/opinion-082024-on-valid-consent-in-the-context-of-consent-or_en) specifically examines **large online platforms** using behavioural advertising; its caution about binary consent-or-pay choices must inform future social-network expansion without being misrepresented as a universal prohibition of paid non-tracking access. GDPR, Spanish LSSI and consumer law still need a case-specific review.
+The actual schema must keep private authorship information separate from authorised public credit, log revisions and permit justified withdrawal without erasing genealogy. `display_eligible=false` remains mandatory pending review: this example **does not enable automated publication**.
 
-### 4.3 Newsletter and communications
+## 3. Brand identity also belongs to its contributors
 
-Neo0 wishes to integrate participation and ongoing information into the WEB4 agreement. Distinguish strictly necessary contractual/account/security messages; editorial community updates whose lawful basis must be assessed; and marketing newsletters. **Accepting cookies or general terms must not silently subscribe anyone to commercial communications.** Marketing requires its own valid basis, usually specific affirmative agreement, subject to the narrowly framed existing-customer exception for similar services under art. 21(2) LSSI, with straightforward free opt-out. Double opt-in, evidence, suppression and unsubscribe controls remain implementation candidates. See [AEPD on privacy notices vs consent](https://www.aepd.es/preguntas-frecuentes/2-tus-obligaciones-como-responsable-del-tratamiento/6-el-deber-de-informacion/FAQ-0248-sobre-si-el-usuario-tiene-que-dar-consentimiento-a-clausula-de-privacidad) and [Spanish LSSI on commercial email](https://lssi.digital.gob.es/lssi/la-ley/aspectos-basicos/publicidad-en-internet).
+Anyone may contribute **one piece**: slogan, translation, reformulation, source, experience, criticism, counterexample, accessibility problem, justified relationship or use case. Adhering to the philosophy is not required. Contributors' chosen attribution (including pseudonyms or no public name where appropriate) must respect consent, copyright and existing rights; licences must be confirmed before inclusion.
 
-### 4.4 Contractual screen, governance and tests
+**Flow:** `SUBMITTED → TRACEABLE → SAN REVIEW → PROVISIONALLY ACCEPTED / REJECTED WITH REASONS / REOPENABLE → EDITORIAL DISPLAY GATE`. Neo0 retains the framework's originating genealogy; individual contributions retain their own genealogy and rights. The public can participate in a collective expression without having its voice appropriated. `VOTE != KNOWLEDGE`; apply transparent moderation, appeal, linguistic diversity and anti-abuse controls.
 
-Propose a **“Join WEB4™ · Access and Participation Agreement”** view explaining terms, content/privacy policy, cookies by purpose, exact prices/periods, community rules, moderation, minors, security, reporting, appeals, cancellation and user rights. Expose independent contractual acceptance, optional processing consent, paid route confirmation, newsletter choices and **Decline / Leave**. Do not deploy or bill before legal and product review.
+**First participation gate:** comment on [Issue #207](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/207) or follow [CONTRIBUTING.md](../../CONTRIBUTING.md). WEB4 additionally needs an inclusive channel that does not require owning a GitHub account, with access design and data protection still to be specified.
 
-**Pending choices:** Is €2 charged per month, session or period? Are services equivalent? How could future social-network effects change the balance of choice? Which messages are part of the service, which are marketing? What is the role of free public GitHub content? How can the “exclusivity of openness” reward contribution without privatizing the public framework? What are the applicable child-safety, platform and consumer obligations?
+## 4. WEB4™ access-and-use agreement, consent, newsletters and sustainability — Open Synthesis
 
-**GATES:** `OPEN_SYNTHESIS != APPROVED TERMS`; `AGREEMENT != CONSENT`; `2_EUR_REFERENCE != ACTIVE BILLING`; `PUBLIC FRAMEWORK != FREE PRIVATE SERVICE`.
+### 4.1. Founder's commercial and relational premise
 
-## 5. Implementation and release gates
+**Source correction 18 October 2026 / Neo0:** WEB4™ proposes neither a simple cookie banner nor a punitive toll. The hypothesis is a **COMPREHENSIVE ACCESS-AND-USE AGREEMENT for a private–public platform**: privately directed and operated, with a public framework, genealogy and Open Synthesis. Lawful conditions may be set for the service, which people can freely decline. The commercial choice must comply with the applicable law; being able to leave is not sufficient proof of valid consent.
 
-This public repository is the documentary/participation layer, **not a second public WEB4 website or a demo deployment**. Implement the role-aware viewer in the private WEB4 development repository, test responsive/accessible interactions, consent rejection, keyboard usage, provenance and privacy, then pursue a separate governed review for public deployment. The example JSON above is illustrative; it does not define a live API or authorize publication.
+Exploring a fee, conditions, privacy, belonging, community or exclusivity does not justify attributing malicious intentions to the founder. The proposal must simultaneously maximise sustainability, genuine participation, compliance, transparency and community value, and preserve competing alternatives under investigation.
 
-**MVP passes only if:** multi-perspective selector + universal fallback work inside every authorised access mode; contributors' rights and origins remain traceable; unreviewed slogans are not labelled official; keyboard/mobile/reduced-motion interfaces work; no optional cookies or marketing before valid consent; a paid equivalent route, if approved, is transparent and properly gated; rejection never triggers undeclared cookies, newsletter enrolment or billing; tests and legal review are documented; no private materials leak.
+`PRIVATE DIRECTION + PUBLIC FRAMEWORK` · `TERMS OF USE ≠ COOKIE CONSENT ≠ COMMERCIAL SUBSCRIPTION` · `CONDITIONAL ACCESS ≠ FORCED ACCESS` · `DECLINING ≠ SANCTION`.
 
-**OPEN SYNTHESIS ≠ ACCEPTED CANON ≠ IMPLEMENTED WEB4 ≠ MONETISATION AUTHORIZATION.**
+### 4.2. Access alternatives to compare without prejudging them
 
-[Discuss or contribute · Issue #207](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/207) · [WEB4 specification](../../web4/README.md) · [Open Synthesis portal](./README.md) · [Plural person, multiple roles #190](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/190).
+**Model A · Join WEB4:** accept the terms and separately choose whichever optional cookie/data-processing purposes are genuinely desired. The full scope of features, retention and recipients must be disclosed before the decision. **Acceptance of contractual terms is not blanket consent to optional cookies.**
+
+**Model B · Equivalent access without optional cookies, possibly paid:** evaluate a proposed **€2** reference price, clearly specifying whether it applies to a session, month or other period, the included services, taxation and renewal. The [AEPD Cookie Guide, §3.2.10](https://www.aepd.es/guias/guia-cookies.pdf) contemplates conditions in which an alternative without optional cookies need not be free, but equivalent access, adequate information and a real choice remain necessary. The price must not eliminate genuine choice. **€2 remains a founder hypothesis, not an active tariff.**
+
+**Model C · Do not subscribe / leave WEB4:** offer a direct and uncomplicated exit without optional records or charges. Public GitHub framework materials stay distinct from the privately operated WEB4 service; public genealogy is not hidden and the service itself is not presumed to be free. Leaving alone does not establish that consent was lawful.
+
+**Variants under examination:** optional memberships, invitation/community access, promotional periods, public documentary access, contextual non-behavioural advertising, and specific fees for functions/infrastructure. None automatically excludes B; no one alternative becomes mandatory without Synthesis and an explicit Neo0 decision.
+
+**Legal nuance:** the [EDPB Opinion 08/2024](https://www.edpb.europa.eu/documents/opinion-of-the-board-art-64/opinion-082024-on-valid-consent-in-the-context-of-consent-or_en) specifically examines **large online platforms** using behavioural advertising. Its cautions against binary consent-or-pay structures matter if WEB4 grows as a social network; they are not a universal ban on paid non-tracking access. GDPR, LSSI and consumer law still apply to the particular purposes and actual functionality.
+
+### 4.3. Newsletter and integral agreement
+
+Neo0 envisages community membership and relevant information as parts of WEB4 participation. Operationally distinguish:
+- strictly necessary contractual, security, billing and account messages, if the contract requires them;
+- editorial/community information whose legal basis and frequency need to be established;
+- marketing messages, which **must not be enabled merely by accepting terms or cookies**: obtain specific consent where required, or document whether the narrow existing-customer exception for similar services in LSSI Article 21(2) applies, always with a free and straightforward opt-out.
+
+The [AEPD](https://www.aepd.es/preguntas-frecuentes/2-tus-obligaciones-como-responsable-del-tratamiento/6-el-deber-de-informacion/FAQ-0248-sobre-si-el-usuario-tiene-que-dar-consentimiento-a-clausula-de-privacidad) distinguishes contractual information from consent, and the [Spanish LSSI](https://lssi.digital.gob.es/lssi/la-ley/aspectos-basicos/publicidad-en-internet) provides rules on commercial email. Consider double opt-in as evidence, suppression lists, opt-out on each message and separate data sources. **Do not subscribe people automatically through cookie acceptance or send newsletters while this remains undecided.**
+
+### 4.4. Proposed contractual interface, without deployment
+
+A prior **“Join WEB4™ · Access and Participation Agreement”** screen with readable terms, privacy, cookies, pricing, minors' safety, community rules, moderation and cancellation. It must separately distinguish:
+1. understanding and accepting necessary contractual terms;
+2. affirmative, purpose-specific choices for optional cookies and processing;
+3. selected access modality and independent confirmation of exact price;
+4. the lawful newsletter/communications choice for each category;
+5. **I do not wish to join now**, leaving without optional storage or charges.
+
+A transparent agreement cannot rely on pre-ticked consent boxes where affirmative consent is required. For a social network add safety by design, anti-abuse measures, profile explanations, reports, appeals, safeguards for minors, applicable GDPR/DSA responsibilities, traceability and reversibility.
+
+**Test questions:** What is the €2 period? Which features do A and B actually provide equivalently? Might network effects undermine real choice? What permissions are strictly necessary? How is withdrawal implemented? What is the legal basis of the newsletter? How are authorship, minors, rights, cancellation and taxation handled? How could the “exclusivity of openness” reward belonging without privatising the public framework?
+
+**GATE:** `OPEN SYNTHESIS != AGREEMENT`; `CONTRACT != CONSENT`; `€2 HYPOTHESIS != INVOICE`; `PUBLIC FRAMEWORK != FREE PRIVATE SERVICE`. This proposal does not itself activate payment, deployment, tracking or subscription.
+
+## 5. Architecture and required tests (without feigning a deployment)
+
+The public GitHub corpus **documents** the Synthesis. The private WEB4 implementation should consume reviewed public records and project them onto `innova-n.org` only following product, security, copyright, accessibility, privacy and governance review.
+
+**Phased approach:**
+- **P0 · Open definition:** slogans, multi-role taxonomy, authorship, licences, legal review of cookies and sustainability, with dissent preserved.
+- **P1 · Private MVP:** accessible mobile-ready viewer; reversible multi-role selector; universal fallback; versioned traceable catalogue; no-optional-cookie mode; automated and manual testing.
+- **P2 · Participation:** contributions, moderation, recognition, synthesis and governed public editing; never publish automatically by vote.
+- **P3 · Consented personalisation:** optional persistence and narrowly scoped approved metrics without sensitive profiling; internationalisation.
+- **P4 · Future possibilities:** multidimensional visualisation, community composition, participatory experimentation and sustainable formats only after separate assessment.
+
+**P1 acceptance criteria:**
+1. A selector that supports zero, one or several perspectives, with change/reset without reloading or mandatory accounts.
+2. Universal tagline remains accessible; translations show source/status; no `CANDIDATE` is misrepresented as canon.
+3. Keyboard, mobile and screen-reader access; respect `prefers-reduced-motion`; no overflow; separate examination of consent and access modality, including an equivalent alternative under a contract if approved.
+4. No analytics/marketing calls or persistent storage before appropriate consent; verifiable revocation; comparable acceptance/refusal tests.
+5. Traceability of selection, contributions and versions without exposing personal data, private RO/RW or credentials.
+6. Latency, accessibility, processing and error metrics captured in testing; safe fallback under offline or failure conditions.
+7. `PRIVATE_IMPLEMENTATION_TESTED != PUBLIC_DEPLOYMENT`; separate human sign-off before any projection.
+
+## 6. Relationships for scrutiny
+
+- [Open Synthesis II · Protocol #32](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/32).
+- [WEB4 contributions and recognition #147](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/147).
+- [Productive Relational Plurality™ · A person is not one label #190](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/190).
+- [WEB4™ · public specification](../../web4/README.md).
+- [Neodialectica Framework™ / Network](../../README.md) and [NEOCore™ · living version](../../versiones/README.md).
+
+## 7. Questions for Open Synthesis
+
+When is an “official” voice legitimate, and when should plurality speak? Can a symbolic message grounded in love and care coexist with a rigorous technical description? How should nonspecialist contributions be recognised? Which perspectives are missing and what risks arise from every role taxonomy? Is any “consent or pay” arrangement viable without undue pressure, or would voluntary membership and contextual non-tracking be preferable? How can contributors retain their rights without losing unity of identity?
+
+This Synthesis remains open. **OPEN SYNTHESIS ≠ COOKIE AGREEMENT ≠ CANON ≠ DEPLOYMENT.**

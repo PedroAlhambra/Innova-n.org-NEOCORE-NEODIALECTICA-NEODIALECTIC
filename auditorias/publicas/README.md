@@ -226,6 +226,7 @@ PROBLEM
 **Contributions sought:** timelines and evidence concerning mappings, ISRC/UPC, mixed profiles, disappearances/reappearances, royalties and support. Endorsement of an allegation is not requested.
 
 ### 2.3 · Amazon KDP · Author Central · IDEA · genealogy 51071689 / 51425188 / 51425302 / 51454599 / 51454627 / 51454666
+- **[15 Oct 2026 addendum · case 51454599 · supervisor response, product limitation and renewed technical collaboration](./2026-10-15_addendum_kdp_51454599_supervision_limitacion_producto_y_colaboracion_ES_EN.md)**
 
 - [Public indirect audit](../../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md)
 - [Provisional operational success case](./2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md)
