@@ -13,6 +13,7 @@ NeoRandomize™ es la rama magazine/cultural de WEB4™. Reúne piezas de sistem
 ### Navegación interna
 
 - **[Lemonda](./lemonda/README.md)** — humor, ironía y cultura digital; recuperación de la identidad de la antigua página Lemonda dentro de NeoRandomize™.
+- **[Lemonda · La IA descubre gzip (ES/EN)](./lemonda/2026-10-19_gzip_descubrimiento_retrospectivo_ES_EN.md)** — pieza satírica del 19/10/2026; compresión de datos frente a comprensión y genealogía técnica.
 - **[GuitarBend](./guitarbend/README.md)** — legado/fuente editorial histórica vinculada primariamente a Música; recuperación de datos separada de la existencia del magazine.
 - **[WEB4™ · índice general](../README.md)**.
 - **[Repositorio Innova_N · inicio](../../README.md)**.
@@ -37,6 +38,7 @@ NeoRandomize™ is WEB4™'s magazine/cultural branch. It brings together pieces
 ### Internal navigation
 
 - **[Lemonda](./lemonda/README.md)** — humour, irony and digital culture; recovery of the identity of the former Lemonda page inside NeoRandomize™.
+- **[Lemonda · AI discovers gzip (ES/EN)](./lemonda/2026-10-19_gzip_descubrimiento_retrospectivo_ES_EN.md)** — October 19, 2026 satire on data compression, understanding and technical genealogy.
 - **[GuitarBend](./guitarbend/README.md)** — historical legacy/editorial source primarily linked to Music; data recovery remains separate from operation of the magazine.
 - **[WEB4™ · general index](../README.md)**.
 - **[Innova_N repository · home](../../README.md)**.
