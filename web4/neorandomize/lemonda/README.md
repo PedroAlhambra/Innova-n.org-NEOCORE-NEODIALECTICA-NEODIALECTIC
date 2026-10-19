@@ -28,6 +28,7 @@ Mientras esos gates no estén demostrados, este documento conserva **identidad, 
 
 La recuperación histórica y la publicación actual son carriles distintos: **`LEGACY_DB_PENDING ≠ NEW_CONTENT_BLOCKED`**. Las piezas nuevas creadas en la etapa actual pueden publicarse cuando tengan procedencia y revisión suficientes.
 
+- **2026-10-19 — [ÚLTIMA HORA: La IA descubre gzip](./2026-10-19_gzip_descubrimiento_retrospectivo_ES_EN.md)** — sátira tecnológica bilingüe: gzip (1992), anuncio de Claude Code (2026), compresión de transporte frente a recuperación contextual en NEOCore/NAVE. Coincidencia ≠ copia.
 - **2026-09-29 — [¡Queremos seguir al Rayo en Tinder!](./2026-09-29_queremos_seguir_al_rayo_en_tinder_ES_EN.md)** — pieza de humor/cultura digital ya materializada en el shared core NeoRandomize™.
 
 El inventario público crecerá desde piezas nuevas verificadas sin afirmar que proceden de la antigua BBDD.
@@ -61,6 +62,7 @@ Until those gates are demonstrated, this document preserves **identity, relation
 
 Historical recovery and current publication are separate lanes: **`LEGACY_DB_PENDING ≠ NEW_CONTENT_BLOCKED`**. New current-stage pieces may be published once provenance and review are sufficient.
 
+- **2026-10-19 — [BREAKING NEWS: AI discovers gzip](./2026-10-19_gzip_descubrimiento_retrospectivo_ES_EN.md)** — bilingual technology satire: gzip (1992), the Claude Code announcement (2026), and transport compression versus NEOCore/NAVE's contextual reconstruction. Coincidence ≠ copying.
 - **2026-09-29 — [We want to support Rayo on Tinder!](./2026-09-29_queremos_seguir_al_rayo_en_tinder_ES_EN.md)** — humour/digital-culture piece already materialised in the NeoRandomize™ shared core.
 
 The public inventory can grow from verified new pieces without claiming that they originate in the former database.
