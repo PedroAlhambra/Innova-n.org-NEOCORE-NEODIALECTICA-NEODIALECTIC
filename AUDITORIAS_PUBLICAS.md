@@ -9,6 +9,21 @@ Las Auditorías Públicas son una **capa principal** del Neodialectica Framework
 - [LIII · Manifiesto Leónidas™ / Leónidas™ Manifesto](./manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
 - [Síntesis Abierta LIII / Open Synthesis LIII · #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)
 
+## Convergencias institucionales / Institutional convergence cases
+
+**Documentación existente y contrastable, abierta a refutación / Existing and reviewable documentation, open to challenge:**
+
+- [Stanford / ACE · marco previo y traza pública / prior framework and public trace](./analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
+- [OpenAI–Anthropic · convergencia institucional / institutional convergence](./analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
+- [Anthropic · gobernanza y problema del marco / governance and framework problem](./analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
+- [Meta / Zuckerberg · convergencia parcial / partial convergence](./analisis/publicos/2026-08-13_convergencia-neodialectica-meta-zuckerberg_ES_EN.md)
+- [#143 · Stanford, OpenAI, Anthropic, Meta y futuros actores / future actors](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/143)
+- [#136 · NeoGenealogía™ / NeoGenealogy™ · RADAR-Π™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136)
+
+**ES:** Se catalogan como análisis de convergencia y precedencia documental, no como demostración de plagio, acceso, transmisión o reconocimiento institucional. **EN:** These are catalogued as convergence and documentary-precedence analyses, not as proof of plagiarism, access, transmission or institutional endorsement.
+
+**Índice bilingüe de las 16 familias actualmente catalogadas / Bilingual index of the 16 currently catalogued families:** [README principal / main README](./README.md) · [Portal operativo / operational portal](./auditorias/publicas/README.md).
+
 ## Casos demostradores / Demonstrator cases
 
 - [#61 · Caso DistroKid / Spotify / DSPs · trazabilidad musical, metadatos y regalías](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/61) — caso abierto que separa hechos, inferencias e hipótesis y mantiene causalidad abierta a contradicción externa. / Open case separating facts, inferences and hypotheses while keeping causality open to external contradiction.
