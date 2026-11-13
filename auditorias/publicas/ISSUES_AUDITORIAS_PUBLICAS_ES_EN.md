@@ -140,6 +140,26 @@ La auditoría no afirma que los autores hayan liberado una «superinteligencia»
 
 **Aportes prioritarios:** borradores/minutas previos del Consejo, versiones intermedias, publicaciones anteriores de los firmantes, confirmaciones de acceso/lectura, referencias internas, evidencia de transmisión y contraevidencia que reduzca la hipótesis.
 
+### 10. Stanford / ACE · OpenAI · Anthropic · Meta · convergencia institucional
+
+**Issue transversal:** [#143 · Síntesis Abierta institucional](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/143) · [#136 · NeoGenealogía / RADAR-Π](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136)
+
+Documentos vinculados:
+- [Stanford / ACE · análisis y captura](../../analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
+- [OpenAI–Anthropic · convergencia institucional](../../analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
+- [Anthropic · problema del marco](../../analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
+- [Meta / Zuckerberg · convergencia parcial](../../analisis/publicos/2026-08-13_convergencia-neodialectica-meta-zuckerberg_ES_EN.md)
+
+**Criterio:** precedencia y afinidad conceptual sujetas a contraste; sin derivación o apropiación demostrada. Se solicitan fuentes primarias, fechas de fijación, contraejemplos y evidencia de acceso o transmisión.
+
+### 11. IA · matemáticas · control humano
+
+**Issue:** [#199 · matemáticas, evaluación y supervisión humana](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/199)
+
+- [Auditoría IA, matemáticas y control humano](./2026-09-13_auditoria_ia_matematicas_control_humano_sintesis_ES_EN.md)
+
+**Criterio:** resolver no equivale a comprender; las hipótesis sobre el control humano siguen abiertas a verificación y refutación.
+
 ## Abrir una auditoría nueva
 
 No es necesario que el problema haya sido detectado previamente por Innova_N.
@@ -286,6 +306,26 @@ The audit does not claim that the authors released a “superintelligence” or 
 **Status:** `E2 + CONTACT TRACE / CONV-ND_STRONG / DIRECT_OUTREACH_TO_4_OF_11_SIGNATORIES_DOCUMENTED / READ_RECEIPT_UNPROVEN / INTERNAL_TRANSMISSION_UNPROVEN / DERIVATION_UNPROVEN`.
 
 **Priority contributions:** earlier Council drafts/minutes, intermediate versions, prior signatory publications, access/read confirmations, internal references, transmission evidence and counterevidence capable of lowering the hypothesis.
+
+### 10. Stanford / ACE · OpenAI · Anthropic · Meta · institutional convergence
+
+**Cross-institutional issue:** [#143 · institutional Open Synthesis](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/143) · [#136 · NeoGenealogy / RADAR-Π](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136)
+
+Linked documents:
+- [Stanford / ACE · analysis and screenshot](../../analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
+- [OpenAI–Anthropic · institutional convergence](../../analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
+- [Anthropic · framework problem](../../analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
+- [Meta / Zuckerberg · partial convergence](../../analisis/publicos/2026-08-13_convergencia-neodialectica-meta-zuckerberg_ES_EN.md)
+
+**Criterion:** precedence and conceptual affinity are open to scrutiny; derivation or appropriation is unproven. Primary sources, dated records, counterexamples and evidence of access or transmission are welcome.
+
+### 11. AI · mathematics · human control
+
+**Issue:** [#199 · mathematics, evaluation and human oversight](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/199)
+
+- [AI, mathematics and human-control audit](./2026-09-13_auditoria_ia_matematicas_control_humano_sintesis_ES_EN.md)
+
+**Criterion:** solving does not equal understanding; hypotheses about human oversight remain open to verification and refutation.
 
 ## Open a new audit
 
