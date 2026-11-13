@@ -163,6 +163,32 @@ La dependencia del marco respecto de Neo0™, la carga de creación y mantenimie
 
 **Estado:** `E2 + TRAZA-DE-CONTACTO / CONV-ND_STRONG`. Existe correspondencia sistémica, precedencia pública respecto de la publicación y 4/11 firmantes con envío directo previo localizado. Lectura, acceso material, transmisión interna, influencia y derivación permanecen sin demostrar.
 
+### 2.11 · Stanford / ACE · OpenAI · Anthropic · Meta · convergencia institucional y genealogía
+
+- [Stanford / ACE · marco previo neodialéctico y captura de trazabilidad](../../analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
+- [OpenAI y Anthropic · convergencia institucional](../../analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
+- [Anthropic · gobernanza de IA y problema del marco](../../analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
+- [Meta / Zuckerberg · convergencia parcial](../../analisis/publicos/2026-08-13_convergencia-neodialectica-meta-zuckerberg_ES_EN.md)
+- [#143 · Síntesis Abierta transversal y aportes verificables](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/143) · [#136 · NeoGenealogía / RADAR-Π](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136)
+
+**Estado:** análisis comparativos públicos y contraste genealógico abierto, no atribución causal demostrada. La cronología declarada del marco desde 2021, las fechas de fijación documental y las publicaciones externas deben examinarse por separado. Convergencia o precedencia no implican acceso, copia, influencia o reconocimiento.
+
+### 2.12 · CZUR ET24 Pro · Linux · auditoría técnico-documental
+
+- [Delta de síntesis y auditoría Linux](../../actualizaciones/2026-09-08_DELTA_SINTESIS_CZUR_ET24_PRO_LINUX_AUDITORIA_ES_EN.md)
+- [Addendum X · hardware, instalación y primera ejecución](../../actualizaciones/2026-09-10_ADDENDUM10_DELTA_CZUR_ET24_PRO_HARDWARE_INSTALL_RUNTIME_ES_EN.md)
+- [Serie de addenda y actualizaciones](../../AUDITORIAS_PUBLICAS.md)
+
+**Estado:** observaciones técnicas y sucesivos contrastes versionados; no extrapolar un resultado de hardware o software a versiones no ensayadas.
+
+### 2.13 · Protección integral de la infancia · MAXPROC
+
+- [Auditoría MAXPROC · protección integral de la infancia](../../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+- [Fuentes y matriz de evidencias](../../analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md)
+- [#45 · Síntesis Abierta asociada](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45)
+
+**Estado:** auditoría temática con hipótesis contrastables; no presenta el «Punto de No Retorno Infantil™» como hecho probado.
+
 ## 3 · Abrir una Auditoría Pública
 
 No es necesario que Innova_N haya detectado primero el problema. Puede proponerse una auditoría mediante la plantilla GitHub **`Auditoría Pública · aporte o nueva propuesta`**.
@@ -291,6 +317,32 @@ The framework's dependency on Neo0™, the creation and maintenance burden and t
 - **[#206 · Madrid Manifesto 2026 · convergence and contact traceability](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/206)**
 
 **Status:** `E2 + CONTACT TRACE / CONV-ND_STRONG`. Systemic correspondence, public precedence relative to publication and prior direct sent contact to 4/11 signatories are documented. Reading, material access, internal transmission, influence and derivation remain unproven.
+
+### 2.11 · Stanford / ACE · OpenAI · Anthropic · Meta · institutional convergence and genealogy
+
+- [Stanford / ACE · prior Neodialectical framework and traceability screenshot](../../analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
+- [OpenAI and Anthropic · institutional convergence](../../analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
+- [Anthropic · AI governance and the framework problem](../../analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
+- [Meta / Zuckerberg · partial convergence](../../analisis/publicos/2026-08-13_convergencia-neodialectica-meta-zuckerberg_ES_EN.md)
+- [#143 · cross-institutional Open Synthesis and verifiable contributions](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/143) · [#136 · NeoGenealogy / RADAR-Π](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136)
+
+**Status:** public comparative analyses and open genealogical scrutiny, not a proven causal attribution. The framework's stated genealogy since 2021, dated documentary records and third-party publications must be considered separately. Convergence or precedence does not establish access, copying, influence or endorsement.
+
+### 2.12 · CZUR ET24 Pro · Linux · technical-documentary audit
+
+- [Synthesis delta and Linux audit](../../actualizaciones/2026-09-08_DELTA_SINTESIS_CZUR_ET24_PRO_LINUX_AUDITORIA_ES_EN.md)
+- [Addendum X · hardware, installation and first runtime](../../actualizaciones/2026-09-10_ADDENDUM10_DELTA_CZUR_ET24_PRO_HARDWARE_INSTALL_RUNTIME_ES_EN.md)
+- [Addenda and updates series](../../AUDITORIAS_PUBLICAS.md)
+
+**Status:** versioned technical observations and successive checks; hardware or software findings are not extrapolated to untested versions.
+
+### 2.13 · Comprehensive child protection · MAXPROC
+
+- [MAXPROC audit · comprehensive child protection](../../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md)
+- [Sources and evidence matrix](../../analisis/publicos/evidencias/2026-08-07_infancia_proteccion_consumo_educacion_medios_fuentes-y-matriz_ES_EN.md)
+- [#45 · related Open Synthesis](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/45)
+
+**Status:** thematic audit with testable hypotheses; the “Childhood Point of No Return™” is not presented as an established fact.
 
 ## 3 · Opening a Public Audit
 
