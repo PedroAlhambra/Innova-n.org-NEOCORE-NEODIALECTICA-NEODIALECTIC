@@ -53,6 +53,35 @@ LÍMITE DEL MODELO ≠ LÍMITE DEMOSTRADO DE LA REALIDAD
 | **Conducta, seguridad y derechos** | [Código de conducta](./CODE_OF_CONDUCT.md) · [Seguridad](./SECURITY.md) · [Derechos / licencia](./LICENSE) |
 | **Citar el repositorio** | [`CITATION.cff`](./CITATION.cff) |
 
+<!-- NEO_AUDIT_INDEX_ES_START -->
+
+## Auditorías públicas y casos comparativos · índice completo por familias
+
+Este directorio bilingüe enlaza las **16 familias de auditorías públicas y análisis relacionados identificadas en los índices actuales**. Se distinguen auditorías, análisis y deltas técnicos; la precedencia documental o la convergencia conceptual no demuestra copia, acceso, derivación ni respaldo institucional. Los históricos, addenda y evidencias están en el [portal de auditorías](./auditorias/publicas/README.md), [registro de Issues](./auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md) y [portada de auditorías](./AUDITORIAS_PUBLICAS.md).
+
+| Caso / familia | Documento principal | Alcance / estado |
+|---|---|---|
+| Stanford / ACE | [Documento](./analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md) | Precedencia y convergencia; no prueba causal |
+| OpenAI–Anthropic · convergencia institucional | [Documento](./analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md) | Análisis comparativo de marcos |
+| Anthropic · gobernanza | [Documento](./analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md) | Análisis institucional del problema del marco |
+| Meta / Zuckerberg | [Documento](./analisis/publicos/2026-08-13_convergencia-neodialectica-meta-zuckerberg_ES_EN.md) | Convergencia parcial; derivación no demostrada |
+| Manifiesto de Madrid | [Documento](./auditorias/publicas/2026-10-09_auditoria_manifiesto_madrid_ia_responsable_convergencia_trazabilidad_contacto_ES_EN.md) | E2 y contacto trazado; influencia no demostrada |
+| HAA · educación AI-native | [Documento](./auditorias/publicas/2026-09-23_auditoria_haa_convergencia_educativa_apropiacion_fragmentaria_ES_EN.md) | Correspondencia y precedencia documental |
+| SwarmWorld / NAX-02 | [Documento](./auditorias/publicas/2026-09-24_auditoria_swarmworld_bucles_emergencia_custodia_ES_EN.md) | Bucles multicabeza y custodia; sin causalidad probada |
+| IA · escaneo y destrucción de libros | [Documento](./auditorias/publicas/2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md) | Entrenamiento y preservación cultural |
+| IA · matemáticas y control humano | [Documento](./auditorias/publicas/2026-09-13_auditoria_ia_matematicas_control_humano_sintesis_ES_EN.md) | Resolver no equivale a comprender |
+| DistroKid / Spotify / DSP | [Documento](./auditorias/publicas/2026-08-08_auditoria_externa_streaming_distribuidores_metadatos_regalias_ES_EN.md) | Distribución, metadatos y regalías |
+| Amazon KDP / IDEA | [Documento](./auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md) | Operativa; addenda y casos abiertos en el portal |
+| LinkedIn | [Documento](./auditorias/publicas/2026-09-30_auditoria_linkedin_distribucion_retorno_tiempo_incentivos_ES_EN.md) | Distribución y mediciones de retorno |
+| Integridad documental | [Documento](./auditorias/publicas/2026-08-12_auditoria_global_simetria_ES_EN.md) | READMEs, enlaces y simetría ES/EN |
+| Auditoría del Fundador™ | [Documento](./auditorias/publicas/2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md) | Continuidad, carga y Bien Común |
+| CZUR ET24 Pro · Linux | [Documento](./actualizaciones/2026-09-08_DELTA_SINTESIS_CZUR_ET24_PRO_LINUX_AUDITORIA_ES_EN.md) | Auditoría técnica; addenda en actualizaciones |
+| Protección integral de la infancia | [Documento](./analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) | MAXPROC y matriz de evidencias |
+
+**Contraste externo abierto:** [#143 · Stanford, OpenAI, Anthropic, Meta y futuros actores](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/143) · [#136 · NeoGenealogía / RADAR-Π](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136).
+
+<!-- NEO_AUDIT_INDEX_ES_END -->
+
 ## Estado vivo
 
 El corpus es abierto y evolutivo. El número vigente de manifiestos, candidatos neoaxiomáticos, Síntesis, análisis, auditorías y demás objetos debe leerse en sus **índices especializados**. La versión del núcleo se consulta en **[versiones/README.md](./versiones/README.md)**.
@@ -105,6 +134,35 @@ LIMIT OF THE MODEL ≠ DEMONSTRATED LIMIT OF REALITY
 | **Participate / community** | [Contribution gateway](./CONTRIBUTING.md) · [Synthesis protocol](./propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Support](./SUPPORT.md) |
 | **Conduct, security and rights** | [Code of Conduct](./CODE_OF_CONDUCT.md) · [Security](./SECURITY.md) · [Rights / licence](./LICENSE) |
 | **Cite this repository** | [`CITATION.cff`](./CITATION.cff) |
+
+<!-- NEO_AUDIT_INDEX_EN_START -->
+
+## Public audits and comparative cases · complete navigable family index
+
+This bilingual directory links the **16 public audit and related-analysis families identified in the current indexes**. Audits, analyses and technical deltas are explicitly distinguished; documentary precedence or conceptual convergence does not establish copying, access, derivation or endorsement. For all historical runs and addenda, see the [public audits portal](./auditorias/publicas/README.md), [audit issue register](./auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md) and [audit landing page](./AUDITORIAS_PUBLICAS.md).
+
+| Case / family | Primary document | Scope / status |
+|---|---|---|
+| Stanford / ACE | [Document](./analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md) | Precedence and convergence; no causal proof |
+| OpenAI–Anthropic · institutional convergence | [Document](./analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md) | Comparative framework analysis |
+| Anthropic · governance | [Document](./analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md) | Institutional framework analysis |
+| Meta / Zuckerberg | [Document](./analisis/publicos/2026-08-13_convergencia-neodialectica-meta-zuckerberg_ES_EN.md) | Partial convergence; derivation unproven |
+| Madrid Manifesto | [Document](./auditorias/publicas/2026-10-09_auditoria_manifiesto_madrid_ia_responsable_convergencia_trazabilidad_contacto_ES_EN.md) | E2 and traced contact; influence unproven |
+| HAA · AI-native education | [Document](./auditorias/publicas/2026-09-23_auditoria_haa_convergencia_educativa_apropiacion_fragmentaria_ES_EN.md) | Correspondence and documentary precedence |
+| SwarmWorld / NAX-02 | [Document](./auditorias/publicas/2026-09-24_auditoria_swarmworld_bucles_emergencia_custodia_ES_EN.md) | Multihead loops and custody; causality unproven |
+| AI · book scanning and destruction | [Document](./auditorias/publicas/2026-08-14_auditoria_ia_escaneo_destructivo_libros_preservacion_cultural_ES_EN.md) | Training and cultural preservation |
+| AI · mathematics and human control | [Document](./auditorias/publicas/2026-09-13_auditoria_ia_matematicas_control_humano_sintesis_ES_EN.md) | Solving does not equal understanding |
+| DistroKid / Spotify / DSP | [Document](./auditorias/publicas/2026-08-08_auditoria_externa_streaming_distribuidores_metadatos_regalias_ES_EN.md) | Distribution, metadata and royalties |
+| Amazon KDP / IDEA | [Document](./auditorias/publicas/2026-08-06_caso_exito_auditoria_gratuita_amazon_kdp_author_central_ES_EN.md) | Operational; addenda and open cases in portal |
+| LinkedIn | [Document](./auditorias/publicas/2026-09-30_auditoria_linkedin_distribucion_retorno_tiempo_incentivos_ES_EN.md) | Distribution and return measurements |
+| Documentary integrity | [Document](./auditorias/publicas/2026-08-12_auditoria_global_simetria_ES_EN.md) | READMEs, links and ES/EN symmetry |
+| Founder Audit™ | [Document](./auditorias/publicas/2026-08-09_auditoria_fundador_tiempo_carga_solitario_retorno_bien_comun_ES_EN.md) | Continuity, workload and Common Good |
+| CZUR ET24 Pro · Linux | [Document](./actualizaciones/2026-09-08_DELTA_SINTESIS_CZUR_ET24_PRO_LINUX_AUDITORIA_ES_EN.md) | Technical audit; addenda in updates |
+| Comprehensive child protection | [Document](./analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) | MAXPROC and evidence matrix |
+
+**Open external scrutiny:** [#143 · Stanford, OpenAI, Anthropic, Meta and future actors](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/143) · [#136 · NeoGenealogy / RADAR-Π](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136).
+
+<!-- NEO_AUDIT_INDEX_EN_END -->
 
 ## Living state
 
