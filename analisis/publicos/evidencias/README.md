@@ -4,9 +4,9 @@
 
 > ## 🔴 ÚLTIMO MANIFIESTO FINITO ABIERTO A SÍNTESIS / LATEST FINITE MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LXXXVIII · La historia no pertenece a quien la cuenta™ · Historia Común en Síntesis Abierta / History Does Not Belong to Its Narrator™ · Shared History through Open Synthesis**
+> **LXXXVIII · La historia no pertenece a quien la cuenta™ · Manifiesto por la Historia Común en Síntesis Abierta / History Does Not Belong to Its Narrator™ · Manifesto for Shared History through Open Synthesis**
 >
-> **[Leer LXXXVIII / Read LXXXVIII](../../../manifiestos/88_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md) · [Síntesis Abierta LXXXVIII · #187 / Open Synthesis LXXXVIII · #187](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/210)**
+> **[Leer LXXXVIII / Read LXXXVIII](../../../manifiestos/88_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md) · [Síntesis Abierta LXXXVIII · #210 / Open Synthesis LXXXVIII · #210](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/210)**
 >
 > **Puerta permanente / Permanent door:** [Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](../../../manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) · [Síntesis ∞ · #106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106)
 >
