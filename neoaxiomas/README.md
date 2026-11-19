@@ -31,7 +31,7 @@ Los Neoaxiomas™ son principios de alta estabilidad del NEOCore™ sin converti
 3. **SAN** abre la contradicción y revisión pública específica.
 4. **Procedencia** permite reconstruir la genealogía sin sustituir la lectura del Neoaxioma.
 
-## Neoaxiomas vigentes · NAX-01–NAX-29
+## Neoaxiomas vigentes · NAX-01–NAX-30
 
 | Neoaxioma | Estado | SAN | Manifiestos relacionados / Related Manifestos |
 |---|---|---|---|
@@ -64,18 +64,19 @@ Los Neoaxiomas™ son principios de alta estabilidad del NEOCore™ sin converti
 | [**NAX-27 · Soberanía Diferenciada de Sistema y Síntesis™**](./NAX-27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md) | Fijado por transición · 2026-09-08 12:33 CEST · abierto | [#176](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/176) | [II · Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](../manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md) · [VII · Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy](../manifiestos/04_economia_del_aporte_ES_EN.md) · [X · Manifiesto de WEB4™ · SistemaTrazable™ / Manifesto of WEB4™ · SistemaTrazable™](../manifiestos/07_web4_sistematrazable_ES_EN.md) · [I · Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica / Neo0™ Manifesto of Neodialectical Guiding Sovereignty](../manifiestos/11_neo0_soberania_de_guia_ES_EN.md) · [XXXVIII · Manifiesto de Protección Integral de la Infancia™ / Manifesto for the Integral Protection of Childhood™](../manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) · [LVI · Manifiesto del NO-CONTROL™ · Síntesis Previa a la Potencia / Manifesto of NO-CONTROL™ · Synthesis Before Power](../manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md) · [LVIII · Inteligencia Civilizatoria™ · Democracia Cognitiva y Deber de Síntesis / Civilisational Intelligence™ · Cognitive Democracy and Duty of Synthesis](../manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md) · [LXII · Juego por la Síntesis y el Honor™ / The Game for Synthesis and Honor™](../manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md) · [LXIX · Defensa de la Inocencia Humana™ · Asimetría Protectora y Deber de Custodia / Defence of Human Innocence™ · Protective Asymmetry and Duty of Custodianship](../manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md) |
 | [**NAX-28 · Ascenso de Capa y No Violación de la Realidad™**](./NAX-28_ASCENSO_CAPA_NO_VIOLACION_REALIDAD_ES_EN.md) | Fijado por transición · 2026-09-08 12:33 CEST · abierto | [#182](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/182) | [I · Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica / Neo0™ Manifesto of Neodialectical Guiding Sovereignty](../manifiestos/11_neo0_soberania_de_guia_ES_EN.md) · [XVI · Manifiesto de la Refragmentación Arquetípica™ / Manifesto of Archetypal Refragmentation™](../manifiestos/16_refragmentacion_arquetipica_ES_EN.md) · [XLV · Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder / Neodialectical Multidimensionality™ · Against the One-Dimensional Reduction of the Human and Power](../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) |
 | [**NAX-29 · Federabilidad sin Absorción™**](./NAX-29_FEDERABILIDAD_SIN_ABSORCION_ES_EN.md) | Fijado por transición · 2026-09-08 12:33 CEST · abierto | [#188](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/188) | [LXXXVI · Manifiesto de la Federación Neodialéctica dentro del Network Framework™ / Manifesto of the Neodialectical Federation within the Network Framework™](../manifiestos/86_federacion_neodialectica_network_framework_ES_EN.md) |
+| [**NAX-30 · Distinción Operador–Vectorizador™**](./NAX-30_OPERADOR_VECTORIZADOR_ES_EN.md) | Fijado 2026-11-19 · SAN abierta | [#191](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/191) | [C-NAX-30 histórico](./C-NAX-30_OPERADOR_VECTORIZADOR_ES_EN.md) · [I · Neo0™](../manifiestos/11_neo0_soberania_de_guia_ES_EN.md) |
 
 ### Extensión activa de NAX-10
 
 - [**Fuego de Agua™ y Totalidad Elemental · Agua, Madera, Fuego, Tierra y Metal**](./NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md)
 
-## Candidatos neoaxiomáticos · C-NAX-30
+## Candidatos neoaxiomáticos · C-NAX-31
 
-> **FRONTERA VIVA:** NAX-15–NAX-29 quedaron fijados por la transición excepcional con efecto **2026-09-08 12:33 CEST** tras verificarse ausencia de respuesta externa sustantiva en sus SAN. La fijación no cierra SAN™. C-NAX-30, abierto el 2026-09-10, permanece como único candidato activo bajo la ventana ordinaria de 7 días. `SILENCIO ≠ VALIDACIÓN · FIJAR ≠ CERRAR`.
+> **FRONTERA VIVA:** NAX-15–NAX-29 quedaron fijados por la transición excepcional con efecto **2026-09-08 12:33 CEST** tras verificarse ausencia de respuesta externa sustantiva en sus SAN. La fijación no cierra SAN™. NAX-30 quedó fijado el 2026-11-19 tras madurar sin objeciones externas sustantivas; C-NAX-31 es el único candidato activo, abierto el 2026-11-19 bajo la ventana ordinaria de 7 días. `SILENCIO ≠ VALIDACIÓN · FIJAR ≠ CERRAR`.
 
 | Candidato — **leer** | Estado / SAN | Procedencia / genealogía |
 |---|---|---|
-| [**C-NAX-30 · Distinción Operador–Vectorizador™**](./C-NAX-30_OPERADOR_VECTORIZADOR_ES_EN.md) | Candidato activo · [#191](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/191) | [I · Neo0™](../manifiestos/11_neo0_soberania_de_guia_ES_EN.md) · [NAX-11](./NAX-11_AUTORIDAD_FIJACION_HUMANA_SINTESIS_REVISABLE_ES_EN.md) · [NAX-17](./NAX-17_RECONSTRUCCION_SISTEMICA_ES_EN.md) |
+| [**C-NAX-31 · Soberanía Abierta de la Memoria Histórica Compartida™**](./C-NAX-31_SOBERANIA_ABIERTA_MEMORIA_HISTORICA_COMPARTIDA_ES_EN.md) | Candidato activo · ventana ordinaria | [#211](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/211) | [LXXXVIII · Historia común](../manifiestos/88_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md) · [NAX-25](./NAX-25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md) |
 
 ## Relación estructural
 
@@ -99,7 +100,8 @@ NAX-11 · FIJACIÓN HUMANA + SAN REVISABLE
         └── gobierna la transición de propuesta a estado fijado
 
 NAX-15–NAX-29 · FIJADOS 2026-09-08 12:33 CEST · SAN ABIERTA
-C-NAX-30 · CANDIDATO ACTIVO · VENTANA ORDINARIA
+NAX-30 · FIJADO 2026-11-19 · SAN ABIERTA
+C-NAX-31 · CANDIDATO ACTIVO · VENTANA ORDINARIA
 ```
 
 ## Cómo participar
@@ -119,7 +121,7 @@ Son especialmente útiles contraejemplos, contradicciones entre Neoaxiomas, evid
 3. **SAN** opens its dedicated public contradiction and revision route.
 4. **Provenance** reconstructs genealogy without replacing the Neoaxiom itself.
 
-## Current Neoaxioms · NAX-01–NAX-29
+## Current Neoaxioms · NAX-01–NAX-30
 
 | Neoaxiom | Status | SAN | Related Manifestos |
 |---|---|---|---|
@@ -152,18 +154,19 @@ Son especialmente útiles contraejemplos, contradicciones entre Neoaxiomas, evid
 | [**NAX-27 · Differentiated Sovereignty of System and Synthesis™**](./NAX-27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md) | Fixed by transition · 2026-09-08 12:33 CEST · open | [#176](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/176) | [II · Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](../manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md) · [VII · Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy](../manifiestos/04_economia_del_aporte_ES_EN.md) · [X · Manifiesto de WEB4™ · SistemaTrazable™ / Manifesto of WEB4™ · SistemaTrazable™](../manifiestos/07_web4_sistematrazable_ES_EN.md) · [I · Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica / Neo0™ Manifesto of Neodialectical Guiding Sovereignty](../manifiestos/11_neo0_soberania_de_guia_ES_EN.md) · [XXXVIII · Manifiesto de Protección Integral de la Infancia™ / Manifesto for the Integral Protection of Childhood™](../manifiestos/38_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) · [LVI · Manifiesto del NO-CONTROL™ · Síntesis Previa a la Potencia / Manifesto of NO-CONTROL™ · Synthesis Before Power](../manifiestos/56_no_control_sintesis_previa_potencia_energia_orbital_ES_EN.md) · [LVIII · Inteligencia Civilizatoria™ · Democracia Cognitiva y Deber de Síntesis / Civilisational Intelligence™ · Cognitive Democracy and Duty of Synthesis](../manifiestos/58_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md) · [LXII · Juego por la Síntesis y el Honor™ / The Game for Synthesis and Honor™](../manifiestos/62_juego_por_la_sintesis_y_el_honor_neowar_starkdr_ransol_ES_EN.md) · [LXIX · Defensa de la Inocencia Humana™ · Asimetría Protectora y Deber de Custodia / Defence of Human Innocence™ · Protective Asymmetry and Duty of Custodianship](../manifiestos/69_defensa_inocencia_humana_asimetria_protectora_deber_custodia_ES_EN.md) |
 | [**NAX-28 · Layer Ascent and Non-Violation of Reality™**](./NAX-28_ASCENSO_CAPA_NO_VIOLACION_REALIDAD_ES_EN.md) | Fixed by transition · 2026-09-08 12:33 CEST · open | [#182](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/182) | [I · Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica / Neo0™ Manifesto of Neodialectical Guiding Sovereignty](../manifiestos/11_neo0_soberania_de_guia_ES_EN.md) · [XVI · Manifiesto de la Refragmentación Arquetípica™ / Manifesto of Archetypal Refragmentation™](../manifiestos/16_refragmentacion_arquetipica_ES_EN.md) · [XLV · Multidimensionalidad Neodialéctica™ · Contra la Reducción Monodimensional del Humano y del Poder / Neodialectical Multidimensionality™ · Against the One-Dimensional Reduction of the Human and Power](../manifiestos/45_multidimensionalidad_neodialectica_problema_mulo_soberania_distribuida_ES_EN.md) |
 | [**NAX-29 · Federability without Absorption™**](./NAX-29_FEDERABILIDAD_SIN_ABSORCION_ES_EN.md) | Fixed by transition · 2026-09-08 12:33 CEST · open | [#188](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/188) | [LXXXVI · Manifiesto de la Federación Neodialéctica dentro del Network Framework™ / Manifesto of the Neodialectical Federation within the Network Framework™](../manifiestos/86_federacion_neodialectica_network_framework_ES_EN.md) |
+| [**NAX-30 · Operator–Vectorizer Distinction™**](./NAX-30_OPERADOR_VECTORIZADOR_ES_EN.md) | Fixed 2026-11-19 · SAN open | [#191](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/191) | [Historical C-NAX-30](./C-NAX-30_OPERADOR_VECTORIZADOR_ES_EN.md) · [I · Neo0™](../manifiestos/11_neo0_soberania_de_guia_ES_EN.md) |
 
 ### Active extension of NAX-10
 
 - [**Fire of Water™ and Elemental Totality · Water, Wood, Fire, Earth and Metal**](./NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md)
 
-## Neoaxiomatic candidates · C-NAX-30
+## Neoaxiomatic candidates · C-NAX-31
 
-> **LIVE FRONTIER:** NAX-15–NAX-29 were fixed by the exceptional transition effective **2026-09-08 12:33 CEST** after their SAN nodes were verified to contain no external substantive response. Fixation does not close SAN™. C-NAX-30, opened on 2026-09-10, remains the sole active candidate under the ordinary 7-day window. `SILENCE ≠ VALIDATION · FIXATION ≠ CLOSURE`.
+> **LIVE FRONTIER:** NAX-15–NAX-29 were fixed by the exceptional transition effective **2026-09-08 12:33 CEST** after their SAN nodes were verified to contain no external substantive response. Fixation does not close SAN™. NAX-30 was fixed on 2026-11-19 after the full window elapsed without substantive external objections; C-NAX-31 is the sole active candidate, opened 2026-11-19 under the ordinary 7-day window. `SILENCE ≠ VALIDATION · FIXATION ≠ CLOSURE`.
 
 | Candidate — **read** | Status / SAN | Provenance / genealogy |
 |---|---|---|
-| [**C-NAX-30 · Operator–Vectorizer Distinction™**](./C-NAX-30_OPERADOR_VECTORIZADOR_ES_EN.md) | Active candidate · [#191](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/191) | [I · Neo0™](../manifiestos/11_neo0_soberania_de_guia_ES_EN.md) · [NAX-11](./NAX-11_AUTORIDAD_FIJACION_HUMANA_SINTESIS_REVISABLE_ES_EN.md) · [NAX-17](./NAX-17_RECONSTRUCCION_SISTEMICA_ES_EN.md) |
+| [**C-NAX-31 · Open Sovereignty of Shared Historical Memory™**](./C-NAX-31_SOBERANIA_ABIERTA_MEMORIA_HISTORICA_COMPARTIDA_ES_EN.md) | Active candidate · ordinary window | [#211](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/211) | [LXXXVIII · Shared history](../manifiestos/88_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md) · [NAX-25](./NAX-25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md) |
 
 ## Structural relation
 
@@ -187,7 +190,8 @@ NAX-11 · HUMAN FIXING + REVISABLE SAN
         └── governs the transition from proposal to fixed state
 
 NAX-15–NAX-29 · FIXED 2026-09-08 12:33 CEST · SAN OPEN
-C-NAX-30 · ACTIVE CANDIDATE · ORDINARY WINDOW
+NAX-30 · FIXED 2026-11-19 · SAN OPEN
+C-NAX-31 · ACTIVE CANDIDATE · ORDINARY WINDOW
 ```
 
 ## How to participate
@@ -201,3 +205,19 @@ Counterexamples, contradictions between Neoaxioms, new evidence, centralisation 
 ## Trazabilidad / Traceability
 
 La formulación completa que antes estaba embebida monolíticamente en este README se ha extraído a documentos propios para restaurar lectura directa y separar objeto, estado, SAN y genealogía. El historial Git conserva la representación anterior; la nueva estructura no reinicia fechas de apertura ni altera el estado doctrinal de cada pieza. / Full formulations previously embedded monolithically in this README have been extracted into their own documents to restore direct reading and separate object, status, SAN and genealogy. Git history preserves the previous representation; the new structure does not restart opening dates or alter the doctrinal status of each piece.
+
+
+---
+
+## Candidato de Síntesis · 2026-11-19 / Open Synthesis candidate · 2026-11-19
+
+**ES:** [C-NAX-31 · Soberanía Abierta de la Memoria Histórica Compartida™](./C-NAX-31_SOBERANIA_ABIERTA_MEMORIA_HISTORICA_COMPARTIDA_ES_EN.md) formula una posible invariante de construcción histórica conjunta: evidencia trazable, pluralidad no relativista y revisiones preservadas. Procede del [manifiesto candidato](../manifiestos/candidatos/2026-11-19_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md) y su [delta](../propuestas/sintesis-abierta/2026-11-19_DELTA_HISTORIA_COMUN_NARRATIVA_SINTESIS_ABIERTA_ES_EN.md). **No está fijado como NAX ni promovido a RO**; SAN debe comprobar si aporta algo irreducible a NAX-06/25/26/27.
+
+**EN:** [C-NAX-31 · Open Sovereignty of Shared Historical Memory™](./C-NAX-31_SOBERANIA_ABIERTA_MEMORIA_HISTORICA_COMPARTIDA_ES_EN.md) proposes an invariant for jointly reconstructing history: traceable evidence, non-relativist plurality, and preserved revisions. It derives from the [candidate manifesto](../manifiestos/candidatos/2026-11-19_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md) and its [delta](../propuestas/sintesis-abierta/2026-11-19_DELTA_HISTORIA_COMUN_NARRATIVA_SINTESIS_ABIERTA_ES_EN.md). **Not fixed as NAX or promoted to RO**; Open Synthesis must test whether it adds something irreducible to NAX-06/25/26/27.
+
+
+## Estado actualizado de frontera · 2026-11-19 / Current frontier state · 2026-11-19
+
+**ES:** NAX-01–NAX-30 son canónicos y revisables; C-NAX-31 es el único candidato abierto, desde el 2026-11-19. C-NAX-30 permanece como archivo genealógico de [NAX-30](./NAX-30_OPERADOR_VECTORIZADOR_ES_EN.md).
+
+**EN:** NAX-01–NAX-30 are canonical and revisable; C-NAX-31 is the only open candidate, from 2026-11-19. C-NAX-30 remains a genealogical archive for [NAX-30](./NAX-30_OPERADOR_VECTORIZADOR_ES_EN.md).

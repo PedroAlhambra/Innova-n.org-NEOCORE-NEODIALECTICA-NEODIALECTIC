@@ -40,13 +40,13 @@
 
 > ## 🔴 ÚLTIMO MANIFIESTO FINITO ABIERTO A SÍNTESIS / LATEST FINITE MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LXXXVI · Manifiesto de la Federación Neodialéctica dentro del Network Framework™ / Manifesto of the Neodialectical Federation within the Network Framework™**
+> **LXXXVIII · La historia no pertenece a quien la cuenta™ · Historia Común en Síntesis Abierta / History Does Not Belong to Its Narrator™ · Shared History through Open Synthesis**
 >
-> **[Leer LXXXVI / Read LXXXVI](../../manifiestos/86_federacion_neodialectica_network_framework_ES_EN.md) · [Síntesis Abierta LXXXVI · #187 / Open Synthesis LXXXVI · #187](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/187)**
+> **[Leer LXXXVIII / Read LXXXVIII](../../manifiestos/88_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md) · [Síntesis Abierta LXXXVIII · #187 / Open Synthesis LXXXVIII · #187](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/210)**
 >
 > **Puerta permanente / Permanent door:** [Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](../../manifiestos/INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) · [Síntesis ∞ · #106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106)
 >
-> [Seguir marco / Follow framework](../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [Registrar entrada / Register entry](../../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Cómo aportar / How to contribute](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™](../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas / Public audits](../../auditorias/publicas/README.md) · [86 manifiestos finitos + ∞ / 86 finite manifestos + ∞ · I–LXXXVI](../../manifiestos/README.md)
+> [Seguir marco / Follow framework](../../proyeccion/SEGUIR_MARCO_SINTESIS_ES_EN.md) · [Registrar entrada / Register entry](../../propuestas/sintesis-abierta/REGISTRO_ENTRADA_TRAZABLE_DERIVACION_ES_EN.md) · [Cómo aportar / How to contribute](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [Leónidas™](../../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas / Public audits](../../auditorias/publicas/README.md) · [88 manifiestos finitos + ∞ / 88 finite manifestos + ∞ · I–LXXXVIII](../../manifiestos/README.md)
 
 <!-- NEO_LATEST_MANIFESTO_END -->
 

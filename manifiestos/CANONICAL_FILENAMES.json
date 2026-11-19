@@ -347,6 +347,14 @@
     "LXXXVI": {
       "legacy": "manifiestos/86_federacion_neodialectica_network_framework_ES_EN.md",
       "canonical": "manifiestos/canonicos/LXXXVI_federacion_neodialectica_network_framework_ES_EN.md"
+    },
+    "LXXXVII": {
+      "legacy": "manifiestos/87_loro_estocastico_oraculo_malentendidos_ia_ES_EN.md",
+      "canonical": "manifiestos/canonicos/LXXXVII_loro_estocastico_oraculo_malentendidos_ia_ES_EN.md"
+    },
+    "LXXXVIII": {
+      "legacy": "manifiestos/88_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md",
+      "canonical": "manifiestos/canonicos/LXXXVIII_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md"
     }
   }
 }

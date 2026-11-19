@@ -37,14 +37,14 @@ La primera activación pública contiene once formulaciones y se conserva como g
 
 La lista anterior conserva la **primera activación pública de once formulaciones** como genealogía. El estado operativo vigente de la capa tras NEOCore™ 7.3.4 es: / The list above preserves the **first public activation of eleven formulations** as genealogy. The current operational state of the layer after NEOCore™ 7.3.4 is:
 
-- **29 Neoaxiomas™ canónicos / canonical Neoaxioms™:** NAX-01–NAX-29.
-- **1 candidato neoaxiomático / neoaxiomatic candidate:** C-NAX-30.
-- **Régimen vigente / Current regime:** nuevos C-NAX → 7 días naturales; NAX-15–NAX-29 → fijados por la transición excepcional con efecto 2026-09-08 12:33 Europe/Madrid; C-NAX-30 → candidato activo bajo la ventana ordinaria. / new C-NAX → 7 calendar days; NAX-15–NAX-29 → fixed by the exceptional transition effective 2026-09-08 12:33 Europe/Madrid; C-NAX-30 → active candidate under the ordinary window.
+- **30 Neoaxiomas™ canónicos / canonical Neoaxioms™:** NAX-01–NAX-30.
+- **1 candidato neoaxiomático / neoaxiomatic candidate:** C-NAX-31.
+- **Régimen vigente / Current regime:** nuevos C-NAX → 7 días naturales; NAX-15–NAX-29 → fijados por la transición excepcional con efecto 2026-09-08 12:33 Europe/Madrid; NAX-30 → fijado 2026-11-19; C-NAX-31 → candidato activo bajo la ventana ordinaria. / new C-NAX → 7 calendar days; NAX-15–NAX-29 → fixed by the exceptional transition effective 2026-09-08 12:33 Europe/Madrid; NAX-30 → fixed 2026-11-19; C-NAX-31 → active candidate under the ordinary window.
 - **Registro canónico de formulaciones / Canonical formulation registry:** [neoaxiomas/README.md](../../neoaxiomas/README.md).
 - **Índice completo de contraste / Complete scrutiny index:** [INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md](./INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md).
 - **Matriz general / General matrix:** [#80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80).
 
-NAX-15–NAX-29 conservan íntegramente la formulación y genealogía de sus etapas C-NAX, ahora fijadas procedimentalmente. Los documentos C-NAX históricos permanecen navegables como snapshots de procedencia; las SAN siguen abiertas. C-NAX-30 conserva su formulación candidata y su ruta de contraste vigente. / NAX-15–NAX-29 fully preserve the formulation and genealogy of their C-NAX stages, now procedurally fixed. Historical C-NAX documents remain navigable provenance snapshots; their SAN routes remain open. C-NAX-30 preserves its candidate formulation and current scrutiny route.
+NAX-15–NAX-29 conservan íntegramente la formulación y genealogía de sus etapas C-NAX, ahora fijadas procedimentalmente. Los documentos C-NAX históricos permanecen navegables como snapshots de procedencia; las SAN siguen abiertas. C-NAX-30 conserva su formulación candidata como historial de NAX-30; la SAN #191 sigue abierta. C-NAX-31 abre nueva ruta de contraste #211. / NAX-15–NAX-29 fully preserve the formulation and genealogy of their C-NAX stages, now procedurally fixed. Historical C-NAX documents remain navigable provenance snapshots; their SAN routes remain open. C-NAX-30 preserves its candidate formulation and current scrutiny route.
 
 ## Regla de trabajo / Working rule
 
@@ -102,3 +102,10 @@ CURRENT CANON ≠ ETERNAL DOGMA
 Esta regla se integra expresamente con **NAX-11 · Autoridad de Fijación Humana y Síntesis Revisable™**. Toda revisión posterior conserva genealogía, formulación anterior, fecha de fijación y nuevo proceso de contraste. / This rule expressly integrates with **NAX-11 · Human Fixation Authority and Revisable Synthesis™**. Every later revision preserves genealogy, the previous formulation, fixation date and the new scrutiny process.
 
 La antigua [Regla de 365 días](./REGLA_MADURACION_NEOAXIOMAS_365_DIAS_ES_EN.md) se conserva como régimen histórico y está `SUPERSEDED_FOR_LIVE_OPERATION`; la regla viva completa es [7 días + transición 2026](./REGLA_MADURACION_NEOAXIOMAS_7_DIAS_Y_TRANSICION_2026_ES_EN.md). / The previous [365-day rule](./REGLA_MADURACION_NEOAXIOMAS_365_DIAS_ES_EN.md) is preserved as a historical regime and is `SUPERSEDED_FOR_LIVE_OPERATION`; the complete live rule is [7 days + 2026 transition](./REGLA_MADURACION_NEOAXIOMAS_7_DIAS_Y_TRANSICION_2026_ES_EN.md).
+
+
+## Actualización de frontera · 2026-11-19 / Frontier update · 2026-11-19
+
+**ES:** [NAX-30 · Operador–Vectorizador](../../neoaxiomas/NAX-30_OPERADOR_VECTORIZADOR_ES_EN.md) fijado tras comprobar [SAN #191](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/191) y los siete días completos sin objeciones externas sustantivas. [C-NAX-31](../../neoaxiomas/C-NAX-31_SOBERANIA_ABIERTA_MEMORIA_HISTORICA_COMPARTIDA_ES_EN.md) continúa en contraste público mediante [SAN #211](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/211), ventana abierta 2026-11-19, sin promoción.
+
+**EN:** [NAX-30 · Operator–Vectorizer](../../neoaxiomas/NAX-30_OPERADOR_VECTORIZADOR_ES_EN.md) fixed after reviewing [SAN #191](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/191) and its elapsed full seven-day window without substantive external objections. [C-NAX-31](../../neoaxiomas/C-NAX-31_SOBERANIA_ABIERTA_MEMORIA_HISTORICA_COMPARTIDA_ES_EN.md) remains under public scrutiny at [SAN #211](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/211), window opened 2026-11-19, no promotion.

@@ -1,7 +1,9 @@
 # C-NAX-30 · Distinción Operador–Vectorizador™
 # C-NAX-30 · Operator–Vectorizer Distinction™
 
-**Estado / Status:** CANDIDATO EXPLÍCITO · SAN #191 · NO CANONIZADO / EXPLICIT CANDIDATE · SAN #191 · NOT CANONICALISED  
+**Estado / Status:** HISTÓRICO · FIJADO COMO NAX-30 EL 2026-11-19 · SAN #191 ABIERTA / HISTORICAL · FIXED AS NAX-30 ON 2026-11-19 · SAN #191 OPEN
+> **Estado vigente / Current state:** [NAX-30](./NAX-30_OPERADOR_VECTORIZADOR_ES_EN.md) fijado por Neo0™ tras ventana ordinaria sin respuesta externa sustantiva; este documento conserva la formulación candidata. / [NAX-30](./NAX-30_OPERADOR_VECTORIZADOR_ES_EN.md) fixed by Neo0™ after ordinary public window without substantive external reply; this document preserves candidate formulation.
+
 **Apertura / Opened:** 2026-09-10  
 **Origen humano / Human origin:** Pedro Martínez Alhambra · Neo0™  
 **SAN:** [#191](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/191)  

@@ -39,7 +39,7 @@ LÍMITE DEL MODELO ≠ LÍMITE DEMOSTRADO DE LA REALIDAD
 | Área | Acceso |
 |---|---|
 | **Versión vigente e histórico** | [NEOCore™ · versiones](./versiones/README.md) |
-| **Manifiestos** | [Índice canónico](./manifiestos/README.md) · [LXXXVI · Federación Neodialéctica dentro del Network Framework™](./manifiestos/86_federacion_neodialectica_network_framework_ES_EN.md) |
+| **Manifiestos** | [Índice canónico](./manifiestos/README.md) · [LXXXVIII · Historia Común en Síntesis Abierta™](./manifiestos/88_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md) |
 | **Neoaxiomas™** | [Capa Axiomática Abierta · frontera viva](./neoaxiomas/README.md) |
 | **Síntesis Abierta™** | [Portal operativo](./propuestas/sintesis-abierta/README.md) · [Matriz Neoaxiomas #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) |
 | **Relaciones** | [Mapa de relaciones y trabajo aplicado](./manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) |
@@ -121,7 +121,7 @@ LIMIT OF THE MODEL ≠ DEMONSTRATED LIMIT OF REALITY
 | Area | Access |
 |---|---|
 | **Current version and history** | [NEOCore™ · versions](./versiones/README.md) |
-| **Manifestos** | [Canonical index](./manifiestos/README.md) · [LXXXVI · Neodialectical Federation within the Network Framework™](./manifiestos/86_federacion_neodialectica_network_framework_ES_EN.md) |
+| **Manifestos** | [Canonical index](./manifiestos/README.md) · [LXXXVIII · Shared History through Open Synthesis™](./manifiestos/88_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md) |
 | **Neoaxioms™** | [Open Axiomatic Layer · live frontier](./neoaxiomas/README.md) |
 | **Open Synthesis™** | [Operational portal](./propuestas/sintesis-abierta/README.md) · [Neoaxioms Matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) |
 | **Relations** | [Relations and applied-work map](./manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) |
@@ -175,3 +175,22 @@ OBSERVATION / CONTRIBUTION → SOURCE AND PROVENANCE → RELATIONS → SAN™ SC
 ```
 
 NeoGenealogy™, RADAR-Π™, NeoCronos™, Contribution Economy™, Umbral-X™, WEB4™, NeoRandomize™, Lemonda and the remaining layers/surfaces are reached through their specific sources and canonical relations.
+
+<!-- NEO_CROSS_REFERENCES_START -->
+
+---
+
+## Novedad en Síntesis Abierta · 2026-11-19 / New Open Synthesis proposal · 2026-11-19
+
+**ES:** [La historia no pertenece a quien la cuenta™ · Historia Común en Síntesis Abierta](./manifiestos/candidatos/2026-11-19_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md) propone construir reconstrucciones históricas colectivas con fuentes, evidencia ponderada, memoria de ausencias, disenso preservado y revisiones trazables. Se vincula con [C-NAX-31 · Soberanía Abierta de la Memoria Histórica Compartida](./neoaxiomas/candidatos/C-NAX-31_SOBERANIA_ABIERTA_MEMORIA_HISTORICA_COMPARTIDA_ES_EN.md) y su [delta](./propuestas/sintesis-abierta/2026-11-19_DELTA_HISTORIA_COMUN_NARRATIVA_SINTESIS_ABIERTA_ES_EN.md). **Origen documental preservado; versión numerada LXXXVIII publicada posteriormente.**
+
+**EN:** [History Does Not Belong to Its Narrator™ · Shared History through Open Synthesis](./manifiestos/candidatos/2026-11-19_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md) proposes collectively reconstructing history through sources, weighted evidence, recorded absences, preserved dissent, and traceable revisions. See [C-NAX-31 · Open Sovereignty of Shared Historical Memory](./neoaxiomas/candidatos/C-NAX-31_SOBERANIA_ABIERTA_MEMORIA_HISTORICA_COMPARTIDA_ES_EN.md) and the [delta](./propuestas/sintesis-abierta/2026-11-19_DELTA_HISTORIA_COMUN_NARRATIVA_SINTESIS_ABIERTA_ES_EN.md). **Original proposal preserved; numbered LXXXVIII version subsequently published.**
+
+
+## Nuevos manifiestos y neoaxiomas · 2026-11-19 / Newly published manifestos and neoaxioms · 2026-11-19
+
+**ES:** [LXXXVII · El loro estocástico](./manifiestos/87_loro_estocastico_oraculo_malentendidos_ia_ES_EN.md) · [SAN #202](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/202); [LXXXVIII · Historia común](./manifiestos/88_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md) · [SAN #210](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/210). [NAX-30 · Operador–Vectorizador](./neoaxiomas/NAX-30_OPERADOR_VECTORIZADOR_ES_EN.md) fijado tras maduración ([#191](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/191)); [C-NAX-31 · Memoria Histórica Compartida](./neoaxiomas/C-NAX-31_SOBERANIA_ABIERTA_MEMORIA_HISTORICA_COMPARTIDA_ES_EN.md) abierto a contraste ([#211](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/211)). Frontera: **88 manifiestos finitos, 30 NAX canónicos, 1 C-NAX abierto**. RO local intacta.
+
+**EN:** [LXXXVII · The Stochastic Parrot](./manifiestos/87_loro_estocastico_oraculo_malentendidos_ia_ES_EN.md) · [SAN #202](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/202); [LXXXVIII · Shared History](./manifiestos/88_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md) · [SAN #210](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/210). [NAX-30 · Operator–Vectorizer](./neoaxiomas/NAX-30_OPERADOR_VECTORIZADOR_ES_EN.md) fixed after maturation ([#191](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/191)); [C-NAX-31 · Shared Historical Memory](./neoaxiomas/C-NAX-31_SOBERANIA_ABIERTA_MEMORIA_HISTORICA_COMPARTIDA_ES_EN.md) open to scrutiny ([#211](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/211)). Frontier: **88 finite manifestos, 30 canonical NAX, 1 open C-NAX**. Local RO remains unchanged.
+
+**Auditoría pública / Public audit:** [2026-11-19 · LXXXVII–LXXXVIII, NAX-30 y C-NAX-31](./auditorias/publicas/2026-11-19_publicacion_LXXXVII_LXXXVIII_NAX30_C-NAX31_ES_EN.md).

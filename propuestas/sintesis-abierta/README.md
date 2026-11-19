@@ -54,6 +54,12 @@ The corpus numerical frontier must be read from those living indexes. This READM
 
 ---
 
+
+
+## Incorporaciones · 2026-11-19 / Additions · 2026-11-19
+
+**ES / EN:** [LXXXVII · El loro estocástico / The Stochastic Parrot](../../manifiestos/87_loro_estocastico_oraculo_malentendidos_ia_ES_EN.md) · [SAN #202](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/202) · [LXXXVIII · Historia común / Shared History](../../manifiestos/88_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md) · [SAN #210](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/210) · [NAX-30](../../neoaxiomas/NAX-30_OPERADOR_VECTORIZADOR_ES_EN.md) · [C-NAX-31](../../neoaxiomas/C-NAX-31_SOBERANIA_ABIERTA_MEMORIA_HISTORICA_COMPARTIDA_ES_EN.md) · [SAN #211](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/211).
+
 # ES · Castellano
 
 ## 1. Entrada simple
