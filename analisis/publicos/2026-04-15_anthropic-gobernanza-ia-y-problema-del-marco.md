@@ -468,3 +468,11 @@ Este artículo/análisis se relaciona documentalmente con los siguientes pilares
 
 Estas relaciones son de lectura, contraste, genealogía o aplicación; no convierten una afinidad conceptual en prueba causal. / These links concern reading, contrast, genealogy or application; conceptual affinity is not causal proof.
 <!-- NEO_RELATED_MANIFESTOS_END -->
+
+---
+
+## Adenda de auditoría contractual · 21-11-2026 / Contractual audit addendum · 2026-11-21
+
+**ES:** [Nueva auditoría bilateral de Anthropic: competencia, propiedad intelectual, procedencia y reciprocidad contractual](../../auditorias/publicas/2026-11-21_anthropic_reciprocidad_contractual_regla_oro_ES_EN.md). Contrasta directamente D.4, B, E y F de los términos comerciales con la regla ética de reciprocidad («no aplicar a otros una restricción que no se acepta para uno mismo»). Documenta una asimetría contractual, **no una copia, infracción o acceso probados**. La reflexión moral sobre la «regla de oro» cristiana se presenta como crítica ética, no como afirmación sobre la religión o intención de personas o empresas. Estado: auditoría abierta, sujeta a contradicción y a respuesta institucional.
+
+**EN:** [New Anthropic bilateral audit: competition, intellectual property, provenance and contractual reciprocity](../../auditorias/publicas/2026-11-21_anthropic_reciprocidad_contractual_regla_oro_ES_EN.md). Cross-checks sections D.4, B, E and F of the commercial terms against the Golden Rule of reciprocity. It documents a contractual asymmetry, **not proven copying, infringement or access**. The Christian Golden Rule is invoked as an ethical criticism, not as a claim about anyone's religious beliefs or motives. Status: open to challenge, further evidence and institutional response.
