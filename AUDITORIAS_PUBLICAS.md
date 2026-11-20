@@ -16,6 +16,7 @@ Las Auditorías Públicas son una **capa principal** del Neodialectica Framework
 - [Stanford / ACE · marco previo y traza pública / prior framework and public trace](./analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
 - [OpenAI–Anthropic · convergencia institucional / institutional convergence](./analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md)
 - [Anthropic · gobernanza y problema del marco / governance and framework problem](./analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md)
+- [Anthropic · cláusula de competencia y reciprocidad contractual / competition clause and contractual reciprocity](./auditorias/publicas/2026-11-21_anthropic_reciprocidad_contractual_regla_oro_ES_EN.md) — cláusula D.4, límites de IP, «regla de oro», procedencia y falsadores / D.4, IP boundaries, Golden Rule, provenance and falsifiers.
 - [Meta / Zuckerberg · convergencia parcial / partial convergence](./analisis/publicos/2026-08-13_convergencia-neodialectica-meta-zuckerberg_ES_EN.md)
 - [#143 · Stanford, OpenAI, Anthropic, Meta y futuros actores / future actors](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/143)
 - [#136 · NeoGenealogía™ / NeoGenealogy™ · RADAR-Π™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136)
