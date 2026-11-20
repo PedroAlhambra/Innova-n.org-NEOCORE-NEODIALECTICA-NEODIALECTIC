@@ -1,6 +1,6 @@
 # Postcheck dinámico · README, índices y enlaces / Dynamic README, indices and links postcheck
 
-**Fecha / Date:** 2026-11-19
+**Fecha / Date:** 2026-11-20
 **Estado / Status:** **OK**
 
 > **Alcance / Scope:** el grafo vivo excluye `wiki-legacy-archive/` y las entradas raíz legacy `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` y `FOREWORD.md`. Esos nombres legacy no constituyen superficies canónicas vivas; tras su retirada de `main`, su contenido histórico permanece recuperable mediante Git. / the living graph excludes `wiki-legacy-archive/` and the root legacy entry files `LEEME.md`, `PORTADA.md`, `COVER.md`, `PREFACIO.md` and `FOREWORD.md`. Those legacy names are not living canonical surfaces; after retirement from `main`, their historical contents remain recoverable through Git.
@@ -9,19 +9,19 @@
 
 ## ES · Resultado
 
-- Archivos Markdown activos revisados: **602**.
+- Archivos Markdown activos revisados: **608**.
 - Archivos Markdown históricos excluidos del estado vivo: **55**.
 - Entradas legacy excluidas del estado vivo: **0**.
 - README activos revisados: **30**.
-- Enlaces internos de ruta comprobados: **13989**.
+- Enlaces internos de ruta comprobados: **14185**.
 - Alias internos de GitHub Wiki reconocidos: **44**.
-- Enlaces externos inventariados sin comprobar disponibilidad remota: **2461**.
-- Enlaces sólo a ancla detectados: **1101**.
+- Enlaces externos inventariados sin comprobar disponibilidad remota: **2479**.
+- Enlaces sólo a ancla detectados: **1115**.
 - Bloques de último manifiesto encontrados en README: **8**.
 - Bloques legacy NEO_CURRENT_NAV encontrados en README: **0**.
 - Bloques redundantes MANIFESTOS_CURRENT encontrados en README: **0**.
-- Manifiestos canónicos detectados: **88 · I–LXXXVIII**.
-- Último manifiesto / Síntesis: **LXXXVIII / #210**.
+- Manifiestos canónicos detectados: **89 · I–LXXXIX**.
+- Último manifiesto / Síntesis: **LXXXIX / #212**.
 - Enlaces internos rotos del grafo vivo: **0**.
 - Fallos canónicos críticos: **0**.
 
@@ -42,19 +42,19 @@
 
 ## EN · Result
 
-- Active Markdown files reviewed: **602**.
+- Active Markdown files reviewed: **608**.
 - Historical Markdown files excluded from living-state health: **55**.
 - Legacy entry files excluded from living-state health: **0**.
 - Active README files reviewed: **30**.
-- Internal path links checked: **13989**.
+- Internal path links checked: **14185**.
 - GitHub Wiki extensionless page aliases recognised: **44**.
-- External links inventoried without checking remote availability: **2461**.
-- Anchor-only links detected: **1101**.
+- External links inventoried without checking remote availability: **2479**.
+- Anchor-only links detected: **1115**.
 - Latest-manifesto blocks found in README files: **8**.
 - Legacy NEO_CURRENT_NAV blocks found in README files: **0**.
 - Redundant MANIFESTOS_CURRENT blocks found in README files: **0**.
-- Canonical manifestos detected: **88 · I–LXXXVIII**.
-- Latest manifesto / synthesis: **LXXXVIII / #210**.
+- Canonical manifestos detected: **89 · I–LXXXIX**.
+- Latest manifesto / synthesis: **LXXXIX / #212**.
 - Broken internal links in the living graph: **0**.
 - Canonical critical failures: **0**.
 
