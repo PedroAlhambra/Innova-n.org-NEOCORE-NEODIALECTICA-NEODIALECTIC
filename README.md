@@ -194,3 +194,13 @@ NeoGenealogy™, RADAR-Π™, NeoCronos™, Contribution Economy™, Umbral-X™
 **EN:** [LXXXVII · The Stochastic Parrot](./manifiestos/87_loro_estocastico_oraculo_malentendidos_ia_ES_EN.md) · [SAN #202](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/202); [LXXXVIII · Shared History](./manifiestos/88_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md) · [SAN #210](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/210). [NAX-30 · Operator–Vectorizer](./neoaxiomas/NAX-30_OPERADOR_VECTORIZADOR_ES_EN.md) fixed after maturation ([#191](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/191)); [C-NAX-31 · Shared Historical Memory](./neoaxiomas/C-NAX-31_SOBERANIA_ABIERTA_MEMORIA_HISTORICA_COMPARTIDA_ES_EN.md) open to scrutiny ([#211](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/211)). Frontier: **88 finite manifestos, 30 canonical NAX, 1 open C-NAX**. Local RO remains unchanged.
 
 **Auditoría pública / Public audit:** [2026-11-19 · LXXXVII–LXXXVIII, NAX-30 y C-NAX-31](./auditorias/publicas/2026-11-19_publicacion_LXXXVII_LXXXVIII_NAX30_C-NAX31_ES_EN.md).
+
+
+## Nueva relación de Síntesis Abierta · 2026-11-20 / New Open Synthesis relation · 2026-11-20
+
+**ES:** [LXXXIX · La recompensa no es el fin](./manifiestos/89_primacia_fines_sobre_recompensas_ES_EN.md) → [C-NAX-32 · Primacía de la finalidad](./neoaxiomas/C-NAX-32_PRIMACIA_FINALIDAD_SOBRE_RECOMPENSA_ES_EN.md) → [Matriz de relaciones y falsadores](./propuestas/sintesis-abierta/2026-11-20_MATRIZ_FINALIDAD_RECOMPENSA_ES_EN.md) → [Delta trazable](./propuestas/sintesis-abierta/2026-11-20_DELTA_PRIMACIA_FINALIDAD_RECOMPENSA_ES_EN.md). El principio cuestiona la captura por métricas dentro de cualquier institución, incluso WEB4; no sustituye a XXIX y XXX. C-NAX-32 permanece candidato.
+
+**EN:** [LXXXIX · Reward Is Not the End](./manifiestos/89_primacia_fines_sobre_recompensas_ES_EN.md) → [C-NAX-32 · Primacy of Purpose](./neoaxiomas/C-NAX-32_PRIMACIA_FINALIDAD_SOBRE_RECOMPENSA_ES_EN.md) → [Relations and falsifiers matrix](./propuestas/sintesis-abierta/2026-11-20_MATRIZ_FINALIDAD_RECOMPENSA_ES_EN.md) → [Traceable delta](./propuestas/sintesis-abierta/2026-11-20_DELTA_PRIMACIA_FINALIDAD_RECOMPENSA_ES_EN.md). The principle challenges capture by metrics within any institution, including WEB4; it does not replace XXIX and XXX. C-NAX-32 remains a candidate.
+
+
+**Auditoría de publicación · 2026-11-20 / Publication audit · 2026-11-20:** [LXXXIX + C-NAX-32 · tres rondas de antirregresión / three anti-regression rounds](./auditorias/publicas/2026-11-20_publicacion_LXXXIX_C-NAX32_ES_EN.md).

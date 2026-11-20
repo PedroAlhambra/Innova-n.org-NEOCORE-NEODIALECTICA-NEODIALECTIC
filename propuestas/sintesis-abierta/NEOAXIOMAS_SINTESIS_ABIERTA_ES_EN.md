@@ -38,7 +38,7 @@ La primera activación pública contiene once formulaciones y se conserva como g
 La lista anterior conserva la **primera activación pública de once formulaciones** como genealogía. El estado operativo vigente de la capa tras NEOCore™ 7.3.4 es: / The list above preserves the **first public activation of eleven formulations** as genealogy. The current operational state of the layer after NEOCore™ 7.3.4 is:
 
 - **30 Neoaxiomas™ canónicos / canonical Neoaxioms™:** NAX-01–NAX-30.
-- **1 candidato neoaxiomático / neoaxiomatic candidate:** C-NAX-31.
+- **2 candidatos neoaxiomáticos / neoaxiomatic candidates:** C-NAX-31–C-NAX-32.
 - **Régimen vigente / Current regime:** nuevos C-NAX → 7 días naturales; NAX-15–NAX-29 → fijados por la transición excepcional con efecto 2026-09-08 12:33 Europe/Madrid; NAX-30 → fijado 2026-11-19; C-NAX-31 → candidato activo bajo la ventana ordinaria. / new C-NAX → 7 calendar days; NAX-15–NAX-29 → fixed by the exceptional transition effective 2026-09-08 12:33 Europe/Madrid; NAX-30 → fixed 2026-11-19; C-NAX-31 → active candidate under the ordinary window.
 - **Registro canónico de formulaciones / Canonical formulation registry:** [neoaxiomas/README.md](../../neoaxiomas/README.md).
 - **Índice completo de contraste / Complete scrutiny index:** [INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md](./INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md).
@@ -109,3 +109,10 @@ La antigua [Regla de 365 días](./REGLA_MADURACION_NEOAXIOMAS_365_DIAS_ES_EN.md)
 **ES:** [NAX-30 · Operador–Vectorizador](../../neoaxiomas/NAX-30_OPERADOR_VECTORIZADOR_ES_EN.md) fijado tras comprobar [SAN #191](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/191) y los siete días completos sin objeciones externas sustantivas. [C-NAX-31](../../neoaxiomas/C-NAX-31_SOBERANIA_ABIERTA_MEMORIA_HISTORICA_COMPARTIDA_ES_EN.md) continúa en contraste público mediante [SAN #211](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/211), ventana abierta 2026-11-19, sin promoción.
 
 **EN:** [NAX-30 · Operator–Vectorizer](../../neoaxiomas/NAX-30_OPERADOR_VECTORIZADOR_ES_EN.md) fixed after reviewing [SAN #191](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/191) and its elapsed full seven-day window without substantive external objections. [C-NAX-31](../../neoaxiomas/C-NAX-31_SOBERANIA_ABIERTA_MEMORIA_HISTORICA_COMPARTIDA_ES_EN.md) remains under public scrutiny at [SAN #211](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/211), window opened 2026-11-19, no promotion.
+
+
+## Ampliación de frontera · 2026-11-20 / Frontier extension · 2026-11-20
+
+**ES:** [C-NAX-31](../../neoaxiomas/C-NAX-31_SOBERANIA_ABIERTA_MEMORIA_HISTORICA_COMPARTIDA_ES_EN.md) y [C-NAX-32](../../neoaxiomas/C-NAX-32_PRIMACIA_FINALIDAD_SOBRE_RECOMPENSA_ES_EN.md) son candidatos activos. C-NAX-32 abrió [SAN #213](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/213) el 20/11/2026 a las 12:22:30 CET; permanece sujeto a siete días completos, contraste de irreducibilidad y decisión humana.
+
+**EN:** [C-NAX-31](../../neoaxiomas/C-NAX-31_SOBERANIA_ABIERTA_MEMORIA_HISTORICA_COMPARTIDA_ES_EN.md) and [C-NAX-32](../../neoaxiomas/C-NAX-32_PRIMACIA_FINALIDAD_SOBRE_RECOMPENSA_ES_EN.md) are active candidates. C-NAX-32 opened [SAN #213](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/213) on 20 November 2026 at 12:22:30 CET; it remains subject to seven full days, irreducibility scrutiny, and human decision.

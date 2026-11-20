@@ -28,9 +28,9 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 > ## 🔴 ÚLTIMO MANIFIESTO FINITO ABIERTO A SÍNTESIS / LATEST FINITE MANIFESTO OPEN FOR SYNTHESIS
 >
-> **LXXXVIII · La historia no pertenece a quien la cuenta™ / History Does Not Belong to Its Narrator™**
+> **LXXXIX · La recompensa no es el fin™ · Manifiesto de la Custodia de la Finalidad / Reward Is Not the End™ · Manifesto for the Stewardship of Purpose**
 >
-> **[Manifiesto LXXXVIII / Manifesto LXXXVIII](88_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md) · [Síntesis Abierta LXXXVIII · #210 / Open Synthesis LXXXVIII · #210](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/210)**
+> **[Manifiesto LXXXIX / Manifesto LXXXIX](89_primacia_fines_sobre_recompensas_ES_EN.md) · [Síntesis Abierta LXXXIX / Open Synthesis LXXXIX](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/212)**
 
 > ## ∞ · PUERTA ABIERTA PERMANENTE / PERMANENT OPEN DOOR
 >
@@ -38,7 +38,7 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 >
 > ∞ no cuenta como número finito: permanece siempre después del último manifiesto numerado. / ∞ is not a finite manifesto number: it always remains after the latest numbered manifesto.
 
-**Frontera canónica vigente / Current canonical frontier:** **88 manifiestos finitos bilingües · I–LXXXVIII + Manifiesto ∞ / 88 finite bilingual manifestos · I–LXXXVIII + Manifesto ∞**
+**Frontera canónica vigente / Current canonical frontier:** **89 manifiestos finitos bilingües · I–LXXXIX + Manifiesto ∞ / 89 finite bilingual manifestos · I–LXXXIX + Manifesto ∞**
 
 **Fecha de fijación de esta frontera / Frontier fixation date:** 2026-09-06
 
@@ -64,7 +64,7 @@ La sincronización se automatiza mediante `.github/scripts/sync_manifesto_crossr
 ### Síntesis de principios / Synthesis of principles
 
 Cada manifiesto dispone de un espacio público de contraste. / Each manifesto has a public space for scrutiny.  
-[Portal de Síntesis Abierta / Open Synthesis portal](../propuestas/sintesis-abierta/README.md) · [Índice completo I–LXXXVIII + ∞ + Neoaxiomas + sistema / Complete index](../propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md)
+[Portal de Síntesis Abierta / Open Synthesis portal](../propuestas/sintesis-abierta/README.md) · [Índice completo I–LXXXIX + ∞ + Neoaxiomas + sistema / Complete index](../propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md)
 
 ### Problemas, evidencia y auditorías / Problems, evidence and audits
 
@@ -162,6 +162,7 @@ Cada manifiesto dispone de un espacio público de contraste. / Each manifesto ha
 - **LXXXVI** · [Manifiesto de la Federación Neodialéctica dentro del Network Framework™ / Manifesto of the Neodialectical Federation within the Network Framework™](86_federacion_neodialectica_network_framework_ES_EN.md) · [SAN #187](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/187)
 - **LXXXVII** · [El loro estocástico, el oráculo y otros animales imaginarios / The Stochastic Parrot, the Oracle and Other Imaginary Animals](87_loro_estocastico_oraculo_malentendidos_ia_ES_EN.md) · [SAN #202](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/202)
 - **LXXXVIII** · [La historia no pertenece a quien la cuenta™ · Manifiesto por la Historia Común en Síntesis Abierta / History Does Not Belong to Its Narrator™ · Manifesto for Shared History through Open Synthesis](88_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md) · [SAN #210](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/210) · [C-NAX-31](../neoaxiomas/C-NAX-31_SOBERANIA_ABIERTA_MEMORIA_HISTORICA_COMPARTIDA_ES_EN.md)
+- **LXXXIX** · [La recompensa no es el fin™ · Manifiesto de la Custodia de la Finalidad / Reward Is Not the End™ · Manifesto for the Stewardship of Purpose](89_primacia_fines_sobre_recompensas_ES_EN.md) · [SAN](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/212) · [C-NAX-32](../neoaxiomas/C-NAX-32_PRIMACIA_FINALIDAD_SOBRE_RECOMPENSA_ES_EN.md)
 - **∞** · [Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
 
 > Ningún manifiesto equivale por sí solo al marco completo. / No single manifesto equals the complete framework.
@@ -170,7 +171,7 @@ Cada manifiesto dispone de un espacio público de contraste. / Each manifesto ha
 
 **Cualquier persona puede aportar a un nodo concreto con comprensión local suficiente.** No es necesario dominar el marco entero para preguntar, aportar experiencia, fuentes, evidencia, objeciones, contraejemplos, pruebas o mejoras. Para juzgar el marco completo se exige una profundidad proporcional de lectura y relación; por su complejidad actual, la ayuda de IA puede ser necesaria o altamente recomendable como memoria relacional, siempre con retorno a fuente.
 
-**Última síntesis finita / Latest finite synthesis:** [LXXXVIII · Historia Común en Síntesis Abierta / Shared History through Open Synthesis](88_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md) · [Issue #210](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/210)
+**Última síntesis finita / Latest finite synthesis:** [LXXXIX · La recompensa no es el fin / Reward Is Not the End](89_primacia_fines_sobre_recompensas_ES_EN.md) · [SAN / Open Synthesis](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/212)
 
 **Puerta permanente / Permanent door:** [Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) · [Issue #106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106)  
 **Cómo aportar / How to contribute:** [protocolo general / general protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../auditorias/publicas/README.md) · [portal SAN™](../propuestas/sintesis-abierta/README.md) · [índice completo / complete index](../propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md)
@@ -196,3 +197,10 @@ La denominación completa debe conservarse visible: **WEB4™ · SistemaTrazable
 **ES:** Se incorporan [LXXXVII · El loro estocástico](87_loro_estocastico_oraculo_malentendidos_ia_ES_EN.md) ([SAN #202](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/202)) y [LXXXVIII · Historia Común](88_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md) ([SAN #210](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/210)). La versión no numerada de LXXXVIII permanece en candidatos como procedencia y no se elimina ninguna versión anterior.
 
 **EN:** Added [LXXXVII · The Stochastic Parrot](87_loro_estocastico_oraculo_malentendidos_ia_ES_EN.md) ([SAN #202](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/202)) and [LXXXVIII · Shared History](88_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md) ([SAN #210](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/210)). The unnumbered original LXXXVIII draft remains under candidates for provenance; no earlier version is deleted.
+
+
+## Ampliación de finalidad y recompensa · 2026-11-20 / Purpose and reward extension · 2026-11-20
+
+**ES:** [LXXXIX · La recompensa no es el fin](89_primacia_fines_sobre_recompensas_ES_EN.md) formula controles de desvío de objetivos en incentivos, tokens, métricas e instituciones. Se vincula con [C-NAX-32](../neoaxiomas/C-NAX-32_PRIMACIA_FINALIDAD_SOBRE_RECOMPENSA_ES_EN.md), [matriz](../propuestas/sintesis-abierta/2026-11-20_MATRIZ_FINALIDAD_RECOMPENSA_ES_EN.md) y [delta](../propuestas/sintesis-abierta/2026-11-20_DELTA_PRIMACIA_FINALIDAD_RECOMPENSA_ES_EN.md). Hereda XXIX y XXX; no los reescribe. C-NAX-32 no está fijado.
+
+**EN:** [LXXXIX · Reward Is Not the End](89_primacia_fines_sobre_recompensas_ES_EN.md) proposes controls for incentive and goal drift across tokens, metrics, and institutions. It is linked to [C-NAX-32](../neoaxiomas/C-NAX-32_PRIMACIA_FINALIDAD_SOBRE_RECOMPENSA_ES_EN.md), the [matrix](../propuestas/sintesis-abierta/2026-11-20_MATRIZ_FINALIDAD_RECOMPENSA_ES_EN.md) and the [delta](../propuestas/sintesis-abierta/2026-11-20_DELTA_PRIMACIA_FINALIDAD_RECOMPENSA_ES_EN.md). It inherits XXIX and XXX without rewriting them. C-NAX-32 is not fixed.

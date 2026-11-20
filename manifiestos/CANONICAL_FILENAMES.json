@@ -355,6 +355,10 @@
     "LXXXVIII": {
       "legacy": "manifiestos/88_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md",
       "canonical": "manifiestos/canonicos/LXXXVIII_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md"
+    },
+    "LXXXIX": {
+      "legacy": "manifiestos/89_primacia_fines_sobre_recompensas_ES_EN.md",
+      "canonical": "manifiestos/canonicos/LXXXIX_primacia_fines_sobre_recompensas_ES_EN.md"
     }
   }
 }

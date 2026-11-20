@@ -77,6 +77,7 @@ Los Neoaxiomas™ son principios de alta estabilidad del NEOCore™ sin converti
 | Candidato — **leer** | Estado / SAN | Procedencia / genealogía |
 |---|---|---|
 | [**C-NAX-31 · Soberanía Abierta de la Memoria Histórica Compartida™**](./C-NAX-31_SOBERANIA_ABIERTA_MEMORIA_HISTORICA_COMPARTIDA_ES_EN.md) | Candidato activo · ventana ordinaria | [#211](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/211) | [LXXXVIII · Historia común](../manifiestos/88_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md) · [NAX-25](./NAX-25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md) |
+| [**C-NAX-32 · Primacía Verificable de la Finalidad sobre la Recompensa™**](./C-NAX-32_PRIMACIA_FINALIDAD_SOBRE_RECOMPENSA_ES_EN.md) | Candidato · ventana ordinaria · no canónico | [SAN](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/213) | [LXXXIX](../manifiestos/89_primacia_fines_sobre_recompensas_ES_EN.md) · [Matriz](../propuestas/sintesis-abierta/2026-11-20_MATRIZ_FINALIDAD_RECOMPENSA_ES_EN.md) |
 
 ## Relación estructural
 
@@ -167,6 +168,7 @@ Son especialmente útiles contraejemplos, contradicciones entre Neoaxiomas, evid
 | Candidate — **read** | Status / SAN | Provenance / genealogy |
 |---|---|---|
 | [**C-NAX-31 · Open Sovereignty of Shared Historical Memory™**](./C-NAX-31_SOBERANIA_ABIERTA_MEMORIA_HISTORICA_COMPARTIDA_ES_EN.md) | Active candidate · ordinary window | [#211](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/211) | [LXXXVIII · Shared history](../manifiestos/88_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md) · [NAX-25](./NAX-25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md) |
+| [**C-NAX-32 · Verifiable Primacy of Purpose over Reward™**](./C-NAX-32_PRIMACIA_FINALIDAD_SOBRE_RECOMPENSA_ES_EN.md) | Active candidate · ordinary window · not canonical | [SAN](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/213) | [LXXXIX](../manifiestos/89_primacia_fines_sobre_recompensas_ES_EN.md) · [Matrix](../propuestas/sintesis-abierta/2026-11-20_MATRIZ_FINALIDAD_RECOMPENSA_ES_EN.md) |
 
 ## Structural relation
 
@@ -221,3 +223,10 @@ La formulación completa que antes estaba embebida monolíticamente en este READ
 **ES:** NAX-01–NAX-30 son canónicos y revisables; C-NAX-31 es el único candidato abierto, desde el 2026-11-19. C-NAX-30 permanece como archivo genealógico de [NAX-30](./NAX-30_OPERADOR_VECTORIZADOR_ES_EN.md).
 
 **EN:** NAX-01–NAX-30 are canonical and revisable; C-NAX-31 is the only open candidate, from 2026-11-19. C-NAX-30 remains a genealogical archive for [NAX-30](./NAX-30_OPERADOR_VECTORIZADOR_ES_EN.md).
+
+
+## Nuevo candidato · 2026-11-20 / New candidate · 2026-11-20
+
+**ES:** [C-NAX-32 · Primacía verificable de la finalidad sobre la recompensa](./C-NAX-32_PRIMACIA_FINALIDAD_SOBRE_RECOMPENSA_ES_EN.md) abre contraste sobre deriva de incentivos sin sustituir [NAX-18](./NAX-18_MOTOR_BIEN_COMUN_NEOSINERGIA_ES_EN.md) ni los manifiestos [XXIX](../manifiestos/29_idolatria_del_dinero_ES_EN.md) y [XXX](../manifiestos/30_coherencia_fines_medios_ES_EN.md). NAX-01–NAX-30 siguen canónicos; C-NAX-31 y C-NAX-32 son candidatos, no fijados.
+
+**EN:** [C-NAX-32 · Verifiable primacy of purpose over reward](./C-NAX-32_PRIMACIA_FINALIDAD_SOBRE_RECOMPENSA_ES_EN.md) opens scrutiny of incentive drift without replacing [NAX-18](./NAX-18_MOTOR_BIEN_COMUN_NEOSINERGIA_ES_EN.md) or Manifestos [XXIX](../manifiestos/29_idolatria_del_dinero_ES_EN.md) and [XXX](../manifiestos/30_coherencia_fines_medios_ES_EN.md). NAX-01–NAX-30 remain canonical; C-NAX-31 and C-NAX-32 are candidates, not fixed.

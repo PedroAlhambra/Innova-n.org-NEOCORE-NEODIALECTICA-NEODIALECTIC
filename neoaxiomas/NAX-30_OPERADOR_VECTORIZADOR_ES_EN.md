@@ -9,7 +9,7 @@
 **SAN:** [#191](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/191)
 **Relación principal / Main relation:** [I · Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica / Neo0™ Manifesto of Neodialectical Guiding Sovereignty](../manifiestos/11_neo0_soberania_de_guia_ES_EN.md)
 
-[ES · Castellano](#es--formulación-candidata) · [EN · English](#en--candidate-formulation)
+[ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
 ---
 

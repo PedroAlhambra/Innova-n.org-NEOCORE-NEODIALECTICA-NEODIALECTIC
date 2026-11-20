@@ -11,6 +11,9 @@
 **Procedimiento / Procedure:** INIT → current_seal → axiomas/relaciones/contratos SAN → marco público y neoaxiomas → comparación de no-duplicidad → delta → validaciones
 **Autoridad / Authority:** Neo0 fija; SAN contrasta; la IA asiste. Crear candidato/commit RW no equivale a promoción RO ni publicación definitiva.
 
+
+[ES · Castellano](#es--alcance-y-novedad) · [EN · English](#en--scope-and-novelty)
+
 ## ES · Alcance y novedad
 
 La petición originaria de Neo0 propone que la construcción de la narrativa histórica sea conjunta mediante Síntesis Abierta para reducir la captura de la memoria colectiva por actores con poder sobre archivo, educación o distribución.
