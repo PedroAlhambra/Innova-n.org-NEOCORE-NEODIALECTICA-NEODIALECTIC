@@ -13,7 +13,7 @@
 - Archivos Markdown históricos excluidos del estado vivo: **55**.
 - Entradas legacy excluidas del estado vivo: **0**.
 - README activos revisados: **30**.
-- Enlaces internos de ruta comprobados: **14200**.
+- Enlaces internos de ruta comprobados: **14202**.
 - Alias internos de GitHub Wiki reconocidos: **44**.
 - Enlaces externos inventariados sin comprobar disponibilidad remota: **2483**.
 - Enlaces sólo a ancla detectados: **1117**.
@@ -46,7 +46,7 @@
 - Historical Markdown files excluded from living-state health: **55**.
 - Legacy entry files excluded from living-state health: **0**.
 - Active README files reviewed: **30**.
-- Internal path links checked: **14200**.
+- Internal path links checked: **14202**.
 - GitHub Wiki extensionless page aliases recognised: **44**.
 - External links inventoried without checking remote availability: **2483**.
 - Anchor-only links detected: **1117**.
