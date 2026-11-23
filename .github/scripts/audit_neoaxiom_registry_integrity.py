@@ -89,6 +89,26 @@ def main():
         readme_es = readme[es_gate.end():en_gate.start()]
         readme_en = readme[en_gate.end():]
 
+    # Reader-first ES/EN: editorial doctrine before operational rules.
+    if es_gate and en_gate and en_gate.start() > es_gate.start():
+        for language, layer, canonical_heading, candidate_heading, how_heading, structural_heading in (
+            ('ES', readme_es, '## Neoaxiomas vigentes', '## Candidatos neoaxiomáticos', '## Cómo leer esta capa', '## Relación estructural'),
+            ('EN', readme_en, '## Current Neoaxioms', '## Neoaxiomatic candidates', '## How to read this layer', '## Structural relation'),
+        ):
+            positions = [layer.find(h) for h in (canonical_heading, candidate_heading, how_heading, structural_heading)]
+            if -1 in positions or positions != sorted(positions):
+                problems.append(f'NEOAXIOM_READING_FIRST_REGRESSION: {language} NAX/C-NAX must precede usage / NAX/C-NAX antes del uso')
+        if es_gate.start() > 450:
+            problems.append('NEOAXIOM_READING_FIRST_REGRESSION: capa técnica antes del índice ES')
+    top = (ROOT / 'README.md').read_text(encoding='utf-8').split('# ES · Castellano', 1)[0]
+    for es_label, en_label in (
+        ('[Leer los neoaxiomas · Índice canónico](./neoaxiomas/README.md)', '[Read the neoaxioms · Canonical index](./neoaxiomas/README.md)'),
+        ('[Leer los manifiestos · Índice canónico](./manifiestos/README.md)', '[Read the manifestos · Canonical index](./manifiestos/README.md)'),
+    ):
+        if es_label not in top or en_label not in top or '> **Versión vigente' not in top or top.index(es_label) > top.index('> **Versión vigente'):
+            problems.append(f'NEOAXIOM_READING_FIRST_REGRESSION: faltan accesos públicos ES/EN {es_label}')
+
+
     canonical = primary_documents('NAX')
     candidates = primary_documents('C-NAX', active_candidates_only=True)
     historical_candidates = {n: ps for n, ps in primary_documents('C-NAX').items() if n not in candidates}

@@ -6,10 +6,10 @@
 **Filosofía Arquetípica Neodialéctica™ · Síntesis Abierta™ · memoria · trazabilidad · cultura · investigación · WEB4™**  
 **Archetypal Neodialectical Philosophy™ · Open Synthesis™ · memory · traceability · culture · research · WEB4™**
 
-## Manifiestos / Manifestos
+## Neoaxiomas y manifiestos / Neoaxioms and manifestos
 
-**ES:** [Leer los manifiestos · Índice canónico](./manifiestos/README.md)  
-**EN:** [Read the manifestos · Canonical index](./manifiestos/README.md)
+**ES:** [Leer los neoaxiomas · Índice canónico](./neoaxiomas/README.md) · [Leer los manifiestos · Índice canónico](./manifiestos/README.md)  
+**EN:** [Read the neoaxioms · Canonical index](./neoaxiomas/README.md) · [Read the manifestos · Canonical index](./manifiestos/README.md)
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 

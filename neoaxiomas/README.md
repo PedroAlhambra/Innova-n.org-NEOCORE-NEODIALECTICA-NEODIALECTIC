@@ -1,35 +1,9 @@
 # Neoaxiomas™ · Capa Axiomática Abierta del NEOCore™
 # Neoaxioms™ · Open Axiomatic Layer of NEOCore™
 
-**Estado / Status:** **CANON ABIERTO Y REABRIBLE + CANDIDATOS EN SÍNTESIS ABIERTA / OPEN AND REOPENABLE CANON + CANDIDATES IN OPEN SYNTHESIS**  
-**Versión vigente / Current version:** [resolver siempre desde `versiones/README.md` / always resolve from `versiones/README.md`](../versiones/README.md)  
-**Fecha de apertura / Opening date:** **2026-08-09**  
-**Origen humano / Human origin:** **Pedro Martínez Alhambra · Neo0™**  
-**Función / Function:** índice navegable de la capa neoaxiomática; las formulaciones completas viven en documentos propios. / navigable index for the neoaxiomatic layer; full formulations live in their own documents.
-
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
-> **Regla estructural:** `README = ÍNDICE`, `NEOAXIOMA = DOCUMENTO PROPIO`, `PROCEDENCIA ≠ NEOAXIOMA`, `SAN ≠ PROCEDENCIA`. Pulsar el nombre de un NAX/C-NAX debe abrir el propio Neoaxioma; la genealogía y la Síntesis Abierta son rutas secundarias separadas.  
-> **Structural rule:** `README = INDEX`, `NEOAXIOM = OWN DOCUMENT`, `PROVENANCE ≠ NEOAXIOM`, `SAN ≠ PROVENANCE`. Clicking a NAX/C-NAX name must open the Neoaxiom itself; genealogy and Open Synthesis are separate secondary routes.
-
-Los Neoaxiomas™ son principios de alta estabilidad del NEOCore™ sin convertirse en dogmas cerrados: permanecen abiertos a evidencia, crítica, refutación, genealogía y revisión mediante SAN™. / Neoaxioms™ are high-stability principles within NEOCore™ without becoming closed dogma: they remain open to evidence, criticism, refutation, genealogy and revision through SAN™.
-
-**[Matriz de Síntesis Abierta Neoaxiomas™ / Neoaxioms Open Synthesis matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)** · **[Protocolo / Protocol](../propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md)** · **[Regla vigente 7 días + transición 2026 / Current 7-day + 2026 transition rule](../propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_7_DIAS_Y_TRANSICION_2026_ES_EN.md)** · [Regla histórica 365 días / Historical 365-day rule](../propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_365_DIAS_ES_EN.md)
-
-### Mapa relacional vivo / Living relational map
-
-[Manifiestos / Manifestos](../manifiestos/README.md) · [Neoaxiomas™](README.md) · [Síntesis Abierta / Open Synthesis](../propuestas/sintesis-abierta/README.md) · [Relaciones y trabajo aplicado / Relations and applied work](../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Síntesis relacional #98](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/98) · [Auditoría MAXPROC](../auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md)
-
----
-
 # ES · Castellano
-
-## Cómo leer esta capa
-
-1. **Pulsa el nombre** para leer el Neoaxioma completo.
-2. **Estado** indica si está activado/canónico o sigue como candidato.
-3. **SAN** abre la contradicción y revisión pública específica.
-4. **Procedencia** permite reconstruir la genealogía sin sustituir la lectura del Neoaxioma.
 
 ## Neoaxiomas vigentes · NAX-01–NAX-30
 
@@ -70,7 +44,7 @@ Los Neoaxiomas™ son principios de alta estabilidad del NEOCore™ sin converti
 
 - [**Fuego de Agua™ y Totalidad Elemental · Agua, Madera, Fuego, Tierra y Metal**](./NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md)
 
-## Candidatos neoaxiomáticos · C-NAX-31
+## Candidatos neoaxiomáticos · C-NAX-31–C-NAX-32
 
 > **FRONTERA VIVA:** NAX-15–NAX-29 quedaron fijados por la transición excepcional con efecto **2026-09-08 12:33 CEST** tras verificarse ausencia de respuesta externa sustantiva en sus SAN. La fijación no cierra SAN™. NAX-30 quedó fijado el 2026-11-19 tras madurar sin objeciones externas sustantivas; C-NAX-31 es el único candidato activo, abierto el 2026-11-19 bajo la ventana ordinaria de 7 días. `SILENCIO ≠ VALIDACIÓN · FIJAR ≠ CERRAR`.
 
@@ -78,6 +52,13 @@ Los Neoaxiomas™ son principios de alta estabilidad del NEOCore™ sin converti
 |---|---|---|
 | [**C-NAX-31 · Soberanía Abierta de la Memoria Histórica Compartida™**](./C-NAX-31_SOBERANIA_ABIERTA_MEMORIA_HISTORICA_COMPARTIDA_ES_EN.md) | Candidato activo · ventana ordinaria | [#211](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/211) | [LXXXVIII · Historia común](../manifiestos/88_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md) · [NAX-25](./NAX-25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md) |
 | [**C-NAX-32 · Primacía Verificable de la Finalidad sobre la Recompensa™**](./C-NAX-32_PRIMACIA_FINALIDAD_SOBRE_RECOMPENSA_ES_EN.md) | Candidato · ventana ordinaria · no canónico | [SAN](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/213) | [LXXXIX](../manifiestos/89_primacia_fines_sobre_recompensas_ES_EN.md) · [Matriz](../propuestas/sintesis-abierta/2026-11-20_MATRIZ_FINALIDAD_RECOMPENSA_ES_EN.md) |
+
+## Cómo leer esta capa
+
+1. **Pulsa el nombre** para leer el Neoaxioma completo.
+2. **Estado** indica si está activado/canónico o sigue como candidato.
+3. **SAN** abre la contradicción y revisión pública específica.
+4. **Procedencia** permite reconstruir la genealogía sin sustituir la lectura del Neoaxioma.
 
 ## Relación estructural
 
@@ -114,13 +95,6 @@ Son especialmente útiles contraejemplos, contradicciones entre Neoaxiomas, evid
 ---
 
 # EN · English
-
-## How to read this layer
-
-1. **Click the name** to read the complete Neoaxiom.
-2. **Status** shows whether it is activated/canonical or still a candidate.
-3. **SAN** opens its dedicated public contradiction and revision route.
-4. **Provenance** reconstructs genealogy without replacing the Neoaxiom itself.
 
 ## Current Neoaxioms · NAX-01–NAX-30
 
@@ -161,7 +135,7 @@ Son especialmente útiles contraejemplos, contradicciones entre Neoaxiomas, evid
 
 - [**Fire of Water™ and Elemental Totality · Water, Wood, Fire, Earth and Metal**](./NAX-10_FUEGO_DE_AGUA_TOTALIDAD_ELEMENTAL_ES_EN.md)
 
-## Neoaxiomatic candidates · C-NAX-31
+## Neoaxiomatic candidates · C-NAX-31–C-NAX-32
 
 > **LIVE FRONTIER:** NAX-15–NAX-29 were fixed by the exceptional transition effective **2026-09-08 12:33 CEST** after their SAN nodes were verified to contain no external substantive response. Fixation does not close SAN™. NAX-30 was fixed on 2026-11-19 after the full window elapsed without substantive external objections; C-NAX-31 is the sole active candidate, opened 2026-11-19 under the ordinary 7-day window. `SILENCE ≠ VALIDATION · FIXATION ≠ CLOSURE`.
 
@@ -169,6 +143,13 @@ Son especialmente útiles contraejemplos, contradicciones entre Neoaxiomas, evid
 |---|---|---|
 | [**C-NAX-31 · Open Sovereignty of Shared Historical Memory™**](./C-NAX-31_SOBERANIA_ABIERTA_MEMORIA_HISTORICA_COMPARTIDA_ES_EN.md) | Active candidate · ordinary window | [#211](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/211) | [LXXXVIII · Shared history](../manifiestos/88_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md) · [NAX-25](./NAX-25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md) |
 | [**C-NAX-32 · Verifiable Primacy of Purpose over Reward™**](./C-NAX-32_PRIMACIA_FINALIDAD_SOBRE_RECOMPENSA_ES_EN.md) | Active candidate · ordinary window · not canonical | [SAN](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/213) | [LXXXIX](../manifiestos/89_primacia_fines_sobre_recompensas_ES_EN.md) · [Matrix](../propuestas/sintesis-abierta/2026-11-20_MATRIZ_FINALIDAD_RECOMPENSA_ES_EN.md) |
+
+## How to read this layer
+
+1. **Click the name** to read the complete Neoaxiom.
+2. **Status** shows whether it is activated/canonical or still a candidate.
+3. **SAN** opens its dedicated public contradiction and revision route.
+4. **Provenance** reconstructs genealogy without replacing the Neoaxiom itself.
 
 ## Structural relation
 
@@ -230,3 +211,26 @@ La formulación completa que antes estaba embebida monolíticamente en este READ
 **ES:** [C-NAX-32 · Primacía verificable de la finalidad sobre la recompensa](./C-NAX-32_PRIMACIA_FINALIDAD_SOBRE_RECOMPENSA_ES_EN.md) abre contraste sobre deriva de incentivos sin sustituir [NAX-18](./NAX-18_MOTOR_BIEN_COMUN_NEOSINERGIA_ES_EN.md) ni los manifiestos [XXIX](../manifiestos/29_idolatria_del_dinero_ES_EN.md) y [XXX](../manifiestos/30_coherencia_fines_medios_ES_EN.md). NAX-01–NAX-30 siguen canónicos; C-NAX-31 y C-NAX-32 son candidatos, no fijados.
 
 **EN:** [C-NAX-32 · Verifiable primacy of purpose over reward](./C-NAX-32_PRIMACIA_FINALIDAD_SOBRE_RECOMPENSA_ES_EN.md) opens scrutiny of incentive drift without replacing [NAX-18](./NAX-18_MOTOR_BIEN_COMUN_NEOSINERGIA_ES_EN.md) or Manifestos [XXIX](../manifiestos/29_idolatria_del_dinero_ES_EN.md) and [XXX](../manifiestos/30_coherencia_fines_medios_ES_EN.md). NAX-01–NAX-30 remain canonical; C-NAX-31 and C-NAX-32 are candidates, not fixed.
+
+## Información editorial y protocolos / Editorial information and protocols
+
+**Estado / Status:** **CANON ABIERTO Y REABRIBLE + CANDIDATOS EN SÍNTESIS ABIERTA / OPEN AND REOPENABLE CANON + CANDIDATES IN OPEN SYNTHESIS**  
+**Versión vigente / Current version:** [resolver siempre desde `versiones/README.md` / always resolve from `versiones/README.md`](../versiones/README.md)  
+**Fecha de apertura / Opening date:** **2026-08-09**  
+**Origen humano / Human origin:** **Pedro Martínez Alhambra · Neo0™**  
+**Función / Function:** índice navegable de la capa neoaxiomática; las formulaciones completas viven en documentos propios. / navigable index for the neoaxiomatic layer; full formulations live in their own documents.
+
+
+
+> **Regla estructural:** `README = ÍNDICE`, `NEOAXIOMA = DOCUMENTO PROPIO`, `PROCEDENCIA ≠ NEOAXIOMA`, `SAN ≠ PROCEDENCIA`. Pulsar el nombre de un NAX/C-NAX debe abrir el propio Neoaxioma; la genealogía y la Síntesis Abierta son rutas secundarias separadas.  
+> **Structural rule:** `README = INDEX`, `NEOAXIOM = OWN DOCUMENT`, `PROVENANCE ≠ NEOAXIOM`, `SAN ≠ PROVENANCE`. Clicking a NAX/C-NAX name must open the Neoaxiom itself; genealogy and Open Synthesis are separate secondary routes.
+
+Los Neoaxiomas™ son principios de alta estabilidad del NEOCore™ sin convertirse en dogmas cerrados: permanecen abiertos a evidencia, crítica, refutación, genealogía y revisión mediante SAN™. / Neoaxioms™ are high-stability principles within NEOCore™ without becoming closed dogma: they remain open to evidence, criticism, refutation, genealogy and revision through SAN™.
+
+**[Matriz de Síntesis Abierta Neoaxiomas™ / Neoaxioms Open Synthesis matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)** · **[Protocolo / Protocol](../propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md)** · **[Regla vigente 7 días + transición 2026 / Current 7-day + 2026 transition rule](../propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_7_DIAS_Y_TRANSICION_2026_ES_EN.md)** · [Regla histórica 365 días / Historical 365-day rule](../propuestas/sintesis-abierta/REGLA_MADURACION_NEOAXIOMAS_365_DIAS_ES_EN.md)
+
+### Mapa relacional vivo / Living relational map
+
+[Manifiestos / Manifestos](../manifiestos/README.md) · [Neoaxiomas™](README.md) · [Síntesis Abierta / Open Synthesis](../propuestas/sintesis-abierta/README.md) · [Relaciones y trabajo aplicado / Relations and applied work](../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Síntesis relacional #98](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/98) · [Auditoría MAXPROC](../auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md)
+
+---

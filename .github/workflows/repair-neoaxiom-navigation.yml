@@ -6,6 +6,7 @@ on:
     branches: [main]
     paths:
       - 'neoaxiomas/**'
+      - 'README.md'
       - 'propuestas/sintesis-abierta/*C_NAX_*_ES_EN.md'
       - 'propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md'
       - 'propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md'
@@ -23,4 +24,4 @@ jobs:
       - name: Verify document-first Neoaxiom navigation
         run: python .github/scripts/audit_neoaxiom_registry_integrity.py
       - name: Ensure the guard is non-mutating
-        run: git diff --exit-code
+        run: git diff --exit-code -- neoaxiomas/ README.md propuestas/sintesis-abierta/

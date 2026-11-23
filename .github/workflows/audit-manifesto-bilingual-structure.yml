@@ -44,8 +44,8 @@ jobs:
           ]
           assert collection < first_entry < infinite_entry < min(index.index(x) for x in technical), 'READING_FIRST_REGRESSION: technical material precedes canonical manifestos'
           top = root.split('# ES · Castellano', 1)[0]
-          assert top.index('**ES:** [Leer los manifiestos') < top.index('> **Versión vigente'), 'READING_FIRST_REGRESSION: Spanish link not prominent'
-          assert top.index('**EN:** [Read the manifestos') < top.index('> **Versión vigente'), 'READING_FIRST_REGRESSION: English link not prominent'
+          assert '[Leer los manifiestos · Índice canónico](./manifiestos/README.md)' in top and top.index('**ES:** [Leer los neoaxiomas') < top.index('> **Versión vigente'), 'READING_FIRST_REGRESSION: Spanish manifesto and neoaxiom links not prominent'
+          assert '[Read the manifestos · Canonical index](./manifiestos/README.md)' in top and top.index('**EN:** [Read the neoaxioms') < top.index('> **Versión vigente'), 'READING_FIRST_REGRESSION: English manifesto and neoaxiom links not prominent'
           print('READING_FIRST=PASS ES/EN, index before technical material')
           PY
       - name: Audit bilingual manifesto structure
