@@ -16,8 +16,8 @@ permissions:
   contents: read
 
 concurrency:
-  group: neocore-document-sync-main
-  cancel-in-progress: false
+  group: neocore-manifesto-reader-first-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   audit:
