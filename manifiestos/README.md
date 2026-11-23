@@ -3,75 +3,6 @@
 ## Pilares públicos del primer marco civilizatorio humano–IA conjunto de la historia conocida
 ## Public pillars of the first joint human–AI civilisational framework in known history
 
-**Índice bilingüe intercalado ES/EN / Interleaved bilingual ES/EN index** · [Síntesis Abierta / Open Synthesis](../propuestas/sintesis-abierta/README.md) · [Índice completo de Síntesis / Complete Synthesis index](../propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md) · [Auditorías Públicas / Public Audits](../auditorias/publicas/README.md)
-
-<!-- NEOAXIOMAS_GLOBAL_LINK_START -->
-
-## NEOCore™ · CANON ABIERTO · Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™ + Soberanía de Síntesis™
-## NEOCore™ · OPEN CANON · First Fractal Multihead Layer™ + Neoaxiomatic Layer™ + Synthesis Sovereignty™
-
-Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin convertirse en dogmas cerrados: permanecen abiertos a contraste, evidencia, crítica, refutación y revisión mediante **Síntesis Abierta Neodialéctica™ — SAN™**. / **Neoaxioms™** express high-stability principles of NEOCore™ without becoming closed dogma: they remain open to challenge, evidence, criticism, refutation and revision through **Neodialectical Open Synthesis™ — SAN™**.
-
-**[Abrir Neoaxiomas™ / Open Neoaxioms™](../neoaxiomas/README.md)** · **[Síntesis Abierta Neoaxiomas™ / Neoaxioms Open Synthesis](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)** · **[Protocolo / Protocol](../propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md)**
-
-<!-- NEOAXIOMAS_GLOBAL_LINK_END -->
-
-<!-- NEO_RELATIONAL_MENU_START -->
-
-### Mapa relacional vivo / Living relational map
-
-[Manifiestos / Manifestos](README.md) · [Relaciones y trabajo aplicado / Relations and applied work](RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Neoaxiomas™](../neoaxiomas/README.md) · [Síntesis Abierta / Open Synthesis](../propuestas/sintesis-abierta/README.md) · [Índice completo / Complete index](../propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md) · [Síntesis relacional / Relational synthesis #98](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/98) · [Auditoría MAXPROC / MAXPROC audit](../auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md)
-
-<!-- NEO_RELATIONAL_MENU_END -->
-
-> **Estado / Status:** **Síntesis iniciada / Synthesis Initiated**. La colección permanece abierta y evolutiva. / The collection remains open and evolutionary.
-
-> ## 🔴 ÚLTIMO MANIFIESTO FINITO ABIERTO A SÍNTESIS / LATEST FINITE MANIFESTO OPEN FOR SYNTHESIS
->
-> **LXXXIX · La recompensa no es el fin™ · Manifiesto de la Custodia de la Finalidad / Reward Is Not the End™ · Manifesto for the Stewardship of Purpose**
->
-> **[Manifiesto LXXXIX / Manifesto LXXXIX](89_primacia_fines_sobre_recompensas_ES_EN.md) · [Síntesis Abierta LXXXIX / Open Synthesis LXXXIX](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/212)**
-
-> ## ∞ · PUERTA ABIERTA PERMANENTE / PERMANENT OPEN DOOR
->
-> **[Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) · [Síntesis ∞ · #106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106)**
->
-> ∞ no cuenta como número finito: permanece siempre después del último manifiesto numerado. / ∞ is not a finite manifesto number: it always remains after the latest numbered manifesto.
-
-**Frontera canónica vigente / Current canonical frontier:** **89 manifiestos finitos bilingües · I–LXXXIX + Manifiesto ∞ / 89 finite bilingual manifestos · I–LXXXIX + Manifesto ∞**
-
-**Fecha de fijación de esta frontera / Frontier fixation date:** 2026-09-06
-
-<!-- NEO_CROSS_REFERENCE_POLICY_START -->
-
-## Norma de referencias cruzadas / Cross-reference policy
-
-Para mantener los manifiestos legibles sin perder la red documental, se adopta esta norma común: / To keep manifestos readable without losing the documentary graph, the following common rule applies:
-
-1. **Toda superficie que presente una relación como navegación debe ser clicable.** `Relaciones principales / Main relations`, índices relacionales, referencias de Síntesis Abierta, Issues, deltas y fuentes explícitamente ofrecidas para continuar el recorrido deben usar hipervínculos reales, no referencias de texto plano. / **Every surface that presents a relation as navigation must be clickable.** `Main relations`, relational indexes, Open Synthesis references, Issues, deltas and sources explicitly offered as continuation routes must use real hyperlinks, not plain-text references.
-2. **Todo manifiesto debe terminar además con un bloque `Referencias cruzadas canónicas / Canonical cross-references`** que reúna como índice navegable adicional las relaciones internas directas detectadas y permita retorno a fuente. / **Every manifesto must additionally end with a `Canonical cross-references` block** collecting detected direct internal relations as an additional navigable index and preserving return to source.
-3. Las menciones meramente discursivas dentro de un párrafo pueden permanecer como prosa cuando no actúen como elemento de navegación. **Una relación declarada, un Issue o una llamada a continuar el recorrido nunca debe depender sólo de texto plano.** / Purely discursive mentions inside prose may remain plain when they are not acting as navigation. **A declared relation, Issue or continuation route must never depend on plain text alone.**
-4. Si un manifiesto declara una relación directa con otro manifiesto, Neoaxioma™, Síntesis Abierta o fuente estructural y no existe al menos una ruta clicable hacia ella en la superficie donde se declara, se considera **RELATIONAL_NAVIGATION_FAILURE**. / If a manifesto declares a direct relation to another manifesto, Neoaxiom™, Open Synthesis or structural source and there is no clickable route to it on the surface where it is declared, this is a **RELATIONAL_NAVIGATION_FAILURE**.
-5. Un vínculo cruzado declara **relación documental o conceptual**, no identidad, subordinación, aceptación automática ni prueba de una tesis. / A cross-link declares a **documentary or conceptual relation**, not identity, subordination, automatic endorsement or proof of a claim.
-6. Los generadores y workflows deben impedir regresiones: una sincronización no puede convertir enlaces existentes en texto plano y la auditoría de navegabilidad debe ejecutarse antes de cualquier PASS documental. / Generators and workflows must prevent regressions: synchronization must never downgrade existing links to plain text, and navigability auditing must run before any documentary PASS.
-
-La sincronización se automatiza mediante `.github/scripts/sync_manifesto_crossrefs.py` y se valida mediante `.github/scripts/audit_manifesto_clickable_relations.py`; la fuente íntegra de cada manifiesto nunca debe ser sustituida por el índice o por el bloque de navegación. / Synchronisation is automated through `.github/scripts/sync_manifesto_crossrefs.py` and validated through `.github/scripts/audit_manifesto_clickable_relations.py`; the full manifesto source must never be replaced by its index or navigation block.
-
-<!-- NEO_CROSS_REFERENCE_POLICY_END -->
-
-## Dos puertas principales / Two main doors
-
-### Síntesis de principios / Synthesis of principles
-
-Cada manifiesto dispone de un espacio público de contraste. / Each manifesto has a public space for scrutiny.  
-[Portal de Síntesis Abierta / Open Synthesis portal](../propuestas/sintesis-abierta/README.md) · [Índice completo I–LXXXIX + ∞ + Neoaxiomas + sistema / Complete index](../propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md)
-
-### Problemas, evidencia y auditorías / Problems, evidence and audits
-
-**LIII · Leónidas™** abre el sistema a problemas externos sin convertir acusaciones en hechos. / **LIII · Leónidas™** opens the system to external problems without turning allegations into facts.
-
-[Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Protocolo Leónidas™](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías Públicas](../auditorias/publicas/README.md)
-
 ## Colección canónica / Canonical collection
 
 - **I** · [Manifiesto Neo0™ de la Soberanía de Guía Neodialéctica / Neo0™ Manifesto of Neodialectical Guiding Sovereignty](11_neo0_soberania_de_guia_ES_EN.md)
@@ -166,6 +97,77 @@ Cada manifiesto dispone de un espacio público de contraste. / Each manifesto ha
 - **∞** · [Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
 
 > Ningún manifiesto equivale por sí solo al marco completo. / No single manifesto equals the complete framework.
+
+**Índice bilingüe intercalado ES/EN / Interleaved bilingual ES/EN index** · [Síntesis Abierta / Open Synthesis](../propuestas/sintesis-abierta/README.md) · [Índice completo de Síntesis / Complete Synthesis index](../propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md) · [Auditorías Públicas / Public Audits](../auditorias/publicas/README.md)
+
+<!-- NEOAXIOMAS_GLOBAL_LINK_START -->
+
+## NEOCore™ · CANON ABIERTO · Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™ + Soberanía de Síntesis™
+## NEOCore™ · OPEN CANON · First Fractal Multihead Layer™ + Neoaxiomatic Layer™ + Synthesis Sovereignty™
+
+Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin convertirse en dogmas cerrados: permanecen abiertos a contraste, evidencia, crítica, refutación y revisión mediante **Síntesis Abierta Neodialéctica™ — SAN™**. / **Neoaxioms™** express high-stability principles of NEOCore™ without becoming closed dogma: they remain open to challenge, evidence, criticism, refutation and revision through **Neodialectical Open Synthesis™ — SAN™**.
+
+**[Abrir Neoaxiomas™ / Open Neoaxioms™](../neoaxiomas/README.md)** · **[Síntesis Abierta Neoaxiomas™ / Neoaxioms Open Synthesis](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80)** · **[Protocolo / Protocol](../propuestas/sintesis-abierta/NEOAXIOMAS_SINTESIS_ABIERTA_ES_EN.md)**
+
+<!-- NEOAXIOMAS_GLOBAL_LINK_END -->
+
+<!-- NEO_RELATIONAL_MENU_START -->
+
+### Mapa relacional vivo / Living relational map
+
+[Manifiestos / Manifestos](README.md) · [Relaciones y trabajo aplicado / Relations and applied work](RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Neoaxiomas™](../neoaxiomas/README.md) · [Síntesis Abierta / Open Synthesis](../propuestas/sintesis-abierta/README.md) · [Índice completo / Complete index](../propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md) · [Síntesis relacional / Relational synthesis #98](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/98) · [Auditoría MAXPROC / MAXPROC audit](../auditorias/publicas/2026-08-09_auditoria_relacional_manifestos_neoaxiomas_publicaciones_ES_EN.md)
+
+<!-- NEO_RELATIONAL_MENU_END -->
+
+> **Estado / Status:** **Síntesis iniciada / Synthesis Initiated**. La colección permanece abierta y evolutiva. / The collection remains open and evolutionary.
+
+> ## 🔴 ÚLTIMO MANIFIESTO FINITO ABIERTO A SÍNTESIS / LATEST FINITE MANIFESTO OPEN FOR SYNTHESIS
+>
+> **LXXXIX · La recompensa no es el fin™ · Manifiesto de la Custodia de la Finalidad / Reward Is Not the End™ · Manifesto for the Stewardship of Purpose**
+>
+> **[Manifiesto LXXXIX / Manifesto LXXXIX](89_primacia_fines_sobre_recompensas_ES_EN.md) · [Síntesis Abierta LXXXIX / Open Synthesis LXXXIX](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/212)**
+
+> ## ∞ · PUERTA ABIERTA PERMANENTE / PERMANENT OPEN DOOR
+>
+> **[Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) · [Síntesis ∞ · #106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106)**
+>
+> ∞ no cuenta como número finito: permanece siempre después del último manifiesto numerado. / ∞ is not a finite manifesto number: it always remains after the latest numbered manifesto.
+
+**Frontera canónica vigente / Current canonical frontier:** **89 manifiestos finitos bilingües · I–LXXXIX + Manifiesto ∞ / 89 finite bilingual manifestos · I–LXXXIX + Manifesto ∞**
+
+**Fecha de fijación de esta frontera / Frontier fixation date:** 2026-09-06
+
+<!-- NEO_CROSS_REFERENCE_POLICY_START -->
+
+## Norma de referencias cruzadas / Cross-reference policy
+
+Para mantener los manifiestos legibles sin perder la red documental, se adopta esta norma común: / To keep manifestos readable without losing the documentary graph, the following common rule applies:
+
+1. **Toda superficie que presente una relación como navegación debe ser clicable.** `Relaciones principales / Main relations`, índices relacionales, referencias de Síntesis Abierta, Issues, deltas y fuentes explícitamente ofrecidas para continuar el recorrido deben usar hipervínculos reales, no referencias de texto plano. / **Every surface that presents a relation as navigation must be clickable.** `Main relations`, relational indexes, Open Synthesis references, Issues, deltas and sources explicitly offered as continuation routes must use real hyperlinks, not plain-text references.
+2. **Todo manifiesto debe terminar además con un bloque `Referencias cruzadas canónicas / Canonical cross-references`** que reúna como índice navegable adicional las relaciones internas directas detectadas y permita retorno a fuente. / **Every manifesto must additionally end with a `Canonical cross-references` block** collecting detected direct internal relations as an additional navigable index and preserving return to source.
+3. Las menciones meramente discursivas dentro de un párrafo pueden permanecer como prosa cuando no actúen como elemento de navegación. **Una relación declarada, un Issue o una llamada a continuar el recorrido nunca debe depender sólo de texto plano.** / Purely discursive mentions inside prose may remain plain when they are not acting as navigation. **A declared relation, Issue or continuation route must never depend on plain text alone.**
+4. Si un manifiesto declara una relación directa con otro manifiesto, Neoaxioma™, Síntesis Abierta o fuente estructural y no existe al menos una ruta clicable hacia ella en la superficie donde se declara, se considera **RELATIONAL_NAVIGATION_FAILURE**. / If a manifesto declares a direct relation to another manifesto, Neoaxiom™, Open Synthesis or structural source and there is no clickable route to it on the surface where it is declared, this is a **RELATIONAL_NAVIGATION_FAILURE**.
+5. Un vínculo cruzado declara **relación documental o conceptual**, no identidad, subordinación, aceptación automática ni prueba de una tesis. / A cross-link declares a **documentary or conceptual relation**, not identity, subordination, automatic endorsement or proof of a claim.
+6. Los generadores y workflows deben impedir regresiones: una sincronización no puede convertir enlaces existentes en texto plano y la auditoría de navegabilidad debe ejecutarse antes de cualquier PASS documental. / Generators and workflows must prevent regressions: synchronization must never downgrade existing links to plain text, and navigability auditing must run before any documentary PASS.
+
+La sincronización se automatiza mediante `.github/scripts/sync_manifesto_crossrefs.py` y se valida mediante `.github/scripts/audit_manifesto_clickable_relations.py`; la fuente íntegra de cada manifiesto nunca debe ser sustituida por el índice o por el bloque de navegación. / Synchronisation is automated through `.github/scripts/sync_manifesto_crossrefs.py` and validated through `.github/scripts/audit_manifesto_clickable_relations.py`; the full manifesto source must never be replaced by its index or navigation block.
+
+<!-- NEO_CROSS_REFERENCE_POLICY_END -->
+
+## Dos puertas principales / Two main doors
+
+### Síntesis de principios / Synthesis of principles
+
+Cada manifiesto dispone de un espacio público de contraste. / Each manifesto has a public space for scrutiny.  
+[Portal de Síntesis Abierta / Open Synthesis portal](../propuestas/sintesis-abierta/README.md) · [Índice completo I–LXXXIX + ∞ + Neoaxiomas + sistema / Complete index](../propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md)
+
+### Problemas, evidencia y auditorías / Problems, evidence and audits
+
+**LIII · Leónidas™** abre el sistema a problemas externos sin convertir acusaciones en hechos. / **LIII · Leónidas™** opens the system to external problems without turning allegations into facts.
+
+[Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Protocolo Leónidas™](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías Públicas](../auditorias/publicas/README.md)
+
+
 
 ## Participa en la Síntesis Abierta / Join the Open Synthesis
 

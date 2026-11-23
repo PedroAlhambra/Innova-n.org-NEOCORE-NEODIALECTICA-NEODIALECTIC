@@ -8,6 +8,7 @@ on:
       - '.github/scripts/audit_manifesto_bilingual_structure.py'
       - '.github/workflows/audit-manifesto-bilingual-structure.yml'
       - 'manifiestos/**.md'
+      - 'README.md'
       - 'manifiestos/CANONICAL_FILENAMES.json'
       - 'propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md'
 
@@ -25,6 +26,28 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+      - name: Verify manifestos are the first reading destination (ES/EN)
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          index = Path('manifiestos/README.md').read_text(encoding='utf-8')
+          root = Path('README.md').read_text(encoding='utf-8')
+          collection = index.index('## Colección canónica / Canonical collection')
+          first_entry = index.index('- **I** · ', collection)
+          infinite_entry = index.index('- **∞** · ', first_entry)
+          technical = [
+              '<!-- NEOAXIOMAS_GLOBAL_LINK_START -->',
+              '<!-- NEO_RELATIONAL_MENU_START -->',
+              '<!-- NEO_CROSS_REFERENCE_POLICY_START -->',
+              '## Dos puertas principales / Two main doors',
+          ]
+          assert collection < first_entry < infinite_entry < min(index.index(x) for x in technical), 'READING_FIRST_REGRESSION: technical material precedes canonical manifestos'
+          top = root.split('# ES · Castellano', 1)[0]
+          assert top.index('**ES:** [Leer los manifiestos') < top.index('> **Versión vigente'), 'READING_FIRST_REGRESSION: Spanish link not prominent'
+          assert top.index('**EN:** [Read the manifestos') < top.index('> **Versión vigente'), 'READING_FIRST_REGRESSION: English link not prominent'
+          print('READING_FIRST=PASS ES/EN, index before technical material')
+          PY
       - name: Audit bilingual manifesto structure
         run: python .github/scripts/audit_manifesto_bilingual_structure.py
       - name: Verify audit generated without mutating repository

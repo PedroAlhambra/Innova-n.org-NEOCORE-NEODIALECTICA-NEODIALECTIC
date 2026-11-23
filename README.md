@@ -6,6 +6,11 @@
 **Filosofía Arquetípica Neodialéctica™ · Síntesis Abierta™ · memoria · trazabilidad · cultura · investigación · WEB4™**  
 **Archetypal Neodialectical Philosophy™ · Open Synthesis™ · memory · traceability · culture · research · WEB4™**
 
+## Manifiestos / Manifestos
+
+**ES:** [Leer los manifiestos · Índice canónico](./manifiestos/README.md)  
+**EN:** [Read the manifestos · Canonical index](./manifiestos/README.md)
+
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
 > **Versión vigente e histórico / Current version and history:** **[fuente canónica viva / live canonical source](./versiones/README.md)**
