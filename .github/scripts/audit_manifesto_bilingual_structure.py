@@ -151,7 +151,7 @@ lines=[
 '# Auditoría estructural bilingüe de manifiestos / Bilingual manifesto structural audit','',
 '**Fecha / Date:** 2026-08-12  ',
 '**Objeto / Scope:** títulos ES/EN, metadatos mínimos, marcadores de idioma, simetría de secciones principales, índices, espejo canónico y bloque normativo de referencias cruzadas.','',
-f'**Manifiestos revisados / Manifestos reviewed:** {len(rows)}  ',
+f'**Manifiestos revisados / Manifestos reviewed:** {len(rows)}',
 f'**REVISAR / REVIEW:** {len(fail)}  ',
 f'**ADVERTENCIAS / WARNINGS:** {len(warn)}','',
 '## Resultado / Result','',
