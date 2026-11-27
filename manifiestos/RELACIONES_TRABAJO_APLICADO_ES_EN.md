@@ -737,9 +737,11 @@ Casos y análisis principales:
 
 ## WEB4™ / Gate / Conway · colaboración y genealogía / collaboration and provenance
 
-**[Auditoría / Audit](../auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) · [Delta](../actualizaciones/2026-11-27_DELTA_AUDITORIA_WEB4_GATE_CONWAY_ES_EN.md) · [Síntesis Abierta / Open Synthesis #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214)**
+**[Auditoría / Audit](../auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) · [Delta](../actualizaciones/2026-11-27_DELTA_AUDITORIA_WEB4_GATE_CONWAY_ES_EN.md) · [Registro de auditorías / Audit register](../auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md) · [Síntesis Abierta / Open Synthesis #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214)**
 
-**ES:** invitación a colaboración con el marco original de Innova_N, comparación de arquitecturas, reconocimiento recíproco de autoría y piloto de interoperabilidad. Precedencia específica respecto a Wen (2025), no exclusividad del término ni derivación demostrada. **EN:** invitation to collaborate with Innova_N's original framework, compare architectures, recognise each party's authorship and explore an interoperability pilot. Specific precedence relative to Wen (2025), not exclusivity of the term or demonstrated derivation.
+**ES:** Enviadas dos propuestas de colaboración el 27/11/2026; pendientes de respuesta. Precedencia específica respecto a Wen, no exclusividad de WEB4 ni derivación demostrada.
+
+**EN:** Two collaboration proposals sent on 27 November 2026; responses pending. Specific precedence relative to Wen, not exclusivity of WEB4 or demonstrated derivation.
 
 | Manifiesto / Manifesto | Relación / Relation |
 |---|---|
@@ -755,5 +757,7 @@ Casos y análisis principales:
 | [LXXXIX · Custodia de la finalidad / Stewardship of purpose](../manifiestos/89_primacia_fines_sobre_recompensas_ES_EN.md) | Finalidad y recompensa / Purpose and reward |
 
 [NeoGenealogía™](../propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md) · [RADAR-Π™](../propuestas/sintesis-abierta/RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md) · [#39](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/39) · [#136](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136) · [#143](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/143) · [#147](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/147) · [#212](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/212). Las relaciones son analíticas, no pruebas causales / analytical links, not causal evidence.
+
+**Clase / Class:** B · contraste estructural / structural comparison; C · genealogía y contacto / provenance and contact. No equivalencia técnica demostrada ni promoción a RO / No demonstrated technical equivalence or RO promotion.
 
 <!-- NEO_WEB4_COLLABORATION_END -->
