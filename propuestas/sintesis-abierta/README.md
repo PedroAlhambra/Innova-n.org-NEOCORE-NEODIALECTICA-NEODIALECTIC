@@ -15,6 +15,8 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 
 **Estado / Status:** **Síntesis iniciada / Synthesis Initiated · 2026-08-09**  
 **Naturaleza / Nature:** puerta operativa de participación, contraste y evolución del marco / operational gateway for participation, scrutiny and framework evolution
+**Colaboración WEB4™ / WEB4™ collaboration:** [Auditoría / Audit](../../auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) · [Delta](../../actualizaciones/2026-11-27_DELTA_AUDITORIA_WEB4_GATE_CONWAY_ES_EN.md) · [Relaciones / Relations](../../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [SAN #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214). Enviadas dos propuestas de colaboración el 27/11/2026; pendientes de respuesta. Precedencia específica respecto a Wen, no exclusividad de WEB4 ni derivación demostrada. / Two collaboration proposals sent on 27 November 2026; responses pending. Specific precedence relative to Wen, not exclusivity of WEB4 or demonstrated derivation.
+
 **Nueva Síntesis pública de identidad WEB4™ / New WEB4™ brand identity Open Synthesis:** [#207 · Identidad viva participativa / Participatory living identity](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/207) · [Visor de lemas: especificación ES/EN / Slogan viewer: bilingual specification](./IDENTIDAD_VIVA_VISOR_LEMAS_WEB4_ES_EN.md) — **CANDIDATE, no desplegado / not deployed**.
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english) · **[Índice completo / Complete index](INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md)**
@@ -372,12 +374,3 @@ Automation may synchronise indexes and relations, but it does not replace human 
 
 [Root README](../../README.md) · [Complete index](INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md) · [Manifestos](../../manifiestos/README.md) · [Neoaxioms™](../../neoaxiomas/README.md) · [Relations](../../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Audits](../../auditorias/publicas/README.md) · [Analyses](../../analisis/README.md) · [Works](../../obras/README.md)
 
-<!-- NEO_WEB4_COLLABORATION_START -->
-
-## WEB4™ / Gate / Conway · colaboración y genealogía / collaboration and provenance
-
-**[Auditoría / Audit](../../auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) · [Delta](../../actualizaciones/2026-11-27_DELTA_AUDITORIA_WEB4_GATE_CONWAY_ES_EN.md) · [Síntesis Abierta / Open Synthesis #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214)**
-
-**ES:** invitación a colaboración con el marco original de Innova_N, comparación de arquitecturas, reconocimiento recíproco de autoría y piloto de interoperabilidad. Precedencia específica respecto a Wen (2025), no exclusividad del término ni derivación demostrada. **EN:** invitation to collaborate with Innova_N's original framework, compare architectures, recognise each party's authorship and explore an interoperability pilot. Specific precedence relative to Wen (2025), not exclusivity of the term or demonstrated derivation.
-
-<!-- NEO_WEB4_COLLABORATION_END -->
