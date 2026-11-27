@@ -12,11 +12,13 @@
 
 > ## 🗞️ ÚLTIMA AUDITORÍA / LATEST AUDIT
 >
-> **Manifiesto de Madrid por una IA Responsable · convergencia y trazabilidad de contacto / Madrid Manifesto for Responsible AI · convergence and contact traceability**
+> **WEB4™ / Gate Learn / Conway Research · auditoría integral del marco / whole-framework audit**
 >
-> **09-10-2026 · [Leer auditoría / Read audit](./2026-10-09_auditoria_manifiesto_madrid_ia_responsable_convergencia_trazabilidad_contacto_ES_EN.md) · [Issue vivo / Live issue #206](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/206)**
+> **27-11-2026 · [Leer auditoría / Read audit](./2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) · [Delta](../../actualizaciones/2026-11-27_DELTA_AUDITORIA_WEB4_GATE_CONWAY_ES_EN.md)**
 >
-> Estado provisional: **E2 + TRAZA-DE-CONTACTO / E2 + CONTACT TRACE**. Convergencia sistémica y precedencia pública respecto de la publicación del manifiesto; 4/11 firmantes con envío directo previo localizado; lectura, acceso material, transmisión interna y derivación no demostrados. / Provisional state: systemic convergence and public precedence relative to manifesto publication; 4/11 signatories with prior direct sent contact found; reading, material access, internal transmission and derivation remain unproven.
+> Precedencia específica acreditada desde 2025; convergencia parcial y divergencia teleológica. Acceso, derivación y plagio no demostrados. / Specific precedence established since 2025; partial convergence and teleological divergence. Access, derivation and plagiarism unproven.
+>
+> [Auditoría anterior / Previous audit · Madrid](./2026-10-09_auditoria_manifiesto_madrid_ia_responsable_convergencia_trazabilidad_contacto_ES_EN.md)
 
 <!-- NEO_LATEST_AUDIT_END -->
 
