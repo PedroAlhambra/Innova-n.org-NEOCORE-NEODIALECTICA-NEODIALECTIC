@@ -18,6 +18,10 @@
 >
 > Precedencia específica acreditada desde 2025; convergencia parcial y divergencia teleológica. Acceso, derivación y plagio no demostrados. / Specific precedence established since 2025; partial convergence and teleological divergence. Access, derivation and plagiarism unproven.
 >
+> Enviadas dos propuestas de colaboración el 27/11/2026; pendientes de respuesta. Precedencia específica respecto a Wen, no exclusividad de WEB4 ni derivación demostrada. / Two collaboration proposals sent on 27 November 2026; responses pending. Specific precedence relative to Wen, not exclusivity of WEB4 or demonstrated derivation.
+>
+> [Mapa relacional / Relations map](../../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md)
+>
 > [Auditoría anterior / Previous audit · Madrid](./2026-10-09_auditoria_manifiesto_madrid_ia_responsable_convergencia_trazabilidad_contacto_ES_EN.md)
 
 <!-- NEO_LATEST_AUDIT_END -->
@@ -198,6 +202,10 @@ La dependencia del marco respecto de Neo0™, la carga de creación y mantenimie
 
 **Estado:** auditoría temática con hipótesis contrastables; no presenta el «Punto de No Retorno Infantil™» como hecho probado.
 
+### 2.14 · WEB4™ / Gate / Conway · genealogía y colaboración
+
+[Auditoría / Audit](../../auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) · [Delta](../../actualizaciones/2026-11-27_DELTA_AUDITORIA_WEB4_GATE_CONWAY_ES_EN.md) · [Relaciones / Relations](../../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [SAN #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214). Enviadas dos propuestas de colaboración el 27/11/2026; pendientes de respuesta. Precedencia específica respecto a Wen, no exclusividad de WEB4 ni derivación demostrada.
+
 ## 3 · Abrir una Auditoría Pública
 
 No es necesario que Innova_N haya detectado primero el problema. Puede proponerse una auditoría mediante la plantilla GitHub **`Auditoría Pública · aporte o nueva propuesta`**.
@@ -353,6 +361,10 @@ The framework's dependency on Neo0™, the creation and maintenance burden and t
 
 **Status:** thematic audit with testable hypotheses; the “Childhood Point of No Return™” is not presented as an established fact.
 
+### 2.14 · WEB4™ / Gate / Conway · provenance and collaboration
+
+[Auditoría / Audit](../../auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) · [Delta](../../actualizaciones/2026-11-27_DELTA_AUDITORIA_WEB4_GATE_CONWAY_ES_EN.md) · [Relaciones / Relations](../../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [SAN #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214). Two collaboration proposals sent on 27 November 2026; responses pending. Specific precedence relative to Wen, not exclusivity of WEB4 or demonstrated derivation.
+
 ## 3 · Opening a Public Audit
 
 Innova_N does not need to detect a problem first. A public audit can be proposed through the GitHub template **`Public Audit · contribution or new proposal`**.
@@ -374,12 +386,3 @@ CLOSURE + MATERIAL NEW EVIDENCE
 → NEW VERSION
 ```
 
-<!-- NEO_WEB4_COLLABORATION_START -->
-
-## WEB4™ / Gate / Conway · colaboración y genealogía / collaboration and provenance
-
-**[Auditoría / Audit](../../auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) · [Delta](../../actualizaciones/2026-11-27_DELTA_AUDITORIA_WEB4_GATE_CONWAY_ES_EN.md) · [Síntesis Abierta / Open Synthesis #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214)**
-
-**ES:** invitación a colaboración con el marco original de Innova_N, comparación de arquitecturas, reconocimiento recíproco de autoría y piloto de interoperabilidad. Precedencia específica respecto a Wen (2025), no exclusividad del término ni derivación demostrada. **EN:** invitation to collaborate with Innova_N's original framework, compare architectures, recognise each party's authorship and explore an interoperability pilot. Specific precedence relative to Wen (2025), not exclusivity of the term or demonstrated derivation.
-
-<!-- NEO_WEB4_COLLABORATION_END -->
