@@ -627,3 +627,11 @@ Contributions are invited on:
 **Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-26` → [Neoaxiomas™](../neoaxiomas/README.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->
+
+## Caso aplicado · 2026-11-27 / Applied case · 2026-11-27
+
+[Auditoría / Audit](../auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) · [Delta](../actualizaciones/2026-11-27_DELTA_AUDITORIA_WEB4_GATE_CONWAY_ES_EN.md) · [Mapa relacional / Relations map](../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [SAN #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214).
+
+**ES:** relación documental y analítica; propuestas de colaboración enviadas a Gate y Conway Research, sin aceptación acreditada. No altera la versión ni el estado canónico del manifiesto.
+
+**EN:** documentary and analytical relation; collaboration proposals sent to Gate and Conway Research, with no acceptance established. Does not change the manifesto's version or canonical state.
