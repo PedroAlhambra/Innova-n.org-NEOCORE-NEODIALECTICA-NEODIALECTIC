@@ -48,7 +48,7 @@ LÍMITE DEL MODELO ≠ LÍMITE DEMOSTRADO DE LA REALIDAD
 | **Neoaxiomas™** | [Capa Axiomática Abierta · frontera viva](./neoaxiomas/README.md) |
 | **Síntesis Abierta™** | [Portal operativo](./propuestas/sintesis-abierta/README.md) · [Matriz Neoaxiomas #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) |
 | **Relaciones** | [Mapa de relaciones y trabajo aplicado](./manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) |
-| **Análisis y auditorías** | [Análisis](./analisis/README.md) · [Auditorías públicas](./auditorias/publicas/README.md) · [Última auditoría: Manifiesto de Madrid 2026](./auditorias/publicas/2026-10-09_auditoria_manifiesto_madrid_ia_responsable_convergencia_trazabilidad_contacto_ES_EN.md) |
+| **Análisis y auditorías** | [Análisis](./analisis/README.md) · [Auditorías públicas](./auditorias/publicas/README.md) · [Última auditoría: WEB4™ / Gate / Conway](./auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) |
 | **Obras y cultura** | [Obras](./obras/README.md) · [IDEA](./obras/idea/README.md) |
 | **WEB4™** | [Especificación pública](./web4/README.md) |
 | **Identidad participativa / visor de lemas WEB4™** | [Síntesis Abierta #207](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/207) · [Especificación ES/EN](./propuestas/sintesis-abierta/IDENTIDAD_VIVA_VISOR_LEMAS_WEB4_ES_EN.md) *(candidata, no desplegada)* |
@@ -62,10 +62,11 @@ LÍMITE DEL MODELO ≠ LÍMITE DEMOSTRADO DE LA REALIDAD
 
 ## Auditorías públicas y casos comparativos · índice completo por familias
 
-Este directorio bilingüe enlaza las **16 familias de auditorías públicas y análisis relacionados identificadas en los índices actuales**. Se distinguen auditorías, análisis y deltas técnicos; la precedencia documental o la convergencia conceptual no demuestra copia, acceso, derivación ni respaldo institucional. Los históricos, addenda y evidencias están en el [portal de auditorías](./auditorias/publicas/README.md), [registro de Issues](./auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md) y [portada de auditorías](./AUDITORIAS_PUBLICAS.md).
+Este directorio bilingüe enlaza las **17 familias de auditorías públicas y análisis relacionados identificadas en los índices actuales**. Se distinguen auditorías, análisis y deltas técnicos; la precedencia documental o la convergencia conceptual no demuestra copia, acceso, derivación ni respaldo institucional. Los históricos, addenda y evidencias están en el [portal de auditorías](./auditorias/publicas/README.md), [registro de Issues](./auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md) y [portada de auditorías](./AUDITORIAS_PUBLICAS.md).
 
 | Caso / familia | Documento principal | Alcance / estado |
 |---|---|---|
+| WEB4™ / Gate / Conway | [Documento](./auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) | Precedencia 2025; derivación no demostrada |
 | Stanford / ACE | [Documento](./analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md) | Precedencia y convergencia; no prueba causal |
 | OpenAI–Anthropic · convergencia institucional | [Documento](./analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md) | Análisis comparativo de marcos |
 | Anthropic · gobernanza | [Documento](./analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md) | Análisis institucional del problema del marco |
@@ -130,7 +131,7 @@ LIMIT OF THE MODEL ≠ DEMONSTRATED LIMIT OF REALITY
 | **Neoaxioms™** | [Open Axiomatic Layer · live frontier](./neoaxiomas/README.md) |
 | **Open Synthesis™** | [Operational portal](./propuestas/sintesis-abierta/README.md) · [Neoaxioms Matrix #80](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/80) |
 | **Relations** | [Relations and applied-work map](./manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) |
-| **Analyses and audits** | [Analyses](./analisis/README.md) · [Public audits](./auditorias/publicas/README.md) · [Latest audit: Madrid Manifesto 2026](./auditorias/publicas/2026-10-09_auditoria_manifiesto_madrid_ia_responsable_convergencia_trazabilidad_contacto_ES_EN.md) |
+| **Analyses and audits** | [Analyses](./analisis/README.md) · [Public audits](./auditorias/publicas/README.md) · [Latest audit: WEB4™ / Gate / Conway](./auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) |
 | **Works and culture** | [Works](./obras/README.md) · [IDEA](./obras/idea/README.md) |
 | **WEB4™** | [Public specification](./web4/README.md) |
 | **Participatory identity / WEB4™ slogan viewer** | [Open Synthesis #207](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/207) · [Bilingual specification](./propuestas/sintesis-abierta/IDENTIDAD_VIVA_VISOR_LEMAS_WEB4_ES_EN.md) *(candidate, not deployed)* |
@@ -144,10 +145,11 @@ LIMIT OF THE MODEL ≠ DEMONSTRATED LIMIT OF REALITY
 
 ## Public audits and comparative cases · complete navigable family index
 
-This bilingual directory links the **16 public audit and related-analysis families identified in the current indexes**. Audits, analyses and technical deltas are explicitly distinguished; documentary precedence or conceptual convergence does not establish copying, access, derivation or endorsement. For all historical runs and addenda, see the [public audits portal](./auditorias/publicas/README.md), [audit issue register](./auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md) and [audit landing page](./AUDITORIAS_PUBLICAS.md).
+This bilingual directory links the **17 public audit and related-analysis families identified in the current indexes**. Audits, analyses and technical deltas are explicitly distinguished; documentary precedence or conceptual convergence does not establish copying, access, derivation or endorsement. For all historical runs and addenda, see the [public audits portal](./auditorias/publicas/README.md), [audit issue register](./auditorias/publicas/ISSUES_AUDITORIAS_PUBLICAS_ES_EN.md) and [audit landing page](./AUDITORIAS_PUBLICAS.md).
 
 | Case / family | Primary document | Scope / status |
 |---|---|---|
+| WEB4™ / Gate / Conway | [Document](./auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) | 2025 precedence; derivation unproven |
 | Stanford / ACE | [Document](./analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md) | Precedence and convergence; no causal proof |
 | OpenAI–Anthropic · institutional convergence | [Document](./analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md) | Comparative framework analysis |
 | Anthropic · governance | [Document](./analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md) | Institutional framework analysis |
