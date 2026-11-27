@@ -732,3 +732,28 @@ Casos y análisis principales:
 **ES:** [LXXXIX · La recompensa no es el fin](./89_primacia_fines_sobre_recompensas_ES_EN.md) → [C-NAX-32 · Primacía de la finalidad](../neoaxiomas/C-NAX-32_PRIMACIA_FINALIDAD_SOBRE_RECOMPENSA_ES_EN.md) → [Matriz de relaciones y falsadores](../propuestas/sintesis-abierta/2026-11-20_MATRIZ_FINALIDAD_RECOMPENSA_ES_EN.md) → [Delta trazable](../propuestas/sintesis-abierta/2026-11-20_DELTA_PRIMACIA_FINALIDAD_RECOMPENSA_ES_EN.md). El principio cuestiona la captura por métricas dentro de cualquier institución, incluso WEB4; no sustituye a XXIX y XXX. C-NAX-32 permanece candidato.
 
 **EN:** [LXXXIX · Reward Is Not the End](./89_primacia_fines_sobre_recompensas_ES_EN.md) → [C-NAX-32 · Primacy of Purpose](../neoaxiomas/C-NAX-32_PRIMACIA_FINALIDAD_SOBRE_RECOMPENSA_ES_EN.md) → [Relations and falsifiers matrix](../propuestas/sintesis-abierta/2026-11-20_MATRIZ_FINALIDAD_RECOMPENSA_ES_EN.md) → [Traceable delta](../propuestas/sintesis-abierta/2026-11-20_DELTA_PRIMACIA_FINALIDAD_RECOMPENSA_ES_EN.md). The principle challenges capture by metrics within any institution, including WEB4; it does not replace XXIX and XXX. C-NAX-32 remains a candidate.
+
+<!-- NEO_WEB4_COLLABORATION_START -->
+
+## WEB4™ / Gate / Conway · colaboración y genealogía / collaboration and provenance
+
+**[Auditoría / Audit](../auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) · [Delta](../actualizaciones/2026-11-27_DELTA_AUDITORIA_WEB4_GATE_CONWAY_ES_EN.md) · [Síntesis Abierta / Open Synthesis #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214)**
+
+**ES:** invitación a colaboración con el marco original de Innova_N, comparación de arquitecturas, reconocimiento recíproco de autoría y piloto de interoperabilidad. Precedencia específica respecto a Wen (2025), no exclusividad del término ni derivación demostrada. **EN:** invitation to collaborate with Innova_N's original framework, compare architectures, recognise each party's authorship and explore an interoperability pilot. Specific precedence relative to Wen (2025), not exclusivity of the term or demonstrated derivation.
+
+| Manifiesto / Manifesto | Relación / Relation |
+|---|---|
+| [II · SAN™](../manifiestos/01_sintesis_abierta_neodialectica_ES_EN.md) | Contraste y aportes / Scrutiny and contributions |
+| [III · Derecho de aporte / Right to contribute](../manifiestos/03_derecho_humano_aporte_sintesis_abierta_ES_EN.md) | Participación / Participation |
+| [IV · Bien Común / Common Good](../manifiestos/02_neodialectica_bien_comun_ES_EN.md) | Finalidad / Purpose |
+| [V · Simbiosis humano–IA / Human–AI symbiosis](../manifiestos/03_simbiosis_humano_ia_ES_EN.md) | Sujeto y gobernanza / Agency and governance |
+| [VII · Economía del Aporte / Contribution Economy](../manifiestos/04_economia_del_aporte_ES_EN.md) | Valoración / Valuation |
+| [IX · Memoria y genealogía / Memory and genealogy](../manifiestos/06_memoria_genealogia_trazabilidad_ES_EN.md) | Procedencia / Provenance |
+| [X · WEB4™](../manifiestos/07_web4_sistematrazable_ES_EN.md) | Arquitectura / Architecture |
+| [XXII · Contra la reducción y captura / Against reduction and capture](../manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md) | Hipótesis de fragmentación / Fragmentation hypothesis |
+| [XXXIV · Auditoría conjunta / Joint audit](../manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) | Revisión / Review |
+| [LXXXIX · Custodia de la finalidad / Stewardship of purpose](../manifiestos/89_primacia_fines_sobre_recompensas_ES_EN.md) | Finalidad y recompensa / Purpose and reward |
+
+[NeoGenealogía™](../propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md) · [RADAR-Π™](../propuestas/sintesis-abierta/RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md) · [#39](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/39) · [#136](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136) · [#143](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/143) · [#147](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/147) · [#212](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/212). Las relaciones son analíticas, no pruebas causales / analytical links, not causal evidence.
+
+<!-- NEO_WEB4_COLLABORATION_END -->
