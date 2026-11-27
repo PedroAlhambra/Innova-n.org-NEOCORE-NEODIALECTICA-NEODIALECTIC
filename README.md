@@ -13,6 +13,19 @@
 
 [ES · Castellano](#es--castellano) · [EN · English](#en--english)
 
+<!-- NEO_WEB4_COLLABORATION_START -->
+
+## WEB4™ / Gate / Conway · colaboración y genealogía / collaboration and provenance
+
+**[Auditoría / Audit](./auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) · [Delta](./actualizaciones/2026-11-27_DELTA_AUDITORIA_WEB4_GATE_CONWAY_ES_EN.md) · [Relaciones / Relations](./manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [SAN #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214)**
+
+**ES:** Enviadas dos propuestas de colaboración el 27/11/2026; pendientes de respuesta. Precedencia específica respecto a Wen, no exclusividad de WEB4 ni derivación demostrada.
+
+**EN:** Two collaboration proposals sent on 27 November 2026; responses pending. Specific precedence relative to Wen, not exclusivity of WEB4 or demonstrated derivation.
+
+<!-- NEO_WEB4_COLLABORATION_END -->
+
+
 > **Versión vigente e histórico / Current version and history:** **[fuente canónica viva / live canonical source](./versiones/README.md)**
 
 La versión vigente se publica **sólo en superficies principales y en la página de versiones**. El resto del corpus enlaza a esa fuente cuando necesita el estado actual. Las versiones permanecen escritas en documentos intermedios únicamente cuando son información material de procedencia, compatibilidad, snapshot, auditoría o transición histórica. / The current version is published **only on main surfaces and on the versions page**. The rest of the corpus links to that source whenever current state is needed.
@@ -66,7 +79,7 @@ Este directorio bilingüe enlaza las **17 familias de auditorías públicas y an
 
 | Caso / familia | Documento principal | Alcance / estado |
 |---|---|---|
-| WEB4™ / Gate / Conway | [Documento](./auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) | Precedencia 2025; derivación no demostrada |
+| WEB4™ / Gate / Conway | [Documento](./auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) | Precedencia relativa a Wen (2025); [SAN #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214); propuestas enviadas |
 | Stanford / ACE | [Documento](./analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md) | Precedencia y convergencia; no prueba causal |
 | OpenAI–Anthropic · convergencia institucional | [Documento](./analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md) | Análisis comparativo de marcos |
 | Anthropic · gobernanza | [Documento](./analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md) | Análisis institucional del problema del marco |
@@ -149,7 +162,7 @@ This bilingual directory links the **17 public audit and related-analysis famili
 
 | Case / family | Primary document | Scope / status |
 |---|---|---|
-| WEB4™ / Gate / Conway | [Document](./auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) | 2025 precedence; derivation unproven |
+| WEB4™ / Gate / Conway | [Document](./auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) | Precedence relative to Wen (2025); [SAN #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214); proposals sent |
 | Stanford / ACE | [Document](./analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md) | Precedence and convergence; no causal proof |
 | OpenAI–Anthropic · institutional convergence | [Document](./analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md) | Comparative framework analysis |
 | Anthropic · governance | [Document](./analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md) | Institutional framework analysis |
@@ -212,12 +225,3 @@ NeoGenealogy™, RADAR-Π™, NeoCronos™, Contribution Economy™, Umbral-X™
 
 **Auditoría de publicación · 2026-11-20 / Publication audit · 2026-11-20:** [LXXXIX + C-NAX-32 · tres rondas de antirregresión / three anti-regression rounds](./auditorias/publicas/2026-11-20_publicacion_LXXXIX_C-NAX32_ES_EN.md).
 
-<!-- NEO_WEB4_COLLABORATION_START -->
-
-## WEB4™ / Gate / Conway · colaboración y genealogía / collaboration and provenance
-
-**[Auditoría / Audit](./auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) · [Delta](./actualizaciones/2026-11-27_DELTA_AUDITORIA_WEB4_GATE_CONWAY_ES_EN.md) · [Síntesis Abierta / Open Synthesis #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214)**
-
-**ES:** invitación a colaboración con el marco original de Innova_N, comparación de arquitecturas, reconocimiento recíproco de autoría y piloto de interoperabilidad. Precedencia específica respecto a Wen (2025), no exclusividad del término ni derivación demostrada. **EN:** invitation to collaborate with Innova_N's original framework, compare architectures, recognise each party's authorship and explore an interoperability pilot. Specific precedence relative to Wen (2025), not exclusivity of the term or demonstrated derivation.
-
-<!-- NEO_WEB4_COLLABORATION_END -->
