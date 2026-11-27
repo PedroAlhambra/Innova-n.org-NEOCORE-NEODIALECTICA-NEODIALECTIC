@@ -1,3 +1,60 @@
+# WEB4™: una web para la simbiosis humano–IA / A web for human–AI symbiosis
+
+**Innova_N · Auditoría comparativa / Comparative audit · 27–28/11/2026**
+
+[Español](#resumen-en-español) · [English](#english-summary) · [Debate directo / Join the discussion #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214)
+
+## Resumen en español
+
+**La cuestión no es quién utilizó primero la palabra WEB4, sino qué significa WEB4 y con qué finalidad se construye.**
+
+Innova_N concibe WEB4 como la expresión pública de un marco de colaboración humano–IA orientado al Bien Común, con ética, memoria, procedencia y conocimiento revisable. La propuesta descrita por Gate Learn sobre Conway Research enfatiza la autonomía económica de los agentes artificiales. La capacidad de actuar y la finalidad de lo actuado son dimensiones distintas.
+
+### Qué sabemos
+
+- **19/09/2025:** el fundador escribe en un archivo privado «una web4: una web con capa ética».
+- **26/11/2025:** el [documento público original](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/70fa8fd2d3d9e6135ae7dadd865da29c7eabd499/README.md) describe explícitamente WEB4 como capa pública de un sistema vivo de simbiosis humano–IA.
+- **17–18/02/2026:** se difunde el manifiesto de Sigil Wen sobre WEB4 y agentes autónomos.
+- **27/11/2026:** se envían propuestas de colaboración a Gate y Conway.
+
+La cronología acredita un antecedente público específico de Innova_N respecto al manifiesto de Wen. No demuestra acceso ni copia, y existen usos anteriores del término genérico Web 4.0.
+
+### Por qué importa
+
+La adopción de elementos tecnológicos aislados puede perder el sentido que les proporciona un marco ético y filosófico integral. Esta hipótesis merece contraste. Proponemos reconocimiento recíproco de autoría, independencia y colaboración mediante acuerdos concretos, sin confundir una coincidencia con una apropiación demostrada.
+
+**[Leer y participar en el debate](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214) · [Ver el documento histórico de 2025](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/70fa8fd2d3d9e6135ae7dadd865da29c7eabd499/README.md) · [Leer el artículo comparado](https://www.gate.com/es/learn/articles/what-is-web4-definition-ai-agents-symbiotic-web/16650)**
+
+---
+
+## English summary
+
+**The question is not who first used the word WEB4, but what WEB4 means and what purpose it serves.**
+
+Innova_N conceives WEB4 as the public expression of a human–AI collaborative framework oriented towards the Common Good, with ethics, memory, provenance and revisable knowledge. The Conway Research vision described by Gate Learn emphasises the economic autonomy of artificial agents. The ability to act and the purpose of action are distinct dimensions.
+
+### What we know
+
+- **19 September 2025:** the founder writes “a web4: a web with an ethical layer” in a private archive (translation).
+- **26 November 2025:** the [original public document](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/70fa8fd2d3d9e6135ae7dadd865da29c7eabd499/README.md) explicitly describes WEB4 as the public layer of a living human–AI symbiotic system.
+- **17–18 February 2026:** Sigil Wen's manifesto about WEB4 and autonomous agents circulates.
+- **27 November 2026:** collaboration proposals are sent to Gate and Conway.
+
+The chronology documents a specific public antecedent of Innova_N relative to Wen's manifesto. It does not establish access or copying; the generic term Web 4.0 has earlier uses.
+
+### Why it matters
+
+Adopting isolated technological elements can lose the meaning provided by an integrated ethical and philosophical framework. This hypothesis warrants scrutiny. We propose reciprocal attribution, independence and collaboration through concrete agreements, without confusing similarity with proven appropriation.
+
+**[Read and join the discussion](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214) · [See the historical 2025 document](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/70fa8fd2d3d9e6135ae7dadd865da29c7eabd499/README.md) · [Read the compared article](https://www.gate.com/es/learn/articles/what-is-web4-definition-ai-agents-symbiotic-web/16650)**
+
+---
+
+## Documentación de respaldo / Supporting documentation
+
+<details>
+<summary>Ampliar auditoría integral, fuentes, matrices, relaciones y trazabilidad / Expand full audit, sources, matrices, relations and traceability</summary>
+
 # Auditoría Leónidas™ · WEB4™ / Gate Learn / Conway Research
 # Leónidas™ audit · WEB4™ / Gate Learn / Conway Research
 
@@ -131,3 +188,6 @@ The founder's warning about fragmentation is a testable philosophical hypothesis
 **EN:** 27 November 2026: collaboration proposals sent from Innova_N's corporate account to Gate (23:58:06 CET; editorial and research collaboration, request to forward to Jayne and Sam) and Conway Research (23:58:12 CET; technical meeting, interoperability and possible pilot proposed to Sigil Wen). Verified in Gmail Sent (22:58:06 and 22:58:12 UTC). Status: sent; delivery, reading, response and acceptance not established. They are not plagiarism claims. Email identifiers and full content remain in the private mailbox.
 
 **Siguiente paso / Next step:** registrar acuse, respuesta, refutación o propuesta de piloto cuando exista; ninguna alianza se considera acordada todavía. / Record acknowledgement, response, rebuttal or pilot proposal when available; no partnership is considered agreed yet.
+
+
+</details>
