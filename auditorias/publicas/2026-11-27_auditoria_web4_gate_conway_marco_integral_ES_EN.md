@@ -106,7 +106,17 @@ The founder's warning about fragmentation is a testable philosophical hypothesis
 | [X · WEB4™](../../manifiestos/07_web4_sistematrazable_ES_EN.md) | Arquitectura / Architecture |
 | [XXII · Contra la reducción y captura / Against reduction and capture](../../manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md) | Hipótesis de fragmentación / Fragmentation hypothesis |
 | [XXXIV · Auditoría conjunta / Joint audit](../../manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) | Revisión / Review |
+| [XXI · Reconocimiento / Recognition](../../manifiestos/21_reconocimiento_neodialectico_ES_EN.md) | Reconocimiento recíproco y atribución / Reciprocal recognition and attribution |
+| [XXIX · Contra la idolatría del dinero / Against the idolatry of money](../../manifiestos/29_idolatria_del_dinero_ES_EN.md) | Economía como medio, no fin / Economy as means, not end |
+| [XXX · Coherencia fines–medios / Coherence between ends and means](../../manifiestos/30_coherencia_fines_medios_ES_EN.md) | Coherencia del piloto con su finalidad / Pilot coherence with its purpose |
+| [LIII · Leónidas™](../../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) | Auditoría abierta y derecho de réplica / Open audit and right of reply |
 | [LXXXIX · Custodia de la finalidad / Stewardship of purpose](../../manifiestos/89_primacia_fines_sobre_recompensas_ES_EN.md) | Finalidad y recompensa / Purpose and reward |
+
+| Neoaxioma / Neoaxiom | Relación / Relation |
+|---|---|
+| [NAX-15 · Soberanía intelectual / Intellectual sovereignty](../../neoaxiomas/NAX-15_SOBERANIA_INTELECTUAL_ESPECIE_ES_EN.md) | Independencia y atribución / Independence and attribution |
+| [NAX-18 · Motor del Bien Común / Common-Good Engine](../../neoaxiomas/NAX-18_MOTOR_BIEN_COMUN_NEOSINERGIA_ES_EN.md) | Finalidad compartida / Shared purpose |
+| [C-NAX-32 · Primacía de la finalidad / Primacy of purpose](../../neoaxiomas/C-NAX-32_PRIMACIA_FINALIDAD_SOBRE_RECOMPENSA_ES_EN.md) | Candidato no canónico; contraste de incentivos / Non-canonical candidate; scrutiny of incentives |
 
 [NeoGenealogía™](../../propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md) · [RADAR-Π™](../../propuestas/sintesis-abierta/RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md) · [#39](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/39) · [#136](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136) · [#143](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/143) · [#147](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/147) · [#212](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/212). Las relaciones son analíticas, no pruebas causales / analytical links, not causal evidence.
 
