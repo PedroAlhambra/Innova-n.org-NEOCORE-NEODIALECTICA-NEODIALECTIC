@@ -23,7 +23,7 @@ Las Auditorías Públicas son una **capa principal** del Neodialectica Framework
 
 **ES:** Se catalogan como análisis de convergencia y precedencia documental, no como demostración de plagio, acceso, transmisión o reconocimiento institucional. **EN:** These are catalogued as convergence and documentary-precedence analyses, not as proof of plagiarism, access, transmission or institutional endorsement.
 
-**Índice bilingüe de las 16 familias actualmente catalogadas / Bilingual index of the 16 currently catalogued families:** [README principal / main README](./README.md) · [Portal operativo / operational portal](./auditorias/publicas/README.md).
+**Índice bilingüe de las 17 familias actualmente catalogadas / Bilingual index of the 17 currently catalogued families:** [README principal / main README](./README.md) · [Portal operativo / operational portal](./auditorias/publicas/README.md).
 
 ## Casos demostradores / Demonstrator cases
 
@@ -52,6 +52,9 @@ Las Auditorías Públicas son una **capa principal** del Neodialectica Framework
 **INFERENCE / hypothesis to audit:** there may be an asymmetry between platforms' ability to close or restrict content/accounts and users' effective ability to escalate warnings about advertisers maintaining advertising spend. **It is not asserted as fact that Google protects DistroKid because of advertising spend, nor that Google has verified the ads as fraudulent.** Any relationship between spend, moderation and report handling remains a falsifiable hypothesis requiring comparative evidence.
 
 ## Auditoría reciente / Latest audit
+
+- **[2026-11-27 · WEB4™ / Gate / Conway · auditoría integral / whole-framework audit](./auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md)** — precedencia específica 2025; derivación no demostrada / specific 2025 precedence; derivation unproven. [Delta](./actualizaciones/2026-11-27_DELTA_AUDITORIA_WEB4_GATE_CONWAY_ES_EN.md).
+- [2026-10-09 · Manifiesto de Madrid / Madrid Manifesto](./auditorias/publicas/2026-10-09_auditoria_manifiesto_madrid_ia_responsable_convergencia_trazabilidad_contacto_ES_EN.md)
 
 - **[2026-09-30 · LinkedIn · distribución, retorno del tiempo e incentivos / distribution, time return and incentives](./auditorias/publicas/2026-09-30_auditoria_linkedin_distribucion_retorno_tiempo_incentivos_ES_EN.md)** — baseline Metricool de 24 publicaciones, concentración extrema de alcance, hipótesis rivales y contraevidencia; Issue vivo [#203](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/203).
 
