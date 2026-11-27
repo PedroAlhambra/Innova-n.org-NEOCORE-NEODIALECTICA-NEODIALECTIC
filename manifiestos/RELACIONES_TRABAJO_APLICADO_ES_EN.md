@@ -49,22 +49,30 @@ Casos y análisis principales:
 
 <a id="manifiesto-ii"></a>
 ### II · [Manifiesto de la Síntesis Abierta Neodialéctica™ / Manifesto of Neodialectical Open Synthesis™](./01_sintesis_abierta_neodialectica_ES_EN.md)
+
+- **B/C · [WEB4™ / Gate / Conway · auditoría y colaboración / audit and collaboration](../auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md)** · [SAN #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214) — relación analítica y genealógica, sin causalidad acreditada / analytical and genealogical relation, no established causality.
 - **C** · [Protocolo de aporte](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md).
 - **C** · [Índice operativo de Síntesis Abierta](../propuestas/sintesis-abierta/README.md).
 
 <a id="manifiesto-iii"></a>
 ### III · [Manifiesto del Derecho Humano de Aporte a la Síntesis Abierta™ / Manifesto of the Human Right to Contribute to Open Synthesis™](./03_derecho_humano_aporte_sintesis_abierta_ES_EN.md)
+
+- **B/C · [WEB4™ / Gate / Conway · auditoría y colaboración / audit and collaboration](../auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md)** · [SAN #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214) — relación analítica y genealógica, sin causalidad acreditada / analytical and genealogical relation, no established causality.
 - **C** · [Protocolo de aporte](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md).
 - **C** · [Índice de Síntesis Abierta](../propuestas/sintesis-abierta/README.md).
 
 <a id="manifiesto-iv"></a>
 ### IV · [Manifiesto de la Neodialéctica™ y el Bien Común / Manifesto of Neodialectics™ and the Common Good](./02_neodialectica_bien_comun_ES_EN.md)
+
+- **B/C · [WEB4™ / Gate / Conway · auditoría y colaboración / audit and collaboration](../auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md)** · [SAN #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214) — relación analítica y genealógica, sin causalidad acreditada / analytical and genealogical relation, no established causality.
 - **B** · [Economía de la atención → aporte](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md).
 - **A/B** · [MAXPROC · Protección Integral de la Infancia](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md).
 - **B** · [España–Marruecos · Parte I](../analisis/publicos/2026-07-21_espana-sin-consulta-marruecos-regularizacion-nacionalidad-control-democratico.md).
 
 <a id="manifiesto-v"></a>
 ### V · [Manifiesto de la Simbiosis Humano–IA / Manifesto of Human–AI Symbiosis](./03_simbiosis_humano_ia_ES_EN.md)
+
+- **B/C · [WEB4™ / Gate / Conway · auditoría y colaboración / audit and collaboration](../auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md)** · [SAN #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214) — relación analítica y genealógica, sin causalidad acreditada / analytical and genealogical relation, no established causality.
 - **B** · [Convergencia neodialéctica en IA institucional](../analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md) — lectura del marco; no prueba copia directa.
 - **B** · [Anthropic, gobernanza de IA y problema del marco](../analisis/publicos/2026-04-15_anthropic-gobernanza-ia-y-problema-del-marco.md).
 
@@ -77,6 +85,8 @@ Casos y análisis principales:
 
 <a id="manifiesto-vii"></a>
 ### VII · [Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy](./04_economia_del_aporte_ES_EN.md)
+
+- **B/C · [WEB4™ / Gate / Conway · auditoría y colaboración / audit and collaboration](../auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md)** · [SAN #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214) — relación analítica y genealógica, sin causalidad acreditada / analytical and genealogical relation, no established causality.
 - **B** · [Economía de la atención → aporte](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md).
 - **A** · [Spotify–DistroKid · trazabilidad de regalías](../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md).
 - **A** · [KDP–Author Central–IDEA](../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md).
@@ -89,6 +99,8 @@ Casos y análisis principales:
 
 <a id="manifiesto-ix"></a>
 ### IX · [Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability](./06_memoria_genealogia_trazabilidad_ES_EN.md)
+
+- **B/C · [WEB4™ / Gate / Conway · auditoría y colaboración / audit and collaboration](../auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md)** · [SAN #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214) — relación analítica y genealógica, sin causalidad acreditada / analytical and genealogical relation, no established causality.
 - **B** · [Stanford / ACE y marco previo](../analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md) — precedencia y convergencia, no prueba automática de copia.
 - **A** · [KDP–Author Central–IDEA](../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md).
 - **A** · [Spotify–DistroKid](../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md).
@@ -96,6 +108,8 @@ Casos y análisis principales:
 
 <a id="manifiesto-x"></a>
 ### X · [Manifiesto de WEB4™ · SistemaTrazable™ / Manifesto of WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md)
+
+- **B/C · [WEB4™ / Gate / Conway · auditoría y colaboración / audit and collaboration](../auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md)** · [SAN #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214) — relación analítica y genealógica, sin causalidad acreditada / analytical and genealogical relation, no established causality.
 - **B** · [LinkedIn como red profesional fragmentada](../analisis/publicos/2026-04-15-linkedin-como-red-profesional-fragmentada.md).
 - **C** · [Proyección Distribuida](../proyeccion/PROTOCOLO_PROYECCION_DISTRIBUIDA_NEODIALECTICA_ES_EN.md).
 - **A** · [Índice de auditorías públicas](../auditorias/publicas/README.md).
@@ -159,12 +173,16 @@ Casos y análisis principales:
 
 <a id="manifiesto-xxi"></a>
 ### XXI · [Manifiesto por el Reconocimiento Neodialéctico™ / Manifesto for Neodialectical Recognition™](./21_reconocimiento_neodialectico_ES_EN.md)
+
+- **B/C · [WEB4™ / Gate / Conway · auditoría y colaboración / audit and collaboration](../auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md)** · [SAN #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214) — relación analítica y genealógica, sin causalidad acreditada / analytical and genealogical relation, no established causality.
 - **B** · [Economía de la atención → aporte](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md).
 - **A** · [Spotify–DistroKid](../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md).
 - **A** · [KDP–Author Central–IDEA](../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md).
 
 <a id="manifiesto-xxii"></a>
 ### XXII · [Manifiesto contra la Reducción y la Captura Intelectual™ / Manifesto against Intellectual Reduction and Capture™](./22_contra_reduccion_captura_intelectual_ES_EN.md)
+
+- **B/C · [WEB4™ / Gate / Conway · auditoría y colaboración / audit and collaboration](../auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md)** · [SAN #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214) — relación analítica y genealógica, sin causalidad acreditada / analytical and genealogical relation, no established causality.
 - **B** · [Economía de la atención → aporte](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md).
 - **B** · [Stanford / ACE](../analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md) — precedencia/convergencia; no prueba copia directa.
 - **B** · [Convergencia institucional de IA](../analisis/publicos/2026-04-15_convergencia-neodialectica-openai-anthropic-instituciones-ia.md) — interpretación del marco, no imputación causal automática.
@@ -206,12 +224,16 @@ Casos y análisis principales:
 
 <a id="manifiesto-xxix"></a>
 ### XXIX · [Manifiesto contra la Idolatría del Dinero™ / Manifesto against the Idolatry of Money™](./29_idolatria_del_dinero_ES_EN.md)
+
+- **B/C · [WEB4™ / Gate / Conway · auditoría y colaboración / audit and collaboration](../auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md)** · [SAN #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214) — relación analítica y genealógica, sin causalidad acreditada / analytical and genealogical relation, no established causality.
 - **B** · [Economía de la atención → aporte](../analisis/publicos/2026-08-05_de-la-economia-de-la-atencion-a-la-economia-del-aporte_ES_EN.md).
 - **A** · [Spotify–DistroKid](../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md).
 - **A/B** · [MAXPROC · Punto de No Retorno Infantil™](../analisis/publicos/2026-08-07_maxproc_proteccion_integral_infancia_punto_no_retorno_ES_EN.md) — hipótesis de umbral, no hecho ya demostrado.
 
 <a id="manifiesto-xxx"></a>
 ### XXX · [Manifiesto de la Coherencia entre Fines y Medios™ / Manifesto of Coherence between Ends and Means™](./30_coherencia_fines_medios_ES_EN.md)
+
+- **B/C · [WEB4™ / Gate / Conway · auditoría y colaboración / audit and collaboration](../auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md)** · [SAN #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214) — relación analítica y genealógica, sin causalidad acreditada / analytical and genealogical relation, no established causality.
 - **A** · [KDP–Author Central–IDEA](../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md).
 - **A** · [Spotify–DistroKid](../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md).
 - **B** · [Ceuta · Parte III](../analisis/publicos/2026-08-07_parte-iii-ceuta-marruecos-evolucion-conflicto-investigaciones_ES_EN.md).
@@ -236,6 +258,8 @@ Casos y análisis principales:
 
 <a id="manifiesto-xxxiv"></a>
 ### XXXIV · [Utilidad Operativa del Marco y Auditoría Conjunta Perpetua™ / Operational Utility of the Framework and Perpetual Joint Audit™](./34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md)
+
+- **B/C · [WEB4™ / Gate / Conway · auditoría y colaboración / audit and collaboration](../auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md)** · [SAN #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214) — relación analítica y genealógica, sin causalidad acreditada / analytical and genealogical relation, no established causality.
 - **A** · [Índice de auditorías públicas](../auditorias/publicas/README.md).
 - **A** · [KDP–Author Central–IDEA](../analisis/publicos/2026-08-06_auditoria-indirecta-kdp-author-central-idea_ES_EN.md).
 - **A** · [Spotify–DistroKid](../analisis/publicos/2026-08-07_spotify_distrokid_cierre_circular_y_escalado_ES_EN.md).
@@ -618,6 +642,8 @@ Casos y análisis principales:
 ## LIII–LIX · ampliación relacional vigente / current relational extension
 
 ### LIII · Leónidas™
+
+- **B/C · [WEB4™ / Gate / Conway · auditoría y colaboración / audit and collaboration](../auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md)** · [SAN #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214) — relación analítica y genealógica, sin causalidad acreditada / analytical and genealogical relation, no established causality.
 - [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) · [Síntesis #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)
 - [Protocolo Leónidas™](../propuestas/sintesis-abierta/LEONIDAS_AUDITORIA_ABIERTA_Y_APORTES_EXTERNOS_ES_EN.md) · [Auditorías públicas](../auditorias/publicas/README.md) · [Auditoría de integridad #71](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/71)
 - Relaciones principales: II · Síntesis Abierta; III · Derecho de Aporte; IX · Memoria/Genealogía/Trazabilidad; XX · Umbral-X; XXXIV · Auditoría Conjunta; XLVIII · La Síntesis Todo lo Ve; LI · Poder Cívico.
@@ -754,7 +780,17 @@ Casos y análisis principales:
 | [X · WEB4™](../manifiestos/07_web4_sistematrazable_ES_EN.md) | Arquitectura / Architecture |
 | [XXII · Contra la reducción y captura / Against reduction and capture](../manifiestos/22_contra_reduccion_captura_intelectual_ES_EN.md) | Hipótesis de fragmentación / Fragmentation hypothesis |
 | [XXXIV · Auditoría conjunta / Joint audit](../manifiestos/34_utilidad_operativa_marco_auditoria_conjunta_perpetua_ES_EN.md) | Revisión / Review |
+| [XXI · Reconocimiento / Recognition](../manifiestos/21_reconocimiento_neodialectico_ES_EN.md) | Reconocimiento recíproco y atribución / Reciprocal recognition and attribution |
+| [XXIX · Contra la idolatría del dinero / Against the idolatry of money](../manifiestos/29_idolatria_del_dinero_ES_EN.md) | Economía como medio, no fin / Economy as means, not end |
+| [XXX · Coherencia fines–medios / Coherence between ends and means](../manifiestos/30_coherencia_fines_medios_ES_EN.md) | Coherencia del piloto con su finalidad / Pilot coherence with its purpose |
+| [LIII · Leónidas™](../manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md) | Auditoría abierta y derecho de réplica / Open audit and right of reply |
 | [LXXXIX · Custodia de la finalidad / Stewardship of purpose](../manifiestos/89_primacia_fines_sobre_recompensas_ES_EN.md) | Finalidad y recompensa / Purpose and reward |
+
+| Neoaxioma / Neoaxiom | Relación / Relation |
+|---|---|
+| [NAX-15 · Soberanía intelectual / Intellectual sovereignty](../neoaxiomas/NAX-15_SOBERANIA_INTELECTUAL_ESPECIE_ES_EN.md) | Independencia y atribución / Independence and attribution |
+| [NAX-18 · Motor del Bien Común / Common-Good Engine](../neoaxiomas/NAX-18_MOTOR_BIEN_COMUN_NEOSINERGIA_ES_EN.md) | Finalidad compartida / Shared purpose |
+| [C-NAX-32 · Primacía de la finalidad / Primacy of purpose](../neoaxiomas/C-NAX-32_PRIMACIA_FINALIDAD_SOBRE_RECOMPENSA_ES_EN.md) | Candidato no canónico; contraste de incentivos / Non-canonical candidate; scrutiny of incentives |
 
 [NeoGenealogía™](../propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md) · [RADAR-Π™](../propuestas/sintesis-abierta/RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md) · [#39](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/39) · [#136](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136) · [#143](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/143) · [#147](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/147) · [#212](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/212). Las relaciones son analíticas, no pruebas causales / analytical links, not causal evidence.
 
