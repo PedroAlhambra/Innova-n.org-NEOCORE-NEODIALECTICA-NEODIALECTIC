@@ -14,7 +14,7 @@
 >
 > **WEB4™ / Gate Learn / Conway Research · auditoría integral del marco / whole-framework audit**
 >
-> **27-11-2026 · [Leer auditoría / Read audit](./2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) · [Delta](../../actualizaciones/2026-11-27_DELTA_AUDITORIA_WEB4_GATE_CONWAY_ES_EN.md)**
+> **27-11-2026 · [Leer auditoría / Read audit](./2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) · [Delta](../../actualizaciones/2026-11-27_DELTA_AUDITORIA_WEB4_GATE_CONWAY_ES_EN.md) · [SAN #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214)**
 >
 > Precedencia específica acreditada desde 2025; convergencia parcial y divergencia teleológica. Acceso, derivación y plagio no demostrados. / Specific precedence established since 2025; partial convergence and teleological divergence. Access, derivation and plagiarism unproven.
 >
@@ -373,3 +373,13 @@ CLOSURE + MATERIAL NEW EVIDENCE
 → TRACEABLE REOPENING
 → NEW VERSION
 ```
+
+<!-- NEO_WEB4_COLLABORATION_START -->
+
+## WEB4™ / Gate / Conway · colaboración y genealogía / collaboration and provenance
+
+**[Auditoría / Audit](../../auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) · [Delta](../../actualizaciones/2026-11-27_DELTA_AUDITORIA_WEB4_GATE_CONWAY_ES_EN.md) · [Síntesis Abierta / Open Synthesis #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214)**
+
+**ES:** invitación a colaboración con el marco original de Innova_N, comparación de arquitecturas, reconocimiento recíproco de autoría y piloto de interoperabilidad. Precedencia específica respecto a Wen (2025), no exclusividad del término ni derivación demostrada. **EN:** invitation to collaborate with Innova_N's original framework, compare architectures, recognise each party's authorship and explore an interoperability pilot. Specific precedence relative to Wen (2025), not exclusivity of the term or demonstrated derivation.
+
+<!-- NEO_WEB4_COLLABORATION_END -->
