@@ -9,6 +9,7 @@ Propuesta: añadir al radar externo detección de coincidencias compuestas y mat
 Gates: revisión histórica de cada componente; evidencia independiente de acceso; comparación de texto/código/licencias; derecho de respuesta; tres pasadas SAN antes de cualquier promoción. No modifica RO, HOLD, núcleo o runtime NAVE. Pendiente de ingestión por el flujo local autorizado, sin afirmar integración en matriz π.
 
 ## EN
+Evidence: commits 70fa8fd2d3d9e6135ae7dadd865da29c7eabd499 (2025-11-26), 03add05dad6d65296e66f29c9a42569fb3324d55 (2025-12-10), Wen manifesto 2026-02-18, Gate 2026-03-25; EU COM(2023)442 antecedent.
 Input: external Gate Learn signal and founder's whole-framework audit request. [Audit](../auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md).
 Finding: documentary precedence of the combination WEB4 + human–AI symbiotic system relative to Wen's manifesto; partial analogies and different purpose; no proof of access, full copying, plagiarism or Huawei involvement.
 Proposal: external radar should track compound similarities, dated evidence, counterevidence, and source-level comparison; distinguish audit scope from conclusion, precedence from access and derivation, and legal infringement from conceptual convergence. Invite contributions with attribution and right of reply. Protect the informant's privacy.
@@ -31,3 +32,13 @@ Gates: historical checks per component, independent access evidence, text/code/l
 **Contraevidencia adicional / Additional counterevidence:** [Gate Learn · Web4: We Are AGI](https://www.gate.com/learn/articles/web4-we-are-agi/4867), republicación de Jeffy Yu de 2024, anterior al archivo de septiembre de 2025, vincula WEB4 con agentes e inteligencia descentralizada. Esto refuerza la necesidad de distinguir la composición ética y simbiótica específica de Innova_N de antecedentes genéricos. / This 2024 reprint of Jeffy Yu predates the September 2025 archive and links Web4 with agents and decentralised intelligence. Distinguish Innova_N's specific ethical and symbiotic composition from broader antecedents.
 
 <!-- NEO_WEB4_COLLABORATION_END -->
+
+## Trazabilidad de comunicaciones / Communication traceability · 2026-11-27
+
+**ES:** 27/11/2026: propuestas de colaboración enviadas desde la cuenta corporativa de Innova_N a Gate (23:58:06 CET; colaboración editorial y científica, solicitud de traslado a Jayne y Sam) y Conway Research (23:58:12 CET; propuesta a Sigil Wen de reunión técnica, interoperabilidad y posible piloto). Verificadas en Enviados de Gmail (22:58:06 y 22:58:12 UTC). Estado: enviadas; entrega, lectura, respuesta y aceptación no acreditadas. No constituyen reclamaciones por plagio. Identificadores de correo y contenido íntegro permanecen en el buzón privado.
+
+**EN:** 27 November 2026: collaboration proposals sent from Innova_N's corporate account to Gate (23:58:06 CET; editorial and research collaboration, request to forward to Jayne and Sam) and Conway Research (23:58:12 CET; technical meeting, interoperability and possible pilot proposed to Sigil Wen). Verified in Gmail Sent (22:58:06 and 22:58:12 UTC). Status: sent; delivery, reading, response and acceptance not established. They are not plagiarism claims. Email identifiers and full content remain in the private mailbox.
+
+**Siguiente paso / Next step:** registrar acuse, respuesta, refutación o propuesta de piloto cuando exista; ninguna alianza se considera acordada todavía. / Record acknowledgement, response, rebuttal or pilot proposal when available; no partnership is considered agreed yet.
+
+**Relaciones / Relations:** [Auditoría / Audit](../auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) · [Delta](../actualizaciones/2026-11-27_DELTA_AUDITORIA_WEB4_GATE_CONWAY_ES_EN.md) · [Relaciones / Relations](../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [SAN #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214).
