@@ -9,6 +9,19 @@ Las Auditorías Públicas son una **capa principal** del Neodialectica Framework
 - [LIII · Manifiesto Leónidas™ / Leónidas™ Manifesto](./manifiestos/53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
 - [Síntesis Abierta LIII / Open Synthesis LIII · #69](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/69)
 
+
+<!-- NEO_WEB4_COLLABORATION_START -->
+
+## WEB4™ / Gate / Conway · colaboración y genealogía / collaboration and provenance
+
+**[Auditoría / Audit](./auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) · [Delta](./actualizaciones/2026-11-27_DELTA_AUDITORIA_WEB4_GATE_CONWAY_ES_EN.md) · [Relaciones / Relations](./manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [SAN #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214)**
+
+**ES:** Enviadas dos propuestas de colaboración el 27/11/2026; pendientes de respuesta. Precedencia específica respecto a Wen, no exclusividad de WEB4 ni derivación demostrada.
+
+**EN:** Two collaboration proposals sent on 27 November 2026; responses pending. Specific precedence relative to Wen, not exclusivity of WEB4 or demonstrated derivation.
+
+<!-- NEO_WEB4_COLLABORATION_END -->
+
 ## Convergencias institucionales / Institutional convergence cases
 
 **Documentación existente y contrastable, abierta a refutación / Existing and reviewable documentation, open to challenge:**
