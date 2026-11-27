@@ -15,13 +15,15 @@
 
 <!-- NEO_WEB4_COLLABORATION_START -->
 
-## WEB4™ / Gate / Conway · colaboración y genealogía / collaboration and provenance
+## WEB4™: ¿autonomía de la IA o simbiosis humano–IA? / AI autonomy or human–AI symbiosis?
 
-**[Auditoría / Audit](./auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) · [Delta](./actualizaciones/2026-11-27_DELTA_AUDITORIA_WEB4_GATE_CONWAY_ES_EN.md) · [Relaciones / Relations](./manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [SAN #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214)**
+**[Leer y participar directamente · Read and join the discussion #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214)**
 
-**ES:** Enviadas dos propuestas de colaboración el 27/11/2026; pendientes de respuesta. Precedencia específica respecto a Wen, no exclusividad de WEB4 ni derivación demostrada.
+**ES:** Innova_N documentó WEB4 como capa pública de un sistema de simbiosis humano–IA en noviembre de 2025, antes del manifiesto de Sigil Wen. La comparación con Gate y Conway plantea una cuestión de finalidad y ética, no una acusación de plagio.
 
-**EN:** Two collaboration proposals sent on 27 November 2026; responses pending. Specific precedence relative to Wen, not exclusivity of WEB4 or demonstrated derivation.
+**EN:** Innova_N documented WEB4 as the public layer of a human–AI symbiotic system in November 2025, before Sigil Wen's manifesto. The comparison with Gate and Conway raises a question of purpose and ethics, not an allegation of plagiarism.
+
+[Documento histórico / Historical document](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/70fa8fd2d3d9e6135ae7dadd865da29c7eabd499/README.md) · [Auditoría completa / Full audit](./auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md)
 
 <!-- NEO_WEB4_COLLABORATION_END -->
 
