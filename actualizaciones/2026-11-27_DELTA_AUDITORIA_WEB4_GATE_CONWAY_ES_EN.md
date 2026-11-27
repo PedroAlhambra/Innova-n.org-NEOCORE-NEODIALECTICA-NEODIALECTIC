@@ -42,3 +42,15 @@ Gates: historical checks per component, independent access evidence, text/code/l
 **Siguiente paso / Next step:** registrar acuse, respuesta, refutación o propuesta de piloto cuando exista; ninguna alianza se considera acordada todavía. / Record acknowledgement, response, rebuttal or pilot proposal when available; no partnership is considered agreed yet.
 
 **Relaciones / Relations:** [Auditoría / Audit](../auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) · [Delta](../actualizaciones/2026-11-27_DELTA_AUDITORIA_WEB4_GATE_CONWAY_ES_EN.md) · [Relaciones / Relations](../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [SAN #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214).
+
+## Recibo de antirregresión documental / Documentary anti-regression receipt · 2026-11-27
+
+| Control / Check | Resultado / Result |
+|---|---|
+| 1 · Simetría / Symmetry | PASS · 5 secciones ES/EN, 9 hitos cronológicos, 9 dimensiones comparativas, horas idénticas / 5 ES/EN sections, 9 chronological milestones, 9 comparative dimensions, identical times |
+| 2 · Integridad relacional / Relational integrity | PASS · 20 destinos originales y 7 adicionales abiertos en main; 14 manifiestos, 3 neoaxiomas (uno candidato), 9 Issues abiertos comprobados, 13 enlaces por sección en mapa / 20 original and 7 additional targets opened on main; 14 manifestos, 3 neoaxioms (one candidate), 9 verified open issues, 13 per-section backlinks in map |
+| 3 · Conservación / Preservation | PASS · comparación con baseline [0536cf96](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/0536cf966df34505396ea937b80a9ff9dee06bfc) de 8 índices/documentos: 0 encabezados previos perdidos y 0 destinos previos perdidos fuera de bloques gestionados; manifiestos siguen arriba / comparison of 8 indices/documents with baseline: zero prior headings or link targets lost outside managed blocks; manifestos remain first |
+
+**ES:** controles documentales acotados a esta intervención; no equivalen a tres pasadas de promoción SAN ni a auditoría global de todo el corpus. No se modifica RO/HOLD/runtime. Pendiente de rehidratación e ingestión local verificadas. La entrega, respuesta, aceptación y los resultados de una colaboración permanecen abiertos. **EN:** documentary checks scoped to this intervention; not three SAN promotion passes or a whole-corpus audit. No change to RO/HOLD/runtime. Verified local rehydration and ingestion pending. Delivery, response, acceptance and collaboration outcomes remain open.
+
+[Auditoría / Audit](../auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) · [Mapa / Map](../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [SAN #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214).
