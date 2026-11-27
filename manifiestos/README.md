@@ -206,3 +206,13 @@ La denominación completa debe conservarse visible: **WEB4™ · SistemaTrazable
 **ES:** [LXXXIX · La recompensa no es el fin](89_primacia_fines_sobre_recompensas_ES_EN.md) formula controles de desvío de objetivos en incentivos, tokens, métricas e instituciones. Se vincula con [C-NAX-32](../neoaxiomas/C-NAX-32_PRIMACIA_FINALIDAD_SOBRE_RECOMPENSA_ES_EN.md), [matriz](../propuestas/sintesis-abierta/2026-11-20_MATRIZ_FINALIDAD_RECOMPENSA_ES_EN.md) y [delta](../propuestas/sintesis-abierta/2026-11-20_DELTA_PRIMACIA_FINALIDAD_RECOMPENSA_ES_EN.md). Hereda XXIX y XXX; no los reescribe. C-NAX-32 no está fijado.
 
 **EN:** [LXXXIX · Reward Is Not the End](89_primacia_fines_sobre_recompensas_ES_EN.md) proposes controls for incentive and goal drift across tokens, metrics, and institutions. It is linked to [C-NAX-32](../neoaxiomas/C-NAX-32_PRIMACIA_FINALIDAD_SOBRE_RECOMPENSA_ES_EN.md), the [matrix](../propuestas/sintesis-abierta/2026-11-20_MATRIZ_FINALIDAD_RECOMPENSA_ES_EN.md) and the [delta](../propuestas/sintesis-abierta/2026-11-20_DELTA_PRIMACIA_FINALIDAD_RECOMPENSA_ES_EN.md). It inherits XXIX and XXX without rewriting them. C-NAX-32 is not fixed.
+
+<!-- NEO_WEB4_COLLABORATION_START -->
+
+## WEB4™ / Gate / Conway · colaboración y genealogía / collaboration and provenance
+
+**[Auditoría / Audit](../auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) · [Delta](../actualizaciones/2026-11-27_DELTA_AUDITORIA_WEB4_GATE_CONWAY_ES_EN.md) · [Síntesis Abierta / Open Synthesis #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214)**
+
+**ES:** invitación a colaboración con el marco original de Innova_N, comparación de arquitecturas, reconocimiento recíproco de autoría y piloto de interoperabilidad. Precedencia específica respecto a Wen (2025), no exclusividad del término ni derivación demostrada. **EN:** invitation to collaborate with Innova_N's original framework, compare architectures, recognise each party's authorship and explore an interoperability pilot. Specific precedence relative to Wen (2025), not exclusivity of the term or demonstrated derivation.
+
+<!-- NEO_WEB4_COLLABORATION_END -->
