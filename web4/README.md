@@ -1,5 +1,7 @@
 # WEB4™ · SistemaTrazable™ · Especificación documental pública
 
+**Última auditoría externa WEB4™ / Latest external WEB4™ audit (2026-11-27):** [Gate / Conway · precedencia y contraste integral / precedence and whole-framework comparison](../auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) · [Delta SAN](../actualizaciones/2026-11-27_DELTA_AUDITORIA_WEB4_GATE_CONWAY_ES_EN.md).
+
 <!-- NEOAXIOMAS_GLOBAL_LINK_START -->
 
 ## NEOCore™ · CANON ABIERTO · Primera Capa Fractal Multicabeza™ + Capa Neoaxiomática™ + Soberanía de Síntesis™
