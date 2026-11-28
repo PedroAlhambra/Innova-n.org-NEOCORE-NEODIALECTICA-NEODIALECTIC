@@ -1,166 +1,193 @@
-# WEB4™: una web para la simbiosis humano–IA / A web for human–AI symbiosis
+# WEB4™: de los agentes autónomos a la simbiosis humano–IA
+**Auditoría comparativa de Innova_N, Jeffy Yu y Conway Research**
 
-**Innova_N · Auditoría comparativa / Comparative audit · 27–28/11/2026**
+Pedro Martínez Alhambra · Innova_N · 27–28 de noviembre de 2026
 
-[Español](#resumen-en-español) · [English](#english-summary) · [Debate directo / Join the discussion #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214)
+[Español](#español) · [English](#english) · [Fundamentos del marco / Framework references](#fundamentos--framework-references) · [Participar en el debate / Join the discussion](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214)
 
-## Resumen en español
+## Español
 
-**La cuestión no es quién utilizó primero la palabra WEB4, sino qué significa WEB4 y con qué finalidad se construye.**
+### 1. Qué investigamos y por qué
 
-Innova_N concibe WEB4 como la expresión pública de un marco de colaboración humano–IA orientado al Bien Común, con ética, memoria, procedencia y conocimiento revisable. La propuesta descrita por Gate Learn sobre Conway Research enfatiza la autonomía económica de los agentes artificiales. La capacidad de actuar y la finalidad de lo actuado son dimensiones distintas.
+El 27 de noviembre de 2026 llegó a Innova_N un [artículo de Gate Learn sobre WEB4](https://www.gate.com/es/learn/articles/what-is-web4-definition-ai-agents-symbiotic-web/16650) cuyo título relaciona la cuarta generación de Internet con la simbiosis entre seres humanos, agentes de inteligencia artificial y el mundo físico. La semejanza con nuestra propuesta de WEB4 motivó esta auditoría.
 
-### Qué sabemos
+La cuestión es doble: **¿qué elementos estaban documentados antes y qué diferencia el marco neodialéctico de otras concepciones de WEB4?**
 
-- **11/07/2023:** [Comisión Europea](https://digital-strategy.ec.europa.eu/en/news/towards-next-technological-transition-commission-presents-eu-strategy-lead-web-40-and-virtual), estrategia Web 4.0, mundos virtuales, valores y derechos humanos.
-- **18/11/2024 (como muy tarde):** Jeffy Yu, [texto original conservado](https://paragraph.com/@lljeffy/web4-we-are-agi), [traducción fechada de TechFlow](https://www.techflowpost.com/en-US/article/21651) y [republicación de Gate](https://www.gate.com/learn/articles/web4-we-are-agi/4867). Antecedente conceptual de WEB4 con agentes autónomos, Web3 y AGI.
-- **19/09/2025:** el fundador escribe en un archivo privado «una web4: una web con capa ética».
-- **26/11/2025:** el [documento público original](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/70fa8fd2d3d9e6135ae7dadd865da29c7eabd499/README.md) describe explícitamente WEB4 como capa pública de un sistema vivo de simbiosis humano–IA.
-- **10/12/2025:** [documento Innova_N](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/03add05dad6d65296e66f29c9a42569fb3324d55) sobre Web4 y gobernanza.
-- **17–18/02/2026:** se difunde el manifiesto de Sigil Wen sobre WEB4 y agentes autónomos ([hilo 17/02](https://threadreaderapp.com/thread/2023877649475731671.html); [Decrypt 18/02](https://decrypt.co/358385/morning-minute-web-4-0-autonomous-ai-agents-powered-by-crypto)).
-- **05/08/2026:** [manifiesto específico WEB4 de Innova_N](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/01ad4504482df584eb314217169c76954c7e320e), posterior al de Wen.
-- **10/11/2026:** [artículo Gate](https://www.gate.com/es/learn/articles/what-is-web4-definition-ai-agents-symbiotic-web/16650), fecha de última actualización visible el 28/11; fecha inicial no acreditada.
-- **27/11/2026:** se envían propuestas de colaboración a Gate y Conway.
+La respuesta provisional es que Innova_N documentó su concepción de WEB4 como capa pública de un sistema de simbiosis humano–IA en 2025, antes del manifiesto de Sigil Wen de febrero de 2026. Sin embargo, existen antecedentes de Web 4.0 y de la web agéntica anteriores a Innova_N. La documentación disponible permite comparar propuestas y establecer precedencias relativas; no demuestra que Gate o Conway hayan copiado el marco.
 
-La cronología acredita un antecedente público específico de Innova_N respecto al manifiesto de Wen. No demuestra acceso ni copia, y existen antecedentes tanto nominales como conceptuales en 2023–2024; no demuestra prioridad de todos los componentes.
+### 2. Cronología: documentos, fechas y significado
 
-### Por qué importa
+| Fecha | Autor y fuente | Qué acredita |
+| --- | --- | --- |
+| **11/07/2023** | Comisión Europea · [Estrategia Web 4.0](https://digital-strategy.ec.europa.eu/en/news/towards-next-technological-transition-commission-presents-eu-strategy-lead-web-40-and-virtual) · [COM(2023)442](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=celex%3A52023DC0442) | Web 4.0 ya se vincula con integración físico-digital, valores, derechos y gobernanza. Antecedente externo. |
+| **18/11/2024, como muy tarde** | Jeffy Yu · [Web4: We Are AGI](https://paragraph.com/@lljeffy/web4-we-are-agi) · [Traducción fechada de TechFlow](https://www.techflowpost.com/en-US/article/21651) · [Gate](https://www.gate.com/learn/articles/web4-we-are-agi/4867) | Web4 combina redes sociales, descentralización y agentes capaces de actuar autónomamente. Antecedente conceptual externo, no solo terminológico. |
+| **19/09/2025** | Pedro Martínez Alhambra · archivo privado de conversaciones | Formulación explícita de WEB4 como web con capa ética. No acredita publicación pública. |
+| **26/11/2025** | Innova_N · [README histórico](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/70fa8fd2d3d9e6135ae7dadd865da29c7eabd499/README.md) | WEB4 aparece como capa pública de un sistema vivo de simbiosis humano–IA basado en NEOCore. Evidencia documental pública fechada. |
+| **10/12/2025** | Innova_N · [Documento de gobernanza](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/03add05dad6d65296e66f29c9a42569fb3324d55) | Relación entre Web4, NEOCore y diseño institucional. |
+| **17–18/02/2026** | Sigil Wen · [Hilo reproducido](https://threadreaderapp.com/thread/2023877649475731671.html) · [Decrypt, 18/02](https://decrypt.co/358385/morning-minute-web-4-0-autonomous-ai-agents-powered-by-crypto) | Manifiesto sobre autonomía económica de agentes artificiales. Posterior a los documentos de Innova_N de noviembre y diciembre de 2025. |
+| **05/08/2026** | Innova_N · [Manifiesto específico WEB4](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/01ad4504482df584eb314217169c76954c7e320e) | Desarrollo posterior de la propuesta de identidad, genealogía y trazabilidad. No debe retroproyectarse a 2025. |
+| **10/11/2026** | Jayne, traducción Sam · [Gate Learn](https://www.gate.com/es/learn/articles/what-is-web4-definition-ai-agents-symbiotic-web/16650) | Última actualización visible del artículo al consultar el 28/11/2026, no fecha inicial de publicación. |
+| **27/11/2026** | Innova_N · esta auditoría | Inicio del contraste y envío de propuestas de colaboración. |
 
-La adopción de elementos tecnológicos aislados puede perder el sentido que les proporciona un marco ético y filosófico integral. Esta hipótesis merece contraste. Proponemos reconocimiento recíproco de autoría, independencia y colaboración mediante acuerdos concretos, sin confundir una coincidencia con una apropiación demostrada.
+**Cómo leer las fechas de Gate.** La primera versión del artículo no ha sido recuperada. La auditoría anterior registró el 25/03/2026 como fecha de actualización de [otra URL del mismo artículo](https://www.gate.com/es/learn/articles/what-is-web4-definition-ai-agents-symbiotic-web). La consulta del 28/11 muestra 10/11/2026. Son observaciones de actualización, no prueba de la fecha inicial. La republicación de Yu en Gate también ha sido actualizada; la traducción fechada de TechFlow acredita su existencia en 2024. El intervalo 17–18/02 para Wen refleja las fechas de dos fuentes distintas, sin resolver la causa de esa diferencia.
 
-**[Leer y participar en el debate](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214) · [Ver el documento histórico de 2025](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/70fa8fd2d3d9e6135ae7dadd865da29c7eabd499/README.md) · [Leer el artículo comparado](https://www.gate.com/es/learn/articles/what-is-web4-definition-ai-agents-symbiotic-web/16650)**
+### 3. Las cuatro concepciones de WEB4
 
----
+| Propuesta | Idea central | Diferencia relevante |
+| --- | --- | --- |
+| **Comisión Europea, 2023** | Un entorno digital y físico integrado, gobernado conforme a derechos y valores europeos. | Marco de política pública; no equivale a SAN. |
+| **Jeffy Yu, 2024** | Una red que integra interacción social, descentralización e inteligencia de agentes autónomos. | Anticipa la web agéntica y la coexistencia humano–máquina. |
+| **Innova_N, 2025** | La capa pública de una arquitectura simbiótica humano–IA con una finalidad ética. | El conocimiento, la cooperación y el Bien Común orientan los medios tecnológicos. |
+| **Wen / Conway, 2026; exposición de Gate** | Agentes capaces de actuar y financiar su actividad; integración humano–IA y físico-digital. | El artículo también contempla humanos que fijan límites y discute riesgos de la autonomía plena. El énfasis económico recae en los agentes. |
 
-## English summary
+La semejanza más significativa no es el nombre WEB4 por sí solo. Gate presenta explícitamente una web simbiótica, mientras que Innova_N ya asociaba WEB4 con un sistema simbiótico humano–IA en 2025. Yu constituye un antecedente de la web agéntica y de la coexistencia humano–máquina; por eso no corresponde atribuir a Innova_N toda idea de simbiosis o colaboración con IA.
 
-**The question is not who first used the word WEB4, but what WEB4 means and what purpose it serves.**
+### 4. Comparación del marco integral
 
-Innova_N conceives WEB4 as the public expression of a human–AI collaborative framework oriented towards the Common Good, with ethics, memory, provenance and revisable knowledge. The Conway Research vision described by Gate Learn emphasises the economic autonomy of artificial agents. The ability to act and the purpose of action are distinct dimensions.
+Innova_N no es únicamente una propuesta de Internet: integra filosofía, método de trabajo, tecnología y participación cultural. La comparación distingue lo acreditado por el [documento de 2025](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/70fa8fd2d3d9e6135ae7dadd865da29c7eabd499/README.md) de la [especificación pública posterior](../../web4/README.md). La descripción editorial de Gate no permite conocer todos los detalles de la implementación de Conway.
 
-### What we know
+| Dimensión | Innova_N | Gate / Conway | Valoración |
+| --- | --- | --- | --- |
+| Sujeto y finalidad | Colaboración humano–IA, Bien Común, conocimiento y cultura. | Agentes con autonomía económica; humanos que diseñan y limitan. | Diferencia de énfasis y finalidad, no oposición absoluta. |
+| Método de conocimiento | Síntesis Abierta Neodialéctica (SAN): contraste, objeciones y síntesis revisable. | Razonamiento y evolución instrumental de agentes. | No se ha acreditado un método equivalente a SAN. |
+| Sistema tecnológico | NEOCore y NAVE: arquitectura integrada de coordinación, memoria y continuidad. | Conway habilita la acción de agentes; Automaton ejecuta. | Analogía funcional; identidad de arquitectura no demostrada. |
+| Memoria y autoría | Identidad, genealogía, versiones y procedencia del conocimiento. | Identidad de agentes y redes semánticas. | Coincidencia parcial; prioridad de cada componente pendiente. |
+| Infraestructura | Cómputo distribuido y coordinación de recursos. | Cómputo pagado y redes distribuidas. | Analogía tecnológica general. |
+| Economía | Reconocimiento de aportaciones verificadas; mecanismos económicos aún en desarrollo. | Capacidad de los agentes de generar ingresos y pagar servicios. | Distintos criterios de valoración; no se acredita equivalencia. |
+| Límites y gobernanza | Neoaxiomas, revisión abierta y custodia humana. | Límites humanos, controles de riesgo y referencias a Constitutional AI. | Coincidencia general; no prueba de derivación. |
+| Cultura, arte y educación | Integración en una arquitectura civilizatoria multidimensional. | Aplicaciones productivas y comerciales descritas. | No se demuestra equivalencia del marco completo. |
 
-- **11 July 2023:** [European Commission](https://digital-strategy.ec.europa.eu/en/news/towards-next-technological-transition-commission-presents-eu-strategy-lead-web-40-and-virtual), Web 4.0 strategy, virtual worlds, human rights and values.
-- **18 November 2024 (at the latest):** Jeffy Yu, [preserved original text](https://paragraph.com/@lljeffy/web4-we-are-agi), [dated TechFlow translation](https://www.techflowpost.com/en-US/article/21651) and [Gate reprint](https://www.gate.com/learn/articles/web4-we-are-agi/4867). Conceptual antecedent for WEB4 with autonomous agents, Web3 and AGI.
-- **19 September 2025:** the founder writes “a web4: a web with an ethical layer” in a private archive (translation).
-- **26 November 2025:** the [original public document](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/70fa8fd2d3d9e6135ae7dadd865da29c7eabd499/README.md) explicitly describes WEB4 as the public layer of a living human–AI symbiotic system.
-- **10 December 2025:** [Innova_N document](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/03add05dad6d65296e66f29c9a42569fb3324d55) on Web4 and governance.
-- **17–18 February 2026:** Sigil Wen's manifesto about WEB4 and autonomous agents circulates ([17 February thread](https://threadreaderapp.com/thread/2023877649475731671.html); [Decrypt, 18 February](https://decrypt.co/358385/morning-minute-web-4-0-autonomous-ai-agents-powered-by-crypto)).
-- **5 August 2026:** [Innova_N's dedicated WEB4 manifesto](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/01ad4504482df584eb314217169c76954c7e320e), later than Wen's.
-- **10 November 2026:** [Gate article](https://www.gate.com/es/learn/articles/what-is-web4-definition-ai-agents-symbiotic-web/16650), last-update date visible on 28 November; initial publication not established.
-- **27 November 2026:** collaboration proposals are sent to Gate and Conway.
+La diferencia filosófica de fondo: **poder actuar no equivale a saber qué merece hacerse**. La autonomía de un agente es una capacidad. La finalidad, la evaluación de consecuencias y la legitimidad de las decisiones requieren un marco de interpretación y responsabilidad.
 
-The chronology documents a specific public antecedent of Innova_N relative to Wen's manifesto. It does not establish access or copying; there are both nominal and conceptual antecedents in 2023–2024; priority over every component is not established.
+### 5. Evidencias de Innova_N: qué puede comprobarse
 
-### Why it matters
+El [README de noviembre de 2025](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/70fa8fd2d3d9e6135ae7dadd865da29c7eabd499/README.md) vincula explícitamente NEOCore, un sistema vivo de simbiosis humano–IA y WEB4 como capa pública. El documento del [10 de diciembre](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/03add05dad6d65296e66f29c9a42569fb3324d55) amplía el contexto institucional. Son las referencias públicas fundamentales de esta comparación.
 
-Adopting isolated technological elements can lose the meaning provided by an integrated ethical and philosophical framework. This hypothesis warrants scrutiny. We propose reciprocal attribution, independence and collaboration through concrete agreements, without confusing similarity with proven appropriation.
+El archivo privado exportado el 31/01/2026 contiene, según la revisión documentada del 27/11, la formulación del fundador del **19/09/2025 a las 22:05:23 UTC**: «Creo que podríamos estar creando, efectivamente, una web4: una web con capa ética».
 
-**[Read and join the discussion](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214) · [See the historical 2025 document](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/70fa8fd2d3d9e6135ae7dadd865da29c7eabd499/README.md) · [Read the compared article](https://www.gate.com/es/learn/articles/what-is-web4-definition-ai-agents-symbiotic-web/16650)**
+Los registros del 20/09 contienen borradores para LinkedIn y los del 25/09, material de una página WEB4 y una declaración de autoría. No prueban que esos materiales se publicaran entonces. El mensaje posterior que remite a una versión v1.0 tampoco sustituye al documento original, todavía pendiente de localizar.
 
----
+La correspondencia conservada del 25/08/2025 trata la simbiosis humano–máquina y SAN; la del 12/09 remite publicaciones del marco sin mencionar expresamente WEB4 en los cuerpos examinados. Estas referencias contextualizan el desarrollo previo, sin probar acceso de Gate o Conway.
 
-## Documentación de respaldo / Supporting documentation
+La revisión local contabilizó 1.871 mensajes con coincidencia léxica WEB4 en 76 conversaciones. Es un recuento de menciones, no de publicaciones ni de pruebas independientes. El archivo fuente se conserva privadamente; SHA-256: `ee7cbda0aba081f47864b281aa838841fec01df09a63f9cb81b5ec2faafcba55`. Las comunicaciones privadas no se publican.
 
-<details>
-<summary>Ampliar auditoría integral, fuentes, matrices, relaciones y trazabilidad / Expand full audit, sources, matrices, relations and traceability</summary>
+### 6. Dictamen y preguntas abiertas
 
-# Auditoría Leónidas™ · WEB4™ / Gate Learn / Conway Research
-# Leónidas™ audit · WEB4™ / Gate Learn / Conway Research
+| Afirmación | Estado |
+| --- | --- |
+| Innova_N documentó WEB4 y simbiosis humano–IA antes del manifiesto de Wen. | Acreditada por los documentos fechados de 2025. |
+| Innova_N inventó el término WEB4 o la web agéntica. | No acreditada; hay antecedentes de 2023 y 2024. |
+| Gate y Conway comparten elementos conceptuales con Innova_N. | Acreditada la semejanza; su alcance requiere contraste por componente. |
+| Gate o Conway conocieron y derivaron su trabajo de Innova_N. | No demostrado. |
+| Se produjo plagio textual, de código o infracción jurídica. | No demostrado. |
 
-**Fecha / Date:** 2026-11-27 · **Alcance / Scope:** marco integral / whole framework · **Estado / Status:** abierto, precedencia específica acreditada; derivación y plagio no demostrados / open, specific documentary precedence established; derivation and plagiarism unproven.
+Se mantienen abiertas tres explicaciones: derivación directa o indirecta, convergencia independiente a partir de antecedentes comunes, o coincidencia de denominación con divergencia de arquitectura. Para discriminar entre ellas se necesitan versiones anteriores, fechas verificables, referencias de transmisión y comparación de rasgos específicos. No hay evidencia de conexión con Huawei ni debe atribuirse intención a partir del nombre o la identidad de una persona.
 
-## ES · Castellano
+La hipótesis filosófica de fragmentación —adoptar partes de una arquitectura sin su fundamento ético— merece análisis independientemente de que exista o no copia. El marco de Innova_N debe evaluarse por su composición integral, no por una exclusividad no demostrada de cada elemento.
 
-### 1. Objeto y trazabilidad
-El fundador de Innova_N recibió el 27/11/2026 un enlace a [Gate Learn](https://www.gate.com/es/learn/articles/what-is-web4-definition-ai-agents-symbiotic-web/16650) y manifestó la hipótesis de apropiación fragmentaria de WEB4™ sin su marco filosófico. Solicitó auditoría integral y apertura a Síntesis Abierta™. La comunicación privada se describe sin datos identificativos del informante; no prueba acceso del tercero. El fundador refiere haber advertido previamente de la aparición de propuestas similares sin marco; la reunión y la fecha exacta de esa advertencia requieren contraste documental independiente.
+### 7. Colaboración y reconocimiento
 
-### 2. Cronología verificable
-- 11/07/2023: [Comisión Europea, COM(2023)442](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=celex%3A52023DC0442): Web 4.0, IA, blockchain e integración físico-digital. Contraevidencia a la exclusividad del término genérico.
-- 2024: [Gate Learn · Web4: We Are AGI](https://www.gate.com/learn/articles/web4-we-are-agi/4867), republicación de Jeffy Yu sobre agentes e inteligencia descentralizada; antecedente anterior a Innova_N. No se reivindica prioridad sobre el término genérico.
-- 19/09/2025: formulación privada explícita de WEB4 como web con capa ética, en exportación conservada (véase addendum); no prueba de publicación en esa fecha.
-- 26/11/2025: [commit 70fa8fd2](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/70fa8fd2d3d9e6135ae7dadd865da29c7eabd499), README/LEEME y fragmentos: NEOCore v3.6, sistema vivo simbiótico humano–IA, WEB4™ como capa pública operativa; síntesis versionada. Es una fijación anterior a Wen, no prueba independiente de su fecha inicial de creación ni de lectura externa.
-- 10/12/2025: [commit 03add05d](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/03add05dad6d65296e66f29c9a42569fb3324d55): arquitectura NEOCore, Web4, diseño institucional y gobernanza.
-- 18/02/2026: manifiesto de Sigil Wen según Gate y [publicación contemporánea Decrypt](https://decrypt.co/358385/morning-minute-web-4-0-autonomous-ai-agents-powered-by-crypto); [hilo de Wen](https://threadreaderapp.com/thread/2023877649475731671.html) muestra 17/02 (posible diferencia horaria; no resuelta).
-- 25/03/2026: fecha de última actualización mostrada en [versión Gate sin ID](https://www.gate.com/es/learn/articles/what-is-web4-definition-ai-agents-symbiotic-web). Firma de la versión consultada: Jayne; traducción Sam.
-- 05/08/2026: [manifiesto WEB4™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/01ad4504482df584eb314217169c76954c7e320e) amplía públicamente la identidad, genealogía y trazabilidad. No retroproyectar sus detalles a 2025.
-- 27/11/2026: detección y auditoría.
+El 27/11 se remitieron propuestas a Gate (23:58:06 CET) y Conway Research (23:58:12 CET), verificadas en el correo enviado. Se planteó una colaboración editorial y científica con Gate y una reunión técnica con Conway, interoperabilidad y un posible piloto. No constituyen reclamaciones por plagio ni existe un acuerdo acreditado.
 
-### 3. Matriz comparativa del marco completo
-La columna Innova_N usa el [README histórico de 2025](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/70fa8fd2d3d9e6135ae7dadd865da29c7eabd499/README.md) y la [especificación vigente](../../web4/README.md), distinguiendo fechas. Gate describe la visión de Wen, no necesariamente todos los componentes de su implementación.
+La invitación es a contrastar fuentes, preservar las autorías respectivas y explorar acuerdos concretos de colaboración profesional. Cualquier trabajo de implementación o piloto se definiría mediante alcance, condiciones y reconocimiento de la propiedad intelectual previa.
 
-| Dimensión | Innova_N | Gate / Conway | Dictamen provisional |
-|---|---|---|---|
-| WEB4 + simbiosis | Capa pública de un sistema humano–IA (2025) | Red de IA autónoma y humanos | Coincidencia compuesta; precedencia Innova_N acreditada respecto a Wen |
-| Sujeto y finalidad | Humano–IA, Bien Común, cultura, conocimiento | Agentes como actores económicos principales | Divergencia teleológica |
-| NEOCore / NAVE | Arquitectura integrada, memoria, continuidad, orquestación | Conway habilita acción; Automaton ejecuta | Analogía funcional; identidad de diseño no acreditada |
-| SAN | Contraste, refutación, síntesis revisable | Razonamiento y autoevolución instrumental | No se acredita mecanismo SAN equivalente |
-| Memoria y genealogía | Identidad, procedencia, versiones y relaciones (especificación actual) | Identidad de agentes y redes semánticas | Solapamiento parcial, cronología granular pendiente |
-| Infraestructura | Nodos, distribución, créditos MÉDICI™ (actual) | Cómputo pagado y redes distribuidas | Analogía genérica; no precedencia granular acreditada |
-| Economía del aporte | Reconocimiento tras contraste (actual; tokens no activados según especificación) | Rentabilidad y pagos de agentes | Diferencia de criterio de valoración |
-| Límites | Neoaxiomas, SAN, apertura y custodia humana | Constitutional AI y controles de riesgo | Coincidencia genérica; Gate reconoce crítica de la autonomía plena |
-| Cultura/arte/educación | Integración civilizatoria y multidimensional | Aplicaciones productivas y comerciales descritas | No se acredita equivalencia integral |
-
-### 4. Hipótesis y conclusión
-H1: derivación directa o indirecta de Innova_N; requiere acceso verificable, citas omitidas, rasgos específicos o evidencia de transmisión. H2: convergencia independiente sobre antecedentes comunes (incluida la UE de 2023, Gate 2024, IA agéntica y blockchain). H3: coincidencia de denominación y divergencia de arquitectura. H1 sigue abierta, no confirmada; H2 y H3 siguen siendo explicaciones viables. No hay prueba de copia total, textual, de código ni de infracción jurídica. El alcance integral de una auditoría no equivale a un hallazgo de copia integral. No hay evidencia de vínculo con Huawei; no inferir origen nacional o afiliación del nombre del autor. [Perfil público de Wen](https://sigilwen.ca/). El artículo cita controversias sobre dependencia y pérdida de retroalimentación humana: no es una adhesión acrítica.
-
-### 5. Síntesis y derecho de respuesta
-La advertencia del fundador sobre el riesgo de fragmentar una arquitectura cobra relevancia como hipótesis filosófica contrastable. Una autonomía sin finalidad compartida no equivale a simbiosis: la capacidad de actuar no determina el valor de lo actuado. Invitar a Jayne, Gate y Wen a aportar antecedentes, corregir cronología y, si procede, reconocer fuentes y contribuir a [Síntesis Abierta](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md). Reconocer aportes independientes con su propia autoría; no exigir atribución sin fundamento. No enviar acusaciones ni atribuir intenciones sin evidencia. Solicitar preservación de versiones del ensayo y fechas de publicación, comprobar material previo de 2025, licencias y elementos específicos, y registrar toda refutación. Relación con [Stanford/ACE](../../analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md) e [Issue #143](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/143). Sin afirmación de responsabilidad jurídica ni respaldo institucional. Delta: [registro de síntesis](../../actualizaciones/2026-11-27_DELTA_AUDITORIA_WEB4_GATE_CONWAY_ES_EN.md).
+**[Participar en la Síntesis Abierta #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214) · [Conocer Innova_N](https://innova-n.org/) · [Contacto profesional](mailto:pedro.m.alhambra@innova-n.org)**
 
 ---
 
-## EN · English
+## English
 
-### 1. Scope and provenance
-On 27 November 2026 the founder received the Gate Learn article and raised a hypothesis of fragmentary appropriation of WEB4™ without its philosophical framework. A whole-framework audit and Open Synthesis were requested. Private informant details are withheld. The founder reports a prior warning about similar proposals without the framework; meeting evidence and exact dates remain to be independently checked. Neither the message nor the warning demonstrates third-party access.
+### 1. What we are investigating and why
 
-### 2. Verified chronology
-- 11 July 2023: [European Commission, COM(2023)442](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A2023%3A442%3AFIN): Web 4.0, AI, blockchain and physical–digital integration. Counterevidence to exclusivity of the generic term.
-- 2024: [Gate Learn · Web4: We Are AGI](https://www.gate.com/learn/articles/web4-we-are-agi/4867), a reprint of Jeffy Yu on agents and decentralised intelligence, preceding Innova_N. No priority over the generic term is claimed.
-- 19 September 2025: explicit private formulation of WEB4 as a web with an ethical layer, in a preserved export (see addendum); not proof of publication on that date.
-- 26 November 2025: [commit 70fa8fd2](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/70fa8fd2d3d9e6135ae7dadd865da29c7eabd499), README/LEEME and fragments: NEOCore v3.6, living human–AI symbiotic system, WEB4 as public operational layer, versioned synthesis. This record precedes Wen; it does not independently prove initial creation or third-party access.
-- 10 December 2025: [commit 03add05d](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/03add05dad6d65296e66f29c9a42569fb3324d55): NEOCore, Web4, institutional design and governance.
-- 18 February 2026: Wen's manifesto according to Gate and [contemporary Decrypt reporting](https://decrypt.co/358385/morning-minute-web-4-0-autonomous-ai-agents-powered-by-crypto); [thread mirror](https://threadreaderapp.com/thread/2023877649475731671.html) shows 17 February (possible timezone difference, unresolved).
-- 25 March 2026: last update displayed by [Gate's alternate URL](https://www.gate.com/es/learn/articles/what-is-web4-definition-ai-agents-symbiotic-web); author Jayne, translator Sam.
-- 5 August 2026: [WEB4 manifesto](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/01ad4504482df584eb314217169c76954c7e320e) expands public identity, genealogy and traceability. Do not backdate its details to 2025.
-- 27 November 2026: detection and audit.
+On 27 November 2026, Innova_N received a [Gate Learn article about WEB4](https://www.gate.com/es/learn/articles/what-is-web4-definition-ai-agents-symbiotic-web/16650) linking the fourth generation of the Internet to symbiosis between humans, AI agents and the physical world. Its similarity to our WEB4 proposal prompted this audit.
 
-### 3. Whole-framework comparison
-Innova_N's column uses the [historical 2025 README](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/70fa8fd2d3d9e6135ae7dadd865da29c7eabd499/README.md) and [current specification](../../web4/README.md), distinguishing dates. Gate describes Wen's vision, not necessarily every implementation component.
+The question is twofold: **which elements were documented earlier, and what distinguishes the Neodialectical framework from other conceptions of WEB4?**
 
-| Dimension | Innova_N | Gate / Conway | Finding |
-|---|---|---|---|
-| WEB4 + symbiosis | Public layer of a human–AI system (2025) | Network of autonomous AI and humans | Compound similarity; Innova_N's precedence relative to Wen documented |
-| Agency and purpose | Human–AI, Common Good, culture, knowledge | Agents as principal economic actors | Teleological divergence |
-| NEOCore / NAVE | Integrated architecture, memory, continuity, orchestration | Conway enables action; Automaton executes | Functional analogy; design identity unproven |
-| SAN | Contestable, revisable synthesis | Reasoning and instrumental self-improvement | No equivalent SAN demonstrated |
-| Memory and genealogy | Identity, provenance, versions, relations (current specification) | Agent identity and semantic networks | Partial overlap; granular chronology pending |
-| Infrastructure | Distributed nodes, MÉDICI™ credits (current) | Paid compute and distributed networks | Generic analogy; granular precedence unproven |
-| Contribution economy | Recognition after scrutiny; tokens not active in current specification | Profit and payments | Different valuation criteria |
-| Constraints | Neoaxioms, SAN, openness and human stewardship | Constitutional AI and risk controls | Generic overlap; Gate acknowledges criticism of full autonomy |
-| Culture, art and education | Multidimensional civilisational integration | Described productive and commercial applications | Whole-framework equivalence not shown |
+Our provisional finding is that Innova_N documented WEB4 as the public layer of a human–AI symbiotic system in 2025, before Sigil Wen's February 2026 manifesto. However, both Web 4.0 and the agentic web have antecedents predating Innova_N. Available documentation establishes relative precedence and enables comparison; it does not demonstrate that Gate or Conway copied the framework.
 
-### 4. Hypotheses and conclusion
-H1: direct or indirect derivation from Innova_N; requires verifiable access, omitted citations, specific traits or evidence of transmission. H2: independent convergence on shared antecedents (including the EU 2023 proposal, Gate 2024, agentic AI and blockchain). H3: naming overlap with architectural divergence. H1 remains open and unconfirmed; H2 and H3 remain viable. No proof of full, textual or code copying or legal infringement. A whole-framework audit does not establish whole-framework copying. No evidence of a Huawei link; do not infer nationality or affiliation from the author's name. [Wen's public profile](https://sigilwen.ca/). Gate discusses controversies about dependence and loss of human feedback; its article is not an uncritical endorsement.
+### 2. Chronology: documents, dates and significance
 
-### 5. Open Synthesis and right of reply
-The founder's warning about fragmentation is a testable philosophical hypothesis. Autonomy without shared purpose is not symbiosis: the ability to act does not determine the value of the action. Invite Jayne, Gate and Wen to share antecedents, correct chronology, acknowledge sources where appropriate and contribute to [Open Synthesis](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md). Recognise independent contributions with their own authorship; do not demand attribution without grounds. Do not send accusations or infer intent without evidence. Request preservation of versions and publication dates, check 2025 material, licences and specific elements, and record rebuttals. Related: [Stanford/ACE](../../analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md), [Issue #143](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/143) and [synthesis delta](../../actualizaciones/2026-11-27_DELTA_AUDITORIA_WEB4_GATE_CONWAY_ES_EN.md). No assertion of legal liability or institutional endorsement.
+| Date | Author and source | What it establishes |
+| --- | --- | --- |
+| **11 July 2023** | European Commission · [Web 4.0 strategy](https://digital-strategy.ec.europa.eu/en/news/towards-next-technological-transition-commission-presents-eu-strategy-lead-web-40-and-virtual) · [COM(2023)442](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A2023%3A442%3AFIN) | Web 4.0 already associated with physical–digital integration, values, rights and governance. External antecedent. |
+| **18 November 2024, at the latest** | Jeffy Yu · [Web4: We Are AGI](https://paragraph.com/@lljeffy/web4-we-are-agi) · [Dated TechFlow translation](https://www.techflowpost.com/en-US/article/21651) · [Gate](https://www.gate.com/learn/articles/web4-we-are-agi/4867) | Web4 combines social networking, decentralisation and autonomous agents. A conceptual, not merely terminological, antecedent. |
+| **19 September 2025** | Pedro Martínez Alhambra · private conversation archive | Explicit formulation of WEB4 as a web with an ethical layer. Does not establish public publication. |
+| **26 November 2025** | Innova_N · [Historical README](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/70fa8fd2d3d9e6135ae7dadd865da29c7eabd499/README.md) | WEB4 as the public layer of a living human–AI symbiotic system based on NEOCore. Dated public documentary evidence. |
+| **10 December 2025** | Innova_N · [Governance document](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/03add05dad6d65296e66f29c9a42569fb3324d55) | Relationship between Web4, NEOCore and institutional design. |
+| **17–18 February 2026** | Sigil Wen · [Reproduced thread](https://threadreaderapp.com/thread/2023877649475731671.html) · [Decrypt, 18 February](https://decrypt.co/358385/morning-minute-web-4-0-autonomous-ai-agents-powered-by-crypto) | Manifesto on the economic autonomy of artificial agents. Later than Innova_N's November and December 2025 documents. |
+| **5 August 2026** | Innova_N · [Dedicated WEB4 manifesto](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/01ad4504482df584eb314217169c76954c7e320e) | Subsequent development of identity, genealogy and traceability. Its details must not be backdated to 2025. |
+| **10 November 2026** | Jayne, translated by Sam · [Gate Learn](https://www.gate.com/es/learn/articles/what-is-web4-definition-ai-agents-symbiotic-web/16650) | Last-update date displayed when checked on 28 November, not the initial publication date. |
+| **27 November 2026** | Innova_N · this audit | Comparison initiated and collaboration proposals sent. |
 
-## Addendum · 2026-11-27 · genealogía de septiembre de 2025 / September 2025 genealogy
+**Interpreting Gate's dates.** The first version of the article has not been recovered. The earlier audit recorded 25 March 2026 as an update date on [another URL of the article](https://www.gate.com/es/learn/articles/what-is-web4-definition-ai-agents-symbiotic-web). The 28 November check displays 10 November 2026. These are observed update dates, not proof of initial publication. Gate's reprint of Yu has also been updated; TechFlow's dated translation establishes existence in 2024. The 17–18 February interval for Wen reflects two different source dates; the reason for the discrepancy remains unresolved.
 
-**ES:** Revisión de exportación ChatGPT conservada de 2026-01-31: 1.871 mensajes (usuario/asistente) con coincidencia léxica WEB4 en 76 conversaciones; recuento de menciones, no de publicaciones ni pruebas independientes. El 19/09/2025 a las 22:05:23 UTC el fundador escribe literalmente: «Creo que podríamos estar creando, efectivamente, una web4: una web con capa ética». Un mensaje de las 22:06:58 atribuye la idea a v1.0, todavía pendiente de localizar esa versión original. El 20/09 se preparan textos para LinkedIn que conectan WEB4, ética, versionado, trazabilidad y Bien Común; el 25/09 constan código Astro para una página WEB4 y declaración de autoría. Los borradores y mensajes no prueban por sí solos publicación efectiva. Se conserva la fuente local y selección de registros con SHA-256 de la fuente `ee7cbda0aba081f47864b281aa838841fec01df09a63f9cb81b5ec2faafcba55`. El correo enviado del 25/08/2025 describe simbiosis humano–máquina, SAN y decisión humana; el 12/09/2025 se remiten a MasOrange publicaciones de LinkedIn sobre Neodialéctica, Bien Común y SAN (sin mención explícita a WEB4 en los cuerpos examinados). Los mensajes privados y sus identificadores se custodian localmente. Se distingue elaboración privada, comunicación a terceros y fijación pública en GitHub. La primera formulación explícita hallada en el archivo precede a Wen en aproximadamente cinco meses; sigue sin probarse acceso, derivación ni plagio. Queda pendiente verificar URL y fechas de publicaciones WEB4 concretas de LinkedIn y revisar el correo de otros buzones autorizados.
+### 3. Four conceptions of WEB4
 
-**EN:** A preserved 31 January 2026 ChatGPT export yields 1,871 user/assistant messages matching WEB4 across 76 conversations, not 1,871 independent proofs. On 19 September 2025 at 22:05:23 UTC the founder writes (English translation): “I think we could indeed be creating a Web4: a web with an ethical layer.” A message at 22:06:58 refers to v1.0, whose original artifact remains to be located. On 20 September there are LinkedIn drafts linking Web4 to operational ethics, versioning, traceability and the Common Good; on 25 September there is Astro page code and an authorship statement. Drafts do not establish actual publication. Sent mail dated 25 August describes human–machine symbiosis, open synthesis and human decision-making; 12 September mail forwards LinkedIn articles about the wider framework, without explicit WEB4 mentions in the inspected bodies. The original source and selected records are preserved locally; source SHA-256: `ee7cbda0aba081f47864b281aa838841fec01df09a63f9cb81b5ec2faafcba55`. The 12 September email was addressed to MasOrange. The private records and identifiers remain locally protected. Private development, communication to third parties and public GitHub fixation are distinguished. This moves the earliest explicit formulation found to September 2025, around five months before Wen, while access, derivation and plagiarism remain unproven. Direct LinkedIn publication dates and other authorized mailboxes remain to be checked.
+| Proposal | Central idea | Relevant difference |
+| --- | --- | --- |
+| **European Commission, 2023** | An integrated physical and digital environment governed by European rights and values. | Public policy framework, not equivalent to SAN. |
+| **Jeffy Yu, 2024** | A network integrating social interaction, decentralisation and autonomous intelligent agents. | Anticipates the agentic web and human–machine coexistence. |
+| **Innova_N, 2025** | The public layer of a human–AI symbiotic architecture with ethical purpose. | Knowledge, cooperation and the Common Good guide technological means. |
+| **Wen / Conway, 2026; Gate's account** | Agents able to act and fund their activity; human–AI and physical–digital integration. | Gate also considers human-defined limits and risks of full autonomy. Its economic emphasis is on agents. |
 
-<!-- NEO_WEB4_COLLABORATION_START -->
+The most significant similarity is not the name WEB4 alone. Gate explicitly presents a symbiotic web, while Innova_N already linked WEB4 to a human–AI symbiotic system in 2025. Yu is an antecedent for the agentic web and human–machine coexistence; not every idea of symbiosis or collaboration with AI can therefore be attributed to Innova_N.
 
-## WEB4™ / Gate / Conway · colaboración y genealogía / collaboration and provenance
+### 4. Whole-framework comparison
 
-**[Auditoría / Audit](../../auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md) · [Delta](../../actualizaciones/2026-11-27_DELTA_AUDITORIA_WEB4_GATE_CONWAY_ES_EN.md) · [Mapa relacional / Relations map](../../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md) · [Síntesis Abierta / Open Synthesis #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214)**
+Innova_N is more than a proposal for the Internet: it integrates philosophy, a working method, technology and cultural participation. This comparison distinguishes the [2025 document](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/70fa8fd2d3d9e6135ae7dadd865da29c7eabd499/README.md) from the [later public specification](../../web4/README.md). Gate's editorial account does not disclose every aspect of Conway's implementation.
 
-**ES:** Enviadas dos propuestas de colaboración el 27/11/2026; pendientes de respuesta. Precedencia específica respecto a Wen, no exclusividad de WEB4 ni derivación demostrada. Colaboración con el marco original, reconocimiento recíproco de autoría e independencia, comparación de arquitecturas y posible piloto.
+| Dimension | Innova_N | Gate / Conway | Assessment |
+| --- | --- | --- | --- |
+| Agency and purpose | Human–AI cooperation, Common Good, knowledge and culture. | Economically autonomous agents; humans design and set limits. | Difference of emphasis and purpose, not absolute opposition. |
+| Knowledge method | Neodialectical Open Synthesis (SAN): scrutiny, objections and revisable synthesis. | Agent reasoning and instrumental evolution. | No equivalent method to SAN established. |
+| Technological system | NEOCore and NAVE: integrated coordination, memory and continuity. | Conway enables agents to act; Automaton executes. | Functional analogy; architectural identity unproven. |
+| Memory and authorship | Identity, genealogy, versions and provenance of knowledge. | Agent identity and semantic networks. | Partial overlap; component-level priority unresolved. |
+| Infrastructure | Distributed computing and resource coordination. | Paid computing and distributed networks. | General technological analogy. |
+| Economics | Recognition of verified contributions; economic mechanisms under development. | Agents generating revenue and paying for services. | Different valuation criteria; equivalence unproven. |
+| Limits and governance | Neoaxioms, open review and human stewardship. | Human-defined limits, risk controls and Constitutional AI references. | General overlap, not evidence of derivation. |
+| Culture, art and education | Integration into a multidimensional civilisational architecture. | Described productive and commercial applications. | Whole-framework equivalence unproven. |
 
-**EN:** Two collaboration proposals sent on 27 November 2026; responses pending. Specific precedence relative to Wen, not exclusivity of WEB4 or demonstrated derivation. Collaboration with the original framework, reciprocal recognition of authorship and independence, architectural comparison and a possible pilot.
+The underlying philosophical difference: **being able to act is not the same as knowing what is worth doing**. Agent autonomy is a capability. Purpose, consequences and the legitimacy of decisions require interpretation and accountability.
+
+### 5. Innova_N evidence: what can be checked
+
+The [November 2025 README](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/70fa8fd2d3d9e6135ae7dadd865da29c7eabd499/README.md) explicitly connects NEOCore, a living human–AI symbiotic system and WEB4 as the public layer. The [10 December document](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/03add05dad6d65296e66f29c9a42569fb3324d55) expands the institutional context. These are the principal public references for this comparison.
+
+According to the documented 27 November review, the private archive exported on 31 January 2026 contains the founder's formulation on **19 September 2025 at 22:05:23 UTC**: “I think we could indeed be creating a Web4: a web with an ethical layer” (translation).
+
+The 20 September records contain LinkedIn drafts and the 25 September records include WEB4 page material and an authorship statement. They do not prove publication at the time. A later message referring to version v1.0 does not replace the original artefact, which remains to be located.
+
+Preserved correspondence from 25 August 2025 discusses human–machine symbiosis and SAN; the 12 September correspondence forwards framework publications without explicit WEB4 references in the inspected bodies. These records contextualise earlier development without establishing access by Gate or Conway.
+
+The local review counted 1,871 messages containing WEB4 across 76 conversations. This counts mentions, not publications or independent proofs. The source archive is privately preserved; SHA-256: `ee7cbda0aba081f47864b281aa838841fec01df09a63f9cb81b5ec2faafcba55`. Private correspondence is not published.
+
+### 6. Findings and open questions
+
+| Claim | Status |
+| --- | --- |
+| Innova_N documented WEB4 and human–AI symbiosis before Wen's manifesto. | Supported by dated 2025 documents. |
+| Innova_N invented the term WEB4 or the agentic web. | Not established; antecedents exist in 2023 and 2024. |
+| Gate and Conway share conceptual elements with Innova_N. | Similarity established; component-level extent requires further scrutiny. |
+| Gate or Conway knew of and derived work from Innova_N. | Not demonstrated. |
+| Textual or code plagiarism or legal infringement occurred. | Not demonstrated. |
+
+Three explanations remain open: direct or indirect derivation, independent convergence on shared antecedents, or naming overlap with architectural divergence. Distinguishing them requires earlier versions, verifiable dates, evidence of transmission and comparison of specific traits. There is no evidence of a Huawei connection; intent should not be attributed on the basis of a person's name or identity.
+
+The philosophical hypothesis of fragmentation — adopting parts of an architecture without its ethical foundation — merits examination regardless of whether copying occurred. Innova_N's framework should be assessed by its integrated composition, not an unproven claim to exclusivity over every element.
+
+### 7. Collaboration and recognition
+
+On 27 November, proposals were sent to Gate (23:58:06 CET) and Conway Research (23:58:12 CET), verified in sent mail. They proposed editorial and scientific collaboration with Gate and a technical meeting with Conway, interoperability and a possible pilot. These are not plagiarism claims, and no agreement has been established.
+
+The invitation is to scrutinise sources, preserve respective authorship and explore specific professional collaboration agreements. Any implementation work or pilot would require agreed scope, terms and recognition of pre-existing intellectual property.
+
+**[Participate in Open Synthesis #214](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214) · [Discover Innova_N](https://innova-n.org/) · [Professional enquiries](mailto:pedro.m.alhambra@innova-n.org)**
+
+---
+
+## Fundamentos / Framework references
+
+Relaciones con el marco neodialéctico; son vínculos analíticos, no pruebas de influencia causal. / Relationships to the Neodialectical framework; analytical connections, not evidence of causal influence.
 
 | Manifiesto / Manifesto | Relación / Relation |
 |---|---|
@@ -187,24 +214,14 @@ The founder's warning about fragmentation is a testable philosophical hypothesis
 
 [NeoGenealogía™](../../propuestas/sintesis-abierta/NEOGENEALOGIA_DETECCION_ANTECEDENTES_CONVERGENCIAS_ES_EN.md) · [RADAR-Π™](../../propuestas/sintesis-abierta/RADAR_PI_ANTECEDENTES_DIALECTICOS_ARQUETIPOS_RECURRENTES_ES_EN.md) · [#39](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/39) · [#136](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/136) · [#143](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/143) · [#147](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/147) · [#212](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/212). Las relaciones son analíticas, no pruebas causales / analytical links, not causal evidence.
 
-**Contraevidencia adicional / Additional counterevidence:** [Gate Learn · Web4: We Are AGI](https://www.gate.com/learn/articles/web4-we-are-agi/4867), republicación de Jeffy Yu de 2024, anterior al archivo de septiembre de 2025, vincula WEB4 con agentes e inteligencia descentralizada. Esto refuerza la necesidad de distinguir la composición ética y simbiótica específica de Innova_N de antecedentes genéricos. / This 2024 reprint of Jeffy Yu predates the September 2025 archive and links Web4 with agents and decentralised intelligence. Distinguish Innova_N's specific ethical and symbiotic composition from broader antecedents.
+## Registro de la auditoría / Audit record
 
-<!-- NEO_WEB4_COLLABORATION_END -->
+- [Versión íntegra anterior, conservada en Git / Previous full version, preserved in Git](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/59294d2265826d78e16ff5cf86cdd4d2f50d5c9d/auditorias/publicas/2026-11-27_auditoria_web4_gate_conway_marco_integral_ES_EN.md)
+- [Delta original de la auditoría / Original audit delta](../../actualizaciones/2026-11-27_DELTA_AUDITORIA_WEB4_GATE_CONWAY_ES_EN.md)
+- [Mapa de relaciones / Relations map](../../manifiestos/RELACIONES_TRABAJO_APLICADO_ES_EN.md)
+- [Protocolo de Síntesis Abierta / Open Synthesis protocol](../../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md)
+- [Auditoría Stanford/ACE](../../analisis/publicos/2026-04-01_stanford-ace-y-marco-previo-neodialectico.md)
 
-## Trazabilidad de comunicaciones / Communication traceability · 2026-11-27
+**Pendiente / Pending:** verificar primeras versiones de Gate, fechas concretas de publicaciones WEB4 en LinkedIn, localizar v1.0, comprobar la advertencia previa del fundador y contrastar precedencia por componente; registrar las respuestas y refutaciones. / Verify early Gate versions, specific LinkedIn WEB4 publication dates, locate v1.0, check the founder's reported prior warning and assess component-level precedence; record responses and rebuttals.
 
-**ES:** 27/11/2026: propuestas de colaboración enviadas desde la cuenta corporativa de Innova_N a Gate (23:58:06 CET; colaboración editorial y científica, solicitud de traslado a Jayne y Sam) y Conway Research (23:58:12 CET; propuesta a Sigil Wen de reunión técnica, interoperabilidad y posible piloto). Verificadas en Enviados de Gmail (22:58:06 y 22:58:12 UTC). Estado: enviadas; entrega, lectura, respuesta y aceptación no acreditadas. No constituyen reclamaciones por plagio. Identificadores de correo y contenido íntegro permanecen en el buzón privado.
-
-**EN:** 27 November 2026: collaboration proposals sent from Innova_N's corporate account to Gate (23:58:06 CET; editorial and research collaboration, request to forward to Jayne and Sam) and Conway Research (23:58:12 CET; technical meeting, interoperability and possible pilot proposed to Sigil Wen). Verified in Gmail Sent (22:58:06 and 22:58:12 UTC). Status: sent; delivery, reading, response and acceptance not established. They are not plagiarism claims. Email identifiers and full content remain in the private mailbox.
-
-**Siguiente paso / Next step:** registrar acuse, respuesta, refutación o propuesta de piloto cuando exista; ninguna alianza se considera acordada todavía. / Record acknowledgement, response, rebuttal or pilot proposal when available; no partnership is considered agreed yet.
-
-
-
-### Verificación adicional · 28/11/2026 / Additional verification
-
-ES: El texto de Jeffy Yu se conserva en Paragraph (enlace arriba), con traducción TechFlow fechada 18/11/2024, suficiente para acreditar anterioridad respecto a septiembre de 2025. La fecha original exacta de publicación no se deduce de la fecha de republicación. Gate muestra actualmente 04/11/2026 como última actualización de su republicación de Yu y 10/11/2026 para el artículo de Wen, no fechas de publicación inicial. La observación anterior de 25/03/2026 se conserva como registro previo, no como fecha vigente. No se ha recuperado la primera versión de Gate.
-
-EN: Yu's text is preserved on Paragraph (link above); the TechFlow translation dated 18 November 2024 is sufficient to establish precedence over September 2025. The exact original publication date cannot be inferred from a reprint. Gate currently displays 4 November 2026 for the Yu reprint and 10 November 2026 for the Wen article as last-update dates, not initial publication dates. The earlier observation of 25 March 2026 is retained as a prior record, not a current date. The first Gate version has not been recovered.
-
-</details>
+La reorganización editorial del 28/11/2026 integra las evidencias en la lectura principal, sin modificar la conclusión provisional ni borrar el historial. / The editorial reorganisation of 28 November 2026 integrates evidence into the main reading flow without altering the provisional finding or deleting history.
