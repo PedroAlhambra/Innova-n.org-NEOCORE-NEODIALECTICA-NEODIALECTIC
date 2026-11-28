@@ -67,6 +67,25 @@ count = len(ordered)
 
 text = README.read_text(encoding='utf-8')
 
+# Index regeneration must not delete explicit supplemental navigation (e.g.
+# a candidate neoaxiom). The first link is the generated manifesto route;
+# the first SAN/Issue link is the generated primary synthesis route. Other
+# links are retained in their original order with their labels unchanged.
+supplemental = {}
+for row in re.finditer(r'^- \*\*([IVXLCDM]+)\*\* · (.+)$', text, re.M):
+    links = list(re.finditer(r'\[([^\[\]\n]+)\]\(([^()\s]+)\)', row.group(2)))
+    extras = []
+    primary_seen = False
+    for link in links[1:]:
+        label, target = link.groups()
+        if not primary_seen and re.match(r'^(?:SAN|Issue|Síntesis Abierta|Open Synthesis)(?:\b|\s|#)', label, re.I) and target.startswith(ISSUE_BASE):
+            primary_seen = True
+            continue
+        if link.group(0) not in extras:
+            extras.append(link.group(0))
+    supplemental[row.group(1)] = extras
+
+
 issue_tail = ''
 if latest['issue']:
     issue_tail = f' · [Síntesis Abierta {latest_ord} · #{latest["issue"]} / Open Synthesis {latest_ord} · #{latest["issue"]}]({ISSUE_BASE}{latest["issue"]})'
@@ -107,6 +126,9 @@ for ord_ in ordered:
     line = f'- **{ord_}** · [{label}]({item["path"].name})'
     if item['issue']:
         line += f' · [SAN #{item["issue"]}]({ISSUE_BASE}{item["issue"]})'
+    for link in supplemental.get(ord_, []):
+        if link not in line:
+            line += ' · ' + link
     lines.append(line)
 lines.append('- **∞** · [Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)')
 collection = '\n'.join(lines) + '\n\n'

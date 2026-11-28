@@ -222,27 +222,9 @@ The answer is not another absolute narrator. It is an open method able to rememb
 
 ---
 
-<!-- NEO_CROSS_REFERENCES_START -->
+## Referencias / References
 
-## Referencias cruzadas canónicas / Canonical cross-references
-
-- [II · Síntesis Abierta / Open Synthesis](II_sintesis_abierta_neodialectica_ES_EN.md)
-- [IX · Memoria, Genealogía y Trazabilidad / Memory, Genealogy and Traceability](IX_memoria_genealogia_trazabilidad_ES_EN.md)
-- [XIX · Persistencia de la Memoria / Persistence of Memory](XIX_persistencia_de_la_memoria_ES_EN.md)
-- [XLVI · Cerrar la Herida / Closing the Wound](XLVI_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
-- [LI · Poder Cívico / Civic Power](LI_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md)
-- [LVIII · Inteligencia Civilizatoria / Civilisational Intelligence](LVIII_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md)
-- [LXXVII · Fenómeno y Narrativa / Phenomenon and Narrative](LXXVII_polarizacion_binaria_radicalizacion_reciproca_fenomeno_narrativa_ES_EN.md)
-- [LXXXIV · Permeabilidad Intelectual / Intellectual Permeability](LXXXIV_intermediacion_acceso_permeabilidad_poder_ES_EN.md)
-- [NAX-06 · Memoria de Ausencia / Memory of Absence](../../neoaxiomas/NAX-06_MEMORIA_AUSENCIA_ES_EN.md)
-- [NAX-25 · Fenómeno ≠ Narrativa / Phenomenon ≠ Narrative](../../neoaxiomas/NAX-25_FENOMENO_NO_ES_NARRATIVA_ES_EN.md)
-- [NAX-26 · Poder y Trazabilidad / Power and Traceability](../../neoaxiomas/NAX-26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md)
-- [NAX-27 · Soberanía de Síntesis / Synthesis Sovereignty](../../neoaxiomas/NAX-27_SOBERANIA_DIFERENCIADA_SISTEMA_SINTESIS_ES_EN.md)
-- [C-NAX-31 · Soberanía abierta de la memoria histórica compartida / Open Sovereignty of Shared Historical Memory](../../neoaxiomas/C-NAX-31_SOBERANIA_ABIERTA_MEMORIA_HISTORICA_COMPARTIDA_ES_EN.md)
-
-<!-- NEO_CROSS_REFERENCES_END -->
-
-## Precedentes externos y límites de originalidad / External precedents and originality limits
+### Precedentes externos y límites de originalidad / External precedents and originality limits
 
 Esta propuesta no reclama haber inventado la investigación histórica crítica, la multiperspectividad o la procedencia documental. Los incorpora como antecedentes independientes y propone su relación específica con SAN™, memoria versionada y arquitectura federable. / This proposal does not claim to have invented critical historical inquiry, multiperspectivity, or documentary provenance. It acknowledges these independent precedents and proposes their specific relation to SAN™, versioned memory, and federated architecture.
 
@@ -251,3 +233,33 @@ Esta propuesta no reclama haber inventado la investigación histórica crítica,
 - [W3C · PROV-DM, The PROV Data Model](https://www.w3.org/TR/prov-dm/)
 
 **Estado final de esta redacción / Final status of this draft:** manifiesto público de Síntesis Abierta; no afirma validación histórica universal, funcionamiento de un sistema WEB4 de memoria compartida, concesión de derechos jurídicos nuevos ni promoción canónica automática. / Open documentary proposal; does not claim universal historical validation, a running WEB4 shared-memory system, new legally granted rights, or automatic canonical promotion.
+
+<!-- NEO_CROSS_REFERENCES_START -->
+
+## Referencias cruzadas canónicas / Canonical cross-references
+
+> **Norma / Rule:** toda superficie relacional destinada a navegación debe usar hipervínculos reales; este bloque es un índice navegable adicional y no sustituye los enlaces de `Relaciones principales / Main relations`, Síntesis Abierta ni otras rutas explícitas. / Every relational surface intended for navigation must use real hyperlinks; this block is an additional navigable index and does not replace links in `Main relations`, Open Synthesis or other explicit routes.
+
+- **IX** · [Manifiesto de la Memoria, la Genealogía y la Trazabilidad / Manifesto of Memory, Genealogy and Traceability](IX_memoria_genealogia_trazabilidad_ES_EN.md)
+- **X** · [Manifiesto de WEB4™ · SistemaTrazable™ / Manifesto of WEB4™ · SistemaTrazable™](X_web4_sistematrazable_ES_EN.md)
+- **XIX** · [Manifiesto de la Persistencia de la Memoria™ / Manifesto of the Persistence of Memory™](XIX_persistencia_de_la_memoria_ES_EN.md)
+- **XLVI** · [Cerrar la Herida™ · Comprensión Evolutiva, Memoria y Reconciliación Civilizatoria / Closing the Wound™ · Evolutionary Understanding, Memory and Civilisational Reconciliation](XLVI_cerrar_la_herida_comprension_evolutiva_memoria_reconciliacion_ES_EN.md)
+- **LVIII** · [Inteligencia Civilizatoria™ · Democracia Cognitiva y Deber de Síntesis / Civilisational Intelligence™ · Cognitive Democracy and Duty of Synthesis](LVIII_inteligencia_civilizatoria_democracia_cognitiva_ES_EN.md)
+- **LXXVII** · [Contra la Polarización Binaria y la Radicalización Recíproca™ · Derecho a Reconocer el Problema sin Heredar su Narrativa / Against Binary Polarisation and Reciprocal Radicalisation™ · The Right to Recognise a Problem without Inheriting its Narrative](LXXVII_polarizacion_binaria_radicalizacion_reciproca_fenomeno_narrativa_ES_EN.md)
+- **LXXXIV** · [Manifiesto de la Permeabilidad Intelectual del Poder™ · Contra la captura opaca del acceso / Manifesto of the Intellectual Permeability of Power™ · Against opaque access capture](LXXXIV_intermediacion_acceso_permeabilidad_poder_ES_EN.md)
+
+### Capas y fuentes relacionadas / Related layers and sources
+
+- [Neoaxiomas™ / Neoaxioms™](../../neoaxiomas/README.md)
+- [NEOCore™ · marco / framework](../../README.md)
+
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-06` · `NAX-25` · `NAX-26` · `NAX-27` · `C-NAX-31` → [Neoaxiomas™](../../neoaxiomas/README.md)
+
+### Referencias publicadas conservadas / Preserved published references
+
+Enlaces previamente publicados que la regeneración automática no reproduce; no acreditan causalidad ni fijación canónica adicional. / Previously published links not reproduced by automatic regeneration; they do not establish causality or additional canonical fixation.
+
+- [II · Síntesis Abierta / Open Synthesis](II_sintesis_abierta_neodialectica_ES_EN.md)
+- [LI · Poder Cívico / Civic Power](LI_sintesis_abierta_poder_civico_complementario_sustitutivo_jefaturas_estado_ES_EN.md)
+
+<!-- NEO_CROSS_REFERENCES_END -->

@@ -22,17 +22,6 @@
 **Protocolo / Protocol:** [Aportar a SAN / Contribute to Open Synthesis](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md).
 **Continuidad / Continuity:** [LXXXVIII · Historia compartida / Shared History](88_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md) · [Índice / Index](README.md) · [C-NAX-32](../neoaxiomas/C-NAX-32_PRIMACIA_FINALIDAD_SOBRE_RECOMPENSA_ES_EN.md).
 
-<!-- NEO_CROSS_REFERENCES_START -->
-
-**Referencias cruzadas canónicas / Canonical cross-references**
-
-**ES:** [VII · Economía del Aporte](04_economia_del_aporte_ES_EN.md) · [X · WEB4](07_web4_sistematrazable_ES_EN.md) · [XXIX · Idolatría del dinero](29_idolatria_del_dinero_ES_EN.md) · [XXX · Fines y medios](30_coherencia_fines_medios_ES_EN.md) · [NAX-18](../neoaxiomas/NAX-18_MOTOR_BIEN_COMUN_NEOSINERGIA_ES_EN.md) · [NAX-24](../neoaxiomas/NAX-24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md) · [NAX-26](../neoaxiomas/NAX-26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md) · [C-NAX-32](../neoaxiomas/C-NAX-32_PRIMACIA_FINALIDAD_SOBRE_RECOMPENSA_ES_EN.md) · [SAN #212](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/212) · [Matriz](../propuestas/sintesis-abierta/2026-11-20_MATRIZ_FINALIDAD_RECOMPENSA_ES_EN.md).
-
-**EN:** [VII · Contribution Economy](04_economia_del_aporte_ES_EN.md) · [X · WEB4](07_web4_sistematrazable_ES_EN.md) · [XXIX · Idolatry of money](29_idolatria_del_dinero_ES_EN.md) · [XXX · Ends and means](30_coherencia_fines_medios_ES_EN.md) · [NAX-18](../neoaxiomas/NAX-18_MOTOR_BIEN_COMUN_NEOSINERGIA_ES_EN.md) · [NAX-24](../neoaxiomas/NAX-24_DIAGNOSTICO_NO_ES_SINTESIS_ES_EN.md) · [NAX-26](../neoaxiomas/NAX-26_PODER_TRAZABILIDAD_ACUSACION_EVIDENCIA_ES_EN.md) · [C-NAX-32](../neoaxiomas/C-NAX-32_PRIMACIA_FINALIDAD_SOBRE_RECOMPENSA_ES_EN.md) · [SAN #212](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/212) · [Matrix](../propuestas/sintesis-abierta/2026-11-20_MATRIZ_FINALIDAD_RECOMPENSA_ES_EN.md).
-
-<!-- NEO_CROSS_REFERENCES_END -->
-
-
 # ES · Castellano
 
 ## I. El momento en que el instrumento se convierte en amo
@@ -212,3 +201,25 @@ This manifesto extends, without rewriting, [VII · Contribution Economy](04_econ
 The proposal improves if a counterexample shows that a control creates more harm than benefit or that a proposed safeguard is redundant. Every change must preserve sources, genealogy, and reasoned dissent.
 
 ---
+
+<!-- NEO_CROSS_REFERENCES_START -->
+
+## Referencias cruzadas canónicas / Canonical cross-references
+
+> **Norma / Rule:** toda superficie relacional destinada a navegación debe usar hipervínculos reales; este bloque es un índice navegable adicional y no sustituye los enlaces de `Relaciones principales / Main relations`, Síntesis Abierta ni otras rutas explícitas. / Every relational surface intended for navigation must use real hyperlinks; this block is an additional navigable index and does not replace links in `Main relations`, Open Synthesis or other explicit routes.
+
+- **VII** · [Manifiesto de la Economía del Aporte / Manifesto of the Contribution Economy](./04_economia_del_aporte_ES_EN.md)
+- **X** · [Manifiesto de WEB4™ · SistemaTrazable™ / Manifesto of WEB4™ · SistemaTrazable™](./07_web4_sistematrazable_ES_EN.md)
+- **XXIX** · [Manifiesto contra la Idolatría del Dinero™ / Manifesto against the Idolatry of Money™](./29_idolatria_del_dinero_ES_EN.md)
+- **XXX** · [Manifiesto de la Coherencia entre Fines y Medios™ / Manifesto of Coherence between Ends and Means™](./30_coherencia_fines_medios_ES_EN.md)
+- **LXVI** · [NeoSinergia™ · Necesidad de Cooperación en Neowar™ Activa · Sistema MÉDICI™ · Leónidas–Cancerbero™ / NeoSynergy™ · Necessary Cooperation under Active Neowar™ · MÉDICI™ System · Leónidas–Cerberus™](./66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
+- **LXXXVIII** · [La historia no pertenece a quien la cuenta™ · Manifiesto por la Historia Común en Síntesis Abierta / History Does Not Belong to Its Narrator™ · Manifesto for Shared History through Open Synthesis](./88_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md)
+
+### Capas y fuentes relacionadas / Related layers and sources
+
+- [Neoaxiomas™ / Neoaxioms™](../neoaxiomas/README.md)
+- [NEOCore™ · marco / framework](../README.md)
+
+**Neoaxiomas mencionados / Mentioned Neoaxioms:** `NAX-18` · `NAX-24` · `NAX-26` · `C-NAX-32` → [Neoaxiomas™](../neoaxiomas/README.md)
+
+<!-- NEO_CROSS_REFERENCES_END -->

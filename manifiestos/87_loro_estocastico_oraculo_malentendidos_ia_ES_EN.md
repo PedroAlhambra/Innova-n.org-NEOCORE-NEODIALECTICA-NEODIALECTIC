@@ -1090,20 +1090,24 @@ The open question is:
 
 **Believe less? No. Believe more? No. Understand better.**
 
-
 <!-- NEO_CROSS_REFERENCES_START -->
 
 ## Referencias cruzadas canónicas / Canonical cross-references
 
 > **Norma / Rule:** toda superficie relacional destinada a navegación debe usar hipervínculos reales; este bloque es un índice navegable adicional y no sustituye los enlaces de `Relaciones principales / Main relations`, Síntesis Abierta ni otras rutas explícitas. / Every relational surface intended for navigation must use real hyperlinks; this block is an additional navigable index and does not replace links in `Main relations`, Open Synthesis or other explicit routes.
 
-- **LIII** · [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
 - **LXVI** · [NeoSinergia™ · Necesidad de Cooperación en Neowar™ Activa · Sistema MÉDICI™ · Leónidas–Cancerbero™ / NeoSynergy™ · Necessary Cooperation under Active Neowar™ · MÉDICI™ System · Leónidas–Cerberus™](./66_neosinergia_neowar_activa_medici_leonidas_cancerbero_ES_EN.md)
-- **LXXVI** · [El Altavoz sin Síntesis™ · Diagnóstico, Ruido, Ego y Responsabilidad de Construcción / The Loudspeaker without Synthesis™ · Diagnosis, Noise, Ego and the Responsibility to Build](./76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md)
-- **LXXIX** · [Manifiesto contra el Alarmismo sin Síntesis™ · Advertir obliga a construir / Manifesto against Alarmism without Synthesis™ · Warning Creates a Duty to Build](./79_contra_alarmismo_sin_sintesis_responsabilidad_alternativa_ES_EN.md)
 
 ### Capas y fuentes relacionadas / Related layers and sources
 
 - [NEOCore™ · marco / framework](../README.md)
+
+### Referencias publicadas conservadas / Preserved published references
+
+Enlaces previamente publicados que la regeneración automática no reproduce; no acreditan causalidad ni fijación canónica adicional. / Previously published links not reproduced by automatic regeneration; they do not establish causality or additional canonical fixation.
+
+- [Manifiesto Leónidas™ · Defensor de la Síntesis, la Auditoría Abierta y el Derecho a Traer Problemas / Leónidas™ Manifesto · Defender of Synthesis, Open Audit and the Right to Bring Problems](./53_leonidas_defensor_sintesis_auditoria_abierta_aportes_externos_ES_EN.md)
+- [El Altavoz sin Síntesis™ · Diagnóstico, Ruido, Ego y Responsabilidad de Construcción / The Loudspeaker without Synthesis™ · Diagnosis, Noise, Ego and the Responsibility to Build](./76_altavoz_sin_sintesis_diagnostico_ruido_ego_responsabilidad_construccion_ES_EN.md)
+- [Manifiesto contra el Alarmismo sin Síntesis™ · Advertir obliga a construir / Manifesto against Alarmism without Synthesis™ · Warning Creates a Duty to Build](./79_contra_alarmismo_sin_sintesis_responsabilidad_alternativa_ES_EN.md)
 
 <!-- NEO_CROSS_REFERENCES_END -->

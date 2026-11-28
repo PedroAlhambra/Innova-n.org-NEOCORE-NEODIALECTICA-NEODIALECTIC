@@ -1,6 +1,7 @@
 from pathlib import Path
 import json
 import re
+import posixpath
 
 ROOT = Path('.')
 MAN = ROOT / 'manifiestos'
@@ -30,6 +31,47 @@ def strip_generated(text):
     text = re.sub(re.escape(START) + r'.*?' + re.escape(END) + r'\s*', '', text, flags=re.S)
     text = re.sub(re.escape(LEGACY_START) + r'.*?' + re.escape(LEGACY_END) + r'\s*', '', text, flags=re.S)
     return text
+
+
+def link_key(target):
+    # Only normalize equivalent relative spellings, not fragments or external URLs.
+    if '://' in target or target.startswith(('#', 'mailto:')):
+        return target
+    path, sep, anchor = target.partition('#')
+    return posixpath.normpath(path) + sep + anchor
+
+
+def links_in(text):
+    return re.findall(r'\[([^\[\]\n]+)\]\(([^()\s]+)\)', text)
+
+
+def preserve_published_links(original, clean, generated):
+    """Carry forward existing published navigation, not inferred causal relations.
+
+    A generated block is replaceable, but curated links embedded in it are not
+    silently deleted. Existing links absent from the regenerated block and from
+    the remaining source are retained with their original label/destination.
+    Deletions require a separate explicit source edit, not automatic pruning.
+    """
+    prior = []
+    for start, end in ((START, END), (LEGACY_START, LEGACY_END)):
+        for match in re.finditer(re.escape(start) + r'.*?' + re.escape(end), original, re.S):
+            prior.extend(links_in(match.group(0)))
+    seen = {link_key(target) for _, target in links_in(clean + generated)}
+    keep = []
+    for label, target in prior:
+        key = link_key(target)
+        if key not in seen:
+            seen.add(key)
+            keep.append(f'- [{label}]({target})')
+    if not keep:
+        return generated
+    section = ('### Referencias publicadas conservadas / Preserved published references\n\n'
+               'Enlaces previamente publicados que la regeneración automática no reproduce; '
+               'no acreditan causalidad ni fijación canónica adicional. / Previously published '
+               'links not reproduced by automatic regeneration; they do not establish '
+               'causality or additional canonical fixation.\n\n' + '\n'.join(keep) + '\n\n')
+    return generated.replace(END, section + END, 1)
 
 
 def first_titles(text):
@@ -300,7 +342,7 @@ for p in files:
     own_ord = info[0]
     clean = normalize_relations_line(clean, own_ord)
     clean = normalize_synthesis_metadata(clean, own_ord).rstrip() + '\n\n'
-    new = clean + block_for(clean, own_ord)
+    new = clean + preserve_published_links(original, clean, block_for(clean, own_ord))
     if new != original:
         p.write_text(new, encoding='utf-8')
         changed.append(p.as_posix())

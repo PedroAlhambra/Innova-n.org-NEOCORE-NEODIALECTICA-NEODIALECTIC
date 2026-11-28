@@ -11,6 +11,7 @@ on:
       - '.github/scripts/sync_latest_manifesto_feature.py'
       - '.github/scripts/audit_markdown_links_readmes.py'
       - '.github/workflows/sync-latest-manifesto-feature.yml'
+      - '.github/scripts/sync_documentation_transaction.sh'
 
 permissions:
   contents: write
@@ -26,28 +27,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
-      - name: Synchronise only marked latest-manifesto blocks
-        run: python .github/scripts/sync_latest_manifesto_feature.py
-      - name: Verify README link and canonical-state integrity
-        run: python .github/scripts/audit_markdown_links_readmes.py
-      - name: Verify no unrelated version or doctrine rewrite
-        run: |
-          set -euo pipefail
-          allowed='(^|/)README\.md$|^auditorias/publicas/2026-08-09_postcheck_LVI_no_control_readmes_enlaces_ES_EN\.md$'
-          unexpected="$(git diff --name-only | grep -Ev "$allowed" || true)"
-          test -z "$unexpected" || { echo "$unexpected"; exit 1; }
-          git diff --check
-      - name: Commit synchronized blocks when needed
-        run: |
-          set -euo pipefail
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -A
-          if git diff --cached --quiet; then
-            echo 'No changes required.'
-            exit 0
-          fi
-          git commit -m 'docs: synchronize latest manifesto README blocks'
-          git pull --rebase origin main
-          git push origin main
+      - name: Synchronize on current main with bounded retry and full gates
+        run: bash .github/scripts/sync_documentation_transaction.sh latest

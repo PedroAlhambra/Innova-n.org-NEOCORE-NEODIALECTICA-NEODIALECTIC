@@ -93,7 +93,7 @@
 - **LXXXVI** · [Manifiesto de la Federación Neodialéctica dentro del Network Framework™ / Manifesto of the Neodialectical Federation within the Network Framework™](86_federacion_neodialectica_network_framework_ES_EN.md) · [SAN #187](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/187)
 - **LXXXVII** · [El loro estocástico, el oráculo y otros animales imaginarios / The Stochastic Parrot, the Oracle and Other Imaginary Animals](87_loro_estocastico_oraculo_malentendidos_ia_ES_EN.md) · [SAN #202](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/202)
 - **LXXXVIII** · [La historia no pertenece a quien la cuenta™ · Manifiesto por la Historia Común en Síntesis Abierta / History Does Not Belong to Its Narrator™ · Manifesto for Shared History through Open Synthesis](88_historia_comun_sintesis_abierta_anticaptura_narrativa_ES_EN.md) · [SAN #210](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/210) · [C-NAX-31](../neoaxiomas/C-NAX-31_SOBERANIA_ABIERTA_MEMORIA_HISTORICA_COMPARTIDA_ES_EN.md)
-- **LXXXIX** · [La recompensa no es el fin™ · Manifiesto de la Custodia de la Finalidad / Reward Is Not the End™ · Manifesto for the Stewardship of Purpose](89_primacia_fines_sobre_recompensas_ES_EN.md) · [SAN](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/212) · [C-NAX-32](../neoaxiomas/C-NAX-32_PRIMACIA_FINALIDAD_SOBRE_RECOMPENSA_ES_EN.md)
+- **LXXXIX** · [La recompensa no es el fin™ · Manifiesto de la Custodia de la Finalidad / Reward Is Not the End™ · Manifesto for the Stewardship of Purpose](89_primacia_fines_sobre_recompensas_ES_EN.md) · [SAN #212](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/212) · [C-NAX-32](../neoaxiomas/C-NAX-32_PRIMACIA_FINALIDAD_SOBRE_RECOMPENSA_ES_EN.md)
 - **∞** · [Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md)
 
 > Ningún manifiesto equivale por sí solo al marco completo. / No single manifesto equals the complete framework.
@@ -125,7 +125,7 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 >
 > **LXXXIX · La recompensa no es el fin™ · Manifiesto de la Custodia de la Finalidad / Reward Is Not the End™ · Manifesto for the Stewardship of Purpose**
 >
-> **[Manifiesto LXXXIX / Manifesto LXXXIX](89_primacia_fines_sobre_recompensas_ES_EN.md) · [Síntesis Abierta LXXXIX / Open Synthesis LXXXIX](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/212)**
+> **[Manifiesto LXXXIX / Manifesto LXXXIX](89_primacia_fines_sobre_recompensas_ES_EN.md) · [Síntesis Abierta LXXXIX · #212 / Open Synthesis LXXXIX · #212](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/212)**
 
 > ## ∞ · PUERTA ABIERTA PERMANENTE / PERMANENT OPEN DOOR
 >
@@ -133,8 +133,7 @@ Los **Neoaxiomas™** expresan principios de alta estabilidad del NEOCore™ sin
 >
 > ∞ no cuenta como número finito: permanece siempre después del último manifiesto numerado. / ∞ is not a finite manifesto number: it always remains after the latest numbered manifesto.
 
-**Frontera canónica vigente / Current canonical frontier:** **89 manifiestos finitos bilingües · I–LXXXIX + Manifiesto ∞ / 89 finite bilingual manifestos · I–LXXXIX + Manifesto ∞**
-
+**Frontera canónica vigente / Current canonical frontier:** **89 manifiestos finitos bilingües · I–LXXXIX + Manifiesto ∞ / 89 finite bilingual manifestos · I–LXXXIX + Manifesto ∞**  
 **Fecha de fijación de esta frontera / Frontier fixation date:** 2026-09-06
 
 <!-- NEO_CROSS_REFERENCE_POLICY_START -->
@@ -173,7 +172,7 @@ Cada manifiesto dispone de un espacio público de contraste. / Each manifesto ha
 
 **Cualquier persona puede aportar a un nodo concreto con comprensión local suficiente.** No es necesario dominar el marco entero para preguntar, aportar experiencia, fuentes, evidencia, objeciones, contraejemplos, pruebas o mejoras. Para juzgar el marco completo se exige una profundidad proporcional de lectura y relación; por su complejidad actual, la ayuda de IA puede ser necesaria o altamente recomendable como memoria relacional, siempre con retorno a fuente.
 
-**Última síntesis finita / Latest finite synthesis:** [LXXXIX · La recompensa no es el fin / Reward Is Not the End](89_primacia_fines_sobre_recompensas_ES_EN.md) · [SAN / Open Synthesis](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/212)
+**Última síntesis finita / Latest finite synthesis:** [La recompensa no es el fin™ · Manifiesto de la Custodia de la Finalidad / Reward Is Not the End™ · Manifesto for the Stewardship of Purpose](89_primacia_fines_sobre_recompensas_ES_EN.md) · [Issue #212](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/212)  
 
 **Puerta permanente / Permanent door:** [Manifiesto de Neo0™ · Puerta Abierta del Fractal / Neo0™ Manifesto · Open Gate of the Fractal](INFINITO_neo0_puerta_abierta_fractal_leonidas_ES_EN.md) · [Issue #106](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/106)  
 **Cómo aportar / How to contribute:** [protocolo general / general protocol](../propuestas/sintesis-abierta/APORTAR_A_LA_SINTESIS_ES_EN.md) · [portal de auditorías / audit portal](../auditorias/publicas/README.md) · [portal SAN™](../propuestas/sintesis-abierta/README.md) · [índice completo / complete index](../propuestas/sintesis-abierta/INDICE_COMPLETO_SINTESIS_ABIERTAS_ES_EN.md)
