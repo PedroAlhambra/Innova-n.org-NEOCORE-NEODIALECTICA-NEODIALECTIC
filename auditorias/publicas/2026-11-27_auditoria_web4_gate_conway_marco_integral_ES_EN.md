@@ -12,12 +12,17 @@ Innova_N concibe WEB4 como la expresión pública de un marco de colaboración h
 
 ### Qué sabemos
 
+- **11/07/2023:** [Comisión Europea](https://digital-strategy.ec.europa.eu/en/news/towards-next-technological-transition-commission-presents-eu-strategy-lead-web-40-and-virtual), estrategia Web 4.0, mundos virtuales, valores y derechos humanos.
+- **18/11/2024 (como muy tarde):** Jeffy Yu, [texto original conservado](https://paragraph.com/@lljeffy/web4-we-are-agi), [traducción fechada de TechFlow](https://www.techflowpost.com/en-US/article/21651) y [republicación de Gate](https://www.gate.com/learn/articles/web4-we-are-agi/4867). Antecedente conceptual de WEB4 con agentes autónomos, Web3 y AGI.
 - **19/09/2025:** el fundador escribe en un archivo privado «una web4: una web con capa ética».
 - **26/11/2025:** el [documento público original](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/70fa8fd2d3d9e6135ae7dadd865da29c7eabd499/README.md) describe explícitamente WEB4 como capa pública de un sistema vivo de simbiosis humano–IA.
-- **17–18/02/2026:** se difunde el manifiesto de Sigil Wen sobre WEB4 y agentes autónomos.
+- **10/12/2025:** [documento Innova_N](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/03add05dad6d65296e66f29c9a42569fb3324d55) sobre Web4 y gobernanza.
+- **17–18/02/2026:** se difunde el manifiesto de Sigil Wen sobre WEB4 y agentes autónomos ([hilo 17/02](https://threadreaderapp.com/thread/2023877649475731671.html); [Decrypt 18/02](https://decrypt.co/358385/morning-minute-web-4-0-autonomous-ai-agents-powered-by-crypto)).
+- **05/08/2026:** [manifiesto específico WEB4 de Innova_N](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/01ad4504482df584eb314217169c76954c7e320e), posterior al de Wen.
+- **10/11/2026:** [artículo Gate](https://www.gate.com/es/learn/articles/what-is-web4-definition-ai-agents-symbiotic-web/16650), fecha de última actualización visible el 28/11; fecha inicial no acreditada.
 - **27/11/2026:** se envían propuestas de colaboración a Gate y Conway.
 
-La cronología acredita un antecedente público específico de Innova_N respecto al manifiesto de Wen. No demuestra acceso ni copia, y existen usos anteriores del término genérico Web 4.0.
+La cronología acredita un antecedente público específico de Innova_N respecto al manifiesto de Wen. No demuestra acceso ni copia, y existen antecedentes tanto nominales como conceptuales en 2023–2024; no demuestra prioridad de todos los componentes.
 
 ### Por qué importa
 
@@ -35,12 +40,17 @@ Innova_N conceives WEB4 as the public expression of a human–AI collaborative f
 
 ### What we know
 
+- **11 July 2023:** [European Commission](https://digital-strategy.ec.europa.eu/en/news/towards-next-technological-transition-commission-presents-eu-strategy-lead-web-40-and-virtual), Web 4.0 strategy, virtual worlds, human rights and values.
+- **18 November 2024 (at the latest):** Jeffy Yu, [preserved original text](https://paragraph.com/@lljeffy/web4-we-are-agi), [dated TechFlow translation](https://www.techflowpost.com/en-US/article/21651) and [Gate reprint](https://www.gate.com/learn/articles/web4-we-are-agi/4867). Conceptual antecedent for WEB4 with autonomous agents, Web3 and AGI.
 - **19 September 2025:** the founder writes “a web4: a web with an ethical layer” in a private archive (translation).
 - **26 November 2025:** the [original public document](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/blob/70fa8fd2d3d9e6135ae7dadd865da29c7eabd499/README.md) explicitly describes WEB4 as the public layer of a living human–AI symbiotic system.
-- **17–18 February 2026:** Sigil Wen's manifesto about WEB4 and autonomous agents circulates.
+- **10 December 2025:** [Innova_N document](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/03add05dad6d65296e66f29c9a42569fb3324d55) on Web4 and governance.
+- **17–18 February 2026:** Sigil Wen's manifesto about WEB4 and autonomous agents circulates ([17 February thread](https://threadreaderapp.com/thread/2023877649475731671.html); [Decrypt, 18 February](https://decrypt.co/358385/morning-minute-web-4-0-autonomous-ai-agents-powered-by-crypto)).
+- **5 August 2026:** [Innova_N's dedicated WEB4 manifesto](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/01ad4504482df584eb314217169c76954c7e320e), later than Wen's.
+- **10 November 2026:** [Gate article](https://www.gate.com/es/learn/articles/what-is-web4-definition-ai-agents-symbiotic-web/16650), last-update date visible on 28 November; initial publication not established.
 - **27 November 2026:** collaboration proposals are sent to Gate and Conway.
 
-The chronology documents a specific public antecedent of Innova_N relative to Wen's manifesto. It does not establish access or copying; the generic term Web 4.0 has earlier uses.
+The chronology documents a specific public antecedent of Innova_N relative to Wen's manifesto. It does not establish access or copying; there are both nominal and conceptual antecedents in 2023–2024; priority over every component is not established.
 
 ### Why it matters
 
@@ -71,7 +81,7 @@ El fundador de Innova_N recibió el 27/11/2026 un enlace a [Gate Learn](https://
 - 19/09/2025: formulación privada explícita de WEB4 como web con capa ética, en exportación conservada (véase addendum); no prueba de publicación en esa fecha.
 - 26/11/2025: [commit 70fa8fd2](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/70fa8fd2d3d9e6135ae7dadd865da29c7eabd499), README/LEEME y fragmentos: NEOCore v3.6, sistema vivo simbiótico humano–IA, WEB4™ como capa pública operativa; síntesis versionada. Es una fijación anterior a Wen, no prueba independiente de su fecha inicial de creación ni de lectura externa.
 - 10/12/2025: [commit 03add05d](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/03add05dad6d65296e66f29c9a42569fb3324d55): arquitectura NEOCore, Web4, diseño institucional y gobernanza.
-- 18/02/2026: manifiesto de Sigil Wen según Gate y [publicación contemporánea Decrypt](https://decrypt.co/358385/morning-minute-web-4-0-autonomous-ai-agents-powered-by-crypto%255C); [hilo de Wen](https://threadreaderapp.com/thread/2023877649475731671.html) muestra 17/02 (posible diferencia horaria; no resuelta).
+- 18/02/2026: manifiesto de Sigil Wen según Gate y [publicación contemporánea Decrypt](https://decrypt.co/358385/morning-minute-web-4-0-autonomous-ai-agents-powered-by-crypto); [hilo de Wen](https://threadreaderapp.com/thread/2023877649475731671.html) muestra 17/02 (posible diferencia horaria; no resuelta).
 - 25/03/2026: fecha de última actualización mostrada en [versión Gate sin ID](https://www.gate.com/es/learn/articles/what-is-web4-definition-ai-agents-symbiotic-web). Firma de la versión consultada: Jayne; traducción Sam.
 - 05/08/2026: [manifiesto WEB4™](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/01ad4504482df584eb314217169c76954c7e320e) amplía públicamente la identidad, genealogía y trazabilidad. No retroproyectar sus detalles a 2025.
 - 27/11/2026: detección y auditoría.
@@ -110,7 +120,7 @@ On 27 November 2026 the founder received the Gate Learn article and raised a hyp
 - 19 September 2025: explicit private formulation of WEB4 as a web with an ethical layer, in a preserved export (see addendum); not proof of publication on that date.
 - 26 November 2025: [commit 70fa8fd2](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/70fa8fd2d3d9e6135ae7dadd865da29c7eabd499), README/LEEME and fragments: NEOCore v3.6, living human–AI symbiotic system, WEB4 as public operational layer, versioned synthesis. This record precedes Wen; it does not independently prove initial creation or third-party access.
 - 10 December 2025: [commit 03add05d](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/03add05dad6d65296e66f29c9a42569fb3324d55): NEOCore, Web4, institutional design and governance.
-- 18 February 2026: Wen's manifesto according to Gate and [contemporary Decrypt reporting](https://decrypt.co/358385/morning-minute-web-4-0-autonomous-ai-agents-powered-by-crypto%255C); [thread mirror](https://threadreaderapp.com/thread/2023877649475731671.html) shows 17 February (possible timezone difference, unresolved).
+- 18 February 2026: Wen's manifesto according to Gate and [contemporary Decrypt reporting](https://decrypt.co/358385/morning-minute-web-4-0-autonomous-ai-agents-powered-by-crypto); [thread mirror](https://threadreaderapp.com/thread/2023877649475731671.html) shows 17 February (possible timezone difference, unresolved).
 - 25 March 2026: last update displayed by [Gate's alternate URL](https://www.gate.com/es/learn/articles/what-is-web4-definition-ai-agents-symbiotic-web); author Jayne, translator Sam.
 - 5 August 2026: [WEB4 manifesto](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/commit/01ad4504482df584eb314217169c76954c7e320e) expands public identity, genealogy and traceability. Do not backdate its details to 2025.
 - 27 November 2026: detection and audit.
@@ -189,5 +199,12 @@ The founder's warning about fragmentation is a testable philosophical hypothesis
 
 **Siguiente paso / Next step:** registrar acuse, respuesta, refutación o propuesta de piloto cuando exista; ninguna alianza se considera acordada todavía. / Record acknowledgement, response, rebuttal or pilot proposal when available; no partnership is considered agreed yet.
 
+
+
+### Verificación adicional · 28/11/2026 / Additional verification
+
+ES: El texto de Jeffy Yu se conserva en Paragraph (enlace arriba), con traducción TechFlow fechada 18/11/2024, suficiente para acreditar anterioridad respecto a septiembre de 2025. La fecha original exacta de publicación no se deduce de la fecha de republicación. Gate muestra actualmente 04/11/2026 como última actualización de su republicación de Yu y 10/11/2026 para el artículo de Wen, no fechas de publicación inicial. La observación anterior de 25/03/2026 se conserva como registro previo, no como fecha vigente. No se ha recuperado la primera versión de Gate.
+
+EN: Yu's text is preserved on Paragraph (link above); the TechFlow translation dated 18 November 2024 is sufficient to establish precedence over September 2025. The exact original publication date cannot be inferred from a reprint. Gate currently displays 4 November 2026 for the Yu reprint and 10 November 2026 for the Wen article as last-update dates, not initial publication dates. The earlier observation of 25 March 2026 is retained as a prior record, not a current date. The first Gate version has not been recovered.
 
 </details>
