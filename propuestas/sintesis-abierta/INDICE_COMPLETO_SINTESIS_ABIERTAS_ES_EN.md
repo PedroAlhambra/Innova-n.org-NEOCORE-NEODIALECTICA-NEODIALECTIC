@@ -230,7 +230,7 @@ ENTRAR EN UNA SÍNTESIS / ENTER A SYNTHESIS
 
 ---
 
-# 5 · WEB4™ · SistemaTrazable™
+# 5 · WEB4™ · SistemaTrazable™ / Traceable System™
 
 **WEB4™** es la capa pública relacional del marco. **SistemaTrazable™** nombra el principio operativo mediante el cual procedencia, relaciones, versiones, evidencia, decisiones, deltas y retornos deben poder reconstruirse y auditarse sin borrar genealogía.
 

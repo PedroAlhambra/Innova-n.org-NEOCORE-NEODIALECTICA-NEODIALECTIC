@@ -1,11 +1,14 @@
-# WEB4™: de los agentes autónomos a la simbiosis humano–IA
-**Auditoría comparativa de Innova_N, Jeffy Yu y Conway Research**
+# WEB4™: de los agentes autónomos a la simbiosis humano–IA / From autonomous agents to human–AI symbiosis
+**Auditoría comparativa de Innova_N, Jeffy Yu y Conway Research / Comparative audit of Innova_N, Jeffy Yu and Conway Research**
 
-Pedro Martínez Alhambra · Innova_N · 27–28 de noviembre de 2026
+Pedro Martínez Alhambra · Innova_N · 27–28/11/2026
 
-[Español](#español) · [English](#english) · [Fundamentos del marco / Framework references](#fundamentos--framework-references) · [Participar en el debate / Join the discussion](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214)
+[ES · Castellano](#es--castellano) · [EN · English](#en--english) · [Fundamentos del marco / Framework references](#relaciones--relations) · [Participar en el debate / Join the discussion](https://github.com/PedroAlhambra/Innova-n.org-NEOCORE-NEODIALECTICA-NEODIALECTIC/issues/214)
 
-## Español
+<a id="español"></a>
+<a id="resumen-en-español"></a>
+
+## ES · Castellano
 
 ### 1. Qué investigamos y por qué
 
@@ -95,7 +98,10 @@ La invitación es a contrastar fuentes, preservar las autorías respectivas y ex
 
 ---
 
-## English
+<a id="english"></a>
+<a id="english-summary"></a>
+
+## EN · English
 
 ### 1. What we are investigating and why
 
@@ -185,7 +191,9 @@ The invitation is to scrutinise sources, preserve respective authorship and expl
 
 ---
 
-## Fundamentos / Framework references
+<a id="fundamentos--framework-references"></a>
+
+## Relaciones / Relations
 
 Relaciones con el marco neodialéctico; son vínculos analíticos, no pruebas de influencia causal. / Relationships to the Neodialectical framework; analytical connections, not evidence of causal influence.
 
